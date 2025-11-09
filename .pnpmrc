@@ -1,0 +1,17 @@
+# Use exact versions instead of ranges
+save-exact=true
+
+# Auto install peer dependencies
+auto-install-peers=true
+
+# Use strict peer dependencies
+strict-peer-dependencies=false
+
+# Enable shamefully-hoist for better compatibility
+shamefully-hoist=true
+
+# Enable side effects cache for better performance
+side-effects-cache=true
+
+# Use highest resolution mode for better dependency resolution
+resolution-mode=highest

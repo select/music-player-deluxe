@@ -1,0 +1,103 @@
+<template>
+	<div
+		v-if="currentVideo"
+		class="fixed bottom-0 left-1/2 transform -translate-x-1/2 z-40 bg-primary-1 p-4 max-w-9xl rounded-xl mb-3"
+	>
+		<div class="max-w-7xl mx-auto flex items-center gap-4">
+			<!-- Video Thumbnail -->
+			<img
+				:src="currentVideo.thumbnail"
+				:alt="currentVideo.title"
+				class="w-12 h-9 object-cover rounded flex-shrink-0"
+			/>
+
+			<!-- Video Info -->
+			<div class="flex-1 min-w-0">
+				<h3 class="text-primary-4 font-medium text-sm line-clamp-1">
+					{{ currentVideo.title }}
+				</h3>
+				<p class="text-primary-3 text-xs line-clamp-1">
+					{{ currentVideo.channel }}
+				</p>
+			</div>
+
+			<!-- Controls -->
+			<div class="flex items-center gap-2">
+				<AppBtn
+					variant="secondary"
+					@click="onPrevious"
+					:disabled="!canPlayPrevious"
+					class="!p-2"
+				>
+					<div class="i-mdi-skip-previous w-4 h-4" />
+				</AppBtn>
+
+				<AppBtn variant="primary" @click="onTogglePlayPause" class="!p-2">
+					<div v-if="isPlaying" class="i-mdi-pause w-5 h-5" />
+					<div v-else class="i-mdi-play w-5 h-5" />
+				</AppBtn>
+
+				<AppBtn
+					variant="secondary"
+					@click="onNext"
+					:disabled="!canPlayNext"
+					class="!p-2"
+				>
+					<div class="i-mdi-skip-next w-4 h-4" />
+				</AppBtn>
+			</div>
+
+			<!-- Duration -->
+			<div class="text-primary-3 text-xs flex-shrink-0 hidden sm:block">
+				{{ currentVideo.duration }}
+			</div>
+
+			<!-- Close Button -->
+			<AppBtn variant="ghost" @click="onClose" class="!p-2">
+				<div class="i-mdi-close text-xl" />
+			</AppBtn>
+		</div>
+	</div>
+</template>
+
+<script setup lang="ts">
+import type { Video } from "~/types";
+
+const props = withDefaults(
+	defineProps<{
+		currentVideo?: Video | null;
+		isPlaying?: boolean;
+		canPlayPrevious?: boolean;
+		canPlayNext?: boolean;
+	}>(),
+	{
+		currentVideo: null,
+		isPlaying: false,
+		canPlayPrevious: false,
+		canPlayNext: false,
+	},
+);
+
+const emit = defineEmits<{
+	togglePlayPause: [];
+	previous: [];
+	next: [];
+	close: [];
+}>();
+
+const onTogglePlayPause = (): void => {
+	emit("togglePlayPause");
+};
+
+const onPrevious = (): void => {
+	emit("previous");
+};
+
+const onNext = (): void => {
+	emit("next");
+};
+
+const onClose = (): void => {
+	emit("close");
+};
+</script>

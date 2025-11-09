@@ -1,0 +1,36 @@
+{
+	"name": "music-playlist-view",
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview",
+		"postinstall": "nuxt prepare",
+		"deps:check": "pnpm outdated",
+		"deps:update": "pnpm update --latest",
+		"deps:audit": "pnpm audit",
+		"deps:dedupe": "pnpm dedupe"
+	},
+	"dependencies": {
+		"@nuxt/eslint": "1.10.0",
+		"@nuxt/test-utils": "3.20.1",
+		"eslint": "9.39.1",
+		"fuse.js": "7.1.0",
+		"googleapis": "^165.0.0",
+		"nuxt": "4.2.1",
+		"vue": "3.5.22",
+		"vue-router": "4.6.3",
+		"youtubei": "1.7.0"
+	},
+	"devDependencies": {
+		"@iconify/json": "2.2.404",
+		"@types/node": "24.10.0",
+		"@unocss/nuxt": "66.5.5",
+		"@unocss/preset-icons": "66.5.5",
+		"@unocss/reset": "66.5.5",
+		"musicbrainz-api": "0.26.0",
+		"unocss": "66.5.5"
+	}
+}
