@@ -38,7 +38,7 @@
 			<VideoGrid
 				:videos="displayVideos"
 				:highlight-video-id="currentlyPlayingVideoId"
-				@video-click="handleVideoClick"
+				@play="handleVideoClick"
 			/>
 		</div>
 	</div>

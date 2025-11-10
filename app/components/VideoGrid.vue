@@ -5,15 +5,17 @@
 		<div
 			v-for="(video, index) in videos"
 			:key="video.id"
-			class="relative group shadow-black hover:shadow-md hover:bg-zinc-900 flex flex-col gap-3 rounded-2xl hover:rounded-b-0 pa-2 transition-shadow duration-200 cursor-pointer"
+			class="relative group shadow-black hover:shadow-md hover:bg-zinc-900 flex flex-col gap-3 rounded-2xl hover:rounded-b-0 pa-2 transition-shadow duration-200"
 			:class="{
 				'outline-accent outline-2 outline-solid outline-bottom-0':
 					highlightVideoId === video.id,
 			}"
-			@click="$emit('video-click', video)"
 		>
 			<!-- Video Thumbnail -->
-			<div class="rounded-2xl overflow-hidden w-full aspect-video relative">
+			<div
+				class="rounded-2xl overflow-hidden w-full aspect-video relative cursor-pointer"
+				@click="$emit('play', video)"
+			>
 				<!-- Play Overlay -->
 				<div
 					class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity"
@@ -114,6 +116,6 @@ const props = withDefaults(
 );
 
 defineEmits<{
-	"video-click": [video: Video];
+	play: [video: Video];
 }>();
 </script>

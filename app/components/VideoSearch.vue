@@ -1,7 +1,9 @@
 <template>
-	<div class="flex flex-col gap-12 px-6">
-		<div class="flex justify-center items-center gap-6 w-3xl mx-auto">
-			<div class="grow overflow-hidden">
+	<div class="flex flex-col gap-8 sm:gap-12 px-4 sm:px-6">
+		<div
+			class="flex justify-center items-center gap-4 sm:gap-6 w-full max-w-7xl mx-auto"
+		>
+			<div class="flex-1 min-w-0 overflow-hidden">
 				<AppInputText
 					id="search"
 					v-model="searchQuery"
@@ -9,14 +11,14 @@
 					size="large"
 				/>
 			</div>
-			<div class="flex gap-3 items-center">
+			<div class="flex gap-2 sm:gap-3 items-center flex-shrink-0">
 				<AppBtn
 					icon="i-mdi-filter-variant"
 					variant="ghost"
 					size="medium"
 					@click="toggleFilters"
 				>
-					Filters
+					<span class="hidden sm:inline">Filters</span>
 				</AppBtn>
 				<AppBtn
 					v-if="isLocalhost"
@@ -24,9 +26,8 @@
 					icon="i-mdi-cog"
 					variant="ghost"
 					size="medium"
-					class="ml-2"
 				>
-					Admin
+					<span class="hidden sm:inline">Admin</span>
 				</AppBtn>
 			</div>
 		</div>

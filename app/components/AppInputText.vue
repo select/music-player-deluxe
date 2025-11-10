@@ -9,7 +9,7 @@
 			:placeholder="placeholder"
 			:disabled="disabled"
 			:required="required"
-			class="w-full min-w-sm rounded-lg bg-primary-1 text-accent border-0 transition-colors focus:outline-none disabled:opacity-50 disabled:cursor-not-allowed placeholder:text-accent-1"
+			class="w-full rounded-lg bg-primary-1 text-accent border-0 transition-colors focus:outline-none disabled:opacity-50 disabled:cursor-not-allowed placeholder:text-accent-1"
 			:class="{
 				// Size classes
 				'px-3 py-1 text-sm h-8': size === 'small',

@@ -1,7 +1,7 @@
 <template>
 	<div
 		v-if="isOpen"
-		class="fixed top-1/2 right-4 z-50 w-full max-w-xs -translate-y-1/2"
+		class="fixed top-20 sm:top-1/2 left-1/2 sm:left-auto right-auto sm:right-4 z-50 w-full max-w-xs -translate-x-1/2 sm:translate-x-0 sm:-translate-y-1/2"
 	>
 		<div class="bg-primary-1 rounded-2xl shadow-xl overflow-hidden">
 			<!-- Header -->
