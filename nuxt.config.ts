@@ -4,6 +4,7 @@ export default defineNuxtConfig({
 	devtools: { enabled: true },
 	modules: ["@unocss/nuxt", "@nuxt/eslint", "@nuxt/test-utils"],
 	app: {
+		baseURL: process.env.NODE_ENV === "production" ? "/music/" : "/",
 		head: {
 			htmlAttrs: {
 				class: "font-sans",
@@ -11,6 +12,11 @@ export default defineNuxtConfig({
 			bodyAttrs: {
 				class: "font-sans text-primary-2 bg-background leading-relaxed",
 			},
+		},
+	},
+	nitro: {
+		prerender: {
+			ignore: ["/admin"],
 		},
 	},
 });

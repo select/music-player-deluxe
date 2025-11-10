@@ -14,7 +14,7 @@ export default defineEventHandler(async (event) => {
 		}
 
 		// Define the file path for the cached song data
-		const songsDir = join(process.cwd(), "public", "songs");
+		const songsDir = join(process.cwd(), "server", "assets", "songs");
 		const filePath = join(songsDir, `${youtubeId}.json`);
 
 		try {
@@ -31,7 +31,8 @@ export default defineEventHandler(async (event) => {
 			// File doesn't exist or is corrupted
 			throw createError({
 				statusCode: 404,
-				statusMessage: "Song metadata not found. Try searching and matching first.",
+				statusMessage:
+					"Song metadata not found. Try searching and matching first.",
 			});
 		}
 	} catch (error: any) {

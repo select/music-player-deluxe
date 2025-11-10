@@ -27,7 +27,7 @@ export default defineEventHandler(async (event) => {
 		const { videoId, selectedMbid } = body;
 
 		// Define the file path for storing the matched data
-		const songsDir = join(process.cwd(), "public", "songs");
+		const songsDir = join(process.cwd(), "server", "assets", "songs");
 		const filePath = join(songsDir, `${videoId}.json`);
 
 		// Fetch recording details from MusicBrainz using the API library

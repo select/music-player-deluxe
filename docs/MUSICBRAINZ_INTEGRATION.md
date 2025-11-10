@@ -113,11 +113,11 @@ Gets previously matched and cached song metadata.
 
 ## File Storage
 
-Matched metadata is stored in `public/songs/` as JSON files:
+Matched metadata is stored in `server/assets/songs/` as JSON files:
 
 **File Structure:**
 ```
-public/songs/
+server/assets/songs/
 ├── dQw4w9WgXcQ.json    # YouTube video ID as filename
 ├── kJQP7kiw5Fk.json
 └── ...
@@ -290,7 +290,7 @@ Comprehensive error handling covers:
    - Check network connectivity
 
 3. **Cache Issues**
-   - Cached files are stored in `public/songs/`
+   - Cached files are stored in `server/assets/songs/`
    - Check file permissions if saving fails
    - Clear browser cache if UI shows stale data
 

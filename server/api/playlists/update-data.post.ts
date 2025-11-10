@@ -28,7 +28,7 @@ export default defineEventHandler(async (event) => {
 
 		// Define paths
 		const playlistsDir = join(process.cwd(), "public", "playlists");
-		const songsDir = join(process.cwd(), "public", "songs");
+		const songsDir = join(process.cwd(), "server", "assets", "songs");
 		const playlistFilePath = join(playlistsDir, `${playlistId}.json`);
 
 		// Read the playlist file
@@ -49,14 +49,14 @@ export default defineEventHandler(async (event) => {
 			const songFiles = await fs.readdir(songsDir);
 
 			for (const songFile of songFiles) {
-				if (songFile.endsWith('.json')) {
+				if (songFile.endsWith(".json")) {
 					try {
 						const songFilePath = join(songsDir, songFile);
 						const songContent = await fs.readFile(songFilePath, "utf-8");
 						const songData: MusicBrainzSongData = JSON.parse(songContent);
 
 						// Map by YouTube ID (filename without .json extension)
-						const youtubeId = songFile.replace('.json', '');
+						const youtubeId = songFile.replace(".json", "");
 						songDataMap.set(youtubeId, songData);
 					} catch (songError) {
 						console.warn(`Failed to read song file ${songFile}:`, songError);
@@ -122,7 +122,7 @@ export default defineEventHandler(async (event) => {
 			await fs.writeFile(
 				playlistFilePath,
 				JSON.stringify(updatedPlaylistData, null, 2),
-				"utf-8"
+				"utf-8",
 			);
 		} catch (writeError) {
 			throw createError({
@@ -137,13 +137,13 @@ export default defineEventHandler(async (event) => {
 			updatedVideos: updatedCount,
 			totalVideos: playlistData.videos.length,
 		} as UpdateDataResponse;
-
 	} catch (error: any) {
 		console.error("Error updating playlist music data:", error);
 
 		throw createError({
 			statusCode: error.statusCode || 500,
-			statusMessage: error.statusMessage || "Failed to update playlist music data",
+			statusMessage:
+				error.statusMessage || "Failed to update playlist music data",
 		});
 	}
 });

@@ -89,7 +89,7 @@ const loadFirstPlaylist = async (): Promise<void> => {
 
 		// Load the full playlist data with videos
 		const playlistResponse = await $fetch<Playlist>(
-			`/playlists/${firstPlaylistInfo?.fileName}`,
+			`/playlist/${firstPlaylistInfo?.fileName}`,
 		);
 
 		firstPlaylist.value = playlistResponse;

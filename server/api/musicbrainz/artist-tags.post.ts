@@ -21,7 +21,7 @@ export default defineEventHandler(async (event) => {
 		}
 
 		// Define the file path for the song data
-		const songsDir = join(process.cwd(), "public", "songs");
+		const songsDir = join(process.cwd(), "server", "assets", "songs");
 		const filePath = join(songsDir, `${youtubeId}.json`);
 
 		// Read existing song data
