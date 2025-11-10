@@ -4,7 +4,6 @@ export default defineNuxtConfig({
 	devtools: { enabled: true },
 	modules: ["@unocss/nuxt", "@nuxt/eslint", "@nuxt/test-utils"],
 	app: {
-		baseURL: process.env.NODE_ENV === "production" ? "/music/" : "/",
 		head: {
 			htmlAttrs: {
 				class: "font-sans",

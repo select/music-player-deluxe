@@ -30,7 +30,7 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Generate static site
-        run: pnpm generate
+        run: pnpm build:prod
 
       - name: Checkout target repository
         uses: actions/checkout@v4
