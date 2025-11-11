@@ -84,6 +84,21 @@
 					</p>
 				</div>
 
+				<!-- User and Created Date -->
+				<div class="flex items-center justify-between gap-3 mb-2">
+					<div class="flex items-center gap-2">
+						<div
+							class="w-4 h-4 rounded-full flex items-center justify-center text-white text-xs font-bold"
+							:style="{ backgroundColor: getUserColor(video.userId || ' ') }"
+						>
+							<span class="i-mdi-account text-xs" />
+						</div>
+					</div>
+					<p v-if="video.createdAt" class="text-gray-500 text-xs sm:text-sm">
+						{{ formatDate(video.createdAt) }}
+					</p>
+				</div>
+
 				<!-- Tags -->
 				<div v-if="video.tags && video.tags.length > 0" class="pt-2">
 					<div class="flex flex-wrap gap-1">
@@ -102,7 +117,11 @@
 </template>
 
 <script setup lang="ts">
+import dayjs from "dayjs";
+import relativeTime from "dayjs/plugin/relativeTime";
 import type { Video } from "../types";
+
+dayjs.extend(relativeTime);
 
 const props = withDefaults(
 	defineProps<{
@@ -118,4 +137,9 @@ const props = withDefaults(
 defineEmits<{
 	play: [video: Video];
 }>();
+
+// Format timestamp to readable date using dayjs
+const formatDate = (timestamp: number): string => {
+	return dayjs(timestamp).fromNow();
+};
 </script>

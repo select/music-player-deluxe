@@ -43,7 +43,6 @@
 						label="Artists"
 						placeholder="Search and select artists..."
 						:options="availableArtists"
-						help-text="Select multiple artists to filter by"
 					/>
 				</div>
 
@@ -55,14 +54,13 @@
 						label="Tags"
 						placeholder="Search and select tags..."
 						:options="availableTags"
-						help-text="Select multiple tags to filter by"
 					/>
 				</div>
 
 				<!-- Duration Filter -->
 				<div>
 					<label class="block text-sm font-medium mb-2">Duration</label>
-					<div class="flex gap-2">
+					<div class="flex flex-wrap gap-2">
 						<AppBtn
 							size="small"
 							:variant="selectedDuration === 'short' ? 'primary' : 'ghost'"
@@ -88,15 +86,45 @@
 				</div>
 			</div>
 
+			<!-- Users Filter -->
+			<div class="grid grid-cols-1 gap-4">
+				<div>
+					<label class="block text-sm font-medium mb-2">Users</label>
+					<div class="flex flex-wrap gap-2 max-h-32 overflow-y-auto">
+						<div
+							v-for="user in availableUsers"
+							:key="user.userId"
+							class="flex items-center gap-2 cursor-pointer p-2 hover:bg-primary-1 rounded-2xl transition-colors"
+							:class="{
+								'bg-primary-2': selectedUsers.includes(user.userId),
+							}"
+							@click="toggleUser(user.userId)"
+						>
+							<div
+								class="w-4 h-4 rounded-full flex items-center justify-center text-black text-xs font-bold"
+								:style="{ backgroundColor: user.color }"
+							>
+								<span class="i-mdi-account text-xs" />
+							</div>
+
+							<span class="text-xs text-primary-3 px-2 py-1 rounded-full">
+								{{ user.count }}
+							</span>
+						</div>
+					</div>
+				</div>
+			</div>
+
 			<!-- Sort Options Row -->
 			<div class="grid grid-cols-1 md:grid-cols-4 gap-4">
 				<div>
 					<label class="block text-sm font-medium mb-2">Sort By</label>
 					<select
 						v-model="sortBy"
-						class="w-full rounded-lg bg-primary-1 text-accent border border-primary-2 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-accent"
+						class="w-full rounded-lg bg-primary-1 text-primary-3 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-accent"
 					>
 						<option value="relevance">Relevance</option>
+						<option value="createdAt">Date Added (Latest First)</option>
 						<option value="title">Title A-Z</option>
 						<option value="artist">Artist A-Z</option>
 						<option value="duration">Duration</option>
@@ -149,8 +177,9 @@ const searchQuery = ref<string>("");
 const showFilters = ref<boolean>(false);
 const selectedArtists = ref<string[]>([]);
 const selectedTags = ref<string[]>([]);
+const selectedUsers = ref<string[]>([]);
 const selectedDuration = ref<string>("");
-const sortBy = ref<string>("relevance");
+const sortBy = ref<string>("createdAt");
 
 // Computed properties
 const totalVideos = computed(() => props.videos.length);
@@ -174,6 +203,25 @@ const availableTags = computed(() => {
 		}
 	});
 	return Array.from(tags).sort();
+});
+
+const availableUsers = computed(() => {
+	// Get unique users from videos array with their video counts
+	const userCounts = new Map<string | null, number>();
+
+	props.videos.forEach((video) => {
+		const userId = video.userId || null;
+		userCounts.set(userId, (userCounts.get(userId) || 0) + 1);
+	});
+
+	return Array.from(userCounts.entries())
+		.map(([userId, count]) => ({
+			userId: userId || "Anonymous",
+			originalUserId: userId,
+			count,
+			color: userId ? getUserColor(userId) : "#666666", // Gray color for anonymous users
+		}))
+		.sort((a, b) => b.count - a.count); // Sort by count descending
 });
 
 // Fuse.js configuration
@@ -228,6 +276,16 @@ const filterByDuration = (video: Video): boolean => {
 	}
 };
 
+// Toggle user filter
+const toggleUser = (userId: string): void => {
+	const index = selectedUsers.value.indexOf(userId);
+	if (index > -1) {
+		selectedUsers.value.splice(index, 1);
+	} else {
+		selectedUsers.value.push(userId);
+	}
+};
+
 // Main filtering logic
 const filteredVideos = computed<Video[]>(() => {
 	let results: Video[] = [];
@@ -256,6 +314,14 @@ const filteredVideos = computed<Video[]>(() => {
 		);
 	}
 
+	// Apply user filter
+	if (selectedUsers.value.length > 0) {
+		results = results.filter((video) => {
+			const userIdToCheck = video.userId || "Anonymous";
+			return selectedUsers.value.includes(userIdToCheck);
+		});
+	}
+
 	// Apply duration filter
 	results = results.filter(filterByDuration);
 
@@ -263,6 +329,15 @@ const filteredVideos = computed<Video[]>(() => {
 	if (sortBy.value !== "relevance" || !searchQuery.value.trim()) {
 		results.sort((a, b) => {
 			switch (sortBy.value) {
+				case "createdAt":
+					// Videos with createdAt come first
+					if (a.createdAt && !b.createdAt) return -1;
+					if (!a.createdAt && b.createdAt) return 1;
+					// Both have createdAt, sort by latest first
+					if (a.createdAt && b.createdAt) {
+						return b.createdAt - a.createdAt;
+					}
+					return 0;
 				case "title":
 					const titleA = a.musicTitle || a.title;
 					const titleB = b.musicTitle || b.title;
@@ -271,7 +346,6 @@ const filteredVideos = computed<Video[]>(() => {
 					const artistA = a.artist || "Unknown";
 					const artistB = b.artist || "Unknown";
 					return artistA.localeCompare(artistB);
-
 				case "duration":
 					return parseDuration(a.duration) - parseDuration(b.duration);
 				default:
@@ -301,8 +375,9 @@ const clearFilters = (): void => {
 	searchQuery.value = "";
 	selectedArtists.value = [];
 	selectedTags.value = [];
+	selectedUsers.value = [];
 	selectedDuration.value = "";
-	sortBy.value = "relevance";
+	sortBy.value = "createdAt";
 };
 
 // Emit filtered results whenever they change

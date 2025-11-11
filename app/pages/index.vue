@@ -93,7 +93,21 @@ const loadFirstPlaylist = async (): Promise<void> => {
 		);
 
 		firstPlaylist.value = playlistResponse;
-		displayVideos.value = playlistResponse.videos;
+		// Sort videos by createdAt (latest first), fallback to original order for videos without createdAt
+		const sortedVideos = [...playlistResponse.videos].sort((a, b) => {
+			// Videos with createdAt come first
+			if (a.createdAt && !b.createdAt) return -1;
+			if (!a.createdAt && b.createdAt) return 1;
+
+			// Both have createdAt, sort by latest first
+			if (a.createdAt && b.createdAt) {
+				return b.createdAt - a.createdAt;
+			}
+
+			// Neither have createdAt, maintain original order
+			return 0;
+		});
+		displayVideos.value = sortedVideos;
 	} catch (err: any) {
 		console.error("Error loading first playlist:", err);
 		error.value = err.data?.message || err.message || "Failed to load playlist";

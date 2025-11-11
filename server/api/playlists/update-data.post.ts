@@ -1,6 +1,11 @@
 import { promises as fs } from "fs";
 import { join } from "path";
-import type { Playlist, Video, MusicBrainzSongData } from "~/types";
+import type {
+	Playlist,
+	Video,
+	MusicBrainzSongData,
+	YouTubeLinkMetadata,
+} from "~/types";
 
 interface UpdateDataRequest {
 	playlistId: string;
@@ -27,8 +32,14 @@ export default defineEventHandler(async (event) => {
 		const { playlistId } = body;
 
 		// Define paths
-		const playlistsDir = join(process.cwd(), "public", "playlists");
+		const playlistsDir = join(process.cwd(), "public", "playlist");
 		const songsDir = join(process.cwd(), "server", "assets", "songs");
+		const metadataPath = join(
+			process.cwd(),
+			"server",
+			"assets",
+			"youtube_links_metadata.json",
+		);
 		const playlistFilePath = join(playlistsDir, `${playlistId}.json`);
 
 		// Read the playlist file
@@ -41,6 +52,19 @@ export default defineEventHandler(async (event) => {
 				statusCode: 404,
 				statusMessage: `Playlist ${playlistId} not found`,
 			});
+		}
+
+		// Read YouTube metadata to create a lookup map
+		const youtubeMetadataMap = new Map<string, YouTubeLinkMetadata>();
+		try {
+			const metadataContent = await fs.readFile(metadataPath, "utf-8");
+			const metadataArray: YouTubeLinkMetadata[] = JSON.parse(metadataContent);
+
+			for (const metadata of metadataArray) {
+				youtubeMetadataMap.set(metadata.videoId, metadata);
+			}
+		} catch (error) {
+			console.warn("Failed to read YouTube metadata:", error);
 		}
 
 		// Read all song files to create a lookup map
@@ -67,11 +91,16 @@ export default defineEventHandler(async (event) => {
 			console.warn("Failed to read songs directory:", error);
 		}
 
-		// Update videos with music data
+		// Update videos with music data and YouTube metadata
 		let updatedCount = 0;
 		const updatedVideos: Video[] = playlistData.videos.map((video) => {
 			const songData = songDataMap.get(video.id);
+			const youtubeMetadata = youtubeMetadataMap.get(video.id);
 
+			let updatedVideo = { ...video };
+			let hasChanges = false;
+
+			// Update with song data if available
 			if (songData) {
 				// Fuse artistTags and tags
 				const fusedTags: string[] = [];
@@ -89,25 +118,47 @@ export default defineEventHandler(async (event) => {
 				// Remove duplicates and sort
 				const uniqueTags = Array.from(new Set(fusedTags)).sort();
 
-				// Update video with music data
-				const hasChanges =
+				// Check for music data changes
+				const hasMusicChanges =
 					video.artist !== songData.artist ||
 					video.musicTitle !== songData.title ||
 					JSON.stringify(video.tags || []) !== JSON.stringify(uniqueTags);
 
-				if (hasChanges) {
-					updatedCount++;
+				if (hasMusicChanges) {
+					hasChanges = true;
 				}
 
-				return {
-					...video,
+				updatedVideo = {
+					...updatedVideo,
 					artist: songData.artist,
 					musicTitle: songData.title,
 					tags: uniqueTags.length > 0 ? uniqueTags : undefined,
 				};
 			}
 
-			return video;
+			// Update with YouTube metadata if available
+			if (youtubeMetadata) {
+				// Check for metadata changes
+				const hasMetadataChanges =
+					video.createdAt !== youtubeMetadata.datetime ||
+					video.userId !== youtubeMetadata.userId;
+
+				if (hasMetadataChanges) {
+					hasChanges = true;
+				}
+
+				updatedVideo = {
+					...updatedVideo,
+					createdAt: youtubeMetadata.datetime,
+					userId: youtubeMetadata.userId,
+				};
+			}
+
+			if (hasChanges) {
+				updatedCount++;
+			}
+			console.log("updatedVideo", updatedVideo);
+			return updatedVideo;
 		});
 
 		// Update the playlist data
@@ -133,7 +184,7 @@ export default defineEventHandler(async (event) => {
 
 		return {
 			success: true,
-			message: `Successfully updated ${updatedCount} videos with music data`,
+			message: `Successfully updated ${updatedCount} videos with music data and metadata`,
 			updatedVideos: updatedCount,
 			totalVideos: playlistData.videos.length,
 		} as UpdateDataResponse;
@@ -143,7 +194,8 @@ export default defineEventHandler(async (event) => {
 		throw createError({
 			statusCode: error.statusCode || 500,
 			statusMessage:
-				error.statusMessage || "Failed to update playlist music data",
+				error.statusMessage ||
+				"Failed to update playlist music data and metadata",
 		});
 	}
 });

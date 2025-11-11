@@ -1,6 +1,10 @@
 import { promises as fs } from "fs";
 import { join } from "path";
-import type { MusicBrainzSongData, ApiResponse } from "~/types";
+import type {
+	MusicBrainzSongData,
+	ApiResponse,
+	YouTubeLinkMetadata,
+} from "~/types";
 
 export default defineEventHandler(async (event) => {
 	try {
@@ -22,9 +26,36 @@ export default defineEventHandler(async (event) => {
 			const fileContent = await fs.readFile(filePath, "utf-8");
 			const songData: MusicBrainzSongData = JSON.parse(fileContent);
 
+			// Read YouTube metadata to get datetime and userId
+			const metadataPath = join(
+				process.cwd(),
+				"server",
+				"assets",
+				"youtube_links_metadata.json",
+			);
+			let youtubeMetadata: YouTubeLinkMetadata | undefined;
+
+			try {
+				const metadataContent = await fs.readFile(metadataPath, "utf-8");
+				const metadataArray: YouTubeLinkMetadata[] =
+					JSON.parse(metadataContent);
+				youtubeMetadata = metadataArray.find(
+					(item) => item.videoId === youtubeId,
+				);
+			} catch (metadataError) {
+				console.warn("Could not read YouTube metadata:", metadataError);
+			}
+
+			// Merge YouTube metadata with song data
+			const enhancedSongData: MusicBrainzSongData = {
+				...songData,
+				datetime: youtubeMetadata?.datetime,
+				userId: youtubeMetadata?.userId,
+			};
+
 			return {
 				success: true,
-				data: songData,
+				data: enhancedSongData,
 				cached: true,
 			} as ApiResponse<MusicBrainzSongData>;
 		} catch (error) {

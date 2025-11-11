@@ -7,7 +7,7 @@
 
 		<!-- Main Input Container -->
 		<div
-			class="relative rounded-lg bg-primary-1 border border-primary-2 focus-within:ring-2 focus-within:ring-accent focus-within:border-accent transition-colors"
+			class="relative rounded-lg bg-primary-1 focus-within:ring-2 focus-within:ring-accent focus-within:border-accent transition-colors"
 		>
 			<!-- Selected Items Display -->
 			<div
@@ -114,11 +114,6 @@
 			</div>
 		</div>
 
-		<!-- Help Text -->
-		<p v-if="helpText" class="mt-1 text-xs text-primary-3">
-			{{ helpText }}
-		</p>
-
 		<!-- Click Outside Handler -->
 		<div
 			v-if="showDropdown"
@@ -135,7 +130,6 @@ interface Props {
 	id?: string;
 	label?: string;
 	placeholder?: string;
-	helpText?: string;
 	options: string[];
 	modelValue: string[];
 	disabled?: boolean;

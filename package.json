@@ -17,9 +17,9 @@
 	"dependencies": {
 		"@nuxt/eslint": "1.10.0",
 		"@nuxt/test-utils": "3.20.1",
+		"dayjs": "1.11.19",
 		"eslint": "9.39.1",
 		"fuse.js": "7.1.0",
-		"googleapis": "^165.0.0",
 		"nuxt": "4.2.1",
 		"vue": "3.5.22",
 		"vue-router": "4.6.3",

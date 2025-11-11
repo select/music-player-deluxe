@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 318,
+  "videoCount": 319,
   "videos": [
     {
       "id": "49l2GK-EUWs",
@@ -16,7 +16,9 @@
       "tags": [
         "drum and bass",
         "uk"
-      ]
+      ],
+      "createdAt": 1762192326208,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "R7AokJa2YxE",
@@ -26,7 +28,9 @@
       "thumbnail": "https://i.ytimg.com/vi/R7AokJa2YxE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAPXISk6AkUEebxzRHYErbZyT3Vog",
       "url": "https://www.youtube.com/watch?v=R7AokJa2YxE",
       "artist": "TTSSFU",
-      "musicTitle": "Call U Back"
+      "musicTitle": "Call U Back",
+      "createdAt": 1762205958134,
+      "userId": "ba46fe05-9c43-41d3-b6f6-753d1eff4809"
     },
     {
       "id": "auzfTPp4moA",
@@ -49,7 +53,9 @@
         "pop",
         "rock",
         "synth-pop"
-      ]
+      ],
+      "createdAt": 1762240280163,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "imn8jY_UJg8",
@@ -63,7 +69,9 @@
       "tags": [
         "ambient techno",
         "microhouse"
-      ]
+      ],
+      "createdAt": 1762252021303,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "89Sqc0r3Tv8",
@@ -81,7 +89,9 @@
         "indietronica",
         "pop",
         "rock"
-      ]
+      ],
+      "createdAt": 1762254174881,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "xREl_68O-mw",
@@ -89,7 +99,9 @@
       "channel": "ProblembaerRecords",
       "duration": "3:36",
       "thumbnail": "https://i.ytimg.com/vi/xREl_68O-mw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDzK7LcOeHabdhmBbQPJ30tf4lZjA",
-      "url": "https://www.youtube.com/watch?v=xREl_68O-mw"
+      "url": "https://www.youtube.com/watch?v=xREl_68O-mw",
+      "createdAt": 1762270588957,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "UP9K4YJItzA",
@@ -99,7 +111,9 @@
       "thumbnail": "https://i.ytimg.com/vi/UP9K4YJItzA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBAapwPOpkJaLeMd_Wk3494D7DG6Q",
       "url": "https://www.youtube.com/watch?v=UP9K4YJItzA",
       "artist": "Dear Reader",
-      "musicTitle": "Smoke Machine"
+      "musicTitle": "Smoke Machine",
+      "createdAt": 1754958246565,
+      "userId": "aacdb97f-ca49-4af6-b84a-27b575a79f85"
     },
     {
       "id": "XOGWbaOOeCM",
@@ -120,7 +134,9 @@
         "sophisti-pop",
         "sophisticated rock",
         "yacht rock"
-      ]
+      ],
+      "createdAt": 1751370960980,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "ySb1f9zWJkQ",
@@ -135,7 +151,9 @@
         "classic rock",
         "hard rock",
         "rock"
-      ]
+      ],
+      "createdAt": 1751465058947,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "3R-zrySoHNk",
@@ -153,7 +171,9 @@
         "hard rock",
         "post-grunge",
         "rock"
-      ]
+      ],
+      "createdAt": 1751467382534,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "zgxL-khJ--Q",
@@ -163,7 +183,9 @@
       "thumbnail": "https://i.ytimg.com/vi/zgxL-khJ--Q/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gOAAoADigIMCAAQARhyIE0oPDAP&rs=AOn4CLBIdTA690HauzHjkqxtQQ89X2eI4A",
       "url": "https://www.youtube.com/watch?v=zgxL-khJ--Q",
       "artist": "George Benson",
-      "musicTitle": "Breezin’"
+      "musicTitle": "Breezin’",
+      "createdAt": 1751470523709,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "OVMbcAXhruY",
@@ -180,7 +202,9 @@
         "general mainstream rock",
         "melodic house & techno",
         "pop"
-      ]
+      ],
+      "createdAt": 1751473474360,
+      "userId": "9d7dd99f-aadd-4a04-88d9-ebf9872b5e3a"
     },
     {
       "id": "5bcEfJaOBHY",
@@ -190,7 +214,9 @@
       "thumbnail": "https://i.ytimg.com/vi/5bcEfJaOBHY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDDzKX2i24ycngp0Wg8GpU3NSjb9g",
       "url": "https://www.youtube.com/watch?v=5bcEfJaOBHY",
       "artist": "Gualtiero",
-      "musicTitle": "Gangsterdam"
+      "musicTitle": "Gangsterdam",
+      "createdAt": 1751476824705,
+      "userId": "43a461ed-77f2-4aff-a374-450d92a13c86"
     },
     {
       "id": "KxH4IvB2r4Q",
@@ -214,7 +240,9 @@
         "rave",
         "techno",
         "uk"
-      ]
+      ],
+      "createdAt": 1751584558536,
+      "userId": "1d2d2f9f-0d1a-47e7-8740-bf0ea0fe314e"
     },
     {
       "id": "cBJThzfZj-k",
@@ -227,7 +255,9 @@
       "musicTitle": "Fabulation For K",
       "tags": [
         "dance and electronica"
-      ]
+      ],
+      "createdAt": 1751628092390,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "WdXMBiEqJFo",
@@ -240,7 +270,9 @@
       "musicTitle": "In Reverse",
       "tags": [
         "idm"
-      ]
+      ],
+      "createdAt": 1751628156466,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "ntzs2J4ugcw",
@@ -248,7 +280,9 @@
       "channel": "Release - Topic",
       "duration": "4:09",
       "thumbnail": "https://i.ytimg.com/vi/ntzs2J4ugcw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBjp2-xaC6gt8VbJSsu7TzNtap-oA",
-      "url": "https://www.youtube.com/watch?v=ntzs2J4ugcw"
+      "url": "https://www.youtube.com/watch?v=ntzs2J4ugcw",
+      "createdAt": 1751630439791,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "2G4VidDLc2o",
@@ -256,7 +290,9 @@
       "channel": "Raze de Soare - Topic",
       "duration": "4:21",
       "thumbnail": "https://i.ytimg.com/vi/2G4VidDLc2o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLASJxs7zFAAICnopVFJxa2nF5x3Ug",
-      "url": "https://www.youtube.com/watch?v=2G4VidDLc2o"
+      "url": "https://www.youtube.com/watch?v=2G4VidDLc2o",
+      "createdAt": 1751642911273,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "D7DJDABIbGk",
@@ -287,7 +323,9 @@
         "leftfield",
         "progressive pop",
         "trip hop"
-      ]
+      ],
+      "createdAt": 1751670691064,
+      "userId": "f30e9b41-f628-4433-8602-eee6eb4ef525"
     },
     {
       "id": "hLXyoiApCAc",
@@ -295,7 +333,9 @@
       "channel": "Claudio Scolari - Topic",
       "duration": "3:38",
       "thumbnail": "https://i.ytimg.com/vi/hLXyoiApCAc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDijBPNtSxjf7V6TMGACccMclLV7w",
-      "url": "https://www.youtube.com/watch?v=hLXyoiApCAc"
+      "url": "https://www.youtube.com/watch?v=hLXyoiApCAc",
+      "createdAt": 1751713400558,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "417a8410GUQ",
@@ -305,7 +345,9 @@
       "thumbnail": "https://i.ytimg.com/vi/417a8410GUQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHKRbJIOrlMFDjVp2CR6NlzXj4OQ",
       "url": "https://www.youtube.com/watch?v=417a8410GUQ",
       "artist": "Dj BeBeDeRa",
-      "musicTitle": "Tarraxo Guetto Muita Liamba"
+      "musicTitle": "Tarraxo Guetto Muita Liamba",
+      "createdAt": 1751874765017,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "vogYl8g_6KU",
@@ -315,7 +357,9 @@
       "thumbnail": "https://i.ytimg.com/vi/vogYl8g_6KU/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARh_IDwoMTAP&rs=AOn4CLDit8cxkPCt9S_ievp-YDtj5Jkl8w",
       "url": "https://www.youtube.com/watch?v=vogYl8g_6KU",
       "artist": "The Circling Sun",
-      "musicTitle": "Jewel"
+      "musicTitle": "Jewel",
+      "createdAt": 1751914636018,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "k7-bdqr-2KA",
@@ -328,7 +372,9 @@
       "musicTitle": "Drückeberger",
       "tags": [
         "hip hop"
-      ]
+      ],
+      "createdAt": 1751973614065,
+      "userId": null
     },
     {
       "id": "gj2iGAifSNI",
@@ -341,7 +387,9 @@
       "musicTitle": "Take This Job and Shove It",
       "tags": [
         "country"
-      ]
+      ],
+      "createdAt": 1751987242843,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "QySirDr6aA8",
@@ -351,7 +399,9 @@
       "thumbnail": "https://i.ytimg.com/vi/QySirDr6aA8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC5q7cFFOwMXv4WQUXOrQY160v3kw",
       "url": "https://www.youtube.com/watch?v=QySirDr6aA8",
       "artist": "Billy Brooks",
-      "musicTitle": "Fourty Days"
+      "musicTitle": "Fourty Days",
+      "createdAt": 1751989008218,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "cOgShYm1F0U",
@@ -365,7 +415,9 @@
       "tags": [
         "ambient dub",
         "downtempo"
-      ]
+      ],
+      "createdAt": 1752079326555,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "AFiUsQR8n50",
@@ -375,7 +427,9 @@
       "thumbnail": "https://i.ytimg.com/vi/AFiUsQR8n50/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLApXekbauN_O6fx76eAO4LkyBG1sg",
       "url": "https://www.youtube.com/watch?v=AFiUsQR8n50",
       "artist": "The Lewis Express",
-      "musicTitle": "Cold Catch"
+      "musicTitle": "Cold Catch",
+      "createdAt": 1752183949398,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "8H_BoBhaI44",
@@ -388,7 +442,9 @@
       "musicTitle": "Scenic Byway",
       "tags": [
         "jazz"
-      ]
+      ],
+      "createdAt": 1752184094016,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "kMZO134c8zA",
@@ -398,7 +454,9 @@
       "thumbnail": "https://i.ytimg.com/vi/kMZO134c8zA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLANDFasEf33RBVUQnB2ouaaaKcMmA",
       "url": "https://www.youtube.com/watch?v=kMZO134c8zA",
       "artist": "I Am An Instrument",
-      "musicTitle": "The Way Ahead"
+      "musicTitle": "The Way Ahead",
+      "createdAt": 1752429488613,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "NGQcC9LE1i8",
@@ -418,7 +476,9 @@
         "post-alternative",
         "scottish",
         "trip hop"
-      ]
+      ],
+      "createdAt": 1752313631889,
+      "userId": "345b4f39-cbdb-4d83-badb-fc0b7582ec26"
     },
     {
       "id": "P_naI5abV78",
@@ -426,7 +486,9 @@
       "channel": "Steps Of Faith Foundation",
       "duration": "4:00",
       "thumbnail": "https://i.ytimg.com/vi/P_naI5abV78/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAvMY3yDIse6n5yWJA_iBJcQ4yz-A",
-      "url": "https://www.youtube.com/watch?v=P_naI5abV78"
+      "url": "https://www.youtube.com/watch?v=P_naI5abV78",
+      "createdAt": 1752331351248,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "Om0rYw6qzb8",
@@ -434,7 +496,9 @@
       "channel": "Quavo Huncho",
       "duration": "3:25",
       "thumbnail": "https://i.ytimg.com/vi/Om0rYw6qzb8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAqTCqgQpBqW8SH-aW3Jc4MEmhitw",
-      "url": "https://www.youtube.com/watch?v=Om0rYw6qzb8"
+      "url": "https://www.youtube.com/watch?v=Om0rYw6qzb8",
+      "createdAt": 1752397207847,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "V743bU9QQyU",
@@ -447,7 +511,9 @@
       "musicTitle": "Flickers in the Air of Night",
       "tags": [
         "to clean up"
-      ]
+      ],
+      "createdAt": 1752404654913,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "75O11W5EZAU",
@@ -476,7 +542,9 @@
         "instrumental",
         "progressive techno",
         "techno"
-      ]
+      ],
+      "createdAt": 1752404991963,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "oYw8dtNZWBQ",
@@ -486,7 +554,9 @@
       "thumbnail": "https://i.ytimg.com/vi/oYw8dtNZWBQ/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgBvgeAAtAFigIMCAAQARg_IF4ocjAP&rs=AOn4CLC5wrG3N7sDY2VelRZj_Fdo4ZUJFA",
       "url": "https://www.youtube.com/watch?v=oYw8dtNZWBQ",
       "artist": "Pothead",
-      "musicTitle": "You Should Talk"
+      "musicTitle": "You Should Talk",
+      "createdAt": 1752426773568,
+      "userId": "345b4f39-cbdb-4d83-badb-fc0b7582ec26"
     },
     {
       "id": "agFScIRmEIE",
@@ -496,7 +566,9 @@
       "thumbnail": "https://i.ytimg.com/vi/agFScIRmEIE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCbIqPRYzjxLUawhFyL1CbzFR_VIw",
       "url": "https://www.youtube.com/watch?v=agFScIRmEIE",
       "artist": "Jah Shaka",
-      "musicTitle": "People of Yoruba"
+      "musicTitle": "People of Yoruba",
+      "createdAt": 1752446252452,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "GNQ5a7fMWl4",
@@ -513,7 +585,9 @@
         "rocksteady",
         "roots reggae",
         "ska"
-      ]
+      ],
+      "createdAt": 1752446574471,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "taiub0SI2kQ",
@@ -526,7 +600,9 @@
       "musicTitle": "Never Give Your Heart Away",
       "tags": [
         "reggae"
-      ]
+      ],
+      "createdAt": 1752447059560,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "UMYcr68TGEU",
@@ -534,7 +610,9 @@
       "channel": "Release - Topic",
       "duration": "8:22",
       "thumbnail": "https://i.ytimg.com/vi/UMYcr68TGEU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB9tKoXgDmXqgIH4jxF6Hx6htQ1CQ",
-      "url": "https://www.youtube.com/watch?v=UMYcr68TGEU"
+      "url": "https://www.youtube.com/watch?v=UMYcr68TGEU",
+      "createdAt": 1752489039499,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "pDyl6I6ESSw",
@@ -544,7 +622,9 @@
       "thumbnail": "https://i.ytimg.com/vi/pDyl6I6ESSw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCYKaW40wWi3Out5494H3-s9tmqAA",
       "url": "https://www.youtube.com/watch?v=pDyl6I6ESSw",
       "artist": "Chris Hadfield",
-      "musicTitle": "Space Oddity"
+      "musicTitle": "Space Oddity",
+      "createdAt": 1752493784720,
+      "userId": "9d7dd99f-aadd-4a04-88d9-ebf9872b5e3a"
     },
     {
       "id": "H7qG0BjJmP4",
@@ -552,7 +632,9 @@
       "channel": "MOLIY",
       "duration": "3:00",
       "thumbnail": "https://i.ytimg.com/vi/H7qG0BjJmP4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCd6udPhG0dB2ZdKgqf39kmO3Nqhg",
-      "url": "https://www.youtube.com/watch?v=H7qG0BjJmP4"
+      "url": "https://www.youtube.com/watch?v=H7qG0BjJmP4",
+      "createdAt": 1752648415098,
+      "userId": "43a461ed-77f2-4aff-a374-450d92a13c86"
     },
     {
       "id": "UYMphbtpYFo",
@@ -562,7 +644,9 @@
       "thumbnail": "https://i.ytimg.com/vi/UYMphbtpYFo/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB1AaAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLCG--nnrHaJjvygGm8Q7m_qYJgyyQ",
       "url": "https://www.youtube.com/watch?v=UYMphbtpYFo",
       "artist": "Martinou",
-      "musicTitle": "Shimmer"
+      "musicTitle": "Shimmer",
+      "createdAt": 1752650191678,
+      "userId": "ba46fe05-9c43-41d3-b6f6-753d1eff4809"
     },
     {
       "id": "jRMzVMe18cA",
@@ -570,7 +654,9 @@
       "channel": "Live Legends",
       "duration": "7:23",
       "thumbnail": "https://i.ytimg.com/vi/jRMzVMe18cA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDKyO2x4PrKP-cx9Ns4Hnz2Cq_T0g",
-      "url": "https://www.youtube.com/watch?v=jRMzVMe18cA"
+      "url": "https://www.youtube.com/watch?v=jRMzVMe18cA",
+      "createdAt": 1752657410765,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "NAq0f6z5cY8",
@@ -590,7 +676,9 @@
         "experimental",
         "idm",
         "modern classical"
-      ]
+      ],
+      "createdAt": 1752845720396,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "jCehccEZzX4",
@@ -600,7 +688,9 @@
       "thumbnail": "https://i.ytimg.com/vi/jCehccEZzX4/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDS55HRjKImgx5f5rLGh9itcZyzFg",
       "url": "https://www.youtube.com/watch?v=jCehccEZzX4",
       "artist": "Black Sabbath",
-      "musicTitle": "Killing Yourself to Live"
+      "musicTitle": "Killing Yourself to Live",
+      "createdAt": 1753236029164,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "8lD5bfqzr6E",
@@ -623,7 +713,9 @@
         "pop-metal",
         "pop/rock",
         "rock"
-      ]
+      ],
+      "createdAt": 1753296807550,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "zIt_81M_Wqk",
@@ -644,7 +736,9 @@
         "indie rock",
         "pop",
         "rock"
-      ]
+      ],
+      "createdAt": 1753376975035,
+      "userId": "1d2d2f9f-0d1a-47e7-8740-bf0ea0fe314e"
     },
     {
       "id": "LCCiwPEdEpg",
@@ -654,7 +748,9 @@
       "thumbnail": "https://i.ytimg.com/vi/LCCiwPEdEpg/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgTIEEofzAP&rs=AOn4CLADT0HYY2o4itOJnUCDoE02xQQkXw",
       "url": "https://www.youtube.com/watch?v=LCCiwPEdEpg",
       "artist": "Ozzy Osbourne",
-      "musicTitle": "Dreamer"
+      "musicTitle": "Dreamer",
+      "createdAt": 1753380066237,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "y7lDQE4BvbY",
@@ -662,7 +758,9 @@
       "channel": "No name",
       "duration": "3:32",
       "thumbnail": "https://i.ytimg.com/vi/y7lDQE4BvbY/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgBzgWAAoQHigIMCAAQARhNIGAoZTAP&rs=AOn4CLD9cxxMwr-KqPHtDhdIbaAjJErxjw",
-      "url": "https://www.youtube.com/watch?v=y7lDQE4BvbY"
+      "url": "https://www.youtube.com/watch?v=y7lDQE4BvbY",
+      "createdAt": 1753527724071,
+      "userId": "990d31a4-a9f2-4481-a368-681c43cd78f3"
     },
     {
       "id": "X77lOh0TvpY",
@@ -672,7 +770,9 @@
       "thumbnail": "https://i.ytimg.com/vi/X77lOh0TvpY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBM8mlBkMzfTRXMzF7Gpg2j03XnmA",
       "url": "https://www.youtube.com/watch?v=X77lOh0TvpY",
       "artist": "Ian Carr",
-      "musicTitle": "Roots"
+      "musicTitle": "Roots",
+      "createdAt": 1753540787536,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "16y1AkoZkmQ",
@@ -682,7 +782,9 @@
       "thumbnail": "https://i.ytimg.com/vi/16y1AkoZkmQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBFp0kx5lp56ydHTErx7Ci1lHZ6AA",
       "url": "https://www.youtube.com/watch?v=16y1AkoZkmQ",
       "artist": "Boney M.",
-      "musicTitle": "Rasputin"
+      "musicTitle": "Rasputin",
+      "createdAt": 1753682208348,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "PDwwLILhzdg",
@@ -692,7 +794,9 @@
       "thumbnail": "https://i.ytimg.com/vi/PDwwLILhzdg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDNFuO1pGwyLb8S_MOxrQDCAN-t8Q",
       "url": "https://www.youtube.com/watch?v=PDwwLILhzdg",
       "artist": "Leroy \"Ace\" Miller",
-      "musicTitle": "Teacher"
+      "musicTitle": "Teacher",
+      "createdAt": 1753738063709,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "EueHJBnWHvU",
@@ -700,7 +804,9 @@
       "channel": "Todd Hannigan - Topic",
       "duration": "2:26",
       "thumbnail": "https://i.ytimg.com/vi/EueHJBnWHvU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC106xbVukfL8jWsFFOmsCqW3QLRQ",
-      "url": "https://www.youtube.com/watch?v=EueHJBnWHvU"
+      "url": "https://www.youtube.com/watch?v=EueHJBnWHvU",
+      "createdAt": 1753740190899,
+      "userId": "345b4f39-cbdb-4d83-badb-fc0b7582ec26"
     },
     {
       "id": "nzvFm2qsna4",
@@ -708,7 +814,9 @@
       "channel": "Darren D.C Cross",
       "duration": "8:11",
       "thumbnail": "https://i.ytimg.com/vi/nzvFm2qsna4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAdEuhaAl6j4GcVCE9VgT4wiQXSPw",
-      "url": "https://www.youtube.com/watch?v=nzvFm2qsna4"
+      "url": "https://www.youtube.com/watch?v=nzvFm2qsna4",
+      "createdAt": 1753858361462,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "zjFrpjAw1Uc",
@@ -723,7 +831,9 @@
         "reggae",
         "roots reggae",
         "ska"
-      ]
+      ],
+      "createdAt": 1753981608764,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "1HF6tHmekv4",
@@ -733,7 +843,9 @@
       "thumbnail": "https://i.ytimg.com/vi/1HF6tHmekv4/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIEkoNzAP&rs=AOn4CLBrD6_X1fIsidFlmIvAVQd4rIOPSQ",
       "url": "https://www.youtube.com/watch?v=1HF6tHmekv4",
       "artist": "The Lady of Rage",
-      "musicTitle": "Afro Puffs"
+      "musicTitle": "Afro Puffs",
+      "createdAt": 1753991742880,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "jpbK4tLQH_s",
@@ -746,7 +858,9 @@
       "musicTitle": "Summer in the City",
       "tags": [
         "sampled by 3"
-      ]
+      ],
+      "createdAt": 1754029498179,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "74TwbPLFhh0",
@@ -754,7 +868,9 @@
       "channel": "maxedl",
       "duration": "1:09",
       "thumbnail": "https://i.ytimg.com/vi/74TwbPLFhh0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA25SuXseH3rz3m-iP1sP4Nn6S4Wg",
-      "url": "https://www.youtube.com/watch?v=74TwbPLFhh0"
+      "url": "https://www.youtube.com/watch?v=74TwbPLFhh0",
+      "createdAt": 1754036049097,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "NDkB4KoPfwY",
@@ -764,7 +880,9 @@
       "thumbnail": "https://i.ytimg.com/vi/NDkB4KoPfwY/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARhlIFQoQjAP&rs=AOn4CLCyhj_kAXFscxwz8jrvRDDgB7Cf1g",
       "url": "https://www.youtube.com/watch?v=NDkB4KoPfwY",
       "artist": "Kettenkarussell",
-      "musicTitle": "You N Me"
+      "musicTitle": "You N Me",
+      "createdAt": 1754084377691,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "0Xa7Dp3-eYA",
@@ -772,7 +890,9 @@
       "channel": "The Kiffness",
       "duration": "3:11",
       "thumbnail": "https://i.ytimg.com/vi/0Xa7Dp3-eYA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD-vayNydq2-jikA_jqMzR8Fl1B7A",
-      "url": "https://www.youtube.com/watch?v=0Xa7Dp3-eYA"
+      "url": "https://www.youtube.com/watch?v=0Xa7Dp3-eYA",
+      "createdAt": 1754135136120,
+      "userId": "345b4f39-cbdb-4d83-badb-fc0b7582ec26"
     },
     {
       "id": "CUYboWbVe0A",
@@ -786,7 +906,9 @@
       "tags": [
         "downtempo",
         "folktronica"
-      ]
+      ],
+      "createdAt": 1754168162454,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "2YVvMfXXG7E",
@@ -803,7 +925,9 @@
         "hip hop",
         "memphis rap",
         "southern hip hop"
-      ]
+      ],
+      "createdAt": 1754345033608,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "G_Lsdk88AYM",
@@ -813,7 +937,9 @@
       "thumbnail": "https://i.ytimg.com/vi/G_Lsdk88AYM/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgTIC0ofzAP&rs=AOn4CLD56Ng7ycS9FK1NTyba-S6HfZXk-w",
       "url": "https://www.youtube.com/watch?v=G_Lsdk88AYM",
       "artist": "Róże Europy",
-      "musicTitle": "Jedwab"
+      "musicTitle": "Jedwab",
+      "createdAt": 1754386287111,
+      "userId": "f2371b6a-ac56-4b84-9321-a1444511a21d"
     },
     {
       "id": "pfyTm9S1GQA",
@@ -829,7 +955,9 @@
         "hard rock",
         "pop rock",
         "rock"
-      ]
+      ],
+      "createdAt": 1754401810011,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "VaGRtH7h4oA",
@@ -851,7 +979,9 @@
         "psychedelic rock",
         "psychedelic/garage",
         "rock"
-      ]
+      ],
+      "createdAt": 1754490431484,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "X7_sMQvYMJ8",
@@ -859,7 +989,9 @@
       "channel": "CriticalMusic",
       "duration": "3:35",
       "thumbnail": "https://i.ytimg.com/vi/X7_sMQvYMJ8/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhNIFQoZTAP&rs=AOn4CLAHCvTI36ndHfSm40_1olm5XpJG_w",
-      "url": "https://www.youtube.com/watch?v=X7_sMQvYMJ8"
+      "url": "https://www.youtube.com/watch?v=X7_sMQvYMJ8",
+      "createdAt": 1754504291126,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "_r8b9fq-EKA",
@@ -883,7 +1015,9 @@
         "minimal techno",
         "tech house",
         "techno"
-      ]
+      ],
+      "createdAt": 1754505678877,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "NNqOpqhcnlc",
@@ -893,7 +1027,9 @@
       "thumbnail": "https://i.ytimg.com/vi/NNqOpqhcnlc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC8FL8zOrC05XjB5GTrC0IULg022w",
       "url": "https://www.youtube.com/watch?v=NNqOpqhcnlc",
       "artist": "Lambert",
-      "musicTitle": "In the Dust of Our Days"
+      "musicTitle": "In the Dust of Our Days",
+      "createdAt": 1754518606593,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "sCJu71JxmbE",
@@ -901,7 +1037,9 @@
       "channel": "Juliane Werding",
       "duration": "3:14",
       "thumbnail": "https://i.ytimg.com/vi/sCJu71JxmbE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCqIhyGokXvmKWCBEHgfkzo3yr-WA",
-      "url": "https://www.youtube.com/watch?v=sCJu71JxmbE"
+      "url": "https://www.youtube.com/watch?v=sCJu71JxmbE",
+      "createdAt": 1754519099815,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "ve_kprQMHMk",
@@ -909,7 +1047,9 @@
       "channel": "DJ Koze - Topic",
       "duration": "10:33",
       "thumbnail": "https://i.ytimg.com/vi/ve_kprQMHMk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCYGJ6-bTVurVeVd1Ob7dMbhK5jmw",
-      "url": "https://www.youtube.com/watch?v=ve_kprQMHMk"
+      "url": "https://www.youtube.com/watch?v=ve_kprQMHMk",
+      "createdAt": 1754519161468,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "WMpZctvtAMY",
@@ -919,7 +1059,9 @@
       "thumbnail": "https://i.ytimg.com/vi/WMpZctvtAMY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDDE-FmeP0AfEuT3lwOBbqN7g8wKg",
       "url": "https://www.youtube.com/watch?v=WMpZctvtAMY",
       "artist": "Sully",
-      "musicTitle": "Werk"
+      "musicTitle": "Werk",
+      "createdAt": 1754692310412,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "7n3Q-3qxf6U",
@@ -929,7 +1071,9 @@
       "thumbnail": "https://i.ytimg.com/vi/7n3Q-3qxf6U/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA6uaqi9VlSfK1Q1A6QpTHM_DDKyA",
       "url": "https://www.youtube.com/watch?v=7n3Q-3qxf6U",
       "artist": "Simo Cell",
-      "musicTitle": "rapids"
+      "musicTitle": "rapids",
+      "createdAt": 1754711611834,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "zRSqT-Ahk14",
@@ -948,7 +1092,9 @@
         "electronica",
         "grime",
         "uk garage"
-      ]
+      ],
+      "createdAt": 1754711801435,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "0T-owlnvWBg",
@@ -967,7 +1113,9 @@
         "new jersey rap",
         "psychedelic rap",
         "wu fam"
-      ]
+      ],
+      "createdAt": 1754713138913,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "YVxXbTk-zsQ",
@@ -983,7 +1131,9 @@
         "hard trance",
         "rave",
         "techno"
-      ]
+      ],
+      "createdAt": 1754739046648,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "ub_5Xv6ZxB8",
@@ -991,7 +1141,9 @@
       "channel": "Joachim Spieth",
       "duration": "9:17",
       "thumbnail": "https://i.ytimg.com/vi/ub_5Xv6ZxB8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCwt6qwhyGctEXeE-gcEKnFT9SfRw",
-      "url": "https://www.youtube.com/watch?v=ub_5Xv6ZxB8"
+      "url": "https://www.youtube.com/watch?v=ub_5Xv6ZxB8",
+      "createdAt": 1754786856865,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "fGjK9VsI8W8",
@@ -1007,7 +1159,9 @@
         "producer",
         "uk",
         "uk garage"
-      ]
+      ],
+      "createdAt": 1754958438919,
+      "userId": "aacdb97f-ca49-4af6-b84a-27b575a79f85"
     },
     {
       "id": "kVanxNR5bv8",
@@ -1017,7 +1171,9 @@
       "thumbnail": "https://i.ytimg.com/vi/kVanxNR5bv8/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAXeK0_d2KKYlDjr3zaFQlYIuWtiA",
       "url": "https://www.youtube.com/watch?v=kVanxNR5bv8",
       "artist": "Dom Valentino",
-      "musicTitle": "Young Folks"
+      "musicTitle": "Young Folks",
+      "createdAt": 1754988397282,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "x6AL1XnHJZs",
@@ -1025,7 +1181,9 @@
       "channel": "TheRAREGROOVEMAN",
       "duration": "7:09",
       "thumbnail": "https://i.ytimg.com/vi/x6AL1XnHJZs/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgBvgeAAtAFigIMCAAQARhIIFooZTAP&rs=AOn4CLDKkxy5XuASzVesQJnpfd2ldhkIiA",
-      "url": "https://www.youtube.com/watch?v=x6AL1XnHJZs"
+      "url": "https://www.youtube.com/watch?v=x6AL1XnHJZs",
+      "createdAt": 1755099681288,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "PXa59Wjgrxc",
@@ -1033,7 +1191,9 @@
       "channel": "Awesome Agent Parodies",
       "duration": "7:01",
       "thumbnail": "https://i.ytimg.com/vi/PXa59Wjgrxc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDTtfMPeEPOpLuh_QgTZdNnZNz3Sg",
-      "url": "https://www.youtube.com/watch?v=PXa59Wjgrxc"
+      "url": "https://www.youtube.com/watch?v=PXa59Wjgrxc",
+      "createdAt": 1755119535840,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "3oQURjDmaNQ",
@@ -1041,7 +1201,9 @@
       "channel": "BBE TV",
       "duration": "3:53",
       "thumbnail": "https://i.ytimg.com/vi/3oQURjDmaNQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAdMiMbF0segsB5X0ygDoYwmhMG2g",
-      "url": "https://www.youtube.com/watch?v=3oQURjDmaNQ"
+      "url": "https://www.youtube.com/watch?v=3oQURjDmaNQ",
+      "createdAt": 1755209434077,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "-1hLD_oDCCc",
@@ -1055,7 +1217,9 @@
       "tags": [
         "drum and bass",
         "electronic"
-      ]
+      ],
+      "createdAt": 1755278072676,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "BGpzGu9Yp6Y",
@@ -1081,7 +1245,9 @@
         "tech house",
         "techno",
         "trap"
-      ]
+      ],
+      "createdAt": 1755278436949,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "Fnx-UmTBiGQ",
@@ -1091,7 +1257,9 @@
       "thumbnail": "https://i.ytimg.com/vi/Fnx-UmTBiGQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLARkVsyxSBAuMgr791YYQg6u2gENg",
       "url": "https://www.youtube.com/watch?v=Fnx-UmTBiGQ",
       "artist": "Sue Ellen",
-      "musicTitle": "Maneater"
+      "musicTitle": "Maneater",
+      "createdAt": 1755285977313,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "tcMxgbBMhyQ",
@@ -1104,7 +1272,9 @@
       "musicTitle": "Cruisin'",
       "tags": [
         "jazz"
-      ]
+      ],
+      "createdAt": 1755410938644,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "fvSdPFYz9Go",
@@ -1117,7 +1287,9 @@
       "musicTitle": "Tangles",
       "tags": [
         "no wave"
-      ]
+      ],
+      "createdAt": 1755462089128,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "LCzgsZi_zfg",
@@ -1133,7 +1305,9 @@
         "classic pop and rock",
         "english",
         "uk"
-      ]
+      ],
+      "createdAt": 1755471976810,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "MV_3Dpw-BRY",
@@ -1152,7 +1326,9 @@
         "synth-pop",
         "synthpop",
         "synthwave"
-      ]
+      ],
+      "createdAt": 1755681461693,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "h9aFh2Z-5ec",
@@ -1166,7 +1342,9 @@
       "tags": [
         "drum and bass",
         "neurofunk"
-      ]
+      ],
+      "createdAt": 1755694041012,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "vbAtEjpxr9s",
@@ -1174,7 +1352,9 @@
       "channel": "CLUBJERSEY LABEL",
       "duration": "3:25",
       "thumbnail": "https://i.ytimg.com/vi/vbAtEjpxr9s/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDM-A-xGsS_wIZJG5x5H_eS7G2POw",
-      "url": "https://www.youtube.com/watch?v=vbAtEjpxr9s"
+      "url": "https://www.youtube.com/watch?v=vbAtEjpxr9s",
+      "createdAt": 1755697481899,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "z1xxdgtWxmw",
@@ -1187,7 +1367,9 @@
       "musicTitle": "Dog Dribble",
       "tags": [
         "slacker rock"
-      ]
+      ],
+      "createdAt": 1755700348303,
+      "userId": null
     },
     {
       "id": "14lQqDecueY",
@@ -1195,7 +1377,9 @@
       "channel": "honigdachs",
       "duration": "4:03",
       "thumbnail": "https://i.ytimg.com/vi/14lQqDecueY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAUEq0zGFBpey8go4KTqw-Ehn212A",
-      "url": "https://www.youtube.com/watch?v=14lQqDecueY"
+      "url": "https://www.youtube.com/watch?v=14lQqDecueY",
+      "createdAt": 1755725927111,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "rTVjnBo96Ug",
@@ -1216,7 +1400,9 @@
         "rhythm & blues",
         "soul",
         "southern soul"
-      ]
+      ],
+      "createdAt": 1755803449446,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "KxDqK1QI6Yg",
@@ -1234,7 +1420,9 @@
         "soul and reggae",
         "trip hop",
         "uk"
-      ]
+      ],
+      "createdAt": 1755871011543,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "BzAGX_4W1WQ",
@@ -1242,7 +1430,9 @@
       "channel": "EddyGrantOfficial",
       "duration": "5:24",
       "thumbnail": "https://i.ytimg.com/vi/BzAGX_4W1WQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBovqcaeQTx3CpbWjyJ5KBkJLPWwg",
-      "url": "https://www.youtube.com/watch?v=BzAGX_4W1WQ"
+      "url": "https://www.youtube.com/watch?v=BzAGX_4W1WQ",
+      "createdAt": 1755890640031,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "J8DBn7C56ms",
@@ -1252,7 +1442,9 @@
       "thumbnail": "https://i.ytimg.com/vi/J8DBn7C56ms/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB_ozjZ1PPZ6FRtGWGPKAvrp24koA",
       "url": "https://www.youtube.com/watch?v=J8DBn7C56ms",
       "artist": "Gaspar OM",
-      "musicTitle": "Tengo mezcla / Maneiras"
+      "musicTitle": "Tengo mezcla / Maneiras",
+      "createdAt": 1755892920275,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "D2DTqwh7-2w",
@@ -1262,7 +1454,9 @@
       "thumbnail": "https://i.ytimg.com/vi/D2DTqwh7-2w/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIFAoTjAP&rs=AOn4CLAlXAcO6QCjJVlER8H6EH2KTPXCvQ",
       "url": "https://www.youtube.com/watch?v=D2DTqwh7-2w",
       "artist": "Kreiml & Samurai",
-      "musicTitle": "Das Alte Liedchen"
+      "musicTitle": "Das Alte Liedchen",
+      "createdAt": 1755899889041,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "lj7OZ6w04DQ",
@@ -1270,7 +1464,9 @@
       "channel": "Mulo Francel - Topic",
       "duration": "6:25",
       "thumbnail": "https://i.ytimg.com/vi/lj7OZ6w04DQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDieIsAGAdssXdYPXw5NwLZhtALXw",
-      "url": "https://www.youtube.com/watch?v=lj7OZ6w04DQ"
+      "url": "https://www.youtube.com/watch?v=lj7OZ6w04DQ",
+      "createdAt": 1755949511014,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "w7D-OQHIfqU",
@@ -1278,7 +1474,9 @@
       "channel": "RHINO",
       "duration": "2:17",
       "thumbnail": "https://i.ytimg.com/vi/w7D-OQHIfqU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCL69NaQNod_h2TsdNICcG2_3AN-A",
-      "url": "https://www.youtube.com/watch?v=w7D-OQHIfqU"
+      "url": "https://www.youtube.com/watch?v=w7D-OQHIfqU",
+      "createdAt": 1755957809323,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "opvopULDhVI",
@@ -1288,7 +1486,9 @@
       "thumbnail": "https://i.ytimg.com/vi/opvopULDhVI/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARhlIFsoUTAP&rs=AOn4CLCn5GvM4P-eMVljZ19wkoth2gn7-g",
       "url": "https://www.youtube.com/watch?v=opvopULDhVI",
       "artist": "Pépé Bradock",
-      "musicTitle": "Deep Burnt"
+      "musicTitle": "Deep Burnt",
+      "createdAt": 1755960251635,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "03_3auGCVmA",
@@ -1296,7 +1496,9 @@
       "channel": "General Degree",
       "duration": "2:56",
       "thumbnail": "https://i.ytimg.com/vi/03_3auGCVmA/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARhlIFAoPjAP&rs=AOn4CLCWtKK_NrOH0Ko9XffDU0iFDuIjrQ",
-      "url": "https://www.youtube.com/watch?v=03_3auGCVmA"
+      "url": "https://www.youtube.com/watch?v=03_3auGCVmA",
+      "createdAt": 1756001221634,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "4vSdnj80p6s",
@@ -1304,7 +1506,9 @@
       "channel": "Shogun Audio",
       "duration": "3:43",
       "thumbnail": "https://i.ytimg.com/vi/4vSdnj80p6s/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDCUIqqBQL83IJAyPQAcWYZzMVNgw",
-      "url": "https://www.youtube.com/watch?v=4vSdnj80p6s"
+      "url": "https://www.youtube.com/watch?v=4vSdnj80p6s",
+      "createdAt": 1756025291396,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "49JD1xOLH6E",
@@ -1317,7 +1521,9 @@
       "musicTitle": "Der Tanz Aller",
       "tags": [
         "sci-fi"
-      ]
+      ],
+      "createdAt": 1756031131339,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "e_juYgu5qoE",
@@ -1325,7 +1531,9 @@
       "channel": "The Cleaners From Venus - Topic",
       "duration": "3:13",
       "thumbnail": "https://i.ytimg.com/vi/e_juYgu5qoE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCR8Jf-Zw6UyaXE0wt8aUx2vEBsCg",
-      "url": "https://www.youtube.com/watch?v=e_juYgu5qoE"
+      "url": "https://www.youtube.com/watch?v=e_juYgu5qoE",
+      "createdAt": 1756105710729,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "9FFo21LlrWk",
@@ -1363,7 +1571,9 @@
         "warm",
         "world",
         "world fusion"
-      ]
+      ],
+      "createdAt": 1756215240784,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "E3E8qQmP4t8",
@@ -1377,7 +1587,9 @@
       "tags": [
         "afro-fusion",
         "afrobeats"
-      ]
+      ],
+      "createdAt": 1756236067524,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "XUkJ-t27t1o",
@@ -1385,7 +1597,9 @@
       "channel": "The Cleaners From Venus - Topic",
       "duration": "3:41",
       "thumbnail": "https://i.ytimg.com/vi/XUkJ-t27t1o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD11aSrGalzv3mb18MKo48KOYuVHQ",
-      "url": "https://www.youtube.com/watch?v=XUkJ-t27t1o"
+      "url": "https://www.youtube.com/watch?v=XUkJ-t27t1o",
+      "createdAt": 1756327250650,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "0jEoRZ7hRtw",
@@ -1399,7 +1613,9 @@
       "tags": [
         "psychedelic rock",
         "rock"
-      ]
+      ],
+      "createdAt": 1756327374646,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "h8l47emr2U4",
@@ -1423,7 +1639,9 @@
         "rock & roll",
         "sunshine pop",
         "surf rock"
-      ]
+      ],
+      "createdAt": 1756327779480,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "XQEBzauVIlA",
@@ -1431,7 +1649,9 @@
       "channel": "The Prodigy",
       "duration": "3:16",
       "thumbnail": "https://i.ytimg.com/vi/XQEBzauVIlA/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhGIGUoUjAP&rs=AOn4CLCaeNrfqCZaELRGnjLcXDzSNuiGpw",
-      "url": "https://www.youtube.com/watch?v=XQEBzauVIlA"
+      "url": "https://www.youtube.com/watch?v=XQEBzauVIlA",
+      "createdAt": 1756329766451,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "tZuwiGo3hS8",
@@ -1439,7 +1659,9 @@
       "channel": "The Prodigy",
       "duration": "5:40",
       "thumbnail": "https://i.ytimg.com/vi/tZuwiGo3hS8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBaVqavWkPjdNZTRirW0nObt1Sbmg",
-      "url": "https://www.youtube.com/watch?v=tZuwiGo3hS8"
+      "url": "https://www.youtube.com/watch?v=tZuwiGo3hS8",
+      "createdAt": 1756333412001,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "FHPZFBxgIF4",
@@ -1447,7 +1669,9 @@
       "channel": "The Prodigy",
       "duration": "2:52",
       "thumbnail": "https://i.ytimg.com/vi/FHPZFBxgIF4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAwhy0RQLF4GYpbDD0xMDoGsZRpQg",
-      "url": "https://www.youtube.com/watch?v=FHPZFBxgIF4"
+      "url": "https://www.youtube.com/watch?v=FHPZFBxgIF4",
+      "createdAt": 1756335060130,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "KecH8EMmh4o",
@@ -1455,7 +1679,9 @@
       "channel": "Lynch Kingsley - Topic",
       "duration": "5:52",
       "thumbnail": "https://i.ytimg.com/vi/KecH8EMmh4o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBD38ka3CzfiNWDadSwF4eosVTmJw",
-      "url": "https://www.youtube.com/watch?v=KecH8EMmh4o"
+      "url": "https://www.youtube.com/watch?v=KecH8EMmh4o",
+      "createdAt": 1756412119195,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "4uX-5HOx2Wc",
@@ -1471,7 +1697,9 @@
         "classical",
         "performer",
         "pianist"
-      ]
+      ],
+      "createdAt": 1756426067369,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "SuKVWVqVDB0",
@@ -1484,7 +1712,9 @@
       "musicTitle": "Evening Morning Day",
       "tags": [
         "a cappella"
-      ]
+      ],
+      "createdAt": 1756426109641,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "22cNIlhBxUY",
@@ -1499,7 +1729,9 @@
         "dance-pop",
         "electronic",
         "pop"
-      ]
+      ],
+      "createdAt": 1756466150976,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "giGF6n72kQo",
@@ -1509,7 +1741,9 @@
       "thumbnail": "https://i.ytimg.com/vi/giGF6n72kQo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBMDwCOOdCm6B2DCNAzR5cbPItxpA",
       "url": "https://www.youtube.com/watch?v=giGF6n72kQo",
       "artist": "Puppetmastaz",
-      "musicTitle": "Cheeba Garden"
+      "musicTitle": "Cheeba Garden",
+      "createdAt": 1756522436532,
+      "userId": null
     },
     {
       "id": "vaG5tVnpkwc",
@@ -1517,7 +1751,9 @@
       "channel": "Open Reel Ensemble",
       "duration": "3:18",
       "thumbnail": "https://i.ytimg.com/vi/vaG5tVnpkwc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAntiXq3UFMOHTaR5Pveo31liesdA",
-      "url": "https://www.youtube.com/watch?v=vaG5tVnpkwc"
+      "url": "https://www.youtube.com/watch?v=vaG5tVnpkwc",
+      "createdAt": 1756543830511,
+      "userId": null
     },
     {
       "id": "ouCgeapeJ_g",
@@ -1527,7 +1763,9 @@
       "thumbnail": "https://i.ytimg.com/vi/ouCgeapeJ_g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCtTqasQDgaX6KpukXwP_Tp1d5BgQ",
       "url": "https://www.youtube.com/watch?v=ouCgeapeJ_g",
       "artist": "Helge Schneider",
-      "musicTitle": "Heute hab ich gute Laune"
+      "musicTitle": "Heute hab ich gute Laune",
+      "createdAt": 1756549642008,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "ZAaB7x7kBK0",
@@ -1543,7 +1781,9 @@
         "jazz",
         "modern jazz",
         "piano jazz"
-      ]
+      ],
+      "createdAt": 1756551446541,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "U6EAEln-a7Q",
@@ -1557,7 +1797,9 @@
       "tags": [
         "contemporary jazz",
         "jazz"
-      ]
+      ],
+      "createdAt": 1756552116437,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "cKpcVGinVOk",
@@ -1570,7 +1812,9 @@
       "musicTitle": "Love Me",
       "tags": [
         "american"
-      ]
+      ],
+      "createdAt": 1756580073587,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "MIZc_pOooSI",
@@ -1580,7 +1824,9 @@
       "thumbnail": "https://i.ytimg.com/vi/MIZc_pOooSI/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDfeU5rd_1bibthX8koJ9ATcXacxQ",
       "url": "https://www.youtube.com/watch?v=MIZc_pOooSI",
       "artist": "Hanfry Martinez",
-      "musicTitle": "Sunday Gathering (Dyed Soundorom remix)"
+      "musicTitle": "Sunday Gathering (Dyed Soundorom remix)",
+      "createdAt": 1756596995646,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "nd8RD3tjNQE",
@@ -1598,7 +1844,9 @@
         "paris",
         "pop",
         "reggae."
-      ]
+      ],
+      "createdAt": 1756598965677,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "WwmYXHjFZ04",
@@ -1614,7 +1862,9 @@
         "hardcore hip hop",
         "hip hop",
         "west coast hip hop"
-      ]
+      ],
+      "createdAt": 1756599022681,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "1eDJLawPJ0w",
@@ -1624,7 +1874,9 @@
       "thumbnail": "https://i.ytimg.com/vi/1eDJLawPJ0w/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAocsBQ7n08rCqyEkkeBbpJllNWnQ",
       "url": "https://www.youtube.com/watch?v=1eDJLawPJ0w",
       "artist": "Die P",
-      "musicTitle": "AHA"
+      "musicTitle": "AHA",
+      "createdAt": 1756599238107,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "6H6VzlTsLNk",
@@ -1634,7 +1886,9 @@
       "thumbnail": "https://i.ytimg.com/vi/6H6VzlTsLNk/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhgIGAoYDAP&rs=AOn4CLAbyfrYbppDF_crfKTrdVTug5Qz4w",
       "url": "https://www.youtube.com/watch?v=6H6VzlTsLNk",
       "artist": "Josi Miller",
-      "musicTitle": "The Night (bad moves)"
+      "musicTitle": "The Night (bad moves)",
+      "createdAt": 1756599463280,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "TRph0woZ_Vk",
@@ -1658,7 +1912,9 @@
         "indie rock",
         "new rave",
         "rock"
-      ]
+      ],
+      "createdAt": 1756600880688,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "ZgzxQzWi4yg",
@@ -1675,7 +1931,9 @@
         "heute hier morgen dort",
         "liedermacher",
         "singer-songwriter"
-      ]
+      ],
+      "createdAt": 1756634412204,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "_wAgjAVAvus",
@@ -1685,7 +1943,9 @@
       "thumbnail": "https://i.ytimg.com/vi/_wAgjAVAvus/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgXIDwofzAP&rs=AOn4CLDC_DPYOubkELxWjaYnkrBTqSuMsA",
       "url": "https://www.youtube.com/watch?v=_wAgjAVAvus",
       "artist": "11Schnull",
-      "musicTitle": "Ich Und Meine Ubahn (Krampf remix)"
+      "musicTitle": "Ich Und Meine Ubahn (Krampf remix)",
+      "createdAt": 1756678267840,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "LmVNZHGAX-Y",
@@ -1699,7 +1959,9 @@
       "tags": [
         "actress",
         "german"
-      ]
+      ],
+      "createdAt": 1756678593505,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "j5QQS1mJKoA",
@@ -1707,7 +1969,9 @@
       "channel": "Kalan Müzik",
       "duration": "5:16",
       "thumbnail": "https://i.ytimg.com/vi/j5QQS1mJKoA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBu6pDLYAa4_X4yUVcJo-S7dkXPYA",
-      "url": "https://www.youtube.com/watch?v=j5QQS1mJKoA"
+      "url": "https://www.youtube.com/watch?v=j5QQS1mJKoA",
+      "createdAt": 1756678632307,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "JQvc-Gkwhow",
@@ -1717,7 +1981,9 @@
       "thumbnail": "https://i.ytimg.com/vi/JQvc-Gkwhow/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCS2XHAl6kNJBKM80YSWUyNX9-HtA",
       "url": "https://www.youtube.com/watch?v=JQvc-Gkwhow",
       "artist": "John Coltrane",
-      "musicTitle": "My Favorite Things"
+      "musicTitle": "My Favorite Things",
+      "createdAt": 1756766369929,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "Je6xwM93jQQ",
@@ -1725,7 +1991,9 @@
       "channel": "Max Treutner - Topic",
       "duration": "6:41",
       "thumbnail": "https://i.ytimg.com/vi/Je6xwM93jQQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA6_UVOzwKh_B7e8U4TtqBqH3Wx2Q",
-      "url": "https://www.youtube.com/watch?v=Je6xwM93jQQ"
+      "url": "https://www.youtube.com/watch?v=Je6xwM93jQQ",
+      "createdAt": 1756767041354,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "Uk-2wA-Il_c",
@@ -1735,7 +2003,9 @@
       "thumbnail": "https://i.ytimg.com/vi/Uk-2wA-Il_c/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCr5J_jv0_3q28BNB2pmHlfzErR_A",
       "url": "https://www.youtube.com/watch?v=Uk-2wA-Il_c",
       "artist": "John Tejada",
-      "musicTitle": "Until the End of the World"
+      "musicTitle": "Until the End of the World",
+      "createdAt": 1757501851178,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "prcrc772jc0",
@@ -1745,15 +2015,9 @@
       "thumbnail": "https://i.ytimg.com/vi/prcrc772jc0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDALvm1MvzV105klAjg5W-RGMz4rw",
       "url": "https://www.youtube.com/watch?v=prcrc772jc0",
       "artist": "Steve Kuhn",
-      "musicTitle": "The Meaning of Love"
-    },
-    {
-      "id": "dvva3eOHi7o",
-      "title": "Gavin Newsom - DARK WOKE The Music Video",
-      "channel": "scaredketchup",
-      "duration": "4:53",
-      "thumbnail": "https://i.ytimg.com/vi/dvva3eOHi7o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA6OEzLiaohsMNcHnb8IRJFE8SD2w",
-      "url": "https://www.youtube.com/watch?v=dvva3eOHi7o"
+      "musicTitle": "The Meaning of Love",
+      "createdAt": 1756858217833,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "L_w_vD1AYzs",
@@ -1761,7 +2025,9 @@
       "channel": "Dawning Records",
       "duration": "2:46",
       "thumbnail": "https://i.ytimg.com/vi/L_w_vD1AYzs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAh4DYHJWqcVFJB92yOu6oBEqZ1yA",
-      "url": "https://www.youtube.com/watch?v=L_w_vD1AYzs"
+      "url": "https://www.youtube.com/watch?v=L_w_vD1AYzs",
+      "createdAt": 1756991515693,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "p1EoRP2MgjQ",
@@ -1771,7 +2037,9 @@
       "thumbnail": "https://i.ytimg.com/vi/p1EoRP2MgjQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCgoy0QsRKxifTGwsuBZuEWFp9cQg",
       "url": "https://www.youtube.com/watch?v=p1EoRP2MgjQ",
       "artist": "Laundromat",
-      "musicTitle": "Humans"
+      "musicTitle": "Humans",
+      "createdAt": 1757072060308,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "ulkdUfItyxI",
@@ -1779,7 +2047,9 @@
       "channel": "Tame Impala",
       "duration": "9:28",
       "thumbnail": "https://i.ytimg.com/vi/ulkdUfItyxI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCF5njsodOYCIU4necTCY5ykRigVw",
-      "url": "https://www.youtube.com/watch?v=ulkdUfItyxI"
+      "url": "https://www.youtube.com/watch?v=ulkdUfItyxI",
+      "createdAt": 1757091056139,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "V6wceuE8YyA",
@@ -1789,7 +2059,9 @@
       "thumbnail": "https://i.ytimg.com/vi/V6wceuE8YyA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCSV8vO7xghu0F7yvxfDobylNsaig",
       "url": "https://www.youtube.com/watch?v=V6wceuE8YyA",
       "artist": "9OASES",
-      "musicTitle": "Call Coco (extended version)"
+      "musicTitle": "Call Coco (extended version)",
+      "createdAt": 1757093024264,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "dkb811y4fkI",
@@ -1799,7 +2071,9 @@
       "thumbnail": "https://i.ytimg.com/vi/dkb811y4fkI/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGMoTjAP&rs=AOn4CLBOtEVxEd1eB9f1pyJGh1Xcb_jGCA",
       "url": "https://www.youtube.com/watch?v=dkb811y4fkI",
       "artist": "Eagles",
-      "musicTitle": "One of These Nights"
+      "musicTitle": "One of These Nights",
+      "createdAt": 1757163286439,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "pTscTtB0rCA",
@@ -1812,7 +2086,9 @@
       "musicTitle": "Back a Yard",
       "tags": [
         "roots reggae"
-      ]
+      ],
+      "createdAt": 1757163975428,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "KLTU65eEXEU",
@@ -1820,7 +2096,9 @@
       "channel": "Imagine",
       "duration": "33:56",
       "thumbnail": "https://i.ytimg.com/vi/KLTU65eEXEU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDuMAO1u11A_PWeRVZBzQvR_tBcmA",
-      "url": "https://www.youtube.com/watch?v=KLTU65eEXEU"
+      "url": "https://www.youtube.com/watch?v=KLTU65eEXEU",
+      "createdAt": 1757170787179,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "EL4Md0c91Ag",
@@ -1830,7 +2108,9 @@
       "thumbnail": "https://i.ytimg.com/vi/EL4Md0c91Ag/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDpOKzN2Djl1oEa_QOjd_NpG3XJcA",
       "url": "https://www.youtube.com/watch?v=EL4Md0c91Ag",
       "artist": "Violet Eves",
-      "musicTitle": "Listen Over the Ocean"
+      "musicTitle": "Listen Over the Ocean",
+      "createdAt": 1757189030649,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "fDerXPn5jfY",
@@ -1840,15 +2120,9 @@
       "thumbnail": "https://i.ytimg.com/vi/fDerXPn5jfY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBv9m2b9IzFyJV1oKGnyRmmXa6RpQ",
       "url": "https://www.youtube.com/watch?v=fDerXPn5jfY",
       "artist": "Honeyglaze",
-      "musicTitle": "Pretty Girls"
-    },
-    {
-      "id": "wi0Ye9qpmto",
-      "title": "Sayin' A Lie (parody)",
-      "channel": "Keith Edwards",
-      "duration": "4:07",
-      "thumbnail": "https://i.ytimg.com/vi/wi0Ye9qpmto/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDf4rxIMkpQKcawp8M3k5cK73lxsg",
-      "url": "https://www.youtube.com/watch?v=wi0Ye9qpmto"
+      "musicTitle": "Pretty Girls",
+      "createdAt": 1757195815274,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "wxoGvBQtjpM",
@@ -1865,7 +2139,9 @@
         "classic blues",
         "electric blues",
         "rock"
-      ]
+      ],
+      "createdAt": 1757331761938,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "yxXevr1ux7s",
@@ -1881,7 +2157,9 @@
         "drum and bass",
         "drum n bass",
         "electronic"
-      ]
+      ],
+      "createdAt": 1757367745965,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "kln_bIndDJg",
@@ -1891,7 +2169,9 @@
       "thumbnail": "https://i.ytimg.com/vi/kln_bIndDJg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCL0pyINa4jhdwgK4o6ZCtHAuIzFw",
       "url": "https://www.youtube.com/watch?v=kln_bIndDJg",
       "artist": "Supertramp",
-      "musicTitle": "The Logical Song"
+      "musicTitle": "The Logical Song",
+      "createdAt": 1757399953975,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "xlmuZhFT6U4",
@@ -1901,7 +2181,9 @@
       "thumbnail": "https://i.ytimg.com/vi/xlmuZhFT6U4/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIFkoVDAP&rs=AOn4CLByPCVDPnw3KRwx120mT-hkQOFL6w",
       "url": "https://www.youtube.com/watch?v=xlmuZhFT6U4",
       "artist": "Blood Orange",
-      "musicTitle": "Mind Loaded"
+      "musicTitle": "Mind Loaded",
+      "createdAt": 1757527989647,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "yon907lCzMc",
@@ -1911,7 +2193,9 @@
       "thumbnail": "https://i.ytimg.com/vi/yon907lCzMc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAiVOoVDhngxBQ4b5lzeEiYAMnZ2g",
       "url": "https://www.youtube.com/watch?v=yon907lCzMc",
       "artist": "Thomas Fehlmann",
-      "musicTitle": "Wasser im Fluss"
+      "musicTitle": "Wasser im Fluss",
+      "createdAt": 1757588156732,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "xigc7QGPJQM",
@@ -1919,7 +2203,9 @@
       "channel": "NUMACREWOFFICIAL",
       "duration": "2:53",
       "thumbnail": "https://i.ytimg.com/vi/xigc7QGPJQM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA709zO0zEmTHSH2FXy3hOdFGG1CA",
-      "url": "https://www.youtube.com/watch?v=xigc7QGPJQM"
+      "url": "https://www.youtube.com/watch?v=xigc7QGPJQM",
+      "createdAt": 1757589831345,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "Ptuuxwm2XT8",
@@ -1929,7 +2215,9 @@
       "thumbnail": "https://i.ytimg.com/vi/Ptuuxwm2XT8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDqYbwCMnghCY3Hfl94Py7IFP1ZmQ",
       "url": "https://www.youtube.com/watch?v=Ptuuxwm2XT8",
       "artist": "Group Listening",
-      "musicTitle": "What's A Girl To Do"
+      "musicTitle": "What's A Girl To Do",
+      "createdAt": 1757609425356,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "iTFrCbQGyvM",
@@ -1942,7 +2230,9 @@
       "musicTitle": "Born Slippy",
       "tags": [
         "experimental"
-      ]
+      ],
+      "createdAt": 1757624482092,
+      "userId": "aacdb97f-ca49-4af6-b84a-27b575a79f85"
     },
     {
       "id": "fWhKMVJymPA",
@@ -1952,7 +2242,9 @@
       "thumbnail": "https://i.ytimg.com/vi/fWhKMVJymPA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDPioKD6-9btK6jWud6a-fvQ6edxg",
       "url": "https://www.youtube.com/watch?v=fWhKMVJymPA",
       "artist": "Richard Koch Quartett",
-      "musicTitle": "The Wilhelm Scream"
+      "musicTitle": "The Wilhelm Scream",
+      "createdAt": 1757660344258,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "5tEfYvY3bAg",
@@ -1962,7 +2254,9 @@
       "thumbnail": "https://i.ytimg.com/vi/5tEfYvY3bAg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCmJv2SYR3aHjHfNZam8rv-m0Eydw",
       "url": "https://www.youtube.com/watch?v=5tEfYvY3bAg",
       "artist": "Woodkid",
-      "musicTitle": "Goliath"
+      "musicTitle": "Goliath",
+      "createdAt": 1757682397098,
+      "userId": null
     },
     {
       "id": "PGlwDZ8zZB0",
@@ -1970,7 +2264,9 @@
       "channel": "The Rash - Topic",
       "duration": "2:09",
       "thumbnail": "https://i.ytimg.com/vi/PGlwDZ8zZB0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDyFXe_0JRtJi1rx2_gOMOm0as61A",
-      "url": "https://www.youtube.com/watch?v=PGlwDZ8zZB0"
+      "url": "https://www.youtube.com/watch?v=PGlwDZ8zZB0",
+      "createdAt": 1757683591502,
+      "userId": null
     },
     {
       "id": "u7KncmJj82s",
@@ -1997,7 +2293,9 @@
         "rock",
         "swagger",
         "trip hop"
-      ]
+      ],
+      "createdAt": 1757696437741,
+      "userId": "9d7dd99f-aadd-4a04-88d9-ebf9872b5e3a"
     },
     {
       "id": "NdYWuo9OFAw",
@@ -2005,7 +2303,9 @@
       "channel": "Goo Goo Dolls",
       "duration": "3:36",
       "thumbnail": "https://i.ytimg.com/vi/NdYWuo9OFAw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC53WFy10ugmzVcCRlYvsOThcq2GA",
-      "url": "https://www.youtube.com/watch?v=NdYWuo9OFAw"
+      "url": "https://www.youtube.com/watch?v=NdYWuo9OFAw",
+      "createdAt": 1757697571142,
+      "userId": "1d2d2f9f-0d1a-47e7-8740-bf0ea0fe314e"
     },
     {
       "id": "_FrOQC-zEog",
@@ -2027,7 +2327,9 @@
         "psychedelic rock",
         "psychedelic/garage",
         "rock"
-      ]
+      ],
+      "createdAt": 1757708074455,
+      "userId": "1d2d2f9f-0d1a-47e7-8740-bf0ea0fe314e"
     },
     {
       "id": "Tnaqqyjx6UQ",
@@ -2035,7 +2337,9 @@
       "channel": "Artie Barsamian - Topic",
       "duration": "3:50",
       "thumbnail": "https://i.ytimg.com/vi/Tnaqqyjx6UQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB9-bRh8CWzFiGwPNK1gj2FjjGlTA",
-      "url": "https://www.youtube.com/watch?v=Tnaqqyjx6UQ"
+      "url": "https://www.youtube.com/watch?v=Tnaqqyjx6UQ",
+      "createdAt": 1757717420786,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "o9YezPSmFpQ",
@@ -2045,7 +2349,9 @@
       "thumbnail": "https://i.ytimg.com/vi/o9YezPSmFpQ/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARhyIEgoLjAP&rs=AOn4CLCw4xVI9vKYgeO8t5BFvQjZhqO4jg",
       "url": "https://www.youtube.com/watch?v=o9YezPSmFpQ",
       "artist": "Donato Dozzy",
-      "musicTitle": "Vaporware 07"
+      "musicTitle": "Vaporware 07",
+      "createdAt": 1757718469445,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "YXda45LBLyM",
@@ -2055,7 +2361,9 @@
       "thumbnail": "https://i.ytimg.com/vi/YXda45LBLyM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBlg0DeheoIswmc3GS60f8APY-SvQ",
       "url": "https://www.youtube.com/watch?v=YXda45LBLyM",
       "artist": "Branko Mataja",
-      "musicTitle": "Tebi majko misli lete"
+      "musicTitle": "Tebi majko misli lete",
+      "createdAt": 1757786772963,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "j_NampE7pHs",
@@ -2065,7 +2373,9 @@
       "thumbnail": "https://i.ytimg.com/vi/j_NampE7pHs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCtzWCe8G5TJaPyb4WRrnM2ddPf1A",
       "url": "https://www.youtube.com/watch?v=j_NampE7pHs",
       "artist": "DJ Python",
-      "musicTitle": "Descanse"
+      "musicTitle": "Descanse",
+      "createdAt": 1757787290490,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "4kW0vbVEIXE",
@@ -2075,7 +2385,9 @@
       "thumbnail": "https://i.ytimg.com/vi/4kW0vbVEIXE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBw0PVelt-0D0YUyrj4I-sK5RqDGg",
       "url": "https://www.youtube.com/watch?v=4kW0vbVEIXE",
       "artist": "Kelly Lee Owens",
-      "musicTitle": "Melt!"
+      "musicTitle": "Melt!",
+      "createdAt": 1757791285314,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "rTbyd9Bm-xg",
@@ -2085,7 +2397,9 @@
       "thumbnail": "https://i.ytimg.com/vi/rTbyd9Bm-xg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA_RGT3_M7SoAwOJMtbYhsV_Yw41A",
       "url": "https://www.youtube.com/watch?v=rTbyd9Bm-xg",
       "artist": "James Marvel",
-      "musicTitle": "Way Of The Warrior"
+      "musicTitle": "Way Of The Warrior",
+      "createdAt": 1757791553508,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "YASaUI9bhQY",
@@ -2095,7 +2409,9 @@
       "thumbnail": "https://i.ytimg.com/vi/YASaUI9bhQY/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIEIoWjAP&rs=AOn4CLBu4pDfnD3-zQvLM1iNt0vZVLLqxQ",
       "url": "https://www.youtube.com/watch?v=YASaUI9bhQY",
       "artist": "Yussef Dayes",
-      "musicTitle": "Rust"
+      "musicTitle": "Rust",
+      "createdAt": 1757792118790,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "xHGGmTbd9Hc",
@@ -2109,7 +2425,9 @@
       "tags": [
         "pop",
         "vocal"
-      ]
+      ],
+      "createdAt": 1757855330118,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "Ag0y1jU-SL0",
@@ -2117,7 +2435,9 @@
       "channel": "Suns of Syreality",
       "duration": "4:02",
       "thumbnail": "https://i.ytimg.com/vi/Ag0y1jU-SL0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAhSkkQKLTfXsLqY2FaGomYP7rYfg",
-      "url": "https://www.youtube.com/watch?v=Ag0y1jU-SL0"
+      "url": "https://www.youtube.com/watch?v=Ag0y1jU-SL0",
+      "createdAt": 1757857013041,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "jsiPcYdciw8",
@@ -2125,7 +2445,9 @@
       "channel": "Suns of Syreality",
       "duration": "6:24",
       "thumbnail": "https://i.ytimg.com/vi/jsiPcYdciw8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC7YXpVegRDRVxJgwKnkeGOJU3Gbg",
-      "url": "https://www.youtube.com/watch?v=jsiPcYdciw8"
+      "url": "https://www.youtube.com/watch?v=jsiPcYdciw8",
+      "createdAt": 1757857594454,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "4fOtEXI7gJQ",
@@ -2135,7 +2457,9 @@
       "thumbnail": "https://i.ytimg.com/vi/4fOtEXI7gJQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDBSPsC5oWtzXzJCA3kYlunDPeY4A",
       "url": "https://www.youtube.com/watch?v=4fOtEXI7gJQ",
       "artist": "Ho99o9",
-      "musicTitle": "Incline"
+      "musicTitle": "Incline",
+      "createdAt": 1757888387550,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "xg-MQ9El85I",
@@ -2148,7 +2472,9 @@
       "musicTitle": "In Light",
       "tags": [
         "indietronica"
-      ]
+      ],
+      "createdAt": 1757888844439,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "EJDARjzHhZE",
@@ -2161,7 +2487,9 @@
       "musicTitle": "SNiFF",
       "tags": [
         "jazz fusion"
-      ]
+      ],
+      "createdAt": 1758136975926,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "6CqMkvSpewc",
@@ -2169,7 +2497,9 @@
       "channel": "Iteration and Discord",
       "duration": "3:36",
       "thumbnail": "https://i.ytimg.com/vi/6CqMkvSpewc/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBdAKHGLE7MwgMiLN2_y_Me1tudoQ",
-      "url": "https://www.youtube.com/watch?v=6CqMkvSpewc"
+      "url": "https://www.youtube.com/watch?v=6CqMkvSpewc",
+      "createdAt": 1758178660572,
+      "userId": null
     },
     {
       "id": "SMW2yX9OtWY",
@@ -2177,7 +2507,9 @@
       "channel": " Lena Chamamyan | لينا شاماميان",
       "duration": "4:30",
       "thumbnail": "https://i.ytimg.com/vi/SMW2yX9OtWY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAQVSkqfJAUTo-sAOoCE9IoN4txPA",
-      "url": "https://www.youtube.com/watch?v=SMW2yX9OtWY"
+      "url": "https://www.youtube.com/watch?v=SMW2yX9OtWY",
+      "createdAt": 1758181907651,
+      "userId": null
     },
     {
       "id": "hPQH3O-Xx5U",
@@ -2191,7 +2523,9 @@
       "tags": [
         "indie",
         "pop"
-      ]
+      ],
+      "createdAt": 1758182190402,
+      "userId": null
     },
     {
       "id": "nn27xBY8X68",
@@ -2211,7 +2545,9 @@
         "rock & roll",
         "rock and roll",
         "teen pop"
-      ]
+      ],
+      "createdAt": 1758190178079,
+      "userId": "aacdb97f-ca49-4af6-b84a-27b575a79f85"
     },
     {
       "id": "a5meT63flnM",
@@ -2225,7 +2561,9 @@
       "tags": [
         "drum and bass",
         "jungle"
-      ]
+      ],
+      "createdAt": 1758196736650,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "2vJLvGjYy34",
@@ -2240,7 +2578,9 @@
         "drum and bass",
         "electronic",
         "jungle"
-      ]
+      ],
+      "createdAt": 1758197385125,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "B9XpmVM81XM",
@@ -2253,7 +2593,9 @@
       "musicTitle": "Make Those Move",
       "tags": [
         "grime"
-      ]
+      ],
+      "createdAt": 1758201270321,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "RFHcs6Sc0Pk",
@@ -2263,7 +2605,9 @@
       "thumbnail": "https://i.ytimg.com/vi/RFHcs6Sc0Pk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAsrzwmsLaikVjH7NRXilhehChKkQ",
       "url": "https://www.youtube.com/watch?v=RFHcs6Sc0Pk",
       "artist": "Salami Rose Joe Louis",
-      "musicTitle": "A Thermogenic Interlude -"
+      "musicTitle": "A Thermogenic Interlude -",
+      "createdAt": 1758201448239,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "rCyKvi_SFBM",
@@ -2281,7 +2625,9 @@
         "hip hop",
         "trap",
         "uk drill"
-      ]
+      ],
+      "createdAt": 1758211348302,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "wJ-ybTlbU5E",
@@ -2302,15 +2648,9 @@
         "jungle terror",
         "moombahton",
         "pop reggae"
-      ]
-    },
-    {
-      "id": "BfybQ_j5dQA",
-      "title": "I Avenge Kimmel By Turning Trump Into a Muppet",
-      "channel": "scaredketchup",
-      "duration": "5:39",
-      "thumbnail": "https://i.ytimg.com/vi/BfybQ_j5dQA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDTA5H3jSVIhjxSvHKpwGTbK0rQxQ",
-      "url": "https://www.youtube.com/watch?v=BfybQ_j5dQA"
+      ],
+      "createdAt": 1758221499605,
+      "userId": "43a461ed-77f2-4aff-a374-450d92a13c86"
     },
     {
       "id": "EW8pdIWS958",
@@ -2318,7 +2658,9 @@
       "channel": "Nagat - نجاة",
       "duration": "5:30",
       "thumbnail": "https://i.ytimg.com/vi/EW8pdIWS958/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAc-zNsMUB7jh6cA-SKotXDUJwb2A",
-      "url": "https://www.youtube.com/watch?v=EW8pdIWS958"
+      "url": "https://www.youtube.com/watch?v=EW8pdIWS958",
+      "createdAt": 1758268872260,
+      "userId": null
     },
     {
       "id": "9MtbOkZxwKY",
@@ -2328,7 +2670,9 @@
       "thumbnail": "https://i.ytimg.com/vi/9MtbOkZxwKY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDX6PK6WdiQpwWE3EmPAv8-8wG8sQ",
       "url": "https://www.youtube.com/watch?v=9MtbOkZxwKY",
       "artist": "Flur",
-      "musicTitle": "Nightdiver"
+      "musicTitle": "Nightdiver",
+      "createdAt": 1758295896326,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "dRZY6dEx7vI",
@@ -2338,7 +2682,9 @@
       "thumbnail": "https://i.ytimg.com/vi/dRZY6dEx7vI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDcCw7GaKS3P0JJgm_L-mIQjLZA0Q",
       "url": "https://www.youtube.com/watch?v=dRZY6dEx7vI",
       "artist": "Modern Nature",
-      "musicTitle": "Totality"
+      "musicTitle": "Totality",
+      "createdAt": 1758375560697,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "xMMvVHyiwu8",
@@ -2354,7 +2700,9 @@
         "pop",
         "rock",
         "schlager"
-      ]
+      ],
+      "createdAt": 1758377743591,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "bH2v1kZ4x1w",
@@ -2367,7 +2715,9 @@
       "musicTitle": "Nostaglitch",
       "tags": [
         "ambient"
-      ]
+      ],
+      "createdAt": 1758453495254,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "QOrTtbrHXG4",
@@ -2381,7 +2731,9 @@
       "tags": [
         "downtempo",
         "electronic"
-      ]
+      ],
+      "createdAt": 1758454596401,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "yvje22pJz28",
@@ -2391,7 +2743,9 @@
       "thumbnail": "https://i.ytimg.com/vi/yvje22pJz28/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBwNChejzk8K53pVaksPijkQrYFvw",
       "url": "https://www.youtube.com/watch?v=yvje22pJz28",
       "artist": "Gaye Su Akyol",
-      "musicTitle": "Meftunum Sana"
+      "musicTitle": "Meftunum Sana",
+      "createdAt": 1758465409490,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "NyKwbBuEdnw",
@@ -2415,7 +2769,9 @@
         "quirky",
         "rock",
         "weird"
-      ]
+      ],
+      "createdAt": 1758637237301,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "4xPYv_mqviY",
@@ -2425,7 +2781,9 @@
       "thumbnail": "https://i.ytimg.com/vi/4xPYv_mqviY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLByo1GDcTxxtVCRKpslJbT92ah8XA",
       "url": "https://www.youtube.com/watch?v=4xPYv_mqviY",
       "artist": "DOMi & JD BECK",
-      "musicTitle": "Jump"
+      "musicTitle": "Jump",
+      "createdAt": 1758646482550,
+      "userId": null
     },
     {
       "id": "t4WOyladbcA",
@@ -2435,7 +2793,9 @@
       "thumbnail": "https://i.ytimg.com/vi/t4WOyladbcA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCyt_QDWiyThueI4foaE2Mj-nnB-g",
       "url": "https://www.youtube.com/watch?v=t4WOyladbcA",
       "artist": "The Jubalaires",
-      "musicTitle": "God Almighty's Gonna Cut You Down"
+      "musicTitle": "God Almighty's Gonna Cut You Down",
+      "createdAt": 1758789031215,
+      "userId": null
     },
     {
       "id": "AlIJ9gxMC2g",
@@ -2445,7 +2805,9 @@
       "thumbnail": "https://i.ytimg.com/vi/AlIJ9gxMC2g/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgTIFYofzAP&rs=AOn4CLA0Xn75wj8PWLIiUc9b31sCin3x4g",
       "url": "https://www.youtube.com/watch?v=AlIJ9gxMC2g",
       "artist": "Hand Habits",
-      "musicTitle": "Nubble"
+      "musicTitle": "Nubble",
+      "createdAt": 1758796145448,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "fKSEN2AfvYE",
@@ -2453,7 +2815,9 @@
       "channel": "Exploding Pig",
       "duration": "3:24",
       "thumbnail": "https://i.ytimg.com/vi/fKSEN2AfvYE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBqBRMLGbpmrrb1HA6W3IshRTNtPA",
-      "url": "https://www.youtube.com/watch?v=fKSEN2AfvYE"
+      "url": "https://www.youtube.com/watch?v=fKSEN2AfvYE",
+      "createdAt": 1758796217451,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "64Ma8MAO9VI",
@@ -2461,7 +2825,9 @@
       "channel": "Exploding Pig",
       "duration": "4:13",
       "thumbnail": "https://i.ytimg.com/vi/64Ma8MAO9VI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD0QHavjy4uqj4RtKNX-Mz7wD5x-w",
-      "url": "https://www.youtube.com/watch?v=64Ma8MAO9VI"
+      "url": "https://www.youtube.com/watch?v=64Ma8MAO9VI",
+      "createdAt": 1758796458533,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "TjvvK-Rj0WI",
@@ -2480,7 +2846,9 @@
         "punk",
         "punk/new wave",
         "rock"
-      ]
+      ],
+      "createdAt": 1758845109936,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "m9-xrRfbZbM",
@@ -2490,7 +2858,9 @@
       "thumbnail": "https://i.ytimg.com/vi/m9-xrRfbZbM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDEcM2ODa0STZfug4YpwjwR2vYXaA",
       "url": "https://www.youtube.com/watch?v=m9-xrRfbZbM",
       "artist": "Monty",
-      "musicTitle": "Praise"
+      "musicTitle": "Praise",
+      "createdAt": 1758880873808,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "Ai1D08sGIZ8",
@@ -2500,7 +2870,9 @@
       "thumbnail": "https://i.ytimg.com/vi/Ai1D08sGIZ8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCYzrrIwj6p6-pzS6BEt4NCsZTwFQ",
       "url": "https://www.youtube.com/watch?v=Ai1D08sGIZ8",
       "artist": "Damaged Bug",
-      "musicTitle": "Jet in Jungle"
+      "musicTitle": "Jet in Jungle",
+      "createdAt": 1758844084016,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "kBqh86yBSBA",
@@ -2510,7 +2882,9 @@
       "thumbnail": "https://i.ytimg.com/vi/kBqh86yBSBA/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhkIBMofzAP&rs=AOn4CLDasT31Rpw7SjjoiXRAtXgy29CggA",
       "url": "https://www.youtube.com/watch?v=kBqh86yBSBA",
       "artist": "Snooper",
-      "musicTitle": "Running"
+      "musicTitle": "Running",
+      "createdAt": 1758844775258,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "R3UJv-_eDkY",
@@ -2520,7 +2894,9 @@
       "thumbnail": "https://i.ytimg.com/vi/R3UJv-_eDkY/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARhlIFkoUTAP&rs=AOn4CLD5wMsDwSRCFhfD9kn3THKrctaY0g",
       "url": "https://www.youtube.com/watch?v=R3UJv-_eDkY",
       "artist": "Karl Biscuit",
-      "musicTitle": "La morte"
+      "musicTitle": "La morte",
+      "createdAt": 1758846125363,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "PYRdJo3cG2Q",
@@ -2534,7 +2910,9 @@
       "tags": [
         "avant-garde",
         "avant-garde metal"
-      ]
+      ],
+      "createdAt": 1758883791439,
+      "userId": null
     },
     {
       "id": "YQM7DKi11ho",
@@ -2544,7 +2922,9 @@
       "thumbnail": "https://i.ytimg.com/vi/YQM7DKi11ho/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCRrBNgB_kKy8mvYHAa-lmW82noAw",
       "url": "https://www.youtube.com/watch?v=YQM7DKi11ho",
       "artist": "Paul Kalkbrenner",
-      "musicTitle": "QUE CE SOIT CLAIR"
+      "musicTitle": "QUE CE SOIT CLAIR",
+      "createdAt": 1758927481403,
+      "userId": "43a461ed-77f2-4aff-a374-450d92a13c86"
     },
     {
       "id": "0c20Ml1d8j0",
@@ -2552,7 +2932,9 @@
       "channel": "LTJ Bukem",
       "duration": "1:29:08",
       "thumbnail": "https://i.ytimg.com/vi/0c20Ml1d8j0/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARh_IBMoIjAP&rs=AOn4CLAku0Cul4Yovy9YACwWCkZz_J-O8A",
-      "url": "https://www.youtube.com/watch?v=0c20Ml1d8j0"
+      "url": "https://www.youtube.com/watch?v=0c20Ml1d8j0",
+      "createdAt": 1758961344977,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "-rFrM8cWiBU",
@@ -2562,7 +2944,9 @@
       "thumbnail": "https://i.ytimg.com/vi/-rFrM8cWiBU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBlmPdtaMP9AuhnI9AouzO-omyb4A",
       "url": "https://www.youtube.com/watch?v=-rFrM8cWiBU",
       "artist": "Kraan",
-      "musicTitle": "Norwegen Dia (Acoustic Version)"
+      "musicTitle": "Norwegen Dia (Acoustic Version)",
+      "createdAt": 1758976012414,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "ZId0TanZHzQ",
@@ -2577,7 +2961,9 @@
         "fusion",
         "jazz fusion",
         "krautrock"
-      ]
+      ],
+      "createdAt": 1758976428390,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "N0JcR7dC1V8",
@@ -2585,7 +2971,9 @@
       "channel": "Thierry Miguet (wahwah tv)",
       "duration": "5:33",
       "thumbnail": "https://i.ytimg.com/vi/N0JcR7dC1V8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBnMlTTFDIii3TmBV2Wp4LekUHYTA",
-      "url": "https://www.youtube.com/watch?v=N0JcR7dC1V8"
+      "url": "https://www.youtube.com/watch?v=N0JcR7dC1V8",
+      "createdAt": 1759012000031,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "Y1gRbVRIDvQ",
@@ -2613,7 +3001,9 @@
         "trip rock",
         "trip-hop",
         "uk"
-      ]
+      ],
+      "createdAt": 1759044359692,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "w982zMQ_-s0",
@@ -2623,7 +3013,9 @@
       "thumbnail": "https://i.ytimg.com/vi/w982zMQ_-s0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBiWCbxUDWEfb6q6hyF762Yye1elw",
       "url": "https://www.youtube.com/watch?v=w982zMQ_-s0",
       "artist": "The Depth Beneath Us",
-      "musicTitle": "Closure"
+      "musicTitle": "Closure",
+      "createdAt": 1759045128043,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "8kVYdLjoyPE",
@@ -2639,7 +3031,9 @@
         "jazz fusion",
         "jazz rock",
         "math rock"
-      ]
+      ],
+      "createdAt": 1759054370023,
+      "userId": null
     },
     {
       "id": "Ezt-NlP2-uI",
@@ -2647,7 +3041,9 @@
       "channel": "p a l m s",
       "duration": "3:28",
       "thumbnail": "https://i.ytimg.com/vi/Ezt-NlP2-uI/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB3gOAAuADigIMCAAQARhlIEQoSDAP&rs=AOn4CLBxcv35anQnK2l7j4YzRcMTsTUeHg",
-      "url": "https://www.youtube.com/watch?v=Ezt-NlP2-uI"
+      "url": "https://www.youtube.com/watch?v=Ezt-NlP2-uI",
+      "createdAt": 1759055507579,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "ddIyPEhvk4Q",
@@ -2657,7 +3053,9 @@
       "thumbnail": "https://i.ytimg.com/vi/ddIyPEhvk4Q/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCPorNAGpB8ruvIpe102Y5_R5Fndg",
       "url": "https://www.youtube.com/watch?v=ddIyPEhvk4Q",
       "artist": "Brian Blade",
-      "musicTitle": "Body and Shadow (Night)"
+      "musicTitle": "Body and Shadow (Night)",
+      "createdAt": 1759194353906,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "WZ8HBR5RjP8",
@@ -2667,7 +3065,9 @@
       "thumbnail": "https://i.ytimg.com/vi/WZ8HBR5RjP8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBLXnCNbK6eLh3HP-8uM-44Uoe3mQ",
       "url": "https://www.youtube.com/watch?v=WZ8HBR5RjP8",
       "artist": "Commodo",
-      "musicTitle": "Loan Shark"
+      "musicTitle": "Loan Shark",
+      "createdAt": 1759194456460,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "h9TmARu636U",
@@ -2677,7 +3077,9 @@
       "thumbnail": "https://i.ytimg.com/vi/h9TmARu636U/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARh_ICgoEzAP&rs=AOn4CLCclTD-wlA6h5FcKz7zFQWwLyiHug",
       "url": "https://www.youtube.com/watch?v=h9TmARu636U",
       "artist": "Archie Whitewater",
-      "musicTitle": "Cross Country"
+      "musicTitle": "Cross Country",
+      "createdAt": 1759194616300,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "ZPjSV-lnqvg",
@@ -2685,7 +3087,9 @@
       "channel": "ironicallyscreaming",
       "duration": "2:51",
       "thumbnail": "https://i.ytimg.com/vi/ZPjSV-lnqvg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCuWufaIjkDBcG0638ZrvnRhXb-mg",
-      "url": "https://www.youtube.com/watch?v=ZPjSV-lnqvg"
+      "url": "https://www.youtube.com/watch?v=ZPjSV-lnqvg",
+      "createdAt": 1759217457133,
+      "userId": null
     },
     {
       "id": "-KFFlZUZsR0",
@@ -2693,7 +3097,9 @@
       "channel": "Passepartout Duo",
       "duration": "4:49",
       "thumbnail": "https://i.ytimg.com/vi/-KFFlZUZsR0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLArMXW0tDJ_IzdepAo-gjw0gzluIw",
-      "url": "https://www.youtube.com/watch?v=-KFFlZUZsR0"
+      "url": "https://www.youtube.com/watch?v=-KFFlZUZsR0",
+      "createdAt": 1759221611454,
+      "userId": null
     },
     {
       "id": "hxi_qliU3DE",
@@ -2703,7 +3109,9 @@
       "thumbnail": "https://i.ytimg.com/vi/hxi_qliU3DE/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBcSXoO0Qwc3WRBXRwtR31RxXpMHw",
       "url": "https://www.youtube.com/watch?v=hxi_qliU3DE",
       "artist": "Rosinha de Valença",
-      "musicTitle": "Consolacao"
+      "musicTitle": "Consolacao",
+      "createdAt": 1759485650427,
+      "userId": null
     },
     {
       "id": "3cfHKmQ2ZzI",
@@ -2713,7 +3121,9 @@
       "thumbnail": "https://i.ytimg.com/vi/3cfHKmQ2ZzI/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgBzgWAAuADigIMCAAQARg0ID0ofzAP&rs=AOn4CLBJKVwUZLx0OnV2hSIBPjF9jAW23A",
       "url": "https://www.youtube.com/watch?v=3cfHKmQ2ZzI",
       "artist": "The Banana Splits",
-      "musicTitle": "I'm Gonna Find a Cave"
+      "musicTitle": "I'm Gonna Find a Cave",
+      "createdAt": 1759563405286,
+      "userId": null
     },
     {
       "id": "Th1vCLC62fg",
@@ -2721,7 +3131,9 @@
       "channel": "servant to silence",
       "duration": "1:13:34",
       "thumbnail": "https://i.ytimg.com/vi/Th1vCLC62fg/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARhTIF8oZTAP&rs=AOn4CLD22IDKOPPY23XjLhJx_fWCRNYJjQ",
-      "url": "https://www.youtube.com/watch?v=Th1vCLC62fg"
+      "url": "https://www.youtube.com/watch?v=Th1vCLC62fg",
+      "createdAt": 1759617824498,
+      "userId": "ba46fe05-9c43-41d3-b6f6-753d1eff4809"
     },
     {
       "id": "0rXJfLEdIuA",
@@ -2729,7 +3141,9 @@
       "channel": "Stef Tuinstra - Topic",
       "duration": "10:56",
       "thumbnail": "https://i.ytimg.com/vi/0rXJfLEdIuA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCByqkZfAL9HO7nZQFzb8JLPDbgNw",
-      "url": "https://www.youtube.com/watch?v=0rXJfLEdIuA"
+      "url": "https://www.youtube.com/watch?v=0rXJfLEdIuA",
+      "createdAt": 1759638956181,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "STArhVNT_g8",
@@ -2739,7 +3153,9 @@
       "thumbnail": "https://i.ytimg.com/vi/STArhVNT_g8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB_ojR2KPPL5U3nYX1uEGB-uHnNfw",
       "url": "https://www.youtube.com/watch?v=STArhVNT_g8",
       "artist": "Googoosh",
-      "musicTitle": "Harf"
+      "musicTitle": "Harf",
+      "createdAt": 1759662377486,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "5CZFg4q0cSo",
@@ -2749,7 +3165,9 @@
       "thumbnail": "https://i.ytimg.com/vi/5CZFg4q0cSo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCS7mZbzhSVRpikeOkTtYtsJ0_8vA",
       "url": "https://www.youtube.com/watch?v=5CZFg4q0cSo",
       "artist": "Jazzanova",
-      "musicTitle": "Heatwave"
+      "musicTitle": "Heatwave",
+      "createdAt": 1759743972694,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "eKC3_9gRrOI",
@@ -2757,7 +3175,9 @@
       "channel": "Guys, LUS",
       "duration": "1:56:02",
       "thumbnail": "https://i.ytimg.com/vi/eKC3_9gRrOI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBryfGlW9Dn7zMccw-ZcNwft-KhPQ",
-      "url": "https://www.youtube.com/watch?v=eKC3_9gRrOI"
+      "url": "https://www.youtube.com/watch?v=eKC3_9gRrOI",
+      "createdAt": 1759772896284,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "kiVJsl6gUFw",
@@ -2782,7 +3202,9 @@
         "rock",
         "singer-songwriter",
         "soft rock"
-      ]
+      ],
+      "createdAt": 1759825778588,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "w_HA5Czhtx4",
@@ -2818,7 +3240,9 @@
         "rock and indie",
         "singer-songwriter",
         "wip"
-      ]
+      ],
+      "createdAt": 1759826955956,
+      "userId": "f2371b6a-ac56-4b84-9321-a1444511a21d"
     },
     {
       "id": "qZuxPKUVGiw",
@@ -2833,7 +3257,9 @@
         "gangsta rap",
         "hip hop",
         "west coast hip hop"
-      ]
+      ],
+      "createdAt": 1759867592083,
+      "userId": null
     },
     {
       "id": "MX6MvV8cbh8",
@@ -2852,7 +3278,9 @@
         "punk",
         "reggae rock",
         "rock"
-      ]
+      ],
+      "createdAt": 1759868691049,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "veF8UBTI0f8",
@@ -2869,7 +3297,9 @@
         "jazz",
         "jazz rock",
         "rock"
-      ]
+      ],
+      "createdAt": 1759913371353,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "R0IUR4gkPIE",
@@ -2886,7 +3316,9 @@
         "hardcore hip hop",
         "hip hop",
         "hip-hop"
-      ]
+      ],
+      "createdAt": 1759927591194,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "MzYD56hKF-8",
@@ -2894,7 +3326,9 @@
       "channel": "風の音",
       "duration": "1:08:31",
       "thumbnail": "https://i.ytimg.com/vi/MzYD56hKF-8/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB3gOAAuADigIMCAAQARhfIGUoLTAP&rs=AOn4CLC_oD25fEezvgClLXP5qr-QgnAqfw",
-      "url": "https://www.youtube.com/watch?v=MzYD56hKF-8"
+      "url": "https://www.youtube.com/watch?v=MzYD56hKF-8",
+      "createdAt": 1759936154876,
+      "userId": null
     },
     {
       "id": "N1WSk7nlfcA",
@@ -2904,7 +3338,9 @@
       "thumbnail": "https://i.ytimg.com/vi/N1WSk7nlfcA/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARhQIGUoRTAP&rs=AOn4CLAB6vvQuXkwy9RxNxoMRJRuBfuUHA",
       "url": "https://www.youtube.com/watch?v=N1WSk7nlfcA",
       "artist": "Googoosh",
-      "musicTitle": "Ageh Bemooni"
+      "musicTitle": "Ageh Bemooni",
+      "createdAt": 1759958603993,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "o4td2EImaG4",
@@ -2914,7 +3350,9 @@
       "thumbnail": "https://i.ytimg.com/vi/o4td2EImaG4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAoLzBCOGiMq8oIXSjDyOF0HZ6o3w",
       "url": "https://www.youtube.com/watch?v=o4td2EImaG4",
       "artist": "DOMi & JD BECK",
-      "musicTitle": "SPACE MOUNTAiN"
+      "musicTitle": "SPACE MOUNTAiN",
+      "createdAt": 1759969936132,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "THYTYF4ihLs",
@@ -2924,7 +3362,9 @@
       "thumbnail": "https://i.ytimg.com/vi/THYTYF4ihLs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDmDSxDp0MVQXE_mQrIjmzjmjI-FA",
       "url": "https://www.youtube.com/watch?v=THYTYF4ihLs",
       "artist": "Jameszoo",
-      "musicTitle": "Flu"
+      "musicTitle": "Flu",
+      "createdAt": 1760005070676,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "7_EeCkHs-e0",
@@ -2937,7 +3377,9 @@
       "musicTitle": "Bezos I",
       "tags": [
         "comedy"
-      ]
+      ],
+      "createdAt": 1760028981974,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "Zqd1ar5_7qw",
@@ -2947,7 +3389,9 @@
       "thumbnail": "https://i.ytimg.com/vi/Zqd1ar5_7qw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAZW_-lhFeCbtEVZhUukQRT1QnnUQ",
       "url": "https://www.youtube.com/watch?v=Zqd1ar5_7qw",
       "artist": "Charlie Chaplin",
-      "musicTitle": "Nonsense Song (Titine)"
+      "musicTitle": "Nonsense Song (Titine)",
+      "createdAt": 1760052807888,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "hObImmlg784",
@@ -2957,7 +3401,9 @@
       "thumbnail": "https://i.ytimg.com/vi/hObImmlg784/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB6uueXdea60UQQQqLf696n7MBpjw",
       "url": "https://www.youtube.com/watch?v=hObImmlg784",
       "artist": "Lavery",
-      "musicTitle": "Love Somebody Else"
+      "musicTitle": "Love Somebody Else",
+      "createdAt": 1760132264822,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "WkCCwWlvzR8",
@@ -2965,7 +3411,9 @@
       "channel": "Wood & Weather Drum Shop",
       "duration": "5:04",
       "thumbnail": "https://i.ytimg.com/vi/WkCCwWlvzR8/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIF0oTTAP&rs=AOn4CLDC79cA67QWC3APViciIGIvcvdF3Q",
-      "url": "https://www.youtube.com/watch?v=WkCCwWlvzR8"
+      "url": "https://www.youtube.com/watch?v=WkCCwWlvzR8",
+      "createdAt": 1760133010300,
+      "userId": null
     },
     {
       "id": "We44KBcczEI",
@@ -2973,7 +3421,9 @@
       "channel": "fyne",
       "duration": "4:08",
       "thumbnail": "https://i.ytimg.com/vi/We44KBcczEI/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIFQoNzAP&rs=AOn4CLBLSzUrDwB41FjsUAV61L_Ny1OQEw",
-      "url": "https://www.youtube.com/watch?v=We44KBcczEI"
+      "url": "https://www.youtube.com/watch?v=We44KBcczEI",
+      "createdAt": 1760133471025,
+      "userId": null
     },
     {
       "id": "_CjnBnqjlbY",
@@ -2981,7 +3431,9 @@
       "channel": "Rut Alonso",
       "duration": "6:48",
       "thumbnail": "https://i.ytimg.com/vi/_CjnBnqjlbY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBfVl4iEr_dj5RUkv2ur_7OoPmoJw",
-      "url": "https://www.youtube.com/watch?v=_CjnBnqjlbY"
+      "url": "https://www.youtube.com/watch?v=_CjnBnqjlbY",
+      "createdAt": 1760135623129,
+      "userId": null
     },
     {
       "id": "6sOpjMIjHj8",
@@ -2989,7 +3441,9 @@
       "channel": "scaredketchup",
       "duration": "5:11",
       "thumbnail": "https://i.ytimg.com/vi/6sOpjMIjHj8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCPtZCLkoaU8jdxVNCOq42xmlc2gQ",
-      "url": "https://www.youtube.com/watch?v=6sOpjMIjHj8"
+      "url": "https://www.youtube.com/watch?v=6sOpjMIjHj8",
+      "createdAt": 1760205599973,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "L1ukLL192vg",
@@ -3002,7 +3456,9 @@
       "musicTitle": "ISMUS",
       "tags": [
         "german"
-      ]
+      ],
+      "createdAt": 1760224371002,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "rf5afIBp9gI",
@@ -3010,7 +3466,9 @@
       "channel": "Russell E.L. Butler - Topic",
       "duration": "10:36",
       "thumbnail": "https://i.ytimg.com/vi/rf5afIBp9gI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDGOtqhilcBvscAOjlc5yyRFRYbjA",
-      "url": "https://www.youtube.com/watch?v=rf5afIBp9gI"
+      "url": "https://www.youtube.com/watch?v=rf5afIBp9gI",
+      "createdAt": 1760228018548,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "cdrDZSE3yj8",
@@ -3018,7 +3476,9 @@
       "channel": "Knorkator",
       "duration": "4:22",
       "thumbnail": "https://i.ytimg.com/vi/cdrDZSE3yj8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBvkLjzmE88OJiZwTu5gpe2m0hSRw",
-      "url": "https://www.youtube.com/watch?v=cdrDZSE3yj8"
+      "url": "https://www.youtube.com/watch?v=cdrDZSE3yj8",
+      "createdAt": 1760259902520,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "XnygT6ANLzQ",
@@ -3028,7 +3488,9 @@
       "thumbnail": "https://i.ytimg.com/vi/XnygT6ANLzQ/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgBvgeAAtAFigIMCAAQARhyIFsoPzAP&rs=AOn4CLArWhuh0JbfsJzNVE1_5QYlsaPj2Q",
       "url": "https://www.youtube.com/watch?v=XnygT6ANLzQ",
       "artist": "Skrilla",
-      "musicTitle": "Doot Doot (6 7)"
+      "musicTitle": "Doot Doot (6 7)",
+      "createdAt": 1760430737141,
+      "userId": null
     },
     {
       "id": "-vgo_Oj2P5k",
@@ -3038,7 +3500,9 @@
       "thumbnail": "https://i.ytimg.com/vi/-vgo_Oj2P5k/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgkIGUoTTAP&rs=AOn4CLDZJ2g_ux6x36iE2OhtL95IKiVw5A",
       "url": "https://www.youtube.com/watch?v=-vgo_Oj2P5k",
       "artist": "Frivolous",
-      "musicTitle": "Allen Town Jail"
+      "musicTitle": "Allen Town Jail",
+      "createdAt": 1760483929406,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "e9vIwOw2qTU",
@@ -3046,7 +3510,9 @@
       "channel": "Future Funk",
       "duration": "4:10",
       "thumbnail": "https://i.ytimg.com/vi/e9vIwOw2qTU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDPqt_6qwXW7dtESMoN8kPU_BfK7A",
-      "url": "https://www.youtube.com/watch?v=e9vIwOw2qTU"
+      "url": "https://www.youtube.com/watch?v=e9vIwOw2qTU",
+      "createdAt": 1760486578142,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "EF0RbZXenXg",
@@ -3054,7 +3520,9 @@
       "channel": "Future Funk",
       "duration": "6:27",
       "thumbnail": "https://i.ytimg.com/vi/EF0RbZXenXg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDi0vHL9-oq0oKD0Ty_Uj0gh6-YZg",
-      "url": "https://www.youtube.com/watch?v=EF0RbZXenXg"
+      "url": "https://www.youtube.com/watch?v=EF0RbZXenXg",
+      "createdAt": 1760487284580,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "7I75a27Cgfs",
@@ -3064,7 +3532,9 @@
       "thumbnail": "https://i.ytimg.com/vi/7I75a27Cgfs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAS2ZM9ukswLyOsMQdBW6ttpfY3Zw",
       "url": "https://www.youtube.com/watch?v=7I75a27Cgfs",
       "artist": "Alligatoah",
-      "musicTitle": "Der gestichelte Kater - Inhaltsangabe"
+      "musicTitle": "Der gestichelte Kater - Inhaltsangabe",
+      "createdAt": 1760524655244,
+      "userId": "9d7dd99f-aadd-4a04-88d9-ebf9872b5e3a"
     },
     {
       "id": "nVhNCTH8pDs",
@@ -3074,7 +3544,9 @@
       "thumbnail": "https://i.ytimg.com/vi/nVhNCTH8pDs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC49HrkKIxoZhxKBdhUnMkC9XdhuA",
       "url": "https://www.youtube.com/watch?v=nVhNCTH8pDs",
       "artist": "Pink Floyd",
-      "musicTitle": "Learning to Fly"
+      "musicTitle": "Learning to Fly",
+      "createdAt": 1760539609300,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "CZ1kVocZncE",
@@ -3084,7 +3556,9 @@
       "thumbnail": "https://i.ytimg.com/vi/CZ1kVocZncE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDjdzeI_Nq0fcnXg10L960Pvox-OQ",
       "url": "https://www.youtube.com/watch?v=CZ1kVocZncE",
       "artist": "Knorkator",
-      "musicTitle": "Halb voll"
+      "musicTitle": "Halb voll",
+      "createdAt": 1760606086454,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "iijKLHCQw5o",
@@ -3103,7 +3577,9 @@
         "pagan metal",
         "rock",
         "viking metal"
-      ]
+      ],
+      "createdAt": 1760726921860,
+      "userId": "9d7dd99f-aadd-4a04-88d9-ebf9872b5e3a"
     },
     {
       "id": "R0jkgXrXk44",
@@ -3119,7 +3595,9 @@
         "hip hop",
         "rap",
         "russian"
-      ]
+      ],
+      "createdAt": 1760784367101,
+      "userId": null
     },
     {
       "id": "RK2xBIU69ZI",
@@ -3129,7 +3607,9 @@
       "thumbnail": "https://i.ytimg.com/vi/RK2xBIU69ZI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA53PFc2mjjPLiCUq8sodWh1nnVLw",
       "url": "https://www.youtube.com/watch?v=RK2xBIU69ZI",
       "artist": "Billie Marten",
-      "musicTitle": "Bad Apple"
+      "musicTitle": "Bad Apple",
+      "createdAt": 1760784994880,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "HJ1Pt4HbKM0",
@@ -3139,7 +3619,9 @@
       "thumbnail": "https://i.ytimg.com/vi/HJ1Pt4HbKM0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCNK6gMacHN4adhjK9It9TSA0owQQ",
       "url": "https://www.youtube.com/watch?v=HJ1Pt4HbKM0",
       "artist": "Philip Weberndoerfer",
-      "musicTitle": "Little B's Poem"
+      "musicTitle": "Little B's Poem",
+      "createdAt": 1760785619887,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "GoYAGNLqFwg",
@@ -3147,7 +3629,9 @@
       "channel": "60otaku4",
       "duration": "5:35",
       "thumbnail": "https://i.ytimg.com/vi/GoYAGNLqFwg/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARguIFgocjAP&rs=AOn4CLCX1rLyyWz4_t-mS9uf1SZWcyaXOw",
-      "url": "https://www.youtube.com/watch?v=GoYAGNLqFwg"
+      "url": "https://www.youtube.com/watch?v=GoYAGNLqFwg",
+      "createdAt": 1760786890456,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "0RXdd0pCJ9Q",
@@ -3161,7 +3645,9 @@
       "tags": [
         "deep house",
         "downtempo"
-      ]
+      ],
+      "createdAt": 1760812926843,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "SsaVAOb19o8",
@@ -3169,7 +3655,9 @@
       "channel": "The Jins",
       "duration": "4:06",
       "thumbnail": "https://i.ytimg.com/vi/SsaVAOb19o8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDbDyC-GfzzOWxnbr3rjnGy45claA",
-      "url": "https://www.youtube.com/watch?v=SsaVAOb19o8"
+      "url": "https://www.youtube.com/watch?v=SsaVAOb19o8",
+      "createdAt": 1760862900863,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "1VgbtmtaP54",
@@ -3182,7 +3670,9 @@
       "musicTitle": "4th Chamber (snippet)",
       "tags": [
         "hip hop"
-      ]
+      ],
+      "createdAt": 1760971421433,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "oBmwTSyg4fk",
@@ -3192,7 +3682,9 @@
       "thumbnail": "https://i.ytimg.com/vi/oBmwTSyg4fk/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB0AWAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLCLhZLeFw59jZKqWQDjyFuXaDUvkw",
       "url": "https://www.youtube.com/watch?v=oBmwTSyg4fk",
       "artist": "D5",
-      "musicTitle": "Run"
+      "musicTitle": "Run",
+      "createdAt": 1761057962756,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "0K4JAO0rz0A",
@@ -3202,7 +3694,9 @@
       "thumbnail": "https://i.ytimg.com/vi/0K4JAO0rz0A/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgBzgWAAuADigIMCAAQARh_IEgoLzAP&rs=AOn4CLD5Rj-NqUSUc6iZC7b2S5bFf5Rv2Q",
       "url": "https://www.youtube.com/watch?v=0K4JAO0rz0A",
       "artist": "Aril Brikha",
-      "musicTitle": "Deeparture in Time"
+      "musicTitle": "Deeparture in Time",
+      "createdAt": 1761058234823,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "J39DC9t0I5o",
@@ -3217,7 +3711,9 @@
         "classic rock",
         "pop",
         "rock"
-      ]
+      ],
+      "createdAt": 1761072945520,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "RDSEtWt9u-A",
@@ -3232,7 +3728,9 @@
         "art pop",
         "indie rock",
         "progressive pop"
-      ]
+      ],
+      "createdAt": 1761128233157,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "WHOwEiiTuHQ",
@@ -3250,7 +3748,9 @@
         "jazz",
         "pop",
         "rock"
-      ]
+      ],
+      "createdAt": 1761218864001,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "fJx0KgkbIXY",
@@ -3258,7 +3758,9 @@
       "channel": "Nightwalk",
       "duration": "2:55",
       "thumbnail": "https://i.ytimg.com/vi/fJx0KgkbIXY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDIYB2WycC5gSjp1QAiAR49nJHWlw",
-      "url": "https://www.youtube.com/watch?v=fJx0KgkbIXY"
+      "url": "https://www.youtube.com/watch?v=fJx0KgkbIXY",
+      "createdAt": 1761231220017,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "G0wOOlwXLgA",
@@ -3271,7 +3773,9 @@
       "musicTitle": "On the Run",
       "tags": [
         "progressive rock"
-      ]
+      ],
+      "createdAt": 1761310529998,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "FXb8HlUEonA",
@@ -3281,7 +3785,9 @@
       "thumbnail": "https://i.ytimg.com/vi/FXb8HlUEonA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLASjDsNmvZOoB2sDAxbMCYrgncSlQ",
       "url": "https://www.youtube.com/watch?v=FXb8HlUEonA",
       "artist": "Keeno",
-      "musicTitle": "Enigma"
+      "musicTitle": "Enigma",
+      "createdAt": 1761322967645,
+      "userId": null
     },
     {
       "id": "jFfEiaEZnrQ",
@@ -3289,7 +3795,9 @@
       "channel": "AtomTM - Topic",
       "duration": "5:11",
       "thumbnail": "https://i.ytimg.com/vi/jFfEiaEZnrQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBX2NeY5iHLgMdcVLoLqJARLPaOXQ",
-      "url": "https://www.youtube.com/watch?v=jFfEiaEZnrQ"
+      "url": "https://www.youtube.com/watch?v=jFfEiaEZnrQ",
+      "createdAt": 1761345483058,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "vDTpw7CQj6A",
@@ -3297,7 +3805,9 @@
       "channel": "AtomTM - Topic",
       "duration": "6:35",
       "thumbnail": "https://i.ytimg.com/vi/vDTpw7CQj6A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDeJJaTASeh5cVykykgonAjXOK4UA",
-      "url": "https://www.youtube.com/watch?v=vDTpw7CQj6A"
+      "url": "https://www.youtube.com/watch?v=vDTpw7CQj6A",
+      "createdAt": 1761346422798,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "84NDOid_-Cc",
@@ -3307,7 +3817,9 @@
       "thumbnail": "https://i.ytimg.com/vi/84NDOid_-Cc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDpDjh_XXBaMRerGAa0ZoKk1ujNjg",
       "url": "https://www.youtube.com/watch?v=84NDOid_-Cc",
       "artist": "Mandidextrous",
-      "musicTitle": "Deep on This"
+      "musicTitle": "Deep on This",
+      "createdAt": 1761377733790,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "R_N0lqMs8U8",
@@ -3315,7 +3827,9 @@
       "channel": "Selecta J-Man - Topic",
       "duration": "4:13",
       "thumbnail": "https://i.ytimg.com/vi/R_N0lqMs8U8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAQkK_Mj_Ksq9KdOzfx0o3iXG1pKg",
-      "url": "https://www.youtube.com/watch?v=R_N0lqMs8U8"
+      "url": "https://www.youtube.com/watch?v=R_N0lqMs8U8",
+      "createdAt": 1761380346293,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "c-2gP-1pejs",
@@ -3332,7 +3846,9 @@
         "electronic",
         "funky house",
         "grime"
-      ]
+      ],
+      "createdAt": 1761519597165,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "HmLwcWSGHnM",
@@ -3345,7 +3861,9 @@
       "musicTitle": "Rubber Chicken",
       "tags": [
         "electronic"
-      ]
+      ],
+      "createdAt": 1761565913341,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "2Kc6YYG8VRg",
@@ -3355,7 +3873,9 @@
       "thumbnail": "https://i.ytimg.com/vi/2Kc6YYG8VRg/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAI3n45E0VKPzCrHM8bPVIksQGiaQ",
       "url": "https://www.youtube.com/watch?v=2Kc6YYG8VRg",
       "artist": "Xique-Xique",
-      "musicTitle": "Rio Negro"
+      "musicTitle": "Rio Negro",
+      "createdAt": 1761605976381,
+      "userId": null
     },
     {
       "id": "-RiPdpeii7E",
@@ -3371,7 +3891,9 @@
         "big band",
         "cool jazz",
         "jazz"
-      ]
+      ],
+      "createdAt": 1761609898789,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "dEtNa74GU0E",
@@ -3381,7 +3903,9 @@
       "thumbnail": "https://i.ytimg.com/vi/dEtNa74GU0E/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBNn4UAFS32tXh-RHpDqYpegpPoMQ",
       "url": "https://www.youtube.com/watch?v=dEtNa74GU0E",
       "artist": "Art Pepper",
-      "musicTitle": "Patricia"
+      "musicTitle": "Patricia",
+      "createdAt": 1761611294075,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "haEH7C1lpNI",
@@ -3391,7 +3915,9 @@
       "thumbnail": "https://i.ytimg.com/vi/haEH7C1lpNI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD2YFNXpsIxoJZfouE2sr82tw8uug",
       "url": "https://www.youtube.com/watch?v=haEH7C1lpNI",
       "artist": "Oklou",
-      "musicTitle": "harvest sky"
+      "musicTitle": "harvest sky",
+      "createdAt": 1761644087600,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "BKdigb7GasY",
@@ -3401,7 +3927,9 @@
       "thumbnail": "https://i.ytimg.com/vi/BKdigb7GasY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCFM7RCwUQ5p3n7_-2n8HctcTeq7Q",
       "url": "https://www.youtube.com/watch?v=BKdigb7GasY",
       "artist": "Oklou",
-      "musicTitle": "viscus (feat. FKA twigs)"
+      "musicTitle": "viscus (feat. FKA twigs)",
+      "createdAt": 1761645231442,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "mldcDidGJCg",
@@ -3414,7 +3942,9 @@
       "musicTitle": "大展鴻圖",
       "tags": [
         "hip hop"
-      ]
+      ],
+      "createdAt": 1761660090913,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "1xICZAQ7GBQ",
@@ -3433,7 +3963,9 @@
         "pop",
         "post-grunge alternative rock",
         "rock"
-      ]
+      ],
+      "createdAt": 1761671333625,
+      "userId": "1d2d2f9f-0d1a-47e7-8740-bf0ea0fe314e"
     },
     {
       "id": "XYe8AKYPUYc",
@@ -3441,7 +3973,9 @@
       "channel": "25midi",
       "duration": "10:51",
       "thumbnail": "https://i.ytimg.com/vi/XYe8AKYPUYc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDzKnMiCbBR-ZcDdFWef4lZ5fAVFg",
-      "url": "https://www.youtube.com/watch?v=XYe8AKYPUYc"
+      "url": "https://www.youtube.com/watch?v=XYe8AKYPUYc",
+      "createdAt": 1761847036287,
+      "userId": null
     },
     {
       "id": "MnKjO_4NJaI",
@@ -3449,7 +3983,9 @@
       "channel": "RussBand",
       "duration": "2:43",
       "thumbnail": "https://i.ytimg.com/vi/MnKjO_4NJaI/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgBjgWAAuADigIMCAAQARh_ICooLzAP&rs=AOn4CLBxQKN2y1jnw9Dj0DZPphmRS08NNA",
-      "url": "https://www.youtube.com/watch?v=MnKjO_4NJaI"
+      "url": "https://www.youtube.com/watch?v=MnKjO_4NJaI",
+      "createdAt": 1761849305416,
+      "userId": null
     },
     {
       "id": "mA8NPhT8Qxo",
@@ -3459,7 +3995,9 @@
       "thumbnail": "https://i.ytimg.com/vi/mA8NPhT8Qxo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCWUXzotZiOiSofyIUE8gvQKvqGsA",
       "url": "https://www.youtube.com/watch?v=mA8NPhT8Qxo",
       "artist": "Feater",
-      "musicTitle": "Yogtze"
+      "musicTitle": "Yogtze",
+      "createdAt": 1761913004413,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "yI2oS2hoL0k",
@@ -3467,7 +4005,9 @@
       "channel": "Radiohead",
       "duration": "4:00",
       "thumbnail": "https://i.ytimg.com/vi/yI2oS2hoL0k/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB6g0cgAo7TLz4h4ntIGPVU5qImNg",
-      "url": "https://www.youtube.com/watch?v=yI2oS2hoL0k"
+      "url": "https://www.youtube.com/watch?v=yI2oS2hoL0k",
+      "createdAt": 1761941713618,
+      "userId": "e1c0d151-5330-4e05-ab3f-6ebc09aee61e"
     },
     {
       "id": "-9ZntpMR2IM",
@@ -3483,7 +4023,9 @@
         "hip hop",
         "hip-hop",
         "rap"
-      ]
+      ],
+      "createdAt": 1762037779370,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "UVscbKlmtEQ",
@@ -3493,7 +4035,9 @@
       "thumbnail": "https://i.ytimg.com/vi/UVscbKlmtEQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBB9demOKRHWsUoSwyWN9O5xtXOPQ",
       "url": "https://www.youtube.com/watch?v=UVscbKlmtEQ",
       "artist": "Fernando Gelbard",
-      "musicTitle": "Didi"
+      "musicTitle": "Didi",
+      "createdAt": 1762062897473,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "lbiheF8e5D8",
@@ -3503,7 +4047,9 @@
       "thumbnail": "https://i.ytimg.com/vi/lbiheF8e5D8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLChk0ow68e5Q9JL2vzxsT5RqRxJLg",
       "url": "https://www.youtube.com/watch?v=lbiheF8e5D8",
       "artist": "Charles Lloyd",
-      "musicTitle": "Figure in Blue, Memories of Duke"
+      "musicTitle": "Figure in Blue, Memories of Duke",
+      "createdAt": 1762064290218,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "G1ucU1ZfKCs",
@@ -3513,7 +4059,9 @@
       "thumbnail": "https://i.ytimg.com/vi/G1ucU1ZfKCs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBB7-AJs330CtfSdSz6ilkx-O3G0Q",
       "url": "https://www.youtube.com/watch?v=G1ucU1ZfKCs",
       "artist": "Todd Snider",
-      "musicTitle": "It's Hard To Be Happy (Y is for Redneck)"
+      "musicTitle": "It's Hard To Be Happy (Y is for Redneck)",
+      "createdAt": 1762064864244,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "CprfjfN5PRs",
@@ -3535,7 +4083,9 @@
         "neo-classical metal",
         "pop/rock",
         "rock"
-      ]
+      ],
+      "createdAt": 1762089130771,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "y2f3tlgApHw",
@@ -3545,7 +4095,9 @@
       "thumbnail": "https://i.ytimg.com/vi/y2f3tlgApHw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCiHOFaUE6aWLT4kRmrPvZlfBx4Hw",
       "url": "https://www.youtube.com/watch?v=y2f3tlgApHw",
       "artist": "Jefferson Airplane",
-      "musicTitle": "Comin' Back to Me"
+      "musicTitle": "Comin' Back to Me",
+      "createdAt": 1762110293645,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "UolD-D59knQ",
@@ -3555,7 +4107,9 @@
       "thumbnail": "https://i.ytimg.com/vi/UolD-D59knQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBrPeqL3bL5hc6frqaDPcQEBM7ukw",
       "url": "https://www.youtube.com/watch?v=UolD-D59knQ",
       "artist": "Julianna Barwick",
-      "musicTitle": "Melted Moon"
+      "musicTitle": "Melted Moon",
+      "createdAt": 1762324478683,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "xQreKaWXVMs",
@@ -3565,7 +4119,9 @@
       "thumbnail": "https://i.ytimg.com/vi/xQreKaWXVMs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD6Jr4knHaSKYygZ-0-zcF4gBGK_A",
       "url": "https://www.youtube.com/watch?v=xQreKaWXVMs",
       "artist": "μ‐Ziq",
-      "musicTitle": "Escorial"
+      "musicTitle": "Escorial",
+      "createdAt": 1762324890179,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "R_tJqxN_Tqs",
@@ -3575,7 +4131,9 @@
       "thumbnail": "https://i.ytimg.com/vi/R_tJqxN_Tqs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA9gyqgykuEKfcZVS31qf5Q01mLpw",
       "url": "https://www.youtube.com/watch?v=R_tJqxN_Tqs",
       "artist": "Dylan Henner",
-      "musicTitle": "We Walked all the Way to the Lake and The Water Was So Still We Jumped in Naked"
+      "musicTitle": "We Walked all the Way to the Lake and The Water Was So Still We Jumped in Naked",
+      "createdAt": 1762325347014,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "pzrhbtrqzVk",
@@ -3585,7 +4143,9 @@
       "thumbnail": "https://i.ytimg.com/vi/pzrhbtrqzVk/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhNIC4ofzAP&rs=AOn4CLC_-89Y81XslImR0TjHaNSai82_ng",
       "url": "https://www.youtube.com/watch?v=pzrhbtrqzVk",
       "artist": "Jimi Bazzouka",
-      "musicTitle": "So So Ye"
+      "musicTitle": "So So Ye",
+      "createdAt": 1762354070752,
+      "userId": null
     },
     {
       "id": "HHF0xlf-bjY",
@@ -3600,7 +4160,9 @@
         "soundtrack",
         "soundtracks",
         "stage & screen"
-      ]
+      ],
+      "createdAt": 1762354284808,
+      "userId": null
     },
     {
       "id": "wGprqs2rcRY",
@@ -3610,7 +4172,9 @@
       "thumbnail": "https://i.ytimg.com/vi/wGprqs2rcRY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDLlnDY9X1CssgOTmcfuoeYKvIKSA",
       "url": "https://www.youtube.com/watch?v=wGprqs2rcRY",
       "artist": "Galt MacDermot",
-      "musicTitle": "Duffer in F (version 2)"
+      "musicTitle": "Duffer in F (version 2)",
+      "createdAt": 1762372192544,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "gPDkcHo8rIU",
@@ -3629,7 +4193,9 @@
         "pop",
         "rock",
         "singer-songwriter"
-      ]
+      ],
+      "createdAt": 1762373701401,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "o0AtBnYujw4",
@@ -3645,7 +4211,9 @@
         "indie pop",
         "indie rock",
         "rock"
-      ]
+      ],
+      "createdAt": 1762373845406,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "tW3J9XnBbqk",
@@ -3655,7 +4223,9 @@
       "thumbnail": "https://i.ytimg.com/vi/tW3J9XnBbqk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBxwDrQ91gOw0AonDv34f1PrH97yA",
       "url": "https://www.youtube.com/watch?v=tW3J9XnBbqk",
       "artist": "Gorillaz",
-      "musicTitle": "Andromeda (Purple Disco Machine remix)"
+      "musicTitle": "Andromeda (Purple Disco Machine remix)",
+      "createdAt": 1762385595130,
+      "userId": "371e2f9b-ae09-4b29-a45f-bf0b95479f22"
     },
     {
       "id": "Djf5uOkmhSc",
@@ -3663,7 +4233,9 @@
       "channel": "Holger Piotrowski",
       "duration": "1:48",
       "thumbnail": "https://i.ytimg.com/vi/Djf5uOkmhSc/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB1AaAAuADigIMCAAQARhlIFooRzAP&rs=AOn4CLDU9_fzMCD-Rqf4VkV30qELFScPcQ",
-      "url": "https://www.youtube.com/watch?v=Djf5uOkmhSc"
+      "url": "https://www.youtube.com/watch?v=Djf5uOkmhSc",
+      "createdAt": 1762393938589,
+      "userId": "9d7dd99f-aadd-4a04-88d9-ebf9872b5e3a"
     },
     {
       "id": "zI7330nQjpM",
@@ -3671,7 +4243,9 @@
       "channel": "Hallway",
       "duration": "4:25",
       "thumbnail": "https://i.ytimg.com/vi/zI7330nQjpM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBAQ99Sms1MEGWvmkMvf82LnvldAg",
-      "url": "https://www.youtube.com/watch?v=zI7330nQjpM"
+      "url": "https://www.youtube.com/watch?v=zI7330nQjpM",
+      "createdAt": 1762413228737,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "DKVWp_Ekl44",
@@ -3681,7 +4255,9 @@
       "thumbnail": "https://i.ytimg.com/vi/DKVWp_Ekl44/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gKAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLB0oXERQFy0KMjjk92sHgbpTvLZaQ",
       "url": "https://www.youtube.com/watch?v=DKVWp_Ekl44",
       "artist": "Chet Baker",
-      "musicTitle": "Leaving"
+      "musicTitle": "Leaving",
+      "createdAt": 1762444935310,
+      "userId": null
     },
     {
       "id": "fV-3Iduy07I",
@@ -3689,7 +4265,9 @@
       "channel": "sUb_modU - Topic",
       "duration": "5:42",
       "thumbnail": "https://i.ytimg.com/vi/fV-3Iduy07I/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAnAhbMM5yNGJ2sw5HqJDocbXytcg",
-      "url": "https://www.youtube.com/watch?v=fV-3Iduy07I"
+      "url": "https://www.youtube.com/watch?v=fV-3Iduy07I",
+      "createdAt": 1762447162778,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "r_DhjW9DVAY",
@@ -3697,7 +4275,9 @@
       "channel": "Mild High Club",
       "duration": "29:47",
       "thumbnail": "https://i.ytimg.com/vi/r_DhjW9DVAY/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB3gOAAuADigIMCAAQARhlIEwoZTAP&rs=AOn4CLC60r390RrK--PEM1fX0JZ7yF20HA",
-      "url": "https://www.youtube.com/watch?v=r_DhjW9DVAY"
+      "url": "https://www.youtube.com/watch?v=r_DhjW9DVAY",
+      "createdAt": 1762449475008,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "0qHotJmYG0Y",
@@ -3707,7 +4287,9 @@
       "thumbnail": "https://i.ytimg.com/vi/0qHotJmYG0Y/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAq6OdUiOJd5_bRD21aoKCk4SB93w",
       "url": "https://www.youtube.com/watch?v=0qHotJmYG0Y",
       "artist": "Sven Wunder",
-      "musicTitle": "Take a Seat"
+      "musicTitle": "Take a Seat",
+      "createdAt": 1762499270311,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "VDhqcuR-4aY",
@@ -3715,7 +4297,9 @@
       "channel": "DeepMatter Records",
       "duration": "4:15",
       "thumbnail": "https://i.ytimg.com/vi/VDhqcuR-4aY/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIFsoTDAP&rs=AOn4CLBqVVzSxznh8dvDkaR4mGQnW6dQsA",
-      "url": "https://www.youtube.com/watch?v=VDhqcuR-4aY"
+      "url": "https://www.youtube.com/watch?v=VDhqcuR-4aY",
+      "createdAt": 1762499359473,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "fAr4TkB_9NA",
@@ -3725,7 +4309,9 @@
       "thumbnail": "https://i.ytimg.com/vi/fAr4TkB_9NA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCpI8h4WWHkJuL3DIkwMjkq1JhNmg",
       "url": "https://www.youtube.com/watch?v=fAr4TkB_9NA",
       "artist": "Alina Bzhezhinska",
-      "musicTitle": "Altera Vita (Sly5thave remix)"
+      "musicTitle": "Altera Vita (Sly5thave remix)",
+      "createdAt": 1762500129633,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "h25xPyKPG60",
@@ -3733,7 +4319,9 @@
       "channel": "Orange Sun",
       "duration": "5:57",
       "thumbnail": "https://i.ytimg.com/vi/h25xPyKPG60/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARhyID4oQDAP&rs=AOn4CLB0phLaEjjP38IFbqeypZPvi67pcQ",
-      "url": "https://www.youtube.com/watch?v=h25xPyKPG60"
+      "url": "https://www.youtube.com/watch?v=h25xPyKPG60",
+      "createdAt": 1762502253655,
+      "userId": null
     },
     {
       "id": "HoR8wjLFHCo",
@@ -3741,7 +4329,9 @@
       "channel": "JohnnyReb1860",
       "duration": "2:29",
       "thumbnail": "https://i.ytimg.com/vi/HoR8wjLFHCo/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgBvgKAAvABigIMCAAQARh_ICwoQDAP&rs=AOn4CLDAYjZGr7lkHrc7sCucxUzjnN-QAA",
-      "url": "https://www.youtube.com/watch?v=HoR8wjLFHCo"
+      "url": "https://www.youtube.com/watch?v=HoR8wjLFHCo",
+      "createdAt": 1762502485207,
+      "userId": null
     },
     {
       "id": "Z0Wk7rwwyEk",
@@ -3758,7 +4348,9 @@
         "electronic",
         "reggae",
         "trip hop"
-      ]
+      ],
+      "createdAt": 1762529772514,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "OR1b3-WAtSY",
@@ -3766,7 +4358,9 @@
       "channel": "Les Yeux Orange",
       "duration": "6:20",
       "thumbnail": "https://i.ytimg.com/vi/OR1b3-WAtSY/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARg2IF8oZTAP&rs=AOn4CLA-ZAJg1Hs7NOvNxMsFDVmg9o_Log",
-      "url": "https://www.youtube.com/watch?v=OR1b3-WAtSY"
+      "url": "https://www.youtube.com/watch?v=OR1b3-WAtSY",
+      "createdAt": 1762540743039,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "OhapitERR-M",
@@ -3776,7 +4370,9 @@
       "thumbnail": "https://i.ytimg.com/vi/OhapitERR-M/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD29G3UCaXTNBj99grjrC6a9re_ZA",
       "url": "https://www.youtube.com/watch?v=OhapitERR-M",
       "artist": "Dominik Eulberg",
-      "musicTitle": "Brauner Bär"
+      "musicTitle": "Brauner Bär",
+      "createdAt": 1762588700827,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "5DuA6w24rMk",
@@ -3784,7 +4380,9 @@
       "channel": "Lay-Far",
       "duration": "4:07",
       "thumbnail": "https://i.ytimg.com/vi/5DuA6w24rMk/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgBzgWAAtAFigIMCAAQARhQIFsoZTAP&rs=AOn4CLA6KuOJDbRqjr1QjmN32FHkvusTyA",
-      "url": "https://www.youtube.com/watch?v=5DuA6w24rMk"
+      "url": "https://www.youtube.com/watch?v=5DuA6w24rMk",
+      "createdAt": 1762588856679,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "_Z7Y89M07_0",
@@ -3794,7 +4392,9 @@
       "thumbnail": "https://i.ytimg.com/vi/_Z7Y89M07_0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA2DqLN5pjldUixWYUsAzj3V7046w",
       "url": "https://www.youtube.com/watch?v=_Z7Y89M07_0",
       "artist": "Ilhan Erşahin's Istanbul Sessions",
-      "musicTitle": "Pris"
+      "musicTitle": "Pris",
+      "createdAt": 1762596058551,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
     },
     {
       "id": "XCi4LVt-Ais",
@@ -3804,7 +4404,9 @@
       "thumbnail": "https://i.ytimg.com/vi/XCi4LVt-Ais/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhMIGUoMzAP&rs=AOn4CLBhVbiY1U2fUWdWNKu5ITHQMsROHg",
       "url": "https://www.youtube.com/watch?v=XCi4LVt-Ais",
       "artist": "Artur Nunes",
-      "musicTitle": "Tia"
+      "musicTitle": "Tia",
+      "createdAt": 1762686611177,
+      "userId": "767b9220-de28-4775-b275-a001364a916e"
     },
     {
       "id": "j3tdPXxLfU4",
@@ -3812,8 +4414,66 @@
       "channel": "Sarp Maden - Topic",
       "duration": "7:41",
       "thumbnail": "https://i.ytimg.com/vi/j3tdPXxLfU4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDcXmSiZl-8PsPDPlxKgwqtK2jiyQ",
-      "url": "https://www.youtube.com/watch?v=j3tdPXxLfU4"
+      "url": "https://www.youtube.com/watch?v=j3tdPXxLfU4",
+      "createdAt": 1762692641418,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
+    },
+    {
+      "id": "dvva3eOHi7o",
+      "title": "Gavin Newsom - DARK WOKE The Music Video",
+      "channel": "scaredketchup",
+      "duration": "4:53",
+      "thumbnail": "https://i.ytimg.com/vi/dvva3eOHi7o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA6OEzLiaohsMNcHnb8IRJFE8SD2w",
+      "url": "https://www.youtube.com/watch?v=dvva3eOHi7o",
+      "createdAt": 1756903631172,
+      "userId": "bcf930c9-75ac-448d-b0b1-792f6cf1103b"
+    },
+    {
+      "id": "DHO7lOi8u28",
+      "title": "Le Serpent",
+      "channel": "Guem - Topic",
+      "duration": "5:17",
+      "thumbnail": "https://i.ytimg.com/vi/DHO7lOi8u28/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCR7rx4Bz0fMelrR2dTexf1m9ySiQ",
+      "url": "https://www.youtube.com/watch?v=DHO7lOi8u28",
+      "createdAt": 1762815443229,
+      "userId": "767b9220-de28-4775-b275-a001364a916e",
+      "artist": "Guem",
+      "musicTitle": "Le Serpent",
+      "tags": [
+        "african-percussion",
+        "afrobeat"
+      ]
+    },
+    {
+      "id": "sLsJbsiE8PQ",
+      "title": "Kwashibu Area Band - Mpaebo Mu Asomdwee",
+      "channel": "Soundway Records",
+      "duration": "3:52",
+      "thumbnail": "https://i.ytimg.com/vi/sLsJbsiE8PQ/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhUIFwoZTAP&rs=AOn4CLC6jT-Wnbt71hQ2GiAwoj29inQCew",
+      "url": "https://www.youtube.com/watch?v=sLsJbsiE8PQ",
+      "createdAt": 1762816061552,
+      "userId": "767b9220-de28-4775-b275-a001364a916e",
+      "artist": "Kwashibu Area Band",
+      "musicTitle": "Mpaebo Mu Asomdwee"
+    },
+    {
+      "id": "JBywHn2ZGYU",
+      "title": "The Bird Wave",
+      "channel": "Jimmy McGriff - Topic",
+      "duration": "4:03",
+      "thumbnail": "https://i.ytimg.com/vi/JBywHn2ZGYU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAaSRhunmAQ2JDnnig0e3JJBkJoFw",
+      "url": "https://www.youtube.com/watch?v=JBywHn2ZGYU",
+      "createdAt": 1762869237412,
+      "userId": "767b9220-de28-4775-b275-a001364a916e",
+      "artist": "Jimmy McGriff",
+      "musicTitle": "The Bird Wave",
+      "tags": [
+        "funk",
+        "jazz",
+        "jazz-funk",
+        "soul jazz"
+      ]
     }
   ],
-  "lastFetched": "2025-11-09T23:55:24.613Z"
+  "lastFetched": "2025-11-11T21:08:35.680Z"
 }

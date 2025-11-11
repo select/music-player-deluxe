@@ -348,7 +348,7 @@ const editPlaylist = async (playlist: PlaylistSummary): Promise<void> => {
 		editingId.value = playlist.id;
 		loadingPlaylistVideos.value = true;
 
-		const response = (await $fetch(`/playlists/${playlist.fileName}`)) as any;
+		const response = (await $fetch(`/playlist/${playlist.fileName}`)) as any;
 
 		if (response) {
 			editingPlaylist.value = playlist;

@@ -9,6 +9,9 @@ export interface Video {
 	artist?: string;
 	musicTitle?: string;
 	tags?: string[];
+	// YouTube metadata fields
+	createdAt?: number;
+	userId?: string | null;
 }
 
 export interface Playlist {
@@ -63,6 +66,8 @@ export interface MusicBrainzSongData {
 	duration?: number;
 	youtubeId: string;
 	lastFetched: string;
+	datetime?: number;
+	userId?: string | null;
 }
 
 export interface SearchRequest {
@@ -103,4 +108,10 @@ export interface UpdateDataResponse {
 	message: string;
 	updatedVideos: number;
 	totalVideos: number;
+}
+
+export interface YouTubeLinkMetadata {
+	videoId: string;
+	datetime: number;
+	userId: string | null;
 }
