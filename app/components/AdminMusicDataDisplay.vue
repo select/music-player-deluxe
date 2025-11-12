@@ -8,7 +8,11 @@
 			{{ songData.album }}
 		</div>
 		<div
-			v-if="songData.tags?.length || songData.artistTags?.length"
+			v-if="
+				songData.tags?.length ||
+				songData.genres?.length ||
+				songData.artistTags?.length
+			"
 			class="mt-1 flex gap-2 flex-wrap"
 		>
 			<span
@@ -17,6 +21,14 @@
 				class="inline-block bg-accent/20 text-black px-1 rounded text-xs mr-1"
 			>
 				{{ tag }}
+			</span>
+			<span
+				v-for="genre in songData.genres?.slice(0, 3) || []"
+				:key="`genre-${genre}`"
+				class="inline-block bg-primary-3/30 text-primary-4 px-1 rounded text-xs mr-1"
+				:title="`Genre: ${genre}`"
+			>
+				{{ genre }}
 			</span>
 			<span
 				v-for="tag in songData.artistTags?.slice(0, 2) || []"

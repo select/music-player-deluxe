@@ -102,12 +102,17 @@ export default defineEventHandler(async (event) => {
 
 			// Update with song data if available
 			if (songData) {
-				// Fuse artistTags and tags
+				// Fuse artistTags, tags, and genres
 				const fusedTags: string[] = [];
 
 				// Add recording tags
 				if (songData.tags && songData.tags.length > 0) {
 					fusedTags.push(...songData.tags);
+				}
+
+				// Add genres
+				if (songData.genres && songData.genres.length > 0) {
+					fusedTags.push(...songData.genres);
 				}
 
 				// Add artist tags

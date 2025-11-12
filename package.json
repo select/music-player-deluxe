@@ -12,7 +12,8 @@
 		"deps:check": "pnpm outdated",
 		"deps:update": "pnpm update --latest",
 		"deps:audit": "pnpm audit",
-		"deps:dedupe": "pnpm dedupe"
+		"deps:dedupe": "pnpm dedupe",
+		"stats": "node scripts/repo-stats.mjs"
 	},
 	"dependencies": {
 		"@nuxt/eslint": "1.10.0",

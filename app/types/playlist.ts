@@ -62,6 +62,7 @@ export interface MusicBrainzSongData {
 	album?: string;
 	releaseCount: number;
 	tags: string[];
+	genres: string[];
 	artistTags?: string[];
 	duration?: number;
 	youtubeId: string;

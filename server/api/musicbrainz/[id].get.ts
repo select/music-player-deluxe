@@ -57,6 +57,7 @@ export default defineEventHandler(async (event) => {
 			"artist-credits",
 			"releases",
 			"tags",
+			"genres",
 		])) as any;
 
 		if (!recordingData) {
@@ -66,8 +67,9 @@ export default defineEventHandler(async (event) => {
 			});
 		}
 
-		// Extract tags (genres and other metadata)
+		// Extract tags and genres separately
 		const tags = recordingData.tags?.map((tag: any) => tag.name) || [];
+		const genres = recordingData.genres?.map((genre: any) => genre.name) || [];
 
 		// Count total releases
 		const releaseCount = recordingData.releases?.length || 0;
@@ -83,6 +85,7 @@ export default defineEventHandler(async (event) => {
 			artistMbid: artistMbid,
 			releaseCount: releaseCount,
 			tags: tags,
+			genres: genres,
 			duration: recordingData.length
 				? Math.round(recordingData.length / 1000)
 				: undefined,

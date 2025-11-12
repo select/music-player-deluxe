@@ -15,7 +15,7 @@ export default defineEventHandler(async (event) => {
 		}
 
 		// Define the file path for caching
-		const playlistsDir = join(process.cwd(), "public", "playlists");
+		const playlistsDir = join(process.cwd(), "public", "playlist");
 		const filePath = join(playlistsDir, `${playlistId}.json`);
 
 		// Check if cached file exists and is recent (less than 1 hour old)
