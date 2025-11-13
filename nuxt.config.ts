@@ -24,9 +24,20 @@ export default defineNuxtConfig({
 			},
 		},
 	},
+	vite: {
+		optimizeDeps: {
+			include: ["vue"],
+		},
+		ssr: {
+			noExternal: ["vue"],
+		},
+	},
 	nitro: {
 		prerender: {
 			ignore: ["/admin"],
+		},
+		rollupConfig: {
+			external: [],
 		},
 	},
 });
