@@ -15,7 +15,7 @@
 			@click="playVideo(index)"
 		>
 			<img
-				:src="video.thumbnail"
+				:src="`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`"
 				:alt="video.title"
 				class="w-12 h-9 object-cover rounded mr-3 flex-shrink-0"
 			/>

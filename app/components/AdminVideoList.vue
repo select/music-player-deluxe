@@ -33,7 +33,7 @@
 								<div class="flex items-center gap-3">
 									<div class="flex-shrink-0">
 										<img
-											:src="video.thumbnail"
+											:src="`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`"
 											:alt="video.title"
 											class="w-12 h-12 rounded-full object-cover bg-primary-1"
 										/>
@@ -43,7 +43,7 @@
 											{{ video.title }}
 										</h4>
 										<a
-											:href="video.url"
+											:href="`https://www.youtube.com/watch?v=${video.id}`"
 											target="_blank"
 											rel="noopener noreferrer"
 											class="text-xs text-primary-3 hover:text-accent transition-colors"

@@ -73,8 +73,6 @@ export default defineEventHandler(async (event) => {
 			duration: video.duration
 				? formatDuration(video.duration)
 				: "Unknown Duration",
-			thumbnail: video.thumbnails?.[0]?.url || "",
-			url: `https://www.youtube.com/watch?v=${video.id}`,
 		}));
 
 		const playlistData: Playlist = {

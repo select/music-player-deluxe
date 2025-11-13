@@ -8,7 +8,7 @@
 		>
 			<!-- Video Thumbnail -->
 			<img
-				:src="currentVideo.thumbnail"
+				:src="`https://i.ytimg.com/vi/${currentVideo.id}/hqdefault.jpg`"
 				:alt="currentVideo.title"
 				class="w-12 h-9 object-cover rounded flex-shrink-0"
 			/>

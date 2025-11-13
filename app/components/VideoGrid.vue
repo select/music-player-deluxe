@@ -31,18 +31,11 @@
 					Playing
 				</div>
 				<img
-					v-if="video.thumbnail"
-					:src="video.thumbnail"
+					:src="`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`"
 					:alt="video.title"
 					class="w-full h-full object-cover"
 					loading="lazy"
 				/>
-				<div
-					v-else
-					class="w-full h-full flex items-center justify-center bg-gray-700"
-				>
-					<div class="i-mdi-video text-gray-500 text-3xl" />
-				</div>
 			</div>
 
 			<!-- Video Info -->

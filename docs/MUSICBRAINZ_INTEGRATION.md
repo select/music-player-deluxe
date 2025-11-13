@@ -183,7 +183,6 @@ const playlistVideos = ref<Video[]>([
     title: 'Rick Astley - Never Gonna Give You Up (Official Video)',
     channel: 'Rick Astley',
     duration: '3:33',
-    thumbnail: 'https://...',
     url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
   }
 ])

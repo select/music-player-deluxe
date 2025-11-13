@@ -3,8 +3,7 @@ export interface Video {
 	title: string;
 	channel: string;
 	duration: string;
-	thumbnail: string;
-	url: string;
+
 	// Music data fields (populated from MusicBrainz)
 	artist?: string;
 	musicTitle?: string;
