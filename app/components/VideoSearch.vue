@@ -20,6 +20,7 @@
 				>
 					<span class="hidden sm:inline">Filters</span>
 				</AppBtn>
+
 				<AppBtn
 					v-if="isLocalhost"
 					to="/admin"
@@ -115,19 +116,54 @@
 				</div>
 			</div>
 
-			<!-- Sort Options Row -->
+			<!-- Sort Options and Settings Row -->
 			<div class="grid grid-cols-1 md:grid-cols-4 gap-4">
 				<div>
 					<label class="block text-sm font-medium mb-2">Sort By</label>
 					<select
 						v-model="sortBy"
 						class="w-full rounded-lg bg-primary-1 text-primary-3 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-accent"
+						@keydown.stop
 					>
 						<option value="relevance">Relevance</option>
 						<option value="createdAt">Date Added (Latest First)</option>
 						<option value="title">Title A-Z</option>
 						<option value="artist">Artist A-Z</option>
 						<option value="duration">Duration</option>
+					</select>
+				</div>
+
+				<!-- Keyboard Shortcuts -->
+				<div>
+					<div class="flex justify-between">
+						<label class="block text-sm font-medium mb-2">Keyboard </label>
+						<AppBtn
+							icon="i-mdi-keyboard"
+							variant="ghost"
+							size="medium"
+							@click="toggleKeyboardHelp"
+						>
+							<span class="hidden sm:inline">Shortcuts</span>
+						</AppBtn>
+					</div>
+					<select
+						:value="settings.keyboardShortcutScheme"
+						@change="
+							setKeyboardShortcutScheme(
+								($event.target as HTMLSelectElement)
+									.value as KeyboardShortcutScheme,
+							)
+						"
+						class="w-full rounded-lg bg-primary-1 text-primary-3 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-accent"
+						@keydown.stop
+					>
+						<option
+							v-for="scheme in availableShortcutSchemes"
+							:key="scheme.value"
+							:value="scheme.value"
+						>
+							{{ scheme.label }}
+						</option>
 					</select>
 				</div>
 			</div>
@@ -141,26 +177,27 @@
 				</AppBtn>
 			</div>
 		</div>
+
+		<!-- Keyboard Shortcuts Help Modal -->
+		<KeyboardShortcutsHelp
+			:showHelp="showKeyboardHelp"
+			@close="showKeyboardHelp = false"
+		/>
 	</div>
 </template>
 
 <script setup lang="ts">
 import Fuse from "fuse.js";
-import type { Video } from "../types";
+import type { Video, KeyboardShortcutScheme } from "../types";
 
-interface Props {
-	videos: Video[];
-}
-
-interface Emits {
-	"filtered-videos": [videos: Video[]];
-}
-
-const props = withDefaults(defineProps<Props>(), {
-	videos: () => [],
-});
-
-const emit = defineEmits<Emits>();
+// Stores
+const { setCurrentPlaylistVideos } = usePlaylistStore();
+const { setKeyboardShortcutScheme } = useUserSettingsStore();
+const { currentVideos, originalCurrentPlaylist } =
+	storeToRefs(usePlaylistStore());
+const { settings, availableShortcutSchemes } = storeToRefs(
+	useUserSettingsStore(),
+);
 
 // Check if running on localhost
 const isLocalhost = ref<boolean>(false);
@@ -180,14 +217,20 @@ const selectedTags = ref<string[]>([]);
 const selectedUsers = ref<string[]>([]);
 const selectedDuration = ref<string>("");
 const sortBy = ref<string>("createdAt");
+const showKeyboardHelp = ref<boolean>(false);
+
+// Get original videos from store
+const originalVideos = computed(
+	() => originalCurrentPlaylist.value?.videos || [],
+);
 
 // Computed properties
-const totalVideos = computed(() => props.videos.length);
+const totalVideos = computed(() => originalVideos.value.length);
 
 const availableArtists = computed(() => {
 	const artists = [
 		...new Set(
-			props.videos
+			originalVideos.value
 				.filter((video) => video.artist)
 				.map((video) => video.artist!),
 		),
@@ -197,7 +240,7 @@ const availableArtists = computed(() => {
 
 const availableTags = computed(() => {
 	const tags = new Set<string>();
-	props.videos.forEach((video) => {
+	originalVideos.value.forEach((video) => {
 		if (video.tags) {
 			video.tags.forEach((tag) => tags.add(tag));
 		}
@@ -209,7 +252,7 @@ const availableUsers = computed(() => {
 	// Get unique users from videos array with their video counts
 	const userCounts = new Map<string | null, number>();
 
-	props.videos.forEach((video) => {
+	originalVideos.value.forEach((video) => {
 		const userId = video.userId || null;
 		userCounts.set(userId, (userCounts.get(userId) || 0) + 1);
 	});
@@ -238,7 +281,7 @@ const fuseOptions = {
 	minMatchCharLength: 2,
 };
 
-const fuse = computed(() => new Fuse(props.videos, fuseOptions));
+const fuse = computed(() => new Fuse(originalVideos.value, fuseOptions));
 
 // Duration helper function
 const parseDuration = (duration: string): number => {
@@ -295,7 +338,7 @@ const filteredVideos = computed<Video[]>(() => {
 		const fuseResults = fuse.value.search(searchQuery.value);
 		results = fuseResults.map((result) => result.item);
 	} else {
-		results = [...props.videos];
+		results = [...originalVideos.value];
 	}
 
 	// Apply artist filter
@@ -362,6 +405,10 @@ const toggleFilters = (): void => {
 	showFilters.value = !showFilters.value;
 };
 
+const toggleKeyboardHelp = (): void => {
+	showKeyboardHelp.value = !showKeyboardHelp.value;
+};
+
 // Toggle duration filter
 const toggleDuration = (duration: string): void => {
 	if (selectedDuration.value === duration) {
@@ -380,11 +427,11 @@ const clearFilters = (): void => {
 	sortBy.value = "createdAt";
 };
 
-// Emit filtered results whenever they change
+// Update the store whenever filtered results change
 watch(
 	filteredVideos,
 	(newVideos) => {
-		emit("filtered-videos", newVideos);
+		setCurrentPlaylistVideos(newVideos);
 	},
 	{ immediate: true },
 );

@@ -57,6 +57,36 @@ The project uses a dark theme with the following UnoCSS color variables:
 - Functions like `parseArtistAndTitle`, `extractArtistFromChannel`, etc. are available globally
 - If you need to use a utility function, simply call it directly without importing
 
+### Store Usage Guidelines
+- When accessing reactive state from Pinia stores, ALWAYS use `storeToRefs()`:
+  ```ts
+  // ✅ Correct
+  const { currentKeyboardShortcuts } = storeToRefs(useUserSettingsStore());
+  
+  // ❌ Incorrect - loses reactivity
+  const userSettingsStore = useUserSettingsStore();
+  const shortcuts = computed(() => userSettingsStore.currentKeyboardShortcuts);
+  ```
+- Use destructuring with renaming when needed:
+  ```ts
+  const { currentVideos: playlist } = storeToRefs(usePlaylistStore());
+  ```
+- Store refs from `storeToRefs()` are already reactive - don't wrap them in `computed()`
+- For store actions, you can destructure them directly from the store instance:
+  ```ts
+  // ✅ Preferred - destructure actions directly
+  const { loadFirstPlaylist, setCurrentPlaylistVideos } = usePlaylistStore();
+  const { currentPlaylist, currentVideos } = storeToRefs(usePlaylistStore());
+  
+  // Then use them directly
+  await loadFirstPlaylist();
+  setCurrentPlaylistVideos(newVideos);
+  
+  // ❌ Less preferred - using store instance
+  const playlistStore = usePlaylistStore();
+  playlistStore.setCurrentPlaylistVideos(newVideos);
+  ```
+
 ### Development Tools
 - Use `pnpx nuxi typecheck` instead of `npx nuxi typecheck` for TypeScript checking
 - Use `pnpx` instead of `npx` for all Nuxt CLI commands when possible

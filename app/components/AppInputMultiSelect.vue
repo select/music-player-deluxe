@@ -8,6 +8,7 @@
 		<!-- Main Input Container -->
 		<div
 			class="relative rounded-lg bg-primary-1 focus-within:ring-2 focus-within:ring-accent focus-within:border-accent transition-colors"
+			data-multiselect
 		>
 			<!-- Selected Items Display -->
 			<div
@@ -42,7 +43,7 @@
 					class="w-full px-3 py-2 bg-transparent text-primary-4 placeholder-primary-3 focus:outline-none"
 					autocomplete="off"
 					@focus="showDropdown = true"
-					@keydown="handleKeydown"
+					@keydown.stop="handleKeydown"
 				/>
 
 				<!-- Dropdown Toggle Button -->
@@ -248,6 +249,7 @@ const handleKeydown = (event: KeyboardEvent): void => {
 		!selectedItems.value.includes(searchQuery.value.trim());
 	const totalOptions = filteredOptions.value.length + (hasNewOption ? 1 : 0);
 
+	// The event.stopPropagation() is already handled by @keydown.stop on the input
 	switch (event.key) {
 		case "ArrowDown":
 			event.preventDefault();
@@ -286,6 +288,7 @@ const handleKeydown = (event: KeyboardEvent): void => {
 			break;
 
 		case "Escape":
+			event.preventDefault();
 			showDropdown.value = false;
 			focusedIndex.value = -1;
 			inputRef.value?.blur();

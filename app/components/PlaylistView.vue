@@ -42,6 +42,7 @@
 </template>
 
 <script setup lang="ts">
-// Use global player state directly
-const { playlist, currentIndex, playVideo } = useGlobalPlayer();
+// Use global player and playlist store
+const { currentIndex, playVideo } = useGlobalPlayer();
+const { currentVideos: playlist } = storeToRefs(usePlaylistStore());
 </script>

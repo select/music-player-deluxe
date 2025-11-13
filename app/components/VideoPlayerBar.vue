@@ -1,9 +1,11 @@
 <template>
 	<div
 		v-if="currentVideo"
-		class="fixed bottom-0 left-1/2 transform -translate-x-1/2 z-40 bg-primary-1 p-4 max-w-9xl rounded-xl mb-3"
+		class="fixed bottom-0 left-1/2 transform -translate-x-1/2 z-40 bg-primary-1 p-4 rounded-xl mb-3"
 	>
-		<div class="max-w-7xl mx-auto flex items-center gap-4">
+		<div
+			class="w-full sm:w-md md:w-2xl lg:w-3xl mx-auto flex items-center gap-4"
+		>
 			<!-- Video Thumbnail -->
 			<img
 				:src="currentVideo.thumbnail"
@@ -25,21 +27,21 @@
 			<div class="flex items-center gap-2">
 				<AppBtn
 					variant="secondary"
-					@click="onPrevious"
+					@click="previousVideo"
 					:disabled="!canPlayPrevious"
 					class="!p-2"
 				>
 					<div class="i-mdi-skip-previous w-4 h-4" />
 				</AppBtn>
 
-				<AppBtn variant="primary" @click="onTogglePlayPause" class="!p-2">
+				<AppBtn variant="primary" @click="togglePlayPause" class="!p-2">
 					<div v-if="isPlaying" class="i-mdi-pause w-5 h-5" />
 					<div v-else class="i-mdi-play w-5 h-5" />
 				</AppBtn>
 
 				<AppBtn
 					variant="secondary"
-					@click="onNext"
+					@click="nextVideo"
 					:disabled="!canPlayNext"
 					class="!p-2"
 				>
@@ -53,7 +55,7 @@
 			</div>
 
 			<!-- Close Button -->
-			<AppBtn variant="ghost" @click="onClose" class="!p-2">
+			<AppBtn variant="ghost" @click="closePlayer" class="!p-2">
 				<div class="i-mdi-close text-xl" />
 			</AppBtn>
 		</div>
@@ -61,43 +63,15 @@
 </template>
 
 <script setup lang="ts">
-import type { Video } from "~/types";
-
-const props = withDefaults(
-	defineProps<{
-		currentVideo?: Video | null;
-		isPlaying?: boolean;
-		canPlayPrevious?: boolean;
-		canPlayNext?: boolean;
-	}>(),
-	{
-		currentVideo: null,
-		isPlaying: false,
-		canPlayPrevious: false,
-		canPlayNext: false,
-	},
-);
-
-const emit = defineEmits<{
-	togglePlayPause: [];
-	previous: [];
-	next: [];
-	close: [];
-}>();
-
-const onTogglePlayPause = (): void => {
-	emit("togglePlayPause");
-};
-
-const onPrevious = (): void => {
-	emit("previous");
-};
-
-const onNext = (): void => {
-	emit("next");
-};
-
-const onClose = (): void => {
-	emit("close");
-};
+// Use global player store directly
+const {
+	currentVideo,
+	isPlaying,
+	canPlayPrevious,
+	canPlayNext,
+	togglePlayPause,
+	previousVideo,
+	nextVideo,
+	closePlayer,
+} = useGlobalPlayer();
 </script>

@@ -47,6 +47,8 @@
 								v-model="editableData[index]!.artist"
 								class="w-full bg-transparent border border-primary-2/50 rounded px-2 py-1 text-primary-4 text-xs focus:border-accent focus:outline-none"
 								:placeholder="parsedTitle.artist"
+								data-input
+								@keydown.stop
 							/>
 						</td>
 
@@ -69,6 +71,8 @@
 								v-model="editableData[index]!.title"
 								class="w-full bg-transparent border border-primary-2/50 rounded px-2 py-1 text-primary-3 text-xs focus:border-accent focus:outline-none"
 								:placeholder="parsedTitle.title"
+								data-input
+								@keydown.stop
 							/>
 						</td>
 

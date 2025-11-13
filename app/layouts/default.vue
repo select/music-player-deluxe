@@ -3,22 +3,11 @@
 		<slot />
 
 		<!-- Global Video Player Bar -->
-		<VideoPlayerBar
-			v-if="showPlayerBar"
-			:current-video="currentVideo"
-			:is-playing="isPlaying"
-			:can-play-previous="canPlayPrevious"
-			:can-play-next="canPlayNext"
-			@toggle-play-pause="handleTogglePlayPause"
-			@previous="handlePrevious"
-			@next="handleNext"
-			@close="handleClose"
-		/>
+		<VideoPlayerBar v-if="showPlayerBar" />
 
 		<!-- Floating Video Player -->
 		<VideoPlayer
 			:isOpen="isFloatingPlayerOpen"
-			:playlist="playlist"
 			:initialVideoIndex="currentIndex"
 			@close="handleFloatingPlayerClose"
 			@videoChange="handleVideoChange"
@@ -31,12 +20,13 @@
 import "@unocss/reset/tailwind.css";
 import type { Video } from "~/types";
 
+// Global keyboard shortcuts are handled automatically by the store
+
 // Global player state
 const {
 	showPlayerBar,
 	currentVideo,
 	currentIndex,
-	playlist,
 	isPlaying,
 	canPlayPrevious,
 	canPlayNext,
@@ -46,32 +36,6 @@ const {
 	closePlayer,
 	closeFloatingPlayer,
 } = useGlobalPlayer();
-
-// Event handlers for VideoPlayerBar
-const handleTogglePlayPause = (): void => {
-	// This will be handled by the VideoPlayer component through global state
-	// For now, we'll emit a custom event that the VideoPlayer can listen to
-	const event = new CustomEvent("globalPlayerToggle");
-	window.dispatchEvent(event);
-};
-
-const handlePrevious = (): void => {
-	previousVideo();
-	const event = new CustomEvent("globalPlayerPrevious");
-	window.dispatchEvent(event);
-};
-
-const handleNext = (): void => {
-	nextVideo();
-	const event = new CustomEvent("globalPlayerNext");
-	window.dispatchEvent(event);
-};
-
-const handleClose = (): void => {
-	closePlayer();
-	const event = new CustomEvent("globalPlayerClose");
-	window.dispatchEvent(event);
-};
 
 // Event handlers for VideoPlayer
 const handleFloatingPlayerClose = (): void => {

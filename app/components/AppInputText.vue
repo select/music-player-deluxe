@@ -17,9 +17,26 @@
 				'px-6 py-3 text-lg h-12': size === 'large',
 			}"
 			:value="modelValue"
+			data-input
 			@input="
 				$emit('update:modelValue', ($event.target as HTMLInputElement).value)
 			"
+			@keydown.space.stop
+			@keydown.k.stop
+			@keydown.j.stop
+			@keydown.l.stop
+			@keydown.x.stop
+			@keydown.z.stop
+			@keydown.b.stop
+			@keydown.c.stop
+			@keydown.v.stop
+			@keydown.m.stop
+			@keydown.n.stop
+			@keydown.p.stop
+			@keydown.up.stop
+			@keydown.down.stop
+			@keydown.left.stop
+			@keydown.right.stop
 		/>
 		<p v-if="helpText" class="text-xs">
 			{{ helpText }}

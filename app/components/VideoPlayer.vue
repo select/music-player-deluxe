@@ -32,12 +32,10 @@ import type { Video } from "~/types";
 const props = withDefaults(
 	defineProps<{
 		isOpen?: boolean;
-		playlist?: Video[];
 		initialVideoIndex?: number;
 	}>(),
 	{
 		isOpen: false,
-		playlist: () => [],
 		initialVideoIndex: 0,
 	},
 );
@@ -54,20 +52,20 @@ const {
 	currentIndex,
 	isPlaying,
 	isPlayerReady,
-	playlist,
-	canPlayPrevious,
 	canPlayNext,
-	setCurrentVideo,
 	setIsPlaying,
 	setIsPlayerReady,
-	setPlaylist,
 	setCurrentIndex,
+	setYouTubePlayerInstance,
+	togglePlayPause,
 	previousVideo,
 	nextVideo,
-	playVideo,
 	closePlayer: closeGlobalPlayer,
 	initializeGlobalPlayer,
 } = useGlobalPlayer();
+
+// Playlist store
+const { currentVideos: playlist } = storeToRefs(usePlaylistStore());
 
 // Player container ref and YouTube player instance
 const playerContainer = ref<HTMLElement>();
@@ -75,13 +73,10 @@ let player: any = null;
 
 // Watch for prop changes to initialize global state
 watch(
-	[() => props.playlist, () => props.initialVideoIndex],
-	([newPlaylist, newIndex]) => {
-		if (newPlaylist && newPlaylist.length > 0) {
-			setPlaylist(newPlaylist);
-			if (newIndex !== undefined) {
-				setCurrentIndex(newIndex);
-			}
+	() => props.initialVideoIndex,
+	(newIndex) => {
+		if (newIndex !== undefined) {
+			setCurrentIndex(newIndex);
 		}
 	},
 	{ immediate: true },
@@ -91,6 +86,9 @@ watch(
 	() => props.isOpen,
 	(isOpen) => {
 		if (isOpen) {
+			if (playlist.value.length > 0) {
+				initializeGlobalPlayer(currentIndex.value);
+			}
 			nextTick(() => {
 				initializePlayer();
 			});
@@ -107,16 +105,6 @@ watch([currentVideo, currentIndex], ([video, index]) => {
 		emit("videoChange", video, index);
 	}
 });
-
-// Watch for modal open to initialize global state
-watch(
-	() => props.isOpen,
-	(isOpen) => {
-		if (isOpen && playlist.value.length > 0) {
-			initializeGlobalPlayer(playlist.value, currentIndex.value);
-		}
-	},
-);
 
 // YouTube API functions
 const initializePlayer = (): void => {
@@ -171,6 +159,8 @@ const createPlayer = (): void => {
 const onPlayerReady = (): void => {
 	setIsPlayerReady(true);
 	setIsPlaying(true);
+	// Register the YouTube player instance with global player
+	setYouTubePlayerInstance(player);
 };
 
 const onPlayerStateChange = (event: any): void => {
@@ -209,6 +199,7 @@ const destroyPlayer = (): void => {
 		player.destroy();
 		player = null;
 		setIsPlayerReady(false);
+		setYouTubePlayerInstance(null);
 	}
 };
 
@@ -216,24 +207,6 @@ const destroyPlayer = (): void => {
 const closePlayer = (): void => {
 	closeGlobalPlayer();
 	emit("close");
-};
-
-const togglePlayPause = (): void => {
-	if (!player || !isPlayerReady.value) return;
-
-	if (isPlaying.value) {
-		player.pauseVideo();
-	} else {
-		player.playVideo();
-	}
-};
-
-const handlePrevious = (): void => {
-	previousVideo();
-};
-
-const handleNext = (): void => {
-	nextVideo();
 };
 
 // Keyboard controls
@@ -250,58 +223,22 @@ const handleKeydown = (event: KeyboardEvent): void => {
 			break;
 		case "ArrowLeft":
 			event.preventDefault();
-			handlePrevious();
+			previousVideo();
 			break;
 		case "ArrowRight":
 			event.preventDefault();
-			handleNext();
+			nextVideo();
 			break;
-	}
-};
-
-// Global event listeners for player bar controls
-const handleGlobalPlayerToggle = (): void => {
-	if (props.isOpen) {
-		togglePlayPause();
-	}
-};
-
-const handleGlobalPlayerPrevious = (): void => {
-	if (props.isOpen) {
-		handlePrevious();
-	}
-};
-
-const handleGlobalPlayerNext = (): void => {
-	if (props.isOpen) {
-		handleNext();
-	}
-};
-
-const handleGlobalPlayerClose = (): void => {
-	if (props.isOpen) {
-		closePlayer();
 	}
 };
 
 // Lifecycle hooks
 onMounted(() => {
 	document.addEventListener("keydown", handleKeydown);
-	window.addEventListener("globalPlayerToggle", handleGlobalPlayerToggle);
-	window.addEventListener("globalPlayerPrevious", handleGlobalPlayerPrevious);
-	window.addEventListener("globalPlayerNext", handleGlobalPlayerNext);
-	window.addEventListener("globalPlayerClose", handleGlobalPlayerClose);
 });
 
 onUnmounted(() => {
 	document.removeEventListener("keydown", handleKeydown);
-	window.removeEventListener("globalPlayerToggle", handleGlobalPlayerToggle);
-	window.removeEventListener(
-		"globalPlayerPrevious",
-		handleGlobalPlayerPrevious,
-	);
-	window.removeEventListener("globalPlayerNext", handleGlobalPlayerNext);
-	window.removeEventListener("globalPlayerClose", handleGlobalPlayerClose);
 	destroyPlayer();
 });
 
