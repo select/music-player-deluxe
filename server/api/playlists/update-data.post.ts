@@ -7,6 +7,17 @@ import type {
 	YouTubeLinkMetadata,
 } from "~/types";
 
+interface AIAugmentedData {
+	title: string;
+	channel: string;
+	ai?: {
+		artist: string;
+		track: string;
+		tags?: string[];
+		tagsConfidence?: number;
+	};
+}
+
 interface UpdateDataRequest {
 	playlistId: string;
 }
@@ -36,10 +47,10 @@ export default defineEventHandler(async (event) => {
 		const songsDir = join(process.cwd(), "server", "assets", "songs");
 		const metadataPath = join(
 			process.cwd(),
-			"server",
-			"assets",
+			"data",
 			"youtube_links_metadata.json",
 		);
+		const aiAugmentedPath = join(process.cwd(), "data", "ai-augmented.json");
 		const playlistFilePath = join(playlistsDir, `${playlistId}.json`);
 
 		// Read the playlist file
@@ -91,11 +102,31 @@ export default defineEventHandler(async (event) => {
 			console.warn("Failed to read songs directory:", error);
 		}
 
-		// Update videos with music data and YouTube metadata
+		// Read AI-augmented data to create a lookup map
+		const aiAugmentedMap = new Map<string, AIAugmentedData>();
+		try {
+			const aiAugmentedContent = await fs.readFile(aiAugmentedPath, "utf-8");
+			const aiAugmentedArray: AIAugmentedData[] =
+				JSON.parse(aiAugmentedContent);
+
+			for (const aiData of aiAugmentedArray) {
+				// Create lookup key using title and channel for matching
+				const lookupKey = `${aiData.title.toLowerCase()}|${aiData.channel.toLowerCase()}`;
+				aiAugmentedMap.set(lookupKey, aiData);
+			}
+		} catch (error) {
+			console.warn("Failed to read AI-augmented data:", error);
+		}
+
+		// Update videos with music data, YouTube metadata, and AI-augmented data
 		let updatedCount = 0;
 		const updatedVideos: Video[] = playlistData.videos.map((video) => {
 			const songData = songDataMap.get(video.id);
 			const youtubeMetadata = youtubeMetadataMap.get(video.id);
+
+			// Try to find AI-augmented data by matching title and channel
+			const aiLookupKey = `${video.title.toLowerCase()}|${video.channel?.toLowerCase() || ""}`;
+			const aiData = aiAugmentedMap.get(aiLookupKey);
 
 			let updatedVideo = { ...video };
 			let hasChanges = false;
@@ -137,6 +168,46 @@ export default defineEventHandler(async (event) => {
 					...updatedVideo,
 					artist: songData.artist,
 					musicTitle: songData.title,
+					tags: uniqueTags.length > 0 ? uniqueTags : undefined,
+				};
+			}
+
+			// Update with AI-augmented data if available and no MusicBrainz data exists
+			if (aiData?.ai && !songData) {
+				// Fuse AI tags with existing tags
+				const fusedTags: string[] = [];
+
+				// Add existing tags
+				if (video.tags && video.tags.length > 0) {
+					fusedTags.push(...video.tags);
+				}
+
+				// Add AI tags
+				if (aiData.ai.tags && aiData.ai.tags.length > 0) {
+					fusedTags.push(...aiData.ai.tags);
+				}
+
+				// Remove duplicates and sort
+				const uniqueTags = Array.from(new Set(fusedTags)).sort();
+
+				// Only update artist and musicTitle if they don't already exist
+				const newArtist = video.artist || aiData.ai.artist;
+				const newMusicTitle = video.musicTitle || aiData.ai.track;
+
+				// Check for AI data changes
+				const hasAiChanges =
+					video.artist !== newArtist ||
+					video.musicTitle !== newMusicTitle ||
+					JSON.stringify(video.tags || []) !== JSON.stringify(uniqueTags);
+
+				if (hasAiChanges) {
+					hasChanges = true;
+				}
+
+				updatedVideo = {
+					...updatedVideo,
+					artist: newArtist,
+					musicTitle: newMusicTitle,
 					tags: uniqueTags.length > 0 ? uniqueTags : undefined,
 				};
 			}
@@ -189,7 +260,7 @@ export default defineEventHandler(async (event) => {
 
 		return {
 			success: true,
-			message: `Successfully updated ${updatedCount} videos with music data and metadata`,
+			message: `Successfully updated ${updatedCount} videos with music data, AI-augmented data, and metadata`,
 			updatedVideos: updatedCount,
 			totalVideos: playlistData.videos.length,
 		} as UpdateDataResponse;
@@ -200,7 +271,7 @@ export default defineEventHandler(async (event) => {
 			statusCode: error.statusCode || 500,
 			statusMessage:
 				error.statusMessage ||
-				"Failed to update playlist music data and metadata",
+				"Failed to update playlist music data, AI-augmented data, and metadata",
 		});
 	}
 });

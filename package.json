@@ -13,7 +13,10 @@
 		"deps:update": "pnpm update --latest",
 		"deps:audit": "pnpm audit",
 		"deps:dedupe": "pnpm dedupe",
-		"stats": "node scripts/repo-stats.mjs"
+		"stats": "node scripts/repo-stats.mjs",
+		"extract-metadata": "tsx scripts/extract-missing-metadata.ts",
+		"augment-json": "tsx scripts/augment-json-with-ollama.ts",
+		"test-augment": "tsx scripts/test-ollama-augmentation.ts"
 	},
 	"dependencies": {
 		"@nuxt/eslint": "1.10.0",
@@ -32,6 +35,7 @@
 		"@unocss/preset-icons": "66.5.5",
 		"@unocss/reset": "66.5.5",
 		"musicbrainz-api": "0.26.0",
+		"tsx": "4.20.6",
 		"unocss": "66.5.5"
 	}
 }
