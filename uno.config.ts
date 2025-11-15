@@ -1,8 +1,15 @@
-import { defineConfig, presetUno, presetIcons } from "unocss";
+import { defineConfig, presetIcons } from "unocss";
+import presetWind4 from "@unocss/preset-wind4";
 
 export default defineConfig({
 	presets: [
-		presetUno(),
+		presetWind4({
+			preflights: {
+				reset: true,
+				theme: "on-demand",
+				property: true,
+			},
+		}),
 		presetIcons({
 			collections: {
 				mdi: () => import("@iconify/json/json/mdi.json").then((i) => i.default),
@@ -43,7 +50,13 @@ export default defineConfig({
 	},
 	preflights: [
 		{
-			getCSS: ({ theme }) => `
+			getCSS: ({ theme }: { theme: any }) => `
+				/* Set default font family for body and html */
+				html,
+				body {
+					font-family: ${theme.fontFamily.sans.join(", ")};
+				}
+
 				/* Code elements should use monospace font */
 				code,
 				pre {
@@ -117,7 +130,6 @@ export default defineConfig({
 	],
 	safelist: [
 		// Ensure classes used in Nuxt config are always included
-		"font-sans",
 		"text-primary-2",
 		"bg-background",
 		"leading-relaxed",

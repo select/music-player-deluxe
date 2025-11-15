@@ -17,10 +17,10 @@ export default defineNuxtConfig({
 	app: {
 		head: {
 			htmlAttrs: {
-				class: "font-sans",
+				class: "",
 			},
 			bodyAttrs: {
-				class: "font-sans text-primary-2 bg-background leading-relaxed",
+				class: "text-primary-2 bg-background leading-relaxed",
 			},
 		},
 	},

@@ -35,11 +35,11 @@
 	"devDependencies": {
 		"@iconify/json": "2.2.404",
 		"@types/node": "24.10.0",
-		"@unocss/nuxt": "66.5.5",
-		"@unocss/preset-icons": "66.5.5",
-		"@unocss/reset": "66.5.5",
+		"@unocss/nuxt": "66.5.6",
+		"@unocss/preset-icons": "66.5.6",
+		"@unocss/preset-wind4": "66.5.6",
 		"musicbrainz-api": "0.26.0",
 		"tsx": "4.20.6",
-		"unocss": "66.5.5"
+		"unocss": "66.5.6"
 	}
 }

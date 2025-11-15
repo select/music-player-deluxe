@@ -16,8 +16,7 @@
 </template>
 
 <script setup lang="ts">
-// Import UnoCSS Tailwind reset
-import "@unocss/reset/tailwind.css";
+// UnoCSS reset is now included internally in Wind4 preset
 
 // Global keyboard shortcuts are handled automatically by the store
 
