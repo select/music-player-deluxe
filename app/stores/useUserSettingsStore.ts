@@ -1,4 +1,14 @@
+import { useStorage } from "@vueuse/core";
 import type { KeyboardShortcutScheme } from "~/types";
+
+export type ViewMode = "grid" | "list";
+
+export interface VideoPlayerPosition {
+	x: number;
+	y: number;
+	width: number;
+	height: number;
+}
 
 export interface KeyboardShortcuts {
 	playPause: string;
@@ -9,6 +19,7 @@ export interface KeyboardShortcuts {
 	mute: string;
 	seekForward: string;
 	seekBackward: string;
+	focusSearch: string;
 }
 
 export interface UserSettings {
@@ -30,6 +41,7 @@ export const KEYBOARD_SHORTCUTS: Record<
 		mute: "m",
 		seekForward: "l",
 		seekBackward: "j",
+		focusSearch: "ctrl+k",
 	},
 	winamp: {
 		playPause: "x",
@@ -40,6 +52,7 @@ export const KEYBOARD_SHORTCUTS: Record<
 		mute: "m",
 		seekForward: "v",
 		seekBackward: "c",
+		focusSearch: "ctrl+k",
 	},
 	youtube: {
 		playPause: "k",
@@ -50,6 +63,7 @@ export const KEYBOARD_SHORTCUTS: Record<
 		mute: "m",
 		seekForward: "l",
 		seekBackward: "j",
+		focusSearch: "ctrl+k",
 	},
 };
 
@@ -61,6 +75,20 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 
 	// Track if shortcuts are enabled
 	const shortcutsEnabled = ref<boolean>(true);
+
+	// View mode with persistent storage
+	const viewMode = useStorage<ViewMode>("video-view-mode", "grid");
+
+	// Video player position and size with persistent storage
+	const videoPlayerPosition = useStorage<VideoPlayerPosition>(
+		"video-player-position",
+		{
+			x: 100,
+			y: 100,
+			width: 320,
+			height: 240,
+		},
+	);
 
 	// Computed
 	const currentKeyboardShortcuts = computed<KeyboardShortcuts>(() => {
@@ -135,7 +163,14 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 
 		// Additional global shortcuts that aren't media-related
 		if (!handled) {
-			// Add any additional global shortcuts here
+			// Handle Ctrl+K for search focus
+			if (event.ctrlKey && event.key.toLowerCase() === "k") {
+				event.preventDefault();
+				const searchInput = document.getElementById("search");
+				if (searchInput) {
+					searchInput.focus();
+				}
+			}
 		}
 	};
 
@@ -241,6 +276,8 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 		// State
 		settings: readonly(settings),
 		shortcutsEnabled: readonly(shortcutsEnabled),
+		viewMode,
+		videoPlayerPosition,
 
 		// Computed
 		currentKeyboardShortcuts,

@@ -1,5 +1,5 @@
 <template>
-	<div>
+	<div class="pt-24">
 		<!-- Loading State -->
 		<div v-if="loading" class="flex items-center justify-center py-12">
 			<div class="flex items-center gap-3 text-primary-3">
@@ -29,10 +29,17 @@
 			</p>
 		</div>
 
-		<!-- Search and Video Grid -->
+		<!-- Search and Video Grid/List -->
 		<div v-else class="flex flex-col gap-12 pt-6 pb-12">
 			<VideoSearch />
 			<VideoGrid
+				v-if="viewMode === 'grid'"
+				:videos="currentVideos"
+				:highlight-video-id="currentlyPlayingVideoId"
+				@play="handleVideoClick"
+			/>
+			<VideoList
+				v-else
 				:videos="currentVideos"
 				:highlight-video-id="currentlyPlayingVideoId"
 				@play="handleVideoClick"
@@ -56,6 +63,7 @@ useHead({
 const { loadFirstPlaylist, findVideoIndex } = usePlaylistStore();
 const { currentPlaylist, currentVideos, loading, error, hasCurrentPlaylist } =
 	storeToRefs(usePlaylistStore());
+const { viewMode } = storeToRefs(useUserSettingsStore());
 const globalPlayer = useGlobalPlayer();
 
 // Reactive data

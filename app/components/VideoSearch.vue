@@ -1,7 +1,9 @@
 <template>
-	<div class="flex flex-col gap-8 sm:gap-12 px-4 sm:px-6">
+	<div
+		class="fixed top-6 left-0 flex flex-col gap-8 sm:gap-12 px-4 sm:px-6 z-1 w-full"
+	>
 		<div
-			class="flex justify-center items-center gap-4 sm:gap-6 w-full max-w-7xl mx-auto"
+			class="backdrop-blur-3xl rounded-2xl flex justify-center items-center gap-4 sm:gap-6 w-full max-w-2xl mx-auto pl-3"
 		>
 			<div class="flex-1 min-w-0 overflow-hidden">
 				<AppInputText
@@ -13,12 +15,22 @@
 			</div>
 			<div class="flex gap-2 sm:gap-3 items-center flex-shrink-0">
 				<AppBtn
-					icon="i-mdi-filter-variant"
+					icon="i-mdi-filter-variant text-3xl"
 					variant="ghost"
-					size="medium"
+					size="large"
+					class="rounded-full"
+					:class="{ '[&_[class^=i-mdi]]:text-accent': hasActiveFilters }"
 					@click="toggleFilters"
 				>
-					<span class="hidden sm:inline">Filters</span>
+				</AppBtn>
+
+				<AppBtn
+					:icon="viewMode === 'grid' ? 'i-mdi-view-list' : 'i-mdi-view-grid'"
+					variant="ghost"
+					size="large"
+					class="rounded-full text-2xl"
+					@click="viewMode = viewMode === 'grid' ? 'list' : 'grid'"
+				>
 				</AppBtn>
 
 				<AppBtn
@@ -27,6 +39,7 @@
 					icon="i-mdi-cog"
 					variant="ghost"
 					size="medium"
+					class="!hidden sm:flex"
 				>
 					<span class="hidden sm:inline">Admin</span>
 				</AppBtn>
@@ -34,7 +47,10 @@
 		</div>
 
 		<!-- Filter Panel -->
-		<div v-if="showFilters" class="rounded-lg p-4 space-y-4">
+		<div
+			v-if="showFilters"
+			class="rounded-lg p-4 space-y-4 backdrop-blur-2xl bg-bg-gradient"
+		>
 			<div class="grid grid-cols-1 md:grid-cols-3 gap-4">
 				<!-- Artist Filter -->
 				<div>
@@ -133,6 +149,20 @@
 					</select>
 				</div>
 
+				<!-- Shuffle Button -->
+				<div>
+					<label class="block text-sm font-medium mb-2">Playlist</label>
+					<AppBtn
+						icon="i-mdi-shuffle"
+						variant="primary"
+						size="medium"
+						class="w-full"
+						@click="shufflePlaylist"
+					>
+						Shuffle
+					</AppBtn>
+				</div>
+
 				<!-- Keyboard Shortcuts -->
 				<div>
 					<div class="flex justify-between">
@@ -166,6 +196,7 @@
 						</option>
 					</select>
 				</div>
+				<div class="text-primary-3 w-full text-right">Scroll to close.</div>
 			</div>
 
 			<div class="flex justify-between items-center">
@@ -195,18 +226,57 @@ const { setCurrentPlaylistVideos } = usePlaylistStore();
 const { setKeyboardShortcutScheme } = useUserSettingsStore();
 const { currentVideos, originalCurrentPlaylist } =
 	storeToRefs(usePlaylistStore());
-const { settings, availableShortcutSchemes } = storeToRefs(
+const { settings, availableShortcutSchemes, viewMode } = storeToRefs(
 	useUserSettingsStore(),
 );
 
 // Check if running on localhost
 const isLocalhost = ref<boolean>(false);
 
+// Scroll tracking for filter panel closing
+let lastScrollPosition = 0;
+let scrollTimeout: NodeJS.Timeout | null = null;
+
+const handleScroll = () => {
+	const currentScrollPosition = window.scrollY;
+
+	// Clear existing timeout
+	if (scrollTimeout) {
+		clearTimeout(scrollTimeout);
+	}
+
+	// Set a timeout to detect when scrolling has stopped
+	scrollTimeout = setTimeout(() => {
+		// Calculate distance scrolled from last stop position
+		const scrollDistance = Math.abs(currentScrollPosition - lastScrollPosition);
+
+		// Close filter panel if scrolled more than 500px from last stop
+		if (scrollDistance > 500 && showFilters.value) {
+			showFilters.value = false;
+		}
+
+		// Update last scroll position
+		lastScrollPosition = currentScrollPosition;
+	}, 150); // Wait 150ms after scrolling stops
+};
+
 // Set localhost status on client side
 onMounted(() => {
 	isLocalhost.value =
 		window.location.hostname === "localhost" ||
 		window.location.hostname === "127.0.0.1";
+
+	// Initialize scroll position and add listener
+	lastScrollPosition = window.scrollY;
+	window.addEventListener("scroll", handleScroll);
+});
+
+// Clean up scroll listener and timeout
+onUnmounted(() => {
+	window.removeEventListener("scroll", handleScroll);
+	if (scrollTimeout) {
+		clearTimeout(scrollTimeout);
+	}
 });
 
 // Search state
@@ -218,6 +288,7 @@ const selectedUsers = ref<string[]>([]);
 const selectedDuration = ref<string>("");
 const sortBy = ref<string>("createdAt");
 const showKeyboardHelp = ref<boolean>(false);
+const isShuffled = ref<boolean>(false);
 
 // Get original videos from store
 const originalVideos = computed(
@@ -226,6 +297,16 @@ const originalVideos = computed(
 
 // Computed properties
 const totalVideos = computed(() => originalVideos.value.length);
+
+const hasActiveFilters = computed(() => {
+	return (
+		selectedArtists.value.length > 0 ||
+		selectedTags.value.length > 0 ||
+		selectedUsers.value.length > 0 ||
+		selectedDuration.value !== "" ||
+		searchQuery.value.trim() !== ""
+	);
+});
 
 const availableArtists = computed(() => {
 	const artists = [
@@ -425,6 +506,21 @@ const clearFilters = (): void => {
 	selectedUsers.value = [];
 	selectedDuration.value = "";
 	sortBy.value = "createdAt";
+	isShuffled.value = false;
+};
+
+// Shuffle array using Fisher-Yates algorithm
+const shuffleArray = <T,>(array: T[]): T[] => {
+	const shuffled = [...array];
+	for (let i = shuffled.length - 1; i > 0; i--) {
+		const j = Math.floor(Math.random() * (i + 1));
+		[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+	}
+	return shuffled;
+};
+
+const shufflePlaylist = (): void => {
+	setCurrentPlaylistVideos(shuffleArray(filteredVideos.value));
 };
 
 // Update the store whenever filtered results change

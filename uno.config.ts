@@ -19,7 +19,7 @@ export default defineConfig({
 			"primary-3": "#a4b3c9",
 			"primary-4": "#fff",
 			watchPageBtn: "#a4b3c9",
-			accent: "gold",
+			accent: "#ffd700",
 			"accent-1": "rgba(255, 215, 0, 0.6)",
 			"accent-2": "rgba(255, 215, 0, 0.4)",
 			white: "#fff",

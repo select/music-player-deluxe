@@ -49,11 +49,6 @@
 				<div class="leading-5 text-primary-3 line-clamp-2">
 					{{ video.musicTitle || video.title }}
 				</div>
-
-				<!-- First Tag -->
-				<div v-if="video.tags && video.tags.length > 0" class="text-xs">
-					{{ video.tags[0] }}
-				</div>
 			</div>
 
 			<!-- Hover Overlay -->

@@ -3,41 +3,48 @@
 		<label v-if="label" :for="id" class="block text-sm font-medium">
 			{{ label }}
 		</label>
-		<input
-			:id="id"
-			:type="type"
-			:placeholder="placeholder"
-			:disabled="disabled"
-			:required="required"
-			class="w-full rounded-lg bg-primary-1 text-accent border-0 transition-colors focus:outline-none disabled:opacity-50 disabled:cursor-not-allowed placeholder:text-accent-1"
-			:class="{
-				// Size classes
-				'px-3 py-1 text-sm h-8': size === 'small',
-				'px-4 py-2 h-10': size === 'medium',
-				'px-6 py-3 text-lg h-12': size === 'large',
-			}"
-			:value="modelValue"
-			data-input
-			@input="
-				$emit('update:modelValue', ($event.target as HTMLInputElement).value)
-			"
-			@keydown.space.stop
-			@keydown.k.stop
-			@keydown.j.stop
-			@keydown.l.stop
-			@keydown.x.stop
-			@keydown.z.stop
-			@keydown.b.stop
-			@keydown.c.stop
-			@keydown.v.stop
-			@keydown.m.stop
-			@keydown.n.stop
-			@keydown.p.stop
-			@keydown.up.stop
-			@keydown.down.stop
-			@keydown.left.stop
-			@keydown.right.stop
-		/>
+		<div class="relative">
+			<input
+				:id="id"
+				:type="type"
+				:placeholder="placeholder"
+				:disabled="disabled"
+				:required="required"
+				class="w-full rounded-lg bg-primary-1 text-accent border-0 transition-colors focus:outline-none disabled:opacity-50 disabled:cursor-not-allowed placeholder:text-accent-1"
+				:class="{
+					// Size classes
+					'px-3 py-1 text-sm h-8 pr-8': size === 'small',
+					'px-4 py-2 h-10 pr-10': size === 'medium',
+					'px-6 py-3 text-lg h-12 pr-12': size === 'large',
+				}"
+				:value="modelValue"
+				data-input
+				@input="
+					$emit('update:modelValue', ($event.target as HTMLInputElement).value)
+				"
+				@keydown.stop
+			/>
+			<button
+				v-if="modelValue"
+				type="button"
+				class="absolute inset-y-0 right-0 flex items-center justify-center text-primary-3 hover:text-accent transition-colors"
+				:class="{
+					'w-8': size === 'small',
+					'w-10': size === 'medium',
+					'w-12': size === 'large',
+				}"
+				@click="$emit('update:modelValue', '')"
+			>
+				<div
+					class="i-mdi-close"
+					:class="{
+						'w-3 h-3': size === 'small',
+						'w-4 h-4': size === 'medium',
+						'w-5 h-5': size === 'large',
+					}"
+				/>
+			</button>
+		</div>
 		<p v-if="helpText" class="text-xs">
 			{{ helpText }}
 		</p>

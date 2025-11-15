@@ -74,6 +74,13 @@
 						formattedShortcuts.seekBackward
 					}}</kbd>
 				</div>
+
+				<div class="flex justify-between items-center">
+					<span class="text-primary-3">Focus Search</span>
+					<kbd class="px-2 py-1 bg-primary-2 rounded text-sm text-primary-4">{{
+						formattedShortcuts.focusSearch
+					}}</kbd>
+				</div>
 			</div>
 
 			<div class="mt-6 pt-4 border-t border-primary-2">
@@ -131,6 +138,7 @@ const formattedShortcuts = computed(() => ({
 	seekBackward: formatKeyForDisplay(
 		currentKeyboardShortcuts.value.seekBackward,
 	),
+	focusSearch: formatKeyForDisplay(currentKeyboardShortcuts.value.focusSearch),
 }));
 
 // Format key for display
@@ -152,6 +160,7 @@ const formatKeyForDisplay = (key: string): string => {
 		k: "K",
 		n: "N",
 		p: "P",
+		"ctrl+k": "Ctrl+K",
 	};
 
 	return keyMap[key] || key.toUpperCase();
