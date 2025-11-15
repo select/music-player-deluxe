@@ -39,7 +39,7 @@
 					icon="i-mdi-cog"
 					variant="ghost"
 					size="medium"
-					class="!hidden sm:flex"
+					class="lt-sm:hidden"
 				>
 					<span class="hidden sm:inline">Admin</span>
 				</AppBtn>
