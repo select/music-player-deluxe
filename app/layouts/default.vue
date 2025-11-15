@@ -7,10 +7,10 @@
 
 		<!-- Floating Video Player -->
 		<VideoPlayer
-			:isOpen="isFloatingPlayerOpen"
-			:initialVideoIndex="currentIndex"
+			:is-open="isFloatingPlayerOpen"
+			:initial-video-index="currentIndex"
 			@close="handleFloatingPlayerClose"
-			@videoChange="handleVideoChange"
+			@video-change="handleVideoChange"
 		/>
 	</div>
 </template>
@@ -18,31 +18,20 @@
 <script setup lang="ts">
 // Import UnoCSS Tailwind reset
 import "@unocss/reset/tailwind.css";
-import type { Video } from "~/types";
 
 // Global keyboard shortcuts are handled automatically by the store
 
 // Global player state
-const {
-	showPlayerBar,
-	currentVideo,
-	currentIndex,
-	isPlaying,
-	canPlayPrevious,
-	canPlayNext,
-	isFloatingPlayerOpen,
-	previousVideo,
-	nextVideo,
-	closePlayer,
-	closeFloatingPlayer,
-} = useGlobalPlayer();
+const { showPlayerBar, isFloatingPlayerOpen, currentIndex } =
+	storeToRefs(usePlayerStore());
+const { closeFloatingPlayer } = usePlayerStore();
 
 // Event handlers for VideoPlayer
 const handleFloatingPlayerClose = (): void => {
 	closeFloatingPlayer();
 };
 
-const handleVideoChange = (video: Video, index: number): void => {
+const handleVideoChange = (): void => {
 	// Video change is already handled by global state
 	// This handler is kept for potential future use
 };

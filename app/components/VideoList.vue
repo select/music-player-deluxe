@@ -34,7 +34,7 @@
 										:src="`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`"
 										:alt="video.title"
 										class="rounded-full size-16 object-cover bg-primary-1"
-									/>
+									>
 									<!-- Play Overlay -->
 									<div
 										class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity rounded"
@@ -98,7 +98,7 @@
 								<!-- Fade overlay -->
 								<div
 									class="absolute right-0 top-0 bottom-0 w-10 bg-gradient-to-r from-transparent to-background group-hover:to-bg-gradient pointer-events-none"
-								></div>
+								/>
 							</div>
 						</td>
 
@@ -135,9 +135,7 @@ import dayjs from "dayjs";
 import relativeTime from "dayjs/plugin/relativeTime";
 import type { Video } from "../types";
 
-dayjs.extend(relativeTime);
-
-const props = withDefaults(
+withDefaults(
 	defineProps<{
 		videos?: Video[];
 		highlightVideoId?: string;
@@ -151,6 +149,8 @@ const props = withDefaults(
 defineEmits<{
 	play: [video: Video];
 }>();
+
+dayjs.extend(relativeTime);
 
 // Format timestamp to readable date using dayjs
 const formatDate = (timestamp: number): string => {

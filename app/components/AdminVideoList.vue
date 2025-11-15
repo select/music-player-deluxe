@@ -24,7 +24,7 @@
 					</tr>
 				</thead>
 				<tbody>
-					<template v-for="(video, index) in videos" :key="video.id">
+					<template v-for="video in videos" :key="video.id">
 						<tr
 							class="border-b border-primary-2/30 hover:bg-bg-gradient transition-colors"
 						>
@@ -36,7 +36,7 @@
 											:src="`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`"
 											:alt="video.title"
 											class="w-12 h-12 rounded-full object-cover bg-primary-1"
-										/>
+										>
 									</div>
 									<div class="flex-1 min-w-0">
 										<h4 class="font-medium text-primary-4 line-clamp-2 text-sm">
@@ -80,7 +80,7 @@
 											!parsedTitlesMap[video.id]?.length
 										"
 										class="text-xs text-primary-3"
-									></div>
+									/>
 								</div>
 							</td>
 
@@ -179,7 +179,7 @@ import type {
 } from "~/types";
 
 interface Props {
-	videos: Video[];
+	videos?: Video[];
 }
 
 const props = withDefaults(defineProps<Props>(), {
@@ -202,7 +202,7 @@ const loadExistingSongData = async (): Promise<void> => {
 			if (response.success && response.data) {
 				songDataMap.value[video.id] = response.data;
 			}
-		} catch (error) {
+		} catch {
 			// No existing data, that's fine
 		}
 	}

@@ -29,7 +29,7 @@
 			<div
 				class="w-8 h-8 bg-primary-1 rounded-t-2xl shadow-xl flex items-center justify-center"
 			>
-				<AppBtn variant="ghost" @click="closePlayer" class="!p-2">
+				<AppBtn variant="ghost" class="!p-2" @click="closePlayer">
 					<div class="i-mdi-close w-5 h-5" />
 				</AppBtn>
 			</div>
@@ -40,8 +40,8 @@
 			<div class="p-4 h-full">
 				<div class="bg-black rounded-2xl overflow-hidden h-full">
 					<div
-						ref="playerContainer"
 						id="youtube-player"
+						ref="playerContainer"
 						class="w-full h-full"
 					/>
 				</div>
@@ -94,13 +94,11 @@ const emit = defineEmits<{
 	videoChange: [video: Video, index: number];
 }>();
 
-// Global player state
+// Global player store
+const { currentVideo, currentIndex, isPlayerReady, canPlayNext } =
+	storeToRefs(usePlayerStore());
+
 const {
-	currentVideo,
-	currentIndex,
-	isPlaying,
-	isPlayerReady,
-	canPlayNext,
 	setIsPlaying,
 	setIsPlayerReady,
 	setCurrentIndex,
@@ -110,7 +108,7 @@ const {
 	nextVideo,
 	closePlayer: closeGlobalPlayer,
 	initializeGlobalPlayer,
-} = useGlobalPlayer();
+} = usePlayerStore();
 
 // Playlist store
 const { currentVideos: playlist } = storeToRefs(usePlaylistStore());
@@ -178,14 +176,14 @@ watch([currentVideo, currentIndex], ([video, index]) => {
 
 // YouTube API functions
 const initializePlayer = (): void => {
-	if (!process.client || !currentVideo.value) return;
+	if (!import.meta.client || !currentVideo.value) return;
 
 	// Check if YouTube API is already loaded
-	if (window.YT && window.YT.Player) {
+	if ((window as any).YT && (window as any).YT.Player) {
 		createPlayer();
 	} else {
 		// Load YouTube API if not already loaded
-		if (!window.onYouTubeIframeAPIReady) {
+		if (!(window as any).onYouTubeIframeAPIReady) {
 			const tag = document.createElement("script");
 			tag.src = "https://www.youtube.com/iframe_api";
 			const firstScriptTag = document.getElementsByTagName("script")[0];
@@ -195,7 +193,7 @@ const initializePlayer = (): void => {
 				document.head.appendChild(tag);
 			}
 
-			window.onYouTubeIframeAPIReady = () => {
+			(window as any).onYouTubeIframeAPIReady = () => {
 				createPlayer();
 			};
 		}
@@ -208,7 +206,7 @@ const createPlayer = (): void => {
 	// Clear any existing player
 	destroyPlayer();
 
-	player = new window.YT.Player("youtube-player", {
+	player = new (window as any).YT.Player("youtube-player", {
 		height: "100%",
 		width: "100%",
 		videoId: currentVideo.value.id,
@@ -508,12 +506,4 @@ watch(
 	},
 	{ deep: true },
 );
-
-// Global type declaration for YouTube API
-declare global {
-	interface Window {
-		YT: any;
-		onYouTubeIframeAPIReady: () => void;
-	}
-}
 </script>

@@ -106,14 +106,14 @@
 
 <script setup lang="ts">
 interface Props {
-	showHelp: boolean;
+	showHelp?: boolean;
 }
 
 interface Emits {
 	close: [];
 }
 
-const props = withDefaults(defineProps<Props>(), {
+withDefaults(defineProps<Props>(), {
 	showHelp: false,
 });
 
@@ -165,7 +165,4 @@ const formatKeyForDisplay = (key: string): string => {
 
 	return keyMap[key] || key.toUpperCase();
 };
-
-// Get formatted shortcuts for display
-const getFormattedShortcuts = () => {};
 </script>

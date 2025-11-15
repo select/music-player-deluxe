@@ -38,8 +38,8 @@
 			v-else
 			size="small"
 			variant="ghost"
-			@click="handleCancel"
 			class="text-xs"
+			@click="handleCancel"
 		>
 			Cancel
 		</AppBtn>

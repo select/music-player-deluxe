@@ -23,7 +23,7 @@
 					$emit('update:modelValue', ($event.target as HTMLInputElement).value)
 				"
 				@keydown.stop
-			/>
+			>
 			<button
 				v-if="modelValue"
 				type="button"
@@ -66,7 +66,7 @@ interface Props {
 	size?: InputSize;
 }
 
-const props = withDefaults(defineProps<Props>(), {
+withDefaults(defineProps<Props>(), {
 	id: undefined,
 	type: "text",
 	label: undefined,

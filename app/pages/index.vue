@@ -64,7 +64,8 @@ const { loadFirstPlaylist, findVideoIndex } = usePlaylistStore();
 const { currentPlaylist, currentVideos, loading, error, hasCurrentPlaylist } =
 	storeToRefs(usePlaylistStore());
 const { viewMode } = storeToRefs(useUserSettingsStore());
-const globalPlayer = useGlobalPlayer();
+const { currentVideo } = storeToRefs(usePlayerStore());
+const { initializeGlobalPlayer } = usePlayerStore();
 
 // Reactive data
 const currentlyPlayingVideoId = ref<string>("");
@@ -86,11 +87,11 @@ const handleVideoClick = (video: Video): void => {
 	currentlyPlayingVideoId.value = video.id;
 
 	// Initialize global player state (this will open the floating player)
-	globalPlayer.initializeGlobalPlayer(videoIndex);
+	initializeGlobalPlayer(videoIndex);
 };
 
 // Watch for video changes from global player to update highlighting
-watch([globalPlayer.currentVideo], ([video]) => {
+watch([currentVideo], ([video]) => {
 	if (video) {
 		currentlyPlayingVideoId.value = video.id;
 	} else {

@@ -158,8 +158,8 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 	const handleKeyDown = (event: KeyboardEvent): void => {
 		if (!shortcutsEnabled.value) return;
 
-		const globalPlayer = useGlobalPlayer();
-		const handled = handleKeyboardEvent(event, globalPlayer);
+		const globalPlayerStore = usePlayerStore();
+		const handled = handleKeyboardEvent(event, globalPlayerStore);
 
 		// Additional global shortcuts that aren't media-related
 		if (!handled) {
@@ -177,7 +177,7 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 	// Keyboard event handler
 	const handleKeyboardEvent = (
 		event: KeyboardEvent,
-		globalPlayer: ReturnType<typeof useGlobalPlayer>,
+		globalPlayerStore: ReturnType<typeof usePlayerStore>,
 	): boolean => {
 		// Ignore if user is typing in an input field or interacting with form elements
 		const target = event.target as HTMLElement;
@@ -215,15 +215,15 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 			(settings.value.keyboardShortcutScheme === "youtube" && key === " ")
 		) {
 			event.preventDefault();
-			globalPlayer.setIsPlaying(!globalPlayer.isPlaying.value);
+			globalPlayerStore.setIsPlaying(!globalPlayerStore.isPlaying);
 			handled = true;
 		} else if (key === shortcuts.nextTrack) {
 			event.preventDefault();
-			globalPlayer.nextVideo();
+			globalPlayerStore.nextVideo();
 			handled = true;
 		} else if (key === shortcuts.previousTrack) {
 			event.preventDefault();
-			globalPlayer.previousVideo();
+			globalPlayerStore.previousVideo();
 			handled = true;
 		} else if (key === shortcuts.mute) {
 			event.preventDefault();

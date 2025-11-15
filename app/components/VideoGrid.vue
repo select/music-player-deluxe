@@ -3,7 +3,7 @@
 		class="grid grid-cols-[repeat(auto-fill,minmax(200px,1fr))] sm:grid-cols-[repeat(auto-fill,minmax(240px,1fr))] md:grid-cols-[repeat(auto-fill,minmax(280px,1fr))] gap-4 sm:gap-6 px-6"
 	>
 		<div
-			v-for="(video, index) in videos"
+			v-for="video in videos"
 			:key="video.id"
 			class="relative group shadow-black hover:shadow-md hover:bg-zinc-900 flex flex-col gap-3 rounded-2xl hover:rounded-b-0 pa-2 transition-shadow duration-200"
 			:class="{
@@ -35,7 +35,7 @@
 					:alt="video.title"
 					class="w-full h-full object-cover"
 					loading="lazy"
-				/>
+				>
 			</div>
 
 			<!-- Video Info -->
@@ -109,22 +109,22 @@ import dayjs from "dayjs";
 import relativeTime from "dayjs/plugin/relativeTime";
 import type { Video } from "../types";
 
-dayjs.extend(relativeTime);
-
-const props = withDefaults(
+withDefaults(
 	defineProps<{
 		videos?: Video[];
 		highlightVideoId?: string;
 	}>(),
 	{
 		videos: () => [],
-		highlightVideoId: "",
+		highlightVideoId: undefined,
 	},
 );
 
 defineEmits<{
 	play: [video: Video];
 }>();
+
+dayjs.extend(relativeTime);
 
 // Format timestamp to readable date using dayjs
 const formatDate = (timestamp: number): string => {

@@ -24,8 +24,8 @@
 		]"
 		@click="$emit('click', $event)"
 	>
-		<div v-if="loading" class="i-mdi-loading animate-spin"></div>
-		<div v-else-if="icon" :class="icon"></div>
+		<div v-if="loading" class="i-mdi-loading animate-spin"/>
+		<div v-else-if="icon" :class="icon"/>
 		<slot v-if="!loading || showTextWhileLoading" />
 	</NuxtLink>
 	<button
@@ -50,18 +50,14 @@
 		}"
 		@click="$emit('click', $event)"
 	>
-		<div v-if="loading" class="i-mdi-loading animate-spin"></div>
-		<div v-else-if="icon" :class="icon"></div>
+		<div v-if="loading" class="i-mdi-loading animate-spin"/>
+		<div v-else-if="icon" :class="icon"/>
 		<slot v-if="!loading || showTextWhileLoading" />
 	</button>
 </template>
 
 <script setup lang="ts">
-type ButtonVariant = "primary" | "secondary" | "danger" | "ghost";
-type ButtonSize = "small" | "medium" | "large";
-type ButtonType = "button" | "submit" | "reset";
-
-const props = withDefaults(
+withDefaults(
 	defineProps<{
 		variant?: ButtonVariant;
 		size?: ButtonSize;
@@ -84,9 +80,11 @@ const props = withDefaults(
 	},
 );
 
-interface Emits {
+defineEmits<{
 	click: [event: MouseEvent];
-}
+}>();
 
-defineEmits<Emits>();
+type ButtonVariant = "primary" | "secondary" | "danger" | "ghost";
+type ButtonSize = "small" | "medium" | "large";
+type ButtonType = "button" | "submit" | "reset";
 </script>

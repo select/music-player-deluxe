@@ -44,7 +44,7 @@
 					autocomplete="off"
 					@focus="showDropdown = true"
 					@keydown.stop="handleKeydown"
-				/>
+				>
 
 				<!-- Dropdown Toggle Button -->
 				<button

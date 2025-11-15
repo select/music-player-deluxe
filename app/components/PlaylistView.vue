@@ -18,7 +18,7 @@
 				:src="`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`"
 				:alt="video.title"
 				class="w-12 h-9 object-cover rounded mr-3 flex-shrink-0"
-			/>
+			>
 			<div class="flex-1 min-w-0">
 				<p
 					:class="[
@@ -43,6 +43,7 @@
 
 <script setup lang="ts">
 // Use global player and playlist store
-const { currentIndex, playVideo } = useGlobalPlayer();
+const { playVideo } = usePlayerStore();
+const { currentIndex } = storeToRefs(usePlayerStore());
 const { currentVideos: playlist } = storeToRefs(usePlaylistStore());
 </script>

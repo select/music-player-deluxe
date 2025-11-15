@@ -11,7 +11,7 @@
 				:src="`https://i.ytimg.com/vi/${currentVideo.id}/hqdefault.jpg`"
 				:alt="currentVideo.title"
 				class="w-12 h-9 object-cover rounded flex-shrink-0"
-			/>
+			>
 
 			<!-- Video Info -->
 			<div class="flex-1 min-w-0">
@@ -27,23 +27,23 @@
 			<div class="flex items-center gap-2">
 				<AppBtn
 					variant="secondary"
-					@click="previousVideo"
 					:disabled="!canPlayPrevious"
 					class="!p-2"
+					@click="previousVideo"
 				>
 					<div class="i-mdi-skip-previous w-4 h-4" />
 				</AppBtn>
 
-				<AppBtn variant="primary" @click="togglePlayPause" class="!p-2">
+				<AppBtn variant="primary" class="!p-2" @click="togglePlayPause">
 					<div v-if="isPlaying" class="i-mdi-pause w-5 h-5" />
 					<div v-else class="i-mdi-play w-5 h-5" />
 				</AppBtn>
 
 				<AppBtn
 					variant="secondary"
-					@click="nextVideo"
 					:disabled="!canPlayNext"
 					class="!p-2"
+					@click="nextVideo"
 				>
 					<div class="i-mdi-skip-next w-4 h-4" />
 				</AppBtn>
@@ -55,7 +55,7 @@
 			</div>
 
 			<!-- Close Button -->
-			<AppBtn variant="ghost" @click="closePlayer" class="!p-2">
+			<AppBtn variant="ghost" class="!p-2" @click="closePlayer">
 				<div class="i-mdi-close text-xl" />
 			</AppBtn>
 		</div>
@@ -63,15 +63,10 @@
 </template>
 
 <script setup lang="ts">
-// Use global player store directly
-const {
-	currentVideo,
-	isPlaying,
-	canPlayPrevious,
-	canPlayNext,
-	togglePlayPause,
-	previousVideo,
-	nextVideo,
-	closePlayer,
-} = useGlobalPlayer();
+// Use global player store
+const { currentVideo, isPlaying, canPlayPrevious, canPlayNext } =
+	storeToRefs(usePlayerStore());
+
+const { togglePlayPause, previousVideo, nextVideo, closePlayer } =
+	usePlayerStore();
 </script>

@@ -7,8 +7,8 @@
 			<AppBtn
 				size="small"
 				variant="ghost"
-				@click="handleCancel"
 				class="text-xs"
+				@click="handleCancel"
 			>
 				Cancel
 			</AppBtn>
@@ -23,7 +23,7 @@
 						</th>
 						<th
 							class="text-center p-2 font-medium text-primary-4 text-xs w-12"
-						></th>
+						/>
 						<th class="text-left p-2 font-medium text-primary-4 text-xs">
 							Title
 						</th>
@@ -49,7 +49,7 @@
 								:placeholder="parsedTitle.artist"
 								data-input
 								@keydown.stop
-							/>
+							>
 						</td>
 
 						<!-- Swap Button Column -->
@@ -57,9 +57,9 @@
 							<AppBtn
 								size="small"
 								variant="ghost"
-								@click="swapArtistTitle(index)"
 								class="!p-1 !min-w-0 hover:bg-accent/20"
 								title="Swap artist and title"
+								@click="swapArtistTitle(index)"
 							>
 								<div class="i-mdi-swap-horizontal text-xs" />
 							</AppBtn>
@@ -73,7 +73,7 @@
 								:placeholder="parsedTitle.title"
 								data-input
 								@keydown.stop
-							/>
+							>
 						</td>
 
 						<!-- Confidence Column -->
@@ -97,8 +97,8 @@
 								size="small"
 								variant="primary"
 								:disabled="searchingIndex === index"
-								@click="handleSearch(index)"
 								class="text-xs"
+								@click="handleSearch(index)"
 							>
 								<template v-if="searchingIndex === index">
 									<div class="i-mdi-loading animate-spin mr-1" />

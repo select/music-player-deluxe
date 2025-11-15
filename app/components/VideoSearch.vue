@@ -21,8 +21,7 @@
 					class="rounded-full"
 					:class="{ '[&_[class^=i-mdi]]:text-accent': hasActiveFilters }"
 					@click="toggleFilters"
-				>
-				</AppBtn>
+				/>
 
 				<AppBtn
 					:icon="viewMode === 'grid' ? 'i-mdi-view-list' : 'i-mdi-view-grid'"
@@ -30,8 +29,7 @@
 					size="large"
 					class="rounded-full text-2xl"
 					@click="viewMode = viewMode === 'grid' ? 'list' : 'grid'"
-				>
-				</AppBtn>
+				/>
 
 				<AppBtn
 					v-if="isLocalhost"
@@ -83,7 +81,7 @@
 							:variant="selectedDuration === 'short' ? 'primary' : 'ghost'"
 							@click="toggleDuration('short')"
 						>
-							Short (< 4 min)
+							Short (&lt; 4 min)
 						</AppBtn>
 						<AppBtn
 							size="small"
@@ -97,7 +95,7 @@
 							:variant="selectedDuration === 'long' ? 'primary' : 'ghost'"
 							@click="toggleDuration('long')"
 						>
-							Long (> 20 min)
+							Long (&gt; 20 min)
 						</AppBtn>
 					</div>
 				</div>
@@ -178,13 +176,13 @@
 					</div>
 					<select
 						:value="settings.keyboardShortcutScheme"
+						class="w-full rounded-lg bg-primary-1 text-primary-3 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-accent"
 						@change="
 							setKeyboardShortcutScheme(
 								($event.target as HTMLSelectElement)
 									.value as KeyboardShortcutScheme,
 							)
 						"
-						class="w-full rounded-lg bg-primary-1 text-primary-3 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-accent"
 						@keydown.stop
 					>
 						<option
@@ -211,7 +209,7 @@
 
 		<!-- Keyboard Shortcuts Help Modal -->
 		<KeyboardShortcutsHelp
-			:showHelp="showKeyboardHelp"
+			:show-help="showKeyboardHelp"
 			@close="showKeyboardHelp = false"
 		/>
 	</div>
@@ -224,8 +222,7 @@ import type { Video, KeyboardShortcutScheme } from "../types";
 // Stores
 const { setCurrentPlaylistVideos } = usePlaylistStore();
 const { setKeyboardShortcutScheme } = useUserSettingsStore();
-const { currentVideos, originalCurrentPlaylist } =
-	storeToRefs(usePlaylistStore());
+const { originalCurrentPlaylist } = storeToRefs(usePlaylistStore());
 const { settings, availableShortcutSchemes, viewMode } = storeToRefs(
 	useUserSettingsStore(),
 );
@@ -235,7 +232,7 @@ const isLocalhost = ref<boolean>(false);
 
 // Scroll tracking for filter panel closing
 let lastScrollPosition = 0;
-let scrollTimeout: NodeJS.Timeout | null = null;
+let scrollTimeout: ReturnType<typeof setTimeout> | null = null;
 
 const handleScroll = () => {
 	const currentScrollPosition = window.scrollY;
@@ -462,14 +459,16 @@ const filteredVideos = computed<Video[]>(() => {
 						return b.createdAt - a.createdAt;
 					}
 					return 0;
-				case "title":
+				case "title": {
 					const titleA = a.musicTitle || a.title;
 					const titleB = b.musicTitle || b.title;
 					return titleA.localeCompare(titleB);
-				case "artist":
+				}
+				case "artist": {
 					const artistA = a.artist || "Unknown";
 					const artistB = b.artist || "Unknown";
 					return artistA.localeCompare(artistB);
+				}
 				case "duration":
 					return parseDuration(a.duration) - parseDuration(b.duration);
 				default:
