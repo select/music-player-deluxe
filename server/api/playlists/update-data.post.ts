@@ -48,7 +48,7 @@ export default defineEventHandler(async (event) => {
 		const metadataPath = join(
 			process.cwd(),
 			"data",
-			"youtube_links_metadata.json",
+			"anonymized-metadata.json",
 		);
 		const aiAugmentedPath = join(process.cwd(), "data", "ai-augmented.json");
 		const playlistFilePath = join(playlistsDir, `${playlistId}.json`);

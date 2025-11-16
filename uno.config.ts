@@ -36,7 +36,7 @@ export default defineConfig({
 			warning: "#f0ad4e",
 			info: "#337ab7",
 		},
-		fontFamily: {
+		font: {
 			mono: ['"Courier New"', "monospace"],
 			sans: [
 				"system-ui",
@@ -54,13 +54,13 @@ export default defineConfig({
 				/* Set default font family for body and html */
 				html,
 				body {
-					font-family: ${theme.fontFamily.sans.join(", ")};
+					font-family: ${theme.font.sans.join(", ")};
 				}
 
 				/* Code elements should use monospace font */
 				code,
 				pre {
-					font-family: ${theme.fontFamily.mono[0]}, monospace;
+					font-family: ${theme.font.mono[0]}, monospace;
 				}
 
 				/* Global heading styles */
