@@ -1,5 +1,6 @@
 import { useStorage } from "@vueuse/core";
 import type { KeyboardShortcutScheme } from "~/types";
+import { DEFAULT_SELECTED_PLATFORMS } from "~/utils/platforms";
 
 export type ViewMode = "grid" | "list";
 
@@ -25,6 +26,7 @@ export interface KeyboardShortcuts {
 export interface UserSettings {
 	keyboardShortcutScheme: KeyboardShortcutScheme;
 	customShortcuts?: KeyboardShortcuts;
+	selectedPlatforms?: string[];
 }
 
 // Predefined keyboard shortcut schemes
@@ -71,6 +73,7 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 	// State
 	const settings = ref<UserSettings>({
 		keyboardShortcutScheme: "winamp",
+		selectedPlatforms: DEFAULT_SELECTED_PLATFORMS,
 	});
 
 	// Track if shortcuts are enabled
@@ -112,9 +115,15 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 		saveSettings();
 	};
 
+	const setSelectedPlatforms = (platforms: string[]): void => {
+		settings.value.selectedPlatforms = platforms;
+		saveSettings();
+	};
+
 	const resetToDefaults = (): void => {
 		settings.value = {
 			keyboardShortcutScheme: "simple",
+			selectedPlatforms: DEFAULT_SELECTED_PLATFORMS,
 		};
 		saveSettings();
 	};
@@ -145,6 +154,8 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 						keyboardShortcutScheme:
 							parsedSettings.keyboardShortcutScheme || "simple",
 						customShortcuts: parsedSettings.customShortcuts,
+						selectedPlatforms:
+							parsedSettings.selectedPlatforms || DEFAULT_SELECTED_PLATFORMS,
 					};
 				}
 			} catch (error) {
@@ -285,6 +296,7 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 
 		// Actions
 		setKeyboardShortcutScheme,
+		setSelectedPlatforms,
 		resetToDefaults,
 		loadSettings,
 		saveSettings,

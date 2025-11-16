@@ -9,14 +9,23 @@
       "title": "Need For Mirrors - Pagans",
       "channel": "Skankandbass",
       "duration": "5:43",
-      "artist": "Need for Mirrors",
+      "artist": "Need For Mirrors",
       "musicTitle": "Pagans",
       "tags": [
         "drum and bass",
         "uk"
       ],
       "createdAt": 1762192326208,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "externalIds": {
+        "amazonMusic": "B077F9HDVP",
+        "amazonStore": "B077F9HDVP",
+        "pandora": "TR:11072698",
+        "spotify": "4nReYjIdaQvMD7NCcOnBwp",
+        "tidal": "81202204",
+        "youtube": "49l2GK-EUWs",
+        "youtubeMusic": "49l2GK-EUWs"
+      }
     },
     {
       "id": "R7AokJa2YxE",
@@ -26,7 +35,20 @@
       "artist": "TTSSFU",
       "musicTitle": "Call U Back",
       "createdAt": 1762205958134,
-      "userId": "d62ccce3435d119bdd222266feebfc3e982499c90394b15bc195b35c8d273792"
+      "userId": "d62ccce3435d119bdd222266feebfc3e982499c90394b15bc195b35c8d273792",
+      "externalIds": {
+        "amazonMusic": "B0FD4ZKD69",
+        "amazonStore": "B0FD4ZKD69",
+        "appleMusic": "1820506410",
+        "itunes": "1820506410",
+        "pandora": "TR:162943801",
+        "soundcloud": "2111430258",
+        "spotify": "47HdXfgydiy53cEiD6lhU5",
+        "tidal": "441409301",
+        "yandex": "140104943",
+        "youtube": "R7AokJa2YxE",
+        "youtubeMusic": "R7AokJa2YxE"
+      }
     },
     {
       "id": "auzfTPp4moA",
@@ -49,7 +71,22 @@
         "synth-pop"
       ],
       "createdAt": 1762240280163,
-      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39",
+      "externalIds": {
+        "amazonMusic": "B001V7GDDE",
+        "amazonStore": "B001V7GDDE",
+        "anghami": "1454514",
+        "boomplay": "2387840",
+        "appleMusic": "1440771850",
+        "itunes": "1440771850",
+        "pandora": "TR:7353409",
+        "soundcloud": "832701847",
+        "spotify": "18oWEPapjNt32E6sCM6VLb",
+        "tidal": "35597636",
+        "yandex": "4116",
+        "youtube": "auzfTPp4moA",
+        "youtubeMusic": "auzfTPp4moA"
+      }
     },
     {
       "id": "imn8jY_UJg8",
@@ -81,7 +118,24 @@
         "rock"
       ],
       "createdAt": 1762254174881,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "externalIds": {
+        "amazonMusic": "B001RJOU0O",
+        "amazonStore": "B001RJOU0O",
+        "anghami": "66367394",
+        "boomplay": "36977750",
+        "deezer": "14691194",
+        "appleMusic": "304219088",
+        "itunes": "304219088",
+        "napster": "tra.26227029",
+        "pandora": "TR:1329315",
+        "soundcloud": "294215959",
+        "spotify": "0jZFuP4AOr2QlFrvbglkqD",
+        "tidal": "35033580",
+        "yandex": "27756825",
+        "youtube": "89Sqc0r3Tv8",
+        "youtubeMusic": "89Sqc0r3Tv8"
+      }
     },
     {
       "id": "xREl_68O-mw",
@@ -90,14 +144,16 @@
       "duration": "3:36",
       "artist": "Wanda",
       "musicTitle": "Bologna",
-      "tags": [
-        "dance",
-        "electronic",
-        "pop",
-        "synthpop"
-      ],
       "createdAt": 1762270588957,
-      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39",
+      "externalIds": {
+        "amazonMusic": "B0D7P9452J",
+        "amazonStore": "B0D7P9452J",
+        "soundcloud": "296286963",
+        "tidal": "370600112",
+        "youtube": "xREl_68O-mw",
+        "youtubeMusic": "xREl_68O-mw"
+      }
     },
     {
       "id": "UP9K4YJItzA",
@@ -107,7 +163,20 @@
       "artist": "Dear Reader",
       "musicTitle": "Smoke Machine",
       "createdAt": 1754958246565,
-      "userId": "ed0f5d38eced79c1b3b55d02962e68bce13cdb1b30e7d96400b3db3971c94c09"
+      "userId": "ed0f5d38eced79c1b3b55d02962e68bce13cdb1b30e7d96400b3db3971c94c09",
+      "externalIds": {
+        "amazonMusic": "B0CQ3YVSJW",
+        "amazonStore": "B0CQ3YVSJW",
+        "appleMusic": "1721061926",
+        "itunes": "1721061926",
+        "napster": "tra.314836376",
+        "pandora": "TR:12700611",
+        "soundcloud": "454293228",
+        "spotify": "2lSZlLrWUQupCfVSPUQkSD",
+        "tidal": "334913270",
+        "youtube": "UP9K4YJItzA",
+        "youtubeMusic": "UP9K4YJItzA"
+      }
     },
     {
       "id": "XOGWbaOOeCM",
@@ -143,7 +212,20 @@
         "rock"
       ],
       "createdAt": 1751465058947,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "externalIds": {
+        "amazonMusic": "B002GZQ4WK",
+        "amazonStore": "B002GZQ4WK",
+        "anghami": "27621252",
+        "boomplay": "10888117",
+        "pandora": "TR:6953303",
+        "soundcloud": "201293681",
+        "spotify": "7vidktgNZFQylTgH1GEnMs",
+        "tidal": "4077812",
+        "yandex": "95995",
+        "youtube": "ySb1f9zWJkQ",
+        "youtubeMusic": "ySb1f9zWJkQ"
+      }
     },
     {
       "id": "3R-zrySoHNk",
@@ -151,7 +233,7 @@
       "channel": "Foo Fighters",
       "duration": "3:16",
       "artist": "Foo Fighters",
-      "musicTitle": "Today’s Song",
+      "musicTitle": "Today's Song",
       "tags": [
         "alternative rock",
         "american",
@@ -161,7 +243,17 @@
         "rock"
       ],
       "createdAt": 1751467382534,
-      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39",
+      "externalIds": {
+        "amazonMusic": "B0FG4F15MN",
+        "amazonStore": "B0FG4F15MN",
+        "pandora": "TR:164840522",
+        "soundcloud": "2122326879",
+        "spotify": "14PhYqLZ4QLKprqeCOMx36",
+        "tidal": "445235238",
+        "youtube": "3R-zrySoHNk",
+        "youtubeMusic": "3R-zrySoHNk"
+      }
     },
     {
       "id": "zgxL-khJ--Q",
@@ -169,9 +261,17 @@
       "channel": "JazzBreakTV",
       "duration": "5:37",
       "artist": "George Benson",
-      "musicTitle": "Breezin’",
+      "musicTitle": "Breezin'",
       "createdAt": 1751470523709,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "externalIds": {
+        "boomplay": "4674179",
+        "spotify": "7iX9wyZkiKg8AyD7XUu3mK",
+        "tidal": "3029424",
+        "yandex": "26926",
+        "youtube": "zgxL-khJ--Q",
+        "youtubeMusic": "zgxL-khJ--Q"
+      }
     },
     {
       "id": "OVMbcAXhruY",
@@ -198,7 +298,24 @@
       "artist": "Gualtiero",
       "musicTitle": "Gangsterdam",
       "createdAt": 1751476824705,
-      "userId": "d0e5c86f97e5dc247c758d750c1b51fb9703a9dd023d2b91aad02997159169bc"
+      "userId": "d0e5c86f97e5dc247c758d750c1b51fb9703a9dd023d2b91aad02997159169bc",
+      "externalIds": {
+        "amazonMusic": "B0761Y7QLG",
+        "amazonStore": "B0761Y7QLG",
+        "anghami": "66078597",
+        "boomplay": "17451028",
+        "deezer": "412746592",
+        "appleMusic": "1291454972",
+        "itunes": "1291454972",
+        "napster": "tra.277901044",
+        "pandora": "TR:24206247",
+        "soundcloud": "288974881",
+        "spotify": "6dZfbWcmjDhTblybzT7DKZ",
+        "tidal": "79416860",
+        "yandex": "54917464",
+        "youtube": "5bcEfJaOBHY",
+        "youtubeMusic": "5bcEfJaOBHY"
+      }
     },
     {
       "id": "KxH4IvB2r4Q",
@@ -235,7 +352,19 @@
         "dance and electronica"
       ],
       "createdAt": 1751628092390,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "externalIds": {
+        "amazonMusic": "B0F71P93MH",
+        "amazonStore": "B0F71P93MH",
+        "appleMusic": "1816175967",
+        "itunes": "1816175967",
+        "pandora": "TR:162787952",
+        "soundcloud": "1850441475",
+        "spotify": "5n6HNAkxjuVhUmZL3vcMv8",
+        "tidal": "438753275",
+        "youtube": "cBJThzfZj-k",
+        "youtubeMusic": "cBJThzfZj-k"
+      }
     },
     {
       "id": "WdXMBiEqJFo",
@@ -248,7 +377,16 @@
         "idm"
       ],
       "createdAt": 1751628156466,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "externalIds": {
+        "amazonMusic": "B0DY8J87MX",
+        "amazonStore": "B0DY8J87MX",
+        "soundcloud": "2041313192",
+        "spotify": "4XCXyN8EzvcihdZYBNsRDL",
+        "tidal": "419958146",
+        "youtube": "WdXMBiEqJFo",
+        "youtubeMusic": "WdXMBiEqJFo"
+      }
     },
     {
       "id": "ntzs2J4ugcw",
@@ -263,16 +401,22 @@
       "title": "Ne Am Despartit (Original Mix)",
       "channel": "Raze de Soare - Topic",
       "duration": "4:21",
-      "artist": "Raze de Soare",
-      "musicTitle": "Ne Am Despartit (Original Mix)",
-      "tags": [
-        "ambient",
-        "chill",
-        "downtempo",
-        "electronic"
-      ],
+      "artist": "Raze De Soare",
+      "musicTitle": "Ne Am Despartit",
       "createdAt": 1751642911273,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "externalIds": {
+        "amazonMusic": "B0140GG47C",
+        "amazonStore": "B0140GG47C",
+        "appleMusic": "1023272073",
+        "itunes": "1023272073",
+        "pandora": "TR:24381271",
+        "soundcloud": "2056224260",
+        "tidal": "54648649",
+        "yandex": "56089322",
+        "youtube": "2G4VidDLc2o",
+        "youtubeMusic": "2G4VidDLc2o"
+      }
     },
     {
       "id": "D7DJDABIbGk",
@@ -310,16 +454,21 @@
       "title": "Twilight Serenade",
       "channel": "Claudio Scolari - Topic",
       "duration": "3:38",
-      "artist": "Claudio Scolari",
+      "artist": "Claudio Scolari Project",
       "musicTitle": "Twilight Serenade",
-      "tags": [
-        "ambient",
-        "classical",
-        "instrumental",
-        "piano"
-      ],
       "createdAt": 1751713400558,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "externalIds": {
+        "amazonMusic": "B0F3YS7FQ6",
+        "amazonStore": "B0F3YS7FQ6",
+        "appleMusic": "1807151001",
+        "itunes": "1807151001",
+        "pandora": "TR:156164365",
+        "spotify": "2p9Da1cCoatICUkFyiwGDJ",
+        "tidal": "428681405",
+        "youtube": "hLXyoiApCAc",
+        "youtubeMusic": "hLXyoiApCAc"
+      }
     },
     {
       "id": "417a8410GUQ",
@@ -329,7 +478,19 @@
       "artist": "Dj BeBeDeRa",
       "musicTitle": "Tarraxo Guetto Muita Liamba",
       "createdAt": 1751874765017,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "externalIds": {
+        "amazonMusic": "B0FB5HZY7X",
+        "amazonStore": "B0FB5HZY7X",
+        "appleMusic": "1817223717",
+        "itunes": "1817223717",
+        "pandora": "TR:162787331",
+        "soundcloud": "2104521345",
+        "spotify": "5ge0xrmjadDGKzJ8MfEmFw",
+        "tidal": "438753319",
+        "youtube": "417a8410GUQ",
+        "youtubeMusic": "417a8410GUQ"
+      }
     },
     {
       "id": "vogYl8g_6KU",
@@ -339,7 +500,16 @@
       "artist": "The Circling Sun",
       "musicTitle": "Jewel",
       "createdAt": 1751914636018,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "externalIds": {
+        "amazonMusic": "B0BYTFKV2G",
+        "amazonStore": "B0BYTFKV2G",
+        "soundcloud": "1470412843",
+        "spotify": "1XK49QEEE7OM5m7xadRQYu",
+        "tidal": "282452576",
+        "youtube": "vogYl8g_6KU",
+        "youtubeMusic": "vogYl8g_6KU"
+      }
     },
     {
       "id": "k7-bdqr-2KA",
@@ -352,7 +522,17 @@
         "hip hop"
       ],
       "createdAt": 1751973614065,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "externalIds": {
+        "amazonMusic": "B00R8OWHRK",
+        "amazonStore": "B00R8OWHRK",
+        "appleMusic": "948179753",
+        "itunes": "948179753",
+        "pandora": "TR:13641463",
+        "spotify": "2NoOqXvAYu30Piyq7u9v5Q",
+        "youtube": "k7-bdqr-2KA",
+        "youtubeMusic": "k7-bdqr-2KA"
+      }
     },
     {
       "id": "gj2iGAifSNI",
@@ -365,7 +545,22 @@
         "country"
       ],
       "createdAt": 1751987242843,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "externalIds": {
+        "amazonMusic": "B003U24QMI",
+        "amazonStore": "B003U24QMI",
+        "anghami": "58202510",
+        "boomplay": "7899844",
+        "appleMusic": "379424742",
+        "itunes": "379424742",
+        "pandora": "TR:61701076",
+        "soundcloud": "254127549",
+        "spotify": "4XbxeoBeQnwpsyJyZEMoWc",
+        "tidal": "4143585",
+        "yandex": "14276752",
+        "youtube": "gj2iGAifSNI",
+        "youtubeMusic": "gj2iGAifSNI"
+      }
     },
     {
       "id": "QySirDr6aA8",
@@ -375,7 +570,24 @@
       "artist": "Billy Brooks",
       "musicTitle": "Fourty Days",
       "createdAt": 1751989008218,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "externalIds": {
+        "amazonMusic": "B08HDKFN1T",
+        "amazonStore": "B08HDKFN1T",
+        "anghami": "84922491",
+        "boomplay": "85779130",
+        "deezer": "1070298912",
+        "appleMusic": "1530392015",
+        "itunes": "1530392015",
+        "napster": "tra.508915997",
+        "pandora": "TR:35778590",
+        "soundcloud": "1037018542",
+        "spotify": "0J0DDuM9Sh3meYsMMga51K",
+        "tidal": "154246356",
+        "yandex": "70848219",
+        "youtube": "QySirDr6aA8",
+        "youtubeMusic": "QySirDr6aA8"
+      }
     },
     {
       "id": "cOgShYm1F0U",
@@ -389,7 +601,16 @@
         "downtempo"
       ],
       "createdAt": 1752079326555,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "externalIds": {
+        "amazonMusic": "B07JW7Z9TX",
+        "amazonStore": "B07JW7Z9TX",
+        "appleMusic": "1439133901",
+        "itunes": "1439133901",
+        "tidal": "97036365",
+        "youtube": "cOgShYm1F0U",
+        "youtubeMusic": "cOgShYm1F0U"
+      }
     },
     {
       "id": "AFiUsQR8n50",
@@ -399,7 +620,19 @@
       "artist": "The Lewis Express",
       "musicTitle": "Cold Catch",
       "createdAt": 1752183949398,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "externalIds": {
+        "amazonMusic": "B0DV9R92HD",
+        "amazonStore": "B0DV9R92HD",
+        "appleMusic": "1793110943",
+        "itunes": "1793110943",
+        "pandora": "TR:149387823",
+        "soundcloud": "2021697765",
+        "spotify": "3nnYuXi9UeGJG6GALUVmDY",
+        "tidal": "414277641",
+        "youtube": "AFiUsQR8n50",
+        "youtubeMusic": "AFiUsQR8n50"
+      }
     },
     {
       "id": "8H_BoBhaI44",
@@ -412,7 +645,15 @@
         "jazz"
       ],
       "createdAt": 1752184094016,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "externalIds": {
+        "amazonMusic": "B0F9B3R2WM",
+        "amazonStore": "B0F9B3R2WM",
+        "appleMusic": "1815607084",
+        "itunes": "1815607084",
+        "youtube": "8H_BoBhaI44",
+        "youtubeMusic": "8H_BoBhaI44"
+      }
     },
     {
       "id": "kMZO134c8zA",
@@ -422,7 +663,20 @@
       "artist": "I Am An Instrument",
       "musicTitle": "The Way Ahead",
       "createdAt": 1752429488613,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "externalIds": {
+        "amazonMusic": "B0FB9D5SZC",
+        "amazonStore": "B0FB9D5SZC",
+        "deezer": "3390273671",
+        "appleMusic": "1817395541",
+        "itunes": "1817395541",
+        "pandora": "TR:161395073",
+        "soundcloud": "2119069698",
+        "spotify": "1wBKJAS0vUG4sWjoJ3xJf7",
+        "tidal": "438898563",
+        "youtube": "kMZO134c8zA",
+        "youtubeMusic": "kMZO134c8zA"
+      }
     },
     {
       "id": "NGQcC9LE1i8",
@@ -5998,13 +6252,21 @@
       "duration": "3:55",
       "artist": "Sting",
       "musicTitle": "Russians",
-      "tags": [
-        "new wave",
-        "pop",
-        "rock"
-      ],
       "createdAt": 1646386503186,
-      "userId": "69083adc2d38e7b81ef0ec059d2c11e9eb103071a26a98d0bec92c274b67c94a"
+      "userId": "69083adc2d38e7b81ef0ec059d2c11e9eb103071a26a98d0bec92c274b67c94a",
+      "externalIds": {
+        "amazonMusic": "B000W2725W",
+        "amazonStore": "B000W2725W",
+        "anghami": "52325763",
+        "boomplay": "2067955",
+        "pandora": "TR:165096233",
+        "soundcloud": "252663497",
+        "spotify": "0MBYW7CcBJmsY3HTP05VQg",
+        "tidal": "35687909",
+        "yandex": "781331",
+        "youtube": "wHylQRVN2Qs",
+        "youtubeMusic": "wHylQRVN2Qs"
+      }
     },
     {
       "id": "voP04JcsqpA",
@@ -6053,14 +6315,19 @@
       "duration": "4:23",
       "artist": "Affinity Projects",
       "musicTitle": "Move Back",
-      "tags": [
-        "ambient",
-        "chill",
-        "downtempo",
-        "electronic"
-      ],
       "createdAt": 1646684755320,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "externalIds": {
+        "amazonMusic": "B073QZ4STZ",
+        "amazonStore": "B073QZ4STZ",
+        "appleMusic": "1255986787",
+        "itunes": "1255986787",
+        "pandora": "TR:74449576",
+        "spotify": "7yrGf6BahNTDpIQEMbkoo1",
+        "tidal": "75959992",
+        "youtube": "Xrd4S-eJDcg",
+        "youtubeMusic": "Xrd4S-eJDcg"
+      }
     },
     {
       "id": "lsPrINajncU",
@@ -6141,14 +6408,18 @@
       "duration": "4:17",
       "artist": "ROSALÍA",
       "musicTitle": "De Plata",
-      "tags": [
-        "electronic",
-        "latin",
-        "pop",
-        "r&b"
-      ],
       "createdAt": 1646990394399,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "externalIds": {
+        "amazonMusic": "B073TC1V6P",
+        "amazonStore": "B073TC1V6P",
+        "boomplay": "2189206",
+        "pandora": "TR:9824586",
+        "soundcloud": "305777785",
+        "tidal": "70029742",
+        "youtube": "NfDEEyg3AdA",
+        "youtubeMusic": "NfDEEyg3AdA"
+      }
     },
     {
       "id": "_iTEs-G7pB0",
@@ -6156,15 +6427,20 @@
       "channel": "PeretVEVO",
       "duration": "4:51",
       "artist": "Peret",
-      "musicTitle": "El Muerto Vivo ft. Marina \"Ojos De Brujo\"",
-      "tags": [
-        "dancehall",
-        "latin",
-        "reggae",
-        "world music"
-      ],
+      "musicTitle": "El Muerto Vivo",
       "createdAt": 1646990572603,
-      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
+      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2",
+      "externalIds": {
+        "amazonMusic": "B01M1HOC5L",
+        "amazonStore": "B01M1HOC5L",
+        "anghami": "1041811076",
+        "pandora": "TR:171823695",
+        "soundcloud": "252680997",
+        "spotify": "2oUBG6Te9PNzEJB17Cbmi3",
+        "tidal": "48346542",
+        "youtube": "_iTEs-G7pB0",
+        "youtubeMusic": "_iTEs-G7pB0"
+      }
     },
     {
       "id": "BeXZZYBLUzE",
@@ -6189,13 +6465,15 @@
       "duration": "3:23",
       "artist": "Riverboat Gamblers",
       "musicTitle": "A Choppy, Yet Sincere Apology",
-      "tags": [
-        "bluegrass",
-        "country",
-        "folk"
-      ],
       "createdAt": 1647002899362,
-      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39",
+      "externalIds": {
+        "appleMusic": "1806200085",
+        "itunes": "1806200085",
+        "yandex": "460946",
+        "youtube": "tQI987EkUgg",
+        "youtubeMusic": "tQI987EkUgg"
+      }
     },
     {
       "id": "LpdJE7HG8Ls",
@@ -6204,13 +6482,25 @@
       "duration": "3:55",
       "artist": "The Beatles",
       "musicTitle": "Dig A Pony",
-      "tags": [
-        "pop",
-        "psychedelic rock",
-        "rock"
-      ],
       "createdAt": 1647008215967,
-      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39",
+      "externalIds": {
+        "amazonMusic": "B07FT1NS3L",
+        "amazonStore": "B07FT1NS3L",
+        "audius": "yd5WY",
+        "anghami": "12910684",
+        "deezer": "116348648",
+        "appleMusic": "1441164506",
+        "itunes": "1441164506",
+        "napster": "tra.209391995",
+        "pandora": "TR:18603203",
+        "soundcloud": "340897885",
+        "spotify": "4OUmlC67FoPLvQNuE5C7kF",
+        "tidal": "55130735",
+        "yandex": "27374638",
+        "youtube": "LpdJE7HG8Ls",
+        "youtubeMusic": "LpdJE7HG8Ls"
+      }
     },
     {
       "id": "y4gU8xlTpUk",
@@ -6219,14 +6509,21 @@
       "duration": "3:31",
       "artist": "Papa Roach",
       "musicTitle": "Come Around",
-      "tags": [
-        "alternative",
-        "metal",
-        "nu metal",
-        "rock"
-      ],
       "createdAt": 1647080597606,
-      "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
+      "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009",
+      "externalIds": {
+        "amazonMusic": "B08MQ52N2J",
+        "amazonStore": "B08MQ52N2J",
+        "boomplay": "13535214",
+        "appleMusic": "1699433043",
+        "itunes": "1699433043",
+        "pandora": "TR:41721119",
+        "soundcloud": "516228954",
+        "spotify": "5ngJ8ALLuCMLZNrdSYIoLM",
+        "yandex": "44182586",
+        "youtube": "y4gU8xlTpUk",
+        "youtubeMusic": "y4gU8xlTpUk"
+      }
     },
     {
       "id": "2MhqaGKpqBA",
@@ -6266,15 +6563,27 @@
       "channel": "Led Zeppelin",
       "duration": "2:48",
       "artist": "Led Zeppelin",
-      "musicTitle": "Good Times Bad Times",
-      "tags": [
-        "blues rock",
-        "classic rock",
-        "hard rock",
-        "rock"
-      ],
+      "musicTitle": "Good Times Bad Times (Remaster)",
       "createdAt": 1647263256742,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "externalIds": {
+        "amazonMusic": "B00KGBCN1M",
+        "amazonStore": "B00KGBCN1M",
+        "audiomack": "71846219",
+        "anghami": "3991806",
+        "boomplay": "3821362",
+        "deezer": "78621534",
+        "appleMusic": "580708940",
+        "itunes": "580708940",
+        "napster": "tra.147540188",
+        "pandora": "TR:32898",
+        "soundcloud": "256217785",
+        "spotify": "0QwZfbw26QeUoIy82Z2jYp",
+        "tidal": "30349475",
+        "yandex": "17370435",
+        "youtube": "TA9Rec1qAFQ",
+        "youtubeMusic": "TA9Rec1qAFQ"
+      }
     },
     {
       "id": "pm08v69vG10",
@@ -8372,14 +8681,17 @@
       "duration": "3:19",
       "artist": "Terror Squad",
       "musicTitle": "Lean Back (NGHTMRE Remix)",
-      "tags": [
-        "bass music",
-        "electronic",
-        "hip hop",
-        "trap"
-      ],
       "createdAt": 1656861470019,
-      "userId": "7b38423ee2390619dd6c564f78e198553caa89b0d2208b6207b1a646bea01c67"
+      "userId": "7b38423ee2390619dd6c564f78e198553caa89b0d2208b6207b1a646bea01c67",
+      "externalIds": {
+        "amazonMusic": "B0718Z8W49",
+        "amazonStore": "B0718Z8W49",
+        "boomplay": "2638476",
+        "soundcloud": "319721559",
+        "spotify": "2Pb8lC0cUaoOLGWHg7yiLO",
+        "youtube": "oiiTx5u5Nb8",
+        "youtubeMusic": "oiiTx5u5Nb8"
+      }
     },
     {
       "id": "HSxodg508YA",
@@ -14738,5 +15050,5 @@
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     }
   ],
-  "lastFetched": "2025-11-16T14:13:40.126Z"
+  "lastFetched": "2025-11-16T18:06:41.860Z"
 }

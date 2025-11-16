@@ -3,7 +3,7 @@ import { join } from "path";
 import type {
 	Playlist,
 	Video,
-	MusicBrainzSongData,
+	SongMetaData,
 	YouTubeLinkMetadata,
 } from "~/types";
 
@@ -79,7 +79,7 @@ export default defineEventHandler(async (event) => {
 		}
 
 		// Read all song files to create a lookup map
-		const songDataMap = new Map<string, MusicBrainzSongData>();
+		const songDataMap = new Map<string, SongMetaData>();
 		try {
 			const songFiles = await fs.readdir(songsDir);
 
@@ -88,7 +88,7 @@ export default defineEventHandler(async (event) => {
 					try {
 						const songFilePath = join(songsDir, songFile);
 						const songContent = await fs.readFile(songFilePath, "utf-8");
-						const songData: MusicBrainzSongData = JSON.parse(songContent);
+						const songData: SongMetaData = JSON.parse(songContent);
 
 						// Map by YouTube ID (filename without .json extension)
 						const youtubeId = songFile.replace(".json", "");
@@ -158,7 +158,9 @@ export default defineEventHandler(async (event) => {
 				const hasMusicChanges =
 					video.artist !== songData.artist ||
 					video.musicTitle !== songData.title ||
-					JSON.stringify(video.tags || []) !== JSON.stringify(uniqueTags);
+					JSON.stringify(video.tags || []) !== JSON.stringify(uniqueTags) ||
+					JSON.stringify(video.externalIds || {}) !==
+						JSON.stringify(songData.odesli || {});
 
 				if (hasMusicChanges) {
 					hasChanges = true;
@@ -169,6 +171,7 @@ export default defineEventHandler(async (event) => {
 					artist: songData.artist,
 					musicTitle: songData.title,
 					tags: uniqueTags.length > 0 ? uniqueTags : undefined,
+					externalIds: songData.odesli,
 				};
 			}
 

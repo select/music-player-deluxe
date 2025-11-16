@@ -1,10 +1,16 @@
 {
   "mbid": "d75df594-e9b7-499b-a75e-0cbca2c5aa19",
-  "title": "Call Coco (extended version)",
+  "title": "9OASES - Call Coco",
   "artist": "9OASES",
   "tags": [],
   "duration": 330,
   "youtubeId": "V6wceuE8YyA",
-  "lastFetched": "2025-11-09T17:34:35.060Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T18:08:41.142Z",
+  "releaseCount": 1,
+  "odesli": {
+    "soundcloud": "2141110989",
+    "yandex": "141187113",
+    "youtube": "V6wceuE8YyA",
+    "youtubeMusic": "V6wceuE8YyA"
+  }
 }

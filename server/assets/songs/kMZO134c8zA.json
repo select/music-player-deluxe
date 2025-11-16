@@ -4,7 +4,20 @@
   "artist": "I Am An Instrument",
   "tags": [],
   "youtubeId": "kMZO134c8zA",
-  "lastFetched": "2025-11-09T18:31:44.241Z",
+  "lastFetched": "2025-11-16T17:30:45.389Z",
   "releaseCount": 1,
-  "artistTags": []
+  "artistTags": [],
+  "odesli": {
+    "amazonMusic": "B0FB9D5SZC",
+    "amazonStore": "B0FB9D5SZC",
+    "deezer": "3390273671",
+    "appleMusic": "1817395541",
+    "itunes": "1817395541",
+    "pandora": "TR:161395073",
+    "soundcloud": "2119069698",
+    "spotify": "1wBKJAS0vUG4sWjoJ3xJf7",
+    "tidal": "438898563",
+    "youtube": "kMZO134c8zA",
+    "youtubeMusic": "kMZO134c8zA"
+  }
 }

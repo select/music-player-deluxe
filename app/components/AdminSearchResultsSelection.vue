@@ -49,7 +49,7 @@
 <script setup lang="ts">
 import type {
 	MusicBrainzSearchResult,
-	MusicBrainzSongData,
+	SongMetaData,
 	MusicBrainzMatchRequest,
 	MusicBrainzResponse,
 } from "~/types";
@@ -60,7 +60,7 @@ interface Props {
 }
 
 interface Emits {
-	matchComplete: [songData: MusicBrainzSongData];
+	matchComplete: [songData: SongMetaData];
 	matchError: [error: string];
 	cancel: [];
 }

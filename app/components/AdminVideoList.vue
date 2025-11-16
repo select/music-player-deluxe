@@ -36,7 +36,7 @@
 											:src="`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`"
 											:alt="video.title"
 											class="w-12 h-12 rounded-full object-cover bg-primary-1"
-										>
+										/>
 									</div>
 									<div class="flex-1 min-w-0">
 										<h4 class="font-medium text-primary-4 line-clamp-2 text-sm">
@@ -116,6 +116,16 @@
 									</AppBtn>
 
 									<AppBtn
+										icon="i-mdi-cloud-sync"
+										size="small"
+										variant="ghost"
+										:disabled="loadingStates[video.id]"
+										@click="augmentWithOdesli(video.id)"
+									>
+										{{ loadingStates[video.id] ? "Augmenting..." : "Augment" }}
+									</AppBtn>
+
+									<AppBtn
 										v-if="songDataMap[video.id]"
 										icon="i-mdi-delete"
 										size="small"
@@ -173,7 +183,7 @@
 import type {
 	Video,
 	MusicBrainzSearchResult,
-	MusicBrainzSongData,
+	SongMetaData,
 	ApiResponse,
 	ParsedTitle,
 } from "~/types";
@@ -187,24 +197,36 @@ const props = withDefaults(defineProps<Props>(), {
 });
 
 // Reactive state
-const songDataMap = ref<Record<string, MusicBrainzSongData>>({});
+const songDataMap = ref<Record<string, SongMetaData>>({});
 const searchResultsMap = ref<Record<string, MusicBrainzSearchResult[]>>({});
 const parsedTitlesMap = ref<Record<string, ParsedTitle[]>>({});
 const loadingStates = ref<Record<string, boolean>>({});
 
 // Load existing song data for all videos
 const loadExistingSongData = async (): Promise<void> => {
-	for (const video of props.videos) {
-		try {
-			const response = await $fetch<ApiResponse<MusicBrainzSongData>>(
-				`/api/songs/${video.id}`,
-			);
-			if (response.success && response.data) {
-				songDataMap.value[video.id] = response.data;
+	if (props.videos.length === 0) return;
+
+	try {
+		const allResults = await $fetch<Record<string, SongMetaData>>(
+			`/api/metadata/all`,
+			{
+				method: "POST",
+			},
+		);
+
+		// Filter results to only include videos in our current list
+		const videoIds = props.videos.map((video) => video.id);
+		const filteredResults: Record<string, SongMetaData> = {};
+
+		for (const videoId of videoIds) {
+			if (allResults[videoId]) {
+				filteredResults[videoId] = allResults[videoId];
 			}
-		} catch {
-			// No existing data, that's fine
 		}
+
+		songDataMap.value = { ...songDataMap.value, ...filteredResults };
+	} catch (error) {
+		console.warn("Failed to load existing song data:", error);
 	}
 };
 
@@ -214,10 +236,7 @@ watchEffect(async () => {
 });
 
 // Handle match completion from SearchResultsSelection
-const handleMatchComplete = (
-	videoId: string,
-	songData: MusicBrainzSongData,
-): void => {
+const handleMatchComplete = (videoId: string, songData: SongMetaData): void => {
 	songDataMap.value[videoId] = songData;
 	delete searchResultsMap.value[videoId]; // Clear search results
 	delete parsedTitlesMap.value[videoId]; // Clear parsed titles
@@ -299,7 +318,7 @@ const fetchArtistTags = async (videoId: string): Promise<void> => {
 	try {
 		loadingStates.value[videoId] = true;
 
-		const response = await $fetch<ApiResponse<MusicBrainzSongData>>(
+		const response = await $fetch<ApiResponse<SongMetaData>>(
 			"/api/musicbrainz/artist-tags",
 			{
 				method: "POST",
@@ -312,6 +331,28 @@ const fetchArtistTags = async (videoId: string): Promise<void> => {
 		}
 	} catch (error) {
 		console.error("Error fetching artist tags:", error);
+		// You can add notification handling here
+	} finally {
+		delete loadingStates.value[videoId];
+	}
+};
+
+// Augment video with Odesli data
+const augmentWithOdesli = async (videoId: string): Promise<void> => {
+	try {
+		loadingStates.value[videoId] = true;
+
+		const songData = await $fetch<SongMetaData>(
+			"/api/metadata/odesli-augment",
+			{
+				method: "POST",
+				body: { youtubeId: videoId },
+			},
+		);
+
+		songDataMap.value[videoId] = songData;
+	} catch (error) {
+		console.error("Error augmenting with Odesli:", error);
 		// You can add notification handling here
 	} finally {
 		delete loadingStates.value[videoId];

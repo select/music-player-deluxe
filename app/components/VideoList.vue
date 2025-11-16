@@ -12,6 +12,7 @@
 						<th class="text-left p-3 font-medium text-primary-4">Video</th>
 						<th class="text-left p-3 font-medium text-primary-4">Duration</th>
 						<th class="text-left p-3 font-medium text-primary-4">Tags</th>
+						<th class="text-left p-3 font-medium text-primary-4">Platforms</th>
 						<th class="text-left p-3 font-medium text-primary-4">Added</th>
 					</tr>
 				</thead>
@@ -34,7 +35,7 @@
 										:src="`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`"
 										:alt="video.title"
 										class="rounded-full size-16 object-cover bg-primary-1"
-									>
+									/>
 									<!-- Play Overlay -->
 									<div
 										class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity rounded"
@@ -102,6 +103,33 @@
 							</div>
 						</td>
 
+						<!-- Platforms Column -->
+						<td class="p-3">
+							<div
+								v-if="
+									video.externalIds &&
+									selectedPlatformIds.some((id) => video.externalIds?.[id])
+								"
+								class="flex gap-2"
+							>
+								<a
+									v-for="platformId in selectedPlatformIds.filter(
+										(id) => video.externalIds?.[id],
+									)"
+									:key="platformId"
+									:href="
+										getPlatformUrl(platformId, video.externalIds[platformId]!)
+									"
+									target="_blank"
+									rel="noopener noreferrer"
+									class="text-primary-3 hover:text-accent transition-colors"
+									:title="`Listen on ${getPlatformName(platformId)}`"
+								>
+									<div :class="getPlatformIcon(platformId)" class="text-sm" />
+								</a>
+							</div>
+						</td>
+
 						<!-- Added Date Column -->
 						<td class="p-3 min-w-30">
 							<div class="flex items-center gap-2">
@@ -133,7 +161,7 @@
 <script setup lang="ts">
 import dayjs from "dayjs";
 import relativeTime from "dayjs/plugin/relativeTime";
-import type { Video } from "../types";
+import type { Video } from "~/types";
 
 withDefaults(
 	defineProps<{
@@ -144,6 +172,12 @@ withDefaults(
 		videos: () => [],
 		highlightVideoId: "",
 	},
+);
+
+// Get selected platforms from user settings
+const { settings } = storeToRefs(useUserSettingsStore());
+const selectedPlatformIds = computed(
+	() => settings.value.selectedPlatforms || [],
 );
 
 defineEmits<{

@@ -35,7 +35,7 @@
 					:alt="video.title"
 					class="w-full h-full object-cover"
 					loading="lazy"
-				>
+				/>
 			</div>
 
 			<!-- Video Info -->
@@ -99,6 +99,32 @@
 						</span>
 					</div>
 				</div>
+
+				<!-- Platform Links -->
+				<div
+					v-if="
+						video.externalIds &&
+						selectedPlatformIds.some((id) => video.externalIds?.[id])
+					"
+					class="pt-2"
+				>
+					<div class="flex items-center gap-2">
+						<span class="text-xs text-primary-3">Listen on:</span>
+						<a
+							v-for="platformId in selectedPlatformIds.filter(
+								(id) => video.externalIds?.[id],
+							)"
+							:key="platformId"
+							:href="getPlatformUrl(platformId, video.externalIds[platformId]!)"
+							target="_blank"
+							rel="noopener noreferrer"
+							class="text-primary-3 hover:text-accent transition-colors"
+							:title="`Listen on ${getPlatformName(platformId)}`"
+						>
+							<div :class="getPlatformIcon(platformId)" class="text-xl" />
+						</a>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -123,6 +149,12 @@ withDefaults(
 defineEmits<{
 	play: [video: Video];
 }>();
+
+// Get selected platforms from user settings
+const { settings } = storeToRefs(useUserSettingsStore());
+const selectedPlatformIds = computed(
+	() => settings.value.selectedPlatforms || [],
+);
 
 dayjs.extend(relativeTime);
 

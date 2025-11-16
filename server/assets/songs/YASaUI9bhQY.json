@@ -1,10 +1,22 @@
 {
   "mbid": "795cf9d8-109e-4a40-84f6-f58d22f0bcaa",
-  "title": "Rust",
+  "title": "Rust (feat. Tom Misch)",
   "artist": "Yussef Dayes",
   "tags": [],
   "duration": 239,
   "youtubeId": "YASaUI9bhQY",
-  "lastFetched": "2025-11-09T17:51:17.121Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T18:13:52.236Z",
+  "releaseCount": 1,
+  "odesli": {
+    "amazonMusic": "B0C31XSR3G",
+    "amazonStore": "B0C31XSR3G",
+    "audiomack": "24997538",
+    "napster": "tra.787473036",
+    "pandora": "TR:98017494",
+    "soundcloud": "1506668161",
+    "spotify": "1nsaIli1TgKxLjHmWqDRmE",
+    "tidal": "297922648",
+    "youtube": "YASaUI9bhQY",
+    "youtubeMusic": "YASaUI9bhQY"
+  }
 }

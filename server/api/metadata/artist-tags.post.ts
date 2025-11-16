@@ -1,13 +1,7 @@
-import { MusicBrainzApi } from "musicbrainz-api";
+import { getMusicBrainzArtistTags } from "../../utils/musicbrainzArtistTags";
 import { promises as fs } from "fs";
 import { join } from "path";
-import type { MusicBrainzSongData } from "~/types";
-
-const mbApi = new MusicBrainzApi({
-	appName: "MusicPlaylistView",
-	appVersion: "1.0.0",
-	appContactInfo: "contact@example.com",
-});
+import type { SongMetaData } from "~/types";
 
 export default defineEventHandler(async (event) => {
 	try {
@@ -24,16 +18,23 @@ export default defineEventHandler(async (event) => {
 		const songsDir = join(process.cwd(), "server", "assets", "songs");
 		const filePath = join(songsDir, `${youtubeId}.json`);
 
-		// Read existing song data
-		let songData: MusicBrainzSongData;
+		// Read existing song data to get the mbid
+		let songData: SongMetaData;
 		try {
 			const fileContent = await fs.readFile(filePath, "utf-8");
 			songData = JSON.parse(fileContent);
-		} catch (error) {
+		} catch {
 			throw createError({
 				statusCode: 404,
 				statusMessage:
 					"Song data not found. Please ensure the song has MusicBrainz data first.",
+			});
+		}
+
+		if (!songData.mbid) {
+			throw createError({
+				statusCode: 400,
+				statusMessage: "Song data does not contain a MusicBrainz ID",
 			});
 		}
 
@@ -51,49 +52,10 @@ export default defineEventHandler(async (event) => {
 			}
 		}
 
-		// Use stored artistMbid if available, otherwise fetch from recording data
-		let artistMbid = songData.artistMbid;
+		// Use the utility function to get artist tags
+		const artistTags = await getMusicBrainzArtistTags(songData.mbid);
 
-		if (!artistMbid) {
-			// Fallback: get the recording data to extract artist MBID
-			const recordingData = (await mbApi.lookup("recording", songData.mbid, [
-				"artist-credits",
-			])) as any;
-
-			if (
-				!recordingData ||
-				!recordingData["artist-credit"] ||
-				recordingData["artist-credit"].length === 0
-			) {
-				throw createError({
-					statusCode: 404,
-					statusMessage: `Recording "${songData.mbid}" not found or has no artist credits`,
-				});
-			}
-
-			// Get the primary artist MBID from the recording
-			artistMbid = recordingData["artist-credit"][0].artist.id;
-
-			if (!artistMbid) {
-				throw createError({
-					statusCode: 404,
-					statusMessage: "Artist MBID not found in recording data",
-				});
-			}
-
-			// Store the artistMbid for future use
-			songData.artistMbid = artistMbid;
-		}
-
-		// Fetch artist details with tags using the MBID from the recording
-		const artistData = (await mbApi.lookup("artist", artistMbid, [
-			"tags",
-		])) as any;
-
-		// Extract artist tags
-		const artistTags = artistData.tags?.map((tag: any) => tag.name) || [];
-
-		// Update song data with artist tags
+		// Update the song data with the fetched artist tags
 		songData.artistTags = artistTags;
 		songData.lastFetched = new Date().toISOString();
 

@@ -1,7 +1,11 @@
 import { MusicBrainzApi } from "musicbrainz-api";
 import { promises as fs } from "fs";
 import { join } from "path";
-import type { MusicBrainzSongData, MusicBrainzResponse } from "~/types";
+import type {
+	MusicBrainzMatchRequest,
+	SongMetaData,
+	MusicBrainzResponse,
+} from "~/types";
 
 const mbApi = new MusicBrainzApi({
 	appName: "MusicPlaylistView",
@@ -11,49 +15,23 @@ const mbApi = new MusicBrainzApi({
 
 export default defineEventHandler(async (event) => {
 	try {
-		const mbid = getRouterParam(event, "id");
-		const youtubeId = getQuery(event).youtubeId as string;
+		const body = (await readBody(event)) as MusicBrainzMatchRequest;
 
-		if (!mbid) {
+		if (!body.videoId || !body.selectedMbid) {
 			throw createError({
 				statusCode: 400,
-				statusMessage: "MusicBrainz ID is required",
+				statusMessage: "Video ID and selected MusicBrainz ID are required",
 			});
 		}
 
-		if (!youtubeId) {
-			throw createError({
-				statusCode: 400,
-				statusMessage: "YouTube ID is required",
-			});
-		}
+		const { videoId, selectedMbid } = body;
 
-		// Define the file path for caching
+		// Define the file path for storing the matched data
 		const songsDir = join(process.cwd(), "server", "assets", "songs");
-		const filePath = join(songsDir, `${youtubeId}.json`);
-
-		// Check if cached file exists and is recent (less than 7 days old)
-		try {
-			const stats = await fs.stat(filePath);
-			const weekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000; // 7 days in milliseconds
-
-			if (stats.mtime.getTime() > weekAgo) {
-				// Return cached data
-				const cachedData = await fs.readFile(filePath, "utf-8");
-				const parsedData = JSON.parse(cachedData);
-
-				return {
-					success: true,
-					data: parsedData,
-					cached: true,
-				} as MusicBrainzResponse;
-			}
-		} catch (error) {
-			// File doesn't exist or error reading it, continue to fetch fresh data
-		}
+		const filePath = join(songsDir, `${videoId}.json`);
 
 		// Fetch recording details from MusicBrainz using the API library
-		const recordingData = (await mbApi.lookup("recording", mbid, [
+		const recordingData = (await mbApi.lookup("recording", selectedMbid, [
 			"artist-credits",
 			"releases",
 			"tags",
@@ -78,8 +56,8 @@ export default defineEventHandler(async (event) => {
 		const artistMbid = recordingData["artist-credit"]?.[0]?.artist?.id;
 
 		// Create song data object
-		const songData: MusicBrainzSongData = {
-			mbid: mbid,
+		const songData: SongMetaData = {
+			mbid: selectedMbid,
 			title: recordingData.title || "Unknown Title",
 			artist: recordingData["artist-credit"]?.[0]?.name || "Unknown Artist",
 			artistMbid: artistMbid,
@@ -89,7 +67,7 @@ export default defineEventHandler(async (event) => {
 			duration: recordingData.length
 				? Math.round(recordingData.length / 1000)
 				: undefined,
-			youtubeId: youtubeId,
+			youtubeId: videoId,
 			lastFetched: new Date().toISOString(),
 		};
 
@@ -101,7 +79,11 @@ export default defineEventHandler(async (event) => {
 			// Write the song data to file
 			await fs.writeFile(filePath, JSON.stringify(songData, null, 2), "utf-8");
 		} catch (fileError) {
-			console.warn("Failed to cache song data:", fileError);
+			console.warn("Failed to save song data:", fileError);
+			throw createError({
+				statusCode: 500,
+				statusMessage: "Failed to save song metadata",
+			});
 		}
 
 		return {
@@ -110,11 +92,12 @@ export default defineEventHandler(async (event) => {
 			cached: false,
 		} as MusicBrainzResponse;
 	} catch (error: any) {
-		console.error("Error fetching MusicBrainz data:", error);
+		console.error("Error matching MusicBrainz recording:", error);
 
 		throw createError({
 			statusCode: error.statusCode || 500,
-			statusMessage: error.statusMessage || "Failed to fetch MusicBrainz data",
+			statusMessage:
+				error.statusMessage || "Failed to match MusicBrainz recording",
 		});
 	}
 });

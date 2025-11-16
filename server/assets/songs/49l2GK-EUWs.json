@@ -1,14 +1,23 @@
 {
   "mbid": "d2ae3e48-373d-4bb9-ac7d-99792d6a7a44",
   "title": "Pagans",
-  "artist": "Need for Mirrors",
+  "artist": "Need For Mirrors",
   "tags": [],
   "duration": 343,
   "youtubeId": "49l2GK-EUWs",
-  "lastFetched": "2025-11-09T18:29:37.303Z",
+  "lastFetched": "2025-11-16T16:40:25.486Z",
   "releaseCount": 1,
   "artistTags": [
     "drum and bass",
     "uk"
-  ]
+  ],
+  "odesli": {
+    "amazonMusic": "B077F9HDVP",
+    "amazonStore": "B077F9HDVP",
+    "pandora": "TR:11072698",
+    "spotify": "4nReYjIdaQvMD7NCcOnBwp",
+    "tidal": "81202204",
+    "youtube": "49l2GK-EUWs",
+    "youtubeMusic": "49l2GK-EUWs"
+  }
 }

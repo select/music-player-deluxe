@@ -11,6 +11,8 @@ export interface Video {
 	// YouTube metadata fields
 	createdAt?: number;
 	userId?: string | null;
+	// External platform IDs
+	externalIds?: Record<string, string>;
 }
 
 export interface Playlist {
@@ -53,21 +55,22 @@ export interface MusicBrainzSearchResult {
 	disambiguation?: string;
 }
 
-export interface MusicBrainzSongData {
-	mbid: string;
+export interface SongMetaData {
+	mbid?: string;
 	title: string;
 	artist: string;
 	artistMbid?: string;
 	album?: string;
-	releaseCount: number;
-	tags: string[];
-	genres: string[];
+	releaseCount?: number;
+	tags?: string[];
+	genres?: string[];
 	artistTags?: string[];
 	duration?: number;
 	youtubeId: string;
 	lastFetched: string;
 	datetime?: number;
 	userId?: string | null;
+	odesli?: Record<string, string>;
 }
 
 export interface SearchRequest {
@@ -82,7 +85,7 @@ export interface SearchResponse {
 
 export interface MusicBrainzResponse {
 	success: boolean;
-	data?: MusicBrainzSongData;
+	data?: SongMetaData;
 	cached?: boolean;
 }
 

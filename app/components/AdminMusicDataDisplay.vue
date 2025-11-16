@@ -39,17 +39,36 @@
 				{{ tag }}
 			</span>
 		</div>
+		<div
+			v-if="songData.odesli && Object.keys(songData.odesli).length > 0"
+			class="mt-2 flex gap-2 flex-wrap items-center"
+		>
+			<span class="text-xs text-primary-3 mr-1">Listen on:</span>
+			<a
+				v-for="(id, platformId) in songData.odesli"
+				:key="platformId"
+				:href="getPlatformUrl(platformId, id)"
+				target="_blank"
+				rel="noopener noreferrer"
+				class="text-primary-3 hover:text-accent transition-colors"
+				:title="`Listen on ${getPlatformName(platformId)}`"
+			>
+				<div :class="getPlatformIcon(platformId)" class="text-sm" />
+			</a>
+		</div>
 	</div>
 </template>
 
 <script setup lang="ts">
-import type { MusicBrainzSongData } from "~/types";
+import type { SongMetaData } from "~/types";
 
 interface Props {
-	songData?: MusicBrainzSongData;
+	songData?: SongMetaData;
 }
 
 withDefaults(defineProps<Props>(), {
 	songData: undefined,
 });
+
+// Admin view shows all available platforms
 </script>

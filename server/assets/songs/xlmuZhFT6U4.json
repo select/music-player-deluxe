@@ -1,10 +1,17 @@
 {
   "mbid": "51de5bc8-fba3-426e-a362-19d64c5397f5",
-  "title": "Mind Loaded",
+  "title": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
   "artist": "Blood Orange",
   "tags": [],
   "duration": 217,
   "youtubeId": "xlmuZhFT6U4",
-  "lastFetched": "2025-11-09T17:44:47.303Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T18:09:01.133Z",
+  "releaseCount": 1,
+  "odesli": {
+    "amazonMusic": "B0FH7H6P2V",
+    "amazonStore": "B0FH7H6P2V",
+    "spotify": "4gVsKMMK0f8dweHL7Vm9HC",
+    "youtube": "xlmuZhFT6U4",
+    "youtubeMusic": "xlmuZhFT6U4"
+  }
 }

@@ -1,13 +1,13 @@
 {
   "mbid": "5a5f546b-c283-4160-afc1-040cd8c03a58",
-  "title": "Swiss Maid",
+  "title": "The Swiss Maid",
   "artist": "Del Shannon",
   "artistMbid": "2e885bfb-1f59-49cf-8d51-e743445e1b48",
   "releaseCount": 2,
   "tags": [],
   "duration": 121,
   "youtubeId": "nn27xBY8X68",
-  "lastFetched": "2025-11-09T23:49:02.578Z",
+  "lastFetched": "2025-11-16T18:14:46.406Z",
   "artistTags": [
     "country",
     "pop",
@@ -17,5 +17,12 @@
     "rock & roll",
     "rock and roll",
     "teen pop"
-  ]
+  ],
+  "odesli": {
+    "pandora": "TR:24434159",
+    "soundcloud": "1389281575",
+    "tidal": "72925534",
+    "youtube": "nn27xBY8X68",
+    "youtubeMusic": "nn27xBY8X68"
+  }
 }

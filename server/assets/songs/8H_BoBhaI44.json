@@ -4,9 +4,17 @@
   "artist": "Sven Wunder",
   "tags": [],
   "youtubeId": "8H_BoBhaI44",
-  "lastFetched": "2025-11-09T18:31:39.135Z",
+  "lastFetched": "2025-11-16T17:30:56.853Z",
   "releaseCount": 1,
   "artistTags": [
     "jazz"
-  ]
+  ],
+  "odesli": {
+    "amazonMusic": "B0F9B3R2WM",
+    "amazonStore": "B0F9B3R2WM",
+    "appleMusic": "1815607084",
+    "itunes": "1815607084",
+    "youtube": "8H_BoBhaI44",
+    "youtubeMusic": "8H_BoBhaI44"
+  }
 }

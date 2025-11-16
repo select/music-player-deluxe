@@ -1,12 +1,30 @@
 {
   "mbid": "01104965-02a6-4abe-a8a5-a785306024da",
-  "title": "A Thermogenic Interlude -",
+  "title": "A Thermogenic Interlude",
   "artist": "Salami Rose Joe Louis",
   "album": "Chapters of Zdenka",
   "tags": [],
   "duration": 98,
   "youtubeId": "RFHcs6Sc0Pk",
-  "lastFetched": "2025-11-09T23:49:59.224Z",
+  "lastFetched": "2025-11-16T18:15:15.387Z",
   "artistMbid": "768633eb-8810-4fbe-aabb-f891c07d29d3",
-  "artistTags": []
+  "artistTags": [],
+  "odesli": {
+    "amazonMusic": "B08P3WZV62",
+    "amazonStore": "B08P3WZV62",
+    "audiomack": "31966644",
+    "anghami": "93713833",
+    "boomplay": "49519574",
+    "deezer": "1141492002",
+    "appleMusic": "1540269741",
+    "itunes": "1540269741",
+    "napster": "tra.541938834",
+    "pandora": "TR:37908489",
+    "soundcloud": "928671541",
+    "spotify": "7EFKV7oKEezBrdefm87xj0",
+    "tidal": "162235321",
+    "yandex": "74569876",
+    "youtube": "RFHcs6Sc0Pk",
+    "youtubeMusic": "RFHcs6Sc0Pk"
+  }
 }

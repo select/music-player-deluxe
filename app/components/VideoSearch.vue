@@ -130,6 +130,29 @@
 				</div>
 			</div>
 
+			<!-- Platforms Filter -->
+			<div class="grid grid-cols-1 gap-4">
+				<div>
+					<label class="block text-sm font-medium mb-2">Music Platforms</label>
+					<div class="flex flex-wrap gap-2">
+						<AppBtn
+							v-for="platform in getAllPlatforms()"
+							:key="platform.id"
+							size="small"
+							:variant="
+								settings.selectedPlatforms?.includes(platform.id)
+									? 'primary'
+									: 'ghost'
+							"
+							@click="togglePlatform(platform.id)"
+						>
+							<div :class="platform.icon" class="text-sm mr-1" />
+							{{ platform.name }}
+						</AppBtn>
+					</div>
+				</div>
+			</div>
+
 			<!-- Sort Options and Settings Row -->
 			<div class="grid grid-cols-1 md:grid-cols-4 gap-4">
 				<div>
@@ -221,7 +244,8 @@ import type { Video, KeyboardShortcutScheme } from "../types";
 
 // Stores
 const { setCurrentPlaylistVideos } = usePlaylistStore();
-const { setKeyboardShortcutScheme } = useUserSettingsStore();
+const { setKeyboardShortcutScheme, setSelectedPlatforms } =
+	useUserSettingsStore();
 const { originalCurrentPlaylist } = storeToRefs(usePlaylistStore());
 const { settings, availableShortcutSchemes, viewMode } = storeToRefs(
 	useUserSettingsStore(),
@@ -498,6 +522,18 @@ const toggleDuration = (duration: string): void => {
 	}
 };
 
+// Toggle platform filter
+const togglePlatform = (platformId: string): void => {
+	const currentSelected = settings.value.selectedPlatforms || [];
+	const isSelected = currentSelected.includes(platformId);
+
+	if (isSelected) {
+		setSelectedPlatforms(currentSelected.filter((id) => id !== platformId));
+	} else {
+		setSelectedPlatforms([...currentSelected, platformId]);
+	}
+};
+
 const clearFilters = (): void => {
 	searchQuery.value = "";
 	selectedArtists.value = [];
@@ -513,13 +549,14 @@ const shuffleArray = <T,>(array: T[]): T[] => {
 	const shuffled = [...array];
 	for (let i = shuffled.length - 1; i > 0; i--) {
 		const j = Math.floor(Math.random() * (i + 1));
-		[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+		[shuffled[i], shuffled[j]] = [shuffled[j]!, shuffled[i]!];
 	}
 	return shuffled;
 };
 
 const shufflePlaylist = (): void => {
-	setCurrentPlaylistVideos(shuffleArray(filteredVideos.value));
+	const shuffled = shuffleArray(filteredVideos.value);
+	setCurrentPlaylistVideos(shuffled);
 };
 
 // Update the store whenever filtered results change

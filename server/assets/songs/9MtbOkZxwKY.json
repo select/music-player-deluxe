@@ -6,7 +6,22 @@
   "tags": [],
   "duration": 330,
   "youtubeId": "9MtbOkZxwKY",
-  "lastFetched": "2025-11-09T23:50:11.213Z",
+  "lastFetched": "2025-11-16T18:15:26.651Z",
   "artistMbid": "cbbb9b55-81f2-41c6-94d1-e3f53364278d",
-  "artistTags": []
+  "artistTags": [],
+  "odesli": {
+    "amazonMusic": "B0FFND9445",
+    "amazonStore": "B0FFND9445",
+    "audiomack": "70669060",
+    "deezer": "3432835361",
+    "appleMusic": "1823027760",
+    "itunes": "1823027760",
+    "pandora": "TR:164319922",
+    "soundcloud": "2122605546",
+    "spotify": "0LgbnmA2A9iFMj3YgZdDG8",
+    "tidal": "444485032",
+    "yandex": "140522701",
+    "youtube": "9MtbOkZxwKY",
+    "youtubeMusic": "9MtbOkZxwKY"
+  }
 }

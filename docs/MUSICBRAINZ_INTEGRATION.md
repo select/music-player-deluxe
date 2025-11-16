@@ -106,7 +106,7 @@ Gets previously matched and cached song metadata.
 ```typescript
 {
   success: boolean;
-  data: MusicBrainzSongData;
+  data: SongMetaData;
   cached: true;
 }
 ```

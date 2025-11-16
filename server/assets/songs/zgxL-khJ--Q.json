@@ -1,10 +1,18 @@
 {
   "mbid": "cff51445-e776-4abc-a474-1d1de4dceb5c",
-  "title": "Breezin’",
+  "title": "Breezin'",
   "artist": "George Benson",
   "tags": [],
   "duration": 336,
   "youtubeId": "zgxL-khJ--Q",
-  "lastFetched": "2025-11-09T17:20:25.796Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T17:41:05.224Z",
+  "releaseCount": 1,
+  "odesli": {
+    "boomplay": "4674179",
+    "spotify": "7iX9wyZkiKg8AyD7XUu3mK",
+    "tidal": "3029424",
+    "yandex": "26926",
+    "youtube": "zgxL-khJ--Q",
+    "youtubeMusic": "zgxL-khJ--Q"
+  }
 }
