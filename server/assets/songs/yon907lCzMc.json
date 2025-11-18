@@ -1,10 +1,23 @@
 {
   "mbid": "3a378f4d-9edf-4ebf-974f-089bcf69d95e",
-  "title": "Wasser im Fluss",
+  "title": "Wasser Im Fluss",
   "artist": "Thomas Fehlmann",
   "tags": [],
   "duration": 258,
   "youtubeId": "yon907lCzMc",
-  "lastFetched": "2025-11-09T16:05:00.298Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T20:55:03.376Z",
+  "releaseCount": 1,
+  "odesli": {
+    "anghami": "34600635",
+    "deezer": "79789796",
+    "appleMusic": "361264615",
+    "itunes": "361264615",
+    "pandora": "TR:1633959",
+    "soundcloud": "177883462",
+    "spotify": "2Ve7YukqKJXy3UHDeds7NO",
+    "tidal": "154741642",
+    "yandex": "137334764",
+    "youtube": "yon907lCzMc",
+    "youtubeMusic": "yon907lCzMc"
+  }
 }

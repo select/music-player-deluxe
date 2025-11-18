@@ -1,7 +1,7 @@
 {
   "mbid": "a435aa59-93ca-4e4d-9604-b4132f50d4b2",
   "title": "Spellbound",
-  "artist": "Siouxsie and the Banshees",
+  "artist": "Siouxsie And The Banshees",
   "album": "Spellbound",
   "tags": [
     "alternative rock",
@@ -14,5 +14,18 @@
   ],
   "duration": 198,
   "youtubeId": "TjvvK-Rj0WI",
-  "lastFetched": "2025-11-09T18:08:48.337Z"
+  "lastFetched": "2025-11-16T21:27:38.647Z",
+  "odesli": {
+    "amazonMusic": "B09JFD9JQ1",
+    "amazonStore": "B09JFD9JQ1",
+    "anghami": "1031752953",
+    "boomplay": "94708954",
+    "pandora": "TR:583423",
+    "soundcloud": "rvv3n666/siouxsie-and-the-banshees-spellbound",
+    "spotify": "5Ng6UbryNd3eds2zQk9MUf",
+    "tidal": "3971680",
+    "yandex": "19694",
+    "youtube": "TjvvK-Rj0WI",
+    "youtubeMusic": "TjvvK-Rj0WI"
+  }
 }

@@ -1,12 +1,30 @@
 {
   "mbid": "6ddcd32e-b209-450d-a6c7-2726cb3bb75a",
-  "title": "Summer in the City",
+  "title": "Summer In The City",
   "artist": "Quincy Jones",
   "tags": [
     "sampled by 3"
   ],
   "duration": 246,
   "youtubeId": "jpbK4tLQH_s",
-  "lastFetched": "2025-11-09T17:27:54.160Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T20:38:34.781Z",
+  "releaseCount": 1,
+  "odesli": {
+    "amazonMusic": "B001PQN0QE",
+    "amazonStore": "B001PQN0QE",
+    "audiomack": "61776607",
+    "anghami": "1123577599",
+    "boomplay": "3223482",
+    "deezer": "3051178",
+    "appleMusic": "1443997497",
+    "itunes": "1443997497",
+    "napster": "tra.593535797",
+    "pandora": "TR:13242460",
+    "soundcloud": "259103684",
+    "spotify": "39eFFeKv7QaTBIukk7TYVu",
+    "tidal": "2207743",
+    "yandex": "7768",
+    "youtube": "jpbK4tLQH_s",
+    "youtubeMusic": "jpbK4tLQH_s"
+  }
 }

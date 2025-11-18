@@ -1,6 +1,6 @@
 {
   "mbid": "71bdde6d-ef45-41fa-abbb-ea47e86d69a1",
-  "title": "Buchstabe",
+  "title": "Buchstabe 2025",
   "artist": "Knorkator",
   "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
   "releaseCount": 7,
@@ -14,5 +14,19 @@
   ],
   "duration": 250,
   "youtubeId": "WHOwEiiTuHQ",
-  "lastFetched": "2025-11-09T20:09:41.084Z"
+  "lastFetched": "2025-11-16T19:45:10.045Z",
+  "odesli": {
+    "amazonMusic": "B0FDBLC786",
+    "amazonStore": "B0FDBLC786",
+    "deezer": "3493251631",
+    "appleMusic": "1820952081",
+    "itunes": "1820952081",
+    "pandora": "TR:168587162",
+    "soundcloud": "256928409",
+    "spotify": "1vHsT54TzDWm4OFjsNxER2",
+    "tidal": "106186135",
+    "yandex": "141651551",
+    "youtube": "WHOwEiiTuHQ",
+    "youtubeMusic": "WHOwEiiTuHQ"
+  }
 }

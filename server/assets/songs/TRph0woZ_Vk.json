@@ -7,7 +7,7 @@
   "tags": [],
   "duration": 246,
   "youtubeId": "TRph0woZ_Vk",
-  "lastFetched": "2025-11-09T18:48:04.437Z",
+  "lastFetched": "2025-11-16T20:51:49.453Z",
   "artistTags": [
     "alternative",
     "alternative rock",
@@ -21,5 +21,15 @@
     "indie rock",
     "new rave",
     "rock"
-  ]
+  ],
+  "odesli": {
+    "amazonMusic": "B0FD3YV5MS",
+    "amazonStore": "B0FD3YV5MS",
+    "pandora": "TR:170962404",
+    "soundcloud": "2112820848",
+    "spotify": "6B9FH9oGQkjAlmaBkYfVr5",
+    "tidal": "441911174",
+    "youtube": "TRph0woZ_Vk",
+    "youtubeMusic": "TRph0woZ_Vk"
+  }
 }

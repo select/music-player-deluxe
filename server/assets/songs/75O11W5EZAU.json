@@ -5,7 +5,7 @@
   "tags": [],
   "duration": 330,
   "youtubeId": "75O11W5EZAU",
-  "lastFetched": "2025-11-09T18:31:50.792Z",
+  "lastFetched": "2025-11-16T20:33:38.687Z",
   "releaseCount": 1,
   "artistTags": [
     "acid breaks",
@@ -25,5 +25,22 @@
     "instrumental",
     "progressive techno",
     "techno"
-  ]
+  ],
+  "odesli": {
+    "amazonMusic": "B0D5NBVC15",
+    "amazonStore": "B0D5NBVC15",
+    "audiomack": "32418090",
+    "anghami": "1179663064",
+    "deezer": "29370381",
+    "appleMusic": "280649444",
+    "itunes": "280649444",
+    "napster": "tra.814093630",
+    "pandora": "TR:10518448",
+    "soundcloud": "1545431281",
+    "spotify": "7glKwbR1DyuIuE6XvZvJbQ",
+    "tidal": "16024089",
+    "yandex": "47117417",
+    "youtube": "75O11W5EZAU",
+    "youtubeMusic": "75O11W5EZAU"
+  }
 }

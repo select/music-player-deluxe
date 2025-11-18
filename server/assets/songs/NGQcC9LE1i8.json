@@ -5,7 +5,7 @@
   "tags": [],
   "duration": 358,
   "youtubeId": "NGQcC9LE1i8",
-  "lastFetched": "2025-11-09T18:31:47.002Z",
+  "lastFetched": "2025-11-16T20:32:47.473Z",
   "releaseCount": 1,
   "artistTags": [
     "alternative rock",
@@ -16,5 +16,23 @@
     "post-alternative",
     "scottish",
     "trip hop"
-  ]
+  ],
+  "odesli": {
+    "amazonMusic": "B0797ZW7MK",
+    "amazonStore": "B0797ZW7MK",
+    "audiomack": "36335945",
+    "anghami": "10673234",
+    "boomplay": "20350223",
+    "deezer": "453207782",
+    "appleMusic": "1339274052",
+    "itunes": "1339274052",
+    "napster": "tra.328633326",
+    "pandora": "TR:218240",
+    "soundcloud": "253470856",
+    "spotify": "6Gk3eg9M8MbQtJygdMUH8O",
+    "tidal": "83790465",
+    "yandex": "53509657",
+    "youtube": "NGQcC9LE1i8",
+    "youtubeMusic": "NGQcC9LE1i8"
+  }
 }

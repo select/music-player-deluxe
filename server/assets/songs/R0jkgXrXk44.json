@@ -1,17 +1,24 @@
 {
   "mbid": "3e08586f-6eda-4e07-ac21-cf47e3665764",
-  "title": "Кооператив \"Лебединое озеро\"",
+  "title": "Кооператив «Лебединое озеро»",
   "artist": "Noize MC",
   "artistMbid": "a0c5737e-da6d-468f-a78e-19146494f1db",
   "releaseCount": 2,
   "tags": [],
   "duration": 190,
   "youtubeId": "R0jkgXrXk44",
-  "lastFetched": "2025-11-09T23:35:31.086Z",
+  "lastFetched": "2025-11-16T19:46:22.882Z",
   "artistTags": [
     "alternative rock",
     "hip hop",
     "rap",
     "russian"
-  ]
+  ],
+  "odesli": {
+    "soundcloud": "1432049713",
+    "tidal": "423790900",
+    "yandex": "137292089",
+    "youtube": "R0jkgXrXk44",
+    "youtubeMusic": "R0jkgXrXk44"
+  }
 }

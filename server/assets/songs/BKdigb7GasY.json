@@ -1,10 +1,24 @@
 {
   "mbid": "31670d7c-8cd8-4d82-b314-8d185e7760e2",
-  "title": "viscus (feat. FKA twigs)",
+  "title": "viscus",
   "artist": "Oklou",
   "tags": [],
   "duration": 221,
   "youtubeId": "BKdigb7GasY",
-  "lastFetched": "2025-11-09T16:00:03.359Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T19:43:16.000Z",
+  "releaseCount": 1,
+  "odesli": {
+    "amazonMusic": "B0FP5GH4QF",
+    "amazonStore": "B0FP5GH4QF",
+    "audiomack": "73869566",
+    "deezer": "3531782921",
+    "appleMusic": "1835796041",
+    "itunes": "1835796041",
+    "pandora": "TR:170877398",
+    "soundcloud": "2185834923",
+    "spotify": "3KjVtWWVEP1gmxosGb9u20",
+    "tidal": "457112710",
+    "youtube": "BKdigb7GasY",
+    "youtubeMusic": "BKdigb7GasY"
+  }
 }

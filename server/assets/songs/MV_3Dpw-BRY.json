@@ -5,7 +5,7 @@
   "tags": [],
   "duration": 256,
   "youtubeId": "MV_3Dpw-BRY",
-  "lastFetched": "2025-11-09T18:34:50.000Z",
+  "lastFetched": "2025-11-16T20:45:09.042Z",
   "releaseCount": 1,
   "artistMbid": "eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa",
   "artistTags": [
@@ -16,5 +16,20 @@
     "synth-pop",
     "synthpop",
     "synthwave"
-  ]
+  ],
+  "odesli": {
+    "amazonMusic": "B07F3LNRDM",
+    "amazonStore": "B07F3LNRDM",
+    "audius": "bjzqKQ",
+    "anghami": "2223551",
+    "boomplay": "2395695",
+    "deezer": "2992806421",
+    "appleMusic": "1743291178",
+    "itunes": "1743291178",
+    "soundcloud": "5829554",
+    "spotify": "2KejCKgm7l3uefW9cFt8cH",
+    "yandex": "9442712",
+    "youtube": "MV_3Dpw-BRY",
+    "youtubeMusic": "MV_3Dpw-BRY"
+  }
 }

@@ -6,9 +6,21 @@
   "tags": [],
   "duration": 161,
   "youtubeId": "L1ukLL192vg",
-  "lastFetched": "2025-11-09T19:03:41.790Z",
+  "lastFetched": "2025-11-16T19:47:46.276Z",
   "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
   "artistTags": [
     "german"
-  ]
+  ],
+  "odesli": {
+    "amazonMusic": "B0F21VZXFH",
+    "amazonStore": "B0F21VZXFH",
+    "appleMusic": "1804317678",
+    "itunes": "1804317678",
+    "pandora": "TR:168587159",
+    "spotify": "37rgsdu6ziW1dBZlBsKMkl",
+    "tidal": "428033389",
+    "yandex": "138045371",
+    "youtube": "L1ukLL192vg",
+    "youtubeMusic": "L1ukLL192vg"
+  }
 }

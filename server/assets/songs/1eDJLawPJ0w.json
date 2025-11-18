@@ -1,12 +1,21 @@
 {
   "mbid": "f169de77-65bb-46b8-909c-b32ebfc0e456",
-  "title": "AHA",
-  "artist": "Die P",
+  "title": "Aha",
+  "artist": "Die P & Grödash",
   "artistMbid": "168a6fb1-285e-40a0-b084-36a3bf893a71",
   "releaseCount": 1,
   "tags": [],
   "duration": 209,
   "youtubeId": "1eDJLawPJ0w",
-  "lastFetched": "2025-11-09T18:48:07.798Z",
-  "artistTags": []
+  "lastFetched": "2025-11-16T20:51:23.631Z",
+  "artistTags": [],
+  "odesli": {
+    "amazonMusic": "B0F79CJV6K",
+    "amazonStore": "B0F79CJV6K",
+    "appleMusic": "1811970138",
+    "itunes": "1811970138",
+    "tidal": "433447707",
+    "youtube": "1eDJLawPJ0w",
+    "youtubeMusic": "1eDJLawPJ0w"
+  }
 }

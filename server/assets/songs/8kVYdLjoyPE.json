@@ -1,17 +1,32 @@
 {
   "mbid": "8d55a9ad-026c-44d3-9376-ebfd24e17bdd",
   "title": "War Pigs",
-  "artist": "uKanDanZ",
+  "artist": "Ukandanz",
   "artistMbid": "97eaa6ea-de07-474f-b395-a4bb108e25b8",
   "releaseCount": 1,
   "tags": [],
   "duration": 429,
   "youtubeId": "8kVYdLjoyPE",
-  "lastFetched": "2025-11-09T23:41:51.747Z",
+  "lastFetched": "2025-11-16T21:28:41.262Z",
   "artistTags": [
     "ethio-jazz",
     "jazz fusion",
     "jazz rock",
     "math rock"
-  ]
+  ],
+  "odesli": {
+    "amazonMusic": "B0F1H7QX73",
+    "amazonStore": "B0F1H7QX73",
+    "anghami": "1203461805",
+    "deezer": "3273990751",
+    "appleMusic": "1801714760",
+    "itunes": "1801714760",
+    "pandora": "TR:159556973",
+    "soundcloud": "ukandanz/war-pigs",
+    "spotify": "0gWl7YQIOpujszxvl7pGZ6",
+    "tidal": "424187391",
+    "yandex": "137277182",
+    "youtube": "8kVYdLjoyPE",
+    "youtubeMusic": "8kVYdLjoyPE"
+  }
 }

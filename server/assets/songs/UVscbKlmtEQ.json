@@ -1,10 +1,22 @@
 {
   "mbid": "40d603c2-b57e-451f-9d6c-0a36d8f122dd",
-  "title": "Didi",
+  "title": "Didi (Hola Didi)",
   "artist": "Fernando Gelbard",
   "tags": [],
   "duration": 512,
   "youtubeId": "UVscbKlmtEQ",
-  "lastFetched": "2025-11-09T16:00:51.137Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T21:34:23.383Z",
+  "releaseCount": 1,
+  "odesli": {
+    "amazonMusic": "B004808KTQ",
+    "amazonStore": "B004808KTQ",
+    "appleMusic": "399288086",
+    "itunes": "399288086",
+    "soundcloud": "fernandogelbard/didi",
+    "spotify": "4yseWLHlvubXx7407FVBRG",
+    "tidal": "20079636",
+    "yandex": "35159635",
+    "youtube": "UVscbKlmtEQ",
+    "youtubeMusic": "UVscbKlmtEQ"
+  }
 }

@@ -5,7 +5,7 @@
   "tags": [],
   "duration": 219,
   "youtubeId": "BGpzGu9Yp6Y",
-  "lastFetched": "2025-11-09T18:34:35.103Z",
+  "lastFetched": "2025-11-16T20:44:00.046Z",
   "releaseCount": 1,
   "artistMbid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b",
   "artistTags": [
@@ -23,5 +23,23 @@
     "tech house",
     "techno",
     "trap"
-  ]
+  ],
+  "odesli": {
+    "amazonMusic": "B0092W4L0C",
+    "amazonStore": "B0092W4L0C",
+    "audiomack": "8735075",
+    "audius": "MWmdX",
+    "anghami": "665802",
+    "boomplay": "3909462",
+    "deezer": "25746431",
+    "appleMusic": "555199299",
+    "itunes": "555199299",
+    "pandora": "TR:2060851",
+    "soundcloud": "45710769",
+    "spotify": "0mlf3yOGzVnIVxjybDQL3h",
+    "tidal": "19257731",
+    "yandex": "4109326",
+    "youtube": "BGpzGu9Yp6Y",
+    "youtubeMusic": "BGpzGu9Yp6Y"
+  }
 }

@@ -1,10 +1,28 @@
 {
   "mbid": "e9ecbb49-2ca7-46af-832a-f9cb36209bba",
-  "title": "Tebi majko misli lete",
+  "title": "Tebi Majko Misli Lete",
   "artist": "Branko Mataja",
   "tags": [],
   "duration": 160,
   "youtubeId": "YXda45LBLyM",
-  "lastFetched": "2025-11-09T17:50:17.260Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T20:55:52.941Z",
+  "releaseCount": 1,
+  "odesli": {
+    "amazonMusic": "B09N9WKRZV",
+    "amazonStore": "B09N9WKRZV",
+    "audiomack": "32703314",
+    "anghami": "1204346227",
+    "boomplay": "124341187",
+    "deezer": "1583180122",
+    "appleMusic": "1599380474",
+    "itunes": "1599380474",
+    "napster": "tra.631704439",
+    "pandora": "TR:72815303",
+    "soundcloud": "1174202908",
+    "spotify": "7f7ZsbjMuGSRfRz5TXRQBZ",
+    "tidal": "237440278",
+    "yandex": "96865104",
+    "youtube": "YXda45LBLyM",
+    "youtubeMusic": "YXda45LBLyM"
+  }
 }

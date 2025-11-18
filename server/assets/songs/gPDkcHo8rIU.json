@@ -1,6 +1,6 @@
 {
   "mbid": "0adbd7ba-150e-4d57-8128-bd0a3075ffac",
-  "title": "And That’s Saying a Lot",
+  "title": "And That's Saying a Lot",
   "artist": "Christine Perfect",
   "artistMbid": "21551f7d-93f2-4cb7-ba71-7f260058e923",
   "releaseCount": 12,
@@ -15,5 +15,20 @@
   ],
   "duration": 181,
   "youtubeId": "gPDkcHo8rIU",
-  "lastFetched": "2025-11-09T20:11:33.008Z"
+  "lastFetched": "2025-11-16T19:15:06.774Z",
+  "odesli": {
+    "amazonMusic": "B086XKWJRK",
+    "amazonStore": "B086XKWJRK",
+    "audiomack": "29221775",
+    "boomplay": "11532121",
+    "deezer": "926372232",
+    "appleMusic": "1507230562",
+    "itunes": "1507230562",
+    "napster": "tra.57838284",
+    "soundcloud": "254060579",
+    "spotify": "6TrgkS1CCRs0RKJ3UGG5LZ",
+    "yandex": "718211",
+    "youtube": "gPDkcHo8rIU",
+    "youtubeMusic": "gPDkcHo8rIU"
+  }
 }

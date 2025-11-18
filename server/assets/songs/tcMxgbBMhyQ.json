@@ -5,10 +5,24 @@
   "tags": [],
   "duration": 281,
   "youtubeId": "tcMxgbBMhyQ",
-  "lastFetched": "2025-11-09T18:34:44.775Z",
+  "lastFetched": "2025-11-16T20:44:29.445Z",
   "releaseCount": 1,
   "artistMbid": "51b553fa-1604-4110-ba48-f54e38f50678",
   "artistTags": [
     "jazz"
-  ]
+  ],
+  "odesli": {
+    "amazonMusic": "B0FD3QNMNR",
+    "amazonStore": "B0FD3QNMNR",
+    "deezer": "3412862691",
+    "appleMusic": "1820968635",
+    "itunes": "1820968635",
+    "pandora": "TR:165107174",
+    "soundcloud": "2177469897",
+    "spotify": "77785Ry16NdVMAcCa6uIo5",
+    "tidal": "442480056",
+    "yandex": "140162593",
+    "youtube": "tcMxgbBMhyQ",
+    "youtubeMusic": "tcMxgbBMhyQ"
+  }
 }

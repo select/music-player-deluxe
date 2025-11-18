@@ -5,8 +5,16 @@
   "tags": [],
   "duration": 200,
   "youtubeId": "giGF6n72kQo",
-  "lastFetched": "2025-11-09T18:45:09.444Z",
+  "lastFetched": "2025-11-16T20:49:21.994Z",
   "releaseCount": 1,
   "artistMbid": "ffe53025-23f7-4c80-ac9d-442a3275d4a6",
-  "artistTags": []
+  "artistTags": [],
+  "odesli": {
+    "amazonMusic": "B07BZM8MB8",
+    "amazonStore": "B07BZM8MB8",
+    "spotify": "2nwCo4UJQusf5BIKzhzouP",
+    "tidal": "87007978",
+    "youtube": "giGF6n72kQo",
+    "youtubeMusic": "giGF6n72kQo"
+  }
 }

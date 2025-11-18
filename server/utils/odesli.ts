@@ -246,7 +246,29 @@ export function extractPlatformIds(
 	return Object.entries(odesliData.linksByPlatform)
 		.filter(([_, data]) => data.entityUniqueId)
 		.map(([platform, data]) => {
-			const id = data.entityUniqueId.split("::")[1];
+			let id = data.entityUniqueId.split("::")[1];
+
+			// Special handling for SoundCloud - extract path from URL instead of generic ID
+			if (
+				platform === "soundcloud" &&
+				odesliData.linksByPlatform[platform]?.url
+			) {
+				try {
+					const url = new URL(odesliData.linksByPlatform[platform].url);
+					// Extract path and remove leading slash and query parameters
+					const pathMatch = url.pathname.match(/^\/([^?]+)/);
+					if (pathMatch) {
+						id = pathMatch[1];
+					}
+				} catch (error) {
+					// If URL parsing fails, fall back to the original ID
+					console.warn(
+						`Failed to parse SoundCloud URL: ${odesliData.linksByPlatform[platform].url}`,
+						error,
+					);
+				}
+			}
+
 			return { platform, id };
 		})
 		.filter((item): item is { platform: string; id: string } =>

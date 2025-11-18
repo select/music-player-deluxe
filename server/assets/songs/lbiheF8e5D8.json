@@ -1,10 +1,24 @@
 {
   "mbid": "7b1b367b-99b5-48bc-b9ef-312768d2427a",
-  "title": "Figure in Blue, Memories of Duke",
+  "title": "Figure In Blue, memories of Duke",
   "artist": "Charles Lloyd",
   "tags": [],
   "duration": 566,
   "youtubeId": "lbiheF8e5D8",
-  "lastFetched": "2025-11-09T16:01:06.627Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T19:42:49.785Z",
+  "releaseCount": 1,
+  "odesli": {
+    "amazonMusic": "B0FL69GQ1V",
+    "amazonStore": "B0FL69GQ1V",
+    "audiomack": "72963707",
+    "deezer": "3584613721",
+    "appleMusic": "1831143516",
+    "itunes": "1831143516",
+    "pandora": "TR:175104074",
+    "soundcloud": "2148758154",
+    "spotify": "3ivpMHUv87YqLNcbqzIJda",
+    "tidal": "452477940",
+    "youtube": "lbiheF8e5D8",
+    "youtubeMusic": "lbiheF8e5D8"
+  }
 }

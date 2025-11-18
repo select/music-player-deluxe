@@ -1,13 +1,13 @@
 {
   "mbid": "0ed351f9-5f9a-4b81-a4c3-a68c8425511f",
-  "title": "GANGSTA",
-  "artist": "Major Lazer",
+  "title": "Major Lazer",
+  "artist": "TeRex Productions",
   "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
   "releaseCount": 2,
   "tags": [],
   "duration": 132,
   "youtubeId": "wJ-ybTlbU5E",
-  "lastFetched": "2025-11-09T20:05:28.157Z",
+  "lastFetched": "2025-11-16T21:25:59.726Z",
   "artistTags": [
     "art pop",
     "dance-pop",
@@ -18,5 +18,13 @@
     "jungle terror",
     "moombahton",
     "pop reggae"
-  ]
+  ],
+  "odesli": {
+    "boomplay": "19617868",
+    "pandora": "TR:1840695",
+    "soundcloud": "replikantbass/major-lazer-ft-busy-signal-1",
+    "yandex": "80983442",
+    "youtube": "wJ-ybTlbU5E",
+    "youtubeMusic": "wJ-ybTlbU5E"
+  }
 }

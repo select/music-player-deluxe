@@ -5,7 +5,7 @@
   "tags": [],
   "duration": 364,
   "youtubeId": "ZgzxQzWi4yg",
-  "lastFetched": "2025-11-09T18:47:59.394Z",
+  "lastFetched": "2025-11-16T20:52:03.345Z",
   "releaseCount": 1,
   "artistMbid": "f07b5d3a-b385-4244-ad6e-ea6b5ccbe1ae",
   "artistTags": [
@@ -14,5 +14,22 @@
     "heute hier morgen dort",
     "liedermacher",
     "singer-songwriter"
-  ]
+  ],
+  "odesli": {
+    "amazonMusic": "B073Q34PPD",
+    "amazonStore": "B073Q34PPD",
+    "anghami": "1033944871",
+    "boomplay": "53644773",
+    "deezer": "74473111",
+    "appleMusic": "1442217485",
+    "itunes": "1442217485",
+    "napster": "tra.629465688",
+    "pandora": "TR:51171688",
+    "soundcloud": "253624400",
+    "spotify": "6ia6QZXEq1TiPhhR8MAiGm",
+    "tidal": "25689840",
+    "yandex": "77540745",
+    "youtube": "ZgzxQzWi4yg",
+    "youtubeMusic": "ZgzxQzWi4yg"
+  }
 }

@@ -1,10 +1,27 @@
 {
   "mbid": "3639f0e5-ed70-46af-ac4c-79c3cb2d3c28",
-  "title": "Deep on This",
+  "title": "Deep On This",
   "artist": "Mandidextrous",
   "tags": [],
   "duration": 223,
   "youtubeId": "84NDOid_-Cc",
-  "lastFetched": "2025-11-09T15:57:50.088Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T19:44:09.545Z",
+  "releaseCount": 1,
+  "odesli": {
+    "amazonMusic": "B0CPQ6T9XR",
+    "amazonStore": "B0CPQ6T9XR",
+    "audiomack": "42501408",
+    "anghami": "1138082469",
+    "deezer": "2576130282",
+    "appleMusic": "1720198206",
+    "itunes": "1720198206",
+    "napster": "tra.795559951",
+    "pandora": "TR:111429464",
+    "soundcloud": "1694318736",
+    "spotify": "3rzzs1MXewW88kRQbacPoi",
+    "tidal": "333916045",
+    "yandex": "119958934",
+    "youtube": "84NDOid_-Cc",
+    "youtubeMusic": "84NDOid_-Cc"
+  }
 }

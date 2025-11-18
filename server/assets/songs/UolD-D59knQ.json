@@ -1,11 +1,22 @@
 {
   "mbid": "eef55a3d-c506-4493-aa30-51e381d2cc0b",
   "title": "Melted Moon",
-  "artist": "Julianna Barwick",
+  "artist": "Julianna Barwick & Mary Lattimore",
   "artistMbid": "ba49bbe3-188b-44d7-95f3-92ff9939af28",
   "releaseCount": 1,
   "tags": [],
   "duration": 518,
   "youtubeId": "UolD-D59knQ",
-  "lastFetched": "2025-11-09T23:39:32.491Z"
+  "lastFetched": "2025-11-16T21:34:47.944Z",
+  "odesli": {
+    "amazonMusic": "B0FTSYKRBN",
+    "amazonStore": "B0FTSYKRBN",
+    "appleMusic": "1843854508",
+    "itunes": "1843854508",
+    "pandora": "TR:175159082",
+    "spotify": "7kQc0Wpteo4E4CumcprM7r",
+    "tidal": "464654656",
+    "youtube": "UolD-D59knQ",
+    "youtubeMusic": "UolD-D59knQ"
+  }
 }

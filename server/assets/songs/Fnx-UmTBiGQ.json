@@ -5,8 +5,22 @@
   "tags": [],
   "duration": 232,
   "youtubeId": "Fnx-UmTBiGQ",
-  "lastFetched": "2025-11-09T18:34:41.655Z",
+  "lastFetched": "2025-11-16T20:44:15.087Z",
   "releaseCount": 1,
   "artistMbid": "3623d9ea-6174-437c-ba72-23a295141b24",
-  "artistTags": []
+  "artistTags": [],
+  "odesli": {
+    "amazonMusic": "B0030GIN28",
+    "amazonStore": "B0030GIN28",
+    "deezer": "5460784",
+    "appleMusic": "345276183",
+    "itunes": "345276183",
+    "napster": "tra.31404679",
+    "pandora": "TR:31144972",
+    "spotify": "69y4DFHxOcFRB9omranRfW",
+    "tidal": "4610556",
+    "yandex": "21555432",
+    "youtube": "Fnx-UmTBiGQ",
+    "youtubeMusic": "Fnx-UmTBiGQ"
+  }
 }

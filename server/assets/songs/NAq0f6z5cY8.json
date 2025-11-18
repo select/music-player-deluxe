@@ -1,6 +1,6 @@
 {
   "mbid": "2edc667d-957c-46d5-a206-b6f50494f857",
-  "title": "Purple Rose Minuet",
+  "title": "purple rose minuet",
   "artist": "Susumu Yokota",
   "tags": [
     "abstract electronic",
@@ -14,6 +14,16 @@
   ],
   "duration": 215,
   "youtubeId": "NAq0f6z5cY8",
-  "lastFetched": "2025-11-09T15:46:05.653Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T20:35:44.012Z",
+  "releaseCount": 1,
+  "odesli": {
+    "amazonMusic": "B000X1S9ZE",
+    "amazonStore": "B000X1S9ZE",
+    "pandora": "TR:48136963",
+    "soundcloud": "326202600",
+    "spotify": "0CzQ6vDYB7NOY5Efu9JIRf",
+    "tidal": "193975497",
+    "youtube": "NAq0f6z5cY8",
+    "youtubeMusic": "NAq0f6z5cY8"
+  }
 }

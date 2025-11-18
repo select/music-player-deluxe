@@ -1,6 +1,6 @@
 {
   "mbid": "2d715794-36f9-42d7-9c14-94adc82c5e4c",
-  "title": "The Continuing Story of Bungalow Bill",
+  "title": "The Continuing Story Of Bungalow Bill",
   "artist": "The Beatles",
   "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
   "releaseCount": 3,
@@ -11,5 +11,22 @@
   ],
   "duration": 169,
   "youtubeId": "J39DC9t0I5o",
-  "lastFetched": "2025-11-09T20:10:15.691Z"
+  "lastFetched": "2025-11-16T19:45:28.711Z",
+  "odesli": {
+    "amazonMusic": "B07FSZZXZQ",
+    "amazonStore": "B07FSZZXZQ",
+    "audius": "dp4xM7P",
+    "anghami": "12910739",
+    "deezer": "116348202",
+    "appleMusic": "1441133634",
+    "itunes": "1441133634",
+    "napster": "tra.209392378",
+    "pandora": "TR:18602883",
+    "soundcloud": "1162212583",
+    "spotify": "7KXaC0HCD4VoIZOzWfdirZ",
+    "tidal": "55163308",
+    "yandex": "27373817",
+    "youtube": "J39DC9t0I5o",
+    "youtubeMusic": "J39DC9t0I5o"
+  }
 }

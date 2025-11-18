@@ -1,9 +1,24 @@
 {
   "mbid": "dc7f102e-eed8-42e1-a349-39f6770b7716",
-  "title": "Take a Seat",
+  "title": "Take A Seat",
   "artist": "Sven Wunder",
   "tags": [],
   "youtubeId": "0qHotJmYG0Y",
-  "lastFetched": "2025-11-09T16:03:11.737Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T19:14:30.100Z",
+  "releaseCount": 1,
+  "odesli": {
+    "amazonMusic": "B0F9B3LKWS",
+    "amazonStore": "B0F9B3LKWS",
+    "audiomack": "70273573",
+    "boomplay": "405418",
+    "deezer": "3376089831",
+    "appleMusic": "1815607072",
+    "itunes": "1815607072",
+    "pandora": "TR:160902252",
+    "spotify": "0ytt98JeH68U3Oe7hmsC7Q",
+    "tidal": "437826320",
+    "yandex": "139463588",
+    "youtube": "0qHotJmYG0Y",
+    "youtubeMusic": "0qHotJmYG0Y"
+  }
 }

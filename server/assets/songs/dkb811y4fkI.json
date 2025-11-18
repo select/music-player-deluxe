@@ -1,10 +1,25 @@
 {
   "mbid": "7a599f6d-d53c-42ec-ad22-d8b35e786d4a",
-  "title": "One of These Nights",
+  "title": "One Of These Nights",
   "artist": "Eagles",
   "tags": [],
   "duration": 296,
   "youtubeId": "dkb811y4fkI",
-  "lastFetched": "2025-11-09T17:34:57.073Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T20:53:34.107Z",
+  "releaseCount": 1,
+  "odesli": {
+    "amazonMusic": "B00DANSQVO",
+    "amazonStore": "B00DANSQVO",
+    "audiomack": "71758325",
+    "audius": "KV2ly",
+    "deezer": "570036212",
+    "appleMusic": "635830022",
+    "itunes": "635830022",
+    "pandora": "TR:15063156",
+    "soundcloud": "231849489",
+    "spotify": "608xszaAxVh4m7NcKJiAbF",
+    "yandex": "10776514",
+    "youtube": "dkb811y4fkI",
+    "youtubeMusic": "dkb811y4fkI"
+  }
 }

@@ -5,12 +5,29 @@
   "tags": [],
   "duration": 241,
   "youtubeId": "ZId0TanZHzQ",
-  "lastFetched": "2025-11-09T23:42:33.751Z",
+  "lastFetched": "2025-11-16T19:51:19.685Z",
   "releaseCount": 1,
   "artistMbid": "d634f58c-aa2c-4430-9c85-b8e0d1c66878",
   "artistTags": [
     "fusion",
     "jazz fusion",
     "krautrock"
-  ]
+  ],
+  "odesli": {
+    "amazonMusic": "B08CVFR69N",
+    "amazonStore": "B08CVFR69N",
+    "anghami": "82919159",
+    "boomplay": "99626483",
+    "deezer": "1020005232",
+    "appleMusic": "1523289458",
+    "itunes": "1523289458",
+    "napster": "tra.499916068",
+    "pandora": "TR:33967917",
+    "soundcloud": "914002477",
+    "spotify": "1hwbEU5q3JemJWM4ayY9Ec",
+    "tidal": "148467929",
+    "yandex": "68680184",
+    "youtube": "ZId0TanZHzQ",
+    "youtubeMusic": "ZId0TanZHzQ"
+  }
 }

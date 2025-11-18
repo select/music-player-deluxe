@@ -5,8 +5,22 @@
   "tags": [],
   "duration": 249,
   "youtubeId": "kVanxNR5bv8",
-  "lastFetched": "2025-11-09T18:34:31.407Z",
+  "lastFetched": "2025-11-16T20:42:48.477Z",
   "releaseCount": 1,
   "artistMbid": "a2da4953-03fd-4c3a-9ed1-f09c0bbb5609",
-  "artistTags": []
+  "artistTags": [],
+  "odesli": {
+    "amazonMusic": "B0CKWV9DLG",
+    "amazonStore": "B0CKWV9DLG",
+    "anghami": "1131366217",
+    "boomplay": "144808112",
+    "deezer": "2494185081",
+    "appleMusic": "1711469098",
+    "itunes": "1711469098",
+    "pandora": "TR:107692909",
+    "spotify": "0XMWc0qrKeJnRzzyMj9Q7D",
+    "tidal": "323311379",
+    "youtube": "kVanxNR5bv8",
+    "youtubeMusic": "kVanxNR5bv8"
+  }
 }

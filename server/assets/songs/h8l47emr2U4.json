@@ -1,6 +1,6 @@
 {
   "mbid": "59e61413-8889-4375-9e2d-edef3d056598",
-  "title": "Diamond Head",
+  "title": "Diamond Head - Remastered 2001",
   "artist": "The Beach Boys",
   "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
   "releaseCount": 8,
@@ -20,5 +20,12 @@
   ],
   "duration": 220,
   "youtubeId": "h8l47emr2U4",
-  "lastFetched": "2025-11-09T18:43:30.975Z"
+  "lastFetched": "2025-11-16T20:48:06.114Z",
+  "odesli": {
+    "soundcloud": "251819972",
+    "spotify": "3WXnctgyr4doLQDEpg3XPK",
+    "tidal": "77628858",
+    "youtube": "h8l47emr2U4",
+    "youtubeMusic": "h8l47emr2U4"
+  }
 }

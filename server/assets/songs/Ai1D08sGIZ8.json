@@ -1,10 +1,20 @@
 {
   "mbid": "9a500087-73eb-4604-8b07-3ddf6de73afa",
-  "title": "Jet in Jungle",
+  "title": "Jet In Jungle",
   "artist": "Damaged Bug",
   "tags": [],
   "duration": 195,
   "youtubeId": "Ai1D08sGIZ8",
-  "lastFetched": "2025-11-09T16:13:55.240Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T21:27:51.137Z",
+  "releaseCount": 1,
+  "odesli": {
+    "amazonMusic": "B00YGJCG9Y",
+    "amazonStore": "B00YGJCG9Y",
+    "pandora": "TR:4813885",
+    "soundcloud": "damagedbug/jet-in-jungle",
+    "spotify": "2WRLuMiWNnoTP2LBLskk1f",
+    "tidal": "76433362",
+    "youtube": "Ai1D08sGIZ8",
+    "youtubeMusic": "Ai1D08sGIZ8"
+  }
 }

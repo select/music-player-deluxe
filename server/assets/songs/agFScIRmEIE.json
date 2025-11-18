@@ -1,10 +1,25 @@
 {
   "mbid": "6038bbca-b386-41b1-9ef1-f857cc297945",
-  "title": "People of Yoruba",
-  "artist": "Jah Shaka",
+  "title": "People Of Yoruba",
+  "artist": "Jah Shaka & Mad Professor",
   "tags": [],
   "duration": 171,
   "youtubeId": "agFScIRmEIE",
-  "lastFetched": "2025-11-09T15:43:37.560Z",
-  "releaseCount": 1
+  "lastFetched": "2025-11-16T20:34:05.502Z",
+  "releaseCount": 1,
+  "odesli": {
+    "amazonMusic": "B000QYYBRS",
+    "amazonStore": "B000QYYBRS",
+    "deezer": "2059288",
+    "appleMusic": "44129545",
+    "itunes": "44129545",
+    "napster": "tra.7163035",
+    "pandora": "TR:1850670",
+    "soundcloud": "1007974447",
+    "spotify": "2ayrmxYis8qvHzN82ZTNnI",
+    "tidal": "12991420",
+    "yandex": "3415491",
+    "youtube": "agFScIRmEIE",
+    "youtubeMusic": "agFScIRmEIE"
+  }
 }
