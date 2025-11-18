@@ -57,13 +57,12 @@ export const usePlayerStore = defineStore("Player", () => {
 	};
 
 	const togglePlayPause = (): void => {
-		const player = youtubePlayerInstance.value;
-		if (!player || !isPlayerReady.value) return;
+		if (!youtubePlayerInstance.value || !isPlayerReady.value) return;
 
 		if (isPlaying.value) {
-			player.pauseVideo();
+			youtubePlayerInstance.value.pauseVideo();
 		} else {
-			player.playVideo();
+			youtubePlayerInstance.value.playVideo();
 		}
 	};
 

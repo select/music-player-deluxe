@@ -18,9 +18,10 @@
 		"deps:dedupe": "pnpm dedupe",
 		"stats": "node scripts/repo-stats.mjs",
 		"extract-metadata": "tsx scripts/extract-missing-metadata.ts",
-		"augment-json": "tsx scripts/augment-json-with-ollama.ts",
 		"test-augment": "tsx scripts/test-ollama-augmentation.ts",
-		"test-odesli": "tsx scripts/test-odesli.ts"
+		"test-odesli": "tsx scripts/test-odesli.ts",
+		"augment:ollama": "tsx scripts/ollama-augment.ts",
+		"augment:odesli": "tsx scripts/odesli-augment.ts"
 	},
 	"dependencies": {
 		"@nuxt/eslint": "1.10.0",

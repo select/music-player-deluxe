@@ -24,11 +24,11 @@
 				/>
 
 				<AppBtn
-					:icon="viewMode === 'grid' ? 'i-mdi-view-list' : 'i-mdi-view-grid'"
+					:icon="getViewModeIcon()"
 					variant="ghost"
 					size="large"
 					class="rounded-full text-2xl"
-					@click="viewMode = viewMode === 'grid' ? 'list' : 'grid'"
+					@click="cycleViewMode"
 				/>
 
 				<AppBtn
@@ -250,6 +250,9 @@ const { originalCurrentPlaylist } = storeToRefs(usePlaylistStore());
 const { settings, availableShortcutSchemes, viewMode } = storeToRefs(
 	useUserSettingsStore(),
 );
+
+// Timeline scale state
+const timelineScale = ref<"hour" | "day" | "week" | "month" | "year">("day");
 
 // Check if running on localhost
 const isLocalhost = ref<boolean>(false);
@@ -557,6 +560,48 @@ const shuffleArray = <T,>(array: T[]): T[] => {
 const shufflePlaylist = (): void => {
 	const shuffled = shuffleArray(filteredVideos.value);
 	setCurrentPlaylistVideos(shuffled);
+};
+
+// View mode cycling
+const cycleViewMode = (): void => {
+	if (viewMode.value === "grid") {
+		viewMode.value = "list";
+	} else if (viewMode.value === "list") {
+		viewMode.value = "timeline";
+	} else {
+		viewMode.value = "grid";
+	}
+};
+
+// Get view mode icon
+const getViewModeIcon = (): string => {
+	switch (viewMode.value) {
+		case "grid":
+			return "i-mdi-view-grid";
+		case "list":
+			return "i-mdi-view-list";
+		case "timeline":
+			return "i-mdi-timeline";
+		default:
+			return "i-mdi-view-grid";
+	}
+};
+
+// Timeline event handlers
+const handleVideoSelect = (video: Video): void => {
+	// You can emit an event or handle video selection here
+	console.log("Video selected:", video);
+};
+
+const handleBinExpand = (bin: any): void => {
+	// Handle expanding a bin to show all videos
+	console.log("Bin expand:", bin);
+};
+
+const handleScaleChange = (
+	scale: "hour" | "day" | "week" | "month" | "year",
+): void => {
+	timelineScale.value = scale;
 };
 
 // Update the store whenever filtered results change

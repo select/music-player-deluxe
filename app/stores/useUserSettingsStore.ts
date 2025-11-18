@@ -2,7 +2,7 @@ import { useStorage } from "@vueuse/core";
 import type { KeyboardShortcutScheme } from "~/types";
 import { DEFAULT_SELECTED_PLATFORMS } from "~/utils/platforms";
 
-export type ViewMode = "grid" | "list";
+export type ViewMode = "grid" | "list" | "timeline";
 
 export interface VideoPlayerPosition {
 	x: number;
@@ -46,7 +46,7 @@ export const KEYBOARD_SHORTCUTS: Record<
 		focusSearch: "ctrl+k",
 	},
 	winamp: {
-		playPause: "x",
+		playPause: "c",
 		nextTrack: "b",
 		previousTrack: "z",
 		volumeUp: "ArrowUp",
@@ -80,7 +80,7 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 	const shortcutsEnabled = ref<boolean>(true);
 
 	// View mode with persistent storage
-	const viewMode = useStorage<ViewMode>("video-view-mode", "grid");
+	const viewMode = useStorage<ViewMode>("video-view-mode", "timeline");
 
 	// Video player position and size with persistent storage
 	const videoPlayerPosition = useStorage<VideoPlayerPosition>(
@@ -226,7 +226,7 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 			(settings.value.keyboardShortcutScheme === "youtube" && key === " ")
 		) {
 			event.preventDefault();
-			globalPlayerStore.setIsPlaying(!globalPlayerStore.isPlaying);
+			globalPlayerStore.togglePlayPause();
 			handled = true;
 		} else if (key === shortcuts.nextTrack) {
 			event.preventDefault();

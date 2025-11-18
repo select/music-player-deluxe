@@ -5,6 +5,7 @@
 		<div
 			v-for="video in videos"
 			:key="video.id"
+			ref="videoElements"
 			class="relative group shadow-black hover:shadow-md hover:bg-zinc-900 flex flex-col gap-3 rounded-2xl hover:rounded-b-0 pa-2 transition-shadow duration-200"
 			:class="{
 				'outline-accent outline-2 outline-solid outline-bottom-0':
@@ -133,9 +134,10 @@
 <script setup lang="ts">
 import dayjs from "dayjs";
 import relativeTime from "dayjs/plugin/relativeTime";
+import { useIntersectionObserver, useDebounceFn } from "@vueuse/core";
 import type { Video } from "../types";
 
-withDefaults(
+const props = withDefaults(
 	defineProps<{
 		videos?: Video[];
 		highlightVideoId?: string;
@@ -146,15 +148,92 @@ withDefaults(
 	},
 );
 
-defineEmits<{
+// Template refs for video elements
+const videoElements = ref<HTMLElement[]>([]);
+
+// Track visible videos with single reactive variable
+const visibleVideos = ref<Video[]>([]);
+
+// Emit visible videos when they change
+const emit = defineEmits<{
 	play: [video: Video];
+	visibleVideosChange: [videos: Video[]];
 }>();
+
+// Map to track visibility state by video ID
+const visibilityStates = reactive(new Map<string, boolean>());
+
+// Debounced emit function for better performance
+const debouncedEmit = useDebounceFn((videos: Video[]) => {
+	emit("visibleVideosChange", videos);
+}, 150);
+
+// Single intersection observer for all video elements
+const { stop } = useIntersectionObserver(
+	videoElements,
+	(entries) => {
+		// Update visibility states for changed entries only
+		entries.forEach((entry) => {
+			const index = videoElements.value.indexOf(entry.target as HTMLElement);
+			if (index !== -1 && props.videos[index]) {
+				const video = props.videos[index];
+				visibilityStates.set(video.id, entry.isIntersecting);
+			}
+		});
+
+		// Rebuild visible videos from current visibility states
+		const newVisibleVideos = props.videos.filter(
+			(video) => visibilityStates.get(video.id) || false,
+		);
+
+		// Only emit if the visible videos actually changed
+		if (!arraysEqual(visibleVideos.value, newVisibleVideos)) {
+			visibleVideos.value = newVisibleVideos;
+			debouncedEmit(newVisibleVideos);
+		}
+	},
+	{
+		threshold: 0.1,
+		rootMargin: "50px",
+	},
+);
+
+// Helper function to compare arrays
+const arraysEqual = (a: Video[], b: Video[]): boolean => {
+	if (a.length !== b.length) return false;
+	return a.every((video, index) => video.id === b[index]?.id);
+};
+
+// Clean up visibility states when videos change
+watch(
+	() => props.videos,
+	() => {
+		// Clear stale visibility states
+		const currentVideoIds = new Set(props.videos.map((v) => v.id));
+		for (const [videoId] of visibilityStates) {
+			if (!currentVideoIds.has(videoId)) {
+				visibilityStates.delete(videoId);
+			}
+		}
+	},
+	{ deep: true },
+);
+
+// Clean up on unmount
+onUnmounted(() => {
+	stop();
+});
 
 // Get selected platforms from user settings
 const { settings } = storeToRefs(useUserSettingsStore());
 const selectedPlatformIds = computed(
 	() => settings.value.selectedPlatforms || [],
 );
+
+// Expose visible videos for external access
+defineExpose({
+	visibleVideos: readonly(visibleVideos),
+});
 
 dayjs.extend(relativeTime);
 

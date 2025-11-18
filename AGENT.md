@@ -57,6 +57,22 @@ The project uses a dark theme with the following UnoCSS color variables:
 - Functions like `parseArtistAndTitle`, `extractArtistFromChannel`, etc. are available globally
 - If you need to use a utility function, simply call it directly without importing
 
+### Date and Time Handling
+- ALWAYS use dayjs for date and time formatting and manipulation
+- Import dayjs and required plugins at the top of components:
+  ```ts
+  import dayjs from "dayjs";
+  import relativeTime from "dayjs/plugin/relativeTime";
+  import weekOfYear from "dayjs/plugin/weekOfYear";
+  
+  dayjs.extend(relativeTime);
+  dayjs.extend(weekOfYear);
+  ```
+- Use dayjs formatting methods instead of native Date methods:
+  - `dayjs(timestamp).format("YYYY MMM D")` instead of `new Date().toLocaleDateString()`
+  - `dayjs().fromNow()` for relative time display
+  - `dayjs(date).isSame(otherDate, 'day')` for date comparisons
+
 ### Store Usage Guidelines
 - When accessing reactive state from Pinia stores, ALWAYS use `storeToRefs()`:
   ```ts

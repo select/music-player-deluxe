@@ -29,7 +29,7 @@
 			</p>
 		</div>
 
-		<!-- Search and Video Grid/List -->
+		<!-- Search and Video Grid/List/Timeline -->
 		<div v-else class="flex flex-col gap-12 pt-6 pb-12">
 			<VideoSearch />
 			<VideoGrid
@@ -39,9 +39,15 @@
 				@play="handleVideoClick"
 			/>
 			<VideoList
-				v-else
+				v-else-if="viewMode === 'list'"
 				:videos="currentVideos"
 				:highlight-video-id="currentlyPlayingVideoId"
+				@play="handleVideoClick"
+			/>
+			<VideoTimeline
+				v-else-if="viewMode === 'timeline'"
+				:highlight-video-id="currentlyPlayingVideoId"
+				:videos="currentVideos"
 				@play="handleVideoClick"
 			/>
 		</div>
