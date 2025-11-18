@@ -14670,6 +14670,8 @@
       "title": "Pete Townshend - Face The Face",
       "channel": "Pete Townshend",
       "duration": "6:00",
+      "artist": "Pete Townshend",
+      "musicTitle": "Face The Face",
       "createdAt": 1663001888950,
       "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
@@ -14749,6 +14751,21 @@
       "duration": "3:15",
       "artist": "Buttering Trio",
       "musicTitle": "Don't Book Me",
+      "externalIds": {
+        "amazonMusic": "B09N8HQ86Y",
+        "amazonStore": "B09N8HQ86Y",
+        "boomplay": "77501336",
+        "deezer": "1581443632",
+        "appleMusic": "1599229417",
+        "itunes": "1599229417",
+        "pandora": "TR:52601111",
+        "soundcloud": "raw-tapes/dont-book-me",
+        "spotify": "7eL9lzDnnuGf8WdM7P6hF1",
+        "tidal": "208433890",
+        "yandex": "96825632",
+        "youtube": "EN1Ma6EMYvU",
+        "youtubeMusic": "EN1Ma6EMYvU"
+      },
       "createdAt": 1663103389968,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -15017,7 +15034,20 @@
       "channel": "Disturbed550",
       "duration": "4:18",
       "artist": "Disturbed",
-      "musicTitle": "Shout",
+      "musicTitle": "Shout 2000",
+      "externalIds": {
+        "amazonMusic": "B0011Z7JHU",
+        "amazonStore": "B0011Z7JHU",
+        "anghami": "80563841",
+        "boomplay": "4073776",
+        "pandora": "TR:151054425",
+        "soundcloud": "disturbed1/shout-2000",
+        "spotify": "3iTGqLgYo57UjTHAieDOlA",
+        "tidal": "3514693",
+        "yandex": "368216",
+        "youtube": "RPsFVTPm1qc",
+        "youtubeMusic": "RPsFVTPm1qc"
+      },
       "createdAt": 1663763821224,
       "userId": "513ac2e89742f7ce701ae0eb930c627bbc259690fb9622aaec4c6cd13a5eaad8"
     },
@@ -15162,6 +15192,8 @@
       "title": "die ärzte - Unrockbar (Offizielles Video - Refurbished 2025)",
       "channel": "bademeisterTV",
       "duration": "4:34",
+      "artist": "die Ärzte",
+      "musicTitle": "Unrockbar",
       "createdAt": 1664703299052,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -15847,6 +15879,19 @@
       "duration": "3:27",
       "artist": "Hemai",
       "musicTitle": "When Day Breaks",
+      "externalIds": {
+        "amazonMusic": "B08XHXG3TH",
+        "amazonStore": "B08XHXG3TH",
+        "appleMusic": "1554004634",
+        "itunes": "1554004634",
+        "pandora": "TR:41966055",
+        "soundcloud": "hemai/when-day-breaks-1",
+        "spotify": "08rZxvJ8A0cceymaC5VDlB",
+        "tidal": "173661481",
+        "yandex": "78037652",
+        "youtube": "k810OLFlQZs",
+        "youtubeMusic": "k810OLFlQZs"
+      },
       "createdAt": 1666769421516,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -15856,7 +15901,22 @@
       "channel": "Noga Erez",
       "duration": "3:31",
       "artist": "Noga Erez",
-      "musicTitle": "Knockout (Against The Machine)",
+      "musicTitle": "Knockout",
+      "externalIds": {
+        "amazonMusic": "B09RGQNB5X",
+        "amazonStore": "B09RGQNB5X",
+        "audiomack": "16903850",
+        "boomplay": "65793909",
+        "deezer": "1638678052",
+        "napster": "tra.642943408",
+        "pandora": "TR:54993193",
+        "soundcloud": "nogaerez/knockout",
+        "spotify": "1zbF494k9vDSXwYKOvRMGn",
+        "tidal": "214500071",
+        "yandex": "78351702",
+        "youtube": "Xsu_22_JzNM",
+        "youtubeMusic": "Xsu_22_JzNM"
+      },
       "createdAt": 1666769619930,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -15866,7 +15926,16 @@
       "channel": "Preston Jarrett",
       "duration": "3:27",
       "artist": "Weezer",
-      "musicTitle": "This Is Such a Pity",
+      "musicTitle": "This Is Such A Pity",
+      "externalIds": {
+        "amazonMusic": "B000W22PUE",
+        "amazonStore": "B000W22PUE",
+        "soundcloud": "weezer/this-is-such-a-pity-3-13-06",
+        "spotify": "1Gg2fM3kis2b3egi64bsDd",
+        "tidal": "31171261",
+        "youtube": "arF3d9nlFPs",
+        "youtubeMusic": "arF3d9nlFPs"
+      },
       "createdAt": 1666882112142,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -15875,8 +15944,20 @@
       "title": "Babe Roots - System feat Rider Shafique",
       "channel": "Babe Roots",
       "duration": "4:34",
-      "artist": "System feat Rider Shafique",
-      "musicTitle": "System feat Rider Shafique",
+      "artist": "Babe Roots",
+      "musicTitle": "System",
+      "externalIds": {
+        "amazonMusic": "B0D6DH4P2G",
+        "amazonStore": "B0D6DH4P2G",
+        "appleMusic": "1750781918",
+        "itunes": "1750781918",
+        "pandora": "TR:47970010",
+        "soundcloud": "baberoots/system-feat-rider-shafique",
+        "spotify": "7LrTfCBL9Vaas6YIo9vKAq",
+        "tidal": "367917784",
+        "youtube": "KTG0-HklIEs",
+        "youtubeMusic": "KTG0-HklIEs"
+      },
       "createdAt": 1666888669137,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -15921,6 +16002,19 @@
       "duration": "4:15",
       "artist": "Tom Petty",
       "musicTitle": "Free Fallin'",
+      "externalIds": {
+        "amazonMusic": "B0DPRNZQFJ",
+        "amazonStore": "B0DPRNZQFJ",
+        "audius": "vJr7p",
+        "boomplay": "4638833",
+        "pandora": "TR:45979",
+        "soundcloud": "tompettymusic/free-fallin-2",
+        "spotify": "5tVA6TkbaAH9QMITTQRrNv",
+        "tidal": "77555379",
+        "yandex": "78060",
+        "youtube": "1lWJXDG2i0A",
+        "youtubeMusic": "1lWJXDG2i0A"
+      },
       "createdAt": 1667039732223,
       "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
     },
@@ -15930,7 +16024,14 @@
       "channel": "Killahseven",
       "duration": "3:09",
       "artist": "Ronny Trettmann",
-      "musicTitle": "Birnenpfeffi mit Zimt",
+      "musicTitle": "Birnenpfeffi mit Zimt (A Capella)",
+      "externalIds": {
+        "amazonMusic": "B00JH1X1JK",
+        "amazonStore": "B00JH1X1JK",
+        "soundcloud": "ronnytrettmannofficial/birnenpfeffi-mit-zimt-a",
+        "youtube": "HkksN1a0Bh8",
+        "youtubeMusic": "HkksN1a0Bh8"
+      },
       "createdAt": 1667051113782,
       "userId": "7b38423ee2390619dd6c564f78e198553caa89b0d2208b6207b1a646bea01c67"
     },
@@ -16179,8 +16280,20 @@
       "title": "RUN DMC - Walk This Way (Official HD Video) ft. Aerosmith",
       "channel": "Run DMC",
       "duration": "4:04",
-      "artist": "Run DMC",
-      "musicTitle": "Walk This Way",
+      "artist": "Run-DMC",
+      "musicTitle": "Walk This Way (feat. Aerosmith)",
+      "externalIds": {
+        "amazonMusic": "B084L89NH4",
+        "amazonStore": "B084L89NH4",
+        "anghami": "1114565977",
+        "boomplay": "15036511",
+        "pandora": "TR:19787040",
+        "soundcloud": "run-dmcofficial/walk-this-way-feat-aerosmith",
+        "spotify": "6qUEOWqOzu1rLPUPQ1ECpx",
+        "tidal": "515498",
+        "youtube": "4B_UYYPb-Gk",
+        "youtubeMusic": "4B_UYYPb-Gk"
+      },
       "createdAt": 1667517598294,
       "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
@@ -16201,6 +16314,17 @@
       "duration": "3:07",
       "artist": "The Beatles",
       "musicTitle": "I'm Only Sleeping",
+      "externalIds": {
+        "amazonMusic": "B07FT7VDWV",
+        "amazonStore": "B07FT7VDWV",
+        "boomplay": "47873278",
+        "pandora": "TR:18602782",
+        "soundcloud": "liamkim/the-beatles-im-only-sleeping",
+        "spotify": "2ylCrFiBu98SC0vFfaCent",
+        "tidal": "55163261",
+        "youtube": "5XwXliCK19Y",
+        "youtubeMusic": "5XwXliCK19Y"
+      },
       "createdAt": 1667563708846,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -16220,7 +16344,21 @@
       "channel": "BeastieBoys",
       "duration": "4:01",
       "artist": "Beastie Boys",
-      "musicTitle": "Fight For Your Right (To Party)",
+      "musicTitle": "Fight For Your Right",
+      "externalIds": {
+        "amazonMusic": "B001NZEHXC",
+        "amazonStore": "B001NZEHXC",
+        "audiomack": "1195951",
+        "anghami": "1117271",
+        "appleMusic": "1440912353",
+        "itunes": "1440912353",
+        "pandora": "TR:9351",
+        "soundcloud": "beastieboys/fight-for-your-right",
+        "spotify": "5NLuC70kZQv8q34QyQa1DP",
+        "tidal": "636796",
+        "youtube": "eBShN8qT4lk",
+        "youtubeMusic": "eBShN8qT4lk"
+      },
       "createdAt": 1667636754764,
       "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
@@ -16231,6 +16369,16 @@
       "duration": "3:45",
       "artist": "Butcher Brown",
       "musicTitle": "Git Along",
+      "externalIds": {
+        "amazonMusic": "B0C3TQPNQM",
+        "amazonStore": "B0C3TQPNQM",
+        "pandora": "TR:94138001",
+        "soundcloud": "butcherbrownrva/git-along",
+        "tidal": "247475308",
+        "yandex": "122308268",
+        "youtube": "GXbwJPg1TxY",
+        "youtubeMusic": "GXbwJPg1TxY"
+      },
       "createdAt": 1667981388982,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -16241,6 +16389,16 @@
       "duration": "9:07",
       "artist": "The Prodigy",
       "musicTitle": "Narayan",
+      "externalIds": {
+        "amazonMusic": "B00A4YB970",
+        "amazonStore": "B00A4YB970",
+        "audius": "qGPoz",
+        "soundcloud": "jakub-witkowski-1/the-prodigy-narayan-original",
+        "spotify": "3FeMrKzRlkrynsnM5QMSom",
+        "tidal": "17981370",
+        "youtube": "bzVjZu4fl4o",
+        "youtubeMusic": "bzVjZu4fl4o"
+      },
       "createdAt": 1667738664104,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -16306,6 +16464,15 @@
       "duration": "4:17",
       "artist": "Butcher Brown",
       "musicTitle": "Liquid Light",
+      "externalIds": {
+        "amazonMusic": "B0B3SDXFV6",
+        "amazonStore": "B0B3SDXFV6",
+        "pandora": "TR:94137999",
+        "soundcloud": "butcherbrownrva/liquid-light",
+        "tidal": "247475306",
+        "youtube": "7Oe3p9lUqCg",
+        "youtubeMusic": "7Oe3p9lUqCg"
+      },
       "createdAt": 1667981719964,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -16395,6 +16562,23 @@
       "duration": "10:38",
       "artist": "Salif Keita",
       "musicTitle": "Mandjou",
+      "externalIds": {
+        "amazonMusic": "B003P699MG",
+        "amazonStore": "B003P699MG",
+        "anghami": "16406879",
+        "boomplay": "2286000",
+        "deezer": "101911009",
+        "appleMusic": "1442867002",
+        "itunes": "1442867002",
+        "napster": "tra.858201",
+        "pandora": "TR:1515134",
+        "soundcloud": "salif-keita-official/mandjou",
+        "spotify": "069z2PptV6FTSUWxm2y7uX",
+        "tidal": "35513595",
+        "yandex": "800830",
+        "youtube": "QDIUL6T5GQU",
+        "youtubeMusic": "QDIUL6T5GQU"
+      },
       "createdAt": 1668299216332,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -16405,6 +16589,19 @@
       "duration": "3:26",
       "artist": "Knorkator",
       "musicTitle": "Die Geschichte vom Zappel-Philipp",
+      "externalIds": {
+        "amazonMusic": "B0DRW5VK8X",
+        "amazonStore": "B0DRW5VK8X",
+        "appleMusic": "1788310160",
+        "itunes": "1788310160",
+        "pandora": "TR:146547084",
+        "soundcloud": "user-639950991/die-geschichte-vom-zappel",
+        "spotify": "6DCFSTXeYijY06v1hXdI8V",
+        "tidal": "408562536",
+        "yandex": "45683331",
+        "youtube": "fnJP5CS_EF4",
+        "youtubeMusic": "fnJP5CS_EF4"
+      },
       "createdAt": 1668335508541,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -16413,8 +16610,15 @@
       "title": "DJ Phantasy x Doktor - Junglist (Kara Remix)",
       "channel": "JUC Drum & Bass",
       "duration": "3:50",
-      "artist": "DJ Phantasy x Doktor",
-      "musicTitle": "Junglist (Kara Remix)",
+      "artist": "DJ Phantasy",
+      "musicTitle": "Junglist (DJ KARA Remix)",
+      "externalIds": {
+        "soundcloud": "phantasy/junglist-dj-kara-remix",
+        "spotify": "6vXHxK6DzrllQBrAKQe9yo",
+        "tidal": "205716909",
+        "youtube": "JVckOmP2xDk",
+        "youtubeMusic": "JVckOmP2xDk"
+      },
       "createdAt": 1668376768326,
       "userId": "7b38423ee2390619dd6c564f78e198553caa89b0d2208b6207b1a646bea01c67"
     },
@@ -16650,6 +16854,17 @@
       "duration": "4:32",
       "artist": "We Float",
       "musicTitle": "Hide and Seek",
+      "externalIds": {
+        "amazonMusic": "B0B9VCS2QB",
+        "amazonStore": "B0B9VCS2QB",
+        "appleMusic": "1640104316",
+        "itunes": "1640104316",
+        "pandora": "TR:77147690",
+        "soundcloud": "we-float-band/hide-and-seek",
+        "spotify": "1Qzap3zDL0MFB24ZzIok4d",
+        "youtube": "5cCwXNXWeyQ",
+        "youtubeMusic": "5cCwXNXWeyQ"
+      },
       "createdAt": 1669359489136,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -16753,6 +16968,15 @@
       "duration": "4:12",
       "artist": "Kai Wachi",
       "musicTitle": "DEMONS",
+      "externalIds": {
+        "amazonMusic": "B01M74QDPW",
+        "amazonStore": "B01M74QDPW",
+        "soundcloud": "kaiwachi/kai-wachi-demons",
+        "spotify": "4xCeaoCui6lCkd9dnKIwa7",
+        "tidal": "66701147",
+        "youtube": "jVSc1LvnyHo",
+        "youtubeMusic": "jVSc1LvnyHo"
+      },
       "createdAt": 1669663078155,
       "userId": "7b38423ee2390619dd6c564f78e198553caa89b0d2208b6207b1a646bea01c67"
     },
@@ -16831,6 +17055,20 @@
       "duration": "2:09",
       "artist": "Mitski",
       "musicTitle": "Washing Machine Heart",
+      "externalIds": {
+        "amazonMusic": "B07CJ442BL",
+        "amazonStore": "B07CJ442BL",
+        "audius": "WGayj",
+        "anghami": "38616741",
+        "boomplay": "18352483",
+        "pandora": "TR:12017483",
+        "soundcloud": "mitskiofficial/washing-machine-heart",
+        "spotify": "3jjsRKEsF42ccXf8kWR3nu",
+        "tidal": "91826121",
+        "yandex": "46750349",
+        "youtube": "3vjkh-acmTE",
+        "youtubeMusic": "3vjkh-acmTE"
+      },
       "createdAt": 1669835061575,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -16906,8 +17144,15 @@
       "title": "D.Tiffany and Roza Terenzi - Spiritual Delusion",
       "channel": "Stamp The Wax",
       "duration": "7:15",
-      "artist": "D.Tiffany and Roza Terenzi",
+      "artist": "D. Tiffany & Roza Terenzi",
       "musicTitle": "Spiritual Delusion",
+      "externalIds": {
+        "appleMusic": "1621607388",
+        "itunes": "1621607388",
+        "soundcloud": "stampthewax/dtiffany-and-roza-terenzi-spiritual-delusion",
+        "youtube": "xyz2VE3uCbg",
+        "youtubeMusic": "xyz2VE3uCbg"
+      },
       "createdAt": 1670057849095,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -17042,8 +17287,17 @@
       "title": "Theme From Slaying Beauty",
       "channel": "bambimolesters",
       "duration": "3:51",
-      "artist": "bambimolesters",
-      "musicTitle": "Theme From Slaying Beauty",
+      "artist": "The Bambi Molesters",
+      "musicTitle": "Theme from Slaying Beauty",
+      "externalIds": {
+        "amazonMusic": "B09BDR1BKD",
+        "amazonStore": "B09BDR1BKD",
+        "pandora": "TR:1512327",
+        "soundcloud": "thebambimolesters/theme-from-slaying-beauty",
+        "tidal": "192506808",
+        "youtube": "PNkxPAReT5I",
+        "youtubeMusic": "PNkxPAReT5I"
+      },
       "createdAt": 1670421968614,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -17062,8 +17316,23 @@
       "title": "I DONT KNOW HOW BUT THEY FOUND ME - Choke (Official Music Video)",
       "channel": "I DONT KNOW HOW BUT THEY FOUND ME ",
       "duration": "3:53",
-      "artist": "IDONT KNOW HOW BUT THEY FOUND ME",
+      "artist": "I DONT KNOW HOW BUT THEY FOUND ME",
       "musicTitle": "Choke",
+      "externalIds": {
+        "amazonMusic": "B07KMLQKCJ",
+        "amazonStore": "B07KMLQKCJ",
+        "deezer": "579937142",
+        "appleMusic": "1441477176",
+        "itunes": "1441477176",
+        "napster": "tra.325350588",
+        "pandora": "TR:15244851",
+        "soundcloud": "nelly2055/choke",
+        "spotify": "37mfTcSlX60JtAvAETytGs",
+        "tidal": "97876621",
+        "yandex": "37468264",
+        "youtube": "v64-DpcLEvI",
+        "youtubeMusic": "v64-DpcLEvI"
+      },
       "createdAt": 1670422912242,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -17147,7 +17416,23 @@
       "channel": "Puhdys - Topic",
       "duration": "3:59",
       "artist": "Puhdys",
-      "musicTitle": "Wenn Träume sterben",
+      "musicTitle": "Wenn Träume Sterben",
+      "externalIds": {
+        "amazonMusic": "B08813S46D",
+        "amazonStore": "B08813S46D",
+        "anghami": "13110861",
+        "boomplay": "12110956",
+        "deezer": "121592692",
+        "appleMusic": "1103260336",
+        "itunes": "1103260336",
+        "napster": "tra.25823408",
+        "soundcloud": "puhdys/wenn-tr-ume-sterben-1",
+        "spotify": "19cCk3aQ3vXMh0kkVQbIdQ",
+        "tidal": "680456",
+        "yandex": "703562",
+        "youtube": "ccnC5wC_7NM",
+        "youtubeMusic": "ccnC5wC_7NM"
+      },
       "createdAt": 1671139529514,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -17185,6 +17470,18 @@
       "duration": "4:16",
       "artist": "De La Soul",
       "musicTitle": "Ring Ring Ring (Ha Ha Hey)",
+      "externalIds": {
+        "amazonMusic": "B0BS4HTCGW",
+        "amazonStore": "B0BS4HTCGW",
+        "anghami": "1093185266",
+        "boomplay": "4796639",
+        "pandora": "TR:86577050",
+        "soundcloud": "wearedelasoul/ring-ring-ring-ha-ha-hey-2",
+        "spotify": "1zRW3vr3uw0tdG7iLWUZpn",
+        "tidal": "278357677",
+        "youtube": "6-JOVXZePQk",
+        "youtubeMusic": "6-JOVXZePQk"
+      },
       "createdAt": 1671139909045,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -17290,7 +17587,23 @@
       "channel": "Sister Sledge",
       "duration": "6:38",
       "artist": "Sister Sledge",
-      "musicTitle": "Lost in Music (1984 Bernard Edwards & Nile Rodgers Remix)",
+      "musicTitle": "Lost in Music (1984 Bernard Edwards & Nile Rodgers Remix) [1995 Remaster]",
+      "externalIds": {
+        "amazonMusic": "B002QWHBIE",
+        "amazonStore": "B002QWHBIE",
+        "audiomack": "14608093",
+        "anghami": "363967",
+        "boomplay": "4104061",
+        "deezer": "6640582",
+        "appleMusic": "333596296",
+        "itunes": "333596296",
+        "napster": "tra.31255777",
+        "pandora": "TR:51359",
+        "spotify": "5elGdlLAIvV0W4VGXVZCTF",
+        "tidal": "4077665",
+        "youtube": "KxRzE3qy2KM",
+        "youtubeMusic": "KxRzE3qy2KM"
+      },
       "createdAt": 1671141606286,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -17300,7 +17613,20 @@
       "channel": "Joe Cocker",
       "duration": "4:51",
       "artist": "Joe Cocker",
-      "musicTitle": "Noubliez Jamais",
+      "musicTitle": "N'oubliez Jamais",
+      "externalIds": {
+        "amazonMusic": "B0DZW4NB7S",
+        "amazonStore": "B0DZW4NB7S",
+        "appleMusic": "1713874213",
+        "itunes": "1713874213",
+        "pandora": "TR:7230048",
+        "soundcloud": "joe-cocker-official/noubliez-jamais-edit",
+        "spotify": "6vRiNhsQQRzHpzvjIQXSNp",
+        "tidal": "63844855",
+        "yandex": "340470",
+        "youtube": "_Xa_1KxR-8M",
+        "youtubeMusic": "_Xa_1KxR-8M"
+      },
       "createdAt": 1671141856974,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -17381,8 +17707,20 @@
       "title": "decto - Morphing The City",
       "channel": "decto",
       "duration": "5:18",
-      "artist": "decto",
-      "musicTitle": "Morphing The City",
+      "artist": "Decto",
+      "musicTitle": "Morphing the City",
+      "externalIds": {
+        "amazonMusic": "B01MA6M8JY",
+        "amazonStore": "B01MA6M8JY",
+        "appleMusic": "1167478105",
+        "itunes": "1167478105",
+        "pandora": "TR:74050040",
+        "soundcloud": "decto/morphing-the-city",
+        "spotify": "1ZuueoDv4drdrXM1OAzI3L",
+        "tidal": "66258330",
+        "youtube": "zMhaWUWsHQQ",
+        "youtubeMusic": "zMhaWUWsHQQ"
+      },
       "createdAt": 1671142798481,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -17401,8 +17739,17 @@
       "title": "Manfred Mann's Earthband - father of day father of night",
       "channel": "superbimi",
       "duration": "9:53",
-      "artist": "Manfred Mann's Earthband",
-      "musicTitle": "father of day father of night",
+      "artist": "Manfred Mann's Earth Band",
+      "musicTitle": "Father of Day, Father of Night",
+      "externalIds": {
+        "amazonMusic": "B0BKFXKDD3",
+        "amazonStore": "B0BKFXKDD3",
+        "soundcloud": "manfredmannsearthband/father-of-day-father-of-1",
+        "spotify": "1I1o33PYLrHaIP64WJJ4SP",
+        "tidal": "20177243",
+        "youtube": "nJ0VCr3Y8Pg",
+        "youtubeMusic": "nJ0VCr3Y8Pg"
+      },
       "createdAt": 1671171112050,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -17423,6 +17770,16 @@
       "duration": "2:29",
       "artist": "Bad Religion",
       "musicTitle": "Punk Rock Song",
+      "externalIds": {
+        "amazonMusic": "B07ZMH6C83",
+        "amazonStore": "B07ZMH6C83",
+        "boomplay": "12393232",
+        "soundcloud": "badreligion/punk-rock-song",
+        "spotify": "5ACDC1gxAUXYDWherVKOiX",
+        "yandex": "846624",
+        "youtube": "S_Xm9BzpwPc",
+        "youtubeMusic": "S_Xm9BzpwPc"
+      },
       "createdAt": 1671180229493,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -17490,7 +17847,16 @@
       "channel": "Ultra Records",
       "duration": "2:54",
       "artist": "SOFI TUKKER",
-      "musicTitle": "What a Wonderful World",
+      "musicTitle": "What A Wonderful World",
+      "externalIds": {
+        "amazonMusic": "B0DD9BTGDJ",
+        "amazonStore": "B0DD9BTGDJ",
+        "soundcloud": "sofitukker/what-a-wonderful-world",
+        "spotify": "5ZLkiDLURiDOLstGhDsHPs",
+        "tidal": "381591221",
+        "youtube": "L7XFAqhy-jA",
+        "youtubeMusic": "L7XFAqhy-jA"
+      },
       "createdAt": 1671297722539,
       "userId": "202b3a90e5a287149fc93794c3e966aaad1f5188b739641c59797a3bd6a6140b"
     },
@@ -17727,6 +18093,20 @@
       "title": "My Heart Will Always Belong To You",
       "channel": "Nolan Strong - Topic",
       "duration": "2:43",
+      "artist": "Nolan Strong & The Diablos",
+      "musicTitle": "My Heart Will Always Belong To You",
+      "externalIds": {
+        "amazonMusic": "B001NT1OT8",
+        "amazonStore": "B001NT1OT8",
+        "appleMusic": "453976539",
+        "itunes": "453976539",
+        "pandora": "TR:20660076",
+        "soundcloud": "nolanstrongandthediablos/my-heart-will-always-belong-to",
+        "tidal": "7550718",
+        "yandex": "3570249",
+        "youtube": "eZFe-jkpJTs",
+        "youtubeMusic": "eZFe-jkpJTs"
+      },
       "createdAt": 1763158374401,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -17747,6 +18127,22 @@
       "duration": "6:41",
       "artist": "Jasmine Myra",
       "musicTitle": "Words Left Unspoken",
+      "externalIds": {
+        "amazonMusic": "B09X5XFMKG",
+        "amazonStore": "B09X5XFMKG",
+        "audiomack": "49681198",
+        "anghami": "1048089932",
+        "boomplay": "145999442",
+        "deezer": "1708002377",
+        "appleMusic": "1617632307",
+        "itunes": "1617632307",
+        "napster": "tra.681407135",
+        "pandora": "TR:62928117",
+        "spotify": "2b7mhgBdpvDCLYGK8nRfMX",
+        "tidal": "223667995",
+        "youtube": "RFYVrq7d5v4",
+        "youtubeMusic": "RFYVrq7d5v4"
+      },
       "createdAt": 1671785363819,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -17777,6 +18173,15 @@
       "duration": "3:15",
       "artist": "Shinedown",
       "musicTitle": "Atlas Falls",
+      "externalIds": {
+        "appleMusic": "1512827486",
+        "itunes": "1512827486",
+        "soundcloud": "shinedownofficial/atlas-falls",
+        "spotify": "7m1Lw3uTakxHFxGjXXbE4l",
+        "yandex": "66242381",
+        "youtube": "YiVkAvm-BVE",
+        "youtubeMusic": "YiVkAvm-BVE"
+      },
       "createdAt": 1671881144342,
       "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
     },
@@ -17787,6 +18192,22 @@
       "duration": "3:03",
       "artist": "Old 97's",
       "musicTitle": "I Don't Know What Christmas Is (But Christmastime Is Here)",
+      "externalIds": {
+        "amazonMusic": "B0BMRY18TF",
+        "amazonStore": "B0BMRY18TF",
+        "audiomack": "21148921",
+        "boomplay": "109101591",
+        "deezer": "2021446637",
+        "appleMusic": "1655062047",
+        "itunes": "1655062047",
+        "napster": "tra.723063472",
+        "pandora": "TR:83040699",
+        "soundcloud": "old-97s/i-dont-know-what-christmas-is",
+        "spotify": "7AD4sAsJJQm0Bog0zhwYrf",
+        "tidal": "261274514",
+        "youtube": "97NLboCjdbs",
+        "youtubeMusic": "97NLboCjdbs"
+      },
       "createdAt": 1671888014896,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -17797,6 +18218,22 @@
       "duration": "3:35",
       "artist": "Faithless",
       "musicTitle": "Insomnia",
+      "externalIds": {
+        "amazonMusic": "B01MXVQCMO",
+        "amazonStore": "B01MXVQCMO",
+        "audiomack": "7553193",
+        "audius": "P9byR",
+        "anghami": "107819534",
+        "boomplay": "56284734",
+        "napster": "tra.334241686",
+        "pandora": "TR:7199806",
+        "soundcloud": "iamvelojames/faithless-insomnia-velo-james-edit",
+        "spotify": "3XTefle3zvDkjgS1Fiq14A",
+        "tidal": "12189267",
+        "yandex": "651471",
+        "youtube": "P8JEm4d6Wu4",
+        "youtubeMusic": "P8JEm4d6Wu4"
+      },
       "createdAt": 1671920075711,
       "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
     },
@@ -17806,7 +18243,15 @@
       "channel": "Wrong Speed Records",
       "duration": "13:33",
       "artist": "Haress",
-      "musicTitle": "Litres Into Metres / Susurrus",
+      "musicTitle": "Litres into Metres - Susurrus",
+      "externalIds": {
+        "appleMusic": "1616668053",
+        "itunes": "1616668053",
+        "soundcloud": "haress-music/litres-into-metres-susurrus",
+        "spotify": "3INRv3rMxqDwFTba3ApaCu",
+        "youtube": "SSWf6nYD3Zc",
+        "youtubeMusic": "SSWf6nYD3Zc"
+      },
       "createdAt": 1672093701479,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -17817,6 +18262,17 @@
       "duration": "2:01",
       "artist": "The Fly Guy Five",
       "musicTitle": "Extra Fries",
+      "externalIds": {
+        "amazonMusic": "B0B7VHPTN9",
+        "amazonStore": "B0B7VHPTN9",
+        "anghami": "1070955378",
+        "pandora": "TR:75220991",
+        "soundcloud": "theflyguyfive/extra-fries",
+        "spotify": "556y7EL1trkqGtevzn8684",
+        "tidal": "240084823",
+        "youtube": "FACsK3NbSK4",
+        "youtubeMusic": "FACsK3NbSK4"
+      },
       "createdAt": 1672136557021,
       "userId": "7ac76b34356829cc427b08ee8b8849477531c9ee6d9bb26e3cc450f8e118a3f2"
     },
@@ -17825,6 +18281,19 @@
       "title": "One Of These Days",
       "channel": "Camper Van Beethoven - Topic",
       "duration": "3:28",
+      "artist": "Camper Van Beethoven",
+      "musicTitle": "One Of These Days",
+      "externalIds": {
+        "amazonMusic": "B001UHCW4Y",
+        "amazonStore": "B001UHCW4Y",
+        "appleMusic": "712300610",
+        "itunes": "712300610",
+        "soundcloud": "nico-d-official/one-of-these-days",
+        "tidal": "66582481",
+        "yandex": "246336",
+        "youtube": "pHpDUvUoxXs",
+        "youtubeMusic": "pHpDUvUoxXs"
+      },
       "createdAt": 1672335691288,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -17835,6 +18304,23 @@
       "duration": "3:13",
       "artist": "İbrahim Tatlıses",
       "musicTitle": "Mavişim",
+      "externalIds": {
+        "amazonMusic": "B00BKEMXD2",
+        "amazonStore": "B00BKEMXD2",
+        "audiomack": "6949592",
+        "anghami": "4070397",
+        "boomplay": "8426137",
+        "deezer": "85019347",
+        "appleMusic": "587160153",
+        "itunes": "587160153",
+        "napster": "tra.125741475",
+        "soundcloud": "ibrahimtatlises/mavi-im",
+        "spotify": "0h8Si92FV5u2GE2U692bqN",
+        "tidal": "23257696",
+        "yandex": "4186666",
+        "youtube": "vGR9YLj_ht4",
+        "youtubeMusic": "vGR9YLj_ht4"
+      },
       "createdAt": 1672342989546,
       "userId": "d0ebd620edfede5561374725d238b826965f80677d0d91fb765fff78408121f5"
     },
@@ -17845,6 +18331,23 @@
       "duration": "4:35",
       "artist": "The Night Flight Orchestra",
       "musicTitle": "Star of Rio",
+      "externalIds": {
+        "amazonMusic": "B07QHDCNK3",
+        "amazonStore": "B07QHDCNK3",
+        "anghami": "49898365",
+        "boomplay": "6882414",
+        "deezer": "660680552",
+        "appleMusic": "1458861702",
+        "itunes": "1458861702",
+        "napster": "tra.261050248",
+        "pandora": "TR:10481867",
+        "soundcloud": "thenightflightorchestra/star-of-rio",
+        "spotify": "4rltFtfDisFjQSKfvpHMWt",
+        "tidal": "107168591",
+        "yandex": "34196429",
+        "youtube": "vYcsDuhfK-4",
+        "youtubeMusic": "vYcsDuhfK-4"
+      },
       "createdAt": 1672395721378,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -17853,8 +18356,18 @@
       "title": "Connection (feat. Fernando Apodaca)",
       "channel": "Todd Hannigan - Topic",
       "duration": "1:13",
-      "artist": "Fernando Apodaca",
-      "musicTitle": "Connection",
+      "artist": "Todd Hannigan",
+      "musicTitle": "Connection (feat. Jon Swift & Fernando Apodaca)",
+      "externalIds": {
+        "amazonMusic": "B06XS3L79C",
+        "amazonStore": "B06XS3L79C",
+        "appleMusic": "1217893539",
+        "itunes": "1217893539",
+        "spotify": "0A069Fq15DVaO97BLPcv8T",
+        "yandex": "34325745",
+        "youtube": "3rgk5nTdJwg",
+        "youtubeMusic": "3rgk5nTdJwg"
+      },
       "createdAt": 1672408172238,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -17885,6 +18398,15 @@
       "duration": "5:51",
       "artist": "JakoJako",
       "musicTitle": "Auris",
+      "externalIds": {
+        "amazonMusic": "B0BGQV32M4",
+        "amazonStore": "B0BGQV32M4",
+        "pandora": "TR:83705768",
+        "soundcloud": "jakojako_live/auris",
+        "tidal": "260110825",
+        "youtube": "pFlQlS_e7wA",
+        "youtubeMusic": "pFlQlS_e7wA"
+      },
       "createdAt": 1673080813724,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -17914,7 +18436,18 @@
       "channel": "Yo Gotti",
       "duration": "3:36",
       "artist": "Yo Gotti",
-      "musicTitle": "King Sh*t ft. T.I.",
+      "musicTitle": "King Sh*t (feat. T.I.)",
+      "externalIds": {
+        "amazonMusic": "B00GJ4M20W",
+        "amazonStore": "B00GJ4M20W",
+        "pandora": "TR:2383746",
+        "soundcloud": "yogottikom/king-sh-t",
+        "spotify": "0cWmYmQ7OjAKiNnH7qtLKk",
+        "tidal": "23498224",
+        "yandex": "16523960",
+        "youtube": "n02eqYxEfis",
+        "youtubeMusic": "n02eqYxEfis"
+      },
       "createdAt": 1673290298138,
       "userId": "7b38423ee2390619dd6c564f78e198553caa89b0d2208b6207b1a646bea01c67"
     },
@@ -17925,6 +18458,23 @@
       "duration": "6:34",
       "artist": "Little Simz",
       "musicTitle": "Silhouette",
+      "externalIds": {
+        "amazonMusic": "B0BP9V7FVV",
+        "amazonStore": "B0BP9V7FVV",
+        "audiomack": "21453494",
+        "anghami": "1162421670",
+        "boomplay": "110736866",
+        "deezer": "2057222977",
+        "appleMusic": "1658414164",
+        "itunes": "1658414164",
+        "napster": "tra.726794388",
+        "pandora": "TR:84324735",
+        "soundcloud": "littlesimz/silhouette",
+        "spotify": "6eCxbfPngmMvJjnJxyBcDg",
+        "tidal": "264882643",
+        "youtube": "CjxAdLeDYeY",
+        "youtubeMusic": "CjxAdLeDYeY"
+      },
       "createdAt": 1673341142565,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -17935,6 +18485,17 @@
       "duration": "4:01",
       "artist": "SYML",
       "musicTitle": "Where's My Love (Acoustic)",
+      "externalIds": {
+        "amazonMusic": "B09QWC7357",
+        "amazonStore": "B09QWC7357",
+        "audius": "NRdm4",
+        "boomplay": "22243512",
+        "pandora": "TR:29928420",
+        "soundcloud": "symlmusic/wheres-my-love-acoustic-1",
+        "spotify": "0ElpbbncWT9aS7mgoqEHbQ",
+        "youtube": "b3LJlZBWI8w",
+        "youtubeMusic": "b3LJlZBWI8w"
+      },
       "createdAt": 1673343584248,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -17955,6 +18516,15 @@
       "duration": "5:39",
       "artist": "Waeys",
       "musicTitle": "Ephemeral",
+      "externalIds": {
+        "amazonMusic": "B08N9MYK3S",
+        "amazonStore": "B08N9MYK3S",
+        "pandora": "TR:36428160",
+        "soundcloud": "critical-music/waeys-ephemeral",
+        "tidal": "324580014",
+        "youtube": "xthNEjPf-z8",
+        "youtubeMusic": "xthNEjPf-z8"
+      },
       "createdAt": 1673458379523,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -17963,8 +18533,21 @@
       "title": "Make Those Move (Ternion Sound Remix)",
       "channel": "I Am Legion - Topic",
       "duration": "3:33",
-      "artist": "Ternion Sound",
-      "musicTitle": "Make Those Move",
+      "artist": "I Am Legion",
+      "musicTitle": "Make Those Move (Ternion Sound Remix)",
+      "externalIds": {
+        "amazonMusic": "B0BHDYD3BM",
+        "amazonStore": "B0BHDYD3BM",
+        "anghami": "1080185854",
+        "appleMusic": "1648543467",
+        "itunes": "1648543467",
+        "napster": "tra.707218535",
+        "pandora": "TR:80055068",
+        "soundcloud": "ternionsound/i-am-legion-make-those-move-ternion-sound-remix",
+        "spotify": "0NsnZp8TBj6JRUlB2pXSlK",
+        "youtube": "GL4xUHA49MU",
+        "youtubeMusic": "GL4xUHA49MU"
+      },
       "createdAt": 1673461165705,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -17975,6 +18558,23 @@
       "duration": "5:42",
       "artist": "Lewsberg",
       "musicTitle": "Standard Procedures",
+      "externalIds": {
+        "amazonMusic": "B0DBDJBMM6",
+        "amazonStore": "B0DBDJBMM6",
+        "anghami": "1044516117",
+        "boomplay": "17499173",
+        "deezer": "854312562",
+        "appleMusic": "1495167012",
+        "itunes": "1495167012",
+        "napster": "tra.437600114",
+        "pandora": "TR:28387192",
+        "soundcloud": "lewsberg-music/standard-procedures",
+        "spotify": "4F7J5RsPiFdAZ0Z9iezKyd",
+        "tidal": "128388850",
+        "yandex": "61741668",
+        "youtube": "l7Ko5586zqQ",
+        "youtubeMusic": "l7Ko5586zqQ"
+      },
       "createdAt": 1673481239974,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -17984,7 +18584,21 @@
       "channel": "Watashi 81",
       "duration": "4:15",
       "artist": "Stevie Wonder",
-      "musicTitle": "Part Time Lover",
+      "musicTitle": "Part-Time Lover",
+      "externalIds": {
+        "amazonMusic": "B000V6RBTQ",
+        "amazonStore": "B000V6RBTQ",
+        "anghami": "4196715",
+        "boomplay": "3193224",
+        "appleMusic": "1443168472",
+        "itunes": "1443168472",
+        "soundcloud": "stevie-wonder-official/part-time-lover",
+        "spotify": "0Dm43YLUlGdePpSbI1ct8h",
+        "tidal": "31302217",
+        "yandex": "2164319",
+        "youtube": "jN2AdOjI4FI",
+        "youtubeMusic": "jN2AdOjI4FI"
+      },
       "createdAt": 1673533945544,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -18023,6 +18637,8 @@
       "title": "Graham Mushnik - The Cat -The Beast",
       "channel": "zresu1",
       "duration": "6:52",
+      "artist": "Graham Mushnik",
+      "musicTitle": "The Cat - The Beast",
       "createdAt": 1673903025769,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -18031,8 +18647,21 @@
       "title": "Divine Gemini",
       "channel": "Walt Dickerson - Topic",
       "duration": "4:04",
-      "artist": "Divine Gemini",
+      "artist": "Walt Dickerson",
       "musicTitle": "Divine Gemini",
+      "externalIds": {
+        "amazonMusic": "B0BHH6G69Z",
+        "amazonStore": "B0BHH6G69Z",
+        "appleMusic": "159193260",
+        "itunes": "159193260",
+        "pandora": "TR:62333469",
+        "soundcloud": "waltdickerson/divine-gemini",
+        "spotify": "6d6FNHyHAXta7d8pzol3Nx",
+        "tidal": "68542419",
+        "yandex": "32777153",
+        "youtube": "fRjnLjokjnI",
+        "youtubeMusic": "fRjnLjokjnI"
+      },
       "createdAt": 1673903756945,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -18041,6 +18670,17 @@
       "title": "Anomali, Serval (AR) - Confuse Thinking (Original Mix) [DEAR DEER]",
       "channel": "Technomind",
       "duration": "7:26",
+      "artist": "Serval (AR)",
+      "musicTitle": "Confuse Thinking",
+      "externalIds": {
+        "amazonMusic": "B0CN2RBTZP",
+        "amazonStore": "B0CN2RBTZP",
+        "pandora": "TR:82770358",
+        "soundcloud": "deardeermusic/serval-anomali-confuse",
+        "tidal": "328149249",
+        "youtube": "gcIUgh55TEk",
+        "youtubeMusic": "gcIUgh55TEk"
+      },
       "createdAt": 1673936821866,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -18049,8 +18689,21 @@
       "title": "The Rhythm (Peku Remix)",
       "channel": "Todd Duff - Topic",
       "duration": "6:30",
-      "artist": "Peku",
-      "musicTitle": "The Rhythm",
+      "artist": "Todd Duff",
+      "musicTitle": "The Rhythm (Peku Remix)",
+      "externalIds": {
+        "amazonMusic": "B0BMRWQ1NZ",
+        "amazonStore": "B0BMRWQ1NZ",
+        "anghami": "1085616275",
+        "deezer": "2015248557",
+        "appleMusic": "1654374869",
+        "itunes": "1654374869",
+        "pandora": "TR:82693742",
+        "spotify": "0pxMv6Fle1TrVXPJVN87zj",
+        "tidal": "260295555",
+        "youtube": "BWAlNK46gG8",
+        "youtubeMusic": "BWAlNK46gG8"
+      },
       "createdAt": 1673938964500,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -18061,6 +18714,16 @@
       "duration": "4:07",
       "artist": "Pole",
       "musicTitle": "Grauer Sand",
+      "externalIds": {
+        "amazonMusic": "B0B7CZVZDX",
+        "amazonStore": "B0B7CZVZDX",
+        "pandora": "TR:81032061",
+        "soundcloud": "pole-original/pole-grauer-sand",
+        "spotify": "3EiZaX03fYdPKhsoji5p96",
+        "tidal": "255065185",
+        "youtube": "1I1iDxG32Ag",
+        "youtubeMusic": "1I1iDxG32Ag"
+      },
       "createdAt": 1673944687888,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -18070,7 +18733,22 @@
       "channel": "BAND-MAID",
       "duration": "3:10",
       "artist": "BAND-MAID",
-      "musicTitle": "Unleash!!!!!!",
+      "musicTitle": "Unleash!!!!!",
+      "externalIds": {
+        "amazonMusic": "B0BD8H8TXD",
+        "amazonStore": "B0BD8H8TXD",
+        "audiomack": "52652967",
+        "deezer": "1839009147",
+        "appleMusic": "1636272544",
+        "itunes": "1636272544",
+        "pandora": "TR:78187490",
+        "soundcloud": "ricky_956/band-maid-unleash",
+        "spotify": "5Ti8I2TZIE0CM625nT9e0H",
+        "tidal": "240804792",
+        "yandex": "106587451",
+        "youtube": "7LB_EPS48HE",
+        "youtubeMusic": "7LB_EPS48HE"
+      },
       "createdAt": 1673965146349,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -18079,8 +18757,17 @@
       "title": "Ride On",
       "channel": "Attila Horváth - Topic",
       "duration": "3:27",
-      "artist": "Attila Horváth",
+      "artist": "Attila Horvath",
       "musicTitle": "Ride On",
+      "externalIds": {
+        "amazonMusic": "B0014BVVU2",
+        "amazonStore": "B0014BVVU2",
+        "appleMusic": "118262982",
+        "itunes": "118262982",
+        "pandora": "TR:65649881",
+        "youtube": "dF5n-l3fK2Q",
+        "youtubeMusic": "dF5n-l3fK2Q"
+      },
       "createdAt": 1710356710165,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -18090,7 +18777,19 @@
       "channel": "Counting Crows",
       "duration": "3:46",
       "artist": "Counting Crows",
-      "musicTitle": "Big Yellow Taxi ft. Vanessa Carlton",
+      "musicTitle": "Big Yellow Taxi",
+      "externalIds": {
+        "amazonMusic": "B07RJCDDCK",
+        "amazonStore": "B07RJCDDCK",
+        "boomplay": "3295995",
+        "napster": "tra.57686080",
+        "pandora": "TR:18367096",
+        "soundcloud": "countingcrows/big-yellow-taxi",
+        "spotify": "4O4dhPrjcw7GSLNafNydmb",
+        "tidal": "108787638",
+        "youtube": "tvtJPs8IDgU",
+        "youtubeMusic": "tvtJPs8IDgU"
+      },
       "createdAt": 1674321760435,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -18101,6 +18800,24 @@
       "duration": "2:50",
       "artist": "The Who",
       "musicTitle": "1921",
+      "externalIds": {
+        "amazonMusic": "B07R8DG52J",
+        "amazonStore": "B07R8DG52J",
+        "audiomack": "60271835",
+        "anghami": "50867086",
+        "boomplay": "5231917",
+        "deezer": "670997452",
+        "appleMusic": "1461212470",
+        "itunes": "1461212470",
+        "napster": "tra.371513997",
+        "pandora": "TR:2367936",
+        "soundcloud": "thewho/1921-2",
+        "spotify": "2EJo2k8xmQsA3E5VwTta7I",
+        "tidal": "93164135",
+        "yandex": "61464",
+        "youtube": "H4lurE-IpHE",
+        "youtubeMusic": "H4lurE-IpHE"
+      },
       "createdAt": 1674543548732,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -18111,6 +18828,14 @@
       "duration": "5:02",
       "artist": "Burial",
       "musicTitle": "Southern Comfort",
+      "externalIds": {
+        "amazonMusic": "B01423YVXW",
+        "amazonStore": "B01423YVXW",
+        "pandora": "TR:781313",
+        "tidal": "111851460",
+        "youtube": "VIpnaZMa4Yg",
+        "youtubeMusic": "VIpnaZMa4Yg"
+      },
       "createdAt": 1674566071760,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -18119,8 +18844,22 @@
       "title": "Tip Tip",
       "channel": "Gudrun Gut - Topic",
       "duration": "3:18",
-      "artist": "Tip Tip",
+      "artist": "Gudrun Gut",
       "musicTitle": "Tip Tip",
+      "externalIds": {
+        "amazonMusic": "B0018CM9PI",
+        "amazonStore": "B0018CM9PI",
+        "boomplay": "29093055",
+        "deezer": "17189180",
+        "appleMusic": "217521148",
+        "itunes": "217521148",
+        "pandora": "TR:959741",
+        "soundcloud": "ggut/gudrun-gut-tip-tip",
+        "spotify": "1G9mxdVz8nsIDjhCvEMHkV",
+        "tidal": "18736192",
+        "youtube": "1ekQ5VEaYMc",
+        "youtubeMusic": "1ekQ5VEaYMc"
+      },
       "createdAt": 1674758281792,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -18129,8 +18868,22 @@
       "title": "Emptyset (Etapp Kyle Remix)",
       "channel": "Max Cooper",
       "duration": "5:37",
-      "artist": "Emptyset (Etapp Kyle Remix)",
+      "artist": "Max Cooper",
       "musicTitle": "Emptyset (Etapp Kyle Remix)",
+      "externalIds": {
+        "amazonMusic": "B07NQSVXBZ",
+        "amazonStore": "B07NQSVXBZ",
+        "anghami": "47212151",
+        "boomplay": "6370268",
+        "deezer": "632966532",
+        "appleMusic": "1453023607",
+        "itunes": "1453023607",
+        "pandora": "TR:16701563",
+        "soundcloud": "etappkyle/max-cooper-emptyset-etapp-kyle-remix",
+        "spotify": "2XcAwIdswMudtNkWQCZEnU",
+        "youtube": "5LKqxJOz6aM",
+        "youtubeMusic": "5LKqxJOz6aM"
+      },
       "createdAt": 1674806355321,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -18151,6 +18904,15 @@
       "duration": "4:25",
       "artist": "Everlast",
       "musicTitle": "Ends",
+      "externalIds": {
+        "amazonMusic": "B07Y8VBHMK",
+        "amazonStore": "B07Y8VBHMK",
+        "soundcloud": "everlastofficial/ends",
+        "spotify": "3mvL58vGdP0rVP1T9gXcFY",
+        "yandex": "528509",
+        "youtube": "0szqyWvPNKY",
+        "youtubeMusic": "0szqyWvPNKY"
+      },
       "createdAt": 1674942672800,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -18160,7 +18922,15 @@
       "channel": "DnB Ranger",
       "duration": "4:48",
       "artist": "Tantrum Desire",
-      "musicTitle": "Be Careful (ft. Marianna Ray)",
+      "musicTitle": "Be Careful",
+      "externalIds": {
+        "amazonMusic": "B08FCQZNVW",
+        "amazonStore": "B08FCQZNVW",
+        "soundcloud": "ministrovedits/tantrum-desire-marianna-ray-be",
+        "tidal": "151198237",
+        "youtube": "wuVnkhYba_A",
+        "youtubeMusic": "wuVnkhYba_A"
+      },
       "createdAt": 1674989728297,
       "userId": "7b38423ee2390619dd6c564f78e198553caa89b0d2208b6207b1a646bea01c67"
     },
@@ -18171,6 +18941,25 @@
       "duration": "2:47",
       "artist": "Norah Jones",
       "musicTitle": "Wake Me Up",
+      "externalIds": {
+        "amazonMusic": "B000TRQ7K6",
+        "amazonStore": "B000TRQ7K6",
+        "audiomack": "21819888",
+        "audius": "8ERv9",
+        "anghami": "31487733",
+        "boomplay": "2295817",
+        "deezer": "3320896",
+        "appleMusic": "1471082832",
+        "itunes": "1471082832",
+        "napster": "tra.13125846",
+        "pandora": "TR:782507",
+        "soundcloud": "norahjonesofficial/wake-me-up",
+        "spotify": "4iv2Y2Pl0NHuLyWklKYq1Q",
+        "tidal": "138372",
+        "yandex": "280293",
+        "youtube": "zoGRUyuWMK8",
+        "youtubeMusic": "zoGRUyuWMK8"
+      },
       "createdAt": 1674993266654,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -18179,8 +18968,15 @@
       "title": "Ren - Bittersweet Symphony (The Verve)",
       "channel": "Ren",
       "duration": "2:45",
-      "artist": "The Verve",
+      "artist": "R2K",
       "musicTitle": "Bittersweet Symphony",
+      "externalIds": {
+        "anghami": "1205213265",
+        "deezer": "3324452961",
+        "soundcloud": "alex-r-536739122/ren-bittersweet-symphony",
+        "youtube": "JwtEOp7pC1A",
+        "youtubeMusic": "JwtEOp7pC1A"
+      },
       "createdAt": 1675426849510,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -18191,6 +18987,18 @@
       "duration": "4:45",
       "artist": "Tashi Wada",
       "musicTitle": "Litany",
+      "externalIds": {
+        "amazonMusic": "B07DPDK982",
+        "amazonStore": "B07DPDK982",
+        "appleMusic": "1397894921",
+        "itunes": "1397894921",
+        "pandora": "TR:12902034",
+        "soundcloud": "tashiwada-music/litany",
+        "spotify": "5UbWTcCLJW7PTi20YalrrP",
+        "tidal": "94402909",
+        "youtube": "Du0wsPaiuhw",
+        "youtubeMusic": "Du0wsPaiuhw"
+      },
       "createdAt": 1675483436717,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -18201,6 +19009,23 @@
       "duration": "9:20",
       "artist": "Ren",
       "musicTitle": "Hi Ren",
+      "externalIds": {
+        "amazonMusic": "B0CDPR887R",
+        "amazonStore": "B0CDPR887R",
+        "audiomack": "22739654",
+        "boomplay": "111035609",
+        "deezer": "2194831797",
+        "appleMusic": "1677603556",
+        "itunes": "1677603556",
+        "napster": "tra.754879322",
+        "pandora": "TR:84512592",
+        "soundcloud": "user-740281605/ren-hi-ren",
+        "spotify": "3qpJzh7qdmHVokaYdeZWfR",
+        "tidal": "309105297",
+        "yandex": "112574351",
+        "youtube": "s_nc1IVoMxc",
+        "youtubeMusic": "s_nc1IVoMxc"
+      },
       "createdAt": 1746921483088,
       "userId": "d0e5c86f97e5dc247c758d750c1b51fb9703a9dd023d2b91aad02997159169bc"
     },
@@ -18209,8 +19034,18 @@
       "title": "Element Of Crime - Unscharf mit Katze",
       "channel": "Element of Crime",
       "duration": "3:47",
-      "artist": "Element of Crime",
+      "artist": "Element Of Crime",
       "musicTitle": "Unscharf mit Katze",
+      "externalIds": {
+        "amazonMusic": "B0BSRBY1G4",
+        "amazonStore": "B0BSRBY1G4",
+        "pandora": "TR:91971040",
+        "soundcloud": "element-of-crime-official/unscharf-mit-katze",
+        "spotify": "1O8m8n95IRtYnAcoOsi2iC",
+        "tidal": "286131351",
+        "youtube": "c6TuEfDF77g",
+        "youtubeMusic": "c6TuEfDF77g"
+      },
       "createdAt": 1675625468372,
       "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
@@ -18239,8 +19074,16 @@
       "title": "Junior H x Peso Pluma - El Azul [En Vivo]",
       "channel": "Rancho Humilde",
       "duration": "3:10",
-      "artist": "Junior H x Peso Pluma",
+      "artist": "Junior H",
       "musicTitle": "El Azul",
+      "externalIds": {
+        "appleMusic": "1670252659",
+        "itunes": "1670252659",
+        "soundcloud": "sonidos8d/junior-h-peso-pluma-el-azul-8d-audio",
+        "spotify": "1haJsMtoBhHfvuM7XWuT3W",
+        "youtube": "1fa_npv6y9I",
+        "youtubeMusic": "1fa_npv6y9I"
+      },
       "createdAt": 1676126965106,
       "userId": "7b38423ee2390619dd6c564f78e198553caa89b0d2208b6207b1a646bea01c67"
     },
@@ -18259,8 +19102,17 @@
       "title": "KHXOS - Tambrin (Official Video)",
       "channel": "KHXOS",
       "duration": "2:58",
-      "artist": "KHXOS",
+      "artist": "Khxos",
       "musicTitle": "Tambrin",
+      "externalIds": {
+        "amazonMusic": "B0DM4H436C",
+        "amazonStore": "B0DM4H436C",
+        "boomplay": "13710585",
+        "soundcloud": "khxos/tambrin",
+        "tidal": "397857545",
+        "youtube": "4rbNFpNWp1A",
+        "youtubeMusic": "4rbNFpNWp1A"
+      },
       "createdAt": 1676196111215,
       "userId": "7b38423ee2390619dd6c564f78e198553caa89b0d2208b6207b1a646bea01c67"
     },
@@ -18270,7 +19122,21 @@
       "channel": "MrMuseLyrics",
       "duration": "6:07",
       "artist": "Muse",
-      "musicTitle": "Knights of Cydonia",
+      "musicTitle": "Knights Of Cydonia",
+      "externalIds": {
+        "amazonMusic": "B002CO12RW",
+        "amazonStore": "B002CO12RW",
+        "audius": "bQZwy",
+        "anghami": "616714",
+        "boomplay": "2157183",
+        "pandora": "TR:5506671",
+        "soundcloud": "muse/knights-of-cydonia",
+        "spotify": "7ouMYWpwJ422jRcDASZB7P",
+        "tidal": "2844716",
+        "yandex": "120711",
+        "youtube": "GjXWtEqs8I4",
+        "youtubeMusic": "GjXWtEqs8I4"
+      },
       "createdAt": 1676311201815,
       "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
     },
@@ -18290,7 +19156,24 @@
       "channel": "Hugo Massien - Topic",
       "duration": "6:14",
       "artist": "Hugo Massien",
-      "musicTitle": "God Knows We Tried (Original Mix)",
+      "musicTitle": "God Knows We Tried",
+      "externalIds": {
+        "amazonMusic": "B08W2171JG",
+        "amazonStore": "B08W2171JG",
+        "audiomack": "58585178",
+        "anghami": "104338436",
+        "boomplay": "54478597",
+        "deezer": "1239819922",
+        "appleMusic": "1552315602",
+        "itunes": "1552315602",
+        "napster": "tra.562834257",
+        "pandora": "TR:42311305",
+        "spotify": "16Qahf6YMWvShPzZAfwUMB",
+        "tidal": "177077703",
+        "yandex": "78247288",
+        "youtube": "qlniwvcc0-w",
+        "youtubeMusic": "qlniwvcc0-w"
+      },
       "createdAt": 1676567979803,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -18301,6 +19184,25 @@
       "duration": "3:19",
       "artist": "Linkin Park",
       "musicTitle": "Lost",
+      "externalIds": {
+        "amazonMusic": "B0C2K344FN",
+        "amazonStore": "B0C2K344FN",
+        "audiomack": "22363982",
+        "audius": "pdqRvz",
+        "anghami": "1096231467",
+        "boomplay": "116486470",
+        "deezer": "2127426277",
+        "appleMusic": "1668488811",
+        "itunes": "1668488811",
+        "napster": "tra.742247007",
+        "pandora": "TR:120403372",
+        "soundcloud": "linkinpark/lost-1",
+        "spotify": "373gDROnujxNTFa1FojYIl",
+        "tidal": "273827986",
+        "yandex": "111586538",
+        "youtube": "7NK_JOkuSVY",
+        "youtubeMusic": "7NK_JOkuSVY"
+      },
       "createdAt": 1676585687700,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -18311,6 +19213,24 @@
       "duration": "3:40",
       "artist": "Paramore",
       "musicTitle": "Ignorance",
+      "externalIds": {
+        "amazonMusic": "B002Q5ZUUM",
+        "amazonStore": "B002Q5ZUUM",
+        "audiomack": "7256882",
+        "anghami": "346909",
+        "boomplay": "4055833",
+        "deezer": "4288422",
+        "appleMusic": "607337421",
+        "itunes": "607337421",
+        "napster": "tra.30070839",
+        "pandora": "TR:1423186",
+        "soundcloud": "paramore/ignorance",
+        "spotify": "47No93LxERvV6MtOAmQzHS",
+        "tidal": "3109259",
+        "yandex": "417638",
+        "youtube": "OH9A6tn_P6g",
+        "youtubeMusic": "OH9A6tn_P6g"
+      },
       "createdAt": 1676622166453,
       "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
     },
@@ -18321,6 +19241,19 @@
       "duration": "3:42",
       "artist": "The Automatic",
       "musicTitle": "Monster",
+      "externalIds": {
+        "amazonMusic": "B0D5N5DXWB",
+        "amazonStore": "B0D5N5DXWB",
+        "anghami": "1044313015",
+        "boomplay": "85966382",
+        "pandora": "TR:125902114",
+        "soundcloud": "theautomatic/monster",
+        "spotify": "6s3kEvE18DIURckoh0mWTZ",
+        "tidal": "217722500",
+        "yandex": "54444272",
+        "youtube": "o7X3LYGV_N8",
+        "youtubeMusic": "o7X3LYGV_N8"
+      },
       "createdAt": 1676623718980,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -18331,6 +19264,24 @@
       "duration": "4:57",
       "artist": "Le Trio Joubran",
       "musicTitle": "Masâr",
+      "externalIds": {
+        "amazonMusic": "B0014LT58W",
+        "amazonStore": "B0014LT58W",
+        "audiomack": "48530215",
+        "anghami": "45040316",
+        "boomplay": "6205394",
+        "deezer": "252015",
+        "appleMusic": "266318024",
+        "itunes": "266318024",
+        "napster": "tra.17001854",
+        "pandora": "TR:30797239",
+        "soundcloud": "le-trio-joubran/masar-1",
+        "spotify": "5FU96SFEwMyiKnLsPhoNuh",
+        "tidal": "14513907",
+        "yandex": "4425248",
+        "youtube": "LoiyWTtinbk",
+        "youtubeMusic": "LoiyWTtinbk"
+      },
       "createdAt": 1676882846487,
       "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
     },
@@ -18341,6 +19292,23 @@
       "duration": "5:58",
       "artist": "The Temptations",
       "musicTitle": "Plastic Man",
+      "externalIds": {
+        "amazonMusic": "B000WT666G",
+        "amazonStore": "B000WT666G",
+        "anghami": "3994883",
+        "boomplay": "2562096",
+        "deezer": "79083554",
+        "appleMusic": "1452806804",
+        "itunes": "1452806804",
+        "napster": "tra.149869991",
+        "pandora": "TR:7338173",
+        "soundcloud": "the-temptations/plastic-man-album-version",
+        "spotify": "4grYbgvt7AoHGZnvV4jaUS",
+        "tidal": "30263991",
+        "yandex": "21368471",
+        "youtube": "zq8nitcv0Uw",
+        "youtubeMusic": "zq8nitcv0Uw"
+      },
       "createdAt": 1676986669991,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -18351,6 +19319,23 @@
       "duration": "3:43",
       "artist": "Godsmack",
       "musicTitle": "Surrender",
+      "externalIds": {
+        "amazonMusic": "B0DZV2CSVN",
+        "amazonStore": "B0DZV2CSVN",
+        "audiomack": "20271536",
+        "anghami": "1098107667",
+        "boomplay": "102801914",
+        "deezer": "1912311937",
+        "appleMusic": "1649793582",
+        "itunes": "1649793582",
+        "napster": "tra.703081475",
+        "pandora": "TR:89011949",
+        "soundcloud": "godsmack-official/surrender",
+        "spotify": "1HFXb1wpN8cGuTrRn1idRd",
+        "tidal": "248337282",
+        "youtube": "JVI04HRxVrE",
+        "youtubeMusic": "JVI04HRxVrE"
+      },
       "createdAt": 1677062768637,
       "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
     },
@@ -18371,6 +19356,19 @@
       "duration": "5:27",
       "artist": "AC/DC",
       "musicTitle": "Whole Lotta Rosie",
+      "externalIds": {
+        "amazonMusic": "B00O75SGLE",
+        "amazonStore": "B00O75SGLE",
+        "anghami": "9921495",
+        "boomplay": "438977",
+        "pandora": "TR:1514273",
+        "soundcloud": "acdcofficial/whole-lotta-rosie",
+        "spotify": "4wYq5wugZDzQiMZQYG4wVB",
+        "tidal": "35986155",
+        "yandex": "830293",
+        "youtube": "BL58K-3XGKs",
+        "youtubeMusic": "BL58K-3XGKs"
+      },
       "createdAt": 1677063593039,
       "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
     },
@@ -18391,6 +19389,21 @@
       "duration": "3:15",
       "artist": "Papa Roach",
       "musicTitle": "Getting Away With Murder",
+      "externalIds": {
+        "amazonMusic": "B011QP7POG",
+        "amazonStore": "B011QP7POG",
+        "anghami": "16583503",
+        "boomplay": "2375061",
+        "appleMusic": "1440825651",
+        "itunes": "1440825651",
+        "pandora": "TR:7518545",
+        "soundcloud": "paparoach/getting-away-with-murder",
+        "spotify": "1x0AirtLjfVquI0A9iBVep",
+        "tidal": "48969290",
+        "yandex": "53096",
+        "youtube": "-rdmG0k8S8k",
+        "youtubeMusic": "-rdmG0k8S8k"
+      },
       "createdAt": 1677588682487,
       "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
     },
@@ -18400,7 +19413,16 @@
       "channel": "Michaud&Guns",
       "duration": "4:43",
       "artist": "Slightly Stoopid",
-      "musicTitle": "Mellow Mood (feat. G.Love)",
+      "musicTitle": "Mellow Mood (feat. G. Love)",
+      "externalIds": {
+        "amazonMusic": "B09JRX116V",
+        "amazonStore": "B09JRX116V",
+        "soundcloud": "slightlystoopid/mellow-mood-slightly-stoopid",
+        "spotify": "37iPZmwYnVe9eJW05jCtIr",
+        "tidal": "201688355",
+        "youtube": "HBh17_dmaFw",
+        "youtubeMusic": "HBh17_dmaFw"
+      },
       "createdAt": 1677599246694,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -18419,6 +19441,26 @@
       "title": "Skrillex, Fred again.. & Flowdan - Rumble [Official Audio]",
       "channel": "Skrillex",
       "duration": "2:27",
+      "artist": "Skrillex",
+      "musicTitle": "Rumble",
+      "externalIds": {
+        "amazonMusic": "B0FHQKM6R3",
+        "amazonStore": "B0FHQKM6R3",
+        "audiomack": "21782393",
+        "audius": "lpyxaaZ",
+        "anghami": "1174557067",
+        "boomplay": "113019151",
+        "deezer": "2077255967",
+        "appleMusic": "1672155007",
+        "itunes": "1672155007",
+        "pandora": "TR:88933228",
+        "soundcloud": "skrillex/skrillex-fred-again-flowdan-rumble",
+        "spotify": "1GfBLbAhZUWdseuDqhocmn",
+        "tidal": "267614328",
+        "yandex": "141075869",
+        "youtube": "7z25ZZ3DHds",
+        "youtubeMusic": "7z25ZZ3DHds"
+      },
       "createdAt": 1677668636333,
       "userId": "7b38423ee2390619dd6c564f78e198553caa89b0d2208b6207b1a646bea01c67"
     },
@@ -18427,8 +19469,18 @@
       "title": "LAZULI - KESTA (prod. King Doudou)",
       "channel": "Lazuli",
       "duration": "2:39",
-      "artist": "LAZULI",
-      "musicTitle": "KESTA",
+      "artist": "Lazuli",
+      "musicTitle": "Kesta",
+      "externalIds": {
+        "amazonMusic": "B09TPT4ZXB",
+        "amazonStore": "B09TPT4ZXB",
+        "appleMusic": "1612263257",
+        "itunes": "1612263257",
+        "spotify": "31sx0LVpkNQ9taDb8ojOJA",
+        "yandex": "102416782",
+        "youtube": "2zNdlwLMaVo",
+        "youtubeMusic": "2zNdlwLMaVo"
+      },
       "createdAt": 1677679270056,
       "userId": "7b38423ee2390619dd6c564f78e198553caa89b0d2208b6207b1a646bea01c67"
     },
@@ -18449,6 +19501,20 @@
       "duration": "3:19",
       "artist": "José González",
       "musicTitle": "The Forest",
+      "externalIds": {
+        "amazonMusic": "B00P1AZFVS",
+        "amazonStore": "B00P1AZFVS",
+        "deezer": "94462958",
+        "appleMusic": "933546163",
+        "itunes": "933546163",
+        "napster": "tra.166113682",
+        "pandora": "TR:3040026",
+        "spotify": "0H9sXkWkIQlCNqJhXhxpul",
+        "tidal": "40784077",
+        "yandex": "20684247",
+        "youtube": "FBqYsRdglnY",
+        "youtubeMusic": "FBqYsRdglnY"
+      },
       "createdAt": 1677761907601,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -18469,6 +19535,24 @@
       "duration": "4:33",
       "artist": "Red Hot Chili Peppers",
       "musicTitle": "Give It Away",
+      "externalIds": {
+        "amazonMusic": "B07VXKCTDR",
+        "amazonStore": "B07VXKCTDR",
+        "audiomack": "35390845",
+        "anghami": "415946",
+        "boomplay": "3992106",
+        "deezer": "725837",
+        "appleMusic": "947701034",
+        "itunes": "947701034",
+        "napster": "tra.20187778",
+        "pandora": "TR:5441366",
+        "soundcloud": "red-hot-chili-peppers-official/give-it-away",
+        "spotify": "0uppYCG86ajpV2hSR3dJJ0",
+        "tidal": "304847",
+        "yandex": "148349",
+        "youtube": "Mr_uHJPUlO8",
+        "youtubeMusic": "Mr_uHJPUlO8"
+      },
       "createdAt": 1678288088965,
       "userId": "7ac76b34356829cc427b08ee8b8849477531c9ee6d9bb26e3cc450f8e118a3f2"
     },
@@ -18477,6 +19561,8 @@
       "title": "Talamanam Sound Clash   Tabla Beat Science 2003 VS",
       "channel": "Miguel Gomiz",
       "duration": "1:11:57",
+      "artist": "Talamanam Sound Clash",
+      "musicTitle": "Tabla Beat Science 2003 VS",
       "createdAt": 1678308061106,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -18486,7 +19572,19 @@
       "channel": "Bar 25 Music",
       "duration": "5:38",
       "artist": "Capey Cash",
-      "musicTitle": "There Was A Bar (Original Mix)",
+      "musicTitle": "There Was a Bar",
+      "externalIds": {
+        "amazonMusic": "B07Y2H69H7",
+        "amazonStore": "B07Y2H69H7",
+        "appleMusic": "1480387759",
+        "itunes": "1480387759",
+        "pandora": "TR:2003977",
+        "soundcloud": "bar25/capey-cash-there-was-a-bar-original-mix-bar25-023cd",
+        "spotify": "4T15BwO4Z6MzIjcNMBadsR",
+        "tidal": "118602662",
+        "youtube": "5Zkxljy9kuo",
+        "youtubeMusic": "5Zkxljy9kuo"
+      },
       "createdAt": 1678379585566,
       "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
@@ -18505,8 +19603,24 @@
       "title": "Namika x Zaz - Liebe ist... (Official Video)",
       "channel": "Namika",
       "duration": "3:22",
-      "artist": "Namika x Zaz",
+      "artist": "Namika",
       "musicTitle": "Liebe ist...",
+      "externalIds": {
+        "amazonMusic": "B0BTK454FR",
+        "amazonStore": "B0BTK454FR",
+        "audiomack": "23031411",
+        "anghami": "1097432020",
+        "boomplay": "115706018",
+        "deezer": "2129882227",
+        "appleMusic": "1669071232",
+        "itunes": "1669071232",
+        "pandora": "TR:87796132",
+        "soundcloud": "donbasti/namika-x-zaz-liebe-isthardtekk",
+        "spotify": "4JyAfSflZjJQe9Wtjf9IoE",
+        "tidal": "274158993",
+        "youtube": "JjKPTkMhSpc",
+        "youtubeMusic": "JjKPTkMhSpc"
+      },
       "createdAt": 1678479161955,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -18517,6 +19631,18 @@
       "duration": "9:42",
       "artist": "Dead Can Dance",
       "musicTitle": "Mushin",
+      "externalIds": {
+        "amazonMusic": "B095XJV6N2",
+        "amazonStore": "B095XJV6N2",
+        "appleMusic": "1569454883",
+        "itunes": "1569454883",
+        "pandora": "TR:45367348",
+        "spotify": "2STM1HXaWknMYEjDVzAUpA",
+        "tidal": "244114684",
+        "yandex": "83876975",
+        "youtube": "BmpWw8dI1-Y",
+        "youtubeMusic": "BmpWw8dI1-Y"
+      },
       "createdAt": 1678482921494,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -18525,8 +19651,14 @@
       "title": "RARE EARTH - get ready (Complete Length - HQ Audio)",
       "channel": "aryterong1960",
       "duration": "21:29",
-      "artist": "RARE EARTH",
-      "musicTitle": "get ready",
+      "artist": "Rare Earth",
+      "musicTitle": "RARE EARTH - get ready (Complete Length - HQ Audio)",
+      "externalIds": {
+        "boomplay": "3326286",
+        "soundcloud": "jokejacobs/rare-earth-get-ready-complete-length-hq-audio",
+        "youtube": "q-Rg9xwZoo8",
+        "youtubeMusic": "q-Rg9xwZoo8"
+      },
       "createdAt": 1678836189432,
       "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
@@ -18547,6 +19679,20 @@
       "duration": "3:50",
       "artist": "blink-182",
       "musicTitle": "I Miss You",
+      "externalIds": {
+        "amazonMusic": "B01H7PS7B4",
+        "amazonStore": "B01H7PS7B4",
+        "anghami": "38476225",
+        "boomplay": "2249898",
+        "napster": "tra.231127781",
+        "pandora": "TR:5578348",
+        "soundcloud": "blink-182/i-miss-you-album-version",
+        "spotify": "1oTo3ijRbaDAtrjJrGAPSw",
+        "tidal": "62125171",
+        "yandex": "28106",
+        "youtube": "wNHGT-neTes",
+        "youtubeMusic": "wNHGT-neTes"
+      },
       "createdAt": 1678896470137,
       "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
     },
@@ -18556,7 +19702,15 @@
       "channel": "David GIRARD",
       "duration": "5:14",
       "artist": "Nina Hagen",
-      "musicTitle": "TV-glotzer (white punks on dope)",
+      "musicTitle": "TV-Glotzer (White Punks On Dope)",
+      "externalIds": {
+        "amazonMusic": "B0DMFS2SRM",
+        "amazonStore": "B0DMFS2SRM",
+        "soundcloud": "nina-hagen-official/tv-glotzer-white-punks-on-1",
+        "tidal": "398420307",
+        "youtube": "SfPQB-mtQDY",
+        "youtubeMusic": "SfPQB-mtQDY"
+      },
       "createdAt": 1713455407395,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -18605,6 +19759,8 @@
       "title": "Homage",
       "channel": "Jacob Garchik - Topic",
       "duration": "5:05",
+      "artist": "Jacob Garchik",
+      "musicTitle": "Homage",
       "createdAt": 1679604926449,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -18783,6 +19939,8 @@
       "title": "Ingo • Endlich frei | produziert von Sebastian S. | Musikvideo",
       "channel": "Scherf",
       "duration": "3:26",
+      "artist": "Ingo",
+      "musicTitle": "Endlich frei",
       "createdAt": 1682003227281,
       "userId": "7b38423ee2390619dd6c564f78e198553caa89b0d2208b6207b1a646bea01c67"
     },
@@ -19071,6 +20229,8 @@
       "title": "In The End of YMCA - Mashup of \"In The End\" and \"Y.M.C.A\" short",
       "channel": "Vincent Grimmly",
       "duration": "1:13",
+      "artist": "Linkin Park",
+      "musicTitle": "In The End of Y.M.C.A Mashup",
       "createdAt": 1683954132126,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -19169,6 +20329,8 @@
       "title": "Mario Batkovic - Quatere",
       "channel": "InvadaOfficial",
       "duration": "3:50",
+      "artist": "Mario Batkovic",
+      "musicTitle": "Quatere",
       "createdAt": 1685389166924,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -19680,6 +20842,8 @@
       "title": "Push Die Shit Weg",
       "channel": "MC MC - Topic",
       "duration": "2:21",
+      "artist": "MC MC",
+      "musicTitle": "Push Die Shit Weg",
       "createdAt": 1687539097767,
       "userId": "7b38423ee2390619dd6c564f78e198553caa89b0d2208b6207b1a646bea01c67"
     },
@@ -19758,6 +20922,8 @@
       "title": "Coyotes",
       "channel": "Don Edwards - Topic",
       "duration": "4:29",
+      "artist": "Don Edwards",
+      "musicTitle": "Coyotes",
       "createdAt": 1687903090119,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -19806,6 +20972,8 @@
       "title": "Mary Mary - Shackles (Praise You)",
       "channel": "Giuseppe Carbonara",
       "duration": "3:30",
+      "artist": "Mary Mary",
+      "musicTitle": "Shackles (Praise You)",
       "createdAt": 1688586175281,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -20344,6 +21512,8 @@
       "title": "paradise syndrome - moodphase5ive - dj dope and farmer brian's dub",
       "channel": "786Laika",
       "duration": "5:53",
+      "artist": "moodphase5ive",
+      "musicTitle": "paradise syndrome",
       "createdAt": 1691832107556,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -20526,6 +21696,8 @@
       "title": "Dritte Wahl - Bad K.",
       "channel": "OliFCSP",
       "duration": "4:25",
+      "artist": "Dritte Wahl",
+      "musicTitle": "Bad K.",
       "createdAt": 1693038349281,
       "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
@@ -21074,6 +22246,8 @@
       "title": "Trigga Finga",
       "channel": "Upgrade - Topic",
       "duration": "4:05",
+      "artist": "Trigga Finga",
+      "musicTitle": "Trigga Finga",
       "createdAt": 1696030774890,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -21232,6 +22406,8 @@
       "title": "Pustulated - Pathognomonic Purulency",
       "channel": "dez",
       "duration": "2:23",
+      "artist": "Pustulated",
+      "musicTitle": "Pathognomonic Purulency",
       "createdAt": 1696571903590,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21594,6 +22770,8 @@
       "title": "Guano Apes - Open Your Eyes (Official Video)",
       "channel": "Guano Apes",
       "duration": "3:11",
+      "artist": "Guano Apes",
+      "musicTitle": "Open Your Eyes",
       "createdAt": 1763285169613,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -21602,6 +22780,8 @@
       "title": "Album Of The Year",
       "channel": "The Good Life",
       "duration": "5:11",
+      "artist": "The Good Life",
+      "musicTitle": "Album Of The Year",
       "createdAt": 1763295238341,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -21610,6 +22790,8 @@
       "title": "Big Daddy Kane, RZA - Open Ya Eyes",
       "channel": "RZA",
       "duration": "2:52",
+      "artist": "Big Daddy Kane, RZA",
+      "musicTitle": "Open Ya Eyes",
       "createdAt": 1763322729832,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -21618,6 +22800,8 @@
       "title": "Munan - Mr. Taxi Driver (Official Lyric Video)",
       "channel": "Munan ♪",
       "duration": "3:32",
+      "artist": "Munan",
+      "musicTitle": "Mr. Taxi Driver",
       "createdAt": 1763335624781,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -21634,6 +22818,8 @@
       "title": "K-LONE - Barbarossa [ WYCH002 ]",
       "channel": "Seismic Excursions",
       "duration": "5:03",
+      "artist": "K-LONE",
+      "musicTitle": "Barbarossa",
       "createdAt": 1763336403744,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -21642,6 +22828,8 @@
       "title": "Tasmin Archer - Sleeping Satellite (Original Video)",
       "channel": "Alex G",
       "duration": "4:30",
+      "artist": "Tasmin Archer",
+      "musicTitle": "Sleeping Satellite",
       "createdAt": 1697452815628,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -21650,6 +22838,8 @@
       "title": "Anne Grimm - Cara sì tu mi consumi - Il trionfo di Camilla - Bononcini",
       "channel": "jovi1715",
       "duration": "4:04",
+      "artist": "Anne Grimm",
+      "musicTitle": "Cara sì tu mi consumi",
       "createdAt": 1736933853909,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21658,6 +22848,8 @@
       "title": "I DM U",
       "channel": "Loraine James",
       "duration": "4:24",
+      "artist": "Loraine James",
+      "musicTitle": "I DM U",
       "createdAt": 1713353398246,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -21666,6 +22858,8 @@
       "title": "Solo Banton & Irie Ites - Dem Gone (Official Video)",
       "channel": "IRIE ITES REGGAE TV",
       "duration": "3:38",
+      "artist": "Solo Banton",
+      "musicTitle": "Dem Gone",
       "createdAt": 1697473414009,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -21674,6 +22868,8 @@
       "title": "Skarra Mucci - Here I Come (Official Audio)",
       "channel": "Skarra Mucci Official",
       "duration": "3:31",
+      "artist": "Skarra Mucci",
+      "musicTitle": "Here I Come",
       "createdAt": 1697474035732,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -21682,6 +22878,8 @@
       "title": "Peer Gynt suite n°2 op 55 (extrait) : 4. Solveig's song",
       "channel": "France Musique concerts",
       "duration": "6:31",
+      "artist": "Edvard Grieg",
+      "musicTitle": "Solveig's Song",
       "createdAt": 1697489591926,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -21690,6 +22888,8 @@
       "title": "Mark",
       "channel": "Das Lumpenpack",
       "duration": "4:23",
+      "artist": "Mark",
+      "musicTitle": "Mark",
       "createdAt": 1697493444006,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21698,6 +22898,8 @@
       "title": "Dust It Off",
       "channel": "The Dø",
       "duration": "3:42",
+      "artist": "The Dø",
+      "musicTitle": "Dust It Off",
       "createdAt": 1697493675328,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21706,6 +22908,8 @@
       "title": "Stevie Ray Vaughan - Mary Had A Little Lamb (Live)",
       "channel": "Arturo Vaccarielli",
       "duration": "5:51",
+      "artist": "Stevie Ray Vaughan",
+      "musicTitle": "Mary Had A Little Lamb",
       "createdAt": 1697655421045,
       "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
     },
@@ -21714,6 +22918,8 @@
       "title": "Bastille, Hans Zimmer - Pompeii MMXXIII",
       "channel": "BASTILLEvideos",
       "duration": "5:39",
+      "artist": "Bastille",
+      "musicTitle": "Pompeii MMXXIII",
       "createdAt": 1697661763018,
       "userId": "3c35c6258cc0353b84bed5d9bb4d8a668f6959a8d9e9e2b431a81c33f6d0d7b7"
     },
@@ -21722,6 +22928,8 @@
       "title": "Duke Ellington & John Coltrane - In a sentimental mood",
       "channel": "nardewww",
       "duration": "4:19",
+      "artist": "Duke Ellington & John Coltrane",
+      "musicTitle": "In a Sentimental Mood",
       "createdAt": 1697707956984,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21730,6 +22938,8 @@
       "title": "Marvin Wassen - Max Payne 3",
       "channel": "PrimevalMarvin",
       "duration": "4:14",
+      "artist": "Marvin Wassen",
+      "musicTitle": "Max Payne 3",
       "createdAt": 1697711433625,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -21738,6 +22948,8 @@
       "title": "G Ras & DUB Fx - Real Revolutionary/Life Over Death medley",
       "channel": "Dub FX",
       "duration": "6:59",
+      "artist": "G Ras & DUB Fx",
+      "musicTitle": "Real Revolutionary/Life Over Death medley",
       "createdAt": 1697735254377,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -21746,6 +22958,8 @@
       "title": "YA NA HA - GBB23: World League Crew Wildcard | Free your life | #GBB23",
       "channel": "Petr Sarancha ",
       "duration": "3:33",
+      "artist": "YA NA HA",
+      "musicTitle": "World League Crew Wildcard",
       "createdAt": 1697735368481,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -21754,6 +22968,8 @@
       "title": "Riddle Me This",
       "channel": "Aaron Parks",
       "duration": "2:44",
+      "artist": "Aaron Parks",
+      "musicTitle": "Riddle Me This",
       "createdAt": 1697756895157,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -21762,6 +22978,8 @@
       "title": "Robin – GBB23: World League Loopstation Wildcard (ROUND 2) | Us",
       "channel": "Robin Cavailles",
       "duration": "3:38",
+      "artist": "Robin Cavailles",
+      "musicTitle": "GBB23: World League Loopstation Wildcard (ROUND 2)",
       "createdAt": 1697759001781,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -21770,6 +22988,8 @@
       "title": "Emma Ruth Rundle - Darkhorse (full version)",
       "channel": "shaxan",
       "duration": "6:13",
+      "artist": "Emma Ruth Rundle",
+      "musicTitle": "Darkhorse",
       "createdAt": 1697825155645,
       "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
     },
@@ -21778,6 +22998,8 @@
       "title": "Afion - Dej mi boze",
       "channel": "aquariusrecordshr",
       "duration": "5:31",
+      "artist": "Afion",
+      "musicTitle": "Dej mi boze",
       "createdAt": 1697833143237,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21786,6 +23008,8 @@
       "title": "Jun Fukamachi - Quark (1980)",
       "channel": "Terminal Passage",
       "duration": "42:45",
+      "artist": "Jun Fukamachi",
+      "musicTitle": "Quark",
       "createdAt": 1698183739171,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21794,6 +23018,8 @@
       "title": "Ylvis - The Fox (What Does The Fox Say?) [Official music video HD]",
       "channel": "TV Norge",
       "duration": "3:45",
+      "artist": "Ylvis",
+      "musicTitle": "The Fox (What Does The Fox Say?)",
       "createdAt": 1697996924880,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -21802,6 +23028,8 @@
       "title": "AMELINHA - GEMEDEIRA",
       "channel": "Rocir Santiago",
       "duration": "3:34",
+      "artist": "Amelinha",
+      "musicTitle": "Gemedeira",
       "createdAt": 1698182093371,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21810,6 +23038,8 @@
       "title": "Malia J - Smells Like Teen Spirit (Black Widow Soundtrack)",
       "channel": "The Wizard",
       "duration": "3:57",
+      "artist": "Malia J",
+      "musicTitle": "Smells Like Teen Spirit",
       "createdAt": 1698234267398,
       "userId": "513ac2e89742f7ce701ae0eb930c627bbc259690fb9622aaec4c6cd13a5eaad8"
     },
@@ -21818,6 +23048,8 @@
       "title": "Klavdia Petrivna, KAVA — Знайди мене (remix)",
       "channel": "Klavdia Petrivna",
       "duration": "2:19",
+      "artist": "Klavdia Petrivna",
+      "musicTitle": "Знайди мене (remix)",
       "createdAt": 1698248744262,
       "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
     },
@@ -21826,6 +23058,8 @@
       "title": "Jimi Hendrix - Red House (Studio Version)",
       "channel": "Alistair Dunnington",
       "duration": "3:52",
+      "artist": "Jimi Hendrix",
+      "musicTitle": "Red House",
       "createdAt": 1698340752198,
       "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
     },
@@ -21834,6 +23068,8 @@
       "title": "King Gizzard & The Lizard Wizard - Self-Immolate (Official Video)",
       "channel": "Flightless Records",
       "duration": "4:29",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "musicTitle": "Self-Immolate",
       "createdAt": 1698412381557,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21842,6 +23078,8 @@
       "title": "Kvelertak - Krøterveg Te Helvete [OFFICIAL VIDEO]",
       "channel": "Kvelertak",
       "duration": "4:40",
+      "artist": "Kvelertak",
+      "musicTitle": "Krøterveg Te Helvete",
       "createdAt": 1698413396891,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21850,6 +23088,8 @@
       "title": "The Shins - Phantom Limb [OFFICIAL VIDEO]",
       "channel": "Sub Pop",
       "duration": "4:09",
+      "artist": "The Shins",
+      "musicTitle": "Phantom Limb",
       "createdAt": 1698428060863,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -21858,6 +23098,8 @@
       "title": "Laundromat - Bureau de Fatigue",
       "channel": "LAUNDROMAT",
       "duration": "3:44",
+      "artist": "LAUNDROMAT",
+      "musicTitle": "Bureau de Fatigue",
       "createdAt": 1698430660651,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -21866,6 +23108,8 @@
       "title": "Carl Orff - Gassenhauer",
       "channel": "ElMiusikman",
       "duration": "3:05",
+      "artist": "Carl Orff",
+      "musicTitle": "Gassenhauer",
       "createdAt": 1698591982368,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -21874,6 +23118,8 @@
       "title": "Passafire - Stash (Lyric Video)",
       "channel": "passafiretheband",
       "duration": "3:27",
+      "artist": "Passafire",
+      "musicTitle": "Stash",
       "createdAt": 1698773659671,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21882,6 +23128,8 @@
       "title": "Прятки",
       "channel": "ЙОКО - Topic",
       "duration": "3:03",
+      "artist": "ЙОКО",
+      "musicTitle": "Прятки",
       "createdAt": 1698881736527,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21890,6 +23138,8 @@
       "title": "Neroche - Take This Book And Burn It",
       "channel": "András Hajdu",
       "duration": "2:37",
+      "artist": "Neroche",
+      "musicTitle": "Take This Book And Burn It",
       "createdAt": 1698881816275,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21898,6 +23148,8 @@
       "title": "Chimpo - All Of The Above",
       "channel": "Drum&BassArena",
       "duration": "3:00",
+      "artist": "Chimpo",
+      "musicTitle": "All Of The Above",
       "createdAt": 1698881878634,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21906,6 +23158,8 @@
       "title": "We Don't Play No Mo",
       "channel": "1 9 0 5 - Topic",
       "duration": "3:30",
+      "artist": "1 9 0 5",
+      "musicTitle": "We Don't Play No Mo",
       "createdAt": 1698930250039,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -21914,6 +23168,8 @@
       "title": "Alok & Bhaskar - FUEGO (Original Mix)",
       "channel": "Alok",
       "duration": "3:41",
+      "artist": "Alok & Bhaskar",
+      "musicTitle": "FUEGO (Original Mix)",
       "createdAt": 1698967975638,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21922,6 +23178,8 @@
       "title": "Laika - bad times",
       "channel": "nonitlinquii",
       "duration": "4:52",
+      "artist": "Laika",
+      "musicTitle": "bad times",
       "createdAt": 1698968376530,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21930,6 +23188,8 @@
       "title": "Afro Blue (Remastered 1959)",
       "channel": "Abbey Lincoln - Topic",
       "duration": "3:17",
+      "artist": "Abbey Lincoln",
+      "musicTitle": "Afro Blue",
       "createdAt": 1699031050605,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -21938,6 +23198,8 @@
       "title": "Junie Morrison - Suzie Thundertussy (Original)",
       "channel": "Constipateduck",
       "duration": "3:42",
+      "artist": "Junie Morrison",
+      "musicTitle": "Suzie Thundertussy",
       "createdAt": 1699031474156,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -21946,6 +23208,8 @@
       "title": "Harry Mudie And King Tubby - Heavy Duty Dub",
       "channel": "Awkmusik",
       "duration": "3:03",
+      "artist": "Harry Mudie And King Tubby",
+      "musicTitle": "Heavy Duty Dub",
       "createdAt": 1699031737015,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -21954,6 +23218,8 @@
       "title": "Kush Jones - Grateful",
       "channel": "Le Musicologue",
       "duration": "3:16",
+      "artist": "Kush Jones",
+      "musicTitle": "Grateful",
       "createdAt": 1699069525045,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -21962,6 +23228,8 @@
       "title": "DJ Rashad - Only One (feat. DJ Spinn & Taso) (Official Audio)",
       "channel": "DJ Rashad",
       "duration": "3:46",
+      "artist": "DJ Rashad",
+      "musicTitle": "Only One",
       "createdAt": 1699070008105,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -21970,6 +23238,8 @@
       "title": "DJ Paypal - 'Ahhhhhhh'",
       "channel": "Brainfeeder",
       "duration": "5:38",
+      "artist": "DJ Paypal",
+      "musicTitle": "Ahhhhhhh",
       "createdAt": 1699070224382,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -21978,6 +23248,8 @@
       "title": "Love and Death",
       "channel": "Ebo Taylor - Topic",
       "duration": "6:56",
+      "artist": "Ebo Taylor",
+      "musicTitle": "Love and Death",
       "createdAt": 1699271479350,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21986,6 +23258,8 @@
       "title": "DaiQing Tana & HAYA BAND - Silent Sky",
       "channel": "TheFlyingHorse1",
       "duration": "6:02",
+      "artist": "DaiQing Tana & HAYA BAND",
+      "musicTitle": "Silent Sky",
       "createdAt": 1699272879647,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -21994,6 +23268,8 @@
       "title": "Renewal of Hope",
       "channel": "Rogier de Nijs - Topic",
       "duration": "4:14",
+      "artist": "Rogier de Nijs",
+      "musicTitle": "Renewal of Hope",
       "createdAt": 1699363207151,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -22002,6 +23278,8 @@
       "title": "Zombie Nation - Kernkraft 400",
       "channel": "tistlo",
       "duration": "3:31",
+      "artist": "Zombie Nation",
+      "musicTitle": "Kernkraft 400",
       "createdAt": 1699382150279,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -22010,6 +23288,8 @@
       "title": "FETISH - Come Check This",
       "channel": "Big Beat Records",
       "duration": "3:12",
+      "artist": "FETISH",
+      "musicTitle": "Come Check This",
       "createdAt": 1699382548049,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -22018,6 +23298,8 @@
       "title": "Don’t Run Into The Dark So Quick",
       "channel": "Jon Bap - Topic",
       "duration": "3:19",
+      "artist": "Jon Bap",
+      "musicTitle": "Don’t Run Into The Dark So Quick",
       "createdAt": 1699435301232,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22026,6 +23308,8 @@
       "title": "John Klemmer - Free Soul (1969)",
       "channel": "Ultra Harmonics",
       "duration": "5:28",
+      "artist": "John Klemmer",
+      "musicTitle": "Free Soul",
       "createdAt": 1699436009652,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22034,6 +23318,8 @@
       "title": "iconic storage (2019 Remastering)",
       "channel": "Ryuichi Sakamoto",
       "duration": "4:44",
+      "artist": "Ryuichi Sakamoto",
+      "musicTitle": "iconic storage",
       "createdAt": 1699436342150,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22042,6 +23328,8 @@
       "title": "KarmawiN - Bushido",
       "channel": "S!X - Music",
       "duration": "3:35",
+      "artist": "KarmawiN",
+      "musicTitle": "Bushido",
       "createdAt": 1699450602909,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -22050,6 +23338,8 @@
       "title": "The Elysian Spring - Lotus",
       "channel": "Rhythm andlife",
       "duration": "8:08",
+      "artist": "The Elysian Spring",
+      "musicTitle": "Lotus",
       "createdAt": 1699482768942,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22058,6 +23348,8 @@
       "title": "Dezron Douglas & Brandee Younger ‎- Equinox",
       "channel": "The Shuffler",
       "duration": "5:38",
+      "artist": "Dezron Douglas & Brandee Younger",
+      "musicTitle": "Equinox",
       "createdAt": 1699482837476,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22066,6 +23358,8 @@
       "title": "Ólafur Arnalds - 3055 Official Music Video",
       "channel": "Ólafur Arnalds",
       "duration": "4:27",
+      "artist": "Ólafur Arnalds",
+      "musicTitle": "3055",
       "createdAt": 1699623369364,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22074,6 +23368,8 @@
       "title": "Tangerine Dream - Invisible Limits",
       "channel": "NieelzzZ",
       "duration": "11:26",
+      "artist": "Tangerine Dream",
+      "musicTitle": "Invisible Limits",
       "createdAt": 1699625126469,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22082,6 +23378,8 @@
       "title": "Magic On My Back",
       "channel": "Mykki Blanco",
       "duration": "2:48",
+      "artist": "Mykki Blanco",
+      "musicTitle": "Magic On My Back",
       "createdAt": 1699639381716,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22090,6 +23388,8 @@
       "title": "Nick Waterhouse - Monterey (Official Stream)",
       "channel": "Innovative Leisure",
       "duration": "3:29",
+      "artist": "Nick Waterhouse",
+      "musicTitle": "Monterey",
       "createdAt": 1699640994405,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22098,6 +23398,8 @@
       "title": "Truckstop Queen",
       "channel": "Rachel Sweet - Topic",
       "duration": "3:13",
+      "artist": "Rachel Sweet",
+      "musicTitle": "Truckstop Queen",
       "createdAt": 1699793913984,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -22114,6 +23416,8 @@
       "title": "The weeknd🎵 Best music 🎵Electronic dance music🎵Trap music🎵New music 🎵Musik🎵Rave🎵edm togel",
       "channel": "Anton Babin",
       "duration": "2:00",
+      "artist": "The Weeknd",
+      "musicTitle": "Best music",
       "createdAt": 1699868927178,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -22122,6 +23426,8 @@
       "title": "Hammasratas",
       "channel": "Stam1na",
       "duration": "4:09",
+      "artist": "Stam1na",
+      "musicTitle": "Hammasratas",
       "createdAt": 1699984489130,
       "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
     },
@@ -22130,6 +23436,8 @@
       "title": "Starship - We Built This City (Official Music Video) [HD]",
       "channel": "RHINO",
       "duration": "4:59",
+      "artist": "Starship",
+      "musicTitle": "We Built This City",
       "createdAt": 1699985576479,
       "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
     },
@@ -22138,6 +23446,8 @@
       "title": "Vivaldi, Gloria RV 589",
       "channel": "Publio Ovidio",
       "duration": "30:10",
+      "artist": "Vivaldi",
+      "musicTitle": "Gloria RV 589",
       "createdAt": 1700213167943,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -22146,6 +23456,8 @@
       "title": "OST RoboCop - Track 04 - Rock Shop",
       "channel": "eastgermanunderdog",
       "duration": "3:49",
+      "artist": "Rock Shop",
+      "musicTitle": "Track 04 - Rock Shop",
       "createdAt": 1700214547704,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -22154,6 +23466,8 @@
       "title": "Radiohead - House of Cards",
       "channel": "Radiohead",
       "duration": "4:34",
+      "artist": "Radiohead",
+      "musicTitle": "House of Cards",
       "createdAt": 1700218988280,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22162,6 +23476,8 @@
       "title": "Queen - Heaven For Everyone (Official Video)",
       "channel": "Queen Official",
       "duration": "4:44",
+      "artist": "Queen",
+      "musicTitle": "Heaven For Everyone",
       "createdAt": 1700219341859,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22170,6 +23486,8 @@
       "title": "Justice - Genesis - † (Official Audio)",
       "channel": "Justice",
       "duration": "3:55",
+      "artist": "Justice",
+      "musicTitle": "Genesis",
       "createdAt": 1700220210709,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22178,6 +23496,8 @@
       "title": "Simian - The Wisp (Video)",
       "channel": "PiotrK",
       "duration": "3:45",
+      "artist": "Simian",
+      "musicTitle": "The Wisp",
       "createdAt": 1700425616605,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22186,6 +23506,8 @@
       "title": "Måneskin - BABY SAID (Lyric Video)",
       "channel": "Måneskin Official",
       "duration": "2:45",
+      "artist": "Måneskin",
+      "musicTitle": "BABY SAID",
       "createdAt": 1700470170768,
       "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
     },
@@ -22194,6 +23516,8 @@
       "title": "Tom Waits - Rain Dogs",
       "channel": "Scifo Sandro",
       "duration": "3:00",
+      "artist": "Tom Waits",
+      "musicTitle": "Rain Dogs",
       "createdAt": 1700471299862,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -22202,6 +23526,8 @@
       "title": "Bright Sunny Day",
       "channel": "The Streets",
       "duration": "3:21",
+      "artist": "The Streets",
+      "musicTitle": "Bright Sunny Day",
       "createdAt": 1700484900445,
       "userId": "d0e5c86f97e5dc247c758d750c1b51fb9703a9dd023d2b91aad02997159169bc"
     },
@@ -22210,6 +23536,8 @@
       "title": "Ali Farka Touré - Penda Yoro (2019 Remaster) (Official Audio)",
       "channel": "World Circuit Records",
       "duration": "5:25",
+      "artist": "Ali Farka Touré",
+      "musicTitle": "Penda Yoro",
       "createdAt": 1700510991956,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -22218,6 +23546,8 @@
       "title": "Radikal Guru - Lion Returns",
       "channel": "Moonshine Recordings",
       "duration": "3:42",
+      "artist": "Radikal Guru",
+      "musicTitle": "Lion Returns",
       "createdAt": 1700646064801,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22226,6 +23556,8 @@
       "title": "Regenlied",
       "channel": "Angelika Mann - Topic",
       "duration": "2:29",
+      "artist": "Angelika Mann",
+      "musicTitle": "Regenlied",
       "createdAt": 1700652845825,
       "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
     },
@@ -22234,6 +23566,8 @@
       "title": "Fader Gladiator -- Battle Of The Planets",
       "channel": "Sam",
       "duration": "1:47",
+      "artist": "Fader Gladiator",
+      "musicTitle": "Battle Of The Planets",
       "createdAt": 1700659204299,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -22242,6 +23576,8 @@
       "title": "The Inversion",
       "channel": "The Aggrovators - Topic",
       "duration": "3:59",
+      "artist": "The Aggrovators",
+      "musicTitle": "The Inversion",
       "createdAt": 1700662819291,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22250,6 +23586,8 @@
       "title": "Dexter - Homer Flip",
       "channel": "MustardMan67",
       "duration": "2:28",
+      "artist": "Dexter",
+      "musicTitle": "Homer Flip",
       "createdAt": 1700669447797,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22258,6 +23596,8 @@
       "title": "On Her Majesty's Secret Service",
       "channel": "Hideki Matsutake - Topic",
       "duration": "2:58",
+      "artist": "James Bond",
+      "musicTitle": "On Her Majesty's Secret Service",
       "createdAt": 1700669732999,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22266,6 +23606,8 @@
       "title": "Disrupt - Bomb 20",
       "channel": "aluci",
       "duration": "4:14",
+      "artist": "Disrupt",
+      "musicTitle": "Bomb 20",
       "createdAt": 1700728725553,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -22274,6 +23616,8 @@
       "title": "Bad Wolves - Zombie (Official Video)",
       "channel": "Better Noise Music",
       "duration": "4:36",
+      "artist": "Bad Wolves",
+      "musicTitle": "Zombie",
       "createdAt": 1700840082775,
       "userId": "513ac2e89742f7ce701ae0eb930c627bbc259690fb9622aaec4c6cd13a5eaad8"
     },
@@ -22282,6 +23626,8 @@
       "title": "El Deux - Gletscher (Mehmet Aslan Edit)",
       "channel": "Strut Records",
       "duration": "6:41",
+      "artist": "El Deux",
+      "musicTitle": "Gletscher",
       "createdAt": 1700879825461,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22290,6 +23636,8 @@
       "title": "Battleships",
       "channel": "Travis",
       "duration": "4:12",
+      "artist": "Travis",
+      "musicTitle": "Battleships",
       "createdAt": 1701082188846,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -22298,6 +23646,8 @@
       "title": "Queen Chimera Pt.1",
       "channel": "Jon Bap - Topic",
       "duration": "3:45",
+      "artist": "Queen Chimera",
+      "musicTitle": "Pt.1",
       "createdAt": 1701101469392,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22306,6 +23656,8 @@
       "title": "Shirley Ann Lee : There's A Light",
       "channel": "Mr Kleeg",
       "duration": "1:59",
+      "artist": "Shirley Ann Lee",
+      "musicTitle": "There's A Light",
       "createdAt": 1701107635706,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22314,6 +23666,8 @@
       "title": "Yusuf / Cat Stevens - Father & Son",
       "channel": "Yusuf / Cat Stevens",
       "duration": "3:41",
+      "artist": "Yusuf / Cat Stevens",
+      "musicTitle": "Father & Son",
       "createdAt": 1701162259814,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -22322,6 +23676,8 @@
       "title": "KAPELLE PETRA  - GEBURTSTAG",
       "channel": "kAPELLE PETRA",
       "duration": "2:43",
+      "artist": "KAPELLE PETRA",
+      "musicTitle": "GEBURTSTAG",
       "createdAt": 1701209719421,
       "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
     },
@@ -22330,6 +23686,8 @@
       "title": "Love'n'Joy - Come About (Official Music Video)",
       "channel": "Love'n'Joy Band",
       "duration": "5:33",
+      "artist": "Love'n'Joy",
+      "musicTitle": "Come About",
       "createdAt": 1701342099983,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -22338,6 +23696,8 @@
       "title": "The Pogues - Dirty Old Town",
       "channel": "ThePoguesOfficial",
       "duration": "3:59",
+      "artist": "The Pogues",
+      "musicTitle": "Dirty Old Town",
       "createdAt": 1701378126381,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -22346,6 +23706,8 @@
       "title": "Between The Bars",
       "channel": "Elliott Smith - Topic",
       "duration": "2:23",
+      "artist": "Elliott Smith",
+      "musicTitle": "Between The Bars",
       "createdAt": 1701435262269,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
@@ -22362,6 +23724,8 @@
       "title": "Nightmares on Wax - Les Nuits",
       "channel": "Nightmares On Wax",
       "duration": "3:37",
+      "artist": "Nightmares on Wax",
+      "musicTitle": "Les Nuits",
       "createdAt": 1701484325301,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22370,6 +23734,8 @@
       "title": "Cotton Eyed Joe",
       "channel": "Terry Callier - Topic",
       "duration": "5:27",
+      "artist": "Terry Callier",
+      "musicTitle": "Cotton Eyed Joe",
       "createdAt": 1701640122507,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22378,6 +23744,8 @@
       "title": "Doo Wop",
       "channel": "Anna Butterss",
       "duration": "2:50",
+      "artist": "Anna Butterss",
+      "musicTitle": "Doo Wop",
       "createdAt": 1701641674072,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22386,6 +23754,8 @@
       "title": "Cocteau Twins - Watchlar (1990)",
       "channel": "Skooma Smuggler",
       "duration": "3:18",
+      "artist": "Cocteau Twins",
+      "musicTitle": "Watchlar",
       "createdAt": 1701641986980,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22394,6 +23764,8 @@
       "title": "Shy Boy - JD Mcpherson",
       "channel": "Héctor López",
       "duration": "2:55",
+      "artist": "Shy Boy",
+      "musicTitle": "JD Mcpherson",
       "createdAt": 1701936794641,
       "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
     },
@@ -22402,6 +23774,8 @@
       "title": "Mundwerk-Crew ft. Stefan Dettl \"Weiss-Blauer\" (offizielles Musikvideo)",
       "channel": "MWCBAVARIA",
       "duration": "3:52",
+      "artist": "Mundwerk-Crew",
+      "musicTitle": "Weiss-Blauer",
       "createdAt": 1702029007158,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -22410,6 +23784,8 @@
       "title": "Alligatoah - SO RAUS feat. Fred Durst",
       "channel": "Alligatoah",
       "duration": "3:48",
+      "artist": "Alligatoah",
+      "musicTitle": "SO RAUS feat. Fred Durst",
       "createdAt": 1702040719401,
       "userId": "513ac2e89742f7ce701ae0eb930c627bbc259690fb9622aaec4c6cd13a5eaad8"
     },
@@ -22418,6 +23794,8 @@
       "title": "Jazzbois - Caterpillar",
       "channel": "Collected Compositions ",
       "duration": "3:07",
+      "artist": "Jazzbois",
+      "musicTitle": "Caterpillar",
       "createdAt": 1702115309445,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22426,6 +23804,8 @@
       "title": "Raisins Under the Sun (feat. Shabaka Hutchings)",
       "channel": "Yussef Dayes",
       "duration": "4:32",
+      "artist": "Yussef Dayes",
+      "musicTitle": "Raisins Under the Sun",
       "createdAt": 1702134615778,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22434,6 +23814,8 @@
       "title": "Yussef Dayes - Black Classical Music ft. Venna & Charlie Stacey [OFFICIAL VIDEO]",
       "channel": "Yussef Dayes",
       "duration": "5:38",
+      "artist": "Yussef Dayes",
+      "musicTitle": "Black Classical Music",
       "createdAt": 1702134615778,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22442,6 +23824,8 @@
       "title": "Web Web x Max Herre - Satori Ways (feat. Brandee Younger)",
       "channel": "Compost Records",
       "duration": "5:38",
+      "artist": "Web Web x Max Herre",
+      "musicTitle": "Satori Ways",
       "createdAt": 1702115602367,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22450,6 +23834,8 @@
       "title": "Sun Touch",
       "channel": "Herbie Hancock",
       "duration": "5:08",
+      "artist": "Herbie Hancock",
+      "musicTitle": "Sun Touch",
       "createdAt": 1702131416027,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22458,6 +23844,8 @@
       "title": "Love Reality",
       "channel": "OneDa music",
       "duration": "3:45",
+      "artist": "OneDa",
+      "musicTitle": "Love Reality",
       "createdAt": 1702134915763,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22466,6 +23854,8 @@
       "title": "Let’s See How Things Go",
       "channel": "Jaakko Eino Kalevi",
       "duration": "13:09",
+      "artist": "Jaakko Eino Kalevi",
+      "musicTitle": "Let’s See How Things Go",
       "createdAt": 1702275704137,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22474,6 +23864,8 @@
       "title": "Kool And The Gang - Winter Sadness",
       "channel": "Crustybrown",
       "duration": "5:03",
+      "artist": "Kool And The Gang",
+      "musicTitle": "Winter Sadness",
       "createdAt": 1702206281842,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22482,6 +23874,8 @@
       "title": "I Trawl the Megahertz",
       "channel": "Prefab Sprout",
       "duration": "22:06",
+      "artist": "Prefab Sprout",
+      "musicTitle": "I Trawl the Megahertz",
       "createdAt": 1702234045832,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22490,6 +23884,8 @@
       "title": "Chrome Sparks- Marijuana",
       "channel": "chrome sparks",
       "duration": "3:02",
+      "artist": "Chrome Sparks",
+      "musicTitle": "Marijuana",
       "createdAt": 1702405572917,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22498,6 +23894,8 @@
       "title": "Duo Clari Polka",
       "channel": "Release - Topic",
       "duration": "2:59",
+      "artist": "Duo Clari",
+      "musicTitle": "Polka",
       "createdAt": 1702450381927,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22514,6 +23912,8 @@
       "title": "Sam Cooke - A Change Is Gonna Come (Official Lyric Video)",
       "channel": "Sam Cooke",
       "duration": "3:11",
+      "artist": "Sam Cooke",
+      "musicTitle": "A Change Is Gonna Come",
       "createdAt": 1702574160510,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -22522,6 +23922,8 @@
       "title": "Crosby, Stills  Nash - Helplessly Hoping",
       "channel": "Stephen McElvain",
       "duration": "2:42",
+      "artist": "Crosby, Stills, Nash",
+      "musicTitle": "Helplessly Hoping",
       "createdAt": 1702589270889,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -22530,6 +23932,8 @@
       "title": "Pas De Garçon",
       "channel": "Jon.K - Topic",
       "duration": "7:36",
+      "artist": "Jon.K",
+      "musicTitle": "Pas De Garçon",
       "createdAt": 1702591077293,
       "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
@@ -22546,6 +23950,8 @@
       "title": "Crackazat - When We Last Met",
       "channel": "Heist Recordings",
       "duration": "4:28",
+      "artist": "Crackazat",
+      "musicTitle": "When We Last Met",
       "createdAt": 1702624275592,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -22554,6 +23960,8 @@
       "title": "Technotronic - Get Up (Before The Night Is Over) (Ya Kid K) (12\" Extended Version) (1990) HD",
       "channel": "STAT CHILE AMERICA",
       "duration": "5:39",
+      "artist": "Technotronic",
+      "musicTitle": "Get Up (Before The Night Is Over)",
       "createdAt": 1702678807675,
       "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
@@ -22562,6 +23970,8 @@
       "title": "AC/DC - Can I Sit Next To You Girl - Promo Video - 1974",
       "channel": "Acadaca Rock",
       "duration": "3:15",
+      "artist": "AC/DC",
+      "musicTitle": "Can I Sit Next To You Girl",
       "createdAt": 1702832979106,
       "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
@@ -24582,5 +25992,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2025-11-18T10:47:41.133Z"
+  "lastFetched": "2025-11-18T20:43:05.837Z"
 }

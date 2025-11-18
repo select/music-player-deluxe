@@ -71,7 +71,7 @@
 
 			<!-- Scroll Indicator Overlay -->
 			<div
-				class="group-hover:block hidden absolute inset-0 flex flex-col items-center justify-center pointer-events-none transition-opacity duration-200"
+				class="group-hover:flex hidden absolute inset-0 flex-col items-center justify-center pointer-events-none transition-opacity duration-200"
 			>
 				<!-- Zoom In Arrow (Up) -->
 				<div class="flex flex-col items-center mb-4 text-accent animate-pulse">
