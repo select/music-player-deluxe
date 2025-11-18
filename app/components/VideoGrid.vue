@@ -148,17 +148,17 @@ const props = withDefaults(
 	},
 );
 
-// Template refs for video elements
-const videoElements = ref<HTMLElement[]>([]);
-
-// Track visible videos with single reactive variable
-const visibleVideos = ref<Video[]>([]);
-
 // Emit visible videos when they change
 const emit = defineEmits<{
 	play: [video: Video];
 	visibleVideosChange: [videos: Video[]];
 }>();
+
+// Template refs for video elements
+const videoElements = ref<HTMLElement[]>([]);
+
+// Track visible videos with single reactive variable
+const visibleVideos = ref<Video[]>([]);
 
 // Map to track visibility state by video ID
 const visibilityStates = reactive(new Map<string, boolean>());
@@ -230,13 +230,7 @@ const selectedPlatformIds = computed(
 	() => settings.value.selectedPlatforms || [],
 );
 
-// Expose visible videos for external access
-defineExpose({
-	visibleVideos: readonly(visibleVideos),
-});
-
 dayjs.extend(relativeTime);
-
 // Format timestamp to readable date using dayjs
 const formatDate = (timestamp: number): string => {
 	return dayjs(timestamp).fromNow();

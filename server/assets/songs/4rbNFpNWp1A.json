@@ -1,6 +1,15 @@
 {
   "youtubeId": "4rbNFpNWp1A",
   "title": "Tambrin",
-  "artist": "KHXOS",
-  "lastFetched": "2025-11-17T02:24:59.905Z"
+  "artist": "Khxos",
+  "lastFetched": "2025-11-18T20:14:50.867Z",
+  "odesli": {
+    "amazonMusic": "B0DM4H436C",
+    "amazonStore": "B0DM4H436C",
+    "boomplay": "13710585",
+    "soundcloud": "khxos/tambrin",
+    "tidal": "397857545",
+    "youtube": "4rbNFpNWp1A",
+    "youtubeMusic": "4rbNFpNWp1A"
+  }
 }

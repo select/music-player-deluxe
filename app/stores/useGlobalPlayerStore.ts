@@ -141,12 +141,12 @@ export const usePlayerStore = defineStore("Player", () => {
 
 	return {
 		// State
-		isPlaying: readonly(isPlaying),
+		isPlaying: isPlaying,
 		currentVideo,
-		currentIndex: readonly(currentIndex),
-		isPlayerReady: readonly(isPlayerReady),
-		showPlayerBar: readonly(showPlayerBar),
-		isFloatingPlayerOpen: readonly(isFloatingPlayerOpen),
+		currentIndex: currentIndex,
+		isPlayerReady: isPlayerReady,
+		showPlayerBar: showPlayerBar,
+		isFloatingPlayerOpen: isFloatingPlayerOpen,
 
 		// Computed
 		canPlayPrevious,

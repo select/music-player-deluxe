@@ -8,11 +8,7 @@
 			{{ currentTime.format("YYYY MMM D") }}
 		</div>
 
-		<div
-			class="relative"
-			@mouseenter="isHoveringTimeline = true"
-			@mouseleave="isHoveringTimeline = false"
-		>
+		<div class="relative group">
 			<svg
 				ref="svgElement"
 				class=""
@@ -75,8 +71,7 @@
 
 			<!-- Scroll Indicator Overlay -->
 			<div
-				v-if="isHoveringTimeline"
-				class="absolute inset-0 flex flex-col items-center justify-center pointer-events-none transition-opacity duration-200"
+				class="group-hover:block hidden absolute inset-0 flex flex-col items-center justify-center pointer-events-none transition-opacity duration-200"
 			>
 				<!-- Zoom In Arrow (Up) -->
 				<div class="flex flex-col items-center mb-4 text-accent animate-pulse">
@@ -199,7 +194,6 @@ const THROTTLE_DELAY = 50;
 const currentTimespan = ref<number>(1728000); // 20 days
 const currentTime = ref<dayjs.Dayjs>(dayjs());
 const svgElement = ref<SVGElement>();
-const isHoveringTimeline = ref<boolean>(false);
 
 const timeUnits: TimeUnit[] = [
 	{
@@ -508,15 +502,4 @@ useEventListener(
 	}, THROTTLE_DELAY),
 	{ passive: false },
 );
-
-// Update current time periodically (commented out for demo purposes)
-onMounted(() => {
-	// const interval = setInterval(() => {
-	// 	currentTime.value = dayjs();
-	// }, 1000);
-	//
-	// onUnmounted(() => {
-	// 	clearInterval(interval);
-	// });
-});
 </script>

@@ -1,6 +1,18 @@
 {
   "youtubeId": "tvtJPs8IDgU",
-  "title": "Big Yellow Taxi ft. Vanessa Carlton",
+  "title": "Big Yellow Taxi",
   "artist": "Counting Crows",
-  "lastFetched": "2025-11-17T02:20:39.669Z"
+  "lastFetched": "2025-11-18T20:10:50.698Z",
+  "odesli": {
+    "amazonMusic": "B07RJCDDCK",
+    "amazonStore": "B07RJCDDCK",
+    "boomplay": "3295995",
+    "napster": "tra.57686080",
+    "pandora": "TR:18367096",
+    "soundcloud": "countingcrows/big-yellow-taxi",
+    "spotify": "4O4dhPrjcw7GSLNafNydmb",
+    "tidal": "108787638",
+    "youtube": "tvtJPs8IDgU",
+    "youtubeMusic": "tvtJPs8IDgU"
+  }
 }
