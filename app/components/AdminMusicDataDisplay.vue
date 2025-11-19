@@ -39,6 +39,27 @@
 				{{ tag }}
 			</span>
 		</div>
+		<div v-if="songData.lastfmTags?.length" class="mt-1 flex gap-1 flex-wrap">
+			<span
+				v-for="tag in songData.lastfmTags.slice(0, 3)"
+				:key="`lastfm-${tag}`"
+				class="inline-block bg-red-500/20 text-red-300 px-1 rounded text-xs"
+				:title="`Last.fm tag: ${tag}`"
+			>
+				{{ tag }}
+			</span>
+		</div>
+		<div
+			v-if="songData.listeners || songData.playcount"
+			class="mt-1 text-xs text-primary-3"
+		>
+			<span v-if="songData.listeners" class="mr-2">
+				🎧 {{ songData.listeners.toLocaleString() }}
+			</span>
+			<span v-if="songData.playcount">
+				▶️ {{ songData.playcount.toLocaleString() }}
+			</span>
+		</div>
 		<div
 			v-if="songData.odesli && Object.keys(songData.odesli).length > 0"
 			class="mt-2 flex gap-2 flex-wrap items-center"

@@ -1,5 +1,5 @@
 {
-  "mbid": "4e9ccbef-f2b6-400b-bdee-8c6284d4da43",
+  "mbid": "1ad90592-b681-3554-af3e-9ae202fdcb27",
   "title": "Intentions",
   "artist": "The Whitest Boy Alive",
   "tags": [
@@ -12,7 +12,7 @@
   ],
   "duration": 219,
   "youtubeId": "89Sqc0r3Tv8",
-  "lastFetched": "2025-11-16T18:04:29.426Z",
+  "lastFetched": "2025-11-19T01:37:26.876Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B001RJOU0O",
@@ -30,5 +30,10 @@
     "yandex": "27756825",
     "youtube": "89Sqc0r3Tv8",
     "youtubeMusic": "89Sqc0r3Tv8"
-  }
+  },
+  "name": "Intentions",
+  "lastfmId": "The+Whitest+Boy+Alive/_/Intentions",
+  "listeners": 163041,
+  "playcount": 1103296,
+  "artistMbid": "f83781c8-64f9-4657-85bd-51f74d195cfd"
 }

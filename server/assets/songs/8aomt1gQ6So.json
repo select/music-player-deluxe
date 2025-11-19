@@ -1,6 +1,24 @@
 {
   "youtubeId": "8aomt1gQ6So",
-  "title": "Between The Bars",
+  "title": "Between the Bars",
   "artist": "Elliott Smith",
-  "lastFetched": "2025-11-18T20:14:25.199Z"
+  "lastFetched": "2025-11-18T22:14:23.203Z",
+  "odesli": {
+    "amazonMusic": "B000US4KQM",
+    "amazonStore": "B000US4KQM",
+    "audiomack": "33187040",
+    "anghami": "16583596",
+    "boomplay": "2801699",
+    "deezer": "30507171",
+    "appleMusic": "313302072",
+    "itunes": "313302072",
+    "napster": "tra.2042243",
+    "pandora": "TR:9758994",
+    "soundcloud": "elliott-smith-official/between-the-bars",
+    "spotify": "1JbUMtVkQuaAPdHOvncVTm",
+    "tidal": "111398730",
+    "yandex": "25455722",
+    "youtube": "8aomt1gQ6So",
+    "youtubeMusic": "8aomt1gQ6So"
+  }
 }

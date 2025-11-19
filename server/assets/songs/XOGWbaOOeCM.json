@@ -1,11 +1,11 @@
 {
-  "mbid": "d7783f5d-f4e1-4652-b623-5b8e6fc63d14",
+  "mbid": "60cd68b3-56f9-3f32-b668-e82c818fa514",
   "title": "King of the World",
   "artist": "Steely Dan",
   "tags": [],
   "duration": 338,
   "youtubeId": "XOGWbaOOeCM",
-  "lastFetched": "2025-11-09T18:29:52.493Z",
+  "lastFetched": "2025-11-19T01:37:36.297Z",
   "releaseCount": 1,
   "artistTags": [
     "jazz pop",
@@ -17,5 +17,10 @@
     "sophisti-pop",
     "sophisticated rock",
     "yacht rock"
-  ]
+  ],
+  "name": "King Of The World",
+  "lastfmId": "Steely+Dan/_/King+Of+The+World",
+  "listeners": 97466,
+  "playcount": 504700,
+  "artistMbid": "e01c3376-15fa-40d7-b747-5f219bdefdd7"
 }

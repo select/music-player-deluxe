@@ -1,5 +1,5 @@
 {
-  "mbid": "1116c0f3-81c0-49fd-89f2-be1e7d93d416",
+  "mbid": "8aab8b40-a43b-3b85-a3ea-a55d21a069f0",
   "title": "Mr. Zebra",
   "artist": "Tori Amos",
   "artistMbid": "c0b2500e-0cef-4130-869d-732b23ed9df5",
@@ -21,7 +21,7 @@
   ],
   "duration": 67,
   "youtubeId": "kiVJsl6gUFw",
-  "lastFetched": "2025-11-16T19:49:40.410Z",
+  "lastFetched": "2025-11-19T01:39:36.515Z",
   "odesli": {
     "appleMusic": "207929144",
     "itunes": "207929144",
@@ -29,5 +29,9 @@
     "yandex": "122000",
     "youtube": "kiVJsl6gUFw",
     "youtubeMusic": "kiVJsl6gUFw"
-  }
+  },
+  "name": "Mr. Zebra",
+  "lastfmId": "Tori+Amos/_/Mr.+Zebra",
+  "listeners": 96738,
+  "playcount": 537189
 }

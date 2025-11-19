@@ -1,15 +1,13 @@
 {
-  "mbid": "0161099a-f953-446c-af14-a962f60ae82f",
   "title": "Bezos I",
   "artist": "Bo Burnham",
-  "artistMbid": "889db25c-d1df-457a-b0d1-c405f34a01f3",
   "releaseCount": 7,
   "tags": [
     "comedy"
   ],
   "duration": 58,
   "youtubeId": "7_EeCkHs-e0",
-  "lastFetched": "2025-11-16T21:30:45.281Z",
+  "lastFetched": "2025-11-19T01:40:18.092Z",
   "odesli": {
     "amazonMusic": "B0B29P1RXK",
     "amazonStore": "B0B29P1RXK",
@@ -27,5 +25,10 @@
     "yandex": "85100129",
     "youtube": "7_EeCkHs-e0",
     "youtubeMusic": "7_EeCkHs-e0"
-  }
+  },
+  "name": "Bezos I",
+  "lastfmId": "Bo+Burnham/_/Bezos+I",
+  "listeners": 449913,
+  "playcount": 4335992,
+  "lastfmSummary": "This song is about and parodies Amazon CEO Jeff Bezos, referred to as Jeffrey in the song. <a href=\"http://www.last.fm/music/Bo+Burnham/_/Bezos+I\">Read more on Last.fm</a>."
 }

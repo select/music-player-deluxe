@@ -58,7 +58,7 @@ export interface MusicBrainzSearchResult {
 export interface SongMetaData {
 	mbid?: string;
 	title: string;
-	artist: string;
+	artist?: string;
 	artistMbid?: string;
 	album?: string;
 	releaseCount?: number;
@@ -71,6 +71,11 @@ export interface SongMetaData {
 	datetime?: number;
 	userId?: string | null;
 	odesli?: Record<string, string>;
+	lastfmId?: string;
+	listeners?: number;
+	playcount?: number;
+	lastfmTags?: string[];
+	lastfmSummary?: string;
 }
 
 export interface SearchRequest {

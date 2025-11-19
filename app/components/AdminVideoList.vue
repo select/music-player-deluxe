@@ -122,7 +122,21 @@
 										:disabled="loadingStates[video.id]"
 										@click="augmentWithOdesli(video.id)"
 									>
-										{{ loadingStates[video.id] ? "Augmenting..." : "Augment" }}
+										{{ loadingStates[video.id] ? "Augmenting..." : "Odesli" }}
+									</AppBtn>
+
+									<AppBtn
+										icon="i-mdi-database-search"
+										size="small"
+										variant="ghost"
+										:disabled="
+											loadingStates[video.id] ||
+											!songDataMap[video.id]?.artist ||
+											!songDataMap[video.id]?.title
+										"
+										@click="augmentWithLastfm(video.id)"
+									>
+										{{ loadingStates[video.id] ? "Augmenting..." : "Last.fm" }}
 									</AppBtn>
 
 									<AppBtn
@@ -353,6 +367,35 @@ const augmentWithOdesli = async (videoId: string): Promise<void> => {
 		songDataMap.value[videoId] = songData;
 	} catch (error) {
 		console.error("Error augmenting with Odesli:", error);
+		// You can add notification handling here
+	} finally {
+		delete loadingStates.value[videoId];
+	}
+};
+
+// Augment video with Last.fm data
+const augmentWithLastfm = async (videoId: string): Promise<void> => {
+	try {
+		loadingStates.value[videoId] = true;
+
+		const existingSongData = songDataMap.value[videoId];
+		if (!existingSongData?.artist || !existingSongData?.title) {
+			console.error("Cannot augment with Last.fm: missing artist or title");
+			return;
+		}
+
+		const updatedSongData = await $fetch<SongMetaData>("/api/metadata/lastfm", {
+			method: "POST",
+			body: {
+				youtubeId: videoId,
+				artist: existingSongData.artist,
+				title: existingSongData.title,
+			},
+		});
+
+		songDataMap.value[videoId] = updatedSongData;
+	} catch (error) {
+		console.error("Error augmenting with Last.fm:", error);
 		// You can add notification handling here
 	} finally {
 		delete loadingStates.value[videoId];

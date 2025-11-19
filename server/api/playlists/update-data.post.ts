@@ -173,6 +173,12 @@ export default defineEventHandler(async (event) => {
 					tags: uniqueTags.length > 0 ? uniqueTags : undefined,
 					externalIds: songData.odesli,
 				};
+				if (songData.mbid) {
+					if (!updatedVideo.externalIds) {
+						updatedVideo.externalIds = {};
+					}
+					updatedVideo.externalIds["musicbrainz"] = songData.mbid;
+				}
 			}
 
 			// Update with AI-augmented data if available and no MusicBrainz data exists

@@ -1,16 +1,20 @@
 {
-  "mbid": "b173a3c2-999a-492a-950b-bbaa958d3d83",
   "title": "Heatwave",
   "artist": "Jazzanova",
   "album": "The Pool",
   "tags": [],
   "duration": 386,
   "youtubeId": "5CZFg4q0cSo",
-  "lastFetched": "2025-11-16T19:49:54.339Z",
+  "lastFetched": "2025-11-19T01:39:16.445Z",
   "odesli": {
     "soundcloud": "1052472169",
     "spotify": "0Rk5K4ziDHqnzPc8JdN5Rj",
     "youtube": "5CZFg4q0cSo",
     "youtubeMusic": "5CZFg4q0cSo"
-  }
+  },
+  "name": "Heatwave",
+  "lastfmId": "Jazzanova/_/Heatwave",
+  "listeners": 1459,
+  "playcount": 3834,
+  "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d"
 }

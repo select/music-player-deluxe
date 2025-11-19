@@ -8,6 +8,18 @@ export interface Platform {
 
 // Platform definitions
 export const PLATFORMS: Record<string, Platform> = {
+	musicbrainz: {
+		id: "musicbrainz",
+		name: "MusicBrainz",
+		icon: "i-simple-icons:musicbrainz",
+		getUrl: (id: string) => `https://musicbrainz.org/recording/${id}`,
+	},
+	bandcamp: {
+		id: "bandcamp",
+		name: "Bandcamp",
+		icon: "i-mdi-bandcamp",
+		getUrl: (id: string) => `https://bandcamp.com/track/${id}`,
+	},
 	spotify: {
 		id: "spotify",
 		name: "Spotify",
@@ -20,6 +32,12 @@ export const PLATFORMS: Record<string, Platform> = {
 		icon: "i-mdi-apple",
 		getUrl: (id: string) => `https://music.apple.com/song/${id}`,
 	},
+	amazonMusic: {
+		id: "amazonMusic",
+		name: "Amazon Music",
+		icon: "i-mdi-amazon",
+		getUrl: (id: string) => `https://music.amazon.com/tracks/${id}`,
+	},
 	youtube: {
 		id: "youtube",
 		name: "YouTube",
@@ -29,15 +47,10 @@ export const PLATFORMS: Record<string, Platform> = {
 	youtubeMusic: {
 		id: "youtubeMusic",
 		name: "YouTube Music",
-		icon: "i-mdi-youtube-play",
+		icon: "i-material-symbols:youtube-music",
 		getUrl: (id: string) => `https://music.youtube.com/watch?v=${id}`,
 	},
-	amazonMusic: {
-		id: "amazonMusic",
-		name: "Amazon Music",
-		icon: "i-mdi-amazon",
-		getUrl: (id: string) => `https://music.amazon.com/tracks/${id}`,
-	},
+
 	pandora: {
 		id: "pandora",
 		name: "Pandora",
@@ -62,12 +75,7 @@ export const PLATFORMS: Record<string, Platform> = {
 		icon: "i-mdi-soundcloud",
 		getUrl: (id: string) => `https://soundcloud.com/${id}`,
 	},
-	bandcamp: {
-		id: "bandcamp",
-		name: "Bandcamp",
-		icon: "i-mdi-bandcamp",
-		getUrl: (id: string) => `https://bandcamp.com/track/${id}`,
-	},
+
 	audiomack: {
 		id: "audiomack",
 		name: "Audiomack",
@@ -83,7 +91,7 @@ export const PLATFORMS: Record<string, Platform> = {
 	yandex: {
 		id: "yandex",
 		name: "Yandex Music",
-		icon: "i-mdi-yandex-music",
+		icon: "i-tabler:brand-yandex",
 		getUrl: (id: string) => `https://music.yandex.com/track/${id}`,
 	},
 	itunes: {
@@ -101,7 +109,11 @@ export const PLATFORMS: Record<string, Platform> = {
 };
 
 // Default platforms to show (preselected)
-export const DEFAULT_SELECTED_PLATFORMS = ["spotify"];
+export const DEFAULT_SELECTED_PLATFORMS = [
+	"spotify",
+	"musicbrainz",
+	"bandcamp",
+];
 
 // Utility functions
 export const getPlatformIcon = (platformId: string): string => {

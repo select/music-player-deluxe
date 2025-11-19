@@ -1,5 +1,4 @@
 {
-  "mbid": "5fce1f23-cbe0-4c4c-ba29-f4f5fe10c7c4",
   "title": "Flu",
   "artist": "Jameszoo",
   "artistMbid": "30327723-b703-4a1b-b305-957d66b2df89",
@@ -7,7 +6,7 @@
   "tags": [],
   "duration": 309,
   "youtubeId": "THYTYF4ihLs",
-  "lastFetched": "2025-11-16T19:48:43.069Z",
+  "lastFetched": "2025-11-19T01:40:20.248Z",
   "odesli": {
     "amazonMusic": "B073SD77DV",
     "amazonStore": "B073SD77DV",
@@ -17,5 +16,9 @@
     "tidal": "58155611",
     "youtube": "THYTYF4ihLs",
     "youtubeMusic": "THYTYF4ihLs"
-  }
+  },
+  "name": "Flu",
+  "lastfmId": "Jameszoo/_/Flu",
+  "listeners": 6998,
+  "playcount": 17191
 }
