@@ -2,7 +2,7 @@
   "youtubeId": "FPvVZG9hlVY",
   "title": "Columbo",
   "artist": "Wanda",
-  "lastFetched": "2025-11-18T20:47:58.944Z",
+  "lastFetched": "2025-11-19T11:32:24.278Z",
   "odesli": {
     "amazonMusic": "B0742NS3VJ",
     "amazonStore": "B0742NS3VJ",
@@ -11,5 +11,9 @@
     "yandex": "36721366",
     "youtube": "FPvVZG9hlVY",
     "youtubeMusic": "FPvVZG9hlVY"
-  }
+  },
+  "lastfmId": "Wanda/_/Columbo",
+  "listeners": 21576,
+  "playcount": 172458,
+  "artistMbid": "85417c84-b3a4-426e-92ad-ac7c1943b6a9"
 }

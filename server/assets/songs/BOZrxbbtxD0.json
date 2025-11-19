@@ -2,7 +2,7 @@
   "youtubeId": "BOZrxbbtxD0",
   "title": "Blank Project",
   "artist": "Neneh Cherry",
-  "lastFetched": "2025-11-18T21:39:28.154Z",
+  "lastFetched": "2025-11-19T13:21:03.792Z",
   "odesli": {
     "amazonMusic": "B084SQN67Y",
     "amazonStore": "B084SQN67Y",
@@ -20,5 +20,10 @@
     "yandex": "32168447",
     "youtube": "BOZrxbbtxD0",
     "youtubeMusic": "BOZrxbbtxD0"
-  }
+  },
+  "mbid": "20d8c078-e8b3-4f3e-b27c-756afe52f16c",
+  "lastfmId": "Neneh+Cherry/_/Blank+Project",
+  "listeners": 21711,
+  "playcount": 66144,
+  "artistMbid": "527c65d1-9fdb-4482-8796-dde2980bd63a"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "IHF5rXcp6-M",
   "title": "I DM U",
   "artist": "Loraine James",
-  "lastFetched": "2025-11-18T21:53:57.665Z",
+  "lastFetched": "2025-11-19T13:55:17.296Z",
   "odesli": {
     "amazonMusic": "B0C69ZBTJ6",
     "amazonStore": "B0C69ZBTJ6",
@@ -20,5 +20,10 @@
     "yandex": "113798529",
     "youtube": "IHF5rXcp6-M",
     "youtubeMusic": "IHF5rXcp6-M"
-  }
+  },
+  "mbid": "aa87448d-e0a9-4d0c-b982-6d5cf7778bf8",
+  "lastfmId": "Loraine+James/_/I+DM+U",
+  "listeners": 10823,
+  "playcount": 32143,
+  "artistMbid": "5c952c8c-6791-4df4-8dae-f65678e1e900"
 }

@@ -1,8 +1,8 @@
 {
   "youtubeId": "vYcsDuhfK-4",
-  "title": "Star of Rio",
+  "title": "Star Of Rio",
   "artist": "The Night Flight Orchestra",
-  "lastFetched": "2025-11-18T20:05:22.295Z",
+  "lastFetched": "2025-11-19T10:48:00.753Z",
   "odesli": {
     "amazonMusic": "B07QHDCNK3",
     "amazonStore": "B07QHDCNK3",
@@ -19,5 +19,10 @@
     "yandex": "34196429",
     "youtube": "vYcsDuhfK-4",
     "youtubeMusic": "vYcsDuhfK-4"
-  }
+  },
+  "mbid": "32f6f624-e56f-4351-8d28-cac562e82ee5",
+  "lastfmId": "The+Night+Flight+Orchestra/_/Star+Of+Rio",
+  "listeners": 15819,
+  "playcount": 81063,
+  "artistMbid": "0aa7e8fd-ba08-4a2d-93fc-91baf635072d"
 }

@@ -1,8 +1,8 @@
 {
   "youtubeId": "5Zkxljy9kuo",
-  "title": "There Was a Bar",
+  "title": "There was a Bar",
   "artist": "Capey Cash",
-  "lastFetched": "2025-11-18T20:20:59.673Z",
+  "lastFetched": "2025-11-19T11:21:14.166Z",
   "odesli": {
     "amazonMusic": "B07Y2H69H7",
     "amazonStore": "B07Y2H69H7",
@@ -14,5 +14,10 @@
     "tidal": "118602662",
     "youtube": "5Zkxljy9kuo",
     "youtubeMusic": "5Zkxljy9kuo"
-  }
+  },
+  "mbid": "1419cb05-88eb-461b-a3dc-393dea4283b4",
+  "lastfmId": "Capey+Cash/_/There+was+a+Bar",
+  "listeners": 538,
+  "playcount": 2030,
+  "artistMbid": "50c789bc-5675-4f2e-acbc-271cd5c55114"
 }

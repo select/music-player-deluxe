@@ -1,8 +1,8 @@
 {
   "youtubeId": "7fDw4VL92Gc",
-  "title": "3.2 (Bedrock Ambient Mix)",
+  "title": "3.2 (Bedrock Ambient mix)",
   "artist": "Humate",
-  "lastFetched": "2025-11-18T21:38:08.816Z",
+  "lastFetched": "2025-11-19T13:17:59.227Z",
   "odesli": {
     "amazonMusic": "B07PDNBCHY",
     "amazonStore": "B07PDNBCHY",
@@ -19,5 +19,10 @@
     "yandex": "39543665",
     "youtube": "7fDw4VL92Gc",
     "youtubeMusic": "7fDw4VL92Gc"
-  }
+  },
+  "mbid": "01b4a124-8cb4-3bb6-a6e1-b07844d70537",
+  "lastfmId": "Humate/_/3.2+(Bedrock+Ambient+mix)",
+  "listeners": 4616,
+  "playcount": 18841,
+  "artistMbid": "58a2c45a-f6ac-4417-aa3d-e1574e9746b2"
 }

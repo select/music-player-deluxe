@@ -2,7 +2,7 @@
   "youtubeId": "5aJbeLbsOGY",
   "title": "Run Forever",
   "artist": "Emma Ruth Rundle",
-  "lastFetched": "2025-11-18T20:59:52.101Z",
+  "lastFetched": "2025-11-19T11:48:11.999Z",
   "odesli": {
     "amazonMusic": "B0F4V8VVHG",
     "amazonStore": "B0F4V8VVHG",
@@ -12,5 +12,10 @@
     "tidal": "430140471",
     "youtube": "5aJbeLbsOGY",
     "youtubeMusic": "5aJbeLbsOGY"
-  }
+  },
+  "mbid": "096701ff-d1da-451d-81f0-b61940885dfa",
+  "lastfmId": "Emma+Ruth+Rundle/_/Run+Forever",
+  "listeners": 30029,
+  "playcount": 198568,
+  "artistMbid": "7ba593b9-79d4-4860-92c8-ade2a1ef4551"
 }

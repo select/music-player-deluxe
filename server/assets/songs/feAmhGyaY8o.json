@@ -2,7 +2,7 @@
   "youtubeId": "feAmhGyaY8o",
   "title": "Southern Comfort",
   "artist": "Larkin Poe",
-  "lastFetched": "2025-11-16T20:02:20.024Z",
+  "lastFetched": "2025-11-19T10:03:45.465Z",
   "odesli": {
     "amazonMusic": "B09Y8P82BK",
     "amazonStore": "B09Y8P82BK",
@@ -14,5 +14,10 @@
     "tidal": "225425123",
     "youtube": "feAmhGyaY8o",
     "youtubeMusic": "feAmhGyaY8o"
-  }
+  },
+  "mbid": "d3871f23-3ca6-425c-aeed-7ab8f4c97853",
+  "lastfmId": "Larkin+Poe/_/Southern+Comfort",
+  "listeners": 5253,
+  "playcount": 24539,
+  "artistMbid": "ec5436c4-c44a-47f5-a640-da8d376a3871"
 }

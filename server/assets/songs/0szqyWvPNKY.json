@@ -2,7 +2,7 @@
   "youtubeId": "0szqyWvPNKY",
   "title": "Ends",
   "artist": "Everlast",
-  "lastFetched": "2025-11-18T20:12:20.294Z",
+  "lastFetched": "2025-11-19T11:03:52.628Z",
   "odesli": {
     "amazonMusic": "B07Y8VBHMK",
     "amazonStore": "B07Y8VBHMK",
@@ -11,5 +11,10 @@
     "yandex": "528509",
     "youtube": "0szqyWvPNKY",
     "youtubeMusic": "0szqyWvPNKY"
-  }
+  },
+  "mbid": "c84ee273-6b87-32d1-af39-dbd7afce3b7f",
+  "lastfmId": "Everlast/_/Ends",
+  "listeners": 83005,
+  "playcount": 400110,
+  "artistMbid": "ca39d50f-9885-420e-88d6-9c3f64038773"
 }

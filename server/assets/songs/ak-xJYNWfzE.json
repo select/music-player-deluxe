@@ -1,8 +1,8 @@
 {
   "youtubeId": "ak-xJYNWfzE",
-  "title": "Mountains At Midnight",
+  "title": "Mountains at Midnight",
   "artist": "Royal Blood",
-  "lastFetched": "2025-11-18T21:35:54.205Z",
+  "lastFetched": "2025-11-19T13:12:54.313Z",
   "odesli": {
     "amazonMusic": "B0C547TVJD",
     "amazonStore": "B0C547TVJD",
@@ -15,5 +15,10 @@
     "tidal": "309969019",
     "youtube": "ak-xJYNWfzE",
     "youtubeMusic": "ak-xJYNWfzE"
-  }
+  },
+  "mbid": "bc32c7cd-fe21-49e1-87f2-31eba6db987b",
+  "lastfmId": "Royal+Blood/_/Mountains+at+Midnight",
+  "listeners": 70386,
+  "playcount": 424948,
+  "artistMbid": "95ee8d6d-07b8-4588-a405-c64cef1d05b3"
 }

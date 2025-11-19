@@ -2,7 +2,7 @@
   "youtubeId": "JlRiHFQ5ZEo",
   "title": "Old Ground",
   "artist": "Scar",
-  "lastFetched": "2025-11-16T19:17:12.337Z",
+  "lastFetched": "2025-11-19T12:16:15.477Z",
   "odesli": {
     "amazonMusic": "B00NDA89A2",
     "amazonStore": "B00NDA89A2",
@@ -12,5 +12,10 @@
     "tidal": "33866066",
     "youtube": "JlRiHFQ5ZEo",
     "youtubeMusic": "JlRiHFQ5ZEo"
-  }
+  },
+  "mbid": "00b53065-b7e3-46f8-ae25-529a12ee944e",
+  "lastfmId": "Scar/_/Old+Ground",
+  "listeners": 253,
+  "playcount": 583,
+  "artistMbid": "ec406531-3c98-4d48-9c19-53015c6dabfc"
 }

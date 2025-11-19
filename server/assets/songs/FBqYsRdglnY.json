@@ -2,7 +2,7 @@
   "youtubeId": "FBqYsRdglnY",
   "title": "The Forest",
   "artist": "José González",
-  "lastFetched": "2025-11-18T20:19:51.269Z",
+  "lastFetched": "2025-11-19T11:19:11.190Z",
   "odesli": {
     "amazonMusic": "B00P1AZFVS",
     "amazonStore": "B00P1AZFVS",
@@ -16,5 +16,10 @@
     "yandex": "20684247",
     "youtube": "FBqYsRdglnY",
     "youtubeMusic": "FBqYsRdglnY"
-  }
+  },
+  "mbid": "02755536-a9cd-45e3-b4b1-2e001a820943",
+  "lastfmId": "Jos%C3%A9+Gonz%C3%A1lez/_/The+Forest",
+  "listeners": 56579,
+  "playcount": 202135,
+  "artistMbid": "cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8"
 }

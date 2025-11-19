@@ -2,7 +2,7 @@
   "youtubeId": "4QHxd2Y2ZIg",
   "title": "Mark",
   "artist": "Das Lumpenpack",
-  "lastFetched": "2025-11-18T21:54:59.315Z",
+  "lastFetched": "2025-11-19T13:57:19.052Z",
   "odesli": {
     "amazonMusic": "B09YHYH5L7",
     "amazonStore": "B09YHYH5L7",
@@ -20,5 +20,10 @@
     "yandex": "55377700",
     "youtube": "4QHxd2Y2ZIg",
     "youtubeMusic": "4QHxd2Y2ZIg"
-  }
+  },
+  "mbid": "46db24ca-fc47-4744-b210-9179fa23e9b6",
+  "lastfmId": "Das+Lumpenpack/_/Mark",
+  "listeners": 3357,
+  "playcount": 20513,
+  "artistMbid": "52b08164-7002-4eb8-a68f-bd7f42d73346"
 }

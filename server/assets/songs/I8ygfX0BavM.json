@@ -2,7 +2,7 @@
   "youtubeId": "I8ygfX0BavM",
   "title": "When I'm Gone",
   "artist": "Dirty Honey",
-  "lastFetched": "2025-11-18T21:03:18.608Z",
+  "lastFetched": "2025-11-19T11:53:20.100Z",
   "odesli": {
     "amazonMusic": "B07YNC7R3Z",
     "amazonStore": "B07YNC7R3Z",
@@ -12,5 +12,10 @@
     "tidal": "119324673",
     "youtube": "I8ygfX0BavM",
     "youtubeMusic": "I8ygfX0BavM"
-  }
+  },
+  "mbid": "f009ec3e-9952-4c3b-b4ab-6c0fa678cdce",
+  "lastfmId": "Dirty+Honey/_/When+I%27m+Gone",
+  "listeners": 44311,
+  "playcount": 206915,
+  "artistMbid": "de7ecc1f-487c-4ef9-8a0c-c18146c309c4"
 }

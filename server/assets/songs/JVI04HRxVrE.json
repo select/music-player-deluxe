@@ -2,7 +2,7 @@
   "youtubeId": "JVI04HRxVrE",
   "title": "Surrender",
   "artist": "Godsmack",
-  "lastFetched": "2025-11-18T20:16:59.348Z",
+  "lastFetched": "2025-11-19T11:14:03.568Z",
   "odesli": {
     "amazonMusic": "B0DZV2CSVN",
     "amazonStore": "B0DZV2CSVN",
@@ -19,5 +19,10 @@
     "tidal": "248337282",
     "youtube": "JVI04HRxVrE",
     "youtubeMusic": "JVI04HRxVrE"
-  }
+  },
+  "mbid": "4f8df84e-f143-446d-a014-5f84ebd45f57",
+  "lastfmId": "Godsmack/_/Surrender",
+  "listeners": 27160,
+  "playcount": 145247,
+  "artistMbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2"
 }

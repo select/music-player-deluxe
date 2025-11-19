@@ -2,7 +2,7 @@
   "youtubeId": "xZZ9JH2eS8M",
   "title": "This Is What We Do",
   "artist": "Leftfield",
-  "lastFetched": "2025-11-16T20:05:57.654Z",
+  "lastFetched": "2025-11-19T10:23:06.836Z",
   "odesli": {
     "amazonMusic": "B0B6WCWJ4S",
     "amazonStore": "B0B6WCWJ4S",
@@ -20,5 +20,10 @@
     "yandex": "122536131",
     "youtube": "xZZ9JH2eS8M",
     "youtubeMusic": "xZZ9JH2eS8M"
-  }
+  },
+  "mbid": "ebdc0ad4-8492-457c-829b-ef171fbceea3",
+  "lastfmId": "Leftfield/_/This+Is+What+We+Do",
+  "listeners": 6302,
+  "playcount": 18949,
+  "artistMbid": "369fbad4-6fa4-4dae-9842-a69826cd359d"
 }

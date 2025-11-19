@@ -2,7 +2,7 @@
   "youtubeId": "wH9QAVArx6c",
   "title": "Riddle Me This",
   "artist": "Aaron Parks",
-  "lastFetched": "2025-11-18T21:56:47.037Z",
+  "lastFetched": "2025-11-19T14:01:27.827Z",
   "odesli": {
     "amazonMusic": "B001E53RA0",
     "amazonStore": "B001E53RA0",
@@ -20,5 +20,10 @@
     "yandex": "1894780",
     "youtube": "wH9QAVArx6c",
     "youtubeMusic": "wH9QAVArx6c"
-  }
+  },
+  "mbid": "6479fc4d-a0a8-3838-ba5b-5ff3f57eda5f",
+  "lastfmId": "Aaron+Parks/_/Riddle+Me+This",
+  "listeners": 13715,
+  "playcount": 47175,
+  "artistMbid": "4dd62d49-9868-465b-882f-733afb40eb0d"
 }

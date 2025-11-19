@@ -2,7 +2,7 @@
   "youtubeId": "pHpDUvUoxXs",
   "title": "One Of These Days",
   "artist": "Camper Van Beethoven",
-  "lastFetched": "2025-11-18T20:04:56.693Z",
+  "lastFetched": "2025-11-19T10:46:59.970Z",
   "odesli": {
     "amazonMusic": "B001UHCW4Y",
     "amazonStore": "B001UHCW4Y",
@@ -13,5 +13,10 @@
     "yandex": "246336",
     "youtube": "pHpDUvUoxXs",
     "youtubeMusic": "pHpDUvUoxXs"
-  }
+  },
+  "mbid": "174fd24f-7e87-3216-8434-0a8d9b5598f3",
+  "lastfmId": "Camper+Van+Beethoven/_/One+Of+These+Days",
+  "listeners": 21908,
+  "playcount": 76496,
+  "artistMbid": "0ee7e64d-90ca-406b-b59a-3e551c556dbe"
 }

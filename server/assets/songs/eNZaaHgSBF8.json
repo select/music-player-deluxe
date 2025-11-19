@@ -2,7 +2,7 @@
   "youtubeId": "eNZaaHgSBF8",
   "title": "Down the Moon Grotto",
   "artist": "Gareth Coker",
-  "lastFetched": "2025-11-16T20:04:49.688Z",
+  "lastFetched": "2025-11-19T10:20:04.147Z",
   "odesli": {
     "amazonMusic": "B00TR9PFKA",
     "amazonStore": "B00TR9PFKA",
@@ -20,5 +20,10 @@
     "yandex": "22001066",
     "youtube": "eNZaaHgSBF8",
     "youtubeMusic": "eNZaaHgSBF8"
-  }
+  },
+  "mbid": "448e4900-3a5b-4434-b728-d5571637d0ff",
+  "lastfmId": "Gareth+Coker/_/Down+the+Moon+Grotto",
+  "listeners": 17666,
+  "playcount": 84520,
+  "artistMbid": "96eca91a-fdb5-4a0e-908b-ba526ba166df"
 }

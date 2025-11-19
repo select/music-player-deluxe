@@ -1,8 +1,8 @@
 {
   "youtubeId": "24WJ8kO45hM",
   "title": "Conventional Wisdom",
-  "artist": "Built To Spill",
-  "lastFetched": "2025-11-18T21:05:07.155Z",
+  "artist": "Built to Spill",
+  "lastFetched": "2025-11-19T11:57:24.247Z",
   "odesli": {
     "amazonMusic": "B0012EG25K",
     "amazonStore": "B0012EG25K",
@@ -19,5 +19,10 @@
     "yandex": "149807",
     "youtube": "24WJ8kO45hM",
     "youtubeMusic": "24WJ8kO45hM"
-  }
+  },
+  "mbid": "0cf39ed3-ed43-464a-a6a6-233a55d1869d",
+  "lastfmId": "Built+to+Spill/_/Conventional+Wisdom",
+  "listeners": 103819,
+  "playcount": 469980,
+  "artistMbid": "3ac482b8-1494-4071-a0e9-f192f9d2c2b0"
 }

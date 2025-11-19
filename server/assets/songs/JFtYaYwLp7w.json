@@ -2,7 +2,7 @@
   "youtubeId": "JFtYaYwLp7w",
   "title": "Homage",
   "artist": "Jacob Garchik",
-  "lastFetched": "2025-11-18T20:45:43.874Z",
+  "lastFetched": "2025-11-19T11:27:19.738Z",
   "odesli": {
     "amazonMusic": "B09XRC16QC",
     "amazonStore": "B09XRC16QC",
@@ -13,5 +13,9 @@
     "tidal": "237462543",
     "youtube": "JFtYaYwLp7w",
     "youtubeMusic": "JFtYaYwLp7w"
-  }
+  },
+  "lastfmId": "Jacob+Garchik/_/Homage",
+  "listeners": 118,
+  "playcount": 230,
+  "artistMbid": "f186e07c-4812-4268-8432-2bf9d7c3ba42"
 }

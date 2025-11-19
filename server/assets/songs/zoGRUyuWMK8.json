@@ -2,7 +2,7 @@
   "youtubeId": "zoGRUyuWMK8",
   "title": "Wake Me Up",
   "artist": "Norah Jones",
-  "lastFetched": "2025-11-18T20:12:48.451Z",
+  "lastFetched": "2025-11-19T11:04:53.597Z",
   "odesli": {
     "amazonMusic": "B000TRQ7K6",
     "amazonStore": "B000TRQ7K6",
@@ -21,5 +21,10 @@
     "yandex": "280293",
     "youtube": "zoGRUyuWMK8",
     "youtubeMusic": "zoGRUyuWMK8"
-  }
+  },
+  "mbid": "0f22d136-e087-4c50-afa2-e8db89692d22",
+  "lastfmId": "Norah+Jones/_/Wake+Me+Up",
+  "listeners": 148198,
+  "playcount": 667178,
+  "artistMbid": "985c709c-7771-4de3-9024-7bda29ebe3f9"
 }

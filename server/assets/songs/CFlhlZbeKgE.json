@@ -2,7 +2,7 @@
   "youtubeId": "CFlhlZbeKgE",
   "title": "Tekkno Train",
   "artist": "Electric Callboy",
-  "lastFetched": "2025-11-18T21:06:32.968Z",
+  "lastFetched": "2025-11-19T11:59:58.873Z",
   "odesli": {
     "amazonMusic": "B09XJG58MX",
     "amazonStore": "B09XJG58MX",
@@ -19,5 +19,10 @@
     "tidal": "224324554",
     "youtube": "CFlhlZbeKgE",
     "youtubeMusic": "CFlhlZbeKgE"
-  }
+  },
+  "mbid": "a769dbd6-dbb8-4eee-a051-2279a84003a2",
+  "lastfmId": "Electric+Callboy/_/Tekkno+Train",
+  "listeners": 85526,
+  "playcount": 1141746,
+  "artistMbid": "cf075492-d880-4afc-b87b-d6b03e33dacc"
 }

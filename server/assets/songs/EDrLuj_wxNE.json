@@ -2,7 +2,7 @@
   "youtubeId": "EDrLuj_wxNE",
   "title": "89/90",
   "artist": "Dÿse",
-  "lastFetched": "2025-11-16T20:01:44.389Z",
+  "lastFetched": "2025-11-19T09:50:32.574Z",
   "odesli": {
     "amazonMusic": "B0B194S99M",
     "amazonStore": "B0B194S99M",
@@ -17,5 +17,10 @@
     "tidal": "229041230",
     "youtube": "EDrLuj_wxNE",
     "youtubeMusic": "EDrLuj_wxNE"
-  }
+  },
+  "mbid": "20482b25-384d-4aa1-b8bf-82f739948911",
+  "lastfmId": "D%C3%BFse/_/89%2F90",
+  "listeners": 662,
+  "playcount": 2978,
+  "artistMbid": "90d69386-fe84-4d5f-88b8-619ac71cc8bc"
 }

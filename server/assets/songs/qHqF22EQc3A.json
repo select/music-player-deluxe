@@ -2,7 +2,7 @@
   "youtubeId": "qHqF22EQc3A",
   "title": "Last Living Dinosaur",
   "artist": "Kadavar",
-  "lastFetched": "2025-11-18T21:03:44.823Z",
+  "lastFetched": "2025-11-19T11:54:20.932Z",
   "odesli": {
     "amazonMusic": "B07QFD6ZNJ",
     "amazonStore": "B07QFD6ZNJ",
@@ -10,5 +10,10 @@
     "spotify": "5JWT9cWwbLttKe7zrfNnn7",
     "youtube": "qHqF22EQc3A",
     "youtubeMusic": "qHqF22EQc3A"
-  }
+  },
+  "mbid": "11ef0cfa-38fc-42aa-af1d-446503952031",
+  "lastfmId": "Kadavar/_/Last+Living+Dinosaur",
+  "listeners": 45533,
+  "playcount": 199373,
+  "artistMbid": "72f87ca0-9d09-4219-a844-fdaf1503eadd"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "755KcDVPp5c",
   "title": "Forever Young",
   "artist": "Madness",
-  "lastFetched": "2025-11-18T21:40:32.880Z",
+  "lastFetched": "2025-11-19T13:23:37.465Z",
   "odesli": {
     "amazonMusic": "B0F4RS8Z8M",
     "amazonStore": "B0F4RS8Z8M",
@@ -11,5 +11,10 @@
     "yandex": "30183611",
     "youtube": "755KcDVPp5c",
     "youtubeMusic": "755KcDVPp5c"
-  }
+  },
+  "mbid": "9d21d1e5-9868-4bff-8f3e-def348bffd64",
+  "lastfmId": "Madness/_/Forever+Young",
+  "listeners": 22365,
+  "playcount": 93039,
+  "artistMbid": "5f58803e-8c4c-478e-8b51-477f38483ede"
 }

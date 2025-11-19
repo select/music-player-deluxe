@@ -2,7 +2,7 @@
   "youtubeId": "xjuLh-vyHJE",
   "title": "TRiP",
   "artist": "V.C.R",
-  "lastFetched": "2025-11-18T21:47:44.577Z",
+  "lastFetched": "2025-11-19T13:36:54.814Z",
   "odesli": {
     "amazonMusic": "B0CCFYZHDS",
     "amazonStore": "B0CCFYZHDS",
@@ -20,5 +20,10 @@
     "yandex": "81291196",
     "youtube": "xjuLh-vyHJE",
     "youtubeMusic": "xjuLh-vyHJE"
-  }
+  },
+  "mbid": "fc53cd82-a1bc-463c-8a28-26f97b0a75c0",
+  "lastfmId": "V.C.R/_/TRiP",
+  "listeners": 7950,
+  "playcount": 23978,
+  "artistMbid": "fc1c6fab-cb59-4a02-879f-69be388a964e"
 }

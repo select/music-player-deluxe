@@ -2,7 +2,7 @@
   "youtubeId": "pFlQlS_e7wA",
   "title": "Auris",
   "artist": "JakoJako",
-  "lastFetched": "2025-11-18T20:06:16.161Z",
+  "lastFetched": "2025-11-19T10:50:02.521Z",
   "odesli": {
     "amazonMusic": "B0BGQV32M4",
     "amazonStore": "B0BGQV32M4",
@@ -11,5 +11,9 @@
     "tidal": "260110825",
     "youtube": "pFlQlS_e7wA",
     "youtubeMusic": "pFlQlS_e7wA"
-  }
+  },
+  "lastfmId": "JakoJako/_/Auris",
+  "listeners": 1936,
+  "playcount": 5061,
+  "artistMbid": "e5efb6f2-0a6f-4c1d-831d-c1e07d2f694f"
 }

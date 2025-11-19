@@ -2,7 +2,7 @@
   "youtubeId": "FBiWjtlX4k0",
   "title": "Ghost",
   "artist": "CHON",
-  "lastFetched": "2025-11-16T20:05:25.677Z",
+  "lastFetched": "2025-11-19T10:17:00.487Z",
   "odesli": {
     "amazonMusic": "B0FBCM7FD6",
     "amazonStore": "B0FBCM7FD6",
@@ -10,5 +10,10 @@
     "tidal": "438995655",
     "youtube": "FBiWjtlX4k0",
     "youtubeMusic": "FBiWjtlX4k0"
-  }
+  },
+  "mbid": "227cb31f-fcb2-47d4-bf76-16688f75bacb",
+  "lastfmId": "CHON/_/Ghost",
+  "listeners": 64906,
+  "playcount": 344116,
+  "artistMbid": "d7235f31-229a-4c04-abca-14e0fbcba26e"
 }

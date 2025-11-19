@@ -2,7 +2,7 @@
   "youtubeId": "VIpnaZMa4Yg",
   "title": "Southern Comfort",
   "artist": "Burial",
-  "lastFetched": "2025-11-18T20:11:19.251Z",
+  "lastFetched": "2025-11-19T11:01:49.827Z",
   "odesli": {
     "amazonMusic": "B01423YVXW",
     "amazonStore": "B01423YVXW",
@@ -10,5 +10,10 @@
     "tidal": "111851460",
     "youtube": "VIpnaZMa4Yg",
     "youtubeMusic": "VIpnaZMa4Yg"
-  }
+  },
+  "mbid": "1f115ded-92bc-49b3-8c86-511abe130418",
+  "lastfmId": "Burial/_/Southern+Comfort",
+  "listeners": 175968,
+  "playcount": 942858,
+  "artistMbid": "9ddce51c-2b75-4b3e-ac8c-1db09e7c89c6"
 }

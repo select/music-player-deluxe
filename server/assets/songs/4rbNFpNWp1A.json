@@ -2,7 +2,7 @@
   "youtubeId": "4rbNFpNWp1A",
   "title": "Tambrin",
   "artist": "Khxos",
-  "lastFetched": "2025-11-18T20:14:50.867Z",
+  "lastFetched": "2025-11-19T11:09:27.802Z",
   "odesli": {
     "amazonMusic": "B0DM4H436C",
     "amazonStore": "B0DM4H436C",
@@ -11,5 +11,9 @@
     "tidal": "397857545",
     "youtube": "4rbNFpNWp1A",
     "youtubeMusic": "4rbNFpNWp1A"
-  }
+  },
+  "lastfmId": "Khxos/_/Tambrin",
+  "listeners": 997,
+  "playcount": 5170,
+  "artistMbid": "182d8a50-0e23-4140-8ed7-027dd143cf75"
 }

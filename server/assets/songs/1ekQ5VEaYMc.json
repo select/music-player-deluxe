@@ -2,7 +2,7 @@
   "youtubeId": "1ekQ5VEaYMc",
   "title": "Tip Tip",
   "artist": "Gudrun Gut",
-  "lastFetched": "2025-11-18T20:11:35.341Z",
+  "lastFetched": "2025-11-19T11:02:20.420Z",
   "odesli": {
     "amazonMusic": "B0018CM9PI",
     "amazonStore": "B0018CM9PI",
@@ -16,5 +16,10 @@
     "tidal": "18736192",
     "youtube": "1ekQ5VEaYMc",
     "youtubeMusic": "1ekQ5VEaYMc"
-  }
+  },
+  "mbid": "19c05770-6c34-392f-866f-6b5ec353ffba",
+  "lastfmId": "Gudrun+Gut/_/Tip+Tip",
+  "listeners": 4738,
+  "playcount": 14240,
+  "artistMbid": "22e67027-3c07-44d5-8501-8eed7b13286b"
 }

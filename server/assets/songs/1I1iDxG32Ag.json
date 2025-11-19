@@ -2,7 +2,7 @@
   "youtubeId": "1I1iDxG32Ag",
   "title": "Grauer Sand",
   "artist": "Pole",
-  "lastFetched": "2025-11-18T20:10:09.222Z",
+  "lastFetched": "2025-11-19T10:59:14.703Z",
   "odesli": {
     "amazonMusic": "B0B7CZVZDX",
     "amazonStore": "B0B7CZVZDX",
@@ -12,5 +12,10 @@
     "tidal": "255065185",
     "youtube": "1I1iDxG32Ag",
     "youtubeMusic": "1I1iDxG32Ag"
-  }
+  },
+  "mbid": "d9f35c56-8e66-4d97-9673-935ef2fb756c",
+  "lastfmId": "Pole/_/Grauer+Sand",
+  "listeners": 4276,
+  "playcount": 9254,
+  "artistMbid": "ad957b43-9dc0-42e1-940c-19b21ec77f3a"
 }

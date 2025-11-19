@@ -2,7 +2,7 @@
   "youtubeId": "rGA6shXdb_M",
   "title": "Baknaffek",
   "artist": "Das EFX",
-  "lastFetched": "2025-11-18T21:23:27.349Z",
+  "lastFetched": "2025-11-19T12:40:46.158Z",
   "odesli": {
     "amazonMusic": "B003TRX4HC",
     "amazonStore": "B003TRX4HC",
@@ -13,5 +13,10 @@
     "tidal": "4125232",
     "youtube": "rGA6shXdb_M",
     "youtubeMusic": "rGA6shXdb_M"
-  }
+  },
+  "mbid": "a7c832d8-17ff-4c6a-8409-ebbd9a7f6a2b",
+  "lastfmId": "Das+EFX/_/Baknaffek",
+  "listeners": 34847,
+  "playcount": 140546,
+  "artistMbid": "2ed45dd0-6a96-4459-af32-bc74e7a7f387"
 }

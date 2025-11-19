@@ -2,7 +2,7 @@
   "youtubeId": "Kyar2C_wEq8",
   "title": "Egg Man",
   "artist": "Beastie Boys",
-  "lastFetched": "2025-11-16T20:09:37.890Z",
+  "lastFetched": "2025-11-19T13:46:05.968Z",
   "odesli": {
     "amazonMusic": "B001QSQLWQ",
     "amazonStore": "B001QSQLWQ",
@@ -11,5 +11,10 @@
     "tidal": "2282957",
     "youtube": "Kyar2C_wEq8",
     "youtubeMusic": "Kyar2C_wEq8"
-  }
+  },
+  "mbid": "0e1ead74-2a75-3645-9d53-fc0252dd516d",
+  "lastfmId": "Beastie+Boys/_/Egg+Man",
+  "listeners": 229032,
+  "playcount": 948761,
+  "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53"
 }

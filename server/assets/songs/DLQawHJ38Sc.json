@@ -2,7 +2,7 @@
   "youtubeId": "DLQawHJ38Sc",
   "title": "Right Now",
   "artist": "Van Halen",
-  "lastFetched": "2025-11-18T21:06:06.549Z",
+  "lastFetched": "2025-11-19T11:58:56.754Z",
   "odesli": {
     "amazonMusic": "B0D4FGTGZG",
     "amazonStore": "B0D4FGTGZG",
@@ -11,5 +11,10 @@
     "yandex": "545630",
     "youtube": "DLQawHJ38Sc",
     "youtubeMusic": "DLQawHJ38Sc"
-  }
+  },
+  "mbid": "2d65b19a-0f5b-41f4-9207-58a8b30d18c6",
+  "lastfmId": "Van+Halen/_/Right+Now",
+  "listeners": 232654,
+  "playcount": 1150785,
+  "artistMbid": "b665b768-0d83-4363-950c-31ed39317c15"
 }

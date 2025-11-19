@@ -2,7 +2,7 @@
   "youtubeId": "arF3d9nlFPs",
   "title": "This Is Such A Pity",
   "artist": "Weezer",
-  "lastFetched": "2025-11-18T19:46:51.450Z",
+  "lastFetched": "2025-11-19T09:43:23.873Z",
   "odesli": {
     "amazonMusic": "B000W22PUE",
     "amazonStore": "B000W22PUE",
@@ -11,5 +11,10 @@
     "tidal": "31171261",
     "youtube": "arF3d9nlFPs",
     "youtubeMusic": "arF3d9nlFPs"
-  }
+  },
+  "mbid": "0f0fa294-80f9-4b40-beeb-b0b5b14105e7",
+  "lastfmId": "Weezer/_/This+Is+Such+A+Pity",
+  "listeners": 221523,
+  "playcount": 1176413,
+  "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04"
 }

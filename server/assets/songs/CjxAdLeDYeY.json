@@ -2,7 +2,7 @@
   "youtubeId": "CjxAdLeDYeY",
   "title": "Silhouette",
   "artist": "Little Simz",
-  "lastFetched": "2025-11-18T20:07:07.366Z",
+  "lastFetched": "2025-11-19T10:52:05.634Z",
   "odesli": {
     "amazonMusic": "B0BP9V7FVV",
     "amazonStore": "B0BP9V7FVV",
@@ -19,5 +19,10 @@
     "tidal": "264882643",
     "youtube": "CjxAdLeDYeY",
     "youtubeMusic": "CjxAdLeDYeY"
-  }
+  },
+  "mbid": "137cd62a-9130-4979-b356-55bfad3e2207",
+  "lastfmId": "Little+Simz/_/Silhouette",
+  "listeners": 105625,
+  "playcount": 603694,
+  "artistMbid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
 }

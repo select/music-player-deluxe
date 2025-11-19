@@ -2,7 +2,7 @@
   "youtubeId": "62OxFo4cZWI",
   "title": "Squealer",
   "artist": "AC/DC",
-  "lastFetched": "2025-11-16T20:07:02.240Z",
+  "lastFetched": "2025-11-19T10:30:44.724Z",
   "odesli": {
     "audiomack": "71845872",
     "anghami": "9921504",
@@ -14,5 +14,10 @@
     "yandex": "5574877",
     "youtube": "62OxFo4cZWI",
     "youtubeMusic": "62OxFo4cZWI"
-  }
+  },
+  "mbid": "72ea72e3-4664-4909-a6c4-ff91bbed0853",
+  "lastfmId": "AC%2FDC/_/Squealer",
+  "listeners": 116942,
+  "playcount": 450732,
+  "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1"
 }

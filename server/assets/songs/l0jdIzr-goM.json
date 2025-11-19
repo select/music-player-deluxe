@@ -2,7 +2,7 @@
   "youtubeId": "l0jdIzr-goM",
   "title": "Schickt mir die Post",
   "artist": "Wanda",
-  "lastFetched": "2025-11-18T21:15:08.252Z",
+  "lastFetched": "2025-11-19T12:22:25.653Z",
   "odesli": {
     "amazonMusic": "B0D81G9P96",
     "amazonStore": "B0D81G9P96",
@@ -12,5 +12,10 @@
     "tidal": "370613413",
     "youtube": "l0jdIzr-goM",
     "youtubeMusic": "l0jdIzr-goM"
-  }
+  },
+  "mbid": "2b194cd8-d721-46cf-ba29-f118d91256cc",
+  "lastfmId": "Wanda/_/Schickt+mir+die+Post",
+  "listeners": 16959,
+  "playcount": 127617,
+  "artistMbid": "85417c84-b3a4-426e-92ad-ac7c1943b6a9"
 }

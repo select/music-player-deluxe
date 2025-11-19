@@ -2,7 +2,7 @@
   "youtubeId": "smpTDkLCYb0",
   "title": "Main Titles",
   "artist": "Vangelis",
-  "lastFetched": "2025-11-18T21:49:59.070Z",
+  "lastFetched": "2025-11-19T13:44:33.907Z",
   "odesli": {
     "amazonMusic": "B00CRB0DJS",
     "amazonStore": "B00CRB0DJS",
@@ -16,5 +16,10 @@
     "yandex": "1787093",
     "youtube": "smpTDkLCYb0",
     "youtubeMusic": "smpTDkLCYb0"
-  }
+  },
+  "mbid": "019a1378-2cdc-4425-95f4-f84733872e05",
+  "lastfmId": "Vangelis/_/Main+Titles",
+  "listeners": 125040,
+  "playcount": 605061,
+  "artistMbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "GwB2EZS9x9I",
   "title": "Frenzy",
   "artist": "Iggy Pop",
-  "lastFetched": "2025-11-16T20:01:39.044Z",
+  "lastFetched": "2025-11-19T09:52:03.707Z",
   "odesli": {
     "amazonMusic": "B0BKKFJL96",
     "amazonStore": "B0BKKFJL96",
@@ -13,5 +13,10 @@
     "tidal": "263887953",
     "youtube": "GwB2EZS9x9I",
     "youtubeMusic": "GwB2EZS9x9I"
-  }
+  },
+  "mbid": "f0022b89-5fe9-4d15-80d8-9ec7e2b79b17",
+  "lastfmId": "Iggy+Pop/_/Frenzy",
+  "listeners": 31107,
+  "playcount": 93254,
+  "artistMbid": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7"
 }

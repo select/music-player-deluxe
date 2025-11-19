@@ -1,8 +1,8 @@
 {
   "youtubeId": "jVBJz7-fDFw",
   "title": "Closer",
-  "artist": "Decto",
-  "lastFetched": "2025-11-18T20:47:33.149Z",
+  "artist": "decto",
+  "lastFetched": "2025-11-19T11:31:23.603Z",
   "odesli": {
     "boomplay": "125625809",
     "appleMusic": "1657762290",
@@ -12,5 +12,8 @@
     "tidal": "264090729",
     "youtube": "jVBJz7-fDFw",
     "youtubeMusic": "jVBJz7-fDFw"
-  }
+  },
+  "lastfmId": "decto/_/Closer",
+  "listeners": 6,
+  "playcount": 9
 }
