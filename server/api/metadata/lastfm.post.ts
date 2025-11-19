@@ -28,15 +28,27 @@ export default defineEventHandler(async (event) => {
 		let lastfmResult;
 		// Fetch Last.fm data
 		try {
-			const searchResults = await searchTrack(artist, title);
-			const bestMatch = getBestTrackMatch(searchResults.result);
-			if (!bestMatch) {
+			lastfmResult = await getTrackInfo(artist, title);
+			if (!lastfmResult) {
 				throw createError({
 					statusCode: 404,
-					statusMessage: "Faild find last.fm track info",
+					statusMessage:
+						"Last.fm result does not match the requested artist and title",
 				});
 			}
-			lastfmResult = await getTrackInfo(bestMatch.artistName, bestMatch.name);
+			// Check if artist and title match the Last.fm result
+			const resultArtist = lastfmResult?.artist?.name?.toLowerCase() || "";
+			const resultTitle = lastfmResult?.name?.toLowerCase() || "";
+			const inputArtist = artist.toLowerCase();
+			const inputTitle = title.toLowerCase();
+
+			if (resultArtist !== inputArtist || resultTitle !== inputTitle) {
+				throw createError({
+					statusCode: 404,
+					statusMessage:
+						"Last.fm result does not match the requested artist and title",
+				});
+			}
 		} catch {
 			throw createError({
 				statusCode: 500,

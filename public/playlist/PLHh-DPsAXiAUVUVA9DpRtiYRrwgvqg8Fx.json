@@ -199,10 +199,13 @@
         "tidal": "334913270",
         "youtube": "UP9K4YJItzA",
         "youtubeMusic": "UP9K4YJItzA",
-        "musicbrainz": "01d02806-b421-4d8e-b8de-df0f7dd45125"
+        "musicbrainz": "01d02806-b421-4d8e-b8de-df0f7dd45125",
+        "lastfm": "Dear+Reader/_/Smoke+Machine"
       },
       "createdAt": 1754958246565,
-      "userId": "ed0f5d38eced79c1b3b55d02962e68bce13cdb1b30e7d96400b3db3971c94c09"
+      "userId": "ed0f5d38eced79c1b3b55d02962e68bce13cdb1b30e7d96400b3db3971c94c09",
+      "listeners": 4800,
+      "playcount": 26828
     },
     {
       "id": "XOGWbaOOeCM",
@@ -468,8 +471,8 @@
       "title": "Ne Am Despartit (Original Mix)",
       "channel": "Raze de Soare - Topic",
       "duration": "4:21",
-      "artist": "Raze De Soare",
-      "musicTitle": "Ne Am Despartit",
+      "artist": "Raze de Soare",
+      "musicTitle": "Ne Am Despartit - Original Mix",
       "externalIds": {
         "amazonMusic": "B0140GG47C",
         "amazonStore": "B0140GG47C",
@@ -480,10 +483,13 @@
         "tidal": "54648649",
         "yandex": "56089322",
         "youtube": "2G4VidDLc2o",
-        "youtubeMusic": "2G4VidDLc2o"
+        "youtubeMusic": "2G4VidDLc2o",
+        "lastfm": "Raze+de+Soare/_/Ne+Am+Despartit+-+Original+Mix"
       },
       "createdAt": 1751642911273,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "listeners": 4865,
+      "playcount": 21079
     },
     {
       "id": "D7DJDABIbGk",
@@ -491,33 +497,40 @@
       "channel": "Nico Medina",
       "duration": "5:24",
       "artist": "Björk",
-      "musicTitle": "Pagan Poetry",
+      "musicTitle": "Pagan Poetry  (Live At The Royal Opera House)",
       "tags": [
+        "alternative rock",
+        "ambient",
+        "electronic",
+        "electronica",
+        "experimental",
+        "grunge",
+        "punk",
+        "rock",
+        "synth-pop",
+        "trip hop",
+        "icelandic",
         "a cappella",
         "alternative",
         "alternative pop",
-        "ambient",
         "art pop",
         "avant-garde",
         "avant-garde pop",
         "baroque pop",
         "downtempo",
         "edm",
-        "electronic",
-        "electronica",
-        "experimental",
         "folktronica",
-        "icelandic",
         "idm",
         "leftfield",
-        "progressive pop",
-        "trip hop"
+        "progressive pop"
       ],
       "createdAt": 1751670691064,
       "userId": "d0ebd620edfede5561374725d238b826965f80677d0d91fb765fff78408121f5",
       "externalIds": {
-        "musicbrainz": "1e8efb50-40b8-4739-8abb-97e9650d7f6a"
-      }
+        "musicbrainz": "8969dc6d-5fdf-4735-9744-49a6ea1deef1"
+      },
+      "listeners": 3580,
+      "playcount": 4374
     },
     {
       "id": "hLXyoiApCAc",
@@ -558,10 +571,13 @@
         "tidal": "438753319",
         "youtube": "417a8410GUQ",
         "youtubeMusic": "417a8410GUQ",
-        "musicbrainz": "c50e86ee-9fbc-4704-96fa-9fc271391684"
+        "musicbrainz": "c50e86ee-9fbc-4704-96fa-9fc271391684",
+        "lastfm": "Dj+BeBeDeRa/_/Tarraxo+Guetto+Muita+Liamba"
       },
       "createdAt": 1751874765017,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "listeners": 208,
+      "playcount": 431
     },
     {
       "id": "vogYl8g_6KU",
@@ -631,10 +647,13 @@
         "yandex": "14276752",
         "youtube": "gj2iGAifSNI",
         "youtubeMusic": "gj2iGAifSNI",
-        "musicbrainz": "559be2d9-7b66-48fa-88d4-8aa5ac8957e6"
+        "musicbrainz": "559be2d9-7b66-48fa-88d4-8aa5ac8957e6",
+        "lastfm": "Johnny+Paycheck/_/Take+This+Job+and+Shove+It"
       },
       "createdAt": 1751987242843,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "listeners": 121687,
+      "playcount": 443002
     },
     {
       "id": "QySirDr6aA8",
@@ -659,10 +678,13 @@
         "yandex": "70848219",
         "youtube": "QySirDr6aA8",
         "youtubeMusic": "QySirDr6aA8",
-        "musicbrainz": "b9409fcb-f212-46d2-8c24-9b3bb242c1ef"
+        "musicbrainz": "b9409fcb-f212-46d2-8c24-9b3bb242c1ef",
+        "lastfm": "Billy+Brooks/_/Fourty+Days"
       },
       "createdAt": 1751989008218,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "listeners": 13395,
+      "playcount": 42338
     },
     {
       "id": "cOgShYm1F0U",
@@ -32068,5 +32090,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2025-11-19T02:29:15.453Z"
+  "lastFetched": "2025-11-19T02:50:01.215Z"
 }
