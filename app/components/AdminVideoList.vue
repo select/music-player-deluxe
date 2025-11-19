@@ -356,13 +356,10 @@ const augmentWithOdesli = async (videoId: string): Promise<void> => {
 	try {
 		loadingStates.value[videoId] = true;
 
-		const songData = await $fetch<SongMetaData>(
-			"/api/metadata/odesli-augment",
-			{
-				method: "POST",
-				body: { youtubeId: videoId },
-			},
-		);
+		const songData = await $fetch<SongMetaData>("/api/metadata/odesli", {
+			method: "POST",
+			body: { youtubeId: videoId },
+		});
 
 		songDataMap.value[videoId] = songData;
 	} catch (error) {

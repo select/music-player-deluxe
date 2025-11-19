@@ -79,12 +79,12 @@ const handleSelectResult = async (selectedMbid: string): Promise<void> => {
 
 	try {
 		const response = await $fetch<MusicBrainzResponse>(
-			"/api/musicbrainz/match",
+			"/api/metadata/musicbrainz",
 			{
 				method: "POST",
 				body: {
 					videoId: props.videoId,
-					selectedMbid,
+					mbid: selectedMbid,
 				} as MusicBrainzMatchRequest,
 			},
 		);

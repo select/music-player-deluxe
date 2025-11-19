@@ -186,6 +186,11 @@ async function main(): Promise<void> {
 			return false;
 		}
 
+		// Skip videos that already have Last.fm external IDs
+		if (video.externalIds?.lastfm) {
+			return false;
+		}
+
 		const artistTitle = extractArtistAndTitle(video);
 		return artistTitle !== null;
 	});

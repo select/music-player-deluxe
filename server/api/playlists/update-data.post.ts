@@ -136,9 +136,9 @@ export default defineEventHandler(async (event) => {
 				// Fuse artistTags, tags, and genres
 				const fusedTags: string[] = [];
 
-				// Add recording tags
-				if (songData.tags && songData.tags.length > 0) {
-					fusedTags.push(...songData.tags);
+				// Add Last.fm tags
+				if (songData.lastfmTags && songData.lastfmTags.length > 0) {
+					fusedTags.push(...songData.lastfmTags);
 				}
 
 				// Add genres
@@ -146,13 +146,18 @@ export default defineEventHandler(async (event) => {
 					fusedTags.push(...songData.genres);
 				}
 
+				// Add recording tags
+				if (songData.tags && songData.tags.length > 0) {
+					fusedTags.push(...songData.tags);
+				}
+
 				// Add artist tags
 				if (songData.artistTags && songData.artistTags.length > 0) {
 					fusedTags.push(...songData.artistTags);
 				}
 
-				// Remove duplicates and sort
-				const uniqueTags = Array.from(new Set(fusedTags)).sort();
+				// Remove duplicates while preserving order
+				const uniqueTags = Array.from(new Set(fusedTags));
 
 				// Check for music data changes
 				const hasMusicChanges =
@@ -160,7 +165,10 @@ export default defineEventHandler(async (event) => {
 					video.musicTitle !== songData.title ||
 					JSON.stringify(video.tags || []) !== JSON.stringify(uniqueTags) ||
 					JSON.stringify(video.externalIds || {}) !==
-						JSON.stringify(songData.odesli || {});
+						JSON.stringify(songData.odesli || {}) ||
+					video.listeners !== songData.listeners ||
+					video.playcount !== songData.playcount ||
+					video.lastfmSummary !== songData.lastfmSummary;
 
 				if (hasMusicChanges) {
 					hasChanges = true;
@@ -172,12 +180,21 @@ export default defineEventHandler(async (event) => {
 					musicTitle: songData.title,
 					tags: uniqueTags.length > 0 ? uniqueTags : undefined,
 					externalIds: songData.odesli,
+					listeners: songData.listeners,
+					playcount: songData.playcount,
+					lastfmSummary: songData.lastfmSummary,
 				};
 				if (songData.mbid) {
 					if (!updatedVideo.externalIds) {
 						updatedVideo.externalIds = {};
 					}
 					updatedVideo.externalIds["musicbrainz"] = songData.mbid;
+				}
+				if (songData.lastfmId) {
+					if (!updatedVideo.externalIds) {
+						updatedVideo.externalIds = {};
+					}
+					updatedVideo.externalIds["lastfm"] = songData.lastfmId;
 				}
 			}
 
@@ -191,13 +208,17 @@ export default defineEventHandler(async (event) => {
 					fusedTags.push(...video.tags);
 				}
 
-				// Add AI tags
-				if (aiData.ai.tags && aiData.ai.tags.length > 0) {
+				// Add AI tags only if no other tags exist
+				if (
+					aiData.ai.tags &&
+					aiData.ai.tags.length > 0 &&
+					fusedTags.length === 0
+				) {
 					fusedTags.push(...aiData.ai.tags);
 				}
 
-				// Remove duplicates and sort
-				const uniqueTags = Array.from(new Set(fusedTags)).sort();
+				// Remove duplicates while preserving order
+				const uniqueTags = Array.from(new Set(fusedTags));
 
 				// Only update artist and musicTitle if they don't already exist
 				const newArtist = video.artist || aiData.ai.artist;

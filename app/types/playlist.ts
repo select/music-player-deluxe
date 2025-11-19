@@ -13,6 +13,10 @@ export interface Video {
 	userId?: string | null;
 	// External platform IDs
 	externalIds?: Record<string, string>;
+	// Last.fm fields
+	listeners?: number;
+	playcount?: number;
+	lastfmSummary?: string;
 }
 
 export interface Playlist {
@@ -96,7 +100,7 @@ export interface MusicBrainzResponse {
 
 export interface MusicBrainzMatchRequest {
 	videoId: string;
-	selectedMbid: string;
+	mbid: string;
 }
 
 export interface MusicBrainzSearchRequest {

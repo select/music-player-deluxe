@@ -1,11 +1,10 @@
 import { MusicBrainzApi } from "musicbrainz-api";
-import { promises as fs } from "fs";
-import { join } from "path";
 import type {
 	MusicBrainzMatchRequest,
 	SongMetaData,
 	MusicBrainzResponse,
 } from "~/types";
+import { getSongData, updateSongData } from "../../utils/songData";
 
 const mbApi = new MusicBrainzApi({
 	appName: "MusicPlaylistView",
@@ -17,21 +16,20 @@ export default defineEventHandler(async (event) => {
 	try {
 		const body = (await readBody(event)) as MusicBrainzMatchRequest;
 
-		if (!body.videoId || !body.selectedMbid) {
+		if (!body.videoId || !body.mbid) {
 			throw createError({
 				statusCode: 400,
 				statusMessage: "Video ID and selected MusicBrainz ID are required",
 			});
 		}
 
-		const { videoId, selectedMbid } = body;
+		const { videoId, mbid } = body;
 
-		// Define the file path for storing the matched data
-		const songsDir = join(process.cwd(), "server", "assets", "songs");
-		const filePath = join(songsDir, `${videoId}.json`);
+		// Get existing song data
+		const existingSongData = await getSongData(videoId);
 
 		// Fetch recording details from MusicBrainz using the API library
-		const recordingData = (await mbApi.lookup("recording", selectedMbid, [
+		const recordingData = (await mbApi.lookup("recording", mbid, [
 			"artist-credits",
 			"releases",
 			"tags",
@@ -55,29 +53,30 @@ export default defineEventHandler(async (event) => {
 		// Extract artist MBID
 		const artistMbid = recordingData["artist-credit"]?.[0]?.artist?.id;
 
-		// Create song data object
-		const songData: SongMetaData = {
-			mbid: selectedMbid,
-			title: recordingData.title || "Unknown Title",
-			artist: recordingData["artist-credit"]?.[0]?.name || "Unknown Artist",
+		// Merge MusicBrainz data with existing song data
+		const updatedSongData: SongMetaData = {
+			// Keep existing data
+			...existingSongData,
+			// Update with MusicBrainz data
+			mbid: mbid,
+			title: existingSongData.title || recordingData.title || "Unknown Title",
+			artist:
+				existingSongData.artist ||
+				recordingData["artist-credit"]?.[0]?.name ||
+				"Unknown Artist",
 			artistMbid: artistMbid,
 			releaseCount: releaseCount,
-			tags: tags,
-			genres: genres,
+			tags: tags.length > 0 ? tags : existingSongData.tags,
+			genres: genres.length > 0 ? genres : existingSongData.genres,
 			duration: recordingData.length
 				? Math.round(recordingData.length / 1000)
-				: undefined,
+				: existingSongData.duration,
 			youtubeId: videoId,
-			lastFetched: new Date().toISOString(),
 		};
 
-		// Store the song data to file
+		// Save the updated song data
 		try {
-			// Ensure the songs directory exists
-			await fs.mkdir(songsDir, { recursive: true });
-
-			// Write the song data to file
-			await fs.writeFile(filePath, JSON.stringify(songData, null, 2), "utf-8");
+			await updateSongData(updatedSongData);
 		} catch (fileError) {
 			console.warn("Failed to save song data:", fileError);
 			throw createError({
@@ -88,7 +87,7 @@ export default defineEventHandler(async (event) => {
 
 		return {
 			success: true,
-			data: songData,
+			data: updatedSongData,
 			cached: false,
 		} as MusicBrainzResponse;
 	} catch (error: any) {

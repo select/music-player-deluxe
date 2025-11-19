@@ -156,7 +156,7 @@ export function transformLastfmData(trackInfo: LastFMTrackInfo) {
 	const tags = trackInfo.toptags?.tag?.map((tag) => tag.name) || [];
 
 	return {
-		name: trackInfo.name,
+		title: trackInfo.name,
 		mbid: trackInfo.mbid,
 		lastfmId: lastfmId || undefined,
 		listeners: trackInfo.listeners ? parseInt(trackInfo.listeners) : undefined,

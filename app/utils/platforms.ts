@@ -14,6 +14,12 @@ export const PLATFORMS: Record<string, Platform> = {
 		icon: "i-simple-icons:musicbrainz",
 		getUrl: (id: string) => `https://musicbrainz.org/recording/${id}`,
 	},
+	lastfm: {
+		id: "lastfm",
+		name: "Last.fm",
+		icon: "i-simple-icons:lastdotfm",
+		getUrl: (id: string) => `https://www.last.fm/music/${id}`,
+	},
 	bandcamp: {
 		id: "bandcamp",
 		name: "Bandcamp",
@@ -112,6 +118,7 @@ export const PLATFORMS: Record<string, Platform> = {
 export const DEFAULT_SELECTED_PLATFORMS = [
 	"spotify",
 	"musicbrainz",
+	"lastfm",
 	"bandcamp",
 ];
 

@@ -49,7 +49,7 @@
 								:placeholder="parsedTitle.artist"
 								data-input
 								@keydown.stop
-							>
+							/>
 						</td>
 
 						<!-- Swap Button Column -->
@@ -73,7 +73,7 @@
 								:placeholder="parsedTitle.title"
 								data-input
 								@keydown.stop
-							>
+							/>
 						</td>
 
 						<!-- Confidence Column -->
@@ -178,7 +178,7 @@ const handleSearch = async (index: number): Promise<void> => {
 	}
 
 	try {
-		const response = await $fetch("/api/musicbrainz/search", {
+		const response = await $fetch("/api/metadata/musicbrainz-search", {
 			method: "POST",
 			body: {
 				artist: searchData.artist,

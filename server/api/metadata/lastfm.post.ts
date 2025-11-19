@@ -50,9 +50,12 @@ export default defineEventHandler(async (event) => {
 		) {
 			// Save the file
 			try {
+				const lastfmData = transformLastfmData(lastfmResult);
 				await updateSongData({
 					...songData,
-					...transformLastfmData(lastfmResult),
+					...lastfmData,
+					// Preserve existing mbid if it exists
+					mbid: songData.mbid || lastfmData.mbid,
 				});
 			} catch {
 				throw createError({
@@ -67,9 +70,12 @@ export default defineEventHandler(async (event) => {
 			});
 		}
 
+		const lastfmData = transformLastfmData(lastfmResult);
 		return {
 			...songData,
-			...transformLastfmData(lastfmResult),
+			...lastfmData,
+			// Preserve existing mbid if it exists
+			mbid: songData.mbid || lastfmData.mbid,
 		};
 	} catch (error: any) {
 		console.error("Error augmenting song data with Last.fm:", error);
