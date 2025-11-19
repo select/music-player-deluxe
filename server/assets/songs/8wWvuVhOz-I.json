@@ -2,7 +2,7 @@
   "youtubeId": "8wWvuVhOz-I",
   "title": "Walk together",
   "artist": "Raum",
-  "lastFetched": "2025-11-17T01:10:58.778Z",
+  "lastFetched": "2025-11-19T08:44:39.074Z",
   "odesli": {
     "amazonMusic": "B09RDSH441",
     "amazonStore": "B09RDSH441",
@@ -19,5 +19,10 @@
     "yandex": "100033614",
     "youtube": "8wWvuVhOz-I",
     "youtubeMusic": "8wWvuVhOz-I"
-  }
+  },
+  "mbid": "2e42a1b9-15a9-43e6-992c-5e811881e501",
+  "lastfmId": "Raum/_/Walk+together",
+  "listeners": 10082,
+  "playcount": 39603,
+  "artistMbid": "50ed738b-11fb-4fef-805c-a8dffb1c7b02"
 }

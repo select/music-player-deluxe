@@ -2,7 +2,7 @@
   "youtubeId": "yJSP2L3hmWc",
   "title": "Trouble",
   "artist": "Say She She",
-  "lastFetched": "2025-11-17T01:08:22.756Z",
+  "lastFetched": "2025-11-19T08:39:03.096Z",
   "odesli": {
     "amazonMusic": "B0BMPPS9G9",
     "amazonStore": "B0BMPPS9G9",
@@ -12,5 +12,10 @@
     "tidal": "260977601",
     "youtube": "yJSP2L3hmWc",
     "youtubeMusic": "yJSP2L3hmWc"
-  }
+  },
+  "mbid": "f56899d4-8afc-405a-b232-b5f589956493",
+  "lastfmId": "Say+She+She/_/Trouble",
+  "listeners": 13927,
+  "playcount": 41259,
+  "artistMbid": "64dad611-8ada-4696-ac5f-ecb8bf73d51b"
 }

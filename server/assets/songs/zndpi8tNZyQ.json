@@ -1,8 +1,8 @@
 {
   "youtubeId": "zndpi8tNZyQ",
   "title": "Hallogallo",
-  "artist": "Neu!",
-  "lastFetched": "2025-11-16T19:09:44.742Z",
+  "artist": "NEU!",
+  "lastFetched": "2025-11-19T05:56:01.958Z",
   "odesli": {
     "amazonMusic": "B08M3W6D53",
     "amazonStore": "B08M3W6D53",
@@ -13,5 +13,9 @@
     "yandex": "38321640",
     "youtube": "zndpi8tNZyQ",
     "youtubeMusic": "zndpi8tNZyQ"
-  }
+  },
+  "mbid": "06d45ab7-7257-48dd-a936-67a9c230c1c2",
+  "lastfmId": "NEU%21/_/Hallogallo",
+  "listeners": 189186,
+  "playcount": 889456
 }

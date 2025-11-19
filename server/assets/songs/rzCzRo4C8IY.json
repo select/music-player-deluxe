@@ -2,7 +2,7 @@
   "youtubeId": "rzCzRo4C8IY",
   "title": "Doctor D",
   "artist": "VHS Glitch",
-  "lastFetched": "2025-11-17T00:47:32.475Z",
+  "lastFetched": "2025-11-19T07:50:38.495Z",
   "odesli": {
     "amazonMusic": "B07D1X2X74",
     "amazonStore": "B07D1X2X74",
@@ -14,5 +14,10 @@
     "tidal": "88842775",
     "youtube": "rzCzRo4C8IY",
     "youtubeMusic": "rzCzRo4C8IY"
-  }
+  },
+  "mbid": "867b1620-18f9-4c45-94a7-0b25a55a3b08",
+  "lastfmId": "VHS+Glitch/_/Doctor+D",
+  "listeners": 8651,
+  "playcount": 58537,
+  "artistMbid": "13505577-7c12-431b-bb81-19a41fc48c99"
 }

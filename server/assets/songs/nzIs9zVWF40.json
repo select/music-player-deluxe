@@ -2,7 +2,7 @@
   "youtubeId": "nzIs9zVWF40",
   "title": "Sub Noctem",
   "artist": "Shades",
-  "lastFetched": "2025-11-17T01:18:09.046Z",
+  "lastFetched": "2025-11-19T08:49:46.187Z",
   "odesli": {
     "amazonMusic": "B0B4V4CCMF",
     "amazonStore": "B0B4V4CCMF",
@@ -16,5 +16,10 @@
     "yandex": "128313299",
     "youtube": "nzIs9zVWF40",
     "youtubeMusic": "nzIs9zVWF40"
-  }
+  },
+  "mbid": "8c2b06cd-831d-4d42-bc73-6330f8ad7350",
+  "lastfmId": "Shades/_/Sub+Noctem",
+  "listeners": 2965,
+  "playcount": 11906,
+  "artistMbid": "ce987947-6e57-42a3-bd54-b386550da5d8"
 }

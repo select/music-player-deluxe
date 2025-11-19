@@ -3,6 +3,7 @@
 import * as fs from "fs";
 import * as path from "path";
 import { fileURLToPath } from "url";
+import type { Playlist, SongMetaData } from "../app/types/playlist.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -15,38 +16,13 @@ const FAIL_FILE = path.join(__dirname, "../data/lastfm-fail.json");
 const API_URL = "http://localhost:3000/api/metadata/lastfm";
 const RATE_LIMIT_MS = 30000; // 30 seconds between requests (Last.fm is more lenient)
 
-interface Video {
-	id: string;
-	title: string;
-	artist?: string;
-	channel: string;
-	externalIds?: Record<string, string>;
-}
-
-interface Playlist {
-	videos: Video[];
-}
-
 interface FailData {
 	failedIds: string[];
 }
 
-interface LastFmAugmentResponse {
-	youtubeId: string;
-	artist: string;
-	title: string;
-	album?: string;
-	duration?: number;
-	tags?: string[];
-	playcount?: number;
-	listeners?: number;
-	mbid?: string;
-	lastFetched: string;
-}
-
 interface ApiResult {
 	success: boolean;
-	data?: LastFmAugmentResponse;
+	data?: SongMetaData;
 	error?: string;
 }
 
@@ -87,53 +63,6 @@ function saveFailFile(failData: FailData): void {
 	}
 }
 
-// Extract artist and title from video data
-function extractArtistAndTitle(
-	video: Video,
-): { artist: string; title: string } | null {
-	// If we already have artist and title, use them
-	if (video.artist && video.title) {
-		return { artist: video.artist, title: video.title };
-	}
-
-	// Try to parse from title using common patterns
-	const title = video.title;
-
-	// Common patterns: "Artist - Title", "Artist: Title", "Artist | Title"
-	const patterns = [
-		/^(.+?)\s*-\s*(.+)$/,
-		/^(.+?)\s*:\s*(.+)$/,
-		/^(.+?)\s*\|\s*(.+)$/,
-		/^(.+?)\s*–\s*(.+)$/,
-	];
-
-	for (const pattern of patterns) {
-		const match = title.match(pattern);
-		if (match && match[1] && match[2]) {
-			const artist = match[1].trim();
-			const songTitle = match[2].trim();
-
-			// Skip if it looks like it might be a video description rather than artist-title
-			if (artist.length > 50 || songTitle.length > 100) {
-				continue;
-			}
-
-			return { artist, title: songTitle };
-		}
-	}
-
-	// If no pattern matches, try using channel as artist
-	if (
-		video.channel &&
-		!video.channel.includes("Topic") &&
-		!video.channel.includes("Records")
-	) {
-		return { artist: video.channel, title: video.title };
-	}
-
-	return null;
-}
-
 // Make API request
 async function callLastFmAugment(
 	videoId: string,
@@ -157,7 +86,7 @@ async function callLastFmAugment(
 			throw new Error(`HTTP ${response.status}: ${response.statusText}`);
 		}
 
-		const data = (await response.json()) as LastFmAugmentResponse;
+		const data = (await response.json()) as SongMetaData;
 		return { success: true, data };
 	} catch (error) {
 		return { success: false, error: (error as Error).message };
@@ -191,8 +120,8 @@ async function main(): Promise<void> {
 			return false;
 		}
 
-		const artistTitle = extractArtistAndTitle(video);
-		return artistTitle !== null;
+		// Check if video has required fields for processing
+		return video.artist && video.musicTitle;
 	});
 
 	console.log(`Found ${videosToProcess.length} videos to process`);
@@ -212,22 +141,15 @@ async function main(): Promise<void> {
 			`\n[${processedCount}/${videosToProcess.length}] Processing: ${video.id}`,
 		);
 
-		const artistTitle = extractArtistAndTitle(video);
-		if (!artistTitle) {
-			console.log("❌ Could not extract artist and title");
-			failCount++;
-			continue;
-		}
-
 		console.log(`Title: ${video.title}`);
 		console.log(
-			`Extracted - Artist: ${artistTitle.artist}, Title: ${artistTitle.title}`,
+			`Extracted - Artist: ${video.artist}, Title: ${video.musicTitle}`,
 		);
 
 		const result = await callLastFmAugment(
 			video.id,
-			artistTitle.artist,
-			artistTitle.title,
+			video.artist!,
+			video.musicTitle!,
 		);
 
 		if (result.success && result.data) {

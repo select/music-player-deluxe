@@ -2,7 +2,7 @@
   "youtubeId": "epqZztGIBck",
   "title": "Bladl",
   "artist": "Kofelgschroa",
-  "lastFetched": "2025-11-17T01:21:37.049Z",
+  "lastFetched": "2025-11-19T08:57:54.321Z",
   "odesli": {
     "amazonMusic": "B00OUPPLJG",
     "amazonStore": "B00OUPPLJG",
@@ -14,5 +14,10 @@
     "tidal": "37546493",
     "youtube": "epqZztGIBck",
     "youtubeMusic": "epqZztGIBck"
-  }
+  },
+  "mbid": "a77cd8ec-6289-44e2-8786-af0e70296dc2",
+  "lastfmId": "Kofelgschroa/_/Bladl",
+  "listeners": 671,
+  "playcount": 4236,
+  "artistMbid": "d69a9069-74b4-47e0-9e7a-8d703bda6e3e"
 }

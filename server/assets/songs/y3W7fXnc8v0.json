@@ -2,7 +2,7 @@
   "youtubeId": "y3W7fXnc8v0",
   "title": "Sommerregen",
   "artist": "Schiller",
-  "lastFetched": "2025-11-17T00:58:36.209Z",
+  "lastFetched": "2025-11-19T08:17:10.315Z",
   "odesli": {
     "amazonMusic": "B073SZJDG9",
     "amazonStore": "B073SZJDG9",
@@ -17,5 +17,10 @@
     "tidal": "67828696",
     "youtube": "y3W7fXnc8v0",
     "youtubeMusic": "y3W7fXnc8v0"
-  }
+  },
+  "mbid": "217c22dd-634c-4f3b-8902-dd929217dcde",
+  "lastfmId": "Schiller/_/Sommerregen",
+  "listeners": 21800,
+  "playcount": 90260,
+  "artistMbid": "75ebdfa0-4a8a-496a-a57f-e4bb93b14d4c"
 }

@@ -1,8 +1,8 @@
 {
   "youtubeId": "TA9Rec1qAFQ",
-  "title": "Good Times Bad Times (Remaster)",
+  "title": "Good Times Bad Times (remaster)",
   "artist": "Led Zeppelin",
-  "lastFetched": "2025-11-16T17:00:42.511Z",
+  "lastFetched": "2025-11-19T06:32:16.546Z",
   "odesli": {
     "amazonMusic": "B00KGBCN1M",
     "amazonStore": "B00KGBCN1M",
@@ -20,5 +20,8 @@
     "yandex": "17370435",
     "youtube": "TA9Rec1qAFQ",
     "youtubeMusic": "TA9Rec1qAFQ"
-  }
+  },
+  "lastfmId": "Led+Zeppelin/_/Good+Times+Bad+Times+(remaster)",
+  "listeners": 15130,
+  "playcount": 54423
 }

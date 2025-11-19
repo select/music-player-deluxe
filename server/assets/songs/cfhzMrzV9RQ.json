@@ -2,7 +2,7 @@
   "youtubeId": "cfhzMrzV9RQ",
   "title": "Sointu",
   "artist": "Timo Lassy",
-  "lastFetched": "2025-11-17T00:49:30.815Z",
+  "lastFetched": "2025-11-19T07:55:13.542Z",
   "odesli": {
     "appleMusic": "1709352889",
     "itunes": "1709352889",
@@ -10,5 +10,10 @@
     "spotify": "4AxpIkFTm1WgqkBrrB237S",
     "youtube": "cfhzMrzV9RQ",
     "youtubeMusic": "cfhzMrzV9RQ"
-  }
+  },
+  "mbid": "3c343c84-c5a7-47ce-979a-7ae96cd112a5",
+  "lastfmId": "Timo+Lassy/_/Sointu",
+  "listeners": 1978,
+  "playcount": 4690,
+  "artistMbid": "65541f32-262c-4a6a-a887-d192d6630ff3"
 }

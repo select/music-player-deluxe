@@ -2,7 +2,7 @@
   "youtubeId": "yPaXJg-lGm0",
   "title": "A Dark Machine",
   "artist": "ShockOne",
-  "lastFetched": "2025-11-17T00:42:14.105Z",
+  "lastFetched": "2025-11-19T07:37:52.739Z",
   "odesli": {
     "amazonMusic": "B07T3PX7LV",
     "amazonStore": "B07T3PX7LV",
@@ -11,5 +11,9 @@
     "tidal": "114231123",
     "youtube": "yPaXJg-lGm0",
     "youtubeMusic": "yPaXJg-lGm0"
-  }
+  },
+  "lastfmId": "ShockOne/_/A+Dark+Machine",
+  "listeners": 13345,
+  "playcount": 69631,
+  "artistMbid": "df76ffff-c150-4aa1-ab1d-e2714d865038"
 }

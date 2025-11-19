@@ -1,8 +1,8 @@
 {
   "youtubeId": "6qAazPVLONM",
-  "title": "Komm gib mir deine Hand (Remastered 2009)",
+  "title": "Komm Gib Mir Deine Hand (Remastered 2009)",
   "artist": "The Beatles",
-  "lastFetched": "2025-11-16T21:56:27.585Z",
+  "lastFetched": "2025-11-19T06:34:48.305Z",
   "odesli": {
     "amazonMusic": "B07FTG9RQ6",
     "amazonStore": "B07FTG9RQ6",
@@ -20,5 +20,10 @@
     "yandex": "27374160",
     "youtube": "6qAazPVLONM",
     "youtubeMusic": "6qAazPVLONM"
-  }
+  },
+  "mbid": "d73a8e7a-d090-4862-b514-edc448a0fec6",
+  "lastfmId": "The+Beatles/_/Komm+Gib+Mir+Deine+Hand+(Remastered+2009)",
+  "listeners": 910,
+  "playcount": 2135,
+  "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
 }

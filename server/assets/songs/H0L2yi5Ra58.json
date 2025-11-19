@@ -2,7 +2,7 @@
   "youtubeId": "H0L2yi5Ra58",
   "title": "Speech Coma",
   "artist": "Blood Red Shoes",
-  "lastFetched": "2025-11-17T01:24:53.114Z",
+  "lastFetched": "2025-11-19T09:06:33.085Z",
   "odesli": {
     "amazonMusic": "B08P6C81VP",
     "amazonStore": "B08P6C81VP",
@@ -11,5 +11,10 @@
     "tidal": "26691381",
     "youtube": "H0L2yi5Ra58",
     "youtubeMusic": "H0L2yi5Ra58"
-  }
+  },
+  "mbid": "14c20945-3ac8-43cb-9737-bc3fe9663ff2",
+  "lastfmId": "Blood+Red+Shoes/_/Speech+Coma",
+  "listeners": 15808,
+  "playcount": 88072,
+  "artistMbid": "cd830a8f-89d2-4e96-96cb-7a497e51d437"
 }

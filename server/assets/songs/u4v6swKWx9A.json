@@ -2,7 +2,7 @@
   "youtubeId": "u4v6swKWx9A",
   "title": "Spinning Away",
   "artist": "Brian Eno",
-  "lastFetched": "2025-11-16T19:58:53.480Z",
+  "lastFetched": "2025-11-19T09:14:43.074Z",
   "odesli": {
     "amazonMusic": "B00H89ODHW",
     "amazonStore": "B00H89ODHW",
@@ -10,5 +10,10 @@
     "tidal": "106694080",
     "youtube": "u4v6swKWx9A",
     "youtubeMusic": "u4v6swKWx9A"
-  }
+  },
+  "mbid": "5f9ddb43-bf0a-3f84-8533-24df39eb1fa8",
+  "lastfmId": "Brian+Eno/_/Spinning+Away",
+  "listeners": 91686,
+  "playcount": 483903,
+  "artistMbid": "ff95eb47-41c4-4f7f-a104-cdc30f02e872"
 }

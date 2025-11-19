@@ -2,7 +2,7 @@
   "youtubeId": "MTqlaX4qfVI",
   "title": "Balek",
   "artist": "Marc Moulin",
-  "lastFetched": "2025-11-16T19:19:13.682Z",
+  "lastFetched": "2025-11-19T07:10:56.645Z",
   "odesli": {
     "amazonMusic": "B00WK87K44",
     "amazonStore": "B00WK87K44",
@@ -18,5 +18,10 @@
     "yandex": "269116",
     "youtube": "MTqlaX4qfVI",
     "youtubeMusic": "MTqlaX4qfVI"
-  }
+  },
+  "mbid": "18cd7e15-5bfe-4fc1-844b-717df32d5148",
+  "lastfmId": "Marc+Moulin/_/Balek",
+  "listeners": 4943,
+  "playcount": 16400,
+  "artistMbid": "441111d5-fa9f-4f08-bb03-60a081394487"
 }

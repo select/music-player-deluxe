@@ -2,7 +2,7 @@
   "youtubeId": "8SsPgE27Blc",
   "title": "Holy Hell",
   "artist": "Eddie Chacon",
-  "lastFetched": "2025-11-17T01:00:30.482Z",
+  "lastFetched": "2025-11-19T08:21:14.234Z",
   "odesli": {
     "amazonMusic": "B0B6QN3K9Q",
     "amazonStore": "B0B6QN3K9Q",
@@ -17,5 +17,10 @@
     "tidal": "266733493",
     "youtube": "8SsPgE27Blc",
     "youtubeMusic": "8SsPgE27Blc"
-  }
+  },
+  "mbid": "439bc5e1-bb24-4ad5-a4fc-25bca132bca4",
+  "lastfmId": "Eddie+Chacon/_/Holy+Hell",
+  "listeners": 12331,
+  "playcount": 39069,
+  "artistMbid": "6996c534-61ca-4c7d-805b-07247227f902"
 }

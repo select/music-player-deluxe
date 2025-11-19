@@ -1,11 +1,11 @@
 {
   "mbid": "6f9c8921-91ce-467a-ae56-4d1433b7c7dd",
-  "title": "I'm Gonna Find A Cave",
+  "title": "I'm Gonna Find a Cave",
   "artist": "The Banana Splits",
   "tags": [],
   "duration": 145,
   "youtubeId": "3cfHKmQ2ZzI",
-  "lastFetched": "2025-11-16T19:50:14.310Z",
+  "lastFetched": "2025-11-19T04:46:54.410Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0DVJ6YX7P",
@@ -14,5 +14,9 @@
     "tidal": "414830136",
     "youtube": "3cfHKmQ2ZzI",
     "youtubeMusic": "3cfHKmQ2ZzI"
-  }
+  },
+  "lastfmId": "The+Banana+Splits/_/I%27m+Gonna+Find+a+Cave",
+  "listeners": 877,
+  "playcount": 2830,
+  "artistMbid": "710ac829-5739-43eb-a1c3-92894adc5f48"
 }

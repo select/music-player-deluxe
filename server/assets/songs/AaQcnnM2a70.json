@@ -1,8 +1,8 @@
 {
   "youtubeId": "AaQcnnM2a70",
   "title": "Lasse redn",
-  "artist": "die ärzte",
-  "lastFetched": "2025-11-17T01:08:39.007Z",
+  "artist": "Die Ärzte",
+  "lastFetched": "2025-11-19T08:39:33.385Z",
   "odesli": {
     "amazonMusic": "B08C2CC1F1",
     "amazonStore": "B08C2CC1F1",
@@ -11,5 +11,10 @@
     "tidal": "146882428",
     "youtube": "AaQcnnM2a70",
     "youtubeMusic": "AaQcnnM2a70"
-  }
+  },
+  "mbid": "9a93db5a-e2e0-396a-b681-7bad962d3e69",
+  "lastfmId": "Die+%C3%84rzte/_/Lasse+redn",
+  "listeners": 108024,
+  "playcount": 935762,
+  "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320"
 }

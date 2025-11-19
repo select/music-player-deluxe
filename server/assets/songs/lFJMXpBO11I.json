@@ -2,7 +2,7 @@
   "youtubeId": "lFJMXpBO11I",
   "title": "Viento Borrascoso",
   "artist": "Tourniquet",
-  "lastFetched": "2025-11-16T19:10:04.184Z",
+  "lastFetched": "2025-11-19T05:55:31.545Z",
   "odesli": {
     "amazonMusic": "B00H3X7BR2",
     "amazonStore": "B00H3X7BR2",
@@ -15,5 +15,10 @@
     "yandex": "15762782",
     "youtube": "lFJMXpBO11I",
     "youtubeMusic": "lFJMXpBO11I"
-  }
+  },
+  "mbid": "1801bf3f-5eba-3cb7-834d-a35b0b31cab8",
+  "lastfmId": "Tourniquet/_/Viento+Borrascoso",
+  "listeners": 1647,
+  "playcount": 7882,
+  "artistMbid": "0770a42f-10e3-4204-8459-0c6fba885852"
 }

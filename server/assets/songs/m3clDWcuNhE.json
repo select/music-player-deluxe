@@ -1,8 +1,8 @@
 {
   "youtubeId": "m3clDWcuNhE",
-  "title": "Cat on Tin Roof",
+  "title": "Cat On Tin Roof",
   "artist": "Blonde Redhead",
-  "lastFetched": "2025-11-16T19:18:46.545Z",
+  "lastFetched": "2025-11-19T07:12:58.707Z",
   "odesli": {
     "amazonMusic": "B00N40MU7Y",
     "amazonStore": "B00N40MU7Y",
@@ -15,5 +15,10 @@
     "yandex": "47640823",
     "youtube": "m3clDWcuNhE",
     "youtubeMusic": "m3clDWcuNhE"
-  }
+  },
+  "mbid": "08c22a69-d6a4-472f-a09f-dde73b03d686",
+  "lastfmId": "Blonde+Redhead/_/Cat+On+Tin+Roof",
+  "listeners": 39665,
+  "playcount": 148518,
+  "artistMbid": "6821bf3f-5d5b-4b0f-8fa4-79d2ab2d9219"
 }

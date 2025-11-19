@@ -2,7 +2,7 @@
   "youtubeId": "34MSoogCiVg",
   "title": "Echo",
   "artist": "BSEARL",
-  "lastFetched": "2025-11-17T01:07:03.829Z",
+  "lastFetched": "2025-11-19T08:36:00.834Z",
   "odesli": {
     "amazonMusic": "B0B2PSP4ZG",
     "amazonStore": "B0B2PSP4ZG",
@@ -10,5 +10,10 @@
     "spotify": "7vXmwendLGaahqYxpCTSvj",
     "youtube": "34MSoogCiVg",
     "youtubeMusic": "34MSoogCiVg"
-  }
+  },
+  "mbid": "a3fcfed9-b42a-444c-9ae1-973091ee62b6",
+  "lastfmId": "BSEARL/_/Echo",
+  "listeners": 3158,
+  "playcount": 13515,
+  "artistMbid": "f52b01cb-fd98-4f85-b855-0ecf47827de2"
 }

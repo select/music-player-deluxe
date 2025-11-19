@@ -2,7 +2,7 @@
   "youtubeId": "K9uiF5e2E9k",
   "title": "My Heroine",
   "artist": "Silverstein",
-  "lastFetched": "2025-11-16T22:02:44.472Z",
+  "lastFetched": "2025-11-19T06:49:01.817Z",
   "odesli": {
     "amazonMusic": "B09252GYS1",
     "amazonStore": "B09252GYS1",
@@ -15,5 +15,10 @@
     "yandex": "1791234",
     "youtube": "K9uiF5e2E9k",
     "youtubeMusic": "K9uiF5e2E9k"
-  }
+  },
+  "mbid": "c6775545-5beb-3157-9529-0f0fc39b364e",
+  "lastfmId": "Silverstein/_/My+Heroine",
+  "listeners": 343872,
+  "playcount": 3418289,
+  "artistMbid": "d89de379-665d-425c-b2e9-41b95d1edb36"
 }

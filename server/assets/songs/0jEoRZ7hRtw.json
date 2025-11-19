@@ -1,6 +1,6 @@
 {
   "mbid": "4a2d94eb-db3b-4bb7-94f1-850e304443fa",
-  "title": "Fire by the River",
+  "title": "Fire By The River",
   "artist": "Harumi",
   "artistMbid": "6752d176-45fb-49e1-9bbc-d4e1ee0738f7",
   "releaseCount": 3,
@@ -10,7 +10,7 @@
   ],
   "duration": 214,
   "youtubeId": "0jEoRZ7hRtw",
-  "lastFetched": "2025-11-16T20:47:52.257Z",
+  "lastFetched": "2025-11-19T03:51:58.331Z",
   "odesli": {
     "amazonMusic": "B0BT9XMLNR",
     "amazonStore": "B0BT9XMLNR",
@@ -19,5 +19,8 @@
     "tidal": "45414339",
     "youtube": "0jEoRZ7hRtw",
     "youtubeMusic": "0jEoRZ7hRtw"
-  }
+  },
+  "lastfmId": "Harumi/_/Fire+By+The+River",
+  "listeners": 51942,
+  "playcount": 213075
 }

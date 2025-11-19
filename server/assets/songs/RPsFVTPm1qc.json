@@ -2,7 +2,7 @@
   "youtubeId": "RPsFVTPm1qc",
   "title": "Shout 2000",
   "artist": "Disturbed",
-  "lastFetched": "2025-11-18T19:45:47.860Z",
+  "lastFetched": "2025-11-19T08:57:23.937Z",
   "odesli": {
     "amazonMusic": "B0011Z7JHU",
     "amazonStore": "B0011Z7JHU",
@@ -15,5 +15,11 @@
     "yandex": "368216",
     "youtube": "RPsFVTPm1qc",
     "youtubeMusic": "RPsFVTPm1qc"
-  }
+  },
+  "mbid": "955dd434-660a-4446-ba9f-9c92eec49233",
+  "lastfmId": "Disturbed/_/Shout+2000",
+  "listeners": 337067,
+  "playcount": 2214565,
+  "artistMbid": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5",
+  "lastfmSummary": "This song is a cover of Tears for Fears's Shout. <a href=\"http://www.last.fm/music/Disturbed/_/Shout+2000\">Read more on Last.fm</a>."
 }

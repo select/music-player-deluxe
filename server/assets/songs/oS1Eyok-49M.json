@@ -2,7 +2,7 @@
   "youtubeId": "oS1Eyok-49M",
   "title": "Kitsch",
   "artist": "Bilderbuch",
-  "lastFetched": "2025-11-16T22:02:57.118Z",
+  "lastFetched": "2025-11-19T06:49:32.256Z",
   "odesli": {
     "amazonMusic": "B07YLRCCJX",
     "amazonStore": "B07YLRCCJX",
@@ -14,5 +14,10 @@
     "yandex": "58713912",
     "youtube": "oS1Eyok-49M",
     "youtubeMusic": "oS1Eyok-49M"
-  }
+  },
+  "mbid": "c8909905-c055-41fc-950e-e2e5f9392d18",
+  "lastfmId": "Bilderbuch/_/Kitsch",
+  "listeners": 11124,
+  "playcount": 45465,
+  "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6"
 }

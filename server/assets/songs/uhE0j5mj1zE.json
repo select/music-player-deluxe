@@ -2,7 +2,7 @@
   "youtubeId": "uhE0j5mj1zE",
   "title": "Latino",
   "artist": "Herbert Pixner Projekt",
-  "lastFetched": "2025-11-16T21:47:10.317Z",
+  "lastFetched": "2025-11-19T06:12:53.373Z",
   "odesli": {
     "amazonMusic": "B01N4NKE90",
     "amazonStore": "B01N4NKE90",
@@ -17,5 +17,10 @@
     "yandex": "29551897",
     "youtube": "uhE0j5mj1zE",
     "youtubeMusic": "uhE0j5mj1zE"
-  }
+  },
+  "mbid": "3843e8f7-b597-4e6c-8328-57549baf0a25",
+  "lastfmId": "Herbert+Pixner+Projekt/_/Latino",
+  "listeners": 424,
+  "playcount": 1815,
+  "artistMbid": "e2360a56-f63a-4589-9295-f83130b563c5"
 }

@@ -1,8 +1,8 @@
 {
   "youtubeId": "VrQc6jQkE3Q",
-  "title": "Far from Here",
+  "title": "Far From Here",
   "artist": "Oscuro",
-  "lastFetched": "2025-11-16T19:53:49.307Z",
+  "lastFetched": "2025-11-19T07:29:44.694Z",
   "odesli": {
     "amazonMusic": "B07YM1S2SQ",
     "amazonStore": "B07YM1S2SQ",
@@ -13,5 +13,9 @@
     "tidal": "118991829",
     "youtube": "VrQc6jQkE3Q",
     "youtubeMusic": "VrQc6jQkE3Q"
-  }
+  },
+  "lastfmId": "Oscuro/_/Far+From+Here",
+  "listeners": 275,
+  "playcount": 1606,
+  "artistMbid": "92e43ae5-757f-437a-a156-5e7f10499a78"
 }

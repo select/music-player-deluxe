@@ -2,7 +2,7 @@
   "youtubeId": "JEv6HO2Dfw4",
   "title": "The Opposite Of Me",
   "artist": "Weezer",
-  "lastFetched": "2025-11-17T01:25:05.811Z",
+  "lastFetched": "2025-11-19T09:07:34.730Z",
   "odesli": {
     "amazonMusic": "B0B3HDK3QZ",
     "amazonStore": "B0B3HDK3QZ",
@@ -15,5 +15,10 @@
     "yandex": "105309884",
     "youtube": "JEv6HO2Dfw4",
     "youtubeMusic": "JEv6HO2Dfw4"
-  }
+  },
+  "mbid": "6681ba6e-4844-4dbc-9f29-a60d3d04735f",
+  "lastfmId": "Weezer/_/The+Opposite+Of+Me",
+  "listeners": 21061,
+  "playcount": 109263,
+  "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "c8BLPJOZ1sU",
   "title": "Mishto",
   "artist": "Gogol Bordello",
-  "lastFetched": "2025-11-16T19:10:16.670Z",
+  "lastFetched": "2025-11-19T05:51:26.499Z",
   "odesli": {
     "amazonMusic": "B0B4FDFY27",
     "amazonStore": "B0B4FDFY27",
@@ -12,5 +12,10 @@
     "tidal": "234254137",
     "youtube": "c8BLPJOZ1sU",
     "youtubeMusic": "c8BLPJOZ1sU"
-  }
+  },
+  "mbid": "0ecee3c8-4b2b-42c3-8f09-eab480ef94a3",
+  "lastfmId": "Gogol+Bordello/_/Mishto",
+  "listeners": 77757,
+  "playcount": 318639,
+  "artistMbid": "f47fc54d-b334-4321-8218-00c5b11d4dd1"
 }

@@ -1,8 +1,8 @@
 {
   "youtubeId": "u1ZvPSpLxCg",
   "title": "Mad World",
-  "artist": "Tears For Fears",
-  "lastFetched": "2025-11-16T21:53:10.565Z",
+  "artist": "Tears for Fears",
+  "lastFetched": "2025-11-19T06:22:34.396Z",
   "odesli": {
     "amazonMusic": "B000W24V8I",
     "amazonStore": "B000W24V8I",
@@ -15,5 +15,16 @@
     "yandex": "47768",
     "youtube": "u1ZvPSpLxCg",
     "youtubeMusic": "u1ZvPSpLxCg"
-  }
+  },
+  "lastfmId": "Tears+for+Fears/_/Mad+World",
+  "listeners": 897469,
+  "playcount": 5847437,
+  "artistMbid": "7c7f9c94-dee8-4903-892b-6cf44652e2de",
+  "lastfmTags": [
+    "80s",
+    "new wave",
+    "pop",
+    "synth pop",
+    "alternative"
+  ]
 }

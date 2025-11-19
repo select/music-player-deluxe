@@ -2,7 +2,7 @@
   "youtubeId": "oDMldn7hFZo",
   "title": "The Dripping Tap",
   "artist": "King Gizzard & The Lizard Wizard",
-  "lastFetched": "2025-11-16T19:57:07.039Z",
+  "lastFetched": "2025-11-19T07:14:29.946Z",
   "odesli": {
     "amazonMusic": "B09V3GRH72",
     "amazonStore": "B09V3GRH72",
@@ -17,5 +17,9 @@
     "yandex": "102654324",
     "youtube": "oDMldn7hFZo",
     "youtubeMusic": "oDMldn7hFZo"
-  }
+  },
+  "mbid": "015706ec-b04b-4d43-aab6-4d6949e3b4c6",
+  "lastfmId": "King+Gizzard+&+The+Lizard+Wizard/_/The+Dripping+Tap",
+  "listeners": 99041,
+  "playcount": 771352
 }

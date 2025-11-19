@@ -2,7 +2,7 @@
   "youtubeId": "u6GluQJItMg",
   "title": "Set It Off",
   "artist": "Thousand Foot Krutch",
-  "lastFetched": "2025-11-16T19:08:11.148Z",
+  "lastFetched": "2025-11-19T06:09:48.232Z",
   "odesli": {
     "amazonMusic": "B000TGZUWI",
     "amazonStore": "B000TGZUWI",
@@ -20,5 +20,10 @@
     "yandex": "343845",
     "youtube": "u6GluQJItMg",
     "youtubeMusic": "u6GluQJItMg"
-  }
+  },
+  "mbid": "204f5e23-b735-3f5e-950c-39d2c2c9798c",
+  "lastfmId": "Thousand+Foot+Krutch/_/Set+It+Off",
+  "listeners": 19950,
+  "playcount": 102500,
+  "artistMbid": "1339fab0-3ad8-4b8e-afac-7b7ae34509c7"
 }

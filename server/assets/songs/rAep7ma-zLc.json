@@ -2,7 +2,7 @@
   "youtubeId": "rAep7ma-zLc",
   "title": "Untitled Dubplate",
   "artist": "Breakage",
-  "lastFetched": "2025-11-17T01:18:21.882Z",
+  "lastFetched": "2025-11-19T08:50:16.906Z",
   "odesli": {
     "amazonMusic": "B09KSC7FDV",
     "amazonStore": "B09KSC7FDV",
@@ -19,5 +19,10 @@
     "yandex": "94320309",
     "youtube": "rAep7ma-zLc",
     "youtubeMusic": "rAep7ma-zLc"
-  }
+  },
+  "mbid": "3008e1b3-a699-4c72-a5dd-7cc3a6d83054",
+  "lastfmId": "Breakage/_/Untitled+Dubplate",
+  "listeners": 2570,
+  "playcount": 6975,
+  "artistMbid": "6e9a0ac8-699b-4817-8f9b-25a6dba89f57"
 }

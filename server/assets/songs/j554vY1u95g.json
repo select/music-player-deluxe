@@ -2,7 +2,7 @@
   "youtubeId": "j554vY1u95g",
   "title": "Bonbon aus Wurst",
   "artist": "Helge Schneider",
-  "lastFetched": "2025-11-16T19:54:59.402Z",
+  "lastFetched": "2025-11-19T07:24:39.027Z",
   "odesli": {
     "appleMusic": "1644398201",
     "itunes": "1644398201",
@@ -10,5 +10,10 @@
     "tidal": "245097768",
     "youtube": "j554vY1u95g",
     "youtubeMusic": "j554vY1u95g"
-  }
+  },
+  "mbid": "30d41d71-c0a7-370e-885f-74b02eb60737",
+  "lastfmId": "Helge+Schneider/_/Bonbon+aus+Wurst",
+  "listeners": 22035,
+  "playcount": 71037,
+  "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ojLYdFeiPdA",
   "title": "Moonlit",
   "artist": "Falling Up",
-  "lastFetched": "2025-11-16T19:58:00.641Z",
+  "lastFetched": "2025-11-19T09:07:04.005Z",
   "odesli": {
     "amazonMusic": "B000TDG624",
     "amazonStore": "B000TDG624",
@@ -11,5 +11,10 @@
     "tidal": "1413119",
     "youtube": "ojLYdFeiPdA",
     "youtubeMusic": "ojLYdFeiPdA"
-  }
+  },
+  "mbid": "4f93fc24-508a-3660-a5a9-6b62ba1394f4",
+  "lastfmId": "Falling+Up/_/Moonlit",
+  "listeners": 19164,
+  "playcount": 88208,
+  "artistMbid": "a4d12798-4891-4ced-90ec-a8b8ff7b3b71"
 }

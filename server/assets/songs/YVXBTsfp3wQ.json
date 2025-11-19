@@ -2,7 +2,7 @@
   "youtubeId": "YVXBTsfp3wQ",
   "title": "Underground Sound",
   "artist": "Joey Valence & Brae",
-  "lastFetched": "2025-11-16T19:09:17.825Z",
+  "lastFetched": "2025-11-19T05:58:33.797Z",
   "odesli": {
     "amazonMusic": "B094TM75B2",
     "amazonStore": "B094TM75B2",
@@ -20,5 +20,10 @@
     "yandex": "82873878",
     "youtube": "YVXBTsfp3wQ",
     "youtubeMusic": "YVXBTsfp3wQ"
-  }
+  },
+  "mbid": "32ebfba5-72ad-425f-84e1-29d6c427918e",
+  "lastfmId": "Joey+Valence+&+Brae/_/Underground+Sound",
+  "listeners": 80665,
+  "playcount": 412010,
+  "artistMbid": "93a4d03b-4f0e-42da-ae0b-a62876e46071"
 }

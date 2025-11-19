@@ -2,7 +2,7 @@
   "youtubeId": "0IkuKfrYgUc",
   "title": "Freak Like Me",
   "artist": "NoMBe",
-  "lastFetched": "2025-11-17T01:06:06.424Z",
+  "lastFetched": "2025-11-19T08:33:58.350Z",
   "odesli": {
     "amazonMusic": "B083TKZ3SC",
     "amazonStore": "B083TKZ3SC",
@@ -12,5 +12,10 @@
     "yandex": "34337348",
     "youtube": "0IkuKfrYgUc",
     "youtubeMusic": "0IkuKfrYgUc"
-  }
+  },
+  "mbid": "4129e75d-eb44-4406-89e4-73e4eb948395",
+  "lastfmId": "NoMBe/_/Freak+Like+Me",
+  "listeners": 72715,
+  "playcount": 370632,
+  "artistMbid": "a588237b-c9ee-49c5-b254-cb670cce3b2b"
 }

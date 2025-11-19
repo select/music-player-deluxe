@@ -1,8 +1,8 @@
 {
   "youtubeId": "_iTEs-G7pB0",
-  "title": "El Muerto Vivo",
+  "title": "El muerto vivo",
   "artist": "Peret",
-  "lastFetched": "2025-11-16T17:10:46.062Z",
+  "lastFetched": "2025-11-19T06:28:42.221Z",
   "odesli": {
     "amazonMusic": "B01M1HOC5L",
     "amazonStore": "B01M1HOC5L",
@@ -13,5 +13,9 @@
     "tidal": "48346542",
     "youtube": "_iTEs-G7pB0",
     "youtubeMusic": "_iTEs-G7pB0"
-  }
+  },
+  "lastfmId": "Peret/_/El+muerto+vivo",
+  "listeners": 28179,
+  "playcount": 89041,
+  "artistMbid": "796481a3-2977-45b6-84b3-eb06bb10a903"
 }

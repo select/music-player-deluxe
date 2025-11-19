@@ -2,7 +2,7 @@
   "youtubeId": "_KSGKWrgjaQ",
   "title": "Lemon Scent",
   "artist": "Dead Sara",
-  "lastFetched": "2025-11-17T01:21:13.581Z",
+  "lastFetched": "2025-11-19T08:56:53.494Z",
   "odesli": {
     "amazonMusic": "B077GHVWVX",
     "amazonStore": "B077GHVWVX",
@@ -13,5 +13,10 @@
     "tidal": "81236398",
     "youtube": "_KSGKWrgjaQ",
     "youtubeMusic": "_KSGKWrgjaQ"
-  }
+  },
+  "mbid": "ff95edca-6a6d-3354-a959-5d277bedc5d1",
+  "lastfmId": "Dead+Sara/_/Lemon+Scent",
+  "listeners": 20386,
+  "playcount": 128254,
+  "artistMbid": "0f4fa442-3e9c-4355-8e17-a39386a52077"
 }

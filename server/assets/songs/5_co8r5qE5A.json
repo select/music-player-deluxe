@@ -2,7 +2,7 @@
   "youtubeId": "5_co8r5qE5A",
   "title": "Codeword Marlene",
   "artist": "Tape Five",
-  "lastFetched": "2025-11-16T19:10:49.593Z",
+  "lastFetched": "2025-11-19T05:48:53.710Z",
   "odesli": {
     "amazonMusic": "B06Y1L759H",
     "amazonStore": "B06Y1L759H",
@@ -19,5 +19,10 @@
     "tidal": "147647652",
     "youtube": "5_co8r5qE5A",
     "youtubeMusic": "5_co8r5qE5A"
-  }
+  },
+  "mbid": "400264f9-bf39-48a9-ac62-d609bfbe2c05",
+  "lastfmId": "Tape+Five/_/Codeword+Marlene",
+  "listeners": 1554,
+  "playcount": 5030,
+  "artistMbid": "5c01e21f-8222-4728-abce-267abf83544a"
 }

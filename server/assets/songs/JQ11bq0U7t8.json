@@ -1,8 +1,8 @@
 {
   "youtubeId": "JQ11bq0U7t8",
-  "title": "Elephant on Channel 1",
+  "title": "Elephant On Channel 1",
   "artist": "Rejoicer",
-  "lastFetched": "2025-11-16T19:51:38.994Z",
+  "lastFetched": "2025-11-19T06:53:37.275Z",
   "odesli": {
     "amazonMusic": "B09HY43MPZ",
     "amazonStore": "B09HY43MPZ",
@@ -19,5 +19,9 @@
     "yandex": "92715549",
     "youtube": "JQ11bq0U7t8",
     "youtubeMusic": "JQ11bq0U7t8"
-  }
+  },
+  "lastfmId": "Rejoicer/_/Elephant+On+Channel+1",
+  "listeners": 238,
+  "playcount": 516,
+  "artistMbid": "9a0e4534-1839-465d-ba6b-1184ede7f618"
 }

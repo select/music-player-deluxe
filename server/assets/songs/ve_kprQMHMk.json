@@ -2,7 +2,7 @@
   "youtubeId": "ve_kprQMHMk",
   "title": "I Want To Sleep",
   "artist": "DJ Koze",
-  "lastFetched": "2025-11-16T20:40:58.284Z",
+  "lastFetched": "2025-11-19T03:32:37.921Z",
   "odesli": {
     "amazonMusic": "B07X64L92B",
     "amazonStore": "B07X64L92B",
@@ -18,5 +18,10 @@
     "yandex": "31588052",
     "youtube": "ve_kprQMHMk",
     "youtubeMusic": "ve_kprQMHMk"
-  }
+  },
+  "mbid": "85fd7290-cf81-431e-97a0-e56b9b81b39a",
+  "lastfmId": "DJ+Koze/_/I+Want+To+Sleep",
+  "listeners": 6445,
+  "playcount": 22931,
+  "artistMbid": "dd4458c8-6728-4a44-980c-48107fa72bb8"
 }

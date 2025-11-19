@@ -2,7 +2,7 @@
   "youtubeId": "St25uUeMpSY",
   "title": "Money Music",
   "artist": "Surprise Chef",
-  "lastFetched": "2025-11-17T01:19:38.975Z",
+  "lastFetched": "2025-11-19T08:53:20.225Z",
   "odesli": {
     "amazonMusic": "B0B64727S3",
     "amazonStore": "B0B64727S3",
@@ -10,5 +10,10 @@
     "spotify": "5aJaL72YTZmsfEK1xWexyw",
     "youtube": "St25uUeMpSY",
     "youtubeMusic": "St25uUeMpSY"
-  }
+  },
+  "mbid": "b459fb63-8fc3-4c0b-860a-60836b83ae47",
+  "lastfmId": "Surprise+Chef/_/Money+Music",
+  "listeners": 13480,
+  "playcount": 36943,
+  "artistMbid": "be809d9a-5841-4733-ad12-979ad6047a22"
 }

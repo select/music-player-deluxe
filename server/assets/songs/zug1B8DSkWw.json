@@ -2,7 +2,7 @@
   "youtubeId": "zug1B8DSkWw",
   "title": "Sisyphus",
   "artist": "Andrew Bird",
-  "lastFetched": "2025-11-17T01:05:27.035Z",
+  "lastFetched": "2025-11-19T08:32:27.213Z",
   "odesli": {
     "amazonMusic": "B07N85B5C5",
     "amazonStore": "B07N85B5C5",
@@ -15,5 +15,10 @@
     "yandex": "49159971",
     "youtube": "zug1B8DSkWw",
     "youtubeMusic": "zug1B8DSkWw"
-  }
+  },
+  "mbid": "c232a31f-e383-44f0-a569-871a852c6745",
+  "lastfmId": "Andrew+Bird/_/Sisyphus",
+  "listeners": 208820,
+  "playcount": 1339442,
+  "artistMbid": "081b133e-ce74-42ba-92c1-c18234acb532"
 }

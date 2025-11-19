@@ -2,7 +2,7 @@
   "youtubeId": "7HRzcu4uKvA",
   "title": "What Would You Do?",
   "artist": "Seether",
-  "lastFetched": "2025-11-17T00:56:38.934Z",
+  "lastFetched": "2025-11-19T08:12:34.037Z",
   "odesli": {
     "amazonMusic": "B0B5K1343W",
     "amazonStore": "B0B5K1343W",
@@ -13,5 +13,10 @@
     "tidal": "191886717",
     "youtube": "7HRzcu4uKvA",
     "youtubeMusic": "7HRzcu4uKvA"
-  }
+  },
+  "mbid": "ad5a3209-8793-48e2-b146-d32fb1915200",
+  "lastfmId": "Seether/_/What+Would+You+Do%3F",
+  "listeners": 17594,
+  "playcount": 102009,
+  "artistMbid": "fbcd7b29-455f-49e6-9c4f-8249d20a055e"
 }

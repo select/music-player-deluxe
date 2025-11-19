@@ -1,8 +1,8 @@
 {
   "youtubeId": "U-D_m0_i0Fs",
-  "title": "FEAST",
+  "title": "Feast",
   "artist": "Avant",
-  "lastFetched": "2025-11-16T21:59:50.750Z",
+  "lastFetched": "2025-11-19T06:42:23.759Z",
   "odesli": {
     "amazonMusic": "B0BFJZ1JJ3",
     "amazonStore": "B0BFJZ1JJ3",
@@ -18,5 +18,10 @@
     "yandex": "87601666",
     "youtube": "U-D_m0_i0Fs",
     "youtubeMusic": "U-D_m0_i0Fs"
-  }
+  },
+  "mbid": "2d4491be-eb11-40f0-87c5-e6d216c285de",
+  "lastfmId": "Avant/_/Feast",
+  "listeners": 7022,
+  "playcount": 12659,
+  "artistMbid": "6255c59a-de38-44de-b966-a3c4686f9941"
 }

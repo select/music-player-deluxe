@@ -2,7 +2,7 @@
   "youtubeId": "Gd5g7X9KPB4",
   "title": "The Man Who Told Everything",
   "artist": "Doves",
-  "lastFetched": "2025-11-16T21:54:20.198Z",
+  "lastFetched": "2025-11-19T06:26:39.135Z",
   "odesli": {
     "amazonMusic": "B000TDWM6S",
     "amazonStore": "B000TDWM6S",
@@ -11,5 +11,10 @@
     "tidal": "150680",
     "youtube": "Gd5g7X9KPB4",
     "youtubeMusic": "Gd5g7X9KPB4"
-  }
+  },
+  "mbid": "198b19df-18c4-309b-9f49-56ef465f3947",
+  "lastfmId": "Doves/_/The+Man+Who+Told+Everything",
+  "listeners": 99463,
+  "playcount": 449157,
+  "artistMbid": "9de8f66e-3cd1-4f11-8328-38200f0612b0"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ANt8WjoX18c",
   "title": "Ganz leicht",
   "artist": "City",
-  "lastFetched": "2025-11-16T21:58:20.135Z",
+  "lastFetched": "2025-11-19T06:38:51.302Z",
   "odesli": {
     "amazonMusic": "B073NNVXHJ",
     "amazonStore": "B073NNVXHJ",
@@ -18,5 +18,10 @@
     "tidal": "12583702",
     "youtube": "ANt8WjoX18c",
     "youtubeMusic": "ANt8WjoX18c"
-  }
+  },
+  "mbid": "1de96f65-ee69-3091-9ae4-c7b3f42812a0",
+  "lastfmId": "City/_/Ganz+leicht",
+  "listeners": 309,
+  "playcount": 617,
+  "artistMbid": "bb1ee9fe-c5b9-46da-94ab-ea6bec84b7aa"
 }

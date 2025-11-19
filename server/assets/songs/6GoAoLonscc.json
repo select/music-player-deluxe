@@ -1,8 +1,8 @@
 {
   "youtubeId": "6GoAoLonscc",
-  "title": "Flip the script (VIP)",
+  "title": "Flip The Script (VIP)",
   "artist": "ASHEZ",
-  "lastFetched": "2025-11-17T01:08:09.853Z",
+  "lastFetched": "2025-11-19T08:38:32.796Z",
   "odesli": {
     "audius": "1j63y",
     "boomplay": "80314153",
@@ -13,5 +13,9 @@
     "tidal": "393874114",
     "youtube": "6GoAoLonscc",
     "youtubeMusic": "6GoAoLonscc"
-  }
+  },
+  "lastfmId": "ASHEZ/_/Flip+The+Script+(VIP)",
+  "listeners": 2060,
+  "playcount": 7717,
+  "artistMbid": "8966c251-056b-4bc2-a43b-5b170c1ae0cb"
 }

@@ -1,8 +1,8 @@
 {
   "youtubeId": "27phIWvUYXQ",
-  "title": "Luck of Lucien",
+  "title": "Luck Of Lucien",
   "artist": "A Tribe Called Quest",
-  "lastFetched": "2025-11-17T01:00:43.794Z",
+  "lastFetched": "2025-11-19T08:21:44.545Z",
   "odesli": {
     "amazonMusic": "B0169CNVPS",
     "amazonStore": "B0169CNVPS",
@@ -14,5 +14,10 @@
     "yandex": "648079",
     "youtube": "27phIWvUYXQ",
     "youtubeMusic": "27phIWvUYXQ"
-  }
+  },
+  "mbid": "4e4eb697-75b2-47a8-9a21-8c2cac73c547",
+  "lastfmId": "A+Tribe+Called+Quest/_/Luck+Of+Lucien",
+  "listeners": 279968,
+  "playcount": 1278859,
+  "artistMbid": "9689aa5a-4471-4fb4-9721-07cecda0fa9f"
 }

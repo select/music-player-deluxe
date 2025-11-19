@@ -2,7 +2,7 @@
   "youtubeId": "Q_QTe1BsbuU",
   "title": "Locomotive",
   "artist": "Mop Mop",
-  "lastFetched": "2025-11-16T21:57:42.043Z",
+  "lastFetched": "2025-11-19T06:37:20.045Z",
   "odesli": {
     "amazonMusic": "B00LJSQVKK",
     "amazonStore": "B00LJSQVKK",
@@ -19,5 +19,10 @@
     "yandex": "20228146",
     "youtube": "Q_QTe1BsbuU",
     "youtubeMusic": "Q_QTe1BsbuU"
-  }
+  },
+  "mbid": "63b67cbe-7046-38a6-9ef0-a13a12c3206d",
+  "lastfmId": "Mop+Mop/_/Locomotive",
+  "listeners": 11383,
+  "playcount": 35892,
+  "artistMbid": "51a4b538-18cc-42aa-87b2-5865e8224af4"
 }

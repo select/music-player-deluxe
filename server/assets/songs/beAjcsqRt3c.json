@@ -1,8 +1,8 @@
 {
   "youtubeId": "beAjcsqRt3c",
-  "title": "¿Me Lo Dices O Me Lo Cuentas?",
+  "title": "¿Me Lo Dices o Me Lo Cuentas?",
   "artist": "Azucarillo Kings",
-  "lastFetched": "2025-11-17T00:45:20.390Z",
+  "lastFetched": "2025-11-19T07:45:31.290Z",
   "odesli": {
     "amazonMusic": "B000SFE6I4",
     "amazonStore": "B000SFE6I4",
@@ -18,5 +18,10 @@
     "yandex": "90217148",
     "youtube": "beAjcsqRt3c",
     "youtubeMusic": "beAjcsqRt3c"
-  }
+  },
+  "mbid": "9ab845db-bb0f-3432-959d-de25adc4b1ed",
+  "lastfmId": "Azucarillo+Kings/_/%C2%BFMe+Lo+Dices+o+Me+Lo+Cuentas%3F",
+  "listeners": 2088,
+  "playcount": 8264,
+  "artistMbid": "96852f3a-c726-415a-adf3-1e33cdbe9d3c"
 }

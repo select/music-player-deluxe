@@ -2,7 +2,7 @@
   "youtubeId": "azaKs-Y5T8k",
   "title": "Frisbeee",
   "artist": "Bilderbuch",
-  "lastFetched": "2025-11-17T01:00:57.108Z",
+  "lastFetched": "2025-11-19T08:22:14.958Z",
   "odesli": {
     "amazonMusic": "B07NDHB3Q9",
     "amazonStore": "B07NDHB3Q9",
@@ -15,5 +15,10 @@
     "yandex": "55976549",
     "youtube": "azaKs-Y5T8k",
     "youtubeMusic": "azaKs-Y5T8k"
-  }
+  },
+  "mbid": "280e04b5-bbf8-4270-8ea5-c9a42d06b60d",
+  "lastfmId": "Bilderbuch/_/Frisbeee",
+  "listeners": 11914,
+  "playcount": 66261,
+  "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6"
 }

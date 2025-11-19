@@ -2,7 +2,7 @@
   "youtubeId": "gql9220Qon8",
   "title": "Beer",
   "artist": "Reel Big Fish",
-  "lastFetched": "2025-11-16T21:57:29.640Z",
+  "lastFetched": "2025-11-19T06:36:49.752Z",
   "odesli": {
     "amazonMusic": "B00137T5XM",
     "amazonStore": "B00137T5XM",
@@ -11,5 +11,10 @@
     "tidal": "2994714",
     "youtube": "gql9220Qon8",
     "youtubeMusic": "gql9220Qon8"
-  }
+  },
+  "mbid": "cd7a236d-9d32-43c7-82bc-9a92660d5e5e",
+  "lastfmId": "Reel+Big+Fish/_/Beer",
+  "listeners": 337782,
+  "playcount": 2368736,
+  "artistMbid": "5e5480be-eded-44ad-9c45-f6136ec2f5db"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ki75xB0hBaY",
   "title": "Tonnow",
   "artist": "Gwenno",
-  "lastFetched": "2025-11-17T00:51:24.017Z",
+  "lastFetched": "2025-11-19T08:00:18.492Z",
   "odesli": {
     "amazonMusic": "B09T774DQ4",
     "amazonStore": "B09T774DQ4",
@@ -17,5 +17,9 @@
     "tidal": "217938043",
     "youtube": "ki75xB0hBaY",
     "youtubeMusic": "ki75xB0hBaY"
-  }
+  },
+  "lastfmId": "Gwenno/_/Tonnow",
+  "listeners": 3247,
+  "playcount": 9188,
+  "artistMbid": "8f5b15bd-0777-4564-9801-17462e5ff715"
 }

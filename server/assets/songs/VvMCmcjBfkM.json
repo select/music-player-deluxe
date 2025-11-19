@@ -2,7 +2,7 @@
   "youtubeId": "VvMCmcjBfkM",
   "title": "Front Left",
   "artist": "Amoss",
-  "lastFetched": "2025-11-17T01:04:47.509Z",
+  "lastFetched": "2025-11-19T08:30:55.204Z",
   "odesli": {
     "amazonMusic": "B0DWK8NSQS",
     "amazonStore": "B0DWK8NSQS",
@@ -11,5 +11,10 @@
     "tidal": "416715083",
     "youtube": "VvMCmcjBfkM",
     "youtubeMusic": "VvMCmcjBfkM"
-  }
+  },
+  "mbid": "63f88252-5dfc-4e9b-82cb-79e599f43bf0",
+  "lastfmId": "Amoss/_/Front+Left",
+  "listeners": 785,
+  "playcount": 2784,
+  "artistMbid": "cfd91deb-a9bd-43b8-a9c5-783fb5ce5a91"
 }

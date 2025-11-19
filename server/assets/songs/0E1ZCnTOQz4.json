@@ -1,8 +1,8 @@
 {
   "youtubeId": "0E1ZCnTOQz4",
   "title": "Sylt",
-  "artist": "Lolnein",
-  "lastFetched": "2025-11-17T00:42:01.479Z",
+  "artist": "LOLNEIN",
+  "lastFetched": "2025-11-19T07:37:21.097Z",
   "odesli": {
     "amazonMusic": "B0B242RM8F",
     "amazonStore": "B0B242RM8F",
@@ -14,5 +14,9 @@
     "tidal": "230563537",
     "youtube": "0E1ZCnTOQz4",
     "youtubeMusic": "0E1ZCnTOQz4"
-  }
+  },
+  "lastfmId": "LOLNEIN/_/Sylt",
+  "listeners": 2161,
+  "playcount": 21415,
+  "artistMbid": "a5c49b00-692e-4ea6-9d2d-d0ec3a8ffbcf"
 }

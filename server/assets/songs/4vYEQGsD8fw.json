@@ -2,7 +2,7 @@
   "youtubeId": "4vYEQGsD8fw",
   "title": "Starstruck",
   "artist": "Santigold",
-  "lastFetched": "2025-11-16T21:56:13.761Z",
+  "lastFetched": "2025-11-19T06:34:17.994Z",
   "odesli": {
     "amazonMusic": "B0017T6H4Q",
     "amazonStore": "B0017T6H4Q",
@@ -17,5 +17,10 @@
     "yandex": "6392415",
     "youtube": "4vYEQGsD8fw",
     "youtubeMusic": "4vYEQGsD8fw"
-  }
+  },
+  "mbid": "0d1d2c8a-78ec-39c6-aab3-bb492c5c3204",
+  "lastfmId": "Santigold/_/Starstruck",
+  "listeners": 128214,
+  "playcount": 539646,
+  "artistMbid": "97b20fe3-0924-4a5f-9955-d0b5c5f9587f"
 }

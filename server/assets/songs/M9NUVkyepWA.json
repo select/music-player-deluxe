@@ -2,7 +2,7 @@
   "youtubeId": "M9NUVkyepWA",
   "title": "Frustration",
   "artist": "Mando Diao",
-  "lastFetched": "2025-11-17T00:52:05.244Z",
+  "lastFetched": "2025-11-19T08:01:49.732Z",
   "odesli": {
     "amazonMusic": "B0CQM9WLV4",
     "amazonStore": "B0CQM9WLV4",
@@ -15,5 +15,10 @@
     "yandex": "102984091",
     "youtube": "M9NUVkyepWA",
     "youtubeMusic": "M9NUVkyepWA"
-  }
+  },
+  "mbid": "8effe102-e536-47fc-91b8-c53e733db4f8",
+  "lastfmId": "Mando+Diao/_/Frustration",
+  "listeners": 10772,
+  "playcount": 44172,
+  "artistMbid": "ea854cc1-13fc-4fd0-86a5-d2c7dba06764"
 }

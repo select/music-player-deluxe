@@ -51,7 +51,7 @@ export default defineEventHandler(async (event) => {
 			}
 		} catch {
 			throw createError({
-				statusCode: 500,
+				statusCode: 404,
 				statusMessage: "Faild to get last.fm track info",
 			});
 		}
@@ -68,6 +68,7 @@ export default defineEventHandler(async (event) => {
 					...lastfmData,
 					// Preserve existing mbid if it exists
 					mbid: songData.mbid || lastfmData.mbid,
+					artistMbid: songData.artistMbid || lastfmData.artistMbid,
 				});
 			} catch {
 				throw createError({
@@ -88,6 +89,7 @@ export default defineEventHandler(async (event) => {
 			...lastfmData,
 			// Preserve existing mbid if it exists
 			mbid: songData.mbid || lastfmData.mbid,
+			artistMbid: songData.artistMbid || lastfmData.artistMbid,
 		};
 	} catch (error: any) {
 		console.error("Error augmenting song data with Last.fm:", error);

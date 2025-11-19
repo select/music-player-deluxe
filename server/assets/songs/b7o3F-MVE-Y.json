@@ -2,7 +2,7 @@
   "youtubeId": "b7o3F-MVE-Y",
   "title": "Koo Koo Fun",
   "artist": "Major Lazer",
-  "lastFetched": "2025-11-16T19:58:24.652Z",
+  "lastFetched": "2025-11-19T09:10:08.434Z",
   "odesli": {
     "amazonMusic": "B0F647DSY6",
     "amazonStore": "B0F647DSY6",
@@ -14,5 +14,10 @@
     "soundcloud": "1347132814",
     "youtube": "b7o3F-MVE-Y",
     "youtubeMusic": "b7o3F-MVE-Y"
-  }
+  },
+  "mbid": "00d92cfe-ab1d-4cbe-9abe-98aa8ca6cbab",
+  "lastfmId": "Major+Lazer/_/Koo+Koo+Fun",
+  "listeners": 7070,
+  "playcount": 21791,
+  "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f"
 }

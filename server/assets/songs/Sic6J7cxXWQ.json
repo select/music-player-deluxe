@@ -2,7 +2,7 @@
   "youtubeId": "Sic6J7cxXWQ",
   "title": "The Wolf",
   "artist": "Billy Talent",
-  "lastFetched": "2025-11-16T19:51:53.505Z",
+  "lastFetched": "2025-11-19T06:56:09.443Z",
   "odesli": {
     "amazonMusic": "B0BTV5D86T",
     "amazonStore": "B0BTV5D86T",
@@ -14,5 +14,10 @@
     "yandex": "99231086",
     "youtube": "Sic6J7cxXWQ",
     "youtubeMusic": "Sic6J7cxXWQ"
-  }
+  },
+  "mbid": "1af63ee5-3641-4bd0-b4e7-edbf7f43a3fc",
+  "lastfmId": "Billy+Talent/_/The+Wolf",
+  "listeners": 17526,
+  "playcount": 91371,
+  "artistMbid": "fd429857-5ace-4609-ae54-1502c3bdac11"
 }
