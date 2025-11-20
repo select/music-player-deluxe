@@ -2,7 +2,7 @@
   "youtubeId": "9LabO-qRRK8",
   "title": "Galactic Centre",
   "artist": "Diatomic",
-  "lastFetched": "2025-11-18T22:25:23.075Z",
+  "lastFetched": "2025-11-19T15:03:21.783Z",
   "odesli": {
     "amazonMusic": "B0C3MV5N7Y",
     "amazonStore": "B0C3MV5N7Y",
@@ -20,5 +20,9 @@
     "yandex": "113352022",
     "youtube": "9LabO-qRRK8",
     "youtubeMusic": "9LabO-qRRK8"
-  }
+  },
+  "lastfmId": "Diatomic/_/Galactic+Centre",
+  "listeners": 25,
+  "playcount": 96,
+  "artistMbid": "07fcb697-a413-40fe-adc1-827d924a3284"
 }

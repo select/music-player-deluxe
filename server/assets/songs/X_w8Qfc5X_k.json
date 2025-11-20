@@ -1,8 +1,8 @@
 {
   "youtubeId": "X_w8Qfc5X_k",
   "title": "Mission Venice",
-  "artist": "Nightmares On Wax",
-  "lastFetched": "2025-11-18T23:18:53.927Z",
+  "artist": "Nightmares on Wax",
+  "lastFetched": "2025-11-19T16:42:15.386Z",
   "odesli": {
     "amazonMusic": "B084KPRP7Q",
     "amazonStore": "B084KPRP7Q",
@@ -13,5 +13,10 @@
     "tidal": "16024778",
     "youtube": "X_w8Qfc5X_k",
     "youtubeMusic": "X_w8Qfc5X_k"
-  }
+  },
+  "mbid": "4bf2a04a-2746-4c2d-a155-f7f5d98985ab",
+  "lastfmId": "Nightmares+on+Wax/_/Mission+Venice",
+  "listeners": 86656,
+  "playcount": 298369,
+  "artistMbid": "b8c5cc4f-239f-4e02-b46f-b040b77c2030"
 }

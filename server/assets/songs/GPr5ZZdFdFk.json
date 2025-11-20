@@ -2,7 +2,7 @@
   "youtubeId": "GPr5ZZdFdFk",
   "title": "Dreamer",
   "artist": "Dennis Wilson",
-  "lastFetched": "2025-11-18T23:10:00.032Z",
+  "lastFetched": "2025-11-19T16:23:47.923Z",
   "odesli": {
     "amazonMusic": "B006LRYABQ",
     "amazonStore": "B006LRYABQ",
@@ -19,5 +19,10 @@
     "yandex": "671531",
     "youtube": "GPr5ZZdFdFk",
     "youtubeMusic": "GPr5ZZdFdFk"
-  }
+  },
+  "mbid": "1003ca48-d3e2-4d25-98f9-2552ccbcd800",
+  "lastfmId": "Dennis+Wilson/_/Dreamer",
+  "listeners": 52216,
+  "playcount": 177709,
+  "artistMbid": "4051f6bf-6a59-4d23-bd8b-2fddb1389dc0"
 }

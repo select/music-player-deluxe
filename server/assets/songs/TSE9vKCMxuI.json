@@ -2,7 +2,7 @@
   "youtubeId": "TSE9vKCMxuI",
   "title": "Fillip",
   "artist": "Muse",
-  "lastFetched": "2025-11-18T23:13:04.050Z",
+  "lastFetched": "2025-11-19T16:29:26.768Z",
   "odesli": {
     "amazonMusic": "B002BG8R5Q",
     "amazonStore": "B002BG8R5Q",
@@ -10,5 +10,10 @@
     "tidal": "2767556",
     "youtube": "TSE9vKCMxuI",
     "youtubeMusic": "TSE9vKCMxuI"
-  }
+  },
+  "mbid": "1ecb6fbe-f9c8-4bf3-be8f-d64f0f744a95",
+  "lastfmId": "Muse/_/Fillip",
+  "listeners": 418387,
+  "playcount": 2592891,
+  "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "i79YGW9Ihz0",
   "title": "Sun Touch",
   "artist": "Herbie Hancock",
-  "lastFetched": "2025-11-18T22:17:32.031Z",
+  "lastFetched": "2025-11-19T14:45:55.659Z",
   "odesli": {
     "amazonMusic": "B00137QP8K",
     "amazonStore": "B00137QP8K",
@@ -19,5 +19,10 @@
     "yandex": "667182",
     "youtube": "i79YGW9Ihz0",
     "youtubeMusic": "i79YGW9Ihz0"
-  }
+  },
+  "mbid": "3fb76d1a-4f47-4d6d-ab70-a30876d3f7da",
+  "lastfmId": "Herbie+Hancock/_/Sun+Touch",
+  "listeners": 33840,
+  "playcount": 89828,
+  "artistMbid": "27613b78-1b9d-4ec3-9db5-fa0743465fdd"
 }

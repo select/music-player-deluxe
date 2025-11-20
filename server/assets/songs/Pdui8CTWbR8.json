@@ -2,7 +2,7 @@
   "youtubeId": "Pdui8CTWbR8",
   "title": "Island",
   "artist": "Heather Nova",
-  "lastFetched": "2025-11-18T22:54:38.229Z",
+  "lastFetched": "2025-11-19T16:00:16.508Z",
   "odesli": {
     "amazonMusic": "B00138FW9M",
     "amazonStore": "B00138FW9M",
@@ -19,5 +19,10 @@
     "yandex": "42385187",
     "youtube": "Pdui8CTWbR8",
     "youtubeMusic": "Pdui8CTWbR8"
-  }
+  },
+  "mbid": "0066b832-bd09-4603-84c1-a6929af75725",
+  "lastfmId": "Heather+Nova/_/Island",
+  "listeners": 56704,
+  "playcount": 177678,
+  "artistMbid": "d048022b-8e7a-48b4-be28-638922556639"
 }

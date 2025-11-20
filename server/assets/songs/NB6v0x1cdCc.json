@@ -2,7 +2,7 @@
   "youtubeId": "NB6v0x1cdCc",
   "title": "Carouser",
   "artist": "Passafire",
-  "lastFetched": "2025-11-19T10:20:41.217Z",
+  "lastFetched": "2025-11-19T17:32:19.077Z",
   "odesli": {
     "amazonMusic": "B0C34CWFNJ",
     "amazonStore": "B0C34CWFNJ",
@@ -10,5 +10,10 @@
     "tidal": "290497653",
     "youtube": "NB6v0x1cdCc",
     "youtubeMusic": "NB6v0x1cdCc"
-  }
+  },
+  "mbid": "92757c8f-cd53-3168-90ae-f0a16da18e17",
+  "lastfmId": "Passafire/_/Carouser",
+  "listeners": 2810,
+  "playcount": 11102,
+  "artistMbid": "d34516e1-b370-4b97-addd-6363ef0e9ecc"
 }

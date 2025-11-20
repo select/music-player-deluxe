@@ -2,7 +2,7 @@
   "youtubeId": "UW7lB7p0Eow",
   "title": "Ich will Spass",
   "artist": "Markus",
-  "lastFetched": "2025-11-19T10:07:09.806Z",
+  "lastFetched": "2025-11-19T17:14:00.972Z",
   "odesli": {
     "amazonMusic": "B0F24G6RNJ",
     "amazonStore": "B0F24G6RNJ",
@@ -12,5 +12,10 @@
     "tidal": "3380595",
     "youtube": "UW7lB7p0Eow",
     "youtubeMusic": "UW7lB7p0Eow"
-  }
+  },
+  "mbid": "2e6c7eb5-853b-4376-aad1-d21b1793c7b2",
+  "lastfmId": "Markus/_/Ich+will+Spass",
+  "listeners": 21393,
+  "playcount": 83928,
+  "artistMbid": "88a6e84f-a7bd-4cef-9e02-45476a61510c"
 }

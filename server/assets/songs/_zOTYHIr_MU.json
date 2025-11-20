@@ -2,7 +2,7 @@
   "youtubeId": "_zOTYHIr_MU",
   "title": "The Yum Factor",
   "artist": "Kaminanda",
-  "lastFetched": "2025-11-19T09:57:36.536Z",
+  "lastFetched": "2025-11-19T17:04:48.006Z",
   "odesli": {
     "amazonMusic": "B00773YV9E",
     "amazonStore": "B00773YV9E",
@@ -12,5 +12,10 @@
     "tidal": "132738164",
     "youtube": "_zOTYHIr_MU",
     "youtubeMusic": "_zOTYHIr_MU"
-  }
+  },
+  "mbid": "177a0c78-ae3f-48d0-8c8c-29dcb7715554",
+  "lastfmId": "Kaminanda/_/The+Yum+Factor",
+  "listeners": 5508,
+  "playcount": 21393,
+  "artistMbid": "0b382ebc-9813-4162-b856-b4eaa26883c7"
 }

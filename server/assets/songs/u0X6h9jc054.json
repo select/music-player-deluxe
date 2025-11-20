@@ -2,7 +2,7 @@
   "youtubeId": "u0X6h9jc054",
   "title": "Sunrise Chaser",
   "artist": "Ride",
-  "lastFetched": "2025-11-19T09:55:21.382Z",
+  "lastFetched": "2025-11-19T16:59:33.328Z",
   "odesli": {
     "amazonMusic": "B0CNQC8R9Z",
     "amazonStore": "B0CNQC8R9Z",
@@ -18,5 +18,10 @@
     "tidal": "330025803",
     "youtube": "u0X6h9jc054",
     "youtubeMusic": "u0X6h9jc054"
-  }
+  },
+  "mbid": "5d61a719-d4a1-4a6a-9d5d-0267df749360",
+  "lastfmId": "Ride/_/Sunrise+Chaser",
+  "listeners": 5466,
+  "playcount": 14287,
+  "artistMbid": "3f575ecd-627d-4f08-a89f-abd46d469c7e"
 }

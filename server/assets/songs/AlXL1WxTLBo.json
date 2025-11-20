@@ -1,8 +1,8 @@
 {
   "youtubeId": "AlXL1WxTLBo",
-  "title": "Ending",
+  "title": "ending",
   "artist": "Marvin Zeyss",
-  "lastFetched": "2025-11-18T23:19:11.461Z",
+  "lastFetched": "2025-11-19T16:42:45.907Z",
   "odesli": {
     "amazonMusic": "B07BJBRNXR",
     "amazonStore": "B07BJBRNXR",
@@ -16,5 +16,9 @@
     "tidal": "86061099",
     "youtube": "AlXL1WxTLBo",
     "youtubeMusic": "AlXL1WxTLBo"
-  }
+  },
+  "lastfmId": "Marvin+Zeyss/_/ending",
+  "listeners": 46,
+  "playcount": 161,
+  "artistMbid": "1f67db48-c936-42f2-aee5-68fb6f943d88"
 }

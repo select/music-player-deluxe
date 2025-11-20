@@ -1,8 +1,8 @@
 {
   "youtubeId": "eh1dVptApmc",
   "title": "Changes",
-  "artist": "YES",
-  "lastFetched": "2025-11-18T22:39:30.974Z",
+  "artist": "Yes",
+  "lastFetched": "2025-11-19T15:28:18.865Z",
   "odesli": {
     "amazonMusic": "B00122YMCM",
     "amazonStore": "B00122YMCM",
@@ -20,5 +20,10 @@
     "yandex": "126911",
     "youtube": "eh1dVptApmc",
     "youtubeMusic": "eh1dVptApmc"
-  }
+  },
+  "mbid": "00849020-1c39-4ef2-b39d-708616fe5610",
+  "lastfmId": "Yes/_/Changes",
+  "listeners": 123863,
+  "playcount": 588113,
+  "artistMbid": "c1d4f2ba-cf39-460c-9528-6b827d3417a1"
 }

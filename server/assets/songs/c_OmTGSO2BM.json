@@ -2,7 +2,7 @@
   "youtubeId": "c_OmTGSO2BM",
   "title": "King",
   "artist": "Gerda",
-  "lastFetched": "2025-11-19T09:59:25.469Z",
+  "lastFetched": "2025-11-19T17:06:49.715Z",
   "odesli": {
     "amazonMusic": "B0CWHKVC5G",
     "amazonStore": "B0CWHKVC5G",
@@ -14,5 +14,9 @@
     "tidal": "347610025",
     "youtube": "c_OmTGSO2BM",
     "youtubeMusic": "c_OmTGSO2BM"
-  }
+  },
+  "lastfmId": "Gerda/_/King",
+  "listeners": 1558,
+  "playcount": 6200,
+  "artistMbid": "982cd0c4-1598-4e8d-a243-ad4887d5f11f"
 }

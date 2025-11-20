@@ -1,8 +1,8 @@
 {
   "youtubeId": "H517hUHQtvA",
-  "title": "Wein a Ramallah",
+  "title": "Wein A Ramallah",
   "artist": "Bukahara",
-  "lastFetched": "2025-11-18T23:00:48.733Z",
+  "lastFetched": "2025-11-19T16:08:59.287Z",
   "odesli": {
     "amazonMusic": "B0BNP1BRVR",
     "amazonStore": "B0BNP1BRVR",
@@ -20,5 +20,10 @@
     "yandex": "109433009",
     "youtube": "H517hUHQtvA",
     "youtubeMusic": "H517hUHQtvA"
-  }
+  },
+  "mbid": "a34626ce-d262-4482-a135-3e1c86148b6b",
+  "lastfmId": "Bukahara/_/Wein+A+Ramallah",
+  "listeners": 2097,
+  "playcount": 10012,
+  "artistMbid": "ad058e4f-7e24-4db0-b5c2-7fcbcff72e01"
 }

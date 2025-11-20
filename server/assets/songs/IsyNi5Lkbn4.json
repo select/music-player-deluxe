@@ -2,7 +2,7 @@
   "youtubeId": "IsyNi5Lkbn4",
   "title": "Dotab",
   "artist": "Bear Ghost",
-  "lastFetched": "2025-11-18T22:45:06.088Z",
+  "lastFetched": "2025-11-19T15:40:02.156Z",
   "odesli": {
     "amazonMusic": "B0CCRD1YYM",
     "amazonStore": "B0CCRD1YYM",
@@ -14,5 +14,10 @@
     "yandex": "17902812",
     "youtube": "IsyNi5Lkbn4",
     "youtubeMusic": "IsyNi5Lkbn4"
-  }
+  },
+  "mbid": "4f8325f5-227d-402b-ae37-3325fc7f6b19",
+  "lastfmId": "Bear+Ghost/_/Dotab",
+  "listeners": 7812,
+  "playcount": 65299,
+  "artistMbid": "ce41dd47-f5bd-46a8-9155-a1c20e3e8f7e"
 }

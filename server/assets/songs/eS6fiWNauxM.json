@@ -1,8 +1,8 @@
 {
   "youtubeId": "eS6fiWNauxM",
-  "title": "Sage Nein",
+  "title": "Sage nein",
   "artist": "Konstantin Wecker",
-  "lastFetched": "2025-11-18T22:36:45.272Z",
+  "lastFetched": "2025-11-19T15:23:13.441Z",
   "odesli": {
     "amazonMusic": "B07JMFN2RW",
     "amazonStore": "B07JMFN2RW",
@@ -18,5 +18,10 @@
     "yandex": "38302357",
     "youtube": "eS6fiWNauxM",
     "youtubeMusic": "eS6fiWNauxM"
-  }
+  },
+  "mbid": "4c2be98a-1109-3d1d-9701-dec0d19d96d1",
+  "lastfmId": "Konstantin+Wecker/_/Sage+nein",
+  "listeners": 5547,
+  "playcount": 14660,
+  "artistMbid": "4e1d5be7-6736-4af3-8ac8-619fabc57818"
 }

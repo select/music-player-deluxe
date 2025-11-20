@@ -2,7 +2,7 @@
   "youtubeId": "XM83V4BD1Bw",
   "title": "Strasbourg / St. Denis",
   "artist": "Roy Hargrove",
-  "lastFetched": "2025-11-18T22:29:07.539Z",
+  "lastFetched": "2025-11-19T15:08:26.402Z",
   "odesli": {
     "amazonMusic": "B001N65IRU",
     "amazonStore": "B001N65IRU",
@@ -20,5 +20,10 @@
     "yandex": "77480",
     "youtube": "XM83V4BD1Bw",
     "youtubeMusic": "XM83V4BD1Bw"
-  }
+  },
+  "mbid": "de65cda9-006f-44c2-bbbc-6c52135a3f06",
+  "lastfmId": "Roy+Hargrove/_/Strasbourg+%2F+St.+Denis",
+  "listeners": 86921,
+  "playcount": 424537,
+  "artistMbid": "8cdf780e-b909-4d25-9060-e552e95b3414"
 }

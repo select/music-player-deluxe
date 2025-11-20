@@ -2,7 +2,7 @@
   "youtubeId": "A_F6FS-SIM0",
   "title": "Watchlar",
   "artist": "Cocteau Twins",
-  "lastFetched": "2025-11-18T22:15:36.932Z",
+  "lastFetched": "2025-11-19T14:41:50.958Z",
   "odesli": {
     "amazonMusic": "B0137B1B2O",
     "amazonStore": "B0137B1B2O",
@@ -10,5 +10,10 @@
     "tidal": "49708416",
     "youtube": "A_F6FS-SIM0",
     "youtubeMusic": "A_F6FS-SIM0"
-  }
+  },
+  "mbid": "0768caa4-05bb-38e5-849f-9eb47f9d0ff5",
+  "lastfmId": "Cocteau+Twins/_/Watchlar",
+  "listeners": 82145,
+  "playcount": 371023,
+  "artistMbid": "000fc734-b7e1-4a01-92d1-f544261b43f5"
 }

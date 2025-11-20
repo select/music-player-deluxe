@@ -2,7 +2,7 @@
   "youtubeId": "ck8f6sht5ro",
   "title": "Casanova 70",
   "artist": "Air",
-  "lastFetched": "2025-11-18T22:43:06.614Z",
+  "lastFetched": "2025-11-19T15:35:26.903Z",
   "odesli": {
     "amazonMusic": "B013WOOJ66",
     "amazonStore": "B013WOOJ66",
@@ -19,5 +19,10 @@
     "yandex": "354128",
     "youtube": "ck8f6sht5ro",
     "youtubeMusic": "ck8f6sht5ro"
-  }
+  },
+  "mbid": "4932bb67-bfa2-3759-999a-f2862008774b",
+  "lastfmId": "Air/_/Casanova+70",
+  "listeners": 172486,
+  "playcount": 706561,
+  "artistMbid": "14b22b4b-06d5-4b82-8284-29d29b58945f"
 }

@@ -1,8 +1,8 @@
 {
   "youtubeId": "PewD7EHG5zE",
   "title": "Eintauchen",
-  "artist": "Die Quittung",
-  "lastFetched": "2025-11-18T22:58:16.134Z",
+  "artist": "die Quittung",
+  "lastFetched": "2025-11-19T16:05:55.580Z",
   "odesli": {
     "amazonMusic": "B0CKLW2ZJ2",
     "amazonStore": "B0CKLW2ZJ2",
@@ -10,5 +10,8 @@
     "tidal": "329948947",
     "youtube": "PewD7EHG5zE",
     "youtubeMusic": "PewD7EHG5zE"
-  }
+  },
+  "lastfmId": "die+Quittung/_/Eintauchen",
+  "listeners": 62,
+  "playcount": 113
 }

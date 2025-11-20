@@ -1,8 +1,8 @@
 {
   "youtubeId": "XgMDSPqC6gw",
-  "title": "Releasing The Demons",
+  "title": "Releasing the Demons",
   "artist": "Godsmack",
-  "lastFetched": "2025-11-18T22:32:42.991Z",
+  "lastFetched": "2025-11-19T15:15:34.422Z",
   "odesli": {
     "amazonMusic": "B0736KLM49",
     "amazonStore": "B0736KLM49",
@@ -20,5 +20,10 @@
     "yandex": "38396",
     "youtube": "XgMDSPqC6gw",
     "youtubeMusic": "XgMDSPqC6gw"
-  }
+  },
+  "mbid": "8bf9ecbe-ca27-389b-b5ff-68d018e21d5f",
+  "lastfmId": "Godsmack/_/Releasing+the+Demons",
+  "listeners": 101368,
+  "playcount": 540342,
+  "artistMbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "B8F_1jviPH0",
   "title": "Look Away",
   "artist": "Ivy Lab",
-  "lastFetched": "2025-11-18T23:06:47.634Z",
+  "lastFetched": "2025-11-19T16:18:42.154Z",
   "odesli": {
     "amazonMusic": "B0CRHN54WG",
     "amazonStore": "B0CRHN54WG",
@@ -18,5 +18,10 @@
     "tidal": "338319270",
     "youtube": "B8F_1jviPH0",
     "youtubeMusic": "B8F_1jviPH0"
-  }
+  },
+  "mbid": "1c9bd536-c9ee-45fb-be27-a24e68a459e5",
+  "lastfmId": "Ivy+Lab/_/Look+Away",
+  "listeners": 2035,
+  "playcount": 6982,
+  "artistMbid": "05a8fca6-3178-4f95-ad82-d325bc6102fe"
 }

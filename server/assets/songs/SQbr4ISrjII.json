@@ -2,7 +2,7 @@
   "youtubeId": "SQbr4ISrjII",
   "title": "Most of the Time",
   "artist": "Bob Dylan",
-  "lastFetched": "2025-11-18T23:16:55.780Z",
+  "lastFetched": "2025-11-19T16:38:41.580Z",
   "odesli": {
     "amazonMusic": "B00137V6LQ",
     "amazonStore": "B00137V6LQ",
@@ -12,5 +12,10 @@
     "yandex": "667985",
     "youtube": "SQbr4ISrjII",
     "youtubeMusic": "SQbr4ISrjII"
-  }
+  },
+  "mbid": "01604eec-365b-4005-a86b-fbf74a9377c0",
+  "lastfmId": "Bob+Dylan/_/Most+of+the+Time",
+  "listeners": 130921,
+  "playcount": 679917,
+  "artistMbid": "72c536dc-7137-4477-a521-567eeb840fa8"
 }

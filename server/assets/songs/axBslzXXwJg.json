@@ -1,8 +1,8 @@
 {
   "youtubeId": "axBslzXXwJg",
-  "title": "Binary",
+  "title": "binary",
   "artist": "Kazino",
-  "lastFetched": "2025-11-18T23:12:36.707Z",
+  "lastFetched": "2025-11-19T16:28:25.838Z",
   "odesli": {
     "amazonMusic": "B0DJ3JBZXT",
     "amazonStore": "B0DJ3JBZXT",
@@ -11,5 +11,10 @@
     "tidal": "348948292",
     "youtube": "axBslzXXwJg",
     "youtubeMusic": "axBslzXXwJg"
-  }
+  },
+  "mbid": "cfbef7af-d21c-441c-9071-b69423b79954",
+  "lastfmId": "Kazino/_/binary",
+  "listeners": 9211,
+  "playcount": 26943,
+  "artistMbid": "85fd1ab6-18c9-4bf6-b14c-aac45638cc07"
 }

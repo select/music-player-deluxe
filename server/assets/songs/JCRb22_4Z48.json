@@ -2,7 +2,7 @@
   "youtubeId": "JCRb22_4Z48",
   "title": "Bardo",
   "artist": "GoGo Penguin",
-  "lastFetched": "2025-11-18T23:02:45.241Z",
+  "lastFetched": "2025-11-19T16:12:33.197Z",
   "odesli": {
     "amazonMusic": "B0784Y4LVG",
     "amazonStore": "B0784Y4LVG",
@@ -19,5 +19,10 @@
     "yandex": "38625021",
     "youtube": "JCRb22_4Z48",
     "youtubeMusic": "JCRb22_4Z48"
-  }
+  },
+  "mbid": "1d61942e-619e-4af7-862b-42bd718c21c2",
+  "lastfmId": "GoGo+Penguin/_/Bardo",
+  "listeners": 33105,
+  "playcount": 151652,
+  "artistMbid": "b328de0e-ee48-4d74-9d36-7c7ee16ffc69"
 }

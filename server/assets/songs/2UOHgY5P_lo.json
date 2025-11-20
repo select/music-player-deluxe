@@ -2,7 +2,7 @@
   "youtubeId": "2UOHgY5P_lo",
   "title": "Beredd",
   "artist": "Per Gessle",
-  "lastFetched": "2025-11-19T09:48:46.384Z",
+  "lastFetched": "2025-11-19T16:49:23.982Z",
   "odesli": {
     "amazonMusic": "B0CWJ9X2X1",
     "amazonStore": "B0CWJ9X2X1",
@@ -10,5 +10,9 @@
     "spotify": "200IcfGuhl2zettPyGajqL",
     "youtube": "2UOHgY5P_lo",
     "youtubeMusic": "2UOHgY5P_lo"
-  }
+  },
+  "lastfmId": "Per+Gessle/_/Beredd",
+  "listeners": 1234,
+  "playcount": 4679,
+  "artistMbid": "843238f1-ecfa-4a26-9e47-ce52e4ea1e31"
 }

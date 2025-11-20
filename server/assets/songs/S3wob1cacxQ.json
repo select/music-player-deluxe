@@ -1,13 +1,18 @@
 {
   "youtubeId": "S3wob1cacxQ",
-  "title": "Strobe Light Network",
+  "title": "Strobe light network",
   "artist": "Cold",
-  "lastFetched": "2025-11-18T23:12:21.755Z",
+  "lastFetched": "2025-11-19T16:27:55.351Z",
   "odesli": {
     "amazonMusic": "B003QZDETA",
     "amazonStore": "B003QZDETA",
     "tidal": "17494846",
     "youtube": "S3wob1cacxQ",
     "youtubeMusic": "S3wob1cacxQ"
-  }
+  },
+  "mbid": "1f1dde9a-8d72-3b53-ad34-a2dc993a470b",
+  "lastfmId": "Cold/_/Strobe+light+network",
+  "listeners": 2278,
+  "playcount": 9118,
+  "artistMbid": "d9a2f1e6-6429-41ce-9d32-9a66188fb39c"
 }

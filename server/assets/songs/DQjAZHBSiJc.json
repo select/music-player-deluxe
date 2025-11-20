@@ -2,7 +2,7 @@
   "youtubeId": "DQjAZHBSiJc",
   "title": "Musical Genocide",
   "artist": "Gregory Porter",
-  "lastFetched": "2025-11-19T10:13:59.144Z",
+  "lastFetched": "2025-11-19T17:22:38.348Z",
   "odesli": {
     "amazonMusic": "B0766CPJ5Q",
     "amazonStore": "B0766CPJ5Q",
@@ -17,5 +17,10 @@
     "yandex": "14377783",
     "youtube": "DQjAZHBSiJc",
     "youtubeMusic": "DQjAZHBSiJc"
-  }
+  },
+  "mbid": "154d3b09-f843-464b-9dcd-73028c42dfc7",
+  "lastfmId": "Gregory+Porter/_/Musical+Genocide",
+  "listeners": 42908,
+  "playcount": 169815,
+  "artistMbid": "7ac1e33f-0cdf-4e81-b914-41830700d746"
 }

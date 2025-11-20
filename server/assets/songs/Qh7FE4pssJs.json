@@ -2,7 +2,7 @@
   "youtubeId": "Qh7FE4pssJs",
   "title": "Regenlied",
   "artist": "Angelika Mann",
-  "lastFetched": "2025-11-18T22:10:54.919Z",
+  "lastFetched": "2025-11-19T14:31:37.280Z",
   "odesli": {
     "amazonMusic": "B0CDZWDMBM",
     "amazonStore": "B0CDZWDMBM",
@@ -11,5 +11,10 @@
     "spotify": "4UIrEJJRmQHSGaUpBJAdL6",
     "youtube": "Qh7FE4pssJs",
     "youtubeMusic": "Qh7FE4pssJs"
-  }
+  },
+  "mbid": "5b38159f-234a-4a40-9751-5d074134b91e",
+  "lastfmId": "Angelika+Mann/_/Regenlied",
+  "listeners": 1768,
+  "playcount": 7913,
+  "artistMbid": "212e0fa5-05d5-4c49-be7a-c8177025f920"
 }

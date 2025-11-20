@@ -1,8 +1,8 @@
 {
   "youtubeId": "nXiQtD5gcHU",
-  "title": "Papa Was A Rolling Stone",
+  "title": "Papa Was a Rolling Stone",
   "artist": "The Temptations",
-  "lastFetched": "2025-11-19T10:16:20.203Z",
+  "lastFetched": "2025-11-19T17:25:10.369Z",
   "odesli": {
     "amazonMusic": "B07KZRYQ35",
     "amazonStore": "B07KZRYQ35",
@@ -13,5 +13,10 @@
     "yandex": "4526",
     "youtube": "nXiQtD5gcHU",
     "youtubeMusic": "nXiQtD5gcHU"
-  }
+  },
+  "mbid": "62f2a1da-6dea-4851-818f-fa84e94ff928",
+  "lastfmId": "The+Temptations/_/Papa+Was+a+Rolling+Stone",
+  "listeners": 122942,
+  "playcount": 375487,
+  "artistMbid": "d8df96ae-8fcf-4997-b3e6-e5d1aaf0f69e"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "Nu5XQJuv5z4",
   "title": "Monterey",
   "artist": "Nick Waterhouse",
-  "lastFetched": "2025-11-18T22:06:41.373Z",
+  "lastFetched": "2025-11-19T14:22:56.298Z",
   "odesli": {
     "amazonMusic": "B0B3GHWTMR",
     "amazonStore": "B0B3GHWTMR",
@@ -11,5 +11,10 @@
     "tidal": "232599124",
     "youtube": "Nu5XQJuv5z4",
     "youtubeMusic": "Nu5XQJuv5z4"
-  }
+  },
+  "mbid": "dda5c3e6-1e6a-4014-a99a-0e066fbc1c48",
+  "lastfmId": "Nick+Waterhouse/_/Monterey",
+  "listeners": 4449,
+  "playcount": 11409,
+  "artistMbid": "b20e16f4-4af2-4234-93ca-6c79525269a1"
 }

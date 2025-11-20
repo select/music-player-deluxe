@@ -1,8 +1,8 @@
 {
   "youtubeId": "bM0egLYF4Lo",
-  "title": "La Chasse Aux Microbes",
+  "title": "La Chasse aux Microbes",
   "artist": "Michael Bundt",
-  "lastFetched": "2025-11-18T22:47:41.253Z",
+  "lastFetched": "2025-11-19T15:46:09.064Z",
   "odesli": {
     "amazonMusic": "B00KHQLVB4",
     "amazonStore": "B00KHQLVB4",
@@ -15,5 +15,9 @@
     "tidal": "48674252",
     "youtube": "bM0egLYF4Lo",
     "youtubeMusic": "bM0egLYF4Lo"
-  }
+  },
+  "lastfmId": "Michael+Bundt/_/La+Chasse+aux+Microbes",
+  "listeners": 5033,
+  "playcount": 14329,
+  "artistMbid": "b9dc0302-1849-4c5e-81b1-20da642e42f1"
 }

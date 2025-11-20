@@ -2,7 +2,7 @@
   "youtubeId": "qDHqLDxONR8",
   "title": "Cool Out",
   "artist": "Leroy Hutson",
-  "lastFetched": "2025-11-19T09:48:58.526Z",
+  "lastFetched": "2025-11-19T16:49:54.353Z",
   "odesli": {
     "amazonMusic": "B07KMPJ341",
     "amazonStore": "B07KMPJ341",
@@ -10,5 +10,10 @@
     "tidal": "73710591",
     "youtube": "qDHqLDxONR8",
     "youtubeMusic": "qDHqLDxONR8"
-  }
+  },
+  "mbid": "dd26b00d-f430-40f1-9dc2-ee487fb5194b",
+  "lastfmId": "Leroy+Hutson/_/Cool+Out",
+  "listeners": 92249,
+  "playcount": 261779,
+  "artistMbid": "410b8630-2fd5-4368-8a5b-dbc5e82f6b1c"
 }

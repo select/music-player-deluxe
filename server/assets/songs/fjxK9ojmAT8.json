@@ -2,7 +2,7 @@
   "youtubeId": "fjxK9ojmAT8",
   "title": "Wind Chimes",
   "artist": "The Beach Boys",
-  "lastFetched": "2025-11-18T22:45:31.922Z",
+  "lastFetched": "2025-11-19T15:41:03.753Z",
   "odesli": {
     "amazonMusic": "B005ZWPYG8",
     "amazonStore": "B005ZWPYG8",
@@ -12,5 +12,10 @@
     "tidal": "8234586",
     "youtube": "fjxK9ojmAT8",
     "youtubeMusic": "fjxK9ojmAT8"
-  }
+  },
+  "mbid": "8c660bc5-ad1f-4ac8-a4ea-a31bd7b18776",
+  "lastfmId": "The+Beach+Boys/_/Wind+Chimes",
+  "listeners": 79504,
+  "playcount": 372872,
+  "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "cUO9_wlhuu8",
   "title": "The HoaX",
   "artist": "Pryda",
-  "lastFetched": "2025-11-18T23:02:20.255Z",
+  "lastFetched": "2025-11-19T16:11:31.939Z",
   "odesli": {
     "amazonMusic": "B07D41SSK8",
     "amazonStore": "B07D41SSK8",
@@ -10,5 +10,10 @@
     "tidal": "88990331",
     "youtube": "cUO9_wlhuu8",
     "youtubeMusic": "cUO9_wlhuu8"
-  }
+  },
+  "mbid": "488b2c87-f578-4746-9fe9-43df5566f0f2",
+  "lastfmId": "Pryda/_/The+HoaX",
+  "listeners": 5965,
+  "playcount": 20891,
+  "artistMbid": "bbf594b2-4c13-4408-979d-7d934a837f2d"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ZkHzk07vb_w",
   "title": "Love and Death",
   "artist": "Ebo Taylor",
-  "lastFetched": "2025-11-18T22:03:36.744Z",
+  "lastFetched": "2025-11-19T14:15:46.256Z",
   "odesli": {
     "amazonMusic": "B0042FKO1Y",
     "amazonStore": "B0042FKO1Y",
@@ -20,5 +20,10 @@
     "yandex": "44481365",
     "youtube": "ZkHzk07vb_w",
     "youtubeMusic": "ZkHzk07vb_w"
-  }
+  },
+  "mbid": "c1fe8e87-883d-4868-96e7-e9e173e3460b",
+  "lastfmId": "Ebo+Taylor/_/Love+and+Death",
+  "listeners": 79512,
+  "playcount": 315764,
+  "artistMbid": "8b034085-b06d-4c42-9be3-d709be169d79"
 }

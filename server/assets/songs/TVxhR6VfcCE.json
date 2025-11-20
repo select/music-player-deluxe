@@ -2,7 +2,7 @@
   "youtubeId": "TVxhR6VfcCE",
   "title": "Not Today",
   "artist": "Chill Bump",
-  "lastFetched": "2025-11-18T22:55:42.741Z",
+  "lastFetched": "2025-11-19T16:02:49.723Z",
   "odesli": {
     "amazonMusic": "B0F6XNVG45",
     "amazonStore": "B0F6XNVG45",
@@ -14,5 +14,10 @@
     "yandex": "44932204",
     "youtube": "TVxhR6VfcCE",
     "youtubeMusic": "TVxhR6VfcCE"
-  }
+  },
+  "mbid": "5e32164d-a1ab-4203-a823-7c2b6b64a2b5",
+  "lastfmId": "Chill+Bump/_/Not+Today",
+  "listeners": 35578,
+  "playcount": 221954,
+  "artistMbid": "7f9d3622-6e3e-4bd5-9a36-261eecbd30e5"
 }

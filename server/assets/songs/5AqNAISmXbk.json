@@ -1,8 +1,8 @@
 {
   "youtubeId": "5AqNAISmXbk",
-  "title": "PIECES",
+  "title": "pieces",
   "artist": "Daughtry",
-  "lastFetched": "2025-11-19T10:18:11.027Z",
+  "lastFetched": "2025-11-19T17:27:12.160Z",
   "odesli": {
     "amazonMusic": "B0CX67XL9F",
     "amazonStore": "B0CX67XL9F",
@@ -11,5 +11,10 @@
     "tidal": "351125613",
     "youtube": "5AqNAISmXbk",
     "youtubeMusic": "5AqNAISmXbk"
-  }
+  },
+  "mbid": "ab28a8f1-ae58-4f2d-b61a-136238b6cd72",
+  "lastfmId": "Daughtry/_/pieces",
+  "listeners": 12410,
+  "playcount": 68825,
+  "artistMbid": "21e3292e-dac8-4609-b57d-402f926aa41f"
 }

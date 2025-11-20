@@ -1,8 +1,8 @@
 {
   "youtubeId": "CptRiHRkM4Y",
-  "title": "Message from a Black Man",
+  "title": "message from a black man",
   "artist": "The Whatnauts",
-  "lastFetched": "2025-11-18T23:16:02.531Z",
+  "lastFetched": "2025-11-19T16:36:37.570Z",
   "odesli": {
     "amazonMusic": "B00DOOB4JA",
     "amazonStore": "B00DOOB4JA",
@@ -15,5 +15,10 @@
     "tidal": "32918723",
     "youtube": "CptRiHRkM4Y",
     "youtubeMusic": "CptRiHRkM4Y"
-  }
+  },
+  "mbid": "29816f19-e0b3-3b49-bd1d-6bcbd896aeb8",
+  "lastfmId": "The+Whatnauts/_/message+from+a+black+man",
+  "listeners": 19128,
+  "playcount": 46212,
+  "artistMbid": "86c0f463-b054-4b10-a204-cdcc6538c7f5"
 }

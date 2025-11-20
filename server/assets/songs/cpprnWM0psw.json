@@ -2,7 +2,7 @@
   "youtubeId": "cpprnWM0psw",
   "title": "NRG",
   "artist": "Chase & Status",
-  "lastFetched": "2025-11-18T23:19:50.475Z",
+  "lastFetched": "2025-11-19T16:43:46.835Z",
   "odesli": {
     "amazonMusic": "B0743K9TTM",
     "amazonStore": "B0743K9TTM",
@@ -12,5 +12,9 @@
     "tidal": "77326595",
     "youtube": "cpprnWM0psw",
     "youtubeMusic": "cpprnWM0psw"
-  }
+  },
+  "lastfmId": "Chase+&+Status/_/NRG",
+  "listeners": 14405,
+  "playcount": 64070,
+  "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
 }

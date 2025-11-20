@@ -2,7 +2,7 @@
   "youtubeId": "z38hk2k8idQ",
   "title": "Ruby",
   "artist": "Silver Apples",
-  "lastFetched": "2025-11-19T10:30:05.408Z",
+  "lastFetched": "2025-11-19T17:44:39.686Z",
   "odesli": {
     "amazonMusic": "B00491PVKK",
     "amazonStore": "B00491PVKK",
@@ -11,5 +11,10 @@
     "tidal": "35604335",
     "youtube": "z38hk2k8idQ",
     "youtubeMusic": "z38hk2k8idQ"
-  }
+  },
+  "mbid": "6c99ccaa-d81e-31b9-9295-5864bb8e3913",
+  "lastfmId": "Silver+Apples/_/Ruby",
+  "listeners": 52336,
+  "playcount": 164701,
+  "artistMbid": "802d971d-5fb1-4ca1-8e56-69c64122d957"
 }

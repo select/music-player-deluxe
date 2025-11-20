@@ -2,7 +2,7 @@
   "youtubeId": "Dnbq0iAPLnk",
   "title": "Ich drück die Maus",
   "artist": "Helge Schneider",
-  "lastFetched": "2025-11-19T10:11:59.608Z",
+  "lastFetched": "2025-11-19T17:19:35.824Z",
   "odesli": {
     "amazonMusic": "B003O2B2JY",
     "amazonStore": "B003O2B2JY",
@@ -10,5 +10,10 @@
     "tidal": "245097772",
     "youtube": "Dnbq0iAPLnk",
     "youtubeMusic": "Dnbq0iAPLnk"
-  }
+  },
+  "mbid": "f2437b03-70eb-3997-a944-19c1057c44fd",
+  "lastfmId": "Helge+Schneider/_/Ich+dr%C3%BCck+die+Maus",
+  "listeners": 9262,
+  "playcount": 27529,
+  "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9"
 }

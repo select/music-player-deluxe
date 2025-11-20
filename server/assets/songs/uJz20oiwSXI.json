@@ -2,7 +2,7 @@
   "youtubeId": "uJz20oiwSXI",
   "title": "Starship Bahia",
   "artist": "Adrian Sherwood",
-  "lastFetched": "2025-11-19T09:52:50.903Z",
+  "lastFetched": "2025-11-19T16:55:30.331Z",
   "odesli": {
     "amazonMusic": "B008SDJ2K0",
     "amazonStore": "B008SDJ2K0",
@@ -11,5 +11,10 @@
     "tidal": "106695668",
     "youtube": "uJz20oiwSXI",
     "youtubeMusic": "uJz20oiwSXI"
-  }
+  },
+  "mbid": "c19a8940-3ee7-42c4-a7cd-25a1c3fac1ae",
+  "lastfmId": "Adrian+Sherwood/_/Starship+Bahia",
+  "listeners": 9901,
+  "playcount": 32726,
+  "artistMbid": "cbfcdb48-c199-45af-80da-100d4e53253e"
 }

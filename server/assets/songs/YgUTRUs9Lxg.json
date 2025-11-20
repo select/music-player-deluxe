@@ -2,7 +2,7 @@
   "youtubeId": "YgUTRUs9Lxg",
   "title": "Nobody Girl",
   "artist": "Ryan Adams",
-  "lastFetched": "2025-11-18T22:32:10.017Z",
+  "lastFetched": "2025-11-19T15:14:33.704Z",
   "odesli": {
     "amazonMusic": "B000V9AVMM",
     "amazonStore": "B000V9AVMM",
@@ -19,5 +19,10 @@
     "yandex": "766179",
     "youtube": "YgUTRUs9Lxg",
     "youtubeMusic": "YgUTRUs9Lxg"
-  }
+  },
+  "mbid": "3ce3b466-4e60-3581-a104-93a2b1a166b7",
+  "lastfmId": "Ryan+Adams/_/Nobody+Girl",
+  "listeners": 83488,
+  "playcount": 360189,
+  "artistMbid": "c80f38a6-9980-485d-997c-5c1a9cbd0d64"
 }

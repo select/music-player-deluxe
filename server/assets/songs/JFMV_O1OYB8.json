@@ -2,7 +2,7 @@
   "youtubeId": "JFMV_O1OYB8",
   "title": "Nightscape",
   "artist": "Stellardrone",
-  "lastFetched": "2025-11-18T23:02:33.158Z",
+  "lastFetched": "2025-11-19T16:12:02.585Z",
   "odesli": {
     "amazonMusic": "B0091P59FG",
     "amazonStore": "B0091P59FG",
@@ -17,5 +17,10 @@
     "yandex": "36309192",
     "youtube": "JFMV_O1OYB8",
     "youtubeMusic": "JFMV_O1OYB8"
-  }
+  },
+  "mbid": "1b3b731d-7c78-345c-9fdc-bb85e3b3f874",
+  "lastfmId": "Stellardrone/_/Nightscape",
+  "listeners": 11973,
+  "playcount": 78659,
+  "artistMbid": "8208d8f9-61b6-47f2-90c0-2680dadd56a8"
 }

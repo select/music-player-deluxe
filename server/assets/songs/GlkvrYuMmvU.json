@@ -2,7 +2,7 @@
   "youtubeId": "GlkvrYuMmvU",
   "title": "Tem Certeza?",
   "artist": "Ana Frango Elétrico",
-  "lastFetched": "2025-11-18T23:00:31.711Z",
+  "lastFetched": "2025-11-19T16:08:28.671Z",
   "odesli": {
     "amazonMusic": "B0DZ8344YK",
     "amazonStore": "B0DZ8344YK",
@@ -15,5 +15,10 @@
     "yandex": "57205109",
     "youtube": "GlkvrYuMmvU",
     "youtubeMusic": "GlkvrYuMmvU"
-  }
+  },
+  "mbid": "1e29ca86-fe73-4b79-8b8f-2e5b4f0697f9",
+  "lastfmId": "Ana+Frango+El%C3%A9trico/_/Tem+Certeza%3F",
+  "listeners": 52559,
+  "playcount": 340216,
+  "artistMbid": "cd8086e3-9249-4d5a-a3a0-a20731c98653"
 }

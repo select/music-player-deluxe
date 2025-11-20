@@ -2,7 +2,7 @@
   "youtubeId": "5Ugqo5dhL2A",
   "title": "Inside Out",
   "artist": "Martin Dupont",
-  "lastFetched": "2025-11-18T22:30:42.977Z",
+  "lastFetched": "2025-11-19T15:11:29.710Z",
   "odesli": {
     "amazonMusic": "B07PDFKPKP",
     "amazonStore": "B07PDFKPKP",
@@ -13,5 +13,10 @@
     "tidal": "105211908",
     "youtube": "5Ugqo5dhL2A",
     "youtubeMusic": "5Ugqo5dhL2A"
-  }
+  },
+  "mbid": "1d378a04-791a-38d1-a016-dd31c5781578",
+  "lastfmId": "Martin+Dupont/_/Inside+Out",
+  "listeners": 46433,
+  "playcount": 324397,
+  "artistMbid": "bbb1f7fa-aa8c-416f-8a5a-5ca26ee24827"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "hwnf_IPbSzM",
   "title": "Nur Flug",
   "artist": "Die Sterne",
-  "lastFetched": "2025-11-18T22:58:42.758Z",
+  "lastFetched": "2025-11-19T16:06:26.059Z",
   "odesli": {
     "amazonMusic": "B07PGW5Q3J",
     "amazonStore": "B07PGW5Q3J",
@@ -18,5 +18,10 @@
     "yandex": "438978",
     "youtube": "hwnf_IPbSzM",
     "youtubeMusic": "hwnf_IPbSzM"
-  }
+  },
+  "mbid": "2b1a3739-af67-3c65-9fb0-079465082c9f",
+  "lastfmId": "Die+Sterne/_/Nur+Flug",
+  "listeners": 10921,
+  "playcount": 40372,
+  "artistMbid": "52f2c49e-43c4-4716-bf4a-0eac1c651d3a"
 }

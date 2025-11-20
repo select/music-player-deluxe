@@ -2,7 +2,7 @@
   "youtubeId": "dV3AziKTBUo",
   "title": "The Joker",
   "artist": "Steve Miller Band",
-  "lastFetched": "2025-11-18T23:01:26.711Z",
+  "lastFetched": "2025-11-19T16:10:30.526Z",
   "odesli": {
     "amazonMusic": "B000ULATPU",
     "amazonStore": "B000ULATPU",
@@ -15,5 +15,9 @@
     "yandex": "339197",
     "youtube": "dV3AziKTBUo",
     "youtubeMusic": "dV3AziKTBUo"
-  }
+  },
+  "lastfmId": "Steve+Miller+Band/_/The+Joker",
+  "listeners": 892853,
+  "playcount": 5385036,
+  "artistMbid": "e57f0cac-4f56-473c-8d7e-d93f753fd586"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "pAdGmux8NRw",
   "title": "I'm A King Bee",
   "artist": "The Rolling Stones",
-  "lastFetched": "2025-11-18T22:59:50.250Z",
+  "lastFetched": "2025-11-19T16:07:27.333Z",
   "odesli": {
     "amazonMusic": "B00AON1J2Q",
     "amazonStore": "B00AON1J2Q",
@@ -19,5 +19,10 @@
     "yandex": "51341",
     "youtube": "pAdGmux8NRw",
     "youtubeMusic": "pAdGmux8NRw"
-  }
+  },
+  "mbid": "01caf6b7-2478-4c2b-bcdc-2d6e76852df1",
+  "lastfmId": "The+Rolling+Stones/_/I%27m+A+King+Bee",
+  "listeners": 76879,
+  "playcount": 226073,
+  "artistMbid": "b071f9fa-14b0-4217-8e97-eb41da73f598"
 }

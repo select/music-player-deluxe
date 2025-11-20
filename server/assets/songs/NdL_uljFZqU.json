@@ -1,8 +1,8 @@
 {
   "youtubeId": "NdL_uljFZqU",
-  "title": "God Put a Smile upon Your Face (Live in Sydney)",
+  "title": "God Put A Smile Upon Your Face (Live In Sydney)",
   "artist": "Coldplay",
-  "lastFetched": "2025-11-18T22:22:22.440Z",
+  "lastFetched": "2025-11-19T14:56:40.933Z",
   "odesli": {
     "amazonMusic": "B00KHDYBU0",
     "amazonStore": "B00KHDYBU0",
@@ -18,5 +18,10 @@
     "tidal": "129171",
     "youtube": "NdL_uljFZqU",
     "youtubeMusic": "NdL_uljFZqU"
-  }
+  },
+  "mbid": "6810792b-7a47-401a-866d-9b508586d3d3",
+  "lastfmId": "Coldplay/_/God+Put+A+Smile+Upon+Your+Face+(Live+In+Sydney)",
+  "listeners": 9669,
+  "playcount": 21228,
+  "artistMbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234"
 }

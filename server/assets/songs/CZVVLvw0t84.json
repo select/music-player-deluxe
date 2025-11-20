@@ -2,7 +2,7 @@
   "youtubeId": "CZVVLvw0t84",
   "title": "LC Full Blast",
   "artist": "Lucky Chops",
-  "lastFetched": "2025-11-19T10:05:17.334Z",
+  "lastFetched": "2025-11-19T17:11:57.485Z",
   "odesli": {
     "amazonMusic": "B0B94SL1MY",
     "amazonStore": "B0B94SL1MY",
@@ -19,5 +19,10 @@
     "yandex": "129381757",
     "youtube": "CZVVLvw0t84",
     "youtubeMusic": "CZVVLvw0t84"
-  }
+  },
+  "mbid": "5e41d64a-b9c5-4cba-aa74-9cd668bef38f",
+  "lastfmId": "Lucky+Chops/_/LC+Full+Blast",
+  "listeners": 1020,
+  "playcount": 4706,
+  "artistMbid": "8ab73770-878d-4c67-803a-e89e59341324"
 }

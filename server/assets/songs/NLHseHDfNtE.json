@@ -2,7 +2,7 @@
   "youtubeId": "NLHseHDfNtE",
   "title": "Stash",
   "artist": "Passafire",
-  "lastFetched": "2025-11-18T22:00:08.599Z",
+  "lastFetched": "2025-11-19T14:09:08.178Z",
   "odesli": {
     "amazonMusic": "B0CL15KJ3G",
     "amazonStore": "B0CL15KJ3G",
@@ -10,5 +10,9 @@
     "tidal": "321715578",
     "youtube": "NLHseHDfNtE",
     "youtubeMusic": "NLHseHDfNtE"
-  }
+  },
+  "lastfmId": "Passafire/_/Stash",
+  "listeners": 1020,
+  "playcount": 5662,
+  "artistMbid": "d34516e1-b370-4b97-addd-6363ef0e9ecc"
 }

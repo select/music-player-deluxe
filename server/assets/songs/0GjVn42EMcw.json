@@ -1,8 +1,8 @@
 {
   "youtubeId": "0GjVn42EMcw",
   "title": "Phoenix",
-  "artist": "JIM",
-  "lastFetched": "2025-11-18T23:09:47.130Z",
+  "artist": "Jim",
+  "lastFetched": "2025-11-19T16:23:17.510Z",
   "odesli": {
     "amazonMusic": "B0BSJF38Q6",
     "amazonStore": "B0BSJF38Q6",
@@ -18,5 +18,10 @@
     "yandex": "75965732",
     "youtube": "0GjVn42EMcw",
     "youtubeMusic": "0GjVn42EMcw"
-  }
+  },
+  "mbid": "3193470b-5fea-4d21-b635-8b6b36d24600",
+  "lastfmId": "Jim/_/Phoenix",
+  "listeners": 6091,
+  "playcount": 14879,
+  "artistMbid": "b67748d0-b180-48bd-a0cd-206568b55489"
 }

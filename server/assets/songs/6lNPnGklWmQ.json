@@ -2,7 +2,7 @@
   "youtubeId": "6lNPnGklWmQ",
   "title": "Derhan",
   "artist": "Imarhan",
-  "lastFetched": "2025-11-19T09:58:16.372Z",
+  "lastFetched": "2025-11-19T17:05:18.419Z",
   "odesli": {
     "amazonMusic": "B0CQ4QGCG8",
     "amazonStore": "B0CQ4QGCG8",
@@ -15,5 +15,10 @@
     "tidal": "334921439",
     "youtube": "6lNPnGklWmQ",
     "youtubeMusic": "6lNPnGklWmQ"
-  }
+  },
+  "mbid": "6ee7b461-feeb-4ab8-87eb-59fa04488251",
+  "lastfmId": "Imarhan/_/Derhan",
+  "listeners": 3631,
+  "playcount": 10365,
+  "artistMbid": "edf62daa-1425-44bb-8fe3-07499b519472"
 }

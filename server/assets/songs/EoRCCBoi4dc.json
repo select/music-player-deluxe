@@ -2,7 +2,7 @@
   "youtubeId": "EoRCCBoi4dc",
   "title": "White",
   "artist": "Minus 8",
-  "lastFetched": "2025-11-19T10:30:55.979Z",
+  "lastFetched": "2025-11-19T17:46:12.051Z",
   "odesli": {
     "amazonMusic": "B0B36T1TPT",
     "amazonStore": "B0B36T1TPT",
@@ -11,5 +11,10 @@
     "tidal": "6444194",
     "youtube": "EoRCCBoi4dc",
     "youtubeMusic": "EoRCCBoi4dc"
-  }
+  },
+  "mbid": "291b9c08-1756-48f7-acfc-94b1e68bb87f",
+  "lastfmId": "Minus+8/_/White",
+  "listeners": 35844,
+  "playcount": 101728,
+  "artistMbid": "463a94f1-2713-40b1-9c88-dcc9c0170cae"
 }

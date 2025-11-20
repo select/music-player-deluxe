@@ -2,7 +2,7 @@
   "youtubeId": "muw5aPW49as",
   "title": "Dunst",
   "artist": "Die Nerven",
-  "lastFetched": "2025-11-18T22:40:51.649Z",
+  "lastFetched": "2025-11-19T15:30:51.136Z",
   "odesli": {
     "amazonMusic": "B0799S9Z8W",
     "amazonStore": "B0799S9Z8W",
@@ -16,5 +16,10 @@
     "tidal": "86428265",
     "youtube": "muw5aPW49as",
     "youtubeMusic": "muw5aPW49as"
-  }
+  },
+  "mbid": "18863fe1-ca00-4960-b148-af04be1bd3aa",
+  "lastfmId": "Die+Nerven/_/Dunst",
+  "listeners": 2729,
+  "playcount": 16240,
+  "artistMbid": "4b123fba-8458-44d9-a64c-a469029fde9b"
 }

@@ -2,7 +2,7 @@
   "youtubeId": "vVEcWuPZrMk",
   "title": "Forever Changed",
   "artist": "DJ Shadow",
-  "lastFetched": "2025-11-19T09:53:58.989Z",
+  "lastFetched": "2025-11-19T16:57:01.570Z",
   "odesli": {
     "amazonMusic": "B0CFHYM47G",
     "amazonStore": "B0CFHYM47G",
@@ -13,5 +13,10 @@
     "tidal": "310566849",
     "youtube": "vVEcWuPZrMk",
     "youtubeMusic": "vVEcWuPZrMk"
-  }
+  },
+  "mbid": "d4e6b28e-4e03-4acc-a1b0-c8992c1ecfff",
+  "lastfmId": "DJ+Shadow/_/Forever+Changed",
+  "listeners": 5494,
+  "playcount": 12037,
+  "artistMbid": "efa2c11a-1a35-4b60-bc1b-66d37de88511"
 }

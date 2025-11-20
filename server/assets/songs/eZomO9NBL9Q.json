@@ -1,8 +1,8 @@
 {
   "youtubeId": "eZomO9NBL9Q",
   "title": "Relight",
-  "artist": "Hemai",
-  "lastFetched": "2025-11-18T23:17:08.682Z",
+  "artist": "HEMAI",
+  "lastFetched": "2025-11-19T16:39:12.626Z",
   "odesli": {
     "amazonMusic": "B08J61PRK7",
     "amazonStore": "B08J61PRK7",
@@ -15,5 +15,9 @@
     "yandex": "71306634",
     "youtube": "eZomO9NBL9Q",
     "youtubeMusic": "eZomO9NBL9Q"
-  }
+  },
+  "mbid": "37f2a65e-5baf-49c0-b4f8-89ca85fa6b54",
+  "lastfmId": "HEMAI/_/Relight",
+  "listeners": 1192,
+  "playcount": 3790
 }

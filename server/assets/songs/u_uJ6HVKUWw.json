@@ -2,7 +2,7 @@
   "youtubeId": "u_uJ6HVKUWw",
   "title": "The Frog's Fandango",
   "artist": "Woo",
-  "lastFetched": "2025-11-19T09:53:16.007Z",
+  "lastFetched": "2025-11-19T16:56:31.157Z",
   "odesli": {
     "amazonMusic": "B01HOIW0JO",
     "amazonStore": "B01HOIW0JO",
@@ -17,5 +17,10 @@
     "tidal": "144348275",
     "youtube": "u_uJ6HVKUWw",
     "youtubeMusic": "u_uJ6HVKUWw"
-  }
+  },
+  "mbid": "6a40a5aa-e9d1-441e-888e-1381f8d2959e",
+  "lastfmId": "Woo/_/The+Frog%27s+Fandango",
+  "listeners": 11062,
+  "playcount": 31625,
+  "artistMbid": "24018655-62cf-4446-81e3-73fba7a1cd95"
 }
