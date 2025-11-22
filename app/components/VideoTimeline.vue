@@ -8,17 +8,16 @@
 			{{ currentTime.format("YYYY MMM D") }}
 		</div>
 
-		<div class="relative group">
+		<div class="relative group max-h-90%">
 			<svg
 				ref="svgElement"
-				class=""
+				class="h-full"
 				width="85"
-				height="800"
 				viewBox="0 0 85 800"
 				xmlns="http://www.w3.org/2000/svg"
 			>
 				<!-- Timeline marks -->
-				<g v-for="(mark, index) in timelineMarks" :key="index">
+				<g v-for="mark in timelineMarks" :key="mark.id">
 					<!-- Major unit marks (longer dashes) -->
 					<line
 						v-if="mark.isMajor"
@@ -28,7 +27,7 @@
 						:y2="mark.y"
 						stroke="currentColor"
 						stroke-width="2"
-						class="text-primary-4"
+						class="text-primary-4 transition-all duration-300 ease-in-out"
 					/>
 					<!-- Minor unit marks (shorter dashes) -->
 					<line
@@ -39,14 +38,14 @@
 						:y2="mark.y"
 						stroke="currentColor"
 						stroke-width="1"
-						class="text-primary-3"
+						class="text-primary-3 transition-all duration-300 ease-in-out"
 					/>
 					<!-- Time labels for major marks -->
 					<text
 						v-if="mark.isMajor && mark.label"
 						:x="60"
 						:y="mark.y + 4"
-						class="text-xs fill-primary-3"
+						class="text-xs fill-primary-3 transition-all duration-300 ease-in-out"
 						text-anchor="end"
 					>
 						{{ mark.label }}
@@ -60,12 +59,11 @@
 					:y="visibleVideosBox.y"
 					:width="visibleVideosBox.width"
 					:height="visibleVideosBox.height"
-					class="fill-accent stroke-accent stroke-2"
+					class="fill-accent stroke-accent stroke-2 transition-all duration-300 ease-in-out"
 					fill-opacity="0.3"
 					stroke-opacity="1"
 					rx="4"
 					ry="4"
-					style="transition: all 0.3s ease-in-out"
 				/>
 			</svg>
 
@@ -99,21 +97,12 @@
 	</div>
 
 	<div class="ml-30">
-		<VideoGrid
-			v-if="filteredVideos.length > 0"
-			:videos="filteredVideos"
+		<VideoList
+			:videos="videos"
 			:highlight-video-id="props.highlightVideoId"
-			@play="handleVideoPlay"
+			@play="emit('play', $event)"
 			@visible-videos-change="handleVisibleVideosChange"
 		/>
-
-		<div
-			v-else
-			class="flex flex-col items-center justify-center h-full text-primary-3"
-		>
-			<div class="i-mdi-calendar-remove text-6xl mb-4 opacity-50" />
-			<p class="text-lg">No videos found in this time range</p>
-		</div>
 	</div>
 </template>
 
@@ -146,26 +135,6 @@ dayjs.extend(relativeTime);
 dayjs.extend(customParseFormat);
 dayjs.extend(duration);
 
-// Get videos from playlist store
-const { currentVideos } = storeToRefs(usePlaylistStore());
-
-// Filter videos based on current timespan (show only older videos)
-const filteredVideos = computed(() => {
-	const timeStart = currentTime.value.subtract(currentTimespan.value, "second");
-	const timeEnd = currentTime.value;
-
-	return currentVideos.value.filter((video) => {
-		if (!video.createdAt) return false;
-		const videoDate = dayjs(video.createdAt);
-		return videoDate.isAfter(timeStart) && videoDate.isBefore(timeEnd);
-	});
-});
-
-// Handle video play events
-const handleVideoPlay = (video: Video) => {
-	emit("play", video);
-};
-
 interface TimeUnit {
 	length: number;
 	label: string;
@@ -183,6 +152,7 @@ interface TimelineMark {
 	isMajor: boolean;
 	time: dayjs.Dayjs;
 	label?: string;
+	id: string;
 }
 
 const SVG_HEIGHT = 800;
@@ -190,6 +160,7 @@ const MIN_TIMESPAN = 1800; // 30 minutes minimum
 const MAX_TIMESPAN = 157784760; // 5 years maximum
 const BASE_SCALE = 1.15;
 const THROTTLE_DELAY = 50;
+const TIMELINE_CENTER = SVG_HEIGHT / 2;
 
 const currentTimespan = ref<number>(1728000); // 20 days
 const currentTime = ref<dayjs.Dayjs>(dayjs());
@@ -338,8 +309,9 @@ const timelineMarks = computed<TimelineMark[]>(() => {
 			current = current.subtract(unit.incrementAmount, unit.incrementUnit);
 		}
 
-		// Generate sequence with proper increments
-		for (let i = 0; i <= totalUnits + 2; i++) {
+		// Generate sequence with buffer for smooth animation (extra marks above and below)
+		const bufferUnits = 5;
+		for (let i = 0; i <= totalUnits + 2 + bufferUnits; i++) {
 			sequence.push(current);
 			current = current.add(unit.incrementAmount, unit.incrementUnit);
 		}
@@ -351,27 +323,37 @@ const timelineMarks = computed<TimelineMark[]>(() => {
 		time: dayjs.Dayjs,
 		isMajor: boolean,
 		unit?: TimeUnit,
-	): TimelineMark => ({
-		y:
-			SVG_HEIGHT -
-			(time.diff(timeStart, "second") / currentTimespan.value) * SVG_HEIGHT,
-		isMajor,
-		time,
-		...(isMajor && unit ? { label: formatTimeLabel(time, unit) } : {}),
-	});
+	): TimelineMark => {
+		// Create stable ID based on the exact mark time to avoid duplicates
+		const timeKey = time.format("YYYY-MM-DD-HH-mm-ss");
+		const markUnit = unit || currentTimeUnit.value;
 
-	// Filter to only include marks within visible range
+		return {
+			y:
+				SVG_HEIGHT -
+				(time.diff(timeStart, "second") / currentTimespan.value) * SVG_HEIGHT,
+			isMajor,
+			time,
+			id: `${timeKey}-${markUnit.label}-${isMajor ? "major" : "minor"}`,
+			...(isMajor && unit ? { label: formatTimeLabel(time, unit) } : {}),
+		};
+	};
+
+	// Create extended time range for buffer marks
+	const bufferTime = currentTimespan.value * 0.2; // 20% buffer
+	const extendedTimeStart = timeStart.subtract(bufferTime, "second");
+	const extendedTimeEnd = timeEnd.add(bufferTime, "second");
+
+	// Generate marks with buffer for smooth animation
 	const majorSequence = createTimeSequence(
-		timeStart,
-		timeEnd,
+		extendedTimeStart,
+		extendedTimeEnd,
 		currentTimeUnit.value,
-	).filter((time) => time.isAfter(timeStart) && time.isBefore(timeEnd));
+	);
 
 	const minorSequence =
 		minorUnit.length !== currentTimeUnit.value.length
-			? createTimeSequence(timeStart, timeEnd, minorUnit).filter(
-					(time) => time.isAfter(timeStart) && time.isBefore(timeEnd),
-				)
+			? createTimeSequence(extendedTimeStart, extendedTimeEnd, minorUnit)
 			: [];
 
 	const majorMarks = majorSequence.map((time) =>
@@ -385,7 +367,12 @@ const timelineMarks = computed<TimelineMark[]>(() => {
 				!majorMarks.some((majorMark) => Math.abs(majorMark.y - mark.y) < 2),
 		);
 
-	return [...majorMarks, ...minorMarks].sort((a, b) => a.y - b.y);
+	// Filter out marks that are outside the visible range (with buffer for animation)
+	const visibleMarks = [...majorMarks, ...minorMarks]
+		.filter((mark) => mark.y >= -100 && mark.y <= SVG_HEIGHT + 100)
+		.sort((a, b) => a.y - b.y);
+
+	return visibleMarks;
 });
 
 // Calculate visible videos box properties
@@ -446,8 +433,62 @@ const visibleVideosBox = ref<{
 } | null>(null);
 
 const handleVisibleVideosChange = useDebounceFn((videos: Video[]) => {
-	visibleVideosBox.value = calculateVideosBox(videos);
+	const newBox = calculateVideosBox(videos);
+
+	// Only trigger centering if the box position actually changed significantly
+	const shouldCenter =
+		newBox &&
+		(!visibleVideosBox.value ||
+			Math.abs(newBox.y - visibleVideosBox.value.y) > 10 ||
+			Math.abs(newBox.height - visibleVideosBox.value.height) > 10);
+
+	visibleVideosBox.value = newBox;
+
+	// Check if we need to center the timeline
+	if (shouldCenter) {
+		checkAndCenterTimeline(newBox);
+	}
 }, 150);
+
+function checkAndCenterTimeline(videosBox: {
+	y: number;
+	height: number;
+	x: number;
+	width: number;
+}) {
+	const videosBoxCenter = videosBox.y + videosBox.height / 2;
+
+	// Only shift if videos box center is significantly below timeline center (threshold to avoid jitter)
+	const threshold = 20; // pixels
+	if (videosBoxCenter > TIMELINE_CENTER + threshold) {
+		const pixelDifference = videosBoxCenter - TIMELINE_CENTER;
+
+		// Convert pixel difference to time difference
+		const timeDifference =
+			(pixelDifference / SVG_HEIGHT) * currentTimespan.value;
+
+		// Calculate new currentTime to center the videos box
+		const newCurrentTime = currentTime.value.subtract(timeDifference, "second");
+
+		// Ensure we don't go into the future
+		const maxTime = dayjs();
+		const clampedNewTime = newCurrentTime.isAfter(maxTime)
+			? maxTime
+			: newCurrentTime;
+
+		console.log("Timeline centering:", {
+			videosBoxCenter,
+			timelineCenter: TIMELINE_CENTER,
+			pixelDifference,
+			timeDifference,
+			oldTime: currentTime.value.format(),
+			newTime: clampedNewTime.format(),
+		});
+
+		// Simply update the time - UnoCSS transitions will handle the animation
+		currentTime.value = clampedNewTime;
+	}
+}
 
 function formatTimeLabel(date: dayjs.Dayjs, unit: TimeUnit): string {
 	return date.format(unit.format);

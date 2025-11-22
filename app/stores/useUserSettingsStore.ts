@@ -80,7 +80,7 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 	const shortcutsEnabled = ref<boolean>(true);
 
 	// View mode with persistent storage
-	const viewMode = useStorage<ViewMode>("video-view-mode", "timeline");
+	const viewMode = useStorage<ViewMode>("video-view-mode", "list");
 
 	// Video player position and size with persistent storage
 	const videoPlayerPosition = useStorage<VideoPlayerPosition>(

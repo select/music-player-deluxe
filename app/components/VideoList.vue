@@ -6,8 +6,8 @@
 		</div>
 
 		<div v-else class="overflow-x-auto">
-			<table class="w-full border-collapse">
-				<thead>
+			<table ref="tableContainer" class="w-full border-collapse">
+				<thead class="sticky top-0 bg-bg-color z-10">
 					<tr class="border-b border-primary-2">
 						<th class="text-left p-3 font-medium text-primary-4">Video</th>
 						<th class="text-left p-3 font-medium text-primary-4">Duration</th>
@@ -17,140 +17,23 @@
 					</tr>
 				</thead>
 				<tbody>
-					<tr
-						v-for="video in videos"
-						:key="video.id"
-						class="relative border-b border-primary-2/30 hover:bg-bg-gradient transition-colors cursor-pointer"
-						:class="{
-							'after:content-empty after:absolute after:inset-0 after:b-1 after:b-solid after:b-accent after:pointer-events-none after:rounded-2xl':
-								highlightVideoId === video.id,
-						}"
-						@click="$emit('play', video)"
-					>
-						<!-- Video Info Column -->
-						<td class="p-3">
-							<div class="flex items-center gap-3">
-								<div class="flex-shrink-0 relative">
-									<img
-										:src="`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`"
-										:alt="video.title"
-										class="rounded-full size-16 object-cover bg-primary-1"
-									/>
-									<!-- Play Overlay -->
-									<div
-										class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity rounded"
-									>
-										<div class="i-mdi-play-outline text-accent text-2xl" />
-									</div>
-									<!-- Currently Playing Indicator -->
-									<div
-										v-if="highlightVideoId === video.id"
-										class="absolute -top-1 -right-1 bg-accent text-black px-1 py-0.5 rounded text-xs font-medium flex items-center gap-1"
-									>
-										<div class="i-mdi-volume-high w-2 h-2" />
-									</div>
-								</div>
-								<div class="flex-1 min-w-0">
-									<!-- Artist/Channel above title -->
-									<div class="mb-1">
-										<span
-											v-if="video.artist"
-											class="text-primary-2 text-xs font-medium"
-										>
-											{{ video.artist }}
-										</span>
-										<span v-else class="text-xs text-gray-5 opacity-80 italic">
-											{{ video.channel }}
-										</span>
-									</div>
+					<!-- Top spacer for non-visible items above viewport -->
+					<tr v-if="topSpacerHeight > 0">
+						<td :colspan="5" :style="{ height: topSpacerHeight + 'px' }" />
+					</tr>
 
-									<h4
-										class="font-medium text-primary-3 line-clamp-2 text-sm mb-1"
-									>
-										{{ video.musicTitle || video.title }}
-									</h4>
-								</div>
-							</div>
-						</td>
+					<!-- Visible items -->
+					<VideoListItem
+						v-for="item in visibleItems"
+						:key="item.data.id"
+						:video="item.data"
+						:is-highlighted="highlightVideoId === item.data.id"
+						@play="$emit('play', $event)"
+					/>
 
-						<!-- Duration Column -->
-						<td class="p-3">
-							<span
-								class="text-sm text-primary-3 font-mono flex items-center gap-1"
-							>
-								<span class="i-mdi-clock-outline text-xs text-gray-6" />
-								{{ video.duration }}
-							</span>
-						</td>
-
-						<!-- Tags Column -->
-						<td class="p-3">
-							<div
-								v-if="video.tags && video.tags.length > 0"
-								class="relative flex gap-1 max-w-72 overflow-hidden"
-							>
-								<span
-									v-for="tag in video.tags"
-									:key="tag"
-									class="text-xs b-1 b-solid b-accent-2 text-accent px-2 py-1 rounded-lg whitespace-nowrap flex-shrink-0"
-								>
-									{{ tag }}
-								</span>
-								<!-- Fade overlay -->
-								<div
-									class="absolute right-0 top-0 bottom-0 w-10 bg-gradient-to-r from-transparent to-background group-hover:to-bg-gradient pointer-events-none"
-								/>
-							</div>
-						</td>
-
-						<!-- Platforms Column -->
-						<td class="p-3">
-							<div
-								v-if="
-									video.externalIds &&
-									selectedPlatformIds.some((id) => video.externalIds?.[id])
-								"
-								class="flex gap-2"
-							>
-								<a
-									v-for="platformId in selectedPlatformIds.filter(
-										(id) => video.externalIds?.[id],
-									)"
-									:key="platformId"
-									:href="
-										getPlatformUrl(platformId, video.externalIds[platformId]!)
-									"
-									target="_blank"
-									rel="noopener noreferrer"
-									class="text-primary-3 hover:text-accent transition-colors"
-									:title="`Listen on ${getPlatformName(platformId)}`"
-								>
-									<div :class="getPlatformIcon(platformId)" class="text-sm" />
-								</a>
-							</div>
-						</td>
-
-						<!-- Added Date Column -->
-						<td class="p-3 min-w-30">
-							<div class="flex items-center gap-2">
-								<div
-									class="w-3 h-3 rounded-full flex items-center justify-center text-white text-xs font-bold"
-									:style="{
-										backgroundColor: getUserColor(video.userId || ' '),
-									}"
-								>
-									<span class="i-mdi-account text-xs" />
-								</div>
-							</div>
-							<span
-								v-if="video.createdAt"
-								class="text-sm text-primary-3"
-								:title="new Date(video.createdAt).toLocaleString()"
-							>
-								{{ formatDate(video.createdAt) }}
-							</span>
-							<span v-else class="text-sm text-primary-3 italic">Unknown</span>
-						</td>
+					<!-- Bottom spacer for non-visible items below viewport -->
+					<tr v-if="bottomSpacerHeight > 0">
+						<td :colspan="5" :style="{ height: bottomSpacerHeight + 'px' }" />
 					</tr>
 				</tbody>
 			</table>
@@ -159,35 +42,161 @@
 </template>
 
 <script setup lang="ts">
-import dayjs from "dayjs";
-import relativeTime from "dayjs/plugin/relativeTime";
+import {
+	useWindowScroll,
+	useWindowSize,
+	useElementBounding,
+	refThrottled,
+} from "@vueuse/core";
 import type { Video } from "~/types";
 
-withDefaults(
+interface VirtualItem {
+	index: number;
+	data: Video;
+}
+
+const props = withDefaults(
 	defineProps<{
 		videos?: Video[];
 		highlightVideoId?: string;
+		itemHeight?: number;
+		topPadding?: number;
+		overscan?: number;
 	}>(),
 	{
 		videos: () => [],
 		highlightVideoId: "",
+		itemHeight: 100, // Approximate height per row in pixels
+		topPadding: 0, // Top padding offset (e.g., for fixed headers)
+		overscan: 5, // Number of items to render outside viewport for smooth scrolling
 	},
 );
 
-// Get selected platforms from user settings
-const { settings } = storeToRefs(useUserSettingsStore());
-const selectedPlatformIds = computed(
-	() => settings.value.selectedPlatforms || [],
-);
-
-defineEmits<{
+const emit = defineEmits<{
 	play: [video: Video];
+	visibleVideosChange: [videos: Video[]];
 }>();
 
-dayjs.extend(relativeTime);
+// Virtual scrolling setup using window/document scroll
+const tableContainer = ref<HTMLElement>();
+const { y: windowScrollY } = useWindowScroll();
+const { height: windowHeight } = useWindowSize();
+const { top: tableTop } = useElementBounding(tableContainer);
 
-// Format timestamp to readable date using dayjs
-const formatDate = (timestamp: number): string => {
-	return dayjs(timestamp).fromNow();
+// Throttle scroll updates for better performance
+const throttledScrollY = refThrottled(windowScrollY, 16); // ~60fps
+
+// Calculate the visible range based on window scroll and table position
+const visibleRange = computed(() => {
+	if (!tableContainer.value || props.videos.length === 0) {
+		return { startIndex: 0, endIndex: -1 };
+	}
+
+	const itemHeight = props.itemHeight;
+	const windowScroll = throttledScrollY.value;
+	const tableTopPosition = tableTop.value;
+	const viewportHeight = windowHeight.value;
+
+	// Simple calculation: how much of the table has been scrolled past
+	// When tableTopPosition is negative, the table has scrolled past the top
+	const scrolledPastTable =
+		tableTopPosition >= 0
+			? Math.max(0, windowScroll - tableTopPosition)
+			: windowScroll;
+
+	// Account for table header (sticky header is about 60px)
+	const scrolledPastContent = Math.max(0, scrolledPastTable - 60);
+
+	// Calculate which items should be visible
+	const startIndex = Math.max(
+		0,
+		Math.floor(scrolledPastContent / itemHeight) - props.overscan,
+	);
+	const visibleItemCount =
+		Math.ceil(viewportHeight / itemHeight) + props.overscan * 2;
+	const endIndex = Math.min(
+		props.videos.length - 1,
+		startIndex + visibleItemCount,
+	);
+
+	return { startIndex, endIndex };
+});
+
+// Create virtual items for visible range
+const visibleItems = computed((): VirtualItem[] => {
+	const { startIndex, endIndex } = visibleRange.value;
+
+	return props.videos
+		.slice(startIndex, endIndex + 1)
+		.map((video, i) => ({ index: startIndex + i, video }))
+		.filter(
+			(item): item is { index: number; video: Video } =>
+				item.video !== undefined,
+		)
+		.map(({ index, video }) => ({
+			index,
+			data: video,
+		}));
+});
+
+// Calculate spacer heights
+const topSpacerHeight = computed(() => {
+	return visibleRange.value.startIndex * props.itemHeight;
+});
+
+const bottomSpacerHeight = computed(() => {
+	const { endIndex } = visibleRange.value;
+	const remainingItems = props.videos.length - 1 - endIndex;
+	return Math.max(0, remainingItems * props.itemHeight);
+});
+
+// Helper function to compare arrays
+const arraysEqual = (a: string[], b: string[]): boolean => {
+	if (a.length !== b.length) return false;
+	return a.every((id, index) => id === b[index]);
 };
+// Track previous visible videos for change detection
+let previousVisibleVideoIds: string[] = [];
+// Emit visible videos when they change
+watch(
+	visibleItems,
+	(newItems) => {
+		const newVisibleVideoIds = newItems.map((item) => item.data.id);
+
+		// Only emit if the visible videos actually changed
+		if (!arraysEqual(previousVisibleVideoIds, newVisibleVideoIds)) {
+			previousVisibleVideoIds = newVisibleVideoIds;
+			const visibleVideos = newItems.map((item) => item.data);
+			emit("visibleVideosChange", visibleVideos);
+		}
+	},
+	{ immediate: true, deep: true },
+);
+
+// Watch for highlighted video changes and scroll to it if needed
+// watch(
+// 	() => props.highlightVideoId,
+// 	(newId) => {
+// 		if (newId && tableContainer.value) {
+// 			const videoIndex = props.videos.findIndex((video) => video.id === newId);
+// 			if (videoIndex !== -1) {
+// 				const targetScrollTop =
+// 					tableTop.value + videoIndex * props.itemHeight + props.topPadding;
+// 				const currentScrollTop = windowScrollY.value;
+// 				const viewportHeight = windowHeight.value;
+
+// 				// Only scroll if the item is not already visible
+// 				if (
+// 					targetScrollTop < currentScrollTop ||
+// 					targetScrollTop > currentScrollTop + viewportHeight - props.itemHeight
+// 				) {
+// 					window.scrollTo({
+// 						top: Math.max(0, targetScrollTop - props.itemHeight),
+// 						behavior: "smooth",
+// 					});
+// 				}
+// 			}
+// 		}
+// 	},
+// );
 </script>
