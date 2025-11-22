@@ -19,25 +19,23 @@
 				<!-- Timeline marks -->
 				<g v-for="mark in timelineMarks" :key="mark.id">
 					<!-- Major unit marks (longer dashes) -->
-					<line
+					<rect
 						v-if="mark.isMajor"
-						:x1="68"
-						:x2="80"
-						:y1="mark.y"
-						:y2="mark.y"
-						stroke="currentColor"
-						stroke-width="2"
+						:x="68"
+						:y="mark.y - 1"
+						width="12"
+						height="2"
+						fill="currentColor"
 						class="text-primary-4 transition-all duration-300 ease-in-out"
 					/>
 					<!-- Minor unit marks (shorter dashes) -->
-					<line
+					<rect
 						v-else
-						:x1="72"
-						:x2="80"
-						:y1="mark.y"
-						:y2="mark.y"
-						stroke="currentColor"
-						stroke-width="1"
+						:x="72"
+						:y="mark.y - 0.5"
+						width="8"
+						height="1"
+						fill="currentColor"
 						class="text-primary-3 transition-all duration-300 ease-in-out"
 					/>
 					<!-- Time labels for major marks -->
@@ -45,7 +43,11 @@
 						v-if="mark.isMajor && mark.label"
 						:x="60"
 						:y="mark.y + 4"
-						class="text-xs fill-primary-3 transition-all duration-300 ease-in-out"
+						:class="{
+							'opacity-0': isTimelineTransitioning,
+							'opacity-100': !isTimelineTransitioning,
+						}"
+						class="text-xs fill-primary-3 transition-opacity duration-500 ease-in-out"
 						text-anchor="end"
 					>
 						{{ mark.label }}
@@ -112,7 +114,7 @@ import utc from "dayjs/plugin/utc";
 import relativeTime from "dayjs/plugin/relativeTime";
 import customParseFormat from "dayjs/plugin/customParseFormat";
 import duration from "dayjs/plugin/duration";
-import { useEventListener, useThrottleFn, useDebounceFn } from "@vueuse/core";
+import { useEventListener, useThrottleFn } from "@vueuse/core";
 import type { Video } from "~/types";
 
 const props = withDefaults(
@@ -165,6 +167,7 @@ const TIMELINE_CENTER = SVG_HEIGHT / 2;
 const currentTimespan = ref<number>(1728000); // 20 days
 const currentTime = ref<dayjs.Dayjs>(dayjs());
 const svgElement = ref<SVGElement>();
+const isTimelineTransitioning = ref<boolean>(false);
 
 const timeUnits: TimeUnit[] = [
 	{
@@ -375,13 +378,13 @@ const timelineMarks = computed<TimelineMark[]>(() => {
 	return visibleMarks;
 });
 
-// Calculate visible videos box properties
-const calculateVideosBox = (videos: Video[]) => {
+// Reactive videos center time
+const currentVisibleVideos = ref<Video[]>([]);
+
+const videosCenterTime = computed(() => {
+	const videos = currentVisibleVideos.value;
 	if (videos.length === 0) return null;
 
-	const timeStart = currentTime.value.subtract(currentTimespan.value, "second");
-
-	// Find earliest and latest video creation dates
 	const videoDates = videos
 		.map((video) => (video.createdAt ? dayjs(video.createdAt) : null))
 		.filter((date): date is dayjs.Dayjs => date !== null);
@@ -396,79 +399,70 @@ const calculateVideosBox = (videos: Video[]) => {
 		[videoDates[0]!, videoDates[0]!],
 	);
 
-	// Convert to Y positions and clamp to SVG bounds
-	const startY = Math.max(
-		0,
-		Math.min(
-			SVG_HEIGHT -
-				(earliestDate.diff(timeStart, "second") / currentTimespan.value) *
-					SVG_HEIGHT,
-			SVG_HEIGHT,
+	return {
+		centerTime: earliestDate.add(
+			latestDate.diff(earliestDate, "second") / 2,
+			"second",
 		),
-	);
-	const endY = Math.max(
-		0,
-		Math.min(
-			SVG_HEIGHT -
-				(latestDate.diff(timeStart, "second") / currentTimespan.value) *
-					SVG_HEIGHT,
-			SVG_HEIGHT,
-		),
+		earliestDate,
+		latestDate,
+	};
+});
+
+// Calculate visible videos box properties relative to videosCenterTime position
+const visibleVideosBox = computed(() => {
+	const videosCenter = videosCenterTime.value;
+	if (!videosCenter) return null;
+
+	const { centerTime, earliestDate, latestDate } = videosCenter;
+
+	// Calculate where the videos center time appears on the current timeline
+	const timeStart = currentTime.value.subtract(currentTimespan.value, "second");
+	const videosCenterY =
+		SVG_HEIGHT -
+		(centerTime.diff(timeStart, "second") / currentTimespan.value) * SVG_HEIGHT;
+
+	// Calculate video timespan and box height
+	const videoTimespan = latestDate.diff(earliestDate, "second");
+	const boxHeight = Math.max(
+		(videoTimespan / currentTimespan.value) * SVG_HEIGHT,
+		10, // Minimum height of 10px
 	);
 
 	return {
-		y: Math.min(startY, endY),
-		height: Math.abs(endY - startY) || 10, // Minimum height of 10px
+		y: videosCenterY - boxHeight / 2, // Position relative to where videos actually are
+		height: boxHeight,
 		x: 65, // Slightly to the left of long ticks (which start at x=68)
 		width: 19, // Slightly wider than long ticks (which are 12px wide: 68-80)
 	};
-};
+});
 
-// Handle visible videos with debounced box calculation
-const visibleVideosBox = ref<{
-	x: number;
-	y: number;
-	width: number;
-	height: number;
-} | null>(null);
+const handleVisibleVideosChange = useThrottleFn((videos: Video[]) => {
+	currentVisibleVideos.value = videos;
 
-const handleVisibleVideosChange = useDebounceFn((videos: Video[]) => {
-	const newBox = calculateVideosBox(videos);
-
-	// Only trigger centering if the box position actually changed significantly
-	const shouldCenter =
-		newBox &&
-		(!visibleVideosBox.value ||
-			Math.abs(newBox.y - visibleVideosBox.value.y) > 10 ||
-			Math.abs(newBox.height - visibleVideosBox.value.height) > 10);
-
-	visibleVideosBox.value = newBox;
-
-	// Check if we need to center the timeline
-	if (shouldCenter) {
-		checkAndCenterTimeline(newBox);
-	}
+	// Check if we need to center the timeline on any change
+	checkAndCenterTimeline();
 }, 150);
 
-function checkAndCenterTimeline(videosBox: {
-	y: number;
-	height: number;
-	x: number;
-	width: number;
-}) {
-	const videosBoxCenter = videosBox.y + videosBox.height / 2;
+function checkAndCenterTimeline() {
+	const videosCenter = videosCenterTime.value;
+	if (!videosCenter) return;
 
-	// Only shift if videos box center is significantly below timeline center (threshold to avoid jitter)
-	const threshold = 20; // pixels
-	if (videosBoxCenter > TIMELINE_CENTER + threshold) {
-		const pixelDifference = videosBoxCenter - TIMELINE_CENTER;
+	const { centerTime } = videosCenter;
 
-		// Convert pixel difference to time difference
-		const timeDifference =
-			(pixelDifference / SVG_HEIGHT) * currentTimespan.value;
+	// Calculate where this center time currently appears on the timeline
+	const timeStart = currentTime.value.subtract(currentTimespan.value, "second");
+	const currentVideosCenterY =
+		SVG_HEIGHT -
+		(centerTime.diff(timeStart, "second") / currentTimespan.value) * SVG_HEIGHT;
 
-		// Calculate new currentTime to center the videos box
-		const newCurrentTime = currentTime.value.subtract(timeDifference, "second");
+	// Check if videos center is significantly off from timeline center (threshold to avoid jitter)
+	const threshold = 50; // pixels - increased threshold for better stability
+	const pixelDifference = currentVideosCenterY - TIMELINE_CENTER;
+
+	if (Math.abs(pixelDifference) > threshold) {
+		// Calculate the new currentTime needed to position the videos center at timeline center
+		const newCurrentTime = centerTime.add(currentTimespan.value / 2, "second");
 
 		// Ensure we don't go into the future
 		const maxTime = dayjs();
@@ -476,17 +470,8 @@ function checkAndCenterTimeline(videosBox: {
 			? maxTime
 			: newCurrentTime;
 
-		console.log("Timeline centering:", {
-			videosBoxCenter,
-			timelineCenter: TIMELINE_CENTER,
-			pixelDifference,
-			timeDifference,
-			oldTime: currentTime.value.format(),
-			newTime: clampedNewTime.format(),
-		});
-
-		// Simply update the time - UnoCSS transitions will handle the animation
-		currentTime.value = clampedNewTime;
+		// Trigger fade-out/fade-in animation for timeline position change
+		animateTimelineTransition(clampedNewTime);
 	}
 }
 
@@ -529,7 +514,7 @@ function calculateNewTimespan(
 useEventListener(
 	svgElement,
 	"wheel",
-	useThrottleFn((event: WheelEvent): void => {
+	useThrottleFn(async (event: WheelEvent) => {
 		event.preventDefault();
 		event.stopPropagation();
 
@@ -543,4 +528,19 @@ useEventListener(
 	}, THROTTLE_DELAY),
 	{ passive: false },
 );
+
+function animateTimelineTransition(newTime: dayjs.Dayjs): void {
+	// Start fade-out
+	isTimelineTransitioning.value = true;
+
+	// After fade-out completes, update time and fade back in
+	setTimeout(() => {
+		currentTime.value = newTime;
+
+		// Small delay to ensure DOM updates, then fade back in
+		setTimeout(() => {
+			isTimelineTransitioning.value = false;
+		}, 500);
+	}, 300); // Match the transition duration
+}
 </script>
