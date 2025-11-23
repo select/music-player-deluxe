@@ -2,10 +2,6 @@
   "mbid": "acc428b8-2ad5-4de4-be7f-802f44cd3a1c",
   "title": "DB Song",
   "artist": "Paul Cornish",
-  "tags": [
-    "contemporary jazz",
-    "jazz"
-  ],
   "duration": 333,
   "youtubeId": "U6EAEln-a7Q",
   "lastFetched": "2025-11-19T03:58:34.111Z",
@@ -26,5 +22,11 @@
   "lastfmId": "Paul+Cornish/_/DB+Song",
   "listeners": 806,
   "playcount": 1467,
-  "artistMbid": "104721c5-f679-4627-9462-26ad5d15f082"
+  "artistMbid": "104721c5-f679-4627-9462-26ad5d15f082",
+  "musicbrainz": {
+    "tags": [
+      "contemporary jazz",
+      "jazz"
+    ]
+  }
 }

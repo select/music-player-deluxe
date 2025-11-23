@@ -26,12 +26,14 @@
   "listeners": 1266079,
   "playcount": 17992101,
   "artistMbid": "03ad1736-b7c9-412a-b442-82536d63a5c4",
-  "lastfmTags": [
-    "acoustic",
-    "indie",
-    "singer-songwriter",
-    "Mellow",
-    "beautiful"
-  ],
-  "lastfmSummary": "“Between the Bars” is the fourth track of Elliott Smith’s 1997 album, Either/Or. It is written as a short ballad in the key of G Minor. Possibly Smith’s most popular song, it is one of three tracks from Either/Or that were used in the soundtrack of the film “Good Will Hunting”. It is also featured in the 2012 indie film “Stuck in Love” and in the seventh episode of season two of Rick and Morty. A cover version of the song performed <a href=\"http://www.last.fm/music/Elliott+Smith/_/Between+the+Bars\">Read more on Last.fm</a>."
+  "lastfmSummary": "“Between the Bars” is the fourth track of Elliott Smith’s 1997 album, Either/Or. It is written as a short ballad in the key of G Minor. Possibly Smith’s most popular song, it is one of three tracks from Either/Or that were used in the soundtrack of the film “Good Will Hunting”. It is also featured in the 2012 indie film “Stuck in Love” and in the seventh episode of season two of Rick and Morty. A cover version of the song performed <a href=\"http://www.last.fm/music/Elliott+Smith/_/Between+the+Bars\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "acoustic",
+      "indie",
+      "singer-songwriter",
+      "Mellow",
+      "beautiful"
+    ]
+  }
 }

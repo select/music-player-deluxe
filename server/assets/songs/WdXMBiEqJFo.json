@@ -2,9 +2,6 @@
   "mbid": "40232262-f725-4897-b918-7c582a1686eb",
   "title": "In Reverse",
   "artist": "Rival Consoles",
-  "tags": [
-    "idm"
-  ],
   "duration": 248,
   "youtubeId": "WdXMBiEqJFo",
   "lastFetched": "2025-11-19T01:38:09.074Z",
@@ -22,5 +19,10 @@
   "lastfmId": "Rival+Consoles/_/In+Reverse",
   "listeners": 8540,
   "playcount": 22286,
-  "artistMbid": "803f2853-7e3e-4dff-96a7-9f77b5f56de5"
+  "artistMbid": "803f2853-7e3e-4dff-96a7-9f77b5f56de5",
+  "musicbrainz": {
+    "tags": [
+      "idm"
+    ]
+  }
 }

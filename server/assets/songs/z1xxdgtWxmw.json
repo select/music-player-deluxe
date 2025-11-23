@@ -4,13 +4,9 @@
   "artist": "Getdown Services",
   "artistMbid": "ca57dd61-590f-4605-85ec-72e947a6148b",
   "releaseCount": 3,
-  "tags": [],
   "duration": 255,
   "youtubeId": "z1xxdgtWxmw",
   "lastFetched": "2025-11-19T03:43:19.361Z",
-  "artistTags": [
-    "slacker rock"
-  ],
   "odesli": {
     "amazonMusic": "B0DHRWDKM7",
     "amazonStore": "B0DHRWDKM7",
@@ -23,5 +19,10 @@
   },
   "lastfmId": "Getdown+Services/_/Dog+Dribble",
   "listeners": 49609,
-  "playcount": 235362
+  "playcount": 235362,
+  "musicbrainz": {
+    "artistTags": [
+      "slacker rock"
+    ]
+  }
 }

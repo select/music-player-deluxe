@@ -4,14 +4,15 @@
   "artist": "Sjaella",
   "artistMbid": "9b500279-1fbe-4917-b179-a91707ece463",
   "releaseCount": 1,
-  "tags": [],
   "duration": 494,
   "youtubeId": "SuKVWVqVDB0",
   "lastFetched": "2025-11-19T03:55:31.817Z",
-  "artistTags": [
-    "a cappella"
-  ],
   "lastfmId": "Sjaella/_/Evening+Morning+Day",
   "listeners": 24,
-  "playcount": 40
+  "playcount": 40,
+  "musicbrainz": {
+    "artistTags": [
+      "a cappella"
+    ]
+  }
 }

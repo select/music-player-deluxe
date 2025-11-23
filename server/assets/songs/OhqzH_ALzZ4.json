@@ -8,12 +8,14 @@
   "listeners": 1573024,
   "playcount": 15884048,
   "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
-  "lastfmTags": [
-    "thrash metal",
-    "metal",
-    "heavy metal",
-    "metallica",
-    "rock"
-  ],
-  "lastfmSummary": "\"Master of Puppets\" is the second song off Metallica's 1986 album \"Master of Puppets\".\n\nThe song, following the theme of control with the rest of the album, discusses drugs and their effects. Addiction, the master referenced in the title, narrates the song, testifying to the destruction that comes from being under the control of drugs. James Hetfield explained  the song \"deals pretty much with drugs. How things get switched around, instead of you controlling what you're taking and doing, it's drugs controlling you. <a href=\"http://www.last.fm/music/Metallica/_/Master+of+Puppets\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Master of Puppets\" is the second song off Metallica's 1986 album \"Master of Puppets\".\n\nThe song, following the theme of control with the rest of the album, discusses drugs and their effects. Addiction, the master referenced in the title, narrates the song, testifying to the destruction that comes from being under the control of drugs. James Hetfield explained  the song \"deals pretty much with drugs. How things get switched around, instead of you controlling what you're taking and doing, it's drugs controlling you. <a href=\"http://www.last.fm/music/Metallica/_/Master+of+Puppets\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "thrash metal",
+      "metal",
+      "heavy metal",
+      "metallica",
+      "rock"
+    ]
+  }
 }

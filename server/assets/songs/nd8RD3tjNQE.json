@@ -4,19 +4,20 @@
   "artist": "bleu soleil",
   "artistMbid": "736ee88d-6b6d-4160-9484-a2c9ea5d3c04",
   "releaseCount": 1,
-  "tags": [],
   "duration": 132,
   "youtubeId": "nd8RD3tjNQE",
   "lastFetched": "2025-11-19T04:00:06.989Z",
-  "artistTags": [
-    "bass music",
-    "electro dub",
-    "electronic",
-    "paris",
-    "pop",
-    "reggae."
-  ],
   "lastfmId": "bleu+soleil/_/Soleil+Bleu+(Radio+Edit)",
   "listeners": 42,
-  "playcount": 183
+  "playcount": 183,
+  "musicbrainz": {
+    "artistTags": [
+      "bass music",
+      "electro dub",
+      "electronic",
+      "paris",
+      "pop",
+      "reggae."
+    ]
+  }
 }

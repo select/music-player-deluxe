@@ -163,11 +163,6 @@ async function main(): Promise<void> {
 			if (result.data.playcount) {
 				console.log(`   Play count: ${result.data.playcount.toLocaleString()}`);
 			}
-			if (result.data.tags && result.data.tags.length > 0) {
-				console.log(
-					`   Tags: ${result.data.tags.slice(0, 3).join(", ")}${result.data.tags.length > 3 ? "..." : ""}`,
-				);
-			}
 		} else {
 			failCount++;
 			console.log(`❌ Failed: ${result.error}`);

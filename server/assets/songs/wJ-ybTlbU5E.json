@@ -4,21 +4,9 @@
   "artist": "TeRex Productions",
   "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
   "releaseCount": 2,
-  "tags": [],
   "duration": 132,
   "youtubeId": "wJ-ybTlbU5E",
   "lastFetched": "2025-11-16T21:25:59.726Z",
-  "artistTags": [
-    "art pop",
-    "dance-pop",
-    "dancehall",
-    "edm",
-    "electronic",
-    "electropop",
-    "jungle terror",
-    "moombahton",
-    "pop reggae"
-  ],
   "odesli": {
     "boomplay": "19617868",
     "pandora": "TR:1840695",
@@ -26,5 +14,18 @@
     "yandex": "80983442",
     "youtube": "wJ-ybTlbU5E",
     "youtubeMusic": "wJ-ybTlbU5E"
+  },
+  "musicbrainz": {
+    "artistTags": [
+      "art pop",
+      "dance-pop",
+      "dancehall",
+      "edm",
+      "electronic",
+      "electropop",
+      "jungle terror",
+      "moombahton",
+      "pop reggae"
+    ]
   }
 }

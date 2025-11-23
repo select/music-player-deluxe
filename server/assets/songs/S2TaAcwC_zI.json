@@ -26,11 +26,13 @@
   "listeners": 837696,
   "playcount": 9867901,
   "artistMbid": "94c4459d-4c35-4bc6-8bca-c75107515c1c",
-  "lastfmTags": [
-    "Drum and bass",
-    "liquid dnb",
-    "pop",
-    "dance",
-    "vocal"
-  ]
+  "musicbrainz": {
+    "tags": [
+      "Drum and bass",
+      "liquid dnb",
+      "pop",
+      "dance",
+      "vocal"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "tMWfpekfAms",
   "title": "Shining",
   "artist": "Peace Orchestra",
-  "lastFetched": "2025-11-20T09:01:44.947Z",
+  "lastFetched": "2025-11-23T14:47:19.106Z",
   "odesli": {
     "amazonMusic": "B07L5PVN7V",
     "amazonStore": "B07L5PVN7V",
@@ -10,5 +10,14 @@
     "tidal": "100470263",
     "youtube": "tMWfpekfAms",
     "youtubeMusic": "tMWfpekfAms"
+  },
+  "lastfmId": "Peace+Orchestra/_/Shining",
+  "listeners": 115113,
+  "playcount": 435813,
+  "lastfm": {
+    "title": "Shining",
+    "artist": "Peace Orchestra",
+    "mbid": "99bd4572-cb6c-314b-ad1d-52cbe2f687ac",
+    "artistMbid": "334cd452-8833-4da4-8f14-90136cb0492f"
   }
 }

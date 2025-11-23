@@ -2,7 +2,7 @@
   "youtubeId": "q4FutzRvFZc",
   "title": "Love Reality",
   "artist": "Oneda",
-  "lastFetched": "2025-11-19T14:46:27.308Z",
+  "lastFetched": "2025-11-23T15:40:49.244Z",
   "odesli": {
     "amazonMusic": "B0CFCYFPSD",
     "amazonStore": "B0CFCYFPSD",
@@ -21,5 +21,6 @@
   "mbid": "e72c4a68-e2b0-429f-96d4-9ca674c89abc",
   "lastfmId": "Oneda/_/Love+Reality",
   "listeners": 618,
-  "playcount": 1532
+  "playcount": 1532,
+  "artistMbid": "3c7e507a-210d-432a-b2cb-a32da67acd6f"
 }

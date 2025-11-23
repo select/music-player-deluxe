@@ -2,23 +2,11 @@
   "mbid": "1e1bf5e6-25d5-481b-b3dd-bee44c491ef9",
   "title": "(Sittin' On) The Dock of the Bay",
   "artist": "Otis Redding",
-  "tags": [],
   "duration": 161,
   "youtubeId": "rTVjnBo96Ug",
   "lastFetched": "2025-11-19T03:44:20.301Z",
   "releaseCount": 1,
   "artistMbid": "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
-  "artistTags": [
-    "blues",
-    "blues rock",
-    "death by plane crash",
-    "deep soul",
-    "psychedelic rock",
-    "r&b",
-    "rhythm & blues",
-    "soul",
-    "southern soul"
-  ],
   "odesli": {
     "amazonMusic": "B002DUIMHS",
     "amazonStore": "B002DUIMHS",
@@ -39,12 +27,25 @@
   "lastfmId": "Otis+Redding/_/(Sittin%27+On)+The+Dock+of+the+Bay",
   "listeners": 1113901,
   "playcount": 8060006,
-  "lastfmTags": [
-    "soul",
-    "7soul",
-    "60s",
-    "oldies",
-    "rhythm and blues"
-  ],
-  "lastfmSummary": "\"(Sittin' On) The Dock of the Bay\" by Otis Redding, co-written with guitarist Steve Cropper, is a soulful reflection stemming from Redding's experiences and feelings while staying in Sausalito, California. The song, recorded just days before Redding's tragic death in 1967, was his first posthumous #1 single in the U.S. and a significant shift in style, aiming for a more pop feel. Its enduring legacy, marked by universal acclaim and Grammy Awards, underscores Redding's immense talent and the song's profound impact on music history <a href=\"http://www.last.fm/music/Otis+Redding/_/(Sittin%27+On)+The+Dock+of+the+Bay\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"(Sittin' On) The Dock of the Bay\" by Otis Redding, co-written with guitarist Steve Cropper, is a soulful reflection stemming from Redding's experiences and feelings while staying in Sausalito, California. The song, recorded just days before Redding's tragic death in 1967, was his first posthumous #1 single in the U.S. and a significant shift in style, aiming for a more pop feel. Its enduring legacy, marked by universal acclaim and Grammy Awards, underscores Redding's immense talent and the song's profound impact on music history <a href=\"http://www.last.fm/music/Otis+Redding/_/(Sittin%27+On)+The+Dock+of+the+Bay\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "soul",
+      "7soul",
+      "60s",
+      "oldies",
+      "rhythm and blues"
+    ],
+    "artistTags": [
+      "blues",
+      "blues rock",
+      "death by plane crash",
+      "deep soul",
+      "psychedelic rock",
+      "r&b",
+      "rhythm & blues",
+      "soul",
+      "southern soul"
+    ]
+  }
 }

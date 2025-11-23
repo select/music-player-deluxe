@@ -2,10 +2,9 @@
   "mbid": "31670d7c-8cd8-4d82-b314-8d185e7760e2",
   "title": "viscus",
   "artist": "Oklou",
-  "tags": [],
   "duration": 221,
   "youtubeId": "BKdigb7GasY",
-  "lastFetched": "2025-11-19T05:11:19.871Z",
+  "lastFetched": "2025-11-23T15:39:47.619Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0FP5GH4QF",
@@ -23,5 +22,6 @@
   },
   "lastfmId": "Oklou/_/viscus",
   "listeners": 37173,
-  "playcount": 188248
+  "playcount": 188248,
+  "artistMbid": "13e2db47-3010-48b8-a8b9-667551f37119"
 }

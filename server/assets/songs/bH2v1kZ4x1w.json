@@ -3,9 +3,6 @@
   "title": "Nostaglitch",
   "artist": "Skee Mask",
   "album": "Resort",
-  "tags": [
-    "ambient"
-  ],
   "duration": 274,
   "youtubeId": "bH2v1kZ4x1w",
   "lastFetched": "2025-11-19T04:32:08.027Z",
@@ -24,5 +21,10 @@
   "lastfmId": "Skee+Mask/_/Nostaglitch",
   "listeners": 4805,
   "playcount": 17796,
-  "artistMbid": "2b3e25ba-983e-44ac-9def-907e03910cd2"
+  "artistMbid": "2b3e25ba-983e-44ac-9def-907e03910cd2",
+  "musicbrainz": {
+    "tags": [
+      "ambient"
+    ]
+  }
 }

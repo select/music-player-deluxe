@@ -8,11 +8,13 @@
   "listeners": 539149,
   "playcount": 3045436,
   "artistMbid": "e83144dd-bb95-49fe-b1dd-00bab25cca9e",
-  "lastfmTags": [
-    "trance",
-    "electronic",
-    "chillout",
-    "90s",
-    "dance"
-  ]
+  "musicbrainz": {
+    "tags": [
+      "trance",
+      "electronic",
+      "chillout",
+      "90s",
+      "dance"
+    ]
+  }
 }

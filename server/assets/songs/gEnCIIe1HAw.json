@@ -2,7 +2,7 @@
   "youtubeId": "gEnCIIe1HAw",
   "title": "This Is War",
   "artist": "Ben Kweller",
-  "lastFetched": "2025-11-20T09:02:34.954Z",
+  "lastFetched": "2025-11-23T14:49:20.553Z",
   "odesli": {
     "amazonMusic": "B0DZS2N2PC",
     "amazonStore": "B0DZS2N2PC",
@@ -19,5 +19,14 @@
     "yandex": "48310170",
     "youtube": "gEnCIIe1HAw",
     "youtubeMusic": "gEnCIIe1HAw"
+  },
+  "lastfmId": "Ben+Kweller/_/This+Is+War",
+  "listeners": 52290,
+  "playcount": 201058,
+  "lastfm": {
+    "title": "This Is War",
+    "artist": "Ben Kweller",
+    "mbid": "d1ef4cf4-bfec-3a6e-b6a1-7031eef42c3f",
+    "artistMbid": "ff9deaae-da4f-42b7-a19e-36fedd3fc706"
   }
 }

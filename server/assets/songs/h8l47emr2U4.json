@@ -4,20 +4,6 @@
   "artist": "The Beach Boys",
   "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
   "releaseCount": 8,
-  "tags": [
-    "am pop",
-    "contemporary pop/rock",
-    "experimental",
-    "pop",
-    "pop/rock",
-    "psychedelic",
-    "psychedelic pop",
-    "psychedelic rock",
-    "rock",
-    "rock & roll",
-    "sunshine pop",
-    "surf rock"
-  ],
   "duration": 220,
   "youtubeId": "h8l47emr2U4",
   "lastFetched": "2025-11-19T03:52:28.744Z",
@@ -30,5 +16,21 @@
   },
   "lastfmId": "The+Beach+Boys/_/Diamond+Head+-+Remastered+2001",
   "listeners": 11210,
-  "playcount": 49317
+  "playcount": 49317,
+  "musicbrainz": {
+    "tags": [
+      "am pop",
+      "contemporary pop/rock",
+      "experimental",
+      "pop",
+      "pop/rock",
+      "psychedelic",
+      "psychedelic pop",
+      "psychedelic rock",
+      "rock",
+      "rock & roll",
+      "sunshine pop",
+      "surf rock"
+    ]
+  }
 }

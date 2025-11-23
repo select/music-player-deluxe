@@ -3,14 +3,10 @@
   "title": "ISMUS",
   "artist": "Knorkator",
   "album": "ISMUS",
-  "tags": [],
   "duration": 161,
   "youtubeId": "L1ukLL192vg",
   "lastFetched": "2025-11-19T04:52:59.572Z",
   "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
-  "artistTags": [
-    "german"
-  ],
   "odesli": {
     "amazonMusic": "B0F21VZXFH",
     "amazonStore": "B0F21VZXFH",
@@ -25,5 +21,10 @@
   },
   "lastfmId": "Knorkator/_/ISMUS",
   "listeners": 1446,
-  "playcount": 4732
+  "playcount": 4732,
+  "musicbrainz": {
+    "artistTags": [
+      "german"
+    ]
+  }
 }

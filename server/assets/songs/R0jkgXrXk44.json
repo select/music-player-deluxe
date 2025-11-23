@@ -4,16 +4,9 @@
   "artist": "Noize MC",
   "artistMbid": "a0c5737e-da6d-468f-a78e-19146494f1db",
   "releaseCount": 2,
-  "tags": [],
   "duration": 190,
   "youtubeId": "R0jkgXrXk44",
   "lastFetched": "2025-11-19T04:58:36.164Z",
-  "artistTags": [
-    "alternative rock",
-    "hip hop",
-    "rap",
-    "russian"
-  ],
   "odesli": {
     "soundcloud": "1432049713",
     "tidal": "423790900",
@@ -23,5 +16,13 @@
   },
   "lastfmId": "Noize+MC/_/%D0%9A%D0%BE%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2+%C2%AB%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%C2%BB",
   "listeners": 12048,
-  "playcount": 90450
+  "playcount": 90450,
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "hip hop",
+      "rap",
+      "russian"
+    ]
+  }
 }

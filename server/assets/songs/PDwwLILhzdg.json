@@ -2,10 +2,9 @@
   "mbid": "20e4ebf8-62e7-44ba-8d8f-011d4014a4a2",
   "title": "Teacher",
   "artist": "Leroy Ace Miller",
-  "tags": [],
   "duration": 285,
   "youtubeId": "PDwwLILhzdg",
-  "lastFetched": "2025-11-19T03:23:28.756Z",
+  "lastFetched": "2025-11-23T15:40:01.279Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B07667B47T",
@@ -16,5 +15,6 @@
   },
   "lastfmId": "Leroy+Ace+Miller/_/Teacher",
   "listeners": 367,
-  "playcount": 1225
+  "playcount": 1225,
+  "artistMbid": "3abb1309-2b2c-4575-97a9-5b99ab6f3638"
 }

@@ -27,12 +27,14 @@
   "listeners": 2055132,
   "playcount": 21877359,
   "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
-  "lastfmTags": [
-    "alternative rock",
-    "rock",
-    "alternative",
-    "british",
-    "Muse"
-  ],
-  "lastfmSummary": "\"Starlight\" is a song by British alternative rock band Muse and is the second track on their 2006 album Black Holes and Revelations. It was released on 4 September 2006 in the United Kingdom as the second single from \"Black Holes and Revelations\". The song peaked at #13 on the UK Singles Chart. It was also the second single released in the United States, reaching number two on the Modern Rock Tracks chart. The song was first played live during the Radio 1's Big Weekend festival in summer 2006. <a href=\"http://www.last.fm/music/Muse/_/Starlight\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Starlight\" is a song by British alternative rock band Muse and is the second track on their 2006 album Black Holes and Revelations. It was released on 4 September 2006 in the United Kingdom as the second single from \"Black Holes and Revelations\". The song peaked at #13 on the UK Singles Chart. It was also the second single released in the United States, reaching number two on the Modern Rock Tracks chart. The song was first played live during the Radio 1's Big Weekend festival in summer 2006. <a href=\"http://www.last.fm/music/Muse/_/Starlight\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "alternative rock",
+      "rock",
+      "alternative",
+      "british",
+      "Muse"
+    ]
+  }
 }

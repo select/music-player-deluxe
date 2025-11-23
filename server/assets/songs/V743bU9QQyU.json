@@ -2,14 +2,10 @@
   "mbid": "0928f100-d967-4534-a565-119cca0446f2",
   "title": "Flickers in the Air of Night",
   "artist": "Kara-Lis Coverdale",
-  "tags": [],
   "duration": 242,
   "youtubeId": "V743bU9QQyU",
-  "lastFetched": "2025-11-19T03:10:44.421Z",
+  "lastFetched": "2025-11-23T15:40:10.540Z",
   "releaseCount": 1,
-  "artistTags": [
-    "to clean up"
-  ],
   "odesli": {
     "amazonMusic": "B0DY9G31W4",
     "amazonStore": "B0DY9G31W4",
@@ -27,5 +23,11 @@
   },
   "lastfmId": "Kara-Lis+Coverdale/_/Flickers+in+the+Air+of+Night",
   "listeners": 6052,
-  "playcount": 13858
+  "playcount": 13858,
+  "artistMbid": "aabe385c-379a-467f-9a6d-2560ffa0b730",
+  "musicbrainz": {
+    "artistTags": [
+      "to clean up"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "e2FI1qTLjNk",
   "title": "Pillow Talk",
   "artist": "Lustt",
-  "lastFetched": "2025-11-20T09:05:23.710Z",
+  "lastFetched": "2025-11-23T14:56:00.428Z",
   "odesli": {
     "amazonMusic": "B003U9XEV0",
     "amazonStore": "B003U9XEV0",
@@ -19,5 +19,14 @@
     "yandex": "6838174",
     "youtube": "e2FI1qTLjNk",
     "youtubeMusic": "e2FI1qTLjNk"
+  },
+  "lastfmId": "Lustt/_/Pillow+Talk",
+  "listeners": 24151,
+  "playcount": 157337,
+  "lastfm": {
+    "title": "Pillow Talk",
+    "artist": "Lustt",
+    "mbid": "d1bfa6fc-5391-4b53-b5c5-31f5917f1f5c",
+    "artistMbid": "3485ddd2-ec82-4bed-96c9-657d7ef7cc3a"
   }
 }

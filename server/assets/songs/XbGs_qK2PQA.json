@@ -23,12 +23,14 @@
   "listeners": 869774,
   "playcount": 7017465,
   "artistMbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
-  "lastfmTags": [
-    "rap",
-    "Hip-Hop",
-    "hip hop",
-    "fast rap",
-    "Eminem"
-  ],
-  "lastfmSummary": "\"Rap God\" is a song by American rapper Eminem. The song premiered via YouTube on October 14, 2013, and was released in the United States on October 15, 2013, as the third single from Eminem's eighth studio album, The Marshall Mathers LP 2 (2013). It contains references to previous conflicts in Eminem's career, as well as to other rappers' conduct. The song received very positive reviews, with critics praising Eminem's lyrical ability and rapping speed, amid some accusations of homophobic lyrics. <a href=\"http://www.last.fm/music/Eminem/_/Rap+God\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Rap God\" is a song by American rapper Eminem. The song premiered via YouTube on October 14, 2013, and was released in the United States on October 15, 2013, as the third single from Eminem's eighth studio album, The Marshall Mathers LP 2 (2013). It contains references to previous conflicts in Eminem's career, as well as to other rappers' conduct. The song received very positive reviews, with critics praising Eminem's lyrical ability and rapping speed, amid some accusations of homophobic lyrics. <a href=\"http://www.last.fm/music/Eminem/_/Rap+God\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "rap",
+      "Hip-Hop",
+      "hip hop",
+      "fast rap",
+      "Eminem"
+    ]
+  }
 }

@@ -20,11 +20,13 @@
   "listeners": 897469,
   "playcount": 5847437,
   "artistMbid": "7c7f9c94-dee8-4903-892b-6cf44652e2de",
-  "lastfmTags": [
-    "80s",
-    "new wave",
-    "pop",
-    "synth pop",
-    "alternative"
-  ]
+  "musicbrainz": {
+    "tags": [
+      "80s",
+      "new wave",
+      "pop",
+      "synth pop",
+      "alternative"
+    ]
+  }
 }

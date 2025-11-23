@@ -4,16 +4,9 @@
   "artist": "Ukandanz",
   "artistMbid": "97eaa6ea-de07-474f-b395-a4bb108e25b8",
   "releaseCount": 1,
-  "tags": [],
   "duration": 429,
   "youtubeId": "8kVYdLjoyPE",
   "lastFetched": "2025-11-19T04:43:20.862Z",
-  "artistTags": [
-    "ethio-jazz",
-    "jazz fusion",
-    "jazz rock",
-    "math rock"
-  ],
   "odesli": {
     "amazonMusic": "B0F1H7QX73",
     "amazonStore": "B0F1H7QX73",
@@ -31,5 +24,13 @@
   },
   "lastfmId": "Ukandanz/_/War+Pigs",
   "listeners": 1472,
-  "playcount": 3563
+  "playcount": 3563,
+  "musicbrainz": {
+    "artistTags": [
+      "ethio-jazz",
+      "jazz fusion",
+      "jazz rock",
+      "math rock"
+    ]
+  }
 }

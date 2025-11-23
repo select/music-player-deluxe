@@ -2,21 +2,11 @@
   "mbid": "fabfd12b-c160-4f4e-b537-4356be993722",
   "title": "Funkorama",
   "artist": "Redman",
-  "tags": [],
   "duration": 188,
   "youtubeId": "0T-owlnvWBg",
   "lastFetched": "2025-11-19T03:34:39.777Z",
   "releaseCount": 1,
   "artistMbid": "1f1f6737-b930-46fc-8d25-110bb99f7490",
-  "artistTags": [
-    "boom bap",
-    "east coast hip hop",
-    "hardcore hip hop",
-    "hip hop",
-    "new jersey rap",
-    "psychedelic rap",
-    "wu fam"
-  ],
   "odesli": {
     "amazonMusic": "B073NK8F1T",
     "amazonStore": "B073NK8F1T",
@@ -26,5 +16,16 @@
   },
   "lastfmId": "Redman/_/Funkorama",
   "listeners": 3002,
-  "playcount": 16785
+  "playcount": 16785,
+  "musicbrainz": {
+    "artistTags": [
+      "boom bap",
+      "east coast hip hop",
+      "hardcore hip hop",
+      "hip hop",
+      "new jersey rap",
+      "psychedelic rap",
+      "wu fam"
+    ]
+  }
 }

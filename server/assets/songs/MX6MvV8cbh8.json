@@ -4,19 +4,9 @@
   "artist": "The Police",
   "artistMbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
   "releaseCount": 1,
-  "tags": [],
   "duration": 404,
   "youtubeId": "MX6MvV8cbh8",
   "lastFetched": "2025-11-19T04:49:56.582Z",
-  "artistTags": [
-    "indie rock",
-    "new wave",
-    "pop rock",
-    "post-punk",
-    "punk",
-    "reggae rock",
-    "rock"
-  ],
   "odesli": {
     "amazonMusic": "B000WTYV40",
     "amazonStore": "B000WTYV40",
@@ -33,5 +23,16 @@
   "lastfmId": "The+Police/_/So+Lonely",
   "listeners": 553287,
   "playcount": 2859721,
-  "lastfmSummary": "“So Lonely” was The Police’s first fusing of punk and reggae that would become not only a pioneering new sound in rock, but also their signature sound. It was the band’s third single, the last from their debut album, peaking at #6 in the UK and #7 in Ireland.\n\nIts lyrics were taken from “Fool In Love”, a song from Sting’s previous band Last Exit. Its chorus, Sting has admitted, is a sped-up reinterpretation of Bob Marley’s “No Woman No Cry”. <a href=\"http://www.last.fm/music/The+Police/_/So+Lonely\">Read more on Last.fm</a>."
+  "lastfmSummary": "“So Lonely” was The Police’s first fusing of punk and reggae that would become not only a pioneering new sound in rock, but also their signature sound. It was the band’s third single, the last from their debut album, peaking at #6 in the UK and #7 in Ireland.\n\nIts lyrics were taken from “Fool In Love”, a song from Sting’s previous band Last Exit. Its chorus, Sting has admitted, is a sped-up reinterpretation of Bob Marley’s “No Woman No Cry”. <a href=\"http://www.last.fm/music/The+Police/_/So+Lonely\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "indie rock",
+      "new wave",
+      "pop rock",
+      "post-punk",
+      "punk",
+      "reggae rock",
+      "rock"
+    ]
+  }
 }

@@ -4,15 +4,6 @@
   "artist": "Christine Perfect",
   "artistMbid": "21551f7d-93f2-4cb7-ba71-7f260058e923",
   "releaseCount": 12,
-  "tags": [
-    "blues",
-    "chicago blues",
-    "classic rock",
-    "piano blues",
-    "pop",
-    "rock",
-    "singer-songwriter"
-  ],
   "duration": 181,
   "youtubeId": "gPDkcHo8rIU",
   "lastFetched": "2025-11-16T19:15:06.774Z",
@@ -30,5 +21,16 @@
     "yandex": "718211",
     "youtube": "gPDkcHo8rIU",
     "youtubeMusic": "gPDkcHo8rIU"
+  },
+  "musicbrainz": {
+    "tags": [
+      "blues",
+      "chicago blues",
+      "classic rock",
+      "piano blues",
+      "pop",
+      "rock",
+      "singer-songwriter"
+    ]
   }
 }

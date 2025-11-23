@@ -3,10 +3,6 @@
   "title": "In Space",
   "artist": "Röyksopp",
   "album": "Melody A.M.",
-  "tags": [
-    "downtempo",
-    "electronic"
-  ],
   "duration": 211,
   "youtubeId": "QOrTtbrHXG4",
   "lastFetched": "2025-11-19T04:32:38.440Z",
@@ -29,5 +25,11 @@
   "lastfmId": "R%C3%B6yksopp/_/In+Space",
   "listeners": 398816,
   "playcount": 2083543,
-  "artistMbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884"
+  "artistMbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+  "musicbrainz": {
+    "tags": [
+      "downtempo",
+      "electronic"
+    ]
+  }
 }

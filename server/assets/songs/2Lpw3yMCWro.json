@@ -25,12 +25,14 @@
   "listeners": 1178058,
   "playcount": 10039275,
   "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-  "lastfmTags": [
-    "alternative",
-    "alternative rock",
-    "rock",
-    "radiohead",
-    "indie"
-  ],
-  "lastfmSummary": "\"Knives Out\" is a song by English alternative rock band Radiohead. The composition features electric and acoustic guitars, complemented by singer Thom Yorke's vocals. It appears on Radiohead's 2001 album Amnesiac, recorded during the same sessions as the previous album Kid A. It was also released as the second Amnesiac single, receiving more radio airplay than the band's other songs of the period. The song reached #13 on the UK singles chart.\n\nYorke has usually described the song as being about \"cannibalism\". <a href=\"http://www.last.fm/music/Radiohead/_/Knives+Out\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Knives Out\" is a song by English alternative rock band Radiohead. The composition features electric and acoustic guitars, complemented by singer Thom Yorke's vocals. It appears on Radiohead's 2001 album Amnesiac, recorded during the same sessions as the previous album Kid A. It was also released as the second Amnesiac single, receiving more radio airplay than the band's other songs of the period. The song reached #13 on the UK singles chart.\n\nYorke has usually described the song as being about \"cannibalism\". <a href=\"http://www.last.fm/music/Radiohead/_/Knives+Out\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "alternative",
+      "alternative rock",
+      "rock",
+      "radiohead",
+      "indie"
+    ]
+  }
 }

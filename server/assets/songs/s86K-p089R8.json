@@ -21,12 +21,14 @@
   "listeners": 627213,
   "playcount": 4000831,
   "artistMbid": "5dcdb5eb-cb72-4e6e-9e63-b7bace604965",
-  "lastfmTags": [
-    "rock",
-    "hard rock",
-    "80s",
-    "classic rock",
-    "bon jovi"
-  ],
-  "lastfmSummary": "\"Runaway\" is a Bon Jovi song, written in 1980 and originally recorded in 1981 for the so called \"Power Station Demos\". The recordings were primarily done by an ensemble simply known as Jon Bongiovi & The Rest. Lead guitar on the original 1980's track was Bon Jovi's neighbour, Dave Sabo (a.k.a. The Snake), who would later form the group Skid Row. One night after a show, Richie Sambora found Bon Jovi backstage and told him that he should be the guitarist. <a href=\"http://www.last.fm/music/Bon+Jovi/_/Runaway\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Runaway\" is a Bon Jovi song, written in 1980 and originally recorded in 1981 for the so called \"Power Station Demos\". The recordings were primarily done by an ensemble simply known as Jon Bongiovi & The Rest. Lead guitar on the original 1980's track was Bon Jovi's neighbour, Dave Sabo (a.k.a. The Snake), who would later form the group Skid Row. One night after a show, Richie Sambora found Bon Jovi backstage and told him that he should be the guitarist. <a href=\"http://www.last.fm/music/Bon+Jovi/_/Runaway\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "rock",
+      "hard rock",
+      "80s",
+      "classic rock",
+      "bon jovi"
+    ]
+  }
 }

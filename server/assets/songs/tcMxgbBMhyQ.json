@@ -2,15 +2,11 @@
   "mbid": "b876737b-f3ec-4f51-b2c0-5947f9a65f7c",
   "title": "Cruisin'",
   "artist": "Tingvall Trio",
-  "tags": [],
   "duration": 281,
   "youtubeId": "tcMxgbBMhyQ",
   "lastFetched": "2025-11-19T03:40:15.755Z",
   "releaseCount": 1,
   "artistMbid": "51b553fa-1604-4110-ba48-f54e38f50678",
-  "artistTags": [
-    "jazz"
-  ],
   "odesli": {
     "amazonMusic": "B0FD3QNMNR",
     "amazonStore": "B0FD3QNMNR",
@@ -27,5 +23,10 @@
   },
   "lastfmId": "Tingvall+Trio/_/Cruisin%27",
   "listeners": 1040,
-  "playcount": 2154
+  "playcount": 2154,
+  "musicbrainz": {
+    "artistTags": [
+      "jazz"
+    ]
+  }
 }

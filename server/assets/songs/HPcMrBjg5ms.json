@@ -2,7 +2,7 @@
   "youtubeId": "HPcMrBjg5ms",
   "title": "My Love Is",
   "artist": "Little Willie John",
-  "lastFetched": "2025-11-20T09:28:52.646Z",
+  "lastFetched": "2025-11-23T15:45:58.405Z",
   "odesli": {
     "amazonMusic": "B005JLSB3I",
     "amazonStore": "B005JLSB3I",
@@ -18,5 +18,13 @@
     "yandex": "42304648",
     "youtube": "HPcMrBjg5ms",
     "youtubeMusic": "HPcMrBjg5ms"
+  },
+  "lastfmId": "Little+Willie+John/_/My+Love+Is",
+  "listeners": 8581,
+  "playcount": 19501,
+  "lastfm": {
+    "title": "My Love Is",
+    "artist": "Little Willie John",
+    "artistMbid": "d59ce86d-2cc3-49be-be12-3eb4dde6e1ed"
   }
 }

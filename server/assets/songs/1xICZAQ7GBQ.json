@@ -3,15 +3,6 @@
   "title": "Broken Wings",
   "artist": "Alter Bridge",
   "album": "One Day Remains",
-  "tags": [
-    "alt-rock",
-    "alternative",
-    "alternative rock",
-    "hard rock",
-    "pop",
-    "post-grunge alternative rock",
-    "rock"
-  ],
   "duration": 307,
   "youtubeId": "1xICZAQ7GBQ",
   "lastFetched": "2025-11-19T05:12:20.493Z",
@@ -32,5 +23,16 @@
   "listeners": 184552,
   "playcount": 1450318,
   "artistMbid": "60a23fda-a440-4ab9-a344-7dfdd2ed341a",
-  "lastfmSummary": "\"Broken Wings\" is a song recorded and performed by the band Alter Bridge. The song was the third and last single released off of the band's debut studio album, One Day Remains. It was not as successful as the previous two singles (\"Open Your Eyes\" and \"Find the Real\") were. Actor Paul Guilfoyle, known for his role in the hit show CSI: Crime Scene Investigation, appears in the song's music video. <a href=\"http://www.last.fm/music/Alter+Bridge/_/Broken+Wings\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Broken Wings\" is a song recorded and performed by the band Alter Bridge. The song was the third and last single released off of the band's debut studio album, One Day Remains. It was not as successful as the previous two singles (\"Open Your Eyes\" and \"Find the Real\") were. Actor Paul Guilfoyle, known for his role in the hit show CSI: Crime Scene Investigation, appears in the song's music video. <a href=\"http://www.last.fm/music/Alter+Bridge/_/Broken+Wings\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "alt-rock",
+      "alternative",
+      "alternative rock",
+      "hard rock",
+      "pop",
+      "post-grunge alternative rock",
+      "rock"
+    ]
+  }
 }

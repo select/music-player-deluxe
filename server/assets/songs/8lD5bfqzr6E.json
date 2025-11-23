@@ -2,19 +2,6 @@
   "mbid": "fc2d9e14-c592-46c5-bc3f-89c827ab9318",
   "title": "Crazy Train (Live)",
   "artist": "Ozzy Osbourne",
-  "tags": [
-    "album rock",
-    "british metal",
-    "classic metal",
-    "classic rock",
-    "hard rock",
-    "heavy metal",
-    "metal",
-    "neo-classical metal",
-    "pop-metal",
-    "pop/rock",
-    "rock"
-  ],
   "duration": 361,
   "youtubeId": "8lD5bfqzr6E",
   "lastFetched": "2025-11-19T03:17:19.690Z",
@@ -34,5 +21,20 @@
   "lastfmId": "Ozzy+Osbourne/_/Crazy+Train+(Live)",
   "listeners": 6527,
   "playcount": 23655,
-  "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934"
+  "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+  "musicbrainz": {
+    "tags": [
+      "album rock",
+      "british metal",
+      "classic metal",
+      "classic rock",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "neo-classical metal",
+      "pop-metal",
+      "pop/rock",
+      "rock"
+    ]
+  }
 }

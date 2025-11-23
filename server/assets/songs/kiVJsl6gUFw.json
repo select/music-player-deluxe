@@ -4,21 +4,6 @@
   "artist": "Tori Amos",
   "artistMbid": "c0b2500e-0cef-4130-869d-732b23ed9df5",
   "releaseCount": 25,
-  "tags": [
-    "adult alternative pop/rock",
-    "alternative",
-    "alternative pop",
-    "alternative pop/rock",
-    "alternative rock",
-    "alternative/indie rock",
-    "pop",
-    "pop rock",
-    "pop/rock",
-    "punk",
-    "rock",
-    "singer-songwriter",
-    "soft rock"
-  ],
   "duration": 67,
   "youtubeId": "kiVJsl6gUFw",
   "lastFetched": "2025-11-19T01:39:36.515Z",
@@ -33,5 +18,22 @@
   "name": "Mr. Zebra",
   "lastfmId": "Tori+Amos/_/Mr.+Zebra",
   "listeners": 96738,
-  "playcount": 537189
+  "playcount": 537189,
+  "musicbrainz": {
+    "tags": [
+      "adult alternative pop/rock",
+      "alternative",
+      "alternative pop",
+      "alternative pop/rock",
+      "alternative rock",
+      "alternative/indie rock",
+      "pop",
+      "pop rock",
+      "pop/rock",
+      "punk",
+      "rock",
+      "singer-songwriter",
+      "soft rock"
+    ]
+  }
 }

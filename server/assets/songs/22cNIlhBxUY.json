@@ -4,11 +4,6 @@
   "artist": "Britney Spears",
   "artistMbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
   "releaseCount": 11,
-  "tags": [
-    "dance-pop",
-    "electronic",
-    "pop"
-  ],
   "duration": 230,
   "youtubeId": "22cNIlhBxUY",
   "lastFetched": "2025-11-19T03:56:02.182Z",
@@ -24,5 +19,12 @@
   "lastfmId": "Britney+Spears/_/Mood+Ring+(By+Demand)",
   "listeners": 51442,
   "playcount": 662667,
-  "lastfmSummary": "\"Mood Ring\" (also known as \"Mood Ring (By Demand)\" upon its 2020 international release) is a song recorded by American singer Britney Spears for her ninth studio album, Glory (2016). It was written by Dijon McFarlane, Nicholas Audino, Te Whiti Warbrick, Lewis Hughes, Jon Asher, and Melanie Fontana. The \"electro-tinged\" R&B song was produced by DJ Mustard and co-produced by Twice as Nice, with vocal production provided by Asher.\n\nOriginally appearing as a bonus track for the Japanese edition upon its parental album release on September 14 <a href=\"http://www.last.fm/music/Britney+Spears/_/Mood+Ring+(By+Demand)\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Mood Ring\" (also known as \"Mood Ring (By Demand)\" upon its 2020 international release) is a song recorded by American singer Britney Spears for her ninth studio album, Glory (2016). It was written by Dijon McFarlane, Nicholas Audino, Te Whiti Warbrick, Lewis Hughes, Jon Asher, and Melanie Fontana. The \"electro-tinged\" R&B song was produced by DJ Mustard and co-produced by Twice as Nice, with vocal production provided by Asher.\n\nOriginally appearing as a bonus track for the Japanese edition upon its parental album release on September 14 <a href=\"http://www.last.fm/music/Britney+Spears/_/Mood+Ring+(By+Demand)\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "dance-pop",
+      "electronic",
+      "pop"
+    ]
+  }
 }

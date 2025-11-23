@@ -20,12 +20,14 @@
   "listeners": 513382,
   "playcount": 2536409,
   "artistMbid": "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
-  "lastfmTags": [
-    "7soul",
-    "soul",
-    "funk",
-    "70s",
-    "rhythm and blues"
-  ],
-  "lastfmSummary": "\"Use Me\" is a funk/soul song by Bill Withers, included on his 1972 album Still Bill. \nIt is his second biggest hit in the U.S., reaching #2 on the Billboard Hot 100. <a href=\"http://www.last.fm/music/Bill+Withers/_/Use+Me\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Use Me\" is a funk/soul song by Bill Withers, included on his 1972 album Still Bill. \nIt is his second biggest hit in the U.S., reaching #2 on the Billboard Hot 100. <a href=\"http://www.last.fm/music/Bill+Withers/_/Use+Me\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "7soul",
+      "soul",
+      "funk",
+      "70s",
+      "rhythm and blues"
+    ]
+  }
 }

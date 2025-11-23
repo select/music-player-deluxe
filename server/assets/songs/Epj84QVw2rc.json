@@ -22,12 +22,14 @@
   "listeners": 569934,
   "playcount": 4247013,
   "artistMbid": "1a1cd7f3-e5df-4eca-bae2-2757c9e656b5",
-  "lastfmTags": [
-    "new wave",
-    "80s",
-    "pop",
-    "90s",
-    "rock"
-  ],
-  "lastfmSummary": "\"Come Undone\" is a song by British band Duran Duran. It was released in March 1993 as the second single from the album Duran Duran (The Wedding Album). It is their 24th single overall.\n\nAfter making a surprise comeback with the stately ballad \"Ordinary World,\" Duran Duran proved that that hit wasn't a fluke by consolidating their success with \"Come Undone.\" Like \"Ordinary World,\" \"Come Undone\" was a ballad but it utilized a more experimental style than its predecessor. <a href=\"http://www.last.fm/music/Duran+Duran/_/Come+Undone\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Come Undone\" is a song by British band Duran Duran. It was released in March 1993 as the second single from the album Duran Duran (The Wedding Album). It is their 24th single overall.\n\nAfter making a surprise comeback with the stately ballad \"Ordinary World,\" Duran Duran proved that that hit wasn't a fluke by consolidating their success with \"Come Undone.\" Like \"Ordinary World,\" \"Come Undone\" was a ballad but it utilized a more experimental style than its predecessor. <a href=\"http://www.last.fm/music/Duran+Duran/_/Come+Undone\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "new wave",
+      "80s",
+      "pop",
+      "90s",
+      "rock"
+    ]
+  }
 }

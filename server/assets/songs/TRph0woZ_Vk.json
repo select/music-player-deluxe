@@ -4,24 +4,9 @@
   "artist": "Soulwax",
   "artistMbid": "68ec1b08-3c2e-40b3-b0af-8f323743fdff",
   "releaseCount": 6,
-  "tags": [],
   "duration": 246,
   "youtubeId": "TRph0woZ_Vk",
   "lastFetched": "2025-11-19T04:02:09.664Z",
-  "artistTags": [
-    "alternative",
-    "alternative rock",
-    "belgian",
-    "dance and electronica",
-    "dance-punk",
-    "electro house",
-    "electroclash",
-    "electronic",
-    "european",
-    "indie rock",
-    "new rave",
-    "rock"
-  ],
   "odesli": {
     "amazonMusic": "B0FD3YV5MS",
     "amazonStore": "B0FD3YV5MS",
@@ -34,5 +19,21 @@
   },
   "lastfmId": "Soulwax/_/New+Earth+Time",
   "listeners": 8181,
-  "playcount": 20706
+  "playcount": 20706,
+  "musicbrainz": {
+    "artistTags": [
+      "alternative",
+      "alternative rock",
+      "belgian",
+      "dance and electronica",
+      "dance-punk",
+      "electro house",
+      "electroclash",
+      "electronic",
+      "european",
+      "indie rock",
+      "new rave",
+      "rock"
+    ]
+  }
 }

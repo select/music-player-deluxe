@@ -2,13 +2,6 @@
   "mbid": "93b13f1a-b541-4b18-aa61-1cb717a0ed07",
   "title": "36Grad",
   "artist": "2raumwohnung",
-  "tags": [
-    "electro",
-    "electronic",
-    "general mainstream rock",
-    "melodic house & techno",
-    "pop"
-  ],
   "duration": 230,
   "youtubeId": "OVMbcAXhruY",
   "lastFetched": "2025-11-19T01:37:55.753Z",
@@ -17,5 +10,14 @@
   "lastfmId": "2raumwohnung/_/36grad",
   "listeners": 45055,
   "playcount": 241286,
-  "artistMbid": "5579a23d-c411-4930-987d-ff89d77c1c12"
+  "artistMbid": "5579a23d-c411-4930-987d-ff89d77c1c12",
+  "musicbrainz": {
+    "tags": [
+      "electro",
+      "electronic",
+      "general mainstream rock",
+      "melodic house & techno",
+      "pop"
+    ]
+  }
 }

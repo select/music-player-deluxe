@@ -21,12 +21,14 @@
   "listeners": 560551,
   "playcount": 3232000,
   "artistMbid": "6e650a01-6489-4dc8-85e1-8ec809dd72a2",
-  "lastfmTags": [
-    "hard rock",
-    "rock",
-    "Nu Metal",
-    "Saliva",
-    "metal"
-  ],
-  "lastfmSummary": "\"Click Click Boom\" is a song by American rock band Saliva. It was released in 2001 on their second album Every Six Seconds as the lead single. The song was later re-recorded, entitled \"Click Click Pull\", in response to the September 11, 2001 attacks.\n\n    * Official theme song for WWF No Mercy 2001.\n    * Used in the films; The Fast and the Furious (although it was not on the main OST, however the song's music video can be found on the Special Edition DVD release) <a href=\"http://www.last.fm/music/Saliva/_/Click+Click+Boom\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Click Click Boom\" is a song by American rock band Saliva. It was released in 2001 on their second album Every Six Seconds as the lead single. The song was later re-recorded, entitled \"Click Click Pull\", in response to the September 11, 2001 attacks.\n\n    * Official theme song for WWF No Mercy 2001.\n    * Used in the films; The Fast and the Furious (although it was not on the main OST, however the song's music video can be found on the Special Edition DVD release) <a href=\"http://www.last.fm/music/Saliva/_/Click+Click+Boom\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "hard rock",
+      "rock",
+      "Nu Metal",
+      "Saliva",
+      "metal"
+    ]
+  }
 }

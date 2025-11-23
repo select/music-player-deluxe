@@ -25,12 +25,14 @@
   "listeners": 734884,
   "playcount": 7330177,
   "artistMbid": "ef58d4c9-0d40-42ba-bfab-9186c1483edd",
-  "lastfmTags": [
-    "Power metal",
-    "speed metal",
-    "metal",
-    "Extreme Power Metal",
-    "DragonForce"
-  ],
-  "lastfmSummary": "Considered DragonForce's most famous song, this is the opening track from their third album Inhuman Rampage, as well as their first single from the album. The main reason for its popularity is its inclusion in the video game Guitar Hero III: Legends of Rock. Immediately after it was included in the game, DragonForce's record sales shot up by 126% in the following week. <a href=\"http://www.last.fm/music/DragonForce/_/Through+the+Fire+and+Flames\">Read more on Last.fm</a>."
+  "lastfmSummary": "Considered DragonForce's most famous song, this is the opening track from their third album Inhuman Rampage, as well as their first single from the album. The main reason for its popularity is its inclusion in the video game Guitar Hero III: Legends of Rock. Immediately after it was included in the game, DragonForce's record sales shot up by 126% in the following week. <a href=\"http://www.last.fm/music/DragonForce/_/Through+the+Fire+and+Flames\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "Power metal",
+      "speed metal",
+      "metal",
+      "Extreme Power Metal",
+      "DragonForce"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ZZ3oeboZ7ts",
   "title": "The Photo Song",
   "artist": "Holger Czukay",
-  "lastFetched": "2025-11-20T09:19:44.659Z",
+  "lastFetched": "2025-11-23T15:27:05.462Z",
   "odesli": {
     "amazonMusic": "B07G9PYC6J",
     "amazonStore": "B07G9PYC6J",
@@ -12,5 +12,14 @@
     "tidal": "111460770",
     "youtube": "ZZ3oeboZ7ts",
     "youtubeMusic": "ZZ3oeboZ7ts"
+  },
+  "lastfmId": "Holger+Czukay/_/The+Photo+Song",
+  "listeners": 5340,
+  "playcount": 15128,
+  "lastfm": {
+    "title": "The Photo Song",
+    "artist": "Holger Czukay",
+    "mbid": "23da6a2b-630d-3e54-8ad8-f57c129ba929",
+    "artistMbid": "a48cce8c-8632-4e6f-b46f-40139be33ba0"
   }
 }

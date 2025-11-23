@@ -4,9 +4,6 @@
   "artist": "Pink Floyd",
   "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
   "releaseCount": 3,
-  "tags": [
-    "progressive rock"
-  ],
   "duration": 287,
   "youtubeId": "G0wOOlwXLgA",
   "lastFetched": "2025-11-19T05:05:12.048Z",
@@ -29,12 +26,15 @@
   "lastfmId": "Pink+Floyd/_/On+the+Run",
   "listeners": 1158146,
   "playcount": 7726270,
-  "lastfmTags": [
-    "Progressive rock",
-    "classic rock",
-    "Psychedelic Rock",
-    "rock",
-    "psychedelic"
-  ],
-  "lastfmSummary": "\"On the Run\" is the second (or third, if you count speak to me/breathe as 2 tracks) track from British progressive rock band Pink Floyd's 1973 album, The Dark Side of the Moon. It is an instrumental that deals with the pressures of travel (which Rick Wright said would often bring fear of death), and is a VCS3 synthesizer-led piece. When the band performed this song in concert, at the end of it, a model aeroplane would fly from one end of the arena to the other, appearing to crash in a brilliant explosion. <a href=\"http://www.last.fm/music/Pink+Floyd/_/On+the+Run\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"On the Run\" is the second (or third, if you count speak to me/breathe as 2 tracks) track from British progressive rock band Pink Floyd's 1973 album, The Dark Side of the Moon. It is an instrumental that deals with the pressures of travel (which Rick Wright said would often bring fear of death), and is a VCS3 synthesizer-led piece. When the band performed this song in concert, at the end of it, a model aeroplane would fly from one end of the arena to the other, appearing to crash in a brilliant explosion. <a href=\"http://www.last.fm/music/Pink+Floyd/_/On+the+Run\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "progressive rock",
+      "Progressive rock",
+      "classic rock",
+      "Psychedelic Rock",
+      "rock",
+      "psychedelic"
+    ]
+  }
 }

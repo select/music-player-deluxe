@@ -4,10 +4,6 @@
   "artist": "Guem",
   "artistMbid": "e4f43165-7f2b-46a9-9fdd-ae8a74dc1eb2",
   "releaseCount": 23,
-  "tags": [
-    "african-percussion",
-    "afrobeat"
-  ],
   "duration": 316,
   "youtubeId": "DHO7lOi8u28",
   "lastFetched": "2025-11-19T05:31:07.313Z",
@@ -29,5 +25,11 @@
   },
   "lastfmId": "Guem/_/Le+Serpent",
   "listeners": 5276,
-  "playcount": 14054
+  "playcount": 14054,
+  "musicbrainz": {
+    "tags": [
+      "african-percussion",
+      "afrobeat"
+    ]
+  }
 }

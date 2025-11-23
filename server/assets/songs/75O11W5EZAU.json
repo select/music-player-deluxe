@@ -2,30 +2,10 @@
   "mbid": "9ea7fe2f-b9f2-4ac5-ad6a-d96dcf7921e3",
   "title": "#3",
   "artist": "Aphex Twin",
-  "tags": [],
   "duration": 330,
   "youtubeId": "75O11W5EZAU",
   "lastFetched": "2025-11-19T03:11:14.732Z",
   "releaseCount": 1,
-  "artistTags": [
-    "acid breaks",
-    "acid techno",
-    "ambient",
-    "ambient techno",
-    "bleep techno",
-    "breakbeat",
-    "breakcore",
-    "british",
-    "drill and bass",
-    "electroacoustic",
-    "electronic",
-    "electronica",
-    "experimental",
-    "idm",
-    "instrumental",
-    "progressive techno",
-    "techno"
-  ],
   "odesli": {
     "amazonMusic": "B0D5NBVC15",
     "amazonStore": "B0D5NBVC15",
@@ -47,12 +27,33 @@
   "listeners": 528374,
   "playcount": 6563396,
   "artistMbid": "f22942a1-6f70-4f48-866e-238cb2308fbd",
-  "lastfmTags": [
-    "ambient",
-    "electronic",
-    "beautiful",
-    "Rhubarb",
-    "how Olivia makes me feel"
-  ],
-  "lastfmSummary": "This tune, like most other tunes from Selected Ambient Works Volume II, has a fan name by Greg Eden based on pictures on the album's artwork. This one is called \"Rhubarb\". <a href=\"http://www.last.fm/music/Aphex+Twin/_/%233\">Read more on Last.fm</a>."
+  "lastfmSummary": "This tune, like most other tunes from Selected Ambient Works Volume II, has a fan name by Greg Eden based on pictures on the album's artwork. This one is called \"Rhubarb\". <a href=\"http://www.last.fm/music/Aphex+Twin/_/%233\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "ambient",
+      "electronic",
+      "beautiful",
+      "Rhubarb",
+      "how Olivia makes me feel"
+    ],
+    "artistTags": [
+      "acid breaks",
+      "acid techno",
+      "ambient",
+      "ambient techno",
+      "bleep techno",
+      "breakbeat",
+      "breakcore",
+      "british",
+      "drill and bass",
+      "electroacoustic",
+      "electronic",
+      "electronica",
+      "experimental",
+      "idm",
+      "instrumental",
+      "progressive techno",
+      "techno"
+    ]
+  }
 }

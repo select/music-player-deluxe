@@ -2,7 +2,7 @@
   "youtubeId": "sqwfDNzTYks",
   "title": "Sammy Davis Jr.",
   "artist": "Movits!",
-  "lastFetched": "2025-11-20T09:03:40.080Z",
+  "lastFetched": "2025-11-23T14:51:53.745Z",
   "odesli": {
     "amazonMusic": "B0D1QXBMPV",
     "amazonStore": "B0D1QXBMPV",
@@ -11,5 +11,14 @@
     "soundcloud": "movits-official/sammy-davis-jr",
     "youtube": "sqwfDNzTYks",
     "youtubeMusic": "sqwfDNzTYks"
+  },
+  "lastfmId": "Movits%21/_/Sammy+Davis+Jr.",
+  "listeners": 20470,
+  "playcount": 152153,
+  "lastfm": {
+    "title": "Sammy Davis Jr.",
+    "artist": "Movits!",
+    "mbid": "a505bad3-3d7b-49ce-a79d-d34fe2981ec6",
+    "artistMbid": "d74c95e2-f779-43e4-9e1d-6fbaaf0c6bae"
   }
 }

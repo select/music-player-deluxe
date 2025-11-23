@@ -1,9 +1,4 @@
-import {
-	getTrackInfo,
-	transformLastfmData,
-	searchTrack,
-	getBestTrackMatch,
-} from "../../utils/lastfm";
+import { getTrackInfo, transformLastfmData } from "../../utils/lastfm";
 import { getSongData, updateSongData } from "../../utils/songData";
 
 export default defineEventHandler(async (event) => {
@@ -66,9 +61,6 @@ export default defineEventHandler(async (event) => {
 				await updateSongData({
 					...songData,
 					...lastfmData,
-					// Preserve existing mbid if it exists
-					mbid: songData.mbid || lastfmData.mbid,
-					artistMbid: songData.artistMbid || lastfmData.artistMbid,
 				});
 			} catch {
 				throw createError({
@@ -87,9 +79,6 @@ export default defineEventHandler(async (event) => {
 		return {
 			...songData,
 			...lastfmData,
-			// Preserve existing mbid if it exists
-			mbid: songData.mbid || lastfmData.mbid,
-			artistMbid: songData.artistMbid || lastfmData.artistMbid,
 		};
 	} catch (error: any) {
 		console.error("Error augmenting song data with Last.fm:", error);

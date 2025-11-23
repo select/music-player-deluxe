@@ -2,23 +2,6 @@
   "mbid": "0387dc34-6a1d-401e-818e-639ebdb12eed",
   "title": "Riders on the Storm (Fredwreck Remix)",
   "artist": "Snoop Dogg",
-  "tags": [
-    "chill",
-    "confident",
-    "eclectic",
-    "electronic",
-    "funky",
-    "groovy",
-    "hip hop",
-    "mellow",
-    "psychedelic rock",
-    "psytrance",
-    "rap",
-    "relaxed",
-    "rock",
-    "swagger",
-    "trip hop"
-  ],
   "duration": 375,
   "youtubeId": "u7KncmJj82s",
   "lastFetched": "2025-11-19T04:16:52.357Z",
@@ -26,5 +9,24 @@
   "lastfmId": "Snoop+Dogg/_/Riders+on+the+Storm+(Fredwreck+Remix)",
   "listeners": 22134,
   "playcount": 108651,
-  "artistMbid": "f90e8b26-9e52-4669-a5c9-e28529c47894"
+  "artistMbid": "f90e8b26-9e52-4669-a5c9-e28529c47894",
+  "musicbrainz": {
+    "tags": [
+      "chill",
+      "confident",
+      "eclectic",
+      "electronic",
+      "funky",
+      "groovy",
+      "hip hop",
+      "mellow",
+      "psychedelic rock",
+      "psytrance",
+      "rap",
+      "relaxed",
+      "rock",
+      "swagger",
+      "trip hop"
+    ]
+  }
 }

@@ -4,14 +4,16 @@
   "artist": "Y.A.S.",
   "artistMbid": "2a3b75ac-4472-464c-88cd-52a4ca659b41",
   "releaseCount": 1,
-  "tags": [
-    "indie",
-    "pop"
-  ],
   "duration": 224,
   "youtubeId": "hPQH3O-Xx5U",
   "lastFetched": "2025-11-19T04:26:02.250Z",
   "lastfmId": "Y.A.S./_/Ma+Rida",
   "listeners": 1181,
-  "playcount": 7108
+  "playcount": 7108,
+  "musicbrainz": {
+    "tags": [
+      "indie",
+      "pop"
+    ]
+  }
 }

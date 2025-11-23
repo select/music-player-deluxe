@@ -21,12 +21,14 @@
   "listeners": 1127545,
   "playcount": 14986949,
   "artistMbid": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
-  "lastfmTags": [
-    "pop",
-    "2023",
-    "Disco",
-    "soft rock",
-    "2020s"
-  ],
-  "lastfmSummary": "“Flowers” is the two-time, Grammy-winning lead single from Miley Cyrus' eighth studio album Endless Summer Vacation. The song is about her past relationship with ex-husband Liam Hemsworth, releasing the track on his birthday, with lyrics implying she doesn’t need him to fulfill her happiness.\n\nCyrus first teased the new era with cryptic posters around the world that featured lyrics and a release date. Fans were skeptical about it, until she later dropped the first teaser on New Year’s Eve <a href=\"http://www.last.fm/music/Miley+Cyrus/_/Flowers\">Read more on Last.fm</a>."
+  "lastfmSummary": "“Flowers” is the two-time, Grammy-winning lead single from Miley Cyrus' eighth studio album Endless Summer Vacation. The song is about her past relationship with ex-husband Liam Hemsworth, releasing the track on his birthday, with lyrics implying she doesn’t need him to fulfill her happiness.\n\nCyrus first teased the new era with cryptic posters around the world that featured lyrics and a release date. Fans were skeptical about it, until she later dropped the first teaser on New Year’s Eve <a href=\"http://www.last.fm/music/Miley+Cyrus/_/Flowers\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "pop",
+      "2023",
+      "Disco",
+      "soft rock",
+      "2020s"
+    ]
+  }
 }

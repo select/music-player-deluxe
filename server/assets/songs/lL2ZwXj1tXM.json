@@ -24,12 +24,14 @@
   "listeners": 922431,
   "playcount": 9170416,
   "artistMbid": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d",
-  "lastfmTags": [
-    "alternative rock",
-    "rock",
-    "three days grace",
-    "hard rock",
-    "alternative"
-  ],
-  "lastfmSummary": "wikipedia excerpt\n\n\"The video begins with a little girl getting out of bed and dancing in a circle with her parents. Suddenly, the scene cuts to a woman struggling with nurses in a psychiatric hospital, then going back into a room with the little girl and her parents dancing.\n\nThe scene cuts back to the little girl; her parents let go of her hands and leave, and a man in a sweater approaches her and smiles, then touches her shoulder. The video then <a href=\"http://www.last.fm/music/Three+Days+Grace/_/Never+Too+Late\">Read more on Last.fm</a>."
+  "lastfmSummary": "wikipedia excerpt\n\n\"The video begins with a little girl getting out of bed and dancing in a circle with her parents. Suddenly, the scene cuts to a woman struggling with nurses in a psychiatric hospital, then going back into a room with the little girl and her parents dancing.\n\nThe scene cuts back to the little girl; her parents let go of her hands and leave, and a man in a sweater approaches her and smiles, then touches her shoulder. The video then <a href=\"http://www.last.fm/music/Three+Days+Grace/_/Never+Too+Late\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "alternative rock",
+      "rock",
+      "three days grace",
+      "hard rock",
+      "alternative"
+    ]
+  }
 }

@@ -24,12 +24,14 @@
   "listeners": 1036397,
   "playcount": 9732108,
   "artistMbid": "3862342a-43c4-4cdb-8250-bfdbfb5e1419",
-  "lastfmTags": [
-    "rock",
-    "pop",
-    "cover",
-    "alternative",
-    "funky"
-  ],
-  "lastfmSummary": "\" Beggin' \" is a song composed by Bob Gaudio and Peggy Farina and first popularized by American band the Four Seasons in 1967. The song was popular on the Northern soul scene in the United Kingdom in the 1970s, and it has been covered multiple times, with a remix by French DJ Pilooski and covers by Norwegian hip-hop duo Madcon and Italian rock band Måneskin topping the music charts in Europe and beyond. <a href=\"http://www.last.fm/music/M%C3%A5neskin/_/Beggin%27\">Read more on Last.fm</a>."
+  "lastfmSummary": "\" Beggin' \" is a song composed by Bob Gaudio and Peggy Farina and first popularized by American band the Four Seasons in 1967. The song was popular on the Northern soul scene in the United Kingdom in the 1970s, and it has been covered multiple times, with a remix by French DJ Pilooski and covers by Norwegian hip-hop duo Madcon and Italian rock band Måneskin topping the music charts in Europe and beyond. <a href=\"http://www.last.fm/music/M%C3%A5neskin/_/Beggin%27\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "rock",
+      "pop",
+      "cover",
+      "alternative",
+      "funky"
+    ]
+  }
 }

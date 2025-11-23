@@ -20,11 +20,13 @@
   "listeners": 300183,
   "playcount": 3419316,
   "artistMbid": "3862342a-43c4-4cdb-8250-bfdbfb5e1419",
-  "lastfmTags": [
-    "rock",
-    "alt rock",
-    "alternative",
-    "alternative rock",
-    "italian"
-  ]
+  "musicbrainz": {
+    "tags": [
+      "rock",
+      "alt rock",
+      "alternative",
+      "alternative rock",
+      "italian"
+    ]
+  }
 }

@@ -4,15 +4,17 @@
   "artist": "Los Cuates de Sinaloa",
   "artistMbid": "4371c010-c59c-4332-940a-56a904c7aec9",
   "releaseCount": 4,
-  "tags": [
-    "soundtrack",
-    "soundtracks",
-    "stage & screen"
-  ],
   "duration": 237,
   "youtubeId": "HHF0xlf-bjY",
   "lastFetched": "2025-11-19T05:19:58.123Z",
   "lastfmId": "Los+Cuates+de+Sinaloa/_/Negro+Y+Azul:+The+Ballad+of+Heisenberg",
   "listeners": 1378,
-  "playcount": 6680
+  "playcount": 6680,
+  "musicbrainz": {
+    "tags": [
+      "soundtrack",
+      "soundtracks",
+      "stage & screen"
+    ]
+  }
 }

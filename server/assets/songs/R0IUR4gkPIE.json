@@ -3,17 +3,9 @@
   "title": "Protect Ya Neck",
   "artist": "Wu-Tang Clan",
   "releaseCount": 2,
-  "tags": [],
   "duration": 272,
   "youtubeId": "R0IUR4gkPIE",
   "lastFetched": "2025-11-19T01:39:55.153Z",
-  "artistTags": [
-    "boom bap",
-    "east coast hip hop",
-    "hardcore hip hop",
-    "hip hop",
-    "hip-hop"
-  ],
   "odesli": {
     "amazonMusic": "B001BHWIRY",
     "amazonStore": "B001BHWIRY",
@@ -33,12 +25,21 @@
   "lastfmId": "Wu-Tang+Clan/_/Protect+Ya+Neck",
   "listeners": 628021,
   "playcount": 3065476,
-  "lastfmTags": [
-    "Hip-Hop",
-    "rap",
-    "hip hop",
-    "wu-tang",
-    "90s"
-  ],
-  "lastfmSummary": "\"Protect Ya Neck\" is the debut single by hip hop group Wu-Tang Clan. The song is from the group's critically acclaimed first album Enter the Wu-Tang (36 Chambers) and is one of the group's most popular singles. It is produced by RZA and features eight of the original 9 Wu-Tang members. <a href=\"http://www.last.fm/music/Wu-Tang+Clan/_/Protect+Ya+Neck\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Protect Ya Neck\" is the debut single by hip hop group Wu-Tang Clan. The song is from the group's critically acclaimed first album Enter the Wu-Tang (36 Chambers) and is one of the group's most popular singles. It is produced by RZA and features eight of the original 9 Wu-Tang members. <a href=\"http://www.last.fm/music/Wu-Tang+Clan/_/Protect+Ya+Neck\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "hip hop",
+      "wu-tang",
+      "90s"
+    ],
+    "artistTags": [
+      "boom bap",
+      "east coast hip hop",
+      "hardcore hip hop",
+      "hip hop",
+      "hip-hop"
+    ]
+  }
 }

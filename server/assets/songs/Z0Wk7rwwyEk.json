@@ -4,17 +4,9 @@
   "artist": "Sumac Dub",
   "artistMbid": "a668b547-1369-4c74-ab64-c901bab6b746",
   "releaseCount": 2,
-  "tags": [],
   "duration": 246,
   "youtubeId": "Z0Wk7rwwyEk",
   "lastFetched": "2025-11-19T05:27:34.728Z",
-  "artistTags": [
-    "dub",
-    "electro",
-    "electronic",
-    "reggae",
-    "trip hop"
-  ],
   "odesli": {
     "amazonMusic": "B0DPGKXYKJ",
     "amazonStore": "B0DPGKXYKJ",
@@ -30,5 +22,14 @@
   },
   "lastfmId": "Sumac+Dub/_/Pers%C3%A9ides",
   "listeners": 172,
-  "playcount": 336
+  "playcount": 336,
+  "musicbrainz": {
+    "artistTags": [
+      "dub",
+      "electro",
+      "electronic",
+      "reggae",
+      "trip hop"
+    ]
+  }
 }

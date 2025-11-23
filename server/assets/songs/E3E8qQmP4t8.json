@@ -4,14 +4,9 @@
   "artist": "Omah Lay",
   "artistMbid": "b63bd4fd-2050-4c92-a237-576f6f6c97cb",
   "releaseCount": 2,
-  "tags": [],
   "duration": 186,
   "youtubeId": "E3E8qQmP4t8",
   "lastFetched": "2025-11-19T03:50:57.708Z",
-  "artistTags": [
-    "afro-fusion",
-    "afrobeats"
-  ],
   "odesli": {
     "amazonMusic": "B0CLZ1TT2K",
     "amazonStore": "B0CLZ1TT2K",
@@ -31,5 +26,11 @@
   },
   "lastfmId": "Omah+Lay/_/Holy+Ghost",
   "listeners": 81767,
-  "playcount": 563826
+  "playcount": 563826,
+  "musicbrainz": {
+    "artistTags": [
+      "afro-fusion",
+      "afrobeats"
+    ]
+  }
 }

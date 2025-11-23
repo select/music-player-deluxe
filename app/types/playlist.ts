@@ -61,14 +61,12 @@ export interface MusicBrainzSearchResult {
 
 export interface SongMetaData {
 	mbid?: string;
+	trackMbid?: string;
 	title: string;
 	artist?: string;
 	artistMbid?: string;
 	album?: string;
 	releaseCount?: number;
-	tags?: string[];
-	genres?: string[];
-	artistTags?: string[];
 	duration?: number;
 	youtubeId: string;
 	lastFetched: string;
@@ -80,6 +78,15 @@ export interface SongMetaData {
 	playcount?: number;
 	lastfmTags?: string[];
 	lastfmSummary?: string;
+	musicbrainz?: {
+		tags?: string[];
+		genres?: string[];
+		artistTags?: string[];
+	};
+	lastfm?: {
+		mbid?: string;
+		artistMbid?: string;
+	};
 }
 
 export interface SearchRequest {

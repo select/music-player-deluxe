@@ -2,21 +2,11 @@
   "mbid": "f58d5092-7057-4426-a8d5-499d9b56f9f3",
   "title": "Deep Concentration",
   "artist": "Skream",
-  "tags": [],
   "duration": 231,
   "youtubeId": "zRSqT-Ahk14",
   "lastFetched": "2025-11-19T03:34:09.327Z",
   "releaseCount": 1,
   "artistMbid": "fb5ee67e-e31a-40cf-8b06-5f1a0f53529a",
-  "artistTags": [
-    "2-step",
-    "drum and bass",
-    "dubstep",
-    "electronic",
-    "electronica",
-    "grime",
-    "uk garage"
-  ],
   "odesli": {
     "amazonMusic": "B0DT5PT96Y",
     "amazonStore": "B0DT5PT96Y",
@@ -31,5 +21,16 @@
   },
   "lastfmId": "Skream/_/Deep+Concentration",
   "listeners": 10632,
-  "playcount": 33159
+  "playcount": 33159,
+  "musicbrainz": {
+    "artistTags": [
+      "2-step",
+      "drum and bass",
+      "dubstep",
+      "electronic",
+      "electronica",
+      "grime",
+      "uk garage"
+    ]
+  }
 }

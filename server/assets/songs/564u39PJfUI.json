@@ -7,12 +7,14 @@
   "listeners": 1602571,
   "playcount": 12779077,
   "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
-  "lastfmTags": [
-    "hard rock",
-    "rock",
-    "classic rock",
-    "heavy metal",
-    "ACDC"
-  ],
-  "lastfmSummary": "\"Thunderstruck\" is the first song on the 1990 AC/DC album The Razors Edge.\n\nThe song peaked at number #5 on Billboard's Mainstream Rock Tracks. It was released as a single in Germany, Australia and Japan. Shown is the cover of the German release of the \"Thunderstruck\" single. The song is said to be inspired by lead guitarist Angus Young's hair-raising experience when a plane he was on was struck by lightning. However, Angus Young was later to say that it \"started off from a little trick I had on guitar. <a href=\"http://www.last.fm/music/AC%2FDC/_/Thunderstruck\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Thunderstruck\" is the first song on the 1990 AC/DC album The Razors Edge.\n\nThe song peaked at number #5 on Billboard's Mainstream Rock Tracks. It was released as a single in Germany, Australia and Japan. Shown is the cover of the German release of the \"Thunderstruck\" single. The song is said to be inspired by lead guitarist Angus Young's hair-raising experience when a plane he was on was struck by lightning. However, Angus Young was later to say that it \"started off from a little trick I had on guitar. <a href=\"http://www.last.fm/music/AC%2FDC/_/Thunderstruck\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "hard rock",
+      "rock",
+      "classic rock",
+      "heavy metal",
+      "ACDC"
+    ]
+  }
 }

@@ -2,9 +2,8 @@
   "mbid": "76d82d0f-78ab-42c6-96d2-bbd39b5bca07",
   "title": "Yogtze",
   "artist": "FEATER",
-  "tags": [],
   "youtubeId": "mA8NPhT8Qxo",
-  "lastFetched": "2025-11-19T05:13:51.834Z",
+  "lastFetched": "2025-11-23T15:40:40.495Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B07T7GDCBF",
@@ -15,5 +14,6 @@
   },
   "lastfmId": "FEATER/_/Yogtze",
   "listeners": 586,
-  "playcount": 1098
+  "playcount": 1098,
+  "artistMbid": "e030ae23-82f4-495f-bd9c-d9bb4d5280f8"
 }

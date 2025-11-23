@@ -4,12 +4,6 @@
   "artist": "Art Pepper",
   "artistMbid": "266b9126-4a40-4b9b-b21e-422d72e64254",
   "releaseCount": 17,
-  "tags": [
-    "bebop",
-    "big band",
-    "cool jazz",
-    "jazz"
-  ],
   "duration": 181,
   "youtubeId": "-RiPdpeii7E",
   "lastFetched": "2025-11-19T05:09:47.812Z",
@@ -24,5 +18,13 @@
   },
   "lastfmId": "Art+Pepper/_/Four+Brothers",
   "listeners": 38370,
-  "playcount": 96276
+  "playcount": 96276,
+  "musicbrainz": {
+    "tags": [
+      "bebop",
+      "big band",
+      "cool jazz",
+      "jazz"
+    ]
+  }
 }

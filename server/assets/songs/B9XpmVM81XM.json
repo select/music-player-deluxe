@@ -4,9 +4,6 @@
   "artist": "I Am Legion",
   "artistMbid": "d88c7701-dea3-4436-acd1-2ce2ac0e0869",
   "releaseCount": 10,
-  "tags": [
-    "grime"
-  ],
   "duration": 190,
   "youtubeId": "B9XpmVM81XM",
   "lastFetched": "2025-11-19T04:28:04.518Z",
@@ -23,5 +20,10 @@
   },
   "lastfmId": "I+Am+Legion/_/Make+Those+Move",
   "listeners": 21621,
-  "playcount": 138263
+  "playcount": 138263,
+  "musicbrainz": {
+    "tags": [
+      "grime"
+    ]
+  }
 }

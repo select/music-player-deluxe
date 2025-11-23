@@ -18,12 +18,14 @@
   "listeners": 332582,
   "playcount": 1655450,
   "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
-  "lastfmTags": [
-    "House",
-    "acid house",
-    "deep house",
-    "Progressive House",
-    "tech house"
-  ],
-  "lastfmSummary": "End of Summer is a single by Australian music project Tame Impala, released on July 25, 2025, marking Kevin Parker’s return after a five-year hiatus from solo releases. Following a series of high-profile collaborations with artists such as Thundercat and Justice, “End of Summer” arrives as a potential lead single for Tame Impala’s highly anticipated fifth studio album.\n\nClocking in at just over seven minutes, the track sees Parker diving into new sonic territory <a href=\"http://www.last.fm/music/Tame+Impala/_/End+of+Summer\">Read more on Last.fm</a>."
+  "lastfmSummary": "End of Summer is a single by Australian music project Tame Impala, released on July 25, 2025, marking Kevin Parker’s return after a five-year hiatus from solo releases. Following a series of high-profile collaborations with artists such as Thundercat and Justice, “End of Summer” arrives as a potential lead single for Tame Impala’s highly anticipated fifth studio album.\n\nClocking in at just over seven minutes, the track sees Parker diving into new sonic territory <a href=\"http://www.last.fm/music/Tame+Impala/_/End+of+Summer\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "House",
+      "acid house",
+      "deep house",
+      "Progressive House",
+      "tech house"
+    ]
+  }
 }

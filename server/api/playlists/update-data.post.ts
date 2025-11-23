@@ -58,7 +58,7 @@ export default defineEventHandler(async (event) => {
 		try {
 			const playlistContent = await fs.readFile(playlistFilePath, "utf-8");
 			playlistData = JSON.parse(playlistContent);
-		} catch (error) {
+		} catch () {
 			throw createError({
 				statusCode: 404,
 				statusMessage: `Playlist ${playlistId} not found`,
@@ -142,18 +142,18 @@ export default defineEventHandler(async (event) => {
 				}
 
 				// Add genres
-				if (songData.genres && songData.genres.length > 0) {
-					fusedTags.push(...songData.genres);
+				if (songData.musicbrainz?.genres && songData.musicbrainz?.genres.length > 0) {
+					fusedTags.push(...songData.musicbrainz.genres);
 				}
 
 				// Add recording tags
-				if (songData.tags && songData.tags.length > 0) {
-					fusedTags.push(...songData.tags);
+				if (songData.musicbrainz?.tags && songData.musicbrainz.tags.length > 0) {
+					fusedTags.push(...songData.musicbrainz.tags);
 				}
 
 				// Add artist tags
-				if (songData.artistTags && songData.artistTags.length > 0) {
-					fusedTags.push(...songData.artistTags);
+				if (songData.musicbrainz?.artistTags && songData.musicbrainz.artistTags.length > 0) {
+					fusedTags.push(...songData.musicbrainz.artistTags);
 				}
 
 				// Remove duplicates while preserving order
@@ -189,6 +189,25 @@ export default defineEventHandler(async (event) => {
 						updatedVideo.externalIds = {};
 					}
 					updatedVideo.externalIds["musicbrainz"] = songData.mbid;
+				}
+				if (songData.lastfm?.mbid) {
+					if (!updatedVideo.externalIds) {
+						updatedVideo.externalIds = {};
+					}
+					updatedVideo.externalIds["musicbrainz-track"] = songData.lastfm.mbid;
+				}
+				if (songData.lastfm?.artistMbid) {
+					if (!updatedVideo.externalIds) {
+						updatedVideo.externalIds = {};
+					}
+					updatedVideo.externalIds["musicbrainz-artist"] =
+						songData.lastfm.artistMbid;
+				}
+				if (songData.artistMbid) {
+					if (!updatedVideo.externalIds) {
+						updatedVideo.externalIds = {};
+					}
+					updatedVideo.externalIds["musicbrainz-artist"] = songData.artistMbid;
 				}
 				if (songData.lastfmId) {
 					if (!updatedVideo.externalIds) {

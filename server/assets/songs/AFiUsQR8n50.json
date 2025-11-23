@@ -2,12 +2,10 @@
   "mbid": "2401f15c-d1d2-4dc0-b9aa-f04ce0bba2db",
   "title": "Cold Catch",
   "artist": "The Lewis Express",
-  "tags": [],
   "duration": 346,
   "youtubeId": "AFiUsQR8n50",
-  "lastFetched": "2025-11-19T03:07:41.841Z",
+  "lastFetched": "2025-11-23T15:39:42.369Z",
   "releaseCount": 1,
-  "artistTags": [],
   "odesli": {
     "amazonMusic": "B0DV9R92HD",
     "amazonStore": "B0DV9R92HD",
@@ -22,5 +20,6 @@
   },
   "lastfmId": "The+Lewis+Express/_/Cold+Catch",
   "listeners": 1607,
-  "playcount": 2904
+  "playcount": 2904,
+  "artistMbid": "9766c2bb-3dde-44fb-ab25-f5b63a13c3fb"
 }

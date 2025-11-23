@@ -20,12 +20,14 @@
   "listeners": 1247638,
   "playcount": 11617780,
   "artistMbid": "0039c7ae-e1a7-4a7d-9b49-0cbc716821a6",
-  "lastfmTags": [
-    "indie",
-    "indie rock",
-    "alternative",
-    "rock",
-    "death cab for cutie"
-  ],
-  "lastfmSummary": "\"Soul Meets Body\" is a song recorded by the American rock band Death Cab for Cutie for their fifth studio album, Plans. It was released as the lead single from Plans on July 16, 2005, through Atlantic Records. Death Cab for Cutie emerged from the Pacific Northwest in the early aughts and built a following with its confessional lyricism and straightforward indie rock sound. \"Soul Meets Body\" was their first single for Atlantic, the major label with which they signed in 2004. <a href=\"http://www.last.fm/music/Death+Cab+for+Cutie/_/Soul+Meets+Body\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Soul Meets Body\" is a song recorded by the American rock band Death Cab for Cutie for their fifth studio album, Plans. It was released as the lead single from Plans on July 16, 2005, through Atlantic Records. Death Cab for Cutie emerged from the Pacific Northwest in the early aughts and built a following with its confessional lyricism and straightforward indie rock sound. \"Soul Meets Body\" was their first single for Atlantic, the major label with which they signed in 2004. <a href=\"http://www.last.fm/music/Death+Cab+for+Cutie/_/Soul+Meets+Body\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "indie",
+      "indie rock",
+      "alternative",
+      "rock",
+      "death cab for cutie"
+    ]
+  }
 }

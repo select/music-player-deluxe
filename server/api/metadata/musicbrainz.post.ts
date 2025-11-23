@@ -66,8 +66,10 @@ export default defineEventHandler(async (event) => {
 				"Unknown Artist",
 			artistMbid: artistMbid,
 			releaseCount: releaseCount,
-			tags: tags.length > 0 ? tags : existingSongData.tags,
-			genres: genres.length > 0 ? genres : existingSongData.genres,
+			musicbrainz: {
+				tags: tags || undefined,
+				genres: genres || undefined,
+			},
 			duration: recordingData.length
 				? Math.round(recordingData.length / 1000)
 				: existingSongData.duration,

@@ -2,20 +2,6 @@
   "mbid": "1a31a7fd-e98e-4193-a11d-a3dbae1afcbc",
   "title": "Chameleon",
   "artist": "Trentemøller",
-  "tags": [
-    "abstract electronic",
-    "ambient",
-    "ambient techno",
-    "downtempo",
-    "dub",
-    "electronic",
-    "elektro",
-    "experimental",
-    "minimal",
-    "minimal techno",
-    "tech house",
-    "techno"
-  ],
   "duration": 417,
   "youtubeId": "_r8b9fq-EKA",
   "lastFetched": "2025-11-19T03:31:06.783Z",
@@ -23,5 +9,21 @@
   "lastfmId": "Trentem%C3%B8ller/_/Chameleon",
   "listeners": 62079,
   "playcount": 349686,
-  "artistMbid": "95e9aba6-f85c-48a0-9ec9-395d4f0e3875"
+  "artistMbid": "95e9aba6-f85c-48a0-9ec9-395d4f0e3875",
+  "musicbrainz": {
+    "tags": [
+      "abstract electronic",
+      "ambient",
+      "ambient techno",
+      "downtempo",
+      "dub",
+      "electronic",
+      "elektro",
+      "experimental",
+      "minimal",
+      "minimal techno",
+      "tech house",
+      "techno"
+    ]
+  }
 }

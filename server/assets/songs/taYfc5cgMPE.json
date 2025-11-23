@@ -2,7 +2,7 @@
   "youtubeId": "taYfc5cgMPE",
   "title": "Shake It",
   "artist": "Mc Shy D",
-  "lastFetched": "2025-11-20T09:24:01.621Z",
+  "lastFetched": "2025-11-23T15:36:46.250Z",
   "odesli": {
     "amazonMusic": "B07WNXDHMV",
     "amazonStore": "B07WNXDHMV",
@@ -18,5 +18,14 @@
     "yandex": "62785200",
     "youtube": "taYfc5cgMPE",
     "youtubeMusic": "taYfc5cgMPE"
+  },
+  "lastfmId": "MC+Shy+D/_/Shake+It",
+  "listeners": 3230,
+  "playcount": 8186,
+  "lastfm": {
+    "title": "Shake It",
+    "artist": "MC Shy D",
+    "mbid": "ffdf0b49-3a00-3788-a268-7408b21fdc22",
+    "artistMbid": "2b5127c0-7ee0-4221-8654-70d8dbf27c1e"
   }
 }

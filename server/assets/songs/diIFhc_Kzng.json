@@ -23,12 +23,14 @@
   "listeners": 1126508,
   "playcount": 20204981,
   "artistMbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
-  "lastfmTags": [
-    "rnb",
-    "ambient pop",
-    "alternative rnb",
-    "<3",
-    "Frank Ocean"
-  ],
-  "lastfmSummary": "\"Nikes\" is a critique of the trappings of materialistic hedonism, with frequent reference to Nike shoes, shiny gold/glitter, and fantasies of pleasure. The track features two competing voices, adding a sense of tension and conflict to the otherwise dreamy music. The lyrics include cultural references to the late A$AP Yams (who is featured in the video along with A$AP Rocky), Pimp C, and Trayvon Martin. \n\nThe song is the lead single from Frank Ocean’s third album \"Blonde\", originally titled \"Boys Don’t Cry\". <a href=\"http://www.last.fm/music/Frank+Ocean/_/Nikes\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Nikes\" is a critique of the trappings of materialistic hedonism, with frequent reference to Nike shoes, shiny gold/glitter, and fantasies of pleasure. The track features two competing voices, adding a sense of tension and conflict to the otherwise dreamy music. The lyrics include cultural references to the late A$AP Yams (who is featured in the video along with A$AP Rocky), Pimp C, and Trayvon Martin. \n\nThe song is the lead single from Frank Ocean’s third album \"Blonde\", originally titled \"Boys Don’t Cry\". <a href=\"http://www.last.fm/music/Frank+Ocean/_/Nikes\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "rnb",
+      "ambient pop",
+      "alternative rnb",
+      "<3",
+      "Frank Ocean"
+    ]
+  }
 }

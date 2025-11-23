@@ -4,14 +4,15 @@
   "artist": "Nicolas Cage",
   "artistMbid": "f6b92af8-75ab-4f42-83a0-6adf49b34b40",
   "releaseCount": 5,
-  "tags": [],
   "duration": 177,
   "youtubeId": "cKpcVGinVOk",
   "lastFetched": "2025-11-19T03:59:04.524Z",
-  "artistTags": [
-    "american"
-  ],
   "lastfmId": "Nicolas+Cage/_/Love+Me",
   "listeners": 4174,
-  "playcount": 17603
+  "playcount": 17603,
+  "musicbrainz": {
+    "artistTags": [
+      "american"
+    ]
+  }
 }

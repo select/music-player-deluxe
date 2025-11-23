@@ -21,9 +21,11 @@
   "listeners": 415758,
   "playcount": 5069879,
   "artistMbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
-  "lastfmTags": [
-    "takeoff",
-    "life changing"
-  ],
-  "lastfmSummary": "\"Hotel Lobby (Unc & Phew)\" is a song by American rappers Quavo and Takeoff of the hip hop group Migos. It was released on May 20, 2022 and is their first release as the duo Unc & Phew. The song was produced by Murda Beatz, Keanu Beats and Fabio Aguilar. It is released as the first single off their collaborative album Only Built for Infinity Links. <a href=\"http://www.last.fm/music/Quavo/_/HOTEL+LOBBY+(Unc+&+Phew)\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Hotel Lobby (Unc & Phew)\" is a song by American rappers Quavo and Takeoff of the hip hop group Migos. It was released on May 20, 2022 and is their first release as the duo Unc & Phew. The song was produced by Murda Beatz, Keanu Beats and Fabio Aguilar. It is released as the first single off their collaborative album Only Built for Infinity Links. <a href=\"http://www.last.fm/music/Quavo/_/HOTEL+LOBBY+(Unc+&+Phew)\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "takeoff",
+      "life changing"
+    ]
+  }
 }

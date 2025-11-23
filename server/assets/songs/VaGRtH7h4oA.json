@@ -2,18 +2,6 @@
   "mbid": "719aa04c-931f-4efe-b1f3-2779ab9a51ed",
   "title": "Terrapin",
   "artist": "Syd Barrett",
-  "tags": [
-    "acoustic",
-    "acoustic rock",
-    "british psychedelia",
-    "classic rock",
-    "folk rock",
-    "pop/rock",
-    "psychedelic pop",
-    "psychedelic rock",
-    "psychedelic/garage",
-    "rock"
-  ],
   "duration": 305,
   "youtubeId": "VaGRtH7h4oA",
   "lastFetched": "2025-11-19T03:30:06.060Z",
@@ -31,5 +19,19 @@
   "lastfmId": "Syd+Barrett/_/Terrapin",
   "listeners": 230961,
   "playcount": 951426,
-  "artistMbid": "12327d75-47d5-45d9-84c2-3760b9210c17"
+  "artistMbid": "12327d75-47d5-45d9-84c2-3760b9210c17",
+  "musicbrainz": {
+    "tags": [
+      "acoustic",
+      "acoustic rock",
+      "british psychedelia",
+      "classic rock",
+      "folk rock",
+      "pop/rock",
+      "psychedelic pop",
+      "psychedelic rock",
+      "psychedelic/garage",
+      "rock"
+    ]
+  }
 }

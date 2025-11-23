@@ -2,7 +2,7 @@
   "youtubeId": "2QcCFcaSXCs",
   "title": "Blind Man",
   "artist": "Nomine",
-  "lastFetched": "2025-11-20T10:56:58.381Z",
+  "lastFetched": "2025-11-23T14:45:46.638Z",
   "odesli": {
     "amazonMusic": "B0DT5M3HWB",
     "amazonStore": "B0DT5M3HWB",
@@ -11,5 +11,12 @@
     "tidal": "411921473",
     "youtube": "2QcCFcaSXCs",
     "youtubeMusic": "2QcCFcaSXCs"
+  },
+  "lastfmId": "Nomine/_/Blind+Man",
+  "listeners": 9807,
+  "playcount": 46338,
+  "lastfm": {
+    "title": "Blind Man",
+    "artist": "Nomine"
   }
 }

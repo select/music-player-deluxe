@@ -4,10 +4,6 @@
   "artist": "Igorrr",
   "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73",
   "releaseCount": 16,
-  "tags": [
-    "avant-garde",
-    "avant-garde metal"
-  ],
   "duration": 195,
   "youtubeId": "PYRdJo3cG2Q",
   "lastFetched": "2025-11-19T04:39:16.575Z",
@@ -27,5 +23,11 @@
   },
   "lastfmId": "Igorrr/_/Blastbeat+Falafel",
   "listeners": 21201,
-  "playcount": 86215
+  "playcount": 86215,
+  "musicbrainz": {
+    "tags": [
+      "avant-garde",
+      "avant-garde metal"
+    ]
+  }
 }

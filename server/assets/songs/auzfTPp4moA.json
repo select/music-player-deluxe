@@ -2,19 +2,6 @@
   "mbid": "5c70fbf0-42d4-4ba5-a732-a0b960225f82",
   "title": "Heads Will Roll",
   "artist": "Yeah Yeah Yeahs",
-  "tags": [
-    "alternative dance",
-    "alternative rock",
-    "dance",
-    "dance-punk",
-    "electronic",
-    "indie",
-    "indie pop",
-    "indie rock",
-    "pop",
-    "rock",
-    "synth-pop"
-  ],
   "duration": 221,
   "youtubeId": "auzfTPp4moA",
   "lastFetched": "2025-11-19T01:37:08.752Z",
@@ -39,12 +26,22 @@
   "listeners": 1407361,
   "playcount": 11739220,
   "artistMbid": "584c04d2-4acc-491b-8a0a-e63133f4bfc4",
-  "lastfmTags": [
-    "indie",
-    "electronic",
-    "poptron",
-    "dance",
-    "female vocalists"
-  ],
-  "lastfmSummary": "\"Heads Will Roll\" is the second single released by the Yeah Yeah Yeahs from their third album, It's Blitz!. The CD and 7\" commercial singles was released in the UK on June 29, 2009. \n\nBand member Nick Zinner co-wrote this song with Karen O, during the same session that produced the track \"Hysteric.\" He told Billboard magazine: \"That was actually one of the last songs we wrote for the record. I think we always wanted to have a guilty-pleasure dance song; that was it, really. <a href=\"http://www.last.fm/music/Yeah+Yeah+Yeahs/_/Heads+Will+Roll\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Heads Will Roll\" is the second single released by the Yeah Yeah Yeahs from their third album, It's Blitz!. The CD and 7\" commercial singles was released in the UK on June 29, 2009. \n\nBand member Nick Zinner co-wrote this song with Karen O, during the same session that produced the track \"Hysteric.\" He told Billboard magazine: \"That was actually one of the last songs we wrote for the record. I think we always wanted to have a guilty-pleasure dance song; that was it, really. <a href=\"http://www.last.fm/music/Yeah+Yeah+Yeahs/_/Heads+Will+Roll\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "alternative dance",
+      "alternative rock",
+      "dance",
+      "dance-punk",
+      "electronic",
+      "indie",
+      "indie pop",
+      "indie rock",
+      "pop",
+      "rock",
+      "synth-pop",
+      "poptron",
+      "female vocalists"
+    ]
+  }
 }

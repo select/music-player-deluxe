@@ -4,11 +4,6 @@
   "artist": "Everything Everything",
   "artistMbid": "251e10fb-4ed1-4a79-8655-7f22d461a689",
   "releaseCount": 12,
-  "tags": [
-    "art pop",
-    "indie rock",
-    "progressive pop"
-  ],
   "duration": 202,
   "youtubeId": "RDSEtWt9u-A",
   "lastFetched": "2025-11-19T05:03:40.807Z",
@@ -27,5 +22,12 @@
   },
   "lastfmId": "Everything+Everything/_/Regret",
   "listeners": 102326,
-  "playcount": 789266
+  "playcount": 789266,
+  "musicbrainz": {
+    "tags": [
+      "art pop",
+      "indie rock",
+      "progressive pop"
+    ]
+  }
 }

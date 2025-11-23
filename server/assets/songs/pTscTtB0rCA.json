@@ -2,9 +2,6 @@
   "mbid": "2cdf7fd4-5317-40ec-9aa2-265de0f06e5f",
   "title": "Back a Yard (Edit)",
   "artist": "The In Crowd",
-  "tags": [
-    "roots reggae"
-  ],
   "duration": 269,
   "youtubeId": "pTscTtB0rCA",
   "lastFetched": "2025-11-19T04:09:15.343Z",
@@ -20,5 +17,10 @@
   "lastfmId": "The+In+Crowd/_/Back+a+Yard+(Edit)",
   "listeners": 122,
   "playcount": 355,
-  "artistMbid": "e1461504-72d8-4051-953c-ed4cb144c9e1"
+  "artistMbid": "e1461504-72d8-4051-953c-ed4cb144c9e1",
+  "musicbrainz": {
+    "tags": [
+      "roots reggae"
+    ]
+  }
 }

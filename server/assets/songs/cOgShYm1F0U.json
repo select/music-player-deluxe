@@ -2,10 +2,6 @@
   "mbid": "b5208dbe-477d-4a8f-9dd2-849ff57724fa",
   "title": "Reality Crash",
   "artist": "Jah Wobble",
-  "tags": [
-    "ambient dub",
-    "downtempo"
-  ],
   "duration": 310,
   "youtubeId": "cOgShYm1F0U",
   "lastFetched": "2025-11-19T03:07:10.567Z",
@@ -22,5 +18,11 @@
   "lastfmId": "Jah+Wobble/_/Reality+Crash",
   "listeners": 2749,
   "playcount": 7450,
-  "artistMbid": "904cc1c8-021e-45ac-bbe9-95c01a1f8099"
+  "artistMbid": "904cc1c8-021e-45ac-bbe9-95c01a1f8099",
+  "musicbrainz": {
+    "tags": [
+      "ambient dub",
+      "downtempo"
+    ]
+  }
 }

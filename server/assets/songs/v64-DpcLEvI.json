@@ -23,11 +23,13 @@
   "listeners": 549720,
   "playcount": 6556513,
   "artistMbid": "91ae77d8-3bb5-4e59-98a7-532ac0f2825d",
-  "lastfmTags": [
-    "groovy",
-    "new wave",
-    "synthpop",
-    "indie pop",
-    "band"
-  ]
+  "musicbrainz": {
+    "tags": [
+      "groovy",
+      "new wave",
+      "synthpop",
+      "indie pop",
+      "band"
+    ]
+  }
 }

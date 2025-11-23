@@ -4,18 +4,9 @@
   "artist": "Foo Fighters",
   "album": "Today’s Song",
   "releaseCount": 1,
-  "tags": [],
   "duration": 195,
   "youtubeId": "3R-zrySoHNk",
   "lastFetched": "2025-11-19T01:37:48.593Z",
-  "artistTags": [
-    "alternative rock",
-    "american",
-    "grunge",
-    "hard rock",
-    "post-grunge",
-    "rock"
-  ],
   "odesli": {
     "amazonMusic": "B0FG4F15MN",
     "amazonStore": "B0FG4F15MN",
@@ -30,5 +21,15 @@
   "lastfmId": "Foo+Fighters/_/Today%27s+Song",
   "listeners": 41023,
   "playcount": 98941,
-  "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d"
+  "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "american",
+      "grunge",
+      "hard rock",
+      "post-grunge",
+      "rock"
+    ]
+  }
 }

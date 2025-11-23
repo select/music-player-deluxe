@@ -22,12 +22,14 @@
   "listeners": 1752894,
   "playcount": 33204023,
   "artistMbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
-  "lastfmTags": [
-    "art rock",
-    "indie pop",
-    "indie",
-    "rock",
-    "art pop"
-  ],
-  "lastfmSummary": "\"Washing Machine Heart\" is a metaphor for the way that love can often feel like an emotional roller coaster. Throughout the song, the protagonist expresses her vulnerability, longing to be accepted and loved by the person she loves. She acknowledges the person she loves is pretending she is someone else, but ultimately asks why they can't accept her for who she is. The washing machine heart is a symbol of the turbulence and fragility of her emotions. <a href=\"http://www.last.fm/music/Mitski/_/Washing+Machine+Heart\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Washing Machine Heart\" is a metaphor for the way that love can often feel like an emotional roller coaster. Throughout the song, the protagonist expresses her vulnerability, longing to be accepted and loved by the person she loves. She acknowledges the person she loves is pretending she is someone else, but ultimately asks why they can't accept her for who she is. The washing machine heart is a symbol of the turbulence and fragility of her emotions. <a href=\"http://www.last.fm/music/Mitski/_/Washing+Machine+Heart\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "art rock",
+      "indie pop",
+      "indie",
+      "rock",
+      "art pop"
+    ]
+  }
 }

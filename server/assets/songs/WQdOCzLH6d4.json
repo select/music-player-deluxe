@@ -2,7 +2,7 @@
   "youtubeId": "WQdOCzLH6d4",
   "title": "Cloud Catcher",
   "artist": "Mike Dawes",
-  "lastFetched": "2025-11-20T09:02:47.650Z",
+  "lastFetched": "2025-11-23T14:49:50.967Z",
   "odesli": {
     "amazonMusic": "B0DBWXLBLX",
     "amazonStore": "B0DBWXLBLX",
@@ -11,5 +11,14 @@
     "tidal": "378849830",
     "youtube": "WQdOCzLH6d4",
     "youtubeMusic": "WQdOCzLH6d4"
+  },
+  "lastfmId": "Mike+Dawes/_/Cloud+Catcher",
+  "listeners": 899,
+  "playcount": 3024,
+  "lastfm": {
+    "title": "Cloud Catcher",
+    "artist": "Mike Dawes",
+    "mbid": "458f09fa-6a3c-49f6-b0a9-fd72a5725402",
+    "artistMbid": "1bb37eed-80ab-4c04-b04e-1e1fb0fe0bb5"
   }
 }

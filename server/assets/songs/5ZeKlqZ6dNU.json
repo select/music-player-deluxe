@@ -2,7 +2,7 @@
   "youtubeId": "5ZeKlqZ6dNU",
   "title": "Purple Music",
   "artist": "Prince",
-  "lastFetched": "2025-11-20T09:28:02.264Z",
+  "lastFetched": "2025-11-23T15:43:55.749Z",
   "odesli": {
     "amazonMusic": "B08Q8QRVQY",
     "amazonStore": "B08Q8QRVQY",
@@ -18,5 +18,15 @@
     "yandex": "60254986",
     "youtube": "5ZeKlqZ6dNU",
     "youtubeMusic": "5ZeKlqZ6dNU"
+  },
+  "lastfmId": "Prince/_/Purple+Music",
+  "listeners": 10031,
+  "playcount": 37234,
+  "lastfmSummary": "Purple Music is a song, recorded on 22 May 1982 at Prince’s Kiowa Trail Home Studio, Chanhassen MN, USA. It is unknown but likely it was considered for inclusion on 1999.\nIt was released in 2019 as the third track on the Vault Tracks part 2 disc of a Super Deluxe Edition edition of the 1999 album.\n\nThe song is a somewhat monotonous uptempo track, sparsely instrumented by a bouncy drum machine beat provided by the Linn LM-1 and a synth bass line <a href=\"http://www.last.fm/music/Prince/_/Purple+Music\">Read more on Last.fm</a>.",
+  "lastfm": {
+    "title": "Purple Music",
+    "artist": "Prince",
+    "mbid": "32f7173c-2b76-472a-a98d-98e8c268b0c7",
+    "artistMbid": "070d193a-845c-479f-980e-bef15710653e"
   }
 }

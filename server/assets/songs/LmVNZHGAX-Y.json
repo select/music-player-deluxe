@@ -4,14 +4,9 @@
   "artist": "Hildegard Knef",
   "artistMbid": "fef1e787-e631-41a3-b8f2-a834291d8bd1",
   "releaseCount": 7,
-  "tags": [],
   "duration": 195,
   "youtubeId": "LmVNZHGAX-Y",
   "lastFetched": "2025-11-16T20:52:28.569Z",
-  "artistTags": [
-    "actress",
-    "german"
-  ],
   "odesli": {
     "amazonMusic": "B073HG5D44",
     "amazonStore": "B073HG5D44",
@@ -27,5 +22,11 @@
     "yandex": "385346",
     "youtube": "LmVNZHGAX-Y",
     "youtubeMusic": "LmVNZHGAX-Y"
+  },
+  "musicbrainz": {
+    "artistTags": [
+      "actress",
+      "german"
+    ]
   }
 }

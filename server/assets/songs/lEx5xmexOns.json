@@ -8,12 +8,14 @@
   "listeners": 2178625,
   "playcount": 15829549,
   "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
-  "lastfmTags": [
-    "classic rock",
-    "rock",
-    "Queen",
-    "70s",
-    "80s"
-  ],
-  "lastfmSummary": "\"Bohemian Rhapsody\" is a song written by Freddie Mercury and originally recorded by the band Queen for their 1975 album A Night at the Opera.\n\nThe song is in the style of a stream-of-consciousness nightmare, and has unusual musical structure for popular music (it has no chorus, instead consisting of seemingly disjointed sections including operatic segments, an a cappella and a hard rock part) which works beyond the range of this reviewer. Despite this, it was released as a single and became a huge commercial success.  <a href=\"http://www.last.fm/music/Queen/_/Bohemian+Rhapsody\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Bohemian Rhapsody\" is a song written by Freddie Mercury and originally recorded by the band Queen for their 1975 album A Night at the Opera.\n\nThe song is in the style of a stream-of-consciousness nightmare, and has unusual musical structure for popular music (it has no chorus, instead consisting of seemingly disjointed sections including operatic segments, an a cappella and a hard rock part) which works beyond the range of this reviewer. Despite this, it was released as a single and became a huge commercial success.  <a href=\"http://www.last.fm/music/Queen/_/Bohemian+Rhapsody\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "classic rock",
+      "rock",
+      "Queen",
+      "70s",
+      "80s"
+    ]
+  }
 }

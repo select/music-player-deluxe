@@ -2,16 +2,11 @@
   "mbid": "0245bd61-2523-4f7e-be99-197d1c734a8e",
   "title": "And We Go (Original Mix)",
   "artist": "Amoss",
-  "tags": [],
   "duration": 290,
   "youtubeId": "h9aFh2Z-5ec",
   "lastFetched": "2025-11-19T03:42:18.331Z",
   "releaseCount": 1,
   "artistMbid": "cfd91deb-a9bd-43b8-a9c5-783fb5ce5a91",
-  "artistTags": [
-    "drum and bass",
-    "neurofunk"
-  ],
   "odesli": {
     "amazonMusic": "B0D3KML7HH",
     "amazonStore": "B0D3KML7HH",
@@ -30,5 +25,11 @@
   },
   "lastfmId": "Amoss/_/And+We+Go+(Original+Mix)",
   "listeners": 13,
-  "playcount": 28
+  "playcount": 28,
+  "musicbrainz": {
+    "artistTags": [
+      "drum and bass",
+      "neurofunk"
+    ]
+  }
 }

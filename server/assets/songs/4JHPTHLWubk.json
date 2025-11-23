@@ -26,11 +26,13 @@
   "listeners": 311475,
   "playcount": 1338528,
   "artistMbid": "6c8fd0be-d961-454c-aee0-4366a6dbc993",
-  "lastfmTags": [
-    "soul",
-    "60s",
-    "oldies",
-    "romantic",
-    "rhythm and blues"
-  ]
+  "musicbrainz": {
+    "tags": [
+      "soul",
+      "60s",
+      "oldies",
+      "romantic",
+      "rhythm and blues"
+    ]
+  }
 }

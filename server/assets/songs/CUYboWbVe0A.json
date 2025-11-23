@@ -2,10 +2,6 @@
   "mbid": "59feedf2-8212-4352-80c9-820b00bd36ce",
   "title": "Two Thousand And Seventeen",
   "artist": "Four Tet",
-  "tags": [
-    "downtempo",
-    "folktronica"
-  ],
   "duration": 252,
   "youtubeId": "CUYboWbVe0A",
   "lastFetched": "2025-11-19T03:28:04.099Z",
@@ -28,5 +24,11 @@
   "lastfmId": "Four+Tet/_/Two+Thousand+And+Seventeen",
   "listeners": 243209,
   "playcount": 1651379,
-  "artistMbid": "3bcff06f-675a-451f-9075-99e8657047e8"
+  "artistMbid": "3bcff06f-675a-451f-9075-99e8657047e8",
+  "musicbrainz": {
+    "tags": [
+      "downtempo",
+      "folktronica"
+    ]
+  }
 }

@@ -156,14 +156,16 @@ export function transformLastfmData(trackInfo: LastFMTrackInfo) {
 	const tags = trackInfo.toptags?.tag?.map((tag) => tag.name) || [];
 
 	return {
-		title: trackInfo.name,
-		mbid: trackInfo.mbid,
 		lastfmId: lastfmId || undefined,
 		listeners: trackInfo.listeners ? parseInt(trackInfo.listeners) : undefined,
 		playcount: trackInfo.playcount ? parseInt(trackInfo.playcount) : undefined,
-		artist: trackInfo.artist?.name,
-		artistMbid: trackInfo.artist?.mbid,
 		lastfmTags: tags.length > 0 ? tags : undefined,
 		lastfmSummary: trackInfo.wiki?.summary,
+		lastfm: {
+			title: trackInfo.name,
+			artist: trackInfo.artist?.name,
+			mbid: trackInfo.mbid,
+			artistMbid: trackInfo.artist?.mbid,
+		},
 	};
 }

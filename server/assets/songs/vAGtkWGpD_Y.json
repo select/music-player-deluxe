@@ -18,12 +18,14 @@
   "listeners": 943897,
   "playcount": 8761290,
   "artistMbid": "4ca783b7-5bf7-4348-b494-46680660050f",
-  "lastfmTags": [
-    "rock",
-    "alternative rock",
-    "hard rock",
-    "Stone Sour",
-    "metal"
-  ],
-  "lastfmSummary": "One of Stone Sour's most famous songs, Through Glass is mainly saying how being famous isn't that great unless you have someone to share the fame with. <a href=\"http://www.last.fm/music/Stone+Sour/_/Through+Glass\">Read more on Last.fm</a>."
+  "lastfmSummary": "One of Stone Sour's most famous songs, Through Glass is mainly saying how being famous isn't that great unless you have someone to share the fame with. <a href=\"http://www.last.fm/music/Stone+Sour/_/Through+Glass\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "rock",
+      "alternative rock",
+      "hard rock",
+      "Stone Sour",
+      "metal"
+    ]
+  }
 }

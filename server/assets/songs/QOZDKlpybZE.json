@@ -21,12 +21,14 @@
   "listeners": 496824,
   "playcount": 4940265,
   "artistMbid": "4b585938-f271-45e2-b19a-91c634b5e396",
-  "lastfmTags": [
-    "female vocalists",
-    "80s",
-    "alternative",
-    "pop",
-    "Kate Bush"
-  ],
-  "lastfmSummary": "\"Army Dreamers\" is a 1980 song written by English artist Kate Bush. It was the third, and final, single to be released from her album Never for Ever. It was a UK top 20 hit in October 1980.\n\n\"Army Dreamers\" was one of 68 songs considered inappropriate for airplay by the BBC during the first Gulf War.\n\nThe song is about the effects of war and about a mother who grieves for her young adult son, who was killed on military manoeuvres. Saddened by his unnecessary death, she wrestles with her guilt over what she could have done to prevent it. <a href=\"http://www.last.fm/music/Kate+Bush/_/Army+Dreamers\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Army Dreamers\" is a 1980 song written by English artist Kate Bush. It was the third, and final, single to be released from her album Never for Ever. It was a UK top 20 hit in October 1980.\n\n\"Army Dreamers\" was one of 68 songs considered inappropriate for airplay by the BBC during the first Gulf War.\n\nThe song is about the effects of war and about a mother who grieves for her young adult son, who was killed on military manoeuvres. Saddened by his unnecessary death, she wrestles with her guilt over what she could have done to prevent it. <a href=\"http://www.last.fm/music/Kate+Bush/_/Army+Dreamers\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "female vocalists",
+      "80s",
+      "alternative",
+      "pop",
+      "Kate Bush"
+    ]
+  }
 }

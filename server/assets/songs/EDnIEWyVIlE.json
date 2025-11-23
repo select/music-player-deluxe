@@ -21,11 +21,13 @@
   "lastfmId": "BABYMETAL/_/RATATATA",
   "listeners": 206937,
   "playcount": 2794199,
-  "lastfmTags": [
-    "dance metal",
-    "Pokemon",
-    "trancecore",
-    "electronicore"
-  ],
-  "lastfmSummary": "\"RATATATA\" is a song by Japanese kawaii metal band Babymetal and German electronicore band Electric Callboy. It was released as a standalone single on May 23, 2024, and was later included on Babymetal's album Metal Forth, which was released on August 8, 2025.\n\nOn May 16, 2024, a teaser video announced the two bands had collaborated on a single called \"RATATATA\", to be released on May 23. They played the song live together for the first time during Babymetal's Fox Fest in Saitama on May 25. <a href=\"http://www.last.fm/music/BABYMETAL/_/RATATATA\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"RATATATA\" is a song by Japanese kawaii metal band Babymetal and German electronicore band Electric Callboy. It was released as a standalone single on May 23, 2024, and was later included on Babymetal's album Metal Forth, which was released on August 8, 2025.\n\nOn May 16, 2024, a teaser video announced the two bands had collaborated on a single called \"RATATATA\", to be released on May 23. They played the song live together for the first time during Babymetal's Fox Fest in Saitama on May 25. <a href=\"http://www.last.fm/music/BABYMETAL/_/RATATATA\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "dance metal",
+      "Pokemon",
+      "trancecore",
+      "electronicore"
+    ]
+  }
 }

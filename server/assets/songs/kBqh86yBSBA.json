@@ -3,10 +3,9 @@
   "title": "Running",
   "artist": "Snõõper",
   "album": "Super Snooper",
-  "tags": [],
   "duration": 322,
   "youtubeId": "kBqh86yBSBA",
-  "lastFetched": "2025-11-19T04:38:15.851Z",
+  "lastFetched": "2025-11-23T15:40:37.844Z",
   "odesli": {
     "amazonMusic": "B0BY4DW9W7",
     "amazonStore": "B0BY4DW9W7",
@@ -19,5 +18,6 @@
   },
   "lastfmId": "Sn%C3%B5%C3%B5per/_/Running",
   "listeners": 57416,
-  "playcount": 249375
+  "playcount": 249375,
+  "artistMbid": "f2bc8767-3737-482c-a22f-8b11ce2b74b8"
 }

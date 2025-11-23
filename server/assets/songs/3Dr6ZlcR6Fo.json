@@ -8,12 +8,14 @@
   "listeners": 633531,
   "playcount": 6303842,
   "artistMbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
-  "lastfmTags": [
-    "Progressive metal",
-    "Progressive rock",
-    "rock",
-    "tool",
-    "metal"
-  ],
-  "lastfmSummary": "\"Lateralus\" is the title track of the 2001 album of the same name by the American progressive rock band Tool'.\n\n-Mathematical significance-\nCounting between pauses, the syllables in Maynard James Keenan's vocals during the verses form the first few Fibonacci numbers, ascending and descending:\n(1) Black,\n(1) then,\n(2) white are,\n(3) all I see,\n(5) in my infancy,\n(8) red and yellow then came to be,\n(5) reaching out to me,\n(3) lets me see.\n(2) There is, <a href=\"http://www.last.fm/music/Tool/_/Lateralus\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Lateralus\" is the title track of the 2001 album of the same name by the American progressive rock band Tool'.\n\n-Mathematical significance-\nCounting between pauses, the syllables in Maynard James Keenan's vocals during the verses form the first few Fibonacci numbers, ascending and descending:\n(1) Black,\n(1) then,\n(2) white are,\n(3) all I see,\n(5) in my infancy,\n(8) red and yellow then came to be,\n(5) reaching out to me,\n(3) lets me see.\n(2) There is, <a href=\"http://www.last.fm/music/Tool/_/Lateralus\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "Progressive metal",
+      "Progressive rock",
+      "rock",
+      "tool",
+      "metal"
+    ]
+  }
 }

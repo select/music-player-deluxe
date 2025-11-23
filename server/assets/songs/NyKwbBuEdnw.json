@@ -3,20 +3,6 @@
   "title": "Cruiser's Creek",
   "artist": "The Fall",
   "album": "Cruiser's Creek",
-  "tags": [
-    "alternative",
-    "alternative rock",
-    "dark",
-    "fun",
-    "indie",
-    "new wave",
-    "post punk",
-    "post-punk",
-    "punk",
-    "quirky",
-    "rock",
-    "weird"
-  ],
   "duration": 257,
   "youtubeId": "NyKwbBuEdnw",
   "lastFetched": "2025-11-19T04:33:39.164Z",
@@ -40,5 +26,21 @@
   "listeners": 25955,
   "playcount": 92298,
   "artistMbid": "d5da1841-9bc8-4813-9f89-11098090148e",
-  "lastfmSummary": "Released as a single backed with This Nations Saving Grace cut ' LA', the 12\" release also came with the  other B-Side  'Vixen'. <a href=\"http://www.last.fm/music/The+Fall/_/Cruiser%27s+Creek\">Read more on Last.fm</a>."
+  "lastfmSummary": "Released as a single backed with This Nations Saving Grace cut ' LA', the 12\" release also came with the  other B-Side  'Vixen'. <a href=\"http://www.last.fm/music/The+Fall/_/Cruiser%27s+Creek\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "alternative",
+      "alternative rock",
+      "dark",
+      "fun",
+      "indie",
+      "new wave",
+      "post punk",
+      "post-punk",
+      "punk",
+      "quirky",
+      "rock",
+      "weird"
+    ]
+  }
 }

@@ -2,18 +2,6 @@
   "mbid": "96505f8f-172a-4db2-86f1-f7b8f40ee3db",
   "title": "Comfortably Numb",
   "artist": "Pink Floyd",
-  "tags": [
-    "album rock",
-    "art rock",
-    "british psychedelia",
-    "classic rock",
-    "pop/rock",
-    "prog-rock",
-    "progressive rock",
-    "psychedelic rock",
-    "psychedelic/garage",
-    "rock"
-  ],
   "duration": 540,
   "youtubeId": "_FrOQC-zEog",
   "lastFetched": "2025-11-19T04:17:52.980Z",
@@ -33,12 +21,22 @@
   "listeners": 1712560,
   "playcount": 18096551,
   "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
-  "lastfmTags": [
-    "Progressive rock",
-    "classic rock",
-    "Psychedelic Rock",
-    "rock",
-    "Pink Floyd"
-  ],
-  "lastfmSummary": "\"Comfortably Numb\" is a song by the British progressive rock band Pink Floyd from their 1979 double album \"The Wall\". It is one of only three songs on the album for which writing credits are shared between Roger Waters and David Gilmour – melody and most of the music on \"Comfortably Numb\" was written by Gilmour, while Waters contributed the lyrics and some additional notes.  In 2004, the song was ranked #314 on Rolling Stone's list of the 500 Greatest Songs of All Time. <a href=\"http://www.last.fm/music/Pink+Floyd/_/Comfortably+Numb\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Comfortably Numb\" is a song by the British progressive rock band Pink Floyd from their 1979 double album \"The Wall\". It is one of only three songs on the album for which writing credits are shared between Roger Waters and David Gilmour – melody and most of the music on \"Comfortably Numb\" was written by Gilmour, while Waters contributed the lyrics and some additional notes.  In 2004, the song was ranked #314 on Rolling Stone's list of the 500 Greatest Songs of All Time. <a href=\"http://www.last.fm/music/Pink+Floyd/_/Comfortably+Numb\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "album rock",
+      "art rock",
+      "british psychedelia",
+      "classic rock",
+      "pop/rock",
+      "prog-rock",
+      "progressive rock",
+      "psychedelic rock",
+      "psychedelic/garage",
+      "rock",
+      "Progressive rock",
+      "Psychedelic Rock",
+      "Pink Floyd"
+    ]
+  }
 }

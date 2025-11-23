@@ -18,12 +18,14 @@
   "listeners": 566134,
   "playcount": 5380307,
   "artistMbid": "9f4c3bca-4d80-428f-9ed2-0de052d92ecc",
-  "lastfmTags": [
-    "Love",
-    "rock",
-    "power pop",
-    "indie",
-    "synthpop"
-  ],
-  "lastfmSummary": "With a strained, emotional vocal track filled with grooving and soothing guitar solos, this first track on Jack Stauber’s 2017 album Pop Food kicks things off with an engaging combination of synths and a kicking bass.\n\nWhile some of it may seem to be complete nonsense, with lines such as “electrify my golden tooth,” it isn’t. When asked in a New Retro interview how he writes his lyrics, Jack Stauber replied:\n\nI get playful with the words but they’re always chosen very carefully. <a href=\"http://www.last.fm/music/Jack+Stauber/_/Buttercup\">Read more on Last.fm</a>."
+  "lastfmSummary": "With a strained, emotional vocal track filled with grooving and soothing guitar solos, this first track on Jack Stauber’s 2017 album Pop Food kicks things off with an engaging combination of synths and a kicking bass.\n\nWhile some of it may seem to be complete nonsense, with lines such as “electrify my golden tooth,” it isn’t. When asked in a New Retro interview how he writes his lyrics, Jack Stauber replied:\n\nI get playful with the words but they’re always chosen very carefully. <a href=\"http://www.last.fm/music/Jack+Stauber/_/Buttercup\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "Love",
+      "rock",
+      "power pop",
+      "indie",
+      "synthpop"
+    ]
+  }
 }

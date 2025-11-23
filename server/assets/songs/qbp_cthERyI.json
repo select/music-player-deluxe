@@ -2,7 +2,7 @@
   "youtubeId": "qbp_cthERyI",
   "title": "Magic Truffle",
   "artist": "shine grooves",
-  "lastFetched": "2025-11-19T15:42:04.554Z",
+  "lastFetched": "2025-11-23T15:40:50.315Z",
   "odesli": {
     "amazonMusic": "B0CBHHWVK2",
     "amazonStore": "B0CBHHWVK2",
@@ -22,5 +22,6 @@
   "mbid": "d733df00-097f-4aa4-9438-ecb70efb8bd9",
   "lastfmId": "shine+grooves/_/Magic+Truffle",
   "listeners": 198,
-  "playcount": 467
+  "playcount": 467,
+  "artistMbid": "019f0313-9538-435b-8f46-00f32bd6998b"
 }

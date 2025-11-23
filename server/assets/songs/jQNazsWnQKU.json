@@ -2,7 +2,7 @@
   "youtubeId": "jQNazsWnQKU",
   "title": "OKRA",
   "artist": "Tyler",
-  "lastFetched": "2025-11-20T09:33:27.900Z",
+  "lastFetched": "2025-11-23T15:54:40.977Z",
   "odesli": {
     "amazonMusic": "B07BP1GL75",
     "amazonStore": "B07BP1GL75",
@@ -16,5 +16,12 @@
     "tidal": "86667010",
     "youtube": "jQNazsWnQKU",
     "youtubeMusic": "jQNazsWnQKU"
+  },
+  "lastfmId": "Tyler/_/OKRA",
+  "listeners": 101,
+  "playcount": 440,
+  "lastfm": {
+    "title": "OKRA",
+    "artist": "Tyler"
   }
 }

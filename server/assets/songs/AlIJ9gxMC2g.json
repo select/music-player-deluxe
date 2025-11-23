@@ -3,10 +3,9 @@
   "title": "Nubble",
   "artist": "Hand Habits",
   "album": "Blue Reminder",
-  "tags": [],
   "duration": 249,
   "youtubeId": "AlIJ9gxMC2g",
-  "lastFetched": "2025-11-19T04:35:11.085Z",
+  "lastFetched": "2025-11-23T15:39:46.335Z",
   "odesli": {
     "amazonMusic": "B0F446GQBV",
     "amazonStore": "B0F446GQBV",
@@ -21,5 +20,6 @@
   },
   "lastfmId": "Hand+Habits/_/Nubble",
   "listeners": 3013,
-  "playcount": 6338
+  "playcount": 6338,
+  "artistMbid": "a92d48e1-40a9-457d-971c-ddb748d78759"
 }

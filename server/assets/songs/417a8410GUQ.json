@@ -2,12 +2,10 @@
   "mbid": "c50e86ee-9fbc-4704-96fa-9fc271391684",
   "title": "Tarraxo Guetto Muita Liamba",
   "artist": "Dj BeBeDeRa",
-  "tags": [],
   "duration": 193,
   "youtubeId": "417a8410GUQ",
-  "lastFetched": "2025-11-19T02:38:39.487Z",
+  "lastFetched": "2025-11-23T15:39:32.616Z",
   "releaseCount": 1,
-  "artistTags": [],
   "odesli": {
     "amazonMusic": "B0FB5HZY7X",
     "amazonStore": "B0FB5HZY7X",
@@ -22,5 +20,6 @@
   },
   "lastfmId": "Dj+BeBeDeRa/_/Tarraxo+Guetto+Muita+Liamba",
   "listeners": 208,
-  "playcount": 431
+  "playcount": 431,
+  "artistMbid": "20ed7c79-7ce8-48be-8a9c-35c3bcbc6218"
 }

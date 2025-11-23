@@ -2,10 +2,9 @@
   "mbid": "178485f1-f915-4819-ab7e-1eb4d1d73526",
   "title": "Patricia",
   "artist": "Art Pepper",
-  "tags": [],
   "duration": 219,
   "youtubeId": "dEtNa74GU0E",
-  "lastFetched": "2025-11-19T05:10:18.943Z",
+  "lastFetched": "2025-11-23T15:40:19.829Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0D37GRP9B",
@@ -25,5 +24,6 @@
   },
   "lastfmId": "Art+Pepper/_/Patricia",
   "listeners": 21072,
-  "playcount": 58521
+  "playcount": 58521,
+  "artistMbid": "266b9126-4a40-4b9b-b21e-422d72e64254"
 }

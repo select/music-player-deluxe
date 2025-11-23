@@ -8,12 +8,14 @@
   "listeners": 1665616,
   "playcount": 17403616,
   "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-  "lastfmTags": [
-    "alternative",
-    "alternative rock",
-    "indie",
-    "rock",
-    "radiohead"
-  ],
-  "lastfmSummary": "\"House of Cards\" is a song by English alternative rock band Radiohead and is the eighth track on their 2007 album In Rainbows. The song was released alongside \"Bodysnatchers\" as a promotional single and video from In Rainbows in late June 2008. <a href=\"http://www.last.fm/music/Radiohead/_/House+of+Cards\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"House of Cards\" is a song by English alternative rock band Radiohead and is the eighth track on their 2007 album In Rainbows. The song was released alongside \"Bodysnatchers\" as a promotional single and video from In Rainbows in late June 2008. <a href=\"http://www.last.fm/music/Radiohead/_/House+of+Cards\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "alternative",
+      "alternative rock",
+      "indie",
+      "rock",
+      "radiohead"
+    ]
+  }
 }

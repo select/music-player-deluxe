@@ -2,7 +2,7 @@
   "youtubeId": "DOsqQO9vpQQ",
   "title": "Get Hi",
   "artist": "Danny Brown",
-  "lastFetched": "2025-11-20T09:12:40.142Z",
+  "lastFetched": "2025-11-23T15:12:18.361Z",
   "odesli": {
     "amazonMusic": "B01LXT91W8",
     "amazonStore": "B01LXT91W8",
@@ -12,5 +12,12 @@
     "tidal": "65248094",
     "youtube": "DOsqQO9vpQQ",
     "youtubeMusic": "DOsqQO9vpQQ"
+  },
+  "lastfmId": "Danny+Brown/_/Get+Hi",
+  "listeners": 115531,
+  "playcount": 570552,
+  "lastfm": {
+    "title": "Get Hi",
+    "artist": "Danny Brown"
   }
 }

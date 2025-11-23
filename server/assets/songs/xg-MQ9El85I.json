@@ -4,13 +4,9 @@
   "artist": "Nabihah Iqbal",
   "artistMbid": "28a7d9a8-36c0-4bdd-ae4d-abcfb76f5a18",
   "releaseCount": 2,
-  "tags": [],
   "duration": 402,
   "youtubeId": "xg-MQ9El85I",
   "lastFetched": "2025-11-19T04:24:00.803Z",
-  "artistTags": [
-    "indietronica"
-  ],
   "odesli": {
     "amazonMusic": "B0BX7F4GHZ",
     "amazonStore": "B0BX7F4GHZ",
@@ -25,5 +21,10 @@
   },
   "lastfmId": "Nabihah+Iqbal/_/In+Light",
   "listeners": 21317,
-  "playcount": 61601
+  "playcount": 61601,
+  "musicbrainz": {
+    "artistTags": [
+      "indietronica"
+    ]
+  }
 }

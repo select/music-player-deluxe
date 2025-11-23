@@ -4,28 +4,9 @@
   "artist": "Archive",
   "artistMbid": "bd513de0-e42f-425e-ae46-817d7bc5fb1c",
   "releaseCount": 2,
-  "tags": [],
   "duration": 337,
   "youtubeId": "Y1gRbVRIDvQ",
   "lastFetched": "2025-11-19T04:42:19.329Z",
-  "artistTags": [
-    "alternative rock",
-    "alternative/post-rock",
-    "ambient pop",
-    "art rock",
-    "britannique",
-    "british",
-    "crossover prog",
-    "electronic",
-    "electronica",
-    "indie",
-    "post-rock",
-    "progressive rock",
-    "trip hop",
-    "trip rock",
-    "trip-hop",
-    "uk"
-  ],
   "odesli": {
     "amazonMusic": "B0FGYG29VP",
     "amazonStore": "B0FGYG29VP",
@@ -38,5 +19,25 @@
   },
   "lastfmId": "Archive/_/Look+At+Us",
   "listeners": 4869,
-  "playcount": 13913
+  "playcount": 13913,
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "alternative/post-rock",
+      "ambient pop",
+      "art rock",
+      "britannique",
+      "british",
+      "crossover prog",
+      "electronic",
+      "electronica",
+      "indie",
+      "post-rock",
+      "progressive rock",
+      "trip hop",
+      "trip rock",
+      "trip-hop",
+      "uk"
+    ]
+  }
 }

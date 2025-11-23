@@ -3,19 +3,10 @@
   "title": "LUV?",
   "artist": "Aitch",
   "album": "LUV?",
-  "tags": [],
   "duration": 157,
   "youtubeId": "rCyKvi_SFBM",
   "lastFetched": "2025-11-19T04:29:05.214Z",
   "artistMbid": "57dd4661-9f78-4442-8836-482fab983008",
-  "artistTags": [
-    "2020s",
-    "british hip hop",
-    "grime",
-    "hip hop",
-    "trap",
-    "uk drill"
-  ],
   "odesli": {
     "amazonMusic": "B0F393MY88",
     "amazonStore": "B0F393MY88",
@@ -28,5 +19,15 @@
   },
   "lastfmId": "Aitch/_/LUV%3F",
   "listeners": 339,
-  "playcount": 663
+  "playcount": 663,
+  "musicbrainz": {
+    "artistTags": [
+      "2020s",
+      "british hip hop",
+      "grime",
+      "hip hop",
+      "trap",
+      "uk drill"
+    ]
+  }
 }

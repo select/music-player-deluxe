@@ -2,7 +2,7 @@
   "youtubeId": "cHc9Ty2JyKA",
   "title": "Dembow Martinica",
   "artist": "Meryl",
-  "lastFetched": "2025-11-20T09:30:21.697Z",
+  "lastFetched": "2025-11-23T15:49:00.804Z",
   "odesli": {
     "amazonMusic": "B0D4CK5VX2",
     "amazonStore": "B0D4CK5VX2",
@@ -12,5 +12,13 @@
     "tidal": "369267869",
     "youtube": "cHc9Ty2JyKA",
     "youtubeMusic": "cHc9Ty2JyKA"
+  },
+  "lastfmId": "Meryl/_/Dembow+Martinica",
+  "listeners": 3653,
+  "playcount": 25138,
+  "lastfm": {
+    "title": "Dembow Martinica",
+    "artist": "Meryl",
+    "artistMbid": "5073c6cf-1f12-4a4d-8c3d-4318da38df63"
   }
 }

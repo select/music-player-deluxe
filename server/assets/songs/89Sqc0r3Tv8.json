@@ -2,14 +2,6 @@
   "mbid": "1ad90592-b681-3554-af3e-9ae202fdcb27",
   "title": "Intentions",
   "artist": "The Whitest Boy Alive",
-  "tags": [
-    "indie",
-    "indie pop",
-    "indie rock",
-    "indietronica",
-    "pop",
-    "rock"
-  ],
   "duration": 219,
   "youtubeId": "89Sqc0r3Tv8",
   "lastFetched": "2025-11-19T01:37:26.876Z",
@@ -35,5 +27,15 @@
   "lastfmId": "The+Whitest+Boy+Alive/_/Intentions",
   "listeners": 163041,
   "playcount": 1103296,
-  "artistMbid": "f83781c8-64f9-4657-85bd-51f74d195cfd"
+  "artistMbid": "f83781c8-64f9-4657-85bd-51f74d195cfd",
+  "musicbrainz": {
+    "tags": [
+      "indie",
+      "indie pop",
+      "indie rock",
+      "indietronica",
+      "pop",
+      "rock"
+    ]
+  }
 }

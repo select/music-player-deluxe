@@ -25,12 +25,14 @@
   "listeners": 340971,
   "playcount": 3200024,
   "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
-  "lastfmTags": [
-    "metal",
-    "thrash metal",
-    "Progressive metal",
-    "I want to have sex with this song",
-    "lung clam"
-  ],
-  "lastfmSummary": "\"Master of Puppets\" is a thrash metal song by American metal band Metallica, released on July 2, 1986, as the only single from the album of the same name. It was also issued as a promo single in the US by Elektra Records. <a href=\"http://www.last.fm/music/Metallica/_/Master+Of+Puppets+(Remastered)\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Master of Puppets\" is a thrash metal song by American metal band Metallica, released on July 2, 1986, as the only single from the album of the same name. It was also issued as a promo single in the US by Elektra Records. <a href=\"http://www.last.fm/music/Metallica/_/Master+Of+Puppets+(Remastered)\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "metal",
+      "thrash metal",
+      "Progressive metal",
+      "I want to have sex with this song",
+      "lung clam"
+    ]
+  }
 }

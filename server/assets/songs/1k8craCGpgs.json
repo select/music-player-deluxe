@@ -22,12 +22,14 @@
   "listeners": 1787653,
   "playcount": 13618883,
   "artistMbid": "abd506e1-6f2b-4d6f-b937-92c267f6f88b",
-  "lastfmTags": [
-    "classic rock",
-    "80s",
-    "rock",
-    "journey",
-    "scrubs"
-  ],
-  "lastfmSummary": "\"Don't Stop Believin'\" is a classic rock anthem and power ballad by the American rock band Journey. The song debuted on their 1981 album Escape. The song is considered by many to be the band's signature song. The song is well known for its lyrics and its distinctive chorused piano introduction, described by Allmusic as \"one of the best opening keyboard riffs in rock.\" The song has been included in many TV shows and movies, including The Sopranos, Family Guy, Glee, Scrubs, and the movie Bedtime Stories. <a href=\"http://www.last.fm/music/Journey/_/Don%27t+Stop+Believin%27\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Don't Stop Believin'\" is a classic rock anthem and power ballad by the American rock band Journey. The song debuted on their 1981 album Escape. The song is considered by many to be the band's signature song. The song is well known for its lyrics and its distinctive chorused piano introduction, described by Allmusic as \"one of the best opening keyboard riffs in rock.\" The song has been included in many TV shows and movies, including The Sopranos, Family Guy, Glee, Scrubs, and the movie Bedtime Stories. <a href=\"http://www.last.fm/music/Journey/_/Don%27t+Stop+Believin%27\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "classic rock",
+      "80s",
+      "rock",
+      "journey",
+      "scrubs"
+    ]
+  }
 }

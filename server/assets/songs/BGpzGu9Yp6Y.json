@@ -2,28 +2,11 @@
   "mbid": "7af8e4a7-2c0c-4ccc-bb94-10ac757adfbd",
   "title": "Make It Bun Dem",
   "artist": "Skrillex",
-  "tags": [],
   "duration": 219,
   "youtubeId": "BGpzGu9Yp6Y",
   "lastFetched": "2025-11-19T03:39:15.032Z",
   "releaseCount": 1,
   "artistMbid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b",
-  "artistTags": [
-    "brostep",
-    "complextro",
-    "drumstep",
-    "dubstep",
-    "edm",
-    "electro house",
-    "electronic",
-    "glitch hop",
-    "hip hop",
-    "pop",
-    "riddim dubstep",
-    "tech house",
-    "techno",
-    "trap"
-  ],
   "odesli": {
     "amazonMusic": "B0092W4L0C",
     "amazonStore": "B0092W4L0C",
@@ -44,5 +27,23 @@
   },
   "lastfmId": "Skrillex/_/Make+It+Bun+Dem",
   "listeners": 360991,
-  "playcount": 2316751
+  "playcount": 2316751,
+  "musicbrainz": {
+    "artistTags": [
+      "brostep",
+      "complextro",
+      "drumstep",
+      "dubstep",
+      "edm",
+      "electro house",
+      "electronic",
+      "glitch hop",
+      "hip hop",
+      "pop",
+      "riddim dubstep",
+      "tech house",
+      "techno",
+      "trap"
+    ]
+  }
 }

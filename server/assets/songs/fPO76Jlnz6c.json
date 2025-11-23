@@ -20,12 +20,14 @@
   "listeners": 1595243,
   "playcount": 11663930,
   "artistMbid": "cc30e630-8c75-4d78-b205-8e2edc6bdaa7",
-  "lastfmTags": [
-    "rap",
-    "90s",
-    "Hip-Hop",
-    "Gangsta Rap",
-    "hip hop"
-  ],
-  "lastfmSummary": "\"Gangsta's Paradise\" is a rap song by Coolio featuring L.V. from the movie Dangerous Minds. The song was later released on the albums Gangsta's Paradise and Dangerous Minds soundtrack in 1995. Coolio was awarded a Grammy for the song/album. The song was voted as the best single of the year in The Village Voice Pazz & Jop critics poll.\n\nIt sampled the chorus and music of the song \"Pastime Paradise\" by Stevie Wonder. The song was also listed at #69 on Billboard's Greatest Songs of All-Time. <a href=\"http://www.last.fm/music/Coolio/_/Gangsta%27s+Paradise\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Gangsta's Paradise\" is a rap song by Coolio featuring L.V. from the movie Dangerous Minds. The song was later released on the albums Gangsta's Paradise and Dangerous Minds soundtrack in 1995. Coolio was awarded a Grammy for the song/album. The song was voted as the best single of the year in The Village Voice Pazz & Jop critics poll.\n\nIt sampled the chorus and music of the song \"Pastime Paradise\" by Stevie Wonder. The song was also listed at #69 on Billboard's Greatest Songs of All-Time. <a href=\"http://www.last.fm/music/Coolio/_/Gangsta%27s+Paradise\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "rap",
+      "90s",
+      "Hip-Hop",
+      "Gangsta Rap",
+      "hip hop"
+    ]
+  }
 }

@@ -2,12 +2,21 @@
   "youtubeId": "vQiHmQI_fv8",
   "title": "Shika-1",
   "artist": "Biosphere",
-  "lastFetched": "2025-11-20T09:21:27.147Z",
+  "lastFetched": "2025-11-23T15:31:11.225Z",
   "odesli": {
     "amazonMusic": "B0051ZWKGG",
     "amazonStore": "B0051ZWKGG",
     "soundcloud": "biosphere12651/shika-1",
     "youtube": "vQiHmQI_fv8",
     "youtubeMusic": "vQiHmQI_fv8"
+  },
+  "lastfmId": "Biosphere/_/Shika-1",
+  "listeners": 18212,
+  "playcount": 68948,
+  "lastfm": {
+    "title": "Shika-1",
+    "artist": "Biosphere",
+    "mbid": "30b668a7-82e2-469b-b4c0-3bb49ec4d8cc",
+    "artistMbid": "a5ee1ebe-a645-45d2-8319-d101fe62e581"
   }
 }

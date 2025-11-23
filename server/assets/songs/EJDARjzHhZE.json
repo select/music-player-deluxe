@@ -4,14 +4,15 @@
   "artist": "DOMi & JD Beck",
   "artistMbid": "bbe3ca80-7fb3-4a7f-acef-071606af0d3d",
   "releaseCount": 5,
-  "tags": [],
   "duration": 216,
   "youtubeId": "EJDARjzHhZE",
   "lastFetched": "2025-11-19T04:24:31.216Z",
-  "artistTags": [
-    "jazz fusion"
-  ],
   "lastfmId": "DOMi+&+JD+Beck/_/Sniff",
   "listeners": 38050,
-  "playcount": 160018
+  "playcount": 160018,
+  "musicbrainz": {
+    "artistTags": [
+      "jazz fusion"
+    ]
+  }
 }

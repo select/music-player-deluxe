@@ -2,7 +2,7 @@
   "youtubeId": "RcVZfJO01NI",
   "title": "Happy Birthday",
   "artist": "Stevie Wonder",
-  "lastFetched": "2025-11-20T09:24:41.354Z",
+  "lastFetched": "2025-11-23T15:38:17.315Z",
   "odesli": {
     "amazonMusic": "B000V66UUM",
     "amazonStore": "B000V66UUM",
@@ -21,5 +21,14 @@
     "yandex": "797518",
     "youtube": "RcVZfJO01NI",
     "youtubeMusic": "RcVZfJO01NI"
+  },
+  "lastfmId": "Stevie+Wonder/_/Happy+Birthday",
+  "listeners": 253537,
+  "playcount": 756527,
+  "lastfm": {
+    "title": "Happy Birthday",
+    "artist": "Stevie Wonder",
+    "mbid": "05552bbe-8703-3d58-861b-30dd62a2890f",
+    "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e"
   }
 }

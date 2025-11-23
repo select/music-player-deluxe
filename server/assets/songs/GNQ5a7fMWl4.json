@@ -2,19 +2,11 @@
   "mbid": "d5a0083c-1ef4-430c-aeea-41a76b6a4f8d",
   "title": "Guided Missile",
   "artist": "Aston 'Family Man' Barrett",
-  "tags": [],
   "duration": 206,
   "youtubeId": "GNQ5a7fMWl4",
   "lastFetched": "2025-11-19T03:22:57.409Z",
   "releaseCount": 1,
   "artistMbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
-  "artistTags": [
-    "banbarra",
-    "reggae",
-    "rocksteady",
-    "roots reggae",
-    "ska"
-  ],
   "odesli": {
     "amazonMusic": "B0CFWZ7FC4",
     "amazonStore": "B0CFWZ7FC4",
@@ -29,5 +21,14 @@
   },
   "lastfmId": "Aston+%27Family+Man%27+Barrett/_/Guided+Missile",
   "listeners": 383,
-  "playcount": 728
+  "playcount": 728,
+  "musicbrainz": {
+    "artistTags": [
+      "banbarra",
+      "reggae",
+      "rocksteady",
+      "roots reggae",
+      "ska"
+    ]
+  }
 }

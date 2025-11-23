@@ -2,12 +2,6 @@
   "mbid": "8768fa3b-6227-45b6-a00b-a7078a78ace0",
   "title": "Beautiful Rebel",
   "artist": "Jeremy Jay",
-  "tags": [
-    "indie",
-    "indie pop",
-    "indie rock",
-    "rock"
-  ],
   "duration": 153,
   "youtubeId": "o0AtBnYujw4",
   "lastFetched": "2025-11-19T05:21:29.464Z",
@@ -21,5 +15,13 @@
   "lastfmId": "Jeremy+Jay/_/Beautiful+Rebel",
   "listeners": 7297,
   "playcount": 32765,
-  "artistMbid": "34f8701a-24ef-48d6-a130-61149d04530d"
+  "artistMbid": "34f8701a-24ef-48d6-a130-61149d04530d",
+  "musicbrainz": {
+    "tags": [
+      "indie",
+      "indie pop",
+      "indie rock",
+      "rock"
+    ]
+  }
 }

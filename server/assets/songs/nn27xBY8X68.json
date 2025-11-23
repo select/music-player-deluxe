@@ -4,20 +4,9 @@
   "artist": "Del Shannon",
   "artistMbid": "2e885bfb-1f59-49cf-8d51-e743445e1b48",
   "releaseCount": 2,
-  "tags": [],
   "duration": 121,
   "youtubeId": "nn27xBY8X68",
   "lastFetched": "2025-11-19T04:26:32.627Z",
-  "artistTags": [
-    "country",
-    "pop",
-    "pop rock",
-    "psychedelic pop",
-    "rock",
-    "rock & roll",
-    "rock and roll",
-    "teen pop"
-  ],
   "odesli": {
     "pandora": "TR:24434159",
     "soundcloud": "1389281575",
@@ -27,5 +16,17 @@
   },
   "lastfmId": "Del+Shannon/_/The+Swiss+Maid",
   "listeners": 16032,
-  "playcount": 42390
+  "playcount": 42390,
+  "musicbrainz": {
+    "artistTags": [
+      "country",
+      "pop",
+      "pop rock",
+      "psychedelic pop",
+      "rock",
+      "rock & roll",
+      "rock and roll",
+      "teen pop"
+    ]
+  }
 }

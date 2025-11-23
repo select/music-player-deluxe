@@ -4,13 +4,6 @@
   "artist": "Jan Hammer Group",
   "artistMbid": "074ad168-8c8b-44df-8388-110bbea45a2b",
   "releaseCount": 6,
-  "tags": [
-    "contemporary jazz",
-    "fusion",
-    "jazz",
-    "jazz rock",
-    "rock"
-  ],
   "duration": 180,
   "youtubeId": "veF8UBTI0f8",
   "lastFetched": "2025-11-19T01:39:43.172Z",
@@ -28,5 +21,14 @@
   "name": "Don't You Know",
   "lastfmId": "Jan+Hammer+Group/_/Don%27t+You+Know",
   "listeners": 54702,
-  "playcount": 255614
+  "playcount": 255614,
+  "musicbrainz": {
+    "tags": [
+      "contemporary jazz",
+      "fusion",
+      "jazz",
+      "jazz rock",
+      "rock"
+    ]
+  }
 }

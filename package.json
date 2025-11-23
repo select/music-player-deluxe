@@ -18,6 +18,8 @@
 		"deps:dedupe": "pnpm dedupe",
 		"stats": "node scripts/repo-stats.mjs",
 		"extract-metadata": "tsx scripts/extract-missing-metadata.ts",
+		"augment:musicbrainz": "tsx scripts/musicbrainz-augment.ts --augemnt --fetch",
+
 		"augment:ollama": "tsx scripts/ollama-augment.ts",
 		"augment:lastfm": "tsx scripts/lastfm-augment.ts",
 		"augment:odesli": "tsx scripts/odesli-augment.ts"

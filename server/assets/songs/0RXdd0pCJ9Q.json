@@ -4,14 +4,16 @@
   "artist": "Dwig",
   "artistMbid": "6f5618f3-fb91-4ff2-9ba2-7a39e9beeac7",
   "releaseCount": 1,
-  "tags": [
-    "deep house",
-    "downtempo"
-  ],
   "duration": 431,
   "youtubeId": "0RXdd0pCJ9Q",
   "lastFetched": "2025-11-19T05:00:37.715Z",
   "lastfmId": "Dwig/_/Orange+Evening",
   "listeners": 41817,
-  "playcount": 230551
+  "playcount": 230551,
+  "musicbrainz": {
+    "tags": [
+      "deep house",
+      "downtempo"
+    ]
+  }
 }
