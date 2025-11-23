@@ -43,6 +43,7 @@ interface ArtistOpts {
 }
 
 interface TrackOpts {
+	mbid?: string;
 	track: string;
 	artistName: string;
 }
@@ -456,27 +457,18 @@ class LastFM {
 
 		const urlBase = "https://ws.audioscrobbler.com/2.0/";
 
-		const fetchOptions = {
-			query: requestParams,
-			headers: {
-				"User-Agent": this._userAgent,
-			},
-			timeout: 30 * 1000,
+		const url = `${urlBase}?${new URLSearchParams(requestParams)}`;
+		const headers = {
+			"User-Agent": this._userAgent,
 		};
 
-		// const data = await $fetch<any>(urlBase, fetchOptions);
-		// if (data.error) {
-		// 	throw new Error(data.message);
-		// }
+		// Log as curl request
+		const curlHeaders = Object.entries(headers)
+			.map(([key, value]) => `-H "${key}: ${value}"`)
+			.join(" ");
+		console.log(`curl ${curlHeaders} "${url}"`);
 
-		const response = await fetch(
-			`${urlBase}?${new URLSearchParams(requestParams)}`,
-			{
-				headers: {
-					"User-Agent": this._userAgent,
-				},
-			},
-		);
+		const response = await fetch(url, { headers });
 
 		if (!response.ok) {
 			throw new Error(`HTTP error! status: ${response.status}`);
@@ -1011,6 +1003,18 @@ class LastFM {
 				method: "track.getTopTags",
 				artist: opts.artistName,
 				track: opts.track,
+				autocorrect: 1,
+			},
+			"toptags",
+		);
+	}
+	async trackTags(opts: TrackOpts): Promise<LastFMTrackTopTags> {
+		return await this._sendRequest<LastFMTrackTopTags>(
+			{
+				method: "track.getTags",
+				artist: opts.artistName,
+				track: opts.track,
+				// mbid: opts.mbid,
 				autocorrect: 1,
 			},
 			"toptags",

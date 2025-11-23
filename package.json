@@ -18,7 +18,6 @@
 		"deps:dedupe": "pnpm dedupe",
 		"stats": "node scripts/repo-stats.mjs",
 		"augment:musicbrainz": "tsx scripts/musicbrainz-augment.ts --augemnt --fetch",
-
 		"augment:ollama": "tsx scripts/ollama-augment.ts",
 		"augment:lastfm": "tsx scripts/lastfm-augment.ts",
 		"augment:odesli": "tsx scripts/odesli-augment.ts"
@@ -31,6 +30,7 @@
 		"dayjs": "1.11.19",
 		"eslint": "9.39.1",
 		"fuse.js": "7.1.0",
+		"happy-dom": "20.0.10",
 		"last-fm": "5.3.0",
 		"nuxt": "4.2.1",
 		"odesli.js": "1.3.8",

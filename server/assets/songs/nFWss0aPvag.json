@@ -8,6 +8,13 @@
     "artist": "Foo Fighters",
     "id": "Foo+Fighters/_/Everywhere+But+Home",
     "listeners": 11,
-    "playcount": 23
+    "playcount": 23,
+    "tags": [
+      "rock",
+      "alternative rock",
+      "grunge",
+      "alternative",
+      "hard rock"
+    ]
   }
 }

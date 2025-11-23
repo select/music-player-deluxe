@@ -31,10 +31,12 @@ export type LastfmResponse = LastfmResult | LastfmError;
 let lastfm: LastFM | null = null;
 
 try {
-	if (!process.env.LASTFM_API_KEY) {
-		throw new Error("LASTFM_API_KEY environment variable is not set");
+	if (!(process.env.LASTFM_API_KEY && process.env.LASTFM_USER)) {
+		throw new Error(
+			"LASTFM_API_KEY/LASTFM_USER environment variable is not set",
+		);
 	}
-	lastfm = new LastFM(process.env.LASTFM_API_KEY, {
+	lastfm = new LastFM(process.env.LASTFM_API_KEY, process.env.LASTFM_USER, {
 		userAgent: "MusicPlayerDeluxe/1.0.0",
 		minTrackListeners: 0,
 	});
