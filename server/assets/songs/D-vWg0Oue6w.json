@@ -4,9 +4,6 @@
   "artist": "DJ Fresh",
   "lastFetched": "2025-11-23T16:31:58.872Z",
   "mbid": "18e08908-1834-3a2c-b70b-6558c6e0b86d",
-  "lastfmId": "DJ+Fresh/_/Gold+Dust",
-  "listeners": 110907,
-  "playcount": 670439,
   "artistMbid": "77049387-0580-4a3a-a05f-d12b5d6b5042",
   "musicbrainz": {
     "artistTags": [
@@ -19,5 +16,10 @@
       "dubstep",
       "uk garage"
     ]
+  },
+  "lastfm": {
+    "id": "DJ+Fresh/_/Gold+Dust",
+    "listeners": 110907,
+    "playcount": 670439
   }
 }

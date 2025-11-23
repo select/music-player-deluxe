@@ -14,9 +14,6 @@
     "youtube": "h8l47emr2U4",
     "youtubeMusic": "h8l47emr2U4"
   },
-  "lastfmId": "The+Beach+Boys/_/Diamond+Head+-+Remastered+2001",
-  "listeners": 11210,
-  "playcount": 49317,
   "musicbrainz": {
     "tags": [
       "am pop",
@@ -32,5 +29,10 @@
       "sunshine pop",
       "surf rock"
     ]
+  },
+  "lastfm": {
+    "id": "The+Beach+Boys/_/Diamond+Head+-+Remastered+2001",
+    "listeners": 11210,
+    "playcount": 49317
   }
 }

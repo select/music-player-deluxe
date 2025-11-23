@@ -20,8 +20,10 @@
     "youtubeMusic": "0GjVn42EMcw"
   },
   "mbid": "3193470b-5fea-4d21-b635-8b6b36d24600",
-  "lastfmId": "Jim/_/Phoenix",
-  "listeners": 6091,
-  "playcount": 14879,
-  "artistMbid": "b67748d0-b180-48bd-a0cd-206568b55489"
+  "artistMbid": "b67748d0-b180-48bd-a0cd-206568b55489",
+  "lastfm": {
+    "id": "Jim/_/Phoenix",
+    "listeners": 6091,
+    "playcount": 14879
+  }
 }

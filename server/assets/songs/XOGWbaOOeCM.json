@@ -7,9 +7,6 @@
   "lastFetched": "2025-11-19T01:37:36.297Z",
   "releaseCount": 1,
   "name": "King Of The World",
-  "lastfmId": "Steely+Dan/_/King+Of+The+World",
-  "listeners": 97466,
-  "playcount": 504700,
   "artistMbid": "e01c3376-15fa-40d7-b747-5f219bdefdd7",
   "musicbrainz": {
     "artistTags": [
@@ -23,5 +20,10 @@
       "sophisticated rock",
       "yacht rock"
     ]
+  },
+  "lastfm": {
+    "id": "Steely+Dan/_/King+Of+The+World",
+    "listeners": 97466,
+    "playcount": 504700
   }
 }

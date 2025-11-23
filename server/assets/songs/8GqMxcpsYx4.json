@@ -11,7 +11,9 @@
     "youtube": "8GqMxcpsYx4",
     "youtubeMusic": "8GqMxcpsYx4"
   },
-  "lastfmId": "1+9+0+5/_/We+Don%27t+Play+No+Mo",
-  "listeners": 967,
-  "playcount": 2874
+  "lastfm": {
+    "id": "1+9+0+5/_/We+Don%27t+Play+No+Mo",
+    "listeners": 967,
+    "playcount": 2874
+  }
 }

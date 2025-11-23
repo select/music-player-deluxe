@@ -14,11 +14,11 @@
     "youtube": "-m7-md-7B5w",
     "youtubeMusic": "-m7-md-7B5w"
   },
-  "lastfmId": "Terry+Presume/_/ZaZa+and+Some+Runtz+(Smoke+Break)",
-  "listeners": 52177,
-  "playcount": 307361,
   "lastfm": {
     "title": "ZaZa and Some Runtz (Smoke Break)",
-    "artist": "Terry Presume"
+    "artist": "Terry Presume",
+    "id": "Terry+Presume/_/ZaZa+and+Some+Runtz+(Smoke+Break)",
+    "listeners": 52177,
+    "playcount": 307361
   }
 }

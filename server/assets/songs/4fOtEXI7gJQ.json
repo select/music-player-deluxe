@@ -17,9 +17,6 @@
     "youtube": "4fOtEXI7gJQ",
     "youtubeMusic": "4fOtEXI7gJQ"
   },
-  "lastfmId": "HO99O9/_/Incline+(feat.+Nova+Twins,+Pink+Siifu+&+Yung+Skrrt)",
-  "listeners": 3717,
-  "playcount": 9776,
   "musicbrainz": {
     "artistTags": [
       "punk rap"
@@ -27,5 +24,10 @@
     "artistGenres": [
       "punk rap"
     ]
+  },
+  "lastfm": {
+    "id": "HO99O9/_/Incline+(feat.+Nova+Twins,+Pink+Siifu+&+Yung+Skrrt)",
+    "listeners": 3717,
+    "playcount": 9776
   }
 }

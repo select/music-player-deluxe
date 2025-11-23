@@ -3,13 +3,13 @@
   "title": "Holland",
   "artist": "Joint Venture",
   "lastFetched": "2025-11-23T15:18:26.084Z",
-  "lastfmId": "Joint+Venture/_/Holland",
-  "listeners": 10663,
-  "playcount": 49218,
   "lastfm": {
     "title": "Holland",
     "artist": "Joint Venture",
     "mbid": "dadb3104-0c4f-3df1-ade4-011111291257",
-    "artistMbid": "15b8992f-4971-404e-afab-2fe8cbcbd61a"
+    "artistMbid": "15b8992f-4971-404e-afab-2fe8cbcbd61a",
+    "id": "Joint+Venture/_/Holland",
+    "listeners": 10663,
+    "playcount": 49218
   }
 }

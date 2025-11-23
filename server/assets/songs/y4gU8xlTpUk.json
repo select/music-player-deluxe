@@ -17,9 +17,6 @@
     "youtubeMusic": "y4gU8xlTpUk"
   },
   "mbid": "2a08e309-5cf2-4d70-8b40-95616ee813d0",
-  "lastfmId": "Papa+Roach/_/Come+Around",
-  "listeners": 54249,
-  "playcount": 325509,
   "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "nu metal",
       "pop rock"
     ]
+  },
+  "lastfm": {
+    "id": "Papa+Roach/_/Come+Around",
+    "listeners": 54249,
+    "playcount": 325509
   }
 }

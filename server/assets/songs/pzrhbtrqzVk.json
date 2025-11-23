@@ -6,7 +6,9 @@
   "releaseCount": 1,
   "youtubeId": "pzrhbtrqzVk",
   "lastFetched": "2025-11-19T05:19:27.433Z",
-  "lastfmId": "Jimi+Bazzouka/_/So+So+Ye",
-  "listeners": 478,
-  "playcount": 1198
+  "lastfm": {
+    "id": "Jimi+Bazzouka/_/So+So+Ye",
+    "listeners": 478,
+    "playcount": 1198
+  }
 }

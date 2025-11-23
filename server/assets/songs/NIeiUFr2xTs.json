@@ -12,8 +12,10 @@
     "youtube": "NIeiUFr2xTs",
     "youtubeMusic": "NIeiUFr2xTs"
   },
-  "lastfmId": "Tony+Allen/_/On+The+Run+(Edit)",
-  "listeners": 16,
-  "playcount": 24,
-  "artistMbid": "ea524cc6-191a-4c05-ab88-3bb5c0880ca5"
+  "artistMbid": "ea524cc6-191a-4c05-ab88-3bb5c0880ca5",
+  "lastfm": {
+    "id": "Tony+Allen/_/On+The+Run+(Edit)",
+    "listeners": 16,
+    "playcount": 24
+  }
 }

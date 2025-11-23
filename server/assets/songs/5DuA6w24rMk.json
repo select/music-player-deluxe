@@ -14,7 +14,9 @@
     "youtube": "5DuA6w24rMk",
     "youtubeMusic": "5DuA6w24rMk"
   },
-  "lastfmId": "Lay-Far+Dance+Orchestra/_/Aquarius+Love",
-  "listeners": 41,
-  "playcount": 51
+  "lastfm": {
+    "id": "Lay-Far+Dance+Orchestra/_/Aquarius+Love",
+    "listeners": 41,
+    "playcount": 51
+  }
 }

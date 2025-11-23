@@ -12,8 +12,10 @@
     "youtubeMusic": "rXuAC1_97iw"
   },
   "mbid": "ff49a1e4-8c10-39ab-8464-5c87465c7d4b",
-  "lastfmId": "The+Sylvers/_/Love+Me,+Love+Me+Not",
-  "listeners": 3247,
-  "playcount": 7294,
-  "artistMbid": "70d1c02b-7349-4555-a9fc-9e85e4eaca49"
+  "artistMbid": "70d1c02b-7349-4555-a9fc-9e85e4eaca49",
+  "lastfm": {
+    "id": "The+Sylvers/_/Love+Me,+Love+Me+Not",
+    "listeners": 3247,
+    "playcount": 7294
+  }
 }

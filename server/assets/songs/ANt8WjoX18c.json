@@ -20,9 +20,6 @@
     "youtubeMusic": "ANt8WjoX18c"
   },
   "mbid": "1de96f65-ee69-3091-9ae4-c7b3f42812a0",
-  "lastfmId": "City/_/Ganz+leicht",
-  "listeners": 309,
-  "playcount": 617,
   "artistMbid": "bb1ee9fe-c5b9-46da-94ab-ea6bec84b7aa",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "progressive rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "City/_/Ganz+leicht",
+    "listeners": 309,
+    "playcount": 617
   }
 }

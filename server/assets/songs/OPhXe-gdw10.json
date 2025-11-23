@@ -10,12 +10,12 @@
     "youtube": "OPhXe-gdw10",
     "youtubeMusic": "OPhXe-gdw10"
   },
-  "lastfmId": "Yvon/_/Im+Kreis+der+Liebe",
-  "listeners": 1242,
-  "playcount": 3907,
   "lastfm": {
     "title": "Im Kreis der Liebe",
     "artist": "Yvon",
-    "artistMbid": "26ae99ef-7161-4e39-985d-d238a624064a"
+    "artistMbid": "26ae99ef-7161-4e39-985d-d238a624064a",
+    "id": "Yvon/_/Im+Kreis+der+Liebe",
+    "listeners": 1242,
+    "playcount": 3907
   }
 }

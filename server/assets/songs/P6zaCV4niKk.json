@@ -16,9 +16,11 @@
     "youtube": "P6zaCV4niKk",
     "youtubeMusic": "P6zaCV4niKk"
   },
-  "lastfmId": "Cat+Stevens/_/Father+and+Son",
-  "listeners": 448381,
-  "playcount": 2406364,
   "artistMbid": "da8a7465-cf8a-42fd-b7d9-d2ab8f5dbf0d",
-  "lastfmSummary": "This song describes a natural generational conflict between the anticipation of the future and the knowledge of the past.  It describes a place we have been or are experiencing in our lives. <a href=\"http://www.last.fm/music/Cat+Stevens/_/Father+and+Son\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "Cat+Stevens/_/Father+and+Son",
+    "listeners": 448381,
+    "playcount": 2406364,
+    "summary": "This song describes a natural generational conflict between the anticipation of the future and the knowledge of the past.  It describes a place we have been or are experiencing in our lives. <a href=\"http://www.last.fm/music/Cat+Stevens/_/Father+and+Son\">Read more on Last.fm</a>."
+  }
 }

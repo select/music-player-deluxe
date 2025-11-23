@@ -25,9 +25,6 @@
     "youtube": "BGpzGu9Yp6Y",
     "youtubeMusic": "BGpzGu9Yp6Y"
   },
-  "lastfmId": "Skrillex/_/Make+It+Bun+Dem",
-  "listeners": 360991,
-  "playcount": 2316751,
   "musicbrainz": {
     "artistTags": [
       "brostep",
@@ -45,5 +42,10 @@
       "techno",
       "trap"
     ]
+  },
+  "lastfm": {
+    "id": "Skrillex/_/Make+It+Bun+Dem",
+    "listeners": 360991,
+    "playcount": 2316751
   }
 }

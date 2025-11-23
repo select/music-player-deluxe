@@ -10,8 +10,10 @@
     "youtube": "jVYKlv-cT7o",
     "youtubeMusic": "jVYKlv-cT7o"
   },
-  "lastfmId": "Pola+&+Bryson/_/Anaesthetist",
-  "listeners": 7017,
-  "playcount": 29362,
-  "artistMbid": "47619b12-91e7-4014-8308-6efda7310966"
+  "artistMbid": "47619b12-91e7-4014-8308-6efda7310966",
+  "lastfm": {
+    "id": "Pola+&+Bryson/_/Anaesthetist",
+    "listeners": 7017,
+    "playcount": 29362
+  }
 }

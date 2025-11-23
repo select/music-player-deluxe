@@ -15,9 +15,11 @@
     "youtube": "2soGJXQAQec",
     "youtubeMusic": "2soGJXQAQec"
   },
-  "lastfmId": "Snoop+Dogg/_/Who+Am+I+(What%E2%80%99s+My+Name)%3F",
-  "listeners": 249211,
-  "playcount": 1335462,
   "artistMbid": "f90e8b26-9e52-4669-a5c9-e28529c47894",
-  "lastfmSummary": "Who Am I (What’s My Name)?” is Snoop Dogg’s grasp for identity. It was one of the first singles he ever released as an artist, and his most financial hit to this day. It was also ranked 456 on NME’s “500 Greatest Songs of All Time”: <a href=\"http://www.last.fm/music/Snoop+Dogg/_/Who+Am+I+(What%E2%80%99s+My+Name)%3F\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "Snoop+Dogg/_/Who+Am+I+(What%E2%80%99s+My+Name)%3F",
+    "listeners": 249211,
+    "playcount": 1335462,
+    "summary": "Who Am I (What’s My Name)?” is Snoop Dogg’s grasp for identity. It was one of the first singles he ever released as an artist, and his most financial hit to this day. It was also ranked 456 on NME’s “500 Greatest Songs of All Time”: <a href=\"http://www.last.fm/music/Snoop+Dogg/_/Who+Am+I+(What%E2%80%99s+My+Name)%3F\">Read more on Last.fm</a>."
+  }
 }

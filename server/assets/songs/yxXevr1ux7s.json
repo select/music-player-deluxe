@@ -20,9 +20,6 @@
     "youtube": "yxXevr1ux7s",
     "youtubeMusic": "yxXevr1ux7s"
   },
-  "lastfmId": "Calibre/_/Bullets",
-  "listeners": 437,
-  "playcount": 1413,
   "artistMbid": "afa502e0-fb84-4cf4-b3c0-21ed0c695939",
   "musicbrainz": {
     "tags": [
@@ -31,5 +28,10 @@
       "drum n bass",
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "Calibre/_/Bullets",
+    "listeners": 437,
+    "playcount": 1413
   }
 }

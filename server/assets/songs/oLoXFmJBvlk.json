@@ -14,7 +14,9 @@
     "youtube": "oLoXFmJBvlk",
     "youtubeMusic": "oLoXFmJBvlk"
   },
-  "lastfmId": "UB40/_/Rat+In+Mi+Kitchen",
-  "listeners": 73655,
-  "playcount": 292267
+  "lastfm": {
+    "id": "UB40/_/Rat+In+Mi+Kitchen",
+    "listeners": 73655,
+    "playcount": 292267
+  }
 }

@@ -20,7 +20,9 @@
     "youtube": "OhapitERR-M",
     "youtubeMusic": "OhapitERR-M"
   },
-  "lastfmId": "Dominik+Eulberg/_/Brauner+B%C3%A4r",
-  "listeners": 1378,
-  "playcount": 2834
+  "lastfm": {
+    "id": "Dominik+Eulberg/_/Brauner+B%C3%A4r",
+    "listeners": 1378,
+    "playcount": 2834
+  }
 }

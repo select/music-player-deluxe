@@ -3,13 +3,13 @@
   "title": "Heartland",
   "artist": "Stick Figure",
   "lastFetched": "2025-11-23T14:16:16.836Z",
-  "lastfmId": "Stick+Figure/_/Heartland",
-  "listeners": 9008,
-  "playcount": 51716,
   "lastfm": {
     "title": "Heartland",
     "artist": "Stick Figure",
     "mbid": "e0708d42-e17d-46b7-95f5-6e62794e0a35",
-    "artistMbid": "0c124600-18da-4087-be0d-d7fb6a2526c6"
+    "artistMbid": "0c124600-18da-4087-be0d-d7fb6a2526c6",
+    "id": "Stick+Figure/_/Heartland",
+    "listeners": 9008,
+    "playcount": 51716
   }
 }

@@ -16,8 +16,10 @@
     "youtube": "dV3AziKTBUo",
     "youtubeMusic": "dV3AziKTBUo"
   },
-  "lastfmId": "Steve+Miller+Band/_/The+Joker",
-  "listeners": 892853,
-  "playcount": 5385036,
-  "artistMbid": "e57f0cac-4f56-473c-8d7e-d93f753fd586"
+  "artistMbid": "e57f0cac-4f56-473c-8d7e-d93f753fd586",
+  "lastfm": {
+    "id": "Steve+Miller+Band/_/The+Joker",
+    "listeners": 892853,
+    "playcount": 5385036
+  }
 }

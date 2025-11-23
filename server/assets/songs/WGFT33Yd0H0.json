@@ -20,13 +20,13 @@
     "youtube": "WGFT33Yd0H0",
     "youtubeMusic": "WGFT33Yd0H0"
   },
-  "lastfmId": "Josiah+Steinbrick/_/Full+Bloom",
-  "listeners": 28431,
-  "playcount": 81978,
   "lastfm": {
     "title": "Full Bloom",
     "artist": "Josiah Steinbrick",
     "mbid": "08da08c5-9dae-48f7-9baa-d3e86fe3a762",
-    "artistMbid": "3143853f-44ce-49d5-b7ec-b59e8a6cf871"
+    "artistMbid": "3143853f-44ce-49d5-b7ec-b59e8a6cf871",
+    "id": "Josiah+Steinbrick/_/Full+Bloom",
+    "listeners": 28431,
+    "playcount": 81978
   }
 }

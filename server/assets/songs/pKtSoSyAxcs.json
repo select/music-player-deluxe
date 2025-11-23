@@ -12,8 +12,10 @@
     "youtubeMusic": "pKtSoSyAxcs"
   },
   "mbid": "e7243be9-5d90-3007-b56e-11f281f2b4c5",
-  "lastfmId": "Intombi+Zephepha/_/Ingoina+Le+Nyathi",
-  "listeners": 6178,
-  "playcount": 15188,
-  "artistMbid": "736cd91d-5b1a-41cd-925b-217df9bda11c"
+  "artistMbid": "736cd91d-5b1a-41cd-925b-217df9bda11c",
+  "lastfm": {
+    "id": "Intombi+Zephepha/_/Ingoina+Le+Nyathi",
+    "listeners": 6178,
+    "playcount": 15188
+  }
 }

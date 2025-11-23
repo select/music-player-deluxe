@@ -19,14 +19,16 @@
     "youtube": "U6EAEln-a7Q",
     "youtubeMusic": "U6EAEln-a7Q"
   },
-  "lastfmId": "Paul+Cornish/_/DB+Song",
-  "listeners": 806,
-  "playcount": 1467,
   "artistMbid": "104721c5-f679-4627-9462-26ad5d15f082",
   "musicbrainz": {
     "tags": [
       "contemporary jazz",
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Paul+Cornish/_/DB+Song",
+    "listeners": 806,
+    "playcount": 1467
   }
 }

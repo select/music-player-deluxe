@@ -22,9 +22,6 @@
     "youtubeMusic": "hBnU8ISP_a0"
   },
   "mbid": "25114513-134b-3cbd-9110-50ebea10436a",
-  "lastfmId": "The+Good+Life/_/Album+of+the+Year",
-  "listeners": 61495,
-  "playcount": 464154,
   "artistMbid": "0ad7bbcd-6e77-4dc0-bb61-e331c46f70ec",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "folk rock",
       "indie rock"
     ]
+  },
+  "lastfm": {
+    "id": "The+Good+Life/_/Album+of+the+Year",
+    "listeners": 61495,
+    "playcount": 464154
   }
 }

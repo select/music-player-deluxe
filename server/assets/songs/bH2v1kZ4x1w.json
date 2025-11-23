@@ -18,13 +18,15 @@
     "youtube": "bH2v1kZ4x1w",
     "youtubeMusic": "bH2v1kZ4x1w"
   },
-  "lastfmId": "Skee+Mask/_/Nostaglitch",
-  "listeners": 4805,
-  "playcount": 17796,
   "artistMbid": "2b3e25ba-983e-44ac-9def-907e03910cd2",
   "musicbrainz": {
     "tags": [
       "ambient"
     ]
+  },
+  "lastfm": {
+    "id": "Skee+Mask/_/Nostaglitch",
+    "listeners": 4805,
+    "playcount": 17796
   }
 }

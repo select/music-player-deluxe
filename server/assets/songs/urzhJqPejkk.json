@@ -21,7 +21,9 @@
     "youtube": "urzhJqPejkk",
     "youtubeMusic": "urzhJqPejkk"
   },
-  "lastfmId": "Terry+Callier/_/Cotton+Eyed+Joe",
-  "listeners": 11448,
-  "playcount": 33130
+  "lastfm": {
+    "id": "Terry+Callier/_/Cotton+Eyed+Joe",
+    "listeners": 11448,
+    "playcount": 33130
+  }
 }

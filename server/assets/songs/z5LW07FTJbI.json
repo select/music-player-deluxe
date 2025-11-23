@@ -9,7 +9,9 @@
     "youtube": "z5LW07FTJbI",
     "youtubeMusic": "z5LW07FTJbI"
   },
-  "lastfmId": "Zombie+Nation/_/zombie+nation+-+Kernkraft+400",
-  "listeners": 400,
-  "playcount": 1751
+  "lastfm": {
+    "id": "Zombie+Nation/_/zombie+nation+-+Kernkraft+400",
+    "listeners": 400,
+    "playcount": 1751
+  }
 }

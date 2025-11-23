@@ -19,10 +19,6 @@
     "youtubeMusic": "1iAYhQsQhSY"
   },
   "mbid": "bf5210ed-0124-469e-9f83-d06d4b5ef965",
-  "lastfmId": "Nathaniel+Rateliff+&+the+Night+Sweats/_/S.O.B.",
-  "listeners": 190910,
-  "playcount": 1129381,
-  "lastfmSummary": "Rateliff has said the song is about drinking one's life away after a break-up, and that the lyrics are based on his personal experience with delirium tremens during alcohol withdrawal. He also described it as a \"joke song\" and said that originally his band didn't plan to record it, but due to positive reception, did so and released it as a single.  The music video was released on July 15, 2015.  It was directed and edited by Greg Barnes, and produced by Melissa Giles. <a href=\"http://www.last.fm/music/Nathaniel+Rateliff+&+the+Night+Sweats/_/S.O.B.\">Read more on Last.fm</a>.",
   "artistMbid": "52a4de43-92f5-4995-9a71-07d67dd35b7d",
   "musicbrainz": {
     "artistTags": [
@@ -31,5 +27,11 @@
     "artistGenres": [
       "folk rock"
     ]
+  },
+  "lastfm": {
+    "id": "Nathaniel+Rateliff+&+the+Night+Sweats/_/S.O.B.",
+    "listeners": 190910,
+    "playcount": 1129381,
+    "summary": "Rateliff has said the song is about drinking one's life away after a break-up, and that the lyrics are based on his personal experience with delirium tremens during alcohol withdrawal. He also described it as a \"joke song\" and said that originally his band didn't plan to record it, but due to positive reception, did so and released it as a single.  The music video was released on July 15, 2015.  It was directed and edited by Greg Barnes, and produced by Melissa Giles. <a href=\"http://www.last.fm/music/Nathaniel+Rateliff+&+the+Night+Sweats/_/S.O.B.\">Read more on Last.fm</a>."
   }
 }

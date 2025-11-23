@@ -20,7 +20,9 @@
     "youtube": "FbzXkOVs_UU",
     "youtubeMusic": "FbzXkOVs_UU"
   },
-  "lastfmId": "Manudigital/_/Don%27t+Call+Me+Local+(Digital+Session)",
-  "listeners": 11,
-  "playcount": 23
+  "lastfm": {
+    "id": "Manudigital/_/Don%27t+Call+Me+Local+(Digital+Session)",
+    "listeners": 11,
+    "playcount": 23
+  }
 }

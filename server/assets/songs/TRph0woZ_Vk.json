@@ -17,9 +17,6 @@
     "youtube": "TRph0woZ_Vk",
     "youtubeMusic": "TRph0woZ_Vk"
   },
-  "lastfmId": "Soulwax/_/New+Earth+Time",
-  "listeners": 8181,
-  "playcount": 20706,
   "musicbrainz": {
     "artistTags": [
       "alternative",
@@ -35,5 +32,10 @@
       "new rave",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Soulwax/_/New+Earth+Time",
+    "listeners": 8181,
+    "playcount": 20706
   }
 }

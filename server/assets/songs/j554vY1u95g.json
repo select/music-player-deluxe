@@ -12,9 +12,6 @@
     "youtubeMusic": "j554vY1u95g"
   },
   "mbid": "30d41d71-c0a7-370e-885f-74b02eb60737",
-  "lastfmId": "Helge+Schneider/_/Bonbon+aus+Wurst",
-  "listeners": 22035,
-  "playcount": 71037,
   "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
       "kabarett",
       "spoken word"
     ]
+  },
+  "lastfm": {
+    "id": "Helge+Schneider/_/Bonbon+aus+Wurst",
+    "listeners": 22035,
+    "playcount": 71037
   }
 }

@@ -24,13 +24,15 @@
     "youtubeMusic": "7_EeCkHs-e0"
   },
   "name": "Bezos I",
-  "lastfmId": "Bo+Burnham/_/Bezos+I",
-  "listeners": 449913,
-  "playcount": 4335992,
-  "lastfmSummary": "This song is about and parodies Amazon CEO Jeff Bezos, referred to as Jeffrey in the song. <a href=\"http://www.last.fm/music/Bo+Burnham/_/Bezos+I\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "comedy"
     ]
+  },
+  "lastfm": {
+    "id": "Bo+Burnham/_/Bezos+I",
+    "listeners": 449913,
+    "playcount": 4335992,
+    "summary": "This song is about and parodies Amazon CEO Jeff Bezos, referred to as Jeffrey in the song. <a href=\"http://www.last.fm/music/Bo+Burnham/_/Bezos+I\">Read more on Last.fm</a>."
   }
 }

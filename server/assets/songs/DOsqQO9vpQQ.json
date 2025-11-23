@@ -13,11 +13,11 @@
     "youtube": "DOsqQO9vpQQ",
     "youtubeMusic": "DOsqQO9vpQQ"
   },
-  "lastfmId": "Danny+Brown/_/Get+Hi",
-  "listeners": 115531,
-  "playcount": 570552,
   "lastfm": {
     "title": "Get Hi",
-    "artist": "Danny Brown"
+    "artist": "Danny Brown",
+    "id": "Danny+Brown/_/Get+Hi",
+    "listeners": 115531,
+    "playcount": 570552
   }
 }

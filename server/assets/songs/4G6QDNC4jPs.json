@@ -18,11 +18,7 @@
     "youtubeMusic": "4G6QDNC4jPs"
   },
   "mbid": "7e8e7768-7cf1-38e7-84e8-83b08cc5d738",
-  "lastfmId": "Cascada/_/Everytime+We+Touch",
-  "listeners": 924274,
-  "playcount": 6619251,
   "artistMbid": "04af2581-6692-4f14-a7fe-151a36f20368",
-  "lastfmSummary": "\"Everytime We Touch\" is a song by German techno and Eurodance trio Cascada, taken from their 2007 debut album of the same name. It was written, composed, and produced by the band's DJs, Manian and Yanou; however, the only writing/composing credits were given to Maggie Reilly, Stuart Mackilliop, and Peter Risavy, as the song borrows the chorus from Reilly's single of the same name. \"Everytime We Touch\" was first released in the United States on 16 August 2005 by Robbins Entertainment. <a href=\"http://www.last.fm/music/Cascada/_/Everytime+We+Touch\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "dance",
@@ -31,5 +27,11 @@
       "techno",
       "trance"
     ]
+  },
+  "lastfm": {
+    "id": "Cascada/_/Everytime+We+Touch",
+    "listeners": 924274,
+    "playcount": 6619251,
+    "summary": "\"Everytime We Touch\" is a song by German techno and Eurodance trio Cascada, taken from their 2007 debut album of the same name. It was written, composed, and produced by the band's DJs, Manian and Yanou; however, the only writing/composing credits were given to Maggie Reilly, Stuart Mackilliop, and Peter Risavy, as the song borrows the chorus from Reilly's single of the same name. \"Everytime We Touch\" was first released in the United States on 16 August 2005 by Robbins Entertainment. <a href=\"http://www.last.fm/music/Cascada/_/Everytime+We+Touch\">Read more on Last.fm</a>."
   }
 }

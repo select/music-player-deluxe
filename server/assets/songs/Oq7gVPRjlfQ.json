@@ -19,13 +19,13 @@
     "youtube": "Oq7gVPRjlfQ",
     "youtubeMusic": "Oq7gVPRjlfQ"
   },
-  "lastfmId": "Deluxe/_/Tum+Rakak",
-  "listeners": 30848,
-  "playcount": 158471,
   "lastfm": {
     "title": "Tum Rakak",
     "artist": "Deluxe",
     "mbid": "ce9411c8-a55a-408c-b427-cdf7ecd90ec0",
-    "artistMbid": "05844b7c-f966-447f-be26-984e2e842399"
+    "artistMbid": "05844b7c-f966-447f-be26-984e2e842399",
+    "id": "Deluxe/_/Tum+Rakak",
+    "listeners": 30848,
+    "playcount": 158471
   }
 }

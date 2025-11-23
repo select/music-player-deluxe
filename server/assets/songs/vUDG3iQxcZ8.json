@@ -16,9 +16,6 @@
     "youtubeMusic": "vUDG3iQxcZ8"
   },
   "mbid": "7a517fc1-ef3c-4e21-88b0-9529fb263685",
-  "lastfmId": "Silversun+Pickups/_/Widow%27s+Weeds",
-  "listeners": 9653,
-  "playcount": 42163,
   "artistMbid": "b5bd9f88-962e-4730-84a7-795592ba42e8",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "rock",
       "shoegaze"
     ]
+  },
+  "lastfm": {
+    "id": "Silversun+Pickups/_/Widow%27s+Weeds",
+    "listeners": 9653,
+    "playcount": 42163
   }
 }

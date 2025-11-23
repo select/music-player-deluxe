@@ -12,7 +12,9 @@
     "youtube": "_7S4y4RaeO8",
     "youtubeMusic": "_7S4y4RaeO8"
   },
-  "lastfmId": "DJ+Jacob/_/SWAT",
-  "listeners": 520,
-  "playcount": 1588
+  "lastfm": {
+    "id": "DJ+Jacob/_/SWAT",
+    "listeners": 520,
+    "playcount": 1588
+  }
 }

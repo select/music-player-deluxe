@@ -20,8 +20,10 @@
     "youtubeMusic": "beAjcsqRt3c"
   },
   "mbid": "9ab845db-bb0f-3432-959d-de25adc4b1ed",
-  "lastfmId": "Azucarillo+Kings/_/%C2%BFMe+Lo+Dices+o+Me+Lo+Cuentas%3F",
-  "listeners": 2088,
-  "playcount": 8264,
-  "artistMbid": "96852f3a-c726-415a-adf3-1e33cdbe9d3c"
+  "artistMbid": "96852f3a-c726-415a-adf3-1e33cdbe9d3c",
+  "lastfm": {
+    "id": "Azucarillo+Kings/_/%C2%BFMe+Lo+Dices+o+Me+Lo+Cuentas%3F",
+    "listeners": 2088,
+    "playcount": 8264
+  }
 }

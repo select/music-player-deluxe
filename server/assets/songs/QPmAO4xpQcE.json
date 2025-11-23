@@ -14,8 +14,10 @@
     "youtubeMusic": "QPmAO4xpQcE"
   },
   "mbid": "6999992c-3913-463f-abdc-9a370e9bd489",
-  "lastfmId": "Foxygen/_/Shuggie",
-  "listeners": 355963,
-  "playcount": 2598222,
-  "artistMbid": "913e6848-6865-4717-ac5e-3bd9c22826be"
+  "artistMbid": "913e6848-6865-4717-ac5e-3bd9c22826be",
+  "lastfm": {
+    "id": "Foxygen/_/Shuggie",
+    "listeners": 355963,
+    "playcount": 2598222
+  }
 }

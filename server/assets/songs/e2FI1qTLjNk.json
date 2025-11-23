@@ -20,13 +20,13 @@
     "youtube": "e2FI1qTLjNk",
     "youtubeMusic": "e2FI1qTLjNk"
   },
-  "lastfmId": "Lustt/_/Pillow+Talk",
-  "listeners": 24151,
-  "playcount": 157337,
   "lastfm": {
     "title": "Pillow Talk",
     "artist": "Lustt",
     "mbid": "d1bfa6fc-5391-4b53-b5c5-31f5917f1f5c",
-    "artistMbid": "3485ddd2-ec82-4bed-96c9-657d7ef7cc3a"
+    "artistMbid": "3485ddd2-ec82-4bed-96c9-657d7ef7cc3a",
+    "id": "Lustt/_/Pillow+Talk",
+    "listeners": 24151,
+    "playcount": 157337
   }
 }

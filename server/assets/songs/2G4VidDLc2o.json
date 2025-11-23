@@ -15,7 +15,9 @@
     "youtube": "2G4VidDLc2o",
     "youtubeMusic": "2G4VidDLc2o"
   },
-  "lastfmId": "Raze+de+Soare/_/Ne+Am+Despartit+-+Original+Mix",
-  "listeners": 4865,
-  "playcount": 21079
+  "lastfm": {
+    "id": "Raze+de+Soare/_/Ne+Am+Despartit+-+Original+Mix",
+    "listeners": 4865,
+    "playcount": 21079
+  }
 }

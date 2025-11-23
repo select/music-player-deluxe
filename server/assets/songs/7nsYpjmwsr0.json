@@ -3,13 +3,13 @@
   "title": "Excitation",
   "artist": "Brutus",
   "lastFetched": "2025-11-23T15:49:32.751Z",
-  "lastfmId": "Brutus/_/excitation",
-  "listeners": 196,
-  "playcount": 633,
   "lastfm": {
     "title": "excitation",
     "artist": "Brutus",
     "mbid": "6883c217-487c-4a63-838f-7b1b48ea62bd",
-    "artistMbid": "2229d04c-ce92-4024-94d2-e005b2aa3f60"
+    "artistMbid": "2229d04c-ce92-4024-94d2-e005b2aa3f60",
+    "id": "Brutus/_/excitation",
+    "listeners": 196,
+    "playcount": 633
   }
 }

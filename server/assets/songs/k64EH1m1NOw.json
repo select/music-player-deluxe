@@ -16,9 +16,6 @@
     "youtubeMusic": "k64EH1m1NOw"
   },
   "mbid": "40783032-9576-450e-9934-54612cae0e83",
-  "lastfmId": "Rival+Consoles/_/Articulation",
-  "listeners": 28558,
-  "playcount": 113258,
   "artistMbid": "803f2853-7e3e-4dff-96a7-9f77b5f56de5",
   "musicbrainz": {
     "artistTags": [
@@ -27,5 +24,10 @@
     "artistGenres": [
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "Rival+Consoles/_/Articulation",
+    "listeners": 28558,
+    "playcount": 113258
   }
 }

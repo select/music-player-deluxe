@@ -18,9 +18,6 @@
     "youtubeMusic": "smpTDkLCYb0"
   },
   "mbid": "019a1378-2cdc-4425-95f4-f84733872e05",
-  "lastfmId": "Vangelis/_/Main+Titles",
-  "listeners": 125040,
-  "playcount": 605061,
   "artistMbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f",
   "musicbrainz": {
     "tags": [
@@ -61,5 +58,10 @@
       "experimental",
       "instrumental"
     ]
+  },
+  "lastfm": {
+    "id": "Vangelis/_/Main+Titles",
+    "listeners": 125040,
+    "playcount": 605061
   }
 }

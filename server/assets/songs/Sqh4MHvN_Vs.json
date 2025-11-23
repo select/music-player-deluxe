@@ -19,8 +19,10 @@
     "youtube": "Sqh4MHvN_Vs",
     "youtubeMusic": "Sqh4MHvN_Vs"
   },
-  "lastfmId": "Rheingold/_/Dreiklangsdimensionen+(Remastered+2005)",
-  "listeners": 259,
-  "playcount": 855,
-  "artistMbid": "a21b29e1-220b-47f7-8dd3-d6d4885d807a"
+  "artistMbid": "a21b29e1-220b-47f7-8dd3-d6d4885d807a",
+  "lastfm": {
+    "id": "Rheingold/_/Dreiklangsdimensionen+(Remastered+2005)",
+    "listeners": 259,
+    "playcount": 855
+  }
 }

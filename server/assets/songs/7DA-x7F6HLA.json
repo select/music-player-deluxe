@@ -3,7 +3,9 @@
   "title": "The Cat - The Beast",
   "artist": "Graham mushnik",
   "lastFetched": "2025-11-19T10:57:12.311Z",
-  "lastfmId": "Graham+mushnik/_/The+Cat+-+The+Beast",
-  "listeners": 178,
-  "playcount": 753
+  "lastfm": {
+    "id": "Graham+mushnik/_/The+Cat+-+The+Beast",
+    "listeners": 178,
+    "playcount": 753
+  }
 }

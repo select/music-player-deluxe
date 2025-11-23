@@ -12,13 +12,13 @@
     "youtube": "JkfuBg2DhlM",
     "youtubeMusic": "JkfuBg2DhlM"
   },
-  "lastfmId": "Hand+Habits/_/Aquamarine",
-  "listeners": 34562,
-  "playcount": 119856,
   "lastfm": {
     "title": "Aquamarine",
     "artist": "Hand Habits",
     "mbid": "4cf84dcf-02c6-405a-9212-39713d4e4da5",
-    "artistMbid": "a92d48e1-40a9-457d-971c-ddb748d78759"
+    "artistMbid": "a92d48e1-40a9-457d-971c-ddb748d78759",
+    "id": "Hand+Habits/_/Aquamarine",
+    "listeners": 34562,
+    "playcount": 119856
   }
 }

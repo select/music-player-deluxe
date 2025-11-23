@@ -13,9 +13,6 @@
     "youtubeMusic": "uep8z9pujiE"
   },
   "mbid": "54faa8b5-f8ca-4187-8b17-941fe915e7ef",
-  "lastfmId": "Tantrum+Desire/_/Zealous",
-  "listeners": 2719,
-  "playcount": 9481,
   "artistMbid": "5b009716-f46f-4dc4-97ce-aabbf422bcf4",
   "musicbrainz": {
     "artistTags": [
@@ -26,5 +23,10 @@
       "drum and bass",
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "Tantrum+Desire/_/Zealous",
+    "listeners": 2719,
+    "playcount": 9481
   }
 }

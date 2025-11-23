@@ -4,7 +4,9 @@
   "artist": "Cktrl",
   "lastFetched": "2025-11-19T10:42:25.847Z",
   "mbid": "7c8f2dce-7eef-4a3b-a51e-875bb464f659",
-  "lastfmId": "Cktrl/_/Will+the+Feelings+Leave",
-  "listeners": 3304,
-  "playcount": 11372
+  "lastfm": {
+    "id": "Cktrl/_/Will+the+Feelings+Leave",
+    "listeners": 3304,
+    "playcount": 11372
+  }
 }

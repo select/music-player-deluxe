@@ -24,9 +24,6 @@
     "youtube": "ZgzxQzWi4yg",
     "youtubeMusic": "ZgzxQzWi4yg"
   },
-  "lastfmId": "Hannes+Wader/_/Es+ist+an+der+Zeit",
-  "listeners": 3239,
-  "playcount": 18047,
   "musicbrainz": {
     "artistTags": [
       "folk",
@@ -35,5 +32,10 @@
       "liedermacher",
       "singer-songwriter"
     ]
+  },
+  "lastfm": {
+    "id": "Hannes+Wader/_/Es+ist+an+der+Zeit",
+    "listeners": 3239,
+    "playcount": 18047
   }
 }

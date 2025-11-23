@@ -18,8 +18,10 @@
     "youtubeMusic": "muw5aPW49as"
   },
   "mbid": "18863fe1-ca00-4960-b148-af04be1bd3aa",
-  "lastfmId": "Die+Nerven/_/Dunst",
-  "listeners": 2729,
-  "playcount": 16240,
-  "artistMbid": "4b123fba-8458-44d9-a64c-a469029fde9b"
+  "artistMbid": "4b123fba-8458-44d9-a64c-a469029fde9b",
+  "lastfm": {
+    "id": "Die+Nerven/_/Dunst",
+    "listeners": 2729,
+    "playcount": 16240
+  }
 }

@@ -12,7 +12,9 @@
     "youtube": "adqS5gsNThM",
     "youtubeMusic": "adqS5gsNThM"
   },
-  "lastfmId": "Simple+Minds/_/This+Earth+That+You+Walk+Upon",
-  "listeners": 10957,
-  "playcount": 36526
+  "lastfm": {
+    "id": "Simple+Minds/_/This+Earth+That+You+Walk+Upon",
+    "listeners": 10957,
+    "playcount": 36526
+  }
 }

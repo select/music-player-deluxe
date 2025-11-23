@@ -16,8 +16,10 @@
     "youtubeMusic": "We44KBcczEI"
   },
   "name": "Liebesbriefe",
-  "lastfmId": "fyne/_/Liebesbriefe",
-  "listeners": 8504,
-  "playcount": 63350,
-  "lastfmSummary": "Release-Date: 09.05.2024 <a href=\"http://www.last.fm/music/fyne/_/Liebesbriefe\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "fyne/_/Liebesbriefe",
+    "listeners": 8504,
+    "playcount": 63350,
+    "summary": "Release-Date: 09.05.2024 <a href=\"http://www.last.fm/music/fyne/_/Liebesbriefe\">Read more on Last.fm</a>."
+  }
 }

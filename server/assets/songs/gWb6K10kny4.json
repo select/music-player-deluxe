@@ -14,7 +14,9 @@
     "youtube": "gWb6K10kny4",
     "youtubeMusic": "gWb6K10kny4"
   },
-  "lastfmId": "Working+Men%27s+Club/_/Fear+Fear",
-  "listeners": 5751,
-  "playcount": 20011
+  "lastfm": {
+    "id": "Working+Men%27s+Club/_/Fear+Fear",
+    "listeners": 5751,
+    "playcount": 20011
+  }
 }

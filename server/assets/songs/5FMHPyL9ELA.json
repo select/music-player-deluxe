@@ -20,9 +20,6 @@
     "youtubeMusic": "5FMHPyL9ELA"
   },
   "mbid": "051a930a-eb24-47c9-b4a0-ff2b417193f3",
-  "lastfmId": "Silly/_/Schlohwei%C3%9Fer+Tag",
-  "listeners": 3027,
-  "playcount": 9748,
   "artistMbid": "be28f50e-2d75-4fb2-95c3-371fda5c2667",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "neue deutsche welle",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Silly/_/Schlohwei%C3%9Fer+Tag",
+    "listeners": 3027,
+    "playcount": 9748
   }
 }

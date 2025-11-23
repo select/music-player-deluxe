@@ -16,11 +16,7 @@
     "youtubeMusic": "StV9lElcvAY"
   },
   "mbid": "023ae207-b559-4efc-ab80-e40549fa79dd",
-  "lastfmId": "The+Brian+Jonestown+Massacre/_/Anemone",
-  "listeners": 363619,
-  "playcount": 2796338,
   "artistMbid": "381e8434-109a-439c-8acc-5d328359f2e0",
-  "lastfmSummary": "This is the incorrect spelling for Anenome, a song by The Brian Jonestown Massacre. The song is sung by Mara Keagle.\n\nNB. 'Anemone' is the correct spelling for the real word, but the track title was purposely spelt 'Anenome', as seen on the track listing for 'Their Satanic Majesties' Second Request', and eight years later on the track listing and liner notes for the compilation 'Tepid Peppermint Wonderland: A Retrospective'. The word 'Anenome' is perhaps a contraction of the name of principal songwriter Anton Newcombe. <a href=\"http://www.last.fm/music/The+Brian+Jonestown+Massacre/_/Anemone\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "neo-psychedelia"
@@ -28,5 +24,11 @@
     "artistGenres": [
       "neo-psychedelia"
     ]
+  },
+  "lastfm": {
+    "id": "The+Brian+Jonestown+Massacre/_/Anemone",
+    "listeners": 363619,
+    "playcount": 2796338,
+    "summary": "This is the incorrect spelling for Anenome, a song by The Brian Jonestown Massacre. The song is sung by Mara Keagle.\n\nNB. 'Anemone' is the correct spelling for the real word, but the track title was purposely spelt 'Anenome', as seen on the track listing for 'Their Satanic Majesties' Second Request', and eight years later on the track listing and liner notes for the compilation 'Tepid Peppermint Wonderland: A Retrospective'. The word 'Anenome' is perhaps a contraction of the name of principal songwriter Anton Newcombe. <a href=\"http://www.last.fm/music/The+Brian+Jonestown+Massacre/_/Anemone\">Read more on Last.fm</a>."
   }
 }

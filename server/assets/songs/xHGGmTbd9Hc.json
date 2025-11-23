@@ -20,13 +20,15 @@
     "youtube": "xHGGmTbd9Hc",
     "youtubeMusic": "xHGGmTbd9Hc"
   },
-  "lastfmId": "Wise+Guys/_/Wie+kann+es+sein",
-  "listeners": 14518,
-  "playcount": 56701,
   "musicbrainz": {
     "tags": [
       "pop",
       "vocal"
     ]
+  },
+  "lastfm": {
+    "id": "Wise+Guys/_/Wie+kann+es+sein",
+    "listeners": 14518,
+    "playcount": 56701
   }
 }

@@ -14,8 +14,10 @@
     "youtube": "EL4Md0c91Ag",
     "youtubeMusic": "EL4Md0c91Ag"
   },
-  "lastfmId": "Violet+Eves/_/Listen+Over+The+Ocean",
-  "listeners": 15755,
-  "playcount": 63033,
-  "artistMbid": "34b4ed42-9571-4020-a5b0-031d2af8ab58"
+  "artistMbid": "34b4ed42-9571-4020-a5b0-031d2af8ab58",
+  "lastfm": {
+    "id": "Violet+Eves/_/Listen+Over+The+Ocean",
+    "listeners": 15755,
+    "playcount": 63033
+  }
 }

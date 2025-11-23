@@ -13,8 +13,10 @@
     "youtubeMusic": "EoRCCBoi4dc"
   },
   "mbid": "291b9c08-1756-48f7-acfc-94b1e68bb87f",
-  "lastfmId": "Minus+8/_/White",
-  "listeners": 35844,
-  "playcount": 101728,
-  "artistMbid": "463a94f1-2713-40b1-9c88-dcc9c0170cae"
+  "artistMbid": "463a94f1-2713-40b1-9c88-dcc9c0170cae",
+  "lastfm": {
+    "id": "Minus+8/_/White",
+    "listeners": 35844,
+    "playcount": 101728
+  }
 }

@@ -22,11 +22,7 @@
     "youtubeMusic": "VKzWLUQizz8"
   },
   "mbid": "01492e36-f10e-48ca-8d5c-4aa120da646b",
-  "lastfmId": "Justice/_/Genesis",
-  "listeners": 969378,
-  "playcount": 7110491,
   "artistMbid": "860b2707-6153-4e3a-aa57-74d2b42c55b5",
-  "lastfmSummary": "“Genesis“ is a track by French electronic duo Justice. They borrowed the hand clap from 50 Cent's \"In Da Club,\" plus samples of Slipknot and Queen. However, none of them are credited. De Rosnay explained to MTV News that this was because, \"they are such short samples no one can recognize them. The ones from Slipknot, for example, are just tiny bits of the voice.\"\n\nAmong the television shows this has featured in are the CBS legal drama Shark and the BBC documentary series Doctor Who Confidential. <a href=\"http://www.last.fm/music/Justice/_/Genesis\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "dance",
@@ -47,5 +43,11 @@
       "electro-disco",
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "Justice/_/Genesis",
+    "listeners": 969378,
+    "playcount": 7110491,
+    "summary": "“Genesis“ is a track by French electronic duo Justice. They borrowed the hand clap from 50 Cent's \"In Da Club,\" plus samples of Slipknot and Queen. However, none of them are credited. De Rosnay explained to MTV News that this was because, \"they are such short samples no one can recognize them. The ones from Slipknot, for example, are just tiny bits of the voice.\"\n\nAmong the television shows this has featured in are the CBS legal drama Shark and the BBC documentary series Doctor Who Confidential. <a href=\"http://www.last.fm/music/Justice/_/Genesis\">Read more on Last.fm</a>."
   }
 }

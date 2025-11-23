@@ -6,13 +6,15 @@
   "youtubeId": "HmLwcWSGHnM",
   "lastFetched": "2025-11-19T05:08:46.270Z",
   "releaseCount": 1,
-  "lastfmId": "Caspa/_/Rubber+Chicken",
-  "listeners": 9911,
-  "playcount": 36260,
   "artistMbid": "dc9b8085-fe1e-4b83-8d41-6dd8d295513c",
   "musicbrainz": {
     "tags": [
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "Caspa/_/Rubber+Chicken",
+    "listeners": 9911,
+    "playcount": 36260
   }
 }

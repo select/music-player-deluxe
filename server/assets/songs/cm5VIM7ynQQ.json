@@ -14,10 +14,6 @@
     "youtubeMusic": "cm5VIM7ynQQ"
   },
   "mbid": "0013b878-337a-4ab9-86f2-d043bc38761f",
-  "lastfmId": "Guns+N%27+Roses/_/Estranged",
-  "listeners": 396311,
-  "playcount": 2968488,
-  "lastfmSummary": "\"Estranged\" is a song and music video by the American hard rock band Guns N' Roses, from their fourth album Use Your Illusion II.\n\n\"Estranged\" is the longest song on Use Your Illusion II, and one of Guns N' Roses' longest overall. It has many verses, and no set chorus, as well as distinguished guitar and piano solos. Use Your Illusion II's liner notes thank Slash for \"the killer guitar melodies,\" which captured Axl Rose's vision. Slash has specifically <a href=\"http://www.last.fm/music/Guns+N%27+Roses/_/Estranged\">Read more on Last.fm</a>.",
   "artistMbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +33,11 @@
       "glam metal",
       "hard rock"
     ]
+  },
+  "lastfm": {
+    "id": "Guns+N%27+Roses/_/Estranged",
+    "listeners": 396311,
+    "playcount": 2968488,
+    "summary": "\"Estranged\" is a song and music video by the American hard rock band Guns N' Roses, from their fourth album Use Your Illusion II.\n\n\"Estranged\" is the longest song on Use Your Illusion II, and one of Guns N' Roses' longest overall. It has many verses, and no set chorus, as well as distinguished guitar and piano solos. Use Your Illusion II's liner notes thank Slash for \"the killer guitar melodies,\" which captured Axl Rose's vision. Slash has specifically <a href=\"http://www.last.fm/music/Guns+N%27+Roses/_/Estranged\">Read more on Last.fm</a>."
   }
 }

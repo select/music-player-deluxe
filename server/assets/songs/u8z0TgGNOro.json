@@ -12,8 +12,10 @@
     "youtubeMusic": "u8z0TgGNOro"
   },
   "mbid": "0ebd8e8f-14cb-40bf-b53c-83558b04cc0f",
-  "lastfmId": "Alexander+Robotnick/_/Soundtrack",
-  "listeners": 6172,
-  "playcount": 14332,
-  "artistMbid": "f413aa93-3b67-4e72-8ef5-101cbfdd6428"
+  "artistMbid": "f413aa93-3b67-4e72-8ef5-101cbfdd6428",
+  "lastfm": {
+    "id": "Alexander+Robotnick/_/Soundtrack",
+    "listeners": 6172,
+    "playcount": 14332
+  }
 }

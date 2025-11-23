@@ -17,8 +17,10 @@
     "youtube": "AlXL1WxTLBo",
     "youtubeMusic": "AlXL1WxTLBo"
   },
-  "lastfmId": "Marvin+Zeyss/_/ending",
-  "listeners": 46,
-  "playcount": 161,
-  "artistMbid": "1f67db48-c936-42f2-aee5-68fb6f943d88"
+  "artistMbid": "1f67db48-c936-42f2-aee5-68fb6f943d88",
+  "lastfm": {
+    "id": "Marvin+Zeyss/_/ending",
+    "listeners": 46,
+    "playcount": 161
+  }
 }

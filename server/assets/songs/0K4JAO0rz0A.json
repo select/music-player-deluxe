@@ -7,7 +7,9 @@
   "lastFetched": "2025-11-19T05:02:39.265Z",
   "releaseCount": 1,
   "artistMbid": "6f87329a-e4b2-4eb3-8bc6-5fe8460e08f0",
-  "lastfmId": "Aril+Brikha/_/Deeparture+in+Time",
-  "listeners": 4262,
-  "playcount": 15011
+  "lastfm": {
+    "id": "Aril+Brikha/_/Deeparture+in+Time",
+    "listeners": 4262,
+    "playcount": 15011
+  }
 }

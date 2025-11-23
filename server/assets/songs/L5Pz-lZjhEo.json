@@ -15,8 +15,10 @@
     "youtube": "L5Pz-lZjhEo",
     "youtubeMusic": "L5Pz-lZjhEo"
   },
-  "lastfmId": "Monster+Truck/_/Golden+Woman",
-  "listeners": 7482,
-  "playcount": 23360,
-  "artistMbid": "be517147-c25a-43ba-9f15-cdbe5dde2832"
+  "artistMbid": "be517147-c25a-43ba-9f15-cdbe5dde2832",
+  "lastfm": {
+    "id": "Monster+Truck/_/Golden+Woman",
+    "listeners": 7482,
+    "playcount": 23360
+  }
 }

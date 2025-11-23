@@ -19,8 +19,10 @@
     "youtube": "RFYVrq7d5v4",
     "youtubeMusic": "RFYVrq7d5v4"
   },
-  "lastfmId": "Jasmine+Myra/_/Words+Left+Unspoken",
-  "listeners": 11866,
-  "playcount": 40123,
-  "artistMbid": "5a97aef5-ca14-4711-ac55-5df1c3a28cea"
+  "artistMbid": "5a97aef5-ca14-4711-ac55-5df1c3a28cea",
+  "lastfm": {
+    "id": "Jasmine+Myra/_/Words+Left+Unspoken",
+    "listeners": 11866,
+    "playcount": 40123
+  }
 }

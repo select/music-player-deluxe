@@ -18,7 +18,9 @@
     "youtube": "VJVp9dKWGI0",
     "youtubeMusic": "VJVp9dKWGI0"
   },
-  "lastfmId": "Body+Count/_/Body+Count",
-  "listeners": 46420,
-  "playcount": 162559
+  "lastfm": {
+    "id": "Body+Count/_/Body+Count",
+    "listeners": 46420,
+    "playcount": 162559
+  }
 }

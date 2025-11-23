@@ -21,11 +21,7 @@
     "youtubeMusic": "RGx5wxznSOE"
   },
   "mbid": "45365cc3-8692-300d-a2f3-38b06def2155",
-  "lastfmId": "Radiohead/_/Lurgee",
-  "listeners": 563302,
-  "playcount": 2509120,
   "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-  "lastfmSummary": "In this song about lost love, Thom sings that he is much better off without the other person in his life. \"Lurgee,\" unlike most other songs from this period, found its way into the band's live set in 1998. One of two songs recorded with Chris Hufford at Courtyard Studios, it was selected for inclusion on Pablo Honey. The same version was used as a B-side for \"Creep.\" \n\nIt's pronounced 'L-er-gh-ee', and is an English slang name for a nasty infectious disease.\n <a href=\"http://www.last.fm/music/Radiohead/_/Lurgee\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "alternative",
@@ -46,5 +42,11 @@
       "electronic",
       "electronica"
     ]
+  },
+  "lastfm": {
+    "id": "Radiohead/_/Lurgee",
+    "listeners": 563302,
+    "playcount": 2509120,
+    "summary": "In this song about lost love, Thom sings that he is much better off without the other person in his life. \"Lurgee,\" unlike most other songs from this period, found its way into the band's live set in 1998. One of two songs recorded with Chris Hufford at Courtyard Studios, it was selected for inclusion on Pablo Honey. The same version was used as a B-side for \"Creep.\" \n\nIt's pronounced 'L-er-gh-ee', and is an English slang name for a nasty infectious disease.\n <a href=\"http://www.last.fm/music/Radiohead/_/Lurgee\">Read more on Last.fm</a>."
   }
 }

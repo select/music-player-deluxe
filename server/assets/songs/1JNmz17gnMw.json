@@ -20,8 +20,10 @@
     "youtube": "1JNmz17gnMw",
     "youtubeMusic": "1JNmz17gnMw"
   },
-  "lastfmId": "Polyphia/_/Ego+Death+(feat.+Steve+Vai)",
-  "listeners": 123871,
-  "playcount": 1247477,
-  "artistMbid": "344bfb00-27f0-4ff2-b96b-048ed1c6a968"
+  "artistMbid": "344bfb00-27f0-4ff2-b96b-048ed1c6a968",
+  "lastfm": {
+    "id": "Polyphia/_/Ego+Death+(feat.+Steve+Vai)",
+    "listeners": 123871,
+    "playcount": 1247477
+  }
 }

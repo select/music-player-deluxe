@@ -3,7 +3,9 @@
   "title": "Main Theme",
   "artist": "Star Trek",
   "lastFetched": "2025-11-19T11:45:06.962Z",
-  "lastfmId": "Star+Trek/_/Main+Theme",
-  "listeners": 110,
-  "playcount": 587
+  "lastfm": {
+    "id": "Star+Trek/_/Main+Theme",
+    "listeners": 110,
+    "playcount": 587
+  }
 }

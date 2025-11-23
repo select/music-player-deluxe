@@ -15,11 +15,7 @@
     "youtubeMusic": "Ur8j4xWe_44"
   },
   "mbid": "f62a520d-3ea3-4876-aa01-3ec6efe76c25",
-  "lastfmId": "Johnny+Cash/_/Hurt",
-  "listeners": 1675110,
-  "playcount": 14980426,
   "artistMbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
-  "lastfmSummary": "\"Hurt\" was written by Trent Reznor and first released on Nine Inch Nails' 1994 album The Downward Spiral. Johnny Cash's cover of \"Hurt\" was released on his 2002 album, American IV: The Man Comes Around. \n\nRick Rubin, producer of Cash's American series and a friend of Reznor's, suggested the song to Cash. The line \"crown of shit\" was changed to \"crown of thorns\", not only removing profanity from the lyrics, but also more directly referencing Christ. <a href=\"http://www.last.fm/music/Johnny+Cash/_/Hurt\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "country",
@@ -28,5 +24,11 @@
       "sad",
       "folk"
     ]
+  },
+  "lastfm": {
+    "id": "Johnny+Cash/_/Hurt",
+    "listeners": 1675110,
+    "playcount": 14980426,
+    "summary": "\"Hurt\" was written by Trent Reznor and first released on Nine Inch Nails' 1994 album The Downward Spiral. Johnny Cash's cover of \"Hurt\" was released on his 2002 album, American IV: The Man Comes Around. \n\nRick Rubin, producer of Cash's American series and a friend of Reznor's, suggested the song to Cash. The line \"crown of shit\" was changed to \"crown of thorns\", not only removing profanity from the lyrics, but also more directly referencing Christ. <a href=\"http://www.last.fm/music/Johnny+Cash/_/Hurt\">Read more on Last.fm</a>."
   }
 }

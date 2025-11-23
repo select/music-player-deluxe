@@ -6,8 +6,10 @@
   "youtubeId": "t4WOyladbcA",
   "lastFetched": "2025-11-19T04:34:39.990Z",
   "releaseCount": 1,
-  "lastfmId": "The+Jubalaires/_/God+Almighty%27s+Gonna+Cut+You+Down",
-  "listeners": 134,
-  "playcount": 356,
-  "artistMbid": "da02aff9-5666-4591-8007-a04212a79525"
+  "artistMbid": "da02aff9-5666-4591-8007-a04212a79525",
+  "lastfm": {
+    "id": "The+Jubalaires/_/God+Almighty%27s+Gonna+Cut+You+Down",
+    "listeners": 134,
+    "playcount": 356
+  }
 }

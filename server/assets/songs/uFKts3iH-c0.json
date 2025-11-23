@@ -16,8 +16,10 @@
     "youtube": "uFKts3iH-c0",
     "youtubeMusic": "uFKts3iH-c0"
   },
-  "lastfmId": "Klavdia+Petrivna/_/%D0%97%D0%BD%D0%B0%D0%B9%D0%B4%D0%B8+%D0%BC%D0%B5%D0%BD%D0%B5+(KAVA+REMIX)",
-  "listeners": 676,
-  "playcount": 4685,
-  "artistMbid": "8b064dd8-e707-41d6-b9db-e4d14d7dc4a7"
+  "artistMbid": "8b064dd8-e707-41d6-b9db-e4d14d7dc4a7",
+  "lastfm": {
+    "id": "Klavdia+Petrivna/_/%D0%97%D0%BD%D0%B0%D0%B9%D0%B4%D0%B8+%D0%BC%D0%B5%D0%BD%D0%B5+(KAVA+REMIX)",
+    "listeners": 676,
+    "playcount": 4685
+  }
 }

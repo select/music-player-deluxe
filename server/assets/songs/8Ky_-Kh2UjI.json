@@ -12,8 +12,10 @@
     "youtube": "8Ky_-Kh2UjI",
     "youtubeMusic": "8Ky_-Kh2UjI"
   },
-  "lastfmId": "Crackazat/_/When+We+Last+Met",
-  "listeners": 260,
-  "playcount": 772,
-  "artistMbid": "22b46247-7dbe-4640-a6f1-16c4926cfa4c"
+  "artistMbid": "22b46247-7dbe-4640-a6f1-16c4926cfa4c",
+  "lastfm": {
+    "id": "Crackazat/_/When+We+Last+Met",
+    "listeners": 260,
+    "playcount": 772
+  }
 }

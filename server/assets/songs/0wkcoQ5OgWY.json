@@ -14,9 +14,6 @@
     "youtubeMusic": "0wkcoQ5OgWY"
   },
   "mbid": "09a3b510-52d2-3f32-ac4a-1a07759383e3",
-  "lastfmId": "Herbert+Gr%C3%B6nemeyer/_/Bleibt+alles+anders",
-  "listeners": 32319,
-  "playcount": 129979,
   "artistMbid": "456eabce-d1dd-4481-a206-36ab4f2eaeb8",
   "musicbrainz": {
     "artistTags": [
@@ -31,5 +28,10 @@
       "pop rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Herbert+Gr%C3%B6nemeyer/_/Bleibt+alles+anders",
+    "listeners": 32319,
+    "playcount": 129979
   }
 }

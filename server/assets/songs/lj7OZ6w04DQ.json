@@ -18,7 +18,9 @@
     "youtube": "lj7OZ6w04DQ",
     "youtubeMusic": "lj7OZ6w04DQ"
   },
-  "lastfmId": "Mulo+Francel/_/Open+Questions",
-  "listeners": 26,
-  "playcount": 41
+  "lastfm": {
+    "id": "Mulo+Francel/_/Open+Questions",
+    "listeners": 26,
+    "playcount": 41
+  }
 }

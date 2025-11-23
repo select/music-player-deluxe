@@ -19,9 +19,6 @@
     "youtubeMusic": "UMTTRGM7xBc"
   },
   "mbid": "11c14d5d-17bd-449c-9fc0-8e9b2eda92b2",
-  "lastfmId": "Lee+Ritenour/_/Rose+Pedals",
-  "listeners": 1942,
-  "playcount": 5996,
   "artistMbid": "0c361ea5-98c6-4947-900b-201833f2dd84",
   "musicbrainz": {
     "artistTags": [
@@ -43,5 +40,10 @@
       "jazz pop",
       "jazz rock"
     ]
+  },
+  "lastfm": {
+    "id": "Lee+Ritenour/_/Rose+Pedals",
+    "listeners": 1942,
+    "playcount": 5996
   }
 }

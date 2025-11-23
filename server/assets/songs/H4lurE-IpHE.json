@@ -22,9 +22,6 @@
     "youtubeMusic": "H4lurE-IpHE"
   },
   "mbid": "81a938ef-0410-3c01-85fe-7d1b384f0225",
-  "lastfmId": "The+Who/_/1921",
-  "listeners": 158591,
-  "playcount": 603531,
   "artistMbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
   "musicbrainz": {
     "artistTags": [
@@ -46,5 +43,10 @@
       "hard rock",
       "mod"
     ]
+  },
+  "lastfm": {
+    "id": "The+Who/_/1921",
+    "listeners": 158591,
+    "playcount": 603531
   }
 }

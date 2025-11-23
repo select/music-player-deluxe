@@ -11,8 +11,10 @@
     "youtube": "1fa_npv6y9I",
     "youtubeMusic": "1fa_npv6y9I"
   },
-  "lastfmId": "Junior+H/_/El+Azul",
-  "listeners": 135178,
-  "playcount": 2007162,
-  "artistMbid": "af1b83bb-3edc-4443-b771-67a1d235e82b"
+  "artistMbid": "af1b83bb-3edc-4443-b771-67a1d235e82b",
+  "lastfm": {
+    "id": "Junior+H/_/El+Azul",
+    "listeners": 135178,
+    "playcount": 2007162
+  }
 }

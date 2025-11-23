@@ -19,9 +19,6 @@
     "youtubeMusic": "50Ceq5eBocE"
   },
   "mbid": "2296c3ce-1389-3117-b854-bab479e77eee",
-  "lastfmId": "Bruce+Haack/_/Army+Ants+in+Your+Pants",
-  "listeners": 742,
-  "playcount": 1999,
   "artistMbid": "f9b7f120-3c0d-4ada-bc14-95ad2550e9cf",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "experimental",
       "moogsploitation"
     ]
+  },
+  "lastfm": {
+    "id": "Bruce+Haack/_/Army+Ants+in+Your+Pants",
+    "listeners": 742,
+    "playcount": 1999
   }
 }

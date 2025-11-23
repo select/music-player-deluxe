@@ -14,9 +14,6 @@
     "youtubeMusic": "Cf5O2M5GaEA"
   },
   "mbid": "bdb98fe4-9d89-4970-837c-f7ae1c94eed8",
-  "lastfmId": "Frank+Turner/_/The+Way+I+Tend+To+Be",
-  "listeners": 81169,
-  "playcount": 630492,
   "artistMbid": "aca5718f-4f49-4439-b8f6-209db3f11757",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "punk",
       "singer-songwriter"
     ]
+  },
+  "lastfm": {
+    "id": "Frank+Turner/_/The+Way+I+Tend+To+Be",
+    "listeners": 81169,
+    "playcount": 630492
   }
 }

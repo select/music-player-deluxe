@@ -4,9 +4,6 @@
   "artist": "ИРИНА КАЙРАТОВНА & SHIZA",
   "lastFetched": "2025-11-23T16:37:47.039Z",
   "mbid": "5818d371-978e-473b-8d3f-fb31bb92885d",
-  "lastfmId": "%D0%98%D0%A0%D0%98%D0%9D%D0%90+%D0%9A%D0%90%D0%99%D0%A0%D0%90%D0%A2%D0%9E%D0%92%D0%9D%D0%90+&+SHIZA/_/K%C3%95K+TU",
-  "listeners": 67,
-  "playcount": 380,
   "artistMbid": "b445fc92-e6d5-4221-8796-9551373f670a",
   "musicbrainz": {
     "artistTags": [
@@ -19,5 +16,10 @@
       "hip hop",
       "q-pop"
     ]
+  },
+  "lastfm": {
+    "id": "%D0%98%D0%A0%D0%98%D0%9D%D0%90+%D0%9A%D0%90%D0%99%D0%A0%D0%90%D0%A2%D0%9E%D0%92%D0%9D%D0%90+&+SHIZA/_/K%C3%95K+TU",
+    "listeners": 67,
+    "playcount": 380
   }
 }

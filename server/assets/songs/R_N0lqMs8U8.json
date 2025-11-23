@@ -20,7 +20,9 @@
     "youtube": "R_N0lqMs8U8",
     "youtubeMusic": "R_N0lqMs8U8"
   },
-  "lastfmId": "Selecta+J-Man/_/Foundation+Style",
-  "listeners": 14301,
-  "playcount": 90096
+  "lastfm": {
+    "id": "Selecta+J-Man/_/Foundation+Style",
+    "listeners": 14301,
+    "playcount": 90096
+  }
 }

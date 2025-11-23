@@ -19,9 +19,6 @@
     "youtubeMusic": "DQjAZHBSiJc"
   },
   "mbid": "154d3b09-f843-464b-9dcd-73028c42dfc7",
-  "lastfmId": "Gregory+Porter/_/Musical+Genocide",
-  "listeners": 42908,
-  "playcount": 169815,
   "artistMbid": "7ac1e33f-0cdf-4e81-b914-41830700d746",
   "musicbrainz": {
     "artistTags": [
@@ -43,5 +40,10 @@
       "gospel",
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Gregory+Porter/_/Musical+Genocide",
+    "listeners": 42908,
+    "playcount": 169815
   }
 }

@@ -20,7 +20,9 @@
     "youtube": "BffLmYW04qU",
     "youtubeMusic": "BffLmYW04qU"
   },
-  "lastfmId": "UNGLUED/_/Tilted",
-  "listeners": 469,
-  "playcount": 1074
+  "lastfm": {
+    "id": "UNGLUED/_/Tilted",
+    "listeners": 469,
+    "playcount": 1074
+  }
 }

@@ -14,9 +14,6 @@
     "youtube": "nn27xBY8X68",
     "youtubeMusic": "nn27xBY8X68"
   },
-  "lastfmId": "Del+Shannon/_/The+Swiss+Maid",
-  "listeners": 16032,
-  "playcount": 42390,
   "musicbrainz": {
     "artistTags": [
       "country",
@@ -28,5 +25,10 @@
       "rock and roll",
       "teen pop"
     ]
+  },
+  "lastfm": {
+    "id": "Del+Shannon/_/The+Swiss+Maid",
+    "listeners": 16032,
+    "playcount": 42390
   }
 }

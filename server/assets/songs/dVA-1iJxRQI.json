@@ -13,7 +13,9 @@
     "youtube": "dVA-1iJxRQI",
     "youtubeMusic": "dVA-1iJxRQI"
   },
-  "lastfmId": "Simon+&+Garfunkel/_/A+Hazy+Shade+of+Winter",
-  "listeners": 341080,
-  "playcount": 1628736
+  "lastfm": {
+    "id": "Simon+&+Garfunkel/_/A+Hazy+Shade+of+Winter",
+    "listeners": 341080,
+    "playcount": 1628736
+  }
 }

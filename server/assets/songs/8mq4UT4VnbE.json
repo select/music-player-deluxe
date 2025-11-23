@@ -9,9 +9,11 @@
     "youtube": "8mq4UT4VnbE",
     "youtubeMusic": "8mq4UT4VnbE"
   },
-  "lastfmId": "Cab+Calloway/_/Minnie+the+Moocher",
-  "listeners": 175643,
-  "playcount": 573354,
   "artistMbid": "315bd083-892b-4e76-a9f0-91a7408168fc",
-  "lastfmSummary": "\"Minnie the Moocher\" is a jazz song first recorded in 1931 by Cab Calloway and His Orchestra, selling over 1 million copies. \"Minnie the Moocher\" is most famous for its nonsensical ad libbed (\"scat\") lyrics. \"Minnie the Moocher\" was inducted into the Grammy Hall of Fame in 1999. <a href=\"http://www.last.fm/music/Cab+Calloway/_/Minnie+the+Moocher\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "Cab+Calloway/_/Minnie+the+Moocher",
+    "listeners": 175643,
+    "playcount": 573354,
+    "summary": "\"Minnie the Moocher\" is a jazz song first recorded in 1931 by Cab Calloway and His Orchestra, selling over 1 million copies. \"Minnie the Moocher\" is most famous for its nonsensical ad libbed (\"scat\") lyrics. \"Minnie the Moocher\" was inducted into the Grammy Hall of Fame in 1999. <a href=\"http://www.last.fm/music/Cab+Calloway/_/Minnie+the+Moocher\">Read more on Last.fm</a>."
+  }
 }

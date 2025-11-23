@@ -21,8 +21,10 @@
     "youtube": "dynMUeKLCOA",
     "youtubeMusic": "dynMUeKLCOA"
   },
-  "lastfmId": "John+Lennon/_/Gimme+Some+Truth+(Remastered+2010)",
-  "listeners": 1273,
-  "playcount": 2973,
-  "artistMbid": "4d5447d7-c61c-4120-ba1b-d7f471d385b9"
+  "artistMbid": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+  "lastfm": {
+    "id": "John+Lennon/_/Gimme+Some+Truth+(Remastered+2010)",
+    "listeners": 1273,
+    "playcount": 2973
+  }
 }

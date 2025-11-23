@@ -19,8 +19,10 @@
     "youtube": "SmQkv6wIYug",
     "youtubeMusic": "SmQkv6wIYug"
   },
-  "lastfmId": "Patrick+Watson/_/Perfect+Day+(Piano+Komorebi+Version)",
-  "listeners": 347,
-  "playcount": 1429,
-  "artistMbid": "592da4c4-9618-4a1a-a944-e60c05c39037"
+  "artistMbid": "592da4c4-9618-4a1a-a944-e60c05c39037",
+  "lastfm": {
+    "id": "Patrick+Watson/_/Perfect+Day+(Piano+Komorebi+Version)",
+    "listeners": 347,
+    "playcount": 1429
+  }
 }

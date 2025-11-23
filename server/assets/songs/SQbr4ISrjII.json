@@ -14,9 +14,6 @@
     "youtubeMusic": "SQbr4ISrjII"
   },
   "mbid": "01604eec-365b-4005-a86b-fbf74a9377c0",
-  "lastfmId": "Bob+Dylan/_/Most+of+the+Time",
-  "listeners": 130921,
-  "playcount": 679917,
   "artistMbid": "72c536dc-7137-4477-a521-567eeb840fa8",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "contemporary folk",
       "country"
     ]
+  },
+  "lastfm": {
+    "id": "Bob+Dylan/_/Most+of+the+Time",
+    "listeners": 130921,
+    "playcount": 679917
   }
 }

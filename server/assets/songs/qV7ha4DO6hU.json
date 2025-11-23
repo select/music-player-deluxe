@@ -14,8 +14,10 @@
     "youtube": "qV7ha4DO6hU",
     "youtubeMusic": "qV7ha4DO6hU"
   },
-  "lastfmId": "Patrick+Molard/_/Piper%27s+Dream+-+Fred+Morrison",
-  "listeners": 20,
-  "playcount": 22,
-  "artistMbid": "8f110909-c075-4d54-a253-2a1d510e56ad"
+  "artistMbid": "8f110909-c075-4d54-a253-2a1d510e56ad",
+  "lastfm": {
+    "id": "Patrick+Molard/_/Piper%27s+Dream+-+Fred+Morrison",
+    "listeners": 20,
+    "playcount": 22
+  }
 }

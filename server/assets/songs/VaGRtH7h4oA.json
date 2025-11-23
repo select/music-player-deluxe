@@ -16,9 +16,6 @@
     "youtube": "VaGRtH7h4oA",
     "youtubeMusic": "VaGRtH7h4oA"
   },
-  "lastfmId": "Syd+Barrett/_/Terrapin",
-  "listeners": 230961,
-  "playcount": 951426,
   "artistMbid": "12327d75-47d5-45d9-84c2-3760b9210c17",
   "musicbrainz": {
     "tags": [
@@ -33,5 +30,10 @@
       "psychedelic/garage",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Syd+Barrett/_/Terrapin",
+    "listeners": 230961,
+    "playcount": 951426
   }
 }

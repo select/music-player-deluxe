@@ -16,9 +16,11 @@
     "youtube": "Vppbdf-qtGU",
     "youtubeMusic": "Vppbdf-qtGU"
   },
-  "lastfmId": "ZZ+Top/_/La+Grange",
-  "listeners": 587553,
-  "playcount": 3076920,
   "artistMbid": "a81259a0-a2f5-464b-866e-71220f2739f1",
-  "lastfmSummary": "This song is about the infamous \"Chicken Ranch\" bordello located in La Grange, TX.  It was also idealized in the musical \"Best Little Whorehouse In Texas\" starring Burt Reynolds, Dolly Parton, Jim Nabors and Dom DeLuise.  The Chicken Ranch actually existed and if you're ever down this way, La Grange is located SSW of Austin about midway to Houston. In March 2005, Q magazine placed \"La Grange\" at number 92 in its list of the 100 Greatest Guitar Tracks. <a href=\"http://www.last.fm/music/ZZ+Top/_/La+Grange\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "ZZ+Top/_/La+Grange",
+    "listeners": 587553,
+    "playcount": 3076920,
+    "summary": "This song is about the infamous \"Chicken Ranch\" bordello located in La Grange, TX.  It was also idealized in the musical \"Best Little Whorehouse In Texas\" starring Burt Reynolds, Dolly Parton, Jim Nabors and Dom DeLuise.  The Chicken Ranch actually existed and if you're ever down this way, La Grange is located SSW of Austin about midway to Houston. In March 2005, Q magazine placed \"La Grange\" at number 92 in its list of the 100 Greatest Guitar Tracks. <a href=\"http://www.last.fm/music/ZZ+Top/_/La+Grange\">Read more on Last.fm</a>."
+  }
 }

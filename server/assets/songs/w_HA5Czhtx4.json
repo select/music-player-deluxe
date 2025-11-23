@@ -15,10 +15,6 @@
     "youtube": "w_HA5Czhtx4",
     "youtubeMusic": "w_HA5Czhtx4"
   },
-  "lastfmId": "Tori+Amos/_/Cornflake+Girl",
-  "listeners": 504570,
-  "playcount": 2932564,
-  "lastfmSummary": "\"Cornflake Girl\" is a song by American singer-songwriter Tori Amos. It is the eighth track on Amos' 1994 album Under the Pink. The song reached #4 on the UK singles chart, and was Amos' most successful international hit at the time. In Australia, the song peaked at #19, and was #35 in radio station Triple J's 1994 Hottest 100 poll, appearing on the compilation album of that year's Hottest 100. The song was also ranked in Blender magazine's The 500 Greatest Songs Since You Were Born at #433. <a href=\"http://www.last.fm/music/Tori+Amos/_/Cornflake+Girl\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "adult alternative pop/rock",
@@ -46,5 +42,11 @@
       "singer-songwriter",
       "wip"
     ]
+  },
+  "lastfm": {
+    "id": "Tori+Amos/_/Cornflake+Girl",
+    "listeners": 504570,
+    "playcount": 2932564,
+    "summary": "\"Cornflake Girl\" is a song by American singer-songwriter Tori Amos. It is the eighth track on Amos' 1994 album Under the Pink. The song reached #4 on the UK singles chart, and was Amos' most successful international hit at the time. In Australia, the song peaked at #19, and was #35 in radio station Triple J's 1994 Hottest 100 poll, appearing on the compilation album of that year's Hottest 100. The song was also ranked in Blender magazine's The 500 Greatest Songs Since You Were Born at #433. <a href=\"http://www.last.fm/music/Tori+Amos/_/Cornflake+Girl\">Read more on Last.fm</a>."
   }
 }

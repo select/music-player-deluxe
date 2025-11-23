@@ -15,7 +15,9 @@
     "youtube": "FUKwgSnlrk0",
     "youtubeMusic": "FUKwgSnlrk0"
   },
-  "lastfmId": "Rosalie+Cunningham/_/Duet",
-  "listeners": 3122,
-  "playcount": 11706
+  "lastfm": {
+    "id": "Rosalie+Cunningham/_/Duet",
+    "listeners": 3122,
+    "playcount": 11706
+  }
 }

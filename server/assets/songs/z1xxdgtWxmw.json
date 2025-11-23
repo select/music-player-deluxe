@@ -17,12 +17,14 @@
     "youtube": "z1xxdgtWxmw",
     "youtubeMusic": "z1xxdgtWxmw"
   },
-  "lastfmId": "Getdown+Services/_/Dog+Dribble",
-  "listeners": 49609,
-  "playcount": 235362,
   "musicbrainz": {
     "artistTags": [
       "slacker rock"
     ]
+  },
+  "lastfm": {
+    "id": "Getdown+Services/_/Dog+Dribble",
+    "listeners": 49609,
+    "playcount": 235362
   }
 }

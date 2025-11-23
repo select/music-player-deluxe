@@ -18,7 +18,9 @@
     "youtube": "MIXbnWkN2bk",
     "youtubeMusic": "MIXbnWkN2bk"
   },
-  "lastfmId": "The+Physics+House+Band/_/Club+Quarters",
-  "listeners": 1169,
-  "playcount": 3218
+  "lastfm": {
+    "id": "The+Physics+House+Band/_/Club+Quarters",
+    "listeners": 1169,
+    "playcount": 3218
+  }
 }

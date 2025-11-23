@@ -3,13 +3,13 @@
   "title": "Born 2 Live",
   "artist": "O.C.",
   "lastFetched": "2025-11-23T14:38:38.600Z",
-  "lastfmId": "O.C./_/Born+2+Live",
-  "listeners": 41921,
-  "playcount": 141894,
   "lastfm": {
     "title": "Born 2 Live",
     "artist": "O.C.",
     "mbid": "f9fb22a2-62b2-3d36-bd1c-d6d378cf17c5",
-    "artistMbid": "f804d8c0-bf16-4e15-92db-e3642d629f95"
+    "artistMbid": "f804d8c0-bf16-4e15-92db-e3642d629f95",
+    "id": "O.C./_/Born+2+Live",
+    "listeners": 41921,
+    "playcount": 141894
   }
 }

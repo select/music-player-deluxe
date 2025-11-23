@@ -20,8 +20,10 @@
     "youtube": "JQ11bq0U7t8",
     "youtubeMusic": "JQ11bq0U7t8"
   },
-  "lastfmId": "Rejoicer/_/Elephant+On+Channel+1",
-  "listeners": 238,
-  "playcount": 516,
-  "artistMbid": "9a0e4534-1839-465d-ba6b-1184ede7f618"
+  "artistMbid": "9a0e4534-1839-465d-ba6b-1184ede7f618",
+  "lastfm": {
+    "id": "Rejoicer/_/Elephant+On+Channel+1",
+    "listeners": 238,
+    "playcount": 516
+  }
 }

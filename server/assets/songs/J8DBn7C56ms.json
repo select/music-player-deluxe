@@ -7,7 +7,9 @@
   "lastFetched": "2025-11-19T03:45:52.246Z",
   "releaseCount": 1,
   "artistMbid": "28600c75-8a2b-4498-a2f3-a785ce5ebf5d",
-  "lastfmId": "Gaspar+OM/_/Tengo+Mezcla+%2F+Maneiras",
-  "listeners": 2060,
-  "playcount": 4260
+  "lastfm": {
+    "id": "Gaspar+OM/_/Tengo+Mezcla+%2F+Maneiras",
+    "listeners": 2060,
+    "playcount": 4260
+  }
 }

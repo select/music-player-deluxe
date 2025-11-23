@@ -14,8 +14,10 @@
     "youtube": "Tnaqqyjx6UQ",
     "youtubeMusic": "Tnaqqyjx6UQ"
   },
-  "lastfmId": "Artie+Barsamian/_/Ashough+Em",
-  "listeners": 19,
-  "playcount": 55,
-  "artistMbid": "aafee47a-3b1f-40a0-9657-689ba3851b1f"
+  "artistMbid": "aafee47a-3b1f-40a0-9657-689ba3851b1f",
+  "lastfm": {
+    "id": "Artie+Barsamian/_/Ashough+Em",
+    "listeners": 19,
+    "playcount": 55
+  }
 }

@@ -17,9 +17,6 @@
     "youtubeMusic": "m3clDWcuNhE"
   },
   "mbid": "08c22a69-d6a4-472f-a09f-dde73b03d686",
-  "lastfmId": "Blonde+Redhead/_/Cat+On+Tin+Roof",
-  "listeners": 39665,
-  "playcount": 148518,
   "artistMbid": "6821bf3f-5d5b-4b0f-8fa4-79d2ab2d9219",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "alternative rock",
       "indie rock"
     ]
+  },
+  "lastfm": {
+    "id": "Blonde+Redhead/_/Cat+On+Tin+Roof",
+    "listeners": 39665,
+    "playcount": 148518
   }
 }

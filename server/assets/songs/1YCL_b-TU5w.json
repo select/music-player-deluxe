@@ -11,12 +11,12 @@
     "youtube": "1YCL_b-TU5w",
     "youtubeMusic": "1YCL_b-TU5w"
   },
-  "lastfmId": "Burnt+Friedman/_/Rastafahndung",
-  "listeners": 711,
-  "playcount": 1597,
   "lastfm": {
     "title": "Rastafahndung",
     "artist": "Burnt Friedman",
-    "artistMbid": "2ddb1370-2a5c-48fb-957e-21e2f64cdea3"
+    "artistMbid": "2ddb1370-2a5c-48fb-957e-21e2f64cdea3",
+    "id": "Burnt+Friedman/_/Rastafahndung",
+    "listeners": 711,
+    "playcount": 1597
   }
 }

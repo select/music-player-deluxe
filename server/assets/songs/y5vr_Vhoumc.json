@@ -18,9 +18,6 @@
     "youtubeMusic": "y5vr_Vhoumc"
   },
   "mbid": "801a4e77-1cc7-485c-bb0c-4fd0f3c13015",
-  "lastfmId": "Dead+Sara/_/Weatherman",
-  "listeners": 86781,
-  "playcount": 535679,
   "artistMbid": "0f4fa442-3e9c-4355-8e17-a39386a52077",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "indie rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Dead+Sara/_/Weatherman",
+    "listeners": 86781,
+    "playcount": 535679
   }
 }

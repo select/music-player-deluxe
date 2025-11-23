@@ -18,9 +18,6 @@
     "youtube": "G1ucU1ZfKCs",
     "youtubeMusic": "G1ucU1ZfKCs"
   },
-  "lastfmId": "Todd+Snider/_/ITS+HARD+TO+BE+HAPPY+(Y+IS+FOR+REDNECK)",
-  "listeners": 243,
-  "playcount": 316,
   "artistMbid": "25c13ec7-fad4-4da4-8d98-9607ff615d68",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "folk",
       "singer-songwriter"
     ]
+  },
+  "lastfm": {
+    "id": "Todd+Snider/_/ITS+HARD+TO+BE+HAPPY+(Y+IS+FOR+REDNECK)",
+    "listeners": 243,
+    "playcount": 316
   }
 }

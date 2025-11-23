@@ -11,9 +11,6 @@
     "youtubeMusic": "yCmIp6ndg4E"
   },
   "mbid": "08f0fe36-d50c-376c-b8f7-2c2f7c67359a",
-  "lastfmId": "Animal+Collective/_/Unsolved+Mysteries",
-  "listeners": 270157,
-  "playcount": 1784604,
   "artistMbid": "0c751690-c784-4a4f-b1e4-c1de27d47581",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "electronic",
       "experimental"
     ]
+  },
+  "lastfm": {
+    "id": "Animal+Collective/_/Unsolved+Mysteries",
+    "listeners": 270157,
+    "playcount": 1784604
   }
 }

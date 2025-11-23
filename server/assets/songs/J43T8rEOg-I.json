@@ -20,9 +20,6 @@
     "youtubeMusic": "J43T8rEOg-I"
   },
   "mbid": "20c5ce2f-5d35-4db4-8506-8f138619fd34",
-  "lastfmId": "Amadou+&+Mariam/_/Senegal+Fast+Food",
-  "listeners": 55007,
-  "playcount": 262718,
   "artistMbid": "1fb60b6c-0f4d-42b4-8a5e-de705ec76660",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "african blues",
       "desert blues"
     ]
+  },
+  "lastfm": {
+    "id": "Amadou+&+Mariam/_/Senegal+Fast+Food",
+    "listeners": 55007,
+    "playcount": 262718
   }
 }

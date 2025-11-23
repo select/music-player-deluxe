@@ -12,13 +12,13 @@
     "youtube": "ADE4hmYfwGE",
     "youtubeMusic": "ADE4hmYfwGE"
   },
-  "lastfmId": "Mort+Garson/_/Ode+To+An+African+Violet",
-  "listeners": 131646,
-  "playcount": 643951,
   "lastfm": {
     "title": "Ode To An African Violet",
     "artist": "Mort Garson",
     "mbid": "0c2737fb-a201-4afe-96e2-23d99e831b73",
-    "artistMbid": "c47028fa-0086-426d-a7b8-ed20eba3ed61"
+    "artistMbid": "c47028fa-0086-426d-a7b8-ed20eba3ed61",
+    "id": "Mort+Garson/_/Ode+To+An+African+Violet",
+    "listeners": 131646,
+    "playcount": 643951
   }
 }

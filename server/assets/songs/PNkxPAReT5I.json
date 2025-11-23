@@ -13,8 +13,10 @@
     "youtubeMusic": "PNkxPAReT5I"
   },
   "mbid": "10b65860-f194-4976-b84a-95ef14a601ad",
-  "lastfmId": "The+Bambi+Molesters/_/Theme+From+Slaying+Beauty",
-  "listeners": 15790,
-  "playcount": 47135,
-  "artistMbid": "e0668292-5084-4bb2-9eff-785c1efbc13a"
+  "artistMbid": "e0668292-5084-4bb2-9eff-785c1efbc13a",
+  "lastfm": {
+    "id": "The+Bambi+Molesters/_/Theme+From+Slaying+Beauty",
+    "listeners": 15790,
+    "playcount": 47135
+  }
 }

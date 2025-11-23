@@ -18,9 +18,6 @@
     "youtubeMusic": "DF6JhvbSMxs"
   },
   "mbid": "0688736f-cca3-430e-810b-43ae6b0aebc3",
-  "lastfmId": "Milky+Chance/_/Synchronize",
-  "listeners": 119741,
-  "playcount": 765382,
   "artistMbid": "6d230d98-fb8d-4421-a6e8-daca4e55d53e",
   "musicbrainz": {
     "artistTags": [
@@ -33,5 +30,10 @@
       "indie folk",
       "indie pop"
     ]
+  },
+  "lastfm": {
+    "id": "Milky+Chance/_/Synchronize",
+    "listeners": 119741,
+    "playcount": 765382
   }
 }

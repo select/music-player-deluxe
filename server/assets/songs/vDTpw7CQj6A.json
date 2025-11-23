@@ -15,7 +15,9 @@
     "youtube": "vDTpw7CQj6A",
     "youtubeMusic": "vDTpw7CQj6A"
   },
-  "lastfmId": "AtomTM/_/Autobahn",
-  "listeners": 31,
-  "playcount": 62
+  "lastfm": {
+    "id": "AtomTM/_/Autobahn",
+    "listeners": 31,
+    "playcount": 62
+  }
 }

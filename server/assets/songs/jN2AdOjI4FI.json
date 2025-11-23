@@ -18,11 +18,7 @@
     "youtubeMusic": "jN2AdOjI4FI"
   },
   "mbid": "e39a7f0c-4cb4-480f-8fa2-1675304324c6",
-  "lastfmId": "Stevie+Wonder/_/Part-Time+Lover",
-  "listeners": 391642,
-  "playcount": 1936017,
   "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
-  "lastfmSummary": "\"Part-Time Lover\" peaked at #1 on the U.S. Billboard Hot 100 Chart, U.S. Billboard Hot Dance Club Play Chart, U.S. Billboard Hot Black Singles Chart and U.S. Billboard Adult Contemporary Chart in the Autumn of 1985. <a href=\"http://www.last.fm/music/Stevie+Wonder/_/Part-Time+Lover\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "contemporary r&b",
@@ -41,5 +37,11 @@
       "pop soul",
       "soul"
     ]
+  },
+  "lastfm": {
+    "id": "Stevie+Wonder/_/Part-Time+Lover",
+    "listeners": 391642,
+    "playcount": 1936017,
+    "summary": "\"Part-Time Lover\" peaked at #1 on the U.S. Billboard Hot 100 Chart, U.S. Billboard Hot Dance Club Play Chart, U.S. Billboard Hot Black Singles Chart and U.S. Billboard Adult Contemporary Chart in the Autumn of 1985. <a href=\"http://www.last.fm/music/Stevie+Wonder/_/Part-Time+Lover\">Read more on Last.fm</a>."
   }
 }

@@ -17,7 +17,9 @@
     "youtubeMusic": "eZomO9NBL9Q"
   },
   "mbid": "37f2a65e-5baf-49c0-b4f8-89ca85fa6b54",
-  "lastfmId": "HEMAI/_/Relight",
-  "listeners": 1192,
-  "playcount": 3790
+  "lastfm": {
+    "id": "HEMAI/_/Relight",
+    "listeners": 1192,
+    "playcount": 3790
+  }
 }

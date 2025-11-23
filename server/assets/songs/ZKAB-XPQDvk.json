@@ -19,7 +19,9 @@
     "youtubeMusic": "ZKAB-XPQDvk"
   },
   "mbid": "8574131b-e1b8-4536-b299-0a70f33ef625",
-  "lastfmId": "Fury+In+The+Slaughterhouse/_/Waiting+For+Paradise",
-  "listeners": 2845,
-  "playcount": 10430
+  "lastfm": {
+    "id": "Fury+In+The+Slaughterhouse/_/Waiting+For+Paradise",
+    "listeners": 2845,
+    "playcount": 10430
+  }
 }

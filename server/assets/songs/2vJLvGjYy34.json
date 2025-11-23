@@ -14,9 +14,6 @@
     "youtube": "2vJLvGjYy34",
     "youtubeMusic": "2vJLvGjYy34"
   },
-  "lastfmId": "Source+Direct/_/A+Made+Up+Sound",
-  "listeners": 25330,
-  "playcount": 85018,
   "artistMbid": "73764092-6736-49f7-992f-bda135d07356",
   "musicbrainz": {
     "tags": [
@@ -24,5 +21,10 @@
       "electronic",
       "jungle"
     ]
+  },
+  "lastfm": {
+    "id": "Source+Direct/_/A+Made+Up+Sound",
+    "listeners": 25330,
+    "playcount": 85018
   }
 }

@@ -20,7 +20,9 @@
     "youtube": "VfUOrdJAMlE",
     "youtubeMusic": "VfUOrdJAMlE"
   },
-  "lastfmId": "Victor+Heredia/_/Bailando+con+tu+sombra+(Alel%C3%AD)",
-  "listeners": 1019,
-  "playcount": 4141
+  "lastfm": {
+    "id": "Victor+Heredia/_/Bailando+con+tu+sombra+(Alel%C3%AD)",
+    "listeners": 1019,
+    "playcount": 4141
+  }
 }

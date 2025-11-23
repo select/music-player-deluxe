@@ -20,9 +20,6 @@
     "youtube": "BKdigb7GasY",
     "youtubeMusic": "BKdigb7GasY"
   },
-  "lastfmId": "Oklou/_/viscus",
-  "listeners": 37173,
-  "playcount": 188248,
   "artistMbid": "13e2db47-3010-48b8-a8b9-667551f37119",
   "musicbrainz": {
     "artistTags": [
@@ -44,5 +41,10 @@
       "art pop",
       "chillwave"
     ]
+  },
+  "lastfm": {
+    "id": "Oklou/_/viscus",
+    "listeners": 37173,
+    "playcount": 188248
   }
 }

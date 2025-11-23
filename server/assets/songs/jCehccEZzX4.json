@@ -24,11 +24,7 @@
     "youtube": "jCehccEZzX4",
     "youtubeMusic": "jCehccEZzX4"
   },
-  "lastfmId": "Black+Sabbath/_/Killing+Yourself+to+Live",
-  "listeners": 247162,
-  "playcount": 1242608,
   "artistMbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
-  "lastfmSummary": "Iommi's overlapping of two guitars in the solo highlight this wonderful song written by bassist Geezer Butler while in hospital for kidney problems caused by heavy drinking. Drummer Bill Ward was also suffering from binge drinking, and the song reflects the problems caused by their extreme lifestyles. <a href=\"http://www.last.fm/music/Black+Sabbath/_/Killing+Yourself+to+Live\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -48,5 +44,11 @@
       "heavy metal",
       "metal"
     ]
+  },
+  "lastfm": {
+    "id": "Black+Sabbath/_/Killing+Yourself+to+Live",
+    "listeners": 247162,
+    "playcount": 1242608,
+    "summary": "Iommi's overlapping of two guitars in the solo highlight this wonderful song written by bassist Geezer Butler while in hospital for kidney problems caused by heavy drinking. Drummer Bill Ward was also suffering from binge drinking, and the song reflects the problems caused by their extreme lifestyles. <a href=\"http://www.last.fm/music/Black+Sabbath/_/Killing+Yourself+to+Live\">Read more on Last.fm</a>."
   }
 }

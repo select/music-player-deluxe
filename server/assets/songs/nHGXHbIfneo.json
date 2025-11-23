@@ -21,9 +21,6 @@
     "youtubeMusic": "nHGXHbIfneo"
   },
   "mbid": "dc496feb-b714-4e21-a2e9-edbd64487d9a",
-  "lastfmId": "Klaus+Renft+Combo/_/Der+Apfeltraum",
-  "listeners": 1474,
-  "playcount": 4794,
   "artistMbid": "2eacf520-6ea3-4cf8-a72d-64b709892f23",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
     "artistGenres": [
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Klaus+Renft+Combo/_/Der+Apfeltraum",
+    "listeners": 1474,
+    "playcount": 4794
   }
 }

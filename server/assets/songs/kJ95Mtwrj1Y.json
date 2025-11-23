@@ -17,9 +17,6 @@
     "youtubeMusic": "kJ95Mtwrj1Y"
   },
   "mbid": "b40167dd-d276-41a5-9f90-3f8119fd27c0",
-  "lastfmId": "Bush/_/More+Than+Machines",
-  "listeners": 24395,
-  "playcount": 100673,
   "artistMbid": "93ccd76c-3790-4435-a8bf-02bc26294b93",
   "musicbrainz": {
     "artistTags": [
@@ -41,5 +38,10 @@
       "noise rock",
       "post-grunge"
     ]
+  },
+  "lastfm": {
+    "id": "Bush/_/More+Than+Machines",
+    "listeners": 24395,
+    "playcount": 100673
   }
 }

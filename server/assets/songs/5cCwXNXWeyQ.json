@@ -14,8 +14,10 @@
     "youtube": "5cCwXNXWeyQ",
     "youtubeMusic": "5cCwXNXWeyQ"
   },
-  "lastfmId": "We+Float/_/Hide+and+Seek",
-  "listeners": 30,
-  "playcount": 35,
-  "artistMbid": "235f2b6c-a9e6-453f-b88b-2a1c35fcc19c"
+  "artistMbid": "235f2b6c-a9e6-453f-b88b-2a1c35fcc19c",
+  "lastfm": {
+    "id": "We+Float/_/Hide+and+Seek",
+    "listeners": 30,
+    "playcount": 35
+  }
 }

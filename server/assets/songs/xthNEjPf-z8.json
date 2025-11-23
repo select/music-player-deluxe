@@ -12,7 +12,9 @@
     "youtube": "xthNEjPf-z8",
     "youtubeMusic": "xthNEjPf-z8"
   },
-  "lastfmId": "Waeys/_/Ephemeral",
-  "listeners": 184,
-  "playcount": 433
+  "lastfm": {
+    "id": "Waeys/_/Ephemeral",
+    "listeners": 184,
+    "playcount": 433
+  }
 }

@@ -18,8 +18,10 @@
     "youtubeMusic": "Hlev6Nz0CI8"
   },
   "mbid": "55c15b55-da1a-3d2e-9026-0fa4a79c7e3a",
-  "lastfmId": "Brad+Sucks/_/Bad+Attraction",
-  "listeners": 28123,
-  "playcount": 161986,
-  "artistMbid": "9c070e4f-28c1-4b98-b371-d8514c31ba55"
+  "artistMbid": "9c070e4f-28c1-4b98-b371-d8514c31ba55",
+  "lastfm": {
+    "id": "Brad+Sucks/_/Bad+Attraction",
+    "listeners": 28123,
+    "playcount": 161986
+  }
 }

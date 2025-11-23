@@ -20,9 +20,6 @@
     "youtubeMusic": "-8X2bcjTELs"
   },
   "mbid": "e90bc10e-ea2d-41d9-b1b8-1ac55f2af3bd",
-  "lastfmId": "Noga+Erez/_/NAILS",
-  "listeners": 5936,
-  "playcount": 27520,
   "artistMbid": "06479724-ee7d-471e-a3d4-4554330a0293",
   "musicbrainz": {
     "artistTags": [
@@ -33,5 +30,10 @@
       "electronic",
       "pop"
     ]
+  },
+  "lastfm": {
+    "id": "Noga+Erez/_/NAILS",
+    "listeners": 5936,
+    "playcount": 27520
   }
 }

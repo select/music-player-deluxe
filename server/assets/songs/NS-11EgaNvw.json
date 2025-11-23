@@ -17,8 +17,10 @@
     "youtube": "NS-11EgaNvw",
     "youtubeMusic": "NS-11EgaNvw"
   },
-  "lastfmId": "Maria+Jo%C3%A3o+Pires/_/Chopin:+Nocturne+No.+2+in+E-Flat+Major,+Op.+9+No.+2",
-  "listeners": 875,
-  "playcount": 2103,
-  "artistMbid": "64cf3646-fde3-4f5e-8741-8b4d21917785"
+  "artistMbid": "64cf3646-fde3-4f5e-8741-8b4d21917785",
+  "lastfm": {
+    "id": "Maria+Jo%C3%A3o+Pires/_/Chopin:+Nocturne+No.+2+in+E-Flat+Major,+Op.+9+No.+2",
+    "listeners": 875,
+    "playcount": 2103
+  }
 }

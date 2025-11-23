@@ -14,13 +14,13 @@
     "youtube": "DQOc0wcF5CI",
     "youtubeMusic": "DQOc0wcF5CI"
   },
-  "lastfmId": "Moin/_/Foot+Wrong",
-  "listeners": 10648,
-  "playcount": 32177,
   "lastfm": {
     "title": "Foot Wrong",
     "artist": "Moin",
     "mbid": "eaf19621-8f3f-42c5-9879-b8235641bbb6",
-    "artistMbid": "1e707b09-cc54-48c3-8374-3b36ad9365fd"
+    "artistMbid": "1e707b09-cc54-48c3-8374-3b36ad9365fd",
+    "id": "Moin/_/Foot+Wrong",
+    "listeners": 10648,
+    "playcount": 32177
   }
 }

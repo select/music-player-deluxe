@@ -12,9 +12,6 @@
     "youtubeMusic": "u4v6swKWx9A"
   },
   "mbid": "5f9ddb43-bf0a-3f84-8533-24df39eb1fa8",
-  "lastfmId": "Brian+Eno/_/Spinning+Away",
-  "listeners": 91686,
-  "playcount": 483903,
   "artistMbid": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "drone",
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "Brian+Eno/_/Spinning+Away",
+    "listeners": 91686,
+    "playcount": 483903
   }
 }

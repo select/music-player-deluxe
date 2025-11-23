@@ -6,7 +6,9 @@
   "releaseCount": 1,
   "youtubeId": "Zqd1ar5_7qw",
   "lastFetched": "2025-11-19T04:50:57.306Z",
-  "lastfmId": "Charlie+Chaplin/_/Nonsense+song+(Titine)",
-  "listeners": 81,
-  "playcount": 239
+  "lastfm": {
+    "id": "Charlie+Chaplin/_/Nonsense+song+(Titine)",
+    "listeners": 81,
+    "playcount": 239
+  }
 }

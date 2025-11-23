@@ -11,7 +11,9 @@
     "youtube": "Ew3li8ptbFY",
     "youtubeMusic": "Ew3li8ptbFY"
   },
-  "lastfmId": "Bop/_/Clair+De+Lune",
-  "listeners": 2427,
-  "playcount": 9834
+  "lastfm": {
+    "id": "Bop/_/Clair+De+Lune",
+    "listeners": 2427,
+    "playcount": 9834
+  }
 }

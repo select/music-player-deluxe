@@ -21,9 +21,6 @@
     "youtubeMusic": "JCRb22_4Z48"
   },
   "mbid": "1d61942e-619e-4af7-862b-42bd718c21c2",
-  "lastfmId": "GoGo+Penguin/_/Bardo",
-  "listeners": 33105,
-  "playcount": 151652,
   "artistMbid": "b328de0e-ee48-4d74-9d36-7c7ee16ffc69",
   "musicbrainz": {
     "artistTags": [
@@ -42,5 +39,10 @@
       "nu jazz",
       "post-rock"
     ]
+  },
+  "lastfm": {
+    "id": "GoGo+Penguin/_/Bardo",
+    "listeners": 33105,
+    "playcount": 151652
   }
 }

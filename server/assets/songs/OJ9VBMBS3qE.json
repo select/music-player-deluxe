@@ -16,9 +16,6 @@
     "youtubeMusic": "OJ9VBMBS3qE"
   },
   "mbid": "7140101e-94ab-472c-a494-6918a952f385",
-  "lastfmId": "Neneh+Cherry/_/Manchild",
-  "listeners": 66964,
-  "playcount": 258201,
   "artistMbid": "527c65d1-9fdb-4482-8796-dde2980bd63a",
   "musicbrainz": {
     "artistTags": [
@@ -40,5 +37,10 @@
       "hip hop",
       "pop"
     ]
+  },
+  "lastfm": {
+    "id": "Neneh+Cherry/_/Manchild",
+    "listeners": 66964,
+    "playcount": 258201
   }
 }

@@ -21,9 +21,6 @@
     "youtubeMusic": "cE7uMM8VZOk"
   },
   "mbid": "b98cbb6a-cf6d-4a6c-99f4-02baafe81a85",
-  "lastfmId": "Mop+Mop/_/The+Golden+Bamboo",
-  "listeners": 2444,
-  "playcount": 6932,
   "artistMbid": "51a4b538-18cc-42aa-87b2-5865e8224af4",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
     "artistGenres": [
       "acid jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Mop+Mop/_/The+Golden+Bamboo",
+    "listeners": 2444,
+    "playcount": 6932
   }
 }

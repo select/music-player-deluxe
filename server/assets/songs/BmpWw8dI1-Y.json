@@ -16,9 +16,6 @@
     "youtubeMusic": "BmpWw8dI1-Y"
   },
   "mbid": "44dd3ead-bc24-4e69-a93a-9653ea9f6355",
-  "lastfmId": "Dead+Can+Dance/_/Mushin",
-  "listeners": 5554,
-  "playcount": 12384,
   "artistMbid": "ccda046a-2674-4f7d-97e6-f23d6c156432",
   "musicbrainz": {
     "artistTags": [
@@ -40,5 +37,10 @@
       "dream pop",
       "ethereal wave"
     ]
+  },
+  "lastfm": {
+    "id": "Dead+Can+Dance/_/Mushin",
+    "listeners": 5554,
+    "playcount": 12384
   }
 }

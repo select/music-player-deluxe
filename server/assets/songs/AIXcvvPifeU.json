@@ -13,7 +13,9 @@
     "youtube": "AIXcvvPifeU",
     "youtubeMusic": "AIXcvvPifeU"
   },
-  "lastfmId": "Big+Daddy+Kane/_/Open+Ya+Eyes",
-  "listeners": 869,
-  "playcount": 1349
+  "lastfm": {
+    "id": "Big+Daddy+Kane/_/Open+Ya+Eyes",
+    "listeners": 869,
+    "playcount": 1349
+  }
 }

@@ -20,9 +20,6 @@
     "youtubeMusic": "oUUdJY8xMIk"
   },
   "mbid": "0e6b8447-2e66-369e-b225-463f1d69cf7b",
-  "lastfmId": "Rachel+Sweet/_/Truckstop+Queen",
-  "listeners": 831,
-  "playcount": 2051,
   "artistMbid": "0c085548-8a13-4c6a-ad32-2e773cc81717",
   "musicbrainz": {
     "artistTags": [
@@ -34,5 +31,10 @@
       "country",
       "pop"
     ]
+  },
+  "lastfm": {
+    "id": "Rachel+Sweet/_/Truckstop+Queen",
+    "listeners": 831,
+    "playcount": 2051
   }
 }

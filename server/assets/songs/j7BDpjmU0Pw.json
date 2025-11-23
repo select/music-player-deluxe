@@ -14,13 +14,15 @@
     "youtubeMusic": "j7BDpjmU0Pw"
   },
   "mbid": "751d3711-cbdf-4879-b487-721568818d82",
-  "lastfmId": "Knorkator/_/Ihr+habt+gewonnen",
-  "listeners": 1806,
-  "playcount": 7855,
   "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
   "musicbrainz": {
     "artistTags": [
       "german"
     ]
+  },
+  "lastfm": {
+    "id": "Knorkator/_/Ihr+habt+gewonnen",
+    "listeners": 1806,
+    "playcount": 7855
   }
 }

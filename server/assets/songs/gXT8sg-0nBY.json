@@ -12,8 +12,10 @@
     "youtube": "gXT8sg-0nBY",
     "youtubeMusic": "gXT8sg-0nBY"
   },
-  "lastfmId": "2Scratch/_/Bonnie+&+Clyde",
-  "listeners": 2271,
-  "playcount": 13014,
-  "artistMbid": "1c59ae05-207b-4fbd-9ee9-569489af6121"
+  "artistMbid": "1c59ae05-207b-4fbd-9ee9-569489af6121",
+  "lastfm": {
+    "id": "2Scratch/_/Bonnie+&+Clyde",
+    "listeners": 2271,
+    "playcount": 13014
+  }
 }

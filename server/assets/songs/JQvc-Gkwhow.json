@@ -22,11 +22,7 @@
     "youtube": "JQvc-Gkwhow",
     "youtubeMusic": "JQvc-Gkwhow"
   },
-  "lastfmId": "John+Coltrane/_/My+Favorite+Things",
-  "listeners": 415831,
-  "playcount": 1889608,
   "artistMbid": "b625448e-bf4a-41c3-a421-72ad46cdb831",
-  "lastfmSummary": "The title track, My Favorite Things, is a nearly 14-minute rendition that transforms the original midtempo waltz into a hypnotic exploration of sound. John Coltrane and pianist McCoy Tyner engage in extended improvisations over a vamp alternating between E minor and E major, deviating from the original song's structure. This approach not only showcased Coltrane's innovative style but also helped bridge jazz to broader audiences, making it one of his most requested pieces. <a href=\"http://www.last.fm/music/John+Coltrane/_/My+Favorite+Things\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -46,5 +42,11 @@
       "jazz",
       "modal jazz"
     ]
+  },
+  "lastfm": {
+    "id": "John+Coltrane/_/My+Favorite+Things",
+    "listeners": 415831,
+    "playcount": 1889608,
+    "summary": "The title track, My Favorite Things, is a nearly 14-minute rendition that transforms the original midtempo waltz into a hypnotic exploration of sound. John Coltrane and pianist McCoy Tyner engage in extended improvisations over a vamp alternating between E minor and E major, deviating from the original song's structure. This approach not only showcased Coltrane's innovative style but also helped bridge jazz to broader audiences, making it one of his most requested pieces. <a href=\"http://www.last.fm/music/John+Coltrane/_/My+Favorite+Things\">Read more on Last.fm</a>."
   }
 }

@@ -6,9 +6,6 @@
   "duration": 371,
   "youtubeId": "c-2gP-1pejs",
   "lastFetched": "2025-11-19T05:08:15.875Z",
-  "lastfmId": "Benga/_/Night",
-  "listeners": 43767,
-  "playcount": 189309,
   "artistMbid": "d3ba1c50-d403-40df-8eac-80d74551a7e3",
   "musicbrainz": {
     "tags": [
@@ -18,5 +15,10 @@
       "funky house",
       "grime"
     ]
+  },
+  "lastfm": {
+    "id": "Benga/_/Night",
+    "listeners": 43767,
+    "playcount": 189309
   }
 }

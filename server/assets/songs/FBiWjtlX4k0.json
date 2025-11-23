@@ -12,9 +12,6 @@
     "youtubeMusic": "FBiWjtlX4k0"
   },
   "mbid": "227cb31f-fcb2-47d4-bf76-16688f75bacb",
-  "lastfmId": "CHON/_/Ghost",
-  "listeners": 64906,
-  "playcount": 344116,
   "artistMbid": "d7235f31-229a-4c04-abca-14e0fbcba26e",
   "musicbrainz": {
     "artistTags": [
@@ -31,5 +28,10 @@
       "progressive metal",
       "progressive rock"
     ]
+  },
+  "lastfm": {
+    "id": "CHON/_/Ghost",
+    "listeners": 64906,
+    "playcount": 344116
   }
 }

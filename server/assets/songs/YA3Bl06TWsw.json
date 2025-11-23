@@ -20,9 +20,6 @@
     "youtubeMusic": "YA3Bl06TWsw"
   },
   "mbid": "3b7d0c8a-be13-44a7-ad73-194e77e832f2",
-  "lastfmId": "The+Abyssinians/_/Forward+on+to+Zion",
-  "listeners": 4517,
-  "playcount": 13524,
   "artistMbid": "103ae173-2204-40b8-a6a8-f1623304deed",
   "musicbrainz": {
     "artistTags": [
@@ -31,5 +28,10 @@
     "artistGenres": [
       "roots reggae"
     ]
+  },
+  "lastfm": {
+    "id": "The+Abyssinians/_/Forward+on+to+Zion",
+    "listeners": 4517,
+    "playcount": 13524
   }
 }

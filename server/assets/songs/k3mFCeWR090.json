@@ -4,9 +4,6 @@
   "artist": "Die Ärzte",
   "lastFetched": "2025-11-23T16:47:23.609Z",
   "mbid": "1dda30fe-4164-48cf-8faf-68876f7eacbd",
-  "lastfmId": "Die+%C3%84rzte/_/Punk+ist...",
-  "listeners": 23744,
-  "playcount": 104020,
   "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
   "musicbrainz": {
     "artistTags": [
@@ -27,5 +24,10 @@
       "punk rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Die+%C3%84rzte/_/Punk+ist...",
+    "listeners": 23744,
+    "playcount": 104020
   }
 }

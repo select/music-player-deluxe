@@ -13,9 +13,6 @@
     "youtubeMusic": "r8PAjHAETrw"
   },
   "mbid": "02ea3e5c-408d-4dc3-91f7-733deed71c4a",
-  "lastfmId": "Dio/_/I+Could+Have+Been+A+Dreamer",
-  "listeners": 65939,
-  "playcount": 268746,
   "artistMbid": "c55193fb-f5d2-4839-a263-4c044fca1456",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
       "metal",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Dio/_/I+Could+Have+Been+A+Dreamer",
+    "listeners": 65939,
+    "playcount": 268746
   }
 }

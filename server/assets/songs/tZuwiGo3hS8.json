@@ -4,11 +4,7 @@
   "artist": "The Prodigy",
   "lastFetched": "2025-11-23T16:52:11.763Z",
   "mbid": "013f2b4c-f39f-43e7-bdbf-e33de5262358",
-  "lastfmId": "The+Prodigy/_/The+Day+Is+My+Enemy",
-  "listeners": 149673,
-  "playcount": 1053906,
   "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
-  "lastfmSummary": "Vocals: Martina Topley-Bird\n\n <a href=\"http://www.last.fm/music/The+Prodigy/_/The+Day+Is+My+Enemy\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "big beat",
@@ -29,5 +25,11 @@
       "dance",
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "The+Prodigy/_/The+Day+Is+My+Enemy",
+    "listeners": 149673,
+    "playcount": 1053906,
+    "summary": "Vocals: Martina Topley-Bird\n\n <a href=\"http://www.last.fm/music/The+Prodigy/_/The+Day+Is+My+Enemy\">Read more on Last.fm</a>."
   }
 }

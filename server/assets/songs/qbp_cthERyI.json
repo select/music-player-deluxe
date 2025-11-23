@@ -20,8 +20,10 @@
     "youtubeMusic": "qbp_cthERyI"
   },
   "mbid": "d733df00-097f-4aa4-9438-ecb70efb8bd9",
-  "lastfmId": "shine+grooves/_/Magic+Truffle",
-  "listeners": 198,
-  "playcount": 467,
-  "artistMbid": "019f0313-9538-435b-8f46-00f32bd6998b"
+  "artistMbid": "019f0313-9538-435b-8f46-00f32bd6998b",
+  "lastfm": {
+    "id": "shine+grooves/_/Magic+Truffle",
+    "listeners": 198,
+    "playcount": 467
+  }
 }

@@ -13,9 +13,6 @@
     "youtubeMusic": "0fNbNDi_Li4"
   },
   "mbid": "88dd3c90-aa2d-36d4-8507-167e4cb2de9c",
-  "lastfmId": "Margo+Guryan/_/Something%27s+Wrong+With+the+Morning",
-  "listeners": 202605,
-  "playcount": 1051126,
   "artistMbid": "cd2867c5-c2f0-4f86-b8aa-a7be324cb916",
   "musicbrainz": {
     "artistTags": [
@@ -30,5 +27,10 @@
       "singer-songwriter",
       "sunshine pop"
     ]
+  },
+  "lastfm": {
+    "id": "Margo+Guryan/_/Something%27s+Wrong+With+the+Morning",
+    "listeners": 202605,
+    "playcount": 1051126
   }
 }

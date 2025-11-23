@@ -19,9 +19,6 @@
     "youtubeMusic": "JFMV_O1OYB8"
   },
   "mbid": "1b3b731d-7c78-345c-9fdc-bb85e3b3f874",
-  "lastfmId": "Stellardrone/_/Nightscape",
-  "listeners": 11973,
-  "playcount": 78659,
   "artistMbid": "8208d8f9-61b6-47f2-90c0-2680dadd56a8",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "new age",
       "space ambient"
     ]
+  },
+  "lastfm": {
+    "id": "Stellardrone/_/Nightscape",
+    "listeners": 11973,
+    "playcount": 78659
   }
 }

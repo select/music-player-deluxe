@@ -20,9 +20,6 @@
     "youtube": "xQreKaWXVMs",
     "youtubeMusic": "xQreKaWXVMs"
   },
-  "lastfmId": "%C2%B5-Ziq/_/Escorial",
-  "listeners": 4499,
-  "playcount": 8157,
   "artistMbid": "aae5b930-c59c-4509-81a1-4e65e8f424e4",
   "musicbrainz": {
     "tags": [
@@ -50,5 +47,10 @@
       "experimental",
       "idm"
     ]
+  },
+  "lastfm": {
+    "id": "%C2%B5-Ziq/_/Escorial",
+    "listeners": 4499,
+    "playcount": 8157
   }
 }

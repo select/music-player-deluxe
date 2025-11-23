@@ -17,9 +17,6 @@
     "youtube": "fWhKMVJymPA",
     "youtubeMusic": "fWhKMVJymPA"
   },
-  "lastfmId": "Richard+Koch+Quartett/_/The+Wilhelm+Scream",
-  "listeners": 41,
-  "playcount": 69,
   "artistMbid": "20f60d05-48e3-42e8-a627-67e41f8da16f",
   "musicbrainz": {
     "artistTags": [
@@ -28,5 +25,10 @@
     "artistGenres": [
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Richard+Koch+Quartett/_/The+Wilhelm+Scream",
+    "listeners": 41,
+    "playcount": 69
   }
 }

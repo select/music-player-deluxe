@@ -13,13 +13,15 @@
     "youtube": "taiub0SI2kQ",
     "youtubeMusic": "taiub0SI2kQ"
   },
-  "lastfmId": "Carlton+&+The+Shoes/_/Never+Give+Your+Heart+Away",
-  "listeners": 19426,
-  "playcount": 63939,
   "artistMbid": "38140c43-8b8f-42c4-9a32-5be059c1a41b",
   "musicbrainz": {
     "tags": [
       "reggae"
     ]
+  },
+  "lastfm": {
+    "id": "Carlton+&+The+Shoes/_/Never+Give+Your+Heart+Away",
+    "listeners": 19426,
+    "playcount": 63939
   }
 }

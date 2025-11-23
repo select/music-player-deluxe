@@ -3,7 +3,9 @@
   "title": "Forever",
   "artist": "AISIS",
   "lastFetched": "2025-11-19T11:42:04.583Z",
-  "lastfmId": "AISIS/_/Forever",
-  "listeners": 42,
-  "playcount": 145
+  "lastfm": {
+    "id": "AISIS/_/Forever",
+    "listeners": 42,
+    "playcount": 145
+  }
 }

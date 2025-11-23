@@ -14,8 +14,10 @@
     "youtube": "6vxp6q7d4-I",
     "youtubeMusic": "6vxp6q7d4-I"
   },
-  "lastfmId": "Rudi+Carrell/_/Wann+wird%27s+mal+wieder+richtig+Sommer",
-  "listeners": 11669,
-  "playcount": 38362,
-  "artistMbid": "7b92b87c-fe3f-40d2-9d0e-bea73ae6bf41"
+  "artistMbid": "7b92b87c-fe3f-40d2-9d0e-bea73ae6bf41",
+  "lastfm": {
+    "id": "Rudi+Carrell/_/Wann+wird%27s+mal+wieder+richtig+Sommer",
+    "listeners": 11669,
+    "playcount": 38362
+  }
 }

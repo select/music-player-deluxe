@@ -21,9 +21,6 @@
     "youtubeMusic": "pAdGmux8NRw"
   },
   "mbid": "01caf6b7-2478-4c2b-bcdc-2d6e76852df1",
-  "lastfmId": "The+Rolling+Stones/_/I%27m+A+King+Bee",
-  "listeners": 76879,
-  "playcount": 226073,
   "artistMbid": "b071f9fa-14b0-4217-8e97-eb41da73f598",
   "musicbrainz": {
     "artistTags": [
@@ -45,5 +42,10 @@
       "classic rock",
       "pop rock"
     ]
+  },
+  "lastfm": {
+    "id": "The+Rolling+Stones/_/I%27m+A+King+Bee",
+    "listeners": 76879,
+    "playcount": 226073
   }
 }

@@ -6,9 +6,6 @@
   "youtubeId": "u7KncmJj82s",
   "lastFetched": "2025-11-19T04:16:52.357Z",
   "releaseCount": 1,
-  "lastfmId": "Snoop+Dogg/_/Riders+on+the+Storm+(Fredwreck+Remix)",
-  "listeners": 22134,
-  "playcount": 108651,
   "artistMbid": "f90e8b26-9e52-4669-a5c9-e28529c47894",
   "musicbrainz": {
     "tags": [
@@ -28,5 +25,10 @@
       "swagger",
       "trip hop"
     ]
+  },
+  "lastfm": {
+    "id": "Snoop+Dogg/_/Riders+on+the+Storm+(Fredwreck+Remix)",
+    "listeners": 22134,
+    "playcount": 108651
   }
 }

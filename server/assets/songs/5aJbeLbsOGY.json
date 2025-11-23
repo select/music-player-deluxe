@@ -14,9 +14,6 @@
     "youtubeMusic": "5aJbeLbsOGY"
   },
   "mbid": "096701ff-d1da-451d-81f0-b61940885dfa",
-  "lastfmId": "Emma+Ruth+Rundle/_/Run+Forever",
-  "listeners": 30029,
-  "playcount": 198568,
   "artistMbid": "7ba593b9-79d4-4860-92c8-ade2a1ef4551",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "experimental",
       "folk"
     ]
+  },
+  "lastfm": {
+    "id": "Emma+Ruth+Rundle/_/Run+Forever",
+    "listeners": 30029,
+    "playcount": 198568
   }
 }

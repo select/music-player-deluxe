@@ -22,11 +22,7 @@
     "youtubeMusic": "04mfKJWDSzI"
   },
   "mbid": "06f2a8ae-fab8-4830-8721-6bbe3a03a594",
-  "lastfmId": "Gorillaz/_/On+Melancholy+Hill",
-  "listeners": 2139328,
-  "playcount": 25329449,
   "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
-  "lastfmSummary": "\"On Melancholy Hill\" is the third single from Gorillaz's third studio album Plastic Beach. The single was released on 12 June 2010. The song was originally written by Damon Albarn during the production of The Good, the Bad & the Queen's self titled album. \n\nBand member Murdoc Niccals stated the following about \"On Melancholy Hill\" in an interview: \"The Melancholy Hill - it's that feeling, that place, that you get in your soul sometimes, like someone's let your tyres down. <a href=\"http://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "electronic",
@@ -35,5 +31,11 @@
       "rock",
       "beautiful"
     ]
+  },
+  "lastfm": {
+    "id": "Gorillaz/_/On+Melancholy+Hill",
+    "listeners": 2139328,
+    "playcount": 25329449,
+    "summary": "\"On Melancholy Hill\" is the third single from Gorillaz's third studio album Plastic Beach. The single was released on 12 June 2010. The song was originally written by Damon Albarn during the production of The Good, the Bad & the Queen's self titled album. \n\nBand member Murdoc Niccals stated the following about \"On Melancholy Hill\" in an interview: \"The Melancholy Hill - it's that feeling, that place, that you get in your soul sometimes, like someone's let your tyres down. <a href=\"http://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill\">Read more on Last.fm</a>."
   }
 }

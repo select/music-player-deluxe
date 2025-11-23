@@ -13,8 +13,10 @@
     "youtube": "PDwwLILhzdg",
     "youtubeMusic": "PDwwLILhzdg"
   },
-  "lastfmId": "Leroy+Ace+Miller/_/Teacher",
-  "listeners": 367,
-  "playcount": 1225,
-  "artistMbid": "3abb1309-2b2c-4575-97a9-5b99ab6f3638"
+  "artistMbid": "3abb1309-2b2c-4575-97a9-5b99ab6f3638",
+  "lastfm": {
+    "id": "Leroy+Ace+Miller/_/Teacher",
+    "listeners": 367,
+    "playcount": 1225
+  }
 }

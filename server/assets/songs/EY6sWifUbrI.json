@@ -12,7 +12,9 @@
     "youtubeMusic": "EY6sWifUbrI"
   },
   "mbid": "3d4f4ae8-ef32-44da-9e8b-9275aff778a4",
-  "lastfmId": "Shintaro+Sakamoto/_/You+Can+Be+A+Robot,+Too",
-  "listeners": 30214,
-  "playcount": 131499
+  "lastfm": {
+    "id": "Shintaro+Sakamoto/_/You+Can+Be+A+Robot,+Too",
+    "listeners": 30214,
+    "playcount": 131499
+  }
 }

@@ -19,9 +19,6 @@
     "youtubeMusic": "Xsu_22_JzNM"
   },
   "mbid": "1dca6e38-0275-4ab8-a10c-8674742b7095",
-  "lastfmId": "Noga+Erez/_/Knockout",
-  "listeners": 9230,
-  "playcount": 31346,
   "artistMbid": "06479724-ee7d-471e-a3d4-4554330a0293",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
       "electronic",
       "pop"
     ]
+  },
+  "lastfm": {
+    "id": "Noga+Erez/_/Knockout",
+    "listeners": 9230,
+    "playcount": 31346
   }
 }

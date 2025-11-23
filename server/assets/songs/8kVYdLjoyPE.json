@@ -22,9 +22,6 @@
     "youtube": "8kVYdLjoyPE",
     "youtubeMusic": "8kVYdLjoyPE"
   },
-  "lastfmId": "Ukandanz/_/War+Pigs",
-  "listeners": 1472,
-  "playcount": 3563,
   "musicbrainz": {
     "artistTags": [
       "ethio-jazz",
@@ -32,5 +29,10 @@
       "jazz rock",
       "math rock"
     ]
+  },
+  "lastfm": {
+    "id": "Ukandanz/_/War+Pigs",
+    "listeners": 1472,
+    "playcount": 3563
   }
 }

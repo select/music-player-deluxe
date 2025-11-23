@@ -13,9 +13,6 @@
     "youtubeMusic": "axBslzXXwJg"
   },
   "mbid": "cfbef7af-d21c-441c-9071-b69423b79954",
-  "lastfmId": "Kazino/_/binary",
-  "listeners": 9211,
-  "playcount": 26943,
   "artistMbid": "85fd1ab6-18c9-4bf6-b14c-aac45638cc07",
   "musicbrainz": {
     "tags": [
@@ -30,5 +27,10 @@
       "post-punk",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Kazino/_/binary",
+    "listeners": 9211,
+    "playcount": 26943
   }
 }

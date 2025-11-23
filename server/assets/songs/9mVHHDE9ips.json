@@ -13,7 +13,9 @@
     "youtubeMusic": "9mVHHDE9ips"
   },
   "mbid": "17f55f1c-798d-433b-b534-d79fb04dd44a",
-  "lastfmId": "Fat+Freddy%27s+Drop/_/Slings+&+Arrows",
-  "listeners": 16064,
-  "playcount": 72280
+  "lastfm": {
+    "id": "Fat+Freddy%27s+Drop/_/Slings+&+Arrows",
+    "listeners": 16064,
+    "playcount": 72280
+  }
 }

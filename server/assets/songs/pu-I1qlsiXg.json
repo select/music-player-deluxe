@@ -14,8 +14,10 @@
     "youtube": "pu-I1qlsiXg",
     "youtubeMusic": "pu-I1qlsiXg"
   },
-  "lastfmId": "Basstripper/_/In+The+City",
-  "listeners": 64948,
-  "playcount": 501893,
-  "artistMbid": "82687fdf-84d6-49ac-bff2-de88cb42e5a2"
+  "artistMbid": "82687fdf-84d6-49ac-bff2-de88cb42e5a2",
+  "lastfm": {
+    "id": "Basstripper/_/In+The+City",
+    "listeners": 64948,
+    "playcount": 501893
+  }
 }

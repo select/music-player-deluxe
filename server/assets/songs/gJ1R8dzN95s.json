@@ -10,9 +10,6 @@
     "youtubeMusic": "gJ1R8dzN95s"
   },
   "mbid": "f254a1f4-be8c-40d7-b641-3e95cd7951d2",
-  "lastfmId": "Break/_/End+Of+Time",
-  "listeners": 506,
-  "playcount": 1137,
   "artistMbid": "62ce9272-0d54-4ecf-b03b-e7992ae0d320",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
       "electronic",
       "house"
     ]
+  },
+  "lastfm": {
+    "id": "Break/_/End+Of+Time",
+    "listeners": 506,
+    "playcount": 1137
   }
 }

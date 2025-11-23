@@ -3,11 +3,11 @@
   "title": "Coca Cola",
   "artist": "DRO",
   "lastFetched": "2025-11-23T14:32:32.310Z",
-  "lastfmId": "Dro/_/Coca+Cola",
-  "listeners": 39,
-  "playcount": 106,
   "lastfm": {
     "title": "Coca Cola",
-    "artist": "Dro"
+    "artist": "Dro",
+    "id": "Dro/_/Coca+Cola",
+    "listeners": 39,
+    "playcount": 106
   }
 }

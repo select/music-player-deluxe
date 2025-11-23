@@ -13,7 +13,9 @@
     "youtube": "tY5e20VtXH0",
     "youtubeMusic": "tY5e20VtXH0"
   },
-  "lastfmId": "Of+Men+And+Wolves/_/I%27m+Not+Crying",
-  "listeners": 2300,
-  "playcount": 10056
+  "lastfm": {
+    "id": "Of+Men+And+Wolves/_/I%27m+Not+Crying",
+    "listeners": 2300,
+    "playcount": 10056
+  }
 }

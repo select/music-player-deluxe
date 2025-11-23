@@ -15,10 +15,6 @@
     "youtube": "pfyTm9S1GQA",
     "youtubeMusic": "pfyTm9S1GQA"
   },
-  "lastfmId": "Billy+Squier/_/The+Big+Beat",
-  "listeners": 19492,
-  "playcount": 48238,
-  "lastfmSummary": "The drum beat has frequently been sampled in hip hop. Notably in 99 Problems by Jay-Z and Fix Up, Look Sharp by Dizzee Rascal. <a href=\"http://www.last.fm/music/Billy+Squier/_/The+Big+Beat\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "aor",
@@ -26,5 +22,11 @@
       "pop rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Billy+Squier/_/The+Big+Beat",
+    "listeners": 19492,
+    "playcount": 48238,
+    "summary": "The drum beat has frequently been sampled in hip hop. Notably in 99 Problems by Jay-Z and Fix Up, Look Sharp by Dizzee Rascal. <a href=\"http://www.last.fm/music/Billy+Squier/_/The+Big+Beat\">Read more on Last.fm</a>."
   }
 }

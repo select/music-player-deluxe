@@ -16,9 +16,6 @@
     "youtubeMusic": "suLn5t_n340"
   },
   "mbid": "56e8d5bb-d2f4-48c4-af74-4669aa6748e5",
-  "lastfmId": "Michelle/_/Michelle",
-  "listeners": 1777,
-  "playcount": 10399,
   "artistMbid": "6da018b5-94fe-4f9b-8cd7-96a19bf2b03e",
   "musicbrainz": {
     "artistTags": [
@@ -28,5 +25,10 @@
     "artistGenres": [
       "schlager"
     ]
+  },
+  "lastfm": {
+    "id": "Michelle/_/Michelle",
+    "listeners": 1777,
+    "playcount": 10399
   }
 }

@@ -11,8 +11,10 @@
     "youtubeMusic": "TV4YPMoLWxw"
   },
   "mbid": "95c391c5-2df8-4109-9804-7a5abdf6e777",
-  "lastfmId": "Keeno/_/Enigma",
-  "listeners": 9510,
-  "playcount": 44820,
-  "artistMbid": "5eba4fe7-138f-4052-a334-a1a64e780bac"
+  "artistMbid": "5eba4fe7-138f-4052-a334-a1a64e780bac",
+  "lastfm": {
+    "id": "Keeno/_/Enigma",
+    "listeners": 9510,
+    "playcount": 44820
+  }
 }

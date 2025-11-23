@@ -21,7 +21,9 @@
     "youtube": "9_gkpYORQLU",
     "youtubeMusic": "9_gkpYORQLU"
   },
-  "lastfmId": "Polyphia/_/G.O.A.T.",
-  "listeners": 220967,
-  "playcount": 2384747
+  "lastfm": {
+    "id": "Polyphia/_/G.O.A.T.",
+    "listeners": 220967,
+    "playcount": 2384747
+  }
 }

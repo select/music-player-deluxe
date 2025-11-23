@@ -22,14 +22,16 @@
     "youtube": "QOrTtbrHXG4",
     "youtubeMusic": "QOrTtbrHXG4"
   },
-  "lastfmId": "R%C3%B6yksopp/_/In+Space",
-  "listeners": 398816,
-  "playcount": 2083543,
   "artistMbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
   "musicbrainz": {
     "tags": [
       "downtempo",
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "R%C3%B6yksopp/_/In+Space",
+    "listeners": 398816,
+    "playcount": 2083543
   }
 }

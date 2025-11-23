@@ -12,9 +12,6 @@
     "youtubeMusic": "WYeDsa4Tw0c"
   },
   "mbid": "218a4651-65c8-3c8e-9a05-58439bce88e1",
-  "lastfmId": "Vangelis/_/Conquest+of+Paradise",
-  "listeners": 259667,
-  "playcount": 1485584,
   "artistMbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "experimental",
       "instrumental"
     ]
+  },
+  "lastfm": {
+    "id": "Vangelis/_/Conquest+of+Paradise",
+    "listeners": 259667,
+    "playcount": 1485584
   }
 }

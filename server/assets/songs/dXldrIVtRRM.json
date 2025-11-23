@@ -18,8 +18,10 @@
     "youtube": "dXldrIVtRRM",
     "youtubeMusic": "dXldrIVtRRM"
   },
-  "lastfmId": "Henry+Hall/_/Teddy+Bears+Picnic",
-  "listeners": 1281,
-  "playcount": 4346,
-  "artistMbid": "6e8f93a7-eb40-4dec-a781-69b6dd77d145"
+  "artistMbid": "6e8f93a7-eb40-4dec-a781-69b6dd77d145",
+  "lastfm": {
+    "id": "Henry+Hall/_/Teddy+Bears+Picnic",
+    "listeners": 1281,
+    "playcount": 4346
+  }
 }

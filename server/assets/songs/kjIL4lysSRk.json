@@ -4,9 +4,6 @@
   "artist": "Danger Dan",
   "lastFetched": "2025-11-23T16:47:49.863Z",
   "mbid": "31eb83b1-2030-458f-b549-f9dd2d502fce",
-  "lastfmId": "Danger+Dan/_/Eine+gute+Nachricht",
-  "listeners": 19035,
-  "playcount": 168303,
   "artistMbid": "aaf0cc6b-8855-4a78-9b89-1574eb459f58",
   "musicbrainz": {
     "artistTags": [
@@ -17,5 +14,10 @@
       "conscious hip hop",
       "hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "Danger+Dan/_/Eine+gute+Nachricht",
+    "listeners": 19035,
+    "playcount": 168303
   }
 }

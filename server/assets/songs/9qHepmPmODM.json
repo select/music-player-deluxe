@@ -12,7 +12,9 @@
     "youtube": "9qHepmPmODM",
     "youtubeMusic": "9qHepmPmODM"
   },
-  "lastfmId": "Tracky+Birthday/_/Websiiite",
-  "listeners": 212,
-  "playcount": 1028
+  "lastfm": {
+    "id": "Tracky+Birthday/_/Websiiite",
+    "listeners": 212,
+    "playcount": 1028
+  }
 }

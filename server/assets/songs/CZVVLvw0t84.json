@@ -21,9 +21,6 @@
     "youtubeMusic": "CZVVLvw0t84"
   },
   "mbid": "5e41d64a-b9c5-4cba-aa74-9cd668bef38f",
-  "lastfmId": "Lucky+Chops/_/LC+Full+Blast",
-  "listeners": 1020,
-  "playcount": 4706,
   "artistMbid": "8ab73770-878d-4c67-803a-e89e59341324",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "instrumental",
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Lucky+Chops/_/LC+Full+Blast",
+    "listeners": 1020,
+    "playcount": 4706
   }
 }

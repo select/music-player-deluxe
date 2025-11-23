@@ -4,8 +4,10 @@
   "artist": "JAY-Z",
   "lastFetched": "2025-11-19T11:41:03.268Z",
   "mbid": "1bf0a424-fab7-4df6-8e34-92dd60b20f25",
-  "lastfmId": "JAY-Z/_/Wishing+on+a+Star",
-  "listeners": 11460,
-  "playcount": 31777,
-  "lastfmSummary": "Jay reflecting on his days of youth in Marcy Projects with all of his siblings and friends. <a href=\"http://www.last.fm/music/JAY-Z/_/Wishing+on+a+Star\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "JAY-Z/_/Wishing+on+a+Star",
+    "listeners": 11460,
+    "playcount": 31777,
+    "summary": "Jay reflecting on his days of youth in Marcy Projects with all of his siblings and friends. <a href=\"http://www.last.fm/music/JAY-Z/_/Wishing+on+a+Star\">Read more on Last.fm</a>."
+  }
 }

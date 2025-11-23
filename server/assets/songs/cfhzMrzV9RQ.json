@@ -12,9 +12,6 @@
     "youtubeMusic": "cfhzMrzV9RQ"
   },
   "mbid": "3c343c84-c5a7-47ce-979a-7ae96cd112a5",
-  "lastfmId": "Timo+Lassy/_/Sointu",
-  "listeners": 1978,
-  "playcount": 4690,
   "artistMbid": "65541f32-262c-4a6a-a887-d192d6630ff3",
   "musicbrainz": {
     "artistTags": [
@@ -23,5 +20,10 @@
     "artistGenres": [
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Timo+Lassy/_/Sointu",
+    "listeners": 1978,
+    "playcount": 4690
   }
 }

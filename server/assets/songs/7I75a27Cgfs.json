@@ -6,9 +6,6 @@
   "duration": 42,
   "youtubeId": "7I75a27Cgfs",
   "lastFetched": "2025-11-23T16:29:25.812Z",
-  "lastfmId": "Alligatoah/_/Der+gestichelte+Kater+-+Inhaltsangabe",
-  "listeners": 1604,
-  "playcount": 3628,
   "artistMbid": "ebf76ca6-a2c5-4d3a-8e84-7fa3be9e22ab",
   "musicbrainz": {
     "artistTags": [
@@ -24,5 +21,10 @@
       "hip hop",
       "rap metal"
     ]
+  },
+  "lastfm": {
+    "id": "Alligatoah/_/Der+gestichelte+Kater+-+Inhaltsangabe",
+    "listeners": 1604,
+    "playcount": 3628
   }
 }

@@ -22,8 +22,10 @@
     "youtube": "s93NCuXt7x4",
     "youtubeMusic": "s93NCuXt7x4"
   },
-  "lastfmId": "Ed+Sheeran/_/BLOW",
-  "listeners": 9304,
-  "playcount": 39466,
-  "artistMbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+  "artistMbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+  "lastfm": {
+    "id": "Ed+Sheeran/_/BLOW",
+    "listeners": 9304,
+    "playcount": 39466
+  }
 }

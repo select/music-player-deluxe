@@ -18,8 +18,10 @@
     "youtube": "s6rkmPEXPCw",
     "youtubeMusic": "s6rkmPEXPCw"
   },
-  "lastfmId": "Super+Cassette/_/Be+Gay,+Do+Drugs,+Hail+Satan",
-  "listeners": 41290,
-  "playcount": 303259,
-  "artistMbid": "4746502c-a0c4-44c3-af4d-827b4d71cf8c"
+  "artistMbid": "4746502c-a0c4-44c3-af4d-827b4d71cf8c",
+  "lastfm": {
+    "id": "Super+Cassette/_/Be+Gay,+Do+Drugs,+Hail+Satan",
+    "listeners": 41290,
+    "playcount": 303259
+  }
 }

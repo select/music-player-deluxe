@@ -12,8 +12,10 @@
     "youtube": "mA8NPhT8Qxo",
     "youtubeMusic": "mA8NPhT8Qxo"
   },
-  "lastfmId": "FEATER/_/Yogtze",
-  "listeners": 586,
-  "playcount": 1098,
-  "artistMbid": "e030ae23-82f4-495f-bd9c-d9bb4d5280f8"
+  "artistMbid": "e030ae23-82f4-495f-bd9c-d9bb4d5280f8",
+  "lastfm": {
+    "id": "FEATER/_/Yogtze",
+    "listeners": 586,
+    "playcount": 1098
+  }
 }

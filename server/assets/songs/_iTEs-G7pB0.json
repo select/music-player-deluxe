@@ -14,8 +14,10 @@
     "youtube": "_iTEs-G7pB0",
     "youtubeMusic": "_iTEs-G7pB0"
   },
-  "lastfmId": "Peret/_/El+muerto+vivo",
-  "listeners": 28179,
-  "playcount": 89041,
-  "artistMbid": "796481a3-2977-45b6-84b3-eb06bb10a903"
+  "artistMbid": "796481a3-2977-45b6-84b3-eb06bb10a903",
+  "lastfm": {
+    "id": "Peret/_/El+muerto+vivo",
+    "listeners": 28179,
+    "playcount": 89041
+  }
 }

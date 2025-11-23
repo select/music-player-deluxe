@@ -25,7 +25,9 @@
     "youtube": "R0JuVmYEfko",
     "youtubeMusic": "R0JuVmYEfko"
   },
-  "lastfmId": "Andrea+Belfi/_/Roteano",
-  "listeners": 2059,
-  "playcount": 5955
+  "lastfm": {
+    "id": "Andrea+Belfi/_/Roteano",
+    "listeners": 2059,
+    "playcount": 5955
+  }
 }

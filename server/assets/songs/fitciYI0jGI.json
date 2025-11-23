@@ -13,9 +13,6 @@
     "youtubeMusic": "fitciYI0jGI"
   },
   "mbid": "065f99c1-2b5a-3ac5-83a4-d9a734ef22f2",
-  "lastfmId": "Rose+Tattoo/_/Nice+Boys",
-  "listeners": 33674,
-  "playcount": 157545,
   "artistMbid": "e91bea6a-9cd5-454d-9cdf-cd1b33dadd36",
   "musicbrainz": {
     "artistTags": [
@@ -28,5 +25,10 @@
       "hard rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Rose+Tattoo/_/Nice+Boys",
+    "listeners": 33674,
+    "playcount": 157545
   }
 }

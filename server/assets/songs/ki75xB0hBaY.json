@@ -18,8 +18,10 @@
     "youtube": "ki75xB0hBaY",
     "youtubeMusic": "ki75xB0hBaY"
   },
-  "lastfmId": "Gwenno/_/Tonnow",
-  "listeners": 3247,
-  "playcount": 9188,
-  "artistMbid": "8f5b15bd-0777-4564-9801-17462e5ff715"
+  "artistMbid": "8f5b15bd-0777-4564-9801-17462e5ff715",
+  "lastfm": {
+    "id": "Gwenno/_/Tonnow",
+    "listeners": 3247,
+    "playcount": 9188
+  }
 }

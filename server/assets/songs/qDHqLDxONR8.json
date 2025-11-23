@@ -12,9 +12,6 @@
     "youtubeMusic": "qDHqLDxONR8"
   },
   "mbid": "dd26b00d-f430-40f1-9dc2-ee487fb5194b",
-  "lastfmId": "Leroy+Hutson/_/Cool+Out",
-  "listeners": 92249,
-  "playcount": 261779,
   "artistMbid": "410b8630-2fd5-4368-8a5b-dbc5e82f6b1c",
   "musicbrainz": {
     "artistTags": [
@@ -23,5 +20,10 @@
     "artistGenres": [
       "soul"
     ]
+  },
+  "lastfm": {
+    "id": "Leroy+Hutson/_/Cool+Out",
+    "listeners": 92249,
+    "playcount": 261779
   }
 }

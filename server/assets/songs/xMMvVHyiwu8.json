@@ -7,9 +7,6 @@
   "duration": 288,
   "youtubeId": "xMMvVHyiwu8",
   "lastFetched": "2025-11-19T04:31:37.716Z",
-  "lastfmId": "Jonny+Hill/_/Ruf+Teddyb%C3%A4r+eins-vier",
-  "listeners": 5259,
-  "playcount": 15712,
   "musicbrainz": {
     "tags": [
       "country",
@@ -17,5 +14,10 @@
       "rock",
       "schlager"
     ]
+  },
+  "lastfm": {
+    "id": "Jonny+Hill/_/Ruf+Teddyb%C3%A4r+eins-vier",
+    "listeners": 5259,
+    "playcount": 15712
   }
 }

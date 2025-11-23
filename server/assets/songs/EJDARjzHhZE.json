@@ -7,12 +7,14 @@
   "duration": 216,
   "youtubeId": "EJDARjzHhZE",
   "lastFetched": "2025-11-19T04:24:31.216Z",
-  "lastfmId": "DOMi+&+JD+Beck/_/Sniff",
-  "listeners": 38050,
-  "playcount": 160018,
   "musicbrainz": {
     "artistTags": [
       "jazz fusion"
     ]
+  },
+  "lastfm": {
+    "id": "DOMi+&+JD+Beck/_/Sniff",
+    "listeners": 38050,
+    "playcount": 160018
   }
 }

@@ -14,8 +14,10 @@
     "youtube": "Bl4ZHcdWBak",
     "youtubeMusic": "Bl4ZHcdWBak"
   },
-  "lastfmId": "Rogier+de+Nijs/_/Renewal+of+Hope",
-  "listeners": 10,
-  "playcount": 21,
-  "artistMbid": "515b1107-a7ea-462a-9375-c9e075075522"
+  "artistMbid": "515b1107-a7ea-462a-9375-c9e075075522",
+  "lastfm": {
+    "id": "Rogier+de+Nijs/_/Renewal+of+Hope",
+    "listeners": 10,
+    "playcount": 21
+  }
 }

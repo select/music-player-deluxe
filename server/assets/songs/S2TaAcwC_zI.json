@@ -22,9 +22,6 @@
     "youtubeMusic": "S2TaAcwC_zI"
   },
   "mbid": "d41e7f0b-ab24-4212-9b81-02f6e876d6d2",
-  "lastfmId": "Kenya+Grace/_/Strangers",
-  "listeners": 837696,
-  "playcount": 9867901,
   "artistMbid": "94c4459d-4c35-4bc6-8bca-c75107515c1c",
   "musicbrainz": {
     "tags": [
@@ -34,5 +31,10 @@
       "dance",
       "vocal"
     ]
+  },
+  "lastfm": {
+    "id": "Kenya+Grace/_/Strangers",
+    "listeners": 837696,
+    "playcount": 9867901
   }
 }

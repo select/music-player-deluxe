@@ -17,11 +17,7 @@
     "youtubeMusic": "LZ5fIKmn1ok"
   },
   "mbid": "6163e20c-9bfe-4bef-9c46-eb3a2b122097",
-  "lastfmId": "Mot%C3%B6rhead/_/Killed+by+Death",
-  "listeners": 221339,
-  "playcount": 1156333,
   "artistMbid": "57961a97-3796-4bf7-9f02-a985a8979ae9",
-  "lastfmSummary": " <a href=\"http://www.last.fm/music/Mot%C3%B6rhead/_/Killed+by+Death\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -40,5 +36,11 @@
       "rock",
       "speed metal"
     ]
+  },
+  "lastfm": {
+    "id": "Mot%C3%B6rhead/_/Killed+by+Death",
+    "listeners": 221339,
+    "playcount": 1156333,
+    "summary": " <a href=\"http://www.last.fm/music/Mot%C3%B6rhead/_/Killed+by+Death\">Read more on Last.fm</a>."
   }
 }

@@ -16,9 +16,6 @@
     "youtubeMusic": "IsyNi5Lkbn4"
   },
   "mbid": "4f8325f5-227d-402b-ae37-3325fc7f6b19",
-  "lastfmId": "Bear+Ghost/_/Dotab",
-  "listeners": 7812,
-  "playcount": 65299,
   "artistMbid": "ce41dd47-f5bd-46a8-9155-a1c20e3e8f7e",
   "musicbrainz": {
     "artistTags": [
@@ -30,5 +27,10 @@
       "progressive rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Bear+Ghost/_/Dotab",
+    "listeners": 7812,
+    "playcount": 65299
   }
 }

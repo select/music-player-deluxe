@@ -12,7 +12,9 @@
     "youtube": "4vSdnj80p6s",
     "youtubeMusic": "4vSdnj80p6s"
   },
-  "lastfmId": "Fox/_/Move+Kinda+Different",
-  "listeners": 330,
-  "playcount": 626
+  "lastfm": {
+    "id": "Fox/_/Move+Kinda+Different",
+    "listeners": 330,
+    "playcount": 626
+  }
 }

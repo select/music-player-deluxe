@@ -14,8 +14,10 @@
     "youtube": "8nfhHBJQXOY",
     "youtubeMusic": "8nfhHBJQXOY"
   },
-  "lastfmId": "Bastille/_/Pompeii+MMXXIII",
-  "listeners": 41241,
-  "playcount": 245764,
-  "artistMbid": "7808accb-6395-4b25-858c-678bbb73896b"
+  "artistMbid": "7808accb-6395-4b25-858c-678bbb73896b",
+  "lastfm": {
+    "id": "Bastille/_/Pompeii+MMXXIII",
+    "listeners": 41241,
+    "playcount": 245764
+  }
 }

@@ -17,7 +17,9 @@
     "youtube": "NN41klNPKvA",
     "youtubeMusic": "NN41klNPKvA"
   },
-  "lastfmId": "Chrome+Sparks/_/Marijuana",
-  "listeners": 250542,
-  "playcount": 1722167
+  "lastfm": {
+    "id": "Chrome+Sparks/_/Marijuana",
+    "listeners": 250542,
+    "playcount": 1722167
+  }
 }

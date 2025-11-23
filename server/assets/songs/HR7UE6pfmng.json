@@ -12,13 +12,13 @@
     "youtube": "HR7UE6pfmng",
     "youtubeMusic": "HR7UE6pfmng"
   },
-  "lastfmId": "Paul+Hardcastle/_/King+Tut",
-  "listeners": 10729,
-  "playcount": 38377,
   "lastfm": {
     "title": "King Tut",
     "artist": "Paul Hardcastle",
     "mbid": "0027b601-246e-393b-83e2-ec2c0ee90a44",
-    "artistMbid": "58e2800d-991d-4fe9-860b-1d27931ae8de"
+    "artistMbid": "58e2800d-991d-4fe9-860b-1d27931ae8de",
+    "id": "Paul+Hardcastle/_/King+Tut",
+    "listeners": 10729,
+    "playcount": 38377
   }
 }

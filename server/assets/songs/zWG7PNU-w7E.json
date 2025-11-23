@@ -14,8 +14,10 @@
     "youtube": "zWG7PNU-w7E",
     "youtubeMusic": "zWG7PNU-w7E"
   },
-  "lastfmId": "Time+Travel/_/Forget+Me+Nots",
-  "listeners": 77,
-  "playcount": 416,
-  "artistMbid": "91770e2a-03d7-452c-83a5-c0a8c18fd8a1"
+  "artistMbid": "91770e2a-03d7-452c-83a5-c0a8c18fd8a1",
+  "lastfm": {
+    "id": "Time+Travel/_/Forget+Me+Nots",
+    "listeners": 77,
+    "playcount": 416
+  }
 }

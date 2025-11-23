@@ -3,7 +3,9 @@
   "title": "Glasgow 1999",
   "artist": "Beastie Boys",
   "lastFetched": "2025-11-19T11:18:40.461Z",
-  "lastfmId": "Beastie+Boys/_/Glasgow+1999",
-  "listeners": 33,
-  "playcount": 60
+  "lastfm": {
+    "id": "Beastie+Boys/_/Glasgow+1999",
+    "listeners": 33,
+    "playcount": 60
+  }
 }

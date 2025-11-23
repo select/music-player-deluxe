@@ -15,12 +15,14 @@
     "youtube": "49JD1xOLH6E",
     "youtubeMusic": "49JD1xOLH6E"
   },
-  "lastfmId": "Felix+Kubin/_/Der+Tanz+Aller",
-  "listeners": 160,
-  "playcount": 330,
   "musicbrainz": {
     "artistTags": [
       "sci-fi"
     ]
+  },
+  "lastfm": {
+    "id": "Felix+Kubin/_/Der+Tanz+Aller",
+    "listeners": 160,
+    "playcount": 330
   }
 }

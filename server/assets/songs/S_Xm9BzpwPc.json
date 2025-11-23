@@ -14,9 +14,6 @@
     "youtubeMusic": "S_Xm9BzpwPc"
   },
   "mbid": "995888c5-9d00-4d34-b848-cbfe949520be",
-  "lastfmId": "Bad+Religion/_/Punk+Rock+Song",
-  "listeners": 268658,
-  "playcount": 1679413,
   "artistMbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "punk rock",
       "skate punk"
     ]
+  },
+  "lastfm": {
+    "id": "Bad+Religion/_/Punk+Rock+Song",
+    "listeners": 268658,
+    "playcount": 1679413
   }
 }

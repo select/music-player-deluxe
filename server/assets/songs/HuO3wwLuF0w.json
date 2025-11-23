@@ -10,13 +10,13 @@
     "youtube": "HuO3wwLuF0w",
     "youtubeMusic": "HuO3wwLuF0w"
   },
-  "lastfmId": "Big+Black/_/Kerosene",
-  "listeners": 108552,
-  "playcount": 646097,
   "lastfm": {
     "title": "Kerosene",
     "artist": "Big Black",
     "mbid": "103c2b7a-5e40-447d-a273-555adfa27818",
-    "artistMbid": "9463868f-edc8-427e-ac07-ea89698e5f15"
+    "artistMbid": "9463868f-edc8-427e-ac07-ea89698e5f15",
+    "id": "Big+Black/_/Kerosene",
+    "listeners": 108552,
+    "playcount": 646097
   }
 }

@@ -19,8 +19,10 @@
     "youtubeMusic": "jSk0Pv5X0Cg"
   },
   "mbid": "2e85fe5c-f4e8-3340-8a5b-1514e2ef8a4b",
-  "lastfmId": "The+Coffin+Daggers/_/Psychonaut",
-  "listeners": 3149,
-  "playcount": 9179,
-  "artistMbid": "bf1f85a1-cdac-4f13-91d7-b5cc88d99b5b"
+  "artistMbid": "bf1f85a1-cdac-4f13-91d7-b5cc88d99b5b",
+  "lastfm": {
+    "id": "The+Coffin+Daggers/_/Psychonaut",
+    "listeners": 3149,
+    "playcount": 9179
+  }
 }

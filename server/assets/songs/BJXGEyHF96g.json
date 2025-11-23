@@ -11,7 +11,9 @@
     "youtube": "BJXGEyHF96g",
     "youtubeMusic": "BJXGEyHF96g"
   },
-  "lastfmId": "Rob+LFO/_/They%27re+Energised",
-  "listeners": 73,
-  "playcount": 145
+  "lastfm": {
+    "id": "Rob+LFO/_/They%27re+Energised",
+    "listeners": 73,
+    "playcount": 145
+  }
 }

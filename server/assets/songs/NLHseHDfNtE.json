@@ -11,8 +11,10 @@
     "youtube": "NLHseHDfNtE",
     "youtubeMusic": "NLHseHDfNtE"
   },
-  "lastfmId": "Passafire/_/Stash",
-  "listeners": 1020,
-  "playcount": 5662,
-  "artistMbid": "d34516e1-b370-4b97-addd-6363ef0e9ecc"
+  "artistMbid": "d34516e1-b370-4b97-addd-6363ef0e9ecc",
+  "lastfm": {
+    "id": "Passafire/_/Stash",
+    "listeners": 1020,
+    "playcount": 5662
+  }
 }

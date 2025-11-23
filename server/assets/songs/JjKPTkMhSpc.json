@@ -19,8 +19,10 @@
     "youtube": "JjKPTkMhSpc",
     "youtubeMusic": "JjKPTkMhSpc"
   },
-  "lastfmId": "Namika/_/Liebe+ist...",
-  "listeners": 7659,
-  "playcount": 35744,
-  "artistMbid": "dffb8426-b595-4b95-8abe-d07af75e87ef"
+  "artistMbid": "dffb8426-b595-4b95-8abe-d07af75e87ef",
+  "lastfm": {
+    "id": "Namika/_/Liebe+ist...",
+    "listeners": 7659,
+    "playcount": 35744
+  }
 }

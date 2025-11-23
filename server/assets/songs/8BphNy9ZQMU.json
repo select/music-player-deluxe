@@ -16,8 +16,10 @@
     "youtube": "8BphNy9ZQMU",
     "youtubeMusic": "8BphNy9ZQMU"
   },
-  "lastfmId": "Gustavo+Bravetti/_/Babel",
-  "listeners": 39288,
-  "playcount": 235444,
-  "artistMbid": "c686937f-7a80-4b30-abe6-00430898b70b"
+  "artistMbid": "c686937f-7a80-4b30-abe6-00430898b70b",
+  "lastfm": {
+    "id": "Gustavo+Bravetti/_/Babel",
+    "listeners": 39288,
+    "playcount": 235444
+  }
 }

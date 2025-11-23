@@ -12,8 +12,10 @@
     "youtube": "LkkskkI5jfA",
     "youtubeMusic": "LkkskkI5jfA"
   },
-  "lastfmId": "Lucas+Croon/_/Krautwickel",
-  "listeners": 309,
-  "playcount": 611,
-  "artistMbid": "3d1e33c5-93e5-477d-af54-de23fda1b348"
+  "artistMbid": "3d1e33c5-93e5-477d-af54-de23fda1b348",
+  "lastfm": {
+    "id": "Lucas+Croon/_/Krautwickel",
+    "listeners": 309,
+    "playcount": 611
+  }
 }

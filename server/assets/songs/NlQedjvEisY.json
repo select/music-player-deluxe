@@ -15,8 +15,10 @@
     "youtube": "NlQedjvEisY",
     "youtubeMusic": "NlQedjvEisY"
   },
-  "lastfmId": "Jon+Bap/_/Queen+Chimera+Pt.1",
-  "listeners": 3156,
-  "playcount": 7916,
-  "artistMbid": "6674d1df-643f-4373-a74a-8df912a87541"
+  "artistMbid": "6674d1df-643f-4373-a74a-8df912a87541",
+  "lastfm": {
+    "id": "Jon+Bap/_/Queen+Chimera+Pt.1",
+    "listeners": 3156,
+    "playcount": 7916
+  }
 }

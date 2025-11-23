@@ -13,9 +13,6 @@
     "youtubeMusic": "csILUDfmtqM"
   },
   "mbid": "a7ec324a-0ffc-4392-8390-189842095ad6",
-  "lastfmId": "Khruangbin/_/Hold+Me+Up+(Thank+You)",
-  "listeners": 96961,
-  "playcount": 384278,
   "artistMbid": "aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634",
   "musicbrainz": {
     "tags": [
@@ -43,5 +40,10 @@
       "funk",
       "indie rock"
     ]
+  },
+  "lastfm": {
+    "id": "Khruangbin/_/Hold+Me+Up+(Thank+You)",
+    "listeners": 96961,
+    "playcount": 384278
   }
 }

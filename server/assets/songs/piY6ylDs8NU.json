@@ -16,7 +16,9 @@
     "youtube": "piY6ylDs8NU",
     "youtubeMusic": "piY6ylDs8NU"
   },
-  "lastfmId": "Dizzee+Rascal/_/London+Boy",
-  "listeners": 1811,
-  "playcount": 6071
+  "lastfm": {
+    "id": "Dizzee+Rascal/_/London+Boy",
+    "listeners": 1811,
+    "playcount": 6071
+  }
 }

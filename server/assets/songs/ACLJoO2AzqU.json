@@ -19,7 +19,9 @@
     "youtube": "ACLJoO2AzqU",
     "youtubeMusic": "ACLJoO2AzqU"
   },
-  "lastfmId": "Fat+Freddy%27s+Drop/_/No+Parking",
-  "listeners": 5254,
-  "playcount": 18208
+  "lastfm": {
+    "id": "Fat+Freddy%27s+Drop/_/No+Parking",
+    "listeners": 5254,
+    "playcount": 18208
+  }
 }

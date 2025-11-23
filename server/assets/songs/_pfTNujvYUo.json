@@ -20,9 +20,6 @@
     "youtubeMusic": "_pfTNujvYUo"
   },
   "mbid": "4e1b1d9b-4c6f-40fe-8c30-b1811ee55d6a",
-  "lastfmId": "Brainticket/_/Coc%27+O+Mary",
-  "listeners": 2241,
-  "playcount": 4934,
   "artistMbid": "8fbbcf55-9fc9-4e06-99dc-ef76d5816dcd",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "progressive rock",
       "psychedelic rock"
     ]
+  },
+  "lastfm": {
+    "id": "Brainticket/_/Coc%27+O+Mary",
+    "listeners": 2241,
+    "playcount": 4934
   }
 }

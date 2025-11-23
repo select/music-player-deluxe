@@ -13,8 +13,10 @@
     "youtube": "cpprnWM0psw",
     "youtubeMusic": "cpprnWM0psw"
   },
-  "lastfmId": "Chase+&+Status/_/NRG",
-  "listeners": 14405,
-  "playcount": 64070,
-  "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+  "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+  "lastfm": {
+    "id": "Chase+&+Status/_/NRG",
+    "listeners": 14405,
+    "playcount": 64070
+  }
 }

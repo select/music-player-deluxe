@@ -6,8 +6,6 @@
   "youtubeId": "D7DJDABIbGk",
   "lastFetched": "2025-11-19T02:43:37.873Z",
   "releaseCount": 8,
-  "listeners": 3580,
-  "playcount": 4374,
   "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
   "musicbrainz": {
     "tags": [
@@ -56,5 +54,9 @@
       "progressive pop",
       "trip hop"
     ]
+  },
+  "lastfm": {
+    "listeners": 3580,
+    "playcount": 4374
   }
 }

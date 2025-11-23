@@ -23,11 +23,7 @@
     "youtube": "XnygT6ANLzQ",
     "youtubeMusic": "XnygT6ANLzQ"
   },
-  "lastfmId": "Skrilla/_/Doot+Doot+(6+7)",
-  "listeners": 117270,
-  "playcount": 449036,
   "artistMbid": "7edb1ae1-770e-499a-a8be-cbd0c144516c",
-  "lastfmSummary": "sixxx sevennn 🤤🤤🤤 (the tiktok trend) <a href=\"http://www.last.fm/music/Skrilla/_/Doot+Doot+(6+7)\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "hip hop"
@@ -35,5 +31,11 @@
     "artistGenres": [
       "hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "Skrilla/_/Doot+Doot+(6+7)",
+    "listeners": 117270,
+    "playcount": 449036,
+    "summary": "sixxx sevennn 🤤🤤🤤 (the tiktok trend) <a href=\"http://www.last.fm/music/Skrilla/_/Doot+Doot+(6+7)\">Read more on Last.fm</a>."
   }
 }

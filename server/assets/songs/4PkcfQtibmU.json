@@ -4,11 +4,7 @@
   "artist": "Foo Fighters",
   "lastFetched": "2025-11-23T16:27:46.599Z",
   "mbid": "0734d285-4838-480d-acd3-a54352ba6a45",
-  "lastfmId": "Foo+Fighters/_/Walk",
-  "listeners": 721864,
-  "playcount": 6239111,
   "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
-  "lastfmSummary": "The Walk Songfacts reports that The Foo Fighters performed this song at the 2012 Grammy Awards. They won five Grammys at the ceremony, including Best Rock Performance and Best Rock Song for this track. <a href=\"http://www.last.fm/music/Foo+Fighters/_/Walk\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -25,5 +21,11 @@
       "post-grunge",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Foo+Fighters/_/Walk",
+    "listeners": 721864,
+    "playcount": 6239111,
+    "summary": "The Walk Songfacts reports that The Foo Fighters performed this song at the 2012 Grammy Awards. They won five Grammys at the ceremony, including Best Rock Performance and Best Rock Song for this track. <a href=\"http://www.last.fm/music/Foo+Fighters/_/Walk\">Read more on Last.fm</a>."
   }
 }

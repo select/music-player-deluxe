@@ -13,8 +13,10 @@
     "youtube": "NfDEEyg3AdA",
     "youtubeMusic": "NfDEEyg3AdA"
   },
-  "lastfmId": "ROSAL%C3%8DA/_/De+Plata",
-  "listeners": 72140,
-  "playcount": 319777,
-  "artistMbid": "25f3abd9-63b5-471a-bd25-feb9672dfa11"
+  "artistMbid": "25f3abd9-63b5-471a-bd25-feb9672dfa11",
+  "lastfm": {
+    "id": "ROSAL%C3%8DA/_/De+Plata",
+    "listeners": 72140,
+    "playcount": 319777
+  }
 }

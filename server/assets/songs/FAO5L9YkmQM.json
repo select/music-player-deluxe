@@ -10,8 +10,10 @@
     "youtubeMusic": "FAO5L9YkmQM"
   },
   "mbid": "7dafba13-3498-4ce9-b1be-b7d57fe52001",
-  "lastfmId": "Kultur+Shock/_/Unamerikan",
-  "listeners": 2186,
-  "playcount": 8449,
-  "artistMbid": "fddb7d67-7977-4ab5-884c-f5644c78b700"
+  "artistMbid": "fddb7d67-7977-4ab5-884c-f5644c78b700",
+  "lastfm": {
+    "id": "Kultur+Shock/_/Unamerikan",
+    "listeners": 2186,
+    "playcount": 8449
+  }
 }

@@ -22,9 +22,6 @@
     "youtubeMusic": "eNZaaHgSBF8"
   },
   "mbid": "448e4900-3a5b-4434-b728-d5571637d0ff",
-  "lastfmId": "Gareth+Coker/_/Down+the+Moon+Grotto",
-  "listeners": 17666,
-  "playcount": 84520,
   "artistMbid": "96eca91a-fdb5-4a0e-908b-ba526ba166df",
   "musicbrainz": {
     "artistTags": [
@@ -40,5 +37,10 @@
       "folk",
       "instrumental"
     ]
+  },
+  "lastfm": {
+    "id": "Gareth+Coker/_/Down+the+Moon+Grotto",
+    "listeners": 17666,
+    "playcount": 84520
   }
 }

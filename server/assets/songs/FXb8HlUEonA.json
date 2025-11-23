@@ -14,9 +14,6 @@
     "youtube": "FXb8HlUEonA",
     "youtubeMusic": "FXb8HlUEonA"
   },
-  "lastfmId": "Keeno/_/Enigma",
-  "listeners": 9510,
-  "playcount": 44820,
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
@@ -28,5 +25,10 @@
       "electronic",
       "liquid funk"
     ]
+  },
+  "lastfm": {
+    "id": "Keeno/_/Enigma",
+    "listeners": 9510,
+    "playcount": 44820
   }
 }

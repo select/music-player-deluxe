@@ -19,8 +19,10 @@
     "youtube": "bLeLwFkAIcs",
     "youtubeMusic": "bLeLwFkAIcs"
   },
-  "lastfmId": "Aquarian/_/Sam+Handwich",
-  "listeners": 902,
-  "playcount": 2440,
-  "artistMbid": "46aba787-c9f1-4909-8e12-f91f80a79360"
+  "artistMbid": "46aba787-c9f1-4909-8e12-f91f80a79360",
+  "lastfm": {
+    "id": "Aquarian/_/Sam+Handwich",
+    "listeners": 902,
+    "playcount": 2440
+  }
 }

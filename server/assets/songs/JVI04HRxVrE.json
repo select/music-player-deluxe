@@ -21,9 +21,6 @@
     "youtubeMusic": "JVI04HRxVrE"
   },
   "mbid": "4f8df84e-f143-446d-a014-5f84ebd45f57",
-  "lastfmId": "Godsmack/_/Surrender",
-  "listeners": 27160,
-  "playcount": 145247,
   "artistMbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2",
   "musicbrainz": {
     "artistTags": [
@@ -43,5 +40,10 @@
       "hard rock",
       "metal"
     ]
+  },
+  "lastfm": {
+    "id": "Godsmack/_/Surrender",
+    "listeners": 27160,
+    "playcount": 145247
   }
 }

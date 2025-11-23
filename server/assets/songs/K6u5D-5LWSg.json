@@ -17,9 +17,6 @@
     "youtubeMusic": "K6u5D-5LWSg"
   },
   "mbid": "74dbe19e-0e7f-4921-91d4-e6aa04860159",
-  "lastfmId": "%C3%93lafur+Arnalds/_/3055",
-  "listeners": 109945,
-  "playcount": 630762,
   "artistMbid": "6655955b-1c1e-4bcb-84e4-81bcd9efab30",
   "musicbrainz": {
     "tags": [
@@ -60,5 +57,10 @@
       "classical crossover",
       "contemporary classical"
     ]
+  },
+  "lastfm": {
+    "id": "%C3%93lafur+Arnalds/_/3055",
+    "listeners": 109945,
+    "playcount": 630762
   }
 }

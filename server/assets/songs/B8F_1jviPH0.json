@@ -20,9 +20,6 @@
     "youtubeMusic": "B8F_1jviPH0"
   },
   "mbid": "1c9bd536-c9ee-45fb-be27-a24e68a459e5",
-  "lastfmId": "Ivy+Lab/_/Look+Away",
-  "listeners": 2035,
-  "playcount": 6982,
   "artistMbid": "05a8fca6-3178-4f95-ad82-d325bc6102fe",
   "musicbrainz": {
     "artistTags": [
@@ -44,5 +41,10 @@
       "future bass",
       "halftime"
     ]
+  },
+  "lastfm": {
+    "id": "Ivy+Lab/_/Look+Away",
+    "listeners": 2035,
+    "playcount": 6982
   }
 }

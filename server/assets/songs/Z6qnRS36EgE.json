@@ -19,11 +19,7 @@
     "youtubeMusic": "Z6qnRS36EgE"
   },
   "mbid": "dbe310b1-db36-4db9-bcfc-e35e84e2925f",
-  "lastfmId": "Smokie/_/Living+Next+Door+to+Alice",
-  "listeners": 211393,
-  "playcount": 977271,
   "artistMbid": "165e2705-abf7-4f1b-8971-4ceed8769c4d",
-  "lastfmSummary": "This song is a 1976 top ten hit for the UK Band Smokie. It is often thought to be called \"Who the Fuck is Alice\" or \"Alice! Who the Fuck is Alice?\" or some variation of such. The band noticed that while touring in Ireland, that whenever they sang the main line \"For 24 years/I've been living next door to Alice\" the audience would shout \"Who the fuck is Alice?\". The resident DJ in Dutch café Gompie first came up with this phrase and, after a local record producer had noted its popularity and organized a recording <a href=\"http://www.last.fm/music/Smokie/_/Living+Next+Door+to+Alice\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "glam rock",
@@ -39,5 +35,11 @@
       "rock",
       "soft rock"
     ]
+  },
+  "lastfm": {
+    "id": "Smokie/_/Living+Next+Door+to+Alice",
+    "listeners": 211393,
+    "playcount": 977271,
+    "summary": "This song is a 1976 top ten hit for the UK Band Smokie. It is often thought to be called \"Who the Fuck is Alice\" or \"Alice! Who the Fuck is Alice?\" or some variation of such. The band noticed that while touring in Ireland, that whenever they sang the main line \"For 24 years/I've been living next door to Alice\" the audience would shout \"Who the fuck is Alice?\". The resident DJ in Dutch café Gompie first came up with this phrase and, after a local record producer had noted its popularity and organized a recording <a href=\"http://www.last.fm/music/Smokie/_/Living+Next+Door+to+Alice\">Read more on Last.fm</a>."
   }
 }

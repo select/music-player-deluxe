@@ -17,7 +17,9 @@
     "youtube": "1k-mAo46XSU",
     "youtubeMusic": "1k-mAo46XSU"
   },
-  "lastfmId": "Crooked+Still/_/Sometimes+In+This+Country",
-  "listeners": 7180,
-  "playcount": 25850
+  "lastfm": {
+    "id": "Crooked+Still/_/Sometimes+In+This+Country",
+    "listeners": 7180,
+    "playcount": 25850
+  }
 }

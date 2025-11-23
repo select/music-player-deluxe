@@ -15,9 +15,6 @@
     "youtubeMusic": "YFsC6M7x32g"
   },
   "mbid": "0c5e6cde-4282-430b-b261-6163e5c0e17f",
-  "lastfmId": "Diamond+Head/_/The+Coffin+Train",
-  "listeners": 5025,
-  "playcount": 17961,
   "artistMbid": "d3dd86df-2f57-4a97-8100-d09915343f60",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
       "metal",
       "nwobhm"
     ]
+  },
+  "lastfm": {
+    "id": "Diamond+Head/_/The+Coffin+Train",
+    "listeners": 5025,
+    "playcount": 17961
   }
 }

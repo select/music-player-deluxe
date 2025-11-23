@@ -19,7 +19,9 @@
     "youtube": "mQAIxMyzGLc",
     "youtubeMusic": "mQAIxMyzGLc"
   },
-  "lastfmId": "Frank+Zappa/_/We+Are+Not+Alone",
-  "listeners": 20624,
-  "playcount": 86406
+  "lastfm": {
+    "id": "Frank+Zappa/_/We+Are+Not+Alone",
+    "listeners": 20624,
+    "playcount": 86406
+  }
 }

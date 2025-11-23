@@ -13,9 +13,6 @@
     "youtubeMusic": "C9Dd0xT7MS4"
   },
   "mbid": "3279268f-d61c-489c-89da-e00fe0958cb7",
-  "lastfmId": "Papa+Roach/_/Feel+Like+Home",
-  "listeners": 22222,
-  "playcount": 163841,
   "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
   "musicbrainz": {
     "artistTags": [
@@ -33,5 +30,10 @@
       "nu metal",
       "pop rock"
     ]
+  },
+  "lastfm": {
+    "id": "Papa+Roach/_/Feel+Like+Home",
+    "listeners": 22222,
+    "playcount": 163841
   }
 }

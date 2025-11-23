@@ -20,9 +20,6 @@
     "youtube": "iijKLHCQw5o",
     "youtubeMusic": "iijKLHCQw5o"
   },
-  "lastfmId": "Eluveitie/_/Inis+Mona",
-  "listeners": 214444,
-  "playcount": 2789787,
   "musicbrainz": {
     "tags": [
       "death metal",
@@ -33,5 +30,10 @@
       "rock",
       "viking metal"
     ]
+  },
+  "lastfm": {
+    "id": "Eluveitie/_/Inis+Mona",
+    "listeners": 214444,
+    "playcount": 2789787
   }
 }

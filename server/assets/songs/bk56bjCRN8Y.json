@@ -21,9 +21,6 @@
     "youtubeMusic": "bk56bjCRN8Y"
   },
   "mbid": "a61fa87e-dcbd-4cdb-8fd3-7925ba83cd06",
-  "lastfmId": "Jaimie+Branch/_/burning+grey",
-  "listeners": 10447,
-  "playcount": 27249,
   "artistMbid": "8ff2bf9c-d1b6-4134-ae14-b837913c3dfd",
   "musicbrainz": {
     "artistTags": [
@@ -34,5 +31,10 @@
       "free jazz",
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Jaimie+Branch/_/burning+grey",
+    "listeners": 10447,
+    "playcount": 27249
   }
 }

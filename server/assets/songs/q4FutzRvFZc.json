@@ -19,8 +19,10 @@
     "youtubeMusic": "q4FutzRvFZc"
   },
   "mbid": "e72c4a68-e2b0-429f-96d4-9ca674c89abc",
-  "lastfmId": "Oneda/_/Love+Reality",
-  "listeners": 618,
-  "playcount": 1532,
-  "artistMbid": "3c7e507a-210d-432a-b2cb-a32da67acd6f"
+  "artistMbid": "3c7e507a-210d-432a-b2cb-a32da67acd6f",
+  "lastfm": {
+    "id": "Oneda/_/Love+Reality",
+    "listeners": 618,
+    "playcount": 1532
+  }
 }

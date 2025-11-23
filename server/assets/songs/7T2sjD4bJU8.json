@@ -19,8 +19,10 @@
     "youtube": "7T2sjD4bJU8",
     "youtubeMusic": "7T2sjD4bJU8"
   },
-  "lastfmId": "Alan+Aztec/_/K%C3%BCbelwagen+GTI+(feat.+R5on11c)",
-  "listeners": 139,
-  "playcount": 761,
-  "artistMbid": "fb51c88f-1f42-4fa0-a9af-e62497c86eb2"
+  "artistMbid": "fb51c88f-1f42-4fa0-a9af-e62497c86eb2",
+  "lastfm": {
+    "id": "Alan+Aztec/_/K%C3%BCbelwagen+GTI+(feat.+R5on11c)",
+    "listeners": 139,
+    "playcount": 761
+  }
 }

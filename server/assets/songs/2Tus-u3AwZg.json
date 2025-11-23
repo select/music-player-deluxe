@@ -21,8 +21,10 @@
     "youtube": "2Tus-u3AwZg",
     "youtubeMusic": "2Tus-u3AwZg"
   },
-  "lastfmId": "Snavs/_/Murda",
-  "listeners": 12780,
-  "playcount": 71999,
-  "artistMbid": "67952cb7-0869-45d7-b106-87d564ce9ef4"
+  "artistMbid": "67952cb7-0869-45d7-b106-87d564ce9ef4",
+  "lastfm": {
+    "id": "Snavs/_/Murda",
+    "listeners": 12780,
+    "playcount": 71999
+  }
 }

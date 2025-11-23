@@ -12,8 +12,10 @@
     "youtube": "kZQUlcf5P3E",
     "youtubeMusic": "kZQUlcf5P3E"
   },
-  "lastfmId": "Die+T%C3%BCren/_/Gut+f%C3%BCr+mich,+schlecht+f%C3%BCr+die+Welt",
-  "listeners": 602,
-  "playcount": 1702,
-  "artistMbid": "70885aba-47cb-4566-ac6b-8a180e551d42"
+  "artistMbid": "70885aba-47cb-4566-ac6b-8a180e551d42",
+  "lastfm": {
+    "id": "Die+T%C3%BCren/_/Gut+f%C3%BCr+mich,+schlecht+f%C3%BCr+die+Welt",
+    "listeners": 602,
+    "playcount": 1702
+  }
 }

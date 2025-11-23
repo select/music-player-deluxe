@@ -4,9 +4,6 @@
   "artist": "Margo Guryan",
   "lastFetched": "2025-11-23T16:38:03.959Z",
   "mbid": "5985131f-41d0-34d2-ad67-a6dfe0bc2457",
-  "lastfmId": "Margo+Guryan/_/16+Words",
-  "listeners": 10169,
-  "playcount": 28438,
   "artistMbid": "cd2867c5-c2f0-4f86-b8aa-a7be324cb916",
   "musicbrainz": {
     "artistTags": [
@@ -21,5 +18,10 @@
       "singer-songwriter",
       "sunshine pop"
     ]
+  },
+  "lastfm": {
+    "id": "Margo+Guryan/_/16+Words",
+    "listeners": 10169,
+    "playcount": 28438
   }
 }

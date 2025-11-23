@@ -16,7 +16,9 @@
     "youtube": "C1wKQUFuzng",
     "youtubeMusic": "C1wKQUFuzng"
   },
-  "lastfmId": "Deichkind/_/In+Der+Natur",
-  "listeners": 10319,
-  "playcount": 68176
+  "lastfm": {
+    "id": "Deichkind/_/In+Der+Natur",
+    "listeners": 10319,
+    "playcount": 68176
+  }
 }

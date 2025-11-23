@@ -17,11 +17,11 @@
     "youtube": "oLuJby7ZKEY",
     "youtubeMusic": "oLuJby7ZKEY"
   },
-  "lastfmId": "The+Ink+Spots/_/We%27ll+Meet+Again",
-  "listeners": 190512,
-  "playcount": 996739,
   "lastfm": {
     "title": "We'll Meet Again",
-    "artist": "The Ink Spots"
+    "artist": "The Ink Spots",
+    "id": "The+Ink+Spots/_/We%27ll+Meet+Again",
+    "listeners": 190512,
+    "playcount": 996739
   }
 }

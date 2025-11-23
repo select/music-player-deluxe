@@ -15,9 +15,6 @@
     "youtubeMusic": "_Waqn0jBG58"
   },
   "mbid": "090f9558-3ad8-33bf-b210-30cc081c3b97",
-  "lastfmId": "Noisia/_/Machine+Gun+(16bit+Remix)",
-  "listeners": 49586,
-  "playcount": 196471,
   "artistMbid": "ec22a32b-acab-432e-a88c-ffe6ae68fa16",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "electro house",
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "Noisia/_/Machine+Gun+(16bit+Remix)",
+    "listeners": 49586,
+    "playcount": 196471
   }
 }

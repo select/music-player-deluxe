@@ -20,13 +20,13 @@
     "youtube": "n9cbWfqqEoU",
     "youtubeMusic": "n9cbWfqqEoU"
   },
-  "lastfmId": "Big+Black/_/I+Can+Be+Killed",
-  "listeners": 14921,
-  "playcount": 45957,
   "lastfm": {
     "title": "I Can Be Killed",
     "artist": "Big Black",
     "mbid": "09b0b29b-9a45-3a24-ab75-62bd3d1114dd",
-    "artistMbid": "9463868f-edc8-427e-ac07-ea89698e5f15"
+    "artistMbid": "9463868f-edc8-427e-ac07-ea89698e5f15",
+    "id": "Big+Black/_/I+Can+Be+Killed",
+    "listeners": 14921,
+    "playcount": 45957
   }
 }

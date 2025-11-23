@@ -17,9 +17,6 @@
     "youtubeMusic": "zug1B8DSkWw"
   },
   "mbid": "c232a31f-e383-44f0-a569-871a852c6745",
-  "lastfmId": "Andrew+Bird/_/Sisyphus",
-  "listeners": 208820,
-  "playcount": 1339442,
   "artistMbid": "081b133e-ce74-42ba-92c1-c18234acb532",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "indie pop",
       "indie rock"
     ]
+  },
+  "lastfm": {
+    "id": "Andrew+Bird/_/Sisyphus",
+    "listeners": 208820,
+    "playcount": 1339442
   }
 }

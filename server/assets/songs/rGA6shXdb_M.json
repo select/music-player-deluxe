@@ -15,9 +15,6 @@
     "youtubeMusic": "rGA6shXdb_M"
   },
   "mbid": "a7c832d8-17ff-4c6a-8409-ebbd9a7f6a2b",
-  "lastfmId": "Das+EFX/_/Baknaffek",
-  "listeners": 34847,
-  "playcount": 140546,
   "artistMbid": "2ed45dd0-6a96-4459-af32-bc74e7a7f387",
   "musicbrainz": {
     "artistTags": [
@@ -26,5 +23,10 @@
     "artistGenres": [
       "hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "Das+EFX/_/Baknaffek",
+    "listeners": 34847,
+    "playcount": 140546
   }
 }

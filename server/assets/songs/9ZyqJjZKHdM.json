@@ -11,9 +11,6 @@
     "youtubeMusic": "9ZyqJjZKHdM"
   },
   "mbid": "0ae832d9-25c5-3511-8636-30afb10140b2",
-  "lastfmId": "NOFX/_/Theme+From+a+NOFX+Album",
-  "listeners": 55853,
-  "playcount": 286512,
   "artistMbid": "dcaa4f81-bfb7-44eb-8594-4e74f004b6e4",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "punk",
       "punk rock"
     ]
+  },
+  "lastfm": {
+    "id": "NOFX/_/Theme+From+a+NOFX+Album",
+    "listeners": 55853,
+    "playcount": 286512
   }
 }

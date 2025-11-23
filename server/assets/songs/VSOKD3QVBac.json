@@ -13,7 +13,9 @@
     "youtube": "VSOKD3QVBac",
     "youtubeMusic": "VSOKD3QVBac"
   },
-  "lastfmId": "Calibre/_/Bellamee+(Original+mix)",
-  "listeners": 67,
-  "playcount": 109
+  "lastfm": {
+    "id": "Calibre/_/Bellamee+(Original+mix)",
+    "listeners": 67,
+    "playcount": 109
+  }
 }

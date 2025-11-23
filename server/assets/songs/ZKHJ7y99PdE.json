@@ -16,7 +16,9 @@
     "youtube": "ZKHJ7y99PdE",
     "youtubeMusic": "ZKHJ7y99PdE"
   },
-  "lastfmId": "DunDunDun/_/Future+Hope",
-  "listeners": 2330,
-  "playcount": 5208
+  "lastfm": {
+    "id": "DunDunDun/_/Future+Hope",
+    "listeners": 2330,
+    "playcount": 5208
+  }
 }

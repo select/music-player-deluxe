@@ -12,7 +12,9 @@
     "youtube": "lyfLS8Ygas0",
     "youtubeMusic": "lyfLS8Ygas0"
   },
-  "lastfmId": "SubMotive/_/Bangla+Vampires",
-  "listeners": 111,
-  "playcount": 251
+  "lastfm": {
+    "id": "SubMotive/_/Bangla+Vampires",
+    "listeners": 111,
+    "playcount": 251
+  }
 }

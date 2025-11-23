@@ -3,12 +3,12 @@
   "title": "That B",
   "artist": "Subwave",
   "lastFetched": "2025-11-23T14:01:55.645Z",
-  "lastfmId": "Subwave/_/That+B",
-  "listeners": 745,
-  "playcount": 1884,
   "lastfm": {
     "title": "That B",
     "artist": "Subwave",
-    "artistMbid": "3222bd83-9da3-427b-945e-caa276d5dae5"
+    "artistMbid": "3222bd83-9da3-427b-945e-caa276d5dae5",
+    "id": "Subwave/_/That+B",
+    "listeners": 745,
+    "playcount": 1884
   }
 }

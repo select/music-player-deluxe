@@ -17,9 +17,6 @@
     "youtubeMusic": "lFJMXpBO11I"
   },
   "mbid": "1801bf3f-5eba-3cb7-834d-a35b0b31cab8",
-  "lastfmId": "Tourniquet/_/Viento+Borrascoso",
-  "listeners": 1647,
-  "playcount": 7882,
   "artistMbid": "0770a42f-10e3-4204-8459-0c6fba885852",
   "musicbrainz": {
     "artistTags": [
@@ -34,5 +31,10 @@
       "technical thrash metal",
       "thrash metal"
     ]
+  },
+  "lastfm": {
+    "id": "Tourniquet/_/Viento+Borrascoso",
+    "listeners": 1647,
+    "playcount": 7882
   }
 }

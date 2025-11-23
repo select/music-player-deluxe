@@ -15,9 +15,6 @@
     "youtubeMusic": "MTSbhEUe9OI"
   },
   "mbid": "13b12e72-41c7-4030-827f-37656e56561d",
-  "lastfmId": "Ali+Farka+Tour%C3%A9/_/Penda+Yoro",
-  "listeners": 23719,
-  "playcount": 63755,
   "artistMbid": "9be2a5ac-8201-489b-b5f6-91f958bf9060",
   "musicbrainz": {
     "artistTags": [
@@ -28,5 +25,10 @@
     "artistGenres": [
       "african blues"
     ]
+  },
+  "lastfm": {
+    "id": "Ali+Farka+Tour%C3%A9/_/Penda+Yoro",
+    "listeners": 23719,
+    "playcount": 63755
   }
 }

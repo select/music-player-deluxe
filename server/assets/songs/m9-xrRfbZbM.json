@@ -21,8 +21,10 @@
     "youtube": "m9-xrRfbZbM",
     "youtubeMusic": "m9-xrRfbZbM"
   },
-  "lastfmId": "Monty/_/Praise",
-  "listeners": 477,
-  "playcount": 1039,
-  "artistMbid": "2d44fc00-3845-4f6f-ae91-c788e6d1ed5e"
+  "artistMbid": "2d44fc00-3845-4f6f-ae91-c788e6d1ed5e",
+  "lastfm": {
+    "id": "Monty/_/Praise",
+    "listeners": 477,
+    "playcount": 1039
+  }
 }

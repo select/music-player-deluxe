@@ -14,8 +14,10 @@
     "youtube": "2Kc6YYG8VRg",
     "youtubeMusic": "2Kc6YYG8VRg"
   },
-  "lastfmId": "Xique-Xique/_/Rio+Negro",
-  "listeners": 4015,
-  "playcount": 14663,
-  "artistMbid": "9d7ca1c4-f865-4720-ae19-cc5afda60c04"
+  "artistMbid": "9d7ca1c4-f865-4720-ae19-cc5afda60c04",
+  "lastfm": {
+    "id": "Xique-Xique/_/Rio+Negro",
+    "listeners": 4015,
+    "playcount": 14663
+  }
 }

@@ -18,13 +18,15 @@
     "youtubeMusic": "cBJThzfZj-k"
   },
   "name": "Fabulation For K",
-  "lastfmId": "Andrew+Pekler/_/Fabulation+For+K",
-  "listeners": 586,
-  "playcount": 1321,
   "artistMbid": "ff0311ad-5acc-4346-9952-ff55112568ca",
   "musicbrainz": {
     "artistTags": [
       "dance and electronica"
     ]
+  },
+  "lastfm": {
+    "id": "Andrew+Pekler/_/Fabulation+For+K",
+    "listeners": 586,
+    "playcount": 1321
   }
 }

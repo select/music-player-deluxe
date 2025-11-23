@@ -13,7 +13,9 @@
     "youtube": "jVBJz7-fDFw",
     "youtubeMusic": "jVBJz7-fDFw"
   },
-  "lastfmId": "decto/_/Closer",
-  "listeners": 6,
-  "playcount": 9
+  "lastfm": {
+    "id": "decto/_/Closer",
+    "listeners": 6,
+    "playcount": 9
+  }
 }

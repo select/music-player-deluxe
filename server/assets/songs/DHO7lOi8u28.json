@@ -23,13 +23,15 @@
     "youtube": "DHO7lOi8u28",
     "youtubeMusic": "DHO7lOi8u28"
   },
-  "lastfmId": "Guem/_/Le+Serpent",
-  "listeners": 5276,
-  "playcount": 14054,
   "musicbrainz": {
     "tags": [
       "african-percussion",
       "afrobeat"
     ]
+  },
+  "lastfm": {
+    "id": "Guem/_/Le+Serpent",
+    "listeners": 5276,
+    "playcount": 14054
   }
 }

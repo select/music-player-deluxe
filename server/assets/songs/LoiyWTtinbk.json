@@ -22,9 +22,6 @@
     "youtubeMusic": "LoiyWTtinbk"
   },
   "mbid": "56681d16-aca3-4889-9b22-6f5e01e116ab",
-  "lastfmId": "Le+Trio+Joubran/_/Mas%C3%A2r",
-  "listeners": 24462,
-  "playcount": 107799,
   "artistMbid": "a205ab49-6884-4233-bc71-7e6df54512bf",
   "musicbrainz": {
     "tags": [
@@ -36,5 +33,10 @@
       "arabic jazz",
       "oud"
     ]
+  },
+  "lastfm": {
+    "id": "Le+Trio+Joubran/_/Mas%C3%A2r",
+    "listeners": 24462,
+    "playcount": 107799
   }
 }

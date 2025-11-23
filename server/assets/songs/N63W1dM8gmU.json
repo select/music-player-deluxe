@@ -13,9 +13,6 @@
     "youtubeMusic": "N63W1dM8gmU"
   },
   "mbid": "28988b53-2888-4369-bfe8-56c74b584402",
-  "lastfmId": "Bad+Religion/_/Lose+Your+Head",
-  "listeners": 25305,
-  "playcount": 113820,
   "artistMbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "punk rock",
       "skate punk"
     ]
+  },
+  "lastfm": {
+    "id": "Bad+Religion/_/Lose+Your+Head",
+    "listeners": 25305,
+    "playcount": 113820
   }
 }

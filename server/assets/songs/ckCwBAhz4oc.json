@@ -4,9 +4,6 @@
   "artist": "Maxine Nightingale",
   "lastFetched": "2025-11-23T16:44:23.679Z",
   "mbid": "88e89116-7644-4f76-966a-e9f49984f0a4",
-  "lastfmId": "Maxine+Nightingale/_/Right+Back+Where+We+Started+From",
-  "listeners": 269284,
-  "playcount": 1627373,
   "artistMbid": "0d8da158-389d-4b58-a62e-a6b5870fc3a4",
   "musicbrainz": {
     "tags": [
@@ -32,5 +29,10 @@
       "classic pop and rock",
       "soprano"
     ]
+  },
+  "lastfm": {
+    "id": "Maxine+Nightingale/_/Right+Back+Where+We+Started+From",
+    "listeners": 269284,
+    "playcount": 1627373
   }
 }

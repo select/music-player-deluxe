@@ -4,11 +4,7 @@
   "artist": "Björk",
   "lastFetched": "2025-11-19T14:55:38.321Z",
   "mbid": "048b65f3-8177-49e1-8809-1439a13ff793",
-  "lastfmId": "Bj%C3%B6rk/_/Army+of+Me",
-  "listeners": 1123217,
-  "playcount": 8854675,
   "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
-  "lastfmSummary": "\"Army of Me\" is a song by Icelandic musician Björk for her second studio album, Post (1995). It was released on 24 April 1995 by One Little Indian as the lead single from the album. The song was written and produced by Björk and Graham Massey, who helped her in producing and writing the majority of her third album. Lyrically, the song was inspired by the damaging behavior of Björk's brother, and in the lyrics she tells him to stand up to regain control of his life. <a href=\"http://www.last.fm/music/Bj%C3%B6rk/_/Army+of+Me\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "electronic",
@@ -17,5 +13,11 @@
       "icelandic",
       "bjork"
     ]
+  },
+  "lastfm": {
+    "id": "Bj%C3%B6rk/_/Army+of+Me",
+    "listeners": 1123217,
+    "playcount": 8854675,
+    "summary": "\"Army of Me\" is a song by Icelandic musician Björk for her second studio album, Post (1995). It was released on 24 April 1995 by One Little Indian as the lead single from the album. The song was written and produced by Björk and Graham Massey, who helped her in producing and writing the majority of her third album. Lyrically, the song was inspired by the damaging behavior of Björk's brother, and in the lyrics she tells him to stand up to regain control of his life. <a href=\"http://www.last.fm/music/Bj%C3%B6rk/_/Army+of+Me\">Read more on Last.fm</a>."
   }
 }

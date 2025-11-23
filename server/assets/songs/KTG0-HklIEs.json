@@ -15,7 +15,9 @@
     "youtube": "KTG0-HklIEs",
     "youtubeMusic": "KTG0-HklIEs"
   },
-  "lastfmId": "Babe+Roots/_/System",
-  "listeners": 361,
-  "playcount": 1829
+  "lastfm": {
+    "id": "Babe+Roots/_/System",
+    "listeners": 361,
+    "playcount": 1829
+  }
 }

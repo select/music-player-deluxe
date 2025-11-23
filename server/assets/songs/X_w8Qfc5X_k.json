@@ -15,9 +15,6 @@
     "youtubeMusic": "X_w8Qfc5X_k"
   },
   "mbid": "4bf2a04a-2746-4c2d-a155-f7f5d98985ab",
-  "lastfmId": "Nightmares+on+Wax/_/Mission+Venice",
-  "listeners": 86656,
-  "playcount": 298369,
   "artistMbid": "b8c5cc4f-239f-4e02-b46f-b040b77c2030",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "instrumental hip hop",
       "nu jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Nightmares+on+Wax/_/Mission+Venice",
+    "listeners": 86656,
+    "playcount": 298369
   }
 }

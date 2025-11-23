@@ -12,8 +12,10 @@
     "youtube": "XxuZXH4imgI",
     "youtubeMusic": "XxuZXH4imgI"
   },
-  "lastfmId": "Munan/_/Mr.+Taxi+Driver",
-  "listeners": 1159,
-  "playcount": 2644,
-  "artistMbid": "bde38975-19f2-4d10-a3e5-bc225182a306"
+  "artistMbid": "bde38975-19f2-4d10-a3e5-bc225182a306",
+  "lastfm": {
+    "id": "Munan/_/Mr.+Taxi+Driver",
+    "listeners": 1159,
+    "playcount": 2644
+  }
 }

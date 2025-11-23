@@ -14,7 +14,9 @@
     "youtube": "pySA6xOddIg",
     "youtubeMusic": "pySA6xOddIg"
   },
-  "lastfmId": "The+Swinging+Blue+Jeans/_/You%27re+No+Good",
-  "listeners": 47493,
-  "playcount": 137673
+  "lastfm": {
+    "id": "The+Swinging+Blue+Jeans/_/You%27re+No+Good",
+    "listeners": 47493,
+    "playcount": 137673
+  }
 }

@@ -22,9 +22,6 @@
     "youtubeMusic": "YVXBTsfp3wQ"
   },
   "mbid": "32ebfba5-72ad-425f-84e1-29d6c427918e",
-  "lastfmId": "Joey+Valence+&+Brae/_/Underground+Sound",
-  "listeners": 80665,
-  "playcount": 412010,
   "artistMbid": "93a4d03b-4f0e-42da-ae0b-a62876e46071",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "hip hop",
       "rap rock"
     ]
+  },
+  "lastfm": {
+    "id": "Joey+Valence+&+Brae/_/Underground+Sound",
+    "listeners": 80665,
+    "playcount": 412010
   }
 }

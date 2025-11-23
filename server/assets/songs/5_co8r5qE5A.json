@@ -21,9 +21,6 @@
     "youtubeMusic": "5_co8r5qE5A"
   },
   "mbid": "400264f9-bf39-48a9-ac62-d609bfbe2c05",
-  "lastfmId": "Tape+Five/_/Codeword+Marlene",
-  "listeners": 1554,
-  "playcount": 5030,
   "artistMbid": "5c01e21f-8222-4728-abce-267abf83544a",
   "musicbrainz": {
     "artistTags": [
@@ -43,5 +40,10 @@
       "latin",
       "swing"
     ]
+  },
+  "lastfm": {
+    "id": "Tape+Five/_/Codeword+Marlene",
+    "listeners": 1554,
+    "playcount": 5030
   }
 }

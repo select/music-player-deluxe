@@ -16,7 +16,9 @@
     "youtube": "lWXtPpmx8is",
     "youtubeMusic": "lWXtPpmx8is"
   },
-  "lastfmId": "Gov%27t+Mule/_/Heavy+Load",
-  "listeners": 6146,
-  "playcount": 15221
+  "lastfm": {
+    "id": "Gov%27t+Mule/_/Heavy+Load",
+    "listeners": 6146,
+    "playcount": 15221
+  }
 }

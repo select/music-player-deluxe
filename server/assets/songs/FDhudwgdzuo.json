@@ -4,9 +4,6 @@
   "artist": "Moby",
   "lastFetched": "2025-11-23T16:33:30.310Z",
   "mbid": "be8f7029-9e3d-44b9-8f9a-8e930e989b64",
-  "lastfmId": "Moby/_/Hymn+(European+mix)",
-  "listeners": 1024,
-  "playcount": 3610,
   "artistMbid": "8970d868-0723-483b-a75b-51088913d3d4",
   "musicbrainz": {
     "artistTags": [
@@ -28,5 +25,10 @@
       "electronic",
       "electronica"
     ]
+  },
+  "lastfm": {
+    "id": "Moby/_/Hymn+(European+mix)",
+    "listeners": 1024,
+    "playcount": 3610
   }
 }

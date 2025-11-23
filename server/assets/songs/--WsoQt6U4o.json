@@ -10,9 +10,6 @@
     "youtubeMusic": "--WsoQt6U4o"
   },
   "mbid": "6b3567f6-7f69-4e91-b292-8b4fdf5a692d",
-  "lastfmId": "Atmosphere/_/Get+Fly",
-  "listeners": 46954,
-  "playcount": 263069,
   "artistMbid": "ef954679-5ee7-4016-acef-7ac71f2fa3d8",
   "musicbrainz": {
     "artistTags": [
@@ -21,5 +18,10 @@
     "artistGenres": [
       "hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "Atmosphere/_/Get+Fly",
+    "listeners": 46954,
+    "playcount": 263069
   }
 }

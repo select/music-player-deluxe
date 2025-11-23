@@ -14,8 +14,10 @@
     "youtube": "JFtYaYwLp7w",
     "youtubeMusic": "JFtYaYwLp7w"
   },
-  "lastfmId": "Jacob+Garchik/_/Homage",
-  "listeners": 118,
-  "playcount": 230,
-  "artistMbid": "f186e07c-4812-4268-8432-2bf9d7c3ba42"
+  "artistMbid": "f186e07c-4812-4268-8432-2bf9d7c3ba42",
+  "lastfm": {
+    "id": "Jacob+Garchik/_/Homage",
+    "listeners": 118,
+    "playcount": 230
+  }
 }

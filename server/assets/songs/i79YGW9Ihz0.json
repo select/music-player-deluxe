@@ -21,9 +21,6 @@
     "youtubeMusic": "i79YGW9Ihz0"
   },
   "mbid": "3fb76d1a-4f47-4d6d-ab70-a30876d3f7da",
-  "lastfmId": "Herbie+Hancock/_/Sun+Touch",
-  "listeners": 33840,
-  "playcount": 89828,
   "artistMbid": "27613b78-1b9d-4ec3-9db5-fa0743465fdd",
   "musicbrainz": {
     "artistTags": [
@@ -45,5 +42,10 @@
       "hard bop",
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Herbie+Hancock/_/Sun+Touch",
+    "listeners": 33840,
+    "playcount": 89828
   }
 }

@@ -20,8 +20,10 @@
     "youtube": "FQ7jp_KlUzQ",
     "youtubeMusic": "FQ7jp_KlUzQ"
   },
-  "lastfmId": "Ski+Aggu/_/KAPPIES+IM+SLIP",
-  "listeners": 24186,
-  "playcount": 215681,
-  "artistMbid": "f1d46f29-34fd-4cd5-959f-0a213e1f1d8e"
+  "artistMbid": "f1d46f29-34fd-4cd5-959f-0a213e1f1d8e",
+  "lastfm": {
+    "id": "Ski+Aggu/_/KAPPIES+IM+SLIP",
+    "listeners": 24186,
+    "playcount": 215681
+  }
 }

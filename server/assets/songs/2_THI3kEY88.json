@@ -15,8 +15,10 @@
     "youtube": "2_THI3kEY88",
     "youtubeMusic": "2_THI3kEY88"
   },
-  "lastfmId": "RP+Boo/_/Pop+Machine",
-  "listeners": 1076,
-  "playcount": 1952,
-  "artistMbid": "55ccebaa-109c-437d-a533-44cbef54a08d"
+  "artistMbid": "55ccebaa-109c-437d-a533-44cbef54a08d",
+  "lastfm": {
+    "id": "RP+Boo/_/Pop+Machine",
+    "listeners": 1076,
+    "playcount": 1952
+  }
 }

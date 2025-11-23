@@ -13,9 +13,6 @@
     "youtubeMusic": "H0L2yi5Ra58"
   },
   "mbid": "14c20945-3ac8-43cb-9737-bc3fe9663ff2",
-  "lastfmId": "Blood+Red+Shoes/_/Speech+Coma",
-  "listeners": 15808,
-  "playcount": 88072,
   "artistMbid": "cd830a8f-89d2-4e96-96cb-7a497e51d437",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "indie rock",
       "post-punk"
     ]
+  },
+  "lastfm": {
+    "id": "Blood+Red+Shoes/_/Speech+Coma",
+    "listeners": 15808,
+    "playcount": 88072
   }
 }

@@ -12,9 +12,6 @@
     "youtubeMusic": "utA7Z6q_dqY"
   },
   "mbid": "4498500a-7afc-4251-a681-3c47baba84e1",
-  "lastfmId": "Muslimgauze/_/Mullah+Said",
-  "listeners": 25429,
-  "playcount": 101815,
   "artistMbid": "06fc1189-d7cd-4344-b09a-51cd82cfefe5",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "electronic",
       "experimental"
     ]
+  },
+  "lastfm": {
+    "id": "Muslimgauze/_/Mullah+Said",
+    "listeners": 25429,
+    "playcount": 101815
   }
 }

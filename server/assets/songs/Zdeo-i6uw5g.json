@@ -19,11 +19,7 @@
     "youtubeMusic": "Zdeo-i6uw5g"
   },
   "mbid": "eaea4669-4454-403e-83e2-39d58eb5a0ce",
-  "lastfmId": "Kid+Rock/_/Don%27t+Tell+Me+How+To+Live",
-  "listeners": 6689,
-  "playcount": 22684,
   "artistMbid": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e",
-  "lastfmSummary": "FUCK ALL YOU HOES\nDETROIT TIL I DIE MOTHERFUCKER\nTALKIN ALL THAT BULLSHIT <a href=\"http://www.last.fm/music/Kid+Rock/_/Don%27t+Tell+Me+How+To+Live\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -44,5 +40,11 @@
       "pop rock",
       "rap metal"
     ]
+  },
+  "lastfm": {
+    "id": "Kid+Rock/_/Don%27t+Tell+Me+How+To+Live",
+    "listeners": 6689,
+    "playcount": 22684,
+    "summary": "FUCK ALL YOU HOES\nDETROIT TIL I DIE MOTHERFUCKER\nTALKIN ALL THAT BULLSHIT <a href=\"http://www.last.fm/music/Kid+Rock/_/Don%27t+Tell+Me+How+To+Live\">Read more on Last.fm</a>."
   }
 }

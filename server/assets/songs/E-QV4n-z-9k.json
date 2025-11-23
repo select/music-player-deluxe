@@ -3,13 +3,13 @@
   "title": "Eastman",
   "artist": "Move D",
   "lastFetched": "2025-11-23T15:15:23.912Z",
-  "lastfmId": "Move+D/_/Eastman",
-  "listeners": 17865,
-  "playcount": 49887,
   "lastfm": {
     "title": "Eastman",
     "artist": "Move D",
     "mbid": "1c6daf5f-e219-366b-90bd-0de0a105d47c",
-    "artistMbid": "20a3f336-f78c-40c4-bc37-ef53cce4ae53"
+    "artistMbid": "20a3f336-f78c-40c4-bc37-ef53cce4ae53",
+    "id": "Move+D/_/Eastman",
+    "listeners": 17865,
+    "playcount": 49887
   }
 }

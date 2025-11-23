@@ -15,8 +15,10 @@
     "youtube": "tKCqVpFVQ4A",
     "youtubeMusic": "tKCqVpFVQ4A"
   },
-  "lastfmId": "Szczyl/_/Cie%C5%84",
-  "listeners": 20263,
-  "playcount": 299342,
-  "artistMbid": "1ecd9b3d-0081-4374-b113-a82237d42763"
+  "artistMbid": "1ecd9b3d-0081-4374-b113-a82237d42763",
+  "lastfm": {
+    "id": "Szczyl/_/Cie%C5%84",
+    "listeners": 20263,
+    "playcount": 299342
+  }
 }

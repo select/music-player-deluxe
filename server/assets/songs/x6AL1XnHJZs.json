@@ -11,9 +11,6 @@
     "youtubeMusic": "x6AL1XnHJZs"
   },
   "mbid": "3d478c9c-8201-4868-8936-0db37e43161b",
-  "lastfmId": "Barry+White/_/I%27m+Gonna+Love+You+Just+A+Little+More+Baby",
-  "listeners": 95413,
-  "playcount": 316832,
   "artistMbid": "b904d624-9e05-4398-8f4f-88fbcf022f79",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "pop",
       "pop soul"
     ]
+  },
+  "lastfm": {
+    "id": "Barry+White/_/I%27m+Gonna+Love+You+Just+A+Little+More+Baby",
+    "listeners": 95413,
+    "playcount": 316832
   }
 }

@@ -14,9 +14,6 @@
     "youtube": "-rFrM8cWiBU",
     "youtubeMusic": "-rFrM8cWiBU"
   },
-  "lastfmId": "Kraan/_/Norwegen+Dia+(Acoustic+Version)",
-  "listeners": 78,
-  "playcount": 164,
   "artistMbid": "d634f58c-aa2c-4430-9c85-b8e0d1c66878",
   "musicbrainz": {
     "artistTags": [
@@ -28,5 +25,10 @@
       "jazz fusion",
       "krautrock"
     ]
+  },
+  "lastfm": {
+    "id": "Kraan/_/Norwegen+Dia+(Acoustic+Version)",
+    "listeners": 78,
+    "playcount": 164
   }
 }

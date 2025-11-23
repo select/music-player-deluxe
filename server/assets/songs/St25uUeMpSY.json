@@ -12,9 +12,6 @@
     "youtubeMusic": "St25uUeMpSY"
   },
   "mbid": "b459fb63-8fc3-4c0b-860a-60836b83ae47",
-  "lastfmId": "Surprise+Chef/_/Money+Music",
-  "listeners": 13480,
-  "playcount": 36943,
   "artistMbid": "be809d9a-5841-4733-ad12-979ad6047a22",
   "musicbrainz": {
     "artistTags": [
@@ -31,5 +28,10 @@
       "soul",
       "soul jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Surprise+Chef/_/Money+Music",
+    "listeners": 13480,
+    "playcount": 36943
   }
 }

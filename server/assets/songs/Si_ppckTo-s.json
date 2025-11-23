@@ -23,9 +23,6 @@
     "youtubeMusic": "Si_ppckTo-s"
   },
   "mbid": "4a8b193f-0e91-44eb-82a1-d9254816e863",
-  "lastfmId": "Marcus+Intalex/_/Temperance",
-  "listeners": 17195,
-  "playcount": 67322,
   "artistMbid": "2dfab9de-02f2-4aaf-b339-065fddcc9208",
   "musicbrainz": {
     "artistTags": [
@@ -34,5 +31,10 @@
     "artistGenres": [
       "drum and bass"
     ]
+  },
+  "lastfm": {
+    "id": "Marcus+Intalex/_/Temperance",
+    "listeners": 17195,
+    "playcount": 67322
   }
 }

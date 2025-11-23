@@ -16,7 +16,9 @@
     "youtube": "SZ4VIhUsG7s",
     "youtubeMusic": "SZ4VIhUsG7s"
   },
-  "lastfmId": "Grouch+in+Dub/_/Computer+Language",
-  "listeners": 2820,
-  "playcount": 12045
+  "lastfm": {
+    "id": "Grouch+in+Dub/_/Computer+Language",
+    "listeners": 2820,
+    "playcount": 12045
+  }
 }

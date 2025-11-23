@@ -20,11 +20,7 @@
     "youtubeMusic": "vMBxuk0r6QQ"
   },
   "mbid": "495312d7-d138-37ee-97bc-694004981e6d",
-  "lastfmId": "Don+Edwards/_/Coyotes",
-  "listeners": 17899,
-  "playcount": 109088,
   "artistMbid": "bf69a157-325d-4b73-a11a-fce8079e539c",
-  "lastfmSummary": "Lyrics my Bob McDill \nMost famous as soundtrack to Werner Herzog's \"Grizzly Man\" about Timothy Treadwell <a href=\"http://www.last.fm/music/Don+Edwards/_/Coyotes\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "country"
@@ -32,5 +28,11 @@
     "artistGenres": [
       "country"
     ]
+  },
+  "lastfm": {
+    "id": "Don+Edwards/_/Coyotes",
+    "listeners": 17899,
+    "playcount": 109088,
+    "summary": "Lyrics my Bob McDill \nMost famous as soundtrack to Werner Herzog's \"Grizzly Man\" about Timothy Treadwell <a href=\"http://www.last.fm/music/Don+Edwards/_/Coyotes\">Read more on Last.fm</a>."
   }
 }

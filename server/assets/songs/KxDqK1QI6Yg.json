@@ -18,9 +18,6 @@
     "youtube": "KxDqK1QI6Yg",
     "youtubeMusic": "KxDqK1QI6Yg"
   },
-  "lastfmId": "Adrian+Sherwood/_/The+Collapse+Of+Everything",
-  "listeners": 2170,
-  "playcount": 4398,
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -30,5 +27,10 @@
       "trip hop",
       "uk"
     ]
+  },
+  "lastfm": {
+    "id": "Adrian+Sherwood/_/The+Collapse+Of+Everything",
+    "listeners": 2170,
+    "playcount": 4398
   }
 }

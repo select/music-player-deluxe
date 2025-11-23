@@ -14,8 +14,10 @@
     "youtube": "J3HLiQsaf3Y",
     "youtubeMusic": "J3HLiQsaf3Y"
   },
-  "lastfmId": "Skarra+Mucci/_/Here+I+Come",
-  "listeners": 252,
-  "playcount": 597,
-  "artistMbid": "15d7c4d6-ea9e-437e-b239-cd2ce5151e12"
+  "artistMbid": "15d7c4d6-ea9e-437e-b239-cd2ce5151e12",
+  "lastfm": {
+    "id": "Skarra+Mucci/_/Here+I+Come",
+    "listeners": 252,
+    "playcount": 597
+  }
 }

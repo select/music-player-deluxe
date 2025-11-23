@@ -16,9 +16,6 @@
     "youtube": "YA9Fc554m7I",
     "youtubeMusic": "YA9Fc554m7I"
   },
-  "lastfmId": "Dorisburg/_/House+Organ+For+The+Lonely",
-  "listeners": 500,
-  "playcount": 1135,
   "musicbrainz": {
     "artistTags": [
       "acud techno",
@@ -33,5 +30,10 @@
       "tech house",
       "techno"
     ]
+  },
+  "lastfm": {
+    "id": "Dorisburg/_/House+Organ+For+The+Lonely",
+    "listeners": 500,
+    "playcount": 1135
   }
 }

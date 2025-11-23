@@ -4,11 +4,7 @@
   "artist": "Ennio Morricone",
   "lastFetched": "2025-11-23T16:43:47.544Z",
   "mbid": "a07d04ed-ba7e-4dca-9e6b-c4e8f3ad9590",
-  "lastfmId": "Ennio+Morricone/_/The+Good,+the+Bad+and+the+Ugly",
-  "listeners": 93897,
-  "playcount": 422267,
   "artistMbid": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd",
-  "lastfmSummary": "\"The Good, the Bad and the Ugly\" is the theme to the 1966 film of the same name, which was directed by Sergio Leone. Included on the film soundtrack as \"The Good, the Bad and the Ugly (main title)\", the instrumental piece was composed by Ennio Morricone, with Bruno Nicolai conducting the orchestra. A cover version by Hugo Montenegro in 1968 was a pop hit in both the U.S. and the U.K.\n\nEnnio Morricone is an Italian composer who has created music for dozens of films. <a href=\"http://www.last.fm/music/Ennio+Morricone/_/The+Good,+the+Bad+and+the+Ugly\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "absolute music",
@@ -29,5 +25,11 @@
       "jazz",
       "modern classical"
     ]
+  },
+  "lastfm": {
+    "id": "Ennio+Morricone/_/The+Good,+the+Bad+and+the+Ugly",
+    "listeners": 93897,
+    "playcount": 422267,
+    "summary": "\"The Good, the Bad and the Ugly\" is the theme to the 1966 film of the same name, which was directed by Sergio Leone. Included on the film soundtrack as \"The Good, the Bad and the Ugly (main title)\", the instrumental piece was composed by Ennio Morricone, with Bruno Nicolai conducting the orchestra. A cover version by Hugo Montenegro in 1968 was a pop hit in both the U.S. and the U.K.\n\nEnnio Morricone is an Italian composer who has created music for dozens of films. <a href=\"http://www.last.fm/music/Ennio+Morricone/_/The+Good,+the+Bad+and+the+Ugly\">Read more on Last.fm</a>."
   }
 }

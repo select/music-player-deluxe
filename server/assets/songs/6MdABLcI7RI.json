@@ -23,11 +23,7 @@
     "youtubeMusic": "6MdABLcI7RI"
   },
   "mbid": "bacdd875-5f7a-4b36-967a-37873911252f",
-  "lastfmId": "Moby/_/James+Bond+Theme+(Moby%27s+re-version)",
-  "listeners": 67956,
-  "playcount": 221741,
   "artistMbid": "8970d868-0723-483b-a75b-51088913d3d4",
-  "lastfmSummary": "\"James Bond Theme (Moby's Re-Version)\" is American electronic musician Moby's remake of \"The James Bond Theme\" used in the series of James Bond films. This remake was featured in the James Bond film Tomorrow Never Dies and is also featured as the second track in I Like to Score, a compilation of Moby's songs used in films. The song charted at number 8 in the United Kingdom, besting \"Go\"'s number 10 peak position on the UK Singles Chart six years earlier. <a href=\"http://www.last.fm/music/Moby/_/James+Bond+Theme+(Moby%27s+re-version)\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "classical",
@@ -67,5 +63,11 @@
       "electronic",
       "electronica"
     ]
+  },
+  "lastfm": {
+    "id": "Moby/_/James+Bond+Theme+(Moby%27s+re-version)",
+    "listeners": 67956,
+    "playcount": 221741,
+    "summary": "\"James Bond Theme (Moby's Re-Version)\" is American electronic musician Moby's remake of \"The James Bond Theme\" used in the series of James Bond films. This remake was featured in the James Bond film Tomorrow Never Dies and is also featured as the second track in I Like to Score, a compilation of Moby's songs used in films. The song charted at number 8 in the United Kingdom, besting \"Go\"'s number 10 peak position on the UK Singles Chart six years earlier. <a href=\"http://www.last.fm/music/Moby/_/James+Bond+Theme+(Moby%27s+re-version)\">Read more on Last.fm</a>."
   }
 }

@@ -6,9 +6,6 @@
   "duration": 257,
   "youtubeId": "yvje22pJz28",
   "lastFetched": "2025-11-23T16:54:41.127Z",
-  "lastfmId": "Gaye+Su+Akyol/_/Meftunum+Sana",
-  "listeners": 16100,
-  "playcount": 64331,
   "artistMbid": "9a156579-3b0c-4cc6-82b5-b199d43410fc",
   "musicbrainz": {
     "artistTags": [
@@ -30,5 +27,10 @@
       "disco",
       "electronica"
     ]
+  },
+  "lastfm": {
+    "id": "Gaye+Su+Akyol/_/Meftunum+Sana",
+    "listeners": 16100,
+    "playcount": 64331
   }
 }

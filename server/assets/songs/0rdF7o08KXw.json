@@ -3,7 +3,9 @@
   "title": "When You're Hot, You're Hot",
   "artist": "Jerry Reed",
   "lastFetched": "2025-11-19T11:47:10.468Z",
-  "lastfmId": "Jerry+Reed/_/When+You%27re+Hot,+You%27re+Hot",
-  "listeners": 34858,
-  "playcount": 130432
+  "lastfm": {
+    "id": "Jerry+Reed/_/When+You%27re+Hot,+You%27re+Hot",
+    "listeners": 34858,
+    "playcount": 130432
+  }
 }

@@ -13,13 +13,15 @@
     "youtubeMusic": "Qh7FE4pssJs"
   },
   "mbid": "5b38159f-234a-4a40-9751-5d074134b91e",
-  "lastfmId": "Angelika+Mann/_/Regenlied",
-  "listeners": 1768,
-  "playcount": 7913,
   "artistMbid": "212e0fa5-05d5-4c49-be7a-c8177025f920",
   "musicbrainz": {
     "artistTags": [
       "ostschlager"
     ]
+  },
+  "lastfm": {
+    "id": "Angelika+Mann/_/Regenlied",
+    "listeners": 1768,
+    "playcount": 7913
   }
 }

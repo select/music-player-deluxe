@@ -19,8 +19,10 @@
     "youtube": "6TfxMYQWfbg",
     "youtubeMusic": "6TfxMYQWfbg"
   },
-  "lastfmId": "Marquis+Hill/_/New+Gospel+(Live)",
-  "listeners": 558,
-  "playcount": 1195,
-  "artistMbid": "8849eb24-3cff-4fa2-b750-acefc3dddf9d"
+  "artistMbid": "8849eb24-3cff-4fa2-b750-acefc3dddf9d",
+  "lastfm": {
+    "id": "Marquis+Hill/_/New+Gospel+(Live)",
+    "listeners": 558,
+    "playcount": 1195
+  }
 }

@@ -15,7 +15,9 @@
     "youtube": "fgRKrtLWSCU",
     "youtubeMusic": "fgRKrtLWSCU"
   },
-  "lastfmId": "Linalab/_/Mono+del+Espacio",
-  "listeners": 47,
-  "playcount": 103
+  "lastfm": {
+    "id": "Linalab/_/Mono+del+Espacio",
+    "listeners": 47,
+    "playcount": 103
+  }
 }

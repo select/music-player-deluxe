@@ -19,12 +19,14 @@
     "youtube": "xg-MQ9El85I",
     "youtubeMusic": "xg-MQ9El85I"
   },
-  "lastfmId": "Nabihah+Iqbal/_/In+Light",
-  "listeners": 21317,
-  "playcount": 61601,
   "musicbrainz": {
     "artistTags": [
       "indietronica"
     ]
+  },
+  "lastfm": {
+    "id": "Nabihah+Iqbal/_/In+Light",
+    "listeners": 21317,
+    "playcount": 61601
   }
 }

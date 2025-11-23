@@ -14,9 +14,6 @@
     "youtubeMusic": "fMF4EGyLzLs"
   },
   "mbid": "bff51bf4-6c59-4993-8de9-7b6f061cc7a4",
-  "lastfmId": "Jr.+Walker+&+The+All+Stars/_/Monkey+Jump",
-  "listeners": 27584,
-  "playcount": 54777,
   "artistMbid": "07d78001-dde0-489c-9281-d2fa98a85de4",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "r&b",
       "soul"
     ]
+  },
+  "lastfm": {
+    "id": "Jr.+Walker+&+The+All+Stars/_/Monkey+Jump",
+    "listeners": 27584,
+    "playcount": 54777
   }
 }

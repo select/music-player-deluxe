@@ -24,14 +24,16 @@
     "youtube": "ZId0TanZHzQ",
     "youtubeMusic": "ZId0TanZHzQ"
   },
-  "lastfmId": "Kraan/_/Solitude",
-  "listeners": 611,
-  "playcount": 1346,
   "musicbrainz": {
     "artistTags": [
       "fusion",
       "jazz fusion",
       "krautrock"
     ]
+  },
+  "lastfm": {
+    "id": "Kraan/_/Solitude",
+    "listeners": 611,
+    "playcount": 1346
   }
 }

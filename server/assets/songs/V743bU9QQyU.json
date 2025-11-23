@@ -21,13 +21,15 @@
     "youtube": "V743bU9QQyU",
     "youtubeMusic": "V743bU9QQyU"
   },
-  "lastfmId": "Kara-Lis+Coverdale/_/Flickers+in+the+Air+of+Night",
-  "listeners": 6052,
-  "playcount": 13858,
   "artistMbid": "aabe385c-379a-467f-9a6d-2560ffa0b730",
   "musicbrainz": {
     "artistTags": [
       "to clean up"
     ]
+  },
+  "lastfm": {
+    "id": "Kara-Lis+Coverdale/_/Flickers+in+the+Air+of+Night",
+    "listeners": 6052,
+    "playcount": 13858
   }
 }

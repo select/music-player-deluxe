@@ -4,13 +4,15 @@
   "artist": "Knorkator",
   "lastFetched": "2025-11-23T16:31:25.009Z",
   "mbid": "466c57b0-d62a-4aa5-aac2-520d1f15518d",
-  "lastfmId": "Knorkator/_/Du+nich",
-  "listeners": 15671,
-  "playcount": 92614,
   "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
   "musicbrainz": {
     "artistTags": [
       "german"
     ]
+  },
+  "lastfm": {
+    "id": "Knorkator/_/Du+nich",
+    "listeners": 15671,
+    "playcount": 92614
   }
 }

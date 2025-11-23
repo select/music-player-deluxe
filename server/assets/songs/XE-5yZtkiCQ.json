@@ -18,9 +18,6 @@
     "youtubeMusic": "XE-5yZtkiCQ"
   },
   "mbid": "4e86043f-139f-3a85-bb96-fd7269ca23bc",
-  "lastfmId": "Dean+Magraw/_/Seventh+One",
-  "listeners": 169,
-  "playcount": 469,
   "artistMbid": "5006936e-2172-4227-8d3c-edaad6b126d6",
   "musicbrainz": {
     "artistTags": [
@@ -31,5 +28,10 @@
       "folk",
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Dean+Magraw/_/Seventh+One",
+    "listeners": 169,
+    "playcount": 469
   }
 }

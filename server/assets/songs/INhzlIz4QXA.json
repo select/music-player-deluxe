@@ -4,9 +4,6 @@
   "artist": "The Prodigy",
   "lastFetched": "2025-11-23T16:34:46.768Z",
   "mbid": "3efc6633-44ab-3882-97aa-b821d5224156",
-  "lastfmId": "The+Prodigy/_/Omen+(Noisia+Remix)",
-  "listeners": 28884,
-  "playcount": 128294,
   "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
   "musicbrainz": {
     "artistTags": [
@@ -28,5 +25,10 @@
       "dance",
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "The+Prodigy/_/Omen+(Noisia+Remix)",
+    "listeners": 28884,
+    "playcount": 128294
   }
 }

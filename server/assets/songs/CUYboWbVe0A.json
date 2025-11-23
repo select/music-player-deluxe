@@ -21,14 +21,16 @@
     "youtube": "CUYboWbVe0A",
     "youtubeMusic": "CUYboWbVe0A"
   },
-  "lastfmId": "Four+Tet/_/Two+Thousand+And+Seventeen",
-  "listeners": 243209,
-  "playcount": 1651379,
   "artistMbid": "3bcff06f-675a-451f-9075-99e8657047e8",
   "musicbrainz": {
     "tags": [
       "downtempo",
       "folktronica"
     ]
+  },
+  "lastfm": {
+    "id": "Four+Tet/_/Two+Thousand+And+Seventeen",
+    "listeners": 243209,
+    "playcount": 1651379
   }
 }

@@ -16,13 +16,15 @@
     "youtubeMusic": "WdXMBiEqJFo"
   },
   "name": "In Reverse",
-  "lastfmId": "Rival+Consoles/_/In+Reverse",
-  "listeners": 8540,
-  "playcount": 22286,
   "artistMbid": "803f2853-7e3e-4dff-96a7-9f77b5f56de5",
   "musicbrainz": {
     "tags": [
       "idm"
     ]
+  },
+  "lastfm": {
+    "id": "Rival+Consoles/_/In+Reverse",
+    "listeners": 8540,
+    "playcount": 22286
   }
 }

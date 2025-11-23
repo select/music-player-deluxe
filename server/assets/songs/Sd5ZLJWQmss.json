@@ -4,11 +4,7 @@
   "artist": "C.W. McCall",
   "lastFetched": "2025-11-23T16:39:32.388Z",
   "mbid": "a12304f9-a115-4a53-aeb7-099d1c4f5834",
-  "lastfmId": "C.W.+McCall/_/Convoy",
-  "listeners": 98638,
-  "playcount": 470907,
   "artistMbid": "07a7e7d3-910c-472e-92b2-a3a69f95a504",
-  "lastfmSummary": "This is a novelty song inspired by the CB radio craze of the mid-'70s. The story of \"Convoy\" was told in CB jargon and with a Country and Western (the \"C.W.\") twang. C.W. McCall was a character created by songwriter Bill Fries\nSee http://www.songfacts.com/detail.php?id=3034 for more info, trivia and a break down of some of CB terms used in \"Convoy\" . <a href=\"http://www.last.fm/music/C.W.+McCall/_/Convoy\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "country",
@@ -26,5 +22,11 @@
       "country",
       "outlaw country"
     ]
+  },
+  "lastfm": {
+    "id": "C.W.+McCall/_/Convoy",
+    "listeners": 98638,
+    "playcount": 470907,
+    "summary": "This is a novelty song inspired by the CB radio craze of the mid-'70s. The story of \"Convoy\" was told in CB jargon and with a Country and Western (the \"C.W.\") twang. C.W. McCall was a character created by songwriter Bill Fries\nSee http://www.songfacts.com/detail.php?id=3034 for more info, trivia and a break down of some of CB terms used in \"Convoy\" . <a href=\"http://www.last.fm/music/C.W.+McCall/_/Convoy\">Read more on Last.fm</a>."
   }
 }

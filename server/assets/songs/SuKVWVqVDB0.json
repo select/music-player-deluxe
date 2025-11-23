@@ -7,12 +7,14 @@
   "duration": 494,
   "youtubeId": "SuKVWVqVDB0",
   "lastFetched": "2025-11-19T03:55:31.817Z",
-  "lastfmId": "Sjaella/_/Evening+Morning+Day",
-  "listeners": 24,
-  "playcount": 40,
   "musicbrainz": {
     "artistTags": [
       "a cappella"
     ]
+  },
+  "lastfm": {
+    "id": "Sjaella/_/Evening+Morning+Day",
+    "listeners": 24,
+    "playcount": 40
   }
 }

@@ -9,7 +9,9 @@
     "youtube": "ghAYvOExtC4",
     "youtubeMusic": "ghAYvOExtC4"
   },
-  "lastfmId": "Perel/_/Real",
-  "listeners": 2629,
-  "playcount": 7380
+  "lastfm": {
+    "id": "Perel/_/Real",
+    "listeners": 2629,
+    "playcount": 7380
+  }
 }

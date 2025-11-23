@@ -19,7 +19,9 @@
     "youtube": "MKp30C3MwVk",
     "youtubeMusic": "MKp30C3MwVk"
   },
-  "lastfmId": "Igorrr/_/Tout+Petit+Moineau",
-  "listeners": 72239,
-  "playcount": 459444
+  "lastfm": {
+    "id": "Igorrr/_/Tout+Petit+Moineau",
+    "listeners": 72239,
+    "playcount": 459444
+  }
 }

@@ -12,8 +12,10 @@
     "youtubeMusic": "lPpKCIdNu8o"
   },
   "mbid": "890736d2-25bf-4bf0-8a4d-b6ca0cc9f24b",
-  "lastfmId": "Steinregen+Dubsystem/_/The+Return+of+Little+Big+Man",
-  "listeners": 48,
-  "playcount": 126,
-  "artistMbid": "62cd29c8-ba7c-4611-a921-3e9d9d15de32"
+  "artistMbid": "62cd29c8-ba7c-4611-a921-3e9d9d15de32",
+  "lastfm": {
+    "id": "Steinregen+Dubsystem/_/The+Return+of+Little+Big+Man",
+    "listeners": 48,
+    "playcount": 126
+  }
 }

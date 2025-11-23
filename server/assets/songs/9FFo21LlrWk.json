@@ -20,9 +20,6 @@
     "youtube": "9FFo21LlrWk",
     "youtubeMusic": "9FFo21LlrWk"
   },
-  "lastfmId": "Kutiman/_/Remotely+Close:+Silkyway",
-  "listeners": 4274,
-  "playcount": 13087,
   "musicbrainz": {
     "artistTags": [
       "afrobeat",
@@ -52,5 +49,10 @@
       "world",
       "world fusion"
     ]
+  },
+  "lastfm": {
+    "id": "Kutiman/_/Remotely+Close:+Silkyway",
+    "listeners": 4274,
+    "playcount": 13087
   }
 }

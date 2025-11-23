@@ -14,9 +14,6 @@
     "youtubeMusic": "UW7lB7p0Eow"
   },
   "mbid": "2e6c7eb5-853b-4376-aad1-d21b1793c7b2",
-  "lastfmId": "Markus/_/Ich+will+Spass",
-  "listeners": 21393,
-  "playcount": 83928,
   "artistMbid": "88a6e84f-a7bd-4cef-9e02-45476a61510c",
   "musicbrainz": {
     "tags": [
@@ -41,5 +38,10 @@
       "neue deutsche welle",
       "new wave"
     ]
+  },
+  "lastfm": {
+    "id": "Markus/_/Ich+will+Spass",
+    "listeners": 21393,
+    "playcount": 83928
   }
 }

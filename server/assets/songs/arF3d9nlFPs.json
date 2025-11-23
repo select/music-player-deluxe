@@ -13,9 +13,6 @@
     "youtubeMusic": "arF3d9nlFPs"
   },
   "mbid": "0f0fa294-80f9-4b40-beeb-b0b5b14105e7",
-  "lastfmId": "Weezer/_/This+Is+Such+A+Pity",
-  "listeners": 221523,
-  "playcount": 1176413,
   "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "geek rock",
       "mainstream rock"
     ]
+  },
+  "lastfm": {
+    "id": "Weezer/_/This+Is+Such+A+Pity",
+    "listeners": 221523,
+    "playcount": 1176413
   }
 }

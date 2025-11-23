@@ -16,7 +16,9 @@
     "youtubeMusic": "kyHc00hjo5A"
   },
   "mbid": "329930bd-2aae-4cc2-8e2a-092cbcc8871a",
-  "lastfmId": "Working+Men%27s+Club/_/John+Cooper+Clarke",
-  "listeners": 30243,
-  "playcount": 120685
+  "lastfm": {
+    "id": "Working+Men%27s+Club/_/John+Cooper+Clarke",
+    "listeners": 30243,
+    "playcount": 120685
+  }
 }

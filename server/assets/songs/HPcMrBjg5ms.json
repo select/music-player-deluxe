@@ -19,12 +19,12 @@
     "youtube": "HPcMrBjg5ms",
     "youtubeMusic": "HPcMrBjg5ms"
   },
-  "lastfmId": "Little+Willie+John/_/My+Love+Is",
-  "listeners": 8581,
-  "playcount": 19501,
   "lastfm": {
     "title": "My Love Is",
     "artist": "Little Willie John",
-    "artistMbid": "d59ce86d-2cc3-49be-be12-3eb4dde6e1ed"
+    "artistMbid": "d59ce86d-2cc3-49be-be12-3eb4dde6e1ed",
+    "id": "Little+Willie+John/_/My+Love+Is",
+    "listeners": 8581,
+    "playcount": 19501
   }
 }

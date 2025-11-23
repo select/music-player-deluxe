@@ -8,9 +8,6 @@
   "youtubeId": "N1WSk7nlfcA",
   "lastFetched": "2025-11-23T16:36:38.102Z",
   "name": "Ageh Bemooni",
-  "lastfmId": "Googoosh/_/Ageh+Bemooni",
-  "listeners": 639,
-  "playcount": 2087,
   "musicbrainz": {
     "artistTags": [
       "female vocalists",
@@ -26,5 +23,10 @@
       "persian pop",
       "pop"
     ]
+  },
+  "lastfm": {
+    "id": "Googoosh/_/Ageh+Bemooni",
+    "listeners": 639,
+    "playcount": 2087
   }
 }

@@ -15,8 +15,10 @@
     "youtube": "IF1lYMiBcWc",
     "youtubeMusic": "IF1lYMiBcWc"
   },
-  "lastfmId": "Rival+Sons/_/Nobody+Wants+to+Die",
-  "listeners": 15419,
-  "playcount": 74632,
-  "artistMbid": "2aff9c10-2145-4851-a656-898aeb434ad5"
+  "artistMbid": "2aff9c10-2145-4851-a656-898aeb434ad5",
+  "lastfm": {
+    "id": "Rival+Sons/_/Nobody+Wants+to+Die",
+    "listeners": 15419,
+    "playcount": 74632
+  }
 }

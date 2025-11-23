@@ -20,9 +20,6 @@
     "youtubeMusic": "gHMzOxaMqwM"
   },
   "mbid": "4757e2fe-0b61-3083-a4f3-64b9f44183ba",
-  "lastfmId": "Muse/_/Bedroom+Acoustics",
-  "listeners": 46201,
-  "playcount": 236339,
   "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
   "musicbrainz": {
     "artistTags": [
@@ -44,5 +41,10 @@
       "art rock",
       "neo-progressive rock"
     ]
+  },
+  "lastfm": {
+    "id": "Muse/_/Bedroom+Acoustics",
+    "listeners": 46201,
+    "playcount": 236339
   }
 }

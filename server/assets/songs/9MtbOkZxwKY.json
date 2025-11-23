@@ -22,7 +22,9 @@
     "youtube": "9MtbOkZxwKY",
     "youtubeMusic": "9MtbOkZxwKY"
   },
-  "lastfmId": "Flur/_/Nightdiver",
-  "listeners": 2038,
-  "playcount": 3449
+  "lastfm": {
+    "id": "Flur/_/Nightdiver",
+    "listeners": 2038,
+    "playcount": 3449
+  }
 }

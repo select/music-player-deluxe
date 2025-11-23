@@ -16,9 +16,6 @@
     "youtubeMusic": "rzCzRo4C8IY"
   },
   "mbid": "867b1620-18f9-4c45-94a7-0b25a55a3b08",
-  "lastfmId": "VHS+Glitch/_/Doctor+D",
-  "listeners": 8651,
-  "playcount": 58537,
   "artistMbid": "13505577-7c12-431b-bb81-19a41fc48c99",
   "musicbrainz": {
     "artistTags": [
@@ -30,5 +27,10 @@
       "electronic",
       "synthwave"
     ]
+  },
+  "lastfm": {
+    "id": "VHS+Glitch/_/Doctor+D",
+    "listeners": 8651,
+    "playcount": 58537
   }
 }

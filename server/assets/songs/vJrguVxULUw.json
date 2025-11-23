@@ -15,11 +15,11 @@
     "youtube": "vJrguVxULUw",
     "youtubeMusic": "vJrguVxULUw"
   },
-  "lastfmId": "Erobique/_/Verkackt",
-  "listeners": 874,
-  "playcount": 2421,
   "lastfm": {
     "title": "Verkackt",
-    "artist": "Erobique"
+    "artist": "Erobique",
+    "id": "Erobique/_/Verkackt",
+    "listeners": 874,
+    "playcount": 2421
   }
 }

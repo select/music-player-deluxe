@@ -3,9 +3,11 @@
   "title": "My Generation",
   "artist": "The Who",
   "lastFetched": "2025-11-19T12:10:09.286Z",
-  "lastfmId": "The+Who/_/My+Generation",
-  "listeners": 898978,
-  "playcount": 4421851,
   "artistMbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
-  "lastfmSummary": "\"My Generation\" is a song by the British rock group The Who, which became a hit and one of their most recognizable songs. It has entered the rock and roll pantheon as one of the most celebrated, cited, and referenced songs in the idiom; it was named the 11th greatest song by Rolling Stone on their list of the 500 Greatest Songs of All Time and 13th on VH1's list of the 100 Greatest Songs of Rock & Roll,. It's also part of The Rock and Roll Hall of <a href=\"http://www.last.fm/music/The+Who/_/My+Generation\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "The+Who/_/My+Generation",
+    "listeners": 898978,
+    "playcount": 4421851,
+    "summary": "\"My Generation\" is a song by the British rock group The Who, which became a hit and one of their most recognizable songs. It has entered the rock and roll pantheon as one of the most celebrated, cited, and referenced songs in the idiom; it was named the 11th greatest song by Rolling Stone on their list of the 500 Greatest Songs of All Time and 13th on VH1's list of the 100 Greatest Songs of Rock & Roll,. It's also part of The Rock and Roll Hall of <a href=\"http://www.last.fm/music/The+Who/_/My+Generation\">Read more on Last.fm</a>."
+  }
 }

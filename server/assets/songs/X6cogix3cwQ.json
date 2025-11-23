@@ -3,8 +3,10 @@
   "title": "Dies irae",
   "artist": "Giuseppe Verdi",
   "lastFetched": "2025-11-19T13:30:47.932Z",
-  "lastfmId": "Giuseppe+Verdi/_/Dies+irae",
-  "listeners": 235636,
-  "playcount": 920479,
-  "lastfmSummary": "Dies Irae is Latin for \"Day of Wrath\". <a href=\"http://www.last.fm/music/Giuseppe+Verdi/_/Dies+irae\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "Giuseppe+Verdi/_/Dies+irae",
+    "listeners": 235636,
+    "playcount": 920479,
+    "summary": "Dies Irae is Latin for \"Day of Wrath\". <a href=\"http://www.last.fm/music/Giuseppe+Verdi/_/Dies+irae\">Read more on Last.fm</a>."
+  }
 }

@@ -4,11 +4,7 @@
   "artist": "Joan Jett and the Blackhearts",
   "lastFetched": "2025-11-23T16:46:57.027Z",
   "mbid": "4539506b-99a9-4f5a-ad9d-afefc3626a0e",
-  "lastfmId": "Joan+Jett+and+the+Blackhearts/_/Crimson+and+Clover",
-  "listeners": 50633,
-  "playcount": 260044,
   "artistMbid": "46e63d3b-d91b-4791-bb73-e9f638a45ea0",
-  "lastfmSummary": "Joan Jett and the Blackhearts covered \"Crimson and Clover\" on their debut LP in 1981. In 1982, they reached #7 on the Billboard Hot 100 with their rendition, their second-highest charting hit in the U.S <a href=\"http://www.last.fm/music/Joan+Jett+and+the+Blackhearts/_/Crimson+and+Clover\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "album rock",
@@ -29,5 +25,11 @@
       "glam rock",
       "hard rock"
     ]
+  },
+  "lastfm": {
+    "id": "Joan+Jett+and+the+Blackhearts/_/Crimson+and+Clover",
+    "listeners": 50633,
+    "playcount": 260044,
+    "summary": "Joan Jett and the Blackhearts covered \"Crimson and Clover\" on their debut LP in 1981. In 1982, they reached #7 on the Billboard Hot 100 with their rendition, their second-highest charting hit in the U.S <a href=\"http://www.last.fm/music/Joan+Jett+and+the+Blackhearts/_/Crimson+and+Clover\">Read more on Last.fm</a>."
   }
 }

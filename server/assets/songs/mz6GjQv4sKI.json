@@ -22,9 +22,6 @@
     "youtubeMusic": "mz6GjQv4sKI"
   },
   "mbid": "43f60066-7dfb-48be-9c6e-328ec8cf4621",
-  "lastfmId": "Moka+Efti+Orchestra/_/Frenzy",
-  "listeners": 4748,
-  "playcount": 13862,
   "artistMbid": "513bd484-11fd-47f5-9560-4622338ef16c",
   "musicbrainz": {
     "artistTags": [
@@ -33,5 +30,10 @@
     "artistGenres": [
       "swing"
     ]
+  },
+  "lastfm": {
+    "id": "Moka+Efti+Orchestra/_/Frenzy",
+    "listeners": 4748,
+    "playcount": 13862
   }
 }

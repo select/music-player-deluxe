@@ -22,9 +22,6 @@
     "youtubeMusic": "h2_rc6UuAHQ"
   },
   "mbid": "15971667-4f44-4916-a8a8-917f93151f41",
-  "lastfmId": "SSIO/_/Nullkommaneun",
-  "listeners": 49567,
-  "playcount": 472027,
   "artistMbid": "24234aaf-000f-44de-8f58-9d7964ac3e8f",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
     "artistGenres": [
       "hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "SSIO/_/Nullkommaneun",
+    "listeners": 49567,
+    "playcount": 472027
   }
 }

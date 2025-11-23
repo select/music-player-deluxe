@@ -15,7 +15,9 @@
     "youtube": "fKSEN2AfvYE",
     "youtubeMusic": "fKSEN2AfvYE"
   },
-  "lastfmId": "Exploding+Pig/_/Tears+At+The+Truckstop",
-  "listeners": 55,
-  "playcount": 76
+  "lastfm": {
+    "id": "Exploding+Pig/_/Tears+At+The+Truckstop",
+    "listeners": 55,
+    "playcount": 76
+  }
 }

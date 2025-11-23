@@ -17,9 +17,6 @@
     "youtube": "rCyKvi_SFBM",
     "youtubeMusic": "rCyKvi_SFBM"
   },
-  "lastfmId": "Aitch/_/LUV%3F",
-  "listeners": 339,
-  "playcount": 663,
   "musicbrainz": {
     "artistTags": [
       "2020s",
@@ -29,5 +26,10 @@
       "trap",
       "uk drill"
     ]
+  },
+  "lastfm": {
+    "id": "Aitch/_/LUV%3F",
+    "listeners": 339,
+    "playcount": 663
   }
 }

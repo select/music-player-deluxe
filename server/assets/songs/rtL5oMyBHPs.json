@@ -18,11 +18,7 @@
     "youtubeMusic": "rtL5oMyBHPs"
   },
   "mbid": "364a10df-d8f5-4578-a1fb-92b3b2f4fbf8",
-  "lastfmId": "MGMT/_/Little+Dark+Age",
-  "listeners": 1423631,
-  "playcount": 19285353,
   "artistMbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
-  "lastfmSummary": "\"Little Dark Age\" is a song by American indie rock band MGMT. It was released as the lead single from their fourth studio album, Little Dark Age, on October 17, 2017, through Columbia Records. <a href=\"http://www.last.fm/music/MGMT/_/Little+Dark+Age\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "synthpop",
@@ -31,5 +27,11 @@
       "indietronica",
       "2010s"
     ]
+  },
+  "lastfm": {
+    "id": "MGMT/_/Little+Dark+Age",
+    "listeners": 1423631,
+    "playcount": 19285353,
+    "summary": "\"Little Dark Age\" is a song by American indie rock band MGMT. It was released as the lead single from their fourth studio album, Little Dark Age, on October 17, 2017, through Columbia Records. <a href=\"http://www.last.fm/music/MGMT/_/Little+Dark+Age\">Read more on Last.fm</a>."
   }
 }

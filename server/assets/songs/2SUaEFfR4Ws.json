@@ -3,7 +3,9 @@
   "title": "One of Us",
   "artist": "Kryptic Minds",
   "lastFetched": "2025-11-19T11:17:07.981Z",
-  "lastfmId": "Kryptic+Minds/_/One+of+Us",
-  "listeners": 12191,
-  "playcount": 68778
+  "lastfm": {
+    "id": "Kryptic+Minds/_/One+of+Us",
+    "listeners": 12191,
+    "playcount": 68778
+  }
 }

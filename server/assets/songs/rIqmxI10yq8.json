@@ -9,8 +9,10 @@
     "youtube": "rIqmxI10yq8",
     "youtubeMusic": "rIqmxI10yq8"
   },
-  "lastfmId": "FD/_/Blue+Sky+Research+(Sun+And+Bass+VIP)",
-  "listeners": 319,
-  "playcount": 887,
-  "artistMbid": "5d0919ad-3fdd-4936-b846-24476172aa83"
+  "artistMbid": "5d0919ad-3fdd-4936-b846-24476172aa83",
+  "lastfm": {
+    "id": "FD/_/Blue+Sky+Research+(Sun+And+Bass+VIP)",
+    "listeners": 319,
+    "playcount": 887
+  }
 }

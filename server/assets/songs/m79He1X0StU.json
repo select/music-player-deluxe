@@ -11,8 +11,10 @@
     "youtubeMusic": "m79He1X0StU"
   },
   "mbid": "605f81ed-142c-48bf-b665-097933a6b170",
-  "lastfmId": "DJ+Normal+4/_/Begleitautomatik",
-  "listeners": 172,
-  "playcount": 385,
-  "artistMbid": "70f63a33-5476-4739-9a58-d68df2bf6cb1"
+  "artistMbid": "70f63a33-5476-4739-9a58-d68df2bf6cb1",
+  "lastfm": {
+    "id": "DJ+Normal+4/_/Begleitautomatik",
+    "listeners": 172,
+    "playcount": 385
+  }
 }

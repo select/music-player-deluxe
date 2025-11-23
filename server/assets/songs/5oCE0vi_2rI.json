@@ -17,8 +17,10 @@
     "youtube": "5oCE0vi_2rI",
     "youtubeMusic": "5oCE0vi_2rI"
   },
-  "lastfmId": "Blackmail/_/Evon+(Remastered)",
-  "listeners": 57,
-  "playcount": 167,
-  "artistMbid": "1920f044-4a60-451d-9b15-4107d419a97b"
+  "artistMbid": "1920f044-4a60-451d-9b15-4107d419a97b",
+  "lastfm": {
+    "id": "Blackmail/_/Evon+(Remastered)",
+    "listeners": 57,
+    "playcount": 167
+  }
 }

@@ -12,9 +12,6 @@
     "youtubeMusic": "w26iVCoINlw"
   },
   "mbid": "5492a18a-d553-4bc4-b3de-61e7a48c3e21",
-  "lastfmId": "Ali+Farka+Tour%C3%A9/_/Goye+Kur",
-  "listeners": 9615,
-  "playcount": 25242,
   "artistMbid": "9be2a5ac-8201-489b-b5f6-91f958bf9060",
   "musicbrainz": {
     "artistTags": [
@@ -25,5 +22,10 @@
     "artistGenres": [
       "african blues"
     ]
+  },
+  "lastfm": {
+    "id": "Ali+Farka+Tour%C3%A9/_/Goye+Kur",
+    "listeners": 9615,
+    "playcount": 25242
   }
 }

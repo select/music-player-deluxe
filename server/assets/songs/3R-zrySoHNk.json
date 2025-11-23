@@ -18,9 +18,6 @@
     "youtubeMusic": "3R-zrySoHNk"
   },
   "name": "Today's Song",
-  "lastfmId": "Foo+Fighters/_/Today%27s+Song",
-  "listeners": 41023,
-  "playcount": 98941,
   "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
   "musicbrainz": {
     "artistTags": [
@@ -31,5 +28,10 @@
       "post-grunge",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Foo+Fighters/_/Today%27s+Song",
+    "listeners": 41023,
+    "playcount": 98941
   }
 }

@@ -18,11 +18,7 @@
     "youtubeMusic": "O3tnOVideSo"
   },
   "mbid": "170f236a-f9e5-4632-8543-dd0142eaf242",
-  "lastfmId": "Michael+Jackson/_/Baby+Be+Mine",
-  "listeners": 640457,
-  "playcount": 3920430,
   "artistMbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
-  "lastfmSummary": "This song, \"Baby Be Mine\", is one of only two tracks on Thriller that weren’t released as singles with the other being the final track, \"The Lady in My Life.\"\nJust like on Michael’s previous project, Off the Wall, Rod Temperton is credited as the songwriter for this track.\nAt first, Michael didn’t appreciate the song, as he preferred another track written by Rod Temperton, \"Hot Street.\"\nQuincy Jones, however, insisted that it be included on the album. <a href=\"http://www.last.fm/music/Michael+Jackson/_/Baby+Be+Mine\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "pop",
@@ -31,5 +27,11 @@
       "soul",
       "funk"
     ]
+  },
+  "lastfm": {
+    "id": "Michael+Jackson/_/Baby+Be+Mine",
+    "listeners": 640457,
+    "playcount": 3920430,
+    "summary": "This song, \"Baby Be Mine\", is one of only two tracks on Thriller that weren’t released as singles with the other being the final track, \"The Lady in My Life.\"\nJust like on Michael’s previous project, Off the Wall, Rod Temperton is credited as the songwriter for this track.\nAt first, Michael didn’t appreciate the song, as he preferred another track written by Rod Temperton, \"Hot Street.\"\nQuincy Jones, however, insisted that it be included on the album. <a href=\"http://www.last.fm/music/Michael+Jackson/_/Baby+Be+Mine\">Read more on Last.fm</a>."
   }
 }

@@ -20,12 +20,12 @@
     "youtube": "X28D2pAEDuk",
     "youtubeMusic": "X28D2pAEDuk"
   },
-  "lastfmId": "NXCRE/_/Usurper",
-  "listeners": 72024,
-  "playcount": 709448,
   "lastfm": {
     "title": "Usurper",
     "artist": "NXCRE",
-    "mbid": "1f908800-f349-424b-8f39-3109040ea817"
+    "mbid": "1f908800-f349-424b-8f39-3109040ea817",
+    "id": "NXCRE/_/Usurper",
+    "listeners": 72024,
+    "playcount": 709448
   }
 }

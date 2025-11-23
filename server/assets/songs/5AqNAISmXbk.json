@@ -13,9 +13,6 @@
     "youtubeMusic": "5AqNAISmXbk"
   },
   "mbid": "ab28a8f1-ae58-4f2d-b61a-136238b6cd72",
-  "lastfmId": "Daughtry/_/pieces",
-  "listeners": 12410,
-  "playcount": 68825,
   "artistMbid": "21e3292e-dac8-4609-b57d-402f926aa41f",
   "musicbrainz": {
     "tags": [
@@ -33,5 +30,10 @@
       "alternative rock",
       "hard rock"
     ]
+  },
+  "lastfm": {
+    "id": "Daughtry/_/pieces",
+    "listeners": 12410,
+    "playcount": 68825
   }
 }

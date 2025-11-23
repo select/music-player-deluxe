@@ -21,7 +21,9 @@
     "youtube": "nL_2d1wVVSo",
     "youtubeMusic": "nL_2d1wVVSo"
   },
-  "lastfmId": "Sleaford+Mods/_/Jobseeker",
-  "listeners": 35867,
-  "playcount": 185181
+  "lastfm": {
+    "id": "Sleaford+Mods/_/Jobseeker",
+    "listeners": 35867,
+    "playcount": 185181
+  }
 }

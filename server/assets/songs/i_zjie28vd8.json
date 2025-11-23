@@ -11,8 +11,10 @@
     "youtube": "i_zjie28vd8",
     "youtubeMusic": "i_zjie28vd8"
   },
-  "lastfmId": "Adrian+Raso/_/Devil%27s+Tale",
-  "listeners": 646,
-  "playcount": 1533,
-  "artistMbid": "915a6db3-a32e-4958-b20f-f5451377d886"
+  "artistMbid": "915a6db3-a32e-4958-b20f-f5451377d886",
+  "lastfm": {
+    "id": "Adrian+Raso/_/Devil%27s+Tale",
+    "listeners": 646,
+    "playcount": 1533
+  }
 }

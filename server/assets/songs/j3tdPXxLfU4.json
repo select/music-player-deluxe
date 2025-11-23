@@ -14,8 +14,10 @@
     "youtube": "j3tdPXxLfU4",
     "youtubeMusic": "j3tdPXxLfU4"
   },
-  "lastfmId": "Sarp+Maden/_/119%2F5",
-  "listeners": 48,
-  "playcount": 233,
-  "artistMbid": "37155bdb-24a9-4914-8b85-e213640f069d"
+  "artistMbid": "37155bdb-24a9-4914-8b85-e213640f069d",
+  "lastfm": {
+    "id": "Sarp+Maden/_/119%2F5",
+    "listeners": 48,
+    "playcount": 233
+  }
 }

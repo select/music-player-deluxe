@@ -12,7 +12,9 @@
     "youtube": "xigc7QGPJQM",
     "youtubeMusic": "xigc7QGPJQM"
   },
-  "lastfmId": "Numa+Crew/_/Babylon",
-  "listeners": 861,
-  "playcount": 3228
+  "lastfm": {
+    "id": "Numa+Crew/_/Babylon",
+    "listeners": 861,
+    "playcount": 3228
+  }
 }

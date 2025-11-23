@@ -19,9 +19,6 @@
     "youtubeMusic": "2o7ecDHnULo"
   },
   "mbid": "cc07d1f3-022e-333d-8da2-dfd5ddf1dd73",
-  "lastfmId": "Martin+Rev/_/Small+Talk",
-  "listeners": 1797,
-  "playcount": 5079,
   "artistMbid": "15dba3af-bb9a-4a19-808d-fbffc085c4ff",
   "musicbrainz": {
     "artistTags": [
@@ -30,5 +27,10 @@
     "artistGenres": [
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "Martin+Rev/_/Small+Talk",
+    "listeners": 1797,
+    "playcount": 5079
   }
 }

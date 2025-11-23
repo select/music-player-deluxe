@@ -15,8 +15,10 @@
     "youtube": "qw6MY45tK6o",
     "youtubeMusic": "qw6MY45tK6o"
   },
-  "lastfmId": "Yussef+Dayes/_/Black+Classical+Music+(feat.+Venna+&+Charlie+Stacey)",
-  "listeners": 40741,
-  "playcount": 152931,
-  "artistMbid": "fdbffd97-c991-433c-9137-cafee3ded97a"
+  "artistMbid": "fdbffd97-c991-433c-9137-cafee3ded97a",
+  "lastfm": {
+    "id": "Yussef+Dayes/_/Black+Classical+Music+(feat.+Venna+&+Charlie+Stacey)",
+    "listeners": 40741,
+    "playcount": 152931
+  }
 }

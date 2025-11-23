@@ -15,7 +15,9 @@
     "youtube": "giGF6n72kQo",
     "youtubeMusic": "giGF6n72kQo"
   },
-  "lastfmId": "Puppetmastaz/_/Cheeba+Garden",
-  "listeners": 379,
-  "playcount": 1199
+  "lastfm": {
+    "id": "Puppetmastaz/_/Cheeba+Garden",
+    "listeners": 379,
+    "playcount": 1199
+  }
 }

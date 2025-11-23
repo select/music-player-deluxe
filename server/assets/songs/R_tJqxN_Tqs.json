@@ -20,9 +20,6 @@
     "youtube": "R_tJqxN_Tqs",
     "youtubeMusic": "R_tJqxN_Tqs"
   },
-  "lastfmId": "Dylan+Henner/_/We+Walked+all+the+Way+to+the+Lake+and+The+Water+Was+So+Still+We+Jumped+in+Naked",
-  "listeners": 1341,
-  "playcount": 2355,
   "musicbrainz": {
     "artistTags": [
       "ambient"
@@ -30,5 +27,10 @@
     "artistGenres": [
       "ambient"
     ]
+  },
+  "lastfm": {
+    "id": "Dylan+Henner/_/We+Walked+all+the+Way+to+the+Lake+and+The+Water+Was+So+Still+We+Jumped+in+Naked",
+    "listeners": 1341,
+    "playcount": 2355
   }
 }

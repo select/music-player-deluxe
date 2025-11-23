@@ -20,8 +20,10 @@
     "youtube": "gl4lvJmvqQU",
     "youtubeMusic": "gl4lvJmvqQU"
   },
-  "lastfmId": "Talk+Talk/_/Happiness+Is+Easy+(1997+Remaster)",
-  "listeners": 2723,
-  "playcount": 7339,
-  "artistMbid": "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+  "artistMbid": "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03",
+  "lastfm": {
+    "id": "Talk+Talk/_/Happiness+Is+Easy+(1997+Remaster)",
+    "listeners": 2723,
+    "playcount": 7339
+  }
 }

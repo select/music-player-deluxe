@@ -15,9 +15,6 @@
     "youtubeMusic": "5Ugqo5dhL2A"
   },
   "mbid": "1d378a04-791a-38d1-a016-dd31c5781578",
-  "lastfmId": "Martin+Dupont/_/Inside+Out",
-  "listeners": 46433,
-  "playcount": 324397,
   "artistMbid": "bbb1f7fa-aa8c-416f-8a5a-5ca26ee24827",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "minimal wave",
       "new wave"
     ]
+  },
+  "lastfm": {
+    "id": "Martin+Dupont/_/Inside+Out",
+    "listeners": 46433,
+    "playcount": 324397
   }
 }

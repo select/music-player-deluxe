@@ -19,9 +19,6 @@
     "youtube": "zRSqT-Ahk14",
     "youtubeMusic": "zRSqT-Ahk14"
   },
-  "lastfmId": "Skream/_/Deep+Concentration",
-  "listeners": 10632,
-  "playcount": 33159,
   "musicbrainz": {
     "artistTags": [
       "2-step",
@@ -32,5 +29,10 @@
       "grime",
       "uk garage"
     ]
+  },
+  "lastfm": {
+    "id": "Skream/_/Deep+Concentration",
+    "listeners": 10632,
+    "playcount": 33159
   }
 }

@@ -15,9 +15,6 @@
     "youtubeMusic": "7E-_J5WWkoc"
   },
   "mbid": "072992f7-b735-4217-834f-53511aa04902",
-  "lastfmId": "Puscifer/_/Conditions+of+My+Parole",
-  "listeners": 112382,
-  "playcount": 923955,
   "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22",
   "musicbrainz": {
     "artistTags": [
@@ -39,5 +36,10 @@
       "experimental rock",
       "industrial"
     ]
+  },
+  "lastfm": {
+    "id": "Puscifer/_/Conditions+of+My+Parole",
+    "listeners": 112382,
+    "playcount": 923955
   }
 }

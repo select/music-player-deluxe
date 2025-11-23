@@ -22,9 +22,6 @@
     "youtubeMusic": "H517hUHQtvA"
   },
   "mbid": "a34626ce-d262-4482-a135-3e1c86148b6b",
-  "lastfmId": "Bukahara/_/Wein+A+Ramallah",
-  "listeners": 2097,
-  "playcount": 10012,
   "artistMbid": "ad058e4f-7e24-4db0-b5c2-7fcbcff72e01",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "neofolk",
       "pop"
     ]
+  },
+  "lastfm": {
+    "id": "Bukahara/_/Wein+A+Ramallah",
+    "listeners": 2097,
+    "playcount": 10012
   }
 }

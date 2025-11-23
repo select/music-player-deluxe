@@ -20,11 +20,7 @@
     "youtube": "kln_bIndDJg",
     "youtubeMusic": "kln_bIndDJg"
   },
-  "lastfmId": "Supertramp/_/The+Logical+Song",
-  "listeners": 577638,
-  "playcount": 3167830,
   "artistMbid": "d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8",
-  "lastfmSummary": "“The Logical Song” is a song by British rock band Supertramp, released in 1979 as the lead single from their album Breakfast in America. Written and sung by Roger Hodgson, it became one of the band’s biggest international hits and is widely regarded as a defining song of their career.\n\nBackground\nRoger Hodgson wrote The Logical Song as a reflection on his own experiences with the British education system. The song critiques how formal schooling focuses on rote learning and conformity <a href=\"http://www.last.fm/music/Supertramp/_/The+Logical+Song\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "art pop",
@@ -44,5 +40,11 @@
       "crossover prog",
       "pop rock"
     ]
+  },
+  "lastfm": {
+    "id": "Supertramp/_/The+Logical+Song",
+    "listeners": 577638,
+    "playcount": 3167830,
+    "summary": "“The Logical Song” is a song by British rock band Supertramp, released in 1979 as the lead single from their album Breakfast in America. Written and sung by Roger Hodgson, it became one of the band’s biggest international hits and is widely regarded as a defining song of their career.\n\nBackground\nRoger Hodgson wrote The Logical Song as a reflection on his own experiences with the British education system. The song critiques how formal schooling focuses on rote learning and conformity <a href=\"http://www.last.fm/music/Supertramp/_/The+Logical+Song\">Read more on Last.fm</a>."
   }
 }

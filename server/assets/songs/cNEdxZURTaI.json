@@ -18,9 +18,6 @@
     "youtubeMusic": "cNEdxZURTaI"
   },
   "mbid": "991257e8-8bf2-4059-8cb9-0da6d5bdc598",
-  "lastfmId": "ABC/_/The+Look+Of+Love,+Pt.1",
-  "listeners": 94588,
-  "playcount": 449679,
   "artistMbid": "87199477-b0df-4ead-84ee-9b54b4abfc3d",
   "musicbrainz": {
     "tags": [
@@ -56,5 +53,10 @@
       "pop",
       "sophisti-pop"
     ]
+  },
+  "lastfm": {
+    "id": "ABC/_/The+Look+Of+Love,+Pt.1",
+    "listeners": 94588,
+    "playcount": 449679
   }
 }

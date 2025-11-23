@@ -21,9 +21,6 @@
     "youtubeMusic": "9W8Ei3ZUsEA"
   },
   "mbid": "3497975f-a859-4972-8b3f-8aa17b5d4c6b",
-  "lastfmId": "Four+Tet/_/Loved",
-  "listeners": 92547,
-  "playcount": 435817,
   "artistMbid": "3bcff06f-675a-451f-9075-99e8657047e8",
   "musicbrainz": {
     "tags": [
@@ -51,5 +48,10 @@
       "dubstep",
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "Four+Tet/_/Loved",
+    "listeners": 92547,
+    "playcount": 435817
   }
 }

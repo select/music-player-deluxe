@@ -12,9 +12,6 @@
     "youtubeMusic": "TdwBRn2NKWM"
   },
   "mbid": "1049b9da-5707-4322-ac0a-fda79ee84559",
-  "lastfmId": "Jamiroquai/_/Deeper+Underground",
-  "listeners": 292104,
-  "playcount": 1520963,
   "artistMbid": "f4857fb9-e255-4dc6-bd01-e4ca7cc68544",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "house",
       "r&b"
     ]
+  },
+  "lastfm": {
+    "id": "Jamiroquai/_/Deeper+Underground",
+    "listeners": 292104,
+    "playcount": 1520963
   }
 }

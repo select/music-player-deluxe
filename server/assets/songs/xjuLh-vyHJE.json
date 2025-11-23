@@ -22,9 +22,6 @@
     "youtubeMusic": "xjuLh-vyHJE"
   },
   "mbid": "fc53cd82-a1bc-463c-8a28-26f97b0a75c0",
-  "lastfmId": "V.C.R/_/TRiP",
-  "listeners": 7950,
-  "playcount": 23978,
   "artistMbid": "fc1c6fab-cb59-4a02-879f-69be388a964e",
   "musicbrainz": {
     "artistTags": [
@@ -43,5 +40,10 @@
       "contemporary r&b",
       "free jazz"
     ]
+  },
+  "lastfm": {
+    "id": "V.C.R/_/TRiP",
+    "listeners": 7950,
+    "playcount": 23978
   }
 }

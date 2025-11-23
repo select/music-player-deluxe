@@ -18,7 +18,9 @@
     "youtube": "i3aXVusJI44",
     "youtubeMusic": "i3aXVusJI44"
   },
-  "lastfmId": "Helge+Schneider/_/Bonbon+aus+Wurst",
-  "listeners": 22035,
-  "playcount": 71037
+  "lastfm": {
+    "id": "Helge+Schneider/_/Bonbon+aus+Wurst",
+    "listeners": 22035,
+    "playcount": 71037
+  }
 }

@@ -11,9 +11,6 @@
     "youtubeMusic": "Pm2XSWCEm5w"
   },
   "mbid": "27244fa0-1eda-43c9-bbb9-8b99d62e7ffb",
-  "lastfmId": "Helstar/_/Burning+Star",
-  "listeners": 12855,
-  "playcount": 54191,
   "artistMbid": "3b0f2300-1f53-4cc1-acbc-0e9a78871661",
   "musicbrainz": {
     "artistTags": [
@@ -24,5 +21,10 @@
       "power metal",
       "speed metal"
     ]
+  },
+  "lastfm": {
+    "id": "Helstar/_/Burning+Star",
+    "listeners": 12855,
+    "playcount": 54191
   }
 }

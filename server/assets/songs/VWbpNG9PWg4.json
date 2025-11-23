@@ -18,7 +18,9 @@
     "youtube": "VWbpNG9PWg4",
     "youtubeMusic": "VWbpNG9PWg4"
   },
-  "lastfmId": "Mykki+Blanco/_/Magic+on+My+Back",
-  "listeners": 3818,
-  "playcount": 9218
+  "lastfm": {
+    "id": "Mykki+Blanco/_/Magic+on+My+Back",
+    "listeners": 3818,
+    "playcount": 9218
+  }
 }

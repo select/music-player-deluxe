@@ -7,12 +7,14 @@
   "duration": 177,
   "youtubeId": "cKpcVGinVOk",
   "lastFetched": "2025-11-19T03:59:04.524Z",
-  "lastfmId": "Nicolas+Cage/_/Love+Me",
-  "listeners": 4174,
-  "playcount": 17603,
   "musicbrainz": {
     "artistTags": [
       "american"
     ]
+  },
+  "lastfm": {
+    "id": "Nicolas+Cage/_/Love+Me",
+    "listeners": 4174,
+    "playcount": 17603
   }
 }

@@ -14,7 +14,9 @@
     "youtube": "uq6rta6hQgY",
     "youtubeMusic": "uq6rta6hQgY"
   },
-  "lastfmId": "Blasorchester+Heribert+Raich/_/Duo+Clari+Polka",
-  "listeners": 9,
-  "playcount": 12
+  "lastfm": {
+    "id": "Blasorchester+Heribert+Raich/_/Duo+Clari+Polka",
+    "listeners": 9,
+    "playcount": 12
+  }
 }

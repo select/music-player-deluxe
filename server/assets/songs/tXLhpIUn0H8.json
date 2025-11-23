@@ -11,8 +11,10 @@
     "youtubeMusic": "tXLhpIUn0H8"
   },
   "mbid": "589e6f11-c3d0-4cd3-98fe-d5fc0bb56335",
-  "lastfmId": "The+Montgomery+Express/_/Who",
-  "listeners": 4454,
-  "playcount": 10396,
-  "artistMbid": "1c13a027-cae3-44af-bfcf-be0c6562b91b"
+  "artistMbid": "1c13a027-cae3-44af-bfcf-be0c6562b91b",
+  "lastfm": {
+    "id": "The+Montgomery+Express/_/Who",
+    "listeners": 4454,
+    "playcount": 10396
+  }
 }

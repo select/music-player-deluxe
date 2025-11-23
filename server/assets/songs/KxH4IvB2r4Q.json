@@ -7,11 +7,7 @@
   "lastFetched": "2025-11-19T01:38:03.626Z",
   "releaseCount": 1,
   "name": "Omen",
-  "lastfmId": "The+Prodigy/_/Omen",
-  "listeners": 775881,
-  "playcount": 7314880,
   "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
-  "lastfmSummary": "\"Omen\" is the nineteenth single released by the British electronic band The Prodigy. It was released on February 16, 2009, and it is the first commercial single from the album Invaders Must Die.\n\nThe release was announced on January 9, in a newsletter sent to fans. The single is accompanied by a video that features live footage from the band. It was first played on Radio 1 on January, 12. The Single was co-produced by Does It Offend You, Yeah? singer James Rushent and features a remix from the Dutch Drum 'n' Bass group Noisia. <a href=\"http://www.last.fm/music/The+Prodigy/_/Omen\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "big beat",
@@ -27,5 +23,11 @@
       "techno",
       "uk"
     ]
+  },
+  "lastfm": {
+    "id": "The+Prodigy/_/Omen",
+    "listeners": 775881,
+    "playcount": 7314880,
+    "summary": "\"Omen\" is the nineteenth single released by the British electronic band The Prodigy. It was released on February 16, 2009, and it is the first commercial single from the album Invaders Must Die.\n\nThe release was announced on January 9, in a newsletter sent to fans. The single is accompanied by a video that features live footage from the band. It was first played on Radio 1 on January, 12. The Single was co-produced by Does It Offend You, Yeah? singer James Rushent and features a remix from the Dutch Drum 'n' Bass group Noisia. <a href=\"http://www.last.fm/music/The+Prodigy/_/Omen\">Read more on Last.fm</a>."
   }
 }

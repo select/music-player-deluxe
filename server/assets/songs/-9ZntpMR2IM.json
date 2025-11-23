@@ -22,9 +22,6 @@
     "youtube": "-9ZntpMR2IM",
     "youtubeMusic": "-9ZntpMR2IM"
   },
-  "lastfmId": "Busta+Rhymes/_/Get+High+Tonight",
-  "listeners": 30493,
-  "playcount": 79524,
   "artistMbid": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
   "musicbrainz": {
     "tags": [
@@ -33,5 +30,10 @@
       "hip-hop",
       "rap"
     ]
+  },
+  "lastfm": {
+    "id": "Busta+Rhymes/_/Get+High+Tonight",
+    "listeners": 30493,
+    "playcount": 79524
   }
 }

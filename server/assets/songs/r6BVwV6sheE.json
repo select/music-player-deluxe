@@ -11,8 +11,10 @@
     "youtube": "r6BVwV6sheE",
     "youtubeMusic": "r6BVwV6sheE"
   },
-  "lastfmId": "Oneida/_/Paralyzed",
-  "listeners": 1424,
-  "playcount": 3279,
-  "artistMbid": "33c5f321-37b5-4c8e-8eff-a8a6a5ac2e44"
+  "artistMbid": "33c5f321-37b5-4c8e-8eff-a8a6a5ac2e44",
+  "lastfm": {
+    "id": "Oneida/_/Paralyzed",
+    "listeners": 1424,
+    "playcount": 3279
+  }
 }

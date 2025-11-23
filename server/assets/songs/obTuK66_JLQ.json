@@ -20,7 +20,9 @@
     "youtube": "obTuK66_JLQ",
     "youtubeMusic": "obTuK66_JLQ"
   },
-  "lastfmId": "Yussef+Dayes/_/Raisins+Under+the+Sun+(feat.+Shabaka+Hutchings)",
-  "listeners": 45766,
-  "playcount": 149502
+  "lastfm": {
+    "id": "Yussef+Dayes/_/Raisins+Under+the+Sun+(feat.+Shabaka+Hutchings)",
+    "listeners": 45766,
+    "playcount": 149502
+  }
 }

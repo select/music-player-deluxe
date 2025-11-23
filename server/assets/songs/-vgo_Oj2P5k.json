@@ -12,8 +12,10 @@
     "youtube": "-vgo_Oj2P5k",
     "youtubeMusic": "-vgo_Oj2P5k"
   },
-  "lastfmId": "Frivolous/_/Allen+Town+Jail",
-  "listeners": 11493,
-  "playcount": 42601,
-  "artistMbid": "dd8385e4-fdd6-485c-8e75-b69043e68950"
+  "artistMbid": "dd8385e4-fdd6-485c-8e75-b69043e68950",
+  "lastfm": {
+    "id": "Frivolous/_/Allen+Town+Jail",
+    "listeners": 11493,
+    "playcount": 42601
+  }
 }

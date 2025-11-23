@@ -12,11 +12,7 @@
     "youtube": "p0mRIhK9seg",
     "youtubeMusic": "p0mRIhK9seg"
   },
-  "lastfmId": "Bj%C3%B6rk/_/Human+Behaviour",
-  "listeners": 901015,
-  "playcount": 5646572,
   "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
-  "lastfmSummary": "\"Human Behaviour\" is a song by Icelandic artist Björk, released in 1993 as the lead single from her debut album, Debut. The song is about human nature and emotion from the perspective of a non-human animal. \n\nBjörk co-wrote the song with Nellee Hooper, who has also produced it. The song is in the genres of alternative, indie, and pop.\nThe music video for \"Human Behaviour\" was directed by Michel Gondry and opens with a car driving toward the camera, eventually driving over a porcupine. <a href=\"http://www.last.fm/music/Bj%C3%B6rk/_/Human+Behaviour\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "alternative",
@@ -25,5 +21,11 @@
       "trip-hop",
       "icelandic"
     ]
+  },
+  "lastfm": {
+    "id": "Bj%C3%B6rk/_/Human+Behaviour",
+    "listeners": 901015,
+    "playcount": 5646572,
+    "summary": "\"Human Behaviour\" is a song by Icelandic artist Björk, released in 1993 as the lead single from her debut album, Debut. The song is about human nature and emotion from the perspective of a non-human animal. \n\nBjörk co-wrote the song with Nellee Hooper, who has also produced it. The song is in the genres of alternative, indie, and pop.\nThe music video for \"Human Behaviour\" was directed by Michel Gondry and opens with a car driving toward the camera, eventually driving over a porcupine. <a href=\"http://www.last.fm/music/Bj%C3%B6rk/_/Human+Behaviour\">Read more on Last.fm</a>."
   }
 }

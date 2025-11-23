@@ -12,8 +12,10 @@
     "youtube": "L7XFAqhy-jA",
     "youtubeMusic": "L7XFAqhy-jA"
   },
-  "lastfmId": "Sofi+Tukker/_/What+a+Wonderful+World",
-  "listeners": 11899,
-  "playcount": 47167,
-  "artistMbid": "4ac723f4-8be8-4a0d-a3ae-d5dda20f0a9a"
+  "artistMbid": "4ac723f4-8be8-4a0d-a3ae-d5dda20f0a9a",
+  "lastfm": {
+    "id": "Sofi+Tukker/_/What+a+Wonderful+World",
+    "listeners": 11899,
+    "playcount": 47167
+  }
 }

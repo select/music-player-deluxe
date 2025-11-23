@@ -3,7 +3,9 @@
   "title": "Victor's Jam",
   "artist": "Victor Wooten",
   "lastFetched": "2025-11-19T15:04:23.336Z",
-  "lastfmId": "Victor+Wooten/_/Victor%27s+Jam",
-  "listeners": 714,
-  "playcount": 1753
+  "lastfm": {
+    "id": "Victor+Wooten/_/Victor%27s+Jam",
+    "listeners": 714,
+    "playcount": 1753
+  }
 }

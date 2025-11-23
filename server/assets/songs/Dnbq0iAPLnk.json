@@ -12,9 +12,6 @@
     "youtubeMusic": "Dnbq0iAPLnk"
   },
   "mbid": "f2437b03-70eb-3997-a944-19c1057c44fd",
-  "lastfmId": "Helge+Schneider/_/Ich+dr%C3%BCck+die+Maus",
-  "listeners": 9262,
-  "playcount": 27529,
   "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
       "kabarett",
       "spoken word"
     ]
+  },
+  "lastfm": {
+    "id": "Helge+Schneider/_/Ich+dr%C3%BCck+die+Maus",
+    "listeners": 9262,
+    "playcount": 27529
   }
 }

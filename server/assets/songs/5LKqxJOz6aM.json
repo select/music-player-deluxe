@@ -17,7 +17,9 @@
     "youtube": "5LKqxJOz6aM",
     "youtubeMusic": "5LKqxJOz6aM"
   },
-  "lastfmId": "Max+Cooper/_/Emptyset+(Etapp+Kyle+remix)",
-  "listeners": 112,
-  "playcount": 387
+  "lastfm": {
+    "id": "Max+Cooper/_/Emptyset+(Etapp+Kyle+remix)",
+    "listeners": 112,
+    "playcount": 387
+  }
 }

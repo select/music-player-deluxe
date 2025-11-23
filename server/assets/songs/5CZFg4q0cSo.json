@@ -12,8 +12,10 @@
     "youtubeMusic": "5CZFg4q0cSo"
   },
   "name": "Heatwave",
-  "lastfmId": "Jazzanova/_/Heatwave",
-  "listeners": 1459,
-  "playcount": 3834,
-  "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d"
+  "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d",
+  "lastfm": {
+    "id": "Jazzanova/_/Heatwave",
+    "listeners": 1459,
+    "playcount": 3834
+  }
 }

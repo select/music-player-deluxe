@@ -14,8 +14,10 @@
     "youtube": "LJvwEuMHero",
     "youtubeMusic": "LJvwEuMHero"
   },
-  "lastfmId": "DJ+Khaled/_/Holy+Mountain+(feat.+Buju+Banton,+Sizzla,+Mavado+&+070+Shake)",
-  "listeners": 19388,
-  "playcount": 62729,
-  "artistMbid": "081a2d60-9791-4e05-a075-f1890355eeee"
+  "artistMbid": "081a2d60-9791-4e05-a075-f1890355eeee",
+  "lastfm": {
+    "id": "DJ+Khaled/_/Holy+Mountain+(feat.+Buju+Banton,+Sizzla,+Mavado+&+070+Shake)",
+    "listeners": 19388,
+    "playcount": 62729
+  }
 }

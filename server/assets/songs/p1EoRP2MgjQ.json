@@ -22,8 +22,10 @@
     "youtube": "p1EoRP2MgjQ",
     "youtubeMusic": "p1EoRP2MgjQ"
   },
-  "lastfmId": "Laundromat/_/Humans",
-  "listeners": 2218,
-  "playcount": 5768,
-  "artistMbid": "4e7819f0-0139-4db3-8b27-4ef8d75b1231"
+  "artistMbid": "4e7819f0-0139-4db3-8b27-4ef8d75b1231",
+  "lastfm": {
+    "id": "Laundromat/_/Humans",
+    "listeners": 2218,
+    "playcount": 5768
+  }
 }

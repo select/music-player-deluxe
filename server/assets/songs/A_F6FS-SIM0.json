@@ -12,9 +12,6 @@
     "youtubeMusic": "A_F6FS-SIM0"
   },
   "mbid": "0768caa4-05bb-38e5-849f-9eb47f9d0ff5",
-  "lastfmId": "Cocteau+Twins/_/Watchlar",
-  "listeners": 82145,
-  "playcount": 371023,
   "artistMbid": "000fc734-b7e1-4a01-92d1-f544261b43f5",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "ethereal wave",
       "gothic rock"
     ]
+  },
+  "lastfm": {
+    "id": "Cocteau+Twins/_/Watchlar",
+    "listeners": 82145,
+    "playcount": 371023
   }
 }

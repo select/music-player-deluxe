@@ -19,9 +19,6 @@
     "youtubeMusic": "Kie6zYs6K7U"
   },
   "mbid": "5c11a3f0-196c-49ad-b269-ef44d66cdaf9",
-  "lastfmId": "The+Great+Machine/_/The+Capricorn%27s+Silent+Walk+Through+Pagan+Fire+And+The+Sea+Of+Blood",
-  "listeners": 623,
-  "playcount": 1554,
   "artistMbid": "e7876844-3c7a-47c5-a6ac-ab94bc21a1a3",
   "musicbrainz": {
     "artistTags": [
@@ -39,5 +36,10 @@
       "rock",
       "stoner rock"
     ]
+  },
+  "lastfm": {
+    "id": "The+Great+Machine/_/The+Capricorn%27s+Silent+Walk+Through+Pagan+Fire+And+The+Sea+Of+Blood",
+    "listeners": 623,
+    "playcount": 1554
   }
 }

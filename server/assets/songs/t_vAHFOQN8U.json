@@ -19,8 +19,10 @@
     "youtube": "t_vAHFOQN8U",
     "youtubeMusic": "t_vAHFOQN8U"
   },
-  "lastfmId": "Hybrid+Minds/_/Lost+(Pola+&+Bryson+Remix)",
-  "listeners": 564,
-  "playcount": 1755,
-  "artistMbid": "ceb88a0c-81ca-461a-82d2-ad7769447e15"
+  "artistMbid": "ceb88a0c-81ca-461a-82d2-ad7769447e15",
+  "lastfm": {
+    "id": "Hybrid+Minds/_/Lost+(Pola+&+Bryson+Remix)",
+    "listeners": 564,
+    "playcount": 1755
+  }
 }

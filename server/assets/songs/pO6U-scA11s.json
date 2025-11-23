@@ -9,7 +9,9 @@
     "youtube": "pO6U-scA11s",
     "youtubeMusic": "pO6U-scA11s"
   },
-  "lastfmId": "Hideki+Matsutake/_/On+Her+Majesty%27s+Secret+Service",
-  "listeners": 8,
-  "playcount": 31
+  "lastfm": {
+    "id": "Hideki+Matsutake/_/On+Her+Majesty%27s+Secret+Service",
+    "listeners": 8,
+    "playcount": 31
+  }
 }

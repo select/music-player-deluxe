@@ -15,8 +15,10 @@
     "youtube": "SXw4WdklnqQ",
     "youtubeMusic": "SXw4WdklnqQ"
   },
-  "lastfmId": "Arp/_/Eniko",
-  "listeners": 2196,
-  "playcount": 4827,
-  "artistMbid": "79653a02-62a5-4be4-8a3c-7231b8cb614e"
+  "artistMbid": "79653a02-62a5-4be4-8a3c-7231b8cb614e",
+  "lastfm": {
+    "id": "Arp/_/Eniko",
+    "listeners": 2196,
+    "playcount": 4827
+  }
 }

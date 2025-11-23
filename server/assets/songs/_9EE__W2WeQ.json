@@ -13,7 +13,9 @@
     "youtube": "_9EE__W2WeQ",
     "youtubeMusic": "_9EE__W2WeQ"
   },
-  "lastfmId": "Team+DAMP/_/Issa+Party",
-  "listeners": 84,
-  "playcount": 216
+  "lastfm": {
+    "id": "Team+DAMP/_/Issa+Party",
+    "listeners": 84,
+    "playcount": 216
+  }
 }

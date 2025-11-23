@@ -13,13 +13,13 @@
     "youtube": "rRrOt7hmd0o",
     "youtubeMusic": "rRrOt7hmd0o"
   },
-  "lastfmId": "Grossstadtgefl%C3%BCster/_/Huckepack",
-  "listeners": 2723,
-  "playcount": 18177,
   "lastfm": {
     "title": "Huckepack",
     "artist": "Grossstadtgeflüster",
     "mbid": "66b756d1-6a77-4456-b8c9-9ef39418f2a5",
-    "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f"
+    "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f",
+    "id": "Grossstadtgefl%C3%BCster/_/Huckepack",
+    "listeners": 2723,
+    "playcount": 18177
   }
 }

@@ -4,9 +4,6 @@
   "artist": "Technotronic",
   "lastFetched": "2025-11-23T16:38:55.741Z",
   "mbid": "deb081e6-be71-403f-8c3d-2c3b2c81943d",
-  "lastfmId": "Technotronic/_/Get+Up+(Before+The+Night+Is+Over)",
-  "listeners": 51441,
-  "playcount": 166933,
   "artistMbid": "62173ce5-37ef-41b1-86cd-45401a8955fc",
   "musicbrainz": {
     "artistTags": [
@@ -25,5 +22,10 @@
       "hip house",
       "new beat"
     ]
+  },
+  "lastfm": {
+    "id": "Technotronic/_/Get+Up+(Before+The+Night+Is+Over)",
+    "listeners": 51441,
+    "playcount": 166933
   }
 }

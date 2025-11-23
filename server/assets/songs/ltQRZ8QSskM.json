@@ -16,7 +16,9 @@
     "youtube": "ltQRZ8QSskM",
     "youtubeMusic": "ltQRZ8QSskM"
   },
-  "lastfmId": "EL+SPEAKER/_/Herbalist",
-  "listeners": 2710,
-  "playcount": 15409
+  "lastfm": {
+    "id": "EL+SPEAKER/_/Herbalist",
+    "listeners": 2710,
+    "playcount": 15409
+  }
 }

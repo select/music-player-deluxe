@@ -13,9 +13,6 @@
     "youtubeMusic": "3MJf94_BJmM"
   },
   "mbid": "753d0b92-561e-48b2-9041-b9741e416575",
-  "lastfmId": "Sido/_/Arbeit",
-  "listeners": 11958,
-  "playcount": 53785,
   "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
       "hip hop",
       "pop rap"
     ]
+  },
+  "lastfm": {
+    "id": "Sido/_/Arbeit",
+    "listeners": 11958,
+    "playcount": 53785
   }
 }

@@ -16,8 +16,10 @@
     "youtubeMusic": "5Zkxljy9kuo"
   },
   "mbid": "1419cb05-88eb-461b-a3dc-393dea4283b4",
-  "lastfmId": "Capey+Cash/_/There+was+a+Bar",
-  "listeners": 538,
-  "playcount": 2030,
-  "artistMbid": "50c789bc-5675-4f2e-acbc-271cd5c55114"
+  "artistMbid": "50c789bc-5675-4f2e-acbc-271cd5c55114",
+  "lastfm": {
+    "id": "Capey+Cash/_/There+was+a+Bar",
+    "listeners": 538,
+    "playcount": 2030
+  }
 }

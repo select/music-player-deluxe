@@ -12,7 +12,9 @@
     "youtube": "GoEY2DTT5Wg",
     "youtubeMusic": "GoEY2DTT5Wg"
   },
-  "lastfmId": "JJ+Whitefield/_/MUNICH+BELLS",
-  "listeners": 107,
-  "playcount": 196
+  "lastfm": {
+    "id": "JJ+Whitefield/_/MUNICH+BELLS",
+    "listeners": 107,
+    "playcount": 196
+  }
 }

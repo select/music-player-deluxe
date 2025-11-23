@@ -13,9 +13,6 @@
     "youtubeMusic": "Kyar2C_wEq8"
   },
   "mbid": "0e1ead74-2a75-3645-9d53-fc0252dd516d",
-  "lastfmId": "Beastie+Boys/_/Egg+Man",
-  "listeners": 229032,
-  "playcount": 948761,
   "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "experimental hip hop",
       "funk"
     ]
+  },
+  "lastfm": {
+    "id": "Beastie+Boys/_/Egg+Man",
+    "listeners": 229032,
+    "playcount": 948761
   }
 }

@@ -4,11 +4,7 @@
   "artist": "Fastball",
   "lastFetched": "2025-11-23T16:41:23.596Z",
   "mbid": "d8ea522b-cefe-479d-af84-dbcc2f2156ee",
-  "lastfmId": "Fastball/_/The+Way",
-  "listeners": 391008,
-  "playcount": 2169264,
   "artistMbid": "dc083bd6-41a3-436e-9e0a-28b4dc773820",
-  "lastfmSummary": "\"The Way\" is a song by American alternative rock band Fastball. It was released on January 7, 1998, as the lead single from their second studio album, All the Pain Money Can Buy (1998). The song was written by the band's lead vocalist, Tony Scalzo, and was produced by the band and Julian Raymond.\n\n\"The Way\" peaked at number one on the US Billboard Modern Rock Tracks chart in April 1998 and remained there for seven weeks.  The song was voted by VH1 as one of its \"100 Greatest Songs of the '90s\", ranking it at number 94 <a href=\"http://www.last.fm/music/Fastball/_/The+Way\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -24,5 +20,11 @@
       "power pop",
       "roots rock"
     ]
+  },
+  "lastfm": {
+    "id": "Fastball/_/The+Way",
+    "listeners": 391008,
+    "playcount": 2169264,
+    "summary": "\"The Way\" is a song by American alternative rock band Fastball. It was released on January 7, 1998, as the lead single from their second studio album, All the Pain Money Can Buy (1998). The song was written by the band's lead vocalist, Tony Scalzo, and was produced by the band and Julian Raymond.\n\n\"The Way\" peaked at number one on the US Billboard Modern Rock Tracks chart in April 1998 and remained there for seven weeks.  The song was voted by VH1 as one of its \"100 Greatest Songs of the '90s\", ranking it at number 94 <a href=\"http://www.last.fm/music/Fastball/_/The+Way\">Read more on Last.fm</a>."
   }
 }

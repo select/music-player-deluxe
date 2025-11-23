@@ -14,13 +14,15 @@
     "youtube": "pTscTtB0rCA",
     "youtubeMusic": "pTscTtB0rCA"
   },
-  "lastfmId": "The+In+Crowd/_/Back+a+Yard+(Edit)",
-  "listeners": 122,
-  "playcount": 355,
   "artistMbid": "e1461504-72d8-4051-953c-ed4cb144c9e1",
   "musicbrainz": {
     "tags": [
       "roots reggae"
     ]
+  },
+  "lastfm": {
+    "id": "The+In+Crowd/_/Back+a+Yard+(Edit)",
+    "listeners": 122,
+    "playcount": 355
   }
 }

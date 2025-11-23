@@ -17,8 +17,10 @@
     "youtube": "DdWM2TbPxUM",
     "youtubeMusic": "DdWM2TbPxUM"
   },
-  "lastfmId": "Queen+Omega/_/No+Love+Dubplate",
-  "listeners": 6923,
-  "playcount": 37840,
-  "artistMbid": "8636578b-9eeb-4bc5-844f-6816890d230c"
+  "artistMbid": "8636578b-9eeb-4bc5-844f-6816890d230c",
+  "lastfm": {
+    "id": "Queen+Omega/_/No+Love+Dubplate",
+    "listeners": 6923,
+    "playcount": 37840
+  }
 }

@@ -16,9 +16,6 @@
     "youtubeMusic": "kiVJsl6gUFw"
   },
   "name": "Mr. Zebra",
-  "lastfmId": "Tori+Amos/_/Mr.+Zebra",
-  "listeners": 96738,
-  "playcount": 537189,
   "musicbrainz": {
     "tags": [
       "adult alternative pop/rock",
@@ -35,5 +32,10 @@
       "singer-songwriter",
       "soft rock"
     ]
+  },
+  "lastfm": {
+    "id": "Tori+Amos/_/Mr.+Zebra",
+    "listeners": 96738,
+    "playcount": 537189
   }
 }

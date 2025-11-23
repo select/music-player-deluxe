@@ -21,7 +21,9 @@
     "youtube": "Fnx-UmTBiGQ",
     "youtubeMusic": "Fnx-UmTBiGQ"
   },
-  "lastfmId": "Sue+Ellen/_/Maneater",
-  "listeners": 1051,
-  "playcount": 3220
+  "lastfm": {
+    "id": "Sue+Ellen/_/Maneater",
+    "listeners": 1051,
+    "playcount": 3220
+  }
 }

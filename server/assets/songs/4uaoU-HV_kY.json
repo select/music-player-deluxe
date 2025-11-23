@@ -12,8 +12,10 @@
     "youtube": "4uaoU-HV_kY",
     "youtubeMusic": "4uaoU-HV_kY"
   },
-  "lastfmId": "Dreadzone/_/Wake+Up+Call",
-  "listeners": 100,
-  "playcount": 342,
-  "artistMbid": "a10ca116-02af-4989-9a91-fb25585216f7"
+  "artistMbid": "a10ca116-02af-4989-9a91-fb25585216f7",
+  "lastfm": {
+    "id": "Dreadzone/_/Wake+Up+Call",
+    "listeners": 100,
+    "playcount": 342
+  }
 }

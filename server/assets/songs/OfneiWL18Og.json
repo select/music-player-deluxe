@@ -18,9 +18,6 @@
     "youtubeMusic": "OfneiWL18Og"
   },
   "mbid": "09065870-e096-3114-950c-ca09fee1e3b1",
-  "lastfmId": "Roman+Fl%C3%BCgel/_/Dishes+&+Wishes",
-  "listeners": 3566,
-  "playcount": 8784,
   "artistMbid": "5286b91c-5d42-4cab-933a-77e30eb74ddc",
   "musicbrainz": {
     "artistTags": [
@@ -29,5 +26,10 @@
     "artistGenres": [
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "Roman+Fl%C3%BCgel/_/Dishes+&+Wishes",
+    "listeners": 3566,
+    "playcount": 8784
   }
 }

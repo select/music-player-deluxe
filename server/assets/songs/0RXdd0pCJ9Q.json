@@ -7,13 +7,15 @@
   "duration": 431,
   "youtubeId": "0RXdd0pCJ9Q",
   "lastFetched": "2025-11-19T05:00:37.715Z",
-  "lastfmId": "Dwig/_/Orange+Evening",
-  "listeners": 41817,
-  "playcount": 230551,
   "musicbrainz": {
     "tags": [
       "deep house",
       "downtempo"
     ]
+  },
+  "lastfm": {
+    "id": "Dwig/_/Orange+Evening",
+    "listeners": 41817,
+    "playcount": 230551
   }
 }

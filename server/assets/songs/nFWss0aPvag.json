@@ -3,11 +3,11 @@
   "title": "Everywhere But Home",
   "artist": "Foo Fighters",
   "lastFetched": "2025-11-23T14:24:24.162Z",
-  "lastfmId": "Foo+Fighters/_/Everywhere+But+Home",
-  "listeners": 11,
-  "playcount": 23,
   "lastfm": {
     "title": "Everywhere But Home",
-    "artist": "Foo Fighters"
+    "artist": "Foo Fighters",
+    "id": "Foo+Fighters/_/Everywhere+But+Home",
+    "listeners": 11,
+    "playcount": 23
   }
 }

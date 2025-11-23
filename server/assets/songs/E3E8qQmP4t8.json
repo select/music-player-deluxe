@@ -24,13 +24,15 @@
     "youtube": "E3E8qQmP4t8",
     "youtubeMusic": "E3E8qQmP4t8"
   },
-  "lastfmId": "Omah+Lay/_/Holy+Ghost",
-  "listeners": 81767,
-  "playcount": 563826,
   "musicbrainz": {
     "artistTags": [
       "afro-fusion",
       "afrobeats"
     ]
+  },
+  "lastfm": {
+    "id": "Omah+Lay/_/Holy+Ghost",
+    "listeners": 81767,
+    "playcount": 563826
   }
 }

@@ -18,9 +18,6 @@
     "youtube": "ddIyPEhvk4Q",
     "youtubeMusic": "ddIyPEhvk4Q"
   },
-  "lastfmId": "Brian+Blade+&+The+Fellowship+Band/_/Body+And+Shadow+(Night)",
-  "listeners": 252,
-  "playcount": 772,
   "artistMbid": "4d54e19b-f78d-4d2b-bdcd-a8d0348d6e6f",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "jazz",
       "jazz fusion"
     ]
+  },
+  "lastfm": {
+    "id": "Brian+Blade+&+The+Fellowship+Band/_/Body+And+Shadow+(Night)",
+    "listeners": 252,
+    "playcount": 772
   }
 }

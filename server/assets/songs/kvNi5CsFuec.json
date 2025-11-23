@@ -20,7 +20,9 @@
     "youtube": "kvNi5CsFuec",
     "youtubeMusic": "kvNi5CsFuec"
   },
-  "lastfmId": "Mike+Franklyn/_/No+More+Conversations",
-  "listeners": 77,
-  "playcount": 619
+  "lastfm": {
+    "id": "Mike+Franklyn/_/No+More+Conversations",
+    "listeners": 77,
+    "playcount": 619
+  }
 }

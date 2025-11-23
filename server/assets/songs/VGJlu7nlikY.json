@@ -21,8 +21,10 @@
     "youtube": "VGJlu7nlikY",
     "youtubeMusic": "VGJlu7nlikY"
   },
-  "lastfmId": "Chase+&+Status/_/Liquor+&+Cigarettes",
-  "listeners": 1376,
-  "playcount": 5164,
-  "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+  "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+  "lastfm": {
+    "id": "Chase+&+Status/_/Liquor+&+Cigarettes",
+    "listeners": 1376,
+    "playcount": 5164
+  }
 }

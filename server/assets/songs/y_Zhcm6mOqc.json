@@ -3,8 +3,10 @@
   "title": "How About You",
   "artist": "Lars Gullin",
   "lastFetched": "2025-11-19T08:46:43.390Z",
-  "lastfmId": "Lars+Gullin/_/How+About+You",
-  "listeners": 31,
-  "playcount": 61,
-  "artistMbid": "f1a5b44b-bdff-4f8f-b136-2786b3de648e"
+  "artistMbid": "f1a5b44b-bdff-4f8f-b136-2786b3de648e",
+  "lastfm": {
+    "id": "Lars+Gullin/_/How+About+You",
+    "listeners": 31,
+    "playcount": 61
+  }
 }

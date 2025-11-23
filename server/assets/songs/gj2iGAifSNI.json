@@ -21,13 +21,15 @@
     "youtube": "gj2iGAifSNI",
     "youtubeMusic": "gj2iGAifSNI"
   },
-  "lastfmId": "Johnny+Paycheck/_/Take+This+Job+and+Shove+It",
-  "listeners": 121687,
-  "playcount": 443002,
   "artistMbid": "fae7b17e-03e9-44ea-9734-f4ed92246f9f",
   "musicbrainz": {
     "artistTags": [
       "country"
     ]
+  },
+  "lastfm": {
+    "id": "Johnny+Paycheck/_/Take+This+Job+and+Shove+It",
+    "listeners": 121687,
+    "playcount": 443002
   }
 }

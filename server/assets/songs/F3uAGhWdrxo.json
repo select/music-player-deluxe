@@ -13,9 +13,6 @@
     "youtubeMusic": "F3uAGhWdrxo"
   },
   "mbid": "21502147-9b5a-4a09-bad9-27e4f3eeb255",
-  "lastfmId": "Rodgau+Monotones/_/Die+Hesse+komme%21",
-  "listeners": 3546,
-  "playcount": 14109,
   "artistMbid": "da014b60-38aa-422c-9f65-e3f0bd0e39c2",
   "musicbrainz": {
     "artistTags": [
@@ -28,5 +25,10 @@
       "pop rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Rodgau+Monotones/_/Die+Hesse+komme%21",
+    "listeners": 3546,
+    "playcount": 14109
   }
 }

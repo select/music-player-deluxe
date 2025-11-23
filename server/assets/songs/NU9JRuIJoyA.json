@@ -20,13 +20,13 @@
     "youtube": "NU9JRuIJoyA",
     "youtubeMusic": "NU9JRuIJoyA"
   },
-  "lastfmId": "Art+of+Noise/_/Catwalk",
-  "listeners": 3392,
-  "playcount": 9552,
   "lastfm": {
     "title": "Catwalk",
     "artist": "Art of Noise",
     "mbid": "01adb008-52b5-4b08-8cef-637d959296b6",
-    "artistMbid": "be899560-1570-402e-9f95-3182898a8b70"
+    "artistMbid": "be899560-1570-402e-9f95-3182898a8b70",
+    "id": "Art+of+Noise/_/Catwalk",
+    "listeners": 3392,
+    "playcount": 9552
   }
 }

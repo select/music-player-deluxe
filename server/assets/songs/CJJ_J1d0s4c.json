@@ -13,8 +13,10 @@
     "youtube": "CJJ_J1d0s4c",
     "youtubeMusic": "CJJ_J1d0s4c"
   },
-  "lastfmId": "Jonathan+Kaspar/_/Ten",
-  "listeners": 144,
-  "playcount": 329,
-  "artistMbid": "b73c698b-88ed-4698-a1ee-23989a1e96a0"
+  "artistMbid": "b73c698b-88ed-4698-a1ee-23989a1e96a0",
+  "lastfm": {
+    "id": "Jonathan+Kaspar/_/Ten",
+    "listeners": 144,
+    "playcount": 329
+  }
 }

@@ -13,8 +13,10 @@
     "youtube": "eD27KaaL2us",
     "youtubeMusic": "eD27KaaL2us"
   },
-  "lastfmId": "Ray+Bryant/_/Cubano+Chant",
-  "listeners": 4926,
-  "playcount": 12068,
-  "artistMbid": "7feee525-a8ff-4a59-85f6-2b5190ea3e38"
+  "artistMbid": "7feee525-a8ff-4a59-85f6-2b5190ea3e38",
+  "lastfm": {
+    "id": "Ray+Bryant/_/Cubano+Chant",
+    "listeners": 4926,
+    "playcount": 12068
+  }
 }

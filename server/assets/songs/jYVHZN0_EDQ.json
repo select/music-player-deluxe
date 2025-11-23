@@ -13,9 +13,6 @@
     "youtubeMusic": "jYVHZN0_EDQ"
   },
   "mbid": "005d7bec-4caa-4f7b-ad45-a03a68060a9d",
-  "lastfmId": "Stephen+Bishop/_/Little+Italy",
-  "listeners": 13510,
-  "playcount": 36791,
   "artistMbid": "6cf4f18c-2455-47ed-9f6c-953e2f107406",
   "musicbrainz": {
     "artistTags": [
@@ -28,5 +25,10 @@
     "artistGenres": [
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Stephen+Bishop/_/Little+Italy",
+    "listeners": 13510,
+    "playcount": 36791
   }
 }

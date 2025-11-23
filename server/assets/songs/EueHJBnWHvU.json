@@ -15,8 +15,10 @@
     "youtube": "EueHJBnWHvU",
     "youtubeMusic": "EueHJBnWHvU"
   },
-  "lastfmId": "Todd+Hannigan/_/Unbroken+Ground+Opening+Theme",
-  "listeners": 9,
-  "playcount": 24,
-  "artistMbid": "3f2cb89e-1298-4f77-b8a0-1189b56addc6"
+  "artistMbid": "3f2cb89e-1298-4f77-b8a0-1189b56addc6",
+  "lastfm": {
+    "id": "Todd+Hannigan/_/Unbroken+Ground+Opening+Theme",
+    "listeners": 9,
+    "playcount": 24
+  }
 }

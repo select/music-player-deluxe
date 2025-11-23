@@ -15,9 +15,11 @@
     "youtube": "rkjNL4dX-U4",
     "youtubeMusic": "rkjNL4dX-U4"
   },
-  "lastfmId": "Chase+&+Status/_/Baddadan+(feat.+IRAH,+Flowdan,+Trigga+&+Takura)",
-  "listeners": 190528,
-  "playcount": 1875857,
   "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
-  "lastfmSummary": "featuring IRAH, Flowdan, Trigga & Takura <a href=\"http://www.last.fm/music/Chase+&+Status/_/Baddadan+(feat.+IRAH,+Flowdan,+Trigga+&+Takura)\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "Chase+&+Status/_/Baddadan+(feat.+IRAH,+Flowdan,+Trigga+&+Takura)",
+    "listeners": 190528,
+    "playcount": 1875857,
+    "summary": "featuring IRAH, Flowdan, Trigga & Takura <a href=\"http://www.last.fm/music/Chase+&+Status/_/Baddadan+(feat.+IRAH,+Flowdan,+Trigga+&+Takura)\">Read more on Last.fm</a>."
+  }
 }

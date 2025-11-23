@@ -3,7 +3,9 @@
   "title": "Sandman",
   "artist": "Oak",
   "lastFetched": "2025-11-19T15:31:52.696Z",
-  "lastfmId": "Oak/_/Sandman",
-  "listeners": 106,
-  "playcount": 463
+  "lastfm": {
+    "id": "Oak/_/Sandman",
+    "listeners": 106,
+    "playcount": 463
+  }
 }

@@ -16,7 +16,9 @@
     "youtube": "vCadcBR95oU",
     "youtubeMusic": "vCadcBR95oU"
   },
-  "lastfmId": "Salt-N-Pepa/_/Push+It",
-  "listeners": 477542,
-  "playcount": 1782437
+  "lastfm": {
+    "id": "Salt-N-Pepa/_/Push+It",
+    "listeners": 477542,
+    "playcount": 1782437
+  }
 }

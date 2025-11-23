@@ -13,13 +13,13 @@
     "youtube": "HpXSx-meS0U",
     "youtubeMusic": "HpXSx-meS0U"
   },
-  "lastfmId": "Cymande/_/Rastafarian+Folk+Song",
-  "listeners": 21773,
-  "playcount": 55286,
   "lastfm": {
     "title": "Rastafarian Folk Song",
     "artist": "Cymande",
     "mbid": "2250241a-8e6c-31f0-abf2-ae17c84d3789",
-    "artistMbid": "21c5fb53-6fbc-4080-989a-b26d4540f4fd"
+    "artistMbid": "21c5fb53-6fbc-4080-989a-b26d4540f4fd",
+    "id": "Cymande/_/Rastafarian+Folk+Song",
+    "listeners": 21773,
+    "playcount": 55286
   }
 }

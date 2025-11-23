@@ -20,11 +20,7 @@
     "youtubeMusic": "iX-QaNzd-0Y"
   },
   "mbid": "bbbcc53f-388e-4984-b266-390faea0fe48",
-  "lastfmId": "Milky+Chance/_/Stolen+Dance",
-  "listeners": 1279532,
-  "playcount": 12965991,
   "artistMbid": "6d230d98-fb8d-4421-a6e8-daca4e55d53e",
-  "lastfmSummary": "\"Stolen Dance\" is a song by German duo Milky Chance, released in 2013 in Germany. The single has reached number one in Austria, France, Belgium (Wallonia), Switzerland, Poland, Czech Republic and Hungary. A 4-track Stolen Dance EP (including the single \"Down by the River\") was released by Lichtdicht Records and Republic Records on 9 May 2014. The song also placed at number 4 in Triple J's Hottest 100, 2014. <a href=\"http://www.last.fm/music/Milky+Chance/_/Stolen+Dance\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "indie",
@@ -33,5 +29,11 @@
       "pop",
       "WSUM 91.7 FM Madison"
     ]
+  },
+  "lastfm": {
+    "id": "Milky+Chance/_/Stolen+Dance",
+    "listeners": 1279532,
+    "playcount": 12965991,
+    "summary": "\"Stolen Dance\" is a song by German duo Milky Chance, released in 2013 in Germany. The single has reached number one in Austria, France, Belgium (Wallonia), Switzerland, Poland, Czech Republic and Hungary. A 4-track Stolen Dance EP (including the single \"Down by the River\") was released by Lichtdicht Records and Republic Records on 9 May 2014. The song also placed at number 4 in Triple J's Hottest 100, 2014. <a href=\"http://www.last.fm/music/Milky+Chance/_/Stolen+Dance\">Read more on Last.fm</a>."
   }
 }

@@ -7,9 +7,6 @@
   "lastFetched": "2025-11-19T03:28:34.513Z",
   "releaseCount": 1,
   "artistMbid": "a8754ac4-a85e-4f48-a81f-eecd482570ef",
-  "lastfmId": "Three+6+Mafia/_/Sippin%E2%80%99+on+Some+Syrup",
-  "listeners": 43,
-  "playcount": 214,
   "musicbrainz": {
     "artistTags": [
       "crunk",
@@ -18,5 +15,10 @@
       "memphis rap",
       "southern hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "Three+6+Mafia/_/Sippin%E2%80%99+on+Some+Syrup",
+    "listeners": 43,
+    "playcount": 214
   }
 }

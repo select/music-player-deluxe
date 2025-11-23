@@ -21,9 +21,6 @@
     "youtubeMusic": "1WefRFZlbkc"
   },
   "mbid": "015d0585-5888-421a-ad6a-e6b3df68b2e5",
-  "lastfmId": "Pepper+Coyote/_/Duck+and+Cover",
-  "listeners": 3106,
-  "playcount": 16671,
   "artistMbid": "24092fc2-3e6a-4d7a-8f43-8673f95517f4",
   "musicbrainz": {
     "artistTags": [
@@ -41,5 +38,10 @@
       "punk rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Pepper+Coyote/_/Duck+and+Cover",
+    "listeners": 3106,
+    "playcount": 16671
   }
 }

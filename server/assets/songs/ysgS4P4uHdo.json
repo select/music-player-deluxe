@@ -15,8 +15,10 @@
     "youtubeMusic": "ysgS4P4uHdo"
   },
   "mbid": "5e95ed4e-a4a0-499d-96a5-6815b53819ba",
-  "lastfmId": "Grossstadtgefl%C3%BCster/_/Feierabend",
-  "listeners": 15110,
-  "playcount": 115344,
-  "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f"
+  "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f",
+  "lastfm": {
+    "id": "Grossstadtgefl%C3%BCster/_/Feierabend",
+    "listeners": 15110,
+    "playcount": 115344
+  }
 }

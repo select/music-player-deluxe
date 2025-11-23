@@ -16,9 +16,6 @@
     "youtube": "NAq0f6z5cY8",
     "youtubeMusic": "NAq0f6z5cY8"
   },
-  "lastfmId": "Susumu+Yokota/_/Purple+Rose+Minuet",
-  "listeners": 55989,
-  "playcount": 205682,
   "artistMbid": "7b05d6fe-91e8-4cb9-a401-2a13b1578716",
   "musicbrainz": {
     "tags": [
@@ -31,5 +28,10 @@
       "idm",
       "modern classical"
     ]
+  },
+  "lastfm": {
+    "id": "Susumu+Yokota/_/Purple+Rose+Minuet",
+    "listeners": 55989,
+    "playcount": 205682
   }
 }

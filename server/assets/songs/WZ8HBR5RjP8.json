@@ -20,9 +20,6 @@
     "youtube": "WZ8HBR5RjP8",
     "youtubeMusic": "WZ8HBR5RjP8"
   },
-  "lastfmId": "Commodo/_/Loan+Shark",
-  "listeners": 14467,
-  "playcount": 54984,
   "musicbrainz": {
     "artistTags": [
       "dubstep"
@@ -30,5 +27,10 @@
     "artistGenres": [
       "dubstep"
     ]
+  },
+  "lastfm": {
+    "id": "Commodo/_/Loan+Shark",
+    "listeners": 14467,
+    "playcount": 54984
   }
 }

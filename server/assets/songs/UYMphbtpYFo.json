@@ -6,8 +6,10 @@
   "youtubeId": "UYMphbtpYFo",
   "lastFetched": "2025-11-23T15:40:08.398Z",
   "releaseCount": 1,
-  "lastfmId": "Martinou/_/Shimmer",
-  "listeners": 20,
-  "playcount": 72,
-  "artistMbid": "81c386f6-ecde-480e-8f8d-7af94af61f13"
+  "artistMbid": "81c386f6-ecde-480e-8f8d-7af94af61f13",
+  "lastfm": {
+    "id": "Martinou/_/Shimmer",
+    "listeners": 20,
+    "playcount": 72
+  }
 }

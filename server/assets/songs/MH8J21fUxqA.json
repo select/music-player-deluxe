@@ -4,9 +4,6 @@
   "artist": "Busta Rhymes",
   "lastFetched": "2025-11-23T16:36:21.095Z",
   "mbid": "8107b07c-d861-3a38-99c7-646a323fa4f6",
-  "lastfmId": "Busta+Rhymes/_/As+I+Come+Back",
-  "listeners": 51217,
-  "playcount": 172461,
   "artistMbid": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
   "musicbrainz": {
     "artistTags": [
@@ -21,5 +18,10 @@
       "hardcore hip hop",
       "hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "Busta+Rhymes/_/As+I+Come+Back",
+    "listeners": 51217,
+    "playcount": 172461
   }
 }

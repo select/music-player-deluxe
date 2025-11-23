@@ -22,9 +22,6 @@
     "youtubeMusic": "wH9QAVArx6c"
   },
   "mbid": "6479fc4d-a0a8-3838-ba5b-5ff3f57eda5f",
-  "lastfmId": "Aaron+Parks/_/Riddle+Me+This",
-  "listeners": 13715,
-  "playcount": 47175,
   "artistMbid": "4dd62d49-9868-465b-882f-733afb40eb0d",
   "musicbrainz": {
     "artistTags": [
@@ -39,5 +36,10 @@
       "jazz fusion",
       "post-bop"
     ]
+  },
+  "lastfm": {
+    "id": "Aaron+Parks/_/Riddle+Me+This",
+    "listeners": 13715,
+    "playcount": 47175
   }
 }

@@ -12,9 +12,6 @@
     "youtube": "o0AtBnYujw4",
     "youtubeMusic": "o0AtBnYujw4"
   },
-  "lastfmId": "Jeremy+Jay/_/Beautiful+Rebel",
-  "listeners": 7297,
-  "playcount": 32765,
   "artistMbid": "34f8701a-24ef-48d6-a130-61149d04530d",
   "musicbrainz": {
     "tags": [
@@ -23,5 +20,10 @@
       "indie rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Jeremy+Jay/_/Beautiful+Rebel",
+    "listeners": 7297,
+    "playcount": 32765
   }
 }

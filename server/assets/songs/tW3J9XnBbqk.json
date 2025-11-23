@@ -21,9 +21,6 @@
     "youtube": "tW3J9XnBbqk",
     "youtubeMusic": "tW3J9XnBbqk"
   },
-  "lastfmId": "Gorillaz/_/Andromeda+(feat.+DRAM)+%5BPurple+Disco+Machine+Remix%5D",
-  "listeners": 292,
-  "playcount": 1468,
   "musicbrainz": {
     "artistTags": [
       "alternative dance",
@@ -44,5 +41,10 @@
       "electronic",
       "electronica"
     ]
+  },
+  "lastfm": {
+    "id": "Gorillaz/_/Andromeda+(feat.+DRAM)+%5BPurple+Disco+Machine+Remix%5D",
+    "listeners": 292,
+    "playcount": 1468
   }
 }

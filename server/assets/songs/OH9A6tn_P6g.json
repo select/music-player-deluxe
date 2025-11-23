@@ -22,11 +22,7 @@
     "youtubeMusic": "OH9A6tn_P6g"
   },
   "mbid": "01f900ac-84e1-357a-937e-71755d8a7a2d",
-  "lastfmId": "Paramore/_/Ignorance",
-  "listeners": 1270366,
-  "playcount": 16145449,
   "artistMbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
-  "lastfmSummary": "\"Ignorance\" is a song by the American genre-neutral band Paramore. \"Ignorance\" was released by Fueled by Ramen in July 2009, as the lead single from the bands 2009 studio album entitled, Brand New Eyes. The song was written by Paramore band members Hayley Williams and Josh Farro; Paramore is also credited as being co-producers to the song. The song, recorded in Spring 2009, was the first song to be written for Brand New Eyes.\n\nMusically, \"Ignorance\" is credited as being an alternative rock pop song. <a href=\"http://www.last.fm/music/Paramore/_/Ignorance\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "alternative rock",
@@ -35,5 +31,11 @@
       "Paramore",
       "pop rock"
     ]
+  },
+  "lastfm": {
+    "id": "Paramore/_/Ignorance",
+    "listeners": 1270366,
+    "playcount": 16145449,
+    "summary": "\"Ignorance\" is a song by the American genre-neutral band Paramore. \"Ignorance\" was released by Fueled by Ramen in July 2009, as the lead single from the bands 2009 studio album entitled, Brand New Eyes. The song was written by Paramore band members Hayley Williams and Josh Farro; Paramore is also credited as being co-producers to the song. The song, recorded in Spring 2009, was the first song to be written for Brand New Eyes.\n\nMusically, \"Ignorance\" is credited as being an alternative rock pop song. <a href=\"http://www.last.fm/music/Paramore/_/Ignorance\">Read more on Last.fm</a>."
   }
 }

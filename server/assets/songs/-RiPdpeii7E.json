@@ -16,9 +16,6 @@
     "youtube": "-RiPdpeii7E",
     "youtubeMusic": "-RiPdpeii7E"
   },
-  "lastfmId": "Art+Pepper/_/Four+Brothers",
-  "listeners": 38370,
-  "playcount": 96276,
   "musicbrainz": {
     "tags": [
       "bebop",
@@ -26,5 +23,10 @@
       "cool jazz",
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Art+Pepper/_/Four+Brothers",
+    "listeners": 38370,
+    "playcount": 96276
   }
 }

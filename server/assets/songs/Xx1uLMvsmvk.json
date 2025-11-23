@@ -17,8 +17,10 @@
     "youtube": "Xx1uLMvsmvk",
     "youtubeMusic": "Xx1uLMvsmvk"
   },
-  "lastfmId": "Electric+Callboy/_/Spaceman+(feat.+FiNCH)",
-  "listeners": 76210,
-  "playcount": 1118185,
-  "artistMbid": "cf075492-d880-4afc-b87b-d6b03e33dacc"
+  "artistMbid": "cf075492-d880-4afc-b87b-d6b03e33dacc",
+  "lastfm": {
+    "id": "Electric+Callboy/_/Spaceman+(feat.+FiNCH)",
+    "listeners": 76210,
+    "playcount": 1118185
+  }
 }

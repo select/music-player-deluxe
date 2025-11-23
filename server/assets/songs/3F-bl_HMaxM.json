@@ -12,7 +12,9 @@
     "youtube": "3F-bl_HMaxM",
     "youtubeMusic": "3F-bl_HMaxM"
   },
-  "lastfmId": "Dritte+Wahl/_/Bad+K.",
-  "listeners": 4509,
-  "playcount": 22914
+  "lastfm": {
+    "id": "Dritte+Wahl/_/Bad+K.",
+    "listeners": 4509,
+    "playcount": 22914
+  }
 }

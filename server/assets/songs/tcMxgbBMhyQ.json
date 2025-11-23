@@ -21,12 +21,14 @@
     "youtube": "tcMxgbBMhyQ",
     "youtubeMusic": "tcMxgbBMhyQ"
   },
-  "lastfmId": "Tingvall+Trio/_/Cruisin%27",
-  "listeners": 1040,
-  "playcount": 2154,
   "musicbrainz": {
     "artistTags": [
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Tingvall+Trio/_/Cruisin%27",
+    "listeners": 1040,
+    "playcount": 2154
   }
 }

@@ -14,7 +14,9 @@
     "youtube": "FS2xr27Wogk",
     "youtubeMusic": "FS2xr27Wogk"
   },
-  "lastfmId": "fyne/_/Sch%C3%BCttelfrost",
-  "listeners": 2568,
-  "playcount": 15886
+  "lastfm": {
+    "id": "fyne/_/Sch%C3%BCttelfrost",
+    "listeners": 2568,
+    "playcount": 15886
+  }
 }

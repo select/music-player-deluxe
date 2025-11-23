@@ -20,9 +20,6 @@
     "youtubeMusic": "MTqlaX4qfVI"
   },
   "mbid": "18cd7e15-5bfe-4fc1-844b-717df32d5148",
-  "lastfmId": "Marc+Moulin/_/Balek",
-  "listeners": 4943,
-  "playcount": 16400,
   "artistMbid": "441111d5-fa9f-4f08-bb03-60a081394487",
   "musicbrainz": {
     "artistTags": [
@@ -31,5 +28,10 @@
     "artistGenres": [
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Marc+Moulin/_/Balek",
+    "listeners": 4943,
+    "playcount": 16400
   }
 }

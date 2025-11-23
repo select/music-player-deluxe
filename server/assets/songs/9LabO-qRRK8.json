@@ -21,8 +21,10 @@
     "youtube": "9LabO-qRRK8",
     "youtubeMusic": "9LabO-qRRK8"
   },
-  "lastfmId": "Diatomic/_/Galactic+Centre",
-  "listeners": 25,
-  "playcount": 96,
-  "artistMbid": "07fcb697-a413-40fe-adc1-827d924a3284"
+  "artistMbid": "07fcb697-a413-40fe-adc1-827d924a3284",
+  "lastfm": {
+    "id": "Diatomic/_/Galactic+Centre",
+    "listeners": 25,
+    "playcount": 96
+  }
 }

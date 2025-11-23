@@ -10,7 +10,9 @@
     "youtube": "kPbnVEFr2ao",
     "youtubeMusic": "kPbnVEFr2ao"
   },
-  "lastfmId": "Monty/_/No+Sunset+For+Soul",
-  "listeners": 4081,
-  "playcount": 11630
+  "lastfm": {
+    "id": "Monty/_/No+Sunset+For+Soul",
+    "listeners": 4081,
+    "playcount": 11630
+  }
 }

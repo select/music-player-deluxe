@@ -16,9 +16,6 @@
     "youtubeMusic": "b7o3F-MVE-Y"
   },
   "mbid": "00d92cfe-ab1d-4cbe-9abe-98aa8ca6cbab",
-  "lastfmId": "Major+Lazer/_/Koo+Koo+Fun",
-  "listeners": 7070,
-  "playcount": 21791,
   "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
   "musicbrainz": {
     "artistTags": [
@@ -39,5 +36,10 @@
       "edm",
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "Major+Lazer/_/Koo+Koo+Fun",
+    "listeners": 7070,
+    "playcount": 21791
   }
 }

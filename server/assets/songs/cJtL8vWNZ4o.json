@@ -11,9 +11,6 @@
     "youtubeMusic": "cJtL8vWNZ4o"
   },
   "mbid": "172a2341-fdd1-46ba-900d-bdcca00ebe5b",
-  "lastfmId": "Billy+Joel/_/Movin%27+Out",
-  "listeners": 8545,
-  "playcount": 47072,
   "artistMbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
   "musicbrainz": {
     "artistTags": [
@@ -33,5 +30,10 @@
       "pop rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Billy+Joel/_/Movin%27+Out",
+    "listeners": 8545,
+    "playcount": 47072
   }
 }

@@ -4,8 +4,10 @@
   "artist": "Gantz",
   "lastFetched": "2025-11-19T09:48:30.819Z",
   "mbid": "078d4989-99e0-47cf-aa54-837a8edcf92b",
-  "lastfmId": "Gantz/_/Catalyst",
-  "listeners": 526,
-  "playcount": 1379,
-  "artistMbid": "b6a0411e-ce2c-4ef1-baa7-4302ca4c77bc"
+  "artistMbid": "b6a0411e-ce2c-4ef1-baa7-4302ca4c77bc",
+  "lastfm": {
+    "id": "Gantz/_/Catalyst",
+    "listeners": 526,
+    "playcount": 1379
+  }
 }

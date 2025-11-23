@@ -17,9 +17,6 @@
     "youtubeMusic": "K9uiF5e2E9k"
   },
   "mbid": "c6775545-5beb-3157-9529-0f0fc39b364e",
-  "lastfmId": "Silverstein/_/My+Heroine",
-  "listeners": 343872,
-  "playcount": 3418289,
   "artistMbid": "d89de379-665d-425c-b2e9-41b95d1edb36",
   "musicbrainz": {
     "artistTags": [
@@ -41,5 +38,10 @@
       "melodic hardcore",
       "metalcore"
     ]
+  },
+  "lastfm": {
+    "id": "Silverstein/_/My+Heroine",
+    "listeners": 343872,
+    "playcount": 3418289
   }
 }

@@ -14,9 +14,6 @@
     "youtubeMusic": "1I1iDxG32Ag"
   },
   "mbid": "d9f35c56-8e66-4d97-9673-935ef2fb756c",
-  "lastfmId": "Pole/_/Grauer+Sand",
-  "listeners": 4276,
-  "playcount": 9254,
   "artistMbid": "ad957b43-9dc0-42e1-940c-19b21ec77f3a",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "glitch",
       "idm"
     ]
+  },
+  "lastfm": {
+    "id": "Pole/_/Grauer+Sand",
+    "listeners": 4276,
+    "playcount": 9254
   }
 }

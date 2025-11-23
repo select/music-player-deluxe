@@ -23,8 +23,10 @@
     "youtube": "QySirDr6aA8",
     "youtubeMusic": "QySirDr6aA8"
   },
-  "lastfmId": "Billy+Brooks/_/Fourty+Days",
-  "listeners": 13395,
-  "playcount": 42338,
-  "artistMbid": "775c0cf9-5d7e-4889-9393-d21e3105fc4b"
+  "artistMbid": "775c0cf9-5d7e-4889-9393-d21e3105fc4b",
+  "lastfm": {
+    "id": "Billy+Brooks/_/Fourty+Days",
+    "listeners": 13395,
+    "playcount": 42338
+  }
 }

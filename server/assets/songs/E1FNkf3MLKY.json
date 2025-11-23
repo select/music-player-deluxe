@@ -21,9 +21,6 @@
     "youtubeMusic": "E1FNkf3MLKY"
   },
   "mbid": "e197b5f5-7021-4f6e-9ed5-e9de93bc76f2",
-  "lastfmId": "Red+Hot+Chili+Peppers/_/Tippa+My+Tongue",
-  "listeners": 140579,
-  "playcount": 816114,
   "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
   "musicbrainz": {
     "artistTags": [
@@ -44,5 +41,10 @@
       "funk rock",
       "pop rock"
     ]
+  },
+  "lastfm": {
+    "id": "Red+Hot+Chili+Peppers/_/Tippa+My+Tongue",
+    "listeners": 140579,
+    "playcount": 816114
   }
 }

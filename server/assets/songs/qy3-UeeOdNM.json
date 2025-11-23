@@ -13,9 +13,6 @@
     "youtubeMusic": "qy3-UeeOdNM"
   },
   "mbid": "09c8ba3b-e6e0-31f1-b89e-9faef9663582",
-  "lastfmId": "Gene+Russell/_/Get+Down",
-  "listeners": 5994,
-  "playcount": 13610,
   "artistMbid": "4c211f1b-1647-4b56-8009-d18286a0e4b2",
   "musicbrainz": {
     "artistTags": [
@@ -24,5 +21,10 @@
     "artistGenres": [
       "soul jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Gene+Russell/_/Get+Down",
+    "listeners": 5994,
+    "playcount": 13610
   }
 }

@@ -17,11 +17,11 @@
     "youtube": "jQNazsWnQKU",
     "youtubeMusic": "jQNazsWnQKU"
   },
-  "lastfmId": "Tyler/_/OKRA",
-  "listeners": 101,
-  "playcount": 440,
   "lastfm": {
     "title": "OKRA",
-    "artist": "Tyler"
+    "artist": "Tyler",
+    "id": "Tyler/_/OKRA",
+    "listeners": 101,
+    "playcount": 440
   }
 }

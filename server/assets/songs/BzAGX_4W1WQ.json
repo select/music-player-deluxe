@@ -21,8 +21,10 @@
     "youtube": "BzAGX_4W1WQ",
     "youtubeMusic": "BzAGX_4W1WQ"
   },
-  "lastfmId": "Eddy+Grant/_/Walking+On+Sunshine",
-  "listeners": 12822,
-  "playcount": 36061,
-  "artistMbid": "0cf0583a-fcfd-4f07-b573-95273ec4bdb5"
+  "artistMbid": "0cf0583a-fcfd-4f07-b573-95273ec4bdb5",
+  "lastfm": {
+    "id": "Eddy+Grant/_/Walking+On+Sunshine",
+    "listeners": 12822,
+    "playcount": 36061
+  }
 }

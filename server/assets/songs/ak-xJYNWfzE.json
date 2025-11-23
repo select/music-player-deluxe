@@ -17,8 +17,10 @@
     "youtubeMusic": "ak-xJYNWfzE"
   },
   "mbid": "bc32c7cd-fe21-49e1-87f2-31eba6db987b",
-  "lastfmId": "Royal+Blood/_/Mountains+at+Midnight",
-  "listeners": 70386,
-  "playcount": 424948,
-  "artistMbid": "95ee8d6d-07b8-4588-a405-c64cef1d05b3"
+  "artistMbid": "95ee8d6d-07b8-4588-a405-c64cef1d05b3",
+  "lastfm": {
+    "id": "Royal+Blood/_/Mountains+at+Midnight",
+    "listeners": 70386,
+    "playcount": 424948
+  }
 }

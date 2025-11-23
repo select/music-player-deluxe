@@ -11,9 +11,6 @@
     "youtubeMusic": "fP2r59XMMvM"
   },
   "mbid": "207a0f89-3a6d-4090-ab27-1e5ae36ce4cb",
-  "lastfmId": "Disrupt/_/Bomb+20",
-  "listeners": 9103,
-  "playcount": 26314,
   "artistMbid": "5fffffdf-90d2-4e77-a12d-ea1ab24bd2b9",
   "musicbrainz": {
     "artistTags": [
@@ -22,5 +19,10 @@
     "artistGenres": [
       "dub"
     ]
+  },
+  "lastfm": {
+    "id": "Disrupt/_/Bomb+20",
+    "listeners": 9103,
+    "playcount": 26314
   }
 }

@@ -13,8 +13,10 @@
     "youtube": "POFoBwcZi8I",
     "youtubeMusic": "POFoBwcZi8I"
   },
-  "lastfmId": "Gregory+Porter/_/Hey+Laura",
-  "listeners": 97923,
-  "playcount": 438608,
-  "artistMbid": "7ac1e33f-0cdf-4e81-b914-41830700d746"
+  "artistMbid": "7ac1e33f-0cdf-4e81-b914-41830700d746",
+  "lastfm": {
+    "id": "Gregory+Porter/_/Hey+Laura",
+    "listeners": 97923,
+    "playcount": 438608
+  }
 }

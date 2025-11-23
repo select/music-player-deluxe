@@ -12,9 +12,6 @@
     "youtubeMusic": "t8iX2AK0I0s"
   },
   "mbid": "1e61f9b5-3b78-4d43-9363-9d0103656ed6",
-  "lastfmId": "All+Them+Witches/_/Instrumental+2+(Welcome+to+the+Caveman+Future)",
-  "listeners": 20686,
-  "playcount": 93288,
   "artistMbid": "b574bfea-2359-4e9d-93f6-71c3c9a2a4f0",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "jam band",
       "psychedelic"
     ]
+  },
+  "lastfm": {
+    "id": "All+Them+Witches/_/Instrumental+2+(Welcome+to+the+Caveman+Future)",
+    "listeners": 20686,
+    "playcount": 93288
   }
 }

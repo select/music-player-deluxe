@@ -22,9 +22,6 @@
     "youtubeMusic": "XgMDSPqC6gw"
   },
   "mbid": "8bf9ecbe-ca27-389b-b5ff-68d018e21d5f",
-  "lastfmId": "Godsmack/_/Releasing+the+Demons",
-  "listeners": 101368,
-  "playcount": 540342,
   "artistMbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2",
   "musicbrainz": {
     "artistTags": [
@@ -44,5 +41,10 @@
       "hard rock",
       "metal"
     ]
+  },
+  "lastfm": {
+    "id": "Godsmack/_/Releasing+the+Demons",
+    "listeners": 101368,
+    "playcount": 540342
   }
 }

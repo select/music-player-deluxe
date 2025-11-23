@@ -4,8 +4,10 @@
   "artist": "Krieger",
   "lastFetched": "2025-11-19T07:26:41.052Z",
   "mbid": "279c185a-73e5-30d6-b314-0fa91ef130f2",
-  "lastfmId": "Krieger/_/Krieger",
-  "listeners": 1173,
-  "playcount": 8109,
-  "artistMbid": "06471998-2256-4ba4-b834-9609ea5408c1"
+  "artistMbid": "06471998-2256-4ba4-b834-9609ea5408c1",
+  "lastfm": {
+    "id": "Krieger/_/Krieger",
+    "listeners": 1173,
+    "playcount": 8109
+  }
 }

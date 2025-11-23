@@ -10,7 +10,9 @@
     "youtube": "U7EJIri14HQ",
     "youtubeMusic": "U7EJIri14HQ"
   },
-  "lastfmId": "Document+One/_/Back+To+Me",
-  "listeners": 6212,
-  "playcount": 25527
+  "lastfm": {
+    "id": "Document+One/_/Back+To+Me",
+    "listeners": 6212,
+    "playcount": 25527
+  }
 }

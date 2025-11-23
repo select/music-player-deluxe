@@ -19,7 +19,9 @@
     "youtube": "fyYOX-me5wg",
     "youtubeMusic": "fyYOX-me5wg"
   },
-  "lastfmId": "Coldplay/_/A+Rush+of+Blood+to+the+Head+(live+in+Sydney)",
-  "listeners": 8913,
-  "playcount": 20198
+  "lastfm": {
+    "id": "Coldplay/_/A+Rush+of+Blood+to+the+Head+(live+in+Sydney)",
+    "listeners": 8913,
+    "playcount": 20198
+  }
 }

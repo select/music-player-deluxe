@@ -18,9 +18,6 @@
     "youtube": "AlIJ9gxMC2g",
     "youtubeMusic": "AlIJ9gxMC2g"
   },
-  "lastfmId": "Hand+Habits/_/Nubble",
-  "listeners": 3013,
-  "playcount": 6338,
   "artistMbid": "a92d48e1-40a9-457d-971c-ddb748d78759",
   "musicbrainz": {
     "artistTags": [
@@ -31,5 +28,10 @@
       "indie folk",
       "singer-songwriter"
     ]
+  },
+  "lastfm": {
+    "id": "Hand+Habits/_/Nubble",
+    "listeners": 3013,
+    "playcount": 6338
   }
 }

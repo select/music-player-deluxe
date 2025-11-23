@@ -18,9 +18,6 @@
     "youtube": "YASaUI9bhQY",
     "youtubeMusic": "YASaUI9bhQY"
   },
-  "lastfmId": "Yussef+Dayes/_/Rust+(feat.+Tom+Misch)",
-  "listeners": 71086,
-  "playcount": 282330,
   "artistMbid": "fdbffd97-c991-433c-9137-cafee3ded97a",
   "musicbrainz": {
     "artistTags": [
@@ -31,5 +28,10 @@
       "contemporary jazz",
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Yussef+Dayes/_/Rust+(feat.+Tom+Misch)",
+    "listeners": 71086,
+    "playcount": 282330
   }
 }

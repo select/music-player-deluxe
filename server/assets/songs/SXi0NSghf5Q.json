@@ -17,9 +17,6 @@
     "youtubeMusic": "SXi0NSghf5Q"
   },
   "mbid": "6cf8abf5-03f9-4249-a124-ddbdbb1a3e2f",
-  "lastfmId": "Apocalyptica/_/I%27m+Not+Jesus+(International+Version)",
-  "listeners": 1289,
-  "playcount": 4274,
   "artistMbid": "788ad31c-bf0c-4a31-83f8-b8b130d79c76",
   "musicbrainz": {
     "artistTags": [
@@ -41,5 +38,10 @@
       "metal",
       "neoclassical metal"
     ]
+  },
+  "lastfm": {
+    "id": "Apocalyptica/_/I%27m+Not+Jesus+(International+Version)",
+    "listeners": 1289,
+    "playcount": 4274
   }
 }

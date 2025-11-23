@@ -12,8 +12,10 @@
     "youtube": "7hH-iQVBjNA",
     "youtubeMusic": "7hH-iQVBjNA"
   },
-  "lastfmId": "Radikal+Guru/_/Lion+Returns",
-  "listeners": 284,
-  "playcount": 780,
-  "artistMbid": "a41ae4d0-aaca-4b05-85d4-08151cf3df66"
+  "artistMbid": "a41ae4d0-aaca-4b05-85d4-08151cf3df66",
+  "lastfm": {
+    "id": "Radikal+Guru/_/Lion+Returns",
+    "listeners": 284,
+    "playcount": 780
+  }
 }

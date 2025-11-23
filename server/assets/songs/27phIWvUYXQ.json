@@ -16,9 +16,6 @@
     "youtubeMusic": "27phIWvUYXQ"
   },
   "mbid": "4e4eb697-75b2-47a8-9a21-8c2cac73c547",
-  "lastfmId": "A+Tribe+Called+Quest/_/Luck+Of+Lucien",
-  "listeners": 279968,
-  "playcount": 1278859,
   "artistMbid": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
   "musicbrainz": {
     "tags": [
@@ -59,5 +56,10 @@
       "east coast hip hop",
       "hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "A+Tribe+Called+Quest/_/Luck+Of+Lucien",
+    "listeners": 279968,
+    "playcount": 1278859
   }
 }

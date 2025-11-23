@@ -4,8 +4,10 @@
   "artist": "Trevino",
   "lastFetched": "2025-11-19T15:18:40.050Z",
   "mbid": "1532e20f-8e10-322f-bb26-a89cfa18a016",
-  "lastfmId": "Trevino/_/Discovery",
-  "listeners": 505,
-  "playcount": 1566,
-  "artistMbid": "221f6af3-4948-48f4-bcf7-984115c29846"
+  "artistMbid": "221f6af3-4948-48f4-bcf7-984115c29846",
+  "lastfm": {
+    "id": "Trevino/_/Discovery",
+    "listeners": 505,
+    "playcount": 1566
+  }
 }

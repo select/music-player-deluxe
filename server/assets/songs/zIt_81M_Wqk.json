@@ -16,9 +16,6 @@
     "youtube": "zIt_81M_Wqk",
     "youtubeMusic": "zIt_81M_Wqk"
   },
-  "lastfmId": "London+Grammar/_/Shyer",
-  "listeners": 159339,
-  "playcount": 1130084,
   "artistMbid": "4dbe08c1-b40a-43b3-ab89-210000bd8ab2",
   "musicbrainz": {
     "tags": [
@@ -32,5 +29,10 @@
       "pop",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "London+Grammar/_/Shyer",
+    "listeners": 159339,
+    "playcount": 1130084
   }
 }

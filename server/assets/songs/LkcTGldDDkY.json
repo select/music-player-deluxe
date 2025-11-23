@@ -10,8 +10,10 @@
     "youtubeMusic": "LkcTGldDDkY"
   },
   "mbid": "4bbc54d1-1ad5-474c-959d-6e3167c93cbc",
-  "lastfmId": "Ballyhoo%21/_/Phantoms",
-  "listeners": 15607,
-  "playcount": 35518,
-  "artistMbid": "148350d7-1b04-4518-b216-4519eb0bcc08"
+  "artistMbid": "148350d7-1b04-4518-b216-4519eb0bcc08",
+  "lastfm": {
+    "id": "Ballyhoo%21/_/Phantoms",
+    "listeners": 15607,
+    "playcount": 35518
+  }
 }

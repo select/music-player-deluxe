@@ -22,9 +22,6 @@
     "youtubeMusic": "XM83V4BD1Bw"
   },
   "mbid": "de65cda9-006f-44c2-bbbc-6c52135a3f06",
-  "lastfmId": "Roy+Hargrove/_/Strasbourg+%2F+St.+Denis",
-  "listeners": 86921,
-  "playcount": 424537,
   "artistMbid": "8cdf780e-b909-4d25-9060-e552e95b3414",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "jazz",
       "post-bop"
     ]
+  },
+  "lastfm": {
+    "id": "Roy+Hargrove/_/Strasbourg+%2F+St.+Denis",
+    "listeners": 86921,
+    "playcount": 424537
   }
 }

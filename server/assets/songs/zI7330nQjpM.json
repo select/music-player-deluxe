@@ -19,7 +19,9 @@
     "youtube": "zI7330nQjpM",
     "youtubeMusic": "zI7330nQjpM"
   },
-  "lastfmId": "Hallway/_/Compromise",
-  "listeners": 708,
-  "playcount": 2465
+  "lastfm": {
+    "id": "Hallway/_/Compromise",
+    "listeners": 708,
+    "playcount": 2465
+  }
 }

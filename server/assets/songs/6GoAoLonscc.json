@@ -14,8 +14,10 @@
     "youtube": "6GoAoLonscc",
     "youtubeMusic": "6GoAoLonscc"
   },
-  "lastfmId": "ASHEZ/_/Flip+The+Script+(VIP)",
-  "listeners": 2060,
-  "playcount": 7717,
-  "artistMbid": "8966c251-056b-4bc2-a43b-5b170c1ae0cb"
+  "artistMbid": "8966c251-056b-4bc2-a43b-5b170c1ae0cb",
+  "lastfm": {
+    "id": "ASHEZ/_/Flip+The+Script+(VIP)",
+    "listeners": 2060,
+    "playcount": 7717
+  }
 }

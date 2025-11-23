@@ -19,7 +19,9 @@
     "youtube": "TT3wGd7Awac",
     "youtubeMusic": "TT3wGd7Awac"
   },
-  "lastfmId": "Der+Nino+Aus+Wien/_/Fua%C3%9Fboischaun",
-  "listeners": 1562,
-  "playcount": 5047
+  "lastfm": {
+    "id": "Der+Nino+Aus+Wien/_/Fua%C3%9Fboischaun",
+    "listeners": 1562,
+    "playcount": 5047
+  }
 }

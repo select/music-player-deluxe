@@ -11,11 +11,11 @@
     "youtube": "zjUUx9iSMmE",
     "youtubeMusic": "zjUUx9iSMmE"
   },
-  "lastfmId": "Patrice+Rushen/_/Remind+Me",
-  "listeners": 48873,
-  "playcount": 181425,
   "lastfm": {
     "title": "Remind Me",
-    "artist": "Patrice Rushen"
+    "artist": "Patrice Rushen",
+    "id": "Patrice+Rushen/_/Remind+Me",
+    "listeners": 48873,
+    "playcount": 181425
   }
 }

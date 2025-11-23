@@ -13,13 +13,15 @@
   },
   "name": "Bologna",
   "mbid": "14db63e3-7f9c-4d1a-a6e2-3a3dc492fde9",
-  "lastfmId": "Wanda/_/Bologna",
-  "listeners": 44565,
-  "playcount": 410462,
   "artistMbid": "85417c84-b3a4-426e-92ad-ac7c1943b6a9",
   "musicbrainz": {
     "artistTags": [
       "aln-sh"
     ]
+  },
+  "lastfm": {
+    "id": "Wanda/_/Bologna",
+    "listeners": 44565,
+    "playcount": 410462
   }
 }

@@ -17,7 +17,9 @@
     "youtube": "Ojf-4u1o3eQ",
     "youtubeMusic": "Ojf-4u1o3eQ"
   },
-  "lastfmId": "Boys+Noize/_/Affection",
-  "listeners": 35350,
-  "playcount": 244900
+  "lastfm": {
+    "id": "Boys+Noize/_/Affection",
+    "listeners": 35350,
+    "playcount": 244900
+  }
 }

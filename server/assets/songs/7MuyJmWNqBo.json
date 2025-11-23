@@ -12,7 +12,9 @@
     "youtube": "7MuyJmWNqBo",
     "youtubeMusic": "7MuyJmWNqBo"
   },
-  "lastfmId": "STUBENHACKER/_/Beide+Geil",
-  "listeners": 20,
-  "playcount": 46
+  "lastfm": {
+    "id": "STUBENHACKER/_/Beide+Geil",
+    "listeners": 20,
+    "playcount": 46
+  }
 }

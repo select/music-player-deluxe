@@ -12,8 +12,10 @@
     "youtube": "LdkfOXZ-nFQ",
     "youtubeMusic": "LdkfOXZ-nFQ"
   },
-  "lastfmId": "Die+Kassierer/_/Du+hast+geguckt+(Remastered)",
-  "listeners": 302,
-  "playcount": 899,
-  "artistMbid": "7df129b4-0b43-4e91-8f60-e8907a9f6e70"
+  "artistMbid": "7df129b4-0b43-4e91-8f60-e8907a9f6e70",
+  "lastfm": {
+    "id": "Die+Kassierer/_/Du+hast+geguckt+(Remastered)",
+    "listeners": 302,
+    "playcount": 899
+  }
 }

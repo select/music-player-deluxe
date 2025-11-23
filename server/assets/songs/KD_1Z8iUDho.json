@@ -21,9 +21,6 @@
     "youtubeMusic": "KD_1Z8iUDho"
   },
   "mbid": "09889f07-6916-3680-8c24-a8e10183bc1f",
-  "lastfmId": "Madonna/_/Don%27t+Cry+for+Me+Argentina",
-  "listeners": 117032,
-  "playcount": 574335,
   "artistMbid": "79239441-bfd5-4981-a70c-55c3f15c1287",
   "musicbrainz": {
     "artistTags": [
@@ -45,5 +42,10 @@
       "contemporary r&b",
       "country pop"
     ]
+  },
+  "lastfm": {
+    "id": "Madonna/_/Don%27t+Cry+for+Me+Argentina",
+    "listeners": 117032,
+    "playcount": 574335
   }
 }

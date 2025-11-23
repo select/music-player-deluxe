@@ -17,8 +17,10 @@
     "youtubeMusic": "agKpKxuar3A"
   },
   "mbid": "65170171-f6ee-44a9-94fc-b6acafd44c80",
-  "lastfmId": "Sir+Richard+Bishop/_/Brick+and+Mortar",
-  "listeners": 176,
-  "playcount": 467,
-  "artistMbid": "a444f8ff-2f8b-438b-a680-32c1f393244b"
+  "artistMbid": "a444f8ff-2f8b-438b-a680-32c1f393244b",
+  "lastfm": {
+    "id": "Sir+Richard+Bishop/_/Brick+and+Mortar",
+    "listeners": 176,
+    "playcount": 467
+  }
 }

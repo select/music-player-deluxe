@@ -20,7 +20,9 @@
     "youtube": "RPM-NbDuHlM",
     "youtubeMusic": "RPM-NbDuHlM"
   },
-  "lastfmId": "Okuma/_/Kalkutta",
-  "listeners": 5363,
-  "playcount": 19627
+  "lastfm": {
+    "id": "Okuma/_/Kalkutta",
+    "listeners": 5363,
+    "playcount": 19627
+  }
 }

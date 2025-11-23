@@ -13,9 +13,6 @@
     "youtubeMusic": "VvMCmcjBfkM"
   },
   "mbid": "63f88252-5dfc-4e9b-82cb-79e599f43bf0",
-  "lastfmId": "Amoss/_/Front+Left",
-  "listeners": 785,
-  "playcount": 2784,
   "artistMbid": "cfd91deb-a9bd-43b8-a9c5-783fb5ce5a91",
   "musicbrainz": {
     "artistTags": [
@@ -26,5 +23,10 @@
       "drum and bass",
       "neurofunk"
     ]
+  },
+  "lastfm": {
+    "id": "Amoss/_/Front+Left",
+    "listeners": 785,
+    "playcount": 2784
   }
 }

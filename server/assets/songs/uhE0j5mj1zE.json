@@ -19,9 +19,6 @@
     "youtubeMusic": "uhE0j5mj1zE"
   },
   "mbid": "3843e8f7-b597-4e6c-8328-57549baf0a25",
-  "lastfmId": "Herbert+Pixner+Projekt/_/Latino",
-  "listeners": 424,
-  "playcount": 1815,
   "artistMbid": "e2360a56-f63a-4589-9295-f83130b563c5",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
     "artistGenres": [
       "folk"
     ]
+  },
+  "lastfm": {
+    "id": "Herbert+Pixner+Projekt/_/Latino",
+    "listeners": 424,
+    "playcount": 1815
   }
 }

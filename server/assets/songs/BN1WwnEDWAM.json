@@ -19,9 +19,11 @@
     "youtube": "BN1WwnEDWAM",
     "youtubeMusic": "BN1WwnEDWAM"
   },
-  "lastfmId": "The+Clash/_/Should+I+Stay+or+Should+I+Go",
-  "listeners": 735253,
-  "playcount": 4291386,
   "artistMbid": "8f92558c-2baa-4758-8c38-615519e9deda",
-  "lastfmSummary": "\"Should I Stay or Should I Go\" is a song by The Clash, from their album Combat Rock. It was written in 1981 and featured Mick Jones on lead vocals. It became the band's only number-one single, a decade after it was originally released. In November 2004, it was ranked at 228 on Rolling Stone's 500 Greatest Songs of All Time.\n\nThe tune leans towards more of a retro punk rock sound than most of the other tracks on the album. Though many legends have <a href=\"http://www.last.fm/music/The+Clash/_/Should+I+Stay+or+Should+I+Go\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "The+Clash/_/Should+I+Stay+or+Should+I+Go",
+    "listeners": 735253,
+    "playcount": 4291386,
+    "summary": "\"Should I Stay or Should I Go\" is a song by The Clash, from their album Combat Rock. It was written in 1981 and featured Mick Jones on lead vocals. It became the band's only number-one single, a decade after it was originally released. In November 2004, it was ranked at 228 on Rolling Stone's 500 Greatest Songs of All Time.\n\nThe tune leans towards more of a retro punk rock sound than most of the other tracks on the album. Though many legends have <a href=\"http://www.last.fm/music/The+Clash/_/Should+I+Stay+or+Should+I+Go\">Read more on Last.fm</a>."
+  }
 }

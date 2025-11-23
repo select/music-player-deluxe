@@ -16,9 +16,6 @@
     "youtubeMusic": "62OxFo4cZWI"
   },
   "mbid": "72ea72e3-4664-4909-a6c4-ff91bbed0853",
-  "lastfmId": "AC%2FDC/_/Squealer",
-  "listeners": 116942,
-  "playcount": 450732,
   "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "rock",
       "rock and roll"
     ]
+  },
+  "lastfm": {
+    "id": "AC%2FDC/_/Squealer",
+    "listeners": 116942,
+    "playcount": 450732
   }
 }

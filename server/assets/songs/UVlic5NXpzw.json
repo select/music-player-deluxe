@@ -19,9 +19,6 @@
     "youtubeMusic": "UVlic5NXpzw"
   },
   "mbid": "28bf0607-a54f-4986-ac0e-bade3b806f4f",
-  "lastfmId": "Paul+Gilbert/_/Fuzz+Universe",
-  "listeners": 33678,
-  "playcount": 165102,
   "artistMbid": "453321a7-3a77-47b0-8125-7bd385f3a730",
   "musicbrainz": {
     "artistTags": [
@@ -34,5 +31,10 @@
       "heavy metal",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Paul+Gilbert/_/Fuzz+Universe",
+    "listeners": 33678,
+    "playcount": 165102
   }
 }

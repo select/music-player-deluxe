@@ -16,8 +16,10 @@
     "youtube": "LbtRELG5BwM",
     "youtubeMusic": "LbtRELG5BwM"
   },
-  "lastfmId": "Dub+Spencer+&+Trance+Hill/_/Trance+Plane",
-  "listeners": 1390,
-  "playcount": 4586,
-  "artistMbid": "16a848b4-732d-4fcd-bcb6-f85114004da0"
+  "artistMbid": "16a848b4-732d-4fcd-bcb6-f85114004da0",
+  "lastfm": {
+    "id": "Dub+Spencer+&+Trance+Hill/_/Trance+Plane",
+    "listeners": 1390,
+    "playcount": 4586
+  }
 }

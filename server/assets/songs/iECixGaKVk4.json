@@ -17,11 +17,7 @@
     "youtubeMusic": "iECixGaKVk4"
   },
   "mbid": "8ae7c44e-45dd-44ca-8221-298a58df03c9",
-  "lastfmId": "Cage+the+Elephant/_/Broken+Boy",
-  "listeners": 254935,
-  "playcount": 2001671,
   "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
-  "lastfmSummary": "Featuring lyrics of true rebellion, “Broken Boy” goes full punk with Shultz coming in with, “I was born on the wrong side of the train tracks and I was burned by the cold kiss of a vampire.” Shultz sounds like a boy who is truly broken; angsty teen vibes at their finest. - Daniella Boik, Paste Magazine <a href=\"http://www.last.fm/music/Cage+the+Elephant/_/Broken+Boy\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "acoustic rock",
@@ -42,5 +38,11 @@
       "garage rock revival",
       "indie rock"
     ]
+  },
+  "lastfm": {
+    "id": "Cage+the+Elephant/_/Broken+Boy",
+    "listeners": 254935,
+    "playcount": 2001671,
+    "summary": "Featuring lyrics of true rebellion, “Broken Boy” goes full punk with Shultz coming in with, “I was born on the wrong side of the train tracks and I was burned by the cold kiss of a vampire.” Shultz sounds like a boy who is truly broken; angsty teen vibes at their finest. - Daniella Boik, Paste Magazine <a href=\"http://www.last.fm/music/Cage+the+Elephant/_/Broken+Boy\">Read more on Last.fm</a>."
   }
 }

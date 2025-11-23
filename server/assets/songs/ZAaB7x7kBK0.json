@@ -21,9 +21,6 @@
     "youtube": "ZAaB7x7kBK0",
     "youtubeMusic": "ZAaB7x7kBK0"
   },
-  "lastfmId": "Esbj%C3%B6rn+Svensson+Trio/_/Elevation+of+Love",
-  "listeners": 47264,
-  "playcount": 177239,
   "artistMbid": "cfa7c6b1-bbb3-4f9a-a636-cbfafb9b4bcf",
   "musicbrainz": {
     "tags": [
@@ -32,5 +29,10 @@
       "modern jazz",
       "piano jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Esbj%C3%B6rn+Svensson+Trio/_/Elevation+of+Love",
+    "listeners": 47264,
+    "playcount": 177239
   }
 }

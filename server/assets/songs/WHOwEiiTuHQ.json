@@ -21,9 +21,6 @@
     "youtube": "WHOwEiiTuHQ",
     "youtubeMusic": "WHOwEiiTuHQ"
   },
-  "lastfmId": "Knorkator/_/Buchstabe+2025",
-  "listeners": 510,
-  "playcount": 1125,
   "musicbrainz": {
     "tags": [
       "electronic",
@@ -33,5 +30,10 @@
       "pop",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Knorkator/_/Buchstabe+2025",
+    "listeners": 510,
+    "playcount": 1125
   }
 }

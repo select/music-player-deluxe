@@ -16,8 +16,10 @@
     "youtubeMusic": "WZMkwpO4Ji8"
   },
   "mbid": "762f2819-dd27-4779-9b74-091ec7711ff7",
-  "lastfmId": "Tierra+Whack/_/SHOWER+SONG",
-  "listeners": 31646,
-  "playcount": 115273,
-  "artistMbid": "ae952d46-0f36-414c-90d4-f202ea2d4a71"
+  "artistMbid": "ae952d46-0f36-414c-90d4-f202ea2d4a71",
+  "lastfm": {
+    "id": "Tierra+Whack/_/SHOWER+SONG",
+    "listeners": 31646,
+    "playcount": 115273
+  }
 }

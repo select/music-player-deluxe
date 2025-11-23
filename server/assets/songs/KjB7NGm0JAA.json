@@ -17,7 +17,9 @@
     "youtube": "KjB7NGm0JAA",
     "youtubeMusic": "KjB7NGm0JAA"
   },
-  "lastfmId": "Herbert+Pixner+Projekt/_/Quattro",
-  "listeners": 3169,
-  "playcount": 14202
+  "lastfm": {
+    "id": "Herbert+Pixner+Projekt/_/Quattro",
+    "listeners": 3169,
+    "playcount": 14202
+  }
 }

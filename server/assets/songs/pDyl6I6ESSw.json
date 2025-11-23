@@ -7,7 +7,9 @@
   "lastFetched": "2025-11-19T03:14:17.415Z",
   "releaseCount": 1,
   "artistMbid": "73daf3fc-1e3f-4d2e-9e51-3f397d4e556f",
-  "lastfmId": "Chris+Hadfield/_/Space+Oddity",
-  "listeners": 13232,
-  "playcount": 76214
+  "lastfm": {
+    "id": "Chris+Hadfield/_/Space+Oddity",
+    "listeners": 13232,
+    "playcount": 76214
+  }
 }

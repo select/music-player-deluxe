@@ -23,13 +23,15 @@
     "youtube": "h9aFh2Z-5ec",
     "youtubeMusic": "h9aFh2Z-5ec"
   },
-  "lastfmId": "Amoss/_/And+We+Go+(Original+Mix)",
-  "listeners": 13,
-  "playcount": 28,
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
       "neurofunk"
     ]
+  },
+  "lastfm": {
+    "id": "Amoss/_/And+We+Go+(Original+Mix)",
+    "listeners": 13,
+    "playcount": 28
   }
 }

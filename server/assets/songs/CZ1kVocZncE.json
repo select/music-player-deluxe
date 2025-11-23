@@ -19,13 +19,15 @@
     "youtube": "CZ1kVocZncE",
     "youtubeMusic": "CZ1kVocZncE"
   },
-  "lastfmId": "Knorkator/_/Halb+voll",
-  "listeners": 458,
-  "playcount": 1012,
   "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
   "musicbrainz": {
     "artistTags": [
       "german"
     ]
+  },
+  "lastfm": {
+    "id": "Knorkator/_/Halb+voll",
+    "listeners": 458,
+    "playcount": 1012
   }
 }

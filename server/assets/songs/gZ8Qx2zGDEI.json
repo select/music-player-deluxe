@@ -12,9 +12,6 @@
     "youtubeMusic": "gZ8Qx2zGDEI"
   },
   "mbid": "14c628c0-d5ef-4f30-a96e-fa0a9109b7ca",
-  "lastfmId": "Jazzanova/_/Hanazono",
-  "listeners": 41809,
-  "playcount": 177207,
   "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
       "jazz",
       "nu jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Jazzanova/_/Hanazono",
+    "listeners": 41809,
+    "playcount": 177207
   }
 }

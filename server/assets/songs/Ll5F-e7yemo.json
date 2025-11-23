@@ -14,8 +14,10 @@
     "youtube": "Ll5F-e7yemo",
     "youtubeMusic": "Ll5F-e7yemo"
   },
-  "lastfmId": "Glass+Museum/_/Reflet",
-  "listeners": 933,
-  "playcount": 2974,
-  "artistMbid": "b87dfb5e-97d8-4679-8eb3-1b58cf2b39b0"
+  "artistMbid": "b87dfb5e-97d8-4679-8eb3-1b58cf2b39b0",
+  "lastfm": {
+    "id": "Glass+Museum/_/Reflet",
+    "listeners": 933,
+    "playcount": 2974
+  }
 }

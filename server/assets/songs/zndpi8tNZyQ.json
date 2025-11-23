@@ -15,7 +15,9 @@
     "youtubeMusic": "zndpi8tNZyQ"
   },
   "mbid": "06d45ab7-7257-48dd-a936-67a9c230c1c2",
-  "lastfmId": "NEU%21/_/Hallogallo",
-  "listeners": 189186,
-  "playcount": 889456
+  "lastfm": {
+    "id": "NEU%21/_/Hallogallo",
+    "listeners": 189186,
+    "playcount": 889456
+  }
 }

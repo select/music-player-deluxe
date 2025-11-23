@@ -21,9 +21,6 @@
     "youtube": "Uk-2wA-Il_c",
     "youtubeMusic": "Uk-2wA-Il_c"
   },
-  "lastfmId": "John+Tejada/_/Until+the+End+of+the+World",
-  "listeners": 1785,
-  "playcount": 4292,
   "artistMbid": "bda6d00e-f8f7-43a5-b8f8-f1ebc55b46d3",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "electronic",
       "techno"
     ]
+  },
+  "lastfm": {
+    "id": "John+Tejada/_/Until+the+End+of+the+World",
+    "listeners": 1785,
+    "playcount": 4292
   }
 }

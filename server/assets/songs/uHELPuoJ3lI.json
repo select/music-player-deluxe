@@ -14,8 +14,10 @@
     "youtubeMusic": "uHELPuoJ3lI"
   },
   "mbid": "2b6969a6-b94e-4d65-b27f-6d81681041ba",
-  "lastfmId": "Salami+Rose+Joe+Louis/_/Always+on+my+Mind",
-  "listeners": 12946,
-  "playcount": 29220,
-  "artistMbid": "768633eb-8810-4fbe-aabb-f891c07d29d3"
+  "artistMbid": "768633eb-8810-4fbe-aabb-f891c07d29d3",
+  "lastfm": {
+    "id": "Salami+Rose+Joe+Louis/_/Always+on+my+Mind",
+    "listeners": 12946,
+    "playcount": 29220
+  }
 }

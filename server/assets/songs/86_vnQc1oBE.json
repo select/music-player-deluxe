@@ -18,9 +18,6 @@
     "youtubeMusic": "86_vnQc1oBE"
   },
   "mbid": "8bd8d9a9-c365-4737-91a2-ac4b551791e3",
-  "lastfmId": "Greta+Van+Fleet/_/When+The+Curtain+Falls",
-  "listeners": 149527,
-  "playcount": 1117469,
   "artistMbid": "0be22557-d8c7-4706-a531-625c4c570162",
   "musicbrainz": {
     "artistTags": [
@@ -34,5 +31,10 @@
       "hard rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Greta+Van+Fleet/_/When+The+Curtain+Falls",
+    "listeners": 149527,
+    "playcount": 1117469
   }
 }

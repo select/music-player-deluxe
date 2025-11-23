@@ -21,9 +21,6 @@
     "youtubeMusic": "na9FlXLz0VM"
   },
   "mbid": "0b5da2ff-ef28-4ad5-97d1-5855116c8f2a",
-  "lastfmId": "Queens+of+the+Stone+Age/_/Hanging+Tree",
-  "listeners": 220775,
-  "playcount": 1162308,
   "artistMbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
   "musicbrainz": {
     "artistTags": [
@@ -41,5 +38,10 @@
       "rock",
       "stoner rock"
     ]
+  },
+  "lastfm": {
+    "id": "Queens+of+the+Stone+Age/_/Hanging+Tree",
+    "listeners": 220775,
+    "playcount": 1162308
   }
 }

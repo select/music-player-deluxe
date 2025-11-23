@@ -13,9 +13,6 @@
     "youtubeMusic": "BwI6uJ2J-DM"
   },
   "mbid": "54e45ac0-d1b6-4d71-af30-70a899af4f9f",
-  "lastfmId": "Hugh+Masekela/_/The+Big+Apple",
-  "listeners": 5896,
-  "playcount": 12075,
   "artistMbid": "83a2e0fb-3d9b-46ff-b383-3dde54c15297",
   "musicbrainz": {
     "artistTags": [
@@ -31,5 +28,10 @@
       "jazz",
       "soul jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Hugh+Masekela/_/The+Big+Apple",
+    "listeners": 5896,
+    "playcount": 12075
   }
 }

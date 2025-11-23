@@ -17,11 +17,7 @@
     "youtubeMusic": "wHylQRVN2Qs"
   },
   "mbid": "700e7687-fd47-4f57-a43d-42d76eaf0ce9",
-  "lastfmId": "Sting/_/Russians",
-  "listeners": 220233,
-  "playcount": 997744,
   "artistMbid": "7944ed53-2a58-4035-9b93-140a71e41c34",
-  "lastfmSummary": "Russians is a song by Sting, from his debut solo album, The Dream of the Blue Turtles. It was also released as a single. Sting cautions about the repercussions of the Cold War, singing how he hopes that the \"Russians love their children too\", since he sees this as the only thing that protects the world from a nuclear holocaust.\n\n\"Russians\" uses a theme borrowed from the Suite from Lieutenant Kije, by Russian composer Sergei Prokofiev. (Sting subsequently served as narrator for Peter and the Wolf: A Prokofiev Fantasy <a href=\"http://www.last.fm/music/Sting/_/Russians\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "adult contemporary",
@@ -42,5 +38,11 @@
       "new wave",
       "pop"
     ]
+  },
+  "lastfm": {
+    "id": "Sting/_/Russians",
+    "listeners": 220233,
+    "playcount": 997744,
+    "summary": "Russians is a song by Sting, from his debut solo album, The Dream of the Blue Turtles. It was also released as a single. Sting cautions about the repercussions of the Cold War, singing how he hopes that the \"Russians love their children too\", since he sees this as the only thing that protects the world from a nuclear holocaust.\n\n\"Russians\" uses a theme borrowed from the Suite from Lieutenant Kije, by Russian composer Sergei Prokofiev. (Sting subsequently served as narrator for Peter and the Wolf: A Prokofiev Fantasy <a href=\"http://www.last.fm/music/Sting/_/Russians\">Read more on Last.fm</a>."
   }
 }

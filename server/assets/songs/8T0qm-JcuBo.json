@@ -12,7 +12,9 @@
     "youtube": "8T0qm-JcuBo",
     "youtubeMusic": "8T0qm-JcuBo"
   },
-  "lastfmId": "Here+It+Is/_/You+Want+It+Darker",
-  "listeners": 2537,
-  "playcount": 4875
+  "lastfm": {
+    "id": "Here+It+Is/_/You+Want+It+Darker",
+    "listeners": 2537,
+    "playcount": 4875
+  }
 }

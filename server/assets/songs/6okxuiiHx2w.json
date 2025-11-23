@@ -15,9 +15,6 @@
     "youtubeMusic": "6okxuiiHx2w"
   },
   "mbid": "1048b17c-923c-38a8-a520-3e8038e9e864",
-  "lastfmId": "Breakbot/_/Baby+I%27m+Yours",
-  "listeners": 429062,
-  "playcount": 2939772,
   "artistMbid": "64c9974f-20a9-491d-bd94-2168cd738e2a",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "electronic",
       "french house"
     ]
+  },
+  "lastfm": {
+    "id": "Breakbot/_/Baby+I%27m+Yours",
+    "listeners": 429062,
+    "playcount": 2939772
   }
 }

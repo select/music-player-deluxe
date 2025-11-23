@@ -17,9 +17,6 @@
     "youtube": "fGjK9VsI8W8",
     "youtubeMusic": "fGjK9VsI8W8"
   },
-  "lastfmId": "Conducta/_/Gold",
-  "listeners": 113,
-  "playcount": 247,
   "musicbrainz": {
     "artistTags": [
       "garage",
@@ -27,5 +24,10 @@
       "uk",
       "uk garage"
     ]
+  },
+  "lastfm": {
+    "id": "Conducta/_/Gold",
+    "listeners": 113,
+    "playcount": 247
   }
 }

@@ -20,9 +20,6 @@
     "youtubeMusic": "U-D_m0_i0Fs"
   },
   "mbid": "2d4491be-eb11-40f0-87c5-e6d216c285de",
-  "lastfmId": "Avant/_/Feast",
-  "listeners": 7022,
-  "playcount": 12659,
   "artistMbid": "6255c59a-de38-44de-b966-a3c4686f9941",
   "musicbrainz": {
     "artistTags": [
@@ -33,5 +30,10 @@
       "contemporary r&b",
       "singer-songwriter"
     ]
+  },
+  "lastfm": {
+    "id": "Avant/_/Feast",
+    "listeners": 7022,
+    "playcount": 12659
   }
 }

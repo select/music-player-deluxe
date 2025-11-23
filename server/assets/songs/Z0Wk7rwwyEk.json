@@ -20,9 +20,6 @@
     "youtube": "Z0Wk7rwwyEk",
     "youtubeMusic": "Z0Wk7rwwyEk"
   },
-  "lastfmId": "Sumac+Dub/_/Pers%C3%A9ides",
-  "listeners": 172,
-  "playcount": 336,
   "musicbrainz": {
     "artistTags": [
       "dub",
@@ -31,5 +28,10 @@
       "reggae",
       "trip hop"
     ]
+  },
+  "lastfm": {
+    "id": "Sumac+Dub/_/Pers%C3%A9ides",
+    "listeners": 172,
+    "playcount": 336
   }
 }

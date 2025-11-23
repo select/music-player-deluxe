@@ -16,8 +16,10 @@
     "youtube": "ym0OCU65Gb4",
     "youtubeMusic": "ym0OCU65Gb4"
   },
-  "lastfmId": "Mar+Malade/_/Balloon",
-  "listeners": 1340,
-  "playcount": 6344,
-  "artistMbid": "d7f11b5c-8743-4f87-8a19-6852db9b5d88"
+  "artistMbid": "d7f11b5c-8743-4f87-8a19-6852db9b5d88",
+  "lastfm": {
+    "id": "Mar+Malade/_/Balloon",
+    "listeners": 1340,
+    "playcount": 6344
+  }
 }

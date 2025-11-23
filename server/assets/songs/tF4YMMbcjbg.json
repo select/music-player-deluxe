@@ -14,7 +14,9 @@
     "youtube": "tF4YMMbcjbg",
     "youtubeMusic": "tF4YMMbcjbg"
   },
-  "lastfmId": "Earthside/_/The+Lesser+Evil",
-  "listeners": 3496,
-  "playcount": 14590
+  "lastfm": {
+    "id": "Earthside/_/The+Lesser+Evil",
+    "listeners": 3496,
+    "playcount": 14590
+  }
 }

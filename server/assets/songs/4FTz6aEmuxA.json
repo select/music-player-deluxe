@@ -21,8 +21,10 @@
     "youtube": "4FTz6aEmuxA",
     "youtubeMusic": "4FTz6aEmuxA"
   },
-  "lastfmId": "Lord+Cobra/_/Love+Letters",
-  "listeners": 247,
-  "playcount": 785,
-  "artistMbid": "cee64f83-f839-4c47-ae94-c60c6a029577"
+  "artistMbid": "cee64f83-f839-4c47-ae94-c60c6a029577",
+  "lastfm": {
+    "id": "Lord+Cobra/_/Love+Letters",
+    "listeners": 247,
+    "playcount": 785
+  }
 }

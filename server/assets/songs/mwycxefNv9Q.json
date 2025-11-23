@@ -19,8 +19,10 @@
     "youtube": "mwycxefNv9Q",
     "youtubeMusic": "mwycxefNv9Q"
   },
-  "lastfmId": "Spirits+Rejoice/_/Happy+and+in+Love",
-  "listeners": 81,
-  "playcount": 258,
-  "artistMbid": "c08b1a71-16ff-4b70-ad28-c74e29d3df78"
+  "artistMbid": "c08b1a71-16ff-4b70-ad28-c74e29d3df78",
+  "lastfm": {
+    "id": "Spirits+Rejoice/_/Happy+and+in+Love",
+    "listeners": 81,
+    "playcount": 258
+  }
 }

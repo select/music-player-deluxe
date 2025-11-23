@@ -21,9 +21,6 @@
     "youtubeMusic": "IZ3i80B0qKg"
   },
   "mbid": "d03d905b-6daf-4ddf-86c6-1eef710acdf7",
-  "lastfmId": "Kim+Gordon/_/BYE+BYE",
-  "listeners": 76028,
-  "playcount": 303894,
   "artistMbid": "19301485-ac9c-4dad-885b-cd8e8c8b4184",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "indie rock",
       "noise rock"
     ]
+  },
+  "lastfm": {
+    "id": "Kim+Gordon/_/BYE+BYE",
+    "listeners": 76028,
+    "playcount": 303894
   }
 }

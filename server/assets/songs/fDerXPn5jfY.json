@@ -18,8 +18,10 @@
     "youtube": "fDerXPn5jfY",
     "youtubeMusic": "fDerXPn5jfY"
   },
-  "lastfmId": "Honeyglaze/_/Pretty+Girls",
-  "listeners": 30963,
-  "playcount": 106607,
-  "artistMbid": "6a04ab15-ef22-4408-844f-5bf1d54dd2cb"
+  "artistMbid": "6a04ab15-ef22-4408-844f-5bf1d54dd2cb",
+  "lastfm": {
+    "id": "Honeyglaze/_/Pretty+Girls",
+    "listeners": 30963,
+    "playcount": 106607
+  }
 }

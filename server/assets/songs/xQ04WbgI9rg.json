@@ -18,11 +18,7 @@
     "youtubeMusic": "xQ04WbgI9rg"
   },
   "mbid": "d9d90f1f-0c13-4197-bbc6-b981ad958ae1",
-  "lastfmId": "Foo+Fighters/_/All+My+Life",
-  "listeners": 1440588,
-  "playcount": 10880313,
   "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
-  "lastfmSummary": "\"All My Life\" is a song by the American hard rock band Foo Fighters, released as the first single from their fourth album, One by One. The song won a Grammy Award for best hard rock performance, and spent ten straight weeks at #1 on the Hot Modern Rock Tracks chart, coincidentally succeeding Nirvana and their previously unreleased final recording, \"You Know You're Right\". Dave Grohl notes that the band had wanted a heavier sounding song to appear as a single <a href=\"http://www.last.fm/music/Foo+Fighters/_/All+My+Life\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "rock",
@@ -31,5 +27,11 @@
       "alternative",
       "foo fighters"
     ]
+  },
+  "lastfm": {
+    "id": "Foo+Fighters/_/All+My+Life",
+    "listeners": 1440588,
+    "playcount": 10880313,
+    "summary": "\"All My Life\" is a song by the American hard rock band Foo Fighters, released as the first single from their fourth album, One by One. The song won a Grammy Award for best hard rock performance, and spent ten straight weeks at #1 on the Hot Modern Rock Tracks chart, coincidentally succeeding Nirvana and their previously unreleased final recording, \"You Know You're Right\". Dave Grohl notes that the band had wanted a heavier sounding song to appear as a single <a href=\"http://www.last.fm/music/Foo+Fighters/_/All+My+Life\">Read more on Last.fm</a>."
   }
 }

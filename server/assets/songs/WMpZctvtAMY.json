@@ -23,9 +23,6 @@
     "youtube": "WMpZctvtAMY",
     "youtubeMusic": "WMpZctvtAMY"
   },
-  "lastfmId": "Sully/_/Werk",
-  "listeners": 11132,
-  "playcount": 46543,
   "artistMbid": "88b9d123-ebda-477a-99bd-022378a6ffa1",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "dubstep",
       "jungle"
     ]
+  },
+  "lastfm": {
+    "id": "Sully/_/Werk",
+    "listeners": 11132,
+    "playcount": 46543
   }
 }

@@ -11,11 +11,7 @@
     "youtubeMusic": "rl3FstCc_OY"
   },
   "mbid": "2424e4aa-92da-4b79-8278-a11328d471aa",
-  "lastfmId": "Death/_/Politicians+in+My+Eyes",
-  "listeners": 96186,
-  "playcount": 500618,
   "artistMbid": "dbb3b771-ae77-4381-b61c-758b5b7898ec",
-  "lastfmSummary": "This song is by a band from Detroit, MI.\n\nIn 1975, Death, the trio of Hackney brothers from Detroit, recorded an album. Predating Bad Brains, Death were an all-black punk group shredding up north. In the band's lifespan, they were able to release one 45, for \"Politicians in My Eyes,\" before breaking up and essentially being lost to history (and insanely rich and reckless record collectors) until a family member found the tapes in an attic and Drag City decided to release the album, ...For the World to See, in 2009. <a href=\"http://www.last.fm/music/Death/_/Politicians+in+My+Eyes\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "death metal",
@@ -31,5 +27,11 @@
       "progressive metal",
       "technical death metal"
     ]
+  },
+  "lastfm": {
+    "id": "Death/_/Politicians+in+My+Eyes",
+    "listeners": 96186,
+    "playcount": 500618,
+    "summary": "This song is by a band from Detroit, MI.\n\nIn 1975, Death, the trio of Hackney brothers from Detroit, recorded an album. Predating Bad Brains, Death were an all-black punk group shredding up north. In the band's lifespan, they were able to release one 45, for \"Politicians in My Eyes,\" before breaking up and essentially being lost to history (and insanely rich and reckless record collectors) until a family member found the tapes in an attic and Drag City decided to release the album, ...For the World to See, in 2009. <a href=\"http://www.last.fm/music/Death/_/Politicians+in+My+Eyes\">Read more on Last.fm</a>."
   }
 }

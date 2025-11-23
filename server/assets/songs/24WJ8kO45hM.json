@@ -21,9 +21,6 @@
     "youtubeMusic": "24WJ8kO45hM"
   },
   "mbid": "0cf39ed3-ed43-464a-a6a6-233a55d1869d",
-  "lastfmId": "Built+to+Spill/_/Conventional+Wisdom",
-  "listeners": 103819,
-  "playcount": 469980,
   "artistMbid": "3ac482b8-1494-4071-a0e9-f192f9d2c2b0",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "indie rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Built+to+Spill/_/Conventional+Wisdom",
+    "listeners": 103819,
+    "playcount": 469980
   }
 }

@@ -11,8 +11,10 @@
     "youtube": "VzKm-8VUscQ",
     "youtubeMusic": "VzKm-8VUscQ"
   },
-  "lastfmId": "Tocotronic/_/Jetzt+Geht+Wieder+Alles+Von+Vorne+Los",
-  "listeners": 13305,
-  "playcount": 59132,
-  "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19"
+  "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19",
+  "lastfm": {
+    "id": "Tocotronic/_/Jetzt+Geht+Wieder+Alles+Von+Vorne+Los",
+    "listeners": 13305,
+    "playcount": 59132
+  }
 }

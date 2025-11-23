@@ -17,7 +17,9 @@
     "youtubeMusic": "52rHSC4xjIs"
   },
   "mbid": "322910f8-af3d-4318-9e9a-ef0bf860d06c",
-  "lastfmId": "Grouch+in+Dub/_/Sarva+Dharma",
-  "listeners": 966,
-  "playcount": 3581
+  "lastfm": {
+    "id": "Grouch+in+Dub/_/Sarva+Dharma",
+    "listeners": 966,
+    "playcount": 3581
+  }
 }

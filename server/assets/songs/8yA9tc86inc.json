@@ -3,7 +3,9 @@
   "title": "Liebeslied",
   "artist": "Knorkator",
   "lastFetched": "2025-11-19T12:39:45.126Z",
-  "lastfmId": "Knorkator/_/Liebeslied",
-  "listeners": 648,
-  "playcount": 11838
+  "lastfm": {
+    "id": "Knorkator/_/Liebeslied",
+    "listeners": 648,
+    "playcount": 11838
+  }
 }

@@ -22,8 +22,10 @@
     "youtube": "rTbyd9Bm-xg",
     "youtubeMusic": "rTbyd9Bm-xg"
   },
-  "lastfmId": "James+Marvel/_/Way+Of+The+Warrior+(feat.+MC+Mota)",
-  "listeners": 214,
-  "playcount": 764,
-  "artistMbid": "02db8033-68b5-4312-92c5-7d1c74d151de"
+  "artistMbid": "02db8033-68b5-4312-92c5-7d1c74d151de",
+  "lastfm": {
+    "id": "James+Marvel/_/Way+Of+The+Warrior+(feat.+MC+Mota)",
+    "listeners": 214,
+    "playcount": 764
+  }
 }

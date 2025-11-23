@@ -17,7 +17,9 @@
     "youtube": "ZckaCTKFBXU",
     "youtubeMusic": "ZckaCTKFBXU"
   },
-  "lastfmId": "Kungs/_/Clap+Your+Hands",
-  "listeners": 70077,
-  "playcount": 378649
+  "lastfm": {
+    "id": "Kungs/_/Clap+Your+Hands",
+    "listeners": 70077,
+    "playcount": 378649
+  }
 }

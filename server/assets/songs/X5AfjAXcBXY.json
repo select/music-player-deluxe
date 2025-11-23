@@ -4,11 +4,7 @@
   "artist": "OutKast",
   "lastFetched": "2025-11-19T11:23:45.923Z",
   "mbid": "42b451dd-38c6-4076-bca9-a3f07f4d2327",
-  "lastfmId": "OutKast/_/So+Fresh,+So+Clean",
-  "listeners": 1117374,
-  "playcount": 6874643,
   "artistMbid": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
-  "lastfmSummary": "With a beat courtesy of Organized Noize, 3 Stacks and Daddy Fat Sax get super funky in this \"Stankonia\" classic that embodied swag before swag was even a thing.\n\nThis song samples “Before the Night is Over” by Joe Simon. <a href=\"http://www.last.fm/music/OutKast/_/So+Fresh,+So+Clean\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "Hip-Hop",
@@ -17,5 +13,11 @@
       "outkast",
       "funk"
     ]
+  },
+  "lastfm": {
+    "id": "OutKast/_/So+Fresh,+So+Clean",
+    "listeners": 1117374,
+    "playcount": 6874643,
+    "summary": "With a beat courtesy of Organized Noize, 3 Stacks and Daddy Fat Sax get super funky in this \"Stankonia\" classic that embodied swag before swag was even a thing.\n\nThis song samples “Before the Night is Over” by Joe Simon. <a href=\"http://www.last.fm/music/OutKast/_/So+Fresh,+So+Clean\">Read more on Last.fm</a>."
   }
 }

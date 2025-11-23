@@ -7,9 +7,6 @@
   "duration": 292,
   "youtubeId": "4uX-5HOx2Wc",
   "lastFetched": "2025-11-19T03:55:01.424Z",
-  "lastfmId": "Glenn+Gould/_/The+Art+of+Fugue,+BWV1080:+Contrapunctus+I",
-  "listeners": 10,
-  "playcount": 20,
   "musicbrainz": {
     "artistTags": [
       "baroque",
@@ -17,5 +14,10 @@
       "performer",
       "pianist"
     ]
+  },
+  "lastfm": {
+    "id": "Glenn+Gould/_/The+Art+of+Fugue,+BWV1080:+Contrapunctus+I",
+    "listeners": 10,
+    "playcount": 20
   }
 }

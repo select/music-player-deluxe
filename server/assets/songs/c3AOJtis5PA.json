@@ -13,13 +13,13 @@
     "youtube": "c3AOJtis5PA",
     "youtubeMusic": "c3AOJtis5PA"
   },
-  "lastfmId": "Waldeck/_/The+Night+Garden",
-  "listeners": 37394,
-  "playcount": 95676,
   "lastfm": {
     "title": "The Night Garden",
     "artist": "Waldeck",
     "mbid": "013d6653-2588-4430-b61c-3c0b39bbffa7",
-    "artistMbid": "8f389bf5-a950-4a2f-a962-daf08151ee33"
+    "artistMbid": "8f389bf5-a950-4a2f-a962-daf08151ee33",
+    "id": "Waldeck/_/The+Night+Garden",
+    "listeners": 37394,
+    "playcount": 95676
   }
 }

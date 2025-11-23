@@ -16,9 +16,6 @@
     "youtubeMusic": "oS1Eyok-49M"
   },
   "mbid": "c8909905-c055-41fc-950e-e2e5f9392d18",
-  "lastfmId": "Bilderbuch/_/Kitsch",
-  "listeners": 11124,
-  "playcount": 45465,
   "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "psychedelic rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Bilderbuch/_/Kitsch",
+    "listeners": 11124,
+    "playcount": 45465
   }
 }

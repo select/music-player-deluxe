@@ -15,9 +15,6 @@
     "youtubeMusic": "6Q-OH3PnZxc"
   },
   "mbid": "2eefc464-ec74-496a-bd6d-8459c8dce800",
-  "lastfmId": "Die+%C3%84rzte/_/Meine+Ex(plodierte+Freundin)",
-  "listeners": 41579,
-  "playcount": 215672,
   "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "punk rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Die+%C3%84rzte/_/Meine+Ex(plodierte+Freundin)",
+    "listeners": 41579,
+    "playcount": 215672
   }
 }

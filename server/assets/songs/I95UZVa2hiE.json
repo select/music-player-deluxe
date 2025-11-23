@@ -12,8 +12,10 @@
     "youtube": "I95UZVa2hiE",
     "youtubeMusic": "I95UZVa2hiE"
   },
-  "lastfmId": "Die+H%C3%B6chste+Eisenbahn/_/Vergangenheit",
-  "listeners": 5871,
-  "playcount": 38021,
-  "artistMbid": "0cb26d00-212f-4009-8b45-691a1311e541"
+  "artistMbid": "0cb26d00-212f-4009-8b45-691a1311e541",
+  "lastfm": {
+    "id": "Die+H%C3%B6chste+Eisenbahn/_/Vergangenheit",
+    "listeners": 5871,
+    "playcount": 38021
+  }
 }

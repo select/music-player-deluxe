@@ -21,7 +21,9 @@
     "youtube": "kVanxNR5bv8",
     "youtubeMusic": "kVanxNR5bv8"
   },
-  "lastfmId": "Dom+Valentino/_/Young+Folks",
-  "listeners": 12141,
-  "playcount": 47233
+  "lastfm": {
+    "id": "Dom+Valentino/_/Young+Folks",
+    "listeners": 12141,
+    "playcount": 47233
+  }
 }

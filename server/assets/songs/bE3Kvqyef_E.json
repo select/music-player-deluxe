@@ -15,8 +15,10 @@
     "youtube": "bE3Kvqyef_E",
     "youtubeMusic": "bE3Kvqyef_E"
   },
-  "lastfmId": "Becky+Hill/_/Disconnect",
-  "listeners": 142626,
-  "playcount": 1246812,
-  "artistMbid": "27bc6f5b-4585-49ab-8d7d-c62b59f5f010"
+  "artistMbid": "27bc6f5b-4585-49ab-8d7d-c62b59f5f010",
+  "lastfm": {
+    "id": "Becky+Hill/_/Disconnect",
+    "listeners": 142626,
+    "playcount": 1246812
+  }
 }

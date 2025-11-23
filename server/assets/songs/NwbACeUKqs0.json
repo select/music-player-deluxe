@@ -17,8 +17,10 @@
     "youtube": "NwbACeUKqs0",
     "youtubeMusic": "NwbACeUKqs0"
   },
-  "lastfmId": "Afel+Bocoum/_/FINA+TAWA",
-  "listeners": 370,
-  "playcount": 780,
-  "artistMbid": "d09eb662-bd34-4837-9e74-21afcd5373e3"
+  "artistMbid": "d09eb662-bd34-4837-9e74-21afcd5373e3",
+  "lastfm": {
+    "id": "Afel+Bocoum/_/FINA+TAWA",
+    "listeners": 370,
+    "playcount": 780
+  }
 }

@@ -19,9 +19,6 @@
     "youtubeMusic": "veF8UBTI0f8"
   },
   "name": "Don't You Know",
-  "lastfmId": "Jan+Hammer+Group/_/Don%27t+You+Know",
-  "listeners": 54702,
-  "playcount": 255614,
   "musicbrainz": {
     "tags": [
       "contemporary jazz",
@@ -30,5 +27,10 @@
       "jazz rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Jan+Hammer+Group/_/Don%27t+You+Know",
+    "listeners": 54702,
+    "playcount": 255614
   }
 }

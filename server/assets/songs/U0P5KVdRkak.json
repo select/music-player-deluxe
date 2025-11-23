@@ -22,9 +22,6 @@
     "youtubeMusic": "U0P5KVdRkak"
   },
   "mbid": "1432fb81-db72-458a-ad46-34d3a5e9c9ec",
-  "lastfmId": "Cage+the+Elephant/_/Right+Before+My+Eyes",
-  "listeners": 113940,
-  "playcount": 639119,
   "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
   "musicbrainz": {
     "artistTags": [
@@ -46,5 +43,10 @@
       "garage rock revival",
       "indie rock"
     ]
+  },
+  "lastfm": {
+    "id": "Cage+the+Elephant/_/Right+Before+My+Eyes",
+    "listeners": 113940,
+    "playcount": 639119
   }
 }

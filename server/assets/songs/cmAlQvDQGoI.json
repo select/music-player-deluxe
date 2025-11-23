@@ -11,7 +11,9 @@
     "youtube": "cmAlQvDQGoI",
     "youtubeMusic": "cmAlQvDQGoI"
   },
-  "lastfmId": "King+Gizzard+&+The+Lizard+Wizard/_/Self-Immolate",
-  "listeners": 86650,
-  "playcount": 760578
+  "lastfm": {
+    "id": "King+Gizzard+&+The+Lizard+Wizard/_/Self-Immolate",
+    "listeners": 86650,
+    "playcount": 760578
+  }
 }

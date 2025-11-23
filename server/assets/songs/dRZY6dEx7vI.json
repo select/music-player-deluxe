@@ -21,7 +21,9 @@
     "youtube": "dRZY6dEx7vI",
     "youtubeMusic": "dRZY6dEx7vI"
   },
-  "lastfmId": "Modern+Nature/_/Totality",
-  "listeners": 906,
-  "playcount": 1881
+  "lastfm": {
+    "id": "Modern+Nature/_/Totality",
+    "listeners": 906,
+    "playcount": 1881
+  }
 }

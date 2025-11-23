@@ -20,11 +20,11 @@
     "youtube": "n63UbX5kzAc",
     "youtubeMusic": "n63UbX5kzAc"
   },
-  "lastfmId": "Blind+Guardian/_/The+Bard%27s+Song+-+In+the+Forest",
-  "listeners": 91508,
-  "playcount": 689068,
   "lastfm": {
     "title": "The Bard's Song - In the Forest",
-    "artist": "Blind Guardian"
+    "artist": "Blind Guardian",
+    "id": "Blind+Guardian/_/The+Bard%27s+Song+-+In+the+Forest",
+    "listeners": 91508,
+    "playcount": 689068
   }
 }

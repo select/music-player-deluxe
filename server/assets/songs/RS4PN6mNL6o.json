@@ -13,7 +13,9 @@
     "youtube": "RS4PN6mNL6o",
     "youtubeMusic": "RS4PN6mNL6o"
   },
-  "lastfmId": "Shapeless/_/Ritual+(Harmonika+&+Zanon+&+Maverick+Remix)",
-  "listeners": 10,
-  "playcount": 19
+  "lastfm": {
+    "id": "Shapeless/_/Ritual+(Harmonika+&+Zanon+&+Maverick+Remix)",
+    "listeners": 10,
+    "playcount": 19
+  }
 }

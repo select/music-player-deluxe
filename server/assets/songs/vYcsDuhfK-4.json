@@ -21,9 +21,6 @@
     "youtubeMusic": "vYcsDuhfK-4"
   },
   "mbid": "32f6f624-e56f-4351-8d28-cac562e82ee5",
-  "lastfmId": "The+Night+Flight+Orchestra/_/Star+Of+Rio",
-  "listeners": 15819,
-  "playcount": 81063,
   "artistMbid": "0aa7e8fd-ba08-4a2d-93fc-91baf635072d",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "classic rock",
       "hard rock"
     ]
+  },
+  "lastfm": {
+    "id": "The+Night+Flight+Orchestra/_/Star+Of+Rio",
+    "listeners": 15819,
+    "playcount": 81063
   }
 }

@@ -18,7 +18,9 @@
     "youtube": "-aB2bMqIwNA",
     "youtubeMusic": "-aB2bMqIwNA"
   },
-  "lastfmId": "jon.k/_/Pas+De+Gar%C3%A7on",
-  "listeners": 29,
-  "playcount": 111
+  "lastfm": {
+    "id": "jon.k/_/Pas+De+Gar%C3%A7on",
+    "listeners": 29,
+    "playcount": 111
+  }
 }

@@ -21,9 +21,6 @@
     "youtubeMusic": "QDIUL6T5GQU"
   },
   "mbid": "22a870e3-b2e7-4b76-bdcf-ff0276b85eb3",
-  "lastfmId": "Salif+Keita/_/Mandjou",
-  "listeners": 16389,
-  "playcount": 39104,
   "artistMbid": "b29a24ff-2c55-437e-867b-1456c9f3f73e",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
     "artistGenres": [
       "jùjú"
     ]
+  },
+  "lastfm": {
+    "id": "Salif+Keita/_/Mandjou",
+    "listeners": 16389,
+    "playcount": 39104
   }
 }

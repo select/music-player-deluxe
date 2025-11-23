@@ -11,9 +11,11 @@
     "youtube": "1_uNMy20qAI",
     "youtubeMusic": "1_uNMy20qAI"
   },
-  "lastfmId": "James+Brown/_/Get+Up+Offa+That+Thing",
-  "listeners": 423877,
-  "playcount": 1604628,
   "artistMbid": "20ff3303-4fe2-4a47-a1b6-291e26aa3438",
-  "lastfmSummary": "\"Get Up Offa That Thing\", sometimes subtitled \"(Release the Pressure)\", is a song performed by James Brown, released as a two-part single in 1976 (the B-side, titled \"Release the Pressure\", is actually a continuation of the same song, and also appears on the album of the same name). It was one of Brown's biggest hits in the second half of the 1970s, reaching #4 on the R&B chart, and became a staple of his later live performances.\n\nThe song's lyrics urge the listener to \"Get up offa that thing / and dance 'til you feel better. <a href=\"http://www.last.fm/music/James+Brown/_/Get+Up+Offa+That+Thing\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "James+Brown/_/Get+Up+Offa+That+Thing",
+    "listeners": 423877,
+    "playcount": 1604628,
+    "summary": "\"Get Up Offa That Thing\", sometimes subtitled \"(Release the Pressure)\", is a song performed by James Brown, released as a two-part single in 1976 (the B-side, titled \"Release the Pressure\", is actually a continuation of the same song, and also appears on the album of the same name). It was one of Brown's biggest hits in the second half of the 1970s, reaching #4 on the R&B chart, and became a staple of his later live performances.\n\nThe song's lyrics urge the listener to \"Get up offa that thing / and dance 'til you feel better. <a href=\"http://www.last.fm/music/James+Brown/_/Get+Up+Offa+That+Thing\">Read more on Last.fm</a>."
+  }
 }

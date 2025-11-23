@@ -10,8 +10,10 @@
     "youtube": "O5T_h6jyEKQ",
     "youtubeMusic": "O5T_h6jyEKQ"
   },
-  "lastfmId": "C+Cat+Trance/_/Agnus",
-  "listeners": 114,
-  "playcount": 239,
-  "artistMbid": "162e2239-34ed-44cd-969f-cd2bcf637d54"
+  "artistMbid": "162e2239-34ed-44cd-969f-cd2bcf637d54",
+  "lastfm": {
+    "id": "C+Cat+Trance/_/Agnus",
+    "listeners": 114,
+    "playcount": 239
+  }
 }

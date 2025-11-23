@@ -22,9 +22,6 @@
     "youtubeMusic": "NqBh8hFC5NQ"
   },
   "mbid": "79d85378-2996-4774-9b70-66852c7824f1",
-  "lastfmId": "The+Dead+South/_/Chop+Suey",
-  "listeners": 6625,
-  "playcount": 22774,
   "artistMbid": "ffb316f0-0df3-4f9c-b0e0-945187b6e964",
   "musicbrainz": {
     "artistTags": [
@@ -42,5 +39,10 @@
       "folk rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "The+Dead+South/_/Chop+Suey",
+    "listeners": 6625,
+    "playcount": 22774
   }
 }

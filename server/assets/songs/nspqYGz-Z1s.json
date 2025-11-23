@@ -22,9 +22,6 @@
     "youtubeMusic": "nspqYGz-Z1s"
   },
   "mbid": "882a71e8-2069-4445-a143-6acad0c79b62",
-  "lastfmId": "Jacob+Collier/_/All+Night+Long",
-  "listeners": 1306,
-  "playcount": 3638,
   "artistMbid": "1df15ee0-b52b-4315-9cb9-bc5a27a685e9",
   "musicbrainz": {
     "artistTags": [
@@ -46,5 +43,10 @@
       "crossover jazz",
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "Jacob+Collier/_/All+Night+Long",
+    "listeners": 1306,
+    "playcount": 3638
   }
 }

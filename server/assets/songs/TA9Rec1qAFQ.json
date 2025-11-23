@@ -21,7 +21,9 @@
     "youtube": "TA9Rec1qAFQ",
     "youtubeMusic": "TA9Rec1qAFQ"
   },
-  "lastfmId": "Led+Zeppelin/_/Good+Times+Bad+Times+(remaster)",
-  "listeners": 15130,
-  "playcount": 54423
+  "lastfm": {
+    "id": "Led+Zeppelin/_/Good+Times+Bad+Times+(remaster)",
+    "listeners": 15130,
+    "playcount": 54423
+  }
 }

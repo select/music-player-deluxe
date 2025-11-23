@@ -14,9 +14,6 @@
     "youtubeMusic": "3WGNVeLeO78"
   },
   "mbid": "08424382-40e1-45af-8112-ff1552415334",
-  "lastfmId": "Whodini/_/Magic%27s+Wand",
-  "listeners": 41247,
-  "playcount": 107715,
   "artistMbid": "1cc9fbfc-6221-409f-ac5a-b9373b1f192f",
   "musicbrainz": {
     "artistTags": [
@@ -27,5 +24,10 @@
       "electro",
       "hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "Whodini/_/Magic%27s+Wand",
+    "listeners": 41247,
+    "playcount": 107715
   }
 }

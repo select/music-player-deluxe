@@ -18,8 +18,10 @@
     "youtube": "kMZO134c8zA",
     "youtubeMusic": "kMZO134c8zA"
   },
-  "lastfmId": "I+Am+An+Instrument/_/The+Way+Ahead",
-  "listeners": 365,
-  "playcount": 718,
-  "artistMbid": "cbaa54fc-1664-401d-bba4-e55be54c76b9"
+  "artistMbid": "cbaa54fc-1664-401d-bba4-e55be54c76b9",
+  "lastfm": {
+    "id": "I+Am+An+Instrument/_/The+Way+Ahead",
+    "listeners": 365,
+    "playcount": 718
+  }
 }

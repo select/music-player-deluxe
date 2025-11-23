@@ -13,7 +13,9 @@
     "youtube": "MD1Vql7BanE",
     "youtubeMusic": "MD1Vql7BanE"
   },
-  "lastfmId": "The+Aggrovators/_/The+Inversion",
-  "listeners": 317,
-  "playcount": 724
+  "lastfm": {
+    "id": "The+Aggrovators/_/The+Inversion",
+    "listeners": 317,
+    "playcount": 724
+  }
 }

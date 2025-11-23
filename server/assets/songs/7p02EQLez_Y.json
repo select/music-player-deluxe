@@ -4,8 +4,10 @@
   "artist": "JAY-Z",
   "lastFetched": "2025-11-19T09:41:22.474Z",
   "mbid": "117d268f-dc7d-4903-97a5-803f1229d496",
-  "lastfmId": "JAY-Z/_/Picasso+Baby",
-  "listeners": 119400,
-  "playcount": 514982,
-  "lastfmSummary": "Contains a sample of Adrian Younge’s “Sirens”. On June 10th, Jay-Z spent 6 hours filming for a video at the Pace Gallery – see Verse 3 for more. On June 10th, Jay-Z spent 6 hours filming for a video at the Pace Gallery – see Verse 3 for more. <a href=\"http://www.last.fm/music/JAY-Z/_/Picasso+Baby\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "JAY-Z/_/Picasso+Baby",
+    "listeners": 119400,
+    "playcount": 514982,
+    "summary": "Contains a sample of Adrian Younge’s “Sirens”. On June 10th, Jay-Z spent 6 hours filming for a video at the Pace Gallery – see Verse 3 for more. On June 10th, Jay-Z spent 6 hours filming for a video at the Pace Gallery – see Verse 3 for more. <a href=\"http://www.last.fm/music/JAY-Z/_/Picasso+Baby\">Read more on Last.fm</a>."
+  }
 }

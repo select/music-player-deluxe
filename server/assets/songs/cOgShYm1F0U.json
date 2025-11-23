@@ -15,14 +15,16 @@
     "youtube": "cOgShYm1F0U",
     "youtubeMusic": "cOgShYm1F0U"
   },
-  "lastfmId": "Jah+Wobble/_/Reality+Crash",
-  "listeners": 2749,
-  "playcount": 7450,
   "artistMbid": "904cc1c8-021e-45ac-bbe9-95c01a1f8099",
   "musicbrainz": {
     "tags": [
       "ambient dub",
       "downtempo"
     ]
+  },
+  "lastfm": {
+    "id": "Jah+Wobble/_/Reality+Crash",
+    "listeners": 2749,
+    "playcount": 7450
   }
 }

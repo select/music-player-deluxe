@@ -10,8 +10,10 @@
     "youtube": "eM3XosV8Xd4",
     "youtubeMusic": "eM3XosV8Xd4"
   },
-  "lastfmId": "enta/_/Discipline",
-  "listeners": 47,
-  "playcount": 85,
-  "artistMbid": "8e7c471f-772c-4b92-a992-af182ca46373"
+  "artistMbid": "8e7c471f-772c-4b92-a992-af182ca46373",
+  "lastfm": {
+    "id": "enta/_/Discipline",
+    "listeners": 47,
+    "playcount": 85
+  }
 }

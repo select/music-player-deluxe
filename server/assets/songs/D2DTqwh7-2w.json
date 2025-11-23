@@ -5,8 +5,10 @@
   "youtubeId": "D2DTqwh7-2w",
   "lastFetched": "2025-11-23T15:39:48.972Z",
   "releaseCount": 1,
-  "lastfmId": "Kreiml+&+Samurai/_/Das+Alte+Liedchen",
-  "listeners": 670,
-  "playcount": 2388,
-  "artistMbid": "13e9c991-678e-47cd-805e-97cecfff25c4"
+  "artistMbid": "13e9c991-678e-47cd-805e-97cecfff25c4",
+  "lastfm": {
+    "id": "Kreiml+&+Samurai/_/Das+Alte+Liedchen",
+    "listeners": 670,
+    "playcount": 2388
+  }
 }

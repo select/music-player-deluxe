@@ -12,8 +12,10 @@
     "youtube": "4rbNFpNWp1A",
     "youtubeMusic": "4rbNFpNWp1A"
   },
-  "lastfmId": "Khxos/_/Tambrin",
-  "listeners": 997,
-  "playcount": 5170,
-  "artistMbid": "182d8a50-0e23-4140-8ed7-027dd143cf75"
+  "artistMbid": "182d8a50-0e23-4140-8ed7-027dd143cf75",
+  "lastfm": {
+    "id": "Khxos/_/Tambrin",
+    "listeners": 997,
+    "playcount": 5170
+  }
 }

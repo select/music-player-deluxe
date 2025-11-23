@@ -19,7 +19,9 @@
     "youtubeMusic": "3cGNxvhBGqU"
   },
   "mbid": "d3052331-dde0-4d70-a6e4-9061d8b9990a",
-  "lastfmId": "Amancio+D%27Silva/_/A+Street+In+Bombay",
-  "listeners": 5084,
-  "playcount": 15761
+  "lastfm": {
+    "id": "Amancio+D%27Silva/_/A+Street+In+Bombay",
+    "listeners": 5084,
+    "playcount": 15761
+  }
 }

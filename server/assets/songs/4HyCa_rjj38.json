@@ -13,9 +13,6 @@
     "youtubeMusic": "4HyCa_rjj38"
   },
   "mbid": "89ed5c62-2495-404c-b996-c0fc7d424aad",
-  "lastfmId": "Cell/_/Audio+Deepest+Night",
-  "listeners": 28167,
-  "playcount": 135403,
   "artistMbid": "3c2e2afb-b7e4-4b0f-8a0c-080808c935d3",
   "musicbrainz": {
     "artistTags": [
@@ -24,5 +21,10 @@
     "artistGenres": [
       "psybient"
     ]
+  },
+  "lastfm": {
+    "id": "Cell/_/Audio+Deepest+Night",
+    "listeners": 28167,
+    "playcount": 135403
   }
 }

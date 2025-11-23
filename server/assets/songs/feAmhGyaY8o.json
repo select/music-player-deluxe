@@ -16,9 +16,6 @@
     "youtubeMusic": "feAmhGyaY8o"
   },
   "mbid": "d3871f23-3ca6-425c-aeed-7ab8f4c97853",
-  "lastfmId": "Larkin+Poe/_/Southern+Comfort",
-  "listeners": 5253,
-  "playcount": 24539,
   "artistMbid": "ec5436c4-c44a-47f5-a640-da8d376a3871",
   "musicbrainz": {
     "artistTags": [
@@ -33,5 +30,10 @@
       "folk rock",
       "indie rock"
     ]
+  },
+  "lastfm": {
+    "id": "Larkin+Poe/_/Southern+Comfort",
+    "listeners": 5253,
+    "playcount": 24539
   }
 }

@@ -17,7 +17,9 @@
     "youtube": "NtSBJoO-pqg",
     "youtubeMusic": "NtSBJoO-pqg"
   },
-  "lastfmId": "CVRTOON/_/Plevne",
-  "listeners": 4624,
-  "playcount": 27968
+  "lastfm": {
+    "id": "CVRTOON/_/Plevne",
+    "listeners": 4624,
+    "playcount": 27968
+  }
 }

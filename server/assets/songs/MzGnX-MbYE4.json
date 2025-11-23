@@ -16,11 +16,7 @@
     "youtubeMusic": "MzGnX-MbYE4"
   },
   "mbid": "5be3cea2-34d0-40f7-97fd-b8d771012a23",
-  "lastfmId": "Depeche+Mode/_/People+Are+People",
-  "listeners": 526803,
-  "playcount": 3280492,
   "artistMbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
-  "lastfmSummary": "Written by Martin L. Gore.\nProduced by Daniel Miller & Depeche Mode.\nEngineered by Gareth Jones.\nMixed by Daniel Miller, Gareth Jones & Depeche Mode.\nRecorded at Music Works, London, January 1984.\nMixed at Hansa, Berlin, January 1984. <a href=\"http://www.last.fm/music/Depeche+Mode/_/People+Are+People\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "alternative dance",
@@ -41,5 +37,11 @@
       "electronic",
       "electronic rock"
     ]
+  },
+  "lastfm": {
+    "id": "Depeche+Mode/_/People+Are+People",
+    "listeners": 526803,
+    "playcount": 3280492,
+    "summary": "Written by Martin L. Gore.\nProduced by Daniel Miller & Depeche Mode.\nEngineered by Gareth Jones.\nMixed by Daniel Miller, Gareth Jones & Depeche Mode.\nRecorded at Music Works, London, January 1984.\nMixed at Hansa, Berlin, January 1984. <a href=\"http://www.last.fm/music/Depeche+Mode/_/People+Are+People\">Read more on Last.fm</a>."
   }
 }

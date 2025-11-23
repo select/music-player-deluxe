@@ -11,7 +11,9 @@
     "youtube": "EFo_63tQHe8",
     "youtubeMusic": "EFo_63tQHe8"
   },
-  "lastfmId": "Beanfield/_/Human+Patterns",
-  "listeners": 3603,
-  "playcount": 12318
+  "lastfm": {
+    "id": "Beanfield/_/Human+Patterns",
+    "listeners": 3603,
+    "playcount": 12318
+  }
 }

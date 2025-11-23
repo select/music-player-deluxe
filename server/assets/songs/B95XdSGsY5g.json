@@ -17,7 +17,9 @@
     "youtube": "B95XdSGsY5g",
     "youtubeMusic": "B95XdSGsY5g"
   },
-  "lastfmId": "Linalab/_/Far",
-  "listeners": 36,
-  "playcount": 89
+  "lastfm": {
+    "id": "Linalab/_/Far",
+    "listeners": 36,
+    "playcount": 89
+  }
 }

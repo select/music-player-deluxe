@@ -10,8 +10,10 @@
     "youtube": "aq89bjM08OM",
     "youtubeMusic": "aq89bjM08OM"
   },
-  "lastfmId": "Jazzbois/_/Caterpillar",
-  "listeners": 4213,
-  "playcount": 9667,
-  "artistMbid": "34197023-e96c-4607-aa7b-903a0ec877df"
+  "artistMbid": "34197023-e96c-4607-aa7b-903a0ec877df",
+  "lastfm": {
+    "id": "Jazzbois/_/Caterpillar",
+    "listeners": 4213,
+    "playcount": 9667
+  }
 }

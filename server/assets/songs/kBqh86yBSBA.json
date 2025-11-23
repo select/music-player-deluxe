@@ -16,13 +16,15 @@
     "youtube": "kBqh86yBSBA",
     "youtubeMusic": "kBqh86yBSBA"
   },
-  "lastfmId": "Sn%C3%B5%C3%B5per/_/Running",
-  "listeners": 57416,
-  "playcount": 249375,
   "artistMbid": "f2bc8767-3737-482c-a22f-8b11ce2b74b8",
   "musicbrainz": {
     "artistTags": [
       "egg punk"
     ]
+  },
+  "lastfm": {
+    "id": "Sn%C3%B5%C3%B5per/_/Running",
+    "listeners": 57416,
+    "playcount": 249375
   }
 }

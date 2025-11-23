@@ -11,8 +11,10 @@
     "youtube": "SSWf6nYD3Zc",
     "youtubeMusic": "SSWf6nYD3Zc"
   },
-  "lastfmId": "Haress/_/Litres+Into+Metres+-+Susurrus",
-  "listeners": 539,
-  "playcount": 1322,
-  "artistMbid": "e17ab961-5e3a-4f9f-bf23-52fd5ee6821e"
+  "artistMbid": "e17ab961-5e3a-4f9f-bf23-52fd5ee6821e",
+  "lastfm": {
+    "id": "Haress/_/Litres+Into+Metres+-+Susurrus",
+    "listeners": 539,
+    "playcount": 1322
+  }
 }

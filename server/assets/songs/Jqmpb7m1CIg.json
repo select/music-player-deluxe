@@ -4,11 +4,7 @@
   "artist": "Papa Roach",
   "lastFetched": "2025-11-19T08:16:09.592Z",
   "mbid": "93c11c66-d48e-4dab-a065-2c318c95cc93",
-  "lastfmId": "Papa+Roach/_/Last+Resort",
-  "listeners": 1734028,
-  "playcount": 15169959,
   "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
-  "lastfmSummary": "\"Last Resort\" is the debut single from Californian rock band Papa Roach's second album Infest. It is the theme song to both the series True Life and Made on MTV. The song was very popular and a huge success and shot the band into the mainstream. The song charted on many charts around the world and reached number 1 on the U.S. Modern Rock Tracks, number 57 on the U.S. Billboard Hot 100, and number 3 on the UK Singles Chart, and still receives high radio play to this day. <a href=\"http://www.last.fm/music/Papa+Roach/_/Last+Resort\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "rock",
@@ -17,5 +13,11 @@
       "metal",
       "Papa Roach"
     ]
+  },
+  "lastfm": {
+    "id": "Papa+Roach/_/Last+Resort",
+    "listeners": 1734028,
+    "playcount": 15169959,
+    "summary": "\"Last Resort\" is the debut single from Californian rock band Papa Roach's second album Infest. It is the theme song to both the series True Life and Made on MTV. The song was very popular and a huge success and shot the band into the mainstream. The song charted on many charts around the world and reached number 1 on the U.S. Modern Rock Tracks, number 57 on the U.S. Billboard Hot 100, and number 3 on the UK Singles Chart, and still receives high radio play to this day. <a href=\"http://www.last.fm/music/Papa+Roach/_/Last+Resort\">Read more on Last.fm</a>."
   }
 }

@@ -3,7 +3,9 @@
   "title": "Free Soul",
   "artist": "John Klemmer",
   "lastFetched": "2025-11-19T14:18:50.842Z",
-  "lastfmId": "John+Klemmer/_/Free+Soul",
-  "listeners": 7012,
-  "playcount": 20653
+  "lastfm": {
+    "id": "John+Klemmer/_/Free+Soul",
+    "listeners": 7012,
+    "playcount": 20653
+  }
 }

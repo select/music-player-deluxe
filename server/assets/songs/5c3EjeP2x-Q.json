@@ -17,11 +17,7 @@
     "youtubeMusic": "5c3EjeP2x-Q"
   },
   "mbid": "753b8762-2f20-495d-9571-bc1be26a978c",
-  "lastfmId": "The+Strokes/_/Eternal+Summer",
-  "listeners": 376551,
-  "playcount": 3372441,
   "artistMbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
-  "lastfmSummary": "The fifth song on the album, \"Eternal Summer\" encapsulates the feeling of eternal bliss, and perhaps the faults that it has. Here summer is an eternal force, that makes everyone involved notice the effects it has. Throughout the song Julian Casablancas states this, realizing how “this is a fantasy” and how “pillars like time are fading away”. Unintentionally encapsulating the quarantine experience, it shows how novelty wears off eventually. <a href=\"http://www.last.fm/music/The+Strokes/_/Eternal+Summer\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "indie rock",
@@ -30,5 +26,11 @@
       "synthpop",
       "synth pop"
     ]
+  },
+  "lastfm": {
+    "id": "The+Strokes/_/Eternal+Summer",
+    "listeners": 376551,
+    "playcount": 3372441,
+    "summary": "The fifth song on the album, \"Eternal Summer\" encapsulates the feeling of eternal bliss, and perhaps the faults that it has. Here summer is an eternal force, that makes everyone involved notice the effects it has. Throughout the song Julian Casablancas states this, realizing how “this is a fantasy” and how “pillars like time are fading away”. Unintentionally encapsulating the quarantine experience, it shows how novelty wears off eventually. <a href=\"http://www.last.fm/music/The+Strokes/_/Eternal+Summer\">Read more on Last.fm</a>."
   }
 }

@@ -15,9 +15,6 @@
     "youtubeMusic": "k8tHJmkBSNI"
   },
   "mbid": "3e91eac8-8a7a-44e7-bc66-08cc97b20490",
-  "lastfmId": "Black+Sun+Empire/_/Breach+(The+Upbeats+Remix)",
-  "listeners": 2370,
-  "playcount": 8143,
   "artistMbid": "76a2eaff-b6ad-483a-a427-d3a2aa3c4f8f",
   "musicbrainz": {
     "artistTags": [
@@ -34,5 +31,10 @@
       "neurofunk",
       "techstep"
     ]
+  },
+  "lastfm": {
+    "id": "Black+Sun+Empire/_/Breach+(The+Upbeats+Remix)",
+    "listeners": 2370,
+    "playcount": 8143
   }
 }

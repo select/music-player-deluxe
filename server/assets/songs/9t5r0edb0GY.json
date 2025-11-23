@@ -11,8 +11,10 @@
     "youtube": "9t5r0edb0GY",
     "youtubeMusic": "9t5r0edb0GY"
   },
-  "lastfmId": "Sam+Akpro/_/Disposition",
-  "listeners": 2305,
-  "playcount": 5010,
-  "artistMbid": "44bc4b22-c06a-42ac-9493-c48079831572"
+  "artistMbid": "44bc4b22-c06a-42ac-9493-c48079831572",
+  "lastfm": {
+    "id": "Sam+Akpro/_/Disposition",
+    "listeners": 2305,
+    "playcount": 5010
+  }
 }

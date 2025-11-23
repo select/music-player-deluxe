@@ -18,7 +18,9 @@
     "youtube": "SG16aDIyvwo",
     "youtubeMusic": "SG16aDIyvwo"
   },
-  "lastfmId": "Bochum+Welt/_/La+Nuit+(Original+Mix)",
-  "listeners": 92,
-  "playcount": 203
+  "lastfm": {
+    "id": "Bochum+Welt/_/La+Nuit+(Original+Mix)",
+    "listeners": 92,
+    "playcount": 203
+  }
 }

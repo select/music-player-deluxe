@@ -13,8 +13,10 @@
     "youtube": "o9YezPSmFpQ",
     "youtubeMusic": "o9YezPSmFpQ"
   },
-  "lastfmId": "Donato+Dozzy/_/Vaporware+07",
-  "listeners": 9701,
-  "playcount": 35283,
-  "artistMbid": "4a2a0d6b-d871-400b-8d61-bf544854bdf6"
+  "artistMbid": "4a2a0d6b-d871-400b-8d61-bf544854bdf6",
+  "lastfm": {
+    "id": "Donato+Dozzy/_/Vaporware+07",
+    "listeners": 9701,
+    "playcount": 35283
+  }
 }

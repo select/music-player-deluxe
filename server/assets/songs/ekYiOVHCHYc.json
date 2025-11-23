@@ -19,9 +19,6 @@
     "youtubeMusic": "ekYiOVHCHYc"
   },
   "mbid": "2219e28f-8ab9-4807-ba0d-deeb14cd6533",
-  "lastfmId": "Joint+Venture/_/Haschisch+rauchen+macht+harmlos",
-  "listeners": 7570,
-  "playcount": 34545,
   "artistMbid": "15b8992f-4971-404e-afab-2fe8cbcbd61a",
   "musicbrainz": {
     "artistTags": [
@@ -33,5 +30,10 @@
       "liedermacher",
       "singer-songwriter"
     ]
+  },
+  "lastfm": {
+    "id": "Joint+Venture/_/Haschisch+rauchen+macht+harmlos",
+    "listeners": 7570,
+    "playcount": 34545
   }
 }

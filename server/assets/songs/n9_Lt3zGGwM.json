@@ -11,7 +11,9 @@
     "youtube": "n9_Lt3zGGwM",
     "youtubeMusic": "n9_Lt3zGGwM"
   },
-  "lastfmId": "Leland+Whitty/_/Windows",
-  "listeners": 10158,
-  "playcount": 29011
+  "lastfm": {
+    "id": "Leland+Whitty/_/Windows",
+    "listeners": 10158,
+    "playcount": 29011
+  }
 }

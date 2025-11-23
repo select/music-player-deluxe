@@ -16,13 +16,15 @@
     "youtube": "0jEoRZ7hRtw",
     "youtubeMusic": "0jEoRZ7hRtw"
   },
-  "lastfmId": "Harumi/_/Fire+By+The+River",
-  "listeners": 51942,
-  "playcount": 213075,
   "musicbrainz": {
     "tags": [
       "psychedelic rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Harumi/_/Fire+By+The+River",
+    "listeners": 51942,
+    "playcount": 213075
   }
 }

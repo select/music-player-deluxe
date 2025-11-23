@@ -18,9 +18,6 @@
     "youtubeMusic": "FBqYsRdglnY"
   },
   "mbid": "02755536-a9cd-45e3-b4b1-2e001a820943",
-  "lastfmId": "Jos%C3%A9+Gonz%C3%A1lez/_/The+Forest",
-  "listeners": 56579,
-  "playcount": 202135,
   "artistMbid": "cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "indie rock",
       "singer-songwriter"
     ]
+  },
+  "lastfm": {
+    "id": "Jos%C3%A9+Gonz%C3%A1lez/_/The+Forest",
+    "listeners": 56579,
+    "playcount": 202135
   }
 }

@@ -13,7 +13,9 @@
     "youtube": "pfQXWJ6R4fM",
     "youtubeMusic": "pfQXWJ6R4fM"
   },
-  "lastfmId": "Nato+(FR)/_/Bango",
-  "listeners": 12,
-  "playcount": 17
+  "lastfm": {
+    "id": "Nato+(FR)/_/Bango",
+    "listeners": 12,
+    "playcount": 17
+  }
 }

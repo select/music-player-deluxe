@@ -19,9 +19,6 @@
     "youtubeMusic": "aKD-T-IHBl8"
   },
   "mbid": "b6571dec-8ec8-484a-903c-2c2bd6a38b4c",
-  "lastfmId": "Tocotronic/_/Die+Welt+Kann+Mich+Nicht+Mehr+Verstehen",
-  "listeners": 34074,
-  "playcount": 214449,
   "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "indie rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Tocotronic/_/Die+Welt+Kann+Mich+Nicht+Mehr+Verstehen",
+    "listeners": 34074,
+    "playcount": 214449
   }
 }

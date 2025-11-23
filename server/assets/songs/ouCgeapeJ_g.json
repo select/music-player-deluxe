@@ -17,9 +17,6 @@
     "youtube": "ouCgeapeJ_g",
     "youtubeMusic": "ouCgeapeJ_g"
   },
-  "lastfmId": "Helge+Schneider/_/Heute+hab+ich+gute+Laune",
-  "listeners": 4188,
-  "playcount": 12710,
   "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "kabarett",
       "spoken word"
     ]
+  },
+  "lastfm": {
+    "id": "Helge+Schneider/_/Heute+hab+ich+gute+Laune",
+    "listeners": 4188,
+    "playcount": 12710
   }
 }

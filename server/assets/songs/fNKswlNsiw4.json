@@ -12,9 +12,6 @@
     "youtubeMusic": "fNKswlNsiw4"
   },
   "mbid": "36f6abdb-c4bb-4d01-a82c-cb2d864cdaad",
-  "lastfmId": "Fettes+Brot/_/Das+letzte+Lied+auf+der+Welt",
-  "listeners": 3957,
-  "playcount": 15807,
   "artistMbid": "733e7372-5400-4c79-9059-33e2b2262d01",
   "musicbrainz": {
     "artistTags": [
@@ -24,5 +21,10 @@
     "artistGenres": [
       "hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "Fettes+Brot/_/Das+letzte+Lied+auf+der+Welt",
+    "listeners": 3957,
+    "playcount": 15807
   }
 }

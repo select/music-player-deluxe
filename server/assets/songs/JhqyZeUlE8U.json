@@ -16,11 +16,7 @@
     "youtubeMusic": "JhqyZeUlE8U"
   },
   "mbid": "7933198b-c23d-3f43-a242-2deae1235815",
-  "lastfmId": "Beastie+Boys/_/Sure+Shot",
-  "listeners": 511650,
-  "playcount": 2544414,
   "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
-  "lastfmSummary": "\"Sure Shot\" is a song by American hip hop group Beastie Boys, released as the third single from their fourth album \"Ill Communication\" on June 2, 1994, two days after the album's release. The track features a sample from jazz flautist Jeremy Steig's \"Howlin' For Judy\", which provides the main instrumental part of the song.\n\nThe CD and cassette maxi single (with a total of 7 tracks) features three remixes of the title track, by Large Professor, Mike Nardone and Dred Scott, and the Prunes, respectively. <a href=\"http://www.last.fm/music/Beastie+Boys/_/Sure+Shot\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "alternative hip hop",
@@ -41,5 +37,11 @@
       "experimental hip hop",
       "funk"
     ]
+  },
+  "lastfm": {
+    "id": "Beastie+Boys/_/Sure+Shot",
+    "listeners": 511650,
+    "playcount": 2544414,
+    "summary": "\"Sure Shot\" is a song by American hip hop group Beastie Boys, released as the third single from their fourth album \"Ill Communication\" on June 2, 1994, two days after the album's release. The track features a sample from jazz flautist Jeremy Steig's \"Howlin' For Judy\", which provides the main instrumental part of the song.\n\nThe CD and cassette maxi single (with a total of 7 tracks) features three remixes of the title track, by Large Professor, Mike Nardone and Dred Scott, and the Prunes, respectively. <a href=\"http://www.last.fm/music/Beastie+Boys/_/Sure+Shot\">Read more on Last.fm</a>."
   }
 }

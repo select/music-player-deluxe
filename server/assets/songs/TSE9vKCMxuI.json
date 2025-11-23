@@ -12,9 +12,6 @@
     "youtubeMusic": "TSE9vKCMxuI"
   },
   "mbid": "1ecb6fbe-f9c8-4bf3-be8f-d64f0f744a95",
-  "lastfmId": "Muse/_/Fillip",
-  "listeners": 418387,
-  "playcount": 2592891,
   "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "art rock",
       "neo-progressive rock"
     ]
+  },
+  "lastfm": {
+    "id": "Muse/_/Fillip",
+    "listeners": 418387,
+    "playcount": 2592891
   }
 }

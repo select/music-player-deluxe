@@ -24,14 +24,16 @@
     "youtube": "YXda45LBLyM",
     "youtubeMusic": "YXda45LBLyM"
   },
-  "lastfmId": "Branko+Mataja/_/Tebi+Majko+Misli+Lete",
-  "listeners": 7782,
-  "playcount": 23025,
   "artistMbid": "2a7824e3-7363-499d-bcfd-33c60a5d1889",
   "musicbrainz": {
     "artistTags": [
       "balkan music",
       "slavic folk music"
     ]
+  },
+  "lastfm": {
+    "id": "Branko+Mataja/_/Tebi+Majko+Misli+Lete",
+    "listeners": 7782,
+    "playcount": 23025
   }
 }

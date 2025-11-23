@@ -18,12 +18,14 @@
     "youtube": "B9XpmVM81XM",
     "youtubeMusic": "B9XpmVM81XM"
   },
-  "lastfmId": "I+Am+Legion/_/Make+Those+Move",
-  "listeners": 21621,
-  "playcount": 138263,
   "musicbrainz": {
     "tags": [
       "grime"
     ]
+  },
+  "lastfm": {
+    "id": "I+Am+Legion/_/Make+Those+Move",
+    "listeners": 21621,
+    "playcount": 138263
   }
 }

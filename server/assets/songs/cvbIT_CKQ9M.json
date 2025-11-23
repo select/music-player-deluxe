@@ -17,9 +17,6 @@
     "youtubeMusic": "cvbIT_CKQ9M"
   },
   "mbid": "d810c7fd-51b4-42a3-9d33-8de225b11fc1",
-  "lastfmId": "Disclosure/_/Higher+Than+Ever+Before",
-  "listeners": 73619,
-  "playcount": 358024,
   "artistMbid": "962419b3-51c6-464d-acd5-b43f88429d85",
   "musicbrainz": {
     "tags": [
@@ -32,5 +29,10 @@
       "electro",
       "jungle"
     ]
+  },
+  "lastfm": {
+    "id": "Disclosure/_/Higher+Than+Ever+Before",
+    "listeners": 73619,
+    "playcount": 358024
   }
 }

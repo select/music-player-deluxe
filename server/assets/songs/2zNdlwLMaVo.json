@@ -13,7 +13,9 @@
     "youtube": "2zNdlwLMaVo",
     "youtubeMusic": "2zNdlwLMaVo"
   },
-  "lastfmId": "Lazuli/_/Kesta",
-  "listeners": 172,
-  "playcount": 691
+  "lastfm": {
+    "id": "Lazuli/_/Kesta",
+    "listeners": 172,
+    "playcount": 691
+  }
 }

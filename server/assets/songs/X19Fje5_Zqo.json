@@ -3,7 +3,9 @@
   "title": "Burn One Down",
   "artist": "Ben Harper",
   "lastFetched": "2025-11-19T12:20:54.500Z",
-  "lastfmId": "Ben+Harper/_/Burn+One+Down",
-  "listeners": 310476,
-  "playcount": 1327328
+  "lastfm": {
+    "id": "Ben+Harper/_/Burn+One+Down",
+    "listeners": 310476,
+    "playcount": 1327328
+  }
 }

@@ -22,9 +22,6 @@
     "youtubeMusic": "4QHxd2Y2ZIg"
   },
   "mbid": "46db24ca-fc47-4744-b210-9179fa23e9b6",
-  "lastfmId": "Das+Lumpenpack/_/Mark",
-  "listeners": 3357,
-  "playcount": 20513,
   "artistMbid": "52b08164-7002-4eb8-a68f-bd7f42d73346",
   "musicbrainz": {
     "artistTags": [
@@ -33,5 +30,10 @@
     "artistGenres": [
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Das+Lumpenpack/_/Mark",
+    "listeners": 3357,
+    "playcount": 20513
   }
 }

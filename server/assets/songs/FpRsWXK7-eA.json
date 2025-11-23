@@ -20,7 +20,9 @@
     "youtubeMusic": "FpRsWXK7-eA"
   },
   "mbid": "aa59f441-590b-4d35-90a4-b35c68f5c5e4",
-  "lastfmId": "Ostbahn-Kurti+&+Die+Chefpartie/_/Arbeit",
-  "listeners": 1045,
-  "playcount": 4277
+  "lastfm": {
+    "id": "Ostbahn-Kurti+&+Die+Chefpartie/_/Arbeit",
+    "listeners": 1045,
+    "playcount": 4277
+  }
 }

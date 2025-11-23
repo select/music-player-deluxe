@@ -22,9 +22,6 @@
     "youtube": "dEtNa74GU0E",
     "youtubeMusic": "dEtNa74GU0E"
   },
-  "lastfmId": "Art+Pepper/_/Patricia",
-  "listeners": 21072,
-  "playcount": 58521,
   "artistMbid": "266b9126-4a40-4b9b-b21e-422d72e64254",
   "musicbrainz": {
     "artistTags": [
@@ -45,5 +42,10 @@
       "jazz",
       "post-bop"
     ]
+  },
+  "lastfm": {
+    "id": "Art+Pepper/_/Patricia",
+    "listeners": 21072,
+    "playcount": 58521
   }
 }

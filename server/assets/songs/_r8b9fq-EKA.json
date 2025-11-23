@@ -6,9 +6,6 @@
   "youtubeId": "_r8b9fq-EKA",
   "lastFetched": "2025-11-19T03:31:06.783Z",
   "releaseCount": 1,
-  "lastfmId": "Trentem%C3%B8ller/_/Chameleon",
-  "listeners": 62079,
-  "playcount": 349686,
   "artistMbid": "95e9aba6-f85c-48a0-9ec9-395d4f0e3875",
   "musicbrainz": {
     "tags": [
@@ -25,5 +22,10 @@
       "tech house",
       "techno"
     ]
+  },
+  "lastfm": {
+    "id": "Trentem%C3%B8ller/_/Chameleon",
+    "listeners": 62079,
+    "playcount": 349686
   }
 }

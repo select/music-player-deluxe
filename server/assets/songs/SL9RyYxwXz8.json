@@ -19,8 +19,10 @@
     "youtube": "SL9RyYxwXz8",
     "youtubeMusic": "SL9RyYxwXz8"
   },
-  "lastfmId": "Subway+to+Sally/_/Der+Sturm",
-  "listeners": 18050,
-  "playcount": 115137,
-  "artistMbid": "5533fa1c-4102-4ae7-92ae-78dddb17fe7f"
+  "artistMbid": "5533fa1c-4102-4ae7-92ae-78dddb17fe7f",
+  "lastfm": {
+    "id": "Subway+to+Sally/_/Der+Sturm",
+    "listeners": 18050,
+    "playcount": 115137
+  }
 }

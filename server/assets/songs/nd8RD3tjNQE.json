@@ -7,9 +7,6 @@
   "duration": 132,
   "youtubeId": "nd8RD3tjNQE",
   "lastFetched": "2025-11-19T04:00:06.989Z",
-  "lastfmId": "bleu+soleil/_/Soleil+Bleu+(Radio+Edit)",
-  "listeners": 42,
-  "playcount": 183,
   "musicbrainz": {
     "artistTags": [
       "bass music",
@@ -19,5 +16,10 @@
       "pop",
       "reggae."
     ]
+  },
+  "lastfm": {
+    "id": "bleu+soleil/_/Soleil+Bleu+(Radio+Edit)",
+    "listeners": 42,
+    "playcount": 183
   }
 }

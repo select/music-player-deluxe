@@ -18,8 +18,10 @@
     "youtube": "417a8410GUQ",
     "youtubeMusic": "417a8410GUQ"
   },
-  "lastfmId": "Dj+BeBeDeRa/_/Tarraxo+Guetto+Muita+Liamba",
-  "listeners": 208,
-  "playcount": 431,
-  "artistMbid": "20ed7c79-7ce8-48be-8a9c-35c3bcbc6218"
+  "artistMbid": "20ed7c79-7ce8-48be-8a9c-35c3bcbc6218",
+  "lastfm": {
+    "id": "Dj+BeBeDeRa/_/Tarraxo+Guetto+Muita+Liamba",
+    "listeners": 208,
+    "playcount": 431
+  }
 }

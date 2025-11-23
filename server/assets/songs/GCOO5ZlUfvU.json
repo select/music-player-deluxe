@@ -10,11 +10,7 @@
     "youtubeMusic": "GCOO5ZlUfvU"
   },
   "mbid": "7b138df0-b4aa-4647-adb3-2bed43420648",
-  "lastfmId": "Jimmy+Eat+World/_/A+Praise+Chorus",
-  "listeners": 420802,
-  "playcount": 2894896,
   "artistMbid": "bbc5b66b-d037-4f26-aecf-0b129e7f876a",
-  "lastfmSummary": "\"A Praise Chorus\" is a song by Jimmy Eat World. It was the fourth single released from the band's 2001 album Bleed American, which was later retitled Jimmy Eat World.\nWith its carpe diem theme, the song has been described as a \"celebration of adulthood\". After the second stanza, seven songs become the \"praise chorus\" of the title. The first is sung continuously in the background; the other six are sung over this background-vocal track. During live performances <a href=\"http://www.last.fm/music/Jimmy+Eat+World/_/A+Praise+Chorus\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -35,5 +31,11 @@
       "indie rock",
       "pop punk"
     ]
+  },
+  "lastfm": {
+    "id": "Jimmy+Eat+World/_/A+Praise+Chorus",
+    "listeners": 420802,
+    "playcount": 2894896,
+    "summary": "\"A Praise Chorus\" is a song by Jimmy Eat World. It was the fourth single released from the band's 2001 album Bleed American, which was later retitled Jimmy Eat World.\nWith its carpe diem theme, the song has been described as a \"celebration of adulthood\". After the second stanza, seven songs become the \"praise chorus\" of the title. The first is sung continuously in the background; the other six are sung over this background-vocal track. During live performances <a href=\"http://www.last.fm/music/Jimmy+Eat+World/_/A+Praise+Chorus\">Read more on Last.fm</a>."
   }
 }

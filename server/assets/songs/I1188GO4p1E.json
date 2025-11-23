@@ -3,7 +3,9 @@
   "title": "Get Schwifty",
   "artist": "Rick and Morty",
   "lastFetched": "2025-11-19T10:32:47.416Z",
-  "lastfmId": "Rick+and+Morty/_/Get+Schwifty",
-  "listeners": 1218,
-  "playcount": 3748
+  "lastfm": {
+    "id": "Rick+and+Morty/_/Get+Schwifty",
+    "listeners": 1218,
+    "playcount": 3748
+  }
 }

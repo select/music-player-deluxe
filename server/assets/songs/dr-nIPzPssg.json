@@ -4,8 +4,10 @@
   "artist": "Esa",
   "lastFetched": "2025-11-19T10:22:36.224Z",
   "mbid": "6c1648eb-a3d2-4aba-a457-bb5f7af69e73",
-  "lastfmId": "Esa/_/Nie+wieder",
-  "listeners": 510,
-  "playcount": 3876,
-  "artistMbid": "271646d9-1fed-4bfe-9e85-5b8993133e5a"
+  "artistMbid": "271646d9-1fed-4bfe-9e85-5b8993133e5a",
+  "lastfm": {
+    "id": "Esa/_/Nie+wieder",
+    "listeners": 510,
+    "playcount": 3876
+  }
 }

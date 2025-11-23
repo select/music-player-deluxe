@@ -14,8 +14,10 @@
     "youtube": "71qoLvXcUsU",
     "youtubeMusic": "71qoLvXcUsU"
   },
-  "lastfmId": "Lutan+Fyah/_/Criminal",
-  "listeners": 1313,
-  "playcount": 5704,
-  "artistMbid": "cc416d17-54de-4fdb-9fc9-db59cdaf079f"
+  "artistMbid": "cc416d17-54de-4fdb-9fc9-db59cdaf079f",
+  "lastfm": {
+    "id": "Lutan+Fyah/_/Criminal",
+    "listeners": 1313,
+    "playcount": 5704
+  }
 }

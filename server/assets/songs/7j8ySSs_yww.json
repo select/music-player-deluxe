@@ -12,8 +12,10 @@
     "youtube": "7j8ySSs_yww",
     "youtubeMusic": "7j8ySSs_yww"
   },
-  "lastfmId": "Chase+&+Status/_/Weed+&+Rum",
-  "listeners": 25224,
-  "playcount": 118856,
-  "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+  "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+  "lastfm": {
+    "id": "Chase+&+Status/_/Weed+&+Rum",
+    "listeners": 25224,
+    "playcount": 118856
+  }
 }

@@ -18,13 +18,15 @@
     "youtube": "UVscbKlmtEQ",
     "youtubeMusic": "UVscbKlmtEQ"
   },
-  "lastfmId": "Fernando+Gelbard/_/Didi+(Hola+Didi)",
-  "listeners": 166,
-  "playcount": 398,
   "artistMbid": "4370ac19-3c99-4f60-8223-d644007b866d",
   "musicbrainz": {
     "artistTags": [
       "jazz and blues"
     ]
+  },
+  "lastfm": {
+    "id": "Fernando+Gelbard/_/Didi+(Hola+Didi)",
+    "listeners": 166,
+    "playcount": 398
   }
 }

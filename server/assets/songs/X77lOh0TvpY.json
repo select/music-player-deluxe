@@ -19,9 +19,6 @@
     "youtube": "X77lOh0TvpY",
     "youtubeMusic": "X77lOh0TvpY"
   },
-  "lastfmId": "Ian+Carr/_/Roots",
-  "listeners": 13751,
-  "playcount": 42082,
   "artistMbid": "69a178fa-34d5-4283-9aed-691a2d5fc45d",
   "musicbrainz": {
     "artistTags": [
@@ -30,5 +27,10 @@
     "artistGenres": [
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Ian+Carr/_/Roots",
+    "listeners": 13751,
+    "playcount": 42082
   }
 }

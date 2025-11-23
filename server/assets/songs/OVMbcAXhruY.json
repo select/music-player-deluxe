@@ -7,9 +7,6 @@
   "lastFetched": "2025-11-19T01:37:55.753Z",
   "releaseCount": 1,
   "name": "36grad",
-  "lastfmId": "2raumwohnung/_/36grad",
-  "listeners": 45055,
-  "playcount": 241286,
   "artistMbid": "5579a23d-c411-4930-987d-ff89d77c1c12",
   "musicbrainz": {
     "tags": [
@@ -19,5 +16,10 @@
       "melodic house & techno",
       "pop"
     ]
+  },
+  "lastfm": {
+    "id": "2raumwohnung/_/36grad",
+    "listeners": 45055,
+    "playcount": 241286
   }
 }

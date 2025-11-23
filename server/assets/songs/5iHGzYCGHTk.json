@@ -19,7 +19,9 @@
     "youtube": "5iHGzYCGHTk",
     "youtubeMusic": "5iHGzYCGHTk"
   },
-  "lastfmId": "ist+ist/_/Stamp+You+Out",
-  "listeners": 5204,
-  "playcount": 16872
+  "lastfm": {
+    "id": "ist+ist/_/Stamp+You+Out",
+    "listeners": 5204,
+    "playcount": 16872
+  }
 }

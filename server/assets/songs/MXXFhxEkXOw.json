@@ -20,7 +20,9 @@
     "youtube": "MXXFhxEkXOw",
     "youtubeMusic": "MXXFhxEkXOw"
   },
-  "lastfmId": "Flox/_/Spices+And+Herbs",
-  "listeners": 116,
-  "playcount": 331
+  "lastfm": {
+    "id": "Flox/_/Spices+And+Herbs",
+    "listeners": 116,
+    "playcount": 331
+  }
 }

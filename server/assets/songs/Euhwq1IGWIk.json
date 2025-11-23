@@ -13,9 +13,6 @@
     "youtubeMusic": "Euhwq1IGWIk"
   },
   "mbid": "13ca2735-b9a0-45c1-bbb2-fdc3c4ffc41c",
-  "lastfmId": "Tangerine+Dream/_/Invisible+Limits",
-  "listeners": 29440,
-  "playcount": 89433,
   "artistMbid": "23d8426c-18c7-46e6-a51d-7395bd43c641",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "krautrock",
       "new age"
     ]
+  },
+  "lastfm": {
+    "id": "Tangerine+Dream/_/Invisible+Limits",
+    "listeners": 29440,
+    "playcount": 89433
   }
 }

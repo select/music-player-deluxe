@@ -16,9 +16,6 @@
     "youtubeMusic": "QpDq4RfeYsw"
   },
   "mbid": "1e77ae7c-02a9-48be-b9bd-12d8f6daf971",
-  "lastfmId": "Black+Label+Society/_/You+Made+Me+Want+to+Live",
-  "listeners": 16056,
-  "playcount": 60481,
   "artistMbid": "a8e935c6-3fcc-414c-900c-77e8170e7e7c",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "heavy metal",
       "metal"
     ]
+  },
+  "lastfm": {
+    "id": "Black+Label+Society/_/You+Made+Me+Want+to+Live",
+    "listeners": 16056,
+    "playcount": 60481
   }
 }

@@ -18,7 +18,9 @@
     "youtube": "hpNxRo6oboI",
     "youtubeMusic": "hpNxRo6oboI"
   },
-  "lastfmId": "James+Brown/_/Ain%27t+It+Funky+Now+(Parts+1+and+2)",
-  "listeners": 4477,
-  "playcount": 10579
+  "lastfm": {
+    "id": "James+Brown/_/Ain%27t+It+Funky+Now+(Parts+1+and+2)",
+    "listeners": 4477,
+    "playcount": 10579
+  }
 }

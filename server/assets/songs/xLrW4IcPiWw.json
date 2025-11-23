@@ -17,9 +17,6 @@
     "youtubeMusic": "xLrW4IcPiWw"
   },
   "mbid": "1dee7f33-4774-35d0-9e49-1fe9e4dcb5ce",
-  "lastfmId": "Control+Machete/_/Comprendes,+Mendes%3F",
-  "listeners": 66956,
-  "playcount": 449826,
   "artistMbid": "38c8254f-ceac-460d-9123-5af2d7a4fc7e",
   "musicbrainz": {
     "artistTags": [
@@ -30,5 +27,10 @@
     "artistGenres": [
       "hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "Control+Machete/_/Comprendes,+Mendes%3F",
+    "listeners": 66956,
+    "playcount": 449826
   }
 }

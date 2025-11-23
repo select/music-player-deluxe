@@ -22,9 +22,6 @@
     "youtubeMusic": "xZZ9JH2eS8M"
   },
   "mbid": "ebdc0ad4-8492-457c-829b-ef171fbceea3",
-  "lastfmId": "Leftfield/_/This+Is+What+We+Do",
-  "listeners": 6302,
-  "playcount": 18949,
   "artistMbid": "369fbad4-6fa4-4dae-9842-a69826cd359d",
   "musicbrainz": {
     "artistTags": [
@@ -46,5 +43,10 @@
       "electronica",
       "leftfield"
     ]
+  },
+  "lastfm": {
+    "id": "Leftfield/_/This+Is+What+We+Do",
+    "listeners": 6302,
+    "playcount": 18949
   }
 }

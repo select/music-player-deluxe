@@ -20,7 +20,9 @@
     "youtube": "B-FWhcNvNhA",
     "youtubeMusic": "B-FWhcNvNhA"
   },
-  "lastfmId": "Portico+Quartet/_/Youth",
-  "listeners": 13396,
-  "playcount": 38333
+  "lastfm": {
+    "id": "Portico+Quartet/_/Youth",
+    "listeners": 13396,
+    "playcount": 38333
+  }
 }

@@ -15,9 +15,11 @@
     "youtube": "tbkOZTSvrHs",
     "youtubeMusic": "tbkOZTSvrHs"
   },
-  "lastfmId": "John+Farnham/_/You%27re+the+Voice",
-  "listeners": 274512,
-  "playcount": 1658223,
   "artistMbid": "3b81f816-bdcb-42d0-a0dd-1aa4fc4e19ec",
-  "lastfmSummary": "\"You're the Voice\" is a song written by Andy Qunta, Keith Reid, Maggie Ryder and Chris Thompson for John Farnham, which he recorded for his sixteenth album Whispering Jack released in 1986. Reid, who wrote the lyrics, told Songfacts: \"It's an anti-war song in a way, but it was more of a 'make your voice heard' kind of thing. Wake up to your own power.\" The song was awarded the 1987 Aria Award for \"Single of the Year\". The song was one of the biggest hits of the year in Australia, topping the singles chart there for many weeks. <a href=\"http://www.last.fm/music/John+Farnham/_/You%27re+the+Voice\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "John+Farnham/_/You%27re+the+Voice",
+    "listeners": 274512,
+    "playcount": 1658223,
+    "summary": "\"You're the Voice\" is a song written by Andy Qunta, Keith Reid, Maggie Ryder and Chris Thompson for John Farnham, which he recorded for his sixteenth album Whispering Jack released in 1986. Reid, who wrote the lyrics, told Songfacts: \"It's an anti-war song in a way, but it was more of a 'make your voice heard' kind of thing. Wake up to your own power.\" The song was awarded the 1987 Aria Award for \"Single of the Year\". The song was one of the biggest hits of the year in Australia, topping the singles chart there for many weeks. <a href=\"http://www.last.fm/music/John+Farnham/_/You%27re+the+Voice\">Read more on Last.fm</a>."
+  }
 }

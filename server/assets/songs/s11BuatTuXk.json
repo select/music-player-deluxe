@@ -4,11 +4,7 @@
   "artist": "The Pogues",
   "lastFetched": "2025-11-23T16:51:33.169Z",
   "mbid": "af06a6ed-2271-4df2-983a-4dc89dda618c",
-  "lastfmId": "The+Pogues/_/Dirty+Old+Town",
-  "listeners": 279545,
-  "playcount": 1428202,
   "artistMbid": "d41a6875-b626-4c0f-89a1-aecb643d29ff",
-  "lastfmSummary": "\"Dirty Old Town\" is a song written by Ewan MacColl in 1949 that was made popular by The Dubliners, & recorded by The Pogues for their 2nd album, Rum Sodomy & The Lash.\n\nThe song was written in reference to Salford, Lancashire, England, the city where Ewan MacColl was brought up. Salford is, in fact, a city. When he first wrote the song, the local council were unhappy at having Salford called a dirty old town and, after considerable criticism, the <a href=\"http://www.last.fm/music/The+Pogues/_/Dirty+Old+Town\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "celtic",
@@ -42,5 +38,11 @@
       "folk pop",
       "folk punk"
     ]
+  },
+  "lastfm": {
+    "id": "The+Pogues/_/Dirty+Old+Town",
+    "listeners": 279545,
+    "playcount": 1428202,
+    "summary": "\"Dirty Old Town\" is a song written by Ewan MacColl in 1949 that was made popular by The Dubliners, & recorded by The Pogues for their 2nd album, Rum Sodomy & The Lash.\n\nThe song was written in reference to Salford, Lancashire, England, the city where Ewan MacColl was brought up. Salford is, in fact, a city. When he first wrote the song, the local council were unhappy at having Salford called a dirty old town and, after considerable criticism, the <a href=\"http://www.last.fm/music/The+Pogues/_/Dirty+Old+Town\">Read more on Last.fm</a>."
   }
 }

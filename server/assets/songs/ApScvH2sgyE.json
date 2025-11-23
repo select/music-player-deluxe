@@ -20,9 +20,6 @@
     "youtubeMusic": "ApScvH2sgyE"
   },
   "mbid": "bbeb0814-d0ff-4122-9efb-6eb8d0b7f6b7",
-  "lastfmId": "Skindred/_/Nobody",
-  "listeners": 369261,
-  "playcount": 2928077,
   "artistMbid": "36e371e9-e76b-4b66-b813-e1d1af6d7128",
   "musicbrainz": {
     "tags": [
@@ -63,5 +60,10 @@
       "rap rock",
       "rapcore"
     ]
+  },
+  "lastfm": {
+    "id": "Skindred/_/Nobody",
+    "listeners": 369261,
+    "playcount": 2928077
   }
 }

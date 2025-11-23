@@ -20,7 +20,9 @@
     "youtube": "KL1PnT3j8o8",
     "youtubeMusic": "KL1PnT3j8o8"
   },
-  "lastfmId": "The+D%C3%B8/_/Dust+It+Off",
-  "listeners": 120517,
-  "playcount": 735326
+  "lastfm": {
+    "id": "The+D%C3%B8/_/Dust+It+Off",
+    "listeners": 120517,
+    "playcount": 735326
+  }
 }

@@ -14,7 +14,9 @@
     "youtube": "ub_5Xv6ZxB8",
     "youtubeMusic": "ub_5Xv6ZxB8"
   },
-  "lastfmId": "Joachim+Spieth/_/Utopia",
-  "listeners": 275,
-  "playcount": 616
+  "lastfm": {
+    "id": "Joachim+Spieth/_/Utopia",
+    "listeners": 275,
+    "playcount": 616
+  }
 }

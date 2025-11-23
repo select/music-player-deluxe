@@ -11,9 +11,6 @@
     "youtubeMusic": "CtllZDSo2Mk"
   },
   "mbid": "053bb25b-971e-4f35-ba45-b37741ee4d15",
-  "lastfmId": "Junie+Morrison/_/Suzie+Thundertussy",
-  "listeners": 29587,
-  "playcount": 108650,
   "artistMbid": "39d895fa-c8e1-4dfe-ae14-9a1a302e64aa",
   "musicbrainz": {
     "artistTags": [
@@ -22,5 +19,10 @@
     "artistGenres": [
       "funk"
     ]
+  },
+  "lastfm": {
+    "id": "Junie+Morrison/_/Suzie+Thundertussy",
+    "listeners": 29587,
+    "playcount": 108650
   }
 }

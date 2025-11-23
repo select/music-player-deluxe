@@ -17,9 +17,6 @@
     "youtube": "Y1gRbVRIDvQ",
     "youtubeMusic": "Y1gRbVRIDvQ"
   },
-  "lastfmId": "Archive/_/Look+At+Us",
-  "listeners": 4869,
-  "playcount": 13913,
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -39,5 +36,10 @@
       "trip-hop",
       "uk"
     ]
+  },
+  "lastfm": {
+    "id": "Archive/_/Look+At+Us",
+    "listeners": 4869,
+    "playcount": 13913
   }
 }

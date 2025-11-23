@@ -17,8 +17,10 @@
     "youtubeMusic": "M1vwnr_u6fc"
   },
   "mbid": "952861a7-0178-4b2e-9d49-6c200decfbf3",
-  "lastfmId": "Silencer/_/Sterile+Nails+and+Thunderbowels",
-  "listeners": 52662,
-  "playcount": 393647,
-  "artistMbid": "7c8609fa-800b-4d68-9ce6-428f1881634c"
+  "artistMbid": "7c8609fa-800b-4d68-9ce6-428f1881634c",
+  "lastfm": {
+    "id": "Silencer/_/Sterile+Nails+and+Thunderbowels",
+    "listeners": 52662,
+    "playcount": 393647
+  }
 }

@@ -17,9 +17,6 @@
     "youtubeMusic": "P2yc_U2Chlw"
   },
   "mbid": "69409534-9445-4056-b0e8-dfdc5410816c",
-  "lastfmId": "Slomosa/_/Horses",
-  "listeners": 19439,
-  "playcount": 111634,
   "artistMbid": "262c9855-aa44-40f4-a275-cb425c074513",
   "musicbrainz": {
     "tags": [
@@ -47,5 +44,10 @@
       "rock",
       "stoner rock"
     ]
+  },
+  "lastfm": {
+    "id": "Slomosa/_/Horses",
+    "listeners": 19439,
+    "playcount": 111634
   }
 }

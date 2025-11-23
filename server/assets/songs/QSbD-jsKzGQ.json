@@ -11,7 +11,9 @@
     "youtubeMusic": "QSbD-jsKzGQ"
   },
   "mbid": "1d183e4c-17c6-3408-a893-39c18a94c51f",
-  "lastfmId": "Troy+Von+Balthazar/_/Dogs",
-  "listeners": 12979,
-  "playcount": 42110
+  "lastfm": {
+    "id": "Troy+Von+Balthazar/_/Dogs",
+    "listeners": 12979,
+    "playcount": 42110
+  }
 }

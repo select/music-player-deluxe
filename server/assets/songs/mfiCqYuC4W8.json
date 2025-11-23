@@ -4,9 +4,6 @@
   "artist": "Fang Island",
   "lastFetched": "2025-11-23T16:48:52.726Z",
   "mbid": "833aac94-0e1a-420a-8d9c-6b936d4d88f7",
-  "lastfmId": "Fang+Island/_/Careful+Crossers",
-  "listeners": 57675,
-  "playcount": 305059,
   "artistMbid": "18fcb09c-90b5-4fb3-b989-8f754f7413af",
   "musicbrainz": {
     "artistTags": [
@@ -25,5 +22,10 @@
       "math rock",
       "neo-psychedelia"
     ]
+  },
+  "lastfm": {
+    "id": "Fang+Island/_/Careful+Crossers",
+    "listeners": 57675,
+    "playcount": 305059
   }
 }

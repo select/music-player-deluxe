@@ -17,7 +17,9 @@
     "youtube": "DdwA2mVR65g",
     "youtubeMusic": "DdwA2mVR65g"
   },
-  "lastfmId": "James+Brown/_/Funk+On+Ah+Roll+(S-Class+MIx)",
-  "listeners": 208,
-  "playcount": 635
+  "lastfm": {
+    "id": "James+Brown/_/Funk+On+Ah+Roll+(S-Class+MIx)",
+    "listeners": 208,
+    "playcount": 635
+  }
 }

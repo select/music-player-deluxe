@@ -4,9 +4,6 @@
   "artist": "The Tiger Lillies",
   "lastFetched": "2025-11-23T16:41:37.812Z",
   "mbid": "5664c442-29c6-3031-b6b1-8afde55ef3de",
-  "lastfmId": "The+Tiger+Lillies/_/Start+a+Fire",
-  "listeners": 19573,
-  "playcount": 72645,
   "artistMbid": "3ad4f6ec-253f-4050-8849-ca26266edfb8",
   "musicbrainz": {
     "artistTags": [
@@ -15,5 +12,10 @@
     "artistGenres": [
       "dark cabaret"
     ]
+  },
+  "lastfm": {
+    "id": "The+Tiger+Lillies/_/Start+a+Fire",
+    "listeners": 19573,
+    "playcount": 72645
   }
 }

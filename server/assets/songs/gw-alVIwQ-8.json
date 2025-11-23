@@ -12,9 +12,6 @@
     "youtubeMusic": "gw-alVIwQ-8"
   },
   "mbid": "3a2abe0a-1f98-444c-be34-e34540c95e5e",
-  "lastfmId": "Duke+Ellington/_/In+The+Hall+Of+The+Mountain+King",
-  "listeners": 3614,
-  "playcount": 9733,
   "artistMbid": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f",
   "musicbrainz": {
     "artistTags": [
@@ -29,5 +26,10 @@
       "jazz",
       "swing"
     ]
+  },
+  "lastfm": {
+    "id": "Duke+Ellington/_/In+The+Hall+Of+The+Mountain+King",
+    "listeners": 3614,
+    "playcount": 9733
   }
 }

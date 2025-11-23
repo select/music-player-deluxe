@@ -13,9 +13,6 @@
     "youtubeMusic": "BgSKP3tmezo"
   },
   "mbid": "00c99400-febc-40a9-b0f4-ce3ca7e4a5ce",
-  "lastfmId": "Falco/_/Ganz+Wien",
-  "listeners": 33235,
-  "playcount": 187629,
   "artistMbid": "dcd95aa4-f3ff-492d-a621-8518ada0f58b",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "pop",
       "pop rap"
     ]
+  },
+  "lastfm": {
+    "id": "Falco/_/Ganz+Wien",
+    "listeners": 33235,
+    "playcount": 187629
   }
 }

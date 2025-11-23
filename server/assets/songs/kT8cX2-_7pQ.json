@@ -4,13 +4,15 @@
   "artist": "Ninja Sex Party",
   "lastFetched": "2025-11-23T16:47:43.045Z",
   "mbid": "203eb792-3dff-4c8a-ba91-a6c7b5860e88",
-  "lastfmId": "Ninja+Sex+Party/_/Danny+Don%27t+You+Know",
-  "listeners": 43020,
-  "playcount": 417889,
   "artistMbid": "5b2cc0d6-9075-4fc8-a88e-61d1a22199f5",
   "musicbrainz": {
     "artistTags": [
       "silly name"
     ]
+  },
+  "lastfm": {
+    "id": "Ninja+Sex+Party/_/Danny+Don%27t+You+Know",
+    "listeners": 43020,
+    "playcount": 417889
   }
 }

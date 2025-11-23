@@ -20,9 +20,6 @@
     "youtubeMusic": "cEMwjkRVYb8"
   },
   "mbid": "555dd289-ccbb-498f-9c32-c1382b35fd49",
-  "lastfmId": "John+Tejada/_/Wild+Ride",
-  "listeners": 1364,
-  "playcount": 3643,
   "artistMbid": "bda6d00e-f8f7-43a5-b8f8-f1ebc55b46d3",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "electronic",
       "techno"
     ]
+  },
+  "lastfm": {
+    "id": "John+Tejada/_/Wild+Ride",
+    "listeners": 1364,
+    "playcount": 3643
   }
 }

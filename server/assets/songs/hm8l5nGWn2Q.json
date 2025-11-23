@@ -17,9 +17,6 @@
     "youtubeMusic": "hm8l5nGWn2Q"
   },
   "mbid": "38268be0-6918-3df6-9238-5dffc7999e08",
-  "lastfmId": "Hexagone/_/Burning+Trash+Floor",
-  "listeners": 695,
-  "playcount": 1932,
   "artistMbid": "7a868c6d-8404-4a57-82f2-8c33f926e905",
   "musicbrainz": {
     "artistTags": [
@@ -28,5 +25,10 @@
     "artistGenres": [
       "techno"
     ]
+  },
+  "lastfm": {
+    "id": "Hexagone/_/Burning+Trash+Floor",
+    "listeners": 695,
+    "playcount": 1932
   }
 }

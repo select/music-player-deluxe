@@ -7,7 +7,9 @@
   "duration": 242,
   "youtubeId": "oYw8dtNZWBQ",
   "lastFetched": "2025-11-19T03:11:45.248Z",
-  "lastfmId": "Pothead/_/You+Should+Talk",
-  "listeners": 1430,
-  "playcount": 8184
+  "lastfm": {
+    "id": "Pothead/_/You+Should+Talk",
+    "listeners": 1430,
+    "playcount": 8184
+  }
 }

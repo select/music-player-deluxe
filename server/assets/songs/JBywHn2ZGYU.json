@@ -24,9 +24,6 @@
     "youtube": "JBywHn2ZGYU",
     "youtubeMusic": "JBywHn2ZGYU"
   },
-  "lastfmId": "Jimmy+McGriff/_/The+Bird+Wave",
-  "listeners": 13879,
-  "playcount": 32843,
   "musicbrainz": {
     "artistTags": [
       "funk",
@@ -34,5 +31,10 @@
       "jazz-funk",
       "soul jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Jimmy+McGriff/_/The+Bird+Wave",
+    "listeners": 13879,
+    "playcount": 32843
   }
 }

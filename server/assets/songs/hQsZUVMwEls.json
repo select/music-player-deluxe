@@ -17,8 +17,10 @@
     "youtube": "hQsZUVMwEls",
     "youtubeMusic": "hQsZUVMwEls"
   },
-  "lastfmId": "Jorja+Smith/_/Be+Honest+(feat.+Burna+Boy)",
-  "listeners": 268462,
-  "playcount": 2437497,
-  "artistMbid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+  "artistMbid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+  "lastfm": {
+    "id": "Jorja+Smith/_/Be+Honest+(feat.+Burna+Boy)",
+    "listeners": 268462,
+    "playcount": 2437497
+  }
 }

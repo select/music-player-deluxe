@@ -19,7 +19,9 @@
     "youtubeMusic": "eMFH29gywpI"
   },
   "mbid": "aeb28092-7bec-3de2-9986-ea8f479482b8",
-  "lastfmId": "Dr.+Buzzard%27s+Original+Savannah+Band/_/Cherchez+la+Femme+%2F+Se+Si+Bon",
-  "listeners": 13571,
-  "playcount": 44283
+  "lastfm": {
+    "id": "Dr.+Buzzard%27s+Original+Savannah+Band/_/Cherchez+la+Femme+%2F+Se+Si+Bon",
+    "listeners": 13571,
+    "playcount": 44283
+  }
 }

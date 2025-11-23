@@ -21,8 +21,10 @@
     "youtubeMusic": "4o2h02vLhg4"
   },
   "mbid": "c43acd20-3dec-4c3c-9944-353d858f32c9",
-  "lastfmId": "Minor+Science/_/Dread+the+Evening",
-  "listeners": 1767,
-  "playcount": 3647,
-  "artistMbid": "5944a380-bfed-4b8b-9d5e-52a6f115032b"
+  "artistMbid": "5944a380-bfed-4b8b-9d5e-52a6f115032b",
+  "lastfm": {
+    "id": "Minor+Science/_/Dread+the+Evening",
+    "listeners": 1767,
+    "playcount": 3647
+  }
 }

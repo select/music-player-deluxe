@@ -19,8 +19,10 @@
     "youtube": "KxRzE3qy2KM",
     "youtubeMusic": "KxRzE3qy2KM"
   },
-  "lastfmId": "Sister+Sledge/_/Lost+in+Music+(1984+Bernard+Edwards+&+Nile+Rodgers+Remix)+%5B1995+Remaster%5D",
-  "listeners": 157,
-  "playcount": 462,
-  "artistMbid": "1ed00158-c6a3-45cd-819c-2f91997fc480"
+  "artistMbid": "1ed00158-c6a3-45cd-819c-2f91997fc480",
+  "lastfm": {
+    "id": "Sister+Sledge/_/Lost+in+Music+(1984+Bernard+Edwards+&+Nile+Rodgers+Remix)+%5B1995+Remaster%5D",
+    "listeners": 157,
+    "playcount": 462
+  }
 }

@@ -15,8 +15,10 @@
     "youtube": "0E1ZCnTOQz4",
     "youtubeMusic": "0E1ZCnTOQz4"
   },
-  "lastfmId": "LOLNEIN/_/Sylt",
-  "listeners": 2161,
-  "playcount": 21415,
-  "artistMbid": "a5c49b00-692e-4ea6-9d2d-d0ec3a8ffbcf"
+  "artistMbid": "a5c49b00-692e-4ea6-9d2d-d0ec3a8ffbcf",
+  "lastfm": {
+    "id": "LOLNEIN/_/Sylt",
+    "listeners": 2161,
+    "playcount": 21415
+  }
 }

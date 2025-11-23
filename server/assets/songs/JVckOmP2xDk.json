@@ -10,8 +10,10 @@
     "youtube": "JVckOmP2xDk",
     "youtubeMusic": "JVckOmP2xDk"
   },
-  "lastfmId": "DJ+Phantasy/_/Junglist+(DJ+KARA+Remix)",
-  "listeners": 4777,
-  "playcount": 18228,
-  "artistMbid": "1db82b85-5cc1-4c42-bf89-11d5b8694d39"
+  "artistMbid": "1db82b85-5cc1-4c42-bf89-11d5b8694d39",
+  "lastfm": {
+    "id": "DJ+Phantasy/_/Junglist+(DJ+KARA+Remix)",
+    "listeners": 4777,
+    "playcount": 18228
+  }
 }

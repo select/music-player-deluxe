@@ -12,8 +12,10 @@
     "youtube": "2TiJ8nGWg8w",
     "youtubeMusic": "2TiJ8nGWg8w"
   },
-  "lastfmId": "The+Supermen+Lovers/_/Requiem+for+a+Bitch",
-  "listeners": 225,
-  "playcount": 518,
-  "artistMbid": "0df6d50f-7e43-4c6a-8220-61932b67c9c5"
+  "artistMbid": "0df6d50f-7e43-4c6a-8220-61932b67c9c5",
+  "lastfm": {
+    "id": "The+Supermen+Lovers/_/Requiem+for+a+Bitch",
+    "listeners": 225,
+    "playcount": 518
+  }
 }

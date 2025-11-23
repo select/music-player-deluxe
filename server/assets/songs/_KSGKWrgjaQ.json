@@ -15,9 +15,6 @@
     "youtubeMusic": "_KSGKWrgjaQ"
   },
   "mbid": "ff95edca-6a6d-3354-a959-5d277bedc5d1",
-  "lastfmId": "Dead+Sara/_/Lemon+Scent",
-  "listeners": 20386,
-  "playcount": 128254,
   "artistMbid": "0f4fa442-3e9c-4355-8e17-a39386a52077",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "indie rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Dead+Sara/_/Lemon+Scent",
+    "listeners": 20386,
+    "playcount": 128254
   }
 }

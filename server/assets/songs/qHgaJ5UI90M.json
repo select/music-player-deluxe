@@ -20,7 +20,9 @@
     "youtube": "qHgaJ5UI90M",
     "youtubeMusic": "qHgaJ5UI90M"
   },
-  "lastfmId": "Ben+Harper/_/Glory+And+Consequence",
-  "listeners": 19052,
-  "playcount": 63462
+  "lastfm": {
+    "id": "Ben+Harper/_/Glory+And+Consequence",
+    "listeners": 19052,
+    "playcount": 63462
+  }
 }

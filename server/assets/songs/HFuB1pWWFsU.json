@@ -3,13 +3,13 @@
   "title": "Arrakis",
   "artist": "David Matthews",
   "lastFetched": "2025-11-23T14:12:11.996Z",
-  "lastfmId": "David+Matthews/_/Arrakis",
-  "listeners": 13891,
-  "playcount": 39435,
   "lastfm": {
     "title": "Arrakis",
     "artist": "David Matthews",
     "mbid": "9b96f73e-6204-4273-ab24-d1702f96803e",
-    "artistMbid": "bf0ba0da-13ff-43c7-b8bc-b2598d4f8843"
+    "artistMbid": "bf0ba0da-13ff-43c7-b8bc-b2598d4f8843",
+    "id": "David+Matthews/_/Arrakis",
+    "listeners": 13891,
+    "playcount": 39435
   }
 }

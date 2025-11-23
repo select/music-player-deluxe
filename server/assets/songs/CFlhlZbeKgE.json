@@ -21,9 +21,6 @@
     "youtubeMusic": "CFlhlZbeKgE"
   },
   "mbid": "a769dbd6-dbb8-4eee-a051-2279a84003a2",
-  "lastfmId": "Electric+Callboy/_/Tekkno+Train",
-  "listeners": 85526,
-  "playcount": 1141746,
   "artistMbid": "cf075492-d880-4afc-b87b-d6b03e33dacc",
   "musicbrainz": {
     "artistTags": [
@@ -41,5 +38,10 @@
       "metalcore",
       "post-hardcore"
     ]
+  },
+  "lastfm": {
+    "id": "Electric+Callboy/_/Tekkno+Train",
+    "listeners": 85526,
+    "playcount": 1141746
   }
 }

@@ -14,8 +14,10 @@
     "youtube": "r0Ujw3pTOUo",
     "youtubeMusic": "r0Ujw3pTOUo"
   },
-  "lastfmId": "Mixmaster+Doc/_/Personally+Frankly",
-  "listeners": 42,
-  "playcount": 62,
-  "artistMbid": "fb5cb466-ac65-4de9-8403-990f790bc125"
+  "artistMbid": "fb5cb466-ac65-4de9-8403-990f790bc125",
+  "lastfm": {
+    "id": "Mixmaster+Doc/_/Personally+Frankly",
+    "listeners": 42,
+    "playcount": 62
+  }
 }

@@ -19,7 +19,9 @@
     "youtubeMusic": "JVjrwFFN5tM"
   },
   "mbid": "68933e1d-196c-38c4-b2af-64117652ebe4",
-  "lastfmId": "nor+elle/_/Desert+Storm",
-  "listeners": 7360,
-  "playcount": 33310
+  "lastfm": {
+    "id": "nor+elle/_/Desert+Storm",
+    "listeners": 7360,
+    "playcount": 33310
+  }
 }

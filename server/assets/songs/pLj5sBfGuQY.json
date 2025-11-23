@@ -16,9 +16,6 @@
     "youtubeMusic": "pLj5sBfGuQY"
   },
   "mbid": "734761a3-b653-3f81-ac90-0d372d60f530",
-  "lastfmId": "Tina+Turner/_/I+Don%27t+Wanna+Lose+You",
-  "listeners": 133895,
-  "playcount": 519998,
   "artistMbid": "9072df14-b61e-42e2-b4f4-6bbb7fdb5586",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "rock",
       "soul"
     ]
+  },
+  "lastfm": {
+    "id": "Tina+Turner/_/I+Don%27t+Wanna+Lose+You",
+    "listeners": 133895,
+    "playcount": 519998
   }
 }

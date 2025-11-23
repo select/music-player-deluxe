@@ -11,9 +11,6 @@
     "youtubeMusic": "AXVuQrDCXoE"
   },
   "mbid": "3d09c72f-66a8-3de7-b5a2-ccc3b414e901",
-  "lastfmId": "Asha+Puthli/_/Right+Down+Here",
-  "listeners": 16798,
-  "playcount": 49585,
   "artistMbid": "6bea93d9-08e8-40af-974e-b7d066b2e0fb",
   "musicbrainz": {
     "artistTags": [
@@ -22,5 +19,10 @@
     "artistGenres": [
       "jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Asha+Puthli/_/Right+Down+Here",
+    "listeners": 16798,
+    "playcount": 49585
   }
 }

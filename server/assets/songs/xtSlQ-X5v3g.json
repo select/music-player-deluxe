@@ -13,12 +13,12 @@
     "youtube": "xtSlQ-X5v3g",
     "youtubeMusic": "xtSlQ-X5v3g"
   },
-  "lastfmId": "Kraftwerk/_/Heimcomputer+(2009+Remaster)",
-  "listeners": 639,
-  "playcount": 1672,
   "lastfm": {
     "title": "Heimcomputer (2009 Remaster)",
     "artist": "Kraftwerk",
-    "artistMbid": "5700dcd4-c139-4f31-aa3e-6382b9af9032"
+    "artistMbid": "5700dcd4-c139-4f31-aa3e-6382b9af9032",
+    "id": "Kraftwerk/_/Heimcomputer+(2009+Remaster)",
+    "listeners": 639,
+    "playcount": 1672
   }
 }

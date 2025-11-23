@@ -20,8 +20,10 @@
     "youtubeMusic": "R7AokJa2YxE"
   },
   "name": "Call U Back",
-  "lastfmId": "TTSSFU/_/Call+U+Back",
-  "listeners": 16387,
-  "playcount": 39595,
-  "artistMbid": "149456f4-6daf-4290-a4bf-093bb87769c5"
+  "artistMbid": "149456f4-6daf-4290-a4bf-093bb87769c5",
+  "lastfm": {
+    "id": "TTSSFU/_/Call+U+Back",
+    "listeners": 16387,
+    "playcount": 39595
+  }
 }

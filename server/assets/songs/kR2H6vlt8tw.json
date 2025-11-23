@@ -15,9 +15,6 @@
     "youtubeMusic": "kR2H6vlt8tw"
   },
   "mbid": "30bd9c91-c736-4455-8696-c43be3148b4f",
-  "lastfmId": "Solomon%27s+Knot/_/Hark,+shepherd+swains",
-  "listeners": 44,
-  "playcount": 57,
   "artistMbid": "6f1afd8c-3025-4d94-8ac1-ba98f6bc7f92",
   "musicbrainz": {
     "artistTags": [
@@ -26,5 +23,10 @@
     "artistGenres": [
       "baroque"
     ]
+  },
+  "lastfm": {
+    "id": "Solomon%27s+Knot/_/Hark,+shepherd+swains",
+    "listeners": 44,
+    "playcount": 57
   }
 }

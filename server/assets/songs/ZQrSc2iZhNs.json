@@ -19,7 +19,9 @@
     "youtube": "ZQrSc2iZhNs",
     "youtubeMusic": "ZQrSc2iZhNs"
   },
-  "lastfmId": "The+Rah+Band/_/messages+from+the+stars+(sped+up)",
-  "listeners": 1628,
-  "playcount": 7131
+  "lastfm": {
+    "id": "The+Rah+Band/_/messages+from+the+stars+(sped+up)",
+    "listeners": 1628,
+    "playcount": 7131
+  }
 }

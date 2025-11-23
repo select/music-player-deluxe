@@ -18,9 +18,6 @@
     "youtube": "UolD-D59knQ",
     "youtubeMusic": "UolD-D59knQ"
   },
-  "lastfmId": "Julianna+Barwick+&+Mary+Lattimore/_/Melted+Moon",
-  "listeners": 127,
-  "playcount": 238,
   "musicbrainz": {
     "artistTags": [
       "ambient",
@@ -33,5 +30,10 @@
       "neoclassical new age",
       "new age"
     ]
+  },
+  "lastfm": {
+    "id": "Julianna+Barwick+&+Mary+Lattimore/_/Melted+Moon",
+    "listeners": 127,
+    "playcount": 238
   }
 }

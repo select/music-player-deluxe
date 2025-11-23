@@ -15,9 +15,6 @@
     "youtubeMusic": "vVEcWuPZrMk"
   },
   "mbid": "d4e6b28e-4e03-4acc-a1b0-c8992c1ecfff",
-  "lastfmId": "DJ+Shadow/_/Forever+Changed",
-  "listeners": 5494,
-  "playcount": 12037,
   "artistMbid": "efa2c11a-1a35-4b60-bc1b-66d37de88511",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "hip hop",
       "instrumental hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "DJ+Shadow/_/Forever+Changed",
+    "listeners": 5494,
+    "playcount": 12037
   }
 }

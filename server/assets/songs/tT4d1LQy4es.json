@@ -18,9 +18,6 @@
     "youtubeMusic": "tT4d1LQy4es"
   },
   "mbid": "df7e9d7b-7a52-37e9-8da9-ce889387e64c",
-  "lastfmId": "Alannah+Myles/_/Black+Velvet",
-  "listeners": 514419,
-  "playcount": 3236846,
   "artistMbid": "14156fcd-ba0f-45be-88c0-e10fb6acf4b2",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "rock",
       "singer-songwriter"
     ]
+  },
+  "lastfm": {
+    "id": "Alannah+Myles/_/Black+Velvet",
+    "listeners": 514419,
+    "playcount": 3236846
   }
 }

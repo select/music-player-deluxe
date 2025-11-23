@@ -18,11 +18,7 @@
     "youtubeMusic": "V6nbFZtxAL4"
   },
   "mbid": "a68cf408-feb3-4487-b399-67eb679dbed8",
-  "lastfmId": "Archive/_/Bullets",
-  "listeners": 153471,
-  "playcount": 1661444,
   "artistMbid": "bd513de0-e42f-425e-ae46-817d7bc5fb1c",
-  "lastfmSummary": "The introduction trailer for Cyberpunk 2077, an upcoming game by CD Projekt RED, used Bullets as its sound track. <a href=\"http://www.last.fm/music/Archive/_/Bullets\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "electronic"
@@ -49,5 +45,11 @@
       "crossover prog",
       "electronic"
     ]
+  },
+  "lastfm": {
+    "id": "Archive/_/Bullets",
+    "listeners": 153471,
+    "playcount": 1661444,
+    "summary": "The introduction trailer for Cyberpunk 2077, an upcoming game by CD Projekt RED, used Bullets as its sound track. <a href=\"http://www.last.fm/music/Archive/_/Bullets\">Read more on Last.fm</a>."
   }
 }

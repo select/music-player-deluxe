@@ -23,9 +23,6 @@
     "youtube": "5tEfYvY3bAg",
     "youtubeMusic": "5tEfYvY3bAg"
   },
-  "lastfmId": "Woodkid/_/Goliath",
-  "listeners": 71997,
-  "playcount": 499448,
   "artistMbid": "420e923e-e74c-42ef-b771-2e2bcee93394",
   "musicbrainz": {
     "artistTags": [
@@ -47,5 +44,10 @@
       "electronica",
       "folk"
     ]
+  },
+  "lastfm": {
+    "id": "Woodkid/_/Goliath",
+    "listeners": 71997,
+    "playcount": 499448
   }
 }

@@ -14,9 +14,6 @@
     "youtubeMusic": "kVc5Ltul0j4"
   },
   "mbid": "043e1302-41a7-4311-8701-eed713884216",
-  "lastfmId": "C.W.+Stoneking/_/Mama+Got+The+Blues",
-  "listeners": 25882,
-  "playcount": 97192,
   "artistMbid": "22a94cd7-cb1f-4b67-9be6-46d465ffc787",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
       "boogaloo",
       "singer-songwriter"
     ]
+  },
+  "lastfm": {
+    "id": "C.W.+Stoneking/_/Mama+Got+The+Blues",
+    "listeners": 25882,
+    "playcount": 97192
   }
 }

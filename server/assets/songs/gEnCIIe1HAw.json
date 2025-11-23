@@ -20,13 +20,13 @@
     "youtube": "gEnCIIe1HAw",
     "youtubeMusic": "gEnCIIe1HAw"
   },
-  "lastfmId": "Ben+Kweller/_/This+Is+War",
-  "listeners": 52290,
-  "playcount": 201058,
   "lastfm": {
     "title": "This Is War",
     "artist": "Ben Kweller",
     "mbid": "d1ef4cf4-bfec-3a6e-b6a1-7031eef42c3f",
-    "artistMbid": "ff9deaae-da4f-42b7-a19e-36fedd3fc706"
+    "artistMbid": "ff9deaae-da4f-42b7-a19e-36fedd3fc706",
+    "id": "Ben+Kweller/_/This+Is+War",
+    "listeners": 52290,
+    "playcount": 201058
   }
 }

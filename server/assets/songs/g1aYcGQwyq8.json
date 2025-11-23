@@ -10,9 +10,6 @@
     "youtubeMusic": "g1aYcGQwyq8"
   },
   "mbid": "cf752d72-b45c-4dc8-9def-853a73f4db59",
-  "lastfmId": "Amelinha/_/Gemedeira",
-  "listeners": 7614,
-  "playcount": 29399,
   "artistMbid": "1f2d992b-aed5-4290-a0ea-6c0b0097905c",
   "musicbrainz": {
     "artistTags": [
@@ -21,5 +18,10 @@
     "artistGenres": [
       "forró"
     ]
+  },
+  "lastfm": {
+    "id": "Amelinha/_/Gemedeira",
+    "listeners": 7614,
+    "playcount": 29399
   }
 }

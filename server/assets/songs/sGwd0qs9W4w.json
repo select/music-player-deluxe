@@ -18,9 +18,6 @@
     "youtubeMusic": "sGwd0qs9W4w"
   },
   "mbid": "fca5f47f-d7e3-4b0d-9e47-cfae7b06a776",
-  "lastfmId": "Stanley+Turrentine/_/Willow+Weep+for+Me",
-  "listeners": 12462,
-  "playcount": 31393,
   "artistMbid": "51e0df97-1fe2-401c-ba92-9f854b7831c3",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "jazz fusion",
       "soul jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Stanley+Turrentine/_/Willow+Weep+for+Me",
+    "listeners": 12462,
+    "playcount": 31393
   }
 }

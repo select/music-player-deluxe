@@ -3,7 +3,9 @@
   "title": "Aerobic",
   "artist": "Joe's Bakery",
   "lastFetched": "2025-11-19T05:28:05.039Z",
-  "lastfmId": "Joe%27s+Bakery/_/Aerobic",
-  "listeners": 30,
-  "playcount": 67
+  "lastfm": {
+    "id": "Joe%27s+Bakery/_/Aerobic",
+    "listeners": 30,
+    "playcount": 67
+  }
 }

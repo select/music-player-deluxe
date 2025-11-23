@@ -18,7 +18,9 @@
     "youtube": "qsM1tuQ2ezk",
     "youtubeMusic": "qsM1tuQ2ezk"
   },
-  "lastfmId": "Jon+Bap/_/Don%E2%80%99t+Run+Into+The+Dark+So+Quick",
-  "listeners": 20408,
-  "playcount": 80530
+  "lastfm": {
+    "id": "Jon+Bap/_/Don%E2%80%99t+Run+Into+The+Dark+So+Quick",
+    "listeners": 20408,
+    "playcount": 80530
+  }
 }

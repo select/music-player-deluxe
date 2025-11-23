@@ -18,9 +18,6 @@
     "youtube": "8lD5bfqzr6E",
     "youtubeMusic": "8lD5bfqzr6E"
   },
-  "lastfmId": "Ozzy+Osbourne/_/Crazy+Train+(Live)",
-  "listeners": 6527,
-  "playcount": 23655,
   "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
   "musicbrainz": {
     "tags": [
@@ -36,5 +33,10 @@
       "pop/rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Ozzy+Osbourne/_/Crazy+Train+(Live)",
+    "listeners": 6527,
+    "playcount": 23655
   }
 }

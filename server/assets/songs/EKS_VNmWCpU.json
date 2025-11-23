@@ -12,8 +12,10 @@
     "youtube": "EKS_VNmWCpU",
     "youtubeMusic": "EKS_VNmWCpU"
   },
-  "lastfmId": "Cold+Years/_/32",
-  "listeners": 3876,
-  "playcount": 16623,
-  "artistMbid": "8de5700e-668a-41f5-8859-573a7021abaf"
+  "artistMbid": "8de5700e-668a-41f5-8859-573a7021abaf",
+  "lastfm": {
+    "id": "Cold+Years/_/32",
+    "listeners": 3876,
+    "playcount": 16623
+  }
 }

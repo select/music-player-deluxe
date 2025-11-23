@@ -11,8 +11,10 @@
     "youtube": "2UOHgY5P_lo",
     "youtubeMusic": "2UOHgY5P_lo"
   },
-  "lastfmId": "Per+Gessle/_/Beredd",
-  "listeners": 1234,
-  "playcount": 4679,
-  "artistMbid": "843238f1-ecfa-4a26-9e47-ce52e4ea1e31"
+  "artistMbid": "843238f1-ecfa-4a26-9e47-ce52e4ea1e31",
+  "lastfm": {
+    "id": "Per+Gessle/_/Beredd",
+    "listeners": 1234,
+    "playcount": 4679
+  }
 }

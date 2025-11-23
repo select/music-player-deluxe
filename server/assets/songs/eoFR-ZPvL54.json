@@ -3,11 +3,11 @@
   "title": "My Generation",
   "artist": "Atom",
   "lastFetched": "2025-11-23T14:05:02.936Z",
-  "lastfmId": "ATOM/_/My+Generation",
-  "listeners": 7,
-  "playcount": 12,
   "lastfm": {
     "title": "My Generation",
-    "artist": "ATOM"
+    "artist": "ATOM",
+    "id": "ATOM/_/My+Generation",
+    "listeners": 7,
+    "playcount": 12
   }
 }

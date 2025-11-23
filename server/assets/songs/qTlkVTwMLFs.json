@@ -3,8 +3,10 @@
   "title": "Rain Dogs",
   "artist": "Tom Waits",
   "lastFetched": "2025-11-19T14:29:35.397Z",
-  "lastfmId": "Tom+Waits/_/Rain+Dogs",
-  "listeners": 251818,
-  "playcount": 1230601,
-  "lastfmSummary": "The album's title comes from an expression which also suggests this tragic kingdom of the streets; \"Rain dogs\" are dogs which became lost after the rain washed away the scent of home, thus barring their return. Waits cast further light on the metaphor by stating that the album was about \"People who live outdoors. You know how after the rain you see all these dogs that seem lost, wandering around. The rain washes away all their scent, all their direction. <a href=\"http://www.last.fm/music/Tom+Waits/_/Rain+Dogs\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "Tom+Waits/_/Rain+Dogs",
+    "listeners": 251818,
+    "playcount": 1230601,
+    "summary": "The album's title comes from an expression which also suggests this tragic kingdom of the streets; \"Rain dogs\" are dogs which became lost after the rain washed away the scent of home, thus barring their return. Waits cast further light on the metaphor by stating that the album was about \"People who live outdoors. You know how after the rain you see all these dogs that seem lost, wandering around. The rain washes away all their scent, all their direction. <a href=\"http://www.last.fm/music/Tom+Waits/_/Rain+Dogs\">Read more on Last.fm</a>."
+  }
 }

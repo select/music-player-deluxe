@@ -17,7 +17,9 @@
     "youtube": "3FuEFH7_t00",
     "youtubeMusic": "3FuEFH7_t00"
   },
-  "lastfmId": "Grouch+in+Dub/_/Dublisious",
-  "listeners": 1064,
-  "playcount": 3975
+  "lastfm": {
+    "id": "Grouch+in+Dub/_/Dublisious",
+    "listeners": 1064,
+    "playcount": 3975
+  }
 }

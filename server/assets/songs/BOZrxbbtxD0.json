@@ -22,9 +22,6 @@
     "youtubeMusic": "BOZrxbbtxD0"
   },
   "mbid": "20d8c078-e8b3-4f3e-b27c-756afe52f16c",
-  "lastfmId": "Neneh+Cherry/_/Blank+Project",
-  "listeners": 21711,
-  "playcount": 66144,
   "artistMbid": "527c65d1-9fdb-4482-8796-dde2980bd63a",
   "musicbrainz": {
     "artistTags": [
@@ -46,5 +43,10 @@
       "hip hop",
       "pop"
     ]
+  },
+  "lastfm": {
+    "id": "Neneh+Cherry/_/Blank+Project",
+    "listeners": 21711,
+    "playcount": 66144
   }
 }

@@ -16,8 +16,10 @@
     "youtube": "YblzvqIyFoE",
     "youtubeMusic": "YblzvqIyFoE"
   },
-  "lastfmId": "Fulton+Lee/_/Floatin",
-  "listeners": 2094,
-  "playcount": 9961,
-  "artistMbid": "61e73ac3-1e17-4296-84f3-9498534d25e0"
+  "artistMbid": "61e73ac3-1e17-4296-84f3-9498534d25e0",
+  "lastfm": {
+    "id": "Fulton+Lee/_/Floatin",
+    "listeners": 2094,
+    "playcount": 9961
+  }
 }

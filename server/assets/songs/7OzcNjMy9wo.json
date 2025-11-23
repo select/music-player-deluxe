@@ -15,8 +15,10 @@
     "youtube": "7OzcNjMy9wo",
     "youtubeMusic": "7OzcNjMy9wo"
   },
-  "lastfmId": "Mammoth/_/Another+Celebration+at+the+End+of+the+World",
-  "listeners": 5198,
-  "playcount": 20920,
-  "artistMbid": "c104ac02-88a9-46ab-9aeb-9f0e4ca83fd8"
+  "artistMbid": "c104ac02-88a9-46ab-9aeb-9f0e4ca83fd8",
+  "lastfm": {
+    "id": "Mammoth/_/Another+Celebration+at+the+End+of+the+World",
+    "listeners": 5198,
+    "playcount": 20920
+  }
 }

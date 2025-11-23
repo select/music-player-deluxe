@@ -15,7 +15,9 @@
     "youtube": "Onk8jR3tuxA",
     "youtubeMusic": "Onk8jR3tuxA"
   },
-  "lastfmId": "Flocks/_/Grammar+King",
-  "listeners": 131,
-  "playcount": 438
+  "lastfm": {
+    "id": "Flocks/_/Grammar+King",
+    "listeners": 131,
+    "playcount": 438
+  }
 }

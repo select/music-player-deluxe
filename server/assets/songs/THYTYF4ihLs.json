@@ -17,7 +17,9 @@
     "youtubeMusic": "THYTYF4ihLs"
   },
   "name": "Flu",
-  "lastfmId": "Jameszoo/_/Flu",
-  "listeners": 6998,
-  "playcount": 17191
+  "lastfm": {
+    "id": "Jameszoo/_/Flu",
+    "listeners": 6998,
+    "playcount": 17191
+  }
 }

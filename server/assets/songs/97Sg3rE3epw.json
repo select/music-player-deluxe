@@ -15,8 +15,10 @@
     "youtube": "97Sg3rE3epw",
     "youtubeMusic": "97Sg3rE3epw"
   },
-  "lastfmId": "Glass+Museum/_/Caillebotis",
-  "listeners": 1018,
-  "playcount": 3261,
-  "artistMbid": "b87dfb5e-97d8-4679-8eb3-1b58cf2b39b0"
+  "artistMbid": "b87dfb5e-97d8-4679-8eb3-1b58cf2b39b0",
+  "lastfm": {
+    "id": "Glass+Museum/_/Caillebotis",
+    "listeners": 1018,
+    "playcount": 3261
+  }
 }

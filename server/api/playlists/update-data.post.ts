@@ -107,9 +107,6 @@ export default defineEventHandler(async (event) => {
 			const songData = songDataMap.get(video.id);
 			const youtubeMetadata = youtubeMetadataMap.get(video.id);
 
-			// Try to find AI-augmented data by matching title and channel
-			const aiLookupKey = `${video.title.toLowerCase()}|${video.channel?.toLowerCase() || ""}`;
-
 			let updatedVideo = { ...video };
 			let hasChanges = false;
 
@@ -119,8 +116,8 @@ export default defineEventHandler(async (event) => {
 				const fusedTags: string[] = [];
 
 				// Add Last.fm tags
-				if (songData.lastfmTags && songData.lastfmTags.length > 0) {
-					fusedTags.push(...songData.lastfmTags);
+				if (songData.lastfm?.tags && songData.lastfm.tags.length > 0) {
+					fusedTags.push(...songData.lastfm.tags);
 				}
 
 				// Add musicbrainz genres
@@ -165,9 +162,9 @@ export default defineEventHandler(async (event) => {
 					JSON.stringify(video.tags || []) !== JSON.stringify(uniqueTags) ||
 					JSON.stringify(video.externalIds || {}) !==
 						JSON.stringify(songData.odesli || {}) ||
-					video.listeners !== songData.listeners ||
-					video.playcount !== songData.playcount ||
-					video.lastfmSummary !== songData.lastfmSummary;
+					video.listeners !== songData.lastfm?.listeners ||
+					video.playcount !== songData.lastfm?.playcount ||
+					video.lastfmSummary !== songData.lastfm?.summary;
 
 				if (hasMusicChanges) {
 					hasChanges = true;
@@ -179,15 +176,21 @@ export default defineEventHandler(async (event) => {
 					musicTitle: songData.title,
 					tags: uniqueTags.length > 0 ? uniqueTags : undefined,
 					externalIds: songData.odesli,
-					listeners: songData.listeners,
-					playcount: songData.playcount,
-					lastfmSummary: songData.lastfmSummary,
+					listeners: songData.lastfm?.listeners,
+					playcount: songData.lastfm?.playcount,
+					lastfmSummary: songData.lastfm?.summary,
 				};
 				if (songData.mbid) {
 					if (!updatedVideo.externalIds) {
 						updatedVideo.externalIds = {};
 					}
 					updatedVideo.externalIds["musicbrainz"] = songData.mbid;
+				}
+				if (songData.trackMbid) {
+					if (!updatedVideo.externalIds) {
+						updatedVideo.externalIds = {};
+					}
+					updatedVideo.externalIds["musicbrainz-track"] = songData.trackMbid;
 				}
 				if (songData.lastfm?.mbid) {
 					if (!updatedVideo.externalIds) {
@@ -208,11 +211,11 @@ export default defineEventHandler(async (event) => {
 					}
 					updatedVideo.externalIds["musicbrainz-artist"] = songData.artistMbid;
 				}
-				if (songData.lastfmId) {
+				if (songData.lastfm?.id) {
 					if (!updatedVideo.externalIds) {
 						updatedVideo.externalIds = {};
 					}
-					updatedVideo.externalIds["lastfm"] = songData.lastfmId;
+					updatedVideo.externalIds["lastfm"] = songData.lastfm.id;
 				}
 			}
 

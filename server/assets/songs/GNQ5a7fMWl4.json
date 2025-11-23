@@ -19,9 +19,6 @@
     "youtube": "GNQ5a7fMWl4",
     "youtubeMusic": "GNQ5a7fMWl4"
   },
-  "lastfmId": "Aston+%27Family+Man%27+Barrett/_/Guided+Missile",
-  "listeners": 383,
-  "playcount": 728,
   "musicbrainz": {
     "artistTags": [
       "banbarra",
@@ -30,5 +27,10 @@
       "roots reggae",
       "ska"
     ]
+  },
+  "lastfm": {
+    "id": "Aston+%27Family+Man%27+Barrett/_/Guided+Missile",
+    "listeners": 383,
+    "playcount": 728
   }
 }

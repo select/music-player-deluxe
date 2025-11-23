@@ -17,11 +17,11 @@
     "youtube": "6Ks9W4VGmbw",
     "youtubeMusic": "6Ks9W4VGmbw"
   },
-  "lastfmId": "Camel/_/Nimrodel+(Medley)",
-  "listeners": 3725,
-  "playcount": 12056,
   "lastfm": {
     "title": "Nimrodel (Medley)",
-    "artist": "Camel"
+    "artist": "Camel",
+    "id": "Camel/_/Nimrodel+(Medley)",
+    "listeners": 3725,
+    "playcount": 12056
   }
 }

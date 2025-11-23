@@ -16,7 +16,9 @@
     "youtube": "k810OLFlQZs",
     "youtubeMusic": "k810OLFlQZs"
   },
-  "lastfmId": "HEMAI/_/When+Day+Breaks",
-  "listeners": 261,
-  "playcount": 700
+  "lastfm": {
+    "id": "HEMAI/_/When+Day+Breaks",
+    "listeners": 261,
+    "playcount": 700
+  }
 }

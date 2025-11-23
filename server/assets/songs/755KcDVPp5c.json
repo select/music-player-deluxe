@@ -13,9 +13,6 @@
     "youtubeMusic": "755KcDVPp5c"
   },
   "mbid": "9d21d1e5-9868-4bff-8f3e-def348bffd64",
-  "lastfmId": "Madness/_/Forever+Young",
-  "listeners": 22365,
-  "playcount": 93039,
   "artistMbid": "5f58803e-8c4c-478e-8b51-477f38483ede",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "pop rock",
       "psychedelic pop"
     ]
+  },
+  "lastfm": {
+    "id": "Madness/_/Forever+Young",
+    "listeners": 22365,
+    "playcount": 93039
   }
 }

@@ -18,9 +18,6 @@
     "youtubeMusic": "E46Pq1NChmM"
   },
   "mbid": "0447ceba-d17a-3f6e-8300-dee46790f592",
-  "lastfmId": "David+Holmes/_/Gone+(The+Kruder+&+Dorfmeister+Session)",
-  "listeners": 234,
-  "playcount": 588,
   "artistMbid": "a53f5eed-f9f1-4cf1-9994-4c9374904790",
   "musicbrainz": {
     "artistTags": [
@@ -29,5 +26,10 @@
       "uk",
       "warp"
     ]
+  },
+  "lastfm": {
+    "id": "David+Holmes/_/Gone+(The+Kruder+&+Dorfmeister+Session)",
+    "listeners": 234,
+    "playcount": 588
   }
 }

@@ -15,8 +15,10 @@
     "youtube": "c_OmTGSO2BM",
     "youtubeMusic": "c_OmTGSO2BM"
   },
-  "lastfmId": "Gerda/_/King",
-  "listeners": 1558,
-  "playcount": 6200,
-  "artistMbid": "982cd0c4-1598-4e8d-a243-ad4887d5f11f"
+  "artistMbid": "982cd0c4-1598-4e8d-a243-ad4887d5f11f",
+  "lastfm": {
+    "id": "Gerda/_/King",
+    "listeners": 1558,
+    "playcount": 6200
+  }
 }

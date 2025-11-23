@@ -11,9 +11,6 @@
     "youtubeMusic": "S3wob1cacxQ"
   },
   "mbid": "1f1dde9a-8d72-3b53-ad34-a2dc993a470b",
-  "lastfmId": "Cold/_/Strobe+light+network",
-  "listeners": 2278,
-  "playcount": 9118,
   "artistMbid": "d9a2f1e6-6429-41ce-9d32-9a66188fb39c",
   "musicbrainz": {
     "artistTags": [
@@ -30,5 +27,10 @@
       "post-grunge",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Cold/_/Strobe+light+network",
+    "listeners": 2278,
+    "playcount": 9118
   }
 }

@@ -16,8 +16,10 @@
     "youtube": "GL4xUHA49MU",
     "youtubeMusic": "GL4xUHA49MU"
   },
-  "lastfmId": "I+Am+Legion/_/Make+Those+Move+(Ternion+Sound+Remix)",
-  "listeners": 182,
-  "playcount": 581,
-  "artistMbid": "d88c7701-dea3-4436-acd1-2ce2ac0e0869"
+  "artistMbid": "d88c7701-dea3-4436-acd1-2ce2ac0e0869",
+  "lastfm": {
+    "id": "I+Am+Legion/_/Make+Those+Move+(Ternion+Sound+Remix)",
+    "listeners": 182,
+    "playcount": 581
+  }
 }

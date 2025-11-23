@@ -16,7 +16,9 @@
     "youtube": "RecY5iZn6B0",
     "youtubeMusic": "RecY5iZn6B0"
   },
-  "lastfmId": "Chaka+Khan/_/Like+Sugar",
-  "listeners": 107973,
-  "playcount": 483992
+  "lastfm": {
+    "id": "Chaka+Khan/_/Like+Sugar",
+    "listeners": 107973,
+    "playcount": 483992
+  }
 }

@@ -11,8 +11,10 @@
     "youtubeMusic": "DL-9q5MBr9w"
   },
   "mbid": "6300489e-dc44-4597-b3f3-502f6cf8d78f",
-  "lastfmId": "Shirley+Ann+Lee/_/There%27s+A+Light",
-  "listeners": 21147,
-  "playcount": 68635,
-  "artistMbid": "18b498d4-a6c9-474c-94ce-3d6b9a2ced7c"
+  "artistMbid": "18b498d4-a6c9-474c-94ce-3d6b9a2ced7c",
+  "lastfm": {
+    "id": "Shirley+Ann+Lee/_/There%27s+A+Light",
+    "listeners": 21147,
+    "playcount": 68635
+  }
 }

@@ -13,13 +13,13 @@
     "youtube": "UKVl5GVfuUY",
     "youtubeMusic": "UKVl5GVfuUY"
   },
-  "lastfmId": "Eddie+Okwedy/_/Happy+Survival",
-  "listeners": 16102,
-  "playcount": 53103,
   "lastfm": {
     "title": "Happy Survival",
     "artist": "Eddie Okwedy",
     "mbid": "16824543-a195-482a-b112-bec1876637b7",
-    "artistMbid": "8232fdb2-3378-4f21-826b-8f59385e1cf0"
+    "artistMbid": "8232fdb2-3378-4f21-826b-8f59385e1cf0",
+    "id": "Eddie+Okwedy/_/Happy+Survival",
+    "listeners": 16102,
+    "playcount": 53103
   }
 }

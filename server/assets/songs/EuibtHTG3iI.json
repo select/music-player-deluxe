@@ -9,7 +9,9 @@
     "youtube": "EuibtHTG3iI",
     "youtubeMusic": "EuibtHTG3iI"
   },
-  "lastfmId": "BUTTERBANDZ/_/Ultra+Instinct",
-  "listeners": 41,
-  "playcount": 90
+  "lastfm": {
+    "id": "BUTTERBANDZ/_/Ultra+Instinct",
+    "listeners": 41,
+    "playcount": 90
+  }
 }

@@ -15,9 +15,6 @@
     "youtubeMusic": "ha-edv6PVqY"
   },
   "mbid": "0c751e4b-915c-4748-a252-8035217147ff",
-  "lastfmId": "Sportfreunde+Stiller/_/I%27M+ALRIGHT%21",
-  "listeners": 4150,
-  "playcount": 14743,
   "artistMbid": "35581de7-591f-424f-9c64-7b22fd45605e",
   "musicbrainz": {
     "tags": [
@@ -38,5 +35,10 @@
       "pop punk",
       "pop rock"
     ]
+  },
+  "lastfm": {
+    "id": "Sportfreunde+Stiller/_/I%27M+ALRIGHT%21",
+    "listeners": 4150,
+    "playcount": 14743
   }
 }

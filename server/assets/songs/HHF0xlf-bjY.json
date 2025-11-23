@@ -7,14 +7,16 @@
   "duration": 237,
   "youtubeId": "HHF0xlf-bjY",
   "lastFetched": "2025-11-19T05:19:58.123Z",
-  "lastfmId": "Los+Cuates+de+Sinaloa/_/Negro+Y+Azul:+The+Ballad+of+Heisenberg",
-  "listeners": 1378,
-  "playcount": 6680,
   "musicbrainz": {
     "tags": [
       "soundtrack",
       "soundtracks",
       "stage & screen"
     ]
+  },
+  "lastfm": {
+    "id": "Los+Cuates+de+Sinaloa/_/Negro+Y+Azul:+The+Ballad+of+Heisenberg",
+    "listeners": 1378,
+    "playcount": 6680
   }
 }

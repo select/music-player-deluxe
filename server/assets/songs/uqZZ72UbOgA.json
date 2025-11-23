@@ -9,7 +9,9 @@
     "youtube": "uqZZ72UbOgA",
     "youtubeMusic": "uqZZ72UbOgA"
   },
-  "lastfmId": "Laika/_/Badtimes",
-  "listeners": 34487,
-  "playcount": 129205
+  "lastfm": {
+    "id": "Laika/_/Badtimes",
+    "listeners": 34487,
+    "playcount": 129205
+  }
 }

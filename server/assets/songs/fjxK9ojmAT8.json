@@ -14,9 +14,6 @@
     "youtubeMusic": "fjxK9ojmAT8"
   },
   "mbid": "8c660bc5-ad1f-4ac8-a4ea-a31bd7b18776",
-  "lastfmId": "The+Beach+Boys/_/Wind+Chimes",
-  "listeners": 79504,
-  "playcount": 372872,
   "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
   "musicbrainz": {
     "artistTags": [
@@ -38,5 +35,10 @@
       "pop rock",
       "progressive pop"
     ]
+  },
+  "lastfm": {
+    "id": "The+Beach+Boys/_/Wind+Chimes",
+    "listeners": 79504,
+    "playcount": 372872
   }
 }

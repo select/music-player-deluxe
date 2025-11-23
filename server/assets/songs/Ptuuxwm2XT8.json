@@ -21,9 +21,6 @@
     "youtube": "Ptuuxwm2XT8",
     "youtubeMusic": "Ptuuxwm2XT8"
   },
-  "lastfmId": "Group+Listening/_/What%27s+A+Girl+To+Do",
-  "listeners": 16207,
-  "playcount": 66454,
   "artistMbid": "c23d3f55-c1b4-40c6-b191-ebf7177a4656",
   "musicbrainz": {
     "artistTags": [
@@ -34,5 +31,10 @@
       "contemporary classical",
       "instrumental"
     ]
+  },
+  "lastfm": {
+    "id": "Group+Listening/_/What%27s+A+Girl+To+Do",
+    "listeners": 16207,
+    "playcount": 66454
   }
 }

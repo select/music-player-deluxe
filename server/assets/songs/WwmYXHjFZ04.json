@@ -15,9 +15,6 @@
     "youtube": "WwmYXHjFZ04",
     "youtubeMusic": "WwmYXHjFZ04"
   },
-  "lastfmId": "Evidence/_/Outta+Bounds",
-  "listeners": 5109,
-  "playcount": 15457,
   "musicbrainz": {
     "artistTags": [
       "boom bap",
@@ -25,5 +22,10 @@
       "hip hop",
       "west coast hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "Evidence/_/Outta+Bounds",
+    "listeners": 5109,
+    "playcount": 15457
   }
 }

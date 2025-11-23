@@ -24,14 +24,16 @@
     "youtube": "jpbK4tLQH_s",
     "youtubeMusic": "jpbK4tLQH_s"
   },
-  "lastfmId": "Quincy+Jones/_/Summer+in+the+City",
-  "listeners": 172601,
-  "playcount": 612122,
   "artistMbid": "5803c81e-739a-4057-9a5c-cf84e55db630",
-  "lastfmSummary": "This track is a cover version of The Lovin' Spoonful's Summer in the City. It has been sampled by gazillions of hip hop, trip hop and downtempo artists, most notably The Pharcyde on Passing Me By, Nightmares on Wax on Nights Interlude and Massive Attack on Exchange. <a href=\"http://www.last.fm/music/Quincy+Jones/_/Summer+in+the+City\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "sampled by 3"
     ]
+  },
+  "lastfm": {
+    "id": "Quincy+Jones/_/Summer+in+the+City",
+    "listeners": 172601,
+    "playcount": 612122,
+    "summary": "This track is a cover version of The Lovin' Spoonful's Summer in the City. It has been sampled by gazillions of hip hop, trip hop and downtempo artists, most notably The Pharcyde on Passing Me By, Nightmares on Wax on Nights Interlude and Massive Attack on Exchange. <a href=\"http://www.last.fm/music/Quincy+Jones/_/Summer+in+the+City\">Read more on Last.fm</a>."
   }
 }

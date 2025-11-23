@@ -19,13 +19,13 @@
     "youtube": "taYfc5cgMPE",
     "youtubeMusic": "taYfc5cgMPE"
   },
-  "lastfmId": "MC+Shy+D/_/Shake+It",
-  "listeners": 3230,
-  "playcount": 8186,
   "lastfm": {
     "title": "Shake It",
     "artist": "MC Shy D",
     "mbid": "ffdf0b49-3a00-3788-a268-7408b21fdc22",
-    "artistMbid": "2b5127c0-7ee0-4221-8654-70d8dbf27c1e"
+    "artistMbid": "2b5127c0-7ee0-4221-8654-70d8dbf27c1e",
+    "id": "MC+Shy+D/_/Shake+It",
+    "listeners": 3230,
+    "playcount": 8186
   }
 }

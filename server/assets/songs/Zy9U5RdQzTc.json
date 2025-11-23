@@ -4,9 +4,6 @@
   "artist": "The Beatles",
   "lastFetched": "2025-11-23T16:42:30.665Z",
   "mbid": "5b1b6c86-0d7a-47f2-8f63-b5ed9ea28748",
-  "lastfmId": "The+Beatles/_/Commonwealth",
-  "listeners": 1208,
-  "playcount": 3314,
   "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
   "musicbrainz": {
     "artistTags": [
@@ -28,5 +25,10 @@
       "pop",
       "pop rock"
     ]
+  },
+  "lastfm": {
+    "id": "The+Beatles/_/Commonwealth",
+    "listeners": 1208,
+    "playcount": 3314
   }
 }

@@ -15,7 +15,9 @@
     "youtube": "rf5afIBp9gI",
     "youtubeMusic": "rf5afIBp9gI"
   },
-  "lastfmId": "Russell+E.L.+Butler/_/Call+Me+G",
-  "listeners": 147,
-  "playcount": 319
+  "lastfm": {
+    "id": "Russell+E.L.+Butler/_/Call+Me+G",
+    "listeners": 147,
+    "playcount": 319
+  }
 }

@@ -10,8 +10,10 @@
     "youtube": "wx-0jc5fzxo",
     "youtubeMusic": "wx-0jc5fzxo"
   },
-  "lastfmId": "Sascha+Funke/_/E-Plus",
-  "listeners": 199,
-  "playcount": 334,
-  "artistMbid": "c32c4e72-ee6f-4a12-b8ec-2d8506387ae2"
+  "artistMbid": "c32c4e72-ee6f-4a12-b8ec-2d8506387ae2",
+  "lastfm": {
+    "id": "Sascha+Funke/_/E-Plus",
+    "listeners": 199,
+    "playcount": 334
+  }
 }

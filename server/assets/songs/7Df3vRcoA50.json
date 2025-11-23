@@ -15,8 +15,10 @@
     "youtube": "7Df3vRcoA50",
     "youtubeMusic": "7Df3vRcoA50"
   },
-  "lastfmId": "Geier+Sturzflug/_/Bruttosozialprodukt",
-  "listeners": 87826,
-  "playcount": 385805,
-  "artistMbid": "3be1c652-2e90-40e6-89ad-bcac62aab60f"
+  "artistMbid": "3be1c652-2e90-40e6-89ad-bcac62aab60f",
+  "lastfm": {
+    "id": "Geier+Sturzflug/_/Bruttosozialprodukt",
+    "listeners": 87826,
+    "playcount": 385805
+  }
 }

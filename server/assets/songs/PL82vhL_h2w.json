@@ -20,9 +20,6 @@
     "youtubeMusic": "PL82vhL_h2w"
   },
   "mbid": "0978e84f-6d39-3023-93cf-0e406be95a4d",
-  "lastfmId": "Horace+Silver/_/That+Healin%27+Feelin%27",
-  "listeners": 1604,
-  "playcount": 3223,
   "artistMbid": "d185d986-ee96-4fd3-bd61-8c848a4765b6",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "jazz",
       "soul jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Horace+Silver/_/That+Healin%27+Feelin%27",
+    "listeners": 1604,
+    "playcount": 3223
   }
 }

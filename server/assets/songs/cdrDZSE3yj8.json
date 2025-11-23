@@ -17,8 +17,10 @@
     "youtube": "cdrDZSE3yj8",
     "youtubeMusic": "cdrDZSE3yj8"
   },
-  "lastfmId": "Knorkator/_/DMT",
-  "listeners": 839,
-  "playcount": 2453,
-  "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e"
+  "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
+  "lastfm": {
+    "id": "Knorkator/_/DMT",
+    "listeners": 839,
+    "playcount": 2453
+  }
 }

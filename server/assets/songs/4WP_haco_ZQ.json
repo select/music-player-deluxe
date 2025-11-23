@@ -22,9 +22,6 @@
     "youtubeMusic": "4WP_haco_ZQ"
   },
   "mbid": "6292bf4d-5e42-440b-9486-c5ae98108a9e",
-  "lastfmId": "Thundercat/_/Fly+Like+An+Eagle+(From+%27Minions:+The+Rise+of+Gru%27+Soundtrack)",
-  "listeners": 416,
-  "playcount": 933,
   "artistMbid": "044fd265-79dd-43eb-afc4-8b20becf7e17",
   "musicbrainz": {
     "artistTags": [
@@ -46,5 +43,10 @@
       "crossover thrash",
       "dance"
     ]
+  },
+  "lastfm": {
+    "id": "Thundercat/_/Fly+Like+An+Eagle+(From+%27Minions:+The+Rise+of+Gru%27+Soundtrack)",
+    "listeners": 416,
+    "playcount": 933
   }
 }

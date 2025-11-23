@@ -3,8 +3,10 @@
   "title": "Fun Campfire Song",
   "artist": "Dan Reeder",
   "lastFetched": "2025-11-19T06:29:12.938Z",
-  "lastfmId": "Dan+Reeder/_/Fun+Campfire+Song",
-  "listeners": 1794,
-  "playcount": 4855,
-  "artistMbid": "b73ad3ac-be50-4b3c-b5dd-7412d557602c"
+  "artistMbid": "b73ad3ac-be50-4b3c-b5dd-7412d557602c",
+  "lastfm": {
+    "id": "Dan+Reeder/_/Fun+Campfire+Song",
+    "listeners": 1794,
+    "playcount": 4855
+  }
 }

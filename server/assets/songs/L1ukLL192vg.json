@@ -19,12 +19,14 @@
     "youtube": "L1ukLL192vg",
     "youtubeMusic": "L1ukLL192vg"
   },
-  "lastfmId": "Knorkator/_/ISMUS",
-  "listeners": 1446,
-  "playcount": 4732,
   "musicbrainz": {
     "artistTags": [
       "german"
     ]
+  },
+  "lastfm": {
+    "id": "Knorkator/_/ISMUS",
+    "listeners": 1446,
+    "playcount": 4732
   }
 }

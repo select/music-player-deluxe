@@ -13,12 +13,12 @@
     "youtube": "cHc9Ty2JyKA",
     "youtubeMusic": "cHc9Ty2JyKA"
   },
-  "lastfmId": "Meryl/_/Dembow+Martinica",
-  "listeners": 3653,
-  "playcount": 25138,
   "lastfm": {
     "title": "Dembow Martinica",
     "artist": "Meryl",
-    "artistMbid": "5073c6cf-1f12-4a4d-8c3d-4318da38df63"
+    "artistMbid": "5073c6cf-1f12-4a4d-8c3d-4318da38df63",
+    "id": "Meryl/_/Dembow+Martinica",
+    "listeners": 3653,
+    "playcount": 25138
   }
 }

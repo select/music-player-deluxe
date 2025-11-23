@@ -11,8 +11,10 @@
     "youtubeMusic": "1cHKb8O07M4"
   },
   "mbid": "ecaa8fc0-a3a5-3ec8-b833-14eb24cc2e69",
-  "lastfmId": "Moskwa+TV/_/Submarine",
-  "listeners": 595,
-  "playcount": 1875,
-  "artistMbid": "0f0779be-7ee8-4bbc-bac2-32b7f007b17c"
+  "artistMbid": "0f0779be-7ee8-4bbc-bac2-32b7f007b17c",
+  "lastfm": {
+    "id": "Moskwa+TV/_/Submarine",
+    "listeners": 595,
+    "playcount": 1875
+  }
 }

@@ -16,8 +16,10 @@
     "youtube": "sCJu71JxmbE",
     "youtubeMusic": "sCJu71JxmbE"
   },
-  "lastfmId": "Juliane+Werding/_/Wenn+du+denkst+du+denkst+dann+denkst+du+nur+du+denkst",
-  "listeners": 21896,
-  "playcount": 68488,
-  "artistMbid": "dac9ecce-3e52-4040-8bda-c3b294d65c24"
+  "artistMbid": "dac9ecce-3e52-4040-8bda-c3b294d65c24",
+  "lastfm": {
+    "id": "Juliane+Werding/_/Wenn+du+denkst+du+denkst+dann+denkst+du+nur+du+denkst",
+    "listeners": 21896,
+    "playcount": 68488
+  }
 }

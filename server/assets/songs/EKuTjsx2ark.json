@@ -9,8 +9,10 @@
     "youtube": "EKuTjsx2ark",
     "youtubeMusic": "EKuTjsx2ark"
   },
-  "lastfmId": "Rachel+Portman/_/a+gift",
-  "listeners": 9690,
-  "playcount": 27424,
-  "artistMbid": "550508e3-efae-47de-83cc-e50cc471d7e4"
+  "artistMbid": "550508e3-efae-47de-83cc-e50cc471d7e4",
+  "lastfm": {
+    "id": "Rachel+Portman/_/a+gift",
+    "listeners": 9690,
+    "playcount": 27424
+  }
 }

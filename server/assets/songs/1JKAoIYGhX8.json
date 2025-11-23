@@ -13,9 +13,6 @@
     "youtubeMusic": "1JKAoIYGhX8"
   },
   "mbid": "037199d4-6789-43a3-8933-8e2ba1ccb8eb",
-  "lastfmId": "Emma+Ruth+Rundle/_/Darkhorse",
-  "listeners": 50653,
-  "playcount": 331192,
   "artistMbid": "7ba593b9-79d4-4860-92c8-ade2a1ef4551",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "experimental",
       "folk"
     ]
+  },
+  "lastfm": {
+    "id": "Emma+Ruth+Rundle/_/Darkhorse",
+    "listeners": 50653,
+    "playcount": 331192
   }
 }

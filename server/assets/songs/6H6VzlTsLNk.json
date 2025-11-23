@@ -7,7 +7,9 @@
   "duration": 240,
   "youtubeId": "6H6VzlTsLNk",
   "lastFetched": "2025-11-19T04:01:39.354Z",
-  "lastfmId": "Josi+Miller/_/the+night+(bad+moves)",
-  "listeners": 200,
-  "playcount": 441
+  "lastfm": {
+    "id": "Josi+Miller/_/the+night+(bad+moves)",
+    "listeners": 200,
+    "playcount": 441
+  }
 }

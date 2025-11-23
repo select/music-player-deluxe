@@ -22,9 +22,6 @@
     "youtubeMusic": "OMKXIm3qTwo"
   },
   "mbid": "ac7ae037-d49b-4aec-8336-502a0449f924",
-  "lastfmId": "Tori+Amos/_/Ocean+to+Ocean",
-  "listeners": 10513,
-  "playcount": 49089,
   "artistMbid": "c0b2500e-0cef-4130-869d-732b23ed9df5",
   "musicbrainz": {
     "artistTags": [
@@ -46,5 +43,10 @@
       "art rock",
       "baroque pop"
     ]
+  },
+  "lastfm": {
+    "id": "Tori+Amos/_/Ocean+to+Ocean",
+    "listeners": 10513,
+    "playcount": 49089
   }
 }

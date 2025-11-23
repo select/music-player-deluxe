@@ -13,9 +13,6 @@
     "youtubeMusic": "gql9220Qon8"
   },
   "mbid": "cd7a236d-9d32-43c7-82bc-9a92660d5e5e",
-  "lastfmId": "Reel+Big+Fish/_/Beer",
-  "listeners": 337782,
-  "playcount": 2368736,
   "artistMbid": "5e5480be-eded-44ad-9c45-f6136ec2f5db",
   "musicbrainz": {
     "artistTags": [
@@ -28,5 +25,10 @@
       "ska",
       "ska punk"
     ]
+  },
+  "lastfm": {
+    "id": "Reel+Big+Fish/_/Beer",
+    "listeners": 337782,
+    "playcount": 2368736
   }
 }

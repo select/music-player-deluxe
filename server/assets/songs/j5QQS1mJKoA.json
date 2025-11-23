@@ -13,8 +13,10 @@
     "youtube": "j5QQS1mJKoA",
     "youtubeMusic": "j5QQS1mJKoA"
   },
-  "lastfmId": "Erkan+O%C4%9Fur/_/Elif%27e+Ninni",
-  "listeners": 2827,
-  "playcount": 13687,
-  "artistMbid": "b14684dd-a46e-4341-b950-4cd052532f81"
+  "artistMbid": "b14684dd-a46e-4341-b950-4cd052532f81",
+  "lastfm": {
+    "id": "Erkan+O%C4%9Fur/_/Elif%27e+Ninni",
+    "listeners": 2827,
+    "playcount": 13687
+  }
 }

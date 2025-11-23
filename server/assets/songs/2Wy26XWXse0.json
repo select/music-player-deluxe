@@ -19,8 +19,10 @@
     "youtube": "2Wy26XWXse0",
     "youtubeMusic": "2Wy26XWXse0"
   },
-  "lastfmId": "B.o.B/_/Moody+Bandz",
-  "listeners": 360,
-  "playcount": 662,
-  "artistMbid": "94c338ff-1985-4429-9dc8-997b61bb5932"
+  "artistMbid": "94c338ff-1985-4429-9dc8-997b61bb5932",
+  "lastfm": {
+    "id": "B.o.B/_/Moody+Bandz",
+    "listeners": 360,
+    "playcount": 662
+  }
 }

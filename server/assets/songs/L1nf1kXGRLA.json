@@ -16,8 +16,10 @@
     "youtube": "L1nf1kXGRLA",
     "youtubeMusic": "L1nf1kXGRLA"
   },
-  "lastfmId": "Wonder+Girls/_/Nobody",
-  "listeners": 234527,
-  "playcount": 1926072,
-  "lastfmSummary": " <a href=\"http://www.last.fm/music/Wonder+Girls/_/Nobody\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "Wonder+Girls/_/Nobody",
+    "listeners": 234527,
+    "playcount": 1926072,
+    "summary": " <a href=\"http://www.last.fm/music/Wonder+Girls/_/Nobody\">Read more on Last.fm</a>."
+  }
 }

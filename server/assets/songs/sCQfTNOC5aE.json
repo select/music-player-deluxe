@@ -19,11 +19,7 @@
     "youtubeMusic": "sCQfTNOC5aE"
   },
   "mbid": "72feb5a5-35d4-496c-94d7-56f34e732f23",
-  "lastfmId": "Duke+Ellington/_/In+A+Sentimental+Mood",
-  "listeners": 638024,
-  "playcount": 3433594,
   "artistMbid": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f",
-  "lastfmSummary": "\"In a Sentimental Mood\" is a jazz composition by Duke Ellington. He composed the piece in 1935 and recorded it with his orchestra during the same year. Lyrics were written by Manny Kurtz; Ellington's manager Irving Mills gave himself a percentage of the publishing, so the song was credited to all three. Other popular versions in 1935/36 were by Benny Goodman and by Mills Blue Rhythm Band. <a href=\"http://www.last.fm/music/Duke+Ellington/_/In+A+Sentimental+Mood\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "jazz",
@@ -32,5 +28,11 @@
       "Big Band",
       "Swing Jazz"
     ]
+  },
+  "lastfm": {
+    "id": "Duke+Ellington/_/In+A+Sentimental+Mood",
+    "listeners": 638024,
+    "playcount": 3433594,
+    "summary": "\"In a Sentimental Mood\" is a jazz composition by Duke Ellington. He composed the piece in 1935 and recorded it with his orchestra during the same year. Lyrics were written by Manny Kurtz; Ellington's manager Irving Mills gave himself a percentage of the publishing, so the song was credited to all three. Other popular versions in 1935/36 were by Benny Goodman and by Mills Blue Rhythm Band. <a href=\"http://www.last.fm/music/Duke+Ellington/_/In+A+Sentimental+Mood\">Read more on Last.fm</a>."
   }
 }

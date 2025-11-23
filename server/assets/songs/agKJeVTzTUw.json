@@ -15,7 +15,9 @@
     "youtube": "agKJeVTzTUw",
     "youtubeMusic": "agKJeVTzTUw"
   },
-  "lastfmId": "Vera+Sola/_/Instrument+of+War",
-  "listeners": 2139,
-  "playcount": 6674
+  "lastfm": {
+    "id": "Vera+Sola/_/Instrument+of+War",
+    "listeners": 2139,
+    "playcount": 6674
+  }
 }

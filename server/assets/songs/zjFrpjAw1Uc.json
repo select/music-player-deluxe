@@ -6,9 +6,6 @@
   "youtubeId": "zjFrpjAw1Uc",
   "lastFetched": "2025-11-19T03:25:01.723Z",
   "releaseCount": 1,
-  "lastfmId": "Jennifer+Lara/_/A+Change+Is+Gonna+Come",
-  "listeners": 3742,
-  "playcount": 11921,
   "artistMbid": "b0079b6d-d464-4433-960b-072479d3d1ad",
   "musicbrainz": {
     "tags": [
@@ -16,5 +13,10 @@
       "roots reggae",
       "ska"
     ]
+  },
+  "lastfm": {
+    "id": "Jennifer+Lara/_/A+Change+Is+Gonna+Come",
+    "listeners": 3742,
+    "playcount": 11921
   }
 }

@@ -20,7 +20,9 @@
     "youtube": "bNoWHflgLRs",
     "youtubeMusic": "bNoWHflgLRs"
   },
-  "lastfmId": "Scott+Benson+Band/_/Requiem+for+a+Dream",
-  "listeners": 33746,
-  "playcount": 174723
+  "lastfm": {
+    "id": "Scott+Benson+Band/_/Requiem+for+a+Dream",
+    "listeners": 33746,
+    "playcount": 174723
+  }
 }

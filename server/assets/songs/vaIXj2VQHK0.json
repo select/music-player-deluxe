@@ -22,9 +22,6 @@
     "youtubeMusic": "vaIXj2VQHK0"
   },
   "mbid": "6cc9eb54-d00e-31c4-825a-72e9dee82776",
-  "lastfmId": "Puscifer/_/Green+Valley",
-  "listeners": 73479,
-  "playcount": 558762,
   "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22",
   "musicbrainz": {
     "artistTags": [
@@ -46,5 +43,10 @@
       "experimental rock",
       "industrial"
     ]
+  },
+  "lastfm": {
+    "id": "Puscifer/_/Green+Valley",
+    "listeners": 73479,
+    "playcount": 558762
   }
 }

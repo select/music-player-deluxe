@@ -13,7 +13,9 @@
     "youtube": "E-JHVnehtWw",
     "youtubeMusic": "E-JHVnehtWw"
   },
-  "lastfmId": "Nikolai+Nazarov/_/On+the+Hills+of+Manchuria",
-  "listeners": 51,
-  "playcount": 323
+  "lastfm": {
+    "id": "Nikolai+Nazarov/_/On+the+Hills+of+Manchuria",
+    "listeners": 51,
+    "playcount": 323
+  }
 }

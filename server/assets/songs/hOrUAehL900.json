@@ -16,7 +16,9 @@
     "youtube": "hOrUAehL900",
     "youtubeMusic": "hOrUAehL900"
   },
-  "lastfmId": "Z.Z.+Hill/_/That+Ain%27t+the+Way+You+Make+Love",
-  "listeners": 48972,
-  "playcount": 204367
+  "lastfm": {
+    "id": "Z.Z.+Hill/_/That+Ain%27t+the+Way+You+Make+Love",
+    "listeners": 48972,
+    "playcount": 204367
+  }
 }

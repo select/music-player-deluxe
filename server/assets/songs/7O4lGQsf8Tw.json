@@ -18,9 +18,6 @@
     "youtubeMusic": "7O4lGQsf8Tw"
   },
   "mbid": "fcffab91-a65c-48be-bc8d-f280298533f1",
-  "lastfmId": "Amadou+&+Mariam/_/La+r%C3%A9alit%C3%A9",
-  "listeners": 51058,
-  "playcount": 239189,
   "artistMbid": "1fb60b6c-0f4d-42b4-8a5e-de705ec76660",
   "musicbrainz": {
     "tags": [
@@ -43,5 +40,10 @@
       "african blues",
       "desert blues"
     ]
+  },
+  "lastfm": {
+    "id": "Amadou+&+Mariam/_/La+r%C3%A9alit%C3%A9",
+    "listeners": 51058,
+    "playcount": 239189
   }
 }

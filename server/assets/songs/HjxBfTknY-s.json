@@ -16,8 +16,10 @@
     "youtube": "HjxBfTknY-s",
     "youtubeMusic": "HjxBfTknY-s"
   },
-  "lastfmId": "The+Unsleeping/_/You+Drive+My+Four+Wheel+Coffin",
-  "listeners": 4736,
-  "playcount": 33998,
-  "artistMbid": "89de8465-f65b-4a1a-856a-e3f4c7ec89e8"
+  "artistMbid": "89de8465-f65b-4a1a-856a-e3f4c7ec89e8",
+  "lastfm": {
+    "id": "The+Unsleeping/_/You+Drive+My+Four+Wheel+Coffin",
+    "listeners": 4736,
+    "playcount": 33998
+  }
 }

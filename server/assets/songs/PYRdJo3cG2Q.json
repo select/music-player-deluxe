@@ -21,13 +21,15 @@
     "youtube": "PYRdJo3cG2Q",
     "youtubeMusic": "PYRdJo3cG2Q"
   },
-  "lastfmId": "Igorrr/_/Blastbeat+Falafel",
-  "listeners": 21201,
-  "playcount": 86215,
   "musicbrainz": {
     "tags": [
       "avant-garde",
       "avant-garde metal"
     ]
+  },
+  "lastfm": {
+    "id": "Igorrr/_/Blastbeat+Falafel",
+    "listeners": 21201,
+    "playcount": 86215
   }
 }

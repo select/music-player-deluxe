@@ -7,14 +7,16 @@
   "lastFetched": "2025-11-19T01:36:55.337Z",
   "releaseCount": 1,
   "name": "Luminous Beings",
-  "lastfmId": "Jon+Hopkins/_/Luminous+Beings",
-  "listeners": 75603,
-  "playcount": 358020,
   "artistMbid": "0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd",
   "musicbrainz": {
     "tags": [
       "ambient techno",
       "microhouse"
     ]
+  },
+  "lastfm": {
+    "id": "Jon+Hopkins/_/Luminous+Beings",
+    "listeners": 75603,
+    "playcount": 358020
   }
 }

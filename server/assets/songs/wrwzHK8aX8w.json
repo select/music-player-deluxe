@@ -3,8 +3,10 @@
   "title": "Ti Amo",
   "artist": "Howard Carpendale",
   "lastFetched": "2025-11-19T06:16:58.020Z",
-  "lastfmId": "Howard+Carpendale/_/Ti+Amo",
-  "listeners": 27176,
-  "playcount": 102239,
-  "artistMbid": "506aa5b0-c6fb-4a69-8dd3-f06a369d5abc"
+  "artistMbid": "506aa5b0-c6fb-4a69-8dd3-f06a369d5abc",
+  "lastfm": {
+    "id": "Howard+Carpendale/_/Ti+Amo",
+    "listeners": 27176,
+    "playcount": 102239
+  }
 }

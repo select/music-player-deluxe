@@ -14,7 +14,9 @@
     "youtube": "OnuUu4jwRL4",
     "youtubeMusic": "OnuUu4jwRL4"
   },
-  "lastfmId": "Upgrade+(UK)/_/Trigga+Finga",
-  "listeners": 13960,
-  "playcount": 61870
+  "lastfm": {
+    "id": "Upgrade+(UK)/_/Trigga+Finga",
+    "listeners": 13960,
+    "playcount": 61870
+  }
 }

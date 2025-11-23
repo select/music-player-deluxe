@@ -14,9 +14,6 @@
     "youtubeMusic": "yJSP2L3hmWc"
   },
   "mbid": "f56899d4-8afc-405a-b232-b5f589956493",
-  "lastfmId": "Say+She+She/_/Trouble",
-  "listeners": 13927,
-  "playcount": 41259,
   "artistMbid": "64dad611-8ada-4696-ac5f-ecb8bf73d51b",
   "musicbrainz": {
     "artistTags": [
@@ -29,5 +26,10 @@
       "funk",
       "soul"
     ]
+  },
+  "lastfm": {
+    "id": "Say+She+She/_/Trouble",
+    "listeners": 13927,
+    "playcount": 41259
   }
 }

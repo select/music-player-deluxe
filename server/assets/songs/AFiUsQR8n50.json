@@ -18,8 +18,10 @@
     "youtube": "AFiUsQR8n50",
     "youtubeMusic": "AFiUsQR8n50"
   },
-  "lastfmId": "The+Lewis+Express/_/Cold+Catch",
-  "listeners": 1607,
-  "playcount": 2904,
-  "artistMbid": "9766c2bb-3dde-44fb-ab25-f5b63a13c3fb"
+  "artistMbid": "9766c2bb-3dde-44fb-ab25-f5b63a13c3fb",
+  "lastfm": {
+    "id": "The+Lewis+Express/_/Cold+Catch",
+    "listeners": 1607,
+    "playcount": 2904
+  }
 }

@@ -19,7 +19,9 @@
     "youtube": "PJmCfzJNmLI",
     "youtubeMusic": "PJmCfzJNmLI"
   },
-  "lastfmId": "Lorene+Drive/_/Lip+Service",
-  "listeners": 12006,
-  "playcount": 72284
+  "lastfm": {
+    "id": "Lorene+Drive/_/Lip+Service",
+    "listeners": 12006,
+    "playcount": 72284
+  }
 }

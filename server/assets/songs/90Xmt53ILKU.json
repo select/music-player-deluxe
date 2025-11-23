@@ -9,7 +9,9 @@
     "youtube": "90Xmt53ILKU",
     "youtubeMusic": "90Xmt53ILKU"
   },
-  "lastfmId": "Manuel+Guajiro+Mirabal/_/Me+bot%C3%A9+de+Gua%C3%B1o",
-  "listeners": 2689,
-  "playcount": 6191
+  "lastfm": {
+    "id": "Manuel+Guajiro+Mirabal/_/Me+bot%C3%A9+de+Gua%C3%B1o",
+    "listeners": 2689,
+    "playcount": 6191
+  }
 }

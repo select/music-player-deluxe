@@ -20,9 +20,6 @@
     "youtubeMusic": "ySb1f9zWJkQ"
   },
   "name": "Cold as Ice",
-  "lastfmId": "Foreigner/_/Cold+as+Ice",
-  "listeners": 682409,
-  "playcount": 3485443,
   "artistMbid": "160629ab-ec18-4931-8c95-02cb92d06186",
   "musicbrainz": {
     "tags": [
@@ -30,5 +27,10 @@
       "hard rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Foreigner/_/Cold+as+Ice",
+    "listeners": 682409,
+    "playcount": 3485443
   }
 }

@@ -12,13 +12,13 @@
     "youtube": "xLb5Tsmf2Lg",
     "youtubeMusic": "xLb5Tsmf2Lg"
   },
-  "lastfmId": "Brian+Auger/_/Flesh+Failures+(Let+The+Sunshine+In)",
-  "listeners": 397,
-  "playcount": 1269,
   "lastfm": {
     "title": "Flesh Failures (Let The Sunshine In)",
     "artist": "Brian Auger",
     "mbid": "c33a6246-e3ca-4faf-a82e-139c46e34c5f",
-    "artistMbid": "6536929c-9bbf-4f99-a5cf-14a574cabea9"
+    "artistMbid": "6536929c-9bbf-4f99-a5cf-14a574cabea9",
+    "id": "Brian+Auger/_/Flesh+Failures+(Let+The+Sunshine+In)",
+    "listeners": 397,
+    "playcount": 1269
   }
 }

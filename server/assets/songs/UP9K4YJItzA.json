@@ -19,8 +19,10 @@
     "youtube": "UP9K4YJItzA",
     "youtubeMusic": "UP9K4YJItzA"
   },
-  "lastfmId": "Dear+Reader/_/Smoke+Machine",
-  "listeners": 4800,
-  "playcount": 26828,
-  "artistMbid": "dc70bf33-5c52-4699-871b-0008126ba88b"
+  "artistMbid": "dc70bf33-5c52-4699-871b-0008126ba88b",
+  "lastfm": {
+    "id": "Dear+Reader/_/Smoke+Machine",
+    "listeners": 4800,
+    "playcount": 26828
+  }
 }

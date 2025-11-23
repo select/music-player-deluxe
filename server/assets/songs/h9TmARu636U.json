@@ -16,7 +16,9 @@
     "youtube": "h9TmARu636U",
     "youtubeMusic": "h9TmARu636U"
   },
-  "lastfmId": "Archie+Whitewater/_/Cross+Country",
-  "listeners": 19522,
-  "playcount": 61105
+  "lastfm": {
+    "id": "Archie+Whitewater/_/Cross+Country",
+    "listeners": 19522,
+    "playcount": 61105
+  }
 }

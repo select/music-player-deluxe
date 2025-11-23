@@ -17,9 +17,6 @@
     "youtubeMusic": "6lNPnGklWmQ"
   },
   "mbid": "6ee7b461-feeb-4ab8-87eb-59fa04488251",
-  "lastfmId": "Imarhan/_/Derhan",
-  "listeners": 3631,
-  "playcount": 10365,
   "artistMbid": "edf62daa-1425-44bb-8fe3-07499b519472",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
     "artistGenres": [
       "desert blues"
     ]
+  },
+  "lastfm": {
+    "id": "Imarhan/_/Derhan",
+    "listeners": 3631,
+    "playcount": 10365
   }
 }

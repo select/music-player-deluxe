@@ -20,7 +20,9 @@
     "youtube": "takSt9uOTiM",
     "youtubeMusic": "takSt9uOTiM"
   },
-  "lastfmId": "Blotted+Science/_/Laser+Lobotomy",
-  "listeners": 31534,
-  "playcount": 145419
+  "lastfm": {
+    "id": "Blotted+Science/_/Laser+Lobotomy",
+    "listeners": 31534,
+    "playcount": 145419
+  }
 }

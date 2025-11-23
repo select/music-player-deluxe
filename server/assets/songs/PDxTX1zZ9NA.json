@@ -10,12 +10,12 @@
     "youtube": "PDxTX1zZ9NA",
     "youtubeMusic": "PDxTX1zZ9NA"
   },
-  "lastfmId": "Secret+Circuit/_/Technautic",
-  "listeners": 217,
-  "playcount": 413,
   "lastfm": {
     "title": "Technautic",
     "artist": "Secret Circuit",
-    "artistMbid": "9e149893-bb90-4669-a8ce-e35dd42eea57"
+    "artistMbid": "9e149893-bb90-4669-a8ce-e35dd42eea57",
+    "id": "Secret+Circuit/_/Technautic",
+    "listeners": 217,
+    "playcount": 413
   }
 }

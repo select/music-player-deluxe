@@ -12,9 +12,6 @@
     "youtubeMusic": "SfPQB-mtQDY"
   },
   "mbid": "0b235cb7-fe09-3b21-b517-21548420b0e5",
-  "lastfmId": "Nina+Hagen/_/TV-Glotzer+(White+Punks+On+Dope)",
-  "listeners": 23408,
-  "playcount": 88079,
   "artistMbid": "e4d32f51-bc57-42a4-8165-b80f7a86496d",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "punk",
       "punk rock"
     ]
+  },
+  "lastfm": {
+    "id": "Nina+Hagen/_/TV-Glotzer+(White+Punks+On+Dope)",
+    "listeners": 23408,
+    "playcount": 88079
   }
 }

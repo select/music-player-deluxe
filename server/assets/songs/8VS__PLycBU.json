@@ -15,7 +15,9 @@
     "youtube": "8VS__PLycBU",
     "youtubeMusic": "8VS__PLycBU"
   },
-  "lastfmId": "Esc+&+Mineral/_/Vortex",
-  "listeners": 25,
-  "playcount": 58
+  "lastfm": {
+    "id": "Esc+&+Mineral/_/Vortex",
+    "listeners": 25,
+    "playcount": 58
+  }
 }

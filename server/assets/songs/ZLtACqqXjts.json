@@ -12,8 +12,10 @@
     "youtube": "ZLtACqqXjts",
     "youtubeMusic": "ZLtACqqXjts"
   },
-  "lastfmId": "Fetish/_/Come+Check+This",
-  "listeners": 17029,
-  "playcount": 87454,
-  "artistMbid": "31bd53dc-db4a-407e-9ea4-d64cd37ca05c"
+  "artistMbid": "31bd53dc-db4a-407e-9ea4-d64cd37ca05c",
+  "lastfm": {
+    "id": "Fetish/_/Come+Check+This",
+    "listeners": 17029,
+    "playcount": 87454
+  }
 }

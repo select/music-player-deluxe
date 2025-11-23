@@ -21,7 +21,9 @@
     "youtube": "_Z7Y89M07_0",
     "youtubeMusic": "_Z7Y89M07_0"
   },
-  "lastfmId": "Ilhan+Ersahin/_/Pris",
-  "listeners": 280,
-  "playcount": 658
+  "lastfm": {
+    "id": "Ilhan+Ersahin/_/Pris",
+    "listeners": 280,
+    "playcount": 658
+  }
 }

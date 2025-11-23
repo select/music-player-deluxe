@@ -22,11 +22,7 @@
     "youtubeMusic": "yoCD5wZEgo4"
   },
   "mbid": "76c6b0b2-2dfe-3d47-9453-4a0cf38a3011",
-  "lastfmId": "Linkin+Park/_/Points+of+Authority",
-  "listeners": 1137145,
-  "playcount": 10291407,
   "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
-  "lastfmSummary": "\"Points of Authority\" is a song by American rock band Linkin Park. It is the fourth track on their first studio album, Hybrid Theory. The song was released in 2001 as a promo release. A CD single for the song was set to be released in the UK in September 2001, but instead, \"Papercut\" was released as the third single from the album. It was later planned as the fifth official single from the album, planned for a January 2002 release but was cancelled for unknown reasons. <a href=\"http://www.last.fm/music/Linkin+Park/_/Points+of+Authority\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "Nu Metal",
@@ -35,5 +31,11 @@
       "alternative",
       "Linkin Park"
     ]
+  },
+  "lastfm": {
+    "id": "Linkin+Park/_/Points+of+Authority",
+    "listeners": 1137145,
+    "playcount": 10291407,
+    "summary": "\"Points of Authority\" is a song by American rock band Linkin Park. It is the fourth track on their first studio album, Hybrid Theory. The song was released in 2001 as a promo release. A CD single for the song was set to be released in the UK in September 2001, but instead, \"Papercut\" was released as the third single from the album. It was later planned as the fifth official single from the album, planned for a January 2002 release but was cancelled for unknown reasons. <a href=\"http://www.last.fm/music/Linkin+Park/_/Points+of+Authority\">Read more on Last.fm</a>."
   }
 }

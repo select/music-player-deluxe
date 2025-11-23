@@ -15,8 +15,10 @@
     "youtube": "no6qXhc4oE0",
     "youtubeMusic": "no6qXhc4oE0"
   },
-  "lastfmId": "Michael+Fiedler/_/Chain",
-  "listeners": 22,
-  "playcount": 25,
-  "artistMbid": "a02cc5f1-317a-4cfe-9f98-4869403d4168"
+  "artistMbid": "a02cc5f1-317a-4cfe-9f98-4869403d4168",
+  "lastfm": {
+    "id": "Michael+Fiedler/_/Chain",
+    "listeners": 22,
+    "playcount": 25
+  }
 }

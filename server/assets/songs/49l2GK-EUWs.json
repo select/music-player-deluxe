@@ -16,9 +16,6 @@
     "youtube": "49l2GK-EUWs",
     "youtubeMusic": "49l2GK-EUWs"
   },
-  "lastfmId": "Need+for+Mirrors/_/Pagans",
-  "listeners": 7258,
-  "playcount": 27977,
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
@@ -27,5 +24,10 @@
     "artistGenres": [
       "drum and bass"
     ]
+  },
+  "lastfm": {
+    "id": "Need+for+Mirrors/_/Pagans",
+    "listeners": 7258,
+    "playcount": 27977
   }
 }

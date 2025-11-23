@@ -15,9 +15,6 @@
     "youtubeMusic": "7HRzcu4uKvA"
   },
   "mbid": "ad5a3209-8793-48e2-b146-d32fb1915200",
-  "lastfmId": "Seether/_/What+Would+You+Do%3F",
-  "listeners": 17594,
-  "playcount": 102009,
   "artistMbid": "fbcd7b29-455f-49e6-9c4f-8249d20a055e",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
       "post-grunge",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Seether/_/What+Would+You+Do%3F",
+    "listeners": 17594,
+    "playcount": 102009
   }
 }

@@ -7,14 +7,16 @@
   "duration": 160,
   "youtubeId": "qZuxPKUVGiw",
   "lastFetched": "2025-11-19T04:49:26.295Z",
-  "lastfmId": "N.W.A/_/Fuck+the+Police",
-  "listeners": 20752,
-  "playcount": 74937,
   "musicbrainz": {
     "artistTags": [
       "gangsta rap",
       "hip hop",
       "west coast hip hop"
     ]
+  },
+  "lastfm": {
+    "id": "N.W.A/_/Fuck+the+Police",
+    "listeners": 20752,
+    "playcount": 74937
   }
 }

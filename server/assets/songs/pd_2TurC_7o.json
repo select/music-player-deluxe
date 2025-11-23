@@ -4,9 +4,6 @@
   "artist": "Agincourt",
   "lastFetched": "2025-11-23T16:50:26.227Z",
   "mbid": "0965ee95-e1f7-3e6d-a0ff-821adce20215",
-  "lastfmId": "Agincourt/_/When+I+Awoke",
-  "listeners": 2502,
-  "playcount": 10782,
   "artistMbid": "6d93dab7-5483-4551-a19a-7f11dc4068b8",
   "musicbrainz": {
     "artistTags": [
@@ -21,5 +18,10 @@
       "progressive folk",
       "psychedelic folk"
     ]
+  },
+  "lastfm": {
+    "id": "Agincourt/_/When+I+Awoke",
+    "listeners": 2502,
+    "playcount": 10782
   }
 }

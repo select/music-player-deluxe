@@ -10,7 +10,9 @@
     "youtube": "HkksN1a0Bh8",
     "youtubeMusic": "HkksN1a0Bh8"
   },
-  "lastfmId": "Ronny+Trettmann/_/Birnenpfeffi+mit+Zimt+(A+Capella)",
-  "listeners": 15,
-  "playcount": 16
+  "lastfm": {
+    "id": "Ronny+Trettmann/_/Birnenpfeffi+mit+Zimt+(A+Capella)",
+    "listeners": 15,
+    "playcount": 16
+  }
 }

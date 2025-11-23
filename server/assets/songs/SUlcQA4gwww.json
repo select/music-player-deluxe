@@ -21,7 +21,9 @@
     "youtube": "SUlcQA4gwww",
     "youtubeMusic": "SUlcQA4gwww"
   },
-  "lastfmId": "Chaim/_/Love+Rehab",
-  "listeners": 8009,
-  "playcount": 37904
+  "lastfm": {
+    "id": "Chaim/_/Love+Rehab",
+    "listeners": 8009,
+    "playcount": 37904
+  }
 }

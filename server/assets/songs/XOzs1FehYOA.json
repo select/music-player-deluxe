@@ -22,11 +22,7 @@
     "youtubeMusic": "XOzs1FehYOA"
   },
   "mbid": "7615e831-dc40-3e3a-9c79-2c59fbe49add",
-  "lastfmId": "Deftones/_/My+Own+Summer+(Shove+It)",
-  "listeners": 1699853,
-  "playcount": 24352428,
   "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
-  "lastfmSummary": "\"My Own Summer (Shove It)\" is a song by American alternative metal band Deftones, released in 1997 by Maverick Records as the first single from their second album Around The Fur. It was Deftones' first charting single, reaching number 29 in the UK Singles Chart. The song also features backing vocals from bassist Chi Cheng, in the chorus. The song has been described as a defining track of the nu metal and alternative metal genres.\n\nThe video for \"My Own Summer (Shove It)\" <a href=\"http://www.last.fm/music/Deftones/_/My+Own+Summer+(Shove+It)\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "Nu Metal",
@@ -35,5 +31,11 @@
       "alternative metal",
       "alternative rock"
     ]
+  },
+  "lastfm": {
+    "id": "Deftones/_/My+Own+Summer+(Shove+It)",
+    "listeners": 1699853,
+    "playcount": 24352428,
+    "summary": "\"My Own Summer (Shove It)\" is a song by American alternative metal band Deftones, released in 1997 by Maverick Records as the first single from their second album Around The Fur. It was Deftones' first charting single, reaching number 29 in the UK Singles Chart. The song also features backing vocals from bassist Chi Cheng, in the chorus. The song has been described as a defining track of the nu metal and alternative metal genres.\n\nThe video for \"My Own Summer (Shove It)\" <a href=\"http://www.last.fm/music/Deftones/_/My+Own+Summer+(Shove+It)\">Read more on Last.fm</a>."
   }
 }

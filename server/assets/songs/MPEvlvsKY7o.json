@@ -18,11 +18,11 @@
     "youtube": "MPEvlvsKY7o",
     "youtubeMusic": "MPEvlvsKY7o"
   },
-  "lastfmId": "LANDER+&+ADRIAAN/_/Dansshow",
-  "listeners": 4056,
-  "playcount": 12014,
   "lastfm": {
     "title": "Dansshow",
-    "artist": "LANDER & ADRIAAN"
+    "artist": "LANDER & ADRIAAN",
+    "id": "LANDER+&+ADRIAAN/_/Dansshow",
+    "listeners": 4056,
+    "playcount": 12014
   }
 }

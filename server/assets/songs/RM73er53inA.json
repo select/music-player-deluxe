@@ -15,9 +15,6 @@
     "youtubeMusic": "RM73er53inA"
   },
   "mbid": "4f72791a-fbd0-368b-8b35-3e928c2c9963",
-  "lastfmId": "Angels+&+Airwaves/_/Surrender",
-  "listeners": 61781,
-  "playcount": 509430,
   "artistMbid": "05071a7e-e71c-4306-a509-591cd3686893",
   "musicbrainz": {
     "artistTags": [
@@ -30,5 +27,10 @@
       "pop rock",
       "space rock"
     ]
+  },
+  "lastfm": {
+    "id": "Angels+&+Airwaves/_/Surrender",
+    "listeners": 61781,
+    "playcount": 509430
   }
 }

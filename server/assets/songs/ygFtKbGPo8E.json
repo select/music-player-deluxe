@@ -19,12 +19,12 @@
     "youtube": "ygFtKbGPo8E",
     "youtubeMusic": "ygFtKbGPo8E"
   },
-  "lastfmId": "Marina+Herlop/_/Reina+Mora",
-  "listeners": 5011,
-  "playcount": 15344,
   "lastfm": {
     "title": "Reina Mora",
     "artist": "Marina Herlop",
-    "artistMbid": "a9cf7208-96ef-4b24-acfd-48f361b10f26"
+    "artistMbid": "a9cf7208-96ef-4b24-acfd-48f361b10f26",
+    "id": "Marina+Herlop/_/Reina+Mora",
+    "listeners": 5011,
+    "playcount": 15344
   }
 }

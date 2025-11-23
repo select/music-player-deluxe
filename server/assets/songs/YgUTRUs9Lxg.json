@@ -21,9 +21,6 @@
     "youtubeMusic": "YgUTRUs9Lxg"
   },
   "mbid": "3ce3b466-4e60-3581-a104-93a2b1a166b7",
-  "lastfmId": "Ryan+Adams/_/Nobody+Girl",
-  "listeners": 83488,
-  "playcount": 360189,
   "artistMbid": "c80f38a6-9980-485d-997c-5c1a9cbd0d64",
   "musicbrainz": {
     "artistTags": [
@@ -44,5 +41,10 @@
       "country",
       "indie rock"
     ]
+  },
+  "lastfm": {
+    "id": "Ryan+Adams/_/Nobody+Girl",
+    "listeners": 83488,
+    "playcount": 360189
   }
 }

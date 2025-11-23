@@ -19,8 +19,10 @@
     "youtube": "yon907lCzMc",
     "youtubeMusic": "yon907lCzMc"
   },
-  "lastfmId": "Thomas+Fehlmann/_/wasser+im+fluss",
-  "listeners": 9422,
-  "playcount": 30665,
-  "artistMbid": "3970056e-1c2a-4556-815b-010c3acad220"
+  "artistMbid": "3970056e-1c2a-4556-815b-010c3acad220",
+  "lastfm": {
+    "id": "Thomas+Fehlmann/_/wasser+im+fluss",
+    "listeners": 9422,
+    "playcount": 30665
+  }
 }

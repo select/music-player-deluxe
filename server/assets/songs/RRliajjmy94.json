@@ -20,8 +20,10 @@
     "youtube": "RRliajjmy94",
     "youtubeMusic": "RRliajjmy94"
   },
-  "lastfmId": "Breakage/_/Ric+Flair+Strut",
-  "listeners": 1368,
-  "playcount": 3517,
-  "artistMbid": "6e9a0ac8-699b-4817-8f9b-25a6dba89f57"
+  "artistMbid": "6e9a0ac8-699b-4817-8f9b-25a6dba89f57",
+  "lastfm": {
+    "id": "Breakage/_/Ric+Flair+Strut",
+    "listeners": 1368,
+    "playcount": 3517
+  }
 }

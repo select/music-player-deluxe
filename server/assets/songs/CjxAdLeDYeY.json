@@ -21,9 +21,6 @@
     "youtubeMusic": "CjxAdLeDYeY"
   },
   "mbid": "137cd62a-9130-4979-b356-55bfad3e2207",
-  "lastfmId": "Little+Simz/_/Silhouette",
-  "listeners": 105625,
-  "playcount": 603694,
   "artistMbid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
   "musicbrainz": {
     "artistTags": [
@@ -36,5 +33,10 @@
       "hip hop",
       "pop rap"
     ]
+  },
+  "lastfm": {
+    "id": "Little+Simz/_/Silhouette",
+    "listeners": 105625,
+    "playcount": 603694
   }
 }

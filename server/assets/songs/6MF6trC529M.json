@@ -13,11 +13,7 @@
     "youtubeMusic": "6MF6trC529M"
   },
   "mbid": "cf2e723f-fbc7-4566-be93-1368286f136a",
-  "lastfmId": "Foo+Fighters/_/The+Teacher",
-  "listeners": 64536,
-  "playcount": 301689,
   "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
-  "lastfmSummary": "“The Teacher” is the tenth track on the Foo Fighters album, But Here We Are, released in 2023.\n\nDave Grohl explained in a recent Song Exploder podcast episode  that the song was written in dedication to his late mother, Virginia, who passed away in 2022, and states in the podcast episode that this song “…is the most important piece of music he’s ever written…”. <a href=\"http://www.last.fm/music/Foo+Fighters/_/The+Teacher\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "alternative rock",
@@ -49,5 +45,11 @@
       "post-grunge",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Foo+Fighters/_/The+Teacher",
+    "listeners": 64536,
+    "playcount": 301689,
+    "summary": "“The Teacher” is the tenth track on the Foo Fighters album, But Here We Are, released in 2023.\n\nDave Grohl explained in a recent Song Exploder podcast episode  that the song was written in dedication to his late mother, Virginia, who passed away in 2022, and states in the podcast episode that this song “…is the most important piece of music he’s ever written…”. <a href=\"http://www.last.fm/music/Foo+Fighters/_/The+Teacher\">Read more on Last.fm</a>."
   }
 }

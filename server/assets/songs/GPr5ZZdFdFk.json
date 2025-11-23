@@ -21,9 +21,6 @@
     "youtubeMusic": "GPr5ZZdFdFk"
   },
   "mbid": "1003ca48-d3e2-4d25-98f9-2552ccbcd800",
-  "lastfmId": "Dennis+Wilson/_/Dreamer",
-  "listeners": 52216,
-  "playcount": 177709,
   "artistMbid": "4051f6bf-6a59-4d23-bd8b-2fddb1389dc0",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
     "artistGenres": [
       "classic rock"
     ]
+  },
+  "lastfm": {
+    "id": "Dennis+Wilson/_/Dreamer",
+    "listeners": 52216,
+    "playcount": 177709
   }
 }

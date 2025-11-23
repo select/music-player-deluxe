@@ -11,7 +11,9 @@
     "youtube": "PewD7EHG5zE",
     "youtubeMusic": "PewD7EHG5zE"
   },
-  "lastfmId": "die+Quittung/_/Eintauchen",
-  "listeners": 62,
-  "playcount": 113
+  "lastfm": {
+    "id": "die+Quittung/_/Eintauchen",
+    "listeners": 62,
+    "playcount": 113
+  }
 }

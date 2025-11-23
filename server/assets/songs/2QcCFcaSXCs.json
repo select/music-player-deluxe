@@ -12,11 +12,11 @@
     "youtube": "2QcCFcaSXCs",
     "youtubeMusic": "2QcCFcaSXCs"
   },
-  "lastfmId": "Nomine/_/Blind+Man",
-  "listeners": 9807,
-  "playcount": 46338,
   "lastfm": {
     "title": "Blind Man",
-    "artist": "Nomine"
+    "artist": "Nomine",
+    "id": "Nomine/_/Blind+Man",
+    "listeners": 9807,
+    "playcount": 46338
   }
 }

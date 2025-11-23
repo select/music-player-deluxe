@@ -13,9 +13,6 @@
     "youtubeMusic": "FHz-f2nAqs8"
   },
   "mbid": "269920ec-5167-43b4-bf66-51d4f678247e",
-  "lastfmId": "Karma+to+Burn/_/Twenty+Eight",
-  "listeners": 16083,
-  "playcount": 65061,
   "artistMbid": "a587390a-db69-4ba9-9d7b-3afa13aefc6a",
   "musicbrainz": {
     "artistTags": [
@@ -35,5 +32,10 @@
       "metal",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Karma+to+Burn/_/Twenty+Eight",
+    "listeners": 16083,
+    "playcount": 65061
   }
 }

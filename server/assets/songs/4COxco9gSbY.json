@@ -22,8 +22,10 @@
     "youtubeMusic": "4COxco9gSbY"
   },
   "mbid": "21316ced-148e-440a-95bc-96832feae4f6",
-  "lastfmId": "The+8th+Day/_/Cheba",
-  "listeners": 526,
-  "playcount": 1340,
-  "artistMbid": "f755316f-044d-40e3-9087-8ee9dc9b804a"
+  "artistMbid": "f755316f-044d-40e3-9087-8ee9dc9b804a",
+  "lastfm": {
+    "id": "The+8th+Day/_/Cheba",
+    "listeners": 526,
+    "playcount": 1340
+  }
 }

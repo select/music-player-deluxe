@@ -14,9 +14,6 @@
     "youtubeMusic": "mWCNdsO12aA"
   },
   "mbid": "4db7af3e-d5ec-4834-8066-8037b357d8ad",
-  "lastfmId": "Casper/_/echt+von+unten+%2F+zo%C3%A9+freestyle",
-  "listeners": 6279,
-  "playcount": 49785,
   "artistMbid": "fd3ff7a2-e1d2-4486-9d25-cb9d69fa084c",
   "musicbrainz": {
     "artistTags": [
@@ -37,5 +34,10 @@
       "industrial hip hop",
       "pop rap"
     ]
+  },
+  "lastfm": {
+    "id": "Casper/_/echt+von+unten+%2F+zo%C3%A9+freestyle",
+    "listeners": 6279,
+    "playcount": 49785
   }
 }

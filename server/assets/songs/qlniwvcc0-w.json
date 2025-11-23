@@ -21,9 +21,6 @@
     "youtubeMusic": "qlniwvcc0-w"
   },
   "mbid": "1732a59d-6442-411d-a471-1c313486b782",
-  "lastfmId": "Hugo+Massien/_/God+Knows+We+Tried",
-  "listeners": 6459,
-  "playcount": 22164,
   "artistMbid": "ac017afa-aa56-4856-9385-94c4a96f1aef",
   "musicbrainz": {
     "artistTags": [
@@ -45,5 +42,10 @@
       "club",
       "deep house"
     ]
+  },
+  "lastfm": {
+    "id": "Hugo+Massien/_/God+Knows+We+Tried",
+    "listeners": 6459,
+    "playcount": 22164
   }
 }

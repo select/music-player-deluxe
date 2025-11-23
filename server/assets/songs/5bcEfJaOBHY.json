@@ -23,8 +23,10 @@
     "youtubeMusic": "5bcEfJaOBHY"
   },
   "name": "ChooCoo Riddim",
-  "lastfmId": "Gualtiero/_/ChooCoo+Riddim",
-  "listeners": 281,
-  "playcount": 912,
-  "artistMbid": "580296ea-c46d-487a-a3c2-cbbdfb141fd0"
+  "artistMbid": "580296ea-c46d-487a-a3c2-cbbdfb141fd0",
+  "lastfm": {
+    "id": "Gualtiero/_/ChooCoo+Riddim",
+    "listeners": 281,
+    "playcount": 912
+  }
 }

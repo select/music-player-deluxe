@@ -16,7 +16,9 @@
     "youtubeMusic": "_CjnBnqjlbY"
   },
   "name": "Llaqui Cusi",
-  "lastfmId": "Rut+Alonso/_/Llaqui+Cusi",
-  "listeners": 44,
-  "playcount": 91
+  "lastfm": {
+    "id": "Rut+Alonso/_/Llaqui+Cusi",
+    "listeners": 44,
+    "playcount": 91
+  }
 }

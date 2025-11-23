@@ -7,9 +7,6 @@
   "duration": 187,
   "youtubeId": "cxvaa028KQo",
   "lastFetched": "2025-11-19T05:36:10.967Z",
-  "lastfmId": "Finch/_/Direkt+Bock",
-  "listeners": 6318,
-  "playcount": 40795,
   "musicbrainz": {
     "artistTags": [
       "german",
@@ -17,5 +14,10 @@
       "parody",
       "rap"
     ]
+  },
+  "lastfm": {
+    "id": "Finch/_/Direkt+Bock",
+    "listeners": 6318,
+    "playcount": 40795
   }
 }

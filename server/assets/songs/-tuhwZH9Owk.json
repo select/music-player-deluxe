@@ -21,9 +21,6 @@
     "youtubeMusic": "-tuhwZH9Owk"
   },
   "mbid": "3457c963-7a88-40c0-b358-444da6e3b8e2",
-  "lastfmId": "Stephen+Malkmus/_/Belziger+Faceplant",
-  "listeners": 6602,
-  "playcount": 16672,
   "artistMbid": "eaefd603-84c1-4db4-a72b-0cb718a0cc07",
   "musicbrainz": {
     "artistTags": [
@@ -42,5 +39,10 @@
       "psychedelic folk",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Stephen+Malkmus/_/Belziger+Faceplant",
+    "listeners": 6602,
+    "playcount": 16672
   }
 }

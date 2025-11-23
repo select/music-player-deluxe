@@ -10,7 +10,9 @@
     "youtube": "uwYCqAmh5eU",
     "youtubeMusic": "uwYCqAmh5eU"
   },
-  "lastfmId": "BYU+Singers/_/Sleep",
-  "listeners": 548,
-  "playcount": 2883
+  "lastfm": {
+    "id": "BYU+Singers/_/Sleep",
+    "listeners": 548,
+    "playcount": 2883
+  }
 }

@@ -19,8 +19,10 @@
     "youtube": "O40YmzWu8Qg",
     "youtubeMusic": "O40YmzWu8Qg"
   },
-  "lastfmId": "Glass+Museum/_/Auburn",
-  "listeners": 1241,
-  "playcount": 3568,
-  "artistMbid": "b87dfb5e-97d8-4679-8eb3-1b58cf2b39b0"
+  "artistMbid": "b87dfb5e-97d8-4679-8eb3-1b58cf2b39b0",
+  "lastfm": {
+    "id": "Glass+Museum/_/Auburn",
+    "listeners": 1241,
+    "playcount": 3568
+  }
 }

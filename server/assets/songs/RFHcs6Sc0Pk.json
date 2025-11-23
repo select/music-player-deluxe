@@ -25,7 +25,9 @@
     "youtube": "RFHcs6Sc0Pk",
     "youtubeMusic": "RFHcs6Sc0Pk"
   },
-  "lastfmId": "Salami+Rose+Joe+Louis/_/A+Thermogenic+Interlude",
-  "listeners": 3381,
-  "playcount": 7912
+  "lastfm": {
+    "id": "Salami+Rose+Joe+Louis/_/A+Thermogenic+Interlude",
+    "listeners": 3381,
+    "playcount": 7912
+  }
 }

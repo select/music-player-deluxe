@@ -7,7 +7,9 @@
   "duration": 417,
   "youtubeId": "oBmwTSyg4fk",
   "lastFetched": "2025-11-19T05:02:08.749Z",
-  "lastfmId": "D5/_/Run",
-  "listeners": 1290,
-  "playcount": 3557
+  "lastfm": {
+    "id": "D5/_/Run",
+    "listeners": 1290,
+    "playcount": 3557
+  }
 }

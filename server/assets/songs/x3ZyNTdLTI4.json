@@ -12,9 +12,6 @@
     "youtubeMusic": "x3ZyNTdLTI4"
   },
   "mbid": "42e805e1-c28f-4622-8d2e-87bc37747ac6",
-  "lastfmId": "Abstract+Elements/_/Why%3F",
-  "listeners": 216,
-  "playcount": 637,
   "artistMbid": "80ba0f2a-c8a6-4f5d-bf11-f2b5b077f4ed",
   "musicbrainz": {
     "artistTags": [
@@ -25,5 +22,10 @@
       "drum and bass",
       "minimal drum and bass"
     ]
+  },
+  "lastfm": {
+    "id": "Abstract+Elements/_/Why%3F",
+    "listeners": 216,
+    "playcount": 637
   }
 }

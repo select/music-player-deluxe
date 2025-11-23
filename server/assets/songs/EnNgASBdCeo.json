@@ -21,11 +21,7 @@
     "youtube": "EnNgASBdCeo",
     "youtubeMusic": "EnNgASBdCeo"
   },
-  "lastfmId": "Stevie+Wonder/_/Sir+Duke",
-  "listeners": 956134,
-  "playcount": 6129961,
   "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
-  "lastfmSummary": "Sir Duke stands as one of Stevie Wonder's most celebrated compositions, released in 1977 as a single from his landmark Songs in the Key of Life (1976). The song serves as both a musical tribute and a historical document, honoring Duke Ellington, the pioneering jazz pianist and bandleader who revolutionized American music before his passing in 1974. Beyond Ellington, Wonder's lyrics celebrate a constellation of jazz luminaries including Count Basie <a href=\"http://www.last.fm/music/Stevie+Wonder/_/Sir+Duke\">Read more on Last.fm</a>.",
   "musicbrainz": {
     "tags": [
       "soul",
@@ -34,5 +30,11 @@
       "motown",
       "pop"
     ]
+  },
+  "lastfm": {
+    "id": "Stevie+Wonder/_/Sir+Duke",
+    "listeners": 956134,
+    "playcount": 6129961,
+    "summary": "Sir Duke stands as one of Stevie Wonder's most celebrated compositions, released in 1977 as a single from his landmark Songs in the Key of Life (1976). The song serves as both a musical tribute and a historical document, honoring Duke Ellington, the pioneering jazz pianist and bandleader who revolutionized American music before his passing in 1974. Beyond Ellington, Wonder's lyrics celebrate a constellation of jazz luminaries including Count Basie <a href=\"http://www.last.fm/music/Stevie+Wonder/_/Sir+Duke\">Read more on Last.fm</a>."
   }
 }

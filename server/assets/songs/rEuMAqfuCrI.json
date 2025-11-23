@@ -20,9 +20,6 @@
     "youtubeMusic": "rEuMAqfuCrI"
   },
   "mbid": "802c861b-6b6f-4841-8722-7f93bb95f525",
-  "lastfmId": "Igorrr/_/Opus+Brain",
-  "listeners": 31470,
-  "playcount": 181283,
   "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73",
   "musicbrainz": {
     "artistTags": [
@@ -43,5 +40,10 @@
       "breakcore",
       "death metal"
     ]
+  },
+  "lastfm": {
+    "id": "Igorrr/_/Opus+Brain",
+    "listeners": 31470,
+    "playcount": 181283
   }
 }

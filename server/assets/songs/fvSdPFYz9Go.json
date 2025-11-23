@@ -15,12 +15,14 @@
     "youtube": "fvSdPFYz9Go",
     "youtubeMusic": "fvSdPFYz9Go"
   },
-  "lastfmId": "Arto+Lindsay/_/TANGLES",
-  "listeners": 8898,
-  "playcount": 24867,
   "musicbrainz": {
     "artistTags": [
       "no wave"
     ]
+  },
+  "lastfm": {
+    "id": "Arto+Lindsay/_/TANGLES",
+    "listeners": 8898,
+    "playcount": 24867
   }
 }

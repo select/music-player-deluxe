@@ -19,9 +19,11 @@
     "youtube": "Nbokg0KM-n8",
     "youtubeMusic": "Nbokg0KM-n8"
   },
-  "lastfmId": "Aretha+Franklin/_/Until+You+Come+Back+to+Me+(That%27s+What+I%27m+Gonna+Do)",
-  "listeners": 73431,
-  "playcount": 295148,
   "artistMbid": "2f9ecbed-27be-40e6-abca-6de49d50299e",
-  "lastfmSummary": "\"Until You Come Back to Me (That's What I'm Gonna Do)\" is a song written by Morris Broadnax, Clarence Paul, and Stevie Wonder. The song was originally recorded by Stevie Wonder in 1967, but his version was not released as a single and did not appear on an album until 1977's anthology Looking Back. The best-known version of this song is the 1973 release by Aretha Franklin, who had a million-selling top 10 hit on Billboard charts. The song reached No. 1 on the R&B chart and No. 3 on the Hot 100 chart in 1974. It became an RIAA Gold record. <a href=\"http://www.last.fm/music/Aretha+Franklin/_/Until+You+Come+Back+to+Me+(That%27s+What+I%27m+Gonna+Do)\">Read more on Last.fm</a>."
+  "lastfm": {
+    "id": "Aretha+Franklin/_/Until+You+Come+Back+to+Me+(That%27s+What+I%27m+Gonna+Do)",
+    "listeners": 73431,
+    "playcount": 295148,
+    "summary": "\"Until You Come Back to Me (That's What I'm Gonna Do)\" is a song written by Morris Broadnax, Clarence Paul, and Stevie Wonder. The song was originally recorded by Stevie Wonder in 1967, but his version was not released as a single and did not appear on an album until 1977's anthology Looking Back. The best-known version of this song is the 1973 release by Aretha Franklin, who had a million-selling top 10 hit on Billboard charts. The song reached No. 1 on the R&B chart and No. 3 on the Hot 100 chart in 1974. It became an RIAA Gold record. <a href=\"http://www.last.fm/music/Aretha+Franklin/_/Until+You+Come+Back+to+Me+(That%27s+What+I%27m+Gonna+Do)\">Read more on Last.fm</a>."
+  }
 }

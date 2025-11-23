@@ -20,14 +20,16 @@
     "youtube": "RDSEtWt9u-A",
     "youtubeMusic": "RDSEtWt9u-A"
   },
-  "lastfmId": "Everything+Everything/_/Regret",
-  "listeners": 102326,
-  "playcount": 789266,
   "musicbrainz": {
     "tags": [
       "art pop",
       "indie rock",
       "progressive pop"
     ]
+  },
+  "lastfm": {
+    "id": "Everything+Everything/_/Regret",
+    "listeners": 102326,
+    "playcount": 789266
   }
 }

@@ -4,9 +4,6 @@
   "artist": "Stevie Ray Vaughan",
   "lastFetched": "2025-11-23T16:41:10.521Z",
   "mbid": "16d9a44e-feac-40d9-839f-a18bf6faa312",
-  "lastfmId": "Stevie+Ray+Vaughan/_/Mary+Had+A+Little+Lamb",
-  "listeners": 190191,
-  "playcount": 732312,
   "artistMbid": "f5426431-f490-4678-ad44-a75c71097bb4",
   "musicbrainz": {
     "artistTags": [
@@ -25,5 +22,10 @@
       "electric texas blues",
       "texas blues"
     ]
+  },
+  "lastfm": {
+    "id": "Stevie+Ray+Vaughan/_/Mary+Had+A+Little+Lamb",
+    "listeners": 190191,
+    "playcount": 732312
   }
 }

@@ -16,9 +16,6 @@
     "youtubeMusic": "D4QTrxBDAIM"
   },
   "mbid": "b73facaf-dd71-412d-a0a0-597c079b2a03",
-  "lastfmId": "The+Pineapple+Thief/_/The+Frost",
-  "listeners": 9565,
-  "playcount": 48401,
   "artistMbid": "e8f55abb-a6d5-4e5f-81b4-14f9cc320519",
   "musicbrainz": {
     "artistTags": [
@@ -33,5 +30,10 @@
       "crossover prog",
       "progressive rock"
     ]
+  },
+  "lastfm": {
+    "id": "The+Pineapple+Thief/_/The+Frost",
+    "listeners": 9565,
+    "playcount": 48401
   }
 }

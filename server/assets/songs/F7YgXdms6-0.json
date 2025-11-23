@@ -22,9 +22,6 @@
     "youtubeMusic": "F7YgXdms6-0"
   },
   "mbid": "76f6bf4c-6475-47db-80e4-d62dccf6856b",
-  "lastfmId": "Dire+Straits/_/Southbound+Again",
-  "listeners": 211950,
-  "playcount": 923295,
   "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a",
   "musicbrainz": {
     "artistTags": [
@@ -46,5 +43,10 @@
       "pub rock",
       "rock"
     ]
+  },
+  "lastfm": {
+    "id": "Dire+Straits/_/Southbound+Again",
+    "listeners": 211950,
+    "playcount": 923295
   }
 }

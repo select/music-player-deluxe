@@ -19,9 +19,6 @@
     "youtubeMusic": "LIejWJ1rsgU"
   },
   "mbid": "470f4030-6ffc-4cee-ad00-b2df0e35ed8e",
-  "lastfmId": "Queens+of+the+Stone+Age/_/Emotion+Sickness",
-  "listeners": 117545,
-  "playcount": 814140,
   "artistMbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
   "musicbrainz": {
     "tags": [
@@ -49,5 +46,10 @@
       "rock",
       "stoner rock"
     ]
+  },
+  "lastfm": {
+    "id": "Queens+of+the+Stone+Age/_/Emotion+Sickness",
+    "listeners": 117545,
+    "playcount": 814140
   }
 }

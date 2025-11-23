@@ -19,9 +19,6 @@
     "youtubeMusic": "XnVPaTL8PsI"
   },
   "mbid": "719a9e36-b358-4296-87aa-4bcbeff94eed",
-  "lastfmId": "Herbert+Pixner+Projekt/_/Notturno",
-  "listeners": 1681,
-  "playcount": 7293,
   "artistMbid": "e2360a56-f63a-4589-9295-f83130b563c5",
   "musicbrainz": {
     "artistTags": [
@@ -32,5 +29,10 @@
     "artistGenres": [
       "folk"
     ]
+  },
+  "lastfm": {
+    "id": "Herbert+Pixner+Projekt/_/Notturno",
+    "listeners": 1681,
+    "playcount": 7293
   }
 }

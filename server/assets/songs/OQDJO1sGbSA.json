@@ -11,7 +11,9 @@
     "youtube": "OQDJO1sGbSA",
     "youtubeMusic": "OQDJO1sGbSA"
   },
-  "lastfmId": "King+Kashmere/_/Damien+Darhk",
-  "listeners": 150,
-  "playcount": 533
+  "lastfm": {
+    "id": "King+Kashmere/_/Damien+Darhk",
+    "listeners": 150,
+    "playcount": 533
+  }
 }

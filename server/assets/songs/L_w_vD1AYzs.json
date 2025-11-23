@@ -11,7 +11,9 @@
     "youtube": "L_w_vD1AYzs",
     "youtubeMusic": "L_w_vD1AYzs"
   },
-  "lastfmId": "MISERO/_/Do+It+Again",
-  "listeners": 1169,
-  "playcount": 2815
+  "lastfm": {
+    "id": "MISERO/_/Do+It+Again",
+    "listeners": 1169,
+    "playcount": 2815
+  }
 }

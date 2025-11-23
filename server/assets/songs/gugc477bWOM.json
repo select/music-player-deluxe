@@ -19,8 +19,10 @@
     "youtube": "gugc477bWOM",
     "youtubeMusic": "gugc477bWOM"
   },
-  "lastfmId": "Jaakko+Eino+Kalevi/_/Let%E2%80%99s+See+How+Things+Go",
-  "listeners": 873,
-  "playcount": 2095,
-  "artistMbid": "81590419-e62c-43dd-9097-aaf6274c77cc"
+  "artistMbid": "81590419-e62c-43dd-9097-aaf6274c77cc",
+  "lastfm": {
+    "id": "Jaakko+Eino+Kalevi/_/Let%E2%80%99s+See+How+Things+Go",
+    "listeners": 873,
+    "playcount": 2095
+  }
 }

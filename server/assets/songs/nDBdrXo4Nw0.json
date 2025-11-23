@@ -10,9 +10,6 @@
     "youtubeMusic": "nDBdrXo4Nw0"
   },
   "mbid": "0ecc6781-dfbe-448f-a7d3-523568cfecdb",
-  "lastfmId": "The+Pineapple+Thief/_/Threatening+War",
-  "listeners": 16294,
-  "playcount": 97659,
   "artistMbid": "e8f55abb-a6d5-4e5f-81b4-14f9cc320519",
   "musicbrainz": {
     "artistTags": [
@@ -27,5 +24,10 @@
       "crossover prog",
       "progressive rock"
     ]
+  },
+  "lastfm": {
+    "id": "The+Pineapple+Thief/_/Threatening+War",
+    "listeners": 16294,
+    "playcount": 97659
   }
 }
