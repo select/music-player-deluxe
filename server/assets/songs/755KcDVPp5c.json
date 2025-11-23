@@ -2,7 +2,7 @@
   "youtubeId": "755KcDVPp5c",
   "title": "Forever Young",
   "artist": "Madness",
-  "lastFetched": "2025-11-19T13:23:37.465Z",
+  "lastFetched": "2025-11-23T16:29:13.385Z",
   "odesli": {
     "amazonMusic": "B0F4RS8Z8M",
     "amazonStore": "B0F4RS8Z8M",
@@ -16,5 +16,26 @@
   "lastfmId": "Madness/_/Forever+Young",
   "listeners": 22365,
   "playcount": 93039,
-  "artistMbid": "5f58803e-8c4c-478e-8b51-477f38483ede"
+  "artistMbid": "5f58803e-8c4c-478e-8b51-477f38483ede",
+  "musicbrainz": {
+    "artistTags": [
+      "2 tone",
+      "british",
+      "new wave",
+      "pop",
+      "pop rock",
+      "psychedelic pop",
+      "punk",
+      "rock",
+      "ska",
+      "sophisti-pop"
+    ],
+    "artistGenres": [
+      "2 tone",
+      "new wave",
+      "pop",
+      "pop rock",
+      "psychedelic pop"
+    ]
+  }
 }

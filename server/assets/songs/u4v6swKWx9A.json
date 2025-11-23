@@ -2,7 +2,7 @@
   "youtubeId": "u4v6swKWx9A",
   "title": "Spinning Away",
   "artist": "Brian Eno",
-  "lastFetched": "2025-11-19T09:14:43.074Z",
+  "lastFetched": "2025-11-23T16:52:18.896Z",
   "odesli": {
     "amazonMusic": "B00H89ODHW",
     "amazonStore": "B00H89ODHW",
@@ -15,5 +15,26 @@
   "lastfmId": "Brian+Eno/_/Spinning+Away",
   "listeners": 91686,
   "playcount": 483903,
-  "artistMbid": "ff95eb47-41c4-4f7f-a104-cdc30f02e872"
+  "artistMbid": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
+  "musicbrainz": {
+    "artistTags": [
+      "ambient",
+      "art pop",
+      "art rock",
+      "britannique",
+      "british",
+      "classic pop and rock",
+      "drone",
+      "electronic",
+      "experimental rock",
+      "glam rock"
+    ],
+    "artistGenres": [
+      "ambient",
+      "art pop",
+      "art rock",
+      "drone",
+      "electronic"
+    ]
+  }
 }

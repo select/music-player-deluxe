@@ -2,7 +2,7 @@
   "youtubeId": "pJJj7E0JDYI",
   "title": "Ninety Three 'Til Infinity And Beyoncé",
   "artist": "André 3000",
-  "lastFetched": "2025-11-19T14:57:43.112Z",
+  "lastFetched": "2025-11-23T16:50:13.950Z",
   "odesli": {
     "amazonMusic": "B0CN3TP79X",
     "amazonStore": "B0CN3TP79X",
@@ -17,5 +17,15 @@
   "lastfmId": "Andr%C3%A9+3000/_/Ninety+Three+%27Til+Infinity+And+Beyonc%C3%A9",
   "listeners": 96833,
   "playcount": 276122,
-  "artistMbid": "f563a1a9-069b-41ed-8b3b-e1b1a6f5b34b"
+  "artistMbid": "f563a1a9-069b-41ed-8b3b-e1b1a6f5b34b",
+  "musicbrainz": {
+    "artistTags": [
+      "hip hop",
+      "southern hip hop"
+    ],
+    "artistGenres": [
+      "hip hop",
+      "southern hip hop"
+    ]
+  }
 }

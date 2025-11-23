@@ -2,10 +2,30 @@
   "youtubeId": "EdytiYSt_mQ",
   "title": "Bring It On",
   "artist": "Nick Cave & the Bad Seeds",
-  "lastFetched": "2025-11-19T13:46:36.457Z",
+  "lastFetched": "2025-11-23T16:33:04.523Z",
   "mbid": "18907224-982b-4124-9d7e-396e4ff60110",
   "lastfmId": "Nick+Cave+&+the+Bad+Seeds/_/Bring+It+On",
   "listeners": 64026,
   "playcount": 296101,
-  "artistMbid": "172e1f1a-504d-4488-b053-6344ba63e6d0"
+  "artistMbid": "172e1f1a-504d-4488-b053-6344ba63e6d0",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "art rock",
+      "gothic rock",
+      "indie rock",
+      "post-punk",
+      "punk blues",
+      "rock",
+      "singer-songwriter",
+      "singer/songwriter"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "art rock",
+      "gothic rock",
+      "indie rock",
+      "post-punk"
+    ]
+  }
 }

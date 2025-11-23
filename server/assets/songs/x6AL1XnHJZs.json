@@ -2,7 +2,7 @@
   "youtubeId": "x6AL1XnHJZs",
   "title": "I'm Gonna Love You Just A Little More Baby",
   "artist": "Barry White",
-  "lastFetched": "2025-11-19T03:37:11.434Z",
+  "lastFetched": "2025-11-23T16:53:33.612Z",
   "odesli": {
     "boomplay": "3409567",
     "spotify": "1QR3Wcba5NBidmxEE8DW3w",
@@ -14,5 +14,26 @@
   "lastfmId": "Barry+White/_/I%27m+Gonna+Love+You+Just+A+Little+More+Baby",
   "listeners": 95413,
   "playcount": 316832,
-  "artistMbid": "b904d624-9e05-4398-8f4f-88fbcf022f79"
+  "artistMbid": "b904d624-9e05-4398-8f4f-88fbcf022f79",
+  "musicbrainz": {
+    "artistTags": [
+      "2008 universal fire victim",
+      "70s",
+      "disco",
+      "easy listening",
+      "funk",
+      "pop",
+      "pop soul",
+      "quiet storm",
+      "r&b",
+      "smooth soul"
+    ],
+    "artistGenres": [
+      "disco",
+      "easy listening",
+      "funk",
+      "pop",
+      "pop soul"
+    ]
+  }
 }

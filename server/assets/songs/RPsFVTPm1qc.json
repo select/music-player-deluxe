@@ -2,7 +2,7 @@
   "youtubeId": "RPsFVTPm1qc",
   "title": "Shout 2000",
   "artist": "Disturbed",
-  "lastFetched": "2025-11-19T08:57:23.937Z",
+  "lastFetched": "2025-11-23T16:38:58.134Z",
   "odesli": {
     "amazonMusic": "B0011Z7JHU",
     "amazonStore": "B0011Z7JHU",
@@ -21,5 +21,44 @@
   "listeners": 337067,
   "playcount": 2214565,
   "artistMbid": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5",
-  "lastfmSummary": "This song is a cover of Tears for Fears's Shout. <a href=\"http://www.last.fm/music/Disturbed/_/Shout+2000\">Read more on Last.fm</a>."
+  "lastfmSummary": "This song is a cover of Tears for Fears's Shout. <a href=\"http://www.last.fm/music/Disturbed/_/Shout+2000\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "alternative metal",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "metalcore",
+      "nu metal",
+      "pop/rock",
+      "rap metal",
+      "rap-metal",
+      "rock"
+    ],
+    "genres": [
+      "alternative metal",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "metalcore"
+    ],
+    "artistTags": [
+      "alternative",
+      "alternative metal",
+      "american",
+      "hard rock",
+      "heavy metal",
+      "industrial rock",
+      "metal",
+      "nu metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "hard rock",
+      "heavy metal",
+      "industrial rock",
+      "metal"
+    ]
+  }
 }

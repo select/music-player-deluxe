@@ -2,7 +2,7 @@
   "youtubeId": "t8iX2AK0I0s",
   "title": "Instrumental 2 (Welcome to the Caveman Future)",
   "artist": "All Them Witches",
-  "lastFetched": "2025-11-19T13:06:16.960Z",
+  "lastFetched": "2025-11-23T16:51:55.306Z",
   "odesli": {
     "amazonMusic": "B09Q868BBQ",
     "amazonStore": "B09Q868BBQ",
@@ -15,5 +15,25 @@
   "lastfmId": "All+Them+Witches/_/Instrumental+2+(Welcome+to+the+Caveman+Future)",
   "listeners": 20686,
   "playcount": 93288,
-  "artistMbid": "b574bfea-2359-4e9d-93f6-71c3c9a2a4f0"
+  "artistMbid": "b574bfea-2359-4e9d-93f6-71c3c9a2a4f0",
+  "musicbrainz": {
+    "artistTags": [
+      "blues",
+      "blues rock",
+      "desert rock",
+      "jam band",
+      "psychedelic",
+      "psychedelic rock",
+      "rock",
+      "stoner",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "desert rock",
+      "jam band",
+      "psychedelic"
+    ]
+  }
 }

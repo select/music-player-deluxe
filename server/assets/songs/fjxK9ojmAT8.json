@@ -2,7 +2,7 @@
   "youtubeId": "fjxK9ojmAT8",
   "title": "Wind Chimes",
   "artist": "The Beach Boys",
-  "lastFetched": "2025-11-19T15:41:03.753Z",
+  "lastFetched": "2025-11-23T16:45:49.761Z",
   "odesli": {
     "amazonMusic": "B005ZWPYG8",
     "amazonStore": "B005ZWPYG8",
@@ -17,5 +17,26 @@
   "lastfmId": "The+Beach+Boys/_/Wind+Chimes",
   "listeners": 79504,
   "playcount": 372872,
-  "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d"
+  "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
+  "musicbrainz": {
+    "artistTags": [
+      "american",
+      "baroque pop",
+      "classic rock",
+      "pop",
+      "pop rock",
+      "progressive pop",
+      "psychedelic pop",
+      "rock",
+      "sunshine pop",
+      "surf rock"
+    ],
+    "artistGenres": [
+      "baroque pop",
+      "classic rock",
+      "pop",
+      "pop rock",
+      "progressive pop"
+    ]
+  }
 }

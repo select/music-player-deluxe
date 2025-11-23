@@ -2,7 +2,7 @@
   "youtubeId": "DUI6HaYANRE",
   "title": "CC Cowboys",
   "artist": "Imperiet",
-  "lastFetched": "2025-11-19T17:43:38.860Z",
+  "lastFetched": "2025-11-23T16:32:25.862Z",
   "odesli": {
     "amazonMusic": "B073N77P5N",
     "amazonStore": "B073N77P5N",
@@ -25,5 +25,13 @@
   "listeners": 19026,
   "playcount": 133521,
   "artistMbid": "695e75b5-c6db-43ee-abeb-2f3e50d96c3e",
-  "lastfmSummary": "This track inspired the name of the Norwegian band CC Cowboys. <a href=\"http://www.last.fm/music/Imperiet/_/CC+Cowboys\">Read more on Last.fm</a>."
+  "lastfmSummary": "This track inspired the name of the Norwegian band CC Cowboys. <a href=\"http://www.last.fm/music/Imperiet/_/CC+Cowboys\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "post-punk"
+    ],
+    "artistGenres": [
+      "post-punk"
+    ]
+  }
 }

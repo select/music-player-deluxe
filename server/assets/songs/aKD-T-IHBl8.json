@@ -2,7 +2,7 @@
   "youtubeId": "aKD-T-IHBl8",
   "title": "Die Welt Kann Mich Nicht Mehr Verstehen",
   "artist": "Tocotronic",
-  "lastFetched": "2025-11-19T06:45:57.086Z",
+  "lastFetched": "2025-11-23T16:43:16.236Z",
   "odesli": {
     "amazonMusic": "B08VQJJ8PG",
     "amazonStore": "B08VQJJ8PG",
@@ -22,5 +22,20 @@
   "lastfmId": "Tocotronic/_/Die+Welt+Kann+Mich+Nicht+Mehr+Verstehen",
   "listeners": 34074,
   "playcount": 214449,
-  "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19"
+  "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "german",
+      "hamburger schule",
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "hamburger schule",
+      "indie rock",
+      "rock"
+    ]
+  }
 }

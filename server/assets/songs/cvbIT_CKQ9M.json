@@ -2,7 +2,7 @@
   "youtubeId": "cvbIT_CKQ9M",
   "title": "Higher Than Ever Before",
   "artist": "Disclosure",
-  "lastFetched": "2025-11-19T12:32:06.164Z",
+  "lastFetched": "2025-11-23T16:44:30.695Z",
   "odesli": {
     "amazonMusic": "B0CLM2DJSN",
     "amazonStore": "B0CLM2DJSN",
@@ -20,5 +20,17 @@
   "lastfmId": "Disclosure/_/Higher+Than+Ever+Before",
   "listeners": 73619,
   "playcount": 358024,
-  "artistMbid": "962419b3-51c6-464d-acd5-b43f88429d85"
+  "artistMbid": "962419b3-51c6-464d-acd5-b43f88429d85",
+  "musicbrainz": {
+    "tags": [
+      "atmospheric drum and bass",
+      "electro",
+      "jungle"
+    ],
+    "genres": [
+      "atmospheric drum and bass",
+      "electro",
+      "jungle"
+    ]
+  }
 }

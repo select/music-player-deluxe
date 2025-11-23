@@ -2,7 +2,7 @@
   "youtubeId": "UMTTRGM7xBc",
   "title": "Rose Pedals",
   "artist": "Lee Ritenour",
-  "lastFetched": "2025-11-19T13:05:16.015Z",
+  "lastFetched": "2025-11-23T16:40:12.387Z",
   "odesli": {
     "amazonMusic": "B0098X0CLW",
     "amazonStore": "B0098X0CLW",
@@ -22,5 +22,26 @@
   "lastfmId": "Lee+Ritenour/_/Rose+Pedals",
   "listeners": 1942,
   "playcount": 5996,
-  "artistMbid": "0c361ea5-98c6-4947-900b-201833f2dd84"
+  "artistMbid": "0c361ea5-98c6-4947-900b-201833f2dd84",
+  "musicbrainz": {
+    "artistTags": [
+      "crossover jazz",
+      "guitar jazz",
+      "guitar virtuoso",
+      "instrumental pop",
+      "jazz",
+      "jazz funk",
+      "jazz fusion",
+      "jazz guitar",
+      "jazz instrument",
+      "jazz pop"
+    ],
+    "artistGenres": [
+      "crossover jazz",
+      "jazz",
+      "jazz fusion",
+      "jazz pop",
+      "jazz rock"
+    ]
+  }
 }

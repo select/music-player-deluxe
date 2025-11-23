@@ -2,7 +2,7 @@
   "youtubeId": "LZ5fIKmn1ok",
   "title": "Killed by Death",
   "artist": "Motörhead",
-  "lastFetched": "2025-11-19T09:51:02.988Z",
+  "lastFetched": "2025-11-23T16:36:04.451Z",
   "odesli": {
     "amazonMusic": "B0DZVHQJD9",
     "amazonStore": "B0DZVHQJD9",
@@ -21,5 +21,24 @@
   "listeners": 221339,
   "playcount": 1156333,
   "artistMbid": "57961a97-3796-4bf7-9f02-a985a8979ae9",
-  "lastfmSummary": " <a href=\"http://www.last.fm/music/Mot%C3%B6rhead/_/Killed+by+Death\">Read more on Last.fm</a>."
+  "lastfmSummary": " <a href=\"http://www.last.fm/music/Mot%C3%B6rhead/_/Killed+by+Death\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "british",
+      "gratuitous heavy metal umlaut",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "rock",
+      "rock'n roll",
+      "speed metal"
+    ],
+    "artistGenres": [
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "rock",
+      "speed metal"
+    ]
+  }
 }

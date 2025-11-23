@@ -2,7 +2,7 @@
   "youtubeId": "0szqyWvPNKY",
   "title": "Ends",
   "artist": "Everlast",
-  "lastFetched": "2025-11-19T11:03:52.628Z",
+  "lastFetched": "2025-11-23T16:26:27.293Z",
   "odesli": {
     "amazonMusic": "B07Y8VBHMK",
     "amazonStore": "B07Y8VBHMK",
@@ -16,5 +16,19 @@
   "lastfmId": "Everlast/_/Ends",
   "listeners": 83005,
   "playcount": 400110,
-  "artistMbid": "ca39d50f-9885-420e-88d6-9c3f64038773"
+  "artistMbid": "ca39d50f-9885-420e-88d6-9c3f64038773",
+  "musicbrainz": {
+    "artistTags": [
+      "blues",
+      "country",
+      "hip hop",
+      "rock"
+    ],
+    "artistGenres": [
+      "blues",
+      "country",
+      "hip hop",
+      "rock"
+    ]
+  }
 }

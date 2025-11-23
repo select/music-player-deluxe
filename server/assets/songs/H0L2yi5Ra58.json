@@ -2,7 +2,7 @@
   "youtubeId": "H0L2yi5Ra58",
   "title": "Speech Coma",
   "artist": "Blood Red Shoes",
-  "lastFetched": "2025-11-19T09:06:33.085Z",
+  "lastFetched": "2025-11-23T16:34:20.941Z",
   "odesli": {
     "amazonMusic": "B08P6C81VP",
     "amazonStore": "B08P6C81VP",
@@ -16,5 +16,24 @@
   "lastfmId": "Blood+Red+Shoes/_/Speech+Coma",
   "listeners": 15808,
   "playcount": 88072,
-  "artistMbid": "cd830a8f-89d2-4e96-96cb-7a497e51d437"
+  "artistMbid": "cd830a8f-89d2-4e96-96cb-7a497e51d437",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "garage rock",
+      "grunge",
+      "indie rock",
+      "post-punk",
+      "punk",
+      "punk rock",
+      "rock and indie"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "garage rock",
+      "grunge",
+      "indie rock",
+      "post-punk"
+    ]
+  }
 }

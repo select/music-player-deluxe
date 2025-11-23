@@ -2,7 +2,7 @@
   "youtubeId": "0fNbNDi_Li4",
   "title": "Something's Wrong With the Morning",
   "artist": "Margo Guryan",
-  "lastFetched": "2025-11-19T07:53:12.197Z",
+  "lastFetched": "2025-11-23T16:26:17.111Z",
   "odesli": {
     "amazonMusic": "B0C6NKQZMD",
     "amazonStore": "B0C6NKQZMD",
@@ -16,5 +16,19 @@
   "lastfmId": "Margo+Guryan/_/Something%27s+Wrong+With+the+Morning",
   "listeners": 202605,
   "playcount": 1051126,
-  "artistMbid": "cd2867c5-c2f0-4f86-b8aa-a7be324cb916"
+  "artistMbid": "cd2867c5-c2f0-4f86-b8aa-a7be324cb916",
+  "musicbrainz": {
+    "artistTags": [
+      "pop",
+      "psychedelic pop",
+      "singer-songwriter",
+      "sunshine pop"
+    ],
+    "artistGenres": [
+      "pop",
+      "psychedelic pop",
+      "singer-songwriter",
+      "sunshine pop"
+    ]
+  }
 }

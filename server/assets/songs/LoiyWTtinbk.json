@@ -2,7 +2,7 @@
   "youtubeId": "LoiyWTtinbk",
   "title": "Masâr",
   "artist": "Le Trio Joubran",
-  "lastFetched": "2025-11-19T11:13:02.027Z",
+  "lastFetched": "2025-11-23T16:36:11.430Z",
   "odesli": {
     "amazonMusic": "B0014LT58W",
     "amazonStore": "B0014LT58W",
@@ -25,5 +25,16 @@
   "lastfmId": "Le+Trio+Joubran/_/Mas%C3%A2r",
   "listeners": 24462,
   "playcount": 107799,
-  "artistMbid": "a205ab49-6884-4233-bc71-7e6df54512bf"
+  "artistMbid": "a205ab49-6884-4233-bc71-7e6df54512bf",
+  "musicbrainz": {
+    "tags": [
+      "middle-eastern",
+      "traditional"
+    ],
+    "artistTags": [
+      "arabic",
+      "arabic jazz",
+      "oud"
+    ]
+  }
 }

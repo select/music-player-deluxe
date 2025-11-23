@@ -2,10 +2,50 @@
   "youtubeId": "XQEBzauVIlA",
   "title": "Voodoo People (Pendulum remix)",
   "artist": "The Prodigy",
-  "lastFetched": "2025-11-19T03:52:59.259Z",
+  "lastFetched": "2025-11-23T16:41:35.474Z",
   "mbid": "1b353067-afa9-40c6-98f6-93e4f041ad47",
   "lastfmId": "The+Prodigy/_/Voodoo+People+(Pendulum+remix)",
   "listeners": 130298,
   "playcount": 1050643,
-  "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704"
+  "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
+  "musicbrainz": {
+    "tags": [
+      "big beat",
+      "breakbeat",
+      "dance",
+      "dancefloor drum and bass",
+      "drum and bass",
+      "drum and bassdrum bass",
+      "electronic",
+      "hardcore",
+      "house",
+      "rave"
+    ],
+    "genres": [
+      "big beat",
+      "breakbeat",
+      "dance",
+      "dancefloor drum and bass",
+      "drum and bass"
+    ],
+    "artistTags": [
+      "big beat",
+      "breakbeat",
+      "breakbeat hardcore",
+      "british",
+      "dance",
+      "electronic",
+      "electronica",
+      "hardcore",
+      "hardcore breaks",
+      "rave"
+    ],
+    "artistGenres": [
+      "big beat",
+      "breakbeat",
+      "breakbeat hardcore",
+      "dance",
+      "electronic"
+    ]
+  }
 }

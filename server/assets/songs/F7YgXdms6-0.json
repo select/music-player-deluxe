@@ -2,7 +2,7 @@
   "youtubeId": "F7YgXdms6-0",
   "title": "Southbound Again",
   "artist": "Dire Straits",
-  "lastFetched": "2025-11-19T05:39:43.618Z",
+  "lastFetched": "2025-11-23T16:33:21.162Z",
   "odesli": {
     "amazonMusic": "B002M69BTQ",
     "amazonStore": "B002M69BTQ",
@@ -25,5 +25,26 @@
   "lastfmId": "Dire+Straits/_/Southbound+Again",
   "listeners": 211950,
   "playcount": 923295,
-  "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a"
+  "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+  "musicbrainz": {
+    "artistTags": [
+      "blues rock",
+      "british",
+      "classic rock",
+      "guitar",
+      "pop rock",
+      "pub rock",
+      "rock",
+      "rock & roll",
+      "rock and roll",
+      "roots rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "classic rock",
+      "pop rock",
+      "pub rock",
+      "rock"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "gw-alVIwQ-8",
   "title": "In The Hall Of The Mountain King",
   "artist": "Duke Ellington",
-  "lastFetched": "2025-11-19T10:12:25.553Z",
+  "lastFetched": "2025-11-23T16:46:18.716Z",
   "odesli": {
     "amazonMusic": "B00137RPC0",
     "amazonStore": "B00137RPC0",
@@ -15,5 +15,19 @@
   "lastfmId": "Duke+Ellington/_/In+The+Hall+Of+The+Mountain+King",
   "listeners": 3614,
   "playcount": 9733,
-  "artistMbid": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f"
+  "artistMbid": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f",
+  "musicbrainz": {
+    "artistTags": [
+      "big band",
+      "duke box",
+      "jazz",
+      "newport",
+      "swing"
+    ],
+    "artistGenres": [
+      "big band",
+      "jazz",
+      "swing"
+    ]
+  }
 }

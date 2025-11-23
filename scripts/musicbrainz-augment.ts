@@ -26,12 +26,14 @@ async function fetchMusicBrainzMetadata(
 	tags?: string[];
 	genres?: string[];
 	artistTags?: string[];
+	artistGenres?: string[];
 } | null> {
 	try {
 		const metadata: {
 			tags?: string[];
 			genres?: string[];
 			artistTags?: string[];
+			artistGenres?: string[];
 		} = {};
 
 		// Fetch recording data with tags and genres
@@ -97,12 +99,25 @@ async function fetchMusicBrainzMetadata(
 		// Fetch artist data if artistMbid is provided
 		if (artistMbid) {
 			try {
-				const artistData = await mbApi.lookup("artist", artistMbid, ["tags"]);
+				const artistData = await mbApi.lookup("artist", artistMbid, [
+					"genres",
+					"tags",
+				]);
+
+				// Extract artist tags
 				if (artistData && artistData.tags && artistData.tags.length > 0) {
 					metadata.artistTags = artistData.tags
 						.filter((tag: any) => tag.count >= 1)
 						.map((tag: any) => tag.name)
 						.slice(0, 10); // Limit to top 10 artist tags
+				}
+
+				// Extract artist genres
+				if (artistData && artistData.genres && artistData.genres.length > 0) {
+					metadata.artistGenres = artistData.genres
+						.filter((genre: any) => genre.count >= 1)
+						.map((genre: any) => genre.name)
+						.slice(0, 5); // Limit to top 5 artist genres
 				}
 			} catch (artistError) {
 				console.warn(`Failed to fetch artist data for ${artistMbid}`);
@@ -293,6 +308,10 @@ async function augmentSongsWithMusicBrainzData(
 						metadataInfo.push(`${mbMetadata.genres.length} genres`);
 					if (mbMetadata.artistTags?.length)
 						metadataInfo.push(`${mbMetadata.artistTags.length} artist tags`);
+					if (mbMetadata.artistGenres?.length)
+						metadataInfo.push(
+							`${mbMetadata.artistGenres.length} artist genres`,
+						);
 
 					console.log(`   ✅ Metadata: ${metadataInfo.join(", ")}`);
 				} else {

@@ -2,7 +2,7 @@
   "youtubeId": "GgyQufB1Yic",
   "title": "Kill Or Be Killed",
   "artist": "Muse",
-  "lastFetched": "2025-11-19T12:14:14.128Z",
+  "lastFetched": "2025-11-23T16:34:04.014Z",
   "odesli": {
     "amazonMusic": "B0BTHWWL3R",
     "amazonStore": "B0BTHWWL3R",
@@ -28,5 +28,36 @@
   "listeners": 108960,
   "playcount": 801985,
   "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
-  "lastfmSummary": "“Kill or Be Killed“ is a song by British rock band Muse. It was released on July 21, 2022 as the fourth single ahead of their ninth studio album “Will of the People“, having already debuted in live format during festival shows of their Will of the People World Tour.\n\nBorrowing its styles from metal bands such as Limp Bizkit, Slipknot, and Korn, and given its resemblence to Rage Against the Machine, “Kill or Be Killed” is a heavier reminiscence and mixture of Muse’s old-fashioned heavy tracks. <a href=\"http://www.last.fm/music/Muse/_/Kill+Or+Be+Killed\">Read more on Last.fm</a>."
+  "lastfmSummary": "“Kill or Be Killed“ is a song by British rock band Muse. It was released on July 21, 2022 as the fourth single ahead of their ninth studio album “Will of the People“, having already debuted in live format during festival shows of their Will of the People World Tour.\n\nBorrowing its styles from metal bands such as Limp Bizkit, Slipknot, and Korn, and given its resemblence to Rage Against the Machine, “Kill or Be Killed” is a heavier reminiscence and mixture of Muse’s old-fashioned heavy tracks. <a href=\"http://www.last.fm/music/Muse/_/Kill+Or+Be+Killed\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "alternative metal",
+      "industrial metal",
+      "progressive metal"
+    ],
+    "genres": [
+      "alternative metal",
+      "industrial metal",
+      "progressive metal"
+    ],
+    "artistTags": [
+      "alternative dance",
+      "alternative metal",
+      "alternative rock",
+      "art rock",
+      "british",
+      "neo-progressive rock",
+      "pop rock",
+      "post-grunge",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "alternative metal",
+      "alternative rock",
+      "art rock",
+      "neo-progressive rock"
+    ]
+  }
 }

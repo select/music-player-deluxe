@@ -2,7 +2,7 @@
   "youtubeId": "vUDG3iQxcZ8",
   "title": "Widow's Weeds",
   "artist": "Silversun Pickups",
-  "lastFetched": "2025-11-19T06:03:39.906Z",
+  "lastFetched": "2025-11-23T16:52:52.545Z",
   "odesli": {
     "amazonMusic": "B07NTZPNR4",
     "amazonStore": "B07NTZPNR4",
@@ -19,5 +19,21 @@
   "lastfmId": "Silversun+Pickups/_/Widow%27s+Weeds",
   "listeners": 9653,
   "playcount": 42163,
-  "artistMbid": "b5bd9f88-962e-4730-84a7-795592ba42e8"
+  "artistMbid": "b5bd9f88-962e-4730-84a7-795592ba42e8",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "indie rock",
+      "indietronica",
+      "rock",
+      "shoegaze"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "indie rock",
+      "indietronica",
+      "rock",
+      "shoegaze"
+    ]
+  }
 }

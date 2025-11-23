@@ -2,7 +2,7 @@
   "youtubeId": "avw50zY4fxc",
   "title": "Aht Uh Mi Hed",
   "artist": "Shuggie Otis",
-  "lastFetched": "2025-11-19T16:16:40.091Z",
+  "lastFetched": "2025-11-23T16:43:33.029Z",
   "odesli": {
     "amazonMusic": "B00BLID2SM",
     "amazonStore": "B00BLID2SM",
@@ -19,5 +19,14 @@
   "listeners": 140221,
   "playcount": 581840,
   "artistMbid": "ff9542ca-7859-4db2-8796-c1e3c39b9c0a",
-  "lastfmSummary": " <a href=\"http://www.last.fm/music/Shuggie+Otis/_/Aht+Uh+Mi+Hed\">Read more on Last.fm</a>."
+  "lastfmSummary": " <a href=\"http://www.last.fm/music/Shuggie+Otis/_/Aht+Uh+Mi+Hed\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "rock and indie",
+      "soul"
+    ],
+    "artistGenres": [
+      "soul"
+    ]
+  }
 }

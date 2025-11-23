@@ -2,7 +2,7 @@
   "youtubeId": "arF3d9nlFPs",
   "title": "This Is Such A Pity",
   "artist": "Weezer",
-  "lastFetched": "2025-11-19T09:43:23.873Z",
+  "lastFetched": "2025-11-23T16:43:30.881Z",
   "odesli": {
     "amazonMusic": "B000W22PUE",
     "amazonStore": "B000W22PUE",
@@ -16,5 +16,24 @@
   "lastfmId": "Weezer/_/This+Is+Such+A+Pity",
   "listeners": 221523,
   "playcount": 1176413,
-  "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04"
+  "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative pop",
+      "alternative rock",
+      "emo",
+      "geek rock",
+      "mainstream rock",
+      "pop rock",
+      "power pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "alternative rock",
+      "emo",
+      "geek rock",
+      "mainstream rock"
+    ]
+  }
 }

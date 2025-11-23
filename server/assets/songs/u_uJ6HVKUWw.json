@@ -2,7 +2,7 @@
   "youtubeId": "u_uJ6HVKUWw",
   "title": "The Frog's Fandango",
   "artist": "Woo",
-  "lastFetched": "2025-11-19T16:56:31.157Z",
+  "lastFetched": "2025-11-23T16:52:35.748Z",
   "odesli": {
     "amazonMusic": "B01HOIW0JO",
     "amazonStore": "B01HOIW0JO",
@@ -22,5 +22,24 @@
   "lastfmId": "Woo/_/The+Frog%27s+Fandango",
   "listeners": 11062,
   "playcount": 31625,
-  "artistMbid": "24018655-62cf-4446-81e3-73fba7a1cd95"
+  "artistMbid": "24018655-62cf-4446-81e3-73fba7a1cd95",
+  "musicbrainz": {
+    "artistTags": [
+      "ambient",
+      "chamber folk",
+      "folktronica",
+      "jazz",
+      "lo-fi",
+      "new age",
+      "post-rock",
+      "psychedelic folk"
+    ],
+    "artistGenres": [
+      "ambient",
+      "chamber folk",
+      "folktronica",
+      "jazz",
+      "lo-fi"
+    ]
+  }
 }

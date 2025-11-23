@@ -2,7 +2,7 @@
   "youtubeId": "nXiQtD5gcHU",
   "title": "Papa Was a Rolling Stone",
   "artist": "The Temptations",
-  "lastFetched": "2025-11-19T17:25:10.369Z",
+  "lastFetched": "2025-11-23T16:49:21.194Z",
   "odesli": {
     "amazonMusic": "B07KZRYQ35",
     "amazonStore": "B07KZRYQ35",
@@ -18,5 +18,26 @@
   "lastfmId": "The+Temptations/_/Papa+Was+a+Rolling+Stone",
   "listeners": 122942,
   "playcount": 375487,
-  "artistMbid": "d8df96ae-8fcf-4997-b3e6-e5d1aaf0f69e"
+  "artistMbid": "d8df96ae-8fcf-4997-b3e6-e5d1aaf0f69e",
+  "musicbrainz": {
+    "artistTags": [
+      "contemporary r&b",
+      "funk",
+      "motown",
+      "pop",
+      "pop soul",
+      "psychedelic soul",
+      "r&b",
+      "rhythm & blues",
+      "smooth soul",
+      "soul"
+    ],
+    "artistGenres": [
+      "contemporary r&b",
+      "funk",
+      "motown",
+      "pop",
+      "pop soul"
+    ]
+  }
 }

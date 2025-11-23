@@ -2,7 +2,7 @@
   "youtubeId": "5XwXliCK19Y",
   "title": "I'm Only Sleeping",
   "artist": "The Beatles",
-  "lastFetched": "2025-11-19T09:54:07.285Z",
+  "lastFetched": "2025-11-23T16:28:24.781Z",
   "odesli": {
     "amazonMusic": "B07FT7VDWV",
     "amazonStore": "B07FT7VDWV",
@@ -19,5 +19,26 @@
   "listeners": 515125,
   "playcount": 3448277,
   "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
-  "lastfmSummary": "\"I'm Only Sleeping\" is a song by The Beatles that appeared on their studio album Revolver (in the US on the Yesterday and Today album). Though the song-writing credit is Lennon-McCartney, it was written mostly by John Lennon. It is unique because it features a dual guitar solo by George Harrison played backwards and an electronically compressed rhythm guitar track. The solo is consistent with the rest of the song because Harrison took great pains to practice the entire melody of his solo backwards <a href=\"http://www.last.fm/music/The+Beatles/_/I%27m+Only+Sleeping\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"I'm Only Sleeping\" is a song by The Beatles that appeared on their studio album Revolver (in the US on the Yesterday and Today album). Though the song-writing credit is Lennon-McCartney, it was written mostly by John Lennon. It is unique because it features a dual guitar solo by George Harrison played backwards and an electronically compressed rhythm guitar track. The solo is consistent with the rest of the song because Harrison took great pains to practice the entire melody of his solo backwards <a href=\"http://www.last.fm/music/The+Beatles/_/I%27m+Only+Sleeping\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "1960s",
+      "60s",
+      "beat",
+      "british",
+      "british invasion",
+      "classic rock",
+      "europe",
+      "liverpool",
+      "mainstream rock",
+      "merseybeat"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "mainstream rock",
+      "merseybeat",
+      "pop",
+      "pop rock"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "N63W1dM8gmU",
   "title": "Lose Your Head",
   "artist": "Bad Religion",
-  "lastFetched": "2025-11-19T06:45:26.457Z",
+  "lastFetched": "2025-11-23T16:36:42.891Z",
   "odesli": {
     "amazonMusic": "B07ZMHJ85Z",
     "amazonStore": "B07ZMHJ85Z",
@@ -16,5 +16,26 @@
   "lastfmId": "Bad+Religion/_/Lose+Your+Head",
   "listeners": 25305,
   "playcount": 113820,
-  "artistMbid": "149e6720-4e4a-41a4-afca-6d29083fc091"
+  "artistMbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
+  "musicbrainz": {
+    "artistTags": [
+      "00s",
+      "10s",
+      "80s",
+      "80s punk",
+      "90s",
+      "90s punk",
+      "american",
+      "américain",
+      "atlantic",
+      "california"
+    ],
+    "artistGenres": [
+      "hardcore punk",
+      "melodic hardcore",
+      "punk",
+      "punk rock",
+      "skate punk"
+    ]
+  }
 }

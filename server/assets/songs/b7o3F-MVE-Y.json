@@ -2,7 +2,7 @@
   "youtubeId": "b7o3F-MVE-Y",
   "title": "Koo Koo Fun",
   "artist": "Major Lazer",
-  "lastFetched": "2025-11-19T09:10:08.434Z",
+  "lastFetched": "2025-11-23T16:43:42.549Z",
   "odesli": {
     "amazonMusic": "B0F647DSY6",
     "amazonStore": "B0F647DSY6",
@@ -19,5 +19,25 @@
   "lastfmId": "Major+Lazer/_/Koo+Koo+Fun",
   "listeners": 7070,
   "playcount": 21791,
-  "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f"
+  "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
+  "musicbrainz": {
+    "artistTags": [
+      "art pop",
+      "dance-pop",
+      "dancehall",
+      "edm",
+      "electronic",
+      "electropop",
+      "jungle terror",
+      "moombahton",
+      "pop reggae"
+    ],
+    "artistGenres": [
+      "art pop",
+      "dance-pop",
+      "dancehall",
+      "edm",
+      "electronic"
+    ]
+  }
 }

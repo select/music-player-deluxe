@@ -4,7 +4,7 @@
   "artist": "Group Listening",
   "duration": 434,
   "youtubeId": "Ptuuxwm2XT8",
-  "lastFetched": "2025-11-19T04:14:20.149Z",
+  "lastFetched": "2025-11-23T16:37:59.563Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0CYQY8M4B",
@@ -24,5 +24,15 @@
   "lastfmId": "Group+Listening/_/What%27s+A+Girl+To+Do",
   "listeners": 16207,
   "playcount": 66454,
-  "artistMbid": "c23d3f55-c1b4-40c6-b191-ebf7177a4656"
+  "artistMbid": "c23d3f55-c1b4-40c6-b191-ebf7177a4656",
+  "musicbrainz": {
+    "artistTags": [
+      "contemporary classical",
+      "instrumental"
+    ],
+    "artistGenres": [
+      "contemporary classical",
+      "instrumental"
+    ]
+  }
 }

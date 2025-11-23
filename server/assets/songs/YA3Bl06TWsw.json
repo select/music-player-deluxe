@@ -2,7 +2,7 @@
   "youtubeId": "YA3Bl06TWsw",
   "title": "Forward on to Zion",
   "artist": "The Abyssinians",
-  "lastFetched": "2025-11-19T17:48:13.806Z",
+  "lastFetched": "2025-11-23T16:41:52.028Z",
   "odesli": {
     "amazonMusic": "B007X2J7M0",
     "amazonStore": "B007X2J7M0",
@@ -23,5 +23,13 @@
   "lastfmId": "The+Abyssinians/_/Forward+on+to+Zion",
   "listeners": 4517,
   "playcount": 13524,
-  "artistMbid": "103ae173-2204-40b8-a6a8-f1623304deed"
+  "artistMbid": "103ae173-2204-40b8-a6a8-f1623304deed",
+  "musicbrainz": {
+    "artistTags": [
+      "roots reggae"
+    ],
+    "artistGenres": [
+      "roots reggae"
+    ]
+  }
 }

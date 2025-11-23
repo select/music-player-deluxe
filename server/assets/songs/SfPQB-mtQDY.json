@@ -2,7 +2,7 @@
   "youtubeId": "SfPQB-mtQDY",
   "title": "TV-Glotzer (White Punks On Dope)",
   "artist": "Nina Hagen",
-  "lastFetched": "2025-11-19T11:24:46.750Z",
+  "lastFetched": "2025-11-23T16:39:34.139Z",
   "odesli": {
     "amazonMusic": "B0DMFS2SRM",
     "amazonStore": "B0DMFS2SRM",
@@ -15,5 +15,26 @@
   "lastfmId": "Nina+Hagen/_/TV-Glotzer+(White+Punks+On+Dope)",
   "listeners": 23408,
   "playcount": 88079,
-  "artistMbid": "e4d32f51-bc57-42a4-8165-b80f7a86496d"
+  "artistMbid": "e4d32f51-bc57-42a4-8165-b80f7a86496d",
+  "musicbrainz": {
+    "artistTags": [
+      "german",
+      "ndw",
+      "neue deutsche welle",
+      "new wave",
+      "popular music",
+      "post-punk",
+      "punk",
+      "punk rock",
+      "rock",
+      "rock music"
+    ],
+    "artistGenres": [
+      "neue deutsche welle",
+      "new wave",
+      "post-punk",
+      "punk",
+      "punk rock"
+    ]
+  }
 }

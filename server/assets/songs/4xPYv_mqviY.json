@@ -4,9 +4,17 @@
   "artist": "DOMi & JD Beck",
   "duration": 284,
   "youtubeId": "4xPYv_mqviY",
-  "lastFetched": "2025-11-23T15:39:33.696Z",
+  "lastFetched": "2025-11-23T16:28:07.137Z",
   "lastfmId": "DOMi+&+JD+Beck/_/Jump",
   "listeners": 58,
   "playcount": 218,
-  "artistMbid": "bbe3ca80-7fb3-4a7f-acef-071606af0d3d"
+  "artistMbid": "bbe3ca80-7fb3-4a7f-acef-071606af0d3d",
+  "musicbrainz": {
+    "artistTags": [
+      "jazz fusion"
+    ],
+    "artistGenres": [
+      "jazz fusion"
+    ]
+  }
 }

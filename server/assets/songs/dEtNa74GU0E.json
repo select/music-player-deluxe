@@ -4,7 +4,7 @@
   "artist": "Art Pepper",
   "duration": 219,
   "youtubeId": "dEtNa74GU0E",
-  "lastFetched": "2025-11-23T15:40:19.829Z",
+  "lastFetched": "2025-11-23T16:44:40.335Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0D37GRP9B",
@@ -25,5 +25,25 @@
   "lastfmId": "Art+Pepper/_/Patricia",
   "listeners": 21072,
   "playcount": 58521,
-  "artistMbid": "266b9126-4a40-4b9b-b21e-422d72e64254"
+  "artistMbid": "266b9126-4a40-4b9b-b21e-422d72e64254",
+  "musicbrainz": {
+    "artistTags": [
+      "american",
+      "bebop",
+      "bop",
+      "cool jazz",
+      "hard bop",
+      "jazz",
+      "mainstream jazz",
+      "post-bop",
+      "west coast jazz"
+    ],
+    "artistGenres": [
+      "bebop",
+      "cool jazz",
+      "hard bop",
+      "jazz",
+      "post-bop"
+    ]
+  }
 }

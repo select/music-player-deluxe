@@ -2,7 +2,7 @@
   "youtubeId": "OkU6IJ3rRmk",
   "title": "Never Saw Blue Like That",
   "artist": "Shawn Colvin",
-  "lastFetched": "2025-11-19T15:00:47.686Z",
+  "lastFetched": "2025-11-23T16:37:29.975Z",
   "odesli": {
     "amazonMusic": "B00137SPVK",
     "amazonStore": "B00137SPVK",
@@ -17,5 +17,20 @@
   "lastfmId": "Shawn+Colvin/_/Never+Saw+Blue+Like+That",
   "listeners": 43394,
   "playcount": 125557,
-  "artistMbid": "42222090-c5e5-4243-8582-c29bc8b63ec6"
+  "artistMbid": "42222090-c5e5-4243-8582-c29bc8b63ec6",
+  "musicbrainz": {
+    "tags": [
+      "soundtrack"
+    ],
+    "artistTags": [
+      "contemporary folk",
+      "folk",
+      "rock"
+    ],
+    "artistGenres": [
+      "contemporary folk",
+      "folk",
+      "rock"
+    ]
+  }
 }

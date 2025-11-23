@@ -2,7 +2,7 @@
   "youtubeId": "o7X3LYGV_N8",
   "title": "Monster",
   "artist": "The Automatic",
-  "lastFetched": "2025-11-19T11:12:30.690Z",
+  "lastFetched": "2025-11-23T16:49:33.433Z",
   "odesli": {
     "amazonMusic": "B0D5N5DXWB",
     "amazonStore": "B0D5N5DXWB",
@@ -21,5 +21,10 @@
   "listeners": 303119,
   "playcount": 1882441,
   "artistMbid": "afe5e238-d248-4da4-87b7-e70dfab787f6",
-  "lastfmSummary": "\"Monster\" is the third UK single from Cardiff-based band The Automatic. The track was released on June 5 2006 and reached #4 in the UK Singles Chart. it appeared on the band's debut album Not Accepted Anywhere, and on May 14, 2007 became their first single to be released in the United States and Canada prior to the June 26 USA release of the album. <a href=\"http://www.last.fm/music/The+Automatic/_/Monster\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Monster\" is the third UK single from Cardiff-based band The Automatic. The track was released on June 5 2006 and reached #4 in the UK Singles Chart. it appeared on the band's debut album Not Accepted Anywhere, and on May 14, 2007 became their first single to be released in the United States and Canada prior to the June 26 USA release of the album. <a href=\"http://www.last.fm/music/The+Automatic/_/Monster\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "pop and chart"
+    ]
+  }
 }

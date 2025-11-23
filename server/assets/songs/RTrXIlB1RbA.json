@@ -2,7 +2,7 @@
   "youtubeId": "RTrXIlB1RbA",
   "title": "Universal Nation",
   "artist": "Push",
-  "lastFetched": "2025-11-19T07:38:54.705Z",
+  "lastFetched": "2025-11-23T16:39:00.850Z",
   "odesli": {
     "amazonMusic": "B0BRQHRRCK",
     "amazonStore": "B0BRQHRRCK",
@@ -17,5 +17,13 @@
   "lastfmId": "Push/_/Universal+Nation",
   "listeners": 55486,
   "playcount": 194683,
-  "artistMbid": "1b9e6350-f7f8-483f-9917-a8c9fcf52e99"
+  "artistMbid": "1b9e6350-f7f8-483f-9917-a8c9fcf52e99",
+  "musicbrainz": {
+    "artistTags": [
+      "trance"
+    ],
+    "artistGenres": [
+      "trance"
+    ]
+  }
 }

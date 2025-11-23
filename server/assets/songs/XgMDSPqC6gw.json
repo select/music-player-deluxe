@@ -2,7 +2,7 @@
   "youtubeId": "XgMDSPqC6gw",
   "title": "Releasing the Demons",
   "artist": "Godsmack",
-  "lastFetched": "2025-11-19T15:15:34.422Z",
+  "lastFetched": "2025-11-23T16:41:42.673Z",
   "odesli": {
     "amazonMusic": "B0736KLM49",
     "amazonStore": "B0736KLM49",
@@ -25,5 +25,24 @@
   "lastfmId": "Godsmack/_/Releasing+the+Demons",
   "listeners": 101368,
   "playcount": 540342,
-  "artistMbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2"
+  "artistMbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2",
+  "musicbrainz": {
+    "artistTags": [
+      "1990s",
+      "acoustic rock",
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "metal",
+      "nu metal",
+      "post-grunge"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "metal"
+    ]
+  }
 }

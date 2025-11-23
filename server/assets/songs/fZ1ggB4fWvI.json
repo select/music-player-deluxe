@@ -2,7 +2,7 @@
   "youtubeId": "fZ1ggB4fWvI",
   "title": "Calm",
   "artist": "Avishai Cohen",
-  "lastFetched": "2025-11-19T08:29:23.199Z",
+  "lastFetched": "2025-11-23T16:45:42.710Z",
   "odesli": {
     "amazonMusic": "B08FFFMCLY",
     "amazonStore": "B08FFFMCLY",
@@ -14,5 +14,16 @@
   "lastfmId": "Avishai+Cohen/_/Calm",
   "listeners": 26681,
   "playcount": 105807,
-  "artistMbid": "17d78170-7194-4603-8dbb-ca1108430882"
+  "artistMbid": "17d78170-7194-4603-8dbb-ca1108430882",
+  "musicbrainz": {
+    "artistTags": [
+      "jazz",
+      "jazz and blues",
+      "post-bop"
+    ],
+    "artistGenres": [
+      "jazz",
+      "post-bop"
+    ]
+  }
 }

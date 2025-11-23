@@ -2,7 +2,7 @@
   "youtubeId": "M9NUVkyepWA",
   "title": "Frustration",
   "artist": "Mando Diao",
-  "lastFetched": "2025-11-19T08:01:49.732Z",
+  "lastFetched": "2025-11-23T16:36:17.964Z",
   "odesli": {
     "amazonMusic": "B0CQM9WLV4",
     "amazonStore": "B0CQM9WLV4",
@@ -20,5 +20,26 @@
   "lastfmId": "Mando+Diao/_/Frustration",
   "listeners": 10772,
   "playcount": 44172,
-  "artistMbid": "ea854cc1-13fc-4fd0-86a5-d2c7dba06764"
+  "artistMbid": "ea854cc1-13fc-4fd0-86a5-d2c7dba06764",
+  "musicbrainz": {
+    "artistTags": [
+      "aln-sh",
+      "alternative rock",
+      "alternative/indie rock",
+      "folk rock",
+      "garage punk",
+      "garage rock",
+      "garage rock revival",
+      "indie rock",
+      "pop",
+      "pop rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "folk rock",
+      "garage punk",
+      "garage rock",
+      "garage rock revival"
+    ]
+  }
 }

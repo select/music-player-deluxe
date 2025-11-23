@@ -6,7 +6,7 @@
   "releaseCount": 1,
   "duration": 518,
   "youtubeId": "UolD-D59knQ",
-  "lastFetched": "2025-11-19T05:17:55.595Z",
+  "lastFetched": "2025-11-23T16:40:34.553Z",
   "odesli": {
     "amazonMusic": "B0FTSYKRBN",
     "amazonStore": "B0FTSYKRBN",
@@ -20,5 +20,18 @@
   },
   "lastfmId": "Julianna+Barwick+&+Mary+Lattimore/_/Melted+Moon",
   "listeners": 127,
-  "playcount": 238
+  "playcount": 238,
+  "musicbrainz": {
+    "artistTags": [
+      "ambient",
+      "ethereal",
+      "neoclassical new age",
+      "new age"
+    ],
+    "artistGenres": [
+      "ambient",
+      "neoclassical new age",
+      "new age"
+    ]
+  }
 }

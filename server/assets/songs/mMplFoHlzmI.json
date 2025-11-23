@@ -2,10 +2,29 @@
   "youtubeId": "mMplFoHlzmI",
   "title": "La fleur",
   "artist": "M",
-  "lastFetched": "2025-11-19T12:57:03.863Z",
+  "lastFetched": "2025-11-23T16:48:42.879Z",
   "mbid": "8521a7fb-dcfc-49a6-9fee-1958c8917235",
   "lastfmId": "M/_/La+fleur",
   "listeners": 8083,
   "playcount": 27303,
-  "artistMbid": "4a9ee375-8d75-41f5-b315-a94293a2a07d"
+  "artistMbid": "4a9ee375-8d75-41f5-b315-a94293a2a07d",
+  "musicbrainz": {
+    "artistTags": [
+      "70s",
+      "80s",
+      "alternative",
+      "disco",
+      "electronic",
+      "jazz",
+      "pop",
+      "rock and indie",
+      "world"
+    ],
+    "artistGenres": [
+      "disco",
+      "electronic",
+      "jazz",
+      "pop"
+    ]
+  }
 }

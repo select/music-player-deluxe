@@ -2,7 +2,7 @@
   "youtubeId": "azaKs-Y5T8k",
   "title": "Frisbeee",
   "artist": "Bilderbuch",
-  "lastFetched": "2025-11-19T08:22:14.958Z",
+  "lastFetched": "2025-11-23T16:43:37.528Z",
   "odesli": {
     "amazonMusic": "B07NDHB3Q9",
     "amazonStore": "B07NDHB3Q9",
@@ -20,5 +20,22 @@
   "lastfmId": "Bilderbuch/_/Frisbeee",
   "listeners": 11914,
   "playcount": 66261,
-  "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6"
+  "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6",
+  "musicbrainz": {
+    "artistTags": [
+      "art-punk",
+      "hip-hop",
+      "indie rock",
+      "indie-rock",
+      "progressive rock",
+      "psychedelic rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "indie rock",
+      "progressive rock",
+      "psychedelic rock",
+      "rock"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "JhqyZeUlE8U",
   "title": "Sure Shot",
   "artist": "Beastie Boys",
-  "lastFetched": "2025-11-19T05:37:42.377Z",
+  "lastFetched": "2025-11-23T16:35:30.878Z",
   "odesli": {
     "amazonMusic": "B000SXIZQ0",
     "amazonStore": "B000SXIZQ0",
@@ -20,5 +20,26 @@
   "listeners": 511650,
   "playcount": 2544414,
   "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
-  "lastfmSummary": "\"Sure Shot\" is a song by American hip hop group Beastie Boys, released as the third single from their fourth album \"Ill Communication\" on June 2, 1994, two days after the album's release. The track features a sample from jazz flautist Jeremy Steig's \"Howlin' For Judy\", which provides the main instrumental part of the song.\n\nThe CD and cassette maxi single (with a total of 7 tracks) features three remixes of the title track, by Large Professor, Mike Nardone and Dred Scott, and the Prunes, respectively. <a href=\"http://www.last.fm/music/Beastie+Boys/_/Sure+Shot\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Sure Shot\" is a song by American hip hop group Beastie Boys, released as the third single from their fourth album \"Ill Communication\" on June 2, 1994, two days after the album's release. The track features a sample from jazz flautist Jeremy Steig's \"Howlin' For Judy\", which provides the main instrumental part of the song.\n\nThe CD and cassette maxi single (with a total of 7 tracks) features three remixes of the title track, by Large Professor, Mike Nardone and Dred Scott, and the Prunes, respectively. <a href=\"http://www.last.fm/music/Beastie+Boys/_/Sure+Shot\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative hip hop",
+      "alternative rock",
+      "east coast hip hop",
+      "experimental hip hop",
+      "funk",
+      "hardcore hip hop",
+      "hardcore punk",
+      "hip hop",
+      "mid-school hip hop",
+      "new york hardcore"
+    ],
+    "artistGenres": [
+      "alternative hip hop",
+      "alternative rock",
+      "east coast hip hop",
+      "experimental hip hop",
+      "funk"
+    ]
+  }
 }

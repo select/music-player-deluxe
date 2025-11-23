@@ -2,10 +2,20 @@
   "youtubeId": "-RQFHqnIfTc",
   "title": "Schmetterling",
   "artist": "Team Scheisse",
-  "lastFetched": "2025-11-19T10:39:22.429Z",
+  "lastFetched": "2025-11-23T16:25:05.594Z",
   "mbid": "0333d0c7-42d0-4027-9bae-d18b644e03ed",
   "lastfmId": "Team+Scheisse/_/Schmetterling",
   "listeners": 16011,
   "playcount": 125776,
-  "artistMbid": "b9e85d24-37d9-4e22-a495-ef9a1dc0b894"
+  "artistMbid": "b9e85d24-37d9-4e22-a495-ef9a1dc0b894",
+  "musicbrainz": {
+    "artistTags": [
+      "punk",
+      "punk rock"
+    ],
+    "artistGenres": [
+      "punk",
+      "punk rock"
+    ]
+  }
 }

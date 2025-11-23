@@ -2,7 +2,7 @@
   "youtubeId": "W2cMVP6McdQ",
   "title": "Bury Me in Smoke",
   "artist": "Down",
-  "lastFetched": "2025-11-19T17:47:43.392Z",
+  "lastFetched": "2025-11-23T16:40:59.326Z",
   "odesli": {
     "amazonMusic": "B001NS06GG",
     "amazonStore": "B001NS06GG",
@@ -23,5 +23,22 @@
   "lastfmId": "Down/_/Bury+Me+in+Smoke",
   "listeners": 103497,
   "playcount": 722780,
-  "artistMbid": "4c01333f-e8e8-43bd-9923-8de83ef6f63d"
+  "artistMbid": "4c01333f-e8e8-43bd-9923-8de83ef6f63d",
+  "musicbrainz": {
+    "artistTags": [
+      "metal",
+      "sludge metal",
+      "southern metal",
+      "southern rock",
+      "stoner metal",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "metal",
+      "sludge metal",
+      "southern metal",
+      "southern rock",
+      "stoner metal"
+    ]
+  }
 }

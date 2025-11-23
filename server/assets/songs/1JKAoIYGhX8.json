@@ -2,7 +2,7 @@
   "youtubeId": "1JKAoIYGhX8",
   "title": "Darkhorse",
   "artist": "Emma Ruth Rundle",
-  "lastFetched": "2025-11-19T14:02:28.609Z",
+  "lastFetched": "2025-11-23T16:26:34.829Z",
   "odesli": {
     "amazonMusic": "B0F4VPGJB7",
     "amazonStore": "B0F4VPGJB7",
@@ -16,5 +16,24 @@
   "lastfmId": "Emma+Ruth+Rundle/_/Darkhorse",
   "listeners": 50653,
   "playcount": 331192,
-  "artistMbid": "7ba593b9-79d4-4860-92c8-ade2a1ef4551"
+  "artistMbid": "7ba593b9-79d4-4860-92c8-ade2a1ef4551",
+  "musicbrainz": {
+    "artistTags": [
+      "ambient",
+      "contemporary folk",
+      "dream pop",
+      "experimental",
+      "folk",
+      "folk rock",
+      "post-rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "ambient",
+      "contemporary folk",
+      "dream pop",
+      "experimental",
+      "folk"
+    ]
+  }
 }

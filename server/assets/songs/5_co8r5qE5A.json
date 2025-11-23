@@ -2,7 +2,7 @@
   "youtubeId": "5_co8r5qE5A",
   "title": "Codeword Marlene",
   "artist": "Tape Five",
-  "lastFetched": "2025-11-19T05:48:53.710Z",
+  "lastFetched": "2025-11-23T16:28:32.942Z",
   "odesli": {
     "amazonMusic": "B06Y1L759H",
     "amazonStore": "B06Y1L759H",
@@ -24,5 +24,24 @@
   "lastfmId": "Tape+Five/_/Codeword+Marlene",
   "listeners": 1554,
   "playcount": 5030,
-  "artistMbid": "5c01e21f-8222-4728-abce-267abf83544a"
+  "artistMbid": "5c01e21f-8222-4728-abce-267abf83544a",
+  "musicbrainz": {
+    "artistTags": [
+      "bossa",
+      "electro",
+      "electro swing",
+      "electroswing",
+      "jazz",
+      "latin",
+      "nujazz",
+      "swing"
+    ],
+    "artistGenres": [
+      "electro",
+      "electro swing",
+      "jazz",
+      "latin",
+      "swing"
+    ]
+  }
 }

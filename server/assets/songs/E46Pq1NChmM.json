@@ -2,7 +2,7 @@
   "youtubeId": "E46Pq1NChmM",
   "title": "Gone (The Kruder & Dorfmeister Session)",
   "artist": "David Holmes",
-  "lastFetched": "2025-11-19T09:02:59.588Z",
+  "lastFetched": "2025-11-23T16:32:41.543Z",
   "odesli": {
     "amazonMusic": "B0CQC46VJM",
     "amazonStore": "B0CQC46VJM",
@@ -21,5 +21,13 @@
   "lastfmId": "David+Holmes/_/Gone+(The+Kruder+&+Dorfmeister+Session)",
   "listeners": 234,
   "playcount": 588,
-  "artistMbid": "a53f5eed-f9f1-4cf1-9994-4c9374904790"
+  "artistMbid": "a53f5eed-f9f1-4cf1-9994-4c9374904790",
+  "musicbrainz": {
+    "artistTags": [
+      "northern irish",
+      "rock and indie",
+      "uk",
+      "warp"
+    ]
+  }
 }

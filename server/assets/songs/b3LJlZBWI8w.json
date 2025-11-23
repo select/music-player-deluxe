@@ -2,7 +2,7 @@
   "youtubeId": "b3LJlZBWI8w",
   "title": "Where's My Love (Acoustic)",
   "artist": "SYML",
-  "lastFetched": "2025-11-19T10:52:36.400Z",
+  "lastFetched": "2025-11-23T16:43:40.071Z",
   "odesli": {
     "amazonMusic": "B09QWC7357",
     "amazonStore": "B09QWC7357",
@@ -18,5 +18,13 @@
   "lastfmId": "SYML/_/Where%27s+My+Love+(Acoustic)",
   "listeners": 13227,
   "playcount": 69240,
-  "artistMbid": "913b4704-05bf-4e53-b30a-f3bd244ea2ea"
+  "artistMbid": "913b4704-05bf-4e53-b30a-f3bd244ea2ea",
+  "musicbrainz": {
+    "artistTags": [
+      "indie folk"
+    ],
+    "artistGenres": [
+      "indie folk"
+    ]
+  }
 }

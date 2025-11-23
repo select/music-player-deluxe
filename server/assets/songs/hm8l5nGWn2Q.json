@@ -2,7 +2,7 @@
   "youtubeId": "hm8l5nGWn2Q",
   "title": "Burning Trash Floor",
   "artist": "Hexagone",
-  "lastFetched": "2025-11-19T17:16:03.034Z",
+  "lastFetched": "2025-11-23T16:46:35.423Z",
   "odesli": {
     "amazonMusic": "B004CLDFOQ",
     "amazonStore": "B004CLDFOQ",
@@ -20,5 +20,13 @@
   "lastfmId": "Hexagone/_/Burning+Trash+Floor",
   "listeners": 695,
   "playcount": 1932,
-  "artistMbid": "7a868c6d-8404-4a57-82f2-8c33f926e905"
+  "artistMbid": "7a868c6d-8404-4a57-82f2-8c33f926e905",
+  "musicbrainz": {
+    "artistTags": [
+      "techno"
+    ],
+    "artistGenres": [
+      "techno"
+    ]
+  }
 }

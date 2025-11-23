@@ -2,7 +2,7 @@
   "youtubeId": "iECixGaKVk4",
   "title": "Broken Boy",
   "artist": "Cage the Elephant",
-  "lastFetched": "2025-11-19T15:57:43.217Z",
+  "lastFetched": "2025-11-23T16:46:47.608Z",
   "odesli": {
     "amazonMusic": "B07N8YS2N6",
     "amazonStore": "B07N8YS2N6",
@@ -21,5 +21,26 @@
   "listeners": 254935,
   "playcount": 2001671,
   "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
-  "lastfmSummary": "Featuring lyrics of true rebellion, “Broken Boy” goes full punk with Shultz coming in with, “I was born on the wrong side of the train tracks and I was burned by the cold kiss of a vampire.” Shultz sounds like a boy who is truly broken; angsty teen vibes at their finest. - Daniella Boik, Paste Magazine <a href=\"http://www.last.fm/music/Cage+the+Elephant/_/Broken+Boy\">Read more on Last.fm</a>."
+  "lastfmSummary": "Featuring lyrics of true rebellion, “Broken Boy” goes full punk with Shultz coming in with, “I was born on the wrong side of the train tracks and I was burned by the cold kiss of a vampire.” Shultz sounds like a boy who is truly broken; angsty teen vibes at their finest. - Daniella Boik, Paste Magazine <a href=\"http://www.last.fm/music/Cage+the+Elephant/_/Broken+Boy\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "acoustic rock",
+      "alternative",
+      "alternative rock",
+      "american trad rock",
+      "garage rock",
+      "garage rock revival",
+      "indie rock",
+      "neo-psychedelia",
+      "pop",
+      "post-punk revival"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative rock",
+      "garage rock",
+      "garage rock revival",
+      "indie rock"
+    ]
+  }
 }

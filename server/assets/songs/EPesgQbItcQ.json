@@ -2,7 +2,7 @@
   "youtubeId": "EPesgQbItcQ",
   "title": "Objection (Tango)",
   "artist": "Shakira",
-  "lastFetched": "2025-11-19T05:41:15.063Z",
+  "lastFetched": "2025-11-23T16:32:51.937Z",
   "odesli": {
     "amazonMusic": "B00137MJ0I",
     "amazonStore": "B00137MJ0I",
@@ -16,5 +16,19 @@
   "listeners": 266016,
   "playcount": 1555024,
   "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
-  "lastfmSummary": "\"Objection\" is the first song written by Shakira purely in English. It appears as the opening track on her first English language album, \"Laundry Service.\"  The song contains a rhythm which is quite similar to the Uruguayan-Argentinian tango \"La Cumparsita\". The song starts out as a classical tango with allusions to La Cumparsita, with a piano, accompanied by a contrabass, and a bandoneon. However, when the drums join in, it turns more into a latin rock song, with two e-guitars, and bass. <a href=\"http://www.last.fm/music/Shakira/_/Objection+(Tango)\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Objection\" is the first song written by Shakira purely in English. It appears as the opening track on her first English language album, \"Laundry Service.\"  The song contains a rhythm which is quite similar to the Uruguayan-Argentinian tango \"La Cumparsita\". The song starts out as a classical tango with allusions to La Cumparsita, with a piano, accompanied by a contrabass, and a bandoneon. However, when the drums join in, it turns more into a latin rock song, with two e-guitars, and bass. <a href=\"http://www.last.fm/music/Shakira/_/Objection+(Tango)\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "latin",
+      "latin pop",
+      "pop",
+      "pop rock"
+    ],
+    "artistGenres": [
+      "latin",
+      "latin pop",
+      "pop",
+      "pop rock"
+    ]
+  }
 }

@@ -4,7 +4,7 @@
   "artist": "Charles Lloyd",
   "duration": 566,
   "youtubeId": "lbiheF8e5D8",
-  "lastFetched": "2025-11-19T05:15:53.662Z",
+  "lastFetched": "2025-11-23T16:48:19.030Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0FL69GQ1V",
@@ -23,5 +23,16 @@
   "lastfmId": "Charles+Lloyd/_/Figure+In+Blue,+Memories+Of+Duke",
   "listeners": 2374,
   "playcount": 4288,
-  "artistMbid": "b9b579ad-e499-4e3e-9d09-06bc8e504135"
+  "artistMbid": "b9b579ad-e499-4e3e-9d09-06bc8e504135",
+  "musicbrainz": {
+    "artistTags": [
+      "jazz",
+      "jazz and blues",
+      "post-bop"
+    ],
+    "artistGenres": [
+      "jazz",
+      "post-bop"
+    ]
+  }
 }

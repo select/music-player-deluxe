@@ -2,7 +2,7 @@
   "youtubeId": "-rdmG0k8S8k",
   "title": "Getting Away with Murder",
   "artist": "Papa Roach",
-  "lastFetched": "2025-11-19T11:16:05.222Z",
+  "lastFetched": "2025-11-23T16:25:51.356Z",
   "odesli": {
     "amazonMusic": "B011QP7POG",
     "amazonStore": "B011QP7POG",
@@ -23,5 +23,41 @@
   "listeners": 783566,
   "playcount": 5492487,
   "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
-  "lastfmSummary": "\"Getting Away with Murder\" is the first single from Papa Roach's third album, Getting Away with Murder, and sixth released single in total. The video is performance-based, showing the band playing in a Stock Exchange Hall with references filled with fans (including sexual imagery which led the band's lead singer to describe the video as \"stocks and bondage\" in an MTV2 interview). It was directed by Motion Theory. <a href=\"http://www.last.fm/music/Papa+Roach/_/Getting+Away+with+Murder\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Getting Away with Murder\" is the first single from Papa Roach's third album, Getting Away with Murder, and sixth released single in total. The video is performance-based, showing the band playing in a Stock Exchange Hall with references filled with fans (including sexual imagery which led the band's lead singer to describe the video as \"stocks and bondage\" in an MTV2 interview). It was directed by Motion Theory. <a href=\"http://www.last.fm/music/Papa+Roach/_/Getting+Away+with+Murder\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "alternative metal",
+      "alternative rock",
+      "emo",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "nu metal",
+      "nü metal",
+      "pop/rock",
+      "rock"
+    ],
+    "genres": [
+      "alternative metal",
+      "alternative rock",
+      "emo",
+      "hard rock",
+      "heavy metal"
+    ],
+    "artistTags": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "nu metal",
+      "pop rock",
+      "rap rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "nu metal",
+      "pop rock"
+    ]
+  }
 }

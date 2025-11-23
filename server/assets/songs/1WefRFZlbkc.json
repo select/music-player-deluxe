@@ -2,7 +2,7 @@
   "youtubeId": "1WefRFZlbkc",
   "title": "Duck and Cover",
   "artist": "Pepper Coyote",
-  "lastFetched": "2025-11-19T06:20:01.409Z",
+  "lastFetched": "2025-11-23T16:26:46.362Z",
   "odesli": {
     "amazonMusic": "B085B7CBSH",
     "amazonStore": "B085B7CBSH",
@@ -24,5 +24,22 @@
   "lastfmId": "Pepper+Coyote/_/Duck+and+Cover",
   "listeners": 3106,
   "playcount": 16671,
-  "artistMbid": "24092fc2-3e6a-4d7a-8f43-8673f95517f4"
+  "artistMbid": "24092fc2-3e6a-4d7a-8f43-8673f95517f4",
+  "musicbrainz": {
+    "artistTags": [
+      "folk",
+      "furry",
+      "musical",
+      "progressive rock",
+      "punk rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "folk",
+      "musical",
+      "progressive rock",
+      "punk rock",
+      "rock"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "_pfTNujvYUo",
   "title": "Coc' O Mary",
   "artist": "Brainticket",
-  "lastFetched": "2025-11-19T12:00:59.545Z",
+  "lastFetched": "2025-11-23T16:42:57.018Z",
   "odesli": {
     "amazonMusic": "B003A6C9KA",
     "amazonStore": "B003A6C9KA",
@@ -23,5 +23,17 @@
   "lastfmId": "Brainticket/_/Coc%27+O+Mary",
   "listeners": 2241,
   "playcount": 4934,
-  "artistMbid": "8fbbcf55-9fc9-4e06-99dc-ef76d5816dcd"
+  "artistMbid": "8fbbcf55-9fc9-4e06-99dc-ef76d5816dcd",
+  "musicbrainz": {
+    "artistTags": [
+      "krautrock",
+      "progressive rock",
+      "psychedelic rock"
+    ],
+    "artistGenres": [
+      "krautrock",
+      "progressive rock",
+      "psychedelic rock"
+    ]
+  }
 }

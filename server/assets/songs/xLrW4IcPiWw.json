@@ -2,7 +2,7 @@
   "youtubeId": "xLrW4IcPiWw",
   "title": "Comprendes, Mendes?",
   "artist": "Control Machete",
-  "lastFetched": "2025-11-19T13:50:40.500Z",
+  "lastFetched": "2025-11-23T16:53:40.687Z",
   "odesli": {
     "amazonMusic": "B09LRNWX6G",
     "amazonStore": "B09LRNWX6G",
@@ -20,5 +20,15 @@
   "lastfmId": "Control+Machete/_/Comprendes,+Mendes%3F",
   "listeners": 66956,
   "playcount": 449826,
-  "artistMbid": "38c8254f-ceac-460d-9123-5af2d7a4fc7e"
+  "artistMbid": "38c8254f-ceac-460d-9123-5af2d7a4fc7e",
+  "musicbrainz": {
+    "artistTags": [
+      "hip hop",
+      "hip-hop",
+      "mexican"
+    ],
+    "artistGenres": [
+      "hip hop"
+    ]
+  }
 }

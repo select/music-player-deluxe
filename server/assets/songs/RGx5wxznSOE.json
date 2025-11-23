@@ -2,7 +2,7 @@
   "youtubeId": "RGx5wxznSOE",
   "title": "Lurgee",
   "artist": "Radiohead",
-  "lastFetched": "2025-11-19T13:43:02.770Z",
+  "lastFetched": "2025-11-23T16:38:49.565Z",
   "odesli": {
     "amazonMusic": "B01DPRO54G",
     "amazonStore": "B01DPRO54G",
@@ -25,5 +25,26 @@
   "listeners": 563302,
   "playcount": 2509120,
   "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-  "lastfmSummary": "In this song about lost love, Thom sings that he is much better off without the other person in his life. \"Lurgee,\" unlike most other songs from this period, found its way into the band's live set in 1998. One of two songs recorded with Chris Hufford at Courtyard Studios, it was selected for inclusion on Pablo Honey. The same version was used as a B-side for \"Creep.\" \n\nIt's pronounced 'L-er-gh-ee', and is an English slang name for a nasty infectious disease.\n <a href=\"http://www.last.fm/music/Radiohead/_/Lurgee\">Read more on Last.fm</a>."
+  "lastfmSummary": "In this song about lost love, Thom sings that he is much better off without the other person in his life. \"Lurgee,\" unlike most other songs from this period, found its way into the band's live set in 1998. One of two songs recorded with Chris Hufford at Courtyard Studios, it was selected for inclusion on Pablo Honey. The same version was used as a B-side for \"Creep.\" \n\nIt's pronounced 'L-er-gh-ee', and is an English slang name for a nasty infectious disease.\n <a href=\"http://www.last.fm/music/Radiohead/_/Lurgee\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative",
+      "alternative rock",
+      "alternative rock music",
+      "art pop",
+      "art rock",
+      "british",
+      "electronic",
+      "electronica",
+      "experimental",
+      "experimental rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "art pop",
+      "art rock",
+      "electronic",
+      "electronica"
+    ]
+  }
 }

@@ -4,7 +4,7 @@
   "artist": "Sully",
   "duration": 288,
   "youtubeId": "WMpZctvtAMY",
-  "lastFetched": "2025-11-19T03:33:08.334Z",
+  "lastFetched": "2025-11-23T16:41:08.399Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B08GM59HLW",
@@ -26,5 +26,17 @@
   "lastfmId": "Sully/_/Werk",
   "listeners": 11132,
   "playcount": 46543,
-  "artistMbid": "88b9d123-ebda-477a-99bd-022378a6ffa1"
+  "artistMbid": "88b9d123-ebda-477a-99bd-022378a6ffa1",
+  "musicbrainz": {
+    "artistTags": [
+      "drum and bass",
+      "dubstep",
+      "jungle"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "dubstep",
+      "jungle"
+    ]
+  }
 }

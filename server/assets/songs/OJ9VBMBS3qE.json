@@ -2,7 +2,7 @@
   "youtubeId": "OJ9VBMBS3qE",
   "title": "Manchild",
   "artist": "Neneh Cherry",
-  "lastFetched": "2025-11-19T13:21:34.102Z",
+  "lastFetched": "2025-11-23T16:37:13.998Z",
   "odesli": {
     "amazonMusic": "B09XY4W4GF",
     "amazonStore": "B09XY4W4GF",
@@ -19,5 +19,26 @@
   "lastfmId": "Neneh+Cherry/_/Manchild",
   "listeners": 66964,
   "playcount": 258201,
-  "artistMbid": "527c65d1-9fdb-4482-8796-dde2980bd63a"
+  "artistMbid": "527c65d1-9fdb-4482-8796-dde2980bd63a",
+  "musicbrainz": {
+    "artistTags": [
+      "00s",
+      "10s",
+      "80s",
+      "90s",
+      "contemporary r&b",
+      "dance",
+      "dance and electronica",
+      "electronic",
+      "european",
+      "female vocalists"
+    ],
+    "artistGenres": [
+      "contemporary r&b",
+      "dance",
+      "electronic",
+      "hip hop",
+      "pop"
+    ]
+  }
 }

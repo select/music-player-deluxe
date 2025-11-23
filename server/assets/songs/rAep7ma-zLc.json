@@ -2,7 +2,7 @@
   "youtubeId": "rAep7ma-zLc",
   "title": "Untitled Dubplate",
   "artist": "Breakage",
-  "lastFetched": "2025-11-19T08:50:16.906Z",
+  "lastFetched": "2025-11-23T16:50:59.804Z",
   "odesli": {
     "amazonMusic": "B09KSC7FDV",
     "amazonStore": "B09KSC7FDV",
@@ -24,5 +24,26 @@
   "lastfmId": "Breakage/_/Untitled+Dubplate",
   "listeners": 2570,
   "playcount": 6975,
-  "artistMbid": "6e9a0ac8-699b-4817-8f9b-25a6dba89f57"
+  "artistMbid": "6e9a0ac8-699b-4817-8f9b-25a6dba89f57",
+  "musicbrainz": {
+    "artistTags": [
+      "bass",
+      "bassline",
+      "breakbeat",
+      "breaks",
+      "club",
+      "dance",
+      "drum and bass",
+      "dubstep",
+      "electronic",
+      "electronica"
+    ],
+    "artistGenres": [
+      "bassline",
+      "breakbeat",
+      "breaks",
+      "club",
+      "dance"
+    ]
+  }
 }

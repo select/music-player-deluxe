@@ -2,7 +2,7 @@
   "youtubeId": "cCEwUFtjAr4",
   "title": "The Ecstasy of Gold",
   "artist": "Ennio Morricone",
-  "lastFetched": "2025-11-19T11:46:39.325Z",
+  "lastFetched": "2025-11-23T16:44:01.703Z",
   "odesli": {
     "audiomack": "62376984",
     "audius": "KvJ0w",
@@ -24,5 +24,26 @@
   "listeners": 190486,
   "playcount": 1051838,
   "artistMbid": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd",
-  "lastfmSummary": "\"The Ecstasy of Gold\" is a musical composition by Ennio Morricone, part of his score for the Sergio Leone film The Good, the Bad and the Ugly. It is played while Tuco (Eli Wallach) is frantically searching a graveyard for the grave that holds $200,000 in gold coins.\n\n    * American metal band Metallica has used \"The Ecstasy of Gold\" as the introductory music for its concerts since 1983; it is included on the live symphonic album S&M. An instrumental <a href=\"http://www.last.fm/music/Ennio+Morricone/_/The+Ecstasy+of+Gold\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"The Ecstasy of Gold\" is a musical composition by Ennio Morricone, part of his score for the Sergio Leone film The Good, the Bad and the Ugly. It is played while Tuco (Eli Wallach) is frantically searching a graveyard for the grave that holds $200,000 in gold coins.\n\n    * American metal band Metallica has used \"The Ecstasy of Gold\" as the introductory music for its concerts since 1983; it is included on the live symphonic album S&M. An instrumental <a href=\"http://www.last.fm/music/Ennio+Morricone/_/The+Ecstasy+of+Gold\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "absolute music",
+      "avant-garde",
+      "cinematic classical",
+      "classic soundtrack",
+      "classical",
+      "composer",
+      "film score",
+      "film soundtrack",
+      "italian",
+      "italian soundtrack"
+    ],
+    "artistGenres": [
+      "avant-garde",
+      "cinematic classical",
+      "classical",
+      "jazz",
+      "modern classical"
+    ]
+  }
 }

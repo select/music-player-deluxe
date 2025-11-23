@@ -2,7 +2,7 @@
   "youtubeId": "Zdeo-i6uw5g",
   "title": "Don't Tell Me How To Live",
   "artist": "Kid Rock",
-  "lastFetched": "2025-11-19T06:37:50.476Z",
+  "lastFetched": "2025-11-23T16:42:20.936Z",
   "odesli": {
     "amazonMusic": "B09L5DSFK8",
     "amazonStore": "B09L5DSFK8",
@@ -23,5 +23,26 @@
   "listeners": 6689,
   "playcount": 22684,
   "artistMbid": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e",
-  "lastfmSummary": "FUCK ALL YOU HOES\nDETROIT TIL I DIE MOTHERFUCKER\nTALKIN ALL THAT BULLSHIT <a href=\"http://www.last.fm/music/Kid+Rock/_/Don%27t+Tell+Me+How+To+Live\">Read more on Last.fm</a>."
+  "lastfmSummary": "FUCK ALL YOU HOES\nDETROIT TIL I DIE MOTHERFUCKER\nTALKIN ALL THAT BULLSHIT <a href=\"http://www.last.fm/music/Kid+Rock/_/Don%27t+Tell+Me+How+To+Live\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "american",
+      "country",
+      "country rock",
+      "hard rock",
+      "pop rock",
+      "rap",
+      "rap metal",
+      "rap rock",
+      "rapper",
+      "rock"
+    ],
+    "artistGenres": [
+      "country",
+      "country rock",
+      "hard rock",
+      "pop rock",
+      "rap metal"
+    ]
+  }
 }

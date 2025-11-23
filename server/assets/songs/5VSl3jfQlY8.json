@@ -2,7 +2,7 @@
   "youtubeId": "5VSl3jfQlY8",
   "title": "Sex in der Wüste",
   "artist": "Ideal",
-  "lastFetched": "2025-11-19T17:37:56.739Z",
+  "lastFetched": "2025-11-23T16:28:23.407Z",
   "odesli": {
     "amazonMusic": "B073JY767N",
     "amazonStore": "B073JY767N",
@@ -17,5 +17,20 @@
   "lastfmId": "Ideal/_/Sex+in+der+W%C3%BCste",
   "listeners": 4109,
   "playcount": 13486,
-  "artistMbid": "4e3f4f52-968c-43ec-b165-741122d7cc28"
+  "artistMbid": "4e3f4f52-968c-43ec-b165-741122d7cc28",
+  "musicbrainz": {
+    "artistTags": [
+      "german",
+      "germany",
+      "ndw",
+      "neue deutsche welle",
+      "new wave",
+      "punk"
+    ],
+    "artistGenres": [
+      "neue deutsche welle",
+      "new wave",
+      "punk"
+    ]
+  }
 }

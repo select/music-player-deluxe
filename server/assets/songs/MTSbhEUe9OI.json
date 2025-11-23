@@ -2,7 +2,7 @@
   "youtubeId": "MTSbhEUe9OI",
   "title": "Penda Yoro",
   "artist": "Ali Farka Touré",
-  "lastFetched": "2025-11-19T14:30:36.332Z",
+  "lastFetched": "2025-11-23T16:36:25.994Z",
   "odesli": {
     "amazonMusic": "B0DZXNZHZC",
     "amazonStore": "B0DZXNZHZC",
@@ -18,5 +18,15 @@
   "lastfmId": "Ali+Farka+Tour%C3%A9/_/Penda+Yoro",
   "listeners": 23719,
   "playcount": 63755,
-  "artistMbid": "9be2a5ac-8201-489b-b5f6-91f958bf9060"
+  "artistMbid": "9be2a5ac-8201-489b-b5f6-91f958bf9060",
+  "musicbrainz": {
+    "artistTags": [
+      "african blues",
+      "talking timbuktu",
+      "world"
+    ],
+    "artistGenres": [
+      "african blues"
+    ]
+  }
 }

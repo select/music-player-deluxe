@@ -2,7 +2,7 @@
   "youtubeId": "fMF4EGyLzLs",
   "title": "Monkey Jump",
   "artist": "Jr. Walker & The All Stars",
-  "lastFetched": "2025-11-23T15:40:29.608Z",
+  "lastFetched": "2025-11-23T16:45:30.557Z",
   "odesli": {
     "amazonMusic": "B09TVDRK21",
     "amazonStore": "B09TVDRK21",
@@ -17,5 +17,25 @@
   "lastfmId": "Jr.+Walker+&+The+All+Stars/_/Monkey+Jump",
   "listeners": 27584,
   "playcount": 54777,
-  "artistMbid": "07d78001-dde0-489c-9281-d2fa98a85de4"
+  "artistMbid": "07d78001-dde0-489c-9281-d2fa98a85de4",
+  "musicbrainz": {
+    "artistTags": [
+      "classic pop and rock",
+      "funk",
+      "motown",
+      "pop soul",
+      "r&b",
+      "rhythm & blues",
+      "rock & roll",
+      "soul",
+      "soul jazz"
+    ],
+    "artistGenres": [
+      "funk",
+      "motown",
+      "pop soul",
+      "r&b",
+      "soul"
+    ]
+  }
 }

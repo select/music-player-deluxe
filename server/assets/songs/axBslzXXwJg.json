@@ -2,7 +2,7 @@
   "youtubeId": "axBslzXXwJg",
   "title": "binary",
   "artist": "Kazino",
-  "lastFetched": "2025-11-19T16:28:25.838Z",
+  "lastFetched": "2025-11-23T16:43:35.598Z",
   "odesli": {
     "amazonMusic": "B0DJ3JBZXT",
     "amazonStore": "B0DJ3JBZXT",
@@ -16,5 +16,19 @@
   "lastfmId": "Kazino/_/binary",
   "listeners": 9211,
   "playcount": 26943,
-  "artistMbid": "85fd1ab6-18c9-4bf6-b14c-aac45638cc07"
+  "artistMbid": "85fd1ab6-18c9-4bf6-b14c-aac45638cc07",
+  "musicbrainz": {
+    "tags": [
+      "electronic",
+      "new wave",
+      "post-punk",
+      "rock"
+    ],
+    "genres": [
+      "electronic",
+      "new wave",
+      "post-punk",
+      "rock"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "_zOTYHIr_MU",
   "title": "The Yum Factor",
   "artist": "Kaminanda",
-  "lastFetched": "2025-11-19T17:04:48.006Z",
+  "lastFetched": "2025-11-23T16:43:06.576Z",
   "odesli": {
     "amazonMusic": "B00773YV9E",
     "amazonStore": "B00773YV9E",
@@ -17,5 +17,25 @@
   "lastfmId": "Kaminanda/_/The+Yum+Factor",
   "listeners": 5508,
   "playcount": 21393,
-  "artistMbid": "0b382ebc-9813-4162-b856-b4eaa26883c7"
+  "artistMbid": "0b382ebc-9813-4162-b856-b4eaa26883c7",
+  "musicbrainz": {
+    "artistTags": [
+      "ambient",
+      "ambient dub",
+      "downtempo",
+      "dub",
+      "electronic",
+      "organic",
+      "psybient",
+      "psychedelic",
+      "tribal"
+    ],
+    "artistGenres": [
+      "ambient",
+      "ambient dub",
+      "downtempo",
+      "dub",
+      "electronic"
+    ]
+  }
 }

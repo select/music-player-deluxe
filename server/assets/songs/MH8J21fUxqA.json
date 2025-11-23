@@ -2,10 +2,24 @@
   "youtubeId": "MH8J21fUxqA",
   "title": "As I Come Back",
   "artist": "Busta Rhymes",
-  "lastFetched": "2025-11-19T10:51:04.164Z",
+  "lastFetched": "2025-11-23T16:36:21.095Z",
   "mbid": "8107b07c-d861-3a38-99c7-646a323fa4f6",
   "lastfmId": "Busta+Rhymes/_/As+I+Come+Back",
   "listeners": 51217,
   "playcount": 172461,
-  "artistMbid": "10a9ff92-9637-4498-afea-7044b2ab0dc0"
+  "artistMbid": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
+  "musicbrainz": {
+    "artistTags": [
+      "2008 universal fire victim",
+      "east coast hip hop",
+      "hardcore hip hop",
+      "hip hop",
+      "new york shit"
+    ],
+    "artistGenres": [
+      "east coast hip hop",
+      "hardcore hip hop",
+      "hip hop"
+    ]
+  }
 }

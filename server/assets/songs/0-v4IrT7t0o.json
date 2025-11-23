@@ -2,7 +2,7 @@
   "youtubeId": "0-v4IrT7t0o",
   "title": "Popule meus",
   "artist": "Paweł Łukaszewski",
-  "lastFetched": "2025-11-19T16:46:49.202Z",
+  "lastFetched": "2025-11-23T16:25:56.559Z",
   "odesli": {
     "amazonMusic": "B0DYZM854J",
     "amazonStore": "B0DYZM854J",
@@ -18,5 +18,10 @@
   "lastfmId": "Pawe%C5%82+%C5%81ukaszewski/_/Popule+meus",
   "listeners": 16,
   "playcount": 51,
-  "artistMbid": "8fbc3929-e88c-4fef-bf8c-f23223ec17d0"
+  "artistMbid": "8fbc3929-e88c-4fef-bf8c-f23223ec17d0",
+  "musicbrainz": {
+    "artistTags": [
+      "composer"
+    ]
+  }
 }

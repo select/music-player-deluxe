@@ -2,10 +2,23 @@
   "youtubeId": "uL91QckxSoQ",
   "title": "Manian",
   "artist": "Rokia Traoré",
-  "lastFetched": "2025-11-19T05:56:32.576Z",
+  "lastFetched": "2025-11-23T16:52:31.185Z",
   "mbid": "12428681-97f3-4e1c-a748-6c5bd4c53e76",
   "lastfmId": "Rokia+Traor%C3%A9/_/Manian",
   "listeners": 5011,
   "playcount": 17364,
-  "artistMbid": "900fb180-4427-4e56-a99f-84adb74bd3bd"
+  "artistMbid": "900fb180-4427-4e56-a99f-84adb74bd3bd",
+  "musicbrainz": {
+    "artistTags": [
+      "african",
+      "african folk",
+      "female vocalists",
+      "folk",
+      "mali",
+      "world"
+    ],
+    "artistGenres": [
+      "folk"
+    ]
+  }
 }

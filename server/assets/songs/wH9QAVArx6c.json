@@ -2,7 +2,7 @@
   "youtubeId": "wH9QAVArx6c",
   "title": "Riddle Me This",
   "artist": "Aaron Parks",
-  "lastFetched": "2025-11-19T14:01:27.827Z",
+  "lastFetched": "2025-11-23T16:53:21.527Z",
   "odesli": {
     "amazonMusic": "B001E53RA0",
     "amazonStore": "B001E53RA0",
@@ -25,5 +25,19 @@
   "lastfmId": "Aaron+Parks/_/Riddle+Me+This",
   "listeners": 13715,
   "playcount": 47175,
-  "artistMbid": "4dd62d49-9868-465b-882f-733afb40eb0d"
+  "artistMbid": "4dd62d49-9868-465b-882f-733afb40eb0d",
+  "musicbrainz": {
+    "artistTags": [
+      "contemporary jazz",
+      "jazz",
+      "jazz fusion",
+      "post-bop"
+    ],
+    "artistGenres": [
+      "contemporary jazz",
+      "jazz",
+      "jazz fusion",
+      "post-bop"
+    ]
+  }
 }

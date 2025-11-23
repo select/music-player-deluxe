@@ -2,7 +2,7 @@
   "youtubeId": "K6u5D-5LWSg",
   "title": "3055",
   "artist": "Ólafur Arnalds",
-  "lastFetched": "2025-11-19T14:21:23.749Z",
+  "lastFetched": "2025-11-23T16:35:35.260Z",
   "odesli": {
     "amazonMusic": "B07N8WHTG2",
     "amazonStore": "B07N8WHTG2",
@@ -20,5 +20,45 @@
   "lastfmId": "%C3%93lafur+Arnalds/_/3055",
   "listeners": 109945,
   "playcount": 630762,
-  "artistMbid": "6655955b-1c1e-4bcb-84e4-81bcd9efab30"
+  "artistMbid": "6655955b-1c1e-4bcb-84e4-81bcd9efab30",
+  "musicbrainz": {
+    "tags": [
+      "ambient",
+      "classical",
+      "contemporary classical",
+      "contemporary instrumental",
+      "electronic",
+      "instrumental",
+      "modern classical",
+      "neoclassicism",
+      "post-classical",
+      "post-rock"
+    ],
+    "genres": [
+      "ambient",
+      "classical",
+      "contemporary classical",
+      "electronic",
+      "instrumental"
+    ],
+    "artistTags": [
+      "alternative/indie rock",
+      "ambient",
+      "ambient music",
+      "avant-garde",
+      "classical",
+      "classical crossover",
+      "composer",
+      "compositional ambient",
+      "contemporary classical",
+      "dance"
+    ],
+    "artistGenres": [
+      "ambient",
+      "avant-garde",
+      "classical",
+      "classical crossover",
+      "contemporary classical"
+    ]
+  }
 }

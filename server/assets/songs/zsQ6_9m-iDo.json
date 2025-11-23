@@ -2,7 +2,7 @@
   "youtubeId": "zsQ6_9m-iDo",
   "title": "Sing",
   "artist": "Blur",
-  "lastFetched": "2025-11-19T16:44:47.849Z",
+  "lastFetched": "2025-11-23T16:55:00.309Z",
   "odesli": {
     "amazonMusic": "B002FTIKKG",
     "amazonStore": "B002FTIKKG",
@@ -20,5 +20,26 @@
   "listeners": 202234,
   "playcount": 888434,
   "artistMbid": "ba853904-ae25-4ebb-89d6-c44cfbd71bd2",
-  "lastfmSummary": "Sing is the sixth track of Blur's debut Leisure known for being featured in the Trainspotting film.\nAccording to Damon Albarn himself, this was the first Blur song ever written, in his mother's garage. <a href=\"http://www.last.fm/music/Blur/_/Sing\">Read more on Last.fm</a>."
+  "lastfmSummary": "Sing is the sixth track of Blur's debut Leisure known for being featured in the Trainspotting film.\nAccording to Damon Albarn himself, this was the first Blur song ever written, in his mother's garage. <a href=\"http://www.last.fm/music/Blur/_/Sing\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "art rock",
+      "baggy",
+      "baggy / madchester",
+      "britannique",
+      "british",
+      "britpop",
+      "experimental rock",
+      "grunge",
+      "indie rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "art rock",
+      "britpop",
+      "experimental rock",
+      "grunge"
+    ]
+  }
 }

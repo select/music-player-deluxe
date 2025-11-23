@@ -2,7 +2,7 @@
   "youtubeId": "QfFCb1y0WfA",
   "title": "Touchdown",
   "artist": "John Maus",
-  "lastFetched": "2025-11-19T15:10:59.360Z",
+  "lastFetched": "2025-11-23T16:38:20.968Z",
   "odesli": {
     "amazonMusic": "B074SZBMG5",
     "amazonStore": "B074SZBMG5",
@@ -16,5 +16,22 @@
   "lastfmId": "John+Maus/_/Touchdown",
   "listeners": 59281,
   "playcount": 298897,
-  "artistMbid": "c6be66af-28b4-4b87-a8ba-3f46ec6fe986"
+  "artistMbid": "c6be66af-28b4-4b87-a8ba-3f46ec6fe986",
+  "musicbrainz": {
+    "artistTags": [
+      "hypnagogic pop",
+      "lo-fi",
+      "minimal synth",
+      "minimal wave",
+      "post-punk",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "hypnagogic pop",
+      "lo-fi",
+      "minimal synth",
+      "minimal wave",
+      "post-punk"
+    ]
+  }
 }

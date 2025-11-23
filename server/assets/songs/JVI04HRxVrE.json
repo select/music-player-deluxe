@@ -2,7 +2,7 @@
   "youtubeId": "JVI04HRxVrE",
   "title": "Surrender",
   "artist": "Godsmack",
-  "lastFetched": "2025-11-19T11:14:03.568Z",
+  "lastFetched": "2025-11-23T16:35:22.866Z",
   "odesli": {
     "amazonMusic": "B0DZV2CSVN",
     "amazonStore": "B0DZV2CSVN",
@@ -24,5 +24,24 @@
   "lastfmId": "Godsmack/_/Surrender",
   "listeners": 27160,
   "playcount": 145247,
-  "artistMbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2"
+  "artistMbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2",
+  "musicbrainz": {
+    "artistTags": [
+      "1990s",
+      "acoustic rock",
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "metal",
+      "nu metal",
+      "post-grunge"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "metal"
+    ]
+  }
 }

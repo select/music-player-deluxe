@@ -2,7 +2,7 @@
   "youtubeId": "ANt8WjoX18c",
   "title": "Ganz leicht",
   "artist": "City",
-  "lastFetched": "2025-11-19T06:38:51.302Z",
+  "lastFetched": "2025-11-23T16:30:32.124Z",
   "odesli": {
     "amazonMusic": "B073NNVXHJ",
     "amazonStore": "B073NNVXHJ",
@@ -23,5 +23,20 @@
   "lastfmId": "City/_/Ganz+leicht",
   "listeners": 309,
   "playcount": 617,
-  "artistMbid": "bb1ee9fe-c5b9-46da-94ab-ea6bec84b7aa"
+  "artistMbid": "bb1ee9fe-c5b9-46da-94ab-ea6bec84b7aa",
+  "musicbrainz": {
+    "artistTags": [
+      "deutschrock",
+      "hard rock",
+      "pop rock",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "hard rock",
+      "pop rock",
+      "progressive rock",
+      "rock"
+    ]
+  }
 }

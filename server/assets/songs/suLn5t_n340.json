@@ -2,7 +2,7 @@
   "youtubeId": "suLn5t_n340",
   "title": "Michelle",
   "artist": "Michelle",
-  "lastFetched": "2025-11-19T13:07:48.169Z",
+  "lastFetched": "2025-11-23T16:51:50.065Z",
   "odesli": {
     "amazonMusic": "B07FT7JS92",
     "amazonStore": "B07FT7JS92",
@@ -19,5 +19,14 @@
   "lastfmId": "Michelle/_/Michelle",
   "listeners": 1777,
   "playcount": 10399,
-  "artistMbid": "6da018b5-94fe-4f9b-8cd7-96a19bf2b03e"
+  "artistMbid": "6da018b5-94fe-4f9b-8cd7-96a19bf2b03e",
+  "musicbrainz": {
+    "artistTags": [
+      "michelle",
+      "schlager"
+    ],
+    "artistGenres": [
+      "schlager"
+    ]
+  }
 }

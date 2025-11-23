@@ -2,7 +2,7 @@
   "youtubeId": "cE7uMM8VZOk",
   "title": "The Golden Bamboo",
   "artist": "Mop Mop",
-  "lastFetched": "2025-11-19T06:48:00.478Z",
+  "lastFetched": "2025-11-23T16:44:04.570Z",
   "odesli": {
     "amazonMusic": "B00BBWVFEG",
     "amazonStore": "B00BBWVFEG",
@@ -24,5 +24,13 @@
   "lastfmId": "Mop+Mop/_/The+Golden+Bamboo",
   "listeners": 2444,
   "playcount": 6932,
-  "artistMbid": "51a4b538-18cc-42aa-87b2-5865e8224af4"
+  "artistMbid": "51a4b538-18cc-42aa-87b2-5865e8224af4",
+  "musicbrainz": {
+    "artistTags": [
+      "acid jazz"
+    ],
+    "artistGenres": [
+      "acid jazz"
+    ]
+  }
 }

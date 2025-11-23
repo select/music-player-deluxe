@@ -2,7 +2,7 @@
   "youtubeId": "YiVkAvm-BVE",
   "title": "Atlas Falls",
   "artist": "Shinedown",
-  "lastFetched": "2025-11-19T10:44:26.990Z",
+  "lastFetched": "2025-11-23T16:42:13.753Z",
   "odesli": {
     "appleMusic": "1512827486",
     "itunes": "1512827486",
@@ -16,5 +16,21 @@
   "lastfmId": "Shinedown/_/Atlas+Falls",
   "listeners": 38455,
   "playcount": 330436,
-  "artistMbid": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6"
+  "artistMbid": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative metal",
+      "hard rock",
+      "metal",
+      "pop rock",
+      "post-grunge"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "hard rock",
+      "metal",
+      "pop rock",
+      "post-grunge"
+    ]
+  }
 }

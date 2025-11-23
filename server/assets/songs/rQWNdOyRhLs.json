@@ -2,7 +2,7 @@
   "youtubeId": "rQWNdOyRhLs",
   "title": "Hanging Out With All The Wrong People",
   "artist": "Billy Talent",
-  "lastFetched": "2025-11-19T10:04:15.975Z",
+  "lastFetched": "2025-11-23T16:51:06.881Z",
   "odesli": {
     "amazonMusic": "B0BTV5T8VD",
     "amazonStore": "B0BTV5T8VD",
@@ -25,5 +25,20 @@
   "lastfmId": "Billy+Talent/_/Hanging+Out+With+All+The+Wrong+People",
   "listeners": 28483,
   "playcount": 186828,
-  "artistMbid": "fd429857-5ace-4609-ae54-1502c3bdac11"
+  "artistMbid": "fd429857-5ace-4609-ae54-1502c3bdac11",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "canadian",
+      "pop punk",
+      "pop rock",
+      "punk rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "pop punk",
+      "pop rock",
+      "punk rock"
+    ]
+  }
 }

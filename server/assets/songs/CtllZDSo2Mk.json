@@ -2,7 +2,7 @@
   "youtubeId": "CtllZDSo2Mk",
   "title": "Suzie Thundertussy",
   "artist": "Junie Morrison",
-  "lastFetched": "2025-11-19T14:13:13.224Z",
+  "lastFetched": "2025-11-23T16:31:52.439Z",
   "odesli": {
     "amazonMusic": "B01BBBC5XG",
     "amazonStore": "B01BBBC5XG",
@@ -14,5 +14,13 @@
   "lastfmId": "Junie+Morrison/_/Suzie+Thundertussy",
   "listeners": 29587,
   "playcount": 108650,
-  "artistMbid": "39d895fa-c8e1-4dfe-ae14-9a1a302e64aa"
+  "artistMbid": "39d895fa-c8e1-4dfe-ae14-9a1a302e64aa",
+  "musicbrainz": {
+    "artistTags": [
+      "funk"
+    ],
+    "artistGenres": [
+      "funk"
+    ]
+  }
 }

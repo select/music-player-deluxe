@@ -2,7 +2,7 @@
   "youtubeId": "9PnOG67flRA",
   "title": "The Bay",
   "artist": "Metronomy",
-  "lastFetched": "2025-11-19T13:11:22.054Z",
+  "lastFetched": "2025-11-23T16:30:08.549Z",
   "odesli": {
     "amazonMusic": "B0FH6V1RNR",
     "amazonStore": "B0FH6V1RNR",
@@ -25,5 +25,45 @@
   "lastfmId": "Metronomy/_/The+Bay",
   "listeners": 525337,
   "playcount": 4924134,
-  "artistMbid": "93eb7110-0bc9-4d3f-816b-4b52ef982ec8"
+  "artistMbid": "93eb7110-0bc9-4d3f-816b-4b52ef982ec8",
+  "musicbrainz": {
+    "tags": [
+      "electronic",
+      "electropop",
+      "experimental",
+      "indie",
+      "indie pop",
+      "indie rock",
+      "indietronica",
+      "rock",
+      "synth-pop",
+      "technopop"
+    ],
+    "genres": [
+      "electronic",
+      "electropop",
+      "experimental",
+      "indie pop",
+      "indie rock"
+    ],
+    "artistTags": [
+      "alternative",
+      "art pop",
+      "electronic",
+      "electropop",
+      "indie pop",
+      "indie rock",
+      "indietronica",
+      "new rave",
+      "rock and indie",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "art pop",
+      "electronic",
+      "electropop",
+      "indie pop",
+      "indie rock"
+    ]
+  }
 }

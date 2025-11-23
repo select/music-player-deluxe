@@ -2,7 +2,7 @@
   "youtubeId": "4vYEQGsD8fw",
   "title": "Starstruck",
   "artist": "Santigold",
-  "lastFetched": "2025-11-19T06:34:17.994Z",
+  "lastFetched": "2025-11-23T16:28:05.677Z",
   "odesli": {
     "amazonMusic": "B0017T6H4Q",
     "amazonStore": "B0017T6H4Q",
@@ -22,5 +22,21 @@
   "lastfmId": "Santigold/_/Starstruck",
   "listeners": 128214,
   "playcount": 539646,
-  "artistMbid": "97b20fe3-0924-4a5f-9955-d0b5c5f9587f"
+  "artistMbid": "97b20fe3-0924-4a5f-9955-d0b5c5f9587f",
+  "musicbrainz": {
+    "artistTags": [
+      "electronic",
+      "hip hop",
+      "indie rock",
+      "new wave",
+      "pop"
+    ],
+    "artistGenres": [
+      "electronic",
+      "hip hop",
+      "indie rock",
+      "new wave",
+      "pop"
+    ]
+  }
 }

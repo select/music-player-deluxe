@@ -2,7 +2,7 @@
   "youtubeId": "ltKTHtMmDJQ",
   "title": "The Liars Club",
   "artist": "Coheed and Cambria",
-  "lastFetched": "2025-11-19T08:04:23.640Z",
+  "lastFetched": "2025-11-23T16:48:26.030Z",
   "odesli": {
     "amazonMusic": "B09L5J718B",
     "amazonStore": "B09L5J718B",
@@ -23,5 +23,17 @@
   "lastfmId": "Coheed+and+Cambria/_/The+Liars+Club",
   "listeners": 37311,
   "playcount": 341460,
-  "artistMbid": "ae1b47d5-5128-431c-9d30-e08fd90e0767"
+  "artistMbid": "ae1b47d5-5128-431c-9d30-e08fd90e0767",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "progressive metal",
+      "progressive rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "progressive metal",
+      "progressive rock"
+    ]
+  }
 }

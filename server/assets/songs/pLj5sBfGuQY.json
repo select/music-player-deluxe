@@ -2,7 +2,7 @@
   "youtubeId": "pLj5sBfGuQY",
   "title": "I Don't Wanna Lose You",
   "artist": "Tina Turner",
-  "lastFetched": "2025-11-19T11:53:50.456Z",
+  "lastFetched": "2025-11-23T16:50:21.152Z",
   "odesli": {
     "amazonMusic": "B000TPE4JY",
     "amazonStore": "B000TPE4JY",
@@ -19,5 +19,23 @@
   "lastfmId": "Tina+Turner/_/I+Don%27t+Wanna+Lose+You",
   "listeners": 133895,
   "playcount": 519998,
-  "artistMbid": "9072df14-b61e-42e2-b4f4-6bbb7fdb5586"
+  "artistMbid": "9072df14-b61e-42e2-b4f4-6bbb7fdb5586",
+  "musicbrainz": {
+    "artistTags": [
+      "box set",
+      "english",
+      "pop",
+      "pop rock",
+      "pop soul",
+      "rock",
+      "soul"
+    ],
+    "artistGenres": [
+      "pop",
+      "pop rock",
+      "pop soul",
+      "rock",
+      "soul"
+    ]
+  }
 }

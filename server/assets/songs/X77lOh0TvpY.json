@@ -3,7 +3,7 @@
   "title": "Roots",
   "artist": "Ian Carr",
   "youtubeId": "X77lOh0TvpY",
-  "lastFetched": "2025-11-19T03:19:21.051Z",
+  "lastFetched": "2025-11-23T16:41:25.439Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B07QP2493J",
@@ -22,5 +22,13 @@
   "lastfmId": "Ian+Carr/_/Roots",
   "listeners": 13751,
   "playcount": 42082,
-  "artistMbid": "69a178fa-34d5-4283-9aed-691a2d5fc45d"
+  "artistMbid": "69a178fa-34d5-4283-9aed-691a2d5fc45d",
+  "musicbrainz": {
+    "artistTags": [
+      "jazz"
+    ],
+    "artistGenres": [
+      "jazz"
+    ]
+  }
 }

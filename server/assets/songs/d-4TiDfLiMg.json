@@ -6,8 +6,19 @@
   "releaseCount": 2,
   "duration": 158,
   "youtubeId": "d-4TiDfLiMg",
-  "lastFetched": "2025-11-19T05:37:11.963Z",
+  "lastFetched": "2025-11-23T16:44:35.354Z",
   "lastfmId": "Kool+Savas/_/Brachland",
   "listeners": 5209,
-  "playcount": 42778
+  "playcount": 42778,
+  "musicbrainz": {
+    "artistTags": [
+      "german",
+      "germany",
+      "hip hop",
+      "rap"
+    ],
+    "artistGenres": [
+      "hip hop"
+    ]
+  }
 }

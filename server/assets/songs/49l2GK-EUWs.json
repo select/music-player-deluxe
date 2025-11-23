@@ -6,7 +6,7 @@
   "releaseCount": 4,
   "duration": 343,
   "youtubeId": "49l2GK-EUWs",
-  "lastFetched": "2025-11-19T02:26:40.018Z",
+  "lastFetched": "2025-11-23T16:27:42.281Z",
   "odesli": {
     "amazonMusic": "B077F9HDVP",
     "amazonStore": "B077F9HDVP",
@@ -18,5 +18,14 @@
   },
   "lastfmId": "Need+for+Mirrors/_/Pagans",
   "listeners": 7258,
-  "playcount": 27977
+  "playcount": 27977,
+  "musicbrainz": {
+    "artistTags": [
+      "drum and bass",
+      "uk"
+    ],
+    "artistGenres": [
+      "drum and bass"
+    ]
+  }
 }

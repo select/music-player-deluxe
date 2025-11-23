@@ -2,7 +2,7 @@
   "youtubeId": "jyvo6gY9zLA",
   "title": "Megalomaniac",
   "artist": "Incubus",
-  "lastFetched": "2025-11-19T16:19:12.670Z",
+  "lastFetched": "2025-11-23T16:47:18.646Z",
   "odesli": {
     "amazonMusic": "B0045L1QU8",
     "amazonStore": "B0045L1QU8",
@@ -17,5 +17,25 @@
   "listeners": 539095,
   "playcount": 3470619,
   "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5",
-  "lastfmSummary": "\"Megalomaniac\" is a song by American alternative rock band Incubus, from their 2004 album A Crow Left of the Murder. It was released as a single in December of 2003, and eventually reached the top of Billboard's Modern Rock Tracks, where it stayed for a six-week period.\nContents\n\n\nMusical qualities\n\nThe song begins with a cyclic, scratchy warble that lasts about 30 seconds before fading into a more traditional build. The entire build lasts about one minute in all before climaxing into an electric bass riff, then leading into the first verse. <a href=\"http://www.last.fm/music/Incubus/_/Megalomaniac\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Megalomaniac\" is a song by American alternative rock band Incubus, from their 2004 album A Crow Left of the Murder. It was released as a single in December of 2003, and eventually reached the top of Billboard's Modern Rock Tracks, where it stayed for a six-week period.\nContents\n\n\nMusical qualities\n\nThe song begins with a cyclic, scratchy warble that lasts about 30 seconds before fading into a more traditional build. The entire build lasts about one minute in all before climaxing into an electric bass riff, then leading into the first verse. <a href=\"http://www.last.fm/music/Incubus/_/Megalomaniac\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative metal",
+      "alternative rock",
+      "funk metal",
+      "funk rock",
+      "nu metal",
+      "pop rock",
+      "rap metal",
+      "rock",
+      "turntablism"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "funk metal",
+      "funk rock",
+      "nu metal"
+    ]
+  }
 }

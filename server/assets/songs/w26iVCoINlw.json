@@ -2,7 +2,7 @@
   "youtubeId": "w26iVCoINlw",
   "title": "Goye Kur",
   "artist": "Ali Farka Touré",
-  "lastFetched": "2025-11-19T07:00:45.516Z",
+  "lastFetched": "2025-11-23T16:53:09.486Z",
   "odesli": {
     "appleMusic": "1471009185",
     "itunes": "1471009185",
@@ -15,5 +15,15 @@
   "lastfmId": "Ali+Farka+Tour%C3%A9/_/Goye+Kur",
   "listeners": 9615,
   "playcount": 25242,
-  "artistMbid": "9be2a5ac-8201-489b-b5f6-91f958bf9060"
+  "artistMbid": "9be2a5ac-8201-489b-b5f6-91f958bf9060",
+  "musicbrainz": {
+    "artistTags": [
+      "african blues",
+      "talking timbuktu",
+      "world"
+    ],
+    "artistGenres": [
+      "african blues"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "nHGXHbIfneo",
   "title": "Der Apfeltraum",
   "artist": "Klaus Renft Combo",
-  "lastFetched": "2025-11-19T10:24:38.479Z",
+  "lastFetched": "2025-11-23T16:49:12.080Z",
   "odesli": {
     "amazonMusic": "B09J8YP1MX",
     "amazonStore": "B09J8YP1MX",
@@ -24,5 +24,13 @@
   "lastfmId": "Klaus+Renft+Combo/_/Der+Apfeltraum",
   "listeners": 1474,
   "playcount": 4794,
-  "artistMbid": "2eacf520-6ea3-4cf8-a72d-64b709892f23"
+  "artistMbid": "2eacf520-6ea3-4cf8-a72d-64b709892f23",
+  "musicbrainz": {
+    "artistTags": [
+      "rock"
+    ],
+    "artistGenres": [
+      "rock"
+    ]
+  }
 }

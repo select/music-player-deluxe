@@ -2,7 +2,7 @@
   "youtubeId": "9X_ViIPA-Gc",
   "title": "I'd Do Anything for Love (But I Won't Do That)",
   "artist": "Meat Loaf",
-  "lastFetched": "2025-11-19T05:43:17.228Z",
+  "lastFetched": "2025-11-23T16:30:15.206Z",
   "odesli": {
     "amazonMusic": "B000V61F52",
     "amazonStore": "B000V61F52",
@@ -22,5 +22,41 @@
   "listeners": 228033,
   "playcount": 1219407,
   "artistMbid": "b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1",
-  "lastfmSummary": "From the album Bat Out of Hell 2, the album that brought Meat Loaf back to fame in the '90s, this song was a massive hit and topped the chart around the globe.Unconventionally 12 minutes long. \n\nPerceived ambiguity of \"that\"\n\nEach verse mentions two things that he would do for love, followed by one thing that he will not do. The title phrase repetition reasserts that he \"won't do that\" previously stated one thing. Each mention of \"that\" is an anaphoric reference to the particular promise that he made earlier in the same verse. <a href=\"http://www.last.fm/music/Meat+Loaf/_/I%27d+Do+Anything+for+Love+(But+I+Won%27t+Do+That)\">Read more on Last.fm</a>."
+  "lastfmSummary": "From the album Bat Out of Hell 2, the album that brought Meat Loaf back to fame in the '90s, this song was a massive hit and topped the chart around the globe.Unconventionally 12 minutes long. \n\nPerceived ambiguity of \"that\"\n\nEach verse mentions two things that he would do for love, followed by one thing that he will not do. The title phrase repetition reasserts that he \"won't do that\" previously stated one thing. Each mention of \"that\" is an anaphoric reference to the particular promise that he made earlier in the same verse. <a href=\"http://www.last.fm/music/Meat+Loaf/_/I%27d+Do+Anything+for+Love+(But+I+Won%27t+Do+That)\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "classic rock",
+      "funk",
+      "hard rock",
+      "pop",
+      "pop rock",
+      "power pop",
+      "rock",
+      "rock ballads",
+      "rock opera"
+    ],
+    "genres": [
+      "classic rock",
+      "funk",
+      "hard rock",
+      "pop",
+      "pop rock"
+    ],
+    "artistTags": [
+      "2008 universal fire victim",
+      "aor",
+      "classic rock",
+      "death by covid-19",
+      "hard rock",
+      "rock",
+      "rock opera"
+    ],
+    "artistGenres": [
+      "aor",
+      "classic rock",
+      "hard rock",
+      "rock",
+      "rock opera"
+    ]
+  }
 }

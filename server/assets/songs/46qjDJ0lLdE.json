@@ -2,7 +2,7 @@
   "youtubeId": "46qjDJ0lLdE",
   "title": "Teeth of the Hydra",
   "artist": "Steve Vai",
-  "lastFetched": "2025-11-19T13:18:29.806Z",
+  "lastFetched": "2025-11-23T16:27:40.094Z",
   "odesli": {
     "amazonMusic": "B09MZL8M1Z",
     "amazonStore": "B09MZL8M1Z",
@@ -20,5 +20,23 @@
   "lastfmId": "Steve+Vai/_/Teeth+of+the+Hydra",
   "listeners": 13230,
   "playcount": 45702,
-  "artistMbid": "5e7ccd92-6277-451a-aab9-1efd587c50f3"
+  "artistMbid": "5e7ccd92-6277-451a-aab9-1efd587c50f3",
+  "musicbrainz": {
+    "artistTags": [
+      "avant-garde metal",
+      "experimental",
+      "guitar",
+      "hard rock",
+      "instrumental rock",
+      "progressive metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "avant-garde metal",
+      "experimental",
+      "hard rock",
+      "instrumental rock",
+      "progressive metal"
+    ]
+  }
 }

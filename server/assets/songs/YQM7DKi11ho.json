@@ -4,7 +4,7 @@
   "artist": "Paul Kalkbrenner",
   "duration": 176,
   "youtubeId": "YQM7DKi11ho",
-  "lastFetched": "2025-11-19T04:39:47.193Z",
+  "lastFetched": "2025-11-23T16:42:03.839Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0FH2XPS1G",
@@ -25,5 +25,19 @@
   "listeners": 27882,
   "playcount": 114135,
   "artistMbid": "a5f92d47-b562-4582-b267-71963a515f4c",
-  "lastfmSummary": "Features Stromae <a href=\"http://www.last.fm/music/Paul+Kalkbrenner/_/QUE+CE+SOIT+CLAIR\">Read more on Last.fm</a>."
+  "lastfmSummary": "Features Stromae <a href=\"http://www.last.fm/music/Paul+Kalkbrenner/_/QUE+CE+SOIT+CLAIR\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "downbeat",
+      "electronica",
+      "germany",
+      "minimal techno",
+      "techno"
+    ],
+    "artistGenres": [
+      "electronica",
+      "minimal techno",
+      "techno"
+    ]
+  }
 }

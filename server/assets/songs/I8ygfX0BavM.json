@@ -2,7 +2,7 @@
   "youtubeId": "I8ygfX0BavM",
   "title": "When I'm Gone",
   "artist": "Dirty Honey",
-  "lastFetched": "2025-11-19T11:53:20.100Z",
+  "lastFetched": "2025-11-23T16:34:40.040Z",
   "odesli": {
     "amazonMusic": "B07YNC7R3Z",
     "amazonStore": "B07YNC7R3Z",
@@ -17,5 +17,15 @@
   "lastfmId": "Dirty+Honey/_/When+I%27m+Gone",
   "listeners": 44311,
   "playcount": 206915,
-  "artistMbid": "de7ecc1f-487c-4ef9-8a0c-c18146c309c4"
+  "artistMbid": "de7ecc1f-487c-4ef9-8a0c-c18146c309c4",
+  "musicbrainz": {
+    "artistTags": [
+      "blues rock",
+      "hard rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "hard rock"
+    ]
+  }
 }

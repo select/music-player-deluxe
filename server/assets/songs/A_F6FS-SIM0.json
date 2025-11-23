@@ -2,7 +2,7 @@
   "youtubeId": "A_F6FS-SIM0",
   "title": "Watchlar",
   "artist": "Cocteau Twins",
-  "lastFetched": "2025-11-19T14:41:50.958Z",
+  "lastFetched": "2025-11-23T16:30:37.802Z",
   "odesli": {
     "amazonMusic": "B0137B1B2O",
     "amazonStore": "B0137B1B2O",
@@ -15,5 +15,26 @@
   "lastfmId": "Cocteau+Twins/_/Watchlar",
   "listeners": 82145,
   "playcount": 371023,
-  "artistMbid": "000fc734-b7e1-4a01-92d1-f544261b43f5"
+  "artistMbid": "000fc734-b7e1-4a01-92d1-f544261b43f5",
+  "musicbrainz": {
+    "artistTags": [
+      "4ad",
+      "ambient techno",
+      "british",
+      "dark wave",
+      "dream pop",
+      "ethereal wave",
+      "gothic rock",
+      "post-punk",
+      "scottish",
+      "shoegaze"
+    ],
+    "artistGenres": [
+      "ambient techno",
+      "dark wave",
+      "dream pop",
+      "ethereal wave",
+      "gothic rock"
+    ]
+  }
 }

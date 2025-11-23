@@ -2,7 +2,7 @@
   "youtubeId": "7HRzcu4uKvA",
   "title": "What Would You Do?",
   "artist": "Seether",
-  "lastFetched": "2025-11-19T08:12:34.037Z",
+  "lastFetched": "2025-11-23T16:29:20.660Z",
   "odesli": {
     "amazonMusic": "B0B5K1343W",
     "amazonStore": "B0B5K1343W",
@@ -18,5 +18,19 @@
   "lastfmId": "Seether/_/What+Would+You+Do%3F",
   "listeners": 17594,
   "playcount": 102009,
-  "artistMbid": "fbcd7b29-455f-49e6-9c4f-8249d20a055e"
+  "artistMbid": "fbcd7b29-455f-49e6-9c4f-8249d20a055e",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative metal",
+      "hard rock",
+      "post-grunge",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "hard rock",
+      "post-grunge",
+      "rock"
+    ]
+  }
 }

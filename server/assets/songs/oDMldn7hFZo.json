@@ -2,7 +2,7 @@
   "youtubeId": "oDMldn7hFZo",
   "title": "The Dripping Tap",
   "artist": "King Gizzard & The Lizard Wizard",
-  "lastFetched": "2025-11-23T15:40:45.752Z",
+  "lastFetched": "2025-11-23T16:49:42.926Z",
   "odesli": {
     "amazonMusic": "B09V3GRH72",
     "amazonStore": "B09V3GRH72",
@@ -22,5 +22,26 @@
   "lastfmId": "King+Gizzard+&+The+Lizard+Wizard/_/The+Dripping+Tap",
   "listeners": 99041,
   "playcount": 771352,
-  "artistMbid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7"
+  "artistMbid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7",
+  "musicbrainz": {
+    "artistTags": [
+      "australian",
+      "boogie rock",
+      "experimental",
+      "garage rock",
+      "hard rock",
+      "heavy psych",
+      "jazz rock",
+      "neo-psychedelia",
+      "progressive rock",
+      "psychedelic pop"
+    ],
+    "artistGenres": [
+      "boogie rock",
+      "experimental",
+      "garage rock",
+      "hard rock",
+      "heavy psych"
+    ]
+  }
 }

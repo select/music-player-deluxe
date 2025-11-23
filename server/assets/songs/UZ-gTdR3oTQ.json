@@ -2,10 +2,31 @@
   "youtubeId": "UZ-gTdR3oTQ",
   "title": "Gassenhauer",
   "artist": "Carl Orff",
-  "lastFetched": "2025-11-19T14:08:37.792Z",
+  "lastFetched": "2025-11-23T16:40:30.135Z",
   "mbid": "52186999-79af-3355-890a-d4e5852784b0",
   "lastfmId": "Carl+Orff/_/Gassenhauer",
   "listeners": 3226,
   "playcount": 20719,
-  "artistMbid": "0b3ee6cd-a2df-4144-adf9-7807ee7ecc4f"
+  "artistMbid": "0b3ee6cd-a2df-4144-adf9-7807ee7ecc4f",
+  "musicbrainz": {
+    "artistTags": [
+      "20th century",
+      "ballet",
+      "cantata",
+      "choral",
+      "classical",
+      "composer",
+      "european",
+      "german",
+      "german composer",
+      "opera"
+    ],
+    "artistGenres": [
+      "ballet",
+      "cantata",
+      "classical",
+      "opera",
+      "orchestral"
+    ]
+  }
 }

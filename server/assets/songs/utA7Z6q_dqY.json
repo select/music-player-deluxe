@@ -2,7 +2,7 @@
   "youtubeId": "utA7Z6q_dqY",
   "title": "Mullah Said",
   "artist": "Muslimgauze",
-  "lastFetched": "2025-11-19T08:18:41.453Z",
+  "lastFetched": "2025-11-23T16:52:43.128Z",
   "odesli": {
     "amazonMusic": "B00GM9LP52",
     "amazonStore": "B00GM9LP52",
@@ -15,5 +15,25 @@
   "lastfmId": "Muslimgauze/_/Mullah+Said",
   "listeners": 25429,
   "playcount": 101815,
-  "artistMbid": "06fc1189-d7cd-4344-b09a-51cd82cfefe5"
+  "artistMbid": "06fc1189-d7cd-4344-b09a-51cd82cfefe5",
+  "musicbrainz": {
+    "artistTags": [
+      "ambient techno",
+      "british",
+      "dark ambient",
+      "dub",
+      "electronic",
+      "ethnic electronica",
+      "experimental",
+      "industrial",
+      "tribal ambient"
+    ],
+    "artistGenres": [
+      "ambient techno",
+      "dark ambient",
+      "dub",
+      "electronic",
+      "experimental"
+    ]
+  }
 }

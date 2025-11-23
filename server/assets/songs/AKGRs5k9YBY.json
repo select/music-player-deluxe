@@ -2,7 +2,7 @@
   "youtubeId": "AKGRs5k9YBY",
   "title": "Hammasratas",
   "artist": "Stam1na",
-  "lastFetched": "2025-11-19T14:24:58.088Z",
+  "lastFetched": "2025-11-23T16:30:29.807Z",
   "odesli": {
     "amazonMusic": "B07CHYWNXM",
     "amazonStore": "B07CHYWNXM",
@@ -23,5 +23,17 @@
   "lastfmId": "Stam1na/_/Hammasratas",
   "listeners": 20811,
   "playcount": 266901,
-  "artistMbid": "f74c7996-4c0b-4ebd-b1e7-219e21c41286"
+  "artistMbid": "f74c7996-4c0b-4ebd-b1e7-219e21c41286",
+  "musicbrainz": {
+    "artistTags": [
+      "heavy metal",
+      "progressive metal",
+      "technical thrash metal"
+    ],
+    "artistGenres": [
+      "heavy metal",
+      "progressive metal",
+      "technical thrash metal"
+    ]
+  }
 }

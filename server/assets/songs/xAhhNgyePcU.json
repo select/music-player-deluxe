@@ -2,7 +2,7 @@
   "youtubeId": "xAhhNgyePcU",
   "title": "Rosa (K&K Streichquartett Version)",
   "artist": "Tosca",
-  "lastFetched": "2025-11-19T12:38:13.580Z",
+  "lastFetched": "2025-11-23T16:53:38.212Z",
   "odesli": {
     "amazonMusic": "B079TJTRT9",
     "amazonStore": "B079TJTRT9",
@@ -19,5 +19,22 @@
   "lastfmId": "Tosca/_/Rosa+(K&K+Streichquartett+Version)",
   "listeners": 1163,
   "playcount": 4041,
-  "artistMbid": "3231d12a-c42d-4977-b2a4-a6e4d87978e1"
+  "artistMbid": "3231d12a-c42d-4977-b2a4-a6e4d87978e1",
+  "musicbrainz": {
+    "artistTags": [
+      "ambient techno",
+      "chillout",
+      "downtempo",
+      "electronic",
+      "electronica",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "ambient techno",
+      "chillout",
+      "downtempo",
+      "electronic",
+      "electronica"
+    ]
+  }
 }

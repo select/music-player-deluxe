@@ -2,7 +2,7 @@
   "youtubeId": "9ZyqJjZKHdM",
   "title": "Theme From a NOFX Album",
   "artist": "NOFX",
-  "lastFetched": "2025-11-19T08:24:47.740Z",
+  "lastFetched": "2025-11-23T16:30:21.162Z",
   "odesli": {
     "soundcloud": "nofx-official/theme-from-a-nofx-album",
     "spotify": "3FHpMTn4QTrvmC4CuUpcLk",
@@ -14,5 +14,26 @@
   "lastfmId": "NOFX/_/Theme+From+a+NOFX+Album",
   "listeners": 55853,
   "playcount": 286512,
-  "artistMbid": "dcaa4f81-bfb7-44eb-8594-4e74f004b6e4"
+  "artistMbid": "dcaa4f81-bfb7-44eb-8594-4e74f004b6e4",
+  "musicbrainz": {
+    "artistTags": [
+      "american",
+      "classic punk",
+      "hardcore punk",
+      "los angeles",
+      "los angeles punk",
+      "melodic hardcore",
+      "pop punk",
+      "punk",
+      "punk rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "hardcore punk",
+      "melodic hardcore",
+      "pop punk",
+      "punk",
+      "punk rock"
+    ]
+  }
 }

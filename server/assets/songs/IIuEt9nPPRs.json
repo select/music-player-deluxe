@@ -2,7 +2,7 @@
   "youtubeId": "IIuEt9nPPRs",
   "title": "Hemorrhage (In My Hands)",
   "artist": "Fuel",
-  "lastFetched": "2025-11-19T11:59:28.562Z",
+  "lastFetched": "2025-11-23T16:34:44.527Z",
   "odesli": {
     "amazonMusic": "B00136RKIK",
     "amazonStore": "B00136RKIK",
@@ -17,5 +17,19 @@
   "listeners": 407384,
   "playcount": 2315161,
   "artistMbid": "2a5a3b60-d468-4b62-a28f-9c410ad3f71d",
-  "lastfmSummary": "\"Hemorrhage (In My Hands)\" is a song by the rock band Fuel, released as the first single from their album Something Like Human. The single spent twelve weeks at number one on the U.S. Modern Rock Tracks chart and is the band's most successful song to date. An acoustic version is a bonus track on the special edition. <a href=\"http://www.last.fm/music/Fuel/_/Hemorrhage+(In+My+Hands)\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Hemorrhage (In My Hands)\" is a song by the rock band Fuel, released as the first single from their album Something Like Human. The single spent twelve weeks at number one on the U.S. Modern Rock Tracks chart and is the band's most successful song to date. An acoustic version is a bonus track on the special edition. <a href=\"http://www.last.fm/music/Fuel/_/Hemorrhage+(In+My+Hands)\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "post-grunge"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "post-grunge"
+    ]
+  }
 }

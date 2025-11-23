@@ -2,7 +2,7 @@
   "youtubeId": "uep8z9pujiE",
   "title": "Zealous",
   "artist": "Tantrum Desire",
-  "lastFetched": "2025-11-19T07:03:18.503Z",
+  "lastFetched": "2025-11-23T16:52:37.978Z",
   "odesli": {
     "amazonMusic": "B07WCQLXWQ",
     "amazonStore": "B07WCQLXWQ",
@@ -16,5 +16,15 @@
   "lastfmId": "Tantrum+Desire/_/Zealous",
   "listeners": 2719,
   "playcount": 9481,
-  "artistMbid": "5b009716-f46f-4dc4-97ce-aabbf422bcf4"
+  "artistMbid": "5b009716-f46f-4dc4-97ce-aabbf422bcf4",
+  "musicbrainz": {
+    "artistTags": [
+      "drum and bass",
+      "electronic"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "electronic"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "zoGRUyuWMK8",
   "title": "Wake Me Up",
   "artist": "Norah Jones",
-  "lastFetched": "2025-11-19T11:04:53.597Z",
+  "lastFetched": "2025-11-23T16:54:55.181Z",
   "odesli": {
     "amazonMusic": "B000TRQ7K6",
     "amazonStore": "B000TRQ7K6",
@@ -26,5 +26,26 @@
   "lastfmId": "Norah+Jones/_/Wake+Me+Up",
   "listeners": 148198,
   "playcount": 667178,
-  "artistMbid": "985c709c-7771-4de3-9024-7bda29ebe3f9"
+  "artistMbid": "985c709c-7771-4de3-9024-7bda29ebe3f9",
+  "musicbrainz": {
+    "artistTags": [
+      "blues",
+      "christmas music",
+      "contemporary vocal jazz",
+      "country",
+      "folk",
+      "indie pop",
+      "jazz",
+      "jazz pop",
+      "neo mellow",
+      "pop"
+    ],
+    "artistGenres": [
+      "blues",
+      "christmas music",
+      "country",
+      "folk",
+      "indie pop"
+    ]
+  }
 }

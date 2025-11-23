@@ -2,7 +2,7 @@
   "youtubeId": "yJSP2L3hmWc",
   "title": "Trouble",
   "artist": "Say She She",
-  "lastFetched": "2025-11-19T08:39:03.096Z",
+  "lastFetched": "2025-11-23T16:54:09.503Z",
   "odesli": {
     "amazonMusic": "B0BMPPS9G9",
     "amazonStore": "B0BMPPS9G9",
@@ -17,5 +17,17 @@
   "lastfmId": "Say+She+She/_/Trouble",
   "listeners": 13927,
   "playcount": 41259,
-  "artistMbid": "64dad611-8ada-4696-ac5f-ecb8bf73d51b"
+  "artistMbid": "64dad611-8ada-4696-ac5f-ecb8bf73d51b",
+  "musicbrainz": {
+    "artistTags": [
+      "disco",
+      "funk",
+      "soul"
+    ],
+    "artistGenres": [
+      "disco",
+      "funk",
+      "soul"
+    ]
+  }
 }

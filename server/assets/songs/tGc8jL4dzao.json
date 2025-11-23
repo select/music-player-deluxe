@@ -2,7 +2,7 @@
   "youtubeId": "tGc8jL4dzao",
   "title": "Breed (Live At The Paramount)",
   "artist": "Nirvana",
-  "lastFetched": "2025-11-19T17:02:44.921Z",
+  "lastFetched": "2025-11-23T16:51:59.681Z",
   "odesli": {
     "amazonMusic": "B005KXXB2G",
     "amazonStore": "B005KXXB2G",
@@ -17,5 +17,39 @@
   "lastfmId": "Nirvana/_/Breed+(Live+At+The+Paramount)",
   "listeners": 1333,
   "playcount": 3602,
-  "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da"
+  "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+  "musicbrainz": {
+    "tags": [
+      "alternative pop/rock",
+      "alternative rock",
+      "alternative/indie rock",
+      "grunge",
+      "pop/rock",
+      "rock"
+    ],
+    "genres": [
+      "alternative rock",
+      "grunge",
+      "rock"
+    ],
+    "artistTags": [
+      "90s",
+      "acoustic rock",
+      "alternative metal",
+      "alternative rock",
+      "american",
+      "estados unidos",
+      "grunge",
+      "noise rock",
+      "post-hardcore",
+      "punk"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "noise rock"
+    ]
+  }
 }

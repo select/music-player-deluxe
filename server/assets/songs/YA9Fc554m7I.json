@@ -6,7 +6,7 @@
   "releaseCount": 1,
   "duration": 516,
   "youtubeId": "YA9Fc554m7I",
-  "lastFetched": "2025-11-19T05:33:39.073Z",
+  "lastFetched": "2025-11-23T16:41:54.638Z",
   "odesli": {
     "amazonMusic": "B0BZCG8823",
     "amazonStore": "B0BZCG8823",
@@ -18,5 +18,20 @@
   },
   "lastfmId": "Dorisburg/_/House+Organ+For+The+Lonely",
   "listeners": 500,
-  "playcount": 1135
+  "playcount": 1135,
+  "musicbrainz": {
+    "artistTags": [
+      "acud techno",
+      "ambient techno",
+      "downtempo",
+      "tech house",
+      "techno"
+    ],
+    "artistGenres": [
+      "ambient techno",
+      "downtempo",
+      "tech house",
+      "techno"
+    ]
+  }
 }

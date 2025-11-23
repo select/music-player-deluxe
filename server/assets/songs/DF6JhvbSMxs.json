@@ -2,7 +2,7 @@
   "youtubeId": "DF6JhvbSMxs",
   "title": "Synchronize",
   "artist": "Milky Chance",
-  "lastFetched": "2025-11-19T08:32:57.524Z",
+  "lastFetched": "2025-11-23T16:32:11.573Z",
   "odesli": {
     "amazonMusic": "B09RTH8DRL",
     "amazonStore": "B09RTH8DRL",
@@ -21,5 +21,17 @@
   "lastfmId": "Milky+Chance/_/Synchronize",
   "listeners": 119741,
   "playcount": 765382,
-  "artistMbid": "6d230d98-fb8d-4421-a6e8-daca4e55d53e"
+  "artistMbid": "6d230d98-fb8d-4421-a6e8-daca4e55d53e",
+  "musicbrainz": {
+    "artistTags": [
+      "folktronica",
+      "indie folk",
+      "indie pop"
+    ],
+    "artistGenres": [
+      "folktronica",
+      "indie folk",
+      "indie pop"
+    ]
+  }
 }

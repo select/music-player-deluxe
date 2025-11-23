@@ -2,7 +2,7 @@
   "youtubeId": "gHMzOxaMqwM",
   "title": "Bedroom Acoustics",
   "artist": "Muse",
-  "lastFetched": "2025-11-19T13:44:03.494Z",
+  "lastFetched": "2025-11-23T16:46:04.067Z",
   "odesli": {
     "amazonMusic": "B073MQRHZL",
     "amazonStore": "B073MQRHZL",
@@ -23,5 +23,26 @@
   "lastfmId": "Muse/_/Bedroom+Acoustics",
   "listeners": 46201,
   "playcount": 236339,
-  "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090"
+  "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative dance",
+      "alternative metal",
+      "alternative rock",
+      "art rock",
+      "british",
+      "neo-progressive rock",
+      "pop rock",
+      "post-grunge",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "alternative metal",
+      "alternative rock",
+      "art rock",
+      "neo-progressive rock"
+    ]
+  }
 }

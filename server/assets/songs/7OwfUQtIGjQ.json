@@ -2,7 +2,7 @@
   "youtubeId": "7OwfUQtIGjQ",
   "title": "Battleships",
   "artist": "Travis",
-  "lastFetched": "2025-11-19T14:35:43.636Z",
+  "lastFetched": "2025-11-23T16:29:32.464Z",
   "odesli": {
     "amazonMusic": "B07Q4FY745",
     "amazonStore": "B07Q4FY745",
@@ -24,5 +24,26 @@
   "lastfmId": "Travis/_/Battleships",
   "listeners": 139517,
   "playcount": 701210,
-  "artistMbid": "22a40b75-affc-4e69-8884-266d087e4751"
+  "artistMbid": "22a40b75-affc-4e69-8884-266d087e4751",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative",
+      "alternative rock",
+      "british",
+      "britpop",
+      "britrock",
+      "indie",
+      "indie pop",
+      "indie rock",
+      "jangle pop",
+      "pop rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "britpop",
+      "indie pop",
+      "indie rock",
+      "jangle pop"
+    ]
+  }
 }

@@ -6,7 +6,7 @@
   "releaseCount": 4,
   "duration": 436,
   "youtubeId": "6ul-cZyuYq4",
-  "lastFetched": "2025-11-19T05:35:10.209Z",
+  "lastFetched": "2025-11-23T16:29:11.273Z",
   "odesli": {
     "amazonMusic": "B00B1MHZQ8",
     "amazonStore": "B00B1MHZQ8",
@@ -22,5 +22,26 @@
   "lastfmId": "Fleetwood+Mac/_/Go+Your+Own+Way",
   "listeners": 951113,
   "playcount": 6315868,
-  "lastfmSummary": "\"Go Your Own Way\" is a song written by Lindsey Buckingham and performed by Fleetwood Mac. It is one of the band's most enduring hits.\n\nIt was the first single to be released from the highly successful album, Rumours, which was to be released in February 1977 and peaked at number ten on the Billboard Hot 100. It is ranked #119 on Rolling Stone's list of the 500 Greatest Songs of All Time, one of the group's two entries along with \"Rhiannon (Will You Ever Win)\", and is on The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll list. <a href=\"http://www.last.fm/music/Fleetwood+Mac/_/Go+Your+Own+Way\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Go Your Own Way\" is a song written by Lindsey Buckingham and performed by Fleetwood Mac. It is one of the band's most enduring hits.\n\nIt was the first single to be released from the highly successful album, Rumours, which was to be released in February 1977 and peaked at number ten on the Billboard Hot 100. It is ranked #119 on Rolling Stone's list of the 500 Greatest Songs of All Time, one of the group's two entries along with \"Rhiannon (Will You Ever Win)\", and is on The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll list. <a href=\"http://www.last.fm/music/Fleetwood+Mac/_/Go+Your+Own+Way\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "art pop",
+      "blues",
+      "blues rock",
+      "british",
+      "british blues",
+      "classic rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "rock music"
+    ],
+    "artistGenres": [
+      "art pop",
+      "blues",
+      "blues rock",
+      "british blues",
+      "classic rock"
+    ]
+  }
 }

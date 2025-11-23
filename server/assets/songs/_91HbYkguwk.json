@@ -2,7 +2,7 @@
   "youtubeId": "_91HbYkguwk",
   "title": "Where Do I Begin",
   "artist": "The Chemical Brothers",
-  "lastFetched": "2025-11-19T16:21:45.145Z",
+  "lastFetched": "2025-11-23T16:42:37.884Z",
   "odesli": {
     "amazonMusic": "B06Y3LHB4P",
     "amazonStore": "B06Y3LHB4P",
@@ -25,5 +25,23 @@
   "listeners": 205948,
   "playcount": 780646,
   "artistMbid": "1946a82a-f927-40c2-8235-38d64f50d043",
-  "lastfmSummary": "Written by Rowlands / Simons. Engineered by Steve Dub. Voice: Beth Orton. ℗1997 <a href=\"http://www.last.fm/music/The+Chemical+Brothers/_/Where+Do+I+Begin\">Read more on Last.fm</a>."
+  "lastfmSummary": "Written by Rowlands / Simons. Engineered by Steve Dub. Voice: Beth Orton. ℗1997 <a href=\"http://www.last.fm/music/The+Chemical+Brothers/_/Where+Do+I+Begin\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "big beat",
+      "breakbeat",
+      "british",
+      "electronic",
+      "neo-psychedelia",
+      "progressive house",
+      "techno"
+    ],
+    "artistGenres": [
+      "big beat",
+      "breakbeat",
+      "electronic",
+      "neo-psychedelia",
+      "progressive house"
+    ]
+  }
 }

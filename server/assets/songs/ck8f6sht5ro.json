@@ -2,7 +2,7 @@
   "youtubeId": "ck8f6sht5ro",
   "title": "Casanova 70",
   "artist": "Air",
-  "lastFetched": "2025-11-19T15:35:26.903Z",
+  "lastFetched": "2025-11-23T16:44:20.968Z",
   "odesli": {
     "amazonMusic": "B013WOOJ66",
     "amazonStore": "B013WOOJ66",
@@ -24,5 +24,15 @@
   "lastfmId": "Air/_/Casanova+70",
   "listeners": 172486,
   "playcount": 706561,
-  "artistMbid": "14b22b4b-06d5-4b82-8284-29d29b58945f"
+  "artistMbid": "14b22b4b-06d5-4b82-8284-29d29b58945f",
+  "musicbrainz": {
+    "artistTags": [
+      "free jazz",
+      "jazz"
+    ],
+    "artistGenres": [
+      "free jazz",
+      "jazz"
+    ]
+  }
 }

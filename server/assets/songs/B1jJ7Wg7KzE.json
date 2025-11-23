@@ -2,7 +2,7 @@
   "youtubeId": "B1jJ7Wg7KzE",
   "title": "Krøterveg Te Helvete",
   "artist": "Kvelertak",
-  "lastFetched": "2025-11-19T14:07:04.273Z",
+  "lastFetched": "2025-11-23T16:31:01.500Z",
   "odesli": {
     "amazonMusic": "B0F18GNZNL",
     "amazonStore": "B0F18GNZNL",
@@ -24,5 +24,17 @@
   "listeners": 11125,
   "playcount": 48115,
   "artistMbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
-  "lastfmSummary": "The official music video for the LP's first single, \"Krøterveg Te Helvete\", can be seen here.\n\n\"'Krøterveg Te Helvete' is a celebration of the intolerable levels of hardships of being in a popular rock band in 2023,\" says KVELERTAK. <a href=\"http://www.last.fm/music/Kvelertak/_/Kr%C3%B8terveg+Te+Helvete\">Read more on Last.fm</a>."
+  "lastfmSummary": "The official music video for the LP's first single, \"Krøterveg Te Helvete\", can be seen here.\n\n\"'Krøterveg Te Helvete' is a celebration of the intolerable levels of hardships of being in a popular rock band in 2023,\" says KVELERTAK. <a href=\"http://www.last.fm/music/Kvelertak/_/Kr%C3%B8terveg+Te+Helvete\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "black 'n' roll",
+      "black metal",
+      "hardcore punk"
+    ],
+    "artistGenres": [
+      "black 'n' roll",
+      "black metal",
+      "hardcore punk"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "FHz-f2nAqs8",
   "title": "Twenty Eight",
   "artist": "Karma to Burn",
-  "lastFetched": "2025-11-19T15:31:21.567Z",
+  "lastFetched": "2025-11-23T16:33:32.549Z",
   "odesli": {
     "amazonMusic": "B09LTJ5XCC",
     "amazonStore": "B09LTJ5XCC",
@@ -16,5 +16,24 @@
   "lastfmId": "Karma+to+Burn/_/Twenty+Eight",
   "listeners": 16083,
   "playcount": 65061,
-  "artistMbid": "a587390a-db69-4ba9-9d7b-3afa13aefc6a"
+  "artistMbid": "a587390a-db69-4ba9-9d7b-3afa13aefc6a",
+  "musicbrainz": {
+    "artistTags": [
+      "desert rock",
+      "hard rock",
+      "instrumental",
+      "metal",
+      "rock",
+      "stoner",
+      "stoner metal",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "desert rock",
+      "hard rock",
+      "instrumental",
+      "metal",
+      "rock"
+    ]
+  }
 }

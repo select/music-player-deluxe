@@ -2,7 +2,7 @@
   "youtubeId": "kVc5Ltul0j4",
   "title": "Mama Got The Blues",
   "artist": "C.W. Stoneking",
-  "lastFetched": "2025-11-19T17:44:09.273Z",
+  "lastFetched": "2025-11-23T16:47:47.804Z",
   "odesli": {
     "amazonMusic": "B071YY893F",
     "amazonStore": "B071YY893F",
@@ -17,5 +17,20 @@
   "lastfmId": "C.W.+Stoneking/_/Mama+Got+The+Blues",
   "listeners": 25882,
   "playcount": 97192,
-  "artistMbid": "22a94cd7-cb1f-4b67-9be6-46d465ffc787"
+  "artistMbid": "22a94cd7-cb1f-4b67-9be6-46d465ffc787",
+  "musicbrainz": {
+    "artistTags": [
+      "acoustic blues",
+      "blues",
+      "boogaloo",
+      "classic pop and rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "acoustic blues",
+      "blues",
+      "boogaloo",
+      "singer-songwriter"
+    ]
+  }
 }

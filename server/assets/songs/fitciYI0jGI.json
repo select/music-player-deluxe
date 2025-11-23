@@ -2,7 +2,7 @@
   "youtubeId": "fitciYI0jGI",
   "title": "Nice Boys",
   "artist": "Rose Tattoo",
-  "lastFetched": "2025-11-19T14:54:37.731Z",
+  "lastFetched": "2025-11-23T16:45:47.312Z",
   "odesli": {
     "amazonMusic": "B084DM8LWM",
     "amazonStore": "B084DM8LWM",
@@ -16,5 +16,17 @@
   "lastfmId": "Rose+Tattoo/_/Nice+Boys",
   "listeners": 33674,
   "playcount": 157545,
-  "artistMbid": "e91bea6a-9cd5-454d-9cdf-cd1b33dadd36"
+  "artistMbid": "e91bea6a-9cd5-454d-9cdf-cd1b33dadd36",
+  "musicbrainz": {
+    "artistTags": [
+      "classic rock",
+      "hard rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "hard rock",
+      "rock"
+    ]
+  }
 }

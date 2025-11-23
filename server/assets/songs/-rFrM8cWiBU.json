@@ -5,7 +5,7 @@
   "album": "Zoup",
   "duration": 307,
   "youtubeId": "-rFrM8cWiBU",
-  "lastFetched": "2025-11-19T04:40:48.020Z",
+  "lastFetched": "2025-11-23T16:25:50.209Z",
   "odesli": {
     "amazonMusic": "B0CKZK2MH3",
     "amazonStore": "B0CKZK2MH3",
@@ -17,5 +17,16 @@
   "lastfmId": "Kraan/_/Norwegen+Dia+(Acoustic+Version)",
   "listeners": 78,
   "playcount": 164,
-  "artistMbid": "d634f58c-aa2c-4430-9c85-b8e0d1c66878"
+  "artistMbid": "d634f58c-aa2c-4430-9c85-b8e0d1c66878",
+  "musicbrainz": {
+    "artistTags": [
+      "fusion",
+      "jazz fusion",
+      "krautrock"
+    ],
+    "artistGenres": [
+      "jazz fusion",
+      "krautrock"
+    ]
+  }
 }

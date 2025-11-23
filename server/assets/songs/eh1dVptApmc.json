@@ -2,7 +2,7 @@
   "youtubeId": "eh1dVptApmc",
   "title": "Changes",
   "artist": "Yes",
-  "lastFetched": "2025-11-19T15:28:18.865Z",
+  "lastFetched": "2025-11-23T16:45:18.746Z",
   "odesli": {
     "amazonMusic": "B00122YMCM",
     "amazonStore": "B00122YMCM",
@@ -25,5 +25,26 @@
   "lastfmId": "Yes/_/Changes",
   "listeners": 123863,
   "playcount": 588113,
-  "artistMbid": "c1d4f2ba-cf39-460c-9528-6b827d3417a1"
+  "artistMbid": "c1d4f2ba-cf39-460c-9528-6b827d3417a1",
+  "musicbrainz": {
+    "artistTags": [
+      "aor",
+      "art rock",
+      "british",
+      "classic rock",
+      "disco",
+      "electronic",
+      "garage rock",
+      "hard rock",
+      "montreaux",
+      "pop rock"
+    ],
+    "artistGenres": [
+      "aor",
+      "art rock",
+      "classic rock",
+      "disco",
+      "electronic"
+    ]
+  }
 }

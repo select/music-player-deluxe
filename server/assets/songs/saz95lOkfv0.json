@@ -2,7 +2,7 @@
   "youtubeId": "saz95lOkfv0",
   "title": "Are You In?",
   "artist": "Incubus",
-  "lastFetched": "2025-11-19T16:19:43.184Z",
+  "lastFetched": "2025-11-23T16:51:42.844Z",
   "odesli": {
     "amazonMusic": "B0013DC6TG",
     "amazonStore": "B0013DC6TG",
@@ -26,5 +26,25 @@
   "listeners": 380196,
   "playcount": 2363406,
   "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5",
-  "lastfmSummary": "\"Are You In?\" is a song by American rock band Incubus. It was released in Europe and Australia as the fourth single from their fourth studio album, Morning View (2001), on July 15, 2002. The liner notes for the album contain no lyrics to this song (which all other songs have).\n\n\"Are You In?\" became a moderate hit for the band, reaching number six in Portugal and the top 40 in Australia, Italy, and the United Kingdom. In New Zealand, it peaked at number five on the RIANZ Singles Chart <a href=\"http://www.last.fm/music/Incubus/_/Are+You+In%3F\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Are You In?\" is a song by American rock band Incubus. It was released in Europe and Australia as the fourth single from their fourth studio album, Morning View (2001), on July 15, 2002. The liner notes for the album contain no lyrics to this song (which all other songs have).\n\n\"Are You In?\" became a moderate hit for the band, reaching number six in Portugal and the top 40 in Australia, Italy, and the United Kingdom. In New Zealand, it peaked at number five on the RIANZ Singles Chart <a href=\"http://www.last.fm/music/Incubus/_/Are+You+In%3F\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative metal",
+      "alternative rock",
+      "funk metal",
+      "funk rock",
+      "nu metal",
+      "pop rock",
+      "rap metal",
+      "rock",
+      "turntablism"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "funk metal",
+      "funk rock",
+      "nu metal"
+    ]
+  }
 }

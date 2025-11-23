@@ -2,7 +2,7 @@
   "youtubeId": "J43T8rEOg-I",
   "title": "Senegal Fast Food",
   "artist": "Amadou & Mariam",
-  "lastFetched": "2025-11-19T15:13:02.396Z",
+  "lastFetched": "2025-11-23T16:35:03.700Z",
   "odesli": {
     "amazonMusic": "B073MN5D5X",
     "amazonStore": "B073MN5D5X",
@@ -23,5 +23,19 @@
   "lastfmId": "Amadou+&+Mariam/_/Senegal+Fast+Food",
   "listeners": 55007,
   "playcount": 262718,
-  "artistMbid": "1fb60b6c-0f4d-42b4-8a5e-de705ec76660"
+  "artistMbid": "1fb60b6c-0f4d-42b4-8a5e-de705ec76660",
+  "musicbrainz": {
+    "artistTags": [
+      "african blues",
+      "desert blues",
+      "francophone",
+      "mali",
+      "malian",
+      "malien"
+    ],
+    "artistGenres": [
+      "african blues",
+      "desert blues"
+    ]
+  }
 }

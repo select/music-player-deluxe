@@ -2,7 +2,7 @@
   "youtubeId": "lsPrINajncU",
   "title": "Nuclear War",
   "artist": "Sun Ra",
-  "lastFetched": "2025-11-19T06:25:37.900Z",
+  "lastFetched": "2025-11-23T16:48:23.673Z",
   "odesli": {
     "amazonMusic": "B0C9NGKH4R",
     "amazonStore": "B0C9NGKH4R",
@@ -19,5 +19,26 @@
   "lastfmId": "Sun+Ra/_/Nuclear+War",
   "listeners": 52305,
   "playcount": 151325,
-  "artistMbid": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d"
+  "artistMbid": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
+  "musicbrainz": {
+    "artistTags": [
+      "2008 universal fire victim",
+      "american",
+      "avant-garde jazz",
+      "electronic",
+      "free improvisation",
+      "free jazz",
+      "hard bop",
+      "jazz",
+      "jazz and blues",
+      "jazz fusion"
+    ],
+    "artistGenres": [
+      "avant-garde jazz",
+      "electronic",
+      "free improvisation",
+      "free jazz",
+      "hard bop"
+    ]
+  }
 }

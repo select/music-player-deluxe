@@ -2,7 +2,7 @@
   "youtubeId": "FBiWjtlX4k0",
   "title": "Ghost",
   "artist": "CHON",
-  "lastFetched": "2025-11-19T10:17:00.487Z",
+  "lastFetched": "2025-11-23T16:33:25.811Z",
   "odesli": {
     "amazonMusic": "B0FBCM7FD6",
     "amazonStore": "B0FBCM7FD6",
@@ -15,5 +15,21 @@
   "lastfmId": "CHON/_/Ghost",
   "listeners": 64906,
   "playcount": 344116,
-  "artistMbid": "d7235f31-229a-4c04-abca-14e0fbcba26e"
+  "artistMbid": "d7235f31-229a-4c04-abca-14e0fbcba26e",
+  "musicbrainz": {
+    "artistTags": [
+      "experimental",
+      "instrumental",
+      "math rock",
+      "progressive metal",
+      "progressive rock"
+    ],
+    "artistGenres": [
+      "experimental",
+      "instrumental",
+      "math rock",
+      "progressive metal",
+      "progressive rock"
+    ]
+  }
 }

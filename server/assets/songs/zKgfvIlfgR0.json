@@ -2,7 +2,7 @@
   "youtubeId": "zKgfvIlfgR0",
   "title": "Abstractions",
   "artist": "Beanfield",
-  "lastFetched": "2025-11-19T16:03:51.060Z",
+  "lastFetched": "2025-11-23T16:54:47.864Z",
   "odesli": {
     "amazonMusic": "B0BMKSSBYS",
     "amazonStore": "B0BMKSSBYS",
@@ -14,5 +14,22 @@
   "lastfmId": "Beanfield/_/Abstractions",
   "listeners": 37471,
   "playcount": 90096,
-  "artistMbid": "ad0811ea-e213-451d-b22f-fa1a7f9e0226"
+  "artistMbid": "ad0811ea-e213-451d-b22f-fa1a7f9e0226",
+  "musicbrainz": {
+    "tags": [
+      "ambient",
+      "chillout",
+      "downtempo",
+      "electronic",
+      "future jazz",
+      "trip hop"
+    ],
+    "genres": [
+      "ambient",
+      "chillout",
+      "downtempo",
+      "electronic",
+      "trip hop"
+    ]
+  }
 }

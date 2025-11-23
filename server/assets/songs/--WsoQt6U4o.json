@@ -2,7 +2,7 @@
   "youtubeId": "--WsoQt6U4o",
   "title": "Get Fly",
   "artist": "Atmosphere",
-  "lastFetched": "2025-11-19T09:49:01.232Z",
+  "lastFetched": "2025-11-23T16:25:03.013Z",
   "odesli": {
     "soundcloud": "254480277",
     "tidal": "437724457",
@@ -13,5 +13,13 @@
   "lastfmId": "Atmosphere/_/Get+Fly",
   "listeners": 46954,
   "playcount": 263069,
-  "artistMbid": "ef954679-5ee7-4016-acef-7ac71f2fa3d8"
+  "artistMbid": "ef954679-5ee7-4016-acef-7ac71f2fa3d8",
+  "musicbrainz": {
+    "artistTags": [
+      "hip hop"
+    ],
+    "artistGenres": [
+      "hip hop"
+    ]
+  }
 }

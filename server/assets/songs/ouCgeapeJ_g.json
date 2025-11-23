@@ -4,7 +4,7 @@
   "artist": "Helge Schneider",
   "duration": 179,
   "youtubeId": "ouCgeapeJ_g",
-  "lastFetched": "2025-11-19T03:57:33.284Z",
+  "lastFetched": "2025-11-23T16:50:02.018Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B09YHTZW52",
@@ -20,5 +20,22 @@
   "lastfmId": "Helge+Schneider/_/Heute+hab+ich+gute+Laune",
   "listeners": 4188,
   "playcount": 12710,
-  "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9"
+  "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
+  "musicbrainz": {
+    "artistTags": [
+      "comedy",
+      "german",
+      "jazz",
+      "kabarett",
+      "klamauk",
+      "musical comedy",
+      "spoken word"
+    ],
+    "artistGenres": [
+      "comedy",
+      "jazz",
+      "kabarett",
+      "spoken word"
+    ]
+  }
 }

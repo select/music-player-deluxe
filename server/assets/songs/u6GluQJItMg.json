@@ -2,7 +2,7 @@
   "youtubeId": "u6GluQJItMg",
   "title": "Set It Off",
   "artist": "Thousand Foot Krutch",
-  "lastFetched": "2025-11-19T06:09:48.232Z",
+  "lastFetched": "2025-11-23T16:52:21.149Z",
   "odesli": {
     "amazonMusic": "B000TGZUWI",
     "amazonStore": "B000TGZUWI",
@@ -25,5 +25,17 @@
   "lastfmId": "Thousand+Foot+Krutch/_/Set+It+Off",
   "listeners": 19950,
   "playcount": 102500,
-  "artistMbid": "1339fab0-3ad8-4b8e-afac-7b7ae34509c7"
+  "artistMbid": "1339fab0-3ad8-4b8e-afac-7b7ae34509c7",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "christian rock",
+      "nu metal"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "christian rock",
+      "nu metal"
+    ]
+  }
 }

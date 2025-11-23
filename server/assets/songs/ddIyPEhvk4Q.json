@@ -5,7 +5,7 @@
   "album": "Body and Shadow",
   "duration": 189,
   "youtubeId": "ddIyPEhvk4Q",
-  "lastFetched": "2025-11-23T15:40:21.208Z",
+  "lastFetched": "2025-11-23T16:44:45.223Z",
   "odesli": {
     "amazonMusic": "B07683BWHF",
     "amazonStore": "B07683BWHF",
@@ -21,5 +21,22 @@
   "lastfmId": "Brian+Blade+&+The+Fellowship+Band/_/Body+And+Shadow+(Night)",
   "listeners": 252,
   "playcount": 772,
-  "artistMbid": "4d54e19b-f78d-4d2b-bdcd-a8d0348d6e6f"
+  "artistMbid": "4d54e19b-f78d-4d2b-bdcd-a8d0348d6e6f",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "blues rock",
+      "contemporary jazz",
+      "jazz",
+      "jazz fusion",
+      "post-bop"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "blues rock",
+      "contemporary jazz",
+      "jazz",
+      "jazz fusion"
+    ]
+  }
 }

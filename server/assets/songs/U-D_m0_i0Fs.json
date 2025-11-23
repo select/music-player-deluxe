@@ -2,7 +2,7 @@
   "youtubeId": "U-D_m0_i0Fs",
   "title": "Feast",
   "artist": "Avant",
-  "lastFetched": "2025-11-19T06:42:23.759Z",
+  "lastFetched": "2025-11-23T16:40:06.537Z",
   "odesli": {
     "amazonMusic": "B0BFJZ1JJ3",
     "amazonStore": "B0BFJZ1JJ3",
@@ -23,5 +23,15 @@
   "lastfmId": "Avant/_/Feast",
   "listeners": 7022,
   "playcount": 12659,
-  "artistMbid": "6255c59a-de38-44de-b966-a3c4686f9941"
+  "artistMbid": "6255c59a-de38-44de-b966-a3c4686f9941",
+  "musicbrainz": {
+    "artistTags": [
+      "contemporary r&b",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "contemporary r&b",
+      "singer-songwriter"
+    ]
+  }
 }

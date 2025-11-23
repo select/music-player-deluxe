@@ -2,7 +2,7 @@
   "youtubeId": "ieumolVsiWI",
   "title": "Pendejo",
   "artist": "Little Big",
-  "lastFetched": "2025-11-19T11:35:27.267Z",
+  "lastFetched": "2025-11-23T16:46:52.288Z",
   "odesli": {
     "amazonMusic": "B0CW1X1JS7",
     "amazonStore": "B0CW1X1JS7",
@@ -23,5 +23,22 @@
   "lastfmId": "Little+Big/_/Pendejo",
   "listeners": 12176,
   "playcount": 71681,
-  "artistMbid": "cbe51088-e4d8-463e-9f4e-e83fa64d3f5e"
+  "artistMbid": "cbe51088-e4d8-463e-9f4e-e83fa64d3f5e",
+  "musicbrainz": {
+    "artistTags": [
+      "dance",
+      "dance-pop",
+      "electropop",
+      "pop",
+      "rave",
+      "satire"
+    ],
+    "artistGenres": [
+      "dance",
+      "dance-pop",
+      "electropop",
+      "pop",
+      "rave"
+    ]
+  }
 }

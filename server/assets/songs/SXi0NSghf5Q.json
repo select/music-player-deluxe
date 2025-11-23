@@ -2,7 +2,7 @@
   "youtubeId": "SXi0NSghf5Q",
   "title": "I'm Not Jesus (International Version)",
   "artist": "Apocalyptica",
-  "lastFetched": "2025-11-19T17:10:25.726Z",
+  "lastFetched": "2025-11-23T16:39:28.073Z",
   "odesli": {
     "amazonMusic": "B08H5VQXDW",
     "amazonStore": "B08H5VQXDW",
@@ -20,5 +20,26 @@
   "lastfmId": "Apocalyptica/_/I%27m+Not+Jesus+(International+Version)",
   "listeners": 1289,
   "playcount": 4274,
-  "artistMbid": "788ad31c-bf0c-4a31-83f8-b8b130d79c76"
+  "artistMbid": "788ad31c-bf0c-4a31-83f8-b8b130d79c76",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative metal",
+      "cello",
+      "cello metal",
+      "finnish",
+      "instrumental",
+      "instrumental rock",
+      "metal",
+      "neoclassical metal",
+      "seen live",
+      "symphonic metal"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "instrumental",
+      "instrumental rock",
+      "metal",
+      "neoclassical metal"
+    ]
+  }
 }

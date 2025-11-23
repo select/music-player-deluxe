@@ -2,7 +2,7 @@
   "youtubeId": "cEMwjkRVYb8",
   "title": "Wild Ride",
   "artist": "John Tejada",
-  "lastFetched": "2025-11-19T12:05:04.440Z",
+  "lastFetched": "2025-11-23T16:44:06.831Z",
   "odesli": {
     "amazonMusic": "B0BTYWQHWW",
     "amazonStore": "B0BTYWQHWW",
@@ -23,5 +23,17 @@
   "lastfmId": "John+Tejada/_/Wild+Ride",
   "listeners": 1364,
   "playcount": 3643,
-  "artistMbid": "bda6d00e-f8f7-43a5-b8f8-f1ebc55b46d3"
+  "artistMbid": "bda6d00e-f8f7-43a5-b8f8-f1ebc55b46d3",
+  "musicbrainz": {
+    "artistTags": [
+      "drum and bass",
+      "electronic",
+      "techno"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "electronic",
+      "techno"
+    ]
+  }
 }

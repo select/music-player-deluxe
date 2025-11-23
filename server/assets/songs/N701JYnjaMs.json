@@ -2,10 +2,31 @@
   "youtubeId": "N701JYnjaMs",
   "title": "Paradise Circus",
   "artist": "Massive Attack vs Burial",
-  "lastFetched": "2025-11-19T08:45:09.384Z",
+  "lastFetched": "2025-11-23T16:36:45.084Z",
   "mbid": "3284a14d-1e85-3a1b-8dc7-acdf2926667f",
   "lastfmId": "Massive+Attack+vs+Burial/_/Paradise+Circus",
   "listeners": 17036,
   "playcount": 106912,
-  "artistMbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8"
+  "artistMbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative dance",
+      "ambient",
+      "bristol",
+      "british",
+      "club",
+      "downtempo",
+      "dub",
+      "electronic",
+      "electronica",
+      "spotify boycott"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "ambient",
+      "club",
+      "downtempo",
+      "dub"
+    ]
+  }
 }

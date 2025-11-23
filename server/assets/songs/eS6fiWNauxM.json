@@ -2,7 +2,7 @@
   "youtubeId": "eS6fiWNauxM",
   "title": "Sage nein",
   "artist": "Konstantin Wecker",
-  "lastFetched": "2025-11-19T15:23:13.441Z",
+  "lastFetched": "2025-11-23T16:45:06.678Z",
   "odesli": {
     "amazonMusic": "B07JMFN2RW",
     "amazonStore": "B07JMFN2RW",
@@ -23,5 +23,15 @@
   "lastfmId": "Konstantin+Wecker/_/Sage+nein",
   "listeners": 5547,
   "playcount": 14660,
-  "artistMbid": "4e1d5be7-6736-4af3-8ac8-619fabc57818"
+  "artistMbid": "4e1d5be7-6736-4af3-8ac8-619fabc57818",
+  "musicbrainz": {
+    "artistTags": [
+      "german",
+      "german audiobook reader",
+      "liedermacher"
+    ],
+    "artistGenres": [
+      "liedermacher"
+    ]
+  }
 }

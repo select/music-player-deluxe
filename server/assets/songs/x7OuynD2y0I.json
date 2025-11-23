@@ -2,7 +2,7 @@
   "youtubeId": "x7OuynD2y0I",
   "title": "Jugend ohne Gott gegen Faschismus",
   "artist": "Tocotronic",
-  "lastFetched": "2025-11-19T15:43:36.175Z",
+  "lastFetched": "2025-11-23T16:53:35.630Z",
   "odesli": {
     "amazonMusic": "B09FYDL81H",
     "amazonStore": "B09FYDL81H",
@@ -17,5 +17,20 @@
   "lastfmId": "Tocotronic/_/Jugend+ohne+Gott+gegen+Faschismus",
   "listeners": 8428,
   "playcount": 47175,
-  "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19"
+  "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "german",
+      "hamburger schule",
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "hamburger schule",
+      "indie rock",
+      "rock"
+    ]
+  }
 }

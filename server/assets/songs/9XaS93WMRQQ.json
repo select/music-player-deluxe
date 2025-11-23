@@ -2,7 +2,7 @@
   "youtubeId": "9XaS93WMRQQ",
   "title": "Zombie",
   "artist": "Bad Wolves",
-  "lastFetched": "2025-11-19T14:34:40.562Z",
+  "lastFetched": "2025-11-23T16:30:16.754Z",
   "odesli": {
     "amazonMusic": "B07ZS95WMX",
     "amazonStore": "B07ZS95WMX",
@@ -21,5 +21,23 @@
   "listeners": 243027,
   "playcount": 2168498,
   "artistMbid": "2002b451-41ec-4e57-b806-a109931743b1",
-  "lastfmSummary": "Bad Wolves released a cover version of the Cranberries' \"Zombie\" on January 19, 2018. Cranberries singer Dolores O'Riordan had been scheduled to record vocals with the heavy metal group at the time of her death. The cover was released without her vocals as a tribute. Bad Wolves slightly alter the lyrics, inserting a reference to drones and replacing \"since 1916\" with \"in 2018\". The cover peaked at #54 on the Hot 100 and #1 on the Mainstream Rock chart. <a href=\"http://www.last.fm/music/Bad+Wolves/_/Zombie\">Read more on Last.fm</a>."
+  "lastfmSummary": "Bad Wolves released a cover version of the Cranberries' \"Zombie\" on January 19, 2018. Cranberries singer Dolores O'Riordan had been scheduled to record vocals with the heavy metal group at the time of her death. The cover was released without her vocals as a tribute. Bad Wolves slightly alter the lyrics, inserting a reference to drones and replacing \"since 1916\" with \"in 2018\". The cover peaked at #54 on the Hot 100 and #1 on the Mainstream Rock chart. <a href=\"http://www.last.fm/music/Bad+Wolves/_/Zombie\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "metal"
+    ],
+    "genres": [
+      "metal"
+    ],
+    "artistTags": [
+      "alternative metal",
+      "groove metal",
+      "heavy metal"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "groove metal",
+      "heavy metal"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "D4QTrxBDAIM",
   "title": "The Frost",
   "artist": "The Pineapple Thief",
-  "lastFetched": "2025-11-19T16:26:23.588Z",
+  "lastFetched": "2025-11-23T16:32:03.266Z",
   "odesli": {
     "amazonMusic": "B0CMV2VCR5",
     "amazonStore": "B0CMV2VCR5",
@@ -19,5 +19,19 @@
   "lastfmId": "The+Pineapple+Thief/_/The+Frost",
   "listeners": 9565,
   "playcount": 48401,
-  "artistMbid": "e8f55abb-a6d5-4e5f-81b4-14f9cc320519"
+  "artistMbid": "e8f55abb-a6d5-4e5f-81b4-14f9cc320519",
+  "musicbrainz": {
+    "artistTags": [
+      "british",
+      "crossover prog",
+      "english",
+      "progressive rock",
+      "stadium rock",
+      "uk"
+    ],
+    "artistGenres": [
+      "crossover prog",
+      "progressive rock"
+    ]
+  }
 }

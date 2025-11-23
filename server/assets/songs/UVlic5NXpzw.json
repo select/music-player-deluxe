@@ -2,7 +2,7 @@
   "youtubeId": "UVlic5NXpzw",
   "title": "Fuzz Universe",
   "artist": "Paul Gilbert",
-  "lastFetched": "2025-11-19T13:05:46.522Z",
+  "lastFetched": "2025-11-23T16:40:20.839Z",
   "odesli": {
     "amazonMusic": "B0180NMSL2",
     "amazonStore": "B0180NMSL2",
@@ -22,5 +22,17 @@
   "lastfmId": "Paul+Gilbert/_/Fuzz+Universe",
   "listeners": 33678,
   "playcount": 165102,
-  "artistMbid": "453321a7-3a77-47b0-8125-7bd385f3a730"
+  "artistMbid": "453321a7-3a77-47b0-8125-7bd385f3a730",
+  "musicbrainz": {
+    "artistTags": [
+      "hard rock",
+      "heavy metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "hard rock",
+      "heavy metal",
+      "rock"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "iM0VWOQsVGA",
   "title": "Drifted",
   "artist": "Satl",
-  "lastFetched": "2025-11-19T16:34:05.094Z",
+  "lastFetched": "2025-11-23T16:46:50.305Z",
   "odesli": {
     "amazonMusic": "B081FGT12F",
     "amazonStore": "B081FGT12F",
@@ -14,5 +14,15 @@
   "lastfmId": "Satl/_/Drifted",
   "listeners": 640,
   "playcount": 2141,
-  "artistMbid": "3c5255a5-de8f-447c-b666-731fbf30f1f3"
+  "artistMbid": "3c5255a5-de8f-447c-b666-731fbf30f1f3",
+  "musicbrainz": {
+    "artistTags": [
+      "drum and bass",
+      "electronic"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "electronic"
+    ]
+  }
 }

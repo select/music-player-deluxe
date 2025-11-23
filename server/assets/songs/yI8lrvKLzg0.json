@@ -2,7 +2,7 @@
   "youtubeId": "yI8lrvKLzg0",
   "title": "Heaven for Everyone",
   "artist": "Queen",
-  "lastFetched": "2025-11-19T14:27:32.334Z",
+  "lastFetched": "2025-11-23T16:54:06.912Z",
   "odesli": {
     "amazonMusic": "B07VH1Z99Y",
     "amazonStore": "B07VH1Z99Y",
@@ -20,5 +20,26 @@
   "listeners": 214077,
   "playcount": 925594,
   "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
-  "lastfmSummary": "Heaven for Everyone\" is a song written by Roger Taylor. It originally appeared on Taylor's side-project The Cross's album Shove It, with Freddie Mercury as a guest vocalist, and is the album's 4th track. It was reworked for Queen's 1995 album Made In Heaven and was the album's first single. \n\nThe single reached #2 on the charts in the UK.\n\nSome reports have Roger Taylor writing the song in 1986 as part of Queen's A Kind of Magic album sessions, after their work on Highlander was complete. <a href=\"http://www.last.fm/music/Queen/_/Heaven+for+Everyone\">Read more on Last.fm</a>."
+  "lastfmSummary": "Heaven for Everyone\" is a song written by Roger Taylor. It originally appeared on Taylor's side-project The Cross's album Shove It, with Freddie Mercury as a guest vocalist, and is the album's 4th track. It was reworked for Queen's 1995 album Made In Heaven and was the album's first single. \n\nThe single reached #2 on the charts in the UK.\n\nSome reports have Roger Taylor writing the song in 1986 as part of Queen's A Kind of Magic album sessions, after their work on Highlander was complete. <a href=\"http://www.last.fm/music/Queen/_/Heaven+for+Everyone\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "art rock",
+      "beholder",
+      "british",
+      "classic rock",
+      "glam rock",
+      "glorious",
+      "hard rock",
+      "pop rock",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "art rock",
+      "classic rock",
+      "glam rock",
+      "hard rock",
+      "pop rock"
+    ]
+  }
 }

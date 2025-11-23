@@ -2,7 +2,7 @@
   "youtubeId": "xjuLh-vyHJE",
   "title": "TRiP",
   "artist": "V.C.R",
-  "lastFetched": "2025-11-19T13:36:54.814Z",
+  "lastFetched": "2025-11-23T16:53:52.716Z",
   "odesli": {
     "amazonMusic": "B0CCFYZHDS",
     "amazonStore": "B0CCFYZHDS",
@@ -25,5 +25,23 @@
   "lastfmId": "V.C.R/_/TRiP",
   "listeners": 7950,
   "playcount": 23978,
-  "artistMbid": "fc1c6fab-cb59-4a02-879f-69be388a964e"
+  "artistMbid": "fc1c6fab-cb59-4a02-879f-69be388a964e",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative r&b",
+      "avant-garde jazz",
+      "classical",
+      "contemporary r&b",
+      "free jazz",
+      "r&b",
+      "soul"
+    ],
+    "artistGenres": [
+      "alternative r&b",
+      "avant-garde jazz",
+      "classical",
+      "contemporary r&b",
+      "free jazz"
+    ]
+  }
 }

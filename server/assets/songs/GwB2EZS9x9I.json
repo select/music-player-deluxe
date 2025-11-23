@@ -2,7 +2,7 @@
   "youtubeId": "GwB2EZS9x9I",
   "title": "Frenzy",
   "artist": "Iggy Pop",
-  "lastFetched": "2025-11-19T09:52:03.707Z",
+  "lastFetched": "2025-11-23T16:34:16.431Z",
   "odesli": {
     "amazonMusic": "B0BKKFJL96",
     "amazonStore": "B0BKKFJL96",
@@ -18,5 +18,23 @@
   "lastfmId": "Iggy+Pop/_/Frenzy",
   "listeners": 31107,
   "playcount": 93254,
-  "artistMbid": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7"
+  "artistMbid": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7",
+  "musicbrainz": {
+    "artistTags": [
+      "classic rock",
+      "garage rock",
+      "hard rock",
+      "proto-punk",
+      "punk",
+      "punk rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "garage rock",
+      "hard rock",
+      "proto-punk",
+      "punk"
+    ]
+  }
 }

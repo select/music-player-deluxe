@@ -2,7 +2,7 @@
   "youtubeId": "na9FlXLz0VM",
   "title": "Hanging Tree",
   "artist": "Queens of the Stone Age",
-  "lastFetched": "2025-11-19T06:16:26.572Z",
+  "lastFetched": "2025-11-23T16:49:23.609Z",
   "odesli": {
     "amazonMusic": "B000VZKN8I",
     "amazonStore": "B000VZKN8I",
@@ -24,5 +24,22 @@
   "lastfmId": "Queens+of+the+Stone+Age/_/Hanging+Tree",
   "listeners": 220775,
   "playcount": 1162308,
-  "artistMbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+  "artistMbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "desert rock",
+      "hard rock",
+      "palm desert scene",
+      "rock",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "desert rock",
+      "hard rock",
+      "rock",
+      "stoner rock"
+    ]
+  }
 }

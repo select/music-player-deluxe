@@ -2,7 +2,7 @@
   "youtubeId": "5aJbeLbsOGY",
   "title": "Run Forever",
   "artist": "Emma Ruth Rundle",
-  "lastFetched": "2025-11-19T11:48:11.999Z",
+  "lastFetched": "2025-11-23T16:28:35.221Z",
   "odesli": {
     "amazonMusic": "B0F4V8VVHG",
     "amazonStore": "B0F4V8VVHG",
@@ -17,5 +17,24 @@
   "lastfmId": "Emma+Ruth+Rundle/_/Run+Forever",
   "listeners": 30029,
   "playcount": 198568,
-  "artistMbid": "7ba593b9-79d4-4860-92c8-ade2a1ef4551"
+  "artistMbid": "7ba593b9-79d4-4860-92c8-ade2a1ef4551",
+  "musicbrainz": {
+    "artistTags": [
+      "ambient",
+      "contemporary folk",
+      "dream pop",
+      "experimental",
+      "folk",
+      "folk rock",
+      "post-rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "ambient",
+      "contemporary folk",
+      "dream pop",
+      "experimental",
+      "folk"
+    ]
+  }
 }

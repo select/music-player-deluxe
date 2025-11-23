@@ -2,7 +2,7 @@
   "youtubeId": "_1_IXFQY5Wk",
   "title": "Black Madonna",
   "artist": "Cage the Elephant",
-  "lastFetched": "2025-11-19T15:53:34.402Z",
+  "lastFetched": "2025-11-23T16:42:35.587Z",
   "odesli": {
     "amazonMusic": "B07N8XS5TN",
     "amazonStore": "B07N8XS5TN",
@@ -21,5 +21,26 @@
   "listeners": 314683,
   "playcount": 2816518,
   "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
-  "lastfmSummary": "Continuing the running theme of empty and meaningless success from “Social Cues”, \"Black Madonna\" describes both the beauty and the emptiness that comes with success and living a fast life.\n\nThe video’s description reads:\n\nThis piece, was composed with the intent of being. A question, or commentary. Humans throughout history, have experience fractures of heart, struggling with deep separation, shame and isolation. What is the depth of the pain <a href=\"http://www.last.fm/music/Cage+the+Elephant/_/Black+Madonna\">Read more on Last.fm</a>."
+  "lastfmSummary": "Continuing the running theme of empty and meaningless success from “Social Cues”, \"Black Madonna\" describes both the beauty and the emptiness that comes with success and living a fast life.\n\nThe video’s description reads:\n\nThis piece, was composed with the intent of being. A question, or commentary. Humans throughout history, have experience fractures of heart, struggling with deep separation, shame and isolation. What is the depth of the pain <a href=\"http://www.last.fm/music/Cage+the+Elephant/_/Black+Madonna\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "acoustic rock",
+      "alternative",
+      "alternative rock",
+      "american trad rock",
+      "garage rock",
+      "garage rock revival",
+      "indie rock",
+      "neo-psychedelia",
+      "pop",
+      "post-punk revival"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative rock",
+      "garage rock",
+      "garage rock revival",
+      "indie rock"
+    ]
+  }
 }

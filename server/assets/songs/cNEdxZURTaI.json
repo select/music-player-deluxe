@@ -2,7 +2,7 @@
   "youtubeId": "cNEdxZURTaI",
   "title": "The Look Of Love, Pt.1",
   "artist": "ABC",
-  "lastFetched": "2025-11-19T08:42:05.269Z",
+  "lastFetched": "2025-11-23T16:44:13.777Z",
   "odesli": {
     "amazonMusic": "B001NZXFF8",
     "amazonStore": "B001NZXFF8",
@@ -21,5 +21,40 @@
   "lastfmId": "ABC/_/The+Look+Of+Love,+Pt.1",
   "listeners": 94588,
   "playcount": 449679,
-  "artistMbid": "87199477-b0df-4ead-84ee-9b54b4abfc3d"
+  "artistMbid": "87199477-b0df-4ead-84ee-9b54b4abfc3d",
+  "musicbrainz": {
+    "tags": [
+      "alternative",
+      "dance",
+      "dance-pop",
+      "new romantic",
+      "new wave",
+      "new wave quirk",
+      "pop",
+      "synth-pop"
+    ],
+    "genres": [
+      "dance",
+      "dance-pop",
+      "new romantic",
+      "new wave",
+      "pop"
+    ],
+    "artistTags": [
+      "1980s",
+      "dance-pop",
+      "new romantic",
+      "new wave",
+      "pop",
+      "sophisti-pop",
+      "synthpop"
+    ],
+    "artistGenres": [
+      "dance-pop",
+      "new romantic",
+      "new wave",
+      "pop",
+      "sophisti-pop"
+    ]
+  }
 }

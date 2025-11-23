@@ -2,7 +2,7 @@
   "youtubeId": "3WGNVeLeO78",
   "title": "Magic's Wand",
   "artist": "Whodini",
-  "lastFetched": "2025-11-19T15:07:55.993Z",
+  "lastFetched": "2025-11-23T16:27:26.124Z",
   "odesli": {
     "amazonMusic": "B01N6WL7Q1",
     "amazonStore": "B01N6WL7Q1",
@@ -17,5 +17,15 @@
   "lastfmId": "Whodini/_/Magic%27s+Wand",
   "listeners": 41247,
   "playcount": 107715,
-  "artistMbid": "1cc9fbfc-6221-409f-ac5a-b9373b1f192f"
+  "artistMbid": "1cc9fbfc-6221-409f-ac5a-b9373b1f192f",
+  "musicbrainz": {
+    "artistTags": [
+      "electro",
+      "hip hop"
+    ],
+    "artistGenres": [
+      "electro",
+      "hip hop"
+    ]
+  }
 }

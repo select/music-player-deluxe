@@ -2,7 +2,7 @@
   "youtubeId": "5AqNAISmXbk",
   "title": "pieces",
   "artist": "Daughtry",
-  "lastFetched": "2025-11-19T17:27:12.160Z",
+  "lastFetched": "2025-11-23T16:28:18.283Z",
   "odesli": {
     "amazonMusic": "B0CX67XL9F",
     "amazonStore": "B0CX67XL9F",
@@ -16,5 +16,22 @@
   "lastfmId": "Daughtry/_/pieces",
   "listeners": 12410,
   "playcount": 68825,
-  "artistMbid": "21e3292e-dac8-4609-b57d-402f926aa41f"
+  "artistMbid": "21e3292e-dac8-4609-b57d-402f926aa41f",
+  "musicbrainz": {
+    "tags": [
+      "alter. rock",
+      "alternative rock"
+    ],
+    "genres": [
+      "alternative rock"
+    ],
+    "artistTags": [
+      "alternative rock",
+      "hard rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "hard rock"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "Q_QTe1BsbuU",
   "title": "Locomotive",
   "artist": "Mop Mop",
-  "lastFetched": "2025-11-19T06:37:20.045Z",
+  "lastFetched": "2025-11-23T16:38:18.634Z",
   "odesli": {
     "amazonMusic": "B00LJSQVKK",
     "amazonStore": "B00LJSQVKK",
@@ -24,5 +24,13 @@
   "lastfmId": "Mop+Mop/_/Locomotive",
   "listeners": 11383,
   "playcount": 35892,
-  "artistMbid": "51a4b538-18cc-42aa-87b2-5865e8224af4"
+  "artistMbid": "51a4b538-18cc-42aa-87b2-5865e8224af4",
+  "musicbrainz": {
+    "artistTags": [
+      "acid jazz"
+    ],
+    "artistGenres": [
+      "acid jazz"
+    ]
+  }
 }

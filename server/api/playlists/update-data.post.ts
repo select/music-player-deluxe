@@ -50,7 +50,6 @@ export default defineEventHandler(async (event) => {
 			"data",
 			"anonymized-metadata.json",
 		);
-		const aiAugmentedPath = join(process.cwd(), "data", "ai-augmented.json");
 		const playlistFilePath = join(playlistsDir, `${playlistId}.json`);
 
 		// Read the playlist file
@@ -58,7 +57,7 @@ export default defineEventHandler(async (event) => {
 		try {
 			const playlistContent = await fs.readFile(playlistFilePath, "utf-8");
 			playlistData = JSON.parse(playlistContent);
-		} catch () {
+		} catch {
 			throw createError({
 				statusCode: 404,
 				statusMessage: `Playlist ${playlistId} not found`,
@@ -102,22 +101,6 @@ export default defineEventHandler(async (event) => {
 			console.warn("Failed to read songs directory:", error);
 		}
 
-		// Read AI-augmented data to create a lookup map
-		const aiAugmentedMap = new Map<string, AIAugmentedData>();
-		try {
-			const aiAugmentedContent = await fs.readFile(aiAugmentedPath, "utf-8");
-			const aiAugmentedArray: AIAugmentedData[] =
-				JSON.parse(aiAugmentedContent);
-
-			for (const aiData of aiAugmentedArray) {
-				// Create lookup key using title and channel for matching
-				const lookupKey = `${aiData.title.toLowerCase()}|${aiData.channel.toLowerCase()}`;
-				aiAugmentedMap.set(lookupKey, aiData);
-			}
-		} catch (error) {
-			console.warn("Failed to read AI-augmented data:", error);
-		}
-
 		// Update videos with music data, YouTube metadata, and AI-augmented data
 		let updatedCount = 0;
 		const updatedVideos: Video[] = playlistData.videos.map((video) => {
@@ -126,7 +109,6 @@ export default defineEventHandler(async (event) => {
 
 			// Try to find AI-augmented data by matching title and channel
 			const aiLookupKey = `${video.title.toLowerCase()}|${video.channel?.toLowerCase() || ""}`;
-			const aiData = aiAugmentedMap.get(aiLookupKey);
 
 			let updatedVideo = { ...video };
 			let hasChanges = false;
@@ -141,18 +123,35 @@ export default defineEventHandler(async (event) => {
 					fusedTags.push(...songData.lastfmTags);
 				}
 
-				// Add genres
-				if (songData.musicbrainz?.genres && songData.musicbrainz?.genres.length > 0) {
+				// Add musicbrainz genres
+				if (
+					songData.musicbrainz?.genres &&
+					songData.musicbrainz?.genres.length > 0
+				) {
 					fusedTags.push(...songData.musicbrainz.genres);
 				}
 
-				// Add recording tags
-				if (songData.musicbrainz?.tags && songData.musicbrainz.tags.length > 0) {
+				// Add musicbrainz artistGenres
+				if (
+					songData.musicbrainz?.artistGenres &&
+					songData.musicbrainz?.artistGenres.length > 0
+				) {
+					fusedTags.push(...songData.musicbrainz.artistGenres);
+				}
+
+				// Add musicbrainz tags
+				if (
+					songData.musicbrainz?.tags &&
+					songData.musicbrainz.tags.length > 0
+				) {
 					fusedTags.push(...songData.musicbrainz.tags);
 				}
 
 				// Add artist tags
-				if (songData.musicbrainz?.artistTags && songData.musicbrainz.artistTags.length > 0) {
+				if (
+					songData.musicbrainz?.artistTags &&
+					songData.musicbrainz.artistTags.length > 0
+				) {
 					fusedTags.push(...songData.musicbrainz.artistTags);
 				}
 
@@ -215,50 +214,6 @@ export default defineEventHandler(async (event) => {
 					}
 					updatedVideo.externalIds["lastfm"] = songData.lastfmId;
 				}
-			}
-
-			// Update with AI-augmented data if available and no MusicBrainz data exists
-			if (aiData?.ai && !songData) {
-				// Fuse AI tags with existing tags
-				const fusedTags: string[] = [];
-
-				// Add existing tags
-				if (video.tags && video.tags.length > 0) {
-					fusedTags.push(...video.tags);
-				}
-
-				// Add AI tags only if no other tags exist
-				if (
-					aiData.ai.tags &&
-					aiData.ai.tags.length > 0 &&
-					fusedTags.length === 0
-				) {
-					fusedTags.push(...aiData.ai.tags);
-				}
-
-				// Remove duplicates while preserving order
-				const uniqueTags = Array.from(new Set(fusedTags));
-
-				// Only update artist and musicTitle if they don't already exist
-				const newArtist = video.artist || aiData.ai.artist;
-				const newMusicTitle = video.musicTitle || aiData.ai.track;
-
-				// Check for AI data changes
-				const hasAiChanges =
-					video.artist !== newArtist ||
-					video.musicTitle !== newMusicTitle ||
-					JSON.stringify(video.tags || []) !== JSON.stringify(uniqueTags);
-
-				if (hasAiChanges) {
-					hasChanges = true;
-				}
-
-				updatedVideo = {
-					...updatedVideo,
-					artist: newArtist,
-					musicTitle: newMusicTitle,
-					tags: uniqueTags.length > 0 ? uniqueTags : undefined,
-				};
 			}
 
 			// Update with YouTube metadata if available

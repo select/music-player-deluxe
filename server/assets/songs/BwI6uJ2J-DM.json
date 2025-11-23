@@ -2,7 +2,7 @@
   "youtubeId": "BwI6uJ2J-DM",
   "title": "The Big Apple",
   "artist": "Hugh Masekela",
-  "lastFetched": "2025-11-19T17:28:44.387Z",
+  "lastFetched": "2025-11-23T16:31:23.218Z",
   "odesli": {
     "amazonMusic": "B001CVIZH6",
     "amazonStore": "B001CVIZH6",
@@ -16,5 +16,20 @@
   "lastfmId": "Hugh+Masekela/_/The+Big+Apple",
   "listeners": 5896,
   "playcount": 12075,
-  "artistMbid": "83a2e0fb-3d9b-46ff-b383-3dde54c15297"
+  "artistMbid": "83a2e0fb-3d9b-46ff-b383-3dde54c15297",
+  "musicbrainz": {
+    "artistTags": [
+      "2008 universal fire victim",
+      "afrobeat",
+      "classic pop and rock",
+      "jazz",
+      "soul jazz",
+      "south african"
+    ],
+    "artistGenres": [
+      "afrobeat",
+      "jazz",
+      "soul jazz"
+    ]
+  }
 }

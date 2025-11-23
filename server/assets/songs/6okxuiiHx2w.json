@@ -2,7 +2,7 @@
   "youtubeId": "6okxuiiHx2w",
   "title": "Baby I'm Yours",
   "artist": "Breakbot",
-  "lastFetched": "2025-11-19T12:35:11.206Z",
+  "lastFetched": "2025-11-23T16:29:02.975Z",
   "odesli": {
     "amazonMusic": "B0037B8GJ6",
     "amazonStore": "B0037B8GJ6",
@@ -18,5 +18,25 @@
   "lastfmId": "Breakbot/_/Baby+I%27m+Yours",
   "listeners": 429062,
   "playcount": 2939772,
-  "artistMbid": "64c9974f-20a9-491d-bd94-2168cd738e2a"
+  "artistMbid": "64c9974f-20a9-491d-bd94-2168cd738e2a",
+  "musicbrainz": {
+    "artistTags": [
+      "contemporary r&b",
+      "dance-pop",
+      "electro",
+      "electronic",
+      "french house",
+      "funktronica",
+      "house",
+      "nu disco",
+      "synth funk"
+    ],
+    "artistGenres": [
+      "contemporary r&b",
+      "dance-pop",
+      "electro",
+      "electronic",
+      "french house"
+    ]
+  }
 }

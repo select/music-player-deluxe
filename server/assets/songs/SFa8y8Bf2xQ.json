@@ -2,7 +2,7 @@
   "youtubeId": "SFa8y8Bf2xQ",
   "title": "No Use",
   "artist": "Jazzanova",
-  "lastFetched": "2025-11-19T12:28:02.259Z",
+  "lastFetched": "2025-11-23T16:39:20.006Z",
   "odesli": {
     "amazonMusic": "B00XM46ZA0",
     "amazonStore": "B00XM46ZA0",
@@ -16,5 +16,22 @@
   "lastfmId": "Jazzanova/_/No+Use",
   "listeners": 71433,
   "playcount": 272594,
-  "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d"
+  "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d",
+  "musicbrainz": {
+    "artistTags": [
+      "acid jazz",
+      "chillout",
+      "dance and electronica",
+      "downtempo",
+      "jazz",
+      "nu jazz"
+    ],
+    "artistGenres": [
+      "acid jazz",
+      "chillout",
+      "downtempo",
+      "jazz",
+      "nu jazz"
+    ]
+  }
 }

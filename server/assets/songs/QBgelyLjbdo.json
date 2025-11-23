@@ -2,7 +2,7 @@
   "youtubeId": "QBgelyLjbdo",
   "title": "Tripping Out",
   "artist": "Curtis Mayfield",
-  "lastFetched": "2025-11-19T16:37:08.297Z",
+  "lastFetched": "2025-11-23T16:38:06.157Z",
   "odesli": {
     "amazonMusic": "B00122Q7EI",
     "amazonStore": "B00122Q7EI",
@@ -24,5 +24,26 @@
   "lastfmId": "Curtis+Mayfield/_/Tripping+Out",
   "listeners": 49516,
   "playcount": 180822,
-  "artistMbid": "4dca4bb2-23ba-4103-97e6-5810311db33a"
+  "artistMbid": "4dca4bb2-23ba-4103-97e6-5810311db33a",
+  "musicbrainz": {
+    "artistTags": [
+      "american",
+      "chicago soul",
+      "crooners",
+      "funk",
+      "psychedelic soul",
+      "r&b",
+      "rnb",
+      "singer-songwriter",
+      "smooth soul",
+      "soul"
+    ],
+    "artistGenres": [
+      "chicago soul",
+      "funk",
+      "psychedelic soul",
+      "r&b",
+      "singer-songwriter"
+    ]
+  }
 }

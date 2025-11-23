@@ -2,7 +2,7 @@
   "youtubeId": "l4uzAADWe00",
   "title": "In Every Dream Home a Heartache",
   "artist": "Roxy Music",
-  "lastFetched": "2025-11-19T15:15:03.981Z",
+  "lastFetched": "2025-11-23T16:47:59.784Z",
   "odesli": {
     "amazonMusic": "B000SX9W5S",
     "amazonStore": "B000SX9W5S",
@@ -26,5 +26,26 @@
   "listeners": 126908,
   "playcount": 609332,
   "artistMbid": "331ce348-1b08-40b9-8ed7-0763b92bd003",
-  "lastfmSummary": "\"In Every Dream Home a Heartache\" is a song written by Bryan Ferry, originally appearing on his band Roxy Music's second album.\n\nLyrically, the song is a sinister monologue, part critique of the emptiness of opulence, partly a love song to an inflatable doll. Musically this is complemented by a cycling four-bar chord progression, led by a 'cinema organ' style Farfisa part. After the lyrical conclusion \"I blew up your body/but you blew my mind!\", the song climaxes with an extended instrumental section <a href=\"http://www.last.fm/music/Roxy+Music/_/In+Every+Dream+Home+a+Heartache\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"In Every Dream Home a Heartache\" is a song written by Bryan Ferry, originally appearing on his band Roxy Music's second album.\n\nLyrically, the song is a sinister monologue, part critique of the emptiness of opulence, partly a love song to an inflatable doll. Musically this is complemented by a cycling four-bar chord progression, led by a 'cinema organ' style Farfisa part. After the lyrical conclusion \"I blew up your body/but you blew my mind!\", the song climaxes with an extended instrumental section <a href=\"http://www.last.fm/music/Roxy+Music/_/In+Every+Dream+Home+a+Heartache\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "art pop",
+      "art rock",
+      "glam rock",
+      "melancholia",
+      "new romantic",
+      "new wave",
+      "new wave pop",
+      "pop rock",
+      "progressive rock",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "art pop",
+      "art rock",
+      "glam rock",
+      "new romantic",
+      "new wave"
+    ]
+  }
 }

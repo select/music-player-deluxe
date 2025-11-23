@@ -2,7 +2,7 @@
   "youtubeId": "QpDq4RfeYsw",
   "title": "You Made Me Want to Live",
   "artist": "Black Label Society",
-  "lastFetched": "2025-11-19T13:03:12.861Z",
+  "lastFetched": "2025-11-23T16:38:28.695Z",
   "odesli": {
     "amazonMusic": "B09B39N335",
     "amazonStore": "B09B39N335",
@@ -19,5 +19,24 @@
   "lastfmId": "Black+Label+Society/_/You+Made+Me+Want+to+Live",
   "listeners": 16056,
   "playcount": 60481,
-  "artistMbid": "a8e935c6-3fcc-414c-900c-77e8170e7e7c"
+  "artistMbid": "a8e935c6-3fcc-414c-900c-77e8170e7e7c",
+  "musicbrainz": {
+    "artistTags": [
+      "acoustic rock",
+      "groove metal",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "rock",
+      "southern metal",
+      "southern rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "groove metal",
+      "hard rock",
+      "heavy metal",
+      "metal"
+    ]
+  }
 }

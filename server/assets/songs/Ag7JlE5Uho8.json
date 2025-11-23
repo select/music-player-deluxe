@@ -2,10 +2,27 @@
   "youtubeId": "Ag7JlE5Uho8",
   "title": "Sensual",
   "artist": "Goldie",
-  "lastFetched": "2025-11-19T10:53:06.807Z",
+  "lastFetched": "2025-11-23T16:30:46.718Z",
   "mbid": "07e29c93-ac6c-4cac-9f64-18a87a97e9e5",
   "lastfmId": "Goldie/_/Sensual",
   "listeners": 12107,
   "playcount": 35227,
-  "artistMbid": "c5393047-0c44-48eb-b5a8-070759f04371"
+  "artistMbid": "c5393047-0c44-48eb-b5a8-070759f04371",
+  "musicbrainz": {
+    "artistTags": [
+      "british",
+      "downtempo",
+      "drum and bass",
+      "electronic",
+      "electronica",
+      "english",
+      "uk"
+    ],
+    "artistGenres": [
+      "downtempo",
+      "drum and bass",
+      "electronic",
+      "electronica"
+    ]
+  }
 }

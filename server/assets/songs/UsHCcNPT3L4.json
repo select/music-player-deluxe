@@ -2,7 +2,7 @@
   "youtubeId": "UsHCcNPT3L4",
   "title": "Peloton Don (Instrumental)",
   "artist": "RJD2",
-  "lastFetched": "2025-11-19T11:30:22.819Z",
+  "lastFetched": "2025-11-23T16:40:37.541Z",
   "odesli": {
     "amazonMusic": "B0BV91YQWQ",
     "amazonStore": "B0BV91YQWQ",
@@ -21,5 +21,25 @@
   "lastfmId": "RJD2/_/Peloton+Don+(Instrumental)",
   "listeners": 35,
   "playcount": 52,
-  "artistMbid": "1a120ec5-35b3-4f3e-aa49-7201550d9feb"
+  "artistMbid": "1a120ec5-35b3-4f3e-aa49-7201550d9feb",
+  "musicbrainz": {
+    "artistTags": [
+      "acid jazz",
+      "american",
+      "electronic",
+      "hip hop",
+      "indietronica",
+      "instrumental hip hop",
+      "leftfield",
+      "pop",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "acid jazz",
+      "electronic",
+      "hip hop",
+      "indietronica",
+      "instrumental hip hop"
+    ]
+  }
 }

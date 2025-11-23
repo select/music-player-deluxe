@@ -2,7 +2,7 @@
   "youtubeId": "_eiaceJG4us",
   "title": "Ain't That Asking For Trouble",
   "artist": "Stevie Wonder",
-  "lastFetched": "2025-11-19T17:15:01.814Z",
+  "lastFetched": "2025-11-23T16:42:52.377Z",
   "odesli": {
     "amazonMusic": "B07QQFLSDR",
     "amazonStore": "B07QQFLSDR",
@@ -24,5 +24,24 @@
   "lastfmId": "Stevie+Wonder/_/Ain%27t+That+Asking+For+Trouble",
   "listeners": 7559,
   "playcount": 16150,
-  "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e"
+  "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+  "musicbrainz": {
+    "artistTags": [
+      "contemporary r&b",
+      "film soundtrack",
+      "funk",
+      "grammy winner",
+      "pop",
+      "pop soul",
+      "rhythm & blues",
+      "soul"
+    ],
+    "artistGenres": [
+      "contemporary r&b",
+      "funk",
+      "pop",
+      "pop soul",
+      "soul"
+    ]
+  }
 }

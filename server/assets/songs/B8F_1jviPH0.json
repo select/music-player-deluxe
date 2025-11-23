@@ -2,7 +2,7 @@
   "youtubeId": "B8F_1jviPH0",
   "title": "Look Away",
   "artist": "Ivy Lab",
-  "lastFetched": "2025-11-19T16:18:42.154Z",
+  "lastFetched": "2025-11-23T16:31:03.670Z",
   "odesli": {
     "amazonMusic": "B0CRHN54WG",
     "amazonStore": "B0CRHN54WG",
@@ -23,5 +23,26 @@
   "lastfmId": "Ivy+Lab/_/Look+Away",
   "listeners": 2035,
   "playcount": 6982,
-  "artistMbid": "05a8fca6-3178-4f95-ad82-d325bc6102fe"
+  "artistMbid": "05a8fca6-3178-4f95-ad82-d325bc6102fe",
+  "musicbrainz": {
+    "artistTags": [
+      "downtempo",
+      "drum and bass",
+      "electronic",
+      "future bass",
+      "halftime",
+      "hip hop",
+      "instrumental hip hop",
+      "leftfield bass",
+      "trap",
+      "wonky"
+    ],
+    "artistGenres": [
+      "downtempo",
+      "drum and bass",
+      "electronic",
+      "future bass",
+      "halftime"
+    ]
+  }
 }

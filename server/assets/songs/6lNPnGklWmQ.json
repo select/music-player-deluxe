@@ -2,7 +2,7 @@
   "youtubeId": "6lNPnGklWmQ",
   "title": "Derhan",
   "artist": "Imarhan",
-  "lastFetched": "2025-11-19T17:05:18.419Z",
+  "lastFetched": "2025-11-23T16:29:01.580Z",
   "odesli": {
     "amazonMusic": "B0CQ4QGCG8",
     "amazonStore": "B0CQ4QGCG8",
@@ -20,5 +20,21 @@
   "lastfmId": "Imarhan/_/Derhan",
   "listeners": 3631,
   "playcount": 10365,
-  "artistMbid": "edf62daa-1425-44bb-8fe3-07499b519472"
+  "artistMbid": "edf62daa-1425-44bb-8fe3-07499b519472",
+  "musicbrainz": {
+    "artistTags": [
+      "algeria",
+      "alternative",
+      "desert blues",
+      "tamashek",
+      "tishoumaren",
+      "tuareg",
+      "tuareg guitar",
+      "tuareg rock",
+      "world"
+    ],
+    "artistGenres": [
+      "desert blues"
+    ]
+  }
 }

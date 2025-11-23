@@ -6,7 +6,7 @@
   "releaseCount": 2,
   "duration": 296,
   "youtubeId": "FXb8HlUEonA",
-  "lastFetched": "2025-11-19T05:05:43.177Z",
+  "lastFetched": "2025-11-23T16:33:34.723Z",
   "odesli": {
     "amazonMusic": "B0C2ZC9KX8",
     "amazonStore": "B0C2ZC9KX8",
@@ -16,5 +16,17 @@
   },
   "lastfmId": "Keeno/_/Enigma",
   "listeners": 9510,
-  "playcount": 44820
+  "playcount": 44820,
+  "musicbrainz": {
+    "artistTags": [
+      "drum and bass",
+      "electronic",
+      "liquid funk"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "electronic",
+      "liquid funk"
+    ]
+  }
 }

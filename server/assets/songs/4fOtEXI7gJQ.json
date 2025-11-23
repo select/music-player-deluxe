@@ -6,7 +6,7 @@
   "releaseCount": 3,
   "duration": 219,
   "youtubeId": "4fOtEXI7gJQ",
-  "lastFetched": "2025-11-19T04:23:30.423Z",
+  "lastFetched": "2025-11-23T16:27:59.205Z",
   "odesli": {
     "amazonMusic": "B0FJMTCPKP",
     "amazonStore": "B0FJMTCPKP",
@@ -19,5 +19,13 @@
   },
   "lastfmId": "HO99O9/_/Incline+(feat.+Nova+Twins,+Pink+Siifu+&+Yung+Skrrt)",
   "listeners": 3717,
-  "playcount": 9776
+  "playcount": 9776,
+  "musicbrainz": {
+    "artistTags": [
+      "punk rap"
+    ],
+    "artistGenres": [
+      "punk rap"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "rEuMAqfuCrI",
   "title": "Opus Brain",
   "artist": "Igorrr",
-  "lastFetched": "2025-11-19T06:02:08.439Z",
+  "lastFetched": "2025-11-23T16:51:02.251Z",
   "odesli": {
     "amazonMusic": "B06XXJK5M8",
     "amazonStore": "B06XXJK5M8",
@@ -23,5 +23,25 @@
   "lastfmId": "Igorrr/_/Opus+Brain",
   "listeners": 31470,
   "playcount": 181283,
-  "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73"
+  "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73",
+  "musicbrainz": {
+    "artistTags": [
+      "avant-garde",
+      "avant-garde metal",
+      "baroque",
+      "breakcore",
+      "death metal",
+      "electronic",
+      "electronic grind",
+      "experimental",
+      "idm"
+    ],
+    "artistGenres": [
+      "avant-garde",
+      "avant-garde metal",
+      "baroque",
+      "breakcore",
+      "death metal"
+    ]
+  }
 }

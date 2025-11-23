@@ -2,7 +2,7 @@
   "youtubeId": "cJtL8vWNZ4o",
   "title": "Movin' Out",
   "artist": "Billy Joel",
-  "lastFetched": "2025-11-19T07:17:01.715Z",
+  "lastFetched": "2025-11-23T16:44:11.349Z",
   "odesli": {
     "boomplay": "8750173",
     "soundcloud": "257053845",
@@ -14,5 +14,24 @@
   "lastfmId": "Billy+Joel/_/Movin%27+Out",
   "listeners": 8545,
   "playcount": 47072,
-  "artistMbid": "64b94289-9474-4d43-8c93-918ccc1920d1"
+  "artistMbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
+  "musicbrainz": {
+    "artistTags": [
+      "american",
+      "classic rock",
+      "piano rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "singer-songwriter",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "piano rock",
+      "pop",
+      "pop rock",
+      "rock"
+    ]
+  }
 }

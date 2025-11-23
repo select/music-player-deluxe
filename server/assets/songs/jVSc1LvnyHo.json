@@ -2,7 +2,7 @@
   "youtubeId": "jVSc1LvnyHo",
   "title": "DEMONS",
   "artist": "Kai Wachi",
-  "lastFetched": "2025-11-19T10:11:55.037Z",
+  "lastFetched": "2025-11-23T16:47:09.368Z",
   "odesli": {
     "amazonMusic": "B01M74QDPW",
     "amazonStore": "B01M74QDPW",
@@ -16,5 +16,16 @@
   "lastfmId": "Kai+Wachi/_/DEMONS",
   "listeners": 5404,
   "playcount": 23747,
-  "artistMbid": "5cfd01c7-f308-4aa6-a489-36a43aeee525"
+  "artistMbid": "5cfd01c7-f308-4aa6-a489-36a43aeee525",
+  "musicbrainz": {
+    "artistTags": [
+      "dubstep",
+      "electronic",
+      "skull on cover"
+    ],
+    "artistGenres": [
+      "dubstep",
+      "electronic"
+    ]
+  }
 }

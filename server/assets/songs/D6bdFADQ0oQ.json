@@ -2,7 +2,7 @@
   "youtubeId": "D6bdFADQ0oQ",
   "title": "let u in",
   "artist": "DEBBY FRIDAY",
-  "lastFetched": "2025-11-19T13:34:21.675Z",
+  "lastFetched": "2025-11-23T16:32:05.611Z",
   "odesli": {
     "amazonMusic": "B0CGMQKT8F",
     "amazonStore": "B0CGMQKT8F",
@@ -19,5 +19,19 @@
   "lastfmId": "DEBBY+FRIDAY/_/let+u+in",
   "listeners": 6447,
   "playcount": 16385,
-  "artistMbid": "da8b6c67-710c-4480-bf2a-ca2849b42094"
+  "artistMbid": "da8b6c67-710c-4480-bf2a-ca2849b42094",
+  "musicbrainz": {
+    "tags": [
+      "alternative"
+    ],
+    "artistTags": [
+      "electro-industrial",
+      "industrial hip hop",
+      "synth punk"
+    ],
+    "artistGenres": [
+      "electro-industrial",
+      "industrial hip hop"
+    ]
+  }
 }

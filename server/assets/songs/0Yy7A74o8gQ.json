@@ -2,7 +2,7 @@
   "youtubeId": "0Yy7A74o8gQ",
   "title": "The Magic Number",
   "artist": "De La Soul",
-  "lastFetched": "2025-11-19T17:15:32.185Z",
+  "lastFetched": "2025-11-23T16:26:12.182Z",
   "odesli": {
     "amazonMusic": "B0BNP9S1RF",
     "amazonStore": "B0BNP9S1RF",
@@ -21,5 +21,25 @@
   "listeners": 314147,
   "playcount": 1320543,
   "artistMbid": "a8ebde98-7e91-46c7-992c-90039ba42017",
-  "lastfmSummary": "\"The Magic Number\" is the second track from De La Soul's debut album \"3 Feet High and Rising\". The track heavily samples \"Three is a Magic Number\" by Bob Dorough, from the animated series \"Schoolhouse Rock!\"\n\n\"The Magic Number\" was featured in the credits of the 2021 film \"Spider-Man: No Way Home\".\n\nTrugoy the Dove of De La Soul recalled to Rolling Stone : \"There was no plan back then. It was just putting songs together and placing them where they belonged. <a href=\"http://www.last.fm/music/De+La+Soul/_/The+Magic+Number\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"The Magic Number\" is the second track from De La Soul's debut album \"3 Feet High and Rising\". The track heavily samples \"Three is a Magic Number\" by Bob Dorough, from the animated series \"Schoolhouse Rock!\"\n\n\"The Magic Number\" was featured in the credits of the 2021 film \"Spider-Man: No Way Home\".\n\nTrugoy the Dove of De La Soul recalled to Rolling Stone : \"There was no plan back then. It was just putting songs together and placing them where they belonged. <a href=\"http://www.last.fm/music/De+La+Soul/_/The+Magic+Number\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative hip hop",
+      "boom bap",
+      "conscious hip hop",
+      "east coast hip hop",
+      "golden age hip hop",
+      "hip hop",
+      "jazz rap",
+      "pop rap",
+      "progressive rap"
+    ],
+    "artistGenres": [
+      "alternative hip hop",
+      "boom bap",
+      "conscious hip hop",
+      "east coast hip hop",
+      "hip hop"
+    ]
+  }
 }

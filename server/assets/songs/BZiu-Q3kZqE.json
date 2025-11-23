@@ -2,10 +2,18 @@
   "youtubeId": "BZiu-Q3kZqE",
   "title": "Signs",
   "artist": "Howling",
-  "lastFetched": "2025-11-19T06:44:56.054Z",
+  "lastFetched": "2025-11-23T16:31:16.296Z",
   "mbid": "9a2d596b-f051-40d5-8b8d-4fc557a984e2",
   "lastfmId": "Howling/_/Signs",
   "listeners": 19729,
   "playcount": 70048,
-  "artistMbid": "77a678b8-b848-4c08-bbff-f838aea3ad1f"
+  "artistMbid": "77a678b8-b848-4c08-bbff-f838aea3ad1f",
+  "musicbrainz": {
+    "artistTags": [
+      "electronic"
+    ],
+    "artistGenres": [
+      "electronic"
+    ]
+  }
 }

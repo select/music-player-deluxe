@@ -2,7 +2,7 @@
   "youtubeId": "LIejWJ1rsgU",
   "title": "Emotion Sickness",
   "artist": "Queens of the Stone Age",
-  "lastFetched": "2025-11-19T12:13:13.458Z",
+  "lastFetched": "2025-11-23T16:36:01.833Z",
   "odesli": {
     "amazonMusic": "B0BY8QCB3P",
     "amazonStore": "B0BY8QCB3P",
@@ -22,5 +22,32 @@
   "lastfmId": "Queens+of+the+Stone+Age/_/Emotion+Sickness",
   "listeners": 117545,
   "playcount": 814140,
-  "artistMbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+  "artistMbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+  "musicbrainz": {
+    "tags": [
+      "alternative rock",
+      "glam rock",
+      "stoner rock"
+    ],
+    "genres": [
+      "alternative rock",
+      "glam rock",
+      "stoner rock"
+    ],
+    "artistTags": [
+      "alternative rock",
+      "desert rock",
+      "hard rock",
+      "palm desert scene",
+      "rock",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "desert rock",
+      "hard rock",
+      "rock",
+      "stoner rock"
+    ]
+  }
 }

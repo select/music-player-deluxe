@@ -2,7 +2,7 @@
   "youtubeId": "Gd5g7X9KPB4",
   "title": "The Man Who Told Everything",
   "artist": "Doves",
-  "lastFetched": "2025-11-19T06:26:39.135Z",
+  "lastFetched": "2025-11-23T16:33:59.790Z",
   "odesli": {
     "amazonMusic": "B000TDWM6S",
     "amazonStore": "B000TDWM6S",
@@ -16,5 +16,25 @@
   "lastfmId": "Doves/_/The+Man+Who+Told+Everything",
   "listeners": 99463,
   "playcount": 449157,
-  "artistMbid": "9de8f66e-3cd1-4f11-8328-38200f0612b0"
+  "artistMbid": "9de8f66e-3cd1-4f11-8328-38200f0612b0",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative dance",
+      "alternative rock",
+      "britpop",
+      "dream pop",
+      "experimental rock",
+      "indie rock",
+      "pop rock",
+      "post-britpop",
+      "space rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "alternative rock",
+      "britpop",
+      "dream pop",
+      "experimental rock"
+    ]
+  }
 }

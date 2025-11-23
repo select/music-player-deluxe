@@ -2,7 +2,7 @@
   "youtubeId": "JEv6HO2Dfw4",
   "title": "The Opposite Of Me",
   "artist": "Weezer",
-  "lastFetched": "2025-11-19T09:07:34.730Z",
+  "lastFetched": "2025-11-23T16:35:13.959Z",
   "odesli": {
     "amazonMusic": "B0B3HDK3QZ",
     "amazonStore": "B0B3HDK3QZ",
@@ -20,5 +20,32 @@
   "lastfmId": "Weezer/_/The+Opposite+Of+Me",
   "listeners": 21061,
   "playcount": 109263,
-  "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04"
+  "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+  "musicbrainz": {
+    "tags": [
+      "alternative rock",
+      "power pop"
+    ],
+    "genres": [
+      "alternative rock",
+      "power pop"
+    ],
+    "artistTags": [
+      "alternative pop",
+      "alternative rock",
+      "emo",
+      "geek rock",
+      "mainstream rock",
+      "pop rock",
+      "power pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "alternative rock",
+      "emo",
+      "geek rock",
+      "mainstream rock"
+    ]
+  }
 }

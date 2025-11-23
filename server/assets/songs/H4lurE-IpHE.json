@@ -2,7 +2,7 @@
   "youtubeId": "H4lurE-IpHE",
   "title": "1921",
   "artist": "The Who",
-  "lastFetched": "2025-11-19T11:01:19.332Z",
+  "lastFetched": "2025-11-23T16:34:23.123Z",
   "odesli": {
     "amazonMusic": "B07R8DG52J",
     "amazonStore": "B07R8DG52J",
@@ -25,5 +25,26 @@
   "lastfmId": "The+Who/_/1921",
   "listeners": 158591,
   "playcount": 603531,
-  "artistMbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa"
+  "artistMbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+  "musicbrainz": {
+    "artistTags": [
+      "art rock",
+      "british",
+      "british invasion",
+      "classic rock",
+      "freakbeat",
+      "hard rock",
+      "mod",
+      "pop rock",
+      "rock",
+      "rock groups"
+    ],
+    "artistGenres": [
+      "art rock",
+      "classic rock",
+      "freakbeat",
+      "hard rock",
+      "mod"
+    ]
+  }
 }

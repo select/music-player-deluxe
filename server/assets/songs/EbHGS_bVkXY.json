@@ -2,7 +2,7 @@
   "youtubeId": "EbHGS_bVkXY",
   "title": "Zeit",
   "artist": "Rammstein",
-  "lastFetched": "2025-11-19T06:43:24.508Z",
+  "lastFetched": "2025-11-23T16:33:01.824Z",
   "odesli": {
     "amazonMusic": "B09TL7CB24",
     "amazonStore": "B09TL7CB24",
@@ -20,5 +20,30 @@
   "lastfmId": "Rammstein/_/Zeit",
   "listeners": 145443,
   "playcount": 1392182,
-  "artistMbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66"
+  "artistMbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+  "musicbrainz": {
+    "tags": [
+      "industrial",
+      "industrial metal"
+    ],
+    "genres": [
+      "industrial",
+      "industrial metal"
+    ],
+    "artistTags": [
+      "german",
+      "industrial",
+      "industrial metal",
+      "metal",
+      "neue deutsche härte",
+      "rock"
+    ],
+    "artistGenres": [
+      "industrial",
+      "industrial metal",
+      "metal",
+      "neue deutsche härte",
+      "rock"
+    ]
+  }
 }

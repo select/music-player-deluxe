@@ -2,7 +2,7 @@
   "youtubeId": "TdwBRn2NKWM",
   "title": "Deeper Underground",
   "artist": "Jamiroquai",
-  "lastFetched": "2025-11-19T07:24:08.716Z",
+  "lastFetched": "2025-11-23T16:39:58.490Z",
   "odesli": {
     "amazonMusic": "B001386W46",
     "amazonStore": "B001386W46",
@@ -15,5 +15,25 @@
   "lastfmId": "Jamiroquai/_/Deeper+Underground",
   "listeners": 292104,
   "playcount": 1520963,
-  "artistMbid": "f4857fb9-e255-4dc6-bd01-e4ca7cc68544"
+  "artistMbid": "f4857fb9-e255-4dc6-bd01-e4ca7cc68544",
+  "musicbrainz": {
+    "artistTags": [
+      "acid jazz",
+      "british",
+      "disco",
+      "funk",
+      "house",
+      "nuno",
+      "r&b",
+      "rhythm and blues music",
+      "rock music"
+    ],
+    "artistGenres": [
+      "acid jazz",
+      "disco",
+      "funk",
+      "house",
+      "r&b"
+    ]
+  }
 }

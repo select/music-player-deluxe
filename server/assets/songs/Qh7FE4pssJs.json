@@ -2,7 +2,7 @@
   "youtubeId": "Qh7FE4pssJs",
   "title": "Regenlied",
   "artist": "Angelika Mann",
-  "lastFetched": "2025-11-19T14:31:37.280Z",
+  "lastFetched": "2025-11-23T16:38:23.074Z",
   "odesli": {
     "amazonMusic": "B0CDZWDMBM",
     "amazonStore": "B0CDZWDMBM",
@@ -16,5 +16,10 @@
   "lastfmId": "Angelika+Mann/_/Regenlied",
   "listeners": 1768,
   "playcount": 7913,
-  "artistMbid": "212e0fa5-05d5-4c49-be7a-c8177025f920"
+  "artistMbid": "212e0fa5-05d5-4c49-be7a-c8177025f920",
+  "musicbrainz": {
+    "artistTags": [
+      "ostschlager"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "OMKXIm3qTwo",
   "title": "Ocean to Ocean",
   "artist": "Tori Amos",
-  "lastFetched": "2025-11-19T06:08:47.304Z",
+  "lastFetched": "2025-11-23T16:37:16.474Z",
   "odesli": {
     "amazonMusic": "B09GK773KK",
     "amazonStore": "B09GK773KK",
@@ -25,5 +25,26 @@
   "lastfmId": "Tori+Amos/_/Ocean+to+Ocean",
   "listeners": 10513,
   "playcount": 49089,
-  "artistMbid": "c0b2500e-0cef-4130-869d-732b23ed9df5"
+  "artistMbid": "c0b2500e-0cef-4130-869d-732b23ed9df5",
+  "musicbrainz": {
+    "artistTags": [
+      "adult alternative pop/rock",
+      "alternative pop",
+      "alternative rock",
+      "alternative/indie rock",
+      "american",
+      "art pop",
+      "art rock",
+      "baroque pop",
+      "chamber pop",
+      "contemporary singer/songwriter"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "alternative rock",
+      "art pop",
+      "art rock",
+      "baroque pop"
+    ]
+  }
 }

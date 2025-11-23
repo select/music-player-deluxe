@@ -2,7 +2,7 @@
   "youtubeId": "csILUDfmtqM",
   "title": "Hold Me Up (Thank You)",
   "artist": "Khruangbin",
-  "lastFetched": "2025-11-19T17:06:19.359Z",
+  "lastFetched": "2025-11-23T16:44:28.192Z",
   "odesli": {
     "amazonMusic": "B0CQ3HPHKV",
     "amazonStore": "B0CQ3HPHKV",
@@ -16,5 +16,32 @@
   "lastfmId": "Khruangbin/_/Hold+Me+Up+(Thank+You)",
   "listeners": 96961,
   "playcount": 384278,
-  "artistMbid": "aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634"
+  "artistMbid": "aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634",
+  "musicbrainz": {
+    "tags": [
+      "neo-psychedelia"
+    ],
+    "genres": [
+      "neo-psychedelia"
+    ],
+    "artistTags": [
+      "alternative rock",
+      "blues",
+      "dub",
+      "exotic",
+      "funk",
+      "indie",
+      "indie rock",
+      "instrumental",
+      "neo-psychedelia",
+      "psych"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "blues",
+      "dub",
+      "funk",
+      "indie rock"
+    ]
+  }
 }

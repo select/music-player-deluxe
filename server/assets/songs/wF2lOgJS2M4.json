@@ -2,7 +2,7 @@
   "youtubeId": "wF2lOgJS2M4",
   "title": "Red House",
   "artist": "Jimi Hendrix",
-  "lastFetched": "2025-11-19T14:06:02.218Z",
+  "lastFetched": "2025-11-23T16:53:16.347Z",
   "odesli": {
     "amazonMusic": "B003BG2KDU",
     "amazonStore": "B003BG2KDU",
@@ -18,5 +18,26 @@
   "listeners": 776935,
   "playcount": 3449979,
   "artistMbid": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
-  "lastfmSummary": "This blues song is written and performed by Jimi Hendrix. The first recorded version appeared on the album are you experienced?. After that, many live versions have been recorded and released. <a href=\"http://www.last.fm/music/Jimi+Hendrix/_/Red+House\">Read more on Last.fm</a>."
+  "lastfmSummary": "This blues song is written and performed by Jimi Hendrix. The first recorded version appeared on the album are you experienced?. After that, many live versions have been recorded and released. <a href=\"http://www.last.fm/music/Jimi+Hendrix/_/Red+House\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "27 club",
+      "60's",
+      "acid rock",
+      "american",
+      "blues rock",
+      "classic rock",
+      "hard rock",
+      "jam band",
+      "psychedelic rock",
+      "psychedelic soul"
+    ],
+    "artistGenres": [
+      "acid rock",
+      "blues rock",
+      "classic rock",
+      "hard rock",
+      "jam band"
+    ]
+  }
 }

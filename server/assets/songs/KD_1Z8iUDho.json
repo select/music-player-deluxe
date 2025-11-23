@@ -2,7 +2,7 @@
   "youtubeId": "KD_1Z8iUDho",
   "title": "Don't Cry for Me Argentina",
   "artist": "Madonna",
-  "lastFetched": "2025-11-19T10:36:19.927Z",
+  "lastFetched": "2025-11-23T16:35:41.958Z",
   "odesli": {
     "amazonMusic": "B09SVWZ8Q8",
     "amazonStore": "B09SVWZ8Q8",
@@ -24,5 +24,26 @@
   "lastfmId": "Madonna/_/Don%27t+Cry+for+Me+Argentina",
   "listeners": 117032,
   "playcount": 574335,
-  "artistMbid": "79239441-bfd5-4981-a70c-55c3f15c1287"
+  "artistMbid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+  "musicbrainz": {
+    "artistTags": [
+      "adult contemporary",
+      "adult contemporary music",
+      "art pop",
+      "bubblegum pop",
+      "club",
+      "contemporary pop/rock",
+      "contemporary r&b",
+      "country pop",
+      "dance music",
+      "dance-pop"
+    ],
+    "artistGenres": [
+      "art pop",
+      "bubblegum pop",
+      "club",
+      "contemporary r&b",
+      "country pop"
+    ]
+  }
 }

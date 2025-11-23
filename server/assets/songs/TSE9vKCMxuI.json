@@ -2,7 +2,7 @@
   "youtubeId": "TSE9vKCMxuI",
   "title": "Fillip",
   "artist": "Muse",
-  "lastFetched": "2025-11-19T16:29:26.768Z",
+  "lastFetched": "2025-11-23T16:39:49.278Z",
   "odesli": {
     "amazonMusic": "B002BG8R5Q",
     "amazonStore": "B002BG8R5Q",
@@ -15,5 +15,26 @@
   "lastfmId": "Muse/_/Fillip",
   "listeners": 418387,
   "playcount": 2592891,
-  "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090"
+  "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative dance",
+      "alternative metal",
+      "alternative rock",
+      "art rock",
+      "british",
+      "neo-progressive rock",
+      "pop rock",
+      "post-grunge",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "alternative metal",
+      "alternative rock",
+      "art rock",
+      "neo-progressive rock"
+    ]
+  }
 }

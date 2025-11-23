@@ -2,7 +2,7 @@
   "youtubeId": "rV1_7R_3cXA",
   "title": "Driving in My Car",
   "artist": "Madness",
-  "lastFetched": "2025-11-19T16:25:22.133Z",
+  "lastFetched": "2025-11-23T16:51:14.073Z",
   "odesli": {
     "amazonMusic": "B0FH2YFLT2",
     "amazonStore": "B0FH2YFLT2",
@@ -26,5 +26,26 @@
   "listeners": 69409,
   "playcount": 275573,
   "artistMbid": "5f58803e-8c4c-478e-8b51-477f38483ede",
-  "lastfmSummary": "\"Driving in My Car\" is a one-off single by Madness. It was released on July 24, 1982, and spent eight weeks on the UK Singles Chart, peaking at number four. It reached number twenty on the Australian Singles Chart.\n\nFrom the video and most of the lyrics, the track is about a Morris Minor that was used by the group in the early years before band became famous as seen in the film Take It or Leave It. The lyrics, however, do lend themselves to a little artistic license, e. <a href=\"http://www.last.fm/music/Madness/_/Driving+in+My+Car\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Driving in My Car\" is a one-off single by Madness. It was released on July 24, 1982, and spent eight weeks on the UK Singles Chart, peaking at number four. It reached number twenty on the Australian Singles Chart.\n\nFrom the video and most of the lyrics, the track is about a Morris Minor that was used by the group in the early years before band became famous as seen in the film Take It or Leave It. The lyrics, however, do lend themselves to a little artistic license, e. <a href=\"http://www.last.fm/music/Madness/_/Driving+in+My+Car\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "2 tone",
+      "british",
+      "new wave",
+      "pop",
+      "pop rock",
+      "psychedelic pop",
+      "punk",
+      "rock",
+      "ska",
+      "sophisti-pop"
+    ],
+    "artistGenres": [
+      "2 tone",
+      "new wave",
+      "pop",
+      "pop rock",
+      "psychedelic pop"
+    ]
+  }
 }

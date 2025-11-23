@@ -2,7 +2,7 @@
   "youtubeId": "RUn0TtyAqpE",
   "title": "Nubian Lady (Metisse remix)",
   "artist": "Yusef Lateef",
-  "lastFetched": "2025-11-19T08:13:35.888Z",
+  "lastFetched": "2025-11-23T16:39:03.310Z",
   "odesli": {
     "amazonMusic": "B07QLR5SN6",
     "amazonStore": "B07QLR5SN6",
@@ -22,5 +22,23 @@
   "lastfmId": "Yusef+Lateef/_/Nubian+Lady+(Metisse+remix)",
   "listeners": 769,
   "playcount": 2242,
-  "artistMbid": "2968722f-03d8-4e2f-88bc-f9975f147503"
+  "artistMbid": "2968722f-03d8-4e2f-88bc-f9975f147503",
+  "musicbrainz": {
+    "artistTags": [
+      "2008 universal fire victim",
+      "avant-garde jazz",
+      "hard bop",
+      "jazz",
+      "jazz fusion",
+      "jazz-funk",
+      "post-bop"
+    ],
+    "artistGenres": [
+      "avant-garde jazz",
+      "hard bop",
+      "jazz",
+      "jazz fusion",
+      "jazz-funk"
+    ]
+  }
 }

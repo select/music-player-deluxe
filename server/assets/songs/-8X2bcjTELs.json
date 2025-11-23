@@ -2,7 +2,7 @@
   "youtubeId": "-8X2bcjTELs",
   "title": "NAILS",
   "artist": "Noga Erez",
-  "lastFetched": "2025-11-19T09:05:32.360Z",
+  "lastFetched": "2025-11-23T16:25:04.383Z",
   "odesli": {
     "amazonMusic": "B0BBZKBT81",
     "amazonStore": "B0BBZKBT81",
@@ -23,5 +23,15 @@
   "lastfmId": "Noga+Erez/_/NAILS",
   "listeners": 5936,
   "playcount": 27520,
-  "artistMbid": "06479724-ee7d-471e-a3d4-4554330a0293"
+  "artistMbid": "06479724-ee7d-471e-a3d4-4554330a0293",
+  "musicbrainz": {
+    "artistTags": [
+      "electronic",
+      "pop"
+    ],
+    "artistGenres": [
+      "electronic",
+      "pop"
+    ]
+  }
 }

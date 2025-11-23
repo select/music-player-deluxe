@@ -2,7 +2,7 @@
   "youtubeId": "ve_kprQMHMk",
   "title": "I Want To Sleep",
   "artist": "DJ Koze",
-  "lastFetched": "2025-11-19T03:32:37.921Z",
+  "lastFetched": "2025-11-23T16:53:02.296Z",
   "odesli": {
     "amazonMusic": "B07X64L92B",
     "amazonStore": "B07X64L92B",
@@ -23,5 +23,26 @@
   "lastfmId": "DJ+Koze/_/I+Want+To+Sleep",
   "listeners": 6445,
   "playcount": 22931,
-  "artistMbid": "dd4458c8-6728-4a44-980c-48107fa72bb8"
+  "artistMbid": "dd4458c8-6728-4a44-980c-48107fa72bb8",
+  "musicbrainz": {
+    "artistTags": [
+      "deep house",
+      "electronica",
+      "house",
+      "melodic house",
+      "melodic techno",
+      "microhouse",
+      "minimal techno",
+      "peak time techno",
+      "tech house",
+      "techno"
+    ],
+    "artistGenres": [
+      "deep house",
+      "electronica",
+      "house",
+      "melodic house",
+      "melodic techno"
+    ]
+  }
 }

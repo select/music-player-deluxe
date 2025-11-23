@@ -2,7 +2,7 @@
   "youtubeId": "tPQ0PDi6m1k",
   "title": "Calypso Blues",
   "artist": "Calypso Rose",
-  "lastFetched": "2025-11-19T09:40:20.714Z",
+  "lastFetched": "2025-11-23T16:52:02.049Z",
   "odesli": {
     "amazonMusic": "B01EBCR9SI",
     "amazonStore": "B01EBCR9SI",
@@ -24,5 +24,15 @@
   "listeners": 38297,
   "playcount": 158905,
   "artistMbid": "ed4a6b66-f07f-41cb-9e5d-ea47d40beba6",
-  "lastfmSummary": "The legendary Nat King Cole wrote this song. It's a pure calypsonian style track, that describes with humor and ironie hard time life.\n\nIt brings the calypsonian nostalgia, talking about women who like Calypso Rose emigrated to New York for a better life and found a hard reality inside the Big Apple. <a href=\"http://www.last.fm/music/Calypso+Rose/_/Calypso+Blues\">Read more on Last.fm</a>."
+  "lastfmSummary": "The legendary Nat King Cole wrote this song. It's a pure calypsonian style track, that describes with humor and ironie hard time life.\n\nIt brings the calypsonian nostalgia, talking about women who like Calypso Rose emigrated to New York for a better life and found a hard reality inside the Big Apple. <a href=\"http://www.last.fm/music/Calypso+Rose/_/Calypso+Blues\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "calypso",
+      "soca"
+    ],
+    "artistGenres": [
+      "calypso",
+      "soca"
+    ]
+  }
 }

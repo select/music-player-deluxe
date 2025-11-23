@@ -3,7 +3,7 @@
   "title": "The Wilhelm Scream",
   "artist": "Richard Koch Quartett",
   "youtubeId": "fWhKMVJymPA",
-  "lastFetched": "2025-11-19T04:15:21.221Z",
+  "lastFetched": "2025-11-23T16:45:40.298Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B08K9DMYGT",
@@ -20,5 +20,13 @@
   "lastfmId": "Richard+Koch+Quartett/_/The+Wilhelm+Scream",
   "listeners": 41,
   "playcount": 69,
-  "artistMbid": "20f60d05-48e3-42e8-a627-67e41f8da16f"
+  "artistMbid": "20f60d05-48e3-42e8-a627-67e41f8da16f",
+  "musicbrainz": {
+    "artistTags": [
+      "jazz"
+    ],
+    "artistGenres": [
+      "jazz"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "6Q-OH3PnZxc",
   "title": "Meine Ex(plodierte Freundin)",
   "artist": "Die Ärzte",
-  "lastFetched": "2025-11-19T12:41:16.980Z",
+  "lastFetched": "2025-11-23T16:29:00.233Z",
   "odesli": {
     "amazonMusic": "B08BWBZ4MH",
     "amazonStore": "B08BWBZ4MH",
@@ -18,5 +18,25 @@
   "lastfmId": "Die+%C3%84rzte/_/Meine+Ex(plodierte+Freundin)",
   "listeners": 41579,
   "playcount": 215672,
-  "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320"
+  "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
+  "musicbrainz": {
+    "artistTags": [
+      "berlin",
+      "fun-punk",
+      "german",
+      "ndw",
+      "neue deutsche welle",
+      "pop punk",
+      "punk",
+      "punk rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "neue deutsche welle",
+      "pop punk",
+      "punk",
+      "punk rock",
+      "rock"
+    ]
+  }
 }

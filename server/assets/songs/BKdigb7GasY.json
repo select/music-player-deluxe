@@ -4,7 +4,7 @@
   "artist": "Oklou",
   "duration": 221,
   "youtubeId": "BKdigb7GasY",
-  "lastFetched": "2025-11-23T15:39:47.619Z",
+  "lastFetched": "2025-11-23T16:31:08.055Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0FP5GH4QF",
@@ -23,5 +23,26 @@
   "lastfmId": "Oklou/_/viscus",
   "listeners": 37173,
   "playcount": 188248,
-  "artistMbid": "13e2db47-3010-48b8-a8b9-667551f37119"
+  "artistMbid": "13e2db47-3010-48b8-a8b9-667551f37119",
+  "musicbrainz": {
+    "artistTags": [
+      "2010s",
+      "2020s",
+      "alternative pop",
+      "alternative rnb",
+      "ambient",
+      "ambient pop",
+      "art pop",
+      "chillwave",
+      "dream pop",
+      "electronic"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "ambient",
+      "ambient pop",
+      "art pop",
+      "chillwave"
+    ]
+  }
 }

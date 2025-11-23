@@ -4,7 +4,7 @@
   "artist": "Damaged Bug",
   "duration": 195,
   "youtubeId": "Ai1D08sGIZ8",
-  "lastFetched": "2025-11-23T15:39:45.200Z",
+  "lastFetched": "2025-11-23T16:30:51.289Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B00YGJCG9Y",
@@ -19,5 +19,21 @@
   "lastfmId": "Damaged+Bug/_/Jet+in+Jungle",
   "listeners": 30839,
   "playcount": 138553,
-  "artistMbid": "a5e7d877-affe-4b75-8203-452f48468205"
+  "artistMbid": "a5e7d877-affe-4b75-8203-452f48468205",
+  "musicbrainz": {
+    "artistTags": [
+      "garage pop",
+      "indie garage rock",
+      "neo-psychedelia",
+      "neo-psychedelic",
+      "post-punk",
+      "psychedelic rock",
+      "synth punk"
+    ],
+    "artistGenres": [
+      "neo-psychedelia",
+      "post-punk",
+      "psychedelic rock"
+    ]
+  }
 }

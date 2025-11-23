@@ -2,7 +2,7 @@
   "youtubeId": "nXB4xBnP22o",
   "title": "Change The World",
   "artist": "Eric Clapton",
-  "lastFetched": "2025-11-19T16:15:39.265Z",
+  "lastFetched": "2025-11-23T16:49:18.875Z",
   "odesli": {
     "amazonMusic": "B002O0SKJW",
     "amazonStore": "B002O0SKJW",
@@ -26,5 +26,25 @@
   "listeners": 425566,
   "playcount": 2033969,
   "artistMbid": "618b6900-0618-4f1e-b835-bccb17f84294",
-  "lastfmSummary": "This was featured in the John Travolta movie Phenomenon\n\n\"Change the World\" is a song recorded by country superstar Wynonna Judd, which was covered by Eric Clapton with backing by Babyface for the soundtrack of the 1996 film Phenomenon. The song won Grammy Awards for Record of the Year, Song of the Year (for the songwriters Tommy Sims, Gordon Kennedy and Wayne Kirkpatrick), as well as Best Male Pop Vocal performance. The song was chosen by the RIAA as one of the Songs of the Century, ranked at #270. <a href=\"http://www.last.fm/music/Eric+Clapton/_/Change+The+World\">Read more on Last.fm</a>."
+  "lastfmSummary": "This was featured in the John Travolta movie Phenomenon\n\n\"Change the World\" is a song recorded by country superstar Wynonna Judd, which was covered by Eric Clapton with backing by Babyface for the soundtrack of the 1996 film Phenomenon. The song won Grammy Awards for Record of the Year, Song of the Year (for the songwriters Tommy Sims, Gordon Kennedy and Wayne Kirkpatrick), as well as Best Male Pop Vocal performance. The song was chosen by the RIAA as one of the Songs of the Century, ranked at #270. <a href=\"http://www.last.fm/music/Eric+Clapton/_/Change+The+World\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "2008 universal fire victim",
+      "blues",
+      "blues rock",
+      "british rhythm & blues",
+      "electric blues",
+      "montreux",
+      "pop rock",
+      "rock",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "british rhythm & blues",
+      "electric blues",
+      "pop rock"
+    ]
+  }
 }

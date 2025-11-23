@@ -2,7 +2,7 @@
   "youtubeId": "K9uiF5e2E9k",
   "title": "My Heroine",
   "artist": "Silverstein",
-  "lastFetched": "2025-11-19T06:49:01.817Z",
+  "lastFetched": "2025-11-23T16:35:39.697Z",
   "odesli": {
     "amazonMusic": "B09252GYS1",
     "amazonStore": "B09252GYS1",
@@ -20,5 +20,26 @@
   "lastfmId": "Silverstein/_/My+Heroine",
   "listeners": 343872,
   "playcount": 3418289,
-  "artistMbid": "d89de379-665d-425c-b2e9-41b95d1edb36"
+  "artistMbid": "d89de379-665d-425c-b2e9-41b95d1edb36",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative hardcore",
+      "burlington",
+      "emo",
+      "emo metal",
+      "emocore",
+      "hard rock",
+      "hardcore",
+      "melodic hardcore",
+      "metalcore",
+      "pop punk"
+    ],
+    "artistGenres": [
+      "emo",
+      "emocore",
+      "hard rock",
+      "melodic hardcore",
+      "metalcore"
+    ]
+  }
 }

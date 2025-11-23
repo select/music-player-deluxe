@@ -2,7 +2,7 @@
   "youtubeId": "-tuhwZH9Owk",
   "title": "Belziger Faceplant",
   "artist": "Stephen Malkmus",
-  "lastFetched": "2025-11-19T17:02:14.099Z",
+  "lastFetched": "2025-11-23T16:25:52.771Z",
   "odesli": {
     "amazonMusic": "B07MG33MPG",
     "amazonStore": "B07MG33MPG",
@@ -24,5 +24,23 @@
   "lastfmId": "Stephen+Malkmus/_/Belziger+Faceplant",
   "listeners": 6602,
   "playcount": 16672,
-  "artistMbid": "eaefd603-84c1-4db4-a72b-0cb718a0cc07"
+  "artistMbid": "eaefd603-84c1-4db4-a72b-0cb718a0cc07",
+  "musicbrainz": {
+    "artistTags": [
+      "classic pop and rock",
+      "folk rock",
+      "indie pop",
+      "indie rock",
+      "psychedelic folk",
+      "rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "folk rock",
+      "indie pop",
+      "indie rock",
+      "psychedelic folk",
+      "rock"
+    ]
+  }
 }

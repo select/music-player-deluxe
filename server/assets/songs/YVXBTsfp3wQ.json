@@ -2,7 +2,7 @@
   "youtubeId": "YVXBTsfp3wQ",
   "title": "Underground Sound",
   "artist": "Joey Valence & Brae",
-  "lastFetched": "2025-11-19T05:58:33.797Z",
+  "lastFetched": "2025-11-23T16:42:06.123Z",
   "odesli": {
     "amazonMusic": "B094TM75B2",
     "amazonStore": "B094TM75B2",
@@ -25,5 +25,17 @@
   "lastfmId": "Joey+Valence+&+Brae/_/Underground+Sound",
   "listeners": 80665,
   "playcount": 412010,
-  "artistMbid": "93a4d03b-4f0e-42da-ae0b-a62876e46071"
+  "artistMbid": "93a4d03b-4f0e-42da-ae0b-a62876e46071",
+  "musicbrainz": {
+    "artistTags": [
+      "boom bap",
+      "hip hop",
+      "rap rock"
+    ],
+    "artistGenres": [
+      "boom bap",
+      "hip hop",
+      "rap rock"
+    ]
+  }
 }

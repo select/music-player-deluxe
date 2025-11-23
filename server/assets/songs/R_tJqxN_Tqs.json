@@ -6,7 +6,7 @@
   "releaseCount": 1,
   "duration": 280,
   "youtubeId": "R_tJqxN_Tqs",
-  "lastFetched": "2025-11-19T05:18:57.094Z",
+  "lastFetched": "2025-11-23T16:39:08.938Z",
   "odesli": {
     "amazonMusic": "B0FND8TYRS",
     "amazonStore": "B0FND8TYRS",
@@ -22,5 +22,13 @@
   },
   "lastfmId": "Dylan+Henner/_/We+Walked+all+the+Way+to+the+Lake+and+The+Water+Was+So+Still+We+Jumped+in+Naked",
   "listeners": 1341,
-  "playcount": 2355
+  "playcount": 2355,
+  "musicbrainz": {
+    "artistTags": [
+      "ambient"
+    ],
+    "artistGenres": [
+      "ambient"
+    ]
+  }
 }

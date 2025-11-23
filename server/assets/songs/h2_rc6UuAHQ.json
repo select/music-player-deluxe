@@ -2,7 +2,7 @@
   "youtubeId": "h2_rc6UuAHQ",
   "title": "Nullkommaneun",
   "artist": "SSIO",
-  "lastFetched": "2025-11-19T06:17:59.040Z",
+  "lastFetched": "2025-11-23T16:46:23.393Z",
   "odesli": {
     "amazonMusic": "B07DXCGQ54",
     "amazonStore": "B07DXCGQ54",
@@ -25,5 +25,15 @@
   "lastfmId": "SSIO/_/Nullkommaneun",
   "listeners": 49567,
   "playcount": 472027,
-  "artistMbid": "24234aaf-000f-44de-8f58-9d7964ac3e8f"
+  "artistMbid": "24234aaf-000f-44de-8f58-9d7964ac3e8f",
+  "musicbrainz": {
+    "artistTags": [
+      "german",
+      "hip hop",
+      "rap"
+    ],
+    "artistGenres": [
+      "hip hop"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "C9Dd0xT7MS4",
   "title": "Feel Like Home",
   "artist": "Papa Roach",
-  "lastFetched": "2025-11-19T12:06:35.640Z",
+  "lastFetched": "2025-11-23T16:31:27.207Z",
   "odesli": {
     "amazonMusic": "B0FLF8898C",
     "amazonStore": "B0FLF8898C",
@@ -16,5 +16,22 @@
   "lastfmId": "Papa+Roach/_/Feel+Like+Home",
   "listeners": 22222,
   "playcount": 163841,
-  "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c"
+  "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "nu metal",
+      "pop rock",
+      "rap rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "nu metal",
+      "pop rock"
+    ]
+  }
 }

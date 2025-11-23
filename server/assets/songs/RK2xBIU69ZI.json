@@ -4,7 +4,7 @@
   "artist": "Billie Marten",
   "duration": 271,
   "youtubeId": "RK2xBIU69ZI",
-  "lastFetched": "2025-11-19T04:59:06.475Z",
+  "lastFetched": "2025-11-23T16:38:51.734Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B07P8337YQ",
@@ -25,5 +25,13 @@
   "lastfmId": "Billie+Marten/_/Bad+Apple",
   "listeners": 27634,
   "playcount": 179798,
-  "artistMbid": "f5d276c8-8407-45c0-8b1c-4e43c6694fa9"
+  "artistMbid": "f5d276c8-8407-45c0-8b1c-4e43c6694fa9",
+  "musicbrainz": {
+    "artistTags": [
+      "indie folk"
+    ],
+    "artistGenres": [
+      "indie folk"
+    ]
+  }
 }

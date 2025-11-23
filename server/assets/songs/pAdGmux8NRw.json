@@ -2,7 +2,7 @@
   "youtubeId": "pAdGmux8NRw",
   "title": "I'm A King Bee",
   "artist": "The Rolling Stones",
-  "lastFetched": "2025-11-19T16:07:27.333Z",
+  "lastFetched": "2025-11-23T16:50:07.144Z",
   "odesli": {
     "amazonMusic": "B00AON1J2Q",
     "amazonStore": "B00AON1J2Q",
@@ -24,5 +24,26 @@
   "lastfmId": "The+Rolling+Stones/_/I%27m+A+King+Bee",
   "listeners": 76879,
   "playcount": 226073,
-  "artistMbid": "b071f9fa-14b0-4217-8e97-eb41da73f598"
+  "artistMbid": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+  "musicbrainz": {
+    "artistTags": [
+      "blues",
+      "blues rock",
+      "british",
+      "british rhythm & blues",
+      "classic rock",
+      "pop rock",
+      "psychedelic rock",
+      "rock",
+      "rock & roll",
+      "rock and roll"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "british rhythm & blues",
+      "classic rock",
+      "pop rock"
+    ]
+  }
 }

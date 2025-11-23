@@ -2,7 +2,7 @@
   "youtubeId": "50Ceq5eBocE",
   "title": "Army Ants in Your Pants",
   "artist": "Bruce Haack",
-  "lastFetched": "2025-11-19T15:36:27.831Z",
+  "lastFetched": "2025-11-23T16:28:13.803Z",
   "odesli": {
     "amazonMusic": "B0C5CQ96LF",
     "amazonStore": "B0C5CQ96LF",
@@ -22,5 +22,18 @@
   "lastfmId": "Bruce+Haack/_/Army+Ants+in+Your+Pants",
   "listeners": 742,
   "playcount": 1999,
-  "artistMbid": "f9b7f120-3c0d-4ada-bc14-95ad2550e9cf"
+  "artistMbid": "f9b7f120-3c0d-4ada-bc14-95ad2550e9cf",
+  "musicbrainz": {
+    "artistTags": [
+      "composer",
+      "electronic",
+      "experimental",
+      "moogsploitation"
+    ],
+    "artistGenres": [
+      "electronic",
+      "experimental",
+      "moogsploitation"
+    ]
+  }
 }

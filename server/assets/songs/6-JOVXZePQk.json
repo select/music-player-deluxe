@@ -2,7 +2,7 @@
   "youtubeId": "6-JOVXZePQk",
   "title": "Ring Ring Ring (Ha Ha Hey)",
   "artist": "De La Soul",
-  "lastFetched": "2025-11-19T10:25:08.949Z",
+  "lastFetched": "2025-11-23T16:28:42.495Z",
   "odesli": {
     "amazonMusic": "B0BS4HTCGW",
     "amazonStore": "B0BS4HTCGW",
@@ -19,5 +19,34 @@
   "lastfmId": "De+La+Soul/_/Ring+Ring+Ring+(Ha+Ha+Hey)",
   "listeners": 72683,
   "playcount": 301709,
-  "artistMbid": "a8ebde98-7e91-46c7-992c-90039ba42017"
+  "artistMbid": "a8ebde98-7e91-46c7-992c-90039ba42017",
+  "musicbrainz": {
+    "tags": [
+      "hip hop",
+      "jazz rap",
+      "rap"
+    ],
+    "genres": [
+      "hip hop",
+      "jazz rap"
+    ],
+    "artistTags": [
+      "alternative hip hop",
+      "boom bap",
+      "conscious hip hop",
+      "east coast hip hop",
+      "golden age hip hop",
+      "hip hop",
+      "jazz rap",
+      "pop rap",
+      "progressive rap"
+    ],
+    "artistGenres": [
+      "alternative hip hop",
+      "boom bap",
+      "conscious hip hop",
+      "east coast hip hop",
+      "hip hop"
+    ]
+  }
 }

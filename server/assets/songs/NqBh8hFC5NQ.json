@@ -2,7 +2,7 @@
   "youtubeId": "NqBh8hFC5NQ",
   "title": "Chop Suey",
   "artist": "The Dead South",
-  "lastFetched": "2025-11-19T08:31:25.568Z",
+  "lastFetched": "2025-11-23T16:37:06.652Z",
   "odesli": {
     "amazonMusic": "B09JS6BCRK",
     "amazonStore": "B09JS6BCRK",
@@ -25,5 +25,22 @@
   "lastfmId": "The+Dead+South/_/Chop+Suey",
   "listeners": 6625,
   "playcount": 22774,
-  "artistMbid": "ffb316f0-0df3-4f9c-b0e0-945187b6e964"
+  "artistMbid": "ffb316f0-0df3-4f9c-b0e0-945187b6e964",
+  "musicbrainz": {
+    "artistTags": [
+      "americana",
+      "bluegrass",
+      "bluegrass fusion",
+      "folk",
+      "folk rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "americana",
+      "bluegrass",
+      "folk",
+      "folk rock",
+      "rock"
+    ]
+  }
 }

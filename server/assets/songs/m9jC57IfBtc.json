@@ -2,7 +2,7 @@
   "youtubeId": "m9jC57IfBtc",
   "title": "Quit It",
   "artist": "Miriam Makeba",
-  "lastFetched": "2025-11-19T16:32:33.548Z",
+  "lastFetched": "2025-11-23T16:48:38.288Z",
   "odesli": {
     "amazonMusic": "B0D5YWB6LJ",
     "amazonStore": "B0D5YWB6LJ",
@@ -21,5 +21,16 @@
   "listeners": 18445,
   "playcount": 58752,
   "artistMbid": "bc5c2918-4aba-4ef6-a245-100563a4487f",
-  "lastfmSummary": "\"Quit It\" was originally released on \"A Promise\" (1974). <a href=\"http://www.last.fm/music/Miriam+Makeba/_/Quit+It\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Quit It\" was originally released on \"A Promise\" (1974). <a href=\"http://www.last.fm/music/Miriam+Makeba/_/Quit+It\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "2008 universal fire victim",
+      "marabi",
+      "songwriter",
+      "world"
+    ],
+    "artistGenres": [
+      "marabi"
+    ]
+  }
 }

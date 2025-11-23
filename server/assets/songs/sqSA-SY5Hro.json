@@ -2,10 +2,18 @@
   "youtubeId": "sqSA-SY5Hro",
   "title": "Rich Men North Of Richmond",
   "artist": "Oliver Anthony",
-  "lastFetched": "2025-11-19T12:55:01.923Z",
+  "lastFetched": "2025-11-23T16:51:47.603Z",
   "mbid": "c7456b5b-bdb5-41f9-b562-0c9550ab32c5",
   "lastfmId": "Oliver+Anthony/_/Rich+Men+North+Of+Richmond",
   "listeners": 1660,
   "playcount": 6736,
-  "artistMbid": "e0870836-d112-4851-92bd-570f2e1e62cb"
+  "artistMbid": "e0870836-d112-4851-92bd-570f2e1e62cb",
+  "musicbrainz": {
+    "tags": [
+      "country"
+    ],
+    "genres": [
+      "country"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "CjxAdLeDYeY",
   "title": "Silhouette",
   "artist": "Little Simz",
-  "lastFetched": "2025-11-19T10:52:05.634Z",
+  "lastFetched": "2025-11-23T16:31:42.298Z",
   "odesli": {
     "amazonMusic": "B0BP9V7FVV",
     "amazonStore": "B0BP9V7FVV",
@@ -24,5 +24,17 @@
   "lastfmId": "Little+Simz/_/Silhouette",
   "listeners": 105625,
   "playcount": 603694,
-  "artistMbid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
+  "artistMbid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
+  "musicbrainz": {
+    "artistTags": [
+      "hip hop",
+      "pop rap",
+      "rapper",
+      "uk"
+    ],
+    "artistGenres": [
+      "hip hop",
+      "pop rap"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "SQbr4ISrjII",
   "title": "Most of the Time",
   "artist": "Bob Dylan",
-  "lastFetched": "2025-11-19T16:38:41.580Z",
+  "lastFetched": "2025-11-23T16:39:25.559Z",
   "odesli": {
     "amazonMusic": "B00137V6LQ",
     "amazonStore": "B00137V6LQ",
@@ -17,5 +17,26 @@
   "lastfmId": "Bob+Dylan/_/Most+of+the+Time",
   "listeners": 130921,
   "playcount": 679917,
-  "artistMbid": "72c536dc-7137-4477-a521-567eeb840fa8"
+  "artistMbid": "72c536dc-7137-4477-a521-567eeb840fa8",
+  "musicbrainz": {
+    "artistTags": [
+      "blues",
+      "blues rock",
+      "classic rock",
+      "contemporary folk",
+      "country",
+      "country rock",
+      "folk",
+      "folk rock",
+      "gospel",
+      "greenwich village scene"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "classic rock",
+      "contemporary folk",
+      "country"
+    ]
+  }
 }

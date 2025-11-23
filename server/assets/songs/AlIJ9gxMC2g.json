@@ -5,7 +5,7 @@
   "album": "Blue Reminder",
   "duration": 249,
   "youtubeId": "AlIJ9gxMC2g",
-  "lastFetched": "2025-11-23T15:39:46.335Z",
+  "lastFetched": "2025-11-23T16:30:53.635Z",
   "odesli": {
     "amazonMusic": "B0F446GQBV",
     "amazonStore": "B0F446GQBV",
@@ -21,5 +21,15 @@
   "lastfmId": "Hand+Habits/_/Nubble",
   "listeners": 3013,
   "playcount": 6338,
-  "artistMbid": "a92d48e1-40a9-457d-971c-ddb748d78759"
+  "artistMbid": "a92d48e1-40a9-457d-971c-ddb748d78759",
+  "musicbrainz": {
+    "artistTags": [
+      "indie folk",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "indie folk",
+      "singer-songwriter"
+    ]
+  }
 }

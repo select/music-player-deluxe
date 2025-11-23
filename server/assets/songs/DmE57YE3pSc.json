@@ -2,11 +2,27 @@
   "youtubeId": "DmE57YE3pSc",
   "title": "Well Thought Out Twinkles",
   "artist": "Silversun Pickups",
-  "lastFetched": "2025-11-19T12:29:03.583Z",
+  "lastFetched": "2025-11-23T16:32:32.830Z",
   "mbid": "964aa5ea-9fab-42cb-9849-550bc4b64f12",
   "lastfmId": "Silversun+Pickups/_/Well+Thought+Out+Twinkles",
   "listeners": 252199,
   "playcount": 1877903,
   "artistMbid": "b5bd9f88-962e-4730-84a7-795592ba42e8",
-  "lastfmSummary": "YT - Silversun Pickups \"Well Thought Out Twinkies\" Live Gibson Amphitheater Los Angeles, CA 11.3.09 <a href=\"http://www.last.fm/music/Silversun+Pickups/_/Well+Thought+Out+Twinkles\">Read more on Last.fm</a>."
+  "lastfmSummary": "YT - Silversun Pickups \"Well Thought Out Twinkies\" Live Gibson Amphitheater Los Angeles, CA 11.3.09 <a href=\"http://www.last.fm/music/Silversun+Pickups/_/Well+Thought+Out+Twinkles\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "indie rock",
+      "indietronica",
+      "rock",
+      "shoegaze"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "indie rock",
+      "indietronica",
+      "rock",
+      "shoegaze"
+    ]
+  }
 }

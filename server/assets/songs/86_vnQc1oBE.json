@@ -2,7 +2,7 @@
   "youtubeId": "86_vnQc1oBE",
   "title": "When The Curtain Falls",
   "artist": "Greta Van Fleet",
-  "lastFetched": "2025-11-19T08:37:01.547Z",
+  "lastFetched": "2025-11-23T16:29:51.590Z",
   "odesli": {
     "amazonMusic": "B07H4754NS",
     "amazonStore": "B07H4754NS",
@@ -21,5 +21,18 @@
   "lastfmId": "Greta+Van+Fleet/_/When+The+Curtain+Falls",
   "listeners": 149527,
   "playcount": 1117469,
-  "artistMbid": "0be22557-d8c7-4706-a531-625c4c570162"
+  "artistMbid": "0be22557-d8c7-4706-a531-625c4c570162",
+  "musicbrainz": {
+    "artistTags": [
+      "blues rock",
+      "estados unidos",
+      "hard rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "hard rock",
+      "rock"
+    ]
+  }
 }

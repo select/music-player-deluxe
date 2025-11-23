@@ -2,7 +2,7 @@
   "youtubeId": "yCmIp6ndg4E",
   "title": "Unsolved Mysteries",
   "artist": "Animal Collective",
-  "lastFetched": "2025-11-19T17:33:20.154Z",
+  "lastFetched": "2025-11-23T16:54:05.243Z",
   "odesli": {
     "amazonMusic": "B073MTT5WZ",
     "amazonStore": "B073MTT5WZ",
@@ -14,5 +14,26 @@
   "lastfmId": "Animal+Collective/_/Unsolved+Mysteries",
   "listeners": 270157,
   "playcount": 1784604,
-  "artistMbid": "0c751690-c784-4a4f-b1e4-c1de27d47581"
+  "artistMbid": "0c751690-c784-4a4f-b1e4-c1de27d47581",
+  "musicbrainz": {
+    "artistTags": [
+      "avant-folk",
+      "avant-garde",
+      "avant-garde pop",
+      "electronic",
+      "experimental",
+      "freak folk",
+      "neo-psychedelia",
+      "new weird america",
+      "noise",
+      "psychedelic folk"
+    ],
+    "artistGenres": [
+      "avant-folk",
+      "avant-garde",
+      "avant-garde pop",
+      "electronic",
+      "experimental"
+    ]
+  }
 }

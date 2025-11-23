@@ -2,7 +2,7 @@
   "youtubeId": "rzCzRo4C8IY",
   "title": "Doctor D",
   "artist": "VHS Glitch",
-  "lastFetched": "2025-11-19T07:50:38.495Z",
+  "lastFetched": "2025-11-23T16:51:28.285Z",
   "odesli": {
     "amazonMusic": "B07D1X2X74",
     "amazonStore": "B07D1X2X74",
@@ -19,5 +19,16 @@
   "lastfmId": "VHS+Glitch/_/Doctor+D",
   "listeners": 8651,
   "playcount": 58537,
-  "artistMbid": "13505577-7c12-431b-bb81-19a41fc48c99"
+  "artistMbid": "13505577-7c12-431b-bb81-19a41fc48c99",
+  "musicbrainz": {
+    "artistTags": [
+      "dark synth",
+      "electronic",
+      "synthwave"
+    ],
+    "artistGenres": [
+      "electronic",
+      "synthwave"
+    ]
+  }
 }

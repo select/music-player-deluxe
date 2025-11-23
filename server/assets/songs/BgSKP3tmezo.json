@@ -2,7 +2,7 @@
   "youtubeId": "BgSKP3tmezo",
   "title": "Ganz Wien",
   "artist": "Falco",
-  "lastFetched": "2025-11-19T17:21:07.166Z",
+  "lastFetched": "2025-11-23T16:31:18.397Z",
   "odesli": {
     "amazonMusic": "B073SZX2XX",
     "amazonStore": "B073SZX2XX",
@@ -16,5 +16,26 @@
   "lastfmId": "Falco/_/Ganz+Wien",
   "listeners": 33235,
   "playcount": 187629,
-  "artistMbid": "dcd95aa4-f3ff-492d-a621-8518ada0f58b"
+  "artistMbid": "dcd95aa4-f3ff-492d-a621-8518ada0f58b",
+  "musicbrainz": {
+    "artistTags": [
+      "80s",
+      "austrian",
+      "austropop",
+      "dance-pop",
+      "disco rap",
+      "european",
+      "german",
+      "neue deutsche welle",
+      "new wave",
+      "pop"
+    ],
+    "artistGenres": [
+      "dance-pop",
+      "neue deutsche welle",
+      "new wave",
+      "pop",
+      "pop rap"
+    ]
+  }
 }

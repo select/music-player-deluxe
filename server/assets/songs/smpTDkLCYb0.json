@@ -2,7 +2,7 @@
   "youtubeId": "smpTDkLCYb0",
   "title": "Main Titles",
   "artist": "Vangelis",
-  "lastFetched": "2025-11-19T13:44:33.907Z",
+  "lastFetched": "2025-11-23T16:51:45.155Z",
   "odesli": {
     "amazonMusic": "B00CRB0DJS",
     "amazonStore": "B00CRB0DJS",
@@ -21,5 +21,45 @@
   "lastfmId": "Vangelis/_/Main+Titles",
   "listeners": 125040,
   "playcount": 605061,
-  "artistMbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f"
+  "artistMbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f",
+  "musicbrainz": {
+    "tags": [
+      "action",
+      "ambient",
+      "dark",
+      "electronic",
+      "instrumental",
+      "melancholy",
+      "modern classical",
+      "movie soundtrack",
+      "new age",
+      "peace"
+    ],
+    "genres": [
+      "ambient",
+      "electronic",
+      "instrumental",
+      "modern classical",
+      "new age"
+    ],
+    "artistTags": [
+      "academy award winner",
+      "ambient",
+      "classical",
+      "composer",
+      "death by covid-19",
+      "easy listening soundtracks and musicals",
+      "electronic",
+      "experimental",
+      "film",
+      "film score"
+    ],
+    "artistGenres": [
+      "ambient",
+      "classical",
+      "electronic",
+      "experimental",
+      "instrumental"
+    ]
+  }
 }

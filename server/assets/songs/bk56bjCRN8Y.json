@@ -2,7 +2,7 @@
   "youtubeId": "bk56bjCRN8Y",
   "title": "burning grey",
   "artist": "Jaimie Branch",
-  "lastFetched": "2025-11-23T15:40:17.539Z",
+  "lastFetched": "2025-11-23T16:43:52.127Z",
   "odesli": {
     "amazonMusic": "B0C5T2V9YN",
     "amazonStore": "B0C5T2V9YN",
@@ -24,5 +24,15 @@
   "lastfmId": "Jaimie+Branch/_/burning+grey",
   "listeners": 10447,
   "playcount": 27249,
-  "artistMbid": "8ff2bf9c-d1b6-4134-ae14-b837913c3dfd"
+  "artistMbid": "8ff2bf9c-d1b6-4134-ae14-b837913c3dfd",
+  "musicbrainz": {
+    "artistTags": [
+      "free jazz",
+      "jazz"
+    ],
+    "artistGenres": [
+      "free jazz",
+      "jazz"
+    ]
+  }
 }

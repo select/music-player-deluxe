@@ -4,7 +4,7 @@
   "artist": "Knorkator",
   "duration": 206,
   "youtubeId": "CZ1kVocZncE",
-  "lastFetched": "2025-11-19T04:57:35.441Z",
+  "lastFetched": "2025-11-23T16:31:35.370Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0FDBJPFX6",
@@ -22,5 +22,10 @@
   "lastfmId": "Knorkator/_/Halb+voll",
   "listeners": 458,
   "playcount": 1012,
-  "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e"
+  "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
+  "musicbrainz": {
+    "artistTags": [
+      "german"
+    ]
+  }
 }

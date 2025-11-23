@@ -2,7 +2,7 @@
   "youtubeId": "DLQawHJ38Sc",
   "title": "Right Now",
   "artist": "Van Halen",
-  "lastFetched": "2025-11-19T11:58:56.754Z",
+  "lastFetched": "2025-11-23T16:32:20.489Z",
   "odesli": {
     "amazonMusic": "B0D4FGTGZG",
     "amazonStore": "B0D4FGTGZG",
@@ -16,5 +16,17 @@
   "lastfmId": "Van+Halen/_/Right+Now",
   "listeners": 232654,
   "playcount": 1150785,
-  "artistMbid": "b665b768-0d83-4363-950c-31ed39317c15"
+  "artistMbid": "b665b768-0d83-4363-950c-31ed39317c15",
+  "musicbrainz": {
+    "artistTags": [
+      "glam metal",
+      "hard rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "glam metal",
+      "hard rock",
+      "rock"
+    ]
+  }
 }

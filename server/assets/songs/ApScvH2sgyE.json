@@ -2,7 +2,7 @@
   "youtubeId": "ApScvH2sgyE",
   "title": "Nobody",
   "artist": "Skindred",
-  "lastFetched": "2025-11-19T15:33:24.635Z",
+  "lastFetched": "2025-11-23T16:30:57.210Z",
   "odesli": {
     "amazonMusic": "B001237IRW",
     "amazonStore": "B001237IRW",
@@ -23,5 +23,45 @@
   "lastfmId": "Skindred/_/Nobody",
   "listeners": 369261,
   "playcount": 2928077,
-  "artistMbid": "36e371e9-e76b-4b66-b813-e1d1af6d7128"
+  "artistMbid": "36e371e9-e76b-4b66-b813-e1d1af6d7128",
+  "musicbrainz": {
+    "tags": [
+      "alternative metal",
+      "drum and bass",
+      "dub",
+      "electronic",
+      "hardcore",
+      "heavy metal",
+      "hip hop",
+      "metal",
+      "metalcore",
+      "nu metal"
+    ],
+    "genres": [
+      "alternative metal",
+      "drum and bass",
+      "dub",
+      "electronic",
+      "heavy metal"
+    ],
+    "artistTags": [
+      "alternative metal",
+      "metal",
+      "nu metal",
+      "ragga metal",
+      "ragga-metal",
+      "rap rock",
+      "rapcore",
+      "reggae",
+      "reggae metal",
+      "reggae rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "metal",
+      "nu metal",
+      "rap rock",
+      "rapcore"
+    ]
+  }
 }

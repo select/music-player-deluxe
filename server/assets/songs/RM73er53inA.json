@@ -2,7 +2,7 @@
   "youtubeId": "RM73er53inA",
   "title": "Surrender",
   "artist": "Angels & Airwaves",
-  "lastFetched": "2025-11-19T07:49:06.639Z",
+  "lastFetched": "2025-11-23T16:38:54.016Z",
   "odesli": {
     "amazonMusic": "B0F17K73C7",
     "amazonStore": "B0F17K73C7",
@@ -18,5 +18,17 @@
   "lastfmId": "Angels+&+Airwaves/_/Surrender",
   "listeners": 61781,
   "playcount": 509430,
-  "artistMbid": "05071a7e-e71c-4306-a509-591cd3686893"
+  "artistMbid": "05071a7e-e71c-4306-a509-591cd3686893",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "pop rock",
+      "space rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "pop rock",
+      "space rock"
+    ]
+  }
 }

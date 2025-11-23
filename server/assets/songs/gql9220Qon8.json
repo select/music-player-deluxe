@@ -2,7 +2,7 @@
   "youtubeId": "gql9220Qon8",
   "title": "Beer",
   "artist": "Reel Big Fish",
-  "lastFetched": "2025-11-19T06:36:49.752Z",
+  "lastFetched": "2025-11-23T16:46:14.058Z",
   "odesli": {
     "amazonMusic": "B00137T5XM",
     "amazonStore": "B00137T5XM",
@@ -16,5 +16,17 @@
   "lastfmId": "Reel+Big+Fish/_/Beer",
   "listeners": 337782,
   "playcount": 2368736,
-  "artistMbid": "5e5480be-eded-44ad-9c45-f6136ec2f5db"
+  "artistMbid": "5e5480be-eded-44ad-9c45-f6136ec2f5db",
+  "musicbrainz": {
+    "artistTags": [
+      "punk",
+      "ska",
+      "ska punk"
+    ],
+    "artistGenres": [
+      "punk",
+      "ska",
+      "ska punk"
+    ]
+  }
 }

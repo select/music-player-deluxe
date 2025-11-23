@@ -2,7 +2,7 @@
   "youtubeId": "OjvD3Y6IiVw",
   "title": "You'll Never Leave Harlan Alive",
   "artist": "Darrell Scott",
-  "lastFetched": "2025-11-19T12:07:36.506Z",
+  "lastFetched": "2025-11-23T16:37:25.737Z",
   "odesli": {
     "soundcloud": "darrellscottofficial/youll-never-leave-harlan-alive",
     "spotify": "5VcSOvhYeR0Jg50aD1qQcl",
@@ -13,5 +13,15 @@
   "lastfmId": "Darrell+Scott/_/You%27ll+Never+Leave+Harlan+Alive",
   "listeners": 10340,
   "playcount": 49659,
-  "artistMbid": "98063361-cdd8-4a9e-b95c-1f29bff780d6"
+  "artistMbid": "98063361-cdd8-4a9e-b95c-1f29bff780d6",
+  "musicbrainz": {
+    "artistTags": [
+      "country",
+      "folk"
+    ],
+    "artistGenres": [
+      "country",
+      "folk"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "_u-7rWKnVVo",
   "title": "Lux Æterna",
   "artist": "Metallica",
-  "lastFetched": "2025-11-19T11:37:59.507Z",
+  "lastFetched": "2025-11-23T16:42:59.077Z",
   "odesli": {
     "amazonMusic": "B0BNFCMTQ6",
     "amazonStore": "B0BNFCMTQ6",
@@ -26,5 +26,20 @@
   "listeners": 237451,
   "playcount": 1876028,
   "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
-  "lastfmSummary": "Heavy metal giants Metallica consisting of frontman James Hetfield, drummer Lars Ulrich, guitarist Kirk Hammett and bassist Rob Trujillo have unveiled a video for their new single “Lux Æterna” from their studio album '72 Seasons, released on April 14, 2023. \"Lux Æterna\" is Latin for \"eternal light\" and part of the Catholic requiem mass. <a href=\"http://www.last.fm/music/Metallica/_/Lux+%C3%86terna\">Read more on Last.fm</a>."
+  "lastfmSummary": "Heavy metal giants Metallica consisting of frontman James Hetfield, drummer Lars Ulrich, guitarist Kirk Hammett and bassist Rob Trujillo have unveiled a video for their new single “Lux Æterna” from their studio album '72 Seasons, released on April 14, 2023. \"Lux Æterna\" is Latin for \"eternal light\" and part of the Catholic requiem mass. <a href=\"http://www.last.fm/music/Metallica/_/Lux+%C3%86terna\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "american",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "thrash metal"
+    ],
+    "artistGenres": [
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "thrash metal"
+    ]
+  }
 }

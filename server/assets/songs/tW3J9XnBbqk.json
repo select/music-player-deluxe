@@ -6,7 +6,7 @@
   "releaseCount": 1,
   "duration": 363,
   "youtubeId": "tW3J9XnBbqk",
-  "lastFetched": "2025-11-19T05:21:59.878Z",
+  "lastFetched": "2025-11-23T16:52:06.911Z",
   "odesli": {
     "amazonMusic": "B06ZXVY77P",
     "amazonStore": "B06ZXVY77P",
@@ -23,5 +23,26 @@
   },
   "lastfmId": "Gorillaz/_/Andromeda+(feat.+DRAM)+%5BPurple+Disco+Machine+Remix%5D",
   "listeners": 292,
-  "playcount": 1468
+  "playcount": 1468,
+  "musicbrainz": {
+    "artistTags": [
+      "alternative dance",
+      "alternative rock",
+      "art pop",
+      "british",
+      "electronic",
+      "electronica",
+      "electropop",
+      "fictional",
+      "fictitious artist",
+      "hip hop"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "alternative rock",
+      "art pop",
+      "electronic",
+      "electronica"
+    ]
+  }
 }

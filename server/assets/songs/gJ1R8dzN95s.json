@@ -2,7 +2,7 @@
   "youtubeId": "gJ1R8dzN95s",
   "title": "End Of Time",
   "artist": "Break",
-  "lastFetched": "2025-11-19T07:22:05.630Z",
+  "lastFetched": "2025-11-23T16:46:06.550Z",
   "odesli": {
     "soundcloud": "355794452",
     "tidal": "125978891",
@@ -13,5 +13,24 @@
   "lastfmId": "Break/_/End+Of+Time",
   "listeners": 506,
   "playcount": 1137,
-  "artistMbid": "62ce9272-0d54-4ecf-b03b-e7992ae0d320"
+  "artistMbid": "62ce9272-0d54-4ecf-b03b-e7992ae0d320",
+  "musicbrainz": {
+    "artistTags": [
+      "dance",
+      "deep tech",
+      "drum and bass",
+      "electronic",
+      "house",
+      "jungle",
+      "liquid funk",
+      "pop"
+    ],
+    "artistGenres": [
+      "dance",
+      "deep tech",
+      "drum and bass",
+      "electronic",
+      "house"
+    ]
+  }
 }

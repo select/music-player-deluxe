@@ -2,7 +2,7 @@
   "youtubeId": "k64EH1m1NOw",
   "title": "Articulation",
   "artist": "Rival Consoles",
-  "lastFetched": "2025-11-19T16:00:47.117Z",
+  "lastFetched": "2025-11-23T16:47:26.239Z",
   "odesli": {
     "amazonMusic": "B088JBRTZY",
     "amazonStore": "B088JBRTZY",
@@ -19,5 +19,13 @@
   "lastfmId": "Rival+Consoles/_/Articulation",
   "listeners": 28558,
   "playcount": 113258,
-  "artistMbid": "803f2853-7e3e-4dff-96a7-9f77b5f56de5"
+  "artistMbid": "803f2853-7e3e-4dff-96a7-9f77b5f56de5",
+  "musicbrainz": {
+    "artistTags": [
+      "electronic"
+    ],
+    "artistGenres": [
+      "electronic"
+    ]
+  }
 }

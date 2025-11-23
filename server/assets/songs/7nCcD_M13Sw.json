@@ -2,10 +2,18 @@
   "youtubeId": "7nCcD_M13Sw",
   "title": "Technical Difficulties",
   "artist": "Racer X",
-  "lastFetched": "2025-11-19T12:44:20.789Z",
+  "lastFetched": "2025-11-23T16:29:39.725Z",
   "mbid": "cbdbf0b0-c25d-3c0d-83ea-458a553232a4",
   "lastfmId": "Racer+X/_/Technical+Difficulties",
   "listeners": 66468,
   "playcount": 424615,
-  "artistMbid": "9943ae46-9fe3-4e01-91db-b27179ccf831"
+  "artistMbid": "9943ae46-9fe3-4e01-91db-b27179ccf831",
+  "musicbrainz": {
+    "artistTags": [
+      "heavy metal"
+    ],
+    "artistGenres": [
+      "heavy metal"
+    ]
+  }
 }

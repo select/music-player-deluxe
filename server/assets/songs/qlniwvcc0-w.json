@@ -2,7 +2,7 @@
   "youtubeId": "qlniwvcc0-w",
   "title": "God Knows We Tried",
   "artist": "Hugo Massien",
-  "lastFetched": "2025-11-19T11:10:59.246Z",
+  "lastFetched": "2025-11-23T16:50:47.770Z",
   "odesli": {
     "amazonMusic": "B08W2171JG",
     "amazonStore": "B08W2171JG",
@@ -24,5 +24,26 @@
   "lastfmId": "Hugo+Massien/_/God+Knows+We+Tried",
   "listeners": 6459,
   "playcount": 22164,
-  "artistMbid": "ac017afa-aa56-4856-9385-94c4a96f1aef"
+  "artistMbid": "ac017afa-aa56-4856-9385-94c4a96f1aef",
+  "musicbrainz": {
+    "artistTags": [
+      "bass",
+      "bassline",
+      "breakbeat",
+      "breaks",
+      "club",
+      "deep house",
+      "deep tech",
+      "electro",
+      "electronica",
+      "house"
+    ],
+    "artistGenres": [
+      "bassline",
+      "breakbeat",
+      "breaks",
+      "club",
+      "deep house"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "VD4PYP7WUCA",
   "title": "The Unforgiven III",
   "artist": "Metallica",
-  "lastFetched": "2025-11-19T15:14:03.201Z",
+  "lastFetched": "2025-11-23T16:40:46.775Z",
   "odesli": {
     "amazonMusic": "B07Y213L2G",
     "amazonStore": "B07Y213L2G",
@@ -26,5 +26,20 @@
   "listeners": 484519,
   "playcount": 4086397,
   "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
-  "lastfmSummary": "\"The Unforgiven III\" is a song by the heavy metal band Metallica and appears on the album Death Magnetic released in 2008. It is the second continuation of the song \"The Unforgiven \", which appears on the album Metallica. The song is precedent for the song \"The Unforgiven II\" (which makes appearance on the album Reload), which is the first sequel. Despite being part of the series, \"The Unforgiven III\" is structured similar to \"The Unforgiven\", containing a heavy verse and a soft chorus <a href=\"http://www.last.fm/music/Metallica/_/The+Unforgiven+III\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"The Unforgiven III\" is a song by the heavy metal band Metallica and appears on the album Death Magnetic released in 2008. It is the second continuation of the song \"The Unforgiven \", which appears on the album Metallica. The song is precedent for the song \"The Unforgiven II\" (which makes appearance on the album Reload), which is the first sequel. Despite being part of the series, \"The Unforgiven III\" is structured similar to \"The Unforgiven\", containing a heavy verse and a soft chorus <a href=\"http://www.last.fm/music/Metallica/_/The+Unforgiven+III\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "american",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "thrash metal"
+    ],
+    "artistGenres": [
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "thrash metal"
+    ]
+  }
 }

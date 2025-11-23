@@ -2,7 +2,7 @@
   "youtubeId": "_Waqn0jBG58",
   "title": "Machine Gun (16bit Remix)",
   "artist": "Noisia",
-  "lastFetched": "2025-11-19T05:53:58.462Z",
+  "lastFetched": "2025-11-23T16:42:44.768Z",
   "odesli": {
     "amazonMusic": "B00DWYBX3Y",
     "amazonStore": "B00DWYBX3Y",
@@ -18,5 +18,23 @@
   "lastfmId": "Noisia/_/Machine+Gun+(16bit+Remix)",
   "listeners": 49586,
   "playcount": 196471,
-  "artistMbid": "ec22a32b-acab-432e-a88c-ffe6ae68fa16"
+  "artistMbid": "ec22a32b-acab-432e-a88c-ffe6ae68fa16",
+  "musicbrainz": {
+    "artistTags": [
+      "drum and bass",
+      "dubstep",
+      "edm",
+      "electro house",
+      "electronic",
+      "halftime",
+      "neurofunk"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "dubstep",
+      "edm",
+      "electro house",
+      "electronic"
+    ]
+  }
 }

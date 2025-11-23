@@ -2,7 +2,7 @@
   "youtubeId": "BmpWw8dI1-Y",
   "title": "Mushin",
   "artist": "Dead Can Dance",
-  "lastFetched": "2025-11-19T11:22:45.241Z",
+  "lastFetched": "2025-11-23T16:31:20.601Z",
   "odesli": {
     "amazonMusic": "B095XJV6N2",
     "amazonStore": "B095XJV6N2",
@@ -19,5 +19,26 @@
   "lastfmId": "Dead+Can+Dance/_/Mushin",
   "listeners": 5554,
   "playcount": 12384,
-  "artistMbid": "ccda046a-2674-4f7d-97e6-f23d6c156432"
+  "artistMbid": "ccda046a-2674-4f7d-97e6-f23d6c156432",
+  "musicbrainz": {
+    "artistTags": [
+      "4ad",
+      "ambient",
+      "dark ambient",
+      "dark wave",
+      "darkwave",
+      "dream pop",
+      "ethereal wave",
+      "gothic",
+      "neoclassical dark wave",
+      "neoclassical darkwave"
+    ],
+    "artistGenres": [
+      "ambient",
+      "dark ambient",
+      "dark wave",
+      "dream pop",
+      "ethereal wave"
+    ]
+  }
 }

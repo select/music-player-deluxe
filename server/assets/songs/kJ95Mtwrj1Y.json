@@ -2,7 +2,7 @@
   "youtubeId": "kJ95Mtwrj1Y",
   "title": "More Than Machines",
   "artist": "Bush",
-  "lastFetched": "2025-11-19T08:06:27.033Z",
+  "lastFetched": "2025-11-23T16:47:35.823Z",
   "odesli": {
     "amazonMusic": "B0F199JM7C",
     "amazonStore": "B0F199JM7C",
@@ -20,5 +20,26 @@
   "lastfmId": "Bush/_/More+Than+Machines",
   "listeners": 24395,
   "playcount": 100673,
-  "artistMbid": "93ccd76c-3790-4435-a8bf-02bc26294b93"
+  "artistMbid": "93ccd76c-3790-4435-a8bf-02bc26294b93",
+  "musicbrainz": {
+    "artistTags": [
+      "90's alternative",
+      "alternative rock",
+      "british",
+      "english",
+      "grunge",
+      "hard rock",
+      "noise rock",
+      "post-grunge",
+      "post-hardcore",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "noise rock",
+      "post-grunge"
+    ]
+  }
 }

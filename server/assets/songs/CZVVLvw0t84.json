@@ -2,7 +2,7 @@
   "youtubeId": "CZVVLvw0t84",
   "title": "LC Full Blast",
   "artist": "Lucky Chops",
-  "lastFetched": "2025-11-19T17:11:57.485Z",
+  "lastFetched": "2025-11-23T16:31:37.504Z",
   "odesli": {
     "amazonMusic": "B0B94SL1MY",
     "amazonStore": "B0B94SL1MY",
@@ -24,5 +24,19 @@
   "lastfmId": "Lucky+Chops/_/LC+Full+Blast",
   "listeners": 1020,
   "playcount": 4706,
-  "artistMbid": "8ab73770-878d-4c67-803a-e89e59341324"
+  "artistMbid": "8ab73770-878d-4c67-803a-e89e59341324",
+  "musicbrainz": {
+    "artistTags": [
+      "brass band",
+      "funk",
+      "instrumental",
+      "jazz"
+    ],
+    "artistGenres": [
+      "brass band",
+      "funk",
+      "instrumental",
+      "jazz"
+    ]
+  }
 }

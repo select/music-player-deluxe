@@ -2,7 +2,7 @@
   "youtubeId": "vaIXj2VQHK0",
   "title": "Green Valley",
   "artist": "Puscifer",
-  "lastFetched": "2025-11-19T12:13:43.817Z",
+  "lastFetched": "2025-11-23T16:52:59.818Z",
   "odesli": {
     "amazonMusic": "B0DZV5L9JP",
     "amazonStore": "B0DZV5L9JP",
@@ -25,5 +25,26 @@
   "lastfmId": "Puscifer/_/Green+Valley",
   "listeners": 73479,
   "playcount": 558762,
-  "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22"
+  "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "ambient",
+      "experimental",
+      "experimental rock",
+      "industrial",
+      "industrial rock",
+      "post-industrial",
+      "progressive rock",
+      "rock",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "ambient",
+      "experimental",
+      "experimental rock",
+      "industrial"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "VvMCmcjBfkM",
   "title": "Front Left",
   "artist": "Amoss",
-  "lastFetched": "2025-11-19T08:30:55.204Z",
+  "lastFetched": "2025-11-23T16:40:56.775Z",
   "odesli": {
     "amazonMusic": "B0DWK8NSQS",
     "amazonStore": "B0DWK8NSQS",
@@ -16,5 +16,15 @@
   "lastfmId": "Amoss/_/Front+Left",
   "listeners": 785,
   "playcount": 2784,
-  "artistMbid": "cfd91deb-a9bd-43b8-a9c5-783fb5ce5a91"
+  "artistMbid": "cfd91deb-a9bd-43b8-a9c5-783fb5ce5a91",
+  "musicbrainz": {
+    "artistTags": [
+      "drum and bass",
+      "neurofunk"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "neurofunk"
+    ]
+  }
 }

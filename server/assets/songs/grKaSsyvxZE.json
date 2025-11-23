@@ -2,7 +2,7 @@
   "youtubeId": "grKaSsyvxZE",
   "title": "Through the Roof 'n' Underground",
   "artist": "Gogol Bordello",
-  "lastFetched": "2025-11-19T17:20:06.237Z",
+  "lastFetched": "2025-11-23T16:46:16.344Z",
   "odesli": {
     "amazonMusic": "B077YXW1LF",
     "amazonStore": "B077YXW1LF",
@@ -19,5 +19,17 @@
   "lastfmId": "Gogol+Bordello/_/Through+the+Roof+%27n%27+Underground",
   "listeners": 92417,
   "playcount": 557798,
-  "artistMbid": "f47fc54d-b334-4321-8218-00c5b11d4dd1"
+  "artistMbid": "f47fc54d-b334-4321-8218-00c5b11d4dd1",
+  "musicbrainz": {
+    "artistTags": [
+      "gypsy punk",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "gypsy punk",
+      "punk",
+      "rock"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ha-edv6PVqY",
   "title": "I'M ALRIGHT!",
   "artist": "Sportfreunde Stiller",
-  "lastFetched": "2025-11-19T07:32:16.657Z",
+  "lastFetched": "2025-11-23T16:46:33.126Z",
   "odesli": {
     "amazonMusic": "B09YJ4LZGL",
     "amazonStore": "B09YJ4LZGL",
@@ -18,5 +18,25 @@
   "lastfmId": "Sportfreunde+Stiller/_/I%27M+ALRIGHT%21",
   "listeners": 4150,
   "playcount": 14743,
-  "artistMbid": "35581de7-591f-424f-9c64-7b22fd45605e"
+  "artistMbid": "35581de7-591f-424f-9c64-7b22fd45605e",
+  "musicbrainz": {
+    "tags": [
+      "pop"
+    ],
+    "genres": [
+      "pop"
+    ],
+    "artistTags": [
+      "german",
+      "german-lyrics",
+      "indie pop",
+      "pop punk",
+      "pop rock"
+    ],
+    "artistGenres": [
+      "indie pop",
+      "pop punk",
+      "pop rock"
+    ]
+  }
 }

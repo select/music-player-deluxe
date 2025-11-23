@@ -2,7 +2,7 @@
   "youtubeId": "g1aYcGQwyq8",
   "title": "Gemedeira",
   "artist": "Amelinha",
-  "lastFetched": "2025-11-19T14:04:30.730Z",
+  "lastFetched": "2025-11-23T16:45:59.422Z",
   "odesli": {
     "amazonMusic": "B0084CDUYE",
     "amazonStore": "B0084CDUYE",
@@ -13,5 +13,13 @@
   "lastfmId": "Amelinha/_/Gemedeira",
   "listeners": 7614,
   "playcount": 29399,
-  "artistMbid": "1f2d992b-aed5-4290-a0ea-6c0b0097905c"
+  "artistMbid": "1f2d992b-aed5-4290-a0ea-6c0b0097905c",
+  "musicbrainz": {
+    "artistTags": [
+      "forró"
+    ],
+    "artistGenres": [
+      "forró"
+    ]
+  }
 }

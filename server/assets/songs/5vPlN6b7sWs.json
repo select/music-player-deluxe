@@ -2,10 +2,18 @@
   "youtubeId": "5vPlN6b7sWs",
   "title": "Ok Cool",
   "artist": "Yung Hurn",
-  "lastFetched": "2025-11-19T11:43:05.511Z",
+  "lastFetched": "2025-11-23T16:28:41.147Z",
   "mbid": "6526196a-a409-439f-a012-bd112dd640ba",
   "lastfmId": "Yung+Hurn/_/Ok+Cool",
   "listeners": 21714,
   "playcount": 197614,
-  "artistMbid": "6d447010-dc6c-4c7f-91cc-a201932a33dd"
+  "artistMbid": "6d447010-dc6c-4c7f-91cc-a201932a33dd",
+  "musicbrainz": {
+    "artistTags": [
+      "hip hop"
+    ],
+    "artistGenres": [
+      "hip hop"
+    ]
+  }
 }

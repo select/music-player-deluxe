@@ -2,7 +2,7 @@
   "youtubeId": "DQjAZHBSiJc",
   "title": "Musical Genocide",
   "artist": "Gregory Porter",
-  "lastFetched": "2025-11-19T17:22:38.348Z",
+  "lastFetched": "2025-11-23T16:32:22.385Z",
   "odesli": {
     "amazonMusic": "B0766CPJ5Q",
     "amazonStore": "B0766CPJ5Q",
@@ -22,5 +22,26 @@
   "lastfmId": "Gregory+Porter/_/Musical+Genocide",
   "listeners": 42908,
   "playcount": 169815,
-  "artistMbid": "7ac1e33f-0cdf-4e81-b914-41830700d746"
+  "artistMbid": "7ac1e33f-0cdf-4e81-b914-41830700d746",
+  "musicbrainz": {
+    "artistTags": [
+      "blues",
+      "contemporary jazz",
+      "easy listening",
+      "gospel",
+      "jazz",
+      "neo soul",
+      "soul",
+      "soul blues",
+      "soul jazz",
+      "standards"
+    ],
+    "artistGenres": [
+      "blues",
+      "contemporary jazz",
+      "easy listening",
+      "gospel",
+      "jazz"
+    ]
+  }
 }

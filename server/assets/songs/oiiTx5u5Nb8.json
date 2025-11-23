@@ -2,7 +2,7 @@
   "youtubeId": "oiiTx5u5Nb8",
   "title": "Lean Back (NGHTMRE Remix)",
   "artist": "Terror Squad",
-  "lastFetched": "2025-11-19T07:41:27.473Z",
+  "lastFetched": "2025-11-23T16:49:54.879Z",
   "odesli": {
     "amazonMusic": "B0718Z8W49",
     "amazonStore": "B0718Z8W49",
@@ -16,5 +16,15 @@
   "lastfmId": "Terror+Squad/_/Lean+Back+(NGHTMRE+Remix)",
   "listeners": 509,
   "playcount": 1548,
-  "artistMbid": "995d7339-ff57-498e-9c8e-faf955eba696"
+  "artistMbid": "995d7339-ff57-498e-9c8e-faf955eba696",
+  "musicbrainz": {
+    "artistTags": [
+      "gangsta rap",
+      "hip hop"
+    ],
+    "artistGenres": [
+      "gangsta rap",
+      "hip hop"
+    ]
+  }
 }

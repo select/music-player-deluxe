@@ -4,7 +4,7 @@
   "artist": "µ-Ziq",
   "duration": 317,
   "youtubeId": "xQreKaWXVMs",
-  "lastFetched": "2025-11-23T15:40:54.806Z",
+  "lastFetched": "2025-11-23T16:53:43.339Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0FM48JXYD",
@@ -23,5 +23,32 @@
   "lastfmId": "%C2%B5-Ziq/_/Escorial",
   "listeners": 4499,
   "playcount": 8157,
-  "artistMbid": "aae5b930-c59c-4509-81a1-4e65e8f424e4"
+  "artistMbid": "aae5b930-c59c-4509-81a1-4e65e8f424e4",
+  "musicbrainz": {
+    "tags": [
+      "ambient",
+      "electronic"
+    ],
+    "genres": [
+      "ambient",
+      "electronic"
+    ],
+    "artistTags": [
+      "breaks",
+      "british",
+      "drill and bass",
+      "electronic",
+      "experimental",
+      "idm",
+      "jungle",
+      "uk"
+    ],
+    "artistGenres": [
+      "breaks",
+      "drill and bass",
+      "electronic",
+      "experimental",
+      "idm"
+    ]
+  }
 }

@@ -4,10 +4,22 @@
   "artist": "Chet Baker",
   "duration": 577,
   "youtubeId": "DKVWp_Ekl44",
-  "lastFetched": "2025-11-19T05:23:31.661Z",
+  "lastFetched": "2025-11-23T16:32:15.888Z",
   "releaseCount": 1,
   "lastfmId": "Chet+Baker/_/Leaving",
   "listeners": 3585,
   "playcount": 10127,
-  "artistMbid": "1ba1d493-7114-45e2-b163-a36d49a0c065"
+  "artistMbid": "1ba1d493-7114-45e2-b163-a36d49a0c065",
+  "musicbrainz": {
+    "artistTags": [
+      "2008 universal fire victim",
+      "american",
+      "jazz",
+      "jazz and blues",
+      "west coast jazz"
+    ],
+    "artistGenres": [
+      "jazz"
+    ]
+  }
 }

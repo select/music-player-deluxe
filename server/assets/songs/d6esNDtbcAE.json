@@ -2,7 +2,7 @@
   "youtubeId": "d6esNDtbcAE",
   "title": "GIGACHAD",
   "artist": "Kai Wachi",
-  "lastFetched": "2025-11-19T06:19:30.996Z",
+  "lastFetched": "2025-11-23T16:44:37.759Z",
   "odesli": {
     "amazonMusic": "B09SBVZNJY",
     "amazonStore": "B09SBVZNJY",
@@ -16,5 +16,16 @@
   "lastfmId": "Kai+Wachi/_/GIGACHAD",
   "listeners": 4354,
   "playcount": 23441,
-  "artistMbid": "5cfd01c7-f308-4aa6-a489-36a43aeee525"
+  "artistMbid": "5cfd01c7-f308-4aa6-a489-36a43aeee525",
+  "musicbrainz": {
+    "artistTags": [
+      "dubstep",
+      "electronic",
+      "skull on cover"
+    ],
+    "artistGenres": [
+      "dubstep",
+      "electronic"
+    ]
+  }
 }

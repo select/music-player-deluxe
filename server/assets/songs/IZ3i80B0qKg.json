@@ -2,7 +2,7 @@
   "youtubeId": "IZ3i80B0qKg",
   "title": "BYE BYE",
   "artist": "Kim Gordon",
-  "lastFetched": "2025-11-19T16:25:52.647Z",
+  "lastFetched": "2025-11-23T16:34:52.444Z",
   "odesli": {
     "amazonMusic": "B0CQXGB9D4",
     "amazonStore": "B0CQXGB9D4",
@@ -24,5 +24,19 @@
   "lastfmId": "Kim+Gordon/_/BYE+BYE",
   "listeners": 76028,
   "playcount": 303894,
-  "artistMbid": "19301485-ac9c-4dad-885b-cd8e8c8b4184"
+  "artistMbid": "19301485-ac9c-4dad-885b-cd8e8c8b4184",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "experimental rock",
+      "indie rock",
+      "noise rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "experimental rock",
+      "indie rock",
+      "noise rock"
+    ]
+  }
 }

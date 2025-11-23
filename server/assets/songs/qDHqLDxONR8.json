@@ -2,7 +2,7 @@
   "youtubeId": "qDHqLDxONR8",
   "title": "Cool Out",
   "artist": "Leroy Hutson",
-  "lastFetched": "2025-11-19T16:49:54.353Z",
+  "lastFetched": "2025-11-23T16:50:35.625Z",
   "odesli": {
     "amazonMusic": "B07KMPJ341",
     "amazonStore": "B07KMPJ341",
@@ -15,5 +15,13 @@
   "lastfmId": "Leroy+Hutson/_/Cool+Out",
   "listeners": 92249,
   "playcount": 261779,
-  "artistMbid": "410b8630-2fd5-4368-8a5b-dbc5e82f6b1c"
+  "artistMbid": "410b8630-2fd5-4368-8a5b-dbc5e82f6b1c",
+  "musicbrainz": {
+    "artistTags": [
+      "soul"
+    ],
+    "artistGenres": [
+      "soul"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "V2kWUJkRvVs",
   "title": "The Foundations of Decay",
   "artist": "My Chemical Romance",
-  "lastFetched": "2025-11-19T07:29:14.281Z",
+  "lastFetched": "2025-11-23T16:40:40.178Z",
   "odesli": {
     "amazonMusic": "B09ZVLVFDZ",
     "amazonStore": "B09ZVLVFDZ",
@@ -25,5 +25,26 @@
   "listeners": 304641,
   "playcount": 3930301,
   "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
-  "lastfmSummary": "“The Foundations of Decay” is a single released on May 12, 2022.\n\nThis was their first release in over eight years after \"Fake Your Death\".\n\nThe single was released without warning or build up, followed with post from the band’s Instagram, featuring nothing but the album’s cover and a link to the track.\n(Visualizer and Cover by Aaron Hymes) <a href=\"http://www.last.fm/music/My+Chemical+Romance/_/The+Foundations+of+Decay\">Read more on Last.fm</a>."
+  "lastfmSummary": "“The Foundations of Decay” is a single released on May 12, 2022.\n\nThis was their first release in over eight years after \"Fake Your Death\".\n\nThe single was released without warning or build up, followed with post from the band’s Instagram, featuring nothing but the album’s cover and a link to the track.\n(Visualizer and Cover by Aaron Hymes) <a href=\"http://www.last.fm/music/My+Chemical+Romance/_/The+Foundations+of+Decay\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative",
+      "alternative rock",
+      "emo",
+      "emo pop",
+      "hard rock",
+      "indie rock",
+      "pop punk",
+      "post-hardcore",
+      "post-punk revival",
+      "power pop"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "emo",
+      "emo pop",
+      "hard rock",
+      "indie rock"
+    ]
+  }
 }

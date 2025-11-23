@@ -2,7 +2,7 @@
   "youtubeId": "mbf9aLD8E8M",
   "title": "Mouhamadou Bamba",
   "artist": "Orchestra Baobab",
-  "lastFetched": "2025-11-19T15:12:31.912Z",
+  "lastFetched": "2025-11-23T16:48:50.067Z",
   "odesli": {
     "amazonMusic": "B0815RSL85",
     "amazonStore": "B0815RSL85",
@@ -17,5 +17,11 @@
   "lastfmId": "Orchestra+Baobab/_/Mouhamadou+Bamba",
   "listeners": 37619,
   "playcount": 122374,
-  "artistMbid": "30331c85-26d4-4daa-9f66-3075cac4c20b"
+  "artistMbid": "30331c85-26d4-4daa-9f66-3075cac4c20b",
+  "musicbrainz": {
+    "artistTags": [
+      "afro-cuban",
+      "world"
+    ]
+  }
 }

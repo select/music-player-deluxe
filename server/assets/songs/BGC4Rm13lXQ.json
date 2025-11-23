@@ -2,7 +2,7 @@
   "youtubeId": "BGC4Rm13lXQ",
   "title": "Hour of Parting",
   "artist": "Sun Ra",
-  "lastFetched": "2025-11-19T16:41:14.464Z",
+  "lastFetched": "2025-11-23T16:31:05.798Z",
   "odesli": {
     "amazonMusic": "B0C63PHJ3C",
     "amazonStore": "B0C63PHJ3C",
@@ -25,5 +25,26 @@
   "lastfmId": "Sun+Ra/_/Hour+of+Parting",
   "listeners": 49928,
   "playcount": 182742,
-  "artistMbid": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d"
+  "artistMbid": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
+  "musicbrainz": {
+    "artistTags": [
+      "2008 universal fire victim",
+      "american",
+      "avant-garde jazz",
+      "electronic",
+      "free improvisation",
+      "free jazz",
+      "hard bop",
+      "jazz",
+      "jazz and blues",
+      "jazz fusion"
+    ],
+    "artistGenres": [
+      "avant-garde jazz",
+      "electronic",
+      "free improvisation",
+      "free jazz",
+      "hard bop"
+    ]
+  }
 }

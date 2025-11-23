@@ -2,7 +2,7 @@
   "youtubeId": "7Oe3p9lUqCg",
   "title": "Liquid Light",
   "artist": "Butcher Brown",
-  "lastFetched": "2025-11-19T09:58:40.927Z",
+  "lastFetched": "2025-11-23T16:29:30.356Z",
   "odesli": {
     "amazonMusic": "B0B3SDXFV6",
     "amazonStore": "B0B3SDXFV6",
@@ -16,5 +16,17 @@
   "lastfmId": "Butcher+Brown/_/Liquid+Light",
   "listeners": 5879,
   "playcount": 17850,
-  "artistMbid": "c0937ba4-6869-456b-afd0-10335ae50245"
+  "artistMbid": "c0937ba4-6869-456b-afd0-10335ae50245",
+  "musicbrainz": {
+    "artistTags": [
+      "funk",
+      "hip hop",
+      "jazz"
+    ],
+    "artistGenres": [
+      "funk",
+      "hip hop",
+      "jazz"
+    ]
+  }
 }

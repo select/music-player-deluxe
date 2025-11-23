@@ -2,7 +2,7 @@
   "youtubeId": "xREl_68O-mw",
   "title": "Bologna",
   "artist": "Wanda",
-  "lastFetched": "2025-11-19T01:37:30.460Z",
+  "lastFetched": "2025-11-23T16:53:45.889Z",
   "odesli": {
     "amazonMusic": "B0D7P9452J",
     "amazonStore": "B0D7P9452J",
@@ -16,5 +16,10 @@
   "lastfmId": "Wanda/_/Bologna",
   "listeners": 44565,
   "playcount": 410462,
-  "artistMbid": "85417c84-b3a4-426e-92ad-ac7c1943b6a9"
+  "artistMbid": "85417c84-b3a4-426e-92ad-ac7c1943b6a9",
+  "musicbrainz": {
+    "artistTags": [
+      "aln-sh"
+    ]
+  }
 }

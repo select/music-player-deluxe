@@ -2,7 +2,7 @@
   "youtubeId": "YgUTRUs9Lxg",
   "title": "Nobody Girl",
   "artist": "Ryan Adams",
-  "lastFetched": "2025-11-19T15:14:33.704Z",
+  "lastFetched": "2025-11-23T16:42:11.364Z",
   "odesli": {
     "amazonMusic": "B000V9AVMM",
     "amazonStore": "B000V9AVMM",
@@ -24,5 +24,25 @@
   "lastfmId": "Ryan+Adams/_/Nobody+Girl",
   "listeners": 83488,
   "playcount": 360189,
-  "artistMbid": "c80f38a6-9980-485d-997c-5c1a9cbd0d64"
+  "artistMbid": "c80f38a6-9980-485d-997c-5c1a9cbd0d64",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative country",
+      "alternative rock",
+      "american",
+      "americana",
+      "country",
+      "english",
+      "indie rock",
+      "rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "alternative country",
+      "alternative rock",
+      "americana",
+      "country",
+      "indie rock"
+    ]
+  }
 }

@@ -4,7 +4,7 @@
   "artist": "Ozzy Osbourne",
   "duration": 290,
   "youtubeId": "LCCiwPEdEpg",
-  "lastFetched": "2025-11-23T15:39:58.916Z",
+  "lastFetched": "2025-11-23T16:35:58.774Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B09HSPVPHQ",
@@ -23,5 +23,23 @@
     "youtube": "LCCiwPEdEpg",
     "youtubeMusic": "LCCiwPEdEpg"
   },
-  "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934"
+  "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+  "musicbrainz": {
+    "artistTags": [
+      "british",
+      "glam metal",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "pop rock",
+      "symphonic rock"
+    ],
+    "artistGenres": [
+      "glam metal",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "pop rock"
+    ]
+  }
 }

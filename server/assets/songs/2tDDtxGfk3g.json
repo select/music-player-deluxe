@@ -2,10 +2,31 @@
   "youtubeId": "2tDDtxGfk3g",
   "title": "Back In L.A.",
   "artist": "B.B. King",
-  "lastFetched": "2025-11-19T07:44:30.566Z",
+  "lastFetched": "2025-11-23T16:27:12.038Z",
   "mbid": "d9b1114c-8183-3e77-a9b9-56903f8217bd",
   "lastfmId": "B.B.+King/_/Back+In+L.A.",
   "listeners": 3077,
   "playcount": 9042,
-  "artistMbid": "dcb03ce3-67a5-4eb3-b2d1-2a12d93a38f3"
+  "artistMbid": "dcb03ce3-67a5-4eb3-b2d1-2a12d93a38f3",
+  "musicbrainz": {
+    "artistTags": [
+      "2008 universal fire victim",
+      "blues",
+      "blues rock",
+      "electric blues",
+      "filmore",
+      "jazz and blues",
+      "live",
+      "rhythm & blues",
+      "soul",
+      "soul blues"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "electric blues",
+      "soul",
+      "soul blues"
+    ]
+  }
 }

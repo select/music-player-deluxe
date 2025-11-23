@@ -2,7 +2,7 @@
   "youtubeId": "_USHKQ4Ntc8",
   "title": "Mothers Of The Sun",
   "artist": "Black Mountain",
-  "lastFetched": "2025-11-19T05:49:54.442Z",
+  "lastFetched": "2025-11-23T16:42:42.064Z",
   "odesli": {
     "amazonMusic": "B01ACDYVNQ",
     "amazonStore": "B01ACDYVNQ",
@@ -21,5 +21,21 @@
   "listeners": 37826,
   "playcount": 169101,
   "artistMbid": "4898b9ad-f564-4ff1-9046-b1a16dfd5200",
-  "lastfmSummary": "\"Mothers of the Sun\" was the first single (and video) release from Black Mountain's fourth LP, called \"IV\", scheduled to be released on April 1st 2016 via Jagjaguwar, as well as its opening track. \nThe track was released on February 11th and features characteristic eerie vocals, Sabbath-like heavy guitar riffs and psychedelic keyboards.\nThe video was directed and produced by Exquisite Corps. Productions, Ben Jacques and Justin Gradin and shot at Pigfreeze Studios (Vancouver, BC). <a href=\"http://www.last.fm/music/Black+Mountain/_/Mothers+Of+The+Sun\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Mothers of the Sun\" was the first single (and video) release from Black Mountain's fourth LP, called \"IV\", scheduled to be released on April 1st 2016 via Jagjaguwar, as well as its opening track. \nThe track was released on February 11th and features characteristic eerie vocals, Sabbath-like heavy guitar riffs and psychedelic keyboards.\nThe video was directed and produced by Exquisite Corps. Productions, Ben Jacques and Justin Gradin and shot at Pigfreeze Studios (Vancouver, BC). <a href=\"http://www.last.fm/music/Black+Mountain/_/Mothers+Of+The+Sun\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "canadian",
+      "classic pop and rock",
+      "indie rock",
+      "psychedelic",
+      "psychedelic rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "indie rock",
+      "psychedelic",
+      "psychedelic rock",
+      "rock"
+    ]
+  }
 }

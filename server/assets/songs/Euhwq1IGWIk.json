@@ -2,7 +2,7 @@
   "youtubeId": "Euhwq1IGWIk",
   "title": "Invisible Limits",
   "artist": "Tangerine Dream",
-  "lastFetched": "2025-11-19T14:21:54.275Z",
+  "lastFetched": "2025-11-23T16:33:11.109Z",
   "odesli": {
     "amazonMusic": "B004HAAY1Y",
     "amazonStore": "B004HAAY1Y",
@@ -16,5 +16,26 @@
   "lastfmId": "Tangerine+Dream/_/Invisible+Limits",
   "listeners": 29440,
   "playcount": 89433,
-  "artistMbid": "23d8426c-18c7-46e6-a51d-7395bd43c641"
+  "artistMbid": "23d8426c-18c7-46e6-a51d-7395bd43c641",
+  "musicbrainz": {
+    "artistTags": [
+      "ambient",
+      "berlin school",
+      "electronic",
+      "film score",
+      "german",
+      "iswcs pending",
+      "kosmische musik",
+      "krautrock",
+      "lily",
+      "new age"
+    ],
+    "artistGenres": [
+      "ambient",
+      "berlin school",
+      "electronic",
+      "krautrock",
+      "new age"
+    ]
+  }
 }

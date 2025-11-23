@@ -2,7 +2,7 @@
   "youtubeId": "Kyar2C_wEq8",
   "title": "Egg Man",
   "artist": "Beastie Boys",
-  "lastFetched": "2025-11-19T13:46:05.968Z",
+  "lastFetched": "2025-11-23T16:35:52.359Z",
   "odesli": {
     "amazonMusic": "B001QSQLWQ",
     "amazonStore": "B001QSQLWQ",
@@ -16,5 +16,26 @@
   "lastfmId": "Beastie+Boys/_/Egg+Man",
   "listeners": 229032,
   "playcount": 948761,
-  "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53"
+  "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative hip hop",
+      "alternative rock",
+      "east coast hip hop",
+      "experimental hip hop",
+      "funk",
+      "hardcore hip hop",
+      "hardcore punk",
+      "hip hop",
+      "mid-school hip hop",
+      "new york hardcore"
+    ],
+    "artistGenres": [
+      "alternative hip hop",
+      "alternative rock",
+      "east coast hip hop",
+      "experimental hip hop",
+      "funk"
+    ]
+  }
 }

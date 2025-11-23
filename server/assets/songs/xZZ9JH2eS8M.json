@@ -2,7 +2,7 @@
   "youtubeId": "xZZ9JH2eS8M",
   "title": "This Is What We Do",
   "artist": "Leftfield",
-  "lastFetched": "2025-11-19T10:23:06.836Z",
+  "lastFetched": "2025-11-23T16:53:47.844Z",
   "odesli": {
     "amazonMusic": "B0B6WCWJ4S",
     "amazonStore": "B0B6WCWJ4S",
@@ -25,5 +25,26 @@
   "lastfmId": "Leftfield/_/This+Is+What+We+Do",
   "listeners": 6302,
   "playcount": 18949,
-  "artistMbid": "369fbad4-6fa4-4dae-9842-a69826cd359d"
+  "artistMbid": "369fbad4-6fa4-4dae-9842-a69826cd359d",
+  "musicbrainz": {
+    "artistTags": [
+      "british",
+      "downtempo",
+      "dub",
+      "electronic",
+      "electronica",
+      "english",
+      "leftfield",
+      "progressive house",
+      "trip hop",
+      "uk"
+    ],
+    "artistGenres": [
+      "downtempo",
+      "dub",
+      "electronic",
+      "electronica",
+      "leftfield"
+    ]
+  }
 }

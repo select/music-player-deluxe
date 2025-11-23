@@ -2,7 +2,7 @@
   "youtubeId": "mWCNdsO12aA",
   "title": "echt von unten / zoé freestyle",
   "artist": "Casper",
-  "lastFetched": "2025-11-19T13:13:24.763Z",
+  "lastFetched": "2025-11-23T16:48:47.811Z",
   "odesli": {
     "amazonMusic": "B0CGY6H597",
     "amazonStore": "B0CGY6H597",
@@ -17,5 +17,25 @@
   "lastfmId": "Casper/_/echt+von+unten+%2F+zo%C3%A9+freestyle",
   "listeners": 6279,
   "playcount": 49785,
-  "artistMbid": "fd3ff7a2-e1d2-4486-9d25-cb9d69fa084c"
+  "artistMbid": "fd3ff7a2-e1d2-4486-9d25-cb9d69fa084c",
+  "musicbrainz": {
+    "artistTags": [
+      "emo rap",
+      "german alternative rap",
+      "german hip hop",
+      "german pop",
+      "hip hop",
+      "indie rock",
+      "industrial hip hop",
+      "pop rap",
+      "rap rock"
+    ],
+    "artistGenres": [
+      "emo rap",
+      "hip hop",
+      "indie rock",
+      "industrial hip hop",
+      "pop rap"
+    ]
+  }
 }

@@ -4,7 +4,7 @@
   "artist": "Mandidextrous",
   "duration": 223,
   "youtubeId": "84NDOid_-Cc",
-  "lastFetched": "2025-11-23T15:39:39.071Z",
+  "lastFetched": "2025-11-23T16:29:49.473Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0CPQ6T9XR",
@@ -26,5 +26,15 @@
   "lastfmId": "Mandidextrous/_/Deep+On+This",
   "listeners": 4865,
   "playcount": 20225,
-  "artistMbid": "c1c2604f-96ba-4784-b717-190f7bff01f8"
+  "artistMbid": "c1c2604f-96ba-4784-b717-190f7bff01f8",
+  "musicbrainz": {
+    "artistTags": [
+      "drum and bass",
+      "modern hardtek"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "modern hardtek"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "nDBdrXo4Nw0",
   "title": "Threatening War",
   "artist": "The Pineapple Thief",
-  "lastFetched": "2025-11-19T13:35:54.016Z",
+  "lastFetched": "2025-11-23T16:49:09.197Z",
   "odesli": {
     "soundcloud": "thepineapplethief/threatening-war",
     "tidal": "192873495",
@@ -13,5 +13,19 @@
   "lastfmId": "The+Pineapple+Thief/_/Threatening+War",
   "listeners": 16294,
   "playcount": 97659,
-  "artistMbid": "e8f55abb-a6d5-4e5f-81b4-14f9cc320519"
+  "artistMbid": "e8f55abb-a6d5-4e5f-81b4-14f9cc320519",
+  "musicbrainz": {
+    "artistTags": [
+      "british",
+      "crossover prog",
+      "english",
+      "progressive rock",
+      "stadium rock",
+      "uk"
+    ],
+    "artistGenres": [
+      "crossover prog",
+      "progressive rock"
+    ]
+  }
 }

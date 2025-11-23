@@ -2,7 +2,7 @@
   "youtubeId": "fP2r59XMMvM",
   "title": "Bomb 20",
   "artist": "Disrupt",
-  "lastFetched": "2025-11-19T14:34:10.217Z",
+  "lastFetched": "2025-11-23T16:45:35.912Z",
   "odesli": {
     "pandora": "TR:10283313",
     "soundcloud": "disruptofficial/bomb-20",
@@ -14,5 +14,13 @@
   "lastfmId": "Disrupt/_/Bomb+20",
   "listeners": 9103,
   "playcount": 26314,
-  "artistMbid": "5fffffdf-90d2-4e77-a12d-ea1ab24bd2b9"
+  "artistMbid": "5fffffdf-90d2-4e77-a12d-ea1ab24bd2b9",
+  "musicbrainz": {
+    "artistTags": [
+      "dub"
+    ],
+    "artistGenres": [
+      "dub"
+    ]
+  }
 }

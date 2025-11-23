@@ -2,7 +2,7 @@
   "youtubeId": "NdYWuo9OFAw",
   "title": "Iris",
   "artist": "Goo Goo Dolls",
-  "lastFetched": "2025-11-19T04:17:22.593Z",
+  "lastFetched": "2025-11-23T16:36:59.692Z",
   "odesli": {
     "amazonMusic": "B001NS5LMA",
     "amazonStore": "B001NS5LMA",
@@ -26,5 +26,26 @@
   "listeners": 1090149,
   "playcount": 8445631,
   "artistMbid": "e2c00c56-8365-4160-9f40-a64682917633",
-  "lastfmSummary": "“Iris” was written for the 1998 film City of Angels starring Nicolas Cage. John Rzeznik explained:\n\nWhen I wrote it, I was thinking about the situation of the Nicolas Cage character in the movie. This guy is completely willing to give up his own immortality, just to be able to feel something very human. And I think, ‘Wow! What an amazing thing it must be like to love someone so much that you give up everything to be with them.’ That’s a pretty heavy thought. <a href=\"http://www.last.fm/music/Goo+Goo+Dolls/_/Iris\">Read more on Last.fm</a>."
+  "lastfmSummary": "“Iris” was written for the 1998 film City of Angels starring Nicolas Cage. John Rzeznik explained:\n\nWhen I wrote it, I was thinking about the situation of the Nicolas Cage character in the movie. This guy is completely willing to give up his own immortality, just to be able to feel something very human. And I think, ‘Wow! What an amazing thing it must be like to love someone so much that you give up everything to be with them.’ That’s a pretty heavy thought. <a href=\"http://www.last.fm/music/Goo+Goo+Dolls/_/Iris\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "'",
+      "acoustic rock",
+      "alternative rock",
+      "hardcore punk",
+      "jangle pop",
+      "pop punk",
+      "pop rock",
+      "post-grunge",
+      "power pop",
+      "punk rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative rock",
+      "hardcore punk",
+      "jangle pop",
+      "pop punk"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "sGwd0qs9W4w",
   "title": "Willow Weep for Me",
   "artist": "Stanley Turrentine",
-  "lastFetched": "2025-11-19T09:16:14.518Z",
+  "lastFetched": "2025-11-23T16:51:35.817Z",
   "odesli": {
     "amazonMusic": "B000TRXAO2",
     "amazonStore": "B000TRXAO2",
@@ -21,5 +21,20 @@
   "lastfmId": "Stanley+Turrentine/_/Willow+Weep+for+Me",
   "listeners": 12462,
   "playcount": 31393,
-  "artistMbid": "51e0df97-1fe2-401c-ba92-9f854b7831c3"
+  "artistMbid": "51e0df97-1fe2-401c-ba92-9f854b7831c3",
+  "musicbrainz": {
+    "artistTags": [
+      "2008 universal fire victim",
+      "hard bop",
+      "jazz",
+      "jazz fusion",
+      "soul jazz"
+    ],
+    "artistGenres": [
+      "hard bop",
+      "jazz",
+      "jazz fusion",
+      "soul jazz"
+    ]
+  }
 }

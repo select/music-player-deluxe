@@ -2,7 +2,7 @@
   "youtubeId": "zug1B8DSkWw",
   "title": "Sisyphus",
   "artist": "Andrew Bird",
-  "lastFetched": "2025-11-19T08:32:27.213Z",
+  "lastFetched": "2025-11-23T16:55:04.731Z",
   "odesli": {
     "amazonMusic": "B07N85B5C5",
     "amazonStore": "B07N85B5C5",
@@ -20,5 +20,21 @@
   "lastfmId": "Andrew+Bird/_/Sisyphus",
   "listeners": 208820,
   "playcount": 1339442,
-  "artistMbid": "081b133e-ce74-42ba-92c1-c18234acb532"
+  "artistMbid": "081b133e-ce74-42ba-92c1-c18234acb532",
+  "musicbrainz": {
+    "artistTags": [
+      "baroque pop",
+      "folk rock",
+      "indie folk",
+      "indie pop",
+      "indie rock"
+    ],
+    "artistGenres": [
+      "baroque pop",
+      "folk rock",
+      "indie folk",
+      "indie pop",
+      "indie rock"
+    ]
+  }
 }

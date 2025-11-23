@@ -2,7 +2,7 @@
   "youtubeId": "k3ZaLSI0zpQ",
   "title": "Flucht",
   "artist": "Tapete",
-  "lastFetched": "2025-11-19T06:40:22.362Z",
+  "lastFetched": "2025-11-23T16:47:20.969Z",
   "odesli": {
     "amazonMusic": "B09VK1W5M4",
     "amazonStore": "B09VK1W5M4",
@@ -23,5 +23,13 @@
   "lastfmId": "Tapete/_/Flucht",
   "listeners": 23,
   "playcount": 84,
-  "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3"
+  "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3",
+  "musicbrainz": {
+    "artistTags": [
+      "hip hop"
+    ],
+    "artistGenres": [
+      "hip hop"
+    ]
+  }
 }

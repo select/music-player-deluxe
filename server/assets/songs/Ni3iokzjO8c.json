@@ -2,10 +2,19 @@
   "youtubeId": "Ni3iokzjO8c",
   "title": "Homer Flip",
   "artist": "Dexter",
-  "lastFetched": "2025-11-19T14:33:09.450Z",
+  "lastFetched": "2025-11-23T16:37:02.057Z",
   "mbid": "81ce9e15-c592-4c45-b5e9-b81fd9129eaf",
   "lastfmId": "Dexter/_/Homer+Flip",
   "listeners": 220,
   "playcount": 828,
-  "artistMbid": "0b093476-5b0f-44fa-b8a5-f18af4b83ee4"
+  "artistMbid": "0b093476-5b0f-44fa-b8a5-f18af4b83ee4",
+  "musicbrainz": {
+    "artistTags": [
+      "hip hop",
+      "producer"
+    ],
+    "artistGenres": [
+      "hip hop"
+    ]
+  }
 }

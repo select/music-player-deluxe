@@ -2,7 +2,7 @@
   "youtubeId": "uhE0j5mj1zE",
   "title": "Latino",
   "artist": "Herbert Pixner Projekt",
-  "lastFetched": "2025-11-19T06:12:53.373Z",
+  "lastFetched": "2025-11-23T16:52:40.346Z",
   "odesli": {
     "amazonMusic": "B01N4NKE90",
     "amazonStore": "B01N4NKE90",
@@ -22,5 +22,15 @@
   "lastfmId": "Herbert+Pixner+Projekt/_/Latino",
   "listeners": 424,
   "playcount": 1815,
-  "artistMbid": "e2360a56-f63a-4589-9295-f83130b563c5"
+  "artistMbid": "e2360a56-f63a-4589-9295-f83130b563c5",
+  "musicbrainz": {
+    "artistTags": [
+      "accordion",
+      "folk",
+      "world"
+    ],
+    "artistGenres": [
+      "folk"
+    ]
+  }
 }

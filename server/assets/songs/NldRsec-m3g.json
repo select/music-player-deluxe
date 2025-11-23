@@ -2,7 +2,7 @@
   "youtubeId": "NldRsec-m3g",
   "title": "Into States Of Consciousness",
   "artist": "Saafi Brothers",
-  "lastFetched": "2025-11-19T16:34:35.508Z",
+  "lastFetched": "2025-11-23T16:37:04.434Z",
   "odesli": {
     "amazonMusic": "B07BV45BC3",
     "amazonStore": "B07BV45BC3",
@@ -16,5 +16,19 @@
   "lastfmId": "Saafi+Brothers/_/Into+States+Of+Consciousness",
   "listeners": 5489,
   "playcount": 19029,
-  "artistMbid": "fe659d71-d824-4e79-a616-73d0328c7178"
+  "artistMbid": "fe659d71-d824-4e79-a616-73d0328c7178",
+  "musicbrainz": {
+    "artistTags": [
+      "ambient dub",
+      "downtempo",
+      "electronica",
+      "psytrance"
+    ],
+    "artistGenres": [
+      "ambient dub",
+      "downtempo",
+      "electronica",
+      "psytrance"
+    ]
+  }
 }

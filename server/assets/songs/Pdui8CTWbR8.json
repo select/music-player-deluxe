@@ -2,7 +2,7 @@
   "youtubeId": "Pdui8CTWbR8",
   "title": "Island",
   "artist": "Heather Nova",
-  "lastFetched": "2025-11-19T16:00:16.508Z",
+  "lastFetched": "2025-11-23T16:37:52.585Z",
   "odesli": {
     "amazonMusic": "B00138FW9M",
     "amazonStore": "B00138FW9M",
@@ -24,5 +24,20 @@
   "lastfmId": "Heather+Nova/_/Island",
   "listeners": 56704,
   "playcount": 177678,
-  "artistMbid": "d048022b-8e7a-48b4-be28-638922556639"
+  "artistMbid": "d048022b-8e7a-48b4-be28-638922556639",
+  "musicbrainz": {
+    "artistTags": [
+      "classic pop and rock",
+      "folk rock",
+      "indie rock",
+      "pop rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "folk rock",
+      "indie rock",
+      "pop rock",
+      "singer-songwriter"
+    ]
+  }
 }

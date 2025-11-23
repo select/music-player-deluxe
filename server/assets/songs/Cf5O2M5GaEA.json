@@ -2,7 +2,7 @@
   "youtubeId": "Cf5O2M5GaEA",
   "title": "The Way I Tend To Be",
   "artist": "Frank Turner",
-  "lastFetched": "2025-11-19T07:53:42.485Z",
+  "lastFetched": "2025-11-23T16:31:39.723Z",
   "odesli": {
     "amazonMusic": "B00CBULU0G",
     "amazonStore": "B00CBULU0G",
@@ -17,5 +17,24 @@
   "lastfmId": "Frank+Turner/_/The+Way+I+Tend+To+Be",
   "listeners": 81169,
   "playcount": 630492,
-  "artistMbid": "aca5718f-4f49-4439-b8f6-209db3f11757"
+  "artistMbid": "aca5718f-4f49-4439-b8f6-209db3f11757",
+  "musicbrainz": {
+    "artistTags": [
+      "acoustic punk",
+      "acoustic rock",
+      "alternative",
+      "folk",
+      "folk punk",
+      "indie",
+      "punk",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "folk",
+      "folk punk",
+      "punk",
+      "singer-songwriter"
+    ]
+  }
 }

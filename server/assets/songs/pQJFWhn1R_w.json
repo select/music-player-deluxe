@@ -2,7 +2,7 @@
   "youtubeId": "pQJFWhn1R_w",
   "title": "Alabama Song (Whisky Bar)",
   "artist": "The Doors",
-  "lastFetched": "2025-11-19T08:19:42.995Z",
+  "lastFetched": "2025-11-23T16:50:23.794Z",
   "odesli": {
     "amazonMusic": "B0018AT21O",
     "amazonStore": "B0018AT21O",
@@ -18,5 +18,43 @@
   "listeners": 524334,
   "playcount": 2953255,
   "artistMbid": "9efff43b-3b29-4082-824e-bc82f646f93d",
-  "lastfmSummary": "The song was recorded in 1966 by the rock group The Doors, listed as \"Alabama Song (Whisky Bar).\". The lead singer of The Doors, Jim Morrison, changed the second verse from:\n\n\"Show us the way to the next pretty boy\" to \"Show me the way to the next little girl\". Although on the 1967 Live at the Matrix recording, he sings \"... next little boy\".\n\nIn addition, the verse from the original, \"Show me the way to the next little dollar\" is omitted. The melody of the verses is also changed. <a href=\"http://www.last.fm/music/The+Doors/_/Alabama+Song+(Whisky+Bar)\">Read more on Last.fm</a>."
+  "lastfmSummary": "The song was recorded in 1966 by the rock group The Doors, listed as \"Alabama Song (Whisky Bar).\". The lead singer of The Doors, Jim Morrison, changed the second verse from:\n\n\"Show us the way to the next pretty boy\" to \"Show me the way to the next little girl\". Although on the 1967 Live at the Matrix recording, he sings \"... next little boy\".\n\nIn addition, the verse from the original, \"Show me the way to the next little dollar\" is omitted. The melody of the verses is also changed. <a href=\"http://www.last.fm/music/The+Doors/_/Alabama+Song+(Whisky+Bar)\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "acid rock",
+      "album rock",
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "psychedelic rock",
+      "rock",
+      "rock music"
+    ],
+    "genres": [
+      "acid rock",
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "psychedelic rock"
+    ],
+    "artistTags": [
+      "acid rock",
+      "album rock",
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "contemporary pop/rock",
+      "gothic",
+      "gothic rock",
+      "hard rock",
+      "pop"
+    ],
+    "artistGenres": [
+      "acid rock",
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "gothic"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ysYyCElzB0A",
   "title": "I Love Your Smile",
   "artist": "Shanice",
-  "lastFetched": "2025-11-19T15:46:39.686Z",
+  "lastFetched": "2025-11-23T16:54:33.404Z",
   "odesli": {
     "amazonMusic": "B001NZG9FQ",
     "amazonStore": "B001NZG9FQ",
@@ -20,5 +20,21 @@
   "listeners": 199138,
   "playcount": 744506,
   "artistMbid": "1d0a249b-5892-4e09-b50d-3c0755bfae77",
-  "lastfmSummary": "I Love Your Smile\" is a hit single recorded by Pop/R&B singer Shanice and released in 1991 as the first single from her album Inner Child. The song features saxophonist Branford Marsalis. It met success in many countries, including U.S. \"I Love Your Smile\" peaked at number two on the Billboard Hot 100, blocked by Right Said Fred's \"I'm Too Sexy\" and topped the Billboard Hot R&B/Hip-Hop Singles & Tracks. In the Netherlands, the song peaked at the top of the Dutch Top 40. <a href=\"http://www.last.fm/music/Shanice/_/I+Love+Your+Smile\">Read more on Last.fm</a>."
+  "lastfmSummary": "I Love Your Smile\" is a hit single recorded by Pop/R&B singer Shanice and released in 1991 as the first single from her album Inner Child. The song features saxophonist Branford Marsalis. It met success in many countries, including U.S. \"I Love Your Smile\" peaked at number two on the Billboard Hot 100, blocked by Right Said Fred's \"I'm Too Sexy\" and topped the Billboard Hot R&B/Hip-Hop Singles & Tracks. In the Netherlands, the song peaked at the top of the Dutch Top 40. <a href=\"http://www.last.fm/music/Shanice/_/I+Love+Your+Smile\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "contemporary r&b",
+      "dance-pop",
+      "pop",
+      "pop soul",
+      "soul"
+    ],
+    "artistGenres": [
+      "contemporary r&b",
+      "dance-pop",
+      "pop",
+      "pop soul",
+      "soul"
+    ]
+  }
 }

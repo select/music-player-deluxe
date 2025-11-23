@@ -4,7 +4,7 @@
   "artist": "Jefferson Airplane",
   "duration": 322,
   "youtubeId": "y2f3tlgApHw",
-  "lastFetched": "2025-11-19T05:17:24.931Z",
+  "lastFetched": "2025-11-23T16:53:54.918Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B009WJ1W4S",
@@ -22,5 +22,26 @@
   "listeners": 263405,
   "playcount": 1038603,
   "artistMbid": "39c2a93d-9afa-4a22-9bba-c087ab056e1c",
-  "lastfmSummary": "\"Comin' Back to Me\" is a captivating and poignant song by the iconic American rock band Jefferson Airplane. Released in 1967 as part of their groundbreaking album \"Surrealistic Pillow,\" the song was written by the band's vocalist and guitarist, Marty Balin. \n\n   The song is a reflective and introspective piece that delves into themes of love, longing, and the passage of time. With its introspective lyrics and ethereal melodies, \"Comin' Back to Me\" captures the essence of the 1960s counterculture movement and the introspective spirit of the era. <a href=\"http://www.last.fm/music/Jefferson+Airplane/_/Comin%27+Back+to+Me\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Comin' Back to Me\" is a captivating and poignant song by the iconic American rock band Jefferson Airplane. Released in 1967 as part of their groundbreaking album \"Surrealistic Pillow,\" the song was written by the band's vocalist and guitarist, Marty Balin. \n\n   The song is a reflective and introspective piece that delves into themes of love, longing, and the passage of time. With its introspective lyrics and ethereal melodies, \"Comin' Back to Me\" captures the essence of the 1960s counterculture movement and the introspective spirit of the era. <a href=\"http://www.last.fm/music/Jefferson+Airplane/_/Comin%27+Back+to+Me\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "acid rock",
+      "california",
+      "english",
+      "female vocalist",
+      "folk rock",
+      "garage rock",
+      "pop rock",
+      "proto-prog",
+      "psychedelic",
+      "psychedelic folk"
+    ],
+    "artistGenres": [
+      "acid rock",
+      "folk rock",
+      "garage rock",
+      "pop rock",
+      "psychedelic"
+    ]
+  }
 }

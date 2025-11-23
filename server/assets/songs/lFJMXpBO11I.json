@@ -2,7 +2,7 @@
   "youtubeId": "lFJMXpBO11I",
   "title": "Viento Borrascoso",
   "artist": "Tourniquet",
-  "lastFetched": "2025-11-19T05:55:31.545Z",
+  "lastFetched": "2025-11-23T16:48:06.879Z",
   "odesli": {
     "amazonMusic": "B00H3X7BR2",
     "amazonStore": "B00H3X7BR2",
@@ -20,5 +20,19 @@
   "lastfmId": "Tourniquet/_/Viento+Borrascoso",
   "listeners": 1647,
   "playcount": 7882,
-  "artistMbid": "0770a42f-10e3-4204-8459-0c6fba885852"
+  "artistMbid": "0770a42f-10e3-4204-8459-0c6fba885852",
+  "musicbrainz": {
+    "artistTags": [
+      "christian metal",
+      "metal",
+      "technical thrash metal",
+      "thrash metal"
+    ],
+    "artistGenres": [
+      "christian metal",
+      "metal",
+      "technical thrash metal",
+      "thrash metal"
+    ]
+  }
 }

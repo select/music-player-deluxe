@@ -2,7 +2,7 @@
   "youtubeId": "S3wob1cacxQ",
   "title": "Strobe light network",
   "artist": "Cold",
-  "lastFetched": "2025-11-19T16:27:55.351Z",
+  "lastFetched": "2025-11-23T16:39:17.204Z",
   "odesli": {
     "amazonMusic": "B003QZDETA",
     "amazonStore": "B003QZDETA",
@@ -14,5 +14,21 @@
   "lastfmId": "Cold/_/Strobe+light+network",
   "listeners": 2278,
   "playcount": 9118,
-  "artistMbid": "d9a2f1e6-6429-41ce-9d32-9a66188fb39c"
+  "artistMbid": "d9a2f1e6-6429-41ce-9d32-9a66188fb39c",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative metal",
+      "alternative rock",
+      "metal",
+      "post-grunge",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "metal",
+      "post-grunge",
+      "rock"
+    ]
+  }
 }

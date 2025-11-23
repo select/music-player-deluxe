@@ -2,7 +2,7 @@
   "youtubeId": "6qAazPVLONM",
   "title": "Komm Gib Mir Deine Hand (Remastered 2009)",
   "artist": "The Beatles",
-  "lastFetched": "2025-11-19T06:34:48.305Z",
+  "lastFetched": "2025-11-23T16:29:09.037Z",
   "odesli": {
     "amazonMusic": "B07FTG9RQ6",
     "amazonStore": "B07FTG9RQ6",
@@ -25,5 +25,26 @@
   "lastfmId": "The+Beatles/_/Komm+Gib+Mir+Deine+Hand+(Remastered+2009)",
   "listeners": 910,
   "playcount": 2135,
-  "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+  "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+  "musicbrainz": {
+    "artistTags": [
+      "1960s",
+      "60s",
+      "beat",
+      "british",
+      "british invasion",
+      "classic rock",
+      "europe",
+      "liverpool",
+      "mainstream rock",
+      "merseybeat"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "mainstream rock",
+      "merseybeat",
+      "pop",
+      "pop rock"
+    ]
+  }
 }

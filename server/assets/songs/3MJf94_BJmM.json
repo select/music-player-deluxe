@@ -2,7 +2,7 @@
   "youtubeId": "3MJf94_BJmM",
   "title": "Arbeit",
   "artist": "Sido",
-  "lastFetched": "2025-11-19T17:11:26.655Z",
+  "lastFetched": "2025-11-23T16:27:24.579Z",
   "odesli": {
     "amazonMusic": "B00L6MYRKA",
     "amazonStore": "B00L6MYRKA",
@@ -16,5 +16,21 @@
   "lastfmId": "Sido/_/Arbeit",
   "listeners": 11958,
   "playcount": 53785,
-  "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd"
+  "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
+  "musicbrainz": {
+    "artistTags": [
+      "aggro berlin",
+      "bilder",
+      "german",
+      "hardcore hip hop",
+      "hip hop",
+      "pop rap",
+      "rap"
+    ],
+    "artistGenres": [
+      "hardcore hip hop",
+      "hip hop",
+      "pop rap"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "y3W7fXnc8v0",
   "title": "Sommerregen",
   "artist": "Schiller",
-  "lastFetched": "2025-11-19T08:17:10.315Z",
+  "lastFetched": "2025-11-23T16:53:57.413Z",
   "odesli": {
     "amazonMusic": "B073SZJDG9",
     "amazonStore": "B073SZJDG9",
@@ -22,5 +22,22 @@
   "lastfmId": "Schiller/_/Sommerregen",
   "listeners": 21800,
   "playcount": 90260,
-  "artistMbid": "75ebdfa0-4a8a-496a-a57f-e4bb93b14d4c"
+  "artistMbid": "75ebdfa0-4a8a-496a-a57f-e4bb93b14d4c",
+  "musicbrainz": {
+    "artistTags": [
+      "ambient",
+      "chillout",
+      "classical",
+      "electronic",
+      "german",
+      "trance"
+    ],
+    "artistGenres": [
+      "ambient",
+      "chillout",
+      "classical",
+      "electronic",
+      "trance"
+    ]
+  }
 }

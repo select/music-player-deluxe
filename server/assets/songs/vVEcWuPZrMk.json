@@ -2,7 +2,7 @@
   "youtubeId": "vVEcWuPZrMk",
   "title": "Forever Changed",
   "artist": "DJ Shadow",
-  "lastFetched": "2025-11-19T16:57:01.570Z",
+  "lastFetched": "2025-11-23T16:52:55.110Z",
   "odesli": {
     "amazonMusic": "B0CFHYM47G",
     "amazonStore": "B0CFHYM47G",
@@ -18,5 +18,23 @@
   "lastfmId": "DJ+Shadow/_/Forever+Changed",
   "listeners": 5494,
   "playcount": 12037,
-  "artistMbid": "efa2c11a-1a35-4b60-bc1b-66d37de88511"
+  "artistMbid": "efa2c11a-1a35-4b60-bc1b-66d37de88511",
+  "musicbrainz": {
+    "artistTags": [
+      "electronic",
+      "experimental",
+      "experimental hip hop",
+      "hip hop",
+      "instrumental hip hop",
+      "trip hop",
+      "turntablism"
+    ],
+    "artistGenres": [
+      "electronic",
+      "experimental",
+      "experimental hip hop",
+      "hip hop",
+      "instrumental hip hop"
+    ]
+  }
 }

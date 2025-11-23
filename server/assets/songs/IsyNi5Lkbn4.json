@@ -2,7 +2,7 @@
   "youtubeId": "IsyNi5Lkbn4",
   "title": "Dotab",
   "artist": "Bear Ghost",
-  "lastFetched": "2025-11-19T15:40:02.156Z",
+  "lastFetched": "2025-11-23T16:34:57.051Z",
   "odesli": {
     "amazonMusic": "B0CCRD1YYM",
     "amazonStore": "B0CCRD1YYM",
@@ -19,5 +19,16 @@
   "lastfmId": "Bear+Ghost/_/Dotab",
   "listeners": 7812,
   "playcount": 65299,
-  "artistMbid": "ce41dd47-f5bd-46a8-9155-a1c20e3e8f7e"
+  "artistMbid": "ce41dd47-f5bd-46a8-9155-a1c20e3e8f7e",
+  "musicbrainz": {
+    "artistTags": [
+      "adventure rock",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "progressive rock",
+      "rock"
+    ]
+  }
 }

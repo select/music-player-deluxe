@@ -2,10 +2,31 @@
   "youtubeId": "INhzlIz4QXA",
   "title": "Omen (Noisia Remix)",
   "artist": "The Prodigy",
-  "lastFetched": "2025-11-19T07:47:03.963Z",
+  "lastFetched": "2025-11-23T16:34:46.768Z",
   "mbid": "3efc6633-44ab-3882-97aa-b821d5224156",
   "lastfmId": "The+Prodigy/_/Omen+(Noisia+Remix)",
   "listeners": 28884,
   "playcount": 128294,
-  "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704"
+  "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
+  "musicbrainz": {
+    "artistTags": [
+      "big beat",
+      "breakbeat",
+      "breakbeat hardcore",
+      "british",
+      "dance",
+      "electronic",
+      "electronica",
+      "hardcore",
+      "hardcore breaks",
+      "rave"
+    ],
+    "artistGenres": [
+      "big beat",
+      "breakbeat",
+      "breakbeat hardcore",
+      "dance",
+      "electronic"
+    ]
+  }
 }

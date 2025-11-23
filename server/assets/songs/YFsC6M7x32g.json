@@ -2,7 +2,7 @@
   "youtubeId": "YFsC6M7x32g",
   "title": "The Coffin Train",
   "artist": "Diamond Head",
-  "lastFetched": "2025-11-19T06:21:02.133Z",
+  "lastFetched": "2025-11-23T16:41:59.605Z",
   "odesli": {
     "amazonMusic": "B07P5C6XL4",
     "amazonStore": "B07P5C6XL4",
@@ -18,5 +18,19 @@
   "lastfmId": "Diamond+Head/_/The+Coffin+Train",
   "listeners": 5025,
   "playcount": 17961,
-  "artistMbid": "d3dd86df-2f57-4a97-8100-d09915343f60"
+  "artistMbid": "d3dd86df-2f57-4a97-8100-d09915343f60",
+  "musicbrainz": {
+    "artistTags": [
+      "classic pop and rock",
+      "heavy metal",
+      "metal",
+      "nwobhm",
+      "reino unido"
+    ],
+    "artistGenres": [
+      "heavy metal",
+      "metal",
+      "nwobhm"
+    ]
+  }
 }

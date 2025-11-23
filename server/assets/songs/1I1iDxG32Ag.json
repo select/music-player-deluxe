@@ -2,7 +2,7 @@
   "youtubeId": "1I1iDxG32Ag",
   "title": "Grauer Sand",
   "artist": "Pole",
-  "lastFetched": "2025-11-19T10:59:14.703Z",
+  "lastFetched": "2025-11-23T16:26:33.408Z",
   "odesli": {
     "amazonMusic": "B0B7CZVZDX",
     "amazonStore": "B0B7CZVZDX",
@@ -17,5 +17,25 @@
   "lastfmId": "Pole/_/Grauer+Sand",
   "listeners": 4276,
   "playcount": 9254,
-  "artistMbid": "ad957b43-9dc0-42e1-940c-19b21ec77f3a"
+  "artistMbid": "ad957b43-9dc0-42e1-940c-19b21ec77f3a",
+  "musicbrainz": {
+    "artistTags": [
+      "ambience",
+      "dub",
+      "electronic",
+      "electronica",
+      "german",
+      "glitch",
+      "idm",
+      "mastering",
+      "microsound"
+    ],
+    "artistGenres": [
+      "dub",
+      "electronic",
+      "electronica",
+      "glitch",
+      "idm"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "GoaTjsT9FzY",
   "title": "Shy Boy",
   "artist": "JD McPherson",
-  "lastFetched": "2025-11-19T14:42:21.409Z",
+  "lastFetched": "2025-11-23T16:34:10.719Z",
   "odesli": {
     "amazonMusic": "B00QM9RIOE",
     "amazonStore": "B00QM9RIOE",
@@ -16,5 +16,16 @@
   "lastfmId": "JD+McPherson/_/Shy+Boy",
   "listeners": 8572,
   "playcount": 33405,
-  "artistMbid": "84c7cb93-0622-4b90-8d53-ee2b4650097f"
+  "artistMbid": "84c7cb93-0622-4b90-8d53-ee2b4650097f",
+  "musicbrainz": {
+    "artistTags": [
+      "rhythm and blues",
+      "rock and roll",
+      "rockabilly"
+    ],
+    "artistGenres": [
+      "rock and roll",
+      "rockabilly"
+    ]
+  }
 }

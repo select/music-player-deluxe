@@ -2,7 +2,7 @@
   "youtubeId": "u0X6h9jc054",
   "title": "Sunrise Chaser",
   "artist": "Ride",
-  "lastFetched": "2025-11-19T16:59:33.328Z",
+  "lastFetched": "2025-11-23T16:52:16.525Z",
   "odesli": {
     "amazonMusic": "B0CNQC8R9Z",
     "amazonStore": "B0CNQC8R9Z",
@@ -23,5 +23,26 @@
   "lastfmId": "Ride/_/Sunrise+Chaser",
   "listeners": 5466,
   "playcount": 14287,
-  "artistMbid": "3f575ecd-627d-4f08-a89f-abd46d469c7e"
+  "artistMbid": "3f575ecd-627d-4f08-a89f-abd46d469c7e",
+  "musicbrainz": {
+    "artistTags": [
+      "british",
+      "britpop",
+      "dream pop",
+      "indie rock",
+      "jangle pop",
+      "neo-psychedelia",
+      "noise pop",
+      "oxford",
+      "rock",
+      "shoegaze"
+    ],
+    "artistGenres": [
+      "britpop",
+      "dream pop",
+      "indie rock",
+      "jangle pop",
+      "neo-psychedelia"
+    ]
+  }
 }

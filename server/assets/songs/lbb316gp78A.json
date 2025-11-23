@@ -2,7 +2,7 @@
   "youtubeId": "lbb316gp78A",
   "title": "Between the Buttons",
   "artist": "French 79",
-  "lastFetched": "2025-11-19T15:36:58.245Z",
+  "lastFetched": "2025-11-23T16:48:16.578Z",
   "odesli": {
     "amazonMusic": "B0F6V7Q1FX",
     "amazonStore": "B0F6V7Q1FX",
@@ -19,5 +19,25 @@
   "lastfmId": "French+79/_/Between+the+Buttons",
   "listeners": 62966,
   "playcount": 374679,
-  "artistMbid": "b4bf3785-04d5-4cd3-94d9-86f3b43e2904"
+  "artistMbid": "b4bf3785-04d5-4cd3-94d9-86f3b43e2904",
+  "musicbrainz": {
+    "artistTags": [
+      "electronic",
+      "electronic music",
+      "french",
+      "french house",
+      "french touch",
+      "house",
+      "marseille",
+      "pop",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "electronic",
+      "french house",
+      "house",
+      "pop",
+      "synth-pop"
+    ]
+  }
 }

@@ -73,17 +73,18 @@ export interface SongMetaData {
 	datetime?: number;
 	userId?: string | null;
 	odesli?: Record<string, string>;
-	lastfmId?: string;
-	listeners?: number;
-	playcount?: number;
-	lastfmTags?: string[];
 	lastfmSummary?: string;
 	musicbrainz?: {
 		tags?: string[];
 		genres?: string[];
 		artistTags?: string[];
+		artistGenres?: string[];
 	};
 	lastfm?: {
+		tags?: string[];
+		playcount?: number;
+		listeners?: number;
+		id?: string;
 		mbid?: string;
 		artistMbid?: string;
 	};

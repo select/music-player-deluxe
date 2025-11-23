@@ -2,7 +2,7 @@
   "youtubeId": "27phIWvUYXQ",
   "title": "Luck Of Lucien",
   "artist": "A Tribe Called Quest",
-  "lastFetched": "2025-11-19T08:21:44.545Z",
+  "lastFetched": "2025-11-23T16:27:01.781Z",
   "odesli": {
     "amazonMusic": "B0169CNVPS",
     "amazonStore": "B0169CNVPS",
@@ -19,5 +19,45 @@
   "lastfmId": "A+Tribe+Called+Quest/_/Luck+Of+Lucien",
   "listeners": 279968,
   "playcount": 1278859,
-  "artistMbid": "9689aa5a-4471-4fb4-9721-07cecda0fa9f"
+  "artistMbid": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
+  "musicbrainz": {
+    "tags": [
+      "alternative hip hop",
+      "alternative hip-hop",
+      "boom bap",
+      "conscious hip hop",
+      "east coast hip hop",
+      "hip hop",
+      "hip-hop",
+      "jazz rap",
+      "progressive hip-hop",
+      "rap"
+    ],
+    "genres": [
+      "alternative hip hop",
+      "boom bap",
+      "conscious hip hop",
+      "east coast hip hop",
+      "hip hop"
+    ],
+    "artistTags": [
+      "alternative hip hop",
+      "alternative rap",
+      "boom bap",
+      "conscious hip hop",
+      "east coast hip hop",
+      "east coast rap",
+      "golden age hip hop",
+      "hip hop",
+      "jazz rap",
+      "jazz-rap"
+    ],
+    "artistGenres": [
+      "alternative hip hop",
+      "boom bap",
+      "conscious hip hop",
+      "east coast hip hop",
+      "hip hop"
+    ]
+  }
 }

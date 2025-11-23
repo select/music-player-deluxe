@@ -2,7 +2,7 @@
   "youtubeId": "Tg0_lE_Po-o",
   "title": "Essah ist zurück",
   "artist": "Kool Savas",
-  "lastFetched": "2025-11-19T05:40:44.783Z",
+  "lastFetched": "2025-11-23T16:40:01.675Z",
   "odesli": {
     "amazonMusic": "B07K28YVF3",
     "amazonStore": "B07K28YVF3",
@@ -25,5 +25,16 @@
   "lastfmId": "Kool+Savas/_/Essah+ist+zur%C3%BCck",
   "listeners": 1973,
   "playcount": 9932,
-  "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da"
+  "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da",
+  "musicbrainz": {
+    "artistTags": [
+      "german",
+      "germany",
+      "hip hop",
+      "rap"
+    ],
+    "artistGenres": [
+      "hip hop"
+    ]
+  }
 }

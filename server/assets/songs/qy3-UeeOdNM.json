@@ -2,7 +2,7 @@
   "youtubeId": "qy3-UeeOdNM",
   "title": "Get Down",
   "artist": "Gene Russell",
-  "lastFetched": "2025-11-19T17:29:14.903Z",
+  "lastFetched": "2025-11-23T16:50:52.268Z",
   "odesli": {
     "amazonMusic": "B087CKS8BS",
     "amazonStore": "B087CKS8BS",
@@ -16,5 +16,13 @@
   "lastfmId": "Gene+Russell/_/Get+Down",
   "listeners": 5994,
   "playcount": 13610,
-  "artistMbid": "4c211f1b-1647-4b56-8009-d18286a0e4b2"
+  "artistMbid": "4c211f1b-1647-4b56-8009-d18286a0e4b2",
+  "musicbrainz": {
+    "artistTags": [
+      "soul jazz"
+    ],
+    "artistGenres": [
+      "soul jazz"
+    ]
+  }
 }

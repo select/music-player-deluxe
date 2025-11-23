@@ -2,7 +2,7 @@
   "youtubeId": "H517hUHQtvA",
   "title": "Wein A Ramallah",
   "artist": "Bukahara",
-  "lastFetched": "2025-11-19T16:08:59.287Z",
+  "lastFetched": "2025-11-23T16:34:25.453Z",
   "odesli": {
     "amazonMusic": "B0BNP1BRVR",
     "amazonStore": "B0BNP1BRVR",
@@ -25,5 +25,17 @@
   "lastfmId": "Bukahara/_/Wein+A+Ramallah",
   "listeners": 2097,
   "playcount": 10012,
-  "artistMbid": "ad058e4f-7e24-4db0-b5c2-7fcbcff72e01"
+  "artistMbid": "ad058e4f-7e24-4db0-b5c2-7fcbcff72e01",
+  "musicbrainz": {
+    "artistTags": [
+      "gypsy jazz",
+      "neofolk",
+      "pop"
+    ],
+    "artistGenres": [
+      "gypsy jazz",
+      "neofolk",
+      "pop"
+    ]
+  }
 }

@@ -4,7 +4,7 @@
   "artist": "Jah Shaka & Mad Professor",
   "duration": 171,
   "youtubeId": "agFScIRmEIE",
-  "lastFetched": "2025-11-23T15:40:16.201Z",
+  "lastFetched": "2025-11-23T16:43:23.289Z",
   "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B000QYYBRS",
@@ -21,5 +21,18 @@
     "youtube": "agFScIRmEIE",
     "youtubeMusic": "agFScIRmEIE"
   },
-  "artistMbid": "47b2253e-034f-4806-b65c-7cee187f34d8"
+  "artistMbid": "47b2253e-034f-4806-b65c-7cee187f34d8",
+  "musicbrainz": {
+    "artistTags": [
+      "dub",
+      "electronic",
+      "rhythm and blues",
+      "roots reggae"
+    ],
+    "artistGenres": [
+      "dub",
+      "electronic",
+      "roots reggae"
+    ]
+  }
 }

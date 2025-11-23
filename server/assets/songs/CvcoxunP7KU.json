@@ -2,7 +2,7 @@
   "youtubeId": "CvcoxunP7KU",
   "title": "The Loop",
   "artist": "Toro y Moi",
-  "lastFetched": "2025-11-19T07:06:22.108Z",
+  "lastFetched": "2025-11-23T16:31:56.803Z",
   "odesli": {
     "amazonMusic": "B09P462YYQ",
     "amazonStore": "B09P462YYQ",
@@ -22,5 +22,22 @@
   "listeners": 79985,
   "playcount": 397407,
   "artistMbid": "3a6d6481-142d-423f-91d4-55bbfff318ed",
-  "lastfmSummary": "\"The Loop\" is Toro y Moi's third single from his seventh studio album, MAHAL. The song is a psychedelic funk jam with a slow-strolling bassline and a quietly assured sense of swagger. Chaz Bear sings the song in a mellow, airy tenor, like a supremely stoned Pharrell Williams if he was impersonating Rivers Cuomo. The video, credited to Bear’s Company Studio outfit, is a fun hang, with Bear and friends rolling through San Francisco on jeepneys and skateboards. <a href=\"http://www.last.fm/music/Toro+y+Moi/_/The+Loop\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"The Loop\" is Toro y Moi's third single from his seventh studio album, MAHAL. The song is a psychedelic funk jam with a slow-strolling bassline and a quietly assured sense of swagger. Chaz Bear sings the song in a mellow, airy tenor, like a supremely stoned Pharrell Williams if he was impersonating Rivers Cuomo. The video, credited to Bear’s Company Studio outfit, is a fun hang, with Bear and friends rolling through San Francisco on jeepneys and skateboards. <a href=\"http://www.last.fm/music/Toro+y+Moi/_/The+Loop\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "chillwave",
+      "electronic",
+      "funk",
+      "hypnagogic pop",
+      "indie pop",
+      "synthpop"
+    ],
+    "artistGenres": [
+      "chillwave",
+      "electronic",
+      "funk",
+      "hypnagogic pop",
+      "indie pop"
+    ]
+  }
 }

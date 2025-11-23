@@ -2,7 +2,7 @@
   "youtubeId": "U0P5KVdRkak",
   "title": "Right Before My Eyes",
   "artist": "Cage the Elephant",
-  "lastFetched": "2025-11-19T16:11:00.941Z",
+  "lastFetched": "2025-11-23T16:40:10.994Z",
   "odesli": {
     "amazonMusic": "B076NRY96H",
     "amazonStore": "B076NRY96H",
@@ -25,5 +25,26 @@
   "lastfmId": "Cage+the+Elephant/_/Right+Before+My+Eyes",
   "listeners": 113940,
   "playcount": 639119,
-  "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696"
+  "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
+  "musicbrainz": {
+    "artistTags": [
+      "acoustic rock",
+      "alternative",
+      "alternative rock",
+      "american trad rock",
+      "garage rock",
+      "garage rock revival",
+      "indie rock",
+      "neo-psychedelia",
+      "pop",
+      "post-punk revival"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative rock",
+      "garage rock",
+      "garage rock revival",
+      "indie rock"
+    ]
+  }
 }

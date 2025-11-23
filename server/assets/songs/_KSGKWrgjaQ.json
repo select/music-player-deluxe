@@ -2,7 +2,7 @@
   "youtubeId": "_KSGKWrgjaQ",
   "title": "Lemon Scent",
   "artist": "Dead Sara",
-  "lastFetched": "2025-11-19T08:56:53.494Z",
+  "lastFetched": "2025-11-23T16:42:40.043Z",
   "odesli": {
     "amazonMusic": "B077GHVWVX",
     "amazonStore": "B077GHVWVX",
@@ -18,5 +18,22 @@
   "lastfmId": "Dead+Sara/_/Lemon+Scent",
   "listeners": 20386,
   "playcount": 128254,
-  "artistMbid": "0f4fa442-3e9c-4355-8e17-a39386a52077"
+  "artistMbid": "0f4fa442-3e9c-4355-8e17-a39386a52077",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "garage rock",
+      "hard rock",
+      "indie rock",
+      "rock",
+      "slayer"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "garage rock",
+      "hard rock",
+      "indie rock",
+      "rock"
+    ]
+  }
 }

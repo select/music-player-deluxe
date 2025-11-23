@@ -2,7 +2,7 @@
   "youtubeId": "MpN1j8R5lZ8",
   "title": "Hearts a Mess",
   "artist": "Gotye",
-  "lastFetched": "2025-11-19T13:15:57.304Z",
+  "lastFetched": "2025-11-23T16:36:30.548Z",
   "odesli": {
     "amazonMusic": "B00CM3BI7C",
     "amazonStore": "B00CM3BI7C",
@@ -22,5 +22,32 @@
   "listeners": 279569,
   "playcount": 1796682,
   "artistMbid": "6f6fd596-76e0-4b82-aa37-f558ac2d337b",
-  "lastfmSummary": "\"Hearts a Mess\" is a song by  Australian musician Gotye from his second studio album Like Drawing Blood, released as a single. The song reached #3 in Belgium (Flanders).\n\nThe song was voted #8 in the 2006 Triple J Hottest 100, and in 2009 the song was voted #77 in the Triple J Hottest 100 of All Time.  <a href=\"http://www.last.fm/music/Gotye/_/Hearts+a+Mess\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Hearts a Mess\" is a song by  Australian musician Gotye from his second studio album Like Drawing Blood, released as a single. The song reached #3 in Belgium (Flanders).\n\nThe song was voted #8 in the 2006 Triple J Hottest 100, and in 2009 the song was voted #77 in the Triple J Hottest 100 of All Time.  <a href=\"http://www.last.fm/music/Gotye/_/Hearts+a+Mess\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "electronica"
+    ],
+    "genres": [
+      "electronica"
+    ],
+    "artistTags": [
+      "alternative pop",
+      "art pop",
+      "chamber pop",
+      "downtempo",
+      "electronic",
+      "indie pop",
+      "indie rock",
+      "indietronica",
+      "one-hit wonder",
+      "pop"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "art pop",
+      "chamber pop",
+      "downtempo",
+      "electronic"
+    ]
+  }
 }

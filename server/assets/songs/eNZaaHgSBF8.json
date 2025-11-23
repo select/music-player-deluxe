@@ -2,7 +2,7 @@
   "youtubeId": "eNZaaHgSBF8",
   "title": "Down the Moon Grotto",
   "artist": "Gareth Coker",
-  "lastFetched": "2025-11-19T10:20:04.147Z",
+  "lastFetched": "2025-11-23T16:45:04.357Z",
   "odesli": {
     "amazonMusic": "B00TR9PFKA",
     "amazonStore": "B00TR9PFKA",
@@ -25,5 +25,20 @@
   "lastfmId": "Gareth+Coker/_/Down+the+Moon+Grotto",
   "listeners": 17666,
   "playcount": 84520,
-  "artistMbid": "96eca91a-fdb5-4a0e-908b-ba526ba166df"
+  "artistMbid": "96eca91a-fdb5-4a0e-908b-ba526ba166df",
+  "musicbrainz": {
+    "artistTags": [
+      "_tidy",
+      "folk",
+      "gaming",
+      "instrumental",
+      "soundtrack",
+      "vgm",
+      "video game music"
+    ],
+    "artistGenres": [
+      "folk",
+      "instrumental"
+    ]
+  }
 }

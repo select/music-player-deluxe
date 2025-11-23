@@ -2,7 +2,7 @@
   "youtubeId": "VIpnaZMa4Yg",
   "title": "Southern Comfort",
   "artist": "Burial",
-  "lastFetched": "2025-11-19T11:01:49.827Z",
+  "lastFetched": "2025-11-23T16:40:49.262Z",
   "odesli": {
     "amazonMusic": "B01423YVXW",
     "amazonStore": "B01423YVXW",
@@ -15,5 +15,26 @@
   "lastfmId": "Burial/_/Southern+Comfort",
   "listeners": 175968,
   "playcount": 942858,
-  "artistMbid": "9ddce51c-2b75-4b3e-ac8c-1db09e7c89c6"
+  "artistMbid": "9ddce51c-2b75-4b3e-ac8c-1db09e7c89c6",
+  "musicbrainz": {
+    "artistTags": [
+      "2-step",
+      "ambient",
+      "britannique",
+      "british",
+      "dance and electronica",
+      "dub",
+      "dubstep",
+      "electronic",
+      "english",
+      "future garage"
+    ],
+    "artistGenres": [
+      "2-step",
+      "ambient",
+      "dub",
+      "dubstep",
+      "electronic"
+    ]
+  }
 }

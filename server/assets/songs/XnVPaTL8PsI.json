@@ -2,7 +2,7 @@
   "youtubeId": "XnVPaTL8PsI",
   "title": "Notturno",
   "artist": "Herbert Pixner Projekt",
-  "lastFetched": "2025-11-19T06:11:52.752Z",
+  "lastFetched": "2025-11-23T16:41:44.589Z",
   "odesli": {
     "amazonMusic": "B07F37LJZB",
     "amazonStore": "B07F37LJZB",
@@ -22,5 +22,15 @@
   "lastfmId": "Herbert+Pixner+Projekt/_/Notturno",
   "listeners": 1681,
   "playcount": 7293,
-  "artistMbid": "e2360a56-f63a-4589-9295-f83130b563c5"
+  "artistMbid": "e2360a56-f63a-4589-9295-f83130b563c5",
+  "musicbrainz": {
+    "artistTags": [
+      "accordion",
+      "folk",
+      "world"
+    ],
+    "artistGenres": [
+      "folk"
+    ]
+  }
 }

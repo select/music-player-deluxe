@@ -2,7 +2,7 @@
   "youtubeId": "WDTtMTcj8X0",
   "title": "Befragung eines Kriegsdienstverweigerers",
   "artist": "Franz Josef Degenhardt",
-  "lastFetched": "2025-11-19T12:21:55.137Z",
+  "lastFetched": "2025-11-23T16:41:01.669Z",
   "odesli": {
     "amazonMusic": "B073SZ8D54",
     "amazonStore": "B073SZ8D54",
@@ -22,5 +22,10 @@
   "lastfmId": "Franz+Josef+Degenhardt/_/Befragung+eines+Kriegsdienstverweigerers",
   "listeners": 6294,
   "playcount": 15583,
-  "artistMbid": "73e7d4e2-02c6-46b3-b816-4245450a4747"
+  "artistMbid": "73e7d4e2-02c6-46b3-b816-4245450a4747",
+  "musicbrainz": {
+    "artistTags": [
+      "german"
+    ]
+  }
 }

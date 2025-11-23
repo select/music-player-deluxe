@@ -2,7 +2,7 @@
   "youtubeId": "JCRb22_4Z48",
   "title": "Bardo",
   "artist": "GoGo Penguin",
-  "lastFetched": "2025-11-19T16:12:33.197Z",
+  "lastFetched": "2025-11-23T16:35:11.684Z",
   "odesli": {
     "amazonMusic": "B0784Y4LVG",
     "amazonStore": "B0784Y4LVG",
@@ -24,5 +24,23 @@
   "lastfmId": "GoGo+Penguin/_/Bardo",
   "listeners": 33105,
   "playcount": 151652,
-  "artistMbid": "b328de0e-ee48-4d74-9d36-7c7ee16ffc69"
+  "artistMbid": "b328de0e-ee48-4d74-9d36-7c7ee16ffc69",
+  "musicbrainz": {
+    "artistTags": [
+      "electronica",
+      "fusion",
+      "jazz",
+      "jazz fusion",
+      "nu jazz",
+      "post-rock",
+      "progressive jazz"
+    ],
+    "artistGenres": [
+      "electronica",
+      "jazz",
+      "jazz fusion",
+      "nu jazz",
+      "post-rock"
+    ]
+  }
 }

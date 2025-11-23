@@ -2,7 +2,7 @@
   "youtubeId": "X_w8Qfc5X_k",
   "title": "Mission Venice",
   "artist": "Nightmares on Wax",
-  "lastFetched": "2025-11-19T16:42:15.386Z",
+  "lastFetched": "2025-11-23T16:41:40.389Z",
   "odesli": {
     "amazonMusic": "B084KPRP7Q",
     "amazonStore": "B084KPRP7Q",
@@ -18,5 +18,24 @@
   "lastfmId": "Nightmares+on+Wax/_/Mission+Venice",
   "listeners": 86656,
   "playcount": 298369,
-  "artistMbid": "b8c5cc4f-239f-4e02-b46f-b040b77c2030"
+  "artistMbid": "b8c5cc4f-239f-4e02-b46f-b040b77c2030",
+  "musicbrainz": {
+    "artistTags": [
+      "bleep techno",
+      "breakbeat",
+      "downtempo",
+      "instrumental hip hop",
+      "nu jazz",
+      "techno",
+      "trip hop",
+      "uk"
+    ],
+    "artistGenres": [
+      "bleep techno",
+      "breakbeat",
+      "downtempo",
+      "instrumental hip hop",
+      "nu jazz"
+    ]
+  }
 }

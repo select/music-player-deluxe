@@ -2,7 +2,7 @@
   "youtubeId": "nspqYGz-Z1s",
   "title": "All Night Long",
   "artist": "Jacob Collier",
-  "lastFetched": "2025-11-19T08:03:21.790Z",
+  "lastFetched": "2025-11-23T16:49:28.575Z",
   "odesli": {
     "amazonMusic": "B07JQ39FGL",
     "amazonStore": "B07JQ39FGL",
@@ -25,5 +25,26 @@
   "lastfmId": "Jacob+Collier/_/All+Night+Long",
   "listeners": 1306,
   "playcount": 3638,
-  "artistMbid": "1df15ee0-b52b-4315-9cb9-bc5a27a685e9"
+  "artistMbid": "1df15ee0-b52b-4315-9cb9-bc5a27a685e9",
+  "musicbrainz": {
+    "artistTags": [
+      "art pop",
+      "classical",
+      "contemporary r&b",
+      "crossover jazz",
+      "electronic",
+      "funk",
+      "jazz",
+      "jazz-funk",
+      "pop",
+      "r&b"
+    ],
+    "artistGenres": [
+      "art pop",
+      "classical",
+      "contemporary r&b",
+      "crossover jazz",
+      "electronic"
+    ]
+  }
 }

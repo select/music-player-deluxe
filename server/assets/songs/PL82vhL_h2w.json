@@ -2,7 +2,7 @@
   "youtubeId": "PL82vhL_h2w",
   "title": "That Healin' Feelin'",
   "artist": "Horace Silver",
-  "lastFetched": "2025-11-19T17:08:21.206Z",
+  "lastFetched": "2025-11-23T16:37:40.424Z",
   "odesli": {
     "amazonMusic": "B0CTVKWV3M",
     "amazonStore": "B0CTVKWV3M",
@@ -23,5 +23,17 @@
   "lastfmId": "Horace+Silver/_/That+Healin%27+Feelin%27",
   "listeners": 1604,
   "playcount": 3223,
-  "artistMbid": "d185d986-ee96-4fd3-bd61-8c848a4765b6"
+  "artistMbid": "d185d986-ee96-4fd3-bd61-8c848a4765b6",
+  "musicbrainz": {
+    "artistTags": [
+      "hard bop",
+      "jazz",
+      "soul jazz"
+    ],
+    "artistGenres": [
+      "hard bop",
+      "jazz",
+      "soul jazz"
+    ]
+  }
 }

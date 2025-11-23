@@ -2,7 +2,7 @@
   "youtubeId": "FBqYsRdglnY",
   "title": "The Forest",
   "artist": "José González",
-  "lastFetched": "2025-11-19T11:19:11.190Z",
+  "lastFetched": "2025-11-23T16:33:27.996Z",
   "odesli": {
     "amazonMusic": "B00P1AZFVS",
     "amazonStore": "B00P1AZFVS",
@@ -21,5 +21,22 @@
   "lastfmId": "Jos%C3%A9+Gonz%C3%A1lez/_/The+Forest",
   "listeners": 56579,
   "playcount": 202135,
-  "artistMbid": "cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8"
+  "artistMbid": "cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8",
+  "musicbrainz": {
+    "artistTags": [
+      "folk",
+      "folk rock",
+      "indie folk",
+      "indie rock",
+      "singer-songwriter",
+      "swedish"
+    ],
+    "artistGenres": [
+      "folk",
+      "folk rock",
+      "indie folk",
+      "indie rock",
+      "singer-songwriter"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "V6nbFZtxAL4",
   "title": "Bullets",
   "artist": "Archive",
-  "lastFetched": "2025-11-19T15:18:09.578Z",
+  "lastFetched": "2025-11-23T16:40:42.425Z",
   "odesli": {
     "amazonMusic": "B07BNT5ZCB",
     "amazonStore": "B07BNT5ZCB",
@@ -22,5 +22,32 @@
   "listeners": 153471,
   "playcount": 1661444,
   "artistMbid": "bd513de0-e42f-425e-ae46-817d7bc5fb1c",
-  "lastfmSummary": "The introduction trailer for Cyberpunk 2077, an upcoming game by CD Projekt RED, used Bullets as its sound track. <a href=\"http://www.last.fm/music/Archive/_/Bullets\">Read more on Last.fm</a>."
+  "lastfmSummary": "The introduction trailer for Cyberpunk 2077, an upcoming game by CD Projekt RED, used Bullets as its sound track. <a href=\"http://www.last.fm/music/Archive/_/Bullets\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "tags": [
+      "electronic"
+    ],
+    "genres": [
+      "electronic"
+    ],
+    "artistTags": [
+      "alternative rock",
+      "alternative/post-rock",
+      "ambient pop",
+      "art rock",
+      "britannique",
+      "british",
+      "crossover prog",
+      "electronic",
+      "electronica",
+      "indie"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "ambient pop",
+      "art rock",
+      "crossover prog",
+      "electronic"
+    ]
+  }
 }

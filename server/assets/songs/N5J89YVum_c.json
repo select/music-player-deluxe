@@ -2,7 +2,7 @@
   "youtubeId": "N5J89YVum_c",
   "title": "Ringin' In My Head",
   "artist": "Black Stone Cherry",
-  "lastFetched": "2025-11-19T12:29:33.893Z",
+  "lastFetched": "2025-11-23T16:36:40.586Z",
   "odesli": {
     "amazonMusic": "B09NGHX9JV",
     "amazonStore": "B09NGHX9JV",
@@ -18,5 +18,19 @@
   "lastfmId": "Black+Stone+Cherry/_/Ringin%27+In+My+Head",
   "listeners": 6803,
   "playcount": 26503,
-  "artistMbid": "1801bd47-46ae-49ff-bfcd-6e01b562d880"
+  "artistMbid": "1801bd47-46ae-49ff-bfcd-6e01b562d880",
+  "musicbrainz": {
+    "artistTags": [
+      "hard rock",
+      "rock",
+      "southern rock",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "hard rock",
+      "rock",
+      "southern rock",
+      "stoner rock"
+    ]
+  }
 }

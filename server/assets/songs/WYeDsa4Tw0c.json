@@ -2,7 +2,7 @@
   "youtubeId": "WYeDsa4Tw0c",
   "title": "Conquest of Paradise",
   "artist": "Vangelis",
-  "lastFetched": "2025-11-19T07:31:46.347Z",
+  "lastFetched": "2025-11-23T16:41:13.566Z",
   "odesli": {
     "anghami": "338933",
     "boomplay": "4302232",
@@ -15,5 +15,26 @@
   "lastfmId": "Vangelis/_/Conquest+of+Paradise",
   "listeners": 259667,
   "playcount": 1485584,
-  "artistMbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f"
+  "artistMbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f",
+  "musicbrainz": {
+    "artistTags": [
+      "academy award winner",
+      "ambient",
+      "classical",
+      "composer",
+      "death by covid-19",
+      "easy listening soundtracks and musicals",
+      "electronic",
+      "experimental",
+      "film",
+      "film score"
+    ],
+    "artistGenres": [
+      "ambient",
+      "classical",
+      "electronic",
+      "experimental",
+      "instrumental"
+    ]
+  }
 }

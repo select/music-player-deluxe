@@ -2,7 +2,7 @@
   "youtubeId": "j7BDpjmU0Pw",
   "title": "Ihr habt gewonnen",
   "artist": "Knorkator",
-  "lastFetched": "2025-11-19T10:07:19.749Z",
+  "lastFetched": "2025-11-23T16:46:59.563Z",
   "odesli": {
     "amazonMusic": "B0DRW4ZXK8",
     "amazonStore": "B0DRW4ZXK8",
@@ -17,5 +17,10 @@
   "lastfmId": "Knorkator/_/Ihr+habt+gewonnen",
   "listeners": 1806,
   "playcount": 7855,
-  "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e"
+  "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
+  "musicbrainz": {
+    "artistTags": [
+      "german"
+    ]
+  }
 }

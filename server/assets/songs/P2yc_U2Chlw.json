@@ -2,7 +2,7 @@
   "youtubeId": "P2yc_U2Chlw",
   "title": "Horses",
   "artist": "Slomosa",
-  "lastFetched": "2025-11-19T17:43:08.306Z",
+  "lastFetched": "2025-11-23T16:37:33.399Z",
   "odesli": {
     "amazonMusic": "B089N6FGQW",
     "amazonStore": "B089N6FGQW",
@@ -20,5 +20,32 @@
   "lastfmId": "Slomosa/_/Horses",
   "listeners": 19439,
   "playcount": 111634,
-  "artistMbid": "262c9855-aa44-40f4-a275-cb425c074513"
+  "artistMbid": "262c9855-aa44-40f4-a275-cb425c074513",
+  "musicbrainz": {
+    "tags": [
+      "garage rock",
+      "grunge",
+      "punk",
+      "rock",
+      "stoner rock"
+    ],
+    "genres": [
+      "garage rock",
+      "grunge",
+      "punk",
+      "rock",
+      "stoner rock"
+    ],
+    "artistTags": [
+      "desert rock",
+      "heavy rock",
+      "rock",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "desert rock",
+      "rock",
+      "stoner rock"
+    ]
+  }
 }

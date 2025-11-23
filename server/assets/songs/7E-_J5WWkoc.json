@@ -2,7 +2,7 @@
   "youtubeId": "7E-_J5WWkoc",
   "title": "Conditions of My Parole",
   "artist": "Puscifer",
-  "lastFetched": "2025-11-19T12:07:06.091Z",
+  "lastFetched": "2025-11-23T16:29:19.501Z",
   "odesli": {
     "amazonMusic": "B0DZVB7XGS",
     "amazonStore": "B0DZVB7XGS",
@@ -18,5 +18,26 @@
   "lastfmId": "Puscifer/_/Conditions+of+My+Parole",
   "listeners": 112382,
   "playcount": 923955,
-  "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22"
+  "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22",
+  "musicbrainz": {
+    "artistTags": [
+      "alternative rock",
+      "ambient",
+      "experimental",
+      "experimental rock",
+      "industrial",
+      "industrial rock",
+      "post-industrial",
+      "progressive rock",
+      "rock",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "ambient",
+      "experimental",
+      "experimental rock",
+      "industrial"
+    ]
+  }
 }

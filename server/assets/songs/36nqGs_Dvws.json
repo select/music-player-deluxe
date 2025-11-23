@@ -2,7 +2,7 @@
   "youtubeId": "36nqGs_Dvws",
   "title": "Seaside Rendezvous",
   "artist": "Queen",
-  "lastFetched": "2025-11-19T06:09:17.655Z",
+  "lastFetched": "2025-11-23T16:27:23.206Z",
   "odesli": {
     "amazonMusic": "B005CZRXJ4",
     "amazonStore": "B005CZRXJ4",
@@ -22,5 +22,26 @@
   "listeners": 177486,
   "playcount": 845744,
   "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
-  "lastfmSummary": "Seaside Rendezvous\", written by Mercury, is probably best known for the \"musical\" bridge section which begins at around 0:51 into the song. The section is performed entirely by Mercury and Taylor using their voices alone. Mercury imitates woodwind instruments including a clarinet and Taylor mostly brass instruments, including tubas and trumpets, and even a kazoo. The tap dance segment is also \"performed\" by Mercury and Taylor on the mixing desk with thimbles on their fingers. Mercury plays both grand piano and jangle honky-tonk. <a href=\"http://www.last.fm/music/Queen/_/Seaside+Rendezvous\">Read more on Last.fm</a>."
+  "lastfmSummary": "Seaside Rendezvous\", written by Mercury, is probably best known for the \"musical\" bridge section which begins at around 0:51 into the song. The section is performed entirely by Mercury and Taylor using their voices alone. Mercury imitates woodwind instruments including a clarinet and Taylor mostly brass instruments, including tubas and trumpets, and even a kazoo. The tap dance segment is also \"performed\" by Mercury and Taylor on the mixing desk with thimbles on their fingers. Mercury plays both grand piano and jangle honky-tonk. <a href=\"http://www.last.fm/music/Queen/_/Seaside+Rendezvous\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "art rock",
+      "beholder",
+      "british",
+      "classic rock",
+      "glam rock",
+      "glorious",
+      "hard rock",
+      "pop rock",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "art rock",
+      "classic rock",
+      "glam rock",
+      "hard rock",
+      "pop rock"
+    ]
+  }
 }

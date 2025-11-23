@@ -2,7 +2,7 @@
   "youtubeId": "EY44YYbWiYs",
   "title": "California Dreaming",
   "artist": "Monophonics",
-  "lastFetched": "2025-11-19T15:52:02.958Z",
+  "lastFetched": "2025-11-23T16:32:54.286Z",
   "odesli": {
     "amazonMusic": "B0F4DZB37X",
     "amazonStore": "B0F4DZB37X",
@@ -22,5 +22,17 @@
   "lastfmId": "Monophonics/_/California+Dreaming",
   "listeners": 4980,
   "playcount": 16034,
-  "artistMbid": "f1745cca-1cae-4696-a0d3-62553c742b0c"
+  "artistMbid": "f1745cca-1cae-4696-a0d3-62553c742b0c",
+  "musicbrainz": {
+    "artistTags": [
+      "psychedelic",
+      "r&b",
+      "soul"
+    ],
+    "artistGenres": [
+      "psychedelic",
+      "r&b",
+      "soul"
+    ]
+  }
 }

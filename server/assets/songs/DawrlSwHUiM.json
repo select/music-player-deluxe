@@ -2,7 +2,7 @@
   "youtubeId": "DawrlSwHUiM",
   "title": "Numbers on the Boards",
   "artist": "Pusha T",
-  "lastFetched": "2025-11-19T09:40:51.447Z",
+  "lastFetched": "2025-11-23T16:32:30.670Z",
   "odesli": {
     "amazonMusic": "B00HWJXS1K",
     "amazonStore": "B00HWJXS1K",
@@ -23,5 +23,23 @@
   "listeners": 231141,
   "playcount": 1838689,
   "artistMbid": "14ecd19f-7121-4192-8549-e5056241a42f",
-  "lastfmSummary": "\"Numbers on the Boards\" is a song by American rapper Pusha T from his debut studio album My Name Is My Name (2013). It was produced by Don Cannon, Kanye West and 88-Keys. On May 10, 2013, the song was officially released as the album's second official single by GOOD Music and Def Jam Recordings.\n\nOn April 29, 2013 Rolling Stone gave the song \"Numbers on the Boards\" 4 out of 5 stars, stating \"The star is Kanye West's beat, a contusive bass blur with percussion that's like bamboo sticks on a busted radiator. <a href=\"http://www.last.fm/music/Pusha+T/_/Numbers+on+the+Boards\">Read more on Last.fm</a>."
+  "lastfmSummary": "\"Numbers on the Boards\" is a song by American rapper Pusha T from his debut studio album My Name Is My Name (2013). It was produced by Don Cannon, Kanye West and 88-Keys. On May 10, 2013, the song was officially released as the album's second official single by GOOD Music and Def Jam Recordings.\n\nOn April 29, 2013 Rolling Stone gave the song \"Numbers on the Boards\" 4 out of 5 stars, stating \"The star is Kanye West's beat, a contusive bass blur with percussion that's like bamboo sticks on a busted radiator. <a href=\"http://www.last.fm/music/Pusha+T/_/Numbers+on+the+Boards\">Read more on Last.fm</a>.",
+  "musicbrainz": {
+    "artistTags": [
+      "boom bap",
+      "east coast hip hop",
+      "gangsta rap",
+      "hardcore hip hop",
+      "hip hop",
+      "southern hip hop",
+      "trap rap"
+    ],
+    "artistGenres": [
+      "boom bap",
+      "east coast hip hop",
+      "gangsta rap",
+      "hardcore hip hop",
+      "hip hop"
+    ]
+  }
 }

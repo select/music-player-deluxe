@@ -2,7 +2,7 @@
   "youtubeId": "x3ZyNTdLTI4",
   "title": "Why?",
   "artist": "Abstract Elements",
-  "lastFetched": "2025-11-19T16:39:43.105Z",
+  "lastFetched": "2025-11-23T16:53:28.612Z",
   "odesli": {
     "amazonMusic": "B09GYJPKP9",
     "amazonStore": "B09GYJPKP9",
@@ -15,5 +15,15 @@
   "lastfmId": "Abstract+Elements/_/Why%3F",
   "listeners": 216,
   "playcount": 637,
-  "artistMbid": "80ba0f2a-c8a6-4f5d-bf11-f2b5b077f4ed"
+  "artistMbid": "80ba0f2a-c8a6-4f5d-bf11-f2b5b077f4ed",
+  "musicbrainz": {
+    "artistTags": [
+      "drum and bass",
+      "minimal drum and bass"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "minimal drum and bass"
+    ]
+  }
 }

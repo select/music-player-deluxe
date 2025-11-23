@@ -5,7 +5,7 @@
   "album": "Miami Bell ’94",
   "duration": 314,
   "youtubeId": "nVhNCTH8pDs",
-  "lastFetched": "2025-11-23T15:40:44.385Z",
+  "lastFetched": "2025-11-23T16:49:16.578Z",
   "odesli": {
     "amazonMusic": "B019HNVM9S",
     "amazonStore": "B019HNVM9S",
@@ -28,5 +28,26 @@
   "listeners": 663760,
   "playcount": 4702809,
   "lastfmSummary": "The song was primarily written by David Gilmour. It describes Gilmour's thoughts on flying, for which he has a passion (being a licensed pilot with multiple ratings), though it has also been interpreted as a metaphor for beginning something new, experiencing a radical change in life, or, more specifically, Gilmour's feelings about striking out as the new leader of Pink Floyd after the departure of Roger Waters. Gilmour confirmed the latter interpretation on the Pink Floyd 25th Anniversary Special in May 1992. <a href=\"http://www.last.fm/music/Pink+Floyd/_/Learning+to+Fly\">Read more on Last.fm</a>.",
-  "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47"
+  "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
+  "musicbrainz": {
+    "artistTags": [
+      "acid rock",
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "experimental rock",
+      "progressive",
+      "progressive rock",
+      "psychedelic",
+      "psychedelic pop",
+      "psychedelic rock"
+    ],
+    "artistGenres": [
+      "acid rock",
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "experimental rock"
+    ]
+  }
 }
