@@ -2,7 +2,7 @@
   "youtubeId": "skXlKxjlUoo",
   "title": "Bekhauf",
   "artist": "Bloodywood",
-  "lastFetched": "2025-11-22T14:49:44.197Z",
+  "lastFetched": "2025-11-23T19:32:55.924Z",
   "odesli": {
     "amazonMusic": "B0B7T7NWFT",
     "amazonStore": "B0B7T7NWFT",
@@ -18,5 +18,13 @@
     "yandex": "34325313",
     "youtube": "skXlKxjlUoo",
     "youtubeMusic": "skXlKxjlUoo"
+  },
+  "lastfm": {
+    "id": "Bloodywood/_/Bekhauf",
+    "listeners": 2449,
+    "playcount": 9033,
+    "title": "Bekhauf",
+    "artist": "Bloodywood",
+    "artistMbid": "4e478f4f-a1e5-4ac9-84a3-f58f5c6454ab"
   }
 }

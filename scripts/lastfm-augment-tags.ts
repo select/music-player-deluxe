@@ -13,7 +13,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SONGS_DIR = path.join(__dirname, "../server/assets/songs");
-const RATE_LIMIT_MS = 1000; // 1 second between requests as requested
+const RATE_LIMIT_MS = 10000; // 1 second between requests as requested
 
 interface SongData {
 	youtubeId: string;

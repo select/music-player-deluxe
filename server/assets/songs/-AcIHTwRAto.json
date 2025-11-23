@@ -2,7 +2,7 @@
   "youtubeId": "-AcIHTwRAto",
   "title": "Einfache Gefühle",
   "artist": "Das Lumpenpack",
-  "lastFetched": "2025-11-20T09:41:15.261Z",
+  "lastFetched": "2025-11-23T19:30:15.257Z",
   "odesli": {
     "amazonMusic": "B09YHXKH5H",
     "amazonStore": "B09YHXKH5H",
@@ -14,5 +14,18 @@
     "yandex": "91292365",
     "youtube": "-AcIHTwRAto",
     "youtubeMusic": "-AcIHTwRAto"
+  },
+  "lastfm": {
+    "id": "Das+Lumpenpack/_/Einfache+Gef%C3%BChle",
+    "listeners": 7625,
+    "playcount": 57345,
+    "title": "Einfache Gefühle",
+    "artist": "Das Lumpenpack",
+    "tags": [
+      "indie",
+      "alternative",
+      "comedy",
+      "rock"
+    ]
   }
 }

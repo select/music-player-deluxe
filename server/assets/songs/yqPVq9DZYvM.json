@@ -2,7 +2,7 @@
   "youtubeId": "yqPVq9DZYvM",
   "title": "Fancy Sauce",
   "artist": "Green Day",
-  "lastFetched": "2025-11-22T14:41:12.735Z",
+  "lastFetched": "2025-11-23T19:31:50.183Z",
   "odesli": {
     "amazonMusic": "B0CKMM8P3B",
     "amazonStore": "B0CKMM8P3B",
@@ -14,5 +14,18 @@
     "tidal": "338407207",
     "youtube": "yqPVq9DZYvM",
     "youtubeMusic": "yqPVq9DZYvM"
+  },
+  "lastfm": {
+    "id": "Green+Day/_/Fancy+Sauce",
+    "listeners": 45911,
+    "playcount": 262405,
+    "title": "Fancy Sauce",
+    "artist": "Green Day",
+    "mbid": "8671577d-b4af-4797-8b7b-5362c1637045",
+    "artistMbid": "084308bd-1654-436f-ba03-df6697104e19",
+    "tags": [
+      "band",
+      "punk"
+    ]
   }
 }

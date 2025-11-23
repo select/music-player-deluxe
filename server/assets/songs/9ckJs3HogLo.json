@@ -2,7 +2,7 @@
   "youtubeId": "9ckJs3HogLo",
   "title": "Everlasting Sunday",
   "artist": "Cuthead",
-  "lastFetched": "2025-11-20T09:45:51.638Z",
+  "lastFetched": "2025-11-23T19:30:37.630Z",
   "odesli": {
     "amazonMusic": "B00FRNEHAO",
     "amazonStore": "B00FRNEHAO",
@@ -17,5 +17,17 @@
     "yandex": "80764023",
     "youtube": "9ckJs3HogLo",
     "youtubeMusic": "9ckJs3HogLo"
+  },
+  "lastfm": {
+    "id": "Cuthead/_/Everlasting+Sunday",
+    "listeners": 6084,
+    "playcount": 20419,
+    "title": "Everlasting Sunday",
+    "artist": "Cuthead",
+    "mbid": "ef4981a2-2908-4f3a-88b6-2891cb6cc8e6",
+    "artistMbid": "87088076-5965-4a71-b3ab-7be1de068514",
+    "tags": [
+      "beats"
+    ]
   }
 }

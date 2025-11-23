@@ -2,7 +2,7 @@
   "youtubeId": "JSHd5mm7qNI",
   "title": "Imouha",
   "artist": "Etran de L'AÏr",
-  "lastFetched": "2025-11-20T09:42:04.000Z",
+  "lastFetched": "2025-11-23T19:30:19.558Z",
   "odesli": {
     "amazonMusic": "B0DBM1L7KC",
     "amazonStore": "B0DBM1L7KC",
@@ -12,5 +12,16 @@
     "tidal": "365998197",
     "youtube": "JSHd5mm7qNI",
     "youtubeMusic": "JSHd5mm7qNI"
+  },
+  "lastfm": {
+    "id": "Etran+de+L%27A%C3%8Fr/_/Imouha",
+    "listeners": 10107,
+    "playcount": 34648,
+    "title": "Imouha",
+    "artist": "Etran de L'AÏr",
+    "mbid": "7017bbf6-bf81-45e9-8ecc-d88aa475b916",
+    "tags": [
+      "desert blues"
+    ]
   }
 }

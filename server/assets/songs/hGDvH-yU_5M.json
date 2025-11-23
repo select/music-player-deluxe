@@ -2,7 +2,7 @@
   "youtubeId": "hGDvH-yU_5M",
   "title": "Komm schon",
   "artist": "Deichkind",
-  "lastFetched": "2025-11-22T14:46:52.822Z",
+  "lastFetched": "2025-11-23T19:32:24.078Z",
   "odesli": {
     "amazonMusic": "B0DZVJ37GR",
     "amazonStore": "B0DZVJ37GR",
@@ -10,5 +10,18 @@
     "tidal": "179138",
     "youtube": "hGDvH-yU_5M",
     "youtubeMusic": "hGDvH-yU_5M"
+  },
+  "lastfm": {
+    "id": "Deichkind/_/Komm+schon",
+    "listeners": 5027,
+    "playcount": 25536,
+    "title": "Komm schon",
+    "artist": "Deichkind",
+    "mbid": "80b2d3a1-df69-406e-9525-b39c27365c22",
+    "artistMbid": "5de80871-f721-4c7c-b0c5-4ad0d350c232",
+    "tags": [
+      "hip-hop",
+      "german"
+    ]
   }
 }

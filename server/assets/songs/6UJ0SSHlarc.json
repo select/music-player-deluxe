@@ -2,7 +2,7 @@
   "youtubeId": "6UJ0SSHlarc",
   "title": "Experiment In Terror",
   "artist": "Henry Mancini",
-  "lastFetched": "2025-11-22T14:48:39.370Z",
+  "lastFetched": "2025-11-23T19:32:39.131Z",
   "odesli": {
     "amazonMusic": "B00R96JX56",
     "amazonStore": "B00R96JX56",
@@ -11,5 +11,19 @@
     "tidal": "38480186",
     "youtube": "6UJ0SSHlarc",
     "youtubeMusic": "6UJ0SSHlarc"
+  },
+  "lastfm": {
+    "id": "Henry+Mancini/_/Experiment+in+Terror",
+    "listeners": 36209,
+    "playcount": 122864,
+    "title": "Experiment in Terror",
+    "artist": "Henry Mancini",
+    "artistMbid": "83e71a21-caf7-4e48-8ff7-6512d51e88a3",
+    "tags": [
+      "secretagent",
+      "jazz",
+      "easy listening",
+      "soundtrack"
+    ]
   }
 }

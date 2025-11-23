@@ -2,7 +2,7 @@
   "youtubeId": "EYh0UHAViPY",
   "title": "California Dreamin'",
   "artist": "Max Martis & HALUNA",
-  "lastFetched": "2025-11-22T14:38:59.610Z",
+  "lastFetched": "2025-11-23T19:31:26.938Z",
   "odesli": {
     "amazonMusic": "B0C824KY2L",
     "amazonStore": "B0C824KY2L",
@@ -14,5 +14,12 @@
     "tidal": "299877674",
     "youtube": "EYh0UHAViPY",
     "youtubeMusic": "EYh0UHAViPY"
+  },
+  "lastfm": {
+    "id": "Max+Martis+&+Haluna/_/California+Dreamin%27",
+    "listeners": 61,
+    "playcount": 272,
+    "title": "California Dreamin'",
+    "artist": "Max Martis & Haluna"
   }
 }

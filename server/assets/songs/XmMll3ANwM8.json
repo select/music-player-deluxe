@@ -2,5 +2,19 @@
   "youtubeId": "XmMll3ANwM8",
   "title": "Acoustic Medley",
   "artist": "Bob Marley",
-  "lastFetched": "2025-11-20T11:51:13.069Z"
+  "lastFetched": "2025-11-23T19:30:25.734Z",
+  "lastfm": {
+    "id": "Bob+Marley/_/Acoustic+Medley",
+    "listeners": 29203,
+    "playcount": 99256,
+    "title": "Acoustic Medley",
+    "artist": "Bob Marley",
+    "artistMbid": "c33627c6-ef0d-49de-9ef0-c4804190040f",
+    "tags": [
+      "77davez-all-tracks",
+      "reggae",
+      "acoustic",
+      "mellow"
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "sO99BlyCBmQ",
   "title": "Astral (Original Mix)",
   "artist": "Landikhan",
-  "lastFetched": "2025-11-22T14:57:26.616Z",
+  "lastFetched": "2025-11-23T19:33:46.135Z",
   "odesli": {
     "amazonMusic": "B06XS8FKHQ",
     "amazonStore": "B06XS8FKHQ",
@@ -17,5 +17,17 @@
     "yandex": "55160877",
     "youtube": "sO99BlyCBmQ",
     "youtubeMusic": "sO99BlyCBmQ"
+  },
+  "lastfm": {
+    "id": "Landikhan/_/Astral+(Original+Mix)",
+    "listeners": 6,
+    "playcount": 6,
+    "title": "Astral (Original Mix)",
+    "artist": "Landikhan",
+    "tags": [
+      "deep house",
+      "tribal",
+      "bingo house"
+    ]
   }
 }

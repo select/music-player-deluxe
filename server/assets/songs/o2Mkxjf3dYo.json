@@ -2,7 +2,7 @@
   "youtubeId": "o2Mkxjf3dYo",
   "title": "Girl It's Alright",
   "artist": "Steven Seagal",
-  "lastFetched": "2025-11-20T09:40:05.930Z",
+  "lastFetched": "2025-11-23T19:30:07.530Z",
   "odesli": {
     "amazonMusic": "B000QMUBKQ",
     "amazonStore": "B000QMUBKQ",
@@ -11,5 +11,21 @@
     "tidal": "171727629",
     "youtube": "o2Mkxjf3dYo",
     "youtubeMusic": "o2Mkxjf3dYo"
+  },
+  "lastfm": {
+    "id": "Steven+Seagal/_/Girl+It%27s+Alright",
+    "listeners": 5650,
+    "playcount": 21243,
+    "title": "Girl It's Alright",
+    "artist": "Steven Seagal",
+    "mbid": "72884b40-4f4b-3950-89eb-329da321751a",
+    "artistMbid": "ab57a164-f30f-4aa5-8687-22abdbaeee44",
+    "tags": [
+      "rock",
+      "soul",
+      "rock ballad",
+      "ballade",
+      "lover hop"
+    ]
   }
 }

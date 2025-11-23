@@ -2,7 +2,7 @@
   "youtubeId": "TzgkwXjWuEg",
   "title": "Apple Of Sodom",
   "artist": "Marilyn Manson",
-  "lastFetched": "2025-11-22T15:05:33.377Z",
+  "lastFetched": "2025-11-23T19:34:45.391Z",
   "odesli": {
     "amazonMusic": "B07H156C7Y",
     "amazonStore": "B07H156C7Y",
@@ -17,5 +17,19 @@
     "yandex": "59028",
     "youtube": "TzgkwXjWuEg",
     "youtubeMusic": "TzgkwXjWuEg"
+  },
+  "lastfm": {
+    "id": "Marilyn+Manson/_/Apple+of+Sodom",
+    "listeners": 61769,
+    "playcount": 329998,
+    "title": "Apple of Sodom",
+    "artist": "Marilyn Manson",
+    "mbid": "7a888bfa-ce3f-32e4-b822-bbd6ccc10d63",
+    "artistMbid": "5dfdca28-9ddc-4853-933c-8bc97d87beec",
+    "tags": [
+      "industrial",
+      "soundtrack",
+      "industrial rock"
+    ]
   }
 }

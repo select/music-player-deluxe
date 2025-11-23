@@ -2,11 +2,24 @@
   "youtubeId": "Qer3lwd5hyA",
   "title": "NOID",
   "artist": "Tyler",
-  "lastFetched": "2025-11-20T09:46:19.080Z",
+  "lastFetched": "2025-11-23T19:30:40.046Z",
   "odesli": {
     "audiomack": "43841340",
     "soundcloud": "amari-sobers-greaves/tyler-the-creator-noid",
     "youtube": "Qer3lwd5hyA",
     "youtubeMusic": "Qer3lwd5hyA"
+  },
+  "lastfm": {
+    "id": "Tyler/_/Noid",
+    "listeners": 306,
+    "playcount": 1260,
+    "title": "Noid",
+    "artist": "Tyler",
+    "tags": [
+      "japanese",
+      "austrian",
+      "j-urban",
+      "rock"
+    ]
   }
 }

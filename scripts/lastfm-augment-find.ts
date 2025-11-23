@@ -14,7 +14,7 @@ const PLAYLIST_FILE = path.join(
 );
 const FAIL_FILE = path.join(__dirname, "../data/lastfm-fail.json");
 const API_URL = "http://localhost:3000/api/metadata/lastfm";
-const RATE_LIMIT_MS = 30000; // 30 seconds between requests (Last.fm is more lenient)
+const RATE_LIMIT_MS = 1000; // 30 seconds between requests (Last.fm is more lenient)
 
 interface FailData {
 	failedIds: string[];

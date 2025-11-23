@@ -2,7 +2,7 @@
   "youtubeId": "lPOHOtQ8Qw0",
   "title": "What's The Ugliest Part Of Your Body?",
   "artist": "Frank Zappa",
-  "lastFetched": "2025-11-20T09:35:55.973Z",
+  "lastFetched": "2025-11-23T19:29:35.833Z",
   "odesli": {
     "amazonMusic": "B00B31AZKK",
     "amazonStore": "B00B31AZKK",
@@ -19,5 +19,20 @@
     "yandex": "122536347",
     "youtube": "lPOHOtQ8Qw0",
     "youtubeMusic": "lPOHOtQ8Qw0"
+  },
+  "lastfm": {
+    "id": "Frank+Zappa/_/What%27s+The+Ugliest+Part+Of+Your+Body%3F",
+    "listeners": 31703,
+    "playcount": 121556,
+    "title": "What's The Ugliest Part Of Your Body?",
+    "artist": "Frank Zappa",
+    "mbid": "7784ec34-de7a-435c-a4f4-acd011048237",
+    "artistMbid": "e20747e7-55a4-452e-8766-7b985585082d",
+    "tags": [
+      "experimental",
+      "rock",
+      "progressive rock",
+      "60s"
+    ]
   }
 }

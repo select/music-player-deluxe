@@ -2,7 +2,7 @@
   "youtubeId": "wV5b2RWK0e0",
   "title": "Love Burns",
   "artist": "Black Rebel Motorcycle Club",
-  "lastFetched": "2025-11-22T15:04:22.231Z",
+  "lastFetched": "2025-11-23T19:34:29.416Z",
   "odesli": {
     "amazonMusic": "B0BQMSHVXC",
     "amazonStore": "B0BQMSHVXC",
@@ -12,5 +12,21 @@
     "yandex": "320872",
     "youtube": "wV5b2RWK0e0",
     "youtubeMusic": "wV5b2RWK0e0"
+  },
+  "lastfm": {
+    "id": "Black+Rebel+Motorcycle+Club/_/Love+Burns",
+    "listeners": 304115,
+    "playcount": 1629759,
+    "title": "Love Burns",
+    "artist": "Black Rebel Motorcycle Club",
+    "mbid": "07ef0015-8907-326a-95bd-6e4b1065d9e3",
+    "artistMbid": "32b90c92-9978-4a07-90eb-caa4b22f4907",
+    "tags": [
+      "indie rock",
+      "rock",
+      "indie",
+      "alternative rock",
+      "alternative"
+    ]
   }
 }

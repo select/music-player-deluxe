@@ -2,7 +2,7 @@
   "youtubeId": "gxh9CJ1FAC0",
   "title": "Change Init",
   "artist": "Cleo AD",
-  "lastFetched": "2025-11-22T14:56:08.405Z",
+  "lastFetched": "2025-11-23T19:33:29.717Z",
   "odesli": {
     "amazonMusic": "B0DPQTRDDT",
     "amazonStore": "B0DPQTRDDT",
@@ -15,5 +15,14 @@
     "yandex": "132299829",
     "youtube": "gxh9CJ1FAC0",
     "youtubeMusic": "gxh9CJ1FAC0"
+  },
+  "lastfm": {
+    "id": "Cleo+AD/_/Change+Init",
+    "listeners": 41,
+    "playcount": 95,
+    "title": "Change Init",
+    "artist": "Cleo AD",
+    "mbid": "0b34f5a0-903d-4b04-a132-1ea87df03353",
+    "artistMbid": "2ea8198b-9788-4b7d-ab51-410f5f90206d"
   }
 }

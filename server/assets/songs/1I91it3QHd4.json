@@ -2,7 +2,7 @@
   "youtubeId": "1I91it3QHd4",
   "title": "Cleo",
   "artist": "Donato Dozzy",
-  "lastFetched": "2025-11-22T14:45:10.597Z",
+  "lastFetched": "2025-11-23T19:32:15.374Z",
   "odesli": {
     "amazonMusic": "B07S378WHV",
     "amazonStore": "B07S378WHV",
@@ -13,5 +13,19 @@
     "tidal": "88121287",
     "youtube": "1I91it3QHd4",
     "youtubeMusic": "1I91it3QHd4"
+  },
+  "lastfm": {
+    "id": "Donato+Dozzy/_/Cleo",
+    "listeners": 7950,
+    "playcount": 26877,
+    "title": "Cleo",
+    "artist": "Donato Dozzy",
+    "mbid": "0c20026c-880b-4f22-a659-9bfa6bec8034",
+    "artistMbid": "4a2a0d6b-d871-400b-8d61-bf544854bdf6",
+    "tags": [
+      "techno",
+      "electronic",
+      "electro"
+    ]
   }
 }

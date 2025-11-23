@@ -2,7 +2,7 @@
   "youtubeId": "FXBeMlgCd0w",
   "title": "Feed Me",
   "artist": "Elton John",
-  "lastFetched": "2025-11-22T14:00:45.865Z",
+  "lastFetched": "2025-11-23T19:33:42.517Z",
   "odesli": {
     "amazonMusic": "B0767KP5L4",
     "amazonStore": "B0767KP5L4",
@@ -20,5 +20,19 @@
     "yandex": "20855",
     "youtube": "FXBeMlgCd0w",
     "youtubeMusic": "FXBeMlgCd0w"
+  },
+  "lastfm": {
+    "id": "Elton+John/_/Feed+Me",
+    "listeners": 8046,
+    "playcount": 25568,
+    "title": "Feed Me",
+    "artist": "Elton John",
+    "mbid": "08d4d180-7be4-3ba9-b012-b34770f11235",
+    "artistMbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+    "tags": [
+      "70s",
+      "soft rock",
+      "elton john"
+    ]
   }
 }

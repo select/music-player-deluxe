@@ -2,7 +2,7 @@
   "youtubeId": "pnTIsubYbCU",
   "title": "Go Away",
   "artist": "Weezer",
-  "lastFetched": "2025-11-22T15:04:15.917Z",
+  "lastFetched": "2025-11-23T19:34:28.064Z",
   "odesli": {
     "amazonMusic": "B00NQ3MDO4",
     "amazonStore": "B00NQ3MDO4",
@@ -11,5 +11,12 @@
     "tidal": "35056990",
     "youtube": "pnTIsubYbCU",
     "youtubeMusic": "pnTIsubYbCU"
+  },
+  "lastfm": {
+    "id": "Weezer/_/Go+Away",
+    "listeners": 81675,
+    "playcount": 568054,
+    "title": "Go Away",
+    "artist": "Weezer"
   }
 }

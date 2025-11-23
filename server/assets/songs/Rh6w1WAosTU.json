@@ -2,7 +2,7 @@
   "youtubeId": "Rh6w1WAosTU",
   "title": "Hunter's Harp",
   "artist": "Dirtwire",
-  "lastFetched": "2025-11-22T14:40:19.271Z",
+  "lastFetched": "2025-11-23T19:31:36.154Z",
   "odesli": {
     "amazonMusic": "B09BYWXF8C",
     "amazonStore": "B09BYWXF8C",
@@ -14,5 +14,20 @@
     "tidal": "193244991",
     "youtube": "Rh6w1WAosTU",
     "youtubeMusic": "Rh6w1WAosTU"
+  },
+  "lastfm": {
+    "id": "Dirtwire/_/Hunter%27s+Harp",
+    "listeners": 4852,
+    "playcount": 18366,
+    "title": "Hunter's Harp",
+    "artist": "Dirtwire",
+    "mbid": "602a7a20-3932-4300-9535-999155749cc8",
+    "artistMbid": "cb761761-4f52-4f29-9825-314c6e3d20ac",
+    "tags": [
+      "electronic",
+      "downtempo",
+      "trip-hop",
+      "fusion"
+    ]
   }
 }

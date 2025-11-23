@@ -2,7 +2,7 @@
   "youtubeId": "Bwb6io8ZKCA",
   "title": "L'amour c'est pas pour les caniches",
   "artist": "Joakim",
-  "lastFetched": "2025-11-22T14:40:02.567Z",
+  "lastFetched": "2025-11-23T19:31:33.492Z",
   "odesli": {
     "amazonMusic": "B002HMZQKI",
     "amazonStore": "B002HMZQKI",
@@ -16,5 +16,21 @@
     "yandex": "4581146",
     "youtube": "Bwb6io8ZKCA",
     "youtubeMusic": "Bwb6io8ZKCA"
+  },
+  "lastfm": {
+    "id": "Joakim/_/L%27amour+c%27est+pas+pour+les+caniches",
+    "listeners": 916,
+    "playcount": 2366,
+    "title": "L'amour c'est pas pour les caniches",
+    "artist": "Joakim",
+    "mbid": "0a358507-25ea-3d75-a9e4-5adf2c0b37b0",
+    "artistMbid": "6ed9f05b-97f3-437b-ae52-6b6fee5ecc30",
+    "tags": [
+      "electronic",
+      "french",
+      "electro",
+      "electropop",
+      "dance"
+    ]
   }
 }

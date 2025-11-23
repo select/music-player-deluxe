@@ -2,7 +2,7 @@
   "youtubeId": "178n_mTtgwI",
   "title": "Still Standing (Instrumental)",
   "artist": "Hilltop Hoods",
-  "lastFetched": "2025-11-20T09:44:41.699Z",
+  "lastFetched": "2025-11-23T19:30:31.231Z",
   "odesli": {
     "amazonMusic": "B0DP5X93S2",
     "amazonStore": "B0DP5X93S2",
@@ -19,5 +19,19 @@
     "tidal": "14340597",
     "youtube": "178n_mTtgwI",
     "youtubeMusic": "178n_mTtgwI"
+  },
+  "lastfm": {
+    "id": "Hilltop+Hoods/_/Still+Standing+(Instrumental)",
+    "listeners": 87,
+    "playcount": 238,
+    "title": "Still Standing (Instrumental)",
+    "artist": "Hilltop Hoods",
+    "artistMbid": "16e1fb95-6d1c-45a3-aad8-d3bcd7e06aac",
+    "tags": [
+      "hip-hop",
+      "australian",
+      "rap",
+      "aussie hip-hop"
+    ]
   }
 }

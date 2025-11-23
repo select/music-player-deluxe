@@ -2,7 +2,7 @@
   "youtubeId": "DEsKgbYs9Mc",
   "title": "Got To Be Mine",
   "artist": "Vulfmon",
-  "lastFetched": "2025-11-22T14:49:17.556Z",
+  "lastFetched": "2025-11-23T19:32:50.395Z",
   "odesli": {
     "amazonMusic": "B0D8DGKQGY",
     "amazonStore": "B0D8DGKQGY",
@@ -14,5 +14,18 @@
     "tidal": "372229154",
     "youtube": "DEsKgbYs9Mc",
     "youtubeMusic": "DEsKgbYs9Mc"
+  },
+  "lastfm": {
+    "id": "Vulfmon/_/Got+To+Be+Mine",
+    "listeners": 50771,
+    "playcount": 249890,
+    "title": "Got To Be Mine",
+    "artist": "Vulfmon",
+    "tags": [
+      "soul",
+      "jazz",
+      "indie",
+      "funk"
+    ]
   }
 }

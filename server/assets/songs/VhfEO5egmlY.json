@@ -2,7 +2,7 @@
   "youtubeId": "VhfEO5egmlY",
   "title": "Too Cold",
   "artist": "Vanilla Ice",
-  "lastFetched": "2025-11-20T09:40:18.836Z",
+  "lastFetched": "2025-11-23T19:30:08.826Z",
   "odesli": {
     "amazonMusic": "B000VZV3QY",
     "amazonStore": "B000VZV3QY",
@@ -12,5 +12,14 @@
     "tidal": "35695757",
     "youtube": "VhfEO5egmlY",
     "youtubeMusic": "VhfEO5egmlY"
+  },
+  "lastfm": {
+    "summary": "This is Vanilla Ice redoing his hip-hop classic hXc style! <a href=\"http://www.last.fm/music/Vanilla+Ice/_/Too+Cold\">Read more on Last.fm</a>.",
+    "id": "Vanilla+Ice/_/Too+Cold",
+    "listeners": 7015,
+    "playcount": 27778,
+    "title": "Too Cold",
+    "artist": "Vanilla Ice",
+    "artistMbid": "2d5583be-aafd-41ec-addd-df85913855ef"
   }
 }

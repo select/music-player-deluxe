@@ -2,7 +2,7 @@
   "youtubeId": "Ygfh6dFUtcU",
   "title": "Left Side Drive",
   "artist": "Boards Of Canada",
-  "lastFetched": "2025-11-20T09:36:50.113Z",
+  "lastFetched": "2025-11-23T19:29:43.922Z",
   "odesli": {
     "amazonMusic": "B001GQGRK4",
     "amazonStore": "B001GQGRK4",
@@ -11,5 +11,14 @@
     "tidal": "16023745",
     "youtube": "Ygfh6dFUtcU",
     "youtubeMusic": "Ygfh6dFUtcU"
+  },
+  "lastfm": {
+    "id": "Boards+of+Canada/_/Left+Side+Drive",
+    "listeners": 137720,
+    "playcount": 942475,
+    "title": "Left Side Drive",
+    "artist": "Boards of Canada",
+    "mbid": "02867d98-72f4-4c99-a4eb-7b16117b227c",
+    "artistMbid": "69158f97-4c07-4c4e-baf8-4e4ab1ed666e"
   }
 }

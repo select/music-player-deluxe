@@ -2,7 +2,7 @@
   "youtubeId": "yup8gIXxWDU",
   "title": "HelloWorld.java",
   "artist": "NANOWAR OF STEEL",
-  "lastFetched": "2025-11-22T14:52:52.592Z",
+  "lastFetched": "2025-11-23T19:33:12.616Z",
   "odesli": {
     "amazonMusic": "B0DD4K4W97",
     "amazonStore": "B0DD4K4W97",
@@ -12,5 +12,20 @@
     "yandex": "134573831",
     "youtube": "yup8gIXxWDU",
     "youtubeMusic": "yup8gIXxWDU"
+  },
+  "lastfm": {
+    "id": "Nanowar+of+Steel/_/HelloWorld.java",
+    "listeners": 3847,
+    "playcount": 20213,
+    "title": "HelloWorld.java",
+    "artist": "Nanowar of Steel",
+    "mbid": "a2ff69d7-a85e-43f7-b69b-ddb6d204c08d",
+    "artistMbid": "b879af63-9ff6-49b3-a556-1af86e753119",
+    "tags": [
+      "2024",
+      "metal",
+      "power metal",
+      "heavy metal"
+    ]
   }
 }

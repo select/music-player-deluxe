@@ -2,7 +2,7 @@
   "youtubeId": "3mecNrIaWOA",
   "title": "Sweet Mother",
   "artist": "Prince Nico Mbarga",
-  "lastFetched": "2025-11-22T14:46:02.241Z",
+  "lastFetched": "2025-11-23T19:32:19.367Z",
   "odesli": {
     "amazonMusic": "B01MRK4H8L",
     "amazonStore": "B01MRK4H8L",
@@ -13,5 +13,19 @@
     "yandex": "32278352",
     "youtube": "3mecNrIaWOA",
     "youtubeMusic": "3mecNrIaWOA"
+  },
+  "lastfm": {
+    "id": "Prince+Nico+Mbarga/_/Sweet+Mother",
+    "listeners": 3147,
+    "playcount": 8241,
+    "title": "Sweet Mother",
+    "artist": "Prince Nico Mbarga",
+    "mbid": "0970994a-4d73-484e-9fe6-e0af248bc7cb",
+    "artistMbid": "2d12a36d-3913-49bc-a738-7a055e980d45",
+    "tags": [
+      "african",
+      "highlife",
+      "africa"
+    ]
   }
 }

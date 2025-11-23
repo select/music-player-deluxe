@@ -2,7 +2,7 @@
   "youtubeId": "Npu0Ry4pMiY",
   "title": "Detonate",
   "artist": "Netta",
-  "lastFetched": "2025-11-22T14:34:17.987Z",
+  "lastFetched": "2025-11-23T19:30:53.555Z",
   "odesli": {
     "amazonMusic": "B0DVT8ZDFM",
     "amazonStore": "B0DVT8ZDFM",
@@ -12,5 +12,14 @@
     "tidal": "415411124",
     "youtube": "Npu0Ry4pMiY",
     "youtubeMusic": "Npu0Ry4pMiY"
+  },
+  "lastfm": {
+    "id": "Netta/_/Detonate",
+    "listeners": 1880,
+    "playcount": 11743,
+    "title": "Detonate",
+    "artist": "Netta",
+    "mbid": "b679a0a1-ffab-4cb1-bd1a-30ccc5337160",
+    "artistMbid": "6806600b-f824-4874-b574-f7b9a3e6cd3d"
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "mGCIh-Ln-DQ",
   "title": "Love and Happiness",
   "artist": "Monty Alexander",
-  "lastFetched": "2025-11-22T14:43:13.854Z",
+  "lastFetched": "2025-11-23T19:32:07.333Z",
   "odesli": {
     "amazonMusic": "B00K61IQK4",
     "amazonStore": "B00K61IQK4",
@@ -19,5 +19,17 @@
     "yandex": "18154523",
     "youtube": "mGCIh-Ln-DQ",
     "youtubeMusic": "mGCIh-Ln-DQ"
+  },
+  "lastfm": {
+    "id": "Monty+Alexander/_/Love+And+Happiness",
+    "listeners": 14021,
+    "playcount": 44191,
+    "title": "Love And Happiness",
+    "artist": "Monty Alexander",
+    "tags": [
+      "jazz",
+      "mellow",
+      "jazz fusion"
+    ]
   }
 }

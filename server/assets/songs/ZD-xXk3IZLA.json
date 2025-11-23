@@ -2,7 +2,7 @@
   "youtubeId": "ZD-xXk3IZLA",
   "title": "An Tagen wie diesen",
   "artist": "Fettes Brot",
-  "lastFetched": "2025-11-22T14:07:13.350Z",
+  "lastFetched": "2025-11-23T19:34:22.469Z",
   "odesli": {
     "amazonMusic": "B0FRFHWKXF",
     "amazonStore": "B0FRFHWKXF",
@@ -10,5 +10,14 @@
     "tidal": "461014191",
     "youtube": "ZD-xXk3IZLA",
     "youtubeMusic": "ZD-xXk3IZLA"
+  },
+  "lastfm": {
+    "id": "Fettes+Brot/_/An+Tagen+wie+diesen",
+    "listeners": 63179,
+    "playcount": 465051,
+    "title": "An Tagen wie diesen",
+    "artist": "Fettes Brot",
+    "mbid": "07a806e9-3658-45f5-a6d9-77f5f8039c5f",
+    "artistMbid": "733e7372-5400-4c79-9059-33e2b2262d01"
   }
 }

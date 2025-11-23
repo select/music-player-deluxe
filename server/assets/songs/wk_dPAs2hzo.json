@@ -2,7 +2,7 @@
   "youtubeId": "wk_dPAs2hzo",
   "title": "Space",
   "artist": "Galt MacDermot",
-  "lastFetched": "2025-11-22T15:00:22.223Z",
+  "lastFetched": "2025-11-23T19:34:04.739Z",
   "odesli": {
     "amazonMusic": "B00104M058",
     "amazonStore": "B00104M058",
@@ -10,5 +10,19 @@
     "tidal": "109108392",
     "youtube": "wk_dPAs2hzo",
     "youtubeMusic": "wk_dPAs2hzo"
+  },
+  "lastfm": {
+    "id": "Galt+Macdermot/_/space",
+    "listeners": 11017,
+    "playcount": 33319,
+    "title": "space",
+    "artist": "Galt Macdermot",
+    "mbid": "352ae190-4da2-3e73-acb3-9e43d5d6b469",
+    "tags": [
+      "60s",
+      "1960s",
+      "sampled",
+      "space songs"
+    ]
   }
 }

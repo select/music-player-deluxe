@@ -2,7 +2,7 @@
   "youtubeId": "i-P98B2skts",
   "title": "Inner City Life",
   "artist": "Goldie",
-  "lastFetched": "2025-11-22T14:49:11.014Z",
+  "lastFetched": "2025-11-23T19:32:49.167Z",
   "odesli": {
     "amazonMusic": "B07G8B1KYZ",
     "amazonStore": "B07G8B1KYZ",
@@ -11,5 +11,14 @@
     "tidal": "93199296",
     "youtube": "i-P98B2skts",
     "youtubeMusic": "i-P98B2skts"
+  },
+  "lastfm": {
+    "id": "Goldie/_/Inner+City+Life",
+    "listeners": 85894,
+    "playcount": 279295,
+    "title": "Inner City Life",
+    "artist": "Goldie",
+    "mbid": "5782a95d-cba7-3b2f-8673-b543d548391c",
+    "artistMbid": "c5393047-0c44-48eb-b5a8-070759f04371"
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "d5K3UgrPdbQ",
   "title": "Christmas in L.A.",
   "artist": "Vulfpeck",
-  "lastFetched": "2025-11-22T14:55:04.252Z",
+  "lastFetched": "2025-11-23T19:33:23.880Z",
   "odesli": {
     "amazonMusic": "B013NQUUXO",
     "amazonStore": "B013NQUUXO",
@@ -13,5 +13,20 @@
     "tidal": "50002415",
     "youtube": "d5K3UgrPdbQ",
     "youtubeMusic": "d5K3UgrPdbQ"
+  },
+  "lastfm": {
+    "id": "Vulfpeck/_/Christmas+in+L.A.",
+    "listeners": 44887,
+    "playcount": 239492,
+    "title": "Christmas in L.A.",
+    "artist": "Vulfpeck",
+    "mbid": "5478b2bd-c82c-439a-ab6f-8c95c02551bf",
+    "artistMbid": "7d0e8067-10b9-4069-95dc-1110a0fbb877",
+    "tags": [
+      "funk",
+      "christmas",
+      "theo katzman",
+      "xmas"
+    ]
   }
 }

@@ -2,12 +2,19 @@
   "youtubeId": "wPH7aUIHEi4",
   "title": "Badman Flow",
   "artist": "Sukuward",
-  "lastFetched": "2025-11-22T14:49:23.865Z",
+  "lastFetched": "2025-11-23T19:32:51.829Z",
   "odesli": {
     "amazonMusic": "B0BXSQLZ4Q",
     "amazonStore": "B0BXSQLZ4Q",
     "tidal": "280672372",
     "youtube": "wPH7aUIHEi4",
     "youtubeMusic": "wPH7aUIHEi4"
+  },
+  "lastfm": {
+    "id": "Sukuward/_/Badman+Flow",
+    "listeners": 7,
+    "playcount": 22,
+    "title": "Badman Flow",
+    "artist": "Sukuward"
   }
 }

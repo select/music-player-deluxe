@@ -2,7 +2,7 @@
   "youtubeId": "BiP0FpY88E4",
   "title": "ELEVATOR OPERATOR",
   "artist": "Electric Callboy",
-  "lastFetched": "2025-11-22T15:08:30.210Z",
+  "lastFetched": "2025-11-23T19:35:05.771Z",
   "odesli": {
     "amazonMusic": "B0DSCGMJ3N",
     "amazonStore": "B0DSCGMJ3N",
@@ -18,5 +18,20 @@
     "tidal": "409592913",
     "youtube": "BiP0FpY88E4",
     "youtubeMusic": "BiP0FpY88E4"
+  },
+  "lastfm": {
+    "id": "Electric+Callboy/_/Elevator+Operator",
+    "listeners": 65134,
+    "playcount": 653967,
+    "title": "Elevator Operator",
+    "artist": "Electric Callboy",
+    "mbid": "d0ebd6f1-a833-4cc5-adad-a66c23a21ccc",
+    "artistMbid": "cf075492-d880-4afc-b87b-d6b03e33dacc",
+    "tags": [
+      "ndh",
+      "aggrotech",
+      "electronicore",
+      "lol core"
+    ]
   }
 }

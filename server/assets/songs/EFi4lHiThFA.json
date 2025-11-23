@@ -2,7 +2,7 @@
   "youtubeId": "EFi4lHiThFA",
   "title": "Contract",
   "artist": "Gang Of Four",
-  "lastFetched": "2025-11-22T14:41:38.101Z",
+  "lastFetched": "2025-11-23T19:31:55.923Z",
   "odesli": {
     "amazonMusic": "B08XLQGJY9",
     "amazonStore": "B08XLQGJY9",
@@ -19,5 +19,19 @@
     "yandex": "443902",
     "youtube": "EFi4lHiThFA",
     "youtubeMusic": "EFi4lHiThFA"
+  },
+  "lastfm": {
+    "id": "Gang+of+Four/_/Contract",
+    "listeners": 133508,
+    "playcount": 479875,
+    "title": "Contract",
+    "artist": "Gang of Four",
+    "mbid": "3627991b-9aae-355c-b7df-c7e64a4c94ce",
+    "artistMbid": "d8661c02-f423-4d72-8044-40ff05daf7a1",
+    "tags": [
+      "post-punk",
+      "70s",
+      "new wave"
+    ]
   }
 }

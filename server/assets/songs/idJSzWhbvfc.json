@@ -2,7 +2,7 @@
   "youtubeId": "idJSzWhbvfc",
   "title": "Helpless",
   "artist": "Cleaners from Venus",
-  "lastFetched": "2025-11-22T14:41:44.609Z",
+  "lastFetched": "2025-11-23T19:31:57.249Z",
   "odesli": {
     "amazonMusic": "B07XNR7X45",
     "amazonStore": "B07XNR7X45",
@@ -10,5 +10,20 @@
     "tidal": "117364495",
     "youtube": "idJSzWhbvfc",
     "youtubeMusic": "idJSzWhbvfc"
+  },
+  "lastfm": {
+    "id": "Cleaners+From+Venus/_/Helpless",
+    "listeners": 2053,
+    "playcount": 6794,
+    "title": "Helpless",
+    "artist": "Cleaners From Venus",
+    "mbid": "024e1bff-5015-4a46-8d9d-952046f688cd",
+    "artistMbid": "1cf5f079-706d-4b1f-9de9-0bf8e298cc97",
+    "tags": [
+      "indie rock",
+      "neo-psychedelia",
+      "jangle pop",
+      "psychedelic pop"
+    ]
   }
 }

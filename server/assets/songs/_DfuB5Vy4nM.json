@@ -2,7 +2,7 @@
   "youtubeId": "_DfuB5Vy4nM",
   "title": "Okko",
   "artist": "Okko",
-  "lastFetched": "2025-11-22T14:44:00.244Z",
+  "lastFetched": "2025-11-23T19:32:10.254Z",
   "odesli": {
     "amazonMusic": "B0D3JHDW7P",
     "amazonStore": "B0D3JHDW7P",
@@ -18,5 +18,18 @@
     "tidal": "361911467",
     "youtube": "_DfuB5Vy4nM",
     "youtubeMusic": "_DfuB5Vy4nM"
+  },
+  "lastfm": {
+    "id": "Okko/_/Okko",
+    "listeners": 13,
+    "playcount": 18,
+    "title": "Okko",
+    "artist": "Okko",
+    "tags": [
+      "jazz",
+      "psychedelic rock",
+      "psychedelic",
+      "ethnic"
+    ]
   }
 }

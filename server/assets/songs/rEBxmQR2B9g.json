@@ -2,7 +2,7 @@
   "youtubeId": "rEBxmQR2B9g",
   "title": "Lose Your Way",
   "artist": "Sophie B. Hawkins",
-  "lastFetched": "2025-11-22T14:59:49.454Z",
+  "lastFetched": "2025-11-23T19:34:02.076Z",
   "odesli": {
     "amazonMusic": "B001RXFYXC",
     "amazonStore": "B001RXFYXC",
@@ -10,5 +10,18 @@
     "tidal": "338756",
     "youtube": "rEBxmQR2B9g",
     "youtubeMusic": "rEBxmQR2B9g"
+  },
+  "lastfm": {
+    "id": "Sophie+B.+Hawkins/_/Lose+Your+Way",
+    "listeners": 26416,
+    "playcount": 85392,
+    "title": "Lose Your Way",
+    "artist": "Sophie B. Hawkins",
+    "mbid": "846b1033-59d3-3aa1-83d5-c97381207861",
+    "artistMbid": "fd7a8bc1-1b25-4b4c-b899-8f7b3343a229",
+    "tags": [
+      "female vocalists",
+      "folk"
+    ]
   }
 }

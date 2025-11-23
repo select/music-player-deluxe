@@ -2,7 +2,7 @@
   "youtubeId": "8YoYa5N_2xU",
   "title": "No Apologies",
   "artist": "Ward 21",
-  "lastFetched": "2025-11-22T15:10:03.754Z",
+  "lastFetched": "2025-11-23T19:35:14.678Z",
   "odesli": {
     "amazonMusic": "B01APT4KYM",
     "amazonStore": "B01APT4KYM",
@@ -18,5 +18,20 @@
     "yandex": "934948",
     "youtube": "8YoYa5N_2xU",
     "youtubeMusic": "8YoYa5N_2xU"
+  },
+  "lastfm": {
+    "id": "Ward+21/_/No+Apologies",
+    "listeners": 1280,
+    "playcount": 2423,
+    "title": "No Apologies",
+    "artist": "Ward 21",
+    "mbid": "67fe2717-965e-345d-8c80-6a0e3ba7b63a",
+    "artistMbid": "427b2a44-165c-4607-8597-4b90caa9f0f8",
+    "tags": [
+      "dancehall",
+      "reggae",
+      "ragga",
+      "jamaica"
+    ]
   }
 }

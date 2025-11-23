@@ -2,7 +2,7 @@
   "youtubeId": "61e-uy6p8N0",
   "title": "Clandestina (Cover)",
   "artist": "Emma Peters",
-  "lastFetched": "2025-11-20T09:37:59.775Z",
+  "lastFetched": "2025-11-23T19:29:55.084Z",
   "odesli": {
     "amazonMusic": "B07VHPGX2N",
     "amazonStore": "B07VHPGX2N",
@@ -11,5 +11,18 @@
     "spotify": "3F2cGhJw0Qju3fSolrkXvK",
     "youtube": "61e-uy6p8N0",
     "youtubeMusic": "61e-uy6p8N0"
+  },
+  "lastfm": {
+    "id": "Emma+Peters/_/Clandestina+(Cover)",
+    "listeners": 9901,
+    "playcount": 76199,
+    "title": "Clandestina (Cover)",
+    "artist": "Emma Peters",
+    "artistMbid": "89646d43-5981-4ba6-b212-f162cc02918a",
+    "tags": [
+      "french",
+      "female vocalists",
+      "francophone"
+    ]
   }
 }

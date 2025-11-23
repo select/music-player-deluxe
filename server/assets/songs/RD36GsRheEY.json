@@ -2,11 +2,26 @@
   "youtubeId": "RD36GsRheEY",
   "title": "Alter Mann",
   "artist": "KNORKATOR",
-  "lastFetched": "2025-11-22T14:46:35.799Z",
+  "lastFetched": "2025-11-23T19:32:22.747Z",
   "odesli": {
     "amazonMusic": "B07QYGKXPP",
     "amazonStore": "B07QYGKXPP",
     "youtube": "RD36GsRheEY",
     "youtubeMusic": "RD36GsRheEY"
+  },
+  "lastfm": {
+    "id": "Knorkator/_/Alter+Mann",
+    "listeners": 39904,
+    "playcount": 292569,
+    "title": "Alter Mann",
+    "artist": "Knorkator",
+    "mbid": "147ac9e5-d0b9-4780-9be7-7a3760ca3443",
+    "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
+    "tags": [
+      "fun metal",
+      "metal",
+      "industrial metal",
+      "german"
+    ]
   }
 }

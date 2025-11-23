@@ -2,7 +2,7 @@
   "youtubeId": "mHliXVifhEM",
   "title": "Doctor Worm",
   "artist": "They Might Be Giants",
-  "lastFetched": "2025-11-22T15:09:03.163Z",
+  "lastFetched": "2025-11-23T19:35:08.876Z",
   "odesli": {
     "amazonMusic": "B00DZLN922",
     "amazonStore": "B00DZLN922",
@@ -15,5 +15,20 @@
     "tidal": "36723006",
     "youtube": "mHliXVifhEM",
     "youtubeMusic": "mHliXVifhEM"
+  },
+  "lastfm": {
+    "id": "They+Might+Be+Giants/_/Doctor+Worm",
+    "listeners": 94801,
+    "playcount": 745102,
+    "title": "Doctor Worm",
+    "artist": "They Might Be Giants",
+    "mbid": "faf737cd-f185-4f0f-bcff-247d2bcc4335",
+    "artistMbid": "183d6ef6-e161-47ff-9085-063c8b897e97",
+    "tags": [
+      "alternative rock",
+      "rock",
+      "funny",
+      "i feel like shit but this song is helping"
+    ]
   }
 }

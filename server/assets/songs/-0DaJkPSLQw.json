@@ -2,7 +2,7 @@
   "youtubeId": "-0DaJkPSLQw",
   "title": "Desperado",
   "artist": "Alice Cooper",
-  "lastFetched": "2025-11-22T15:11:39.029Z",
+  "lastFetched": "2025-11-23T19:35:24.645Z",
   "odesli": {
     "amazonMusic": "B00DAMOHAE",
     "amazonStore": "B00DAMOHAE",
@@ -15,5 +15,19 @@
     "yandex": "213547",
     "youtube": "-0DaJkPSLQw",
     "youtubeMusic": "-0DaJkPSLQw"
+  },
+  "lastfm": {
+    "id": "Alice+Cooper/_/Desperado",
+    "listeners": 102563,
+    "playcount": 382340,
+    "title": "Desperado",
+    "artist": "Alice Cooper",
+    "tags": [
+      "hard rock",
+      "classic rock",
+      "glam rock",
+      "alice cooper",
+      "rock"
+    ]
   }
 }

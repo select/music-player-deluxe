@@ -2,11 +2,23 @@
   "youtubeId": "4rXS5qH6GwA",
   "title": "Verita per Verita",
   "artist": "Jean Schultheis",
-  "lastFetched": "2025-11-22T15:03:56.022Z",
+  "lastFetched": "2025-11-23T19:34:24.033Z",
   "odesli": {
     "amazonMusic": "B0087Z22DI",
     "amazonStore": "B0087Z22DI",
     "youtube": "4rXS5qH6GwA",
     "youtubeMusic": "4rXS5qH6GwA"
+  },
+  "lastfm": {
+    "id": "Jean+Schultheis/_/Verita+per+verita",
+    "listeners": 205,
+    "playcount": 447,
+    "title": "Verita per verita",
+    "artist": "Jean Schultheis",
+    "artistMbid": "8d689e2a-0581-43c6-80b2-a464a14692ab",
+    "tags": [
+      "french",
+      "chanson française"
+    ]
   }
 }

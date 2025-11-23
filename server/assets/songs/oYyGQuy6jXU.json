@@ -2,7 +2,7 @@
   "youtubeId": "oYyGQuy6jXU",
   "title": "Murder Was The Bass",
   "artist": "DK8",
-  "lastFetched": "2025-11-22T15:03:11.712Z",
+  "lastFetched": "2025-11-23T19:34:19.075Z",
   "odesli": {
     "amazonMusic": "B00D26V620",
     "amazonStore": "B00D26V620",
@@ -10,5 +10,17 @@
     "tidal": "58799599",
     "youtube": "oYyGQuy6jXU",
     "youtubeMusic": "oYyGQuy6jXU"
+  },
+  "lastfm": {
+    "id": "DK8/_/Murder+Was+The+Bass",
+    "listeners": 5430,
+    "playcount": 14839,
+    "title": "Murder Was The Bass",
+    "artist": "DK8",
+    "mbid": "f1e188a4-301a-41dd-a0a5-b7d29e585d86",
+    "artistMbid": "219bf88c-0dda-4407-9a94-ea392cf6f379",
+    "tags": [
+      "techno"
+    ]
   }
 }

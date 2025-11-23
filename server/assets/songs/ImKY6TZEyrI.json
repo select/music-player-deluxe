@@ -2,7 +2,7 @@
   "youtubeId": "ImKY6TZEyrI",
   "title": "Fade Into You",
   "artist": "Mazzy Star",
-  "lastFetched": "2025-11-22T15:07:57.257Z",
+  "lastFetched": "2025-11-23T19:35:03.107Z",
   "odesli": {
     "amazonMusic": "B000TEB3VC",
     "amazonStore": "B000TEB3VC",
@@ -15,5 +15,21 @@
     "yandex": "252845",
     "youtube": "ImKY6TZEyrI",
     "youtubeMusic": "ImKY6TZEyrI"
+  },
+  "lastfm": {
+    "summary": "\"Fade into You\" is a song by American alternative rock band Mazzy Star from their second studio album, So Tonight That I Might See (1993). The song was written by lyricist Hope Sandoval and composer David Roback, who also served as producer. The song reached number three on the US Billboard Modern Rock Tracks chart in 1994 and is Mazzy Star's only single to appear on the Billboard Hot 100, peaking at #44. <a href=\"http://www.last.fm/music/Mazzy+Star/_/Fade+Into+You\">Read more on Last.fm</a>.",
+    "id": "Mazzy+Star/_/Fade+Into+You",
+    "listeners": 2005029,
+    "playcount": 30275350,
+    "tags": [
+      "lush",
+      "female vocalists",
+      "dream pop",
+      "Mellow",
+      "alternative"
+    ],
+    "title": "Fade Into You",
+    "artist": "Mazzy Star",
+    "artistMbid": "c48d4327-8122-4286-af66-05e1ee6ac4d8"
   }
 }

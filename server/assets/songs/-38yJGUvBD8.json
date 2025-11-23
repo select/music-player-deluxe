@@ -2,7 +2,7 @@
   "youtubeId": "-38yJGUvBD8",
   "title": "Canned Heat",
   "artist": "Canned Heat",
-  "lastFetched": "2025-11-22T14:57:53.748Z",
+  "lastFetched": "2025-11-23T19:33:52.247Z",
   "odesli": {
     "amazonMusic": "B001BKRW22",
     "amazonStore": "B001BKRW22",
@@ -20,5 +20,17 @@
     "yandex": "645609",
     "youtube": "-38yJGUvBD8",
     "youtubeMusic": "-38yJGUvBD8"
+  },
+  "lastfm": {
+    "id": "Canned+Heat/_/Canned+Heat",
+    "listeners": 5227,
+    "playcount": 16320,
+    "title": "Canned Heat",
+    "artist": "Canned Heat",
+    "mbid": "ae07cc03-97a0-4cbf-8fce-7b13138fa084",
+    "artistMbid": "815a0279-558c-4522-ac3b-6a1e259e95b5",
+    "tags": [
+      "bluesrock"
+    ]
   }
 }

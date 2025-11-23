@@ -2,7 +2,7 @@
   "youtubeId": "GEGNfw-jd_M",
   "title": "Song for Insane Times",
   "artist": "Kevin Ayers",
-  "lastFetched": "2025-11-22T15:12:10.730Z",
+  "lastFetched": "2025-11-23T19:35:27.399Z",
   "odesli": {
     "amazonMusic": "B013SSOYA2",
     "amazonStore": "B013SSOYA2",
@@ -18,5 +18,20 @@
     "yandex": "293155",
     "youtube": "GEGNfw-jd_M",
     "youtubeMusic": "GEGNfw-jd_M"
+  },
+  "lastfm": {
+    "id": "Kevin+Ayers/_/Song+for+Insane+Times",
+    "listeners": 13300,
+    "playcount": 44349,
+    "title": "Song for Insane Times",
+    "artist": "Kevin Ayers",
+    "mbid": "08e71675-70d7-482c-b062-e02462f50c42",
+    "artistMbid": "ad4ba77a-2382-4367-b687-89d38c58e16d",
+    "tags": [
+      "rock",
+      "psychedelic",
+      "progressive rock",
+      "canterbury scene"
+    ]
   }
 }

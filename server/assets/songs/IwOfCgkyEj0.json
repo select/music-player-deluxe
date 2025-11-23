@@ -2,7 +2,7 @@
   "youtubeId": "IwOfCgkyEj0",
   "title": "Like a Rolling Stone",
   "artist": "Bob Dylan",
-  "lastFetched": "2025-11-20T09:45:07.914Z",
+  "lastFetched": "2025-11-23T19:30:33.792Z",
   "odesli": {
     "amazonMusic": "B00136PR6C",
     "amazonStore": "B00136PR6C",
@@ -18,5 +18,21 @@
     "yandex": "628438",
     "youtube": "IwOfCgkyEj0",
     "youtubeMusic": "IwOfCgkyEj0"
+  },
+  "lastfm": {
+    "summary": "In 2004, Rolling Stone magazine declared \"Like a Rolling Stone\" the greatest song of all time.\nSpearheading Bob Dylan's  Highway 61 Revisited  (1965), Like A Rolling Stone  tells a surrealistic fairytale of a girl falling from high society. Notable not only because of the new rock sound, but also because of its length (clocking in at just over 6 minutes, it was an extremely long track for the time), it became Dylan's biggest hit up till then, reaching #2 in the UK Pop Singles Charts. <a href=\"http://www.last.fm/music/Bob+Dylan/_/Like+a+Rolling+Stone\">Read more on Last.fm</a>.",
+    "id": "Bob+Dylan/_/Like+a+Rolling+Stone",
+    "listeners": 1552951,
+    "playcount": 11669707,
+    "tags": [
+      "folk",
+      "classic rock",
+      "60s",
+      "singer-songwriter",
+      "rock"
+    ],
+    "title": "Like a Rolling Stone",
+    "artist": "Bob Dylan",
+    "artistMbid": "72c536dc-7137-4477-a521-567eeb840fa8"
   }
 }

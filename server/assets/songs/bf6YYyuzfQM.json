@@ -2,7 +2,7 @@
   "youtubeId": "bf6YYyuzfQM",
   "title": "Brillantin' Brutal",
   "artist": "Falco",
-  "lastFetched": "2025-11-22T14:47:27.987Z",
+  "lastFetched": "2025-11-23T19:32:26.728Z",
   "odesli": {
     "amazonMusic": "B073HKJ8Q2",
     "amazonStore": "B073HKJ8Q2",
@@ -11,5 +11,21 @@
     "tidal": "69222909",
     "youtube": "bf6YYyuzfQM",
     "youtubeMusic": "bf6YYyuzfQM"
+  },
+  "lastfm": {
+    "id": "Falco/_/Brillantin%27+brutal",
+    "listeners": 7088,
+    "playcount": 34431,
+    "title": "Brillantin' brutal",
+    "artist": "Falco",
+    "mbid": "0b44ed05-133b-4251-aadd-9ae7ebe6845f",
+    "artistMbid": "dcd95aa4-f3ff-492d-a621-8518ada0f58b",
+    "tags": [
+      "pop",
+      "80s",
+      "new wave",
+      "austrian",
+      "german"
+    ]
   }
 }

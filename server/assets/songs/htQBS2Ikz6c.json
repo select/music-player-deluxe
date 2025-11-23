@@ -2,7 +2,7 @@
   "youtubeId": "htQBS2Ikz6c",
   "title": "Berghain",
   "artist": "ROSALÍA feat. Björk & Yves Tumor",
-  "lastFetched": "2025-11-22T14:33:58.622Z",
+  "lastFetched": "2025-11-23T19:30:49.811Z",
   "odesli": {
     "amazonMusic": "B0FXHG15MF",
     "amazonStore": "B0FXHG15MF",
@@ -12,5 +12,12 @@
     "tidal": "469620050",
     "youtube": "htQBS2Ikz6c",
     "youtubeMusic": "htQBS2Ikz6c"
+  },
+  "lastfm": {
+    "id": "ROSAL%C3%8DA+feat.+Bj%C3%B6rk+&+Yves+Tumor/_/Berghain",
+    "listeners": 18,
+    "playcount": 67,
+    "title": "Berghain",
+    "artist": "ROSALÍA feat. Björk & Yves Tumor"
   }
 }

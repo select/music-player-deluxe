@@ -2,7 +2,7 @@
   "youtubeId": "u_SlPzpDCU8",
   "title": "Sun Touch",
   "artist": "Herbie Hancock",
-  "lastFetched": "2025-11-22T14:54:31.055Z",
+  "lastFetched": "2025-11-23T19:33:21.120Z",
   "odesli": {
     "amazonMusic": "B00138B48A",
     "amazonStore": "B00138B48A",
@@ -10,5 +10,18 @@
     "tidal": "1871254",
     "youtube": "u_SlPzpDCU8",
     "youtubeMusic": "u_SlPzpDCU8"
+  },
+  "lastfm": {
+    "id": "Herbie+Hancock/_/Sun+Touch",
+    "listeners": 33870,
+    "playcount": 89934,
+    "title": "Sun Touch",
+    "artist": "Herbie Hancock",
+    "tags": [
+      "jazz",
+      "jazz fusion",
+      "funk",
+      "piano"
+    ]
   }
 }

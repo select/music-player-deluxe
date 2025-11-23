@@ -2,7 +2,7 @@
   "youtubeId": "DU-RuR-qO4Y",
   "title": "Democracy",
   "artist": "Leonard Cohen",
-  "lastFetched": "2025-11-22T14:42:42.609Z",
+  "lastFetched": "2025-11-23T19:32:04.007Z",
   "odesli": {
     "amazonMusic": "B00136LHNY",
     "amazonStore": "B00136LHNY",
@@ -13,5 +13,21 @@
     "tidal": "32572510",
     "youtube": "DU-RuR-qO4Y",
     "youtubeMusic": "DU-RuR-qO4Y"
+  },
+  "lastfm": {
+    "id": "Leonard+Cohen/_/Democracy",
+    "listeners": 106610,
+    "playcount": 443069,
+    "title": "Democracy",
+    "artist": "Leonard Cohen",
+    "mbid": "00fe86ef-4f63-4c0b-9ff6-04cfbfe28c51",
+    "artistMbid": "65314b12-0e08-43fa-ba33-baaa7b874c15",
+    "tags": [
+      "singer-songwriter",
+      "political",
+      "leonard cohen",
+      "folk",
+      "rock"
+    ]
   }
 }

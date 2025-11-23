@@ -2,7 +2,7 @@
   "youtubeId": "jeKVzqfWXJg",
   "title": "Bul Bul Bul",
   "artist": "Kit Sebastian",
-  "lastFetched": "2025-11-22T14:35:54.373Z",
+  "lastFetched": "2025-11-23T19:31:02.874Z",
   "odesli": {
     "amazonMusic": "B0DFWPPRG1",
     "amazonStore": "B0DFWPPRG1",
@@ -15,5 +15,20 @@
     "tidal": "378308444",
     "youtube": "jeKVzqfWXJg",
     "youtubeMusic": "jeKVzqfWXJg"
+  },
+  "lastfm": {
+    "id": "Kit+Sebastian/_/Bul+Bul+Bul",
+    "listeners": 6350,
+    "playcount": 20990,
+    "title": "Bul Bul Bul",
+    "artist": "Kit Sebastian",
+    "mbid": "54ce0ce0-b429-4802-93a6-70588f1ac230",
+    "artistMbid": "d9447e90-e1f0-486f-b3dc-fc8208756370",
+    "tags": [
+      "psychedelic rock",
+      "neo-psychedelia",
+      "turkish pop",
+      "anatolian rock"
+    ]
   }
 }

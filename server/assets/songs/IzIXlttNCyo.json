@@ -2,7 +2,7 @@
   "youtubeId": "IzIXlttNCyo",
   "title": "I'm Deranged",
   "artist": "David Bowie",
-  "lastFetched": "2025-11-20T09:37:45.451Z",
+  "lastFetched": "2025-11-23T19:29:52.728Z",
   "odesli": {
     "amazonMusic": "B017CDGUKQ",
     "amazonStore": "B017CDGUKQ",
@@ -17,5 +17,22 @@
     "yandex": "701757",
     "youtube": "IzIXlttNCyo",
     "youtubeMusic": "IzIXlttNCyo"
+  },
+  "lastfm": {
+    "summary": "Two versions of the track were featured in the 1997 David Lynch film, Lost Highway. <a href=\"http://www.last.fm/music/David+Bowie/_/I%27m+Deranged\">Read more on Last.fm</a>.",
+    "id": "David+Bowie/_/I%27m+Deranged",
+    "listeners": 107376,
+    "playcount": 610503,
+    "title": "I'm Deranged",
+    "artist": "David Bowie",
+    "mbid": "ccd8a3d5-97bb-496d-8048-87fcafc817a2",
+    "artistMbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+    "tags": [
+      "rock",
+      "soundtrack",
+      "lost highway",
+      "alternative",
+      "atmospheric"
+    ]
   }
 }

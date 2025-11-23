@@ -2,7 +2,7 @@
   "youtubeId": "ZMnrlAYUypE",
   "title": "State of the Nation",
   "artist": "Fad Gadget",
-  "lastFetched": "2025-11-22T14:55:48.646Z",
+  "lastFetched": "2025-11-23T19:33:26.543Z",
   "odesli": {
     "amazonMusic": "B00IL4I6SU",
     "amazonStore": "B00IL4I6SU",
@@ -11,5 +11,20 @@
     "tidal": "34512228",
     "youtube": "ZMnrlAYUypE",
     "youtubeMusic": "ZMnrlAYUypE"
+  },
+  "lastfm": {
+    "id": "Fad+Gadget/_/State+of+the+Nation",
+    "listeners": 21536,
+    "playcount": 78127,
+    "title": "State of the Nation",
+    "artist": "Fad Gadget",
+    "mbid": "1a9b19ff-b58f-340e-b432-69a71541bc03",
+    "artistMbid": "5c96def1-68a5-4aa3-8f71-3ae427a33eb4",
+    "tags": [
+      "new wave",
+      "80s",
+      "post-punk",
+      "electronic"
+    ]
   }
 }

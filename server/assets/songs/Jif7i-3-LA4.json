@@ -2,7 +2,7 @@
   "youtubeId": "Jif7i-3-LA4",
   "title": "KISS ME",
   "artist": "Kaeto",
-  "lastFetched": "2025-11-20T09:47:09.976Z",
+  "lastFetched": "2025-11-23T19:30:46.387Z",
   "odesli": {
     "amazonMusic": "B0D8QWCVN6",
     "amazonStore": "B0D8QWCVN6",
@@ -13,5 +13,18 @@
     "tidal": "387049636",
     "youtube": "Jif7i-3-LA4",
     "youtubeMusic": "Jif7i-3-LA4"
+  },
+  "lastfm": {
+    "id": "Kaeto/_/KISS+ME",
+    "listeners": 14093,
+    "playcount": 55387,
+    "title": "KISS ME",
+    "artist": "Kaeto",
+    "artistMbid": "87a1ee3e-7ae2-4af4-8c16-883995453706",
+    "tags": [
+      "indie",
+      "electronic",
+      "indie pop"
+    ]
   }
 }

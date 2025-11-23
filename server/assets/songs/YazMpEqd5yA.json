@@ -2,7 +2,7 @@
   "youtubeId": "YazMpEqd5yA",
   "title": "Trip To The Moon",
   "artist": "Acen",
-  "lastFetched": "2025-11-22T15:00:05.566Z",
+  "lastFetched": "2025-11-23T19:34:03.407Z",
   "odesli": {
     "amazonMusic": "B0CB19HH14",
     "amazonStore": "B0CB19HH14",
@@ -19,5 +19,21 @@
     "yandex": "130776946",
     "youtube": "YazMpEqd5yA",
     "youtubeMusic": "YazMpEqd5yA"
+  },
+  "lastfm": {
+    "id": "Acen/_/Trip+to+the+moon",
+    "listeners": 587,
+    "playcount": 1864,
+    "title": "Trip to the moon",
+    "artist": "Acen",
+    "mbid": "6d7a848a-3e2d-4b87-8161-41617d38bbe4",
+    "artistMbid": "a4fe5665-f303-48ff-8e4e-ca59ec257401",
+    "tags": [
+      "rave",
+      "breakbeat",
+      "old school hardcore",
+      "old skool",
+      "hardcore"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "0X6wj4PEnFg",
   "title": "fyne",
   "artist": "Salz",
-  "lastFetched": "2025-11-22T14:53:08.133Z",
+  "lastFetched": "2025-11-23T19:33:13.948Z",
   "odesli": {
     "amazonMusic": "B0DP3G5LX8",
     "amazonStore": "B0DP3G5LX8",
@@ -13,5 +13,18 @@
     "tidal": "402041604",
     "youtube": "0X6wj4PEnFg",
     "youtubeMusic": "0X6wj4PEnFg"
+  },
+  "lastfm": {
+    "id": "Salz/_/fyne",
+    "listeners": 51,
+    "playcount": 107,
+    "title": "fyne",
+    "artist": "Salz",
+    "tags": [
+      "minimal techno",
+      "minimal",
+      "kompakt",
+      "electronic"
+    ]
   }
 }

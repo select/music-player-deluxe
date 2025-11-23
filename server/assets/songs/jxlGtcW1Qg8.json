@@ -2,7 +2,7 @@
   "youtubeId": "jxlGtcW1Qg8",
   "title": "The Pink Room",
   "artist": "Angelo Badalamenti",
-  "lastFetched": "2025-11-22T15:05:20.649Z",
+  "lastFetched": "2025-11-23T19:34:42.320Z",
   "odesli": {
     "amazonMusic": "B003PSWPV6",
     "amazonStore": "B003PSWPV6",
@@ -10,5 +10,20 @@
     "spotify": "5c434NcYl2SfhW0lfBgp1t",
     "youtube": "jxlGtcW1Qg8",
     "youtubeMusic": "jxlGtcW1Qg8"
+  },
+  "lastfm": {
+    "id": "Angelo+Badalamenti/_/The+Pink+Room",
+    "listeners": 83284,
+    "playcount": 427399,
+    "title": "The Pink Room",
+    "artist": "Angelo Badalamenti",
+    "mbid": "3167a543-c2ef-4621-ae19-87d145a7237f",
+    "artistMbid": "5894dac5-0260-4175-b36e-e34680a859d6",
+    "tags": [
+      "soundtrack",
+      "twin peaks",
+      "loved",
+      "instrumental"
+    ]
   }
 }

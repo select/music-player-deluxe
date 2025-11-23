@@ -2,7 +2,7 @@
   "youtubeId": "L5w9h6sR5x8",
   "title": "Hale Bopp (original mix)",
   "artist": "Der Dritte Raum",
-  "lastFetched": "2025-11-22T15:02:55.581Z",
+  "lastFetched": "2025-11-23T19:34:17.711Z",
   "odesli": {
     "amazonMusic": "B0CV7GW1L1",
     "amazonStore": "B0CV7GW1L1",
@@ -14,5 +14,21 @@
     "yandex": "40265262",
     "youtube": "L5w9h6sR5x8",
     "youtubeMusic": "L5w9h6sR5x8"
+  },
+  "lastfm": {
+    "id": "Der+Dritte+Raum/_/Hale+Bopp+(Original+Mix)",
+    "listeners": 1054,
+    "playcount": 3972,
+    "title": "Hale Bopp (Original Mix)",
+    "artist": "Der Dritte Raum",
+    "mbid": "cdcd8ec4-be84-476b-bbff-f3bb778779f3",
+    "artistMbid": "432a7d01-b55a-49de-b909-4b93d48a556f",
+    "tags": [
+      "techno",
+      "electronic",
+      "minimal",
+      "minimal techno",
+      "electro"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "7SEnj3_6hWQ",
   "title": "A&E",
   "artist": "Inga Copeland",
-  "lastFetched": "2025-11-22T15:02:21.542Z",
+  "lastFetched": "2025-11-23T19:34:14.261Z",
   "odesli": {
     "amazonMusic": "B073P9P6PK",
     "amazonStore": "B073P9P6PK",
@@ -11,5 +11,21 @@
     "tidal": "19160546",
     "youtube": "7SEnj3_6hWQ",
     "youtubeMusic": "7SEnj3_6hWQ"
+  },
+  "lastfm": {
+    "id": "Inga+Copeland/_/A&E",
+    "listeners": 18905,
+    "playcount": 77535,
+    "title": "A&E",
+    "artist": "Inga Copeland",
+    "mbid": "63e6d746-6f3c-3eaa-9ceb-c9d94eaa8bcb",
+    "artistMbid": "f1bf6126-09a6-4577-b872-d7dd3274768b",
+    "tags": [
+      "dub",
+      "female vocalists",
+      "ladytron",
+      "5 stars",
+      "frauen und technik"
+    ]
   }
 }

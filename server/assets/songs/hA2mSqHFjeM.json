@@ -2,7 +2,7 @@
   "youtubeId": "hA2mSqHFjeM",
   "title": "Road to Zion",
   "artist": "Petra",
-  "lastFetched": "2025-11-22T15:04:41.632Z",
+  "lastFetched": "2025-11-23T19:34:34.689Z",
   "odesli": {
     "amazonMusic": "B00E1X0GU6",
     "amazonStore": "B00E1X0GU6",
@@ -10,5 +10,19 @@
     "soundcloud": "petra-84494/road-to-zion-more-power-to-ya",
     "youtube": "hA2mSqHFjeM",
     "youtubeMusic": "hA2mSqHFjeM"
+  },
+  "lastfm": {
+    "id": "Petra/_/Road+to+Zion",
+    "listeners": 1840,
+    "playcount": 9421,
+    "title": "Road to Zion",
+    "artist": "Petra",
+    "tags": [
+      "christian rock",
+      "hard rock",
+      "christian",
+      "rock",
+      "classic rock"
+    ]
   }
 }

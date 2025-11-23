@@ -2,7 +2,7 @@
   "youtubeId": "x1JrRwKeAP4",
   "title": "If I Was",
   "artist": "Midge Ure",
-  "lastFetched": "2025-11-22T14:59:17.327Z",
+  "lastFetched": "2025-11-23T19:33:59.527Z",
   "odesli": {
     "amazonMusic": "B0B3SF2L18",
     "amazonStore": "B0B3SF2L18",
@@ -15,5 +15,20 @@
     "yandex": "308508",
     "youtube": "x1JrRwKeAP4",
     "youtubeMusic": "x1JrRwKeAP4"
+  },
+  "lastfm": {
+    "summary": "This song went to No. 1 in 1985. The song came from the album, The Gift.\nTRIVIA: The bass being played on the single is by Mrk king, of Level 42 fame. <a href=\"http://www.last.fm/music/Midge+Ure/_/If+I+Was\">Read more on Last.fm</a>.",
+    "id": "Midge+Ure/_/If+I+Was",
+    "listeners": 74831,
+    "playcount": 305524,
+    "title": "If I Was",
+    "artist": "Midge Ure",
+    "artistMbid": "24cac374-29bd-499f-a0f8-72165d2f2f43",
+    "tags": [
+      "80s",
+      "new wave",
+      "synthpop",
+      "pop"
+    ]
   }
 }

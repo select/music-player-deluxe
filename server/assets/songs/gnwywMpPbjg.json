@@ -2,7 +2,7 @@
   "youtubeId": "gnwywMpPbjg",
   "title": "Tonttuheviä",
   "artist": "Hevisaurus",
-  "lastFetched": "2025-11-22T14:54:47.165Z",
+  "lastFetched": "2025-11-23T19:33:22.549Z",
   "odesli": {
     "amazonMusic": "B006P8M360",
     "amazonStore": "B006P8M360",
@@ -11,5 +11,20 @@
     "tidal": "8520609",
     "youtube": "gnwywMpPbjg",
     "youtubeMusic": "gnwywMpPbjg"
+  },
+  "lastfm": {
+    "id": "Hevisaurus/_/Tonttuhevi%C3%A4",
+    "listeners": 1203,
+    "playcount": 4458,
+    "title": "Tonttuheviä",
+    "artist": "Hevisaurus",
+    "mbid": "3379003f-e211-4b14-9d28-a957e900ef20",
+    "artistMbid": "56fce83a-b214-4879-9a7d-32b2f83acc44",
+    "tags": [
+      "heavy metal",
+      "power metal",
+      "finnish",
+      "dinosaur metal"
+    ]
   }
 }

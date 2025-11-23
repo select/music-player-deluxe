@@ -2,7 +2,7 @@
   "youtubeId": "yrbSMq42n7Y",
   "title": "Liebesbriefe",
   "artist": "fyne",
-  "lastFetched": "2025-11-22T14:35:37.733Z",
+  "lastFetched": "2025-11-23T19:31:01.542Z",
   "odesli": {
     "amazonMusic": "B0DP3G9B1W",
     "amazonStore": "B0DP3G9B1W",
@@ -15,5 +15,16 @@
     "tidal": "402041608",
     "youtube": "yrbSMq42n7Y",
     "youtubeMusic": "yrbSMq42n7Y"
+  },
+  "lastfm": {
+    "summary": "Release-Date: 09.05.2024 <a href=\"http://www.last.fm/music/fyne/_/Liebesbriefe\">Read more on Last.fm</a>.",
+    "id": "fyne/_/Liebesbriefe",
+    "listeners": 8524,
+    "playcount": 63621,
+    "title": "Liebesbriefe",
+    "artist": "fyne",
+    "tags": [
+      "pop"
+    ]
   }
 }

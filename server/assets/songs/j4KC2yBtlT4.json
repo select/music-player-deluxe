@@ -2,7 +2,7 @@
   "youtubeId": "j4KC2yBtlT4",
   "title": "Shallow Love",
   "artist": "LARI LUKE",
-  "lastFetched": "2025-11-22T14:39:17.073Z",
+  "lastFetched": "2025-11-23T19:31:28.927Z",
   "odesli": {
     "amazonMusic": "B0CRRY57RP",
     "amazonStore": "B0CRRY57RP",
@@ -13,5 +13,19 @@
     "tidal": "338886156",
     "youtube": "j4KC2yBtlT4",
     "youtubeMusic": "j4KC2yBtlT4"
+  },
+  "lastfm": {
+    "id": "Lari+Luke/_/Shallow+Love",
+    "listeners": 9,
+    "playcount": 40,
+    "title": "Shallow Love",
+    "artist": "Lari Luke",
+    "tags": [
+      "indie",
+      "pop",
+      "electronic",
+      "techno",
+      "electro pop"
+    ]
   }
 }

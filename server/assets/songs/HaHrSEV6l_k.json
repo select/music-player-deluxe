@@ -2,7 +2,7 @@
   "youtubeId": "HaHrSEV6l_k",
   "title": "Neon Pill",
   "artist": "Cage The Elephant",
-  "lastFetched": "2025-11-20T09:34:45.897Z",
+  "lastFetched": "2025-11-23T19:29:26.617Z",
   "odesli": {
     "amazonMusic": "B0CWHLMGPY",
     "amazonStore": "B0CWHLMGPY",
@@ -18,5 +18,19 @@
     "tidal": "362908061",
     "youtube": "HaHrSEV6l_k",
     "youtubeMusic": "HaHrSEV6l_k"
+  },
+  "lastfm": {
+    "id": "Cage+the+Elephant/_/Neon+Pill",
+    "listeners": 152511,
+    "playcount": 924693,
+    "title": "Neon Pill",
+    "artist": "Cage the Elephant",
+    "mbid": "43dfecd4-6866-4419-82fe-e09e1e08a044",
+    "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
+    "tags": [
+      "indie rock",
+      "alternative rock",
+      "new wave"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "AkSSDgSCUZw",
   "title": "Great Vacation",
   "artist": "Dirt Poor Robins",
-  "lastFetched": "2025-11-22T14:48:58.274Z",
+  "lastFetched": "2025-11-23T19:32:43.227Z",
   "odesli": {
     "amazonMusic": "B000QNJ80Y",
     "amazonStore": "B000QNJ80Y",
@@ -20,5 +20,19 @@
     "yandex": "7245084",
     "youtube": "AkSSDgSCUZw",
     "youtubeMusic": "AkSSDgSCUZw"
+  },
+  "lastfm": {
+    "id": "Dirt+Poor+Robins/_/Great+Vacation",
+    "listeners": 34454,
+    "playcount": 328321,
+    "title": "Great Vacation",
+    "artist": "Dirt Poor Robins",
+    "mbid": "380d0e7a-fc01-4d2d-8981-ef603045edbe",
+    "artistMbid": "48104fe6-2006-49c0-87dd-ba077c798d8d",
+    "tags": [
+      "radiostationfinds",
+      "cabaret noir",
+      "my top 100 of 2015"
+    ]
   }
 }

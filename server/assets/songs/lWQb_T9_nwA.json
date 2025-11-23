@@ -2,7 +2,7 @@
   "youtubeId": "lWQb_T9_nwA",
   "title": "Muffin Man",
   "artist": "Frank Zappa",
-  "lastFetched": "2025-11-22T14:58:43.121Z",
+  "lastFetched": "2025-11-23T19:33:57.161Z",
   "odesli": {
     "amazonMusic": "B00AAAK7GM",
     "amazonStore": "B00AAAK7GM",
@@ -20,5 +20,22 @@
     "yandex": "4723482",
     "youtube": "lWQb_T9_nwA",
     "youtubeMusic": "lWQb_T9_nwA"
+  },
+  "lastfm": {
+    "summary": "Muffin Man is a song recorded live by Frank Zappa. It appears on his 1975 mostly live album Bongo Fury Made with Captain Beefheart or Don Van Vliet. The song begins with studio recorded spoken word lyrics delivered by Zappa and is followed by the chorus. Directly after this, a lengthy guitar solo is performed by Frank Zappa and a repeat of the chorus with backing vocals from Captain Beefheart.\n\nThe song closes the album, as well as the compilation Strictly Commercial, and was also used as a finale in concerts for many years afterwards. <a href=\"http://www.last.fm/music/Frank+Zappa/_/Muffin+Man\">Read more on Last.fm</a>.",
+    "id": "Frank+Zappa/_/Muffin+Man",
+    "listeners": 123232,
+    "playcount": 619893,
+    "title": "Muffin Man",
+    "artist": "Frank Zappa",
+    "mbid": "5d29785f-c374-4cde-80d7-56c4a88a719f",
+    "artistMbid": "e20747e7-55a4-452e-8766-7b985585082d",
+    "tags": [
+      "progressive rock",
+      "rock",
+      "zappa",
+      "avant-garde",
+      "frank zappa"
+    ]
   }
 }

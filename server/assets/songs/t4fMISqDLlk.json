@@ -2,7 +2,7 @@
   "youtubeId": "t4fMISqDLlk",
   "title": "Hafi Deo",
   "artist": "Tabu Ley Rochereau",
-  "lastFetched": "2025-11-20T09:38:27.201Z",
+  "lastFetched": "2025-11-23T19:29:58.771Z",
   "odesli": {
     "amazonMusic": "B09TQPK27J",
     "amazonStore": "B09TQPK27J",
@@ -12,5 +12,14 @@
     "tidal": "219211019",
     "youtube": "t4fMISqDLlk",
     "youtubeMusic": "t4fMISqDLlk"
+  },
+  "lastfm": {
+    "id": "Tabu+Ley+Rochereau/_/Hafi+Deo",
+    "listeners": 13831,
+    "playcount": 48585,
+    "title": "Hafi Deo",
+    "artist": "Tabu Ley Rochereau",
+    "mbid": "ea89f922-0620-4307-9d3b-92cbaec040c0",
+    "artistMbid": "85a694a0-dde9-4d79-a3b5-11950be0f3de"
   }
 }

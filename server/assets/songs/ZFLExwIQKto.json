@@ -2,7 +2,7 @@
   "youtubeId": "ZFLExwIQKto",
   "title": "Oi To The World",
   "artist": "No Doubt",
-  "lastFetched": "2025-11-22T14:51:47.006Z",
+  "lastFetched": "2025-11-23T19:33:07.744Z",
   "odesli": {
     "amazonMusic": "B01N0XW72R",
     "amazonStore": "B01N0XW72R",
@@ -11,5 +11,14 @@
     "tidal": "68992789",
     "youtube": "ZFLExwIQKto",
     "youtubeMusic": "ZFLExwIQKto"
+  },
+  "lastfm": {
+    "id": "No+Doubt/_/Oi+to+the+World",
+    "listeners": 88159,
+    "playcount": 355428,
+    "title": "Oi to the World",
+    "artist": "No Doubt",
+    "mbid": "f6bee05b-d388-4429-af8e-6528d8f1601c",
+    "artistMbid": "fbd2a255-1d57-4d31-ac11-65b671c19958"
   }
 }

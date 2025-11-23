@@ -2,7 +2,7 @@
   "youtubeId": "dRFyC3qnA0I",
   "title": "It's All True",
   "artist": "World Brain",
-  "lastFetched": "2025-11-22T14:56:48.055Z",
+  "lastFetched": "2025-11-23T19:33:38.728Z",
   "odesli": {
     "amazonMusic": "B0B5VJ81CS",
     "amazonStore": "B0B5VJ81CS",
@@ -13,5 +13,18 @@
     "spotify": "05haPqZrnAq68ifuRQslLp",
     "youtube": "dRFyC3qnA0I",
     "youtubeMusic": "dRFyC3qnA0I"
+  },
+  "lastfm": {
+    "id": "World+Brain/_/It%27s+All+True",
+    "listeners": 8023,
+    "playcount": 19460,
+    "title": "It's All True",
+    "artist": "World Brain",
+    "mbid": "3a8106b5-2b68-4d9d-8844-a15eba992a4b",
+    "tags": [
+      "indie pop",
+      "electronic",
+      "pop"
+    ]
   }
 }

@@ -2,12 +2,25 @@
   "youtubeId": "0baPkgP8epY",
   "title": "Soul Travel",
   "artist": "Gary Wilson",
-  "lastFetched": "2025-11-22T15:06:05.388Z",
+  "lastFetched": "2025-11-23T19:34:53.922Z",
   "odesli": {
     "pandora": "TR:861592",
     "soundcloud": "garywilsonofficial/soul-travel",
     "tidal": "185780489",
     "youtube": "0baPkgP8epY",
     "youtubeMusic": "0baPkgP8epY"
+  },
+  "lastfm": {
+    "id": "Gary+Wilson/_/Soul+Travel",
+    "listeners": 2274,
+    "playcount": 6621,
+    "title": "Soul Travel",
+    "artist": "Gary Wilson",
+    "mbid": "2f0b02a5-9968-40a2-82e4-38d0fae111b2",
+    "artistMbid": "90089f6c-419c-486d-a293-7463dc877f68",
+    "tags": [
+      "remix",
+      "metro funky"
+    ]
   }
 }

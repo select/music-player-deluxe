@@ -2,7 +2,7 @@
   "youtubeId": "FGM3U3buQj0",
   "title": "Classical Dragon",
   "artist": "Marcin",
-  "lastFetched": "2025-11-22T15:12:26.311Z",
+  "lastFetched": "2025-11-23T19:35:29.322Z",
   "odesli": {
     "amazonMusic": "B0D5DDHVRP",
     "amazonStore": "B0D5DDHVRP",
@@ -13,5 +13,18 @@
     "tidal": "367507608",
     "youtube": "FGM3U3buQj0",
     "youtubeMusic": "FGM3U3buQj0"
+  },
+  "lastfm": {
+    "id": "Marcin/_/Classical+Dragon",
+    "listeners": 738,
+    "playcount": 2443,
+    "title": "Classical Dragon",
+    "artist": "Marcin",
+    "tags": [
+      "instrumental",
+      "polish",
+      "guitar",
+      "acoustic"
+    ]
   }
 }

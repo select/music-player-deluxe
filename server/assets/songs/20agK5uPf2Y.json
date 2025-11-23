@@ -2,7 +2,7 @@
   "youtubeId": "20agK5uPf2Y",
   "title": "Ambiance Vikings",
   "artist": "Les Vikings de la Guadeloupe",
-  "lastFetched": "2025-11-22T14:40:38.868Z",
+  "lastFetched": "2025-11-23T19:31:41.008Z",
   "odesli": {
     "amazonMusic": "B0CP4CNT59",
     "amazonStore": "B0CP4CNT59",
@@ -14,5 +14,17 @@
     "tidal": "58528800",
     "youtube": "20agK5uPf2Y",
     "youtubeMusic": "20agK5uPf2Y"
+  },
+  "lastfm": {
+    "id": "Les+vikings+de+la+Guadeloupe/_/Ambiance+Vikings",
+    "listeners": 2915,
+    "playcount": 6620,
+    "title": "Ambiance Vikings",
+    "artist": "Les vikings de la Guadeloupe",
+    "mbid": "3fce1234-c788-4f7f-ba2a-8c6791387039",
+    "tags": [
+      "guadeloupe",
+      "doom"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "J5bBCaUnPq4",
   "title": "The Man With the Red Face (Video)",
   "artist": "Laurent Garnier",
-  "lastFetched": "2025-11-20T09:36:37.043Z",
+  "lastFetched": "2025-11-23T19:29:42.387Z",
   "odesli": {
     "amazonMusic": "B0013GK9YW",
     "amazonStore": "B0013GK9YW",
@@ -13,5 +13,18 @@
     "tidal": "2374598",
     "youtube": "J5bBCaUnPq4",
     "youtubeMusic": "J5bBCaUnPq4"
+  },
+  "lastfm": {
+    "id": "Laurent+Garnier/_/The+Man+With+The+Red+Face+(Video)",
+    "listeners": 2661,
+    "playcount": 7478,
+    "title": "The Man With The Red Face (Video)",
+    "artist": "Laurent Garnier",
+    "tags": [
+      "techno",
+      "electronic",
+      "house",
+      "french"
+    ]
   }
 }

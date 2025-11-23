@@ -2,7 +2,7 @@
   "youtubeId": "h3mu0kc5hAk",
   "title": "Congratulations... You've Hit Bottom!",
   "artist": "Gospel",
-  "lastFetched": "2025-11-22T14:40:52.849Z",
+  "lastFetched": "2025-11-23T19:31:44.858Z",
   "odesli": {
     "amazonMusic": "B00HPVFLVU",
     "amazonStore": "B00HPVFLVU",
@@ -14,5 +14,17 @@
     "tidal": "72550134",
     "youtube": "h3mu0kc5hAk",
     "youtubeMusic": "h3mu0kc5hAk"
+  },
+  "lastfm": {
+    "id": "Gospel/_/Congratulations...+You%27ve+Hit+Bottom%21",
+    "listeners": 52581,
+    "playcount": 219723,
+    "title": "Congratulations... You've Hit Bottom!",
+    "artist": "Gospel",
+    "artistMbid": "1de8f38b-ed8a-4c33-a921-3cdb9fa777a7",
+    "tags": [
+      "2005",
+      "post-screamo"
+    ]
   }
 }

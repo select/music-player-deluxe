@@ -2,7 +2,7 @@
   "youtubeId": "Ove38w3ztG4",
   "title": "Take Me To The Mardi Gras",
   "artist": "Bob James",
-  "lastFetched": "2025-11-22T14:49:37.329Z",
+  "lastFetched": "2025-11-23T19:32:54.735Z",
   "odesli": {
     "amazonMusic": "B07F2HH9RR",
     "amazonStore": "B07F2HH9RR",
@@ -16,5 +16,20 @@
     "yandex": "715013",
     "youtube": "Ove38w3ztG4",
     "youtubeMusic": "Ove38w3ztG4"
+  },
+  "lastfm": {
+    "id": "Bob+James/_/Take+Me+to+the+Mardi+Gras",
+    "listeners": 31317,
+    "playcount": 94269,
+    "title": "Take Me to the Mardi Gras",
+    "artist": "Bob James",
+    "mbid": "0099fd93-6bec-31d0-8cb3-0930761beb3b",
+    "artistMbid": "f4d2fc5a-cacb-47c8-b096-ee73864b1aa8",
+    "tags": [
+      "jazz",
+      "smooth jazz",
+      "funk",
+      "sampled"
+    ]
   }
 }

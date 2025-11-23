@@ -2,7 +2,7 @@
   "youtubeId": "dNToyVpFWt0",
   "title": "Knast feat Mok",
   "artist": "Sido",
-  "lastFetched": "2025-11-22T14:39:50.169Z",
+  "lastFetched": "2025-11-23T19:31:32.160Z",
   "odesli": {
     "amazonMusic": "B0DZY61L4C",
     "amazonStore": "B0DZY61L4C",
@@ -12,5 +12,19 @@
     "tidal": "86822073",
     "youtube": "dNToyVpFWt0",
     "youtubeMusic": "dNToyVpFWt0"
+  },
+  "lastfm": {
+    "id": "Sido/_/Knast+feat+Mok",
+    "listeners": 42,
+    "playcount": 122,
+    "title": "Knast feat Mok",
+    "artist": "Sido",
+    "tags": [
+      "rap",
+      "deutschrap",
+      "german",
+      "hip hop",
+      "hip-hop"
+    ]
   }
 }

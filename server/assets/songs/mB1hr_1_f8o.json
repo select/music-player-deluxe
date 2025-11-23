@@ -2,7 +2,7 @@
   "youtubeId": "mB1hr_1_f8o",
   "title": "Get Off",
   "artist": "Foxy",
-  "lastFetched": "2025-11-22T14:38:26.489Z",
+  "lastFetched": "2025-11-23T19:31:24.174Z",
   "odesli": {
     "amazonMusic": "B00124AY9A",
     "amazonStore": "B00124AY9A",
@@ -19,5 +19,18 @@
     "yandex": "371770",
     "youtube": "mB1hr_1_f8o",
     "youtubeMusic": "mB1hr_1_f8o"
+  },
+  "lastfm": {
+    "id": "Foxy/_/Get+Off",
+    "listeners": 33145,
+    "playcount": 109999,
+    "title": "Get Off",
+    "artist": "Foxy",
+    "artistMbid": "3199d132-4ba1-4dc4-bef6-f024d0e2443b",
+    "tags": [
+      "disco",
+      "70s",
+      "funk"
+    ]
   }
 }

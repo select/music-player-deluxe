@@ -2,7 +2,7 @@
   "youtubeId": "5x7dbJFJSWs",
   "title": "Paralyzed",
   "artist": "Conquer Divide",
-  "lastFetched": "2025-11-22T15:04:54.065Z",
+  "lastFetched": "2025-11-23T19:34:37.122Z",
   "odesli": {
     "amazonMusic": "B0D7WF93KS",
     "amazonStore": "B0D7WF93KS",
@@ -13,5 +13,20 @@
     "tidal": "244594232",
     "youtube": "5x7dbJFJSWs",
     "youtubeMusic": "5x7dbJFJSWs"
+  },
+  "lastfm": {
+    "id": "Conquer+Divide/_/Paralyzed",
+    "listeners": 31499,
+    "playcount": 203675,
+    "title": "Paralyzed",
+    "artist": "Conquer Divide",
+    "mbid": "1cc4ae3e-1e5b-4d9e-92c4-3048ac71526c",
+    "artistMbid": "6b6da5b9-5620-4127-b90e-465be8d9b82a",
+    "tags": [
+      "metalcore",
+      "post-hardcore",
+      "metal",
+      "female fronted"
+    ]
   }
 }

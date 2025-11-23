@@ -2,7 +2,7 @@
   "youtubeId": "j3I62h2CRGc",
   "title": "Lazybones",
   "artist": "Soul Coughing",
-  "lastFetched": "2025-11-22T15:00:55.038Z",
+  "lastFetched": "2025-11-23T19:34:08.118Z",
   "odesli": {
     "amazonMusic": "B079XFXCMC",
     "amazonStore": "B079XFXCMC",
@@ -19,5 +19,20 @@
     "yandex": "570049",
     "youtube": "j3I62h2CRGc",
     "youtubeMusic": "j3I62h2CRGc"
+  },
+  "lastfm": {
+    "id": "Soul+Coughing/_/Lazybones",
+    "listeners": 52059,
+    "playcount": 171769,
+    "title": "Lazybones",
+    "artist": "Soul Coughing",
+    "mbid": "1f6189ce-8d87-3585-8d5c-4c2e26924b54",
+    "artistMbid": "8067c102-4996-42bc-9980-06ce2e644eae",
+    "tags": [
+      "alternative",
+      "90s",
+      "soul coughing",
+      "rock"
+    ]
   }
 }

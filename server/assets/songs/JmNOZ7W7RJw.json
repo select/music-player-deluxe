@@ -2,7 +2,7 @@
   "youtubeId": "JmNOZ7W7RJw",
   "title": "3 Uhr Nachts",
   "artist": "MEHNERSMOOS",
-  "lastFetched": "2025-11-22T14:50:04.959Z",
+  "lastFetched": "2025-11-23T19:33:00.119Z",
   "odesli": {
     "amazonMusic": "B09RZGRJ51",
     "amazonStore": "B09RZGRJ51",
@@ -14,5 +14,19 @@
     "tidal": "215737031",
     "youtube": "JmNOZ7W7RJw",
     "youtubeMusic": "JmNOZ7W7RJw"
+  },
+  "lastfm": {
+    "id": "Mehnersmoos/_/3+Uhr+Nachts",
+    "listeners": 12158,
+    "playcount": 109915,
+    "title": "3 Uhr Nachts",
+    "artist": "Mehnersmoos",
+    "artistMbid": "bbf47ed4-c76f-4b5d-9d64-257fc0d066a0",
+    "tags": [
+      "deutschrap",
+      "hip hop",
+      "hip-hop",
+      "asozialster gangstarap"
+    ]
   }
 }

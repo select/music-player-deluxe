@@ -2,7 +2,7 @@
   "youtubeId": "6OX1vhGZhm0",
   "title": "Ethiopian Sunshower",
   "artist": "Brian Jackson",
-  "lastFetched": "2025-11-20T09:37:04.274Z",
+  "lastFetched": "2025-11-23T19:29:48.940Z",
   "odesli": {
     "amazonMusic": "B0CVKTSN5C",
     "amazonStore": "B0CVKTSN5C",
@@ -13,5 +13,18 @@
     "tidal": "181317239",
     "youtube": "6OX1vhGZhm0",
     "youtubeMusic": "6OX1vhGZhm0"
+  },
+  "lastfm": {
+    "id": "Brian+Jackson/_/Ethiopian+Sunshower",
+    "listeners": 8635,
+    "playcount": 18316,
+    "title": "Ethiopian Sunshower",
+    "artist": "Brian Jackson",
+    "artistMbid": "0ac7eae8-3a5b-4b57-bd49-0535686636fb",
+    "tags": [
+      "jazz",
+      "soul",
+      "flute"
+    ]
   }
 }

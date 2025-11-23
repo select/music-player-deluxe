@@ -2,7 +2,7 @@
   "youtubeId": "u4Eko1k3gMs",
   "title": "DYI",
   "artist": "sero",
-  "lastFetched": "2025-11-22T15:05:45.811Z",
+  "lastFetched": "2025-11-23T19:34:49.282Z",
   "odesli": {
     "amazonMusic": "B0C3Z17V9Q",
     "amazonStore": "B0C3Z17V9Q",
@@ -18,5 +18,16 @@
     "tidal": "292275556",
     "youtube": "u4Eko1k3gMs",
     "youtubeMusic": "u4Eko1k3gMs"
+  },
+  "lastfm": {
+    "id": "Sero/_/DYI",
+    "listeners": 816,
+    "playcount": 4159,
+    "title": "DYI",
+    "artist": "Sero",
+    "tags": [
+      "electro",
+      "nu electro"
+    ]
   }
 }

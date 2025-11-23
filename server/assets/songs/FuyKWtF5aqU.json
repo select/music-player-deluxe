@@ -2,7 +2,7 @@
   "youtubeId": "FuyKWtF5aqU",
   "title": "Jul Det' Cool",
   "artist": "MC Einar",
-  "lastFetched": "2025-11-22T14:56:02.282Z",
+  "lastFetched": "2025-11-23T19:33:27.874Z",
   "odesli": {
     "amazonMusic": "B002W3AUCQ",
     "amazonStore": "B002W3AUCQ",
@@ -11,5 +11,19 @@
     "tidal": "1317191",
     "youtube": "FuyKWtF5aqU",
     "youtubeMusic": "FuyKWtF5aqU"
+  },
+  "lastfm": {
+    "id": "MC+Einar/_/Jul+Det%27+Cool",
+    "listeners": 14656,
+    "playcount": 86887,
+    "title": "Jul Det' Cool",
+    "artist": "MC Einar",
+    "mbid": "04ba84bc-9367-3bff-858d-b26bfcf964e9",
+    "artistMbid": "fb634193-2592-46f6-9b9f-df8df316d99e",
+    "tags": [
+      "christmas",
+      "danish",
+      "dansk"
+    ]
   }
 }

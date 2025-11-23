@@ -2,7 +2,7 @@
   "youtubeId": "Cj8JrQ9w5jY",
   "title": "Daft Punk Is Playing at My House",
   "artist": "LCD Soundsystem",
-  "lastFetched": "2025-11-20T09:42:28.168Z",
+  "lastFetched": "2025-11-23T19:30:20.715Z",
   "odesli": {
     "amazonMusic": "B000TE0HYQ",
     "amazonStore": "B000TE0HYQ",
@@ -20,5 +20,21 @@
     "yandex": "342786",
     "youtube": "Cj8JrQ9w5jY",
     "youtubeMusic": "Cj8JrQ9w5jY"
+  },
+  "lastfm": {
+    "summary": "During Lollapalooza '07 LCD Soundsystem were slotted just prior to Daft Punk on the main stage.  They performed \"Daft Punk is Playing at My House\" as the second song of their set, with James Murphy commenting on the irony of the situation. <a href=\"http://www.last.fm/music/LCD+Soundsystem/_/Daft+Punk+Is+Playing+at+My+House\">Read more on Last.fm</a>.",
+    "id": "LCD+Soundsystem/_/Daft+Punk+Is+Playing+at+My+House",
+    "listeners": 782887,
+    "playcount": 4385280,
+    "title": "Daft Punk Is Playing at My House",
+    "artist": "LCD Soundsystem",
+    "mbid": "0b26976b-00f7-3349-9467-232e4ccc20df",
+    "artistMbid": "2aaf7396-6ab8-40f3-9776-a41c42c8e26b",
+    "tags": [
+      "poptron",
+      "electronic",
+      "indie",
+      "dance"
+    ]
   }
 }

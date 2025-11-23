@@ -2,7 +2,7 @@
   "youtubeId": "IoTnrf95M-s",
   "title": "Bad Girls Need Love Too",
   "artist": "The Toxic Avenger",
-  "lastFetched": "2025-11-22T15:07:05.400Z",
+  "lastFetched": "2025-11-23T19:34:59.423Z",
   "odesli": {
     "amazonMusic": "B0779L6DN8",
     "amazonStore": "B0779L6DN8",
@@ -14,5 +14,17 @@
     "tidal": "81079922",
     "youtube": "IoTnrf95M-s",
     "youtubeMusic": "IoTnrf95M-s"
+  },
+  "lastfm": {
+    "id": "The+Toxic+Avenger/_/Bad+Girls+Need+Love+Too",
+    "listeners": 3806,
+    "playcount": 23832,
+    "title": "Bad Girls Need Love Too",
+    "artist": "The Toxic Avenger",
+    "artistMbid": "124212e2-801e-481c-ac31-6038a4389603",
+    "tags": [
+      "electronic",
+      "rave"
+    ]
   }
 }

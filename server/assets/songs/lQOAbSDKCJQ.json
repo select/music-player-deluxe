@@ -2,7 +2,7 @@
   "youtubeId": "lQOAbSDKCJQ",
   "title": "Freaks",
   "artist": "Surf Curse",
-  "lastFetched": "2025-11-22T15:09:31.826Z",
+  "lastFetched": "2025-11-23T19:35:10.069Z",
   "odesli": {
     "audiomack": "15850174",
     "anghami": "1126417704",
@@ -13,5 +13,21 @@
     "yandex": "94421177",
     "youtube": "lQOAbSDKCJQ",
     "youtubeMusic": "lQOAbSDKCJQ"
+  },
+  "lastfm": {
+    "id": "Surf+Curse/_/Freaks",
+    "listeners": 1534429,
+    "playcount": 20627109,
+    "tags": [
+      "surf rock",
+      "indie",
+      "loud",
+      "upbeat",
+      "Lo-Fi"
+    ],
+    "title": "Freaks",
+    "artist": "Surf Curse",
+    "mbid": "53b25241-3767-426f-9fd9-c2e51aa7fa66",
+    "artistMbid": "89ea85c2-c90a-46ea-93db-9bed95d5c8f8"
   }
 }

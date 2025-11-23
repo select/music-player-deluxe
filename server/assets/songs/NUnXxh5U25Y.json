@@ -2,7 +2,7 @@
   "youtubeId": "NUnXxh5U25Y",
   "title": "Everything In Its Right Place",
   "artist": "Radiohead",
-  "lastFetched": "2025-11-22T14:52:34.976Z",
+  "lastFetched": "2025-11-23T19:33:11.286Z",
   "odesli": {
     "amazonMusic": "B01DPRQ0TY",
     "amazonStore": "B01DPRQ0TY",
@@ -19,5 +19,22 @@
     "yandex": "333480",
     "youtube": "NUnXxh5U25Y",
     "youtubeMusic": "NUnXxh5U25Y"
+  },
+  "lastfm": {
+    "summary": "\"Everything in Its Right Place\" was released as the opening track of Radiohead's fourth studio album, Kid A (2000). It features synthesiser, digitally manipulated vocals and unusual time signatures. The lyrics were inspired by the stress felt by the singer, Thom Yorke, while promoting the album OK Computer (1997).\n\nYorke wrote \"Everything in Its Right Place\" on piano. Radiohead worked on it in a conventional band arrangement before transferring it to synthesiser, and described it as a breakthrough in the album recording. <a href=\"http://www.last.fm/music/Radiohead/_/Everything+in+Its+Right+Place\">Read more on Last.fm</a>.",
+    "id": "Radiohead/_/Everything+in+Its+Right+Place",
+    "listeners": 1928068,
+    "playcount": 20932485,
+    "tags": [
+      "electronic",
+      "alternative",
+      "alternative rock",
+      "radiohead",
+      "experimental"
+    ],
+    "title": "Everything in Its Right Place",
+    "artist": "Radiohead",
+    "mbid": "5937fb93-d9ac-3338-9623-b925e860c9c6",
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
   }
 }
