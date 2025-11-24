@@ -2,7 +2,7 @@
   "youtubeId": "FoD0rTRGaNE",
   "title": "WENN DU DUMM BiST",
   "artist": "FiNCH",
-  "lastFetched": "2025-11-23T19:48:49.383Z",
+  "lastFetched": "2025-11-24T00:21:53.018Z",
   "odesli": {
     "amazonMusic": "B0DSGHQHT4",
     "amazonStore": "B0DSGHQHT4",
@@ -18,5 +18,21 @@
     "yandex": "135475941",
     "youtube": "FoD0rTRGaNE",
     "youtubeMusic": "FoD0rTRGaNE"
+  },
+  "lastfm": {
+    "id": "Finch/_/WENN+DU+DUMM+BiST",
+    "listeners": 11677,
+    "playcount": 101558,
+    "title": "WENN DU DUMM BiST",
+    "artist": "Finch",
+    "mbid": "f2bf97be-c6af-4766-82ed-8a2dc0ed1496",
+    "artistMbid": "746737be-e792-42bb-b18c-fb46d7935d7a",
+    "tags": [
+      "post-hardcore",
+      "emo",
+      "screamo",
+      "alternative",
+      "rock"
+    ]
   }
 }

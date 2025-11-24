@@ -2,7 +2,7 @@
   "youtubeId": "t0o6Jg9GI98",
   "title": "SLOWDIVE",
   "artist": "Turnstile",
-  "lastFetched": "2025-11-23T20:13:33.933Z",
+  "lastFetched": "2025-11-24T00:23:33.858Z",
   "odesli": {
     "pandora": "TR:162049283",
     "soundcloud": "turnstileofficial/slowdive",
@@ -10,5 +10,17 @@
     "tidal": "440155738",
     "youtube": "t0o6Jg9GI98",
     "youtubeMusic": "t0o6Jg9GI98"
+  },
+  "lastfm": {
+    "id": "Turnstile/_/SLOWDIVE",
+    "listeners": 80976,
+    "playcount": 436122,
+    "title": "SLOWDIVE",
+    "artist": "Turnstile",
+    "mbid": "bcf68609-3ec7-4086-b71c-f26349925d4b",
+    "artistMbid": "7b748dac-f5ce-45a7-9b95-c1d8b5b013ed",
+    "tags": [
+      "all"
+    ]
   }
 }

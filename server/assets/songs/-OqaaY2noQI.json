@@ -2,7 +2,7 @@
   "youtubeId": "-OqaaY2noQI",
   "title": "VU",
   "artist": "Sababa 5",
-  "lastFetched": "2025-11-23T20:11:33.468Z",
+  "lastFetched": "2025-11-24T00:23:23.971Z",
   "odesli": {
     "amazonMusic": "B0F3DLFHZL",
     "amazonStore": "B0F3DLFHZL",
@@ -14,5 +14,17 @@
     "tidal": "427746029",
     "youtube": "-OqaaY2noQI",
     "youtubeMusic": "-OqaaY2noQI"
+  },
+  "lastfm": {
+    "id": "Sababa+5/_/VU",
+    "listeners": 5387,
+    "playcount": 11927,
+    "title": "VU",
+    "artist": "Sababa 5",
+    "artistMbid": "f24158d2-5095-4ecd-89e9-9e34fadd8e0a",
+    "tags": [
+      "wsum 91.7 fm madison",
+      "greenarrowradio"
+    ]
   }
 }

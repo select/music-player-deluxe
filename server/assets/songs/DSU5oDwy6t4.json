@@ -2,7 +2,7 @@
   "youtubeId": "DSU5oDwy6t4",
   "title": "Nuttin' But Love",
   "artist": "Heavy D & The Boyz",
-  "lastFetched": "2025-11-23T20:04:28.504Z",
+  "lastFetched": "2025-11-24T00:22:54.684Z",
   "odesli": {
     "amazonMusic": "B000W1NAP4",
     "amazonStore": "B000W1NAP4",
@@ -12,5 +12,16 @@
     "spotify": "43JSZNyRzLa3nD9W0hfD48",
     "youtube": "DSU5oDwy6t4",
     "youtubeMusic": "DSU5oDwy6t4"
+  },
+  "lastfm": {
+    "id": "Heavy+D+&+The+Boyz/_/Nuttin%27+But+Love",
+    "listeners": 16396,
+    "playcount": 56696,
+    "title": "Nuttin' But Love",
+    "artist": "Heavy D & The Boyz",
+    "tags": [
+      "hip hop",
+      "love"
+    ]
   }
 }

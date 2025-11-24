@@ -2,7 +2,7 @@
   "youtubeId": "JplyMmPBax0",
   "title": "Phom Rak Khoon Tching Tching",
   "artist": "The Viking Band",
-  "lastFetched": "2025-11-23T20:08:11.329Z",
+  "lastFetched": "2025-11-24T00:23:07.333Z",
   "odesli": {
     "amazonMusic": "B01FKW24ZG",
     "amazonStore": "B01FKW24ZG",
@@ -16,5 +16,15 @@
     "yandex": "29272374",
     "youtube": "JplyMmPBax0",
     "youtubeMusic": "JplyMmPBax0"
+  },
+  "lastfm": {
+    "id": "The+Viking+Band/_/Phom+Rak+Khoon+Tching+Tching",
+    "listeners": 39,
+    "playcount": 49,
+    "title": "Phom Rak Khoon Tching Tching",
+    "artist": "The Viking Band",
+    "tags": [
+      "psychedelic"
+    ]
   }
 }

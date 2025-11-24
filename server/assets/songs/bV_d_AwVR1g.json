@@ -2,5 +2,9 @@
   "youtubeId": "bV_d_AwVR1g",
   "title": "Pickled Spider",
   "artist": "Mr Scruff",
-  "lastFetched": "2025-11-17T02:00:14.722Z"
+  "lastFetched": "2025-11-17T02:00:14.722Z",
+  "ai": {
+    "title": "Pickled Spider",
+    "artist": "Mr Scruff"
+  }
 }

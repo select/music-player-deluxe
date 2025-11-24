@@ -87,7 +87,6 @@ Respond in valid JSON format only:
 {
   "artist": "extracted artist name",
   "track": "extracted track name",
-  "
 }`;
 }
 

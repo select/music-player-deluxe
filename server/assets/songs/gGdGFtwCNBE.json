@@ -2,7 +2,7 @@
   "youtubeId": "gGdGFtwCNBE",
   "title": "Mr. Brightside",
   "artist": "The Killers",
-  "lastFetched": "2025-11-23T19:51:45.819Z",
+  "lastFetched": "2025-11-24T00:22:05.224Z",
   "odesli": {
     "amazonMusic": "B0DG4L5L1K",
     "amazonStore": "B0DG4L5L1K",
@@ -16,5 +16,21 @@
     "yandex": "36661",
     "youtube": "gGdGFtwCNBE",
     "youtubeMusic": "gGdGFtwCNBE"
+  },
+  "lastfm": {
+    "summary": "\"Mr. Brightside\" is the debut single by Las Vegas-based rock band The Killers. The song is featured on the group's debut album Hot Fuss and was written by Brandon Flowers and Dave Keuning.\n\nIt was named \"Song of the Decade\" by UK radio stations Absolute Radio and XFM, and in April 2010 Last.fm revealed that it was the most listened to track since the launch of the online music service, with over 12.2 million plays scrobbled. It held the record until 2020 when BTS broke the record with  \"Boy With Luv\".  <a href=\"http://www.last.fm/music/The+Killers/_/Mr.+Brightside\">Read more on Last.fm</a>.",
+    "id": "The+Killers/_/Mr.+Brightside",
+    "listeners": 3473240,
+    "playcount": 46783443,
+    "tags": [
+      "rock",
+      "indie rock",
+      "indie",
+      "alternative",
+      "alternative rock"
+    ],
+    "title": "Mr. Brightside",
+    "artist": "The Killers",
+    "artistMbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b"
   }
 }

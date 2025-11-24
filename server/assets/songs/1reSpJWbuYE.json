@@ -2,7 +2,7 @@
   "youtubeId": "1reSpJWbuYE",
   "title": "Life Signs",
   "artist": "Water From Your Eyes",
-  "lastFetched": "2025-11-23T20:12:49.245Z",
+  "lastFetched": "2025-11-24T00:23:29.303Z",
   "odesli": {
     "amazonMusic": "B0F8HPW8RN",
     "amazonStore": "B0F8HPW8RN",
@@ -17,5 +17,21 @@
     "yandex": "139688626",
     "youtube": "1reSpJWbuYE",
     "youtubeMusic": "1reSpJWbuYE"
+  },
+  "lastfm": {
+    "id": "Water+From+Your+Eyes/_/Life+Signs",
+    "listeners": 35973,
+    "playcount": 129355,
+    "title": "Life Signs",
+    "artist": "Water From Your Eyes",
+    "mbid": "7b3b6fbd-cb68-442f-99a6-633577d99a66",
+    "artistMbid": "09f91305-e193-48af-92e3-252b3dd5e718",
+    "tags": [
+      "krautrock",
+      "noise rock",
+      "post-punk revival",
+      "math pop",
+      "dance-punk revival"
+    ]
   }
 }

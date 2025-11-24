@@ -2,7 +2,7 @@
   "youtubeId": "Ui5X51qcKco",
   "title": "Who Dem?",
   "artist": "Capleton",
-  "lastFetched": "2025-11-23T20:22:29.869Z",
+  "lastFetched": "2025-11-24T00:23:48.956Z",
   "odesli": {
     "amazonMusic": "B000X7S4QC",
     "amazonStore": "B000X7S4QC",
@@ -18,5 +18,18 @@
     "tidal": "2523541",
     "youtube": "Ui5X51qcKco",
     "youtubeMusic": "Ui5X51qcKco"
+  },
+  "lastfm": {
+    "id": "Capleton/_/Who+Dem%3F",
+    "listeners": 25500,
+    "playcount": 78858,
+    "title": "Who Dem?",
+    "artist": "Capleton",
+    "mbid": "00e8ee6e-de4b-4d2e-a5d5-ba44a0b511e2",
+    "artistMbid": "93dda03d-c1d3-42c2-80b0-fa71bc20262b",
+    "tags": [
+      "dancehall",
+      "capleton"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "rAn-AWXtHv0",
   "title": "Imagine",
   "artist": "John Lennon",
-  "lastFetched": "2025-11-23T19:52:50.265Z",
+  "lastFetched": "2025-11-24T00:22:13.518Z",
   "odesli": {
     "amazonMusic": "B0043RKGEG",
     "amazonStore": "B0043RKGEG",
@@ -21,5 +21,21 @@
     "yandex": "937932",
     "youtube": "rAn-AWXtHv0",
     "youtubeMusic": "rAn-AWXtHv0"
+  },
+  "lastfm": {
+    "summary": "\"Imagine\" is a song by John Lennon, which appears on his 1971 album, Imagine. It was released as a single in the same year, and reached number three in the U.S. Billboard charts, and number six in the United Kingdom.\n\nIn 2004, Rolling Stone magazine voted \"Imagine\" the third greatest song of all time. Former U.S. president Jimmy Carter said, \"In many countries around the world — my wife and I have visited about 125 countries — you hear John Lennon's song 'Imagine' used almost equally with national anthems.\" <a href=\"http://www.last.fm/music/John+Lennon/_/Imagine\">Read more on Last.fm</a>.",
+    "id": "John+Lennon/_/Imagine",
+    "listeners": 970994,
+    "playcount": 6366939,
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "artistMbid": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+    "tags": [
+      "classic rock",
+      "70s",
+      "john lennon",
+      "rock",
+      "british"
+    ]
   }
 }

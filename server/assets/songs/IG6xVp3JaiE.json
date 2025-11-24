@@ -2,7 +2,7 @@
   "youtubeId": "IG6xVp3JaiE",
   "title": "Bloodsport",
   "artist": "AlphaWhores",
-  "lastFetched": "2025-11-23T20:11:58.864Z",
+  "lastFetched": "2025-11-24T00:23:26.736Z",
   "odesli": {
     "amazonMusic": "B0F6NQB744",
     "amazonStore": "B0F6NQB744",
@@ -16,5 +16,18 @@
     "tidal": "427527586",
     "youtube": "IG6xVp3JaiE",
     "youtubeMusic": "IG6xVp3JaiE"
+  },
+  "lastfm": {
+    "id": "AlphaWhores/_/Bloodsport",
+    "listeners": 760,
+    "playcount": 1736,
+    "title": "Bloodsport",
+    "artist": "AlphaWhores",
+    "artistMbid": "f9c4012b-f35d-46e4-a676-a9cd3e912bb2",
+    "tags": [
+      "stoner metal",
+      "panama",
+      "sludge"
+    ]
   }
 }

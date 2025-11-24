@@ -2,7 +2,7 @@
   "youtubeId": "cVpvlaKfLQc",
   "title": "I Swear",
   "artist": "All-4-One",
-  "lastFetched": "2025-11-23T20:22:39.893Z",
+  "lastFetched": "2025-11-24T00:23:50.288Z",
   "odesli": {
     "amazonMusic": "B001OGLOOK",
     "amazonStore": "B001OGLOOK",
@@ -20,5 +20,19 @@
     "yandex": "137772",
     "youtube": "cVpvlaKfLQc",
     "youtubeMusic": "cVpvlaKfLQc"
+  },
+  "lastfm": {
+    "id": "All-4-One/_/I+Swear",
+    "listeners": 245521,
+    "playcount": 1018549,
+    "title": "I Swear",
+    "artist": "All-4-One",
+    "tags": [
+      "90s",
+      "all-4-one",
+      "rnb",
+      "love",
+      "pop"
+    ]
   }
 }

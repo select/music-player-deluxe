@@ -2,7 +2,7 @@
   "youtubeId": "6XQSEqQowxU",
   "title": "Divergente",
   "artist": "Santa Salut",
-  "lastFetched": "2025-11-23T19:49:26.624Z",
+  "lastFetched": "2025-11-24T00:21:57.735Z",
   "odesli": {
     "amazonMusic": "B0FP6XYRN9",
     "amazonStore": "B0FP6XYRN9",
@@ -10,5 +10,15 @@
     "spotify": "2WUxrF2g63iLhrxhlUmjcc",
     "youtube": "6XQSEqQowxU",
     "youtubeMusic": "6XQSEqQowxU"
+  },
+  "lastfm": {
+    "id": "SANTA+SALUT/_/Divergente",
+    "listeners": 1515,
+    "playcount": 5597,
+    "title": "Divergente",
+    "artist": "SANTA SALUT",
+    "tags": [
+      "female art rap"
+    ]
   }
 }

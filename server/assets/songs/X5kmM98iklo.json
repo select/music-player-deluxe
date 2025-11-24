@@ -2,7 +2,7 @@
   "youtubeId": "X5kmM98iklo",
   "title": "Nur ein Wort",
   "artist": "Wir sind Helden",
-  "lastFetched": "2025-11-23T20:00:44.041Z",
+  "lastFetched": "2025-11-24T00:22:41.474Z",
   "odesli": {
     "amazonMusic": "B0F1NM1DL4",
     "amazonStore": "B0F1NM1DL4",
@@ -14,5 +14,21 @@
     "tidal": "1413281",
     "youtube": "X5kmM98iklo",
     "youtubeMusic": "X5kmM98iklo"
+  },
+  "lastfm": {
+    "id": "Wir+sind+Helden/_/Nur+Ein+Wort",
+    "listeners": 217199,
+    "playcount": 1762480,
+    "title": "Nur Ein Wort",
+    "artist": "Wir sind Helden",
+    "mbid": "9a09033a-1038-4da5-8ed0-0b3871304560",
+    "artistMbid": "908fedf4-548a-430f-b806-38fca9507dc4",
+    "tags": [
+      "deutsch",
+      "german",
+      "pop",
+      "deutschrock",
+      "rock"
+    ]
   }
 }

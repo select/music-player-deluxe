@@ -2,7 +2,7 @@
   "youtubeId": "78ESklV174I",
   "title": "Capezio",
   "artist": "Perfume Genius",
-  "lastFetched": "2025-11-23T20:14:33.284Z",
+  "lastFetched": "2025-11-24T00:23:37.750Z",
   "odesli": {
     "amazonMusic": "B0DRCWMRRS",
     "amazonStore": "B0DRCWMRRS",
@@ -15,5 +15,20 @@
     "yandex": "137537810",
     "youtube": "78ESklV174I",
     "youtubeMusic": "78ESklV174I"
+  },
+  "lastfm": {
+    "id": "Perfume+Genius/_/Capezio",
+    "listeners": 30423,
+    "playcount": 104933,
+    "title": "Capezio",
+    "artist": "Perfume Genius",
+    "mbid": "396d8779-dfb2-4cc6-8e05-35b32ed5adf1",
+    "artistMbid": "c4ff10e0-ae5a-467d-a409-6e0b4bf241eb",
+    "tags": [
+      "neo-psychedelia",
+      "ambient pop",
+      "experimental",
+      "post-rock"
+    ]
   }
 }

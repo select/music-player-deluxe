@@ -2,7 +2,7 @@
   "youtubeId": "StHGawXsitE",
   "title": "Theme For Great Cities",
   "artist": "Simple Minds",
-  "lastFetched": "2025-11-23T19:59:29.905Z",
+  "lastFetched": "2025-11-24T00:22:38.449Z",
   "odesli": {
     "amazonMusic": "B000TPE57U",
     "amazonStore": "B000TPE57U",
@@ -10,5 +10,20 @@
     "tidal": "63233545",
     "youtube": "StHGawXsitE",
     "youtubeMusic": "StHGawXsitE"
+  },
+  "lastfm": {
+    "id": "Simple+Minds/_/Theme+for+Great+Cities",
+    "listeners": 86989,
+    "playcount": 333601,
+    "title": "Theme for Great Cities",
+    "artist": "Simple Minds",
+    "mbid": "05d1d9e0-b9f2-31a6-a0ff-113da1a646df",
+    "artistMbid": "f41490ce-fe39-435d-86c0-ab5ce098b423",
+    "tags": [
+      "80s",
+      "new wave",
+      "instrumental",
+      "simple minds"
+    ]
   }
 }

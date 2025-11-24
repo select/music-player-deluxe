@@ -2,7 +2,7 @@
   "youtubeId": "e-YUlNDHjsQ",
   "title": "III",
   "artist": "Glass Museum",
-  "lastFetched": "2025-11-23T20:15:46.193Z",
+  "lastFetched": "2025-11-24T00:23:41.288Z",
   "odesli": {
     "amazonMusic": "B0F5HPWVCL",
     "amazonStore": "B0F5HPWVCL",
@@ -13,5 +13,20 @@
     "tidal": "433368127",
     "youtube": "e-YUlNDHjsQ",
     "youtubeMusic": "e-YUlNDHjsQ"
+  },
+  "lastfm": {
+    "id": "Glass+Museum/_/III",
+    "listeners": 779,
+    "playcount": 1687,
+    "title": "III",
+    "artist": "Glass Museum",
+    "mbid": "c1ec50e0-7a03-41fd-8849-d84219127c16",
+    "artistMbid": "b87dfb5e-97d8-4679-8eb3-1b58cf2b39b0",
+    "tags": [
+      "minimal synth",
+      "synthpop",
+      "new wave",
+      "80s"
+    ]
   }
 }

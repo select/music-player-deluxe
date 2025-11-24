@@ -2,7 +2,7 @@
   "youtubeId": "Z6XHd06qr-Q",
   "title": "I'm Invisible",
   "artist": "Surgical Meth Machine",
-  "lastFetched": "2025-11-23T19:49:51.540Z",
+  "lastFetched": "2025-11-24T00:21:58.973Z",
   "odesli": {
     "amazonMusic": "B07QHCW44L",
     "amazonStore": "B07QHCW44L",
@@ -10,5 +10,19 @@
     "spotify": "2vUBlaU4lhN3jT5vwXCr2W",
     "youtube": "Z6XHd06qr-Q",
     "youtubeMusic": "Z6XHd06qr-Q"
+  },
+  "lastfm": {
+    "id": "Surgical+Meth+Machine/_/I%27m+Invisible",
+    "listeners": 11027,
+    "playcount": 48674,
+    "title": "I'm Invisible",
+    "artist": "Surgical Meth Machine",
+    "mbid": "e2d9251d-701c-4554-8a5c-b6d352d8c311",
+    "artistMbid": "78b85c63-0f5e-4417-a3b3-a8291bb68ee2",
+    "tags": [
+      "industrial",
+      "industrial metal",
+      "metal"
+    ]
   }
 }

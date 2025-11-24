@@ -2,7 +2,7 @@
   "youtubeId": "9E6b3swbnWg",
   "title": "Chopin Nocturne op.9 No.2",
   "artist": "Andrea Romano",
-  "lastFetched": "2025-11-23T20:08:35.598Z",
+  "lastFetched": "2025-11-24T00:23:09.840Z",
   "odesli": {
     "amazonMusic": "B0C9PY6THC",
     "amazonStore": "B0C9PY6THC",
@@ -14,5 +14,17 @@
     "tidal": "301906466",
     "youtube": "9E6b3swbnWg",
     "youtubeMusic": "9E6b3swbnWg"
+  },
+  "lastfm": {
+    "id": "Andrea+Romano/_/Chopin+Nocturne+op.9+No.2",
+    "listeners": 9,
+    "playcount": 12,
+    "title": "Chopin Nocturne op.9 No.2",
+    "artist": "Andrea Romano",
+    "artistMbid": "7421000f-4bb2-426e-9182-fd4eae9e9050",
+    "tags": [
+      "cantautore",
+      "musica italiana"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "U_hFErXDevM",
   "title": "Freestyle",
   "artist": "Taalbi Brothers",
-  "lastFetched": "2025-11-23T19:47:05.241Z",
+  "lastFetched": "2025-11-24T00:21:46.345Z",
   "odesli": {
     "deezer": "390354821",
     "appleMusic": "1266570165",
@@ -13,5 +13,20 @@
     "tidal": "76984936",
     "youtube": "U_hFErXDevM",
     "youtubeMusic": "U_hFErXDevM"
+  },
+  "lastfm": {
+    "id": "Taalbi+Brothers/_/Freestyle",
+    "listeners": 22050,
+    "playcount": 119019,
+    "title": "Freestyle",
+    "artist": "Taalbi Brothers",
+    "mbid": "86e3b60f-0a88-4d32-a49e-6549b05f87b1",
+    "artistMbid": "0e0d50ef-0afa-4f56-948b-b3eedc86a36f",
+    "tags": [
+      "breaking bad",
+      "acoustic",
+      "instrumental",
+      "soundtrack"
+    ]
   }
 }

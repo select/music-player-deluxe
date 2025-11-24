@@ -2,7 +2,7 @@
   "youtubeId": "OKz61xmEr2A",
   "title": "Raumschiff Love",
   "artist": "David Nesselhauf",
-  "lastFetched": "2025-11-23T20:07:13.676Z",
+  "lastFetched": "2025-11-24T00:23:02.459Z",
   "odesli": {
     "amazonMusic": "B0C24VN17H",
     "amazonStore": "B0C24VN17H",
@@ -12,5 +12,20 @@
     "tidal": "288564403",
     "youtube": "OKz61xmEr2A",
     "youtubeMusic": "OKz61xmEr2A"
+  },
+  "lastfm": {
+    "id": "David+Nesselhauf/_/Raumschiff+Love",
+    "listeners": 26,
+    "playcount": 46,
+    "title": "Raumschiff Love",
+    "artist": "David Nesselhauf",
+    "mbid": "e36a2ed4-f063-4b60-9914-3a2c8dd75f5a",
+    "artistMbid": "91cd43e2-fdf7-4ed2-bc30-38d4d2130a24",
+    "tags": [
+      "drone",
+      "ambient",
+      "experimental",
+      "dark jazz"
+    ]
   }
 }

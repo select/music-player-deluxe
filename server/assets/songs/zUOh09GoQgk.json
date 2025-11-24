@@ -2,7 +2,7 @@
   "youtubeId": "zUOh09GoQgk",
   "title": "Money",
   "artist": "Cardi B",
-  "lastFetched": "2025-11-23T20:04:09.663Z",
+  "lastFetched": "2025-11-24T00:22:53.353Z",
   "odesli": {
     "amazonMusic": "B07JKN92P7",
     "amazonStore": "B07JKN92P7",
@@ -21,5 +21,22 @@
     "yandex": "44243770",
     "youtube": "zUOh09GoQgk",
     "youtubeMusic": "zUOh09GoQgk"
+  },
+  "lastfm": {
+    "summary": "\"Money\" is a song by American rapper Cardi B, released by Atlantic Records on October 23, 2018. The song was written by Cardi B with its producer J. White Did It. Its music video features Cardi playing characters in different locations, including in an art museum, a bank and a strip club. Cardi performed the song at the 61st Annual Grammy Awards, alongside the \"Money Bag\" instrumental. The song and its music video received acclaim and accolades including <a href=\"http://www.last.fm/music/Cardi+B/_/Money\">Read more on Last.fm</a>.",
+    "id": "Cardi+B/_/Money",
+    "listeners": 493106,
+    "playcount": 4023827,
+    "title": "Money",
+    "artist": "Cardi B",
+    "mbid": "3c373502-96c7-4435-96b8-8baf25dd0c36",
+    "artistMbid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
+    "tags": [
+      "rap",
+      "trap rap",
+      "trap",
+      "east coast hip hop",
+      "better than nicki minaj"
+    ]
   }
 }

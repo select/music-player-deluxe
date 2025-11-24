@@ -2,11 +2,24 @@
   "youtubeId": "Rf15xCcnIBg",
   "title": "Bliad",
   "artist": "YUKO",
-  "lastFetched": "2025-11-23T19:55:01.815Z",
+  "lastFetched": "2025-11-24T00:22:23.459Z",
   "odesli": {
     "soundcloud": "ivanna-evpak/yuko-bliad-hrushka",
     "tidal": "109406164",
     "youtube": "Rf15xCcnIBg",
     "youtubeMusic": "Rf15xCcnIBg"
+  },
+  "lastfm": {
+    "id": "Yuko/_/Bliad",
+    "listeners": 54,
+    "playcount": 204,
+    "title": "Bliad",
+    "artist": "Yuko",
+    "tags": [
+      "post-rock",
+      "indie",
+      "ukrainian",
+      "indietronica"
+    ]
   }
 }

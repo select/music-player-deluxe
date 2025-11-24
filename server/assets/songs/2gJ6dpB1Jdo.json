@@ -2,12 +2,25 @@
   "youtubeId": "2gJ6dpB1Jdo",
   "title": "Jungle Juke",
   "artist": "Tha Pope",
-  "lastFetched": "2025-11-23T19:53:44.036Z",
+  "lastFetched": "2025-11-24T00:22:18.228Z",
   "odesli": {
     "pandora": "TR:1669976",
     "spotify": "0Ac3zF1jg2wTJOYlCZVEvz",
     "tidal": "111946706",
     "youtube": "2gJ6dpB1Jdo",
     "youtubeMusic": "2gJ6dpB1Jdo"
+  },
+  "lastfm": {
+    "id": "Tha+Pope/_/Jungle+Juke",
+    "listeners": 6887,
+    "playcount": 17418,
+    "title": "Jungle Juke",
+    "artist": "Tha Pope",
+    "mbid": "073c491d-55b8-334b-a550-5e205157c3ed",
+    "artistMbid": "f6c6fe6e-b4f0-4193-aa67-05f9aee0a40b",
+    "tags": [
+      "juke",
+      "jungle music"
+    ]
   }
 }

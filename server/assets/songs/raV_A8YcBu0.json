@@ -2,7 +2,7 @@
   "youtubeId": "raV_A8YcBu0",
   "title": "One of These Days",
   "artist": "Pink Floyd",
-  "lastFetched": "2025-11-23T20:02:22.244Z",
+  "lastFetched": "2025-11-24T00:22:50.793Z",
   "odesli": {
     "amazonMusic": "B019HKJQ7G",
     "amazonStore": "B019HKJQ7G",
@@ -19,5 +19,21 @@
     "yandex": "15828202",
     "youtube": "raV_A8YcBu0",
     "youtubeMusic": "raV_A8YcBu0"
+  },
+  "lastfm": {
+    "summary": "\"One of These Days\" is the opening track from Pink Floyd's 1971 album \"Meddle.\" The song is instrumental, apart from the distorted vocal from Nick Mason stating \"One of these days I'm going to cut you into little pieces\") and features double-tracked bass guitars played by David Gilmour and Roger Waters. \n\nWaters' bass is panned hard left with Gilmour's fading into the right channel. Gilmour's bass sound is quite muted and dull. According to Gilmour <a href=\"http://www.last.fm/music/Pink+Floyd/_/One+of+These+Days\">Read more on Last.fm</a>.",
+    "id": "Pink+Floyd/_/One+of+These+Days",
+    "listeners": 565415,
+    "playcount": 3748477,
+    "title": "One of These Days",
+    "artist": "Pink Floyd",
+    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
+    "tags": [
+      "progressive rock",
+      "psychedelic rock",
+      "classic rock",
+      "rock",
+      "pink floyd"
+    ]
   }
 }

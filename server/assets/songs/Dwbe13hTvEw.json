@@ -2,12 +2,26 @@
   "youtubeId": "Dwbe13hTvEw",
   "title": "Brain",
   "artist": "Jungle Brothers",
-  "lastFetched": "2025-11-23T20:05:56.491Z",
+  "lastFetched": "2025-11-24T00:22:58.780Z",
   "odesli": {
     "pandora": "TR:8417247",
     "soundcloud": "dcgbrothers/jungle-life",
     "tidal": "175065292",
     "youtube": "Dwbe13hTvEw",
     "youtubeMusic": "Dwbe13hTvEw"
+  },
+  "lastfm": {
+    "id": "Jungle+Brothers/_/Brain",
+    "listeners": 41670,
+    "playcount": 171629,
+    "title": "Brain",
+    "artist": "Jungle Brothers",
+    "mbid": "4c1eb5a6-6bd1-4328-bdb6-d9e1b1a35514",
+    "artistMbid": "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+    "tags": [
+      "hip hop",
+      "hip-hop",
+      "old school"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "qnX9LvHH3bs",
   "title": "Wherever You Are",
   "artist": "Urbs & Cutex",
-  "lastFetched": "2025-11-23T20:13:05.936Z",
+  "lastFetched": "2025-11-24T00:23:31.138Z",
   "odesli": {
     "amazonMusic": "B0F5X6MR9Y",
     "amazonStore": "B0F5X6MR9Y",
@@ -10,5 +10,18 @@
     "tidal": "433734119",
     "youtube": "qnX9LvHH3bs",
     "youtubeMusic": "qnX9LvHH3bs"
+  },
+  "lastfm": {
+    "id": "Urbs+&+Cutex/_/Wherever+You+Are",
+    "listeners": 188,
+    "playcount": 417,
+    "title": "Wherever You Are",
+    "artist": "Urbs & Cutex",
+    "tags": [
+      "acid jazz",
+      "jazz hop",
+      "ninja tune",
+      "jazz"
+    ]
   }
 }

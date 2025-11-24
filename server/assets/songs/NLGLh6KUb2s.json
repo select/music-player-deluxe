@@ -2,7 +2,7 @@
   "youtubeId": "NLGLh6KUb2s",
   "title": "Big Horse",
   "artist": "Spice",
-  "lastFetched": "2025-11-23T19:53:05.489Z",
+  "lastFetched": "2025-11-24T00:22:14.850Z",
   "odesli": {
     "amazonMusic": "B07JKN7H4D",
     "amazonStore": "B07JKN7H4D",
@@ -20,5 +20,21 @@
     "yandex": "44140873",
     "youtube": "NLGLh6KUb2s",
     "youtubeMusic": "NLGLh6KUb2s"
+  },
+  "lastfm": {
+    "id": "Spice/_/Big+Horse",
+    "listeners": 432,
+    "playcount": 1916,
+    "title": "Big Horse",
+    "artist": "Spice",
+    "mbid": "2e63fb6a-90fe-4b7a-a88e-5b4b07d3788e",
+    "artistMbid": "be8786ca-c6fa-43e5-bc9d-643347675c8c",
+    "tags": [
+      "funk",
+      "dancehall",
+      "jamaica",
+      "reggae",
+      "indie rock"
+    ]
   }
 }

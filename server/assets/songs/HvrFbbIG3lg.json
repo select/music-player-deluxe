@@ -2,7 +2,7 @@
   "youtubeId": "HvrFbbIG3lg",
   "title": "NOBU",
   "artist": "Shy Fx",
-  "lastFetched": "2025-11-23T20:17:04.785Z",
+  "lastFetched": "2025-11-24T00:23:45.065Z",
   "odesli": {
     "amazonMusic": "B0F9YVCHBG",
     "amazonStore": "B0F9YVCHBG",
@@ -11,5 +11,18 @@
     "tidal": "438430687",
     "youtube": "HvrFbbIG3lg",
     "youtubeMusic": "HvrFbbIG3lg"
+  },
+  "lastfm": {
+    "id": "Shy+FX/_/NOBU",
+    "listeners": 3970,
+    "playcount": 10264,
+    "title": "NOBU",
+    "artist": "Shy FX",
+    "tags": [
+      "jungle",
+      "drum and bass",
+      "dnb",
+      "electronic"
+    ]
   }
 }

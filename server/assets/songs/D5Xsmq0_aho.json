@@ -2,7 +2,7 @@
   "youtubeId": "D5Xsmq0_aho",
   "title": "Rock Steady",
   "artist": "Andy Rantzen",
-  "lastFetched": "2025-11-23T20:16:39.749Z",
+  "lastFetched": "2025-11-24T00:23:42.557Z",
   "odesli": {
     "amazonMusic": "B07RCDWL87",
     "amazonStore": "B07RCDWL87",
@@ -13,5 +13,19 @@
     "tidal": "108681666",
     "youtube": "D5Xsmq0_aho",
     "youtubeMusic": "D5Xsmq0_aho"
+  },
+  "lastfm": {
+    "id": "Andy+Rantzen/_/rock+steady",
+    "listeners": 369,
+    "playcount": 668,
+    "title": "rock steady",
+    "artist": "Andy Rantzen",
+    "mbid": "4fa76fba-7ef8-4ff2-b284-44f793b74ec9",
+    "artistMbid": "a94e1e12-8fbe-4042-aac3-9b3a44708124",
+    "tags": [
+      "all",
+      "latenitecappuccino",
+      "spotify"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "GvrNPiz7rHw",
   "title": "Flood",
   "artist": "Little Simz",
-  "lastFetched": "2025-11-23T20:11:02.134Z",
+  "lastFetched": "2025-11-24T00:23:20.898Z",
   "odesli": {
     "amazonMusic": "B0FB6DD1ZL",
     "amazonStore": "B0FB6DD1ZL",
@@ -18,5 +18,21 @@
     "tidal": "419485823",
     "youtube": "GvrNPiz7rHw",
     "youtubeMusic": "GvrNPiz7rHw"
+  },
+  "lastfm": {
+    "id": "Little+Simz/_/Flood",
+    "listeners": 89252,
+    "playcount": 399088,
+    "title": "Flood",
+    "artist": "Little Simz",
+    "mbid": "2d7248d0-0bdf-4f47-90d3-d7c0e4fb6b15",
+    "artistMbid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
+    "tags": [
+      "hip hop",
+      "psychedelic rock",
+      "uk hip hop",
+      "post-punk",
+      "conscious hip hop"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "5tpKbt0zCSM",
   "title": "Return to Shiraz",
   "artist": "Eishan Ensemble",
-  "lastFetched": "2025-11-23T20:11:19.578Z",
+  "lastFetched": "2025-11-24T00:23:22.230Z",
   "odesli": {
     "amazonMusic": "B0F4Y4G2TF",
     "amazonStore": "B0F4Y4G2TF",
@@ -16,5 +16,17 @@
     "yandex": "138415802",
     "youtube": "5tpKbt0zCSM",
     "youtubeMusic": "5tpKbt0zCSM"
+  },
+  "lastfm": {
+    "id": "Eishan+Ensemble/_/Return+to+Shiraz",
+    "listeners": 19,
+    "playcount": 26,
+    "title": "Return to Shiraz",
+    "artist": "Eishan Ensemble",
+    "artistMbid": "74099f87-245b-4205-8246-c1a1e9ae7c11",
+    "tags": [
+      "jazz",
+      "persian"
+    ]
   }
 }

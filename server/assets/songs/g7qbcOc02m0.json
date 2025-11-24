@@ -2,7 +2,7 @@
   "youtubeId": "g7qbcOc02m0",
   "title": "Sad Big Blue Eyes",
   "artist": "Tango With Lions",
-  "lastFetched": "2025-11-23T20:00:56.517Z",
+  "lastFetched": "2025-11-24T00:22:42.907Z",
   "odesli": {
     "amazonMusic": "B0D7QF1ZWK",
     "amazonStore": "B0D7QF1ZWK",
@@ -10,5 +10,18 @@
     "soundcloud": "tango-with-lions/sad-big-blue-eyes",
     "youtube": "g7qbcOc02m0",
     "youtubeMusic": "g7qbcOc02m0"
+  },
+  "lastfm": {
+    "id": "Tango+With+Lions/_/Sad+Big+Blue+Eyes",
+    "listeners": 3356,
+    "playcount": 11840,
+    "title": "Sad Big Blue Eyes",
+    "artist": "Tango With Lions",
+    "mbid": "82e6e742-6ea7-4e40-b492-6677cf5ec151",
+    "artistMbid": "0c936a35-b167-4995-8576-106b54d7e147",
+    "tags": [
+      "lovely",
+      "faves"
+    ]
   }
 }

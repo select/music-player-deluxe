@@ -2,7 +2,7 @@
   "youtubeId": "BsrqKE1iqqo",
   "title": "Low Rider",
   "artist": "War",
-  "lastFetched": "2025-11-23T19:48:59.736Z",
+  "lastFetched": "2025-11-24T00:21:54.370Z",
   "odesli": {
     "amazonMusic": "B073T3W1R3",
     "amazonStore": "B073T3W1R3",
@@ -21,5 +21,20 @@
     "yandex": "126209",
     "youtube": "BsrqKE1iqqo",
     "youtubeMusic": "BsrqKE1iqqo"
+  },
+  "lastfm": {
+    "summary": "\"Low Rider\" is a song written by the band War and appearing on their album Why Can't We Be Friends?, released in 1975. It reached number one on the Billboard R&B charts and peaked at number 7 on the Pop Singles chart.\n\nAccording to Allmusic's review of the song, \"the lyric takes the cool image of the low rider — the Chicano culture practice of hydraulically hot-rodding classic cars — and using innuendo, extends the image to a lifestyle\". The song's most distinguishable feature is its driving bass line <a href=\"http://www.last.fm/music/War/_/Low+Rider\">Read more on Last.fm</a>.",
+    "id": "War/_/Low+Rider",
+    "listeners": 642282,
+    "playcount": 3447510,
+    "title": "Low Rider",
+    "artist": "War",
+    "artistMbid": "3e6bbdb8-66c8-439c-a3d9-87391ce88740",
+    "tags": [
+      "funk",
+      "70s",
+      "classic rock",
+      "soul"
+    ]
   }
 }

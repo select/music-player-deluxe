@@ -2,7 +2,7 @@
   "youtubeId": "EqlgNfaaH4w",
   "title": "Let's Go Out Tonight",
   "artist": "Colin Steele Quartet",
-  "lastFetched": "2025-11-23T20:10:08.271Z",
+  "lastFetched": "2025-11-24T00:23:15.368Z",
   "odesli": {
     "amazonMusic": "B0F7Z4G1NR",
     "amazonStore": "B0F7Z4G1NR",
@@ -14,5 +14,17 @@
     "tidal": "434723623",
     "youtube": "EqlgNfaaH4w",
     "youtubeMusic": "EqlgNfaaH4w"
+  },
+  "lastfm": {
+    "id": "Colin+Steele+Quartet/_/Let%27s+Go+Out+Tonight",
+    "listeners": 107,
+    "playcount": 280,
+    "title": "Let's Go Out Tonight",
+    "artist": "Colin Steele Quartet",
+    "mbid": "42b9f774-d46b-4564-bc27-cadf7b69fb6b",
+    "artistMbid": "e30a907b-ddaf-4e1b-9e4a-3f62f34fb3f5",
+    "tags": [
+      "jazz"
+    ]
   }
 }

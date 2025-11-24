@@ -2,7 +2,7 @@
   "youtubeId": "4S-q1tF-17s",
   "title": "Wax Paper",
   "artist": "J-Live",
-  "lastFetched": "2025-11-23T20:01:21.110Z",
+  "lastFetched": "2025-11-24T00:22:44.240Z",
   "odesli": {
     "pandora": "TR:6591926",
     "soundcloud": "ryen-motzek/j-live-wax-paper",
@@ -10,5 +10,18 @@
     "tidal": "20191908",
     "youtube": "4S-q1tF-17s",
     "youtubeMusic": "4S-q1tF-17s"
+  },
+  "lastfm": {
+    "id": "J-Live/_/Wax+Paper",
+    "listeners": 23621,
+    "playcount": 58999,
+    "title": "Wax Paper",
+    "artist": "J-Live",
+    "tags": [
+      "hip hop",
+      "underground hip-hop",
+      "hip-hop",
+      "rap"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "-PXOr681_VU",
   "title": "A Go Go",
   "artist": "John Scofield",
-  "lastFetched": "2025-11-23T20:16:52.958Z",
+  "lastFetched": "2025-11-24T00:23:43.793Z",
   "odesli": {
     "amazonMusic": "B000W1941S",
     "amazonStore": "B000W1941S",
@@ -19,5 +19,21 @@
     "yandex": "780758",
     "youtube": "-PXOr681_VU",
     "youtubeMusic": "-PXOr681_VU"
+  },
+  "lastfm": {
+    "summary": " <a href=\"http://www.last.fm/music/John+Scofield/_/A+Go+Go\">Read more on Last.fm</a>.",
+    "id": "John+Scofield/_/A+Go+Go",
+    "listeners": 87718,
+    "playcount": 302945,
+    "title": "A Go Go",
+    "artist": "John Scofield",
+    "mbid": "26f55e67-49fe-3656-9bca-acc19e65d1e3",
+    "artistMbid": "cbfd7f01-87c3-44bf-a3a2-fe4dbff20ad2",
+    "tags": [
+      "jazz",
+      "jazz guitar",
+      "fusion",
+      "funk"
+    ]
   }
 }

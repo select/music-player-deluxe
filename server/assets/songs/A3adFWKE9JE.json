@@ -2,7 +2,7 @@
   "youtubeId": "A3adFWKE9JE",
   "title": "Grace",
   "artist": "Jeff Buckley",
-  "lastFetched": "2025-11-23T19:51:29.744Z",
+  "lastFetched": "2025-11-24T00:22:04.006Z",
   "odesli": {
     "amazonMusic": "B01689A0VA",
     "amazonStore": "B01689A0VA",
@@ -15,5 +15,21 @@
     "yandex": "629154",
     "youtube": "A3adFWKE9JE",
     "youtubeMusic": "A3adFWKE9JE"
+  },
+  "lastfm": {
+    "summary": "\"Grace\" is the title track from Jeff Buckley's first album Grace (1994). It was the album's first single, and was also released as a video. The song showcases Jeff Buckley's vocal range and singing skills.\n\nThe song was based on an instrumental song called \"Rise Up To Be\" written by Buckley's collaborator, Gary Lucas. Jeff wrote lyrics inspired by his saying goodbye to his girlfriend at the airport on a rainy day, and the melody came naturally. In Buckley's words <a href=\"http://www.last.fm/music/Jeff+Buckley/_/Grace\">Read more on Last.fm</a>.",
+    "id": "Jeff+Buckley/_/Grace",
+    "listeners": 1010437,
+    "playcount": 9323742,
+    "tags": [
+      "rock",
+      "singer-songwriter",
+      "alternative rock",
+      "indie",
+      "alternative"
+    ],
+    "title": "Grace",
+    "artist": "Jeff Buckley",
+    "artistMbid": "e6e879c0-3d56-4f12-b3c5-3ce459661a8e"
   }
 }

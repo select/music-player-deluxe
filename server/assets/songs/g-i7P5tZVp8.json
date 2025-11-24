@@ -2,7 +2,7 @@
   "youtubeId": "g-i7P5tZVp8",
   "title": "Pookie",
   "artist": "Aya Nakamura",
-  "lastFetched": "2025-11-23T19:48:25.421Z",
+  "lastFetched": "2025-11-24T00:21:49.659Z",
   "odesli": {
     "amazonMusic": "B07Z86XZLF",
     "amazonStore": "B07Z86XZLF",
@@ -14,5 +14,17 @@
     "tidal": "97137467",
     "youtube": "g-i7P5tZVp8",
     "youtubeMusic": "g-i7P5tZVp8"
+  },
+  "lastfm": {
+    "id": "Aya+Nakamura/_/Pookie",
+    "listeners": 95970,
+    "playcount": 818716,
+    "title": "Pookie",
+    "artist": "Aya Nakamura",
+    "mbid": "9643d261-d233-49d6-a2e2-9a59680ebdad",
+    "artistMbid": "cf580d82-3f3e-4b86-8874-7e0fbe794f01",
+    "tags": [
+      "rap"
+    ]
   }
 }

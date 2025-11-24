@@ -2,7 +2,7 @@
   "youtubeId": "w-OMKalnvX0",
   "title": "Veranda Shove",
   "artist": "Baths",
-  "lastFetched": "2025-11-23T20:14:19.768Z",
+  "lastFetched": "2025-11-24T00:23:36.502Z",
   "odesli": {
     "amazonMusic": "B0BQ8PDHKJ",
     "amazonStore": "B0BQ8PDHKJ",
@@ -10,5 +10,21 @@
     "tidal": "266958119",
     "youtube": "w-OMKalnvX0",
     "youtubeMusic": "w-OMKalnvX0"
+  },
+  "lastfm": {
+    "id": "Baths/_/Veranda+Shove",
+    "listeners": 5539,
+    "playcount": 25086,
+    "title": "Veranda Shove",
+    "artist": "Baths",
+    "mbid": "389342e9-9971-4af5-a2d7-5b7f28645e72",
+    "artistMbid": "84a5c934-8318-4080-8606-32b80e1b054a",
+    "tags": [
+      "electronic",
+      "glitch-hop",
+      "ambient",
+      "lo-fi",
+      "2020"
+    ]
   }
 }

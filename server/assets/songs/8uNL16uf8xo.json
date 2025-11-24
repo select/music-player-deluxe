@@ -2,7 +2,7 @@
   "youtubeId": "8uNL16uf8xo",
   "title": "Rossignol",
   "artist": "The Sea and Cake",
-  "lastFetched": "2025-11-23T19:46:02.267Z",
+  "lastFetched": "2025-11-24T00:21:38.753Z",
   "odesli": {
     "amazonMusic": "B01HRA01WC",
     "amazonStore": "B01HRA01WC",
@@ -11,5 +11,18 @@
     "tidal": "279502278",
     "youtube": "8uNL16uf8xo",
     "youtubeMusic": "8uNL16uf8xo"
+  },
+  "lastfm": {
+    "id": "The+Sea+and+Cake/_/Rossignol",
+    "listeners": 20051,
+    "playcount": 67558,
+    "title": "Rossignol",
+    "artist": "The Sea and Cake",
+    "mbid": "13ac695e-cb04-396f-9253-74d5d732c86c",
+    "artistMbid": "74171cb6-1ff8-42bd-be8a-96660c22e3e0",
+    "tags": [
+      "alternative  punk",
+      "instrumental"
+    ]
   }
 }

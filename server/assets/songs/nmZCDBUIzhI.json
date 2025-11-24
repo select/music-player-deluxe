@@ -2,11 +2,26 @@
   "youtubeId": "nmZCDBUIzhI",
   "title": "Summer Madness",
   "artist": "Mato",
-  "lastFetched": "2025-11-23T20:04:43.865Z",
+  "lastFetched": "2025-11-24T00:22:56.015Z",
   "odesli": {
     "soundcloud": "mato83990/summer-madness",
     "spotify": "45SiHmjLBcPWFsNFzB547Y",
     "youtube": "nmZCDBUIzhI",
     "youtubeMusic": "nmZCDBUIzhI"
+  },
+  "lastfm": {
+    "id": "Mato/_/Summer+Madness",
+    "listeners": 4985,
+    "playcount": 13932,
+    "title": "Summer Madness",
+    "artist": "Mato",
+    "artistMbid": "1dffec88-5f21-4f09-ae8c-ec81ab5c0578",
+    "tags": [
+      "dub",
+      "reggae",
+      "electronic",
+      "france",
+      "summer"
+    ]
   }
 }

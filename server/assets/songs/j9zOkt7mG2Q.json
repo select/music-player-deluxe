@@ -2,7 +2,7 @@
   "youtubeId": "j9zOkt7mG2Q",
   "title": "My Goddess",
   "artist": "Etyen",
-  "lastFetched": "2025-11-23T20:09:29.463Z",
+  "lastFetched": "2025-11-24T00:23:14.120Z",
   "odesli": {
     "amazonMusic": "B0F3P8QJ2D",
     "amazonStore": "B0F3P8QJ2D",
@@ -17,5 +17,19 @@
     "tidal": "428184948",
     "youtube": "j9zOkt7mG2Q",
     "youtubeMusic": "j9zOkt7mG2Q"
+  },
+  "lastfm": {
+    "id": "ETYEN/_/My+Goddess",
+    "listeners": 1769,
+    "playcount": 4314,
+    "title": "My Goddess",
+    "artist": "ETYEN",
+    "tags": [
+      "ambient",
+      "electronic",
+      "electronica",
+      "cinematic",
+      "lebanese"
+    ]
   }
 }

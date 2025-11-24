@@ -2,7 +2,7 @@
   "youtubeId": "7kNoARaxKhY",
   "title": "Exposition 5",
   "artist": "Philippe Laurent",
-  "lastFetched": "2025-11-23T19:56:44.013Z",
+  "lastFetched": "2025-11-24T00:22:27.240Z",
   "odesli": {
     "amazonMusic": "B0059F9P9I",
     "amazonStore": "B0059F9P9I",
@@ -15,5 +15,20 @@
     "yandex": "7715237",
     "youtube": "7kNoARaxKhY",
     "youtubeMusic": "7kNoARaxKhY"
+  },
+  "lastfm": {
+    "id": "Philippe+Laurent/_/Exposition+5",
+    "listeners": 3623,
+    "playcount": 10429,
+    "title": "Exposition 5",
+    "artist": "Philippe Laurent",
+    "mbid": "77cda913-db58-37d1-bdb7-b1e6be56359f",
+    "artistMbid": "2cd7dac4-8a18-4240-a283-9a04ae75d60d",
+    "tags": [
+      "minimal synth",
+      "80s",
+      "synth",
+      "80's"
+    ]
   }
 }

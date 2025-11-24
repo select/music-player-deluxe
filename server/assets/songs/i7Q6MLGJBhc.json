@@ -2,7 +2,7 @@
   "youtubeId": "i7Q6MLGJBhc",
   "title": "Hajduk",
   "artist": "Psio Crew",
-  "lastFetched": "2025-11-23T19:53:18.595Z",
+  "lastFetched": "2025-11-24T00:22:16.820Z",
   "odesli": {
     "amazonMusic": "B015LDK5OQ",
     "amazonStore": "B015LDK5OQ",
@@ -17,5 +17,18 @@
     "yandex": "25513047",
     "youtube": "i7Q6MLGJBhc",
     "youtubeMusic": "i7Q6MLGJBhc"
+  },
+  "lastfm": {
+    "id": "Psio+Crew/_/Hajduk",
+    "listeners": 7597,
+    "playcount": 43120,
+    "title": "Hajduk",
+    "artist": "Psio Crew",
+    "mbid": "610f394d-3fb3-32b6-b745-3162d6177ad8",
+    "artistMbid": "aae81c80-240a-499f-8c2a-7019d296152c",
+    "tags": [
+      "folk",
+      "polish"
+    ]
   }
 }

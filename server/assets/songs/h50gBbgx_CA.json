@@ -2,7 +2,7 @@
   "youtubeId": "h50gBbgx_CA",
   "title": "F**k The President",
   "artist": "The Dogs",
-  "lastFetched": "2025-11-23T19:52:39.888Z",
+  "lastFetched": "2025-11-24T00:22:12.290Z",
   "odesli": {
     "amazonMusic": "B001U1MPVA",
     "amazonStore": "B001U1MPVA",
@@ -15,5 +15,19 @@
     "yandex": "23627436",
     "youtube": "h50gBbgx_CA",
     "youtubeMusic": "h50gBbgx_CA"
+  },
+  "lastfm": {
+    "id": "The+Dogs/_/F%2A%2Ak+the+President",
+    "listeners": 279,
+    "playcount": 783,
+    "title": "F**k the President",
+    "artist": "The Dogs",
+    "artistMbid": "273139dd-745e-439d-b760-cc29fa024c78",
+    "tags": [
+      "garage rock",
+      "rock",
+      "punk rock",
+      "indie rock"
+    ]
   }
 }

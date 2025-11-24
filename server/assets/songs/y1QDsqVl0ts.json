@@ -2,11 +2,26 @@
   "youtubeId": "y1QDsqVl0ts",
   "title": "Dot Com",
   "artist": "Jethro Tull",
-  "lastFetched": "2025-11-23T20:10:20.181Z",
+  "lastFetched": "2025-11-24T00:23:16.700Z",
   "odesli": {
     "soundcloud": "jethrotullmusic/dot-com-2",
     "tidal": "89029981",
     "youtube": "y1QDsqVl0ts",
     "youtubeMusic": "y1QDsqVl0ts"
+  },
+  "lastfm": {
+    "id": "Jethro+Tull/_/Dot+Com",
+    "listeners": 14501,
+    "playcount": 48998,
+    "title": "Dot Com",
+    "artist": "Jethro Tull",
+    "mbid": "325d7af3-277d-44e3-a795-6dfd9243ecfa",
+    "artistMbid": "ece57992-dc2e-4f67-a269-fa43626c1a3d",
+    "tags": [
+      "progressive rock",
+      "rock",
+      "jethro tull",
+      "progressive"
+    ]
   }
 }

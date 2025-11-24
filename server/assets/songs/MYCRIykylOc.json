@@ -2,7 +2,7 @@
   "youtubeId": "MYCRIykylOc",
   "title": "Spill The Wine",
   "artist": "Eric Burdon",
-  "lastFetched": "2025-11-23T19:51:58.928Z",
+  "lastFetched": "2025-11-24T00:22:06.630Z",
   "odesli": {
     "amazonMusic": "B073T3ZK18",
     "amazonStore": "B073T3ZK18",
@@ -15,5 +15,19 @@
     "yandex": "126241",
     "youtube": "MYCRIykylOc",
     "youtubeMusic": "MYCRIykylOc"
+  },
+  "lastfm": {
+    "id": "Eric+Burdon/_/Spill+The+Wine",
+    "listeners": 70843,
+    "playcount": 259221,
+    "title": "Spill The Wine",
+    "artist": "Eric Burdon",
+    "mbid": "e460c2df-cd87-3e28-82bf-7a102fd19922",
+    "artistMbid": "70ac2314-d7d8-4435-b56c-9bad9a516642",
+    "tags": [
+      "rock",
+      "classic rock",
+      "70s"
+    ]
   }
 }

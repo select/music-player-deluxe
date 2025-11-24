@@ -2,7 +2,7 @@
   "youtubeId": "EdwPi68Ggqg",
   "title": "Bubble Like Soup",
   "artist": "Timberlee & Ward 21",
-  "lastFetched": "2025-11-23T19:51:15.743Z",
+  "lastFetched": "2025-11-24T00:22:02.838Z",
   "odesli": {
     "amazonMusic": "B01APT4TIO",
     "amazonStore": "B01APT4TIO",
@@ -12,5 +12,16 @@
     "yandex": "934272",
     "youtube": "EdwPi68Ggqg",
     "youtubeMusic": "EdwPi68Ggqg"
+  },
+  "lastfm": {
+    "id": "Timberlee+&+Ward+21/_/Bubble+Like+Soup",
+    "listeners": 2864,
+    "playcount": 13313,
+    "title": "Bubble Like Soup",
+    "artist": "Timberlee & Ward 21",
+    "mbid": "8ce95b1d-e069-3ad3-9eed-6d99acf0f680",
+    "tags": [
+      "mr easy"
+    ]
   }
 }

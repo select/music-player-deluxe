@@ -2,7 +2,7 @@
   "youtubeId": "TKJymx2KDWo",
   "title": "Sleeping Bag",
   "artist": "ZZ Top",
-  "lastFetched": "2025-11-23T20:17:59.007Z",
+  "lastFetched": "2025-11-24T00:23:47.728Z",
   "odesli": {
     "amazonMusic": "B0F18MZK5S",
     "amazonStore": "B0F18MZK5S",
@@ -12,5 +12,20 @@
     "tidal": "68708026",
     "youtube": "TKJymx2KDWo",
     "youtubeMusic": "TKJymx2KDWo"
+  },
+  "lastfm": {
+    "id": "ZZ+Top/_/Sleeping+Bag",
+    "listeners": 142242,
+    "playcount": 525810,
+    "title": "Sleeping Bag",
+    "artist": "ZZ Top",
+    "artistMbid": "a81259a0-a2f5-464b-866e-71220f2739f1",
+    "tags": [
+      "classic rock",
+      "rock",
+      "blues rock",
+      "southern rock",
+      "80s"
+    ]
   }
 }

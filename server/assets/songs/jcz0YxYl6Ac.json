@@ -2,7 +2,7 @@
   "youtubeId": "jcz0YxYl6Ac",
   "title": "Breathe (In the Air)",
   "artist": "Pink Floyd",
-  "lastFetched": "2025-11-23T19:58:52.536Z",
+  "lastFetched": "2025-11-24T00:22:35.780Z",
   "odesli": {
     "amazonMusic": "B0BSB7FH7G",
     "amazonStore": "B0BSB7FH7G",
@@ -19,5 +19,22 @@
     "yandex": "121044008",
     "youtube": "jcz0YxYl6Ac",
     "youtubeMusic": "jcz0YxYl6Ac"
+  },
+  "lastfm": {
+    "summary": "The second track in Pink Floyd’s The Dark Side of the Moon, segued into from the opening track, “Speak To Me”, along with being the first we hear lyrics on the album. This track is loosely based off Roger Waters' and Ron Geesin’s performance on “Breathe,” a track made and recorded for the 1970 documentary, The Body. This version saw no help from Geesin, a composer who previously worked on Atom Heart Mother only three years before. Instead, this song is credited to David Gilmour, Richard Wright and Roger Waters. <a href=\"http://www.last.fm/music/Pink+Floyd/_/Breathe+(In+the+Air)\">Read more on Last.fm</a>.",
+    "id": "Pink+Floyd/_/Breathe+(In+the+Air)",
+    "listeners": 1156888,
+    "playcount": 10994069,
+    "tags": [
+      "Psychedelic Rock",
+      "Progressive rock",
+      "art rock",
+      "space rock",
+      "Pink Floyd"
+    ],
+    "title": "Breathe (In the Air)",
+    "artist": "Pink Floyd",
+    "mbid": "eceb4ed4-40b3-414b-a637-a6b1df7ccf1c",
+    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47"
   }
 }

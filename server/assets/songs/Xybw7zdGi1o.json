@@ -2,7 +2,7 @@
   "youtubeId": "Xybw7zdGi1o",
   "title": "bamboo",
   "artist": "Ebi Soda",
-  "lastFetched": "2025-11-23T19:56:31.724Z",
+  "lastFetched": "2025-11-24T00:22:25.909Z",
   "odesli": {
     "amazonMusic": "B0DWYTP3BG",
     "amazonStore": "B0DWYTP3BG",
@@ -17,5 +17,18 @@
     "yandex": "136046249",
     "youtube": "Xybw7zdGi1o",
     "youtubeMusic": "Xybw7zdGi1o"
+  },
+  "lastfm": {
+    "id": "Ebi+Soda/_/bamboo",
+    "listeners": 1058,
+    "playcount": 2267,
+    "title": "bamboo",
+    "artist": "Ebi Soda",
+    "mbid": "1d835b63-a1ae-4790-b602-53be6c7d0ab2",
+    "artistMbid": "89fdffe7-4545-4265-9ccc-e7b928e00d22",
+    "tags": [
+      "jazz",
+      "fusion"
+    ]
   }
 }

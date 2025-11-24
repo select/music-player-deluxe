@@ -2,7 +2,7 @@
   "youtubeId": "4fndeDfaWCg",
   "title": "I Want It That Way",
   "artist": "Backstreet Boys",
-  "lastFetched": "2025-11-23T19:46:50.395Z",
+  "lastFetched": "2025-11-24T00:21:45.021Z",
   "odesli": {
     "amazonMusic": "B00136NFFW",
     "amazonStore": "B00136NFFW",
@@ -19,5 +19,22 @@
     "yandex": "629182",
     "youtube": "4fndeDfaWCg",
     "youtubeMusic": "4fndeDfaWCg"
+  },
+  "lastfm": {
+    "summary": "\"I Want It That Way\" peaked at #1 on the U.S. Billboard Adult Contemporary Chart in the Summer of 1999. <a href=\"http://www.last.fm/music/Backstreet+Boys/_/I+Want+It+That+Way\">Read more on Last.fm</a>.",
+    "id": "Backstreet+Boys/_/I+Want+It+That+Way",
+    "listeners": 1614921,
+    "playcount": 11175791,
+    "tags": [
+      "pop",
+      "90s",
+      "backstreet boys",
+      "boybands",
+      "male vocalists"
+    ],
+    "title": "I Want It That Way",
+    "artist": "Backstreet Boys",
+    "mbid": "6d42e81f-894c-4b70-9845-5898233ef21f",
+    "artistMbid": "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad"
   }
 }

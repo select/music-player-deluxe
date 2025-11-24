@@ -2,7 +2,7 @@
   "youtubeId": "_Q6Rixmvujc",
   "title": "Soapy",
   "artist": "Naira Marley",
-  "lastFetched": "2025-11-23T19:57:28.249Z",
+  "lastFetched": "2025-11-24T00:22:30.722Z",
   "odesli": {
     "amazonMusic": "B0BPK3LMXW",
     "amazonStore": "B0BPK3LMXW",
@@ -21,5 +21,18 @@
     "yandex": "54617041",
     "youtube": "_Q6Rixmvujc",
     "youtubeMusic": "_Q6Rixmvujc"
+  },
+  "lastfm": {
+    "id": "Naira+Marley/_/Soapy",
+    "listeners": 10894,
+    "playcount": 74503,
+    "title": "Soapy",
+    "artist": "Naira Marley",
+    "tags": [
+      "rap",
+      "hip hop",
+      "london",
+      "nigeria"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "4w16o5jkzx8",
   "title": "Hypnotic Drugstore",
   "artist": "Jimi Tenor",
-  "lastFetched": "2025-11-23T20:11:46.902Z",
+  "lastFetched": "2025-11-24T00:23:25.458Z",
   "odesli": {
     "amazonMusic": "B001E42G58",
     "amazonStore": "B001E42G58",
@@ -17,5 +17,17 @@
     "tidal": "16025991",
     "youtube": "4w16o5jkzx8",
     "youtubeMusic": "4w16o5jkzx8"
+  },
+  "lastfm": {
+    "id": "Jimi+Tenor/_/Hypnotic+Drugstore",
+    "listeners": 4408,
+    "playcount": 12969,
+    "title": "Hypnotic Drugstore",
+    "artist": "Jimi Tenor",
+    "mbid": "6bf97de7-df84-3f13-bdc6-ea6b95a58019",
+    "artistMbid": "41521210-ef91-49cc-9b0b-55ca8f9f053c",
+    "tags": [
+      "electronica"
+    ]
   }
 }

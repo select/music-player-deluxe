@@ -11,31 +11,83 @@ const PLAYLIST_FILE = path.join(
 	__dirname,
 	"../public/playlist/PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx.json",
 );
-const FAIL_FILE = path.join(__dirname, "../data/ollama-fail.json");
-const API_URL = "http://localhost:3000/api/metadata/ollama";
+const SONGS_DIR = path.join(__dirname, "../server/assets/songs");
 
 interface Video {
 	id: string;
 	title: string;
-	artist?: string;
 	channel: string;
+	duration: string;
+	artist?: string;
+	musicTitle?: string;
+	tags?: string[];
+	createdAt?: number;
+	userId?: string | null;
 	externalIds?: Record<string, string>;
+	listeners?: number;
+	playcount?: number;
+	lastfmSummary?: string;
 }
 
 interface Playlist {
-	videos: Video[];
-}
-
-interface OllamaAugmentResponse {
+	id: string;
 	title: string;
-	artist: string;
+	description: string;
+	videoCount: number;
+	videos: Video[];
+	lastFetched: string;
 }
 
-interface ApiResult {
-	success: boolean;
-	data?: OllamaAugmentResponse;
-	error?: string;
+interface SongMetaData {
+	mbid?: string;
+	trackMbid?: string;
+	title: string;
+	artist?: string;
+	artistMbid?: string;
+	album?: string;
+	releaseCount?: number;
+	duration?: number;
+	youtubeId: string;
+	lastFetched: string;
+	datetime?: number;
+	userId?: string | null;
+	odesli?: Record<string, string>;
+	ai?: {
+		title?: string;
+		artist?: string;
+	};
+	musicbrainz?: {
+		tags?: string[];
+		genres?: string[];
+		artistTags?: string[];
+		artistGenres?: string[];
+	};
+	lastfm?: {
+		summary?: string;
+		tags?: string[];
+		playcount?: number;
+		listeners?: number;
+		id?: string;
+		mbid?: string;
+		artistMbid?: string;
+	};
 }
+
+interface OllamaResponse {
+	message: {
+		content: string;
+	};
+}
+
+interface OllamaConfig {
+	host: string;
+	model: string;
+}
+
+const DEFAULT_CONFIG: OllamaConfig = {
+	host: "http://localhost:11434",
+	model: "gemma3:4b",
+};
 
 // Load playlist data
 function loadPlaylist(): Playlist {
@@ -48,113 +100,273 @@ function loadPlaylist(): Playlist {
 	}
 }
 
-// Make API request
-async function callOllamaAugment(
-	videoId: string,
-	title: string,
-	channel: string,
-): Promise<ApiResult> {
+// Check if song file exists and load it
+function loadSongFile(youtubeId: string): SongMetaData | null {
+	const songFilePath = path.join(SONGS_DIR, `${youtubeId}.json`);
 	try {
-		const response = await fetch(API_URL, {
-			method: "POST",
-			headers: {
-				"Content-Type": "application/json",
-			},
-			body: JSON.stringify({
-				youtubeId: videoId,
-				title: title,
-				channel: channel,
-			}),
-		});
+		const data = fs.readFileSync(songFilePath, "utf8");
+		return JSON.parse(data) as SongMetaData;
+	} catch {
+		return null;
+	}
+}
 
-		if (!response.ok) {
-			throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+// Save song file
+function saveSongFile(youtubeId: string, data: SongMetaData): void {
+	const songFilePath = path.join(SONGS_DIR, `${youtubeId}.json`);
+	try {
+		fs.writeFileSync(songFilePath, JSON.stringify(data, null, 2), "utf8");
+	} catch (error) {
+		console.error(
+			`Error saving song file ${youtubeId}:`,
+			(error as Error).message,
+		);
+	}
+}
+
+// Check if Ollama model is available
+async function isOllamaModelAvailable(
+	model: string,
+	host = DEFAULT_CONFIG.host,
+): Promise<boolean> {
+	try {
+		const response = await fetch(`${host}/api/tags`);
+		if (!response.ok) return false;
+
+		const data = await response.json();
+		return data.models?.some((m: any) => m.name.includes(model)) ?? false;
+	} catch {
+		return false;
+	}
+}
+
+// Make Ollama request
+async function ollamaChat(
+	model: string,
+	messages: Array<{ role: string; content: string }>,
+	host = DEFAULT_CONFIG.host,
+): Promise<OllamaResponse> {
+	const response = await fetch(`${host}/api/chat`, {
+		method: "POST",
+		headers: {
+			"Content-Type": "application/json",
+		},
+		body: JSON.stringify({
+			model,
+			messages,
+			stream: false,
+			format: "json",
+		}),
+	});
+
+	if (!response.ok) {
+		throw new Error(`HTTP error! status: ${response.status}`);
+	}
+
+	return await response.json();
+}
+
+// Create metadata extraction prompt
+function createMetadataPrompt(title: string, channel: string): string {
+	return `You are a music metadata extraction expert. Given a YouTube video title and channel name, extract the artist name, track name.
+
+Title: "${title}"
+Channel: "${channel}"
+
+Please analyze this information and extract:
+1. Artist name (the main performing artist)
+2. Track name (the song title, cleaned up)
+
+Guidelines:
+- Remove common YouTube suffixes like "(Official Video)", "(Lyric Video)", "[HD]", etc.
+- If the artist is not clear from the title, use the channel name as a fallback
+- When the channel ends with - Topic e.g. "xxx - Topic" then the artist is "xxx"
+- Be concise and accurate
+
+Respond in valid JSON format only:
+{
+  "artist": "extracted artist name",
+  "track": "extracted track name"
+}`;
+}
+
+// Extract JSON from response
+function extractJsonFromResponse(content: string): string | null {
+	const jsonMatch = content.match(/\{[\s\S]*\}/);
+	return jsonMatch?.[0] ?? null;
+}
+
+// Parse metadata response
+function parseMetadataResponse(
+	content: string,
+	title: string,
+): { artist: string; track: string } | null {
+	const jsonString = extractJsonFromResponse(content.trim());
+	if (!jsonString) {
+		console.warn(`No JSON found in response for "${title}"`);
+		return null;
+	}
+
+	try {
+		const extracted = JSON.parse(jsonString);
+
+		if (!extracted?.artist || !extracted?.track) {
+			console.warn(
+				`Invalid metadata structure for "${title}"`,
+				JSON.stringify(extracted, null, 2),
+			);
+			return null;
 		}
 
-		const data = (await response.json()) as OllamaAugmentResponse;
-		return { success: true, data };
+		return {
+			artist: extracted.artist.trim(),
+			track: extracted.track.trim(),
+		};
 	} catch (error) {
-		return { success: false, error: (error as Error).message };
+		console.error(`Error parsing JSON for "${title}":`, error);
+		return null;
+	}
+}
+
+// Extract metadata with Ollama
+async function extractMetadataWithOllama(
+	youtubeId: string,
+	title: string,
+	channel: string,
+	config: Partial<OllamaConfig> = {},
+): Promise<{ title: string; artist: string } | null> {
+	const { host, model } = { ...DEFAULT_CONFIG, ...config };
+
+	try {
+		// Check if model is available
+		const modelAvailable = await isOllamaModelAvailable(model, host);
+		if (!modelAvailable) {
+			console.warn(`Model ${model} not available`);
+			return null;
+		}
+
+		const prompt = createMetadataPrompt(title, channel);
+		const response = await ollamaChat(
+			model,
+			[{ role: "user", content: prompt }],
+			host,
+		);
+
+		const extracted = parseMetadataResponse(response.message.content, title);
+		if (!extracted) {
+			return null;
+		}
+
+		return {
+			artist: extracted.artist,
+			title: extracted.track,
+		};
+	} catch (error) {
+		console.error(`Error extracting metadata for "${title}":`, error);
+		return null;
 	}
 }
 
 async function main(): Promise<void> {
 	console.log("Starting ollama-augment script...");
-	console.log("Processing videos without artist field using Ollama AI...");
+	console.log("Checking for missing AI metadata in song files...");
 
-	// Load data
+	// Load playlist
 	const playlist = loadPlaylist();
-
 	console.log(`Loaded playlist with ${playlist.videos.length} videos`);
 
-	// Filter videos without artist field and not in fail list
-	const videosToProcess = playlist.videos.filter((video) => {
-		return !video.artist;
-	});
-
-	console.log(`Found ${videosToProcess.length} videos to process`);
-
-	if (videosToProcess.length === 0) {
-		console.log("No videos to process. Exiting.");
-		return;
+	// Check Ollama availability
+	const modelAvailable = await isOllamaModelAvailable(DEFAULT_CONFIG.model);
+	if (!modelAvailable) {
+		console.error(
+			`Ollama model ${DEFAULT_CONFIG.model} is not available. Please ensure Ollama is running and the model is installed.`,
+		);
+		process.exit(1);
 	}
 
 	let processedCount = 0;
 	let successCount = 0;
+	let skipCount = 0;
 	let failCount = 0;
 
-	for (const video of videosToProcess) {
+	for (const video of playlist.videos) {
 		processedCount++;
 		console.log(
-			`\n[${processedCount}/${videosToProcess.length}] Processing: ${video.id}`,
+			`\n[${processedCount}/${playlist.videos.length}] Processing: ${video.id}`,
 		);
 		console.log(`Title: ${video.title}`);
 		console.log(`Channel: ${video.channel}`);
 
-		const result = await callOllamaAugment(
+		// Load existing song file or create new one
+		let existingSong = loadSongFile(video.id);
+
+		if (!existingSong) {
+			console.log("📁 Creating new song file...");
+			existingSong = {
+				youtubeId: video.id,
+				title: video.title,
+				lastFetched: new Date().toISOString(),
+			};
+		}
+
+		// Check if LastFM data or AI data already exists (skip conditions)
+		if (existingSong.lastfm) {
+			console.log("⏭️  LastFM data already exists, skipping...");
+			skipCount++;
+			continue;
+		}
+
+		if (existingSong.ai?.title && existingSong.ai?.artist) {
+			console.log("⏭️  AI data already exists, skipping...");
+			skipCount++;
+			continue;
+		}
+
+		console.log("🤖 Extracting AI metadata...");
+
+		// Extract metadata using Ollama
+		const aiMetadata = await extractMetadataWithOllama(
 			video.id,
 			video.title,
 			video.channel,
 		);
 
-		if (result.success && result.data) {
+		if (aiMetadata) {
+			// Add AI data to existing song
+			existingSong.ai = {
+				title: aiMetadata.title,
+				artist: aiMetadata.artist,
+			};
+
+			// Save updated song file
+			saveSongFile(video.id, existingSong);
+
 			successCount++;
-			console.log("✅ Success! Artist extracted and will be saved.");
-			console.log(`   Extracted Artist: "${result.data.artist}"`);
-			console.log(`   Cleaned Title: "${result.data.title}"`);
+			console.log("✅ Success! AI metadata extracted and saved.");
+			console.log(`   AI Artist: "${aiMetadata.artist}"`);
+			console.log(`   AI Title: "${aiMetadata.title}"`);
 		} else {
 			failCount++;
-			console.log(`❌ Failed: ${result.error}`);
-
-			// Add to fail list if it's a 404 or other permanent error
-			if (
-				result.error &&
-				(result.error.includes("404") ||
-					result.error.includes("HTTP 4") ||
-					result.error.includes("extraction failed"))
-			) {
-				console.log("   Added to fail list to avoid retrying");
-			}
+			console.log("❌ Failed to extract AI metadata");
 		}
 
-		// No rate limiting - process immediately
+		// Progress update
 		if (processedCount % 10 === 0) {
 			console.log(`⏳ Processed ${processedCount} videos so far...`);
 		}
+
+		// Small delay to be respectful to Ollama
+		await new Promise((resolve) => setTimeout(resolve, 100));
 	}
 
 	console.log("\n=== Summary ===");
 	console.log(`Total processed: ${processedCount}`);
+	console.log(`Skipped (has LastFM or AI data): ${skipCount}`);
 	console.log(`Successful extractions: ${successCount}`);
 	console.log(`Failed extractions: ${failCount}`);
 
-	if (failCount > 0) {
-		console.log(`\nFailed IDs are saved in: ${FAIL_FILE}`);
-	}
-
 	if (successCount > 0) {
-		console.log("\n🎵 Artist information has been extracted successfully!");
-		console.log("Metadata is stored in server-side files via the API.");
+		console.log("\n🎵 AI metadata has been extracted and saved successfully!");
 	}
 
 	console.log("\nScript completed!");

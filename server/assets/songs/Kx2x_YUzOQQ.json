@@ -2,7 +2,7 @@
   "youtubeId": "Kx2x_YUzOQQ",
   "title": "The Whispers",
   "artist": "KXD-LvL",
-  "lastFetched": "2025-11-23T19:49:13.652Z",
+  "lastFetched": "2025-11-24T00:21:56.418Z",
   "odesli": {
     "amazonMusic": "B0C2J99S69",
     "amazonStore": "B0C2J99S69",
@@ -12,5 +12,15 @@
     "spotify": "4WLKzzR8xJdsO4R6odNUhL",
     "youtube": "Kx2x_YUzOQQ",
     "youtubeMusic": "Kx2x_YUzOQQ"
+  },
+  "lastfm": {
+    "id": "KXD-LvL/_/The+Whispers",
+    "listeners": 216,
+    "playcount": 955,
+    "title": "The Whispers",
+    "artist": "KXD-LvL",
+    "tags": [
+      "techno"
+    ]
   }
 }

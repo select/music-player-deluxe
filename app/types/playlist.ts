@@ -73,6 +73,10 @@ export interface SongMetaData {
 	datetime?: number;
 	userId?: string | null;
 	odesli?: Record<string, string>;
+	ai?: {
+		title?: string;
+		artist?: string;
+	};
 	musicbrainz?: {
 		tags?: string[];
 		genres?: string[];

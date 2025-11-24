@@ -2,5 +2,9 @@
   "youtubeId": "SPsXIYz7ux0",
   "title": "All Good Things",
   "artist": "Survivor",
-  "lastFetched": "2025-11-17T02:31:58.928Z"
+  "lastFetched": "2025-11-17T02:31:58.928Z",
+  "ai": {
+    "title": "All Good Things",
+    "artist": "Survivor"
+  }
 }

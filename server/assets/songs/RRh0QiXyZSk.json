@@ -2,7 +2,7 @@
   "youtubeId": "RRh0QiXyZSk",
   "title": "Sixteen Tons",
   "artist": "Tennessee Ernie Ford",
-  "lastFetched": "2025-11-23T20:17:29.618Z",
+  "lastFetched": "2025-11-24T00:23:46.396Z",
   "odesli": {
     "amazonMusic": "B073QKG9ZL",
     "amazonStore": "B073QKG9ZL",
@@ -14,5 +14,22 @@
     "yandex": "15543532",
     "youtube": "RRh0QiXyZSk",
     "youtubeMusic": "RRh0QiXyZSk"
+  },
+  "lastfm": {
+    "summary": "Classic pop-country crossover hit of 1955-56, reaching #1 on both Billboard's pop and country charts. Orchestrated with a clarinet lead, not a typical country music instrument, by Jack Fascinato. <a href=\"http://www.last.fm/music/Tennessee+Ernie+Ford/_/Sixteen+Tons\">Read more on Last.fm</a>.",
+    "id": "Tennessee+Ernie+Ford/_/Sixteen+Tons",
+    "listeners": 276521,
+    "playcount": 1532866,
+    "title": "Sixteen Tons",
+    "artist": "Tennessee Ernie Ford",
+    "mbid": "1c3af406-da0c-4a37-a70d-e42dde4fe89f",
+    "artistMbid": "947163f5-f306-4d78-a316-8c3fb317ae50",
+    "tags": [
+      "country",
+      "oldies",
+      "tennessee ernie ford",
+      "swing",
+      "classic country"
+    ]
   }
 }

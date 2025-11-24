@@ -2,7 +2,7 @@
   "youtubeId": "HPHdCroE0fY",
   "title": "Onprangering",
   "artist": "die ärzte",
-  "lastFetched": "2025-11-23T19:47:20.397Z",
+  "lastFetched": "2025-11-24T00:21:48.328Z",
   "odesli": {
     "amazonMusic": "B08C268ZX8",
     "amazonStore": "B08C268ZX8",
@@ -13,5 +13,20 @@
     "tidal": "146882729",
     "youtube": "HPHdCroE0fY",
     "youtubeMusic": "HPHdCroE0fY"
+  },
+  "lastfm": {
+    "id": "Die+%C3%84rzte/_/Onprangering",
+    "listeners": 19968,
+    "playcount": 84820,
+    "title": "Onprangering",
+    "artist": "Die Ärzte",
+    "mbid": "05910234-54a5-3265-baee-f756eb57aae7",
+    "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
+    "tags": [
+      "german",
+      "deutsch",
+      "german artist",
+      "punk"
+    ]
   }
 }

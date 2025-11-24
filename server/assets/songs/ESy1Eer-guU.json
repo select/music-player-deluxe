@@ -2,7 +2,7 @@
   "youtubeId": "ESy1Eer-guU",
   "title": "Can't You See Me",
   "artist": "Roy Ayers",
-  "lastFetched": "2025-11-23T19:54:07.133Z",
+  "lastFetched": "2025-11-24T00:22:20.878Z",
   "odesli": {
     "amazonMusic": "B001GDVE0K",
     "amazonStore": "B001GDVE0K",
@@ -12,5 +12,20 @@
     "tidal": "3909416",
     "youtube": "ESy1Eer-guU",
     "youtubeMusic": "ESy1Eer-guU"
+  },
+  "lastfm": {
+    "id": "Roy+Ayers/_/Can%27t+You+See+Me",
+    "listeners": 12497,
+    "playcount": 33847,
+    "title": "Can't You See Me",
+    "artist": "Roy Ayers",
+    "mbid": "b7f10f12-7a06-4517-b11a-92f4cf3e7659",
+    "artistMbid": "06e199c1-6f33-477b-a74d-bc8a283bd8f0",
+    "tags": [
+      "funk",
+      "jazz",
+      "jazz-funk",
+      "1978"
+    ]
   }
 }

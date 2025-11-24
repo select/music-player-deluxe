@@ -2,7 +2,7 @@
   "youtubeId": "GtKdzp3-3mI",
   "title": "New Jack Swing II (Hard Version)",
   "artist": "Wreckx-N-Effect",
-  "lastFetched": "2025-11-23T20:06:12.551Z",
+  "lastFetched": "2025-11-24T00:23:00.014Z",
   "odesli": {
     "amazonMusic": "B000W26AT6",
     "amazonStore": "B000W26AT6",
@@ -13,5 +13,17 @@
     "yandex": "78220698",
     "youtube": "GtKdzp3-3mI",
     "youtubeMusic": "GtKdzp3-3mI"
+  },
+  "lastfm": {
+    "id": "Wreckx-N-Effect/_/New+Jack+Swing+II+(Hard+Version)",
+    "listeners": 1949,
+    "playcount": 3370,
+    "title": "New Jack Swing II (Hard Version)",
+    "artist": "Wreckx-N-Effect",
+    "mbid": "ca18d3cc-6376-346a-9c5f-c57d5759e3a1",
+    "tags": [
+      "new jack swing",
+      "hot shit"
+    ]
   }
 }

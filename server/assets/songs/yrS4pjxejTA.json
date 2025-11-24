@@ -2,7 +2,7 @@
   "youtubeId": "yrS4pjxejTA",
   "title": "Asa",
   "artist": "Phylipe Nunes Araújo",
-  "lastFetched": "2025-11-23T19:46:15.064Z",
+  "lastFetched": "2025-11-24T00:21:41.129Z",
   "odesli": {
     "amazonMusic": "B0FGJVBNJV",
     "amazonStore": "B0FGJVBNJV",
@@ -11,5 +11,18 @@
     "soundcloud": "phylipenunesaraujo/asa",
     "youtube": "yrS4pjxejTA",
     "youtubeMusic": "yrS4pjxejTA"
+  },
+  "lastfm": {
+    "id": "Phylipe+Nunes+Ara%C3%BAjo/_/Asa",
+    "listeners": 557,
+    "playcount": 1208,
+    "title": "Asa",
+    "artist": "Phylipe Nunes Araújo",
+    "tags": [
+      "brazil",
+      "brasil",
+      "nacional",
+      "brazilian mpb folk indie"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "shioBThUoZM",
   "title": "Light For The Deadvine",
   "artist": "People In Planes",
-  "lastFetched": "2025-11-23T19:59:57.254Z",
+  "lastFetched": "2025-11-24T00:22:40.143Z",
   "odesli": {
     "amazonMusic": "B00KX58RGG",
     "amazonStore": "B00KX58RGG",
@@ -18,5 +18,17 @@
     "yandex": "488964",
     "youtube": "shioBThUoZM",
     "youtubeMusic": "shioBThUoZM"
+  },
+  "lastfm": {
+    "id": "People+In+Planes/_/Light+For+The+Deadvine",
+    "listeners": 30239,
+    "playcount": 174756,
+    "title": "Light For The Deadvine",
+    "artist": "People In Planes",
+    "mbid": "7605095a-ef4b-3be2-8b28-329ef9821c4f",
+    "tags": [
+      "house md",
+      "indie rock"
+    ]
   }
 }

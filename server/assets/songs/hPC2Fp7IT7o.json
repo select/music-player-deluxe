@@ -2,7 +2,7 @@
   "youtubeId": "hPC2Fp7IT7o",
   "title": "Broken",
   "artist": "Seether",
-  "lastFetched": "2025-11-23T19:58:23.964Z",
+  "lastFetched": "2025-11-24T00:22:34.613Z",
   "odesli": {
     "amazonMusic": "B07ZFXML9Q",
     "amazonStore": "B07ZFXML9Q",
@@ -15,5 +15,22 @@
     "tidal": "31848571",
     "youtube": "hPC2Fp7IT7o",
     "youtubeMusic": "hPC2Fp7IT7o"
+  },
+  "lastfm": {
+    "summary": "\"Broken\" is a song by South African rock band Seether, first appearing on their debut album, Disclaimer (2002). It was reworked and recorded again in 2004, this time featuring American singer Amy Lee, the lead singer of Evanescence and then-girlfriend of Seether vocalist Shaun Morgan. It was included on the soundtrack to the 2004 Marvel Comics superhero film The Punisher, and was also on Seether's second studio album, Disclaimer II.\n\nReleased as a single on April 19th 2004 <a href=\"http://www.last.fm/music/Seether/_/Broken\">Read more on Last.fm</a>.",
+    "id": "Seether/_/Broken",
+    "listeners": 631467,
+    "playcount": 4223191,
+    "tags": [
+      "alternative rock",
+      "rock",
+      "seether",
+      "acoustic",
+      "alternative"
+    ],
+    "title": "Broken",
+    "artist": "Seether",
+    "mbid": "0fa76c46-a508-4e57-96b1-c3735a1d188d",
+    "artistMbid": "fbcd7b29-455f-49e6-9c4f-8249d20a055e"
   }
 }

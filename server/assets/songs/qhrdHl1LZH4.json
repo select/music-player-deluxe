@@ -2,7 +2,7 @@
   "youtubeId": "qhrdHl1LZH4",
   "title": "Heart Attack",
   "artist": "Noizy",
-  "lastFetched": "2025-11-23T19:52:11.625Z",
+  "lastFetched": "2025-11-24T00:22:08.356Z",
   "odesli": {
     "amazonMusic": "B0B3RVLSR4",
     "amazonStore": "B0B3RVLSR4",
@@ -13,5 +13,18 @@
     "tidal": "233104583",
     "youtube": "qhrdHl1LZH4",
     "youtubeMusic": "qhrdHl1LZH4"
+  },
+  "lastfm": {
+    "id": "Noizy/_/Heart+Attack",
+    "listeners": 8269,
+    "playcount": 71666,
+    "title": "Heart Attack",
+    "artist": "Noizy",
+    "tags": [
+      "albanian",
+      "rock",
+      "japanese",
+      "indie"
+    ]
   }
 }

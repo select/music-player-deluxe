@@ -10,6 +10,10 @@
     "title": "Anioł",
     "artist": "Hey",
     "mbid": "0ea734a9-8a66-397a-9a09-e20b7fbed0ab",
-    "artistMbid": "d24c555c-318d-4fa3-bcf9-a250475cf0af"
+    "artistMbid": "d24c555c-318d-4fa3-bcf9-a250475cf0af",
+    "tags": [
+      "rock",
+      "polish"
+    ]
   }
 }

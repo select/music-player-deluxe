@@ -2,7 +2,7 @@
   "youtubeId": "nvUsU46vM08",
   "title": "Swerve It",
   "artist": "Bou",
-  "lastFetched": "2025-11-23T20:12:12.073Z",
+  "lastFetched": "2025-11-24T00:23:27.964Z",
   "odesli": {
     "amazonMusic": "B0CLSF765G",
     "amazonStore": "B0CLSF765G",
@@ -19,5 +19,19 @@
     "yandex": "118662077",
     "youtube": "nvUsU46vM08",
     "youtubeMusic": "nvUsU46vM08"
+  },
+  "lastfm": {
+    "id": "Bou/_/Swerve+It",
+    "listeners": 24749,
+    "playcount": 121216,
+    "title": "Swerve It",
+    "artist": "Bou",
+    "tags": [
+      "dnb",
+      "woman",
+      "acapella",
+      "men",
+      "3stars"
+    ]
   }
 }

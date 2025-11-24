@@ -2,7 +2,7 @@
   "youtubeId": "rNxDOBO1YFU",
   "title": "Life Is But A Dream",
   "artist": "London Elektricity",
-  "lastFetched": "2025-11-23T20:07:43.007Z",
+  "lastFetched": "2025-11-24T00:23:04.749Z",
   "odesli": {
     "amazonMusic": "B0F3L31K44",
     "amazonStore": "B0F3L31K44",
@@ -12,5 +12,19 @@
     "tidal": "428626126",
     "youtube": "rNxDOBO1YFU",
     "youtubeMusic": "rNxDOBO1YFU"
+  },
+  "lastfm": {
+    "id": "London+Elektricity/_/Life+Is+But+A+Dream",
+    "listeners": 1850,
+    "playcount": 4554,
+    "title": "Life Is But A Dream",
+    "artist": "London Elektricity",
+    "artistMbid": "0356daee-ec48-4495-bc3e-460b8a5eacad",
+    "tags": [
+      "drum and bass",
+      "liquid funk",
+      "electronic",
+      "dnb"
+    ]
   }
 }

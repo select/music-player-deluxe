@@ -2,7 +2,7 @@
   "youtubeId": "N-EhDZXp7ns",
   "title": "My Club",
   "artist": "The Asteroids Galaxy Tour",
-  "lastFetched": "2025-11-23T19:46:39.578Z",
+  "lastFetched": "2025-11-24T00:21:43.822Z",
   "odesli": {
     "amazonMusic": "B0F45GQX3M",
     "amazonStore": "B0F45GQX3M",
@@ -14,5 +14,21 @@
     "tidal": "433399896",
     "youtube": "N-EhDZXp7ns",
     "youtubeMusic": "N-EhDZXp7ns"
+  },
+  "lastfm": {
+    "id": "The+Asteroids+Galaxy+Tour/_/My+Club",
+    "listeners": 18373,
+    "playcount": 103982,
+    "title": "My Club",
+    "artist": "The Asteroids Galaxy Tour",
+    "mbid": "1b0e05bc-75cf-4cfb-8011-2df9300373f9",
+    "artistMbid": "4661d98a-95bd-4cf1-a693-4f9f25691ada",
+    "tags": [
+      "pop",
+      "indie pop",
+      "female vocals",
+      "horns",
+      "danish"
+    ]
   }
 }

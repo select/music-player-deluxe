@@ -2,7 +2,7 @@
   "youtubeId": "AmkMEoVb6rA",
   "title": "Rat Race",
   "artist": "The Specials",
-  "lastFetched": "2025-11-23T19:48:38.425Z",
+  "lastFetched": "2025-11-24T00:21:51.810Z",
   "odesli": {
     "amazonMusic": "B0B3SBVDVC",
     "amazonStore": "B0B3SBVDVC",
@@ -12,5 +12,18 @@
     "tidal": "233165570",
     "youtube": "AmkMEoVb6rA",
     "youtubeMusic": "AmkMEoVb6rA"
+  },
+  "lastfm": {
+    "id": "The+Specials/_/Rat+Race",
+    "listeners": 124748,
+    "playcount": 621835,
+    "title": "Rat Race",
+    "artist": "The Specials",
+    "tags": [
+      "ska",
+      "two-tone",
+      "80s",
+      "british"
+    ]
   }
 }

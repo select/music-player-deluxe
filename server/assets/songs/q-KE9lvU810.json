@@ -2,7 +2,7 @@
   "youtubeId": "q-KE9lvU810",
   "title": "Cherub Rock",
   "artist": "The Smashing Pumpkins",
-  "lastFetched": "2025-11-23T19:54:48.709Z",
+  "lastFetched": "2025-11-24T00:22:22.034Z",
   "odesli": {
     "amazonMusic": "B0064Z8X54",
     "amazonStore": "B0064Z8X54",
@@ -15,5 +15,21 @@
     "yandex": "3048042",
     "youtube": "q-KE9lvU810",
     "youtubeMusic": "q-KE9lvU810"
+  },
+  "lastfm": {
+    "summary": "\"Cherub Rock\" is a song by the American alternative rock band The Smashing Pumpkins. It was the first single from their second album, Siamese Dream, and was written by lead vocalist/guitarist Billy Corgan. It was nominated for Best Hard Rock Performance with Vocal at the Grammy Awards of 1994, their first Grammy nomination along with a Best Alternative Music Performance nomination for Siamese Dream.\n\nThe song was a moderate success for the band, being performed on Saturday Night Live and making it to the Triple J Hottest 100 at number 43. <a href=\"http://www.last.fm/music/The+Smashing+Pumpkins/_/Cherub+Rock\">Read more on Last.fm</a>.",
+    "id": "The+Smashing+Pumpkins/_/Cherub+Rock",
+    "listeners": 621837,
+    "playcount": 3286316,
+    "title": "Cherub Rock",
+    "artist": "The Smashing Pumpkins",
+    "artistMbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+    "tags": [
+      "alternative rock",
+      "rock",
+      "grunge",
+      "90s",
+      "alternative"
+    ]
   }
 }
