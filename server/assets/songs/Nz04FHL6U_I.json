@@ -2,7 +2,7 @@
   "youtubeId": "Nz04FHL6U_I",
   "title": "Her Alone",
   "artist": "Amorphis",
-  "lastFetched": "2025-11-27T10:08:44.993Z",
+  "lastFetched": "2025-11-28T12:13:31.484Z",
   "odesli": {
     "amazonMusic": "B0DLBB7QQ2",
     "amazonStore": "B0DLBB7QQ2",
@@ -10,5 +10,20 @@
     "spotify": "67Y6hYRNtQMUDA9chfuRkW",
     "youtube": "Nz04FHL6U_I",
     "youtubeMusic": "Nz04FHL6U_I"
+  },
+  "lastfm": {
+    "id": "Amorphis/_/Her+Alone",
+    "listeners": 60999,
+    "playcount": 475037,
+    "title": "Her Alone",
+    "artist": "Amorphis",
+    "mbid": "aef797e5-904b-49b6-8d3d-d564b306ab0c",
+    "artistMbid": "efaefde1-e09b-4d49-9d8e-b1304d2ece8d",
+    "tags": [
+      "progressive metal",
+      "melodic death metal",
+      "death metal",
+      "metal"
+    ]
   }
 }

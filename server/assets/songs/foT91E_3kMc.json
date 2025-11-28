@@ -2,12 +2,29 @@
   "youtubeId": "foT91E_3kMc",
   "title": "Diane",
   "artist": "Therapy?",
-  "lastFetched": "2025-11-27T10:20:26.024Z",
+  "lastFetched": "2025-11-28T12:13:47.725Z",
   "odesli": {
     "amazonMusic": "B000QLAK76",
     "amazonStore": "B000QLAK76",
     "soundcloud": "therapyofficial/diane-1",
     "youtube": "foT91E_3kMc",
     "youtubeMusic": "foT91E_3kMc"
+  },
+  "lastfm": {
+    "summary": "Cover of Hüsker Dü's Diane. <a href=\"http://www.last.fm/music/Therapy%3F/_/Diane\">Read more on Last.fm</a>.",
+    "id": "Therapy%3F/_/Diane",
+    "listeners": 64111,
+    "playcount": 329645,
+    "title": "Diane",
+    "artist": "Therapy?",
+    "mbid": "0756d948-8938-4a2e-847f-652048854961",
+    "artistMbid": "85226286-349a-4046-8dcf-f75b32baa6b1",
+    "tags": [
+      "rock",
+      "alternative",
+      "cover",
+      "90s",
+      "alternative rock"
+    ]
   }
 }

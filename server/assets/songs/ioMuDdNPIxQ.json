@@ -2,7 +2,7 @@
   "youtubeId": "ioMuDdNPIxQ",
   "title": "No Waves",
   "artist": "FIDLAR",
-  "lastFetched": "2025-11-27T10:47:37.559Z",
+  "lastFetched": "2025-11-28T12:14:39.069Z",
   "odesli": {
     "amazonMusic": "B0CPTL389Z",
     "amazonStore": "B0CPTL389Z",
@@ -13,5 +13,14 @@
     "yandex": "44853801",
     "youtube": "ioMuDdNPIxQ",
     "youtubeMusic": "ioMuDdNPIxQ"
+  },
+  "lastfm": {
+    "id": "FIDLAR/_/No+Waves",
+    "listeners": 189891,
+    "playcount": 1559329,
+    "title": "No Waves",
+    "artist": "FIDLAR",
+    "mbid": "0672162f-94d2-46ad-b2ca-7e2eeb493e06",
+    "artistMbid": "6910222b-74c2-48fc-8c13-a6b88cc28fc0"
   }
 }

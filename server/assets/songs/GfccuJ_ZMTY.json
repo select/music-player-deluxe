@@ -2,7 +2,7 @@
   "youtubeId": "GfccuJ_ZMTY",
   "title": "Valley of the Shadows",
   "artist": "Siva Six",
-  "lastFetched": "2025-11-27T10:11:08.862Z",
+  "lastFetched": "2025-11-28T12:13:36.091Z",
   "odesli": {
     "amazonMusic": "B097S1JPMX",
     "amazonStore": "B097S1JPMX",
@@ -12,5 +12,18 @@
     "tidal": "10502108",
     "youtube": "GfccuJ_ZMTY",
     "youtubeMusic": "GfccuJ_ZMTY"
+  },
+  "lastfm": {
+    "id": "Siva+Six/_/Valley+of+the+Shadows",
+    "listeners": 2092,
+    "playcount": 9420,
+    "title": "Valley of the Shadows",
+    "artist": "Siva Six",
+    "mbid": "1edd721b-9f89-38b8-b988-bb834df02587",
+    "artistMbid": "f8428dca-909d-4626-88fb-d4616ef6de2f",
+    "tags": [
+      "dark electro",
+      "harsh ebm"
+    ]
   }
 }

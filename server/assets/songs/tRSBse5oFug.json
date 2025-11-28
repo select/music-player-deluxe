@@ -2,7 +2,7 @@
   "youtubeId": "tRSBse5oFug",
   "title": "Toi et moi",
   "artist": "Tryo",
-  "lastFetched": "2025-11-27T10:35:23.154Z",
+  "lastFetched": "2025-11-28T12:14:06.507Z",
   "odesli": {
     "amazonMusic": "B0828YJVG2",
     "amazonStore": "B0828YJVG2",
@@ -12,5 +12,18 @@
     "yandex": "4345356",
     "youtube": "tRSBse5oFug",
     "youtubeMusic": "tRSBse5oFug"
+  },
+  "lastfm": {
+    "id": "Tryo/_/Toi+et+moi",
+    "listeners": 22277,
+    "playcount": 125228,
+    "title": "Toi et moi",
+    "artist": "Tryo",
+    "mbid": "0d378f87-d2b0-3831-9551-2e2ec0acc2e7",
+    "artistMbid": "c5998351-be49-49d8-8593-3e96f129c1fc",
+    "tags": [
+      "french",
+      "reggae"
+    ]
   }
 }

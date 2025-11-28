@@ -2,7 +2,7 @@
   "youtubeId": "ARHM8EkosP4",
   "title": "Just A Ride",
   "artist": "The Virginmarys",
-  "lastFetched": "2025-11-27T10:31:25.273Z",
+  "lastFetched": "2025-11-28T12:14:00.478Z",
   "odesli": {
     "pandora": "TR:9841468",
     "soundcloud": "thevirginmarysofficial/just-a-ride-3",
@@ -10,5 +10,19 @@
     "tidal": "65096665",
     "youtube": "ARHM8EkosP4",
     "youtubeMusic": "ARHM8EkosP4"
+  },
+  "lastfm": {
+    "id": "The+Virginmarys/_/Just+a+Ride",
+    "listeners": 26748,
+    "playcount": 143916,
+    "title": "Just a Ride",
+    "artist": "The Virginmarys",
+    "mbid": "368282fa-c4a6-3ef4-83b3-e6c401a26797",
+    "artistMbid": "47035a1e-7137-4c92-9a74-88647d021efd",
+    "tags": [
+      "rock",
+      "indie rock",
+      "10s"
+    ]
   }
 }

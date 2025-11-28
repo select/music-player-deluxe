@@ -2,7 +2,7 @@
   "youtubeId": "06ITNnBRveU",
   "title": "Sentimental (2024 Remaster)",
   "artist": "Porcupine Tree",
-  "lastFetched": "2025-11-27T10:12:12.460Z",
+  "lastFetched": "2025-11-28T12:13:38.754Z",
   "odesli": {
     "amazonMusic": "B0DLH8V9HL",
     "amazonStore": "B0DLH8V9HL",
@@ -11,5 +11,19 @@
     "tidal": "396664065",
     "youtube": "06ITNnBRveU",
     "youtubeMusic": "06ITNnBRveU"
+  },
+  "lastfm": {
+    "id": "Porcupine+Tree/_/Sentimental+(2024+Remaster)",
+    "listeners": 226,
+    "playcount": 860,
+    "title": "Sentimental (2024 Remaster)",
+    "artist": "Porcupine Tree",
+    "artistMbid": "169c4c28-858e-497b-81a4-8bc15e0026ea",
+    "tags": [
+      "progressive rock",
+      "progressive metal",
+      "psychedelic",
+      "progressive"
+    ]
   }
 }

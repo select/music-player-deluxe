@@ -2,7 +2,7 @@
   "youtubeId": "FFRWWUn7TSw",
   "title": "Been to the Future",
   "artist": "3",
-  "lastFetched": "2025-11-27T10:41:07.724Z",
+  "lastFetched": "2025-11-28T12:14:27.088Z",
   "odesli": {
     "amazonMusic": "B005E7D0P6",
     "amazonStore": "B005E7D0P6",
@@ -11,5 +11,19 @@
     "tidal": "36761059",
     "youtube": "FFRWWUn7TSw",
     "youtubeMusic": "FFRWWUn7TSw"
+  },
+  "lastfm": {
+    "id": "3/_/Been+To+The+Future",
+    "listeners": 12329,
+    "playcount": 62913,
+    "title": "Been To The Future",
+    "artist": "3",
+    "mbid": "08298efc-67c0-37b7-9c19-c021b90f9f6a",
+    "artistMbid": "3c23d0bd-b361-4456-ad79-ccc5643f3b93",
+    "tags": [
+      "progressive rock",
+      "alternative",
+      "00s"
+    ]
   }
 }

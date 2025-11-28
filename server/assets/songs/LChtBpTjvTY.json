@@ -2,7 +2,7 @@
   "youtubeId": "LChtBpTjvTY",
   "title": "The Hounds",
   "artist": "The Protomen",
-  "lastFetched": "2025-11-27T10:47:50.710Z",
+  "lastFetched": "2025-11-28T12:14:40.870Z",
   "odesli": {
     "amazonMusic": "B002LVT8KE",
     "amazonStore": "B002LVT8KE",
@@ -12,5 +12,18 @@
     "yandex": "20906392",
     "youtube": "LChtBpTjvTY",
     "youtubeMusic": "LChtBpTjvTY"
+  },
+  "lastfm": {
+    "id": "The+Protomen/_/The+Hounds",
+    "listeners": 59980,
+    "playcount": 507109,
+    "title": "The Hounds",
+    "artist": "The Protomen",
+    "mbid": "d6d8f023-0549-4505-acb3-dd809ce9ea18",
+    "artistMbid": "efbbb96f-7c02-4428-802b-e60335fbb118",
+    "tags": [
+      "rock opera",
+      "jazz"
+    ]
   }
 }

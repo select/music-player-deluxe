@@ -2,7 +2,7 @@
   "youtubeId": "bOHxtOLfvIo",
   "title": "Crawling In The Dark",
   "artist": "Hoobastank",
-  "lastFetched": "2025-11-27T10:18:05.734Z",
+  "lastFetched": "2025-11-28T12:13:45.000Z",
   "odesli": {
     "amazonMusic": "B0040Q0ECY",
     "amazonStore": "B0040Q0ECY",
@@ -16,5 +16,22 @@
     "yandex": "787995",
     "youtube": "bOHxtOLfvIo",
     "youtubeMusic": "bOHxtOLfvIo"
+  },
+  "lastfm": {
+    "summary": "\"Crawling in the Dark\" was the first single from Hoobastank's major studio self titled debut, Hoobastank. it was released as a single on April 2, 2002. The song reached #3 on the Modern Rock Tracks chart and #7 on the Mainstream Rock Tracks chart. This song was also featured in a commercial advertising Mountain Dew soda. It was also featured on the video game Karaoke Revolution, and the video game Aggressive Inline. <a href=\"http://www.last.fm/music/Hoobastank/_/Crawling+in+the+Dark\">Read more on Last.fm</a>.",
+    "id": "Hoobastank/_/Crawling+in+the+Dark",
+    "listeners": 605555,
+    "playcount": 3550468,
+    "title": "Crawling in the Dark",
+    "artist": "Hoobastank",
+    "mbid": "a7d61cfa-6327-4118-bc93-c7a245c8dfb0",
+    "artistMbid": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157",
+    "tags": [
+      "rock",
+      "alternative rock",
+      "alternative",
+      "hoobastank",
+      "punk"
+    ]
   }
 }

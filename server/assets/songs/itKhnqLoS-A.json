@@ -2,7 +2,7 @@
   "youtubeId": "itKhnqLoS-A",
   "title": "Domino",
   "artist": "Turbowolf",
-  "lastFetched": "2025-11-27T10:23:14.356Z",
+  "lastFetched": "2025-11-28T12:13:51.144Z",
   "odesli": {
     "amazonMusic": "B0BH1MM81P",
     "amazonStore": "B0BH1MM81P",
@@ -13,5 +13,18 @@
     "tidal": "251633040",
     "youtube": "itKhnqLoS-A",
     "youtubeMusic": "itKhnqLoS-A"
+  },
+  "lastfm": {
+    "id": "Turbowolf/_/Domino",
+    "listeners": 34485,
+    "playcount": 175458,
+    "title": "Domino",
+    "artist": "Turbowolf",
+    "tags": [
+      "hard rock",
+      "stoner rock",
+      "rock",
+      "punk rock"
+    ]
   }
 }

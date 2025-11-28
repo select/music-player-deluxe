@@ -2,7 +2,7 @@
   "youtubeId": "7NSr2kYpAdM",
   "title": "The Orbiter",
   "artist": "Lizzard",
-  "lastFetched": "2025-11-27T10:11:21.464Z",
+  "lastFetched": "2025-11-28T12:13:37.453Z",
   "odesli": {
     "amazonMusic": "B06XFY1SBW",
     "amazonStore": "B06XFY1SBW",
@@ -15,5 +15,20 @@
     "yandex": "5356399",
     "youtube": "7NSr2kYpAdM",
     "youtubeMusic": "7NSr2kYpAdM"
+  },
+  "lastfm": {
+    "id": "Lizzard/_/The+Orbiter",
+    "listeners": 1320,
+    "playcount": 5915,
+    "title": "The Orbiter",
+    "artist": "Lizzard",
+    "mbid": "588ebdf0-b099-44ee-a977-648515e884e4",
+    "artistMbid": "ac2b7da1-8cd9-4a10-b752-d656aca8edc4",
+    "tags": [
+      "rock",
+      "alternative",
+      "alternative rock",
+      "dat riff"
+    ]
   }
 }

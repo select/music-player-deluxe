@@ -2,7 +2,7 @@
   "youtubeId": "dDPWTFhI8Xg",
   "title": "Te Doy una Canción",
   "artist": "Miryam Quiñones",
-  "lastFetched": "2025-11-27T10:46:49.743Z",
+  "lastFetched": "2025-11-28T12:14:37.443Z",
   "odesli": {
     "amazonMusic": "B09B4DV18B",
     "amazonStore": "B09B4DV18B",
@@ -11,5 +11,16 @@
     "tidal": "192054634",
     "youtube": "dDPWTFhI8Xg",
     "youtubeMusic": "dDPWTFhI8Xg"
+  },
+  "lastfm": {
+    "id": "Miryam+Qui%C3%B1ones/_/Te+doy+una+canci%C3%B3n",
+    "listeners": 38,
+    "playcount": 141,
+    "title": "Te doy una canción",
+    "artist": "Miryam Quiñones",
+    "artistMbid": "7b07248a-264d-4aec-b1cc-ccbf2410b586",
+    "tags": [
+      "trova"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "6y_NJg-xoeE",
   "title": "New Game",
   "artist": "Nitro Fun",
-  "lastFetched": "2025-11-27T10:21:44.768Z",
+  "lastFetched": "2025-11-28T12:13:49.095Z",
   "odesli": {
     "amazonMusic": "B092RDQ6BK",
     "amazonStore": "B092RDQ6BK",
@@ -15,5 +15,20 @@
     "yandex": "21565267",
     "youtube": "6y_NJg-xoeE",
     "youtubeMusic": "6y_NJg-xoeE"
+  },
+  "lastfm": {
+    "id": "Nitro+Fun/_/New+Game",
+    "listeners": 47297,
+    "playcount": 342086,
+    "title": "New Game",
+    "artist": "Nitro Fun",
+    "mbid": "d4fd98d1-f4e4-4897-b1ba-8ea1e879942a",
+    "artistMbid": "0595a4ae-356d-46eb-bb12-a5596d94281e",
+    "tags": [
+      "complextro",
+      "electro house",
+      "electronic",
+      "house"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "G5G63KlISj0",
   "title": "Belt Loops",
   "artist": "The Films",
-  "lastFetched": "2025-11-27T10:16:42.410Z",
+  "lastFetched": "2025-11-28T12:13:43.682Z",
   "odesli": {
     "amazonMusic": "B00122A0JG",
     "amazonStore": "B00122A0JG",
@@ -14,5 +14,17 @@
     "tidal": "707047",
     "youtube": "G5G63KlISj0",
     "youtubeMusic": "G5G63KlISj0"
+  },
+  "lastfm": {
+    "id": "The+Films/_/Belt+Loops",
+    "listeners": 29709,
+    "playcount": 195963,
+    "title": "Belt Loops",
+    "artist": "The Films",
+    "tags": [
+      "indie rock",
+      "indie",
+      "alternative"
+    ]
   }
 }

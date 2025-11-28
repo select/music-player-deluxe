@@ -2,7 +2,7 @@
   "youtubeId": "NrqCKvvU5MM",
   "title": "When I Was a Yout",
   "artist": "Ed Solo",
-  "lastFetched": "2025-11-27T10:29:17.069Z",
+  "lastFetched": "2025-11-28T12:13:56.570Z",
   "odesli": {
     "amazonMusic": "B0BT5YPKCZ",
     "amazonStore": "B0BT5YPKCZ",
@@ -11,5 +11,18 @@
     "tidal": "263224155",
     "youtube": "NrqCKvvU5MM",
     "youtubeMusic": "NrqCKvvU5MM"
+  },
+  "lastfm": {
+    "id": "Ed+Solo/_/When+I+Was+A+Yout",
+    "listeners": 4790,
+    "playcount": 18731,
+    "title": "When I Was A Yout",
+    "artist": "Ed Solo",
+    "artistMbid": "e57f7e8b-4daa-433b-9071-5e0c83856ad1",
+    "tags": [
+      "dubstep",
+      "breaks",
+      "breakbeat"
+    ]
   }
 }

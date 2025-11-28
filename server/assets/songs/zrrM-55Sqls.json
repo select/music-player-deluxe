@@ -2,7 +2,7 @@
   "youtubeId": "zrrM-55Sqls",
   "title": "Symphony of Pain",
   "artist": "Mono Inc.",
-  "lastFetched": "2025-11-27T10:10:15.436Z",
+  "lastFetched": "2025-11-28T12:13:32.711Z",
   "odesli": {
     "amazonMusic": "B079X28RF9",
     "amazonStore": "B079X28RF9",
@@ -12,5 +12,18 @@
     "tidal": "84772095",
     "youtube": "zrrM-55Sqls",
     "youtubeMusic": "zrrM-55Sqls"
+  },
+  "lastfm": {
+    "id": "Mono+Inc./_/Symphony+Of+Pain",
+    "listeners": 8866,
+    "playcount": 57624,
+    "title": "Symphony Of Pain",
+    "artist": "Mono Inc.",
+    "mbid": "20b5ba62-fb18-4f50-937d-2e27c3ac0c4c",
+    "tags": [
+      "gothic rock",
+      "gothic",
+      "mono inc"
+    ]
   }
 }

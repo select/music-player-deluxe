@@ -2,11 +2,18 @@
   "youtubeId": "53ZNYXeP7dU",
   "title": "Everyday",
   "artist": "Wolf Hartmayer",
-  "lastFetched": "2025-11-27T10:42:25.240Z",
+  "lastFetched": "2025-11-28T12:14:31.904Z",
   "odesli": {
     "amazonMusic": "B006XDNORO",
     "amazonStore": "B006XDNORO",
     "youtube": "53ZNYXeP7dU",
     "youtubeMusic": "53ZNYXeP7dU"
+  },
+  "lastfm": {
+    "id": "Wolf+Hartmayer/_/Everyday",
+    "listeners": 52,
+    "playcount": 263,
+    "title": "Everyday",
+    "artist": "Wolf Hartmayer"
   }
 }

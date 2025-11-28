@@ -2,7 +2,7 @@
   "youtubeId": "vZgdrwZvHPs",
   "title": "Babylon Breaks",
   "artist": "Ed Solo",
-  "lastFetched": "2025-11-27T10:29:30.274Z",
+  "lastFetched": "2025-11-28T12:13:57.958Z",
   "odesli": {
     "amazonMusic": "B0BN4MJQLQ",
     "amazonStore": "B0BN4MJQLQ",
@@ -10,5 +10,19 @@
     "tidal": "263224146",
     "youtube": "vZgdrwZvHPs",
     "youtubeMusic": "vZgdrwZvHPs"
+  },
+  "lastfm": {
+    "id": "Ed+Solo/_/Babylon+Breaks",
+    "listeners": 2244,
+    "playcount": 7359,
+    "title": "Babylon Breaks",
+    "artist": "Ed Solo",
+    "artistMbid": "e57f7e8b-4daa-433b-9071-5e0c83856ad1",
+    "tags": [
+      "dubstep",
+      "electronic",
+      "drum and bass",
+      "spotify mistag"
+    ]
   }
 }

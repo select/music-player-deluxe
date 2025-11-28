@@ -2,7 +2,7 @@
   "youtubeId": "FrreDSNmT04",
   "title": "One Man Wrecking Machine",
   "artist": "Guster",
-  "lastFetched": "2025-11-27T10:26:12.335Z",
+  "lastFetched": "2025-11-28T12:13:54.984Z",
   "odesli": {
     "amazonMusic": "B09KJNVGJS",
     "amazonStore": "B09KJNVGJS",
@@ -15,5 +15,21 @@
     "yandex": "373641",
     "youtube": "FrreDSNmT04",
     "youtubeMusic": "FrreDSNmT04"
+  },
+  "lastfm": {
+    "id": "Guster/_/One+Man+Wrecking+Machine",
+    "listeners": 142879,
+    "playcount": 713557,
+    "title": "One Man Wrecking Machine",
+    "artist": "Guster",
+    "mbid": "802cdbaa-4e66-4289-a96a-7527d0542b12",
+    "artistMbid": "6cbe1e63-5895-4168-ac7e-f0d2836ba0c1",
+    "tags": [
+      "indie",
+      "alternative rock",
+      "rock",
+      "indie rock",
+      "alternative"
+    ]
   }
 }

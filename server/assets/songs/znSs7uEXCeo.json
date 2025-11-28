@@ -2,7 +2,7 @@
   "youtubeId": "znSs7uEXCeo",
   "title": "Désolé pour hier soir",
   "artist": "Tryo",
-  "lastFetched": "2025-11-27T10:39:34.015Z",
+  "lastFetched": "2025-11-28T12:14:18.447Z",
   "odesli": {
     "amazonMusic": "B08NWR59LG",
     "amazonStore": "B08NWR59LG",
@@ -16,5 +16,18 @@
     "yandex": "690572",
     "youtube": "znSs7uEXCeo",
     "youtubeMusic": "znSs7uEXCeo"
+  },
+  "lastfm": {
+    "id": "Tryo/_/D%C3%A9sol%C3%A9+pour+hier+soir",
+    "listeners": 44199,
+    "playcount": 211181,
+    "title": "Désolé pour hier soir",
+    "artist": "Tryo",
+    "mbid": "c8ae6fff-7dc6-480a-9b02-109efd2e992f",
+    "artistMbid": "c5998351-be49-49d8-8593-3e96f129c1fc",
+    "tags": [
+      "reggae",
+      "french"
+    ]
   }
 }

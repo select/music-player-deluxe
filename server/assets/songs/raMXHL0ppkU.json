@@ -2,12 +2,27 @@
   "youtubeId": "raMXHL0ppkU",
   "title": "Miserable",
   "artist": "Lit",
-  "lastFetched": "2025-11-27T10:19:35.873Z",
+  "lastFetched": "2025-11-28T12:13:46.476Z",
   "odesli": {
     "amazonMusic": "B004LETEC6",
     "amazonStore": "B004LETEC6",
     "yandex": "647432",
     "youtube": "raMXHL0ppkU",
     "youtubeMusic": "raMXHL0ppkU"
+  },
+  "lastfm": {
+    "id": "Lit/_/Miserable",
+    "listeners": 162378,
+    "playcount": 728947,
+    "title": "Miserable",
+    "artist": "Lit",
+    "mbid": "d3480291-2281-3331-a218-0047314ab7b1",
+    "artistMbid": "5ccb9a53-092d-4806-b337-470a582893d7",
+    "tags": [
+      "rock",
+      "90s",
+      "alternative rock",
+      "alternative"
+    ]
   }
 }

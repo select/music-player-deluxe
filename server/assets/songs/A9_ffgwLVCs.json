@@ -23,6 +23,13 @@
     "title": "Wild Wood",
     "artist": "Paul Weller",
     "mbid": "a3d68360-db50-487a-b7e9-7ea32a70222c",
-    "artistMbid": "c4406045-e640-4cfe-8b88-4732cce314d4"
+    "artistMbid": "c4406045-e640-4cfe-8b88-4732cce314d4",
+    "tags": [
+      "rock",
+      "acoustic",
+      "britpop",
+      "pop",
+      "singer-songwriter"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "mpx4ODP35VQ",
   "title": "Look at Your Game Girl",
   "artist": "Charles Manson",
-  "lastFetched": "2025-11-27T10:49:09.725Z",
+  "lastFetched": "2025-11-28T12:14:45.012Z",
   "odesli": {
     "amazonMusic": "B00JVU525S",
     "amazonStore": "B00JVU525S",
@@ -12,5 +12,19 @@
     "tidal": "29144709",
     "youtube": "mpx4ODP35VQ",
     "youtubeMusic": "mpx4ODP35VQ"
+  },
+  "lastfm": {
+    "id": "Charles+Manson/_/Look+at+Your+Game+Girl",
+    "listeners": 38112,
+    "playcount": 235865,
+    "title": "Look at Your Game Girl",
+    "artist": "Charles Manson",
+    "mbid": "c25ee758-ffe1-49c8-b046-179b1fb0edc3",
+    "artistMbid": "db3d7002-d9e8-4803-82c4-d85dad3f29bb",
+    "tags": [
+      "folk",
+      "acoustic",
+      "singer-songwriter"
+    ]
   }
 }

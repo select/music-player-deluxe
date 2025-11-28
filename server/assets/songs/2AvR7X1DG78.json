@@ -2,7 +2,7 @@
   "youtubeId": "2AvR7X1DG78",
   "title": "Happiness Is…",
   "artist": "Yungchen Lhamo",
-  "lastFetched": "2025-11-27T10:40:28.401Z",
+  "lastFetched": "2025-11-28T12:14:25.785Z",
   "odesli": {
     "amazonMusic": "B073R978FH",
     "amazonStore": "B073R978FH",
@@ -12,5 +12,19 @@
     "spotify": "7DIRZYS9tqwNNt0CGWJbUT",
     "youtube": "2AvR7X1DG78",
     "youtubeMusic": "2AvR7X1DG78"
+  },
+  "lastfm": {
+    "id": "Yungchen+Lhamo/_/Happiness+is%E2%80%A6",
+    "listeners": 2736,
+    "playcount": 8182,
+    "title": "Happiness is…",
+    "artist": "Yungchen Lhamo",
+    "tags": [
+      "folk",
+      "acoustic",
+      "ethnic",
+      "world music",
+      "songs about happiness"
+    ]
   }
 }

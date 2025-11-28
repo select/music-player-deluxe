@@ -2,7 +2,7 @@
   "youtubeId": "oOPBnbNxLDM",
   "title": "La chasse aux papillons",
   "artist": "Georges Brassens",
-  "lastFetched": "2025-11-27T10:42:50.642Z",
+  "lastFetched": "2025-11-28T12:14:34.957Z",
   "odesli": {
     "amazonMusic": "B09DS5BSSD",
     "amazonStore": "B09DS5BSSD",
@@ -12,5 +12,19 @@
     "tidal": "195406520",
     "youtube": "oOPBnbNxLDM",
     "youtubeMusic": "oOPBnbNxLDM"
+  },
+  "lastfm": {
+    "id": "Georges+Brassens/_/La+chasse+aux+papillons",
+    "listeners": 28356,
+    "playcount": 85262,
+    "title": "La chasse aux papillons",
+    "artist": "Georges Brassens",
+    "mbid": "95e3a790-dedd-42b6-80c0-f31cbc5756f4",
+    "artistMbid": "b58165ba-ac55-49a1-8855-caf16c68f5f2",
+    "tags": [
+      "french",
+      "chanson",
+      "georges brassens"
+    ]
   }
 }

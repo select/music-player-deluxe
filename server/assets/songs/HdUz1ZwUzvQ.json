@@ -2,7 +2,7 @@
   "youtubeId": "HdUz1ZwUzvQ",
   "title": "Dann schlägt dein Herz",
   "artist": "Olli Schulz",
-  "lastFetched": "2025-11-27T10:48:05.924Z",
+  "lastFetched": "2025-11-28T12:14:42.243Z",
   "odesli": {
     "amazonMusic": "B002BCVGGC",
     "amazonStore": "B002BCVGGC",
@@ -11,5 +11,20 @@
     "tidal": "89083062",
     "youtube": "HdUz1ZwUzvQ",
     "youtubeMusic": "HdUz1ZwUzvQ"
+  },
+  "lastfm": {
+    "id": "Olli+Schulz/_/Dann+schl%C3%A4gt+Dein+Herz",
+    "listeners": 21894,
+    "playcount": 124096,
+    "title": "Dann schlägt Dein Herz",
+    "artist": "Olli Schulz",
+    "artistMbid": "e7f653ba-8cb5-41d9-aaac-f917996fd67d",
+    "tags": [
+      "singer-songwriter",
+      "indie",
+      "german",
+      "deutsch",
+      "hamburg"
+    ]
   }
 }

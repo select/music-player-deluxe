@@ -2,7 +2,7 @@
   "youtubeId": "juxHbL_yqZk",
   "title": "The Future Is Now",
   "artist": "The Offspring",
-  "lastFetched": "2025-11-27T10:25:02.397Z",
+  "lastFetched": "2025-11-28T12:13:53.666Z",
   "odesli": {
     "amazonMusic": "B01MXS3430",
     "amazonStore": "B01MXS3430",
@@ -11,5 +11,21 @@
     "tidal": "67367309",
     "youtube": "juxHbL_yqZk",
     "youtubeMusic": "juxHbL_yqZk"
+  },
+  "lastfm": {
+    "summary": "According to The Future Is Now Songfacts, the song sees Dexter Holland singing of the dangers of technology. He explained to Spinner: \"You see people on their cell phones constantly. Everybody is in the same room but no one is looking at each other or speaking.\" <a href=\"http://www.last.fm/music/The+Offspring/_/The+Future+Is+Now\">Read more on Last.fm</a>.",
+    "id": "The+Offspring/_/The+Future+Is+Now",
+    "listeners": 148750,
+    "playcount": 953416,
+    "title": "The Future Is Now",
+    "artist": "The Offspring",
+    "mbid": "06673c24-e9b6-3fa4-97a2-5b840a69f17f",
+    "artistMbid": "23a03e33-a603-404e-bcbf-2c00159d7067",
+    "tags": [
+      "punk",
+      "punk rock",
+      "rock",
+      "skate punk"
+    ]
   }
 }

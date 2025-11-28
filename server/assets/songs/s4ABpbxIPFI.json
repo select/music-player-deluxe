@@ -2,7 +2,7 @@
   "youtubeId": "s4ABpbxIPFI",
   "title": "Electric Worry",
   "artist": "Clutch",
-  "lastFetched": "2025-11-27T10:16:03.879Z",
+  "lastFetched": "2025-11-28T12:13:41.677Z",
   "odesli": {
     "amazonMusic": "B00LS9MUMI",
     "amazonStore": "B00LS9MUMI",
@@ -13,5 +13,18 @@
     "yandex": "5897454",
     "youtube": "s4ABpbxIPFI",
     "youtubeMusic": "s4ABpbxIPFI"
+  },
+  "lastfm": {
+    "id": "Clutch/_/Electric+Worry",
+    "listeners": 150267,
+    "playcount": 1085518,
+    "title": "Electric Worry",
+    "artist": "Clutch",
+    "mbid": "3638fdc2-8285-4731-bdb7-22b061439cc3",
+    "artistMbid": "0cdb0359-5698-487d-9aae-a25fb4dcdc4d",
+    "tags": [
+      "alt metal",
+      "stoner rock"
+    ]
   }
 }

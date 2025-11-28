@@ -2,7 +2,7 @@
   "youtubeId": "UAWcs5H-qgQ",
   "title": "The A Team",
   "artist": "Ed Sheeran",
-  "lastFetched": "2025-11-27T10:43:19.513Z",
+  "lastFetched": "2025-11-28T12:14:36.155Z",
   "odesli": {
     "amazonMusic": "B0086HGWG0",
     "amazonStore": "B0086HGWG0",
@@ -20,5 +20,22 @@
     "yandex": "2223853",
     "youtube": "UAWcs5H-qgQ",
     "youtubeMusic": "UAWcs5H-qgQ"
+  },
+  "lastfm": {
+    "summary": "\"The A Team\" is the debut solo single by English singer-songwriter Ed Sheeran. It was released as a digital download in the United Kingdom on June 10, 2011, serving as the lead single from his debut album, +. \"The A Team\" is a folk ballad about a sex worker addicted to crack cocaine, a Class A drug. It was written after Sheeran visited a homeless shelter and heard some of the stories of the lives people had been living. He wrote the song following a last-minute performance at an event for the homeless. <a href=\"http://www.last.fm/music/Ed+Sheeran/_/The+A+Team\">Read more on Last.fm</a>.",
+    "id": "Ed+Sheeran/_/The+A+Team",
+    "listeners": 1111785,
+    "playcount": 10148458,
+    "tags": [
+      "acoustic",
+      "british",
+      "pop",
+      "sad",
+      "chillout"
+    ],
+    "title": "The A Team",
+    "artist": "Ed Sheeran",
+    "mbid": "1835aad5-98e7-4de2-82a4-c8c95b1c0b69",
+    "artistMbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
   }
 }

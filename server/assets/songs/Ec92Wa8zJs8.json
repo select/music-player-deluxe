@@ -2,7 +2,7 @@
   "youtubeId": "Ec92Wa8zJs8",
   "title": "Find Me",
   "artist": "Sigma",
-  "lastFetched": "2025-11-27T10:30:10.284Z",
+  "lastFetched": "2025-11-28T12:13:59.234Z",
   "odesli": {
     "amazonMusic": "B01MQ1YIL7",
     "amazonStore": "B01MQ1YIL7",
@@ -14,5 +14,19 @@
     "tidal": "66543031",
     "youtube": "Ec92Wa8zJs8",
     "youtubeMusic": "Ec92Wa8zJs8"
+  },
+  "lastfm": {
+    "id": "Sigma/_/Find+Me",
+    "listeners": 61744,
+    "playcount": 407791,
+    "title": "Find Me",
+    "artist": "Sigma",
+    "artistMbid": "89ec6f82-1ad7-42d5-983e-ebf90f6868c8",
+    "tags": [
+      "drumandbass",
+      "dance",
+      "featuring",
+      "2016 single"
+    ]
   }
 }

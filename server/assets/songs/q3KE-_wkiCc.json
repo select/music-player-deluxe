@@ -2,7 +2,7 @@
   "youtubeId": "q3KE-_wkiCc",
   "title": "New Romantic",
   "artist": "Andy Stott",
-  "lastFetched": "2025-11-27T10:10:43.370Z",
+  "lastFetched": "2025-11-28T12:13:34.837Z",
   "odesli": {
     "amazonMusic": "B01ENCAQDG",
     "amazonStore": "B01ENCAQDG",
@@ -13,5 +13,18 @@
     "tidal": "70320991",
     "youtube": "q3KE-_wkiCc",
     "youtubeMusic": "q3KE-_wkiCc"
+  },
+  "lastfm": {
+    "id": "Andy+Stott/_/New+Romantic",
+    "listeners": 74493,
+    "playcount": 446141,
+    "title": "New Romantic",
+    "artist": "Andy Stott",
+    "tags": [
+      "electronic",
+      "female vocalist",
+      "uk bass",
+      "electronica"
+    ]
   }
 }

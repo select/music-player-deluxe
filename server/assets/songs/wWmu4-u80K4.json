@@ -2,7 +2,7 @@
   "youtubeId": "wWmu4-u80K4",
   "title": "I Don't Care",
   "artist": "The Roots",
-  "lastFetched": "2025-11-27T10:24:31.686Z",
+  "lastFetched": "2025-11-28T12:13:52.401Z",
   "odesli": {
     "amazonMusic": "B001NZIMMY",
     "amazonStore": "B001NZIMMY",
@@ -12,5 +12,14 @@
     "tidal": "36297938",
     "youtube": "wWmu4-u80K4",
     "youtubeMusic": "wWmu4-u80K4"
+  },
+  "lastfm": {
+    "id": "The+Roots/_/I+Don%27t+Care",
+    "listeners": 86810,
+    "playcount": 314222,
+    "title": "I Don't Care",
+    "artist": "The Roots",
+    "mbid": "cd9782ac-9e81-4d2a-b7e4-bd805076254c",
+    "artistMbid": "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
   }
 }

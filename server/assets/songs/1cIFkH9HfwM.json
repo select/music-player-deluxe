@@ -2,7 +2,7 @@
   "youtubeId": "1cIFkH9HfwM",
   "title": "Confrontation",
   "artist": "Speed Machine",
-  "lastFetched": "2025-11-27T10:48:44.635Z",
+  "lastFetched": "2025-11-28T12:14:43.691Z",
   "odesli": {
     "amazonMusic": "B0DCVYMWNR",
     "amazonStore": "B0DCVYMWNR",
@@ -11,5 +11,17 @@
     "tidal": "348251166",
     "youtube": "1cIFkH9HfwM",
     "youtubeMusic": "1cIFkH9HfwM"
+  },
+  "lastfm": {
+    "id": "Speed+Machine/_/Confrontation",
+    "listeners": 2982,
+    "playcount": 12719,
+    "title": "Confrontation",
+    "artist": "Speed Machine",
+    "artistMbid": "aa09954b-67cc-4403-a4a5-3bb8bb4a9d6c",
+    "tags": [
+      "synthwave",
+      "retrowave"
+    ]
   }
 }

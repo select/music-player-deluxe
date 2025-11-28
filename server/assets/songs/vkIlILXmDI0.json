@@ -2,7 +2,7 @@
   "youtubeId": "vkIlILXmDI0",
   "title": "Es ist Weihnachtstag",
   "artist": "Reinhard Mey",
-  "lastFetched": "2025-11-27T10:36:01.887Z",
+  "lastFetched": "2025-11-28T12:14:07.958Z",
   "odesli": {
     "amazonMusic": "B002O25ZLQ",
     "amazonStore": "B002O25ZLQ",
@@ -11,5 +11,21 @@
     "tidal": "2616459",
     "youtube": "vkIlILXmDI0",
     "youtubeMusic": "vkIlILXmDI0"
+  },
+  "lastfm": {
+    "id": "Reinhard+Mey/_/Es+Ist+Weihnachtstag",
+    "listeners": 1334,
+    "playcount": 3661,
+    "title": "Es Ist Weihnachtstag",
+    "artist": "Reinhard Mey",
+    "mbid": "0a4c9447-651d-49ac-80d5-f3cf620c3979",
+    "artistMbid": "3531715d-fee3-4c5b-82ff-5d85865b598b",
+    "tags": [
+      "chanson",
+      "holiday",
+      "seasonal",
+      "christmas",
+      "reinhard mey"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "abGe6uM9Ias",
   "title": "Wonderful Life",
   "artist": "Katie Melua",
-  "lastFetched": "2025-11-27T10:50:02.453Z",
+  "lastFetched": "2025-11-28T12:14:46.442Z",
   "odesli": {
     "amazonMusic": "B0DZWS61P1",
     "amazonStore": "B0DZWS61P1",
@@ -20,5 +20,18 @@
     "yandex": "24893894",
     "youtube": "abGe6uM9Ias",
     "youtubeMusic": "abGe6uM9Ias"
+  },
+  "lastfm": {
+    "id": "Katie+Melua/_/Wonderful+Life",
+    "listeners": 121820,
+    "playcount": 709029,
+    "title": "Wonderful Life",
+    "artist": "Katie Melua",
+    "mbid": "476d98ab-5375-4ec2-8cfe-1450e13711f4",
+    "artistMbid": "39e32995-6515-40b2-a6f0-841524047edc",
+    "tags": [
+      "cover",
+      "covers"
+    ]
   }
 }

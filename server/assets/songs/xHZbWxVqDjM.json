@@ -2,7 +2,7 @@
   "youtubeId": "xHZbWxVqDjM",
   "title": "Dear Catastrophe Waitress",
   "artist": "Belle And Sebastian",
-  "lastFetched": "2025-11-27T10:40:16.012Z",
+  "lastFetched": "2025-11-28T12:14:22.965Z",
   "odesli": {
     "amazonMusic": "B01LX8H78T",
     "amazonStore": "B01LX8H78T",
@@ -12,5 +12,18 @@
     "tidal": "58912031",
     "youtube": "xHZbWxVqDjM",
     "youtubeMusic": "xHZbWxVqDjM"
+  },
+  "lastfm": {
+    "id": "Belle+and+Sebastian/_/Dear+Catastrophe+Waitress",
+    "listeners": 148116,
+    "playcount": 788114,
+    "title": "Dear Catastrophe Waitress",
+    "artist": "Belle and Sebastian",
+    "tags": [
+      "indie",
+      "indie pop",
+      "twee",
+      "belle and sebastian"
+    ]
   }
 }
