@@ -1,9 +1,24 @@
 {
   "youtubeId": "73Bpyta8vOs",
   "title": "Pink Floyd at Pompeii – MCMLXXII - Echoes - Part 1 - Edit",
-  "lastFetched": "2025-11-23T22:32:17.002Z",
+  "lastFetched": "2025-11-26T11:02:38.909Z",
   "ai": {
     "title": "Echoes - Part 1",
     "artist": "Pink Floyd"
+  },
+  "lastfm": {
+    "id": "Pink+Floyd/_/Echoes+-+Part+1",
+    "listeners": 2439,
+    "playcount": 6030,
+    "title": "Echoes - Part 1",
+    "artist": "Pink Floyd",
+    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
+    "tags": [
+      "progressive rock",
+      "psychedelic rock",
+      "classic rock",
+      "rock",
+      "psychedelic"
+    ]
   }
 }

@@ -1,9 +1,24 @@
 {
   "youtubeId": "62c1jdaldBQ",
   "title": "PA69 - Biertornado",
-  "lastFetched": "2025-11-23T22:34:09.698Z",
+  "lastFetched": "2025-11-26T11:02:24.788Z",
   "ai": {
     "title": "Biertornado",
     "artist": "PA69"
+  },
+  "lastfm": {
+    "id": "PA69/_/Biertornado",
+    "listeners": 11635,
+    "playcount": 84802,
+    "title": "Biertornado",
+    "artist": "PA69",
+    "artistMbid": "4f20dff6-58ce-430d-9b52-c9a0c8290dd2",
+    "tags": [
+      "rap",
+      "german",
+      "hip-hop",
+      "germany",
+      "deutschrap"
+    ]
   }
 }

@@ -2,5 +2,9 @@
   "youtubeId": "Mqmfcas8HCk",
   "title": "From the Movie",
   "artist": "BMX Bandits",
-  "lastFetched": "2025-11-17T02:56:47.789Z"
+  "lastFetched": "2025-11-17T02:56:47.789Z",
+  "ai": {
+    "title": "From the Movie",
+    "artist": "BMX Bandits"
+  }
 }

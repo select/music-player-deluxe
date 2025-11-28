@@ -1,9 +1,24 @@
 {
   "youtubeId": "9gROYU2j-40",
   "title": "Devendra Banhart - Baby (Video)",
-  "lastFetched": "2025-11-23T22:33:22.650Z",
+  "lastFetched": "2025-11-26T11:02:31.235Z",
   "ai": {
     "title": "Baby",
     "artist": "Devendra Banhart"
+  },
+  "lastfm": {
+    "id": "Devendra+Banhart/_/Baby",
+    "listeners": 255026,
+    "playcount": 1427150,
+    "title": "Baby",
+    "artist": "Devendra Banhart",
+    "mbid": "09b97bce-c075-430c-ac9f-68a481ea1d88",
+    "artistMbid": "0110e63e-0a9b-4818-af8e-41e180c20b9a",
+    "tags": [
+      "folk",
+      "love",
+      "indie",
+      "singer-songwriter"
+    ]
   }
 }

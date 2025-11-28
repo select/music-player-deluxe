@@ -1,9 +1,21 @@
 {
   "youtubeId": "9El5t5mGEgw",
   "title": "Cli-n-tel - 2030",
-  "lastFetched": "2025-11-23T22:33:38.872Z",
+  "lastFetched": "2025-11-26T11:02:28.661Z",
   "ai": {
     "title": "2030",
     "artist": "Cli-n-tel"
+  },
+  "lastfm": {
+    "id": "Cli-N-Tel/_/2030",
+    "listeners": 354,
+    "playcount": 839,
+    "title": "2030",
+    "artist": "Cli-N-Tel",
+    "mbid": "2148bd89-7c21-3c3c-abd1-0128ee54c8b7",
+    "artistMbid": "43b0ba65-aaeb-41e0-9c09-0ae99678b791",
+    "tags": [
+      "electro"
+    ]
   }
 }

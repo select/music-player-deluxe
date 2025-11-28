@@ -1,0 +1,31 @@
+{
+  "youtubeId": "XivpeO_ZUys",
+  "title": "Video Disco",
+  "artist": "Alpharisc",
+  "lastFetched": "2025-11-26T10:57:56.815Z",
+  "odesli": {
+    "amazonMusic": "B09MNRLKWB",
+    "amazonStore": "B09MNRLKWB",
+    "pandora": "TR:52160075",
+    "soundcloud": "alpharisc/video-disco",
+    "tidal": "206906094",
+    "youtube": "XivpeO_ZUys",
+    "youtubeMusic": "XivpeO_ZUys"
+  },
+  "ai": {
+    "title": "Video Disco",
+    "artist": "Alpharisc"
+  },
+  "lastfm": {
+    "id": "Alpharisc/_/Video+Disco",
+    "listeners": 170,
+    "playcount": 919,
+    "title": "Video Disco",
+    "artist": "Alpharisc",
+    "mbid": "236296ad-235c-442d-8dd1-46880289b249",
+    "artistMbid": "87301afd-4ed1-497d-9506-0752910b5df1",
+    "tags": [
+      "synthwave"
+    ]
+  }
+}

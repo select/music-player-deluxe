@@ -1,9 +1,23 @@
 {
   "youtubeId": "mZlTK7mTpPs",
   "title": "Lauryn Hill - I Find It Hard To Say (Rebel) (Unplugged)",
-  "lastFetched": "2025-11-23T22:30:57.774Z",
+  "lastFetched": "2025-11-26T11:02:47.017Z",
   "ai": {
     "title": "I Find It Hard To Say (Rebel) (Unplugged)",
     "artist": "Lauryn Hill"
+  },
+  "lastfm": {
+    "id": "Lauryn+Hill/_/I+find+it+hard+to+say+(rebel)+(unplugged)",
+    "listeners": 151,
+    "playcount": 430,
+    "title": "I find it hard to say (rebel) (unplugged)",
+    "artist": "Lauryn Hill",
+    "tags": [
+      "soul",
+      "hip-hop",
+      "rnb",
+      "female vocalists",
+      "hip hop"
+    ]
   }
 }

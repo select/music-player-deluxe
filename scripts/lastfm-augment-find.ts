@@ -13,6 +13,7 @@ const PLAYLIST_FILE = path.join(
 	"../public/playlist/PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx.json",
 );
 const FAIL_FILE = path.join(__dirname, "../data/lastfm-fail.json");
+const SONGS_DIR = path.join(__dirname, "../server/assets/songs");
 const API_URL = "http://localhost:3000/api/metadata/lastfm";
 const RATE_LIMIT_MS = 1000; // 30 seconds between requests (Last.fm is more lenient)
 
@@ -24,6 +25,16 @@ interface ApiResult {
 	success: boolean;
 	data?: SongMetaData;
 	error?: string;
+}
+
+interface SongMetadataFile {
+	youtubeId: string;
+	title?: string;
+	artist?: string;
+	ai?: {
+		title: string;
+		artist: string;
+	};
 }
 
 // Load playlist data
@@ -60,6 +71,24 @@ function saveFailFile(failData: FailData): void {
 		fs.writeFileSync(FAIL_FILE, JSON.stringify(failData, null, 2));
 	} catch (error) {
 		console.error("Error saving fail file:", (error as Error).message);
+	}
+}
+
+// Load song metadata file
+function loadSongMetadata(youtubeId: string): SongMetadataFile | null {
+	const songFilePath = path.join(SONGS_DIR, `${youtubeId}.json`);
+	try {
+		if (fs.existsSync(songFilePath)) {
+			const data = fs.readFileSync(songFilePath, "utf8");
+			return JSON.parse(data) as SongMetadataFile;
+		}
+		return null;
+	} catch (error) {
+		console.warn(
+			`Error loading song metadata for ${youtubeId}:`,
+			(error as Error).message,
+		);
+		return null;
 	}
 }
 
@@ -121,7 +150,18 @@ async function main(): Promise<void> {
 		}
 
 		// Check if video has required fields for processing
-		return video.artist && video.musicTitle;
+		// First try from playlist entry
+		if (video.artist && video.musicTitle) {
+			return true;
+		}
+
+		// If no musicTitle in playlist entry, check for song metadata file with AI data
+		const songMetadata = loadSongMetadata(video.id);
+		if (songMetadata?.ai?.title && songMetadata?.ai?.artist) {
+			return true;
+		}
+
+		return false;
 	});
 
 	console.log(`Found ${videosToProcess.length} videos to process`);
@@ -142,15 +182,35 @@ async function main(): Promise<void> {
 		);
 
 		console.log(`Title: ${video.title}`);
+
+		// Determine artist and title to use
+		let artist: string;
+		let musicTitle: string;
+		let source: string;
+
+		if (video.artist && video.musicTitle) {
+			// Use playlist metadata
+			artist = video.artist;
+			musicTitle = video.musicTitle;
+			source = "playlist";
+		} else {
+			// Use AI metadata from song file
+			const songMetadata = loadSongMetadata(video.id);
+			if (songMetadata?.ai?.title && songMetadata?.ai?.artist) {
+				artist = songMetadata.ai.artist;
+				musicTitle = songMetadata.ai.title;
+				source = "AI metadata";
+			} else {
+				console.log("❌ No valid metadata found, skipping");
+				continue;
+			}
+		}
+
 		console.log(
-			`Extracted - Artist: ${video.artist}, Title: ${video.musicTitle}`,
+			`Extracted (${source}) - Artist: ${artist}, Title: ${musicTitle}`,
 		);
 
-		const result = await callLastFmAugment(
-			video.id,
-			video.artist!,
-			video.musicTitle!,
-		);
+		const result = await callLastFmAugment(video.id, artist, musicTitle);
 
 		if (result.success && result.data) {
 			successCount++;

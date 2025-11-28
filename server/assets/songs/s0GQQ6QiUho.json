@@ -2,5 +2,9 @@
   "youtubeId": "s0GQQ6QiUho",
   "title": "Spaceship",
   "artist": "Sean Paul",
-  "lastFetched": "2025-11-17T01:45:37.914Z"
+  "lastFetched": "2025-11-17T01:45:37.914Z",
+  "ai": {
+    "title": "Spaceship",
+    "artist": "Sean Paul"
+  }
 }

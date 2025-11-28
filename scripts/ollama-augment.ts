@@ -181,7 +181,33 @@ Guidelines:
 - Remove common YouTube suffixes like "(Official Video)", "(Lyric Video)", "[HD]", etc.
 - If the artist is not clear from the title, use the channel name as a fallback
 - When the channel ends with - Topic e.g. "xxx - Topic" then the artist is "xxx"
-- Be concise and accurate
+Examples:
+
+IN
+Title: "Norwegian Recycling - Miracles"
+Channel: "NorwegianRecycling"
+OUT
+{
+  "artist": "Norwegian Recycling",
+  "track": "Miracles"
+}
+IN
+Title: "Carmen Electra - Go Go Dancer MUSIC VIDEO [HQ]"
+Channel: "il Russo"
+OUT
+{
+  "artist": "Carmen Electra",
+  "track": "Go Go Dancer"
+}
+IN
+Title: "Stefanie Hertel - Ich wünsch' mir einen kleinen Teddybär - 1985"
+Channel: "VHS-Goldie"
+OUT
+{
+  "artist": "Stefanie Hertel",
+  "track": "Ich wünsch' mir einen kleinen Teddybär"
+}
+
 
 Respond in valid JSON format only:
 {
@@ -291,17 +317,12 @@ async function main(): Promise<void> {
 
 	for (const video of playlist.videos) {
 		processedCount++;
-		console.log(
-			`\n[${processedCount}/${playlist.videos.length}] Processing: ${video.id}`,
-		);
-		console.log(`Title: ${video.title}`);
-		console.log(`Channel: ${video.channel}`);
 
 		// Load existing song file or create new one
 		let existingSong = loadSongFile(video.id);
 
 		if (!existingSong) {
-			console.log("📁 Creating new song file...");
+			// console.log("📁 Creating new song file...");
 			existingSong = {
 				youtubeId: video.id,
 				title: video.title,
@@ -311,16 +332,27 @@ async function main(): Promise<void> {
 
 		// Check if LastFM data or AI data already exists (skip conditions)
 		if (existingSong.lastfm) {
-			console.log("⏭️  LastFM data already exists, skipping...");
+			// console.log("⏭️  LastFM data already exists, skipping...");
+			skipCount++;
+			continue;
+		}
+		// Check if LastFM data or AI data already exists (skip conditions)
+		if (existingSong.artist) {
+			// console.log("⏭️  Artist exists, skipping...");
 			skipCount++;
 			continue;
 		}
 
 		if (existingSong.ai?.title && existingSong.ai?.artist) {
-			console.log("⏭️  AI data already exists, skipping...");
+			// console.log("⏭️  AI data already exists, skipping...");
 			skipCount++;
 			continue;
 		}
+		console.log(
+			`\n[${processedCount}/${playlist.videos.length}] Processing: ${video.id}`,
+		);
+		console.log(`Title: ${video.title}`);
+		console.log(`Channel: ${video.channel}`);
 
 		console.log("🤖 Extracting AI metadata...");
 

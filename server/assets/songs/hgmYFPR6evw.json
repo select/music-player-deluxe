@@ -1,9 +1,20 @@
 {
   "youtubeId": "hgmYFPR6evw",
   "title": "Butch Cassidy Sound System - Brother and Sisters",
-  "lastFetched": "2025-11-23T22:35:53.773Z",
+  "lastFetched": "2025-11-26T11:02:07.980Z",
   "ai": {
     "title": "Brother and Sisters",
     "artist": "Butch Cassidy Sound System"
+  },
+  "lastfm": {
+    "id": "Butch+Cassidy+Sound+System/_/Brother+And+Sisters",
+    "listeners": 32,
+    "playcount": 74,
+    "title": "Brother And Sisters",
+    "artist": "Butch Cassidy Sound System",
+    "tags": [
+      "dub",
+      "reggae"
+    ]
   }
 }

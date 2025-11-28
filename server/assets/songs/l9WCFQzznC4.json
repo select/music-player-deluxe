@@ -1,9 +1,24 @@
 {
   "youtubeId": "l9WCFQzznC4",
   "title": "Gary Bartz - I've Known Rivers",
-  "lastFetched": "2025-11-23T22:36:18.231Z",
+  "lastFetched": "2025-11-26T11:02:04.942Z",
   "ai": {
     "title": "I've Known Rivers",
     "artist": "Gary Bartz"
+  },
+  "lastfm": {
+    "id": "Gary+Bartz/_/I%27ve+Known+Rivers",
+    "listeners": 16816,
+    "playcount": 59922,
+    "title": "I've Known Rivers",
+    "artist": "Gary Bartz",
+    "mbid": "736ae30b-ab23-336a-bfc7-c1afa1de5355",
+    "artistMbid": "d2cdb3df-783b-472e-91ab-70630fc6a4ad",
+    "tags": [
+      "jazz",
+      "jazz vocalists",
+      "gilles peterson",
+      "soul-jazz"
+    ]
   }
 }

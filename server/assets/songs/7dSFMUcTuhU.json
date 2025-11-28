@@ -1,9 +1,22 @@
 {
   "youtubeId": "7dSFMUcTuhU",
   "title": "In My Room (Audio) - Jacob Collier",
-  "lastFetched": "2025-11-23T22:35:25.128Z",
+  "lastFetched": "2025-11-26T11:02:11.090Z",
   "ai": {
     "title": "In My Room",
     "artist": "Jacob Collier"
+  },
+  "lastfm": {
+    "summary": "\"In My Room\" is a song written by American musicians Brian Wilson and Gary Usher for the American rock band The Beach Boys that featured on their 1963 album \"Surfer Girl\".  The song has subsequently been covered by a number of other artists.  <a href=\"http://www.last.fm/music/Jacob+Collier/_/In+My+Room\">Read more on Last.fm</a>.",
+    "id": "Jacob+Collier/_/In+My+Room",
+    "listeners": 35492,
+    "playcount": 172277,
+    "title": "In My Room",
+    "artist": "Jacob Collier",
+    "mbid": "55b7b141-6cad-4dc0-ab89-722b41682d07",
+    "artistMbid": "1df15ee0-b52b-4315-9cb9-bc5a27a685e9",
+    "tags": [
+      "cover"
+    ]
   }
 }

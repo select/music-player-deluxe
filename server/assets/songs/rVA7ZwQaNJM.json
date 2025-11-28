@@ -1,9 +1,23 @@
 {
   "youtubeId": "rVA7ZwQaNJM",
   "title": "Misanthrop - Galaxy #drumandbass #misanthrop #neosignal",
-  "lastFetched": "2025-11-23T22:34:48.602Z",
+  "lastFetched": "2025-11-26T11:02:17.310Z",
   "ai": {
     "title": "Galaxy",
     "artist": "Misanthrop"
+  },
+  "lastfm": {
+    "id": "Misanthrop/_/Galaxy",
+    "listeners": 1052,
+    "playcount": 3362,
+    "title": "Galaxy",
+    "artist": "Misanthrop",
+    "artistMbid": "cd3654c9-f29f-4749-a22e-d6c5de0dced6",
+    "tags": [
+      "neurofunk",
+      "drum and bass",
+      "german",
+      "dnb"
+    ]
   }
 }

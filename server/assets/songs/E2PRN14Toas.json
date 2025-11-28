@@ -1,9 +1,21 @@
 {
   "youtubeId": "E2PRN14Toas",
   "title": "Rodolphe Burger & Olivier Cadiot - Eisbär (avec Stephan Eicher)",
-  "lastFetched": "2025-11-23T22:33:13.392Z",
+  "lastFetched": "2025-11-26T11:02:32.445Z",
   "ai": {
     "title": "Eisbär",
     "artist": "Rodolphe Burger"
+  },
+  "lastfm": {
+    "id": "Rodolphe+Burger/_/Eisb%C3%A4r",
+    "listeners": 2950,
+    "playcount": 8385,
+    "title": "Eisbär",
+    "artist": "Rodolphe Burger",
+    "artistMbid": "bb7bcca7-c2ca-4a7a-9af6-54bdae21bbdb",
+    "tags": [
+      "french",
+      "deutsch"
+    ]
   }
 }

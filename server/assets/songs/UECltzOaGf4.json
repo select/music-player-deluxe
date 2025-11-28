@@ -2,5 +2,9 @@
   "youtubeId": "UECltzOaGf4",
   "title": "quit the band",
   "artist": "Kyle",
-  "lastFetched": "2025-11-20T11:39:27.981Z"
+  "lastFetched": "2025-11-20T11:39:27.981Z",
+  "ai": {
+    "title": "quit the band",
+    "artist": "Kyle"
+  }
 }
