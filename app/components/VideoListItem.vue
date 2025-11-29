@@ -98,8 +98,9 @@
 					rel="noopener noreferrer"
 					class="text-primary-3 hover:text-accent transition-colors"
 					:title="`Listen on ${getPlatformName(platformId)}`"
+					@click.stop
 				>
-					<div :class="getPlatformIcon(platformId)" class="text-sm" />
+					<div :class="getPlatformIcon(platformId)" class="text-xl" />
 				</a>
 			</div>
 		</td>
