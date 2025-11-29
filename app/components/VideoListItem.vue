@@ -100,7 +100,7 @@
 					:title="`Listen on ${getPlatformName(platformId)}`"
 					@click.stop
 				>
-					<div :class="getPlatformIcon(platformId)" class="text-xl" />
+					<div :class="getPlatformIcon(platformId)" />
 				</a>
 			</div>
 		</td>

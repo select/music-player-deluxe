@@ -1,0 +1,31 @@
+{
+  "youtubeId": "aEj-mrwwaxo",
+  "title": "Alice",
+  "artist": "Tom Waits",
+  "lastFetched": "2025-11-29T13:47:37.308Z",
+  "odesli": {
+    "amazonMusic": "B07ZMGZ81K",
+    "amazonStore": "B07ZMGZ81K",
+    "soundcloud": "tomwaits/alice-1",
+    "tidal": "121047390",
+    "yandex": "37492089",
+    "youtube": "aEj-mrwwaxo",
+    "youtubeMusic": "aEj-mrwwaxo"
+  },
+  "lastfm": {
+    "id": "Tom+Waits/_/Alice",
+    "listeners": 188767,
+    "playcount": 921100,
+    "title": "Alice",
+    "artist": "Tom Waits",
+    "mbid": "1041c8c8-ac03-3dd5-bef3-c6fe9d52885a",
+    "artistMbid": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+    "tags": [
+      "blues",
+      "jazz",
+      "singer-songwriter",
+      "tom waits",
+      "melancholy"
+    ]
+  }
+}

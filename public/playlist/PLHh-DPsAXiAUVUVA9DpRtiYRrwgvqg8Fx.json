@@ -10,7 +10,19 @@
       "channel": "kademan13",
       "duration": "2:04:05",
       "createdAt": 1541179560000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Stars of the Lid - The Tired Sounds of Stars of the Lid (HD)",
+      "externalIds": {
+        "lastfm": "Stars+of+the+Lid/_/The+tired+sounds+of+stars+of+the+lid"
+      },
+      "listeners": 591,
+      "playcount": 1358,
+      "tags": [
+        "ambient",
+        "drone",
+        "electronic",
+        "post-rock"
+      ]
     },
     {
       "id": "JE37e1eK2mY",
@@ -18,7 +30,8 @@
       "channel": "Miracle Machine",
       "duration": "11:23",
       "createdAt": 1541077740000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Weird Al Yankovic - Albuquerque: THE MOVIE"
     },
     {
       "id": "Gh-qtu8kjew",
@@ -26,7 +39,8 @@
       "channel": "Adrien Ravelli",
       "duration": "5:19",
       "createdAt": 1541074260000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "CocooN - Soul Splitter"
     },
     {
       "id": "cX8szNPgrEs",
@@ -34,7 +48,36 @@
       "channel": "Manic Street Preachers",
       "duration": "5:13",
       "createdAt": 1540982700000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Manic Street Preachers",
+      "musicTitle": "If You Tolerate This Your Children Will Be Next",
+      "externalIds": {
+        "amazonMusic": "B003VGR9WW",
+        "amazonStore": "B003VGR9WW",
+        "anghami": "693035",
+        "boomplay": "19842124",
+        "appleMusic": "712754829",
+        "itunes": "712754829",
+        "pandora": "TR:503135",
+        "soundcloud": "manicstreetpreachers/if-you-tolerate-this-your-1",
+        "spotify": "2r7y4HANK7b9KVZfz0g4Uq",
+        "tidal": "35284713",
+        "yandex": "654281",
+        "youtube": "cX8szNPgrEs",
+        "youtubeMusic": "cX8szNPgrEs",
+        "musicbrainz-artist": "32efea44-6cb5-4b4f-bdaa-c8b8f6cef981",
+        "lastfm": "Manic+Street+Preachers/_/If+You+Tolerate+This+Your+Children+Will+Be+Next"
+      },
+      "tags": [
+        "britpop",
+        "alternative rock",
+        "90s",
+        "rock",
+        "alternative"
+      ],
+      "listeners": 360209,
+      "playcount": 2220827,
+      "lastfmSummary": "\"If You Tolerate This Your Children Will Be Next\" is a song by the Manic Street Preachers, released as the first single from their fifth studio album, This Is My Truth Tell Me Yours, with lyrics written by Nicky Wire (credited as Nick Jones), and music written by James Dean Bradfield and Sean Moore. It was released on August 24, 1998 and became the first of the band's two number one singles in the United Kingdom to date. The song is in the Guinness World Records as the number one single with the longest title without brackets. <a href=\"http://www.last.fm/music/Manic+Street+Preachers/_/If+You+Tolerate+This+Your+Children+Will+Be+Next\">Read more on Last.fm</a>."
     },
     {
       "id": "D6ciLtP1B10",
@@ -42,7 +85,29 @@
       "channel": "Forbidden Frequencies",
       "duration": "4:59",
       "createdAt": 1540969980000,
-      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac"
+      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac",
+      "artist": "The Upbeats",
+      "musicTitle": "Kronan",
+      "externalIds": {
+        "amazonMusic": "B07YZH197F",
+        "amazonStore": "B07YZH197F",
+        "appleMusic": "1483176542",
+        "itunes": "1483176542",
+        "soundcloud": "theupbeats/the-upbeats-halogenix-kronan",
+        "tidal": "120016971",
+        "youtube": "D6ciLtP1B10",
+        "youtubeMusic": "D6ciLtP1B10",
+        "musicbrainz-artist": "63630fb9-5d2b-43a5-8e98-b85bb773b258",
+        "lastfm": "The+Upbeats/_/Kronan"
+      },
+      "tags": [
+        "drum and bass",
+        "neurofunk",
+        "dnb",
+        "drum n bass"
+      ],
+      "listeners": 1444,
+      "playcount": 4644
     },
     {
       "id": "BgDC6VPx9FQ",
@@ -50,7 +115,21 @@
       "channel": "Leoniden",
       "duration": "2:51",
       "createdAt": 1540903740000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "musicTitle": "Leoniden - Alone (Official Music Video)",
+      "externalIds": {
+        "musicbrainz-track": "155df21e-ff0f-4eda-8631-189629d9a978",
+        "musicbrainz-artist": "58e80cb1-6b99-43de-b3f8-0d24ab25688e",
+        "lastfm": "Leoniden/_/Alone"
+      },
+      "listeners": 7342,
+      "playcount": 61530,
+      "tags": [
+        "indie",
+        "german",
+        "indie rock",
+        "alternative"
+      ]
     },
     {
       "id": "qAYK8I9cs1I",
@@ -58,7 +137,21 @@
       "channel": "Leoniden",
       "duration": "3:36",
       "createdAt": 1540903680000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "musicTitle": "Leoniden - Kids (Official Music Video)",
+      "externalIds": {
+        "musicbrainz-track": "f510eb1e-fbca-48d7-b649-5c080bda8cd9",
+        "musicbrainz-artist": "58e80cb1-6b99-43de-b3f8-0d24ab25688e",
+        "lastfm": "Leoniden/_/Kids"
+      },
+      "listeners": 21619,
+      "playcount": 168431,
+      "tags": [
+        "indie",
+        "german",
+        "indie rock",
+        "alternative"
+      ]
     },
     {
       "id": "NqM032dnPtk",
@@ -66,7 +159,16 @@
       "channel": "DJ Blyatman",
       "duration": "3:03",
       "createdAt": 1540596060000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "DJ Blyatman & Russian Village Boys - CYKA BLYAT (Official Music Video)",
+      "externalIds": {
+        "lastfm": "DJ+Blyatman+&+Russian+Village+Boys/_/Cyka+Blyat"
+      },
+      "listeners": 2283,
+      "playcount": 10727,
+      "tags": [
+        "hardbass"
+      ]
     },
     {
       "id": "hHT_hEuTtxg",
@@ -74,7 +176,22 @@
       "channel": "KITSCHKRIEG",
       "duration": "3:56",
       "createdAt": 1540457520000,
-      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac"
+      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac",
+      "musicTitle": "TRETTMANN - GRAUER BETON (prod. KITSCHKRIEG) (OFFICIAL VIDEO)",
+      "externalIds": {
+        "musicbrainz-track": "94394ec1-0308-40c4-ab86-b6dda6549e5f",
+        "musicbrainz-artist": "ed818245-5d44-458a-bbc5-ff480901c2b9",
+        "lastfm": "Trettmann/_/Grauer+Beton"
+      },
+      "listeners": 18473,
+      "playcount": 188150,
+      "tags": [
+        "rap",
+        "german",
+        "hip-hop",
+        "german rap",
+        "deutschrap"
+      ]
     },
     {
       "id": "zN8GcRGNWe4",
@@ -82,7 +199,22 @@
       "channel": "microHarmony",
       "duration": "9:23",
       "createdAt": 1540414020000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Propellerheads - On Her Majesty's Secret Service",
+      "externalIds": {
+        "musicbrainz-track": "1f02018e-d73a-3611-bc29-0318f266dd35",
+        "musicbrainz-artist": "cbaafb20-eb74-421a-85f1-2bb6341aad23",
+        "lastfm": "Propellerheads/_/On+Her+Majesty%27s+Secret+Service"
+      },
+      "listeners": 88731,
+      "playcount": 306565,
+      "tags": [
+        "electronic",
+        "big beat",
+        "james bond",
+        "007",
+        "electronica"
+      ]
     },
     {
       "id": "35tfgf5-M6k",
@@ -90,7 +222,19 @@
       "channel": "HighFocusTV",
       "duration": "4:12",
       "createdAt": 1540382640000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Ocean Wisdom - Revvin' Feat. Dizzee Rascal (OFFICIAL VIDEO) (Prod. Muckaniks)",
+      "externalIds": {
+        "lastfm": "Ocean+Wisdom/_/Revvin%27+Feat.+Dizzee+Rascal"
+      },
+      "listeners": 51,
+      "playcount": 190,
+      "tags": [
+        "rap",
+        "grime",
+        "hip-hop",
+        "hip hop"
+      ]
     },
     {
       "id": "dx76YPgZviE",
@@ -98,7 +242,8 @@
       "channel": "杵家七三",
       "duration": "5:13",
       "createdAt": 1540192860000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "【BadApple!!】傷林果 【ShouRinka】"
     },
     {
       "id": "_pwUmSNHUgY",
@@ -106,7 +251,8 @@
       "channel": "mercedezzz",
       "duration": "2:59",
       "createdAt": 1540027200000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "i will survive on banjo ukulele"
     },
     {
       "id": "i7gD3XBeLk8",
@@ -114,7 +260,20 @@
       "channel": "Mean Mary",
       "duration": "3:33",
       "createdAt": 1540026240000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "Mean Mary - Blazing",
+      "externalIds": {
+        "musicbrainz-track": "5e26c71b-5200-4ce8-8520-efaf6acdb692",
+        "musicbrainz-artist": "7463ed5b-7cb8-4c04-be1e-529624f57ceb",
+        "lastfm": "Mean+Mary/_/Blazing"
+      },
+      "listeners": 602,
+      "playcount": 2669,
+      "tags": [
+        "alt-country",
+        "folk",
+        "americana"
+      ]
     },
     {
       "id": "r_0BPqWpM_M",
@@ -122,7 +281,21 @@
       "channel": "Kevinbelmont55",
       "duration": "6:01",
       "createdAt": 1539947820000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "musicTitle": "Impossible Germany by Wilco + Lyrics",
+      "externalIds": {
+        "musicbrainz-artist": "9e53f84d-ef44-4c16-9677-5fd4d78cbd7d",
+        "lastfm": "Wilco/_/Impossible+Germany"
+      },
+      "listeners": 347927,
+      "playcount": 2449854,
+      "tags": [
+        "alt-country",
+        "indie",
+        "indie rock",
+        "rock",
+        "wilco-2007-sky blue sky"
+      ]
     },
     {
       "id": "NcXNXnUr16Q",
@@ -130,7 +303,17 @@
       "channel": "BlackStarTV",
       "duration": "7:58",
       "createdAt": 1539898740000,
-      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac"
+      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac",
+      "musicTitle": "Егор Крид feat. Филипп Киркоров - Цвет настроения черный (премьера клипа, 2018)",
+      "externalIds": {
+        "lastfm": "%D0%95%D0%B3%D0%BE%D1%80+%D0%9A%D1%80%D0%B8%D0%B4+feat.+%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF+%D0%9A%D0%B8%D1%80%D0%BA%D0%BE%D1%80%D0%BE%D0%B2/_/%D0%A6%D0%B2%D0%B5%D1%82+%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F+%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9"
+      },
+      "listeners": 3559,
+      "playcount": 27762,
+      "tags": [
+        "pop",
+        "rap"
+      ]
     },
     {
       "id": "W_m-kWYmUG0",
@@ -138,7 +321,18 @@
       "channel": "HipHopFor7ive",
       "duration": "4:46",
       "createdAt": 1539897060000,
-      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac"
+      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac",
+      "musicTitle": "Creutzfeld & Jakob - Bunkerwelt in Witten Feat. Onanon & Dike",
+      "externalIds": {
+        "musicbrainz-artist": "0cb420ed-a2f9-4346-be63-e6a2e0a66fa6",
+        "lastfm": "Creutzfeld+&+Jakob/_/Bunkerwelt+in+Witten"
+      },
+      "listeners": 2557,
+      "playcount": 9381,
+      "tags": [
+        "hip hop",
+        "german"
+      ]
     },
     {
       "id": "TnpwuRlXbhk",
@@ -146,7 +340,32 @@
       "channel": "Killing Joke",
       "duration": "4:32",
       "createdAt": 1539896340000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "artist": "Killing Joke",
+      "musicTitle": "Love Like Blood",
+      "externalIds": {
+        "amazonMusic": "B0CCBN1BP3",
+        "amazonStore": "B0CCBN1BP3",
+        "anghami": "1118341790",
+        "boomplay": "3147324",
+        "pandora": "TR:2227551",
+        "soundcloud": "killing-joke-official/love-like-blood",
+        "spotify": "0SEfEDcVisRq8z4gU6r86b",
+        "tidal": "305757925",
+        "youtube": "TnpwuRlXbhk",
+        "youtubeMusic": "TnpwuRlXbhk",
+        "musicbrainz-artist": "f5aca88c-e3c1-4bc2-af33-68a9a9f7b56a",
+        "lastfm": "Killing+Joke/_/Love+Like+Blood"
+      },
+      "tags": [
+        "post-punk",
+        "new wave",
+        "80s",
+        "rock"
+      ],
+      "listeners": 281775,
+      "playcount": 1917669,
+      "lastfmSummary": "\"Love Like Blood\" is a song by English rock band Killing Joke. It was released in January 1985 as the second single from their fifth studio album, Night Time (1985). It was a top 10 hit in the Netherlands and New Zealand. It peaked at number 16 in the UK. <a href=\"http://www.last.fm/music/Killing+Joke/_/Love+Like+Blood\">Read more on Last.fm</a>."
     },
     {
       "id": "UOUBW8bkjQ4",
@@ -154,7 +373,39 @@
       "channel": "twenty one pilots",
       "duration": "4:59",
       "createdAt": 1539861240000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Twenty One Pilots",
+      "musicTitle": "Jumpsuit",
+      "externalIds": {
+        "amazonMusic": "B07G7HYMMS",
+        "amazonStore": "B07G7HYMMS",
+        "anghami": "41821873",
+        "boomplay": "3512385",
+        "deezer": "562774642",
+        "appleMusic": "1422828209",
+        "itunes": "1422828209",
+        "napster": "tra.331345621",
+        "pandora": "TR:14884510",
+        "soundcloud": "twentyonepilots/jumpsuit",
+        "spotify": "1E1uGhNdBe6Dddbgs2KqtZ",
+        "tidal": "96146859",
+        "yandex": "42123560",
+        "youtube": "UOUBW8bkjQ4",
+        "youtubeMusic": "UOUBW8bkjQ4",
+        "musicbrainz-track": "fbcefaea-21c6-4df3-aa86-cd1a7ac5e80b",
+        "musicbrainz-artist": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+        "lastfm": "Twenty+One+Pilots/_/Jumpsuit"
+      },
+      "tags": [
+        "alternative rock",
+        "rock",
+        "alternative",
+        "indie",
+        "2018"
+      ],
+      "listeners": 485156,
+      "playcount": 6351760,
+      "lastfmSummary": "“Jumpsuit” is one of two singles released to promote Twenty One Pilots' fifth album, Trench; the other being “Nico And The Niners.” The single was first scheduled to premiere in some radio stations in the US but was instead released 30 minutes before that on iTunes and YouTube respectively.\n\nThe song’s music style is characterized by the contrast between its heavy rock feel and the generally restrained vocals. It also makes frequent use of voice modulation and other synthetic sounds. <a href=\"http://www.last.fm/music/Twenty+One+Pilots/_/Jumpsuit\">Read more on Last.fm</a>."
     },
     {
       "id": "QiJc1-CvUNk",
@@ -162,7 +413,33 @@
       "channel": "Ballyhoo!",
       "duration": "3:38",
       "createdAt": 1539694800000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Ballyhoo!",
+      "musicTitle": "I Don't Wanna Go",
+      "externalIds": {
+        "amazonMusic": "B0D4XGNM1C",
+        "amazonStore": "B0D4XGNM1C",
+        "audius": "ZOx46",
+        "appleMusic": "1747822732",
+        "itunes": "1747822732",
+        "soundcloud": "rightcoastrecords/ballyhoo-i-dont-wanna-go",
+        "spotify": "3q81uO4XK5H28oXCxqmiUq",
+        "tidal": "364870189",
+        "yandex": "39981435",
+        "youtube": "QiJc1-CvUNk",
+        "youtubeMusic": "QiJc1-CvUNk",
+        "musicbrainz-track": "cc0e844a-31eb-492d-a31c-ca98bca95888",
+        "musicbrainz-artist": "148350d7-1b04-4518-b216-4519eb0bcc08",
+        "lastfm": "Ballyhoo%21/_/I+Don%27t+Wanna+Go"
+      },
+      "tags": [
+        "reggae",
+        "ska",
+        "rock",
+        "surf"
+      ],
+      "listeners": 4491,
+      "playcount": 25236
     },
     {
       "id": "SY_nw63qzF4",
@@ -170,7 +447,27 @@
       "channel": "Digster Pop Music",
       "duration": "3:16",
       "createdAt": 1539674220000,
-      "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
+      "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009",
+      "artist": "Culcha Candela",
+      "musicTitle": "Chica",
+      "externalIds": {
+        "amazonMusic": "B09L4H8XHS",
+        "amazonStore": "B09L4H8XHS",
+        "youtube": "SY_nw63qzF4",
+        "youtubeMusic": "SY_nw63qzF4",
+        "musicbrainz-track": "320ed5d6-8c27-3ac9-963a-7a2a862a00ce",
+        "musicbrainz-artist": "a7a1d1ff-1aa7-4a91-a066-cf48976bf92e",
+        "lastfm": "Culcha+Candela/_/Chica"
+      },
+      "tags": [
+        "german",
+        "reggae",
+        "deutsch",
+        "party",
+        "dancehall"
+      ],
+      "listeners": 42203,
+      "playcount": 173296
     },
     {
       "id": "u5NuRpXqhGQ",
@@ -178,7 +475,8 @@
       "channel": "Jan Jester",
       "duration": "4:19",
       "createdAt": 1539661920000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Birgitt do you want me (Ofiicial Music Video)"
     },
     {
       "id": "4SA0Aa54-tQ",
@@ -186,7 +484,28 @@
       "channel": "Mago Merlino",
       "duration": "11:49",
       "createdAt": 1539638640000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "artist": "Electric Moon",
+      "musicTitle": "Lunatic",
+      "externalIds": {
+        "amazonMusic": "B0FNMW14GF",
+        "amazonStore": "B0FNMW14GF",
+        "soundcloud": "sofi-saleh/electric-moon-lunatic",
+        "tidal": "456206028",
+        "youtube": "4SA0Aa54-tQ",
+        "youtubeMusic": "4SA0Aa54-tQ",
+        "musicbrainz-track": "04adf4d5-1a5e-4260-b738-161bfac6657f",
+        "musicbrainz-artist": "23e24bc1-d1c5-4a66-b59e-b6696501b999",
+        "lastfm": "Electric+Moon/_/Lunatic"
+      },
+      "tags": [
+        "psychedelic rock",
+        "space rock",
+        "instrumental",
+        "flyyt"
+      ],
+      "listeners": 6066,
+      "playcount": 23956
     },
     {
       "id": "MGoU5JNc0ZU",
@@ -194,7 +513,8 @@
       "channel": "mustaba1234",
       "duration": "3:50",
       "createdAt": 1539612720000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "The Myrrors - Mind's Eye"
     },
     {
       "id": "x9Xm_nR4310",
@@ -202,7 +522,17 @@
       "channel": "EscolaniaMontserrat",
       "duration": "3:47",
       "createdAt": 1539553320000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Arvo Pärt: Vater Unser (Our Father)",
+      "externalIds": {
+        "musicbrainz-artist": "ae0b2424-d4c5-4c54-82ac-fe3be5453270",
+        "lastfm": "Arvo+P%C3%A4rt/_/Vater+Unser+(Our+Father)"
+      },
+      "listeners": 39,
+      "playcount": 453,
+      "tags": [
+        "arvo part"
+      ]
     },
     {
       "id": "DXqx1rHZfx8",
@@ -210,7 +540,22 @@
       "channel": "Marko Vlasic",
       "duration": "1:06:57",
       "createdAt": 1539462120000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "Vangelis - Mythodea",
+      "externalIds": {
+        "musicbrainz-track": "95587838-cf77-453e-85be-0ce6aa382680",
+        "musicbrainz-artist": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f",
+        "lastfm": "Vangelis/_/Mythodea"
+      },
+      "listeners": 176,
+      "playcount": 631,
+      "tags": [
+        "electronic",
+        "new age",
+        "ambient",
+        "soundtrack",
+        "instrumental"
+      ]
     },
     {
       "id": "AuFiBjNTB9o",
@@ -218,7 +563,24 @@
       "channel": "akir amelie",
       "duration": "5:46",
       "createdAt": 1539349740000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Opa Tsupa",
+      "musicTitle": "Opa Tsupa - Les Deux Guitares",
+      "externalIds": {
+        "soundcloud": "fatma-fetni/opa-tsupa-les-deux-guitares",
+        "spotify": "0xg9qqgGPsqobNG1txdUJX",
+        "youtube": "AuFiBjNTB9o",
+        "youtubeMusic": "AuFiBjNTB9o",
+        "lastfm": "Opa+Tsupa/_/Opa+Tsupa+-+Les+deux+Guitares"
+      },
+      "tags": [
+        "jazz",
+        "swing",
+        "france",
+        "gypsy jazz"
+      ],
+      "listeners": 6,
+      "playcount": 9
     },
     {
       "id": "GWgisTPKCdk",
@@ -226,7 +588,22 @@
       "channel": "jokebrothersproductions",
       "duration": "4:25",
       "createdAt": 1539286260000,
-      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5"
+      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5",
+      "musicTitle": "Seiler und Speer - Ham kummst",
+      "externalIds": {
+        "musicbrainz-track": "eb103c46-4187-4408-961f-1b863b6b5dba",
+        "musicbrainz-artist": "1b5c5c26-7232-48e2-8363-08f420b1f5fa",
+        "lastfm": "Seiler+und+Speer/_/Ham+kummst"
+      },
+      "listeners": 25321,
+      "playcount": 173566,
+      "tags": [
+        "a certain track",
+        "salon",
+        "augschitt",
+        "give booze a chance",
+        "ruperts greatest hits"
+      ]
     },
     {
       "id": "ip2FzOkiHx4",
@@ -234,7 +611,22 @@
       "channel": "HansSoellner241255",
       "duration": "4:20",
       "createdAt": 1539286020000,
-      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5"
+      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5",
+      "musicTitle": "Hans Söllner - Ned aloa",
+      "externalIds": {
+        "musicbrainz-track": "409a49c4-1bde-37ed-a658-b3a373e32966",
+        "musicbrainz-artist": "80abef74-04bc-40d6-a0b3-518cd4d13b54",
+        "lastfm": "Hans+S%C3%B6llner/_/Ned+aloa"
+      },
+      "listeners": 1084,
+      "playcount": 4521,
+      "tags": [
+        "reggae",
+        "liedermacher",
+        "singer-songwriter",
+        "german",
+        "bavarian"
+      ]
     },
     {
       "id": "SlY5nMrWWHk",
@@ -242,7 +634,8 @@
       "channel": "vivalafranzi",
       "duration": "5:11",
       "createdAt": 1539284220000,
-      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5"
+      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5",
+      "musicTitle": "Hans söllner - sogar der wind lügt"
     },
     {
       "id": "TmLbBOpaiZs",
@@ -250,7 +643,16 @@
       "channel": "Sofar Sounds",
       "duration": "4:59",
       "createdAt": 1539129900000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "Manny Walters - My Own Fault | Sofar Cape Town",
+      "externalIds": {
+        "lastfm": "Manny+Walters/_/My+Own+Fault"
+      },
+      "listeners": 997,
+      "playcount": 4511,
+      "tags": [
+        "sofar cape town"
+      ]
     },
     {
       "id": "rO1VDCZh_Ko",
@@ -258,7 +660,32 @@
       "channel": "Stromae",
       "duration": "5:59",
       "createdAt": 1539125520000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "artist": "Stromae",
+      "musicTitle": "ave cesaria",
+      "externalIds": {
+        "amazonMusic": "B00EFB8VXI",
+        "amazonStore": "B00EFB8VXI",
+        "anghami": "2602091",
+        "boomplay": "2812192",
+        "pandora": "TR:2300595",
+        "soundcloud": "stromae/ave-cesaria",
+        "spotify": "4zw0Ih25ilFwQdtkzzWA7s",
+        "tidal": "35214755",
+        "youtube": "rO1VDCZh_Ko",
+        "youtubeMusic": "rO1VDCZh_Ko",
+        "musicbrainz-track": "241f7151-bee1-417c-b3df-ec33371bab23",
+        "musicbrainz-artist": "ab2528d9-719f-4261-8098-21849222a0f2",
+        "lastfm": "Stromae/_/Ave+Cesaria"
+      },
+      "tags": [
+        "electronic",
+        "electropop",
+        "2013",
+        "belgian"
+      ],
+      "listeners": 155235,
+      "playcount": 1128431
     },
     {
       "id": "QFvt2cNSOaM",
@@ -266,7 +693,8 @@
       "channel": "Kubasekbrit William",
       "duration": "1:13:21",
       "createdAt": 1539125520000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "Silent Hill 2 ost (full album)"
     },
     {
       "id": "mDFBTdToRmw",
@@ -274,7 +702,38 @@
       "channel": "Little Big",
       "duration": "3:13",
       "createdAt": 1538822280000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Little Big",
+      "musicTitle": "Skibidi",
+      "externalIds": {
+        "amazonMusic": "B0FX5Z671K",
+        "amazonStore": "B0FX5Z671K",
+        "audiomack": "44504073",
+        "anghami": "47472006",
+        "boomplay": "4769317",
+        "deezer": "562731192",
+        "appleMusic": "1437902356",
+        "itunes": "1437902356",
+        "napster": "tra.355252400",
+        "pandora": "TR:14901961",
+        "soundcloud": "ibuychino/skibidi",
+        "spotify": "4F4TGsDYacEbw4PLAIyJ2e",
+        "tidal": "95976151",
+        "yandex": "43716999",
+        "youtube": "mDFBTdToRmw",
+        "youtubeMusic": "mDFBTdToRmw",
+        "musicbrainz-track": "03099c4e-fc56-4551-8f23-90350c01770f",
+        "musicbrainz-artist": "cbe51088-e4d8-463e-9f4e-e83fa64d3f5e",
+        "lastfm": "Little+Big/_/Skibidi"
+      },
+      "tags": [
+        "electronic",
+        "rap",
+        "house",
+        "dance"
+      ],
+      "listeners": 104319,
+      "playcount": 749341
     },
     {
       "id": "BzbRHsyjIzk",
@@ -282,7 +741,30 @@
       "channel": "The Neighbourhood",
       "duration": "3:32",
       "createdAt": 1538742840000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "The Neighbourhood",
+      "musicTitle": "Paradise",
+      "externalIds": {
+        "amazonMusic": "B07JZKBKD7",
+        "amazonStore": "B07JZKBKD7",
+        "boomplay": "14965900",
+        "pandora": "TR:15188217",
+        "soundcloud": "theneighbourhood/paradise",
+        "spotify": "75iJMOH4oBobiRiBJVdw2m",
+        "tidal": "97763394",
+        "yandex": "43372705",
+        "youtube": "BzbRHsyjIzk",
+        "youtubeMusic": "BzbRHsyjIzk",
+        "lastfm": "The+Neighbourhood/_/Paradise"
+      },
+      "tags": [
+        "alternative",
+        "rock",
+        "indie",
+        "pop"
+      ],
+      "listeners": 180650,
+      "playcount": 1563738
     },
     {
       "id": "t4382UVl0oc",
@@ -290,7 +772,37 @@
       "channel": "Disturbed",
       "duration": "4:48",
       "createdAt": 1538742600000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Disturbed",
+      "musicTitle": "A Reason to Fight",
+      "externalIds": {
+        "amazonMusic": "B07VLHXXJG",
+        "amazonStore": "B07VLHXXJG",
+        "anghami": "41878327",
+        "boomplay": "3491812",
+        "deezer": "564476442",
+        "appleMusic": "1425820711",
+        "itunes": "1425820711",
+        "napster": "tra.329610325",
+        "pandora": "TR:14934554",
+        "soundcloud": "disturbed1/a-reason-to-fight",
+        "spotify": "78ObTPtTR1gQ1b6tcVeBdA",
+        "tidal": "95429950",
+        "yandex": "43462889",
+        "youtube": "t4382UVl0oc",
+        "youtubeMusic": "t4382UVl0oc",
+        "musicbrainz-track": "07f87334-200e-487d-9939-3ccb827e6ab9",
+        "musicbrainz-artist": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5",
+        "lastfm": "Disturbed/_/A+Reason+to+Fight"
+      },
+      "tags": [
+        "disturbed",
+        "rock",
+        "alternative",
+        "heavy metal"
+      ],
+      "listeners": 76766,
+      "playcount": 527424
     },
     {
       "id": "4LMaqRmBo1s",
@@ -298,7 +810,29 @@
       "channel": "Dalton Ray",
       "duration": "4:47",
       "createdAt": 1538676180000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Wilco",
+      "musicTitle": "Ashes of American Flags",
+      "externalIds": {
+        "amazonMusic": "B07VTQ4QVZ",
+        "amazonStore": "B07VTQ4QVZ",
+        "soundcloud": "wilcoworld/ashes-of-american-flags-2",
+        "spotify": "1BI3TOb107VToPovrraoU2",
+        "youtube": "4LMaqRmBo1s",
+        "youtubeMusic": "4LMaqRmBo1s",
+        "musicbrainz-track": "96345822-c746-3b15-ad64-e5af3fbbb06c",
+        "musicbrainz-artist": "9e53f84d-ef44-4c16-9677-5fd4d78cbd7d",
+        "lastfm": "Wilco/_/Ashes+of+American+Flags"
+      },
+      "tags": [
+        "alt-country",
+        "indie",
+        "rock",
+        "indie rock"
+      ],
+      "listeners": 318766,
+      "playcount": 1911222,
+      "lastfmSummary": "The Wilco band biography, \"Wilco: Learning How to Die\", mentions that Tweedy carried 20th century American novelist, Henry Miller’s \"Tropic Of Cancer\" around with him for eight years. “Ashes of American Flags” includes paraphrases from the novel from this song Note also that the lyrics to “Poor Places” include the line “He takes all his words from the books that you don’t read, anyway.”\n\nThe band re-used the song’s title for the 2009 live concert film, \"Wilco Live: Ashes of American Flags\". <a href=\"http://www.last.fm/music/Wilco/_/Ashes+of+American+Flags\">Read more on Last.fm</a>."
     },
     {
       "id": "aEj-mrwwaxo",
@@ -306,7 +840,30 @@
       "channel": "Phil Bebbington",
       "duration": "4:29",
       "createdAt": 1556014920000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Tom Waits",
+      "musicTitle": "Alice",
+      "externalIds": {
+        "amazonMusic": "B07ZMGZ81K",
+        "amazonStore": "B07ZMGZ81K",
+        "soundcloud": "tomwaits/alice-1",
+        "tidal": "121047390",
+        "yandex": "37492089",
+        "youtube": "aEj-mrwwaxo",
+        "youtubeMusic": "aEj-mrwwaxo",
+        "musicbrainz-track": "1041c8c8-ac03-3dd5-bef3-c6fe9d52885a",
+        "musicbrainz-artist": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+        "lastfm": "Tom+Waits/_/Alice"
+      },
+      "tags": [
+        "blues",
+        "jazz",
+        "singer-songwriter",
+        "tom waits",
+        "melancholy"
+      ],
+      "listeners": 188767,
+      "playcount": 921100
     },
     {
       "id": "qIHfuihoz70",
@@ -314,7 +871,26 @@
       "channel": "Andy Leigh",
       "duration": "4:27",
       "createdAt": 1538653260000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Matthews Southern Comfort",
+      "musicTitle": "Woodstock",
+      "externalIds": {
+        "amazonMusic": "B01EC1MKNW",
+        "amazonStore": "B01EC1MKNW",
+        "soundcloud": "matthews-southern-comfort/woodstock",
+        "spotify": "7IwFA0HPOBCoQT5qzP0jDN",
+        "tidal": "59430431",
+        "youtube": "qIHfuihoz70",
+        "youtubeMusic": "qIHfuihoz70",
+        "musicbrainz-track": "22b50525-f155-3f3d-9ec9-3c2b96f80371",
+        "lastfm": "Matthews+Southern+Comfort/_/Woodstock"
+      },
+      "tags": [
+        "rock",
+        "folk rock"
+      ],
+      "listeners": 12622,
+      "playcount": 54406
     },
     {
       "id": "UrouueTnZYo",
@@ -322,7 +898,20 @@
       "channel": "Metropole Orkest",
       "duration": "1:13:39",
       "createdAt": 1538424180000,
-      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5"
+      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5",
+      "musicTitle": "Marcus Miller - Metropole Orkest - Edison Jazz/World Awards 2013",
+      "externalIds": {
+        "lastfm": "Marcus+Miller/_/Metropole+Orkest+-+Edison+Jazz%2FWorld+Awards+2013"
+      },
+      "listeners": 108,
+      "playcount": 188,
+      "tags": [
+        "jazz",
+        "bass",
+        "funk",
+        "fusion",
+        "jazz fusion"
+      ]
     },
     {
       "id": "hisWN4Dts1g",
@@ -330,7 +919,29 @@
       "channel": "Henrique Cardoni",
       "duration": "2:48",
       "createdAt": 1538420820000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Wilco",
+      "musicTitle": "Forget the Flowers",
+      "externalIds": {
+        "amazonMusic": "B001QUNCKS",
+        "amazonStore": "B001QUNCKS",
+        "soundcloud": "wilcoworld/forget-the-flowers",
+        "spotify": "5xpsqQJz7pI6huO0Pd7QZW",
+        "tidal": "7566809",
+        "youtube": "hisWN4Dts1g",
+        "youtubeMusic": "hisWN4Dts1g",
+        "musicbrainz-track": "2a667486-48f6-4896-a384-d1edc3f88abd",
+        "musicbrainz-artist": "9e53f84d-ef44-4c16-9677-5fd4d78cbd7d",
+        "lastfm": "Wilco/_/Forget+the+Flowers"
+      },
+      "tags": [
+        "alt-country",
+        "wilco",
+        "americana",
+        "indie"
+      ],
+      "listeners": 126303,
+      "playcount": 536132
     },
     {
       "id": "zbeErgE4quA",
@@ -338,7 +949,21 @@
       "channel": "Anatolian Rock Revival Project",
       "duration": "5:32",
       "createdAt": 1538381160000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Mazhar ve Fuat - Adımız Miskindir Bizim (1973) (English Subtitles)",
+      "externalIds": {
+        "musicbrainz-track": "0cacac29-b0ef-3d18-8883-22c303cc847d",
+        "lastfm": "Mazhar+Ve+Fuat/_/Ad%C4%B1m%C4%B1z+Miskindir+Bizim"
+      },
+      "listeners": 16608,
+      "playcount": 87828,
+      "tags": [
+        "psychedelic rock",
+        "psychedelic",
+        "70s",
+        "psychedelic pop",
+        "turkish"
+      ]
     },
     {
       "id": "uXXo1YDA9tE",
@@ -346,7 +971,16 @@
       "channel": "Agostini",
       "duration": "8:55",
       "createdAt": 1538261580000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "Blade Runner Blues (7) - Blade Runner Soundtrack",
+      "externalIds": {
+        "lastfm": "Blade+Runner+Soundtrack/_/Blade+Runner+Blues"
+      },
+      "listeners": 67,
+      "playcount": 322,
+      "tags": [
+        "soundtrack"
+      ]
     },
     {
       "id": "5thhFH6W3ko",
@@ -354,7 +988,18 @@
       "channel": "Foals",
       "duration": "5:03",
       "createdAt": 1538058000000,
-      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5"
+      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5",
+      "musicTitle": "FOALS - Snake Oil [Official Live CCTV Session]",
+      "externalIds": {
+        "musicbrainz-track": "0653d7e2-5a46-467b-a80f-a20eba85b5f2",
+        "musicbrainz-artist": "6a65d878-fcd0-42cf-aff9-ca1d636a8bcc",
+        "lastfm": "Foals/_/Snake+Oil"
+      },
+      "listeners": 108879,
+      "playcount": 651758,
+      "tags": [
+        "poptron"
+      ]
     },
     {
       "id": "AauVal4ODbE",
@@ -362,7 +1007,17 @@
       "channel": "Emicida",
       "duration": "7:02",
       "createdAt": 1537907280000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Emicida - Boa Esperança (Videoclipe Oficial)",
+      "externalIds": {
+        "musicbrainz-artist": "7b874216-914f-4f77-b5c4-70f6ff8052ad",
+        "lastfm": "Emicida/_/Boa+Esperan%C3%A7a"
+      },
+      "listeners": 21777,
+      "playcount": 137498,
+      "tags": [
+        "hip-hop"
+      ]
     },
     {
       "id": "jcJ81N6x9VM",
@@ -370,7 +1025,27 @@
       "channel": "Kasai No Ken Promotion",
       "duration": "5:17",
       "createdAt": 1537906140000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Ken Arai",
+      "musicTitle": "I AM",
+      "externalIds": {
+        "amazonMusic": "B0BHWXG6HL",
+        "amazonStore": "B0BHWXG6HL",
+        "soundcloud": "lamb-da/i-am-arai-ken-kiseijuu-sei-no-kakuritsu-original-soundtrack",
+        "spotify": "05bQCC3S4jtXqOYNTaq65L",
+        "youtube": "jcJ81N6x9VM",
+        "youtubeMusic": "jcJ81N6x9VM",
+        "musicbrainz-track": "357144e5-66e0-423b-bce4-bdc25d3ec3e3",
+        "lastfm": "Ken+Arai/_/I+AM"
+      },
+      "tags": [
+        "electronic",
+        "soundtrack",
+        "dubstep",
+        "rating 5"
+      ],
+      "listeners": 3184,
+      "playcount": 23239
     },
     {
       "id": "Ga0Z41hfl8w",
@@ -378,7 +1053,13 @@
       "channel": "Pablo Bates",
       "duration": "4:01",
       "createdAt": 1537873860000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "musicTitle": "Tom Waits and Marc Ribot - Bella Ciao (Goodbye Beautiful)..!!!!",
+      "externalIds": {
+        "lastfm": "Tom+Waits+and+Marc+Ribot/_/Bella+Ciao+(Goodbye+Beautiful)"
+      },
+      "listeners": 14,
+      "playcount": 57
     },
     {
       "id": "ewvkauIMmbQ",
@@ -386,7 +1067,32 @@
       "channel": "glorf1234",
       "duration": "3:10",
       "createdAt": 1537870980000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Tom Waits",
+      "musicTitle": "Kommienezuspadt",
+      "externalIds": {
+        "amazonMusic": "B07ZMH678Z",
+        "amazonStore": "B07ZMH678Z",
+        "pandora": "TR:114081",
+        "soundcloud": "tomwaits/kommienezuspadt-1",
+        "spotify": "27Hw6U70jOypH9tfdXrvEg",
+        "tidal": "121047394",
+        "youtube": "ewvkauIMmbQ",
+        "youtubeMusic": "ewvkauIMmbQ",
+        "musicbrainz-track": "24e7f651-f995-351d-bf4d-8f6d579b8ad8",
+        "musicbrainz-artist": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+        "lastfm": "Tom+Waits/_/Kommienezuspadt"
+      },
+      "tags": [
+        "experimental",
+        "blues",
+        "jazz",
+        "cabaret",
+        "singer-songwriter"
+      ],
+      "listeners": 81861,
+      "playcount": 338787,
+      "lastfmSummary": "This song does not use any real words in it, although some people say it sounds like German, except \"Komme nie zu spät\" (Never come too late) and \"Sei pünktlich\" (Be punctual). Note the wrong pronounciation of \"pünktlich\" and \"spät\" <a href=\"http://www.last.fm/music/Tom+Waits/_/Kommienezuspadt\">Read more on Last.fm</a>."
     },
     {
       "id": "aW8UnXzP3ms",
@@ -394,7 +1100,22 @@
       "channel": "Carly Simon",
       "duration": "3:27",
       "createdAt": 1537833000000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "Why - Carly Simon",
+      "externalIds": {
+        "musicbrainz-track": "76c39616-27b9-3b0c-b798-d5c3fbeb7445",
+        "musicbrainz-artist": "c4df30f5-5487-4806-9189-b69c9f27532c",
+        "lastfm": "Carly+Simon/_/Why"
+      },
+      "listeners": 98424,
+      "playcount": 544794,
+      "lastfmSummary": "\"Why\", by Carly Simon, was one of a string of film-inspired singles from a less successful period in her career (specifically in the US). Following her much publicized break-down on stage in 1980, it was recorded for the movie Soup for One in 1982. The movie flopped but the soundtrack was a success.\n\nThe song, like all of the soundtrack, was produced by Edwards & Rodgers of Chic fame. This was a move away from the usual guitar-based hits of Simon's past. <a href=\"http://www.last.fm/music/Carly+Simon/_/Why\">Read more on Last.fm</a>.",
+      "tags": [
+        "pop",
+        "80s",
+        "female vocalists",
+        "singer-songwriter"
+      ]
     },
     {
       "id": "bWel7f8N9I8",
@@ -402,7 +1123,24 @@
       "channel": "Kariff",
       "duration": "7:31",
       "createdAt": 1537833000000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "artist": "Loli Cosmica",
+      "musicTitle": "Tzen Tze re rei",
+      "externalIds": {
+        "amazonMusic": "B09FXLL2H7",
+        "amazonStore": "B09FXLL2H7",
+        "soundcloud": "loli-cosmica/tzen-tze-re-re",
+        "tidal": "197237779",
+        "youtube": "bWel7f8N9I8",
+        "youtubeMusic": "bWel7f8N9I8",
+        "musicbrainz-artist": "d0cd588e-b5f5-4be1-b1bd-f19eaf49ae65",
+        "lastfm": "Loli+Cosmica/_/Tzen+Tze+Re+Rei"
+      },
+      "tags": [
+        "argentina"
+      ],
+      "listeners": 4552,
+      "playcount": 18385
     },
     {
       "id": "ysGtBZX32I0",
@@ -410,7 +1148,32 @@
       "channel": "thehivestv",
       "duration": "3:41",
       "createdAt": 1537779240000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "The Hives",
+      "musicTitle": "Walk Idiot Walk",
+      "externalIds": {
+        "amazonMusic": "B073GRF2FG",
+        "amazonStore": "B073GRF2FG",
+        "pandora": "TR:171679",
+        "soundcloud": "the-hives/walk-idiot-walk-album-version",
+        "spotify": "5Pdd4QCr0rREXM03zBM2Eh",
+        "tidal": "596346",
+        "yandex": "70535",
+        "youtube": "ysGtBZX32I0",
+        "youtubeMusic": "ysGtBZX32I0",
+        "musicbrainz-track": "83ff2cec-c3a8-4b6c-b6f5-35ae4b695bcb",
+        "musicbrainz-artist": "487bfd74-71bf-46dd-b89c-80b7a0f06f2f",
+        "lastfm": "The+Hives/_/Walk+Idiot+Walk"
+      },
+      "tags": [
+        "rock",
+        "garage rock",
+        "indie",
+        "swedish",
+        "punk"
+      ],
+      "listeners": 499475,
+      "playcount": 2763465
     },
     {
       "id": "imaL1_fxGLU",
@@ -418,7 +1181,21 @@
       "channel": "Oleg Berg",
       "duration": "2:50",
       "createdAt": 1537629240000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Whitney Houston - I Will Always Love You in minor key",
+      "tags": [
+        "female vocalists",
+        "pop",
+        "Love",
+        "Soundtrack",
+        "Ballad"
+      ],
+      "externalIds": {
+        "lastfm": "Whitney+Houston/_/I+Will+Always+Love+You"
+      },
+      "listeners": 994731,
+      "playcount": 5188896,
+      "lastfmSummary": "Originally written and performed by Dolly Parton in 1974, Whitney Houston's cover is the best selling single by a woman of all time. It was released on November 3, 1992. \"I Will Always Love You\" was the lead single of The Bodyguard: The Original Soundtrack. Considered one of the most beautiful love songs of all time, it peaked at number #1 in several countries (including the United States, United Kingdom and Japan) and remained on Billboard's Hot 100 for 14 consecutive weeks at #1 and today is still one of the longest charting songs <a href=\"http://www.last.fm/music/Whitney+Houston/_/I+Will+Always+Love+You\">Read more on Last.fm</a>."
     },
     {
       "id": "zTbjLOem2Qg",
@@ -426,7 +1203,13 @@
       "channel": "makikoti47",
       "duration": "2:16",
       "createdAt": 1537625640000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Gregorius: NMKY (live on TV)",
+      "externalIds": {
+        "lastfm": "Gregorius/_/NMKY"
+      },
+      "listeners": 62,
+      "playcount": 549
     },
     {
       "id": "OJWJE0x7T4Q",
@@ -434,7 +1217,23 @@
       "channel": "Peter Gabriel",
       "duration": "5:45",
       "createdAt": 1537625580000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Peter Gabriel - Sledgehammer (HD version)",
+      "externalIds": {
+        "musicbrainz-track": "5834726b-23ad-3ecd-8670-80bab698966f",
+        "musicbrainz-artist": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5",
+        "lastfm": "Peter+Gabriel/_/Sledgehammer"
+      },
+      "listeners": 477835,
+      "playcount": 2735291,
+      "lastfmSummary": "\"Sledgehammer\" is a song by rock musician Peter Gabriel. It was released as the lead single from his fifth studio album, So. It reached #1 on the Billboard Hot 100 chart in the United States on July 26, 1986; #1 in Canada on July 21, 1986, where it spent four weeks; and #4 on the UK Singles Chart, thanks in part to its music video. It was his biggest hit in North America and ties with \"Games Without Frontiers\" as his biggest hit in the United Kingdom. <a href=\"http://www.last.fm/music/Peter+Gabriel/_/Sledgehammer\">Read more on Last.fm</a>.",
+      "tags": [
+        "80s",
+        "rock",
+        "progressive rock",
+        "pop",
+        "classic rock"
+      ]
     },
     {
       "id": "5qrGOi41iwE",
@@ -442,7 +1241,19 @@
       "channel": "boggieofficial",
       "duration": "3:34",
       "createdAt": 1537614660000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "BOGGIE : PARFÜM",
+      "externalIds": {
+        "musicbrainz-track": "a9696b3f-1a98-48f2-9890-c617e040d54a",
+        "musicbrainz-artist": "381c55eb-4c6e-404e-966a-b1a82609bcd3",
+        "lastfm": "Boggie/_/PARF%C3%9CM"
+      },
+      "listeners": 2502,
+      "playcount": 19751,
+      "tags": [
+        "hungarian",
+        "boggie"
+      ]
     },
     {
       "id": "DXR8LsoBLYc",
@@ -450,7 +1261,8 @@
       "channel": "Maria Tabara",
       "duration": "7:59",
       "createdAt": 1537571160000,
-      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5"
+      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5",
+      "musicTitle": "seeking a friend for the end of the world  - beach song extended"
     },
     {
       "id": "A9hyLyVAZQE",
@@ -458,7 +1270,21 @@
       "channel": "Stan Brewer",
       "duration": "7:19",
       "createdAt": 1537512180000,
-      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5"
+      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5",
+      "musicTitle": "Robben Ford On That Morning",
+      "externalIds": {
+        "musicbrainz-track": "14b48682-d7a9-3aae-9947-5a32928c602c",
+        "musicbrainz-artist": "9c17c956-de06-4463-9a87-234652c306dc",
+        "lastfm": "Robben+Ford/_/On+That+Morning"
+      },
+      "listeners": 10629,
+      "playcount": 36554,
+      "tags": [
+        "jazz guitar",
+        "blues",
+        "jazz blues",
+        "smooth jazz"
+      ]
     },
     {
       "id": "G3BPfpTioKs",
@@ -466,7 +1292,21 @@
       "channel": "love112489",
       "duration": "4:22",
       "createdAt": 1537374360000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Art Farmer - Soul Sides",
+      "externalIds": {
+        "musicbrainz-track": "5fe8da0e-cf4b-4177-97c4-7042138464d3",
+        "musicbrainz-artist": "ee40fc76-9cbf-4862-bd00-e5f45e8d25d7",
+        "lastfm": "Art+Farmer/_/Soul+Sides"
+      },
+      "listeners": 3968,
+      "playcount": 10394,
+      "tags": [
+        "jazz",
+        "trumpet",
+        "funky",
+        "70s"
+      ]
     },
     {
       "id": "FSCgfI3OG7s",
@@ -474,7 +1314,8 @@
       "channel": "HD Film Tributes",
       "duration": "4:01",
       "createdAt": 1537371480000,
-      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5"
+      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5",
+      "musicTitle": "Fight Club • Where Is My Mind • Pixies"
     },
     {
       "id": "GEEsKdQkMEg",
@@ -482,7 +1323,27 @@
       "channel": "SONOROUS MUSIC",
       "duration": "4:17",
       "createdAt": 1537367940000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "artist": "Des Rocs",
+      "musicTitle": "Used to the Darkness",
+      "externalIds": {
+        "amazonMusic": "B0BDTPK9QJ",
+        "amazonStore": "B0BDTPK9QJ",
+        "soundcloud": "justyouraverageusername/used-to-the-darkness-by-des-rocs",
+        "tidal": "247787360",
+        "youtube": "GEEsKdQkMEg",
+        "youtubeMusic": "GEEsKdQkMEg",
+        "musicbrainz-track": "273e3c5e-5cd3-44da-8c95-f73098d7a98e",
+        "musicbrainz-artist": "af9fd1b2-e4e7-48fb-8ccc-4cfcfed5f0c1",
+        "lastfm": "Des+Rocs/_/Used+to+the+Darkness"
+      },
+      "tags": [
+        "alternative rock",
+        "soundtrack",
+        "legacies"
+      ],
+      "listeners": 101156,
+      "playcount": 861613
     },
     {
       "id": "9dZfw2Ymp8k",
@@ -490,7 +1351,28 @@
       "channel": "Marilena - 'Una sì tù'",
       "duration": "3:52",
       "createdAt": 1537229880000,
-      "userId": "e205cbf4ed741733c977b6c987b39c36baa719cd41f51cb0d3519f3b3956d726"
+      "userId": "e205cbf4ed741733c977b6c987b39c36baa719cd41f51cb0d3519f3b3956d726",
+      "artist": "I Muvrini",
+      "musicTitle": "Brame",
+      "externalIds": {
+        "amazonMusic": "B004AZC2ZW",
+        "amazonStore": "B004AZC2ZW",
+        "soundcloud": "i-muvrini/brame",
+        "youtube": "9dZfw2Ymp8k",
+        "youtubeMusic": "9dZfw2Ymp8k",
+        "musicbrainz-track": "9f8c3d29-3296-31d8-95e6-e9071ff2d523",
+        "musicbrainz-artist": "42e8e932-4eb2-4ec0-8d6a-83bd19e7ec8f",
+        "lastfm": "I+Muvrini/_/Brame"
+      },
+      "tags": [
+        "corsica",
+        "world",
+        "folk",
+        "world music",
+        "corsican"
+      ],
+      "listeners": 174,
+      "playcount": 601
     },
     {
       "id": "fjyf4qJtp60",
@@ -498,7 +1380,26 @@
       "channel": "DnB Ranger",
       "duration": "3:47",
       "createdAt": 1537186140000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Ordure",
+      "musicTitle": "Wafels",
+      "externalIds": {
+        "amazonMusic": "B073YKHR53",
+        "amazonStore": "B073YKHR53",
+        "soundcloud": "la90music/ordure-zerozero-wafels",
+        "tidal": "76364446",
+        "youtube": "fjyf4qJtp60",
+        "youtubeMusic": "fjyf4qJtp60",
+        "lastfm": "ORDURE/_/Wafels"
+      },
+      "tags": [
+        "glitch hop",
+        "dubstep",
+        "bass",
+        "drum & bass"
+      ],
+      "listeners": 41,
+      "playcount": 179
     },
     {
       "id": "B0V_6hfLxcY",
@@ -506,7 +1407,20 @@
       "channel": "JandemanRobinson",
       "duration": "3:11",
       "createdAt": 1537179660000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "musicTitle": "Soulwax - Conversation Intercom",
+      "externalIds": {
+        "musicbrainz-track": "18b7d909-e0ad-390b-a8f8-a981e2bd559e",
+        "musicbrainz-artist": "68ec1b08-3c2e-40b3-b0af-8f323743fdff",
+        "lastfm": "Soulwax/_/Conversation+Intercom"
+      },
+      "listeners": 51205,
+      "playcount": 195881,
+      "tags": [
+        "alternative rock",
+        "rock",
+        "indie rock"
+      ]
     },
     {
       "id": "J8jr-p0lQZo",
@@ -514,7 +1428,33 @@
       "channel": "weezer",
       "duration": "4:52",
       "createdAt": 1537172640000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Weezer",
+      "musicTitle": "Rosanna",
+      "externalIds": {
+        "amazonMusic": "B07D5MLZ5V",
+        "amazonStore": "B07D5MLZ5V",
+        "appleMusic": "1386893914",
+        "itunes": "1386893914",
+        "pandora": "TR:12602491",
+        "spotify": "46Em8Tk4iqp1qI9vT5dtf0",
+        "tidal": "89088187",
+        "yandex": "41252397",
+        "youtube": "J8jr-p0lQZo",
+        "youtubeMusic": "J8jr-p0lQZo",
+        "musicbrainz-track": "0b439bd2-9eac-440c-958a-4ba9fc86076a",
+        "musicbrainz-artist": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+        "lastfm": "Weezer/_/Rosanna"
+      },
+      "tags": [
+        "alternative",
+        "rock",
+        "covers",
+        "classic"
+      ],
+      "listeners": 21811,
+      "playcount": 98787,
+      "lastfmSummary": "In December 2017 a Twitter account called @weezerafrica started a campaign for Weezer to cover Africa. In May 2018 Weezer responded by covering Rosanna by Toto instead.  <a href=\"http://www.last.fm/music/Weezer/_/Rosanna\">Read more on Last.fm</a>."
     },
     {
       "id": "s8skpM9GkF8",
@@ -522,7 +1462,8 @@
       "channel": "MouthandFoot",
       "duration": "3:50",
       "createdAt": 1537142700000,
-      "userId": "7bb0cf4c64273cfcf7b19f589c47bbe971e34ba3ca995b8d0c64961e84f76ae2"
+      "userId": "7bb0cf4c64273cfcf7b19f589c47bbe971e34ba3ca995b8d0c64961e84f76ae2",
+      "musicTitle": "The Foot and Mouth - SCHLUCK BETON  |  הפה והטלפיים - שלוק בטון"
     },
     {
       "id": "IWsQgmq-fNs",
@@ -530,7 +1471,25 @@
       "channel": "Kraftwerk CZ",
       "duration": "6:39",
       "createdAt": 1537063920000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Kraftwerk",
+      "musicTitle": "Radioactivity - 2009 Remaster",
+      "externalIds": {
+        "amazonMusic": "B002PCZP2O",
+        "amazonStore": "B002PCZP2O",
+        "spotify": "3kwql90R2gmkK12R8uGHCs",
+        "youtube": "IWsQgmq-fNs",
+        "youtubeMusic": "IWsQgmq-fNs",
+        "lastfm": "Kraftwerk/_/Radioactivity+-+2009+Remaster"
+      },
+      "tags": [
+        "electronic",
+        "pop",
+        "synthpop",
+        "my favourite songs"
+      ],
+      "listeners": 63025,
+      "playcount": 231792
     },
     {
       "id": "3uneA-cstZs",
@@ -538,7 +1497,13 @@
       "channel": "GuitarXplosion",
       "duration": "9:04",
       "createdAt": 1537041420000,
-      "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
+      "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009",
+      "musicTitle": "B.B. King with Slash \"The Thrill Is Gone\". Amazing.",
+      "externalIds": {
+        "lastfm": "B.B.+King+with+Slash/_/The+Thrill+Is+Gone"
+      },
+      "listeners": 434,
+      "playcount": 622
     },
     {
       "id": "ZEvQOPUHGH8",
@@ -546,7 +1511,25 @@
       "channel": "Jesse Stewart",
       "duration": "3:40",
       "createdAt": 1537014120000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Jesse Stewart",
+      "musicTitle": "Cold Beer (Cry Tunes)",
+      "externalIds": {
+        "audiomack": "16306066",
+        "soundcloud": "eatsh1t/cold-beer-jesse-stewart-deep-in-cider",
+        "youtube": "ZEvQOPUHGH8",
+        "youtubeMusic": "ZEvQOPUHGH8",
+        "musicbrainz-track": "5e8faeb2-2d56-4825-b8aa-9cf2c56825f7",
+        "musicbrainz-artist": "f8030962-bf92-469f-a077-ff78f3897bd0",
+        "lastfm": "Jesse+Stewart/_/Cold+Beer+(Cry+Tunes)"
+      },
+      "tags": [
+        "folk punk",
+        "folk",
+        "punk"
+      ],
+      "listeners": 10419,
+      "playcount": 90285
     },
     {
       "id": "t1kHdIU8Uek",
@@ -554,7 +1537,33 @@
       "channel": "CenixCcustoms",
       "duration": "4:08",
       "createdAt": 1536836940000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Gary Moore",
+      "musicTitle": "Still Got The Blues",
+      "externalIds": {
+        "amazonMusic": "B004PVXJFS",
+        "amazonStore": "B004PVXJFS",
+        "audius": "4b33d",
+        "boomplay": "2700535",
+        "soundcloud": "gary-moore-official/still-got-the-blues",
+        "spotify": "0DnGfA1r8pAssJCuq4ojla",
+        "tidal": "144923",
+        "yandex": "345238",
+        "youtube": "t1kHdIU8Uek",
+        "youtubeMusic": "t1kHdIU8Uek",
+        "musicbrainz-artist": "a8806b5c-3ee0-4277-94d3-1a5427a7707c",
+        "lastfm": "Gary+Moore/_/Still+Got+the+Blues"
+      },
+      "tags": [
+        "blues",
+        "blues rock",
+        "classic rock",
+        "guitar",
+        "rock"
+      ],
+      "listeners": 396731,
+      "playcount": 2286023,
+      "lastfmSummary": "\"Still Got the Blues\", sometimes \"Still Got the Blues (For You)\", is a song written by Northern Irish guitarist Gary Moore that features as the title track from his 1990 album of the same name.  Released as a single, it reached #31 on the UK Singles Chart in May 1990 and is the only single of Moore's solo career to chart on the US Billboard Hot 100 where it reached #97 on 16 February 1991. Moore played his Les Paul Standard Guitar throughout the song. <a href=\"http://www.last.fm/music/Gary+Moore/_/Still+Got+the+Blues\">Read more on Last.fm</a>."
     },
     {
       "id": "y6RoJ4GIM9k",
@@ -562,7 +1571,30 @@
       "channel": "MrAlstec",
       "duration": "6:17",
       "createdAt": 1536778680000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Built To Spill",
+      "musicTitle": "Things Fall Apart",
+      "externalIds": {
+        "amazonMusic": "B002Q6J1HE",
+        "amazonStore": "B002Q6J1HE",
+        "boomplay": "4210625",
+        "pandora": "TR:1431864",
+        "soundcloud": "builttospill/things-fall-apart-1",
+        "tidal": "3121332",
+        "youtube": "y6RoJ4GIM9k",
+        "youtubeMusic": "y6RoJ4GIM9k",
+        "musicbrainz-track": "0b88f772-34bc-4f5c-b2e9-34f8741e1859",
+        "musicbrainz-artist": "3ac482b8-1494-4071-a0e9-f192f9d2c2b0",
+        "lastfm": "Built+to+Spill/_/Things+Fall+Apart"
+      },
+      "tags": [
+        "indie rock",
+        "when surrounded by zombies and with only one bullet left i would listen to this songs first and then kill myself",
+        "story of my life",
+        "awesome guitar jams"
+      ],
+      "listeners": 39993,
+      "playcount": 197691
     },
     {
       "id": "_XeCb_8H19w",
@@ -570,7 +1602,8 @@
       "channel": "Ramallah First",
       "duration": "4:16",
       "createdAt": 1536731880000,
-      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
+      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6",
+      "musicTitle": "Wen A' Ramallah / وين ع رام الله"
     },
     {
       "id": "g6A6pMO_WKM",
@@ -578,7 +1611,8 @@
       "channel": "xMCRandLPxForever",
       "duration": "4:49",
       "createdAt": 1536717000000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "Pointer Sisters - I'm So Excited."
     },
     {
       "id": "VqoyKzgkqR4",
@@ -586,7 +1620,36 @@
       "channel": "Ghost",
       "duration": "4:00",
       "createdAt": 1536671400000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Ghost",
+      "musicTitle": "Square Hammer",
+      "externalIds": {
+        "amazonMusic": "B01LRZ2LOE",
+        "amazonStore": "B01LRZ2LOE",
+        "audius": "gzJx9",
+        "anghami": "16925219",
+        "boomplay": "2912091",
+        "pandora": "TR:5550901",
+        "soundcloud": "thebandghost/square-hammer",
+        "spotify": "2XgTw2co6xv95TmKpMcL70",
+        "tidal": "64663909",
+        "yandex": "31174946",
+        "youtube": "VqoyKzgkqR4",
+        "youtubeMusic": "VqoyKzgkqR4",
+        "musicbrainz-track": "d8238961-00f3-4955-af02-41b9c3d17051",
+        "musicbrainz-artist": "2bcf2e02-5bc3-4c76-bf76-41126cb11444",
+        "lastfm": "Ghost/_/Square+Hammer"
+      },
+      "tags": [
+        "heavy metal",
+        "hard rock",
+        "rock",
+        "metal",
+        "swedish"
+      ],
+      "listeners": 431564,
+      "playcount": 6346008,
+      "lastfmSummary": "\"Square Hammer\" is a song by Swedish rock band Ghost. It was released as the lead single from the group's second EP Popestar. The song peaked at No. 1 on the Billboard Mainstream Rock chart in January 2017, making the band the first Swedish band to top the chart. \"Square Hammer\" was one of the official theme songs for NXT TakeOver: San Antonio. <a href=\"http://www.last.fm/music/Ghost/_/Square+Hammer\">Read more on Last.fm</a>."
     },
     {
       "id": "JQz5l55qtsY",
@@ -594,7 +1657,33 @@
       "channel": "Parcels",
       "duration": "3:58",
       "createdAt": 1536610380000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Parcels",
+      "musicTitle": "Lightenup",
+      "externalIds": {
+        "amazonMusic": "B07H2KW6VT",
+        "amazonStore": "B07H2KW6VT",
+        "deezer": "565766392",
+        "appleMusic": "1420157743",
+        "itunes": "1420157743",
+        "napster": "tra.331928598",
+        "pandora": "TR:14972046",
+        "soundcloud": "parcels-music/parcels-lightenup",
+        "spotify": "1qtiESAzfGMw3YqJvI97ki",
+        "tidal": "100993863",
+        "yandex": "45979212",
+        "youtube": "JQz5l55qtsY",
+        "youtubeMusic": "JQz5l55qtsY",
+        "musicbrainz-artist": "5318e774-f5b6-4ee0-82cb-4dcf398c3ff8",
+        "lastfm": "Parcels/_/Lightenup"
+      },
+      "tags": [
+        "123 bpm",
+        "2018",
+        "2018 single"
+      ],
+      "listeners": 220113,
+      "playcount": 1392584
     },
     {
       "id": "tRFOjLIl7G0",
@@ -602,7 +1691,28 @@
       "channel": "MrAlstec",
       "duration": "4:00",
       "createdAt": 1536588720000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Built To Spill",
+      "musicTitle": "Strange",
+      "externalIds": {
+        "amazonMusic": "B001L2AT0W",
+        "amazonStore": "B001L2AT0W",
+        "pandora": "TR:99881",
+        "tidal": "10916033",
+        "youtube": "tRFOjLIl7G0",
+        "youtubeMusic": "tRFOjLIl7G0",
+        "musicbrainz-track": "032ac1f7-425f-446b-a280-b537faacd013",
+        "musicbrainz-artist": "3ac482b8-1494-4071-a0e9-f192f9d2c2b0",
+        "lastfm": "Built+to+Spill/_/Strange"
+      },
+      "tags": [
+        "indie rock",
+        "indie",
+        "alternative",
+        "rock"
+      ],
+      "listeners": 126427,
+      "playcount": 569814
     },
     {
       "id": "M9kxjxHNtbs",
@@ -610,7 +1720,30 @@
       "channel": "A Perfect Circle",
       "duration": "3:50",
       "createdAt": 1536580740000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "A Perfect Circle",
+      "musicTitle": "Delicious",
+      "externalIds": {
+        "amazonMusic": "B0DZVCSWC4",
+        "amazonStore": "B0DZVCSWC4",
+        "pandora": "TR:11893249",
+        "soundcloud": "a-perfect-circle-official/delicious",
+        "tidal": "87327117",
+        "youtube": "M9kxjxHNtbs",
+        "youtubeMusic": "M9kxjxHNtbs",
+        "musicbrainz-track": "08b787d6-49fb-4805-a696-9d3de2939547",
+        "musicbrainz-artist": "078a9376-3c04-4280-b7d7-b20e158f345d",
+        "lastfm": "A+Perfect+Circle/_/Delicious"
+      },
+      "tags": [
+        "alternative metal",
+        "progressive rock",
+        "alt rock",
+        "alternative rock",
+        "alternative"
+      ],
+      "listeners": 46980,
+      "playcount": 297287
     },
     {
       "id": "kkMMJ_4X9f4",
@@ -618,7 +1751,30 @@
       "channel": "mert.",
       "duration": "2:41",
       "createdAt": 1536359040000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Moderat",
+      "musicTitle": "Porc #1",
+      "externalIds": {
+        "amazonMusic": "B00299FX66",
+        "amazonStore": "B00299FX66",
+        "pandora": "TR:8002715",
+        "soundcloud": "godshot/moderat-porc-1",
+        "tidal": "87387749",
+        "youtube": "kkMMJ_4X9f4",
+        "youtubeMusic": "kkMMJ_4X9f4",
+        "musicbrainz-track": "5fa43bc0-7dc8-302f-b337-1e98dcae37a4",
+        "musicbrainz-artist": "7754905b-8bf7-48e2-935a-03d566fec464",
+        "lastfm": "Moderat/_/Porc+%231"
+      },
+      "tags": [
+        "electronic",
+        "instrumental",
+        "idm",
+        "electronica",
+        "pe jos"
+      ],
+      "listeners": 62672,
+      "playcount": 285038
     },
     {
       "id": "CqaAs_3azSs",
@@ -626,7 +1782,33 @@
       "channel": "GERIKO",
       "duration": "3:41",
       "createdAt": 1536351000000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "artist": "Lorn",
+      "musicTitle": "Anvil",
+      "externalIds": {
+        "amazonMusic": "B0B239S2XN",
+        "amazonStore": "B0B239S2XN",
+        "audius": "y4zd4",
+        "boomplay": "1460269",
+        "pandora": "TR:12414142",
+        "soundcloud": "user-686938444/lorn-anvil",
+        "spotify": "4eKN8RPS06OHyk8dTdempU",
+        "tidal": "230584969",
+        "yandex": "39288532",
+        "youtube": "CqaAs_3azSs",
+        "youtubeMusic": "CqaAs_3azSs",
+        "musicbrainz-track": "970513f3-8606-436d-a091-a095e9549fb0",
+        "musicbrainz-artist": "d7f7f338-7715-4a67-9589-586f70957824",
+        "lastfm": "Lorn/_/ANVIL"
+      },
+      "tags": [
+        "2015",
+        "rock",
+        "idm",
+        "electronic"
+      ],
+      "listeners": 161319,
+      "playcount": 1049874
     },
     {
       "id": "PTFK96KNfIE",
@@ -634,7 +1816,21 @@
       "channel": "Parcels",
       "duration": "4:31",
       "createdAt": 1536263100000,
-      "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
+      "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009",
+      "musicTitle": "Parcels - Tieduprightnow (Live in New York City)",
+      "tags": [
+        "alternative",
+        "indie",
+        "indie pop",
+        "australian",
+        "102 bpm"
+      ],
+      "externalIds": {
+        "musicbrainz-artist": "5318e774-f5b6-4ee0-82cb-4dcf398c3ff8",
+        "lastfm": "Parcels/_/Tieduprightnow"
+      },
+      "listeners": 421022,
+      "playcount": 3343579
     },
     {
       "id": "7I0Kt0g00u8",
@@ -642,7 +1838,30 @@
       "channel": "deepmiezbamboule",
       "duration": "4:51",
       "createdAt": 1536237660000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Pupkulies & Rebecca",
+      "musicTitle": "Windmills",
+      "externalIds": {
+        "amazonMusic": "B07BPMRV3M",
+        "amazonStore": "B07BPMRV3M",
+        "soundcloud": "pupkuliesrebecca/windmills",
+        "spotify": "3jYEkA8ImUymB3YT6fhhNJ",
+        "tidal": "86444228",
+        "youtube": "7I0Kt0g00u8",
+        "youtubeMusic": "7I0Kt0g00u8",
+        "musicbrainz-track": "66403659-ff0c-3aae-b27d-6bdbb13636fe",
+        "musicbrainz-artist": "ef5a79e3-43ec-433a-99ed-6dc42881aad8",
+        "lastfm": "Pupkulies+&+Rebecca/_/windmills"
+      },
+      "tags": [
+        "chillout",
+        "electronic",
+        "lounge",
+        "synthpop",
+        "minimal"
+      ],
+      "listeners": 2142,
+      "playcount": 9472
     },
     {
       "id": "iVvXB-Vwnco",
@@ -650,7 +1869,39 @@
       "channel": "Gojira",
       "duration": "3:35",
       "createdAt": 1536231180000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Gojira",
+      "musicTitle": "Silvera",
+      "externalIds": {
+        "amazonMusic": "B07VTJB548",
+        "amazonStore": "B07VTJB548",
+        "anghami": "14486397",
+        "boomplay": "3694682",
+        "deezer": "126338363",
+        "appleMusic": "1104432802",
+        "itunes": "1104432802",
+        "napster": "tra.230353781",
+        "pandora": "TR:5436190",
+        "soundcloud": "harshadasari/gojira-silvera",
+        "spotify": "5uunXHE4kIW6uS4HWAXaOQ",
+        "tidal": "61808366",
+        "yandex": "29091933",
+        "youtube": "iVvXB-Vwnco",
+        "youtubeMusic": "iVvXB-Vwnco",
+        "musicbrainz-track": "00d18422-b30c-473b-a132-f1552bf8867b",
+        "musicbrainz-artist": "1c5efd53-d6b6-4d63-9d22-a15025cf5f07",
+        "lastfm": "Gojira/_/Silvera"
+      },
+      "tags": [
+        "Progressive metal",
+        "groove metal",
+        "death metal",
+        "metal",
+        "progressive death metal"
+      ],
+      "listeners": 309192,
+      "playcount": 3335383,
+      "lastfmSummary": "'Silvera' is the second single from Gojira's sixth studio album 'Magma'. The song was released with an accompanying music video on May 20, 2016. <a href=\"http://www.last.fm/music/Gojira/_/Silvera\">Read more on Last.fm</a>."
     },
     {
       "id": "dfkgdAwQE88",
@@ -658,7 +1909,22 @@
       "channel": "ღ NightcoreGalaxy ღ",
       "duration": "3:18",
       "createdAt": 1536150240000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "「Nightcore」→ GRRRLS (AViVA) - (Lyrics)",
+      "externalIds": {
+        "musicbrainz-track": "44d0cafe-199a-43c9-a41c-02918bb1d0b1",
+        "musicbrainz-artist": "2925f8ba-1804-4bf3-b7b8-d46208064138",
+        "lastfm": "Aviva/_/GRRRLS"
+      },
+      "listeners": 175852,
+      "playcount": 1199893,
+      "tags": [
+        "electronic",
+        "vocal",
+        "sad",
+        "desperate",
+        "reggae pop"
+      ]
     },
     {
       "id": "m_q8IyYBrNk",
@@ -666,7 +1932,21 @@
       "channel": "DNDchannelVVV",
       "duration": "3:09",
       "createdAt": 1536060540000,
-      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
+      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6",
+      "musicTitle": "Dendemann - Stumpf ist Trumpf 3.0",
+      "externalIds": {
+        "musicbrainz-track": "17c5e886-4f30-46ec-aa31-425d3f4712fb",
+        "musicbrainz-artist": "e8533fd3-4e66-4ad5-8fe5-12a916f9c4a1",
+        "lastfm": "Dendemann/_/Stumpf+ist+Trumpf+3.0"
+      },
+      "listeners": 35800,
+      "playcount": 210778,
+      "tags": [
+        "german",
+        "hip-hop",
+        "hip hop",
+        "die wahren perlen deutschsprachiger popmusik"
+      ]
     },
     {
       "id": "Y5WzqMwqmxE",
@@ -674,7 +1954,29 @@
       "channel": "CargoRecordsGermany",
       "duration": "6:01",
       "createdAt": 1602368220000,
-      "userId": "e205cbf4ed741733c977b6c987b39c36baa719cd41f51cb0d3519f3b3956d726"
+      "userId": "e205cbf4ed741733c977b6c987b39c36baa719cd41f51cb0d3519f3b3956d726",
+      "artist": "Kurt Stenzel",
+      "musicTitle": "I Am Dune",
+      "externalIds": {
+        "amazonMusic": "B0DT2M7WRF",
+        "amazonStore": "B0DT2M7WRF",
+        "pandora": "TR:10498199",
+        "soundcloud": "kurtstenzel/i-am-dune",
+        "tidal": "411641696",
+        "youtube": "Y5WzqMwqmxE",
+        "youtubeMusic": "Y5WzqMwqmxE",
+        "musicbrainz-artist": "9e4251b1-2734-4f74-8860-9c095740be5c",
+        "lastfm": "Kurt+Stenzel/_/I+Am+Dune"
+      },
+      "tags": [
+        "soundtrack",
+        "score",
+        "krautrock",
+        "berlin school",
+        "horror synth"
+      ],
+      "listeners": 1064,
+      "playcount": 3085
     },
     {
       "id": "Mjyfiu3XqGI",
@@ -682,7 +1984,29 @@
       "channel": "CargoRecordsGermany",
       "duration": "1:37",
       "createdAt": 1536017640000,
-      "userId": "e205cbf4ed741733c977b6c987b39c36baa719cd41f51cb0d3519f3b3956d726"
+      "userId": "e205cbf4ed741733c977b6c987b39c36baa719cd41f51cb0d3519f3b3956d726",
+      "artist": "Kurt Stenzel",
+      "musicTitle": "Spiritual Warriors",
+      "externalIds": {
+        "amazonMusic": "B0DT2DLSZJ",
+        "amazonStore": "B0DT2DLSZJ",
+        "pandora": "TR:10498186",
+        "soundcloud": "kurtstenzel/spiritual-warriors",
+        "tidal": "411641681",
+        "youtube": "Mjyfiu3XqGI",
+        "youtubeMusic": "Mjyfiu3XqGI",
+        "musicbrainz-artist": "9e4251b1-2734-4f74-8860-9c095740be5c",
+        "lastfm": "Kurt+Stenzel/_/Spiritual+Warriors"
+      },
+      "tags": [
+        "soundtrack",
+        "score",
+        "krautrock",
+        "berlin school",
+        "horror synth"
+      ],
+      "listeners": 1328,
+      "playcount": 4083
     },
     {
       "id": "3z9uLdARaNU",
@@ -690,7 +2014,8 @@
       "channel": "Liam Hole",
       "duration": "27:26",
       "createdAt": 1535988780000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "THE T-WOG$ [Terry Wogan's Secret Pirate Radio (1-7) Full Show]"
     },
     {
       "id": "Fe1eev7fjPU",
@@ -698,7 +2023,16 @@
       "channel": "Majestic Casual",
       "duration": "4:01",
       "createdAt": 1535988240000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Photay",
+      "musicTitle": "Photay - Outré Lux (feat. Madison McFerrin)",
+      "externalIds": {
+        "amazonMusic": "B0725KH7JC",
+        "amazonStore": "B0725KH7JC",
+        "soundcloud": "astronautico/photay-outre-lux-feat-madison-mcferrin-1",
+        "youtube": "Fe1eev7fjPU",
+        "youtubeMusic": "Fe1eev7fjPU"
+      }
     },
     {
       "id": "6a5VT9FGRQ8",
@@ -706,7 +2040,18 @@
       "channel": "Styles Upon Styles",
       "duration": "4:12",
       "createdAt": 1535988000000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "King Garbage – Lost In The Sauce",
+      "externalIds": {
+        "musicbrainz-track": "1c317a2d-fe51-4087-9adc-6fc0376d412e",
+        "lastfm": "king+garbage/_/Lost+in+the+Sauce"
+      },
+      "listeners": 11072,
+      "playcount": 44100,
+      "tags": [
+        "nu jazz",
+        "music to get the pussy wet"
+      ]
     },
     {
       "id": "LlU4FuIJT2k",
@@ -714,7 +2059,36 @@
       "channel": "Lil Dicky",
       "duration": "5:55",
       "createdAt": 1535969340000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Lil Dicky",
+      "musicTitle": "Professional Rapper (feat. Snoop Dogg)",
+      "externalIds": {
+        "amazonMusic": "B08G474PQV",
+        "amazonStore": "B08G474PQV",
+        "audiomack": "28088284",
+        "boomplay": "3673071",
+        "deezer": "1053800742",
+        "appleMusic": "1528118201",
+        "itunes": "1528118201",
+        "pandora": "TR:5494947",
+        "soundcloud": "lil-dicky/professional-rapper-feat-snoop",
+        "spotify": "5TlAXiBCBwiQnIZUAA4Jkg",
+        "tidal": "152316608",
+        "yandex": "24571711",
+        "youtube": "LlU4FuIJT2k",
+        "youtubeMusic": "LlU4FuIJT2k",
+        "musicbrainz-artist": "3268f062-6e76-480a-a384-e1dd2a276afb",
+        "lastfm": "Lil+Dicky/_/Professional+Rapper+(feat.+Snoop+Dogg)"
+      },
+      "tags": [
+        "racist",
+        "stupid",
+        "racism",
+        "asshole",
+        "imbecile"
+      ],
+      "listeners": 129585,
+      "playcount": 731691
     },
     {
       "id": "akr9QFo1PSs",
@@ -722,7 +2096,28 @@
       "channel": "moonlitknight009",
       "duration": "3:18",
       "createdAt": 1535785740000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Brian Eno",
+      "musicTitle": "Burning Airlines Give You So Much More",
+      "externalIds": {
+        "amazonMusic": "B000TDES7Y",
+        "amazonStore": "B000TDES7Y",
+        "soundcloud": "brian-eno-official/burning-airlines-give-you-so",
+        "tidal": "155087",
+        "youtube": "akr9QFo1PSs",
+        "youtubeMusic": "akr9QFo1PSs",
+        "musicbrainz-track": "45692ff3-4404-485f-82bc-fb28469413a7",
+        "musicbrainz-artist": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
+        "lastfm": "Brian+Eno/_/Burning+Airlines+Give+You+So+Much+More"
+      },
+      "tags": [
+        "glam rock",
+        "70s",
+        "electronic",
+        "rock"
+      ],
+      "listeners": 44025,
+      "playcount": 207681
     },
     {
       "id": "CmDcWr1yqCc",
@@ -730,7 +2125,29 @@
       "channel": "motemamusic",
       "duration": "5:35",
       "createdAt": 1535750040000,
-      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5"
+      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5",
+      "artist": "Gregory Porter",
+      "musicTitle": "1960 What?",
+      "externalIds": {
+        "amazonMusic": "B09TG3D3BL",
+        "amazonStore": "B09TG3D3BL",
+        "boomplay": "74556496",
+        "pandora": "TR:62815812",
+        "soundcloud": "gregory-porter-official/1960-what-edit",
+        "spotify": "2jVCiPaxFCS4gl6vNaDp9S",
+        "tidal": "202910624",
+        "yandex": "15963689",
+        "youtube": "CmDcWr1yqCc",
+        "youtubeMusic": "CmDcWr1yqCc",
+        "musicbrainz-track": "36df3370-2c19-31d3-9857-3b298d10cd4f",
+        "musicbrainz-artist": "7ac1e33f-0cdf-4e81-b914-41830700d746",
+        "lastfm": "Gregory+Porter/_/1960+What%3F"
+      },
+      "tags": [
+        "jazz"
+      ],
+      "listeners": 17293,
+      "playcount": 55795
     },
     {
       "id": "Pc7PqYtWsSs",
@@ -738,7 +2155,13 @@
       "channel": "Blind Yackety",
       "duration": "2:45",
       "createdAt": 1535740740000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "Blind Yackety - Easy Days",
+      "externalIds": {
+        "lastfm": "Blind+Yackety/_/Easy+Days"
+      },
+      "listeners": 69,
+      "playcount": 241
     },
     {
       "id": "9RHFFeQ2tu4",
@@ -746,7 +2169,32 @@
       "channel": "Felix Colgrave",
       "duration": "4:10",
       "createdAt": 1535738220000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "artist": "Fever the Ghost",
+      "musicTitle": "Source",
+      "externalIds": {
+        "amazonMusic": "B00HFHKVNC",
+        "amazonStore": "B00HFHKVNC",
+        "anghami": "1166832114",
+        "boomplay": "37302536",
+        "deezer": "2451872555",
+        "soundcloud": "fevertheghost/source-1",
+        "spotify": "2t2f8SRVqZ7inLKs3Tvg2p",
+        "tidal": "318015500",
+        "yandex": "46161376",
+        "youtube": "9RHFFeQ2tu4",
+        "youtubeMusic": "9RHFFeQ2tu4",
+        "musicbrainz-track": "cfb0d027-4dd0-44dd-b614-31c36464bf53",
+        "lastfm": "Fever+The+Ghost/_/Source"
+      },
+      "tags": [
+        "psychedelic pop",
+        "indie rock",
+        "neo-psychedelia",
+        "alternative rock"
+      ],
+      "listeners": 95793,
+      "playcount": 726596
     },
     {
       "id": "0pDGZtkpAPY",
@@ -754,7 +2202,18 @@
       "channel": "Proved Records",
       "duration": "35:51",
       "createdAt": 1535693820000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Robohands - Green [Full Album]",
+      "tags": [
+        "jazz fusion"
+      ],
+      "externalIds": {
+        "musicbrainz-track": "47178226-1561-4ad8-bb41-a0ff8b78db85",
+        "musicbrainz-artist": "ccf9b52e-27f3-4737-baa1-7234df105c61",
+        "lastfm": "Robohands/_/Green"
+      },
+      "listeners": 47531,
+      "playcount": 171002
     },
     {
       "id": "QUMuDWDVd20",
@@ -762,7 +2221,28 @@
       "channel": "Rosa Felix",
       "duration": "8:22",
       "createdAt": 1535693220000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Alice Coltrane",
+      "musicTitle": "Turiya & Ramakrishna",
+      "externalIds": {
+        "amazonMusic": "B000W03MEE",
+        "amazonStore": "B000W03MEE",
+        "audius": "8O1KZaW",
+        "appleMusic": "1443797856",
+        "itunes": "1443797856",
+        "spotify": "3UI7esVev6AvqiFA7rEKZ2",
+        "youtube": "QUMuDWDVd20",
+        "youtubeMusic": "QUMuDWDVd20",
+        "musicbrainz-track": "1dcf3f98-23b0-402f-bc8d-9729c7cc68ed",
+        "musicbrainz-artist": "d24fc285-7b2f-47da-8ac5-4070b08570b1",
+        "lastfm": "Alice+Coltrane/_/Turiya+&+Ramakrishna"
+      },
+      "tags": [
+        "jazz"
+      ],
+      "listeners": 147434,
+      "playcount": 578226,
+      "lastfmSummary": "Appearing on her standout 1970 LP,  Ptah, The El Daoud, “Turiya And Ramakrishna” is a ballad that showcases Alice Coltrane‘s unique talents as a pianist. With the backbone of the track laid down by drummer Ben Riley and especially bassist Ron Carter, who puts in an unconventionally muscular performance here, Coltrane really has the opportunity to stretch out on the piano here, playing overlapping melodic lines and tapping into harmonic beauty. <a href=\"http://www.last.fm/music/Alice+Coltrane/_/Turiya+&+Ramakrishna\">Read more on Last.fm</a>."
     },
     {
       "id": "norOFK99InU",
@@ -770,7 +2250,18 @@
       "channel": "Coccolino Deep",
       "duration": "47:33",
       "createdAt": 1535668260000,
-      "userId": "7bb0cf4c64273cfcf7b19f589c47bbe971e34ba3ca995b8d0c64961e84f76ae2"
+      "userId": "7bb0cf4c64273cfcf7b19f589c47bbe971e34ba3ca995b8d0c64961e84f76ae2",
+      "musicTitle": "Coccolino Deep - Don't forget to fly",
+      "externalIds": {
+        "lastfm": "Coccolino+Deep/_/Don%27t+forget+to+fly"
+      },
+      "listeners": 1450,
+      "playcount": 4718,
+      "tags": [
+        "italian",
+        "deep house",
+        "electronic"
+      ]
     },
     {
       "id": "kTlP0bKR9nc",
@@ -778,7 +2269,22 @@
       "channel": "Der Analoge Kompromiss",
       "duration": "48:15",
       "createdAt": 1535640300000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Euzen / Metamorph (Full Album)",
+      "externalIds": {
+        "musicbrainz-track": "d50f87a0-fa4f-47f9-810d-675a07be8522",
+        "musicbrainz-artist": "3e7334f1-bc25-433c-97c1-52a75250d97b",
+        "lastfm": "Euzen/_/Metamorph"
+      },
+      "listeners": 1318,
+      "playcount": 7094,
+      "tags": [
+        "experimental",
+        "electronic",
+        "2015",
+        "best of 2015",
+        "folk"
+      ]
     },
     {
       "id": "u8ne5mD3c_w",
@@ -786,7 +2292,32 @@
       "channel": "Dubioza kolektiv",
       "duration": "3:25",
       "createdAt": 1535638620000,
-      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
+      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6",
+      "artist": "Dubioza kolektiv",
+      "musicTitle": "Hay Libertad",
+      "externalIds": {
+        "amazonMusic": "B01B0VZOS0",
+        "amazonStore": "B01B0VZOS0",
+        "appleMusic": "1078106403",
+        "itunes": "1078106403",
+        "pandora": "TR:5105040",
+        "soundcloud": "dubioza-kolektiv/10-hay-libertad-feat-la",
+        "spotify": "215T4Mg4JXPs7UpZhKWmqs",
+        "tidal": "58317202",
+        "yandex": "28289884",
+        "youtube": "u8ne5mD3c_w",
+        "youtubeMusic": "u8ne5mD3c_w",
+        "musicbrainz-track": "e1e8a9e3-5c7c-4c4b-864c-abd9321ed25d",
+        "lastfm": "Dubioza+Kolektiv/_/Hay+Libertad"
+      },
+      "tags": [
+        "dub",
+        "reggae",
+        "bosnian",
+        "ska"
+      ],
+      "listeners": 7474,
+      "playcount": 42965
     },
     {
       "id": "rJZYCSEs2g8",
@@ -794,7 +2325,19 @@
       "channel": "Harry Eyeball",
       "duration": "7:08",
       "createdAt": 1535619180000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Three - The Word Is Born of Flame & The End Is Begun",
+      "externalIds": {
+        "lastfm": "Three/_/The+Word+Is+Born+of+Flame+&+The+End+Is+Begun"
+      },
+      "listeners": 27,
+      "playcount": 30,
+      "tags": [
+        "progressive rock",
+        "punk",
+        "post-hardcore",
+        "emo"
+      ]
     },
     {
       "id": "SDvfbvuJtS8",
@@ -802,7 +2345,33 @@
       "channel": "A Perfect Circle",
       "duration": "4:42",
       "createdAt": 1535614140000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "A Perfect Circle",
+      "musicTitle": "The Doomed",
+      "externalIds": {
+        "amazonMusic": "B0DZVCZMY9",
+        "amazonStore": "B0DZVCZMY9",
+        "anghami": "35390885",
+        "boomplay": "4582827",
+        "pandora": "TR:11893246",
+        "soundcloud": "a-perfect-circle-official/the-doomed",
+        "spotify": "4D07vsUEpOoMO1LmFknt3D",
+        "tidal": "87327113",
+        "yandex": "37386511",
+        "youtube": "SDvfbvuJtS8",
+        "youtubeMusic": "SDvfbvuJtS8",
+        "musicbrainz-track": "c6015474-3292-4127-a745-63b0167fb7b9",
+        "musicbrainz-artist": "078a9376-3c04-4280-b7d7-b20e158f345d",
+        "lastfm": "A+Perfect+Circle/_/The+Doomed"
+      },
+      "tags": [
+        "progressive rock",
+        "alternative rock",
+        "alternative",
+        "alternative metal"
+      ],
+      "listeners": 129450,
+      "playcount": 1006491
     },
     {
       "id": "ZO6vmXtwiSc",
@@ -810,7 +2379,21 @@
       "channel": "Kozimierz",
       "duration": "3:20",
       "createdAt": 1535591400000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "Juliette Lewis - Hardly Wait",
+      "externalIds": {
+        "musicbrainz-track": "67336798-f94a-3aa7-b01c-9607da11e48f",
+        "musicbrainz-artist": "607dec4a-3efc-44ae-ba52-6d5cabcdd1cc",
+        "lastfm": "Juliette+Lewis/_/Hardly+Wait"
+      },
+      "listeners": 28410,
+      "playcount": 138368,
+      "tags": [
+        "rock",
+        "aggressive",
+        "soundtrack",
+        "female vocalist"
+      ]
     },
     {
       "id": "Qxz8-7goH_Y",
@@ -818,7 +2401,18 @@
       "channel": "Ron Wells",
       "duration": "2:47",
       "createdAt": 1535572500000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Tommy James And The Shondells",
+      "musicTitle": "Draggin' the Line",
+      "externalIds": {
+        "amazonMusic": "B00122MO04",
+        "amazonStore": "B00122MO04",
+        "soundcloud": "tommyjamesofficial/draggin-the-line-2",
+        "spotify": "22QMzoI3O7yNnttjKq9SfF",
+        "tidal": "34454749",
+        "youtube": "Qxz8-7goH_Y",
+        "youtubeMusic": "Qxz8-7goH_Y"
+      }
     },
     {
       "id": "QHNakk1oM7g",
@@ -826,7 +2420,19 @@
       "channel": "NewRetroWave",
       "duration": "4:40",
       "createdAt": 1535439600000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Daniel Deluxe - Star Eater",
+      "externalIds": {
+        "musicbrainz-track": "4ea6b37e-15ca-4888-b5fa-98abfc5f2c95",
+        "musicbrainz-artist": "20e17bb3-4b34-48d3-bc35-d8e6638e3b4d",
+        "lastfm": "Daniel+Deluxe/_/Star+Eater"
+      },
+      "listeners": 96288,
+      "playcount": 537456,
+      "tags": [
+        "synthwave",
+        "dark"
+      ]
     },
     {
       "id": "Gc67C94wSx0",
@@ -834,7 +2440,20 @@
       "channel": "BD",
       "duration": "6:50",
       "createdAt": 1535416080000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "Dub FX 18/04/2009 'Society Gates'",
+      "externalIds": {
+        "musicbrainz-track": "5c5d9801-1222-35f1-ab96-621325380217",
+        "lastfm": "Dub+Fx/_/Society+Gates"
+      },
+      "listeners": 43833,
+      "playcount": 307855,
+      "tags": [
+        "beatbox",
+        "dubstep",
+        "dub",
+        "experimental"
+      ]
     },
     {
       "id": "jm0PcQJ0VzU",
@@ -842,7 +2461,28 @@
       "channel": "TheROCKfromABOVE777",
       "duration": "7:36",
       "createdAt": 1535414460000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "artist": "Tourniquet",
+      "musicTitle": "The Tomb of Gilgamesh",
+      "externalIds": {
+        "amazonMusic": "B007VL8BY8",
+        "amazonStore": "B007VL8BY8",
+        "pandora": "TR:575553",
+        "soundcloud": "metalbladerecords/tourniquet-the-tomb-of",
+        "tidal": "30121453",
+        "youtube": "jm0PcQJ0VzU",
+        "youtubeMusic": "jm0PcQJ0VzU",
+        "lastfm": "Tourniquet/_/The+Tomb+of+Gilgamesh"
+      },
+      "tags": [
+        "favourite songs",
+        "punk influences",
+        "use of a string ensemble",
+        "minor key tonality",
+        "paired vocal harmony"
+      ],
+      "listeners": 2609,
+      "playcount": 12883
     },
     {
       "id": "TcpGA45iKRM",
@@ -850,7 +2490,29 @@
       "channel": "scoobbydrew02",
       "duration": "9:34",
       "createdAt": 1535414220000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "artist": "Tourniquet",
+      "musicTitle": "Healing Waters of the Tigris",
+      "externalIds": {
+        "amazonMusic": "B007VL7VPS",
+        "amazonStore": "B007VL7VPS",
+        "pandora": "TR:571031",
+        "spotify": "37Nki9jN8xqA7qD2kHF6DY",
+        "tidal": "30121469",
+        "youtube": "TcpGA45iKRM",
+        "youtubeMusic": "TcpGA45iKRM",
+        "musicbrainz-track": "40b61c25-e7e8-3bfb-91b1-c34603f184be",
+        "musicbrainz-artist": "0770a42f-10e3-4204-8459-0c6fba885852",
+        "lastfm": "Tourniquet/_/Healing+Waters+Of+The+Tigris"
+      },
+      "tags": [
+        "progressive metal",
+        "metal",
+        "christian metal",
+        "thrash metal"
+      ],
+      "listeners": 2113,
+      "playcount": 9390
     },
     {
       "id": "r2-N4hh2DWM",
@@ -858,7 +2520,19 @@
       "channel": "Maite Hontelé",
       "duration": "5:56",
       "createdAt": 1535379540000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Maite Hontelé - Nochecita ft. Herencia de Timbiquí (Video Oficial)",
+      "externalIds": {
+        "musicbrainz-artist": "b767bdf4-3d93-419d-a1b0-ad742eac8d77",
+        "lastfm": "Maite+Hontel%C3%A9/_/Nochecita"
+      },
+      "listeners": 3456,
+      "playcount": 18365,
+      "tags": [
+        "latin",
+        "trumpet",
+        "salsa"
+      ]
     },
     {
       "id": "Brs__9VzDqM",
@@ -866,7 +2540,19 @@
       "channel": "Maite Hontelé",
       "duration": "5:09",
       "createdAt": 1535379120000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Maite Hontelé - Me Da Igual (Video Oficial)",
+      "externalIds": {
+        "musicbrainz-artist": "b767bdf4-3d93-419d-a1b0-ad742eac8d77",
+        "lastfm": "Maite+Hontel%C3%A9/_/Me+da+Igual"
+      },
+      "listeners": 734,
+      "playcount": 2717,
+      "tags": [
+        "latin",
+        "trumpet",
+        "salsa"
+      ]
     },
     {
       "id": "p3UBw1NMt-A",
@@ -874,7 +2560,25 @@
       "channel": "Drum&BassArena",
       "duration": "5:37",
       "createdAt": 1535375340000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Current Value",
+      "musicTitle": "Of Truth",
+      "externalIds": {
+        "amazonMusic": "B0DC1B9RN8",
+        "amazonStore": "B0DC1B9RN8",
+        "soundcloud": "drumandbassarena/current-value-of-truth",
+        "tidal": "379023817",
+        "youtube": "p3UBw1NMt-A",
+        "youtubeMusic": "p3UBw1NMt-A",
+        "musicbrainz-track": "7bc3ccd7-f7ab-4927-b3f4-b23c3e47de68",
+        "musicbrainz-artist": "caf4109a-05e5-4067-b619-b705d137f68d",
+        "lastfm": "Current+Value/_/Of+Truth"
+      },
+      "tags": [
+        "jump up"
+      ],
+      "listeners": 671,
+      "playcount": 2571
     },
     {
       "id": "a01QQZyl-_I",
@@ -882,7 +2586,37 @@
       "channel": "Queen Official",
       "duration": "4:14",
       "createdAt": 1535368080000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Queen",
+      "musicTitle": "Under Pressure",
+      "externalIds": {
+        "amazonMusic": "B01JD7DA7A",
+        "amazonStore": "B01JD7DA7A",
+        "audius": "P5joQNp",
+        "anghami": "1361777",
+        "boomplay": "2850858",
+        "appleMusic": "1440651291",
+        "itunes": "1440651291",
+        "pandora": "TR:1764394",
+        "soundcloud": "queen-69312/under-pressure",
+        "spotify": "11IzgLRXV7Cgek3tEgGgjw",
+        "tidal": "36738079",
+        "yandex": "1710798",
+        "youtube": "a01QQZyl-_I",
+        "youtubeMusic": "a01QQZyl-_I",
+        "musicbrainz-artist": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+        "lastfm": "Queen/_/Under+Pressure"
+      },
+      "tags": [
+        "classic rock",
+        "rock",
+        "80s",
+        "glam rock",
+        "queen"
+      ],
+      "listeners": 1046457,
+      "playcount": 6777847,
+      "lastfmSummary": "\"Under Pressure\" is a 1981 song by Queen and David Bowie. It marked Queen's first released collaboration with another recording artist, and is featured on their 1982 album Hot Space. The song reached #1 on the UK Singles Chart. It was also number 31 on VH1's 100 Greatest Songs of the '80s.\n\nBowie had originally come to the studios in order to sing backing vocals on another Queen song, \"Cool Cat\". For whatever reason, Bowie was not satisfied with his contribution, and his vocals were removed from the track.  <a href=\"http://www.last.fm/music/Queen/_/Under+Pressure\">Read more on Last.fm</a>."
     },
     {
       "id": "CIpOxa5hxOw",
@@ -890,7 +2624,8 @@
       "channel": "Luca Stricagnoli",
       "duration": "3:06",
       "createdAt": 1535299140000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "“The Prodigy\" on an Acoustic Guitar - Luca Stricagnoli - Fingerstyle Guitar"
     },
     {
       "id": "G_U74eyB5o8",
@@ -898,7 +2633,30 @@
       "channel": "The Prodigy",
       "duration": "3:21",
       "createdAt": 1535232120000,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "artist": "The Prodigy",
+      "musicTitle": "Need Some1",
+      "externalIds": {
+        "amazonMusic": "B0DZWNGZQV",
+        "amazonStore": "B0DZWNGZQV",
+        "pandora": "TR:15248740",
+        "soundcloud": "theprodigy/need-some1",
+        "spotify": "29MNXSZGC5vL3ej4qewiFZ",
+        "tidal": "97695022",
+        "yandex": "41866229",
+        "youtube": "G_U74eyB5o8",
+        "youtubeMusic": "G_U74eyB5o8",
+        "musicbrainz-track": "6acd7a38-baf5-4f7f-ad4b-20750727654e",
+        "musicbrainz-artist": "4a4ee089-93b1-4470-af9a-6ff575d32704",
+        "lastfm": "The+Prodigy/_/Need+Some1"
+      },
+      "tags": [
+        "electronic",
+        "big beat",
+        "breakbeat"
+      ],
+      "listeners": 82482,
+      "playcount": 442366
     },
     {
       "id": "94QVyAi4yWE",
@@ -906,7 +2664,35 @@
       "channel": "Fort Minor",
       "duration": "3:41",
       "createdAt": 1535219040000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Fort Minor",
+      "musicTitle": "Cigarettes",
+      "externalIds": {
+        "amazonMusic": "B0042GJBCG",
+        "amazonStore": "B0042GJBCG",
+        "boomplay": "4386516",
+        "appleMusic": "1345122045",
+        "itunes": "1345122045",
+        "pandora": "TR:110827743",
+        "soundcloud": "fort-minor-official/cigarettes-1",
+        "spotify": "2ZtyX1d1zfD2NXa5kFcPKH",
+        "tidal": "2123807",
+        "yandex": "149852",
+        "youtube": "94QVyAi4yWE",
+        "youtubeMusic": "94QVyAi4yWE",
+        "musicbrainz-track": "dacb77e4-baf9-480b-974e-157665cacd89",
+        "musicbrainz-artist": "e1564e98-978b-4947-8698-f6fd6f8b0181",
+        "lastfm": "Fort+Minor/_/Cigarettes"
+      },
+      "tags": [
+        "hip-hop",
+        "rap",
+        "fort minor",
+        "alternative",
+        "hip hop"
+      ],
+      "listeners": 206803,
+      "playcount": 992047
     },
     {
       "id": "A6w8qktl4Ms",
@@ -914,7 +2700,29 @@
       "channel": "arsenalbe",
       "duration": "4:38",
       "createdAt": 1535038620000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Arsenal",
+      "musicTitle": "Black Mountain (Beautiful Love)",
+      "externalIds": {
+        "amazonMusic": "B073Q8RKJQ",
+        "amazonStore": "B073Q8RKJQ",
+        "pandora": "TR:6363836",
+        "soundcloud": "anjunadeep/marsh-black-mountain-1",
+        "tidal": "27100906",
+        "youtube": "A6w8qktl4Ms",
+        "youtubeMusic": "A6w8qktl4Ms",
+        "musicbrainz-track": "451bbb76-c2f8-44d5-9522-31d07f2ec621",
+        "musicbrainz-artist": "8d834b78-b9dd-4241-8f70-98b963eded68",
+        "lastfm": "Arsenal/_/Black+Mountain+(Beautiful+Love)"
+      },
+      "tags": [
+        "steunfonds",
+        "rock",
+        "belgium",
+        "alternative"
+      ],
+      "listeners": 4768,
+      "playcount": 24668
     },
     {
       "id": "4fHw4GeW3EU",
@@ -922,7 +2730,20 @@
       "channel": "KEXP",
       "duration": "47:02",
       "createdAt": 1540384500000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Kiasmos - Full Performance (Live on KEXP)",
+      "externalIds": {
+        "lastfm": "Kiasmos/_/Full+Performance+(Live+on+KEXP)"
+      },
+      "listeners": 1820,
+      "playcount": 5736,
+      "tags": [
+        "electronic",
+        "minimal",
+        "techno",
+        "icelandic",
+        "experimental"
+      ]
     },
     {
       "id": "IBvf7KUEZ78",
@@ -930,7 +2751,20 @@
       "channel": "ALEXOP",
       "duration": "10:05",
       "createdAt": 1535027760000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Le Castle Vania - John Wick Medley",
+      "externalIds": {
+        "lastfm": "Le+Castle+Vania/_/John+Wick+Medley"
+      },
+      "listeners": 1908,
+      "playcount": 9262,
+      "tags": [
+        "electro",
+        "electronic",
+        "electro house",
+        "disco punk",
+        "dance"
+      ]
     },
     {
       "id": "Ci9zyYJwGW0",
@@ -938,7 +2772,17 @@
       "channel": "Dido",
       "duration": "7:08",
       "createdAt": 1534938060000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Max Roach & Abbey Lincoln - Lonesome Lover",
+      "externalIds": {
+        "lastfm": "Max+Roach+&+Abbey+Lincoln/_/Lonesome+Lover"
+      },
+      "listeners": 50,
+      "playcount": 112,
+      "tags": [
+        "jazz",
+        "bebop"
+      ]
     },
     {
       "id": "CWoNSADanoA",
@@ -946,7 +2790,19 @@
       "channel": "ABorlandFan",
       "duration": "5:55",
       "createdAt": 1534929420000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "The Sound - New Dark Age (HQ)",
+      "externalIds": {
+        "musicbrainz-track": "a2cd3599-b693-44f6-b476-7a079dd64068",
+        "musicbrainz-artist": "b2c36d47-e5e3-4ac8-a967-10e0265d3fff",
+        "lastfm": "The+Sound/_/New+Dark+Age"
+      },
+      "listeners": 30506,
+      "playcount": 137528,
+      "tags": [
+        "post-punk",
+        "new wave"
+      ]
     },
     {
       "id": "lSvD9sTXgto",
@@ -954,7 +2810,8 @@
       "channel": "Mental Set",
       "duration": "2:55",
       "createdAt": 1534922100000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "musicTitle": "Billy Joel - The Stranger Theme"
     },
     {
       "id": "gHg5rjCO3HI",
@@ -962,7 +2819,8 @@
       "channel": "L'ATTIRAIL - XAVIER DEMERLIAC",
       "duration": "4:02",
       "createdAt": 1534915680000,
-      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
+      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6",
+      "musicTitle": "L'Attirail - Hombre de Palabra - Clip Officiel"
     },
     {
       "id": "vqRWMDv0r78",
@@ -970,7 +2828,22 @@
       "channel": "KreisMusik",
       "duration": "5:45",
       "createdAt": 1534877460000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Käptn Peng & Die Tentakel von Delphi - Der Anfang ist nah",
+      "externalIds": {
+        "musicbrainz-track": "a9d42c42-652b-30c0-b793-0003aed6d158",
+        "musicbrainz-artist": "ee0d1ef4-876b-49cd-a8fe-a48725c128af",
+        "lastfm": "K%C3%A4ptn+Peng+&+Die+Tentakel+von+Delphi/_/Der+Anfang+Ist+Nah"
+      },
+      "listeners": 6379,
+      "playcount": 36396,
+      "tags": [
+        "hip hop",
+        "german hiphop",
+        "german",
+        "hip-hop",
+        "german hip-hop"
+      ]
     },
     {
       "id": "QCqKvfjAf5w",
@@ -978,7 +2851,8 @@
       "channel": "Aaron Redick",
       "duration": "3:55",
       "createdAt": 1534866240000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Dr Dre Marilyn Manson Remix"
     },
     {
       "id": "Apsj7ujfe9k",
@@ -986,7 +2860,16 @@
       "channel": "killTHEdjRECORDS",
       "duration": "4:18",
       "createdAt": 1534844220000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Peter Vitone",
+      "musicTitle": "Darkel - Be my Friend",
+      "externalIds": {
+        "amazonMusic": "B073NMTY85",
+        "amazonStore": "B073NMTY85",
+        "soundcloud": "cyrd-selection/darkel-be-my-friend",
+        "youtube": "Apsj7ujfe9k",
+        "youtubeMusic": "Apsj7ujfe9k"
+      }
     },
     {
       "id": "WEdPf2dFyaQ",
@@ -994,7 +2877,30 @@
       "channel": "Oro",
       "duration": "3:56",
       "createdAt": 1534774800000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Euzen",
+      "musicTitle": "The Stage",
+      "externalIds": {
+        "amazonMusic": "B08KPMF99Z",
+        "amazonStore": "B08KPMF99Z",
+        "pandora": "TR:36412785",
+        "soundcloud": "euzen-music/the-stage",
+        "tidal": "157129796",
+        "youtube": "WEdPf2dFyaQ",
+        "youtubeMusic": "WEdPf2dFyaQ",
+        "musicbrainz-track": "93fcfe6a-3f8b-471c-a6b5-885ecf2dfcec",
+        "musicbrainz-artist": "3e7334f1-bc25-433c-97c1-52a75250d97b",
+        "lastfm": "Euzen/_/The+Stage"
+      },
+      "tags": [
+        "experimental",
+        "electronic",
+        "2015",
+        "best of 2015",
+        "folk"
+      ],
+      "listeners": 1474,
+      "playcount": 7406
     },
     {
       "id": "FEiROI7AJys",
@@ -1002,7 +2908,22 @@
       "channel": "Deyvson Moutinho Caliman",
       "duration": "6:07",
       "createdAt": 1534774740000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Euzen - Metamorph - 07 Metamorph",
+      "externalIds": {
+        "musicbrainz-track": "d50f87a0-fa4f-47f9-810d-675a07be8522",
+        "musicbrainz-artist": "3e7334f1-bc25-433c-97c1-52a75250d97b",
+        "lastfm": "Euzen/_/Metamorph"
+      },
+      "listeners": 1318,
+      "playcount": 7094,
+      "tags": [
+        "experimental",
+        "electronic",
+        "2015",
+        "best of 2015",
+        "folk"
+      ]
     },
     {
       "id": "XOOafQoh4JU",
@@ -1010,7 +2931,31 @@
       "channel": "Skankandbass",
       "duration": "4:20",
       "createdAt": 1534765980000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Petroll",
+      "musicTitle": "Spectral",
+      "externalIds": {
+        "amazonMusic": "B09GP29M1R",
+        "amazonStore": "B09GP29M1R",
+        "pandora": "TR:11585476",
+        "soundcloud": "skankandbass/petroll-spectral",
+        "spotify": "0cARCDrWAgK3vi5ClNteoh",
+        "tidal": "131684077",
+        "youtube": "XOOafQoh4JU",
+        "youtubeMusic": "XOOafQoh4JU",
+        "musicbrainz-track": "4b0455ab-af03-4cdf-b00b-bb5c1dde5a7a",
+        "musicbrainz-artist": "86794e65-393a-4bf1-b271-7b0c32d0ac12",
+        "lastfm": "Petroll/_/Spectral"
+      },
+      "tags": [
+        "drum and bass",
+        "jungle",
+        "dubstep",
+        "uk garage",
+        "footwork"
+      ],
+      "listeners": 197,
+      "playcount": 989
     },
     {
       "id": "FyxaZP5oAAQ",
@@ -1018,7 +2963,29 @@
       "channel": "Rayuela93",
       "duration": "3:18",
       "createdAt": 1534756560000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Silvio Rodríguez",
+      "musicTitle": "Fusil Contra Fusil",
+      "externalIds": {
+        "amazonMusic": "B07L456FQ6",
+        "amazonStore": "B07L456FQ6",
+        "pandora": "TR:15744906",
+        "tidal": "100393777",
+        "youtube": "FyxaZP5oAAQ",
+        "youtubeMusic": "FyxaZP5oAAQ",
+        "musicbrainz-track": "0529958c-5735-3a18-8c78-dee935510118",
+        "musicbrainz-artist": "42e1a761-429e-403c-971a-e85c2f748cfa",
+        "lastfm": "SILVIO+RODR%C3%8DGUEZ/_/FUSIL+CONTRA+FUSIL"
+      },
+      "tags": [
+        "singer-songwriter",
+        "folk",
+        "live",
+        "world",
+        "cuban"
+      ],
+      "listeners": 4132,
+      "playcount": 19877
     },
     {
       "id": "G6r1dAire0Y",
@@ -1026,7 +2993,13 @@
       "channel": "Frog Leap Studios",
       "duration": "6:47",
       "createdAt": 1534726980000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "Eye of the Tiger (metal cover by Leo Moracchioli feat. Rob Lundgren)",
+      "externalIds": {
+        "lastfm": "Leo+Moracchioli+feat.+Rob+Lundgren/_/Eye+of+the+Tiger"
+      },
+      "listeners": 351,
+      "playcount": 1470
     },
     {
       "id": "yNENVZFHutQ",
@@ -1034,7 +3007,24 @@
       "channel": "Frog Leap Studios",
       "duration": "5:31",
       "createdAt": 1534726620000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "artist": "Leo Moracchioli",
+      "musicTitle": "Feel Good Inc. (metal cover by Leo Moracchioli)",
+      "externalIds": {
+        "audiomack": "6477181",
+        "soundcloud": "user-613529228-324398191/feel-good-inc-metal-cover-by-leo-moracchioli",
+        "youtube": "yNENVZFHutQ",
+        "youtubeMusic": "yNENVZFHutQ",
+        "lastfm": "Leo+Moracchioli/_/Feel+Good+Inc.+(metal+cover+by+Leo+Moracchioli)"
+      },
+      "tags": [
+        "metal",
+        "norwegian",
+        "hard rock",
+        "metal cover"
+      ],
+      "listeners": 32,
+      "playcount": 528
     },
     {
       "id": "Y6ZDg31GGjg",
@@ -1042,7 +3032,27 @@
       "channel": "FabianMCL",
       "duration": "3:39",
       "createdAt": 1534612440000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Silvio Rodríguez",
+      "musicTitle": "Fusil Contra Fusil",
+      "externalIds": {
+        "soundcloud": "silviorodriguezofficial/fusil-contra-fusil-3",
+        "spotify": "1skZcwDAXEi84LU2DWjMC2",
+        "youtube": "Y6ZDg31GGjg",
+        "youtubeMusic": "Y6ZDg31GGjg",
+        "musicbrainz-track": "0529958c-5735-3a18-8c78-dee935510118",
+        "musicbrainz-artist": "42e1a761-429e-403c-971a-e85c2f748cfa",
+        "lastfm": "SILVIO+RODR%C3%8DGUEZ/_/FUSIL+CONTRA+FUSIL"
+      },
+      "tags": [
+        "singer-songwriter",
+        "folk",
+        "live",
+        "world",
+        "cuban"
+      ],
+      "listeners": 4132,
+      "playcount": 19877
     },
     {
       "id": "G89ZkEBmHHk",
@@ -1050,7 +3060,31 @@
       "channel": "Turkum",
       "duration": "2:52",
       "createdAt": 1534590840000,
-      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac"
+      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac",
+      "artist": "Türküm",
+      "musicTitle": "Take Me Higher",
+      "externalIds": {
+        "amazonMusic": "B07B86XY75",
+        "amazonStore": "B07B86XY75",
+        "appleMusic": "1355898982",
+        "itunes": "1355898982",
+        "pandora": "TR:56422549",
+        "spotify": "3JsHb6kGapOwesN8SfMWcL",
+        "tidal": "85484912",
+        "yandex": "39555509",
+        "youtube": "G89ZkEBmHHk",
+        "youtubeMusic": "G89ZkEBmHHk",
+        "lastfm": "T%C3%BCrk%C3%BCm/_/Take+Me+Higher"
+      },
+      "tags": [
+        "electronic",
+        "good",
+        "turkish",
+        "trap",
+        "electronic superhighway"
+      ],
+      "listeners": 6831,
+      "playcount": 23717
     },
     {
       "id": "qBjbEi3dNOc",
@@ -1058,7 +3092,32 @@
       "channel": "The Correspondents",
       "duration": "3:30",
       "createdAt": 1534505580000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "The Correspondents",
+      "musicTitle": "Tonight",
+      "externalIds": {
+        "amazonMusic": "B074XM3XFH",
+        "amazonStore": "B074XM3XFH",
+        "appleMusic": "1272815511",
+        "itunes": "1272815511",
+        "pandora": "TR:19878425",
+        "soundcloud": "thecorrespondents/tonight",
+        "spotify": "3TcZRsxhKVTTHWuun73Wye",
+        "yandex": "50472759",
+        "youtube": "qBjbEi3dNOc",
+        "youtubeMusic": "qBjbEi3dNOc",
+        "musicbrainz-track": "32003ff9-2cb3-41ee-af3f-8ea4e1801b9f",
+        "musicbrainz-artist": "4d8d2c7c-978e-47ac-ba4a-9e798424bf83",
+        "lastfm": "The+Correspondents/_/Tonight"
+      },
+      "tags": [
+        "swing",
+        "swing-hop",
+        "electro-swing",
+        "electro swing"
+      ],
+      "listeners": 4513,
+      "playcount": 26216
     },
     {
       "id": "pYnHtfjypBQ",
@@ -1066,7 +3125,26 @@
       "channel": "Proximity",
       "duration": "4:04",
       "createdAt": 1534501260000,
-      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac"
+      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac",
+      "artist": "NGHTMRE & Carmada",
+      "musicTitle": "Embrace",
+      "externalIds": {
+        "amazonMusic": "B07DP817XK",
+        "amazonStore": "B07DP817XK",
+        "appleMusic": "1268855612",
+        "itunes": "1268855612",
+        "pandora": "TR:10637486",
+        "soundcloud": "nghtmre/nghtmre-carmada-embrace-feat-xavier-dunn",
+        "tidal": "78728590",
+        "youtube": "pYnHtfjypBQ",
+        "youtubeMusic": "pYnHtfjypBQ",
+        "lastfm": "NGHTMRE+&+Carmada/_/Embrace"
+      },
+      "tags": [
+        "united states"
+      ],
+      "listeners": 40,
+      "playcount": 103
     },
     {
       "id": "103bx_Waacc",
@@ -1074,7 +3152,33 @@
       "channel": "Namika",
       "duration": "3:11",
       "createdAt": 1572961260000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Namika",
+      "musicTitle": "Je ne parle pas français",
+      "externalIds": {
+        "amazonMusic": "B07DQPTN1J",
+        "amazonStore": "B07DQPTN1J",
+        "anghami": "36774122",
+        "boomplay": "25004309",
+        "deezer": "479680632",
+        "appleMusic": "1441774675",
+        "itunes": "1441774675",
+        "napster": "tra.313857933",
+        "pandora": "TR:15527692",
+        "soundcloud": "namika-official/je-ne-parle-pas-francais-1",
+        "spotify": "4eJqzRN15DabYK4byfWghD",
+        "tidal": "86585562",
+        "yandex": "42793805",
+        "youtube": "103bx_Waacc",
+        "youtubeMusic": "103bx_Waacc",
+        "lastfm": "Namika/_/Je+ne+parle+pas+fran%C3%A7ais"
+      },
+      "tags": [
+        "pop",
+        "german"
+      ],
+      "listeners": 25321,
+      "playcount": 168692
     },
     {
       "id": "1eWSDTrgRxA",
@@ -1082,7 +3186,20 @@
       "channel": "BICEP",
       "duration": "5:12",
       "createdAt": 1534410720000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "BICEP & HAMMER | ICEBOWL",
+      "externalIds": {
+        "musicbrainz-artist": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+        "lastfm": "Bicep/_/Icebowl"
+      },
+      "listeners": 6037,
+      "playcount": 21205,
+      "tags": [
+        "house",
+        "disco",
+        "techno",
+        "electronic"
+      ]
     },
     {
       "id": "eTAmQDQbxP8",
@@ -1090,7 +3207,21 @@
       "channel": "LOOK MUM NO COMPUTER",
       "duration": "5:09",
       "createdAt": 1534363380000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "musicTitle": "TLC No Scrubs - Live Electronic Cover / Remix",
+      "tags": [
+        "rnb",
+        "90s",
+        "pop",
+        "female vocalists",
+        "Hip-Hop"
+      ],
+      "externalIds": {
+        "lastfm": "TLC/_/No+Scrubs"
+      },
+      "listeners": 1706703,
+      "playcount": 12366499,
+      "lastfmSummary": "\"No Scrubs\" peaked at #1 on the U.S. Billboard Hot 100 Chart and U.S. Billboard Hot R&B/Hip-Hop Songs Chart in the Spring of 1999. It is a Grammy Award winning song written by Kevin \"She'kspere\" Briggs, Lisa \"Left Eye\" Lopes and former Xscape members Kandi Burruss and Tameka \"Tiny\" Cottle\n\nThis was the first single released from Fanmail, the follow-up to TLC's wildly successful second album CrazySexyCool, which sold over 11 million copies. \"No Scrubs\" kept them in the groove and was a major hit. <a href=\"http://www.last.fm/music/TLC/_/No+Scrubs\">Read more on Last.fm</a>."
     },
     {
       "id": "DiLYqMvsUK4",
@@ -1098,7 +3229,20 @@
       "channel": "OfficialEels",
       "duration": "42:14",
       "createdAt": 1534349220000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "EELS - THE DECONSTRUCTION - Complete Album (AUDIO)",
+      "externalIds": {
+        "lastfm": "Eels/_/The+Deconstruction"
+      },
+      "listeners": 41390,
+      "playcount": 178998,
+      "tags": [
+        "indie",
+        "singer-songwriter",
+        "alternative",
+        "indie pop",
+        "alternative rock"
+      ]
     },
     {
       "id": "PCOfoJqNcAE",
@@ -1106,7 +3250,19 @@
       "channel": "TRIGGER FORMULA",
       "duration": "3:46",
       "createdAt": 1534333320000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Mr. Oizo - Stunt ( Extended Version)",
+      "externalIds": {
+        "lastfm": "Mr.+Oizo/_/Stunt+(Extended+Version)"
+      },
+      "listeners": 12,
+      "playcount": 48,
+      "tags": [
+        "electronic",
+        "electro",
+        "french",
+        "techno"
+      ]
     },
     {
       "id": "SjDHqdcvv-A",
@@ -1114,7 +3270,16 @@
       "channel": "David Dean Burkhart",
       "duration": "2:15",
       "createdAt": 1534332780000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Hoops",
+      "musicTitle": "Hoops - Rules",
+      "externalIds": {
+        "amazonMusic": "B01MV4YR8I",
+        "amazonStore": "B01MV4YR8I",
+        "soundcloud": "fatpossum/hoops-rules-2",
+        "youtube": "SjDHqdcvv-A",
+        "youtubeMusic": "SjDHqdcvv-A"
+      }
     },
     {
       "id": "s43ZSHFSV_I",
@@ -1122,7 +3287,20 @@
       "channel": "Radio Martiko",
       "duration": "5:00",
       "createdAt": 1534331520000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Abdou El Omari - عبده العماري - Marsoul Alhoub - Nuits de Printemps Radio Martiko",
+      "externalIds": {
+        "musicbrainz-track": "61840a9e-1783-4300-829d-4c93117cd012",
+        "musicbrainz-artist": "9c638b89-4fbd-4e7e-839d-fc571c920c67",
+        "lastfm": "Abdou+El+Omari/_/Marsoul+Alhoub"
+      },
+      "listeners": 151,
+      "playcount": 321,
+      "tags": [
+        "morocco",
+        "chaabi",
+        "moroccan"
+      ]
     },
     {
       "id": "mZ02alEkbLw",
@@ -1130,7 +3308,8 @@
       "channel": "Jack Conte",
       "duration": "6:09",
       "createdAt": 1534171500000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Pedals Music Video (featuring REAL robots) - Conte"
     },
     {
       "id": "XGiYOqZleRQ",
@@ -1138,7 +3317,18 @@
       "channel": "Petr Gorst",
       "duration": "2:56",
       "createdAt": 1534170900000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Cloud Reacts",
+      "musicTitle": "Slayer",
+      "externalIds": {
+        "boomplay": "108800248",
+        "soundcloud": "ccolt-vertt/slayer",
+        "youtube": "XGiYOqZleRQ",
+        "youtubeMusic": "XGiYOqZleRQ",
+        "lastfm": "Cloud+Reacts/_/Slayer"
+      },
+      "listeners": 7,
+      "playcount": 8
     },
     {
       "id": "QybR25RPt-8",
@@ -1146,7 +3336,21 @@
       "channel": "Gotan Project",
       "duration": "58:47",
       "createdAt": 1533930000000,
-      "userId": "7bb0cf4c64273cfcf7b19f589c47bbe971e34ba3ca995b8d0c64961e84f76ae2"
+      "userId": "7bb0cf4c64273cfcf7b19f589c47bbe971e34ba3ca995b8d0c64961e84f76ae2",
+      "musicTitle": "Gotan Project - La Revancha Del Tango (Full Album)",
+      "externalIds": {
+        "musicbrainz-artist": "66cc244d-6f96-4668-a6e9-0f9cd5acc940",
+        "lastfm": "Gotan+Project/_/La+revancha+del+tango"
+      },
+      "listeners": 2151,
+      "playcount": 9531,
+      "tags": [
+        "tango",
+        "electronic",
+        "chillout",
+        "lounge",
+        "downtempo"
+      ]
     },
     {
       "id": "Qwscb3QIVSg",
@@ -1154,7 +3358,34 @@
       "channel": "aimeedus",
       "duration": "5:59",
       "createdAt": 1533711360000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Stevie Wonder",
+      "musicTitle": "Happy Birthday",
+      "externalIds": {
+        "amazonMusic": "B000V66UUM",
+        "amazonStore": "B000V66UUM",
+        "anghami": "101007336",
+        "boomplay": "5063718",
+        "pandora": "TR:59500",
+        "soundcloud": "stevie-wonder-official/happy-birthday",
+        "spotify": "5fBlnN4KvXlH1T5CmNE5Sm",
+        "tidal": "93251361",
+        "yandex": "797518",
+        "youtube": "Qwscb3QIVSg",
+        "youtubeMusic": "Qwscb3QIVSg",
+        "musicbrainz-track": "05552bbe-8703-3d58-861b-30dd62a2890f",
+        "musicbrainz-artist": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+        "lastfm": "Stevie+Wonder/_/Happy+Birthday"
+      },
+      "tags": [
+        "happy birthday",
+        "soul",
+        "birthday",
+        "pop",
+        "rb"
+      ],
+      "listeners": 253892,
+      "playcount": 757471
     },
     {
       "id": "iMI_VWaRZQc",
@@ -1162,7 +3393,27 @@
       "channel": "Magnifico Official",
       "duration": "3:38",
       "createdAt": 1533638340000,
-      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
+      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6",
+      "artist": "Magnifico",
+      "musicTitle": "Tivoli",
+      "externalIds": {
+        "soundcloud": "magnifico-sc/tivoli-shabadaba-mix-feat",
+        "tidal": "443733571",
+        "youtube": "iMI_VWaRZQc",
+        "youtubeMusic": "iMI_VWaRZQc",
+        "musicbrainz-track": "67b8cc4f-0b3b-4a58-a26a-c51b04cce46a",
+        "musicbrainz-artist": "85af933d-6de6-4d2a-aa1e-ba58b6d670d9",
+        "lastfm": "Magnifico/_/Tivoli"
+      },
+      "tags": [
+        "balkan",
+        "slovenian",
+        "pop",
+        "slovenia",
+        "rock"
+      ],
+      "listeners": 687,
+      "playcount": 3227
     },
     {
       "id": "otcpThCDozk",
@@ -1170,7 +3421,8 @@
       "channel": "Magnifico Official",
       "duration": "2:44",
       "createdAt": 1533637860000,
-      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
+      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6",
+      "musicTitle": "Magnifico - Ya Mustafa (Live Session)"
     },
     {
       "id": "GNPKmXMephs",
@@ -1178,7 +3430,28 @@
       "channel": "NewRetroWave",
       "duration": "4:53",
       "createdAt": 1533490080000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "artist": "NINA",
+      "musicTitle": "Sleepwalking",
+      "externalIds": {
+        "amazonMusic": "B07B7PHCJ6",
+        "amazonStore": "B07B7PHCJ6",
+        "pandora": "TR:32976334",
+        "soundcloud": "gabriel-770379509/nina-sleepwalking",
+        "tidal": "85716597",
+        "yandex": "54620454",
+        "youtube": "GNPKmXMephs",
+        "youtubeMusic": "GNPKmXMephs",
+        "musicbrainz-track": "d351f528-259d-49a4-a6d0-0496cb16f007",
+        "musicbrainz-artist": "3459126a-12cc-43c4-83c6-c4a11551a119",
+        "lastfm": "Nina/_/Sleepwalking"
+      },
+      "tags": [
+        "synthwave",
+        "popwave"
+      ],
+      "listeners": 8607,
+      "playcount": 58924
     },
     {
       "id": "jgrgCaSo8e4",
@@ -1186,7 +3459,31 @@
       "channel": "Warp Records",
       "duration": "3:45",
       "createdAt": 1533490020000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
+      "artist": "Bibio",
+      "musicTitle": "Light Up The Sky",
+      "externalIds": {
+        "amazonMusic": "B01DCEJLGE",
+        "amazonStore": "B01DCEJLGE",
+        "boomplay": "1803015",
+        "soundcloud": "bibio/light-up-the-sky",
+        "spotify": "0vsrYzoUCwApsl1Z31w8Xw",
+        "tidal": "106693841",
+        "youtube": "jgrgCaSo8e4",
+        "youtubeMusic": "jgrgCaSo8e4",
+        "musicbrainz-track": "127166bb-b880-4835-a12b-9efc51599efb",
+        "musicbrainz-artist": "9f9953f0-68bb-4ce3-aace-2f44c87f0aa3",
+        "lastfm": "Bibio/_/Light+Up+The+Sky"
+      },
+      "tags": [
+        "2016",
+        "experimental",
+        "electronic",
+        "folktronica",
+        "ambient"
+      ],
+      "listeners": 22278,
+      "playcount": 85810
     },
     {
       "id": "CsGauHXioos",
@@ -1194,7 +3491,8 @@
       "channel": "Cercle",
       "duration": "1:17:05",
       "createdAt": 1533466560000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Polo & Pan live for Cercle at Serre Monumentale in Paris, France"
     },
     {
       "id": "T8Xb_7YDroQ",
@@ -1202,7 +3500,34 @@
       "channel": "EVE6",
       "duration": "3:43",
       "createdAt": 1533302280000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Eve 6",
+      "musicTitle": "Inside Out",
+      "externalIds": {
+        "amazonMusic": "B001BHFZ74",
+        "amazonStore": "B001BHFZ74",
+        "audius": "z2Pxx",
+        "anghami": "270965",
+        "boomplay": "2294317",
+        "pandora": "TR:18095",
+        "soundcloud": "eve6music/inside-out",
+        "spotify": "2hYSa7QezbzPmBbQVeAVff",
+        "tidal": "515193",
+        "yandex": "21761660",
+        "youtube": "T8Xb_7YDroQ",
+        "youtubeMusic": "T8Xb_7YDroQ",
+        "musicbrainz-track": "fd21008b-9fe8-33ca-9792-96ab62c60a91",
+        "lastfm": "EVE+6/_/Inside+Out"
+      },
+      "tags": [
+        "90s",
+        "rock",
+        "alternative rock",
+        "alternative"
+      ],
+      "listeners": 496753,
+      "playcount": 2957020,
+      "lastfmSummary": "\"Inside Out\" is a song by American alternative rock band Eve 6. The song was released in May 1998 and was the first single from their debut album, Eve 6. The song was a big hit in North America, managing to top the US Billboard Modern Rock Tracks chart three times, totaling four weeks at number one. It also reached number 28 on the Billboard Hot 100, number 36 on Canada's RPM Top Singles chart and number 24 in Iceland. <a href=\"http://www.last.fm/music/EVE+6/_/Inside+Out\">Read more on Last.fm</a>."
     },
     {
       "id": "L8kuWH7sjFo",
@@ -1210,7 +3535,31 @@
       "channel": "Roadrunner Records",
       "duration": "2:39",
       "createdAt": 1533301560000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Biffy Clyro",
+      "musicTitle": "Who's Got a Match?",
+      "externalIds": {
+        "amazonMusic": "B0014JD0L2",
+        "amazonStore": "B0014JD0L2",
+        "appleMusic": "263497116",
+        "itunes": "263497116",
+        "soundcloud": "biffyclyro/whos-got-a-match",
+        "spotify": "7f9dwr5Ch0p7xhYNacK8yW",
+        "tidal": "482818",
+        "youtube": "L8kuWH7sjFo",
+        "youtubeMusic": "L8kuWH7sjFo",
+        "musicbrainz-track": "37e04a61-d027-3c4f-be13-a65f52357e90",
+        "musicbrainz-artist": "892500b7-09a6-4049-ba92-2d192dd70563",
+        "lastfm": "Biffy+Clyro/_/Who%27s+Got+a+Match%3F"
+      },
+      "tags": [
+        "alternative rock",
+        "rock",
+        "alternative",
+        "indie"
+      ],
+      "listeners": 169910,
+      "playcount": 1342793
     },
     {
       "id": "YcL8SvyKtE4",
@@ -1218,7 +3567,31 @@
       "channel": "EgregiousViolations",
       "duration": "10:55",
       "createdAt": 1533203160000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Cymande",
+      "musicTitle": "Dove",
+      "externalIds": {
+        "amazonMusic": "B0DPJPXG2H",
+        "amazonStore": "B0DPJPXG2H",
+        "boomplay": "71537040",
+        "pandora": "TR:6604852",
+        "soundcloud": "cymandeofficial/dove",
+        "tidal": "403424233",
+        "youtube": "YcL8SvyKtE4",
+        "youtubeMusic": "YcL8SvyKtE4",
+        "musicbrainz-track": "1bb93ba3-8848-3311-babc-10f847b0a88c",
+        "musicbrainz-artist": "21c5fb53-6fbc-4080-989a-b26d4540f4fd",
+        "lastfm": "Cymande/_/Dove"
+      },
+      "tags": [
+        "funk",
+        "fusion",
+        "soul",
+        "chillout"
+      ],
+      "listeners": 113473,
+      "playcount": 518501,
+      "lastfmSummary": "Sampled by Kinobe on their track Skyscraper. <a href=\"http://www.last.fm/music/Cymande/_/Dove\">Read more on Last.fm</a>."
     },
     {
       "id": "h7qTI6Njp9g",
@@ -1226,7 +3599,32 @@
       "channel": "discpictures99",
       "duration": "7:54",
       "createdAt": 1533201360000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Daso",
+      "musicTitle": "Meine",
+      "externalIds": {
+        "amazonMusic": "B08FCSGY7F",
+        "amazonStore": "B08FCSGY7F",
+        "boomplay": "18826995",
+        "pandora": "TR:10303265",
+        "soundcloud": "daso/daso-meine",
+        "spotify": "5DfMPwcEud6Xn0VOJCv8AE",
+        "tidal": "151253290",
+        "yandex": "2058834",
+        "youtube": "h7qTI6Njp9g",
+        "youtubeMusic": "h7qTI6Njp9g",
+        "musicbrainz-track": "186b549a-6b2e-4964-8f96-5432b6c7e8f6",
+        "musicbrainz-artist": "26368771-1c00-476e-867d-da7dad8d6a48",
+        "lastfm": "Daso/_/Meine"
+      },
+      "tags": [
+        "minimal",
+        "tech house",
+        "deep house",
+        "electro"
+      ],
+      "listeners": 52674,
+      "playcount": 296964
     },
     {
       "id": "8h_hS0d4vqg",
@@ -1234,7 +3632,8 @@
       "channel": "OTMT",
       "duration": "4:00",
       "createdAt": 1533045360000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Mongolian Traditional Music Throat & Long Song (Mongolian Rap Hip Hop)"
     },
     {
       "id": "GgcHlZsOgQo",
@@ -1242,7 +3641,29 @@
       "channel": "bmsrfan",
       "duration": "2:46",
       "createdAt": 1533038160000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Tobacco",
+      "musicTitle": "Stretch Your Face",
+      "externalIds": {
+        "amazonMusic": "B0964D5921",
+        "amazonStore": "B0964D5921",
+        "pandora": "TR:1534748",
+        "spotify": "0pkS386R0P2Jy2NkAcDnx5",
+        "tidal": "176820247",
+        "youtube": "GgcHlZsOgQo",
+        "youtubeMusic": "GgcHlZsOgQo",
+        "musicbrainz-track": "08141c68-fbc8-4883-8ed3-bac450cfdf4c",
+        "musicbrainz-artist": "357d27b6-f7c8-4d8b-84f2-8708678fb626",
+        "lastfm": "Tobacco/_/Stretch+Your+Face"
+      },
+      "tags": [
+        "experimental",
+        "electronic",
+        "psychedelic",
+        "synthpop"
+      ],
+      "listeners": 39574,
+      "playcount": 160001
     },
     {
       "id": "16AbnwFyhVU",
@@ -1250,7 +3671,20 @@
       "channel": "TheDemoTube",
       "duration": "5:09",
       "createdAt": 1533031020000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "cocoon - Insight In An Unseizable World | Demoscene",
+      "externalIds": {
+        "lastfm": "Cocoon/_/Insight+In+An+Unseizable+World"
+      },
+      "listeners": 9,
+      "playcount": 9,
+      "tags": [
+        "folk",
+        "indie",
+        "french",
+        "acoustic",
+        "indie folk"
+      ]
     },
     {
       "id": "GjuridCR2Fo",
@@ -1258,7 +3692,18 @@
       "channel": "ferrisstreamsstuff",
       "duration": "3:38",
       "createdAt": 1533028320000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Logicoma - Engage (Final version)",
+      "externalIds": {
+        "lastfm": "Logicoma/_/Engage"
+      },
+      "listeners": 9,
+      "playcount": 19,
+      "tags": [
+        "electronic",
+        "demoscene",
+        "glitch"
+      ]
     },
     {
       "id": "T2GLChuhwEk",
@@ -1266,7 +3711,8 @@
       "channel": "SYMBIZ",
       "duration": "2:39",
       "createdAt": 1532962740000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Symbiz \"Zi Daan (子弹)\" — Broken Chinese EP 1"
     },
     {
       "id": "pzVgIop0f0Y",
@@ -1274,7 +3720,8 @@
       "channel": "riverdeceits",
       "duration": "3:01",
       "createdAt": 1532685000000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "musicTitle": "The doors ft Scott Weiland - Break on through"
     },
     {
       "id": "9JhsUFuqbCM",
@@ -1282,7 +3729,37 @@
       "channel": "Velvet Revolver",
       "duration": "4:30",
       "createdAt": 1532684820000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Velvet Revolver",
+      "musicTitle": "Fall to Pieces",
+      "externalIds": {
+        "amazonMusic": "B0D9C7CGW1",
+        "amazonStore": "B0D9C7CGW1",
+        "anghami": "244361",
+        "boomplay": "10805674",
+        "appleMusic": "283567575",
+        "itunes": "283567575",
+        "napster": "tra.56984220",
+        "pandora": "TR:135522966",
+        "soundcloud": "velvet-revolver-official/fall-to-pieces",
+        "spotify": "0QoN6TdefGtMZVQ0v5zedK",
+        "tidal": "2987610",
+        "yandex": "646835",
+        "youtube": "9JhsUFuqbCM",
+        "youtubeMusic": "9JhsUFuqbCM",
+        "musicbrainz-track": "05ecdc1d-b8be-3028-a53f-9e42b78be043",
+        "musicbrainz-artist": "3a528006-1429-47f4-ae9b-2ea95343e16a",
+        "lastfm": "Velvet+Revolver/_/Fall+to+Pieces"
+      },
+      "tags": [
+        "rock",
+        "hard rock",
+        "velvet revolver",
+        "alternative rock"
+      ],
+      "listeners": 434740,
+      "playcount": 2434223,
+      "lastfmSummary": "\"Fall to Pieces\" is a song by Velvet Revolver written by band vocalist Scott Weiland that appears on their debut album Contraband. It was the band's third single and was very successful. \"Fall to Pieces\" is a power ballad about lead singer Scott Weiland's battle with heroin and its toll on his relationship with his wife, model Mary Forsberg. The song has also been recorded in an Acoustic version.\n\nThe song was #1 on the Mainstream Rock charts for 11 consecutive weeks and also hit #67 on the Billboard Hot 100. <a href=\"http://www.last.fm/music/Velvet+Revolver/_/Fall+to+Pieces\">Read more on Last.fm</a>."
     },
     {
       "id": "sT1DdO3SISg",
@@ -1290,7 +3767,38 @@
       "channel": "Stone Temple Pilots",
       "duration": "5:02",
       "createdAt": 1532678760000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Stone Temple Pilots",
+      "musicTitle": "Creep",
+      "externalIds": {
+        "amazonMusic": "B0745493HN",
+        "amazonStore": "B0745493HN",
+        "audiomack": "30204233",
+        "deezer": "3907800",
+        "appleMusic": "1263219808",
+        "itunes": "1263219808",
+        "napster": "tra.3526500",
+        "pandora": "TR:10658910",
+        "soundcloud": "stpsoundcloud/creep",
+        "spotify": "6dmueYtoihUhlQZlImBCmm",
+        "tidal": "265091",
+        "yandex": "122366",
+        "youtube": "sT1DdO3SISg",
+        "youtubeMusic": "sT1DdO3SISg",
+        "musicbrainz-track": "0161b8fe-657d-3cae-8d49-99ccf7f55d47",
+        "musicbrainz-artist": "8c32bb01-58a3-453b-8050-8c0620edb0e5",
+        "lastfm": "Stone+Temple+Pilots/_/Creep"
+      },
+      "tags": [
+        "grunge",
+        "90s",
+        "alternative rock",
+        "rock",
+        "alternative"
+      ],
+      "listeners": 558128,
+      "playcount": 3436781,
+      "lastfmSummary": "\"Creep\" is a song by American rock band Stone Temple Pilots, appearing as the seventh track off the band's debut album Core and later released as a single. \"Creep\" also appears on the greatest hits album Thank You.\n\nThe song's lyrics were written by lead vocalist Scott Weiland and bassist Robert DeLeo. DeLeo also wrote the song's music. DeLeo stated the following about \"Creep:\"\n\nMusically speaking I was thinking about a song along the lines of 'Heart Of Gold' by Neil Young, which is in the key of D-minor, the saddest key of all. <a href=\"http://www.last.fm/music/Stone+Temple+Pilots/_/Creep\">Read more on Last.fm</a>."
     },
     {
       "id": "W9P_qUnMaFg",
@@ -1298,7 +3806,37 @@
       "channel": "Chill Nation",
       "duration": "3:05",
       "createdAt": 1552461780000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Dynoro",
+      "musicTitle": "In My Mind",
+      "externalIds": {
+        "amazonMusic": "B07DB5MJ62",
+        "amazonStore": "B07DB5MJ62",
+        "audius": "1d6jKzy",
+        "anghami": "37023634",
+        "boomplay": "3313502",
+        "deezer": "505204262",
+        "appleMusic": "1390113209",
+        "itunes": "1390113209",
+        "soundcloud": "dropixx-official/gigi-dagostino-in-my-mind-dropixx-bootleg",
+        "spotify": "0E9ZjEAyAwOXZ7wJC0PD33",
+        "tidal": "89457165",
+        "yandex": "39257277",
+        "youtube": "W9P_qUnMaFg",
+        "youtubeMusic": "W9P_qUnMaFg",
+        "musicbrainz-track": "132054ae-f20a-4eee-8592-4fe65b89bd19",
+        "musicbrainz-artist": "b3968fd2-df5c-42b6-a5e2-d9963322d5c7",
+        "lastfm": "Dynoro/_/In+My+Mind"
+      },
+      "tags": [
+        "electronic",
+        "house",
+        "dance",
+        "future house",
+        "slap house"
+      ],
+      "listeners": 512587,
+      "playcount": 4217907
     },
     {
       "id": "LlvUepMa31o",
@@ -1306,7 +3844,8 @@
       "channel": "smalin",
       "duration": "5:08",
       "createdAt": 1532611440000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Debussy, Clair de lune (piano music)"
     },
     {
       "id": "qQ53L1rFivA",
@@ -1314,7 +3853,26 @@
       "channel": "4lyntv",
       "duration": "4:11",
       "createdAt": 1532518620000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "4Lyn",
+      "musicTitle": "Bahama Mama",
+      "externalIds": {
+        "amazonMusic": "B094X28C6H",
+        "amazonStore": "B094X28C6H",
+        "pandora": "TR:44934474",
+        "soundcloud": "4-lyn/bahama-mama-video-version",
+        "tidal": "143639664",
+        "youtube": "qQ53L1rFivA",
+        "youtubeMusic": "qQ53L1rFivA",
+        "musicbrainz-track": "fc5e4054-10f0-3d11-a9a4-210855a0ca7b",
+        "lastfm": "4Lyn/_/Bahama+Mama"
+      },
+      "tags": [
+        "german artist",
+        "german"
+      ],
+      "listeners": 14774,
+      "playcount": 63581
     },
     {
       "id": "Dwvxvdf8OBs",
@@ -1322,7 +3880,8 @@
       "channel": "KC17GlobeMaster",
       "duration": "5:28",
       "createdAt": 1532481660000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Manny Oquendo Y Conjunto Libre - Elena, Elena - BETTER QUALITY"
     },
     {
       "id": "1gVtbjxiHyw",
@@ -1330,7 +3889,8 @@
       "channel": "mashed",
       "duration": "1:09",
       "createdAt": 1532466420000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "S.T.A.R.S. vs The Forces of Resident Evil"
     },
     {
       "id": "YeGTWu0xskE",
@@ -1338,7 +3898,15 @@
       "channel": "Spinnin' Records",
       "duration": "4:52",
       "createdAt": 1532428920000,
-      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac"
+      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac",
+      "artist": "Bougenvilla",
+      "musicTitle": "Voodooz (Extended Mix)",
+      "externalIds": {
+        "soundcloud": "musical-freedom/bougenvilla-marc-macrowland-voodooz-original-mix",
+        "tidal": "84408568",
+        "youtube": "YeGTWu0xskE",
+        "youtubeMusic": "YeGTWu0xskE"
+      }
     },
     {
       "id": "nSjbxfHzKg4",
@@ -1346,7 +3914,19 @@
       "channel": "Paste Magazine",
       "duration": "6:55",
       "createdAt": 1532424960000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "The Marcus King Band - Rita Is Gone - 2/27/2017 - Paste Studios, New York, NY",
+      "externalIds": {
+        "musicbrainz-track": "ff351f87-4cd3-4c3c-86e3-f99a19e0c46f",
+        "musicbrainz-artist": "15f8b799-4c43-4f39-8ceb-9cdce7051b51",
+        "lastfm": "The+Marcus+King+Band/_/Rita+Is+Gone"
+      },
+      "listeners": 50892,
+      "playcount": 227933,
+      "tags": [
+        "blues rock",
+        "southern rock"
+      ]
     },
     {
       "id": "HVU8kRG2_Cs",
@@ -1354,7 +3934,8 @@
       "channel": "World of Warships Official Channel",
       "duration": "2:41",
       "createdAt": 1532413320000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Bad Advice: Horns | World of Warships"
     },
     {
       "id": "2X_2IdybTV0",
@@ -1362,7 +3943,35 @@
       "channel": "KANSAS",
       "duration": "5:24",
       "createdAt": 1531821720000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Kansas",
+      "musicTitle": "Carry on Wayward Son",
+      "externalIds": {
+        "amazonMusic": "B00137MFC0",
+        "amazonStore": "B00137MFC0",
+        "audius": "QQkjB",
+        "anghami": "2624109",
+        "boomplay": "7091235",
+        "pandora": "TR:6938022",
+        "soundcloud": "kansasband/carry-on-wayward-son",
+        "spotify": "4DMKwE2E2iYDKY01C335Uw",
+        "tidal": "1274623",
+        "yandex": "628712",
+        "youtube": "2X_2IdybTV0",
+        "youtubeMusic": "2X_2IdybTV0",
+        "musicbrainz-artist": "69689acf-d9cd-4d20-a972-47db4ed51b1a",
+        "lastfm": "Kansas/_/Carry+on+Wayward+Son"
+      },
+      "tags": [
+        "classic rock",
+        "70s",
+        "Progressive rock",
+        "rock",
+        "Supernatural"
+      ],
+      "listeners": 1249241,
+      "playcount": 9698961,
+      "lastfmSummary": "\"Carry On Wayward Son\" is a hit progressive rock single recorded by Kansas and written by Kerry Livgren for their 1976 album Leftoverture. In 1977, the song peaked at #11 on the Billboard pop singles chart, becoming their first Top 40 hit. Because of its lyrics, the song is often misnamed as \"Carry On My Wayward Son\".\n\nThe 7\" single has been certified Gold by the RIAA. This version was a much shorter version of the song, edited down to 3' 26\", a version that was also the band's only single to chart in the UK, reaching the top 60 there. <a href=\"http://www.last.fm/music/Kansas/_/Carry+on+Wayward+Son\">Read more on Last.fm</a>."
     },
     {
       "id": "BWf-eARnf6U",
@@ -1370,7 +3979,34 @@
       "channel": "Michael Jackson",
       "duration": "6:23",
       "createdAt": 1531746000000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Michael Jackson",
+      "musicTitle": "Heal the World",
+      "externalIds": {
+        "amazonMusic": "B0011GDR9S",
+        "amazonStore": "B0011GDR9S",
+        "audius": "P9W9k",
+        "anghami": "121395",
+        "boomplay": "15358828",
+        "pandora": "TR:30046",
+        "soundcloud": "michael-jackson-881677963/heal-the-world-audio-oficial",
+        "spotify": "7woW97CfcWaKtuC6W5BP2K",
+        "tidal": "5279067",
+        "yandex": "628605",
+        "youtube": "BWf-eARnf6U",
+        "youtubeMusic": "BWf-eARnf6U",
+        "musicbrainz-artist": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+        "lastfm": "Michael+Jackson/_/Heal+the+World"
+      },
+      "tags": [
+        "pop",
+        "michael jackson",
+        "90s",
+        "80s"
+      ],
+      "listeners": 562469,
+      "playcount": 3061310,
+      "lastfmSummary": "Heal the World is a song from Michael Jackson's hit album, Dangerous, released in 1991. The music video features children living in countries suffering from unrest. It is also one of only a handful of Michael Jackson's videos not to feature Jackson himself, the others being \"Cry\", \"HIStory\" and \"Man in the Mirror\". (The clips for \"HIStory\" and \"Man in the Mirror\" only feature Michael Jackson in archival footage). Jackson performed the song in the Super Bowl XXVII halftime show with a 35000 person flash card performance. <a href=\"http://www.last.fm/music/Michael+Jackson/_/Heal+the+World\">Read more on Last.fm</a>."
     },
     {
       "id": "LQUXuQ6Zd9w",
@@ -1378,7 +4014,33 @@
       "channel": "Gabrielle Marie",
       "duration": "7:55",
       "createdAt": 1531745760000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Black Sabbath",
+      "musicTitle": "War Pigs",
+      "externalIds": {
+        "amazonMusic": "B07VVGN7TW",
+        "amazonStore": "B07VVGN7TW",
+        "anghami": "12464437",
+        "boomplay": "5118077",
+        "soundcloud": "blacksabbath/war-pigs-lukes-wall",
+        "spotify": "0HVQuuXGAcQ2P5mBN521ae",
+        "tidal": "69642557",
+        "yandex": "31554274",
+        "youtube": "LQUXuQ6Zd9w",
+        "youtubeMusic": "LQUXuQ6Zd9w",
+        "musicbrainz-artist": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+        "lastfm": "Black+Sabbath/_/War+Pigs"
+      },
+      "tags": [
+        "heavy metal",
+        "classic rock",
+        "hard rock",
+        "metal",
+        "rock"
+      ],
+      "listeners": 971949,
+      "playcount": 6066172,
+      "lastfmSummary": "War Pigs\" is a song by English heavy metal band Black Sabbath from their 1970 album Paranoid. It is generally understood that the song is a protest against the Vietnam War; however, when the band played \"War Pigs\" live in the mid-1970s, scenes from World War II were projected for audiences.\n\nAs explained in the liner notes of the band's live album Reunion, the original title of the song was \"Walpurgis\", dealing with a witches' sabbath. The title, lyrics, and theme were subsequently changed during the recording of Paranoid. <a href=\"http://www.last.fm/music/Black+Sabbath/_/War+Pigs\">Read more on Last.fm</a>."
     },
     {
       "id": "0N2UOxkcs8w",
@@ -1386,7 +4048,21 @@
       "channel": "Adam Ben Ezra",
       "duration": "4:13",
       "createdAt": 1531693020000,
-      "userId": "7bb0cf4c64273cfcf7b19f589c47bbe971e34ba3ca995b8d0c64961e84f76ae2"
+      "userId": "7bb0cf4c64273cfcf7b19f589c47bbe971e34ba3ca995b8d0c64961e84f76ae2",
+      "musicTitle": "\"Intro\" - Double Bass Looping - Adam Ben Ezra",
+      "tags": [
+        "jazz",
+        "bass",
+        "lastfmsc",
+        "israel"
+      ],
+      "externalIds": {
+        "musicbrainz-track": "1ac2c4c8-a8a5-498b-982d-61495e256e13",
+        "musicbrainz-artist": "027b27ac-cb3f-40c8-8abb-aac46eaf16ef",
+        "lastfm": "Adam+Ben+Ezra/_/intro"
+      },
+      "listeners": 1024,
+      "playcount": 3206
     },
     {
       "id": "LH8GoCGdY78",
@@ -1394,7 +4070,8 @@
       "channel": "Traditional Music Channel",
       "duration": "43:35",
       "createdAt": 1531397160000,
-      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
+      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6",
+      "musicTitle": "Moldavian Folk Music"
     },
     {
       "id": "kDjOdcvXr5Q",
@@ -1402,7 +4079,29 @@
       "channel": "embracemusic",
       "duration": "4:10",
       "createdAt": 1531303620000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "Embrace",
+      "musicTitle": "Come Back To What You Know",
+      "externalIds": {
+        "amazonMusic": "B073LW5VYX",
+        "amazonStore": "B073LW5VYX",
+        "napster": "tra.57613574",
+        "pandora": "TR:72586022",
+        "soundcloud": "embrace-93530/come-back-to-what-you-know-1",
+        "tidal": "161472",
+        "youtube": "kDjOdcvXr5Q",
+        "youtubeMusic": "kDjOdcvXr5Q",
+        "musicbrainz-track": "550d7a2a-0dbf-4e75-838b-56426ffae4b0",
+        "musicbrainz-artist": "77f049ad-f469-4ad1-8283-7a2606a6722e",
+        "lastfm": "Embrace/_/Come+Back+To+What+You+Know"
+      },
+      "tags": [
+        "indie",
+        "britpop",
+        "rock"
+      ],
+      "listeners": 96522,
+      "playcount": 343356
     },
     {
       "id": "mGgMZpGYiy8",
@@ -1410,7 +4109,36 @@
       "channel": "The Cure",
       "duration": "3:35",
       "createdAt": 1530867720000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
+      "artist": "The Cure",
+      "musicTitle": "Friday I'm in Love",
+      "externalIds": {
+        "amazonMusic": "B001OGPRXO",
+        "amazonStore": "B001OGPRXO",
+        "boomplay": "2620889",
+        "appleMusic": "301011936",
+        "itunes": "301011936",
+        "pandora": "TR:14932",
+        "soundcloud": "thecureofficial/friday-im-in-love",
+        "spotify": "263aNAQCeFSWipk896byo6",
+        "tidal": "79020096",
+        "yandex": "78057",
+        "youtube": "mGgMZpGYiy8",
+        "youtubeMusic": "mGgMZpGYiy8",
+        "musicbrainz-track": "865137b6-8b6a-4e5a-805a-c17a508b0a25",
+        "musicbrainz-artist": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+        "lastfm": "The+Cure/_/Friday+I%27m+in+Love"
+      },
+      "tags": [
+        "new wave",
+        "80s",
+        "alternative",
+        "rock",
+        "The Cure"
+      ],
+      "listeners": 2205490,
+      "playcount": 21274898,
+      "lastfmSummary": "\"Friday I'm in Love\" written and performed by The Cure is the second single taken from the album \"Wish\". The song reached number 18 on the Billboard Hot 100, giving the band their last American top-40 hit to date.\n\n\"Friday I'm in Love\" was nominated for a Grammy Award and won the award for European Viewer's Choice for Best Music Video at the 1992 MTV Video Music Awards. The song was written to be a slower number than its upbeat final rendition. While the track was recorded in D major <a href=\"http://www.last.fm/music/The+Cure/_/Friday+I%27m+in+Love\">Read more on Last.fm</a>."
     },
     {
       "id": "dg88evJ-DjA",
@@ -1418,7 +4146,8 @@
       "channel": "simsons51racer",
       "duration": "4:11",
       "createdAt": 1530822300000,
-      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac"
+      "userId": "358471dc5cad7755a4746bb48d2104fce69b3e9d9b8d8d10a882bcecd6bb60ac",
+      "musicTitle": "Nick stracker band a walk in the park + Lyrics"
     },
     {
       "id": "J9b29phQz_I",
@@ -1426,7 +4155,22 @@
       "channel": "Jon Gomm",
       "duration": "5:24",
       "createdAt": 1530727380000,
-      "userId": "ad5073be5613be8eb4cc0d3332ae4581cb2a99f1971b16acee54897736926645"
+      "userId": "ad5073be5613be8eb4cc0d3332ae4581cb2a99f1971b16acee54897736926645",
+      "musicTitle": "Jon Gomm - Telepathy",
+      "externalIds": {
+        "musicbrainz-track": "7ae5da8e-d59e-4c9a-8d22-98118373a70d",
+        "musicbrainz-artist": "eb9c78a5-d7f0-49c1-b887-1aa983ddb84a",
+        "lastfm": "Jon+Gomm/_/Telepathy"
+      },
+      "listeners": 1346,
+      "playcount": 6022,
+      "tags": [
+        "acoustic",
+        "experimental",
+        "acoustic rock",
+        "acoustic guitar",
+        "alternative"
+      ]
     },
     {
       "id": "oOeugwd4vqs",
@@ -1434,7 +4178,29 @@
       "channel": "Knorkator",
       "duration": "3:18",
       "createdAt": 1530726960000,
-      "userId": "e205cbf4ed741733c977b6c987b39c36baa719cd41f51cb0d3519f3b3956d726"
+      "userId": "e205cbf4ed741733c977b6c987b39c36baa719cd41f51cb0d3519f3b3956d726",
+      "artist": "Knorkator",
+      "musicTitle": "Kinderlied",
+      "externalIds": {
+        "amazonMusic": "B005KPJ0JM",
+        "amazonStore": "B005KPJ0JM",
+        "appleMusic": "1686360380",
+        "itunes": "1686360380",
+        "yandex": "134820712",
+        "youtube": "oOeugwd4vqs",
+        "youtubeMusic": "oOeugwd4vqs",
+        "musicbrainz-track": "30b6ab56-75c2-4399-8e06-3c7acfab415c",
+        "musicbrainz-artist": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
+        "lastfm": "Knorkator/_/Kinderlied"
+      },
+      "tags": [
+        "deutsch",
+        "german",
+        "vocal",
+        "dramatic"
+      ],
+      "listeners": 9192,
+      "playcount": 58582
     },
     {
       "id": "RJqimlFcJsM",
@@ -1442,7 +4208,24 @@
       "channel": "Lightning Seeds",
       "duration": "3:56",
       "createdAt": 1530714780000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "Baddiel",
+      "musicTitle": "Three Lions",
+      "externalIds": {
+        "amazonMusic": "B0021QG48S",
+        "amazonStore": "B0021QG48S",
+        "anghami": "692051",
+        "boomplay": "65373863",
+        "pandora": "TR:83058521",
+        "soundcloud": "baddielskinnerlightningseeds/three-lions-96-remastered",
+        "spotify": "2CspXnVCXmVHZv9TbEJ7i5",
+        "yandex": "635034",
+        "youtube": "RJqimlFcJsM",
+        "youtubeMusic": "RJqimlFcJsM",
+        "lastfm": "Baddiel/_/Three+Lions"
+      },
+      "listeners": 259,
+      "playcount": 784
     },
     {
       "id": "yaM0W-q70Oo",
@@ -1450,7 +4233,14 @@
       "channel": "Extreme Private Eros",
       "duration": "6:40",
       "createdAt": 1530712860000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Blyk Tchutchi & Loy d'tchutchi – Mandamento de Deus",
+      "externalIds": {
+        "musicbrainz-track": "7d74f8ff-609d-47e0-8ba1-4d5820111384",
+        "lastfm": "Blyk+Tchutchi+&+Loy+D%27Tchutchi/_/Mandamento+de+Deus"
+      },
+      "listeners": 34,
+      "playcount": 151
     },
     {
       "id": "6olHchWnAos",
@@ -1458,7 +4248,8 @@
       "channel": "Mihai V",
       "duration": "3:56",
       "createdAt": 1530607320000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Alogte Oho - Mam Yinne Wa"
     },
     {
       "id": "Em0kBub5EAE",
@@ -1466,7 +4257,22 @@
       "channel": "bonbonfabrik",
       "duration": "3:33",
       "createdAt": 1764378517750,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "musicTitle": "Die Sterne - Es Möchte Echt Sein",
+      "externalIds": {
+        "musicbrainz-track": "6e8252d0-e1cc-3efd-b9da-75dd72ceb09d",
+        "musicbrainz-artist": "52f2c49e-43c4-4716-bf4a-0eac1c651d3a",
+        "lastfm": "Die+Sterne/_/Es+m%C3%B6chte+echt+sein"
+      },
+      "listeners": 4179,
+      "playcount": 15626,
+      "tags": [
+        "german",
+        "indie",
+        "alternative",
+        "great bass",
+        "hamburger schule"
+      ]
     },
     {
       "id": "_76NQF3FnCE",
@@ -1474,7 +4280,35 @@
       "channel": "Mouse on Mars - Topic",
       "duration": "7:00",
       "createdAt": 1764345980011,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "artist": "Mouse On Mars",
+      "musicTitle": "Uah",
+      "externalIds": {
+        "amazonMusic": "B001KTRVCU",
+        "amazonStore": "B001KTRVCU",
+        "anghami": "2064844",
+        "boomplay": "52926953",
+        "deezer": "948296",
+        "appleMusic": "257132576",
+        "itunes": "257132576",
+        "napster": "tra.56506887",
+        "pandora": "TR:374039",
+        "soundcloud": "mouse-on-mars/uah",
+        "spotify": "4sPG5XWJAH9wTU2kDTujr8",
+        "tidal": "2206364",
+        "yandex": "6684694",
+        "youtube": "_76NQF3FnCE",
+        "youtubeMusic": "_76NQF3FnCE",
+        "musicbrainz-track": "081afca2-32d3-3ad7-857d-42abead29333",
+        "musicbrainz-artist": "4d4f5d92-0589-42fa-bc0e-1bd73e17a2ce",
+        "lastfm": "Mouse+on+Mars/_/Uah"
+      },
+      "tags": [
+        "electronic",
+        "the hryvnia"
+      ],
+      "listeners": 8529,
+      "playcount": 20712
     },
     {
       "id": "D1D91BOyIoU",
@@ -1482,7 +4316,27 @@
       "channel": "Warp Records",
       "duration": "7:17",
       "createdAt": 1764331647080,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "artist": "Autechre",
+      "musicTitle": "Lowride",
+      "externalIds": {
+        "amazonMusic": "B001E42FJ0",
+        "amazonStore": "B001E42FJ0",
+        "soundcloud": "autechreofficial/lowride",
+        "spotify": "3Q0OROjrG0wUaF3QFFixB2",
+        "youtube": "D1D91BOyIoU",
+        "youtubeMusic": "D1D91BOyIoU",
+        "musicbrainz-track": "0e36c70e-c1be-300c-8d81-7961eb85e4f1",
+        "musicbrainz-artist": "410c9baf-5469-44f6-9852-826524b80c61",
+        "lastfm": "Autechre/_/Lowride"
+      },
+      "tags": [
+        "idm",
+        "electronic",
+        "ambient"
+      ],
+      "listeners": 67221,
+      "playcount": 258826
     },
     {
       "id": "YfjsyKFbyqM",
@@ -1490,7 +4344,34 @@
       "channel": "Unknown Channel",
       "duration": "4:13",
       "createdAt": 1764331280590,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "artist": "Oneohtrix Point Never",
+      "musicTitle": "Lifeworld",
+      "externalIds": {
+        "amazonMusic": "B0FRN86ZBJ",
+        "amazonStore": "B0FRN86ZBJ",
+        "deezer": "3562060321",
+        "appleMusic": "1840747243",
+        "itunes": "1840747243",
+        "pandora": "TR:173433054",
+        "soundcloud": "oneohtrix-point-never/lifeworld",
+        "spotify": "5qiyA4rvvL5p5xoif6mAPF",
+        "tidal": "461476358",
+        "youtube": "YfjsyKFbyqM",
+        "youtubeMusic": "YfjsyKFbyqM",
+        "musicbrainz-track": "6ea35208-6d22-43e7-a0e9-446855ff9425",
+        "musicbrainz-artist": "9cea062d-d476-447f-98b4-e67e14bfd1e4",
+        "lastfm": "Oneohtrix+Point+Never/_/Lifeworld"
+      },
+      "tags": [
+        "ambient",
+        "chillout",
+        "electronic",
+        "synth",
+        "vaporwave"
+      ],
+      "listeners": 27902,
+      "playcount": 74043
     },
     {
       "id": "TT30jj_L1Dc",
@@ -59905,7 +62786,19 @@
       "channel": "Lavada Alaina",
       "duration": "7:06",
       "createdAt": 1671366258506,
-      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
+      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2",
+      "musicTitle": "Master Blaster Jammin Stevie Wonder (Live in HD)",
+      "externalIds": {
+        "lastfm": "Stevie+Wonder/_/Master+Blaster+Jammin"
+      },
+      "listeners": 104,
+      "playcount": 377,
+      "tags": [
+        "soul",
+        "funk",
+        "motown",
+        "pop"
+      ]
     },
     {
       "id": "L7XFAqhy-jA",
@@ -85650,5 +88543,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2025-11-29T11:28:46.631Z"
+  "lastFetched": "2025-11-29T14:13:58.710Z"
 }
