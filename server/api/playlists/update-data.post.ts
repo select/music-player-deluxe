@@ -5,6 +5,7 @@ import type {
 	Video,
 	SongMetaData,
 	YouTubeLinkMetadata,
+	TagBlacklistData,
 } from "~/types";
 
 interface AIAugmentedData {
@@ -50,7 +51,23 @@ export default defineEventHandler(async (event) => {
 			"data",
 			"anonymized-metadata.json",
 		);
+		const blacklistPath = join(
+			process.cwd(),
+			"server",
+			"assets",
+			"tag-blacklist.json",
+		);
 		const playlistFilePath = join(playlistsDir, `${playlistId}.json`);
+
+		// Load tag blacklist
+		let blacklistedTags: string[] = [];
+		try {
+			const blacklistContent = await fs.readFile(blacklistPath, "utf-8");
+			const blacklistData: TagBlacklistData = JSON.parse(blacklistContent);
+			blacklistedTags = blacklistData.blacklistedTags || [];
+		} catch (error) {
+			console.warn("Failed to read tag blacklist:", error);
+		}
 
 		// Read the playlist file
 		let playlistData: Playlist;
@@ -152,8 +169,10 @@ export default defineEventHandler(async (event) => {
 					fusedTags.push(...songData.musicbrainz.artistTags);
 				}
 
-				// Remove duplicates while preserving order
-				const uniqueTags = Array.from(new Set(fusedTags));
+				// Remove duplicates and filter out blacklisted tags
+				const uniqueTags = Array.from(new Set(fusedTags)).filter(
+					(tag) => !blacklistedTags.includes(tag.toLowerCase().trim()),
+				);
 
 				// Check for music data changes
 				const hasMusicChanges =

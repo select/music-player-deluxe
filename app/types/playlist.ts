@@ -139,3 +139,24 @@ export interface YouTubeLinkMetadata {
 	datetime: number;
 	userId: string | null;
 }
+
+export interface TagsResponse {
+	success: boolean;
+	data: {
+		availableTags: string[];
+		blacklistedTags: string[];
+	};
+}
+
+export interface UpdateTagsResponse {
+	success: boolean;
+	message: string;
+	data: {
+		blacklistedTags: string[];
+	};
+}
+
+export interface TagBlacklistData {
+	blacklistedTags: string[];
+	lastUpdated: string;
+}

@@ -176,6 +176,9 @@
 					<p class="">No videos found in this playlist.</p>
 				</div>
 			</div>
+
+			<!-- Tag Blacklist Management -->
+			<AdminTagBlacklist />
 		</div>
 	</div>
 </template>
