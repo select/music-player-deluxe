@@ -13,8 +13,6 @@
     "youtube": "0wkcoQ5OgWY",
     "youtubeMusic": "0wkcoQ5OgWY"
   },
-  "mbid": "09a3b510-52d2-3f32-ac4a-1a07759383e3",
-  "artistMbid": "456eabce-d1dd-4481-a206-36ab4f2eaeb8",
   "musicbrainz": {
     "artistTags": [
       "deutschrock",
@@ -27,7 +25,9 @@
       "pop",
       "pop rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "09a3b510-52d2-3f32-ac4a-1a07759383e3",
+    "artistMbid": "456eabce-d1dd-4481-a206-36ab4f2eaeb8"
   },
   "lastfm": {
     "id": "Herbert+Gr%C3%B6nemeyer/_/Bleibt+alles+anders",

@@ -17,7 +17,6 @@
     "youtube": "5oCE0vi_2rI",
     "youtubeMusic": "5oCE0vi_2rI"
   },
-  "artistMbid": "1920f044-4a60-451d-9b15-4107d419a97b",
   "lastfm": {
     "id": "Blackmail/_/Evon+(Remastered)",
     "listeners": 57,
@@ -29,5 +28,8 @@
       "alternative rock",
       "rock"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "1920f044-4a60-451d-9b15-4107d419a97b"
   }
 }

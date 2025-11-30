@@ -15,7 +15,6 @@
     "youtube": "2LkVKCWL0U4",
     "youtubeMusic": "2LkVKCWL0U4"
   },
-  "artistMbid": "516cef4d-0718-4007-9939-f9b38af3f784",
   "lastfm": {
     "id": "Fall+Out+Boy/_/We+Didn%E2%80%99t+Start+the+Fire",
     "listeners": 153548,
@@ -25,5 +24,8 @@
       "cover",
       "punk"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "516cef4d-0718-4007-9939-f9b38af3f784"
   }
 }

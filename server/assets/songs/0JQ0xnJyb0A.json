@@ -1,7 +1,7 @@
 {
   "youtubeId": "0JQ0xnJyb0A",
   "title": "Отава Ё – Сумецкая (русские частушки под драку) Otava Yo - russian couplets while fighting",
-  "lastFetched": "2025-11-30T17:35:12.717Z",
+  "lastFetched": "2025-11-30T19:27:50.089Z",
   "ai": {
     "title": "Сумецкая",
     "artist": "Отава Ё"
@@ -19,6 +19,14 @@
       "russian artists",
       "russian lyrics",
       "russian"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c0f95be7-ba94-4353-8cee-9a8716dda6dc",
+    "artistMbid": "5ba996a3-e94e-44f2-9867-dbadf457b776",
+    "releaseCount": 1,
+    "artistGenres": [
+      "folk"
     ]
   }
 }

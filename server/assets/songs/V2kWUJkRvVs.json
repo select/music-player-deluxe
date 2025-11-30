@@ -20,8 +20,6 @@
     "youtube": "V2kWUJkRvVs",
     "youtubeMusic": "V2kWUJkRvVs"
   },
-  "mbid": "8fcb4997-8c67-48bf-9fb7-129e0999b067",
-  "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
   "musicbrainz": {
     "artistTags": [
       "alternative",
@@ -41,7 +39,9 @@
       "emo pop",
       "hard rock",
       "indie rock"
-    ]
+    ],
+    "trackMbid": "8fcb4997-8c67-48bf-9fb7-129e0999b067",
+    "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13"
   },
   "lastfm": {
     "id": "My+Chemical+Romance/_/The+Foundations+of+Decay",

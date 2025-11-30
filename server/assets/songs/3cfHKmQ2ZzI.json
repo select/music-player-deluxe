@@ -1,11 +1,9 @@
 {
-  "mbid": "6f9c8921-91ce-467a-ae56-4d1433b7c7dd",
   "title": "I'm Gonna Find a Cave",
   "artist": "The Banana Splits",
   "duration": 145,
   "youtubeId": "3cfHKmQ2ZzI",
   "lastFetched": "2025-11-23T16:27:28.887Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0DVJ6YX7P",
     "amazonStore": "B0DVJ6YX7P",
@@ -14,7 +12,6 @@
     "youtube": "3cfHKmQ2ZzI",
     "youtubeMusic": "3cfHKmQ2ZzI"
   },
-  "artistMbid": "710ac829-5739-43eb-a1c3-92894adc5f48",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -22,7 +19,10 @@
     ],
     "artistGenres": [
       "bubblegum pop"
-    ]
+    ],
+    "trackMbid": "6f9c8921-91ce-467a-ae56-4d1433b7c7dd",
+    "artistMbid": "710ac829-5739-43eb-a1c3-92894adc5f48",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "The+Banana+Splits/_/I%27m+Gonna+Find+a+Cave",

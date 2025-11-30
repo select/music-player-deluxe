@@ -3,8 +3,6 @@
   "title": "Lateralus",
   "artist": "Tool",
   "lastFetched": "2025-11-19T12:14:44.439Z",
-  "mbid": "9b03dcba-a350-43d6-90d1-7d0b111abc74",
-  "artistMbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
   "musicbrainz": {
     "tags": [
       "Progressive metal",
@@ -12,7 +10,9 @@
       "rock",
       "tool",
       "metal"
-    ]
+    ],
+    "trackMbid": "9b03dcba-a350-43d6-90d1-7d0b111abc74",
+    "artistMbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2"
   },
   "lastfm": {
     "id": "Tool/_/Lateralus",

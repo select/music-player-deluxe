@@ -1,12 +1,9 @@
 {
-  "mbid": "43961569-a714-42c3-bae7-2d438c47f67d",
   "title": "Sippin’ on Some Syrup",
   "artist": "Three 6 Mafia",
   "duration": 262,
   "youtubeId": "2YVvMfXXG7E",
   "lastFetched": "2025-11-19T03:28:34.513Z",
-  "releaseCount": 1,
-  "artistMbid": "a8754ac4-a85e-4f48-a81f-eecd482570ef",
   "musicbrainz": {
     "artistTags": [
       "crunk",
@@ -14,7 +11,10 @@
       "hip hop",
       "memphis rap",
       "southern hip hop"
-    ]
+    ],
+    "trackMbid": "43961569-a714-42c3-bae7-2d438c47f67d",
+    "artistMbid": "a8754ac4-a85e-4f48-a81f-eecd482570ef",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Three+6+Mafia/_/Sippin%E2%80%99+on+Some+Syrup",

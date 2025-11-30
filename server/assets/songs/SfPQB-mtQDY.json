@@ -11,8 +11,6 @@
     "youtube": "SfPQB-mtQDY",
     "youtubeMusic": "SfPQB-mtQDY"
   },
-  "mbid": "0b235cb7-fe09-3b21-b517-21548420b0e5",
-  "artistMbid": "e4d32f51-bc57-42a4-8165-b80f7a86496d",
   "musicbrainz": {
     "artistTags": [
       "german",
@@ -32,7 +30,9 @@
       "post-punk",
       "punk",
       "punk rock"
-    ]
+    ],
+    "trackMbid": "0b235cb7-fe09-3b21-b517-21548420b0e5",
+    "artistMbid": "e4d32f51-bc57-42a4-8165-b80f7a86496d"
   },
   "lastfm": {
     "id": "Nina+Hagen/_/TV-Glotzer+(White+Punks+On+Dope)",

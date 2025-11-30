@@ -20,8 +20,6 @@
     "youtube": "ck8f6sht5ro",
     "youtubeMusic": "ck8f6sht5ro"
   },
-  "mbid": "4932bb67-bfa2-3759-999a-f2862008774b",
-  "artistMbid": "14b22b4b-06d5-4b82-8284-29d29b58945f",
   "musicbrainz": {
     "artistTags": [
       "free jazz",
@@ -30,7 +28,9 @@
     "artistGenres": [
       "free jazz",
       "jazz"
-    ]
+    ],
+    "trackMbid": "4932bb67-bfa2-3759-999a-f2862008774b",
+    "artistMbid": "14b22b4b-06d5-4b82-8284-29d29b58945f"
   },
   "lastfm": {
     "id": "Air/_/Casanova+70",

@@ -15,8 +15,6 @@
     "youtube": "D6bdFADQ0oQ",
     "youtubeMusic": "D6bdFADQ0oQ"
   },
-  "mbid": "3acc8027-d589-4a2a-8277-25b4abf6090f",
-  "artistMbid": "da8b6c67-710c-4480-bf2a-ca2849b42094",
   "musicbrainz": {
     "tags": [
       "alternative"
@@ -29,7 +27,9 @@
     "artistGenres": [
       "electro-industrial",
       "industrial hip hop"
-    ]
+    ],
+    "trackMbid": "3acc8027-d589-4a2a-8277-25b4abf6090f",
+    "artistMbid": "da8b6c67-710c-4480-bf2a-ca2849b42094"
   },
   "lastfm": {
     "id": "DEBBY+FRIDAY/_/let+u+in",

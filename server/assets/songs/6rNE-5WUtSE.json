@@ -2,7 +2,7 @@
   "youtubeId": "6rNE-5WUtSE",
   "title": "Moonshine",
   "artist": "Jaqee",
-  "lastFetched": "2025-11-30T17:43:49.435Z",
+  "lastFetched": "2025-11-30T19:26:57.829Z",
   "odesli": {
     "amazonMusic": "B003PU7QRW",
     "amazonStore": "B003PU7QRW",
@@ -24,5 +24,10 @@
       "reggae",
       "beats"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "73f7a455-b2bb-474c-aeb5-ad6a2193a07b",
+    "artistMbid": "c9c74ad1-9ae1-462a-b3ea-a366adb2c481",
+    "releaseCount": 3
   }
 }

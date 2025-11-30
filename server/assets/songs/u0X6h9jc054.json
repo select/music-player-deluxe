@@ -19,8 +19,6 @@
     "youtube": "u0X6h9jc054",
     "youtubeMusic": "u0X6h9jc054"
   },
-  "mbid": "5d61a719-d4a1-4a6a-9d5d-0267df749360",
-  "artistMbid": "3f575ecd-627d-4f08-a89f-abd46d469c7e",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -40,7 +38,9 @@
       "indie rock",
       "jangle pop",
       "neo-psychedelia"
-    ]
+    ],
+    "trackMbid": "5d61a719-d4a1-4a6a-9d5d-0267df749360",
+    "artistMbid": "3f575ecd-627d-4f08-a89f-abd46d469c7e"
   },
   "lastfm": {
     "id": "Ride/_/Sunrise+Chaser",

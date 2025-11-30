@@ -11,8 +11,6 @@
     "youtube": "DJLhNg6RcWw",
     "youtubeMusic": "DJLhNg6RcWw"
   },
-  "mbid": "774fd397-f7a0-4c90-a5e5-034e9b26dde7",
-  "artistMbid": "dea28aa9-1086-4ffa-8739-0ccc759de1ce",
   "musicbrainz": {
     "artistTags": [
       "classical",
@@ -32,7 +30,9 @@
       "concerto",
       "modern classical",
       "orchestral"
-    ]
+    ],
+    "trackMbid": "774fd397-f7a0-4c90-a5e5-034e9b26dde7",
+    "artistMbid": "dea28aa9-1086-4ffa-8739-0ccc759de1ce"
   },
   "lastfm": {
     "id": "Johann+Strauss+II/_/Tritsch-Tratsch-Polka,+Op.+214",

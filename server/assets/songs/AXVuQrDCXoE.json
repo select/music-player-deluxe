@@ -10,15 +10,15 @@
     "youtube": "AXVuQrDCXoE",
     "youtubeMusic": "AXVuQrDCXoE"
   },
-  "mbid": "3d09c72f-66a8-3de7-b5a2-ccc3b414e901",
-  "artistMbid": "6bea93d9-08e8-40af-974e-b7d066b2e0fb",
   "musicbrainz": {
     "artistTags": [
       "jazz"
     ],
     "artistGenres": [
       "jazz"
-    ]
+    ],
+    "trackMbid": "3d09c72f-66a8-3de7-b5a2-ccc3b414e901",
+    "artistMbid": "6bea93d9-08e8-40af-974e-b7d066b2e0fb"
   },
   "lastfm": {
     "id": "Asha+Puthli/_/Right+Down+Here",

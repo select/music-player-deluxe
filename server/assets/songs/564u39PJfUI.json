@@ -3,7 +3,6 @@
   "title": "Thunderstruck",
   "artist": "AC/DC",
   "lastFetched": "2025-11-19T15:19:40.628Z",
-  "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
   "musicbrainz": {
     "tags": [
       "hard rock",
@@ -11,7 +10,8 @@
       "classic rock",
       "heavy metal",
       "ACDC"
-    ]
+    ],
+    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1"
   },
   "lastfm": {
     "id": "AC%2FDC/_/Thunderstruck",

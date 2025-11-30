@@ -1,11 +1,9 @@
 {
-  "mbid": "4e8cbadd-7d52-4387-8361-eb712cac8057",
   "title": "Escorial",
   "artist": "µ-Ziq",
   "duration": 317,
   "youtubeId": "xQreKaWXVMs",
   "lastFetched": "2025-11-23T16:53:43.339Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0FM48JXYD",
     "amazonStore": "B0FM48JXYD",
@@ -20,7 +18,6 @@
     "youtube": "xQreKaWXVMs",
     "youtubeMusic": "xQreKaWXVMs"
   },
-  "artistMbid": "aae5b930-c59c-4509-81a1-4e65e8f424e4",
   "musicbrainz": {
     "tags": [
       "ambient",
@@ -46,7 +43,10 @@
       "electronic",
       "experimental",
       "idm"
-    ]
+    ],
+    "trackMbid": "4e8cbadd-7d52-4387-8361-eb712cac8057",
+    "artistMbid": "aae5b930-c59c-4509-81a1-4e65e8f424e4",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "%C2%B5-Ziq/_/Escorial",

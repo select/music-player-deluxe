@@ -18,8 +18,6 @@
     "youtube": "4vYEQGsD8fw",
     "youtubeMusic": "4vYEQGsD8fw"
   },
-  "mbid": "0d1d2c8a-78ec-39c6-aab3-bb492c5c3204",
-  "artistMbid": "97b20fe3-0924-4a5f-9955-d0b5c5f9587f",
   "musicbrainz": {
     "artistTags": [
       "electronic",
@@ -34,7 +32,9 @@
       "indie rock",
       "new wave",
       "pop"
-    ]
+    ],
+    "trackMbid": "0d1d2c8a-78ec-39c6-aab3-bb492c5c3204",
+    "artistMbid": "97b20fe3-0924-4a5f-9955-d0b5c5f9587f"
   },
   "lastfm": {
     "id": "Santigold/_/Starstruck",

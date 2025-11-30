@@ -3,7 +3,6 @@
   "title": "How About You",
   "artist": "Lars Gullin",
   "lastFetched": "2025-11-19T08:46:43.390Z",
-  "artistMbid": "f1a5b44b-bdff-4f8f-b136-2786b3de648e",
   "lastfm": {
     "id": "Lars+Gullin/_/How+About+You",
     "listeners": 31,
@@ -12,5 +11,8 @@
       "jazz",
       "swedish"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "f1a5b44b-bdff-4f8f-b136-2786b3de648e"
   }
 }

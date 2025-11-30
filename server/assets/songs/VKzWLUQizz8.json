@@ -21,8 +21,6 @@
     "youtube": "VKzWLUQizz8",
     "youtubeMusic": "VKzWLUQizz8"
   },
-  "mbid": "01492e36-f10e-48ca-8d5c-4aa120da646b",
-  "artistMbid": "860b2707-6153-4e3a-aa57-74d2b42c55b5",
   "musicbrainz": {
     "artistTags": [
       "dance",
@@ -42,7 +40,9 @@
       "electro house",
       "electro-disco",
       "electronic"
-    ]
+    ],
+    "trackMbid": "01492e36-f10e-48ca-8d5c-4aa120da646b",
+    "artistMbid": "860b2707-6153-4e3a-aa57-74d2b42c55b5"
   },
   "lastfm": {
     "id": "Justice/_/Genesis",

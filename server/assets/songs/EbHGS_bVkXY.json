@@ -16,8 +16,6 @@
     "youtube": "EbHGS_bVkXY",
     "youtubeMusic": "EbHGS_bVkXY"
   },
-  "mbid": "66636e89-6e5d-47c7-b0f4-5221d853d186",
-  "artistMbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
   "musicbrainz": {
     "tags": [
       "industrial",
@@ -41,7 +39,9 @@
       "metal",
       "neue deutsche härte",
       "rock"
-    ]
+    ],
+    "trackMbid": "66636e89-6e5d-47c7-b0f4-5221d853d186",
+    "artistMbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66"
   },
   "lastfm": {
     "id": "Rammstein/_/Zeit",

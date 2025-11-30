@@ -2,7 +2,7 @@
   "youtubeId": "eAEmjW9J3_o",
   "title": "Stadium Pow Wow",
   "artist": "The Halluci Nation",
-  "lastFetched": "2025-11-30T17:43:29.365Z",
+  "lastFetched": "2025-11-30T19:23:35.634Z",
   "odesli": {
     "amazonMusic": "B01GAKQ1QA",
     "amazonStore": "B01GAKQ1QA",
@@ -30,5 +30,13 @@
     "artist": "The Halluci Nation",
     "mbid": "ea52bad0-7735-48f2-b755-ada5cb5308da",
     "artistMbid": "284ee768-2c9a-440a-be37-db926e90fc1c"
+  },
+  "musicbrainz": {
+    "trackMbid": "ea52bad0-7735-48f2-b755-ada5cb5308da",
+    "artistMbid": "284ee768-2c9a-440a-be37-db926e90fc1c",
+    "releaseCount": 2,
+    "artistGenres": [
+      "electronic"
+    ]
   }
 }

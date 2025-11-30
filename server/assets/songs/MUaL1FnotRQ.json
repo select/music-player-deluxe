@@ -16,8 +16,6 @@
     "youtube": "MUaL1FnotRQ",
     "youtubeMusic": "MUaL1FnotRQ"
   },
-  "mbid": "3a145200-0efa-4e35-a555-dc350fea7039",
-  "artistMbid": "3798b104-01cb-484c-a3b0-56adc6399b80",
   "musicbrainz": {
     "tags": [
       "rock",
@@ -25,7 +23,9 @@
       "metal",
       "alternative",
       "Rage Against The Machine"
-    ]
+    ],
+    "trackMbid": "3a145200-0efa-4e35-a555-dc350fea7039",
+    "artistMbid": "3798b104-01cb-484c-a3b0-56adc6399b80"
   },
   "lastfm": {
     "id": "Rage+Against+the+Machine/_/Bombtrack",

@@ -3,8 +3,6 @@
   "title": "Mountain Time",
   "artist": "Joe Bonamassa",
   "lastFetched": "2025-11-23T16:53:50.294Z",
-  "mbid": "54087202-4128-45f5-97f6-0f5112f5b475",
-  "artistMbid": "984f8239-8fe1-4683-9c54-10ffb14439e9",
   "musicbrainz": {
     "artistTags": [
       "blues",
@@ -18,7 +16,9 @@
       "blues",
       "blues rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "54087202-4128-45f5-97f6-0f5112f5b475",
+    "artistMbid": "984f8239-8fe1-4683-9c54-10ffb14439e9"
   },
   "lastfm": {
     "id": "Joe+Bonamassa/_/Mountain+Time",

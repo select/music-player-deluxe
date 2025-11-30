@@ -17,8 +17,6 @@
     "youtube": "tT4d1LQy4es",
     "youtubeMusic": "tT4d1LQy4es"
   },
-  "mbid": "df7e9d7b-7a52-37e9-8da9-ce889387e64c",
-  "artistMbid": "14156fcd-ba0f-45be-88c0-e10fb6acf4b2",
   "musicbrainz": {
     "artistTags": [
       "1990s",
@@ -33,7 +31,9 @@
       "pop rock",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "trackMbid": "df7e9d7b-7a52-37e9-8da9-ce889387e64c",
+    "artistMbid": "14156fcd-ba0f-45be-88c0-e10fb6acf4b2"
   },
   "lastfm": {
     "id": "Alannah+Myles/_/Black+Velvet",

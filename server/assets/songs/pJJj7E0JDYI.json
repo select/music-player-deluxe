@@ -13,8 +13,6 @@
     "youtube": "pJJj7E0JDYI",
     "youtubeMusic": "pJJj7E0JDYI"
   },
-  "mbid": "93befbb7-2f77-497f-b52d-fd689dad8cde",
-  "artistMbid": "f563a1a9-069b-41ed-8b3b-e1b1a6f5b34b",
   "musicbrainz": {
     "artistTags": [
       "hip hop",
@@ -23,7 +21,9 @@
     "artistGenres": [
       "hip hop",
       "southern hip hop"
-    ]
+    ],
+    "trackMbid": "93befbb7-2f77-497f-b52d-fd689dad8cde",
+    "artistMbid": "f563a1a9-069b-41ed-8b3b-e1b1a6f5b34b"
   },
   "lastfm": {
     "id": "Andr%C3%A9+3000/_/Ninety+Three+%27Til+Infinity+And+Beyonc%C3%A9",

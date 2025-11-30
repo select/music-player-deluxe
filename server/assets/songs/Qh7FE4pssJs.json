@@ -12,12 +12,12 @@
     "youtube": "Qh7FE4pssJs",
     "youtubeMusic": "Qh7FE4pssJs"
   },
-  "mbid": "5b38159f-234a-4a40-9751-5d074134b91e",
-  "artistMbid": "212e0fa5-05d5-4c49-be7a-c8177025f920",
   "musicbrainz": {
     "artistTags": [
       "ostschlager"
-    ]
+    ],
+    "trackMbid": "5b38159f-234a-4a40-9751-5d074134b91e",
+    "artistMbid": "212e0fa5-05d5-4c49-be7a-c8177025f920"
   },
   "lastfm": {
     "id": "Angelika+Mann/_/Regenlied",

@@ -10,8 +10,6 @@
     "youtube": "Pm2XSWCEm5w",
     "youtubeMusic": "Pm2XSWCEm5w"
   },
-  "mbid": "27244fa0-1eda-43c9-bbb9-8b99d62e7ffb",
-  "artistMbid": "3b0f2300-1f53-4cc1-acbc-0e9a78871661",
   "musicbrainz": {
     "artistTags": [
       "power metal",
@@ -20,7 +18,9 @@
     "artistGenres": [
       "power metal",
       "speed metal"
-    ]
+    ],
+    "trackMbid": "27244fa0-1eda-43c9-bbb9-8b99d62e7ffb",
+    "artistMbid": "3b0f2300-1f53-4cc1-acbc-0e9a78871661"
   },
   "lastfm": {
     "id": "Helstar/_/Burning+Star",

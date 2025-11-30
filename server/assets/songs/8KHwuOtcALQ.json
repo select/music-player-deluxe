@@ -17,8 +17,6 @@
     "youtube": "8KHwuOtcALQ",
     "youtubeMusic": "8KHwuOtcALQ"
   },
-  "mbid": "185bd076-cbaf-3370-bac8-177e98ad2c71",
-  "artistMbid": "b0799818-22cb-4564-8e68-3c410d0722ee",
   "musicbrainz": {
     "artistTags": [
       "alternative metal",
@@ -38,7 +36,9 @@
       "art rock",
       "baroque pop",
       "experimental"
-    ]
+    ],
+    "trackMbid": "185bd076-cbaf-3370-bac8-177e98ad2c71",
+    "artistMbid": "b0799818-22cb-4564-8e68-3c410d0722ee"
   },
   "lastfm": {
     "id": "Silverchair/_/Freak",

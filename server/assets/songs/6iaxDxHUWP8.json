@@ -2,7 +2,7 @@
   "youtubeId": "6iaxDxHUWP8",
   "title": "Mein Land",
   "artist": "Rammstein",
-  "lastFetched": "2025-11-30T17:43:21.582Z",
+  "lastFetched": "2025-11-30T19:22:00.072Z",
   "odesli": {
     "amazonMusic": "B075M1QX9R",
     "amazonStore": "B075M1QX9R",
@@ -29,6 +29,29 @@
       "german",
       "rock",
       "metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8b6f3439-1646-44f1-a033-6536dd266c65",
+    "artistMbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+    "releaseCount": 21,
+    "genres": [
+      "alternative rock",
+      "electronic",
+      "hard rock",
+      "industrial",
+      "industrial metal",
+      "industrial rock",
+      "metal",
+      "neue deutsche härte",
+      "rock"
+    ],
+    "artistGenres": [
+      "industrial",
+      "industrial metal",
+      "metal",
+      "neue deutsche härte",
+      "rock"
     ]
   }
 }

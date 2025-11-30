@@ -14,8 +14,6 @@
     "youtube": "QPIdmcYgxQg",
     "youtubeMusic": "QPIdmcYgxQg"
   },
-  "mbid": "5270941d-5ec3-3803-9b66-7cb553ab913d",
-  "artistMbid": "8c538f11-c141-4588-8ecb-931083524186",
   "musicbrainz": {
     "tags": [
       "indie",
@@ -23,7 +21,9 @@
       "rock",
       "british",
       "alternative"
-    ]
+    ],
+    "trackMbid": "5270941d-5ec3-3803-9b66-7cb553ab913d",
+    "artistMbid": "8c538f11-c141-4588-8ecb-931083524186"
   },
   "lastfm": {
     "id": "Bloc+Party/_/Helicopter",

@@ -3,7 +3,6 @@
   "title": "She's a Lady",
   "artist": "Tom Jones",
   "lastFetched": "2025-11-19T10:27:40.999Z",
-  "artistMbid": "57c6f649-6cde-48a7-8114-2a200247601a",
   "lastfm": {
     "id": "Tom+Jones/_/She%27s+a+Lady",
     "listeners": 323268,
@@ -15,5 +14,8 @@
       "classic rock",
       "tom jones"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "57c6f649-6cde-48a7-8114-2a200247601a"
   }
 }

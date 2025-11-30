@@ -14,8 +14,6 @@
     "youtube": "Ct6qL0M21ps",
     "youtubeMusic": "Ct6qL0M21ps"
   },
-  "mbid": "2e418b7f-6b47-3549-a8a9-e2ea33ad2f23",
-  "artistMbid": "6f5064bb-7dbb-4a44-bac5-04c467394817",
   "lastfm": {
     "id": "Fatoumata+Diawara/_/Sonkolon",
     "listeners": 21133,
@@ -27,5 +25,9 @@
       "to",
       "girls"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2e418b7f-6b47-3549-a8a9-e2ea33ad2f23",
+    "artistMbid": "6f5064bb-7dbb-4a44-bac5-04c467394817"
   }
 }

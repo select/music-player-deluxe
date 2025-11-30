@@ -2,7 +2,7 @@
   "youtubeId": "aQUlA8Hcv4s",
   "title": "Mr. Blue Sky",
   "artist": "Electric Light Orchestra",
-  "lastFetched": "2025-11-30T17:43:00.173Z",
+  "lastFetched": "2025-11-30T19:18:52.815Z",
   "odesli": {
     "amazonMusic": "B017E82ZYY",
     "amazonStore": "B017E82ZYY",
@@ -35,5 +35,23 @@
     "artist": "Electric Light Orchestra",
     "mbid": "4b9d0f41-3d5e-4649-8137-9a071f7e9667",
     "artistMbid": "0c502791-4ee9-4c5f-9696-0602b721ff3b"
+  },
+  "musicbrainz": {
+    "trackMbid": "4062df63-083a-4bc0-864d-13bcdfb6cb14",
+    "artistMbid": "0c502791-4ee9-4c5f-9696-0602b721ff3b",
+    "releaseCount": 11,
+    "artistGenres": [
+      "art rock",
+      "classic rock",
+      "crossover prog",
+      "pop",
+      "pop rock",
+      "progressive",
+      "progressive pop",
+      "progressive rock",
+      "rock",
+      "symphonic prog",
+      "symphonic rock"
+    ]
   }
 }

@@ -15,8 +15,6 @@
     "youtube": "tvtJPs8IDgU",
     "youtubeMusic": "tvtJPs8IDgU"
   },
-  "mbid": "a9ada411-c209-4b3e-8f9b-ccb790528f48",
-  "artistMbid": "a0327dc2-dc76-44d5-aec6-47cd2dff1469",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -36,7 +34,9 @@
       "blues rock",
       "folk rock",
       "indie rock"
-    ]
+    ],
+    "trackMbid": "a9ada411-c209-4b3e-8f9b-ccb790528f48",
+    "artistMbid": "a0327dc2-dc76-44d5-aec6-47cd2dff1469"
   },
   "lastfm": {
     "id": "Counting+Crows/_/Big+Yellow+Taxi",

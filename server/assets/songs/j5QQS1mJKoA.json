@@ -13,7 +13,6 @@
     "youtube": "j5QQS1mJKoA",
     "youtubeMusic": "j5QQS1mJKoA"
   },
-  "artistMbid": "b14684dd-a46e-4341-b950-4cd052532f81",
   "lastfm": {
     "id": "Erkan+O%C4%9Fur/_/Elif%27e+Ninni",
     "listeners": 2827,
@@ -25,5 +24,8 @@
       "fretless guitar",
       "guitar"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "b14684dd-a46e-4341-b950-4cd052532f81"
   }
 }

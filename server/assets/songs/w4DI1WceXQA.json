@@ -3,8 +3,6 @@
   "title": "The Wisp",
   "artist": "Simian",
   "lastFetched": "2025-11-23T16:53:11.796Z",
-  "mbid": "d65c2294-0463-4339-bcf7-6e4e2513e4ab",
-  "artistMbid": "c4ef06c6-b6f6-48d2-ab5a-f33c30bd3275",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -15,7 +13,9 @@
     "artistGenres": [
       "indietronica",
       "neo-psychedelia"
-    ]
+    ],
+    "trackMbid": "d65c2294-0463-4339-bcf7-6e4e2513e4ab",
+    "artistMbid": "c4ef06c6-b6f6-48d2-ab5a-f33c30bd3275"
   },
   "lastfm": {
     "id": "Simian/_/The+Wisp",

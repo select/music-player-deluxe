@@ -10,8 +10,6 @@
     "youtube": "cJtL8vWNZ4o",
     "youtubeMusic": "cJtL8vWNZ4o"
   },
-  "mbid": "172a2341-fdd1-46ba-900d-bdcca00ebe5b",
-  "artistMbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -29,7 +27,9 @@
       "pop",
       "pop rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "172a2341-fdd1-46ba-900d-bdcca00ebe5b",
+    "artistMbid": "64b94289-9474-4d43-8c93-918ccc1920d1"
   },
   "lastfm": {
     "id": "Billy+Joel/_/Movin%27+Out",

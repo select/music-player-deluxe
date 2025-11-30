@@ -1,9 +1,6 @@
 {
-  "mbid": "ed1a4205-b1bc-46ec-8f73-f3e5f1d14854",
   "title": "Enigma",
   "artist": "Keeno",
-  "artistMbid": "9d9321c3-ca3a-41b0-a68d-73a7793051c1",
-  "releaseCount": 2,
   "duration": 296,
   "youtubeId": "FXb8HlUEonA",
   "lastFetched": "2025-11-23T16:33:34.723Z",
@@ -24,7 +21,10 @@
       "drum and bass",
       "electronic",
       "liquid funk"
-    ]
+    ],
+    "trackMbid": "ed1a4205-b1bc-46ec-8f73-f3e5f1d14854",
+    "artistMbid": "9d9321c3-ca3a-41b0-a68d-73a7793051c1",
+    "releaseCount": 2
   },
   "lastfm": {
     "id": "Keeno/_/Enigma",

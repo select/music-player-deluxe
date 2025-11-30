@@ -1,7 +1,7 @@
 {
   "youtubeId": "nmYi5u9BhtI",
   "title": "Technohead - I Wanna Be A Hippy (Flamman & Abraxas Radio Mix)",
-  "lastFetched": "2025-11-30T17:23:39.363Z",
+  "lastFetched": "2025-11-30T19:23:34.207Z",
   "ai": {
     "title": "I Wanna Be A Hippy",
     "artist": "Technohead"
@@ -19,5 +19,10 @@
       "techno",
       "rave"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "93699be9-a76f-4df5-a1c1-f6cc9da9d224",
+    "artistMbid": "77728cc5-a820-4973-a564-13aced876a2e",
+    "releaseCount": 1
   }
 }

@@ -17,8 +17,6 @@
     "youtube": "knU9gRUWCno",
     "youtubeMusic": "knU9gRUWCno"
   },
-  "mbid": "9f3bf979-73d3-457f-8dd8-8176a7e4bb1f",
-  "artistMbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
   "musicbrainz": {
     "tags": [
       "indie rock",
@@ -26,7 +24,9 @@
       "rock",
       "alternative",
       "alternative rock"
-    ]
+    ],
+    "trackMbid": "9f3bf979-73d3-457f-8dd8-8176a7e4bb1f",
+    "artistMbid": "f181961b-20f7-459e-89de-920ef03c7ed0"
   },
   "lastfm": {
     "id": "The+Strokes/_/Someday",

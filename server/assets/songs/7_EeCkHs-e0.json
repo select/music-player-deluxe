@@ -1,7 +1,6 @@
 {
   "title": "Bezos I",
   "artist": "Bo Burnham",
-  "releaseCount": 7,
   "duration": 58,
   "youtubeId": "7_EeCkHs-e0",
   "lastFetched": "2025-11-19T01:40:18.092Z",
@@ -27,7 +26,8 @@
   "musicbrainz": {
     "tags": [
       "comedy"
-    ]
+    ],
+    "releaseCount": 7
   },
   "lastfm": {
     "id": "Bo+Burnham/_/Bezos+I",

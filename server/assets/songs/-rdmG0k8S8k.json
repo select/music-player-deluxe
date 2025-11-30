@@ -18,8 +18,6 @@
     "youtube": "-rdmG0k8S8k",
     "youtubeMusic": "-rdmG0k8S8k"
   },
-  "mbid": "965f7c7e-e3d3-47bf-a0d7-3370d0af1144",
-  "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
   "musicbrainz": {
     "tags": [
       "alternative metal",
@@ -54,7 +52,9 @@
       "hard rock",
       "nu metal",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "965f7c7e-e3d3-47bf-a0d7-3370d0af1144",
+    "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c"
   },
   "lastfm": {
     "id": "Papa+Roach/_/Getting+Away+with+Murder",

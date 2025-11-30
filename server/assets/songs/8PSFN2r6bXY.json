@@ -1,7 +1,7 @@
 {
   "youtubeId": "8PSFN2r6bXY",
   "title": "Song of Durin A Cappella (Complete Edition) - Clamavi De Profundis",
-  "lastFetched": "2025-11-30T17:23:48.583Z",
+  "lastFetched": "2025-11-30T19:24:14.785Z",
   "ai": {
     "title": "Song of Durin",
     "artist": "Clamavi De Profundis"
@@ -20,5 +20,10 @@
       "fantasy",
       "neomedieval"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c6813ae4-fe9c-4f52-bb99-cacf978c3270",
+    "artistMbid": "e7c1b26b-c794-451b-8a3c-0749c2f90134",
+    "releaseCount": 1
   }
 }

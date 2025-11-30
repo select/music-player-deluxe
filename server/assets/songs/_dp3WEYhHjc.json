@@ -9,7 +9,6 @@
     "youtube": "_dp3WEYhHjc",
     "youtubeMusic": "_dp3WEYhHjc"
   },
-  "artistMbid": "2d91695d-a291-49d4-a028-2584edbf9bd6",
   "lastfm": {
     "id": "Swayzak/_/Evil+Dub+(2023+Edit)",
     "listeners": 59,
@@ -21,5 +20,8 @@
       "techno",
       "electronica"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "2d91695d-a291-49d4-a028-2584edbf9bd6"
   }
 }

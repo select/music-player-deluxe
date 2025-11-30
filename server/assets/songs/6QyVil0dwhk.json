@@ -22,8 +22,6 @@
     "youtube": "6QyVil0dwhk",
     "youtubeMusic": "6QyVil0dwhk"
   },
-  "mbid": "16789907-c268-44bb-836e-94d95c726838",
-  "artistMbid": "39ab1aed-75e0-4140-bd47-540276886b60",
   "musicbrainz": {
     "tags": [
       "britpop",
@@ -31,7 +29,9 @@
       "british",
       "indie",
       "alternative"
-    ]
+    ],
+    "trackMbid": "16789907-c268-44bb-836e-94d95c726838",
+    "artistMbid": "39ab1aed-75e0-4140-bd47-540276886b60"
   },
   "lastfm": {
     "id": "Oasis/_/Stop+Crying+Your+Heart+Out",

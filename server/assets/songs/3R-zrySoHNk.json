@@ -1,9 +1,7 @@
 {
-  "mbid": "4774084f-9f05-45f9-a2aa-fad63c663dfd",
   "title": "Today's Song",
   "artist": "Foo Fighters",
   "album": "Today’s Song",
-  "releaseCount": 1,
   "duration": 195,
   "youtubeId": "3R-zrySoHNk",
   "lastFetched": "2025-11-19T01:37:48.593Z",
@@ -18,7 +16,6 @@
     "youtubeMusic": "3R-zrySoHNk"
   },
   "name": "Today's Song",
-  "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -27,7 +24,10 @@
       "hard rock",
       "post-grunge",
       "rock"
-    ]
+    ],
+    "trackMbid": "4774084f-9f05-45f9-a2aa-fad63c663dfd",
+    "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Foo+Fighters/_/Today%27s+Song",

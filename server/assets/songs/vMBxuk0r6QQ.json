@@ -19,15 +19,15 @@
     "youtube": "vMBxuk0r6QQ",
     "youtubeMusic": "vMBxuk0r6QQ"
   },
-  "mbid": "495312d7-d138-37ee-97bc-694004981e6d",
-  "artistMbid": "bf69a157-325d-4b73-a11a-fce8079e539c",
   "musicbrainz": {
     "artistTags": [
       "country"
     ],
     "artistGenres": [
       "country"
-    ]
+    ],
+    "trackMbid": "495312d7-d138-37ee-97bc-694004981e6d",
+    "artistMbid": "bf69a157-325d-4b73-a11a-fce8079e539c"
   },
   "lastfm": {
     "id": "Don+Edwards/_/Coyotes",

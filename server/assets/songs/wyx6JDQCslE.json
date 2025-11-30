@@ -19,8 +19,6 @@
     "youtube": "wyx6JDQCslE",
     "youtubeMusic": "wyx6JDQCslE"
   },
-  "mbid": "72a112d8-e0c9-43e3-a339-3abb5d38efa2",
-  "artistMbid": "ed5d9086-e8cd-473a-b96c-d81ad6c98f0d",
   "musicbrainz": {
     "tags": [
       "dance",
@@ -28,7 +26,9 @@
       "electronic",
       "lmfao",
       "Hip-Hop"
-    ]
+    ],
+    "trackMbid": "72a112d8-e0c9-43e3-a339-3abb5d38efa2",
+    "artistMbid": "ed5d9086-e8cd-473a-b96c-d81ad6c98f0d"
   },
   "lastfm": {
     "id": "LMFAO/_/Sexy+and+I+Know+It",

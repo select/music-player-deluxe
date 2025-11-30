@@ -21,8 +21,6 @@
     "youtube": "vaIXj2VQHK0",
     "youtubeMusic": "vaIXj2VQHK0"
   },
-  "mbid": "6cc9eb54-d00e-31c4-825a-72e9dee82776",
-  "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -42,7 +40,9 @@
       "experimental",
       "experimental rock",
       "industrial"
-    ]
+    ],
+    "trackMbid": "6cc9eb54-d00e-31c4-825a-72e9dee82776",
+    "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22"
   },
   "lastfm": {
     "id": "Puscifer/_/Green+Valley",

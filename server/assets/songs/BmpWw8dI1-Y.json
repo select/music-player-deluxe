@@ -15,8 +15,6 @@
     "youtube": "BmpWw8dI1-Y",
     "youtubeMusic": "BmpWw8dI1-Y"
   },
-  "mbid": "44dd3ead-bc24-4e69-a93a-9653ea9f6355",
-  "artistMbid": "ccda046a-2674-4f7d-97e6-f23d6c156432",
   "musicbrainz": {
     "artistTags": [
       "4ad",
@@ -36,7 +34,9 @@
       "dark wave",
       "dream pop",
       "ethereal wave"
-    ]
+    ],
+    "trackMbid": "44dd3ead-bc24-4e69-a93a-9653ea9f6355",
+    "artistMbid": "ccda046a-2674-4f7d-97e6-f23d6c156432"
   },
   "lastfm": {
     "id": "Dead+Can+Dance/_/Mushin",

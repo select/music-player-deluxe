@@ -1,11 +1,9 @@
 {
-  "mbid": "841b81d2-7fe6-41c2-9c3e-d6c867936bb4",
   "title": "Goliath",
   "artist": "Woodkid",
   "duration": 230,
   "youtubeId": "5tEfYvY3bAg",
   "lastFetched": "2025-11-23T16:28:39.591Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0876J77HW",
     "amazonStore": "B0876J77HW",
@@ -23,7 +21,6 @@
     "youtube": "5tEfYvY3bAg",
     "youtubeMusic": "5tEfYvY3bAg"
   },
-  "artistMbid": "420e923e-e74c-42ef-b771-2e2bcee93394",
   "musicbrainz": {
     "artistTags": [
       "alternative",
@@ -43,7 +40,10 @@
       "electronic",
       "electronica",
       "folk"
-    ]
+    ],
+    "trackMbid": "841b81d2-7fe6-41c2-9c3e-d6c867936bb4",
+    "artistMbid": "420e923e-e74c-42ef-b771-2e2bcee93394",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Woodkid/_/Goliath",

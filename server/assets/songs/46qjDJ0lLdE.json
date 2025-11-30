@@ -16,8 +16,6 @@
     "youtube": "46qjDJ0lLdE",
     "youtubeMusic": "46qjDJ0lLdE"
   },
-  "mbid": "514059c2-16d0-4440-a820-60c5efea558c",
-  "artistMbid": "5e7ccd92-6277-451a-aab9-1efd587c50f3",
   "musicbrainz": {
     "artistTags": [
       "avant-garde metal",
@@ -34,7 +32,9 @@
       "hard rock",
       "instrumental rock",
       "progressive metal"
-    ]
+    ],
+    "trackMbid": "514059c2-16d0-4440-a820-60c5efea558c",
+    "artistMbid": "5e7ccd92-6277-451a-aab9-1efd587c50f3"
   },
   "lastfm": {
     "id": "Steve+Vai/_/Teeth+of+the+Hydra",

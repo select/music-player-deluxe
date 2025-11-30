@@ -16,7 +16,6 @@
     "youtube": "bbqVg_23otg",
     "youtubeMusic": "bbqVg_23otg"
   },
-  "artistMbid": "56ef1af4-5184-49f8-a972-583f35c2485c",
   "musicbrainz": {
     "tags": [
       "rnb",
@@ -24,7 +23,8 @@
       "female vocalists",
       "amerie",
       "dance"
-    ]
+    ],
+    "artistMbid": "56ef1af4-5184-49f8-a972-583f35c2485c"
   },
   "lastfm": {
     "id": "Amerie/_/1+Thing",

@@ -3,8 +3,6 @@
   "title": "Paradise Circus",
   "artist": "Massive Attack vs Burial",
   "lastFetched": "2025-11-23T16:36:45.084Z",
-  "mbid": "3284a14d-1e85-3a1b-8dc7-acdf2926667f",
-  "artistMbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
   "musicbrainz": {
     "artistTags": [
       "alternative dance",
@@ -24,7 +22,9 @@
       "club",
       "downtempo",
       "dub"
-    ]
+    ],
+    "trackMbid": "3284a14d-1e85-3a1b-8dc7-acdf2926667f",
+    "artistMbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8"
   },
   "lastfm": {
     "id": "Massive+Attack+vs+Burial/_/Paradise+Circus",

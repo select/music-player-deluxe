@@ -16,8 +16,6 @@
     "youtube": "iECixGaKVk4",
     "youtubeMusic": "iECixGaKVk4"
   },
-  "mbid": "8ae7c44e-45dd-44ca-8221-298a58df03c9",
-  "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
   "musicbrainz": {
     "artistTags": [
       "acoustic rock",
@@ -37,7 +35,9 @@
       "garage rock",
       "garage rock revival",
       "indie rock"
-    ]
+    ],
+    "trackMbid": "8ae7c44e-45dd-44ca-8221-298a58df03c9",
+    "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696"
   },
   "lastfm": {
     "id": "Cage+the+Elephant/_/Broken+Boy",

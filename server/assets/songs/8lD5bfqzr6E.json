@@ -1,11 +1,9 @@
 {
-  "mbid": "fc2d9e14-c592-46c5-bc3f-89c827ab9318",
   "title": "Crazy Train (Live)",
   "artist": "Ozzy Osbourne",
   "duration": 361,
   "youtubeId": "8lD5bfqzr6E",
   "lastFetched": "2025-11-19T03:17:19.690Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0013D6ACK",
     "amazonStore": "B0013D6ACK",
@@ -18,7 +16,6 @@
     "youtube": "8lD5bfqzr6E",
     "youtubeMusic": "8lD5bfqzr6E"
   },
-  "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
   "musicbrainz": {
     "tags": [
       "album rock",
@@ -32,7 +29,10 @@
       "pop-metal",
       "pop/rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "fc2d9e14-c592-46c5-bc3f-89c827ab9318",
+    "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Ozzy+Osbourne/_/Crazy+Train+(Live)",

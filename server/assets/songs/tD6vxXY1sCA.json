@@ -3,8 +3,6 @@
   "title": "Зелені Очі",
   "artist": "Океан Ельзи",
   "lastFetched": "2025-11-23T16:51:57.420Z",
-  "mbid": "5090477b-1581-4780-82db-4caa1e1a5deb",
-  "artistMbid": "87a417d3-f118-43e0-bece-3de1bd90fce0",
   "musicbrainz": {
     "artistTags": [
       "rock",
@@ -12,7 +10,9 @@
     ],
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "trackMbid": "5090477b-1581-4780-82db-4caa1e1a5deb",
+    "artistMbid": "87a417d3-f118-43e0-bece-3de1bd90fce0"
   },
   "lastfm": {
     "id": "%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD+%D0%95%D0%BB%D1%8C%D0%B7%D0%B8/_/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%96+%D0%9E%D1%87%D1%96",

@@ -2,7 +2,7 @@
   "youtubeId": "0YEZiDtnbdA",
   "title": "Mathematik",
   "artist": "Lindemann",
-  "lastFetched": "2025-11-30T17:43:50.663Z",
+  "lastFetched": "2025-11-30T19:27:12.394Z",
   "odesli": {
     "amazonMusic": "B07L9MVSQJ",
     "amazonStore": "B07L9MVSQJ",
@@ -22,5 +22,16 @@
     "artist": "Lindemann",
     "mbid": "0c668d04-17e5-430e-b031-61262ca12c53",
     "artistMbid": "cc9060e4-ad8a-4b28-a19c-3ec6c93f8236"
+  },
+  "musicbrainz": {
+    "trackMbid": "9ae89a5f-a6f7-47a1-b75d-4cffe8458ed8",
+    "artistMbid": "cc9060e4-ad8a-4b28-a19c-3ec6c93f8236",
+    "releaseCount": 6,
+    "artistGenres": [
+      "heavy metal",
+      "industrial",
+      "industrial metal",
+      "metal"
+    ]
   }
 }

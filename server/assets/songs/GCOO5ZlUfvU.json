@@ -9,8 +9,6 @@
     "youtube": "GCOO5ZlUfvU",
     "youtubeMusic": "GCOO5ZlUfvU"
   },
-  "mbid": "7b138df0-b4aa-4647-adb3-2bed43420648",
-  "artistMbid": "bbc5b66b-d037-4f26-aecf-0b129e7f876a",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -30,7 +28,9 @@
       "emo pop",
       "indie rock",
       "pop punk"
-    ]
+    ],
+    "trackMbid": "7b138df0-b4aa-4647-adb3-2bed43420648",
+    "artistMbid": "bbc5b66b-d037-4f26-aecf-0b129e7f876a"
   },
   "lastfm": {
     "id": "Jimmy+Eat+World/_/A+Praise+Chorus",

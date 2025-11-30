@@ -14,7 +14,6 @@
     "youtube": "_iTEs-G7pB0",
     "youtubeMusic": "_iTEs-G7pB0"
   },
-  "artistMbid": "796481a3-2977-45b6-84b3-eb06bb10a903",
   "lastfm": {
     "id": "Peret/_/El+muerto+vivo",
     "listeners": 28179,
@@ -26,5 +25,8 @@
       "700",
       "torero"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "796481a3-2977-45b6-84b3-eb06bb10a903"
   }
 }

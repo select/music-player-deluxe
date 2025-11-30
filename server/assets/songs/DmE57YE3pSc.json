@@ -3,8 +3,6 @@
   "title": "Well Thought Out Twinkles",
   "artist": "Silversun Pickups",
   "lastFetched": "2025-11-23T16:32:32.830Z",
-  "mbid": "964aa5ea-9fab-42cb-9849-550bc4b64f12",
-  "artistMbid": "b5bd9f88-962e-4730-84a7-795592ba42e8",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -19,7 +17,9 @@
       "indietronica",
       "rock",
       "shoegaze"
-    ]
+    ],
+    "trackMbid": "964aa5ea-9fab-42cb-9849-550bc4b64f12",
+    "artistMbid": "b5bd9f88-962e-4730-84a7-795592ba42e8"
   },
   "lastfm": {
     "id": "Silversun+Pickups/_/Well+Thought+Out+Twinkles",

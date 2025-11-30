@@ -18,8 +18,6 @@
     "youtube": "v64-DpcLEvI",
     "youtubeMusic": "v64-DpcLEvI"
   },
-  "mbid": "846c8d32-8ed9-4865-804b-b3245e219907",
-  "artistMbid": "91ae77d8-3bb5-4e59-98a7-532ac0f2825d",
   "musicbrainz": {
     "tags": [
       "groovy",
@@ -27,7 +25,9 @@
       "synthpop",
       "indie pop",
       "band"
-    ]
+    ],
+    "trackMbid": "846c8d32-8ed9-4865-804b-b3245e219907",
+    "artistMbid": "91ae77d8-3bb5-4e59-98a7-532ac0f2825d"
   },
   "lastfm": {
     "id": "I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Choke",

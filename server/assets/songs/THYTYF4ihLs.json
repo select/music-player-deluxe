@@ -1,8 +1,6 @@
 {
   "title": "Flu",
   "artist": "Jameszoo",
-  "artistMbid": "30327723-b703-4a1b-b305-957d66b2df89",
-  "releaseCount": 4,
   "duration": 309,
   "youtubeId": "THYTYF4ihLs",
   "lastFetched": "2025-11-19T01:40:20.248Z",
@@ -24,5 +22,9 @@
     "tags": [
       "jazz fusion"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "30327723-b703-4a1b-b305-957d66b2df89",
+    "releaseCount": 4
   }
 }

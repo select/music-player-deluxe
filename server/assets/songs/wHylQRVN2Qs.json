@@ -16,8 +16,6 @@
     "youtube": "wHylQRVN2Qs",
     "youtubeMusic": "wHylQRVN2Qs"
   },
-  "mbid": "700e7687-fd47-4f57-a43d-42d76eaf0ce9",
-  "artistMbid": "7944ed53-2a58-4035-9b93-140a71e41c34",
   "musicbrainz": {
     "artistTags": [
       "adult contemporary",
@@ -37,7 +35,9 @@
       "jazz pop",
       "new wave",
       "pop"
-    ]
+    ],
+    "trackMbid": "700e7687-fd47-4f57-a43d-42d76eaf0ce9",
+    "artistMbid": "7944ed53-2a58-4035-9b93-140a71e41c34"
   },
   "lastfm": {
     "id": "Sting/_/Russians",

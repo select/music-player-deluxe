@@ -16,8 +16,6 @@
     "youtube": "1lWJXDG2i0A",
     "youtubeMusic": "1lWJXDG2i0A"
   },
-  "mbid": "ea8f7998-36f7-4131-9ea5-8fefad8b40a1",
-  "artistMbid": "5ca3f318-d028-4151-ac73-78e2b2d6cdcc",
   "musicbrainz": {
     "tags": [
       "classic rock",
@@ -25,7 +23,9 @@
       "rock",
       "Tom Petty",
       "Southern Rock"
-    ]
+    ],
+    "trackMbid": "ea8f7998-36f7-4131-9ea5-8fefad8b40a1",
+    "artistMbid": "5ca3f318-d028-4151-ac73-78e2b2d6cdcc"
   },
   "lastfm": {
     "id": "Tom+Petty/_/Free+Fallin%27",

@@ -16,8 +16,6 @@
     "youtube": "5c3EjeP2x-Q",
     "youtubeMusic": "5c3EjeP2x-Q"
   },
-  "mbid": "753b8762-2f20-495d-9571-bc1be26a978c",
-  "artistMbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
   "musicbrainz": {
     "tags": [
       "indie rock",
@@ -25,7 +23,9 @@
       "indie",
       "synthpop",
       "synth pop"
-    ]
+    ],
+    "trackMbid": "753b8762-2f20-495d-9571-bc1be26a978c",
+    "artistMbid": "f181961b-20f7-459e-89de-920ef03c7ed0"
   },
   "lastfm": {
     "id": "The+Strokes/_/Eternal+Summer",

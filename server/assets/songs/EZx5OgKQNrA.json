@@ -3,8 +3,6 @@
   "title": "The Irony of It All",
   "artist": "The Streets",
   "lastFetched": "2025-11-23T16:32:58.693Z",
-  "mbid": "7376d12b-8014-33a7-b5c5-dd070d1cda7e",
-  "artistMbid": "6f607087-9c46-4bb2-a884-e4efc764554c",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -21,7 +19,9 @@
     "artistGenres": [
       "hip hop",
       "uk garage"
-    ]
+    ],
+    "trackMbid": "7376d12b-8014-33a7-b5c5-dd070d1cda7e",
+    "artistMbid": "6f607087-9c46-4bb2-a884-e4efc764554c"
   },
   "lastfm": {
     "id": "The+Streets/_/The+Irony+of+It+All",

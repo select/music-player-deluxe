@@ -10,7 +10,6 @@
     "youtube": "8j9idXRTJC8",
     "youtubeMusic": "8j9idXRTJC8"
   },
-  "artistMbid": "1a45928d-b61c-47c5-9498-45ad58d173c1",
   "lastfm": {
     "id": "Cartridge/_/Barge+Pole",
     "listeners": 32,
@@ -19,5 +18,8 @@
       "drum and bass",
       "indie rock"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "1a45928d-b61c-47c5-9498-45ad58d173c1"
   }
 }

@@ -10,12 +10,12 @@
     "youtube": "TwSUl_79Quk",
     "youtubeMusic": "TwSUl_79Quk"
   },
-  "mbid": "32ea1a38-22ad-4f19-b769-785a048be33c",
-  "artistMbid": "0df6d50f-7e43-4c6a-8220-61932b67c9c5",
   "musicbrainz": {
     "artistTags": [
       "pop and chart"
-    ]
+    ],
+    "trackMbid": "32ea1a38-22ad-4f19-b769-785a048be33c",
+    "artistMbid": "0df6d50f-7e43-4c6a-8220-61932b67c9c5"
   },
   "lastfm": {
     "id": "The+Supermen+Lovers/_/Walking+On+The+Moon",

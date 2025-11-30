@@ -15,8 +15,6 @@
     "youtube": "62OxFo4cZWI",
     "youtubeMusic": "62OxFo4cZWI"
   },
-  "mbid": "72ea72e3-4664-4909-a6c4-ff91bbed0853",
-  "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
   "musicbrainz": {
     "artistTags": [
       "blues rock",
@@ -32,7 +30,9 @@
       "hard rock",
       "rock",
       "rock and roll"
-    ]
+    ],
+    "trackMbid": "72ea72e3-4664-4909-a6c4-ff91bbed0853",
+    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1"
   },
   "lastfm": {
     "id": "AC%2FDC/_/Squealer",

@@ -16,8 +16,6 @@
     "youtube": "YfjTZLxekig",
     "youtubeMusic": "YfjTZLxekig"
   },
-  "mbid": "6befa91f-fce9-4582-95f5-dc07f19a881c",
-  "artistMbid": "6e650a01-6489-4dc8-85e1-8ec809dd72a2",
   "musicbrainz": {
     "tags": [
       "hard rock",
@@ -25,7 +23,9 @@
       "Nu Metal",
       "Saliva",
       "metal"
-    ]
+    ],
+    "trackMbid": "6befa91f-fce9-4582-95f5-dc07f19a881c",
+    "artistMbid": "6e650a01-6489-4dc8-85e1-8ec809dd72a2"
   },
   "lastfm": {
     "id": "Saliva/_/Click+Click+Boom",

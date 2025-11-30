@@ -15,7 +15,6 @@
     "youtube": "eZQyVUTcpM4",
     "youtubeMusic": "eZQyVUTcpM4"
   },
-  "artistMbid": "5dcdb5eb-cb72-4e6e-9e63-b7bace604965",
   "lastfm": {
     "id": "Bon+Jovi/_/Keep+the+Faith",
     "listeners": 309769,
@@ -28,5 +27,8 @@
       "classic rock",
       "80s"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "5dcdb5eb-cb72-4e6e-9e63-b7bace604965"
   }
 }

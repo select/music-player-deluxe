@@ -11,8 +11,6 @@
     "youtube": "VIpnaZMa4Yg",
     "youtubeMusic": "VIpnaZMa4Yg"
   },
-  "mbid": "1f115ded-92bc-49b3-8c86-511abe130418",
-  "artistMbid": "9ddce51c-2b75-4b3e-ac8c-1db09e7c89c6",
   "musicbrainz": {
     "artistTags": [
       "2-step",
@@ -32,7 +30,9 @@
       "dub",
       "dubstep",
       "electronic"
-    ]
+    ],
+    "trackMbid": "1f115ded-92bc-49b3-8c86-511abe130418",
+    "artistMbid": "9ddce51c-2b75-4b3e-ac8c-1db09e7c89c6"
   },
   "lastfm": {
     "id": "Burial/_/Southern+Comfort",

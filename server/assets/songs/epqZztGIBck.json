@@ -15,8 +15,6 @@
     "youtube": "epqZztGIBck",
     "youtubeMusic": "epqZztGIBck"
   },
-  "mbid": "a77cd8ec-6289-44e2-8786-af0e70296dc2",
-  "artistMbid": "d69a9069-74b4-47e0-9e7a-8d703bda6e3e",
   "lastfm": {
     "id": "Kofelgschroa/_/Bladl",
     "listeners": 671,
@@ -28,5 +26,9 @@
       "new-folk",
       "vogelwild"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a77cd8ec-6289-44e2-8786-af0e70296dc2",
+    "artistMbid": "d69a9069-74b4-47e0-9e7a-8d703bda6e3e"
   }
 }

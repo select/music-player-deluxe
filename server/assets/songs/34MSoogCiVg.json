@@ -11,8 +11,6 @@
     "youtube": "34MSoogCiVg",
     "youtubeMusic": "34MSoogCiVg"
   },
-  "mbid": "a3fcfed9-b42a-444c-9ae1-973091ee62b6",
-  "artistMbid": "f52b01cb-fd98-4f85-b855-0ecf47827de2",
   "lastfm": {
     "id": "BSEARL/_/Echo",
     "listeners": 3158,
@@ -24,5 +22,9 @@
       "2step",
       "uk garage"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a3fcfed9-b42a-444c-9ae1-973091ee62b6",
+    "artistMbid": "f52b01cb-fd98-4f85-b855-0ecf47827de2"
   }
 }

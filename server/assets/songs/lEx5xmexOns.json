@@ -3,8 +3,6 @@
   "title": "Bohemian Rhapsody",
   "artist": "Queen",
   "lastFetched": "2025-11-19T09:12:41.217Z",
-  "mbid": "623ad0b2-7a27-445a-aa4d-645853e9b285",
-  "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
   "musicbrainz": {
     "tags": [
       "classic rock",
@@ -12,7 +10,9 @@
       "Queen",
       "70s",
       "80s"
-    ]
+    ],
+    "trackMbid": "623ad0b2-7a27-445a-aa4d-645853e9b285",
+    "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3"
   },
   "lastfm": {
     "id": "Queen/_/Bohemian+Rhapsody",

@@ -21,8 +21,6 @@
     "youtube": "bSdtvfBQd6c",
     "youtubeMusic": "bSdtvfBQd6c"
   },
-  "mbid": "9b2ec0e6-8e1c-4c75-9854-325671f60c4a",
-  "artistMbid": "95ee8d6d-07b8-4588-a405-c64cef1d05b3",
   "lastfm": {
     "id": "Royal+Blood/_/Out+of+the+Black",
     "listeners": 390687,
@@ -34,5 +32,9 @@
       "alternative rock",
       "edm"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9b2ec0e6-8e1c-4c75-9854-325671f60c4a",
+    "artistMbid": "95ee8d6d-07b8-4588-a405-c64cef1d05b3"
   }
 }

@@ -14,7 +14,6 @@
     "youtube": "FACsK3NbSK4",
     "youtubeMusic": "FACsK3NbSK4"
   },
-  "artistMbid": "7c4137fe-a8ab-49a7-a794-7c0254c26625",
   "lastfm": {
     "id": "The+Fly+Guy+Five/_/Extra+Fries",
     "listeners": 5748,
@@ -22,5 +21,8 @@
     "tags": [
       "jazz"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "7c4137fe-a8ab-49a7-a794-7c0254c26625"
   }
 }

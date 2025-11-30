@@ -16,8 +16,6 @@
     "youtube": "EMgsAD3D948",
     "youtubeMusic": "EMgsAD3D948"
   },
-  "mbid": "1d3c079e-d697-43eb-bf9d-91579087352a",
-  "artistMbid": "abc7cbc7-a3bc-449a-867e-f8b22dded93c",
   "musicbrainz": {
     "artistTags": [
       "awesomename",
@@ -27,7 +25,9 @@
     "artistGenres": [
       "hip hop",
       "nerdcore"
-    ]
+    ],
+    "trackMbid": "1d3c079e-d697-43eb-bf9d-91579087352a",
+    "artistMbid": "abc7cbc7-a3bc-449a-867e-f8b22dded93c"
   },
   "lastfm": {
     "id": "MC+Frontalot/_/I%27ll+Form+the+Head",

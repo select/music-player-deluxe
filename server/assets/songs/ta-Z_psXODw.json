@@ -1,7 +1,7 @@
 {
   "youtubeId": "ta-Z_psXODw",
   "title": "ALESTORM - Keelhauled (Official Video) | Napalm Records",
-  "lastFetched": "2025-11-30T17:24:03.385Z",
+  "lastFetched": "2025-11-30T19:25:40.194Z",
   "ai": {
     "title": "Keelhauled",
     "artist": "ALESTORM"
@@ -20,6 +20,24 @@
       "folk metal",
       "power metal",
       "true scottish pirate metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "79ba6f9e-9595-4756-b895-f2a6c64d6d8b",
+    "artistMbid": "c0252a1b-0133-46bb-8c4f-cade46349ec3",
+    "releaseCount": 13,
+    "genres": [
+      "folk metal",
+      "folk rock",
+      "heavy metal",
+      "metal",
+      "power metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "folk metal",
+      "metal",
+      "power metal"
     ]
   }
 }

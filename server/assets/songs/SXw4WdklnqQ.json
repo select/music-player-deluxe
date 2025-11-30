@@ -15,7 +15,6 @@
     "youtube": "SXw4WdklnqQ",
     "youtubeMusic": "SXw4WdklnqQ"
   },
-  "artistMbid": "79653a02-62a5-4be4-8a3c-7231b8cb614e",
   "lastfm": {
     "id": "Arp/_/Eniko",
     "listeners": 2196,
@@ -26,5 +25,8 @@
       "experimental",
       "downtempo"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "79653a02-62a5-4be4-8a3c-7231b8cb614e"
   }
 }

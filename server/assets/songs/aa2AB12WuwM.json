@@ -16,8 +16,6 @@
     "youtube": "aa2AB12WuwM",
     "youtubeMusic": "aa2AB12WuwM"
   },
-  "mbid": "10595bde-f95f-4b24-b45c-ad51954631a5",
-  "artistMbid": "dc0af5d3-3781-4e13-8644-5c98ae3ccb50",
   "lastfm": {
     "id": "Malia+J/_/Smells+Like+Teen+Spirit",
     "listeners": 75869,
@@ -29,5 +27,9 @@
       "marvel",
       "pop"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "10595bde-f95f-4b24-b45c-ad51954631a5",
+    "artistMbid": "dc0af5d3-3781-4e13-8644-5c98ae3ccb50"
   }
 }

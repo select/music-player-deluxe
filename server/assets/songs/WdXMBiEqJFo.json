@@ -1,11 +1,9 @@
 {
-  "mbid": "40232262-f725-4897-b918-7c582a1686eb",
   "title": "In Reverse",
   "artist": "Rival Consoles",
   "duration": 248,
   "youtubeId": "WdXMBiEqJFo",
   "lastFetched": "2025-11-19T01:38:09.074Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0DY8J87MX",
     "amazonStore": "B0DY8J87MX",
@@ -16,11 +14,13 @@
     "youtubeMusic": "WdXMBiEqJFo"
   },
   "name": "In Reverse",
-  "artistMbid": "803f2853-7e3e-4dff-96a7-9f77b5f56de5",
   "musicbrainz": {
     "tags": [
       "idm"
-    ]
+    ],
+    "trackMbid": "40232262-f725-4897-b918-7c582a1686eb",
+    "artistMbid": "803f2853-7e3e-4dff-96a7-9f77b5f56de5",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Rival+Consoles/_/In+Reverse",

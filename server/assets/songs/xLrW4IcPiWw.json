@@ -16,8 +16,6 @@
     "youtube": "xLrW4IcPiWw",
     "youtubeMusic": "xLrW4IcPiWw"
   },
-  "mbid": "1dee7f33-4774-35d0-9e49-1fe9e4dcb5ce",
-  "artistMbid": "38c8254f-ceac-460d-9123-5af2d7a4fc7e",
   "musicbrainz": {
     "artistTags": [
       "hip hop",
@@ -26,7 +24,9 @@
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "trackMbid": "1dee7f33-4774-35d0-9e49-1fe9e4dcb5ce",
+    "artistMbid": "38c8254f-ceac-460d-9123-5af2d7a4fc7e"
   },
   "lastfm": {
     "id": "Control+Machete/_/Comprendes,+Mendes%3F",

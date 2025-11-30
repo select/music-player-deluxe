@@ -20,7 +20,6 @@
     "youtube": "MDar7v4PgbY",
     "youtubeMusic": "MDar7v4PgbY"
   },
-  "artistMbid": "484e7373-b5fc-4090-af7b-083a8cfdf531",
   "lastfm": {
     "id": "Ryan+James+Carr/_/Drums+Make+Me+Feel",
     "listeners": 266,
@@ -28,5 +27,8 @@
     "tags": [
       "funk_add_to_lidarr_batch_23"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "484e7373-b5fc-4090-af7b-083a8cfdf531"
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "DbwsIHZCVpc",
   "title": "Sleaford Mods - Tarantula Deadly Cargo Lyrics",
-  "lastFetched": "2025-11-30T17:23:47.149Z",
+  "lastFetched": "2025-11-30T19:24:11.710Z",
   "ai": {
     "title": "Tarantula Deadly Cargo",
     "artist": "Sleaford Mods"
@@ -17,6 +17,16 @@
     "tags": [
       "crank wave",
       "spoken word"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "00ea6bfd-8773-488f-9f72-90854da85d4f",
+    "artistMbid": "09d8290b-6ada-422f-8ce3-19349fb1c15d",
+    "releaseCount": 8,
+    "artistGenres": [
+      "electronic",
+      "hip hop",
+      "post-punk"
     ]
   }
 }

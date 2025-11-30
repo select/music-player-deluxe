@@ -12,8 +12,6 @@
     "youtube": "jVSc1LvnyHo",
     "youtubeMusic": "jVSc1LvnyHo"
   },
-  "mbid": "1b564b87-f654-47d4-9796-0da0af4497d3",
-  "artistMbid": "5cfd01c7-f308-4aa6-a489-36a43aeee525",
   "musicbrainz": {
     "artistTags": [
       "dubstep",
@@ -23,7 +21,9 @@
     "artistGenres": [
       "dubstep",
       "electronic"
-    ]
+    ],
+    "trackMbid": "1b564b87-f654-47d4-9796-0da0af4497d3",
+    "artistMbid": "5cfd01c7-f308-4aa6-a489-36a43aeee525"
   },
   "lastfm": {
     "id": "Kai+Wachi/_/DEMONS",

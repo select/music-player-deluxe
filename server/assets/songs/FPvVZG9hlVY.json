@@ -12,7 +12,6 @@
     "youtube": "FPvVZG9hlVY",
     "youtubeMusic": "FPvVZG9hlVY"
   },
-  "artistMbid": "85417c84-b3a4-426e-92ad-ac7c1943b6a9",
   "lastfm": {
     "id": "Wanda/_/Columbo",
     "listeners": 21576,
@@ -24,5 +23,8 @@
       "fm4",
       "2017"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "85417c84-b3a4-426e-92ad-ac7c1943b6a9"
   }
 }

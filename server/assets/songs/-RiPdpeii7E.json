@@ -1,9 +1,6 @@
 {
-  "mbid": "1e06cf21-1f93-4372-8c5e-ffb5debb137a",
   "title": "Four Brothers",
   "artist": "Art Pepper",
-  "artistMbid": "266b9126-4a40-4b9b-b21e-422d72e64254",
-  "releaseCount": 17,
   "duration": 181,
   "youtubeId": "-RiPdpeii7E",
   "lastFetched": "2025-11-19T05:09:47.812Z",
@@ -22,7 +19,10 @@
       "big band",
       "cool jazz",
       "jazz"
-    ]
+    ],
+    "trackMbid": "1e06cf21-1f93-4372-8c5e-ffb5debb137a",
+    "artistMbid": "266b9126-4a40-4b9b-b21e-422d72e64254",
+    "releaseCount": 17
   },
   "lastfm": {
     "id": "Art+Pepper/_/Four+Brothers",

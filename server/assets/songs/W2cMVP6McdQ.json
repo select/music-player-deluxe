@@ -19,8 +19,6 @@
     "youtube": "W2cMVP6McdQ",
     "youtubeMusic": "W2cMVP6McdQ"
   },
-  "mbid": "ab6ae712-31b5-326f-874c-2b92ac687c09",
-  "artistMbid": "4c01333f-e8e8-43bd-9923-8de83ef6f63d",
   "musicbrainz": {
     "artistTags": [
       "metal",
@@ -36,7 +34,9 @@
       "southern metal",
       "southern rock",
       "stoner metal"
-    ]
+    ],
+    "trackMbid": "ab6ae712-31b5-326f-874c-2b92ac687c09",
+    "artistMbid": "4c01333f-e8e8-43bd-9923-8de83ef6f63d"
   },
   "lastfm": {
     "id": "Down/_/Bury+Me+in+Smoke",

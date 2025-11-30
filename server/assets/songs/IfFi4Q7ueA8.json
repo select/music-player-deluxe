@@ -2,7 +2,7 @@
   "youtubeId": "IfFi4Q7ueA8",
   "title": "Slow Dancing in a Burning Room",
   "artist": "John Mayer",
-  "lastFetched": "2025-11-30T17:43:43.525Z",
+  "lastFetched": "2025-11-30T19:26:22.265Z",
   "odesli": {
     "amazonMusic": "B001BKRX94",
     "amazonStore": "B001BKRX94",
@@ -33,5 +33,20 @@
     "artist": "John Mayer",
     "mbid": "bd23c36c-650f-43f7-a73d-a9dc9920a624",
     "artistMbid": "144ef525-85e9-40c3-8335-02c32d0861f3"
+  },
+  "musicbrainz": {
+    "trackMbid": "494b6512-0865-4c87-9cf7-94fce86d2482",
+    "artistMbid": "144ef525-85e9-40c3-8335-02c32d0861f3",
+    "releaseCount": 3,
+    "artistGenres": [
+      "acoustic rock",
+      "americana",
+      "blues",
+      "blues rock",
+      "folk rock",
+      "pop rock",
+      "singer-songwriter",
+      "soft rock"
+    ]
   }
 }

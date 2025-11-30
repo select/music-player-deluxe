@@ -15,7 +15,6 @@
     "youtube": "bkk2H3Ztrfk",
     "youtubeMusic": "bkk2H3Ztrfk"
   },
-  "artistMbid": "962419b3-51c6-464d-acd5-b43f88429d85",
   "lastfm": {
     "id": "Disclosure/_/White+Noise+(feat.+AlunaGeorge)",
     "listeners": 54360,
@@ -28,5 +27,8 @@
       "dance",
       "electronic"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "962419b3-51c6-464d-acd5-b43f88429d85"
   }
 }

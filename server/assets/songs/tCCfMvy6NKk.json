@@ -1,7 +1,7 @@
 {
   "youtubeId": "tCCfMvy6NKk",
   "title": "Ed Cox - Arabian Raves",
-  "lastFetched": "2025-11-30T17:23:19.642Z",
+  "lastFetched": "2025-11-30T19:20:45.064Z",
   "ai": {
     "title": "Arabian Raves",
     "artist": "Ed Cox"
@@ -19,6 +19,14 @@
       "clowncore",
       "speedcore",
       "hardcore"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "056b00eb-fe35-4f62-8cad-fb1a29d1d36d",
+    "artistMbid": "8ded2ffc-c649-4b0f-942e-34410201bc48",
+    "releaseCount": 1,
+    "genres": [
+      "country"
     ]
   }
 }

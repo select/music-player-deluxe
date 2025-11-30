@@ -3,7 +3,6 @@
   "title": "Fly Like an Eagle",
   "artist": "Steve Miller Band",
   "lastFetched": "2025-11-19T10:49:01.288Z",
-  "artistMbid": "e57f0cac-4f56-473c-8d7e-d93f753fd586",
   "lastfm": {
     "id": "Steve+Miller+Band/_/Fly+Like+an+Eagle",
     "listeners": 490804,
@@ -15,5 +14,8 @@
       "rock",
       "psychedelic"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "e57f0cac-4f56-473c-8d7e-d93f753fd586"
   }
 }

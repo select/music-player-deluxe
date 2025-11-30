@@ -13,8 +13,6 @@
     "youtube": "I8ygfX0BavM",
     "youtubeMusic": "I8ygfX0BavM"
   },
-  "mbid": "f009ec3e-9952-4c3b-b4ab-6c0fa678cdce",
-  "artistMbid": "de7ecc1f-487c-4ef9-8a0c-c18146c309c4",
   "musicbrainz": {
     "artistTags": [
       "blues rock",
@@ -23,7 +21,9 @@
     "artistGenres": [
       "blues rock",
       "hard rock"
-    ]
+    ],
+    "trackMbid": "f009ec3e-9952-4c3b-b4ab-6c0fa678cdce",
+    "artistMbid": "de7ecc1f-487c-4ef9-8a0c-c18146c309c4"
   },
   "lastfm": {
     "id": "Dirty+Honey/_/When+I%27m+Gone",

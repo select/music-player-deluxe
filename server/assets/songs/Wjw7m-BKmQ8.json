@@ -2,7 +2,7 @@
   "youtubeId": "Wjw7m-BKmQ8",
   "title": "Under Me Sleng Teng",
   "artist": "Wayne Smith",
-  "lastFetched": "2025-11-30T17:43:31.924Z",
+  "lastFetched": "2025-11-30T19:24:31.665Z",
   "odesli": {
     "amazonMusic": "B01AOINX2Y",
     "amazonStore": "B01AOINX2Y",
@@ -28,6 +28,21 @@
       "dancehall",
       "sleng teng",
       "wayne smith"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "04c83b0f-9225-485a-98aa-014542fea260",
+    "artistMbid": "4d2794e2-d826-48bb-b379-a36b2ba11247",
+    "releaseCount": 3,
+    "genres": [
+      "dancehall",
+      "ragga",
+      "reggae"
+    ],
+    "artistGenres": [
+      "dancehall",
+      "dub",
+      "reggae"
     ]
   }
 }

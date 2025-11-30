@@ -3,8 +3,6 @@
   "title": "Heimatlied",
   "artist": "Sportfreunde Stiller",
   "lastFetched": "2025-11-23T16:54:22.047Z",
-  "mbid": "05cf7af6-5c8e-39cb-b7d6-0dd5d41d2e8e",
-  "artistMbid": "35581de7-591f-424f-9c64-7b22fd45605e",
   "musicbrainz": {
     "artistTags": [
       "german",
@@ -17,7 +15,9 @@
       "indie pop",
       "pop punk",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "05cf7af6-5c8e-39cb-b7d6-0dd5d41d2e8e",
+    "artistMbid": "35581de7-591f-424f-9c64-7b22fd45605e"
   },
   "lastfm": {
     "id": "Sportfreunde+Stiller/_/Heimatlied",

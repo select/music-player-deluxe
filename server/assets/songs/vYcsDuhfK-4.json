@@ -20,8 +20,6 @@
     "youtube": "vYcsDuhfK-4",
     "youtubeMusic": "vYcsDuhfK-4"
   },
-  "mbid": "32f6f624-e56f-4351-8d28-cac562e82ee5",
-  "artistMbid": "0aa7e8fd-ba08-4a2d-93fc-91baf635072d",
   "musicbrainz": {
     "artistTags": [
       "aor",
@@ -32,7 +30,9 @@
       "aor",
       "classic rock",
       "hard rock"
-    ]
+    ],
+    "trackMbid": "32f6f624-e56f-4351-8d28-cac562e82ee5",
+    "artistMbid": "0aa7e8fd-ba08-4a2d-93fc-91baf635072d"
   },
   "lastfm": {
     "id": "The+Night+Flight+Orchestra/_/Star+Of+Rio",

@@ -16,7 +16,6 @@
     "youtube": "ym0OCU65Gb4",
     "youtubeMusic": "ym0OCU65Gb4"
   },
-  "artistMbid": "d7f11b5c-8743-4f87-8a19-6852db9b5d88",
   "lastfm": {
     "id": "Mar+Malade/_/Balloon",
     "listeners": 1340,
@@ -27,5 +26,8 @@
       "feelgood",
       "german"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "d7f11b5c-8743-4f87-8a19-6852db9b5d88"
   }
 }

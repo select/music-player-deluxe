@@ -11,15 +11,15 @@
     "youtube": "cfhzMrzV9RQ",
     "youtubeMusic": "cfhzMrzV9RQ"
   },
-  "mbid": "3c343c84-c5a7-47ce-979a-7ae96cd112a5",
-  "artistMbid": "65541f32-262c-4a6a-a887-d192d6630ff3",
   "musicbrainz": {
     "artistTags": [
       "jazz"
     ],
     "artistGenres": [
       "jazz"
-    ]
+    ],
+    "trackMbid": "3c343c84-c5a7-47ce-979a-7ae96cd112a5",
+    "artistMbid": "65541f32-262c-4a6a-a887-d192d6630ff3"
   },
   "lastfm": {
     "id": "Timo+Lassy/_/Sointu",

@@ -14,8 +14,6 @@
     "youtube": "zsMQdQNlwfk",
     "youtubeMusic": "zsMQdQNlwfk"
   },
-  "mbid": "3680a233-a966-4d1d-a32f-6d9de9332636",
-  "artistMbid": "d050be17-1326-48b8-b8d4-49570bdab8e7",
   "musicbrainz": {
     "tags": [
       "pop",
@@ -32,7 +30,9 @@
     "artistGenres": [
       "pop",
       "schlager"
-    ]
+    ],
+    "trackMbid": "3680a233-a966-4d1d-a32f-6d9de9332636",
+    "artistMbid": "d050be17-1326-48b8-b8d4-49570bdab8e7"
   },
   "lastfm": {
     "id": "Nino+de+Angelo/_/Jenseits+von+Eden",

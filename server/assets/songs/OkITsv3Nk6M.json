@@ -14,8 +14,6 @@
     "youtube": "OkITsv3Nk6M",
     "youtubeMusic": "OkITsv3Nk6M"
   },
-  "mbid": "0402d66b-5782-416a-8204-d4de1b5a2423",
-  "artistMbid": "6c8b9855-ba8b-48f9-ac1d-42167f7f7b18",
   "musicbrainz": {
     "artistTags": [
       "folk pop",
@@ -31,7 +29,9 @@
       "indie pop",
       "indie rock",
       "psychedelic pop"
-    ]
+    ],
+    "trackMbid": "0402d66b-5782-416a-8204-d4de1b5a2423",
+    "artistMbid": "6c8b9855-ba8b-48f9-ac1d-42167f7f7b18"
   },
   "lastfm": {
     "id": "The+Shins/_/Phantom+Limb",

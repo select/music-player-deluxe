@@ -20,8 +20,6 @@
     "youtube": "NJYzpNHJ2mY",
     "youtubeMusic": "NJYzpNHJ2mY"
   },
-  "mbid": "569f689a-c88b-4955-bfe7-3257ecc0eaa8",
-  "artistMbid": "197450cd-0124-4164-b723-3c22dd16494d",
   "musicbrainz": {
     "artistTags": [
       "acting",
@@ -41,7 +39,9 @@
       "easy listening",
       "jazz",
       "lounge"
-    ]
+    ],
+    "trackMbid": "569f689a-c88b-4955-bfe7-3257ecc0eaa8",
+    "artistMbid": "197450cd-0124-4164-b723-3c22dd16494d"
   },
   "lastfm": {
     "id": "Frank+Sinatra/_/Willow+Weep+For+Me+(2018+Stereo+Mix)",

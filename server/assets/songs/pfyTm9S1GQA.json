@@ -1,12 +1,9 @@
 {
-  "mbid": "2c1ae6d7-a125-43b7-a060-95716f6acb85",
   "title": "The Big Beat",
   "artist": "Billy Squier",
   "duration": 237,
   "youtubeId": "pfyTm9S1GQA",
   "lastFetched": "2025-11-19T03:29:35.646Z",
-  "releaseCount": 1,
-  "artistMbid": "3792dcb3-036e-45d6-8ee2-ff8d12c6c6c9",
   "odesli": {
     "amazonMusic": "B004RCG6GE",
     "amazonStore": "B004RCG6GE",
@@ -21,7 +18,10 @@
       "hard rock",
       "pop rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "2c1ae6d7-a125-43b7-a060-95716f6acb85",
+    "artistMbid": "3792dcb3-036e-45d6-8ee2-ff8d12c6c6c9",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Billy+Squier/_/The+Big+Beat",

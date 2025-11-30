@@ -1,11 +1,9 @@
 {
-  "mbid": "53fb5a08-4e68-4d02-bc71-dadad4da3e7f",
   "title": "Drückeberger",
   "artist": "Tapete",
   "duration": 139,
   "youtubeId": "k7-bdqr-2KA",
   "lastFetched": "2025-11-23T15:40:36.611Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B00R8OWHRK",
     "amazonStore": "B00R8OWHRK",
@@ -16,11 +14,13 @@
     "youtube": "k7-bdqr-2KA",
     "youtubeMusic": "k7-bdqr-2KA"
   },
-  "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3",
   "musicbrainz": {
     "artistTags": [
       "hip hop"
-    ]
+    ],
+    "trackMbid": "53fb5a08-4e68-4d02-bc71-dadad4da3e7f",
+    "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3",
+    "releaseCount": 1
   },
   "ai": {
     "title": "Tapete",

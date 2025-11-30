@@ -21,8 +21,6 @@
     "youtube": "nXB4xBnP22o",
     "youtubeMusic": "nXB4xBnP22o"
   },
-  "mbid": "80c2a25f-a97c-3971-aa4f-27a17928825f",
-  "artistMbid": "618b6900-0618-4f1e-b835-bccb17f84294",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -41,7 +39,9 @@
       "british rhythm & blues",
       "electric blues",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "80c2a25f-a97c-3971-aa4f-27a17928825f",
+    "artistMbid": "618b6900-0618-4f1e-b835-bccb17f84294"
   },
   "lastfm": {
     "id": "Eric+Clapton/_/Change+The+World",

@@ -3,7 +3,6 @@
   "title": "Sleeping Satellite",
   "artist": "Tasmin Archer",
   "lastFetched": "2025-11-19T13:54:16.470Z",
-  "artistMbid": "44ecd2ac-a5b9-4b64-8edb-f3c76a5fa439",
   "lastfm": {
     "id": "Tasmin+Archer/_/Sleeping+Satellite",
     "listeners": 195725,
@@ -16,5 +15,8 @@
       "soul",
       "british"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "44ecd2ac-a5b9-4b64-8edb-f3c76a5fa439"
   }
 }

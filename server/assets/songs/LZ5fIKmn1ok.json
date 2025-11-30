@@ -16,8 +16,6 @@
     "youtube": "LZ5fIKmn1ok",
     "youtubeMusic": "LZ5fIKmn1ok"
   },
-  "mbid": "6163e20c-9bfe-4bef-9c46-eb3a2b122097",
-  "artistMbid": "57961a97-3796-4bf7-9f02-a985a8979ae9",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -35,7 +33,9 @@
       "metal",
       "rock",
       "speed metal"
-    ]
+    ],
+    "trackMbid": "6163e20c-9bfe-4bef-9c46-eb3a2b122097",
+    "artistMbid": "57961a97-3796-4bf7-9f02-a985a8979ae9"
   },
   "lastfm": {
     "id": "Mot%C3%B6rhead/_/Killed+by+Death",

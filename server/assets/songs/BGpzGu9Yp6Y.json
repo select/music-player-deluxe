@@ -1,12 +1,9 @@
 {
-  "mbid": "7af8e4a7-2c0c-4ccc-bb94-10ac757adfbd",
   "title": "Make It Bun Dem",
   "artist": "Skrillex",
   "duration": 219,
   "youtubeId": "BGpzGu9Yp6Y",
   "lastFetched": "2025-11-19T03:39:15.032Z",
-  "releaseCount": 1,
-  "artistMbid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b",
   "odesli": {
     "amazonMusic": "B0092W4L0C",
     "amazonStore": "B0092W4L0C",
@@ -41,7 +38,10 @@
       "tech house",
       "techno",
       "trap"
-    ]
+    ],
+    "trackMbid": "7af8e4a7-2c0c-4ccc-bb94-10ac757adfbd",
+    "artistMbid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Skrillex/_/Make+It+Bun+Dem",

@@ -3,7 +3,6 @@
   "title": "Get Dark",
   "artist": "Optiv & BTK",
   "lastFetched": "2025-11-19T13:28:45.196Z",
-  "artistMbid": "82c88d46-cf19-4d00-a372-daa9e961521d",
   "lastfm": {
     "id": "Optiv+&+BTK/_/Get+Dark",
     "listeners": 563,
@@ -11,5 +10,8 @@
     "tags": [
       "neurofunk"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "82c88d46-cf19-4d00-a372-daa9e961521d"
   }
 }

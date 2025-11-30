@@ -2,7 +2,7 @@
   "youtubeId": "lYNf6oq92ic",
   "title": "Menschine",
   "artist": "Dendemann",
-  "lastFetched": "2025-11-30T17:43:18.972Z",
+  "lastFetched": "2025-11-30T19:21:18.418Z",
   "odesli": {
     "amazonMusic": "B07JNHM9X5",
     "amazonStore": "B07JNHM9X5",
@@ -26,6 +26,14 @@
       "hip-hop",
       "rap",
       "deutsch"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2712c9da-2205-4864-af0c-f2f76d72f980",
+    "artistMbid": "e8533fd3-4e66-4ad5-8fe5-12a916f9c4a1",
+    "releaseCount": 2,
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

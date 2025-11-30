@@ -18,8 +18,6 @@
     "youtube": "q4FutzRvFZc",
     "youtubeMusic": "q4FutzRvFZc"
   },
-  "mbid": "e72c4a68-e2b0-429f-96d4-9ca674c89abc",
-  "artistMbid": "3c7e507a-210d-432a-b2cb-a32da67acd6f",
   "lastfm": {
     "id": "Oneda/_/Love+Reality",
     "listeners": 618,
@@ -30,5 +28,9 @@
       "hip hop",
       "rnb"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e72c4a68-e2b0-429f-96d4-9ca674c89abc",
+    "artistMbid": "3c7e507a-210d-432a-b2cb-a32da67acd6f"
   }
 }

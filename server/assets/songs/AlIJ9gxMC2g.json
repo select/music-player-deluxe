@@ -1,5 +1,4 @@
 {
-  "mbid": "5290dab3-93ff-467a-83c5-74c52d359dd8",
   "title": "Nubble",
   "artist": "Hand Habits",
   "album": "Blue Reminder",
@@ -18,7 +17,6 @@
     "youtube": "AlIJ9gxMC2g",
     "youtubeMusic": "AlIJ9gxMC2g"
   },
-  "artistMbid": "a92d48e1-40a9-457d-971c-ddb748d78759",
   "musicbrainz": {
     "artistTags": [
       "indie folk",
@@ -27,7 +25,9 @@
     "artistGenres": [
       "indie folk",
       "singer-songwriter"
-    ]
+    ],
+    "trackMbid": "5290dab3-93ff-467a-83c5-74c52d359dd8",
+    "artistMbid": "a92d48e1-40a9-457d-971c-ddb748d78759"
   },
   "lastfm": {
     "id": "Hand+Habits/_/Nubble",

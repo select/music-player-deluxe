@@ -1,9 +1,6 @@
 {
-  "mbid": "6f097a56-e9bb-44ce-a901-58f41258b3df",
   "title": "Andromeda (feat. DRAM) [Purple Disco Machine Remix]",
   "artist": "Gorillaz",
-  "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
-  "releaseCount": 1,
   "duration": 363,
   "youtubeId": "tW3J9XnBbqk",
   "lastFetched": "2025-11-23T16:52:06.911Z",
@@ -40,7 +37,10 @@
       "art pop",
       "electronic",
       "electronica"
-    ]
+    ],
+    "trackMbid": "6f097a56-e9bb-44ce-a901-58f41258b3df",
+    "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Gorillaz/_/Andromeda+(feat.+DRAM)+%5BPurple+Disco+Machine+Remix%5D",

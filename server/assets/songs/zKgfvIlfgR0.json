@@ -10,8 +10,6 @@
     "youtube": "zKgfvIlfgR0",
     "youtubeMusic": "zKgfvIlfgR0"
   },
-  "mbid": "ea3be4b4-f066-429b-a623-0141b4fdfb4e",
-  "artistMbid": "ad0811ea-e213-451d-b22f-fa1a7f9e0226",
   "musicbrainz": {
     "tags": [
       "ambient",
@@ -27,7 +25,9 @@
       "downtempo",
       "electronic",
       "trip hop"
-    ]
+    ],
+    "trackMbid": "ea3be4b4-f066-429b-a623-0141b4fdfb4e",
+    "artistMbid": "ad0811ea-e213-451d-b22f-fa1a7f9e0226"
   },
   "lastfm": {
     "id": "Beanfield/_/Abstractions",

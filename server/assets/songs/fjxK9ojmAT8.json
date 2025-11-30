@@ -13,8 +13,6 @@
     "youtube": "fjxK9ojmAT8",
     "youtubeMusic": "fjxK9ojmAT8"
   },
-  "mbid": "8c660bc5-ad1f-4ac8-a4ea-a31bd7b18776",
-  "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -34,7 +32,9 @@
       "pop",
       "pop rock",
       "progressive pop"
-    ]
+    ],
+    "trackMbid": "8c660bc5-ad1f-4ac8-a4ea-a31bd7b18776",
+    "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d"
   },
   "lastfm": {
     "id": "The+Beach+Boys/_/Wind+Chimes",

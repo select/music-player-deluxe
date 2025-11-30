@@ -3,8 +3,6 @@
   "title": "So You Think You're Special",
   "artist": "Scuba",
   "lastFetched": "2025-11-23T16:43:11.565Z",
-  "mbid": "c34d8161-0523-4883-adaa-2efe834ee84c",
-  "artistMbid": "8bb978c1-a003-4f6f-ac53-0c84ec8b28ee",
   "musicbrainz": {
     "artistTags": [
       "dubstep",
@@ -20,7 +18,9 @@
       "minimal techno",
       "post-dubstep",
       "tech house"
-    ]
+    ],
+    "trackMbid": "c34d8161-0523-4883-adaa-2efe834ee84c",
+    "artistMbid": "8bb978c1-a003-4f6f-ac53-0c84ec8b28ee"
   },
   "lastfm": {
     "id": "Scuba/_/So+You+Think+You%27re+Special",

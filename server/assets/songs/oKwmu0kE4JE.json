@@ -16,7 +16,6 @@
     "youtube": "oKwmu0kE4JE",
     "youtubeMusic": "oKwmu0kE4JE"
   },
-  "artistMbid": "4b356f05-bcc2-4544-925b-fd9a1bf708be",
   "lastfm": {
     "id": "Danger+Mouse/_/Belize+(feat.+MF+DOOM)",
     "listeners": 232878,
@@ -28,5 +27,8 @@
       "conscious hip hop",
       "east coast hip hop"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "4b356f05-bcc2-4544-925b-fd9a1bf708be"
   }
 }

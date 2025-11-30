@@ -3,8 +3,6 @@
   "title": "Sensual",
   "artist": "Goldie",
   "lastFetched": "2025-11-23T16:30:46.718Z",
-  "mbid": "07e29c93-ac6c-4cac-9f64-18a87a97e9e5",
-  "artistMbid": "c5393047-0c44-48eb-b5a8-070759f04371",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -20,7 +18,9 @@
       "drum and bass",
       "electronic",
       "electronica"
-    ]
+    ],
+    "trackMbid": "07e29c93-ac6c-4cac-9f64-18a87a97e9e5",
+    "artistMbid": "c5393047-0c44-48eb-b5a8-070759f04371"
   },
   "lastfm": {
     "id": "Goldie/_/Sensual",

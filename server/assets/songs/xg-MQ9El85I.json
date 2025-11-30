@@ -1,9 +1,6 @@
 {
-  "mbid": "f6bfe34f-c192-4d07-b25b-4e6c844ee661",
   "title": "In Light",
   "artist": "Nabihah Iqbal",
-  "artistMbid": "28a7d9a8-36c0-4bdd-ae4d-abcfb76f5a18",
-  "releaseCount": 2,
   "duration": 402,
   "youtubeId": "xg-MQ9El85I",
   "lastFetched": "2025-11-19T04:24:00.803Z",
@@ -22,7 +19,10 @@
   "musicbrainz": {
     "artistTags": [
       "indietronica"
-    ]
+    ],
+    "trackMbid": "f6bfe34f-c192-4d07-b25b-4e6c844ee661",
+    "artistMbid": "28a7d9a8-36c0-4bdd-ae4d-abcfb76f5a18",
+    "releaseCount": 2
   },
   "lastfm": {
     "id": "Nabihah+Iqbal/_/In+Light",

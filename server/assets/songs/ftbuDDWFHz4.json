@@ -17,8 +17,6 @@
     "youtube": "ftbuDDWFHz4",
     "youtubeMusic": "ftbuDDWFHz4"
   },
-  "mbid": "365981ac-0d12-452a-8511-ca846fabaae2",
-  "artistMbid": "6f0c596e-c5e6-4bae-87c2-4c69cb3d4067",
   "musicbrainz": {
     "tags": [
       "alternative rock",
@@ -45,7 +43,9 @@
       "hard rock",
       "post-grunge",
       "rock"
-    ]
+    ],
+    "trackMbid": "365981ac-0d12-452a-8511-ca846fabaae2",
+    "artistMbid": "6f0c596e-c5e6-4bae-87c2-4c69cb3d4067"
   },
   "lastfm": {
     "id": "Spiderbait/_/Black+Betty+(Single+Edit)",

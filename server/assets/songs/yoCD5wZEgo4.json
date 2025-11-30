@@ -21,8 +21,6 @@
     "youtube": "yoCD5wZEgo4",
     "youtubeMusic": "yoCD5wZEgo4"
   },
-  "mbid": "76c6b0b2-2dfe-3d47-9453-4a0cf38a3011",
-  "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
   "musicbrainz": {
     "tags": [
       "Nu Metal",
@@ -30,7 +28,9 @@
       "alternative rock",
       "alternative",
       "Linkin Park"
-    ]
+    ],
+    "trackMbid": "76c6b0b2-2dfe-3d47-9453-4a0cf38a3011",
+    "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
   },
   "lastfm": {
     "id": "Linkin+Park/_/Points+of+Authority",

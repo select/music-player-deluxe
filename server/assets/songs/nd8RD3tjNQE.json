@@ -1,9 +1,6 @@
 {
-  "mbid": "dce0bc75-1611-498b-bb2c-2680d54f1caa",
   "title": "Soleil Bleu (Radio Edit)",
   "artist": "bleu soleil",
-  "artistMbid": "736ee88d-6b6d-4160-9484-a2c9ea5d3c04",
-  "releaseCount": 1,
   "duration": 132,
   "youtubeId": "nd8RD3tjNQE",
   "lastFetched": "2025-11-19T04:00:06.989Z",
@@ -15,7 +12,10 @@
       "paris",
       "pop",
       "reggae."
-    ]
+    ],
+    "trackMbid": "dce0bc75-1611-498b-bb2c-2680d54f1caa",
+    "artistMbid": "736ee88d-6b6d-4160-9484-a2c9ea5d3c04",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "bleu+soleil/_/Soleil+Bleu+(Radio+Edit)",

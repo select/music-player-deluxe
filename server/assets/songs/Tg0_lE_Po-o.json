@@ -21,8 +21,6 @@
     "youtube": "Tg0_lE_Po-o",
     "youtubeMusic": "Tg0_lE_Po-o"
   },
-  "mbid": "1c379c05-1eb7-4bbc-b87e-6652191cd001",
-  "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da",
   "musicbrainz": {
     "artistTags": [
       "german",
@@ -32,7 +30,9 @@
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "trackMbid": "1c379c05-1eb7-4bbc-b87e-6652191cd001",
+    "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da"
   },
   "lastfm": {
     "id": "Kool+Savas/_/Essah+ist+zur%C3%BCck",

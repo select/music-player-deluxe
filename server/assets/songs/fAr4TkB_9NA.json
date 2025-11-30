@@ -1,9 +1,6 @@
 {
-  "mbid": "b2ce0d29-96d4-4a9f-8b35-ccef355c52cc",
   "title": "Altera Vita (Sly5thAve Remix)",
   "artist": "Alina Bzhezhinska & Tony Kofi",
-  "artistMbid": "156f2e34-903e-4a2f-9d35-81a3a739891c",
-  "releaseCount": 1,
   "duration": 264,
   "youtubeId": "fAr4TkB_9NA",
   "lastFetched": "2025-11-19T05:26:03.592Z",
@@ -29,5 +26,10 @@
       "saxophone",
       "british"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b2ce0d29-96d4-4a9f-8b35-ccef355c52cc",
+    "artistMbid": "156f2e34-903e-4a2f-9d35-81a3a739891c",
+    "releaseCount": 1
   }
 }

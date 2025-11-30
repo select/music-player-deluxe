@@ -18,8 +18,6 @@
     "youtube": "50Ceq5eBocE",
     "youtubeMusic": "50Ceq5eBocE"
   },
-  "mbid": "2296c3ce-1389-3117-b854-bab479e77eee",
-  "artistMbid": "f9b7f120-3c0d-4ada-bc14-95ad2550e9cf",
   "musicbrainz": {
     "artistTags": [
       "composer",
@@ -31,7 +29,9 @@
       "electronic",
       "experimental",
       "moogsploitation"
-    ]
+    ],
+    "trackMbid": "2296c3ce-1389-3117-b854-bab479e77eee",
+    "artistMbid": "f9b7f120-3c0d-4ada-bc14-95ad2550e9cf"
   },
   "lastfm": {
     "id": "Bruce+Haack/_/Army+Ants+in+Your+Pants",

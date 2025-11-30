@@ -11,8 +11,6 @@
     "youtube": "u4v6swKWx9A",
     "youtubeMusic": "u4v6swKWx9A"
   },
-  "mbid": "5f9ddb43-bf0a-3f84-8533-24df39eb1fa8",
-  "artistMbid": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
   "musicbrainz": {
     "artistTags": [
       "ambient",
@@ -32,7 +30,9 @@
       "art rock",
       "drone",
       "electronic"
-    ]
+    ],
+    "trackMbid": "5f9ddb43-bf0a-3f84-8533-24df39eb1fa8",
+    "artistMbid": "ff95eb47-41c4-4f7f-a104-cdc30f02e872"
   },
   "lastfm": {
     "id": "Brian+Eno/_/Spinning+Away",

@@ -20,15 +20,15 @@
     "youtube": "nHGXHbIfneo",
     "youtubeMusic": "nHGXHbIfneo"
   },
-  "mbid": "dc496feb-b714-4e21-a2e9-edbd64487d9a",
-  "artistMbid": "2eacf520-6ea3-4cf8-a72d-64b709892f23",
   "musicbrainz": {
     "artistTags": [
       "rock"
     ],
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "trackMbid": "dc496feb-b714-4e21-a2e9-edbd64487d9a",
+    "artistMbid": "2eacf520-6ea3-4cf8-a72d-64b709892f23"
   },
   "lastfm": {
     "id": "Klaus+Renft+Combo/_/Der+Apfeltraum",

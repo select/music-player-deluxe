@@ -3,8 +3,6 @@
   "title": "Tattoo",
   "artist": "Loreen",
   "lastFetched": "2025-11-19T11:51:45.709Z",
-  "mbid": "8a878f89-5454-46b7-a445-42c4ebc95830",
-  "artistMbid": "1e234774-8e37-4378-b01d-b7dd6ced769c",
   "musicbrainz": {
     "tags": [
       "Eurovision",
@@ -12,7 +10,9 @@
       "Eurovision Song Contest",
       "ESC",
       "eurovision winner"
-    ]
+    ],
+    "trackMbid": "8a878f89-5454-46b7-a445-42c4ebc95830",
+    "artistMbid": "1e234774-8e37-4378-b01d-b7dd6ced769c"
   },
   "lastfm": {
     "id": "Loreen/_/Tattoo",

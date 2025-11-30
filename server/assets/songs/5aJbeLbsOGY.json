@@ -13,8 +13,6 @@
     "youtube": "5aJbeLbsOGY",
     "youtubeMusic": "5aJbeLbsOGY"
   },
-  "mbid": "096701ff-d1da-451d-81f0-b61940885dfa",
-  "artistMbid": "7ba593b9-79d4-4860-92c8-ade2a1ef4551",
   "musicbrainz": {
     "artistTags": [
       "ambient",
@@ -32,7 +30,9 @@
       "dream pop",
       "experimental",
       "folk"
-    ]
+    ],
+    "trackMbid": "096701ff-d1da-451d-81f0-b61940885dfa",
+    "artistMbid": "7ba593b9-79d4-4860-92c8-ade2a1ef4551"
   },
   "lastfm": {
     "id": "Emma+Ruth+Rundle/_/Run+Forever",

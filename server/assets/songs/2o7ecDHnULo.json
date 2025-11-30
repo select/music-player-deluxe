@@ -18,15 +18,15 @@
     "youtube": "2o7ecDHnULo",
     "youtubeMusic": "2o7ecDHnULo"
   },
-  "mbid": "cc07d1f3-022e-333d-8da2-dfd5ddf1dd73",
-  "artistMbid": "15dba3af-bb9a-4a19-808d-fbffc085c4ff",
   "musicbrainz": {
     "artistTags": [
       "electronic"
     ],
     "artistGenres": [
       "electronic"
-    ]
+    ],
+    "trackMbid": "cc07d1f3-022e-333d-8da2-dfd5ddf1dd73",
+    "artistMbid": "15dba3af-bb9a-4a19-808d-fbffc085c4ff"
   },
   "lastfm": {
     "id": "Martin+Rev/_/Small+Talk",

@@ -3,7 +3,6 @@
   "title": "Here I Come",
   "artist": "Barrington Levy",
   "lastFetched": "2025-11-19T09:10:38.850Z",
-  "artistMbid": "8ddf3da1-dfa9-490a-93cc-7d4072319995",
   "lastfm": {
     "id": "Barrington+Levy/_/Here+I+Come",
     "listeners": 216955,
@@ -14,5 +13,8 @@
       "dub",
       "roots reggae"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "8ddf3da1-dfa9-490a-93cc-7d4072319995"
   }
 }

@@ -15,8 +15,6 @@
     "youtube": "yI8lrvKLzg0",
     "youtubeMusic": "yI8lrvKLzg0"
   },
-  "mbid": "b8381b23-c760-4670-a9a1-e1b01b7e5ebf",
-  "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
   "musicbrainz": {
     "artistTags": [
       "art rock",
@@ -36,7 +34,9 @@
       "glam rock",
       "hard rock",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "b8381b23-c760-4670-a9a1-e1b01b7e5ebf",
+    "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3"
   },
   "lastfm": {
     "id": "Queen/_/Heaven+for+Everyone",

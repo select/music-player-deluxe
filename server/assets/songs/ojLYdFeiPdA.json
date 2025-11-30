@@ -12,8 +12,6 @@
     "youtube": "ojLYdFeiPdA",
     "youtubeMusic": "ojLYdFeiPdA"
   },
-  "mbid": "4f93fc24-508a-3660-a5a9-6b62ba1394f4",
-  "artistMbid": "a4d12798-4891-4ced-90ec-a8b8ff7b3b71",
   "lastfm": {
     "id": "Falling+Up/_/Moonlit",
     "listeners": 19164,
@@ -25,5 +23,9 @@
       "good",
       "really good"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4f93fc24-508a-3660-a5a9-6b62ba1394f4",
+    "artistMbid": "a4d12798-4891-4ced-90ec-a8b8ff7b3b71"
   }
 }

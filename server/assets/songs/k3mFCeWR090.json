@@ -3,8 +3,6 @@
   "title": "Punk ist...",
   "artist": "Die Ärzte",
   "lastFetched": "2025-11-23T16:47:23.609Z",
-  "mbid": "1dda30fe-4164-48cf-8faf-68876f7eacbd",
-  "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
   "musicbrainz": {
     "artistTags": [
       "berlin",
@@ -23,7 +21,9 @@
       "punk",
       "punk rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "1dda30fe-4164-48cf-8faf-68876f7eacbd",
+    "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320"
   },
   "lastfm": {
     "id": "Die+%C3%84rzte/_/Punk+ist...",

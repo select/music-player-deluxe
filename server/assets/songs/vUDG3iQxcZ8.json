@@ -15,8 +15,6 @@
     "youtube": "vUDG3iQxcZ8",
     "youtubeMusic": "vUDG3iQxcZ8"
   },
-  "mbid": "7a517fc1-ef3c-4e21-88b0-9529fb263685",
-  "artistMbid": "b5bd9f88-962e-4730-84a7-795592ba42e8",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -31,7 +29,9 @@
       "indietronica",
       "rock",
       "shoegaze"
-    ]
+    ],
+    "trackMbid": "7a517fc1-ef3c-4e21-88b0-9529fb263685",
+    "artistMbid": "b5bd9f88-962e-4730-84a7-795592ba42e8"
   },
   "lastfm": {
     "id": "Silversun+Pickups/_/Widow%27s+Weeds",

@@ -1,9 +1,6 @@
 {
-  "mbid": "980b848f-c677-49c4-bcb9-9cf3edc23e22",
   "title": "Le Serpent",
   "artist": "Guem",
-  "artistMbid": "e4f43165-7f2b-46a9-9fdd-ae8a74dc1eb2",
-  "releaseCount": 23,
   "duration": 316,
   "youtubeId": "DHO7lOi8u28",
   "lastFetched": "2025-11-19T05:31:07.313Z",
@@ -27,7 +24,10 @@
     "tags": [
       "african-percussion",
       "afrobeat"
-    ]
+    ],
+    "trackMbid": "980b848f-c677-49c4-bcb9-9cf3edc23e22",
+    "artistMbid": "e4f43165-7f2b-46a9-9fdd-ae8a74dc1eb2",
+    "releaseCount": 23
   },
   "lastfm": {
     "id": "Guem/_/Le+Serpent",

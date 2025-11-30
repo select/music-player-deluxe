@@ -3,8 +3,6 @@
   "title": "Take This Book And Burn It",
   "artist": "Neroche",
   "lastFetched": "2025-11-19T14:10:09.926Z",
-  "mbid": "04a90818-1756-4eb1-a589-38e06286c6ac",
-  "artistMbid": "4d65b85d-9927-4eff-ad89-d1645ed0b4e5",
   "lastfm": {
     "id": "Neroche/_/Take+This+Book+And+Burn+It",
     "listeners": 1582,
@@ -15,5 +13,9 @@
       "instrumental hip-hop",
       "instrumental"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "04a90818-1756-4eb1-a589-38e06286c6ac",
+    "artistMbid": "4d65b85d-9927-4eff-ad89-d1645ed0b4e5"
   }
 }

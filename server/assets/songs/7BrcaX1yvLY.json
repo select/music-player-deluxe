@@ -15,8 +15,6 @@
     "youtube": "7BrcaX1yvLY",
     "youtubeMusic": "7BrcaX1yvLY"
   },
-  "mbid": "867e2f64-d6a3-4771-b774-afc03dec39e9",
-  "artistMbid": "f843b3ed-e342-4a4b-a935-eb3cbc9c7307",
   "lastfm": {
     "id": "Knarf+Rell%C3%B6m+Arkestra/_/Die+K%C3%A4nguruh+Theorie",
     "listeners": 136,
@@ -24,5 +22,9 @@
     "tags": [
       "indie pop"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "867e2f64-d6a3-4771-b774-afc03dec39e9",
+    "artistMbid": "f843b3ed-e342-4a4b-a935-eb3cbc9c7307"
   }
 }

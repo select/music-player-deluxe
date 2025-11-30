@@ -3,7 +3,6 @@
   "title": "Nosferatu",
   "artist": "Kuhn Fu",
   "lastFetched": "2025-11-19T07:04:50.873Z",
-  "artistMbid": "9c239f76-b8bd-4d06-a37a-3ecbe998184f",
   "lastfm": {
     "id": "Kuhn+Fu/_/Nosferatu",
     "listeners": 74,
@@ -15,5 +14,8 @@
       "jazz",
       "balkan"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "9c239f76-b8bd-4d06-a37a-3ecbe998184f"
   }
 }

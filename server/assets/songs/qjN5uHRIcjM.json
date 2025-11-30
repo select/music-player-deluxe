@@ -3,7 +3,6 @@
   "title": "My Generation",
   "artist": "The Who",
   "lastFetched": "2025-11-19T12:10:09.286Z",
-  "artistMbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
   "lastfm": {
     "id": "The+Who/_/My+Generation",
     "listeners": 898978,
@@ -15,5 +14,8 @@
       "rock",
       "british"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa"
   }
 }

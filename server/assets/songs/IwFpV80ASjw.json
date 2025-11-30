@@ -3,7 +3,6 @@
   "title": "Dark Eyes",
   "artist": "Chet Atkins",
   "lastFetched": "2025-11-19T15:17:06.884Z",
-  "artistMbid": "5810667a-9db6-4fd0-abac-667cdac5d415",
   "lastfm": {
     "id": "Chet+Atkins/_/Dark+Eyes",
     "listeners": 50,
@@ -15,5 +14,8 @@
       "jazz",
       "acoustic"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "5810667a-9db6-4fd0-abac-667cdac5d415"
   }
 }

@@ -21,8 +21,6 @@
     "youtube": "8aomt1gQ6So",
     "youtubeMusic": "8aomt1gQ6So"
   },
-  "mbid": "19e5d62d-f67b-4c21-84f5-1fc4d2350836",
-  "artistMbid": "03ad1736-b7c9-412a-b442-82536d63a5c4",
   "musicbrainz": {
     "tags": [
       "acoustic",
@@ -30,7 +28,9 @@
       "singer-songwriter",
       "Mellow",
       "beautiful"
-    ]
+    ],
+    "trackMbid": "19e5d62d-f67b-4c21-84f5-1fc4d2350836",
+    "artistMbid": "03ad1736-b7c9-412a-b442-82536d63a5c4"
   },
   "lastfm": {
     "id": "Elliott+Smith/_/Between+the+Bars",

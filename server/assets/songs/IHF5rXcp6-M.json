@@ -21,8 +21,6 @@
     "youtube": "IHF5rXcp6-M",
     "youtubeMusic": "IHF5rXcp6-M"
   },
-  "mbid": "aa87448d-e0a9-4d0c-b982-6d5cf7778bf8",
-  "artistMbid": "5c952c8c-6791-4df4-8dae-f65678e1e900",
   "lastfm": {
     "id": "Loraine+James/_/I+DM+U",
     "listeners": 10823,
@@ -30,5 +28,9 @@
     "tags": [
       "gilles peterson"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "aa87448d-e0a9-4d0c-b982-6d5cf7778bf8",
+    "artistMbid": "5c952c8c-6791-4df4-8dae-f65678e1e900"
   }
 }

@@ -18,8 +18,6 @@
     "youtube": "Z6qnRS36EgE",
     "youtubeMusic": "Z6qnRS36EgE"
   },
-  "mbid": "dbe310b1-db36-4db9-bcfc-e35e84e2925f",
-  "artistMbid": "165e2705-abf7-4f1b-8971-4ceed8769c4d",
   "musicbrainz": {
     "artistTags": [
       "glam rock",
@@ -34,7 +32,9 @@
       "pop rock",
       "rock",
       "soft rock"
-    ]
+    ],
+    "trackMbid": "dbe310b1-db36-4db9-bcfc-e35e84e2925f",
+    "artistMbid": "165e2705-abf7-4f1b-8971-4ceed8769c4d"
   },
   "lastfm": {
     "id": "Smokie/_/Living+Next+Door+to+Alice",

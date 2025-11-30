@@ -19,8 +19,6 @@
     "youtube": "HpxEXMIY64c",
     "youtubeMusic": "HpxEXMIY64c"
   },
-  "mbid": "9257d187-93c1-43fd-9403-fb2859a7d335",
-  "artistMbid": "f7df5df4-4dfa-459d-972b-1ba051c15ddc",
   "musicbrainz": {
     "artistTags": [
       "alternative/indie rock",
@@ -40,7 +38,9 @@
       "bass house",
       "breakbeat",
       "breaks"
-    ]
+    ],
+    "trackMbid": "9257d187-93c1-43fd-9403-fb2859a7d335",
+    "artistMbid": "f7df5df4-4dfa-459d-972b-1ba051c15ddc"
   },
   "lastfm": {
     "id": "Fever+Ray/_/Kandy",

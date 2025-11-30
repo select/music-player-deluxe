@@ -14,8 +14,6 @@
     "youtube": "7E-_J5WWkoc",
     "youtubeMusic": "7E-_J5WWkoc"
   },
-  "mbid": "072992f7-b735-4217-834f-53511aa04902",
-  "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -35,7 +33,9 @@
       "experimental",
       "experimental rock",
       "industrial"
-    ]
+    ],
+    "trackMbid": "072992f7-b735-4217-834f-53511aa04902",
+    "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22"
   },
   "lastfm": {
     "id": "Puscifer/_/Conditions+of+My+Parole",

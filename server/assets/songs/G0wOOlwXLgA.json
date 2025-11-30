@@ -1,9 +1,6 @@
 {
-  "mbid": "260eb7fb-6cce-4d93-b7aa-0c59ebb93b59",
   "title": "On the Run",
   "artist": "Pink Floyd",
-  "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
-  "releaseCount": 3,
   "duration": 287,
   "youtubeId": "G0wOOlwXLgA",
   "lastFetched": "2025-11-19T05:05:12.048Z",
@@ -31,7 +28,10 @@
       "Psychedelic Rock",
       "rock",
       "psychedelic"
-    ]
+    ],
+    "trackMbid": "260eb7fb-6cce-4d93-b7aa-0c59ebb93b59",
+    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
+    "releaseCount": 3
   },
   "lastfm": {
     "id": "Pink+Floyd/_/On+the+Run",

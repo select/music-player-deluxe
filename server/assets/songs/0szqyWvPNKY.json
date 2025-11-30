@@ -12,8 +12,6 @@
     "youtube": "0szqyWvPNKY",
     "youtubeMusic": "0szqyWvPNKY"
   },
-  "mbid": "c84ee273-6b87-32d1-af39-dbd7afce3b7f",
-  "artistMbid": "ca39d50f-9885-420e-88d6-9c3f64038773",
   "musicbrainz": {
     "artistTags": [
       "blues",
@@ -26,7 +24,9 @@
       "country",
       "hip hop",
       "rock"
-    ]
+    ],
+    "trackMbid": "c84ee273-6b87-32d1-af39-dbd7afce3b7f",
+    "artistMbid": "ca39d50f-9885-420e-88d6-9c3f64038773"
   },
   "lastfm": {
     "id": "Everlast/_/Ends",

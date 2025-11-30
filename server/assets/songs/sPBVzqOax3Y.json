@@ -2,7 +2,7 @@
   "youtubeId": "sPBVzqOax3Y",
   "title": "Somebody's Story",
   "artist": "Solomun",
-  "lastFetched": "2025-11-30T17:44:14.216Z",
+  "lastFetched": "2025-11-30T19:29:57.600Z",
   "odesli": {
     "amazonMusic": "B0B37ZT4ZK",
     "amazonStore": "B0B37ZT4ZK",
@@ -22,6 +22,20 @@
       "deep house",
       "minimal",
       "minimal techno"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b369cac6-001a-402f-82ae-a3af47d4b337",
+    "artistMbid": "dff718ca-db66-4ce5-98b3-9585935b3dd1",
+    "releaseCount": 1,
+    "genres": [
+      "electronic"
+    ],
+    "artistGenres": [
+      "deep house",
+      "edm",
+      "electronic",
+      "house"
     ]
   }
 }

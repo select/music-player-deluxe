@@ -3,8 +3,6 @@
   "title": "Crimson and Clover",
   "artist": "Joan Jett and the Blackhearts",
   "lastFetched": "2025-11-23T16:46:57.027Z",
-  "mbid": "4539506b-99a9-4f5a-ad9d-afefc3626a0e",
-  "artistMbid": "46e63d3b-d91b-4791-bb73-e9f638a45ea0",
   "musicbrainz": {
     "artistTags": [
       "album rock",
@@ -24,7 +22,9 @@
       "glam punk",
       "glam rock",
       "hard rock"
-    ]
+    ],
+    "trackMbid": "4539506b-99a9-4f5a-ad9d-afefc3626a0e",
+    "artistMbid": "46e63d3b-d91b-4791-bb73-e9f638a45ea0"
   },
   "lastfm": {
     "id": "Joan+Jett+and+the+Blackhearts/_/Crimson+and+Clover",

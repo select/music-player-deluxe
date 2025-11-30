@@ -3,8 +3,6 @@
   "title": "Gold Dust",
   "artist": "DJ Fresh",
   "lastFetched": "2025-11-23T16:31:58.872Z",
-  "mbid": "18e08908-1834-3a2c-b70b-6558c6e0b86d",
-  "artistMbid": "77049387-0580-4a3a-a05f-d12b5d6b5042",
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
@@ -15,7 +13,9 @@
       "drum and bass",
       "dubstep",
       "uk garage"
-    ]
+    ],
+    "trackMbid": "18e08908-1834-3a2c-b70b-6558c6e0b86d",
+    "artistMbid": "77049387-0580-4a3a-a05f-d12b5d6b5042"
   },
   "lastfm": {
     "id": "DJ+Fresh/_/Gold+Dust",

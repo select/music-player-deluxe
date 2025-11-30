@@ -12,7 +12,6 @@
     "youtubeMusic": "5CZFg4q0cSo"
   },
   "name": "Heatwave",
-  "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d",
   "lastfm": {
     "id": "Jazzanova/_/Heatwave",
     "listeners": 1459,
@@ -20,5 +19,8 @@
     "tags": [
       "jazz fusion"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d"
   }
 }

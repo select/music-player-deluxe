@@ -1,9 +1,6 @@
 {
-  "mbid": "eef55a3d-c506-4493-aa30-51e381d2cc0b",
   "title": "Melted Moon",
   "artist": "Julianna Barwick & Mary Lattimore",
-  "artistMbid": "ba49bbe3-188b-44d7-95f3-92ff9939af28",
-  "releaseCount": 1,
   "duration": 518,
   "youtubeId": "UolD-D59knQ",
   "lastFetched": "2025-11-23T16:40:34.553Z",
@@ -29,7 +26,10 @@
       "ambient",
       "neoclassical new age",
       "new age"
-    ]
+    ],
+    "trackMbid": "eef55a3d-c506-4493-aa30-51e381d2cc0b",
+    "artistMbid": "ba49bbe3-188b-44d7-95f3-92ff9939af28",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Julianna+Barwick+&+Mary+Lattimore/_/Melted+Moon",

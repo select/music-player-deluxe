@@ -16,8 +16,6 @@
     "youtube": "m3clDWcuNhE",
     "youtubeMusic": "m3clDWcuNhE"
   },
-  "mbid": "08c22a69-d6a4-472f-a09f-dde73b03d686",
-  "artistMbid": "6821bf3f-5d5b-4b0f-8fa4-79d2ab2d9219",
   "musicbrainz": {
     "artistTags": [
       "4ad",
@@ -32,7 +30,9 @@
     "artistGenres": [
       "alternative rock",
       "indie rock"
-    ]
+    ],
+    "trackMbid": "08c22a69-d6a4-472f-a09f-dde73b03d686",
+    "artistMbid": "6821bf3f-5d5b-4b0f-8fa4-79d2ab2d9219"
   },
   "lastfm": {
     "id": "Blonde+Redhead/_/Cat+On+Tin+Roof",

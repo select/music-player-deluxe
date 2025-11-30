@@ -17,8 +17,6 @@
     "youtube": "9X_ViIPA-Gc",
     "youtubeMusic": "9X_ViIPA-Gc"
   },
-  "mbid": "6070bf13-fec2-41e8-aa46-7fa863f3eaf5",
-  "artistMbid": "b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1",
   "musicbrainz": {
     "tags": [
       "classic rock",
@@ -53,7 +51,9 @@
       "hard rock",
       "rock",
       "rock opera"
-    ]
+    ],
+    "trackMbid": "6070bf13-fec2-41e8-aa46-7fa863f3eaf5",
+    "artistMbid": "b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1"
   },
   "lastfm": {
     "id": "Meat+Loaf/_/I%27d+Do+Anything+for+Love+(But+I+Won%27t+Do+That)",

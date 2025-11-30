@@ -19,8 +19,6 @@
     "youtube": "B8F_1jviPH0",
     "youtubeMusic": "B8F_1jviPH0"
   },
-  "mbid": "1c9bd536-c9ee-45fb-be27-a24e68a459e5",
-  "artistMbid": "05a8fca6-3178-4f95-ad82-d325bc6102fe",
   "musicbrainz": {
     "artistTags": [
       "downtempo",
@@ -40,7 +38,9 @@
       "electronic",
       "future bass",
       "halftime"
-    ]
+    ],
+    "trackMbid": "1c9bd536-c9ee-45fb-be27-a24e68a459e5",
+    "artistMbid": "05a8fca6-3178-4f95-ad82-d325bc6102fe"
   },
   "lastfm": {
     "id": "Ivy+Lab/_/Look+Away",

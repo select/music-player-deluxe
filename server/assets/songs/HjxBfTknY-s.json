@@ -16,7 +16,6 @@
     "youtube": "HjxBfTknY-s",
     "youtubeMusic": "HjxBfTknY-s"
   },
-  "artistMbid": "89de8465-f65b-4a1a-856a-e3f4c7ec89e8",
   "lastfm": {
     "id": "The+Unsleeping/_/You+Drive+My+Four+Wheel+Coffin",
     "listeners": 4736,
@@ -27,5 +26,8 @@
       "alternative rock",
       "ukraine"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "89de8465-f65b-4a1a-856a-e3f4c7ec89e8"
   }
 }

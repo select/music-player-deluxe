@@ -16,8 +16,6 @@
     "youtube": "_mEC54eTuGw",
     "youtubeMusic": "_mEC54eTuGw"
   },
-  "mbid": "06bba11d-6cd6-4a21-a406-69cc10ad9165",
-  "artistMbid": "b071f9fa-14b0-4217-8e97-eb41da73f598",
   "musicbrainz": {
     "tags": [
       "blues rock"
@@ -43,7 +41,9 @@
       "british rhythm & blues",
       "classic rock",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "06bba11d-6cd6-4a21-a406-69cc10ad9165",
+    "artistMbid": "b071f9fa-14b0-4217-8e97-eb41da73f598"
   },
   "lastfm": {
     "id": "The+Rolling+Stones/_/Angry",

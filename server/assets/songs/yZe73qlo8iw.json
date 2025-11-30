@@ -14,8 +14,6 @@
     "youtube": "yZe73qlo8iw",
     "youtubeMusic": "yZe73qlo8iw"
   },
-  "mbid": "0b7700a4-e59c-39b0-8f2c-3299ba101bcb",
-  "artistMbid": "4b238c9c-c5eb-4900-92ef-1af425356f5a",
   "lastfm": {
     "id": "Azari+&+III/_/Into+the+Night+(Nicolas+Jaar+remix)",
     "listeners": 16719,
@@ -25,5 +23,9 @@
       "electronic",
       "house"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0b7700a4-e59c-39b0-8f2c-3299ba101bcb",
+    "artistMbid": "4b238c9c-c5eb-4900-92ef-1af425356f5a"
   }
 }

@@ -1,17 +1,17 @@
 {
-  "mbid": "c0bdb92e-955c-44ef-9b22-13a853aeaa17",
   "title": "Valley of the Shadows",
   "artist": "Origin Unknown",
   "album": "Addicted to Bass: Winter 2009",
   "duration": 126,
   "youtubeId": "a5meT63flnM",
   "lastFetched": "2025-11-19T04:27:03.077Z",
-  "artistMbid": "b5525d77-93e5-4562-b575-8d39d7765245",
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
       "jungle"
-    ]
+    ],
+    "trackMbid": "c0bdb92e-955c-44ef-9b22-13a853aeaa17",
+    "artistMbid": "b5525d77-93e5-4562-b575-8d39d7765245"
   },
   "lastfm": {
     "id": "Origin+Unknown/_/Valley+of+the+Shadows",

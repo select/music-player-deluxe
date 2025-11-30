@@ -15,8 +15,6 @@
     "youtube": "grKaSsyvxZE",
     "youtubeMusic": "grKaSsyvxZE"
   },
-  "mbid": "650a78bd-5b50-3e20-a22c-31a6712e5c90",
-  "artistMbid": "f47fc54d-b334-4321-8218-00c5b11d4dd1",
   "musicbrainz": {
     "artistTags": [
       "gypsy punk",
@@ -27,7 +25,9 @@
       "gypsy punk",
       "punk",
       "rock"
-    ]
+    ],
+    "trackMbid": "650a78bd-5b50-3e20-a22c-31a6712e5c90",
+    "artistMbid": "f47fc54d-b334-4321-8218-00c5b11d4dd1"
   },
   "lastfm": {
     "id": "Gogol+Bordello/_/Through+the+Roof+%27n%27+Underground",

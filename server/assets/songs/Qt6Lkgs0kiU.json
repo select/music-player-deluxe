@@ -12,8 +12,6 @@
     "youtube": "Qt6Lkgs0kiU",
     "youtubeMusic": "Qt6Lkgs0kiU"
   },
-  "mbid": "1599b608-7087-47b2-9d33-fb7b07051e7e",
-  "artistMbid": "57805d77-f947-4851-b7fb-78baad154451",
   "musicbrainz": {
     "artistTags": [
       "pop punk",
@@ -22,7 +20,9 @@
     "artistGenres": [
       "pop punk",
       "punk"
-    ]
+    ],
+    "trackMbid": "1599b608-7087-47b2-9d33-fb7b07051e7e",
+    "artistMbid": "57805d77-f947-4851-b7fb-78baad154451"
   },
   "lastfm": {
     "id": "The+Ataris/_/The+Boys+Of+Summer",

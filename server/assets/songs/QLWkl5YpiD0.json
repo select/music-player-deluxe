@@ -3,8 +3,6 @@
   "title": "Wicked Game",
   "artist": "Tenacious D",
   "lastFetched": "2025-11-23T16:38:12.414Z",
-  "mbid": "0163435b-d54c-456e-aede-b337e0741735",
-  "artistMbid": "148ddea2-6839-4354-8e2c-5dfadf136b7f",
   "musicbrainz": {
     "artistTags": [
       "acoustic rock",
@@ -20,7 +18,9 @@
       "comedy",
       "comedy rock",
       "hard rock"
-    ]
+    ],
+    "trackMbid": "0163435b-d54c-456e-aede-b337e0741735",
+    "artistMbid": "148ddea2-6839-4354-8e2c-5dfadf136b7f"
   },
   "lastfm": {
     "id": "Tenacious+D/_/Wicked+Game",

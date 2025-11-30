@@ -15,8 +15,6 @@
     "youtube": "r7qovpFAGrQ",
     "youtubeMusic": "r7qovpFAGrQ"
   },
-  "mbid": "4d1bb5a1-14ba-438d-b96d-070704f400f5",
-  "artistMbid": "0b30341b-b59d-4979-8130-b66c0e475321",
   "musicbrainz": {
     "tags": [
       "alternative",
@@ -46,7 +44,9 @@
       "hip hop",
       "pop rap",
       "trap"
-    ]
+    ],
+    "trackMbid": "4d1bb5a1-14ba-438d-b96d-070704f400f5",
+    "artistMbid": "0b30341b-b59d-4979-8130-b66c0e475321"
   },
   "lastfm": {
     "id": "Lil+Nas+X/_/Old+Town+Road",

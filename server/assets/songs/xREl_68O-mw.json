@@ -12,12 +12,12 @@
     "youtubeMusic": "xREl_68O-mw"
   },
   "name": "Bologna",
-  "mbid": "14db63e3-7f9c-4d1a-a6e2-3a3dc492fde9",
-  "artistMbid": "85417c84-b3a4-426e-92ad-ac7c1943b6a9",
   "musicbrainz": {
     "artistTags": [
       "aln-sh"
-    ]
+    ],
+    "trackMbid": "14db63e3-7f9c-4d1a-a6e2-3a3dc492fde9",
+    "artistMbid": "85417c84-b3a4-426e-92ad-ac7c1943b6a9"
   },
   "lastfm": {
     "id": "Wanda/_/Bologna",

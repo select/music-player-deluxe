@@ -3,12 +3,12 @@
   "title": "Lux Aeterna",
   "artist": "Voces8",
   "lastFetched": "2025-11-23T16:34:59.112Z",
-  "mbid": "fd4d3751-bee6-41c0-8352-e84f9a6f4415",
-  "artistMbid": "2a264f51-0a83-4972-858d-a4825ff02ad9",
   "musicbrainz": {
     "artistTags": [
       "a cappella"
-    ]
+    ],
+    "trackMbid": "fd4d3751-bee6-41c0-8352-e84f9a6f4415",
+    "artistMbid": "2a264f51-0a83-4972-858d-a4825ff02ad9"
   },
   "lastfm": {
     "id": "Voces8/_/Lux+Aeterna",

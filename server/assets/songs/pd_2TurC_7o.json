@@ -3,8 +3,6 @@
   "title": "When I Awoke",
   "artist": "Agincourt",
   "lastFetched": "2025-11-23T16:50:26.227Z",
-  "mbid": "0965ee95-e1f7-3e6d-a0ff-821adce20215",
-  "artistMbid": "6d93dab7-5483-4551-a19a-7f11dc4068b8",
   "musicbrainz": {
     "artistTags": [
       "british folk rock",
@@ -17,7 +15,9 @@
       "folk rock",
       "progressive folk",
       "psychedelic folk"
-    ]
+    ],
+    "trackMbid": "0965ee95-e1f7-3e6d-a0ff-821adce20215",
+    "artistMbid": "6d93dab7-5483-4551-a19a-7f11dc4068b8"
   },
   "lastfm": {
     "id": "Agincourt/_/When+I+Awoke",

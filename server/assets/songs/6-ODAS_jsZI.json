@@ -20,8 +20,6 @@
     "youtube": "6-ODAS_jsZI",
     "youtubeMusic": "6-ODAS_jsZI"
   },
-  "mbid": "099c3b4c-68e1-3594-841c-24a13d7816c7",
-  "artistMbid": "936d6c0c-ad6f-4ec6-a8f0-e2dd7faf79ec",
   "musicbrainz": {
     "artistTags": [
       "new zealand",
@@ -29,7 +27,9 @@
     ],
     "artistGenres": [
       "post-rock"
-    ]
+    ],
+    "trackMbid": "099c3b4c-68e1-3594-841c-24a13d7816c7",
+    "artistMbid": "936d6c0c-ad6f-4ec6-a8f0-e2dd7faf79ec"
   },
   "lastfm": {
     "id": "Jakob/_/Lonesome",

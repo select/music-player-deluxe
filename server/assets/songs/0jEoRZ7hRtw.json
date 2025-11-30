@@ -1,9 +1,6 @@
 {
-  "mbid": "4a2d94eb-db3b-4bb7-94f1-850e304443fa",
   "title": "Fire By The River",
   "artist": "Harumi",
-  "artistMbid": "6752d176-45fb-49e1-9bbc-d4e1ee0738f7",
-  "releaseCount": 3,
   "duration": 214,
   "youtubeId": "0jEoRZ7hRtw",
   "lastFetched": "2025-11-19T03:51:58.331Z",
@@ -20,7 +17,10 @@
     "tags": [
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "4a2d94eb-db3b-4bb7-94f1-850e304443fa",
+    "artistMbid": "6752d176-45fb-49e1-9bbc-d4e1ee0738f7",
+    "releaseCount": 3
   },
   "lastfm": {
     "id": "Harumi/_/Fire+By+The+River",

@@ -20,8 +20,6 @@
     "youtube": "8wWvuVhOz-I",
     "youtubeMusic": "8wWvuVhOz-I"
   },
-  "mbid": "2e42a1b9-15a9-43e6-992c-5e811881e501",
-  "artistMbid": "50ed738b-11fb-4fef-805c-a8dffb1c7b02",
   "lastfm": {
     "id": "Raum/_/Walk+together",
     "listeners": 10082,
@@ -32,5 +30,9 @@
       "minimalism",
       "liz harris"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2e42a1b9-15a9-43e6-992c-5e811881e501",
+    "artistMbid": "50ed738b-11fb-4fef-805c-a8dffb1c7b02"
   }
 }

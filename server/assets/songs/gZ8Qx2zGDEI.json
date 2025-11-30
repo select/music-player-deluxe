@@ -11,8 +11,6 @@
     "youtube": "gZ8Qx2zGDEI",
     "youtubeMusic": "gZ8Qx2zGDEI"
   },
-  "mbid": "14c628c0-d5ef-4f30-a96e-fa0a9109b7ca",
-  "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d",
   "musicbrainz": {
     "artistTags": [
       "acid jazz",
@@ -28,7 +26,9 @@
       "downtempo",
       "jazz",
       "nu jazz"
-    ]
+    ],
+    "trackMbid": "14c628c0-d5ef-4f30-a96e-fa0a9109b7ca",
+    "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d"
   },
   "lastfm": {
     "id": "Jazzanova/_/Hanazono",

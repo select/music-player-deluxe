@@ -1,11 +1,9 @@
 {
-  "mbid": "3a378f4d-9edf-4ebf-974f-089bcf69d95e",
   "title": "wasser im fluss",
   "artist": "Thomas Fehlmann",
   "duration": 258,
   "youtubeId": "yon907lCzMc",
   "lastFetched": "2025-11-19T04:13:18.647Z",
-  "releaseCount": 1,
   "odesli": {
     "anghami": "34600635",
     "deezer": "79789796",
@@ -19,7 +17,6 @@
     "youtube": "yon907lCzMc",
     "youtubeMusic": "yon907lCzMc"
   },
-  "artistMbid": "3970056e-1c2a-4556-815b-010c3acad220",
   "lastfm": {
     "id": "Thomas+Fehlmann/_/wasser+im+fluss",
     "listeners": 9422,
@@ -30,5 +27,10 @@
       "techno",
       "spring"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3a378f4d-9edf-4ebf-974f-089bcf69d95e",
+    "artistMbid": "3970056e-1c2a-4556-815b-010c3acad220",
+    "releaseCount": 1
   }
 }

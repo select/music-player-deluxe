@@ -10,15 +10,15 @@
     "youtube": "fP2r59XMMvM",
     "youtubeMusic": "fP2r59XMMvM"
   },
-  "mbid": "207a0f89-3a6d-4090-ab27-1e5ae36ce4cb",
-  "artistMbid": "5fffffdf-90d2-4e77-a12d-ea1ab24bd2b9",
   "musicbrainz": {
     "artistTags": [
       "dub"
     ],
     "artistGenres": [
       "dub"
-    ]
+    ],
+    "trackMbid": "207a0f89-3a6d-4090-ab27-1e5ae36ce4cb",
+    "artistMbid": "5fffffdf-90d2-4e77-a12d-ea1ab24bd2b9"
   },
   "lastfm": {
     "id": "Disrupt/_/Bomb+20",

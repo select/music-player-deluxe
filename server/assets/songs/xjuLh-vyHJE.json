@@ -21,8 +21,6 @@
     "youtube": "xjuLh-vyHJE",
     "youtubeMusic": "xjuLh-vyHJE"
   },
-  "mbid": "fc53cd82-a1bc-463c-8a28-26f97b0a75c0",
-  "artistMbid": "fc1c6fab-cb59-4a02-879f-69be388a964e",
   "musicbrainz": {
     "artistTags": [
       "alternative r&b",
@@ -39,7 +37,9 @@
       "classical",
       "contemporary r&b",
       "free jazz"
-    ]
+    ],
+    "trackMbid": "fc53cd82-a1bc-463c-8a28-26f97b0a75c0",
+    "artistMbid": "fc1c6fab-cb59-4a02-879f-69be388a964e"
   },
   "lastfm": {
     "id": "V.C.R/_/TRiP",

@@ -16,8 +16,6 @@
     "youtube": "cvbIT_CKQ9M",
     "youtubeMusic": "cvbIT_CKQ9M"
   },
-  "mbid": "d810c7fd-51b4-42a3-9d33-8de225b11fc1",
-  "artistMbid": "962419b3-51c6-464d-acd5-b43f88429d85",
   "musicbrainz": {
     "tags": [
       "atmospheric drum and bass",
@@ -28,7 +26,9 @@
       "atmospheric drum and bass",
       "electro",
       "jungle"
-    ]
+    ],
+    "trackMbid": "d810c7fd-51b4-42a3-9d33-8de225b11fc1",
+    "artistMbid": "962419b3-51c6-464d-acd5-b43f88429d85"
   },
   "lastfm": {
     "id": "Disclosure/_/Higher+Than+Ever+Before",

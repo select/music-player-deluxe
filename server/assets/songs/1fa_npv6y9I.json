@@ -11,7 +11,6 @@
     "youtube": "1fa_npv6y9I",
     "youtubeMusic": "1fa_npv6y9I"
   },
-  "artistMbid": "af1b83bb-3edc-4443-b771-67a1d235e82b",
   "lastfm": {
     "id": "Junior+H/_/El+Azul",
     "listeners": 135178,
@@ -22,5 +21,8 @@
       "corridos",
       "sierreno"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "af1b83bb-3edc-4443-b771-67a1d235e82b"
   }
 }

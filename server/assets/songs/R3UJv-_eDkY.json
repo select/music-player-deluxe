@@ -1,12 +1,10 @@
 {
-  "mbid": "87e051a7-4832-4712-89f0-f71cedff0971",
   "title": "la morte",
   "artist": "Karl Biscuit",
   "album": "Crammed Global Soundcrash 1980-89 Part Two: Electrowave",
   "duration": 153,
   "youtubeId": "R3UJv-_eDkY",
   "lastFetched": "2025-11-19T04:38:46.264Z",
-  "artistMbid": "9b72e403-15be-461b-bd04-f3e9f0891b8e",
   "lastfm": {
     "id": "Karl+Biscuit/_/la+morte",
     "listeners": 2254,
@@ -18,5 +16,9 @@
       "1986",
       "avantgarde pop"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "87e051a7-4832-4712-89f0-f71cedff0971",
+    "artistMbid": "9b72e403-15be-461b-bd04-f3e9f0891b8e"
   }
 }

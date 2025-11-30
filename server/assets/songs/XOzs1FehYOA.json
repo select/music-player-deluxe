@@ -21,8 +21,6 @@
     "youtube": "XOzs1FehYOA",
     "youtubeMusic": "XOzs1FehYOA"
   },
-  "mbid": "7615e831-dc40-3e3a-9c79-2c59fbe49add",
-  "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
   "musicbrainz": {
     "tags": [
       "Nu Metal",
@@ -30,7 +28,9 @@
       "alternative",
       "alternative metal",
       "alternative rock"
-    ]
+    ],
+    "trackMbid": "7615e831-dc40-3e3a-9c79-2c59fbe49add",
+    "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46"
   },
   "lastfm": {
     "id": "Deftones/_/My+Own+Summer+(Shove+It)",

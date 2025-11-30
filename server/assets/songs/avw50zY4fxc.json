@@ -14,8 +14,6 @@
     "youtube": "avw50zY4fxc",
     "youtubeMusic": "avw50zY4fxc"
   },
-  "mbid": "8808b0da-e43f-4b67-a0b5-eb1a2d903a34",
-  "artistMbid": "ff9542ca-7859-4db2-8796-c1e3c39b9c0a",
   "musicbrainz": {
     "artistTags": [
       "rock and indie",
@@ -23,7 +21,9 @@
     ],
     "artistGenres": [
       "soul"
-    ]
+    ],
+    "trackMbid": "8808b0da-e43f-4b67-a0b5-eb1a2d903a34",
+    "artistMbid": "ff9542ca-7859-4db2-8796-c1e3c39b9c0a"
   },
   "lastfm": {
     "id": "Shuggie+Otis/_/Aht+Uh+Mi+Hed",

@@ -1,18 +1,18 @@
 {
-  "mbid": "07eedb91-dff1-4d8e-a76c-074e2f3ce086",
   "title": "Luminous Beings",
   "artist": "Jon Hopkins",
   "duration": 711,
   "youtubeId": "imn8jY_UJg8",
   "lastFetched": "2025-11-19T01:36:55.337Z",
-  "releaseCount": 1,
   "name": "Luminous Beings",
-  "artistMbid": "0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd",
   "musicbrainz": {
     "tags": [
       "ambient techno",
       "microhouse"
-    ]
+    ],
+    "trackMbid": "07eedb91-dff1-4d8e-a76c-074e2f3ce086",
+    "artistMbid": "0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Jon+Hopkins/_/Luminous+Beings",

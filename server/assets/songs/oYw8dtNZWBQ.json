@@ -1,9 +1,6 @@
 {
-  "mbid": "1f3aaadb-fd44-47ec-aa20-a6115a8fc04f",
   "title": "You Should Talk",
   "artist": "Pothead",
-  "artistMbid": "b67cf130-b7f9-48ed-b14f-da434ae3d0a3",
-  "releaseCount": 4,
   "duration": 242,
   "youtubeId": "oYw8dtNZWBQ",
   "lastFetched": "2025-11-19T03:11:45.248Z",
@@ -14,5 +11,10 @@
     "tags": [
       "fuer-die-insel"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1f3aaadb-fd44-47ec-aa20-a6115a8fc04f",
+    "artistMbid": "b67cf130-b7f9-48ed-b14f-da434ae3d0a3",
+    "releaseCount": 4
   }
 }

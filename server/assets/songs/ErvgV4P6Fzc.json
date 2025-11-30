@@ -16,8 +16,6 @@
     "youtube": "ErvgV4P6Fzc",
     "youtubeMusic": "ErvgV4P6Fzc"
   },
-  "mbid": "1b2a3ece-d35a-4319-8d86-8f39c6a0f866",
-  "artistMbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
   "musicbrainz": {
     "artistTags": [
       "aor",
@@ -35,7 +33,9 @@
       "art rock",
       "glam metal",
       "hard rock"
-    ]
+    ],
+    "trackMbid": "1b2a3ece-d35a-4319-8d86-8f39c6a0f866",
+    "artistMbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43"
   },
   "lastfm": {
     "id": "Guns+N%27+Roses/_/Patience",

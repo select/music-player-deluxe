@@ -14,7 +14,6 @@
     "youtube": "VrQc6jQkE3Q",
     "youtubeMusic": "VrQc6jQkE3Q"
   },
-  "artistMbid": "92e43ae5-757f-437a-a156-5e7f10499a78",
   "lastfm": {
     "id": "Oscuro/_/Far+From+Here",
     "listeners": 275,
@@ -23,5 +22,8 @@
       "future garage",
       "electronic"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "92e43ae5-757f-437a-a156-5e7f10499a78"
   }
 }

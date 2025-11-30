@@ -1,5 +1,4 @@
 {
-  "mbid": "54f0de3c-fcf6-4610-9163-5f5351ca5a97",
   "title": "Nostaglitch",
   "artist": "Skee Mask",
   "album": "Resort",
@@ -18,11 +17,12 @@
     "youtube": "bH2v1kZ4x1w",
     "youtubeMusic": "bH2v1kZ4x1w"
   },
-  "artistMbid": "2b3e25ba-983e-44ac-9def-907e03910cd2",
   "musicbrainz": {
     "tags": [
       "ambient"
-    ]
+    ],
+    "trackMbid": "54f0de3c-fcf6-4610-9163-5f5351ca5a97",
+    "artistMbid": "2b3e25ba-983e-44ac-9def-907e03910cd2"
   },
   "lastfm": {
     "id": "Skee+Mask/_/Nostaglitch",

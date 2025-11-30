@@ -14,8 +14,6 @@
     "youtube": "ydeV1_8pM4o",
     "youtubeMusic": "ydeV1_8pM4o"
   },
-  "mbid": "16ac7168-1135-4201-acf6-421c4e56711f",
-  "artistMbid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7",
   "musicbrainz": {
     "artistTags": [
       "australian",
@@ -35,7 +33,9 @@
       "garage rock",
       "hard rock",
       "heavy psych"
-    ]
+    ],
+    "trackMbid": "16ac7168-1135-4201-acf6-421c4e56711f",
+    "artistMbid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7"
   },
   "lastfm": {
     "id": "King+Gizzard+&+The+Lizard+Wizard/_/Ice+V",

@@ -17,15 +17,15 @@
     "youtube": "OfneiWL18Og",
     "youtubeMusic": "OfneiWL18Og"
   },
-  "mbid": "09065870-e096-3114-950c-ca09fee1e3b1",
-  "artistMbid": "5286b91c-5d42-4cab-933a-77e30eb74ddc",
   "musicbrainz": {
     "artistTags": [
       "electronic"
     ],
     "artistGenres": [
       "electronic"
-    ]
+    ],
+    "trackMbid": "09065870-e096-3114-950c-ca09fee1e3b1",
+    "artistMbid": "5286b91c-5d42-4cab-933a-77e30eb74ddc"
   },
   "lastfm": {
     "id": "Roman+Fl%C3%BCgel/_/Dishes+&+Wishes",

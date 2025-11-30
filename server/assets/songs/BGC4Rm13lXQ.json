@@ -21,8 +21,6 @@
     "youtube": "BGC4Rm13lXQ",
     "youtubeMusic": "BGC4Rm13lXQ"
   },
-  "mbid": "e634ae23-a4cb-4577-b05d-68ddf49abbf5",
-  "artistMbid": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -42,7 +40,9 @@
       "free improvisation",
       "free jazz",
       "hard bop"
-    ]
+    ],
+    "trackMbid": "e634ae23-a4cb-4577-b05d-68ddf49abbf5",
+    "artistMbid": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d"
   },
   "lastfm": {
     "id": "Sun+Ra/_/Hour+of+Parting",

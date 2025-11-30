@@ -16,8 +16,6 @@
     "youtube": "2Q_ZzBGPdqE",
     "youtubeMusic": "2Q_ZzBGPdqE"
   },
-  "mbid": "43756410-2837-4827-92da-3cd12b16c219",
-  "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
   "musicbrainz": {
     "artistTags": [
       "1960s",
@@ -37,7 +35,9 @@
       "merseybeat",
       "pop",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "43756410-2837-4827-92da-3cd12b16c219",
+    "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
   },
   "lastfm": {
     "id": "The+Beatles/_/Help%21",

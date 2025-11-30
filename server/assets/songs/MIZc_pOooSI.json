@@ -1,9 +1,6 @@
 {
-  "mbid": "3a84a1a0-6364-423c-b95c-3a945b9e331b",
   "title": "Sunday Gathering (Dyed Soundorom Remix)",
   "artist": "Terence :Terry:",
-  "artistMbid": "0b59e0a9-bcbc-41a3-adc2-72f3eca6fb9e",
-  "releaseCount": 3,
   "duration": 427,
   "youtubeId": "MIZc_pOooSI",
   "lastFetched": "2025-11-19T03:59:35.860Z",
@@ -21,5 +18,10 @@
     "id": "Terence+:Terry:/_/Sunday+Gathering+(Dyed+Soundorom+Remix)",
     "listeners": 11,
     "playcount": 29
+  },
+  "musicbrainz": {
+    "trackMbid": "3a84a1a0-6364-423c-b95c-3a945b9e331b",
+    "artistMbid": "0b59e0a9-bcbc-41a3-adc2-72f3eca6fb9e",
+    "releaseCount": 3
   }
 }

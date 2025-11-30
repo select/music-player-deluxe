@@ -3,7 +3,6 @@
   "title": "The Fire From Africa",
   "artist": "Mista Savona",
   "lastFetched": "2025-11-19T08:01:19.286Z",
-  "artistMbid": "50d9730b-c4ab-4abd-8625-4fc0ebb81b18",
   "lastfm": {
     "id": "Mista+Savona/_/The+Fire+From+Africa",
     "listeners": 280,
@@ -14,5 +13,8 @@
       "australian",
       "dancehall"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "50d9730b-c4ab-4abd-8625-4fc0ebb81b18"
   }
 }

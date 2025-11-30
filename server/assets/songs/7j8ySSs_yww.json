@@ -12,7 +12,6 @@
     "youtube": "7j8ySSs_yww",
     "youtubeMusic": "7j8ySSs_yww"
   },
-  "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
   "lastfm": {
     "id": "Chase+&+Status/_/Weed+&+Rum",
     "listeners": 25224,
@@ -21,5 +20,8 @@
       "reggae",
       "dancehall"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
   }
 }

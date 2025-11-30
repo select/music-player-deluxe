@@ -16,12 +16,12 @@
     "youtube": "fnJP5CS_EF4",
     "youtubeMusic": "fnJP5CS_EF4"
   },
-  "mbid": "096731b2-1e14-459a-8bc4-23985d1c3615",
-  "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
   "musicbrainz": {
     "artistTags": [
       "german"
-    ]
+    ],
+    "trackMbid": "096731b2-1e14-459a-8bc4-23985d1c3615",
+    "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e"
   },
   "lastfm": {
     "id": "Knorkator/_/Die+Geschichte+vom+Zappel-Philipp",

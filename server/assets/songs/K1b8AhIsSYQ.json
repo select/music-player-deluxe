@@ -20,7 +20,6 @@
     "youtube": "K1b8AhIsSYQ",
     "youtubeMusic": "K1b8AhIsSYQ"
   },
-  "artistMbid": "fbf445c0-11ae-4d3e-af1a-c6e2783e447c",
   "musicbrainz": {
     "tags": [
       "80s",
@@ -28,7 +27,8 @@
       "pop",
       "rock",
       "starship"
-    ]
+    ],
+    "artistMbid": "fbf445c0-11ae-4d3e-af1a-c6e2783e447c"
   },
   "lastfm": {
     "id": "Starship/_/We+Built+This+City",

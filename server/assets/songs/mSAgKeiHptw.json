@@ -17,15 +17,15 @@
     "youtube": "mSAgKeiHptw",
     "youtubeMusic": "mSAgKeiHptw"
   },
-  "mbid": "7e3fcb37-5a37-4610-8712-d6e232a794df",
-  "artistMbid": "215224bc-04a4-4f67-8059-64535a6643cb",
   "musicbrainz": {
     "artistTags": [
       "reggae"
     ],
     "artistGenres": [
       "reggae"
-    ]
+    ],
+    "trackMbid": "7e3fcb37-5a37-4610-8712-d6e232a794df",
+    "artistMbid": "215224bc-04a4-4f67-8059-64535a6643cb"
   },
   "lastfm": {
     "id": "Morgan+Heritage/_/WHY+DEM+COME+AROUND",

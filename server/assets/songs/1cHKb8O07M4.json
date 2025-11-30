@@ -10,8 +10,6 @@
     "youtube": "1cHKb8O07M4",
     "youtubeMusic": "1cHKb8O07M4"
   },
-  "mbid": "ecaa8fc0-a3a5-3ec8-b833-14eb24cc2e69",
-  "artistMbid": "0f0779be-7ee8-4bbc-bac2-32b7f007b17c",
   "lastfm": {
     "id": "Moskwa+TV/_/Submarine",
     "listeners": 595,
@@ -19,5 +17,9 @@
     "tags": [
       "electropearls"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ecaa8fc0-a3a5-3ec8-b833-14eb24cc2e69",
+    "artistMbid": "0f0779be-7ee8-4bbc-bac2-32b7f007b17c"
   }
 }

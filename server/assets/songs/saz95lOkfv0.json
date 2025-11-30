@@ -21,8 +21,6 @@
     "youtube": "saz95lOkfv0",
     "youtubeMusic": "saz95lOkfv0"
   },
-  "mbid": "e9c11d1c-bb19-4495-9669-89a665b963fd",
-  "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5",
   "musicbrainz": {
     "artistTags": [
       "alternative metal",
@@ -41,7 +39,9 @@
       "funk metal",
       "funk rock",
       "nu metal"
-    ]
+    ],
+    "trackMbid": "e9c11d1c-bb19-4495-9669-89a665b963fd",
+    "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5"
   },
   "lastfm": {
     "id": "Incubus/_/Are+You+In%3F",

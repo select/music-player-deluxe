@@ -17,8 +17,6 @@
     "youtube": "CvcoxunP7KU",
     "youtubeMusic": "CvcoxunP7KU"
   },
-  "mbid": "dbb4e40d-50ae-4856-8ad8-cf19f6f0daf3",
-  "artistMbid": "3a6d6481-142d-423f-91d4-55bbfff318ed",
   "musicbrainz": {
     "artistTags": [
       "chillwave",
@@ -34,7 +32,9 @@
       "funk",
       "hypnagogic pop",
       "indie pop"
-    ]
+    ],
+    "trackMbid": "dbb4e40d-50ae-4856-8ad8-cf19f6f0daf3",
+    "artistMbid": "3a6d6481-142d-423f-91d4-55bbfff318ed"
   },
   "lastfm": {
     "id": "Toro+y+Moi/_/The+Loop",

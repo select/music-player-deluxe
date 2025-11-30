@@ -3,7 +3,6 @@
   "title": "Without Me (Remix)",
   "artist": "Eminem",
   "lastFetched": "2025-11-19T12:38:43.992Z",
-  "artistMbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
   "lastfm": {
     "id": "Eminem/_/Without+Me+(Remix)",
     "listeners": 262,
@@ -14,5 +13,8 @@
       "hip hop",
       "eminem"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4"
   }
 }

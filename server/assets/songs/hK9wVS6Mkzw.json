@@ -14,7 +14,6 @@
     "youtube": "hK9wVS6Mkzw",
     "youtubeMusic": "hK9wVS6Mkzw"
   },
-  "artistMbid": "e7876844-3c7a-47c5-a6ac-ab94bc21a1a3",
   "lastfm": {
     "id": "The+Great+Machine/_/Funrider",
     "listeners": 838,
@@ -23,5 +22,8 @@
       "stoner rock",
       "israel"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "e7876844-3c7a-47c5-a6ac-ab94bc21a1a3"
   }
 }

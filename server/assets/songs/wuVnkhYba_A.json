@@ -11,7 +11,6 @@
     "youtube": "wuVnkhYba_A",
     "youtubeMusic": "wuVnkhYba_A"
   },
-  "artistMbid": "5b009716-f46f-4dc4-97ce-aabbf422bcf4",
   "lastfm": {
     "id": "Tantrum+Desire/_/Be+Careful",
     "listeners": 6729,
@@ -22,5 +21,8 @@
       "clownstep",
       "dubstep"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "5b009716-f46f-4dc4-97ce-aabbf422bcf4"
   }
 }

@@ -12,8 +12,6 @@
     "youtube": "GoaTjsT9FzY",
     "youtubeMusic": "GoaTjsT9FzY"
   },
-  "mbid": "2fc7f699-7893-4a41-b161-94ca5fc082ec",
-  "artistMbid": "84c7cb93-0622-4b90-8d53-ee2b4650097f",
   "musicbrainz": {
     "artistTags": [
       "rhythm and blues",
@@ -23,7 +21,9 @@
     "artistGenres": [
       "rock and roll",
       "rockabilly"
-    ]
+    ],
+    "trackMbid": "2fc7f699-7893-4a41-b161-94ca5fc082ec",
+    "artistMbid": "84c7cb93-0622-4b90-8d53-ee2b4650097f"
   },
   "lastfm": {
     "id": "JD+McPherson/_/Shy+Boy",

@@ -18,8 +18,6 @@
     "youtube": "y3W7fXnc8v0",
     "youtubeMusic": "y3W7fXnc8v0"
   },
-  "mbid": "217c22dd-634c-4f3b-8902-dd929217dcde",
-  "artistMbid": "75ebdfa0-4a8a-496a-a57f-e4bb93b14d4c",
   "musicbrainz": {
     "artistTags": [
       "ambient",
@@ -35,7 +33,9 @@
       "classical",
       "electronic",
       "trance"
-    ]
+    ],
+    "trackMbid": "217c22dd-634c-4f3b-8902-dd929217dcde",
+    "artistMbid": "75ebdfa0-4a8a-496a-a57f-e4bb93b14d4c"
   },
   "lastfm": {
     "id": "Schiller/_/Sommerregen",

@@ -12,8 +12,6 @@
     "youtube": "uep8z9pujiE",
     "youtubeMusic": "uep8z9pujiE"
   },
-  "mbid": "54faa8b5-f8ca-4187-8b17-941fe915e7ef",
-  "artistMbid": "5b009716-f46f-4dc4-97ce-aabbf422bcf4",
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
@@ -22,7 +20,9 @@
     "artistGenres": [
       "drum and bass",
       "electronic"
-    ]
+    ],
+    "trackMbid": "54faa8b5-f8ca-4187-8b17-941fe915e7ef",
+    "artistMbid": "5b009716-f46f-4dc4-97ce-aabbf422bcf4"
   },
   "lastfm": {
     "id": "Tantrum+Desire/_/Zealous",

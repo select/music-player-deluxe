@@ -20,8 +20,6 @@
     "youtube": "l7Ko5586zqQ",
     "youtubeMusic": "l7Ko5586zqQ"
   },
-  "mbid": "7a0eef28-632c-4468-997b-f194b5eab12b",
-  "artistMbid": "e270d44f-3109-4bd4-a35c-67870159198e",
   "lastfm": {
     "id": "Lewsberg/_/Standard+Procedures",
     "listeners": 1519,
@@ -33,5 +31,9 @@
       "art punk",
       "rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7a0eef28-632c-4468-997b-f194b5eab12b",
+    "artistMbid": "e270d44f-3109-4bd4-a35c-67870159198e"
   }
 }

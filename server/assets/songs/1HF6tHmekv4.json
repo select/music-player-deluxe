@@ -1,19 +1,19 @@
 {
-  "mbid": "02455bd2-10ae-4b26-a04c-45cc0da444b3",
   "title": "Afro Puffs",
   "artist": "The Lady of Rage",
   "duration": 262,
   "youtubeId": "1HF6tHmekv4",
   "lastFetched": "2025-11-23T16:26:31.465Z",
-  "releaseCount": 1,
-  "artistMbid": "147a3ceb-ebeb-4ce8-96e6-b2b3616dca04",
   "musicbrainz": {
     "artistTags": [
       "hip hop"
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "trackMbid": "02455bd2-10ae-4b26-a04c-45cc0da444b3",
+    "artistMbid": "147a3ceb-ebeb-4ce8-96e6-b2b3616dca04",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "The+Lady+of+Rage/_/Afro+Puffs",

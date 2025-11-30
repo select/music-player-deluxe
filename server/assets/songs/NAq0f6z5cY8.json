@@ -1,11 +1,9 @@
 {
-  "mbid": "2edc667d-957c-46d5-a206-b6f50494f857",
   "title": "Purple Rose Minuet",
   "artist": "Susumu Yokota",
   "duration": 215,
   "youtubeId": "NAq0f6z5cY8",
   "lastFetched": "2025-11-19T03:16:18.863Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B000X1S9ZE",
     "amazonStore": "B000X1S9ZE",
@@ -16,7 +14,6 @@
     "youtube": "NAq0f6z5cY8",
     "youtubeMusic": "NAq0f6z5cY8"
   },
-  "artistMbid": "7b05d6fe-91e8-4cb9-a401-2a13b1578716",
   "musicbrainz": {
     "tags": [
       "abstract electronic",
@@ -27,7 +24,10 @@
       "experimental",
       "idm",
       "modern classical"
-    ]
+    ],
+    "trackMbid": "2edc667d-957c-46d5-a206-b6f50494f857",
+    "artistMbid": "7b05d6fe-91e8-4cb9-a401-2a13b1578716",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Susumu+Yokota/_/Purple+Rose+Minuet",

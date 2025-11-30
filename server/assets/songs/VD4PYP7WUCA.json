@@ -21,8 +21,6 @@
     "youtube": "VD4PYP7WUCA",
     "youtubeMusic": "VD4PYP7WUCA"
   },
-  "mbid": "6dc9a422-5a3a-4242-8e50-96b4190bdefe",
-  "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -36,7 +34,9 @@
       "heavy metal",
       "metal",
       "thrash metal"
-    ]
+    ],
+    "trackMbid": "6dc9a422-5a3a-4242-8e50-96b4190bdefe",
+    "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
   },
   "lastfm": {
     "id": "Metallica/_/The+Unforgiven+III",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "kgmnlwjTRRw",
   "title": "Oscar Peterson -Mirage",
-  "lastFetched": "2025-11-30T17:23:23.699Z",
+  "lastFetched": "2025-11-30T19:21:22.580Z",
   "ai": {
     "title": "Mirage",
     "artist": "Oscar Peterson"
@@ -19,6 +19,21 @@
       "piano",
       "jazz piano",
       "swing"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e84a4f2e-1c42-467c-abfc-b331d06cda25",
+    "artistMbid": "ed801bdd-f057-41c0-94fb-76cb5676cd59",
+    "releaseCount": 3,
+    "genres": [
+      "jazz"
+    ],
+    "artistGenres": [
+      "bebop",
+      "cool jazz",
+      "hard bop",
+      "jazz",
+      "vocal jazz"
     ]
   }
 }

@@ -15,8 +15,6 @@
     "youtube": "z86Nq61NDkk",
     "youtubeMusic": "z86Nq61NDkk"
   },
-  "mbid": "ca2ac80c-4e8b-492c-8efe-f11796f30c38",
-  "artistMbid": "7a6bf9a9-2101-4c4e-bd29-ddd496dbd215",
   "lastfm": {
     "id": "Aron+&+the+Jeri+Jeri+Band/_/Dama+B%C3%ABgga+%C3%91ibi+(I+Want+To+Go+Home)",
     "listeners": 266,
@@ -27,5 +25,9 @@
       "senegal",
       "desert blues"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ca2ac80c-4e8b-492c-8efe-f11796f30c38",
+    "artistMbid": "7a6bf9a9-2101-4c4e-bd29-ddd496dbd215"
   }
 }

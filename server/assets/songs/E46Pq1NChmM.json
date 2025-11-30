@@ -17,15 +17,15 @@
     "youtube": "E46Pq1NChmM",
     "youtubeMusic": "E46Pq1NChmM"
   },
-  "mbid": "0447ceba-d17a-3f6e-8300-dee46790f592",
-  "artistMbid": "a53f5eed-f9f1-4cf1-9994-4c9374904790",
   "musicbrainz": {
     "artistTags": [
       "northern irish",
       "rock and indie",
       "uk",
       "warp"
-    ]
+    ],
+    "trackMbid": "0447ceba-d17a-3f6e-8300-dee46790f592",
+    "artistMbid": "a53f5eed-f9f1-4cf1-9994-4c9374904790"
   },
   "lastfm": {
     "id": "David+Holmes/_/Gone+(The+Kruder+&+Dorfmeister+Session)",

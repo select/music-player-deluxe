@@ -2,7 +2,7 @@
   "youtubeId": "wDe-dI3c5d0",
   "title": "Redemption",
   "artist": "Joe Bonamassa",
-  "lastFetched": "2025-11-30T17:43:27.948Z",
+  "lastFetched": "2025-11-30T19:23:16.753Z",
   "odesli": {
     "amazonMusic": "B07DXHPMPF",
     "amazonStore": "B07DXHPMPF",
@@ -26,6 +26,20 @@
       "blues rock",
       "blues",
       "guitar",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "33daeeb7-4b51-4d98-ac36-9ae05360a543",
+    "artistMbid": "984f8239-8fe1-4683-9c54-10ffb14439e9",
+    "releaseCount": 8,
+    "genres": [
+      "blues",
+      "blues rock"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
       "rock"
     ]
   }

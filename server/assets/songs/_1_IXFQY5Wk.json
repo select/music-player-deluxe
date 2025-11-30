@@ -16,8 +16,6 @@
     "youtube": "_1_IXFQY5Wk",
     "youtubeMusic": "_1_IXFQY5Wk"
   },
-  "mbid": "24de84d2-24c5-4669-83df-77b3e74aac26",
-  "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
   "musicbrainz": {
     "artistTags": [
       "acoustic rock",
@@ -37,7 +35,9 @@
       "garage rock",
       "garage rock revival",
       "indie rock"
-    ]
+    ],
+    "trackMbid": "24de84d2-24c5-4669-83df-77b3e74aac26",
+    "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696"
   },
   "lastfm": {
     "id": "Cage+the+Elephant/_/Black+Madonna",

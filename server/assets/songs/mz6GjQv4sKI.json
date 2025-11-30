@@ -21,15 +21,15 @@
     "youtube": "mz6GjQv4sKI",
     "youtubeMusic": "mz6GjQv4sKI"
   },
-  "mbid": "43f60066-7dfb-48be-9c6e-328ec8cf4621",
-  "artistMbid": "513bd484-11fd-47f5-9560-4622338ef16c",
   "musicbrainz": {
     "artistTags": [
       "swing"
     ],
     "artistGenres": [
       "swing"
-    ]
+    ],
+    "trackMbid": "43f60066-7dfb-48be-9c6e-328ec8cf4621",
+    "artistMbid": "513bd484-11fd-47f5-9560-4622338ef16c"
   },
   "lastfm": {
     "id": "Moka+Efti+Orchestra/_/Frenzy",

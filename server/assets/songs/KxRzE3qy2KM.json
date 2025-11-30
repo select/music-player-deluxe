@@ -19,7 +19,6 @@
     "youtube": "KxRzE3qy2KM",
     "youtubeMusic": "KxRzE3qy2KM"
   },
-  "artistMbid": "1ed00158-c6a3-45cd-819c-2f91997fc480",
   "lastfm": {
     "id": "Sister+Sledge/_/Lost+in+Music+(1984+Bernard+Edwards+&+Nile+Rodgers+Remix)+%5B1995+Remaster%5D",
     "listeners": 157,
@@ -31,5 +30,8 @@
       "70s",
       "female vocalists"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "1ed00158-c6a3-45cd-819c-2f91997fc480"
   }
 }

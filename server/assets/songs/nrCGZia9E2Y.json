@@ -16,7 +16,6 @@
     "youtube": "nrCGZia9E2Y",
     "youtubeMusic": "nrCGZia9E2Y"
   },
-  "artistMbid": "96999054-38f8-47da-8906-a6b763aa37ce",
   "lastfm": {
     "id": "Fracture/_/Termites",
     "listeners": 245,
@@ -27,5 +26,8 @@
       "power metal",
       "metal"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "96999054-38f8-47da-8906-a6b763aa37ce"
   }
 }

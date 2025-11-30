@@ -15,7 +15,6 @@
     "youtube": "qw6MY45tK6o",
     "youtubeMusic": "qw6MY45tK6o"
   },
-  "artistMbid": "fdbffd97-c991-433c-9137-cafee3ded97a",
   "lastfm": {
     "id": "Yussef+Dayes/_/Black+Classical+Music+(feat.+Venna+&+Charlie+Stacey)",
     "listeners": 40741,
@@ -24,5 +23,8 @@
       "wsum 91.7 fm madison",
       "everything is embarrassing with dj leah"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "fdbffd97-c991-433c-9137-cafee3ded97a"
   }
 }

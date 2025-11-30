@@ -17,8 +17,6 @@
     "youtube": "xQ04WbgI9rg",
     "youtubeMusic": "xQ04WbgI9rg"
   },
-  "mbid": "d9d90f1f-0c13-4197-bbc6-b981ad958ae1",
-  "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
   "musicbrainz": {
     "tags": [
       "rock",
@@ -26,7 +24,9 @@
       "Grunge",
       "alternative",
       "foo fighters"
-    ]
+    ],
+    "trackMbid": "d9d90f1f-0c13-4197-bbc6-b981ad958ae1",
+    "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d"
   },
   "lastfm": {
     "id": "Foo+Fighters/_/All+My+Life",

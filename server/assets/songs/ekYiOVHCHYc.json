@@ -18,8 +18,6 @@
     "youtube": "ekYiOVHCHYc",
     "youtubeMusic": "ekYiOVHCHYc"
   },
-  "mbid": "2219e28f-8ab9-4807-ba0d-deeb14cd6533",
-  "artistMbid": "15b8992f-4971-404e-afab-2fe8cbcbd61a",
   "musicbrainz": {
     "artistTags": [
       "liedermacher",
@@ -29,7 +27,9 @@
     "artistGenres": [
       "liedermacher",
       "singer-songwriter"
-    ]
+    ],
+    "trackMbid": "2219e28f-8ab9-4807-ba0d-deeb14cd6533",
+    "artistMbid": "15b8992f-4971-404e-afab-2fe8cbcbd61a"
   },
   "lastfm": {
     "id": "Joint+Venture/_/Haschisch+rauchen+macht+harmlos",

@@ -1,11 +1,9 @@
 {
-  "mbid": "5c70fbf0-42d4-4ba5-a732-a0b960225f82",
   "title": "Heads Will Roll",
   "artist": "Yeah Yeah Yeahs",
   "duration": 221,
   "youtubeId": "auzfTPp4moA",
   "lastFetched": "2025-11-19T01:37:08.752Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B001V7GDDE",
     "amazonStore": "B001V7GDDE",
@@ -22,7 +20,6 @@
     "youtubeMusic": "auzfTPp4moA"
   },
   "name": "Heads Will Roll",
-  "artistMbid": "584c04d2-4acc-491b-8a0a-e63133f4bfc4",
   "musicbrainz": {
     "tags": [
       "alternative dance",
@@ -38,7 +35,10 @@
       "synth-pop",
       "poptron",
       "female vocalists"
-    ]
+    ],
+    "trackMbid": "5c70fbf0-42d4-4ba5-a732-a0b960225f82",
+    "artistMbid": "584c04d2-4acc-491b-8a0a-e63133f4bfc4",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Yeah+Yeah+Yeahs/_/Heads+Will+Roll",

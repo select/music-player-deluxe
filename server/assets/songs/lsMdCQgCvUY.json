@@ -19,8 +19,6 @@
     "youtube": "lsMdCQgCvUY",
     "youtubeMusic": "lsMdCQgCvUY"
   },
-  "mbid": "3ac2fb73-6464-36f5-80c2-0ea9abd19b66",
-  "artistMbid": "5c7f757a-7be1-40e6-acb4-8cfee81ecd84",
   "lastfm": {
     "id": "Syclops/_/Where%27s+Jason%27s+K",
     "listeners": 12097,
@@ -31,5 +29,9 @@
       "electronic",
       "disco"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3ac2fb73-6464-36f5-80c2-0ea9abd19b66",
+    "artistMbid": "5c7f757a-7be1-40e6-acb4-8cfee81ecd84"
   }
 }

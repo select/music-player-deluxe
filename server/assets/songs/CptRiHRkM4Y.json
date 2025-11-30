@@ -16,8 +16,6 @@
     "youtube": "CptRiHRkM4Y",
     "youtubeMusic": "CptRiHRkM4Y"
   },
-  "mbid": "29816f19-e0b3-3b49-bd1d-6bcbd896aeb8",
-  "artistMbid": "86c0f463-b054-4b10-a204-cdcc6538c7f5",
   "lastfm": {
     "id": "The+Whatnauts/_/message+from+a+black+man",
     "listeners": 19128,
@@ -28,5 +26,9 @@
       "protest",
       "the whatnauts"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "29816f19-e0b3-3b49-bd1d-6bcbd896aeb8",
+    "artistMbid": "86c0f463-b054-4b10-a204-cdcc6538c7f5"
   }
 }

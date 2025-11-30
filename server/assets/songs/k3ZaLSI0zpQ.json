@@ -19,15 +19,15 @@
     "youtube": "k3ZaLSI0zpQ",
     "youtubeMusic": "k3ZaLSI0zpQ"
   },
-  "mbid": "32bc60d7-ac9d-4f3f-b88d-57f192d0008c",
-  "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3",
   "musicbrainz": {
     "artistTags": [
       "hip hop"
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "trackMbid": "32bc60d7-ac9d-4f3f-b88d-57f192d0008c",
+    "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3"
   },
   "lastfm": {
     "id": "Tapete/_/Flucht",

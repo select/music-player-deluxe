@@ -12,7 +12,6 @@
     "youtube": "XGDrzDEa-sw",
     "youtubeMusic": "XGDrzDEa-sw"
   },
-  "artistMbid": "70f63a33-5476-4739-9a58-d68df2bf6cb1",
   "lastfm": {
     "id": "DJ+Normal+4/_/Return+Of+The+Hooligans",
     "listeners": 1592,
@@ -22,5 +21,8 @@
       "jungle",
       "breakbeat"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "70f63a33-5476-4739-9a58-d68df2bf6cb1"
   }
 }

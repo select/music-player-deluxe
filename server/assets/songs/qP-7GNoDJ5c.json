@@ -17,7 +17,6 @@
     "youtube": "qP-7GNoDJ5c",
     "youtubeMusic": "qP-7GNoDJ5c"
   },
-  "artistMbid": "a373c884-6314-4188-803b-529a32ab2f0a",
   "lastfm": {
     "id": "Nathan+Evans/_/Wellerman+(Sea+Shanty)",
     "listeners": 9611,
@@ -25,5 +24,8 @@
     "tags": [
       "sea"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "a373c884-6314-4188-803b-529a32ab2f0a"
   }
 }

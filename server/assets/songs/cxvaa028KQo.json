@@ -1,9 +1,6 @@
 {
-  "mbid": "2fac2736-0a28-4630-8486-9423b2e8cb11",
   "title": "Direkt Bock",
   "artist": "Finch",
-  "artistMbid": "92653164-7cbd-468f-afa3-b0baa3e05986",
-  "releaseCount": 3,
   "duration": 187,
   "youtubeId": "cxvaa028KQo",
   "lastFetched": "2025-11-19T05:36:10.967Z",
@@ -13,7 +10,10 @@
       "hip hop",
       "parody",
       "rap"
-    ]
+    ],
+    "trackMbid": "2fac2736-0a28-4630-8486-9423b2e8cb11",
+    "artistMbid": "92653164-7cbd-468f-afa3-b0baa3e05986",
+    "releaseCount": 3
   },
   "lastfm": {
     "id": "Finch/_/Direkt+Bock",

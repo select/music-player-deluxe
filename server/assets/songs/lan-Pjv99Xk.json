@@ -2,7 +2,7 @@
   "youtubeId": "lan-Pjv99Xk",
   "title": "Crow (DJ-Kicks)",
   "artist": "Forest Swords",
-  "lastFetched": "2025-11-30T17:43:58.344Z",
+  "lastFetched": "2025-11-30T19:28:07.906Z",
   "odesli": {
     "amazonMusic": "B07BQY8ZP1",
     "amazonStore": "B07BQY8ZP1",
@@ -33,6 +33,19 @@
       "psychedelic",
       "dub",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6a3541fe-a048-4f3d-aad4-09f5b7cf5457",
+    "artistMbid": "98400193-5390-4720-b29e-65593037256c",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ambient",
+      "deconstructed club",
+      "electronic",
+      "experimental",
+      "instrumental",
+      "post-industrial"
     ]
   }
 }

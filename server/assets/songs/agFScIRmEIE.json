@@ -1,11 +1,9 @@
 {
-  "mbid": "6038bbca-b386-41b1-9ef1-f857cc297945",
   "title": "People Of Yoruba",
   "artist": "Jah Shaka & Mad Professor",
   "duration": 171,
   "youtubeId": "agFScIRmEIE",
   "lastFetched": "2025-11-23T16:43:23.289Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B000QYYBRS",
     "amazonStore": "B000QYYBRS",
@@ -21,7 +19,6 @@
     "youtube": "agFScIRmEIE",
     "youtubeMusic": "agFScIRmEIE"
   },
-  "artistMbid": "47b2253e-034f-4806-b65c-7cee187f34d8",
   "musicbrainz": {
     "artistTags": [
       "dub",
@@ -33,7 +30,10 @@
       "dub",
       "electronic",
       "roots reggae"
-    ]
+    ],
+    "trackMbid": "6038bbca-b386-41b1-9ef1-f857cc297945",
+    "artistMbid": "47b2253e-034f-4806-b65c-7cee187f34d8",
+    "releaseCount": 1
   },
   "ai": {
     "title": "People Of Yoruba",

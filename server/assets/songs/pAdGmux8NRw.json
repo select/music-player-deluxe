@@ -20,8 +20,6 @@
     "youtube": "pAdGmux8NRw",
     "youtubeMusic": "pAdGmux8NRw"
   },
-  "mbid": "01caf6b7-2478-4c2b-bcdc-2d6e76852df1",
-  "artistMbid": "b071f9fa-14b0-4217-8e97-eb41da73f598",
   "musicbrainz": {
     "artistTags": [
       "blues",
@@ -41,7 +39,9 @@
       "british rhythm & blues",
       "classic rock",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "01caf6b7-2478-4c2b-bcdc-2d6e76852df1",
+    "artistMbid": "b071f9fa-14b0-4217-8e97-eb41da73f598"
   },
   "lastfm": {
     "id": "The+Rolling+Stones/_/I%27m+A+King+Bee",

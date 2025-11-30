@@ -22,8 +22,6 @@
     "youtube": "7NK_JOkuSVY",
     "youtubeMusic": "7NK_JOkuSVY"
   },
-  "mbid": "71274005-b4e4-42c9-b9c9-cdecde31a82f",
-  "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
   "musicbrainz": {
     "tags": [
       "Nu Metal",
@@ -31,7 +29,9 @@
       "alternative rock",
       "alternative metal",
       "metal"
-    ]
+    ],
+    "trackMbid": "71274005-b4e4-42c9-b9c9-cdecde31a82f",
+    "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
   },
   "lastfm": {
     "id": "Linkin+Park/_/Lost",

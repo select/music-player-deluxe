@@ -12,8 +12,6 @@
     "youtube": "gql9220Qon8",
     "youtubeMusic": "gql9220Qon8"
   },
-  "mbid": "cd7a236d-9d32-43c7-82bc-9a92660d5e5e",
-  "artistMbid": "5e5480be-eded-44ad-9c45-f6136ec2f5db",
   "musicbrainz": {
     "artistTags": [
       "punk",
@@ -24,7 +22,9 @@
       "punk",
       "ska",
       "ska punk"
-    ]
+    ],
+    "trackMbid": "cd7a236d-9d32-43c7-82bc-9a92660d5e5e",
+    "artistMbid": "5e5480be-eded-44ad-9c45-f6136ec2f5db"
   },
   "lastfm": {
     "id": "Reel+Big+Fish/_/Beer",

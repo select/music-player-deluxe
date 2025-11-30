@@ -1,14 +1,16 @@
 {
-  "mbid": "bca66184-becf-4893-a3c8-5b3d4415e933",
   "title": "You N Me",
   "artist": "Kettenkarussell",
   "duration": 547,
   "youtubeId": "NDkB4KoPfwY",
   "lastFetched": "2025-11-23T15:40:00.124Z",
-  "releaseCount": 1,
-  "artistMbid": "126ed5d6-a0f4-4a37-87d5-8dce0febd18c",
   "ai": {
     "title": "You N Me",
     "artist": "Kettenkarussell"
+  },
+  "musicbrainz": {
+    "trackMbid": "bca66184-becf-4893-a3c8-5b3d4415e933",
+    "artistMbid": "126ed5d6-a0f4-4a37-87d5-8dce0febd18c",
+    "releaseCount": 1
   }
 }

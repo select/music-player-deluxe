@@ -21,8 +21,6 @@
     "youtube": "OH9A6tn_P6g",
     "youtubeMusic": "OH9A6tn_P6g"
   },
-  "mbid": "01f900ac-84e1-357a-937e-71755d8a7a2d",
-  "artistMbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
   "musicbrainz": {
     "tags": [
       "alternative rock",
@@ -30,7 +28,9 @@
       "pop punk",
       "Paramore",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "01f900ac-84e1-357a-937e-71755d8a7a2d",
+    "artistMbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
   },
   "lastfm": {
     "id": "Paramore/_/Ignorance",

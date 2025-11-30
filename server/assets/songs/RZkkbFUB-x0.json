@@ -16,8 +16,6 @@
     "youtube": "RZkkbFUB-x0",
     "youtubeMusic": "RZkkbFUB-x0"
   },
-  "mbid": "15bde335-c1b9-3cea-b5e1-9ae996952663",
-  "artistMbid": "5e372a49-5672-4fb8-ba14-18c90780c4f9",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -35,7 +33,9 @@
       "folk rock",
       "indie folk",
       "indie rock"
-    ]
+    ],
+    "trackMbid": "15bde335-c1b9-3cea-b5e1-9ae996952663",
+    "artistMbid": "5e372a49-5672-4fb8-ba14-18c90780c4f9"
   },
   "lastfm": {
     "id": "Calexico/_/Alone+Again+Or",

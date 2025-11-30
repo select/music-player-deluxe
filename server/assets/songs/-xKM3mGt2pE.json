@@ -3,7 +3,6 @@
   "title": "Take on Me",
   "artist": "a-ha",
   "lastFetched": "2025-11-19T06:20:31.720Z",
-  "mbid": "db70243c-1d2c-483d-9ab6-f98fccf0ad01",
   "musicbrainz": {
     "tags": [
       "80s",
@@ -11,7 +10,8 @@
       "new wave",
       "synthpop",
       "synth pop"
-    ]
+    ],
+    "trackMbid": "db70243c-1d2c-483d-9ab6-f98fccf0ad01"
   },
   "lastfm": {
     "id": "a-ha/_/Take+on+Me",

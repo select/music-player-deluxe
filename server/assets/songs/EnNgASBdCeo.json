@@ -21,7 +21,6 @@
     "youtube": "EnNgASBdCeo",
     "youtubeMusic": "EnNgASBdCeo"
   },
-  "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
   "musicbrainz": {
     "tags": [
       "soul",
@@ -29,7 +28,8 @@
       "70s",
       "motown",
       "pop"
-    ]
+    ],
+    "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e"
   },
   "lastfm": {
     "id": "Stevie+Wonder/_/Sir+Duke",

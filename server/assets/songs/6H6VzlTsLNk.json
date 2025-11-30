@@ -1,9 +1,6 @@
 {
-  "mbid": "f000198e-1a2f-4549-b115-e58cbbbc6af7",
   "title": "the night (bad moves)",
   "artist": "Josi Miller",
-  "artistMbid": "d596599c-299f-4ca3-a7ab-835f782f9b5e",
-  "releaseCount": 2,
   "duration": 240,
   "youtubeId": "6H6VzlTsLNk",
   "lastFetched": "2025-11-19T04:01:39.354Z",
@@ -16,5 +13,10 @@
       "germany",
       "chillhop"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f000198e-1a2f-4549-b115-e58cbbbc6af7",
+    "artistMbid": "d596599c-299f-4ca3-a7ab-835f782f9b5e",
+    "releaseCount": 2
   }
 }

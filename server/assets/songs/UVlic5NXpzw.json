@@ -18,8 +18,6 @@
     "youtube": "UVlic5NXpzw",
     "youtubeMusic": "UVlic5NXpzw"
   },
-  "mbid": "28bf0607-a54f-4986-ac0e-bade3b806f4f",
-  "artistMbid": "453321a7-3a77-47b0-8125-7bd385f3a730",
   "musicbrainz": {
     "artistTags": [
       "hard rock",
@@ -30,7 +28,9 @@
       "hard rock",
       "heavy metal",
       "rock"
-    ]
+    ],
+    "trackMbid": "28bf0607-a54f-4986-ac0e-bade3b806f4f",
+    "artistMbid": "453321a7-3a77-47b0-8125-7bd385f3a730"
   },
   "lastfm": {
     "id": "Paul+Gilbert/_/Fuzz+Universe",

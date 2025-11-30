@@ -1,12 +1,9 @@
 {
-  "mbid": "02ef8087-6747-4782-98b2-7e2a57286ae4",
   "title": "TANGLES",
   "artist": "Arto Lindsay",
   "duration": 231,
   "youtubeId": "fvSdPFYz9Go",
   "lastFetched": "2025-11-19T03:40:46.169Z",
-  "releaseCount": 1,
-  "artistMbid": "6c1904f2-dacf-4389-b828-d2cedc6f12b4",
   "odesli": {
     "amazonMusic": "B07F42WN6J",
     "amazonStore": "B07F42WN6J",
@@ -18,7 +15,10 @@
   "musicbrainz": {
     "artistTags": [
       "no wave"
-    ]
+    ],
+    "trackMbid": "02ef8087-6747-4782-98b2-7e2a57286ae4",
+    "artistMbid": "6c1904f2-dacf-4389-b828-d2cedc6f12b4",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Arto+Lindsay/_/TANGLES",

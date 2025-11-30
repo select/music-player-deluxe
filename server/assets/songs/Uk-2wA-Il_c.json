@@ -1,5 +1,4 @@
 {
-  "mbid": "081d7b03-24e2-4dc5-aaf1-92c227a83c21",
   "title": "Until the End of the World",
   "artist": "John Tejada",
   "album": "The Watchline",
@@ -21,7 +20,6 @@
     "youtube": "Uk-2wA-Il_c",
     "youtubeMusic": "Uk-2wA-Il_c"
   },
-  "artistMbid": "bda6d00e-f8f7-43a5-b8f8-f1ebc55b46d3",
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
@@ -32,7 +30,9 @@
       "drum and bass",
       "electronic",
       "techno"
-    ]
+    ],
+    "trackMbid": "081d7b03-24e2-4dc5-aaf1-92c227a83c21",
+    "artistMbid": "bda6d00e-f8f7-43a5-b8f8-f1ebc55b46d3"
   },
   "lastfm": {
     "id": "John+Tejada/_/Until+the+End+of+the+World",

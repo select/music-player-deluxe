@@ -20,7 +20,6 @@
     "youtube": "g6JYzOjglBs",
     "youtubeMusic": "g6JYzOjglBs"
   },
-  "artistMbid": "49c43c49-328d-4b14-8a1d-be99cafaec14",
   "lastfm": {
     "id": "Seeed/_/Aufstehn%21+(Feat.+Ceelo+Green)",
     "listeners": 30884,
@@ -31,5 +30,8 @@
       "dancehall",
       "german reggae"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "49c43c49-328d-4b14-8a1d-be99cafaec14"
   }
 }

@@ -14,7 +14,6 @@
     "youtube": "JFtYaYwLp7w",
     "youtubeMusic": "JFtYaYwLp7w"
   },
-  "artistMbid": "f186e07c-4812-4268-8432-2bf9d7c3ba42",
   "lastfm": {
     "id": "Jacob+Garchik/_/Homage",
     "listeners": 118,
@@ -25,5 +24,8 @@
       "free jazz",
       "instrumental"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "f186e07c-4812-4268-8432-2bf9d7c3ba42"
   }
 }

@@ -13,7 +13,6 @@
     "youtube": "lTfu2_iGud4",
     "youtubeMusic": "lTfu2_iGud4"
   },
-  "artistMbid": "be6d8ec2-7040-48d6-90c1-db70e47f423e",
   "lastfm": {
     "id": "Molly+Lewis/_/Miracle+Fruit",
     "listeners": 15886,
@@ -24,5 +23,8 @@
       "exotica",
       "pop"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "be6d8ec2-7040-48d6-90c1-db70e47f423e"
   }
 }

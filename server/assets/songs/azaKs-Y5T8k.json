@@ -16,8 +16,6 @@
     "youtube": "azaKs-Y5T8k",
     "youtubeMusic": "azaKs-Y5T8k"
   },
-  "mbid": "280e04b5-bbf8-4270-8ea5-c9a42d06b60d",
-  "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6",
   "musicbrainz": {
     "artistTags": [
       "art-punk",
@@ -33,7 +31,9 @@
       "progressive rock",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "280e04b5-bbf8-4270-8ea5-c9a42d06b60d",
+    "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6"
   },
   "lastfm": {
     "id": "Bilderbuch/_/Frisbeee",

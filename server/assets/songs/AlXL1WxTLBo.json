@@ -17,7 +17,6 @@
     "youtube": "AlXL1WxTLBo",
     "youtubeMusic": "AlXL1WxTLBo"
   },
-  "artistMbid": "1f67db48-c936-42f2-aee5-68fb6f943d88",
   "lastfm": {
     "id": "Marvin+Zeyss/_/ending",
     "listeners": 46,
@@ -27,5 +26,8 @@
       "house",
       "deep"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "1f67db48-c936-42f2-aee5-68fb6f943d88"
   }
 }

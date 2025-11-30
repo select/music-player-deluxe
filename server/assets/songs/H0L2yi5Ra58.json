@@ -12,8 +12,6 @@
     "youtube": "H0L2yi5Ra58",
     "youtubeMusic": "H0L2yi5Ra58"
   },
-  "mbid": "14c20945-3ac8-43cb-9737-bc3fe9663ff2",
-  "artistMbid": "cd830a8f-89d2-4e96-96cb-7a497e51d437",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -31,7 +29,9 @@
       "grunge",
       "indie rock",
       "post-punk"
-    ]
+    ],
+    "trackMbid": "14c20945-3ac8-43cb-9737-bc3fe9663ff2",
+    "artistMbid": "cd830a8f-89d2-4e96-96cb-7a497e51d437"
   },
   "lastfm": {
     "id": "Blood+Red+Shoes/_/Speech+Coma",

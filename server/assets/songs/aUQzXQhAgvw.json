@@ -3,8 +3,6 @@
   "title": "Percusienfa",
   "artist": "Erik Mongrain",
   "lastFetched": "2025-11-23T16:43:18.285Z",
-  "mbid": "816d911f-b3e2-3a10-88eb-e2a226d568b1",
-  "artistMbid": "e1626c85-984c-4a25-a9fd-40c6ac28b181",
   "musicbrainz": {
     "artistTags": [
       "acoustic guitar",
@@ -15,7 +13,9 @@
     ],
     "artistGenres": [
       "jazz"
-    ]
+    ],
+    "trackMbid": "816d911f-b3e2-3a10-88eb-e2a226d568b1",
+    "artistMbid": "e1626c85-984c-4a25-a9fd-40c6ac28b181"
   },
   "lastfm": {
     "id": "Erik+Mongrain/_/Percusienfa",

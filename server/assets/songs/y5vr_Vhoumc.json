@@ -17,8 +17,6 @@
     "youtube": "y5vr_Vhoumc",
     "youtubeMusic": "y5vr_Vhoumc"
   },
-  "mbid": "801a4e77-1cc7-485c-bb0c-4fd0f3c13015",
-  "artistMbid": "0f4fa442-3e9c-4355-8e17-a39386a52077",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -34,7 +32,9 @@
       "hard rock",
       "indie rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "801a4e77-1cc7-485c-bb0c-4fd0f3c13015",
+    "artistMbid": "0f4fa442-3e9c-4355-8e17-a39386a52077"
   },
   "lastfm": {
     "id": "Dead+Sara/_/Weatherman",

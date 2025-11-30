@@ -12,8 +12,6 @@
     "youtube": "uJz20oiwSXI",
     "youtubeMusic": "uJz20oiwSXI"
   },
-  "mbid": "c19a8940-3ee7-42c4-a7cd-25a1c3fac1ae",
-  "artistMbid": "cbfcdb48-c199-45af-80da-100d4e53253e",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -26,7 +24,9 @@
     "artistGenres": [
       "dub",
       "trip hop"
-    ]
+    ],
+    "trackMbid": "c19a8940-3ee7-42c4-a7cd-25a1c3fac1ae",
+    "artistMbid": "cbfcdb48-c199-45af-80da-100d4e53253e"
   },
   "lastfm": {
     "id": "Adrian+Sherwood/_/Starship+Bahia",

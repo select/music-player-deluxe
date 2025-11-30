@@ -12,7 +12,6 @@
     "youtube": "0c4v7fp5GC8",
     "youtubeMusic": "0c4v7fp5GC8"
   },
-  "mbid": "009159f8-38e7-3fcd-8526-050033eb8aa2",
   "lastfm": {
     "id": "Sin%C3%A9ad+O%27Connor/_/Troy",
     "listeners": 132836,
@@ -25,5 +24,8 @@
       "80s",
       "rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "009159f8-38e7-3fcd-8526-050033eb8aa2"
   }
 }

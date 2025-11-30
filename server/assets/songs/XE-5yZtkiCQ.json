@@ -17,8 +17,6 @@
     "youtube": "XE-5yZtkiCQ",
     "youtubeMusic": "XE-5yZtkiCQ"
   },
-  "mbid": "4e86043f-139f-3a85-bb96-fd7269ca23bc",
-  "artistMbid": "5006936e-2172-4227-8d3c-edaad6b126d6",
   "musicbrainz": {
     "artistTags": [
       "folk",
@@ -27,7 +25,9 @@
     "artistGenres": [
       "folk",
       "jazz"
-    ]
+    ],
+    "trackMbid": "4e86043f-139f-3a85-bb96-fd7269ca23bc",
+    "artistMbid": "5006936e-2172-4227-8d3c-edaad6b126d6"
   },
   "lastfm": {
     "id": "Dean+Magraw/_/Seventh+One",

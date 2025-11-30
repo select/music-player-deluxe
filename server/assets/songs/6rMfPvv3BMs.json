@@ -2,7 +2,7 @@
   "youtubeId": "6rMfPvv3BMs",
   "title": "Combat Baby",
   "artist": "Metric",
-  "lastFetched": "2025-11-30T17:43:37.966Z",
+  "lastFetched": "2025-11-30T19:25:46.160Z",
   "odesli": {
     "amazonMusic": "B00OE20N66",
     "amazonStore": "B00OE20N66",
@@ -28,6 +28,18 @@
       "female vocalists",
       "canadian",
       "metric"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "23ac2747-0bd3-4714-90b5-79f2f06aa108",
+    "artistMbid": "4449ccf6-c948-4d33-aa97-b6ad98ce4b5b",
+    "releaseCount": 13,
+    "artistGenres": [
+      "electronic",
+      "indie rock",
+      "new wave",
+      "pop",
+      "soft rock"
     ]
   }
 }

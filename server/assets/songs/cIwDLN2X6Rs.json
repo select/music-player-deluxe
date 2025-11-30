@@ -12,8 +12,6 @@
     "youtube": "cIwDLN2X6Rs",
     "youtubeMusic": "cIwDLN2X6Rs"
   },
-  "mbid": "6924d31f-00d9-457d-871f-34bec8e8050e",
-  "artistMbid": "c8a0ebb6-76b3-43df-ac2f-9a7a0cef624e",
   "lastfm": {
     "id": "Electronic+System/_/Skylab",
     "listeners": 2370,
@@ -23,5 +21,9 @@
       "jazz-funk",
       "jazz funk"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6924d31f-00d9-457d-871f-34bec8e8050e",
+    "artistMbid": "c8a0ebb6-76b3-43df-ac2f-9a7a0cef624e"
   }
 }

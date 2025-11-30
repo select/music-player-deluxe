@@ -19,8 +19,6 @@
     "youtube": "rEuMAqfuCrI",
     "youtubeMusic": "rEuMAqfuCrI"
   },
-  "mbid": "802c861b-6b6f-4841-8722-7f93bb95f525",
-  "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73",
   "musicbrainz": {
     "artistTags": [
       "avant-garde",
@@ -39,7 +37,9 @@
       "baroque",
       "breakcore",
       "death metal"
-    ]
+    ],
+    "trackMbid": "802c861b-6b6f-4841-8722-7f93bb95f525",
+    "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73"
   },
   "lastfm": {
     "id": "Igorrr/_/Opus+Brain",

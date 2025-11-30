@@ -10,7 +10,6 @@
     "youtube": "SExHN7Cq5h4",
     "youtubeMusic": "SExHN7Cq5h4"
   },
-  "artistMbid": "6e1b1094-2126-4bb9-b59f-15d58af0a986",
   "lastfm": {
     "id": "K-Lone/_/Barbarossa",
     "listeners": 7342,
@@ -20,5 +19,8 @@
       "electronic",
       "bass"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "6e1b1094-2126-4bb9-b59f-15d58af0a986"
   }
 }

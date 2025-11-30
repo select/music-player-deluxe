@@ -3,8 +3,6 @@
   "title": "Counting Blue Cars",
   "artist": "Dishwalla",
   "lastFetched": "2025-11-19T07:59:17.667Z",
-  "mbid": "077ec0b1-ce8a-31e2-9aff-8446ad1b69ef",
-  "artistMbid": "d6cd2165-7877-4ca7-ace9-34dacadaf393",
   "lastfm": {
     "id": "Dishwalla/_/Counting+Blue+Cars",
     "listeners": 172605,
@@ -16,5 +14,9 @@
       "rock",
       "alternative"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "077ec0b1-ce8a-31e2-9aff-8446ad1b69ef",
+    "artistMbid": "d6cd2165-7877-4ca7-ace9-34dacadaf393"
   }
 }

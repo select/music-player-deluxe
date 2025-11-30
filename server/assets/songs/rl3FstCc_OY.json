@@ -10,8 +10,6 @@
     "youtube": "rl3FstCc_OY",
     "youtubeMusic": "rl3FstCc_OY"
   },
-  "mbid": "2424e4aa-92da-4b79-8278-a11328d471aa",
-  "artistMbid": "dbb3b771-ae77-4381-b61c-758b5b7898ec",
   "musicbrainz": {
     "artistTags": [
       "death metal",
@@ -26,7 +24,9 @@
       "metal",
       "progressive metal",
       "technical death metal"
-    ]
+    ],
+    "trackMbid": "2424e4aa-92da-4b79-8278-a11328d471aa",
+    "artistMbid": "dbb3b771-ae77-4381-b61c-758b5b7898ec"
   },
   "lastfm": {
     "id": "Death/_/Politicians+in+My+Eyes",

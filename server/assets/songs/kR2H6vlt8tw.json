@@ -14,15 +14,15 @@
     "youtube": "kR2H6vlt8tw",
     "youtubeMusic": "kR2H6vlt8tw"
   },
-  "mbid": "30bd9c91-c736-4455-8696-c43be3148b4f",
-  "artistMbid": "6f1afd8c-3025-4d94-8ac1-ba98f6bc7f92",
   "musicbrainz": {
     "artistTags": [
       "baroque"
     ],
     "artistGenres": [
       "baroque"
-    ]
+    ],
+    "trackMbid": "30bd9c91-c736-4455-8696-c43be3148b4f",
+    "artistMbid": "6f1afd8c-3025-4d94-8ac1-ba98f6bc7f92"
   },
   "lastfm": {
     "id": "Solomon%27s+Knot/_/Hark,+shepherd+swains",

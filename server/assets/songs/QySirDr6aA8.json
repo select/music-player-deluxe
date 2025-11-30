@@ -1,11 +1,9 @@
 {
-  "mbid": "b9409fcb-f212-46d2-8c24-9b3bb242c1ef",
   "title": "Fourty Days",
   "artist": "Billy Brooks",
   "duration": 379,
   "youtubeId": "QySirDr6aA8",
   "lastFetched": "2025-11-19T02:40:43.392Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B08HDKFN1T",
     "amazonStore": "B08HDKFN1T",
@@ -23,7 +21,6 @@
     "youtube": "QySirDr6aA8",
     "youtubeMusic": "QySirDr6aA8"
   },
-  "artistMbid": "775c0cf9-5d7e-4889-9393-d21e3105fc4b",
   "lastfm": {
     "id": "Billy+Brooks/_/Fourty+Days",
     "listeners": 13395,
@@ -32,5 +29,10 @@
       "jazz",
       "sampled"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b9409fcb-f212-46d2-8c24-9b3bb242c1ef",
+    "artistMbid": "775c0cf9-5d7e-4889-9393-d21e3105fc4b",
+    "releaseCount": 1
   }
 }

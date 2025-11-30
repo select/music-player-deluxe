@@ -21,8 +21,6 @@
     "youtube": "4WP_haco_ZQ",
     "youtubeMusic": "4WP_haco_ZQ"
   },
-  "mbid": "6292bf4d-5e42-440b-9486-c5ae98108a9e",
-  "artistMbid": "044fd265-79dd-43eb-afc4-8b20becf7e17",
   "musicbrainz": {
     "artistTags": [
       "acid jazz",
@@ -42,7 +40,9 @@
       "contemporary jazz",
       "crossover thrash",
       "dance"
-    ]
+    ],
+    "trackMbid": "6292bf4d-5e42-440b-9486-c5ae98108a9e",
+    "artistMbid": "044fd265-79dd-43eb-afc4-8b20becf7e17"
   },
   "lastfm": {
     "id": "Thundercat/_/Fly+Like+An+Eagle+(From+%27Minions:+The+Rise+of+Gru%27+Soundtrack)",

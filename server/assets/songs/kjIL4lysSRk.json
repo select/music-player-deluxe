@@ -3,8 +3,6 @@
   "title": "Eine gute Nachricht",
   "artist": "Danger Dan",
   "lastFetched": "2025-11-23T16:47:49.863Z",
-  "mbid": "31eb83b1-2030-458f-b549-f9dd2d502fce",
-  "artistMbid": "aaf0cc6b-8855-4a78-9b89-1574eb459f58",
   "musicbrainz": {
     "artistTags": [
       "conscious hip hop",
@@ -13,7 +11,9 @@
     "artistGenres": [
       "conscious hip hop",
       "hip hop"
-    ]
+    ],
+    "trackMbid": "31eb83b1-2030-458f-b549-f9dd2d502fce",
+    "artistMbid": "aaf0cc6b-8855-4a78-9b89-1574eb459f58"
   },
   "lastfm": {
     "id": "Danger+Dan/_/Eine+gute+Nachricht",

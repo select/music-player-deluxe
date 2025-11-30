@@ -14,7 +14,6 @@
     "youtube": "Tnaqqyjx6UQ",
     "youtubeMusic": "Tnaqqyjx6UQ"
   },
-  "artistMbid": "aafee47a-3b1f-40a0-9657-689ba3851b1f",
   "lastfm": {
     "id": "Artie+Barsamian/_/Ashough+Em",
     "listeners": 19,
@@ -26,5 +25,8 @@
       "armenia",
       "male vocalist"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "aafee47a-3b1f-40a0-9657-689ba3851b1f"
   }
 }

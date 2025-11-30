@@ -3,8 +3,6 @@
   "title": "Ich Bin Nackt",
   "artist": "Stereo Total",
   "lastFetched": "2025-11-23T16:35:47.594Z",
-  "mbid": "4d702fd9-85ef-4b49-bb44-abce84b19132",
-  "artistMbid": "475ae7a5-07de-46a8-a88d-4322259aafa9",
   "musicbrainz": {
     "artistTags": [
       "alternative dance",
@@ -16,7 +14,9 @@
       "alternative dance",
       "indietronica",
       "synth-pop"
-    ]
+    ],
+    "trackMbid": "4d702fd9-85ef-4b49-bb44-abce84b19132",
+    "artistMbid": "475ae7a5-07de-46a8-a88d-4322259aafa9"
   },
   "lastfm": {
     "id": "Stereo+Total/_/Ich+Bin+Nackt",

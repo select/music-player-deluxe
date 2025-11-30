@@ -1,9 +1,6 @@
 {
-  "mbid": "1da881ee-b7fe-4e94-babd-bb0f93324b96",
   "title": "Wieviel Menschen waren glücklich, daß Du gelebt?",
   "artist": "Hildegard Knef",
-  "artistMbid": "fef1e787-e631-41a3-b8f2-a834291d8bd1",
-  "releaseCount": 7,
   "duration": 195,
   "youtubeId": "LmVNZHGAX-Y",
   "lastFetched": "2025-11-16T20:52:28.569Z",
@@ -27,6 +24,9 @@
     "artistTags": [
       "actress",
       "german"
-    ]
+    ],
+    "trackMbid": "1da881ee-b7fe-4e94-babd-bb0f93324b96",
+    "artistMbid": "fef1e787-e631-41a3-b8f2-a834291d8bd1",
+    "releaseCount": 7
   }
 }

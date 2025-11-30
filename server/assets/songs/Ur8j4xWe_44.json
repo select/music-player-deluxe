@@ -14,8 +14,6 @@
     "youtube": "Ur8j4xWe_44",
     "youtubeMusic": "Ur8j4xWe_44"
   },
-  "mbid": "f62a520d-3ea3-4876-aa01-3ec6efe76c25",
-  "artistMbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
   "musicbrainz": {
     "tags": [
       "country",
@@ -23,7 +21,9 @@
       "cover",
       "sad",
       "folk"
-    ]
+    ],
+    "trackMbid": "f62a520d-3ea3-4876-aa01-3ec6efe76c25",
+    "artistMbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432"
   },
   "lastfm": {
     "id": "Johnny+Cash/_/Hurt",

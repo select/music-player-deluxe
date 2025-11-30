@@ -13,7 +13,6 @@
     "youtube": "9C3zbPHAWVs",
     "youtubeMusic": "9C3zbPHAWVs"
   },
-  "artistMbid": "4dc99260-03b9-4121-8a80-c19f8f284d10",
   "lastfm": {
     "id": "Solo+Banton/_/Dem+Gone",
     "listeners": 181,
@@ -23,5 +22,8 @@
       "dub",
       "dubstep"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "4dc99260-03b9-4121-8a80-c19f8f284d10"
   }
 }

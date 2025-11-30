@@ -14,7 +14,6 @@
     "youtube": "6GoAoLonscc",
     "youtubeMusic": "6GoAoLonscc"
   },
-  "artistMbid": "8966c251-056b-4bc2-a43b-5b170c1ae0cb",
   "lastfm": {
     "id": "ASHEZ/_/Flip+The+Script+(VIP)",
     "listeners": 2060,
@@ -24,5 +23,8 @@
       "new zealand",
       "dubstep"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "8966c251-056b-4bc2-a43b-5b170c1ae0cb"
   }
 }

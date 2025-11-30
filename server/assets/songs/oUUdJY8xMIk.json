@@ -19,8 +19,6 @@
     "youtube": "oUUdJY8xMIk",
     "youtubeMusic": "oUUdJY8xMIk"
   },
-  "mbid": "0e6b8447-2e66-369e-b225-463f1d69cf7b",
-  "artistMbid": "0c085548-8a13-4c6a-ad32-2e773cc81717",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -30,7 +28,9 @@
     "artistGenres": [
       "country",
       "pop"
-    ]
+    ],
+    "trackMbid": "0e6b8447-2e66-369e-b225-463f1d69cf7b",
+    "artistMbid": "0c085548-8a13-4c6a-ad32-2e773cc81717"
   },
   "lastfm": {
     "id": "Rachel+Sweet/_/Truckstop+Queen",

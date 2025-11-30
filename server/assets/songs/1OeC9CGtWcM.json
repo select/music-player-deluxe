@@ -20,8 +20,6 @@
     "youtube": "1OeC9CGtWcM",
     "youtubeMusic": "1OeC9CGtWcM"
   },
-  "mbid": "455a8711-9397-4a2b-a50e-b35837f4b895",
-  "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -35,7 +33,9 @@
       "heavy metal",
       "metal",
       "thrash metal"
-    ]
+    ],
+    "trackMbid": "455a8711-9397-4a2b-a50e-b35837f4b895",
+    "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
   },
   "lastfm": {
     "id": "Metallica/_/72+Seasons",

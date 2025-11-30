@@ -20,8 +20,6 @@
     "youtube": "7fDw4VL92Gc",
     "youtubeMusic": "7fDw4VL92Gc"
   },
-  "mbid": "01b4a124-8cb4-3bb6-a6e1-b07844d70537",
-  "artistMbid": "58a2c45a-f6ac-4417-aa3d-e1574e9746b2",
   "musicbrainz": {
     "artistTags": [
       "tech trance",
@@ -30,7 +28,9 @@
     "artistGenres": [
       "tech trance",
       "trance"
-    ]
+    ],
+    "trackMbid": "01b4a124-8cb4-3bb6-a6e1-b07844d70537",
+    "artistMbid": "58a2c45a-f6ac-4417-aa3d-e1574e9746b2"
   },
   "lastfm": {
     "id": "Humate/_/3.2+(Bedrock+Ambient+mix)",

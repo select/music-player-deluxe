@@ -3,7 +3,6 @@
   "title": "Raygun",
   "artist": "Guau",
   "lastFetched": "2025-11-19T08:50:47.700Z",
-  "artistMbid": "bca07f14-7856-4a83-9ea7-43f4a3580696",
   "lastfm": {
     "id": "Guau/_/Raygun",
     "listeners": 29,
@@ -15,5 +14,8 @@
       "breaks",
       "drum n bass"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "bca07f14-7856-4a83-9ea7-43f4a3580696"
   }
 }

@@ -12,8 +12,6 @@
     "youtube": "NldRsec-m3g",
     "youtubeMusic": "NldRsec-m3g"
   },
-  "mbid": "2dcec7b5-8b51-3109-9003-140e6fc62b88",
-  "artistMbid": "fe659d71-d824-4e79-a616-73d0328c7178",
   "musicbrainz": {
     "artistTags": [
       "ambient dub",
@@ -26,7 +24,9 @@
       "downtempo",
       "electronica",
       "psytrance"
-    ]
+    ],
+    "trackMbid": "2dcec7b5-8b51-3109-9003-140e6fc62b88",
+    "artistMbid": "fe659d71-d824-4e79-a616-73d0328c7178"
   },
   "lastfm": {
     "id": "Saafi+Brothers/_/Into+States+Of+Consciousness",

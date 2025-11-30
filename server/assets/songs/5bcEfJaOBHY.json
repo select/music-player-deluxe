@@ -4,7 +4,6 @@
   "duration": 253,
   "youtubeId": "5bcEfJaOBHY",
   "lastFetched": "2025-11-19T01:37:59.132Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0761Y7QLG",
     "amazonStore": "B0761Y7QLG",
@@ -23,7 +22,6 @@
     "youtubeMusic": "5bcEfJaOBHY"
   },
   "name": "ChooCoo Riddim",
-  "artistMbid": "580296ea-c46d-487a-a3c2-cbbdfb141fd0",
   "lastfm": {
     "id": "Gualtiero/_/ChooCoo+Riddim",
     "listeners": 281,
@@ -31,5 +29,9 @@
     "tags": [
       "mexico"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "580296ea-c46d-487a-a3c2-cbbdfb141fd0",
+    "releaseCount": 1
   }
 }

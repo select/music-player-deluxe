@@ -17,8 +17,6 @@
     "youtube": "Epj84QVw2rc",
     "youtubeMusic": "Epj84QVw2rc"
   },
-  "mbid": "7a777d0e-2639-47f5-bfcb-347a669a9396",
-  "artistMbid": "1a1cd7f3-e5df-4eca-bae2-2757c9e656b5",
   "musicbrainz": {
     "tags": [
       "new wave",
@@ -26,7 +24,9 @@
       "pop",
       "90s",
       "rock"
-    ]
+    ],
+    "trackMbid": "7a777d0e-2639-47f5-bfcb-347a669a9396",
+    "artistMbid": "1a1cd7f3-e5df-4eca-bae2-2757c9e656b5"
   },
   "lastfm": {
     "id": "Duran+Duran/_/Come+Undone",

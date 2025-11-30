@@ -3,7 +3,6 @@
   "title": "Wishing on a Star",
   "artist": "JAY-Z",
   "lastFetched": "2025-11-19T11:41:03.268Z",
-  "mbid": "1bf0a424-fab7-4df6-8e34-92dd60b20f25",
   "lastfm": {
     "id": "JAY-Z/_/Wishing+on+a+Star",
     "listeners": 11460,
@@ -13,5 +12,8 @@
       "hip-hop",
       "rap"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1bf0a424-fab7-4df6-8e34-92dd60b20f25"
   }
 }

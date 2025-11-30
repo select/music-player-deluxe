@@ -12,15 +12,15 @@
     "youtube": "qy3-UeeOdNM",
     "youtubeMusic": "qy3-UeeOdNM"
   },
-  "mbid": "09c8ba3b-e6e0-31f1-b89e-9faef9663582",
-  "artistMbid": "4c211f1b-1647-4b56-8009-d18286a0e4b2",
   "musicbrainz": {
     "artistTags": [
       "soul jazz"
     ],
     "artistGenres": [
       "soul jazz"
-    ]
+    ],
+    "trackMbid": "09c8ba3b-e6e0-31f1-b89e-9faef9663582",
+    "artistMbid": "4c211f1b-1647-4b56-8009-d18286a0e4b2"
   },
   "lastfm": {
     "id": "Gene+Russell/_/Get+Down",

@@ -17,8 +17,6 @@
     "youtube": "UsHCcNPT3L4",
     "youtubeMusic": "UsHCcNPT3L4"
   },
-  "mbid": "89a23a2d-45d1-4006-9ba2-32a5774d4483",
-  "artistMbid": "1a120ec5-35b3-4f3e-aa49-7201550d9feb",
   "musicbrainz": {
     "artistTags": [
       "acid jazz",
@@ -37,7 +35,9 @@
       "hip hop",
       "indietronica",
       "instrumental hip hop"
-    ]
+    ],
+    "trackMbid": "89a23a2d-45d1-4006-9ba2-32a5774d4483",
+    "artistMbid": "1a120ec5-35b3-4f3e-aa49-7201550d9feb"
   },
   "lastfm": {
     "id": "RJD2/_/Peloton+Don+(Instrumental)",

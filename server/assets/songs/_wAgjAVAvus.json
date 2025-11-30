@@ -1,9 +1,6 @@
 {
-  "mbid": "04245b05-aafc-4152-976b-a3fc4164e60b",
   "title": "11Schnull feat. Newinfluenzer - Ich und meine Ubahn (Krampf Remix)",
   "artist": "11Schnull",
-  "artistMbid": "2739409c-1b34-4640-9693-214c9e7dcadc",
-  "releaseCount": 1,
   "duration": 293,
   "youtubeId": "_wAgjAVAvus",
   "lastFetched": "2025-11-16T20:52:15.503Z",
@@ -17,5 +14,10 @@
   "ai": {
     "title": "Ich und meine Ubahn (Krampf Remix)",
     "artist": "11Schnull feat. Newinfluenzer"
+  },
+  "musicbrainz": {
+    "trackMbid": "04245b05-aafc-4152-976b-a3fc4164e60b",
+    "artistMbid": "2739409c-1b34-4640-9693-214c9e7dcadc",
+    "releaseCount": 1
   }
 }

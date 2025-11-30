@@ -16,7 +16,6 @@
     "youtube": "NuYDKzky4z0",
     "youtubeMusic": "NuYDKzky4z0"
   },
-  "artistMbid": "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
   "musicbrainz": {
     "tags": [
       "7soul",
@@ -24,7 +23,8 @@
       "funk",
       "70s",
       "rhythm and blues"
-    ]
+    ],
+    "artistMbid": "fd1a2d9d-9bb6-44de-83a3-41560658aba9"
   },
   "lastfm": {
     "id": "Bill+Withers/_/Use+Me",

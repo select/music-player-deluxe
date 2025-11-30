@@ -3,8 +3,6 @@
   "title": "Sanson Ki Mala Pe",
   "artist": "Nusrat Fateh Ali Khan",
   "lastFetched": "2025-11-23T16:43:54.691Z",
-  "mbid": "0fce275b-6461-48bc-829c-8e64a7784237",
-  "artistMbid": "5968383c-11c1-4c5b-ada0-504a38cec8e7",
   "musicbrainz": {
     "artistTags": [
       "ascetic",
@@ -22,7 +20,9 @@
       "classical",
       "ghazal",
       "qawwali"
-    ]
+    ],
+    "trackMbid": "0fce275b-6461-48bc-829c-8e64a7784237",
+    "artistMbid": "5968383c-11c1-4c5b-ada0-504a38cec8e7"
   },
   "lastfm": {
     "id": "Nusrat+Fateh+Ali+Khan/_/Sanson+Ki+Mala+Pe",

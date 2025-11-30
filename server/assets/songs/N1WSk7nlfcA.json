@@ -1,9 +1,6 @@
 {
-  "mbid": "9d2d6363-3627-42c2-ba13-57956fe7e311",
   "title": "Ageh Bemooni",
   "artist": "Googoosh",
-  "artistMbid": "0d9b88f3-054a-4f53-b447-2f3f503c8290",
-  "releaseCount": 2,
   "duration": 285,
   "youtubeId": "N1WSk7nlfcA",
   "lastFetched": "2025-11-23T16:36:38.102Z",
@@ -22,7 +19,10 @@
     "artistGenres": [
       "persian pop",
       "pop"
-    ]
+    ],
+    "trackMbid": "9d2d6363-3627-42c2-ba13-57956fe7e311",
+    "artistMbid": "0d9b88f3-054a-4f53-b447-2f3f503c8290",
+    "releaseCount": 2
   },
   "lastfm": {
     "id": "Googoosh/_/Ageh+Bemooni",

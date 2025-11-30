@@ -11,7 +11,6 @@
     "youtube": "qJGsweUO5dg",
     "youtubeMusic": "qJGsweUO5dg"
   },
-  "artistMbid": "225db1a2-c227-4067-9b92-27a9c607dbf8",
   "lastfm": {
     "id": "The+Kings+of+Dubrock/_/Alle+M%C3%A4nner",
     "listeners": 421,
@@ -23,5 +22,8 @@
       "indietronica",
       "singer-songwriter"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "225db1a2-c227-4067-9b92-27a9c607dbf8"
   }
 }

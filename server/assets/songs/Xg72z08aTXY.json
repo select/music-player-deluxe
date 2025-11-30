@@ -19,8 +19,6 @@
     "youtube": "Xg72z08aTXY",
     "youtubeMusic": "Xg72z08aTXY"
   },
-  "mbid": "00469a82-abc5-4367-bde1-a59a4d30bcaf",
-  "artistMbid": "3862342a-43c4-4cdb-8250-bfdbfb5e1419",
   "musicbrainz": {
     "tags": [
       "rock",
@@ -28,7 +26,9 @@
       "cover",
       "alternative",
       "funky"
-    ]
+    ],
+    "trackMbid": "00469a82-abc5-4367-bde1-a59a4d30bcaf",
+    "artistMbid": "3862342a-43c4-4cdb-8250-bfdbfb5e1419"
   },
   "lastfm": {
     "id": "M%C3%A5neskin/_/Beggin%27",

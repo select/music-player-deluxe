@@ -3,7 +3,6 @@
   "title": "The Ghetto",
   "artist": "Donny Hathaway",
   "lastFetched": "2025-11-19T10:33:48.363Z",
-  "artistMbid": "3f6ae36d-ffdb-40cf-98e6-8023cb1c41c9",
   "lastfm": {
     "id": "Donny+Hathaway/_/The+Ghetto",
     "listeners": 185823,
@@ -15,5 +14,8 @@
       "70s",
       "groove"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "3f6ae36d-ffdb-40cf-98e6-8023cb1c41c9"
   }
 }

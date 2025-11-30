@@ -1,9 +1,6 @@
 {
-  "mbid": "2dcbc457-1d90-493a-8d02-4420db419453",
   "title": "Go Your Own Way",
   "artist": "Fleetwood Mac",
-  "artistMbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
-  "releaseCount": 4,
   "duration": 436,
   "youtubeId": "6ul-cZyuYq4",
   "lastFetched": "2025-11-23T16:29:11.273Z",
@@ -38,7 +35,10 @@
       "blues rock",
       "british blues",
       "classic rock"
-    ]
+    ],
+    "trackMbid": "2dcbc457-1d90-493a-8d02-4420db419453",
+    "artistMbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+    "releaseCount": 4
   },
   "lastfm": {
     "id": "Fleetwood+Mac/_/Go+Your+Own+Way",

@@ -1,11 +1,9 @@
 {
-  "mbid": "9ea7fe2f-b9f2-4ac5-ad6a-d96dcf7921e3",
   "title": "#3",
   "artist": "Aphex Twin",
   "duration": 330,
   "youtubeId": "75O11W5EZAU",
   "lastFetched": "2025-11-19T03:11:14.732Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0D5NBVC15",
     "amazonStore": "B0D5NBVC15",
@@ -23,7 +21,6 @@
     "youtube": "75O11W5EZAU",
     "youtubeMusic": "75O11W5EZAU"
   },
-  "artistMbid": "f22942a1-6f70-4f48-866e-238cb2308fbd",
   "musicbrainz": {
     "tags": [
       "ambient",
@@ -50,7 +47,10 @@
       "instrumental",
       "progressive techno",
       "techno"
-    ]
+    ],
+    "trackMbid": "9ea7fe2f-b9f2-4ac5-ad6a-d96dcf7921e3",
+    "artistMbid": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Aphex+Twin/_/%233",

@@ -1,11 +1,9 @@
 {
-  "mbid": "9c2fa007-2ede-4a88-9068-2f91606178cc",
   "title": "Jewel",
   "artist": "The Circling Sun",
   "duration": 447,
   "youtubeId": "vogYl8g_6KU",
   "lastFetched": "2025-11-23T15:40:53.515Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0BYTFKV2G",
     "amazonStore": "B0BYTFKV2G",
@@ -15,9 +13,13 @@
     "youtube": "vogYl8g_6KU",
     "youtubeMusic": "vogYl8g_6KU"
   },
-  "artistMbid": "36f4c4ae-ecd8-4be1-b810-dba5114a577e",
   "ai": {
     "title": "The Circling Sun",
     "artist": "Jewel"
+  },
+  "musicbrainz": {
+    "trackMbid": "9c2fa007-2ede-4a88-9068-2f91606178cc",
+    "artistMbid": "36f4c4ae-ecd8-4be1-b810-dba5114a577e",
+    "releaseCount": 1
   }
 }

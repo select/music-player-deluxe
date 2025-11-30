@@ -1,9 +1,6 @@
 {
-  "mbid": "076a5294-a1d7-387e-a5e1-906bec0f864d",
   "title": "Don't You Know",
   "artist": "Jan Hammer Group",
-  "artistMbid": "074ad168-8c8b-44df-8388-110bbea45a2b",
-  "releaseCount": 6,
   "duration": 180,
   "youtubeId": "veF8UBTI0f8",
   "lastFetched": "2025-11-19T01:39:43.172Z",
@@ -26,7 +23,10 @@
       "jazz",
       "jazz rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "076a5294-a1d7-387e-a5e1-906bec0f864d",
+    "artistMbid": "074ad168-8c8b-44df-8388-110bbea45a2b",
+    "releaseCount": 6
   },
   "lastfm": {
     "id": "Jan+Hammer+Group/_/Don%27t+You+Know",

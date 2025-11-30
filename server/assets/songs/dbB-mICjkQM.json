@@ -22,8 +22,6 @@
     "youtube": "dbB-mICjkQM",
     "youtubeMusic": "dbB-mICjkQM"
   },
-  "mbid": "825fafcf-d791-4e66-bdea-fd8289e60a85",
-  "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
   "musicbrainz": {
     "tags": [
       "alternative rock",
@@ -31,7 +29,9 @@
       "alternative",
       "Muse",
       "british"
-    ]
+    ],
+    "trackMbid": "825fafcf-d791-4e66-bdea-fd8289e60a85",
+    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090"
   },
   "lastfm": {
     "id": "Muse/_/Plug+In+Baby",

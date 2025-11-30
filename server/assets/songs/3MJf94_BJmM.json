@@ -12,8 +12,6 @@
     "youtube": "3MJf94_BJmM",
     "youtubeMusic": "3MJf94_BJmM"
   },
-  "mbid": "753d0b92-561e-48b2-9041-b9741e416575",
-  "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
   "musicbrainz": {
     "artistTags": [
       "aggro berlin",
@@ -28,7 +26,9 @@
       "hardcore hip hop",
       "hip hop",
       "pop rap"
-    ]
+    ],
+    "trackMbid": "753d0b92-561e-48b2-9041-b9741e416575",
+    "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd"
   },
   "lastfm": {
     "id": "Sido/_/Arbeit",

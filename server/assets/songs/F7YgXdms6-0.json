@@ -21,8 +21,6 @@
     "youtube": "F7YgXdms6-0",
     "youtubeMusic": "F7YgXdms6-0"
   },
-  "mbid": "76f6bf4c-6475-47db-80e4-d62dccf6856b",
-  "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a",
   "musicbrainz": {
     "artistTags": [
       "blues rock",
@@ -42,7 +40,9 @@
       "pop rock",
       "pub rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "76f6bf4c-6475-47db-80e4-d62dccf6856b",
+    "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a"
   },
   "lastfm": {
     "id": "Dire+Straits/_/Southbound+Again",

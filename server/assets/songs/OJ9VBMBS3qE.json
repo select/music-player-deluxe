@@ -15,8 +15,6 @@
     "youtube": "OJ9VBMBS3qE",
     "youtubeMusic": "OJ9VBMBS3qE"
   },
-  "mbid": "7140101e-94ab-472c-a494-6918a952f385",
-  "artistMbid": "527c65d1-9fdb-4482-8796-dde2980bd63a",
   "musicbrainz": {
     "artistTags": [
       "00s",
@@ -36,7 +34,9 @@
       "electronic",
       "hip hop",
       "pop"
-    ]
+    ],
+    "trackMbid": "7140101e-94ab-472c-a494-6918a952f385",
+    "artistMbid": "527c65d1-9fdb-4482-8796-dde2980bd63a"
   },
   "lastfm": {
     "id": "Neneh+Cherry/_/Manchild",

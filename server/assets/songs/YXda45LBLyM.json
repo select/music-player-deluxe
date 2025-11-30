@@ -1,11 +1,9 @@
 {
-  "mbid": "e9ecbb49-2ca7-46af-832a-f9cb36209bba",
   "title": "Tebi Majko Misli Lete",
   "artist": "Branko Mataja",
   "duration": 160,
   "youtubeId": "YXda45LBLyM",
   "lastFetched": "2025-11-23T16:42:08.856Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B09N9WKRZV",
     "amazonStore": "B09N9WKRZV",
@@ -24,12 +22,14 @@
     "youtube": "YXda45LBLyM",
     "youtubeMusic": "YXda45LBLyM"
   },
-  "artistMbid": "2a7824e3-7363-499d-bcfd-33c60a5d1889",
   "musicbrainz": {
     "artistTags": [
       "balkan music",
       "slavic folk music"
-    ]
+    ],
+    "trackMbid": "e9ecbb49-2ca7-46af-832a-f9cb36209bba",
+    "artistMbid": "2a7824e3-7363-499d-bcfd-33c60a5d1889",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Branko+Mataja/_/Tebi+Majko+Misli+Lete",

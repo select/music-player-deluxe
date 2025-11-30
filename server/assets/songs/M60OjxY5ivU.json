@@ -17,7 +17,6 @@
     "youtube": "M60OjxY5ivU",
     "youtubeMusic": "M60OjxY5ivU"
   },
-  "artistMbid": "5a8a96e5-01f7-48d2-bc08-d046ac486799",
   "lastfm": {
     "id": "Shaban/_/Flotten+von+Mutanten",
     "listeners": 2138,
@@ -28,5 +27,8 @@
       "hip-hop",
       "hip hop"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "5a8a96e5-01f7-48d2-bc08-d046ac486799"
   }
 }

@@ -12,7 +12,6 @@
     "youtube": "LdkfOXZ-nFQ",
     "youtubeMusic": "LdkfOXZ-nFQ"
   },
-  "artistMbid": "7df129b4-0b43-4e91-8f60-e8907a9f6e70",
   "lastfm": {
     "id": "Die+Kassierer/_/Du+hast+geguckt+(Remastered)",
     "listeners": 302,
@@ -24,5 +23,8 @@
       "german",
       "best"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "7df129b4-0b43-4e91-8f60-e8907a9f6e70"
   }
 }

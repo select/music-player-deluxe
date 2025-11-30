@@ -3,8 +3,6 @@
   "title": "Master of Puppets",
   "artist": "Metallica",
   "lastFetched": "2025-11-19T08:51:17.949Z",
-  "mbid": "18b6c497-d451-4d80-9042-4e2a6d493707",
-  "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
   "musicbrainz": {
     "tags": [
       "thrash metal",
@@ -12,7 +10,9 @@
       "heavy metal",
       "metallica",
       "rock"
-    ]
+    ],
+    "trackMbid": "18b6c497-d451-4d80-9042-4e2a6d493707",
+    "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
   },
   "lastfm": {
     "id": "Metallica/_/Master+of+Puppets",

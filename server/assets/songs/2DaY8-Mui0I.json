@@ -15,7 +15,6 @@
     "youtube": "2DaY8-Mui0I",
     "youtubeMusic": "2DaY8-Mui0I"
   },
-  "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
   "lastfm": {
     "id": "Queen/_/The+Miracle+(Remastered+2011)",
     "listeners": 3677,
@@ -27,5 +26,8 @@
       "glam rock",
       "80s"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3"
   }
 }

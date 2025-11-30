@@ -1,9 +1,6 @@
 {
-  "mbid": "5e839db7-3207-4fe0-9de0-a48b26a24178",
   "title": "New Earth Time",
   "artist": "Soulwax",
-  "artistMbid": "68ec1b08-3c2e-40b3-b0af-8f323743fdff",
-  "releaseCount": 6,
   "duration": 246,
   "youtubeId": "TRph0woZ_Vk",
   "lastFetched": "2025-11-19T04:02:09.664Z",
@@ -31,7 +28,10 @@
       "indie rock",
       "new rave",
       "rock"
-    ]
+    ],
+    "trackMbid": "5e839db7-3207-4fe0-9de0-a48b26a24178",
+    "artistMbid": "68ec1b08-3c2e-40b3-b0af-8f323743fdff",
+    "releaseCount": 6
   },
   "lastfm": {
     "id": "Soulwax/_/New+Earth+Time",

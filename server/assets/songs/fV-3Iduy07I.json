@@ -19,10 +19,12 @@
     "youtube": "fV-3Iduy07I",
     "youtubeMusic": "fV-3Iduy07I"
   },
-  "artistMbid": "a3f45f1d-0958-445c-b263-33305c7dd537",
   "lastfm": {
     "id": "sUb_modU/_/All+Around",
     "listeners": 155,
     "playcount": 310
+  },
+  "musicbrainz": {
+    "artistMbid": "a3f45f1d-0958-445c-b263-33305c7dd537"
   }
 }

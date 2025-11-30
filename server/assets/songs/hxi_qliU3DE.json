@@ -1,8 +1,6 @@
 {
   "title": "Consolacao",
   "artist": "Rosinha de Valença",
-  "artistMbid": "ed6192aa-3abb-4c0b-849e-24eae2ec60ea",
-  "releaseCount": 2,
   "duration": 371,
   "youtubeId": "hxi_qliU3DE",
   "lastFetched": "2025-11-19T01:38:37.430Z",
@@ -18,5 +16,9 @@
       "60s",
       "rj"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "ed6192aa-3abb-4c0b-849e-24eae2ec60ea",
+    "releaseCount": 2
   }
 }

@@ -1,10 +1,7 @@
 {
-  "mbid": "f061ee98-f82b-43a2-b8e1-ffa3db605f26",
   "title": "Dub Be Good To Me",
   "artist": "Beats International",
-  "artistMbid": "65fe9ece-5a3f-442d-8d6d-34f58b1dce23",
   "album": "90 Club Hits From the 90’s",
-  "releaseCount": 2,
   "duration": 191,
   "youtubeId": "LCzgsZi_zfg",
   "lastFetched": "2025-11-19T03:41:17.504Z",
@@ -14,7 +11,10 @@
       "classic pop and rock",
       "english",
       "uk"
-    ]
+    ],
+    "trackMbid": "f061ee98-f82b-43a2-b8e1-ffa3db605f26",
+    "artistMbid": "65fe9ece-5a3f-442d-8d6d-34f58b1dce23",
+    "releaseCount": 2
   },
   "lastfm": {
     "id": "Beats+International/_/Dub+Be+Good+To+Me",

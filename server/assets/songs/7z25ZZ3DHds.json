@@ -21,8 +21,6 @@
     "youtube": "7z25ZZ3DHds",
     "youtubeMusic": "7z25ZZ3DHds"
   },
-  "mbid": "bffbd139-34bb-42dc-a646-e36300cb091b",
-  "artistMbid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b",
   "musicbrainz": {
     "artistTags": [
       "brostep",
@@ -42,7 +40,9 @@
       "drumstep",
       "dubstep",
       "edm"
-    ]
+    ],
+    "trackMbid": "bffbd139-34bb-42dc-a646-e36300cb091b",
+    "artistMbid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b"
   },
   "lastfm": {
     "id": "Skrillex/_/Rumble",

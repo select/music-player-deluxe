@@ -2,7 +2,7 @@
   "youtubeId": "hGxy-euq_KI",
   "title": "Vorbei",
   "artist": "The Screenshots",
-  "lastFetched": "2025-11-30T17:43:22.810Z",
+  "lastFetched": "2025-11-30T19:22:10.675Z",
   "odesli": {
     "amazonMusic": "B0C3487Z47",
     "amazonStore": "B0C3487Z47",
@@ -24,6 +24,14 @@
       "rock",
       "indie",
       "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "13abd90e-b913-4add-814c-7b897c901b36",
+    "artistMbid": "0b5d058d-7dd3-480a-804c-15ffefa50638",
+    "releaseCount": 3,
+    "artistGenres": [
+      "punk rock"
     ]
   }
 }

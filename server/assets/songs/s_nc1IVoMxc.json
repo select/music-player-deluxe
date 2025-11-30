@@ -20,8 +20,6 @@
     "youtube": "s_nc1IVoMxc",
     "youtubeMusic": "s_nc1IVoMxc"
   },
-  "mbid": "07ad5d8e-675e-4eff-beae-b0cd8cbbcb1a",
-  "artistMbid": "fdeeac94-2d89-4bb2-a6f3-9e72dc142b68",
   "lastfm": {
     "id": "Ren/_/Hi+Ren",
     "listeners": 71948,
@@ -33,5 +31,9 @@
       "hi ren",
       "my top songs mix"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "07ad5d8e-675e-4eff-beae-b0cd8cbbcb1a",
+    "artistMbid": "fdeeac94-2d89-4bb2-a6f3-9e72dc142b68"
   }
 }

@@ -20,8 +20,6 @@
     "youtube": "7OwfUQtIGjQ",
     "youtubeMusic": "7OwfUQtIGjQ"
   },
-  "mbid": "12c666fb-8dee-3274-a367-62d424a8fdaa",
-  "artistMbid": "22a40b75-affc-4e69-8884-266d087e4751",
   "musicbrainz": {
     "artistTags": [
       "alternative",
@@ -41,7 +39,9 @@
       "indie pop",
       "indie rock",
       "jangle pop"
-    ]
+    ],
+    "trackMbid": "12c666fb-8dee-3274-a367-62d424a8fdaa",
+    "artistMbid": "22a40b75-affc-4e69-8884-266d087e4751"
   },
   "lastfm": {
     "id": "Travis/_/Battleships",

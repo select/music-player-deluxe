@@ -1,12 +1,10 @@
 {
-  "mbid": "ce16d63b-6330-4735-a3ef-4c780c5bd46a",
   "title": "LUV?",
   "artist": "Aitch",
   "album": "LUV?",
   "duration": 157,
   "youtubeId": "rCyKvi_SFBM",
   "lastFetched": "2025-11-19T04:29:05.214Z",
-  "artistMbid": "57dd4661-9f78-4442-8836-482fab983008",
   "odesli": {
     "amazonMusic": "B0F393MY88",
     "amazonStore": "B0F393MY88",
@@ -25,7 +23,9 @@
       "hip hop",
       "trap",
       "uk drill"
-    ]
+    ],
+    "trackMbid": "ce16d63b-6330-4735-a3ef-4c780c5bd46a",
+    "artistMbid": "57dd4661-9f78-4442-8836-482fab983008"
   },
   "lastfm": {
     "id": "Aitch/_/LUV%3F",

@@ -2,7 +2,7 @@
   "youtubeId": "PbBFFCmrtRw",
   "title": "Paper Love",
   "artist": "Allie X",
-  "lastFetched": "2025-11-30T17:44:06.025Z",
+  "lastFetched": "2025-11-30T19:29:20.494Z",
   "odesli": {
     "amazonMusic": "B0716BS5HZ",
     "amazonStore": "B0716BS5HZ",
@@ -24,5 +24,22 @@
     "artist": "Allie X",
     "mbid": "cf5c2299-dfe8-4521-8575-bdb728371b71",
     "artistMbid": "7c922f2c-9d2b-4f37-a139-cddb83722ab3"
+  },
+  "musicbrainz": {
+    "trackMbid": "cf5c2299-dfe8-4521-8575-bdb728371b71",
+    "artistMbid": "7c922f2c-9d2b-4f37-a139-cddb83722ab3",
+    "releaseCount": 6,
+    "genres": [
+      "alternative pop",
+      "electropop",
+      "pop"
+    ],
+    "artistGenres": [
+      "electronica",
+      "electropop",
+      "indie pop",
+      "pop",
+      "synth-pop"
+    ]
   }
 }

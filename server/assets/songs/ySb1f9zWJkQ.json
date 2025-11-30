@@ -2,7 +2,6 @@
   "title": "Cold as Ice",
   "artist": "Foreigner",
   "album": "Rock 3",
-  "releaseCount": 3,
   "duration": 290,
   "youtubeId": "ySb1f9zWJkQ",
   "lastFetched": "2025-11-19T01:37:44.796Z",
@@ -20,13 +19,14 @@
     "youtubeMusic": "ySb1f9zWJkQ"
   },
   "name": "Cold as Ice",
-  "artistMbid": "160629ab-ec18-4931-8c95-02cb92d06186",
   "musicbrainz": {
     "tags": [
       "classic rock",
       "hard rock",
       "rock"
-    ]
+    ],
+    "artistMbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+    "releaseCount": 3
   },
   "lastfm": {
     "id": "Foreigner/_/Cold+as+Ice",

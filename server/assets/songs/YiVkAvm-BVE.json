@@ -12,8 +12,6 @@
     "youtube": "YiVkAvm-BVE",
     "youtubeMusic": "YiVkAvm-BVE"
   },
-  "mbid": "c55fe050-a332-43d1-8879-8a57081ab5e4",
-  "artistMbid": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6",
   "musicbrainz": {
     "artistTags": [
       "alternative metal",
@@ -28,7 +26,9 @@
       "metal",
       "pop rock",
       "post-grunge"
-    ]
+    ],
+    "trackMbid": "c55fe050-a332-43d1-8879-8a57081ab5e4",
+    "artistMbid": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6"
   },
   "lastfm": {
     "id": "Shinedown/_/Atlas+Falls",

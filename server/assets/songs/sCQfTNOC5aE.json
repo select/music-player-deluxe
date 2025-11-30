@@ -18,8 +18,6 @@
     "youtube": "sCQfTNOC5aE",
     "youtubeMusic": "sCQfTNOC5aE"
   },
-  "mbid": "72feb5a5-35d4-496c-94d7-56f34e732f23",
-  "artistMbid": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f",
   "musicbrainz": {
     "tags": [
       "jazz",
@@ -27,7 +25,9 @@
       "instrumental",
       "Big Band",
       "Swing Jazz"
-    ]
+    ],
+    "trackMbid": "72feb5a5-35d4-496c-94d7-56f34e732f23",
+    "artistMbid": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f"
   },
   "lastfm": {
     "id": "Duke+Ellington/_/In+A+Sentimental+Mood",

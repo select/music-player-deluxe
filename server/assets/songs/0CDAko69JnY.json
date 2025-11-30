@@ -13,15 +13,15 @@
     "youtube": "0CDAko69JnY",
     "youtubeMusic": "0CDAko69JnY"
   },
-  "mbid": "630d218b-5846-3548-9331-b0e3cea9aa90",
-  "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3",
   "musicbrainz": {
     "artistTags": [
       "hip hop"
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "trackMbid": "630d218b-5846-3548-9331-b0e3cea9aa90",
+    "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3"
   },
   "lastfm": {
     "id": "Tapete/_/Der+Wille+lenkt+die+Tat",

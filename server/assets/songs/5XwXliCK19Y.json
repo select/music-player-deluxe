@@ -14,8 +14,6 @@
     "youtube": "5XwXliCK19Y",
     "youtubeMusic": "5XwXliCK19Y"
   },
-  "mbid": "51abf293-b43e-4049-9e6c-ef3f56d4b7b3",
-  "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
   "musicbrainz": {
     "artistTags": [
       "1960s",
@@ -35,7 +33,9 @@
       "merseybeat",
       "pop",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "51abf293-b43e-4049-9e6c-ef3f56d4b7b3",
+    "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
   },
   "lastfm": {
     "id": "The+Beatles/_/I%27m+Only+Sleeping",

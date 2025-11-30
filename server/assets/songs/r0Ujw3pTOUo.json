@@ -14,7 +14,6 @@
     "youtube": "r0Ujw3pTOUo",
     "youtubeMusic": "r0Ujw3pTOUo"
   },
-  "artistMbid": "fb5cb466-ac65-4de9-8403-990f790bc125",
   "lastfm": {
     "id": "Mixmaster+Doc/_/Personally+Frankly",
     "listeners": 42,
@@ -23,5 +22,8 @@
       "drum and bass",
       "liquidfunk"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "fb5cb466-ac65-4de9-8403-990f790bc125"
   }
 }

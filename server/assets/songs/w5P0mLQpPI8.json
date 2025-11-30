@@ -3,7 +3,6 @@
   "title": "Rote Riesen schlafen nicht",
   "artist": "Girlwoman",
   "lastFetched": "2025-11-19T06:54:07.995Z",
-  "artistMbid": "db5feca4-7086-4d86-a96c-5cb72dec68b5",
   "lastfm": {
     "id": "Girlwoman/_/Rote+Riesen+schlafen+nicht",
     "listeners": 5408,
@@ -13,5 +12,8 @@
       "germany",
       "deutsch"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "db5feca4-7086-4d86-a96c-5cb72dec68b5"
   }
 }

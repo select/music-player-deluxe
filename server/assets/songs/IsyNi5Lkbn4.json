@@ -15,8 +15,6 @@
     "youtube": "IsyNi5Lkbn4",
     "youtubeMusic": "IsyNi5Lkbn4"
   },
-  "mbid": "4f8325f5-227d-402b-ae37-3325fc7f6b19",
-  "artistMbid": "ce41dd47-f5bd-46a8-9155-a1c20e3e8f7e",
   "musicbrainz": {
     "artistTags": [
       "adventure rock",
@@ -26,7 +24,9 @@
     "artistGenres": [
       "progressive rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "4f8325f5-227d-402b-ae37-3325fc7f6b19",
+    "artistMbid": "ce41dd47-f5bd-46a8-9155-a1c20e3e8f7e"
   },
   "lastfm": {
     "id": "Bear+Ghost/_/Dotab",

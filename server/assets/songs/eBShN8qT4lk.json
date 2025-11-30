@@ -17,8 +17,6 @@
     "youtube": "eBShN8qT4lk",
     "youtubeMusic": "eBShN8qT4lk"
   },
-  "mbid": "6746aa53-9cc5-4452-842b-6632c3722b3b",
-  "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
   "musicbrainz": {
     "artistTags": [
       "alternative hip hop",
@@ -38,7 +36,9 @@
       "east coast hip hop",
       "experimental hip hop",
       "funk"
-    ]
+    ],
+    "trackMbid": "6746aa53-9cc5-4452-842b-6632c3722b3b",
+    "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53"
   },
   "lastfm": {
     "id": "Beastie+Boys/_/Fight+for+Your+Right",

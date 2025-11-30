@@ -1,12 +1,9 @@
 {
-  "mbid": "fe3ad0a0-bf4a-4ea2-b595-b7c3efb666e8",
   "title": "Der Tanz Aller",
   "artist": "Felix Kubin",
   "duration": 200,
   "youtubeId": "49JD1xOLH6E",
   "lastFetched": "2025-11-19T03:49:26.162Z",
-  "releaseCount": 1,
-  "artistMbid": "299d57a7-690d-4225-b341-0b8eeca007e1",
   "odesli": {
     "amazonMusic": "B0F8MRPGP6",
     "amazonStore": "B0F8MRPGP6",
@@ -18,7 +15,10 @@
   "musicbrainz": {
     "artistTags": [
       "sci-fi"
-    ]
+    ],
+    "trackMbid": "fe3ad0a0-bf4a-4ea2-b595-b7c3efb666e8",
+    "artistMbid": "299d57a7-690d-4225-b341-0b8eeca007e1",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Felix+Kubin/_/Der+Tanz+Aller",

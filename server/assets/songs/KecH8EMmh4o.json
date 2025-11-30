@@ -17,7 +17,6 @@
     "youtube": "KecH8EMmh4o",
     "youtubeMusic": "KecH8EMmh4o"
   },
-  "artistMbid": "a4c76310-0996-44f7-afb9-33d24861fc21",
   "lastfm": {
     "id": "Lynch+Kingsley/_/Jigoku",
     "listeners": 30,
@@ -29,5 +28,8 @@
       "idm",
       "bass"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "a4c76310-0996-44f7-afb9-33d24861fc21"
   }
 }

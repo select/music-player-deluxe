@@ -15,15 +15,15 @@
     "youtube": "StV9lElcvAY",
     "youtubeMusic": "StV9lElcvAY"
   },
-  "mbid": "023ae207-b559-4efc-ab80-e40549fa79dd",
-  "artistMbid": "381e8434-109a-439c-8acc-5d328359f2e0",
   "musicbrainz": {
     "artistTags": [
       "neo-psychedelia"
     ],
     "artistGenres": [
       "neo-psychedelia"
-    ]
+    ],
+    "trackMbid": "023ae207-b559-4efc-ab80-e40549fa79dd",
+    "artistMbid": "381e8434-109a-439c-8acc-5d328359f2e0"
   },
   "lastfm": {
     "id": "The+Brian+Jonestown+Massacre/_/Anemone",

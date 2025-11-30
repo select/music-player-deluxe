@@ -15,8 +15,6 @@
     "youtube": "Z8NiouNEivo",
     "youtubeMusic": "Z8NiouNEivo"
   },
-  "mbid": "aaf402a3-ec26-4a55-9be2-f72a604bb156",
-  "artistMbid": "3862342a-43c4-4cdb-8250-bfdbfb5e1419",
   "musicbrainz": {
     "tags": [
       "rock",
@@ -24,7 +22,9 @@
       "alternative",
       "alternative rock",
       "italian"
-    ]
+    ],
+    "trackMbid": "aaf402a3-ec26-4a55-9be2-f72a604bb156",
+    "artistMbid": "3862342a-43c4-4cdb-8250-bfdbfb5e1419"
   },
   "lastfm": {
     "id": "M%C3%A5neskin/_/BABY+SAID",

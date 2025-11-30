@@ -1,9 +1,6 @@
 {
-  "mbid": "e1ea4495-3721-4289-808a-4d6bada30314",
   "title": "Nonsense song (Titine)",
   "artist": "Charlie Chaplin",
-  "artistMbid": "043eefc9-9d94-4d06-b6f3-93252fa52154",
-  "releaseCount": 1,
   "youtubeId": "Zqd1ar5_7qw",
   "lastFetched": "2025-11-19T04:50:57.306Z",
   "lastfm": {
@@ -17,5 +14,10 @@
       "dancehall",
       "charles chaplin"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e1ea4495-3721-4289-808a-4d6bada30314",
+    "artistMbid": "043eefc9-9d94-4d06-b6f3-93252fa52154",
+    "releaseCount": 1
   }
 }

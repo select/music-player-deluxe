@@ -1,11 +1,9 @@
 {
-  "mbid": "c4cd60cd-e2aa-45e9-99b0-f975ca0917c1",
   "title": "Jedwab",
   "artist": "Róże Europy",
   "duration": 368,
   "youtubeId": "G_Lsdk88AYM",
   "lastFetched": "2025-11-19T03:29:04.925Z",
-  "releaseCount": 1,
   "odesli": {
     "appleMusic": "1469027984",
     "itunes": "1469027984",
@@ -16,7 +14,6 @@
     "youtube": "G_Lsdk88AYM",
     "youtubeMusic": "G_Lsdk88AYM"
   },
-  "artistMbid": "96a679d5-d703-46e1-ad80-a8a53547afff",
   "lastfm": {
     "id": "R%C3%B3%C5%BCe+Europy/_/Jedwab",
     "listeners": 25497,
@@ -26,5 +23,10 @@
       "polish",
       "polski rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c4cd60cd-e2aa-45e9-99b0-f975ca0917c1",
+    "artistMbid": "96a679d5-d703-46e1-ad80-a8a53547afff",
+    "releaseCount": 1
   }
 }

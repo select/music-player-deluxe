@@ -19,7 +19,6 @@
     "youtube": "nqxVMLVe62U",
     "youtubeMusic": "nqxVMLVe62U"
   },
-  "artistMbid": "f9e15241-7391-4cab-b702-c4f8c0464def",
   "musicbrainz": {
     "tags": [
       "Disco",
@@ -27,7 +26,8 @@
       "funk",
       "soul",
       "dance"
-    ]
+    ],
+    "artistMbid": "f9e15241-7391-4cab-b702-c4f8c0464def"
   },
   "lastfm": {
     "id": "The+Jacksons/_/Blame+It+on+the+Boogie",

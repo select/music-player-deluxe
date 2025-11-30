@@ -21,7 +21,6 @@
     "youtube": "1e5_6VZWZlQ",
     "youtubeMusic": "1e5_6VZWZlQ"
   },
-  "artistMbid": "fea9402e-51e6-49e3-b11a-f8cefd845fc4",
   "lastfm": {
     "id": "Marino+Marini/_/Guaglione",
     "listeners": 16955,
@@ -32,5 +31,8 @@
       "good mood",
       "italiana"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "fea9402e-51e6-49e3-b11a-f8cefd845fc4"
   }
 }

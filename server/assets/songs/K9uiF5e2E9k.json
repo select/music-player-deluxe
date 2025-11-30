@@ -16,8 +16,6 @@
     "youtube": "K9uiF5e2E9k",
     "youtubeMusic": "K9uiF5e2E9k"
   },
-  "mbid": "c6775545-5beb-3157-9529-0f0fc39b364e",
-  "artistMbid": "d89de379-665d-425c-b2e9-41b95d1edb36",
   "musicbrainz": {
     "artistTags": [
       "alternative hardcore",
@@ -37,7 +35,9 @@
       "hard rock",
       "melodic hardcore",
       "metalcore"
-    ]
+    ],
+    "trackMbid": "c6775545-5beb-3157-9529-0f0fc39b364e",
+    "artistMbid": "d89de379-665d-425c-b2e9-41b95d1edb36"
   },
   "lastfm": {
     "id": "Silverstein/_/My+Heroine",

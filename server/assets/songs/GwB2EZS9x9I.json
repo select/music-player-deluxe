@@ -14,8 +14,6 @@
     "youtube": "GwB2EZS9x9I",
     "youtubeMusic": "GwB2EZS9x9I"
   },
-  "mbid": "f0022b89-5fe9-4d15-80d8-9ec7e2b79b17",
-  "artistMbid": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7",
   "musicbrainz": {
     "artistTags": [
       "classic rock",
@@ -32,7 +30,9 @@
       "hard rock",
       "proto-punk",
       "punk"
-    ]
+    ],
+    "trackMbid": "f0022b89-5fe9-4d15-80d8-9ec7e2b79b17",
+    "artistMbid": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7"
   },
   "lastfm": {
     "id": "Iggy+Pop/_/Frenzy",

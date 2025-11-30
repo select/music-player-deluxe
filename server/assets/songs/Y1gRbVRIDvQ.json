@@ -1,9 +1,6 @@
 {
-  "mbid": "016fd6ff-3c55-4707-afa3-41c6d378d18b",
   "title": "Look At Us",
   "artist": "Archive",
-  "artistMbid": "bd513de0-e42f-425e-ae46-817d7bc5fb1c",
-  "releaseCount": 2,
   "duration": 337,
   "youtubeId": "Y1gRbVRIDvQ",
   "lastFetched": "2025-11-19T04:42:19.329Z",
@@ -35,7 +32,10 @@
       "trip rock",
       "trip-hop",
       "uk"
-    ]
+    ],
+    "trackMbid": "016fd6ff-3c55-4707-afa3-41c6d378d18b",
+    "artistMbid": "bd513de0-e42f-425e-ae46-817d7bc5fb1c",
+    "releaseCount": 2
   },
   "lastfm": {
     "id": "Archive/_/Look+At+Us",

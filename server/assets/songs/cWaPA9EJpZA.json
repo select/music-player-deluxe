@@ -3,7 +3,6 @@
   "title": "Lebenslauf",
   "artist": "Grossstadtgeflüster",
   "lastFetched": "2025-11-19T11:10:28.833Z",
-  "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f",
   "lastfm": {
     "id": "Grossstadtgefl%C3%BCster/_/Lebenslauf",
     "listeners": 4408,
@@ -15,5 +14,8 @@
       "german",
       "female vocalists"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f"
   }
 }

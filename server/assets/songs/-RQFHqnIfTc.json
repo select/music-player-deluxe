@@ -3,8 +3,6 @@
   "title": "Schmetterling",
   "artist": "Team Scheisse",
   "lastFetched": "2025-11-23T16:25:05.594Z",
-  "mbid": "0333d0c7-42d0-4027-9bae-d18b644e03ed",
-  "artistMbid": "b9e85d24-37d9-4e22-a495-ef9a1dc0b894",
   "musicbrainz": {
     "artistTags": [
       "punk",
@@ -13,7 +11,9 @@
     "artistGenres": [
       "punk",
       "punk rock"
-    ]
+    ],
+    "trackMbid": "0333d0c7-42d0-4027-9bae-d18b644e03ed",
+    "artistMbid": "b9e85d24-37d9-4e22-a495-ef9a1dc0b894"
   },
   "lastfm": {
     "id": "Team+Scheisse/_/Schmetterling",

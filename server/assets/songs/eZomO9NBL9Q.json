@@ -16,7 +16,6 @@
     "youtube": "eZomO9NBL9Q",
     "youtubeMusic": "eZomO9NBL9Q"
   },
-  "mbid": "37f2a65e-5baf-49c0-b4f8-89ca85fa6b54",
   "lastfm": {
     "id": "HEMAI/_/Relight",
     "listeners": 1192,
@@ -26,5 +25,8 @@
       "london",
       "uk"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "37f2a65e-5baf-49c0-b4f8-89ca85fa6b54"
   }
 }

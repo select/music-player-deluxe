@@ -12,8 +12,6 @@
     "youtube": "d6esNDtbcAE",
     "youtubeMusic": "d6esNDtbcAE"
   },
-  "mbid": "eca09ba5-757d-4edf-b504-2872db33fbaa",
-  "artistMbid": "5cfd01c7-f308-4aa6-a489-36a43aeee525",
   "musicbrainz": {
     "artistTags": [
       "dubstep",
@@ -23,7 +21,9 @@
     "artistGenres": [
       "dubstep",
       "electronic"
-    ]
+    ],
+    "trackMbid": "eca09ba5-757d-4edf-b504-2872db33fbaa",
+    "artistMbid": "5cfd01c7-f308-4aa6-a489-36a43aeee525"
   },
   "lastfm": {
     "id": "Kai+Wachi/_/GIGACHAD",

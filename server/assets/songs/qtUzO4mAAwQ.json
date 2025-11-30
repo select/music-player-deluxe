@@ -3,8 +3,6 @@
   "title": "I Think of You",
   "artist": "Alma Deutscher",
   "lastFetched": "2025-11-19T09:05:01.845Z",
-  "mbid": "857a7455-6849-4e23-9db3-8a31b2b4dd18",
-  "artistMbid": "908f2643-951c-4ac5-a2fe-6183741acbd2",
   "lastfm": {
     "id": "Alma+Deutscher/_/I+Think+of+You",
     "listeners": 3851,
@@ -16,5 +14,9 @@
       "classical waltz",
       "child prodigy"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "857a7455-6849-4e23-9db3-8a31b2b4dd18",
+    "artistMbid": "908f2643-951c-4ac5-a2fe-6183741acbd2"
   }
 }

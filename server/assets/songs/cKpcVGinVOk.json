@@ -1,16 +1,16 @@
 {
-  "mbid": "58145393-87ec-49ac-b532-d652dc516f5a",
   "title": "Love Me",
   "artist": "Nicolas Cage",
-  "artistMbid": "f6b92af8-75ab-4f42-83a0-6adf49b34b40",
-  "releaseCount": 5,
   "duration": 177,
   "youtubeId": "cKpcVGinVOk",
   "lastFetched": "2025-11-19T03:59:04.524Z",
   "musicbrainz": {
     "artistTags": [
       "american"
-    ]
+    ],
+    "trackMbid": "58145393-87ec-49ac-b532-d652dc516f5a",
+    "artistMbid": "f6b92af8-75ab-4f42-83a0-6adf49b34b40",
+    "releaseCount": 5
   },
   "lastfm": {
     "id": "Nicolas+Cage/_/Love+Me",

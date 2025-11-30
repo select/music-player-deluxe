@@ -3,15 +3,15 @@
   "title": "Start a Fire",
   "artist": "The Tiger Lillies",
   "lastFetched": "2025-11-23T16:41:37.812Z",
-  "mbid": "5664c442-29c6-3031-b6b1-8afde55ef3de",
-  "artistMbid": "3ad4f6ec-253f-4050-8849-ca26266edfb8",
   "musicbrainz": {
     "artistTags": [
       "dark cabaret"
     ],
     "artistGenres": [
       "dark cabaret"
-    ]
+    ],
+    "trackMbid": "5664c442-29c6-3031-b6b1-8afde55ef3de",
+    "artistMbid": "3ad4f6ec-253f-4050-8849-ca26266edfb8"
   },
   "lastfm": {
     "id": "The+Tiger+Lillies/_/Start+a+Fire",

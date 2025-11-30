@@ -16,7 +16,6 @@
     "youtube": "AO-muqbKqxQ",
     "youtubeMusic": "AO-muqbKqxQ"
   },
-  "artistMbid": "9e57b3ae-f5e3-4d78-8999-ceba456fd424",
   "lastfm": {
     "id": "Frenk+Dublin/_/Demons+Rhythm+(Hajee+remix)",
     "listeners": 30,
@@ -25,5 +24,8 @@
       "dubstep",
       "dub"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "9e57b3ae-f5e3-4d78-8999-ceba456fd424"
   }
 }

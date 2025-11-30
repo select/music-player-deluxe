@@ -11,7 +11,6 @@
     "youtube": "9t5r0edb0GY",
     "youtubeMusic": "9t5r0edb0GY"
   },
-  "artistMbid": "44bc4b22-c06a-42ac-9493-c48079831572",
   "lastfm": {
     "id": "Sam+Akpro/_/Disposition",
     "listeners": 2305,
@@ -23,5 +22,8 @@
       "alternative",
       "rnb"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "44bc4b22-c06a-42ac-9493-c48079831572"
   }
 }

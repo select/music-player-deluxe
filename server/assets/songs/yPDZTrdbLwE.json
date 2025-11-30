@@ -3,8 +3,6 @@
   "title": "Main Title",
   "artist": "Richard Thompson",
   "lastFetched": "2025-11-23T16:54:14.284Z",
-  "mbid": "3e24eccd-d15b-392e-81e3-4f45c39982e8",
-  "artistMbid": "ecfeacaf-0399-470f-8207-d1c646569fd0",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -22,7 +20,9 @@
       "folk",
       "folk rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "3e24eccd-d15b-392e-81e3-4f45c39982e8",
+    "artistMbid": "ecfeacaf-0399-470f-8207-d1c646569fd0"
   },
   "lastfm": {
     "id": "Richard+Thompson/_/Main+Title",

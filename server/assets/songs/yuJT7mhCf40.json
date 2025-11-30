@@ -3,8 +3,6 @@
   "title": "Wurstfachverkäuferin",
   "artist": "Helge Schneider",
   "lastFetched": "2025-11-23T16:54:38.637Z",
-  "mbid": "7ba5687e-f478-430a-af3a-b949a84307fc",
-  "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
   "musicbrainz": {
     "artistTags": [
       "comedy",
@@ -20,7 +18,9 @@
       "jazz",
       "kabarett",
       "spoken word"
-    ]
+    ],
+    "trackMbid": "7ba5687e-f478-430a-af3a-b949a84307fc",
+    "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9"
   },
   "lastfm": {
     "id": "Helge+Schneider/_/Wurstfachverk%C3%A4uferin",

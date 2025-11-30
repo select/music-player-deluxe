@@ -1,11 +1,9 @@
 {
-  "mbid": "1b680a55-25a4-4514-be24-87f5a1517ec5",
   "title": "QUE CE SOIT CLAIR",
   "artist": "Paul Kalkbrenner",
   "duration": 176,
   "youtubeId": "YQM7DKi11ho",
   "lastFetched": "2025-11-23T16:42:03.839Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0FH2XPS1G",
     "amazonStore": "B0FH2XPS1G",
@@ -21,7 +19,6 @@
     "youtube": "YQM7DKi11ho",
     "youtubeMusic": "YQM7DKi11ho"
   },
-  "artistMbid": "a5f92d47-b562-4582-b267-71963a515f4c",
   "musicbrainz": {
     "artistTags": [
       "downbeat",
@@ -34,7 +31,10 @@
       "electronica",
       "minimal techno",
       "techno"
-    ]
+    ],
+    "trackMbid": "1b680a55-25a4-4514-be24-87f5a1517ec5",
+    "artistMbid": "a5f92d47-b562-4582-b267-71963a515f4c",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Paul+Kalkbrenner/_/QUE+CE+SOIT+CLAIR",

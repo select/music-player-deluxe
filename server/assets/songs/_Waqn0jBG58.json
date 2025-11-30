@@ -14,8 +14,6 @@
     "youtube": "_Waqn0jBG58",
     "youtubeMusic": "_Waqn0jBG58"
   },
-  "mbid": "090f9558-3ad8-33bf-b210-30cc081c3b97",
-  "artistMbid": "ec22a32b-acab-432e-a88c-ffe6ae68fa16",
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
@@ -32,7 +30,9 @@
       "edm",
       "electro house",
       "electronic"
-    ]
+    ],
+    "trackMbid": "090f9558-3ad8-33bf-b210-30cc081c3b97",
+    "artistMbid": "ec22a32b-acab-432e-a88c-ffe6ae68fa16"
   },
   "lastfm": {
     "id": "Noisia/_/Machine+Gun+(16bit+Remix)",

@@ -14,7 +14,6 @@
     "youtube": "71qoLvXcUsU",
     "youtubeMusic": "71qoLvXcUsU"
   },
-  "artistMbid": "cc416d17-54de-4fdb-9fc9-db59cdaf079f",
   "lastfm": {
     "id": "Lutan+Fyah/_/Criminal",
     "listeners": 1313,
@@ -25,5 +24,8 @@
       "ragga",
       "rasta"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "cc416d17-54de-4fdb-9fc9-db59cdaf079f"
   }
 }

@@ -15,7 +15,6 @@
     "youtube": "eZFe-jkpJTs",
     "youtubeMusic": "eZFe-jkpJTs"
   },
-  "mbid": "52cb8f4e-1756-4f0b-ab86-1f6e77397e99",
   "lastfm": {
     "id": "Nolan+Strong+&+The+Diablos/_/My+Heart+Will+Always+Belong+To+You",
     "listeners": 327,
@@ -24,5 +23,8 @@
       "doo wop",
       "oldies"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "52cb8f4e-1756-4f0b-ab86-1f6e77397e99"
   }
 }

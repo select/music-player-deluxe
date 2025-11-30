@@ -13,15 +13,15 @@
     "youtube": "A_JtkSmw808",
     "youtubeMusic": "A_JtkSmw808"
   },
-  "mbid": "47f3a65b-38e8-315f-9eaf-c707d35adeda",
-  "artistMbid": "63034f55-692a-4f3b-a19a-ac2072eac3bb",
   "musicbrainz": {
     "artistTags": [
       "hip hop"
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "trackMbid": "47f3a65b-38e8-315f-9eaf-c707d35adeda",
+    "artistMbid": "63034f55-692a-4f3b-a19a-ac2072eac3bb"
   },
   "lastfm": {
     "id": "Black+Sheep/_/Strobelite+Honey",

@@ -19,8 +19,6 @@
     "youtube": "ApScvH2sgyE",
     "youtubeMusic": "ApScvH2sgyE"
   },
-  "mbid": "bbeb0814-d0ff-4122-9efb-6eb8d0b7f6b7",
-  "artistMbid": "36e371e9-e76b-4b66-b813-e1d1af6d7128",
   "musicbrainz": {
     "tags": [
       "alternative metal",
@@ -59,7 +57,9 @@
       "nu metal",
       "rap rock",
       "rapcore"
-    ]
+    ],
+    "trackMbid": "bbeb0814-d0ff-4122-9efb-6eb8d0b7f6b7",
+    "artistMbid": "36e371e9-e76b-4b66-b813-e1d1af6d7128"
   },
   "lastfm": {
     "id": "Skindred/_/Nobody",

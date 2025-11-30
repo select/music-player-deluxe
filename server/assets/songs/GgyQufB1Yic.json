@@ -23,8 +23,6 @@
     "youtube": "GgyQufB1Yic",
     "youtubeMusic": "GgyQufB1Yic"
   },
-  "mbid": "c4fec371-36fe-4d06-88d2-3adbcfb1de9c",
-  "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
   "musicbrainz": {
     "tags": [
       "alternative metal",
@@ -54,7 +52,9 @@
       "alternative rock",
       "art rock",
       "neo-progressive rock"
-    ]
+    ],
+    "trackMbid": "c4fec371-36fe-4d06-88d2-3adbcfb1de9c",
+    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090"
   },
   "lastfm": {
     "id": "Muse/_/Kill+Or+Be+Killed",

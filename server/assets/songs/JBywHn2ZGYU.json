@@ -1,9 +1,6 @@
 {
-  "mbid": "46d1ed11-14cf-4e83-85aa-519f326edc88",
   "title": "The Bird Wave",
   "artist": "Jimmy McGriff",
-  "artistMbid": "58f23499-f263-4772-9b7a-2f6cd2fe428f",
-  "releaseCount": 4,
   "duration": 245,
   "youtubeId": "JBywHn2ZGYU",
   "lastFetched": "2025-11-19T05:32:08.043Z",
@@ -30,7 +27,10 @@
       "jazz",
       "jazz-funk",
       "soul jazz"
-    ]
+    ],
+    "trackMbid": "46d1ed11-14cf-4e83-85aa-519f326edc88",
+    "artistMbid": "58f23499-f263-4772-9b7a-2f6cd2fe428f",
+    "releaseCount": 4
   },
   "lastfm": {
     "id": "Jimmy+McGriff/_/The+Bird+Wave",

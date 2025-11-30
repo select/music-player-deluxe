@@ -17,8 +17,6 @@
     "youtube": "1k8craCGpgs",
     "youtubeMusic": "1k8craCGpgs"
   },
-  "mbid": "84488228-2c2c-4a50-89d0-528e45a57120",
-  "artistMbid": "abd506e1-6f2b-4d6f-b937-92c267f6f88b",
   "musicbrainz": {
     "tags": [
       "classic rock",
@@ -26,7 +24,9 @@
       "rock",
       "journey",
       "scrubs"
-    ]
+    ],
+    "trackMbid": "84488228-2c2c-4a50-89d0-528e45a57120",
+    "artistMbid": "abd506e1-6f2b-4d6f-b937-92c267f6f88b"
   },
   "lastfm": {
     "id": "Journey/_/Don%27t+Stop+Believin%27",

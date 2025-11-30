@@ -3,8 +3,6 @@
   "title": "Video Games",
   "artist": "Tenacious D",
   "lastFetched": "2025-11-23T16:33:49.434Z",
-  "mbid": "06b6919a-768b-4eef-9f71-601f05945c41",
-  "artistMbid": "148ddea2-6839-4354-8e2c-5dfadf136b7f",
   "musicbrainz": {
     "artistTags": [
       "acoustic rock",
@@ -20,7 +18,9 @@
       "comedy",
       "comedy rock",
       "hard rock"
-    ]
+    ],
+    "trackMbid": "06b6919a-768b-4eef-9f71-601f05945c41",
+    "artistMbid": "148ddea2-6839-4354-8e2c-5dfadf136b7f"
   },
   "lastfm": {
     "id": "Tenacious+D/_/Video+Games",

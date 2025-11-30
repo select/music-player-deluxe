@@ -16,7 +16,6 @@
     "youtube": "LbtRELG5BwM",
     "youtubeMusic": "LbtRELG5BwM"
   },
-  "artistMbid": "16a848b4-732d-4fcd-bcb6-f85114004da0",
   "lastfm": {
     "id": "Dub+Spencer+&+Trance+Hill/_/Trance+Plane",
     "listeners": 1390,
@@ -26,5 +25,8 @@
       "chillout",
       "swiss"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "16a848b4-732d-4fcd-bcb6-f85114004da0"
   }
 }

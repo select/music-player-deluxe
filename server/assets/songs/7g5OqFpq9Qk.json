@@ -13,7 +13,6 @@
     "youtube": "7g5OqFpq9Qk",
     "youtubeMusic": "7g5OqFpq9Qk"
   },
-  "artistMbid": "6f027cd7-c2e8-4569-8922-aa2c9a503e65",
   "lastfm": {
     "id": "Stephan+Bodzin/_/puck",
     "listeners": 903,
@@ -25,5 +24,8 @@
       "electronic",
       "tech house"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "6f027cd7-c2e8-4569-8922-aa2c9a503e65"
   }
 }

@@ -3,8 +3,6 @@
   "title": "Dirty Old Town",
   "artist": "The Pogues",
   "lastFetched": "2025-11-23T16:51:33.169Z",
-  "mbid": "af06a6ed-2271-4df2-983a-4dc89dda618c",
-  "artistMbid": "d41a6875-b626-4c0f-89a1-aecb643d29ff",
   "musicbrainz": {
     "tags": [
       "celtic",
@@ -37,7 +35,9 @@
       "folk",
       "folk pop",
       "folk punk"
-    ]
+    ],
+    "trackMbid": "af06a6ed-2271-4df2-983a-4dc89dda618c",
+    "artistMbid": "d41a6875-b626-4c0f-89a1-aecb643d29ff"
   },
   "lastfm": {
     "id": "The+Pogues/_/Dirty+Old+Town",

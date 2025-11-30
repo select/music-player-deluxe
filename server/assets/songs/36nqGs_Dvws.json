@@ -17,8 +17,6 @@
     "youtube": "36nqGs_Dvws",
     "youtubeMusic": "36nqGs_Dvws"
   },
-  "mbid": "5b171ca9-a708-4b56-bda4-6b930b51f9f1",
-  "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
   "musicbrainz": {
     "artistTags": [
       "art rock",
@@ -38,7 +36,9 @@
       "glam rock",
       "hard rock",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "5b171ca9-a708-4b56-bda4-6b930b51f9f1",
+    "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3"
   },
   "lastfm": {
     "id": "Queen/_/Seaside+Rendezvous",

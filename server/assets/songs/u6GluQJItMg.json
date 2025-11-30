@@ -21,8 +21,6 @@
     "youtube": "u6GluQJItMg",
     "youtubeMusic": "u6GluQJItMg"
   },
-  "mbid": "204f5e23-b735-3f5e-950c-39d2c2c9798c",
-  "artistMbid": "1339fab0-3ad8-4b8e-afac-7b7ae34509c7",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -33,7 +31,9 @@
       "alternative rock",
       "christian rock",
       "nu metal"
-    ]
+    ],
+    "trackMbid": "204f5e23-b735-3f5e-950c-39d2c2c9798c",
+    "artistMbid": "1339fab0-3ad8-4b8e-afac-7b7ae34509c7"
   },
   "lastfm": {
     "id": "Thousand+Foot+Krutch/_/Set+It+Off",

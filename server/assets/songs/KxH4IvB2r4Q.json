@@ -1,13 +1,10 @@
 {
-  "mbid": "079a5ea6-1e49-4d80-85b3-60bf4adc0441",
   "title": "Omen",
   "artist": "The Prodigy",
   "duration": 253,
   "youtubeId": "KxH4IvB2r4Q",
   "lastFetched": "2025-11-19T01:38:03.626Z",
-  "releaseCount": 1,
   "name": "Omen",
-  "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
   "musicbrainz": {
     "artistTags": [
       "big beat",
@@ -22,7 +19,10 @@
       "rave",
       "techno",
       "uk"
-    ]
+    ],
+    "trackMbid": "079a5ea6-1e49-4d80-85b3-60bf4adc0441",
+    "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "The+Prodigy/_/Omen",

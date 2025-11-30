@@ -3,7 +3,6 @@
   "title": "Doo Wop",
   "artist": "Anna Butterss",
   "lastFetched": "2025-11-19T14:41:20.151Z",
-  "artistMbid": "022b8522-a7cc-4755-a99f-225107415a45",
   "lastfm": {
     "id": "Anna+Butterss/_/Doo+Wop",
     "listeners": 7318,
@@ -11,5 +10,8 @@
     "tags": [
       "jazz fusion"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "022b8522-a7cc-4755-a99f-225107415a45"
   }
 }

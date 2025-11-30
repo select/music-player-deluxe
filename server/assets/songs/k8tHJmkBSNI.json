@@ -14,8 +14,6 @@
     "youtube": "k8tHJmkBSNI",
     "youtubeMusic": "k8tHJmkBSNI"
   },
-  "mbid": "3e91eac8-8a7a-44e7-bc66-08cc97b20490",
-  "artistMbid": "76a2eaff-b6ad-483a-a427-d3a2aa3c4f8f",
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
@@ -30,7 +28,9 @@
       "electronic",
       "neurofunk",
       "techstep"
-    ]
+    ],
+    "trackMbid": "3e91eac8-8a7a-44e7-bc66-08cc97b20490",
+    "artistMbid": "76a2eaff-b6ad-483a-a427-d3a2aa3c4f8f"
   },
   "lastfm": {
     "id": "Black+Sun+Empire/_/Breach+(The+Upbeats+Remix)",

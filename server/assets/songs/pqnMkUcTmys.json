@@ -2,7 +2,7 @@
   "youtubeId": "pqnMkUcTmys",
   "title": "Í Tokuni",
   "artist": "Eivør",
-  "lastFetched": "2025-11-30T17:43:36.635Z",
+  "lastFetched": "2025-11-30T19:25:23.044Z",
   "odesli": {
     "amazonMusic": "B016NDUWTQ",
     "amazonStore": "B016NDUWTQ",
@@ -32,6 +32,14 @@
       "electronic",
       "nordic",
       "ethnic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e93d03d6-4638-4dd5-976a-c4b3ceef2196",
+    "artistMbid": "cdcc26ed-818f-4c95-b177-b56ac1410f8f",
+    "releaseCount": 2,
+    "artistGenres": [
+      "singer-songwriter"
     ]
   }
 }

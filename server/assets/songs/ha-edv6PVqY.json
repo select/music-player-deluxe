@@ -14,8 +14,6 @@
     "youtube": "ha-edv6PVqY",
     "youtubeMusic": "ha-edv6PVqY"
   },
-  "mbid": "0c751e4b-915c-4748-a252-8035217147ff",
-  "artistMbid": "35581de7-591f-424f-9c64-7b22fd45605e",
   "musicbrainz": {
     "tags": [
       "pop"
@@ -34,7 +32,9 @@
       "indie pop",
       "pop punk",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "0c751e4b-915c-4748-a252-8035217147ff",
+    "artistMbid": "35581de7-591f-424f-9c64-7b22fd45605e"
   },
   "lastfm": {
     "id": "Sportfreunde+Stiller/_/I%27M+ALRIGHT%21",

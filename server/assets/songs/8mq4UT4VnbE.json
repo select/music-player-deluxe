@@ -9,7 +9,6 @@
     "youtube": "8mq4UT4VnbE",
     "youtubeMusic": "8mq4UT4VnbE"
   },
-  "artistMbid": "315bd083-892b-4e76-a9f0-91a7408168fc",
   "lastfm": {
     "id": "Cab+Calloway/_/Minnie+the+Moocher",
     "listeners": 175643,
@@ -22,5 +21,8 @@
       "30s",
       "big band"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "315bd083-892b-4e76-a9f0-91a7408168fc"
   }
 }

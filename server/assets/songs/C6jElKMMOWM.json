@@ -20,7 +20,6 @@
     "youtube": "C6jElKMMOWM",
     "youtubeMusic": "C6jElKMMOWM"
   },
-  "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
   "lastfm": {
     "id": "Red+Hot+Chili+Peppers/_/Suck+My+Kiss",
     "listeners": 964024,
@@ -33,5 +32,8 @@
       "funk",
       "alternative rock"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
   }
 }

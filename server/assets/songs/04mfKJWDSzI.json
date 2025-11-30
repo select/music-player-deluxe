@@ -21,8 +21,6 @@
     "youtube": "04mfKJWDSzI",
     "youtubeMusic": "04mfKJWDSzI"
   },
-  "mbid": "06f2a8ae-fab8-4830-8721-6bbe3a03a594",
-  "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
   "musicbrainz": {
     "tags": [
       "electronic",
@@ -30,7 +28,9 @@
       "pop",
       "rock",
       "beautiful"
-    ]
+    ],
+    "trackMbid": "06f2a8ae-fab8-4830-8721-6bbe3a03a594",
+    "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596"
   },
   "lastfm": {
     "id": "Gorillaz/_/On+Melancholy+Hill",

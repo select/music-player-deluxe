@@ -1,9 +1,6 @@
 {
-  "mbid": "cd81a8de-af6d-4cbd-bd55-c8cf57bcd1c8",
   "title": "Blastbeat Falafel",
   "artist": "Igorrr",
-  "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73",
-  "releaseCount": 16,
   "duration": 195,
   "youtubeId": "PYRdJo3cG2Q",
   "lastFetched": "2025-11-19T04:39:16.575Z",
@@ -25,7 +22,10 @@
     "tags": [
       "avant-garde",
       "avant-garde metal"
-    ]
+    ],
+    "trackMbid": "cd81a8de-af6d-4cbd-bd55-c8cf57bcd1c8",
+    "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73",
+    "releaseCount": 16
   },
   "lastfm": {
     "id": "Igorrr/_/Blastbeat+Falafel",

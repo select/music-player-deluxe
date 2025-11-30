@@ -17,7 +17,6 @@
     "youtube": "1ClCpfeIELw",
     "youtubeMusic": "1ClCpfeIELw"
   },
-  "artistMbid": "ae3f6a8a-c465-4707-8667-8ce0172bc417",
   "lastfm": {
     "id": "Deep+Blue+Something/_/Breakfast+at+Tiffany%27s",
     "listeners": 665545,
@@ -29,5 +28,8 @@
       "one hit wonder",
       "rock"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "ae3f6a8a-c465-4707-8667-8ce0172bc417"
   }
 }

@@ -1,12 +1,10 @@
 {
-  "mbid": "f3a142eb-8efd-4c97-8449-199656f920fc",
   "title": "Meftunum Sana",
   "artist": "Gaye Su Akyol",
   "album": "İstikrarlı Hayal Hakikattir",
   "duration": 257,
   "youtubeId": "yvje22pJz28",
   "lastFetched": "2025-11-23T16:54:41.127Z",
-  "artistMbid": "9a156579-3b0c-4cc6-82b5-b199d43410fc",
   "musicbrainz": {
     "artistTags": [
       "anatolian rock",
@@ -26,7 +24,9 @@
       "dance",
       "disco",
       "electronica"
-    ]
+    ],
+    "trackMbid": "f3a142eb-8efd-4c97-8449-199656f920fc",
+    "artistMbid": "9a156579-3b0c-4cc6-82b5-b199d43410fc"
   },
   "lastfm": {
     "id": "Gaye+Su+Akyol/_/Meftunum+Sana",

@@ -12,8 +12,6 @@
     "youtube": "6MF6trC529M",
     "youtubeMusic": "6MF6trC529M"
   },
-  "mbid": "cf2e723f-fbc7-4566-be93-1368286f136a",
-  "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
   "musicbrainz": {
     "tags": [
       "alternative rock",
@@ -44,7 +42,9 @@
       "hard rock",
       "post-grunge",
       "rock"
-    ]
+    ],
+    "trackMbid": "cf2e723f-fbc7-4566-be93-1368286f136a",
+    "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d"
   },
   "lastfm": {
     "id": "Foo+Fighters/_/The+Teacher",

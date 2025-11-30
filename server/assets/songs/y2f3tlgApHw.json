@@ -1,11 +1,9 @@
 {
-  "mbid": "f882f9f8-19e5-4a6d-96af-06ad553f36e1",
   "title": "Comin' Back to Me",
   "artist": "Jefferson Airplane",
   "duration": 322,
   "youtubeId": "y2f3tlgApHw",
   "lastFetched": "2025-11-23T16:53:54.918Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B009WJ1W4S",
     "amazonStore": "B009WJ1W4S",
@@ -18,7 +16,6 @@
     "youtube": "y2f3tlgApHw",
     "youtubeMusic": "y2f3tlgApHw"
   },
-  "artistMbid": "39c2a93d-9afa-4a22-9bba-c087ab056e1c",
   "musicbrainz": {
     "artistTags": [
       "acid rock",
@@ -38,7 +35,10 @@
       "garage rock",
       "pop rock",
       "psychedelic"
-    ]
+    ],
+    "trackMbid": "f882f9f8-19e5-4a6d-96af-06ad553f36e1",
+    "artistMbid": "39c2a93d-9afa-4a22-9bba-c087ab056e1c",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Jefferson+Airplane/_/Comin%27+Back+to+Me",

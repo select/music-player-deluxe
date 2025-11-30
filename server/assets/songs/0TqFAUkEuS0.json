@@ -3,8 +3,6 @@
   "title": "Manche Stadt",
   "artist": "Hannes Wader",
   "lastFetched": "2025-11-23T16:26:10.762Z",
-  "mbid": "14d8182c-76f5-4f46-848c-14f78290d34f",
-  "artistMbid": "f07b5d3a-b385-4244-ad6e-ea6b5ccbe1ae",
   "musicbrainz": {
     "artistTags": [
       "folk",
@@ -17,7 +15,9 @@
       "folk",
       "liedermacher",
       "singer-songwriter"
-    ]
+    ],
+    "trackMbid": "14d8182c-76f5-4f46-848c-14f78290d34f",
+    "artistMbid": "f07b5d3a-b385-4244-ad6e-ea6b5ccbe1ae"
   },
   "lastfm": {
     "id": "Hannes+Wader/_/Manche+Stadt",

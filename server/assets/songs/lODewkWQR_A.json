@@ -17,8 +17,6 @@
     "youtube": "lODewkWQR_A",
     "youtubeMusic": "lODewkWQR_A"
   },
-  "mbid": "0bb979a4-2fe9-301e-959c-187c3acd8046",
-  "artistMbid": "198360cf-8b5a-4294-9402-9e5d40e71872",
   "lastfm": {
     "id": "Der+Zyklus/_/Mathematische+Modelle",
     "listeners": 4107,
@@ -29,5 +27,9 @@
       "techno",
       "electronic chill"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0bb979a4-2fe9-301e-959c-187c3acd8046",
+    "artistMbid": "198360cf-8b5a-4294-9402-9e5d40e71872"
   }
 }

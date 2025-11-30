@@ -1,12 +1,9 @@
 {
-  "mbid": "104a2e68-be76-4dcf-8bf0-64ebb2a687a8",
   "title": "Nightcall",
   "artist": "Kavinsky",
   "duration": 256,
   "youtubeId": "MV_3Dpw-BRY",
   "lastFetched": "2025-11-19T03:41:47.814Z",
-  "releaseCount": 1,
-  "artistMbid": "eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa",
   "odesli": {
     "amazonMusic": "B07F3LNRDM",
     "amazonStore": "B07F3LNRDM",
@@ -38,7 +35,10 @@
       "synth-pop",
       "synthpop",
       "synthwave"
-    ]
+    ],
+    "trackMbid": "104a2e68-be76-4dcf-8bf0-64ebb2a687a8",
+    "artistMbid": "eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Kavinsky/_/Nightcall",

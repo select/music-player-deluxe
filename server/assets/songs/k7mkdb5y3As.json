@@ -1,7 +1,7 @@
 {
   "youtubeId": "k7mkdb5y3As",
   "title": "Two Feet - Had Some Drinks",
-  "lastFetched": "2025-11-30T17:23:25.078Z",
+  "lastFetched": "2025-11-30T19:21:32.086Z",
   "ai": {
     "title": "Had Some Drinks",
     "artist": "Two Feet"
@@ -17,6 +17,16 @@
     "tags": [
       "sexy",
       "pop",
+      "trap"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "df8c011b-9ee3-4b34-b673-7385cb728152",
+    "artistMbid": "07d0e0b3-dea4-4892-bee7-eaad19d093ec",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock",
+      "electronic",
       "trap"
     ]
   }

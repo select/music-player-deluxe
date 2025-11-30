@@ -1,11 +1,9 @@
 {
-  "mbid": "13aaaccb-7974-49bd-846c-1ec6bc53ef46",
   "title": "Melt!",
   "artist": "Kelly Lee Owens",
   "duration": 214,
   "youtubeId": "4kW0vbVEIXE",
   "lastFetched": "2025-11-23T16:28:02.996Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B084LH6TC7",
     "amazonStore": "B084LH6TC7",
@@ -16,7 +14,6 @@
     "youtube": "4kW0vbVEIXE",
     "youtubeMusic": "4kW0vbVEIXE"
   },
-  "artistMbid": "9d88eaab-f90a-4fbe-b84f-20da5518cd26",
   "musicbrainz": {
     "artistTags": [
       "dance",
@@ -35,7 +32,10 @@
       "electronic",
       "pop",
       "tech house"
-    ]
+    ],
+    "trackMbid": "13aaaccb-7974-49bd-846c-1ec6bc53ef46",
+    "artistMbid": "9d88eaab-f90a-4fbe-b84f-20da5518cd26",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Kelly+Lee+Owens/_/Melt%21",

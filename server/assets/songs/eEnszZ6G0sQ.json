@@ -3,7 +3,6 @@
   "title": "The Pusher",
   "artist": "John Kay & Steppenwolf",
   "lastFetched": "2025-11-19T15:56:40.567Z",
-  "mbid": "1e45ac94-06d2-3ca9-9637-db3ca4c8bf1e",
   "lastfm": {
     "id": "John+Kay+&+Steppenwolf/_/The+Pusher",
     "listeners": 134,
@@ -14,5 +13,8 @@
       "90s",
       "blues-rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1e45ac94-06d2-3ca9-9637-db3ca4c8bf1e"
   }
 }

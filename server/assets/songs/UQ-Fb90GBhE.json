@@ -21,8 +21,6 @@
     "youtube": "UQ-Fb90GBhE",
     "youtubeMusic": "UQ-Fb90GBhE"
   },
-  "mbid": "7da997ad-1e42-49ce-b580-ee2ee64d8e2b",
-  "artistMbid": "39a31de6-763d-48b6-a45c-f7cfad58ffd8",
   "musicbrainz": {
     "artistTags": [
       "heavy metal",
@@ -39,7 +37,9 @@
       "pop metal",
       "power metal",
       "speed metal"
-    ]
+    ],
+    "trackMbid": "7da997ad-1e42-49ce-b580-ee2ee64d8e2b",
+    "artistMbid": "39a31de6-763d-48b6-a45c-f7cfad58ffd8"
   },
   "lastfm": {
     "id": "Sabaton/_/Primo+Victoria",

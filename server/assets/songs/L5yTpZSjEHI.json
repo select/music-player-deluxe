@@ -1,9 +1,6 @@
 {
-  "mbid": "5be62b0b-6ee4-47e3-92cf-9655a89f2f3d",
   "title": "Autoscooter",
   "artist": "Elektro Willi und Sohn",
-  "artistMbid": "663cdea5-6584-4695-b358-9514bb029b32",
-  "releaseCount": 1,
   "duration": 366,
   "youtubeId": "L5yTpZSjEHI",
   "lastFetched": "2025-11-19T05:34:39.750Z",
@@ -18,5 +15,10 @@
       "butt-kickin",
       "berlin 200"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5be62b0b-6ee4-47e3-92cf-9655a89f2f3d",
+    "artistMbid": "663cdea5-6584-4695-b358-9514bb029b32",
+    "releaseCount": 1
   }
 }

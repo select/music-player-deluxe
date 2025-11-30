@@ -10,7 +10,6 @@
     "youtube": "429A_VugWW0",
     "youtubeMusic": "429A_VugWW0"
   },
-  "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
   "lastfm": {
     "id": "Linkin+Park/_/Faint+-+Live",
     "listeners": 19683,
@@ -22,5 +21,8 @@
       "alternative",
       "metal"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
   }
 }

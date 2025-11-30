@@ -2,7 +2,7 @@
   "youtubeId": "xx6MIj2-ROc",
   "title": "Rebel Yell (The Crystal Method Remix)",
   "artist": "Billy Idol",
-  "lastFetched": "2025-11-30T17:43:42.369Z",
+  "lastFetched": "2025-11-30T19:26:15.573Z",
   "odesli": {
     "amazonMusic": "B0DKWJ79VG",
     "amazonStore": "B0DKWJ79VG",
@@ -32,6 +32,25 @@
       "80s",
       "punk",
       "classic rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "95b7c467-d7ac-4f10-a0b0-d5a15d3fdd43",
+    "artistMbid": "47c8f88b-987a-4b64-9175-2b1b57809727",
+    "releaseCount": 2,
+    "genres": [
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "classic rock",
+      "electronic",
+      "hard rock",
+      "new wave",
+      "pop rock",
+      "punk",
+      "punk rock",
+      "rock"
     ]
   }
 }

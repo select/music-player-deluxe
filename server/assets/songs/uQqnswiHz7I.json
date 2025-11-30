@@ -3,8 +3,6 @@
   "title": "paradise syndrome",
   "artist": "Moodphase5ive",
   "lastFetched": "2025-11-19T12:52:59.861Z",
-  "mbid": "9bc6315a-7de5-33f6-9512-8322867c22b3",
-  "artistMbid": "ee1bc890-0a04-4102-ba08-d9cb10563a78",
   "lastfm": {
     "id": "Moodphase5ive/_/paradise+syndrome",
     "listeners": 85,
@@ -16,5 +14,9 @@
       "hip hop",
       "all"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9bc6315a-7de5-33f6-9512-8322867c22b3",
+    "artistMbid": "ee1bc890-0a04-4102-ba08-d9cb10563a78"
   }
 }

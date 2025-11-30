@@ -14,12 +14,12 @@
     "youtube": "0-v4IrT7t0o",
     "youtubeMusic": "0-v4IrT7t0o"
   },
-  "mbid": "4fe9f177-8f02-43cc-bb5b-eaf7c8df0491",
-  "artistMbid": "8fbc3929-e88c-4fef-bf8c-f23223ec17d0",
   "musicbrainz": {
     "artistTags": [
       "composer"
-    ]
+    ],
+    "trackMbid": "4fe9f177-8f02-43cc-bb5b-eaf7c8df0491",
+    "artistMbid": "8fbc3929-e88c-4fef-bf8c-f23223ec17d0"
   },
   "lastfm": {
     "id": "Pawe%C5%82+%C5%81ukaszewski/_/Popule+meus",

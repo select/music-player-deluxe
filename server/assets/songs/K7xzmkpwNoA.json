@@ -20,8 +20,6 @@
     "youtube": "K7xzmkpwNoA",
     "youtubeMusic": "K7xzmkpwNoA"
   },
-  "mbid": "358c33cd-471b-4911-b188-6c1e4b6c929a",
-  "artistMbid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
   "musicbrainz": {
     "artistTags": [
       "hip hop",
@@ -32,7 +30,9 @@
     "artistGenres": [
       "hip hop",
       "pop rap"
-    ]
+    ],
+    "trackMbid": "358c33cd-471b-4911-b188-6c1e4b6c929a",
+    "artistMbid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
   },
   "lastfm": {
     "id": "Little+Simz/_/Gorilla",

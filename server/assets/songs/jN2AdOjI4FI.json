@@ -17,8 +17,6 @@
     "youtube": "jN2AdOjI4FI",
     "youtubeMusic": "jN2AdOjI4FI"
   },
-  "mbid": "e39a7f0c-4cb4-480f-8fa2-1675304324c6",
-  "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
   "musicbrainz": {
     "artistTags": [
       "contemporary r&b",
@@ -36,7 +34,9 @@
       "pop",
       "pop soul",
       "soul"
-    ]
+    ],
+    "trackMbid": "e39a7f0c-4cb4-480f-8fa2-1675304324c6",
+    "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e"
   },
   "lastfm": {
     "id": "Stevie+Wonder/_/Part-Time+Lover",

@@ -12,7 +12,6 @@
     "youtube": "9mVHHDE9ips",
     "youtubeMusic": "9mVHHDE9ips"
   },
-  "mbid": "17f55f1c-798d-433b-b534-d79fb04dd44a",
   "lastfm": {
     "id": "Fat+Freddy%27s+Drop/_/Slings+&+Arrows",
     "listeners": 16064,
@@ -23,5 +22,8 @@
       "new zealand",
       "chillout"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "17f55f1c-798d-433b-b534-d79fb04dd44a"
   }
 }

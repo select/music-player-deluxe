@@ -21,8 +21,6 @@
     "youtube": "H4lurE-IpHE",
     "youtubeMusic": "H4lurE-IpHE"
   },
-  "mbid": "81a938ef-0410-3c01-85fe-7d1b384f0225",
-  "artistMbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
   "musicbrainz": {
     "artistTags": [
       "art rock",
@@ -42,7 +40,9 @@
       "freakbeat",
       "hard rock",
       "mod"
-    ]
+    ],
+    "trackMbid": "81a938ef-0410-3c01-85fe-7d1b384f0225",
+    "artistMbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa"
   },
   "lastfm": {
     "id": "The+Who/_/1921",

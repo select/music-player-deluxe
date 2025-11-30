@@ -3,8 +3,6 @@
   "title": "La fleur",
   "artist": "M",
   "lastFetched": "2025-11-23T16:48:42.879Z",
-  "mbid": "8521a7fb-dcfc-49a6-9fee-1958c8917235",
-  "artistMbid": "4a9ee375-8d75-41f5-b315-a94293a2a07d",
   "musicbrainz": {
     "artistTags": [
       "70s",
@@ -22,7 +20,9 @@
       "electronic",
       "jazz",
       "pop"
-    ]
+    ],
+    "trackMbid": "8521a7fb-dcfc-49a6-9fee-1958c8917235",
+    "artistMbid": "4a9ee375-8d75-41f5-b315-a94293a2a07d"
   },
   "lastfm": {
     "id": "M/_/La+fleur",

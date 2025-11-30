@@ -14,8 +14,6 @@
     "youtube": "OhgoOpvMJms",
     "youtubeMusic": "OhgoOpvMJms"
   },
-  "mbid": "58ddbcf0-0df9-403e-ba82-4ddb5cf2161f",
-  "artistMbid": "2b0966d0-a671-4c11-97cf-ca629bc82e6c",
   "lastfm": {
     "id": "H31R/_/Backwards",
     "listeners": 5516,
@@ -23,5 +21,9 @@
     "tags": [
       "gilles peterson"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "58ddbcf0-0df9-403e-ba82-4ddb5cf2161f",
+    "artistMbid": "2b0966d0-a671-4c11-97cf-ca629bc82e6c"
   }
 }

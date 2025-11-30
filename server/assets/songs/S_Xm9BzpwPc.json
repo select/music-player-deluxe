@@ -13,8 +13,6 @@
     "youtube": "S_Xm9BzpwPc",
     "youtubeMusic": "S_Xm9BzpwPc"
   },
-  "mbid": "995888c5-9d00-4d34-b848-cbfe949520be",
-  "artistMbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
   "musicbrainz": {
     "artistTags": [
       "00s",
@@ -34,7 +32,9 @@
       "punk",
       "punk rock",
       "skate punk"
-    ]
+    ],
+    "trackMbid": "995888c5-9d00-4d34-b848-cbfe949520be",
+    "artistMbid": "149e6720-4e4a-41a4-afca-6d29083fc091"
   },
   "lastfm": {
     "id": "Bad+Religion/_/Punk+Rock+Song",

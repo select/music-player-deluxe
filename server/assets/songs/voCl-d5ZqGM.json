@@ -1,9 +1,28 @@
 {
   "youtubeId": "voCl-d5ZqGM",
   "title": "Supersuckers – Pretty Fucked Up",
-  "lastFetched": "2025-11-30T17:02:08.176Z",
+  "lastFetched": "2025-11-30T19:28:58.282Z",
   "ai": {
     "title": "Pretty Fucked Up",
     "artist": "Supersuckers"
+  },
+  "musicbrainz": {
+    "trackMbid": "e6f4f67b-0232-485b-8214-6c89a1ffeaf2",
+    "artistMbid": "6fa09822-bbe4-4ff8-901d-4a39a4dd82e9",
+    "releaseCount": 7,
+    "genres": [
+      "country rock",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "cowpunk",
+      "garage punk",
+      "garage rock",
+      "post-grunge",
+      "punk rock",
+      "rock and roll",
+      "southern rock"
+    ]
   }
 }

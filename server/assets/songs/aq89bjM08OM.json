@@ -10,7 +10,6 @@
     "youtube": "aq89bjM08OM",
     "youtubeMusic": "aq89bjM08OM"
   },
-  "artistMbid": "34197023-e96c-4607-aa7b-903a0ec877df",
   "lastfm": {
     "id": "Jazzbois/_/Caterpillar",
     "listeners": 4213,
@@ -20,5 +19,8 @@
       "jazz",
       "jazz fusion"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "34197023-e96c-4607-aa7b-903a0ec877df"
   }
 }

@@ -20,15 +20,15 @@
     "youtube": "cE7uMM8VZOk",
     "youtubeMusic": "cE7uMM8VZOk"
   },
-  "mbid": "b98cbb6a-cf6d-4a6c-99f4-02baafe81a85",
-  "artistMbid": "51a4b538-18cc-42aa-87b2-5865e8224af4",
   "musicbrainz": {
     "artistTags": [
       "acid jazz"
     ],
     "artistGenres": [
       "acid jazz"
-    ]
+    ],
+    "trackMbid": "b98cbb6a-cf6d-4a6c-99f4-02baafe81a85",
+    "artistMbid": "51a4b538-18cc-42aa-87b2-5865e8224af4"
   },
   "lastfm": {
     "id": "Mop+Mop/_/The+Golden+Bamboo",

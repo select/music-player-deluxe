@@ -21,8 +21,6 @@
     "youtube": "h2_rc6UuAHQ",
     "youtubeMusic": "h2_rc6UuAHQ"
   },
-  "mbid": "15971667-4f44-4916-a8a8-917f93151f41",
-  "artistMbid": "24234aaf-000f-44de-8f58-9d7964ac3e8f",
   "musicbrainz": {
     "artistTags": [
       "german",
@@ -31,7 +29,9 @@
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "trackMbid": "15971667-4f44-4916-a8a8-917f93151f41",
+    "artistMbid": "24234aaf-000f-44de-8f58-9d7964ac3e8f"
   },
   "lastfm": {
     "id": "SSIO/_/Nullkommaneun",

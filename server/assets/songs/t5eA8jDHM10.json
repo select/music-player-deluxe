@@ -3,8 +3,6 @@
   "title": "Children",
   "artist": "Robert Miles",
   "lastFetched": "2025-11-19T07:17:32.117Z",
-  "mbid": "82fb55d4-441b-435b-aeef-acb71b89ee3a",
-  "artistMbid": "e83144dd-bb95-49fe-b1dd-00bab25cca9e",
   "musicbrainz": {
     "tags": [
       "trance",
@@ -12,7 +10,9 @@
       "chillout",
       "90s",
       "dance"
-    ]
+    ],
+    "trackMbid": "82fb55d4-441b-435b-aeef-acb71b89ee3a",
+    "artistMbid": "e83144dd-bb95-49fe-b1dd-00bab25cca9e"
   },
   "lastfm": {
     "id": "Robert+Miles/_/Children",

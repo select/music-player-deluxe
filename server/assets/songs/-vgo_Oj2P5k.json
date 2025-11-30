@@ -1,5 +1,4 @@
 {
-  "mbid": "1424e87b-eefc-4808-93a3-c5d5fec571ba",
   "title": "Allen Town Jail",
   "artist": "Frivolous",
   "album": "Meteorology",
@@ -12,7 +11,6 @@
     "youtube": "-vgo_Oj2P5k",
     "youtubeMusic": "-vgo_Oj2P5k"
   },
-  "artistMbid": "dd8385e4-fdd6-485c-8e75-b69043e68950",
   "lastfm": {
     "id": "Frivolous/_/Allen+Town+Jail",
     "listeners": 11493,
@@ -24,5 +22,9 @@
       "house",
       "minimal house"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1424e87b-eefc-4808-93a3-c5d5fec571ba",
+    "artistMbid": "dd8385e4-fdd6-485c-8e75-b69043e68950"
   }
 }

@@ -20,8 +20,6 @@
     "youtube": "_91HbYkguwk",
     "youtubeMusic": "_91HbYkguwk"
   },
-  "mbid": "52b687d8-30b5-4f66-9e4a-acf0db96940a",
-  "artistMbid": "1946a82a-f927-40c2-8235-38d64f50d043",
   "musicbrainz": {
     "artistTags": [
       "big beat",
@@ -38,7 +36,9 @@
       "electronic",
       "neo-psychedelia",
       "progressive house"
-    ]
+    ],
+    "trackMbid": "52b687d8-30b5-4f66-9e4a-acf0db96940a",
+    "artistMbid": "1946a82a-f927-40c2-8235-38d64f50d043"
   },
   "lastfm": {
     "id": "The+Chemical+Brothers/_/Where+Do+I+Begin",

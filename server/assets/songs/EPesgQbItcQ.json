@@ -11,8 +11,6 @@
     "youtube": "EPesgQbItcQ",
     "youtubeMusic": "EPesgQbItcQ"
   },
-  "mbid": "65483acf-833e-4880-ba45-bf9a74353322",
-  "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
   "musicbrainz": {
     "artistTags": [
       "latin",
@@ -25,7 +23,9 @@
       "latin pop",
       "pop",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "65483acf-833e-4880-ba45-bf9a74353322",
+    "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc"
   },
   "lastfm": {
     "id": "Shakira/_/Objection+(Tango)",

@@ -14,8 +14,6 @@
     "youtube": "i3ODk2McsHU",
     "youtubeMusic": "i3ODk2McsHU"
   },
-  "mbid": "864a2466-3836-4c08-adfc-4c4672086729",
-  "artistMbid": "fe014641-ef62-4092-89cf-cc7c4dca8dd5",
   "lastfm": {
     "id": "AKNE+KID+JOE/_/What+AFD+Thinks+We+Do...",
     "listeners": 10028,
@@ -25,5 +23,9 @@
       "k1r7m",
       "die grosse palmoelluege"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "864a2466-3836-4c08-adfc-4c4672086729",
+    "artistMbid": "fe014641-ef62-4092-89cf-cc7c4dca8dd5"
   }
 }

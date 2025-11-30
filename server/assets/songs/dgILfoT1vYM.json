@@ -15,7 +15,6 @@
     "youtube": "dgILfoT1vYM",
     "youtubeMusic": "dgILfoT1vYM"
   },
-  "mbid": "1f16d394-0201-44bf-88a2-a0226ee27b7f",
   "lastfm": {
     "id": "Altyn+Tuu/_/Word+of+Baatyr",
     "listeners": 5420,
@@ -26,5 +25,8 @@
       "vocal",
       "russia"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1f16d394-0201-44bf-88a2-a0226ee27b7f"
   }
 }

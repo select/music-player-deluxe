@@ -11,15 +11,15 @@
     "youtube": "qHqF22EQc3A",
     "youtubeMusic": "qHqF22EQc3A"
   },
-  "mbid": "11ef0cfa-38fc-42aa-af1d-446503952031",
-  "artistMbid": "72f87ca0-9d09-4219-a844-fdaf1503eadd",
   "musicbrainz": {
     "artistTags": [
       "death metal"
     ],
     "artistGenres": [
       "death metal"
-    ]
+    ],
+    "trackMbid": "11ef0cfa-38fc-42aa-af1d-446503952031",
+    "artistMbid": "72f87ca0-9d09-4219-a844-fdaf1503eadd"
   },
   "lastfm": {
     "id": "Kadavar/_/Last+Living+Dinosaur",

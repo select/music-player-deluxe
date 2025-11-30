@@ -15,8 +15,6 @@
     "youtube": "LnET4RKXx5k",
     "youtubeMusic": "LnET4RKXx5k"
   },
-  "mbid": "005a9151-8e8f-4e45-935d-945dc4cf2d71",
-  "artistMbid": "06db73fd-57e2-4a6f-bcd3-699fb7bb7af4",
   "musicbrainz": {
     "artistTags": [
       "dance",
@@ -33,7 +31,9 @@
       "electro house",
       "electronic",
       "future house"
-    ]
+    ],
+    "trackMbid": "005a9151-8e8f-4e45-935d-945dc4cf2d71",
+    "artistMbid": "06db73fd-57e2-4a6f-bcd3-699fb7bb7af4"
   },
   "lastfm": {
     "id": "Martin+Solveig/_/Hello",

@@ -16,8 +16,6 @@
     "youtube": "y4gU8xlTpUk",
     "youtubeMusic": "y4gU8xlTpUk"
   },
-  "mbid": "2a08e309-5cf2-4d70-8b40-95616ee813d0",
-  "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
   "musicbrainz": {
     "artistTags": [
       "alternative metal",
@@ -33,7 +31,9 @@
       "hard rock",
       "nu metal",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "2a08e309-5cf2-4d70-8b40-95616ee813d0",
+    "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c"
   },
   "lastfm": {
     "id": "Papa+Roach/_/Come+Around",

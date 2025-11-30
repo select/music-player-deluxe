@@ -1,9 +1,6 @@
 {
-  "mbid": "f37a82d0-d173-4bc8-9a2e-93c9bf8292ce",
   "title": "Holy Ghost",
   "artist": "Omah Lay",
-  "artistMbid": "b63bd4fd-2050-4c92-a237-576f6f6c97cb",
-  "releaseCount": 2,
   "duration": 186,
   "youtubeId": "E3E8qQmP4t8",
   "lastFetched": "2025-11-19T03:50:57.708Z",
@@ -28,7 +25,10 @@
     "artistTags": [
       "afro-fusion",
       "afrobeats"
-    ]
+    ],
+    "trackMbid": "f37a82d0-d173-4bc8-9a2e-93c9bf8292ce",
+    "artistMbid": "b63bd4fd-2050-4c92-a237-576f6f6c97cb",
+    "releaseCount": 2
   },
   "lastfm": {
     "id": "Omah+Lay/_/Holy+Ghost",

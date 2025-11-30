@@ -3,8 +3,6 @@
   "title": "The Way",
   "artist": "Fastball",
   "lastFetched": "2025-11-23T16:41:23.596Z",
-  "mbid": "d8ea522b-cefe-479d-af84-dbcc2f2156ee",
-  "artistMbid": "dc083bd6-41a3-436e-9e0a-28b4dc773820",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -19,7 +17,9 @@
       "pop rock",
       "power pop",
       "roots rock"
-    ]
+    ],
+    "trackMbid": "d8ea522b-cefe-479d-af84-dbcc2f2156ee",
+    "artistMbid": "dc083bd6-41a3-436e-9e0a-28b4dc773820"
   },
   "lastfm": {
     "id": "Fastball/_/The+Way",

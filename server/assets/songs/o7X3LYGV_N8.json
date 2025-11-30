@@ -16,12 +16,12 @@
     "youtube": "o7X3LYGV_N8",
     "youtubeMusic": "o7X3LYGV_N8"
   },
-  "mbid": "014e0465-99c6-3c30-9c82-f976f869306c",
-  "artistMbid": "afe5e238-d248-4da4-87b7-e70dfab787f6",
   "musicbrainz": {
     "artistTags": [
       "pop and chart"
-    ]
+    ],
+    "trackMbid": "014e0465-99c6-3c30-9c82-f976f869306c",
+    "artistMbid": "afe5e238-d248-4da4-87b7-e70dfab787f6"
   },
   "lastfm": {
     "id": "The+Automatic/_/Monster",

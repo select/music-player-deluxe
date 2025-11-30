@@ -21,8 +21,6 @@
     "youtube": "lRMFy0UQ0VU",
     "youtubeMusic": "lRMFy0UQ0VU"
   },
-  "mbid": "7b5c8845-34e6-4568-8b40-cb703a022a88",
-  "artistMbid": "cf72dacf-bad9-45bb-9331-739a8ba217b8",
   "lastfm": {
     "id": "Carmen+Villain/_/Subtle+Bodies",
     "listeners": 4437,
@@ -34,5 +32,9 @@
       "norway",
       "dream pop"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7b5c8845-34e6-4568-8b40-cb703a022a88",
+    "artistMbid": "cf72dacf-bad9-45bb-9331-739a8ba217b8"
   }
 }

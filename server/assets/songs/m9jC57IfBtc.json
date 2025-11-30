@@ -16,8 +16,6 @@
     "youtube": "m9jC57IfBtc",
     "youtubeMusic": "m9jC57IfBtc"
   },
-  "mbid": "88544e92-f61f-35f3-ba80-d2b9375e64e9",
-  "artistMbid": "bc5c2918-4aba-4ef6-a245-100563a4487f",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -27,7 +25,9 @@
     ],
     "artistGenres": [
       "marabi"
-    ]
+    ],
+    "trackMbid": "88544e92-f61f-35f3-ba80-d2b9375e64e9",
+    "artistMbid": "bc5c2918-4aba-4ef6-a245-100563a4487f"
   },
   "lastfm": {
     "id": "Miriam+Makeba/_/Quit+It",

@@ -14,8 +14,6 @@
     "youtube": "nXiQtD5gcHU",
     "youtubeMusic": "nXiQtD5gcHU"
   },
-  "mbid": "62f2a1da-6dea-4851-818f-fa84e94ff928",
-  "artistMbid": "d8df96ae-8fcf-4997-b3e6-e5d1aaf0f69e",
   "musicbrainz": {
     "artistTags": [
       "contemporary r&b",
@@ -35,7 +33,9 @@
       "motown",
       "pop",
       "pop soul"
-    ]
+    ],
+    "trackMbid": "62f2a1da-6dea-4851-818f-fa84e94ff928",
+    "artistMbid": "d8df96ae-8fcf-4997-b3e6-e5d1aaf0f69e"
   },
   "lastfm": {
     "id": "The+Temptations/_/Papa+Was+a+Rolling+Stone",

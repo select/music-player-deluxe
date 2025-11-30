@@ -19,7 +19,6 @@
     "youtube": "ccnC5wC_7NM",
     "youtubeMusic": "ccnC5wC_7NM"
   },
-  "artistMbid": "60955940-d401-4f4a-8a9b-43c870454aac",
   "lastfm": {
     "id": "Puhdys/_/Wenn+Tr%C3%A4ume+sterben",
     "listeners": 3873,
@@ -28,5 +27,8 @@
       "ostrock",
       "rock"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "60955940-d401-4f4a-8a9b-43c870454aac"
   }
 }

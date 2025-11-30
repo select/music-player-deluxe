@@ -3,8 +3,6 @@
   "title": "So Fresh, So Clean",
   "artist": "OutKast",
   "lastFetched": "2025-11-19T11:23:45.923Z",
-  "mbid": "42b451dd-38c6-4076-bca9-a3f07f4d2327",
-  "artistMbid": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
   "musicbrainz": {
     "tags": [
       "Hip-Hop",
@@ -12,7 +10,9 @@
       "hip hop",
       "outkast",
       "funk"
-    ]
+    ],
+    "trackMbid": "42b451dd-38c6-4076-bca9-a3f07f4d2327",
+    "artistMbid": "73fdb566-a9b1-494c-9f32-51768ec9fd27"
   },
   "lastfm": {
     "id": "OutKast/_/So+Fresh,+So+Clean",

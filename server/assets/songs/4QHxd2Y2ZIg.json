@@ -21,15 +21,15 @@
     "youtube": "4QHxd2Y2ZIg",
     "youtubeMusic": "4QHxd2Y2ZIg"
   },
-  "mbid": "46db24ca-fc47-4744-b210-9179fa23e9b6",
-  "artistMbid": "52b08164-7002-4eb8-a68f-bd7f42d73346",
   "musicbrainz": {
     "artistTags": [
       "rock"
     ],
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "trackMbid": "46db24ca-fc47-4744-b210-9179fa23e9b6",
+    "artistMbid": "52b08164-7002-4eb8-a68f-bd7f42d73346"
   },
   "lastfm": {
     "id": "Das+Lumpenpack/_/Mark",

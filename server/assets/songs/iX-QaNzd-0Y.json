@@ -19,8 +19,6 @@
     "youtube": "iX-QaNzd-0Y",
     "youtubeMusic": "iX-QaNzd-0Y"
   },
-  "mbid": "bbbcc53f-388e-4984-b266-390faea0fe48",
-  "artistMbid": "6d230d98-fb8d-4421-a6e8-daca4e55d53e",
   "musicbrainz": {
     "tags": [
       "indie",
@@ -28,7 +26,9 @@
       "2014",
       "pop",
       "WSUM 91.7 FM Madison"
-    ]
+    ],
+    "trackMbid": "bbbcc53f-388e-4984-b266-390faea0fe48",
+    "artistMbid": "6d230d98-fb8d-4421-a6e8-daca4e55d53e"
   },
   "lastfm": {
     "id": "Milky+Chance/_/Stolen+Dance",

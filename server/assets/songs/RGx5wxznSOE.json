@@ -20,8 +20,6 @@
     "youtube": "RGx5wxznSOE",
     "youtubeMusic": "RGx5wxznSOE"
   },
-  "mbid": "45365cc3-8692-300d-a2f3-38b06def2155",
-  "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
   "musicbrainz": {
     "artistTags": [
       "alternative",
@@ -41,7 +39,9 @@
       "art rock",
       "electronic",
       "electronica"
-    ]
+    ],
+    "trackMbid": "45365cc3-8692-300d-a2f3-38b06def2155",
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
   },
   "lastfm": {
     "id": "Radiohead/_/Lurgee",

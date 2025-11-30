@@ -10,8 +10,6 @@
     "youtube": "7UIHl0oJEpg",
     "youtubeMusic": "7UIHl0oJEpg"
   },
-  "mbid": "ab004730-bd4b-4ce7-aac0-fad0d546eb55",
-  "artistMbid": "55ff3c68-b64d-4e91-ad66-48ff802cf91b",
   "lastfm": {
     "id": "Dmitri+Shostakovich/_/Jazz+Suite+No.+2:+VI.+Waltz+II",
     "listeners": 52788,
@@ -22,5 +20,9 @@
       "contemporary classical",
       "modern classical"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ab004730-bd4b-4ce7-aac0-fad0d546eb55",
+    "artistMbid": "55ff3c68-b64d-4e91-ad66-48ff802cf91b"
   }
 }

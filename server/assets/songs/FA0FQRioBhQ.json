@@ -17,7 +17,6 @@
     "youtube": "FA0FQRioBhQ",
     "youtubeMusic": "FA0FQRioBhQ"
   },
-  "artistMbid": "c8a9ae11-63bf-409b-8bf3-a96b3712a2ff",
   "lastfm": {
     "id": "Little+Dragon/_/Little+Man+(Calyx+&+Teebee+Remix)",
     "listeners": 1711,
@@ -29,5 +28,8 @@
       "female vocalists",
       "swedish"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "c8a9ae11-63bf-409b-8bf3-a96b3712a2ff"
   }
 }

@@ -10,8 +10,6 @@
     "youtube": "H-pcNScMpak",
     "youtubeMusic": "H-pcNScMpak"
   },
-  "mbid": "044c3035-b52b-3a61-a794-559ea16caba7",
-  "artistMbid": "f1726af1-e797-4679-88d7-2ef6abcbec76",
   "musicbrainz": {
     "artistTags": [
       "german",
@@ -21,7 +19,9 @@
     "artistGenres": [
       "hamburger schule",
       "indie rock"
-    ]
+    ],
+    "trackMbid": "044c3035-b52b-3a61-a794-559ea16caba7",
+    "artistMbid": "f1726af1-e797-4679-88d7-2ef6abcbec76"
   },
   "lastfm": {
     "id": "Blumfeld/_/Die+Diktatur+der+Angepassten",

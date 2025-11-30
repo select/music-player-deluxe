@@ -21,8 +21,6 @@
     "youtube": "WGt-8adyabk",
     "youtubeMusic": "WGt-8adyabk"
   },
-  "mbid": "0694fc8e-b6bf-3260-9589-908f379fc7e6",
-  "artistMbid": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6",
   "musicbrainz": {
     "artistTags": [
       "alternative metal",
@@ -37,7 +35,9 @@
       "metal",
       "pop rock",
       "post-grunge"
-    ]
+    ],
+    "trackMbid": "0694fc8e-b6bf-3260-9589-908f379fc7e6",
+    "artistMbid": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6"
   },
   "lastfm": {
     "id": "Shinedown/_/Sound+of+Madness",

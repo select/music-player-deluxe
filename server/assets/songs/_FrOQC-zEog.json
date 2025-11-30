@@ -1,11 +1,9 @@
 {
-  "mbid": "96505f8f-172a-4db2-86f1-f7b8f40ee3db",
   "title": "Comfortably Numb",
   "artist": "Pink Floyd",
   "duration": 540,
   "youtubeId": "_FrOQC-zEog",
   "lastFetched": "2025-11-19T04:17:52.980Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0195Z3A2U",
     "amazonStore": "B0195Z3A2U",
@@ -17,7 +15,6 @@
     "youtube": "_FrOQC-zEog",
     "youtubeMusic": "_FrOQC-zEog"
   },
-  "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
   "musicbrainz": {
     "tags": [
       "album rock",
@@ -33,7 +30,10 @@
       "Progressive rock",
       "Psychedelic Rock",
       "Pink Floyd"
-    ]
+    ],
+    "trackMbid": "96505f8f-172a-4db2-86f1-f7b8f40ee3db",
+    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Pink+Floyd/_/Comfortably+Numb",

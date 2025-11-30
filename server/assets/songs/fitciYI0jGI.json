@@ -12,8 +12,6 @@
     "youtube": "fitciYI0jGI",
     "youtubeMusic": "fitciYI0jGI"
   },
-  "mbid": "065f99c1-2b5a-3ac5-83a4-d9a734ef22f2",
-  "artistMbid": "e91bea6a-9cd5-454d-9cdf-cd1b33dadd36",
   "musicbrainz": {
     "artistTags": [
       "classic rock",
@@ -24,7 +22,9 @@
       "classic rock",
       "hard rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "065f99c1-2b5a-3ac5-83a4-d9a734ef22f2",
+    "artistMbid": "e91bea6a-9cd5-454d-9cdf-cd1b33dadd36"
   },
   "lastfm": {
     "id": "Rose+Tattoo/_/Nice+Boys",

@@ -1,5 +1,4 @@
 {
-  "mbid": "9e5fbae7-6a07-4914-ab24-6296270e12b4",
   "title": "My Favorite Things",
   "artist": "John Coltrane",
   "album": "Live at the Village Vanguard Again!",
@@ -22,7 +21,6 @@
     "youtube": "JQvc-Gkwhow",
     "youtubeMusic": "JQvc-Gkwhow"
   },
-  "artistMbid": "b625448e-bf4a-41c3-a421-72ad46cdb831",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -41,7 +39,9 @@
       "hard bop",
       "jazz",
       "modal jazz"
-    ]
+    ],
+    "trackMbid": "9e5fbae7-6a07-4914-ab24-6296270e12b4",
+    "artistMbid": "b625448e-bf4a-41c3-a421-72ad46cdb831"
   },
   "lastfm": {
     "id": "John+Coltrane/_/My+Favorite+Things",

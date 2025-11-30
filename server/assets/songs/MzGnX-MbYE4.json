@@ -15,8 +15,6 @@
     "youtube": "MzGnX-MbYE4",
     "youtubeMusic": "MzGnX-MbYE4"
   },
-  "mbid": "5be3cea2-34d0-40f7-97fd-b8d771012a23",
-  "artistMbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
   "musicbrainz": {
     "artistTags": [
       "alternative dance",
@@ -36,7 +34,9 @@
       "dark wave",
       "electronic",
       "electronic rock"
-    ]
+    ],
+    "trackMbid": "5be3cea2-34d0-40f7-97fd-b8d771012a23",
+    "artistMbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0"
   },
   "lastfm": {
     "id": "Depeche+Mode/_/People+Are+People",

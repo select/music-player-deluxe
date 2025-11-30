@@ -14,8 +14,6 @@
     "youtube": "N5J89YVum_c",
     "youtubeMusic": "N5J89YVum_c"
   },
-  "mbid": "e01628a6-a05f-474d-86a2-ca1af1973a4d",
-  "artistMbid": "1801bd47-46ae-49ff-bfcd-6e01b562d880",
   "musicbrainz": {
     "artistTags": [
       "hard rock",
@@ -28,7 +26,9 @@
       "rock",
       "southern rock",
       "stoner rock"
-    ]
+    ],
+    "trackMbid": "e01628a6-a05f-474d-86a2-ca1af1973a4d",
+    "artistMbid": "1801bd47-46ae-49ff-bfcd-6e01b562d880"
   },
   "lastfm": {
     "id": "Black+Stone+Cherry/_/Ringin%27+In+My+Head",

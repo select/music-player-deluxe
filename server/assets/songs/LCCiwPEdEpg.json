@@ -1,11 +1,9 @@
 {
-  "mbid": "48443cb1-b3bb-4689-92fb-192352a44ce1",
   "title": "Dreamer",
   "artist": "Ozzy Osbourne",
   "duration": 290,
   "youtubeId": "LCCiwPEdEpg",
   "lastFetched": "2025-11-23T16:35:58.774Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B09HSPVPHQ",
     "amazonStore": "B09HSPVPHQ",
@@ -23,7 +21,6 @@
     "youtube": "LCCiwPEdEpg",
     "youtubeMusic": "LCCiwPEdEpg"
   },
-  "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -40,7 +37,10 @@
       "heavy metal",
       "metal",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "48443cb1-b3bb-4689-92fb-192352a44ce1",
+    "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+    "releaseCount": 1
   },
   "ai": {
     "title": "Dreamer",

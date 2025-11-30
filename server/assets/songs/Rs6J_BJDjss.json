@@ -20,8 +20,6 @@
     "youtube": "Rs6J_BJDjss",
     "youtubeMusic": "Rs6J_BJDjss"
   },
-  "mbid": "959508f2-6cba-4bba-ac5d-266385f9b503",
-  "artistMbid": "160629ab-ec18-4931-8c95-02cb92d06186",
   "musicbrainz": {
     "tags": [
       "album rock",
@@ -57,7 +55,9 @@
       "arena rock",
       "classic rock",
       "hard rock"
-    ]
+    ],
+    "trackMbid": "959508f2-6cba-4bba-ac5d-266385f9b503",
+    "artistMbid": "160629ab-ec18-4931-8c95-02cb92d06186"
   },
   "lastfm": {
     "id": "Foreigner/_/Say+You+Will",

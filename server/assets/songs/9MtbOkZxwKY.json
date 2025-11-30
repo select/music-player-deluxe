@@ -1,12 +1,10 @@
 {
-  "mbid": "21427a61-c0ef-4ecc-b951-c05cc9449fb0",
   "title": "Nightdiver",
   "artist": "Flur",
   "album": "Plunge",
   "duration": 330,
   "youtubeId": "9MtbOkZxwKY",
   "lastFetched": "2025-11-19T04:30:36.788Z",
-  "artistMbid": "cbbb9b55-81f2-41c6-94d1-e3f53364278d",
   "odesli": {
     "amazonMusic": "B0FFND9445",
     "amazonStore": "B0FFND9445",
@@ -33,5 +31,9 @@
       "ukrainian",
       "cardiowave"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "21427a61-c0ef-4ecc-b951-c05cc9449fb0",
+    "artistMbid": "cbbb9b55-81f2-41c6-94d1-e3f53364278d"
   }
 }

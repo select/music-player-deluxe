@@ -15,8 +15,6 @@
     "youtube": "QpDq4RfeYsw",
     "youtubeMusic": "QpDq4RfeYsw"
   },
-  "mbid": "1e77ae7c-02a9-48be-b9bd-12d8f6daf971",
-  "artistMbid": "a8e935c6-3fcc-414c-900c-77e8170e7e7c",
   "musicbrainz": {
     "artistTags": [
       "acoustic rock",
@@ -34,7 +32,9 @@
       "hard rock",
       "heavy metal",
       "metal"
-    ]
+    ],
+    "trackMbid": "1e77ae7c-02a9-48be-b9bd-12d8f6daf971",
+    "artistMbid": "a8e935c6-3fcc-414c-900c-77e8170e7e7c"
   },
   "lastfm": {
     "id": "Black+Label+Society/_/You+Made+Me+Want+to+Live",

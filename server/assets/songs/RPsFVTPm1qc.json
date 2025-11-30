@@ -16,8 +16,6 @@
     "youtube": "RPsFVTPm1qc",
     "youtubeMusic": "RPsFVTPm1qc"
   },
-  "mbid": "955dd434-660a-4446-ba9f-9c92eec49233",
-  "artistMbid": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5",
   "musicbrainz": {
     "tags": [
       "alternative metal",
@@ -55,7 +53,9 @@
       "heavy metal",
       "industrial rock",
       "metal"
-    ]
+    ],
+    "trackMbid": "955dd434-660a-4446-ba9f-9c92eec49233",
+    "artistMbid": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5"
   },
   "lastfm": {
     "id": "Disturbed/_/Shout+2000",

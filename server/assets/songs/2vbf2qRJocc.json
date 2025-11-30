@@ -13,8 +13,6 @@
     "youtube": "2vbf2qRJocc",
     "youtubeMusic": "2vbf2qRJocc"
   },
-  "mbid": "8a75d462-a8ba-4f65-921f-694e09c3e8ed",
-  "artistMbid": "015e7f44-fbdb-4fae-8a9a-b406cb0b1234",
   "lastfm": {
     "id": "Love%27n%27Joy/_/Come+About",
     "listeners": 1192,
@@ -26,5 +24,9 @@
       "indie",
       "indie rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8a75d462-a8ba-4f65-921f-694e09c3e8ed",
+    "artistMbid": "015e7f44-fbdb-4fae-8a9a-b406cb0b1234"
   }
 }

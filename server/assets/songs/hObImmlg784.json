@@ -1,9 +1,6 @@
 {
-  "mbid": "640dede3-e1ed-4577-ae04-e9423bb5d5e5",
   "title": "Love Somebody Else",
   "artist": "Lavery",
-  "artistMbid": "b1112bf7-1886-489c-9541-502dd2906335",
-  "releaseCount": 2,
   "duration": 365,
   "youtubeId": "hObImmlg784",
   "lastFetched": "2025-11-23T16:46:31.094Z",
@@ -35,7 +32,10 @@
       "breakcore",
       "jungle",
       "ragga jungle"
-    ]
+    ],
+    "trackMbid": "640dede3-e1ed-4577-ae04-e9423bb5d5e5",
+    "artistMbid": "b1112bf7-1886-489c-9541-502dd2906335",
+    "releaseCount": 2
   },
   "lastfm": {
     "id": "Lavery/_/Love+Somebody+Else",

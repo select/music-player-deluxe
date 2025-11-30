@@ -11,8 +11,6 @@
     "youtube": "wcrSzSplcvg",
     "youtubeMusic": "wcrSzSplcvg"
   },
-  "mbid": "c401188a-6e0f-4d6e-aef6-17748d7e4077",
-  "artistMbid": "c3fde6db-b99d-4301-b42a-c40b073fe734",
   "lastfm": {
     "id": "Mamman+Sani/_/Ya+Bismillah",
     "listeners": 10156,
@@ -20,5 +18,9 @@
     "tags": [
       "4 stars"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c401188a-6e0f-4d6e-aef6-17748d7e4077",
+    "artistMbid": "c3fde6db-b99d-4301-b42a-c40b073fe734"
   }
 }

@@ -15,8 +15,6 @@
     "youtube": "xAhhNgyePcU",
     "youtubeMusic": "xAhhNgyePcU"
   },
-  "mbid": "ea6f10fc-5cf8-3222-bba1-97d92e88752b",
-  "artistMbid": "3231d12a-c42d-4977-b2a4-a6e4d87978e1",
   "musicbrainz": {
     "artistTags": [
       "ambient techno",
@@ -32,7 +30,9 @@
       "downtempo",
       "electronic",
       "electronica"
-    ]
+    ],
+    "trackMbid": "ea6f10fc-5cf8-3222-bba1-97d92e88752b",
+    "artistMbid": "3231d12a-c42d-4977-b2a4-a6e4d87978e1"
   },
   "lastfm": {
     "id": "Tosca/_/Rosa+(K&K+Streichquartett+Version)",

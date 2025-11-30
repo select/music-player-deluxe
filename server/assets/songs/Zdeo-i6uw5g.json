@@ -18,8 +18,6 @@
     "youtube": "Zdeo-i6uw5g",
     "youtubeMusic": "Zdeo-i6uw5g"
   },
-  "mbid": "eaea4669-4454-403e-83e2-39d58eb5a0ce",
-  "artistMbid": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -39,7 +37,9 @@
       "hard rock",
       "pop rock",
       "rap metal"
-    ]
+    ],
+    "trackMbid": "eaea4669-4454-403e-83e2-39d58eb5a0ce",
+    "artistMbid": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e"
   },
   "lastfm": {
     "id": "Kid+Rock/_/Don%27t+Tell+Me+How+To+Live",

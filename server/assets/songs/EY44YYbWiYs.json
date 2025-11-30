@@ -18,8 +18,6 @@
     "youtube": "EY44YYbWiYs",
     "youtubeMusic": "EY44YYbWiYs"
   },
-  "mbid": "35fc71da-6411-46e1-973e-4a6e63ef4e41",
-  "artistMbid": "f1745cca-1cae-4696-a0d3-62553c742b0c",
   "musicbrainz": {
     "artistTags": [
       "psychedelic",
@@ -30,7 +28,9 @@
       "psychedelic",
       "r&b",
       "soul"
-    ]
+    ],
+    "trackMbid": "35fc71da-6411-46e1-973e-4a6e63ef4e41",
+    "artistMbid": "f1745cca-1cae-4696-a0d3-62553c742b0c"
   },
   "lastfm": {
     "id": "Monophonics/_/California+Dreaming",

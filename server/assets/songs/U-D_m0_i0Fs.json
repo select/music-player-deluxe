@@ -19,8 +19,6 @@
     "youtube": "U-D_m0_i0Fs",
     "youtubeMusic": "U-D_m0_i0Fs"
   },
-  "mbid": "2d4491be-eb11-40f0-87c5-e6d216c285de",
-  "artistMbid": "6255c59a-de38-44de-b966-a3c4686f9941",
   "musicbrainz": {
     "artistTags": [
       "contemporary r&b",
@@ -29,7 +27,9 @@
     "artistGenres": [
       "contemporary r&b",
       "singer-songwriter"
-    ]
+    ],
+    "trackMbid": "2d4491be-eb11-40f0-87c5-e6d216c285de",
+    "artistMbid": "6255c59a-de38-44de-b966-a3c4686f9941"
   },
   "lastfm": {
     "id": "Avant/_/Feast",

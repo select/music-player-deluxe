@@ -16,7 +16,6 @@
     "youtube": "P6zaCV4niKk",
     "youtubeMusic": "P6zaCV4niKk"
   },
-  "artistMbid": "da8a7465-cf8a-42fd-b7d9-d2ab8f5dbf0d",
   "lastfm": {
     "id": "Cat+Stevens/_/Father+and+Son",
     "listeners": 448381,
@@ -29,5 +28,8 @@
       "classic rock",
       "acoustic"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "da8a7465-cf8a-42fd-b7d9-d2ab8f5dbf0d"
   }
 }

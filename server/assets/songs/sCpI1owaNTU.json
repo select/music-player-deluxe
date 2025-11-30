@@ -3,7 +3,6 @@
   "title": "Piano Man",
   "artist": "Billy Joel",
   "lastFetched": "2025-11-19T07:16:00.879Z",
-  "artistMbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
   "musicbrainz": {
     "tags": [
       "classic rock",
@@ -11,7 +10,8 @@
       "singer-songwriter",
       "billy joel",
       "rock"
-    ]
+    ],
+    "artistMbid": "64b94289-9474-4d43-8c93-918ccc1920d1"
   },
   "lastfm": {
     "id": "Billy+Joel/_/Piano+Man",

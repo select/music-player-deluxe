@@ -15,8 +15,6 @@
     "youtube": "b7o3F-MVE-Y",
     "youtubeMusic": "b7o3F-MVE-Y"
   },
-  "mbid": "00d92cfe-ab1d-4cbe-9abe-98aa8ca6cbab",
-  "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
   "musicbrainz": {
     "artistTags": [
       "art pop",
@@ -35,7 +33,9 @@
       "dancehall",
       "edm",
       "electronic"
-    ]
+    ],
+    "trackMbid": "00d92cfe-ab1d-4cbe-9abe-98aa8ca6cbab",
+    "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f"
   },
   "lastfm": {
     "id": "Major+Lazer/_/Koo+Koo+Fun",

@@ -17,8 +17,6 @@
     "youtube": "O3tnOVideSo",
     "youtubeMusic": "O3tnOVideSo"
   },
-  "mbid": "170f236a-f9e5-4632-8543-dd0142eaf242",
-  "artistMbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
   "musicbrainz": {
     "tags": [
       "pop",
@@ -26,7 +24,9 @@
       "michael jackson",
       "soul",
       "funk"
-    ]
+    ],
+    "trackMbid": "170f236a-f9e5-4632-8543-dd0142eaf242",
+    "artistMbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e"
   },
   "lastfm": {
     "id": "Michael+Jackson/_/Baby+Be+Mine",

@@ -12,7 +12,6 @@
     "youtube": "EKS_VNmWCpU",
     "youtubeMusic": "EKS_VNmWCpU"
   },
-  "artistMbid": "8de5700e-668a-41f5-8859-573a7021abaf",
   "lastfm": {
     "id": "Cold+Years/_/32",
     "listeners": 3876,
@@ -24,5 +23,8 @@
       "americana",
       "scotland"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "8de5700e-668a-41f5-8859-573a7021abaf"
   }
 }

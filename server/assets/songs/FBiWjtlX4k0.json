@@ -11,8 +11,6 @@
     "youtube": "FBiWjtlX4k0",
     "youtubeMusic": "FBiWjtlX4k0"
   },
-  "mbid": "227cb31f-fcb2-47d4-bf76-16688f75bacb",
-  "artistMbid": "d7235f31-229a-4c04-abca-14e0fbcba26e",
   "musicbrainz": {
     "artistTags": [
       "experimental",
@@ -27,7 +25,9 @@
       "math rock",
       "progressive metal",
       "progressive rock"
-    ]
+    ],
+    "trackMbid": "227cb31f-fcb2-47d4-bf76-16688f75bacb",
+    "artistMbid": "d7235f31-229a-4c04-abca-14e0fbcba26e"
   },
   "lastfm": {
     "id": "CHON/_/Ghost",

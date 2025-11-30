@@ -3,7 +3,6 @@
   "title": "BMX Bandits",
   "artist": "The Papers",
   "lastFetched": "2025-11-19T10:31:45.774Z",
-  "artistMbid": "2a2a9fba-38c9-4abf-a45a-ae17d43a0523",
   "lastfm": {
     "id": "The+Papers/_/BMX+Bandits",
     "listeners": 44,
@@ -15,5 +14,8 @@
       "shoegaze",
       "new wave"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "2a2a9fba-38c9-4abf-a45a-ae17d43a0523"
   }
 }

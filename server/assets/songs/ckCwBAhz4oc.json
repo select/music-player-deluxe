@@ -3,8 +3,6 @@
   "title": "Right Back Where We Started From",
   "artist": "Maxine Nightingale",
   "lastFetched": "2025-11-23T16:44:23.679Z",
-  "mbid": "88e89116-7644-4f76-966a-e9f49984f0a4",
-  "artistMbid": "0d8da158-389d-4b58-a62e-a6b5870fc3a4",
   "musicbrainz": {
     "tags": [
       "club",
@@ -28,7 +26,9 @@
     "artistTags": [
       "classic pop and rock",
       "soprano"
-    ]
+    ],
+    "trackMbid": "88e89116-7644-4f76-966a-e9f49984f0a4",
+    "artistMbid": "0d8da158-389d-4b58-a62e-a6b5870fc3a4"
   },
   "lastfm": {
     "id": "Maxine+Nightingale/_/Right+Back+Where+We+Started+From",

@@ -12,8 +12,6 @@
     "youtube": "Euhwq1IGWIk",
     "youtubeMusic": "Euhwq1IGWIk"
   },
-  "mbid": "13ca2735-b9a0-45c1-bbb2-fdc3c4ffc41c",
-  "artistMbid": "23d8426c-18c7-46e6-a51d-7395bd43c641",
   "musicbrainz": {
     "artistTags": [
       "ambient",
@@ -33,7 +31,9 @@
       "electronic",
       "krautrock",
       "new age"
-    ]
+    ],
+    "trackMbid": "13ca2735-b9a0-45c1-bbb2-fdc3c4ffc41c",
+    "artistMbid": "23d8426c-18c7-46e6-a51d-7395bd43c641"
   },
   "lastfm": {
     "id": "Tangerine+Dream/_/Invisible+Limits",

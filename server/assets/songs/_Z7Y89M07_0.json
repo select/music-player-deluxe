@@ -1,9 +1,6 @@
 {
-  "mbid": "2e1e6bb0-e71d-4680-87a8-ca750a833b76",
   "title": "Pris",
   "artist": "Ilhan Ersahin",
-  "artistMbid": "256d5fd7-ca63-424e-801f-b902bf167de6",
-  "releaseCount": 2,
   "duration": 680,
   "youtubeId": "_Z7Y89M07_0",
   "lastFetched": "2025-11-19T05:29:36.154Z",
@@ -31,5 +28,10 @@
       "downtempo",
       "lounge"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2e1e6bb0-e71d-4680-87a8-ca750a833b76",
+    "artistMbid": "256d5fd7-ca63-424e-801f-b902bf167de6",
+    "releaseCount": 2
   }
 }

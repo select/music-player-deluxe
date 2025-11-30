@@ -11,8 +11,6 @@
     "youtube": "VgwrEg_xdd0",
     "youtubeMusic": "VgwrEg_xdd0"
   },
-  "mbid": "2162ce66-c236-4fca-8c0c-81d197c2f5c5",
-  "artistMbid": "7c340ac5-6eda-4981-91d6-d5b1f4d1bbbf",
   "lastfm": {
     "id": "Kishi+Bashi/_/Theme+From+Jerome+(Forgotten+Words)",
     "listeners": 9793,
@@ -24,5 +22,9 @@
       "pop",
       "indie pop"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2162ce66-c236-4fca-8c0c-81d197c2f5c5",
+    "artistMbid": "7c340ac5-6eda-4981-91d6-d5b1f4d1bbbf"
   }
 }

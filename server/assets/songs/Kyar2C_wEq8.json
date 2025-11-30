@@ -12,8 +12,6 @@
     "youtube": "Kyar2C_wEq8",
     "youtubeMusic": "Kyar2C_wEq8"
   },
-  "mbid": "0e1ead74-2a75-3645-9d53-fc0252dd516d",
-  "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
   "musicbrainz": {
     "artistTags": [
       "alternative hip hop",
@@ -33,7 +31,9 @@
       "east coast hip hop",
       "experimental hip hop",
       "funk"
-    ]
+    ],
+    "trackMbid": "0e1ead74-2a75-3645-9d53-fc0252dd516d",
+    "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53"
   },
   "lastfm": {
     "id": "Beastie+Boys/_/Egg+Man",

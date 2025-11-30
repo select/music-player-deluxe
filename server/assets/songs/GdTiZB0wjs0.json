@@ -16,8 +16,6 @@
     "youtube": "GdTiZB0wjs0",
     "youtubeMusic": "GdTiZB0wjs0"
   },
-  "mbid": "986c878e-1d03-4a43-9aa0-1ef6b1214525",
-  "artistMbid": "3798b104-01cb-484c-a3b0-56adc6399b80",
   "musicbrainz": {
     "artistTags": [
       "alternative metal",
@@ -34,7 +32,9 @@
       "funk metal",
       "metal",
       "nu metal"
-    ]
+    ],
+    "trackMbid": "986c878e-1d03-4a43-9aa0-1ef6b1214525",
+    "artistMbid": "3798b104-01cb-484c-a3b0-56adc6399b80"
   },
   "lastfm": {
     "id": "Rage+Against+the+Machine/_/Renegades+of+Funk",

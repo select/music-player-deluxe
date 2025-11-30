@@ -13,8 +13,6 @@
     "youtube": "cm5VIM7ynQQ",
     "youtubeMusic": "cm5VIM7ynQQ"
   },
-  "mbid": "0013b878-337a-4ab9-86f2-d043bc38761f",
-  "artistMbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
   "musicbrainz": {
     "artistTags": [
       "aor",
@@ -32,7 +30,9 @@
       "art rock",
       "glam metal",
       "hard rock"
-    ]
+    ],
+    "trackMbid": "0013b878-337a-4ab9-86f2-d043bc38761f",
+    "artistMbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43"
   },
   "lastfm": {
     "id": "Guns+N%27+Roses/_/Estranged",

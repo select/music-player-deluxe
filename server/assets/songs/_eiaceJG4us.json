@@ -20,8 +20,6 @@
     "youtube": "_eiaceJG4us",
     "youtubeMusic": "_eiaceJG4us"
   },
-  "mbid": "5e94762a-9e03-372a-8cf9-d765d383794a",
-  "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
   "musicbrainz": {
     "artistTags": [
       "contemporary r&b",
@@ -39,7 +37,9 @@
       "pop",
       "pop soul",
       "soul"
-    ]
+    ],
+    "trackMbid": "5e94762a-9e03-372a-8cf9-d765d383794a",
+    "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e"
   },
   "lastfm": {
     "id": "Stevie+Wonder/_/Ain%27t+That+Asking+For+Trouble",

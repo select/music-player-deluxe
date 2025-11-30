@@ -9,7 +9,6 @@
     "youtube": "tRcPA7Fzebw",
     "youtubeMusic": "tRcPA7Fzebw"
   },
-  "artistMbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
   "lastfm": {
     "id": "David+Bowie/_/Starman+(Remastered)",
     "listeners": 2621,
@@ -21,5 +20,8 @@
       "80s",
       "alternative"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50"
   }
 }

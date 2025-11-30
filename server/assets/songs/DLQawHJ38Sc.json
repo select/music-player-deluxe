@@ -12,8 +12,6 @@
     "youtube": "DLQawHJ38Sc",
     "youtubeMusic": "DLQawHJ38Sc"
   },
-  "mbid": "2d65b19a-0f5b-41f4-9207-58a8b30d18c6",
-  "artistMbid": "b665b768-0d83-4363-950c-31ed39317c15",
   "musicbrainz": {
     "artistTags": [
       "glam metal",
@@ -24,7 +22,9 @@
       "glam metal",
       "hard rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "2d65b19a-0f5b-41f4-9207-58a8b30d18c6",
+    "artistMbid": "b665b768-0d83-4363-950c-31ed39317c15"
   },
   "lastfm": {
     "id": "Van+Halen/_/Right+Now",

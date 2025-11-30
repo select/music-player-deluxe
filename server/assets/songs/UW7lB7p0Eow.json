@@ -13,8 +13,6 @@
     "youtube": "UW7lB7p0Eow",
     "youtubeMusic": "UW7lB7p0Eow"
   },
-  "mbid": "2e6c7eb5-853b-4376-aad1-d21b1793c7b2",
-  "artistMbid": "88a6e84f-a7bd-4cef-9e02-45476a61510c",
   "musicbrainz": {
     "tags": [
       "neue deutsche welle",
@@ -37,7 +35,9 @@
     "artistGenres": [
       "neue deutsche welle",
       "new wave"
-    ]
+    ],
+    "trackMbid": "2e6c7eb5-853b-4376-aad1-d21b1793c7b2",
+    "artistMbid": "88a6e84f-a7bd-4cef-9e02-45476a61510c"
   },
   "lastfm": {
     "id": "Markus/_/Ich+will+Spass",

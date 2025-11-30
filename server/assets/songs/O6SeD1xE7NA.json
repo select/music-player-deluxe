@@ -20,7 +20,6 @@
     "youtube": "O6SeD1xE7NA",
     "youtubeMusic": "O6SeD1xE7NA"
   },
-  "artistMbid": "c70a1a51-caf3-4667-b956-11e27a00fe37",
   "lastfm": {
     "id": "Gyptian/_/Hold+You",
     "listeners": 31524,
@@ -30,5 +29,8 @@
       "dancehall",
       "gyptian"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "c70a1a51-caf3-4667-b956-11e27a00fe37"
   }
 }

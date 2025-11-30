@@ -1,5 +1,4 @@
 {
-  "mbid": "738b8e95-fb6c-4c6f-90ae-89934c036018",
   "title": "Rio Negro",
   "artist": "Xique-Xique",
   "album": "Xaxoeira EP",
@@ -14,7 +13,6 @@
     "youtube": "2Kc6YYG8VRg",
     "youtubeMusic": "2Kc6YYG8VRg"
   },
-  "artistMbid": "9d7ca1c4-f865-4720-ae19-cc5afda60c04",
   "lastfm": {
     "id": "Xique-Xique/_/Rio+Negro",
     "listeners": 4015,
@@ -26,5 +24,9 @@
       "downbeat",
       "tribal"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "738b8e95-fb6c-4c6f-90ae-89934c036018",
+    "artistMbid": "9d7ca1c4-f865-4720-ae19-cc5afda60c04"
   }
 }

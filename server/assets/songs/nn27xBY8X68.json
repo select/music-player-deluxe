@@ -1,9 +1,6 @@
 {
-  "mbid": "5a5f546b-c283-4160-afc1-040cd8c03a58",
   "title": "The Swiss Maid",
   "artist": "Del Shannon",
-  "artistMbid": "2e885bfb-1f59-49cf-8d51-e743445e1b48",
-  "releaseCount": 2,
   "duration": 121,
   "youtubeId": "nn27xBY8X68",
   "lastFetched": "2025-11-19T04:26:32.627Z",
@@ -24,7 +21,10 @@
       "rock & roll",
       "rock and roll",
       "teen pop"
-    ]
+    ],
+    "trackMbid": "5a5f546b-c283-4160-afc1-040cd8c03a58",
+    "artistMbid": "2e885bfb-1f59-49cf-8d51-e743445e1b48",
+    "releaseCount": 2
   },
   "lastfm": {
     "id": "Del+Shannon/_/The+Swiss+Maid",

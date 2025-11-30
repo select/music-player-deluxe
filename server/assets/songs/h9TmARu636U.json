@@ -1,9 +1,6 @@
 {
-  "mbid": "d16c5683-4f14-48c0-901b-81413b44df3f",
   "title": "Cross Country",
   "artist": "Archie Whitewater",
-  "artistMbid": "472c1266-b797-4160-97ab-ada2fa54e7c5",
-  "releaseCount": 2,
   "duration": 202,
   "youtubeId": "h9TmARu636U",
   "lastFetched": "2025-11-19T04:45:22.418Z",
@@ -27,5 +24,10 @@
       "sampled",
       "1970"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d16c5683-4f14-48c0-901b-81413b44df3f",
+    "artistMbid": "472c1266-b797-4160-97ab-ada2fa54e7c5",
+    "releaseCount": 2
   }
 }

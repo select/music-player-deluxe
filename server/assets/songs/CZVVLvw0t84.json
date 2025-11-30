@@ -20,8 +20,6 @@
     "youtube": "CZVVLvw0t84",
     "youtubeMusic": "CZVVLvw0t84"
   },
-  "mbid": "5e41d64a-b9c5-4cba-aa74-9cd668bef38f",
-  "artistMbid": "8ab73770-878d-4c67-803a-e89e59341324",
   "musicbrainz": {
     "artistTags": [
       "brass band",
@@ -34,7 +32,9 @@
       "funk",
       "instrumental",
       "jazz"
-    ]
+    ],
+    "trackMbid": "5e41d64a-b9c5-4cba-aa74-9cd668bef38f",
+    "artistMbid": "8ab73770-878d-4c67-803a-e89e59341324"
   },
   "lastfm": {
     "id": "Lucky+Chops/_/LC+Full+Blast",

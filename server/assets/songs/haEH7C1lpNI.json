@@ -1,11 +1,9 @@
 {
-  "mbid": "051565a0-ab22-4f7b-95d1-c03219947f85",
   "title": "harvest sky",
   "artist": "Oklou",
   "duration": 234,
   "youtubeId": "haEH7C1lpNI",
   "lastFetched": "2025-11-19T05:10:49.459Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0DN31KKX1",
     "amazonStore": "B0DN31KKX1",
@@ -22,7 +20,6 @@
     "youtube": "haEH7C1lpNI",
     "youtubeMusic": "haEH7C1lpNI"
   },
-  "artistMbid": "13e2db47-3010-48b8-a8b9-667551f37119",
   "musicbrainz": {
     "tags": [
       "trance",
@@ -30,7 +27,10 @@
       "alt pop",
       "alt-pop",
       "ambient trance"
-    ]
+    ],
+    "trackMbid": "051565a0-ab22-4f7b-95d1-c03219947f85",
+    "artistMbid": "13e2db47-3010-48b8-a8b9-667551f37119",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Oklou/_/harvest+sky",

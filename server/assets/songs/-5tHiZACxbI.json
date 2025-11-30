@@ -2,7 +2,7 @@
   "youtubeId": "-5tHiZACxbI",
   "title": "Timebomb Zone",
   "artist": "The Prodigy",
-  "lastFetched": "2025-11-30T17:43:59.675Z",
+  "lastFetched": "2025-11-30T19:28:24.015Z",
   "odesli": {
     "amazonMusic": "B0DZWNBHRL",
     "amazonStore": "B0DZWNBHRL",
@@ -28,6 +28,25 @@
       "breakbeat",
       "big beat",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "227f4a59-006d-4c34-9a96-ed0e808fd51f",
+    "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
+    "releaseCount": 4,
+    "genres": [
+      "big beat"
+    ],
+    "artistGenres": [
+      "big beat",
+      "breakbeat",
+      "breakbeat hardcore",
+      "dance",
+      "electronic",
+      "electronica",
+      "hardcore breaks",
+      "rave",
+      "techno"
     ]
   }
 }

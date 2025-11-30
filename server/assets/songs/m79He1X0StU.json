@@ -10,8 +10,6 @@
     "youtube": "m79He1X0StU",
     "youtubeMusic": "m79He1X0StU"
   },
-  "mbid": "605f81ed-142c-48bf-b665-097933a6b170",
-  "artistMbid": "70f63a33-5476-4739-9a58-d68df2bf6cb1",
   "lastfm": {
     "id": "DJ+Normal+4/_/Begleitautomatik",
     "listeners": 172,
@@ -21,5 +19,9 @@
       "jungle",
       "breakbeat"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "605f81ed-142c-48bf-b665-097933a6b170",
+    "artistMbid": "70f63a33-5476-4739-9a58-d68df2bf6cb1"
   }
 }

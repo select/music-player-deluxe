@@ -21,7 +21,6 @@
     "youtube": "L2CnECtXAjk",
     "youtubeMusic": "L2CnECtXAjk"
   },
-  "artistMbid": "ce8cbced-8719-47b9-b728-6024e8b19b15",
   "lastfm": {
     "id": "Abbey+Lincoln/_/Afro+Blue+(Remastered+1959)",
     "listeners": 17,
@@ -33,5 +32,8 @@
       "blues",
       "jazz vocal"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "ce8cbced-8719-47b9-b728-6024e8b19b15"
   }
 }

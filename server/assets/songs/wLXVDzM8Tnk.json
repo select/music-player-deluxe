@@ -1,7 +1,7 @@
 {
   "youtubeId": "wLXVDzM8Tnk",
   "title": "Game of Thrones (Main Theme)(Boyce Avenue acoustic cover) on Spotify & Apple",
-  "lastFetched": "2025-11-30T17:24:24.216Z",
+  "lastFetched": "2025-11-30T19:29:01.167Z",
   "ai": {
     "title": "Game of Thrones (Main Theme)",
     "artist": "Boyce Avenue"
@@ -19,6 +19,15 @@
       "alternative",
       "rock",
       "indie"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cd854760-4184-46f4-8153-27644349b63f",
+    "artistMbid": "0e517f4b-6d89-48f0-8a11-16416bd0fdcb",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "pop rock"
     ]
   }
 }

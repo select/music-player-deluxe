@@ -22,8 +22,6 @@
     "youtube": "RRKJiM9Njr8",
     "youtubeMusic": "RRKJiM9Njr8"
   },
-  "mbid": "f8989bd7-99c4-37fc-93cb-f42a49fc8a7a",
-  "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
   "musicbrainz": {
     "tags": [
       "rock",
@@ -31,7 +29,9 @@
       "punk rock",
       "emo",
       "punk"
-    ]
+    ],
+    "trackMbid": "f8989bd7-99c4-37fc-93cb-f42a49fc8a7a",
+    "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13"
   },
   "lastfm": {
     "id": "My+Chemical+Romance/_/Welcome+to+the+Black+Parade",

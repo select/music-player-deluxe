@@ -1,5 +1,4 @@
 {
-  "mbid": "18cbe0f1-8616-4645-a108-c149d1f805a3",
   "title": "Broken Wings",
   "artist": "Alter Bridge",
   "album": "One Day Remains",
@@ -19,7 +18,6 @@
     "youtube": "1xICZAQ7GBQ",
     "youtubeMusic": "1xICZAQ7GBQ"
   },
-  "artistMbid": "60a23fda-a440-4ab9-a344-7dfdd2ed341a",
   "musicbrainz": {
     "tags": [
       "alt-rock",
@@ -29,7 +27,9 @@
       "pop",
       "post-grunge alternative rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "18cbe0f1-8616-4645-a108-c149d1f805a3",
+    "artistMbid": "60a23fda-a440-4ab9-a344-7dfdd2ed341a"
   },
   "lastfm": {
     "id": "Alter+Bridge/_/Broken+Wings",

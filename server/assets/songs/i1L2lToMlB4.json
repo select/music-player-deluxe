@@ -3,8 +3,6 @@
   "title": "Shackles (Praise You)",
   "artist": "Mary Mary",
   "lastFetched": "2025-11-23T16:46:40.526Z",
-  "mbid": "128ca666-74c8-4cf4-a799-57d83d86fe39",
-  "artistMbid": "6413506f-e22b-412c-9f19-239db7df21f2",
   "musicbrainz": {
     "artistTags": [
       "classic pop and rock",
@@ -16,7 +14,9 @@
       "contemporary gospel",
       "gospel",
       "urban contemporary gospel"
-    ]
+    ],
+    "trackMbid": "128ca666-74c8-4cf4-a799-57d83d86fe39",
+    "artistMbid": "6413506f-e22b-412c-9f19-239db7df21f2"
   },
   "lastfm": {
     "id": "Mary+Mary/_/Shackles+(Praise+You)",

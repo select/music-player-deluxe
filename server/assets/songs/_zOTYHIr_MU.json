@@ -13,8 +13,6 @@
     "youtube": "_zOTYHIr_MU",
     "youtubeMusic": "_zOTYHIr_MU"
   },
-  "mbid": "177a0c78-ae3f-48d0-8c8c-29dcb7715554",
-  "artistMbid": "0b382ebc-9813-4162-b856-b4eaa26883c7",
   "musicbrainz": {
     "artistTags": [
       "ambient",
@@ -33,7 +31,9 @@
       "downtempo",
       "dub",
       "electronic"
-    ]
+    ],
+    "trackMbid": "177a0c78-ae3f-48d0-8c8c-29dcb7715554",
+    "artistMbid": "0b382ebc-9813-4162-b856-b4eaa26883c7"
   },
   "lastfm": {
     "id": "Kaminanda/_/The+Yum+Factor",

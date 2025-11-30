@@ -1,11 +1,9 @@
 {
-  "mbid": "795cf9d8-109e-4a40-84f6-f58d22f0bcaa",
   "title": "Rust (feat. Tom Misch)",
   "artist": "Yussef Dayes",
   "duration": 239,
   "youtubeId": "YASaUI9bhQY",
   "lastFetched": "2025-11-23T16:41:56.959Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0C31XSR3G",
     "amazonStore": "B0C31XSR3G",
@@ -18,7 +16,6 @@
     "youtube": "YASaUI9bhQY",
     "youtubeMusic": "YASaUI9bhQY"
   },
-  "artistMbid": "fdbffd97-c991-433c-9137-cafee3ded97a",
   "musicbrainz": {
     "artistTags": [
       "contemporary jazz",
@@ -27,7 +24,10 @@
     "artistGenres": [
       "contemporary jazz",
       "jazz"
-    ]
+    ],
+    "trackMbid": "795cf9d8-109e-4a40-84f6-f58d22f0bcaa",
+    "artistMbid": "fdbffd97-c991-433c-9137-cafee3ded97a",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Yussef+Dayes/_/Rust+(feat.+Tom+Misch)",

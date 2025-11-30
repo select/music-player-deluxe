@@ -1,9 +1,6 @@
 {
-  "mbid": "d638d258-a973-48ff-a3fb-b941f6ba530a",
   "title": "Tia",
   "artist": "Artur Nunes",
-  "artistMbid": "e6d56982-effc-41dc-8d70-0b3650052b7e",
-  "releaseCount": 2,
   "duration": 223,
   "youtubeId": "XCi4LVt-Ais",
   "lastFetched": "2025-11-19T05:30:06.471Z",
@@ -28,5 +25,10 @@
       "ethnic",
       "frupbeat"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d638d258-a973-48ff-a3fb-b941f6ba530a",
+    "artistMbid": "e6d56982-effc-41dc-8d70-0b3650052b7e",
+    "releaseCount": 2
   }
 }

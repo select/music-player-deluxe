@@ -12,8 +12,6 @@
     "youtube": "z38hk2k8idQ",
     "youtubeMusic": "z38hk2k8idQ"
   },
-  "mbid": "6c99ccaa-d81e-31b9-9295-5864bb8e3913",
-  "artistMbid": "802d971d-5fb1-4ca1-8e56-69c64122d957",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -31,7 +29,9 @@
       "electronic",
       "experimental electronic",
       "experimental rock"
-    ]
+    ],
+    "trackMbid": "6c99ccaa-d81e-31b9-9295-5864bb8e3913",
+    "artistMbid": "802d971d-5fb1-4ca1-8e56-69c64122d957"
   },
   "lastfm": {
     "id": "Silver+Apples/_/Ruby",

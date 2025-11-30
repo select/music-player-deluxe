@@ -18,8 +18,6 @@
     "youtube": "diIFhc_Kzng",
     "youtubeMusic": "diIFhc_Kzng"
   },
-  "mbid": "079b495f-f4af-4878-a036-d0bcb0df65f8",
-  "artistMbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
   "musicbrainz": {
     "tags": [
       "rnb",
@@ -27,7 +25,9 @@
       "alternative rnb",
       "<3",
       "Frank Ocean"
-    ]
+    ],
+    "trackMbid": "079b495f-f4af-4878-a036-d0bcb0df65f8",
+    "artistMbid": "e520459c-dff4-491d-a6e4-c97be35e0044"
   },
   "lastfm": {
     "id": "Frank+Ocean/_/Nikes",

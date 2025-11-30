@@ -1,7 +1,7 @@
 {
   "youtubeId": "GTISI3Bg4Mc",
   "title": "Grandson - Best Friends (Official Audio)",
-  "lastFetched": "2025-11-30T17:23:22.328Z",
+  "lastFetched": "2025-11-30T19:21:14.128Z",
   "ai": {
     "title": "Best Friends",
     "artist": "Grandson"
@@ -20,6 +20,18 @@
       "alternative",
       "my top songs",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7c71f032-7729-464c-8d42-041e5a853de6",
+    "artistMbid": "cc699fe3-db51-4837-928f-8f712c61a01a",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "indie rock",
+      "nu metal",
+      "political hip hop",
+      "rap rock"
     ]
   }
 }

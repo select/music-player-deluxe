@@ -3,8 +3,6 @@
   "title": "Lose Yourself",
   "artist": "Eminem",
   "lastFetched": "2025-11-19T07:20:34.326Z",
-  "mbid": "727c60cd-f92b-3c8c-b813-ee5a61fd3a62",
-  "artistMbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
   "musicbrainz": {
     "tags": [
       "rap",
@@ -12,7 +10,9 @@
       "Eminem",
       "Soundtrack",
       "hip hop"
-    ]
+    ],
+    "trackMbid": "727c60cd-f92b-3c8c-b813-ee5a61fd3a62",
+    "artistMbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4"
   },
   "lastfm": {
     "id": "Eminem/_/Lose+Yourself",

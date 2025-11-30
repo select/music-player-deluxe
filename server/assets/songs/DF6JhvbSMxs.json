@@ -17,8 +17,6 @@
     "youtube": "DF6JhvbSMxs",
     "youtubeMusic": "DF6JhvbSMxs"
   },
-  "mbid": "0688736f-cca3-430e-810b-43ae6b0aebc3",
-  "artistMbid": "6d230d98-fb8d-4421-a6e8-daca4e55d53e",
   "musicbrainz": {
     "artistTags": [
       "folktronica",
@@ -29,7 +27,9 @@
       "folktronica",
       "indie folk",
       "indie pop"
-    ]
+    ],
+    "trackMbid": "0688736f-cca3-430e-810b-43ae6b0aebc3",
+    "artistMbid": "6d230d98-fb8d-4421-a6e8-daca4e55d53e"
   },
   "lastfm": {
     "id": "Milky+Chance/_/Synchronize",

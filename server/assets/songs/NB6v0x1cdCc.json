@@ -11,8 +11,6 @@
     "youtube": "NB6v0x1cdCc",
     "youtubeMusic": "NB6v0x1cdCc"
   },
-  "mbid": "92757c8f-cd53-3168-90ae-f0a16da18e17",
-  "artistMbid": "d34516e1-b370-4b97-addd-6363ef0e9ecc",
   "lastfm": {
     "id": "Passafire/_/Carouser",
     "listeners": 2810,
@@ -23,5 +21,9 @@
       "reggae-rock",
       "california reggae"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "92757c8f-cd53-3168-90ae-f0a16da18e17",
+    "artistMbid": "d34516e1-b370-4b97-addd-6363ef0e9ecc"
   }
 }

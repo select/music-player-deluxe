@@ -17,8 +17,6 @@
     "youtube": "rtL5oMyBHPs",
     "youtubeMusic": "rtL5oMyBHPs"
   },
-  "mbid": "364a10df-d8f5-4578-a1fb-92b3b2f4fbf8",
-  "artistMbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
   "musicbrainz": {
     "tags": [
       "synthpop",
@@ -26,7 +24,9 @@
       "Neo-Psychedelia",
       "indietronica",
       "2010s"
-    ]
+    ],
+    "trackMbid": "364a10df-d8f5-4578-a1fb-92b3b2f4fbf8",
+    "artistMbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc"
   },
   "lastfm": {
     "id": "MGMT/_/Little+Dark+Age",

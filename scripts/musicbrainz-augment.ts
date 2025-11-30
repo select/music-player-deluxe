@@ -1,7 +1,21 @@
+#!/usr/bin/env node
+
+import * as fs from "fs";
+import * as path from "path";
+import { fileURLToPath } from "url";
 import { MusicBrainzApi } from "musicbrainz-api";
-import { promises as fs } from "fs";
-import { join } from "path";
-import type { SongMetaData } from "../app/types";
+import type { Playlist, Video, SongMetaData } from "../app/types/playlist.js";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const PLAYLIST_FILE = path.join(
+	__dirname,
+	"../public/playlist/PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx.json",
+);
+const FAIL_FILE = path.join(__dirname, "../data/musicbrainz-fail.json");
+const SONGS_DIR = path.join(__dirname, "../server/assets/songs");
+const RATE_LIMIT_MS = 500;
 
 const mbApi = new MusicBrainzApi({
 	appName: "MusicPlaylistView",
@@ -9,381 +23,453 @@ const mbApi = new MusicBrainzApi({
 	appContactInfo: "contact@example.com",
 });
 
-// Rate limiting utility
-const delay = (ms: number): Promise<void> =>
-	new Promise((resolve) => setTimeout(resolve, ms));
+interface FailData {
+	failedIds: string[];
+}
 
-/**
- * Fetches MusicBrainz metadata (tags, genres) for recording and artist
- * @param mbid - The MusicBrainz recording ID
- * @param artistMbid - The MusicBrainz artist ID (optional)
- * @returns MusicBrainz metadata object with tags and genres
- */
-async function fetchMusicBrainzMetadata(
-	mbid: string,
-	artistMbid?: string,
+// Load playlist data but read only a small portion to avoid memory issues
+function loadPlaylistVideos(): Video[] {
+	try {
+		const data = fs.readFileSync(PLAYLIST_FILE, "utf8");
+		const playlist = JSON.parse(data) as Playlist;
+		return playlist.videos;
+	} catch (error) {
+		console.error("Error loading playlist:", (error as Error).message);
+		process.exit(1);
+	}
+}
+
+// Load or create fail tracking file
+function loadFailFile(): FailData {
+	try {
+		if (fs.existsSync(FAIL_FILE)) {
+			const data = fs.readFileSync(FAIL_FILE, "utf8");
+			return JSON.parse(data) as FailData;
+		}
+		return { failedIds: [] };
+	} catch (error) {
+		console.warn(
+			"Error loading fail file, starting fresh:",
+			(error as Error).message,
+		);
+		return { failedIds: [] };
+	}
+}
+
+// Save fail tracking file
+function saveFailFile(failData: FailData): void {
+	try {
+		fs.writeFileSync(FAIL_FILE, JSON.stringify(failData, null, 2));
+	} catch (error) {
+		console.error("Error saving fail file:", (error as Error).message);
+	}
+}
+
+// Load song metadata file
+function loadSongMetadata(youtubeId: string): SongMetaData | null {
+	const songFilePath = path.join(SONGS_DIR, `${youtubeId}.json`);
+	try {
+		if (fs.existsSync(songFilePath)) {
+			const data = fs.readFileSync(songFilePath, "utf8");
+			return JSON.parse(data) as SongMetaData;
+		}
+		return null;
+	} catch (error) {
+		console.warn(
+			`Error loading song metadata for ${youtubeId}:`,
+			(error as Error).message,
+		);
+		return null;
+	}
+}
+
+// Save song metadata file
+function saveSongMetadata(youtubeId: string, metadata: SongMetaData): void {
+	const songFilePath = path.join(SONGS_DIR, `${youtubeId}.json`);
+	try {
+		fs.writeFileSync(songFilePath, JSON.stringify(metadata, null, 2));
+	} catch (error) {
+		console.error(
+			`Error saving song metadata for ${youtubeId}:`,
+			(error as Error).message,
+		);
+	}
+}
+
+// Get detailed MusicBrainz data including genres
+async function getMusicBrainzDetails(
+	trackMbid: string,
+	artistMbid: string,
 ): Promise<{
-	tags?: string[];
+	genres: string[];
+	artistGenres: string[];
+	releaseCount: number;
+} | null> {
+	try {
+		// Get recording details with genres
+		const recordingData = await mbApi.lookup("recording", trackMbid, [
+			"releases",
+			"genres",
+		]);
+
+		// Small delay between API calls to avoid rate limiting
+		await sleep(200);
+
+		// Get artist details with genres
+		const artistData = await mbApi.lookup("artist", artistMbid, ["genres"]);
+
+		const genres =
+			(recordingData as any).genres?.map((genre: any) => genre.name) || [];
+		const artistGenres =
+			(artistData as any).genres?.map((genre: any) => genre.name) || [];
+		const releaseCount = recordingData.releases?.length || 0;
+
+		return {
+			genres,
+			artistGenres,
+			releaseCount,
+		};
+	} catch (error) {
+		console.warn(
+			"   Failed to fetch MusicBrainz details:",
+			(error as Error).message,
+		);
+		return null;
+	}
+}
+
+// Search MusicBrainz for exact match
+async function searchMusicBrainz(
+	artist: string,
+	title: string,
+): Promise<{
+	trackMbid: string;
+	artistMbid: string;
+	releaseCount: number;
 	genres?: string[];
-	artistTags?: string[];
 	artistGenres?: string[];
 } | null> {
 	try {
-		const metadata: {
-			tags?: string[];
-			genres?: string[];
-			artistTags?: string[];
-			artistGenres?: string[];
-		} = {};
+		const searchQuery = `recording:"${title}" AND artist:"${artist}"`;
 
-		// Fetch recording data with tags and genres
-		let recordingData: any = null;
-		try {
-			recordingData = await mbApi.lookup("recording", mbid, ["tags", "genres"]);
-		} catch (error) {
-			console.log(`Recording lookup failed for ${mbid}, trying as track ID...`);
+		const searchResults = await mbApi.search("recording", {
+			query: searchQuery,
+			limit: 10,
+		});
 
-			// If recording lookup fails, try using the ID as a track ID
-			try {
-				const trackData = await mbApi.lookup("track", mbid, ["recording"]);
-				if (trackData && trackData.recording && trackData.recording.id) {
-					const actualRecordingId = trackData.recording.id;
-					console.log(
-						`Found recording ID ${actualRecordingId} from track ${mbid}`,
-					);
-
-					// Update the file to store the old ID as trackMbid and the recording ID as mbid
-					recordingData = await mbApi.lookup("recording", actualRecordingId, [
-						"tags",
-						"genres",
-					]);
-
-					// Return special object indicating we need to update the file
-					const result = await fetchMusicBrainzMetadata(
-						actualRecordingId,
-						artistMbid,
-					);
-					if (result) {
-						return {
-							...result,
-							_needsIdUpdate: true,
-							_oldId: mbid,
-							_newRecordingId: actualRecordingId,
-						} as any;
-					}
-				}
-			} catch (trackError) {
-				console.error(`Both recording and track lookup failed for ${mbid}`);
-				return null;
-			}
+		if (!searchResults.recordings || searchResults.recordings.length === 0) {
+			console.log(`   No recordings found for "${artist} - ${title}"`);
+			return null;
 		}
 
-		if (recordingData) {
-			// Extract tags
-			if (recordingData.tags && recordingData.tags.length > 0) {
-				metadata.tags = recordingData.tags
-					.filter((tag: any) => tag.count >= 1)
-					.map((tag: any) => tag.name)
-					.slice(0, 10); // Limit to top 10 tags
-			}
-
-			// Extract genres
-			if (recordingData.genres && recordingData.genres.length > 0) {
-				metadata.genres = recordingData.genres
-					.filter((genre: any) => genre.count >= 1)
-					.map((genre: any) => genre.name)
-					.slice(0, 5); // Limit to top 5 genres
-			}
-		}
-
-		// Fetch artist data if artistMbid is provided
-		if (artistMbid) {
+		// Find exact match and get release counts
+		const candidates: Array<{
+			id: string;
+			title: string;
+			artist: string | undefined;
+			artistMbid: string | undefined;
+			releaseCount: number;
+			score: number;
+			exactMatch: boolean;
+		} | null> = [];
+		for (const recording of searchResults.recordings) {
 			try {
-				const artistData = await mbApi.lookup("artist", artistMbid, [
-					"genres",
-					"tags",
+				// Small delay between API calls to avoid rate limiting
+				await sleep(200);
+
+				// Get full recording details with releases
+				const fullRecording = await mbApi.lookup("recording", recording.id, [
+					"releases",
 				]);
 
-				// Extract artist tags
-				if (artistData && artistData.tags && artistData.tags.length > 0) {
-					metadata.artistTags = artistData.tags
-						.filter((tag: any) => tag.count >= 1)
-						.map((tag: any) => tag.name)
-						.slice(0, 10); // Limit to top 10 artist tags
-				}
+				const releaseCount = fullRecording.releases?.length || 0;
+				const artistMbid = recording["artist-credit"]?.[0]?.artist?.id;
 
-				// Extract artist genres
-				if (artistData && artistData.genres && artistData.genres.length > 0) {
-					metadata.artistGenres = artistData.genres
-						.filter((genre: any) => genre.count >= 1)
-						.map((genre: any) => genre.name)
-						.slice(0, 5); // Limit to top 5 artist genres
-				}
-			} catch (artistError) {
-				console.warn(`Failed to fetch artist data for ${artistMbid}`);
+				// Check for exact match
+				const recordingTitle = recording.title?.toLowerCase().trim();
+				const recordingArtist = recording["artist-credit"]?.[0]?.name
+					?.toLowerCase()
+					.trim();
+				const searchTitle = title.toLowerCase().trim();
+				const searchArtist = artist.toLowerCase().trim();
+
+				const exactMatch =
+					recordingTitle === searchTitle && recordingArtist === searchArtist;
+
+				candidates.push({
+					id: recording.id,
+					title: recording.title,
+					artist: recording["artist-credit"]?.[0]?.name,
+					artistMbid,
+					releaseCount,
+					score: recording.score || 0,
+					exactMatch,
+				});
+			} catch (lookupError) {
+				console.warn(
+					`Failed to lookup recording ${recording.id}:`,
+					lookupError,
+				);
+				candidates.push(null);
 			}
 		}
 
-		return Object.keys(metadata).length > 0 ? metadata : null;
-	} catch (error) {
-		console.error(`Failed to fetch MusicBrainz metadata for ${mbid}:`, error);
-		return null;
-	}
-}
-
-/**
- * Fetches artist MBID for a recording using MusicBrainz API
- * @param recordingMbid - The MusicBrainz recording ID
- * @returns Artist MBID or null if not found
- */
-async function fetchArtistMbidFromRecording(
-	recordingMbid: string,
-): Promise<string | null> {
-	try {
-		const recordingData = (await mbApi.lookup("recording", recordingMbid, [
-			"artist-credits",
-		])) as any;
-
-		if (
-			recordingData &&
-			recordingData["artist-credit"] &&
-			recordingData["artist-credit"].length > 0
-		) {
-			return recordingData["artist-credit"][0].artist.id || null;
-		}
-
-		return null;
-	} catch (error) {
-		console.error(
-			`Failed to fetch artist MBID for recording ${recordingMbid}:`,
-			error,
+		// Filter out failed lookups and find exact matches
+		const validCandidates = candidates.filter(
+			(candidate) => candidate !== null,
 		);
-		return null;
-	}
-}
-
-/**
- * Finds songs that have mbid and/or artistMbid but are missing MusicBrainz metadata
- */
-async function findSongsForMusicBrainzAugmentation(): Promise<string[]> {
-	try {
-		const songsDir = join(process.cwd(), "server", "assets", "songs");
-
-		// Check if songs directory exists
-		try {
-			await fs.access(songsDir);
-		} catch {
-			console.error("Songs directory not found:", songsDir);
-			return [];
-		}
-
-		const songFiles = await fs.readdir(songsDir);
-		const jsonFiles = songFiles.filter((songFile) =>
-			songFile.endsWith(".json"),
+		const exactMatches = validCandidates.filter(
+			(candidate) => candidate.exactMatch,
 		);
 
-		console.log(`Found ${jsonFiles.length} JSON files to process...`);
-
-		const fileResults = await Promise.allSettled(
-			jsonFiles.map(async (songFile) => {
-				const filePath = join(songsDir, songFile);
-				try {
-					const fileContent = await fs.readFile(filePath, "utf-8");
-					const songData: SongMetaData = JSON.parse(fileContent);
-					return { songData, filePath, fileName: songFile };
-				} catch (error) {
-					console.warn(`Failed to parse ${songFile}:`, error);
-					return null;
-				}
-			}),
-		);
-
-		const songsNeedingMBData = fileResults
-			.filter(
-				(
-					result,
-				): result is PromiseFulfilledResult<{
-					songData: SongMetaData;
-					filePath: string;
-					fileName: string;
-				} | null> => result.status === "fulfilled" && result.value !== null,
-			)
-			.map((result) => result.value!)
-			.filter(({ songData }) => {
-				// Has mbid but missing musicbrainz metadata OR missing artistMbid
-				return songData.mbid && (!songData.musicbrainz || !songData.artistMbid);
-			})
-			.map(
-				({ songData, fileName }) =>
-					songData.youtubeId || fileName.replace(".json", ""),
+		if (exactMatches.length === 0) {
+			console.log(
+				`   Found ${validCandidates.length} recordings but no exact matches`,
 			);
+			return null;
+		}
 
-		return songsNeedingMBData;
+		// Sort by release count (descending) then by score
+		const bestMatch = exactMatches.sort((a, b) => {
+			if (b.releaseCount !== a.releaseCount) {
+				return b.releaseCount - a.releaseCount;
+			}
+			return b.score - a.score;
+		})[0];
+
+		if (!bestMatch.artistMbid) {
+			console.log(`   No artist MBID found for best match: ${bestMatch.title}`);
+			return null;
+		}
+
+		// Get additional details including genres
+		console.log("   Fetching detailed MusicBrainz data...");
+		const details = await getMusicBrainzDetails(
+			bestMatch.id,
+			bestMatch.artistMbid,
+		);
+
+		if (!details) {
+			console.log(
+				"   Warning: Failed to fetch detailed data, using basic info only",
+			);
+			return {
+				trackMbid: bestMatch.id,
+				artistMbid: bestMatch.artistMbid,
+				releaseCount: bestMatch.releaseCount,
+				genres: undefined,
+				artistGenres: undefined,
+			};
+		}
+
+		console.log(
+			`   Found ${details.genres.length} track genres and ${details.artistGenres.length} artist genres`,
+		);
+
+		return {
+			trackMbid: bestMatch.id,
+			artistMbid: bestMatch.artistMbid,
+			releaseCount: details.releaseCount,
+			genres: details.genres.length > 0 ? details.genres : undefined,
+			artistGenres:
+				details.artistGenres.length > 0 ? details.artistGenres : undefined,
+		};
 	} catch (error) {
-		console.error("Error scanning songs directory:", error);
-		return [];
+		console.error("MusicBrainz search error:", error);
+		return null;
 	}
 }
 
-/**
- * Augments songs with MusicBrainz metadata (tags, genres) with rate limiting
- */
-async function augmentSongsWithMusicBrainzData(
-	youtubeIds: string[],
-): Promise<void> {
-	const songsDir = join(process.cwd(), "server", "assets", "songs");
+// Sleep function for rate limiting
+function sleep(ms: number): Promise<void> {
+	return new Promise((resolve) => setTimeout(resolve, ms));
+}
 
+async function main(): Promise<void> {
+	console.log("Starting musicbrainz-augment-search script...");
 	console.log(
-		`\nAugmenting ${youtubeIds.length} songs with MusicBrainz metadata (1 request per second)...\n`,
+		`Rate limit: ${RATE_LIMIT_MS / 1000} seconds between requests (increased for genre fetching)`,
 	);
 
-	for (const [index, youtubeId] of youtubeIds.entries()) {
-		try {
-			const filePath = join(songsDir, `${youtubeId}.json`);
-			const fileContent = await fs.readFile(filePath, "utf-8");
-			let songData: SongMetaData = JSON.parse(fileContent);
+	// Ensure songs directory exists
+	if (!fs.existsSync(SONGS_DIR)) {
+		fs.mkdirSync(SONGS_DIR, { recursive: true });
+		console.log(`Created songs directory: ${SONGS_DIR}`);
+	}
 
-			if (!songData.mbid) {
-				console.log(
-					`${index + 1}/${youtubeIds.length} ${youtubeId}: No mbid found, skipping`,
-				);
-				continue;
+	// Load data
+	const videos = loadPlaylistVideos();
+	const failData = loadFailFile();
+
+	console.log(`Loaded playlist with ${videos.length} videos`);
+	console.log(`Found ${failData.failedIds.length} previously failed IDs`);
+
+	// Filter videos that need MusicBrainz augmentation
+	const videosToProcess: Array<{
+		video: Video;
+		artist: string;
+		title: string;
+		source: string;
+	}> = [];
+
+	for (const video of videos) {
+		if (failData.failedIds.includes(video.id)) {
+			continue;
+		}
+
+		// Check if video already has MusicBrainz data in song file
+		const existingSongMetadata = loadSongMetadata(video.id);
+		if (existingSongMetadata?.musicbrainz?.trackMbid) {
+			continue;
+		}
+
+		let artist: string | undefined;
+		let title: string | undefined;
+		let source: string = "";
+
+		// First try from playlist entry
+		if (video.artist && video.musicTitle) {
+			artist = video.artist;
+			title = video.musicTitle;
+			source = "playlist";
+		} else {
+			// Try from song metadata file with AI data
+			const songMetadata = loadSongMetadata(video.id);
+			if (songMetadata?.ai?.title && songMetadata?.ai?.artist) {
+				artist = songMetadata.ai.artist;
+				title = songMetadata.ai.title;
+				source = "AI metadata";
 			}
+		}
 
-			console.log(
-				`${index + 1}/${youtubeIds.length} ${youtubeId}: Processing MusicBrainz data...`,
-			);
-
-			let needsFileUpdate = false;
-
-			// First, check if we need to fetch artist MBID
-			if (!songData.artistMbid) {
-				console.log(`   Fetching missing artist MBID...`);
-				const artistMbid = await fetchArtistMbidFromRecording(songData.mbid);
-
-				if (artistMbid) {
-					songData.artistMbid = artistMbid;
-					needsFileUpdate = true;
-					console.log(`   ✅ Found artistMbid: ${artistMbid}`);
-
-					// Add a small delay between artist lookup and metadata fetch
-					await delay(1000);
-				} else {
-					console.log(`   ❌ Could not fetch artist MBID`);
-				}
-			}
-
-			// Then fetch full metadata if missing
-			if (!songData.musicbrainz) {
-				console.log(`   Fetching MusicBrainz metadata...`);
-				const mbMetadata = await fetchMusicBrainzMetadata(
-					songData.mbid,
-					songData.artistMbid,
-				);
-
-				if (mbMetadata) {
-					needsFileUpdate = true;
-
-					// Check if we need to update IDs (when track ID was converted to recording ID)
-					if ((mbMetadata as any)._needsIdUpdate) {
-						const { _oldId, _newRecordingId, ...cleanMetadata } =
-							mbMetadata as any;
-						songData = {
-							...songData,
-							trackMbid: _oldId,
-							mbid: _newRecordingId,
-							musicbrainz: cleanMetadata,
-						};
-						console.log(
-							`   🔄 Updated IDs: track=${_oldId}, recording=${_newRecordingId}`,
-						);
-					} else {
-						songData.musicbrainz = mbMetadata;
-					}
-
-					const metadataInfo = [];
-					if (mbMetadata.tags?.length)
-						metadataInfo.push(`${mbMetadata.tags.length} tags`);
-					if (mbMetadata.genres?.length)
-						metadataInfo.push(`${mbMetadata.genres.length} genres`);
-					if (mbMetadata.artistTags?.length)
-						metadataInfo.push(`${mbMetadata.artistTags.length} artist tags`);
-					if (mbMetadata.artistGenres?.length)
-						metadataInfo.push(
-							`${mbMetadata.artistGenres.length} artist genres`,
-						);
-
-					console.log(`   ✅ Metadata: ${metadataInfo.join(", ")}`);
-				} else {
-					console.log(`   ❌ Could not fetch MusicBrainz metadata`);
-				}
-			} else {
-				console.log(`   ℹ️  Already has MusicBrainz metadata`);
-			}
-
-			// Update file if any changes were made
-			if (needsFileUpdate) {
-				songData.lastFetched = new Date().toISOString();
-				await fs.writeFile(
-					filePath,
-					JSON.stringify(songData, null, 2),
-					"utf-8",
-				);
-				console.log(`   💾 File updated`);
-			}
-
-			// Rate limit: wait 1 second between requests (except for the last one)
-			if (index < youtubeIds.length - 1) {
-				await delay(1000);
-			}
-		} catch (error) {
-			console.error(
-				`${index + 1}/${youtubeIds.length} ${youtubeId}: Error processing -`,
-				error,
-			);
+		if (artist && title) {
+			videosToProcess.push({
+				video,
+				artist,
+				title,
+				source,
+			});
 		}
 	}
-}
 
-/**
- * Main execution function
- */
-async function main(): Promise<void> {
-	const args = process.argv.slice(2);
-	const shouldFetch = args.includes("--fetch");
+	console.log(`Found ${videosToProcess.length} videos to process`);
 
-	// Unified MusicBrainz augmentation workflow
-	const songsForAugmentation = await findSongsForMusicBrainzAugmentation();
-
-	if (songsForAugmentation.length === 0) {
-		console.log("No songs found that need MusicBrainz data processing");
+	if (videosToProcess.length === 0) {
+		console.log("No videos to process. Exiting.");
 		return;
 	}
 
-	console.log(
-		`Found ${songsForAugmentation.length} songs needing MusicBrainz data (missing metadata or artistMbid):`,
-	);
-	songsForAugmentation.forEach((id) => console.log(id));
+	let processedCount = 0;
+	let successCount = 0;
+	let failCount = 0;
 
-	if (shouldFetch) {
-		await augmentSongsWithMusicBrainzData(songsForAugmentation);
+	for (const { video, artist, title, source } of videosToProcess) {
+		processedCount++;
 		console.log(
-			"\n🎉 Finished processing MusicBrainz data (artist MBIDs + metadata)!",
+			`\n[${processedCount}/${videosToProcess.length}] Processing: ${video.id}`,
 		);
-	} else {
-		console.log(
-			"\nTo fetch and update MusicBrainz data, run with --fetch flag",
-		);
+
+		console.log(`Title: ${video.title}`);
+		console.log(`Extracted (${source}) - Artist: ${artist}, Title: ${title}`);
+
+		try {
+			const result = await searchMusicBrainz(artist, title);
+
+			if (result) {
+				successCount++;
+				console.log("✅ Success! Found MusicBrainz match.");
+				console.log(`   Track MBID: ${result.trackMbid}`);
+				console.log(`   Artist MBID: ${result.artistMbid}`);
+				console.log(`   Release Count: ${result.releaseCount}`);
+				console.log(`   Genres: ${result.genres?.join(", ") || "None"}`);
+				console.log(
+					`   Artist Genres: ${result.artistGenres?.join(", ") || "None"}`,
+				);
+
+				// Load or create song metadata file
+				let songMetadata = loadSongMetadata(video.id);
+				if (!songMetadata) {
+					songMetadata = {
+						youtubeId: video.id,
+						title: video.title,
+						lastFetched: new Date().toISOString(),
+					};
+				}
+
+				// Add MusicBrainz data to song file using new nested structure
+				if (!songMetadata.musicbrainz) {
+					songMetadata.musicbrainz = {};
+				}
+				songMetadata.musicbrainz.trackMbid = result.trackMbid;
+				songMetadata.musicbrainz.artistMbid = result.artistMbid;
+				songMetadata.musicbrainz.releaseCount = result.releaseCount;
+				songMetadata.musicbrainz.genres = result.genres;
+				songMetadata.musicbrainz.artistGenres = result.artistGenres;
+				songMetadata.lastFetched = new Date().toISOString();
+
+				// Save updated song metadata
+				saveSongMetadata(video.id, songMetadata);
+				console.log(`   Saved MusicBrainz data to song file ${video.id}`);
+			} else {
+				failCount++;
+				console.log("❌ No exact match found");
+
+				// Add to fail list
+				failData.failedIds.push(video.id);
+				saveFailFile(failData);
+				console.log("   Added to fail list to avoid retrying");
+			}
+		} catch (error) {
+			failCount++;
+			console.log(`❌ Error: ${(error as Error).message}`);
+
+			// Add to fail list for API errors (but not network timeouts)
+			const errorMessage = (error as Error).message;
+			if (
+				!errorMessage.includes("timeout") &&
+				!errorMessage.includes("ENOTFOUND")
+			) {
+				failData.failedIds.push(video.id);
+				saveFailFile(failData);
+				console.log("   Added to fail list to avoid retrying");
+			} else {
+				console.log("   Network error - will retry on next run");
+			}
+		}
+
+		// Rate limiting: wait before next request (except for last item)
+		if (processedCount < videosToProcess.length) {
+			console.log(`⏱️  Waiting ${RATE_LIMIT_MS / 1000} seconds...`);
+			await sleep(RATE_LIMIT_MS);
+		}
 	}
 
-	console.log("\nUsage:");
-	console.log(
-		"  --fetch: Complete MusicBrainz processing (artist MBIDs + metadata)",
-	);
+	console.log("\n=== Summary ===");
+	console.log(`Total processed: ${processedCount}`);
+	console.log(`Successful: ${successCount}`);
+	console.log(`Failed: ${failCount}`);
+	console.log(`Total failed IDs in database: ${failData.failedIds.length}`);
+
+	if (failCount > 0) {
+		console.log(`\nFailed IDs are saved in: ${FAIL_FILE}`);
+	}
+
+	console.log("\nScript completed!");
 }
+
+// Handle graceful shutdown
+process.on("SIGINT", () => {
+	console.log("\n\nReceived SIGINT. Gracefully shutting down...");
+	process.exit(0);
+});
+
+process.on("SIGTERM", () => {
+	console.log("\n\nReceived SIGTERM. Gracefully shutting down...");
+	process.exit(0);
+});
 
 // Run the script
 main().catch((error) => {
-	console.error("Script failed:", error);
+	console.error("Script error:", error);
 	process.exit(1);
 });

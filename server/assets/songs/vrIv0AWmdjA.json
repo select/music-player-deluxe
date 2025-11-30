@@ -12,7 +12,6 @@
     "youtube": "vrIv0AWmdjA",
     "youtubeMusic": "vrIv0AWmdjA"
   },
-  "artistMbid": "a1fcc4a2-291a-49b2-a1e7-eed1f0e99139",
   "lastfm": {
     "id": "Wellmess/_/Closer+to+You",
     "listeners": 710,
@@ -22,5 +21,8 @@
       "alternative rock",
       "sverige"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "a1fcc4a2-291a-49b2-a1e7-eed1f0e99139"
   }
 }

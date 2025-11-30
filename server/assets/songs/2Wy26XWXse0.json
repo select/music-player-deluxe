@@ -19,7 +19,6 @@
     "youtube": "2Wy26XWXse0",
     "youtubeMusic": "2Wy26XWXse0"
   },
-  "artistMbid": "94c338ff-1985-4429-9dc8-997b61bb5932",
   "lastfm": {
     "id": "B.o.B/_/Moody+Bandz",
     "listeners": 360,
@@ -30,5 +29,8 @@
       "hip hop",
       "dirty south"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "94c338ff-1985-4429-9dc8-997b61bb5932"
   }
 }

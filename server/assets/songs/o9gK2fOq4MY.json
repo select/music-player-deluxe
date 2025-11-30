@@ -16,8 +16,6 @@
     "youtube": "o9gK2fOq4MY",
     "youtubeMusic": "o9gK2fOq4MY"
   },
-  "mbid": "239e2d78-edfe-4787-8c8b-4a913bee1fc1",
-  "artistMbid": "a94a7155-c79d-4409-9fcf-220cb0e4dc3a",
   "musicbrainz": {
     "artistTags": [
       "80s",
@@ -37,7 +35,9 @@
       "art rock",
       "funk rock",
       "new wave"
-    ]
+    ],
+    "trackMbid": "239e2d78-edfe-4787-8c8b-4a913bee1fc1",
+    "artistMbid": "a94a7155-c79d-4409-9fcf-220cb0e4dc3a"
   },
   "lastfm": {
     "id": "Talking+Heads/_/This+Must+Be+the+Place+(Naive+Melody)",

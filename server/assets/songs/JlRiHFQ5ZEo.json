@@ -13,8 +13,6 @@
     "youtube": "JlRiHFQ5ZEo",
     "youtubeMusic": "JlRiHFQ5ZEo"
   },
-  "mbid": "00b53065-b7e3-46f8-ae25-529a12ee944e",
-  "artistMbid": "ec406531-3c98-4d48-9c19-53015c6dabfc",
   "lastfm": {
     "id": "Scar/_/Old+Ground",
     "listeners": 253,
@@ -26,5 +24,9 @@
       "uk garage",
       "footwork"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "00b53065-b7e3-46f8-ae25-529a12ee944e",
+    "artistMbid": "ec406531-3c98-4d48-9c19-53015c6dabfc"
   }
 }

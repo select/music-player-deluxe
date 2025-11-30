@@ -2,7 +2,7 @@
   "youtubeId": "cVd5RAVHSD8",
   "title": "Skyline Pigeon",
   "artist": "Elton John",
-  "lastFetched": "2025-11-30T17:43:24.245Z",
+  "lastFetched": "2025-11-30T19:22:28.340Z",
   "odesli": {
     "amazonMusic": "B07MP5SHK3",
     "amazonStore": "B07MP5SHK3",
@@ -27,6 +27,29 @@
       "60s",
       "british",
       "elton john"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "da9bb66f-c7f5-4b1f-ae60-6b36c7ae4bab",
+    "artistMbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+    "releaseCount": 21,
+    "genres": [
+      "classic rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "singer-songwriter",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "piano rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "rock and roll",
+      "singer-songwriter",
+      "soft rock"
     ]
   }
 }

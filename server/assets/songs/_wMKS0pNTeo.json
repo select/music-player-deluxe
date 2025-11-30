@@ -12,8 +12,6 @@
     "youtube": "_wMKS0pNTeo",
     "youtubeMusic": "_wMKS0pNTeo"
   },
-  "mbid": "07cb59f6-c241-4048-8e6c-088cd7d742fa",
-  "artistMbid": "80587e18-8f29-4f09-a9a7-2abb911247e3",
   "lastfm": {
     "id": "Addi+Blanco/_/Mama+war+ne+Schlampe",
     "listeners": 2269,
@@ -23,5 +21,9 @@
       "hip-hop",
       "deutsch"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "07cb59f6-c241-4048-8e6c-088cd7d742fa",
+    "artistMbid": "80587e18-8f29-4f09-a9a7-2abb911247e3"
   }
 }

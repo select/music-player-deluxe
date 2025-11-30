@@ -11,8 +11,6 @@
     "youtube": "TSE9vKCMxuI",
     "youtubeMusic": "TSE9vKCMxuI"
   },
-  "mbid": "1ecb6fbe-f9c8-4bf3-be8f-d64f0f744a95",
-  "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
   "musicbrainz": {
     "artistTags": [
       "alternative dance",
@@ -32,7 +30,9 @@
       "alternative rock",
       "art rock",
       "neo-progressive rock"
-    ]
+    ],
+    "trackMbid": "1ecb6fbe-f9c8-4bf3-be8f-d64f0f744a95",
+    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090"
   },
   "lastfm": {
     "id": "Muse/_/Fillip",

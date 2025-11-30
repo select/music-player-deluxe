@@ -16,8 +16,6 @@
     "youtube": "8SGSfifQLGw",
     "youtubeMusic": "8SGSfifQLGw"
   },
-  "mbid": "b8812497-a513-43d2-949a-c72f997400d7",
-  "artistMbid": "42e8e932-4eb2-4ec0-8d6a-83bd19e7ec8f",
   "musicbrainz": {
     "artistTags": [
       "folk",
@@ -26,7 +24,9 @@
     "artistGenres": [
       "folk",
       "worldbeat"
-    ]
+    ],
+    "trackMbid": "b8812497-a513-43d2-949a-c72f997400d7",
+    "artistMbid": "42e8e932-4eb2-4ec0-8d6a-83bd19e7ec8f"
   },
   "lastfm": {
     "id": "I+Muvrini/_/%C3%88+canti",

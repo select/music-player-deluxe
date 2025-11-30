@@ -1,11 +1,9 @@
 {
-  "mbid": "178485f1-f915-4819-ab7e-1eb4d1d73526",
   "title": "Patricia",
   "artist": "Art Pepper",
   "duration": 219,
   "youtubeId": "dEtNa74GU0E",
   "lastFetched": "2025-11-23T16:44:40.335Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0D37GRP9B",
     "amazonStore": "B0D37GRP9B",
@@ -22,7 +20,6 @@
     "youtube": "dEtNa74GU0E",
     "youtubeMusic": "dEtNa74GU0E"
   },
-  "artistMbid": "266b9126-4a40-4b9b-b21e-422d72e64254",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -41,7 +38,10 @@
       "hard bop",
       "jazz",
       "post-bop"
-    ]
+    ],
+    "trackMbid": "178485f1-f915-4819-ab7e-1eb4d1d73526",
+    "artistMbid": "266b9126-4a40-4b9b-b21e-422d72e64254",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Art+Pepper/_/Patricia",

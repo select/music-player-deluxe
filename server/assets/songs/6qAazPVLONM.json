@@ -21,8 +21,6 @@
     "youtube": "6qAazPVLONM",
     "youtubeMusic": "6qAazPVLONM"
   },
-  "mbid": "d73a8e7a-d090-4862-b514-edc448a0fec6",
-  "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
   "musicbrainz": {
     "artistTags": [
       "1960s",
@@ -42,7 +40,9 @@
       "merseybeat",
       "pop",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "d73a8e7a-d090-4862-b514-edc448a0fec6",
+    "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
   },
   "lastfm": {
     "id": "The+Beatles/_/Komm+Gib+Mir+Deine+Hand+(Remastered+2009)",

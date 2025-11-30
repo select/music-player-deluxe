@@ -17,8 +17,6 @@
     "youtube": "fWCZse1iwE0",
     "youtubeMusic": "fWCZse1iwE0"
   },
-  "mbid": "55d6f36a-081c-42ee-b1fd-51de1ef5585d",
-  "artistMbid": "f90e8b26-9e52-4669-a5c9-e28529c47894",
   "musicbrainz": {
     "tags": [
       "rap",
@@ -26,7 +24,9 @@
       "Gangsta Rap",
       "90s",
       "hip hop"
-    ]
+    ],
+    "trackMbid": "55d6f36a-081c-42ee-b1fd-51de1ef5585d",
+    "artistMbid": "f90e8b26-9e52-4669-a5c9-e28529c47894"
   },
   "lastfm": {
     "id": "Snoop+Dogg/_/Gin+and+Juice",

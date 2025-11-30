@@ -3,15 +3,15 @@
   "title": "Kingpin",
   "artist": "Dan Structure",
   "lastFetched": "2025-11-23T16:38:25.827Z",
-  "mbid": "aad7ec8c-b07b-4624-ba4b-991a06e3f73d",
-  "artistMbid": "3e2d122f-6864-43b2-acab-d5b92277dba7",
   "musicbrainz": {
     "artistTags": [
       "drum and bass"
     ],
     "artistGenres": [
       "drum and bass"
-    ]
+    ],
+    "trackMbid": "aad7ec8c-b07b-4624-ba4b-991a06e3f73d",
+    "artistMbid": "3e2d122f-6864-43b2-acab-d5b92277dba7"
   },
   "lastfm": {
     "id": "Dan+Structure/_/Kingpin",

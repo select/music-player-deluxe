@@ -13,8 +13,6 @@
     "youtube": "uHELPuoJ3lI",
     "youtubeMusic": "uHELPuoJ3lI"
   },
-  "mbid": "2b6969a6-b94e-4d65-b27f-6d81681041ba",
-  "artistMbid": "768633eb-8810-4fbe-aabb-f891c07d29d3",
   "lastfm": {
     "id": "Salami+Rose+Joe+Louis/_/Always+on+my+Mind",
     "listeners": 12946,
@@ -25,5 +23,9 @@
       "dream pop",
       "lounge"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2b6969a6-b94e-4d65-b27f-6d81681041ba",
+    "artistMbid": "768633eb-8810-4fbe-aabb-f891c07d29d3"
   }
 }

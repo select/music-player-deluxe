@@ -3,8 +3,6 @@
   "title": "Deja Vu",
   "artist": "Spliff",
   "lastFetched": "2025-11-23T16:54:26.195Z",
-  "mbid": "10267d3a-cc3e-4955-a878-b95bbd5acd9f",
-  "artistMbid": "dbec3b6d-a3f6-410b-9fc5-5cf62008c598",
   "musicbrainz": {
     "artistTags": [
       "deutschrock",
@@ -20,7 +18,9 @@
       "new wave",
       "pop",
       "synth-pop"
-    ]
+    ],
+    "trackMbid": "10267d3a-cc3e-4955-a878-b95bbd5acd9f",
+    "artistMbid": "dbec3b6d-a3f6-410b-9fc5-5cf62008c598"
   },
   "lastfm": {
     "id": "Spliff/_/Deja+Vu",

@@ -3,8 +3,6 @@
   "title": "Last Resort",
   "artist": "Papa Roach",
   "lastFetched": "2025-11-19T08:16:09.592Z",
-  "mbid": "93c11c66-d48e-4dab-a065-2c318c95cc93",
-  "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
   "musicbrainz": {
     "tags": [
       "rock",
@@ -12,7 +10,9 @@
       "alternative",
       "metal",
       "Papa Roach"
-    ]
+    ],
+    "trackMbid": "93c11c66-d48e-4dab-a065-2c318c95cc93",
+    "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c"
   },
   "lastfm": {
     "id": "Papa+Roach/_/Last+Resort",

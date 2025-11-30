@@ -16,8 +16,6 @@
     "youtube": "GlkvrYuMmvU",
     "youtubeMusic": "GlkvrYuMmvU"
   },
-  "mbid": "1e29ca86-fe73-4b79-8b8f-2e5b4f0697f9",
-  "artistMbid": "cd8086e3-9249-4d5a-a3a0-a20731c98653",
   "musicbrainz": {
     "artistTags": [
       "funk",
@@ -28,7 +26,9 @@
       "funk",
       "jazz pop",
       "mpb"
-    ]
+    ],
+    "trackMbid": "1e29ca86-fe73-4b79-8b8f-2e5b4f0697f9",
+    "artistMbid": "cd8086e3-9249-4d5a-a3a0-a20731c98653"
   },
   "lastfm": {
     "id": "Ana+Frango+El%C3%A9trico/_/Tem+Certeza%3F",

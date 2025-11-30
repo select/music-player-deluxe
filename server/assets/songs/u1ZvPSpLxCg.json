@@ -16,7 +16,6 @@
     "youtube": "u1ZvPSpLxCg",
     "youtubeMusic": "u1ZvPSpLxCg"
   },
-  "artistMbid": "7c7f9c94-dee8-4903-892b-6cf44652e2de",
   "musicbrainz": {
     "tags": [
       "80s",
@@ -24,7 +23,8 @@
       "pop",
       "synth pop",
       "alternative"
-    ]
+    ],
+    "artistMbid": "7c7f9c94-dee8-4903-892b-6cf44652e2de"
   },
   "lastfm": {
     "id": "Tears+for+Fears/_/Mad+World",

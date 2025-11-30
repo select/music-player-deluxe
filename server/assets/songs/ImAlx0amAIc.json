@@ -9,8 +9,6 @@
     "youtube": "ImAlx0amAIc",
     "youtubeMusic": "ImAlx0amAIc"
   },
-  "mbid": "0e293974-138d-3a5e-b90c-b128317dc489",
-  "artistMbid": "6afd770e-8d2a-4243-b1fc-d9c22f11e428",
   "lastfm": {
     "id": "Norma+Tanega/_/You%27re+Dead",
     "listeners": 199252,
@@ -21,5 +19,9 @@
       "singer-songwriter",
       "60s"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0e293974-138d-3a5e-b90c-b128317dc489",
+    "artistMbid": "6afd770e-8d2a-4243-b1fc-d9c22f11e428"
   }
 }

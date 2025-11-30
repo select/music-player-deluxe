@@ -14,8 +14,6 @@
     "youtube": "6okxuiiHx2w",
     "youtubeMusic": "6okxuiiHx2w"
   },
-  "mbid": "1048b17c-923c-38a8-a520-3e8038e9e864",
-  "artistMbid": "64c9974f-20a9-491d-bd94-2168cd738e2a",
   "musicbrainz": {
     "artistTags": [
       "contemporary r&b",
@@ -34,7 +32,9 @@
       "electro",
       "electronic",
       "french house"
-    ]
+    ],
+    "trackMbid": "1048b17c-923c-38a8-a520-3e8038e9e864",
+    "artistMbid": "64c9974f-20a9-491d-bd94-2168cd738e2a"
   },
   "lastfm": {
     "id": "Breakbot/_/Baby+I%27m+Yours",

@@ -16,8 +16,6 @@
     "youtube": "_USHKQ4Ntc8",
     "youtubeMusic": "_USHKQ4Ntc8"
   },
-  "mbid": "1db364c5-2748-4ce0-b28f-e35434a54acd",
-  "artistMbid": "4898b9ad-f564-4ff1-9046-b1a16dfd5200",
   "musicbrainz": {
     "artistTags": [
       "canadian",
@@ -32,7 +30,9 @@
       "psychedelic",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "1db364c5-2748-4ce0-b28f-e35434a54acd",
+    "artistMbid": "4898b9ad-f564-4ff1-9046-b1a16dfd5200"
   },
   "lastfm": {
     "id": "Black+Mountain/_/Mothers+Of+The+Sun",

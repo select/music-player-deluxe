@@ -9,8 +9,6 @@
     "youtube": "gJ1R8dzN95s",
     "youtubeMusic": "gJ1R8dzN95s"
   },
-  "mbid": "f254a1f4-be8c-40d7-b641-3e95cd7951d2",
-  "artistMbid": "62ce9272-0d54-4ecf-b03b-e7992ae0d320",
   "musicbrainz": {
     "artistTags": [
       "dance",
@@ -28,7 +26,9 @@
       "drum and bass",
       "electronic",
       "house"
-    ]
+    ],
+    "trackMbid": "f254a1f4-be8c-40d7-b641-3e95cd7951d2",
+    "artistMbid": "62ce9272-0d54-4ecf-b03b-e7992ae0d320"
   },
   "lastfm": {
     "id": "Break/_/End+Of+Time",

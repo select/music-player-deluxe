@@ -21,7 +21,6 @@
     "youtube": "u6LahTuw02c",
     "youtubeMusic": "u6LahTuw02c"
   },
-  "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
   "musicbrainz": {
     "tags": [
       "metal",
@@ -29,7 +28,8 @@
       "Progressive metal",
       "I want to have sex with this song",
       "lung clam"
-    ]
+    ],
+    "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
   },
   "lastfm": {
     "id": "Metallica/_/Master+Of+Puppets+(Remastered)",

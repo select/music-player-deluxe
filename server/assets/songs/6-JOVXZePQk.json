@@ -15,8 +15,6 @@
     "youtube": "6-JOVXZePQk",
     "youtubeMusic": "6-JOVXZePQk"
   },
-  "mbid": "5a2d1eec-b948-4c3c-a9ab-fce2553b3979",
-  "artistMbid": "a8ebde98-7e91-46c7-992c-90039ba42017",
   "musicbrainz": {
     "tags": [
       "hip hop",
@@ -44,7 +42,9 @@
       "conscious hip hop",
       "east coast hip hop",
       "hip hop"
-    ]
+    ],
+    "trackMbid": "5a2d1eec-b948-4c3c-a9ab-fce2553b3979",
+    "artistMbid": "a8ebde98-7e91-46c7-992c-90039ba42017"
   },
   "lastfm": {
     "id": "De+La+Soul/_/Ring+Ring+Ring+(Ha+Ha+Hey)",

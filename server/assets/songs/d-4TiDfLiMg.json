@@ -1,9 +1,6 @@
 {
-  "mbid": "aee86048-73fe-4d03-815d-495d416dc85f",
   "title": "Brachland",
   "artist": "Kool Savas",
-  "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da",
-  "releaseCount": 2,
   "duration": 158,
   "youtubeId": "d-4TiDfLiMg",
   "lastFetched": "2025-11-23T16:44:35.354Z",
@@ -16,7 +13,10 @@
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "trackMbid": "aee86048-73fe-4d03-815d-495d416dc85f",
+    "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da",
+    "releaseCount": 2
   },
   "lastfm": {
     "id": "Kool+Savas/_/Brachland",

@@ -20,8 +20,6 @@
     "youtube": "CFlhlZbeKgE",
     "youtubeMusic": "CFlhlZbeKgE"
   },
-  "mbid": "a769dbd6-dbb8-4eee-a051-2279a84003a2",
-  "artistMbid": "cf075492-d880-4afc-b87b-d6b03e33dacc",
   "musicbrainz": {
     "artistTags": [
       "electronic",
@@ -37,7 +35,9 @@
       "experimental",
       "metalcore",
       "post-hardcore"
-    ]
+    ],
+    "trackMbid": "a769dbd6-dbb8-4eee-a051-2279a84003a2",
+    "artistMbid": "cf075492-d880-4afc-b87b-d6b03e33dacc"
   },
   "lastfm": {
     "id": "Electric+Callboy/_/Tekkno+Train",

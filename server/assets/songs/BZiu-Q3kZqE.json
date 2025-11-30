@@ -3,15 +3,15 @@
   "title": "Signs",
   "artist": "Howling",
   "lastFetched": "2025-11-23T16:31:16.296Z",
-  "mbid": "9a2d596b-f051-40d5-8b8d-4fc557a984e2",
-  "artistMbid": "77a678b8-b848-4c08-bbff-f838aea3ad1f",
   "musicbrainz": {
     "artistTags": [
       "electronic"
     ],
     "artistGenres": [
       "electronic"
-    ]
+    ],
+    "trackMbid": "9a2d596b-f051-40d5-8b8d-4fc557a984e2",
+    "artistMbid": "77a678b8-b848-4c08-bbff-f838aea3ad1f"
   },
   "lastfm": {
     "id": "Howling/_/Signs",

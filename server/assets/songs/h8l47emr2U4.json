@@ -1,9 +1,6 @@
 {
-  "mbid": "59e61413-8889-4375-9e2d-edef3d056598",
   "title": "Diamond Head - Remastered 2001",
   "artist": "The Beach Boys",
-  "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
-  "releaseCount": 8,
   "duration": 220,
   "youtubeId": "h8l47emr2U4",
   "lastFetched": "2025-11-19T03:52:28.744Z",
@@ -28,7 +25,10 @@
       "rock & roll",
       "sunshine pop",
       "surf rock"
-    ]
+    ],
+    "trackMbid": "59e61413-8889-4375-9e2d-edef3d056598",
+    "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
+    "releaseCount": 8
   },
   "lastfm": {
     "id": "The+Beach+Boys/_/Diamond+Head+-+Remastered+2001",

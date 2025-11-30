@@ -16,8 +16,6 @@
     "youtube": "4WTt69YO2VI",
     "youtubeMusic": "4WTt69YO2VI"
   },
-  "mbid": "365171e6-34e2-47cf-bd34-ca4194a8f643",
-  "artistMbid": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
   "musicbrainz": {
     "tags": [
       "indie folk",
@@ -25,7 +23,9 @@
       "2017",
       "singer-songwriter",
       "beautiful"
-    ]
+    ],
+    "trackMbid": "365171e6-34e2-47cf-bd34-ca4194a8f643",
+    "artistMbid": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c"
   },
   "lastfm": {
     "id": "Sufjan+Stevens/_/Mystery+of+Love",

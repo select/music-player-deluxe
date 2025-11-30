@@ -19,8 +19,6 @@
     "youtube": "GpBFOJ3R0M4",
     "youtubeMusic": "GpBFOJ3R0M4"
   },
-  "mbid": "4a8eb49a-c14d-4e41-a7a3-cf89ee0f45a8",
-  "artistMbid": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
   "musicbrainz": {
     "artistTags": [
       "alternative dance",
@@ -35,7 +33,9 @@
       "industrial rock",
       "post-grunge",
       "trip hop"
-    ]
+    ],
+    "trackMbid": "4a8eb49a-c14d-4e41-a7a3-cf89ee0f45a8",
+    "artistMbid": "f9ef7a22-4262-4596-a2a8-1d19345b8e50"
   },
   "lastfm": {
     "id": "Garbage/_/Only+Happy+When+It+Rains",

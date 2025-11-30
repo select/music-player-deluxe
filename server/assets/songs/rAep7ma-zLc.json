@@ -20,8 +20,6 @@
     "youtube": "rAep7ma-zLc",
     "youtubeMusic": "rAep7ma-zLc"
   },
-  "mbid": "3008e1b3-a699-4c72-a5dd-7cc3a6d83054",
-  "artistMbid": "6e9a0ac8-699b-4817-8f9b-25a6dba89f57",
   "musicbrainz": {
     "artistTags": [
       "bass",
@@ -41,7 +39,9 @@
       "breaks",
       "club",
       "dance"
-    ]
+    ],
+    "trackMbid": "3008e1b3-a699-4c72-a5dd-7cc3a6d83054",
+    "artistMbid": "6e9a0ac8-699b-4817-8f9b-25a6dba89f57"
   },
   "lastfm": {
     "id": "Breakage/_/Untitled+Dubplate",

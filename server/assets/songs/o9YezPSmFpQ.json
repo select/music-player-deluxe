@@ -1,11 +1,9 @@
 {
-  "mbid": "53a6c900-b84d-46a6-8439-9e790546c8b7",
   "title": "Vaporware 07",
   "artist": "Donato Dozzy",
   "duration": 535,
   "youtubeId": "o9YezPSmFpQ",
   "lastFetched": "2025-11-19T04:18:53.918Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0DYWJBPLD",
     "amazonStore": "B0DYWJBPLD",
@@ -13,7 +11,6 @@
     "youtube": "o9YezPSmFpQ",
     "youtubeMusic": "o9YezPSmFpQ"
   },
-  "artistMbid": "4a2a0d6b-d871-400b-8d61-bf544854bdf6",
   "lastfm": {
     "id": "Donato+Dozzy/_/Vaporware+07",
     "listeners": 9701,
@@ -23,5 +20,10 @@
       "electronic",
       "asmrcore"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "53a6c900-b84d-46a6-8439-9e790546c8b7",
+    "artistMbid": "4a2a0d6b-d871-400b-8d61-bf544854bdf6",
+    "releaseCount": 1
   }
 }

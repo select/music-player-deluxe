@@ -12,7 +12,6 @@
     "youtube": "yPaXJg-lGm0",
     "youtubeMusic": "yPaXJg-lGm0"
   },
-  "artistMbid": "df76ffff-c150-4aa1-ab1d-e2714d865038",
   "lastfm": {
     "id": "ShockOne/_/A+Dark+Machine",
     "listeners": 13345,
@@ -23,5 +22,8 @@
       "monstercat",
       "dancefloor drum and bass"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "df76ffff-c150-4aa1-ab1d-e2714d865038"
   }
 }

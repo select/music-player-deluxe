@@ -14,7 +14,6 @@
     "youtube": "5cCwXNXWeyQ",
     "youtubeMusic": "5cCwXNXWeyQ"
   },
-  "artistMbid": "235f2b6c-a9e6-453f-b88b-2a1c35fcc19c",
   "lastfm": {
     "id": "We+Float/_/Hide+and+Seek",
     "listeners": 30,
@@ -26,5 +25,8 @@
       "lesbian",
       "all girl band"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "235f2b6c-a9e6-453f-b88b-2a1c35fcc19c"
   }
 }

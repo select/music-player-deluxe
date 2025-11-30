@@ -14,7 +14,6 @@
     "youtube": "pu-I1qlsiXg",
     "youtubeMusic": "pu-I1qlsiXg"
   },
-  "artistMbid": "82687fdf-84d6-49ac-bff2-de88cb42e5a2",
   "lastfm": {
     "id": "Basstripper/_/In+The+City",
     "listeners": 64948,
@@ -25,5 +24,8 @@
       "dnb",
       "5stars"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "82687fdf-84d6-49ac-bff2-de88cb42e5a2"
   }
 }

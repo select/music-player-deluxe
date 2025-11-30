@@ -16,8 +16,6 @@
     "youtube": "6lNPnGklWmQ",
     "youtubeMusic": "6lNPnGklWmQ"
   },
-  "mbid": "6ee7b461-feeb-4ab8-87eb-59fa04488251",
-  "artistMbid": "edf62daa-1425-44bb-8fe3-07499b519472",
   "musicbrainz": {
     "artistTags": [
       "algeria",
@@ -32,7 +30,9 @@
     ],
     "artistGenres": [
       "desert blues"
-    ]
+    ],
+    "trackMbid": "6ee7b461-feeb-4ab8-87eb-59fa04488251",
+    "artistMbid": "edf62daa-1425-44bb-8fe3-07499b519472"
   },
   "lastfm": {
     "id": "Imarhan/_/Derhan",

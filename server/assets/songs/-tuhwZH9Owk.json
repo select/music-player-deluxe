@@ -20,8 +20,6 @@
     "youtube": "-tuhwZH9Owk",
     "youtubeMusic": "-tuhwZH9Owk"
   },
-  "mbid": "3457c963-7a88-40c0-b358-444da6e3b8e2",
-  "artistMbid": "eaefd603-84c1-4db4-a72b-0cb718a0cc07",
   "musicbrainz": {
     "artistTags": [
       "classic pop and rock",
@@ -38,7 +36,9 @@
       "indie rock",
       "psychedelic folk",
       "rock"
-    ]
+    ],
+    "trackMbid": "3457c963-7a88-40c0-b358-444da6e3b8e2",
+    "artistMbid": "eaefd603-84c1-4db4-a72b-0cb718a0cc07"
   },
   "lastfm": {
     "id": "Stephen+Malkmus/_/Belziger+Faceplant",

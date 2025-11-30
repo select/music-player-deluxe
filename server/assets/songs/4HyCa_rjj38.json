@@ -12,15 +12,15 @@
     "youtube": "4HyCa_rjj38",
     "youtubeMusic": "4HyCa_rjj38"
   },
-  "mbid": "89ed5c62-2495-404c-b996-c0fc7d424aad",
-  "artistMbid": "3c2e2afb-b7e4-4b0f-8a0c-080808c935d3",
   "musicbrainz": {
     "artistTags": [
       "psybient"
     ],
     "artistGenres": [
       "psybient"
-    ]
+    ],
+    "trackMbid": "89ed5c62-2495-404c-b996-c0fc7d424aad",
+    "artistMbid": "3c2e2afb-b7e4-4b0f-8a0c-080808c935d3"
   },
   "lastfm": {
     "id": "Cell/_/Audio+Deepest+Night",

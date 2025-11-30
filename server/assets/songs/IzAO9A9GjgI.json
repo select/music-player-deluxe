@@ -20,8 +20,6 @@
     "youtube": "IzAO9A9GjgI",
     "youtubeMusic": "IzAO9A9GjgI"
   },
-  "mbid": "5159ca37-7897-41ac-b36d-00b6c0b8652f",
-  "artistMbid": "79239441-bfd5-4981-a70c-55c3f15c1287",
   "musicbrainz": {
     "artistTags": [
       "adult contemporary",
@@ -41,7 +39,9 @@
       "club",
       "contemporary r&b",
       "country pop"
-    ]
+    ],
+    "trackMbid": "5159ca37-7897-41ac-b36d-00b6c0b8652f",
+    "artistMbid": "79239441-bfd5-4981-a70c-55c3f15c1287"
   },
   "lastfm": {
     "id": "Madonna/_/Live+to+Tell",

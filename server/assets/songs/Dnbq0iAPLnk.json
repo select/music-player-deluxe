@@ -11,8 +11,6 @@
     "youtube": "Dnbq0iAPLnk",
     "youtubeMusic": "Dnbq0iAPLnk"
   },
-  "mbid": "f2437b03-70eb-3997-a944-19c1057c44fd",
-  "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
   "musicbrainz": {
     "artistTags": [
       "comedy",
@@ -28,7 +26,9 @@
       "jazz",
       "kabarett",
       "spoken word"
-    ]
+    ],
+    "trackMbid": "f2437b03-70eb-3997-a944-19c1057c44fd",
+    "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9"
   },
   "lastfm": {
     "id": "Helge+Schneider/_/Ich+dr%C3%BCck+die+Maus",

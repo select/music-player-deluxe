@@ -3,7 +3,6 @@
   "title": "Picasso Baby",
   "artist": "JAY-Z",
   "lastFetched": "2025-11-19T09:41:22.474Z",
-  "mbid": "117d268f-dc7d-4903-97a5-803f1229d496",
   "lastfm": {
     "id": "JAY-Z/_/Picasso+Baby",
     "listeners": 119400,
@@ -15,5 +14,8 @@
       "fuck it i want a billion",
       "art rap"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "117d268f-dc7d-4903-97a5-803f1229d496"
   }
 }

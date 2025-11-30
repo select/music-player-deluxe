@@ -13,7 +13,6 @@
     "youtube": "E4uA85iWsIg",
     "youtubeMusic": "E4uA85iWsIg"
   },
-  "artistMbid": "58e235fc-f6ea-4614-9ed4-9855a5665ae1",
   "lastfm": {
     "id": "Bleachers/_/Chinatown+(feat.+Bruce+Springsteen)",
     "listeners": 114611,
@@ -26,5 +25,8 @@
       "pop",
       "indie pop"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "58e235fc-f6ea-4614-9ed4-9855a5665ae1"
   }
 }

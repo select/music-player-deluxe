@@ -21,8 +21,6 @@
     "youtube": "H517hUHQtvA",
     "youtubeMusic": "H517hUHQtvA"
   },
-  "mbid": "a34626ce-d262-4482-a135-3e1c86148b6b",
-  "artistMbid": "ad058e4f-7e24-4db0-b5c2-7fcbcff72e01",
   "musicbrainz": {
     "artistTags": [
       "gypsy jazz",
@@ -33,7 +31,9 @@
       "gypsy jazz",
       "neofolk",
       "pop"
-    ]
+    ],
+    "trackMbid": "a34626ce-d262-4482-a135-3e1c86148b6b",
+    "artistMbid": "ad058e4f-7e24-4db0-b5c2-7fcbcff72e01"
   },
   "lastfm": {
     "id": "Bukahara/_/Wein+A+Ramallah",

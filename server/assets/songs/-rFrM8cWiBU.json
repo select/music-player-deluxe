@@ -1,5 +1,4 @@
 {
-  "mbid": "ded1dd33-1f53-49ef-9fcb-7ad4dd11f9cb",
   "title": "Norwegen Dia (Acoustic Version)",
   "artist": "Kraan",
   "album": "Zoup",
@@ -14,7 +13,6 @@
     "youtube": "-rFrM8cWiBU",
     "youtubeMusic": "-rFrM8cWiBU"
   },
-  "artistMbid": "d634f58c-aa2c-4430-9c85-b8e0d1c66878",
   "musicbrainz": {
     "artistTags": [
       "fusion",
@@ -24,7 +22,9 @@
     "artistGenres": [
       "jazz fusion",
       "krautrock"
-    ]
+    ],
+    "trackMbid": "ded1dd33-1f53-49ef-9fcb-7ad4dd11f9cb",
+    "artistMbid": "d634f58c-aa2c-4430-9c85-b8e0d1c66878"
   },
   "lastfm": {
     "id": "Kraan/_/Norwegen+Dia+(Acoustic+Version)",

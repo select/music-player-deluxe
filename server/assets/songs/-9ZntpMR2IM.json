@@ -1,11 +1,9 @@
 {
-  "mbid": "a8aae251-e739-4570-8195-0f56d661455b",
   "title": "Get High Tonight",
   "artist": "Busta Rhymes",
   "duration": 231,
   "youtubeId": "-9ZntpMR2IM",
   "lastFetched": "2025-11-19T05:14:52.660Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B00122P960",
     "amazonStore": "B00122P960",
@@ -22,14 +20,16 @@
     "youtube": "-9ZntpMR2IM",
     "youtubeMusic": "-9ZntpMR2IM"
   },
-  "artistMbid": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
   "musicbrainz": {
     "tags": [
       "east coast hip hop",
       "hip hop",
       "hip-hop",
       "rap"
-    ]
+    ],
+    "trackMbid": "a8aae251-e739-4570-8195-0f56d661455b",
+    "artistMbid": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Busta+Rhymes/_/Get+High+Tonight",

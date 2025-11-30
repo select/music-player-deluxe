@@ -12,7 +12,6 @@
     "youtube": "XxuZXH4imgI",
     "youtubeMusic": "XxuZXH4imgI"
   },
-  "artistMbid": "bde38975-19f2-4d10-a3e5-bc225182a306",
   "lastfm": {
     "id": "Munan/_/Mr.+Taxi+Driver",
     "listeners": 1159,
@@ -23,5 +22,8 @@
       "synthpop",
       "australia"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "bde38975-19f2-4d10-a3e5-bc225182a306"
   }
 }

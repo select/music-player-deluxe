@@ -19,15 +19,15 @@
     "youtube": "F3pHwBExfO4",
     "youtubeMusic": "F3pHwBExfO4"
   },
-  "mbid": "b08d1bbd-f2be-41f3-a57e-2e5187dab8a4",
-  "artistMbid": "4285ce75-f472-4adb-927d-51534d72b7c3",
   "musicbrainz": {
     "artistTags": [
       "electro house"
     ],
     "artistGenres": [
       "electro house"
-    ]
+    ],
+    "trackMbid": "b08d1bbd-f2be-41f3-a57e-2e5187dab8a4",
+    "artistMbid": "4285ce75-f472-4adb-927d-51534d72b7c3"
   },
   "lastfm": {
     "id": "Siriusmo/_/The+Door",

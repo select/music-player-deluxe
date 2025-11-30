@@ -17,8 +17,6 @@
     "youtube": "0ZamfaHt6UE",
     "youtubeMusic": "0ZamfaHt6UE"
   },
-  "mbid": "1de766ad-6bf9-39b7-b0b9-c621e0ae40d1",
-  "artistMbid": "07e0646c-0898-4935-a03c-588c94ac64be",
   "lastfm": {
     "id": "Everyday+Process/_/Grace",
     "listeners": 748,
@@ -30,5 +28,9 @@
       "cmr",
       "chh"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1de766ad-6bf9-39b7-b0b9-c621e0ae40d1",
+    "artistMbid": "07e0646c-0898-4935-a03c-588c94ac64be"
   }
 }

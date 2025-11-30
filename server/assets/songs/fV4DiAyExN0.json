@@ -19,7 +19,6 @@
     "youtube": "fV4DiAyExN0",
     "youtubeMusic": "fV4DiAyExN0"
   },
-  "artistMbid": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157",
   "musicbrainz": {
     "tags": [
       "rock",
@@ -27,7 +26,8 @@
       "alternative",
       "hoobastank",
       "pop"
-    ]
+    ],
+    "artistMbid": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157"
   },
   "lastfm": {
     "id": "Hoobastank/_/The+Reason",

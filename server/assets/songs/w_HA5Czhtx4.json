@@ -1,9 +1,6 @@
 {
-  "mbid": "b94f801d-8a95-4dc9-bd65-322b079bb174",
   "title": "Cornflake Girl",
   "artist": "Tori Amos",
-  "artistMbid": "c0b2500e-0cef-4130-869d-732b23ed9df5",
-  "releaseCount": 1,
   "youtubeId": "w_HA5Czhtx4",
   "lastFetched": "2025-11-19T04:48:55.960Z",
   "odesli": {
@@ -41,7 +38,10 @@
       "rock and indie",
       "singer-songwriter",
       "wip"
-    ]
+    ],
+    "trackMbid": "b94f801d-8a95-4dc9-bd65-322b079bb174",
+    "artistMbid": "c0b2500e-0cef-4130-869d-732b23ed9df5",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Tori+Amos/_/Cornflake+Girl",

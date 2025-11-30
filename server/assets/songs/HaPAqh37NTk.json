@@ -14,7 +14,6 @@
     "youtube": "HaPAqh37NTk",
     "youtubeMusic": "HaPAqh37NTk"
   },
-  "mbid": "024c4e4b-cec5-4755-8d3f-84d3daa6df8d",
   "lastfm": {
     "id": "D%C3%B6F/_/Codo",
     "listeners": 16717,
@@ -27,5 +26,8 @@
       "german",
       "deutsch"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "024c4e4b-cec5-4755-8d3f-84d3daa6df8d"
   }
 }

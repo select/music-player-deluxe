@@ -1,11 +1,9 @@
 {
-  "mbid": "7a599f6d-d53c-42ec-ad22-d8b35e786d4a",
   "title": "One of These Nights",
   "artist": "Eagles",
   "duration": 296,
   "youtubeId": "dkb811y4fkI",
   "lastFetched": "2025-11-23T16:44:49.934Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B00DANSQVO",
     "amazonStore": "B00DANSQVO",
@@ -21,7 +19,6 @@
     "youtube": "dkb811y4fkI",
     "youtubeMusic": "dkb811y4fkI"
   },
-  "artistMbid": "f46bd570-5768-462e-b84c-c7c993bbf47e",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -39,7 +36,10 @@
       "folk rock",
       "pop",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "7a599f6d-d53c-42ec-ad22-d8b35e786d4a",
+    "artistMbid": "f46bd570-5768-462e-b84c-c7c993bbf47e",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Eagles/_/One+of+These+Nights",

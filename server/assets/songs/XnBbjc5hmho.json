@@ -3,7 +3,6 @@
   "title": "Jaan Pehchan Ho",
   "artist": "Mohammed Rafi",
   "lastFetched": "2025-11-19T07:40:26.750Z",
-  "artistMbid": "28365249-f3fd-44db-8131-32cb170970c4",
   "lastfm": {
     "id": "Mohammed+Rafi/_/Jaan+Pehchan+Ho",
     "listeners": 8211,
@@ -15,5 +14,8 @@
       "soundtrack",
       "rafi"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "28365249-f3fd-44db-8131-32cb170970c4"
   }
 }

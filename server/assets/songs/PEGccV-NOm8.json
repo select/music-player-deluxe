@@ -22,8 +22,6 @@
     "youtube": "PEGccV-NOm8",
     "youtubeMusic": "PEGccV-NOm8"
   },
-  "mbid": "ba923dbb-b9b9-4890-9d14-3c5607bb12af",
-  "artistMbid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
   "musicbrainz": {
     "tags": [
       "trap",
@@ -31,7 +29,9 @@
       "Hip-Hop",
       "east coast hip hop",
       "2017"
-    ]
+    ],
+    "trackMbid": "ba923dbb-b9b9-4890-9d14-3c5607bb12af",
+    "artistMbid": "2f3c4d70-0462-40da-bba3-0aec5772c556"
   },
   "lastfm": {
     "id": "Cardi+B/_/Bodak+Yellow",

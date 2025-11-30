@@ -10,8 +10,6 @@
     "youtube": "9ZyqJjZKHdM",
     "youtubeMusic": "9ZyqJjZKHdM"
   },
-  "mbid": "0ae832d9-25c5-3511-8636-30afb10140b2",
-  "artistMbid": "dcaa4f81-bfb7-44eb-8594-4e74f004b6e4",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -31,7 +29,9 @@
       "pop punk",
       "punk",
       "punk rock"
-    ]
+    ],
+    "trackMbid": "0ae832d9-25c5-3511-8636-30afb10140b2",
+    "artistMbid": "dcaa4f81-bfb7-44eb-8594-4e74f004b6e4"
   },
   "lastfm": {
     "id": "NOFX/_/Theme+From+a+NOFX+Album",

@@ -13,8 +13,6 @@
     "youtube": "c8BLPJOZ1sU",
     "youtubeMusic": "c8BLPJOZ1sU"
   },
-  "mbid": "0ecee3c8-4b2b-42c3-8f09-eab480ef94a3",
-  "artistMbid": "f47fc54d-b334-4321-8218-00c5b11d4dd1",
   "musicbrainz": {
     "artistTags": [
       "gypsy punk",
@@ -25,7 +23,9 @@
       "gypsy punk",
       "punk",
       "rock"
-    ]
+    ],
+    "trackMbid": "0ecee3c8-4b2b-42c3-8f09-eab480ef94a3",
+    "artistMbid": "f47fc54d-b334-4321-8218-00c5b11d4dd1"
   },
   "lastfm": {
     "id": "Gogol+Bordello/_/Mishto",

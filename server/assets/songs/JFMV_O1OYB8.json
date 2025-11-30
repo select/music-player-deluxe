@@ -18,8 +18,6 @@
     "youtube": "JFMV_O1OYB8",
     "youtubeMusic": "JFMV_O1OYB8"
   },
-  "mbid": "1b3b731d-7c78-345c-9fdc-bb85e3b3f874",
-  "artistMbid": "8208d8f9-61b6-47f2-90c0-2680dadd56a8",
   "musicbrainz": {
     "artistTags": [
       "ambient",
@@ -34,7 +32,9 @@
       "electronic",
       "new age",
       "space ambient"
-    ]
+    ],
+    "trackMbid": "1b3b731d-7c78-345c-9fdc-bb85e3b3f874",
+    "artistMbid": "8208d8f9-61b6-47f2-90c0-2680dadd56a8"
   },
   "lastfm": {
     "id": "Stellardrone/_/Nightscape",

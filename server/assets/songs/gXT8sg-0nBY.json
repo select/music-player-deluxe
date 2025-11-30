@@ -12,7 +12,6 @@
     "youtube": "gXT8sg-0nBY",
     "youtubeMusic": "gXT8sg-0nBY"
   },
-  "artistMbid": "1c59ae05-207b-4fbd-9ee9-569489af6121",
   "lastfm": {
     "id": "2Scratch/_/Bonnie+&+Clyde",
     "listeners": 2271,
@@ -21,5 +20,8 @@
       "hip-hop",
       "trap"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "1c59ae05-207b-4fbd-9ee9-569489af6121"
   }
 }

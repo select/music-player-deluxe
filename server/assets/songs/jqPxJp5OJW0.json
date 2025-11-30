@@ -2,7 +2,7 @@
   "youtubeId": "jqPxJp5OJW0",
   "title": "Ante Up",
   "artist": "M.O.P.",
-  "lastFetched": "2025-11-30T17:43:44.827Z",
+  "lastFetched": "2025-11-30T19:26:39.252Z",
   "odesli": {
     "amazonMusic": "B000ZST63Y",
     "amazonStore": "B000ZST63Y",
@@ -25,6 +25,22 @@
       "rap",
       "hip hop",
       "00s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "61298c6d-7ba4-4279-92c7-47653fcb754b",
+    "artistMbid": "dbe35fab-1b3a-469b-87f0-6a54ef8de3c4",
+    "releaseCount": 12,
+    "genres": [
+      "gangsta rap",
+      "hip hop",
+      "r&b",
+      "underground hip hop"
+    ],
+    "artistGenres": [
+      "east coast hip hop",
+      "gangsta rap",
+      "hip hop"
     ]
   }
 }

@@ -9,15 +9,15 @@
     "youtube": "--WsoQt6U4o",
     "youtubeMusic": "--WsoQt6U4o"
   },
-  "mbid": "6b3567f6-7f69-4e91-b292-8b4fdf5a692d",
-  "artistMbid": "ef954679-5ee7-4016-acef-7ac71f2fa3d8",
   "musicbrainz": {
     "artistTags": [
       "hip hop"
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "trackMbid": "6b3567f6-7f69-4e91-b292-8b4fdf5a692d",
+    "artistMbid": "ef954679-5ee7-4016-acef-7ac71f2fa3d8"
   },
   "lastfm": {
     "id": "Atmosphere/_/Get+Fly",

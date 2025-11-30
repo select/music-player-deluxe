@@ -21,8 +21,6 @@
     "youtube": "9PnOG67flRA",
     "youtubeMusic": "9PnOG67flRA"
   },
-  "mbid": "4bb3577e-1c98-4a32-b5eb-534df23ffdac",
-  "artistMbid": "93eb7110-0bc9-4d3f-816b-4b52ef982ec8",
   "musicbrainz": {
     "tags": [
       "electronic",
@@ -61,7 +59,9 @@
       "electropop",
       "indie pop",
       "indie rock"
-    ]
+    ],
+    "trackMbid": "4bb3577e-1c98-4a32-b5eb-534df23ffdac",
+    "artistMbid": "93eb7110-0bc9-4d3f-816b-4b52ef982ec8"
   },
   "lastfm": {
     "id": "Metronomy/_/The+Bay",

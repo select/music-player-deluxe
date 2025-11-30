@@ -3,8 +3,6 @@
   "title": "The Black Keys Work",
   "artist": "Erlend Øye",
   "lastFetched": "2025-11-23T16:51:11.621Z",
-  "mbid": "0e97440f-43d2-33b3-97a5-0de1339d1c9e",
-  "artistMbid": "bdb8e865-98f6-4dd3-a8ac-74b9b7ae8abd",
   "musicbrainz": {
     "artistTags": [
       "electropop",
@@ -21,7 +19,9 @@
       "electropop",
       "indie pop",
       "indietronica"
-    ]
+    ],
+    "trackMbid": "0e97440f-43d2-33b3-97a5-0de1339d1c9e",
+    "artistMbid": "bdb8e865-98f6-4dd3-a8ac-74b9b7ae8abd"
   },
   "lastfm": {
     "id": "Erlend+%C3%98ye/_/The+Black+Keys+Work",

@@ -14,10 +14,12 @@
     "youtube": "XW53pEakxnU",
     "youtubeMusic": "XW53pEakxnU"
   },
-  "artistMbid": "29c1b5d5-c7c4-470a-af70-daba4e94ff8b",
   "lastfm": {
     "id": "Dead+Kittens/_/Happy",
     "listeners": 128,
     "playcount": 971
+  },
+  "musicbrainz": {
+    "artistMbid": "29c1b5d5-c7c4-470a-af70-daba4e94ff8b"
   }
 }

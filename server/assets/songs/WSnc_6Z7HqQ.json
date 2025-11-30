@@ -20,8 +20,6 @@
     "youtube": "WSnc_6Z7HqQ",
     "youtubeMusic": "WSnc_6Z7HqQ"
   },
-  "mbid": "01ec7842-ecd0-39b6-9b29-d7149753df7e",
-  "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
   "musicbrainz": {
     "tags": [
       "acoustic",
@@ -29,7 +27,9 @@
       "Love",
       "alternative",
       "loved"
-    ]
+    ],
+    "trackMbid": "01ec7842-ecd0-39b6-9b29-d7149753df7e",
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
   },
   "lastfm": {
     "id": "Radiohead/_/True+Love+Waits",

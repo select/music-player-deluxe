@@ -3,8 +3,6 @@
   "title": "Alle sagen das",
   "artist": "Die Toten Hosen",
   "lastFetched": "2025-11-23T16:49:04.267Z",
-  "mbid": "b87675a8-b726-49fe-af22-9807e12dc9d3",
-  "artistMbid": "c3bc80a6-1f4a-4e17-8cf0-6b1efe8302f1",
   "musicbrainz": {
     "artistTags": [
       "acoustic rock",
@@ -24,7 +22,9 @@
       "pop punk",
       "pop rock",
       "punk"
-    ]
+    ],
+    "trackMbid": "b87675a8-b726-49fe-af22-9807e12dc9d3",
+    "artistMbid": "c3bc80a6-1f4a-4e17-8cf0-6b1efe8302f1"
   },
   "lastfm": {
     "id": "Die+Toten+Hosen/_/Alle+sagen+das",

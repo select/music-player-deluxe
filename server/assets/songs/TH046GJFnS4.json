@@ -1,7 +1,7 @@
 {
   "youtubeId": "TH046GJFnS4",
   "title": "Caetano Veloso - It's a Long Way",
-  "lastFetched": "2025-11-30T17:23:57.490Z",
+  "lastFetched": "2025-11-30T19:25:08.335Z",
   "ai": {
     "title": "It's a Long Way",
     "artist": "Caetano Veloso"
@@ -19,6 +19,18 @@
       "brasil",
       "mpb",
       "70s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "404bf0b0-ae8d-4651-b129-806510d2623a",
+    "artistMbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "art pop",
+      "mpb",
+      "singer-songwriter",
+      "tropicália"
     ]
   }
 }

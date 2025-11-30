@@ -2,7 +2,7 @@
   "youtubeId": "8JzB-oQVITo",
   "title": "Franis Vikarma",
   "artist": "Wucan",
-  "lastFetched": "2025-11-30T17:43:15.063Z",
+  "lastFetched": "2025-11-30T19:20:08.504Z",
   "odesli": {
     "amazonMusic": "B00Q42BFMA",
     "amazonStore": "B00Q42BFMA",
@@ -26,6 +26,17 @@
       "blues rock",
       "hard rock",
       "folk rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "74294d8a-c2f5-4775-8794-5fc737d0a1a8",
+    "artistMbid": "b53d1842-a95d-43cf-a106-3048da304d00",
+    "releaseCount": 2,
+    "artistGenres": [
+      "blues rock",
+      "folk",
+      "psychedelic rock",
+      "stoner rock"
     ]
   }
 }

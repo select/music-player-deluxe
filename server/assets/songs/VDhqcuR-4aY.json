@@ -12,7 +12,6 @@
     "youtube": "VDhqcuR-4aY",
     "youtubeMusic": "VDhqcuR-4aY"
   },
-  "artistMbid": "4ea981de-978b-4098-901f-8c401456a4c5",
   "lastfm": {
     "id": "The+Offline/_/Le+trip",
     "listeners": 646,
@@ -23,5 +22,8 @@
       "psychedelic rock",
       "psychedelic"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "4ea981de-978b-4098-901f-8c401456a4c5"
   }
 }

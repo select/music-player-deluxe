@@ -18,8 +18,6 @@
     "youtube": "EDrLuj_wxNE",
     "youtubeMusic": "EDrLuj_wxNE"
   },
-  "mbid": "20482b25-384d-4aa1-b8bf-82f739948911",
-  "artistMbid": "90d69386-fe84-4d5f-88b8-619ac71cc8bc",
   "lastfm": {
     "id": "D%C3%BFse/_/89%2F90",
     "listeners": 662,
@@ -30,5 +28,9 @@
       "german",
       "math rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "20482b25-384d-4aa1-b8bf-82f739948911",
+    "artistMbid": "90d69386-fe84-4d5f-88b8-619ac71cc8bc"
   }
 }

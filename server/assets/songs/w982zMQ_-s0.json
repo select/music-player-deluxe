@@ -1,12 +1,9 @@
 {
-  "mbid": "62332f19-6fc6-463b-92c2-28f8bc98ab89",
   "title": "Closure",
   "artist": "The Depth Beneath Us",
   "duration": 339,
   "youtubeId": "w982zMQ_-s0",
   "lastFetched": "2025-11-19T04:42:49.785Z",
-  "releaseCount": 1,
-  "artistMbid": "488bc172-1e96-43ac-874f-2aa6c68a8d5f",
   "odesli": {
     "amazonMusic": "B0F41QMF7F",
     "amazonStore": "B0F41QMF7F",
@@ -28,5 +25,10 @@
       "post-rock",
       "experimental"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "62332f19-6fc6-463b-92c2-28f8bc98ab89",
+    "artistMbid": "488bc172-1e96-43ac-874f-2aa6c68a8d5f",
+    "releaseCount": 1
   }
 }

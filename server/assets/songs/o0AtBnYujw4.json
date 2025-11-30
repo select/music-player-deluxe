@@ -1,25 +1,25 @@
 {
-  "mbid": "8768fa3b-6227-45b6-a00b-a7078a78ace0",
   "title": "Beautiful Rebel",
   "artist": "Jeremy Jay",
   "duration": 153,
   "youtubeId": "o0AtBnYujw4",
   "lastFetched": "2025-11-19T05:21:29.464Z",
-  "releaseCount": 1,
   "odesli": {
     "pandora": "TR:37066452",
     "tidal": "159454502",
     "youtube": "o0AtBnYujw4",
     "youtubeMusic": "o0AtBnYujw4"
   },
-  "artistMbid": "34f8701a-24ef-48d6-a130-61149d04530d",
   "musicbrainz": {
     "tags": [
       "indie",
       "indie pop",
       "indie rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "8768fa3b-6227-45b6-a00b-a7078a78ace0",
+    "artistMbid": "34f8701a-24ef-48d6-a130-61149d04530d",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Jeremy+Jay/_/Beautiful+Rebel",

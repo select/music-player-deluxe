@@ -1,7 +1,7 @@
 {
   "youtubeId": "egubWvFWTAY",
   "title": "Supla - Green Hair (Japa Girl)",
-  "lastFetched": "2025-11-30T17:34:34.508Z",
+  "lastFetched": "2025-11-30T19:20:05.376Z",
   "ai": {
     "title": "Green Hair (Japa Girl)",
     "artist": "Supla"
@@ -17,6 +17,14 @@
     "tags": [
       "rock",
       "punk rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a633279c-007f-4bb5-a3e1-9ef353a76e21",
+    "artistMbid": "2d442d7e-5d17-4a47-99d7-e4e1717af8b8",
+    "releaseCount": 1,
+    "artistGenres": [
+      "rock"
     ]
   }
 }

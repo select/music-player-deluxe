@@ -16,8 +16,6 @@
     "youtube": "QOZDKlpybZE",
     "youtubeMusic": "QOZDKlpybZE"
   },
-  "mbid": "680bc776-4bfa-40de-8f00-b7a4bc03c7b0",
-  "artistMbid": "4b585938-f271-45e2-b19a-91c634b5e396",
   "musicbrainz": {
     "tags": [
       "female vocalists",
@@ -25,7 +23,9 @@
       "alternative",
       "pop",
       "Kate Bush"
-    ]
+    ],
+    "trackMbid": "680bc776-4bfa-40de-8f00-b7a4bc03c7b0",
+    "artistMbid": "4b585938-f271-45e2-b19a-91c634b5e396"
   },
   "lastfm": {
     "id": "Kate+Bush/_/Army+Dreamers",

@@ -10,8 +10,6 @@
     "youtube": "tXLhpIUn0H8",
     "youtubeMusic": "tXLhpIUn0H8"
   },
-  "mbid": "589e6f11-c3d0-4cd3-98fe-d5fc0bb56335",
-  "artistMbid": "1c13a027-cae3-44af-bfcf-be0c6562b91b",
   "lastfm": {
     "id": "The+Montgomery+Express/_/Who",
     "listeners": 4454,
@@ -22,5 +20,9 @@
       "funk",
       "70s"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "589e6f11-c3d0-4cd3-98fe-d5fc0bb56335",
+    "artistMbid": "1c13a027-cae3-44af-bfcf-be0c6562b91b"
   }
 }

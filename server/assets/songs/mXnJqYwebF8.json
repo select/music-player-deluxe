@@ -2,7 +2,7 @@
   "youtubeId": "mXnJqYwebF8",
   "title": "MOOO!",
   "artist": "Doja Cat",
-  "lastFetched": "2025-11-30T17:43:26.702Z",
+  "lastFetched": "2025-11-30T19:22:49.103Z",
   "odesli": {
     "amazonMusic": "B07GX66JY7",
     "amazonStore": "B07GX66JY7",
@@ -37,5 +37,22 @@
     "artist": "Doja Cat",
     "mbid": "0f0c83bd-dbaf-46cc-9f67-31de0e3a2893",
     "artistMbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4"
+  },
+  "musicbrainz": {
+    "trackMbid": "63dc7e5c-e189-4d6d-a70d-de51911552b4",
+    "artistMbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+    "releaseCount": 7,
+    "artistGenres": [
+      "alternative rock",
+      "grunge",
+      "hip hop",
+      "pop",
+      "pop rap",
+      "post-grunge",
+      "power pop",
+      "rock",
+      "trap",
+      "west coast hip hop"
+    ]
   }
 }

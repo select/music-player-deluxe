@@ -18,8 +18,6 @@
     "youtube": "oDMldn7hFZo",
     "youtubeMusic": "oDMldn7hFZo"
   },
-  "mbid": "015706ec-b04b-4d43-aab6-4d6949e3b4c6",
-  "artistMbid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7",
   "musicbrainz": {
     "artistTags": [
       "australian",
@@ -39,7 +37,9 @@
       "garage rock",
       "hard rock",
       "heavy psych"
-    ]
+    ],
+    "trackMbid": "015706ec-b04b-4d43-aab6-4d6949e3b4c6",
+    "artistMbid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7"
   },
   "lastfm": {
     "id": "King+Gizzard+&+The+Lizard+Wizard/_/The+Dripping+Tap",

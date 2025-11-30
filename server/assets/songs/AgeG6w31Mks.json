@@ -13,8 +13,6 @@
     "youtube": "AgeG6w31Mks",
     "youtubeMusic": "AgeG6w31Mks"
   },
-  "mbid": "02a8657d-55d3-4dee-b5f4-e294ed20ca40",
-  "artistMbid": "e41d3647-0f8b-45d9-b074-e63fde35ba3c",
   "musicbrainz": {
     "artistTags": [
       "boom bap",
@@ -32,7 +30,9 @@
       "downtempo",
       "hip hop",
       "instrumental"
-    ]
+    ],
+    "trackMbid": "02a8657d-55d3-4dee-b5f4-e294ed20ca40",
+    "artistMbid": "e41d3647-0f8b-45d9-b074-e63fde35ba3c"
   },
   "lastfm": {
     "id": "Karmawin/_/Bushido",

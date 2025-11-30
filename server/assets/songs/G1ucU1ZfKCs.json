@@ -1,5 +1,4 @@
 {
-  "mbid": "38c99f2f-c728-4582-9131-9aec976c560b",
   "title": "ITS HARD TO BE HAPPY (Y IS FOR REDNECK)",
   "artist": "Todd Snider",
   "album": "HIGH, LONESOME AND THEN SOME.",
@@ -18,7 +17,6 @@
     "youtube": "G1ucU1ZfKCs",
     "youtubeMusic": "G1ucU1ZfKCs"
   },
-  "artistMbid": "25c13ec7-fad4-4da4-8d98-9607ff615d68",
   "musicbrainz": {
     "artistTags": [
       "alternative country",
@@ -31,7 +29,9 @@
       "americana",
       "folk",
       "singer-songwriter"
-    ]
+    ],
+    "trackMbid": "38c99f2f-c728-4582-9131-9aec976c560b",
+    "artistMbid": "25c13ec7-fad4-4da4-8d98-9607ff615d68"
   },
   "lastfm": {
     "id": "Todd+Snider/_/ITS+HARD+TO+BE+HAPPY+(Y+IS+FOR+REDNECK)",

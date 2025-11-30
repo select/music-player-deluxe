@@ -1,10 +1,8 @@
 {
-  "mbid": "c6ef3ddd-a719-43d7-9e29-bd26646aa079",
   "title": "The Way Ahead",
   "artist": "I Am An Instrument",
   "youtubeId": "kMZO134c8zA",
   "lastFetched": "2025-11-19T03:08:42.667Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0FB9D5SZC",
     "amazonStore": "B0FB9D5SZC",
@@ -18,7 +16,6 @@
     "youtube": "kMZO134c8zA",
     "youtubeMusic": "kMZO134c8zA"
   },
-  "artistMbid": "cbaa54fc-1664-401d-bba4-e55be54c76b9",
   "lastfm": {
     "id": "I+Am+An+Instrument/_/The+Way+Ahead",
     "listeners": 365,
@@ -28,5 +25,10 @@
       "improv",
       "copenhagen"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c6ef3ddd-a719-43d7-9e29-bd26646aa079",
+    "artistMbid": "cbaa54fc-1664-401d-bba4-e55be54c76b9",
+    "releaseCount": 1
   }
 }

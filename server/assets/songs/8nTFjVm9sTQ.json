@@ -3,8 +3,6 @@
   "title": "House of Cards",
   "artist": "Radiohead",
   "lastFetched": "2025-11-19T14:26:59.852Z",
-  "mbid": "01d2fdc1-4c3c-3951-bc5b-894a240f292b",
-  "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
   "musicbrainz": {
     "tags": [
       "alternative",
@@ -12,7 +10,9 @@
       "indie",
       "rock",
       "radiohead"
-    ]
+    ],
+    "trackMbid": "01d2fdc1-4c3c-3951-bc5b-894a240f292b",
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
   },
   "lastfm": {
     "id": "Radiohead/_/House+of+Cards",

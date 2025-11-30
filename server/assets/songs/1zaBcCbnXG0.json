@@ -18,7 +18,6 @@
     "youtube": "1zaBcCbnXG0",
     "youtubeMusic": "1zaBcCbnXG0"
   },
-  "artistMbid": "7624e05b-c4d9-499b-9efc-550060401112",
   "lastfm": {
     "id": "Ox/_/Drain",
     "listeners": 130,
@@ -29,5 +28,8 @@
       "drone",
       "alt-country"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "7624e05b-c4d9-499b-9efc-550060401112"
   }
 }

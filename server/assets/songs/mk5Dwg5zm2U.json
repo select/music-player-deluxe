@@ -2,7 +2,7 @@
   "youtubeId": "mk5Dwg5zm2U",
   "title": "Africa",
   "artist": "Weezer",
-  "lastFetched": "2025-11-30T17:44:10.129Z",
+  "lastFetched": "2025-11-30T19:29:37.796Z",
   "odesli": {
     "appleMusic": "1388058245",
     "itunes": "1388058245",
@@ -23,6 +23,26 @@
       "pop rock",
       "2018",
       "toto cover"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "49b9c5d5-0fac-4876-a991-d445325ffacd",
+    "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+    "releaseCount": 15,
+    "genres": [
+      "alternative rock",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "alternative rock",
+      "emo",
+      "geek rock",
+      "mainstream rock",
+      "pop rock",
+      "power pop",
+      "rock"
     ]
   }
 }

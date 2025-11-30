@@ -21,8 +21,6 @@
     "youtube": "rV1_7R_3cXA",
     "youtubeMusic": "rV1_7R_3cXA"
   },
-  "mbid": "920393af-eba0-4991-957b-1a045a7cedd5",
-  "artistMbid": "5f58803e-8c4c-478e-8b51-477f38483ede",
   "musicbrainz": {
     "artistTags": [
       "2 tone",
@@ -42,7 +40,9 @@
       "pop",
       "pop rock",
       "psychedelic pop"
-    ]
+    ],
+    "trackMbid": "920393af-eba0-4991-957b-1a045a7cedd5",
+    "artistMbid": "5f58803e-8c4c-478e-8b51-477f38483ede"
   },
   "lastfm": {
     "id": "Madness/_/Driving+in+My+Car",

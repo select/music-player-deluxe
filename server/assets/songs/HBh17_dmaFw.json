@@ -12,7 +12,6 @@
     "youtube": "HBh17_dmaFw",
     "youtubeMusic": "HBh17_dmaFw"
   },
-  "artistMbid": "2c7e21ad-9b16-42df-9f9b-d583ce70a88a",
   "lastfm": {
     "id": "Slightly+Stoopid/_/Mellow+Mood+(feat.+G.+Love)",
     "listeners": 19065,
@@ -23,5 +22,8 @@
       "reggae",
       "jam"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "2c7e21ad-9b16-42df-9f9b-d583ce70a88a"
   }
 }

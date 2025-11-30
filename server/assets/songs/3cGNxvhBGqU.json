@@ -18,7 +18,6 @@
     "youtube": "3cGNxvhBGqU",
     "youtubeMusic": "3cGNxvhBGqU"
   },
-  "mbid": "d3052331-dde0-4d70-a6e4-9061d8b9990a",
   "lastfm": {
     "id": "Amancio+D%27Silva/_/A+Street+In+Bombay",
     "listeners": 5084,
@@ -27,5 +26,8 @@
       "world",
       "jazz"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d3052331-dde0-4d70-a6e4-9061d8b9990a"
   }
 }

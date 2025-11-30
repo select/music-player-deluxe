@@ -16,8 +16,6 @@
     "youtube": "0Yy7A74o8gQ",
     "youtubeMusic": "0Yy7A74o8gQ"
   },
-  "mbid": "7f5ec186-ef4d-4015-a37b-3a5ba4a9678e",
-  "artistMbid": "a8ebde98-7e91-46c7-992c-90039ba42017",
   "musicbrainz": {
     "artistTags": [
       "alternative hip hop",
@@ -36,7 +34,9 @@
       "conscious hip hop",
       "east coast hip hop",
       "hip hop"
-    ]
+    ],
+    "trackMbid": "7f5ec186-ef4d-4015-a37b-3a5ba4a9678e",
+    "artistMbid": "a8ebde98-7e91-46c7-992c-90039ba42017"
   },
   "lastfm": {
     "id": "De+La+Soul/_/The+Magic+Number",

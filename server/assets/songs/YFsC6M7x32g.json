@@ -14,8 +14,6 @@
     "youtube": "YFsC6M7x32g",
     "youtubeMusic": "YFsC6M7x32g"
   },
-  "mbid": "0c5e6cde-4282-430b-b261-6163e5c0e17f",
-  "artistMbid": "d3dd86df-2f57-4a97-8100-d09915343f60",
   "musicbrainz": {
     "artistTags": [
       "classic pop and rock",
@@ -28,7 +26,9 @@
       "heavy metal",
       "metal",
       "nwobhm"
-    ]
+    ],
+    "trackMbid": "0c5e6cde-4282-430b-b261-6163e5c0e17f",
+    "artistMbid": "d3dd86df-2f57-4a97-8100-d09915343f60"
   },
   "lastfm": {
     "id": "Diamond+Head/_/The+Coffin+Train",

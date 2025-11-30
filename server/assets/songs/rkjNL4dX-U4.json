@@ -15,7 +15,6 @@
     "youtube": "rkjNL4dX-U4",
     "youtubeMusic": "rkjNL4dX-U4"
   },
-  "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
   "lastfm": {
     "id": "Chase+&+Status/_/Baddadan+(feat.+IRAH,+Flowdan,+Trigga+&+Takura)",
     "listeners": 190528,
@@ -28,5 +27,8 @@
       "acapella",
       "neuropunk"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
   }
 }

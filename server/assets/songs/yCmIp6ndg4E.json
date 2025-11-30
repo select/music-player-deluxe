@@ -10,8 +10,6 @@
     "youtube": "yCmIp6ndg4E",
     "youtubeMusic": "yCmIp6ndg4E"
   },
-  "mbid": "08f0fe36-d50c-376c-b8f7-2c2f7c67359a",
-  "artistMbid": "0c751690-c784-4a4f-b1e4-c1de27d47581",
   "musicbrainz": {
     "artistTags": [
       "avant-folk",
@@ -31,7 +29,9 @@
       "avant-garde pop",
       "electronic",
       "experimental"
-    ]
+    ],
+    "trackMbid": "08f0fe36-d50c-376c-b8f7-2c2f7c67359a",
+    "artistMbid": "0c751690-c784-4a4f-b1e4-c1de27d47581"
   },
   "lastfm": {
     "id": "Animal+Collective/_/Unsolved+Mysteries",

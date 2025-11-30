@@ -20,8 +20,6 @@
     "youtube": "QBgelyLjbdo",
     "youtubeMusic": "QBgelyLjbdo"
   },
-  "mbid": "02d2b667-963c-3806-ad0d-0852ce0354e2",
-  "artistMbid": "4dca4bb2-23ba-4103-97e6-5810311db33a",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -41,7 +39,9 @@
       "psychedelic soul",
       "r&b",
       "singer-songwriter"
-    ]
+    ],
+    "trackMbid": "02d2b667-963c-3806-ad0d-0852ce0354e2",
+    "artistMbid": "4dca4bb2-23ba-4103-97e6-5810311db33a"
   },
   "lastfm": {
     "id": "Curtis+Mayfield/_/Tripping+Out",

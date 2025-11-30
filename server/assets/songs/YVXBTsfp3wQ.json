@@ -21,8 +21,6 @@
     "youtube": "YVXBTsfp3wQ",
     "youtubeMusic": "YVXBTsfp3wQ"
   },
-  "mbid": "32ebfba5-72ad-425f-84e1-29d6c427918e",
-  "artistMbid": "93a4d03b-4f0e-42da-ae0b-a62876e46071",
   "musicbrainz": {
     "artistTags": [
       "boom bap",
@@ -33,7 +31,9 @@
       "boom bap",
       "hip hop",
       "rap rock"
-    ]
+    ],
+    "trackMbid": "32ebfba5-72ad-425f-84e1-29d6c427918e",
+    "artistMbid": "93a4d03b-4f0e-42da-ae0b-a62876e46071"
   },
   "lastfm": {
     "id": "Joey+Valence+&+Brae/_/Underground+Sound",

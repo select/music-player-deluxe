@@ -1,11 +1,9 @@
 {
-  "mbid": "6ddcd32e-b209-450d-a6c7-2726cb3bb75a",
   "title": "Summer in the City",
   "artist": "Quincy Jones",
   "duration": 246,
   "youtubeId": "jpbK4tLQH_s",
   "lastFetched": "2025-11-19T03:26:02.652Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B001PQN0QE",
     "amazonStore": "B001PQN0QE",
@@ -24,11 +22,13 @@
     "youtube": "jpbK4tLQH_s",
     "youtubeMusic": "jpbK4tLQH_s"
   },
-  "artistMbid": "5803c81e-739a-4057-9a5c-cf84e55db630",
   "musicbrainz": {
     "tags": [
       "sampled by 3"
-    ]
+    ],
+    "trackMbid": "6ddcd32e-b209-450d-a6c7-2726cb3bb75a",
+    "artistMbid": "5803c81e-739a-4057-9a5c-cf84e55db630",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Quincy+Jones/_/Summer+in+the+City",

@@ -3,7 +3,6 @@
   "title": "Ti Amo",
   "artist": "Howard Carpendale",
   "lastFetched": "2025-11-19T06:16:58.020Z",
-  "artistMbid": "506aa5b0-c6fb-4a69-8dd3-f06a369d5abc",
   "lastfm": {
     "id": "Howard+Carpendale/_/Ti+Amo",
     "listeners": 27176,
@@ -14,5 +13,8 @@
       "deutsche schlager",
       "german"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "506aa5b0-c6fb-4a69-8dd3-f06a369d5abc"
   }
 }

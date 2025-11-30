@@ -22,8 +22,6 @@
     "youtube": "zoGRUyuWMK8",
     "youtubeMusic": "zoGRUyuWMK8"
   },
-  "mbid": "0f22d136-e087-4c50-afa2-e8db89692d22",
-  "artistMbid": "985c709c-7771-4de3-9024-7bda29ebe3f9",
   "musicbrainz": {
     "artistTags": [
       "blues",
@@ -43,7 +41,9 @@
       "country",
       "folk",
       "indie pop"
-    ]
+    ],
+    "trackMbid": "0f22d136-e087-4c50-afa2-e8db89692d22",
+    "artistMbid": "985c709c-7771-4de3-9024-7bda29ebe3f9"
   },
   "lastfm": {
     "id": "Norah+Jones/_/Wake+Me+Up",

@@ -15,8 +15,6 @@
     "youtube": "8nQLXkl9Zco",
     "youtubeMusic": "8nQLXkl9Zco"
   },
-  "mbid": "a1079e31-ce9f-49ef-9d07-084a34d01986",
-  "artistMbid": "2b854372-d92f-4f1c-975a-cc66bb30c827",
   "lastfm": {
     "id": "Vibe+Chemistry/_/Balling",
     "listeners": 37928,
@@ -27,5 +25,9 @@
       "drum and bass",
       "electronic"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a1079e31-ce9f-49ef-9d07-084a34d01986",
+    "artistMbid": "2b854372-d92f-4f1c-975a-cc66bb30c827"
   }
 }

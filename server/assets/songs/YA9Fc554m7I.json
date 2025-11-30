@@ -1,9 +1,6 @@
 {
-  "mbid": "866c44c5-c8a2-4456-8a33-bee089907740",
   "title": "House Organ For The Lonely",
   "artist": "Dorisburg",
-  "artistMbid": "13380427-3241-4771-a451-851a0618bf3d",
-  "releaseCount": 1,
   "duration": 516,
   "youtubeId": "YA9Fc554m7I",
   "lastFetched": "2025-11-23T16:41:54.638Z",
@@ -29,7 +26,10 @@
       "downtempo",
       "tech house",
       "techno"
-    ]
+    ],
+    "trackMbid": "866c44c5-c8a2-4456-8a33-bee089907740",
+    "artistMbid": "13380427-3241-4771-a451-851a0618bf3d",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Dorisburg/_/House+Organ+For+The+Lonely",

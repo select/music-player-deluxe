@@ -10,8 +10,6 @@
     "youtube": "fZ1ggB4fWvI",
     "youtubeMusic": "fZ1ggB4fWvI"
   },
-  "mbid": "86cc59d6-46d2-42ca-978c-278230a716fd",
-  "artistMbid": "17d78170-7194-4603-8dbb-ca1108430882",
   "musicbrainz": {
     "artistTags": [
       "jazz",
@@ -21,7 +19,9 @@
     "artistGenres": [
       "jazz",
       "post-bop"
-    ]
+    ],
+    "trackMbid": "86cc59d6-46d2-42ca-978c-278230a716fd",
+    "artistMbid": "17d78170-7194-4603-8dbb-ca1108430882"
   },
   "lastfm": {
     "id": "Avishai+Cohen/_/Calm",

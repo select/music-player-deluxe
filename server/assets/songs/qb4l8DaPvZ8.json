@@ -18,7 +18,6 @@
     "youtube": "qb4l8DaPvZ8",
     "youtubeMusic": "qb4l8DaPvZ8"
   },
-  "artistMbid": "0387a330-4121-409d-94c0-7b3f360d2bd1",
   "lastfm": {
     "id": "Tomu+DJ/_/Spring+of+Life",
     "listeners": 1531,
@@ -29,5 +28,8 @@
       "idm",
       "downtempo"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "0387a330-4121-409d-94c0-7b3f360d2bd1"
   }
 }

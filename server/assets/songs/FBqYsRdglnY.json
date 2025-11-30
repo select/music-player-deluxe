@@ -17,8 +17,6 @@
     "youtube": "FBqYsRdglnY",
     "youtubeMusic": "FBqYsRdglnY"
   },
-  "mbid": "02755536-a9cd-45e3-b4b1-2e001a820943",
-  "artistMbid": "cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8",
   "musicbrainz": {
     "artistTags": [
       "folk",
@@ -34,7 +32,9 @@
       "indie folk",
       "indie rock",
       "singer-songwriter"
-    ]
+    ],
+    "trackMbid": "02755536-a9cd-45e3-b4b1-2e001a820943",
+    "artistMbid": "cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8"
   },
   "lastfm": {
     "id": "Jos%C3%A9+Gonz%C3%A1lez/_/The+Forest",

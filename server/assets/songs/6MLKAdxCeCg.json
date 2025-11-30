@@ -10,8 +10,6 @@
     "youtube": "6MLKAdxCeCg",
     "youtubeMusic": "6MLKAdxCeCg"
   },
-  "mbid": "19be117b-4c26-36c5-9769-5a6385f5842f",
-  "artistMbid": "823ddc0d-2a25-453b-a261-f0f5935ea453",
   "lastfm": {
     "id": "Kristoffer+Ragnstam/_/Breakfast+By+The+Mattress",
     "listeners": 2823,
@@ -22,5 +20,9 @@
       "dance around the living room in your underwear",
       "schweden"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "19be117b-4c26-36c5-9769-5a6385f5842f",
+    "artistMbid": "823ddc0d-2a25-453b-a261-f0f5935ea453"
   }
 }

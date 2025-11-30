@@ -17,8 +17,6 @@
     "youtube": "sOnqjkJTMaA",
     "youtubeMusic": "sOnqjkJTMaA"
   },
-  "mbid": "1cd04e20-7e23-4295-9486-e30f36a16524",
-  "artistMbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
   "musicbrainz": {
     "tags": [
       "pop",
@@ -26,7 +24,9 @@
       "michael jackson",
       "dance",
       "funk"
-    ]
+    ],
+    "trackMbid": "1cd04e20-7e23-4295-9486-e30f36a16524",
+    "artistMbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e"
   },
   "lastfm": {
     "id": "Michael+Jackson/_/Thriller",

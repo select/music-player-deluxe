@@ -11,8 +11,6 @@
     "youtube": "gw-alVIwQ-8",
     "youtubeMusic": "gw-alVIwQ-8"
   },
-  "mbid": "3a2abe0a-1f98-444c-be34-e34540c95e5e",
-  "artistMbid": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f",
   "musicbrainz": {
     "artistTags": [
       "big band",
@@ -25,7 +23,9 @@
       "big band",
       "jazz",
       "swing"
-    ]
+    ],
+    "trackMbid": "3a2abe0a-1f98-444c-be34-e34540c95e5e",
+    "artistMbid": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f"
   },
   "lastfm": {
     "id": "Duke+Ellington/_/In+The+Hall+Of+The+Mountain+King",

@@ -19,8 +19,6 @@
     "youtube": "wEBlaMOmKV4",
     "youtubeMusic": "wEBlaMOmKV4"
   },
-  "mbid": "fd26b1e6-f43d-4bf6-bf52-3962adf5cee2",
-  "artistMbid": "6c8fd0be-d961-454c-aee0-4366a6dbc993",
   "musicbrainz": {
     "tags": [
       "soul",
@@ -28,7 +26,9 @@
       "sam cooke",
       "oldies",
       "rhythm and blues"
-    ]
+    ],
+    "trackMbid": "fd26b1e6-f43d-4bf6-bf52-3962adf5cee2",
+    "artistMbid": "6c8fd0be-d961-454c-aee0-4366a6dbc993"
   },
   "lastfm": {
     "id": "Sam+Cooke/_/A+Change+Is+Gonna+Come",

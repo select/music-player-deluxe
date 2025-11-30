@@ -3,8 +3,6 @@
   "title": "Major Tom",
   "artist": "Shiny Toy Guns",
   "lastFetched": "2025-11-23T16:35:49.979Z",
-  "mbid": "4e37411d-0818-31e8-a908-efb8752ee36a",
-  "artistMbid": "ad61e25e-5516-41e1-b60d-744e8220986e",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -21,7 +19,9 @@
       "electronica",
       "new wave",
       "rock"
-    ]
+    ],
+    "trackMbid": "4e37411d-0818-31e8-a908-efb8752ee36a",
+    "artistMbid": "ad61e25e-5516-41e1-b60d-744e8220986e"
   },
   "lastfm": {
     "id": "Shiny+Toy+Guns/_/Major+Tom",

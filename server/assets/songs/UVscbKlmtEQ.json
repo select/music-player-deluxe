@@ -1,11 +1,9 @@
 {
-  "mbid": "40d603c2-b57e-451f-9d6c-0a36d8f122dd",
   "title": "Didi (Hola Didi)",
   "artist": "Fernando Gelbard",
   "duration": 512,
   "youtubeId": "UVscbKlmtEQ",
   "lastFetched": "2025-11-23T16:40:23.211Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B004808KTQ",
     "amazonStore": "B004808KTQ",
@@ -18,11 +16,13 @@
     "youtube": "UVscbKlmtEQ",
     "youtubeMusic": "UVscbKlmtEQ"
   },
-  "artistMbid": "4370ac19-3c99-4f60-8223-d644007b866d",
   "musicbrainz": {
     "artistTags": [
       "jazz and blues"
-    ]
+    ],
+    "trackMbid": "40d603c2-b57e-451f-9d6c-0a36d8f122dd",
+    "artistMbid": "4370ac19-3c99-4f60-8223-d644007b866d",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Fernando+Gelbard/_/Didi+(Hola+Didi)",

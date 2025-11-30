@@ -18,7 +18,6 @@
     "youtube": "PbgKEjNBHqM",
     "youtubeMusic": "PbgKEjNBHqM"
   },
-  "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
   "musicbrainz": {
     "tags": [
       "Grunge",
@@ -26,7 +25,8 @@
       "90s",
       "alternative",
       "Nirvana"
-    ]
+    ],
+    "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da"
   },
   "lastfm": {
     "id": "Nirvana/_/In+Bloom",

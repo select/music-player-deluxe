@@ -18,7 +18,6 @@
     "youtube": "ZzLmymD1Yr4",
     "youtubeMusic": "ZzLmymD1Yr4"
   },
-  "mbid": "0c7e2e87-baa3-4b2b-a47e-da4b6450ddc1",
   "lastfm": {
     "id": "Meli%27sa+Morgan/_/Fool%27s+Paradise",
     "listeners": 27090,
@@ -29,5 +28,8 @@
       "rnb",
       "melisa morgan"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0c7e2e87-baa3-4b2b-a47e-da4b6450ddc1"
   }
 }

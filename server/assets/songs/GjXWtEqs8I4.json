@@ -17,8 +17,6 @@
     "youtube": "GjXWtEqs8I4",
     "youtubeMusic": "GjXWtEqs8I4"
   },
-  "mbid": "74db77e6-423e-3f67-b8a1-62c21094de33",
-  "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
   "musicbrainz": {
     "tags": [
       "alternative rock",
@@ -26,7 +24,9 @@
       "epic",
       "alternative",
       "Muse"
-    ]
+    ],
+    "trackMbid": "74db77e6-423e-3f67-b8a1-62c21094de33",
+    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090"
   },
   "lastfm": {
     "id": "Muse/_/Knights+of+Cydonia",

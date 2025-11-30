@@ -2,7 +2,7 @@
   "youtubeId": "xYhvIAy-0AA",
   "title": "Farmost",
   "artist": "Mitekiss",
-  "lastFetched": "2025-11-30T17:43:54.862Z",
+  "lastFetched": "2025-11-30T19:27:52.951Z",
   "odesli": {
     "amazonMusic": "B0C3VW66T2",
     "amazonStore": "B0C3VW66T2",
@@ -21,6 +21,17 @@
     "tags": [
       "drum and bass",
       "liquid funk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "40f968f6-2ac9-44d8-ba45-22715089d0c6",
+    "artistMbid": "e7e11ce3-3493-4d89-9505-8fb86818ed09",
+    "releaseCount": 2,
+    "artistGenres": [
+      "drum and bass",
+      "electronic",
+      "hip hop",
+      "uk garage"
     ]
   }
 }

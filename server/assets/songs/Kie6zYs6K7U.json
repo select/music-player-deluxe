@@ -18,8 +18,6 @@
     "youtube": "Kie6zYs6K7U",
     "youtubeMusic": "Kie6zYs6K7U"
   },
-  "mbid": "5c11a3f0-196c-49ad-b269-ef44d66cdaf9",
-  "artistMbid": "e7876844-3c7a-47c5-a6ac-ab94bc21a1a3",
   "musicbrainz": {
     "artistTags": [
       "desert rock",
@@ -35,7 +33,9 @@
       "psychedelic rock",
       "rock",
       "stoner rock"
-    ]
+    ],
+    "trackMbid": "5c11a3f0-196c-49ad-b269-ef44d66cdaf9",
+    "artistMbid": "e7876844-3c7a-47c5-a6ac-ab94bc21a1a3"
   },
   "lastfm": {
     "id": "The+Great+Machine/_/The+Capricorn%27s+Silent+Walk+Through+Pagan+Fire+And+The+Sea+Of+Blood",

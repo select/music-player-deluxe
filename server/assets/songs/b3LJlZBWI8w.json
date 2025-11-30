@@ -14,15 +14,15 @@
     "youtube": "b3LJlZBWI8w",
     "youtubeMusic": "b3LJlZBWI8w"
   },
-  "mbid": "4154906a-96ba-4e22-bc97-2b6ee3a53859",
-  "artistMbid": "913b4704-05bf-4e53-b30a-f3bd244ea2ea",
   "musicbrainz": {
     "artistTags": [
       "indie folk"
     ],
     "artistGenres": [
       "indie folk"
-    ]
+    ],
+    "trackMbid": "4154906a-96ba-4e22-bc97-2b6ee3a53859",
+    "artistMbid": "913b4704-05bf-4e53-b30a-f3bd244ea2ea"
   },
   "lastfm": {
     "id": "SYML/_/Where%27s+My+Love+(Acoustic)",

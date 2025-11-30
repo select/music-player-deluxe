@@ -19,7 +19,6 @@
     "youtube": "Cv6tuzHUuuk",
     "youtubeMusic": "Cv6tuzHUuuk"
   },
-  "artistMbid": "f31ec2ac-9071-4306-acd1-d2c8321033b5",
   "musicbrainz": {
     "tags": [
       "80s",
@@ -27,7 +26,8 @@
       "female vocalists",
       "new wave",
       "rock"
-    ]
+    ],
+    "artistMbid": "f31ec2ac-9071-4306-acd1-d2c8321033b5"
   },
   "lastfm": {
     "id": "The+Bangles/_/Walk+Like+an+Egyptian",

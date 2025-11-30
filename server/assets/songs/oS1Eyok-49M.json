@@ -15,8 +15,6 @@
     "youtube": "oS1Eyok-49M",
     "youtubeMusic": "oS1Eyok-49M"
   },
-  "mbid": "c8909905-c055-41fc-950e-e2e5f9392d18",
-  "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6",
   "musicbrainz": {
     "artistTags": [
       "art-punk",
@@ -32,7 +30,9 @@
       "progressive rock",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "c8909905-c055-41fc-950e-e2e5f9392d18",
+    "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6"
   },
   "lastfm": {
     "id": "Bilderbuch/_/Kitsch",

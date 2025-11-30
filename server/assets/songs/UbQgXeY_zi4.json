@@ -2,7 +2,7 @@
   "youtubeId": "UbQgXeY_zi4",
   "title": "Lone Digger",
   "artist": "Caravan Palace",
-  "lastFetched": "2025-11-30T17:43:25.473Z",
+  "lastFetched": "2025-11-30T19:22:35.742Z",
   "odesli": {
     "amazonMusic": "B074JH49YS",
     "amazonStore": "B074JH49YS",
@@ -36,5 +36,20 @@
     ],
     "title": "Lone Digger",
     "artist": "Caravan Palace"
+  },
+  "musicbrainz": {
+    "trackMbid": "5f926e49-e0b8-4b45-8172-a1b9076d6b22",
+    "artistMbid": "72eabb1a-4d2c-4de6-90f2-671b2cada42b",
+    "releaseCount": 12,
+    "genres": [
+      "electro swing",
+      "electronic",
+      "gypsy jazz"
+    ],
+    "artistGenres": [
+      "electro house",
+      "electro swing",
+      "fidget house"
+    ]
   }
 }

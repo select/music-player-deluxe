@@ -17,7 +17,6 @@
     "youtube": "cdrDZSE3yj8",
     "youtubeMusic": "cdrDZSE3yj8"
   },
-  "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
   "lastfm": {
     "id": "Knorkator/_/DMT",
     "listeners": 839,
@@ -29,5 +28,8 @@
       "metal",
       "comedy"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e"
   }
 }

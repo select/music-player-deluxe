@@ -1,9 +1,6 @@
 {
-  "mbid": "014ab6d9-a494-4a4e-bd4e-2bdc488087de",
   "title": "Dreams",
   "artist": "Fleetwood Mac",
-  "artistMbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
-  "releaseCount": 12,
   "duration": 260,
   "youtubeId": "U6ls0YjDg54",
   "lastFetched": "2025-11-19T05:33:08.659Z",
@@ -14,7 +11,10 @@
       "pop rock",
       "rock",
       "soft rock"
-    ]
+    ],
+    "trackMbid": "014ab6d9-a494-4a4e-bd4e-2bdc488087de",
+    "artistMbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+    "releaseCount": 12
   },
   "lastfm": {
     "id": "Fleetwood+Mac/_/Dreams",

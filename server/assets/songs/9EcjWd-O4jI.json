@@ -19,7 +19,6 @@
     "youtube": "9EcjWd-O4jI",
     "youtubeMusic": "9EcjWd-O4jI"
   },
-  "artistMbid": "62173ce5-37ef-41b1-86cd-45401a8955fc",
   "lastfm": {
     "id": "Technotronic/_/Pump+Up+the+Jam",
     "listeners": 538167,
@@ -32,5 +31,8 @@
       "electronic",
       "techno"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "62173ce5-37ef-41b1-86cd-45401a8955fc"
   }
 }

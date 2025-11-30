@@ -21,7 +21,6 @@
     "youtube": "VGJlu7nlikY",
     "youtubeMusic": "VGJlu7nlikY"
   },
-  "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
   "lastfm": {
     "id": "Chase+&+Status/_/Liquor+&+Cigarettes",
     "listeners": 1376,
@@ -32,5 +31,8 @@
       "electronic",
       "dnb"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
   }
 }

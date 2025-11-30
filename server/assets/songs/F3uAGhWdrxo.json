@@ -12,8 +12,6 @@
     "youtube": "F3uAGhWdrxo",
     "youtubeMusic": "F3uAGhWdrxo"
   },
-  "mbid": "21502147-9b5a-4a09-bad9-27e4f3eeb255",
-  "artistMbid": "da014b60-38aa-422c-9f65-e3f0bd0e39c2",
   "musicbrainz": {
     "artistTags": [
       "german",
@@ -24,7 +22,9 @@
     "artistGenres": [
       "pop rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "21502147-9b5a-4a09-bad9-27e4f3eeb255",
+    "artistMbid": "da014b60-38aa-422c-9f65-e3f0bd0e39c2"
   },
   "lastfm": {
     "id": "Rodgau+Monotones/_/Die+Hesse+komme%21",

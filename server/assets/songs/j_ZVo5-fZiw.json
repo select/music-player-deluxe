@@ -16,7 +16,6 @@
     "youtube": "j_ZVo5-fZiw",
     "youtubeMusic": "j_ZVo5-fZiw"
   },
-  "mbid": "94ca4144-2c0f-4a1a-892e-620c50e6e888",
   "lastfm": {
     "id": "Ostbahn-Kurti+&+Die+Chefpartie/_/A+Schritt+vire",
     "listeners": 443,
@@ -25,5 +24,8 @@
       "all",
       "austropop"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "94ca4144-2c0f-4a1a-892e-620c50e6e888"
   }
 }

@@ -1,8 +1,6 @@
 {
-  "mbid": "fded1360-27d3-4332-a87c-15a71a847bf6",
   "title": "Protect Ya Neck",
   "artist": "Wu-Tang Clan",
-  "releaseCount": 2,
   "duration": 272,
   "youtubeId": "R0IUR4gkPIE",
   "lastFetched": "2025-11-19T01:39:55.153Z",
@@ -36,7 +34,9 @@
       "hardcore hip hop",
       "hip hop",
       "hip-hop"
-    ]
+    ],
+    "trackMbid": "fded1360-27d3-4332-a87c-15a71a847bf6",
+    "releaseCount": 2
   },
   "lastfm": {
     "id": "Wu-Tang+Clan/_/Protect+Ya+Neck",

@@ -16,7 +16,6 @@
     "youtube": "YblzvqIyFoE",
     "youtubeMusic": "YblzvqIyFoE"
   },
-  "artistMbid": "61e73ac3-1e17-4296-84f3-9498534d25e0",
   "lastfm": {
     "id": "Fulton+Lee/_/Floatin",
     "listeners": 2094,
@@ -28,5 +27,8 @@
       "rnb",
       "boogie"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "61e73ac3-1e17-4296-84f3-9498534d25e0"
   }
 }

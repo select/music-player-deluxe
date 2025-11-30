@@ -1,5 +1,4 @@
 {
-  "mbid": "4f0e8542-3fdb-40e1-a0e6-da26434653e2",
   "title": "Learning to Fly",
   "artist": "Pink Floyd",
   "album": "Miami Bell ’94",
@@ -24,7 +23,6 @@
     "youtube": "nVhNCTH8pDs",
     "youtubeMusic": "nVhNCTH8pDs"
   },
-  "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
   "musicbrainz": {
     "artistTags": [
       "acid rock",
@@ -44,7 +42,9 @@
       "blues rock",
       "classic rock",
       "experimental rock"
-    ]
+    ],
+    "trackMbid": "4f0e8542-3fdb-40e1-a0e6-da26434653e2",
+    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47"
   },
   "lastfm": {
     "id": "Pink+Floyd/_/Learning+to+Fly",

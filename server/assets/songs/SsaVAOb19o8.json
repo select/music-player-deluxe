@@ -20,7 +20,6 @@
     "youtube": "SsaVAOb19o8",
     "youtubeMusic": "SsaVAOb19o8"
   },
-  "artistMbid": "dc010eb5-ebdc-4b88-85cf-6db44c3a9ba3",
   "lastfm": {
     "id": "The+Jins/_/She+Said",
     "listeners": 133660,
@@ -29,5 +28,8 @@
       "rock",
       "grunge"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "dc010eb5-ebdc-4b88-85cf-6db44c3a9ba3"
   }
 }

@@ -11,8 +11,6 @@
     "youtube": "TdwBRn2NKWM",
     "youtubeMusic": "TdwBRn2NKWM"
   },
-  "mbid": "1049b9da-5707-4322-ac0a-fda79ee84559",
-  "artistMbid": "f4857fb9-e255-4dc6-bd01-e4ca7cc68544",
   "musicbrainz": {
     "artistTags": [
       "acid jazz",
@@ -31,7 +29,9 @@
       "funk",
       "house",
       "r&b"
-    ]
+    ],
+    "trackMbid": "1049b9da-5707-4322-ac0a-fda79ee84559",
+    "artistMbid": "f4857fb9-e255-4dc6-bd01-e4ca7cc68544"
   },
   "lastfm": {
     "id": "Jamiroquai/_/Deeper+Underground",

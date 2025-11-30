@@ -16,8 +16,6 @@
     "youtube": "zug1B8DSkWw",
     "youtubeMusic": "zug1B8DSkWw"
   },
-  "mbid": "c232a31f-e383-44f0-a569-871a852c6745",
-  "artistMbid": "081b133e-ce74-42ba-92c1-c18234acb532",
   "musicbrainz": {
     "artistTags": [
       "baroque pop",
@@ -32,7 +30,9 @@
       "indie folk",
       "indie pop",
       "indie rock"
-    ]
+    ],
+    "trackMbid": "c232a31f-e383-44f0-a569-871a852c6745",
+    "artistMbid": "081b133e-ce74-42ba-92c1-c18234acb532"
   },
   "lastfm": {
     "id": "Andrew+Bird/_/Sisyphus",

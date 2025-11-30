@@ -17,8 +17,6 @@
     "youtube": "4G6QDNC4jPs",
     "youtubeMusic": "4G6QDNC4jPs"
   },
-  "mbid": "7e8e7768-7cf1-38e7-84e8-83b08cc5d738",
-  "artistMbid": "04af2581-6692-4f14-a7fe-151a36f20368",
   "musicbrainz": {
     "tags": [
       "dance",
@@ -26,7 +24,9 @@
       "electronic",
       "techno",
       "trance"
-    ]
+    ],
+    "trackMbid": "7e8e7768-7cf1-38e7-84e8-83b08cc5d738",
+    "artistMbid": "04af2581-6692-4f14-a7fe-151a36f20368"
   },
   "lastfm": {
     "id": "Cascada/_/Everytime+We+Touch",

@@ -16,8 +16,6 @@
     "youtube": "lFJMXpBO11I",
     "youtubeMusic": "lFJMXpBO11I"
   },
-  "mbid": "1801bf3f-5eba-3cb7-834d-a35b0b31cab8",
-  "artistMbid": "0770a42f-10e3-4204-8459-0c6fba885852",
   "musicbrainz": {
     "artistTags": [
       "christian metal",
@@ -30,7 +28,9 @@
       "metal",
       "technical thrash metal",
       "thrash metal"
-    ]
+    ],
+    "trackMbid": "1801bf3f-5eba-3cb7-834d-a35b0b31cab8",
+    "artistMbid": "0770a42f-10e3-4204-8459-0c6fba885852"
   },
   "lastfm": {
     "id": "Tourniquet/_/Viento+Borrascoso",

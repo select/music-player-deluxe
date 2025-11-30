@@ -19,8 +19,6 @@
     "youtube": "lL2ZwXj1tXM",
     "youtubeMusic": "lL2ZwXj1tXM"
   },
-  "mbid": "2ac2fefc-83f0-4441-9f0d-4bad4d317fa8",
-  "artistMbid": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d",
   "musicbrainz": {
     "tags": [
       "alternative rock",
@@ -28,7 +26,9 @@
       "three days grace",
       "hard rock",
       "alternative"
-    ]
+    ],
+    "trackMbid": "2ac2fefc-83f0-4441-9f0d-4bad4d317fa8",
+    "artistMbid": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d"
   },
   "lastfm": {
     "id": "Three+Days+Grace/_/Never+Too+Late",

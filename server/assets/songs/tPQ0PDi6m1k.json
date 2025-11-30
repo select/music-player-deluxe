@@ -19,8 +19,6 @@
     "youtube": "tPQ0PDi6m1k",
     "youtubeMusic": "tPQ0PDi6m1k"
   },
-  "mbid": "91c36255-d739-3434-beb7-49ad1499d901",
-  "artistMbid": "ed4a6b66-f07f-41cb-9e5d-ea47d40beba6",
   "musicbrainz": {
     "artistTags": [
       "calypso",
@@ -29,7 +27,9 @@
     "artistGenres": [
       "calypso",
       "soca"
-    ]
+    ],
+    "trackMbid": "91c36255-d739-3434-beb7-49ad1499d901",
+    "artistMbid": "ed4a6b66-f07f-41cb-9e5d-ea47d40beba6"
   },
   "lastfm": {
     "id": "Calypso+Rose/_/Calypso+Blues",

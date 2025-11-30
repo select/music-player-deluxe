@@ -20,7 +20,6 @@
     "youtube": "7cJZbrPndW8",
     "youtubeMusic": "7cJZbrPndW8"
   },
-  "artistMbid": "58f9c836-30a1-4330-9274-e2dd5bc75008",
   "lastfm": {
     "id": "Chet+Baker+Quartet/_/Carson+City+Stage",
     "listeners": 22490,
@@ -28,5 +27,8 @@
     "tags": [
       "jazz"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "58f9c836-30a1-4330-9274-e2dd5bc75008"
   }
 }

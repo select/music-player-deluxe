@@ -17,7 +17,6 @@
     "youtube": "LQj--Kjn0z8",
     "youtubeMusic": "LQj--Kjn0z8"
   },
-  "artistMbid": "944e1036-8a03-4611-8aa0-31515a05c848",
   "musicbrainz": {
     "tags": [
       "90s",
@@ -25,7 +24,8 @@
       "alternative rock",
       "pop",
       "alternative"
-    ]
+    ],
+    "artistMbid": "944e1036-8a03-4611-8aa0-31515a05c848"
   },
   "lastfm": {
     "id": "Smash+Mouth/_/Walkin%27+on+the+Sun",

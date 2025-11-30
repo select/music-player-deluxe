@@ -16,7 +16,6 @@
     "youtube": "Vppbdf-qtGU",
     "youtubeMusic": "Vppbdf-qtGU"
   },
-  "artistMbid": "a81259a0-a2f5-464b-866e-71220f2739f1",
   "lastfm": {
     "id": "ZZ+Top/_/La+Grange",
     "listeners": 587553,
@@ -29,5 +28,8 @@
       "southern rock",
       "70s"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "a81259a0-a2f5-464b-866e-71220f2739f1"
   }
 }

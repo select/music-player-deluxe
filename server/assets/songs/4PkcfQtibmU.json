@@ -3,8 +3,6 @@
   "title": "Walk",
   "artist": "Foo Fighters",
   "lastFetched": "2025-11-23T16:27:46.599Z",
-  "mbid": "0734d285-4838-480d-acd3-a54352ba6a45",
-  "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -20,7 +18,9 @@
       "hard rock",
       "post-grunge",
       "rock"
-    ]
+    ],
+    "trackMbid": "0734d285-4838-480d-acd3-a54352ba6a45",
+    "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d"
   },
   "lastfm": {
     "id": "Foo+Fighters/_/Walk",

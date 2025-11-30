@@ -13,7 +13,6 @@
     "youtube": "bSebtaa_s8k",
     "youtubeMusic": "bSebtaa_s8k"
   },
-  "artistMbid": "ec406531-3c98-4d48-9c19-53015c6dabfc",
   "lastfm": {
     "id": "Scar/_/Grasshopper",
     "listeners": 96,
@@ -25,5 +24,8 @@
       "uk garage",
       "footwork"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "ec406531-3c98-4d48-9c19-53015c6dabfc"
   }
 }

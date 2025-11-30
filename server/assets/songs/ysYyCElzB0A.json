@@ -15,8 +15,6 @@
     "youtube": "ysYyCElzB0A",
     "youtubeMusic": "ysYyCElzB0A"
   },
-  "mbid": "413f3564-ad99-471c-b203-03107f537df6",
-  "artistMbid": "1d0a249b-5892-4e09-b50d-3c0755bfae77",
   "musicbrainz": {
     "artistTags": [
       "contemporary r&b",
@@ -31,7 +29,9 @@
       "pop",
       "pop soul",
       "soul"
-    ]
+    ],
+    "trackMbid": "413f3564-ad99-471c-b203-03107f537df6",
+    "artistMbid": "1d0a249b-5892-4e09-b50d-3c0755bfae77"
   },
   "lastfm": {
     "id": "Shanice/_/I+Love+Your+Smile",

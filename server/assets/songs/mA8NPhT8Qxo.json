@@ -1,10 +1,8 @@
 {
-  "mbid": "76d82d0f-78ab-42c6-96d2-bbd39b5bca07",
   "title": "Yogtze",
   "artist": "FEATER",
   "youtubeId": "mA8NPhT8Qxo",
   "lastFetched": "2025-11-23T15:40:40.495Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B07T7GDCBF",
     "amazonStore": "B07T7GDCBF",
@@ -12,7 +10,6 @@
     "youtube": "mA8NPhT8Qxo",
     "youtubeMusic": "mA8NPhT8Qxo"
   },
-  "artistMbid": "e030ae23-82f4-495f-bd9c-d9bb4d5280f8",
   "lastfm": {
     "id": "FEATER/_/Yogtze",
     "listeners": 586,
@@ -21,5 +18,10 @@
       "electronic",
       "dance"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "76d82d0f-78ab-42c6-96d2-bbd39b5bca07",
+    "artistMbid": "e030ae23-82f4-495f-bd9c-d9bb4d5280f8",
+    "releaseCount": 1
   }
 }

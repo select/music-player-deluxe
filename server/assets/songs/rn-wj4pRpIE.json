@@ -3,8 +3,6 @@
   "title": "Technical Difficulties",
   "artist": "Paul Gilbert",
   "lastFetched": "2025-11-23T16:51:23.703Z",
-  "mbid": "171e2ebc-99da-4be0-9511-df6e7e9f0d96",
-  "artistMbid": "453321a7-3a77-47b0-8125-7bd385f3a730",
   "musicbrainz": {
     "artistTags": [
       "hard rock",
@@ -15,7 +13,9 @@
       "hard rock",
       "heavy metal",
       "rock"
-    ]
+    ],
+    "trackMbid": "171e2ebc-99da-4be0-9511-df6e7e9f0d96",
+    "artistMbid": "453321a7-3a77-47b0-8125-7bd385f3a730"
   },
   "lastfm": {
     "id": "Paul+Gilbert/_/Technical+Difficulties",

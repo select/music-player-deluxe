@@ -9,8 +9,6 @@
     "youtube": "DZg2dpwUjsQ",
     "youtubeMusic": "DZg2dpwUjsQ"
   },
-  "mbid": "5885f2bc-686c-3bec-b144-1a326e2e7e8b",
-  "artistMbid": "5febe272-7691-4ea8-a3cf-c6c7f98d9bf1",
   "lastfm": {
     "id": "Mano+Solo/_/Allo+Paris",
     "listeners": 14930,
@@ -22,5 +20,9 @@
       "chanson française",
       "wish list"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5885f2bc-686c-3bec-b144-1a326e2e7e8b",
+    "artistMbid": "5febe272-7691-4ea8-a3cf-c6c7f98d9bf1"
   }
 }

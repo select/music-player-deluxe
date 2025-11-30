@@ -12,8 +12,6 @@
     "youtube": "oiiTx5u5Nb8",
     "youtubeMusic": "oiiTx5u5Nb8"
   },
-  "mbid": "83b015f2-9fb0-4c7c-af89-0e97a86e9d2d",
-  "artistMbid": "995d7339-ff57-498e-9c8e-faf955eba696",
   "musicbrainz": {
     "artistTags": [
       "gangsta rap",
@@ -22,7 +20,9 @@
     "artistGenres": [
       "gangsta rap",
       "hip hop"
-    ]
+    ],
+    "trackMbid": "83b015f2-9fb0-4c7c-af89-0e97a86e9d2d",
+    "artistMbid": "995d7339-ff57-498e-9c8e-faf955eba696"
   },
   "lastfm": {
     "id": "Terror+Squad/_/Lean+Back+(NGHTMRE+Remix)",

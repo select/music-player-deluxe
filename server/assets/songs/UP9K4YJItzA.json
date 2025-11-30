@@ -1,11 +1,9 @@
 {
-  "mbid": "01d02806-b421-4d8e-b8de-df0f7dd45125",
   "title": "Smoke Machine",
   "artist": "Dear Reader",
   "duration": 185,
   "youtubeId": "UP9K4YJItzA",
   "lastFetched": "2025-11-19T02:31:08.718Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0CQ3YVSJW",
     "amazonStore": "B0CQ3YVSJW",
@@ -19,7 +17,6 @@
     "youtube": "UP9K4YJItzA",
     "youtubeMusic": "UP9K4YJItzA"
   },
-  "artistMbid": "dc70bf33-5c52-4699-871b-0008126ba88b",
   "lastfm": {
     "id": "Dear+Reader/_/Smoke+Machine",
     "listeners": 4800,
@@ -31,5 +28,10 @@
       "indie folk",
       "folkrock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "01d02806-b421-4d8e-b8de-df0f7dd45125",
+    "artistMbid": "dc70bf33-5c52-4699-871b-0008126ba88b",
+    "releaseCount": 1
   }
 }

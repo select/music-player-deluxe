@@ -15,7 +15,6 @@
     "youtube": "IF1lYMiBcWc",
     "youtubeMusic": "IF1lYMiBcWc"
   },
-  "artistMbid": "2aff9c10-2145-4851-a656-898aeb434ad5",
   "lastfm": {
     "id": "Rival+Sons/_/Nobody+Wants+to+Die",
     "listeners": 15419,
@@ -26,5 +25,8 @@
       "rock",
       "classic rock"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "2aff9c10-2145-4851-a656-898aeb434ad5"
   }
 }

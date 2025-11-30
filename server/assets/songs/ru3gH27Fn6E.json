@@ -15,8 +15,6 @@
     "youtube": "ru3gH27Fn6E",
     "youtubeMusic": "ru3gH27Fn6E"
   },
-  "mbid": "014e78c2-c150-3c65-849e-f96d124c21fe",
-  "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
   "musicbrainz": {
     "artistTags": [
       "alternative hip hop",
@@ -36,7 +34,9 @@
       "east coast hip hop",
       "experimental hip hop",
       "funk"
-    ]
+    ],
+    "trackMbid": "014e78c2-c150-3c65-849e-f96d124c21fe",
+    "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53"
   },
   "lastfm": {
     "id": "Beastie+Boys/_/So+What%27cha+Want",

@@ -15,7 +15,6 @@
     "youtube": "L5Pz-lZjhEo",
     "youtubeMusic": "L5Pz-lZjhEo"
   },
-  "artistMbid": "be517147-c25a-43ba-9f15-cdbe5dde2832",
   "lastfm": {
     "id": "Monster+Truck/_/Golden+Woman",
     "listeners": 7482,
@@ -26,5 +25,8 @@
       "southern rock",
       "rock"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "be517147-c25a-43ba-9f15-cdbe5dde2832"
   }
 }

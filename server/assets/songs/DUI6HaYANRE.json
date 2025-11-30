@@ -20,15 +20,15 @@
     "youtube": "DUI6HaYANRE",
     "youtubeMusic": "DUI6HaYANRE"
   },
-  "mbid": "0061178f-9024-3f7d-9111-553b2b285966",
-  "artistMbid": "695e75b5-c6db-43ee-abeb-2f3e50d96c3e",
   "musicbrainz": {
     "artistTags": [
       "post-punk"
     ],
     "artistGenres": [
       "post-punk"
-    ]
+    ],
+    "trackMbid": "0061178f-9024-3f7d-9111-553b2b285966",
+    "artistMbid": "695e75b5-c6db-43ee-abeb-2f3e50d96c3e"
   },
   "lastfm": {
     "id": "Imperiet/_/CC+Cowboys",

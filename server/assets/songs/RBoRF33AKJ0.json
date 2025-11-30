@@ -16,8 +16,6 @@
     "youtube": "RBoRF33AKJ0",
     "youtubeMusic": "RBoRF33AKJ0"
   },
-  "mbid": "1d09c79e-a6f4-3785-86df-d24996f3ca13",
-  "artistMbid": "4dab20be-f26d-49f3-8bb2-bb011acf180b",
   "lastfm": {
     "id": "Ruxpin/_/Palace+Midas",
     "listeners": 3564,
@@ -28,5 +26,9 @@
       "electronic",
       "relaxing"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1d09c79e-a6f4-3785-86df-d24996f3ca13",
+    "artistMbid": "4dab20be-f26d-49f3-8bb2-bb011acf180b"
   }
 }

@@ -11,8 +11,6 @@
     "youtube": "x3ZyNTdLTI4",
     "youtubeMusic": "x3ZyNTdLTI4"
   },
-  "mbid": "42e805e1-c28f-4622-8d2e-87bc37747ac6",
-  "artistMbid": "80ba0f2a-c8a6-4f5d-bf11-f2b5b077f4ed",
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
@@ -21,7 +19,9 @@
     "artistGenres": [
       "drum and bass",
       "minimal drum and bass"
-    ]
+    ],
+    "trackMbid": "42e805e1-c28f-4622-8d2e-87bc37747ac6",
+    "artistMbid": "80ba0f2a-c8a6-4f5d-bf11-f2b5b077f4ed"
   },
   "lastfm": {
     "id": "Abstract+Elements/_/Why%3F",

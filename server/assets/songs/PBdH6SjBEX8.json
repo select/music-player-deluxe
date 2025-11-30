@@ -3,15 +3,15 @@
   "title": "Falling",
   "artist": "Julee Cruise",
   "lastFetched": "2025-11-23T16:37:35.856Z",
-  "mbid": "8c684690-096a-3f34-b7bf-d49bfb5ebe98",
-  "artistMbid": "3b7865df-3c91-48dd-9126-a71e0dfe7f8d",
   "musicbrainz": {
     "artistTags": [
       "dream pop"
     ],
     "artistGenres": [
       "dream pop"
-    ]
+    ],
+    "trackMbid": "8c684690-096a-3f34-b7bf-d49bfb5ebe98",
+    "artistMbid": "3b7865df-3c91-48dd-9126-a71e0dfe7f8d"
   },
   "lastfm": {
     "id": "Julee+Cruise/_/Falling",

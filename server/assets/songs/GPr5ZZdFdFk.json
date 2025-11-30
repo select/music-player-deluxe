@@ -20,8 +20,6 @@
     "youtube": "GPr5ZZdFdFk",
     "youtubeMusic": "GPr5ZZdFdFk"
   },
-  "mbid": "1003ca48-d3e2-4d25-98f9-2552ccbcd800",
-  "artistMbid": "4051f6bf-6a59-4d23-bd8b-2fddb1389dc0",
   "musicbrainz": {
     "artistTags": [
       "classic pop and rock",
@@ -31,7 +29,9 @@
     ],
     "artistGenres": [
       "classic rock"
-    ]
+    ],
+    "trackMbid": "1003ca48-d3e2-4d25-98f9-2552ccbcd800",
+    "artistMbid": "4051f6bf-6a59-4d23-bd8b-2fddb1389dc0"
   },
   "lastfm": {
     "id": "Dennis+Wilson/_/Dreamer",

@@ -3,7 +3,6 @@
   "title": "Dragula",
   "artist": "Rob Zombie",
   "lastFetched": "2025-11-19T13:25:09.514Z",
-  "artistMbid": "c995a379-60b9-404b-bd97-a7e2de0751d3",
   "musicbrainz": {
     "tags": [
       "industrial metal",
@@ -11,7 +10,8 @@
       "industrial",
       "rock",
       "rob zombie"
-    ]
+    ],
+    "artistMbid": "c995a379-60b9-404b-bd97-a7e2de0751d3"
   },
   "lastfm": {
     "id": "Rob+Zombie/_/Dragula",

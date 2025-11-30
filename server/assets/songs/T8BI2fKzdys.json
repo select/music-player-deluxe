@@ -12,7 +12,6 @@
     "youtube": "T8BI2fKzdys",
     "youtubeMusic": "T8BI2fKzdys"
   },
-  "artistMbid": "fe6a71e2-c5e6-4407-b0d1-7ee41eaa7e38",
   "lastfm": {
     "id": "Really+Slow+Motion/_/Your+God+Is+Dead",
     "listeners": 5135,
@@ -23,5 +22,8 @@
       "epic",
       "trailer music"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "fe6a71e2-c5e6-4407-b0d1-7ee41eaa7e38"
   }
 }

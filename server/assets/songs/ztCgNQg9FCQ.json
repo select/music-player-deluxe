@@ -15,8 +15,6 @@
     "youtube": "ztCgNQg9FCQ",
     "youtubeMusic": "ztCgNQg9FCQ"
   },
-  "mbid": "fb908095-4905-4ab7-a8e9-de6a8f03008e",
-  "artistMbid": "2944824d-4c26-476f-a981-be849081942f",
   "musicbrainz": {
     "artistTags": [
       "african american singers",
@@ -36,7 +34,9 @@
       "folk",
       "gospel",
       "jazz"
-    ]
+    ],
+    "trackMbid": "fb908095-4905-4ab7-a8e9-de6a8f03008e",
+    "artistMbid": "2944824d-4c26-476f-a981-be849081942f"
   },
   "lastfm": {
     "id": "Nina+Simone/_/Baltimore",

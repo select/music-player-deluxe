@@ -21,8 +21,6 @@
     "youtube": "wH9QAVArx6c",
     "youtubeMusic": "wH9QAVArx6c"
   },
-  "mbid": "6479fc4d-a0a8-3838-ba5b-5ff3f57eda5f",
-  "artistMbid": "4dd62d49-9868-465b-882f-733afb40eb0d",
   "musicbrainz": {
     "artistTags": [
       "contemporary jazz",
@@ -35,7 +33,9 @@
       "jazz",
       "jazz fusion",
       "post-bop"
-    ]
+    ],
+    "trackMbid": "6479fc4d-a0a8-3838-ba5b-5ff3f57eda5f",
+    "artistMbid": "4dd62d49-9868-465b-882f-733afb40eb0d"
   },
   "lastfm": {
     "id": "Aaron+Parks/_/Riddle+Me+This",

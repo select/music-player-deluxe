@@ -15,8 +15,6 @@
     "youtube": "TVxhR6VfcCE",
     "youtubeMusic": "TVxhR6VfcCE"
   },
-  "mbid": "5e32164d-a1ab-4203-a823-7c2b6b64a2b5",
-  "artistMbid": "7f9d3622-6e3e-4bd5-9a36-261eecbd30e5",
   "lastfm": {
     "id": "Chill+Bump/_/Not+Today",
     "listeners": 35578,
@@ -24,5 +22,9 @@
     "tags": [
       "hip-hop"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5e32164d-a1ab-4203-a823-7c2b6b64a2b5",
+    "artistMbid": "7f9d3622-6e3e-4bd5-9a36-261eecbd30e5"
   }
 }

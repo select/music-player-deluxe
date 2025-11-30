@@ -19,8 +19,6 @@
     "youtube": "_pfTNujvYUo",
     "youtubeMusic": "_pfTNujvYUo"
   },
-  "mbid": "4e1b1d9b-4c6f-40fe-8c30-b1811ee55d6a",
-  "artistMbid": "8fbbcf55-9fc9-4e06-99dc-ef76d5816dcd",
   "musicbrainz": {
     "artistTags": [
       "krautrock",
@@ -31,7 +29,9 @@
       "krautrock",
       "progressive rock",
       "psychedelic rock"
-    ]
+    ],
+    "trackMbid": "4e1b1d9b-4c6f-40fe-8c30-b1811ee55d6a",
+    "artistMbid": "8fbbcf55-9fc9-4e06-99dc-ef76d5816dcd"
   },
   "lastfm": {
     "id": "Brainticket/_/Coc%27+O+Mary",

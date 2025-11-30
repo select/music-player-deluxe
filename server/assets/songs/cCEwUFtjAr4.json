@@ -19,8 +19,6 @@
     "youtube": "cCEwUFtjAr4",
     "youtubeMusic": "cCEwUFtjAr4"
   },
-  "mbid": "0664d616-9476-4a46-994f-0ef7b5e516da",
-  "artistMbid": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd",
   "musicbrainz": {
     "artistTags": [
       "absolute music",
@@ -40,7 +38,9 @@
       "classical",
       "jazz",
       "modern classical"
-    ]
+    ],
+    "trackMbid": "0664d616-9476-4a46-994f-0ef7b5e516da",
+    "artistMbid": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd"
   },
   "lastfm": {
     "id": "Ennio+Morricone/_/The+Ecstasy+of+Gold",

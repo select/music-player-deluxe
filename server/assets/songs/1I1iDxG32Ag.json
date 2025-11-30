@@ -13,8 +13,6 @@
     "youtube": "1I1iDxG32Ag",
     "youtubeMusic": "1I1iDxG32Ag"
   },
-  "mbid": "d9f35c56-8e66-4d97-9673-935ef2fb756c",
-  "artistMbid": "ad957b43-9dc0-42e1-940c-19b21ec77f3a",
   "musicbrainz": {
     "artistTags": [
       "ambience",
@@ -33,7 +31,9 @@
       "electronica",
       "glitch",
       "idm"
-    ]
+    ],
+    "trackMbid": "d9f35c56-8e66-4d97-9673-935ef2fb756c",
+    "artistMbid": "ad957b43-9dc0-42e1-940c-19b21ec77f3a"
   },
   "lastfm": {
     "id": "Pole/_/Grauer+Sand",

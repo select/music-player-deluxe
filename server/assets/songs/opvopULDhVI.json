@@ -1,15 +1,15 @@
 {
-  "mbid": "e7479989-70e1-4e1e-8296-ba87d516b759",
   "title": "Deep Burnt",
   "artist": "Pépé Bradock",
   "youtubeId": "opvopULDhVI",
   "lastFetched": "2025-11-23T16:49:59.623Z",
-  "releaseCount": 1,
-  "artistMbid": "57f561e0-79e3-4bc2-99ce-6e313878c91b",
   "musicbrainz": {
     "artistTags": [
       "french"
-    ]
+    ],
+    "trackMbid": "e7479989-70e1-4e1e-8296-ba87d516b759",
+    "artistMbid": "57f561e0-79e3-4bc2-99ce-6e313878c91b",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "P%C3%A9p%C3%A9+Bradock/_/Deep+Burnt",

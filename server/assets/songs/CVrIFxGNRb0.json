@@ -13,8 +13,6 @@
     "youtube": "CVrIFxGNRb0",
     "youtubeMusic": "CVrIFxGNRb0"
   },
-  "mbid": "2a9bd766-9d92-467a-9add-c311b6a30e79",
-  "artistMbid": "e464e642-06c6-4fa0-b3c5-4a81191b0f38",
   "lastfm": {
     "id": "DJ+Paypal/_/Ahhhhhhh",
     "listeners": 5896,
@@ -23,5 +21,9 @@
       "footwork",
       "juke"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2a9bd766-9d92-467a-9add-c311b6a30e79",
+    "artistMbid": "e464e642-06c6-4fa0-b3c5-4a81191b0f38"
   }
 }

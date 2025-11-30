@@ -3,8 +3,6 @@
   "title": "Hymn (European mix)",
   "artist": "Moby",
   "lastFetched": "2025-11-23T16:33:30.310Z",
-  "mbid": "be8f7029-9e3d-44b9-8f9a-8e930e989b64",
-  "artistMbid": "8970d868-0723-483b-a75b-51088913d3d4",
   "musicbrainz": {
     "artistTags": [
       "ambient",
@@ -24,7 +22,9 @@
       "downtempo",
       "electronic",
       "electronica"
-    ]
+    ],
+    "trackMbid": "be8f7029-9e3d-44b9-8f9a-8e930e989b64",
+    "artistMbid": "8970d868-0723-483b-a75b-51088913d3d4"
   },
   "lastfm": {
     "id": "Moby/_/Hymn+(European+mix)",

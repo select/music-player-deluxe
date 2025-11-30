@@ -15,7 +15,6 @@
     "youtube": "NlQedjvEisY",
     "youtubeMusic": "NlQedjvEisY"
   },
-  "artistMbid": "6674d1df-643f-4373-a74a-8df912a87541",
   "lastfm": {
     "id": "Jon+Bap/_/Queen+Chimera+Pt.1",
     "listeners": 3156,
@@ -26,5 +25,8 @@
       "usa",
       "american"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "6674d1df-643f-4373-a74a-8df912a87541"
   }
 }

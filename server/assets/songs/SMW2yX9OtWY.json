@@ -20,8 +20,6 @@
     "youtube": "SMW2yX9OtWY",
     "youtubeMusic": "SMW2yX9OtWY"
   },
-  "mbid": "9ae57124-a24c-4a34-8f58-ed48be5c6059",
-  "artistMbid": "6bba0cc9-74c4-4a83-8171-a225726e9644",
   "musicbrainz": {
     "artistTags": [
       "néo-trad",
@@ -31,7 +29,9 @@
     "artistGenres": [
       "néo-trad",
       "singer-songwriter"
-    ]
+    ],
+    "trackMbid": "9ae57124-a24c-4a34-8f58-ed48be5c6059",
+    "artistMbid": "6bba0cc9-74c4-4a83-8171-a225726e9644"
   },
   "lastfm": {
     "id": "Lena+Chamamyan/_/Ya+Mayela+Al-Ghusoon",

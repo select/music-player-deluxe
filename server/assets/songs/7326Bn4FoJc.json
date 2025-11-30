@@ -2,7 +2,7 @@
   "youtubeId": "7326Bn4FoJc",
   "title": "Wie schnell ist nix passiert",
   "artist": "Stoppok",
-  "lastFetched": "2025-11-30T17:43:56.194Z",
+  "lastFetched": "2025-11-30T19:28:06.150Z",
   "odesli": {
     "amazonMusic": "B00N2X7SLG",
     "amazonStore": "B00N2X7SLG",
@@ -21,6 +21,21 @@
     "artistMbid": "45376dbf-6259-4264-b85d-42479ce95b81",
     "tags": [
       "bluz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f92d3315-eb8e-42d6-b177-a7a62f4afd99",
+    "artistMbid": "45376dbf-6259-4264-b85d-42479ce95b81",
+    "releaseCount": 3,
+    "genres": [
+      "alternative rock",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "liedermacher",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

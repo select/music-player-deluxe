@@ -12,8 +12,6 @@
     "youtube": "PiNt_kQvoag",
     "youtubeMusic": "PiNt_kQvoag"
   },
-  "mbid": "0b8649d7-ea32-477b-9a0e-fe8de17da500",
-  "artistMbid": "38c69101-243a-474b-851a-b82e0a35b173",
   "musicbrainz": {
     "artistTags": [
       "pop/rock",
@@ -23,7 +21,9 @@
     "artistGenres": [
       "progressive rock",
       "symphonic prog"
-    ]
+    ],
+    "trackMbid": "0b8649d7-ea32-477b-9a0e-fe8de17da500",
+    "artistMbid": "38c69101-243a-474b-851a-b82e0a35b173"
   },
   "lastfm": {
     "id": "The+Neal+Morse+Band/_/Do+It+All+Again",

@@ -3,8 +3,6 @@
   "title": "Nothing Else Matters",
   "artist": "Metallica",
   "lastFetched": "2025-11-23T16:35:28.448Z",
-  "mbid": "4f9e2300-ccb2-43ad-8e25-7bae46803b18",
-  "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -18,7 +16,9 @@
       "heavy metal",
       "metal",
       "thrash metal"
-    ]
+    ],
+    "trackMbid": "4f9e2300-ccb2-43ad-8e25-7bae46803b18",
+    "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
   },
   "lastfm": {
     "id": "Metallica/_/Nothing+Else+Matters",

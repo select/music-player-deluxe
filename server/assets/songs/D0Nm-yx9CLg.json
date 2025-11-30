@@ -20,7 +20,6 @@
     "youtube": "D0Nm-yx9CLg",
     "youtubeMusic": "D0Nm-yx9CLg"
   },
-  "artistMbid": "777a21a8-0d0f-4cf3-86b4-65bc0eba5649",
   "lastfm": {
     "id": "Staind/_/Lowest+In+Me",
     "listeners": 32179,
@@ -31,5 +30,8 @@
       "post-grunge",
       "metalcore"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "777a21a8-0d0f-4cf3-86b4-65bc0eba5649"
   }
 }

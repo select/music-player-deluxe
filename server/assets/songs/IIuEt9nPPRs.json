@@ -12,8 +12,6 @@
     "youtube": "IIuEt9nPPRs",
     "youtubeMusic": "IIuEt9nPPRs"
   },
-  "mbid": "09340368-b7a3-4f1b-ad3f-5cf4836365d0",
-  "artistMbid": "2a5a3b60-d468-4b62-a28f-9c410ad3f71d",
   "musicbrainz": {
     "artistTags": [
       "alternative metal",
@@ -26,7 +24,9 @@
       "alternative rock",
       "hard rock",
       "post-grunge"
-    ]
+    ],
+    "trackMbid": "09340368-b7a3-4f1b-ad3f-5cf4836365d0",
+    "artistMbid": "2a5a3b60-d468-4b62-a28f-9c410ad3f71d"
   },
   "lastfm": {
     "id": "Fuel/_/Hemorrhage+(In+My+Hands)",

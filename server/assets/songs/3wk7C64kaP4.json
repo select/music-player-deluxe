@@ -17,7 +17,6 @@
     "youtube": "3wk7C64kaP4",
     "youtubeMusic": "3wk7C64kaP4"
   },
-  "artistMbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
   "lastfm": {
     "id": "The+Smashing+Pumpkins/_/Zero",
     "listeners": 647960,
@@ -30,5 +29,8 @@
       "alternative",
       "grunge"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396"
   }
 }

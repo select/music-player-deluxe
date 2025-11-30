@@ -13,7 +13,6 @@
     "youtube": "6BigTbHd8Xs",
     "youtubeMusic": "6BigTbHd8Xs"
   },
-  "artistMbid": "8a3365ac-1f67-4894-8c09-0ac35960dc35",
   "lastfm": {
     "id": "Magnetic+Ghost+Orchestra/_/Golden",
     "listeners": 200,
@@ -21,5 +20,8 @@
     "tags": [
       "jazz"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "8a3365ac-1f67-4894-8c09-0ac35960dc35"
   }
 }

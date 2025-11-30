@@ -1,9 +1,6 @@
 {
-  "mbid": "0adbd7ba-150e-4d57-8128-bd0a3075ffac",
   "title": "And That's Saying a Lot",
   "artist": "Christine Perfect",
-  "artistMbid": "21551f7d-93f2-4cb7-ba71-7f260058e923",
-  "releaseCount": 12,
   "duration": 181,
   "youtubeId": "gPDkcHo8rIU",
   "lastFetched": "2025-11-16T19:15:06.774Z",
@@ -31,6 +28,9 @@
       "pop",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "trackMbid": "0adbd7ba-150e-4d57-8128-bd0a3075ffac",
+    "artistMbid": "21551f7d-93f2-4cb7-ba71-7f260058e923",
+    "releaseCount": 12
   }
 }

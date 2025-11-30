@@ -3,8 +3,6 @@
   "title": "Burn the Witch",
   "artist": "Radiohead",
   "lastFetched": "2025-11-19T05:14:22.247Z",
-  "mbid": "81eaef98-48c0-4431-807c-5fd08c304b9a",
-  "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
   "musicbrainz": {
     "tags": [
       "chamber pop",
@@ -12,7 +10,9 @@
       "art rock",
       "2016",
       "alternative"
-    ]
+    ],
+    "trackMbid": "81eaef98-48c0-4431-807c-5fd08c304b9a",
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
   },
   "lastfm": {
     "id": "Radiohead/_/Burn+the+Witch",

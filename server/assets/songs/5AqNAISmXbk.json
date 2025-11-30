@@ -12,8 +12,6 @@
     "youtube": "5AqNAISmXbk",
     "youtubeMusic": "5AqNAISmXbk"
   },
-  "mbid": "ab28a8f1-ae58-4f2d-b61a-136238b6cd72",
-  "artistMbid": "21e3292e-dac8-4609-b57d-402f926aa41f",
   "musicbrainz": {
     "tags": [
       "alter. rock",
@@ -29,7 +27,9 @@
     "artistGenres": [
       "alternative rock",
       "hard rock"
-    ]
+    ],
+    "trackMbid": "ab28a8f1-ae58-4f2d-b61a-136238b6cd72",
+    "artistMbid": "21e3292e-dac8-4609-b57d-402f926aa41f"
   },
   "lastfm": {
     "id": "Daughtry/_/pieces",

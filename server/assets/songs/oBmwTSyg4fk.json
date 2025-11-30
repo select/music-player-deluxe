@@ -1,9 +1,6 @@
 {
-  "mbid": "71df0c37-495e-42e3-9163-8a7e379d9bfc",
   "title": "Run",
   "artist": "D5",
-  "artistMbid": "b2edd219-76b3-4490-8969-5552cc8608a6",
-  "releaseCount": 2,
   "duration": 417,
   "youtubeId": "oBmwTSyg4fk",
   "lastFetched": "2025-11-19T05:02:08.749Z",
@@ -15,5 +12,10 @@
       "metro minimal",
       "metro downtempo"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "71df0c37-495e-42e3-9163-8a7e379d9bfc",
+    "artistMbid": "b2edd219-76b3-4490-8969-5552cc8608a6",
+    "releaseCount": 2
   }
 }

@@ -14,8 +14,6 @@
     "youtube": "6Q-OH3PnZxc",
     "youtubeMusic": "6Q-OH3PnZxc"
   },
-  "mbid": "2eefc464-ec74-496a-bd6d-8459c8dce800",
-  "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
   "musicbrainz": {
     "artistTags": [
       "berlin",
@@ -34,7 +32,9 @@
       "punk",
       "punk rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "2eefc464-ec74-496a-bd6d-8459c8dce800",
+    "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320"
   },
   "lastfm": {
     "id": "Die+%C3%84rzte/_/Meine+Ex(plodierte+Freundin)",

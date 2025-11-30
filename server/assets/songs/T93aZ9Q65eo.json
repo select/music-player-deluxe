@@ -15,7 +15,6 @@
     "youtube": "T93aZ9Q65eo",
     "youtubeMusic": "T93aZ9Q65eo"
   },
-  "artistMbid": "83928527-eeb1-4625-98df-0cfbcc5c07ec",
   "lastfm": {
     "id": "Camo+&+Krooked/_/No+Tomorrow",
     "listeners": 24530,
@@ -26,5 +25,8 @@
       "electronic",
       "neurofunk"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "83928527-eeb1-4625-98df-0cfbcc5c07ec"
   }
 }

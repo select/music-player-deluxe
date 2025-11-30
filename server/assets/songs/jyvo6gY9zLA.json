@@ -12,8 +12,6 @@
     "youtube": "jyvo6gY9zLA",
     "youtubeMusic": "jyvo6gY9zLA"
   },
-  "mbid": "0456ed91-c52a-3c81-bcc0-d5b42a80c0df",
-  "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5",
   "musicbrainz": {
     "artistTags": [
       "alternative metal",
@@ -32,7 +30,9 @@
       "funk metal",
       "funk rock",
       "nu metal"
-    ]
+    ],
+    "trackMbid": "0456ed91-c52a-3c81-bcc0-d5b42a80c0df",
+    "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5"
   },
   "lastfm": {
     "id": "Incubus/_/Megalomaniac",

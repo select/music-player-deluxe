@@ -1,7 +1,7 @@
 {
   "youtubeId": "DIm6Bz6MlPI",
   "title": "Radio Tarifa en Vivo \"La Pastora\"",
-  "lastFetched": "2025-11-30T17:23:37.947Z",
+  "lastFetched": "2025-11-30T19:23:04.181Z",
   "ai": {
     "title": "La Pastora",
     "artist": "Radio Tarifa"
@@ -19,6 +19,15 @@
       "arabic",
       "favourite songs in spanish",
       "fantasy dance"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0808e6a0-437a-4392-8da3-d784189ca72c",
+    "artistMbid": "bc3f048c-0cfe-4d92-b7a9-269e093e2231",
+    "releaseCount": 3,
+    "genres": [
+      "folk",
+      "latin"
     ]
   }
 }

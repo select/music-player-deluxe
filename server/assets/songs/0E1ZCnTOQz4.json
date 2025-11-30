@@ -15,7 +15,6 @@
     "youtube": "0E1ZCnTOQz4",
     "youtubeMusic": "0E1ZCnTOQz4"
   },
-  "artistMbid": "a5c49b00-692e-4ea6-9d2d-d0ec3a8ffbcf",
   "lastfm": {
     "id": "LOLNEIN/_/Sylt",
     "listeners": 2161,
@@ -23,5 +22,8 @@
     "tags": [
       "sylt"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "a5c49b00-692e-4ea6-9d2d-d0ec3a8ffbcf"
   }
 }

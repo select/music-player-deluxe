@@ -3,8 +3,6 @@
   "title": "Momentum",
   "artist": "Aimee Mann",
   "lastFetched": "2025-11-23T16:27:04.132Z",
-  "mbid": "4406cf1b-c33c-3ecf-9ca9-b89cd429614c",
-  "artistMbid": "db3c0a20-bf05-4b30-ac22-f294aea24172",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -18,7 +16,9 @@
       "alternative rock",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "trackMbid": "4406cf1b-c33c-3ecf-9ca9-b89cd429614c",
+    "artistMbid": "db3c0a20-bf05-4b30-ac22-f294aea24172"
   },
   "lastfm": {
     "id": "Aimee+Mann/_/Momentum",

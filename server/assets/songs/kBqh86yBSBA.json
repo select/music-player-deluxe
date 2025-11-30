@@ -1,5 +1,4 @@
 {
-  "mbid": "04571169-4434-412e-b65f-9e767138af84",
   "title": "Running",
   "artist": "Snõõper",
   "album": "Super Snooper",
@@ -16,11 +15,12 @@
     "youtube": "kBqh86yBSBA",
     "youtubeMusic": "kBqh86yBSBA"
   },
-  "artistMbid": "f2bc8767-3737-482c-a22f-8b11ce2b74b8",
   "musicbrainz": {
     "artistTags": [
       "egg punk"
-    ]
+    ],
+    "trackMbid": "04571169-4434-412e-b65f-9e767138af84",
+    "artistMbid": "f2bc8767-3737-482c-a22f-8b11ce2b74b8"
   },
   "lastfm": {
     "id": "Sn%C3%B5%C3%B5per/_/Running",

@@ -1,11 +1,9 @@
 {
-  "mbid": "071e9b7e-dee8-42ca-8b91-78cc85bb5d33",
   "title": "Werk",
   "artist": "Sully",
   "duration": 288,
   "youtubeId": "WMpZctvtAMY",
   "lastFetched": "2025-11-23T16:41:08.399Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B08GM59HLW",
     "amazonStore": "B08GM59HLW",
@@ -23,7 +21,6 @@
     "youtube": "WMpZctvtAMY",
     "youtubeMusic": "WMpZctvtAMY"
   },
-  "artistMbid": "88b9d123-ebda-477a-99bd-022378a6ffa1",
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
@@ -34,7 +31,10 @@
       "drum and bass",
       "dubstep",
       "jungle"
-    ]
+    ],
+    "trackMbid": "071e9b7e-dee8-42ca-8b91-78cc85bb5d33",
+    "artistMbid": "88b9d123-ebda-477a-99bd-022378a6ffa1",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Sully/_/Werk",

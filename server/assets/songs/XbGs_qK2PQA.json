@@ -18,8 +18,6 @@
     "youtube": "XbGs_qK2PQA",
     "youtubeMusic": "XbGs_qK2PQA"
   },
-  "mbid": "851e53db-c962-492b-8d98-45fe93b0efd5",
-  "artistMbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
   "musicbrainz": {
     "tags": [
       "rap",
@@ -27,7 +25,9 @@
       "hip hop",
       "fast rap",
       "Eminem"
-    ]
+    ],
+    "trackMbid": "851e53db-c962-492b-8d98-45fe93b0efd5",
+    "artistMbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4"
   },
   "lastfm": {
     "id": "Eminem/_/Rap+God",

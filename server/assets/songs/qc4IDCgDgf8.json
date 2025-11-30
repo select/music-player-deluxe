@@ -3,7 +3,6 @@
   "title": "Night Train",
   "artist": "Lionel Richie",
   "lastFetched": "2025-11-19T11:26:18.977Z",
-  "artistMbid": "3cb25fb2-5547-4b05-adec-1a5e37830d46",
   "lastfm": {
     "id": "Lionel+Richie/_/Night+Train",
     "listeners": 133,
@@ -15,5 +14,8 @@
       "rnb",
       "motown"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "3cb25fb2-5547-4b05-adec-1a5e37830d46"
   }
 }

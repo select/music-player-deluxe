@@ -13,8 +13,6 @@
     "youtube": "pQJFWhn1R_w",
     "youtubeMusic": "pQJFWhn1R_w"
   },
-  "mbid": "f5a9b6cf-b1f0-4d73-8e4d-5e8c911c68d0",
-  "artistMbid": "9efff43b-3b29-4082-824e-bc82f646f93d",
   "musicbrainz": {
     "tags": [
       "acid rock",
@@ -51,7 +49,9 @@
       "blues rock",
       "classic rock",
       "gothic"
-    ]
+    ],
+    "trackMbid": "f5a9b6cf-b1f0-4d73-8e4d-5e8c911c68d0",
+    "artistMbid": "9efff43b-3b29-4082-824e-bc82f646f93d"
   },
   "lastfm": {
     "id": "The+Doors/_/Alabama+Song+(Whisky+Bar)",

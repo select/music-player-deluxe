@@ -22,7 +22,6 @@
     "youtube": "GLvohMXgcBo",
     "youtubeMusic": "GLvohMXgcBo"
   },
-  "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
   "musicbrainz": {
     "tags": [
       "rock",
@@ -30,7 +29,8 @@
       "alternative rock",
       "90s",
       "Red Hot Chili Peppers"
-    ]
+    ],
+    "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
   },
   "lastfm": {
     "id": "Red+Hot+Chili+Peppers/_/Under+the+Bridge",

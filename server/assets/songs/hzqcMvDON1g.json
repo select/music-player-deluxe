@@ -15,7 +15,6 @@
     "youtube": "hzqcMvDON1g",
     "youtubeMusic": "hzqcMvDON1g"
   },
-  "artistMbid": "2044a4b8-1980-47ee-a452-9511ff137444",
   "lastfm": {
     "id": "Julian+Sommer/_/Dicht+im+Flieger",
     "listeners": 24697,
@@ -23,5 +22,8 @@
     "tags": [
       "germany"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "2044a4b8-1980-47ee-a452-9511ff137444"
   }
 }

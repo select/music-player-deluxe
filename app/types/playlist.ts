@@ -60,13 +60,9 @@ export interface MusicBrainzSearchResult {
 }
 
 export interface SongMetaData {
-	mbid?: string;
-	trackMbid?: string;
 	title: string;
 	artist?: string;
-	artistMbid?: string;
 	album?: string;
-	releaseCount?: number;
 	duration?: number;
 	youtubeId: string;
 	lastFetched: string;
@@ -78,6 +74,9 @@ export interface SongMetaData {
 		artist?: string;
 	};
 	musicbrainz?: {
+		trackMbid?: string;
+		artistMbid?: string;
+		releaseCount?: number;
 		tags?: string[];
 		genres?: string[];
 		artistTags?: string[];

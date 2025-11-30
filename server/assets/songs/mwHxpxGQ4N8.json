@@ -3,8 +3,6 @@
   "title": "Stress",
   "artist": "Pino Daniele",
   "lastFetched": "2025-11-23T16:48:59.630Z",
-  "mbid": "1ccf4363-3eef-336c-8e30-dde2b6fe02bf",
-  "artistMbid": "5b1633c8-cb78-4d85-a7d1-a6d145d8d472",
   "musicbrainz": {
     "artistTags": [
       "canzone napoletana",
@@ -21,7 +19,9 @@
       "pop",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "trackMbid": "1ccf4363-3eef-336c-8e30-dde2b6fe02bf",
+    "artistMbid": "5b1633c8-cb78-4d85-a7d1-a6d145d8d472"
   },
   "lastfm": {
     "id": "Pino+Daniele/_/Stress",

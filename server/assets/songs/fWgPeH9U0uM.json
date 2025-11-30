@@ -3,7 +3,6 @@
   "title": "Roots in the Air",
   "artist": "iSeo & Dodosound",
   "lastFetched": "2025-11-19T08:53:50.606Z",
-  "mbid": "3e02c9d5-dd81-4769-912c-6295809d1634",
   "lastfm": {
     "id": "iSeo+&+Dodosound/_/Roots+in+the+Air",
     "listeners": 3779,
@@ -12,5 +11,8 @@
       "dub",
       "reggae"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3e02c9d5-dd81-4769-912c-6295809d1634"
   }
 }

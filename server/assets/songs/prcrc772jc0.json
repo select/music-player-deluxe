@@ -1,11 +1,9 @@
 {
-  "mbid": "18df0096-22e8-4874-a02c-3483b0badd35",
   "title": "The Meaning Of Love",
   "artist": "Steve Kuhn",
   "duration": 180,
   "youtubeId": "prcrc772jc0",
   "lastFetched": "2025-11-23T16:50:28.543Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0711YHPBP",
     "amazonStore": "B0711YHPBP",
@@ -23,7 +21,6 @@
     "youtube": "prcrc772jc0",
     "youtubeMusic": "prcrc772jc0"
   },
-  "artistMbid": "6a13dd5c-e1a2-481a-b7f8-b78d4eb8b867",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -37,7 +34,10 @@
       "free jazz",
       "jazz",
       "post-bop"
-    ]
+    ],
+    "trackMbid": "18df0096-22e8-4874-a02c-3483b0badd35",
+    "artistMbid": "6a13dd5c-e1a2-481a-b7f8-b78d4eb8b867",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Steve+Kuhn/_/The+Meaning+Of+Love",

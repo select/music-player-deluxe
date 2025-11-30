@@ -1,18 +1,18 @@
 {
-  "mbid": "4ffc5080-76b8-4934-b6ad-982a313f3b47",
   "title": "A Change Is Gonna Come",
   "artist": "Jennifer Lara",
   "duration": 136,
   "youtubeId": "zjFrpjAw1Uc",
   "lastFetched": "2025-11-19T03:25:01.723Z",
-  "releaseCount": 1,
-  "artistMbid": "b0079b6d-d464-4433-960b-072479d3d1ad",
   "musicbrainz": {
     "tags": [
       "reggae",
       "roots reggae",
       "ska"
-    ]
+    ],
+    "trackMbid": "4ffc5080-76b8-4934-b6ad-982a313f3b47",
+    "artistMbid": "b0079b6d-d464-4433-960b-072479d3d1ad",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Jennifer+Lara/_/A+Change+Is+Gonna+Come",

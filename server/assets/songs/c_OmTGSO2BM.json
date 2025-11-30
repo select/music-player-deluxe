@@ -15,7 +15,6 @@
     "youtube": "c_OmTGSO2BM",
     "youtubeMusic": "c_OmTGSO2BM"
   },
-  "artistMbid": "982cd0c4-1598-4e8d-a243-ad4887d5f11f",
   "lastfm": {
     "id": "Gerda/_/King",
     "listeners": 1558,
@@ -26,5 +25,8 @@
       "post-hardcore",
       "hardcore"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "982cd0c4-1598-4e8d-a243-ad4887d5f11f"
   }
 }

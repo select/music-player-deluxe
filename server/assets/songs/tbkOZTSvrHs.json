@@ -15,7 +15,6 @@
     "youtube": "tbkOZTSvrHs",
     "youtubeMusic": "tbkOZTSvrHs"
   },
-  "artistMbid": "3b81f816-bdcb-42d0-a0dd-1aa4fc4e19ec",
   "lastfm": {
     "id": "John+Farnham/_/You%27re+the+Voice",
     "listeners": 274512,
@@ -28,5 +27,8 @@
       "classic rock",
       "australian"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "3b81f816-bdcb-42d0-a0dd-1aa4fc4e19ec"
   }
 }

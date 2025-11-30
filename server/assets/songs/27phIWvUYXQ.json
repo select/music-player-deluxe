@@ -15,8 +15,6 @@
     "youtube": "27phIWvUYXQ",
     "youtubeMusic": "27phIWvUYXQ"
   },
-  "mbid": "4e4eb697-75b2-47a8-9a21-8c2cac73c547",
-  "artistMbid": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
   "musicbrainz": {
     "tags": [
       "alternative hip hop",
@@ -55,7 +53,9 @@
       "conscious hip hop",
       "east coast hip hop",
       "hip hop"
-    ]
+    ],
+    "trackMbid": "4e4eb697-75b2-47a8-9a21-8c2cac73c547",
+    "artistMbid": "9689aa5a-4471-4fb4-9721-07cecda0fa9f"
   },
   "lastfm": {
     "id": "A+Tribe+Called+Quest/_/Luck+Of+Lucien",

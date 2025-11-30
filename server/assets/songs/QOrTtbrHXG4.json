@@ -1,5 +1,4 @@
 {
-  "mbid": "3e0e697e-a33a-41f1-98d3-704b95810f1a",
   "title": "In Space",
   "artist": "Röyksopp",
   "album": "Melody A.M.",
@@ -22,12 +21,13 @@
     "youtube": "QOrTtbrHXG4",
     "youtubeMusic": "QOrTtbrHXG4"
   },
-  "artistMbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
   "musicbrainz": {
     "tags": [
       "downtempo",
       "electronic"
-    ]
+    ],
+    "trackMbid": "3e0e697e-a33a-41f1-98d3-704b95810f1a",
+    "artistMbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884"
   },
   "lastfm": {
     "id": "R%C3%B6yksopp/_/In+Space",

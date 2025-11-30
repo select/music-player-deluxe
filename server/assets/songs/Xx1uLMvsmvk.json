@@ -17,7 +17,6 @@
     "youtube": "Xx1uLMvsmvk",
     "youtubeMusic": "Xx1uLMvsmvk"
   },
-  "artistMbid": "cf075492-d880-4afc-b87b-d6b03e33dacc",
   "lastfm": {
     "id": "Electric+Callboy/_/Spaceman+(feat.+FiNCH)",
     "listeners": 76210,
@@ -26,5 +25,8 @@
       "metalcore",
       "trancecore"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "cf075492-d880-4afc-b87b-d6b03e33dacc"
   }
 }

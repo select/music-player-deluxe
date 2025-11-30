@@ -3,15 +3,15 @@
   "title": "Soul Eyes",
   "artist": "John Coltrane Quartet",
   "lastFetched": "2025-11-23T16:34:08.608Z",
-  "mbid": "0f33ccad-517b-4e7a-afd7-9b468998451e",
-  "artistMbid": "a43270af-bc4a-4552-847e-617b11f38d7b",
   "musicbrainz": {
     "artistTags": [
       "jazz"
     ],
     "artistGenres": [
       "jazz"
-    ]
+    ],
+    "trackMbid": "0f33ccad-517b-4e7a-afd7-9b468998451e",
+    "artistMbid": "a43270af-bc4a-4552-847e-617b11f38d7b"
   },
   "lastfm": {
     "id": "John+Coltrane+Quartet/_/Soul+Eyes",

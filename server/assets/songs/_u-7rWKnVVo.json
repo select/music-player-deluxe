@@ -21,8 +21,6 @@
     "youtube": "_u-7rWKnVVo",
     "youtubeMusic": "_u-7rWKnVVo"
   },
-  "mbid": "098fa2ce-cb79-4057-aad0-69712910258f",
-  "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -36,7 +34,9 @@
       "heavy metal",
       "metal",
       "thrash metal"
-    ]
+    ],
+    "trackMbid": "098fa2ce-cb79-4057-aad0-69712910258f",
+    "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
   },
   "lastfm": {
     "id": "Metallica/_/Lux+%C3%86terna",

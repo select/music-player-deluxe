@@ -1,11 +1,9 @@
 {
-  "mbid": "4700dd97-031b-424c-9c11-aa5924a9a146",
   "title": "In The Dust Of Our Days",
   "artist": "Lambert",
   "duration": 187,
   "youtubeId": "NNqOpqhcnlc",
   "lastFetched": "2025-11-19T03:31:37.196Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B06XQ786M8",
     "amazonStore": "B06XQ786M8",
@@ -16,7 +14,6 @@
     "youtube": "NNqOpqhcnlc",
     "youtubeMusic": "NNqOpqhcnlc"
   },
-  "artistMbid": "64118b40-34f3-4f09-aac1-b9634e5fa308",
   "lastfm": {
     "id": "Lambert/_/In+The+Dust+Of+Our+Days",
     "listeners": 14478,
@@ -28,5 +25,10 @@
       "2017 releases",
       "james-joul - 2017 albums"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4700dd97-031b-424c-9c11-aa5924a9a146",
+    "artistMbid": "64118b40-34f3-4f09-aac1-b9634e5fa308",
+    "releaseCount": 1
   }
 }

@@ -1,7 +1,6 @@
 {
   "title": "SPACE MOUNTAiN",
   "artist": "DOMi & JD Beck",
-  "releaseCount": 5,
   "duration": 147,
   "youtubeId": "o4td2EImaG4",
   "lastFetched": "2025-11-19T01:40:12.356Z",
@@ -15,5 +14,8 @@
       "jazz fusion",
       "jazzstep"
     ]
+  },
+  "musicbrainz": {
+    "releaseCount": 5
   }
 }

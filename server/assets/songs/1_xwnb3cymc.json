@@ -2,7 +2,7 @@
   "youtubeId": "1_xwnb3cymc",
   "title": "Ooh La La",
   "artist": "Faces",
-  "lastFetched": "2025-11-30T17:44:04.693Z",
+  "lastFetched": "2025-11-30T19:29:16.295Z",
   "odesli": {
     "boomplay": "5823666",
     "soundcloud": "faces3/ooh-la-la-2",
@@ -24,6 +24,25 @@
       "classic rock",
       "70s",
       "folk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "01554358-b789-4028-96cd-f6dec97cc379",
+    "artistMbid": "8c7a8406-f15a-408d-b0f6-23be813bdddc",
+    "releaseCount": 25,
+    "genres": [
+      "classic rock",
+      "mainstream rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "boogie rock",
+      "classic rock",
+      "folk rock",
+      "hard rock",
+      "rock"
     ]
   }
 }

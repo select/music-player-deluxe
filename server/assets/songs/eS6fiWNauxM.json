@@ -19,8 +19,6 @@
     "youtube": "eS6fiWNauxM",
     "youtubeMusic": "eS6fiWNauxM"
   },
-  "mbid": "4c2be98a-1109-3d1d-9701-dec0d19d96d1",
-  "artistMbid": "4e1d5be7-6736-4af3-8ac8-619fabc57818",
   "musicbrainz": {
     "artistTags": [
       "german",
@@ -29,7 +27,9 @@
     ],
     "artistGenres": [
       "liedermacher"
-    ]
+    ],
+    "trackMbid": "4c2be98a-1109-3d1d-9701-dec0d19d96d1",
+    "artistMbid": "4e1d5be7-6736-4af3-8ac8-619fabc57818"
   },
   "lastfm": {
     "id": "Konstantin+Wecker/_/Sage+nein",

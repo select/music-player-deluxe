@@ -18,8 +18,6 @@
     "youtube": "80_39eAx3z8",
     "youtubeMusic": "80_39eAx3z8"
   },
-  "mbid": "bed887b0-1c89-454e-b876-34d2dd1c7886",
-  "artistMbid": "22dc19af-d085-4c9b-adfb-22ec256251f1",
   "musicbrainz": {
     "tags": [
       "classic rock",
@@ -27,7 +25,9 @@
       "folk rock",
       "rock",
       "folk"
-    ]
+    ],
+    "trackMbid": "bed887b0-1c89-454e-b876-34d2dd1c7886",
+    "artistMbid": "22dc19af-d085-4c9b-adfb-22ec256251f1"
   },
   "lastfm": {
     "id": "Buffalo+Springfield/_/For+What+It%27s+Worth",

@@ -12,8 +12,6 @@
     "youtube": "Gd5g7X9KPB4",
     "youtubeMusic": "Gd5g7X9KPB4"
   },
-  "mbid": "198b19df-18c4-309b-9f49-56ef465f3947",
-  "artistMbid": "9de8f66e-3cd1-4f11-8328-38200f0612b0",
   "musicbrainz": {
     "artistTags": [
       "alternative dance",
@@ -32,7 +30,9 @@
       "britpop",
       "dream pop",
       "experimental rock"
-    ]
+    ],
+    "trackMbid": "198b19df-18c4-309b-9f49-56ef465f3947",
+    "artistMbid": "9de8f66e-3cd1-4f11-8328-38200f0612b0"
   },
   "lastfm": {
     "id": "Doves/_/The+Man+Who+Told+Everything",

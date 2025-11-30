@@ -13,8 +13,6 @@
     "youtube": "ulkdUfItyxI",
     "youtubeMusic": "ulkdUfItyxI"
   },
-  "mbid": "56c5e58b-c62b-4d86-bc75-f1501fd2f98f",
-  "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
   "musicbrainz": {
     "tags": [
       "House",
@@ -22,7 +20,9 @@
       "deep house",
       "Progressive House",
       "tech house"
-    ]
+    ],
+    "trackMbid": "56c5e58b-c62b-4d86-bc75-f1501fd2f98f",
+    "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
   },
   "lastfm": {
     "id": "Tame+Impala/_/End+of+Summer",

@@ -13,8 +13,6 @@
     "youtube": "kVc5Ltul0j4",
     "youtubeMusic": "kVc5Ltul0j4"
   },
-  "mbid": "043e1302-41a7-4311-8701-eed713884216",
-  "artistMbid": "22a94cd7-cb1f-4b67-9be6-46d465ffc787",
   "musicbrainz": {
     "artistTags": [
       "acoustic blues",
@@ -28,7 +26,9 @@
       "blues",
       "boogaloo",
       "singer-songwriter"
-    ]
+    ],
+    "trackMbid": "043e1302-41a7-4311-8701-eed713884216",
+    "artistMbid": "22a94cd7-cb1f-4b67-9be6-46d465ffc787"
   },
   "lastfm": {
     "id": "C.W.+Stoneking/_/Mama+Got+The+Blues",

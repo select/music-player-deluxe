@@ -3,7 +3,6 @@
   "title": "Sandman (VIP)",
   "artist": "Oak",
   "lastFetched": "2025-11-19T13:08:49.831Z",
-  "artistMbid": "5472cafd-1571-43d2-bcf4-2ecd5262b2c9",
   "lastfm": {
     "id": "Oak/_/Sandman+(VIP)",
     "listeners": 215,
@@ -11,5 +10,8 @@
     "tags": [
       "microfunk"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "5472cafd-1571-43d2-bcf4-2ecd5262b2c9"
   }
 }

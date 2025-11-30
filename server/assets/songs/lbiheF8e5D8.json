@@ -1,11 +1,9 @@
 {
-  "mbid": "7b1b367b-99b5-48bc-b9ef-312768d2427a",
   "title": "Figure In Blue, Memories Of Duke",
   "artist": "Charles Lloyd",
   "duration": 566,
   "youtubeId": "lbiheF8e5D8",
   "lastFetched": "2025-11-23T16:48:19.030Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0FL69GQ1V",
     "amazonStore": "B0FL69GQ1V",
@@ -20,7 +18,6 @@
     "youtube": "lbiheF8e5D8",
     "youtubeMusic": "lbiheF8e5D8"
   },
-  "artistMbid": "b9b579ad-e499-4e3e-9d09-06bc8e504135",
   "musicbrainz": {
     "artistTags": [
       "jazz",
@@ -30,7 +27,10 @@
     "artistGenres": [
       "jazz",
       "post-bop"
-    ]
+    ],
+    "trackMbid": "7b1b367b-99b5-48bc-b9ef-312768d2427a",
+    "artistMbid": "b9b579ad-e499-4e3e-9d09-06bc8e504135",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Charles+Lloyd/_/Figure+In+Blue,+Memories+Of+Duke",

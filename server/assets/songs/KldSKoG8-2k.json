@@ -9,7 +9,6 @@
     "youtube": "KldSKoG8-2k",
     "youtubeMusic": "KldSKoG8-2k"
   },
-  "artistMbid": "56727819-500d-4444-be2c-fcd59a2f2003",
   "lastfm": {
     "id": "Fusion+Forum/_/Vintage+Keys+(The+Art)",
     "listeners": 1259,
@@ -17,5 +16,8 @@
     "tags": [
       "everything"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "56727819-500d-4444-be2c-fcd59a2f2003"
   }
 }

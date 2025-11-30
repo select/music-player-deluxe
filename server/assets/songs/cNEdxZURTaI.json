@@ -17,8 +17,6 @@
     "youtube": "cNEdxZURTaI",
     "youtubeMusic": "cNEdxZURTaI"
   },
-  "mbid": "991257e8-8bf2-4059-8cb9-0da6d5bdc598",
-  "artistMbid": "87199477-b0df-4ead-84ee-9b54b4abfc3d",
   "musicbrainz": {
     "tags": [
       "alternative",
@@ -52,7 +50,9 @@
       "new wave",
       "pop",
       "sophisti-pop"
-    ]
+    ],
+    "trackMbid": "991257e8-8bf2-4059-8cb9-0da6d5bdc598",
+    "artistMbid": "87199477-b0df-4ead-84ee-9b54b4abfc3d"
   },
   "lastfm": {
     "id": "ABC/_/The+Look+Of+Love,+Pt.1",

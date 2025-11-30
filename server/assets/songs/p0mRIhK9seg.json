@@ -12,7 +12,6 @@
     "youtube": "p0mRIhK9seg",
     "youtubeMusic": "p0mRIhK9seg"
   },
-  "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
   "musicbrainz": {
     "tags": [
       "alternative",
@@ -20,7 +19,8 @@
       "female vocalists",
       "trip-hop",
       "icelandic"
-    ]
+    ],
+    "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb"
   },
   "lastfm": {
     "id": "Bj%C3%B6rk/_/Human+Behaviour",

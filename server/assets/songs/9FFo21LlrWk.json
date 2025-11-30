@@ -1,12 +1,9 @@
 {
-  "mbid": "e2919c8f-9bfa-4c19-a22f-252b71ebf8ca",
   "title": "Remotely Close: Silkyway",
   "artist": "Kutiman",
   "duration": 231,
   "youtubeId": "9FFo21LlrWk",
   "lastFetched": "2025-11-19T03:50:27.295Z",
-  "releaseCount": 1,
-  "artistMbid": "48e18c9b-371f-42e6-878d-633e25fa01fd",
   "odesli": {
     "amazonMusic": "B09RQ1K7KH",
     "amazonStore": "B09RQ1K7KH",
@@ -48,7 +45,10 @@
       "warm",
       "world",
       "world fusion"
-    ]
+    ],
+    "trackMbid": "e2919c8f-9bfa-4c19-a22f-252b71ebf8ca",
+    "artistMbid": "48e18c9b-371f-42e6-878d-633e25fa01fd",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Kutiman/_/Remotely+Close:+Silkyway",

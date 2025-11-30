@@ -1,11 +1,9 @@
 {
-  "mbid": "7d4dfe53-25da-4e80-b747-2206e2bd3d21",
   "title": "Praise",
   "artist": "Monty",
   "duration": 281,
   "youtubeId": "m9-xrRfbZbM",
   "lastFetched": "2025-11-19T04:37:13.592Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0FL1JHKYY",
     "amazonStore": "B0FL1JHKYY",
@@ -21,7 +19,6 @@
     "youtube": "m9-xrRfbZbM",
     "youtubeMusic": "m9-xrRfbZbM"
   },
-  "artistMbid": "2d44fc00-3845-4f6f-ae91-c788e6d1ed5e",
   "lastfm": {
     "id": "Monty/_/Praise",
     "listeners": 477,
@@ -32,5 +29,10 @@
       "swedish",
       "drum and bass"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7d4dfe53-25da-4e80-b747-2206e2bd3d21",
+    "artistMbid": "2d44fc00-3845-4f6f-ae91-c788e6d1ed5e",
+    "releaseCount": 1
   }
 }

@@ -12,7 +12,6 @@
     "youtube": "pFlQlS_e7wA",
     "youtubeMusic": "pFlQlS_e7wA"
   },
-  "artistMbid": "e5efb6f2-0a6f-4c1d-831d-c1e07d2f694f",
   "lastfm": {
     "id": "JakoJako/_/Auris",
     "listeners": 1936,
@@ -23,5 +22,8 @@
       "deep techno",
       "ambient techno"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "e5efb6f2-0a6f-4c1d-831d-c1e07d2f694f"
   }
 }

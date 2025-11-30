@@ -11,8 +11,6 @@
     "youtube": "j554vY1u95g",
     "youtubeMusic": "j554vY1u95g"
   },
-  "mbid": "30d41d71-c0a7-370e-885f-74b02eb60737",
-  "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
   "musicbrainz": {
     "artistTags": [
       "comedy",
@@ -28,7 +26,9 @@
       "jazz",
       "kabarett",
       "spoken word"
-    ]
+    ],
+    "trackMbid": "30d41d71-c0a7-370e-885f-74b02eb60737",
+    "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9"
   },
   "lastfm": {
     "id": "Helge+Schneider/_/Bonbon+aus+Wurst",

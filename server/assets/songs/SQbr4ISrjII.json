@@ -13,8 +13,6 @@
     "youtube": "SQbr4ISrjII",
     "youtubeMusic": "SQbr4ISrjII"
   },
-  "mbid": "01604eec-365b-4005-a86b-fbf74a9377c0",
-  "artistMbid": "72c536dc-7137-4477-a521-567eeb840fa8",
   "musicbrainz": {
     "artistTags": [
       "blues",
@@ -34,7 +32,9 @@
       "classic rock",
       "contemporary folk",
       "country"
-    ]
+    ],
+    "trackMbid": "01604eec-365b-4005-a86b-fbf74a9377c0",
+    "artistMbid": "72c536dc-7137-4477-a521-567eeb840fa8"
   },
   "lastfm": {
     "id": "Bob+Dylan/_/Most+of+the+Time",

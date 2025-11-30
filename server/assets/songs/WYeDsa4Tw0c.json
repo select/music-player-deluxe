@@ -11,8 +11,6 @@
     "youtube": "WYeDsa4Tw0c",
     "youtubeMusic": "WYeDsa4Tw0c"
   },
-  "mbid": "218a4651-65c8-3c8e-9a05-58439bce88e1",
-  "artistMbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f",
   "musicbrainz": {
     "artistTags": [
       "academy award winner",
@@ -32,7 +30,9 @@
       "electronic",
       "experimental",
       "instrumental"
-    ]
+    ],
+    "trackMbid": "218a4651-65c8-3c8e-9a05-58439bce88e1",
+    "artistMbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f"
   },
   "lastfm": {
     "id": "Vangelis/_/Conquest+of+Paradise",

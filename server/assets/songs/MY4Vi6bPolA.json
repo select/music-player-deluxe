@@ -20,7 +20,6 @@
     "youtube": "MY4Vi6bPolA",
     "youtubeMusic": "MY4Vi6bPolA"
   },
-  "artistMbid": "946938d2-5dde-4aac-b02f-df9cc7837583",
   "lastfm": {
     "id": "Flox/_/Herbs+And+Spices",
     "listeners": 113,
@@ -31,5 +30,8 @@
       "electro",
       "reggaeton"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "946938d2-5dde-4aac-b02f-df9cc7837583"
   }
 }

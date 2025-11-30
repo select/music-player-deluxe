@@ -19,7 +19,6 @@
     "youtube": "bLeLwFkAIcs",
     "youtubeMusic": "bLeLwFkAIcs"
   },
-  "artistMbid": "46aba787-c9f1-4909-8e12-f91f80a79360",
   "lastfm": {
     "id": "Aquarian/_/Sam+Handwich",
     "listeners": 902,
@@ -30,5 +29,8 @@
       "broken beat",
       "breakbeat"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "46aba787-c9f1-4909-8e12-f91f80a79360"
   }
 }

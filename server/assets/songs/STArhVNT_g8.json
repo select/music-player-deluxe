@@ -6,7 +6,6 @@
   "youtubeId": "STArhVNT_g8",
   "lastFetched": "2025-11-19T01:38:53.298Z",
   "name": "Harf",
-  "artistMbid": "0d9b88f3-054a-4f53-b447-2f3f503c8290",
   "lastfm": {
     "id": "Googoosh/_/Harf",
     "listeners": 1903,
@@ -15,5 +14,8 @@
       "googoosh",
       "persish"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "0d9b88f3-054a-4f53-b447-2f3f503c8290"
   }
 }

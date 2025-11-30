@@ -15,7 +15,6 @@
     "youtube": "lqEKig2l2As",
     "youtubeMusic": "lqEKig2l2As"
   },
-  "artistMbid": "b75039d8-ccaf-4092-a310-903b8f594f55",
   "lastfm": {
     "id": "DJ+Rashad/_/Only+One+(feat.+DJ+Spinn+&+Taso)",
     "listeners": 7910,
@@ -27,5 +26,8 @@
       "eternal",
       "eternal love"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "b75039d8-ccaf-4092-a310-903b8f594f55"
   }
 }

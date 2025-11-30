@@ -21,8 +21,6 @@
     "youtube": "xZZ9JH2eS8M",
     "youtubeMusic": "xZZ9JH2eS8M"
   },
-  "mbid": "ebdc0ad4-8492-457c-829b-ef171fbceea3",
-  "artistMbid": "369fbad4-6fa4-4dae-9842-a69826cd359d",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -42,7 +40,9 @@
       "electronic",
       "electronica",
       "leftfield"
-    ]
+    ],
+    "trackMbid": "ebdc0ad4-8492-457c-829b-ef171fbceea3",
+    "artistMbid": "369fbad4-6fa4-4dae-9842-a69826cd359d"
   },
   "lastfm": {
     "id": "Leftfield/_/This+Is+What+We+Do",

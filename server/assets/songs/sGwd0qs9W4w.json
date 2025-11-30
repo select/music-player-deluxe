@@ -17,8 +17,6 @@
     "youtube": "sGwd0qs9W4w",
     "youtubeMusic": "sGwd0qs9W4w"
   },
-  "mbid": "fca5f47f-d7e3-4b0d-9e47-cfae7b06a776",
-  "artistMbid": "51e0df97-1fe2-401c-ba92-9f854b7831c3",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -32,7 +30,9 @@
       "jazz",
       "jazz fusion",
       "soul jazz"
-    ]
+    ],
+    "trackMbid": "fca5f47f-d7e3-4b0d-9e47-cfae7b06a776",
+    "artistMbid": "51e0df97-1fe2-401c-ba92-9f854b7831c3"
   },
   "lastfm": {
     "id": "Stanley+Turrentine/_/Willow+Weep+for+Me",

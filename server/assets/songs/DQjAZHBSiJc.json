@@ -18,8 +18,6 @@
     "youtube": "DQjAZHBSiJc",
     "youtubeMusic": "DQjAZHBSiJc"
   },
-  "mbid": "154d3b09-f843-464b-9dcd-73028c42dfc7",
-  "artistMbid": "7ac1e33f-0cdf-4e81-b914-41830700d746",
   "musicbrainz": {
     "artistTags": [
       "blues",
@@ -39,7 +37,9 @@
       "easy listening",
       "gospel",
       "jazz"
-    ]
+    ],
+    "trackMbid": "154d3b09-f843-464b-9dcd-73028c42dfc7",
+    "artistMbid": "7ac1e33f-0cdf-4e81-b914-41830700d746"
   },
   "lastfm": {
     "id": "Gregory+Porter/_/Musical+Genocide",

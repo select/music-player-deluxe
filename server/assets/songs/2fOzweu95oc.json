@@ -3,8 +3,6 @@
   "title": "Geburtstag",
   "artist": "Kapelle Petra",
   "lastFetched": "2025-11-19T14:37:45.201Z",
-  "mbid": "3735c2bc-c5e3-4514-8629-bdfc65ec70c8",
-  "artistMbid": "6dcb275a-0f1f-4f87-8abd-25be36a02604",
   "lastfm": {
     "id": "Kapelle+Petra/_/Geburtstag",
     "listeners": 7813,
@@ -13,5 +11,9 @@
       "happy birthday",
       "geburtstag"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3735c2bc-c5e3-4514-8629-bdfc65ec70c8",
+    "artistMbid": "6dcb275a-0f1f-4f87-8abd-25be36a02604"
   }
 }

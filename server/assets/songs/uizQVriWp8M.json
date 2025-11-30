@@ -15,8 +15,6 @@
     "youtube": "uizQVriWp8M",
     "youtubeMusic": "uizQVriWp8M"
   },
-  "mbid": "641c030f-cd4a-3004-a097-20e9b08f15f6",
-  "artistMbid": "0039c7ae-e1a7-4a7d-9b49-0cbc716821a6",
   "musicbrainz": {
     "tags": [
       "indie",
@@ -24,7 +22,9 @@
       "alternative",
       "rock",
       "death cab for cutie"
-    ]
+    ],
+    "trackMbid": "641c030f-cd4a-3004-a097-20e9b08f15f6",
+    "artistMbid": "0039c7ae-e1a7-4a7d-9b49-0cbc716821a6"
   },
   "lastfm": {
     "id": "Death+Cab+for+Cutie/_/Soul+Meets+Body",

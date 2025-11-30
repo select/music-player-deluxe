@@ -19,7 +19,6 @@
     "youtube": "Nbokg0KM-n8",
     "youtubeMusic": "Nbokg0KM-n8"
   },
-  "artistMbid": "2f9ecbed-27be-40e6-abca-6de49d50299e",
   "lastfm": {
     "id": "Aretha+Franklin/_/Until+You+Come+Back+to+Me+(That%27s+What+I%27m+Gonna+Do)",
     "listeners": 73431,
@@ -29,5 +28,8 @@
       "soul",
       "70s"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "2f9ecbed-27be-40e6-abca-6de49d50299e"
   }
 }

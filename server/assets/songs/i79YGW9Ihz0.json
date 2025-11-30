@@ -20,8 +20,6 @@
     "youtube": "i79YGW9Ihz0",
     "youtubeMusic": "i79YGW9Ihz0"
   },
-  "mbid": "3fb76d1a-4f47-4d6d-ab70-a30876d3f7da",
-  "artistMbid": "27613b78-1b9d-4ec3-9db5-fa0743465fdd",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -41,7 +39,9 @@
       "funk",
       "hard bop",
       "jazz"
-    ]
+    ],
+    "trackMbid": "3fb76d1a-4f47-4d6d-ab70-a30876d3f7da",
+    "artistMbid": "27613b78-1b9d-4ec3-9db5-fa0743465fdd"
   },
   "lastfm": {
     "id": "Herbie+Hancock/_/Sun+Touch",

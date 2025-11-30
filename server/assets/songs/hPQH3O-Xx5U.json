@@ -1,9 +1,6 @@
 {
-  "mbid": "4ae60236-2d20-46f2-8f28-a68b0035ed0a",
   "title": "Ma Rida",
   "artist": "Y.A.S.",
-  "artistMbid": "2a3b75ac-4472-464c-88cd-52a4ca659b41",
-  "releaseCount": 1,
   "duration": 224,
   "youtubeId": "hPQH3O-Xx5U",
   "lastFetched": "2025-11-19T04:26:02.250Z",
@@ -11,7 +8,10 @@
     "tags": [
       "indie",
       "pop"
-    ]
+    ],
+    "trackMbid": "4ae60236-2d20-46f2-8f28-a68b0035ed0a",
+    "artistMbid": "2a3b75ac-4472-464c-88cd-52a4ca659b41",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Y.A.S./_/Ma+Rida",

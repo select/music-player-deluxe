@@ -19,7 +19,6 @@
     "youtube": "JjKPTkMhSpc",
     "youtubeMusic": "JjKPTkMhSpc"
   },
-  "artistMbid": "dffb8426-b595-4b95-8abe-d07af75e87ef",
   "lastfm": {
     "id": "Namika/_/Liebe+ist...",
     "listeners": 7659,
@@ -30,5 +29,8 @@
       "german",
       "deutsch"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "dffb8426-b595-4b95-8abe-d07af75e87ef"
   }
 }

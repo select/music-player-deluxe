@@ -1,11 +1,9 @@
 {
-  "mbid": "cd9d9fcf-7693-45ea-9da4-aed5ac84d66d",
   "title": "Doot Doot (6 7)",
   "artist": "Skrilla",
   "duration": 150,
   "youtubeId": "XnygT6ANLzQ",
   "lastFetched": "2025-11-23T16:41:46.964Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0DWBNJ5C1",
     "amazonStore": "B0DWBNJ5C1",
@@ -23,14 +21,16 @@
     "youtube": "XnygT6ANLzQ",
     "youtubeMusic": "XnygT6ANLzQ"
   },
-  "artistMbid": "7edb1ae1-770e-499a-a8be-cbd0c144516c",
   "musicbrainz": {
     "artistTags": [
       "hip hop"
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "trackMbid": "cd9d9fcf-7693-45ea-9da4-aed5ac84d66d",
+    "artistMbid": "7edb1ae1-770e-499a-a8be-cbd0c144516c",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Skrilla/_/Doot+Doot+(6+7)",

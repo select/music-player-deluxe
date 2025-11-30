@@ -3,8 +3,6 @@
   "title": "Dark Necessities",
   "artist": "Red Hot Chili Peppers",
   "lastFetched": "2025-11-19T15:49:59.258Z",
-  "mbid": "d21421a3-16ba-4bf5-b89d-c39aabebbb8d",
-  "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
   "musicbrainz": {
     "tags": [
       "2016",
@@ -12,7 +10,9 @@
       "rock",
       "alternative rock",
       "Red Hot Chili Peppers"
-    ]
+    ],
+    "trackMbid": "d21421a3-16ba-4bf5-b89d-c39aabebbb8d",
+    "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
   },
   "lastfm": {
     "id": "Red+Hot+Chili+Peppers/_/Dark+Necessities",

@@ -12,8 +12,6 @@
     "youtube": "755KcDVPp5c",
     "youtubeMusic": "755KcDVPp5c"
   },
-  "mbid": "9d21d1e5-9868-4bff-8f3e-def348bffd64",
-  "artistMbid": "5f58803e-8c4c-478e-8b51-477f38483ede",
   "musicbrainz": {
     "artistTags": [
       "2 tone",
@@ -33,7 +31,9 @@
       "pop",
       "pop rock",
       "psychedelic pop"
-    ]
+    ],
+    "trackMbid": "9d21d1e5-9868-4bff-8f3e-def348bffd64",
+    "artistMbid": "5f58803e-8c4c-478e-8b51-477f38483ede"
   },
   "lastfm": {
     "id": "Madness/_/Forever+Young",

@@ -1,11 +1,9 @@
 {
-  "mbid": "16af9974-5194-4164-9439-1a772fc13e12",
   "title": "Heute hab ich gute Laune",
   "artist": "Helge Schneider",
   "duration": 179,
   "youtubeId": "ouCgeapeJ_g",
   "lastFetched": "2025-11-23T16:50:02.018Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B09YHTZW52",
     "amazonStore": "B09YHTZW52",
@@ -17,7 +15,6 @@
     "youtube": "ouCgeapeJ_g",
     "youtubeMusic": "ouCgeapeJ_g"
   },
-  "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
   "musicbrainz": {
     "artistTags": [
       "comedy",
@@ -33,7 +30,10 @@
       "jazz",
       "kabarett",
       "spoken word"
-    ]
+    ],
+    "trackMbid": "16af9974-5194-4164-9439-1a772fc13e12",
+    "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Helge+Schneider/_/Heute+hab+ich+gute+Laune",

@@ -14,7 +14,6 @@
     "youtube": "zWG7PNU-w7E",
     "youtubeMusic": "zWG7PNU-w7E"
   },
-  "artistMbid": "91770e2a-03d7-452c-83a5-c0a8c18fd8a1",
   "lastfm": {
     "id": "Time+Travel/_/Forget+Me+Nots",
     "listeners": 77,
@@ -22,5 +21,8 @@
     "tags": [
       "retrowave"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "91770e2a-03d7-452c-83a5-c0a8c18fd8a1"
   }
 }

@@ -1,11 +1,9 @@
 {
-  "mbid": "9fc863dc-c986-4545-93f5-1007354aca26",
   "title": "Rasputin",
   "artist": "Boney M.",
   "duration": 200,
   "youtubeId": "16y1AkoZkmQ",
   "lastFetched": "2025-11-19T03:19:51.347Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B08WHP64WM",
     "amazonStore": "B08WHP64WM",
@@ -20,7 +18,6 @@
     "youtube": "16y1AkoZkmQ",
     "youtubeMusic": "16y1AkoZkmQ"
   },
-  "artistMbid": "5403bf6e-bc1d-4e62-b31f-926a2bf66a14",
   "musicbrainz": {
     "tags": [
       "Disco",
@@ -28,7 +25,10 @@
       "pop",
       "dance",
       "80s"
-    ]
+    ],
+    "trackMbid": "9fc863dc-c986-4545-93f5-1007354aca26",
+    "artistMbid": "5403bf6e-bc1d-4e62-b31f-926a2bf66a14",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Boney+M./_/Rasputin",

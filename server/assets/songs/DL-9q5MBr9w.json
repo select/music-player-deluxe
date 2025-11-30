@@ -10,8 +10,6 @@
     "youtube": "DL-9q5MBr9w",
     "youtubeMusic": "DL-9q5MBr9w"
   },
-  "mbid": "6300489e-dc44-4597-b3f3-502f6cf8d78f",
-  "artistMbid": "18b498d4-a6c9-474c-94ce-3d6b9a2ced7c",
   "lastfm": {
     "id": "Shirley+Ann+Lee/_/There%27s+A+Light",
     "listeners": 21147,
@@ -20,5 +18,9 @@
       "loved",
       "radio nova"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6300489e-dc44-4597-b3f3-502f6cf8d78f",
+    "artistMbid": "18b498d4-a6c9-474c-94ce-3d6b9a2ced7c"
   }
 }

@@ -19,15 +19,15 @@
     "youtube": "MTqlaX4qfVI",
     "youtubeMusic": "MTqlaX4qfVI"
   },
-  "mbid": "18cd7e15-5bfe-4fc1-844b-717df32d5148",
-  "artistMbid": "441111d5-fa9f-4f08-bb03-60a081394487",
   "musicbrainz": {
     "artistTags": [
       "jazz"
     ],
     "artistGenres": [
       "jazz"
-    ]
+    ],
+    "trackMbid": "18cd7e15-5bfe-4fc1-844b-717df32d5148",
+    "artistMbid": "441111d5-fa9f-4f08-bb03-60a081394487"
   },
   "lastfm": {
     "id": "Marc+Moulin/_/Balek",

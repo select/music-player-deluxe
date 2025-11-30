@@ -22,8 +22,6 @@
     "youtube": "6MdABLcI7RI",
     "youtubeMusic": "6MdABLcI7RI"
   },
-  "mbid": "bacdd875-5f7a-4b36-967a-37873911252f",
-  "artistMbid": "8970d868-0723-483b-a75b-51088913d3d4",
   "musicbrainz": {
     "tags": [
       "classical",
@@ -62,7 +60,9 @@
       "downtempo",
       "electronic",
       "electronica"
-    ]
+    ],
+    "trackMbid": "bacdd875-5f7a-4b36-967a-37873911252f",
+    "artistMbid": "8970d868-0723-483b-a75b-51088913d3d4"
   },
   "lastfm": {
     "id": "Moby/_/James+Bond+Theme+(Moby%27s+re-version)",

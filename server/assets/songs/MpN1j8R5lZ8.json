@@ -17,8 +17,6 @@
     "youtube": "MpN1j8R5lZ8",
     "youtubeMusic": "MpN1j8R5lZ8"
   },
-  "mbid": "fa3a8842-feac-46e5-87be-30a3684933f5",
-  "artistMbid": "6f6fd596-76e0-4b82-aa37-f558ac2d337b",
   "musicbrainz": {
     "tags": [
       "electronica"
@@ -44,7 +42,9 @@
       "chamber pop",
       "downtempo",
       "electronic"
-    ]
+    ],
+    "trackMbid": "fa3a8842-feac-46e5-87be-30a3684933f5",
+    "artistMbid": "6f6fd596-76e0-4b82-aa37-f558ac2d337b"
   },
   "lastfm": {
     "id": "Gotye/_/Hearts+a+Mess",

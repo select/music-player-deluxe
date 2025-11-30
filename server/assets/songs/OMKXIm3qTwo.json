@@ -21,8 +21,6 @@
     "youtube": "OMKXIm3qTwo",
     "youtubeMusic": "OMKXIm3qTwo"
   },
-  "mbid": "ac7ae037-d49b-4aec-8336-502a0449f924",
-  "artistMbid": "c0b2500e-0cef-4130-869d-732b23ed9df5",
   "musicbrainz": {
     "artistTags": [
       "adult alternative pop/rock",
@@ -42,7 +40,9 @@
       "art pop",
       "art rock",
       "baroque pop"
-    ]
+    ],
+    "trackMbid": "ac7ae037-d49b-4aec-8336-502a0449f924",
+    "artistMbid": "c0b2500e-0cef-4130-869d-732b23ed9df5"
   },
   "lastfm": {
     "id": "Tori+Amos/_/Ocean+to+Ocean",

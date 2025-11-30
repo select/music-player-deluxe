@@ -3,15 +3,15 @@
   "title": "Black And Gold",
   "artist": "Sivert Høyem",
   "lastFetched": "2025-11-23T16:54:50.247Z",
-  "mbid": "79bdf7b2-991d-43f3-8a43-19c84bcba6e9",
-  "artistMbid": "bb44b574-5e96-49a2-81be-82f439fd8868",
   "musicbrainz": {
     "artistTags": [
       "rock"
     ],
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "trackMbid": "79bdf7b2-991d-43f3-8a43-19c84bcba6e9",
+    "artistMbid": "bb44b574-5e96-49a2-81be-82f439fd8868"
   },
   "lastfm": {
     "id": "Sivert+H%C3%B8yem/_/Black+And+Gold",

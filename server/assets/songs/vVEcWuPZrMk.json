@@ -14,8 +14,6 @@
     "youtube": "vVEcWuPZrMk",
     "youtubeMusic": "vVEcWuPZrMk"
   },
-  "mbid": "d4e6b28e-4e03-4acc-a1b0-c8992c1ecfff",
-  "artistMbid": "efa2c11a-1a35-4b60-bc1b-66d37de88511",
   "musicbrainz": {
     "artistTags": [
       "electronic",
@@ -32,7 +30,9 @@
       "experimental hip hop",
       "hip hop",
       "instrumental hip hop"
-    ]
+    ],
+    "trackMbid": "d4e6b28e-4e03-4acc-a1b0-c8992c1ecfff",
+    "artistMbid": "efa2c11a-1a35-4b60-bc1b-66d37de88511"
   },
   "lastfm": {
     "id": "DJ+Shadow/_/Forever+Changed",

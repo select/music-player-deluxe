@@ -21,8 +21,6 @@
     "youtube": "NdYWuo9OFAw",
     "youtubeMusic": "NdYWuo9OFAw"
   },
-  "mbid": "49c04d28-280a-4bfb-afb5-a5affcb373e9",
-  "artistMbid": "e2c00c56-8365-4160-9f40-a64682917633",
   "musicbrainz": {
     "artistTags": [
       "'",
@@ -42,7 +40,9 @@
       "hardcore punk",
       "jangle pop",
       "pop punk"
-    ]
+    ],
+    "trackMbid": "49c04d28-280a-4bfb-afb5-a5affcb373e9",
+    "artistMbid": "e2c00c56-8365-4160-9f40-a64682917633"
   },
   "lastfm": {
     "id": "Goo+Goo+Dolls/_/Iris",

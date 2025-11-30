@@ -16,7 +16,6 @@
     "youtube": "52rHSC4xjIs",
     "youtubeMusic": "52rHSC4xjIs"
   },
-  "mbid": "322910f8-af3d-4318-9e9a-ef0bf860d06c",
   "lastfm": {
     "id": "Grouch+in+Dub/_/Sarva+Dharma",
     "listeners": 966,
@@ -27,5 +26,8 @@
       "dub",
       "electronic"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "322910f8-af3d-4318-9e9a-ef0bf860d06c"
   }
 }

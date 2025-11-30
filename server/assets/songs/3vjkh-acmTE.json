@@ -17,8 +17,6 @@
     "youtube": "3vjkh-acmTE",
     "youtubeMusic": "3vjkh-acmTE"
   },
-  "mbid": "fc672b16-7270-4eff-938f-4028c1bc8cb6",
-  "artistMbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
   "musicbrainz": {
     "tags": [
       "art rock",
@@ -26,7 +24,9 @@
       "indie",
       "rock",
       "art pop"
-    ]
+    ],
+    "trackMbid": "fc672b16-7270-4eff-938f-4028c1bc8cb6",
+    "artistMbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5"
   },
   "lastfm": {
     "id": "Mitski/_/Washing+Machine+Heart",

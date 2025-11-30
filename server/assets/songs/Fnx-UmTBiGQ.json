@@ -1,12 +1,9 @@
 {
-  "mbid": "b0df0f58-0e1f-4764-b7f4-aa157c46d025",
   "title": "Maneater",
   "artist": "Sue Ellen",
   "duration": 232,
   "youtubeId": "Fnx-UmTBiGQ",
   "lastFetched": "2025-11-19T03:39:45.343Z",
-  "releaseCount": 1,
-  "artistMbid": "3623d9ea-6174-437c-ba72-23a295141b24",
   "odesli": {
     "amazonMusic": "B0030GIN28",
     "amazonStore": "B0030GIN28",
@@ -30,5 +27,10 @@
       "female vocalists",
       "sweet"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b0df0f58-0e1f-4764-b7f4-aa157c46d025",
+    "artistMbid": "3623d9ea-6174-437c-ba72-23a295141b24",
+    "releaseCount": 1
   }
 }

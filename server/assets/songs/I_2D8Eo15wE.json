@@ -16,7 +16,6 @@
     "youtube": "I_2D8Eo15wE",
     "youtubeMusic": "I_2D8Eo15wE"
   },
-  "artistMbid": "f2be3d59-c508-492b-a553-056fc8a7e7b0",
   "lastfm": {
     "id": "Ram+Jam/_/Black+Betty",
     "listeners": 783231,
@@ -28,5 +27,8 @@
       "rock",
       "hard rock"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "f2be3d59-c508-492b-a553-056fc8a7e7b0"
   }
 }

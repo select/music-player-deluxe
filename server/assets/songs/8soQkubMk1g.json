@@ -21,7 +21,6 @@
     "youtube": "8soQkubMk1g",
     "youtubeMusic": "8soQkubMk1g"
   },
-  "artistMbid": "39cf1c51-8e6a-4d7a-a1f5-9ea212e66699",
   "lastfm": {
     "id": "Plastic+Bertrand/_/%C3%87a+plane+pour+moi",
     "listeners": 84435,
@@ -34,5 +33,8 @@
       "80s",
       "pop"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "39cf1c51-8e6a-4d7a-a1f5-9ea212e66699"
   }
 }

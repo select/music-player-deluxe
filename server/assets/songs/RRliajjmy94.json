@@ -20,7 +20,6 @@
     "youtube": "RRliajjmy94",
     "youtubeMusic": "RRliajjmy94"
   },
-  "artistMbid": "6e9a0ac8-699b-4817-8f9b-25a6dba89f57",
   "lastfm": {
     "id": "Breakage/_/Ric+Flair+Strut",
     "listeners": 1368,
@@ -31,5 +30,8 @@
       "jungle",
       "drumfunk"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "6e9a0ac8-699b-4817-8f9b-25a6dba89f57"
   }
 }

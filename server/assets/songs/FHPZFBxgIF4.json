@@ -16,7 +16,6 @@
     "youtube": "FHPZFBxgIF4",
     "youtubeMusic": "FHPZFBxgIF4"
   },
-  "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
   "lastfm": {
     "id": "The+Prodigy/_/Thunder+((Live+at+Milton+Keynes+Bowl)+%E2%80%93+2020+Remaster)",
     "listeners": 108,
@@ -27,5 +26,8 @@
       "industrial",
       "dance"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704"
   }
 }

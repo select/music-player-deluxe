@@ -19,8 +19,6 @@
     "youtube": "ml9cZ5UjQx4",
     "youtubeMusic": "ml9cZ5UjQx4"
   },
-  "mbid": "382f8751-ccdc-4c28-aeb5-c6f36d030cc6",
-  "artistMbid": "fddb7d67-7977-4ab5-884c-f5644c78b700",
   "lastfm": {
     "id": "Kultur+Shock/_/God+Is+Busy,+May+I+Help+You%3F",
     "listeners": 13406,
@@ -31,5 +29,9 @@
       "gypsy punk",
       "balkan punk"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "382f8751-ccdc-4c28-aeb5-c6f36d030cc6",
+    "artistMbid": "fddb7d67-7977-4ab5-884c-f5644c78b700"
   }
 }

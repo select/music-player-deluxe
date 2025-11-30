@@ -19,7 +19,6 @@
     "youtube": "aBt8fN7mJNg",
     "youtubeMusic": "aBt8fN7mJNg"
   },
-  "artistMbid": "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad",
   "lastfm": {
     "id": "Backstreet+Boys/_/Show+Me+the+Meaning+of+Being+Lonely",
     "listeners": 369235,
@@ -31,5 +30,8 @@
       "backstreet boys",
       "boybands"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad"
   }
 }

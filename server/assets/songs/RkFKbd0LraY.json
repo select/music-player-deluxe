@@ -3,8 +3,6 @@
   "title": "Ain't Talkin' 'Bout Dub",
   "artist": "Apollo 440",
   "lastFetched": "2025-11-23T16:39:10.986Z",
-  "mbid": "6deb3378-b4d7-31f3-b039-014a0fa61e46",
-  "artistMbid": "1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b",
   "musicbrainz": {
     "artistTags": [
       "alternative dance",
@@ -22,7 +20,9 @@
       "electronic",
       "electronica",
       "house"
-    ]
+    ],
+    "trackMbid": "6deb3378-b4d7-31f3-b039-014a0fa61e46",
+    "artistMbid": "1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b"
   },
   "lastfm": {
     "id": "Apollo+440/_/Ain%27t+Talkin%27+%27Bout+Dub",

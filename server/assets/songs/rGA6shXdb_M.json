@@ -14,15 +14,15 @@
     "youtube": "rGA6shXdb_M",
     "youtubeMusic": "rGA6shXdb_M"
   },
-  "mbid": "a7c832d8-17ff-4c6a-8409-ebbd9a7f6a2b",
-  "artistMbid": "2ed45dd0-6a96-4459-af32-bc74e7a7f387",
   "musicbrainz": {
     "artistTags": [
       "hip hop"
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "trackMbid": "a7c832d8-17ff-4c6a-8409-ebbd9a7f6a2b",
+    "artistMbid": "2ed45dd0-6a96-4459-af32-bc74e7a7f387"
   },
   "lastfm": {
     "id": "Das+EFX/_/Baknaffek",

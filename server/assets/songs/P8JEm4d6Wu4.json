@@ -19,7 +19,6 @@
     "youtube": "P8JEm4d6Wu4",
     "youtubeMusic": "P8JEm4d6Wu4"
   },
-  "artistMbid": "23d9d74d-c95e-46a6-be26-a6075c49747a",
   "lastfm": {
     "id": "Faithless/_/Insomnia",
     "listeners": 540644,
@@ -32,5 +31,8 @@
       "house",
       "trip-hop"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "23d9d74d-c95e-46a6-be26-a6075c49747a"
   }
 }

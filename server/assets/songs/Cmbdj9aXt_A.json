@@ -13,8 +13,6 @@
     "youtube": "Cmbdj9aXt_A",
     "youtubeMusic": "Cmbdj9aXt_A"
   },
-  "mbid": "3d80dde4-ea65-43c6-a07c-b13444ac810a",
-  "artistMbid": "1c7422d6-a198-457c-a654-5cbca262d2a3",
   "lastfm": {
     "id": "Black+Harmony/_/Don%27t+Let+It+Go+to+Your+Head",
     "listeners": 16290,
@@ -23,5 +21,9 @@
     "tags": [
       "reggae"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3d80dde4-ea65-43c6-a07c-b13444ac810a",
+    "artistMbid": "1c7422d6-a198-457c-a654-5cbca262d2a3"
   }
 }

@@ -1,11 +1,9 @@
 {
-  "mbid": "2aa6d715-53ad-42dc-994b-825638d1b3b6",
   "title": "What's A Girl To Do",
   "artist": "Group Listening",
   "duration": 434,
   "youtubeId": "Ptuuxwm2XT8",
   "lastFetched": "2025-11-23T16:37:59.563Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0CYQY8M4B",
     "amazonStore": "B0CYQY8M4B",
@@ -21,7 +19,6 @@
     "youtube": "Ptuuxwm2XT8",
     "youtubeMusic": "Ptuuxwm2XT8"
   },
-  "artistMbid": "c23d3f55-c1b4-40c6-b191-ebf7177a4656",
   "musicbrainz": {
     "artistTags": [
       "contemporary classical",
@@ -30,7 +27,10 @@
     "artistGenres": [
       "contemporary classical",
       "instrumental"
-    ]
+    ],
+    "trackMbid": "2aa6d715-53ad-42dc-994b-825638d1b3b6",
+    "artistMbid": "c23d3f55-c1b4-40c6-b191-ebf7177a4656",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Group+Listening/_/What%27s+A+Girl+To+Do",

@@ -20,8 +20,6 @@
     "youtube": "5_co8r5qE5A",
     "youtubeMusic": "5_co8r5qE5A"
   },
-  "mbid": "400264f9-bf39-48a9-ac62-d609bfbe2c05",
-  "artistMbid": "5c01e21f-8222-4728-abce-267abf83544a",
   "musicbrainz": {
     "artistTags": [
       "bossa",
@@ -39,7 +37,9 @@
       "jazz",
       "latin",
       "swing"
-    ]
+    ],
+    "trackMbid": "400264f9-bf39-48a9-ac62-d609bfbe2c05",
+    "artistMbid": "5c01e21f-8222-4728-abce-267abf83544a"
   },
   "lastfm": {
     "id": "Tape+Five/_/Codeword+Marlene",

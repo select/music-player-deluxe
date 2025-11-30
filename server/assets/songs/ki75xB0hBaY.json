@@ -18,7 +18,6 @@
     "youtube": "ki75xB0hBaY",
     "youtubeMusic": "ki75xB0hBaY"
   },
-  "artistMbid": "8f5b15bd-0777-4564-9801-17462e5ff715",
   "lastfm": {
     "id": "Gwenno/_/Tonnow",
     "listeners": 3247,
@@ -28,5 +27,8 @@
       "welsh",
       "rutracker"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "8f5b15bd-0777-4564-9801-17462e5ff715"
   }
 }

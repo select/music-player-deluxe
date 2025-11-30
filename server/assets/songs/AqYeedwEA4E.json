@@ -3,8 +3,6 @@
   "title": "Evil Eye",
   "artist": "Fu Manchu",
   "lastFetched": "2025-11-23T16:30:59.297Z",
-  "mbid": "069fa815-3321-3801-9be5-2944ffb26804",
-  "artistMbid": "f96de591-5dae-41da-855b-eb387d88d7d4",
   "musicbrainz": {
     "artistTags": [
       "desert rock",
@@ -18,7 +16,9 @@
       "hard rock",
       "rock",
       "stoner rock"
-    ]
+    ],
+    "trackMbid": "069fa815-3321-3801-9be5-2944ffb26804",
+    "artistMbid": "f96de591-5dae-41da-855b-eb387d88d7d4"
   },
   "lastfm": {
     "id": "Fu+Manchu/_/Evil+Eye",

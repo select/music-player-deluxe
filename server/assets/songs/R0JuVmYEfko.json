@@ -1,9 +1,6 @@
 {
-  "mbid": "488c294f-7f83-4e01-b7fb-d283c9e9496a",
   "title": "Roteano",
   "artist": "Andrea Belfi",
-  "artistMbid": "444c97b5-7dc9-4191-89f5-580d2eebfa5b",
-  "releaseCount": 3,
   "duration": 527,
   "youtubeId": "R0JuVmYEfko",
   "lastFetched": "2025-11-19T05:36:41.448Z",
@@ -33,5 +30,10 @@
       "morphees weld",
       "_frequenzweichenkiller_tptkmix"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "488c294f-7f83-4e01-b7fb-d283c9e9496a",
+    "artistMbid": "444c97b5-7dc9-4191-89f5-580d2eebfa5b",
+    "releaseCount": 3
   }
 }

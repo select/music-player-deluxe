@@ -1,10 +1,7 @@
 {
-  "mbid": "eb24a390-f124-4c69-8046-bb6164e80f9e",
   "title": "Bang Bang",
   "artist": "Friction",
-  "artistMbid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f",
   "album": "Bang Bang",
-  "releaseCount": 1,
   "duration": 170,
   "youtubeId": "-1hLD_oDCCc",
   "lastFetched": "2025-11-19T03:38:43.492Z",
@@ -12,7 +9,10 @@
     "artistTags": [
       "drum and bass",
       "electronic"
-    ]
+    ],
+    "trackMbid": "eb24a390-f124-4c69-8046-bb6164e80f9e",
+    "artistMbid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Friction/_/Bang+Bang",

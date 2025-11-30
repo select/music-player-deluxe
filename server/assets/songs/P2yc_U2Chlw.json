@@ -16,8 +16,6 @@
     "youtube": "P2yc_U2Chlw",
     "youtubeMusic": "P2yc_U2Chlw"
   },
-  "mbid": "69409534-9445-4056-b0e8-dfdc5410816c",
-  "artistMbid": "262c9855-aa44-40f4-a275-cb425c074513",
   "musicbrainz": {
     "tags": [
       "garage rock",
@@ -43,7 +41,9 @@
       "desert rock",
       "rock",
       "stoner rock"
-    ]
+    ],
+    "trackMbid": "69409534-9445-4056-b0e8-dfdc5410816c",
+    "artistMbid": "262c9855-aa44-40f4-a275-cb425c074513"
   },
   "lastfm": {
     "id": "Slomosa/_/Horses",

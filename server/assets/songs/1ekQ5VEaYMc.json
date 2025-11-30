@@ -17,8 +17,6 @@
     "youtube": "1ekQ5VEaYMc",
     "youtubeMusic": "1ekQ5VEaYMc"
   },
-  "mbid": "19c05770-6c34-392f-866f-6b5ec353ffba",
-  "artistMbid": "22e67027-3c07-44d5-8501-8eed7b13286b",
   "lastfm": {
     "id": "Gudrun+Gut/_/Tip+Tip",
     "listeners": 4738,
@@ -29,5 +27,9 @@
       "post-punk",
       "minimal electro"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "19c05770-6c34-392f-866f-6b5ec353ffba",
+    "artistMbid": "22e67027-3c07-44d5-8501-8eed7b13286b"
   }
 }

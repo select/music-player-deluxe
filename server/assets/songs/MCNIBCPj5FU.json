@@ -18,7 +18,6 @@
     "youtube": "MCNIBCPj5FU",
     "youtubeMusic": "MCNIBCPj5FU"
   },
-  "artistMbid": "cd6fa010-d5d6-4825-aaf3-d8aacaa7cd9a",
   "lastfm": {
     "id": "Mallrat/_/Teeth",
     "listeners": 104638,
@@ -28,5 +27,8 @@
       "alt-pop",
       "pop"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "cd6fa010-d5d6-4825-aaf3-d8aacaa7cd9a"
   }
 }

@@ -3,10 +3,12 @@
   "title": "litany of fervent supplication",
   "artist": "Feuermusik",
   "lastFetched": "2025-11-19T06:42:54.095Z",
-  "artistMbid": "a200e711-4915-4d13-b52b-d35fdfff985e",
   "lastfm": {
     "id": "Feuermusik/_/litany+of+fervent+supplication",
     "listeners": 96,
     "playcount": 229
+  },
+  "musicbrainz": {
+    "artistMbid": "a200e711-4915-4d13-b52b-d35fdfff985e"
   }
 }

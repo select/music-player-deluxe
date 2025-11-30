@@ -19,8 +19,6 @@
     "youtube": "PL82vhL_h2w",
     "youtubeMusic": "PL82vhL_h2w"
   },
-  "mbid": "0978e84f-6d39-3023-93cf-0e406be95a4d",
-  "artistMbid": "d185d986-ee96-4fd3-bd61-8c848a4765b6",
   "musicbrainz": {
     "artistTags": [
       "hard bop",
@@ -31,7 +29,9 @@
       "hard bop",
       "jazz",
       "soul jazz"
-    ]
+    ],
+    "trackMbid": "0978e84f-6d39-3023-93cf-0e406be95a4d",
+    "artistMbid": "d185d986-ee96-4fd3-bd61-8c848a4765b6"
   },
   "lastfm": {
     "id": "Horace+Silver/_/That+Healin%27+Feelin%27",

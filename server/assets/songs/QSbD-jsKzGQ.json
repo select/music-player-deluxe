@@ -10,7 +10,6 @@
     "youtube": "QSbD-jsKzGQ",
     "youtubeMusic": "QSbD-jsKzGQ"
   },
-  "mbid": "1d183e4c-17c6-3408-a893-39c18a94c51f",
   "lastfm": {
     "id": "Troy+Von+Balthazar/_/Dogs",
     "listeners": 12979,
@@ -22,5 +21,8 @@
       "dogs",
       "superpop"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1d183e4c-17c6-3408-a893-39c18a94c51f"
   }
 }

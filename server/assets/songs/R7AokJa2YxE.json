@@ -1,11 +1,9 @@
 {
-  "mbid": "c81bac01-10ce-4507-93c5-22e06128b1e2",
   "title": "Call U Back",
   "artist": "TTSSFU",
   "duration": 184,
   "youtubeId": "R7AokJa2YxE",
   "lastFetched": "2025-11-19T01:37:16.643Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0FD4ZKD69",
     "amazonStore": "B0FD4ZKD69",
@@ -20,7 +18,6 @@
     "youtubeMusic": "R7AokJa2YxE"
   },
   "name": "Call U Back",
-  "artistMbid": "149456f4-6daf-4290-a4bf-093bb87769c5",
   "lastfm": {
     "id": "TTSSFU/_/Call+U+Back",
     "listeners": 16387,
@@ -31,5 +28,10 @@
       "dream pop",
       "noise pop"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c81bac01-10ce-4507-93c5-22e06128b1e2",
+    "artistMbid": "149456f4-6daf-4290-a4bf-093bb87769c5",
+    "releaseCount": 1
   }
 }

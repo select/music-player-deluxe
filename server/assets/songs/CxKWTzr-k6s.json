@@ -16,7 +16,6 @@
     "youtube": "CxKWTzr-k6s",
     "youtubeMusic": "CxKWTzr-k6s"
   },
-  "artistMbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
   "musicbrainz": {
     "tags": [
       "Grunge",
@@ -24,7 +23,8 @@
       "alternative rock",
       "90s",
       "pearl jam"
-    ]
+    ],
+    "artistMbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103"
   },
   "lastfm": {
     "id": "Pearl+Jam/_/Even+Flow",

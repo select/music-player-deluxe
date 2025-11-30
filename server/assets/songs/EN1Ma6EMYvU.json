@@ -18,7 +18,6 @@
     "youtube": "EN1Ma6EMYvU",
     "youtubeMusic": "EN1Ma6EMYvU"
   },
-  "artistMbid": "fd2120d3-7c64-4390-aafb-ad31ccaaa207",
   "lastfm": {
     "id": "Buttering+Trio/_/Don%27t+Book+Me",
     "listeners": 284,
@@ -29,5 +28,8 @@
       "funk",
       "hip-hop"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "fd2120d3-7c64-4390-aafb-ad31ccaaa207"
   }
 }

@@ -21,8 +21,6 @@
     "youtube": "hBnU8ISP_a0",
     "youtubeMusic": "hBnU8ISP_a0"
   },
-  "mbid": "25114513-134b-3cbd-9110-50ebea10436a",
-  "artistMbid": "0ad7bbcd-6e77-4dc0-bb61-e331c46f70ec",
   "musicbrainz": {
     "artistTags": [
       "folk rock",
@@ -31,7 +29,9 @@
     "artistGenres": [
       "folk rock",
       "indie rock"
-    ]
+    ],
+    "trackMbid": "25114513-134b-3cbd-9110-50ebea10436a",
+    "artistMbid": "0ad7bbcd-6e77-4dc0-bb61-e331c46f70ec"
   },
   "lastfm": {
     "id": "The+Good+Life/_/Album+of+the+Year",

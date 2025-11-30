@@ -19,7 +19,6 @@
     "youtube": "BN1WwnEDWAM",
     "youtubeMusic": "BN1WwnEDWAM"
   },
-  "artistMbid": "8f92558c-2baa-4758-8c38-615519e9deda",
   "lastfm": {
     "id": "The+Clash/_/Should+I+Stay+or+Should+I+Go",
     "listeners": 735253,
@@ -32,5 +31,8 @@
       "rock",
       "british"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "8f92558c-2baa-4758-8c38-615519e9deda"
   }
 }

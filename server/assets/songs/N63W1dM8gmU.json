@@ -12,8 +12,6 @@
     "youtube": "N63W1dM8gmU",
     "youtubeMusic": "N63W1dM8gmU"
   },
-  "mbid": "28988b53-2888-4369-bfe8-56c74b584402",
-  "artistMbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
   "musicbrainz": {
     "artistTags": [
       "00s",
@@ -33,7 +31,9 @@
       "punk",
       "punk rock",
       "skate punk"
-    ]
+    ],
+    "trackMbid": "28988b53-2888-4369-bfe8-56c74b584402",
+    "artistMbid": "149e6720-4e4a-41a4-afca-6d29083fc091"
   },
   "lastfm": {
     "id": "Bad+Religion/_/Lose+Your+Head",

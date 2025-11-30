@@ -3,7 +3,6 @@
   "title": "Psycho Killer",
   "artist": "Talking Heads",
   "lastFetched": "2025-11-19T08:11:33.212Z",
-  "artistMbid": "a94a7155-c79d-4409-9fcf-220cb0e4dc3a",
   "musicbrainz": {
     "tags": [
       "new wave",
@@ -11,7 +10,8 @@
       "post-punk",
       "rock",
       "alternative"
-    ]
+    ],
+    "artistMbid": "a94a7155-c79d-4409-9fcf-220cb0e4dc3a"
   },
   "lastfm": {
     "id": "Talking+Heads/_/Psycho+Killer",

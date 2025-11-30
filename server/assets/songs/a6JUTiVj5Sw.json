@@ -15,7 +15,6 @@
     "youtube": "a6JUTiVj5Sw",
     "youtubeMusic": "a6JUTiVj5Sw"
   },
-  "artistMbid": "4e7819f0-0139-4db3-8b27-4ef8d75b1231",
   "lastfm": {
     "id": "Laundromat/_/Bureau+De+Fatigue",
     "listeners": 4644,
@@ -26,5 +25,8 @@
       "british",
       "brighton"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "4e7819f0-0139-4db3-8b27-4ef8d75b1231"
   }
 }

@@ -19,8 +19,6 @@
     "youtube": "B1jJ7Wg7KzE",
     "youtubeMusic": "B1jJ7Wg7KzE"
   },
-  "mbid": "adb59bff-f6e7-418f-87e6-2dcdaa552ef9",
-  "artistMbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
   "musicbrainz": {
     "artistTags": [
       "black 'n' roll",
@@ -31,7 +29,9 @@
       "black 'n' roll",
       "black metal",
       "hardcore punk"
-    ]
+    ],
+    "trackMbid": "adb59bff-f6e7-418f-87e6-2dcdaa552ef9",
+    "artistMbid": "61fdc79c-df1a-4999-8d2f-668f18c11283"
   },
   "lastfm": {
     "id": "Kvelertak/_/Kr%C3%B8terveg+Te+Helvete",

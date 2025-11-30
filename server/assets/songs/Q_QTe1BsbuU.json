@@ -20,15 +20,15 @@
     "youtube": "Q_QTe1BsbuU",
     "youtubeMusic": "Q_QTe1BsbuU"
   },
-  "mbid": "63b67cbe-7046-38a6-9ef0-a13a12c3206d",
-  "artistMbid": "51a4b538-18cc-42aa-87b2-5865e8224af4",
   "musicbrainz": {
     "artistTags": [
       "acid jazz"
     ],
     "artistGenres": [
       "acid jazz"
-    ]
+    ],
+    "trackMbid": "63b67cbe-7046-38a6-9ef0-a13a12c3206d",
+    "artistMbid": "51a4b538-18cc-42aa-87b2-5865e8224af4"
   },
   "lastfm": {
     "id": "Mop+Mop/_/Locomotive",

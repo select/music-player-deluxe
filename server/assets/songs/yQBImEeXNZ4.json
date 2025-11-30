@@ -22,8 +22,6 @@
     "youtube": "yQBImEeXNZ4",
     "youtubeMusic": "yQBImEeXNZ4"
   },
-  "mbid": "b6fc6286-4b1b-4ac9-917a-f1238caeef20",
-  "artistMbid": "134cb0bc-06fa-42f7-8078-b0c858349975",
   "musicbrainz": {
     "tags": [
       "hip hop",
@@ -44,7 +42,9 @@
     "artistGenres": [
       "hip hop",
       "pop rap"
-    ]
+    ],
+    "trackMbid": "b6fc6286-4b1b-4ac9-917a-f1238caeef20",
+    "artistMbid": "134cb0bc-06fa-42f7-8078-b0c858349975"
   },
   "lastfm": {
     "id": "Jack+Harlow/_/First+Class",

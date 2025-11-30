@@ -19,8 +19,6 @@
     "youtube": "CugQD7DCGKc",
     "youtubeMusic": "CugQD7DCGKc"
   },
-  "mbid": "01794ae1-1273-47e6-bbb6-3b7c40bce3ff",
-  "artistMbid": "8e57cabb-7dc5-4eac-94c0-a3928b989af5",
   "lastfm": {
     "id": "Bruce+Soord/_/Never+Ending+Light",
     "listeners": 1680,
@@ -29,5 +27,9 @@
       "progressive rock",
       "soft rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "01794ae1-1273-47e6-bbb6-3b7c40bce3ff",
+    "artistMbid": "8e57cabb-7dc5-4eac-94c0-a3928b989af5"
   }
 }

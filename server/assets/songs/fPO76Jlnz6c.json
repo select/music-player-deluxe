@@ -16,7 +16,6 @@
     "youtube": "fPO76Jlnz6c",
     "youtubeMusic": "fPO76Jlnz6c"
   },
-  "artistMbid": "cc30e630-8c75-4d78-b205-8e2edc6bdaa7",
   "musicbrainz": {
     "tags": [
       "rap",
@@ -24,7 +23,8 @@
       "Hip-Hop",
       "Gangsta Rap",
       "hip hop"
-    ]
+    ],
+    "artistMbid": "cc30e630-8c75-4d78-b205-8e2edc6bdaa7"
   },
   "lastfm": {
     "id": "Coolio/_/Gangsta%27s+Paradise",

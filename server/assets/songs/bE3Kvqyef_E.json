@@ -15,7 +15,6 @@
     "youtube": "bE3Kvqyef_E",
     "youtubeMusic": "bE3Kvqyef_E"
   },
-  "artistMbid": "27bc6f5b-4585-49ab-8d7d-c62b59f5f010",
   "lastfm": {
     "id": "Becky+Hill/_/Disconnect",
     "listeners": 142626,
@@ -25,5 +24,8 @@
       "number 1",
       "dnb"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "27bc6f5b-4585-49ab-8d7d-c62b59f5f010"
   }
 }

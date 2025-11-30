@@ -1,16 +1,16 @@
 {
-  "mbid": "45fabc47-00b9-420c-a311-cbac93f95301",
   "title": "Born Slippy",
   "artist": "Underworld",
   "duration": 217,
   "youtubeId": "iTFrCbQGyvM",
   "lastFetched": "2025-11-19T04:14:50.603Z",
-  "releaseCount": 1,
-  "artistMbid": "ba2f4f3b-0293-4bc8-bb94-2f73b5207343",
   "musicbrainz": {
     "tags": [
       "experimental"
-    ]
+    ],
+    "trackMbid": "45fabc47-00b9-420c-a311-cbac93f95301",
+    "artistMbid": "ba2f4f3b-0293-4bc8-bb94-2f73b5207343",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Underworld/_/Born+Slippy",

@@ -10,8 +10,6 @@
     "youtube": "x6AL1XnHJZs",
     "youtubeMusic": "x6AL1XnHJZs"
   },
-  "mbid": "3d478c9c-8201-4868-8936-0db37e43161b",
-  "artistMbid": "b904d624-9e05-4398-8f4f-88fbcf022f79",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -31,7 +29,9 @@
       "funk",
       "pop",
       "pop soul"
-    ]
+    ],
+    "trackMbid": "3d478c9c-8201-4868-8936-0db37e43161b",
+    "artistMbid": "b904d624-9e05-4398-8f4f-88fbcf022f79"
   },
   "lastfm": {
     "id": "Barry+White/_/I%27m+Gonna+Love+You+Just+A+Little+More+Baby",

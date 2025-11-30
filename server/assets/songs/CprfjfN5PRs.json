@@ -1,5 +1,4 @@
 {
-  "mbid": "68e216c6-67b2-4f26-b914-2e6508f250dc",
   "title": "No More Tears",
   "artist": "Ozzy Osbourne",
   "album": "No More Tears",
@@ -25,7 +24,6 @@
     "youtube": "CprfjfN5PRs",
     "youtubeMusic": "CprfjfN5PRs"
   },
-  "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
   "musicbrainz": {
     "tags": [
       "album rock",
@@ -39,7 +37,9 @@
       "pop/rock",
       "rock",
       "Ozzy Osbourne"
-    ]
+    ],
+    "trackMbid": "68e216c6-67b2-4f26-b914-2e6508f250dc",
+    "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934"
   },
   "lastfm": {
     "id": "Ozzy+Osbourne/_/No+More+Tears",

@@ -22,15 +22,15 @@
     "youtube": "Si_ppckTo-s",
     "youtubeMusic": "Si_ppckTo-s"
   },
-  "mbid": "4a8b193f-0e91-44eb-82a1-d9254816e863",
-  "artistMbid": "2dfab9de-02f2-4aaf-b339-065fddcc9208",
   "musicbrainz": {
     "artistTags": [
       "drum and bass"
     ],
     "artistGenres": [
       "drum and bass"
-    ]
+    ],
+    "trackMbid": "4a8b193f-0e91-44eb-82a1-d9254816e863",
+    "artistMbid": "2dfab9de-02f2-4aaf-b339-065fddcc9208"
   },
   "lastfm": {
     "id": "Marcus+Intalex/_/Temperance",

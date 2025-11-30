@@ -3,8 +3,6 @@
   "title": "Dayvan Cowboy",
   "artist": "Boards of Canada",
   "lastFetched": "2025-11-23T16:30:25.517Z",
-  "mbid": "ada0a76a-1024-4945-a856-23ac86f6a08d",
-  "artistMbid": "69158f97-4c07-4c4e-baf8-4e4ab1ed666e",
   "musicbrainz": {
     "artistTags": [
       "ambient",
@@ -24,7 +22,9 @@
       "downtempo",
       "electronic",
       "folktronica"
-    ]
+    ],
+    "trackMbid": "ada0a76a-1024-4945-a856-23ac86f6a08d",
+    "artistMbid": "69158f97-4c07-4c4e-baf8-4e4ab1ed666e"
   },
   "lastfm": {
     "id": "Boards+of+Canada/_/Dayvan+Cowboy",

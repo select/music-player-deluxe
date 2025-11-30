@@ -1,12 +1,9 @@
 {
-  "mbid": "e110c5ee-9be2-4966-95b5-5f7219b65906",
   "title": "Shimmer",
   "artist": "Martinou",
   "duration": 445,
   "youtubeId": "UYMphbtpYFo",
   "lastFetched": "2025-11-23T15:40:08.398Z",
-  "releaseCount": 1,
-  "artistMbid": "81c386f6-ecde-480e-8f8d-7af94af61f13",
   "lastfm": {
     "id": "Martinou/_/Shimmer",
     "listeners": 20,
@@ -17,5 +14,10 @@
       "deep house",
       "ambient techno"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e110c5ee-9be2-4966-95b5-5f7219b65906",
+    "artistMbid": "81c386f6-ecde-480e-8f8d-7af94af61f13",
+    "releaseCount": 1
   }
 }

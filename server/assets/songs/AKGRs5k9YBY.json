@@ -19,8 +19,6 @@
     "youtube": "AKGRs5k9YBY",
     "youtubeMusic": "AKGRs5k9YBY"
   },
-  "mbid": "49dd4cb9-2f89-3c60-a5a4-2edf94dcd81e",
-  "artistMbid": "f74c7996-4c0b-4ebd-b1e7-219e21c41286",
   "musicbrainz": {
     "artistTags": [
       "heavy metal",
@@ -31,7 +29,9 @@
       "heavy metal",
       "progressive metal",
       "technical thrash metal"
-    ]
+    ],
+    "trackMbid": "49dd4cb9-2f89-3c60-a5a4-2edf94dcd81e",
+    "artistMbid": "f74c7996-4c0b-4ebd-b1e7-219e21c41286"
   },
   "lastfm": {
     "id": "Stam1na/_/Hammasratas",

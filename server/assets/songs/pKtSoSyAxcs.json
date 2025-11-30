@@ -11,8 +11,6 @@
     "youtube": "pKtSoSyAxcs",
     "youtubeMusic": "pKtSoSyAxcs"
   },
-  "mbid": "e7243be9-5d90-3007-b56e-11f281f2b4c5",
-  "artistMbid": "736cd91d-5b1a-41cd-925b-217df9bda11c",
   "lastfm": {
     "id": "Intombi+Zephepha/_/Ingoina+Le+Nyathi",
     "listeners": 6178,
@@ -20,5 +18,9 @@
     "tags": [
       "world"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e7243be9-5d90-3007-b56e-11f281f2b4c5",
+    "artistMbid": "736cd91d-5b1a-41cd-925b-217df9bda11c"
   }
 }

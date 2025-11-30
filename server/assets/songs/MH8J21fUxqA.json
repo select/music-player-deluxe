@@ -3,8 +3,6 @@
   "title": "As I Come Back",
   "artist": "Busta Rhymes",
   "lastFetched": "2025-11-23T16:36:21.095Z",
-  "mbid": "8107b07c-d861-3a38-99c7-646a323fa4f6",
-  "artistMbid": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -17,7 +15,9 @@
       "east coast hip hop",
       "hardcore hip hop",
       "hip hop"
-    ]
+    ],
+    "trackMbid": "8107b07c-d861-3a38-99c7-646a323fa4f6",
+    "artistMbid": "10a9ff92-9637-4498-afea-7044b2ab0dc0"
   },
   "lastfm": {
     "id": "Busta+Rhymes/_/As+I+Come+Back",

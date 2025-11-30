@@ -15,7 +15,6 @@
     "youtube": "keYb0IXSYHE",
     "youtubeMusic": "keYb0IXSYHE"
   },
-  "artistMbid": "c5297503-fa61-4fe0-8dbb-49af0ef08004",
   "lastfm": {
     "id": "Dekker/_/I+Know,+I+Know",
     "listeners": 3980,
@@ -26,5 +25,8 @@
       "acoustic",
       "lo-fi"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "c5297503-fa61-4fe0-8dbb-49af0ef08004"
   }
 }

@@ -18,12 +18,12 @@
     "youtube": "WDTtMTcj8X0",
     "youtubeMusic": "WDTtMTcj8X0"
   },
-  "mbid": "0b24d6b1-dcc6-46f0-b2ab-fa95d2b7d7a3",
-  "artistMbid": "73e7d4e2-02c6-46b3-b816-4245450a4747",
   "musicbrainz": {
     "artistTags": [
       "german"
-    ]
+    ],
+    "trackMbid": "0b24d6b1-dcc6-46f0-b2ab-fa95d2b7d7a3",
+    "artistMbid": "73e7d4e2-02c6-46b3-b816-4245450a4747"
   },
   "lastfm": {
     "id": "Franz+Josef+Degenhardt/_/Befragung+eines+Kriegsdienstverweigerers",

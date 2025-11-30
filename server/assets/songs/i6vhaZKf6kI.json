@@ -21,7 +21,6 @@
     "youtube": "i6vhaZKf6kI",
     "youtubeMusic": "i6vhaZKf6kI"
   },
-  "artistMbid": "b2cc8903-0077-4bef-8454-ac5cef53d126",
   "lastfm": {
     "id": "The+Ventures/_/Besame+Mucho",
     "listeners": 3420,
@@ -32,5 +31,8 @@
       "60s",
       "cover"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "b2cc8903-0077-4bef-8454-ac5cef53d126"
   }
 }

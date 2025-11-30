@@ -19,8 +19,6 @@
     "youtube": "NdL_uljFZqU",
     "youtubeMusic": "NdL_uljFZqU"
   },
-  "mbid": "6810792b-7a47-401a-866d-9b508586d3d3",
-  "artistMbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -40,7 +38,9 @@
       "britpop",
       "dream pop",
       "piano rock"
-    ]
+    ],
+    "trackMbid": "6810792b-7a47-401a-866d-9b508586d3d3",
+    "artistMbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234"
   },
   "lastfm": {
     "id": "Coldplay/_/God+Put+A+Smile+Upon+Your+Face+(Live+In+Sydney)",

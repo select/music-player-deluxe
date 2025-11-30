@@ -1,9 +1,6 @@
 {
-  "mbid": "5d7798fb-d3ca-40c4-85f6-5f2c849e1163",
   "title": "Mood Ring (By Demand)",
   "artist": "Britney Spears",
-  "artistMbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
-  "releaseCount": 11,
   "duration": 230,
   "youtubeId": "22cNIlhBxUY",
   "lastFetched": "2025-11-19T03:56:02.182Z",
@@ -21,7 +18,10 @@
       "dance-pop",
       "electronic",
       "pop"
-    ]
+    ],
+    "trackMbid": "5d7798fb-d3ca-40c4-85f6-5f2c849e1163",
+    "artistMbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+    "releaseCount": 11
   },
   "lastfm": {
     "id": "Britney+Spears/_/Mood+Ring+(By+Demand)",

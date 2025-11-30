@@ -1,9 +1,6 @@
 {
-  "mbid": "0fd5ffff-29a8-413f-bafc-0cc7c8f7b5f5",
   "title": "Perséides",
   "artist": "Sumac Dub",
-  "artistMbid": "a668b547-1369-4c74-ab64-c901bab6b746",
-  "releaseCount": 2,
   "duration": 246,
   "youtubeId": "Z0Wk7rwwyEk",
   "lastFetched": "2025-11-19T05:27:34.728Z",
@@ -27,7 +24,10 @@
       "electronic",
       "reggae",
       "trip hop"
-    ]
+    ],
+    "trackMbid": "0fd5ffff-29a8-413f-bafc-0cc7c8f7b5f5",
+    "artistMbid": "a668b547-1369-4c74-ab64-c901bab6b746",
+    "releaseCount": 2
   },
   "lastfm": {
     "id": "Sumac+Dub/_/Pers%C3%A9ides",

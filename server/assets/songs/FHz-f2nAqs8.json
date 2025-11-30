@@ -12,8 +12,6 @@
     "youtube": "FHz-f2nAqs8",
     "youtubeMusic": "FHz-f2nAqs8"
   },
-  "mbid": "269920ec-5167-43b4-bf66-51d4f678247e",
-  "artistMbid": "a587390a-db69-4ba9-9d7b-3afa13aefc6a",
   "musicbrainz": {
     "artistTags": [
       "desert rock",
@@ -31,7 +29,9 @@
       "instrumental",
       "metal",
       "rock"
-    ]
+    ],
+    "trackMbid": "269920ec-5167-43b4-bf66-51d4f678247e",
+    "artistMbid": "a587390a-db69-4ba9-9d7b-3afa13aefc6a"
   },
   "lastfm": {
     "id": "Karma+to+Burn/_/Twenty+Eight",

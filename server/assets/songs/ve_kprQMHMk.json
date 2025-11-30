@@ -19,8 +19,6 @@
     "youtube": "ve_kprQMHMk",
     "youtubeMusic": "ve_kprQMHMk"
   },
-  "mbid": "85fd7290-cf81-431e-97a0-e56b9b81b39a",
-  "artistMbid": "dd4458c8-6728-4a44-980c-48107fa72bb8",
   "musicbrainz": {
     "artistTags": [
       "deep house",
@@ -40,7 +38,9 @@
       "house",
       "melodic house",
       "melodic techno"
-    ]
+    ],
+    "trackMbid": "85fd7290-cf81-431e-97a0-e56b9b81b39a",
+    "artistMbid": "dd4458c8-6728-4a44-980c-48107fa72bb8"
   },
   "lastfm": {
     "id": "DJ+Koze/_/I+Want+To+Sleep",

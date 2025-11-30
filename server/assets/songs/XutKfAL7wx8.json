@@ -2,7 +2,7 @@
   "youtubeId": "XutKfAL7wx8",
   "title": "August 10",
   "artist": "Khruangbin",
-  "lastFetched": "2025-11-30T17:43:12.476Z",
+  "lastFetched": "2025-11-30T19:19:27.837Z",
   "odesli": {
     "amazonMusic": "B076HMZXXF",
     "amazonStore": "B076HMZXXF",
@@ -25,6 +25,23 @@
       "wsum 91.7 fm madison",
       "psychedelic",
       "psychedelic rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c5ead7c3-a998-421c-b8ac-ce88c8f1334e",
+    "artistMbid": "aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634",
+    "releaseCount": 8,
+    "artistGenres": [
+      "alternative rock",
+      "blues",
+      "dub",
+      "funk",
+      "indie rock",
+      "instrumental",
+      "neo-psychedelia",
+      "psychedelic rock",
+      "psychedelic soul",
+      "surf"
     ]
   }
 }

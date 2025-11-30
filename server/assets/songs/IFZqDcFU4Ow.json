@@ -2,7 +2,7 @@
   "youtubeId": "IFZqDcFU4Ow",
   "title": "In der Weihnachtsbäckerei",
   "artist": "Rolf Zuckowski und seine Freunde",
-  "lastFetched": "2025-11-30T17:44:00.909Z",
+  "lastFetched": "2025-11-30T19:28:41.012Z",
   "odesli": {
     "amazonMusic": "B073P1V3MK",
     "amazonStore": "B073P1V3MK",
@@ -23,6 +23,14 @@
     "tags": [
       "christmas",
       "weihnachten"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d5627d34-bba5-4b36-99bd-d0ed17c9c7a2",
+    "artistMbid": "d75094d7-57a8-48d3-8bb3-67ee15fa80d8",
+    "releaseCount": 5,
+    "artistGenres": [
+      "children's music"
     ]
   }
 }

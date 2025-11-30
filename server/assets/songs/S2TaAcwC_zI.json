@@ -21,8 +21,6 @@
     "youtube": "S2TaAcwC_zI",
     "youtubeMusic": "S2TaAcwC_zI"
   },
-  "mbid": "d41e7f0b-ab24-4212-9b81-02f6e876d6d2",
-  "artistMbid": "94c4459d-4c35-4bc6-8bca-c75107515c1c",
   "musicbrainz": {
     "tags": [
       "Drum and bass",
@@ -30,7 +28,9 @@
       "pop",
       "dance",
       "vocal"
-    ]
+    ],
+    "trackMbid": "d41e7f0b-ab24-4212-9b81-02f6e876d6d2",
+    "artistMbid": "94c4459d-4c35-4bc6-8bca-c75107515c1c"
   },
   "lastfm": {
     "id": "Kenya+Grace/_/Strangers",

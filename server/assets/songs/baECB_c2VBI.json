@@ -3,8 +3,6 @@
   "title": "The Good, the Bad and the Ugly",
   "artist": "Ennio Morricone",
   "lastFetched": "2025-11-23T16:43:47.544Z",
-  "mbid": "a07d04ed-ba7e-4dca-9e6b-c4e8f3ad9590",
-  "artistMbid": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd",
   "musicbrainz": {
     "artistTags": [
       "absolute music",
@@ -24,7 +22,9 @@
       "classical",
       "jazz",
       "modern classical"
-    ]
+    ],
+    "trackMbid": "a07d04ed-ba7e-4dca-9e6b-c4e8f3ad9590",
+    "artistMbid": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd"
   },
   "lastfm": {
     "id": "Ennio+Morricone/_/The+Good,+the+Bad+and+the+Ugly",

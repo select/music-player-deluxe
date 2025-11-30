@@ -1,18 +1,15 @@
 {
-  "mbid": "da9b1e6f-126a-4d8e-ba58-edadced2a6ab",
   "title": "Descanse",
   "artist": "DJ Python",
   "duration": 271,
   "youtubeId": "j_NampE7pHs",
   "lastFetched": "2025-11-23T16:47:13.790Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0BCVC1D84",
     "amazonStore": "B0BCVC1D84",
     "youtube": "j_NampE7pHs",
     "youtubeMusic": "j_NampE7pHs"
   },
-  "artistMbid": "42343a91-da25-4fb3-aac7-bc297956c79c",
   "musicbrainz": {
     "artistTags": [
       "ambient",
@@ -23,7 +20,10 @@
       "ambient",
       "electronic",
       "reggaeton"
-    ]
+    ],
+    "trackMbid": "da9b1e6f-126a-4d8e-ba58-edadced2a6ab",
+    "artistMbid": "42343a91-da25-4fb3-aac7-bc297956c79c",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "DJ+Python/_/Descanse",

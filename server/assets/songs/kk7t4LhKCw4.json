@@ -2,7 +2,7 @@
   "youtubeId": "kk7t4LhKCw4",
   "title": "Harlem River",
   "artist": "Kevin Morby",
-  "lastFetched": "2025-11-30T17:43:48.043Z",
+  "lastFetched": "2025-11-30T19:26:54.410Z",
   "odesli": {
     "amazonMusic": "B0DD96FDBZ",
     "amazonStore": "B0DD96FDBZ",
@@ -26,6 +26,21 @@
     "tags": [
       "indie",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e63e920f-4b74-4be3-a66c-3ef16cfa72d6",
+    "artistMbid": "eac962e1-0295-4e69-a266-4dab2adb4f11",
+    "releaseCount": 2,
+    "genres": [
+      "folk rock",
+      "rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "folk rock",
+      "indie folk",
+      "singer-songwriter"
     ]
   }
 }

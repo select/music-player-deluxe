@@ -1,7 +1,7 @@
 {
   "youtubeId": "5Dhr_9QP70Q",
   "title": "Orphx - Stillpoint (Sonic Groove - 2010)",
-  "lastFetched": "2025-11-30T17:34:27.045Z",
+  "lastFetched": "2025-11-30T19:19:11.402Z",
   "ai": {
     "title": "Stillpoint",
     "artist": "Orphx"
@@ -17,5 +17,10 @@
       "dancing in the dungeon",
       "welcome the demon of darkness"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0270560a-b478-4fcf-b865-cd02ecb2e578",
+    "artistMbid": "a7c5a839-b5a1-45bd-aa7e-ba34d7aeb3a4",
+    "releaseCount": 3
   }
 }

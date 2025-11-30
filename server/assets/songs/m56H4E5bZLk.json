@@ -3,8 +3,6 @@
   "title": "The Coffee Cola Song",
   "artist": "Francis Bebey",
   "lastFetched": "2025-11-19T13:42:01.434Z",
-  "mbid": "6b7d5f3a-5ee6-485f-8cb9-1d539f1be943",
-  "artistMbid": "fab6adab-b46f-45f8-8700-bc44408ba583",
   "lastfm": {
     "id": "Francis+Bebey/_/The+Coffee+Cola+Song",
     "listeners": 44871,
@@ -15,5 +13,9 @@
       "electronic",
       "electronica"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6b7d5f3a-5ee6-485f-8cb9-1d539f1be943",
+    "artistMbid": "fab6adab-b46f-45f8-8700-bc44408ba583"
   }
 }

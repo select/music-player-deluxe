@@ -3,8 +3,6 @@
   "title": "Solveig's Song",
   "artist": "Edvard Grieg",
   "lastFetched": "2025-11-23T16:39:47.339Z",
-  "mbid": "89747dd6-f812-3f55-baab-9cd31d754df5",
-  "artistMbid": "013c8e5b-d72a-4cd3-8dee-6c64d6125823",
   "musicbrainz": {
     "artistTags": [
       "classical",
@@ -24,7 +22,9 @@
       "opera",
       "orchestral",
       "romantic classical"
-    ]
+    ],
+    "trackMbid": "89747dd6-f812-3f55-baab-9cd31d754df5",
+    "artistMbid": "013c8e5b-d72a-4cd3-8dee-6c64d6125823"
   },
   "lastfm": {
     "id": "Edvard+Grieg/_/Solveig%27s+Song",

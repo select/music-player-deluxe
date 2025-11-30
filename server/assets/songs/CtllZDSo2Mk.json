@@ -10,15 +10,15 @@
     "youtube": "CtllZDSo2Mk",
     "youtubeMusic": "CtllZDSo2Mk"
   },
-  "mbid": "053bb25b-971e-4f35-ba45-b37741ee4d15",
-  "artistMbid": "39d895fa-c8e1-4dfe-ae14-9a1a302e64aa",
   "musicbrainz": {
     "artistTags": [
       "funk"
     ],
     "artistGenres": [
       "funk"
-    ]
+    ],
+    "trackMbid": "053bb25b-971e-4f35-ba45-b37741ee4d15",
+    "artistMbid": "39d895fa-c8e1-4dfe-ae14-9a1a302e64aa"
   },
   "lastfm": {
     "id": "Junie+Morrison/_/Suzie+Thundertussy",

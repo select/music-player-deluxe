@@ -19,8 +19,6 @@
     "youtube": "cEMwjkRVYb8",
     "youtubeMusic": "cEMwjkRVYb8"
   },
-  "mbid": "555dd289-ccbb-498f-9c32-c1382b35fd49",
-  "artistMbid": "bda6d00e-f8f7-43a5-b8f8-f1ebc55b46d3",
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
@@ -31,7 +29,9 @@
       "drum and bass",
       "electronic",
       "techno"
-    ]
+    ],
+    "trackMbid": "555dd289-ccbb-498f-9c32-c1382b35fd49",
+    "artistMbid": "bda6d00e-f8f7-43a5-b8f8-f1ebc55b46d3"
   },
   "lastfm": {
     "id": "John+Tejada/_/Wild+Ride",

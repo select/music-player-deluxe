@@ -16,7 +16,6 @@
     "youtube": "fRjnLjokjnI",
     "youtubeMusic": "fRjnLjokjnI"
   },
-  "artistMbid": "2ca3511e-17b5-45c7-aaa8-ac279a6bb0e5",
   "lastfm": {
     "id": "Walt+Dickerson/_/Divine+Gemini",
     "listeners": 196,
@@ -25,5 +24,8 @@
       "jazz",
       "vibraphone"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "2ca3511e-17b5-45c7-aaa8-ac279a6bb0e5"
   }
 }

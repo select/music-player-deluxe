@@ -9,7 +9,6 @@
     "youtube": "EKuTjsx2ark",
     "youtubeMusic": "EKuTjsx2ark"
   },
-  "artistMbid": "550508e3-efae-47de-83cc-e50cc471d7e4",
   "lastfm": {
     "id": "Rachel+Portman/_/a+gift",
     "listeners": 9690,
@@ -20,5 +19,8 @@
       "composer",
       "score"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "550508e3-efae-47de-83cc-e50cc471d7e4"
   }
 }

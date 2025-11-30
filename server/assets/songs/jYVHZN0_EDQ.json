@@ -12,8 +12,6 @@
     "youtube": "jYVHZN0_EDQ",
     "youtubeMusic": "jYVHZN0_EDQ"
   },
-  "mbid": "005d7bec-4caa-4f7b-ad45-a03a68060a9d",
-  "artistMbid": "6cf4f18c-2455-47ed-9f6c-953e2f107406",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -24,7 +22,9 @@
     ],
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "trackMbid": "005d7bec-4caa-4f7b-ad45-a03a68060a9d",
+    "artistMbid": "6cf4f18c-2455-47ed-9f6c-953e2f107406"
   },
   "lastfm": {
     "id": "Stephen+Bishop/_/Little+Italy",

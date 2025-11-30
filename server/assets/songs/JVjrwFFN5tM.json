@@ -18,7 +18,6 @@
     "youtube": "JVjrwFFN5tM",
     "youtubeMusic": "JVjrwFFN5tM"
   },
-  "mbid": "68933e1d-196c-38c4-b2af-64117652ebe4",
   "lastfm": {
     "id": "nor+elle/_/Desert+Storm",
     "listeners": 7360,
@@ -28,5 +27,8 @@
       "chillout",
       "loneliness after dusk"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "68933e1d-196c-38c4-b2af-64117652ebe4"
   }
 }

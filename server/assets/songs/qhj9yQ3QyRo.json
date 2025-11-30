@@ -3,8 +3,6 @@
   "title": "Unrockbar",
   "artist": "Die Ärzte",
   "lastFetched": "2025-11-23T16:50:45.351Z",
-  "mbid": "09db9be4-fe71-496f-9987-e54ef12336bd",
-  "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
   "musicbrainz": {
     "artistTags": [
       "berlin",
@@ -23,7 +21,9 @@
       "punk",
       "punk rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "09db9be4-fe71-496f-9987-e54ef12336bd",
+    "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320"
   },
   "lastfm": {
     "id": "Die+%C3%84rzte/_/Unrockbar",

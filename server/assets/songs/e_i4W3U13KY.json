@@ -3,7 +3,6 @@
   "title": "Rebirth",
   "artist": "Midival Punditz",
   "lastFetched": "2025-11-19T06:18:29.453Z",
-  "mbid": "0c4e38b9-df24-34a7-a90d-5955b61ea62b",
   "lastfm": {
     "id": "Midival+Punditz/_/Rebirth",
     "listeners": 11918,
@@ -14,5 +13,8 @@
       "chillout",
       "sitar"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0c4e38b9-df24-34a7-a90d-5955b61ea62b"
   }
 }

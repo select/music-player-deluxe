@@ -20,8 +20,6 @@
     "youtube": "bk56bjCRN8Y",
     "youtubeMusic": "bk56bjCRN8Y"
   },
-  "mbid": "a61fa87e-dcbd-4cdb-8fd3-7925ba83cd06",
-  "artistMbid": "8ff2bf9c-d1b6-4134-ae14-b837913c3dfd",
   "musicbrainz": {
     "artistTags": [
       "free jazz",
@@ -30,7 +28,9 @@
     "artistGenres": [
       "free jazz",
       "jazz"
-    ]
+    ],
+    "trackMbid": "a61fa87e-dcbd-4cdb-8fd3-7925ba83cd06",
+    "artistMbid": "8ff2bf9c-d1b6-4134-ae14-b837913c3dfd"
   },
   "lastfm": {
     "id": "Jaimie+Branch/_/burning+grey",

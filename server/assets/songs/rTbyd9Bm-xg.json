@@ -1,11 +1,9 @@
 {
-  "mbid": "e8691977-b467-45fb-8e69-27c27bcb437e",
   "title": "Way Of The Warrior (feat. MC Mota)",
   "artist": "James Marvel",
   "duration": 293,
   "youtubeId": "rTbyd9Bm-xg",
   "lastFetched": "2025-11-19T04:20:58.120Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B07WT3HWTN",
     "amazonStore": "B07WT3HWTN",
@@ -22,7 +20,6 @@
     "youtube": "rTbyd9Bm-xg",
     "youtubeMusic": "rTbyd9Bm-xg"
   },
-  "artistMbid": "02db8033-68b5-4312-92c5-7d1c74d151de",
   "lastfm": {
     "id": "James+Marvel/_/Way+Of+The+Warrior+(feat.+MC+Mota)",
     "listeners": 214,
@@ -31,5 +28,10 @@
       "drum and bass",
       "neurofunk"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e8691977-b467-45fb-8e69-27c27bcb437e",
+    "artistMbid": "02db8033-68b5-4312-92c5-7d1c74d151de",
+    "releaseCount": 1
   }
 }

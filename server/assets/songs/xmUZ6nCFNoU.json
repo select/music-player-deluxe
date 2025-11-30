@@ -16,7 +16,6 @@
     "youtube": "xmUZ6nCFNoU",
     "youtubeMusic": "xmUZ6nCFNoU"
   },
-  "artistMbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
   "lastfm": {
     "id": "The+Smashing+Pumpkins/_/Today",
     "listeners": 1062193,
@@ -29,5 +28,8 @@
       "90s",
       "grunge"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396"
   }
 }

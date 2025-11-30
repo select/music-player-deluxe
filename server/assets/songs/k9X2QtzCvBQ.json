@@ -3,8 +3,6 @@
   "title": "Fly On A Windshield / Broadway Melody Of 1974",
   "artist": "Genesis",
   "lastFetched": "2025-11-23T16:47:30.747Z",
-  "mbid": "f6bc559a-0654-4e69-8b14-9e35e0f49b91",
-  "artistMbid": "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
   "musicbrainz": {
     "artistTags": [
       "art rock",
@@ -24,7 +22,9 @@
       "pop",
       "pop rock",
       "progressive pop"
-    ]
+    ],
+    "trackMbid": "f6bc559a-0654-4e69-8b14-9e35e0f49b91",
+    "artistMbid": "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e"
   },
   "lastfm": {
     "id": "Genesis/_/Fly+On+A+Windshield+%2F+Broadway+Melody+Of+1974",

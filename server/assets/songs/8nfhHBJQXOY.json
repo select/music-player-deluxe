@@ -14,7 +14,6 @@
     "youtube": "8nfhHBJQXOY",
     "youtubeMusic": "8nfhHBJQXOY"
   },
-  "artistMbid": "7808accb-6395-4b25-858c-678bbb73896b",
   "lastfm": {
     "id": "Bastille/_/Pompeii+MMXXIII",
     "listeners": 41241,
@@ -22,5 +21,8 @@
     "tags": [
       "orchestral"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "7808accb-6395-4b25-858c-678bbb73896b"
   }
 }

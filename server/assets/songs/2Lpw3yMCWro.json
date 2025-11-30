@@ -20,8 +20,6 @@
     "youtube": "2Lpw3yMCWro",
     "youtubeMusic": "2Lpw3yMCWro"
   },
-  "mbid": "6a333674-7e9e-4d9b-8b71-7e95a296f4fb",
-  "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
   "musicbrainz": {
     "tags": [
       "alternative",
@@ -29,7 +27,9 @@
       "rock",
       "radiohead",
       "indie"
-    ]
+    ],
+    "trackMbid": "6a333674-7e9e-4d9b-8b71-7e95a296f4fb",
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
   },
   "lastfm": {
     "id": "Radiohead/_/Knives+Out",

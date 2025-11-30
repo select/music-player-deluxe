@@ -15,8 +15,6 @@
     "youtube": "Sic6J7cxXWQ",
     "youtubeMusic": "Sic6J7cxXWQ"
   },
-  "mbid": "1af63ee5-3641-4bd0-b4e7-edbf7f43a3fc",
-  "artistMbid": "fd429857-5ace-4609-ae54-1502c3bdac11",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -30,7 +28,9 @@
       "pop punk",
       "pop rock",
       "punk rock"
-    ]
+    ],
+    "trackMbid": "1af63ee5-3641-4bd0-b4e7-edbf7f43a3fc",
+    "artistMbid": "fd429857-5ace-4609-ae54-1502c3bdac11"
   },
   "lastfm": {
     "id": "Billy+Talent/_/The+Wolf",

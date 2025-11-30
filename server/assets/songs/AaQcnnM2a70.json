@@ -12,8 +12,6 @@
     "youtube": "AaQcnnM2a70",
     "youtubeMusic": "AaQcnnM2a70"
   },
-  "mbid": "9a93db5a-e2e0-396a-b681-7bad962d3e69",
-  "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
   "musicbrainz": {
     "artistTags": [
       "berlin",
@@ -32,7 +30,9 @@
       "punk",
       "punk rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "9a93db5a-e2e0-396a-b681-7bad962d3e69",
+    "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320"
   },
   "lastfm": {
     "id": "Die+%C3%84rzte/_/Lasse+redn",

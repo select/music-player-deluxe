@@ -11,15 +11,15 @@
     "youtube": "qDHqLDxONR8",
     "youtubeMusic": "qDHqLDxONR8"
   },
-  "mbid": "dd26b00d-f430-40f1-9dc2-ee487fb5194b",
-  "artistMbid": "410b8630-2fd5-4368-8a5b-dbc5e82f6b1c",
   "musicbrainz": {
     "artistTags": [
       "soul"
     ],
     "artistGenres": [
       "soul"
-    ]
+    ],
+    "trackMbid": "dd26b00d-f430-40f1-9dc2-ee487fb5194b",
+    "artistMbid": "410b8630-2fd5-4368-8a5b-dbc5e82f6b1c"
   },
   "lastfm": {
     "id": "Leroy+Hutson/_/Cool+Out",

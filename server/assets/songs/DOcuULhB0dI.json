@@ -16,7 +16,6 @@
     "youtube": "DOcuULhB0dI",
     "youtubeMusic": "DOcuULhB0dI"
   },
-  "artistMbid": "cb941164-128c-498a-98f8-a9cef80f88e7",
   "lastfm": {
     "id": "Amy+Dabbs/_/Don%27t+Go+(Edit)",
     "listeners": 34,
@@ -27,5 +26,8 @@
       "electronic",
       "germany"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "cb941164-128c-498a-98f8-a9cef80f88e7"
   }
 }

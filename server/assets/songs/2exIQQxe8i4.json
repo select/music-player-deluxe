@@ -1,7 +1,7 @@
 {
   "youtubeId": "2exIQQxe8i4",
   "title": "Radkey - Love Spills (Official Video)",
-  "lastFetched": "2025-11-30T17:23:21.057Z",
+  "lastFetched": "2025-11-30T19:21:04.667Z",
   "ai": {
     "title": "Love Spills",
     "artist": "Radkey"
@@ -17,5 +17,10 @@
     "tags": [
       "personal favourites"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5da98a0a-7c29-4893-805f-ce4f9d94fdf4",
+    "artistMbid": "31fcc2d8-ce8f-4fe2-a641-a458750fed55",
+    "releaseCount": 5
   }
 }

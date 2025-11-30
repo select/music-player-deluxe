@@ -1,9 +1,6 @@
 {
-  "mbid": "2d715794-36f9-42d7-9c14-94adc82c5e4c",
   "title": "The Continuing Story of Bungalow Bill",
   "artist": "The Beatles",
-  "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
-  "releaseCount": 3,
   "duration": 169,
   "youtubeId": "J39DC9t0I5o",
   "lastFetched": "2025-11-19T05:03:09.678Z",
@@ -29,7 +26,10 @@
       "classic rock",
       "pop",
       "rock"
-    ]
+    ],
+    "trackMbid": "2d715794-36f9-42d7-9c14-94adc82c5e4c",
+    "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+    "releaseCount": 3
   },
   "lastfm": {
     "id": "The+Beatles/_/The+Continuing+Story+of+Bungalow+Bill",

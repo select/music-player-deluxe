@@ -13,8 +13,6 @@
     "youtube": "0IkuKfrYgUc",
     "youtubeMusic": "0IkuKfrYgUc"
   },
-  "mbid": "4129e75d-eb44-4406-89e4-73e4eb948395",
-  "artistMbid": "a588237b-c9ee-49c5-b254-cb670cce3b2b",
   "lastfm": {
     "id": "NoMBe/_/Freak+Like+Me",
     "listeners": 72715,
@@ -26,5 +24,9 @@
       "sexy",
       "electronic"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4129e75d-eb44-4406-89e4-73e4eb948395",
+    "artistMbid": "a588237b-c9ee-49c5-b254-cb670cce3b2b"
   }
 }

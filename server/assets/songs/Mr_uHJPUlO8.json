@@ -21,7 +21,6 @@
     "youtube": "Mr_uHJPUlO8",
     "youtubeMusic": "Mr_uHJPUlO8"
   },
-  "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
   "musicbrainz": {
     "tags": [
       "rock",
@@ -29,7 +28,8 @@
       "funk",
       "alternative",
       "90s"
-    ]
+    ],
+    "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
   },
   "lastfm": {
     "id": "Red+Hot+Chili+Peppers/_/Give+It+Away",

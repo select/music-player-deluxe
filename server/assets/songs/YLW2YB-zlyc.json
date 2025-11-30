@@ -20,8 +20,6 @@
     "youtube": "YLW2YB-zlyc",
     "youtubeMusic": "YLW2YB-zlyc"
   },
-  "mbid": "6aec94ae-94a8-31d5-8bc5-1f4b184a281f",
-  "artistMbid": "4fafdd2b-4cd0-4cc7-a338-cd94cfceeea4",
   "musicbrainz": {
     "artistTags": [
       "asian",
@@ -29,7 +27,9 @@
       "british asian",
       "english",
       "uk"
-    ]
+    ],
+    "trackMbid": "6aec94ae-94a8-31d5-8bc5-1f4b184a281f",
+    "artistMbid": "4fafdd2b-4cd0-4cc7-a338-cd94cfceeea4"
   },
   "lastfm": {
     "id": "Talvin+Singh/_/Sutrix",

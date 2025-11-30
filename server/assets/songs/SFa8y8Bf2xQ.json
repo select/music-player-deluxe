@@ -12,8 +12,6 @@
     "youtube": "SFa8y8Bf2xQ",
     "youtubeMusic": "SFa8y8Bf2xQ"
   },
-  "mbid": "15eb8547-9dbb-3a91-8f41-764f1c037413",
-  "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d",
   "musicbrainz": {
     "artistTags": [
       "acid jazz",
@@ -29,7 +27,9 @@
       "downtempo",
       "jazz",
       "nu jazz"
-    ]
+    ],
+    "trackMbid": "15eb8547-9dbb-3a91-8f41-764f1c037413",
+    "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d"
   },
   "lastfm": {
     "id": "Jazzanova/_/No+Use",

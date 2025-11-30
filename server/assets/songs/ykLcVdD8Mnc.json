@@ -3,8 +3,6 @@
   "title": "Ran Before the Storm",
   "artist": "Roo Panes",
   "lastFetched": "2025-11-23T16:54:28.785Z",
-  "mbid": "2ce4beb7-8ead-41a1-9ad2-d8049a090b4f",
-  "artistMbid": "f01f4e0c-20c7-44fb-b549-d353c94bef55",
   "musicbrainz": {
     "artistTags": [
       "classical",
@@ -15,7 +13,9 @@
       "classical",
       "folk",
       "pop"
-    ]
+    ],
+    "trackMbid": "2ce4beb7-8ead-41a1-9ad2-d8049a090b4f",
+    "artistMbid": "f01f4e0c-20c7-44fb-b549-d353c94bef55"
   },
   "lastfm": {
     "id": "Roo+Panes/_/Ran+Before+the+Storm",

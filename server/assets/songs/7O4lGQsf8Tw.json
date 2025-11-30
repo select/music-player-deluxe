@@ -17,8 +17,6 @@
     "youtube": "7O4lGQsf8Tw",
     "youtubeMusic": "7O4lGQsf8Tw"
   },
-  "mbid": "fcffab91-a65c-48be-bc8d-f280298533f1",
-  "artistMbid": "1fb60b6c-0f4d-42b4-8a5e-de705ec76660",
   "musicbrainz": {
     "tags": [
       "african",
@@ -39,7 +37,9 @@
     "artistGenres": [
       "african blues",
       "desert blues"
-    ]
+    ],
+    "trackMbid": "fcffab91-a65c-48be-bc8d-f280298533f1",
+    "artistMbid": "1fb60b6c-0f4d-42b4-8a5e-de705ec76660"
   },
   "lastfm": {
     "id": "Amadou+&+Mariam/_/La+r%C3%A9alit%C3%A9",

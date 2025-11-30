@@ -13,8 +13,6 @@
     "youtube": "fMF4EGyLzLs",
     "youtubeMusic": "fMF4EGyLzLs"
   },
-  "mbid": "bff51bf4-6c59-4993-8de9-7b6f061cc7a4",
-  "artistMbid": "07d78001-dde0-489c-9281-d2fa98a85de4",
   "musicbrainz": {
     "artistTags": [
       "classic pop and rock",
@@ -33,7 +31,9 @@
       "pop soul",
       "r&b",
       "soul"
-    ]
+    ],
+    "trackMbid": "bff51bf4-6c59-4993-8de9-7b6f061cc7a4",
+    "artistMbid": "07d78001-dde0-489c-9281-d2fa98a85de4"
   },
   "lastfm": {
     "id": "Jr.+Walker+&+The+All+Stars/_/Monkey+Jump",

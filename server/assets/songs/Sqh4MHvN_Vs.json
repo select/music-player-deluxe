@@ -19,7 +19,6 @@
     "youtube": "Sqh4MHvN_Vs",
     "youtubeMusic": "Sqh4MHvN_Vs"
   },
-  "artistMbid": "a21b29e1-220b-47f7-8dd3-d6d4885d807a",
   "lastfm": {
     "id": "Rheingold/_/Dreiklangsdimensionen+(Remastered+2005)",
     "listeners": 259,
@@ -31,5 +30,8 @@
       "80s",
       "neue deutsche welle"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "a21b29e1-220b-47f7-8dd3-d6d4885d807a"
   }
 }

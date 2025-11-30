@@ -13,8 +13,6 @@
     "youtube": "bzVjZu4fl4o",
     "youtubeMusic": "bzVjZu4fl4o"
   },
-  "mbid": "03234679-9c45-498e-bb2b-3b6b11166b4d",
-  "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
   "musicbrainz": {
     "artistTags": [
       "big beat",
@@ -34,7 +32,9 @@
       "breakbeat hardcore",
       "dance",
       "electronic"
-    ]
+    ],
+    "trackMbid": "03234679-9c45-498e-bb2b-3b6b11166b4d",
+    "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704"
   },
   "lastfm": {
     "id": "The+Prodigy/_/Narayan",

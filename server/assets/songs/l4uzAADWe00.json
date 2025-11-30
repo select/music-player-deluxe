@@ -21,8 +21,6 @@
     "youtube": "l4uzAADWe00",
     "youtubeMusic": "l4uzAADWe00"
   },
-  "mbid": "080f0584-96c7-383a-a059-9879dda4fce5",
-  "artistMbid": "331ce348-1b08-40b9-8ed7-0763b92bd003",
   "musicbrainz": {
     "artistTags": [
       "art pop",
@@ -42,7 +40,9 @@
       "glam rock",
       "new romantic",
       "new wave"
-    ]
+    ],
+    "trackMbid": "080f0584-96c7-383a-a059-9879dda4fce5",
+    "artistMbid": "331ce348-1b08-40b9-8ed7-0763b92bd003"
   },
   "lastfm": {
     "id": "Roxy+Music/_/In+Every+Dream+Home+a+Heartache",

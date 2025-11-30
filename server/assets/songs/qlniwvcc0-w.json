@@ -20,8 +20,6 @@
     "youtube": "qlniwvcc0-w",
     "youtubeMusic": "qlniwvcc0-w"
   },
-  "mbid": "1732a59d-6442-411d-a471-1c313486b782",
-  "artistMbid": "ac017afa-aa56-4856-9385-94c4a96f1aef",
   "musicbrainz": {
     "artistTags": [
       "bass",
@@ -41,7 +39,9 @@
       "breaks",
       "club",
       "deep house"
-    ]
+    ],
+    "trackMbid": "1732a59d-6442-411d-a471-1c313486b782",
+    "artistMbid": "ac017afa-aa56-4856-9385-94c4a96f1aef"
   },
   "lastfm": {
     "id": "Hugo+Massien/_/God+Knows+We+Tried",

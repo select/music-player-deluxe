@@ -3,8 +3,6 @@
   "title": "Can I Sit Next to You Girl",
   "artist": "AC/DC",
   "lastFetched": "2025-11-23T16:45:52.243Z",
-  "mbid": "6ad074bb-a624-42e1-a314-2be6be9cc1f1",
-  "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
   "musicbrainz": {
     "artistTags": [
       "blues rock",
@@ -20,7 +18,9 @@
       "hard rock",
       "rock",
       "rock and roll"
-    ]
+    ],
+    "trackMbid": "6ad074bb-a624-42e1-a314-2be6be9cc1f1",
+    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1"
   },
   "lastfm": {
     "id": "AC%2FDC/_/Can+I+Sit+Next+to+You+Girl",

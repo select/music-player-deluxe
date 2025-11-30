@@ -16,8 +16,6 @@
     "youtube": "9XaS93WMRQQ",
     "youtubeMusic": "9XaS93WMRQQ"
   },
-  "mbid": "eaf4aaf0-e7a8-4f6d-a146-6ec85ac530c6",
-  "artistMbid": "2002b451-41ec-4e57-b806-a109931743b1",
   "musicbrainz": {
     "tags": [
       "metal"
@@ -34,7 +32,9 @@
       "alternative metal",
       "groove metal",
       "heavy metal"
-    ]
+    ],
+    "trackMbid": "eaf4aaf0-e7a8-4f6d-a146-6ec85ac530c6",
+    "artistMbid": "2002b451-41ec-4e57-b806-a109931743b1"
   },
   "lastfm": {
     "id": "Bad+Wolves/_/Zombie",

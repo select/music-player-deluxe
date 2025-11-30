@@ -1,11 +1,9 @@
 {
-  "mbid": "0a16100f-daea-4aae-bc53-a62b2f9eb3e6",
   "title": "Elevation of Love",
   "artist": "Esbjörn Svensson Trio",
   "duration": 404,
   "youtubeId": "ZAaB7x7kBK0",
   "lastFetched": "2025-11-19T03:58:03.698Z",
-  "releaseCount": 1,
   "odesli": {
     "anghami": "38131497",
     "boomplay": "16141090",
@@ -21,14 +19,16 @@
     "youtube": "ZAaB7x7kBK0",
     "youtubeMusic": "ZAaB7x7kBK0"
   },
-  "artistMbid": "cfa7c6b1-bbb3-4f9a-a636-cbfafb9b4bcf",
   "musicbrainz": {
     "tags": [
       "contemporary jazz",
       "jazz",
       "modern jazz",
       "piano jazz"
-    ]
+    ],
+    "trackMbid": "0a16100f-daea-4aae-bc53-a62b2f9eb3e6",
+    "artistMbid": "cfa7c6b1-bbb3-4f9a-a636-cbfafb9b4bcf",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Esbj%C3%B6rn+Svensson+Trio/_/Elevation+of+Love",

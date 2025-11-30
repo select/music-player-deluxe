@@ -16,8 +16,6 @@
     "youtube": "JEv6HO2Dfw4",
     "youtubeMusic": "JEv6HO2Dfw4"
   },
-  "mbid": "6681ba6e-4844-4dbc-9f29-a60d3d04735f",
-  "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
   "musicbrainz": {
     "tags": [
       "alternative rock",
@@ -43,7 +41,9 @@
       "emo",
       "geek rock",
       "mainstream rock"
-    ]
+    ],
+    "trackMbid": "6681ba6e-4844-4dbc-9f29-a60d3d04735f",
+    "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04"
   },
   "lastfm": {
     "id": "Weezer/_/The+Opposite+Of+Me",

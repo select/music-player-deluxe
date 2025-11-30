@@ -1,11 +1,9 @@
 {
-  "mbid": "719aa04c-931f-4efe-b1f3-2779ab9a51ed",
   "title": "Terrapin",
   "artist": "Syd Barrett",
   "duration": 305,
   "youtubeId": "VaGRtH7h4oA",
   "lastFetched": "2025-11-19T03:30:06.060Z",
-  "releaseCount": 1,
   "odesli": {
     "amazonMusic": "B0BPN5TDPW",
     "amazonStore": "B0BPN5TDPW",
@@ -16,7 +14,6 @@
     "youtube": "VaGRtH7h4oA",
     "youtubeMusic": "VaGRtH7h4oA"
   },
-  "artistMbid": "12327d75-47d5-45d9-84c2-3760b9210c17",
   "musicbrainz": {
     "tags": [
       "acoustic",
@@ -29,7 +26,10 @@
       "psychedelic rock",
       "psychedelic/garage",
       "rock"
-    ]
+    ],
+    "trackMbid": "719aa04c-931f-4efe-b1f3-2779ab9a51ed",
+    "artistMbid": "12327d75-47d5-45d9-84c2-3760b9210c17",
+    "releaseCount": 1
   },
   "lastfm": {
     "id": "Syd+Barrett/_/Terrapin",

@@ -13,8 +13,6 @@
     "youtube": "vAGtkWGpD_Y",
     "youtubeMusic": "vAGtkWGpD_Y"
   },
-  "mbid": "0c30dc5d-cb3e-37bd-820d-982f45ad68ae",
-  "artistMbid": "4ca783b7-5bf7-4348-b494-46680660050f",
   "musicbrainz": {
     "tags": [
       "rock",
@@ -22,7 +20,9 @@
       "hard rock",
       "Stone Sour",
       "metal"
-    ]
+    ],
+    "trackMbid": "0c30dc5d-cb3e-37bd-820d-982f45ad68ae",
+    "artistMbid": "4ca783b7-5bf7-4348-b494-46680660050f"
   },
   "lastfm": {
     "id": "Stone+Sour/_/Through+Glass",

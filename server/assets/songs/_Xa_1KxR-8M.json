@@ -16,8 +16,6 @@
     "youtube": "_Xa_1KxR-8M",
     "youtubeMusic": "_Xa_1KxR-8M"
   },
-  "mbid": "029b2984-56e8-30d4-b34d-e28e604b75dd",
-  "artistMbid": "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -31,7 +29,9 @@
       "pop",
       "pop rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "029b2984-56e8-30d4-b34d-e28e604b75dd",
+    "artistMbid": "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb"
   },
   "lastfm": {
     "id": "Joe+Cocker/_/N%27oubliez+Jamais",

@@ -15,8 +15,6 @@
     "youtube": "JhqyZeUlE8U",
     "youtubeMusic": "JhqyZeUlE8U"
   },
-  "mbid": "7933198b-c23d-3f43-a242-2deae1235815",
-  "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
   "musicbrainz": {
     "artistTags": [
       "alternative hip hop",
@@ -36,7 +34,9 @@
       "east coast hip hop",
       "experimental hip hop",
       "funk"
-    ]
+    ],
+    "trackMbid": "7933198b-c23d-3f43-a242-2deae1235815",
+    "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53"
   },
   "lastfm": {
     "id": "Beastie+Boys/_/Sure+Shot",

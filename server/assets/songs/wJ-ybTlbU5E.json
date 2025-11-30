@@ -1,9 +1,6 @@
 {
-  "mbid": "0ed351f9-5f9a-4b81-a4c3-a68c8425511f",
   "title": "Major Lazer",
   "artist": "TeRex Productions",
-  "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
-  "releaseCount": 2,
   "duration": 132,
   "youtubeId": "wJ-ybTlbU5E",
   "lastFetched": "2025-11-16T21:25:59.726Z",
@@ -26,7 +23,10 @@
       "jungle terror",
       "moombahton",
       "pop reggae"
-    ]
+    ],
+    "trackMbid": "0ed351f9-5f9a-4b81-a4c3-a68c8425511f",
+    "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
+    "releaseCount": 2
   },
   "ai": {
     "title": "GANGSTA",

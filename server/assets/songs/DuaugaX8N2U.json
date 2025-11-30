@@ -21,7 +21,6 @@
     "youtube": "DuaugaX8N2U",
     "youtubeMusic": "DuaugaX8N2U"
   },
-  "mbid": "2b7fc576-c223-434d-9421-f3a5ca53d214",
   "lastfm": {
     "id": "Gil+Scott-Heron/_/Home+Is+Where+the+Hatred+Is",
     "listeners": 202208,
@@ -32,5 +31,8 @@
       "political",
       "jazz funk"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2b7fc576-c223-434d-9421-f3a5ca53d214"
   }
 }

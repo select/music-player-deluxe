@@ -3,12 +3,12 @@
   "title": "Warum hört der Fahrradweg einfach hier auf?",
   "artist": "Jan Böhmermann",
   "lastFetched": "2025-11-23T16:49:26.069Z",
-  "mbid": "14231183-5558-4a1d-91d3-0672b815157f",
-  "artistMbid": "1965aa78-3109-4ceb-9b7e-5e9b79b5a229",
   "musicbrainz": {
     "artistTags": [
       "satire"
-    ]
+    ],
+    "trackMbid": "14231183-5558-4a1d-91d3-0672b815157f",
+    "artistMbid": "1965aa78-3109-4ceb-9b7e-5e9b79b5a229"
   },
   "lastfm": {
     "id": "Jan+B%C3%B6hmermann/_/Warum+h%C3%B6rt+der+Fahrradweg+einfach+hier+auf%3F",

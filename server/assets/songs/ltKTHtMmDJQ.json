@@ -19,8 +19,6 @@
     "youtube": "ltKTHtMmDJQ",
     "youtubeMusic": "ltKTHtMmDJQ"
   },
-  "mbid": "0e097478-8111-4da3-a896-8bdbaab7d5de",
-  "artistMbid": "ae1b47d5-5128-431c-9d30-e08fd90e0767",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -31,7 +29,9 @@
       "alternative rock",
       "progressive metal",
       "progressive rock"
-    ]
+    ],
+    "trackMbid": "0e097478-8111-4da3-a896-8bdbaab7d5de",
+    "artistMbid": "ae1b47d5-5128-431c-9d30-e08fd90e0767"
   },
   "lastfm": {
     "id": "Coheed+and+Cambria/_/The+Liars+Club",

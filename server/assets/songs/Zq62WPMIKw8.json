@@ -15,7 +15,6 @@
     "youtube": "Zq62WPMIKw8",
     "youtubeMusic": "Zq62WPMIKw8"
   },
-  "artistMbid": "984dbc76-ad46-4895-bb82-42d231df0ce0",
   "lastfm": {
     "id": "CRYPT1K/_/Worthless",
     "listeners": 156,
@@ -24,5 +23,8 @@
       "phonk",
       "chris vongsawat"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "984dbc76-ad46-4895-bb82-42d231df0ce0"
   }
 }

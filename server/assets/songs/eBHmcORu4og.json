@@ -15,8 +15,6 @@
     "youtube": "eBHmcORu4og",
     "youtubeMusic": "eBHmcORu4og"
   },
-  "mbid": "bc251d41-55a1-4a72-be49-2da5da56fc71",
-  "artistMbid": "b11ef3b0-247c-4c42-acc9-16e75b875096",
   "lastfm": {
     "id": "Live/_/The+Dolphin%27s+Cry",
     "listeners": 192750,
@@ -28,5 +26,9 @@
       "90s",
       "alternative"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bc251d41-55a1-4a72-be49-2da5da56fc71",
+    "artistMbid": "b11ef3b0-247c-4c42-acc9-16e75b875096"
   }
 }

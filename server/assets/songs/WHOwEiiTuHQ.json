@@ -1,9 +1,6 @@
 {
-  "mbid": "71bdde6d-ef45-41fa-abbb-ea47e86d69a1",
   "title": "Buchstabe 2025",
   "artist": "Knorkator",
-  "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
-  "releaseCount": 7,
   "duration": 250,
   "youtubeId": "WHOwEiiTuHQ",
   "lastFetched": "2025-11-19T05:04:11.221Z",
@@ -29,7 +26,10 @@
       "jazz",
       "pop",
       "rock"
-    ]
+    ],
+    "trackMbid": "71bdde6d-ef45-41fa-abbb-ea47e86d69a1",
+    "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
+    "releaseCount": 7
   },
   "lastfm": {
     "id": "Knorkator/_/Buchstabe+2025",

@@ -3,7 +3,6 @@
   "title": "Milk It",
   "artist": "Nirvana",
   "lastFetched": "2025-11-19T15:48:28.121Z",
-  "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
   "lastfm": {
     "id": "Nirvana/_/Milk+It",
     "listeners": 745369,
@@ -15,5 +14,8 @@
       "alternative rock",
       "alternative"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da"
   }
 }

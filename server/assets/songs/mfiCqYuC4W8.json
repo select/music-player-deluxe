@@ -3,8 +3,6 @@
   "title": "Careful Crossers",
   "artist": "Fang Island",
   "lastFetched": "2025-11-23T16:48:52.726Z",
-  "mbid": "833aac94-0e1a-420a-8d9c-6b936d4d88f7",
-  "artistMbid": "18fcb09c-90b5-4fb3-b989-8f754f7413af",
   "musicbrainz": {
     "artistTags": [
       "indie rock",
@@ -21,7 +19,9 @@
       "math pop",
       "math rock",
       "neo-psychedelia"
-    ]
+    ],
+    "trackMbid": "833aac94-0e1a-420a-8d9c-6b936d4d88f7",
+    "artistMbid": "18fcb09c-90b5-4fb3-b989-8f754f7413af"
   },
   "lastfm": {
     "id": "Fang+Island/_/Careful+Crossers",

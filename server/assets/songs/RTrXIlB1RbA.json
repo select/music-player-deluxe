@@ -13,15 +13,15 @@
     "youtube": "RTrXIlB1RbA",
     "youtubeMusic": "RTrXIlB1RbA"
   },
-  "mbid": "5bd46923-b457-3947-be9b-c1a883ecb71e",
-  "artistMbid": "1b9e6350-f7f8-483f-9917-a8c9fcf52e99",
   "musicbrainz": {
     "artistTags": [
       "trance"
     ],
     "artistGenres": [
       "trance"
-    ]
+    ],
+    "trackMbid": "5bd46923-b457-3947-be9b-c1a883ecb71e",
+    "artistMbid": "1b9e6350-f7f8-483f-9917-a8c9fcf52e99"
   },
   "lastfm": {
     "id": "Push/_/Universal+Nation",

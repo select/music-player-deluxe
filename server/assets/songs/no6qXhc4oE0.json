@@ -15,7 +15,6 @@
     "youtube": "no6qXhc4oE0",
     "youtubeMusic": "no6qXhc4oE0"
   },
-  "artistMbid": "a02cc5f1-317a-4cfe-9f98-4869403d4168",
   "lastfm": {
     "id": "Michael+Fiedler/_/Chain",
     "listeners": 22,
@@ -23,5 +22,8 @@
     "tags": [
       "german"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "a02cc5f1-317a-4cfe-9f98-4869403d4168"
   }
 }

@@ -14,8 +14,6 @@
     "youtube": "pHpDUvUoxXs",
     "youtubeMusic": "pHpDUvUoxXs"
   },
-  "mbid": "174fd24f-7e87-3216-8434-0a8d9b5598f3",
-  "artistMbid": "0ee7e64d-90ca-406b-b59a-3e551c556dbe",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -24,7 +22,9 @@
     "artistGenres": [
       "alternative rock",
       "geek rock"
-    ]
+    ],
+    "trackMbid": "174fd24f-7e87-3216-8434-0a8d9b5598f3",
+    "artistMbid": "0ee7e64d-90ca-406b-b59a-3e551c556dbe"
   },
   "lastfm": {
     "id": "Camper+Van+Beethoven/_/One+Of+These+Days",

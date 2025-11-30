@@ -18,8 +18,6 @@
     "youtube": "UMTTRGM7xBc",
     "youtubeMusic": "UMTTRGM7xBc"
   },
-  "mbid": "11c14d5d-17bd-449c-9fc0-8e9b2eda92b2",
-  "artistMbid": "0c361ea5-98c6-4947-900b-201833f2dd84",
   "musicbrainz": {
     "artistTags": [
       "crossover jazz",
@@ -39,7 +37,9 @@
       "jazz fusion",
       "jazz pop",
       "jazz rock"
-    ]
+    ],
+    "trackMbid": "11c14d5d-17bd-449c-9fc0-8e9b2eda92b2",
+    "artistMbid": "0c361ea5-98c6-4947-900b-201833f2dd84"
   },
   "lastfm": {
     "id": "Lee+Ritenour/_/Rose+Pedals",

@@ -22,8 +22,6 @@
     "youtube": "7G2-FPlvY58",
     "youtubeMusic": "7G2-FPlvY58"
   },
-  "mbid": "e2d62fa2-f1be-49a9-a2af-4589c8206d79",
-  "artistMbid": "9efff43b-3b29-4082-824e-bc82f646f93d",
   "musicbrainz": {
     "tags": [
       "classic rock",
@@ -31,7 +29,9 @@
       "rock",
       "60s",
       "psychedelic"
-    ]
+    ],
+    "trackMbid": "e2d62fa2-f1be-49a9-a2af-4589c8206d79",
+    "artistMbid": "9efff43b-3b29-4082-824e-bc82f646f93d"
   },
   "lastfm": {
     "id": "The+Doors/_/Riders+on+the+Storm",

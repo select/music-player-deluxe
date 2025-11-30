@@ -13,8 +13,6 @@
     "youtube": "OkU6IJ3rRmk",
     "youtubeMusic": "OkU6IJ3rRmk"
   },
-  "mbid": "e98315e0-f893-4b0c-8c8c-99a01af1305d",
-  "artistMbid": "42222090-c5e5-4243-8582-c29bc8b63ec6",
   "musicbrainz": {
     "tags": [
       "soundtrack"
@@ -28,7 +26,9 @@
       "contemporary folk",
       "folk",
       "rock"
-    ]
+    ],
+    "trackMbid": "e98315e0-f893-4b0c-8c8c-99a01af1305d",
+    "artistMbid": "42222090-c5e5-4243-8582-c29bc8b63ec6"
   },
   "lastfm": {
     "id": "Shawn+Colvin/_/Never+Saw+Blue+Like+That",

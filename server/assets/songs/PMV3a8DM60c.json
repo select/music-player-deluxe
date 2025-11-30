@@ -3,8 +3,6 @@
   "title": "Zipfeschwinga",
   "artist": "DICHT & ERGREIFEND",
   "lastFetched": "2025-11-23T15:40:03.424Z",
-  "mbid": "788634de-0478-4448-930e-f1d45329d61a",
-  "artistMbid": "c6bc18a7-72f1-46d3-857b-b632aaef882f",
   "lastfm": {
     "id": "DICHT+&+ERGREIFEND/_/Zipfeschwinga",
     "listeners": 4623,
@@ -16,5 +14,9 @@
       "from: germany",
       "10s"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "788634de-0478-4448-930e-f1d45329d61a",
+    "artistMbid": "c6bc18a7-72f1-46d3-857b-b632aaef882f"
   }
 }

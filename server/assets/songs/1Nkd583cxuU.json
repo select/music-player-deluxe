@@ -10,8 +10,6 @@
     "youtube": "1Nkd583cxuU",
     "youtubeMusic": "1Nkd583cxuU"
   },
-  "mbid": "2a04431d-a266-4211-b6fa-b899bd95bd09",
-  "artistMbid": "55ef024a-6cc0-49ed-8ce2-2e12193c0f46",
   "musicbrainz": {
     "artistTags": [
       "adult contemporary",
@@ -25,7 +23,9 @@
       "hard rock",
       "pop rock",
       "rock"
-    ]
+    ],
+    "trackMbid": "2a04431d-a266-4211-b6fa-b899bd95bd09",
+    "artistMbid": "55ef024a-6cc0-49ed-8ce2-2e12193c0f46"
   },
   "lastfm": {
     "id": "Survivor/_/Didn%27t+Know+It+Was+Love",

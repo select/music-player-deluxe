@@ -12,8 +12,6 @@
     "youtube": "1JKAoIYGhX8",
     "youtubeMusic": "1JKAoIYGhX8"
   },
-  "mbid": "037199d4-6789-43a3-8933-8e2ba1ccb8eb",
-  "artistMbid": "7ba593b9-79d4-4860-92c8-ade2a1ef4551",
   "musicbrainz": {
     "artistTags": [
       "ambient",
@@ -31,7 +29,9 @@
       "dream pop",
       "experimental",
       "folk"
-    ]
+    ],
+    "trackMbid": "037199d4-6789-43a3-8933-8e2ba1ccb8eb",
+    "artistMbid": "7ba593b9-79d4-4860-92c8-ade2a1ef4551"
   },
   "lastfm": {
     "id": "Emma+Ruth+Rundle/_/Darkhorse",

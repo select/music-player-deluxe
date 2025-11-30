@@ -1,9 +1,6 @@
 {
-  "mbid": "c4d13bf0-caf1-4751-ab53-da1988381fc3",
   "title": "Incline (feat. Nova Twins, Pink Siifu & Yung Skrrt)",
   "artist": "HO99O9",
-  "artistMbid": "e0458faa-82b2-4011-b851-6a0ed1f5a0e6",
-  "releaseCount": 3,
   "duration": 219,
   "youtubeId": "4fOtEXI7gJQ",
   "lastFetched": "2025-11-23T16:27:59.205Z",
@@ -23,7 +20,10 @@
     ],
     "artistGenres": [
       "punk rap"
-    ]
+    ],
+    "trackMbid": "c4d13bf0-caf1-4751-ab53-da1988381fc3",
+    "artistMbid": "e0458faa-82b2-4011-b851-6a0ed1f5a0e6",
+    "releaseCount": 3
   },
   "lastfm": {
     "id": "HO99O9/_/Incline+(feat.+Nova+Twins,+Pink+Siifu+&+Yung+Skrrt)",

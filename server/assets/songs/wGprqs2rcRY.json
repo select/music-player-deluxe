@@ -1,9 +1,6 @@
 {
-  "mbid": "f491122f-8530-4b59-832e-013be1b484ff",
   "title": "Duffer in F (Version 2)",
   "artist": "Galt Macdermot",
-  "artistMbid": "479e16b4-2b26-40d1-ba65-9ce5ea8ae6a6",
-  "releaseCount": 1,
   "duration": 201,
   "youtubeId": "wGprqs2rcRY",
   "lastFetched": "2025-11-19T05:20:28.536Z",
@@ -28,5 +25,10 @@
       "jazz",
       "funk"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f491122f-8530-4b59-832e-013be1b484ff",
+    "artistMbid": "479e16b4-2b26-40d1-ba65-9ce5ea8ae6a6",
+    "releaseCount": 1
   }
 }

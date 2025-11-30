@@ -10,7 +10,6 @@
     "youtube": "jVYKlv-cT7o",
     "youtubeMusic": "jVYKlv-cT7o"
   },
-  "artistMbid": "47619b12-91e7-4014-8308-6efda7310966",
   "lastfm": {
     "id": "Pola+&+Bryson/_/Anaesthetist",
     "listeners": 7017,
@@ -22,5 +21,8 @@
       "uk garage",
       "footwork"
     ]
+  },
+  "musicbrainz": {
+    "artistMbid": "47619b12-91e7-4014-8308-6efda7310966"
   }
 }

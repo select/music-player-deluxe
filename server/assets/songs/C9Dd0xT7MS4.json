@@ -12,8 +12,6 @@
     "youtube": "C9Dd0xT7MS4",
     "youtubeMusic": "C9Dd0xT7MS4"
   },
-  "mbid": "3279268f-d61c-489c-89da-e00fe0958cb7",
-  "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
   "musicbrainz": {
     "artistTags": [
       "alternative metal",
@@ -29,7 +27,9 @@
       "hard rock",
       "nu metal",
       "pop rock"
-    ]
+    ],
+    "trackMbid": "3279268f-d61c-489c-89da-e00fe0958cb7",
+    "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c"
   },
   "lastfm": {
     "id": "Papa+Roach/_/Feel+Like+Home",

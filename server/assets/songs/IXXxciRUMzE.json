@@ -21,8 +21,6 @@
     "youtube": "IXXxciRUMzE",
     "youtubeMusic": "IXXxciRUMzE"
   },
-  "mbid": "29c1a473-2412-453d-8698-34a70f71c587",
-  "artistMbid": "8fb5370b-9568-4b61-9da5-2aa12c9928db",
   "musicbrainz": {
     "artistTags": [
       "contemporary r&b",
@@ -38,7 +36,9 @@
       "pop rap",
       "pop soul",
       "r&b"
-    ]
+    ],
+    "trackMbid": "29c1a473-2412-453d-8698-34a70f71c587",
+    "artistMbid": "8fb5370b-9568-4b61-9da5-2aa12c9928db"
   },
   "lastfm": {
     "id": "Lizzo/_/About+Damn+Time",

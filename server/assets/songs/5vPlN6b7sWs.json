@@ -3,15 +3,15 @@
   "title": "Ok Cool",
   "artist": "Yung Hurn",
   "lastFetched": "2025-11-23T16:28:41.147Z",
-  "mbid": "6526196a-a409-439f-a012-bd112dd640ba",
-  "artistMbid": "6d447010-dc6c-4c7f-91cc-a201932a33dd",
   "musicbrainz": {
     "artistTags": [
       "hip hop"
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "trackMbid": "6526196a-a409-439f-a012-bd112dd640ba",
+    "artistMbid": "6d447010-dc6c-4c7f-91cc-a201932a33dd"
   },
   "lastfm": {
     "id": "Yung+Hurn/_/Ok+Cool",

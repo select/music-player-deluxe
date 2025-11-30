@@ -3,10 +3,12 @@
   "title": "Come Find Me",
   "artist": "Cookie Monsta & Flux Pavilion",
   "lastFetched": "2025-11-19T08:27:20.932Z",
-  "mbid": "376c32ec-e074-4252-9a61-b449364f4ea4",
   "lastfm": {
     "id": "Cookie+Monsta+&+Flux+Pavilion/_/Come+Find+Me",
     "listeners": 808,
     "playcount": 2787
+  },
+  "musicbrainz": {
+    "trackMbid": "376c32ec-e074-4252-9a61-b449364f4ea4"
   }
 }

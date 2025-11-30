@@ -20,8 +20,6 @@
     "youtube": "7CX-fu4nHDY",
     "youtubeMusic": "7CX-fu4nHDY"
   },
-  "mbid": "77507ffb-3dee-45ed-8760-bc9055fd68bb",
-  "artistMbid": "28e27f86-3eba-4e17-9d04-f47b3be48e96",
   "lastfm": {
     "id": "Amsterdam+Klezmer+Band/_/Bigoudi",
     "listeners": 1868,
@@ -33,5 +31,9 @@
       "guest appearance",
       "2010s"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "77507ffb-3dee-45ed-8760-bc9055fd68bb",
+    "artistMbid": "28e27f86-3eba-4e17-9d04-f47b3be48e96"
   }
 }

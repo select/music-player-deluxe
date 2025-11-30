@@ -15,8 +15,6 @@
     "youtube": "zsQ6_9m-iDo",
     "youtubeMusic": "zsQ6_9m-iDo"
   },
-  "mbid": "128c5410-32ee-431a-8950-8dfe2e853bb0",
-  "artistMbid": "ba853904-ae25-4ebb-89d6-c44cfbd71bd2",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -36,7 +34,9 @@
       "britpop",
       "experimental rock",
       "grunge"
-    ]
+    ],
+    "trackMbid": "128c5410-32ee-431a-8950-8dfe2e853bb0",
+    "artistMbid": "ba853904-ae25-4ebb-89d6-c44cfbd71bd2"
   },
   "lastfm": {
     "id": "Blur/_/Sing",

@@ -2,7 +2,7 @@
   "youtubeId": "m_vUiWnYIsY",
   "title": "Fuck It",
   "artist": "Jonathan Bree",
-  "lastFetched": "2025-11-30T17:44:08.892Z",
+  "lastFetched": "2025-11-30T19:29:33.703Z",
   "odesli": {
     "amazonMusic": "B0BHFJGCR9",
     "amazonStore": "B0BHFJGCR9",
@@ -20,5 +20,14 @@
     "artist": "Jonathan Bree",
     "mbid": "ee7361ce-4fef-4d7e-9196-1920f8fa68da",
     "artistMbid": "03d64ac3-ee2e-4331-8c4f-7785e4469264"
+  },
+  "musicbrainz": {
+    "trackMbid": "ee7361ce-4fef-4d7e-9196-1920f8fa68da",
+    "artistMbid": "03d64ac3-ee2e-4331-8c4f-7785e4469264",
+    "releaseCount": 3,
+    "artistGenres": [
+      "electronic",
+      "pop"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "_9BGLtqqkVI",
   "title": "Hash Pipe",
   "artist": "Weezer",
-  "lastFetched": "2025-11-30T17:43:20.148Z",
+  "lastFetched": "2025-11-30T19:21:49.590Z",
   "odesli": {
     "amazonMusic": "B000W1Y27Y",
     "amazonStore": "B000W1Y27Y",
@@ -30,5 +30,27 @@
     "artist": "Weezer",
     "mbid": "241c18f1-203b-47aa-82e3-30855da75d7d",
     "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04"
+  },
+  "musicbrainz": {
+    "trackMbid": "b465ee62-8189-4aac-a294-43f4958dffae",
+    "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "emo",
+      "power pop",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "alternative rock",
+      "emo",
+      "geek rock",
+      "mainstream rock",
+      "pop rock",
+      "power pop",
+      "rock"
+    ]
   }
 }

@@ -16,8 +16,6 @@
     "youtube": "K6u5D-5LWSg",
     "youtubeMusic": "K6u5D-5LWSg"
   },
-  "mbid": "74dbe19e-0e7f-4921-91d4-e6aa04860159",
-  "artistMbid": "6655955b-1c1e-4bcb-84e4-81bcd9efab30",
   "musicbrainz": {
     "tags": [
       "ambient",
@@ -56,7 +54,9 @@
       "classical",
       "classical crossover",
       "contemporary classical"
-    ]
+    ],
+    "trackMbid": "74dbe19e-0e7f-4921-91d4-e6aa04860159",
+    "artistMbid": "6655955b-1c1e-4bcb-84e4-81bcd9efab30"
   },
   "lastfm": {
     "id": "%C3%93lafur+Arnalds/_/3055",

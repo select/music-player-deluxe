@@ -2,7 +2,7 @@
   "youtubeId": "ZlsJD8RlhbI",
   "title": "God Rest Ye Merry Gentlemen",
   "artist": "Annie Lennox",
-  "lastFetched": "2025-11-30T17:43:41.038Z",
+  "lastFetched": "2025-11-30T19:26:00.960Z",
   "odesli": {
     "amazonMusic": "B004ASXSS4",
     "amazonStore": "B004ASXSS4",
@@ -29,6 +29,23 @@
       "pop",
       "christmas music",
       "christmas songs"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "040c02d0-b71e-42a1-9715-d96ab34628b3",
+    "artistMbid": "3e30aebd-0557-4cfd-8fb9-3945afa5d72b",
+    "releaseCount": 8,
+    "genres": [
+      "christmas music"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "pop",
+      "pop soul",
+      "rock",
+      "soft rock",
+      "sophisti-pop",
+      "soul"
     ]
   }
 }
