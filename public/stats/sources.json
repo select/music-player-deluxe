@@ -85,12 +85,12 @@
         "count": 213
       },
       {
-        "tag": "indie",
-        "count": 201
+        "tag": "german",
+        "count": 210
       },
       {
-        "tag": "german",
-        "count": 196
+        "tag": "indie",
+        "count": 201
       },
       {
         "tag": "indie rock",
@@ -122,14 +122,14 @@
       },
       {
         "tag": "80s",
-        "count": 126
-      },
-      {
-        "tag": "metal",
-        "count": 123
+        "count": 125
       },
       {
         "tag": "drum and bass",
+        "count": 125
+      },
+      {
+        "tag": "metal",
         "count": 123
       },
       {
@@ -157,10 +157,6 @@
         "count": 112
       },
       {
-        "tag": "progressive rock",
-        "count": 106
-      },
-      {
         "tag": "punk",
         "count": 106
       },
@@ -170,15 +166,15 @@
       },
       {
         "tag": "female vocalist",
+        "count": 103
+      },
+      {
+        "tag": "progressive rock",
         "count": 101
       },
       {
         "tag": "house",
-        "count": 100
-      },
-      {
-        "tag": "psychedelic rock",
-        "count": 95
+        "count": 99
       },
       {
         "tag": "reggae",
@@ -187,6 +183,10 @@
       {
         "tag": "blues",
         "count": 94
+      },
+      {
+        "tag": "psychedelic rock",
+        "count": 91
       },
       {
         "tag": "downtempo",
@@ -198,7 +198,7 @@
       },
       {
         "tag": "blues rock",
-        "count": 85
+        "count": 84
       },
       {
         "tag": "dubstep",
@@ -213,10 +213,6 @@
         "count": 80
       },
       {
-        "tag": "synth pop",
-        "count": 79
-      },
-      {
         "tag": "90s",
         "count": 78
       },
@@ -226,6 +222,10 @@
       },
       {
         "tag": "indie pop",
+        "count": 75
+      },
+      {
+        "tag": "synth pop",
         "count": 75
       },
       {
@@ -342,7 +342,7 @@
             "count": 4
           },
           {
-            "tag": "synth pop",
+            "tag": "soundtrack",
             "count": 4
           }
         ],
@@ -387,7 +387,7 @@
             "count": 59
           },
           {
-            "tag": "folk",
+            "tag": "german",
             "count": 54
           }
         ],
@@ -514,15 +514,15 @@
             "count": 14
           },
           {
-            "tag": "psychedelic rock",
-            "count": 10
-          },
-          {
             "tag": "metal",
             "count": 10
           },
           {
             "tag": "punk",
+            "count": 9
+          },
+          {
+            "tag": "blues",
             "count": 9
           }
         ],
@@ -675,11 +675,15 @@
           },
           {
             "tag": "drum and bass",
-            "count": 67
+            "count": 68
           },
           {
             "tag": "rock",
             "count": 47
+          },
+          {
+            "tag": "german",
+            "count": 43
           },
           {
             "tag": "hip hop",
@@ -692,10 +696,6 @@
           {
             "tag": "ambient",
             "count": 37
-          },
-          {
-            "tag": "german",
-            "count": 36
           },
           {
             "tag": "jazz fusion",
@@ -740,7 +740,7 @@
           },
           {
             "tag": "80s",
-            "count": 32
+            "count": 31
           },
           {
             "tag": "rap",
@@ -1091,11 +1091,11 @@
             "count": 8
           },
           {
-            "tag": "rock",
-            "count": 7
+            "tag": "german",
+            "count": 8
           },
           {
-            "tag": "german",
+            "tag": "rock",
             "count": 7
           },
           {
