@@ -275,12 +275,143 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 		}
 	};
 
+	// Setup Media Session API for hardware media keys
+	const setupMediaSession = (): void => {
+		if (!process.client || !("mediaSession" in navigator)) return;
+
+		const globalPlayerStore = usePlayerStore();
+
+		try {
+			// Set up action handlers for media keys
+			navigator.mediaSession.setActionHandler("play", () => {
+				if (
+					globalPlayerStore.youtubePlayerInstance &&
+					globalPlayerStore.isPlayerReady
+				) {
+					globalPlayerStore.youtubePlayerInstance.playVideo();
+				}
+			});
+
+			navigator.mediaSession.setActionHandler("pause", () => {
+				if (
+					globalPlayerStore.youtubePlayerInstance &&
+					globalPlayerStore.isPlayerReady
+				) {
+					globalPlayerStore.youtubePlayerInstance.pauseVideo();
+				}
+			});
+
+			navigator.mediaSession.setActionHandler("previoustrack", () => {
+				const store = usePlayerStore();
+				store.previousVideo();
+			});
+
+			navigator.mediaSession.setActionHandler("nexttrack", () => {
+				const store = usePlayerStore();
+				store.nextVideo();
+			});
+
+			// Optional: handle seek events if supported
+			navigator.mediaSession.setActionHandler("seekbackward", () => {
+				if (
+					globalPlayerStore.youtubePlayerInstance &&
+					globalPlayerStore.isPlayerReady
+				) {
+					const currentTime =
+						globalPlayerStore.youtubePlayerInstance.getCurrentTime();
+					globalPlayerStore.youtubePlayerInstance.seekTo(
+						Math.max(0, currentTime - 10),
+					);
+				}
+			});
+
+			navigator.mediaSession.setActionHandler("seekforward", () => {
+				if (
+					globalPlayerStore.youtubePlayerInstance &&
+					globalPlayerStore.isPlayerReady
+				) {
+					const currentTime =
+						globalPlayerStore.youtubePlayerInstance.getCurrentTime();
+					globalPlayerStore.youtubePlayerInstance.seekTo(currentTime + 10);
+				}
+			});
+		} catch (error) {
+			// Silently fail if media session setup fails
+		}
+	};
+
+	// Update Media Session metadata when video changes
+	const updateMediaSessionMetadata = (video: Video | null): void => {
+		if (!process.client || !("mediaSession" in navigator) || !video) return;
+
+		const globalPlayerStore = usePlayerStore();
+		const playlistStore = usePlaylistStore();
+
+		navigator.mediaSession.metadata = new MediaMetadata({
+			title: video.title || "Unknown Title",
+			artist: video.artist || "Unknown Artist",
+			album: video.album || undefined,
+			artwork: video.thumbnail
+				? [
+						{
+							src: video.thumbnail,
+							sizes: "512x512",
+							type: "image/jpeg",
+						},
+					]
+				: undefined,
+		});
+
+		// Update action handlers based on availability
+		try {
+			if (playlistStore.currentVideos.length > 1) {
+				// Re-register handlers to ensure they're active
+				navigator.mediaSession.setActionHandler("previoustrack", () => {
+					const store = usePlayerStore();
+					store.previousVideo();
+				});
+
+				navigator.mediaSession.setActionHandler("nexttrack", () => {
+					const store = usePlayerStore();
+					store.nextVideo();
+				});
+			}
+		} catch (error) {
+			// Silently fail
+		}
+
+		// Set position state to let browser know this is part of a playlist
+		try {
+			const currentVideoIndex = playlistStore.currentVideos.findIndex(
+				(v) => v.id === video.id,
+			);
+			if (currentVideoIndex !== -1) {
+				navigator.mediaSession.setPositionState({
+					duration: 0,
+					playbackRate: 1,
+					position: 0,
+				});
+			}
+		} catch (error) {
+			// Silently fail
+		}
+	};
+
+	// Update Media Session playback state
+	const updateMediaSessionPlaybackState = (
+		state: "playing" | "paused" | "none",
+	): void => {
+		if (!process.client || !("mediaSession" in navigator)) return;
+		navigator.mediaSession.playbackState = state;
+	};
+
 	// Initialize settings on store creation
 	loadSettings();
 
 	// Setup global listeners when in client
 	if (process.client) {
 		setupGlobalListeners();
+		setupMediaSession();
 	}
 
 	return {
@@ -305,6 +436,9 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 		disableShortcuts,
 		setupGlobalListeners,
 		cleanupGlobalListeners,
+		setupMediaSession,
+		updateMediaSessionMetadata,
+		updateMediaSessionPlaybackState,
 	};
 });
 

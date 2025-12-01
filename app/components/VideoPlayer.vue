@@ -115,6 +115,8 @@ const { currentVideos: playlist } = storeToRefs(usePlaylistStore());
 
 // User settings store for position/size persistence
 const { videoPlayerPosition } = storeToRefs(useUserSettingsStore());
+const { updateMediaSessionMetadata, updateMediaSessionPlaybackState } =
+	useUserSettingsStore();
 
 // Player container ref and YouTube player instance
 const playerContainer = ref<HTMLElement>();
@@ -171,6 +173,8 @@ watch([currentVideo, currentIndex], ([video, index]) => {
 	if (video) {
 		loadVideo();
 		emit("videoChange", video, index);
+		// Update Media Session metadata when video changes
+		updateMediaSessionMetadata(video);
 	}
 });
 
@@ -229,6 +233,8 @@ const onPlayerReady = (): void => {
 	setIsPlaying(true);
 	// Register the YouTube player instance with global player
 	setYouTubePlayerInstance(player);
+	// Update Media Session playback state
+	updateMediaSessionPlaybackState("playing");
 };
 
 const onPlayerStateChange = (event: any): void => {
@@ -242,12 +248,15 @@ const onPlayerStateChange = (event: any): void => {
 	switch (state) {
 		case YT_PLAYING:
 			setIsPlaying(true);
+			updateMediaSessionPlaybackState("playing");
 			break;
 		case YT_PAUSED:
 			setIsPlaying(false);
+			updateMediaSessionPlaybackState("paused");
 			break;
 		case YT_ENDED:
 			setIsPlaying(false);
+			updateMediaSessionPlaybackState("none");
 			// Auto-play next video
 			if (canPlayNext.value) {
 				nextVideo();
@@ -268,6 +277,7 @@ const destroyPlayer = (): void => {
 		player = null;
 		setIsPlayerReady(false);
 		setYouTubePlayerInstance(null);
+		updateMediaSessionPlaybackState("none");
 	}
 };
 
