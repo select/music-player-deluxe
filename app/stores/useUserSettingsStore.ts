@@ -362,35 +362,23 @@ export const useUserSettingsStore = defineStore("userSettingsStore", () => {
 				: undefined,
 		});
 
-		// Update action handlers based on availability
+		// Set position state with duration from YouTube player
 		try {
-			if (playlistStore.currentVideos.length > 1) {
-				// Re-register handlers to ensure they're active
-				navigator.mediaSession.setActionHandler("previoustrack", () => {
-					const store = usePlayerStore();
-					store.previousVideo();
-				});
+			if (
+				globalPlayerStore.youtubePlayerInstance &&
+				globalPlayerStore.isPlayerReady
+			) {
+				const duration = globalPlayerStore.youtubePlayerInstance.getDuration();
+				const position =
+					globalPlayerStore.youtubePlayerInstance.getCurrentTime() || 0;
 
-				navigator.mediaSession.setActionHandler("nexttrack", () => {
-					const store = usePlayerStore();
-					store.nextVideo();
-				});
-			}
-		} catch (error) {
-			// Silently fail
-		}
-
-		// Set position state to let browser know this is part of a playlist
-		try {
-			const currentVideoIndex = playlistStore.currentVideos.findIndex(
-				(v) => v.id === video.id,
-			);
-			if (currentVideoIndex !== -1) {
-				navigator.mediaSession.setPositionState({
-					duration: 0,
-					playbackRate: 1,
-					position: 0,
-				});
+				if (duration && duration > 0) {
+					navigator.mediaSession.setPositionState({
+						duration: duration,
+						playbackRate: 1,
+						position: position,
+					});
+				}
 			}
 		} catch (error) {
 			// Silently fail

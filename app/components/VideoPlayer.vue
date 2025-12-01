@@ -233,7 +233,10 @@ const onPlayerReady = (): void => {
 	setIsPlaying(true);
 	// Register the YouTube player instance with global player
 	setYouTubePlayerInstance(player);
-	// Update Media Session playback state
+	// Update Media Session with metadata and playback state
+	if (currentVideo.value) {
+		updateMediaSessionMetadata(currentVideo.value);
+	}
 	updateMediaSessionPlaybackState("playing");
 };
 
