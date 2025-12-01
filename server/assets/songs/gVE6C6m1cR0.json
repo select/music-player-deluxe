@@ -1,7 +1,7 @@
 {
   "youtubeId": "gVE6C6m1cR0",
   "title": "Daan - Housewife",
-  "lastFetched": "2025-11-28T18:39:18.530Z",
+  "lastFetched": "2025-11-30T20:19:09.106Z",
   "ai": {
     "title": "Housewife",
     "artist": "Daan"
@@ -17,6 +17,14 @@
     "tags": [
       "electronic",
       "dance"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "acc2f949-e039-43f8-9c2c-be1ca7e804ef",
+    "artistMbid": "38a9dd50-aafd-491f-a7ea-29a07ea9ecfa",
+    "releaseCount": 19,
+    "artistGenres": [
+      "rock"
     ]
   }
 }

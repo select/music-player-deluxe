@@ -2,7 +2,7 @@
   "youtubeId": "jeKVzqfWXJg",
   "title": "Bul Bul Bul",
   "artist": "Kit Sebastian",
-  "lastFetched": "2025-11-23T19:31:02.874Z",
+  "lastFetched": "2025-11-30T22:08:24.534Z",
   "odesli": {
     "amazonMusic": "B0DFWPPRG1",
     "amazonStore": "B0DFWPPRG1",
@@ -29,6 +29,22 @@
       "neo-psychedelia",
       "turkish pop",
       "anatolian rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "54ce0ce0-b429-4802-93a6-70588f1ac230",
+    "artistMbid": "d9447e90-e1f0-486f-b3dc-fc8208756370",
+    "releaseCount": 3,
+    "genres": [
+      "jazz",
+      "pop",
+      "psychedelic rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "jazz",
+      "pop",
+      "psychedelic"
     ]
   }
 }

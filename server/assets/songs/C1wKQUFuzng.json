@@ -2,7 +2,7 @@
   "youtubeId": "C1wKQUFuzng",
   "title": "In Der Natur",
   "artist": "Deichkind",
-  "lastFetched": "2025-11-19T08:26:20.101Z",
+  "lastFetched": "2025-11-30T23:26:05.027Z",
   "odesli": {
     "amazonMusic": "B0C4D7GZTL",
     "amazonStore": "B0C4D7GZTL",
@@ -26,6 +26,18 @@
       "k1r7m",
       "neues vom dauerzustand",
       "2020s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "53c92ac6-f89c-4ca0-ad14-bedd9470836b",
+    "artistMbid": "5de80871-f721-4c7c-b0c5-4ad0d350c232",
+    "releaseCount": 8,
+    "artistGenres": [
+      "electro",
+      "electroclash",
+      "electropop",
+      "electropunk",
+      "hip hop"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "wKsZuNxhQVo",
   "title": "Alone Again Or",
-  "lastFetched": "2025-11-26T10:59:38.803Z",
+  "lastFetched": "2025-11-30T21:15:42.101Z",
   "ai": {
     "title": "alone again or",
     "artist": "Calexico"
@@ -29,6 +29,28 @@
       "covers",
       "americana",
       "indie"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9408b8ce-9b95-4fb0-ac70-595d054a15c6",
+    "artistMbid": "5e372a49-5672-4fb8-ba14-18c90780c4f9",
+    "releaseCount": 11,
+    "genres": [
+      "alternative country",
+      "americana",
+      "country",
+      "downtempo",
+      "electronic",
+      "pop",
+      "southern rock",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "americana",
+      "country",
+      "folk rock",
+      "indie folk",
+      "indie rock"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "OZ7EvYTCXGw",
   "title": "I Can See Clearly Now",
   "artist": "Holly Cole Trio",
-  "lastFetched": "2025-11-28T15:03:33.684Z",
+  "lastFetched": "2025-11-30T20:16:33.316Z",
   "odesli": {
     "amazonMusic": "B000S53Z6I",
     "amazonStore": "B000S53Z6I",
@@ -12,5 +12,22 @@
     "yandex": "245663",
     "youtube": "OZ7EvYTCXGw",
     "youtubeMusic": "OZ7EvYTCXGw"
+  },
+  "musicbrainz": {
+    "trackMbid": "28e31735-0820-4f99-b5a4-1289bdee4ded",
+    "artistMbid": "1c048234-ef5a-45d7-b851-5fbd02594ddc",
+    "releaseCount": 25,
+    "genres": [
+      "folk rock",
+      "jazz",
+      "jazz fusion",
+      "rock",
+      "swing",
+      "vocal jazz"
+    ],
+    "artistGenres": [
+      "jazz",
+      "vocal jazz"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "-KT-r2vHeMM",
   "title": "Sex & Candy",
   "artist": "Marcy Playground",
-  "lastFetched": "2025-11-16T19:21:24.316Z",
+  "lastFetched": "2025-11-30T23:32:42.431Z",
   "odesli": {
     "amazonMusic": "B000TE8PCC",
     "amazonStore": "B000TE8PCC",
@@ -18,5 +18,13 @@
   "ai": {
     "title": "Sex & Candy",
     "artist": "Marcy Playground"
+  },
+  "musicbrainz": {
+    "trackMbid": "c3838b21-e688-4513-87c0-04e577332b66",
+    "artistMbid": "64cdc08f-ba6f-41fe-94be-452dc6d5108e",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock"
+    ]
   }
 }

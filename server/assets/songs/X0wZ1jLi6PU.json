@@ -1,7 +1,7 @@
 {
   "youtubeId": "X0wZ1jLi6PU",
   "title": "Kayla",
-  "lastFetched": "2025-11-26T10:59:10.539Z",
+  "lastFetched": "2025-11-30T21:13:20.194Z",
   "ai": {
     "title": "Kayla",
     "artist": "Flying Colors"
@@ -24,6 +24,19 @@
     "title": "Kayla",
     "artist": "Flying Colors",
     "tags": [
+      "progressive rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3522f012-3c13-436c-a73a-9ff82e0a1ee8",
+    "artistMbid": "c9ef4e0c-ac8d-4d99-9356-62a11128f15f",
+    "releaseCount": 7,
+    "genres": [
+      "classic rock",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
       "progressive rock"
     ]
   }

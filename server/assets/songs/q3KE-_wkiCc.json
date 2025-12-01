@@ -2,7 +2,7 @@
   "youtubeId": "q3KE-_wkiCc",
   "title": "New Romantic",
   "artist": "Andy Stott",
-  "lastFetched": "2025-11-28T12:13:34.837Z",
+  "lastFetched": "2025-11-30T20:21:25.613Z",
   "odesli": {
     "amazonMusic": "B01ENCAQDG",
     "amazonStore": "B01ENCAQDG",
@@ -25,6 +25,24 @@
       "female vocalist",
       "uk bass",
       "electronica"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "da9872ec-5bc7-4c6c-9a0c-a731248034fc",
+    "artistMbid": "ecf5ab37-019f-4cc1-9fdc-218de6a41b65",
+    "releaseCount": 2,
+    "genres": [
+      "ambient",
+      "dance",
+      "downtempo",
+      "electro",
+      "electronic",
+      "experimental",
+      "techno"
+    ],
+    "artistGenres": [
+      "electronic",
+      "techno"
     ]
   }
 }

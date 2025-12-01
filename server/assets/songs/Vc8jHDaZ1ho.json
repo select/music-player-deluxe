@@ -2,7 +2,7 @@
   "youtubeId": "Vc8jHDaZ1ho",
   "title": "Mr Bobby",
   "artist": "Manu Chao",
-  "lastFetched": "2025-11-23T15:32:42.453Z",
+  "lastFetched": "2025-11-30T22:21:34.695Z",
   "lastfm": {
     "title": "Mr Bobby",
     "artist": "Manu Chao",
@@ -16,6 +16,23 @@
       "latin",
       "world",
       "ska"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ee520b2d-bd0c-4103-9dd6-8f41b26b7db6",
+    "artistMbid": "7570a0dd-5a67-401b-b19a-261eee01a284",
+    "releaseCount": 4,
+    "artistGenres": [
+      "country",
+      "electronic",
+      "folk",
+      "latin",
+      "pop",
+      "punk",
+      "reggae",
+      "rock",
+      "ska",
+      "worldbeat"
     ]
   }
 }

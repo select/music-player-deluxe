@@ -2,7 +2,7 @@
   "youtubeId": "R34AEwNaq04",
   "title": "Ain’t No Love In The Heart Of The City",
   "artist": "Horace Andy",
-  "lastFetched": "2025-11-19T09:00:27.498Z",
+  "lastFetched": "2025-11-30T23:23:33.103Z",
   "odesli": {
     "amazonMusic": "B0B1FT83HQ",
     "amazonStore": "B0B1FT83HQ",
@@ -21,6 +21,18 @@
       "dub",
       "roots reggae",
       "jamaican"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c3cc1e33-c95b-44ac-a47f-244b28b236e3",
+    "artistMbid": "2027b08d-45b1-4fb5-aa6d-f6ccc4db78e5",
+    "releaseCount": 2,
+    "artistGenres": [
+      "dub",
+      "electronica",
+      "reggae",
+      "roots reggae",
+      "trip hop"
     ]
   }
 }

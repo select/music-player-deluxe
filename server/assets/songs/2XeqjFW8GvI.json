@@ -2,7 +2,7 @@
   "youtubeId": "2XeqjFW8GvI",
   "title": "Trash",
   "artist": "The Whip",
-  "lastFetched": "2025-11-27T12:03:38.358Z",
+  "lastFetched": "2025-11-30T20:46:31.925Z",
   "odesli": {
     "amazonMusic": "B005TUAAQ0",
     "amazonStore": "B005TUAAQ0",
@@ -24,6 +24,21 @@
       "indie",
       "new rave",
       "electronica"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "918caf52-dacf-47aa-9808-9d3f33269a1b",
+    "artistMbid": "9de23f23-f207-411c-9889-af24fe7edf52",
+    "releaseCount": 6,
+    "genres": [
+      "alternative rock",
+      "electro",
+      "electroclash",
+      "electronic",
+      "electronic rock",
+      "house",
+      "indie rock",
+      "rock"
     ]
   }
 }

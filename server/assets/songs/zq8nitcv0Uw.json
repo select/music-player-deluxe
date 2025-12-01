@@ -2,7 +2,7 @@
   "youtubeId": "zq8nitcv0Uw",
   "title": "Plastic Man",
   "artist": "The Temptations",
-  "lastFetched": "2025-11-19T11:13:33.157Z",
+  "lastFetched": "2025-11-30T23:15:43.510Z",
   "odesli": {
     "amazonMusic": "B000WT666G",
     "amazonStore": "B000WT666G",
@@ -28,6 +28,22 @@
       "soul",
       "funk",
       "dj delberts dorky dance drops"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b2fe9791-aa2f-471e-8106-f93f08fdc2b5",
+    "artistMbid": "d8df96ae-8fcf-4997-b3e6-e5d1aaf0f69e",
+    "releaseCount": 5,
+    "artistGenres": [
+      "contemporary r&b",
+      "funk",
+      "motown",
+      "pop",
+      "pop soul",
+      "psychedelic soul",
+      "r&b",
+      "smooth soul",
+      "soul"
     ]
   }
 }

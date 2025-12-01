@@ -2,7 +2,7 @@
   "youtubeId": "Npu0Ry4pMiY",
   "title": "Detonate",
   "artist": "Netta",
-  "lastFetched": "2025-11-23T19:30:53.555Z",
+  "lastFetched": "2025-11-30T22:08:47.170Z",
   "odesli": {
     "amazonMusic": "B0DVT8ZDFM",
     "amazonStore": "B0DVT8ZDFM",
@@ -26,6 +26,16 @@
       "pop",
       "israel",
       "israeli"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b679a0a1-ffab-4cb1-bd1a-30ccc5337160",
+    "artistMbid": "6806600b-f824-4874-b574-f7b9a3e6cd3d",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dance",
+      "electropop",
+      "pop"
     ]
   }
 }

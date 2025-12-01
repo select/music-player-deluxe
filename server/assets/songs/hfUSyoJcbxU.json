@@ -2,7 +2,7 @@
   "youtubeId": "hfUSyoJcbxU",
   "title": "Trip Like I Do",
   "artist": "The Crystal Method",
-  "lastFetched": "2025-11-19T12:23:58.428Z",
+  "lastFetched": "2025-11-30T23:09:53.461Z",
   "odesli": {
     "amazonMusic": "B000W27B1M",
     "amazonStore": "B000W27B1M",
@@ -25,6 +25,30 @@
       "techno",
       "electronica",
       "dance"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f8a0caee-6358-45a3-8ce8-1ce19a52a72b",
+    "artistMbid": "aaf09f31-bb5c-43e5-9f54-bb6554c33a71",
+    "releaseCount": 22,
+    "genres": [
+      "acid breaks",
+      "big beat",
+      "breakbeat",
+      "breaks",
+      "club",
+      "dance",
+      "electronic",
+      "electronica",
+      "house",
+      "techno",
+      "west coast breaks"
+    ],
+    "artistGenres": [
+      "big beat",
+      "breakbeat",
+      "electronic",
+      "electronica"
     ]
   }
 }

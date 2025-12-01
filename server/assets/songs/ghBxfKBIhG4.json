@@ -2,7 +2,7 @@
   "youtubeId": "ghBxfKBIhG4",
   "title": "Für die Jule",
   "artist": "Hans Söllner",
-  "lastFetched": "2025-11-28T18:38:13.428Z",
+  "lastFetched": "2025-11-30T20:15:33.067Z",
   "odesli": {
     "amazonMusic": "B007Z2MEF0",
     "amazonStore": "B007Z2MEF0",
@@ -26,6 +26,14 @@
       "singer-songwriter",
       "german",
       "bavarian"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c8c5d849-0710-47fe-8ea6-8f8ec0eaf7cd",
+    "artistMbid": "80abef74-04bc-40d6-a0b3-518cd4d13b54",
+    "releaseCount": 1,
+    "artistGenres": [
+      "reggae"
     ]
   }
 }

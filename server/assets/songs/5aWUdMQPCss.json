@@ -1,7 +1,7 @@
 {
   "youtubeId": "5aWUdMQPCss",
   "title": "Aranda - Satisfied - Lyrics",
-  "lastFetched": "2025-11-26T10:59:19.650Z",
+  "lastFetched": "2025-11-30T21:14:07.171Z",
   "ai": {
     "title": "Satisfied",
     "artist": "Aranda"
@@ -20,5 +20,10 @@
       "2010s",
       "dallas stars"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a836a656-1966-413b-93d8-e6a9f578bf86",
+    "artistMbid": "03017402-d7ba-4a4b-a794-5c3bc6e7e3b1",
+    "releaseCount": 3
   }
 }

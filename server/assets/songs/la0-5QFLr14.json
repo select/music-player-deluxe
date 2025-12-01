@@ -2,7 +2,7 @@
   "youtubeId": "la0-5QFLr14",
   "title": "True Colors",
   "artist": "Anna Kendrick",
-  "lastFetched": "2025-11-26T10:59:53.852Z",
+  "lastFetched": "2025-11-30T21:17:03.612Z",
   "odesli": {
     "amazonMusic": "B01LYI81HB",
     "amazonStore": "B01LYI81HB",
@@ -32,5 +32,10 @@
       "justin timberlake",
       "cyndi lauper"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c7d232ba-2fad-4def-a441-67011442a943",
+    "artistMbid": "5c3dffd4-dc80-4331-a98e-101046d6b747",
+    "releaseCount": 7
   }
 }

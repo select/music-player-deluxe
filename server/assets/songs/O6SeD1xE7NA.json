@@ -2,7 +2,7 @@
   "youtubeId": "O6SeD1xE7NA",
   "title": "Hold You",
   "artist": "Gyptian",
-  "lastFetched": "2025-11-19T13:15:26.891Z",
+  "lastFetched": "2025-11-30T23:04:19.411Z",
   "odesli": {
     "amazonMusic": "B01JH4KNJW",
     "amazonStore": "B01JH4KNJW",
@@ -31,6 +31,13 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "c70a1a51-caf3-4667-b956-11e27a00fe37"
+    "artistMbid": "c70a1a51-caf3-4667-b956-11e27a00fe37",
+    "trackMbid": "90f1eae8-5352-4e34-bd55-96217e1994aa",
+    "releaseCount": 2,
+    "artistGenres": [
+      "dancehall",
+      "reggae",
+      "roots reggae"
+    ]
   }
 }

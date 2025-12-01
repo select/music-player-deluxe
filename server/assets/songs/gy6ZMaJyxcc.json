@@ -2,7 +2,7 @@
   "youtubeId": "gy6ZMaJyxcc",
   "title": "Mashup The Dance",
   "artist": "Major Lazer",
-  "lastFetched": "2025-11-28T18:35:58.534Z",
+  "lastFetched": "2025-11-30T20:06:38.816Z",
   "odesli": {
     "amazonMusic": "B0CFD6BYQW",
     "amazonStore": "B0CFD6BYQW",
@@ -23,6 +23,27 @@
     "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
     "tags": [
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f6180255-1653-48a5-940f-8fff4091da97",
+    "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
+    "releaseCount": 25,
+    "genres": [
+      "dancehall",
+      "edm",
+      "electronic",
+      "post-dubstep"
+    ],
+    "artistGenres": [
+      "art pop",
+      "dance-pop",
+      "dancehall",
+      "edm",
+      "electronic",
+      "electropop",
+      "jungle terror",
+      "moombahton"
     ]
   }
 }

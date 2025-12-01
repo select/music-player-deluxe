@@ -2,7 +2,7 @@
   "youtubeId": "ixw_bLVUL34",
   "title": "Tear You Apart",
   "artist": "She Wants Revenge",
-  "lastFetched": "2025-11-27T12:04:56.392Z",
+  "lastFetched": "2025-11-30T20:58:26.775Z",
   "odesli": {
     "amazonMusic": "B07BQ29291",
     "amazonStore": "B07BQ29291",
@@ -35,5 +35,25 @@
     "artist": "She Wants Revenge",
     "mbid": "10ddb682-6d57-302f-8435-887e311ac654",
     "artistMbid": "f434ae2b-b203-490d-a8ac-aa9cd51c0e73"
+  },
+  "musicbrainz": {
+    "trackMbid": "65be4044-29cb-41ce-932c-359a1bb3eda0",
+    "artistMbid": "f434ae2b-b203-490d-a8ac-aa9cd51c0e73",
+    "releaseCount": 19,
+    "genres": [
+      "alternative rock",
+      "dark wave",
+      "electronic",
+      "gothic",
+      "gothic rock",
+      "indie rock",
+      "punk",
+      "rock",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "indie rock",
+      "rock"
+    ]
   }
 }

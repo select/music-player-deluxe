@@ -2,9 +2,18 @@
   "youtubeId": "LbdD9gPnhhM",
   "title": "Koto Song",
   "artist": "Dave Brubeck Quartet",
-  "lastFetched": "2025-11-20T11:17:51.206Z",
+  "lastFetched": "2025-11-30T22:42:00.894Z",
   "ai": {
     "title": "Koto Song",
     "artist": "Dave Brubeck Quartet"
+  },
+  "musicbrainz": {
+    "trackMbid": "6187c23b-8f44-437d-8985-16a97fe5f81e",
+    "artistMbid": "7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7",
+    "releaseCount": 1,
+    "artistGenres": [
+      "cool jazz",
+      "jazz"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "NwbNOwYmtec",
   "title": "Robots",
   "artist": "Landhouse & Raddantze",
-  "lastFetched": "2025-11-23T19:29:33.068Z",
+  "lastFetched": "2025-11-30T22:13:55.637Z",
   "lastfm": {
     "id": "Landhouse+&+Raddantze/_/Robots",
     "listeners": 590,
@@ -15,5 +15,10 @@
       "electronic",
       "meditation"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ec67a480-a936-4c15-a4ca-a93d652e1a61",
+    "artistMbid": "7661b3d7-e526-4e65-a0cd-83730cdd4b9b",
+    "releaseCount": 1
   }
 }

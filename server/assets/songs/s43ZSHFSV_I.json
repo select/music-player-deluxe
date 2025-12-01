@@ -1,7 +1,7 @@
 {
   "youtubeId": "s43ZSHFSV_I",
   "title": "Abdou El Omari - عبده العماري - Marsoul Alhoub - Nuits de Printemps Radio Martiko",
-  "lastFetched": "2025-11-29T12:39:33.374Z",
+  "lastFetched": "2025-11-30T19:56:44.207Z",
   "ai": {
     "title": "Marsoul Alhoub",
     "artist": "Abdou El Omari"
@@ -19,5 +19,10 @@
       "chaabi",
       "moroccan"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "743c6d8c-83a6-4cfc-9748-a3f18ba177f4",
+    "artistMbid": "9c638b89-4fbd-4e7e-839d-fc571c920c67",
+    "releaseCount": 3
   }
 }

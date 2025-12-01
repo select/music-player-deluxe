@@ -2,7 +2,7 @@
   "youtubeId": "tbkOZTSvrHs",
   "title": "You're the Voice",
   "artist": "John Farnham",
-  "lastFetched": "2025-11-19T05:46:51.118Z",
+  "lastFetched": "2025-11-30T23:39:05.598Z",
   "odesli": {
     "amazonMusic": "B007F5I5U0",
     "amazonStore": "B007F5I5U0",
@@ -29,6 +29,14 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "3b81f816-bdcb-42d0-a0dd-1aa4fc4e19ec"
+    "artistMbid": "3b81f816-bdcb-42d0-a0dd-1aa4fc4e19ec",
+    "trackMbid": "79ede3ab-2157-4541-8334-c091aa35eb1c",
+    "releaseCount": 1,
+    "artistGenres": [
+      "folk pop",
+      "indie folk",
+      "indie pop",
+      "pop"
+    ]
   }
 }

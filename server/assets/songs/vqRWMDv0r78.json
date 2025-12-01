@@ -1,7 +1,7 @@
 {
   "youtubeId": "vqRWMDv0r78",
   "title": "Käptn Peng & Die Tentakel von Delphi - Der Anfang ist nah",
-  "lastFetched": "2025-11-29T12:39:22.813Z",
+  "lastFetched": "2025-11-30T19:54:54.132Z",
   "ai": {
     "title": "Der Anfang ist nah",
     "artist": "Käptn Peng & Die Tentakel von Delphi"
@@ -20,6 +20,14 @@
       "german",
       "hip-hop",
       "german hip-hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3934c3de-b77e-4d40-ac48-754689a23976",
+    "artistMbid": "ee0d1ef4-876b-49cd-a8fe-a48725c128af",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative hip hop"
     ]
   }
 }

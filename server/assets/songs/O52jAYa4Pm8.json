@@ -2,7 +2,7 @@
   "youtubeId": "O52jAYa4Pm8",
   "title": "Psycho Killer",
   "artist": "Talking Heads",
-  "lastFetched": "2025-11-19T08:11:33.212Z",
+  "lastFetched": "2025-11-30T23:27:06.808Z",
   "musicbrainz": {
     "tags": [
       "new wave",
@@ -11,7 +11,26 @@
       "rock",
       "alternative"
     ],
-    "artistMbid": "a94a7155-c79d-4409-9fcf-220cb0e4dc3a"
+    "artistMbid": "a94a7155-c79d-4409-9fcf-220cb0e4dc3a",
+    "trackMbid": "641b11c9-2126-4db7-b06a-25068245e199",
+    "releaseCount": 10,
+    "genres": [
+      "art rock",
+      "funk",
+      "new wave",
+      "post-punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "art pop",
+      "art punk",
+      "art rock",
+      "funk rock",
+      "new wave",
+      "pop rock",
+      "post-punk",
+      "rock"
+    ]
   },
   "lastfm": {
     "id": "Talking+Heads/_/Psycho+Killer",

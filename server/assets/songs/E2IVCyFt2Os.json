@@ -2,7 +2,7 @@
   "youtubeId": "E2IVCyFt2Os",
   "title": "How Fortunate the Man With None",
   "artist": "Dead Can Dance",
-  "lastFetched": "2025-11-26T11:00:16.417Z",
+  "lastFetched": "2025-11-30T21:19:12.570Z",
   "odesli": {
     "amazonMusic": "B013MIOD18",
     "amazonStore": "B013MIOD18",
@@ -26,6 +26,20 @@
       "ambient",
       "gothic",
       "4ad"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4118c116-1c98-4732-8112-9af0d0959504",
+    "artistMbid": "ccda046a-2674-4f7d-97e6-f23d6c156432",
+    "releaseCount": 4,
+    "artistGenres": [
+      "ambient",
+      "dark wave",
+      "ethereal wave",
+      "gothic",
+      "neoclassical dark wave",
+      "new age",
+      "post-punk"
     ]
   }
 }

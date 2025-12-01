@@ -2,7 +2,7 @@
   "youtubeId": "8soQkubMk1g",
   "title": "Ça plane pour moi",
   "artist": "Plastic Bertrand",
-  "lastFetched": "2025-11-19T12:20:23.386Z",
+  "lastFetched": "2025-11-30T23:10:20.312Z",
   "odesli": {
     "amazonMusic": "B001B8182E",
     "amazonStore": "B001B8182E",
@@ -35,6 +35,20 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "39cf1c51-8e6a-4d7a-a1f5-9ea212e66699"
+    "artistMbid": "39cf1c51-8e6a-4d7a-a1f5-9ea212e66699",
+    "trackMbid": "e1299622-8676-405a-9d0a-4ae7f2528e2f",
+    "releaseCount": 25,
+    "genres": [
+      "electronic",
+      "new wave",
+      "pop",
+      "punk",
+      "rock",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "punk",
+      "rock"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "FrreDSNmT04",
   "title": "One Man Wrecking Machine",
   "artist": "Guster",
-  "lastFetched": "2025-11-28T12:13:54.984Z",
+  "lastFetched": "2025-11-30T20:30:03.909Z",
   "odesli": {
     "amazonMusic": "B09KJNVGJS",
     "amazonStore": "B09KJNVGJS",
@@ -30,6 +30,21 @@
       "rock",
       "indie rock",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "63f4b3f9-262d-42aa-a102-8e74c5715535",
+    "artistMbid": "6cbe1e63-5895-4168-ac7e-f0d2836ba0c1",
+    "releaseCount": 7,
+    "genres": [
+      "alternative rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative rock",
+      "jangle pop",
+      "pop rock",
+      "rock"
     ]
   }
 }

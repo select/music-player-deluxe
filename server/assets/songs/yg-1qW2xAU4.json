@@ -2,7 +2,7 @@
   "youtubeId": "yg-1qW2xAU4",
   "title": "Trouble",
   "artist": "Elvis Presley",
-  "lastFetched": "2025-11-30T17:45:12.689Z",
+  "lastFetched": "2025-11-30T19:39:24.385Z",
   "odesli": {
     "amazonMusic": "B073RKW5W3",
     "amazonStore": "B073RKW5W3",
@@ -29,6 +29,31 @@
       "classic rock",
       "50s",
       "rock and roll"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "220138fe-250f-480b-b27a-5e497f2b4800",
+    "artistMbid": "01809552-4f87-45b0-afff-2c6f0730a3be",
+    "releaseCount": 12,
+    "genres": [
+      "classic rock",
+      "pop",
+      "rock",
+      "rock and roll"
+    ],
+    "artistGenres": [
+      "blue-eyed soul",
+      "blues",
+      "christmas music",
+      "country",
+      "gospel",
+      "pop",
+      "pop rock",
+      "r&b",
+      "rock",
+      "rock and roll",
+      "rockabilly",
+      "soul"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "j8jhAzSZYfg",
   "title": "Dead End Justice",
   "artist": "The Runaways",
-  "lastFetched": "2025-11-28T18:36:55.775Z",
+  "lastFetched": "2025-11-30T20:10:46.944Z",
   "odesli": {
     "amazonMusic": "B003B7KENW",
     "amazonStore": "B003B7KENW",
@@ -28,6 +28,33 @@
       "female vocalists",
       "rock n roll",
       "hard rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "886cfe56-e07e-4801-8f96-eda1543985b0",
+    "artistMbid": "ded0d67a-eb71-4fe9-83c0-1d18b8ed497e",
+    "releaseCount": 12,
+    "genres": [
+      "classic rock",
+      "glam",
+      "hard rock",
+      "power pop",
+      "punk",
+      "punk rock",
+      "rock",
+      "rock and roll"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "glam",
+      "glam punk",
+      "glam rock",
+      "hard rock",
+      "heavy metal",
+      "pop rock",
+      "punk",
+      "punk rock",
+      "rock"
     ]
   }
 }

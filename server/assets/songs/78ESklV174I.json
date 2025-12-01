@@ -2,7 +2,7 @@
   "youtubeId": "78ESklV174I",
   "title": "Capezio",
   "artist": "Perfume Genius",
-  "lastFetched": "2025-11-24T00:23:37.750Z",
+  "lastFetched": "2025-11-30T21:31:01.051Z",
   "odesli": {
     "amazonMusic": "B0DRCWMRRS",
     "amazonStore": "B0DRCWMRRS",
@@ -29,6 +29,27 @@
       "ambient pop",
       "experimental",
       "post-rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "396d8779-dfb2-4cc6-8e05-35b32ed5adf1",
+    "artistMbid": "c4ff10e0-ae5a-467d-a409-6e0b4bf241eb",
+    "releaseCount": 3,
+    "genres": [
+      "ambient pop",
+      "neo-psychedelia"
+    ],
+    "artistGenres": [
+      "ambient pop",
+      "art pop",
+      "baroque pop",
+      "chamber pop",
+      "electronic",
+      "experimental",
+      "indie pop",
+      "indie rock",
+      "minimal wave",
+      "singer-songwriter"
     ]
   }
 }

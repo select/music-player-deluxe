@@ -2,7 +2,7 @@
   "youtubeId": "PDJPpG8e4n4",
   "title": "Keep on Loving You",
   "artist": "Cigarettes After Sex",
-  "lastFetched": "2025-11-28T18:36:10.719Z",
+  "lastFetched": "2025-11-30T20:07:29.745Z",
   "odesli": {
     "amazonMusic": "B07CTC5C2X",
     "amazonStore": "B07CTC5C2X",
@@ -36,5 +36,20 @@
     "artist": "Cigarettes After Sex",
     "mbid": "93a562a5-931b-4871-891c-89e2f4755ac5",
     "artistMbid": "34557d8f-ee4a-44ab-ae6e-49bb8ac604d0"
+  },
+  "musicbrainz": {
+    "trackMbid": "8b88cf19-d4b0-431a-ad7c-60c84f338802",
+    "artistMbid": "34557d8f-ee4a-44ab-ae6e-49bb8ac604d0",
+    "releaseCount": 2,
+    "artistGenres": [
+      "ambient",
+      "ambient pop",
+      "dream pop",
+      "indie pop",
+      "indie rock",
+      "pop",
+      "shoegaze",
+      "slowcore"
+    ]
   }
 }

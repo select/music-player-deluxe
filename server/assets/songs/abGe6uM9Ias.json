@@ -2,7 +2,7 @@
   "youtubeId": "abGe6uM9Ias",
   "title": "Wonderful Life",
   "artist": "Katie Melua",
-  "lastFetched": "2025-11-28T12:14:46.442Z",
+  "lastFetched": "2025-11-30T20:42:05.290Z",
   "odesli": {
     "amazonMusic": "B0DZWS61P1",
     "amazonStore": "B0DZWS61P1",
@@ -32,6 +32,22 @@
     "tags": [
       "cover",
       "covers"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "583549da-fbb6-4397-91bf-dcf79712664f",
+    "artistMbid": "39e32995-6515-40b2-a6f0-841524047edc",
+    "releaseCount": 14,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "blues",
+      "easy listening",
+      "folk pop",
+      "jazz",
+      "jazz pop",
+      "vocal jazz"
     ]
   }
 }

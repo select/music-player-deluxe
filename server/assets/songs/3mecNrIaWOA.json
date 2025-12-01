@@ -2,7 +2,7 @@
   "youtubeId": "3mecNrIaWOA",
   "title": "Sweet Mother",
   "artist": "Prince Nico Mbarga",
-  "lastFetched": "2025-11-23T19:32:19.367Z",
+  "lastFetched": "2025-11-30T22:03:41.947Z",
   "odesli": {
     "amazonMusic": "B01MRK4H8L",
     "amazonStore": "B01MRK4H8L",
@@ -27,5 +27,10 @@
       "highlife",
       "africa"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1f9db056-b313-44bf-b2fa-2fa535e3c5a9",
+    "artistMbid": "2d12a36d-3913-49bc-a738-7a055e980d45",
+    "releaseCount": 3
   }
 }

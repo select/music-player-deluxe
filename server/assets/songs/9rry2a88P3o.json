@@ -2,7 +2,7 @@
   "youtubeId": "9rry2a88P3o",
   "title": "The Guidelines",
   "artist": "Aceyalone",
-  "lastFetched": "2025-11-24T00:22:46.287Z",
+  "lastFetched": "2025-11-30T21:37:11.181Z",
   "odesli": {
     "amazonMusic": "B01J6WXW02",
     "amazonStore": "B01J6WXW02",
@@ -30,6 +30,20 @@
       "hip-hop",
       "hip hop",
       "underground hip-hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3678913b-6a9c-45dc-bf25-6833a1d2367c",
+    "artistMbid": "dbd1b11b-0ab2-4afd-8264-c2909237b6fb",
+    "releaseCount": 1,
+    "genres": [
+      "gangsta rap",
+      "hip hop",
+      "underground hip hop"
+    ],
+    "artistGenres": [
+      "conscious hip hop",
+      "hip hop"
     ]
   }
 }

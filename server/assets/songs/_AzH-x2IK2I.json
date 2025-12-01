@@ -2,7 +2,7 @@
   "youtubeId": "_AzH-x2IK2I",
   "title": "Boom Boom",
   "artist": "Big Head Todd And The Monsters",
-  "lastFetched": "2025-11-27T12:03:35.700Z",
+  "lastFetched": "2025-11-30T20:45:42.754Z",
   "odesli": {
     "amazonMusic": "B084DNBP3X",
     "amazonStore": "B084DNBP3X",
@@ -21,6 +21,20 @@
       "blues",
       "blues rock",
       "texas blues"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0f1cb352-906e-44d3-b123-c68f94302cc3",
+    "artistMbid": "92e7d285-906a-4e0e-b0db-a79bc80d1e5a",
+    "releaseCount": 5,
+    "genres": [
+      "boogie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "blues rock",
+      "rock"
     ]
   }
 }

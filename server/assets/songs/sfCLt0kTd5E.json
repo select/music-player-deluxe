@@ -2,7 +2,7 @@
   "youtubeId": "sfCLt0kTd5E",
   "title": "Unbelievable",
   "artist": "EMF",
-  "lastFetched": "2025-11-23T15:35:44.839Z",
+  "lastFetched": "2025-11-30T22:20:45.525Z",
   "odesli": {
     "amazonMusic": "B0714QHMX3",
     "amazonStore": "B0714QHMX3",
@@ -30,6 +30,21 @@
       "rock",
       "dance",
       "british"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "edaf2392-d15c-4266-bdc0-b8bbcc1140ab",
+    "artistMbid": "26f94a6a-d60a-4bcc-a130-ce0e77122bd7",
+    "releaseCount": 1,
+    "genres": [
+      "alternative pop",
+      "pop",
+      "west coast swing"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "grebo",
+      "indie rock"
     ]
   }
 }

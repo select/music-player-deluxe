@@ -2,7 +2,7 @@
   "youtubeId": "gGdGFtwCNBE",
   "title": "Mr. Brightside",
   "artist": "The Killers",
-  "lastFetched": "2025-11-24T00:22:05.224Z",
+  "lastFetched": "2025-11-30T21:43:51.523Z",
   "odesli": {
     "amazonMusic": "B0DG4L5L1K",
     "amazonStore": "B0DG4L5L1K",
@@ -32,5 +32,29 @@
     "title": "Mr. Brightside",
     "artist": "The Killers",
     "artistMbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b"
+  },
+  "musicbrainz": {
+    "trackMbid": "b5aa154a-6b20-475f-8fb2-6a232be05f36",
+    "artistMbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+    "releaseCount": 3,
+    "genres": [
+      "acoustic rock",
+      "alternative rock",
+      "indie rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "christmas music",
+      "heartland rock",
+      "indie rock",
+      "new wave",
+      "pop rock",
+      "post-punk revival",
+      "rock"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "0jpOBd949O4",
   "title": "Physical Education",
   "artist": "Animals As Leaders",
-  "lastFetched": "2025-11-28T18:38:51.489Z",
+  "lastFetched": "2025-11-30T20:17:39.104Z",
   "odesli": {
     "amazonMusic": "B0FD3HNVK8",
     "amazonStore": "B0FD3HNVK8",
@@ -23,5 +23,16 @@
     "artist": "Animals as Leaders",
     "mbid": "5c3e756a-293a-455b-a114-507b0da1d901",
     "artistMbid": "5c2d2520-950b-4c78-84fc-78a9328172a3"
+  },
+  "musicbrainz": {
+    "trackMbid": "81cdc9af-e0fa-49b6-b1c6-db149c91f84f",
+    "artistMbid": "5c2d2520-950b-4c78-84fc-78a9328172a3",
+    "releaseCount": 3,
+    "artistGenres": [
+      "djent",
+      "experimental",
+      "instrumental",
+      "progressive metal"
+    ]
   }
 }

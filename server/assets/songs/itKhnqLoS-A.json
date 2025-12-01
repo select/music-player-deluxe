@@ -2,7 +2,7 @@
   "youtubeId": "itKhnqLoS-A",
   "title": "Domino",
   "artist": "Turbowolf",
-  "lastFetched": "2025-11-28T12:13:51.144Z",
+  "lastFetched": "2025-11-30T20:28:13.225Z",
   "odesli": {
     "amazonMusic": "B0BH1MM81P",
     "amazonStore": "B0BH1MM81P",
@@ -25,6 +25,15 @@
       "stoner rock",
       "rock",
       "punk rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ef27419e-9a76-4663-a2e7-911918f53c33",
+    "artistMbid": "698c4374-6e7e-4369-a5f4-668976701659",
+    "releaseCount": 3,
+    "artistGenres": [
+      "alternative metal",
+      "hard rock"
     ]
   }
 }

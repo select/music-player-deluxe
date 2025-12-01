@@ -2,7 +2,7 @@
   "youtubeId": "B_11rzktYnk",
   "title": "Birth",
   "artist": "The Faint",
-  "lastFetched": "2025-11-27T12:04:05.295Z",
+  "lastFetched": "2025-11-30T20:50:07.863Z",
   "odesli": {
     "amazonMusic": "B0015K33TE",
     "amazonStore": "B0015K33TE",
@@ -25,6 +25,24 @@
       "indie",
       "electronic",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "62c4c0ff-aeb2-4ead-b951-3e78ad300ce5",
+    "artistMbid": "a1419808-65d3-4d40-998c-1a0bac65eabc",
+    "releaseCount": 9,
+    "genres": [
+      "alternative rock",
+      "electro",
+      "electroclash",
+      "electronic",
+      "indie rock",
+      "rock",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "electronic",
+      "indie rock"
     ]
   }
 }

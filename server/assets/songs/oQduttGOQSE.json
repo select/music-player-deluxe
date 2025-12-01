@@ -1,7 +1,7 @@
 {
   "youtubeId": "oQduttGOQSE",
   "title": "plastikman - pakard",
-  "lastFetched": "2025-11-27T12:00:59.232Z",
+  "lastFetched": "2025-11-30T20:27:50.389Z",
   "ai": {
     "title": "pakard",
     "artist": "plastikman"
@@ -19,6 +19,19 @@
       "minimal techno",
       "ambient",
       "techno"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5c64be49-777d-404c-ad5d-a0147e14fd4b",
+    "artistMbid": "abee98f6-5239-4abf-bbe6-e1e2815a0dd6",
+    "releaseCount": 9,
+    "genres": [
+      "techno"
+    ],
+    "artistGenres": [
+      "acid techno",
+      "microhouse",
+      "minimal techno"
     ]
   }
 }

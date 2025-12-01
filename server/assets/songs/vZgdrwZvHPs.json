@@ -2,7 +2,7 @@
   "youtubeId": "vZgdrwZvHPs",
   "title": "Babylon Breaks",
   "artist": "Ed Solo",
-  "lastFetched": "2025-11-28T12:13:57.958Z",
+  "lastFetched": "2025-11-30T20:31:15.914Z",
   "odesli": {
     "amazonMusic": "B0BN4MJQLQ",
     "amazonStore": "B0BN4MJQLQ",
@@ -24,5 +24,10 @@
       "drum and bass",
       "spotify mistag"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1d27fcff-eb05-457c-8b61-4578e9c74ae9",
+    "artistMbid": "e3b11767-c2e7-406e-947f-1303fce00db5",
+    "releaseCount": 1
   }
 }

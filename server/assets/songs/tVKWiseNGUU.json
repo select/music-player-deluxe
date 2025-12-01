@@ -2,7 +2,7 @@
   "youtubeId": "tVKWiseNGUU",
   "title": "Vesoul",
   "artist": "Jacques Brel",
-  "lastFetched": "2025-11-26T10:58:13.291Z",
+  "lastFetched": "2025-11-30T21:08:25.918Z",
   "odesli": {
     "amazonMusic": "B07B4MJSG5",
     "amazonStore": "B07B4MJSG5",
@@ -32,6 +32,21 @@
       "french",
       "chanson francaise",
       "jacques brel"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "da7f197b-3ef4-4fd4-b09a-f583cb491476",
+    "artistMbid": "91eda19b-1437-42cd-b7af-69df24b7f275",
+    "releaseCount": 25,
+    "genres": [
+      "chanson française",
+      "easy listening",
+      "pop"
+    ],
+    "artistGenres": [
+      "chanson française",
+      "chanson à texte",
+      "singer-songwriter"
     ]
   }
 }

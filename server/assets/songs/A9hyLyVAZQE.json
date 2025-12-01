@@ -1,7 +1,7 @@
 {
   "youtubeId": "A9hyLyVAZQE",
   "title": "Robben Ford On That Morning",
-  "lastFetched": "2025-11-29T12:38:54.027Z",
+  "lastFetched": "2025-11-30T19:48:01.638Z",
   "ai": {
     "title": "On That Morning",
     "artist": "Robben Ford"
@@ -19,6 +19,22 @@
       "blues",
       "jazz blues",
       "smooth jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a81507f3-9acd-4ba6-9dde-0ced972f5bf8",
+    "artistMbid": "9c17c956-de06-4463-9a87-234652c306dc",
+    "releaseCount": 2,
+    "genres": [
+      "blues",
+      "electric blues",
+      "jazz blues"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "electric blues",
+      "jazz fusion"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "IHd77b7Ia5A",
   "title": "Pathognomonic Purulency",
   "artist": "Pustulated",
-  "lastFetched": "2025-11-19T13:37:56.918Z",
+  "lastFetched": "2025-11-30T23:02:42.335Z",
   "odesli": {
     "pandora": "TR:1010571",
     "soundcloud": "pustulated/pathognomonic-purulency",
@@ -15,6 +15,15 @@
     "listeners": 3125,
     "playcount": 12412,
     "tags": [
+      "brutal death metal",
+      "death metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c729d882-62c3-4582-80c6-4b833d8bed5f",
+    "artistMbid": "05e6c5f9-d50d-4c6f-9a29-1d2bcb3907e5",
+    "releaseCount": 3,
+    "artistGenres": [
       "brutal death metal",
       "death metal"
     ]

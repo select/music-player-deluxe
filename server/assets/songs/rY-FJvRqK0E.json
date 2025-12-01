@@ -2,7 +2,7 @@
   "youtubeId": "rY-FJvRqK0E",
   "title": "Flamingo",
   "artist": "Kero Kero Bonito",
-  "lastFetched": "2025-11-30T17:44:41.250Z",
+  "lastFetched": "2025-11-30T19:34:03.020Z",
   "odesli": {
     "amazonMusic": "B01B3RXYJC",
     "amazonStore": "B01B3RXYJC",
@@ -36,6 +36,25 @@
       "how olivia makes me feel",
       "synth",
       "im going to marry olivia"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "53cc02a1-2d92-4e57-8a5d-0bee8d5bd43f",
+    "artistMbid": "5e284bdc-3774-41dc-b5e2-b125d0349acf",
+    "releaseCount": 5,
+    "genres": [
+      "bitpop",
+      "dance",
+      "electro"
+    ],
+    "artistGenres": [
+      "bubblegum pop",
+      "electropop",
+      "indie pop",
+      "j-pop",
+      "pop",
+      "pop rap",
+      "synth-pop"
     ]
   }
 }

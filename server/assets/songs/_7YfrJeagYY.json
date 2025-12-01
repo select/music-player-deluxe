@@ -2,7 +2,7 @@
   "youtubeId": "_7YfrJeagYY",
   "title": "El Niño",
   "artist": "Jethro Tull",
-  "lastFetched": "2025-11-27T12:03:45.161Z",
+  "lastFetched": "2025-11-30T20:47:28.103Z",
   "odesli": {
     "amazonMusic": "B0D5JWCYP8",
     "amazonStore": "B0D5JWCYP8",
@@ -24,6 +24,28 @@
       "rock",
       "acordes geniales",
       "folk rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5b467ecf-5340-4eb1-babc-0d6b6221f254",
+    "artistMbid": "ece57992-dc2e-4f67-a269-fa43626c1a3d",
+    "releaseCount": 4,
+    "genres": [
+      "classic rock",
+      "hard rock",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "folk rock",
+      "hard rock",
+      "progressive",
+      "progressive folk",
+      "progressive rock",
+      "rock"
     ]
   }
 }

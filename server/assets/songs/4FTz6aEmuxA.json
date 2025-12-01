@@ -2,7 +2,7 @@
   "youtubeId": "4FTz6aEmuxA",
   "title": "Love Letters",
   "artist": "Lord Cobra",
-  "lastFetched": "2025-11-19T15:39:00.306Z",
+  "lastFetched": "2025-11-30T22:52:32.924Z",
   "odesli": {
     "amazonMusic": "B07CZYKX7V",
     "amazonStore": "B07CZYKX7V",
@@ -31,6 +31,11 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "cee64f83-f839-4c47-ae94-c60c6a029577"
+    "artistMbid": "cee64f83-f839-4c47-ae94-c60c6a029577",
+    "trackMbid": "e51063f9-ca59-4951-904d-77aa2b64b812",
+    "releaseCount": 1,
+    "genres": [
+      "latin"
+    ]
   }
 }

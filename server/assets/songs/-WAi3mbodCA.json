@@ -2,7 +2,7 @@
   "youtubeId": "-WAi3mbodCA",
   "title": "Careful With That Axe, Eugene",
   "artist": "Pink Floyd",
-  "lastFetched": "2025-11-23T14:14:13.853Z",
+  "lastFetched": "2025-11-30T22:44:04.525Z",
   "lastfm": {
     "title": "Careful With That Axe, Eugene",
     "artist": "Pink Floyd",
@@ -16,6 +16,26 @@
       "progressive rock",
       "instrumental",
       "classic rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5568f36b-51c5-4cc1-b7a5-ce8c973571d4",
+    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
+    "releaseCount": 3,
+    "artistGenres": [
+      "acid rock",
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "experimental rock",
+      "progressive",
+      "progressive rock",
+      "psychedelic",
+      "psychedelic pop",
+      "psychedelic rock",
+      "rock",
+      "rock opera",
+      "space rock"
     ]
   }
 }

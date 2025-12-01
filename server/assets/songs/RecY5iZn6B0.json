@@ -2,7 +2,7 @@
   "youtubeId": "RecY5iZn6B0",
   "title": "Like Sugar",
   "artist": "Chaka Khan",
-  "lastFetched": "2025-11-19T13:19:01.163Z",
+  "lastFetched": "2025-11-30T23:03:58.633Z",
   "odesli": {
     "amazonMusic": "B07MFBYHYX",
     "amazonStore": "B07MFBYHYX",
@@ -25,6 +25,20 @@
       "funky",
       "soul",
       "pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3edf99dd-9352-4180-813a-a338408ca887",
+    "artistMbid": "900e9144-019d-4043-86cb-ec0e127c39d0",
+    "releaseCount": 9,
+    "artistGenres": [
+      "contemporary r&b",
+      "disco",
+      "funk",
+      "pop soul",
+      "r&b",
+      "soul",
+      "synth funk"
     ]
   }
 }

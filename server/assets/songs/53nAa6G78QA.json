@@ -1,7 +1,7 @@
 {
   "youtubeId": "53nAa6G78QA",
   "title": "War das etwa Haschisch",
-  "lastFetched": "2025-11-26T11:01:49.965Z",
+  "lastFetched": "2025-11-30T21:27:24.303Z",
   "ai": {
     "title": "war das etwa haschisch",
     "artist": "Georg Danzer"
@@ -27,6 +27,19 @@
       "die wahren perlen deutschsprachiger popmusik",
       "austropop",
       "deutsch"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "08f09966-d765-46f5-bde0-3aa9a7e6a243",
+    "artistMbid": "6a65cfbe-d198-4f24-aff0-e0ce1d500863",
+    "releaseCount": 4,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "liedermacher",
+      "pop",
+      "singer-songwriter"
     ]
   }
 }

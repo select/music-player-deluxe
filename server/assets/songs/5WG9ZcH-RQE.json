@@ -1,7 +1,7 @@
 {
   "youtubeId": "5WG9ZcH-RQE",
   "title": "Balthazar - Wait Any Longer",
-  "lastFetched": "2025-11-27T12:02:09.030Z",
+  "lastFetched": "2025-11-30T20:34:33.907Z",
   "ai": {
     "title": "Wait Any Longer",
     "artist": "Balthazar"
@@ -16,6 +16,19 @@
     "artistMbid": "91511517-ef93-4d71-a0f0-c858272af4a7",
     "tags": [
       "2016 single"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9aaca513-0bba-4da1-bad0-34d59e38ab2f",
+    "artistMbid": "91511517-ef93-4d71-a0f0-c858272af4a7",
+    "releaseCount": 5,
+    "genres": [
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "indie pop",
+      "pop rock"
     ]
   }
 }

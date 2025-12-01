@@ -1,7 +1,7 @@
 {
   "youtubeId": "i7gD3XBeLk8",
   "title": "Mean Mary - Blazing",
-  "lastFetched": "2025-11-29T12:38:25.867Z",
+  "lastFetched": "2025-11-30T19:41:32.978Z",
   "ai": {
     "title": "Blazing",
     "artist": "Mean Mary"
@@ -19,5 +19,10 @@
       "folk",
       "americana"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "628ed47b-588b-4e13-889a-81ea1586cdc8",
+    "artistMbid": "7463ed5b-7cb8-4c04-be1e-529624f57ceb",
+    "releaseCount": 1
   }
 }

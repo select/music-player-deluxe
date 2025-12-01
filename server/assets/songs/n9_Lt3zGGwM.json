@@ -2,7 +2,7 @@
   "youtubeId": "n9_Lt3zGGwM",
   "title": "Windows",
   "artist": "Leland Whitty",
-  "lastFetched": "2025-11-19T13:49:39.780Z",
+  "lastFetched": "2025-11-30T23:02:06.240Z",
   "odesli": {
     "amazonMusic": "B0BJ8275J3",
     "amazonStore": "B0BJ8275J3",
@@ -19,5 +19,10 @@
       "jazz",
       "canadian"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "387fd501-27c9-439a-834c-cb58385c11d3",
+    "artistMbid": "382482ab-3577-4dd2-916b-850c5805b05c",
+    "releaseCount": 2
   }
 }

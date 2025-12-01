@@ -1,7 +1,7 @@
 {
   "youtubeId": "bn6kmU2n1RM",
   "title": "Uppermost - Night Walk (Azaleh Bootleg)",
-  "lastFetched": "2025-11-26T10:56:50.975Z",
+  "lastFetched": "2025-11-30T20:52:37.996Z",
   "ai": {
     "title": "Night Walk",
     "artist": "Uppermost"
@@ -17,6 +17,14 @@
       "chillout",
       "chillstep",
       "uppermost"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7154f864-bdb0-40f4-bfb6-a8bfe5bd43bf",
+    "artistMbid": "166fd628-f034-434d-bcd8-37618db2bbf0",
+    "releaseCount": 1,
+    "artistGenres": [
+      "french house"
     ]
   }
 }

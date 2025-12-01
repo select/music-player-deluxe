@@ -2,7 +2,7 @@
   "youtubeId": "M-r1b2H9FKs",
   "title": "The end",
   "artist": "Sibylle Baier",
-  "lastFetched": "2025-11-23T15:13:52.366Z",
+  "lastFetched": "2025-11-30T22:25:28.195Z",
   "lastfm": {
     "title": "The End",
     "artist": "Sibylle Baier",
@@ -17,6 +17,17 @@
       "female vocalists",
       "acoustic",
       "melancholy"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cd9479d1-98b3-41a5-9272-0f5131194ad1",
+    "artistMbid": "c7abb29e-6e5c-4e07-a45d-ff5028a81099",
+    "releaseCount": 5,
+    "genres": [
+      "folk"
+    ],
+    "artistGenres": [
+      "folk"
     ]
   }
 }

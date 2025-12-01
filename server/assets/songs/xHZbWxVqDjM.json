@@ -2,7 +2,7 @@
   "youtubeId": "xHZbWxVqDjM",
   "title": "Dear Catastrophe Waitress",
   "artist": "Belle And Sebastian",
-  "lastFetched": "2025-11-28T12:14:22.965Z",
+  "lastFetched": "2025-11-30T20:37:02.127Z",
   "odesli": {
     "amazonMusic": "B01LX8H78T",
     "amazonStore": "B01LX8H78T",
@@ -24,6 +24,23 @@
       "indie pop",
       "twee",
       "belle and sebastian"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5dee9ea8-9d4a-458a-8400-1e97f0d240a0",
+    "artistMbid": "e5c7b94f-e264-473c-bb0f-37c85d4d5c70",
+    "releaseCount": 1,
+    "artistGenres": [
+      "baroque pop",
+      "chamber pop",
+      "dance-pop",
+      "indie folk",
+      "indie pop",
+      "indie rock",
+      "psychedelic pop",
+      "sunshine pop",
+      "synth-pop",
+      "twee pop"
     ]
   }
 }

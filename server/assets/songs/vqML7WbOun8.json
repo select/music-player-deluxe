@@ -2,7 +2,7 @@
   "youtubeId": "vqML7WbOun8",
   "title": "Blood And Roses",
   "artist": "The Smithereens",
-  "lastFetched": "2025-11-24T00:22:10.651Z",
+  "lastFetched": "2025-11-30T21:43:17.673Z",
   "odesli": {
     "amazonMusic": "B002CC0SYC",
     "amazonStore": "B002CC0SYC",
@@ -28,6 +28,24 @@
       "alternative",
       "rock",
       "new wave"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "dda8a7ff-119d-43c1-bb98-827e3cd6521b",
+    "artistMbid": "fae2cd4c-f847-4cb3-b311-60c8906cdb0b",
+    "releaseCount": 20,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "new wave",
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "hard rock",
+      "power pop"
     ]
   }
 }

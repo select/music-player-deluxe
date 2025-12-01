@@ -2,7 +2,7 @@
   "youtubeId": "o2Mkxjf3dYo",
   "title": "Girl It's Alright",
   "artist": "Steven Seagal",
-  "lastFetched": "2025-11-23T19:30:07.530Z",
+  "lastFetched": "2025-11-30T22:12:08.106Z",
   "odesli": {
     "amazonMusic": "B000QMUBKQ",
     "amazonStore": "B000QMUBKQ",
@@ -26,6 +26,23 @@
       "rock ballad",
       "ballade",
       "lover hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "adf23acf-dd92-4c5b-a041-5e5177e39794",
+    "artistMbid": "ab57a164-f30f-4aa5-8687-22abdbaeee44",
+    "releaseCount": 2,
+    "genres": [
+      "ballad",
+      "blues",
+      "blues rock",
+      "doom metal",
+      "folk rock",
+      "metal",
+      "pop",
+      "pop rock",
+      "power metal",
+      "rock"
     ]
   }
 }

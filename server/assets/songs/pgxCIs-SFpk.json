@@ -2,7 +2,7 @@
   "youtubeId": "pgxCIs-SFpk",
   "title": "Telilit",
   "artist": "Fatou Seidi Ghali",
-  "lastFetched": "2025-11-23T19:33:16.506Z",
+  "lastFetched": "2025-11-30T21:58:55.295Z",
   "lastfm": {
     "id": "fatou+seidi+ghali/_/Telilit",
     "listeners": 319,
@@ -13,5 +13,10 @@
       "tuareg guitar",
       "niger"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "25f38b2e-7c86-4d5d-8516-231cd779ef67",
+    "artistMbid": "43ee7547-46e1-420a-8638-350096124429",
+    "releaseCount": 2
   }
 }

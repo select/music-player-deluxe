@@ -2,7 +2,7 @@
   "youtubeId": "f-_xgHGQJNQ",
   "title": "Onsta la Yerbita",
   "artist": "Los Destellos",
-  "lastFetched": "2025-11-28T18:36:59.565Z",
+  "lastFetched": "2025-11-30T20:10:53.655Z",
   "odesli": {
     "amazonMusic": "B0BYT7W1QN",
     "amazonStore": "B0BYT7W1QN",
@@ -24,6 +24,15 @@
       "psychedelic",
       "guitar virtuoso",
       "psychedelic cumbia"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3d4f3828-0f53-45d6-a927-39445bced1e9",
+    "artistMbid": "7968034e-117f-4275-a2e6-a88472794cb2",
+    "releaseCount": 5,
+    "artistGenres": [
+      "cumbia",
+      "cumbia peruana"
     ]
   }
 }

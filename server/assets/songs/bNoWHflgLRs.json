@@ -2,7 +2,7 @@
   "youtubeId": "bNoWHflgLRs",
   "title": "Requiem for a Dream",
   "artist": "Scott Benson Band",
-  "lastFetched": "2025-11-19T05:52:57.739Z",
+  "lastFetched": "2025-11-30T23:38:31.443Z",
   "odesli": {
     "amazonMusic": "B00TV07KSA",
     "amazonStore": "B00TV07KSA",
@@ -27,5 +27,10 @@
     "tags": [
       "united states"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e6b88a7c-fbde-4eb3-874b-e0c1bfc133dd",
+    "artistMbid": "da2e6ba3-5b98-48f1-9a03-0f89a4b2f624",
+    "releaseCount": 1
   }
 }

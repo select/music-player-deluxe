@@ -1,7 +1,7 @@
 {
   "youtubeId": "R5Mx7x_F_Iw",
   "title": "Altan Urag - Temuujin",
-  "lastFetched": "2025-11-26T10:55:56.689Z",
+  "lastFetched": "2025-11-30T20:42:57.966Z",
   "ai": {
     "title": "Temuujin",
     "artist": "Altan Urag"
@@ -15,6 +15,14 @@
     "mbid": "8fef7ef9-b2e0-4094-ba45-5b931fc4104d",
     "tags": [
       "progressive - folk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8da23c2d-f4e3-4e35-a2a2-3cf802d8925c",
+    "artistMbid": "19063f26-ad08-4473-a1a9-2ce8eca902c5",
+    "releaseCount": 1,
+    "artistGenres": [
+      "folk rock"
     ]
   }
 }

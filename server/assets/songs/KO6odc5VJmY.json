@@ -2,7 +2,7 @@
   "youtubeId": "KO6odc5VJmY",
   "title": "Sunshower",
   "artist": "Chris Cornell",
-  "lastFetched": "2025-11-26T10:58:57.359Z",
+  "lastFetched": "2025-11-30T21:12:17.150Z",
   "odesli": {
     "amazonMusic": "B07HFS7W1F",
     "amazonStore": "B07HFS7W1F",
@@ -29,6 +29,26 @@
       "alternative rock",
       "alternative",
       "90s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d38a4f03-eb9f-4465-afbe-578dd89819c6",
+    "artistMbid": "cbf9738d-8f81-4a92-bc64-ede09341652d",
+    "releaseCount": 14,
+    "genres": [
+      "acoustic rock",
+      "alternative rock",
+      "grunge",
+      "rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative rock",
+      "electropop",
+      "pop rock",
+      "post-grunge",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

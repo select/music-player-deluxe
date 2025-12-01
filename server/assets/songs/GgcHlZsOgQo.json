@@ -2,7 +2,7 @@
   "youtubeId": "GgcHlZsOgQo",
   "title": "Stretch Your Face",
   "artist": "Tobacco",
-  "lastFetched": "2025-11-29T13:49:11.721Z",
+  "lastFetched": "2025-11-30T19:58:15.371Z",
   "odesli": {
     "amazonMusic": "B0964D5921",
     "amazonStore": "B0964D5921",
@@ -25,6 +25,20 @@
       "electronic",
       "psychedelic",
       "synthpop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6e10962a-6130-48f9-b465-702e2665cf13",
+    "artistMbid": "7d3996ec-e9e9-41ec-8f4d-e336f64fc7c6",
+    "releaseCount": 2,
+    "artistGenres": [
+      "experimental hip hop",
+      "glitch hop",
+      "indietronica",
+      "instrumental hip hop",
+      "lo-fi",
+      "neo-psychedelia",
+      "wonky"
     ]
   }
 }

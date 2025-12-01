@@ -2,7 +2,7 @@
   "youtubeId": "CJuAlYGAI7U",
   "title": "Saúde",
   "artist": "Pupkulies & Rebecca",
-  "lastFetched": "2025-11-23T19:34:38.371Z",
+  "lastFetched": "2025-11-30T21:51:37.460Z",
   "lastfm": {
     "id": "Pupkulies+&+Rebecca/_/Sa%C3%BAde",
     "listeners": 1315,
@@ -18,5 +18,10 @@
       "synthpop",
       "minimal"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "23464abd-7b23-498d-b856-bfe07a8ebda2",
+    "artistMbid": "ef5a79e3-43ec-433a-99ed-6dc42881aad8",
+    "releaseCount": 3
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "mjvGjUovxPU",
   "title": "Nothing Else Matters",
   "artist": "Apocalyptica",
-  "lastFetched": "2025-11-26T10:55:59.654Z",
+  "lastFetched": "2025-11-30T20:43:47.066Z",
   "odesli": {
     "amazonMusic": "B0BF4DNRG6",
     "amazonStore": "B0BF4DNRG6",
@@ -38,6 +38,31 @@
       "cover",
       "metal",
       "cello"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "09a09b33-d12b-4af1-82a6-409dd1d9f274",
+    "artistMbid": "788ad31c-bf0c-4a31-83f8-b8b130d79c76",
+    "releaseCount": 3,
+    "genres": [
+      "classical",
+      "classical crossover",
+      "heavy metal",
+      "metal",
+      "neoclassicism",
+      "progressive metal",
+      "rock",
+      "symphonic metal",
+      "symphonic rock",
+      "thrash metal"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "instrumental",
+      "instrumental rock",
+      "metal",
+      "neoclassical metal",
+      "symphonic metal"
     ]
   }
 }

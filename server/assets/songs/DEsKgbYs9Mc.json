@@ -2,7 +2,7 @@
   "youtubeId": "DEsKgbYs9Mc",
   "title": "Got To Be Mine",
   "artist": "Vulfmon",
-  "lastFetched": "2025-11-23T19:32:50.395Z",
+  "lastFetched": "2025-11-30T22:00:40.491Z",
   "odesli": {
     "amazonMusic": "B0D8DGKQGY",
     "amazonStore": "B0D8DGKQGY",
@@ -26,6 +26,16 @@
       "jazz",
       "indie",
       "funk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a7c6dd60-9f21-4d1a-b987-0a04876ce708",
+    "artistMbid": "8c9fefd7-f77a-405a-8ee2-f28c8d34218c",
+    "releaseCount": 1,
+    "artistGenres": [
+      "funk",
+      "jazz-funk",
+      "pop soul"
     ]
   }
 }

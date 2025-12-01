@@ -2,7 +2,7 @@
   "youtubeId": "ev-bR9ii7Gs",
   "title": "Lydia",
   "artist": "Highly Suspect",
-  "lastFetched": "2025-11-26T10:59:25.381Z",
+  "lastFetched": "2025-11-30T21:14:39.045Z",
   "odesli": {
     "amazonMusic": "B07VY1PW81",
     "amazonStore": "B07VY1PW81",
@@ -34,6 +34,16 @@
       "post-grunge",
       "blues rock",
       "soundtrack"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2ec6da3b-7620-41db-b8f6-e99f41c2f6c7",
+    "artistMbid": "afd55c72-d123-4237-9818-fa3ce634b3dd",
+    "releaseCount": 5,
+    "artistGenres": [
+      "alternative rock",
+      "hard rock",
+      "rock"
     ]
   }
 }

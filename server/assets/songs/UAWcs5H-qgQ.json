@@ -2,7 +2,7 @@
   "youtubeId": "UAWcs5H-qgQ",
   "title": "The A Team",
   "artist": "Ed Sheeran",
-  "lastFetched": "2025-11-28T12:14:36.155Z",
+  "lastFetched": "2025-11-30T20:38:23.331Z",
   "odesli": {
     "amazonMusic": "B0086HGWG0",
     "amazonStore": "B0086HGWG0",
@@ -37,5 +37,28 @@
     "artist": "Ed Sheeran",
     "mbid": "1835aad5-98e7-4de2-82a4-c8c95b1c0b69",
     "artistMbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+  },
+  "musicbrainz": {
+    "trackMbid": "17eb8cd6-7bb0-4579-90af-dc38c1b3fc6a",
+    "artistMbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+    "releaseCount": 25,
+    "genres": [
+      "folk",
+      "folk pop",
+      "indie folk",
+      "indie pop",
+      "indie rock",
+      "jazz",
+      "pop"
+    ],
+    "artistGenres": [
+      "dance-pop",
+      "folk",
+      "folk pop",
+      "persian pop",
+      "pop",
+      "singer-songwriter",
+      "soft rock"
+    ]
   }
 }

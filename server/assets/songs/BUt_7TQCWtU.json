@@ -2,7 +2,7 @@
   "youtubeId": "BUt_7TQCWtU",
   "title": "Brighton Rock",
   "artist": "Queen",
-  "lastFetched": "2025-11-27T12:03:51.570Z",
+  "lastFetched": "2025-11-30T20:48:21.354Z",
   "odesli": {
     "amazonMusic": "B004ZKL92E",
     "amazonStore": "B004ZKL92E",
@@ -32,6 +32,21 @@
       "hard rock",
       "classic rock",
       "70s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9931e02a-c8aa-4c0e-aaef-68b21885a376",
+    "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+    "releaseCount": 1,
+    "artistGenres": [
+      "art rock",
+      "classic rock",
+      "glam rock",
+      "hard rock",
+      "pop rock",
+      "progressive rock",
+      "rock",
+      "symphonic rock"
     ]
   }
 }

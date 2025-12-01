@@ -1,9 +1,20 @@
 {
   "youtubeId": "Aa2gg7Qwuew",
   "title": "Priestess - Ladykiller",
-  "lastFetched": "2025-11-25T16:46:59.574Z",
+  "lastFetched": "2025-11-30T21:14:43.186Z",
   "ai": {
     "title": "Ladykiller",
     "artist": "Priestess"
+  },
+  "musicbrainz": {
+    "trackMbid": "c8afd184-8486-4da9-a3c9-cd5d003b6db8",
+    "artistMbid": "35075097-7ce7-4719-b03c-c539ef61d574",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hard rock",
+      "metal",
+      "rock",
+      "stoner rock"
+    ]
   }
 }

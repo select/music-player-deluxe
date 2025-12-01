@@ -1,7 +1,7 @@
 {
   "youtubeId": "Vl2Rmw5hsao",
   "title": "Dance Gavin Dance - Young Robot",
-  "lastFetched": "2025-11-26T11:00:22.932Z",
+  "lastFetched": "2025-11-30T21:19:45.751Z",
   "ai": {
     "title": "Young Robot",
     "artist": "Dance Gavin Dance"
@@ -17,6 +17,18 @@
     "tags": [
       "experimental",
       "post-hardcore"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "20778c8c-a65b-453e-88e7-07b44e54b1b2",
+    "artistMbid": "16456fed-c9f2-4adf-b6ea-97b648c474d2",
+    "releaseCount": 2,
+    "artistGenres": [
+      "emocore",
+      "experimental",
+      "post-hardcore",
+      "screamo",
+      "swancore"
     ]
   }
 }

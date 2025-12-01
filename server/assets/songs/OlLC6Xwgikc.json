@@ -2,7 +2,7 @@
   "youtubeId": "OlLC6Xwgikc",
   "title": "Sleepless (Stephan Bodzin Remix)",
   "artist": "Pan-Pot",
-  "lastFetched": "2025-11-27T12:04:18.199Z",
+  "lastFetched": "2025-11-30T20:51:57.255Z",
   "odesli": {
     "amazonMusic": "B01883QU1S",
     "amazonStore": "B01883QU1S",
@@ -29,5 +29,10 @@
       "electronic",
       "<3"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "adc5876b-39b4-48b2-9abd-13044ad3b9d8",
+    "artistMbid": "cca5fd04-e583-4a84-b8a6-607d485dc187",
+    "releaseCount": 1
   }
 }

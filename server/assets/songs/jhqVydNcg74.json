@@ -2,7 +2,7 @@
   "youtubeId": "jhqVydNcg74",
   "title": "Sherm Stick",
   "artist": "Jayo Felony",
-  "lastFetched": "2025-11-23T19:32:58.791Z",
+  "lastFetched": "2025-11-30T22:00:08.038Z",
   "lastfm": {
     "summary": "Jayo Felony basically explains that he’s smoking Sherm “PCP” and how his day has occurred with his high. <a href=\"http://www.last.fm/music/Jayo+Felony/_/Sherm+Stick\">Read more on Last.fm</a>.",
     "id": "Jayo+Felony/_/Sherm+Stick",
@@ -18,6 +18,14 @@
       "gangsta rap",
       "smoking music",
       "west coast rap"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cf6aeb81-0b8d-4ee9-8710-7e111275fe05",
+    "artistMbid": "2bdac100-d897-44fb-b00a-4a4d7595932f",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

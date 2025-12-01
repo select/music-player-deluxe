@@ -2,7 +2,7 @@
   "youtubeId": "20agK5uPf2Y",
   "title": "Ambiance Vikings",
   "artist": "Les Vikings de la Guadeloupe",
-  "lastFetched": "2025-11-23T19:31:41.008Z",
+  "lastFetched": "2025-11-30T22:06:24.584Z",
   "odesli": {
     "amazonMusic": "B0CP4CNT59",
     "amazonStore": "B0CP4CNT59",
@@ -26,5 +26,10 @@
       "guadeloupe",
       "doom"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ab789f12-a19a-4fae-9a19-62c02c29d12c",
+    "artistMbid": "b7e4d206-71e5-41a4-8724-4c3137d98577",
+    "releaseCount": 3
   }
 }

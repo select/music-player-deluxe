@@ -2,7 +2,7 @@
   "youtubeId": "NfDEEyg3AdA",
   "title": "De Plata",
   "artist": "ROSALÍA",
-  "lastFetched": "2025-11-19T06:28:11.910Z",
+  "lastFetched": "2025-11-30T23:35:41.167Z",
   "odesli": {
     "amazonMusic": "B073TC1V6P",
     "amazonStore": "B073TC1V6P",
@@ -26,6 +26,18 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "25f3abd9-63b5-471a-bd25-feb9672dfa11"
+    "artistMbid": "25f3abd9-63b5-471a-bd25-feb9672dfa11",
+    "trackMbid": "3444a6f8-1b93-43a8-93ad-fd1659c47c9a",
+    "releaseCount": 4,
+    "artistGenres": [
+      "flamenco",
+      "flamenco pop",
+      "hip hop",
+      "latin",
+      "latin pop",
+      "pop",
+      "reggaeton",
+      "singer-songwriter"
+    ]
   }
 }

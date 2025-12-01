@@ -2,7 +2,7 @@
   "youtubeId": "ZhkXkIoLs4A",
   "title": "Low Berth (Extended Mix)",
   "artist": "Urban Tribe",
-  "lastFetched": "2025-11-23T15:47:29.711Z",
+  "lastFetched": "2025-11-30T22:16:30.546Z",
   "lastfm": {
     "title": "low berth (extended mix)",
     "artist": "Urban Tribe",
@@ -16,6 +16,15 @@
       "electro",
       "techno",
       "downtempo"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d8b2cc36-6c43-4b0d-8595-0b77e05954bd",
+    "artistMbid": "836449fe-07d3-4777-8e3f-ed7eb12bfc48",
+    "releaseCount": 1,
+    "artistGenres": [
+      "detroit techno",
+      "electronica"
     ]
   }
 }

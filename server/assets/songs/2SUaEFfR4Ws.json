@@ -2,13 +2,32 @@
   "youtubeId": "2SUaEFfR4Ws",
   "title": "One of Us",
   "artist": "Kryptic Minds",
-  "lastFetched": "2025-11-19T11:17:07.981Z",
+  "lastFetched": "2025-11-30T23:15:24.742Z",
   "lastfm": {
     "id": "Kryptic+Minds/_/One+of+Us",
     "listeners": 12191,
     "playcount": 68778,
     "tags": [
       "dubstep"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "121c679a-7480-4dc6-a4c4-47289f633f08",
+    "artistMbid": "89845f0d-2ab9-4edb-b032-7102c914a6e5",
+    "releaseCount": 2,
+    "genres": [
+      "dubstep",
+      "dungeon sound",
+      "electronic",
+      "grime",
+      "idm"
+    ],
+    "artistGenres": [
+      "dubstep",
+      "electronic",
+      "electronica",
+      "halftime",
+      "purple sound"
     ]
   }
 }

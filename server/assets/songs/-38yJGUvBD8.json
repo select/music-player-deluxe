@@ -2,7 +2,7 @@
   "youtubeId": "-38yJGUvBD8",
   "title": "Canned Heat",
   "artist": "Canned Heat",
-  "lastFetched": "2025-11-23T19:33:52.247Z",
+  "lastFetched": "2025-11-30T21:55:46.329Z",
   "odesli": {
     "amazonMusic": "B001BKRW22",
     "amazonStore": "B001BKRW22",
@@ -31,6 +31,27 @@
     "artistMbid": "815a0279-558c-4522-ac3b-6a1e259e95b5",
     "tags": [
       "bluesrock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a8d42aa5-8d1d-4b18-a316-839c02c4e882",
+    "artistMbid": "815a0279-558c-4522-ac3b-6a1e259e95b5",
+    "releaseCount": 21,
+    "genres": [
+      "blues",
+      "blues rock",
+      "boogie rock",
+      "classic rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "boogie rock",
+      "christmas music",
+      "electric blues",
+      "folk rock",
+      "rock"
     ]
   }
 }

@@ -1,9 +1,26 @@
 {
   "youtubeId": "0fOIRnKrskQ",
   "title": "Queens of the Stone Age - Millionaire",
-  "lastFetched": "2025-11-30T17:23:57.141Z",
+  "lastFetched": "2025-11-30T19:40:23.541Z",
   "ai": {
     "title": "Millionaire",
     "artist": "Queens of the Stone Age"
+  },
+  "musicbrainz": {
+    "trackMbid": "f2c0d63e-7dd1-47e0-ad27-47c097443690",
+    "artistMbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+    "releaseCount": 3,
+    "genres": [
+      "hard rock",
+      "rock",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "desert rock",
+      "hard rock",
+      "rock",
+      "stoner rock"
+    ]
   }
 }

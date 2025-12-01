@@ -2,7 +2,7 @@
   "youtubeId": "MFF3LJ678kY",
   "title": "High Rise",
   "artist": "Hawkwind",
-  "lastFetched": "2025-11-23T19:35:26.245Z",
+  "lastFetched": "2025-11-30T21:47:39.573Z",
   "lastfm": {
     "id": "Hawkwind/_/High+Rise",
     "listeners": 6528,
@@ -16,6 +16,24 @@
       "psychedelic",
       "rock",
       "classic rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "92617754-c37a-4105-85d0-f43c7e5e7bb9",
+    "artistMbid": "5a28f8c2-31fb-4047-ae57-c5c326989262",
+    "releaseCount": 4,
+    "genres": [
+      "classic rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "hard rock",
+      "progressive rock",
+      "psychedelic",
+      "psychedelic rock",
+      "rock",
+      "space rock"
     ]
   }
 }

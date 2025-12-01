@@ -1,7 +1,7 @@
 {
   "youtubeId": "FJtPkTUOoho",
   "title": "Christer Bladin - Wildkatze (1974)",
-  "lastFetched": "2025-11-26T10:59:04.696Z",
+  "lastFetched": "2025-11-30T21:12:39.345Z",
   "ai": {
     "title": "Wildkatze",
     "artist": "Christer Bladin"
@@ -18,5 +18,10 @@
       "20th century",
       "songs die so gut sind das ich meiner oma ihr klein haeuschen zwar nicht verkaufen aber zumindest dafuer beleihen wuerde"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d2e36060-f928-4070-8392-71c75ec300dc",
+    "artistMbid": "15a43ed4-733b-45cb-8120-7b9238a50fe4",
+    "releaseCount": 1
   }
 }

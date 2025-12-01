@@ -2,7 +2,7 @@
   "youtubeId": "BO_Lfk-8P5c",
   "title": "Memphis Underground",
   "artist": "Herbie Mann",
-  "lastFetched": "2025-11-23T15:56:43.460Z",
+  "lastFetched": "2025-11-30T22:14:40.796Z",
   "odesli": {
     "amazonMusic": "B0018AKEP2",
     "amazonStore": "B0018AKEP2",
@@ -25,6 +25,24 @@
     "tags": [
       "flute",
       "jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "807b656b-ff05-477c-a08a-ad236cc22b09",
+    "artistMbid": "04271c28-b9a7-4724-b7fd-022409fbce60",
+    "releaseCount": 14,
+    "genres": [
+      "acid jazz",
+      "hard bop",
+      "jazz",
+      "jazz rock",
+      "latin jazz",
+      "smooth jazz",
+      "soul jazz"
+    ],
+    "artistGenres": [
+      "jazz",
+      "soul jazz"
     ]
   }
 }

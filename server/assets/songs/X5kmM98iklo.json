@@ -2,7 +2,7 @@
   "youtubeId": "X5kmM98iklo",
   "title": "Nur ein Wort",
   "artist": "Wir sind Helden",
-  "lastFetched": "2025-11-24T00:22:41.474Z",
+  "lastFetched": "2025-11-30T21:37:50.061Z",
   "odesli": {
     "amazonMusic": "B0F1NM1DL4",
     "amazonStore": "B0F1NM1DL4",
@@ -28,6 +28,24 @@
       "german",
       "pop",
       "deutschrock",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f445d9ce-336c-4d20-8988-335cf219f351",
+    "artistMbid": "908fedf4-548a-430f-b806-38fca9507dc4",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "indie pop",
+      "indie rock",
+      "pop",
+      "pop rock",
       "rock"
     ]
   }

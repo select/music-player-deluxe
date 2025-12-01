@@ -2,7 +2,7 @@
   "youtubeId": "clCAfLfPWM4",
   "title": "Here I Come",
   "artist": "Barrington Levy",
-  "lastFetched": "2025-11-19T09:10:38.850Z",
+  "lastFetched": "2025-11-30T23:22:56.374Z",
   "lastfm": {
     "id": "Barrington+Levy/_/Here+I+Come",
     "listeners": 216955,
@@ -15,6 +15,17 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "8ddf3da1-dfa9-490a-93cc-7d4072319995"
+    "artistMbid": "8ddf3da1-dfa9-490a-93cc-7d4072319995",
+    "trackMbid": "e61a0c95-fb30-44dd-a592-85e58d47645d",
+    "releaseCount": 4,
+    "genres": [
+      "dancehall",
+      "dub",
+      "reggae"
+    ],
+    "artistGenres": [
+      "dancehall",
+      "reggae"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "F8BgfqVE-kY",
   "title": "Wagon Christ - 'Shadows'",
-  "lastFetched": "2025-11-26T11:02:22.220Z",
+  "lastFetched": "2025-11-30T21:33:22.977Z",
   "ai": {
     "title": "Shadows",
     "artist": "Wagon Christ"
@@ -20,6 +20,26 @@
       "trip-hop",
       "electronic",
       "chillout"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ed8b512e-1915-40e7-864e-bd2316b1d842",
+    "artistMbid": "991b8af4-328a-4441-8dc5-f7af0c89af08",
+    "releaseCount": 5,
+    "genres": [
+      "chillout",
+      "downtempo",
+      "electronic",
+      "idm",
+      "leftfield",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "acid techno",
+      "drum and bass",
+      "electronic",
+      "idm",
+      "trip hop"
     ]
   }
 }

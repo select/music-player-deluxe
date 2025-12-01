@@ -1,7 +1,7 @@
 {
   "youtubeId": "OLocofneof4",
   "title": "Aspettami",
-  "lastFetched": "2025-11-28T18:35:21.977Z",
+  "lastFetched": "2025-11-30T20:03:55.002Z",
   "ai": {
     "title": "Aspettami",
     "artist": "I Muvrini"
@@ -35,6 +35,15 @@
     "tags": [
       "world",
       "corsica"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1bf09f5c-f107-4b87-80a7-ccb663372844",
+    "artistMbid": "42e8e932-4eb2-4ec0-8d6a-83bd19e7ec8f",
+    "releaseCount": 3,
+    "artistGenres": [
+      "folk",
+      "worldbeat"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "7Y9wUGv8VkQ",
   "title": "INEUNTE FINIS",
   "artist": "Mario Batkovic",
-  "lastFetched": "2025-11-23T19:33:58.380Z",
+  "lastFetched": "2025-11-30T21:55:14.792Z",
   "lastfm": {
     "id": "Mario+Batkovic/_/Ineunte+finis",
     "listeners": 76,
@@ -18,5 +18,10 @@
       "accordion",
       "post-minimalism"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "176cffaf-bbe6-4260-9b76-a9c7bcf3960d",
+    "artistMbid": "a254e02f-2b07-49f2-a2e7-a41ac05a40e8",
+    "releaseCount": 1
   }
 }

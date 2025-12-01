@@ -1,7 +1,7 @@
 {
   "youtubeId": "boj3A39XBxc",
   "title": "Zombie Barricades By The Company Band",
-  "lastFetched": "2025-11-27T12:00:25.917Z",
+  "lastFetched": "2025-11-30T20:24:22.489Z",
   "ai": {
     "title": "Zombie Barricades",
     "artist": "The Company Band"
@@ -17,6 +17,23 @@
     "tags": [
       "stoner rock",
       "hard rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bb222b4a-92ad-4753-8801-a86f5f811a42",
+    "artistMbid": "b08b727c-8788-49af-a8a9-1e45c35fa07b",
+    "releaseCount": 2,
+    "genres": [
+      "hard rock",
+      "rock",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "hard rock",
+      "heavy metal",
+      "rock",
+      "stoner rock"
     ]
   }
 }

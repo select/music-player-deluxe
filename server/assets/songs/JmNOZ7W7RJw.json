@@ -2,7 +2,7 @@
   "youtubeId": "JmNOZ7W7RJw",
   "title": "3 Uhr Nachts",
   "artist": "MEHNERSMOOS",
-  "lastFetched": "2025-11-23T19:33:00.119Z",
+  "lastFetched": "2025-11-30T22:00:04.434Z",
   "odesli": {
     "amazonMusic": "B09RZGRJ51",
     "amazonStore": "B09RZGRJ51",
@@ -27,6 +27,14 @@
       "hip hop",
       "hip-hop",
       "asozialster gangstarap"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3f023fc1-ef9c-4e31-b274-fe544b06aca3",
+    "artistMbid": "bbf47ed4-c76f-4b5d-9d64-257fc0d066a0",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

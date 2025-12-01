@@ -2,7 +2,7 @@
   "youtubeId": "DU-RuR-qO4Y",
   "title": "Democracy",
   "artist": "Leonard Cohen",
-  "lastFetched": "2025-11-23T19:32:04.007Z",
+  "lastFetched": "2025-11-30T22:05:09.497Z",
   "odesli": {
     "amazonMusic": "B00136LHNY",
     "amazonStore": "B00136LHNY",
@@ -28,6 +28,31 @@
       "leonard cohen",
       "folk",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cb970ecf-215f-43d4-8b2c-24ff99a72194",
+    "artistMbid": "65314b12-0e08-43fa-ba33-baaa7b874c15",
+    "releaseCount": 18,
+    "genres": [
+      "ballad",
+      "contemporary folk",
+      "folk",
+      "folk rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "contemporary folk",
+      "folk",
+      "folk rock",
+      "poetry",
+      "pop",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

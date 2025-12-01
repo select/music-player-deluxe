@@ -2,7 +2,7 @@
   "youtubeId": "2Wy26XWXse0",
   "title": "Moody Bandz",
   "artist": "B.o.B",
-  "lastFetched": "2025-11-19T17:16:33.401Z",
+  "lastFetched": "2025-11-30T22:39:42.603Z",
   "odesli": {
     "amazonMusic": "B0BYMDHDG6",
     "amazonStore": "B0BYMDHDG6",
@@ -31,6 +31,22 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "94c338ff-1985-4429-9dc8-997b61bb5932"
+    "artistMbid": "94c338ff-1985-4429-9dc8-997b61bb5932",
+    "trackMbid": "e7a9eb21-4f8d-40e9-8d45-4eed3cc5d285",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative hip hop",
+      "alternative rock",
+      "conscious hip hop",
+      "contemporary r&b",
+      "dirty south",
+      "future bass",
+      "hip hop",
+      "pop rap",
+      "pop rock",
+      "r&b",
+      "southern hip hop",
+      "trap"
+    ]
   }
 }

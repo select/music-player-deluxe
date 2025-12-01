@@ -2,7 +2,7 @@
   "youtubeId": "kZhIGtyyH7c",
   "title": "How to Explain",
   "artist": "The Cat Empire",
-  "lastFetched": "2025-11-28T18:36:40.206Z",
+  "lastFetched": "2025-11-30T20:09:24.863Z",
   "odesli": {
     "amazonMusic": "B0D3WJP6DV",
     "amazonStore": "B0D3WJP6DV",
@@ -24,6 +24,26 @@
       "latin",
       "alternative",
       "jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2edd194b-3ab9-4daf-af9b-052be5b92cba",
+    "artistMbid": "a530492f-8806-4bd7-9c14-80c237eb92fe",
+    "releaseCount": 2,
+    "genres": [
+      "dub",
+      "latin",
+      "punk",
+      "reggae",
+      "ska"
+    ],
+    "artistGenres": [
+      "acid jazz",
+      "folk",
+      "jazz",
+      "reggae",
+      "rock",
+      "ska"
     ]
   }
 }

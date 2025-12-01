@@ -1,7 +1,7 @@
 {
   "youtubeId": "-IWzad9VZsI",
   "title": "Black Pussy - Hello",
-  "lastFetched": "2025-11-26T10:56:16.355Z",
+  "lastFetched": "2025-11-30T20:46:51.340Z",
   "ai": {
     "title": "Hello",
     "artist": "Black Pussy"
@@ -19,6 +19,20 @@
       "psychedelic rock",
       "rock",
       "hard rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8b5fe941-ea67-4160-bc51-b6c42a825331",
+    "artistMbid": "e89f3d3d-ecce-40a7-bb05-96706d3ef518",
+    "releaseCount": 1,
+    "artistGenres": [
+      "boogie",
+      "classic rock",
+      "desert rock",
+      "pop",
+      "psychedelic",
+      "rock",
+      "stoner rock"
     ]
   }
 }

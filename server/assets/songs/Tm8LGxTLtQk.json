@@ -1,7 +1,7 @@
 {
   "youtubeId": "Tm8LGxTLtQk",
   "title": "One More Light [Official Music Video] - Linkin Park",
-  "lastFetched": "2025-11-27T12:02:07.841Z",
+  "lastFetched": "2025-11-30T20:34:17.989Z",
   "ai": {
     "title": "One More Light",
     "artist": "Linkin Park"
@@ -22,5 +22,24 @@
     "artist": "Linkin Park",
     "mbid": "5a08cd94-6e12-4092-afaf-bd1042bb033f",
     "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+  },
+  "musicbrainz": {
+    "trackMbid": "5a08cd94-6e12-4092-afaf-bd1042bb033f",
+    "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+    "releaseCount": 24,
+    "genres": [
+      "ambient pop",
+      "euro house",
+      "pop"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "metal",
+      "nu metal",
+      "rap metal",
+      "rap rock",
+      "rock"
+    ]
   }
 }

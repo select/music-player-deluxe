@@ -2,7 +2,7 @@
   "youtubeId": "lTfu2_iGud4",
   "title": "Miracle Fruit",
   "artist": "Molly Lewis",
-  "lastFetched": "2025-11-19T16:21:14.731Z",
+  "lastFetched": "2025-11-30T22:48:00.897Z",
   "odesli": {
     "amazonMusic": "B0B4YQ46T6",
     "amazonStore": "B0B4YQ46T6",
@@ -25,6 +25,11 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "be6d8ec2-7040-48d6-90c1-db70e47f423e"
+    "artistMbid": "8484e45b-c97b-4999-b0e3-d2df675877dd",
+    "trackMbid": "0f4599f0-783a-4120-ad78-6a414c29a249",
+    "releaseCount": 4,
+    "artistGenres": [
+      "folk pop"
+    ]
   }
 }

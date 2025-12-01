@@ -2,7 +2,7 @@
   "youtubeId": "skXlKxjlUoo",
   "title": "Bekhauf",
   "artist": "Bloodywood",
-  "lastFetched": "2025-11-23T19:32:55.924Z",
+  "lastFetched": "2025-11-30T22:00:19.445Z",
   "odesli": {
     "amazonMusic": "B0B7T7NWFT",
     "amazonStore": "B0B7T7NWFT",
@@ -28,6 +28,22 @@
     "artistMbid": "4e478f4f-a1e5-4ac9-84a3-f58f5c6454ab",
     "tags": [
       "indian nu metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "aae3b604-2827-4bba-9930-7e986b1d5508",
+    "artistMbid": "4e478f4f-a1e5-4ac9-84a3-f58f5c6454ab",
+    "releaseCount": 6,
+    "genres": [
+      "folk metal",
+      "nu metal",
+      "rock",
+      "trance metal"
+    ],
+    "artistGenres": [
+      "folk metal",
+      "metal",
+      "nu metal"
     ]
   }
 }

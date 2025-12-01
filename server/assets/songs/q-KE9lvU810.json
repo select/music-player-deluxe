@@ -2,7 +2,7 @@
   "youtubeId": "q-KE9lvU810",
   "title": "Cherub Rock",
   "artist": "The Smashing Pumpkins",
-  "lastFetched": "2025-11-24T00:22:22.034Z",
+  "lastFetched": "2025-11-30T21:41:31.871Z",
   "odesli": {
     "amazonMusic": "B0064Z8X54",
     "amazonStore": "B0064Z8X54",
@@ -30,6 +30,30 @@
       "grunge",
       "90s",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "76431415-6af8-4020-83d0-7dee639d44e4",
+    "artistMbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+    "releaseCount": 1,
+    "genres": [
+      "acoustic rock",
+      "alternative rock",
+      "glam",
+      "grunge",
+      "hard rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "dream pop",
+      "grunge",
+      "neo-psychedelia",
+      "progressive rock",
+      "rock",
+      "shoegaze",
+      "symphonic rock",
+      "synth-pop"
     ]
   }
 }

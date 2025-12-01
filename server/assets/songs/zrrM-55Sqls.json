@@ -2,7 +2,7 @@
   "youtubeId": "zrrM-55Sqls",
   "title": "Symphony of Pain",
   "artist": "Mono Inc.",
-  "lastFetched": "2025-11-28T12:13:32.711Z",
+  "lastFetched": "2025-11-30T20:21:21.893Z",
   "odesli": {
     "amazonMusic": "B079X28RF9",
     "amazonStore": "B079X28RF9",
@@ -24,6 +24,23 @@
       "gothic rock",
       "gothic",
       "mono inc"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "39556f0a-b188-442c-93b9-b624f2949249",
+    "artistMbid": "77cf7619-d032-4b59-bbde-512457bda41e",
+    "releaseCount": 11,
+    "genres": [
+      "dark wave",
+      "gothic",
+      "gothic metal",
+      "gothic rock",
+      "metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "gothic metal",
+      "gothic rock"
     ]
   }
 }

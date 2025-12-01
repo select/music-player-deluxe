@@ -2,7 +2,7 @@
   "youtubeId": "Fi7NdeGxRt0",
   "title": "My Woman",
   "artist": "Al Bowlly",
-  "lastFetched": "2025-11-23T14:59:33.935Z",
+  "lastFetched": "2025-11-30T22:29:11.307Z",
   "lastfm": {
     "title": "My Woman",
     "artist": "Al Bowlly",
@@ -19,5 +19,10 @@
       "winter in the summertime",
       "chambre meublee"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f6621e94-307f-468b-9955-501a7df21aa8",
+    "artistMbid": "f747a4ff-d54f-41b1-be56-97abcf1eb688",
+    "releaseCount": 1
   }
 }

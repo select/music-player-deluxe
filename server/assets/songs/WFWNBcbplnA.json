@@ -2,7 +2,7 @@
   "youtubeId": "WFWNBcbplnA",
   "title": "Hinterm Kreisel",
   "artist": "Sorry3000",
-  "lastFetched": "2025-11-23T13:56:21.308Z",
+  "lastFetched": "2025-11-30T22:51:02.917Z",
   "lastfm": {
     "title": "Hinterm Kreisel",
     "artist": "Sorry3000",
@@ -14,5 +14,10 @@
       "indie rock",
       "crank wave"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ee9f4fd2-018f-4d9b-9161-08ec167abc18",
+    "artistMbid": "56679701-0c2a-4ea2-b982-f05375ee1fd3",
+    "releaseCount": 1
   }
 }

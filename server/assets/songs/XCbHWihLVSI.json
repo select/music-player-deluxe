@@ -1,7 +1,7 @@
 {
   "youtubeId": "XCbHWihLVSI",
   "title": "'Elysium' A Phaeleh Mix",
-  "lastFetched": "2025-11-26T11:01:07.172Z",
+  "lastFetched": "2025-11-30T21:23:23.327Z",
   "ai": {
     "title": "Elysium",
     "artist": "Phaeleh"
@@ -16,6 +16,16 @@
       "electronic",
       "chillout",
       "dubstep"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a42c5f2f-ffa1-4c97-a762-5751e0a909c8",
+    "artistMbid": "caae4789-c38c-4803-8808-2886b37ca8f9",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ambient",
+      "electronic",
+      "electronica"
     ]
   }
 }

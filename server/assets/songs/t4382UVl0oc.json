@@ -2,7 +2,7 @@
   "youtubeId": "t4382UVl0oc",
   "title": "A Reason to Fight",
   "artist": "Disturbed",
-  "lastFetched": "2025-11-29T13:47:27.171Z",
+  "lastFetched": "2025-11-30T19:44:00.751Z",
   "odesli": {
     "amazonMusic": "B07VLHXXJG",
     "amazonStore": "B07VLHXXJG",
@@ -33,6 +33,20 @@
       "rock",
       "alternative",
       "heavy metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "85f69c89-c91c-430c-a6e2-d552da355861",
+    "artistMbid": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5",
+    "releaseCount": 13,
+    "artistGenres": [
+      "alternative metal",
+      "hard rock",
+      "heavy metal",
+      "industrial rock",
+      "metal",
+      "nu metal",
+      "rock"
     ]
   }
 }

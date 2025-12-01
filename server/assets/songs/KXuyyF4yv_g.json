@@ -2,7 +2,7 @@
   "youtubeId": "KXuyyF4yv_g",
   "title": "Hijack the Barber",
   "artist": "King Tubby",
-  "lastFetched": "2025-11-23T15:09:45.578Z",
+  "lastFetched": "2025-11-30T22:26:32.883Z",
   "odesli": {
     "amazonMusic": "B00JRE1YJQ",
     "amazonStore": "B00JRE1YJQ",
@@ -23,6 +23,20 @@
     "tags": [
       "dub",
       "reggae"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7cc2cfc6-1f7a-4b3e-9088-3bc736d72d16",
+    "artistMbid": "576134a6-9f1f-4bfa-af04-4848195849ca",
+    "releaseCount": 3,
+    "genres": [
+      "dub",
+      "reggae"
+    ],
+    "artistGenres": [
+      "dub",
+      "reggae",
+      "roots reggae"
     ]
   }
 }

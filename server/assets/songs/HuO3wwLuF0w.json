@@ -2,7 +2,7 @@
   "youtubeId": "HuO3wwLuF0w",
   "title": "Kerosene",
   "artist": "Big Black",
-  "lastFetched": "2025-11-23T15:07:11.568Z",
+  "lastFetched": "2025-11-30T22:27:24.576Z",
   "odesli": {
     "anghami": "24383209",
     "pandora": "TR:7907203",
@@ -23,6 +23,29 @@
       "80s",
       "industrial",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "01f91009-777b-40b2-9903-6b9f9bb518f2",
+    "artistMbid": "9463868f-edc8-427e-ac07-ea89698e5f15",
+    "releaseCount": 12,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "industrial",
+      "noise",
+      "post-hardcore",
+      "post-punk",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "industrial rock",
+      "noise rock",
+      "pigfuck",
+      "post-hardcore",
+      "post-punk",
+      "punk"
     ]
   }
 }

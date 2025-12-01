@@ -2,7 +2,7 @@
   "youtubeId": "LYdCzs5uPrI",
   "title": "Save Me",
   "artist": "Remy Zero",
-  "lastFetched": "2025-11-23T19:32:35.444Z",
+  "lastFetched": "2025-11-30T22:01:53.121Z",
   "lastfm": {
     "id": "Remy+Zero/_/Save+Me",
     "listeners": 226839,
@@ -17,6 +17,18 @@
       "alternative rock",
       "alternative",
       "soundtrack"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6ae21e3a-fbb2-4d1f-86a2-c9d971945685",
+    "artistMbid": "848a122b-9dcc-4ff7-91b8-e4f37b8f1147",
+    "releaseCount": 7,
+    "genres": [
+      "alternative rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock"
     ]
   }
 }

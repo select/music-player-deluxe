@@ -2,7 +2,7 @@
   "youtubeId": "Bwb6io8ZKCA",
   "title": "L'amour c'est pas pour les caniches",
   "artist": "Joakim",
-  "lastFetched": "2025-11-23T19:31:33.492Z",
+  "lastFetched": "2025-11-30T22:06:59.152Z",
   "odesli": {
     "amazonMusic": "B002HMZQKI",
     "amazonStore": "B002HMZQKI",
@@ -32,5 +32,10 @@
       "electropop",
       "dance"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8159e379-1e5b-49db-a30b-d16243da8397",
+    "artistMbid": "6ed9f05b-97f3-437b-ae52-6b6fee5ecc30",
+    "releaseCount": 1
   }
 }

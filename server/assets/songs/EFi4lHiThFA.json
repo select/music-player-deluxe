@@ -2,7 +2,7 @@
   "youtubeId": "EFi4lHiThFA",
   "title": "Contract",
   "artist": "Gang Of Four",
-  "lastFetched": "2025-11-23T19:31:55.923Z",
+  "lastFetched": "2025-11-30T22:05:39.868Z",
   "odesli": {
     "amazonMusic": "B08XLQGJY9",
     "amazonStore": "B08XLQGJY9",
@@ -32,6 +32,26 @@
       "post-punk",
       "70s",
       "new wave"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9ff9e9f6-2226-42d0-9a19-516a18cd7d34",
+    "artistMbid": "d8661c02-f423-4d72-8044-40ff05daf7a1",
+    "releaseCount": 22,
+    "genres": [
+      "new wave",
+      "post-punk",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "art punk",
+      "dance-punk",
+      "disco",
+      "funk",
+      "new wave",
+      "post-punk"
     ]
   }
 }

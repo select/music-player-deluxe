@@ -2,7 +2,7 @@
   "youtubeId": "3sxvNP6FHTw",
   "title": "Der Arpeggiator",
   "artist": "Erobique",
-  "lastFetched": "2025-11-19T12:49:56.972Z",
+  "lastFetched": "2025-11-30T23:07:33.052Z",
   "odesli": {
     "amazonMusic": "B0BZWPJ5M5",
     "amazonStore": "B0BZWPJ5M5",
@@ -25,6 +25,17 @@
       "german",
       "electro",
       "acid jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d56ba4d2-1398-4763-a624-714686805d8b",
+    "artistMbid": "609afe90-64f9-41eb-ad12-64130bf1016a",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dance",
+      "electronic",
+      "house",
+      "tech house"
     ]
   }
 }

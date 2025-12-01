@@ -1,7 +1,7 @@
 {
   "youtubeId": "dfkgdAwQE88",
   "title": "「Nightcore」→ GRRRLS (AViVA) - (Lyrics)",
-  "lastFetched": "2025-11-29T12:39:00.253Z",
+  "lastFetched": "2025-11-30T19:51:16.610Z",
   "ai": {
     "title": "GRRRLS",
     "artist": "AViVA"
@@ -21,5 +21,10 @@
       "desperate",
       "reggae pop"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "52bb90d8-63e5-4dec-8eeb-c7dd48dbea14",
+    "artistMbid": "6b787065-b524-4d5d-b7e4-4080316e1371",
+    "releaseCount": 3
   }
 }

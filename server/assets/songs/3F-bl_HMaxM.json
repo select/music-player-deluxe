@@ -2,7 +2,7 @@
   "youtubeId": "3F-bl_HMaxM",
   "title": "Bad K.",
   "artist": "Dritte Wahl",
-  "lastFetched": "2025-11-19T13:01:39.866Z",
+  "lastFetched": "2025-11-30T23:05:48.038Z",
   "odesli": {
     "amazonMusic": "B00C1YV6DI",
     "amazonStore": "B00C1YV6DI",
@@ -22,6 +22,19 @@
       "dritte wahl",
       "live recording",
       "k1r7m"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6b1f1d74-e56f-4ca6-b652-3858a6bbe7c2",
+    "artistMbid": "a1635236-1d0e-4ff3-b87b-216850cc421d",
+    "releaseCount": 5,
+    "genres": [
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "punk",
+      "punk rock"
     ]
   }
 }

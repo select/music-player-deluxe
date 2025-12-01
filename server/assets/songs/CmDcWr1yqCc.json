@@ -2,7 +2,7 @@
   "youtubeId": "CmDcWr1yqCc",
   "title": "1960 What?",
   "artist": "Gregory Porter",
-  "lastFetched": "2025-11-29T13:48:22.968Z",
+  "lastFetched": "2025-11-30T19:51:55.564Z",
   "odesli": {
     "amazonMusic": "B09TG3D3BL",
     "amazonStore": "B09TG3D3BL",
@@ -25,6 +25,28 @@
     "artistMbid": "7ac1e33f-0cdf-4e81-b914-41830700d746",
     "tags": [
       "jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "689c613a-632e-4919-9a89-17f40a96af11",
+    "artistMbid": "7ac1e33f-0cdf-4e81-b914-41830700d746",
+    "releaseCount": 3,
+    "genres": [
+      "jazz",
+      "vocal jazz"
+    ],
+    "artistGenres": [
+      "blues",
+      "contemporary jazz",
+      "easy listening",
+      "gospel",
+      "jazz",
+      "neo soul",
+      "soul",
+      "soul blues",
+      "soul jazz",
+      "traditional pop",
+      "vocal jazz"
     ]
   }
 }

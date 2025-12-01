@@ -1,7 +1,7 @@
 {
   "youtubeId": "qajFhFmDdho",
   "title": "Phaeleh - Fallen Light Full CD",
-  "lastFetched": "2025-11-26T11:01:09.107Z",
+  "lastFetched": "2025-11-30T21:23:26.647Z",
   "ai": {
     "title": "Fallen Light",
     "artist": "Phaeleh"
@@ -16,6 +16,22 @@
     "artistMbid": "caae4789-c38c-4803-8808-2886b37ca8f9",
     "tags": [
       "dubstep"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d18d4f72-5c2b-4f20-ad70-de5a17258401",
+    "artistMbid": "caae4789-c38c-4803-8808-2886b37ca8f9",
+    "releaseCount": 2,
+    "genres": [
+      "ambient",
+      "dubstep",
+      "electronic",
+      "grime"
+    ],
+    "artistGenres": [
+      "ambient",
+      "electronic",
+      "electronica"
     ]
   }
 }

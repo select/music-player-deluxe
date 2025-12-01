@@ -2,7 +2,7 @@
   "youtubeId": "EKS_VNmWCpU",
   "title": "32",
   "artist": "Cold Years",
-  "lastFetched": "2025-11-19T08:06:57.548Z",
+  "lastFetched": "2025-11-30T23:27:35.029Z",
   "odesli": {
     "amazonMusic": "B09SH51LY1",
     "amazonStore": "B09SH51LY1",
@@ -25,6 +25,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "8de5700e-668a-41f5-8859-573a7021abaf"
+    "artistMbid": "8de5700e-668a-41f5-8859-573a7021abaf",
+    "trackMbid": "9899192d-cd49-4f62-9b58-f29d9d49d83c",
+    "releaseCount": 1
   }
 }

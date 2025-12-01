@@ -1,7 +1,7 @@
 {
   "youtubeId": "Gc67C94wSx0",
   "title": "Dub FX 18/04/2009 'Society Gates'",
-  "lastFetched": "2025-11-29T12:39:13.122Z",
+  "lastFetched": "2025-11-30T19:53:09.364Z",
   "ai": {
     "title": "Society Gates",
     "artist": "Dub FX"
@@ -18,6 +18,27 @@
       "dubstep",
       "dub",
       "experimental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ac8e907f-c718-42d9-9443-3b3a9b1b91fd",
+    "artistMbid": "4623daa8-d17f-4e76-a39d-fd22408463f1",
+    "releaseCount": 1,
+    "genres": [
+      "downtempo",
+      "drum and bass",
+      "dub",
+      "dubstep",
+      "electronic",
+      "experimental",
+      "hip hop",
+      "reggae",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "beatboxing",
+      "dub",
+      "hip hop"
     ]
   }
 }

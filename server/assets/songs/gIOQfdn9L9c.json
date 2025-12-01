@@ -1,7 +1,7 @@
 {
   "youtubeId": "gIOQfdn9L9c",
   "title": "Pendulum Slam \"Video HD\"",
-  "lastFetched": "2025-11-30T17:25:18.895Z",
+  "lastFetched": "2025-11-30T19:37:53.514Z",
   "ai": {
     "title": "Slam",
     "artist": "Pendulum"
@@ -20,6 +20,29 @@
       "electronic",
       "drum n bass",
       "dnb"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "00468335-01ae-49b0-972c-584ae2f9b3ca",
+    "artistMbid": "beff21d3-88c7-4ee0-8b7a-40b6db22c6d7",
+    "releaseCount": 20,
+    "genres": [
+      "breakbeat",
+      "dancefloor drum and bass",
+      "drum and bass",
+      "electronic",
+      "halftime",
+      "jungle"
+    ],
+    "artistGenres": [
+      "dancefloor drum and bass",
+      "drum and bass",
+      "electro house",
+      "electronic",
+      "electronic rock",
+      "neurofunk",
+      "rock",
+      "techstep"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "exUFzd-VR1w",
   "title": "Beatsteaks - Hey Du (HQ) LIVE @ Rock am Ring 2011",
-  "lastFetched": "2025-11-28T18:38:40.430Z",
+  "lastFetched": "2025-11-30T20:17:11.120Z",
   "ai": {
     "title": "Hey Du",
     "artist": "Beatsteaks"
@@ -19,6 +19,22 @@
       "german lyrics",
       "german",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cbdc0f37-ebc0-4437-9894-7c92d5693234",
+    "artistMbid": "a9b88ebb-83aa-4ef7-b674-fabeb572c14e",
+    "releaseCount": 11,
+    "genres": [
+      "alternative rock",
+      "pop punk",
+      "punk",
+      "punk rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "rock"
     ]
   }
 }

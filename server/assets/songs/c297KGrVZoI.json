@@ -2,7 +2,7 @@
   "youtubeId": "c297KGrVZoI",
   "title": "Get Physical",
   "artist": "Culture Shock",
-  "lastFetched": "2025-11-30T17:44:36.631Z",
+  "lastFetched": "2025-11-30T19:33:26.901Z",
   "odesli": {
     "amazonMusic": "B0DZTDJJXR",
     "amazonStore": "B0DZTDJJXR",
@@ -19,5 +19,16 @@
     "artist": "Culture Shock",
     "mbid": "4c5bcf23-69e1-42d7-a494-855bfc1bb57c",
     "artistMbid": "0068b96e-42d7-4d88-b3c1-a8299db93526"
+  },
+  "musicbrainz": {
+    "trackMbid": "2f16f0f5-6d45-479f-8a62-eb74a56df4c6",
+    "artistMbid": "0068b96e-42d7-4d88-b3c1-a8299db93526",
+    "releaseCount": 3,
+    "genres": [
+      "drum and bass"
+    ],
+    "artistGenres": [
+      "drum and bass"
+    ]
   }
 }

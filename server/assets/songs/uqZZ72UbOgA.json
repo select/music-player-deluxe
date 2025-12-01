@@ -2,7 +2,7 @@
   "youtubeId": "uqZZ72UbOgA",
   "title": "Badtimes",
   "artist": "Laika",
-  "lastFetched": "2025-11-19T14:12:12.398Z",
+  "lastFetched": "2025-11-30T23:00:06.003Z",
   "odesli": {
     "soundcloud": "laika-official/badtimes",
     "yandex": "6690415",
@@ -18,6 +18,22 @@
       "funny",
       "spoken word",
       "lounge"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5d7e526e-3589-4c4a-98e4-15088edf2ae9",
+    "artistMbid": "571a3166-8676-4e5d-b432-876aa98ea760",
+    "releaseCount": 2,
+    "genres": [
+      "downtempo",
+      "electronic",
+      "punk",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "electronic",
+      "experimental",
+      "post-rock"
     ]
   }
 }

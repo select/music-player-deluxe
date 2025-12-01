@@ -2,7 +2,7 @@
   "youtubeId": "OQDJO1sGbSA",
   "title": "Damien Darhk",
   "artist": "King Kashmere",
-  "lastFetched": "2025-11-19T15:45:08.233Z",
+  "lastFetched": "2025-11-30T22:52:14.334Z",
   "odesli": {
     "amazonMusic": "B0C2CVQGP2",
     "amazonStore": "B0C2CVQGP2",
@@ -20,5 +20,10 @@
       "uk",
       "united kingdom"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7e0d51e5-03f2-41db-a594-5a0792e64145",
+    "artistMbid": "1727c1c8-8cb1-4fa4-948f-d6e1f390cbd2",
+    "releaseCount": 1
   }
 }

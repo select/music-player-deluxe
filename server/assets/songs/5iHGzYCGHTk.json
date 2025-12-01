@@ -2,7 +2,7 @@
   "youtubeId": "5iHGzYCGHTk",
   "title": "Stamp You Out",
   "artist": "ist ist",
-  "lastFetched": "2025-11-19T10:23:37.326Z",
+  "lastFetched": "2025-11-30T23:20:09.932Z",
   "odesli": {
     "amazonMusic": "B0B919DKV6",
     "amazonStore": "B0B919DKV6",
@@ -28,6 +28,14 @@
       "yes",
       "all",
       "ist ist"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "731aba30-dc59-4540-9cc8-08412c43d633",
+    "artistMbid": "5e93a77b-486e-4cb1-a2e9-9da26e6d0d3b",
+    "releaseCount": 4,
+    "artistGenres": [
+      "post-punk"
     ]
   }
 }

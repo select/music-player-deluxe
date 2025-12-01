@@ -2,7 +2,7 @@
   "youtubeId": "EnNgASBdCeo",
   "title": "Sir Duke",
   "artist": "Stevie Wonder",
-  "lastFetched": "2025-11-19T06:02:38.967Z",
+  "lastFetched": "2025-11-30T23:37:56.346Z",
   "odesli": {
     "amazonMusic": "B07RDMSQS6",
     "amazonStore": "B07RDMSQS6",
@@ -29,7 +29,27 @@
       "motown",
       "pop"
     ],
-    "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e"
+    "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+    "trackMbid": "05b6bdda-3219-4756-af17-d0d9cdcdb104",
+    "releaseCount": 25,
+    "genres": [
+      "contemporary r&b",
+      "funk",
+      "jazz fusion",
+      "jazz-funk",
+      "motown",
+      "pop",
+      "pop soul",
+      "r&b",
+      "soul"
+    ],
+    "artistGenres": [
+      "contemporary r&b",
+      "funk",
+      "pop",
+      "pop soul",
+      "soul"
+    ]
   },
   "lastfm": {
     "id": "Stevie+Wonder/_/Sir+Duke",

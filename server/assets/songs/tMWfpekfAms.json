@@ -2,7 +2,7 @@
   "youtubeId": "tMWfpekfAms",
   "title": "Shining",
   "artist": "Peace Orchestra",
-  "lastFetched": "2025-11-23T14:47:19.106Z",
+  "lastFetched": "2025-11-30T22:32:22.357Z",
   "odesli": {
     "amazonMusic": "B07L5PVN7V",
     "amazonStore": "B07L5PVN7V",
@@ -25,6 +25,18 @@
       "trip-hop",
       "electronic",
       "ambient"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9456e5d3-c6cc-4b81-ba97-d5c520be6436",
+    "artistMbid": "334cd452-8833-4da4-8f14-90136cb0492f",
+    "releaseCount": 2,
+    "genres": [
+      "chillout",
+      "downtempo",
+      "electronic",
+      "nu jazz",
+      "trip hop"
     ]
   }
 }

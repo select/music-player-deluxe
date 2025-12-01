@@ -2,7 +2,7 @@
   "youtubeId": "IF1lYMiBcWc",
   "title": "Nobody Wants to Die",
   "artist": "Rival Sons",
-  "lastFetched": "2025-11-19T10:38:52.090Z",
+  "lastFetched": "2025-11-30T23:18:04.073Z",
   "odesli": {
     "amazonMusic": "B0BHXCD6X2",
     "amazonStore": "B0BHXCD6X2",
@@ -27,6 +27,13 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "2aff9c10-2145-4851-a656-898aeb434ad5"
+    "artistMbid": "2aff9c10-2145-4851-a656-898aeb434ad5",
+    "trackMbid": "a685036a-8dc7-4e8e-99e0-312564df6790",
+    "releaseCount": 6,
+    "artistGenres": [
+      "blues rock",
+      "hard rock",
+      "rock"
+    ]
   }
 }

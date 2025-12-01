@@ -2,7 +2,7 @@
   "youtubeId": "XW53pEakxnU",
   "title": "Happy",
   "artist": "Dead Kittens",
-  "lastFetched": "2025-11-19T06:07:44.122Z",
+  "lastFetched": "2025-11-30T23:37:12.519Z",
   "odesli": {
     "amazonMusic": "B079DVRZD7",
     "amazonStore": "B079DVRZD7",
@@ -20,6 +20,8 @@
     "playcount": 971
   },
   "musicbrainz": {
-    "artistMbid": "29c1b5d5-c7c4-470a-af70-daba4e94ff8b"
+    "artistMbid": "29c1b5d5-c7c4-470a-af70-daba4e94ff8b",
+    "trackMbid": "3e3cf744-07ff-4dfe-9ac3-ca78e7863161",
+    "releaseCount": 1
   }
 }

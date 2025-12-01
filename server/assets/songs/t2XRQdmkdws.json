@@ -2,7 +2,7 @@
   "youtubeId": "t2XRQdmkdws",
   "title": "Tropical Eel",
   "artist": "Jimi Tenor",
-  "lastFetched": "2025-11-27T12:05:10.317Z",
+  "lastFetched": "2025-11-30T21:00:26.196Z",
   "odesli": {
     "amazonMusic": "B01BSVX90C",
     "amazonStore": "B01BSVX90C",
@@ -28,6 +28,16 @@
       "finnish",
       "jazz",
       "experimental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "976a60ed-ecd4-4bb1-af2c-24af0ecbd39a",
+    "artistMbid": "41521210-ef91-49cc-9b0b-55ca8f9f053c",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ambient techno",
+      "electronic",
+      "electronica"
     ]
   }
 }

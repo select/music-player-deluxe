@@ -2,7 +2,7 @@
   "youtubeId": "lSduZowAEXM",
   "title": "Es Historia",
   "artist": "Satélite Kingston",
-  "lastFetched": "2025-11-27T12:04:14.100Z",
+  "lastFetched": "2025-11-30T20:51:18.399Z",
   "odesli": {
     "amazonMusic": "B0DHCGKX45",
     "amazonStore": "B0DHCGKX45",
@@ -22,6 +22,14 @@
       "ska",
       "argentina",
       "reggae"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8046f74d-14f5-4ba5-b8fd-262f598de78b",
+    "artistMbid": "45283016-1cf7-4bf8-a60b-2449634c9be2",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ska"
     ]
   }
 }

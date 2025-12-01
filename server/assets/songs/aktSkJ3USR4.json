@@ -2,7 +2,7 @@
   "youtubeId": "aktSkJ3USR4",
   "title": "Red Town",
   "artist": "Gentleman",
-  "lastFetched": "2025-11-27T12:05:16.565Z",
+  "lastFetched": "2025-11-30T21:01:13.878Z",
   "odesli": {
     "amazonMusic": "B0FJ91HKKN",
     "amazonStore": "B0FJ91HKKN",
@@ -28,6 +28,14 @@
       "dancehall",
       "german",
       "ragga"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "51ded3aa-f6d4-4fd3-b298-2a2358c8ae18",
+    "artistMbid": "8de4a831-7c25-4d34-90cf-254de0c36e49",
+    "releaseCount": 2,
+    "artistGenres": [
+      "reggae"
     ]
   }
 }

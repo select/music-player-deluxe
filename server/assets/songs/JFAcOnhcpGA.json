@@ -1,7 +1,7 @@
 {
   "youtubeId": "JFAcOnhcpGA",
   "title": "Atlas, Rise!",
-  "lastFetched": "2025-11-26T11:01:47.406Z",
+  "lastFetched": "2025-11-30T21:27:17.164Z",
   "ai": {
     "title": "Atlas, Rise!",
     "artist": "Metallica"
@@ -34,6 +34,17 @@
       "heavy metal",
       "thrash metal",
       "metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "348336b5-4a9f-40a6-9b94-ca9ee6c73941",
+    "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "thrash metal"
     ]
   }
 }

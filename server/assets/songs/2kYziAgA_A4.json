@@ -2,7 +2,7 @@
   "youtubeId": "2kYziAgA_A4",
   "title": "Black (Trentemøller Remix)",
   "artist": "The Soft Moon",
-  "lastFetched": "2025-11-19T15:44:07.345Z",
+  "lastFetched": "2025-11-30T22:52:18.013Z",
   "odesli": {
     "amazonMusic": "B0FG8ZYMPM",
     "amazonStore": "B0FG8ZYMPM",
@@ -17,6 +17,17 @@
     "playcount": 4925,
     "tags": [
       "post neo kraftwerk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9c4f8608-fc0f-4d0b-a296-8b5739d102e0",
+    "artistMbid": "93eba14e-f85c-4d39-8412-5e4018c89d75",
+    "releaseCount": 3,
+    "artistGenres": [
+      "alternative rock",
+      "dark wave",
+      "noise rock",
+      "post-punk"
     ]
   }
 }

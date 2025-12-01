@@ -2,7 +2,7 @@
   "youtubeId": "7NSr2kYpAdM",
   "title": "The Orbiter",
   "artist": "Lizzard",
-  "lastFetched": "2025-11-28T12:13:37.453Z",
+  "lastFetched": "2025-11-30T20:21:56.846Z",
   "odesli": {
     "amazonMusic": "B06XFY1SBW",
     "amazonStore": "B06XFY1SBW",
@@ -29,6 +29,18 @@
       "alternative",
       "alternative rock",
       "dat riff"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9fbf46ef-ae46-4c97-9fd1-3463c9ad2300",
+    "artistMbid": "ac2b7da1-8cd9-4a10-b752-d656aca8edc4",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "art rock",
+      "experimental rock",
+      "metal",
+      "rock"
     ]
   }
 }

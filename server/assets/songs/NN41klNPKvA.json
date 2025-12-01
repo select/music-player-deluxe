@@ -2,7 +2,7 @@
   "youtubeId": "NN41klNPKvA",
   "title": "Marijuana",
   "artist": "Chrome Sparks",
-  "lastFetched": "2025-11-19T14:48:33.385Z",
+  "lastFetched": "2025-11-30T22:56:50.319Z",
   "odesli": {
     "amazonMusic": "B0CJT48822",
     "amazonStore": "B0CJT48822",
@@ -24,6 +24,15 @@
     "tags": [
       "electronic",
       "chillwave"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "aa6a2582-b3f2-44ca-b31d-76259223c96d",
+    "artistMbid": "138a2979-8c8a-4de5-8bfd-76f6227bd457",
+    "releaseCount": 6,
+    "genres": [
+      "chillwave",
+      "downtempo"
     ]
   }
 }

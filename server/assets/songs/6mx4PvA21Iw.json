@@ -2,7 +2,7 @@
   "youtubeId": "6mx4PvA21Iw",
   "title": "Returning",
   "artist": "Paul White",
-  "lastFetched": "2025-11-28T18:36:15.943Z",
+  "lastFetched": "2025-11-30T20:07:45.079Z",
   "odesli": {
     "amazonMusic": "B07B2WTP1M",
     "amazonStore": "B07B2WTP1M",
@@ -32,6 +32,14 @@
       "electronic",
       "experimental",
       "albums"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "19299bbc-a785-4d70-be40-0bb59fdca94f",
+    "artistMbid": "1e6ee12a-b6dd-4557-99a3-17261bc510f8",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

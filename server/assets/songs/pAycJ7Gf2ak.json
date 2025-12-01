@@ -1,7 +1,7 @@
 {
   "youtubeId": "pAycJ7Gf2ak",
   "title": "The Wiseguys - Oh La La",
-  "lastFetched": "2025-11-28T18:39:26.511Z",
+  "lastFetched": "2025-11-30T20:19:34.471Z",
   "ai": {
     "title": "Oh La La",
     "artist": "The Wiseguys"
@@ -19,6 +19,15 @@
       "hip-hop",
       "trip-hop",
       "turntablism"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fe660f05-0691-4a93-b146-f8ad1960bf98",
+    "artistMbid": "ca9b9b7b-5fd8-4760-91cb-9d6d1db245bd",
+    "releaseCount": 1,
+    "artistGenres": [
+      "big beat",
+      "breakbeat"
     ]
   }
 }

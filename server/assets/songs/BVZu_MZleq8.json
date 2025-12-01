@@ -2,7 +2,7 @@
   "youtubeId": "BVZu_MZleq8",
   "title": "One With The Sun",
   "artist": "3",
-  "lastFetched": "2025-11-26T10:58:03.063Z",
+  "lastFetched": "2025-11-30T21:07:18.974Z",
   "odesli": {
     "amazonMusic": "B005MVKWUK",
     "amazonStore": "B005MVKWUK",
@@ -23,6 +23,15 @@
     "mbid": "c8b7a243-26a6-3417-ba67-51feefc65b6e",
     "artistMbid": "3c23d0bd-b361-4456-ad79-ccc5643f3b93",
     "tags": [
+      "progressive rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "13e4f496-2e64-4213-9901-8af2f11d3a89",
+    "artistMbid": "3c23d0bd-b361-4456-ad79-ccc5643f3b93",
+    "releaseCount": 2,
+    "artistGenres": [
+      "crossover prog",
       "progressive rock"
     ]
   }

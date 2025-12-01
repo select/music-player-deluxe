@@ -1,7 +1,7 @@
 {
   "youtubeId": "s245ptHGM2I",
   "title": "Megan by Smoking Popes",
-  "lastFetched": "2025-11-26T10:56:33.657Z",
+  "lastFetched": "2025-11-30T20:50:20.698Z",
   "ai": {
     "title": "Megan",
     "artist": "Smoking Popes"
@@ -18,6 +18,23 @@
       "indie rock",
       "power pop",
       "pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8384810d-8879-4b3d-a37f-ca70d93363dc",
+    "artistMbid": "ecb5dec2-d9dd-428a-884d-74c9dd7c113a",
+    "releaseCount": 1,
+    "genres": [
+      "alternative rock",
+      "power pop",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "indie rock",
+      "pop punk",
+      "power pop",
+      "punk rock"
     ]
   }
 }

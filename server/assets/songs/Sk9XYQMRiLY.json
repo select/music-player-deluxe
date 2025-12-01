@@ -1,7 +1,7 @@
 {
   "youtubeId": "Sk9XYQMRiLY",
   "title": "Finally Moving",
-  "lastFetched": "2025-11-26T11:01:01.024Z",
+  "lastFetched": "2025-11-30T21:22:45.756Z",
   "ai": {
     "title": "Finally Moving",
     "artist": "Pretty Lights"
@@ -33,6 +33,21 @@
       "chillout triphop",
       "mellow",
       "chillout"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3b3aaac8-64e5-4574-8290-3002d199fb9c",
+    "artistMbid": "3a07764c-7cc5-42e9-8205-3de7532f4771",
+    "releaseCount": 3,
+    "genres": [
+      "electronic",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "electronic",
+      "hip hop",
+      "soul",
+      "trip hop"
     ]
   }
 }

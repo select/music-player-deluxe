@@ -2,7 +2,7 @@
   "youtubeId": "SXw4WdklnqQ",
   "title": "Eniko",
   "artist": "Arp",
-  "lastFetched": "2025-11-19T15:02:20.363Z",
+  "lastFetched": "2025-11-30T22:55:02.247Z",
   "odesli": {
     "amazonMusic": "B0DKR57BMG",
     "amazonStore": "B0DKR57BMG",
@@ -27,6 +27,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "79653a02-62a5-4be4-8a3c-7231b8cb614e"
+    "artistMbid": "79653a02-62a5-4be4-8a3c-7231b8cb614e",
+    "trackMbid": "2d9b6ea4-976b-4849-be6b-0763589593a1",
+    "releaseCount": 3
   }
 }

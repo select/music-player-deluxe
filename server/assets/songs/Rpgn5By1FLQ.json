@@ -2,7 +2,7 @@
   "youtubeId": "Rpgn5By1FLQ",
   "title": "Heartland",
   "artist": "Stick Figure",
-  "lastFetched": "2025-11-23T14:16:16.836Z",
+  "lastFetched": "2025-11-30T22:43:31.683Z",
   "lastfm": {
     "title": "Heartland",
     "artist": "Stick Figure",
@@ -13,6 +13,15 @@
     "playcount": 51716,
     "tags": [
       "cleoritz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fcb48a69-8a3a-4fe9-b25f-2c78a295d279",
+    "artistMbid": "0c124600-18da-4087-be0d-d7fb6a2526c6",
+    "releaseCount": 2,
+    "artistGenres": [
+      "dub",
+      "reggae"
     ]
   }
 }

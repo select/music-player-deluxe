@@ -1,7 +1,7 @@
 {
   "youtubeId": "o_l4Ab5FRwM",
   "title": "Wrong Side of Heaven",
-  "lastFetched": "2025-11-26T10:58:39.001Z",
+  "lastFetched": "2025-11-30T21:10:35.413Z",
   "ai": {
     "title": "Wrong Side Of Heaven",
     "artist": "Five Finger Death Punch"
@@ -35,6 +35,25 @@
       "heavy metal",
       "hard rock",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ba3467f4-9132-4de0-86db-ae4dca64bed5",
+    "artistMbid": "7e8571b1-7c5a-4739-bc51-73d422ee9d74",
+    "releaseCount": 17,
+    "genres": [
+      "alternative metal",
+      "death metal",
+      "heavy metal",
+      "metal",
+      "nu metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "groove metal",
+      "hard rock",
+      "heavy metal"
     ]
   }
 }

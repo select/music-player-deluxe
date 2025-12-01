@@ -2,7 +2,7 @@
   "youtubeId": "idJSzWhbvfc",
   "title": "Helpless",
   "artist": "Cleaners from Venus",
-  "lastFetched": "2025-11-23T19:31:57.249Z",
+  "lastFetched": "2025-11-30T22:05:26.730Z",
   "odesli": {
     "amazonMusic": "B07XNR7X45",
     "amazonStore": "B07XNR7X45",
@@ -24,6 +24,21 @@
       "neo-psychedelia",
       "jangle pop",
       "psychedelic pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d0951178-954d-4bd0-ab4f-07bea98bba8c",
+    "artistMbid": "1cf5f079-706d-4b1f-9de9-0bf8e298cc97",
+    "releaseCount": 5,
+    "artistGenres": [
+      "indie pop",
+      "jangle pop",
+      "lo-fi",
+      "neo-psychedelia",
+      "new wave",
+      "post-punk",
+      "psychedelic pop",
+      "singer-songwriter"
     ]
   }
 }

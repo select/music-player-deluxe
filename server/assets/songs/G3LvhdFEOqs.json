@@ -1,7 +1,7 @@
 {
   "youtubeId": "G3LvhdFEOqs",
   "title": "OZZY OSBOURNE - \"Mr. Crowley\" 1981 (Live Video)",
-  "lastFetched": "2025-11-30T17:35:25.251Z",
+  "lastFetched": "2025-11-30T19:33:09.519Z",
   "ai": {
     "title": "Mr. Crowley",
     "artist": "OZZY OSBOURNE"
@@ -22,5 +22,18 @@
     "artist": "Ozzy Osbourne",
     "mbid": "6cb97cad-6b49-36ab-970e-23e8c6a70432",
     "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934"
+  },
+  "musicbrainz": {
+    "trackMbid": "f494d086-a752-4c7f-9c08-a7e0a40fc4a0",
+    "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+    "releaseCount": 3,
+    "artistGenres": [
+      "glam metal",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "pop rock",
+      "symphonic rock"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "cwYQIw5sXC0",
   "title": "Noga Erez - Balkada - 12/6/2016 - Paste Studios, New York, NY",
-  "lastFetched": "2025-11-26T10:55:58.277Z",
+  "lastFetched": "2025-11-30T20:43:29.059Z",
   "ai": {
     "title": "Balkada",
     "artist": "Noga Erez"
@@ -20,6 +20,15 @@
       "female vocalists",
       "experimental",
       "2017"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cabff6cc-6e88-46f8-b9c2-b9cd38c80764",
+    "artistMbid": "06479724-ee7d-471e-a3d4-4554330a0293",
+    "releaseCount": 4,
+    "artistGenres": [
+      "electronic",
+      "pop"
     ]
   }
 }

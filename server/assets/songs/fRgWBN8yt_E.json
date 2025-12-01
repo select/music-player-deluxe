@@ -1,7 +1,7 @@
 {
   "youtubeId": "fRgWBN8yt_E",
   "title": "Ray Charles - Georgia On My Mind (The Orginal Song From The Albom)",
-  "lastFetched": "2025-11-26T11:00:38.937Z",
+  "lastFetched": "2025-11-30T21:21:19.930Z",
   "ai": {
     "title": "Georgia On My Mind",
     "artist": "Ray Charles"
@@ -21,6 +21,18 @@
       "blues",
       "ray charles",
       "piano"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2852059c-f2d7-4f1e-8158-2113d43687a4",
+    "artistMbid": "2ce02909-598b-44ef-a456-151ba0a3bd70",
+    "releaseCount": 3,
+    "artistGenres": [
+      "blues",
+      "jazz",
+      "jazz blues",
+      "r&b",
+      "soul"
     ]
   }
 }

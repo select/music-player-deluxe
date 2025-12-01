@@ -2,7 +2,7 @@
   "youtubeId": "I8-tGYPMfGQ",
   "title": "Bright Sunny Day",
   "artist": "The Streets",
-  "lastFetched": "2025-11-19T14:30:05.975Z",
+  "lastFetched": "2025-11-30T22:58:30.895Z",
   "odesli": {
     "amazonMusic": "B0CBKVVWRB",
     "amazonStore": "B0CBKVVWRB",
@@ -33,6 +33,12 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "6f607087-9c46-4bb2-a884-e4efc764554c"
+    "artistMbid": "6f607087-9c46-4bb2-a884-e4efc764554c",
+    "trackMbid": "29681dea-ee54-4da3-9ba9-97a149237b3d",
+    "releaseCount": 3,
+    "artistGenres": [
+      "hip hop",
+      "uk garage"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "Zge__luTQpc",
   "title": "Sphinx",
   "artist": "Harry Thumann",
-  "lastFetched": "2025-11-23T13:58:22.688Z",
+  "lastFetched": "2025-11-30T22:50:44.938Z",
   "lastfm": {
     "title": "Sphinx",
     "artist": "Harry Thumann",
@@ -17,6 +17,19 @@
       "electronic",
       "electronica",
       "20th century"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "aafa1563-97ce-40bd-b8a1-ca8b331ab902",
+    "artistMbid": "0657c568-a751-48c3-a758-63d3f7f1b3eb",
+    "releaseCount": 3,
+    "genres": [
+      "downtempo",
+      "electronic",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "disco"
     ]
   }
 }

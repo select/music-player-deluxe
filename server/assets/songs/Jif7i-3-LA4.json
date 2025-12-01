@@ -2,7 +2,7 @@
   "youtubeId": "Jif7i-3-LA4",
   "title": "KISS ME",
   "artist": "Kaeto",
-  "lastFetched": "2025-11-23T19:30:46.387Z",
+  "lastFetched": "2025-11-30T22:09:02.810Z",
   "odesli": {
     "amazonMusic": "B0D8QWCVN6",
     "amazonStore": "B0D8QWCVN6",
@@ -26,5 +26,10 @@
       "electronic",
       "indie pop"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "31d99340-b8bc-4af3-956c-37a9e2455890",
+    "artistMbid": "87a1ee3e-7ae2-4af4-8c16-883995453706",
+    "releaseCount": 1
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "JkfuBg2DhlM",
   "title": "Aquamarine",
   "artist": "Hand Habits",
-  "lastFetched": "2025-11-23T15:12:48.774Z",
+  "lastFetched": "2025-11-30T22:25:48.207Z",
   "odesli": {
     "amazonMusic": "B09BG9JN8B",
     "amazonStore": "B09BG9JN8B",
@@ -22,6 +22,15 @@
     "playcount": 119856,
     "tags": [
       "indie"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7d425c1d-91b6-48fa-849d-0b93296333f4",
+    "artistMbid": "a92d48e1-40a9-457d-971c-ddb748d78759",
+    "releaseCount": 3,
+    "artistGenres": [
+      "indie folk",
+      "singer-songwriter"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "TzgkwXjWuEg",
   "title": "Apple Of Sodom",
   "artist": "Marilyn Manson",
-  "lastFetched": "2025-11-23T19:34:45.391Z",
+  "lastFetched": "2025-11-30T21:50:50.662Z",
   "odesli": {
     "amazonMusic": "B07H156C7Y",
     "amazonStore": "B07H156C7Y",
@@ -30,6 +30,26 @@
       "industrial",
       "soundtrack",
       "industrial rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0c68288f-e18b-481f-9625-20c1bc4a8f7f",
+    "artistMbid": "5dfdca28-9ddc-4853-933c-8bc97d87beec",
+    "releaseCount": 17,
+    "genres": [
+      "dark wave",
+      "industrial",
+      "industrial rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "industrial",
+      "industrial metal",
+      "industrial rock",
+      "metal",
+      "nu metal",
+      "rock"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "n5w_mdUkrZ4",
   "title": "Change",
   "artist": "Linguistics",
-  "lastFetched": "2025-11-19T15:51:32.545Z",
+  "lastFetched": "2025-11-30T22:51:25.491Z",
   "odesli": {
     "amazonMusic": "B09MNFN1F2",
     "amazonStore": "B09MNFN1F2",
@@ -24,5 +24,10 @@
       "hip hop",
       "alternative rap"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ae6a10cf-00ca-4f3c-ae39-fb68467de13c",
+    "artistMbid": "8d949c1b-fc65-4434-8d9a-bd0767eb3f87",
+    "releaseCount": 1
   }
 }

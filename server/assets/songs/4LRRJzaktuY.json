@@ -2,7 +2,7 @@
   "youtubeId": "4LRRJzaktuY",
   "title": "Steppin Out",
   "artist": "Steel Pulse",
-  "lastFetched": "2025-11-23T19:32:28.890Z",
+  "lastFetched": "2025-11-30T22:02:43.330Z",
   "lastfm": {
     "id": "Steel+Pulse/_/Steppin+Out",
     "listeners": 2627,
@@ -12,6 +12,15 @@
     "tags": [
       "reggae",
       "rasta",
+      "roots reggae"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b9912964-2259-4e18-9546-c18cff6b3b11",
+    "artistMbid": "37367b2f-69e4-4df2-9e64-75ca6204764b",
+    "releaseCount": 1,
+    "artistGenres": [
+      "reggae",
       "roots reggae"
     ]
   }

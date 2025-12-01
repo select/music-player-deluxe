@@ -1,7 +1,7 @@
 {
   "youtubeId": "vTKsmmDQw4Y",
   "title": "Whiskey Myers - Stone (Audio)",
-  "lastFetched": "2025-11-27T11:59:58.983Z",
+  "lastFetched": "2025-11-30T20:22:01.800Z",
   "ai": {
     "title": "Stone",
     "artist": "Whiskey Myers"
@@ -19,6 +19,14 @@
       "rock",
       "southern rock",
       "ballad"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "33be393b-a2fa-41df-ad7f-c4a90876f117",
+    "artistMbid": "921e6603-320c-4dde-8611-3049332d2b61",
+    "releaseCount": 1,
+    "artistGenres": [
+      "southern rock"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "d5K3UgrPdbQ",
   "title": "Christmas in L.A.",
   "artist": "Vulfpeck",
-  "lastFetched": "2025-11-23T19:33:23.880Z",
+  "lastFetched": "2025-11-30T21:58:31.237Z",
   "odesli": {
     "amazonMusic": "B013NQUUXO",
     "amazonStore": "B013NQUUXO",
@@ -27,6 +27,15 @@
       "christmas",
       "theo katzman",
       "xmas"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fc582be1-7b7d-42ea-9783-5ddbb95a152b",
+    "artistMbid": "7d0e8067-10b9-4069-95dc-1110a0fbb877",
+    "releaseCount": 3,
+    "artistGenres": [
+      "funk",
+      "indie pop"
     ]
   }
 }

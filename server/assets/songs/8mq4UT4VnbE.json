@@ -2,7 +2,7 @@
   "youtubeId": "8mq4UT4VnbE",
   "title": "Minnie the Moocher",
   "artist": "Cab Calloway",
-  "lastFetched": "2025-11-19T06:07:13.197Z",
+  "lastFetched": "2025-11-30T23:37:29.406Z",
   "odesli": {
     "pandora": "TR:58167527",
     "soundcloud": "1227368620",
@@ -23,6 +23,14 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "315bd083-892b-4e76-a9f0-91a7408168fc"
+    "artistMbid": "315bd083-892b-4e76-a9f0-91a7408168fc",
+    "trackMbid": "54312fcd-ea07-4fd5-8658-9c789b7a8002",
+    "releaseCount": 2,
+    "artistGenres": [
+      "big band",
+      "jazz",
+      "swing",
+      "vocal jazz"
+    ]
   }
 }

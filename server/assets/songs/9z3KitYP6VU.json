@@ -1,7 +1,7 @@
 {
   "youtubeId": "9z3KitYP6VU",
   "title": "Yonderboi - All we go to hell",
-  "lastFetched": "2025-11-27T12:02:06.570Z",
+  "lastFetched": "2025-11-30T20:34:01.283Z",
   "ai": {
     "title": "All we go to hell",
     "artist": "Yonderboi"
@@ -20,6 +20,17 @@
       "chillout",
       "downtempo",
       "lounge"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7a1f4442-ae06-476b-85ce-7fa9810b44b5",
+    "artistMbid": "7fb62a5c-d1d8-40e5-ab30-dafe4f74b07e",
+    "releaseCount": 2,
+    "genres": [
+      "chillout",
+      "downtempo",
+      "electronic",
+      "trip hop"
     ]
   }
 }

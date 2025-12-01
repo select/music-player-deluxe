@@ -1,7 +1,7 @@
 {
   "youtubeId": "sWir94wTwS8",
   "title": "Deadsoul Tribe - The Gossamer Strand",
-  "lastFetched": "2025-11-26T10:58:05.830Z",
+  "lastFetched": "2025-11-30T21:07:34.704Z",
   "ai": {
     "title": "The Gossamer Strand",
     "artist": "Deadsoul Tribe"
@@ -18,6 +18,15 @@
       "progressive rock",
       "instrumental",
       "metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "63f0cbad-6f73-4c6e-ad6d-002fd95593af",
+    "artistMbid": "c98ca195-b19a-47a2-ab96-667cc21afd8b",
+    "releaseCount": 3,
+    "artistGenres": [
+      "progressive metal",
+      "progressive rock"
     ]
   }
 }

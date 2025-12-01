@@ -1,7 +1,7 @@
 {
   "youtubeId": "pYUcr43cxSY",
   "title": "Radio Tarifa en Vivo \"Sin Palabras\"",
-  "lastFetched": "2025-11-28T18:35:53.619Z",
+  "lastFetched": "2025-11-30T20:06:32.117Z",
   "ai": {
     "title": "Sin Palabras",
     "artist": "Radio Tarifa"
@@ -20,6 +20,15 @@
       "world beats",
       "top song radio",
       "crying song"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5920d389-89cc-4d50-8324-e1e8fae388fc",
+    "artistMbid": "bc3f048c-0cfe-4d92-b7a9-269e093e2231",
+    "releaseCount": 3,
+    "genres": [
+      "latin",
+      "rumba"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "xXx4iDzviZk",
   "title": "Reggins",
   "artist": "The Blackbyrds",
-  "lastFetched": "2025-11-23T14:13:12.822Z",
+  "lastFetched": "2025-11-30T22:44:50.322Z",
   "lastfm": {
     "title": "Reggins",
     "artist": "The Blackbyrds",
@@ -16,6 +16,22 @@
       "soul",
       "jazz-funk",
       "funk your ass up"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3aa987f9-487e-47a1-9c44-f9a4e7fe076e",
+    "artistMbid": "9e5aee7c-2dc8-48ab-b6f9-b050dc51e6fc",
+    "releaseCount": 3,
+    "genres": [
+      "funk",
+      "jazz",
+      "jazz-funk",
+      "soul"
+    ],
+    "artistGenres": [
+      "contemporary jazz",
+      "jazz fusion",
+      "jazz-funk"
     ]
   }
 }

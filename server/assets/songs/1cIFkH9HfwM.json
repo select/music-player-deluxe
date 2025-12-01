@@ -2,7 +2,7 @@
   "youtubeId": "1cIFkH9HfwM",
   "title": "Confrontation",
   "artist": "Speed Machine",
-  "lastFetched": "2025-11-28T12:14:43.691Z",
+  "lastFetched": "2025-11-30T20:41:09.080Z",
   "odesli": {
     "amazonMusic": "B0DCVYMWNR",
     "amazonStore": "B0DCVYMWNR",
@@ -22,6 +22,15 @@
     "tags": [
       "synthwave",
       "retrowave"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "122cfdb3-13b1-4dd4-88df-10d6f8246356",
+    "artistMbid": "aa09954b-67cc-4403-a4a5-3bb8bb4a9d6c",
+    "releaseCount": 1,
+    "artistGenres": [
+      "darksynth",
+      "synthwave"
     ]
   }
 }

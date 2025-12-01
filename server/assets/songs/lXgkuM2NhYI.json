@@ -2,7 +2,7 @@
   "youtubeId": "lXgkuM2NhYI",
   "title": "Heroes",
   "artist": "David Bowie",
-  "lastFetched": "2025-11-30T17:20:06.887Z",
+  "lastFetched": "2025-11-30T19:39:07.341Z",
   "odesli": {
     "amazonMusic": "B0FRNPGZL1",
     "amazonStore": "B0FRNPGZL1",
@@ -21,5 +21,21 @@
     "yandex": "37108062",
     "youtube": "lXgkuM2NhYI",
     "youtubeMusic": "lXgkuM2NhYI"
+  },
+  "musicbrainz": {
+    "trackMbid": "5d7f6705-4fd6-4e6c-a107-5aea0922edaf",
+    "artistMbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock",
+      "art pop",
+      "art rock",
+      "classic rock",
+      "glam rock",
+      "new wave",
+      "pop",
+      "pop rock",
+      "rock"
+    ]
   }
 }

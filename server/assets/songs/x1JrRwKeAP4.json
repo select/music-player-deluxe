@@ -2,7 +2,7 @@
   "youtubeId": "x1JrRwKeAP4",
   "title": "If I Was",
   "artist": "Midge Ure",
-  "lastFetched": "2025-11-23T19:33:59.527Z",
+  "lastFetched": "2025-11-30T21:55:11.236Z",
   "odesli": {
     "amazonMusic": "B0B3SF2L18",
     "amazonStore": "B0B3SF2L18",
@@ -29,6 +29,20 @@
       "new wave",
       "synthpop",
       "pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "566eed8a-98a1-4ff9-9a93-d690bd972497",
+    "artistMbid": "24cac374-29bd-499f-a0f8-72165d2f2f43",
+    "releaseCount": 4,
+    "artistGenres": [
+      "art pop",
+      "new romantic",
+      "new wave",
+      "pop",
+      "pop rock",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "DVBnZNMnksE",
   "title": "Hans Theessink - Walking the dog (live)",
-  "lastFetched": "2025-11-26T10:59:22.203Z",
+  "lastFetched": "2025-11-30T21:14:28.005Z",
   "ai": {
     "title": "Walking the dog",
     "artist": "Hans Theessink"
@@ -17,6 +17,20 @@
     "tags": [
       "blues",
       "folk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0a3c63a1-22c7-431d-8e76-3cd934b8ae10",
+    "artistMbid": "6529bf81-8dae-43e3-b9af-f4ac3bbbda79",
+    "releaseCount": 2,
+    "genres": [
+      "blues",
+      "country blues",
+      "delta blues",
+      "folk"
+    ],
+    "artistGenres": [
+      "blues"
     ]
   }
 }

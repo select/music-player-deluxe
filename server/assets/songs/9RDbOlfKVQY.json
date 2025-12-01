@@ -2,7 +2,7 @@
   "youtubeId": "9RDbOlfKVQY",
   "title": "Freakin' Out",
   "artist": "Graham Coxon",
-  "lastFetched": "2025-11-28T18:36:06.691Z",
+  "lastFetched": "2025-11-30T20:07:15.556Z",
   "odesli": {
     "amazonMusic": "B000THDPUG",
     "amazonStore": "B000THDPUG",
@@ -30,6 +30,18 @@
       "british",
       "rock",
       "britpop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ecf2e182-4189-4257-b671-79cd1f0b04a9",
+    "artistMbid": "fb56cc34-2ab1-4621-ac18-9bf2895e5f4f",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "contemporary folk",
+      "experimental rock",
+      "indie rock",
+      "singer-songwriter"
     ]
   }
 }

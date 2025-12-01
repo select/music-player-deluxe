@@ -1,7 +1,7 @@
 {
   "youtubeId": "KUDpc04r_QM",
   "title": "Pink Floyd - Have a Cigar",
-  "lastFetched": "2025-11-26T10:59:57.640Z",
+  "lastFetched": "2025-11-30T21:17:39.185Z",
   "ai": {
     "title": "Have a Cigar",
     "artist": "Pink Floyd"
@@ -21,5 +21,25 @@
     "title": "Have a Cigar",
     "artist": "Pink Floyd",
     "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47"
+  },
+  "musicbrainz": {
+    "trackMbid": "93cc9a19-7704-4210-83c8-993cc4e7d088",
+    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
+    "releaseCount": 3,
+    "artistGenres": [
+      "acid rock",
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "experimental rock",
+      "progressive",
+      "progressive rock",
+      "psychedelic",
+      "psychedelic pop",
+      "psychedelic rock",
+      "rock",
+      "rock opera",
+      "space rock"
+    ]
   }
 }

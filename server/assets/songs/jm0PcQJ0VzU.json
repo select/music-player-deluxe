@@ -2,7 +2,7 @@
   "youtubeId": "jm0PcQJ0VzU",
   "title": "The Tomb of Gilgamesh",
   "artist": "Tourniquet",
-  "lastFetched": "2025-11-29T13:48:32.503Z",
+  "lastFetched": "2025-11-30T19:53:21.576Z",
   "odesli": {
     "amazonMusic": "B007VL8BY8",
     "amazonStore": "B007VL8BY8",
@@ -24,6 +24,17 @@
       "use of a string ensemble",
       "minor key tonality",
       "paired vocal harmony"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8144a201-783d-4a72-b24f-5a18f5c4687a",
+    "artistMbid": "0770a42f-10e3-4204-8459-0c6fba885852",
+    "releaseCount": 1,
+    "artistGenres": [
+      "christian metal",
+      "metal",
+      "technical thrash metal",
+      "thrash metal"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "rvb6jRhHsEM",
   "title": "Superior",
   "artist": "Gentleman",
-  "lastFetched": "2025-11-27T12:05:28.272Z",
+  "lastFetched": "2025-11-30T21:04:55.585Z",
   "odesli": {
     "amazonMusic": "B07BJ9ZTY5",
     "amazonStore": "B07BJ9ZTY5",
@@ -27,6 +27,14 @@
       "reggae",
       "gentleman",
       "dancehall"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fcf219b7-0de3-4174-8831-ccb53a31091e",
+    "artistMbid": "8de4a831-7c25-4d34-90cf-254de0c36e49",
+    "releaseCount": 3,
+    "artistGenres": [
+      "reggae"
     ]
   }
 }

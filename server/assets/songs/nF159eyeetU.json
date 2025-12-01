@@ -2,7 +2,7 @@
   "youtubeId": "nF159eyeetU",
   "title": "Der Rattenfänger",
   "artist": "Hannes Wader",
-  "lastFetched": "2025-11-27T12:05:00.692Z",
+  "lastFetched": "2025-11-30T20:59:30.409Z",
   "odesli": {
     "amazonMusic": "B09L4DDYJN",
     "amazonStore": "B09L4DDYJN",
@@ -25,6 +25,16 @@
       "deutsch",
       "deutschland",
       "cantautor"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "840cf7bd-ac34-43b6-a0f0-780b9bbcfd2a",
+    "artistMbid": "f07b5d3a-b385-4244-ad6e-ea6b5ccbe1ae",
+    "releaseCount": 8,
+    "artistGenres": [
+      "folk",
+      "liedermacher",
+      "singer-songwriter"
     ]
   }
 }

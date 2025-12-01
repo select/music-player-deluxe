@@ -2,7 +2,7 @@
   "youtubeId": "FoD0rTRGaNE",
   "title": "WENN DU DUMM BiST",
   "artist": "FiNCH",
-  "lastFetched": "2025-11-24T00:21:53.018Z",
+  "lastFetched": "2025-11-30T21:44:57.547Z",
   "odesli": {
     "amazonMusic": "B0DSGHQHT4",
     "amazonStore": "B0DSGHQHT4",
@@ -33,6 +33,14 @@
       "screamo",
       "alternative",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f2bf97be-c6af-4766-82ed-8a2dc0ed1496",
+    "artistMbid": "92653164-7cbd-468f-afa3-b0baa3e05986",
+    "releaseCount": 5,
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "JkgMkZz71cw",
   "title": "Balkan Express",
-  "lastFetched": "2025-11-26T10:59:55.175Z",
+  "lastFetched": "2025-11-30T21:17:07.913Z",
   "ai": {
     "title": "Balkan Express",
     "artist": "Gramatik"
@@ -28,6 +28,20 @@
       "balkan",
       "swagsongs",
       "chrzanowiecki"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1a32bb59-8747-465f-9da8-bd25ca15477f",
+    "artistMbid": "9b62a8a3-fcd5-4b51-a970-0f08a440ed6d",
+    "releaseCount": 3,
+    "artistGenres": [
+      "boom bap",
+      "electronic",
+      "electronica",
+      "glitch hop",
+      "hip hop",
+      "instrumental hip hop",
+      "trip hop"
     ]
   }
 }

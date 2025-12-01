@@ -2,7 +2,7 @@
   "youtubeId": "Ec92Wa8zJs8",
   "title": "Find Me",
   "artist": "Sigma",
-  "lastFetched": "2025-11-28T12:13:59.234Z",
+  "lastFetched": "2025-11-30T20:31:37.325Z",
   "odesli": {
     "amazonMusic": "B01MQ1YIL7",
     "amazonStore": "B01MQ1YIL7",
@@ -27,6 +27,19 @@
       "dance",
       "featuring",
       "2016 single"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "441ec6d2-41e9-4d2d-93b4-a4665e5454fc",
+    "artistMbid": "89ec6f82-1ad7-42d5-983e-ebf90f6868c8",
+    "releaseCount": 14,
+    "genres": [
+      "pop",
+      "pop rock"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "electronic"
     ]
   }
 }

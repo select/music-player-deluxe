@@ -2,7 +2,7 @@
   "youtubeId": "4w16o5jkzx8",
   "title": "Hypnotic Drugstore",
   "artist": "Jimi Tenor",
-  "lastFetched": "2025-11-24T00:23:25.458Z",
+  "lastFetched": "2025-11-30T21:32:08.656Z",
   "odesli": {
     "amazonMusic": "B001E42G58",
     "amazonStore": "B001E42G58",
@@ -27,6 +27,16 @@
     "mbid": "6bf97de7-df84-3f13-bdc6-ea6b95a58019",
     "artistMbid": "41521210-ef91-49cc-9b0b-55ca8f9f053c",
     "tags": [
+      "electronica"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5ff10978-94a4-48c1-95e4-351d055fcb98",
+    "artistMbid": "41521210-ef91-49cc-9b0b-55ca8f9f053c",
+    "releaseCount": 3,
+    "artistGenres": [
+      "ambient techno",
+      "electronic",
       "electronica"
     ]
   }

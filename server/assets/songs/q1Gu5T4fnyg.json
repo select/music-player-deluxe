@@ -2,7 +2,7 @@
   "youtubeId": "q1Gu5T4fnyg",
   "title": "Diesel Not Petrol",
   "artist": "Sukh Knight",
-  "lastFetched": "2025-11-27T12:05:03.840Z",
+  "lastFetched": "2025-11-30T21:00:14.809Z",
   "odesli": {
     "amazonMusic": "B09GNWHDMR",
     "amazonStore": "B09GNWHDMR",
@@ -22,6 +22,17 @@
     "artistMbid": "48d248a5-9edb-4b05-a450-2f40971995eb",
     "tags": [
       "dubstep"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c5f86be6-2fb2-4071-a985-bf6b084285cf",
+    "artistMbid": "48d248a5-9edb-4b05-a450-2f40971995eb",
+    "releaseCount": 3,
+    "genres": [
+      "dance",
+      "drum and bass",
+      "dubstep",
+      "electronic"
     ]
   }
 }

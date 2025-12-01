@@ -2,7 +2,7 @@
   "youtubeId": "X28D2pAEDuk",
   "title": "Usurper",
   "artist": "Nxcre",
-  "lastFetched": "2025-11-23T15:55:42.616Z",
+  "lastFetched": "2025-11-30T22:15:00.623Z",
   "odesli": {
     "amazonMusic": "B0CVSHCMT2",
     "amazonStore": "B0CVSHCMT2",
@@ -30,5 +30,10 @@
     "tags": [
       "metal"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1f908800-f349-424b-8f39-3109040ea817",
+    "artistMbid": "74d6818a-813d-4b6a-a4e2-37d2bc6fdbe8",
+    "releaseCount": 1
   }
 }

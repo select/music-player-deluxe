@@ -2,7 +2,7 @@
   "youtubeId": "LKWXDEA04L0",
   "title": "Special Agent Man (Female Version)",
   "artist": "Gaznevada",
-  "lastFetched": "2025-11-23T14:30:30.144Z",
+  "lastFetched": "2025-11-30T22:38:43.662Z",
   "lastfm": {
     "title": "Special Agent Man (Female Version)",
     "artist": "Gaznevada",
@@ -16,6 +16,18 @@
       "italian",
       "punk",
       "italo disco"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cf17af8d-b0fc-4441-a759-b8231e3794d7",
+    "artistMbid": "1a33d6cc-3d18-4e5c-90f7-b025181e3f94",
+    "releaseCount": 3,
+    "artistGenres": [
+      "dance-punk",
+      "italo-disco",
+      "new wave",
+      "post-punk",
+      "punk rock"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "KwutTYA4oTQ",
   "title": "Wild West",
   "artist": "Lissie",
-  "lastFetched": "2025-11-23T19:35:31.984Z",
+  "lastFetched": "2025-11-30T21:47:07.224Z",
   "lastfm": {
     "id": "Lissie/_/Wild+West",
     "listeners": 19021,
@@ -16,6 +16,20 @@
       "2010s",
       "2016",
       "2016 single"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9c13fecc-0e83-4931-a9b4-517836094557",
+    "artistMbid": "ae7dc88a-f3c7-4008-9eb8-2aafda1be759",
+    "releaseCount": 2,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "country",
+      "folk",
+      "folk rock",
+      "rock"
     ]
   }
 }

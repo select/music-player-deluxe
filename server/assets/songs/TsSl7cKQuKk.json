@@ -1,7 +1,7 @@
 {
   "youtubeId": "TsSl7cKQuKk",
   "title": "Don't Need the Sunshine",
-  "lastFetched": "2025-11-28T18:09:34.919Z",
+  "lastFetched": "2025-11-30T20:03:03.629Z",
   "ai": {
     "title": "Don't Need The Sunshine",
     "artist": "Catatonia"
@@ -26,5 +26,19 @@
     "youtube": "TsSl7cKQuKk",
     "youtubeMusic": "TsSl7cKQuKk"
   },
-  "artist": "Catatonia"
+  "artist": "Catatonia",
+  "musicbrainz": {
+    "trackMbid": "6d20248c-eb98-40bc-864c-271289c9c4c4",
+    "artistMbid": "095b2041-4975-4ba3-a92e-53fa3459107f",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "britpop",
+      "indie rock",
+      "jangle pop",
+      "power pop",
+      "rock",
+      "trip hop"
+    ]
+  }
 }

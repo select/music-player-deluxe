@@ -2,7 +2,7 @@
   "youtubeId": "564u39PJfUI",
   "title": "Thunderstruck",
   "artist": "AC/DC",
-  "lastFetched": "2025-11-19T15:19:40.628Z",
+  "lastFetched": "2025-11-30T22:54:04.527Z",
   "musicbrainz": {
     "tags": [
       "hard rock",
@@ -11,7 +11,22 @@
       "heavy metal",
       "ACDC"
     ],
-    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1"
+    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+    "trackMbid": "04048199-60df-40c7-96a6-6e27fffa76d6",
+    "releaseCount": 8,
+    "genres": [
+      "blues rock",
+      "classic rock",
+      "hard rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "classic rock",
+      "hard rock",
+      "rock",
+      "rock and roll"
+    ]
   },
   "lastfm": {
     "id": "AC%2FDC/_/Thunderstruck",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "mWw500HI6L4",
   "title": "Liquid Visions - Pink Cloud",
-  "lastFetched": "2025-11-30T17:25:11.241Z",
+  "lastFetched": "2025-11-30T19:37:20.580Z",
   "ai": {
     "title": "Pink Cloud",
     "artist": "Liquid Visions"
@@ -18,5 +18,10 @@
     "tags": [
       "psychedelic rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2483fe97-bfd0-4e1a-97e4-8676465e5ab3",
+    "artistMbid": "2fe837f0-485a-4af0-afed-2125c636e884",
+    "releaseCount": 1
   }
 }

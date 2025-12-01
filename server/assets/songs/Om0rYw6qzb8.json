@@ -2,7 +2,7 @@
   "youtubeId": "Om0rYw6qzb8",
   "title": "HOTEL LOBBY (Unc & Phew)",
   "artist": "Quavo",
-  "lastFetched": "2025-11-19T03:10:14.009Z",
+  "lastFetched": "2025-11-30T23:42:55.892Z",
   "odesli": {
     "amazonMusic": "B0B1G21MXS",
     "amazonStore": "B0B1G21MXS",
@@ -22,7 +22,14 @@
       "takeoff",
       "life changing"
     ],
-    "artistMbid": "6143403a-df6c-429e-8ee6-ef869896b0da"
+    "artistMbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+    "trackMbid": "df08ae78-7255-4819-8f91-2f01390b3dcf",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hip hop",
+      "pop rap",
+      "trap"
+    ]
   },
   "lastfm": {
     "id": "Quavo/_/HOTEL+LOBBY+(Unc+&+Phew)",

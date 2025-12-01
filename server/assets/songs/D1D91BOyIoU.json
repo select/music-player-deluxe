@@ -2,7 +2,7 @@
   "youtubeId": "D1D91BOyIoU",
   "title": "Lowride",
   "artist": "Autechre",
-  "lastFetched": "2025-11-29T13:49:30.665Z",
+  "lastFetched": "2025-11-30T20:02:20.109Z",
   "odesli": {
     "amazonMusic": "B001E42FJ0",
     "amazonStore": "B001E42FJ0",
@@ -23,6 +23,30 @@
       "idm",
       "electronic",
       "ambient"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7ed5687c-d006-4dd3-9780-9f7200dfe6f1",
+    "artistMbid": "410c9baf-5469-44f6-9852-826524b80c61",
+    "releaseCount": 16,
+    "genres": [
+      "ambient",
+      "ambient techno",
+      "electronic",
+      "idm",
+      "techno"
+    ],
+    "artistGenres": [
+      "ambient techno",
+      "avant-garde",
+      "drill and bass",
+      "electronic",
+      "electronica",
+      "experimental",
+      "experimental electronic",
+      "glitch",
+      "idm",
+      "instrumental"
     ]
   }
 }

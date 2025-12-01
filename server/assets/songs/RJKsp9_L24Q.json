@@ -1,7 +1,7 @@
 {
   "youtubeId": "RJKsp9_L24Q",
   "title": "Deodato - Also sprach Zarathustra",
-  "lastFetched": "2025-11-26T11:00:00.197Z",
+  "lastFetched": "2025-11-30T21:17:49.584Z",
   "ai": {
     "title": "Also sprach Zarathustra",
     "artist": "Deodato"
@@ -19,6 +19,23 @@
       "instrumental",
       "70s",
       "fusion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "113e8dec-507c-43f5-96ac-4fdb74db4f8b",
+    "artistMbid": "4b6d948c-372d-44e0-ba09-a649cc0e5c76",
+    "releaseCount": 7,
+    "genres": [
+      "funk",
+      "instrumental",
+      "jazz",
+      "jazz fusion",
+      "jazz-funk",
+      "latin jazz",
+      "soul"
+    ],
+    "artistGenres": [
+      "jazz"
     ]
   }
 }

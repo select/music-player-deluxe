@@ -2,7 +2,7 @@
   "youtubeId": "rLiuL6GjtnM",
   "title": "Side By Side",
   "artist": "Raoul Vignal",
-  "lastFetched": "2025-11-23T14:17:17.458Z",
+  "lastFetched": "2025-11-30T22:43:17.177Z",
   "lastfm": {
     "title": "Side by side",
     "artist": "Raoul Vignal",
@@ -16,6 +16,19 @@
       "folk",
       "singer-songwriter",
       "acoustic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ff95a16b-6650-435f-8d9e-c4939f547247",
+    "artistMbid": "5993fc4d-38d3-474b-ae19-1d1d04fc0288",
+    "releaseCount": 3,
+    "artistGenres": [
+      "folk",
+      "indie folk",
+      "indie pop",
+      "pop",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

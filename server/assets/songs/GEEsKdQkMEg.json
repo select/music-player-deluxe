@@ -2,7 +2,7 @@
   "youtubeId": "GEEsKdQkMEg",
   "title": "Used to the Darkness",
   "artist": "Des Rocs",
-  "lastFetched": "2025-11-29T13:47:53.385Z",
+  "lastFetched": "2025-11-30T19:48:35.054Z",
   "odesli": {
     "amazonMusic": "B0BDTPK9QJ",
     "amazonStore": "B0BDTPK9QJ",
@@ -23,6 +23,16 @@
       "alternative rock",
       "soundtrack",
       "legacies"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "acd8ce28-53e9-4136-8bfc-de1e091b5c7a",
+    "artistMbid": "af9fd1b2-e4e7-48fb-8ccc-4cfcfed5f0c1",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "glam rock",
+      "hard rock"
     ]
   }
 }

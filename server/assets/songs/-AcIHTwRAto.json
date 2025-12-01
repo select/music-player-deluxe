@@ -2,7 +2,7 @@
   "youtubeId": "-AcIHTwRAto",
   "title": "Einfache Gefühle",
   "artist": "Das Lumpenpack",
-  "lastFetched": "2025-11-23T19:30:15.257Z",
+  "lastFetched": "2025-11-30T22:11:47.876Z",
   "odesli": {
     "amazonMusic": "B09YHXKH5H",
     "amazonStore": "B09YHXKH5H",
@@ -25,6 +25,14 @@
       "indie",
       "alternative",
       "comedy",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "35a857d5-4f24-4b8c-9ec4-1c701f319769",
+    "artistMbid": "52b08164-7002-4eb8-a68f-bd7f42d73346",
+    "releaseCount": 1,
+    "artistGenres": [
       "rock"
     ]
   }

@@ -2,7 +2,7 @@
   "youtubeId": "ltQRZ8QSskM",
   "title": "Herbalist",
   "artist": "EL SPEAKER",
-  "lastFetched": "2025-11-19T07:00:15.103Z",
+  "lastFetched": "2025-11-30T23:32:59.366Z",
   "odesli": {
     "amazonMusic": "B0BRKG61V5",
     "amazonStore": "B0BRKG61V5",
@@ -25,6 +25,15 @@
       "dubstep",
       "trap",
       "future bass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "75bb64d6-1944-4846-b0dd-80e05a6a6887",
+    "artistMbid": "ca62f739-2218-472e-acec-523cfb5cd796",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic",
+      "trap edm"
     ]
   }
 }

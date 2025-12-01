@@ -1,7 +1,7 @@
 {
   "youtubeId": "KnPL5OXSBNE",
   "title": "The Beach Boys - I Get Around",
-  "lastFetched": "2025-11-26T11:02:19.464Z",
+  "lastFetched": "2025-11-30T21:31:50.656Z",
   "ai": {
     "title": "I Get Around",
     "artist": "The Beach Boys"
@@ -21,6 +21,28 @@
       "oldies",
       "surf",
       "pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "251799e9-9a1b-4800-851f-db282122090e",
+    "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
+    "releaseCount": 4,
+    "genres": [
+      "baroque pop",
+      "sunshine pop",
+      "surf"
+    ],
+    "artistGenres": [
+      "baroque pop",
+      "classic rock",
+      "pop",
+      "pop rock",
+      "progressive pop",
+      "psychedelic pop",
+      "rock",
+      "sunshine pop",
+      "surf rock",
+      "vocal surf"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "T-fz6TAipqo",
   "title": "Day Dreaming",
   "artist": "Aretha Franklin",
-  "lastFetched": "2025-11-23T15:44:57.498Z",
+  "lastFetched": "2025-11-30T22:17:14.312Z",
   "odesli": {
     "amazonMusic": "B08VMTQ6HJ",
     "amazonStore": "B08VMTQ6HJ",
@@ -32,6 +32,30 @@
       "aretha franklin",
       "female vocalists",
       "70s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1a663707-4e6a-49e9-a50e-d9c98755c1dd",
+    "artistMbid": "2f9ecbed-27be-40e6-abca-6de49d50299e",
+    "releaseCount": 25,
+    "genres": [
+      "ballad",
+      "deep soul",
+      "gospel",
+      "pop",
+      "quiet storm",
+      "r&b",
+      "soul",
+      "southern soul"
+    ],
+    "artistGenres": [
+      "deep soul",
+      "gospel",
+      "jazz",
+      "quiet storm",
+      "r&b",
+      "soul",
+      "southern soul"
     ]
   }
 }

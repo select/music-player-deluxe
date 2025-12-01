@@ -2,7 +2,7 @@
   "youtubeId": "8kUktaEXFp0",
   "title": "Douce Kombass",
   "artist": "Henri Debs Quintet",
-  "lastFetched": "2025-11-19T17:03:45.953Z",
+  "lastFetched": "2025-11-30T22:42:36.202Z",
   "odesli": {
     "amazonMusic": "B07D3GR43P",
     "amazonStore": "B07D3GR43P",
@@ -28,6 +28,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "cf0906e1-e1e5-4cf8-a02f-96e41f8c3378"
+    "artistMbid": "cf0906e1-e1e5-4cf8-a02f-96e41f8c3378",
+    "trackMbid": "d848c19f-6d92-4516-a119-d477bea18ef7",
+    "releaseCount": 3
   }
 }

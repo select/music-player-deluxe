@@ -2,7 +2,7 @@
   "youtubeId": "702z28oCd7Y",
   "title": "It's A New Day",
   "artist": "SKULL SNAPS",
-  "lastFetched": "2025-11-23T15:43:25.337Z",
+  "lastFetched": "2025-11-30T22:18:01.250Z",
   "lastfm": {
     "title": "It's A New Day",
     "artist": "Skull Snaps",
@@ -14,5 +14,10 @@
     "tags": [
       "7soul"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "849c0eb0-8da6-4177-a8d8-49bed633d08e",
+    "artistMbid": "81da7b1c-9dd6-4fe2-aff5-a670b1d93622",
+    "releaseCount": 2
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "C08EgsQr1Ts",
   "title": "Vielfraß",
   "artist": "Odd Couple",
-  "lastFetched": "2025-11-28T18:37:09.498Z",
+  "lastFetched": "2025-11-30T20:11:38.069Z",
   "odesli": {
     "amazonMusic": "B0F5W9JFZ8",
     "amazonStore": "B0F5W9JFZ8",
@@ -28,5 +28,10 @@
       "psychedelic rock",
       "garage"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d6c905c3-0ab9-4957-a4eb-804814efda93",
+    "artistMbid": "b88f74b2-2eaa-45ae-81bb-f4612c8dad93",
+    "releaseCount": 1
   }
 }

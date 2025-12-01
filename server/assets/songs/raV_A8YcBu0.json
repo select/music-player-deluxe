@@ -2,7 +2,7 @@
   "youtubeId": "raV_A8YcBu0",
   "title": "One of These Days",
   "artist": "Pink Floyd",
-  "lastFetched": "2025-11-24T00:22:50.793Z",
+  "lastFetched": "2025-11-30T21:36:44.520Z",
   "odesli": {
     "amazonMusic": "B019HKJQ7G",
     "amazonStore": "B019HKJQ7G",
@@ -34,6 +34,32 @@
       "classic rock",
       "rock",
       "pink floyd"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "03ee853a-2ac2-4d2d-a82e-a6b03992fd95",
+    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
+    "releaseCount": 13,
+    "genres": [
+      "art rock",
+      "classic rock",
+      "hard rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "acid rock",
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "experimental rock",
+      "progressive",
+      "progressive rock",
+      "psychedelic",
+      "psychedelic pop",
+      "psychedelic rock",
+      "rock",
+      "rock opera",
+      "space rock"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "W3NU8GFzaRs",
   "title": "The Wave Pictures - I Love You Like a Madman",
-  "lastFetched": "2025-11-26T10:58:18.551Z",
+  "lastFetched": "2025-11-30T21:09:14.954Z",
   "ai": {
     "title": "I Love You Like a Madman",
     "artist": "The Wave Pictures"
@@ -21,6 +21,14 @@
       "party",
       "happy",
       "love song"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "39f564a3-d8cb-44fe-9286-709ae0ed90d4",
+    "artistMbid": "48a0672b-7852-490f-ae3f-3d4324e510ee",
+    "releaseCount": 2,
+    "artistGenres": [
+      "lo-fi"
     ]
   }
 }

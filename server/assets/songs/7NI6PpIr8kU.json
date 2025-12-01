@@ -1,7 +1,7 @@
 {
   "youtubeId": "7NI6PpIr8kU",
   "title": "13 - Hans Söllner -  Zeugnis",
-  "lastFetched": "2025-11-28T18:37:28.340Z",
+  "lastFetched": "2025-11-30T20:12:23.664Z",
   "ai": {
     "title": "Zeugnis",
     "artist": "Hans Söllner"
@@ -18,6 +18,14 @@
       "singer-songwriter",
       "german",
       "bavarian"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5b923987-cf04-44d0-99d2-da11e61e6550",
+    "artistMbid": "80abef74-04bc-40d6-a0b3-518cd4d13b54",
+    "releaseCount": 1,
+    "artistGenres": [
+      "reggae"
     ]
   }
 }

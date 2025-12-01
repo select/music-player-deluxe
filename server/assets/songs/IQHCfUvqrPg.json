@@ -1,7 +1,7 @@
 {
   "youtubeId": "IQHCfUvqrPg",
   "title": "KNARF RELLÖM ARKESTRA - Die Mieten Sind Zu Hoch (Dub Spencer & Trance Hill - Dub)",
-  "lastFetched": "2025-11-26T11:02:13.214Z",
+  "lastFetched": "2025-11-30T21:30:40.968Z",
   "ai": {
     "title": "Die Mieten Sind Zu Hoch",
     "artist": "KNARF RELLÖM ARKESTRA"
@@ -15,5 +15,10 @@
     "tags": [
       "indie pop"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "af8bbe2f-edb7-4f46-978d-ed4c2eb0e841",
+    "artistMbid": "f843b3ed-e342-4a4b-a935-eb3cbc9c7307",
+    "releaseCount": 1
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "_K-FES3tElg",
   "title": "Clutch - Big News I & II",
-  "lastFetched": "2025-11-28T18:38:39.098Z",
+  "lastFetched": "2025-11-30T20:17:02.141Z",
   "ai": {
     "title": "Big News I & II",
     "artist": "Clutch"
@@ -18,6 +18,17 @@
       "scif",
       "han solo",
       "pieces of eight"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3189337a-aba3-44a0-9af0-71d5dfa7b5cc",
+    "artistMbid": "0cdb0359-5698-487d-9aae-a25fb4dcdc4d",
+    "releaseCount": 0,
+    "artistGenres": [
+      "blues rock",
+      "hard rock",
+      "rock",
+      "stoner rock"
     ]
   }
 }

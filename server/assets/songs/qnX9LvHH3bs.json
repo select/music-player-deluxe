@@ -2,7 +2,7 @@
   "youtubeId": "qnX9LvHH3bs",
   "title": "Wherever You Are",
   "artist": "Urbs & Cutex",
-  "lastFetched": "2025-11-24T00:23:31.138Z",
+  "lastFetched": "2025-11-30T21:31:31.196Z",
   "odesli": {
     "amazonMusic": "B0F5X6MR9Y",
     "amazonStore": "B0F5X6MR9Y",
@@ -23,5 +23,10 @@
       "ninja tune",
       "jazz"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "773ecd38-d0fe-4102-80f0-e67f221d0d57",
+    "artistMbid": "2d9c81e4-10c0-45c8-9c92-24677872ef6b",
+    "releaseCount": 1
   }
 }

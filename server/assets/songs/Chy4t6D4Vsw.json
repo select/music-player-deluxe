@@ -1,7 +1,7 @@
 {
   "youtubeId": "Chy4t6D4Vsw",
   "title": "Ellie Goulding - Lights [Caizzz﻿ remix | HQ]",
-  "lastFetched": "2025-11-26T10:57:13.801Z",
+  "lastFetched": "2025-11-30T20:57:39.987Z",
   "ai": {
     "title": "Lights",
     "artist": "Ellie Goulding"
@@ -21,5 +21,34 @@
     "title": "Lights",
     "artist": "Ellie Goulding",
     "artistMbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5"
+  },
+  "musicbrainz": {
+    "trackMbid": "a0ca0dc6-15c5-4efa-a751-3117a9dec5e4",
+    "artistMbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+    "releaseCount": 10,
+    "genres": [
+      "alternative pop",
+      "dance-pop",
+      "electronic",
+      "electropop",
+      "indie pop",
+      "pop",
+      "rock",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "club",
+      "contemporary r&b",
+      "dance",
+      "dance-pop",
+      "dream pop",
+      "edm",
+      "electropop",
+      "indie folk",
+      "indie pop",
+      "indietronica",
+      "pop",
+      "synth-pop"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "3wk7C64kaP4",
   "title": "Zero",
   "artist": "The Smashing Pumpkins",
-  "lastFetched": "2025-11-19T05:52:27.262Z",
+  "lastFetched": "2025-11-30T23:38:48.237Z",
   "odesli": {
     "amazonMusic": "B000TDYWJI",
     "amazonStore": "B000TDYWJI",
@@ -31,6 +31,19 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396"
+    "artistMbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+    "trackMbid": "1ecf4f38-0fa9-4d36-ab17-b18326b2b2d1",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock",
+      "dream pop",
+      "grunge",
+      "neo-psychedelia",
+      "progressive rock",
+      "rock",
+      "shoegaze",
+      "symphonic rock",
+      "synth-pop"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "yjJL9DGU7Gg",
   "title": "Interstate Love Song",
-  "lastFetched": "2025-11-26T10:58:45.444Z",
+  "lastFetched": "2025-11-30T21:11:12.998Z",
   "ai": {
     "title": "Interstate Love Song",
     "artist": "Stone Temple Pilots"
@@ -41,6 +41,29 @@
       "rock",
       "alternative rock",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d0492d6f-1b67-41b3-b146-7368469c6360",
+    "artistMbid": "8c32bb01-58a3-453b-8050-8c0620edb0e5",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "new age",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "neo-psychedelia",
+      "post-grunge",
+      "power pop"
     ]
   }
 }

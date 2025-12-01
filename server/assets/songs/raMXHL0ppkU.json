@@ -2,7 +2,7 @@
   "youtubeId": "raMXHL0ppkU",
   "title": "Miserable",
   "artist": "Lit",
-  "lastFetched": "2025-11-28T12:13:46.476Z",
+  "lastFetched": "2025-11-30T20:25:51.306Z",
   "odesli": {
     "amazonMusic": "B004LETEC6",
     "amazonStore": "B004LETEC6",
@@ -23,6 +23,24 @@
       "90s",
       "alternative rock",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "689d8855-f061-4be7-b016-331d4d41feb8",
+    "artistMbid": "5ccb9a53-092d-4806-b337-470a582893d7",
+    "releaseCount": 15,
+    "genres": [
+      "post-grunge",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "noise rock",
+      "pop punk",
+      "post-grunge",
+      "power pop"
     ]
   }
 }

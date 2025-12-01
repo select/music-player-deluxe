@@ -1,7 +1,7 @@
 {
   "youtubeId": "lyirrcT5a6Q",
   "title": "Pharoah Sanders - Thembi",
-  "lastFetched": "2025-11-26T11:02:06.661Z",
+  "lastFetched": "2025-11-30T21:29:26.698Z",
   "ai": {
     "title": "Thembi",
     "artist": "Pharoah Sanders"
@@ -18,6 +18,30 @@
       "jazz",
       "avant-garde",
       "saxophone"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8222fc21-9566-470a-839b-15f5d53d2551",
+    "artistMbid": "b3a0912a-a62a-4388-9368-7cb21ed5caf9",
+    "releaseCount": 15,
+    "genres": [
+      "acid jazz",
+      "avant-garde jazz",
+      "free jazz",
+      "jazz",
+      "soul jazz"
+    ],
+    "artistGenres": [
+      "avant-garde jazz",
+      "blues",
+      "cool jazz",
+      "free jazz",
+      "gnawa",
+      "hard bop",
+      "jazz",
+      "post-bop",
+      "soul jazz",
+      "spiritual jazz"
     ]
   }
 }

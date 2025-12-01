@@ -2,7 +2,7 @@
   "youtubeId": "_l09H-3zzgA",
   "title": "Under Cover of Darkness",
   "artist": "The Strokes",
-  "lastFetched": "2025-11-28T18:36:54.547Z",
+  "lastFetched": "2025-11-30T20:10:35.076Z",
   "odesli": {
     "amazonMusic": "B004S8E67I",
     "amazonStore": "B004S8E67I",
@@ -32,5 +32,26 @@
     ],
     "title": "Under Cover of Darkness",
     "artist": "The Strokes"
+  },
+  "musicbrainz": {
+    "trackMbid": "edef8b05-50f3-4b8f-acff-153d29cf46ca",
+    "artistMbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+    "releaseCount": 14,
+    "genres": [
+      "alternative rock",
+      "garage rock revival",
+      "indie rock",
+      "post-punk revival",
+      "rock"
+    ],
+    "artistGenres": [
+      "garage rock",
+      "garage rock revival",
+      "indie rock",
+      "new wave",
+      "post-punk revival",
+      "rock",
+      "synth-pop"
+    ]
   }
 }

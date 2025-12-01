@@ -2,7 +2,7 @@
   "youtubeId": "3-Yh6rnOchs",
   "title": "Kiss From a Rose",
   "artist": "Seal",
-  "lastFetched": "2025-11-24T00:21:42.492Z",
+  "lastFetched": "2025-11-30T21:46:32.698Z",
   "odesli": {
     "amazonMusic": "B0CZLXDRFH",
     "amazonStore": "B0CZLXDRFH",
@@ -35,5 +35,27 @@
     "artist": "Seal",
     "mbid": "ce272c9b-46ac-323e-af96-b151d66800a4",
     "artistMbid": "f053ae01-dae6-4aae-9883-e8c279fdbef4"
+  },
+  "musicbrainz": {
+    "trackMbid": "3bd56d03-7d60-4dc4-9b0d-ca2bc2a00214",
+    "artistMbid": "f053ae01-dae6-4aae-9883-e8c279fdbef4",
+    "releaseCount": 21,
+    "genres": [
+      "ballad",
+      "easy listening",
+      "pop",
+      "r&b",
+      "soul"
+    ],
+    "artistGenres": [
+      "baroque pop",
+      "dance-pop",
+      "downtempo",
+      "pop",
+      "pop rock",
+      "pop soul",
+      "r&b",
+      "soul"
+    ]
   }
 }

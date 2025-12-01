@@ -2,7 +2,7 @@
   "youtubeId": "2aJUnltwsqs",
   "title": "Awake and Alive",
   "artist": "Skillet",
-  "lastFetched": "2025-11-28T12:14:17.156Z",
+  "lastFetched": "2025-11-30T20:36:23.990Z",
   "odesli": {
     "amazonMusic": "B002LD3RK4",
     "amazonStore": "B002LD3RK4",
@@ -32,5 +32,25 @@
     "artist": "Skillet",
     "mbid": "27182378-70d7-3b0a-a7bd-350320165c67",
     "artistMbid": "16a43d5e-c52d-4eaa-9c3b-00b2c1d8e816"
+  },
+  "musicbrainz": {
+    "trackMbid": "6f023a36-8bfe-4357-9033-2310f0ce1a1f",
+    "artistMbid": "16a43d5e-c52d-4eaa-9c3b-00b2c1d8e816",
+    "releaseCount": 23,
+    "genres": [
+      "alternative rock",
+      "christian rock",
+      "contemporary christian",
+      "gospel",
+      "post-grunge",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "christian metal",
+      "christian rock",
+      "nu metal",
+      "symphonic metal"
+    ]
   }
 }

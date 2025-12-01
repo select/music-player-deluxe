@@ -1,7 +1,7 @@
 {
   "youtubeId": "ncW6aYG6wFA",
   "title": "The Hacker - Nebel",
-  "lastFetched": "2025-11-26T10:57:12.652Z",
+  "lastFetched": "2025-11-30T20:57:23.355Z",
   "ai": {
     "title": "Nebel",
     "artist": "The Hacker"
@@ -17,6 +17,15 @@
     "tags": [
       "electro",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "83f1eb4f-4466-4663-8c6c-9bfae0ac253f",
+    "artistMbid": "e044fb9c-7c2e-48f7-81f6-ea2ae99d2ef0",
+    "releaseCount": 3,
+    "artistGenres": [
+      "electroclash",
+      "techno"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "jx9smvsaqwE",
   "title": "WALTER MURPHY Mostly Mozart 1979",
-  "lastFetched": "2025-11-28T18:39:15.658Z",
+  "lastFetched": "2025-11-30T20:18:52.967Z",
   "ai": {
     "title": "Mostly Mozart",
     "artist": "WALTER MURPHY"
@@ -20,6 +20,21 @@
       "70s",
       "instrumental",
       "pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2ee5578d-6154-4e55-96f6-c443c5bee321",
+    "artistMbid": "c48af196-bab1-4505-9256-0922adac0fe2",
+    "releaseCount": 1,
+    "artistGenres": [
+      "big band",
+      "classical",
+      "classical crossover",
+      "disco",
+      "funk",
+      "jazz",
+      "pop",
+      "swing"
     ]
   }
 }

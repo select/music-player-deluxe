@@ -2,7 +2,7 @@
   "youtubeId": "I95UZVa2hiE",
   "title": "Vergangenheit",
   "artist": "Die Höchste Eisenbahn",
-  "lastFetched": "2025-11-19T12:56:33.060Z",
+  "lastFetched": "2025-11-30T23:07:00.725Z",
   "odesli": {
     "amazonMusic": "B01NGUSAMQ",
     "amazonStore": "B01NGUSAMQ",
@@ -22,6 +22,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "0cb26d00-212f-4009-8b45-691a1311e541"
+    "artistMbid": "0cb26d00-212f-4009-8b45-691a1311e541",
+    "trackMbid": "a25e390a-e901-4949-94bb-7ade20dc77ce",
+    "releaseCount": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "Tg7IzDK6i38",
   "title": "Die Gesunden - Instru-Mental",
-  "lastFetched": "2025-11-26T11:02:14.748Z",
+  "lastFetched": "2025-11-30T21:30:58.204Z",
   "ai": {
     "title": "Instru-Mental",
     "artist": "Die Gesunden"
@@ -19,6 +19,15 @@
       "synthpop",
       "new wave",
       "add",
+      "neue deutsche welle"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f468279c-cfac-438c-b856-b6bd5a4a69f4",
+    "artistMbid": "1f04f97a-7198-41d8-8f56-755cd8a1d638",
+    "releaseCount": 2,
+    "artistGenres": [
+      "minimal synth",
       "neue deutsche welle"
     ]
   }

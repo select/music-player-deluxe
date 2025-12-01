@@ -1,7 +1,7 @@
 {
   "youtubeId": "f1pzXJuvdAY",
   "title": "Born Under A Bad Sign",
-  "lastFetched": "2025-11-26T11:01:40.034Z",
+  "lastFetched": "2025-11-30T21:26:26.651Z",
   "ai": {
     "title": "Born Under A Bad Sign",
     "artist": "Cream"
@@ -26,6 +26,23 @@
       "blues rock",
       "blues",
       "60s",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fc971ef0-47ef-4a4a-9cfa-9c5b70877da6",
+    "artistMbid": "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f",
+    "releaseCount": 2,
+    "artistGenres": [
+      "acid rock",
+      "blues rock",
+      "classic rock",
+      "hard rock",
+      "jam band",
+      "pop rock",
+      "psychedelic",
+      "psychedelic pop",
+      "psychedelic rock",
       "rock"
     ]
   }

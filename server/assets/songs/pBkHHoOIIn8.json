@@ -1,7 +1,7 @@
 {
   "youtubeId": "pBkHHoOIIn8",
   "title": "Feel It Still",
-  "lastFetched": "2025-11-26T10:59:20.880Z",
+  "lastFetched": "2025-11-30T21:14:23.145Z",
   "ai": {
     "title": "Feel It Still",
     "artist": "Portugal. The Man"
@@ -41,5 +41,21 @@
     "title": "Feel It Still",
     "artist": "Portugal. The Man",
     "artistMbid": "3599a39e-4e10-4cb5-90d4-c8a015ebc73b"
+  },
+  "musicbrainz": {
+    "trackMbid": "6728f2b7-dec1-4098-8c91-362db1d0ff31",
+    "artistMbid": "3599a39e-4e10-4cb5-90d4-c8a015ebc73b",
+    "releaseCount": 25,
+    "genres": [
+      "experimental rock",
+      "indie rock",
+      "pop"
+    ],
+    "artistGenres": [
+      "experimental",
+      "indie rock",
+      "neo-psychedelia",
+      "progressive"
+    ]
   }
 }

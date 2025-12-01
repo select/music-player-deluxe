@@ -2,7 +2,7 @@
   "youtubeId": "IazMd0-FKt0",
   "title": "Paradoxical",
   "artist": "Acid Lab",
-  "lastFetched": "2025-11-28T18:35:36.210Z",
+  "lastFetched": "2025-11-30T20:05:41.804Z",
   "odesli": {
     "amazonMusic": "B09H124CWR",
     "amazonStore": "B09H124CWR",
@@ -21,6 +21,15 @@
     "tags": [
       "darkstep",
       "drum and bass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0a07f396-76c9-4cde-9255-cf9295a03ef7",
+    "artistMbid": "f2ec5c64-3ef5-4548-825a-ce14f631b93b",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass",
+      "jungle"
     ]
   }
 }

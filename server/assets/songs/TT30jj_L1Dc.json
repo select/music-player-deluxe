@@ -2,7 +2,7 @@
   "youtubeId": "TT30jj_L1Dc",
   "title": "Water Of Love",
   "artist": "Dire Straits",
-  "lastFetched": "2025-11-28T18:34:49.413Z",
+  "lastFetched": "2025-11-30T20:02:40.915Z",
   "odesli": {
     "amazonMusic": "B002M69BPA",
     "amazonStore": "B002M69BPA",
@@ -28,6 +28,29 @@
       "guitar",
       "dire straits",
       "80s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9224eeb9-2b89-4b66-b020-24e3b60764a7",
+    "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+    "releaseCount": 4,
+    "genres": [
+      "blues rock",
+      "classic rock",
+      "pop",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "classic rock",
+      "pop rock",
+      "pub rock",
+      "rock",
+      "rock and roll",
+      "roots rock",
+      "soft rock",
+      "sophisti-pop"
     ]
   }
 }

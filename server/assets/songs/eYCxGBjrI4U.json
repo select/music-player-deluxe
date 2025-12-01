@@ -1,7 +1,7 @@
 {
   "youtubeId": "eYCxGBjrI4U",
   "title": "Sigma - Nobody To Love (Sigma's Future Jungle Mix)",
-  "lastFetched": "2025-11-27T12:01:40.910Z",
+  "lastFetched": "2025-11-30T20:31:26.382Z",
   "ai": {
     "title": "Nobody To Love (Sigma's Future Jungle Mix)",
     "artist": "Sigma"
@@ -16,6 +16,19 @@
     "tags": [
       "drum and bass",
       "jungle"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "49929248-e7e5-4611-8bfa-f53ba2e24f67",
+    "artistMbid": "89ec6f82-1ad7-42d5-983e-ebf90f6868c8",
+    "releaseCount": 2,
+    "genres": [
+      "dancefloor drum and bass",
+      "drum and bass"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "electronic"
     ]
   }
 }

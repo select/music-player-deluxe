@@ -1,7 +1,7 @@
 {
   "youtubeId": "KJHr2DlRog8",
   "title": "Colin Stetson - Spindrift (Official Video)",
-  "lastFetched": "2025-11-27T12:01:21.163Z",
+  "lastFetched": "2025-11-30T20:30:06.588Z",
   "ai": {
     "title": "Spindrift",
     "artist": "Colin Stetson"
@@ -19,6 +19,20 @@
       "experimental",
       "avant-garde",
       "weird"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "99c0049b-5e7b-4d83-9377-4b6cf81a30f1",
+    "artistMbid": "22b2f6dc-fcc2-490d-a462-f972a692ce12",
+    "releaseCount": 3,
+    "artistGenres": [
+      "avant-garde jazz",
+      "experimental",
+      "free improvisation",
+      "instrumental",
+      "jazz",
+      "new age",
+      "nu jazz"
     ]
   }
 }

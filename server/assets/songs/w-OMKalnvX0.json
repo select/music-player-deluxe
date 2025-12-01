@@ -2,7 +2,7 @@
   "youtubeId": "w-OMKalnvX0",
   "title": "Veranda Shove",
   "artist": "Baths",
-  "lastFetched": "2025-11-24T00:23:36.502Z",
+  "lastFetched": "2025-11-30T21:31:10.030Z",
   "odesli": {
     "amazonMusic": "B0BQ8PDHKJ",
     "amazonStore": "B0BQ8PDHKJ",
@@ -25,6 +25,18 @@
       "ambient",
       "lo-fi",
       "2020"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "81ed144e-3ea6-4de1-959a-65ea738df8ab",
+    "artistMbid": "84a5c934-8318-4080-8606-32b80e1b054a",
+    "releaseCount": 3,
+    "artistGenres": [
+      "chillwave",
+      "electronic",
+      "experimental",
+      "futurepop",
+      "glitch"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "3aBl3bnRv3g",
   "title": "Local H - Wolf Like Me (Studio Version)",
-  "lastFetched": "2025-11-26T10:58:30.931Z",
+  "lastFetched": "2025-11-30T21:09:59.405Z",
   "ai": {
     "title": "Wolf Like Me",
     "artist": "Local H"
@@ -19,6 +19,26 @@
       "alternative rock",
       "grunge",
       "garage rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "87b20ee6-17f1-4ccf-ad26-ffd8ad77252a",
+    "artistMbid": "baaf92f5-f2b2-4f51-9723-abed41a257f8",
+    "releaseCount": 1,
+    "genres": [
+      "alternative rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "noise rock",
+      "post-grunge",
+      "post-hardcore",
+      "punk rock",
+      "slacker rock"
     ]
   }
 }

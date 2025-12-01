@@ -2,7 +2,7 @@
   "youtubeId": "Cv6tuzHUuuk",
   "title": "Walk Like an Egyptian",
   "artist": "The Bangles",
-  "lastFetched": "2025-11-19T12:58:35.839Z",
+  "lastFetched": "2025-11-30T23:06:34.869Z",
   "odesli": {
     "amazonMusic": "B00137IDMQ",
     "amazonStore": "B00137IDMQ",
@@ -27,7 +27,18 @@
       "new wave",
       "rock"
     ],
-    "artistMbid": "f31ec2ac-9071-4306-acd1-d2c8321033b5"
+    "artistMbid": "f31ec2ac-9071-4306-acd1-d2c8321033b5",
+    "trackMbid": "9fa160dc-7843-4efe-b72f-b1fcd0f4cbe6",
+    "releaseCount": 1,
+    "artistGenres": [
+      "jangle pop",
+      "new wave",
+      "paisley underground",
+      "pop",
+      "pop rock",
+      "power pop",
+      "punk"
+    ]
   },
   "lastfm": {
     "id": "The+Bangles/_/Walk+Like+an+Egyptian",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "Z3AKrwna2C8",
   "title": "Edwin Birdsong - Cola Bottle Baby",
-  "lastFetched": "2025-11-26T10:56:07.630Z",
+  "lastFetched": "2025-11-30T20:45:00.387Z",
   "ai": {
     "title": "Cola Bottle Baby",
     "artist": "Edwin Birdsong"
@@ -20,6 +20,17 @@
       "sampled",
       "sampled by daft punk",
       "funky"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "40c14d4c-ed39-4c3f-8183-b93d62a7e460",
+    "artistMbid": "41f1960d-be42-4ca0-8599-8d0fb77ae6d4",
+    "releaseCount": 6,
+    "genres": [
+      "disco",
+      "funk",
+      "pop",
+      "soul"
     ]
   }
 }

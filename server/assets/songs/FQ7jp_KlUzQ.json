@@ -2,7 +2,7 @@
   "youtubeId": "FQ7jp_KlUzQ",
   "title": "KAPPIES IM SLIP",
   "artist": "Ski Aggu",
-  "lastFetched": "2025-11-19T17:35:22.933Z",
+  "lastFetched": "2025-11-30T22:35:05.425Z",
   "odesli": {
     "amazonMusic": "B0CHMZWP27",
     "amazonStore": "B0CHMZWP27",
@@ -31,6 +31,12 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "f1d46f29-34fd-4cd5-959f-0a213e1f1d8e"
+    "artistMbid": "f1d46f29-34fd-4cd5-959f-0a213e1f1d8e",
+    "trackMbid": "56499bef-9b64-4242-b240-7be3fddc747f",
+    "releaseCount": 3,
+    "artistGenres": [
+      "hip hop",
+      "pop rap"
+    ]
   }
 }

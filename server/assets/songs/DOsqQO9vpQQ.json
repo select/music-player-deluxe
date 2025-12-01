@@ -2,7 +2,7 @@
   "youtubeId": "DOsqQO9vpQQ",
   "title": "Get Hi",
   "artist": "Danny Brown",
-  "lastFetched": "2025-11-23T15:12:18.361Z",
+  "lastFetched": "2025-11-30T22:25:51.539Z",
   "odesli": {
     "amazonMusic": "B01LXT91W8",
     "amazonStore": "B01LXT91W8",
@@ -25,6 +25,21 @@
       "hip-hop",
       "neo-psychedelia",
       "experimental hip hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2f985e89-ab35-4e27-b6ab-6d4eaa8765d9",
+    "artistMbid": "960afc67-9c21-46dd-9c7f-ff2b509e3150",
+    "releaseCount": 6,
+    "artistGenres": [
+      "boom bap",
+      "conscious hip hop",
+      "experimental hip hop",
+      "gangsta rap",
+      "glitch hop",
+      "hardcore hip hop",
+      "hip hop",
+      "trap"
     ]
   }
 }

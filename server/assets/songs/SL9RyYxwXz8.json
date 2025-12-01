@@ -2,7 +2,7 @@
   "youtubeId": "SL9RyYxwXz8",
   "title": "Der Sturm",
   "artist": "Subway to Sally",
-  "lastFetched": "2025-11-19T07:33:17.381Z",
+  "lastFetched": "2025-11-30T23:29:32.330Z",
   "odesli": {
     "amazonMusic": "B085STYFKV",
     "amazonStore": "B085STYFKV",
@@ -32,6 +32,24 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "5533fa1c-4102-4ae7-92ae-78dddb17fe7f"
+    "artistMbid": "5533fa1c-4102-4ae7-92ae-78dddb17fe7f",
+    "trackMbid": "76eae2f4-c45b-41d4-b776-3909a8fba340",
+    "releaseCount": 2,
+    "genres": [
+      "folk metal",
+      "folk rock",
+      "heavy metal",
+      "metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "folk",
+      "folk metal",
+      "folk rock",
+      "industrial metal",
+      "medieval",
+      "medieval metal",
+      "metal"
+    ]
   }
 }

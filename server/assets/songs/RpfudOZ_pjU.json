@@ -2,7 +2,7 @@
   "youtubeId": "RpfudOZ_pjU",
   "title": "Hey Lover",
   "artist": "Blake Mills",
-  "lastFetched": "2025-11-27T12:04:00.579Z",
+  "lastFetched": "2025-11-30T20:49:20.131Z",
   "odesli": {
     "amazonMusic": "B00617ADNK",
     "amazonStore": "B00617ADNK",
@@ -23,6 +23,19 @@
       "indie",
       "singer songwriter",
       "daytrotter sessions"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "238bb6bc-5aee-4e62-a0cc-45f85f59a92b",
+    "artistMbid": "c13101d0-cc31-4df3-a156-b9a29ca39825",
+    "releaseCount": 4,
+    "genres": [
+      "alternative rock",
+      "blues",
+      "rock"
+    ],
+    "artistGenres": [
+      "rock"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "-PXOr681_VU",
   "title": "A Go Go",
   "artist": "John Scofield",
-  "lastFetched": "2025-11-24T00:23:43.793Z",
+  "lastFetched": "2025-11-30T21:30:23.670Z",
   "odesli": {
     "amazonMusic": "B000W1941S",
     "amazonStore": "B000W1941S",
@@ -34,6 +34,24 @@
       "jazz guitar",
       "fusion",
       "funk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fbae52b4-4eb8-47b0-ac9f-5d77d10e3d32",
+    "artistMbid": "cbfd7f01-87c3-44bf-a3a2-fe4dbff20ad2",
+    "releaseCount": 4,
+    "genres": [
+      "contemporary jazz",
+      "jazz",
+      "jazz fusion"
+    ],
+    "artistGenres": [
+      "acid jazz",
+      "contemporary jazz",
+      "jazz",
+      "jazz fusion",
+      "jazz-funk",
+      "post-bop"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "irmURXnkt54",
   "title": "Some Days I Drink My Coffee By The Grave Of William Blake",
   "artist": "The The",
-  "lastFetched": "2025-11-23T19:29:39.725Z",
+  "lastFetched": "2025-11-30T22:13:33.545Z",
   "odesli": {
     "amazonMusic": "B0DCGQHWYS",
     "amazonStore": "B0DCGQHWYS",
@@ -26,6 +26,18 @@
       "day of the dead",
       "fiddle",
       "drink to me"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8c013a2f-0a3f-4262-a4b5-d989736c948d",
+    "artistMbid": "a7409219-a681-4072-adb2-5285106ce6f2",
+    "releaseCount": 4,
+    "artistGenres": [
+      "alternative rock",
+      "art pop",
+      "new wave",
+      "pop rock",
+      "post-punk"
     ]
   }
 }

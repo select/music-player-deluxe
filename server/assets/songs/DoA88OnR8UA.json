@@ -2,7 +2,7 @@
   "youtubeId": "DoA88OnR8UA",
   "title": "There's a woman",
   "artist": "Gino Soccio",
-  "lastFetched": "2025-11-23T15:51:04.819Z",
+  "lastFetched": "2025-11-30T22:15:53.500Z",
   "lastfm": {
     "title": "There's a woman",
     "artist": "Gino Soccio",
@@ -11,6 +11,16 @@
     "playcount": 8674,
     "tags": [
       "disco"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a8b076ab-1332-4d02-a6f9-14d91062aaa3",
+    "artistMbid": "222d2ac7-08e7-47be-8df5-49098b79caee",
+    "releaseCount": 2,
+    "genres": [
+      "disco",
+      "electronic",
+      "pop"
     ]
   }
 }

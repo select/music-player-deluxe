@@ -2,7 +2,7 @@
   "youtubeId": "Rh6w1WAosTU",
   "title": "Hunter's Harp",
   "artist": "Dirtwire",
-  "lastFetched": "2025-11-23T19:31:36.154Z",
+  "lastFetched": "2025-11-30T22:06:53.330Z",
   "odesli": {
     "amazonMusic": "B09BYWXF8C",
     "amazonStore": "B09BYWXF8C",
@@ -28,6 +28,22 @@
       "downtempo",
       "trip-hop",
       "fusion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8eb18670-56cd-4b18-8717-764e38f22b63",
+    "artistMbid": "cb761761-4f52-4f29-9825-314c6e3d20ac",
+    "releaseCount": 2,
+    "genres": [
+      "blues"
+    ],
+    "artistGenres": [
+      "americana",
+      "bluegrass",
+      "blues",
+      "electronic",
+      "electronica",
+      "world fusion"
     ]
   }
 }

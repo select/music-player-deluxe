@@ -2,7 +2,7 @@
   "youtubeId": "DP86O37GaeI",
   "title": "Ein Tag wie Gold",
   "artist": "Max Raabe & Palast Orchester",
-  "lastFetched": "2025-11-28T18:39:41.666Z",
+  "lastFetched": "2025-11-30T20:20:20.289Z",
   "odesli": {
     "amazonMusic": "B0B943QM8C",
     "amazonStore": "B0B943QM8C",
@@ -30,6 +30,15 @@
       "big band",
       "2022",
       "2020s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b81d083c-a8b8-4573-8903-1b0c71e86e7e",
+    "artistMbid": "1a5f7021-3742-4b0e-8b60-e21c3b593f5a",
+    "releaseCount": 3,
+    "artistGenres": [
+      "kabarett",
+      "old-time"
     ]
   }
 }

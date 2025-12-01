@@ -1,7 +1,7 @@
 {
   "youtubeId": "0_e4YX73Ww4",
   "title": "HAKEN - Cockroach King - (Single Version)",
-  "lastFetched": "2025-11-28T18:36:37.753Z",
+  "lastFetched": "2025-11-30T20:09:01.671Z",
   "ai": {
     "title": "Cockroach King",
     "artist": "Haken"
@@ -15,6 +15,15 @@
     "mbid": "b720da13-2dc2-409d-987f-8a4ff1e9b358",
     "artistMbid": "0246a3fd-a254-416d-8cd2-e31da4ac6f59",
     "tags": [
+      "progressive metal",
+      "progressive rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b720da13-2dc2-409d-987f-8a4ff1e9b358",
+    "artistMbid": "0246a3fd-a254-416d-8cd2-e31da4ac6f59",
+    "releaseCount": 9,
+    "artistGenres": [
       "progressive metal",
       "progressive rock"
     ]

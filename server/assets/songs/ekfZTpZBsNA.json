@@ -2,7 +2,7 @@
   "youtubeId": "ekfZTpZBsNA",
   "title": "Odesa",
   "artist": "Halogenix",
-  "lastFetched": "2025-11-23T14:11:41.687Z",
+  "lastFetched": "2025-11-30T22:45:42.594Z",
   "lastfm": {
     "title": "Odesa",
     "artist": "Halogenix",
@@ -15,6 +15,18 @@
       "dubstep",
       "uk garage",
       "footwork"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8598792d-4bbc-4aba-ae73-419eb0a96878",
+    "artistMbid": "7c619fd1-0e0a-4cc8-9735-987e015cd822",
+    "releaseCount": 1,
+    "genres": [
+      "liquid funk"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "jungle"
     ]
   }
 }

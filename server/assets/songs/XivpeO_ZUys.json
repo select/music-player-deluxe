@@ -2,7 +2,7 @@
   "youtubeId": "XivpeO_ZUys",
   "title": "Video Disco",
   "artist": "Alpharisc",
-  "lastFetched": "2025-11-26T10:57:56.815Z",
+  "lastFetched": "2025-11-30T21:06:55.184Z",
   "odesli": {
     "amazonMusic": "B09MNRLKWB",
     "amazonStore": "B09MNRLKWB",
@@ -25,6 +25,15 @@
     "mbid": "236296ad-235c-442d-8dd1-46880289b249",
     "artistMbid": "87301afd-4ed1-497d-9506-0752910b5df1",
     "tags": [
+      "synthwave"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "979670fa-24bf-4fae-b3c0-366724a910cf",
+    "artistMbid": "87301afd-4ed1-497d-9506-0752910b5df1",
+    "releaseCount": 1,
+    "artistGenres": [
+      "chillsynth",
       "synthwave"
     ]
   }

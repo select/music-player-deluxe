@@ -1,7 +1,7 @@
 {
   "youtubeId": "grYjJe5etOY",
   "title": "Carmen Electra - Go Go Dancer MUSIC VIDEO [HQ]",
-  "lastFetched": "2025-11-26T10:56:12.477Z",
+  "lastFetched": "2025-11-30T20:45:58.690Z",
   "ai": {
     "title": "Go Go Dancer",
     "artist": "Carmen Electra"
@@ -19,5 +19,10 @@
       "dance",
       "female vocalists"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "42234e78-bde5-4193-b888-4738afb5e975",
+    "artistMbid": "26ec2015-615d-4e6c-97e9-afadfc286f42",
+    "releaseCount": 6
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "71Gt46aX9Z4",
   "title": "Gary B.B. Coleman - The Sky is Crying",
-  "lastFetched": "2025-11-27T12:02:44.711Z",
+  "lastFetched": "2025-11-30T20:37:32.492Z",
   "ai": {
     "title": "The Sky is Crying",
     "artist": "Gary B.B. Coleman"
@@ -16,6 +16,16 @@
     "artistMbid": "643fe6d8-25d6-4a4a-99cb-5b71b483dd9d",
     "tags": [
       "blues"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d4ca6a4a-6b15-4227-a8ba-98441388d830",
+    "artistMbid": "643fe6d8-25d6-4a4a-99cb-5b71b483dd9d",
+    "releaseCount": 2,
+    "artistGenres": [
+      "blues",
+      "electric blues",
+      "soul blues"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "pUS_sjVaRjU",
   "title": "ZTO",
   "artist": "Devin Townsend",
-  "lastFetched": "2025-11-28T18:39:12.786Z",
+  "lastFetched": "2025-11-30T20:18:41.127Z",
   "odesli": {
     "amazonMusic": "B0163I3DTW",
     "amazonStore": "B0163I3DTW",
@@ -21,6 +21,25 @@
     "artistMbid": "93e8c41e-8e4f-4d08-bbf5-bc1a903b2423",
     "tags": [
       "progressive metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3cc3b344-7b2a-4030-b7a1-1c6bcf500d36",
+    "artistMbid": "93e8c41e-8e4f-4d08-bbf5-bc1a903b2423",
+    "releaseCount": 8,
+    "genres": [
+      "metal",
+      "progressive metal",
+      "progressive rock",
+      "rock",
+      "speed metal"
+    ],
+    "artistGenres": [
+      "ambient",
+      "metal",
+      "progressive",
+      "progressive metal",
+      "progressive rock"
     ]
   }
 }

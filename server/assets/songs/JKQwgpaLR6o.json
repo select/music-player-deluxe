@@ -2,7 +2,7 @@
   "youtubeId": "JKQwgpaLR6o",
   "title": "Boadicea",
   "artist": "Enya",
-  "lastFetched": "2025-11-28T18:37:59.573Z",
+  "lastFetched": "2025-11-30T20:14:47.840Z",
   "odesli": {
     "amazonMusic": "B08GCYZV9W",
     "amazonStore": "B08GCYZV9W",
@@ -30,6 +30,26 @@
       "celtic",
       "ambient",
       "enya"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6a89527f-8994-412b-ac5b-36e098d0bef8",
+    "artistMbid": "4967c0a1-b9f3-465e-8440-4598fd9fc33c",
+    "releaseCount": 25,
+    "genres": [
+      "ambient",
+      "celtic",
+      "electronic",
+      "folk",
+      "modern classical",
+      "new age"
+    ],
+    "artistGenres": [
+      "celtic",
+      "celtic new age",
+      "folk",
+      "new age",
+      "progressive folk"
     ]
   }
 }

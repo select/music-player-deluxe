@@ -2,7 +2,7 @@
   "youtubeId": "j3I62h2CRGc",
   "title": "Lazybones",
   "artist": "Soul Coughing",
-  "lastFetched": "2025-11-23T19:34:08.118Z",
+  "lastFetched": "2025-11-30T21:54:01.243Z",
   "odesli": {
     "amazonMusic": "B079XFXCMC",
     "amazonStore": "B079XFXCMC",
@@ -33,6 +33,22 @@
       "90s",
       "soul coughing",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f2f2f01b-9e5a-4642-bf13-249802a074c0",
+    "artistMbid": "8067c102-4996-42bc-9980-06ce2e644eae",
+    "releaseCount": 9,
+    "artistGenres": [
+      "alternative dance",
+      "alternative hip hop",
+      "alternative rock",
+      "beat poetry",
+      "jazz",
+      "jazz poetry",
+      "jazz rap",
+      "sampledelia",
+      "slam poetry"
     ]
   }
 }

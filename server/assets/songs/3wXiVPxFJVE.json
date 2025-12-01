@@ -2,7 +2,7 @@
   "youtubeId": "3wXiVPxFJVE",
   "title": "She's a Lady",
   "artist": "Tom Jones",
-  "lastFetched": "2025-11-19T10:27:40.999Z",
+  "lastFetched": "2025-11-30T23:19:38.330Z",
   "lastfm": {
     "id": "Tom+Jones/_/She%27s+a+Lady",
     "listeners": 323268,
@@ -16,6 +16,15 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "57c6f649-6cde-48a7-8114-2a200247601a"
+    "artistMbid": "57c6f649-6cde-48a7-8114-2a200247601a",
+    "trackMbid": "d82e6899-98f7-4e60-b3ef-257c6f4ce05e",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ballad",
+      "blue-eyed soul",
+      "pop",
+      "pop soul",
+      "traditional pop"
+    ]
   }
 }

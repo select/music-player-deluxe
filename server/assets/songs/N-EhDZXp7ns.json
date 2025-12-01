@@ -2,7 +2,7 @@
   "youtubeId": "N-EhDZXp7ns",
   "title": "My Club",
   "artist": "The Asteroids Galaxy Tour",
-  "lastFetched": "2025-11-24T00:21:43.822Z",
+  "lastFetched": "2025-11-30T21:46:16.422Z",
   "odesli": {
     "amazonMusic": "B0F45GQX3M",
     "amazonStore": "B0F45GQX3M",
@@ -29,6 +29,15 @@
       "female vocals",
       "horns",
       "danish"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "17acf5fe-66ca-43ca-842e-c5587636f124",
+    "artistMbid": "4661d98a-95bd-4cf1-a693-4f9f25691ada",
+    "releaseCount": 4,
+    "artistGenres": [
+      "acid jazz",
+      "indie pop"
     ]
   }
 }

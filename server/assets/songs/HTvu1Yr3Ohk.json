@@ -1,7 +1,7 @@
 {
   "youtubeId": "HTvu1Yr3Ohk",
   "title": "Trapt - Headstrong (Official Music Video) | Warner Vault",
-  "lastFetched": "2025-11-26T10:58:11.861Z",
+  "lastFetched": "2025-11-30T21:08:13.572Z",
   "ai": {
     "title": "Headstrong",
     "artist": "Trapt"
@@ -22,5 +22,28 @@
     "artist": "Trapt",
     "mbid": "215cfe6b-a67c-4ecf-8f37-88af7d21210c",
     "artistMbid": "8876c0be-ccff-4d46-aa91-7f935a3b3b6b"
+  },
+  "musicbrainz": {
+    "trackMbid": "240ce563-437b-41aa-901e-3067735c770c",
+    "artistMbid": "8876c0be-ccff-4d46-aa91-7f935a3b3b6b",
+    "releaseCount": 11,
+    "genres": [
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "metal",
+      "nu metal",
+      "post-grunge",
+      "post-rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "nu metal",
+      "post-grunge"
+    ]
   }
 }

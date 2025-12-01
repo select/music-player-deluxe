@@ -2,7 +2,7 @@
   "youtubeId": "5E0zej3qZRY",
   "title": "Pilot",
   "artist": "The Notwist",
-  "lastFetched": "2025-11-27T12:04:07.854Z",
+  "lastFetched": "2025-11-30T20:50:45.980Z",
   "odesli": {
     "amazonMusic": "B0DK667DBF",
     "amazonStore": "B0DK667DBF",
@@ -25,6 +25,29 @@
       "indie",
       "indietronica",
       "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0841d2fa-d687-42e6-9fe6-7b13680b6de1",
+    "artistMbid": "f180cec2-9421-4417-a841-c7372090d13d",
+    "releaseCount": 22,
+    "genres": [
+      "downtempo",
+      "electronic",
+      "electropop",
+      "experimental",
+      "indie rock",
+      "indietronica",
+      "rock"
+    ],
+    "artistGenres": [
+      "electronic",
+      "electronica",
+      "folktronica",
+      "hardcore punk",
+      "indie rock",
+      "indietronica",
+      "rock"
     ]
   }
 }

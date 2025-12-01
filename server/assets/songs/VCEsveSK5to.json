@@ -2,7 +2,7 @@
   "youtubeId": "VCEsveSK5to",
   "title": "Sloppy Seconds",
   "artist": "Watsky",
-  "lastFetched": "2025-11-27T12:04:22.598Z",
+  "lastFetched": "2025-11-30T20:52:50.052Z",
   "odesli": {
     "amazonMusic": "B0CXZQMMKZ",
     "amazonStore": "B0CXZQMMKZ",
@@ -25,6 +25,14 @@
     "tags": [
       "hip-hop",
       "rap"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "220e8dcb-b651-4095-8a0c-ba784af0c17c",
+    "artistMbid": "518bc0da-3674-463d-833c-deefd884c068",
+    "releaseCount": 2,
+    "genres": [
+      "hip hop"
     ]
   }
 }

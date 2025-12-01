@@ -1,7 +1,7 @@
 {
   "youtubeId": "xWndjqMwBu4",
   "title": "Aphrodite's Child - End Of The World",
-  "lastFetched": "2025-11-27T12:00:36.602Z",
+  "lastFetched": "2025-11-30T20:25:29.042Z",
   "ai": {
     "title": "End Of The World",
     "artist": "Aphrodite's Child"
@@ -16,6 +16,17 @@
     "tags": [
       "progressive rock",
       "70s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d481bb02-247a-412c-b7cd-8d1f88a20a37",
+    "artistMbid": "51625f3d-adfa-4096-a7b9-113f5225cc58",
+    "releaseCount": 1,
+    "artistGenres": [
+      "baroque pop",
+      "progressive rock",
+      "psychedelic pop",
+      "psychedelic rock"
     ]
   }
 }

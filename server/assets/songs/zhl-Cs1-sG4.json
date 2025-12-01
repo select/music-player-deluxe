@@ -2,7 +2,7 @@
   "youtubeId": "zhl-Cs1-sG4",
   "title": "Giorgio by Moroder",
   "artist": "Daft Punk",
-  "lastFetched": "2025-11-26T10:58:04.409Z",
+  "lastFetched": "2025-11-30T21:07:31.940Z",
   "odesli": {
     "amazonMusic": "B00CRMX3GM",
     "amazonStore": "B00CRMX3GM",
@@ -36,5 +36,36 @@
     "artist": "Daft Punk",
     "mbid": "07c2487e-4154-4f4d-86b4-f4546389704f",
     "artistMbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56"
+  },
+  "musicbrainz": {
+    "trackMbid": "cac27da9-20c5-4722-9a25-f2c26e2c04cf",
+    "artistMbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+    "releaseCount": 22,
+    "genres": [
+      "dance",
+      "disco",
+      "electro-disco",
+      "electronic",
+      "electronica",
+      "electropop",
+      "french house",
+      "funk",
+      "house",
+      "pop",
+      "progressive house",
+      "spoken word",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "dance",
+      "disco",
+      "electro house",
+      "electroclash",
+      "electronic",
+      "french electro",
+      "french house",
+      "funk",
+      "house"
+    ]
   }
 }

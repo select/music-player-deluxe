@@ -2,7 +2,7 @@
   "youtubeId": "kdfF0cOC50w",
   "title": "Paul Revere",
   "artist": "Beastie Boys",
-  "lastFetched": "2025-11-23T15:24:31.548Z",
+  "lastFetched": "2025-11-30T22:23:14.972Z",
   "odesli": {
     "amazonMusic": "B001NZGR8A",
     "amazonStore": "B001NZGR8A",
@@ -36,6 +36,23 @@
       "80s",
       "beastie boys",
       "hip hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "19a2991c-0de3-4f2d-a047-76ca9170e67f",
+    "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative hip hop",
+      "alternative rock",
+      "east coast hip hop",
+      "experimental hip hop",
+      "funk",
+      "hardcore hip hop",
+      "hardcore punk",
+      "hip hop",
+      "rap rock",
+      "rock"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "r6XSODVxnPw",
   "title": "Bunny Goes 2 Business School",
   "artist": "idialedyournumber",
-  "lastFetched": "2025-11-23T19:30:41.984Z",
+  "lastFetched": "2025-11-30T22:09:20.733Z",
   "odesli": {
     "amazonMusic": "B0CKG7JFGH",
     "amazonStore": "B0CKG7JFGH",
@@ -28,5 +28,10 @@
       "neck of the woods",
       "wsum 91.7 fm madison"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2beaba6b-0940-438b-9428-c95b28369ff5",
+    "artistMbid": "167755d5-0225-4588-829d-2d486b87fa4b",
+    "releaseCount": 1
   }
 }

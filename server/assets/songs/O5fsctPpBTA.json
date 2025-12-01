@@ -2,7 +2,7 @@
   "youtubeId": "O5fsctPpBTA",
   "title": "Weiss-Blauer",
   "artist": "Mundwerk-Crew",
-  "lastFetched": "2025-11-19T14:42:52.029Z",
+  "lastFetched": "2025-11-30T22:57:19.882Z",
   "lastfm": {
     "id": "Mundwerk-Crew/_/Weiss-Blauer",
     "listeners": 798,
@@ -15,6 +15,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "027c2bf2-4abe-473f-b3ab-8d542dd98d83"
+    "artistMbid": "027c2bf2-4abe-473f-b3ab-8d542dd98d83",
+    "trackMbid": "61ae159a-ac47-49d2-88cd-ee6a15341ade",
+    "releaseCount": 1
   }
 }

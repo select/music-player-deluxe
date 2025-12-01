@@ -2,7 +2,7 @@
   "youtubeId": "FGM3U3buQj0",
   "title": "Classical Dragon",
   "artist": "Marcin",
-  "lastFetched": "2025-11-23T19:35:29.322Z",
+  "lastFetched": "2025-11-30T21:47:12.422Z",
   "odesli": {
     "amazonMusic": "B0D5DDHVRP",
     "amazonStore": "B0D5DDHVRP",
@@ -26,5 +26,10 @@
       "guitar",
       "acoustic"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8a5c709e-7d74-4f7e-a39b-64931c6794a0",
+    "artistMbid": "71a46c25-f2bf-4e24-b4fb-9c656a808187",
+    "releaseCount": 2
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "2UOHgY5P_lo",
   "title": "Beredd",
   "artist": "Per Gessle",
-  "lastFetched": "2025-11-19T16:49:23.982Z",
+  "lastFetched": "2025-11-30T22:44:32.979Z",
   "odesli": {
     "amazonMusic": "B0CWJ9X2X1",
     "amazonStore": "B0CWJ9X2X1",
@@ -21,6 +21,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "843238f1-ecfa-4a26-9e47-ce52e4ea1e31"
+    "artistMbid": "843238f1-ecfa-4a26-9e47-ce52e4ea1e31",
+    "trackMbid": "cd741221-b93c-46f1-b8e8-9d29db94025d",
+    "releaseCount": 4
   }
 }

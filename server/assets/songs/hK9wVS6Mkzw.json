@@ -2,7 +2,7 @@
   "youtubeId": "hK9wVS6Mkzw",
   "title": "Funrider",
   "artist": "The Great Machine",
-  "lastFetched": "2025-11-19T12:24:59.766Z",
+  "lastFetched": "2025-11-30T23:09:37.290Z",
   "odesli": {
     "amazonMusic": "B0C1RMTSP8",
     "amazonStore": "B0C1RMTSP8",
@@ -24,6 +24,15 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "e7876844-3c7a-47c5-a6ac-ab94bc21a1a3"
+    "artistMbid": "e7876844-3c7a-47c5-a6ac-ab94bc21a1a3",
+    "trackMbid": "27589b53-ef88-41db-a75d-6797c22a3643",
+    "releaseCount": 1,
+    "artistGenres": [
+      "desert rock",
+      "indie rock",
+      "psychedelic rock",
+      "rock",
+      "stoner rock"
+    ]
   }
 }

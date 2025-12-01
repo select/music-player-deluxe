@@ -1,7 +1,7 @@
 {
   "youtubeId": "XbNgt8jh9io",
   "title": "Joe Bonamassa Official - \"Just 'Cos You Can Don't Mean You Should\" - Redemption",
-  "lastFetched": "2025-11-30T17:25:04.123Z",
+  "lastFetched": "2025-11-30T19:36:43.067Z",
   "ai": {
     "title": "Just 'Cos You Can Don't Mean You Should",
     "artist": "Joe Bonamassa"
@@ -16,6 +16,20 @@
     "artistMbid": "984f8239-8fe1-4683-9c54-10ffb14439e9",
     "tags": [
       "blues rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1f73f704-3b80-4fbf-9ae3-f7bf44a5508f",
+    "artistMbid": "984f8239-8fe1-4683-9c54-10ffb14439e9",
+    "releaseCount": 7,
+    "genres": [
+      "blues",
+      "blues rock"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "rock"
     ]
   }
 }

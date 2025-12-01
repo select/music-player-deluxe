@@ -2,7 +2,7 @@
   "youtubeId": "59BR57Cej54",
   "title": "The Blessing Song",
   "artist": "Michael White",
-  "lastFetched": "2025-11-27T12:04:36.627Z",
+  "lastFetched": "2025-11-30T20:54:50.720Z",
   "odesli": {
     "soundcloud": "michael-white-official/the-blessing-song",
     "tidal": "109122450",
@@ -19,6 +19,14 @@
     "artistMbid": "69c60861-f0c9-463f-9b8d-fde6336afd8e",
     "tags": [
       "jazz fusion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5f305083-0c9d-4199-8ff5-8ec535f70818",
+    "artistMbid": "69c60861-f0c9-463f-9b8d-fde6336afd8e",
+    "releaseCount": 3,
+    "artistGenres": [
+      "jazz"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "SJfOFlYdO6c",
   "title": "Verschenktes Potential",
   "artist": "Grossstadtgeflüster",
-  "lastFetched": "2025-11-23T14:59:03.521Z",
+  "lastFetched": "2025-11-30T22:29:14.231Z",
   "odesli": {
     "amazonMusic": "B0DZTFLS43",
     "amazonStore": "B0DZTFLS43",
@@ -36,5 +36,10 @@
       "electroclash",
       "female vocalists"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3b9e1d63-c80e-40b6-b143-f4306c00322d",
+    "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f",
+    "releaseCount": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "npHadW1xgM0",
   "title": "99 POSSE - Napolinapolinapoli (Feat. Enzo Avitabile & i Bottari) - Curre Curre Guagliò 2.0",
-  "lastFetched": "2025-11-28T18:39:19.963Z",
+  "lastFetched": "2025-11-30T20:19:13.547Z",
   "ai": {
     "title": "Napolinapolinapoli",
     "artist": "99 POSSE"
@@ -19,6 +19,15 @@
       "hip hop",
       "raggamuffin",
       "political"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "90fae146-31c7-41eb-ab40-e6670ab6f4c6",
+    "artistMbid": "459a9ea9-9d80-42d8-9d77-d80dc61705f2",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dub",
+      "hip hop"
     ]
   }
 }

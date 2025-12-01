@@ -2,7 +2,7 @@
   "youtubeId": "t1kHdIU8Uek",
   "title": "Still Got The Blues",
   "artist": "Gary Moore",
-  "lastFetched": "2025-11-29T13:48:01.608Z",
+  "lastFetched": "2025-11-30T19:49:27.369Z",
   "odesli": {
     "amazonMusic": "B004PVXJFS",
     "amazonStore": "B004PVXJFS",
@@ -28,6 +28,19 @@
       "blues rock",
       "classic rock",
       "guitar",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0d559edc-a567-456c-9198-8e917401997d",
+    "artistMbid": "a8806b5c-3ee0-4277-94d3-1a5427a7707c",
+    "releaseCount": 3,
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "electric blues",
+      "hard rock",
+      "heavy metal",
       "rock"
     ]
   }

@@ -2,7 +2,7 @@
   "youtubeId": "UeIhOoIMXHY",
   "title": "Sauerkraut Polka",
   "artist": "Gus Backus",
-  "lastFetched": "2025-11-23T19:32:16.790Z",
+  "lastFetched": "2025-11-30T22:03:59.151Z",
   "lastfm": {
     "id": "Gus+Backus/_/Sauerkraut+Polka",
     "listeners": 1050,
@@ -15,6 +15,14 @@
       "brutal death metal with nordic influence and guest vocalist satan",
       "deutsche schlager",
       "edhits"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "19820d6a-23ca-445b-81fd-1083c8989ea0",
+    "artistMbid": "07bc334a-a5dc-416b-ba0e-0cd6b8e44693",
+    "releaseCount": 1,
+    "artistGenres": [
+      "schlager"
     ]
   }
 }

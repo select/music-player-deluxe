@@ -1,7 +1,7 @@
 {
   "youtubeId": "QHNakk1oM7g",
   "title": "Daniel Deluxe - Star Eater",
-  "lastFetched": "2025-11-29T12:39:11.972Z",
+  "lastFetched": "2025-11-30T19:53:05.338Z",
   "ai": {
     "title": "Star Eater",
     "artist": "Daniel Deluxe"
@@ -17,6 +17,16 @@
     "tags": [
       "synthwave",
       "dark"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6449ddc2-146e-4068-a669-85c56cc27553",
+    "artistMbid": "20e17bb3-4b34-48d3-bc35-d8e6638e3b4d",
+    "releaseCount": 2,
+    "artistGenres": [
+      "darksynth",
+      "electronic",
+      "synthwave"
     ]
   }
 }

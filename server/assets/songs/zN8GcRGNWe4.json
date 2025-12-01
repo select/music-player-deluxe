@@ -1,7 +1,7 @@
 {
   "youtubeId": "zN8GcRGNWe4",
   "title": "Propellerheads - On Her Majesty's Secret Service",
-  "lastFetched": "2025-11-29T12:38:23.409Z",
+  "lastFetched": "2025-11-30T19:41:28.368Z",
   "ai": {
     "title": "On Her Majesty's Secret Service",
     "artist": "Propellerheads"
@@ -20,6 +20,17 @@
       "james bond",
       "007",
       "electronica"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "74c4d771-03d2-4fd2-a15f-4ca28a6fce42",
+    "artistMbid": "cbaafb20-eb74-421a-85f1-2bb6341aad23",
+    "releaseCount": 1,
+    "artistGenres": [
+      "big beat",
+      "breakbeat",
+      "electronica",
+      "trip hop"
     ]
   }
 }

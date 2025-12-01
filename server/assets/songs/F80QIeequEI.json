@@ -2,7 +2,7 @@
   "youtubeId": "F80QIeequEI",
   "title": "Principles Of Lust: Sadeness / Find Love / Sadeness (Reprise)",
   "artist": "Enigma",
-  "lastFetched": "2025-11-27T12:05:29.464Z",
+  "lastFetched": "2025-11-30T21:05:28.844Z",
   "odesli": {
     "amazonMusic": "B001LKL8QI",
     "amazonStore": "B001LKL8QI",
@@ -28,6 +28,28 @@
       "ambient",
       "easy listening",
       "mellow"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2e8fcc1f-94fc-4215-9790-e8e2fceb362d",
+    "artistMbid": "f1d1df24-91af-4d27-83a4-9b4ad29b37eb",
+    "releaseCount": 25,
+    "genres": [
+      "ambient",
+      "ambient pop",
+      "electronic",
+      "jazz",
+      "new age",
+      "techno",
+      "trance"
+    ],
+    "artistGenres": [
+      "ambient",
+      "downtempo",
+      "electronic",
+      "house",
+      "new age",
+      "trance"
     ]
   }
 }

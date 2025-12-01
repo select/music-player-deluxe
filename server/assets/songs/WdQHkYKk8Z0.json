@@ -1,7 +1,7 @@
 {
   "youtubeId": "WdQHkYKk8Z0",
   "title": "Datashock - Im Zuchtstall der Existenzhengste",
-  "lastFetched": "2025-11-28T18:36:01.298Z",
+  "lastFetched": "2025-11-30T20:06:52.964Z",
   "ai": {
     "title": "Im Zuchtstall der Existenzhengste",
     "artist": "Datashock"
@@ -19,6 +19,18 @@
       "psychedelic",
       "krautrock",
       "noise"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1274ed19-098a-41b4-a54d-0a5b19c3743f",
+    "artistMbid": "9fdd6a84-a26f-4978-85f3-3a579ea10388",
+    "releaseCount": 4,
+    "artistGenres": [
+      "drone",
+      "jam band",
+      "neo-psychedelia",
+      "psychedelic rock",
+      "ritual ambient"
     ]
   }
 }

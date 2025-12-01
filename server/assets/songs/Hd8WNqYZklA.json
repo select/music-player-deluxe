@@ -2,7 +2,7 @@
   "youtubeId": "Hd8WNqYZklA",
   "title": "AIE",
   "artist": "Roberta Kelly",
-  "lastFetched": "2025-11-23T19:31:39.738Z",
+  "lastFetched": "2025-11-30T22:06:33.868Z",
   "lastfm": {
     "id": "Roberta+Kelly/_/Aie",
     "listeners": 29468,
@@ -16,6 +16,22 @@
       "covers",
       "soul",
       "pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "29700c4b-8b11-4236-b933-3b656fb088c4",
+    "artistMbid": "3a7a1efe-3760-44bf-94b4-8714b9649a9d",
+    "releaseCount": 2,
+    "genres": [
+      "disco",
+      "electronic",
+      "soul"
+    ],
+    "artistGenres": [
+      "contemporary gospel",
+      "disco",
+      "gospel",
+      "soul"
     ]
   }
 }

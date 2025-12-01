@@ -1,7 +1,7 @@
 {
   "youtubeId": "j09hpp3AxIE",
   "title": "Die Toten Hosen // „Tage wie diese\" [Offizielles Musikvideo]",
-  "lastFetched": "2025-11-26T10:57:23.072Z",
+  "lastFetched": "2025-11-30T21:01:38.173Z",
   "ai": {
     "title": "Tage wie diese",
     "artist": "DIE TOTEN HOSEN"
@@ -19,6 +19,26 @@
       "punk",
       "german",
       "deutsch"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f958b654-eef3-4496-b751-b61edfe146c9",
+    "artistMbid": "c3bc80a6-1f4a-4e17-8cf0-6b1efe8302f1",
+    "releaseCount": 25,
+    "genres": [
+      "pop punk",
+      "pop rock",
+      "punk",
+      "punk rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "hard rock",
+      "pop punk",
+      "pop rock",
+      "punk",
+      "punk rock"
     ]
   }
 }

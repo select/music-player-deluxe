@@ -1,7 +1,7 @@
 {
   "youtubeId": "XSgr0bip7xg",
   "title": "Ten Years After - One Of These Days - 8/4/1975 - Winterland (Official)",
-  "lastFetched": "2025-11-26T11:02:33.846Z",
+  "lastFetched": "2025-11-30T21:36:34.016Z",
   "ai": {
     "title": "One Of These Days",
     "artist": "Ten Years After"
@@ -20,6 +20,30 @@
       "blues rock",
       "70s",
       "ten years after"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1f0e474a-42e6-4b37-9edd-8d890a5a5582",
+    "artistMbid": "73faa89a-ee00-4e40-b68e-80e4891dbc45",
+    "releaseCount": 19,
+    "genres": [
+      "blues",
+      "blues rock",
+      "classic rock",
+      "electric blues",
+      "psychedelic rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "acid rock",
+      "blues rock",
+      "british blues",
+      "classic rock",
+      "hard rock",
+      "jam band",
+      "progressive rock",
+      "psychedelic rock",
+      "rock"
     ]
   }
 }

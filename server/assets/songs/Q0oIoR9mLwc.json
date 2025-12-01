@@ -2,7 +2,7 @@
   "youtubeId": "Q0oIoR9mLwc",
   "title": "Dark Necessities",
   "artist": "Red Hot Chili Peppers",
-  "lastFetched": "2025-11-26T11:01:21.950Z",
+  "lastFetched": "2025-11-30T21:24:37.910Z",
   "odesli": {
     "amazonMusic": "B01F542JLS",
     "amazonStore": "B01F542JLS",
@@ -37,5 +37,26 @@
     "artist": "Red Hot Chili Peppers",
     "mbid": "d21421a3-16ba-4bf5-b89d-c39aabebbb8d",
     "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+  },
+  "musicbrainz": {
+    "trackMbid": "90874003-71e7-44e9-8f7f-4ccd9f03d5c0",
+    "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+    "releaseCount": 14,
+    "genres": [
+      "alternative dance",
+      "alternative rock",
+      "funk rock",
+      "neo-psychedelia",
+      "pop rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "funk",
+      "funk metal",
+      "funk rock",
+      "pop rock",
+      "rap rock",
+      "rock"
+    ]
   }
 }

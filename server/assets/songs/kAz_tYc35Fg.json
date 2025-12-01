@@ -1,7 +1,7 @@
 {
   "youtubeId": "kAz_tYc35Fg",
   "title": "Oh No",
-  "lastFetched": "2025-11-26T11:00:54.162Z",
+  "lastFetched": "2025-11-30T21:22:01.008Z",
   "ai": {
     "title": "Oh No",
     "artist": "Goodbye June"
@@ -25,6 +25,15 @@
     "artistMbid": "1b1e788c-0771-40c7-9620-7bed3c7d0258",
     "tags": [
       "my top songs"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e7230379-b66b-4c5d-8efc-707434020054",
+    "artistMbid": "1b1e788c-0771-40c7-9620-7bed3c7d0258",
+    "releaseCount": 3,
+    "artistGenres": [
+      "blues rock",
+      "hard rock"
     ]
   }
 }

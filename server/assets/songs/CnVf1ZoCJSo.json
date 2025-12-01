@@ -2,7 +2,7 @@
   "youtubeId": "CnVf1ZoCJSo",
   "title": "Shock the Monkey",
   "artist": "Peter Gabriel",
-  "lastFetched": "2025-11-19T06:33:17.270Z",
+  "lastFetched": "2025-11-30T23:35:07.217Z",
   "lastfm": {
     "id": "Peter+Gabriel/_/Shock+the+Monkey",
     "listeners": 159662,
@@ -16,6 +16,24 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5"
+    "artistMbid": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5",
+    "trackMbid": "cb175c1e-09cd-489d-a133-558d92418ad2",
+    "releaseCount": 3,
+    "artistGenres": [
+      "art pop",
+      "art rock",
+      "chamber pop",
+      "crossover prog",
+      "experimental",
+      "folk",
+      "new wave",
+      "pop",
+      "pop rock",
+      "progressive pop",
+      "progressive rock",
+      "rock",
+      "soft rock",
+      "worldbeat"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ZSznpyG9CHY",
   "title": "Lights Out",
   "artist": "Royal Blood",
-  "lastFetched": "2025-11-26T10:57:59.990Z",
+  "lastFetched": "2025-11-30T21:07:15.359Z",
   "odesli": {
     "amazonMusic": "B06Y5BMKC2",
     "amazonStore": "B06Y5BMKC2",
@@ -37,6 +37,19 @@
       "alternative rock",
       "party",
       "british"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c743860b-13f1-4cce-b23c-c17c9a159e51",
+    "artistMbid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+    "releaseCount": 14,
+    "artistGenres": [
+      "alternative rock",
+      "blues rock",
+      "garage rock",
+      "hard rock",
+      "indie rock",
+      "punk blues"
     ]
   }
 }

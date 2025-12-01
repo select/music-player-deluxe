@@ -2,7 +2,7 @@
   "youtubeId": "MKp30C3MwVk",
   "title": "Tout Petit Moineau",
   "artist": "Igorrr",
-  "lastFetched": "2025-11-19T06:00:36.701Z",
+  "lastFetched": "2025-11-30T23:38:07.191Z",
   "odesli": {
     "amazonMusic": "B0897DFD4P",
     "amazonStore": "B0897DFD4P",
@@ -27,6 +27,30 @@
       "breakcore",
       "experimental",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "25f0cd65-dbee-401c-a8fa-d89fc37a4344",
+    "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73",
+    "releaseCount": 4,
+    "genres": [
+      "baroque",
+      "breakbeat",
+      "breakcore",
+      "classical",
+      "electronic",
+      "experimental",
+      "neoclassicism"
+    ],
+    "artistGenres": [
+      "avant-garde",
+      "avant-garde metal",
+      "baroque",
+      "breakcore",
+      "death metal",
+      "electronic",
+      "experimental",
+      "idm"
     ]
   }
 }

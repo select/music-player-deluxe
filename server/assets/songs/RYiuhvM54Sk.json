@@ -1,7 +1,7 @@
 {
   "youtubeId": "RYiuhvM54Sk",
   "title": "Matt O'Brien - Serotone (Version)",
-  "lastFetched": "2025-11-26T10:59:31.425Z",
+  "lastFetched": "2025-11-30T21:15:20.006Z",
   "ai": {
     "title": "Serotone",
     "artist": "Matt O'Brien"
@@ -16,5 +16,10 @@
       "minimal",
       "electronic"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "60e80534-c6ec-430c-8523-b8c3dcb573fc",
+    "artistMbid": "fccfe4c0-b189-44e1-b8af-d1def252cb7b",
+    "releaseCount": 1
   }
 }

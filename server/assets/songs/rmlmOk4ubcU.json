@@ -1,7 +1,7 @@
 {
   "youtubeId": "rmlmOk4ubcU",
   "title": "Automaton",
-  "lastFetched": "2025-11-26T11:00:10.644Z",
+  "lastFetched": "2025-11-30T21:18:21.368Z",
   "ai": {
     "title": "Automaton",
     "artist": "Jamiroquai"
@@ -35,6 +35,26 @@
       "electronic",
       "future funk",
       "nu-disco"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5de51366-73d8-48de-a7ff-a57f8e32aaee",
+    "artistMbid": "f4857fb9-e255-4dc6-bd01-e4ca7cc68544",
+    "releaseCount": 7,
+    "genres": [
+      "ebm",
+      "electro-disco",
+      "nu disco",
+      "synth funk",
+      "synth-pop",
+      "synthwave"
+    ],
+    "artistGenres": [
+      "acid jazz",
+      "disco",
+      "funk",
+      "house",
+      "r&b"
     ]
   }
 }

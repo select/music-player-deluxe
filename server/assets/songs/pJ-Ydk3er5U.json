@@ -2,7 +2,7 @@
   "youtubeId": "pJ-Ydk3er5U",
   "title": "Regenwurm",
   "artist": "Roedelius",
-  "lastFetched": "2025-11-23T19:56:06.328Z",
+  "lastFetched": "2025-11-30T21:40:52.539Z",
   "odesli": {
     "amazonMusic": "B01NBJDVJX",
     "amazonStore": "B01NBJDVJX",
@@ -13,5 +13,18 @@
   "ai": {
     "title": "Regenwurm",
     "artist": "Roedelius"
+  },
+  "musicbrainz": {
+    "trackMbid": "cfe35014-1198-4bd4-ba18-1e1f4df5da11",
+    "artistMbid": "57cf7d67-5372-420a-9c89-77c7513d6506",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ambient",
+      "cool jazz",
+      "electronic",
+      "krautrock",
+      "modern classical",
+      "progressive electronic"
+    ]
   }
 }

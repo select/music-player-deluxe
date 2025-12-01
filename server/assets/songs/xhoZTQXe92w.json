@@ -2,7 +2,7 @@
   "youtubeId": "xhoZTQXe92w",
   "title": "Söhnlein Brilliant",
   "artist": "PÖBEL MC",
-  "lastFetched": "2025-11-19T09:18:46.788Z",
+  "lastFetched": "2025-11-30T23:22:29.008Z",
   "odesli": {
     "amazonMusic": "B09XKQPP26",
     "amazonStore": "B09XKQPP26",
@@ -24,6 +24,14 @@
       "rap",
       "hip hop",
       "germany"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "459bd2fd-7a69-436b-a529-e50f80c8b994",
+    "artistMbid": "7c2363e7-ceac-43cd-996e-cad82e6690f1",
+    "releaseCount": 4,
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

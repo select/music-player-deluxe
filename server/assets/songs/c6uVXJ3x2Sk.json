@@ -2,7 +2,7 @@
   "youtubeId": "c6uVXJ3x2Sk",
   "title": "High Energy",
   "artist": "Evelyn Thomas",
-  "lastFetched": "2025-11-23T15:11:16.969Z",
+  "lastFetched": "2025-11-30T22:26:08.122Z",
   "lastfm": {
     "title": "High Energy",
     "artist": "Evelyn Thomas",
@@ -16,6 +16,16 @@
       "80s",
       "dance",
       "party"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2f813b2b-df8e-4a25-8e21-93de54a53fd0",
+    "artistMbid": "581d0ede-1cc9-4457-91f0-a5df738e9a31",
+    "releaseCount": 6,
+    "artistGenres": [
+      "disco",
+      "hi-nrg",
+      "soul"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "m_q8IyYBrNk",
   "title": "Dendemann - Stumpf ist Trumpf 3.0",
-  "lastFetched": "2025-11-29T12:39:01.502Z",
+  "lastFetched": "2025-11-30T19:51:18.490Z",
   "ai": {
     "title": "Stumpf ist Trumpf 3.0",
     "artist": "Dendemann"
@@ -19,6 +19,17 @@
       "hip-hop",
       "hip hop",
       "die wahren perlen deutschsprachiger popmusik"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c66f1602-485d-4ee5-b4a1-6fafb052b5ce",
+    "artistMbid": "e8533fd3-4e66-4ad5-8fe5-12a916f9c4a1",
+    "releaseCount": 3,
+    "genres": [
+      "hip hop"
+    ],
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

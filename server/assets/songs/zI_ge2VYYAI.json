@@ -2,7 +2,7 @@
   "youtubeId": "zI_ge2VYYAI",
   "title": "York",
   "artist": "Christian Löffler",
-  "lastFetched": "2025-11-30T17:44:25.418Z",
+  "lastFetched": "2025-11-30T19:32:14.894Z",
   "odesli": {
     "amazonMusic": "B019HX1PLS",
     "amazonStore": "B019HX1PLS",
@@ -22,6 +22,19 @@
     "tags": [
       "york",
       "cities"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "250758f9-06c3-4286-95b2-ab402235cace",
+    "artistMbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+    "releaseCount": 4,
+    "artistGenres": [
+      "ambient house",
+      "ambient techno",
+      "melodic house",
+      "microhouse",
+      "progressive house",
+      "tech house"
     ]
   }
 }

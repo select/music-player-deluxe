@@ -1,7 +1,7 @@
 {
   "youtubeId": "TbcV3D1TYrc",
   "title": "Reinhard Mey - Wenn ich betrunken bin (live)",
-  "lastFetched": "2025-11-28T18:36:26.182Z",
+  "lastFetched": "2025-11-30T20:08:10.965Z",
   "ai": {
     "title": "Wenn ich betrunken bin",
     "artist": "Reinhard Mey"
@@ -19,6 +19,20 @@
       "reinhard mey",
       "liedermacher",
       "chanson"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f4b087eb-5cbd-4406-873c-5fabd3cd8d36",
+    "artistMbid": "3531715d-fee3-4c5b-82ff-5d85865b598b",
+    "releaseCount": 3,
+    "genres": [
+      "ballad",
+      "chanson française",
+      "pop"
+    ],
+    "artistGenres": [
+      "liedermacher",
+      "singer-songwriter"
     ]
   }
 }

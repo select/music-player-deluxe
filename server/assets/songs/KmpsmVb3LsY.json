@@ -2,7 +2,7 @@
   "youtubeId": "KmpsmVb3LsY",
   "title": "Holland",
   "artist": "Joint Venture",
-  "lastFetched": "2025-11-23T15:18:26.084Z",
+  "lastFetched": "2025-11-30T22:24:26.915Z",
   "lastfm": {
     "title": "Holland",
     "artist": "Joint Venture",
@@ -15,6 +15,19 @@
       "liedermacher",
       "german",
       "deutsch"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a87793e3-a227-400d-8300-7b8f39def3da",
+    "artistMbid": "15b8992f-4971-404e-afab-2fe8cbcbd61a",
+    "releaseCount": 4,
+    "genres": [
+      "acoustic rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "liedermacher",
+      "singer-songwriter"
     ]
   }
 }

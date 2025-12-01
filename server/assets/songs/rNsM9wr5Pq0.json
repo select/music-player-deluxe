@@ -1,7 +1,7 @@
 {
   "youtubeId": "rNsM9wr5Pq0",
   "title": "Pink Flamingos",
-  "lastFetched": "2025-11-28T18:34:54.621Z",
+  "lastFetched": "2025-11-30T20:03:37.005Z",
   "ai": {
     "title": "Pink Flamingos",
     "artist": "The Limiñanas"
@@ -29,6 +29,17 @@
       "garage",
       "garage pop",
       "indie"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "33530bf4-c187-4520-bb5e-03c5a4b4a85e",
+    "artistMbid": "5942ebdf-6573-4a68-b686-e0e37307344b",
+    "releaseCount": 3,
+    "artistGenres": [
+      "garage rock",
+      "pop",
+      "psychedelic",
+      "rock"
     ]
   }
 }

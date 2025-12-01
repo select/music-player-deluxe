@@ -2,7 +2,7 @@
   "youtubeId": "bSebtaa_s8k",
   "title": "Grasshopper",
   "artist": "Scar",
-  "lastFetched": "2025-11-19T15:27:48.145Z",
+  "lastFetched": "2025-11-30T22:53:09.655Z",
   "odesli": {
     "amazonMusic": "B0BG8M5JNP",
     "amazonStore": "B0BG8M5JNP",
@@ -26,6 +26,11 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "ec406531-3c98-4d48-9c19-53015c6dabfc"
+    "artistMbid": "da14c7a3-4599-42c1-a16b-95f6cdd85d34",
+    "trackMbid": "fc705596-7942-4105-b106-08c890e99c5d",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass"
+    ]
   }
 }

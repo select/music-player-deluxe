@@ -2,7 +2,7 @@
   "youtubeId": "sqwfDNzTYks",
   "title": "Sammy Davis Jr.",
   "artist": "Movits!",
-  "lastFetched": "2025-11-23T14:51:53.745Z",
+  "lastFetched": "2025-11-30T22:31:10.300Z",
   "odesli": {
     "amazonMusic": "B0D1QXBMPV",
     "amazonStore": "B0D1QXBMPV",
@@ -25,6 +25,15 @@
       "swedish",
       "swing",
       "rap"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6b636bed-4551-451b-b819-1cc283b98541",
+    "artistMbid": "d74c95e2-f779-43e4-9e1d-6fbaaf0c6bae",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative hip hop",
+      "swing"
     ]
   }
 }

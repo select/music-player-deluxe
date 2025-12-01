@@ -2,7 +2,7 @@
   "youtubeId": "hW8Tk3Ya58U",
   "title": "Pains",
   "artist": "Silk Rhodes",
-  "lastFetched": "2025-11-26T11:01:23.203Z",
+  "lastFetched": "2025-11-30T21:24:41.641Z",
   "odesli": {
     "amazonMusic": "B095XN4J5B",
     "amazonStore": "B095XN4J5B",
@@ -24,6 +24,15 @@
       "stones throw",
       "gilles peterson",
       "2014"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0efd5d03-1e71-496e-be47-4090df9e07db",
+    "artistMbid": "96eb1aa8-b108-458e-ad45-413bfda3d3be",
+    "releaseCount": 5,
+    "genres": [
+      "r&b",
+      "soul"
     ]
   }
 }

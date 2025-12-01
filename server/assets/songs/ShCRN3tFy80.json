@@ -2,7 +2,7 @@
   "youtubeId": "ShCRN3tFy80",
   "title": "Over and Over and Over",
   "artist": "Jack White",
-  "lastFetched": "2025-11-28T18:37:11.549Z",
+  "lastFetched": "2025-11-30T20:11:47.048Z",
   "odesli": {
     "amazonMusic": "B07959JD1H",
     "amazonStore": "B07959JD1H",
@@ -27,6 +27,20 @@
       "garage rock",
       "2010s",
       "2018"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c252959e-fa40-43f4-88c1-0084440d9ad5",
+    "artistMbid": "3ae2fb37-8a23-429d-9920-bac811c4fc22",
+    "releaseCount": 12,
+    "artistGenres": [
+      "alternative rock",
+      "art rock",
+      "blues rock",
+      "experimental rock",
+      "garage rock revival",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

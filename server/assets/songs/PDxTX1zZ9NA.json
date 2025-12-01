@@ -2,7 +2,7 @@
   "youtubeId": "PDxTX1zZ9NA",
   "title": "Technautic",
   "artist": "Secret Circuit",
-  "lastFetched": "2025-11-23T15:20:58.355Z",
+  "lastFetched": "2025-11-30T22:24:01.299Z",
   "odesli": {
     "amazonMusic": "B0BXSRHQ3Z",
     "amazonStore": "B0BXSRHQ3Z",
@@ -23,5 +23,10 @@
       "experimental",
       "nu disco"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c37798c2-6c81-4d24-9a76-41741dddc2e1",
+    "artistMbid": "9e149893-bb90-4669-a8ce-e35dd42eea57",
+    "releaseCount": 2
   }
 }

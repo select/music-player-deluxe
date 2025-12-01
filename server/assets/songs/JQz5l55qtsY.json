@@ -2,7 +2,7 @@
   "youtubeId": "JQz5l55qtsY",
   "title": "Lightenup",
   "artist": "Parcels",
-  "lastFetched": "2025-11-29T13:48:06.500Z",
+  "lastFetched": "2025-11-30T19:50:06.924Z",
   "odesli": {
     "amazonMusic": "B07H2KW6VT",
     "amazonStore": "B07H2KW6VT",
@@ -29,6 +29,21 @@
       "123 bpm",
       "2018",
       "2018 single"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3b403c1d-9970-4ac2-8274-6ac768e87d00",
+    "artistMbid": "5318e774-f5b6-4ee0-82cb-4dcf398c3ff8",
+    "releaseCount": 4,
+    "genres": [
+      "boogie",
+      "disco"
+    ],
+    "artistGenres": [
+      "boogie",
+      "disco",
+      "indietronica",
+      "nu disco"
     ]
   }
 }

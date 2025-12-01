@@ -1,7 +1,7 @@
 {
   "youtubeId": "Z90ckQ-fEKQ",
   "title": "International Music System - An English '93   (1983)",
-  "lastFetched": "2025-11-26T11:03:03.189Z",
+  "lastFetched": "2025-11-30T22:41:14.223Z",
   "ai": {
     "title": "An English '93",
     "artist": "International Music System"
@@ -19,5 +19,10 @@
       "italo-disco",
       "robot-disco"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6ed0dec6-0609-430e-9911-c13cf06b9c8e",
+    "artistMbid": "b107577f-f214-472d-a58e-5c78e277cf50",
+    "releaseCount": 1
   }
 }

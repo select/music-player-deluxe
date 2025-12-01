@@ -1,7 +1,7 @@
 {
   "youtubeId": "PVnGDwdom7c",
   "title": "Thundercat - Drunk (2017) Full Album",
-  "lastFetched": "2025-11-27T12:02:56.888Z",
+  "lastFetched": "2025-11-30T20:39:25.411Z",
   "ai": {
     "title": "Drunk",
     "artist": "Thundercat"
@@ -17,6 +17,42 @@
     "tags": [
       "jazz fusion",
       "so many feels bro"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e49d7c5e-723c-4cc0-9f09-b027ad62c9d0",
+    "artistMbid": "044fd265-79dd-43eb-afc4-8b20becf7e17",
+    "releaseCount": 6,
+    "genres": [
+      "hip hop",
+      "jazz",
+      "jazz fusion",
+      "neo soul",
+      "psychedelic soul"
+    ],
+    "artistGenres": [
+      "acid jazz",
+      "alternative r&b",
+      "contemporary jazz",
+      "crossover thrash",
+      "dance",
+      "disco",
+      "electronic",
+      "electronica",
+      "funk",
+      "funktronica",
+      "future bass",
+      "hip hop",
+      "house",
+      "jazz fusion",
+      "neo soul",
+      "nu jazz",
+      "pop",
+      "psychedelic soul",
+      "r&b",
+      "soul",
+      "trap",
+      "yacht rock"
     ]
   }
 }

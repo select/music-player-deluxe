@@ -2,7 +2,7 @@
   "youtubeId": "sQVeK7Dt18U",
   "title": "Late Night (Solomun Remix)",
   "artist": "Foals",
-  "lastFetched": "2025-11-27T12:03:49.113Z",
+  "lastFetched": "2025-11-30T20:48:01.929Z",
   "odesli": {
     "amazonMusic": "B073PPLGK5",
     "amazonStore": "B073PPLGK5",
@@ -32,6 +32,22 @@
       "you",
       "favourite remixes",
       "ne 75"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f4cdf660-340e-44a4-83dc-ac1562242bb0",
+    "artistMbid": "6a65d878-fcd0-42cf-aff9-ca1d636a8bcc",
+    "releaseCount": 11,
+    "genres": [
+      "house"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "art rock",
+      "dance-punk",
+      "indie rock",
+      "math rock",
+      "new wave"
     ]
   }
 }

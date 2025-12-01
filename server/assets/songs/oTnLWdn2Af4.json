@@ -2,7 +2,7 @@
   "youtubeId": "oTnLWdn2Af4",
   "title": "Tides",
   "artist": "Beanfield",
-  "lastFetched": "2025-11-26T11:02:03.688Z",
+  "lastFetched": "2025-11-30T21:28:27.856Z",
   "odesli": {
     "anghami": "1024598541",
     "boomplay": "55265809",
@@ -27,6 +27,21 @@
       "brazilectro",
       "soulful house",
       "adds"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "873d0a3e-89d7-43fd-826a-a66e14d7a6e7",
+    "artistMbid": "ad0811ea-e213-451d-b22f-fa1a7f9e0226",
+    "releaseCount": 1,
+    "genres": [
+      "acid jazz",
+      "electro",
+      "electronic",
+      "house",
+      "jazz",
+      "latin",
+      "nu jazz",
+      "tech house"
     ]
   }
 }

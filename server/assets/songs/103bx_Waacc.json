@@ -2,7 +2,7 @@
   "youtubeId": "103bx_Waacc",
   "title": "Je ne parle pas français",
   "artist": "Namika",
-  "lastFetched": "2025-11-29T13:48:56.566Z",
+  "lastFetched": "2025-11-30T19:56:09.328Z",
   "odesli": {
     "amazonMusic": "B07DQPTN1J",
     "amazonStore": "B07DQPTN1J",
@@ -29,6 +29,17 @@
     "tags": [
       "pop",
       "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e5760c02-a146-4655-9094-a97824b6048c",
+    "artistMbid": "dffb8426-b595-4b95-8abe-d07af75e87ef",
+    "releaseCount": 15,
+    "artistGenres": [
+      "conscious hip hop",
+      "contemporary r&b",
+      "pop",
+      "pop rap"
     ]
   }
 }

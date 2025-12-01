@@ -2,7 +2,7 @@
   "youtubeId": "JnhjWUepaE8",
   "title": "Dustup",
   "artist": "Noisia",
-  "lastFetched": "2025-11-27T12:04:33.967Z",
+  "lastFetched": "2025-11-30T20:54:35.107Z",
   "odesli": {
     "amazonMusic": "B09H2MRYPB",
     "amazonStore": "B09H2MRYPB",
@@ -33,6 +33,25 @@
       "drum and bass",
       "neurofunk",
       "dnb"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "87f957de-e147-4614-9219-9d13068d2d03",
+    "artistMbid": "ec22a32b-acab-432e-a88c-ffe6ae68fa16",
+    "releaseCount": 10,
+    "genres": [
+      "drum and bass",
+      "electronic",
+      "neurofunk"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "dubstep",
+      "edm",
+      "electro house",
+      "electronic",
+      "halftime",
+      "neurofunk"
     ]
   }
 }

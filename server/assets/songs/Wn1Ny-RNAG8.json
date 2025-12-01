@@ -2,7 +2,7 @@
   "youtubeId": "Wn1Ny-RNAG8",
   "title": "Seine Saint-Denis Style",
   "artist": "Suprême NTM",
-  "lastFetched": "2025-11-27T10:39:06.586Z",
+  "lastFetched": "2025-11-30T20:36:18.418Z",
   "odesli": {
     "amazonMusic": "B001M07K1E",
     "amazonStore": "B001M07K1E",
@@ -13,5 +13,13 @@
     "tidal": "1791103",
     "youtube": "Wn1Ny-RNAG8",
     "youtubeMusic": "Wn1Ny-RNAG8"
+  },
+  "musicbrainz": {
+    "trackMbid": "0426c685-468d-4749-a0b1-eca597dec3e9",
+    "artistMbid": "0135e5ec-4ffd-46e5-9c3c-566b3df46a8d",
+    "releaseCount": 3,
+    "artistGenres": [
+      "hip hop"
+    ]
   }
 }

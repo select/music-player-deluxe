@@ -2,7 +2,7 @@
   "youtubeId": "mPRwnF4wJUc",
   "title": "Funky For You",
   "artist": "Nice & Smooth",
-  "lastFetched": "2025-11-23T14:17:47.973Z",
+  "lastFetched": "2025-11-30T22:43:14.334Z",
   "lastfm": {
     "title": "Funky For You",
     "artist": "Nice & Smooth",
@@ -14,6 +14,18 @@
     "tags": [
       "kiche",
       "hip-hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "be42b1c6-67c2-4004-abb3-8b62cff43e06",
+    "artistMbid": "e0af5e8b-403c-4059-bd83-5ae037b391b7",
+    "releaseCount": 1,
+    "genres": [
+      "east coast hip hop",
+      "hip hop"
+    ],
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

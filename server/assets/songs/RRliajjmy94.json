@@ -2,7 +2,7 @@
   "youtubeId": "RRliajjmy94",
   "title": "Ric Flair Strut",
   "artist": "Breakage",
-  "lastFetched": "2025-11-19T07:11:27.160Z",
+  "lastFetched": "2025-11-30T23:31:50.633Z",
   "odesli": {
     "amazonMusic": "B075CP3KRK",
     "amazonStore": "B075CP3KRK",
@@ -32,6 +32,27 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "6e9a0ac8-699b-4817-8f9b-25a6dba89f57"
+    "artistMbid": "6e9a0ac8-699b-4817-8f9b-25a6dba89f57",
+    "trackMbid": "ff10f955-9918-4ec2-83ef-52b54ada83f3",
+    "releaseCount": 1,
+    "artistGenres": [
+      "bassline",
+      "breakbeat",
+      "breaks",
+      "club",
+      "dance",
+      "drum and bass",
+      "dubstep",
+      "electronic",
+      "electronica",
+      "future bass",
+      "grime",
+      "house",
+      "jungle",
+      "liquid funk",
+      "pop",
+      "trap",
+      "uk garage"
+    ]
   }
 }

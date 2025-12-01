@@ -2,7 +2,7 @@
   "youtubeId": "y6RoJ4GIM9k",
   "title": "Things Fall Apart",
   "artist": "Built To Spill",
-  "lastFetched": "2025-11-29T13:48:02.908Z",
+  "lastFetched": "2025-11-30T19:49:33.016Z",
   "odesli": {
     "amazonMusic": "B002Q6J1HE",
     "amazonStore": "B002Q6J1HE",
@@ -26,6 +26,19 @@
       "when surrounded by zombies and with only one bullet left i would listen to this songs first and then kill myself",
       "story of my life",
       "awesome guitar jams"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "47e027b3-8590-488a-b450-d27ceca74276",
+    "artistMbid": "3ac482b8-1494-4071-a0e9-f192f9d2c2b0",
+    "releaseCount": 5,
+    "genres": [
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "indie rock",
+      "rock"
     ]
   }
 }

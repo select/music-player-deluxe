@@ -2,7 +2,7 @@
   "youtubeId": "Kx2x_YUzOQQ",
   "title": "The Whispers",
   "artist": "KXD-LvL",
-  "lastFetched": "2025-11-24T00:21:56.418Z",
+  "lastFetched": "2025-11-30T21:44:31.165Z",
   "odesli": {
     "amazonMusic": "B0C2J99S69",
     "amazonStore": "B0C2J99S69",
@@ -22,5 +22,10 @@
     "tags": [
       "techno"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f9c5b873-9d29-4d49-81ab-804d5d8f8c9b",
+    "artistMbid": "d482b1d6-5b60-41a5-8364-11bdcdb3ae54",
+    "releaseCount": 1
   }
 }

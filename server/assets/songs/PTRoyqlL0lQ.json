@@ -1,7 +1,7 @@
 {
   "youtubeId": "PTRoyqlL0lQ",
   "title": "Would I Lie To You (Extended)",
-  "lastFetched": "2025-11-26T11:01:28.874Z",
+  "lastFetched": "2025-11-30T21:25:18.216Z",
   "ai": {
     "title": "Would I Lie to You",
     "artist": "David Guetta, Cedric Gervais & Chris Willis"
@@ -30,6 +30,22 @@
       "electronic",
       "club",
       "techno"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "520a98aa-26b1-40ac-a8a8-27611e4b584f",
+    "artistMbid": "302bd7b9-d012-4360-897a-93b00c855680",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dance",
+      "dance-pop",
+      "electro house",
+      "electronic",
+      "electropop",
+      "festival progressive house",
+      "future rave",
+      "house",
+      "tech house"
     ]
   }
 }

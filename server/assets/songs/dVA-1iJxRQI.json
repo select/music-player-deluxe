@@ -2,7 +2,7 @@
   "youtubeId": "dVA-1iJxRQI",
   "title": "A Hazy Shade of Winter",
   "artist": "Simon & Garfunkel",
-  "lastFetched": "2025-11-19T08:22:46.088Z",
+  "lastFetched": "2025-11-30T23:26:24.399Z",
   "odesli": {
     "amazonMusic": "B07RV76CYP",
     "amazonStore": "B07RV76CYP",
@@ -23,6 +23,31 @@
       "classic rock",
       "oldies",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cf40de89-8bbd-4980-a0ee-7fab8db895b6",
+    "artistMbid": "5d02f264-e225-41ff-83f7-d9b1f0b1874a",
+    "releaseCount": 25,
+    "genres": [
+      "classic rock",
+      "folk",
+      "folk pop",
+      "folk rock",
+      "pop",
+      "rock",
+      "singer-songwriter",
+      "soft rock",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "contemporary folk",
+      "folk",
+      "folk pop",
+      "folk rock",
+      "pop",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

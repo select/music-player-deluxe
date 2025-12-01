@@ -2,7 +2,7 @@
   "youtubeId": "5mQVljB7JGw",
   "title": "Heavy Cross",
   "artist": "Gossip",
-  "lastFetched": "2025-11-27T12:03:39.592Z",
+  "lastFetched": "2025-11-30T20:46:48.576Z",
   "odesli": {
     "amazonMusic": "B002CUGZPA",
     "amazonStore": "B002CUGZPA",
@@ -30,6 +30,31 @@
       "indie",
       "rock",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d3d6f9b9-590b-47ac-9a68-dacaf66154ca",
+    "artistMbid": "0f96c38b-8e21-4571-afe0-cb11196a8acd",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "dance-punk",
+      "disco",
+      "electro",
+      "electronic",
+      "indie pop",
+      "indie rock",
+      "leftfield",
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "garage punk",
+      "garage rock",
+      "indie rock",
+      "pop rock",
+      "post-punk"
     ]
   }
 }

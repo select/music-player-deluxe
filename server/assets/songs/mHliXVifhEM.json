@@ -2,7 +2,7 @@
   "youtubeId": "mHliXVifhEM",
   "title": "Doctor Worm",
   "artist": "They Might Be Giants",
-  "lastFetched": "2025-11-23T19:35:08.876Z",
+  "lastFetched": "2025-11-30T21:49:19.998Z",
   "odesli": {
     "amazonMusic": "B00DZLN922",
     "amazonStore": "B00DZLN922",
@@ -29,6 +29,22 @@
       "rock",
       "funny",
       "i feel like shit but this song is helping"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e380b31a-9e0d-49ed-9df4-9c4ba04bf585",
+    "artistMbid": "183d6ef6-e161-47ff-9085-063c8b897e97",
+    "releaseCount": 7,
+    "artistGenres": [
+      "alternative rock",
+      "art pop",
+      "children's music",
+      "geek rock",
+      "indie pop",
+      "pop punk",
+      "pop rock",
+      "power pop",
+      "rock"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "u1ZvPSpLxCg",
   "title": "Mad World",
   "artist": "Tears for Fears",
-  "lastFetched": "2025-11-19T06:22:34.396Z",
+  "lastFetched": "2025-11-30T23:36:09.218Z",
   "odesli": {
     "amazonMusic": "B000W24V8I",
     "amazonStore": "B000W24V8I",
@@ -24,7 +24,17 @@
       "synth pop",
       "alternative"
     ],
-    "artistMbid": "7c7f9c94-dee8-4903-892b-6cf44652e2de"
+    "artistMbid": "7c7f9c94-dee8-4903-892b-6cf44652e2de",
+    "trackMbid": "1e660f80-0f3c-4735-8bfe-3fe79a6f418b",
+    "releaseCount": 3,
+    "artistGenres": [
+      "art pop",
+      "new wave",
+      "pop rock",
+      "psychedelic pop",
+      "sophisti-pop",
+      "synth-pop"
+    ]
   },
   "lastfm": {
     "id": "Tears+for+Fears/_/Mad+World",

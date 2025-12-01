@@ -2,7 +2,7 @@
   "youtubeId": "wV5b2RWK0e0",
   "title": "Love Burns",
   "artist": "Black Rebel Motorcycle Club",
-  "lastFetched": "2025-11-23T19:34:29.416Z",
+  "lastFetched": "2025-11-30T21:52:18.633Z",
   "odesli": {
     "amazonMusic": "B0BQMSHVXC",
     "amazonStore": "B0BQMSHVXC",
@@ -27,6 +27,21 @@
       "indie",
       "alternative rock",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cdf34a4f-0eb4-4c24-840b-def98ca1c1d2",
+    "artistMbid": "32b90c92-9978-4a07-90eb-caa4b22f4907",
+    "releaseCount": 3,
+    "artistGenres": [
+      "alternative rock",
+      "blues rock",
+      "garage rock",
+      "garage rock revival",
+      "gothic country",
+      "indie rock",
+      "psychedelic rock",
+      "rock"
     ]
   }
 }

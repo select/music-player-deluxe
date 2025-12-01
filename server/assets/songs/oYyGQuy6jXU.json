@@ -2,7 +2,7 @@
   "youtubeId": "oYyGQuy6jXU",
   "title": "Murder Was The Bass",
   "artist": "DK8",
-  "lastFetched": "2025-11-23T19:34:19.075Z",
+  "lastFetched": "2025-11-30T21:53:13.921Z",
   "odesli": {
     "amazonMusic": "B00D26V620",
     "amazonStore": "B00D26V620",
@@ -22,5 +22,10 @@
     "tags": [
       "techno"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e7d7f501-c5c8-4876-ac21-2587433fd789",
+    "artistMbid": "5b65de8d-cba1-4cb4-b6dd-f9eff1aba1f9",
+    "releaseCount": 2
   }
 }

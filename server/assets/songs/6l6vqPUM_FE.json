@@ -2,7 +2,7 @@
   "youtubeId": "6l6vqPUM_FE",
   "title": "I Don't Want To Set The World On Fire",
   "artist": "The Ink Spots",
-  "lastFetched": "2025-11-23T14:57:01.255Z",
+  "lastFetched": "2025-11-30T22:30:06.652Z",
   "odesli": {
     "amazonMusic": "B07G95NDMH",
     "amazonStore": "B07G95NDMH",
@@ -41,6 +41,15 @@
       "oldies",
       "40s",
       "fallout"
+    ],
+    "trackMbid": "1b96cd71-a5d0-476d-ab71-ae3f4f31421a",
+    "artistMbid": "75f47650-8a52-494a-8334-c5279bc6db09",
+    "releaseCount": 1,
+    "artistGenres": [
+      "blues",
+      "doo-wop",
+      "jazz",
+      "vocal jazz"
     ]
   }
 }

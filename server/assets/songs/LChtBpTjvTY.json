@@ -2,7 +2,7 @@
   "youtubeId": "LChtBpTjvTY",
   "title": "The Hounds",
   "artist": "The Protomen",
-  "lastFetched": "2025-11-28T12:14:40.870Z",
+  "lastFetched": "2025-11-30T20:40:51.083Z",
   "odesli": {
     "amazonMusic": "B002LVT8KE",
     "amazonStore": "B002LVT8KE",
@@ -24,6 +24,25 @@
     "tags": [
       "rock opera",
       "jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9f3963cd-5cc9-4654-b6e5-b8ff0c8348f3",
+    "artistMbid": "efbbb96f-7c02-4428-802b-e60335fbb118",
+    "releaseCount": 3,
+    "genres": [
+      "glam",
+      "hard rock",
+      "indie rock",
+      "jazz",
+      "rock",
+      "rockabilly"
+    ],
+    "artistGenres": [
+      "alternative punk",
+      "alternative rock",
+      "rock",
+      "rock opera"
     ]
   }
 }

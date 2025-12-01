@@ -2,7 +2,7 @@
   "youtubeId": "ftS2xk7VJGQ",
   "title": "Synaptic Transmission",
   "artist": "John Beltran",
-  "lastFetched": "2025-11-23T14:06:06.528Z",
+  "lastFetched": "2025-11-30T22:48:36.887Z",
   "lastfm": {
     "title": "Synaptic Transmission",
     "artist": "John Beltran",
@@ -14,6 +14,14 @@
     "tags": [
       "interesting music new to me",
       "for howisya to hear"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8a8f0a23-ca60-4e99-857a-09ef12ac01b1",
+    "artistMbid": "7c89d2d2-7016-4c5b-bf38-f4b8cf2a370a",
+    "releaseCount": 2,
+    "genres": [
+      "idm"
     ]
   }
 }

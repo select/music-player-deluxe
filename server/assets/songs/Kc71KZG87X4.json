@@ -2,7 +2,7 @@
   "youtubeId": "Kc71KZG87X4",
   "title": "Burning Heart",
   "artist": "Survivor",
-  "lastFetched": "2025-11-19T06:59:44.691Z",
+  "lastFetched": "2025-11-30T23:33:08.476Z",
   "odesli": {
     "amazonMusic": "B00137IM90",
     "amazonStore": "B00137IM90",
@@ -27,6 +27,25 @@
       "classic rock",
       "soundtrack",
       "hard rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fbf5793d-88ac-4e30-be41-5c6e7e11d0b9",
+    "artistMbid": "55ef024a-6cc0-49ed-8ce2-2e12193c0f46",
+    "releaseCount": 25,
+    "genres": [
+      "blues",
+      "classic rock",
+      "hard rock",
+      "pop",
+      "rock",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "aor",
+      "hard rock",
+      "pop rock",
+      "rock"
     ]
   }
 }

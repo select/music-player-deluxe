@@ -2,7 +2,7 @@
   "youtubeId": "P8JEm4d6Wu4",
   "title": "Insomnia",
   "artist": "Faithless",
-  "lastFetched": "2025-11-19T10:45:28.201Z",
+  "lastFetched": "2025-11-30T23:17:42.271Z",
   "odesli": {
     "amazonMusic": "B01MXVQCMO",
     "amazonStore": "B01MXVQCMO",
@@ -33,6 +33,20 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "23d9d74d-c95e-46a6-be26-a6075c49747a"
+    "artistMbid": "23d9d74d-c95e-46a6-be26-a6075c49747a",
+    "trackMbid": "32578115-9eaf-4974-bf06-1a7b613b25d3",
+    "releaseCount": 3,
+    "artistGenres": [
+      "dance",
+      "dance-pop",
+      "downtempo",
+      "electronic",
+      "house",
+      "progressive house",
+      "progressive trance",
+      "techno",
+      "trance",
+      "trip hop"
+    ]
   }
 }

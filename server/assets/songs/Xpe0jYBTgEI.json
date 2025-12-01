@@ -2,7 +2,7 @@
   "youtubeId": "Xpe0jYBTgEI",
   "title": "Emerald (The Antidote)",
   "artist": "Djrum",
-  "lastFetched": "2025-11-23T14:03:30.877Z",
+  "lastFetched": "2025-11-30T22:49:51.651Z",
   "lastfm": {
     "title": "Emerald (The Antidote)",
     "artist": "Djrum",
@@ -14,6 +14,18 @@
       "dubstep",
       "electronic",
       "bass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3240d1d4-a414-48df-84ce-4f429dd74408",
+    "artistMbid": "ed19b934-f1a8-4b04-aa74-6f9033caed26",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ambient",
+      "dubstep",
+      "electronic",
+      "idm",
+      "techno"
     ]
   }
 }

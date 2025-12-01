@@ -2,7 +2,7 @@
   "youtubeId": "a6JUTiVj5Sw",
   "title": "Bureau De Fatigue",
   "artist": "Laundromat",
-  "lastFetched": "2025-11-19T14:08:07.352Z",
+  "lastFetched": "2025-11-30T23:00:21.642Z",
   "odesli": {
     "amazonMusic": "B0BH17C7FC",
     "amazonStore": "B0BH17C7FC",
@@ -27,6 +27,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "4e7819f0-0139-4db3-8b27-4ef8d75b1231"
+    "artistMbid": "4e7819f0-0139-4db3-8b27-4ef8d75b1231",
+    "trackMbid": "4be2a344-ba06-4f0c-8a9a-8ba6cd885ec3",
+    "releaseCount": 1
   }
 }

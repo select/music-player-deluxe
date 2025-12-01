@@ -2,7 +2,7 @@
   "youtubeId": "Uz_eZ8-exE0",
   "title": "Kilometer",
   "artist": "Sébastien Tellier",
-  "lastFetched": "2025-11-26T11:00:01.428Z",
+  "lastFetched": "2025-11-30T21:18:06.205Z",
   "odesli": {
     "amazonMusic": "B0D1LBRWJZ",
     "amazonStore": "B0D1LBRWJZ",
@@ -26,6 +26,18 @@
     "tags": [
       "electronic",
       "sexy"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3b80ab54-19ed-4902-9bb5-31b64da9d9e4",
+    "artistMbid": "ac69016f-42cc-4322-b70e-101458b769aa",
+    "releaseCount": 10,
+    "artistGenres": [
+      "ambient pop",
+      "downtempo",
+      "electronic",
+      "french house",
+      "pop"
     ]
   }
 }

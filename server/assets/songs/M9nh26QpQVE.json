@@ -2,7 +2,7 @@
   "youtubeId": "M9nh26QpQVE",
   "title": "Lie Detection",
   "artist": "Proxima",
-  "lastFetched": "2025-11-19T12:17:17.324Z",
+  "lastFetched": "2025-11-30T23:10:33.047Z",
   "lastfm": {
     "id": "Proxima/_/Lie+Detection",
     "listeners": 2062,
@@ -12,6 +12,12 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "e3d17632-a940-443a-b4db-f1942154c140"
+    "artistMbid": "3c415c94-6be6-4ab7-b923-3be36d209a79",
+    "trackMbid": "42a0750c-939d-42a5-a0a1-763c3e03a727",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dubstep",
+      "electronic"
+    ]
   }
 }

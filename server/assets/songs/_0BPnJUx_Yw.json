@@ -1,7 +1,7 @@
 {
   "youtubeId": "_0BPnJUx_Yw",
   "title": "Anya Marina - Whatever You Like (album version)",
-  "lastFetched": "2025-11-27T12:01:28.521Z",
+  "lastFetched": "2025-11-30T20:30:23.191Z",
   "ai": {
     "title": "Whatever You Like",
     "artist": "Anya Marina"
@@ -19,6 +19,14 @@
       "cover",
       "covers",
       "cover songs"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "03a23742-0e1d-4ac5-9366-d6dedb82e00c",
+    "artistMbid": "84b0af1a-8f10-433f-a1ed-948e71712b16",
+    "releaseCount": 2,
+    "artistGenres": [
+      "indie pop"
     ]
   }
 }

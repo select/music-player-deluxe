@@ -2,7 +2,7 @@
   "youtubeId": "kPbnVEFr2ao",
   "title": "No Sunset For Soul",
   "artist": "Monty",
-  "lastFetched": "2025-11-19T15:17:37.159Z",
+  "lastFetched": "2025-11-30T22:54:07.338Z",
   "odesli": {
     "amazonMusic": "B0CCCCX3MV",
     "amazonStore": "B0CCCCX3MV",
@@ -19,6 +19,15 @@
       "dubstep",
       "swedish",
       "drum and bass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9a942f10-1648-455c-86a5-7394d2be5cd8",
+    "artistMbid": "0e24d8df-5f7c-436e-a453-c5ab007c7a6a",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass",
+      "dubstep"
     ]
   }
 }

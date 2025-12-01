@@ -1,7 +1,7 @@
 {
   "youtubeId": "C18MDTO2aI4",
   "title": "LSB - Tripped",
-  "lastFetched": "2025-11-28T18:35:39.976Z",
+  "lastFetched": "2025-11-30T20:05:49.008Z",
   "ai": {
     "title": "Tripped",
     "artist": "LSB"
@@ -17,6 +17,14 @@
     "tags": [
       "drum and bass",
       "liquid funk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bb7031d5-0308-44c0-bb85-12f748277831",
+    "artistMbid": "edd4f120-735c-4e63-a7b9-b66aca234348",
+    "releaseCount": 2,
+    "artistGenres": [
+      "drum and bass"
     ]
   }
 }

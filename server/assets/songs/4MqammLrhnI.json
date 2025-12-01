@@ -2,13 +2,29 @@
   "youtubeId": "4MqammLrhnI",
   "title": "Free Soul",
   "artist": "John Klemmer",
-  "lastFetched": "2025-11-19T14:18:50.842Z",
+  "lastFetched": "2025-11-30T22:59:41.453Z",
   "lastfm": {
     "id": "John+Klemmer/_/Free+Soul",
     "listeners": 7012,
     "playcount": 20653,
     "tags": [
       "jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "313ff2dc-7371-4759-9976-91af5f6d1a8a",
+    "artistMbid": "e37848cb-455c-4963-bdff-ac19da0b921c",
+    "releaseCount": 2,
+    "genres": [
+      "free jazz",
+      "jazz"
+    ],
+    "artistGenres": [
+      "contemporary jazz",
+      "jazz",
+      "jazz fusion",
+      "post-bop",
+      "smooth jazz"
     ]
   }
 }

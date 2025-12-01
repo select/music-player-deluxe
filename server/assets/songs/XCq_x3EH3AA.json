@@ -2,7 +2,7 @@
   "youtubeId": "XCq_x3EH3AA",
   "title": "All The Right Noises",
   "artist": "Roman Flügel",
-  "lastFetched": "2025-11-23T14:07:07.334Z",
+  "lastFetched": "2025-11-30T22:48:20.335Z",
   "lastfm": {
     "title": "All The Right Noises",
     "artist": "Roman Flügel",
@@ -17,6 +17,14 @@
       "techno",
       "minimal",
       "electro"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e11a5006-f3b9-4891-85dd-10a003783973",
+    "artistMbid": "5286b91c-5d42-4cab-933a-77e30eb74ddc",
+    "releaseCount": 3,
+    "artistGenres": [
+      "electronic"
     ]
   }
 }

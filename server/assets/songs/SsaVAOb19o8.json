@@ -2,7 +2,7 @@
   "youtubeId": "SsaVAOb19o8",
   "title": "She Said",
   "artist": "The Jins",
-  "lastFetched": "2025-11-19T05:01:08.128Z",
+  "lastFetched": "2025-11-30T23:40:12.634Z",
   "odesli": {
     "amazonMusic": "B07N98KQ5W",
     "amazonStore": "B07N98KQ5W",
@@ -30,6 +30,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "dc010eb5-ebdc-4b88-85cf-6db44c3a9ba3"
+    "artistMbid": "dc010eb5-ebdc-4b88-85cf-6db44c3a9ba3",
+    "trackMbid": "034a32ad-bead-4770-8149-c69ea3e8bd48",
+    "releaseCount": 1
   }
 }

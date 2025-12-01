@@ -2,7 +2,7 @@
   "youtubeId": "_dp3WEYhHjc",
   "title": "Evil Dub (2023 Edit)",
   "artist": "Swayzak",
-  "lastFetched": "2025-11-19T12:50:58.003Z",
+  "lastFetched": "2025-11-30T23:07:30.258Z",
   "odesli": {
     "soundcloud": "s_w_z_k/swayzak-evil-dub-2023-edit",
     "tidal": "293971812",
@@ -22,6 +22,12 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "2d91695d-a291-49d4-a028-2584edbf9bd6"
+    "artistMbid": "2d91695d-a291-49d4-a028-2584edbf9bd6",
+    "trackMbid": "02841267-6c9c-497b-8842-2f04b4ae0c61",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic",
+      "tech house"
+    ]
   }
 }

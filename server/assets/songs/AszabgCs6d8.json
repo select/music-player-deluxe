@@ -2,7 +2,7 @@
   "youtubeId": "AszabgCs6d8",
   "title": "Devotion And Desire",
   "artist": "Bayside",
-  "lastFetched": "2025-11-30T17:44:17.902Z",
+  "lastFetched": "2025-11-30T19:31:38.838Z",
   "odesli": {
     "amazonMusic": "B073GLJCDH",
     "amazonStore": "B073GLJCDH",
@@ -25,6 +25,24 @@
       "alternative rock",
       "rock",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "882ae265-e549-47cd-97fd-3449ba37fe05",
+    "artistMbid": "5f821136-9935-403c-abb5-e78ddda35e9f",
+    "releaseCount": 10,
+    "genres": [
+      "alternative rock",
+      "emo",
+      "post-punk",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "emo",
+      "punk rock",
+      "rock"
     ]
   }
 }

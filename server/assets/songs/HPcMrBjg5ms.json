@@ -2,7 +2,7 @@
   "youtubeId": "HPcMrBjg5ms",
   "title": "My Love Is",
   "artist": "Little Willie John",
-  "lastFetched": "2025-11-23T15:45:58.405Z",
+  "lastFetched": "2025-11-30T22:16:47.365Z",
   "odesli": {
     "amazonMusic": "B005JLSB3I",
     "amazonStore": "B005JLSB3I",
@@ -32,6 +32,15 @@
       "lone star",
       "radio paradise",
       "radioparadise"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e9577dd9-ed5f-4ad6-93b9-a0e8ef378930",
+    "artistMbid": "d59ce86d-2cc3-49be-be12-3eb4dde6e1ed",
+    "releaseCount": 1,
+    "artistGenres": [
+      "r&b",
+      "soul"
     ]
   }
 }

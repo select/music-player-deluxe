@@ -2,7 +2,7 @@
   "youtubeId": "BN1WwnEDWAM",
   "title": "Should I Stay or Should I Go",
   "artist": "The Clash",
-  "lastFetched": "2025-11-19T11:52:48.534Z",
+  "lastFetched": "2025-11-30T23:12:06.734Z",
   "odesli": {
     "amazonMusic": "B00EQRHZNI",
     "amazonStore": "B00EQRHZNI",
@@ -33,6 +33,29 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "8f92558c-2baa-4758-8c38-615519e9deda"
+    "artistMbid": "8f92558c-2baa-4758-8c38-615519e9deda",
+    "trackMbid": "266272ca-3a00-4364-b974-1aef7f1cc76d",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "dub",
+      "electronic",
+      "new wave",
+      "pop",
+      "pop rock",
+      "post-punk",
+      "punk",
+      "punk rock",
+      "reggae",
+      "rock"
+    ],
+    "artistGenres": [
+      "dance-punk",
+      "new wave",
+      "post-punk",
+      "punk",
+      "punk rock",
+      "reggae rock"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "Gf68J5iqK6g",
   "title": "Born 2 Live",
   "artist": "O.C.",
-  "lastFetched": "2025-11-23T14:38:38.600Z",
+  "lastFetched": "2025-11-30T22:35:27.624Z",
   "lastfm": {
     "title": "Born 2 Live",
     "artist": "O.C.",
@@ -16,6 +16,22 @@
       "chill",
       "oc",
       "nostalgic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bbaa562d-1f1c-41e1-9325-a82b5743c7cd",
+    "artistMbid": "f804d8c0-bf16-4e15-92db-e3642d629f95",
+    "releaseCount": 7,
+    "genres": [
+      "dance",
+      "east coast hip hop",
+      "hip hop",
+      "house"
+    ],
+    "artistGenres": [
+      "boom bap",
+      "east coast hip hop",
+      "hip hop"
     ]
   }
 }

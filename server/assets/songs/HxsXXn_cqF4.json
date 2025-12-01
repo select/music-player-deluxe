@@ -2,7 +2,7 @@
   "youtubeId": "HxsXXn_cqF4",
   "title": "The Trembling Hand",
   "artist": "Hot Sugar",
-  "lastFetched": "2025-11-28T18:38:33.946Z",
+  "lastFetched": "2025-11-30T20:16:37.611Z",
   "odesli": {
     "amazonMusic": "B06XCDG267",
     "amazonStore": "B06XCDG267",
@@ -25,5 +25,10 @@
     "tags": [
       "music to get the pussy wet"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "be9356f0-2b94-4ed3-9c1e-99291ef51391",
+    "artistMbid": "1f0a95a1-bf3e-4534-8b6f-5539af5dac1d",
+    "releaseCount": 2
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "LpiHlrbqKKo",
   "title": "82",
   "artist": "InsideInfo",
-  "lastFetched": "2025-11-27T12:03:37.027Z",
+  "lastFetched": "2025-11-30T20:46:01.434Z",
   "odesli": {
     "amazonMusic": "B097BZ2R77",
     "amazonStore": "B097BZ2R77",
@@ -23,6 +23,15 @@
     "tags": [
       "drum and bass",
       "neurofunk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "04194492-5ede-49da-98f8-6a6b472b26a9",
+    "artistMbid": "a5c56be4-f724-40b4-a484-221e7baebf25",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass",
+      "electronic"
     ]
   }
 }

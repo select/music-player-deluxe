@@ -2,7 +2,7 @@
   "youtubeId": "aBt8fN7mJNg",
   "title": "Show Me the Meaning of Being Lonely",
   "artist": "Backstreet Boys",
-  "lastFetched": "2025-11-19T07:23:06.970Z",
+  "lastFetched": "2025-11-30T23:30:17.090Z",
   "odesli": {
     "amazonMusic": "B00136J8ZI",
     "amazonStore": "B00136J8ZI",
@@ -32,6 +32,30 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad"
+    "artistMbid": "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad",
+    "trackMbid": "7649a880-d165-4e4e-8af1-36fe42a6a449",
+    "releaseCount": 25,
+    "genres": [
+      "ballad",
+      "bubblegum pop",
+      "contemporary r&b",
+      "dance-pop",
+      "eurodance",
+      "europop",
+      "funk",
+      "latin pop",
+      "pop",
+      "pop rock",
+      "r&b",
+      "soul",
+      "teen pop"
+    ],
+    "artistGenres": [
+      "dance-pop",
+      "electropop",
+      "pop",
+      "pop rock",
+      "teen pop"
+    ]
   }
 }

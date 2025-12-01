@@ -2,7 +2,7 @@
   "youtubeId": "Onk8jR3tuxA",
   "title": "Grammar King",
   "artist": "Flocks",
-  "lastFetched": "2025-11-19T07:44:00.154Z",
+  "lastFetched": "2025-11-30T23:28:47.052Z",
   "odesli": {
     "amazonMusic": "B08NKCT2J5",
     "amazonStore": "B08NKCT2J5",
@@ -25,5 +25,10 @@
       "alternative",
       "shoegaze"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "87a53ee1-6870-475f-8930-d62400df58b4",
+    "artistMbid": "ce5afc34-0fda-4ac0-898a-25b1f9a00ec8",
+    "releaseCount": 1
   }
 }

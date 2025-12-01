@@ -2,7 +2,7 @@
   "youtubeId": "5wZ2ruWVjBI",
   "title": "Ogrodu serce",
   "artist": "Daab",
-  "lastFetched": "2025-11-23T19:30:45.056Z",
+  "lastFetched": "2025-11-30T22:09:15.914Z",
   "lastfm": {
     "id": "Daab/_/Ogrodu+serce",
     "listeners": 20755,
@@ -15,6 +15,14 @@
       "reggae",
       "classic rock",
       "80s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b26895ba-7cdb-4c6b-9a99-e9d4c6774319",
+    "artistMbid": "bfd8cd06-237d-42f6-a0ca-fe07ccf8609e",
+    "releaseCount": 2,
+    "artistGenres": [
+      "reggae"
     ]
   }
 }

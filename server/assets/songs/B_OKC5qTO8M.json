@@ -2,7 +2,7 @@
   "youtubeId": "B_OKC5qTO8M",
   "title": "Honigmelone",
   "artist": "Anajo",
-  "lastFetched": "2025-11-27T12:04:15.399Z",
+  "lastFetched": "2025-11-30T20:51:42.050Z",
   "odesli": {
     "amazonMusic": "B01MXWHT04",
     "amazonStore": "B01MXWHT04",
@@ -26,5 +26,10 @@
       "pop",
       "german"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b57dcad7-8031-49de-bcfe-bd736fbadb6d",
+    "artistMbid": "bdaee528-cae4-404b-990c-a0717c4997de",
+    "releaseCount": 3
   }
 }

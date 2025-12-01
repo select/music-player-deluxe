@@ -1,7 +1,7 @@
 {
   "youtubeId": "QkcW0aaBd8E",
   "title": "Chillin'",
-  "lastFetched": "2025-11-26T11:00:36.353Z",
+  "lastFetched": "2025-11-30T21:21:02.691Z",
   "ai": {
     "title": "Chillin'",
     "artist": "Desney Bailey"
@@ -26,5 +26,10 @@
       "metro downtempo",
       "metro ziom"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "017f5787-f19a-47cd-8ad9-938e7a2ba3d1",
+    "artistMbid": "60269bc9-81b5-4eab-8b59-75f22b53b890",
+    "releaseCount": 1
   }
 }

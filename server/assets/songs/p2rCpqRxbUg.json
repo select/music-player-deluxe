@@ -2,7 +2,7 @@
   "youtubeId": "p2rCpqRxbUg",
   "title": "Clear Night",
   "artist": "Maïmon And The Mongoose Band",
-  "lastFetched": "2025-11-28T18:38:02.132Z",
+  "lastFetched": "2025-11-30T20:14:57.094Z",
   "odesli": {
     "amazonMusic": "B000S3FOXC",
     "amazonStore": "B000S3FOXC",
@@ -20,5 +20,10 @@
     "artist": "Maïmon and The Mongoose Band",
     "mbid": "c339edcc-8e32-39a6-ac80-9fbbb5deae58",
     "artistMbid": "88c0eb05-8eb7-4c03-8dbb-034687d9073f"
+  },
+  "musicbrainz": {
+    "trackMbid": "8c78587a-36be-4d61-a2e6-01c1007c5aeb",
+    "artistMbid": "88c0eb05-8eb7-4c03-8dbb-034687d9073f",
+    "releaseCount": 1
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "rO1VDCZh_Ko",
   "title": "ave cesaria",
   "artist": "Stromae",
-  "lastFetched": "2025-11-29T13:47:19.182Z",
+  "lastFetched": "2025-11-30T19:43:40.029Z",
   "odesli": {
     "amazonMusic": "B00EFB8VXI",
     "amazonStore": "B00EFB8VXI",
@@ -28,6 +28,25 @@
       "electropop",
       "2013",
       "belgian"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "82b51591-33ea-4172-82ac-9b136d2b0250",
+    "artistMbid": "ab2528d9-719f-4261-8098-21849222a0f2",
+    "releaseCount": 17,
+    "genres": [
+      "dance-pop",
+      "electro house",
+      "electronic",
+      "electropop",
+      "pop"
+    ],
+    "artistGenres": [
+      "art pop",
+      "dance-pop",
+      "electro house",
+      "electropop",
+      "hip house"
     ]
   }
 }

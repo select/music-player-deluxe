@@ -2,7 +2,7 @@
   "youtubeId": "kGW1ceFeNfE",
   "title": "Get Well Soon",
   "artist": "Reggie And The Full Effect",
-  "lastFetched": "2025-11-28T18:38:59.681Z",
+  "lastFetched": "2025-11-30T20:18:04.446Z",
   "odesli": {
     "amazonMusic": "B0DZXRMYY5",
     "amazonStore": "B0DZXRMYY5",
@@ -25,6 +25,21 @@
       "emo",
       "reggie and the full effect",
       "indie"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ab6f497a-47f0-46fd-9fa5-7007d74d341d",
+    "artistMbid": "2bfce7d5-001d-4618-adc3-c57c30fb17e6",
+    "releaseCount": 6,
+    "genres": [
+      "alternative rock",
+      "emo",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "emo pop",
+      "pop punk"
     ]
   }
 }

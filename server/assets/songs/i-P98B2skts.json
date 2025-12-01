@@ -2,7 +2,7 @@
   "youtubeId": "i-P98B2skts",
   "title": "Inner City Life",
   "artist": "Goldie",
-  "lastFetched": "2025-11-23T19:32:49.167Z",
+  "lastFetched": "2025-11-30T22:00:56.876Z",
   "odesli": {
     "amazonMusic": "B07G8B1KYZ",
     "amazonStore": "B07G8B1KYZ",
@@ -25,6 +25,22 @@
       "drum and bass",
       "drum n bass",
       "90s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6b3e3d49-3149-4fe9-bf25-305899dad309",
+    "artistMbid": "c5393047-0c44-48eb-b5a8-070759f04371",
+    "releaseCount": 22,
+    "genres": [
+      "drum and bass",
+      "electronic",
+      "jungle"
+    ],
+    "artistGenres": [
+      "downtempo",
+      "drum and bass",
+      "electronic",
+      "electronica"
     ]
   }
 }

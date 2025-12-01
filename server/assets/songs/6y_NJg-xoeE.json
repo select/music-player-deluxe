@@ -2,7 +2,7 @@
   "youtubeId": "6y_NJg-xoeE",
   "title": "New Game",
   "artist": "Nitro Fun",
-  "lastFetched": "2025-11-28T12:13:49.095Z",
+  "lastFetched": "2025-11-30T20:27:20.427Z",
   "odesli": {
     "amazonMusic": "B092RDQ6BK",
     "amazonStore": "B092RDQ6BK",
@@ -29,6 +29,22 @@
       "electro house",
       "electronic",
       "house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9343eeec-9ebd-418d-aa6c-a9ed46715162",
+    "artistMbid": "0595a4ae-356d-46eb-bb12-a5596d94281e",
+    "releaseCount": 4,
+    "genres": [
+      "complextro",
+      "electronic",
+      "glitch hop"
+    ],
+    "artistGenres": [
+      "complextro",
+      "dubstep",
+      "edm",
+      "electro house"
     ]
   }
 }

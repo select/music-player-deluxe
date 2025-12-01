@@ -2,7 +2,7 @@
   "youtubeId": "8yA9tc86inc",
   "title": "Liebeslied",
   "artist": "Knorkator",
-  "lastFetched": "2025-11-19T12:39:45.126Z",
+  "lastFetched": "2025-11-30T23:08:24.261Z",
   "lastfm": {
     "id": "Knorkator/_/Liebeslied",
     "listeners": 648,
@@ -12,5 +12,10 @@
       "calm",
       "an mein schatz -grins-"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c2391034-ced8-40b4-9a23-917f8fc29f19",
+    "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
+    "releaseCount": 0
   }
 }

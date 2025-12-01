@@ -2,7 +2,7 @@
   "youtubeId": "FOskk0xlUG0",
   "title": "nwahulwana",
   "artist": "Wazimbo",
-  "lastFetched": "2025-11-19T12:08:37.227Z",
+  "lastFetched": "2025-11-30T23:11:09.743Z",
   "odesli": {
     "amazonMusic": "B01KAITL5Q",
     "amazonStore": "B01KAITL5Q",
@@ -19,6 +19,14 @@
     "tags": [
       "mozambique",
       "world music"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7561147e-f1e3-43a5-a793-707ece7aa4f7",
+    "artistMbid": "722f4d9c-bdfd-421d-9ad2-57a776005b96",
+    "releaseCount": 1,
+    "artistGenres": [
+      "marrabenta"
     ]
   }
 }

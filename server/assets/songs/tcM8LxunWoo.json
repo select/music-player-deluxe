@@ -2,7 +2,7 @@
   "youtubeId": "tcM8LxunWoo",
   "title": "Those Days",
   "artist": "Just Jinger",
-  "lastFetched": "2025-11-23T19:29:31.737Z",
+  "lastFetched": "2025-11-30T22:14:04.751Z",
   "odesli": {
     "amazonMusic": "B006PTGACW",
     "amazonStore": "B006PTGACW",
@@ -22,5 +22,10 @@
       "south african",
       "rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6d21ce32-c8f7-4f72-a9f8-1535d336e2ba",
+    "artistMbid": "493e31a9-5f44-4b95-a12b-975b377dbd07",
+    "releaseCount": 1
   }
 }

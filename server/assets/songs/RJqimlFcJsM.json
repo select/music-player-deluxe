@@ -2,7 +2,7 @@
   "youtubeId": "RJqimlFcJsM",
   "title": "Three Lions",
   "artist": "Baddiel",
-  "lastFetched": "2025-11-29T13:49:28.003Z",
+  "lastFetched": "2025-11-30T20:01:53.646Z",
   "odesli": {
     "amazonMusic": "B0021QG48S",
     "amazonStore": "B0021QG48S",
@@ -21,5 +21,10 @@
     "playcount": 784,
     "title": "Three Lions",
     "artist": "Baddiel"
+  },
+  "musicbrainz": {
+    "trackMbid": "9f03bee4-0c72-409b-9575-09a2f9c2fa7e",
+    "artistMbid": "4f69a7a1-a499-48f7-b0f4-d9bf2270cbd8",
+    "releaseCount": 25
   }
 }

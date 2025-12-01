@@ -2,7 +2,7 @@
   "youtubeId": "xQmChykuZ9w",
   "title": "Sucked Out",
   "artist": "Superdrag",
-  "lastFetched": "2025-11-26T10:58:25.888Z",
+  "lastFetched": "2025-11-30T21:09:39.353Z",
   "odesli": {
     "amazonMusic": "B08257F6QY",
     "amazonStore": "B08257F6QY",
@@ -22,6 +22,18 @@
     "artist": "Superdrag",
     "tags": [
       "alternative rock",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d7bcfbe3-b25d-4a3d-a945-e900e658921a",
+    "artistMbid": "c60c930e-d081-486c-b0ca-2dcdd8ee2b96",
+    "releaseCount": 6,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "power pop",
+      "punk",
       "rock"
     ]
   }

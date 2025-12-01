@@ -2,7 +2,7 @@
   "youtubeId": "Zdq5d5oTyYM",
   "title": "Adieu",
   "artist": "17 Hippies",
-  "lastFetched": "2025-11-28T18:38:37.767Z",
+  "lastFetched": "2025-11-30T20:16:53.721Z",
   "odesli": {
     "amazonMusic": "B01BC1SBVK",
     "amazonStore": "B01BC1SBVK",
@@ -26,6 +26,15 @@
       "gypsy",
       "germany",
       "111"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "de32930e-5e0f-4bb4-a28b-345ad4f69377",
+    "artistMbid": "8315641a-6dca-40fd-a893-d247e4db84c3",
+    "releaseCount": 2,
+    "artistGenres": [
+      "folk",
+      "pop"
     ]
   }
 }

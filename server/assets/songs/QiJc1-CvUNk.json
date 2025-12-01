@@ -2,7 +2,7 @@
   "youtubeId": "QiJc1-CvUNk",
   "title": "I Don't Wanna Go",
   "artist": "Ballyhoo!",
-  "lastFetched": "2025-11-29T13:47:11.878Z",
+  "lastFetched": "2025-11-30T19:42:29.598Z",
   "odesli": {
     "amazonMusic": "B0D4XGNM1C",
     "amazonStore": "B0D4XGNM1C",
@@ -30,5 +30,10 @@
       "rock",
       "surf"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "68e61a37-702d-4d28-a967-8b6ed304c32a",
+    "artistMbid": "148350d7-1b04-4518-b216-4519eb0bcc08",
+    "releaseCount": 1
   }
 }

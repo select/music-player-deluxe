@@ -2,7 +2,7 @@
   "youtubeId": "AkSSDgSCUZw",
   "title": "Great Vacation",
   "artist": "Dirt Poor Robins",
-  "lastFetched": "2025-11-23T19:32:43.227Z",
+  "lastFetched": "2025-11-30T22:01:02.755Z",
   "odesli": {
     "amazonMusic": "B000QNJ80Y",
     "amazonStore": "B000QNJ80Y",
@@ -34,5 +34,10 @@
       "cabaret noir",
       "my top 100 of 2015"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "95a9958d-5183-4a0c-9037-cf66b4c91c5a",
+    "artistMbid": "48104fe6-2006-49c0-87dd-ba077c798d8d",
+    "releaseCount": 2
   }
 }

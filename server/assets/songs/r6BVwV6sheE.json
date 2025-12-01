@@ -2,7 +2,7 @@
   "youtubeId": "r6BVwV6sheE",
   "title": "Paralyzed",
   "artist": "Oneida",
-  "lastFetched": "2025-11-19T08:49:15.762Z",
+  "lastFetched": "2025-11-30T23:24:17.030Z",
   "odesli": {
     "amazonMusic": "B09XWH7P4Q",
     "amazonStore": "B09XWH7P4Q",
@@ -24,6 +24,16 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "33c5f321-37b5-4c8e-8eff-a8a6a5ac2e44"
+    "artistMbid": "33c5f321-37b5-4c8e-8eff-a8a6a5ac2e44",
+    "trackMbid": "8dd3bc7a-2897-44bb-9dfd-6dc3de66c3ec",
+    "releaseCount": 2,
+    "artistGenres": [
+      "drone",
+      "experimental rock",
+      "indie rock",
+      "neo-psychedelia",
+      "noise rock",
+      "psychedelic rock"
+    ]
   }
 }

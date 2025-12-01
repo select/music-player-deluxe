@@ -2,7 +2,7 @@
   "youtubeId": "znSs7uEXCeo",
   "title": "Désolé pour hier soir",
   "artist": "Tryo",
-  "lastFetched": "2025-11-28T12:14:18.447Z",
+  "lastFetched": "2025-11-30T20:36:40.529Z",
   "odesli": {
     "amazonMusic": "B08NWR59LG",
     "amazonStore": "B08NWR59LG",
@@ -28,6 +28,21 @@
     "tags": [
       "reggae",
       "french"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0def0e58-9754-45c0-937e-ccdb511c526a",
+    "artistMbid": "c5998351-be49-49d8-8593-3e96f129c1fc",
+    "releaseCount": 5,
+    "genres": [
+      "chanson française",
+      "pop",
+      "reggae",
+      "roots reggae"
+    ],
+    "artistGenres": [
+      "reggae",
+      "reggae-pop"
     ]
   }
 }

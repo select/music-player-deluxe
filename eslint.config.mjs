@@ -25,9 +25,15 @@ export default withNuxt(
 			"vue/multi-word-component-names": "off",
 			"vue/require-default-prop": "off",
 
-			// TypeScript parsing fixes
-			"@typescript-eslint/no-unused-vars": "off",
-			"@typescript-eslint/consistent-type-imports": "off",
+			// Allow unused variables that start with underscore
+			"no-unused-vars": [
+				"error",
+				{
+					argsIgnorePattern: "^_",
+					varsIgnorePattern: "^_",
+					caughtErrorsIgnorePattern: "^_",
+				},
+			],
 		},
 	},
 	{

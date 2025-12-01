@@ -1,7 +1,7 @@
 {
   "youtubeId": "aKJvbTEnp0I",
   "title": "LIGHT IN BABYLON - Hinech Yafa    -    Istanbul",
-  "lastFetched": "2025-11-26T11:02:49.055Z",
+  "lastFetched": "2025-11-30T21:41:43.330Z",
   "ai": {
     "title": "Hinech Yafa",
     "artist": "LIGHT IN BABYLON"
@@ -18,5 +18,10 @@
       "turkey",
       "street"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5750e1da-b7b4-4cd3-b77f-e94cdfdc9260",
+    "artistMbid": "2138da79-ce6c-46d4-84ad-3fd1f0095f35",
+    "releaseCount": 3
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "9gWIIIr2Asw",
   "title": "Lose Control",
   "artist": "Teddy Swims",
-  "lastFetched": "2025-11-24T00:22:32.047Z",
+  "lastFetched": "2025-11-30T21:39:55.316Z",
   "odesli": {
     "amazonMusic": "B0C7DQCSMF",
     "amazonStore": "B0C7DQCSMF",
@@ -37,5 +37,21 @@
     "artist": "Teddy Swims",
     "mbid": "e4733d45-75fa-4bf2-a0d6-9835a67e53b7",
     "artistMbid": "35feae82-8b2c-4f8f-ae7a-af5662848947"
+  },
+  "musicbrainz": {
+    "trackMbid": "e4733d45-75fa-4bf2-a0d6-9835a67e53b7",
+    "artistMbid": "35feae82-8b2c-4f8f-ae7a-af5662848947",
+    "releaseCount": 25,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "country",
+      "pop",
+      "pop soul",
+      "rock",
+      "soul"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "sEXHeTcxQy4",
   "title": "Chelsea Dagger",
-  "lastFetched": "2025-11-26T10:58:48.822Z",
+  "lastFetched": "2025-11-30T21:11:32.200Z",
   "ai": {
     "title": "Chelsea Dagger",
     "artist": "The Fratellis"
@@ -35,5 +35,19 @@
     "title": "Chelsea Dagger",
     "artist": "The Fratellis",
     "artistMbid": "f4ad883e-9a92-45ed-a540-a49c2d1c36dd"
+  },
+  "musicbrainz": {
+    "trackMbid": "d1e02b2f-1fcc-4f08-8950-05cdab00e3d6",
+    "artistMbid": "f4ad883e-9a92-45ed-a540-a49c2d1c36dd",
+    "releaseCount": 6,
+    "artistGenres": [
+      "alternative rock",
+      "garage rock",
+      "indie pop",
+      "indie rock",
+      "pop",
+      "post-punk revival",
+      "rock"
+    ]
   }
 }

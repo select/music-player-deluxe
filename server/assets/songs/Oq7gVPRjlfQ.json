@@ -2,7 +2,7 @@
   "youtubeId": "Oq7gVPRjlfQ",
   "title": "Tum Rakak",
   "artist": "Deluxe",
-  "lastFetched": "2025-11-23T15:29:40.055Z",
+  "lastFetched": "2025-11-30T22:22:28.136Z",
   "odesli": {
     "amazonMusic": "B015KATZZU",
     "amazonStore": "B015KATZZU",
@@ -32,6 +32,16 @@
       "woman",
       "funky",
       "jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ce9411c8-a55a-408c-b427-cdf7ecd90ec0",
+    "artistMbid": "b83531c2-58fe-40e6-9d2c-0d98be764073",
+    "releaseCount": 3,
+    "genres": [
+      "broken beat",
+      "electronic",
+      "hip hop"
     ]
   }
 }

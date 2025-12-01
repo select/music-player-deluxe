@@ -2,7 +2,7 @@
   "youtubeId": "1reSpJWbuYE",
   "title": "Life Signs",
   "artist": "Water From Your Eyes",
-  "lastFetched": "2025-11-24T00:23:29.303Z",
+  "lastFetched": "2025-11-30T21:31:34.249Z",
   "odesli": {
     "amazonMusic": "B0F8HPW8RN",
     "amazonStore": "B0F8HPW8RN",
@@ -32,6 +32,14 @@
       "post-punk revival",
       "math pop",
       "dance-punk revival"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "071baed3-f3a8-43f2-8bd3-ebb300cce126",
+    "artistMbid": "09f91305-e193-48af-92e3-252b3dd5e718",
+    "releaseCount": 5,
+    "artistGenres": [
+      "indie pop"
     ]
   }
 }

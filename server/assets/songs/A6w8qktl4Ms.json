@@ -2,7 +2,7 @@
   "youtubeId": "A6w8qktl4Ms",
   "title": "Black Mountain (Beautiful Love)",
   "artist": "Arsenal",
-  "lastFetched": "2025-11-29T13:48:40.591Z",
+  "lastFetched": "2025-11-30T19:54:20.976Z",
   "odesli": {
     "amazonMusic": "B073Q8RKJQ",
     "amazonStore": "B073Q8RKJQ",
@@ -25,6 +25,18 @@
       "rock",
       "belgium",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "40549efb-7ea9-453e-b716-bea98a34620a",
+    "artistMbid": "8d834b78-b9dd-4241-8f70-98b963eded68",
+    "releaseCount": 3,
+    "genres": [
+      "downtempo",
+      "electronic"
+    ],
+    "artistGenres": [
+      "rock"
     ]
   }
 }

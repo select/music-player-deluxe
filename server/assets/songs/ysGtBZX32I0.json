@@ -2,7 +2,7 @@
   "youtubeId": "ysGtBZX32I0",
   "title": "Walk Idiot Walk",
   "artist": "The Hives",
-  "lastFetched": "2025-11-29T13:47:50.376Z",
+  "lastFetched": "2025-11-30T19:47:22.296Z",
   "odesli": {
     "amazonMusic": "B073GRF2FG",
     "amazonStore": "B073GRF2FG",
@@ -28,6 +28,22 @@
       "indie",
       "swedish",
       "punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9866045d-9b53-43e3-98b8-e4eb4eb9dc89",
+    "artistMbid": "487bfd74-71bf-46dd-b89c-80b7a0f06f2f",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock",
+      "garage punk",
+      "garage rock",
+      "garage rock revival",
+      "indie rock",
+      "post-punk revival",
+      "punk",
+      "punk rock",
+      "rock"
     ]
   }
 }

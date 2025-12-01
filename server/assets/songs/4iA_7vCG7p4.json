@@ -1,7 +1,7 @@
 {
   "youtubeId": "4iA_7vCG7p4",
   "title": "Canned Heat : Poor Moon",
-  "lastFetched": "2025-11-27T12:03:18.698Z",
+  "lastFetched": "2025-11-30T20:41:45.157Z",
   "ai": {
     "title": "Poor Moon",
     "artist": "Canned Heat"
@@ -18,6 +18,25 @@
       "classic rock",
       "tungt",
       "lugnt03-"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "93a9250d-71c5-4bc5-95ad-76cc64e563fa",
+    "artistMbid": "815a0279-558c-4522-ac3b-6a1e259e95b5",
+    "releaseCount": 3,
+    "genres": [
+      "blues",
+      "blues rock",
+      "boogie rock"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "boogie rock",
+      "christmas music",
+      "electric blues",
+      "folk rock",
+      "rock"
     ]
   }
 }

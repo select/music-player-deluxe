@@ -2,7 +2,7 @@
   "youtubeId": "oOeugwd4vqs",
   "title": "Kinderlied",
   "artist": "Knorkator",
-  "lastFetched": "2025-11-29T13:49:26.568Z",
+  "lastFetched": "2025-11-30T20:01:43.900Z",
   "odesli": {
     "amazonMusic": "B005KPJ0JM",
     "amazonStore": "B005KPJ0JM",
@@ -25,6 +25,17 @@
       "german",
       "vocal",
       "dramatic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "22374b9d-8e97-4707-82a8-e4ed6a8c01f2",
+    "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
+    "releaseCount": 4,
+    "genres": [
+      "electronic",
+      "heavy metal",
+      "industrial",
+      "rock"
     ]
   }
 }

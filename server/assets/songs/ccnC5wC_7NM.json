@@ -2,7 +2,7 @@
   "youtubeId": "ccnC5wC_7NM",
   "title": "Wenn Träume sterben",
   "artist": "Puhdys",
-  "lastFetched": "2025-11-19T10:24:07.648Z",
+  "lastFetched": "2025-11-30T23:19:56.323Z",
   "odesli": {
     "amazonMusic": "B08813S46D",
     "amazonStore": "B08813S46D",
@@ -29,6 +29,17 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "60955940-d401-4f4a-8a9b-43c870454aac"
+    "artistMbid": "60955940-d401-4f4a-8a9b-43c870454aac",
+    "trackMbid": "1b285933-56d5-4d98-803c-61d52e65c47f",
+    "releaseCount": 25,
+    "genres": [
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "neue deutsche welle",
+      "rock"
+    ]
   }
 }

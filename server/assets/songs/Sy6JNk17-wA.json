@@ -1,7 +1,7 @@
 {
   "youtubeId": "Sy6JNk17-wA",
   "title": "Local H - The Misanthrope",
-  "lastFetched": "2025-11-27T12:02:49.637Z",
+  "lastFetched": "2025-11-30T20:38:27.077Z",
   "ai": {
     "title": "The Misanthrope",
     "artist": "Local H"
@@ -17,6 +17,22 @@
     "tags": [
       "alternative rock",
       "10s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fe5f0483-df77-4ba5-9029-0da3731f7961",
+    "artistMbid": "baaf92f5-f2b2-4f51-9723-abed41a257f8",
+    "releaseCount": 5,
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "noise rock",
+      "post-grunge",
+      "post-hardcore",
+      "punk rock",
+      "slacker rock"
     ]
   }
 }

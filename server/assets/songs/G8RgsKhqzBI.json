@@ -2,7 +2,7 @@
   "youtubeId": "G8RgsKhqzBI",
   "title": "Last Hope",
   "artist": "Apocalyptica",
-  "lastFetched": "2025-11-19T08:15:39.189Z",
+  "lastFetched": "2025-11-30T23:26:43.160Z",
   "lastfm": {
     "id": "Apocalyptica/_/Last+Hope",
     "listeners": 83527,
@@ -13,6 +13,30 @@
       "cello metal",
       "heavy metal",
       "metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d3704098-c3a2-49d4-9176-436fc9cc7abe",
+    "artistMbid": "788ad31c-bf0c-4a31-83f8-b8b130d79c76",
+    "releaseCount": 18,
+    "genres": [
+      "classical",
+      "classical crossover",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "progressive metal",
+      "rock",
+      "symphonic metal",
+      "symphonic rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "instrumental",
+      "instrumental rock",
+      "metal",
+      "neoclassical metal",
+      "symphonic metal"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "IwOfCgkyEj0",
   "title": "Like a Rolling Stone",
   "artist": "Bob Dylan",
-  "lastFetched": "2025-11-23T19:30:33.792Z",
+  "lastFetched": "2025-11-30T22:10:28.669Z",
   "odesli": {
     "amazonMusic": "B00136PR6C",
     "amazonStore": "B00136PR6C",
@@ -34,5 +34,36 @@
     "title": "Like a Rolling Stone",
     "artist": "Bob Dylan",
     "artistMbid": "72c536dc-7137-4477-a521-567eeb840fa8"
+  },
+  "musicbrainz": {
+    "trackMbid": "f2f8a2db-34e9-4ff9-8f20-741492fe0e67",
+    "artistMbid": "72c536dc-7137-4477-a521-567eeb840fa8",
+    "releaseCount": 2,
+    "genres": [
+      "classic rock",
+      "contemporary folk",
+      "folk",
+      "folk rock",
+      "pop",
+      "rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "classic rock",
+      "contemporary folk",
+      "country",
+      "country rock",
+      "folk",
+      "folk rock",
+      "gospel",
+      "jazz",
+      "pop rock",
+      "rock",
+      "roots rock",
+      "singer-songwriter",
+      "traditional pop"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "uCI24Lt9aNQ",
   "title": "Contort Yourself",
   "artist": "James Chance",
-  "lastFetched": "2025-11-23T15:03:37.355Z",
+  "lastFetched": "2025-11-30T22:28:31.342Z",
   "lastfm": {
     "title": "Contort Yourself",
     "artist": "James Chance",
@@ -16,6 +16,18 @@
       "jazz punk",
       "pitchfork 500",
       "new wave"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3793fdc9-97d4-4d3f-978c-f90e2d0d61c0",
+    "artistMbid": "07b9f61f-843c-4e7c-b602-e133ae6a04dc",
+    "releaseCount": 1,
+    "genres": [
+      "dance-punk",
+      "electronic"
+    ],
+    "artistGenres": [
+      "no wave"
     ]
   }
 }

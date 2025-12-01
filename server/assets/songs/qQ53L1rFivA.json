@@ -2,7 +2,7 @@
   "youtubeId": "qQ53L1rFivA",
   "title": "Bahama Mama",
   "artist": "4Lyn",
-  "lastFetched": "2025-11-29T13:49:17.882Z",
+  "lastFetched": "2025-11-30T19:59:42.925Z",
   "odesli": {
     "amazonMusic": "B094X28C6H",
     "amazonStore": "B094X28C6H",
@@ -22,6 +22,14 @@
     "tags": [
       "german artist",
       "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0453195e-d1d0-4771-a5ca-fbee02fb27ba",
+    "artistMbid": "03df376e-f696-4df0-a8e4-3bbc9c8c1c5d",
+    "releaseCount": 5,
+    "artistGenres": [
+      "alternative rock"
     ]
   }
 }

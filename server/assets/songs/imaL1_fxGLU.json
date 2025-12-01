@@ -1,7 +1,7 @@
 {
   "youtubeId": "imaL1_fxGLU",
   "title": "Whitney Houston - I Will Always Love You in minor key",
-  "lastFetched": "2025-11-29T12:38:48.498Z",
+  "lastFetched": "2025-11-30T19:47:39.872Z",
   "ai": {
     "title": "I Will Always Love You",
     "artist": "Whitney Houston"
@@ -20,5 +20,25 @@
     ],
     "title": "I Will Always Love You",
     "artist": "Whitney Houston"
+  },
+  "musicbrainz": {
+    "trackMbid": "a5c667f1-5fd7-4d93-8d57-f556c017471e",
+    "artistMbid": "0307edfc-437c-4b48-8700-80680e66a228",
+    "releaseCount": 2,
+    "genres": [
+      "ballad",
+      "pop"
+    ],
+    "artistGenres": [
+      "contemporary r&b",
+      "dance-pop",
+      "easy listening",
+      "pop",
+      "pop soul",
+      "quiet storm",
+      "r&b",
+      "soul",
+      "synth-pop"
+    ]
   }
 }

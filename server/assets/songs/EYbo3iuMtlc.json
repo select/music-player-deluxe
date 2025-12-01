@@ -1,7 +1,7 @@
 {
   "youtubeId": "EYbo3iuMtlc",
   "title": "erdmöbel - nah bei dir",
-  "lastFetched": "2025-11-26T10:57:15.906Z",
+  "lastFetched": "2025-11-30T20:59:07.297Z",
   "ai": {
     "title": "nah bei dir",
     "artist": "erdmöbel"
@@ -21,5 +21,10 @@
       "pop",
       "german"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "336afe10-905b-4e06-b676-3fae2fd7dac0",
+    "artistMbid": "003b2747-b74a-46c1-a51e-aeaffe88256c",
+    "releaseCount": 1
   }
 }

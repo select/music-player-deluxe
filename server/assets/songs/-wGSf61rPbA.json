@@ -2,7 +2,7 @@
   "youtubeId": "-wGSf61rPbA",
   "title": "Invasion of Dub",
   "artist": "King Tubby",
-  "lastFetched": "2025-11-23T15:09:15.165Z",
+  "lastFetched": "2025-11-30T22:26:44.142Z",
   "odesli": {
     "amazonMusic": "B0DYPB2JY7",
     "amazonStore": "B0DYPB2JY7",
@@ -23,6 +23,16 @@
     "tags": [
       "dub",
       "dub reggae"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3622a7b6-fa38-4177-b493-1e17589b765e",
+    "artistMbid": "576134a6-9f1f-4bfa-af04-4848195849ca",
+    "releaseCount": 2,
+    "artistGenres": [
+      "dub",
+      "reggae",
+      "roots reggae"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "j4gPZPKJc0s",
   "title": "Coin-Operated Boy",
   "artist": "The Dresden Dolls",
-  "lastFetched": "2025-11-27T12:04:49.121Z",
+  "lastFetched": "2025-11-30T20:56:43.873Z",
   "odesli": {
     "amazonMusic": "B0011ZR3S0",
     "amazonStore": "B0011ZR3S0",
@@ -27,6 +27,18 @@
       "cabaret",
       "alternative",
       "piano"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0ef45857-034d-42e2-9d49-0f867f33cef6",
+    "artistMbid": "107c7983-0728-46ea-8550-77e698adf690",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "cabaret",
+      "dark cabaret",
+      "piano rock",
+      "punk rock"
     ]
   }
 }

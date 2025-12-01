@@ -2,7 +2,7 @@
   "youtubeId": "qMdfmOkK25c",
   "title": "I Hadn't Known (I Only Heard)",
   "artist": "Herbert",
-  "lastFetched": "2025-11-23T14:48:19.932Z",
+  "lastFetched": "2025-11-30T22:31:55.307Z",
   "odesli": {
     "amazonMusic": "B0FF67567R",
     "amazonStore": "B0FF67567R",
@@ -22,6 +22,17 @@
     "tags": [
       "house",
       "as deep as it gets"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "45c087c0-01fd-4917-b2af-759875150ee4",
+    "artistMbid": "20587005-7a2a-4b96-8f34-bc643bc4b60a",
+    "releaseCount": 3,
+    "artistGenres": [
+      "deep house",
+      "electroacoustic",
+      "idm",
+      "microhouse"
     ]
   }
 }

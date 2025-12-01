@@ -2,7 +2,7 @@
   "youtubeId": "p3UBw1NMt-A",
   "title": "Of Truth",
   "artist": "Current Value",
-  "lastFetched": "2025-11-29T13:48:35.061Z",
+  "lastFetched": "2025-11-30T19:53:41.561Z",
   "odesli": {
     "amazonMusic": "B0DC1B9RN8",
     "amazonStore": "B0DC1B9RN8",
@@ -21,6 +21,23 @@
     "artistMbid": "caf4109a-05e5-4067-b619-b705d137f68d",
     "tags": [
       "jump up"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "acd35597-3f90-48a9-9844-9d328f609771",
+    "artistMbid": "caf4109a-05e5-4067-b619-b705d137f68d",
+    "releaseCount": 1,
+    "genres": [
+      "jump up"
+    ],
+    "artistGenres": [
+      "darkstep",
+      "drum and bass",
+      "electronic",
+      "jump up",
+      "neurofunk",
+      "skullstep",
+      "techstep"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "HpXSx-meS0U",
   "title": "Rastafarian Folk Song",
   "artist": "Cymande",
-  "lastFetched": "2025-11-23T15:10:15.893Z",
+  "lastFetched": "2025-11-30T22:26:24.777Z",
   "odesli": {
     "amazonMusic": "B0DPJQ1YLK",
     "amazonStore": "B0DPJQ1YLK",
@@ -24,6 +24,18 @@
     "tags": [
       "funk",
       "drjazzmrfunkmusic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "63d034bc-9de2-4c0a-b659-597ca9da4c92",
+    "artistMbid": "21c5fb53-6fbc-4080-989a-b26d4540f4fd",
+    "releaseCount": 10,
+    "genres": [
+      "funk"
+    ],
+    "artistGenres": [
+      "funk",
+      "psychedelic soul"
     ]
   }
 }

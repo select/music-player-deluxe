@@ -2,7 +2,7 @@
   "youtubeId": "WxY7O4eFHRk",
   "title": "Clubbed To Death",
   "artist": "Rob Dougan",
-  "lastFetched": "2025-11-23T15:36:15.925Z",
+  "lastFetched": "2025-11-30T22:20:29.143Z",
   "lastfm": {
     "title": "Clubbed to Death",
     "artist": "Rob Dougan",
@@ -17,6 +17,30 @@
       "soundtrack",
       "trip-hop",
       "instrumental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5f486753-1b79-4509-835d-bfaf0055fd99",
+    "artistMbid": "42edf21b-2dda-4382-aa6b-49b6483bcf73",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "big beat",
+      "breakbeat",
+      "club",
+      "dance",
+      "electronic",
+      "electronica",
+      "house",
+      "industrial",
+      "techno",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "breakbeat",
+      "electronic",
+      "electronica",
+      "trip hop"
     ]
   }
 }

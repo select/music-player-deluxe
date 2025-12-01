@@ -2,7 +2,7 @@
   "youtubeId": "fV4DiAyExN0",
   "title": "The Reason",
   "artist": "Hoobastank",
-  "lastFetched": "2025-11-19T16:16:09.577Z",
+  "lastFetched": "2025-11-30T22:48:54.274Z",
   "odesli": {
     "amazonMusic": "B0040PWO00",
     "amazonStore": "B0040PWO00",
@@ -27,7 +27,21 @@
       "hoobastank",
       "pop"
     ],
-    "artistMbid": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157"
+    "artistMbid": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157",
+    "trackMbid": "d0cd2d7e-2cac-4e4f-be57-3d6af293f233",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "pop rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "nu metal",
+      "pop rock",
+      "post-grunge"
+    ]
   },
   "lastfm": {
     "id": "Hoobastank/_/The+Reason",

@@ -2,7 +2,7 @@
   "youtubeId": "YU0of1O504U",
   "title": "Uninvited",
   "artist": "Alanis Morissette",
-  "lastFetched": "2025-11-26T11:01:03.690Z",
+  "lastFetched": "2025-11-30T21:23:13.110Z",
   "odesli": {
     "amazonMusic": "B002O0599Q",
     "amazonStore": "B002O0599Q",
@@ -28,6 +28,21 @@
       "rock",
       "90s",
       "soundtrack"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e3ab4cdd-ff05-4508-8dfd-a52e3a4c6bd1",
+    "artistMbid": "4bdcee62-4902-4773-8cd1-e252e2e31225",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "dance-pop",
+      "new jack swing",
+      "pop",
+      "pop rock",
+      "post-grunge",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

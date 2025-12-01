@@ -2,7 +2,7 @@
   "youtubeId": "COx7NEy09t8",
   "title": "OH MY GOD",
   "artist": "Sevdaliza",
-  "lastFetched": "2025-11-23T14:10:39.938Z",
+  "lastFetched": "2025-11-30T22:46:48.893Z",
   "lastfm": {
     "title": "Oh My God",
     "artist": "Sevdaliza",
@@ -16,6 +16,24 @@
       "trip hop",
       "2020",
       "future hit"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "089b7b40-30a9-4612-a819-875c58f0600b",
+    "artistMbid": "e4356a15-5acc-400d-a707-592d66922e28",
+    "releaseCount": 5,
+    "artistGenres": [
+      "alternative r&b",
+      "art pop",
+      "avant-garde pop",
+      "dance",
+      "edm",
+      "electronic",
+      "electronica",
+      "hip hop",
+      "pop",
+      "trap",
+      "trip hop"
     ]
   }
 }

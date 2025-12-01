@@ -1,7 +1,7 @@
 {
   "youtubeId": "WckSWlEf2nM",
   "title": "Esben and the Witch - No Dog",
-  "lastFetched": "2025-11-27T12:00:55.036Z",
+  "lastFetched": "2025-11-30T20:27:17.009Z",
   "ai": {
     "title": "No Dog",
     "artist": "Esben and the Witch"
@@ -19,6 +19,23 @@
       "alternative",
       "rel-yr:2014",
       "club-dance rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9a48c812-4a7a-44ee-b0f3-74796720de73",
+    "artistMbid": "f1b4fda6-a681-4f63-a9a3-bd9b219e09cf",
+    "releaseCount": 4,
+    "genres": [
+      "post-punk",
+      "post-rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "indie rock",
+      "post-punk",
+      "post-rock",
+      "shoegaze"
     ]
   }
 }

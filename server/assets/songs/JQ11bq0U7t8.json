@@ -2,7 +2,7 @@
   "youtubeId": "JQ11bq0U7t8",
   "title": "Elephant On Channel 1",
   "artist": "Rejoicer",
-  "lastFetched": "2025-11-19T06:53:37.275Z",
+  "lastFetched": "2025-11-30T23:33:41.488Z",
   "odesli": {
     "amazonMusic": "B09HY43MPZ",
     "amazonStore": "B09HY43MPZ",
@@ -32,6 +32,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "9a0e4534-1839-465d-ba6b-1184ede7f618"
+    "artistMbid": "9a0e4534-1839-465d-ba6b-1184ede7f618",
+    "trackMbid": "8fac9ded-6c48-4fe7-a0ec-0de25d29e006",
+    "releaseCount": 1
   }
 }

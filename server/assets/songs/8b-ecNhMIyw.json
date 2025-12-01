@@ -2,7 +2,7 @@
   "youtubeId": "8b-ecNhMIyw",
   "title": "Midnight",
   "artist": "Caravan Palace",
-  "lastFetched": "2025-11-30T17:45:06.850Z",
+  "lastFetched": "2025-11-30T19:38:31.645Z",
   "odesli": {
     "amazonMusic": "B0CMXTSYNT",
     "amazonStore": "B0CMXTSYNT",
@@ -27,6 +27,23 @@
     "artistMbid": "72eabb1a-4d2c-4de6-90f2-671b2cada42b",
     "tags": [
       "jazz fusion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "50172ac2-8223-4b11-9802-b6c383b083d8",
+    "artistMbid": "72eabb1a-4d2c-4de6-90f2-671b2cada42b",
+    "releaseCount": 8,
+    "genres": [
+      "electro swing",
+      "electronic",
+      "house",
+      "nu jazz",
+      "trap"
+    ],
+    "artistGenres": [
+      "electro house",
+      "electro swing",
+      "fidget house"
     ]
   }
 }

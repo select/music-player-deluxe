@@ -2,7 +2,7 @@
   "youtubeId": "Vppbdf-qtGU",
   "title": "La Grange",
   "artist": "ZZ Top",
-  "lastFetched": "2025-11-19T12:59:37.403Z",
+  "lastFetched": "2025-11-30T23:06:05.999Z",
   "odesli": {
     "amazonMusic": "B07T84XYLJ",
     "amazonStore": "B07T84XYLJ",
@@ -30,6 +30,24 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "a81259a0-a2f5-464b-866e-71220f2739f1"
+    "artistMbid": "a81259a0-a2f5-464b-866e-71220f2739f1",
+    "trackMbid": "586ea7f2-9a7e-4a5c-8398-3ac41588f9b0",
+    "releaseCount": 5,
+    "genres": [
+      "blues rock",
+      "boogie rock",
+      "classic rock",
+      "hard rock",
+      "rock",
+      "southern rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "boogie rock",
+      "classic rock",
+      "hard rock",
+      "rock",
+      "southern rock"
+    ]
   }
 }

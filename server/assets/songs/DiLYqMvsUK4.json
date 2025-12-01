@@ -1,7 +1,7 @@
 {
   "youtubeId": "DiLYqMvsUK4",
   "title": "EELS - THE DECONSTRUCTION - Complete Album (AUDIO)",
-  "lastFetched": "2025-11-29T12:39:30.892Z",
+  "lastFetched": "2025-11-30T19:56:40.209Z",
   "ai": {
     "title": "THE DECONSTRUCTION",
     "artist": "EELS"
@@ -18,6 +18,26 @@
       "alternative",
       "indie pop",
       "alternative rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0c7418de-269b-4dc6-9b93-e6a4b64a5418",
+    "artistMbid": "14387b0f-765c-4852-852f-135335790466",
+    "releaseCount": 11,
+    "genres": [
+      "indie pop"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "chamber pop",
+      "downtempo",
+      "indie folk",
+      "indie pop",
+      "indie rock",
+      "rock",
+      "singer-songwriter",
+      "slowcore",
+      "trip hop"
     ]
   }
 }

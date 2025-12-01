@@ -2,7 +2,7 @@
   "youtubeId": "pFlQlS_e7wA",
   "title": "Auris",
   "artist": "JakoJako",
-  "lastFetched": "2025-11-19T10:50:02.521Z",
+  "lastFetched": "2025-11-30T23:16:57.116Z",
   "odesli": {
     "amazonMusic": "B0BGQV32M4",
     "amazonStore": "B0BGQV32M4",
@@ -24,6 +24,12 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "e5efb6f2-0a6f-4c1d-831d-c1e07d2f694f"
+    "artistMbid": "e5efb6f2-0a6f-4c1d-831d-c1e07d2f694f",
+    "trackMbid": "df6b3c97-43b2-421b-8f65-074323cbafb5",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ambient techno",
+      "techno"
+    ]
   }
 }

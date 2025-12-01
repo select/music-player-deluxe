@@ -1,7 +1,7 @@
 {
   "youtubeId": "W2mdzcOXrmE",
   "title": "Bender · Isolate",
-  "lastFetched": "2025-11-26T10:56:28.529Z",
+  "lastFetched": "2025-11-30T20:49:17.396Z",
   "ai": {
     "title": "Isolate",
     "artist": "Bender"
@@ -17,5 +17,10 @@
     "tags": [
       "wmiller"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8345e941-db56-450b-b5ee-d4dbae38b8b9",
+    "artistMbid": "ca5701a9-6ca5-4c19-bc7f-7ad44faa50e0",
+    "releaseCount": 1
   }
 }

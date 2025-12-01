@@ -2,7 +2,7 @@
   "youtubeId": "cPr_D-b5v2Q",
   "title": "ovule",
   "artist": "björk",
-  "lastFetched": "2025-11-23T19:33:10.092Z",
+  "lastFetched": "2025-11-30T21:59:29.258Z",
   "lastfm": {
     "summary": "\"Ovule\" is a deeply introspective and contemplative exploration of love, loss, and the complex nature of human relationships. The lyrics describe the image of a glass egg suspended in a dark, blood-red void, which represents a metaphorical space where the two lovers can exist together in perfect harmony and unity.\n\nThe glass egg is a symbol of purity and fragility, representing the delicate balance that exists between the two lovers, and the need to protect and cherish their bond. <a href=\"http://www.last.fm/music/Bj%C3%B6rk/_/Ovule\">Read more on Last.fm</a>.",
     "id": "Bj%C3%B6rk/_/Ovule",
@@ -18,6 +18,37 @@
       "electronic",
       "experimental",
       "glitch pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cd960dc6-bcb8-4191-aedb-307dc7d774f1",
+    "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
+    "releaseCount": 8,
+    "genres": [
+      "art pop",
+      "dancehall",
+      "deconstructed club",
+      "glitch pop",
+      "idm",
+      "neoperreo"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "ambient",
+      "art pop",
+      "avant-garde",
+      "avant-garde pop",
+      "baroque pop",
+      "downtempo",
+      "edm",
+      "electronic",
+      "electronica",
+      "experimental",
+      "folktronica",
+      "idm",
+      "leftfield",
+      "progressive pop",
+      "trip hop"
     ]
   }
 }

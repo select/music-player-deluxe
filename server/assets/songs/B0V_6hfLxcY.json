@@ -1,7 +1,7 @@
 {
   "youtubeId": "B0V_6hfLxcY",
   "title": "Soulwax - Conversation Intercom",
-  "lastFetched": "2025-11-29T12:38:56.587Z",
+  "lastFetched": "2025-11-30T19:48:54.313Z",
   "ai": {
     "title": "Conversation Intercom",
     "artist": "Soulwax"
@@ -18,6 +18,26 @@
       "alternative rock",
       "rock",
       "indie rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b0b9f933-3dc3-4e63-b6bb-d952c33a6c49",
+    "artistMbid": "68ec1b08-3c2e-40b3-b0af-8f323743fdff",
+    "releaseCount": 11,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "dance-punk",
+      "electro house",
+      "electroclash",
+      "electronic",
+      "indie rock",
+      "new rave",
+      "rock"
     ]
   }
 }

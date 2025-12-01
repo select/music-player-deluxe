@@ -2,7 +2,7 @@
   "youtubeId": "MY4Vi6bPolA",
   "title": "Herbs And Spices",
   "artist": "Flox",
-  "lastFetched": "2025-11-19T08:13:04.348Z",
+  "lastFetched": "2025-11-30T23:26:50.316Z",
   "odesli": {
     "amazonMusic": "B09TX1YRVV",
     "amazonStore": "B09TX1YRVV",
@@ -32,6 +32,14 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "946938d2-5dde-4aac-b02f-df9cc7837583"
+    "artistMbid": "946938d2-5dde-4aac-b02f-df9cc7837583",
+    "trackMbid": "5e07db5a-5cc6-4777-a3f1-3449b5f48c51",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dub",
+      "electro",
+      "pop",
+      "reggae"
+    ]
   }
 }

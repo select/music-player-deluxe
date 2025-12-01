@@ -2,7 +2,7 @@
   "youtubeId": "MIXbnWkN2bk",
   "title": "Club Quarters",
   "artist": "The Physics House Band",
-  "lastFetched": "2025-11-19T08:04:54.770Z",
+  "lastFetched": "2025-11-30T23:27:39.565Z",
   "odesli": {
     "amazonMusic": "B09ML1M7R2",
     "amazonStore": "B09ML1M7R2",
@@ -28,6 +28,14 @@
       "psychedelic",
       "jazz rock",
       "jazz fusion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "38914fa4-c584-48d4-9eac-001c3aef156e",
+    "artistMbid": "6309f6cf-3de3-4242-b134-efe06e905828",
+    "releaseCount": 1,
+    "artistGenres": [
+      "math rock"
     ]
   }
 }

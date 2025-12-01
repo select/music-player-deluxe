@@ -2,7 +2,7 @@
   "youtubeId": "DJcUJDP0mAQ",
   "title": "Invisible",
   "artist": "Fischerspooner",
-  "lastFetched": "2025-11-30T17:44:28.604Z",
+  "lastFetched": "2025-11-30T19:32:46.229Z",
   "odesli": {
     "amazonMusic": "B000THC67O",
     "amazonStore": "B000THC67O",
@@ -23,6 +23,24 @@
       "electronic",
       "electronica",
       "neo-electro"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "96b48f8c-cbc6-4243-b4c0-f94d6dc090d4",
+    "artistMbid": "a4f54716-24d9-4c6b-8ba7-1d7e7a5173d0",
+    "releaseCount": 14,
+    "genres": [
+      "breakbeat",
+      "dance",
+      "electroclash",
+      "electronic",
+      "electronica",
+      "house",
+      "techno"
+    ],
+    "artistGenres": [
+      "electroclash",
+      "electronica"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "nYfqxcKp5HY",
   "title": "Santa Maria",
   "artist": "Roland Kaiser",
-  "lastFetched": "2025-11-23T19:30:29.901Z",
+  "lastFetched": "2025-11-30T22:11:04.572Z",
   "odesli": {
     "amazonMusic": "B002ATCP1G",
     "amazonStore": "B002ATCP1G",
@@ -27,6 +27,14 @@
       "deutsche schlager",
       "german",
       "roland kaiser"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1a6f6688-5e93-42e2-a7d1-4e3064c6939e",
+    "artistMbid": "efa2f016-ec5f-4a12-9857-c2801ea4704b",
+    "releaseCount": 2,
+    "artistGenres": [
+      "schlager"
     ]
   }
 }

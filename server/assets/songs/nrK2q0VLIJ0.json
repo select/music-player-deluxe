@@ -1,7 +1,7 @@
 {
   "youtubeId": "nrK2q0VLIJ0",
   "title": "Hannes Wader   Bella ciao",
-  "lastFetched": "2025-11-27T12:01:07.119Z",
+  "lastFetched": "2025-11-30T20:28:34.563Z",
   "ai": {
     "title": "Bella ciao",
     "artist": "Hannes Wader"
@@ -19,6 +19,21 @@
       "deutsch",
       "folk",
       "anarcho-punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "421bb561-8410-4302-b84a-c7afc1652231",
+    "artistMbid": "f07b5d3a-b385-4244-ad6e-ea6b5ccbe1ae",
+    "releaseCount": 4,
+    "genres": [
+      "ballad",
+      "folk",
+      "pop"
+    ],
+    "artistGenres": [
+      "folk",
+      "liedermacher",
+      "singer-songwriter"
     ]
   }
 }

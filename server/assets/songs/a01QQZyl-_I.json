@@ -2,7 +2,7 @@
   "youtubeId": "a01QQZyl-_I",
   "title": "Under Pressure",
   "artist": "Queen",
-  "lastFetched": "2025-11-29T13:48:36.598Z",
+  "lastFetched": "2025-11-30T19:53:58.263Z",
   "odesli": {
     "amazonMusic": "B01JD7DA7A",
     "amazonStore": "B01JD7DA7A",
@@ -33,6 +33,21 @@
       "80s",
       "glam rock",
       "queen"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "57c08598-f6ef-4a09-90e7-7dfcace42a9e",
+    "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+    "releaseCount": 6,
+    "artistGenres": [
+      "art rock",
+      "classic rock",
+      "glam rock",
+      "hard rock",
+      "pop rock",
+      "progressive rock",
+      "rock",
+      "symphonic rock"
     ]
   }
 }

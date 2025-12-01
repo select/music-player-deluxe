@@ -2,7 +2,7 @@
   "youtubeId": "Yp257b5APOg",
   "title": "Prettiest Virgin",
   "artist": "Agar Agar",
-  "lastFetched": "2025-11-28T18:38:05.976Z",
+  "lastFetched": "2025-11-30T20:15:04.295Z",
   "odesli": {
     "amazonMusic": "B08J46PKKN",
     "amazonStore": "B08J46PKKN",
@@ -24,6 +24,20 @@
     "tags": [
       "dope",
       "frauen und technik"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "00f3974f-c3c9-49c5-9a2b-403273840f87",
+    "artistMbid": "f0edc96a-5883-45aa-b590-d8d91757d3d6",
+    "releaseCount": 2,
+    "genres": [
+      "electro",
+      "electronic",
+      "pop",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "electronic"
     ]
   }
 }

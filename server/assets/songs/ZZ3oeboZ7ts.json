@@ -2,7 +2,7 @@
   "youtubeId": "ZZ3oeboZ7ts",
   "title": "The Photo Song",
   "artist": "Holger Czukay",
-  "lastFetched": "2025-11-23T15:27:05.462Z",
+  "lastFetched": "2025-11-30T22:22:49.307Z",
   "odesli": {
     "amazonMusic": "B07G9PYC6J",
     "amazonStore": "B07G9PYC6J",
@@ -26,6 +26,24 @@
       "german",
       "in the box of old letters under the desk",
       "a key"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ce9b2636-2db7-4a96-9340-4238f916e431",
+    "artistMbid": "a48cce8c-8632-4e6f-b46f-40139be33ba0",
+    "releaseCount": 5,
+    "genres": [
+      "electronic",
+      "experimental",
+      "krautrock",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "art rock",
+      "electronic",
+      "experimental rock",
+      "krautrock"
     ]
   }
 }

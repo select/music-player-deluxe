@@ -2,7 +2,7 @@
   "youtubeId": "sKwVrsMf6g0",
   "title": "a good man with a broken heart",
   "artist": "LoVibe.",
-  "lastFetched": "2025-11-23T14:48:50.242Z",
+  "lastFetched": "2025-11-30T22:31:50.063Z",
   "odesli": {
     "amazonMusic": "B0FMTJ9KSG",
     "amazonStore": "B0FMTJ9KSG",
@@ -29,6 +29,16 @@
     "tags": [
       "ukraine",
       "ukrainian"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c2376332-bcdd-4b5d-b002-3e9ab649984a",
+    "artistMbid": "c63985d9-87f2-4e36-90f9-5a15878d397e",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hip hop",
+      "instrumental",
+      "instrumental hip hop"
     ]
   }
 }

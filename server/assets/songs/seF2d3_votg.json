@@ -2,7 +2,7 @@
   "youtubeId": "seF2d3_votg",
   "title": "Get Dark",
   "artist": "Optiv & BTK",
-  "lastFetched": "2025-11-19T13:28:45.196Z",
+  "lastFetched": "2025-11-30T23:03:17.482Z",
   "lastfm": {
     "id": "Optiv+&+BTK/_/Get+Dark",
     "listeners": 563,
@@ -12,6 +12,11 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "82c88d46-cf19-4d00-a372-daa9e961521d"
+    "artistMbid": "82c88d46-cf19-4d00-a372-daa9e961521d",
+    "trackMbid": "da43a7cc-7b64-46e6-9869-9d5ae23559de",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "i3aXVusJI44",
   "title": "Bonbon aus Wurst",
   "artist": "Helge Schneider",
-  "lastFetched": "2025-11-19T15:01:18.878Z",
+  "lastFetched": "2025-11-30T22:55:20.261Z",
   "odesli": {
     "amazonMusic": "B003O2D5EY",
     "amazonStore": "B003O2D5EY",
@@ -25,6 +25,27 @@
     "tags": [
       "die wahren perlen deutschsprachiger popmusik",
       "jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "dbe36149-8a55-4c93-8a5a-6ad350ae2599",
+    "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
+    "releaseCount": 2,
+    "genres": [
+      "alternative rock",
+      "avant-garde",
+      "comedy",
+      "contemporary jazz",
+      "jazz",
+      "jazz rock",
+      "non-music",
+      "rock"
+    ],
+    "artistGenres": [
+      "comedy",
+      "jazz",
+      "kabarett",
+      "spoken word"
     ]
   }
 }

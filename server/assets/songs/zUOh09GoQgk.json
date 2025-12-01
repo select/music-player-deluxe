@@ -2,7 +2,7 @@
   "youtubeId": "zUOh09GoQgk",
   "title": "Money",
   "artist": "Cardi B",
-  "lastFetched": "2025-11-24T00:22:53.353Z",
+  "lastFetched": "2025-11-30T21:35:43.224Z",
   "odesli": {
     "amazonMusic": "B07JKN92P7",
     "amazonStore": "B07JKN92P7",
@@ -37,6 +37,25 @@
       "trap",
       "east coast hip hop",
       "better than nicki minaj"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "554be879-81c1-4202-9c45-286af561182f",
+    "artistMbid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
+    "releaseCount": 5,
+    "genres": [
+      "hip hop",
+      "trap"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "east coast hip hop",
+      "hardcore hip hop",
+      "hip hop",
+      "pop",
+      "pop rap",
+      "trap",
+      "trap soul"
     ]
   }
 }

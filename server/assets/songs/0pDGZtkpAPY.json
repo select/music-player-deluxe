@@ -1,7 +1,7 @@
 {
   "youtubeId": "0pDGZtkpAPY",
   "title": "Robohands - Green [Full Album]",
-  "lastFetched": "2025-11-29T12:39:05.599Z",
+  "lastFetched": "2025-11-30T19:52:11.632Z",
   "ai": {
     "title": "Green",
     "artist": "Robohands"
@@ -17,5 +17,10 @@
     "tags": [
       "jazz fusion"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1f23ef59-8465-4012-ac88-b2802e63c525",
+    "artistMbid": "ccf9b52e-27f3-4737-baa1-7234df105c61",
+    "releaseCount": 2
   }
 }

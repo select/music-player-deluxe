@@ -2,7 +2,7 @@
   "youtubeId": "nvUsU46vM08",
   "title": "Swerve It",
   "artist": "Bou",
-  "lastFetched": "2025-11-24T00:23:27.964Z",
+  "lastFetched": "2025-11-30T21:31:55.151Z",
   "odesli": {
     "amazonMusic": "B0CLSF765G",
     "amazonStore": "B0CLSF765G",
@@ -32,6 +32,14 @@
       "acapella",
       "men",
       "3stars"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bd83e549-dfaf-4644-bb7e-5259612d1a52",
+    "artistMbid": "b3c31c2b-f9ec-4c94-b045-119ac0994da3",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass"
     ]
   }
 }

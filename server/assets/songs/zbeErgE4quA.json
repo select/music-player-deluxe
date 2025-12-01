@@ -1,7 +1,7 @@
 {
   "youtubeId": "zbeErgE4quA",
   "title": "Mazhar ve Fuat - Adımız Miskindir Bizim (1973) (English Subtitles)",
-  "lastFetched": "2025-11-29T12:38:40.101Z",
+  "lastFetched": "2025-11-30T19:46:12.283Z",
   "ai": {
     "title": "Adımız Miskindir Bizim",
     "artist": "Mazhar ve Fuat"
@@ -19,6 +19,15 @@
       "70s",
       "psychedelic pop",
       "turkish"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "98e1aab8-37ec-4f6e-936a-3487ab77330c",
+    "artistMbid": "099a7cff-09a8-421b-80f2-d82f9ea0c2be",
+    "releaseCount": 2,
+    "artistGenres": [
+      "anatolian rock",
+      "psychedelic folk"
     ]
   }
 }

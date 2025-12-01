@@ -2,7 +2,7 @@
   "youtubeId": "shioBThUoZM",
   "title": "Light For The Deadvine",
   "artist": "People In Planes",
-  "lastFetched": "2025-11-24T00:22:40.143Z",
+  "lastFetched": "2025-11-30T21:38:04.027Z",
   "odesli": {
     "amazonMusic": "B00KX58RGG",
     "amazonStore": "B00KX58RGG",
@@ -30,5 +30,10 @@
       "house md",
       "indie rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7965f50e-bd90-4bb6-94e5-ef188fcfacfe",
+    "artistMbid": "6f34f90d-8b30-4b98-896a-423cf760fed0",
+    "releaseCount": 3
   }
 }

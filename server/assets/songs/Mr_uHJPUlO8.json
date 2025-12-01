@@ -2,7 +2,7 @@
   "youtubeId": "Mr_uHJPUlO8",
   "title": "Give It Away",
   "artist": "Red Hot Chili Peppers",
-  "lastFetched": "2025-11-19T11:20:13.236Z",
+  "lastFetched": "2025-11-30T23:15:16.874Z",
   "odesli": {
     "amazonMusic": "B07VXKCTDR",
     "amazonStore": "B07VXKCTDR",
@@ -29,7 +29,18 @@
       "alternative",
       "90s"
     ],
-    "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+    "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+    "trackMbid": "c1ab1d60-edd7-4561-b69e-533dba892302",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "funk",
+      "funk metal",
+      "funk rock",
+      "pop rock",
+      "rap rock",
+      "rock"
+    ]
   },
   "lastfm": {
     "id": "Red+Hot+Chili+Peppers/_/Give+It+Away",

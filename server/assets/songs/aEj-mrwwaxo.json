@@ -2,7 +2,7 @@
   "youtubeId": "aEj-mrwwaxo",
   "title": "Alice",
   "artist": "Tom Waits",
-  "lastFetched": "2025-11-29T13:47:37.308Z",
+  "lastFetched": "2025-11-30T19:45:35.260Z",
   "odesli": {
     "amazonMusic": "B07ZMGZ81K",
     "amazonStore": "B07ZMGZ81K",
@@ -26,6 +26,36 @@
       "singer-songwriter",
       "tom waits",
       "melancholy"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "844fea67-fadd-40ce-9b52-9f5a7f5c195e",
+    "artistMbid": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+    "releaseCount": 8,
+    "genres": [
+      "blues rock",
+      "dark cabaret",
+      "rock",
+      "singer-songwriter",
+      "vocal jazz"
+    ],
+    "artistGenres": [
+      "americana",
+      "avant-garde jazz",
+      "beat poetry",
+      "blues",
+      "blues rock",
+      "dark cabaret",
+      "dark jazz",
+      "experimental",
+      "experimental rock",
+      "folk",
+      "folk rock",
+      "gothic country",
+      "jazz",
+      "piano blues",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

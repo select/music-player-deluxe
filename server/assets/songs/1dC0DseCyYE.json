@@ -2,9 +2,24 @@
   "youtubeId": "1dC0DseCyYE",
   "title": "Whole Lotta Shakin' Going On",
   "artist": "Jerry Lee Lewis",
-  "lastFetched": "2025-11-17T02:02:50.154Z",
+  "lastFetched": "2025-11-30T23:22:00.779Z",
   "ai": {
     "title": "Whole Lotta Shakin Going On",
     "artist": "Jerry Lee Lewis"
+  },
+  "musicbrainz": {
+    "trackMbid": "ed75e713-4536-44e0-9021-283fe2ba154b",
+    "artistMbid": "b59ac58d-036e-4bba-8112-c32a34c4575b",
+    "releaseCount": 1,
+    "artistGenres": [
+      "blues",
+      "country",
+      "country gospel",
+      "honky tonk",
+      "rock",
+      "rock and roll",
+      "rockabilly",
+      "singer-songwriter"
+    ]
   }
 }

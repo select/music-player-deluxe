@@ -1,7 +1,7 @@
 {
   "youtubeId": "O94CW_tIEzU",
   "title": "Our Lady Peace - Starseed (Official Remastered HD Video)",
-  "lastFetched": "2025-11-27T12:01:16.419Z",
+  "lastFetched": "2025-11-30T20:29:27.007Z",
   "ai": {
     "title": "Starseed",
     "artist": "Our Lady Peace"
@@ -18,6 +18,21 @@
       "rock",
       "our lady peace",
       "887 cimx"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2d3f509d-135b-43da-a9df-9c82d18cced8",
+    "artistMbid": "78661da3-894c-4947-a34b-fb7edf585d9b",
+    "releaseCount": 22,
+    "genres": [
+      "alternative rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "pop rock",
+      "post-grunge",
+      "rock"
     ]
   }
 }

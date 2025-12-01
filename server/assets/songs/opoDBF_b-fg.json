@@ -2,7 +2,7 @@
   "youtubeId": "opoDBF_b-fg",
   "title": "Willst du",
   "artist": "Alligatoah",
-  "lastFetched": "2025-11-26T11:01:38.722Z",
+  "lastFetched": "2025-11-30T21:26:10.075Z",
   "odesli": {
     "amazonMusic": "B0B36T7X7X",
     "amazonStore": "B0B36T7X7X",
@@ -27,6 +27,19 @@
       "deutsch",
       "rap",
       "pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "56f0fe47-8da4-4cf8-9aaf-62bd57efafe0",
+    "artistMbid": "ebf76ca6-a2c5-4d3a-8e84-7fa3be9e22ab",
+    "releaseCount": 7,
+    "genres": [
+      "hip hop",
+      "pop rap"
+    ],
+    "artistGenres": [
+      "hip hop",
+      "rap metal"
     ]
   }
 }

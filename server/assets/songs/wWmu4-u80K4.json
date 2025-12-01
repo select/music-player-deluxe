@@ -2,7 +2,7 @@
   "youtubeId": "wWmu4-u80K4",
   "title": "I Don't Care",
   "artist": "The Roots",
-  "lastFetched": "2025-11-28T12:13:52.401Z",
+  "lastFetched": "2025-11-30T20:28:49.852Z",
   "odesli": {
     "amazonMusic": "B001NZIMMY",
     "amazonStore": "B001NZIMMY",
@@ -21,5 +21,18 @@
     "artist": "The Roots",
     "mbid": "cd9782ac-9e81-4d2a-b7e4-bd805076254c",
     "artistMbid": "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
+  },
+  "musicbrainz": {
+    "trackMbid": "c7fa4e27-d1f2-42fc-9ca3-d41ca4c5e254",
+    "artistMbid": "80b3cf5e-18fe-4c59-98c7-e5bb87210710",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative hip hop",
+      "hip hop",
+      "jazz",
+      "progressive soul",
+      "rock",
+      "soul"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "23A6OnGlSlU",
   "title": "Maximum Style",
   "artist": "Tom & Jerry",
-  "lastFetched": "2025-11-23T14:34:34.596Z",
+  "lastFetched": "2025-11-30T22:37:47.621Z",
   "lastfm": {
     "title": "Maximum Style",
     "artist": "Tom & Jerry",
@@ -14,6 +14,14 @@
     "tags": [
       "jungle",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f4c789a3-c71d-4c21-ac9b-cb25569b57d9",
+    "artistMbid": "57cc8f03-d1f5-4bca-8e94-2807e88eaf8e",
+    "releaseCount": 4,
+    "artistGenres": [
+      "jungle"
     ]
   }
 }

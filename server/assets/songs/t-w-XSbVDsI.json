@@ -2,7 +2,7 @@
   "youtubeId": "t-w-XSbVDsI",
   "title": "Everything Connected",
   "artist": "Jon Hopkins",
-  "lastFetched": "2025-11-28T18:36:18.376Z",
+  "lastFetched": "2025-11-30T20:07:52.209Z",
   "odesli": {
     "amazonMusic": "B079VPBB3Z",
     "amazonStore": "B079VPBB3Z",
@@ -29,6 +29,23 @@
       "progressive house",
       "techno",
       "house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d21a3890-814b-4400-8160-29ec2841f21b",
+    "artistMbid": "0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd",
+    "releaseCount": 8,
+    "genres": [
+      "progressive house"
+    ],
+    "artistGenres": [
+      "ambient",
+      "contemporary classical",
+      "electronic",
+      "electronica",
+      "idm",
+      "tech house",
+      "techno"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "4VxdufqB9zg",
   "title": "Something in the Way",
   "artist": "Nirvana",
-  "lastFetched": "2025-11-19T07:15:30.567Z",
+  "lastFetched": "2025-11-30T23:31:33.499Z",
   "odesli": {
     "amazonMusic": "B005MVLLIW",
     "amazonStore": "B005MVLLIW",
@@ -26,7 +26,24 @@
       "90s",
       "Nirvana"
     ],
-    "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da"
+    "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+    "trackMbid": "b2857a0e-4576-491a-9a11-cf5f05f72b05",
+    "releaseCount": 3,
+    "genres": [
+      "grunge"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "noise rock",
+      "post-hardcore",
+      "punk",
+      "punk rock",
+      "rock",
+      "sludge metal"
+    ]
   },
   "lastfm": {
     "id": "Nirvana/_/Something+in+the+Way",

@@ -2,7 +2,7 @@
   "youtubeId": "BWf-eARnf6U",
   "title": "Heal the World",
   "artist": "Michael Jackson",
-  "lastFetched": "2025-11-29T13:49:21.552Z",
+  "lastFetched": "2025-11-30T20:00:35.733Z",
   "odesli": {
     "amazonMusic": "B0011GDR9S",
     "amazonStore": "B0011GDR9S",
@@ -30,6 +30,31 @@
       "michael jackson",
       "90s",
       "80s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2568b919-9062-404b-811c-a43d3701e353",
+    "artistMbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+    "releaseCount": 25,
+    "genres": [
+      "ballad",
+      "disco",
+      "electronic",
+      "pop"
+    ],
+    "artistGenres": [
+      "boogie",
+      "contemporary r&b",
+      "dance-pop",
+      "disco",
+      "hip hop",
+      "new jack swing",
+      "pop",
+      "pop rap",
+      "pop rock",
+      "pop soul",
+      "r&b",
+      "soul"
     ]
   }
 }

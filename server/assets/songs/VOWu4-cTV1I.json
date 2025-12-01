@@ -2,7 +2,7 @@
   "youtubeId": "VOWu4-cTV1I",
   "title": "Corona",
   "artist": "Minutemen",
-  "lastFetched": "2025-11-23T15:08:44.752Z",
+  "lastFetched": "2025-11-30T22:27:00.314Z",
   "lastfm": {
     "title": "Corona",
     "artist": "Minutemen",
@@ -17,6 +17,27 @@
       "80s",
       "punk rock",
       "jackass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7b4fa180-d67f-4ce8-97d9-3532de04c34b",
+    "artistMbid": "d4ad0149-d8ae-4105-8009-0221fce9ff35",
+    "releaseCount": 10,
+    "genres": [
+      "alternative rock",
+      "cowpunk",
+      "hardcore punk",
+      "post-punk",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative rock",
+      "post-hardcore",
+      "post-punk",
+      "punk",
+      "punk rock"
     ]
   }
 }

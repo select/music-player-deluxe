@@ -2,7 +2,7 @@
   "youtubeId": "r6jIXtJy4oM",
   "title": "Eyes Of A Panther",
   "artist": "Steel Panther",
-  "lastFetched": "2025-11-28T18:37:17.649Z",
+  "lastFetched": "2025-11-30T20:12:04.291Z",
   "odesli": {
     "amazonMusic": "B07JB8NRVM",
     "amazonStore": "B07JB8NRVM",
@@ -24,6 +24,27 @@
       "hard rock",
       "hair metal",
       "glam rock",
+      "heavy metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a314c089-d4a4-4b50-b583-dc6beb0e3201",
+    "artistMbid": "f82927e4-b905-4e3b-a82e-5184fbb68b29",
+    "releaseCount": 8,
+    "genres": [
+      "deathcore",
+      "glam",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "rock",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "comedy rock",
+      "glam",
+      "glam metal",
+      "hard rock",
       "heavy metal"
     ]
   }

@@ -2,7 +2,7 @@
   "youtubeId": "Ygfh6dFUtcU",
   "title": "Left Side Drive",
   "artist": "Boards Of Canada",
-  "lastFetched": "2025-11-23T19:29:43.922Z",
+  "lastFetched": "2025-11-30T22:13:28.618Z",
   "odesli": {
     "amazonMusic": "B001GQGRK4",
     "amazonStore": "B001GQGRK4",
@@ -26,6 +26,26 @@
       "downtempo",
       "electronic",
       "ambient hour with beezer"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "02d30185-9d38-4f1c-9dac-63aa14f8cc69",
+    "artistMbid": "69158f97-4c07-4c4e-baf8-4e4ab1ed666e",
+    "releaseCount": 8,
+    "genres": [
+      "ambient",
+      "downtempo",
+      "electronic",
+      "idm"
+    ],
+    "artistGenres": [
+      "ambient",
+      "ambient techno",
+      "downtempo",
+      "electronic",
+      "folktronica",
+      "hauntology",
+      "idm"
     ]
   }
 }

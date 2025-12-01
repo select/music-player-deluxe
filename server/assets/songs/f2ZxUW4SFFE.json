@@ -2,7 +2,7 @@
   "youtubeId": "f2ZxUW4SFFE",
   "title": "Bayaty",
   "artist": "Ashkhabad",
-  "lastFetched": "2025-11-23T19:30:38.870Z",
+  "lastFetched": "2025-11-30T22:09:40.444Z",
   "lastfm": {
     "id": "Ashkhabad/_/Bayaty",
     "listeners": 2732,
@@ -15,5 +15,10 @@
       "instrumental",
       "sezen aksu"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "81410169-57a8-4ef2-bf6e-b15802a4ce39",
+    "artistMbid": "0044af47-5990-4c11-828d-b301f13c23b8",
+    "releaseCount": 5
   }
 }

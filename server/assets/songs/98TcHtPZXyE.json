@@ -2,7 +2,7 @@
   "youtubeId": "98TcHtPZXyE",
   "title": "Grateful",
   "artist": "Kush Jones",
-  "lastFetched": "2025-11-19T14:14:14.974Z",
+  "lastFetched": "2025-11-30T22:59:58.750Z",
   "odesli": {
     "amazonMusic": "B073TCNDL4",
     "amazonStore": "B073TCNDL4",
@@ -21,5 +21,10 @@
       "footwork",
       "electronic"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "30ca3c45-8db4-4d2f-8b60-670ce5737e6e",
+    "artistMbid": "c8d441c3-3223-4d33-a412-cb05092f0649",
+    "releaseCount": 1
   }
 }

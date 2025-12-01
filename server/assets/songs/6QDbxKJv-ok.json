@@ -1,7 +1,7 @@
 {
   "youtubeId": "6QDbxKJv-ok",
   "title": "Red Rider - Human Race",
-  "lastFetched": "2025-11-27T12:01:00.566Z",
+  "lastFetched": "2025-11-30T20:27:58.519Z",
   "ai": {
     "title": "Human Race",
     "artist": "Red Rider"
@@ -18,6 +18,25 @@
       "rock",
       "classic rock",
       "early mtv"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e0790757-0ae6-48c7-af51-f8bb107d8a9e",
+    "artistMbid": "a22d8a5d-1ca1-43cf-85a6-07f64a18273d",
+    "releaseCount": 9,
+    "genres": [
+      "aor",
+      "classic rock",
+      "heartland rock",
+      "new wave",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "aor",
+      "new wave",
+      "pop rock",
+      "rock"
     ]
   }
 }

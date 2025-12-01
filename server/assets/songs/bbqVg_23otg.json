@@ -2,7 +2,7 @@
   "youtubeId": "bbqVg_23otg",
   "title": "1 Thing",
   "artist": "Amerie",
-  "lastFetched": "2025-11-19T12:43:20.160Z",
+  "lastFetched": "2025-11-30T23:08:12.146Z",
   "odesli": {
     "amazonMusic": "B0013AQPAK",
     "amazonStore": "B0013AQPAK",
@@ -24,7 +24,20 @@
       "amerie",
       "dance"
     ],
-    "artistMbid": "56ef1af4-5184-49f8-a972-583f35c2485c"
+    "artistMbid": "56ef1af4-5184-49f8-a972-583f35c2485c",
+    "trackMbid": "aa2c2277-d80b-4b56-b658-1cdbbf7b279a",
+    "releaseCount": 16,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "contemporary r&b",
+      "hip hop",
+      "hip hop soul",
+      "pop",
+      "r&b",
+      "soul"
+    ]
   },
   "lastfm": {
     "id": "Amerie/_/1+Thing",

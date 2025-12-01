@@ -2,7 +2,7 @@
   "youtubeId": "vvviVulgdms",
   "title": "Diamonds",
   "artist": "Rihanna",
-  "lastFetched": "2025-11-23T19:35:18.756Z",
+  "lastFetched": "2025-11-30T21:48:25.943Z",
   "odesli": {
     "audiomack": "9777114",
     "soundcloud": "sagitariusadhi/any-given-day-diamonds-rihanna-metal-cover",
@@ -24,5 +24,34 @@
     "title": "Diamonds",
     "artist": "Rihanna",
     "artistMbid": "73e5e69d-3554-40d8-8516-00cb38737a1c"
+  },
+  "musicbrainz": {
+    "trackMbid": "9077d216-6a67-43d8-bf4f-0efe83dac8bc",
+    "artistMbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+    "releaseCount": 25,
+    "genres": [
+      "ballad",
+      "classic rock",
+      "contemporary r&b",
+      "disco",
+      "electronic",
+      "pop",
+      "r&b",
+      "soul",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "contemporary r&b",
+      "dance",
+      "dance-pop",
+      "dancehall",
+      "electro house",
+      "electropop",
+      "hip hop",
+      "pop",
+      "pop soul",
+      "r&b",
+      "reggae"
+    ]
   }
 }

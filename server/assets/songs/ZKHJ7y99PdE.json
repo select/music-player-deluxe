@@ -2,7 +2,7 @@
   "youtubeId": "ZKHJ7y99PdE",
   "title": "Future Hope",
   "artist": "DunDunDun",
-  "lastFetched": "2025-11-19T07:13:29.222Z",
+  "lastFetched": "2025-11-30T23:31:39.187Z",
   "odesli": {
     "amazonMusic": "B09T76LV2B",
     "amazonStore": "B09T76LV2B",
@@ -24,6 +24,14 @@
       "krautrock",
       "experimental",
       "jazz fusion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d1510b4f-b0dd-4604-9db1-41a206eec830",
+    "artistMbid": "1c5cf55a-bfa3-4c50-a497-432c90061c4b",
+    "releaseCount": 1,
+    "artistGenres": [
+      "jazz"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "VyTqIzLxvyc",
   "title": "Willst Du mit mir geh’n?",
   "artist": "Fünf Sterne Deluxe",
-  "lastFetched": "2025-11-19T07:01:16.236Z",
+  "lastFetched": "2025-11-30T23:32:48.755Z",
   "odesli": {
     "amazonMusic": "B00L4RKWRO",
     "amazonStore": "B00L4RKWRO",
@@ -29,6 +29,17 @@
       "hip-hop",
       "german hiphop",
       "hamburg"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3398c4e2-99d1-456f-87ed-1ab3942c746e",
+    "artistMbid": "1491e2b8-23bf-41a8-8184-cccd7e98a23c",
+    "releaseCount": 3,
+    "genres": [
+      "hip hop"
+    ],
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

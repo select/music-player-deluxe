@@ -1,7 +1,7 @@
 {
   "youtubeId": "KD1a6QqehFE",
   "title": "01 The Shaolin Afronauts - Ojo Abameta [Freestyle Records]",
-  "lastFetched": "2025-11-27T12:00:31.182Z",
+  "lastFetched": "2025-11-30T20:24:54.451Z",
   "ai": {
     "title": "Ojo Abameta",
     "artist": "The Shaolin Afronauts"
@@ -17,5 +17,10 @@
     "tags": [
       "world"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d2f1d3aa-3386-4c80-9d37-757c8270f2ac",
+    "artistMbid": "86140f65-63c8-47cd-84b5-8784a1791d3f",
+    "releaseCount": 3
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "7KwJZT6lOJc",
   "title": "Hemorrhage (In My Hands)",
   "artist": "Fuel",
-  "lastFetched": "2025-11-26T10:59:29.382Z",
+  "lastFetched": "2025-11-30T21:15:03.341Z",
   "odesli": {
     "amazonMusic": "B00136RKIK",
     "amazonStore": "B00136RKIK",
@@ -25,6 +25,29 @@
       "alternative rock",
       "alternative",
       "fuel",
+      "post-grunge"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "07fc1994-9f86-4c7e-ae99-f3d5ac260c73",
+    "artistMbid": "2a5a3b60-d468-4b62-a28f-9c410ad3f71d",
+    "releaseCount": 2,
+    "genres": [
+      "alternative rock",
+      "britpop",
+      "contemporary r&b",
+      "funk",
+      "hip hop",
+      "pop",
+      "r&b",
+      "rock",
+      "soul",
+      "swing"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
       "post-grunge"
     ]
   }

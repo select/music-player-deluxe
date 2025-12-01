@@ -2,7 +2,7 @@
   "youtubeId": "_om0W6xzQd8",
   "title": "Canopée",
   "artist": "Polo & Pan",
-  "lastFetched": "2025-11-28T18:38:08.072Z",
+  "lastFetched": "2025-11-30T20:15:16.969Z",
   "odesli": {
     "amazonMusic": "B07DRJZQS4",
     "amazonStore": "B07DRJZQS4",
@@ -24,6 +24,18 @@
     "tags": [
       "kitchen confidential with butterknife",
       "wsum 91.7 fm madison"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "41fb4424-4b4b-48fb-9073-4a0f6b329998",
+    "artistMbid": "1d9ec7ea-0fa4-41d9-917b-723c735ebbfe",
+    "releaseCount": 16,
+    "artistGenres": [
+      "electronic",
+      "electropop",
+      "house",
+      "indie pop",
+      "tropical house"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "urzhJqPejkk",
   "title": "Cotton Eyed Joe",
   "artist": "Terry Callier",
-  "lastFetched": "2025-11-19T14:40:49.790Z",
+  "lastFetched": "2025-11-30T22:57:26.299Z",
   "odesli": {
     "amazonMusic": "B0FJCHM5K9",
     "amazonStore": "B0FJCHM5K9",
@@ -28,6 +28,20 @@
     "tags": [
       "names of people",
       "gimme sum quiet time"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5021c74d-a830-458e-bbac-2e9dbe7e0013",
+    "artistMbid": "44fd61e1-119c-479e-8301-8ac5c77148bf",
+    "releaseCount": 6,
+    "artistGenres": [
+      "chicago soul",
+      "jazz",
+      "progressive folk",
+      "r&b",
+      "rock",
+      "singer-songwriter",
+      "soul"
     ]
   }
 }

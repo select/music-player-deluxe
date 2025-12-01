@@ -1,7 +1,7 @@
 {
   "youtubeId": "5qrGOi41iwE",
   "title": "BOGGIE : PARFÜM",
-  "lastFetched": "2025-11-29T12:38:52.687Z",
+  "lastFetched": "2025-11-30T19:47:59.749Z",
   "ai": {
     "title": "PARFÜM",
     "artist": "BOGGIE"
@@ -18,5 +18,10 @@
       "hungarian",
       "boggie"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9c8abd8f-d732-4079-a81c-820ce27546f2",
+    "artistMbid": "1f4e9eea-79ee-43be-a78c-79fe37661359",
+    "releaseCount": 1
   }
 }

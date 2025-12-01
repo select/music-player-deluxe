@@ -2,7 +2,7 @@
   "youtubeId": "K7z3590-Mt0",
   "title": "Ben Yoruldum Hayat",
   "artist": "Mümin Sarıkaya",
-  "lastFetched": "2025-11-16T20:00:45.719Z",
+  "lastFetched": "2025-11-30T23:22:10.987Z",
   "odesli": {
     "amazonMusic": "B01M9GKJJP",
     "amazonStore": "B01M9GKJJP",
@@ -20,5 +20,10 @@
   "ai": {
     "title": "Ben Yoruldum Hayat",
     "artist": "Mümin Sarıkaya"
+  },
+  "musicbrainz": {
+    "trackMbid": "dabddfd7-5ca3-4d24-be4b-a7238e564609",
+    "artistMbid": "e9451a60-66e7-4fd8-b6f0-5cabc4d6bfa2",
+    "releaseCount": 1
   }
 }

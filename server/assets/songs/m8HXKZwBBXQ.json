@@ -1,7 +1,7 @@
 {
   "youtubeId": "m8HXKZwBBXQ",
   "title": "August Burns Red - [2012] Sleddin' Hill - A Holiday Album",
-  "lastFetched": "2025-11-26T11:00:49.354Z",
+  "lastFetched": "2025-11-30T21:21:43.587Z",
   "ai": {
     "title": "Sleddin' Hill",
     "artist": "August Burns Red"
@@ -19,6 +19,16 @@
       "covers",
       "instrumental",
       "banjo"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "865323cb-0bd6-4b65-9186-0a1460e1ea08",
+    "artistMbid": "5bac9b4f-2f1c-4d39-8d11-231d5b6650ce",
+    "releaseCount": 4,
+    "artistGenres": [
+      "alternative metal",
+      "melodic metalcore",
+      "metalcore"
     ]
   }
 }

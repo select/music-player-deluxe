@@ -2,7 +2,7 @@
   "youtubeId": "YbJcgNttiME",
   "title": "Little Sister",
   "artist": "Queens Of The Stone Age",
-  "lastFetched": "2025-11-26T10:58:42.885Z",
+  "lastFetched": "2025-11-30T21:10:53.433Z",
   "odesli": {
     "boomplay": "4918547",
     "soundcloud": "stones-of-the-queen-age/stones-of-the-queen-age-little",
@@ -26,5 +26,27 @@
     "artist": "Queens of the Stone Age",
     "mbid": "778f9f94-269c-46f7-9458-6668d658047a",
     "artistMbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+  },
+  "musicbrainz": {
+    "trackMbid": "c70de3af-982a-42c1-93a5-1569b6c1f93b",
+    "artistMbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+    "releaseCount": 3,
+    "genres": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "heavy metal",
+      "psychedelic rock",
+      "rock",
+      "stoner metal",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "desert rock",
+      "hard rock",
+      "rock",
+      "stoner rock"
+    ]
   }
 }

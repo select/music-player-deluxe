@@ -1,7 +1,7 @@
 {
   "youtubeId": "glEE0vpK3KI",
   "title": "Jonathan Bree - Valentine",
-  "lastFetched": "2025-11-30T17:24:37.552Z",
+  "lastFetched": "2025-11-30T19:32:11.563Z",
   "ai": {
     "title": "Valentine",
     "artist": "Jonathan Bree"
@@ -17,6 +17,15 @@
     "tags": [
       "chamber pop",
       "fave indie pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4af46ade-5421-4276-8d00-8ee9d4a87293",
+    "artistMbid": "03d64ac3-ee2e-4331-8c4f-7785e4469264",
+    "releaseCount": 2,
+    "artistGenres": [
+      "electronic",
+      "pop"
     ]
   }
 }

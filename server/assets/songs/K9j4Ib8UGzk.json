@@ -2,7 +2,7 @@
   "youtubeId": "K9j4Ib8UGzk",
   "title": "The Shore",
   "artist": "Wiretree",
-  "lastFetched": "2025-11-27T12:04:16.864Z",
+  "lastFetched": "2025-11-30T20:51:50.674Z",
   "odesli": {
     "amazonMusic": "B00587PYBU",
     "amazonStore": "B00587PYBU",
@@ -25,6 +25,16 @@
       "indie rock",
       "male vocalists",
       "water"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4312518d-f954-4531-8aa1-ee51b03b5d16",
+    "artistMbid": "164eaecb-a03a-455a-9b83-36c4b0708825",
+    "releaseCount": 3,
+    "artistGenres": [
+      "indie rock",
+      "post-punk",
+      "singer-songwriter"
     ]
   }
 }

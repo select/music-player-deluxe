@@ -2,7 +2,7 @@
   "youtubeId": "RRh0QiXyZSk",
   "title": "Sixteen Tons",
   "artist": "Tennessee Ernie Ford",
-  "lastFetched": "2025-11-24T00:23:46.396Z",
+  "lastFetched": "2025-11-30T21:30:02.727Z",
   "odesli": {
     "amazonMusic": "B073QKG9ZL",
     "amazonStore": "B073QKG9ZL",
@@ -30,6 +30,20 @@
       "tennessee ernie ford",
       "swing",
       "classic country"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3c59d5ef-b9d6-455b-92d3-58714b4609b7",
+    "artistMbid": "947163f5-f306-4d78-a316-8c3fb317ae50",
+    "releaseCount": 1,
+    "artistGenres": [
+      "boogie",
+      "christmas music",
+      "country",
+      "country boogie",
+      "country gospel",
+      "gospel",
+      "traditional country"
     ]
   }
 }

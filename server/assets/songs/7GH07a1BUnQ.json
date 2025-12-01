@@ -2,7 +2,7 @@
   "youtubeId": "7GH07a1BUnQ",
   "title": "Meister Petz",
   "artist": "Peace Orchestra",
-  "lastFetched": "2025-11-23T14:46:48.692Z",
+  "lastFetched": "2025-11-30T22:32:28.495Z",
   "odesli": {
     "amazonMusic": "B07L5TCXHK",
     "amazonStore": "B07L5TCXHK",
@@ -26,6 +26,19 @@
       "trip-hop",
       "electronic",
       "lounge"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2a7d198b-637f-45f6-9ff4-df4b32965cbb",
+    "artistMbid": "334cd452-8833-4da4-8f14-90136cb0492f",
+    "releaseCount": 3,
+    "genres": [
+      "chillout",
+      "dance",
+      "downtempo",
+      "dub",
+      "electronic",
+      "trip hop"
     ]
   }
 }

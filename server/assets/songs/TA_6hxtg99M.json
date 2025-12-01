@@ -2,7 +2,7 @@
   "youtubeId": "TA_6hxtg99M",
   "title": "Хризантеми",
   "artist": "анастимоза",
-  "lastFetched": "2025-11-23T19:34:52.662Z",
+  "lastFetched": "2025-11-30T21:50:14.573Z",
   "odesli": {
     "amazonMusic": "B0CBKG19JV",
     "amazonStore": "B0CBKG19JV",
@@ -32,5 +32,10 @@
       "indie pop",
       "ukraine"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "107014bf-b69b-49b9-b8d5-35a0aa567945",
+    "artistMbid": "58ba611b-dd29-449e-b7d7-a41bd7a8aba9",
+    "releaseCount": 1
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "mQAIxMyzGLc",
   "title": "We Are Not Alone",
   "artist": "Frank Zappa",
-  "lastFetched": "2025-11-19T15:54:36.180Z",
+  "lastFetched": "2025-11-30T22:51:19.704Z",
   "odesli": {
     "amazonMusic": "B00B319Y3Y",
     "amazonStore": "B00B319Y3Y",
@@ -28,6 +28,32 @@
       "instrumental",
       "zappa",
       "progressive rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "93e76eda-5f32-45a4-9cc3-5b0ac5cd75f5",
+    "artistMbid": "e20747e7-55a4-452e-8766-7b985585082d",
+    "releaseCount": 8,
+    "artistGenres": [
+      "art rock",
+      "avant-garde",
+      "avant-prog",
+      "big band",
+      "classical",
+      "comedy rock",
+      "doo-wop",
+      "experimental",
+      "experimental rock",
+      "jam band",
+      "jazz",
+      "jazz fusion",
+      "jazz rock",
+      "modern classical",
+      "musique concrète",
+      "orchestral",
+      "progressive rock",
+      "psychedelic rock",
+      "rock"
     ]
   }
 }

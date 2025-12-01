@@ -2,7 +2,7 @@
   "youtubeId": "MCNIBCPj5FU",
   "title": "Teeth",
   "artist": "Mallrat",
-  "lastFetched": "2025-11-19T11:49:12.926Z",
+  "lastFetched": "2025-11-30T23:12:34.950Z",
   "odesli": {
     "amazonMusic": "B09R788GGZ",
     "amazonStore": "B09R788GGZ",
@@ -29,6 +29,18 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "cd6fa010-d5d6-4825-aaf3-d8aacaa7cd9a"
+    "artistMbid": "cd6fa010-d5d6-4825-aaf3-d8aacaa7cd9a",
+    "trackMbid": "38c37164-68df-4ae2-bd68-724e82ba79dc",
+    "releaseCount": 4,
+    "genres": [
+      "alternative rock"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "alternative r&b",
+      "bedroom pop",
+      "indie pop",
+      "indietronica"
+    ]
   }
 }

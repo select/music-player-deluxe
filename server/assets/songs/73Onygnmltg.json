@@ -1,7 +1,7 @@
 {
   "youtubeId": "73Onygnmltg",
   "title": "We Were Promised Jetpacks - Quiet Little Voices",
-  "lastFetched": "2025-11-26T10:57:37.659Z",
+  "lastFetched": "2025-11-30T21:03:36.413Z",
   "ai": {
     "title": "Quiet Little Voices",
     "artist": "We Were Promised Jetpacks"
@@ -19,6 +19,15 @@
       "scottish",
       "indie",
       "post-punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "31227e00-ad11-487a-ad19-75b1e7ac26de",
+    "artistMbid": "8f0e0596-5a39-4bd5-9dfa-f2b12030ffdc",
+    "releaseCount": 7,
+    "artistGenres": [
+      "indie rock",
+      "post-punk revival"
     ]
   }
 }

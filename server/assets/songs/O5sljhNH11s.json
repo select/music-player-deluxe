@@ -1,7 +1,7 @@
 {
   "youtubeId": "O5sljhNH11s",
   "title": "Console - My Dog Eats Beats",
-  "lastFetched": "2025-11-28T18:36:12.051Z",
+  "lastFetched": "2025-11-30T20:07:34.959Z",
   "ai": {
     "title": "My Dog Eats Beats",
     "artist": "Console"
@@ -17,6 +17,25 @@
     "tags": [
       "electronic",
       "indietronics"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7b1acf08-6cbe-42f8-8f3b-3aa3fc189719",
+    "artistMbid": "ca134505-1fcc-40a3-bef2-4f344b86d1f8",
+    "releaseCount": 3,
+    "genres": [
+      "ambient",
+      "downtempo",
+      "electronic",
+      "electropop",
+      "experimental",
+      "indietronica",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "electronic",
+      "idm",
+      "indietronica"
     ]
   }
 }

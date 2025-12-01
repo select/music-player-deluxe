@@ -2,7 +2,7 @@
   "youtubeId": "1ClCpfeIELw",
   "title": "Breakfast at Tiffany's",
   "artist": "Deep Blue Something",
-  "lastFetched": "2025-11-19T17:28:13.872Z",
+  "lastFetched": "2025-11-30T22:37:02.342Z",
   "odesli": {
     "amazonMusic": "B000VWOCS8",
     "amazonStore": "B000VWOCS8",
@@ -30,6 +30,13 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "ae3f6a8a-c465-4707-8667-8ce0172bc417"
+    "artistMbid": "ae3f6a8a-c465-4707-8667-8ce0172bc417",
+    "trackMbid": "77cfe0fe-785e-4aac-b130-b210d94b15b9",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock",
+      "indie rock",
+      "post-grunge"
+    ]
   }
 }

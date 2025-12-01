@@ -2,7 +2,7 @@
   "youtubeId": "AmkMEoVb6rA",
   "title": "Rat Race",
   "artist": "The Specials",
-  "lastFetched": "2025-11-24T00:21:51.810Z",
+  "lastFetched": "2025-11-30T21:45:07.731Z",
   "odesli": {
     "amazonMusic": "B0B3SBVDVC",
     "amazonStore": "B0B3SBVDVC",
@@ -24,6 +24,18 @@
       "two-tone",
       "80s",
       "british"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c4fb6203-71e3-4a70-9452-ed4c28836b84",
+    "artistMbid": "07eb40a2-2914-439c-a01d-15a685b84ddf",
+    "releaseCount": 4,
+    "artistGenres": [
+      "2 tone",
+      "new wave",
+      "reggae",
+      "rocksteady",
+      "ska"
     ]
   }
 }

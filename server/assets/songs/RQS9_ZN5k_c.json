@@ -2,7 +2,7 @@
   "youtubeId": "RQS9_ZN5k_c",
   "title": "Caravansary",
   "artist": "Kitaro",
-  "lastFetched": "2025-11-28T18:37:04.787Z",
+  "lastFetched": "2025-11-30T20:11:12.999Z",
   "odesli": {
     "amazonMusic": "B000QVKQOI",
     "amazonStore": "B000QVKQOI",
@@ -24,6 +24,17 @@
       "instrumental",
       "relaxing",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8502ab99-3ab0-450d-b662-9db34a104576",
+    "artistMbid": "f3d8c154-208d-4efa-b52d-7e9f16adcdae",
+    "releaseCount": 2,
+    "artistGenres": [
+      "ambient",
+      "electronic",
+      "instrumental",
+      "new age"
     ]
   }
 }

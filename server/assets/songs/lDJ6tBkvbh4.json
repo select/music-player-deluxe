@@ -2,7 +2,7 @@
   "youtubeId": "lDJ6tBkvbh4",
   "title": "Quatere",
   "artist": "Mario Batkovic",
-  "lastFetched": "2025-11-19T11:56:23.420Z",
+  "lastFetched": "2025-11-30T23:11:49.592Z",
   "lastfm": {
     "id": "Mario+Batkovic/_/Quatere",
     "listeners": 8452,
@@ -14,5 +14,10 @@
       "minimalism",
       "accordion"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a5c042ee-dd25-420e-a62c-2863d22a420b",
+    "artistMbid": "a254e02f-2b07-49f2-a2e7-a41ac05a40e8",
+    "releaseCount": 2
   }
 }

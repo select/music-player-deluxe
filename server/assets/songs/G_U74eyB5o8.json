@@ -2,7 +2,7 @@
   "youtubeId": "G_U74eyB5o8",
   "title": "Need Some1",
   "artist": "The Prodigy",
-  "lastFetched": "2025-11-29T13:48:37.929Z",
+  "lastFetched": "2025-11-30T19:54:03.401Z",
   "odesli": {
     "amazonMusic": "B0DZWNGZQV",
     "amazonStore": "B0DZWNGZQV",
@@ -26,6 +26,25 @@
       "electronic",
       "big beat",
       "breakbeat"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2c3c2e79-4bbf-424b-8a99-95d98cf55022",
+    "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
+    "releaseCount": 6,
+    "genres": [
+      "big beat"
+    ],
+    "artistGenres": [
+      "big beat",
+      "breakbeat",
+      "breakbeat hardcore",
+      "dance",
+      "electronic",
+      "electronica",
+      "hardcore breaks",
+      "rave",
+      "techno"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "SUlcQA4gwww",
   "title": "Love Rehab",
   "artist": "Chaim",
-  "lastFetched": "2025-11-19T12:57:35.012Z",
+  "lastFetched": "2025-11-30T23:06:56.459Z",
   "odesli": {
     "amazonMusic": "B003J0FKT4",
     "amazonStore": "B003J0FKT4",
@@ -27,6 +27,17 @@
     "playcount": 37904,
     "tags": [
       "house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "94266e6a-6b24-4f74-8342-c01f8254f51d",
+    "artistMbid": "642d4b22-3afd-4976-8cd4-c05dd8d0bf4d",
+    "releaseCount": 1,
+    "artistGenres": [
+      "house",
+      "melodic house",
+      "nu disco",
+      "techno"
     ]
   }
 }

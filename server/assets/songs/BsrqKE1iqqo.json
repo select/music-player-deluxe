@@ -2,7 +2,7 @@
   "youtubeId": "BsrqKE1iqqo",
   "title": "Low Rider",
   "artist": "War",
-  "lastFetched": "2025-11-24T00:21:54.370Z",
+  "lastFetched": "2025-11-30T21:44:47.835Z",
   "odesli": {
     "amazonMusic": "B073T3W1R3",
     "amazonStore": "B073T3W1R3",
@@ -35,6 +35,16 @@
       "70s",
       "classic rock",
       "soul"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "32696f1e-e31f-4c5f-963f-6d49eaa8f2f4",
+    "artistMbid": "3e6bbdb8-66c8-439c-a3d9-87391ce88740",
+    "releaseCount": 2,
+    "artistGenres": [
+      "funk",
+      "psychedelic rock",
+      "rock"
     ]
   }
 }

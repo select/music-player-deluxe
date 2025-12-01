@@ -1,7 +1,7 @@
 {
   "youtubeId": "MmMOE9zc7qw",
   "title": "Soulwax - Much Against Everyone's Advice",
-  "lastFetched": "2025-11-26T10:56:53.621Z",
+  "lastFetched": "2025-11-30T20:53:26.610Z",
   "ai": {
     "title": "Much Against Everyone's Advice",
     "artist": "Soulwax"
@@ -20,6 +20,21 @@
       "alternative",
       "belgium",
       "1998"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1062be0f-1c3d-4c94-b598-d079ec3ad55b",
+    "artistMbid": "68ec1b08-3c2e-40b3-b0af-8f323743fdff",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "dance-punk",
+      "electro house",
+      "electroclash",
+      "electronic",
+      "indie rock",
+      "new rave",
+      "rock"
     ]
   }
 }

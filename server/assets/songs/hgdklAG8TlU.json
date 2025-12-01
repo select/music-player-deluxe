@@ -1,7 +1,7 @@
 {
   "youtubeId": "hgdklAG8TlU",
   "title": "Puppetmastaz  Pet Sound",
-  "lastFetched": "2025-11-26T10:56:05.063Z",
+  "lastFetched": "2025-11-30T20:44:25.219Z",
   "ai": {
     "title": "Pet Sound",
     "artist": "Puppetmastaz"
@@ -21,5 +21,10 @@
       "nochmal",
       "pet sound yeaaah"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7e363e75-9242-410e-bcc5-5035656a3a8f",
+    "artistMbid": "ffe53025-23f7-4c80-ac9d-442a3275d4a6",
+    "releaseCount": 2
   }
 }

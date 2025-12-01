@@ -1,7 +1,7 @@
 {
   "youtubeId": "cpUQzsQLF78",
   "title": "H-Blockx - Gimme More",
-  "lastFetched": "2025-11-30T17:25:27.806Z",
+  "lastFetched": "2025-11-30T19:39:27.938Z",
   "ai": {
     "title": "Gimme More",
     "artist": "H-Blockx"
@@ -17,6 +17,14 @@
     "tags": [
       "crossover",
       "3 stars"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "98f7e572-394f-402f-9bff-0c66aafeed2f",
+    "artistMbid": "36b7da58-858c-44e2-b3bd-d2e88bf02f7c",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock"
     ]
   }
 }

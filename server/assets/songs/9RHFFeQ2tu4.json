@@ -2,7 +2,7 @@
   "youtubeId": "9RHFFeQ2tu4",
   "title": "Source",
   "artist": "Fever the Ghost",
-  "lastFetched": "2025-11-29T13:48:24.309Z",
+  "lastFetched": "2025-11-30T19:52:09.562Z",
   "odesli": {
     "amazonMusic": "B00HFHKVNC",
     "amazonStore": "B00HFHKVNC",
@@ -28,6 +28,18 @@
       "indie rock",
       "neo-psychedelia",
       "alternative rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9b2ecc89-6437-4daf-9415-01f55b0c10d3",
+    "artistMbid": "3b7dbf09-0f10-4fc5-8d44-69dc6673c5fe",
+    "releaseCount": 1,
+    "genres": [
+      "electronic",
+      "pop",
+      "progressive rock",
+      "psychedelic rock",
+      "rock"
     ]
   }
 }

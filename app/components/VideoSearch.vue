@@ -224,9 +224,19 @@
 				<span class="text-sm text-primary-3">
 					{{ filteredVideos.length }} of {{ totalVideos }} videos
 				</span>
-				<AppBtn variant="ghost" size="small" @click="clearFilters">
-					Clear All
-				</AppBtn>
+				<div class="flex gap-2">
+					<AppBtn
+						to="/stats"
+						icon="i-mdi-chart-bar"
+						variant="ghost"
+						size="small"
+					>
+						Stats
+					</AppBtn>
+					<AppBtn variant="ghost" size="small" @click="clearFilters">
+						Clear All
+					</AppBtn>
+				</div>
 			</div>
 		</div>
 
@@ -252,7 +262,6 @@ const { settings, availableShortcutSchemes, viewMode } = storeToRefs(
 );
 
 // Timeline scale state
-const timelineScale = ref<"hour" | "day" | "week" | "month" | "year">("day");
 
 // Check if running on localhost
 const isLocalhost = ref<boolean>(false);
@@ -585,23 +594,6 @@ const getViewModeIcon = (): string => {
 		default:
 			return "i-mdi-view-grid";
 	}
-};
-
-// Timeline event handlers
-const handleVideoSelect = (video: Video): void => {
-	// You can emit an event or handle video selection here
-	console.log("Video selected:", video);
-};
-
-const handleBinExpand = (bin: any): void => {
-	// Handle expanding a bin to show all videos
-	console.log("Bin expand:", bin);
-};
-
-const handleScaleChange = (
-	scale: "hour" | "day" | "week" | "month" | "year",
-): void => {
-	timelineScale.value = scale;
 };
 
 // Update the store whenever filtered results change

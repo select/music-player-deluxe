@@ -2,7 +2,7 @@
   "youtubeId": "YazMpEqd5yA",
   "title": "Trip To The Moon",
   "artist": "Acen",
-  "lastFetched": "2025-11-23T19:34:03.407Z",
+  "lastFetched": "2025-11-30T21:54:41.112Z",
   "odesli": {
     "amazonMusic": "B0CB19HH14",
     "amazonStore": "B0CB19HH14",
@@ -34,6 +34,17 @@
       "old school hardcore",
       "old skool",
       "hardcore"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8dc77803-2564-4d1e-8397-dcb3043f3ab8",
+    "artistMbid": "a4fe5665-f303-48ff-8e4e-ca59ec257401",
+    "releaseCount": 1,
+    "artistGenres": [
+      "breakbeat",
+      "breakbeat hardcore",
+      "electronic",
+      "rave"
     ]
   }
 }

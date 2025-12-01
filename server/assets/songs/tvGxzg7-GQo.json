@@ -2,7 +2,7 @@
   "youtubeId": "tvGxzg7-GQo",
   "title": "Gilt Complex",
   "artist": "Sons And Daughters",
-  "lastFetched": "2025-11-27T12:04:01.914Z",
+  "lastFetched": "2025-11-30T20:49:31.153Z",
   "odesli": {
     "amazonMusic": "B073MWXDWM",
     "amazonStore": "B073MWXDWM",
@@ -25,6 +25,14 @@
       "indie rock",
       "chill",
       "sonic rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3c38846b-9324-45dd-bf2a-16e1b773b7ae",
+    "artistMbid": "aca2f168-fec7-459e-a91e-3f5cd504189b",
+    "releaseCount": 14,
+    "artistGenres": [
+      "indie rock"
     ]
   }
 }

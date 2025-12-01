@@ -2,7 +2,7 @@
   "youtubeId": "hX5w-b4DSWA",
   "title": "Keep Control",
   "artist": "Sono",
-  "lastFetched": "2025-11-23T14:12:42.410Z",
+  "lastFetched": "2025-11-30T22:45:07.343Z",
   "lastfm": {
     "title": "Keep Control",
     "artist": "Sono",
@@ -16,6 +16,16 @@
       "electro",
       "dance",
       "house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "89b89b13-9415-4a46-8f43-b4719c78e16a",
+    "artistMbid": "18350267-3678-4269-b817-920e4f41e096",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic",
+      "electropop",
+      "synth-pop"
     ]
   }
 }

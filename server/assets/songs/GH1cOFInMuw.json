@@ -1,7 +1,7 @@
 {
   "youtubeId": "GH1cOFInMuw",
   "title": "Enfant du destin (Nour)",
-  "lastFetched": "2025-11-26T10:58:44.215Z",
+  "lastFetched": "2025-11-30T21:10:56.330Z",
   "ai": {
     "title": "Nour #Enfant du destin",
     "artist": "Médine"
@@ -33,5 +33,10 @@
       "french",
       "algerian"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a9e69000-e4c7-4165-a33c-eca586ef92cf",
+    "artistMbid": "6287622e-28d7-4129-b141-34802042c8f0",
+    "releaseCount": 2
   }
 }

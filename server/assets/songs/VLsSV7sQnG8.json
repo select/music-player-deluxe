@@ -2,7 +2,7 @@
   "youtubeId": "VLsSV7sQnG8",
   "title": "Oh Yeah!",
   "artist": "Joe Cuba Sextet",
-  "lastFetched": "2025-11-23T14:15:14.577Z",
+  "lastFetched": "2025-11-30T22:43:38.993Z",
   "lastfm": {
     "title": "Oh Yeah!",
     "artist": "Joe Cuba Sextet",
@@ -13,6 +13,15 @@
     "playcount": 88,
     "tags": [
       "title is an exclamation"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c80643f1-7304-4374-8825-697a29b1c642",
+    "artistMbid": "15a1d7e4-30bc-4580-a441-abc8a51fcc34",
+    "releaseCount": 1,
+    "artistGenres": [
+      "latin",
+      "salsa"
     ]
   }
 }

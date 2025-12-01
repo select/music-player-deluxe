@@ -2,7 +2,7 @@
   "youtubeId": "8AHCfZTRGiI",
   "title": "Hurt",
   "artist": "Johnny Cash",
-  "lastFetched": "2025-11-23T19:32:05.236Z",
+  "lastFetched": "2025-11-30T22:04:53.142Z",
   "odesli": {
     "amazonMusic": "B00QWEEYRS",
     "amazonStore": "B00QWEEYRS",
@@ -31,5 +31,34 @@
     ],
     "title": "Hurt",
     "artist": "Johnny Cash"
+  },
+  "musicbrainz": {
+    "trackMbid": "25d8de5e-3662-4ffd-8dea-511a696ac3e7",
+    "artistMbid": "d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
+    "releaseCount": 25,
+    "genres": [
+      "alternative country",
+      "alternative rock",
+      "americana",
+      "classic country",
+      "contemporary country",
+      "contemporary folk",
+      "country",
+      "country rock",
+      "outlaw country",
+      "rock",
+      "traditional country"
+    ],
+    "artistGenres": [
+      "americana",
+      "blues",
+      "country",
+      "country gospel",
+      "folk",
+      "gospel",
+      "outlaw country",
+      "rock and roll",
+      "rockabilly"
+    ]
   }
 }

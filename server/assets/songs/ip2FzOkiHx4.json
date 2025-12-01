@@ -1,7 +1,7 @@
 {
   "youtubeId": "ip2FzOkiHx4",
   "title": "Hans Söllner - Ned aloa",
-  "lastFetched": "2025-11-29T12:38:35.596Z",
+  "lastFetched": "2025-11-30T19:43:24.740Z",
   "ai": {
     "title": "Ned aloa",
     "artist": "Hans Söllner"
@@ -20,6 +20,14 @@
       "singer-songwriter",
       "german",
       "bavarian"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e25f50a7-9fc5-4cbd-bcf0-99dec23e993a",
+    "artistMbid": "80abef74-04bc-40d6-a0b3-518cd4d13b54",
+    "releaseCount": 1,
+    "artistGenres": [
+      "reggae"
     ]
   }
 }

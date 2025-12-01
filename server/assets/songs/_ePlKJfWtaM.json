@@ -1,7 +1,7 @@
 {
   "youtubeId": "_ePlKJfWtaM",
   "title": "Talvin Singh - Traveller",
-  "lastFetched": "2025-11-28T18:37:33.431Z",
+  "lastFetched": "2025-11-30T20:12:55.698Z",
   "ai": {
     "title": "Traveller",
     "artist": "Talvin Singh"
@@ -19,6 +19,23 @@
       "ambient",
       "electronic",
       "world"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a5957455-dbe5-4684-8988-71ba1095ef98",
+    "artistMbid": "4fafdd2b-4cd0-4cc7-a338-cd94cfceeea4",
+    "releaseCount": 6,
+    "genres": [
+      "ambient",
+      "breakbeat",
+      "chillout",
+      "dance",
+      "downtempo",
+      "drum and bass",
+      "edm",
+      "electronic",
+      "tribal house",
+      "trip hop"
     ]
   }
 }

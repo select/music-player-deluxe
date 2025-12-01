@@ -1,7 +1,7 @@
 {
   "youtubeId": "LkJEp2TbFHA",
   "title": "Tim Minchin - Storm",
-  "lastFetched": "2025-11-27T12:02:46.902Z",
+  "lastFetched": "2025-11-30T20:37:37.285Z",
   "ai": {
     "title": "Storm",
     "artist": "Tim Minchin"
@@ -15,6 +15,14 @@
     "tags": [
       "comedy",
       "funny"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ddacdd44-82f2-4fca-a5b1-fdf8a6ea0b7c",
+    "artistMbid": "2dc758d7-6776-45d1-b537-484249bd265e",
+    "releaseCount": 5,
+    "artistGenres": [
+      "comedy"
     ]
   }
 }

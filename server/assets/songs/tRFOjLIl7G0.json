@@ -2,7 +2,7 @@
   "youtubeId": "tRFOjLIl7G0",
   "title": "Strange",
   "artist": "Built To Spill",
-  "lastFetched": "2025-11-29T13:48:07.823Z",
+  "lastFetched": "2025-11-30T19:50:23.915Z",
   "odesli": {
     "amazonMusic": "B001L2AT0W",
     "amazonStore": "B001L2AT0W",
@@ -23,6 +23,15 @@
       "indie rock",
       "indie",
       "alternative",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a4671852-e332-4688-a663-bc98afdeeca6",
+    "artistMbid": "3ac482b8-1494-4071-a0e9-f192f9d2c2b0",
+    "releaseCount": 1,
+    "artistGenres": [
+      "indie rock",
       "rock"
     ]
   }

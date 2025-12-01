@@ -2,7 +2,7 @@
   "youtubeId": "rB6OlJqV1rQ",
   "title": "The Bluest Blues",
   "artist": "Alvin Lee",
-  "lastFetched": "2025-11-30T17:44:53.130Z",
+  "lastFetched": "2025-11-30T19:35:30.820Z",
   "odesli": {
     "amazonMusic": "B09J1WR2NV",
     "amazonStore": "B09J1WR2NV",
@@ -30,6 +30,17 @@
       "blues",
       "blues rock",
       "great guitar"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d996a7fc-306a-4986-901b-fb1361a335bf",
+    "artistMbid": "0ddd15e3-d39f-475e-a91f-2e82377d3804",
+    "releaseCount": 1,
+    "artistGenres": [
+      "americana",
+      "blues rock",
+      "hard rock",
+      "rock"
     ]
   }
 }

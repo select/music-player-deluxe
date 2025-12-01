@@ -2,7 +2,7 @@
   "youtubeId": "Cj8JrQ9w5jY",
   "title": "Daft Punk Is Playing at My House",
   "artist": "LCD Soundsystem",
-  "lastFetched": "2025-11-23T19:30:20.715Z",
+  "lastFetched": "2025-11-30T22:11:29.223Z",
   "odesli": {
     "amazonMusic": "B000TE0HYQ",
     "amazonStore": "B000TE0HYQ",
@@ -35,6 +35,28 @@
       "electronic",
       "indie",
       "dance"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3f85e09e-8bf1-4479-866d-75576dfbead6",
+    "artistMbid": "2aaf7396-6ab8-40f3-9776-a41c42c8e26b",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "dance",
+      "dance-punk",
+      "electronic",
+      "indie rock",
+      "indietronica",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "dance-punk",
+      "electronic",
+      "indietronica",
+      "new wave",
+      "post-punk revival"
     ]
   }
 }

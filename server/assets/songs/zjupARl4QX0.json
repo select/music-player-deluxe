@@ -1,7 +1,7 @@
 {
   "youtubeId": "zjupARl4QX0",
   "title": "Westworld S2 Official Soundtrack | Seven Nation Army - Ramin Djawadi | WaterTower",
-  "lastFetched": "2025-11-28T18:36:20.960Z",
+  "lastFetched": "2025-11-30T20:07:55.778Z",
   "ai": {
     "title": "Seven Nation Army",
     "artist": "Ramin Djawadi"
@@ -20,6 +20,17 @@
       "calm",
       "wicked",
       "arabic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e8564b87-543d-443e-b205-84eb00a30dbb",
+    "artistMbid": "f089f636-6b85-4e0e-a192-0d30ed2b44d1",
+    "releaseCount": 4,
+    "artistGenres": [
+      "ambient",
+      "cinematic classical",
+      "modern classical",
+      "orchestral"
     ]
   }
 }

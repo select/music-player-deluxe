@@ -2,7 +2,7 @@
   "youtubeId": "XVnQS_FPeng",
   "title": "Long Distance",
   "artist": "Turin Brakes",
-  "lastFetched": "2025-11-27T12:03:40.918Z",
+  "lastFetched": "2025-11-30T20:47:08.032Z",
   "odesli": {
     "amazonMusic": "B0BRVNFNRX",
     "amazonStore": "B0BRVNFNRX",
@@ -25,6 +25,23 @@
       "mellow",
       "indie rock",
       "acoustic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f2cd93c4-f6f2-4d91-9526-d1f261bc1b2e",
+    "artistMbid": "2ecbd923-9daf-4f18-9250-e482ccec4c28",
+    "releaseCount": 12,
+    "genres": [
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "folk",
+      "indie folk",
+      "indie pop",
+      "indie rock",
+      "pop"
     ]
   }
 }

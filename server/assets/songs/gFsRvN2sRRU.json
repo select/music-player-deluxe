@@ -1,7 +1,7 @@
 {
   "youtubeId": "gFsRvN2sRRU",
   "title": "Little Wing- Jimi Hendrix: You've Never Heard It Like This #13",
-  "lastFetched": "2025-11-26T11:02:50.285Z",
+  "lastFetched": "2025-11-30T21:42:35.192Z",
   "ai": {
     "title": "Little Wing",
     "artist": "Jimi Hendrix"
@@ -20,5 +20,23 @@
     ],
     "title": "Little Wing",
     "artist": "Jimi Hendrix"
+  },
+  "musicbrainz": {
+    "trackMbid": "56f8a4c8-09ed-4c5b-8771-05209e78a2e3",
+    "artistMbid": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
+    "releaseCount": 3,
+    "genres": [
+      "psychedelic rock"
+    ],
+    "artistGenres": [
+      "acid rock",
+      "blues rock",
+      "classic rock",
+      "hard rock",
+      "jam band",
+      "psychedelic rock",
+      "psychedelic soul",
+      "rock"
+    ]
   }
 }

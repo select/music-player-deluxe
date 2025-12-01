@@ -1,7 +1,7 @@
 {
   "youtubeId": "O8d5dAC65uY",
   "title": "Tanya Donelly - Moon River (Blue Mix)",
-  "lastFetched": "2025-11-26T10:56:52.296Z",
+  "lastFetched": "2025-11-30T20:53:05.140Z",
   "ai": {
     "title": "Moon River (Blue Mix)",
     "artist": "Tanya Donelly"
@@ -20,6 +20,15 @@
       "singer-songwriter",
       "alternative",
       "4ad"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "59346328-5c90-4073-91ab-e19fa2145239",
+    "artistMbid": "478e2b34-bda3-48c8-81e4-77efac91f3ec",
+    "releaseCount": 1,
+    "artistGenres": [
+      "indie rock",
+      "singer-songwriter"
     ]
   }
 }

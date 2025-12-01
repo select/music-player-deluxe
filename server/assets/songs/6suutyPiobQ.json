@@ -1,7 +1,7 @@
 {
   "youtubeId": "6suutyPiobQ",
   "title": "Cracker - Been Around the World - 12/27/2010 - Wolfgang's Vault",
-  "lastFetched": "2025-11-30T17:35:46.716Z",
+  "lastFetched": "2025-11-30T19:37:36.717Z",
   "ai": {
     "title": "Been Around the World",
     "artist": "Cracker"
@@ -20,6 +20,27 @@
       "americana",
       "mellow",
       "alternative rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1279a3f5-1e67-454d-948d-f4ee0c9b2979",
+    "artistMbid": "ca48bfb8-37c5-4a04-9837-a07975ee0cd3",
+    "releaseCount": 5,
+    "genres": [
+      "alternative country",
+      "alternative rock",
+      "americana",
+      "country",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative country",
+      "alternative rock",
+      "country rock",
+      "desert rock",
+      "grunge",
+      "roots rock"
     ]
   }
 }

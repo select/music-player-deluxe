@@ -1,7 +1,7 @@
 {
   "youtubeId": "cwaaBPOI3gc",
   "title": "Plastic Stress",
-  "lastFetched": "2025-11-26T11:00:48.095Z",
+  "lastFetched": "2025-11-30T21:21:40.947Z",
   "ai": {
     "title": "Plastic Stress",
     "artist": "Terranova"
@@ -25,6 +25,23 @@
     "tags": [
       "trip-hop",
       "chillout"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2810f5f0-10f4-40e5-a9f7-1d845130cb7e",
+    "artistMbid": "00950dec-8f3a-4a17-9717-e7872a954d8b",
+    "releaseCount": 3,
+    "genres": [
+      "downtempo",
+      "electronic",
+      "house",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "downtempo",
+      "electronic",
+      "electronica",
+      "trip hop"
     ]
   }
 }

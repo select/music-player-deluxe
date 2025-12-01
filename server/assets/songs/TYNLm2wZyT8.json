@@ -1,7 +1,7 @@
 {
   "youtubeId": "TYNLm2wZyT8",
   "title": "Guster - \"Ruby Falls\" [Best Quality]",
-  "lastFetched": "2025-11-27T12:01:56.174Z",
+  "lastFetched": "2025-11-30T20:33:21.908Z",
   "ai": {
     "title": "Ruby Falls",
     "artist": "Guster"
@@ -19,6 +19,21 @@
       "mellow",
       "alternative",
       "indie rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6e2e4f89-1e94-4d22-bcb3-39bbb03643d5",
+    "artistMbid": "6cbe1e63-5895-4168-ac7e-f0d2836ba0c1",
+    "releaseCount": 3,
+    "genres": [
+      "alternative rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative rock",
+      "jangle pop",
+      "pop rock",
+      "rock"
     ]
   }
 }

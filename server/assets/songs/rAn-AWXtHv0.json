@@ -2,7 +2,7 @@
   "youtubeId": "rAn-AWXtHv0",
   "title": "Imagine",
   "artist": "John Lennon",
-  "lastFetched": "2025-11-24T00:22:13.518Z",
+  "lastFetched": "2025-11-30T21:43:00.349Z",
   "odesli": {
     "amazonMusic": "B0043RKGEG",
     "amazonStore": "B0043RKGEG",
@@ -36,6 +36,23 @@
       "john lennon",
       "rock",
       "british"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1366b057-6d90-4880-a1ba-9b8029bc759c",
+    "artistMbid": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+    "releaseCount": 2,
+    "genres": [
+      "rock"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "experimental",
+      "pop",
+      "pop rock",
+      "rock",
+      "rock and roll",
+      "singer-songwriter"
     ]
   }
 }

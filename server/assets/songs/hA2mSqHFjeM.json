@@ -2,7 +2,7 @@
   "youtubeId": "hA2mSqHFjeM",
   "title": "Road to Zion",
   "artist": "Petra",
-  "lastFetched": "2025-11-23T19:34:34.689Z",
+  "lastFetched": "2025-11-30T21:52:00.705Z",
   "odesli": {
     "amazonMusic": "B00E1X0GU6",
     "amazonStore": "B00E1X0GU6",
@@ -23,6 +23,27 @@
       "christian",
       "rock",
       "classic rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5441a8b4-abf1-4c1c-a613-dbd801f86ee8",
+    "artistMbid": "a2da9a16-4f14-4fe6-84e0-ff882fc1664f",
+    "releaseCount": 9,
+    "genres": [
+      "christian rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "aor",
+      "christian rock",
+      "classic rock",
+      "country rock",
+      "hard rock",
+      "pop rock",
+      "praise & worship",
+      "progressive rock",
+      "rock"
     ]
   }
 }

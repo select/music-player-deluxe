@@ -2,7 +2,7 @@
   "youtubeId": "4pILx_RrYrg",
   "title": "Thought I Knew",
   "artist": "Weezer",
-  "lastFetched": "2025-11-30T17:44:22.817Z",
+  "lastFetched": "2025-11-30T19:31:53.324Z",
   "odesli": {
     "amazonMusic": "B001A5ZL9O",
     "amazonStore": "B001A5ZL9O",
@@ -25,6 +25,27 @@
       "alternative",
       "indie rock",
       "indie"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7e95c9dc-8b52-4f40-96e1-981e1cb49eb1",
+    "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+    "releaseCount": 24,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "alternative rock",
+      "emo",
+      "geek rock",
+      "mainstream rock",
+      "pop rock",
+      "power pop",
+      "rock"
     ]
   }
 }

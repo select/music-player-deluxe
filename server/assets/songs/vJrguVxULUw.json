@@ -2,7 +2,7 @@
   "youtubeId": "vJrguVxULUw",
   "title": "Verkackt",
   "artist": "Erobique",
-  "lastFetched": "2025-11-23T15:04:38.375Z",
+  "lastFetched": "2025-11-30T22:28:02.883Z",
   "odesli": {
     "amazonMusic": "B0C6L4LMD9",
     "amazonStore": "B0C6L4LMD9",
@@ -26,6 +26,17 @@
       "german",
       "electro",
       "acid jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "997bf26a-4af8-4b53-bf01-12da7ab94d2e",
+    "artistMbid": "609afe90-64f9-41eb-ad12-64130bf1016a",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dance",
+      "electronic",
+      "house",
+      "tech house"
     ]
   }
 }

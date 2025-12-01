@@ -1,7 +1,7 @@
 {
   "youtubeId": "vTWvhyds5H0",
   "title": "Teitur - Great Balls of Fire",
-  "lastFetched": "2025-11-27T12:02:52.284Z",
+  "lastFetched": "2025-11-30T20:38:48.827Z",
   "ai": {
     "title": "Great Balls of Fire",
     "artist": "Teitur"
@@ -20,5 +20,10 @@
       "mellow",
       "love"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3c3b5392-8323-402a-9fa0-48df86cf04b9",
+    "artistMbid": "dfef0f62-de5a-48e6-9546-29b26e907a6d",
+    "releaseCount": 2
   }
 }

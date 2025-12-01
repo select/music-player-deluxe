@@ -1,9 +1,20 @@
 {
   "youtubeId": "jdYJf_ybyVo",
   "title": "OCEAN - John Butler - 2012 Studio Version",
-  "lastFetched": "2025-11-27T10:13:52.026Z",
+  "lastFetched": "2025-11-30T20:22:55.175Z",
   "ai": {
     "title": "OCEAN",
     "artist": "John Butler"
+  },
+  "musicbrainz": {
+    "trackMbid": "f50f8189-d18c-4550-b3a7-a6621c42d22f",
+    "artistMbid": "790278a2-0256-447e-891d-991211e90a86",
+    "releaseCount": 4,
+    "genres": [
+      "acoustic rock",
+      "alternative rock",
+      "instrumental",
+      "rock"
+    ]
   }
 }

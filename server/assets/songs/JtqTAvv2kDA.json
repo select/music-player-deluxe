@@ -2,7 +2,7 @@
   "youtubeId": "JtqTAvv2kDA",
   "title": "City Slang",
   "artist": "Sonic's Rendezvous Band",
-  "lastFetched": "2025-11-19T10:37:20.858Z",
+  "lastFetched": "2025-11-30T23:18:21.277Z",
   "lastfm": {
     "id": "Sonic%27s+Rendezvous+Band/_/City+Slang",
     "listeners": 5514,
@@ -13,5 +13,10 @@
       "hard rock",
       "proto punk"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "035c1cc0-8be5-45bc-801b-86d1bbe3a7a5",
+    "artistMbid": "1e6daed7-dc3b-4616-a98d-d719ea76e47e",
+    "releaseCount": 1
   }
 }

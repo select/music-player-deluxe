@@ -2,7 +2,7 @@
   "youtubeId": "ZXBiPY8wDT0",
   "title": "Ticket to the Moon",
   "artist": "Electric Light Orchestra",
-  "lastFetched": "2025-11-28T18:36:31.199Z",
+  "lastFetched": "2025-11-30T20:08:38.008Z",
   "odesli": {
     "amazonMusic": "B00137XX8A",
     "amazonStore": "B00137XX8A",
@@ -31,6 +31,24 @@
       "rock",
       "progressive rock",
       "elo"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f707fa0e-f9cf-4ef6-8e8e-6c642f861864",
+    "artistMbid": "0c502791-4ee9-4c5f-9696-0602b721ff3b",
+    "releaseCount": 1,
+    "artistGenres": [
+      "art rock",
+      "classic rock",
+      "crossover prog",
+      "pop",
+      "pop rock",
+      "progressive",
+      "progressive pop",
+      "progressive rock",
+      "rock",
+      "symphonic prog",
+      "symphonic rock"
     ]
   }
 }

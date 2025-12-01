@@ -1,7 +1,7 @@
 {
   "youtubeId": "gcvUjAR2vR8",
   "title": "Delta Spirit \"Bushwick Blues\"",
-  "lastFetched": "2025-11-27T12:01:13.118Z",
+  "lastFetched": "2025-11-30T20:28:55.893Z",
   "ai": {
     "title": "Bushwick Blues",
     "artist": "Delta Spirit"
@@ -17,6 +17,24 @@
       "great",
       "indie rock",
       "sexy"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f03f08f2-fee0-48b8-bebc-6327ef82ef8a",
+    "artistMbid": "574a5acd-3e0a-418b-9a8e-fb260be389bf",
+    "releaseCount": 2,
+    "genres": [
+      "acoustic rock",
+      "blues",
+      "country rock",
+      "folk rock",
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "americana",
+      "indie rock"
     ]
   }
 }

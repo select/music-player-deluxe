@@ -2,7 +2,7 @@
   "youtubeId": "64liF2VuLxI",
   "title": "Loud Pipes",
   "artist": "Ratatat",
-  "lastFetched": "2025-11-28T18:37:37.163Z",
+  "lastFetched": "2025-11-30T20:13:35.710Z",
   "odesli": {
     "amazonMusic": "B000SFOJNG",
     "amazonStore": "B000SFOJNG",
@@ -25,6 +25,27 @@
       "poptron",
       "electronic",
       "instrumental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "69d8064a-1b6e-49af-933d-3e689b380af0",
+    "artistMbid": "f467181e-d5e0-4285-b47e-e853dcc89ee7",
+    "releaseCount": 7,
+    "genres": [
+      "electro",
+      "electronic",
+      "indie rock",
+      "indietronica",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "electronic",
+      "hip hop",
+      "indietronica",
+      "instrumental",
+      "neo-psychedelia",
+      "new rave"
     ]
   }
 }

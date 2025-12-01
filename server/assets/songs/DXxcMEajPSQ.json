@@ -2,7 +2,7 @@
   "youtubeId": "DXxcMEajPSQ",
   "title": "Destroy Him My Robots",
   "artist": "Anthony Rother",
-  "lastFetched": "2025-11-24T00:22:37.122Z",
+  "lastFetched": "2025-11-30T21:38:46.079Z",
   "odesli": {
     "amazonMusic": "B0B3817H91",
     "amazonStore": "B0B3817H91",
@@ -27,6 +27,14 @@
     "tags": [
       "electro",
       "vocoder"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "623f4bae-b995-435d-86a2-b5a859ac780f",
+    "artistMbid": "2aadb587-524c-4b07-b712-0f700526730e",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electro"
     ]
   }
 }

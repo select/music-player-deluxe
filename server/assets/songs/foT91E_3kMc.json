@@ -2,7 +2,7 @@
   "youtubeId": "foT91E_3kMc",
   "title": "Diane",
   "artist": "Therapy?",
-  "lastFetched": "2025-11-28T12:13:47.725Z",
+  "lastFetched": "2025-11-30T20:26:26.963Z",
   "odesli": {
     "amazonMusic": "B000QLAK76",
     "amazonStore": "B000QLAK76",
@@ -25,6 +25,26 @@
       "cover",
       "90s",
       "alternative rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fcf4bad6-afef-4070-9d2e-8a77a1fb3469",
+    "artistMbid": "85226286-349a-4046-8dcf-f75b32baa6b1",
+    "releaseCount": 6,
+    "genres": [
+      "alternative rock",
+      "metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "noise rock",
+      "post-hardcore",
+      "power pop",
+      "punk rock",
+      "rock"
     ]
   }
 }

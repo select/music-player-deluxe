@@ -1,7 +1,7 @@
 {
   "youtubeId": "_YoapuIvv_4",
   "title": "Yusef Lateef, \"Morning\"",
-  "lastFetched": "2025-11-30T17:25:22.070Z",
+  "lastFetched": "2025-11-30T19:38:11.145Z",
   "ai": {
     "title": "Morning",
     "artist": "Yusef Lateef"
@@ -16,6 +16,19 @@
     "tags": [
       "jazz fusion",
       "gilles peterson"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b171e00e-a30f-460a-ae63-ab7fb6b900e9",
+    "artistMbid": "2968722f-03d8-4e2f-88bc-f9975f147503",
+    "releaseCount": 5,
+    "artistGenres": [
+      "avant-garde jazz",
+      "hard bop",
+      "jazz",
+      "jazz fusion",
+      "jazz-funk",
+      "post-bop"
     ]
   }
 }

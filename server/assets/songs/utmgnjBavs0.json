@@ -1,7 +1,7 @@
 {
   "youtubeId": "utmgnjBavs0",
   "title": "jimmy smith root down",
-  "lastFetched": "2025-11-28T18:37:46.909Z",
+  "lastFetched": "2025-11-30T20:14:09.544Z",
   "ai": {
     "title": "root down",
     "artist": "jimmy smith"
@@ -19,6 +19,17 @@
       "organ",
       "funk",
       "blues"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9aa84393-6585-4cf5-95f8-70a6aeee34e5",
+    "artistMbid": "4f8a0d9b-5777-40da-b29a-e9753d5ae693",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hard bop",
+      "jazz",
+      "jazz-funk",
+      "soul jazz"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "J3fL138Zbmc",
   "title": "Ill Niño - With You",
-  "lastFetched": "2025-11-27T12:01:03.018Z",
+  "lastFetched": "2025-11-30T20:28:01.848Z",
   "ai": {
     "title": "With You",
     "artist": "Ill Niño"
@@ -18,6 +18,25 @@
       "nu metal",
       "latin",
       "alternative rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d11c2efe-2f93-42d7-9222-9ccaaa5a24ab",
+    "artistMbid": "91e2e08f-abd7-44d6-9a84-b8a4afa8a265",
+    "releaseCount": 12,
+    "genres": [
+      "alternative metal",
+      "alternative rock",
+      "heavy metal",
+      "metal",
+      "nu metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "metal",
+      "metalcore",
+      "nu metal",
+      "rock"
     ]
   }
 }

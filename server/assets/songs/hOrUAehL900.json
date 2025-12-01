@@ -2,7 +2,7 @@
   "youtubeId": "hOrUAehL900",
   "title": "That Ain't the Way You Make Love",
   "artist": "Z.Z. Hill",
-  "lastFetched": "2025-11-19T17:00:36.326Z",
+  "lastFetched": "2025-11-30T22:42:39.660Z",
   "odesli": {
     "amazonMusic": "B0013R0X9C",
     "amazonStore": "B0013R0X9C",
@@ -24,6 +24,15 @@
       "wsum 91.7 fm madison",
       "remedies",
       "soul"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7c46438e-5b7e-4d6f-ada9-a769488132ec",
+    "artistMbid": "c29fd6f3-56d9-4f3e-bfcd-ad1fea6329a4",
+    "releaseCount": 2,
+    "artistGenres": [
+      "blues",
+      "r&b"
     ]
   }
 }

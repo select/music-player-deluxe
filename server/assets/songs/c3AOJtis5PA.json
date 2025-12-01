@@ -2,7 +2,7 @@
   "youtubeId": "c3AOJtis5PA",
   "title": "The Night Garden",
   "artist": "Waldeck",
-  "lastFetched": "2025-11-23T14:47:49.519Z",
+  "lastFetched": "2025-11-30T22:32:06.207Z",
   "odesli": {
     "amazonMusic": "B0BHSZQ2XZ",
     "amazonStore": "B0BHSZQ2XZ",
@@ -26,6 +26,22 @@
       "electronic",
       "downtempo",
       "dub"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5863cd1a-29e8-426c-84ae-3bbe2c4c8794",
+    "artistMbid": "8f389bf5-a950-4a2f-a962-daf08151ee33",
+    "releaseCount": 7,
+    "genres": [
+      "chillout",
+      "dance",
+      "downtempo",
+      "dub",
+      "electronic",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "chillout"
     ]
   }
 }

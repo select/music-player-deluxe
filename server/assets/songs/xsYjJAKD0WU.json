@@ -1,7 +1,7 @@
 {
   "youtubeId": "xsYjJAKD0WU",
   "title": "Collective Soul - Run",
-  "lastFetched": "2025-11-26T10:58:37.007Z",
+  "lastFetched": "2025-11-30T21:10:27.043Z",
   "ai": {
     "title": "Run",
     "artist": "Collective Soul"
@@ -18,6 +18,18 @@
       "rock",
       "alternative",
       "collective soul"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "54a852d2-943c-42ab-af10-254c2d9504a3",
+    "artistMbid": "aa266ac7-d919-4132-982e-76cbd95591a7",
+    "releaseCount": 3,
+    "artistGenres": [
+      "alternative rock",
+      "christian rock",
+      "hard rock",
+      "pop rock",
+      "post-grunge"
     ]
   }
 }

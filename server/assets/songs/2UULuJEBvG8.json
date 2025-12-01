@@ -1,7 +1,7 @@
 {
   "youtubeId": "2UULuJEBvG8",
   "title": "Marshall & the Fro \"Get Up\" Film Clip",
-  "lastFetched": "2025-11-26T11:02:26.118Z",
+  "lastFetched": "2025-11-30T21:34:46.011Z",
   "ai": {
     "title": "Get Up",
     "artist": "Marshall & the Fro"
@@ -20,5 +20,10 @@
       "roots",
       "lesser known yet streamable artists"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6238acc4-b5ed-43d7-9b3d-1135fd759e1b",
+    "artistMbid": "198e7cf5-9694-4a8d-98fb-05aaca833cb6",
+    "releaseCount": 2
   }
 }

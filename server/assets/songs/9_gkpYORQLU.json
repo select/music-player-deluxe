@@ -2,7 +2,7 @@
   "youtubeId": "9_gkpYORQLU",
   "title": "G.O.A.T.",
   "artist": "Polyphia",
-  "lastFetched": "2025-11-19T07:48:36.226Z",
+  "lastFetched": "2025-11-30T23:28:31.869Z",
   "odesli": {
     "amazonMusic": "B07FT2GR3F",
     "amazonStore": "B07FT2GR3F",
@@ -30,6 +30,18 @@
       "math rock",
       "mathcore",
       "gaming"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4418707e-60f8-419c-81fe-ad773caa68a0",
+    "artistMbid": "344bfb00-27f0-4ff2-b96b-048ed1c6a968",
+    "releaseCount": 7,
+    "artistGenres": [
+      "djent",
+      "instrumental",
+      "math rock",
+      "progressive metal",
+      "progressive rock"
     ]
   }
 }

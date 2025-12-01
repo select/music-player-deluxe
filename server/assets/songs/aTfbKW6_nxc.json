@@ -1,7 +1,7 @@
 {
   "youtubeId": "aTfbKW6_nxc",
   "title": "Earthquake (Labrinth) - Grabatron app (2011)",
-  "lastFetched": "2025-11-27T12:02:28.320Z",
+  "lastFetched": "2025-11-30T20:35:57.144Z",
   "ai": {
     "title": "Earthquake",
     "artist": "Labrinth"
@@ -19,5 +19,10 @@
       "pop",
       "labrinth"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "45898066-eff3-4767-a4d9-944a9950efba",
+    "artistMbid": "dc99e6fd-c710-4f79-b74b-127b4d0b7849",
+    "releaseCount": 4
   }
 }

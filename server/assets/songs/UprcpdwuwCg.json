@@ -2,7 +2,7 @@
   "youtubeId": "UprcpdwuwCg",
   "title": "Heathens",
   "artist": "Twenty One Pilots",
-  "lastFetched": "2025-11-26T11:01:24.477Z",
+  "lastFetched": "2025-11-30T21:24:58.157Z",
   "odesli": {
     "amazonMusic": "B01H5ZYNM8",
     "amazonStore": "B01H5ZYNM8",
@@ -31,5 +31,28 @@
     "artist": "Twenty One Pilots",
     "mbid": "4db82a34-cd11-435b-9c94-027d887d2c2c",
     "artistMbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67"
+  },
+  "musicbrainz": {
+    "trackMbid": "3bf798f4-b3fa-4a0b-a7bb-655af72429b2",
+    "artistMbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+    "releaseCount": 20,
+    "genres": [
+      "alternative rock",
+      "electronic",
+      "pop",
+      "rap rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative hip hop",
+      "alternative pop",
+      "alternative rock",
+      "electropop",
+      "hip hop",
+      "indie pop",
+      "indietronica",
+      "piano rock",
+      "pop rap"
+    ]
   }
 }

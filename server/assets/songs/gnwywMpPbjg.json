@@ -2,7 +2,7 @@
   "youtubeId": "gnwywMpPbjg",
   "title": "Tonttuheviä",
   "artist": "Hevisaurus",
-  "lastFetched": "2025-11-23T19:33:22.549Z",
+  "lastFetched": "2025-11-30T21:58:35.125Z",
   "odesli": {
     "amazonMusic": "B006P8M360",
     "amazonStore": "B006P8M360",
@@ -26,5 +26,10 @@
       "finnish",
       "dinosaur metal"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "beee2711-fce9-4320-9992-864a18b851f1",
+    "artistMbid": "c964b49c-5482-4282-8980-f18501004368",
+    "releaseCount": 3
   }
 }

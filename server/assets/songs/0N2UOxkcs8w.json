@@ -1,7 +1,7 @@
 {
   "youtubeId": "0N2UOxkcs8w",
   "title": "\"Intro\" - Double Bass Looping - Adam Ben Ezra",
-  "lastFetched": "2025-11-29T12:39:41.337Z",
+  "lastFetched": "2025-11-30T20:00:55.525Z",
   "ai": {
     "title": "Intro",
     "artist": "Adam Ben Ezra"
@@ -19,6 +19,15 @@
       "bass",
       "lastfmsc",
       "israel"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "057f180b-ec48-4827-8c01-ac318fe2d52b",
+    "artistMbid": "027b27ac-cb3f-40c8-8abb-aac46eaf16ef",
+    "releaseCount": 3,
+    "artistGenres": [
+      "instrumental",
+      "jazz"
     ]
   }
 }

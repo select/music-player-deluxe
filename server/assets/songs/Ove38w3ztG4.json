@@ -2,7 +2,7 @@
   "youtubeId": "Ove38w3ztG4",
   "title": "Take Me To The Mardi Gras",
   "artist": "Bob James",
-  "lastFetched": "2025-11-23T19:32:54.735Z",
+  "lastFetched": "2025-11-30T22:00:25.979Z",
   "odesli": {
     "amazonMusic": "B07F2HH9RR",
     "amazonStore": "B07F2HH9RR",
@@ -30,6 +30,18 @@
       "smooth jazz",
       "funk",
       "sampled"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3d9d22fd-93fc-492b-b0f9-4aaa95e7af2d",
+    "artistMbid": "f4d2fc5a-cacb-47c8-b096-ee73864b1aa8",
+    "releaseCount": 22,
+    "artistGenres": [
+      "contemporary jazz",
+      "jazz",
+      "jazz fusion",
+      "jazz-funk",
+      "smooth jazz"
     ]
   }
 }

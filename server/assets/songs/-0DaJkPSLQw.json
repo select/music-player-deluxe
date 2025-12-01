@@ -2,7 +2,7 @@
   "youtubeId": "-0DaJkPSLQw",
   "title": "Desperado",
   "artist": "Alice Cooper",
-  "lastFetched": "2025-11-23T19:35:24.645Z",
+  "lastFetched": "2025-11-30T21:47:49.915Z",
   "odesli": {
     "amazonMusic": "B00DAMOHAE",
     "amazonStore": "B00DAMOHAE",
@@ -27,6 +27,29 @@
       "classic rock",
       "glam rock",
       "alice cooper",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d7ebc9cb-b437-4464-9674-19b537d5ba42",
+    "artistMbid": "4d7928cd-7ed2-4282-8c29-c0c9f966f1bd",
+    "releaseCount": 25,
+    "genres": [
+      "classic rock",
+      "hard rock",
+      "heavy metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "garage rock",
+      "glam metal",
+      "glam rock",
+      "hard rock",
+      "heavy metal",
+      "new wave",
+      "pop rock",
+      "psychedelic rock",
       "rock"
     ]
   }

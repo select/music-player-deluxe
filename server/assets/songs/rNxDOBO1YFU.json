@@ -2,7 +2,7 @@
   "youtubeId": "rNxDOBO1YFU",
   "title": "Life Is But A Dream",
   "artist": "London Elektricity",
-  "lastFetched": "2025-11-24T00:23:04.749Z",
+  "lastFetched": "2025-11-30T21:34:14.642Z",
   "odesli": {
     "amazonMusic": "B0F3L31K44",
     "amazonStore": "B0F3L31K44",
@@ -25,6 +25,16 @@
       "liquid funk",
       "electronic",
       "dnb"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "badb8fd9-5cc9-424e-9adf-0ea78d812b2b",
+    "artistMbid": "0356daee-ec48-4495-bc3e-460b8a5eacad",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass",
+      "electronica",
+      "liquid funk"
     ]
   }
 }

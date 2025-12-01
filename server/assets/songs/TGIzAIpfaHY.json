@@ -1,7 +1,7 @@
 {
   "youtubeId": "TGIzAIpfaHY",
   "title": "Maniac-Michael Sembello",
-  "lastFetched": "2025-11-26T10:59:05.920Z",
+  "lastFetched": "2025-11-30T21:12:56.029Z",
   "ai": {
     "title": "Maniac",
     "artist": "Michael Sembello"
@@ -20,5 +20,20 @@
     ],
     "title": "Maniac",
     "artist": "Michael Sembello"
+  },
+  "musicbrainz": {
+    "trackMbid": "ee0c3925-7666-4dca-a3bb-ef1773ccde12",
+    "artistMbid": "fcde7037-181e-437f-9417-60a38958c0fa",
+    "releaseCount": 3,
+    "genres": [
+      "dance-pop",
+      "disco",
+      "pop"
+    ],
+    "artistGenres": [
+      "pop",
+      "pop rock",
+      "synth-pop"
+    ]
   }
 }

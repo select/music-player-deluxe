@@ -2,7 +2,7 @@
   "youtubeId": "cpbbuaIA3Ds",
   "title": "Money",
   "artist": "Pink Floyd",
-  "lastFetched": "2025-11-26T10:58:17.314Z",
+  "lastFetched": "2025-11-30T21:09:03.991Z",
   "odesli": {
     "amazonMusic": "B019HNVJVO",
     "amazonStore": "B019HNVJVO",
@@ -30,5 +30,25 @@
     ],
     "title": "Money",
     "artist": "Pink Floyd"
+  },
+  "musicbrainz": {
+    "trackMbid": "cd54fa4d-5264-4b1e-93d1-5c8670bc9799",
+    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
+    "releaseCount": 2,
+    "artistGenres": [
+      "acid rock",
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "experimental rock",
+      "progressive",
+      "progressive rock",
+      "psychedelic",
+      "psychedelic pop",
+      "psychedelic rock",
+      "rock",
+      "rock opera",
+      "space rock"
+    ]
   }
 }

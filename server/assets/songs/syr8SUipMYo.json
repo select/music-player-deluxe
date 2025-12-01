@@ -2,7 +2,7 @@
   "youtubeId": "syr8SUipMYo",
   "title": "Vega (Beatamines Remix)",
   "artist": "Tim Engelhardt",
-  "lastFetched": "2025-11-30T17:44:54.357Z",
+  "lastFetched": "2025-11-30T19:35:33.161Z",
   "odesli": {
     "amazonMusic": "B0CFW3NMBB",
     "amazonStore": "B0CFW3NMBB",
@@ -22,6 +22,22 @@
     "tags": [
       "house",
       "trance"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "590e43d9-fce5-4770-9c8c-7e1d9243a214",
+    "artistMbid": "60154106-f0a2-4e8e-b492-b9195db4a337",
+    "releaseCount": 1,
+    "artistGenres": [
+      "deep house",
+      "deep tech",
+      "electronica",
+      "house",
+      "melodic house",
+      "melodic techno",
+      "peak time techno",
+      "tech house",
+      "techno"
     ]
   }
 }

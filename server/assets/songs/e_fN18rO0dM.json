@@ -1,7 +1,7 @@
 {
   "youtubeId": "e_fN18rO0dM",
   "title": "them crooked vultures - elephants",
-  "lastFetched": "2025-11-27T12:00:02.663Z",
+  "lastFetched": "2025-11-30T20:22:16.595Z",
   "ai": {
     "title": "elephants",
     "artist": "them crooked vultures"
@@ -20,6 +20,20 @@
       "alternative rock",
       "stoner rock",
       "josh homme"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e1acd104-547b-4743-9297-89453265edd6",
+    "artistMbid": "4bc09c51-5d42-4c93-9ba6-8cc21a0edb8d",
+    "releaseCount": 13,
+    "genres": [
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "hard rock",
+      "rock",
+      "stoner rock"
     ]
   }
 }

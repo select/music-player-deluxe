@@ -2,7 +2,7 @@
   "youtubeId": "QC2F-2H2Piw",
   "title": "Citizen Erased",
   "artist": "Muse",
-  "lastFetched": "2025-11-23T14:10:09.627Z",
+  "lastFetched": "2025-11-30T22:47:05.519Z",
   "lastfm": {
     "title": "Citizen Erased",
     "artist": "Muse",
@@ -18,6 +18,29 @@
       "progressive rock",
       "alternative",
       "muse"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "28145665-cb89-41b5-90d3-19f74f765b46",
+    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+    "releaseCount": 15,
+    "genres": [
+      "alternative rock",
+      "progressive rock",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "alternative metal",
+      "alternative rock",
+      "art rock",
+      "neo-progressive rock",
+      "pop rock",
+      "post-grunge",
+      "progressive rock",
+      "rock",
+      "symphonic rock"
     ]
   }
 }

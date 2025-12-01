@@ -1,7 +1,7 @@
 {
   "youtubeId": "BgDC6VPx9FQ",
   "title": "Leoniden - Alone (Official Music Video)",
-  "lastFetched": "2025-11-29T12:38:18.046Z",
+  "lastFetched": "2025-11-30T19:40:58.104Z",
   "ai": {
     "title": "Alone",
     "artist": "Leoniden"
@@ -20,5 +20,10 @@
       "indie rock",
       "alternative"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9fbbade6-1d9c-408c-8580-d4842391b18c",
+    "artistMbid": "58e80cb1-6b99-43de-b3f8-0d24ab25688e",
+    "releaseCount": 4
   }
 }

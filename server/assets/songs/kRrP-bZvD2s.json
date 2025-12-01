@@ -1,7 +1,7 @@
 {
   "youtubeId": "kRrP-bZvD2s",
   "title": "die ärzte - Deine Schuld (Offizielles Video - Refurbished 2025)",
-  "lastFetched": "2025-11-26T10:57:24.551Z",
+  "lastFetched": "2025-11-30T21:01:54.992Z",
   "ai": {
     "title": "Deine Schuld",
     "artist": "die Ärzte"
@@ -20,6 +20,21 @@
       "german",
       "rock",
       "deutsch"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3d7c6b83-3664-45ee-a2fd-2ef970f72c3c",
+    "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
+    "releaseCount": 2,
+    "genres": [
+      "punk"
+    ],
+    "artistGenres": [
+      "neue deutsche welle",
+      "pop punk",
+      "punk",
+      "punk rock",
+      "rock"
     ]
   }
 }

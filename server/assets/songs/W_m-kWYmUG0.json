@@ -1,7 +1,7 @@
 {
   "youtubeId": "W_m-kWYmUG0",
   "title": "Creutzfeld & Jakob - Bunkerwelt in Witten Feat. Onanon & Dike",
-  "lastFetched": "2025-11-29T12:38:30.270Z",
+  "lastFetched": "2025-11-30T19:41:52.905Z",
   "ai": {
     "title": "Bunkerwelt in Witten",
     "artist": "Creutzfeld & Jakob"
@@ -16,6 +16,14 @@
     "tags": [
       "hip hop",
       "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "711f425d-4e9b-4f68-9e8a-ab4112a19913",
+    "artistMbid": "0cb420ed-a2f9-4346-be63-e6a2e0a66fa6",
+    "releaseCount": 1,
+    "genres": [
+      "hip hop"
     ]
   }
 }

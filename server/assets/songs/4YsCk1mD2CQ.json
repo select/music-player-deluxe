@@ -2,7 +2,7 @@
   "youtubeId": "4YsCk1mD2CQ",
   "title": "Miraculous Weekend",
   "artist": "Peter Ivers",
-  "lastFetched": "2025-11-23T15:35:14.528Z",
+  "lastFetched": "2025-11-30T22:20:49.330Z",
   "lastfm": {
     "title": "Miraculous Weekend",
     "artist": "Peter Ivers",
@@ -16,6 +16,14 @@
       "rock",
       "psychedelic",
       "avant-garde"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8d28a848-725c-4f23-9356-3e2501f08ea3",
+    "artistMbid": "d4fe6ead-3be9-491c-825d-393c486cc617",
+    "releaseCount": 3,
+    "artistGenres": [
+      "rock"
     ]
   }
 }

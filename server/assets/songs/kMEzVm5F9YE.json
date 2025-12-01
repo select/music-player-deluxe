@@ -2,7 +2,7 @@
   "youtubeId": "kMEzVm5F9YE",
   "title": "Viking 1",
   "artist": "Moondog",
-  "lastFetched": "2025-11-23T14:41:11.183Z",
+  "lastFetched": "2025-11-30T22:34:50.079Z",
   "lastfm": {
     "title": "viking 1",
     "artist": "Moondog",
@@ -17,6 +17,18 @@
       "neoclassicism",
       "fucking brilliant",
       "cookdandbombd"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "79fcfcbb-9b2a-4019-9654-332dfd36dd0d",
+    "artistMbid": "0b8dff0b-ce42-4cc6-afd1-1841f7781ed4",
+    "releaseCount": 1,
+    "artistGenres": [
+      "avant-garde",
+      "avant-garde jazz",
+      "experimental",
+      "modern classical",
+      "orchestral jazz"
     ]
   }
 }

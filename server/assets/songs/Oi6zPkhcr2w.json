@@ -1,7 +1,7 @@
 {
   "youtubeId": "Oi6zPkhcr2w",
   "title": "DIABLO SWING ORCHESTRA -Poetic Pitbull Revolutions",
-  "lastFetched": "2025-11-27T11:59:55.187Z",
+  "lastFetched": "2025-11-30T20:21:05.289Z",
   "ai": {
     "title": "Poetic Pitbull Revolutions",
     "artist": "DIABLO SWING ORCHESTRA"
@@ -19,6 +19,29 @@
       "avant-garde metal",
       "female fronted metal",
       "avant-garde"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "050703e5-d3a5-42e4-b739-d4d6b52f8577",
+    "artistMbid": "af723a8a-d3db-46c2-82a3-201dde8fa27f",
+    "releaseCount": 11,
+    "genres": [
+      "alternative rock",
+      "avant-garde metal",
+      "heavy metal",
+      "metal",
+      "progressive rock",
+      "rock",
+      "symphonic metal"
+    ],
+    "artistGenres": [
+      "avant-garde",
+      "avant-garde metal",
+      "heavy metal",
+      "jazz",
+      "metal",
+      "progressive metal",
+      "symphonic metal"
     ]
   }
 }

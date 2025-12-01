@@ -2,7 +2,7 @@
   "youtubeId": "ykEjUWrVxTQ",
   "title": "Die Wüste lebt (Alarmsignal...)",
   "artist": "Peter Schilling",
-  "lastFetched": "2025-11-23T14:25:56.424Z",
+  "lastFetched": "2025-11-30T22:40:19.327Z",
   "lastfm": {
     "title": "Die Wüste lebt (Alarmsignal...)",
     "artist": "Peter Schilling",
@@ -17,6 +17,18 @@
       "80s",
       "neue deutsche welle",
       "ndw"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "03ed115d-c652-4d1a-9e43-56fd16ab8b26",
+    "artistMbid": "bc6be178-3933-44ad-88a7-fde1a160bc29",
+    "releaseCount": 1,
+    "artistGenres": [
+      "happy hardcore",
+      "neue deutsche welle",
+      "new wave",
+      "pop",
+      "synth-pop"
     ]
   }
 }

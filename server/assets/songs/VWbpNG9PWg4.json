@@ -2,7 +2,7 @@
   "youtubeId": "VWbpNG9PWg4",
   "title": "Magic on My Back",
   "artist": "Mykki Blanco",
-  "lastFetched": "2025-11-19T14:22:25.576Z",
+  "lastFetched": "2025-11-30T22:59:23.453Z",
   "odesli": {
     "amazonMusic": "B0CF1X3P6T",
     "amazonStore": "B0CF1X3P6T",
@@ -27,6 +27,15 @@
       "rap",
       "queer",
       "swag"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "25acc5c8-7293-481d-a061-67c3a4a181c6",
+    "artistMbid": "d4fa908d-9513-4d20-a04e-e605282e7a64",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic",
+      "hip hop"
     ]
   }
 }

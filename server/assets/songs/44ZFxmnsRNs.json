@@ -2,7 +2,7 @@
   "youtubeId": "44ZFxmnsRNs",
   "title": "Wasting Time",
   "artist": "Dallas Frasca",
-  "lastFetched": "2025-11-28T18:39:29.172Z",
+  "lastFetched": "2025-11-30T20:19:37.618Z",
   "odesli": {
     "amazonMusic": "B0D6XN97M6",
     "amazonStore": "B0D6XN97M6",
@@ -23,5 +23,13 @@
     "artist": "Dallas Frasca",
     "mbid": "e97a42bd-0415-43ea-a103-79a513cb802e",
     "artistMbid": "11a06235-16b0-4200-8756-11833edefa38"
+  },
+  "musicbrainz": {
+    "trackMbid": "ffcbff10-c78a-4767-a715-edd20bdddb89",
+    "artistMbid": "11a06235-16b0-4200-8756-11833edefa38",
+    "releaseCount": 1,
+    "artistGenres": [
+      "rock"
+    ]
   }
 }

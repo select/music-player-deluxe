@@ -1,7 +1,7 @@
 {
   "youtubeId": "8jmlWcItwxc",
   "title": "Books From Boxes",
-  "lastFetched": "2025-11-27T12:24:07.158Z",
+  "lastFetched": "2025-11-30T20:40:13.109Z",
   "ai": {
     "title": "Books from Boxes",
     "artist": "Maximo Park"
@@ -16,5 +16,19 @@
     "youtube": "8jmlWcItwxc",
     "youtubeMusic": "8jmlWcItwxc"
   },
-  "artist": "Maxïmo Park"
+  "artist": "Maxïmo Park",
+  "musicbrainz": {
+    "trackMbid": "e2d63e66-3e96-4807-9901-3183f2d09006",
+    "artistMbid": "92e634a7-6023-4be8-be15-ebba822f5b34",
+    "releaseCount": 10,
+    "genres": [
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "indie rock",
+      "new wave",
+      "post-punk revival"
+    ]
+  }
 }

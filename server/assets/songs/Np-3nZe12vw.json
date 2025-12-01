@@ -2,7 +2,7 @@
   "youtubeId": "Np-3nZe12vw",
   "title": "Schrei nach Liebe",
   "artist": "die ärzte",
-  "lastFetched": "2025-11-27T12:03:32.316Z",
+  "lastFetched": "2025-11-30T20:44:42.374Z",
   "odesli": {
     "amazonMusic": "B09VLK5K2Q",
     "amazonStore": "B09VLK5K2Q",
@@ -25,6 +25,18 @@
       "german",
       "rock",
       "deutsch"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "29d76738-14ae-4ec4-8722-f6a6133d8435",
+    "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
+    "releaseCount": 1,
+    "artistGenres": [
+      "neue deutsche welle",
+      "pop punk",
+      "punk",
+      "punk rock",
+      "rock"
     ]
   }
 }

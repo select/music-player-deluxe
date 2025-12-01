@@ -1,7 +1,7 @@
 {
   "youtubeId": "A4BhRDp_tsI",
   "title": "Metric - The Police And The Private",
-  "lastFetched": "2025-11-30T17:25:00.158Z",
+  "lastFetched": "2025-11-30T19:36:04.787Z",
   "ai": {
     "title": "The Police And The Private",
     "artist": "Metric"
@@ -17,6 +17,25 @@
     "artistMbid": "4449ccf6-c948-4d33-aa97-b6ad98ce4b5b",
     "tags": [
       "poptron"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a6dea04d-1a9f-43be-95af-9182ef677a68",
+    "artistMbid": "4449ccf6-c948-4d33-aa97-b6ad98ce4b5b",
+    "releaseCount": 12,
+    "genres": [
+      "alternative rock",
+      "electronic",
+      "indie rock",
+      "new wave",
+      "rock"
+    ],
+    "artistGenres": [
+      "electronic",
+      "indie rock",
+      "new wave",
+      "pop",
+      "soft rock"
     ]
   }
 }

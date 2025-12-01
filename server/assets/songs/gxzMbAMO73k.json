@@ -2,7 +2,7 @@
   "youtubeId": "gxzMbAMO73k",
   "title": "California Stars",
   "artist": "Billy Bragg",
-  "lastFetched": "2025-11-27T12:05:24.447Z",
+  "lastFetched": "2025-11-30T21:03:50.845Z",
   "odesli": {
     "amazonMusic": "B007QNRPKM",
     "amazonStore": "B007QNRPKM",
@@ -24,6 +24,28 @@
       "singer-songwriter",
       "americana",
       "wsum 91 7fm madison 6 2 25 11 03 am"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8ad92273-a5d7-425b-956e-c9354322824a",
+    "artistMbid": "7cec4a03-0a83-4308-856a-afb8aa5db0fc",
+    "releaseCount": 21,
+    "genres": [
+      "alternative country",
+      "alternative folk",
+      "alternative rock",
+      "americana",
+      "country",
+      "country rock",
+      "folk",
+      "folk rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "anti-folk",
+      "folk",
+      "rock"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "KjB7NGm0JAA",
   "title": "Quattro",
   "artist": "Herbert Pixner Projekt",
-  "lastFetched": "2025-11-19T06:10:51.721Z",
+  "lastFetched": "2025-11-30T23:37:01.502Z",
   "odesli": {
     "boomplay": "611497",
     "deezer": "83372188",
@@ -23,6 +23,14 @@
     "playcount": 14202,
     "tags": [
       "accordion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1df2e546-76e9-4971-bc84-7dc0352ce8e8",
+    "artistMbid": "e2360a56-f63a-4589-9295-f83130b563c5",
+    "releaseCount": 1,
+    "artistGenres": [
+      "folk"
     ]
   }
 }

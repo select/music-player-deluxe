@@ -2,7 +2,7 @@
   "youtubeId": "ki75xB0hBaY",
   "title": "Tonnow",
   "artist": "Gwenno",
-  "lastFetched": "2025-11-19T08:00:18.492Z",
+  "lastFetched": "2025-11-30T23:27:54.503Z",
   "odesli": {
     "amazonMusic": "B09T774DQ4",
     "amazonStore": "B09T774DQ4",
@@ -29,6 +29,13 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "8f5b15bd-0777-4564-9801-17462e5ff715"
+    "artistMbid": "8f5b15bd-0777-4564-9801-17462e5ff715",
+    "trackMbid": "6e3e2341-0eb4-4ba2-8937-87f30b52065a",
+    "releaseCount": 2,
+    "artistGenres": [
+      "electropop",
+      "hauntology",
+      "indietronica"
+    ]
   }
 }

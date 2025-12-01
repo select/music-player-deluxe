@@ -2,7 +2,7 @@
   "youtubeId": "mGCIh-Ln-DQ",
   "title": "Love and Happiness",
   "artist": "Monty Alexander",
-  "lastFetched": "2025-11-23T19:32:07.333Z",
+  "lastFetched": "2025-11-30T22:04:36.576Z",
   "odesli": {
     "amazonMusic": "B00K61IQK4",
     "amazonStore": "B00K61IQK4",
@@ -30,6 +30,15 @@
       "jazz",
       "mellow",
       "jazz fusion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e62afce7-1395-4bc1-9759-270516f0a70a",
+    "artistMbid": "7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f",
+    "releaseCount": 4,
+    "artistGenres": [
+      "jazz",
+      "reggae"
     ]
   }
 }

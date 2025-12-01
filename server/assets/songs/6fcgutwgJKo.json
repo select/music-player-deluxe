@@ -2,7 +2,7 @@
   "youtubeId": "6fcgutwgJKo",
   "title": "Day Old Memories",
   "artist": "Thought Process",
-  "lastFetched": "2025-11-19T11:30:53.131Z",
+  "lastFetched": "2025-11-30T23:14:23.706Z",
   "odesli": {
     "amazonMusic": "B0BVGLKJB4",
     "amazonStore": "B0BVGLKJB4",
@@ -32,6 +32,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "1666ed7f-c66d-491a-874a-1536385d5267"
+    "artistMbid": "1666ed7f-c66d-491a-874a-1536385d5267",
+    "trackMbid": "4691626c-95b2-4f23-a569-640cbff685b3",
+    "releaseCount": 1
   }
 }

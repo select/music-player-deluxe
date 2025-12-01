@@ -2,7 +2,7 @@
   "youtubeId": "NuYDKzky4z0",
   "title": "Use Me",
   "artist": "Bill Withers",
-  "lastFetched": "2025-11-19T12:59:07.153Z",
+  "lastFetched": "2025-11-30T23:06:18.502Z",
   "odesli": {
     "amazonMusic": "B00B5K62Z6",
     "amazonStore": "B00B5K62Z6",
@@ -24,7 +24,26 @@
       "70s",
       "rhythm and blues"
     ],
-    "artistMbid": "fd1a2d9d-9bb6-44de-83a3-41560658aba9"
+    "artistMbid": "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
+    "trackMbid": "9bf67fd9-eb35-4a68-8223-1d70fdc19c11",
+    "releaseCount": 25,
+    "genres": [
+      "classic rock",
+      "deep soul",
+      "disco",
+      "funk",
+      "pop",
+      "r&b",
+      "soul"
+    ],
+    "artistGenres": [
+      "deep soul",
+      "funk",
+      "motown",
+      "pop soul",
+      "smooth soul",
+      "soul"
+    ]
   },
   "lastfm": {
     "id": "Bill+Withers/_/Use+Me",

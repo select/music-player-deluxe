@@ -2,7 +2,7 @@
   "youtubeId": "RPM-NbDuHlM",
   "title": "Kalkutta",
   "artist": "Okuma",
-  "lastFetched": "2025-11-19T12:45:51.897Z",
+  "lastFetched": "2025-11-30T23:07:54.175Z",
   "odesli": {
     "amazonMusic": "B09NYJ2PG6",
     "amazonStore": "B09NYJ2PG6",
@@ -30,5 +30,10 @@
       "house",
       "electronic"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d86669bf-3b53-47f8-8d66-05b3301dace5",
+    "artistMbid": "7ede7431-3a86-48c9-831d-f5e505647566",
+    "releaseCount": 1
   }
 }

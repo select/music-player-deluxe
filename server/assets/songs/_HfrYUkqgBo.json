@@ -2,7 +2,7 @@
   "youtubeId": "_HfrYUkqgBo",
   "title": "I Talk To The Trees",
   "artist": "Masha Qrella",
-  "lastFetched": "2025-11-28T18:39:35.111Z",
+  "lastFetched": "2025-11-30T20:19:50.879Z",
   "odesli": {
     "amazonMusic": "B0025Z2A1K",
     "amazonStore": "B0025Z2A1K",
@@ -28,5 +28,10 @@
       "schubidu",
       "lieblingslieder"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ab961b8e-25f9-47d9-bc26-24107059b64c",
+    "artistMbid": "6fb75f83-71f2-47ce-b4f1-aa3833982a4b",
+    "releaseCount": 1
   }
 }

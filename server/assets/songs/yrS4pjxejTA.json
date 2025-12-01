@@ -2,7 +2,7 @@
   "youtubeId": "yrS4pjxejTA",
   "title": "Asa",
   "artist": "Phylipe Nunes Araújo",
-  "lastFetched": "2025-11-24T00:21:41.129Z",
+  "lastFetched": "2025-11-30T21:46:35.858Z",
   "odesli": {
     "amazonMusic": "B0FGJVBNJV",
     "amazonStore": "B0FGJVBNJV",
@@ -24,5 +24,10 @@
       "nacional",
       "brazilian mpb folk indie"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "dd588d51-295d-4e4c-8dfe-930eaa5492d3",
+    "artistMbid": "821f2097-cecb-4ec2-97f3-857530174e92",
+    "releaseCount": 1
   }
 }

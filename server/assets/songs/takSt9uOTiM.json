@@ -2,7 +2,7 @@
   "youtubeId": "takSt9uOTiM",
   "title": "Laser Lobotomy",
   "artist": "Blotted Science",
-  "lastFetched": "2025-11-19T12:11:10.728Z",
+  "lastFetched": "2025-11-30T23:10:47.553Z",
   "odesli": {
     "amazonMusic": "B00158232O",
     "amazonStore": "B00158232O",
@@ -30,6 +30,21 @@
       "instrumental",
       "technical death metal",
       "instrumental metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bef47827-9634-4498-b461-9a4151456240",
+    "artistMbid": "ce4c6e95-35a1-452f-bf4e-5a6a88a8b258",
+    "releaseCount": 3,
+    "genres": [
+      "progressive metal",
+      "technical death metal"
+    ],
+    "artistGenres": [
+      "instrumental",
+      "metal",
+      "progressive metal",
+      "technical death metal"
     ]
   }
 }

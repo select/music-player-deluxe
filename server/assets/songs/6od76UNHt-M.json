@@ -1,7 +1,7 @@
 {
   "youtubeId": "6od76UNHt-M",
   "title": "LITTLE BIG - HATEFUL LOVE",
-  "lastFetched": "2025-11-27T12:00:03.938Z",
+  "lastFetched": "2025-11-30T20:22:26.249Z",
   "ai": {
     "title": "HATEFUL LOVE",
     "artist": "LITTLE BIG"
@@ -13,5 +13,17 @@
     "title": "Hateful Love",
     "artist": "Little Big",
     "artistMbid": "cbe51088-e4d8-463e-9f4e-e83fa64d3f5e"
+  },
+  "musicbrainz": {
+    "trackMbid": "32802a17-7256-4ed7-9047-da17e2236149",
+    "artistMbid": "cbe51088-e4d8-463e-9f4e-e83fa64d3f5e",
+    "releaseCount": 3,
+    "artistGenres": [
+      "dance",
+      "dance-pop",
+      "electropop",
+      "pop",
+      "rave"
+    ]
   }
 }

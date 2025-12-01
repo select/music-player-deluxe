@@ -2,7 +2,7 @@
   "youtubeId": "BzAGX_4W1WQ",
   "title": "Walking On Sunshine",
   "artist": "Eddy Grant",
-  "lastFetched": "2025-11-19T03:45:21.730Z",
+  "lastFetched": "2025-11-30T23:42:17.144Z",
   "odesli": {
     "amazonMusic": "B0FH7BJNBG",
     "amazonStore": "B0FH7BJNBG",
@@ -32,6 +32,18 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "0cf0583a-fcfd-4f07-b573-95273ec4bdb5"
+    "artistMbid": "0cf0583a-fcfd-4f07-b573-95273ec4bdb5",
+    "trackMbid": "2597e495-9bd9-4a79-8b2f-a5e8301b55bd",
+    "releaseCount": 17,
+    "genres": [
+      "pop",
+      "reggae",
+      "reggae-pop",
+      "roots reggae"
+    ],
+    "artistGenres": [
+      "pop",
+      "reggae"
+    ]
   }
 }

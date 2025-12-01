@@ -2,7 +2,7 @@
   "youtubeId": "p0mRIhK9seg",
   "title": "Human Behaviour",
   "artist": "Björk",
-  "lastFetched": "2025-11-19T14:59:46.265Z",
+  "lastFetched": "2025-11-30T22:55:38.976Z",
   "odesli": {
     "appleMusic": "300205497",
     "itunes": "300205497",
@@ -20,7 +20,27 @@
       "trip-hop",
       "icelandic"
     ],
-    "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb"
+    "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
+    "trackMbid": "d72bb69a-c094-48b4-b22d-e5ec74d38de5",
+    "releaseCount": 3,
+    "artistGenres": [
+      "alternative pop",
+      "ambient",
+      "art pop",
+      "avant-garde",
+      "avant-garde pop",
+      "baroque pop",
+      "downtempo",
+      "edm",
+      "electronic",
+      "electronica",
+      "experimental",
+      "folktronica",
+      "idm",
+      "leftfield",
+      "progressive pop",
+      "trip hop"
+    ]
   },
   "lastfm": {
     "id": "Bj%C3%B6rk/_/Human+Behaviour",

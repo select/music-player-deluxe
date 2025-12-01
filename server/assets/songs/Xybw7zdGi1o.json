@@ -2,7 +2,7 @@
   "youtubeId": "Xybw7zdGi1o",
   "title": "bamboo",
   "artist": "Ebi Soda",
-  "lastFetched": "2025-11-24T00:22:25.909Z",
+  "lastFetched": "2025-11-30T21:40:37.048Z",
   "odesli": {
     "amazonMusic": "B0DWYTP3BG",
     "amazonStore": "B0DWYTP3BG",
@@ -30,5 +30,10 @@
       "jazz",
       "fusion"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1d835b63-a1ae-4790-b602-53be6c7d0ab2",
+    "artistMbid": "89fdffe7-4545-4265-9ccc-e7b928e00d22",
+    "releaseCount": 1
   }
 }

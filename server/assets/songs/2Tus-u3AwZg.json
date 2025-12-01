@@ -2,7 +2,7 @@
   "youtubeId": "2Tus-u3AwZg",
   "title": "Murda",
   "artist": "Snavs",
-  "lastFetched": "2025-11-19T07:40:57.162Z",
+  "lastFetched": "2025-11-30T23:28:50.639Z",
   "odesli": {
     "amazonMusic": "B07DPBXGTW",
     "amazonStore": "B07DPBXGTW",
@@ -31,6 +31,11 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "67952cb7-0869-45d7-b106-87d564ce9ef4"
+    "artistMbid": "67952cb7-0869-45d7-b106-87d564ce9ef4",
+    "trackMbid": "07f69518-2ec6-437f-99eb-720360f40136",
+    "releaseCount": 2,
+    "artistGenres": [
+      "dubstep"
+    ]
   }
 }

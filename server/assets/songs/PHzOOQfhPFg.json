@@ -2,7 +2,7 @@
   "youtubeId": "PHzOOQfhPFg",
   "title": "Just A Girl",
   "artist": "No Doubt",
-  "lastFetched": "2025-11-24T00:23:17.931Z",
+  "lastFetched": "2025-11-30T21:32:59.232Z",
   "odesli": {
     "amazonMusic": "B000WOWPYS",
     "amazonStore": "B000WOWPYS",
@@ -31,5 +31,30 @@
     "title": "Just a Girl",
     "artist": "No Doubt",
     "artistMbid": "fbd2a255-1d57-4d31-ac11-65b671c19958"
+  },
+  "musicbrainz": {
+    "trackMbid": "693e1e1e-04b8-441f-bcaa-5c0c33acdff2",
+    "artistMbid": "fbd2a255-1d57-4d31-ac11-65b671c19958",
+    "releaseCount": 25,
+    "genres": [
+      "alternative pop",
+      "alternative rock",
+      "pop",
+      "pop rock",
+      "post-grunge",
+      "punk",
+      "rock",
+      "ska punk"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "pop",
+      "pop rock",
+      "power pop",
+      "rock",
+      "ska",
+      "ska punk",
+      "third wave ska"
+    ]
   }
 }

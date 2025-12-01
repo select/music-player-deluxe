@@ -2,7 +2,7 @@
   "youtubeId": "xmUZ6nCFNoU",
   "title": "Today",
   "artist": "The Smashing Pumpkins",
-  "lastFetched": "2025-11-19T06:04:10.309Z",
+  "lastFetched": "2025-11-30T23:37:47.122Z",
   "odesli": {
     "amazonMusic": "B00AOMN92U",
     "amazonStore": "B00AOMN92U",
@@ -30,6 +30,19 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396"
+    "artistMbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+    "trackMbid": "8923f5d0-1a26-4296-82a9-1d194e20dce3",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock",
+      "dream pop",
+      "grunge",
+      "neo-psychedelia",
+      "progressive rock",
+      "rock",
+      "shoegaze",
+      "symphonic rock",
+      "synth-pop"
+    ]
   }
 }

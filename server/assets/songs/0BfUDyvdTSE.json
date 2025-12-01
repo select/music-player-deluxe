@@ -2,7 +2,7 @@
   "youtubeId": "0BfUDyvdTSE",
   "title": "Moon River",
   "artist": "Audrey Hepburn",
-  "lastFetched": "2025-11-23T14:42:12.007Z",
+  "lastFetched": "2025-11-30T22:34:31.105Z",
   "lastfm": {
     "title": "Moon River",
     "artist": "Audrey Hepburn",
@@ -18,5 +18,10 @@
       "female vocalists",
       "oldies"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f49597c9-77f1-4c02-8580-d38cb39bce5b",
+    "artistMbid": "7ddb6325-7022-4d30-a585-78a8eab631ab",
+    "releaseCount": 2
   }
 }

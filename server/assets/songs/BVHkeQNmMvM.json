@@ -2,7 +2,7 @@
   "youtubeId": "BVHkeQNmMvM",
   "title": "Circadian Rhythm (Last Dance)",
   "artist": "Silversun Pickups",
-  "lastFetched": "2025-11-27T12:05:32.027Z",
+  "lastFetched": "2025-11-30T21:06:00.424Z",
   "odesli": {
     "amazonMusic": "B082MTXLGD",
     "amazonStore": "B082MTXLGD",
@@ -32,6 +32,23 @@
       "boy-girl vocals",
       "10s",
       "2016"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1fdaed24-20a8-410a-bf22-86bec7d05a54",
+    "artistMbid": "b5bd9f88-962e-4730-84a7-795592ba42e8",
+    "releaseCount": 3,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "indie rock",
+      "indietronica",
+      "rock",
+      "shoegaze"
     ]
   }
 }

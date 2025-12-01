@@ -2,7 +2,7 @@
   "youtubeId": "O_e63ScEneo",
   "title": "Blast",
   "artist": "Marcus Miller",
-  "lastFetched": "2025-11-19T07:23:38.098Z",
+  "lastFetched": "2025-11-30T23:30:00.411Z",
   "lastfm": {
     "id": "Marcus+Miller/_/Blast",
     "listeners": 25973,
@@ -12,6 +12,23 @@
       "jazz",
       "funk",
       "marcus miller"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bdbc43db-b4f7-4905-91df-f3c8f1c134b2",
+    "artistMbid": "8fbabd07-4b2b-4f4c-add5-680429a8c44a",
+    "releaseCount": 5,
+    "genres": [
+      "contemporary jazz",
+      "funk",
+      "jazz",
+      "jazz fusion"
+    ],
+    "artistGenres": [
+      "contemporary jazz",
+      "jazz",
+      "jazz fusion",
+      "jazz-funk"
     ]
   }
 }

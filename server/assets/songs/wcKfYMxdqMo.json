@@ -2,7 +2,7 @@
   "youtubeId": "wcKfYMxdqMo",
   "title": "Karstadtdetektiv",
   "artist": "Team Scheisse",
-  "lastFetched": "2025-11-23T14:37:07.259Z",
+  "lastFetched": "2025-11-30T22:36:00.218Z",
   "lastfm": {
     "title": "Karstadtdetektiv",
     "artist": "Team Scheisse",
@@ -13,6 +13,15 @@
       "deutschpunk",
       "rock",
       "punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d895a753-c6db-4887-bd9e-d6f72aace2c1",
+    "artistMbid": "b9e85d24-37d9-4e22-a495-ef9a1dc0b894",
+    "releaseCount": 4,
+    "artistGenres": [
+      "punk",
+      "punk rock"
     ]
   }
 }

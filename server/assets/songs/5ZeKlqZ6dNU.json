@@ -2,7 +2,7 @@
   "youtubeId": "5ZeKlqZ6dNU",
   "title": "Purple Music",
   "artist": "Prince",
-  "lastFetched": "2025-11-23T15:43:55.749Z",
+  "lastFetched": "2025-11-30T22:17:46.462Z",
   "odesli": {
     "amazonMusic": "B08Q8QRVQY",
     "amazonStore": "B08Q8QRVQY",
@@ -34,6 +34,28 @@
       "soul",
       "rock",
       "80s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ee5f56e3-5e33-4172-a4f2-fff45e0c64b9",
+    "artistMbid": "070d193a-845c-479f-980e-bef15710653e",
+    "releaseCount": 4,
+    "artistGenres": [
+      "contemporary r&b",
+      "dance-pop",
+      "funk",
+      "funk rock",
+      "minneapolis sound",
+      "neo-psychedelia",
+      "pop",
+      "pop rock",
+      "pop soul",
+      "psychedelic pop",
+      "psychedelic soul",
+      "r&b",
+      "rock",
+      "soul",
+      "synth funk"
     ]
   }
 }

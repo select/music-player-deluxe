@@ -2,7 +2,7 @@
   "youtubeId": "GvrNPiz7rHw",
   "title": "Flood",
   "artist": "Little Simz",
-  "lastFetched": "2025-11-24T00:23:20.898Z",
+  "lastFetched": "2025-11-30T21:32:26.676Z",
   "odesli": {
     "amazonMusic": "B0FB6DD1ZL",
     "amazonStore": "B0FB6DD1ZL",
@@ -33,6 +33,20 @@
       "uk hip hop",
       "post-punk",
       "conscious hip hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e11f80dc-6d21-4ebf-b777-f8657e893774",
+    "artistMbid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
+    "releaseCount": 9,
+    "genres": [
+      "funk",
+      "hip hop",
+      "soul"
+    ],
+    "artistGenres": [
+      "hip hop",
+      "pop rap"
     ]
   }
 }

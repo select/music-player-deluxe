@@ -2,7 +2,7 @@
   "youtubeId": "T2H5D58kAd0",
   "title": "L'Italiano",
   "artist": "Toto Cutugno",
-  "lastFetched": "2025-11-23T19:31:52.743Z",
+  "lastFetched": "2025-11-30T22:05:50.753Z",
   "lastfm": {
     "summary": "\"L'Italiano (Lasciatemi Cantare)\" (commonly known as \"L'Italiano\") is an Italian pop song by Toto Cutugno released in 1983. It was his biggest international hit and is his best-known composition. The song was forgotten during the 1990s and was re-discovered when Toto Cutugno performed it live at a charity concert in Rome commemorating Italy's victory at the 2006 FIFA World Cup, creating a new wave of popularity for this song. <a href=\"http://www.last.fm/music/Toto+Cutugno/_/L%27italiano\">Read more on Last.fm</a>.",
     "id": "Toto+Cutugno/_/L%27italiano",
@@ -17,6 +17,15 @@
       "pop",
       "toto cutugno",
       "italiano"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "625b42c4-eb92-40f3-a682-6206eb53bef0",
+    "artistMbid": "5ae40d3f-e429-4baf-9fe9-bcdaa9c81f39",
+    "releaseCount": 8,
+    "artistGenres": [
+      "pop",
+      "singer-songwriter"
     ]
   }
 }

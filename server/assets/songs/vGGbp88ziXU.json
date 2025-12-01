@@ -2,7 +2,7 @@
   "youtubeId": "vGGbp88ziXU",
   "title": "Saraiman",
   "artist": "LADANIVA",
-  "lastFetched": "2025-11-23T19:31:51.514Z",
+  "lastFetched": "2025-11-30T22:06:00.528Z",
   "lastfm": {
     "id": "Ladaniva/_/Saraiman",
     "listeners": 2807,
@@ -16,6 +16,14 @@
       "folk",
       "pop",
       "armenia"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d989fa82-ed76-4392-bd97-17eca6731973",
+    "artistMbid": "bf5b5110-784a-4211-b8f4-d33abe881da3",
+    "releaseCount": 2,
+    "artistGenres": [
+      "folk pop"
     ]
   }
 }

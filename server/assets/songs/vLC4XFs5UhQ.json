@@ -2,7 +2,7 @@
   "youtubeId": "vLC4XFs5UhQ",
   "title": "Oh What A World",
   "artist": "Rufus Wainwright",
-  "lastFetched": "2025-11-19T08:31:56.802Z",
+  "lastFetched": "2025-11-30T23:25:37.453Z",
   "odesli": {
     "amazonMusic": "B00IDXO4G2",
     "amazonStore": "B00IDXO4G2",
@@ -23,6 +23,26 @@
       "singer-songwriter",
       "rufus wainwright",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f05577f3-3931-4e1f-b7fc-50eedcfc22db",
+    "artistMbid": "78e46ae5-9bfd-433b-be3f-19e993d67ecc",
+    "releaseCount": 17,
+    "genres": [
+      "alternative rock",
+      "art rock",
+      "chamber pop",
+      "pop",
+      "rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "chamber pop",
+      "folk",
+      "indie rock",
+      "singer-songwriter"
     ]
   }
 }

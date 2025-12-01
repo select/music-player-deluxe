@@ -1,7 +1,7 @@
 {
   "youtubeId": "xd8AVbwB_6E",
   "title": "Taurus",
-  "lastFetched": "2025-11-26T11:00:13.574Z",
+  "lastFetched": "2025-11-30T21:18:43.581Z",
   "ai": {
     "title": "Taurus",
     "artist": "Spirit"
@@ -30,6 +30,22 @@
       "psychedelic rock",
       "psychedelic",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "42c2f23c-4dbd-4c3e-98e5-3c123280ad25",
+    "artistMbid": "ca5db97b-ba17-4e85-a876-46065e2052b3",
+    "releaseCount": 25,
+    "genres": [
+      "classic rock",
+      "instrumental",
+      "pop",
+      "psychedelic rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "progressive rock",
+      "psychedelic rock"
     ]
   }
 }

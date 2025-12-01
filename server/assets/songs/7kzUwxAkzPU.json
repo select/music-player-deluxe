@@ -1,7 +1,7 @@
 {
   "youtubeId": "7kzUwxAkzPU",
   "title": "Schnipo Schranke - Pisse",
-  "lastFetched": "2025-11-26T11:01:19.560Z",
+  "lastFetched": "2025-11-30T21:24:08.278Z",
   "ai": {
     "title": "Pisse",
     "artist": "Schnipo Schranke"
@@ -20,5 +20,10 @@
       "german",
       "indie"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d8c48afa-eda2-401e-8ba0-f9c4eeee608c",
+    "artistMbid": "69df6dce-5e42-44be-9819-c621b44941ca",
+    "releaseCount": 2
   }
 }

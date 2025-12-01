@@ -2,7 +2,7 @@
   "youtubeId": "tt9lVtEoKG0",
   "title": "Dolce Wohnen",
   "artist": "Das Lumpenpack",
-  "lastFetched": "2025-11-23T19:30:12.595Z",
+  "lastFetched": "2025-11-30T22:11:57.965Z",
   "odesli": {
     "amazonMusic": "B09YJ19K6V",
     "amazonStore": "B09YJ19K6V",
@@ -27,6 +27,14 @@
       "indie",
       "alternative",
       "comedy",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e818abff-3e59-4436-b362-f7288d358ec7",
+    "artistMbid": "52b08164-7002-4eb8-a68f-bd7f42d73346",
+    "releaseCount": 1,
+    "artistGenres": [
       "rock"
     ]
   }

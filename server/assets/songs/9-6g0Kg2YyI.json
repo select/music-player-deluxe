@@ -2,7 +2,7 @@
   "youtubeId": "9-6g0Kg2YyI",
   "title": "To The Sky",
   "artist": "Nomine",
-  "lastFetched": "2025-11-27T12:04:09.182Z",
+  "lastFetched": "2025-11-30T20:51:02.605Z",
   "odesli": {
     "amazonMusic": "B07G2JW18V",
     "amazonStore": "B07G2JW18V",
@@ -23,6 +23,16 @@
     "tags": [
       "dubstep",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a4115dc5-c839-4686-a9e5-5b0f941d84a3",
+    "artistMbid": "df5eb329-14f5-4877-b861-9fb89809b7ea",
+    "releaseCount": 2,
+    "artistGenres": [
+      "drum and bass",
+      "dubstep",
+      "jungle"
     ]
   }
 }

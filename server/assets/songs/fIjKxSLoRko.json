@@ -2,7 +2,7 @@
   "youtubeId": "fIjKxSLoRko",
   "title": "Silver Dollar",
   "artist": "Sierra Ferrell",
-  "lastFetched": "2025-11-23T19:31:48.750Z",
+  "lastFetched": "2025-11-30T22:06:08.802Z",
   "lastfm": {
     "id": "Sierra+Ferrell/_/Silver+Dollar",
     "listeners": 28677,
@@ -12,6 +12,23 @@
     "tags": [
       "country",
       "americana"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1c1a4ecd-c885-4e4e-a4d5-bc2a39488fa7",
+    "artistMbid": "4a27848e-ffdc-45d2-bed4-f5d62b85dc3e",
+    "releaseCount": 3,
+    "genres": [
+      "country"
+    ],
+    "artistGenres": [
+      "alternative country",
+      "americana",
+      "contemporary country",
+      "country",
+      "neo-traditional country",
+      "progressive country",
+      "singer-songwriter"
     ]
   }
 }

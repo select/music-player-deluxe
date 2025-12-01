@@ -2,7 +2,7 @@
   "youtubeId": "ImKY6TZEyrI",
   "title": "Fade Into You",
   "artist": "Mazzy Star",
-  "lastFetched": "2025-11-23T19:35:03.107Z",
+  "lastFetched": "2025-11-30T21:49:48.565Z",
   "odesli": {
     "amazonMusic": "B000TEB3VC",
     "amazonStore": "B000TEB3VC",
@@ -31,5 +31,21 @@
     "title": "Fade Into You",
     "artist": "Mazzy Star",
     "artistMbid": "c48d4327-8122-4286-af66-05e1ee6ac4d8"
+  },
+  "musicbrainz": {
+    "trackMbid": "bbcb7cd9-ed46-47c4-82ba-3ef0e9638ecb",
+    "artistMbid": "c48d4327-8122-4286-af66-05e1ee6ac4d8",
+    "releaseCount": 3,
+    "artistGenres": [
+      "alternative rock",
+      "dream pop",
+      "indie pop",
+      "indie rock",
+      "neo-psychedelia",
+      "psychedelic folk",
+      "rock",
+      "shoegaze",
+      "slowcore"
+    ]
   }
 }

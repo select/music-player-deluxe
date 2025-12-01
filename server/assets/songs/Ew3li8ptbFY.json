@@ -2,7 +2,7 @@
   "youtubeId": "Ew3li8ptbFY",
   "title": "Clair De Lune",
   "artist": "Bop",
-  "lastFetched": "2025-11-19T07:19:33.820Z",
+  "lastFetched": "2025-11-30T23:30:39.690Z",
   "odesli": {
     "amazonMusic": "B09H15YMHT",
     "amazonStore": "B09H15YMHT",
@@ -21,6 +21,19 @@
       "idm",
       "electronic",
       "atmospheric"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "52a76206-d0ac-472e-9210-60353016c628",
+    "artistMbid": "80f4d169-ae2a-44f6-a753-b0a85337cdaa",
+    "releaseCount": 4,
+    "genres": [
+      "microfunk"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "microfunk",
+      "minimal drum and bass"
     ]
   }
 }

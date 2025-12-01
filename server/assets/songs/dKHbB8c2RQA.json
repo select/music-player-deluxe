@@ -2,7 +2,7 @@
   "youtubeId": "dKHbB8c2RQA",
   "title": "Missiles",
   "artist": "The Sound",
-  "lastFetched": "2025-11-23T19:32:31.553Z",
+  "lastFetched": "2025-11-30T22:02:26.772Z",
   "odesli": {
     "amazonMusic": "B073P27HJR",
     "amazonStore": "B073P27HJR",
@@ -30,6 +30,19 @@
     "tags": [
       "post-punk",
       "darkwave"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "790839bb-17ef-41a4-82c1-9ebcaa5b56cf",
+    "artistMbid": "b2c36d47-e5e3-4ac8-a967-10e0265d3fff",
+    "releaseCount": 6,
+    "genres": [
+      "new wave"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "new wave",
+      "post-punk"
     ]
   }
 }

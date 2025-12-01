@@ -1,7 +1,7 @@
 {
   "youtubeId": "ad6ZnjwPYCU",
   "title": "Outerdub - Mayan [FREE D/L]",
-  "lastFetched": "2025-11-27T12:03:15.116Z",
+  "lastFetched": "2025-11-30T20:41:11.978Z",
   "ai": {
     "title": "Mayan",
     "artist": "Outerdub"
@@ -17,5 +17,10 @@
       "deep dubstep",
       "deepstep"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "88735b5b-823c-4bb4-b0d9-e76fbc08f9f0",
+    "artistMbid": "c4e8f83d-0d92-4ef8-a737-ebbeb4e32e2b",
+    "releaseCount": 1
   }
 }

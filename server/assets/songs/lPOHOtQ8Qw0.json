@@ -2,7 +2,7 @@
   "youtubeId": "lPOHOtQ8Qw0",
   "title": "What's The Ugliest Part Of Your Body?",
   "artist": "Frank Zappa",
-  "lastFetched": "2025-11-23T19:29:35.833Z",
+  "lastFetched": "2025-11-30T22:13:50.912Z",
   "odesli": {
     "amazonMusic": "B00B31AZKK",
     "amazonStore": "B00B31AZKK",
@@ -33,6 +33,32 @@
       "rock",
       "progressive rock",
       "60s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "842d9472-6fac-43bc-902c-e47bf36580fa",
+    "artistMbid": "e20747e7-55a4-452e-8766-7b985585082d",
+    "releaseCount": 2,
+    "artistGenres": [
+      "art rock",
+      "avant-garde",
+      "avant-prog",
+      "big band",
+      "classical",
+      "comedy rock",
+      "doo-wop",
+      "experimental",
+      "experimental rock",
+      "jam band",
+      "jazz",
+      "jazz fusion",
+      "jazz rock",
+      "modern classical",
+      "musique concrète",
+      "orchestral",
+      "progressive rock",
+      "psychedelic rock",
+      "rock"
     ]
   }
 }

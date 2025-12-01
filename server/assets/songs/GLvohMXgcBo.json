@@ -2,7 +2,7 @@
   "youtubeId": "GLvohMXgcBo",
   "title": "Under the Bridge",
   "artist": "Red Hot Chili Peppers",
-  "lastFetched": "2025-11-19T06:26:08.210Z",
+  "lastFetched": "2025-11-30T23:35:51.032Z",
   "odesli": {
     "amazonMusic": "B0011Z7J70",
     "amazonStore": "B0011Z7J70",
@@ -30,7 +30,18 @@
       "90s",
       "Red Hot Chili Peppers"
     ],
-    "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+    "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+    "trackMbid": "567b0d3b-100c-4c0d-969f-b59f07ea7857",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "funk",
+      "funk metal",
+      "funk rock",
+      "pop rock",
+      "rap rock",
+      "rock"
+    ]
   },
   "lastfm": {
     "id": "Red+Hot+Chili+Peppers/_/Under+the+Bridge",

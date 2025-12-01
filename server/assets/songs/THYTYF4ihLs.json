@@ -3,7 +3,7 @@
   "artist": "Jameszoo",
   "duration": 309,
   "youtubeId": "THYTYF4ihLs",
-  "lastFetched": "2025-11-19T01:40:20.248Z",
+  "lastFetched": "2025-11-30T23:40:34.971Z",
   "odesli": {
     "amazonMusic": "B073SD77DV",
     "amazonStore": "B073SD77DV",
@@ -25,6 +25,7 @@
   },
   "musicbrainz": {
     "artistMbid": "30327723-b703-4a1b-b305-957d66b2df89",
-    "releaseCount": 4
+    "releaseCount": 4,
+    "trackMbid": "5fce1f23-cbe0-4c4c-ba29-f4f5fe10c7c4"
   }
 }

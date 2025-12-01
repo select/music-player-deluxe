@@ -2,7 +2,7 @@
   "youtubeId": "la0el-guStU",
   "title": "Heat Miser",
   "artist": "Massive Attack",
-  "lastFetched": "2025-11-27T12:04:50.456Z",
+  "lastFetched": "2025-11-30T20:57:00.406Z",
   "odesli": {
     "amazonMusic": "B000TEEPLC",
     "amazonStore": "B000TEEPLC",
@@ -25,6 +25,33 @@
       "chillout",
       "electronic",
       "downtempo"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a94259b4-3dcb-4904-9b1b-974c95009c65",
+    "artistMbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
+    "releaseCount": 18,
+    "genres": [
+      "alternative dance",
+      "dance",
+      "downtempo",
+      "dub",
+      "edm",
+      "electronic",
+      "electronica",
+      "house",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "ambient",
+      "club",
+      "downtempo",
+      "dub",
+      "electronic",
+      "electronica",
+      "trip hop",
+      "uk street soul"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "YfjsyKFbyqM",
   "title": "Lifeworld",
   "artist": "Oneohtrix Point Never",
-  "lastFetched": "2025-11-29T13:49:31.893Z",
+  "lastFetched": "2025-11-30T20:02:24.424Z",
   "odesli": {
     "amazonMusic": "B0FRN86ZBJ",
     "amazonStore": "B0FRN86ZBJ",
@@ -29,6 +29,23 @@
       "chillout",
       "electronic",
       "synth",
+      "vaporwave"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6ea35208-6d22-43e7-a0e9-446855ff9425",
+    "artistMbid": "9cea062d-d476-447f-98b4-e67e14bfd1e4",
+    "releaseCount": 3,
+    "artistGenres": [
+      "ambient",
+      "art pop",
+      "drone",
+      "electronic",
+      "experimental",
+      "glitch",
+      "outsider house",
+      "plunderphonics",
+      "progressive electronic",
       "vaporwave"
     ]
   }

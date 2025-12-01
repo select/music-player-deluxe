@@ -2,7 +2,7 @@
   "youtubeId": "GK51vq95j1s",
   "title": "Neue Männer braucht das Land",
   "artist": "Ina Deter",
-  "lastFetched": "2025-11-23T19:34:06.786Z",
+  "lastFetched": "2025-11-30T21:54:08.154Z",
   "lastfm": {
     "id": "Ina+Deter/_/Neue+M%C3%A4nner+braucht+das+Land",
     "listeners": 4134,
@@ -15,6 +15,15 @@
       "ndw",
       "80s",
       "neue deutsche welle"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b07bd477-d932-49e4-83d2-dc9d8d15afe0",
+    "artistMbid": "78dbdc6a-a031-415a-933f-91f1773e87cb",
+    "releaseCount": 3,
+    "artistGenres": [
+      "neue deutsche welle",
+      "rock"
     ]
   }
 }

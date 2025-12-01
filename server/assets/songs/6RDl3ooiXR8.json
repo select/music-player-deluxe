@@ -2,7 +2,7 @@
   "youtubeId": "6RDl3ooiXR8",
   "title": "Right On",
   "artist": "Ray Barretto",
-  "lastFetched": "2025-11-19T16:50:24.664Z",
+  "lastFetched": "2025-11-30T22:44:14.244Z",
   "odesli": {
     "amazonMusic": "B099JD1P8Q",
     "amazonStore": "B099JD1P8Q",
@@ -26,6 +26,22 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "169153fd-ba80-401a-8ccd-2825efaf9155"
+    "artistMbid": "169153fd-ba80-401a-8ccd-2825efaf9155",
+    "trackMbid": "e7f0f75f-5ad1-4d06-82ba-8ee80cd3fcf8",
+    "releaseCount": 5,
+    "genres": [
+      "latin"
+    ],
+    "artistGenres": [
+      "afro-cuban jazz",
+      "boogaloo",
+      "jazz",
+      "jazz fusion",
+      "latin jazz",
+      "pachanga",
+      "salsa",
+      "salsa dura",
+      "son cubano"
+    ]
   }
 }

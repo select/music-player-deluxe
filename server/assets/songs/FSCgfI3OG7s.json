@@ -1,9 +1,22 @@
 {
   "youtubeId": "FSCgfI3OG7s",
   "title": "Fight Club • Where Is My Mind • Pixies",
-  "lastFetched": "2025-11-29T11:46:23.942Z",
+  "lastFetched": "2025-11-30T19:48:32.312Z",
   "ai": {
     "title": "Where Is My Mind",
     "artist": "Pixies"
+  },
+  "musicbrainz": {
+    "trackMbid": "139c9dc9-0a70-404e-8e67-c230471a67d9",
+    "artistMbid": "b6b2bb8d-54a9-491f-9607-7b546023b433",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "indie rock",
+      "noise pop",
+      "punk rock",
+      "rock",
+      "surf rock"
+    ]
   }
 }

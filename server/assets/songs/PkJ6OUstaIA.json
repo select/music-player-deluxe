@@ -1,7 +1,7 @@
 {
   "youtubeId": "PkJ6OUstaIA",
   "title": "Les Cowboys Fringants - La Reine (sous-titres français)",
-  "lastFetched": "2025-11-27T12:02:18.700Z",
+  "lastFetched": "2025-11-30T20:35:25.140Z",
   "ai": {
     "title": "La Reine",
     "artist": "Les Cowboys Fringants"
@@ -19,6 +19,19 @@
       "rock",
       "celtic",
       "live"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4bc3b6b4-f6e9-48f7-935f-f779216d3da1",
+    "artistMbid": "0fb04a47-2c27-4598-9fbc-b90ac573cb97",
+    "releaseCount": 2,
+    "artistGenres": [
+      "chanson québécoise",
+      "country pop",
+      "folk",
+      "folk rock",
+      "néo-trad",
+      "rock"
     ]
   }
 }

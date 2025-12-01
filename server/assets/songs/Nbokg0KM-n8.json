@@ -2,7 +2,7 @@
   "youtubeId": "Nbokg0KM-n8",
   "title": "Until You Come Back to Me (That's What I'm Gonna Do)",
   "artist": "Aretha Franklin",
-  "lastFetched": "2025-11-19T17:25:40.885Z",
+  "lastFetched": "2025-11-30T22:37:56.227Z",
   "odesli": {
     "amazonMusic": "B073X7GXVC",
     "amazonStore": "B073X7GXVC",
@@ -30,6 +30,17 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "2f9ecbed-27be-40e6-abca-6de49d50299e"
+    "artistMbid": "2f9ecbed-27be-40e6-abca-6de49d50299e",
+    "trackMbid": "bc6ae630-139a-4b17-aefd-8c9d0d3b6d5a",
+    "releaseCount": 1,
+    "artistGenres": [
+      "deep soul",
+      "gospel",
+      "jazz",
+      "quiet storm",
+      "r&b",
+      "soul",
+      "southern soul"
+    ]
   }
 }

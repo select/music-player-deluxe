@@ -2,7 +2,7 @@
   "youtubeId": "lWQb_T9_nwA",
   "title": "Muffin Man",
   "artist": "Frank Zappa",
-  "lastFetched": "2025-11-23T19:33:57.161Z",
+  "lastFetched": "2025-11-30T21:55:31.340Z",
   "odesli": {
     "amazonMusic": "B00AAAK7GM",
     "amazonStore": "B00AAAK7GM",
@@ -36,6 +36,32 @@
       "zappa",
       "avant-garde",
       "frank zappa"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e8e4295b-7103-4fb7-984d-afdd678381bf",
+    "artistMbid": "e20747e7-55a4-452e-8766-7b985585082d",
+    "releaseCount": 4,
+    "artistGenres": [
+      "art rock",
+      "avant-garde",
+      "avant-prog",
+      "big band",
+      "classical",
+      "comedy rock",
+      "doo-wop",
+      "experimental",
+      "experimental rock",
+      "jam band",
+      "jazz",
+      "jazz fusion",
+      "jazz rock",
+      "modern classical",
+      "musique concrète",
+      "orchestral",
+      "progressive rock",
+      "psychedelic rock",
+      "rock"
     ]
   }
 }

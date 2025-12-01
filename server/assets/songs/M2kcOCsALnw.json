@@ -2,7 +2,7 @@
   "youtubeId": "M2kcOCsALnw",
   "title": "Prelude in 303 Major",
   "artist": "Ceephax Acid Crew",
-  "lastFetched": "2025-11-19T16:47:51.563Z",
+  "lastFetched": "2025-11-30T22:44:44.334Z",
   "odesli": {
     "amazonMusic": "B07GHWF382",
     "amazonStore": "B07GHWF382",
@@ -19,6 +19,14 @@
       "idm",
       "electronic",
       "breakcore"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ceca3aeb-7a8f-4ec2-8ff8-511a272d83d7",
+    "artistMbid": "f226bcd7-114e-418f-8fa5-e24a47a89cf5",
+    "releaseCount": 3,
+    "artistGenres": [
+      "acid house"
     ]
   }
 }

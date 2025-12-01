@@ -1,7 +1,7 @@
 {
   "youtubeId": "ozD4h9HCHOY",
   "title": "Rokia Traoré - Wanita",
-  "lastFetched": "2025-11-26T10:57:42.372Z",
+  "lastFetched": "2025-11-30T21:04:31.899Z",
   "ai": {
     "title": "Wanita",
     "artist": "Rokia Traoré"
@@ -18,6 +18,14 @@
       "africa",
       "loved radio",
       "play more"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1cb1c963-414a-4c19-b7ea-dbcfbb8d0684",
+    "artistMbid": "900fb180-4427-4e56-a99f-84adb74bd3bd",
+    "releaseCount": 1,
+    "artistGenres": [
+      "folk"
     ]
   }
 }

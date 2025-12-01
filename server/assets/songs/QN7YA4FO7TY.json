@@ -2,7 +2,7 @@
   "youtubeId": "QN7YA4FO7TY",
   "title": "Düsseldorf",
   "artist": "Teleman",
-  "lastFetched": "2025-11-23T19:34:35.971Z",
+  "lastFetched": "2025-11-30T21:51:54.552Z",
   "odesli": {
     "amazonMusic": "B0CK4YMJHD",
     "amazonStore": "B0CK4YMJHD",
@@ -22,6 +22,16 @@
     "tags": [
       "british",
       "2016 single"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6124f4fb-e3d7-43a2-8569-acfea1a96841",
+    "artistMbid": "e6726542-4458-48de-b1c7-bafc7ab5a350",
+    "releaseCount": 8,
+    "artistGenres": [
+      "indie rock",
+      "post-punk revival",
+      "synth-pop"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "8r67q9uPk8E",
   "title": "Boozoo Bajou - Satta (Full Album) [2001]",
-  "lastFetched": "2025-11-28T18:39:25.179Z",
+  "lastFetched": "2025-11-30T20:19:29.016Z",
   "ai": {
     "title": "Satta",
     "artist": "Boozoo Bajou"
@@ -20,6 +20,24 @@
       "downtempo",
       "ambient",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1cbc4449-af53-46ec-bff2-62b99040ba71",
+    "artistMbid": "97f3a6c0-fe2d-465a-919a-4269cbb735d6",
+    "releaseCount": 3,
+    "genres": [
+      "jazz"
+    ],
+    "artistGenres": [
+      "ambient dub",
+      "downtempo",
+      "dub",
+      "electronic",
+      "lounge",
+      "nu jazz",
+      "reggae",
+      "trip hop"
     ]
   }
 }

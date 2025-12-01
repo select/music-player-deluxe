@@ -2,7 +2,7 @@
   "youtubeId": "L5w9h6sR5x8",
   "title": "Hale Bopp (original mix)",
   "artist": "Der Dritte Raum",
-  "lastFetched": "2025-11-23T19:34:17.711Z",
+  "lastFetched": "2025-11-30T21:53:24.581Z",
   "odesli": {
     "amazonMusic": "B0CV7GW1L1",
     "amazonStore": "B0CV7GW1L1",
@@ -29,6 +29,18 @@
       "minimal",
       "minimal techno",
       "electro"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "697c1138-1113-43e4-b711-85027e858aa6",
+    "artistMbid": "432a7d01-b55a-49de-b909-4b93d48a556f",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic",
+      "hard trance",
+      "progressive house",
+      "tech house",
+      "techno"
     ]
   }
 }

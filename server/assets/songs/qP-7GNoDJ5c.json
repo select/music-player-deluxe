@@ -2,7 +2,7 @@
   "youtubeId": "qP-7GNoDJ5c",
   "title": "Wellerman (Sea Shanty)",
   "artist": "Nathan Evans",
-  "lastFetched": "2025-11-19T16:43:16.326Z",
+  "lastFetched": "2025-11-30T22:45:34.542Z",
   "odesli": {
     "amazonMusic": "B08TN2S6HX",
     "amazonStore": "B08TN2S6HX",
@@ -26,6 +26,12 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "a373c884-6314-4188-803b-529a32ab2f0a"
+    "artistMbid": "a373c884-6314-4188-803b-529a32ab2f0a",
+    "trackMbid": "760e00a6-6c18-445c-8bc9-7bcdfff518c4",
+    "releaseCount": 1,
+    "artistGenres": [
+      "folk",
+      "pop"
+    ]
   }
 }

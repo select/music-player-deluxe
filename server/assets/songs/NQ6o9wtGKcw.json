@@ -2,7 +2,7 @@
   "youtubeId": "NQ6o9wtGKcw",
   "title": "Kiss",
   "artist": "Señor Coconut",
-  "lastFetched": "2025-11-27T12:04:24.651Z",
+  "lastFetched": "2025-11-30T20:52:55.415Z",
   "odesli": {
     "amazonMusic": "B07P6RJCRB",
     "amazonStore": "B07P6RJCRB",
@@ -23,6 +23,15 @@
       "covers",
       "latin",
       "fun"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7d1d3da3-fee6-432c-8b88-8359f2cd78a2",
+    "artistMbid": "ba07ae41-8e41-4411-bcf6-e37e4864d821",
+    "releaseCount": 1,
+    "artistGenres": [
+      "cocktail nation",
+      "lounge"
     ]
   }
 }

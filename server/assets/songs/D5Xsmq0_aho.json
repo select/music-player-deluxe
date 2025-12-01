@@ -2,7 +2,7 @@
   "youtubeId": "D5Xsmq0_aho",
   "title": "Rock Steady",
   "artist": "Andy Rantzen",
-  "lastFetched": "2025-11-24T00:23:42.557Z",
+  "lastFetched": "2025-11-30T21:30:33.423Z",
   "odesli": {
     "amazonMusic": "B07RCDWL87",
     "amazonStore": "B07RCDWL87",
@@ -26,6 +26,15 @@
       "all",
       "latenitecappuccino",
       "spotify"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "02935a6b-5ffd-441a-a35d-1ca7d47a602b",
+    "artistMbid": "a94e1e12-8fbe-4042-aac3-9b3a44708124",
+    "releaseCount": 2,
+    "artistGenres": [
+      "electronica",
+      "experimental electronic"
     ]
   }
 }

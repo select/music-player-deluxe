@@ -3,7 +3,7 @@
   "artist": "Rosinha de Valença",
   "duration": 371,
   "youtubeId": "hxi_qliU3DE",
-  "lastFetched": "2025-11-19T01:38:37.430Z",
+  "lastFetched": "2025-11-30T23:41:06.547Z",
   "name": "Consolação",
   "lastfm": {
     "id": "Rosinha+de+Valen%C3%A7a/_/Consola%C3%A7%C3%A3o",
@@ -19,6 +19,7 @@
   },
   "musicbrainz": {
     "artistMbid": "ed6192aa-3abb-4c0b-849e-24eae2ec60ea",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "trackMbid": "9b7c5ade-8d31-441c-b7f3-4065ce213551"
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "OcmBowQsVrg",
   "title": "INEXPLICABLE",
   "artist": "The Correspondents",
-  "lastFetched": "2025-11-30T17:45:08.182Z",
+  "lastFetched": "2025-11-30T19:38:35.098Z",
   "odesli": {
     "audiomack": "42112790",
     "soundcloud": "user-9224743/the-correspondents-inexplicable",
@@ -22,6 +22,18 @@
       "swing-hop",
       "electro-swing",
       "electro swing"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3b2789cb-28e5-4ba6-aa0f-12b3385ed6a9",
+    "artistMbid": "4d8d2c7c-978e-47ac-ba4a-9e798424bf83",
+    "releaseCount": 2,
+    "artistGenres": [
+      "electro",
+      "electronic",
+      "jazz",
+      "pop",
+      "swing"
     ]
   }
 }

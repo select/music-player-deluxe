@@ -2,7 +2,7 @@
   "youtubeId": "TnpwuRlXbhk",
   "title": "Love Like Blood",
   "artist": "Killing Joke",
-  "lastFetched": "2025-11-29T13:47:07.202Z",
+  "lastFetched": "2025-11-30T19:42:10.059Z",
   "odesli": {
     "amazonMusic": "B0CCBN1BP3",
     "amazonStore": "B0CCBN1BP3",
@@ -28,6 +28,24 @@
       "new wave",
       "80s",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "38385c04-6f80-490f-bc6d-8d27d339ea8c",
+    "artistMbid": "f5aca88c-e3c1-4bc2-af33-68a9a9f7b56a",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative metal",
+      "gothic rock",
+      "industrial",
+      "industrial metal",
+      "industrial rock",
+      "metal",
+      "new wave",
+      "post-punk",
+      "punk",
+      "rock",
+      "synth-pop"
     ]
   }
 }

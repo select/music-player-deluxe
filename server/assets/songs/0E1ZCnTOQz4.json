@@ -2,7 +2,7 @@
   "youtubeId": "0E1ZCnTOQz4",
   "title": "Sylt",
   "artist": "LOLNEIN",
-  "lastFetched": "2025-11-19T07:37:21.097Z",
+  "lastFetched": "2025-11-30T23:29:11.390Z",
   "odesli": {
     "amazonMusic": "B0B242RM8F",
     "amazonStore": "B0B242RM8F",
@@ -24,6 +24,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "a5c49b00-692e-4ea6-9d2d-d0ec3a8ffbcf"
+    "artistMbid": "a5c49b00-692e-4ea6-9d2d-d0ec3a8ffbcf",
+    "trackMbid": "9d1a759d-5a92-4370-b2ad-9d6194d5d4de",
+    "releaseCount": 1
   }
 }

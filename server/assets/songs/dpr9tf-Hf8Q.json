@@ -2,7 +2,7 @@
   "youtubeId": "dpr9tf-Hf8Q",
   "title": "Four walls",
   "artist": "Massive Attack",
-  "lastFetched": "2025-11-19T06:44:25.744Z",
+  "lastFetched": "2025-11-30T23:34:36.813Z",
   "lastfm": {
     "id": "Massive+Attack/_/Four+walls",
     "listeners": 478,
@@ -12,6 +12,28 @@
       "electronic",
       "chillout",
       "downtempo"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "70ca3ce6-4c59-485e-a072-636f4daf1904",
+    "artistMbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
+    "releaseCount": 2,
+    "genres": [
+      "ambient",
+      "downtempo",
+      "electronic",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "ambient",
+      "club",
+      "downtempo",
+      "dub",
+      "electronic",
+      "electronica",
+      "trip hop",
+      "uk street soul"
     ]
   }
 }

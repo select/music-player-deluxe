@@ -2,7 +2,7 @@
   "youtubeId": "i0yu2HmPfsU",
   "title": "Olympic",
   "artist": "808 State",
-  "lastFetched": "2025-11-23T19:31:30.932Z",
+  "lastFetched": "2025-11-30T22:07:16.466Z",
   "lastfm": {
     "id": "808+State/_/Olympic",
     "listeners": 21623,
@@ -14,6 +14,36 @@
     "tags": [
       "electronic",
       "house",
+      "techno"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e05ba754-a7ae-4551-a6c4-304e1ed2c6b8",
+    "artistMbid": "36f35db0-bc09-43e7-8650-a123224943c7",
+    "releaseCount": 10,
+    "genres": [
+      "breakbeat",
+      "dance",
+      "downtempo",
+      "electronic",
+      "house",
+      "idm",
+      "madchester",
+      "progressive house",
+      "rock",
+      "techno"
+    ],
+    "artistGenres": [
+      "acid house",
+      "ambient",
+      "ambient house",
+      "electro-funk",
+      "electronic",
+      "electronica",
+      "house",
+      "idm",
+      "madchester",
+      "rave",
       "techno"
     ]
   }

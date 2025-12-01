@@ -2,7 +2,7 @@
   "youtubeId": "JFtYaYwLp7w",
   "title": "Homage",
   "artist": "Jacob Garchik",
-  "lastFetched": "2025-11-19T11:27:19.738Z",
+  "lastFetched": "2025-11-30T23:14:30.768Z",
   "odesli": {
     "amazonMusic": "B09XRC16QC",
     "amazonStore": "B09XRC16QC",
@@ -26,6 +26,11 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "f186e07c-4812-4268-8432-2bf9d7c3ba42"
+    "artistMbid": "f186e07c-4812-4268-8432-2bf9d7c3ba42",
+    "trackMbid": "41822382-86bd-420d-b8d0-d4288e6e1757",
+    "releaseCount": 1,
+    "artistGenres": [
+      "jazz"
+    ]
   }
 }

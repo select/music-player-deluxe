@@ -2,7 +2,7 @@
   "youtubeId": "zHGf6tmnLYE",
   "title": "Woman",
   "artist": "Little Simz",
-  "lastFetched": "2025-11-24T00:22:47.516Z",
+  "lastFetched": "2025-11-30T21:37:01.722Z",
   "odesli": {
     "amazonMusic": "B091J4X3MD",
     "amazonStore": "B091J4X3MD",
@@ -34,6 +34,15 @@
       "conscious hip hop",
       "uk hip hop",
       "jazz rap"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9527d1c6-025e-4078-a7ec-fbfa02467048",
+    "artistMbid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
+    "releaseCount": 5,
+    "artistGenres": [
+      "hip hop",
+      "pop rap"
     ]
   }
 }

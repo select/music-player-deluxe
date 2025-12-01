@@ -2,7 +2,7 @@
   "youtubeId": "jgrgCaSo8e4",
   "title": "Light Up The Sky",
   "artist": "Bibio",
-  "lastFetched": "2025-11-29T13:49:04.534Z",
+  "lastFetched": "2025-11-30T19:57:31.887Z",
   "odesli": {
     "amazonMusic": "B01DCEJLGE",
     "amazonStore": "B01DCEJLGE",
@@ -27,6 +27,35 @@
       "electronic",
       "folktronica",
       "ambient"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d01e1f60-d744-4861-ba0c-a8c2fdc4fa29",
+    "artistMbid": "9f9953f0-68bb-4ce3-aace-2f44c87f0aa3",
+    "releaseCount": 4,
+    "genres": [
+      "soul"
+    ],
+    "artistGenres": [
+      "ambient",
+      "dance",
+      "disco",
+      "downtempo",
+      "electro",
+      "electronic",
+      "electronica",
+      "experimental electronic",
+      "folktronica",
+      "funktronica",
+      "house",
+      "hypnagogic pop",
+      "idm",
+      "indie folk",
+      "indie pop",
+      "indietronica",
+      "pop",
+      "post-rock",
+      "psychedelic folk"
     ]
   }
 }

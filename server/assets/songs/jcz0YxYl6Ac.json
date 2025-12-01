@@ -2,7 +2,7 @@
   "youtubeId": "jcz0YxYl6Ac",
   "title": "Breathe (In the Air)",
   "artist": "Pink Floyd",
-  "lastFetched": "2025-11-24T00:22:35.780Z",
+  "lastFetched": "2025-11-30T21:39:18.453Z",
   "odesli": {
     "amazonMusic": "B0BSB7FH7G",
     "amazonStore": "B0BSB7FH7G",
@@ -36,5 +36,25 @@
     "artist": "Pink Floyd",
     "mbid": "eceb4ed4-40b3-414b-a637-a6b1df7ccf1c",
     "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47"
+  },
+  "musicbrainz": {
+    "trackMbid": "128a2567-b17d-4acb-a7c2-f7baaa8504b0",
+    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
+    "releaseCount": 4,
+    "artistGenres": [
+      "acid rock",
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "experimental rock",
+      "progressive",
+      "progressive rock",
+      "psychedelic",
+      "psychedelic pop",
+      "psychedelic rock",
+      "rock",
+      "rock opera",
+      "space rock"
+    ]
   }
 }

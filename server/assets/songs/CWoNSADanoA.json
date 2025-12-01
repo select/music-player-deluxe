@@ -1,7 +1,7 @@
 {
   "youtubeId": "CWoNSADanoA",
   "title": "The Sound - New Dark Age (HQ)",
-  "lastFetched": "2025-11-29T12:39:21.369Z",
+  "lastFetched": "2025-11-30T19:54:39.541Z",
   "ai": {
     "title": "New Dark Age",
     "artist": "The Sound"
@@ -17,6 +17,21 @@
     "tags": [
       "post-punk",
       "new wave"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "313b8389-b539-4d9d-a151-d6aa369e245c",
+    "artistMbid": "b2c36d47-e5e3-4ac8-a967-10e0265d3fff",
+    "releaseCount": 4,
+    "genres": [
+      "new wave",
+      "post-punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "new wave",
+      "post-punk"
     ]
   }
 }

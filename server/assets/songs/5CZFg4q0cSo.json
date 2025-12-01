@@ -4,7 +4,7 @@
   "album": "The Pool",
   "duration": 386,
   "youtubeId": "5CZFg4q0cSo",
-  "lastFetched": "2025-11-19T01:39:16.445Z",
+  "lastFetched": "2025-11-30T23:40:49.910Z",
   "odesli": {
     "soundcloud": "1052472169",
     "spotify": "0Rk5K4ziDHqnzPc8JdN5Rj",
@@ -21,6 +21,15 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d"
+    "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d",
+    "trackMbid": "b173a3c2-999a-492a-950b-bbaa958d3d83",
+    "releaseCount": 2,
+    "artistGenres": [
+      "acid jazz",
+      "chillout",
+      "downtempo",
+      "jazz",
+      "nu jazz"
+    ]
   }
 }

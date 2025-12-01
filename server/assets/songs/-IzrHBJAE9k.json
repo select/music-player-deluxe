@@ -2,7 +2,7 @@
   "youtubeId": "-IzrHBJAE9k",
   "title": "Everlong",
   "artist": "Mike Dawes",
-  "lastFetched": "2025-11-23T14:50:21.687Z",
+  "lastFetched": "2025-11-30T22:31:32.852Z",
   "odesli": {
     "amazonMusic": "B0DBWYJQ6P",
     "amazonStore": "B0DBWYJQ6P",
@@ -23,6 +23,23 @@
     "tags": [
       "acoustic",
       "guitar"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6eafd820-9347-4819-9267-8d9f7a6f13d7",
+    "artistMbid": "1bb37eed-80ab-4c04-b04e-1e1fb0fe0bb5",
+    "releaseCount": 6,
+    "artistGenres": [
+      "acoustic rock",
+      "chillout",
+      "folk",
+      "folk rock",
+      "instrumental",
+      "neofolk",
+      "new age",
+      "progressive",
+      "progressive rock",
+      "rock"
     ]
   }
 }

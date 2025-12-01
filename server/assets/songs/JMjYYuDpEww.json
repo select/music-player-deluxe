@@ -2,7 +2,7 @@
   "youtubeId": "JMjYYuDpEww",
   "title": "White Rabbit",
   "artist": "Jefferson Airplane",
-  "lastFetched": "2025-11-23T15:39:50.601Z",
+  "lastFetched": "2025-11-30T22:19:10.696Z",
   "lastfm": {
     "title": "White Rabbit",
     "artist": "Jefferson Airplane",
@@ -26,6 +26,20 @@
       "classic rock",
       "60s",
       "Psychedelic Rock",
+      "rock"
+    ],
+    "trackMbid": "617cc160-743a-4f91-8fda-0a27b51d0cb3",
+    "artistMbid": "39c2a93d-9afa-4a22-9bba-c087ab056e1c",
+    "releaseCount": 2,
+    "artistGenres": [
+      "acid rock",
+      "folk rock",
+      "garage rock",
+      "pop rock",
+      "psychedelic",
+      "psychedelic folk",
+      "psychedelic pop",
+      "psychedelic rock",
       "rock"
     ]
   }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "YLhCgM1Rmjc",
   "title": "zircon - Colossus (Complextro / Dance) [Identity Sequence]",
-  "lastFetched": "2025-11-27T12:01:27.306Z",
+  "lastFetched": "2025-11-30T20:30:19.861Z",
   "ai": {
     "title": "Colossus",
     "artist": "zircon"
@@ -16,6 +16,19 @@
     "tags": [
       "electronic",
       "10 of 10 stars"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "409b49ef-22ef-4ce3-bd9a-96fdad6b095e",
+    "artistMbid": "91d6dddd-c14a-4058-9625-ad4904310fac",
+    "releaseCount": 3,
+    "genres": [
+      "breakbeat",
+      "downtempo",
+      "drum and bass",
+      "dubstep",
+      "electronic",
+      "progressive trance"
     ]
   }
 }

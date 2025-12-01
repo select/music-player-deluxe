@@ -2,7 +2,7 @@
   "youtubeId": "4fndeDfaWCg",
   "title": "I Want It That Way",
   "artist": "Backstreet Boys",
-  "lastFetched": "2025-11-24T00:21:45.021Z",
+  "lastFetched": "2025-11-30T21:46:13.209Z",
   "odesli": {
     "amazonMusic": "B00136NFFW",
     "amazonStore": "B00136NFFW",
@@ -36,5 +36,30 @@
     "artist": "Backstreet Boys",
     "mbid": "6d42e81f-894c-4b70-9845-5898233ef21f",
     "artistMbid": "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad"
+  },
+  "musicbrainz": {
+    "trackMbid": "87dfa566-21c3-45ed-bc42-1d345b8563fa",
+    "artistMbid": "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad",
+    "releaseCount": 25,
+    "genres": [
+      "ballad",
+      "bubblegum pop",
+      "contemporary r&b",
+      "dance",
+      "dance-pop",
+      "electropop",
+      "europop",
+      "funk",
+      "pop",
+      "soul",
+      "teen pop"
+    ],
+    "artistGenres": [
+      "dance-pop",
+      "electropop",
+      "pop",
+      "pop rock",
+      "teen pop"
+    ]
   }
 }

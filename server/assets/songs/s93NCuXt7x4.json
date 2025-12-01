@@ -2,7 +2,7 @@
   "youtubeId": "s93NCuXt7x4",
   "title": "BLOW",
   "artist": "Ed Sheeran",
-  "lastFetched": "2025-11-19T05:41:46.194Z",
+  "lastFetched": "2025-11-30T23:39:35.975Z",
   "odesli": {
     "amazonMusic": "B07S1VNW9D",
     "amazonStore": "B07S1VNW9D",
@@ -34,6 +34,17 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+    "artistMbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+    "trackMbid": "8d815dff-26a2-4558-8c80-dbd700e53b6d",
+    "releaseCount": 23,
+    "artistGenres": [
+      "dance-pop",
+      "folk",
+      "folk pop",
+      "persian pop",
+      "pop",
+      "singer-songwriter",
+      "soft rock"
+    ]
   }
 }

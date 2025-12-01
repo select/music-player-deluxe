@@ -2,7 +2,7 @@
   "youtubeId": "bp7shoJ68uI",
   "title": "Balewada",
   "artist": "Viejas Raíces",
-  "lastFetched": "2025-11-23T14:09:39.214Z",
+  "lastFetched": "2025-11-30T22:47:12.591Z",
   "lastfm": {
     "title": "Balewada",
     "artist": "Viejas Raíces",
@@ -17,5 +17,10 @@
       "instrumental",
       "piano"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7a96ce74-1381-4d01-9d64-37b504000d43",
+    "artistMbid": "b12f3dab-6fd3-4174-ab19-c12b2086c51f",
+    "releaseCount": 3
   }
 }

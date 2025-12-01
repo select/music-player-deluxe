@@ -2,7 +2,7 @@
   "youtubeId": "bOHxtOLfvIo",
   "title": "Crawling In The Dark",
   "artist": "Hoobastank",
-  "lastFetched": "2025-11-28T12:13:45.000Z",
+  "lastFetched": "2025-11-30T20:25:09.113Z",
   "odesli": {
     "amazonMusic": "B0040Q0ECY",
     "amazonStore": "B0040Q0ECY",
@@ -32,6 +32,25 @@
       "alternative",
       "hoobastank",
       "punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a7d61cfa-6327-4118-bc93-c7a245c8dfb0",
+    "artistMbid": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "funk metal",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "nu metal",
+      "pop rock",
+      "post-grunge"
     ]
   }
 }

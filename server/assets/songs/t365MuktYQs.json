@@ -2,7 +2,7 @@
   "youtubeId": "t365MuktYQs",
   "title": "Starman",
   "artist": "David Bowie",
-  "lastFetched": "2025-11-23T19:33:41.188Z",
+  "lastFetched": "2025-11-30T21:57:00.522Z",
   "odesli": {
     "amazonMusic": "B006NF7VXK",
     "amazonStore": "B006NF7VXK",
@@ -35,6 +35,30 @@
       "70s",
       "rock",
       "david bowie"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "308bc940-c25c-4847-ab55-4c4cf22683bc",
+    "artistMbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+    "releaseCount": 25,
+    "genres": [
+      "classic rock",
+      "glam",
+      "glam rock",
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "art pop",
+      "art rock",
+      "classic rock",
+      "glam rock",
+      "new wave",
+      "pop",
+      "pop rock",
+      "rock"
     ]
   }
 }

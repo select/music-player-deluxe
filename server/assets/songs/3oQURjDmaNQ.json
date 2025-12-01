@@ -2,7 +2,7 @@
   "youtubeId": "3oQURjDmaNQ",
   "title": "The Revolution Will Not Be Televised",
   "artist": "Brian Jackson",
-  "lastFetched": "2025-11-19T03:38:12.055Z",
+  "lastFetched": "2025-11-30T23:42:23.196Z",
   "lastfm": {
     "id": "Brian+Jackson/_/The+Revolution+Will+Not+Be+Televised",
     "listeners": 653,
@@ -11,6 +11,18 @@
       "jazz",
       "soul",
       "flute"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3fb9a5d7-d700-4bc5-ac22-96316b636d7d",
+    "artistMbid": "c4cdf239-e646-4339-b064-7a94f5af6583",
+    "releaseCount": 2,
+    "artistGenres": [
+      "funk",
+      "jazz",
+      "jazz-funk",
+      "soul",
+      "soul jazz"
     ]
   }
 }

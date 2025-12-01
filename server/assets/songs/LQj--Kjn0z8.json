@@ -2,7 +2,7 @@
   "youtubeId": "LQj--Kjn0z8",
   "title": "Walkin' on the Sun",
   "artist": "Smash Mouth",
-  "lastFetched": "2025-11-19T11:34:56.923Z",
+  "lastFetched": "2025-11-30T23:13:49.077Z",
   "odesli": {
     "amazonMusic": "B000W0YU8G",
     "amazonStore": "B000W0YU8G",
@@ -25,7 +25,23 @@
       "pop",
       "alternative"
     ],
-    "artistMbid": "944e1036-8a03-4611-8aa0-31515a05c848"
+    "artistMbid": "944e1036-8a03-4611-8aa0-31515a05c848",
+    "trackMbid": "1bc33d62-93f8-4046-821b-de7829e80e41",
+    "releaseCount": 3,
+    "artistGenres": [
+      "alternative rock",
+      "cocktail nation",
+      "neo-psychedelia",
+      "pop punk",
+      "pop rock",
+      "power pop",
+      "psychedelic pop",
+      "reggae rock",
+      "ska punk",
+      "skate punk",
+      "surf punk",
+      "surf rock"
+    ]
   },
   "lastfm": {
     "id": "Smash+Mouth/_/Walkin%27+on+the+Sun",

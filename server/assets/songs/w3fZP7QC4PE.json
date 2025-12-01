@@ -2,7 +2,7 @@
   "youtubeId": "w3fZP7QC4PE",
   "title": "U.R.A Fever",
   "artist": "The Kills",
-  "lastFetched": "2025-11-28T18:38:17.390Z",
+  "lastFetched": "2025-11-30T20:15:51.103Z",
   "odesli": {
     "amazonMusic": "B073MSR8WS",
     "amazonStore": "B073MSR8WS",
@@ -26,6 +26,22 @@
       "indie rock",
       "alternative",
       "pretty as a diagram"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "696ab120-1102-459d-abb2-974262f7432f",
+    "artistMbid": "2c629b8c-d751-4131-b785-5690bb5e0fd7",
+    "releaseCount": 2,
+    "genres": [
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "garage punk",
+      "garage rock",
+      "garage rock revival",
+      "indie rock",
+      "rock"
     ]
   }
 }

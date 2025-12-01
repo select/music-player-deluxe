@@ -2,7 +2,7 @@
   "youtubeId": "rQbjE6mVgms",
   "title": "Edie's Dream",
   "artist": "Suuns",
-  "lastFetched": "2025-11-28T18:37:08.182Z",
+  "lastFetched": "2025-11-30T20:11:29.641Z",
   "odesli": {
     "amazonMusic": "B00HL5J5L2",
     "amazonStore": "B00HL5J5L2",
@@ -25,6 +25,21 @@
       "post-punk",
       "drugs",
       "best of 2013"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8ffe0ca7-c1ff-4a0a-b5fe-1f88b629d7e5",
+    "artistMbid": "f2394946-07cc-4af7-8d77-58fea451dd59",
+    "releaseCount": 1,
+    "artistGenres": [
+      "art punk",
+      "art rock",
+      "electronic",
+      "krautrock",
+      "pop",
+      "post-punk",
+      "psychedelic rock",
+      "rock"
     ]
   }
 }

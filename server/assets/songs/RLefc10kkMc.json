@@ -2,7 +2,7 @@
   "youtubeId": "RLefc10kkMc",
   "title": "Dove",
   "artist": "Cymande",
-  "lastFetched": "2025-11-19T12:46:23.364Z",
+  "lastFetched": "2025-11-30T23:07:51.035Z",
   "odesli": {
     "amazonMusic": "B0DPJPXG2H",
     "amazonStore": "B0DPJPXG2H",
@@ -31,6 +31,18 @@
       "fusion",
       "soul",
       "chillout"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e9eb22f7-ed7d-48f4-951d-78000753da7e",
+    "artistMbid": "21c5fb53-6fbc-4080-989a-b26d4540f4fd",
+    "releaseCount": 16,
+    "genres": [
+      "funk"
+    ],
+    "artistGenres": [
+      "funk",
+      "psychedelic soul"
     ]
   }
 }

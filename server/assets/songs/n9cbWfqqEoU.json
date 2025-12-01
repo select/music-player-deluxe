@@ -2,7 +2,7 @@
   "youtubeId": "n9cbWfqqEoU",
   "title": "I Can Be Killed",
   "artist": "Big Black",
-  "lastFetched": "2025-11-23T15:08:14.134Z",
+  "lastFetched": "2025-11-30T22:27:04.575Z",
   "odesli": {
     "amazonMusic": "B01GJXW9UA",
     "amazonStore": "B01GJXW9UA",
@@ -33,6 +33,19 @@
       "flanger",
       "drunk tank singalong tune",
       "i love singing along"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "66c7b688-62dd-499d-a1f5-6df11ca1ee26",
+    "artistMbid": "9463868f-edc8-427e-ac07-ea89698e5f15",
+    "releaseCount": 4,
+    "artistGenres": [
+      "industrial rock",
+      "noise rock",
+      "pigfuck",
+      "post-hardcore",
+      "post-punk",
+      "punk"
     ]
   }
 }

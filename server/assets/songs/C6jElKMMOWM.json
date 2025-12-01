@@ -2,7 +2,7 @@
   "youtubeId": "C6jElKMMOWM",
   "title": "Suck My Kiss",
   "artist": "Red Hot Chili Peppers",
-  "lastFetched": "2025-11-19T16:37:40.649Z",
+  "lastFetched": "2025-11-30T22:46:02.989Z",
   "odesli": {
     "amazonMusic": "B0011Z7J4S",
     "amazonStore": "B0011Z7J4S",
@@ -34,6 +34,17 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+    "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+    "trackMbid": "038c05fd-3455-4f73-81b3-9b385e135292",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock",
+      "funk",
+      "funk metal",
+      "funk rock",
+      "pop rock",
+      "rap rock",
+      "rock"
+    ]
   }
 }

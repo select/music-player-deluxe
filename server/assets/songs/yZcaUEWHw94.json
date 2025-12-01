@@ -2,7 +2,7 @@
   "youtubeId": "yZcaUEWHw94",
   "title": "Hier kommt Kurt",
   "artist": "Frank Zander",
-  "lastFetched": "2025-11-23T14:26:57.045Z",
+  "lastFetched": "2025-11-30T22:40:15.650Z",
   "lastfm": {
     "title": "Hier kommt Kurt",
     "artist": "Frank Zander",
@@ -16,6 +16,19 @@
       "schlager",
       "comedy",
       "deutschrock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f05b9798-936a-461d-93d4-62b340e8509e",
+    "artistMbid": "47522335-222a-4228-b3df-6858ed9cf8fa",
+    "releaseCount": 25,
+    "genres": [
+      "euro house",
+      "pop",
+      "schlager"
+    ],
+    "artistGenres": [
+      "comedy"
     ]
   }
 }

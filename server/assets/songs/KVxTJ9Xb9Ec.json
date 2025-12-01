@@ -2,7 +2,7 @@
   "youtubeId": "KVxTJ9Xb9Ec",
   "title": "Primo Victoria",
   "artist": "Sabaton",
-  "lastFetched": "2025-11-24T00:23:19.157Z",
+  "lastFetched": "2025-11-30T21:32:43.369Z",
   "odesli": {
     "amazonMusic": "B07RPW467L",
     "amazonStore": "B07RPW467L",
@@ -35,6 +35,24 @@
       "heavy metal",
       "war metal",
       "metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d59cc9f2-62a1-4190-8544-89ba903c5d55",
+    "artistMbid": "39a31de6-763d-48b6-a45c-f7cfad58ffd8",
+    "releaseCount": 10,
+    "genres": [
+      "heavy metal",
+      "metal",
+      "power metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "heavy metal",
+      "metal",
+      "pop metal",
+      "power metal",
+      "speed metal"
     ]
   }
 }

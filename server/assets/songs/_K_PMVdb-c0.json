@@ -1,7 +1,7 @@
 {
   "youtubeId": "_K_PMVdb-c0",
   "title": "TS5_ Béla Fleck - Big Country.mp4",
-  "lastFetched": "2025-11-26T10:55:48.911Z",
+  "lastFetched": "2025-11-30T20:42:32.577Z",
   "ai": {
     "title": "Big Country",
     "artist": "Béla Fleck"
@@ -20,6 +20,18 @@
       "jazz",
       "instrumental",
       "fusion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9d91f7ba-0408-4314-a265-1a98a5f2e935",
+    "artistMbid": "e1a889b7-5e45-447f-baa0-b9c6cbc0d39f",
+    "releaseCount": 1,
+    "artistGenres": [
+      "bluegrass",
+      "classical",
+      "folk",
+      "jazz",
+      "jazz fusion"
     ]
   }
 }

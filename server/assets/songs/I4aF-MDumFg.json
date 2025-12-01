@@ -2,7 +2,7 @@
   "youtubeId": "I4aF-MDumFg",
   "title": "Magneto",
   "artist": "Nick Cave & The Bad Seeds",
-  "lastFetched": "2025-11-26T11:01:44.029Z",
+  "lastFetched": "2025-11-30T21:27:00.470Z",
   "odesli": {
     "amazonMusic": "B01LRZQ582",
     "amazonStore": "B01LRZQ582",
@@ -27,6 +27,27 @@
       "alternative",
       "sad",
       "experimental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c688cf98-3a08-4a75-9864-5bcaf49a511d",
+    "artistMbid": "172e1f1a-504d-4488-b053-6344ba63e6d0",
+    "releaseCount": 4,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "art rock",
+      "gothic rock",
+      "indie rock",
+      "post-punk",
+      "punk blues",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

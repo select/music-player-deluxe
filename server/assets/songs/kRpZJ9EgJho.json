@@ -2,7 +2,7 @@
   "youtubeId": "kRpZJ9EgJho",
   "title": "Simple Kind Of Life",
   "artist": "No Doubt",
-  "lastFetched": "2025-11-23T15:40:22.452Z",
+  "lastFetched": "2025-11-30T22:18:54.517Z",
   "odesli": {
     "amazonMusic": "B00391RCZI",
     "amazonStore": "B00391RCZI",
@@ -30,6 +30,29 @@
       "alternative",
       "pop",
       "no doubt"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c5961d32-50ac-4c80-883a-49da9481ef31",
+    "artistMbid": "fbd2a255-1d57-4d31-ac11-65b671c19958",
+    "releaseCount": 25,
+    "genres": [
+      "alternative pop",
+      "alternative rock",
+      "pop",
+      "pop rock",
+      "post-grunge",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "pop",
+      "pop rock",
+      "power pop",
+      "rock",
+      "ska",
+      "ska punk",
+      "third wave ska"
     ]
   }
 }

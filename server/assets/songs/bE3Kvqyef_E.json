@@ -2,7 +2,7 @@
   "youtubeId": "bE3Kvqyef_E",
   "title": "Disconnect",
   "artist": "Becky Hill",
-  "lastFetched": "2025-11-19T17:18:04.789Z",
+  "lastFetched": "2025-11-30T22:39:23.892Z",
   "odesli": {
     "amazonMusic": "B0CD1LM4L6",
     "amazonStore": "B0CD1LM4L6",
@@ -26,6 +26,15 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "27bc6f5b-4585-49ab-8d7d-c62b59f5f010"
+    "artistMbid": "27bc6f5b-4585-49ab-8d7d-c62b59f5f010",
+    "trackMbid": "fd6cde2d-b5df-4a2c-83e0-36be3900245e",
+    "releaseCount": 16,
+    "genres": [
+      "dancefloor drum and bass"
+    ],
+    "artistGenres": [
+      "house",
+      "pop"
+    ]
   }
 }

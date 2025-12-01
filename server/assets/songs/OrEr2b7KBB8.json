@@ -1,7 +1,7 @@
 {
   "youtubeId": "OrEr2b7KBB8",
   "title": "GERRY RAFFERTY ► Right Down the Line 【HD】",
-  "lastFetched": "2025-11-27T12:02:03.563Z",
+  "lastFetched": "2025-11-30T20:33:42.112Z",
   "ai": {
     "title": "Right Down the Line",
     "artist": "GERRY RAFFERTY"
@@ -22,5 +22,25 @@
     "artist": "Gerry Rafferty",
     "mbid": "a8444b23-5dd0-4589-9848-f901a9ddc11e",
     "artistMbid": "563201cb-721c-4cfb-acca-c1ba69e3d1fb"
+  },
+  "musicbrainz": {
+    "trackMbid": "bd129c44-6286-4f62-8d11-8d1c8437ecc0",
+    "artistMbid": "563201cb-721c-4cfb-acca-c1ba69e3d1fb",
+    "releaseCount": 25,
+    "genres": [
+      "classic rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "folk pop",
+      "folk rock",
+      "pop rock",
+      "rock",
+      "singer-songwriter",
+      "soft rock"
+    ]
   }
 }

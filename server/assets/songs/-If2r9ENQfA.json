@@ -2,7 +2,7 @@
   "youtubeId": "-If2r9ENQfA",
   "title": "Vicinity Of Obscenity",
   "artist": "System Of A Down",
-  "lastFetched": "2025-11-26T11:01:20.786Z",
+  "lastFetched": "2025-11-30T21:24:22.065Z",
   "odesli": {
     "amazonMusic": "B006ONVZQA",
     "amazonStore": "B006ONVZQA",
@@ -32,5 +32,27 @@
     "artist": "System of a Down",
     "mbid": "11298900-60e1-4250-b979-f314b001415d",
     "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6"
+  },
+  "musicbrainz": {
+    "trackMbid": "039f3379-3a69-4e75-a882-df1c4e1608aa",
+    "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+    "releaseCount": 25,
+    "genres": [
+      "alternative metal",
+      "alternative rock",
+      "art rock",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "heavy metal",
+      "nu metal"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "CVCsQDVWLVg",
   "title": "October Swimmer",
   "artist": "JJ72",
-  "lastFetched": "2025-11-23T19:33:04.014Z",
+  "lastFetched": "2025-11-30T21:59:58.509Z",
   "odesli": {
     "amazonMusic": "B0014LROC6",
     "amazonStore": "B0014LROC6",
@@ -25,6 +25,21 @@
     "tags": [
       "indie",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fb2556c0-5846-4136-9442-bd0396b1afe5",
+    "artistMbid": "fa8dd489-17e2-4d18-a195-d92fcc871d61",
+    "releaseCount": 19,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "indie rock"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ainyK6fXku0",
   "title": "Common People",
   "artist": "William Shatner",
-  "lastFetched": "2025-11-26T10:59:43.920Z",
+  "lastFetched": "2025-11-30T21:16:19.018Z",
   "odesli": {
     "amazonMusic": "B00J534HKC",
     "amazonStore": "B00J534HKC",
@@ -24,6 +24,21 @@
       "covers",
       "spoken word",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "098695c3-9885-44df-ae17-d1f9bd32814b",
+    "artistMbid": "a406a684-7c88-442b-836d-3b9b67bbc91d",
+    "releaseCount": 7,
+    "genres": [
+      "alternative rock",
+      "instrumental",
+      "instrumental rock",
+      "lounge",
+      "pop",
+      "punk",
+      "rock",
+      "soft rock"
     ]
   }
 }

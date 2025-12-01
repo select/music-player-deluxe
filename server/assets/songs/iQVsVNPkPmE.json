@@ -2,7 +2,7 @@
   "youtubeId": "iQVsVNPkPmE",
   "title": "Nani",
   "artist": "Mr. Cardamom",
-  "lastFetched": "2025-11-23T19:30:51.098Z",
+  "lastFetched": "2025-11-30T22:08:57.926Z",
   "lastfm": {
     "id": "Mr.+Cardamom/_/Nani",
     "listeners": 3937,
@@ -14,5 +14,10 @@
       "based",
       "zohran mamdani"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "46a0a11c-561d-4735-bc45-45e1d4524332",
+    "artistMbid": "4d4800e5-a3cb-49d6-ac30-652170040d1b",
+    "releaseCount": 1
   }
 }

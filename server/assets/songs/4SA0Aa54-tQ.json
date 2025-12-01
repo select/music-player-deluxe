@@ -2,7 +2,7 @@
   "youtubeId": "4SA0Aa54-tQ",
   "title": "Lunatic",
   "artist": "Electric Moon",
-  "lastFetched": "2025-11-29T13:47:15.292Z",
+  "lastFetched": "2025-11-30T19:42:58.154Z",
   "odesli": {
     "amazonMusic": "B0FNMW14GF",
     "amazonStore": "B0FNMW14GF",
@@ -24,6 +24,25 @@
       "space rock",
       "instrumental",
       "flyyt"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7af1349a-70be-4d69-b1b4-4e6fde73c622",
+    "artistMbid": "23e24bc1-d1c5-4a66-b59e-b6696501b999",
+    "releaseCount": 10,
+    "genres": [
+      "psychedelic rock",
+      "rock",
+      "space rock"
+    ],
+    "artistGenres": [
+      "acid rock",
+      "jam band",
+      "krautrock",
+      "psychedelic",
+      "psychedelic rock",
+      "rock",
+      "space rock"
     ]
   }
 }

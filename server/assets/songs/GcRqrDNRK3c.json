@@ -2,7 +2,7 @@
   "youtubeId": "GcRqrDNRK3c",
   "title": "Fission Chips",
   "artist": "George Fenton",
-  "lastFetched": "2025-11-24T00:22:33.282Z",
+  "lastFetched": "2025-11-30T21:39:38.885Z",
   "odesli": {
     "amazonMusic": "B01N47HTHB",
     "amazonStore": "B01N47HTHB",
@@ -27,5 +27,10 @@
       "instrumental",
       "classical"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f080ea2f-4f89-4732-9519-dd6f52f6c822",
+    "artistMbid": "5992eb3a-044c-4739-a385-8bc0e8f7055d",
+    "releaseCount": 1
   }
 }

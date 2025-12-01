@@ -4,7 +4,7 @@
   "album": "40 Golden Hits of Googoosh",
   "duration": 255,
   "youtubeId": "STArhVNT_g8",
-  "lastFetched": "2025-11-19T01:38:53.298Z",
+  "lastFetched": "2025-11-30T23:40:52.986Z",
   "name": "Harf",
   "lastfm": {
     "id": "Googoosh/_/Harf",
@@ -16,6 +16,12 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "0d9b88f3-054a-4f53-b447-2f3f503c8290"
+    "artistMbid": "0d9b88f3-054a-4f53-b447-2f3f503c8290",
+    "trackMbid": "443e88fa-4579-4d6f-92f2-cd43cc3e4862",
+    "releaseCount": 1,
+    "artistGenres": [
+      "persian pop",
+      "pop"
+    ]
   }
 }

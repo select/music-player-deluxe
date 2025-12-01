@@ -2,7 +2,7 @@
   "youtubeId": "AORosDGixrY",
   "title": "Everyone's A V.I.P. To Someone",
   "artist": "The Go! Team",
-  "lastFetched": "2025-11-27T12:04:37.960Z",
+  "lastFetched": "2025-11-30T20:55:18.053Z",
   "odesli": {
     "amazonMusic": "B0096J6GHW",
     "amazonStore": "B0096J6GHW",
@@ -27,6 +27,19 @@
       "beautiful",
       "olivia",
       "best of 2005"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3dec012e-b3f4-4667-a6cd-646c17d02214",
+    "artistMbid": "8a396a9c-2e4f-47e2-a587-c26e93a0953f",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dance",
+      "electronic",
+      "hip hop",
+      "indie pop",
+      "indie rock",
+      "sampledelia"
     ]
   }
 }

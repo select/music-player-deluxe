@@ -2,7 +2,7 @@
   "youtubeId": "IG6xVp3JaiE",
   "title": "Bloodsport",
   "artist": "AlphaWhores",
-  "lastFetched": "2025-11-24T00:23:26.736Z",
+  "lastFetched": "2025-11-30T21:32:04.022Z",
   "odesli": {
     "amazonMusic": "B0F6NQB744",
     "amazonStore": "B0F6NQB744",
@@ -28,6 +28,17 @@
       "stoner metal",
       "panama",
       "sludge"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5f9dd757-e9d2-4be5-9c51-b255657dca68",
+    "artistMbid": "f9c4012b-f35d-46e4-a676-a9cd3e912bb2",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative metal",
+      "metal",
+      "sludge metal",
+      "stoner metal"
     ]
   }
 }

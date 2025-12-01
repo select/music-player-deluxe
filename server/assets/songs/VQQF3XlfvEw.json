@@ -2,7 +2,7 @@
   "youtubeId": "VQQF3XlfvEw",
   "title": "You Gave Me Love",
   "artist": "Crown Heights Affair",
-  "lastFetched": "2025-11-23T15:50:33.578Z",
+  "lastFetched": "2025-11-30T22:16:10.118Z",
   "lastfm": {
     "title": "You Gave Me Love",
     "artist": "Crown Heights Affair",
@@ -16,6 +16,14 @@
       "80s",
       "funk",
       "dance"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "96520c03-2934-4213-b002-c3dd352ef8b1",
+    "artistMbid": "a5755348-3a50-4c27-a577-6d09fd5b95c9",
+    "releaseCount": 1,
+    "artistGenres": [
+      "funk"
     ]
   }
 }

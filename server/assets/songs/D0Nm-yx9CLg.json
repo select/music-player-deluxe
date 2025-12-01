@@ -2,7 +2,7 @@
   "youtubeId": "D0Nm-yx9CLg",
   "title": "Lowest In Me",
   "artist": "Staind",
-  "lastFetched": "2025-11-19T12:06:05.342Z",
+  "lastFetched": "2025-11-30T23:11:24.500Z",
   "odesli": {
     "amazonMusic": "B0F1KHBR93",
     "amazonStore": "B0F1KHBR93",
@@ -32,6 +32,19 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "777a21a8-0d0f-4cf3-86b4-65bc0eba5649"
+    "artistMbid": "777a21a8-0d0f-4cf3-86b4-65bc0eba5649",
+    "trackMbid": "d889a582-125d-4806-9380-3d678e84b9e6",
+    "releaseCount": 7,
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "metal",
+      "nu metal",
+      "post-grunge",
+      "rock",
+      "sludge metal"
+    ]
   }
 }

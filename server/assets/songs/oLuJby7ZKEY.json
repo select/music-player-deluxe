@@ -2,7 +2,7 @@
   "youtubeId": "oLuJby7ZKEY",
   "title": "We'll Meet Again",
   "artist": "The Ink Spots",
-  "lastFetched": "2025-11-23T14:57:31.565Z",
+  "lastFetched": "2025-11-30T22:29:50.322Z",
   "odesli": {
     "amazonMusic": "B0DZXS53DK",
     "amazonStore": "B0DZXS53DK",
@@ -28,6 +28,17 @@
       "jazz",
       "swing",
       "pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ec1ee19f-a241-4eae-a1ec-0a5ee3612557",
+    "artistMbid": "75f47650-8a52-494a-8334-c5279bc6db09",
+    "releaseCount": 2,
+    "artistGenres": [
+      "blues",
+      "doo-wop",
+      "jazz",
+      "vocal jazz"
     ]
   }
 }

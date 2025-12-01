@@ -1,7 +1,7 @@
 {
   "youtubeId": "AauVal4ODbE",
   "title": "Emicida - Boa Esperança (Videoclipe Oficial)",
-  "lastFetched": "2025-11-29T12:38:43.790Z",
+  "lastFetched": "2025-11-30T19:46:30.138Z",
   "ai": {
     "title": "Boa Esperança",
     "artist": "Emicida"
@@ -15,6 +15,14 @@
     "artistMbid": "7b874216-914f-4f77-b5c4-70f6ff8052ad",
     "tags": [
       "hip-hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ffd237c6-bd4e-4dd2-9402-817250023dc5",
+    "artistMbid": "7b874216-914f-4f77-b5c4-70f6ff8052ad",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

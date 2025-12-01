@@ -2,9 +2,21 @@
   "youtubeId": "O2xNTzlFSk0",
   "title": "Im Nin'Alu",
   "artist": "Ofra Haza",
-  "lastFetched": "2025-11-20T11:35:43.646Z",
+  "lastFetched": "2025-11-30T22:25:38.227Z",
   "ai": {
     "title": "Im Nin'Alu",
     "artist": "Ofra Haza"
+  },
+  "musicbrainz": {
+    "trackMbid": "483dede2-3543-4ed9-8a53-9040f0bae839",
+    "artistMbid": "7591796a-a545-4b51-ba52-bf2539b90d99",
+    "releaseCount": 13,
+    "genres": [
+      "club"
+    ],
+    "artistGenres": [
+      "folk",
+      "pop"
+    ]
   }
 }

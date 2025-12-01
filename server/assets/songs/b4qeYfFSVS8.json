@@ -2,9 +2,24 @@
   "youtubeId": "b4qeYfFSVS8",
   "title": "Was hat Dich bloß so ruiniert?",
   "artist": "Die Sterne",
-  "lastFetched": "2025-11-20T11:21:42.513Z",
+  "lastFetched": "2025-11-30T22:39:59.414Z",
   "ai": {
     "title": "Was hat Dich bloß so ruiniert?",
     "artist": "Die Sterne"
+  },
+  "musicbrainz": {
+    "trackMbid": "e06e794d-9f22-445b-8c29-ce89c6119182",
+    "artistMbid": "52f2c49e-43c4-4716-bf4a-0eac1c651d3a",
+    "releaseCount": 18,
+    "genres": [
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "hamburger schule",
+      "indie pop",
+      "indie rock"
+    ]
   }
 }

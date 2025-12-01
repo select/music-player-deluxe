@@ -1,7 +1,7 @@
 {
   "youtubeId": "E15Nqxm4JQ4",
   "title": "Ain't No Sunshine",
-  "lastFetched": "2025-11-28T14:52:21.645Z",
+  "lastFetched": "2025-11-30T20:03:33.088Z",
   "ai": {
     "title": "Ain't no sunshine",
     "artist": "Sivuca"
@@ -28,5 +28,14 @@
     "youtube": "E15Nqxm4JQ4",
     "youtubeMusic": "E15Nqxm4JQ4"
   },
-  "artist": "Sivuca"
+  "artist": "Sivuca",
+  "musicbrainz": {
+    "trackMbid": "e6ebc964-b5f5-4722-988f-13497f82aef0",
+    "artistMbid": "130ba5d4-4d6f-4224-86bc-0f4a0cfb6b22",
+    "releaseCount": 1,
+    "genres": [
+      "jazz",
+      "mpb"
+    ]
+  }
 }

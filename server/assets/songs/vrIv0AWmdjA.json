@@ -2,7 +2,7 @@
   "youtubeId": "vrIv0AWmdjA",
   "title": "Closer to You",
   "artist": "Wellmess",
-  "lastFetched": "2025-11-19T08:44:08.354Z",
+  "lastFetched": "2025-11-30T23:24:54.426Z",
   "odesli": {
     "amazonMusic": "B07SB7HQP3",
     "amazonStore": "B07SB7HQP3",
@@ -23,6 +23,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "a1fcc4a2-291a-49b2-a1e7-eed1f0e99139"
+    "artistMbid": "a1fcc4a2-291a-49b2-a1e7-eed1f0e99139",
+    "trackMbid": "ff81c53f-1d3a-4839-ae1a-8172179a4b7d",
+    "releaseCount": 1
   }
 }

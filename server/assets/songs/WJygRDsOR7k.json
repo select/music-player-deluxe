@@ -1,7 +1,7 @@
 {
   "youtubeId": "WJygRDsOR7k",
   "title": "Thievery Corporation - Liberation Front",
-  "lastFetched": "2025-11-27T12:02:54.331Z",
+  "lastFetched": "2025-11-30T20:39:05.203Z",
   "ai": {
     "title": "Liberation Front",
     "artist": "Thievery Corporation"
@@ -18,6 +18,34 @@
       "lounge",
       "downtempo",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8f7eab40-32b5-42c0-a6b7-79586298ba23",
+    "artistMbid": "a505bb48-ad65-4af4-ae47-29149715bff9",
+    "releaseCount": 8,
+    "genres": [
+      "acid jazz",
+      "chillout",
+      "club",
+      "dance",
+      "downtempo",
+      "dub",
+      "electronic",
+      "electronica",
+      "house",
+      "jazz",
+      "latin",
+      "lounge",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "downtempo",
+      "dub",
+      "electronic",
+      "electronica",
+      "idm",
+      "trip hop"
     ]
   }
 }

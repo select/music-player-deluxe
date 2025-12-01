@@ -1,7 +1,7 @@
 {
   "youtubeId": "HaXfvrFI4Mk",
   "title": "Entourage",
-  "lastFetched": "2025-11-26T10:58:54.047Z",
+  "lastFetched": "2025-11-30T21:12:00.454Z",
   "ai": {
     "title": "Entourage",
     "artist": "Youssoupha"
@@ -32,6 +32,16 @@
       "rap francais",
       "hip-hop",
       "french"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7175fb79-3bb1-4a9c-b3ff-3eca84776a30",
+    "artistMbid": "6fabf3aa-1822-49f2-b6c7-57560464696f",
+    "releaseCount": 3,
+    "artistGenres": [
+      "conscious hip hop",
+      "hip hop",
+      "pop rap"
     ]
   }
 }

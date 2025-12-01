@@ -2,7 +2,7 @@
   "youtubeId": "cduC2DZ7Iyw",
   "title": "My Shadow",
   "artist": "Jay Reatard",
-  "lastFetched": "2025-11-27T12:03:42.252Z",
+  "lastFetched": "2025-11-30T20:47:12.776Z",
   "odesli": {
     "amazonMusic": "B01MRLJ68Z",
     "amazonStore": "B01MRLJ68Z",
@@ -23,5 +23,10 @@
       "punk",
       "fucking awesome"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d56584ce-e541-467e-9eb7-a83e0f92e5a5",
+    "artistMbid": "6338a3a4-1676-4a99-b2fb-a3f0072f6b42",
+    "releaseCount": 5
   }
 }

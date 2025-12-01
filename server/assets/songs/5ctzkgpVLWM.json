@@ -2,7 +2,7 @@
   "youtubeId": "5ctzkgpVLWM",
   "title": "Truth",
   "artist": "Alex Ebert",
-  "lastFetched": "2025-11-20T09:21:14.504Z",
+  "lastFetched": "2025-11-30T22:22:02.878Z",
   "odesli": {
     "amazonMusic": "B0DFMVD4JQ",
     "amazonStore": "B0DFMVD4JQ",
@@ -15,5 +15,17 @@
   "ai": {
     "title": "Truth (432 Hz)",
     "artist": "Alexander Ebert"
+  },
+  "musicbrainz": {
+    "trackMbid": "1361d3a6-eda6-48e1-9dde-4c4c66ddc4fd",
+    "artistMbid": "a22e0fde-9f2b-4c29-aa87-5a987cb1cc7c",
+    "releaseCount": 8,
+    "genres": [
+      "power pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "rock"
+    ]
   }
 }

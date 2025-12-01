@@ -2,7 +2,7 @@
   "youtubeId": "ZmxLja-DRIw",
   "title": "Bring Me To Life",
   "artist": "Evanescence",
-  "lastFetched": "2025-11-23T14:08:38.491Z",
+  "lastFetched": "2025-11-30T22:47:50.345Z",
   "lastfm": {
     "title": "Bring Me to Life",
     "artist": "Evanescence",
@@ -26,6 +26,21 @@
       "female vocalists",
       "Evanescence",
       "Gothic"
+    ],
+    "trackMbid": "50aad549-c337-476f-ad81-9c8bf2ee93b0",
+    "artistMbid": "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+    "releaseCount": 6,
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "gothic metal",
+      "heavy metal",
+      "metal",
+      "piano rock",
+      "post-grunge",
+      "rock",
+      "symphonic metal",
+      "symphonic rock"
     ]
   }
 }

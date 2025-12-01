@@ -2,7 +2,7 @@
   "youtubeId": "HR7UE6pfmng",
   "title": "King Tut",
   "artist": "Paul Hardcastle",
-  "lastFetched": "2025-11-23T15:17:25.360Z",
+  "lastFetched": "2025-11-30T22:24:53.417Z",
   "odesli": {
     "amazonMusic": "B0042FK2SY",
     "amazonStore": "B0042FK2SY",
@@ -25,6 +25,19 @@
       "electro",
       "random av",
       "electrofunk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b6758edb-8e2f-4c6d-8237-50292c01aa69",
+    "artistMbid": "58e2800d-991d-4fe9-860b-1d27931ae8de",
+    "releaseCount": 12,
+    "artistGenres": [
+      "boogie",
+      "electro",
+      "electro-funk",
+      "electronic",
+      "electronica",
+      "smooth jazz"
     ]
   }
 }

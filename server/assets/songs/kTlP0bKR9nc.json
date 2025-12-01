@@ -1,7 +1,7 @@
 {
   "youtubeId": "kTlP0bKR9nc",
   "title": "Euzen / Metamorph (Full Album)",
-  "lastFetched": "2025-11-29T12:39:08.261Z",
+  "lastFetched": "2025-11-30T19:52:15.289Z",
   "ai": {
     "title": "Metamorph",
     "artist": "Euzen"
@@ -20,6 +20,21 @@
       "2015",
       "best of 2015",
       "folk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0915eba7-0bdf-4c8c-97cf-d34f1cbfde8f",
+    "artistMbid": "3e7334f1-bc25-433c-97c1-52a75250d97b",
+    "releaseCount": 2,
+    "genres": [
+      "electronic",
+      "folk"
+    ],
+    "artistGenres": [
+      "electronic",
+      "folk",
+      "progressive rock",
+      "trip hop"
     ]
   }
 }

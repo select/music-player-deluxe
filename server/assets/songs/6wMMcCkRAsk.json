@@ -1,7 +1,7 @@
 {
   "youtubeId": "6wMMcCkRAsk",
   "title": "Héroes del Silencio - Entre dos tierras",
-  "lastFetched": "2025-11-28T18:38:20.779Z",
+  "lastFetched": "2025-11-30T20:16:12.358Z",
   "ai": {
     "title": "Entre dos tierras",
     "artist": "Héroes del Silencio"
@@ -19,6 +19,19 @@
       "spanish",
       "spanish rock",
       "90s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "de6d334c-f1c0-4cb9-82ca-f07be1ffc5ba",
+    "artistMbid": "4bb712d6-8be9-4c09-810a-eb3bed2be345",
+    "releaseCount": 25,
+    "genres": [
+      "hard rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "rock"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "fsHcvQRRsY4",
   "title": "Map of Your Head",
   "artist": "Muse",
-  "lastFetched": "2025-11-27T12:04:45.229Z",
+  "lastFetched": "2025-11-30T20:56:06.411Z",
   "odesli": {
     "amazonMusic": "B073HVS2F6",
     "amazonStore": "B073HVS2F6",
@@ -27,6 +27,27 @@
       "rock",
       "british",
       "muse"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ad621f2d-3b8f-4e99-b6a1-5d8c72e5a66b",
+    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "alternative metal",
+      "alternative rock",
+      "art rock",
+      "neo-progressive rock",
+      "pop rock",
+      "post-grunge",
+      "progressive rock",
+      "rock",
+      "symphonic rock"
     ]
   }
 }

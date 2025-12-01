@@ -2,7 +2,7 @@
   "youtubeId": "DXAidGQUuns",
   "title": "Steady, As She Goes",
   "artist": "The Raconteurs",
-  "lastFetched": "2025-11-23T14:58:33.109Z",
+  "lastFetched": "2025-11-30T22:29:30.648Z",
   "odesli": {
     "amazonMusic": "B08W9LQC4M",
     "amazonStore": "B08W9LQC4M",
@@ -35,6 +35,26 @@
       "rock",
       "indie",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c5f4909e-1d7b-4f15-a6f6-1af376bc01c9",
+    "artistMbid": "be407b02-f3e6-4ed5-9489-f8e5f0ab36dc",
+    "releaseCount": 25,
+    "genres": [
+      "blues rock",
+      "folk rock",
+      "garage rock revival",
+      "indie rock",
+      "power pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "blues rock",
+      "garage rock revival",
+      "indie rock",
+      "rock"
     ]
   }
 }

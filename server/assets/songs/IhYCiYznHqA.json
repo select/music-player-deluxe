@@ -2,7 +2,7 @@
   "youtubeId": "IhYCiYznHqA",
   "title": "Gully Gun",
   "artist": "Ward 21",
-  "lastFetched": "2025-11-24T00:22:00.267Z",
+  "lastFetched": "2025-11-30T21:44:14.436Z",
   "odesli": {
     "amazonMusic": "B000X6WZYU",
     "amazonStore": "B000X6WZYU",
@@ -27,6 +27,14 @@
     "artist": "Ward 21",
     "artistMbid": "427b2a44-165c-4607-8597-4b90caa9f0f8",
     "tags": [
+      "dancehall"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e6f856a3-86e2-4735-b853-98945c0f1fa2",
+    "artistMbid": "427b2a44-165c-4607-8597-4b90caa9f0f8",
+    "releaseCount": 1,
+    "artistGenres": [
       "dancehall"
     ]
   }

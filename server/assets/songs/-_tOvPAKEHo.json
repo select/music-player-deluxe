@@ -2,7 +2,7 @@
   "youtubeId": "-_tOvPAKEHo",
   "title": "Dreaming",
   "artist": "The Cosmic Rays",
-  "lastFetched": "2025-11-27T12:04:28.339Z",
+  "lastFetched": "2025-11-30T20:53:42.401Z",
   "odesli": {
     "amazonMusic": "B01MA6K4GO",
     "amazonStore": "B01MA6K4GO",
@@ -22,6 +22,17 @@
       "jazz",
       "doo wop",
       "sun ra"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6bce949d-297b-4da8-86e1-12b222cddd00",
+    "artistMbid": "0473ebac-713a-454e-9885-5fdf0fa3d9ed",
+    "releaseCount": 3,
+    "genres": [
+      "avant-garde jazz",
+      "hard bop",
+      "jazz",
+      "r&b"
     ]
   }
 }

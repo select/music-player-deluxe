@@ -2,7 +2,7 @@
   "youtubeId": "V4uYWhk67v0",
   "title": "Ease & Grace",
   "artist": "Iya Terra",
-  "lastFetched": "2025-11-19T17:35:54.165Z",
+  "lastFetched": "2025-11-30T22:34:55.326Z",
   "odesli": {
     "amazonMusic": "B0968XN76N",
     "amazonStore": "B0968XN76N",
@@ -25,6 +25,14 @@
       "reggae",
       "dub",
       "roots"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "91963a01-6453-4af2-bfa8-5217e0169cf8",
+    "artistMbid": "58d63ed8-b6b7-4be5-9534-5dd661607d47",
+    "releaseCount": 1,
+    "artistGenres": [
+      "reggae"
     ]
   }
 }

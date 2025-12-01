@@ -2,7 +2,7 @@
   "youtubeId": "7kNoARaxKhY",
   "title": "Exposition 5",
   "artist": "Philippe Laurent",
-  "lastFetched": "2025-11-24T00:22:27.240Z",
+  "lastFetched": "2025-11-30T21:40:32.699Z",
   "odesli": {
     "amazonMusic": "B0059F9P9I",
     "amazonStore": "B0059F9P9I",
@@ -29,6 +29,22 @@
       "80s",
       "synth",
       "80's"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "45f5eba4-69b8-431f-9cb8-d23adde86f56",
+    "artistMbid": "2cd7dac4-8a18-4240-a283-9a04ae75d60d",
+    "releaseCount": 2,
+    "genres": [
+      "electronic",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "electronic",
+      "experimental",
+      "industrial",
+      "minimal synth",
+      "neoclassicism"
     ]
   }
 }

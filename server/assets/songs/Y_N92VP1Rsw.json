@@ -2,7 +2,7 @@
   "youtubeId": "Y_N92VP1Rsw",
   "title": "Oh My Gawd!",
   "artist": "Big Boss Man",
-  "lastFetched": "2025-11-26T11:00:41.769Z",
+  "lastFetched": "2025-11-30T21:21:24.289Z",
   "odesli": {
     "amazonMusic": "B0BH6VC3XG",
     "amazonStore": "B0BH6VC3XG",
@@ -26,5 +26,10 @@
       "blow up",
       "blow up records"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e2ec6893-64d4-48ec-a1e8-f9acc230260f",
+    "artistMbid": "950cb0de-a910-44c5-b44b-a7b9bbba7ab4",
+    "releaseCount": 2
   }
 }

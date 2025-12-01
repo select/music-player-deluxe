@@ -1,7 +1,7 @@
 {
   "youtubeId": "oaddLBnHJSA",
   "title": "Ben l'Oncle Soul « I've got you under my skin » (Frank Sinatra cover)",
-  "lastFetched": "2025-11-28T18:37:58.243Z",
+  "lastFetched": "2025-11-30T20:14:40.963Z",
   "ai": {
     "title": "I've got you under my skin",
     "artist": "Frank Sinatra"
@@ -21,6 +21,29 @@
       "oldies",
       "frank sinatra",
       "easy listening"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8e10f30d-7c0f-4351-bb3f-e5f8a7d1ca62",
+    "artistMbid": "197450cd-0124-4164-b723-3c22dd16494d",
+    "releaseCount": 4,
+    "genres": [
+      "big band",
+      "easy listening",
+      "jazz",
+      "swing",
+      "vocal jazz"
+    ],
+    "artistGenres": [
+      "big band",
+      "christmas music",
+      "easy listening",
+      "jazz",
+      "lounge",
+      "pop",
+      "swing",
+      "traditional pop",
+      "vocal jazz"
     ]
   }
 }

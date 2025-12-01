@@ -2,7 +2,7 @@
   "youtubeId": "8YoYa5N_2xU",
   "title": "No Apologies",
   "artist": "Ward 21",
-  "lastFetched": "2025-11-23T19:35:14.678Z",
+  "lastFetched": "2025-11-30T21:48:40.403Z",
   "odesli": {
     "amazonMusic": "B01APT4KYM",
     "amazonStore": "B01APT4KYM",
@@ -32,6 +32,14 @@
       "reggae",
       "ragga",
       "jamaica"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "278b6cea-f0b1-4242-bdd5-875f992f89f5",
+    "artistMbid": "427b2a44-165c-4607-8597-4b90caa9f0f8",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dancehall"
     ]
   }
 }

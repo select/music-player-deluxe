@@ -2,7 +2,7 @@
   "youtubeId": "KL1PnT3j8o8",
   "title": "Dust It Off",
   "artist": "The Dø",
-  "lastFetched": "2025-11-19T13:57:50.283Z",
+  "lastFetched": "2025-11-30T23:01:01.419Z",
   "odesli": {
     "amazonMusic": "B073NG9B7R",
     "amazonStore": "B073NG9B7R",
@@ -30,6 +30,21 @@
       "amazing",
       "soundtrack",
       "soft and sweet"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "da4e06ba-2028-45c4-a371-0cce49e93e6c",
+    "artistMbid": "c3477250-bc5f-44e9-aa0a-144dd2d7a935",
+    "releaseCount": 15,
+    "genres": [
+      "folk",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "folk rock",
+      "indie pop",
+      "indie rock"
     ]
   }
 }

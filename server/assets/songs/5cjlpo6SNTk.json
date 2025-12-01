@@ -2,7 +2,7 @@
   "youtubeId": "5cjlpo6SNTk",
   "title": "Indian Fever",
   "artist": "David Starfire",
-  "lastFetched": "2025-11-27T12:05:07.446Z",
+  "lastFetched": "2025-11-30T21:00:22.686Z",
   "odesli": {
     "amazonMusic": "B06WWL6JBT",
     "amazonStore": "B06WWL6JBT",
@@ -26,5 +26,10 @@
       "indian",
       "sitar"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fc93622d-506e-4acf-abc7-df75567e21b2",
+    "artistMbid": "0f21d379-ef5f-49df-af5e-701e8e167b4d",
+    "releaseCount": 1
   }
 }

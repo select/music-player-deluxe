@@ -2,7 +2,7 @@
   "youtubeId": "LbtRELG5BwM",
   "title": "Trance Plane",
   "artist": "Dub Spencer & Trance Hill",
-  "lastFetched": "2025-11-19T08:40:34.131Z",
+  "lastFetched": "2025-11-30T23:25:17.397Z",
   "odesli": {
     "amazonMusic": "B0CQKD4729",
     "amazonStore": "B0CQKD4729",
@@ -27,6 +27,12 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "16a848b4-732d-4fcd-bcb6-f85114004da0"
+    "artistMbid": "16a848b4-732d-4fcd-bcb6-f85114004da0",
+    "trackMbid": "d5e4ff01-c633-475d-b53f-7888786e3074",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dub",
+      "reggae"
+    ]
   }
 }

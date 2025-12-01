@@ -1,7 +1,7 @@
 {
   "youtubeId": "F28X8--2dFU",
   "title": "(I Know) I'm Losing You",
-  "lastFetched": "2025-11-26T11:01:56.147Z",
+  "lastFetched": "2025-11-30T21:27:51.248Z",
   "ai": {
     "title": "I Know I'm Losing You",
     "artist": "Rare Earth"
@@ -30,6 +30,16 @@
       "70s",
       "funk",
       "motown"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c4a64ef0-4643-4a98-a604-0e6bf6809a8b",
+    "artistMbid": "670cc8bc-a6e1-40cd-b20a-86753456d6fa",
+    "releaseCount": 1,
+    "artistGenres": [
+      "psychedelic rock",
+      "psychedelic soul",
+      "rock"
     ]
   }
 }

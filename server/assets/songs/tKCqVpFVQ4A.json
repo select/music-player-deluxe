@@ -2,7 +2,7 @@
   "youtubeId": "tKCqVpFVQ4A",
   "title": "Cień",
   "artist": "Szczyl",
-  "lastFetched": "2025-11-19T07:18:02.530Z",
+  "lastFetched": "2025-11-30T23:30:59.422Z",
   "odesli": {
     "amazonMusic": "B09H7JDBLC",
     "amazonStore": "B09H7JDBLC",
@@ -24,6 +24,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "1ecd9b3d-0081-4374-b113-a82237d42763"
+    "artistMbid": "1ecd9b3d-0081-4374-b113-a82237d42763",
+    "trackMbid": "5d4cd4e6-e5d6-41ca-aed7-791124ac2c90",
+    "releaseCount": 1
   }
 }

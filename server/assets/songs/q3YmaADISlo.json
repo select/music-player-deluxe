@@ -2,7 +2,7 @@
   "youtubeId": "q3YmaADISlo",
   "title": "Little Toy Gun",
   "artist": "honeyhoney",
-  "lastFetched": "2025-11-24T00:23:32.470Z",
+  "lastFetched": "2025-11-30T21:31:20.295Z",
   "odesli": {
     "amazonMusic": "B00B2LSE2W",
     "amazonStore": "B00B2LSE2W",
@@ -23,6 +23,20 @@
       "love at first listen",
       "female vocalists",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ef720452-729b-42f8-b4f4-ce7fd251304c",
+    "artistMbid": "449b43e3-2891-4a49-a150-3f22ea934eec",
+    "releaseCount": 5,
+    "genres": [
+      "folk rock",
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "indie folk"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ncaNlxvTFzg",
   "title": "Take Me to the Hospital",
   "artist": "The Prodigy",
-  "lastFetched": "2025-11-24T00:22:52.038Z",
+  "lastFetched": "2025-11-30T21:36:06.326Z",
   "odesli": {
     "amazonMusic": "B01M3VBIUK",
     "amazonStore": "B01M3VBIUK",
@@ -31,6 +31,31 @@
     "tags": [
       "electronic",
       "breakbeat",
+      "rave",
+      "techno"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "57fbc22c-862f-4ac5-b4ad-28cffec38ced",
+    "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
+    "releaseCount": 25,
+    "genres": [
+      "big beat",
+      "breakbeat",
+      "electro",
+      "electronic",
+      "hardcore breaks",
+      "techno",
+      "trance"
+    ],
+    "artistGenres": [
+      "big beat",
+      "breakbeat",
+      "breakbeat hardcore",
+      "dance",
+      "electronic",
+      "electronica",
+      "hardcore breaks",
       "rave",
       "techno"
     ]

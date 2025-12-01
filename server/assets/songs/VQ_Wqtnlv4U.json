@@ -1,7 +1,7 @@
 {
   "youtubeId": "VQ_Wqtnlv4U",
   "title": "Natalie Merchant - Carnival",
-  "lastFetched": "2025-11-26T11:02:36.355Z",
+  "lastFetched": "2025-11-30T21:38:14.457Z",
   "ai": {
     "title": "Carnival",
     "artist": "Natalie Merchant"
@@ -20,6 +20,30 @@
       "alternative",
       "singer-songwriter",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fa0c6485-f943-4ef2-a057-b07b80b901e3",
+    "artistMbid": "ba03daa8-0a45-4432-881f-4de8e0e05305",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "blues",
+      "folk rock",
+      "pop",
+      "rock",
+      "singer-songwriter",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "americana",
+      "chamber pop",
+      "contemporary folk",
+      "folk",
+      "folk pop",
+      "pop",
+      "pop rock",
+      "singer-songwriter"
     ]
   }
 }

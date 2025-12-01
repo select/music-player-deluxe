@@ -2,7 +2,7 @@
   "youtubeId": "rTXBCk7Jb74",
   "title": "Be-Bop",
   "artist": "Dizzy Gillespie",
-  "lastFetched": "2025-11-23T19:30:00.102Z",
+  "lastFetched": "2025-11-30T22:12:43.318Z",
   "odesli": {
     "amazonMusic": "B01LYDAD0M",
     "amazonStore": "B01LYDAD0M",
@@ -32,6 +32,19 @@
       "dizzy gillespie",
       "4-sterne",
       "artist - dizzy gillespie"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5a3bc000-d2ee-44c6-ad7e-0cb507bd8eaa",
+    "artistMbid": "e9ba8ccb-505f-4e5c-b909-65998d0d35b5",
+    "releaseCount": 1,
+    "artistGenres": [
+      "afro-cuban jazz",
+      "bebop",
+      "big band",
+      "jazz",
+      "jazz-funk",
+      "vocal jazz"
     ]
   }
 }

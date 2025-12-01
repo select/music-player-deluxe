@@ -2,7 +2,7 @@
   "youtubeId": "juxHbL_yqZk",
   "title": "The Future Is Now",
   "artist": "The Offspring",
-  "lastFetched": "2025-11-28T12:13:53.666Z",
+  "lastFetched": "2025-11-30T20:29:06.350Z",
   "odesli": {
     "amazonMusic": "B01MXS3430",
     "amazonStore": "B01MXS3430",
@@ -25,6 +25,28 @@
       "punk",
       "punk rock",
       "rock",
+      "skate punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "eb6a9b19-6aca-4107-86dc-80db30a6aa2a",
+    "artistMbid": "23a03e33-a603-404e-bcbf-2c00159d7067",
+    "releaseCount": 9,
+    "genres": [
+      "alternative rock",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "comedy rock",
+      "grunge",
+      "melodic hardcore",
+      "pop punk",
+      "punk",
+      "punk rock",
+      "rock",
+      "ska punk",
       "skate punk"
     ]
   }

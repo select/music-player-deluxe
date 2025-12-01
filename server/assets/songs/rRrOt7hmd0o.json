@@ -2,7 +2,7 @@
   "youtubeId": "rRrOt7hmd0o",
   "title": "Huckepack",
   "artist": "Grossstadtgeflüster",
-  "lastFetched": "2025-11-23T14:55:29.596Z",
+  "lastFetched": "2025-11-30T22:30:23.877Z",
   "odesli": {
     "amazonMusic": "B0DZTHR67N",
     "amazonStore": "B0DZTHR67N",
@@ -28,5 +28,10 @@
       "electroclash",
       "female vocalists"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "66b756d1-6a77-4456-b8c9-9ef39418f2a5",
+    "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f",
+    "releaseCount": 3
   }
 }

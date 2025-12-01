@@ -2,7 +2,7 @@
   "youtubeId": "MPEvlvsKY7o",
   "title": "Dansshow",
   "artist": "Lander & Adriaan",
-  "lastFetched": "2025-11-23T14:53:57.957Z",
+  "lastFetched": "2025-11-30T22:30:36.263Z",
   "odesli": {
     "amazonMusic": "B09SKS7XYR",
     "amazonStore": "B09SKS7XYR",
@@ -31,5 +31,10 @@
       "belgian",
       "belgian jazz"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2809f735-8a2e-4cba-992f-61e5f29fd23e",
+    "artistMbid": "098ed13b-283a-480f-8c70-6c8a4e906c6b",
+    "releaseCount": 2
   }
 }

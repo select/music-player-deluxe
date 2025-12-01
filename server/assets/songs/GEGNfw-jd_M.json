@@ -2,7 +2,7 @@
   "youtubeId": "GEGNfw-jd_M",
   "title": "Song for Insane Times",
   "artist": "Kevin Ayers",
-  "lastFetched": "2025-11-23T19:35:27.399Z",
+  "lastFetched": "2025-11-30T21:47:23.337Z",
   "odesli": {
     "amazonMusic": "B013SSOYA2",
     "amazonStore": "B013SSOYA2",
@@ -32,6 +32,21 @@
       "psychedelic",
       "progressive rock",
       "canterbury scene"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "67bc7c8a-dadd-4ba0-ae59-5a9aadd06cc3",
+    "artistMbid": "ad4ba77a-2382-4367-b687-89d38c58e16d",
+    "releaseCount": 9,
+    "genres": [
+      "psychedelic rock"
+    ],
+    "artistGenres": [
+      "art rock",
+      "canterbury scene",
+      "psychedelic pop",
+      "psychedelic rock",
+      "rock"
     ]
   }
 }

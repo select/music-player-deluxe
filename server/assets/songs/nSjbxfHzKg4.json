@@ -1,7 +1,7 @@
 {
   "youtubeId": "nSjbxfHzKg4",
   "title": "The Marcus King Band - Rita Is Gone - 2/27/2017 - Paste Studios, New York, NY",
-  "lastFetched": "2025-11-29T12:39:38.354Z",
+  "lastFetched": "2025-11-30T19:59:59.420Z",
   "ai": {
     "title": "Rita Is Gone",
     "artist": "The Marcus King Band"
@@ -17,6 +17,14 @@
     "tags": [
       "blues rock",
       "southern rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ec4f4c63-578b-4d90-93ee-e3bb2efccdb0",
+    "artistMbid": "15f8b799-4c43-4f39-8ceb-9cdce7051b51",
+    "releaseCount": 6,
+    "artistGenres": [
+      "blues rock"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "SDObiDMLQJg",
   "title": "Tosca - No hassle - Knoll (live)",
-  "lastFetched": "2025-11-28T18:35:59.865Z",
+  "lastFetched": "2025-11-30T20:06:42.869Z",
   "ai": {
     "title": "No hassle",
     "artist": "Tosca"
@@ -17,6 +17,24 @@
     "tags": [
       "groovesalad",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6d5373f2-e3ec-41ea-aee9-7e76540a2983",
+    "artistMbid": "3231d12a-c42d-4977-b2a4-a6e4d87978e1",
+    "releaseCount": 3,
+    "genres": [
+      "ambient",
+      "downtempo",
+      "electronic"
+    ],
+    "artistGenres": [
+      "ambient techno",
+      "chillout",
+      "downtempo",
+      "electronic",
+      "electronica",
+      "trip hop"
     ]
   }
 }

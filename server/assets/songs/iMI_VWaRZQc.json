@@ -2,7 +2,7 @@
   "youtubeId": "iMI_VWaRZQc",
   "title": "Tivoli",
   "artist": "Magnifico",
-  "lastFetched": "2025-11-29T13:49:01.789Z",
+  "lastFetched": "2025-11-30T19:57:16.848Z",
   "odesli": {
     "soundcloud": "magnifico-sc/tivoli-shabadaba-mix-feat",
     "tidal": "443733571",
@@ -24,5 +24,10 @@
       "slovenia",
       "rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cf0ec116-8a3c-43a8-b747-16aebf10976a",
+    "artistMbid": "85af933d-6de6-4d2a-aa1e-ba58b6d670d9",
+    "releaseCount": 5
   }
 }

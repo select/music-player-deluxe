@@ -2,7 +2,7 @@
   "youtubeId": "T0lwr_jcGZQ",
   "title": "In Hell I'll Be In Good Company",
   "artist": "The Dead South",
-  "lastFetched": "2025-11-23T14:09:08.903Z",
+  "lastFetched": "2025-11-30T22:47:25.675Z",
   "lastfm": {
     "title": "In Hell I'll Be in Good Company",
     "artist": "The Dead South",
@@ -16,6 +16,22 @@
       "country",
       "folk",
       "banned"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "379df606-4685-4b5c-98a2-cf93ad0dec13",
+    "artistMbid": "ffb316f0-0df3-4f9c-b0e0-945187b6e964",
+    "releaseCount": 7,
+    "genres": [
+      "bluegrass",
+      "folk"
+    ],
+    "artistGenres": [
+      "americana",
+      "bluegrass",
+      "folk",
+      "folk rock",
+      "rock"
     ]
   }
 }

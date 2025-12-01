@@ -2,7 +2,7 @@
   "youtubeId": "MtrOYsNCPmg",
   "title": "Radio Nowhere",
   "artist": "Bruce Springsteen",
-  "lastFetched": "2025-11-28T18:35:29.554Z",
+  "lastFetched": "2025-11-30T20:05:03.073Z",
   "odesli": {
     "amazonMusic": "B0788BBF4D",
     "amazonStore": "B0788BBF4D",
@@ -26,6 +26,27 @@
       "classic rock",
       "singer-songwriter",
       "bruce springsteen"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4b090e66-b405-4278-8826-eedd0c6b6f31",
+    "artistMbid": "70248960-cb53-4ea4-943a-edb18f7d336f",
+    "releaseCount": 25,
+    "genres": [
+      "classic rock",
+      "rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "americana",
+      "aor",
+      "contemporary folk",
+      "folk",
+      "heartland rock",
+      "pop rock",
+      "rock",
+      "rock and roll",
+      "singer-songwriter"
     ]
   }
 }

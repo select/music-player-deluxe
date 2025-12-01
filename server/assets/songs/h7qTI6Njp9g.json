@@ -2,7 +2,7 @@
   "youtubeId": "h7qTI6Njp9g",
   "title": "Meine",
   "artist": "Daso",
-  "lastFetched": "2025-11-29T13:49:10.372Z",
+  "lastFetched": "2025-11-30T19:58:10.833Z",
   "odesli": {
     "amazonMusic": "B08FCSGY7F",
     "amazonStore": "B08FCSGY7F",
@@ -28,6 +28,20 @@
       "tech house",
       "deep house",
       "electro"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d62aca22-793d-457f-92a2-66350ee73243",
+    "artistMbid": "26368771-1c00-476e-867d-da7dad8d6a48",
+    "releaseCount": 2,
+    "genres": [
+      "electronic",
+      "tech house",
+      "techno"
+    ],
+    "artistGenres": [
+      "edm",
+      "tech house"
     ]
   }
 }

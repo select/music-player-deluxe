@@ -2,7 +2,7 @@
   "youtubeId": "_p2NvO6KrBs",
   "title": "solitude",
   "artist": "M83",
-  "lastFetched": "2025-11-19T09:45:34.826Z",
+  "lastFetched": "2025-11-30T23:04:33.875Z",
   "odesli": {
     "amazonMusic": "B087TJ46NM",
     "amazonStore": "B087TJ46NM",
@@ -25,5 +25,35 @@
   "ai": {
     "title": "Solitude (Felsmann + Tiley Reinterpretation)",
     "artist": "M83"
+  },
+  "musicbrainz": {
+    "trackMbid": "23ca6dc3-b4ae-4159-8cec-2d88a99492e8",
+    "artistMbid": "6d7b7cd4-254b-4c25-83f6-dd20f98ceacd",
+    "releaseCount": 8,
+    "genres": [
+      "art pop",
+      "chamber pop",
+      "dream pop",
+      "sophisti-pop"
+    ],
+    "artistGenres": [
+      "ambient",
+      "ambient pop",
+      "dance",
+      "dream pop",
+      "electro",
+      "electronic",
+      "electronic rock",
+      "electronica",
+      "indietronica",
+      "new wave",
+      "pop",
+      "post-rock",
+      "shoegaze",
+      "synth-pop",
+      "synthwave",
+      "tech house",
+      "techno"
+    ]
   }
 }

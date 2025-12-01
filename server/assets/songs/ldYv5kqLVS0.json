@@ -2,7 +2,7 @@
   "youtubeId": "ldYv5kqLVS0",
   "title": "Joe Blues",
   "artist": "The Moving Sidewalks",
-  "lastFetched": "2025-11-23T14:03:00.465Z",
+  "lastFetched": "2025-11-30T22:49:56.281Z",
   "lastfm": {
     "title": "Joe Blues",
     "artist": "The Moving Sidewalks",
@@ -14,6 +14,22 @@
     "tags": [
       "blues",
       "guitar",
+      "psychedelic rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "01eb2f92-8f6a-4f1f-9fff-4bfbe7afd4e5",
+    "artistMbid": "238edbd9-467b-4e14-8549-9cc9b05be533",
+    "releaseCount": 12,
+    "genres": [
+      "arena rock",
+      "boogie rock",
+      "dance-rock",
+      "hard rock",
+      "southern rock"
+    ],
+    "artistGenres": [
+      "garage rock",
       "psychedelic rock"
     ]
   }

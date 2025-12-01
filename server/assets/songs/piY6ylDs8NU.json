@@ -2,7 +2,7 @@
   "youtubeId": "piY6ylDs8NU",
   "title": "London Boy",
   "artist": "Dizzee Rascal",
-  "lastFetched": "2025-11-19T15:55:37.079Z",
+  "lastFetched": "2025-11-30T22:51:08.999Z",
   "odesli": {
     "amazonMusic": "B0CQMHBWQ5",
     "amazonStore": "B0CQMHBWQ5",
@@ -25,6 +25,22 @@
       "hip-hop",
       "rap",
       "british"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6fde2b83-eebe-46fa-a0be-06363cf3ee82",
+    "artistMbid": "1a99cc88-aea3-4fe3-96b9-20791667f65f",
+    "releaseCount": 3,
+    "artistGenres": [
+      "bassline",
+      "fidget house",
+      "grime",
+      "hip hop",
+      "hip house",
+      "pop rap",
+      "r&b",
+      "trance",
+      "uk garage"
     ]
   }
 }

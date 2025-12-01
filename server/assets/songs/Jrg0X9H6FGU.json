@@ -2,7 +2,7 @@
   "youtubeId": "Jrg0X9H6FGU",
   "title": "Sweet Home Alabama",
   "artist": "Leningrad Cowboys",
-  "lastFetched": "2025-11-23T14:53:26.521Z",
+  "lastFetched": "2025-11-30T22:30:40.502Z",
   "lastfm": {
     "title": "Sweet Home Alabama",
     "artist": "Leningrad Cowboys",
@@ -17,6 +17,21 @@
       "cover",
       "90s",
       "lynyrd skynyrd cover"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "45bccc09-3ea8-4f02-849b-e52f57267a1b",
+    "artistMbid": "bd872e2f-3dce-4932-b8dc-91cf949cfbb5",
+    "releaseCount": 6,
+    "genres": [
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "comedy rock",
+      "folk rock",
+      "hard rock",
+      "rock"
     ]
   }
 }

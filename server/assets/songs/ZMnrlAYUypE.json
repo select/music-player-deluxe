@@ -2,7 +2,7 @@
   "youtubeId": "ZMnrlAYUypE",
   "title": "State of the Nation",
   "artist": "Fad Gadget",
-  "lastFetched": "2025-11-23T19:33:26.543Z",
+  "lastFetched": "2025-11-30T21:58:01.934Z",
   "odesli": {
     "amazonMusic": "B00IL4I6SU",
     "amazonStore": "B00IL4I6SU",
@@ -25,6 +25,30 @@
       "80s",
       "post-punk",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "00ff5be6-0b26-46b6-9607-29a78a59afb0",
+    "artistMbid": "5c96def1-68a5-4aa3-8f71-3ae427a33eb4",
+    "releaseCount": 12,
+    "genres": [
+      "alternative rock",
+      "ebm",
+      "electro",
+      "electronic",
+      "new wave",
+      "punk",
+      "rock",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "industrial rock",
+      "minimal synth",
+      "minimal wave",
+      "new wave",
+      "post-punk",
+      "rock",
+      "synth-pop"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "5WFBppsP9C8",
   "title": "The Trashmen - Surfin Bird - The Bird is the Word - 1963 (ORIGINAL LIVE VIDEO)",
-  "lastFetched": "2025-11-26T11:02:55.725Z",
+  "lastFetched": "2025-11-30T21:45:43.973Z",
   "ai": {
     "title": "Surfin' Bird",
     "artist": "The Trashmen"
@@ -19,6 +19,17 @@
       "surf",
       "garage rock",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "91ba20e7-e81c-4ce2-8751-6b50e15c5579",
+    "artistMbid": "1f190f39-89cc-426f-ac40-56c31ebf306f",
+    "releaseCount": 1,
+    "artistGenres": [
+      "frat rock",
+      "garage rock",
+      "rock and roll",
+      "surf rock"
     ]
   }
 }

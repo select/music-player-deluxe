@@ -2,7 +2,7 @@
   "youtubeId": "w8CUfVtrAT8",
   "title": "Come Baby Come",
   "artist": "K7",
-  "lastFetched": "2025-11-23T15:41:23.172Z",
+  "lastFetched": "2025-11-30T22:18:39.501Z",
   "lastfm": {
     "title": "Come Baby Come",
     "artist": "K7",
@@ -17,5 +17,10 @@
       "hip hop",
       "dance"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cc314687-bb27-4a2a-9758-3aaa33155317",
+    "artistMbid": "326060b6-1ddd-44c8-8d52-3a5f56219036",
+    "releaseCount": 3
   }
 }

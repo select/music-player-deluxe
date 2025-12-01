@@ -2,7 +2,7 @@
   "youtubeId": "NU9JRuIJoyA",
   "title": "Catwalk",
   "artist": "Art Of Noise",
-  "lastFetched": "2025-11-23T15:16:55.049Z",
+  "lastFetched": "2025-11-30T22:24:58.474Z",
   "odesli": {
     "amazonMusic": "B073RJQ1BC",
     "amazonStore": "B073RJQ1BC",
@@ -33,6 +33,25 @@
       "rock",
       "czhit",
       "progressive rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "70ed9935-1576-4415-901e-da13e5eb2aaa",
+    "artistMbid": "be899560-1570-402e-9f95-3182898a8b70",
+    "releaseCount": 10,
+    "genres": [
+      "ambient",
+      "electronic",
+      "leftfield",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "art pop",
+      "avant-garde pop",
+      "electronic",
+      "plunderphonics",
+      "sampledelia",
+      "synth-pop"
     ]
   }
 }

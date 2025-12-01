@@ -1,7 +1,7 @@
 {
   "youtubeId": "9gROYU2j-40",
   "title": "Devendra Banhart - Baby (Video)",
-  "lastFetched": "2025-11-26T11:02:31.235Z",
+  "lastFetched": "2025-11-30T21:35:49.841Z",
   "ai": {
     "title": "Baby",
     "artist": "Devendra Banhart"
@@ -18,6 +18,23 @@
       "folk",
       "love",
       "indie",
+      "singer-songwriter"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b5debb3e-d107-42d1-b2cf-b6caaeca2895",
+    "artistMbid": "0110e63e-0a9b-4818-af8e-41e180c20b9a",
+    "releaseCount": 7,
+    "genres": [
+      "folk",
+      "freak folk",
+      "rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "folk rock",
+      "freak folk",
+      "indie folk",
       "singer-songwriter"
     ]
   }

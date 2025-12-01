@@ -2,7 +2,7 @@
   "youtubeId": "HPHdCroE0fY",
   "title": "Onprangering",
   "artist": "die ärzte",
-  "lastFetched": "2025-11-24T00:21:48.328Z",
+  "lastFetched": "2025-11-30T21:45:53.192Z",
   "odesli": {
     "amazonMusic": "B08C268ZX8",
     "amazonStore": "B08C268ZX8",
@@ -27,6 +27,21 @@
       "deutsch",
       "german artist",
       "punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "86303fe9-a857-47b2-94bc-0fb6ad128c88",
+    "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
+    "releaseCount": 3,
+    "genres": [
+      "punk"
+    ],
+    "artistGenres": [
+      "neue deutsche welle",
+      "pop punk",
+      "punk",
+      "punk rock",
+      "rock"
     ]
   }
 }

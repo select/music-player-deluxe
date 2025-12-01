@@ -2,7 +2,7 @@
   "youtubeId": "olFpK19xaWI",
   "title": "Tavern Music",
   "artist": "Inon Zur",
-  "lastFetched": "2025-11-28T18:39:04.586Z",
+  "lastFetched": "2025-11-30T20:18:23.109Z",
   "odesli": {
     "amazonMusic": "B07RRD22MF",
     "amazonStore": "B07RRD22MF",
@@ -26,6 +26,16 @@
       "vgm",
       "game ost",
       "dragon age ii"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3dbbe721-d760-41a9-bc6a-22ddd3a4e89d",
+    "artistMbid": "ba23bac1-2b00-43fb-95e5-c3c0fd286e7e",
+    "releaseCount": 3,
+    "genres": [
+      "classical",
+      "instrumental",
+      "modern classical"
     ]
   }
 }

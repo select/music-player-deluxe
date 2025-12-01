@@ -2,7 +2,7 @@
   "youtubeId": "ioMuDdNPIxQ",
   "title": "No Waves",
   "artist": "FIDLAR",
-  "lastFetched": "2025-11-28T12:14:39.069Z",
+  "lastFetched": "2025-11-30T20:40:36.074Z",
   "odesli": {
     "amazonMusic": "B0CPTL389Z",
     "amazonStore": "B0CPTL389Z",
@@ -22,5 +22,24 @@
     "artist": "FIDLAR",
     "mbid": "0672162f-94d2-46ad-b2ca-7e2eeb493e06",
     "artistMbid": "6910222b-74c2-48fc-8c13-a6b88cc28fc0"
+  },
+  "musicbrainz": {
+    "trackMbid": "8ffaf7d6-c885-44cf-b306-15a427937fc1",
+    "artistMbid": "6910222b-74c2-48fc-8c13-a6b88cc28fc0",
+    "releaseCount": 8,
+    "genres": [
+      "alternative rock",
+      "garage rock",
+      "indie rock",
+      "punk",
+      "punk rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "garage punk",
+      "garage rock",
+      "skate punk",
+      "surf"
+    ]
   }
 }

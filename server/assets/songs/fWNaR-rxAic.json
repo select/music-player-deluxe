@@ -2,7 +2,7 @@
   "youtubeId": "fWNaR-rxAic",
   "title": "Call Me Maybe",
   "artist": "Carly Rae Jepsen",
-  "lastFetched": "2025-11-30T17:44:50.569Z",
+  "lastFetched": "2025-11-30T19:35:14.596Z",
   "odesli": {
     "amazonMusic": "B007BZM3HK",
     "amazonStore": "B007BZM3HK",
@@ -34,5 +34,30 @@
     "title": "Call Me Maybe",
     "artist": "Carly Rae Jepsen",
     "artistMbid": "09887aa7-226e-4ecc-9a0c-02d2ae5777e1"
+  },
+  "musicbrainz": {
+    "trackMbid": "cac5b2b9-5fda-4856-b71a-31c94bb5da9d",
+    "artistMbid": "09887aa7-226e-4ecc-9a0c-02d2ae5777e1",
+    "releaseCount": 25,
+    "genres": [
+      "dance-pop",
+      "electronic",
+      "europop",
+      "house",
+      "jazz",
+      "nu disco",
+      "pop",
+      "teen pop"
+    ],
+    "artistGenres": [
+      "dance",
+      "dance-pop",
+      "disco",
+      "electropop",
+      "folk",
+      "pop",
+      "pop rock",
+      "synth-pop"
+    ]
   }
 }

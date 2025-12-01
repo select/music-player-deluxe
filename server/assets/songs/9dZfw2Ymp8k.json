@@ -2,7 +2,7 @@
   "youtubeId": "9dZfw2Ymp8k",
   "title": "Brame",
   "artist": "I Muvrini",
-  "lastFetched": "2025-11-29T13:47:54.716Z",
+  "lastFetched": "2025-11-30T19:48:36.984Z",
   "odesli": {
     "amazonMusic": "B004AZC2ZW",
     "amazonStore": "B004AZC2ZW",
@@ -24,6 +24,15 @@
       "folk",
       "world music",
       "corsican"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "593110d4-82a7-464c-a292-055acaab3545",
+    "artistMbid": "42e8e932-4eb2-4ec0-8d6a-83bd19e7ec8f",
+    "releaseCount": 1,
+    "artistGenres": [
+      "folk",
+      "worldbeat"
     ]
   }
 }

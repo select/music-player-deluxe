@@ -2,7 +2,7 @@
   "youtubeId": "zGNM6bkmjqc",
   "title": "En Passant",
   "artist": "Dub Trio",
-  "lastFetched": "2025-11-23T15:06:40.800Z",
+  "lastFetched": "2025-11-30T22:27:34.279Z",
   "odesli": {
     "amazonMusic": "B005P4GA0K",
     "amazonStore": "B005P4GA0K",
@@ -24,6 +24,27 @@
     "tags": [
       "personal favourites",
       "laika-fs"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9c93cb43-34b7-4e90-b42b-becceda3b7de",
+    "artistMbid": "abe8e2a6-17f3-420b-8e62-805cf8dd74fd",
+    "releaseCount": 3,
+    "genres": [
+      "dub",
+      "electronic",
+      "post-rock",
+      "punk",
+      "reggae",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "dub",
+      "experimental",
+      "instrumental",
+      "metal",
+      "rock"
     ]
   }
 }

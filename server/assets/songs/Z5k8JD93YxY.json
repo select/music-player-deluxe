@@ -1,7 +1,7 @@
 {
   "youtubeId": "Z5k8JD93YxY",
   "title": "Kent - Revolt III [lyrics]",
-  "lastFetched": "2025-11-27T12:01:49.101Z",
+  "lastFetched": "2025-11-30T20:32:45.080Z",
   "ai": {
     "title": "Revolt III",
     "artist": "Kent"
@@ -17,6 +17,17 @@
     "tags": [
       "rock",
       "swedish"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "75847f2a-ffef-4ff8-a8c6-fc44b4d993c5",
+    "artistMbid": "c2764f38-febf-4e47-a0d7-687980aabf38",
+    "releaseCount": 5,
+    "artistGenres": [
+      "alternative rock",
+      "indie rock",
+      "pop",
+      "rock"
     ]
   }
 }

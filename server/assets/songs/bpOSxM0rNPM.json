@@ -2,7 +2,7 @@
   "youtubeId": "bpOSxM0rNPM",
   "title": "Do I Wanna Know?",
   "artist": "Arctic Monkeys",
-  "lastFetched": "2025-11-27T12:04:30.787Z",
+  "lastFetched": "2025-11-30T20:54:08.039Z",
   "odesli": {
     "amazonMusic": "B00MAZ7RAO",
     "amazonStore": "B00MAZ7RAO",
@@ -34,5 +34,27 @@
     "artist": "Arctic Monkeys",
     "mbid": "02b30f92-a7f6-455f-b3bb-23bde33c187d",
     "artistMbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a"
+  },
+  "musicbrainz": {
+    "trackMbid": "98c2b337-e12e-4a1f-b8ba-9d67e6a70d04",
+    "artistMbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+    "releaseCount": 2,
+    "genres": [
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "art rock",
+      "baroque pop",
+      "garage rock",
+      "garage rock revival",
+      "indie rock",
+      "neo-psychedelia",
+      "post-punk revival",
+      "psychedelic pop",
+      "psychedelic rock"
+    ]
   }
 }

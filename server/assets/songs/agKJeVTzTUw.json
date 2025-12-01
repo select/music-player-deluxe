@@ -2,7 +2,7 @@
   "youtubeId": "agKJeVTzTUw",
   "title": "Instrument of War",
   "artist": "Vera Sola",
-  "lastFetched": "2025-11-19T17:27:43.459Z",
+  "lastFetched": "2025-11-30T22:37:12.896Z",
   "odesli": {
     "amazonMusic": "B0CMJWFRSY",
     "amazonStore": "B0CMJWFRSY",
@@ -26,5 +26,10 @@
       "gothic country",
       "chamber folk"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d3816c3a-bcae-4acb-a877-b450f9af46ae",
+    "artistMbid": "272b5bc9-90a3-4a8b-a263-9e933903fdeb",
+    "releaseCount": 2
   }
 }

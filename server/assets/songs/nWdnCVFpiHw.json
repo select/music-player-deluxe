@@ -2,7 +2,7 @@
   "youtubeId": "nWdnCVFpiHw",
   "title": "End of the Road",
   "artist": "Noga Erez",
-  "lastFetched": "2025-11-23T14:00:23.846Z",
+  "lastFetched": "2025-11-30T22:50:26.341Z",
   "lastfm": {
     "title": "End of the Road",
     "artist": "Noga Erez",
@@ -17,6 +17,15 @@
       "female vocalists",
       "experimental",
       "israel"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5a8d4ccc-f9c5-4e70-ba85-2c36b925d909",
+    "artistMbid": "06479724-ee7d-471e-a3d4-4554330a0293",
+    "releaseCount": 2,
+    "artistGenres": [
+      "electronic",
+      "pop"
     ]
   }
 }

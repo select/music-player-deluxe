@@ -2,7 +2,7 @@
   "youtubeId": "VzKm-8VUscQ",
   "title": "Jetzt Geht Wieder Alles Von Vorne Los",
   "artist": "Tocotronic",
-  "lastFetched": "2025-11-19T11:57:54.656Z",
+  "lastFetched": "2025-11-30T23:11:45.710Z",
   "odesli": {
     "amazonMusic": "B08VQ81VZ1",
     "amazonStore": "B08VQ81VZ1",
@@ -23,6 +23,18 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19"
+    "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19",
+    "trackMbid": "682be815-704c-4840-8549-4c9d4d0378d3",
+    "releaseCount": 5,
+    "genres": [
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "hamburger schule",
+      "indie rock",
+      "rock"
+    ]
   }
 }

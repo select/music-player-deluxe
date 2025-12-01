@@ -2,7 +2,7 @@
   "youtubeId": "4kz0GIJbwIo",
   "title": "Funky Stuff",
   "artist": "Kool & The Gang",
-  "lastFetched": "2025-11-23T15:42:54.978Z",
+  "lastFetched": "2025-11-30T22:18:17.455Z",
   "odesli": {
     "amazonMusic": "B000VZRDIG",
     "amazonStore": "B000VZRDIG",
@@ -33,6 +33,22 @@
       "funk",
       "soul",
       "70s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "18487742-cfc8-405c-bf64-4c93f2353f4f",
+    "artistMbid": "2469950a-f0ca-425a-bfbc-baf55ea3afde",
+    "releaseCount": 3,
+    "artistGenres": [
+      "contemporary r&b",
+      "disco",
+      "electronic",
+      "funk",
+      "jazz",
+      "jazz-funk",
+      "pop soul",
+      "soul",
+      "synth funk"
     ]
   }
 }

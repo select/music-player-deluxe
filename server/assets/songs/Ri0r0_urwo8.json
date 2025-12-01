@@ -2,7 +2,7 @@
   "youtubeId": "Ri0r0_urwo8",
   "title": "Income Tax",
   "artist": "P'tit Belliveau",
-  "lastFetched": "2025-11-19T17:23:39.129Z",
+  "lastFetched": "2025-11-30T22:38:08.240Z",
   "odesli": {
     "amazonMusic": "B0DS2TH9S6",
     "amazonStore": "B0DS2TH9S6",
@@ -29,6 +29,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "210fee1d-8b8e-4383-8e05-7772e7cf329d"
+    "artistMbid": "210fee1d-8b8e-4383-8e05-7772e7cf329d",
+    "trackMbid": "39087d8b-615b-4393-aa05-0e74b9cc7115",
+    "releaseCount": 2
   }
 }

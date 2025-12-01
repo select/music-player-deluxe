@@ -2,7 +2,7 @@
   "youtubeId": "c_OmTGSO2BM",
   "title": "King",
   "artist": "Gerda",
-  "lastFetched": "2025-11-19T17:06:49.715Z",
+  "lastFetched": "2025-11-30T22:42:05.154Z",
   "odesli": {
     "amazonMusic": "B0CWHKVC5G",
     "amazonStore": "B0CWHKVC5G",
@@ -27,6 +27,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "982cd0c4-1598-4e8d-a243-ad4887d5f11f"
+    "artistMbid": "77183dcc-1e3d-494a-b142-6954501eee22",
+    "trackMbid": "b6df92d6-8ec6-43f0-aa79-c64a85d9eead",
+    "releaseCount": 3
   }
 }

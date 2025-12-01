@@ -2,7 +2,7 @@
   "youtubeId": "FFRWWUn7TSw",
   "title": "Been to the Future",
   "artist": "3",
-  "lastFetched": "2025-11-28T12:14:27.088Z",
+  "lastFetched": "2025-11-30T20:37:19.284Z",
   "odesli": {
     "amazonMusic": "B005E7D0P6",
     "amazonStore": "B005E7D0P6",
@@ -24,6 +24,22 @@
       "progressive rock",
       "alternative",
       "00s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9dd076d7-23ba-4199-9964-109036450a04",
+    "artistMbid": "3c23d0bd-b361-4456-ad79-ccc5643f3b93",
+    "releaseCount": 4,
+    "genres": [
+      "alternative rock",
+      "heavy metal",
+      "metal",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "crossover prog",
+      "progressive rock"
     ]
   }
 }

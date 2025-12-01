@@ -2,7 +2,7 @@
   "youtubeId": "kJQP7kiw5Fk",
   "title": "Despacito",
   "artist": "Luis Fonsi",
-  "lastFetched": "2025-11-27T12:05:14.102Z",
+  "lastFetched": "2025-11-30T21:01:02.232Z",
   "odesli": {
     "amazonMusic": "B08Z4613QV",
     "amazonStore": "B08Z4613QV",
@@ -33,5 +33,15 @@
     "title": "Despacito",
     "artist": "Luis Fonsi",
     "artistMbid": "d68fda90-ab8d-4799-be56-317ba4ae700f"
+  },
+  "musicbrainz": {
+    "trackMbid": "c6a8c348-d931-47ec-9ae0-866fb5484158",
+    "artistMbid": "d68fda90-ab8d-4799-be56-317ba4ae700f",
+    "releaseCount": 25,
+    "artistGenres": [
+      "latin",
+      "latin pop",
+      "pop"
+    ]
   }
 }

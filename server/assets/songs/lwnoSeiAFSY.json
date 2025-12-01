@@ -2,7 +2,7 @@
   "youtubeId": "lwnoSeiAFSY",
   "title": "Lowlife",
   "artist": "That Poppy",
-  "lastFetched": "2025-11-30T17:44:46.780Z",
+  "lastFetched": "2025-11-30T19:34:52.128Z",
   "odesli": {
     "amazonMusic": "B01GJXN2I8",
     "amazonStore": "B01GJXN2I8",
@@ -28,6 +28,25 @@
       "groovy",
       "reggae",
       "indie pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7ef56f48-0933-4425-a192-6eb097310936",
+    "artistMbid": "4ad8190b-d2fd-46f8-a3d9-c0f55c034976",
+    "releaseCount": 9,
+    "artistGenres": [
+      "alternative metal",
+      "ambient",
+      "art pop",
+      "dance-pop",
+      "electropop",
+      "indietronica",
+      "industrial metal",
+      "metal",
+      "metalcore",
+      "nu metal",
+      "pop",
+      "pop metal"
     ]
   }
 }

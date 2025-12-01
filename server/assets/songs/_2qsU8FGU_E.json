@@ -2,7 +2,7 @@
   "youtubeId": "_2qsU8FGU_E",
   "title": "Tieduprightnow",
   "artist": "Parcels",
-  "lastFetched": "2025-11-28T18:36:38.982Z",
+  "lastFetched": "2025-11-30T20:09:13.989Z",
   "odesli": {
     "amazonMusic": "B07H2PP135",
     "amazonStore": "B07H2PP135",
@@ -35,5 +35,16 @@
     "title": "Tieduprightnow",
     "artist": "Parcels",
     "artistMbid": "5318e774-f5b6-4ee0-82cb-4dcf398c3ff8"
+  },
+  "musicbrainz": {
+    "trackMbid": "f3818f24-cfd9-4bfe-9762-8fcdc0c4a8d1",
+    "artistMbid": "5318e774-f5b6-4ee0-82cb-4dcf398c3ff8",
+    "releaseCount": 3,
+    "artistGenres": [
+      "boogie",
+      "disco",
+      "indietronica",
+      "nu disco"
+    ]
   }
 }

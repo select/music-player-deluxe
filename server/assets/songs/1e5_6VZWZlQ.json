@@ -2,7 +2,7 @@
   "youtubeId": "1e5_6VZWZlQ",
   "title": "Guaglione",
   "artist": "Marino Marini",
-  "lastFetched": "2025-11-19T07:35:19.444Z",
+  "lastFetched": "2025-11-30T23:29:25.119Z",
   "odesli": {
     "amazonMusic": "B000QODVYM",
     "amazonStore": "B000QODVYM",
@@ -33,6 +33,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "fea9402e-51e6-49e3-b11a-f8cefd845fc4"
+    "artistMbid": "fea9402e-51e6-49e3-b11a-f8cefd845fc4",
+    "trackMbid": "6c9b3a53-ecb7-4625-b060-cc61e46d4f1d",
+    "releaseCount": 4
   }
 }

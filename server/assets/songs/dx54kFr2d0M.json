@@ -1,7 +1,7 @@
 {
   "youtubeId": "dx54kFr2d0M",
   "title": "Deadsoul Tribe - A Stairway to Nowhere",
-  "lastFetched": "2025-11-26T10:58:56.089Z",
+  "lastFetched": "2025-11-30T21:12:03.369Z",
   "ai": {
     "title": "A Stairway to Nowhere",
     "artist": "Deadsoul Tribe"
@@ -14,6 +14,15 @@
     "artist": "Deadsoul Tribe",
     "tags": [
       "progressive metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6fdabcfd-1ed0-49b4-b4ef-25fbe394bba9",
+    "artistMbid": "c98ca195-b19a-47a2-ab96-667cc21afd8b",
+    "releaseCount": 3,
+    "artistGenres": [
+      "progressive metal",
+      "progressive rock"
     ]
   }
 }

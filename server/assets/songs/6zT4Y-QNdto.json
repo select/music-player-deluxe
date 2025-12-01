@@ -2,7 +2,7 @@
   "youtubeId": "6zT4Y-QNdto",
   "title": "Fly Like an Eagle",
   "artist": "Steve Miller Band",
-  "lastFetched": "2025-11-19T10:49:01.288Z",
+  "lastFetched": "2025-11-30T23:17:14.304Z",
   "lastfm": {
     "id": "Steve+Miller+Band/_/Fly+Like+an+Eagle",
     "listeners": 490804,
@@ -16,6 +16,16 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "e57f0cac-4f56-473c-8d7e-d93f753fd586"
+    "artistMbid": "e57f0cac-4f56-473c-8d7e-d93f753fd586",
+    "trackMbid": "2ecbda97-8f95-4afa-b125-9e883dd35355",
+    "releaseCount": 3,
+    "artistGenres": [
+      "blues rock",
+      "country rock",
+      "new wave",
+      "pop rock",
+      "psychedelic rock",
+      "rock"
+    ]
   }
 }

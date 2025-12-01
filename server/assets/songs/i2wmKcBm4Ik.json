@@ -1,7 +1,7 @@
 {
   "youtubeId": "i2wmKcBm4Ik",
   "title": "Jacques Brel - Ne Me Quitte Pas",
-  "lastFetched": "2025-11-26T10:57:30.884Z",
+  "lastFetched": "2025-11-30T21:03:18.590Z",
   "ai": {
     "title": "Ne Me Quitte Pas",
     "artist": "Jacques Brel"
@@ -21,6 +21,20 @@
       "chanson francaise",
       "jacques brel",
       "belgian"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c3465cb3-5e31-499f-ae2a-4378609870dc",
+    "artistMbid": "91eda19b-1437-42cd-b7af-69df24b7f275",
+    "releaseCount": 25,
+    "genres": [
+      "chanson française",
+      "pop"
+    ],
+    "artistGenres": [
+      "chanson française",
+      "chanson à texte",
+      "singer-songwriter"
     ]
   }
 }

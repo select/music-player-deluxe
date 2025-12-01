@@ -2,7 +2,7 @@
   "youtubeId": "2zNdlwLMaVo",
   "title": "Kesta",
   "artist": "Lazuli",
-  "lastFetched": "2025-11-19T11:18:09.954Z",
+  "lastFetched": "2025-11-30T23:15:21.293Z",
   "odesli": {
     "amazonMusic": "B09TPT4ZXB",
     "amazonStore": "B09TPT4ZXB",
@@ -22,5 +22,10 @@
       "french",
       "rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "73e07f57-54c3-4cb2-b031-185c536bedf9",
+    "artistMbid": "eef0366a-2485-44c9-86fd-3abef396cfbe",
+    "releaseCount": 1
   }
 }

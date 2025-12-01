@@ -2,7 +2,7 @@
   "youtubeId": "JTZ6v0G1um4",
   "title": "Dolphin Dream",
   "artist": "Larry Heard",
-  "lastFetched": "2025-11-23T14:06:36.942Z",
+  "lastFetched": "2025-11-30T22:48:25.468Z",
   "lastfm": {
     "title": "Dolphin Dream",
     "artist": "Larry Heard",
@@ -17,6 +17,15 @@
       "dreamy",
       "beatdown",
       "deep house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c70a5bd4-3065-4775-8099-d6f8052135fc",
+    "artistMbid": "4346875a-2bba-4566-8dc1-680c38ba44c6",
+    "releaseCount": 2,
+    "artistGenres": [
+      "electronic",
+      "house"
     ]
   }
 }

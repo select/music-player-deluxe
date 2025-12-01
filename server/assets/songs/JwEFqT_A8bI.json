@@ -1,7 +1,7 @@
 {
   "youtubeId": "JwEFqT_A8bI",
   "title": "Tengger Cavalry - The Wolf Ritual (Audio)",
-  "lastFetched": "2025-11-26T10:55:50.238Z",
+  "lastFetched": "2025-11-30T20:42:40.538Z",
   "ai": {
     "title": "The Wolf Ritual",
     "artist": "Tengger Cavalry"
@@ -19,6 +19,14 @@
       "black metal",
       "2015",
       "chinese"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9bce5f3d-7136-4984-8469-db56046ef256",
+    "artistMbid": "71c53622-5e7d-44da-90d3-30ea2c89ad0e",
+    "releaseCount": 3,
+    "artistGenres": [
+      "folk metal"
     ]
   }
 }

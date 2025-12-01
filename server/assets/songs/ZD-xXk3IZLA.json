@@ -2,7 +2,7 @@
   "youtubeId": "ZD-xXk3IZLA",
   "title": "An Tagen wie diesen",
   "artist": "Fettes Brot",
-  "lastFetched": "2025-11-23T19:34:22.469Z",
+  "lastFetched": "2025-11-30T21:52:47.400Z",
   "odesli": {
     "amazonMusic": "B0FRFHWKXF",
     "amazonStore": "B0FRFHWKXF",
@@ -24,6 +24,19 @@
       "german",
       "hip-hop",
       "hiphop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1f5e3302-7a6d-47e4-b254-08bcd96f265a",
+    "artistMbid": "733e7372-5400-4c79-9059-33e2b2262d01",
+    "releaseCount": 11,
+    "genres": [
+      "electronic",
+      "hip hop",
+      "pop rap"
+    ],
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

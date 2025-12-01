@@ -2,7 +2,7 @@
   "youtubeId": "NHZr6P1csiY",
   "title": "And the Day Goes On",
   "artist": "Bill Wurtz",
-  "lastFetched": "2025-11-28T18:36:46.662Z",
+  "lastFetched": "2025-11-30T20:09:42.814Z",
   "odesli": {
     "amazonMusic": "B07CN9D2C5",
     "amazonStore": "B07CN9D2C5",
@@ -31,6 +31,16 @@
       "jazz",
       "indie pop",
       "jazz pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7ec089b9-d4ae-48fa-bce0-05e9b6fa16fc",
+    "artistMbid": "f96c1cd3-bbe9-4686-bbd1-0b226ebc79d5",
+    "releaseCount": 1,
+    "artistGenres": [
+      "jazz pop",
+      "lo-fi",
+      "pop"
     ]
   }
 }

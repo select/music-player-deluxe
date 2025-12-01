@@ -2,7 +2,7 @@
   "youtubeId": "FC-TAZrhYFo",
   "title": "Solid Gold",
   "artist": "Turbowolf",
-  "lastFetched": "2025-11-28T18:39:23.849Z",
+  "lastFetched": "2025-11-30T20:19:17.356Z",
   "odesli": {
     "amazonMusic": "B0BQLTTB41",
     "amazonStore": "B0BQLTTB41",
@@ -30,6 +30,20 @@
       "stoner rock",
       "rock",
       "punk rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "47c717ea-7a94-4700-92bb-2fb7db2b0989",
+    "artistMbid": "698c4374-6e7e-4369-a5f4-668976701659",
+    "releaseCount": 2,
+    "genres": [
+      "hard rock",
+      "rock",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "hard rock"
     ]
   }
 }

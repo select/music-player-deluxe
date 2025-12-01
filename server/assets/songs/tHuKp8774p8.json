@@ -1,7 +1,7 @@
 {
   "youtubeId": "tHuKp8774p8",
   "title": "I Think We're Alone Now",
-  "lastFetched": "2025-11-26T11:01:35.992Z",
+  "lastFetched": "2025-11-30T21:25:50.740Z",
   "ai": {
     "title": "I Think We're Alone Now",
     "artist": "The Rubinoos"
@@ -28,6 +28,21 @@
       "rock",
       "covers",
       "pop rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "57c36e00-0f95-4e7e-b1d9-ccf5bf5f79d6",
+    "artistMbid": "bbd12bb3-0021-4c3d-9b40-bf482a019290",
+    "releaseCount": 8,
+    "genres": [
+      "new wave",
+      "pop",
+      "pop rock",
+      "power pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "power pop"
     ]
   }
 }

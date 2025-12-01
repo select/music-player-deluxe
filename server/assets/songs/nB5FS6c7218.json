@@ -2,7 +2,7 @@
   "youtubeId": "nB5FS6c7218",
   "title": "The Magnificent Moon",
   "artist": "Mildlife",
-  "lastFetched": "2025-11-23T19:34:47.132Z",
+  "lastFetched": "2025-11-30T21:50:40.323Z",
   "lastfm": {
     "id": "Mildlife/_/The+Magnificent+Moon",
     "listeners": 70592,
@@ -15,6 +15,18 @@
       "jazz fusion",
       "gilles peterson",
       "sun and moon and stars and outer space"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f6b51a8f-f03f-4188-a789-21d81fea60d5",
+    "artistMbid": "2b3357cb-cf2d-42f7-ab73-78bf0121fc56",
+    "releaseCount": 4,
+    "artistGenres": [
+      "disco",
+      "jazz",
+      "jazz fusion",
+      "jazz rock",
+      "psychedelic rock"
     ]
   }
 }

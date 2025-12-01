@@ -2,7 +2,7 @@
   "youtubeId": "cp6V0q3RtEY",
   "title": "Don't believe the like",
   "artist": "dicht & ergreifend",
-  "lastFetched": "2025-11-23T14:50:53.124Z",
+  "lastFetched": "2025-11-30T22:31:30.210Z",
   "lastfm": {
     "title": "Don't Believe The Like",
     "artist": "DICHT & ERGREIFEND",
@@ -16,5 +16,10 @@
       "bavarian rap",
       "german"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "21b95725-74ea-4288-9be4-9c03e765efd1",
+    "artistMbid": "c6bc18a7-72f1-46d3-857b-b632aaef882f",
+    "releaseCount": 2
   }
 }

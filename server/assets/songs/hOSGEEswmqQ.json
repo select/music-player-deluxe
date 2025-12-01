@@ -1,9 +1,20 @@
 {
   "youtubeId": "hOSGEEswmqQ",
   "title": "Thirteen Women - Bill Haley and his Comets",
-  "lastFetched": "2025-11-26T10:18:11.170Z",
+  "lastFetched": "2025-11-30T21:07:51.999Z",
   "ai": {
     "title": "Thirteen Women",
     "artist": "Bill Haley and his Comets"
+  },
+  "musicbrainz": {
+    "trackMbid": "bf582268-db4a-446f-86ea-acfcb3f77a61",
+    "artistMbid": "4458d70d-c215-4f06-beea-ebd448dad6ac",
+    "releaseCount": 1,
+    "artistGenres": [
+      "country",
+      "rock and roll",
+      "rockabilly",
+      "western swing"
+    ]
   }
 }

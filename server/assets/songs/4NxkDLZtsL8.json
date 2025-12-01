@@ -1,7 +1,7 @@
 {
   "youtubeId": "4NxkDLZtsL8",
   "title": "Wouldn,t It Be Nice  Acappella   Stack- o- Vocals   The Beach Boys",
-  "lastFetched": "2025-11-27T12:03:00.471Z",
+  "lastFetched": "2025-11-30T20:39:42.695Z",
   "ai": {
     "title": "Wouldn't It Be Nice",
     "artist": "The Beach Boys"
@@ -21,5 +21,22 @@
     "title": "Wouldn't It Be Nice",
     "artist": "The Beach Boys",
     "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d"
+  },
+  "musicbrainz": {
+    "trackMbid": "88aa4cb8-e3fb-4445-94d1-3290bef72df6",
+    "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
+    "releaseCount": 2,
+    "artistGenres": [
+      "baroque pop",
+      "classic rock",
+      "pop",
+      "pop rock",
+      "progressive pop",
+      "psychedelic pop",
+      "rock",
+      "sunshine pop",
+      "surf rock",
+      "vocal surf"
+    ]
   }
 }

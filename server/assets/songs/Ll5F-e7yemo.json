@@ -2,7 +2,7 @@
   "youtubeId": "Ll5F-e7yemo",
   "title": "Reflet",
   "artist": "Glass Museum",
-  "lastFetched": "2025-11-19T07:07:53.791Z",
+  "lastFetched": "2025-11-30T23:32:05.661Z",
   "odesli": {
     "amazonMusic": "B09XZXRG4W",
     "amazonStore": "B09XZXRG4W",
@@ -26,6 +26,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "b87dfb5e-97d8-4679-8eb3-1b58cf2b39b0"
+    "artistMbid": "84fe88ef-3ac0-49a1-95c7-3aa9d4062149",
+    "trackMbid": "f25d73b7-e626-44a8-bfa6-7fcada4c1af8",
+    "releaseCount": 1
   }
 }

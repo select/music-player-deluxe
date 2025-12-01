@@ -2,7 +2,7 @@
   "youtubeId": "wrwzHK8aX8w",
   "title": "Ti Amo",
   "artist": "Howard Carpendale",
-  "lastFetched": "2025-11-19T06:16:58.020Z",
+  "lastFetched": "2025-11-30T23:36:40.372Z",
   "lastfm": {
     "id": "Howard+Carpendale/_/Ti+Amo",
     "listeners": 27176,
@@ -15,6 +15,16 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "506aa5b0-c6fb-4a69-8dd3-f06a369d5abc"
+    "artistMbid": "506aa5b0-c6fb-4a69-8dd3-f06a369d5abc",
+    "trackMbid": "0637b0d1-5c1f-4976-b958-53dec7c126e1",
+    "releaseCount": 25,
+    "genres": [
+      "deep house",
+      "schlager"
+    ],
+    "artistGenres": [
+      "pop",
+      "schlager"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "BzbRHsyjIzk",
   "title": "Paradise",
   "artist": "The Neighbourhood",
-  "lastFetched": "2025-11-29T13:47:23.338Z",
+  "lastFetched": "2025-11-30T19:43:58.133Z",
   "odesli": {
     "amazonMusic": "B07JZKBKD7",
     "amazonStore": "B07JZKBKD7",
@@ -26,6 +26,15 @@
       "rock",
       "indie",
       "pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bca86660-4caa-4235-be75-bfbdc900e3f4",
+    "artistMbid": "97b8d224-5660-419c-8dff-4b3bf0c33983",
+    "releaseCount": 3,
+    "artistGenres": [
+      "alternative rock",
+      "indie pop"
     ]
   }
 }

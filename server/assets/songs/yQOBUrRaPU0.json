@@ -1,7 +1,7 @@
 {
   "youtubeId": "yQOBUrRaPU0",
   "title": "Name",
-  "lastFetched": "2025-11-25T17:04:11.551Z",
+  "lastFetched": "2025-11-30T21:20:57.752Z",
   "ai": {
     "title": "Name",
     "artist": "Goo Goo Dolls"
@@ -24,5 +24,22 @@
     "youtube": "yQOBUrRaPU0",
     "youtubeMusic": "yQOBUrRaPU0"
   },
-  "artist": "The Goo Goo Dolls"
+  "artist": "The Goo Goo Dolls",
+  "musicbrainz": {
+    "trackMbid": "4bcc68b6-8e31-4303-ab54-a3f2956ded4c",
+    "artistMbid": "e2c00c56-8365-4160-9f40-a64682917633",
+    "releaseCount": 2,
+    "artistGenres": [
+      "acoustic rock",
+      "alternative rock",
+      "hardcore punk",
+      "jangle pop",
+      "pop punk",
+      "pop rock",
+      "post-grunge",
+      "power pop",
+      "punk rock",
+      "soft rock"
+    ]
+  }
 }

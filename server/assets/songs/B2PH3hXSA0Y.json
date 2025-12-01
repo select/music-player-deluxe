@@ -2,7 +2,7 @@
   "youtubeId": "B2PH3hXSA0Y",
   "title": "Taubenvergiften",
   "artist": "Georg Kreisler",
-  "lastFetched": "2025-11-23T14:44:44.993Z",
+  "lastFetched": "2025-11-30T22:32:47.904Z",
   "lastfm": {
     "title": "Taubenvergiften",
     "artist": "Georg Kreisler",
@@ -15,5 +15,10 @@
       "liedermacher",
       "german"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cb2b2383-a042-4042-a373-9d1eb17fa580",
+    "artistMbid": "53dd8212-8586-439e-b8ed-29461a4a3a5d",
+    "releaseCount": 3
   }
 }

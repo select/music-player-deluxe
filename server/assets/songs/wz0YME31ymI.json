@@ -1,9 +1,14 @@
 {
   "youtubeId": "wz0YME31ymI",
   "title": "JANINA - SOUNDSYSTEM",
-  "lastFetched": "2025-11-26T10:10:39.356Z",
+  "lastFetched": "2025-11-30T20:57:18.411Z",
   "ai": {
     "title": "SOUNDSYSTEM",
     "artist": "JANINA"
+  },
+  "musicbrainz": {
+    "trackMbid": "516a0067-4ec7-4a64-a9bf-7e87dbcba9fb",
+    "artistMbid": "1b3ae592-5e1e-4494-b216-da9dbe854310",
+    "releaseCount": 1
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "qHgaJ5UI90M",
   "title": "Glory And Consequence",
   "artist": "Ben Harper",
-  "lastFetched": "2025-11-19T17:38:57.668Z",
+  "lastFetched": "2025-11-30T22:33:44.958Z",
   "odesli": {
     "amazonMusic": "B000SXM0U2",
     "amazonStore": "B000SXM0U2",
@@ -29,6 +29,18 @@
       "rock",
       "singer-songwriter",
       "classic rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c6deff22-670e-4f86-9798-d05992173754",
+    "artistMbid": "1582a5b8-538e-45e7-9ae4-4099439a0e79",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative pop",
+      "folk rock",
+      "rock",
+      "singer-songwriter",
+      "soul"
     ]
   }
 }

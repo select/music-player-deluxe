@@ -2,7 +2,7 @@
   "youtubeId": "ndP3RI-pLsM",
   "title": "(We Don't Need This) Fascist Groove Thang",
   "artist": "Heaven 17",
-  "lastFetched": "2025-11-19T17:09:55.211Z",
+  "lastFetched": "2025-11-30T22:41:30.587Z",
   "odesli": {
     "amazonMusic": "B00K8TDE3I",
     "amazonStore": "B00K8TDE3I",
@@ -34,6 +34,16 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "0796f847-09ca-4526-b17e-44390dd536ba"
+    "artistMbid": "0796f847-09ca-4526-b17e-44390dd536ba",
+    "trackMbid": "1be80bb8-a38c-4827-a31b-f37b6d9f71e8",
+    "releaseCount": 2,
+    "artistGenres": [
+      "dance-rock",
+      "electronic",
+      "new romantic",
+      "new wave",
+      "pop",
+      "synth-pop"
+    ]
   }
 }

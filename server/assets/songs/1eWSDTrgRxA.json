@@ -1,7 +1,7 @@
 {
   "youtubeId": "1eWSDTrgRxA",
   "title": "BICEP & HAMMER | ICEBOWL",
-  "lastFetched": "2025-11-29T12:39:27.615Z",
+  "lastFetched": "2025-11-30T19:56:21.061Z",
   "ai": {
     "title": "ICEBOWL",
     "artist": "BICEP"
@@ -18,6 +18,20 @@
       "disco",
       "techno",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5b71f5ce-c1d2-4cce-96d9-2ef1ed1af0e7",
+    "artistMbid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+    "releaseCount": 2,
+    "artistGenres": [
+      "club",
+      "edm",
+      "electronic",
+      "house",
+      "leftfield",
+      "stutter house",
+      "techno"
     ]
   }
 }

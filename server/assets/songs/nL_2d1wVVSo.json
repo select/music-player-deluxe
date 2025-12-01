@@ -2,7 +2,7 @@
   "youtubeId": "nL_2d1wVVSo",
   "title": "Jobseeker",
   "artist": "Sleaford Mods",
-  "lastFetched": "2025-11-19T13:34:52.846Z",
+  "lastFetched": "2025-11-30T23:02:49.410Z",
   "odesli": {
     "amazonMusic": "B084ZHGQB1",
     "amazonStore": "B084ZHGQB1",
@@ -28,6 +28,16 @@
     "tags": [
       "crank wave",
       "spoken word"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "dec30f3e-e94c-4337-bbd1-733d471a340f",
+    "artistMbid": "09d8290b-6ada-422f-8ce3-19349fb1c15d",
+    "releaseCount": 5,
+    "artistGenres": [
+      "electronic",
+      "hip hop",
+      "post-punk"
     ]
   }
 }

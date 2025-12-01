@@ -1,7 +1,7 @@
 {
   "youtubeId": "7hawmv98T0g",
   "title": "Sub sUB (doves) - Firesuite",
-  "lastFetched": "2025-11-26T10:56:08.915Z",
+  "lastFetched": "2025-11-30T20:45:03.236Z",
   "ai": {
     "title": "Firesuite",
     "artist": "Sub sUB"
@@ -20,5 +20,10 @@
       "love it",
       "90s"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7e8388c4-c312-4132-b464-bfc3b4414cc7",
+    "artistMbid": "1a29b6f0-7016-4b56-863c-84b55541edbe",
+    "releaseCount": 1
   }
 }

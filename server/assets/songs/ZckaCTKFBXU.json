@@ -2,7 +2,7 @@
   "youtubeId": "ZckaCTKFBXU",
   "title": "Clap Your Hands",
   "artist": "Kungs",
-  "lastFetched": "2025-11-19T13:04:15.162Z",
+  "lastFetched": "2025-11-30T23:05:13.450Z",
   "odesli": {
     "amazonMusic": "B0013AF628",
     "amazonStore": "B0013AF628",
@@ -27,6 +27,20 @@
       "house",
       "dance",
       "cover"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d4c4b35f-1f11-4738-8eff-a7a06f1f0624",
+    "artistMbid": "a125cd83-a379-4935-a7ec-beaa778bad70",
+    "releaseCount": 25,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "deep house",
+      "edm",
+      "house",
+      "tropical house"
     ]
   }
 }

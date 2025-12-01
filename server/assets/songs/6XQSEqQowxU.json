@@ -2,7 +2,7 @@
   "youtubeId": "6XQSEqQowxU",
   "title": "Divergente",
   "artist": "Santa Salut",
-  "lastFetched": "2025-11-24T00:21:57.735Z",
+  "lastFetched": "2025-11-30T21:44:28.411Z",
   "odesli": {
     "amazonMusic": "B0FP6XYRN9",
     "amazonStore": "B0FP6XYRN9",
@@ -20,5 +20,10 @@
     "tags": [
       "female art rap"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ec4fd89f-4f8b-42d9-b412-2dee891f5739",
+    "artistMbid": "2e59c532-a3cd-444a-8ca4-2835e58deb4b",
+    "releaseCount": 1
   }
 }

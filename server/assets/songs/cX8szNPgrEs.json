@@ -2,7 +2,7 @@
   "youtubeId": "cX8szNPgrEs",
   "title": "If You Tolerate This Your Children Will Be Next",
   "artist": "Manic Street Preachers",
-  "lastFetched": "2025-11-29T13:47:00.520Z",
+  "lastFetched": "2025-11-30T19:40:53.962Z",
   "odesli": {
     "amazonMusic": "B003VGR9WW",
     "amazonStore": "B003VGR9WW",
@@ -32,6 +32,30 @@
       "90s",
       "rock",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "997c4a8f-5019-4eb3-bb41-cb789bc12248",
+    "artistMbid": "32efea44-6cb5-4b4f-bdaa-c8b8f6cef981",
+    "releaseCount": 2,
+    "genres": [
+      "alternative rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "britpop",
+      "glam punk",
+      "glam rock",
+      "grunge",
+      "hard rock",
+      "pop rock",
+      "post-britpop",
+      "post-grunge",
+      "post-punk",
+      "power pop",
+      "punk rock",
+      "symphonic rock"
     ]
   }
 }

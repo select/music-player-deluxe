@@ -2,7 +2,7 @@
   "youtubeId": "2TiJ8nGWg8w",
   "title": "Requiem for a Bitch",
   "artist": "The Supermen Lovers",
-  "lastFetched": "2025-11-19T06:51:34.906Z",
+  "lastFetched": "2025-11-30T23:33:57.503Z",
   "odesli": {
     "amazonMusic": "B0F8X9CN7K",
     "amazonStore": "B0F8X9CN7K",
@@ -24,6 +24,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "0df6d50f-7e43-4c6a-8220-61932b67c9c5"
+    "artistMbid": "0df6d50f-7e43-4c6a-8220-61932b67c9c5",
+    "trackMbid": "1bd11f89-9dbd-4446-87cd-477011a8a3de",
+    "releaseCount": 1
   }
 }

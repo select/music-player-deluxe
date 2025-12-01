@@ -2,7 +2,7 @@
   "youtubeId": "Web007rzSOI",
   "title": "Strange Fruit",
   "artist": "Billie Holiday",
-  "lastFetched": "2025-11-19T15:25:16.081Z",
+  "lastFetched": "2025-11-30T22:53:31.336Z",
   "odesli": {
     "amazonMusic": "B073NB21WB",
     "amazonStore": "B073NB21WB",
@@ -25,6 +25,18 @@
       "female vocalists",
       "vocal jazz",
       "billie holiday"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "387a4f45-7962-4290-9161-35f12b010287",
+    "artistMbid": "d59c4cda-11d9-48db-8bfe-b557ee602aed",
+    "releaseCount": 2,
+    "artistGenres": [
+      "blues",
+      "jazz",
+      "swing",
+      "traditional pop",
+      "vocal jazz"
     ]
   }
 }

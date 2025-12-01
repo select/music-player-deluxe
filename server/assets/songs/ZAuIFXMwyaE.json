@@ -1,7 +1,7 @@
 {
   "youtubeId": "ZAuIFXMwyaE",
   "title": "Jiggery Pokery by The Duckworth Lewis Method animation",
-  "lastFetched": "2025-11-26T10:57:05.131Z",
+  "lastFetched": "2025-11-30T20:57:03.279Z",
   "ai": {
     "title": "Jiggery Pokery",
     "artist": "The Duckworth Lewis Method"
@@ -20,6 +20,22 @@
       "best of 2009",
       "chamber pop",
       "aussie skulduggery"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2ac9336d-f86e-4990-b793-fe0f9dc8d4cc",
+    "artistMbid": "52039241-8f7a-4d19-b77b-83011d9d4bec",
+    "releaseCount": 2,
+    "genres": [
+      "indie pop",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "comedy rock",
+      "indie rock",
+      "pop rock"
     ]
   }
 }

@@ -3,7 +3,7 @@
   "artist": "Gualtiero",
   "duration": 253,
   "youtubeId": "5bcEfJaOBHY",
-  "lastFetched": "2025-11-19T01:37:59.132Z",
+  "lastFetched": "2025-11-30T23:43:11.964Z",
   "odesli": {
     "amazonMusic": "B0761Y7QLG",
     "amazonStore": "B0761Y7QLG",
@@ -32,6 +32,7 @@
   },
   "musicbrainz": {
     "artistMbid": "580296ea-c46d-487a-a3c2-cbbdfb141fd0",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "trackMbid": "b957cf12-2fe6-445c-a6ec-400cc3c73f6e"
   }
 }

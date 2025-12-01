@@ -1,7 +1,7 @@
 {
   "youtubeId": "3asQ7VS3LgU",
   "title": "Toes Across The Floor",
-  "lastFetched": "2025-11-26T10:59:01.011Z",
+  "lastFetched": "2025-11-30T21:12:33.612Z",
   "ai": {
     "title": "Toes Across the Floor",
     "artist": "Blind Melon"
@@ -30,6 +30,28 @@
       "alternative rock",
       "rock",
       "90s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "78855de4-d65a-422c-92a6-ccf71ccc45c9",
+    "artistMbid": "38c5cdab-5d6d-43d1-85b0-dac41bde186e",
+    "releaseCount": 16,
+    "genres": [
+      "acoustic rock",
+      "alternative rock",
+      "grunge",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "blues rock",
+      "folk rock",
+      "grunge",
+      "hard rock",
+      "neo-psychedelia",
+      "psychedelic rock",
+      "southern rock"
     ]
   }
 }

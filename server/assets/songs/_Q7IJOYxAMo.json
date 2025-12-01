@@ -2,7 +2,7 @@
   "youtubeId": "_Q7IJOYxAMo",
   "title": "Les Nuits",
   "artist": "Nightmares on Wax",
-  "lastFetched": "2025-11-19T14:40:18.570Z",
+  "lastFetched": "2025-11-30T22:57:42.842Z",
   "odesli": {
     "amazonMusic": "B0D1KXTCJS",
     "amazonStore": "B0D1KXTCJS",
@@ -26,6 +26,20 @@
       "trip-hop",
       "ambient",
       "chill"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fe8e4ff4-b2f0-457f-82d5-334e8e956f75",
+    "artistMbid": "b8c5cc4f-239f-4e02-b46f-b040b77c2030",
+    "releaseCount": 1,
+    "artistGenres": [
+      "bleep techno",
+      "breakbeat",
+      "downtempo",
+      "instrumental hip hop",
+      "nu jazz",
+      "techno",
+      "trip hop"
     ]
   }
 }

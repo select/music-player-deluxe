@@ -2,7 +2,7 @@
   "youtubeId": "TPzU1Uz8ujw",
   "title": "The Royal We",
   "artist": "Silversun Pickups",
-  "lastFetched": "2025-11-27T12:05:33.356Z",
+  "lastFetched": "2025-11-30T21:06:06.979Z",
   "odesli": {
     "amazonMusic": "B00R8JGCAI",
     "amazonStore": "B00R8JGCAI",
@@ -26,6 +26,23 @@
       "indie",
       "rock",
       "silversun pickups"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "20b0bf6c-f80e-43b1-a388-e17780f781a5",
+    "artistMbid": "b5bd9f88-962e-4730-84a7-795592ba42e8",
+    "releaseCount": 23,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "indie rock",
+      "indietronica",
+      "rock",
+      "shoegaze"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "aBwvFBxf_Eg",
   "title": "Whoot There It Is",
   "artist": "95 South",
-  "lastFetched": "2025-11-23T15:37:46.901Z",
+  "lastFetched": "2025-11-30T22:19:53.145Z",
   "lastfm": {
     "title": "Whoot There It Is",
     "artist": "95 South",
@@ -17,5 +17,10 @@
       "hip-hop",
       "dirty south"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1b23e6f9-d369-4922-bbc0-32a8fb7d8575",
+    "artistMbid": "39b81711-9255-4f83-b2c1-a1f0e3ae908d",
+    "releaseCount": 1
   }
 }

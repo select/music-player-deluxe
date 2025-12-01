@@ -2,7 +2,7 @@
   "youtubeId": "AwAdhvvGFlo",
   "title": "Who Needs You",
   "artist": "The Orwells",
-  "lastFetched": "2025-11-28T18:37:06.118Z",
+  "lastFetched": "2025-11-30T20:11:24.506Z",
   "odesli": {
     "boomplay": "12006592",
     "appleMusic": "694564369",
@@ -23,6 +23,17 @@
     "artistMbid": "11375302-8f1d-421c-ad0d-172c9d815631",
     "tags": [
       "bagel"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e02446d2-f5b6-477c-a3c2-045829a5872d",
+    "artistMbid": "11375302-8f1d-421c-ad0d-172c9d815631",
+    "releaseCount": 7,
+    "genres": [
+      "garage rock",
+      "indie rock",
+      "punk",
+      "rock"
     ]
   }
 }

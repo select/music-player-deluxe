@@ -2,7 +2,7 @@
   "youtubeId": "PbgKEjNBHqM",
   "title": "In Bloom",
   "artist": "Nirvana",
-  "lastFetched": "2025-11-19T16:58:32.605Z",
+  "lastFetched": "2025-11-30T22:42:56.317Z",
   "odesli": {
     "amazonMusic": "B005MVLIPS",
     "amazonStore": "B005MVLIPS",
@@ -26,7 +26,26 @@
       "alternative",
       "Nirvana"
     ],
-    "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da"
+    "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+    "trackMbid": "ef64a761-a97c-4837-ba15-67a0ebe47b08",
+    "releaseCount": 1,
+    "genres": [
+      "alternative rock",
+      "grunge",
+      "rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "noise rock",
+      "post-hardcore",
+      "punk",
+      "punk rock",
+      "rock",
+      "sludge metal"
+    ]
   },
   "lastfm": {
     "id": "Nirvana/_/In+Bloom",

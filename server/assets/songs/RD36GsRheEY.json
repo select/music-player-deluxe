@@ -2,7 +2,7 @@
   "youtubeId": "RD36GsRheEY",
   "title": "Alter Mann",
   "artist": "KNORKATOR",
-  "lastFetched": "2025-11-23T19:32:22.747Z",
+  "lastFetched": "2025-11-30T22:03:22.492Z",
   "odesli": {
     "amazonMusic": "B07QYGKXPP",
     "amazonStore": "B07QYGKXPP",
@@ -23,5 +23,10 @@
       "industrial metal",
       "german"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "88942030-3c07-4ac0-b034-04177ea451be",
+    "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
+    "releaseCount": 5
   }
 }

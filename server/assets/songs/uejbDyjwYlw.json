@@ -1,7 +1,7 @@
 {
   "youtubeId": "uejbDyjwYlw",
   "title": "Thunder & Lightning",
-  "lastFetched": "2025-11-26T11:01:13.208Z",
+  "lastFetched": "2025-11-30T21:23:39.853Z",
   "ai": {
     "title": "Thunder & Lightning",
     "artist": "Azedia"
@@ -27,6 +27,18 @@
     "artistMbid": "c7e7bbba-e8b7-4d11-9397-21a33039e98c",
     "tags": [
       "female vocalist"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0f0d931a-f155-44e5-9093-27cac668b960",
+    "artistMbid": "c7e7bbba-e8b7-4d11-9397-21a33039e98c",
+    "releaseCount": 1,
+    "genres": [
+      "chillstep",
+      "deep house",
+      "dubstep",
+      "electronic",
+      "melodic dubstep"
     ]
   }
 }

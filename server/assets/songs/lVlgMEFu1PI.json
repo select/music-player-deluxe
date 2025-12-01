@@ -2,7 +2,7 @@
   "youtubeId": "lVlgMEFu1PI",
   "title": "Warni Warni",
   "artist": "Omar Souleyman",
-  "lastFetched": "2025-11-27T12:03:43.688Z",
+  "lastFetched": "2025-11-30T20:47:24.487Z",
   "odesli": {
     "amazonMusic": "B00J8XB1KI",
     "amazonStore": "B00J8XB1KI",
@@ -30,6 +30,18 @@
       "arabic",
       "syrian",
       "4 stars"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7e6d9ec6-c837-434b-8596-5dc397f77461",
+    "artistMbid": "09f79b92-fd07-482a-88d9-a335240ebb7f",
+    "releaseCount": 6,
+    "genres": [
+      "electronic",
+      "folk"
+    ],
+    "artistGenres": [
+      "dabke"
     ]
   }
 }

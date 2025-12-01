@@ -2,7 +2,7 @@
   "youtubeId": "KhrteSZXFzM",
   "title": "DRUGS",
   "artist": "RATATAT",
-  "lastFetched": "2025-11-23T15:04:07.654Z",
+  "lastFetched": "2025-11-30T22:28:14.841Z",
   "lastfm": {
     "title": "Drugs",
     "artist": "Ratatat",
@@ -13,6 +13,28 @@
     "playcount": 1092534,
     "tags": [
       "poptron"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "70df4f21-e321-4d48-ba34-fbe48104aa7d",
+    "artistMbid": "f467181e-d5e0-4285-b47e-e853dcc89ee7",
+    "releaseCount": 6,
+    "genres": [
+      "electro",
+      "electronic",
+      "experimental",
+      "indie rock",
+      "instrumental",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "electronic",
+      "hip hop",
+      "indietronica",
+      "instrumental",
+      "neo-psychedelia",
+      "new rave"
     ]
   }
 }

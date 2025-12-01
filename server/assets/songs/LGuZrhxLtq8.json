@@ -1,7 +1,7 @@
 {
   "youtubeId": "LGuZrhxLtq8",
   "title": "Mouse on Mars - Twift Shoeblade (LIVE)",
-  "lastFetched": "2025-11-27T12:02:11.625Z",
+  "lastFetched": "2025-11-30T20:34:51.914Z",
   "ai": {
     "title": "Twift Shoeblade",
     "artist": "Mouse on Mars"
@@ -18,6 +18,26 @@
       "idm",
       "electronic",
       "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "68035b26-870d-427f-8af7-a6b0838acf6e",
+    "artistMbid": "4d4f5d92-0589-42fa-bc0e-1bd73e17a2ce",
+    "releaseCount": 4,
+    "genres": [
+      "ambient",
+      "electronic",
+      "electronica",
+      "idm",
+      "instrumental"
+    ],
+    "artistGenres": [
+      "ambient",
+      "electronic",
+      "experimental",
+      "glitch",
+      "idm",
+      "techno"
     ]
   }
 }

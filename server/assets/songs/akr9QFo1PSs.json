@@ -2,7 +2,7 @@
   "youtubeId": "akr9QFo1PSs",
   "title": "Burning Airlines Give You So Much More",
   "artist": "Brian Eno",
-  "lastFetched": "2025-11-29T13:48:21.762Z",
+  "lastFetched": "2025-11-30T19:51:38.682Z",
   "odesli": {
     "amazonMusic": "B000TDES7Y",
     "amazonStore": "B000TDES7Y",
@@ -23,6 +23,26 @@
       "glam rock",
       "70s",
       "electronic",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c3e36f80-afca-4f08-b5cc-d3e33c724647",
+    "artistMbid": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
+    "releaseCount": 18,
+    "genres": [
+      "art rock",
+      "glam rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "ambient",
+      "art pop",
+      "art rock",
+      "drone",
+      "electronic",
+      "experimental rock",
+      "glam rock",
       "rock"
     ]
   }

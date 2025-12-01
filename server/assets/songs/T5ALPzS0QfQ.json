@@ -2,7 +2,7 @@
   "youtubeId": "T5ALPzS0QfQ",
   "title": "SOUL BOSSA NOVA",
   "artist": "Quincy Jones",
-  "lastFetched": "2025-11-23T19:31:38.119Z",
+  "lastFetched": "2025-11-30T22:06:44.059Z",
   "odesli": {
     "amazonMusic": "B01BXVBYFE",
     "amazonStore": "B01BXVBYFE",
@@ -25,6 +25,20 @@
       "jazz",
       "instrumental",
       "soundtrack"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4fcb5513-96ea-4810-947a-f9bc7e66e947",
+    "artistMbid": "5803c81e-739a-4057-9a5c-cf84e55db630",
+    "releaseCount": 2,
+    "artistGenres": [
+      "big band",
+      "crossover jazz",
+      "jazz",
+      "jazz pop",
+      "pop",
+      "soul",
+      "swing"
     ]
   }
 }

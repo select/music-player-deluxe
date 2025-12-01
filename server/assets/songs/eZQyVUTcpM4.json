@@ -2,7 +2,7 @@
   "youtubeId": "eZQyVUTcpM4",
   "title": "Keep the Faith",
   "artist": "Bon Jovi",
-  "lastFetched": "2025-11-19T13:39:58.843Z",
+  "lastFetched": "2025-11-30T23:02:31.405Z",
   "odesli": {
     "amazonMusic": "B000V64UCM",
     "amazonStore": "B000V64UCM",
@@ -29,6 +29,18 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "5dcdb5eb-cb72-4e6e-9e63-b7bace604965"
+    "artistMbid": "5dcdb5eb-cb72-4e6e-9e63-b7bace604965",
+    "trackMbid": "bdaaa79c-dafc-4f85-b45e-194e8ec49543",
+    "releaseCount": 2,
+    "artistGenres": [
+      "aor",
+      "arena rock",
+      "classic rock",
+      "glam metal",
+      "hard rock",
+      "heartland rock",
+      "pop rock",
+      "rock"
+    ]
   }
 }

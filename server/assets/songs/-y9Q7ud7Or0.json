@@ -2,7 +2,7 @@
   "youtubeId": "-y9Q7ud7Or0",
   "title": "Many Rivers To Cross",
   "artist": "Jimmy Cliff",
-  "lastFetched": "2025-11-26T11:01:59.913Z",
+  "lastFetched": "2025-11-30T21:28:10.266Z",
   "odesli": {
     "amazonMusic": "B08L3VW8R9",
     "amazonStore": "B08L3VW8R9",
@@ -24,6 +24,26 @@
       "soul",
       "jamaica",
       "jimmy cliff"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d6348ef9-dd6e-496f-8a51-7f1f07ee61ec",
+    "artistMbid": "2caa54a7-b08c-41da-b892-3a41abe778be",
+    "releaseCount": 3,
+    "genres": [
+      "pop",
+      "reggae",
+      "reggae-pop",
+      "roots reggae"
+    ],
+    "artistGenres": [
+      "jamaican ska",
+      "reggae",
+      "reggae-pop",
+      "rocksteady",
+      "roots reggae",
+      "ska",
+      "soul"
     ]
   }
 }

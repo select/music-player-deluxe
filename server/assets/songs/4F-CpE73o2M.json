@@ -1,7 +1,7 @@
 {
   "youtubeId": "4F-CpE73o2M",
   "title": "Fever Ray 'When I Grow Up'",
-  "lastFetched": "2025-11-28T18:35:45.837Z",
+  "lastFetched": "2025-11-30T20:06:17.726Z",
   "ai": {
     "title": "When I Grow Up",
     "artist": "Fever Ray"
@@ -21,6 +21,48 @@
       "female vocalists",
       "atmospheric",
       "swedish"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a62817d2-a7d2-4e1a-8c64-b225076eef8d",
+    "artistMbid": "f7df5df4-4dfa-459d-972b-1ba051c15ddc",
+    "releaseCount": 22,
+    "genres": [
+      "ambient",
+      "dubstep",
+      "electro",
+      "electronic",
+      "experimental",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "art pop",
+      "avant-garde pop",
+      "bass house",
+      "breakbeat",
+      "breaks",
+      "club",
+      "dance",
+      "deep house",
+      "dubstep",
+      "edm",
+      "electronic",
+      "electronica",
+      "electropop",
+      "experimental",
+      "house",
+      "idm",
+      "indietronica",
+      "leftfield",
+      "melodic house",
+      "melodic techno",
+      "pop",
+      "progressive house",
+      "synth-pop",
+      "tech house",
+      "techno",
+      "trance",
+      "trip hop"
     ]
   }
 }

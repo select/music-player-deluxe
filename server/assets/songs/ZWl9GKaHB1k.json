@@ -1,7 +1,7 @@
 {
   "youtubeId": "ZWl9GKaHB1k",
   "title": "Grossstadtgeflüster  -  Ich muss gar nix",
-  "lastFetched": "2025-11-26T10:57:46.573Z",
+  "lastFetched": "2025-11-30T21:05:07.166Z",
   "ai": {
     "title": "Ich muss gar nix",
     "artist": "Grossstadtgeflüster"
@@ -20,6 +20,17 @@
       "deutsch",
       "electropunk",
       "electro"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "861b8107-270d-4461-a94a-a34c81ae7708",
+    "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f",
+    "releaseCount": 5,
+    "genres": [
+      "electronic",
+      "electropunk",
+      "pop",
+      "synth-pop"
     ]
   }
 }

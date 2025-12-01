@@ -2,7 +2,7 @@
   "youtubeId": "V71iKo3srk4",
   "title": "The Conference",
   "artist": "Nitin Sawhney",
-  "lastFetched": "2025-11-28T18:36:42.873Z",
+  "lastFetched": "2025-11-30T20:09:37.674Z",
   "odesli": {
     "amazonMusic": "B07561SLQJ",
     "amazonStore": "B07561SLQJ",
@@ -24,6 +24,29 @@
       "chillout",
       "world",
       "asian underground"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "68f68e84-3af1-4ae5-bf24-9a6dcaa87518",
+    "artistMbid": "bc3d74c5-9328-4a1b-8014-3ecdb3dababe",
+    "releaseCount": 6,
+    "genres": [
+      "chillout",
+      "dance",
+      "downtempo",
+      "drum and bass",
+      "edm",
+      "electronic",
+      "house",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "downtempo",
+      "drum and bass",
+      "electronic",
+      "nu jazz",
+      "r&b",
+      "trip hop"
     ]
   }
 }

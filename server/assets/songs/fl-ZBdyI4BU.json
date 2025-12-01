@@ -1,7 +1,7 @@
 {
   "youtubeId": "fl-ZBdyI4BU",
   "title": "Fischerspooner - Fucker",
-  "lastFetched": "2025-11-26T10:57:29.671Z",
+  "lastFetched": "2025-11-30T21:03:01.892Z",
   "ai": {
     "title": "Fucker",
     "artist": "Fischerspooner"
@@ -19,6 +19,23 @@
       "electronic",
       "electro",
       "synthpop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "957f9ffa-0dfc-4156-ba59-361233022b12",
+    "artistMbid": "a4f54716-24d9-4c6b-8ba7-1d7e7a5173d0",
+    "releaseCount": 11,
+    "genres": [
+      "breakbeat",
+      "dance",
+      "electroclash",
+      "electronic",
+      "electronica",
+      "house"
+    ],
+    "artistGenres": [
+      "electroclash",
+      "electronica"
     ]
   }
 }

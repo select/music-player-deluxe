@@ -1,7 +1,7 @@
 {
   "youtubeId": "xLEyw5KD4eY",
   "title": "Nalyssa Green - Κοκτέιλ",
-  "lastFetched": "2025-11-26T10:57:51.582Z",
+  "lastFetched": "2025-11-30T21:05:31.554Z",
   "ai": {
     "title": "Κοκτέιλ",
     "artist": "Nalyssa Green"
@@ -18,6 +18,15 @@
       "greek",
       "greece",
       "greek lyrics"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4b88234e-d7fa-454a-a04f-212db7fbc947",
+    "artistMbid": "25b7fbfc-369a-449f-a2dc-63b959cf94d8",
+    "releaseCount": 1,
+    "artistGenres": [
+      "indie folk",
+      "indie pop"
     ]
   }
 }

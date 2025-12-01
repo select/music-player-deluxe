@@ -1,7 +1,7 @@
 {
   "youtubeId": "3_eR0IVSOhY",
   "title": "Tom Waits - Time",
-  "lastFetched": "2025-11-26T11:00:12.079Z",
+  "lastFetched": "2025-11-30T21:18:38.050Z",
   "ai": {
     "title": "Time",
     "artist": "Tom Waits"
@@ -20,6 +20,29 @@
       "tom waits",
       "rock",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d2cbe8e9-43ce-4a9a-b33f-4ec503cb6477",
+    "artistMbid": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+    "releaseCount": 7,
+    "artistGenres": [
+      "americana",
+      "avant-garde jazz",
+      "beat poetry",
+      "blues",
+      "blues rock",
+      "dark cabaret",
+      "dark jazz",
+      "experimental",
+      "experimental rock",
+      "folk",
+      "folk rock",
+      "gothic country",
+      "jazz",
+      "piano blues",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

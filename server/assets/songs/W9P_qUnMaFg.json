@@ -2,7 +2,7 @@
   "youtubeId": "W9P_qUnMaFg",
   "title": "In My Mind",
   "artist": "Dynoro",
-  "lastFetched": "2025-11-29T13:49:16.125Z",
+  "lastFetched": "2025-11-30T19:59:24.287Z",
   "odesli": {
     "amazonMusic": "B07DB5MJ62",
     "amazonStore": "B07DB5MJ62",
@@ -33,6 +33,23 @@
       "dance",
       "future house",
       "slap house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "64cddcfa-267f-4301-be59-cb8cc3f151e6",
+    "artistMbid": "b3968fd2-df5c-42b6-a5e2-d9963322d5c7",
+    "releaseCount": 25,
+    "genres": [
+      "brazilian bass",
+      "electronic",
+      "euro house",
+      "italo dance",
+      "latin jazz",
+      "pop",
+      "slap house"
+    ],
+    "artistGenres": [
+      "edm"
     ]
   }
 }

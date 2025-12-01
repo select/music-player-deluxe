@@ -2,7 +2,7 @@
   "youtubeId": "M9kxjxHNtbs",
   "title": "Delicious",
   "artist": "A Perfect Circle",
-  "lastFetched": "2025-11-29T13:48:09.051Z",
+  "lastFetched": "2025-11-30T19:50:26.112Z",
   "odesli": {
     "amazonMusic": "B0DZVCSWC4",
     "amazonStore": "B0DZVCSWC4",
@@ -26,6 +26,16 @@
       "alt rock",
       "alternative rock",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "607c5435-43ac-4779-a91d-bc556adb02a2",
+    "artistMbid": "078a9376-3c04-4280-b7d7-b20e158f345d",
+    "releaseCount": 4,
+    "artistGenres": [
+      "alternative rock",
+      "art rock",
+      "progressive rock"
     ]
   }
 }

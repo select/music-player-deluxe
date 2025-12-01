@@ -2,7 +2,7 @@
   "youtubeId": "e-YUlNDHjsQ",
   "title": "III",
   "artist": "Glass Museum",
-  "lastFetched": "2025-11-24T00:23:41.288Z",
+  "lastFetched": "2025-11-30T21:30:51.446Z",
   "odesli": {
     "amazonMusic": "B0F5HPWVCL",
     "amazonStore": "B0F5HPWVCL",
@@ -28,5 +28,10 @@
       "new wave",
       "80s"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "15d56a1d-9f60-4668-9039-e6ba203a6a99",
+    "artistMbid": "84fe88ef-3ac0-49a1-95c7-3aa9d4062149",
+    "releaseCount": 1
   }
 }

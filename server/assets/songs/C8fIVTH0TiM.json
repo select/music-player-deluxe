@@ -1,7 +1,7 @@
 {
   "youtubeId": "C8fIVTH0TiM",
   "title": "MOVITS! - Äppelknyckarjazz Video (Officiell)",
-  "lastFetched": "2025-11-27T11:59:57.686Z",
+  "lastFetched": "2025-11-30T20:21:37.137Z",
   "ai": {
     "title": "Äppelknyckarjazz",
     "artist": "MOVITS!"
@@ -18,6 +18,15 @@
       "lugnt03-",
       "swedish",
       "lugnt03"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a19d4b50-00e0-4efb-9979-e10075374cd9",
+    "artistMbid": "d74c95e2-f779-43e4-9e1d-6fbaaf0c6bae",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative hip hop",
+      "swing"
     ]
   }
 }

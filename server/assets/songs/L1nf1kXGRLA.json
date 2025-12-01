@@ -2,7 +2,7 @@
   "youtubeId": "L1nf1kXGRLA",
   "title": "Nobody",
   "artist": "Wonder Girls",
-  "lastFetched": "2025-11-19T12:33:08.015Z",
+  "lastFetched": "2025-11-30T23:09:04.560Z",
   "odesli": {
     "amazonMusic": "B0CCS12HKH",
     "amazonStore": "B0CCS12HKH",
@@ -26,6 +26,22 @@
       "wonder girls",
       "korean",
       "kpop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9f155d3d-7383-41ff-b016-2fa7d3d18797",
+    "artistMbid": "fcc7e9c8-3474-4221-b83a-27890982e0fa",
+    "releaseCount": 7,
+    "genres": [
+      "dance",
+      "disco",
+      "electronic",
+      "j-pop",
+      "k-pop",
+      "pop"
+    ],
+    "artistGenres": [
+      "k-pop"
     ]
   }
 }

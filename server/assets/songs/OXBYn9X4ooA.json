@@ -1,7 +1,7 @@
 {
   "youtubeId": "OXBYn9X4ooA",
   "title": "Foamplate - Smokey Joe",
-  "lastFetched": "2025-11-26T10:56:30.586Z",
+  "lastFetched": "2025-11-30T20:49:33.971Z",
   "ai": {
     "title": "Smokey Joe",
     "artist": "Foamplate"
@@ -16,5 +16,10 @@
       "dubstep",
       "deep dubstep"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c108f3e9-e394-4b68-bed1-8b9e25fc8f25",
+    "artistMbid": "12b18202-9e48-4f89-93cd-ad420d45ff10",
+    "releaseCount": 1
   }
 }

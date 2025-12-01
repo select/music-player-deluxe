@@ -2,7 +2,7 @@
   "youtubeId": "TKJymx2KDWo",
   "title": "Sleeping Bag",
   "artist": "ZZ Top",
-  "lastFetched": "2025-11-24T00:23:47.728Z",
+  "lastFetched": "2025-11-30T21:29:45.358Z",
   "odesli": {
     "amazonMusic": "B0F18MZK5S",
     "amazonStore": "B0F18MZK5S",
@@ -26,6 +26,28 @@
       "blues rock",
       "southern rock",
       "80s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8e2f3c24-66e4-4b8f-bb41-6e55a24c21b3",
+    "artistMbid": "a81259a0-a2f5-464b-866e-71220f2739f1",
+    "releaseCount": 25,
+    "genres": [
+      "arena rock",
+      "blues rock",
+      "boogie rock",
+      "classic rock",
+      "hard rock",
+      "rock",
+      "southern rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "boogie rock",
+      "classic rock",
+      "hard rock",
+      "rock",
+      "southern rock"
     ]
   }
 }

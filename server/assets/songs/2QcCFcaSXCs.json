@@ -2,7 +2,7 @@
   "youtubeId": "2QcCFcaSXCs",
   "title": "Blind Man",
   "artist": "Nomine",
-  "lastFetched": "2025-11-23T14:45:46.638Z",
+  "lastFetched": "2025-11-30T22:32:32.896Z",
   "odesli": {
     "amazonMusic": "B0DT5M3HWB",
     "amazonStore": "B0DT5M3HWB",
@@ -23,6 +23,16 @@
       "electronic",
       "tempa",
       "bass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "28e1bac2-ac8b-458d-8a42-8a156223b643",
+    "artistMbid": "df5eb329-14f5-4877-b861-9fb89809b7ea",
+    "releaseCount": 4,
+    "artistGenres": [
+      "drum and bass",
+      "dubstep",
+      "jungle"
     ]
   }
 }

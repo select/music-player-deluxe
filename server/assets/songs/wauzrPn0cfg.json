@@ -2,7 +2,7 @@
   "youtubeId": "wauzrPn0cfg",
   "title": "Wake Up",
   "artist": "Rage Against The Machine",
-  "lastFetched": "2025-11-30T17:45:13.916Z",
+  "lastFetched": "2025-11-30T19:39:44.832Z",
   "odesli": {
     "amazonMusic": "B00137MFJS",
     "amazonStore": "B00137MFJS",
@@ -29,6 +29,20 @@
       "alternative",
       "political",
       "metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9700d95e-4469-4415-b326-ad68e5d62336",
+    "artistMbid": "3798b104-01cb-484c-a3b0-56adc6399b80",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "funk metal",
+      "metal",
+      "nu metal",
+      "rap metal",
+      "rap rock"
     ]
   }
 }

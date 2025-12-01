@@ -2,7 +2,7 @@
   "youtubeId": "FXBeMlgCd0w",
   "title": "Feed Me",
   "artist": "Elton John",
-  "lastFetched": "2025-11-23T19:33:42.517Z",
+  "lastFetched": "2025-11-30T21:56:44.042Z",
   "odesli": {
     "amazonMusic": "B0767KP5L4",
     "amazonStore": "B0767KP5L4",
@@ -33,6 +33,28 @@
       "70s",
       "soft rock",
       "elton john"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0a791d60-0368-43e1-b66c-22198a234ae4",
+    "artistMbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+    "releaseCount": 15,
+    "genres": [
+      "classic rock",
+      "pop",
+      "rock",
+      "singer-songwriter",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "piano rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "rock and roll",
+      "singer-songwriter",
+      "soft rock"
     ]
   }
 }

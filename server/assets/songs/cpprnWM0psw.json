@@ -2,7 +2,7 @@
   "youtubeId": "cpprnWM0psw",
   "title": "NRG",
   "artist": "Chase & Status",
-  "lastFetched": "2025-11-19T16:43:46.835Z",
+  "lastFetched": "2025-11-30T22:45:20.334Z",
   "odesli": {
     "amazonMusic": "B0743K9TTM",
     "amazonStore": "B0743K9TTM",
@@ -25,6 +25,26 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+    "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+    "trackMbid": "76292a3f-6ccd-40dd-980f-350ce113279f",
+    "releaseCount": 2,
+    "artistGenres": [
+      "breakbeat",
+      "breaks",
+      "club",
+      "dance",
+      "disco",
+      "drum and bass",
+      "dubstep",
+      "electronic",
+      "grime",
+      "hip hop",
+      "house",
+      "jungle",
+      "nu skool breaks",
+      "pop",
+      "techno",
+      "uk garage"
+    ]
   }
 }

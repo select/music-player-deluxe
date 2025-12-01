@@ -2,7 +2,7 @@
   "youtubeId": "PobrSpMwKk4",
   "title": "The Message",
   "artist": "Grandmaster Flash & The Furious Five",
-  "lastFetched": "2025-11-18T22:28:18.600Z",
+  "lastFetched": "2025-11-30T22:54:52.695Z",
   "odesli": {
     "amazonMusic": "B0014JBJHY",
     "amazonStore": "B0014JBJHY",
@@ -22,5 +22,18 @@
   "ai": {
     "title": "The Message",
     "artist": "Grandmaster Flash & The Furious Five"
+  },
+  "musicbrainz": {
+    "trackMbid": "9290b18d-d084-49d9-926f-2572750990d6",
+    "artistMbid": "1390d663-2f56-4b41-9f75-f45ba489250b",
+    "releaseCount": 7,
+    "artistGenres": [
+      "conscious hip hop",
+      "east coast hip hop",
+      "electro",
+      "hip hop",
+      "instrumental hip hop",
+      "turntablism"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "5thhFH6W3ko",
   "title": "FOALS - Snake Oil [Official Live CCTV Session]",
-  "lastFetched": "2025-11-29T12:38:42.559Z",
+  "lastFetched": "2025-11-30T19:46:27.264Z",
   "ai": {
     "title": "Snake Oil",
     "artist": "FOALS"
@@ -16,6 +16,25 @@
     "artistMbid": "6a65d878-fcd0-42cf-aff9-ca1d636a8bcc",
     "tags": [
       "poptron"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "30e5ac2d-7d1e-439f-985f-323323055edb",
+    "artistMbid": "6a65d878-fcd0-42cf-aff9-ca1d636a8bcc",
+    "releaseCount": 12,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "art rock",
+      "dance-punk",
+      "indie rock",
+      "math rock",
+      "new wave"
     ]
   }
 }

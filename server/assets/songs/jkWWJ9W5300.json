@@ -2,7 +2,7 @@
   "youtubeId": "jkWWJ9W5300",
   "title": "Without You",
   "artist": "Lapalux",
-  "lastFetched": "2025-11-27T12:04:52.598Z",
+  "lastFetched": "2025-11-30T20:57:56.630Z",
   "odesli": {
     "amazonMusic": "B073S6G2MV",
     "amazonStore": "B073S6G2MV",
@@ -28,6 +28,21 @@
       "love at first listen",
       "downtempo",
       "dreamy"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9d5f6770-cf1f-48be-8875-443060a00092",
+    "artistMbid": "0b5f6947-c6f2-43c2-8fed-5a77776728dd",
+    "releaseCount": 6,
+    "genres": [
+      "ambient",
+      "downtempo",
+      "electronic",
+      "experimental",
+      "idm"
+    ],
+    "artistGenres": [
+      "electronic"
     ]
   }
 }

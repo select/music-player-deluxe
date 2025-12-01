@@ -1,9 +1,20 @@
 {
   "youtubeId": "y1-g5VG2pWg",
   "title": "P.P. Arnold: The first cut is the deepest",
-  "lastFetched": "2025-11-26T10:29:40.882Z",
+  "lastFetched": "2025-11-30T21:24:03.386Z",
   "ai": {
     "title": "The first cut is the deepest",
     "artist": "P.P. Arnold"
+  },
+  "musicbrainz": {
+    "trackMbid": "040db83d-8f56-4879-87f7-50a100b31253",
+    "artistMbid": "b8d00eb5-b12a-4e58-8d0a-0993752be2a3",
+    "releaseCount": 1,
+    "artistGenres": [
+      "blues rock",
+      "gospel",
+      "rock",
+      "soul"
+    ]
   }
 }

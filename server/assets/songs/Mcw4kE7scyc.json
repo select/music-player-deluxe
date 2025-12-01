@@ -2,7 +2,7 @@
   "youtubeId": "Mcw4kE7scyc",
   "title": "Waiting for the Night",
   "artist": "LV",
-  "lastFetched": "2025-11-27T12:04:41.442Z",
+  "lastFetched": "2025-11-30T20:55:48.405Z",
   "odesli": {
     "amazonMusic": "B0DB9NNS7C",
     "amazonStore": "B0DB9NNS7C",
@@ -23,6 +23,16 @@
       "dub",
       "electronic",
       "hyperdub"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e570ed26-9153-4da5-b220-499c50a902ea",
+    "artistMbid": "e95d91f2-9bf8-4439-b169-cc67f051c46e",
+    "releaseCount": 2,
+    "artistGenres": [
+      "dubstep",
+      "electronic",
+      "uk garage"
     ]
   }
 }

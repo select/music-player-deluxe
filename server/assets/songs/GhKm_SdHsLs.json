@@ -2,7 +2,7 @@
   "youtubeId": "GhKm_SdHsLs",
   "title": "Generate",
   "artist": "Eric Prydz",
-  "lastFetched": "2025-11-26T11:00:18.979Z",
+  "lastFetched": "2025-11-30T21:19:30.461Z",
   "odesli": {
     "amazonMusic": "B01AXI2V32",
     "amazonStore": "B01AXI2V32",
@@ -27,6 +27,26 @@
       "2015 single",
       "electronic",
       "party"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5c67fc0e-55ab-4eea-b657-0c881342abfc",
+    "artistMbid": "35dac7d2-0b1f-470f-9a5a-c53c8821f6d6",
+    "releaseCount": 7,
+    "genres": [
+      "dance",
+      "electro house",
+      "electronic",
+      "progressive house",
+      "vocal house"
+    ],
+    "artistGenres": [
+      "edm",
+      "electronic",
+      "house",
+      "progressive",
+      "progressive house",
+      "trance"
     ]
   }
 }

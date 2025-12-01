@@ -2,7 +2,7 @@
   "youtubeId": "B_WoSFRbE3M",
   "title": "The Man Who Would Be King",
   "artist": "The Libertines",
-  "lastFetched": "2025-11-23T19:35:01.878Z",
+  "lastFetched": "2025-11-30T21:49:54.650Z",
   "odesli": {
     "amazonMusic": "B0010YLPC2",
     "amazonStore": "B0010YLPC2",
@@ -33,6 +33,26 @@
       "indie",
       "british",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "27b965a1-0861-4b6a-94c2-13008859177b",
+    "artistMbid": "82b304c0-7da4-45d3-896a-0767c7ae1141",
+    "releaseCount": 14,
+    "genres": [
+      "alternative rock",
+      "britpop",
+      "garage rock",
+      "indie rock",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "garage rock revival",
+      "indie rock",
+      "post-punk revival",
+      "punk"
     ]
   }
 }

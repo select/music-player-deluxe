@@ -2,7 +2,7 @@
   "youtubeId": "1k-mAo46XSU",
   "title": "Sometimes In This Country",
   "artist": "Crooked Still",
-  "lastFetched": "2025-11-19T05:54:29.696Z",
+  "lastFetched": "2025-11-30T23:38:29.007Z",
   "odesli": {
     "amazonMusic": "B07CP1TH1N",
     "amazonStore": "B07CP1TH1N",
@@ -25,6 +25,16 @@
       "radio paradise",
       "radioparadise",
       "bluegrass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "430c9c83-d30a-42af-a556-b3f521b1ed93",
+    "artistMbid": "4c3ebc7c-020e-4d9d-a5df-264c72025ee2",
+    "releaseCount": 1,
+    "artistGenres": [
+      "americana",
+      "bluegrass",
+      "folk"
     ]
   }
 }

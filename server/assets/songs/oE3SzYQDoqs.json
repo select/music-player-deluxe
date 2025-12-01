@@ -1,7 +1,7 @@
 {
   "youtubeId": "oE3SzYQDoqs",
   "title": "Kruder & Dorfmeister - Sleazy Rider",
-  "lastFetched": "2025-11-26T10:56:54.860Z",
+  "lastFetched": "2025-11-30T20:54:20.611Z",
   "ai": {
     "title": "Sleazy Rider",
     "artist": "Kruder & Dorfmeister"
@@ -19,6 +19,27 @@
       "groovesalad",
       "electronic",
       "drum n bass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d569bd4d-8f83-438c-8924-a2d7b9d5cfbd",
+    "artistMbid": "6b49dc39-cb6f-465f-980b-bc17a271da34",
+    "releaseCount": 1,
+    "genres": [
+      "downtempo",
+      "drum and bass",
+      "electronic",
+      "funk",
+      "instrumental",
+      "soul",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "acid jazz",
+      "downtempo",
+      "drum and bass",
+      "electronic",
+      "trip hop"
     ]
   }
 }

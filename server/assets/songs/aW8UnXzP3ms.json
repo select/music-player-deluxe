@@ -1,7 +1,7 @@
 {
   "youtubeId": "aW8UnXzP3ms",
   "title": "Why - Carly Simon",
-  "lastFetched": "2025-11-29T12:38:47.270Z",
+  "lastFetched": "2025-11-30T19:47:04.538Z",
   "ai": {
     "title": "Why",
     "artist": "Carly Simon"
@@ -20,6 +20,26 @@
       "80s",
       "female vocalists",
       "singer-songwriter"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1e2ce4a3-aa09-4356-b800-a182d1892a6f",
+    "artistMbid": "c4df30f5-5487-4806-9189-b69c9f27532c",
+    "releaseCount": 25,
+    "genres": [
+      "disco",
+      "downtempo",
+      "electronic",
+      "pop"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "electronic",
+      "jazz",
+      "pop",
+      "pop rock",
+      "rock",
+      "soft rock"
     ]
   }
 }

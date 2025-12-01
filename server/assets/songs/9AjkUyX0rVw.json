@@ -2,7 +2,7 @@
   "youtubeId": "9AjkUyX0rVw",
   "title": "We Are The World",
   "artist": "U.S.A. For Africa",
-  "lastFetched": "2025-11-23T20:22:49.908Z",
+  "lastFetched": "2025-11-30T21:28:38.289Z",
   "odesli": {
     "amazonMusic": "B001FXOL4W",
     "amazonStore": "B001FXOL4W",
@@ -22,5 +22,13 @@
   "ai": {
     "title": "We Are the World",
     "artist": "U.S.A. For Africa"
+  },
+  "musicbrainz": {
+    "trackMbid": "2a9cacb1-9b3f-4b18-b8f7-e0f01f82e115",
+    "artistMbid": "45e3c90f-2de6-4452-99b3-8dbf7a3cf6df",
+    "releaseCount": 2,
+    "artistGenres": [
+      "gospel"
+    ]
   }
 }

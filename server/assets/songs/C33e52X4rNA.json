@@ -2,7 +2,7 @@
   "youtubeId": "C33e52X4rNA",
   "title": "That B",
   "artist": "Subwave",
-  "lastFetched": "2025-11-23T14:01:55.645Z",
+  "lastFetched": "2025-11-30T22:50:06.890Z",
   "lastfm": {
     "title": "That B",
     "artist": "Subwave",
@@ -15,6 +15,14 @@
       "liquid funk",
       "dnb",
       "drum n bass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0d681dc1-735b-490e-9b34-69c6727234b4",
+    "artistMbid": "3222bd83-9da3-427b-945e-caa276d5dae5",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass"
     ]
   }
 }

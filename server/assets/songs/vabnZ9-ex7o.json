@@ -2,7 +2,7 @@
   "youtubeId": "vabnZ9-ex7o",
   "title": "Come As You Are",
   "artist": "Nirvana",
-  "lastFetched": "2025-11-24T00:23:05.948Z",
+  "lastFetched": "2025-11-30T21:34:11.163Z",
   "odesli": {
     "amazonMusic": "B09GLJ13Q8",
     "amazonStore": "B09GLJ13Q8",
@@ -35,5 +35,22 @@
     "title": "Come as You Are",
     "artist": "Nirvana",
     "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da"
+  },
+  "musicbrainz": {
+    "trackMbid": "d2c2b477-8a68-4b98-85ce-d49f11c83d1e",
+    "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+    "releaseCount": 2,
+    "artistGenres": [
+      "acoustic rock",
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "noise rock",
+      "post-hardcore",
+      "punk",
+      "punk rock",
+      "rock",
+      "sludge metal"
+    ]
   }
 }

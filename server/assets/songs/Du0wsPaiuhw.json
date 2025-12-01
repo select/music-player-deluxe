@@ -2,7 +2,7 @@
   "youtubeId": "Du0wsPaiuhw",
   "title": "Litany",
   "artist": "Tashi Wada",
-  "lastFetched": "2025-11-19T11:05:54.394Z",
+  "lastFetched": "2025-11-30T23:16:14.501Z",
   "odesli": {
     "amazonMusic": "B07DPDK982",
     "amazonStore": "B07DPDK982",
@@ -25,5 +25,10 @@
       "contemporary classical",
       "electronic"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d20db4ea-6db9-43a0-993d-68ad3f64c011",
+    "artistMbid": "c7b3f1f5-851a-46d5-8a42-03e5dec54b47",
+    "releaseCount": 2
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "2X_2IdybTV0",
   "title": "Carry on Wayward Son",
   "artist": "Kansas",
-  "lastFetched": "2025-11-29T13:49:20.303Z",
+  "lastFetched": "2025-11-30T20:00:17.073Z",
   "odesli": {
     "amazonMusic": "B00137MFC0",
     "amazonStore": "B00137MFC0",
@@ -32,5 +32,22 @@
     "title": "Carry on Wayward Son",
     "artist": "Kansas",
     "artistMbid": "69689acf-d9cd-4d20-a972-47db4ed51b1a"
+  },
+  "musicbrainz": {
+    "trackMbid": "38ed813b-5d01-477f-a0d3-0842f4f09c23",
+    "artistMbid": "69689acf-d9cd-4d20-a972-47db4ed51b1a",
+    "releaseCount": 7,
+    "artistGenres": [
+      "aor",
+      "classic rock",
+      "folk rock",
+      "hard rock",
+      "progressive",
+      "progressive rock",
+      "rock",
+      "soft rock",
+      "symphonic prog",
+      "symphonic rock"
+    ]
   }
 }

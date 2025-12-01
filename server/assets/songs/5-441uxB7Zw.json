@@ -2,7 +2,7 @@
   "youtubeId": "5-441uxB7Zw",
   "title": "Surfing The Warm Industry",
   "artist": "Kashmir",
-  "lastFetched": "2025-11-26T09:09:00.549Z",
+  "lastFetched": "2025-11-30T20:43:15.209Z",
   "odesli": {
     "amazonMusic": "B004299F5Q",
     "amazonStore": "B004299F5Q",
@@ -19,5 +19,14 @@
   "ai": {
     "title": "Kashmir - Surfing The Warm Industry",
     "artist": "Kashmir"
+  },
+  "musicbrainz": {
+    "trackMbid": "c084853d-689d-484d-b0c5-c939057f31fd",
+    "artistMbid": "cd08ab5e-a823-4985-975d-3a3438b9b5d5",
+    "releaseCount": 6,
+    "artistGenres": [
+      "alternative rock",
+      "indie rock"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "Hn0vSR4NgcY",
   "title": "10  Max Fresh - Candy Kitchen",
-  "lastFetched": "2025-11-26T10:59:51.293Z",
+  "lastFetched": "2025-11-30T21:16:50.651Z",
   "ai": {
     "title": "Candy Kitchen",
     "artist": "Max Fresh"
@@ -18,5 +18,10 @@
       "jazz fusion",
       "lounge house"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f43845e3-8dbe-45be-8e1e-46565e97d942",
+    "artistMbid": "30f3c9c6-007a-4464-b4f7-45b0a29d940d",
+    "releaseCount": 1
   }
 }

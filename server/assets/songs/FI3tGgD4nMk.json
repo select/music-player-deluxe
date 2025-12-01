@@ -1,7 +1,7 @@
 {
   "youtubeId": "FI3tGgD4nMk",
   "title": "Animaniacs - Schnitzelbank",
-  "lastFetched": "2025-11-26T10:57:02.636Z",
+  "lastFetched": "2025-11-30T20:55:55.997Z",
   "ai": {
     "title": "Schnitzelbank",
     "artist": "Animaniacs"
@@ -20,6 +20,14 @@
       "soundtrack",
       "television",
       "funny"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fea24bb8-1239-4137-85c5-82609695b28e",
+    "artistMbid": "d6b4520c-903b-4332-8865-1eed9799aa82",
+    "releaseCount": 3,
+    "genres": [
+      "comedy"
     ]
   }
 }

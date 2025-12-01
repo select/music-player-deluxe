@@ -2,7 +2,7 @@
   "youtubeId": "nrCGZia9E2Y",
   "title": "Termites",
   "artist": "Fracture",
-  "lastFetched": "2025-11-19T09:59:41.709Z",
+  "lastFetched": "2025-11-30T23:21:23.300Z",
   "odesli": {
     "amazonMusic": "B09TWKDZ7N",
     "amazonStore": "B09TWKDZ7N",
@@ -28,6 +28,12 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "96999054-38f8-47da-8906-a6b763aa37ce"
+    "artistMbid": "96999054-38f8-47da-8906-a6b763aa37ce",
+    "trackMbid": "ea241b9a-fa20-4bac-ac33-33c6b4396bcc",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass",
+      "footwork jungle"
+    ]
   }
 }

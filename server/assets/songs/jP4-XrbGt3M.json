@@ -2,7 +2,7 @@
   "youtubeId": "jP4-XrbGt3M",
   "title": "Sowieso",
   "artist": "Mark Forster",
-  "lastFetched": "2025-11-28T18:34:50.718Z",
+  "lastFetched": "2025-11-30T20:02:46.955Z",
   "odesli": {
     "amazonMusic": "B01GB0YIOG",
     "amazonStore": "B01GB0YIOG",
@@ -26,6 +26,17 @@
       "german",
       "linedance 2016",
       "2017 single"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "58630fae-5051-4e40-b1e2-286889418167",
+    "artistMbid": "82931296-9466-447f-a7af-8f3a856bcfd9",
+    "releaseCount": 14,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "pop"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "FJ3t_FORDjw",
   "title": "Chengetedza",
   "artist": "Jah Prayzah",
-  "lastFetched": "2025-11-28T18:38:27.528Z",
+  "lastFetched": "2025-11-30T20:16:16.320Z",
   "odesli": {
     "amazonMusic": "B076DS7FMC",
     "amazonStore": "B076DS7FMC",
@@ -28,5 +28,10 @@
       "africa",
       "zim"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "016bfc20-ccde-4c30-9401-12471c305d22",
+    "artistMbid": "df4b14d3-7c30-40b7-820b-f98e066e803f",
+    "releaseCount": 1
   }
 }

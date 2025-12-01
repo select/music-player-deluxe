@@ -2,7 +2,7 @@
   "youtubeId": "StHGawXsitE",
   "title": "Theme For Great Cities",
   "artist": "Simple Minds",
-  "lastFetched": "2025-11-24T00:22:38.449Z",
+  "lastFetched": "2025-11-30T21:38:31.123Z",
   "odesli": {
     "amazonMusic": "B000TPE57U",
     "amazonStore": "B000TPE57U",
@@ -24,6 +24,26 @@
       "new wave",
       "instrumental",
       "simple minds"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c5aa15fc-b2b1-414c-8811-f6cceee742ea",
+    "artistMbid": "f41490ce-fe39-435d-86c0-ab5ce098b423",
+    "releaseCount": 25,
+    "genres": [
+      "new wave"
+    ],
+    "artistGenres": [
+      "art rock",
+      "electronic",
+      "glam rock",
+      "new wave",
+      "pop",
+      "pop rock",
+      "post-punk",
+      "rock",
+      "soft rock",
+      "synth-pop"
     ]
   }
 }

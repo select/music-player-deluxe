@@ -2,7 +2,7 @@
   "youtubeId": "SY_nw63qzF4",
   "title": "Chica",
   "artist": "Culcha Candela",
-  "lastFetched": "2025-11-29T13:47:13.857Z",
+  "lastFetched": "2025-11-30T19:42:46.627Z",
   "odesli": {
     "amazonMusic": "B09L4H8XHS",
     "amazonStore": "B09L4H8XHS",
@@ -23,6 +23,25 @@
       "deutsch",
       "party",
       "dancehall"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7cf938d6-1135-4d88-b934-8227ee5b0a7f",
+    "artistMbid": "a7a1d1ff-1aa7-4a91-a066-cf48976bf92e",
+    "releaseCount": 8,
+    "genres": [
+      "dancehall",
+      "dub",
+      "electronic",
+      "hip hop",
+      "latin",
+      "reggae"
+    ],
+    "artistGenres": [
+      "dancehall",
+      "hip hop",
+      "reggae",
+      "salsa"
     ]
   }
 }

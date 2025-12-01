@@ -2,7 +2,7 @@
   "youtubeId": "FuyKWtF5aqU",
   "title": "Jul Det' Cool",
   "artist": "MC Einar",
-  "lastFetched": "2025-11-23T19:33:27.874Z",
+  "lastFetched": "2025-11-30T21:57:51.787Z",
   "odesli": {
     "amazonMusic": "B002W3AUCQ",
     "amazonStore": "B002W3AUCQ",
@@ -24,6 +24,14 @@
       "christmas",
       "danish",
       "dansk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "feaf9837-04a9-4351-98b8-8c508ceca5a3",
+    "artistMbid": "fb634193-2592-46f6-9b9f-df8df316d99e",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

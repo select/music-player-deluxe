@@ -2,7 +2,7 @@
   "youtubeId": "Km5nbbtQVDo",
   "title": "Jarred",
   "artist": "Kiasmos",
-  "lastFetched": "2025-11-30T17:44:26.588Z",
+  "lastFetched": "2025-11-30T19:32:28.979Z",
   "odesli": {
     "amazonMusic": "B07N8FMGXQ",
     "amazonStore": "B07N8FMGXQ",
@@ -20,5 +20,16 @@
     "artist": "Kiasmos",
     "mbid": "9449dcab-0fab-48ea-8c1b-6e09e9c47a0b",
     "artistMbid": "3252542b-98a7-48ba-9861-7a612b16c227"
+  },
+  "musicbrainz": {
+    "trackMbid": "cc31a58b-40a9-4f6b-9f02-d39ff7342a4d",
+    "artistMbid": "3252542b-98a7-48ba-9861-7a612b16c227",
+    "releaseCount": 3,
+    "artistGenres": [
+      "electronic",
+      "idm",
+      "microhouse",
+      "minimal techno"
+    ]
   }
 }

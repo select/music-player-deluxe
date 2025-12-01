@@ -1,7 +1,7 @@
 {
   "youtubeId": "NpDYfkymaSE",
   "title": "Sturgill Simpson - \"In Bloom\"",
-  "lastFetched": "2025-11-26T10:59:36.651Z",
+  "lastFetched": "2025-11-30T21:15:25.584Z",
   "ai": {
     "title": "In Bloom",
     "artist": "Sturgill Simpson"
@@ -18,6 +18,22 @@
       "nirvana cover",
       "country",
       "alt-country"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0d7ed4b6-2f6e-4bb1-9b05-6c9b3d312f36",
+    "artistMbid": "f6e61750-a6b7-4d88-979b-052345cd0e4a",
+    "releaseCount": 6,
+    "genres": [
+      "alternative country",
+      "country",
+      "country pop"
+    ],
+    "artistGenres": [
+      "americana",
+      "bluegrass",
+      "country",
+      "outlaw country"
     ]
   }
 }

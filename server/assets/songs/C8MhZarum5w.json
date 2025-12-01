@@ -1,7 +1,7 @@
 {
   "youtubeId": "C8MhZarum5w",
   "title": "Versus Them - Impossible Dreams",
-  "lastFetched": "2025-11-27T11:59:50.389Z",
+  "lastFetched": "2025-11-30T20:20:44.949Z",
   "ai": {
     "title": "Impossible Dreams",
     "artist": "Versus Them"
@@ -18,5 +18,10 @@
     "tags": [
       "alternative rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f7c7ac6a-52a7-461d-becc-4e2c109e6145",
+    "artistMbid": "91097aa2-12a7-44f0-92fb-01c29a02e65f",
+    "releaseCount": 1
   }
 }

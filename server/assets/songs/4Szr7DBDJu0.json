@@ -2,7 +2,7 @@
   "youtubeId": "4Szr7DBDJu0",
   "title": "People Everywhere (Shifting Sands Remix)",
   "artist": "Khruangbin",
-  "lastFetched": "2025-11-23T15:17:55.670Z",
+  "lastFetched": "2025-11-30T22:24:36.775Z",
   "lastfm": {
     "title": "People Everywhere (Shifting Sands Remix)",
     "artist": "Khruangbin",
@@ -16,6 +16,23 @@
       "psychedelic",
       "psychedelic rock",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8a6535ee-5661-4c77-817e-5d2e77184dc9",
+    "artistMbid": "aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634",
+    "releaseCount": 4,
+    "artistGenres": [
+      "alternative rock",
+      "blues",
+      "dub",
+      "funk",
+      "indie rock",
+      "instrumental",
+      "neo-psychedelia",
+      "psychedelic rock",
+      "psychedelic soul",
+      "surf"
     ]
   }
 }

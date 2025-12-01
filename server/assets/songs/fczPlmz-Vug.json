@@ -2,7 +2,7 @@
   "youtubeId": "fczPlmz-Vug",
   "title": "Us",
   "artist": "Regina Spektor",
-  "lastFetched": "2025-11-23T19:33:39.999Z",
+  "lastFetched": "2025-11-30T21:57:16.319Z",
   "odesli": {
     "amazonMusic": "B0047XGFBE",
     "amazonStore": "B0047XGFBE",
@@ -34,6 +34,34 @@
       "indie",
       "singer-songwriter",
       "beautiful"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f8afc3ec-39d3-42a5-80fa-0e9c03fa8a5f",
+    "artistMbid": "fbb375f9-48bb-4635-824e-4120273b3ba7",
+    "releaseCount": 18,
+    "genres": [
+      "alternative rock",
+      "art rock",
+      "folk",
+      "folk rock",
+      "pop",
+      "punk",
+      "rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "anti-folk",
+      "art pop",
+      "chamber pop",
+      "folk",
+      "indie pop",
+      "indie rock",
+      "piano rock",
+      "pop rock",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

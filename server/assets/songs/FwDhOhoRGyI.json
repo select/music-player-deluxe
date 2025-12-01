@@ -2,7 +2,7 @@
   "youtubeId": "FwDhOhoRGyI",
   "title": "Climbing the Corporate Ladder",
   "artist": "Nmesh",
-  "lastFetched": "2025-11-24T00:23:12.706Z",
+  "lastFetched": "2025-11-30T21:33:41.050Z",
   "odesli": {
     "amazonMusic": "B00IK9O41O",
     "amazonStore": "B00IK9O41O",
@@ -29,6 +29,32 @@
       "vaporwave",
       "banned",
       "broken transmission"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d12c3e8c-dd29-4629-b6ad-e2fa8b1a1c6c",
+    "artistMbid": "c9f61590-7151-4705-8ee8-c4a19dfc2f54",
+    "releaseCount": 3,
+    "genres": [
+      "ambient",
+      "electronic",
+      "experimental",
+      "hip hop",
+      "lo-fi",
+      "non-music",
+      "pop",
+      "psychedelic rock",
+      "rock",
+      "vaporwave"
+    ],
+    "artistGenres": [
+      "dark ambient",
+      "electronic",
+      "experimental",
+      "idm",
+      "psychedelic",
+      "sound collage",
+      "vaporwave"
     ]
   }
 }

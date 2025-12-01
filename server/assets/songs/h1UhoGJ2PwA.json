@@ -2,7 +2,7 @@
   "youtubeId": "h1UhoGJ2PwA",
   "title": "Cavalry in Thousands",
   "artist": "Tengger Cavalry",
-  "lastFetched": "2025-11-26T10:55:51.672Z",
+  "lastFetched": "2025-11-30T20:42:50.546Z",
   "odesli": {
     "appleMusic": "1179450798",
     "itunes": "1179450798",
@@ -27,6 +27,19 @@
       "folk metal",
       "chinese",
       "mongolian"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "662fa123-dcb8-4387-b7ff-e9fa3b40e109",
+    "artistMbid": "71c53622-5e7d-44da-90d3-30ea2c89ad0e",
+    "releaseCount": 4,
+    "genres": [
+      "black metal",
+      "folk metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "folk metal"
     ]
   }
 }

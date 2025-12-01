@@ -2,7 +2,7 @@
   "youtubeId": "DRfzittQ4Wc",
   "title": "Awakening",
   "artist": "ichika Nito",
-  "lastFetched": "2025-11-19T10:17:30.855Z",
+  "lastFetched": "2025-11-30T23:20:30.747Z",
   "lastfm": {
     "id": "ichika+Nito/_/Awakening",
     "listeners": 27973,
@@ -13,5 +13,10 @@
       "japan",
       "math rock"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "387a9f71-707f-4ce9-b80e-abda45399f3d",
+    "artistMbid": "d148a0ee-8cb8-4392-9465-e0078f211fe7",
+    "releaseCount": 1
   }
 }

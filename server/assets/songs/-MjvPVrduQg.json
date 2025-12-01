@@ -2,7 +2,7 @@
   "youtubeId": "-MjvPVrduQg",
   "title": "Du musst gar nix",
   "artist": "Die Sterne",
-  "lastFetched": "2025-11-23T14:11:10.351Z",
+  "lastFetched": "2025-11-30T22:45:52.553Z",
   "lastfm": {
     "title": "Du musst gar nix",
     "artist": "Die Sterne",
@@ -17,6 +17,16 @@
       "indie",
       "deutsch",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2a4357df-45b2-4ff8-8fb1-69a1472d8eae",
+    "artistMbid": "52f2c49e-43c4-4716-bf4a-0eac1c651d3a",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hamburger schule",
+      "indie pop",
+      "indie rock"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "mOX8ckmW-tU",
   "title": "Habibi Funk //  حبيبي فنك : Fadoul - Al Zman Saib (Morocco, 1971)",
-  "lastFetched": "2025-11-27T12:03:16.652Z",
+  "lastFetched": "2025-11-30T20:41:28.535Z",
   "ai": {
     "title": "Al Zman Saib",
     "artist": "Fadoul"
@@ -18,6 +18,17 @@
       "arabic",
       "funk",
       "morocco"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "88f88d1c-521b-4870-96ef-aa1509dc6980",
+    "artistMbid": "a80023e0-776f-45ac-b942-ac11506d5bd0",
+    "releaseCount": 1,
+    "genres": [
+      "funk"
+    ],
+    "artistGenres": [
+      "funk"
     ]
   }
 }

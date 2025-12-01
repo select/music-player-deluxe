@@ -1,7 +1,7 @@
 {
   "youtubeId": "beLokKMK1g8",
   "title": "Heiter bis Wolkig-Hey Rote Zora",
-  "lastFetched": "2025-11-26T10:57:21.884Z",
+  "lastFetched": "2025-11-30T21:01:27.587Z",
   "ai": {
     "title": "Hey Rote Zora",
     "artist": "Heiter bis Wolkig"
@@ -19,6 +19,14 @@
       "punk rock",
       "names",
       "fun-punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6801216c-8b14-4c69-b705-42031756cea5",
+    "artistMbid": "b6bacc70-6496-40e2-84bb-e8e4146c7845",
+    "releaseCount": 2,
+    "artistGenres": [
+      "punk"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "J0WYFNk7-vg",
   "title": "Prinzessin Susi",
   "artist": "Bummelkasten",
-  "lastFetched": "2025-11-23T15:19:57.162Z",
+  "lastFetched": "2025-11-30T22:24:20.855Z",
   "lastfm": {
     "title": "Prinzessin Susi",
     "artist": "Bummelkasten",
@@ -15,6 +15,15 @@
       "german",
       "deutsch",
       "children"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6d8e8d44-ecb5-4747-8402-f1b2f1830392",
+    "artistMbid": "d00c3142-67ad-426b-8297-117d59cd2a66",
+    "releaseCount": 1,
+    "artistGenres": [
+      "beatboxing",
+      "children's music"
     ]
   }
 }

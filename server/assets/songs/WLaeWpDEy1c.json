@@ -1,7 +1,7 @@
 {
   "youtubeId": "WLaeWpDEy1c",
   "title": "Arto Lindsay - Simply Are",
-  "lastFetched": "2025-11-27T12:01:45.005Z",
+  "lastFetched": "2025-11-30T20:32:06.394Z",
   "ai": {
     "title": "Simply Are",
     "artist": "Arto Lindsay"
@@ -20,6 +20,22 @@
       "dance rock",
       "art rock",
       "bossa nova"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "594bf295-4899-4e43-9749-ca0d814d0a5e",
+    "artistMbid": "6c1904f2-dacf-4389-b828-d2cedc6f12b4",
+    "releaseCount": 2,
+    "genres": [
+      "alternative rock",
+      "bossa nova",
+      "jazz",
+      "no wave",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "no wave"
     ]
   }
 }

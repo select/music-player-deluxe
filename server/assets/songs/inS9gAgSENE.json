@@ -1,7 +1,7 @@
 {
   "youtubeId": "inS9gAgSENE",
   "title": "Stevie Wonder - Happy Birthday",
-  "lastFetched": "2025-11-26T11:02:40.138Z",
+  "lastFetched": "2025-11-30T21:40:29.205Z",
   "ai": {
     "title": "Happy Birthday",
     "artist": "Stevie Wonder"
@@ -20,6 +20,25 @@
       "birthday",
       "pop",
       "rb"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0b48097f-342e-46c6-a253-407eaea0c4a9",
+    "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+    "releaseCount": 25,
+    "genres": [
+      "disco",
+      "motown",
+      "pop",
+      "r&b",
+      "soul"
+    ],
+    "artistGenres": [
+      "contemporary r&b",
+      "funk",
+      "pop",
+      "pop soul",
+      "soul"
     ]
   }
 }

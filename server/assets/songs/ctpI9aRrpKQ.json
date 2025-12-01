@@ -2,7 +2,7 @@
   "youtubeId": "ctpI9aRrpKQ",
   "title": "Rapture",
   "artist": "Pedro The Lion",
-  "lastFetched": "2025-11-27T12:04:26.182Z",
+  "lastFetched": "2025-11-30T20:53:09.996Z",
   "odesli": {
     "amazonMusic": "B07ZMHGJRQ",
     "amazonStore": "B07ZMHGJRQ",
@@ -25,6 +25,18 @@
       "indie",
       "indie rock",
       "gospel influences"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ea974f62-3832-4053-b20d-a25f0b1e508e",
+    "artistMbid": "2f360fd9-6440-4896-9f45-8156e8b0b204",
+    "releaseCount": 5,
+    "genres": [
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "indie rock"
     ]
   }
 }

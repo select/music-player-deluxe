@@ -2,7 +2,7 @@
   "youtubeId": "IKniXABsUeE",
   "title": "Wildcat",
   "artist": "Ratatat",
-  "lastFetched": "2025-11-28T18:37:35.923Z",
+  "lastFetched": "2025-11-30T20:13:27.100Z",
   "odesli": {
     "amazonMusic": "B000SFOJKE",
     "amazonStore": "B000SFOJKE",
@@ -27,6 +27,28 @@
       "electronic",
       "instrumental",
       "indie"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3235bd73-4d84-49db-9634-7512b1f29fea",
+    "artistMbid": "f467181e-d5e0-4285-b47e-e853dcc89ee7",
+    "releaseCount": 9,
+    "genres": [
+      "electro",
+      "electronic",
+      "indie rock",
+      "indietronica",
+      "instrumental",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "electronic",
+      "hip hop",
+      "indietronica",
+      "instrumental",
+      "neo-psychedelia",
+      "new rave"
     ]
   }
 }

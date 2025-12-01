@@ -1,7 +1,7 @@
 {
   "youtubeId": "7RI4ggjiql0",
   "title": "Voyager - Time Travel",
-  "lastFetched": "2025-11-27T12:01:34.179Z",
+  "lastFetched": "2025-11-30T20:30:41.296Z",
   "ai": {
     "title": "Time Travel",
     "artist": "Voyager"
@@ -19,6 +19,19 @@
       "post-metal",
       "power metal",
       "sludge"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f5f0594f-b9f0-4f47-b6b8-f8d661c6357a",
+    "artistMbid": "c2e00cee-e2c1-49aa-84c6-7ae0d260c508",
+    "releaseCount": 3,
+    "genres": [
+      "dance",
+      "electronic",
+      "house",
+      "progressive house",
+      "progressive trance",
+      "trance"
     ]
   }
 }

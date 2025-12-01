@@ -2,7 +2,7 @@
   "youtubeId": "2soGJXQAQec",
   "title": "Who Am I (What’s My Name)?",
   "artist": "Snoop Dogg",
-  "lastFetched": "2025-11-19T09:08:35.454Z",
+  "lastFetched": "2025-11-30T23:23:14.383Z",
   "odesli": {
     "amazonMusic": "B0BXVK652T",
     "amazonStore": "B0BXVK652T",
@@ -28,6 +28,14 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "f90e8b26-9e52-4669-a5c9-e28529c47894"
+    "artistMbid": "f90e8b26-9e52-4669-a5c9-e28529c47894",
+    "trackMbid": "87bd9236-22df-459a-aafd-fb6a13ee53d2",
+    "releaseCount": 2,
+    "artistGenres": [
+      "g-funk",
+      "gangsta rap",
+      "hip hop",
+      "west coast hip hop"
+    ]
   }
 }

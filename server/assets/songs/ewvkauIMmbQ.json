@@ -2,7 +2,7 @@
   "youtubeId": "ewvkauIMmbQ",
   "title": "Kommienezuspadt",
   "artist": "Tom Waits",
-  "lastFetched": "2025-11-29T13:47:47.536Z",
+  "lastFetched": "2025-11-30T19:46:47.039Z",
   "odesli": {
     "amazonMusic": "B07ZMH678Z",
     "amazonStore": "B07ZMH678Z",
@@ -27,6 +27,36 @@
       "blues",
       "jazz",
       "cabaret",
+      "singer-songwriter"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a9fb5f00-50dc-4e01-a2c7-227da5027677",
+    "artistMbid": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+    "releaseCount": 7,
+    "genres": [
+      "dark cabaret",
+      "experimental",
+      "rock",
+      "singer-songwriter",
+      "vocal jazz"
+    ],
+    "artistGenres": [
+      "americana",
+      "avant-garde jazz",
+      "beat poetry",
+      "blues",
+      "blues rock",
+      "dark cabaret",
+      "dark jazz",
+      "experimental",
+      "experimental rock",
+      "folk",
+      "folk rock",
+      "gothic country",
+      "jazz",
+      "piano blues",
+      "rock",
       "singer-songwriter"
     ]
   }

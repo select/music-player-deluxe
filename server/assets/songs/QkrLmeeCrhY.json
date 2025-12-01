@@ -1,7 +1,7 @@
 {
   "youtubeId": "QkrLmeeCrhY",
   "title": "\"Serenade\" Steve Miller Band (lyrics⬇) ⭐",
-  "lastFetched": "2025-11-27T12:02:05.284Z",
+  "lastFetched": "2025-11-30T20:33:58.511Z",
   "ai": {
     "title": "Serenade",
     "artist": "Steve Miller Band"
@@ -18,6 +18,28 @@
       "classic rock",
       "rock",
       "70s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4c324a81-02a6-4f97-a130-ffe3649481c0",
+    "artistMbid": "e57f0cac-4f56-473c-8d7e-d93f753fd586",
+    "releaseCount": 25,
+    "genres": [
+      "arena rock",
+      "blues",
+      "blues rock",
+      "classic rock",
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "country rock",
+      "new wave",
+      "pop rock",
+      "psychedelic rock",
+      "rock"
     ]
   }
 }

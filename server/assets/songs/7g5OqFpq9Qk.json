@@ -2,7 +2,7 @@
   "youtubeId": "7g5OqFpq9Qk",
   "title": "puck",
   "artist": "Stephan Bodzin",
-  "lastFetched": "2025-11-19T08:43:37.764Z",
+  "lastFetched": "2025-11-30T23:25:00.856Z",
   "odesli": {
     "amazonMusic": "B0011KLM28",
     "amazonStore": "B0011KLM28",
@@ -26,6 +26,19 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "6f027cd7-c2e8-4569-8922-aa2c9a503e65"
+    "artistMbid": "6f027cd7-c2e8-4569-8922-aa2c9a503e65",
+    "trackMbid": "266d318e-ace9-429d-87b1-93cf1cac1a06",
+    "releaseCount": 4,
+    "genres": [
+      "electronic",
+      "experimental",
+      "techno"
+    ],
+    "artistGenres": [
+      "electronic",
+      "minimal techno",
+      "tech house",
+      "techno"
+    ]
   }
 }

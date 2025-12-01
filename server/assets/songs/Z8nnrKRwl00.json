@@ -1,7 +1,7 @@
 {
   "youtubeId": "Z8nnrKRwl00",
   "title": "Larry Carlton - Bubble Shuffle [Audio HQ]",
-  "lastFetched": "2025-11-27T12:00:05.352Z",
+  "lastFetched": "2025-11-30T20:22:32.222Z",
   "ai": {
     "title": "Bubble Shuffle",
     "artist": "Larry Carlton"
@@ -19,6 +19,21 @@
       "fusion",
       "jazz fusion",
       "larry carlton"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f2fbdd6d-371c-4b3c-91e2-3768dd8afb76",
+    "artistMbid": "f1f81989-dfa9-4bd3-805e-dcf3900c43e3",
+    "releaseCount": 2,
+    "artistGenres": [
+      "blues",
+      "jazz",
+      "jazz fusion",
+      "jazz pop",
+      "jazz rock",
+      "progressive pop",
+      "rock",
+      "smooth jazz"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "lj7OZ6w04DQ",
   "title": "Open Questions",
   "artist": "Mulo Francel",
-  "lastFetched": "2025-11-19T03:46:54.096Z",
+  "lastFetched": "2025-11-30T23:42:00.572Z",
   "odesli": {
     "amazonMusic": "B0F9Z1G6GZ",
     "amazonStore": "B0F9Z1G6GZ",
@@ -25,6 +25,14 @@
     "tags": [
       "jazz",
       "saxophone"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "14b3e290-2f00-48ba-b982-7c502bab50a4",
+    "artistMbid": "1c1353a4-fd81-415d-b126-9eb3d1b5b745",
+    "releaseCount": 1,
+    "artistGenres": [
+      "jazz"
     ]
   }
 }

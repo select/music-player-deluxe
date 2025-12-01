@@ -2,7 +2,7 @@
   "youtubeId": "sT1DdO3SISg",
   "title": "Creep",
   "artist": "Stone Temple Pilots",
-  "lastFetched": "2025-11-29T13:49:14.690Z",
+  "lastFetched": "2025-11-30T19:59:07.493Z",
   "odesli": {
     "amazonMusic": "B0745493HN",
     "amazonStore": "B0745493HN",
@@ -34,6 +34,27 @@
       "alternative rock",
       "rock",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5486170f-2169-4687-87a0-1576fde4e72e",
+    "artistMbid": "8c32bb01-58a3-453b-8050-8c0620edb0e5",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "neo-psychedelia",
+      "post-grunge",
+      "power pop"
     ]
   }
 }

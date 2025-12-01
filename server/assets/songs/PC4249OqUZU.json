@@ -2,7 +2,7 @@
   "youtubeId": "PC4249OqUZU",
   "title": "Broke",
   "artist": "Scott Lavene",
-  "lastFetched": "2025-11-23T15:34:13.804Z",
+  "lastFetched": "2025-11-30T22:21:01.359Z",
   "odesli": {
     "amazonMusic": "B0BGZYRPTV",
     "amazonStore": "B0BGZYRPTV",
@@ -26,6 +26,14 @@
       "spoken word",
       "post-punk",
       "cockney"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "348b8379-8ac4-4df1-b611-d5534e09af26",
+    "artistMbid": "e56f4b04-4ca2-4795-b6f7-6ccdb1d8f745",
+    "releaseCount": 2,
+    "artistGenres": [
+      "punk"
     ]
   }
 }

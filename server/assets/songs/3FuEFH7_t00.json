@@ -2,7 +2,7 @@
   "youtubeId": "3FuEFH7_t00",
   "title": "Dublisious",
   "artist": "Grouch in Dub",
-  "lastFetched": "2025-11-19T13:22:05.564Z",
+  "lastFetched": "2025-11-30T23:03:45.235Z",
   "odesli": {
     "amazonMusic": "B07H15FKF3",
     "amazonStore": "B07H15FKF3",
@@ -26,6 +26,18 @@
       "chillout",
       "dub",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "19be1ee1-8dfd-454a-9848-65358369125d",
+    "artistMbid": "0317e0ff-245e-4ee2-a398-dda248361dc5",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dub",
+      "electronic",
+      "psychedelic",
+      "psytrance",
+      "trance"
     ]
   }
 }

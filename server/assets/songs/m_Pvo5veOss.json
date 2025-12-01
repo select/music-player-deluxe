@@ -1,7 +1,7 @@
 {
   "youtubeId": "m_Pvo5veOss",
   "title": "Max Raabe - Der perfekte Moment… wird heut verpennt",
-  "lastFetched": "2025-11-27T12:00:35.336Z",
+  "lastFetched": "2025-11-30T20:25:14.296Z",
   "ai": {
     "title": "Der perfekte Moment… wird heut verpennt",
     "artist": "Max Raabe & Palast Orchester"
@@ -18,6 +18,15 @@
       "swing",
       "german",
       "big band"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "67c09a89-4549-48da-9d41-eef52dd6c78d",
+    "artistMbid": "1a5f7021-3742-4b0e-8b60-e21c3b593f5a",
+    "releaseCount": 3,
+    "artistGenres": [
+      "kabarett",
+      "old-time"
     ]
   }
 }

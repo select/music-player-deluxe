@@ -2,7 +2,7 @@
   "youtubeId": "VGJlu7nlikY",
   "title": "Liquor & Cigarettes",
   "artist": "Chase & Status",
-  "lastFetched": "2025-11-19T17:17:34.346Z",
+  "lastFetched": "2025-11-30T22:39:35.425Z",
   "odesli": {
     "amazonMusic": "B0CHYQZB1C",
     "amazonStore": "B0CHYQZB1C",
@@ -33,6 +33,26 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+    "artistMbid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+    "trackMbid": "ad0d7921-a8d5-47a4-a660-616f67402f77",
+    "releaseCount": 8,
+    "artistGenres": [
+      "breakbeat",
+      "breaks",
+      "club",
+      "dance",
+      "disco",
+      "drum and bass",
+      "dubstep",
+      "electronic",
+      "grime",
+      "hip hop",
+      "house",
+      "jungle",
+      "nu skool breaks",
+      "pop",
+      "techno",
+      "uk garage"
+    ]
   }
 }

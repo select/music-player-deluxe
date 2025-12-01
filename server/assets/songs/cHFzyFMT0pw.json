@@ -2,7 +2,7 @@
   "youtubeId": "cHFzyFMT0pw",
   "title": "Kids See Ghosts",
   "artist": "KIDS SEE GHOSTS",
-  "lastFetched": "2025-11-23T15:54:10.259Z",
+  "lastFetched": "2025-11-30T22:15:20.125Z",
   "odesli": {
     "amazonMusic": "B07DM7HPMT",
     "amazonStore": "B07DM7HPMT",
@@ -34,6 +34,19 @@
       "kid cudi",
       "kanye west",
       "love"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1409b08a-5c50-4604-9e46-96e22bead958",
+    "artistMbid": "793e220b-64f8-46d9-954d-e033dbcfeef4",
+    "releaseCount": 17,
+    "genres": [
+      "hip hop"
+    ],
+    "artistGenres": [
+      "experimental hip hop",
+      "hip hop",
+      "pop rap"
     ]
   }
 }

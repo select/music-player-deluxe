@@ -1,7 +1,7 @@
 {
   "youtubeId": "pY7zqDemqZo",
   "title": "Turbowolf - Rabbits Foot",
-  "lastFetched": "2025-11-27T12:01:59.346Z",
+  "lastFetched": "2025-11-30T20:33:24.636Z",
   "ai": {
     "title": "Rabbits Foot",
     "artist": "Turbowolf"
@@ -20,6 +20,15 @@
       "stoner rock",
       "rock",
       "punk rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "64c9b85c-7578-41a1-bb32-01390bb2a37b",
+    "artistMbid": "698c4374-6e7e-4369-a5f4-668976701659",
+    "releaseCount": 3,
+    "artistGenres": [
+      "alternative metal",
+      "hard rock"
     ]
   }
 }

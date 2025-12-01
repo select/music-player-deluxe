@@ -1,7 +1,7 @@
 {
   "youtubeId": "z8YEUPS0UYE",
   "title": "Olli Schulz - Irgendwas fehlt (live bei TV Noir)",
-  "lastFetched": "2025-11-26T10:57:28.346Z",
+  "lastFetched": "2025-11-30T21:02:42.414Z",
   "ai": {
     "title": "Irgendwas fehlt",
     "artist": "Olli Schulz"
@@ -19,6 +19,15 @@
       "rock",
       "german",
       "indie rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1c007a95-3644-4e36-bb69-6b7d31326f37",
+    "artistMbid": "e7f653ba-8cb5-41d9-aaac-f917996fd67d",
+    "releaseCount": 1,
+    "artistGenres": [
+      "indie rock",
+      "singer-songwriter"
     ]
   }
 }

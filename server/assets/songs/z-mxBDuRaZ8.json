@@ -2,7 +2,7 @@
   "youtubeId": "z-mxBDuRaZ8",
   "title": "Lazy Eye",
   "artist": "Silversun Pickups",
-  "lastFetched": "2025-11-27T12:05:34.585Z",
+  "lastFetched": "2025-11-30T21:06:23.379Z",
   "odesli": {
     "amazonMusic": "B00R8JQPS2",
     "amazonStore": "B00R8JQPS2",
@@ -28,5 +28,22 @@
     ],
     "title": "Lazy Eye",
     "artist": "Silversun Pickups"
+  },
+  "musicbrainz": {
+    "trackMbid": "f33fc4cb-0b10-4666-9c12-20ec39ea71d7",
+    "artistMbid": "b5bd9f88-962e-4730-84a7-795592ba42e8",
+    "releaseCount": 4,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "indie rock",
+      "indietronica",
+      "rock",
+      "shoegaze"
+    ]
   }
 }

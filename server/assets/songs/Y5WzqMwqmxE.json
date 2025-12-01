@@ -2,7 +2,7 @@
   "youtubeId": "Y5WzqMwqmxE",
   "title": "I Am Dune",
   "artist": "Kurt Stenzel",
-  "lastFetched": "2025-11-29T13:48:15.503Z",
+  "lastFetched": "2025-11-30T19:51:20.675Z",
   "odesli": {
     "amazonMusic": "B0DT2M7WRF",
     "amazonStore": "B0DT2M7WRF",
@@ -26,5 +26,10 @@
       "berlin school",
       "horror synth"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b7857c99-4209-4fa5-b9ff-d436961bbd11",
+    "artistMbid": "9e4251b1-2734-4f74-8860-9c095740be5c",
+    "releaseCount": 2
   }
 }

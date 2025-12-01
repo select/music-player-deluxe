@@ -2,7 +2,7 @@
   "youtubeId": "FRtd8ArvH_s",
   "title": "Gold Guns Girls",
   "artist": "Metric",
-  "lastFetched": "2025-11-27T12:05:30.693Z",
+  "lastFetched": "2025-11-30T21:05:48.307Z",
   "odesli": {
     "amazonMusic": "B07646Y4SK",
     "amazonStore": "B07646Y4SK",
@@ -29,6 +29,23 @@
       "indie rock",
       "indie",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "51533967-56d0-431f-aa00-12cb953d4d42",
+    "artistMbid": "4449ccf6-c948-4d33-aa97-b6ad98ce4b5b",
+    "releaseCount": 25,
+    "genres": [
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "electronic",
+      "indie rock",
+      "new wave",
+      "pop",
+      "soft rock"
     ]
   }
 }

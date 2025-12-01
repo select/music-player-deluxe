@@ -2,7 +2,7 @@
   "youtubeId": "jcJ81N6x9VM",
   "title": "I AM",
   "artist": "Ken Arai",
-  "lastFetched": "2025-11-29T13:47:45.090Z",
+  "lastFetched": "2025-11-30T19:46:44.188Z",
   "odesli": {
     "amazonMusic": "B0BHWXG6HL",
     "amazonStore": "B0BHWXG6HL",
@@ -23,6 +23,18 @@
       "soundtrack",
       "dubstep",
       "rating 5"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5b8de4b7-9f45-41b4-94e0-6752c0ad9606",
+    "artistMbid": "7c93a8b6-744a-4993-b1b8-1ced18dfbf5f",
+    "releaseCount": 2,
+    "genres": [
+      "electronic"
+    ],
+    "artistGenres": [
+      "electronic",
+      "neoclassicism"
     ]
   }
 }

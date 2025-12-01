@@ -2,7 +2,7 @@
   "youtubeId": "-OqaaY2noQI",
   "title": "VU",
   "artist": "Sababa 5",
-  "lastFetched": "2025-11-24T00:23:23.971Z",
+  "lastFetched": "2025-11-30T21:32:11.653Z",
   "odesli": {
     "amazonMusic": "B0F3DLFHZL",
     "amazonStore": "B0F3DLFHZL",
@@ -25,6 +25,16 @@
     "tags": [
       "wsum 91.7 fm madison",
       "greenarrowradio"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2e5dac06-0933-43da-95b1-a778871d85dd",
+    "artistMbid": "f24158d2-5095-4ecd-89e9-9e34fadd8e0a",
+    "releaseCount": 2,
+    "artistGenres": [
+      "anatolian rock",
+      "muzika mizrahit",
+      "neo-psychedelia"
     ]
   }
 }

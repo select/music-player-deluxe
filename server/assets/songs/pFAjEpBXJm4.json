@@ -1,7 +1,7 @@
 {
   "youtubeId": "pFAjEpBXJm4",
   "title": "Turbowolf - The Free Life",
-  "lastFetched": "2025-11-27T12:02:02.410Z",
+  "lastFetched": "2025-11-30T20:33:36.992Z",
   "ai": {
     "title": "The Free Life",
     "artist": "Turbowolf"
@@ -19,6 +19,15 @@
       "stoner rock",
       "rock",
       "punk rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2aafb40e-21ae-4af4-9b90-5e5e78938c48",
+    "artistMbid": "698c4374-6e7e-4369-a5f4-668976701659",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative metal",
+      "hard rock"
     ]
   }
 }

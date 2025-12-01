@@ -2,7 +2,7 @@
   "youtubeId": "Hld-g6DTf4Y",
   "title": "My Kantele (Acoustic Reprise)",
   "artist": "Amorphis",
-  "lastFetched": "2025-11-27T12:04:42.668Z",
+  "lastFetched": "2025-11-30T20:55:51.270Z",
   "odesli": {
     "amazonMusic": "B000YWUXJC",
     "amazonStore": "B000YWUXJC",
@@ -23,6 +23,30 @@
       "acoustic",
       "progressive metal",
       "amorphis"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "80f8a2b0-d497-4f93-b400-0212665d1a42",
+    "artistMbid": "efaefde1-e09b-4d49-9d8e-b1304d2ece8d",
+    "releaseCount": 19,
+    "genres": [
+      "alternative rock",
+      "death metal",
+      "heavy metal",
+      "melodic death metal",
+      "metal",
+      "progressive metal",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "death metal",
+      "death-doom metal",
+      "folk metal",
+      "melodic death metal",
+      "metal",
+      "progressive metal",
+      "symphonic metal"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ygFtKbGPo8E",
   "title": "Reina Mora",
   "artist": "Marina Herlop",
-  "lastFetched": "2025-11-23T15:28:39.055Z",
+  "lastFetched": "2025-11-30T22:22:35.158Z",
   "odesli": {
     "amazonMusic": "B0CJCGNFKJ",
     "amazonStore": "B0CJCGNFKJ",
@@ -32,6 +32,15 @@
       "electronic",
       "spanish",
       "spain"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "78820085-16de-403f-8ce2-0618e7cb28d7",
+    "artistMbid": "a9cf7208-96ef-4b24-acfd-48f361b10f26",
+    "releaseCount": 2,
+    "artistGenres": [
+      "avant-garde",
+      "experimental"
     ]
   }
 }

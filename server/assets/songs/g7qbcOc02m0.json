@@ -2,7 +2,7 @@
   "youtubeId": "g7qbcOc02m0",
   "title": "Sad Big Blue Eyes",
   "artist": "Tango With Lions",
-  "lastFetched": "2025-11-24T00:22:42.907Z",
+  "lastFetched": "2025-11-30T21:37:33.459Z",
   "odesli": {
     "amazonMusic": "B0D7QF1ZWK",
     "amazonStore": "B0D7QF1ZWK",
@@ -22,6 +22,17 @@
     "tags": [
       "lovely",
       "faves"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5737607e-e4ca-4fcb-adad-655ab5b5a212",
+    "artistMbid": "0c936a35-b167-4995-8576-106b54d7e147",
+    "releaseCount": 2,
+    "genres": [
+      "acoustic rock",
+      "folk rock",
+      "indie rock",
+      "rock"
     ]
   }
 }

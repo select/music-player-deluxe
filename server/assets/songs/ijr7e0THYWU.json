@@ -2,7 +2,7 @@
   "youtubeId": "ijr7e0THYWU",
   "title": "I May Hate You Sometimes",
   "artist": "The Posies",
-  "lastFetched": "2025-11-26T11:00:52.777Z",
+  "lastFetched": "2025-11-30T21:21:57.497Z",
   "odesli": {
     "amazonMusic": "B00MIB2NJU",
     "amazonStore": "B00MIB2NJU",
@@ -23,6 +23,22 @@
       "daria",
       "power pop",
       "jangle pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f804293c-1ca7-48a9-897c-5bca4e3cd5ca",
+    "artistMbid": "4e083f26-965f-436f-9227-c2c47ad18ffc",
+    "releaseCount": 7,
+    "genres": [
+      "power pop",
+      "psychedelic rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "indie rock",
+      "power pop",
+      "rock"
     ]
   }
 }

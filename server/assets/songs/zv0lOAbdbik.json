@@ -1,9 +1,19 @@
 {
   "youtubeId": "zv0lOAbdbik",
   "title": "Gang Starr - All for tha Cash - Rest in Peace Guru",
-  "lastFetched": "2025-11-25T16:55:59.039Z",
+  "lastFetched": "2025-11-30T21:20:43.297Z",
   "ai": {
     "title": "All for tha Cash",
     "artist": "Gang Starr"
+  },
+  "musicbrainz": {
+    "trackMbid": "e7011a0e-bf28-431b-bdee-e5e889aef891",
+    "artistMbid": "9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
+    "releaseCount": 1,
+    "artistGenres": [
+      "boom bap",
+      "east coast hip hop",
+      "hip hop"
+    ]
   }
 }

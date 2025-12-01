@@ -2,7 +2,7 @@
   "youtubeId": "hbe3CQamF8k",
   "title": "Angel",
   "artist": "Massive Attack",
-  "lastFetched": "2025-11-30T17:45:05.621Z",
+  "lastFetched": "2025-11-30T19:38:28.803Z",
   "odesli": {
     "amazonMusic": "B000T02G8K",
     "amazonStore": "B000T02G8K",
@@ -33,5 +33,34 @@
     "artist": "Massive Attack",
     "mbid": "6e84547b-b183-4745-80de-9a804877e947",
     "artistMbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8"
+  },
+  "musicbrainz": {
+    "trackMbid": "8e74dd9d-e5a3-4acd-918a-c36a0f8cda84",
+    "artistMbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
+    "releaseCount": 25,
+    "genres": [
+      "alternative dance",
+      "alternative rock",
+      "dance",
+      "downtempo",
+      "dub",
+      "edm",
+      "electronic",
+      "electronica",
+      "house",
+      "leftfield",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "ambient",
+      "club",
+      "downtempo",
+      "dub",
+      "electronic",
+      "electronica",
+      "trip hop",
+      "uk street soul"
+    ]
   }
 }

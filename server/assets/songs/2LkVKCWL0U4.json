@@ -2,7 +2,7 @@
   "youtubeId": "2LkVKCWL0U4",
   "title": "We Didn’t Start the Fire",
   "artist": "Fall Out Boy",
-  "lastFetched": "2025-11-19T12:37:43.269Z",
+  "lastFetched": "2025-11-30T23:08:28.547Z",
   "odesli": {
     "boomplay": "131502554",
     "deezer": "2340212785",
@@ -26,6 +26,25 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "516cef4d-0718-4007-9939-f9b38af3f784"
+    "artistMbid": "516cef4d-0718-4007-9939-f9b38af3f784",
+    "trackMbid": "6d16f5a0-cc2a-4107-9a50-d9764b6abdb4",
+    "releaseCount": 5,
+    "genres": [
+      "emo",
+      "pop punk",
+      "punk",
+      "punk rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "electropop",
+      "emo",
+      "emo pop",
+      "indie rock",
+      "pop",
+      "pop punk",
+      "pop rock"
+    ]
   }
 }

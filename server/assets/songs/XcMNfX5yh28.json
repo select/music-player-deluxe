@@ -2,7 +2,7 @@
   "youtubeId": "XcMNfX5yh28",
   "title": "Chase The Devil",
   "artist": "Max Romeo",
-  "lastFetched": "2025-11-18T22:14:36.720Z",
+  "lastFetched": "2025-11-30T22:57:59.247Z",
   "odesli": {
     "amazonMusic": "B07PJBWGG8",
     "amazonStore": "B07PJBWGG8",
@@ -16,5 +16,14 @@
   "ai": {
     "title": "Chase The Devil",
     "artist": "MAX ROMEO"
+  },
+  "musicbrainz": {
+    "trackMbid": "ec463871-d949-4a17-8aeb-ee604c7b6000",
+    "artistMbid": "d82e9822-521a-4e20-bb22-9e944374cd40",
+    "releaseCount": 2,
+    "artistGenres": [
+      "reggae",
+      "roots reggae"
+    ]
   }
 }

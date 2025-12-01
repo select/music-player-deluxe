@@ -2,7 +2,7 @@
   "youtubeId": "YACtsj84Zxo",
   "title": "Album Of The Year",
   "artist": "The Good Life",
-  "lastFetched": "2025-11-27T12:04:21.268Z",
+  "lastFetched": "2025-11-30T20:52:33.259Z",
   "odesli": {
     "amazonMusic": "B00150ECNA",
     "amazonStore": "B00150ECNA",
@@ -26,6 +26,19 @@
       "heartbreak",
       "saddle creek",
       "acoustic",
+      "indie rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a5f2c36a-b4e1-40b4-9597-06459e909b32",
+    "artistMbid": "0ad7bbcd-6e77-4dc0-bb61-e331c46f70ec",
+    "releaseCount": 4,
+    "genres": [
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "folk rock",
       "indie rock"
     ]
   }

@@ -2,7 +2,7 @@
   "youtubeId": "6UJ0SSHlarc",
   "title": "Experiment In Terror",
   "artist": "Henry Mancini",
-  "lastFetched": "2025-11-23T19:32:39.131Z",
+  "lastFetched": "2025-11-30T22:01:36.638Z",
   "odesli": {
     "amazonMusic": "B00R96JX56",
     "amazonStore": "B00R96JX56",
@@ -24,6 +24,16 @@
       "jazz",
       "easy listening",
       "soundtrack"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8aef1dea-6af7-4ac7-a600-b5171df1798c",
+    "artistMbid": "83e71a21-caf7-4e48-8ff7-6512d51e88a3",
+    "releaseCount": 1,
+    "artistGenres": [
+      "contemporary classical",
+      "easy listening",
+      "lounge"
     ]
   }
 }

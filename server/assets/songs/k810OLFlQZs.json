@@ -2,7 +2,7 @@
   "youtubeId": "k810OLFlQZs",
   "title": "When Day Breaks",
   "artist": "HEMAI",
-  "lastFetched": "2025-11-19T09:42:23.239Z",
+  "lastFetched": "2025-11-30T23:22:16.645Z",
   "odesli": {
     "amazonMusic": "B08XHXG3TH",
     "amazonStore": "B08XHXG3TH",
@@ -24,6 +24,17 @@
       "jazz",
       "london",
       "uk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d1fad494-4407-4564-9521-ccfe7b01644c",
+    "artistMbid": "509be97a-9eb3-4ad4-9da6-21f27258ea96",
+    "releaseCount": 1,
+    "artistGenres": [
+      "contemporary jazz",
+      "contemporary r&b",
+      "jazz",
+      "nu jazz"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "aKhrRgadxhc",
   "title": "Percy Faith - The song from Moulin Rouge",
-  "lastFetched": "2025-11-30T17:24:58.825Z",
+  "lastFetched": "2025-11-30T19:35:49.901Z",
   "ai": {
     "title": "The song from Moulin Rouge",
     "artist": "Percy Faith"
@@ -17,5 +17,10 @@
       "percy faith",
       "50s"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "342976ea-56b2-459d-b411-a099a63c612c",
+    "artistMbid": "291dcfb8-b31c-496a-905b-9955509d75b6",
+    "releaseCount": 8
   }
 }

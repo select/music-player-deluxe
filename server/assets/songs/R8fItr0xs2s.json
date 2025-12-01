@@ -2,7 +2,7 @@
   "youtubeId": "R8fItr0xs2s",
   "title": "Kill Room",
   "artist": "Delta Heavy",
-  "lastFetched": "2025-11-28T18:37:29.978Z",
+  "lastFetched": "2025-11-30T20:12:32.074Z",
   "odesli": {
     "amazonMusic": "B0DZW6SGQC",
     "amazonStore": "B0DZW6SGQC",
@@ -32,6 +32,16 @@
       "dubstep",
       "electronic",
       "neurofunk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "48fe4972-9118-4f48-be76-e78e820692a2",
+    "artistMbid": "be166079-6f21-4d0d-af2a-9f55c4b34455",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass",
+      "electronic",
+      "jungle"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "VAiOjxkCS0g",
   "title": "The Waterboys - This Is The Sea",
-  "lastFetched": "2025-11-27T12:00:57.990Z",
+  "lastFetched": "2025-11-30T20:27:37.910Z",
   "ai": {
     "title": "This Is The Sea",
     "artist": "The Waterboys"
@@ -19,6 +19,23 @@
       "celtic",
       "rock",
       "80s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "beb407c4-fceb-4654-88db-a4c83a09840f",
+    "artistMbid": "21666405-49f8-44f6-94bb-e064f202f7ba",
+    "releaseCount": 3,
+    "genres": [
+      "alternative rock",
+      "celtic",
+      "folk",
+      "folk rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "celtic rock",
+      "folk rock",
+      "pop rock"
     ]
   }
 }

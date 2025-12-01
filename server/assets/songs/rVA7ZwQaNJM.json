@@ -1,7 +1,7 @@
 {
   "youtubeId": "rVA7ZwQaNJM",
   "title": "Misanthrop - Galaxy #drumandbass #misanthrop #neosignal",
-  "lastFetched": "2025-11-26T11:02:17.310Z",
+  "lastFetched": "2025-11-30T21:31:14.654Z",
   "ai": {
     "title": "Galaxy",
     "artist": "Misanthrop"
@@ -18,6 +18,15 @@
       "drum and bass",
       "german",
       "dnb"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "515298f6-0543-41fe-bc57-5c3c991bebbc",
+    "artistMbid": "cd3654c9-f29f-4749-a22e-d6c5de0dced6",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass",
+      "electronic"
     ]
   }
 }

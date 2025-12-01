@@ -1,7 +1,7 @@
 {
   "youtubeId": "InBWXxWK3DI",
   "title": "Flagpole Sitta",
-  "lastFetched": "2025-11-26T10:58:47.493Z",
+  "lastFetched": "2025-11-30T21:11:21.614Z",
   "ai": {
     "title": "Flagpole Sitta",
     "artist": "Austin Hartley-Leonard"
@@ -27,5 +27,10 @@
       "american",
       "austin hartley-leonard"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3a706684-ff37-4f63-9e88-f8bf2d674e3e",
+    "artistMbid": "6d0fd109-1de6-40df-968d-3655e635a5f4",
+    "releaseCount": 1
   }
 }

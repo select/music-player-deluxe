@@ -1,7 +1,7 @@
 {
   "youtubeId": "R2YfJ5RSBA8",
   "title": "Stefano Torossi - Walking In The Dark",
-  "lastFetched": "2025-11-26T10:58:34.690Z",
+  "lastFetched": "2025-11-30T21:10:11.137Z",
   "ai": {
     "title": "Walking In The Dark",
     "artist": "Stefano Torossi"
@@ -17,5 +17,10 @@
     "tags": [
       "gritty jazz"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "09f2735d-9453-41c0-b44b-b8a27913dbf0",
+    "artistMbid": "5ed873e9-b499-45fa-9f7f-aa13cea5fca7",
+    "releaseCount": 1
   }
 }

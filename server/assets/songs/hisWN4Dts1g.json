@@ -2,7 +2,7 @@
   "youtubeId": "hisWN4Dts1g",
   "title": "Forget the Flowers",
   "artist": "Wilco",
-  "lastFetched": "2025-11-29T13:47:43.759Z",
+  "lastFetched": "2025-11-30T19:46:09.954Z",
   "odesli": {
     "amazonMusic": "B001QUNCKS",
     "amazonStore": "B001QUNCKS",
@@ -25,6 +25,19 @@
       "wilco",
       "americana",
       "indie"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "beaa638e-74d4-40e3-a8eb-8f992ad40d12",
+    "artistMbid": "9e53f84d-ef44-4c16-9677-5fd4d78cbd7d",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "americana",
+      "folk rock",
+      "indie rock",
+      "pop rock",
+      "rock"
     ]
   }
 }

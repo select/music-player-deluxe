@@ -2,7 +2,7 @@
   "youtubeId": "8uNL16uf8xo",
   "title": "Rossignol",
   "artist": "The Sea and Cake",
-  "lastFetched": "2025-11-24T00:21:38.753Z",
+  "lastFetched": "2025-11-30T21:46:38.543Z",
   "odesli": {
     "amazonMusic": "B01HRA01WC",
     "amazonStore": "B01HRA01WC",
@@ -23,6 +23,16 @@
     "tags": [
       "alternative  punk",
       "instrumental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bdd02a03-ce71-43e3-ba2b-68a98ef7592a",
+    "artistMbid": "74171cb6-1ff8-42bd-be8a-96660c22e3e0",
+    "releaseCount": 3,
+    "artistGenres": [
+      "indie pop",
+      "indie rock",
+      "jazz"
     ]
   }
 }

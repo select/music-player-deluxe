@@ -1,7 +1,7 @@
 {
   "youtubeId": "gNoHuCx-HPg",
   "title": "SMOKEY JOE & THE KID - Smokid All Stars",
-  "lastFetched": "2025-11-26T11:00:32.213Z",
+  "lastFetched": "2025-11-30T21:20:29.049Z",
   "ai": {
     "title": "Smokid All Stars",
     "artist": "SMOKEY JOE & The KID"
@@ -19,5 +19,10 @@
       "french",
       "electro swing"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6ef75c1e-a669-4e2e-a49e-72b21f401a41",
+    "artistMbid": "e9e0a3e6-6403-4eb9-87e4-81decb8fb03f",
+    "releaseCount": 1
   }
 }

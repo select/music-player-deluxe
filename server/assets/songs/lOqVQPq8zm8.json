@@ -2,7 +2,7 @@
   "youtubeId": "lOqVQPq8zm8",
   "title": "Sleeping Satellite",
   "artist": "Tasmin Archer",
-  "lastFetched": "2025-11-19T13:54:16.470Z",
+  "lastFetched": "2025-11-30T23:01:31.719Z",
   "lastfm": {
     "id": "Tasmin+Archer/_/Sleeping+Satellite",
     "listeners": 195725,
@@ -17,6 +17,12 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "44ecd2ac-a5b9-4b64-8edb-f3c76a5fa439"
+    "artistMbid": "44ecd2ac-a5b9-4b64-8edb-f3c76a5fa439",
+    "trackMbid": "511465b7-c90d-4716-84e7-637465a04844",
+    "releaseCount": 3,
+    "artistGenres": [
+      "pop",
+      "pop rock"
+    ]
   }
 }

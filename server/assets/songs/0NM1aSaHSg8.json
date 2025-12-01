@@ -2,7 +2,7 @@
   "youtubeId": "0NM1aSaHSg8",
   "title": "Nie Jest Tak Źle",
   "artist": "Peel Motyff",
-  "lastFetched": "2025-11-19T15:26:47.385Z",
+  "lastFetched": "2025-11-30T22:53:13.364Z",
   "lastfm": {
     "id": "Peel+Motyff/_/Nie+Jest+Tak+%C5%B9le",
     "listeners": 643,
@@ -15,6 +15,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "44ad2060-d6bc-47d7-853b-e4674e5982e4"
+    "artistMbid": "44ad2060-d6bc-47d7-853b-e4674e5982e4",
+    "trackMbid": "2e31d0be-b0ff-496a-b61b-af6275ad5164",
+    "releaseCount": 1
   }
 }

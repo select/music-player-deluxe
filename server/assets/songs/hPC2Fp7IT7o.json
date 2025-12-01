@@ -2,7 +2,7 @@
   "youtubeId": "hPC2Fp7IT7o",
   "title": "Broken",
   "artist": "Seether",
-  "lastFetched": "2025-11-24T00:22:34.613Z",
+  "lastFetched": "2025-11-30T21:39:35.183Z",
   "odesli": {
     "amazonMusic": "B07ZFXML9Q",
     "amazonStore": "B07ZFXML9Q",
@@ -32,5 +32,16 @@
     "artist": "Seether",
     "mbid": "0fa76c46-a508-4e57-96b1-c3735a1d188d",
     "artistMbid": "fbcd7b29-455f-49e6-9c4f-8249d20a055e"
+  },
+  "musicbrainz": {
+    "trackMbid": "562ca6e7-ccd4-4b34-84af-b4ea1b028b11",
+    "artistMbid": "fbcd7b29-455f-49e6-9c4f-8249d20a055e",
+    "releaseCount": 16,
+    "artistGenres": [
+      "alternative metal",
+      "hard rock",
+      "post-grunge",
+      "rock"
+    ]
   }
 }

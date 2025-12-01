@@ -1,7 +1,7 @@
 {
   "youtubeId": "qAYK8I9cs1I",
   "title": "Leoniden - Kids (Official Music Video)",
-  "lastFetched": "2025-11-29T12:38:19.529Z",
+  "lastFetched": "2025-11-30T19:41:00.754Z",
   "ai": {
     "title": "Kids",
     "artist": "Leoniden"
@@ -20,5 +20,10 @@
       "indie rock",
       "alternative"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fb41976f-99e5-457b-a916-71e4f05d9a39",
+    "artistMbid": "58e80cb1-6b99-43de-b3f8-0d24ab25688e",
+    "releaseCount": 4
   }
 }

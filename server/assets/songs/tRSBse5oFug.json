@@ -2,7 +2,7 @@
   "youtubeId": "tRSBse5oFug",
   "title": "Toi et moi",
   "artist": "Tryo",
-  "lastFetched": "2025-11-28T12:14:06.507Z",
+  "lastFetched": "2025-11-30T20:34:49.209Z",
   "odesli": {
     "amazonMusic": "B0828YJVG2",
     "amazonStore": "B0828YJVG2",
@@ -24,6 +24,19 @@
     "tags": [
       "french",
       "reggae"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8929836b-9824-4568-b2c5-1930c67d7f22",
+    "artistMbid": "c5998351-be49-49d8-8593-3e96f129c1fc",
+    "releaseCount": 3,
+    "genres": [
+      "reggae",
+      "roots reggae"
+    ],
+    "artistGenres": [
+      "reggae",
+      "reggae-pop"
     ]
   }
 }

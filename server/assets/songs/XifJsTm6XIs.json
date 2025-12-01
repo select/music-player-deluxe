@@ -1,7 +1,7 @@
 {
   "youtubeId": "XifJsTm6XIs",
   "title": "Tocotronic - Wir sind hier nicht in Seattle, Dirk",
-  "lastFetched": "2025-11-26T10:59:41.457Z",
+  "lastFetched": "2025-11-30T21:16:12.446Z",
   "ai": {
     "title": "Wir sind hier nicht in Seattle, Dirk",
     "artist": "Tocotronic"
@@ -19,6 +19,17 @@
       "german",
       "hamburger schule",
       "deutsch"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "51ccb1c2-5bb9-440b-b216-00c6b99b43a6",
+    "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19",
+    "releaseCount": 5,
+    "artistGenres": [
+      "alternative rock",
+      "hamburger schule",
+      "indie rock",
+      "rock"
     ]
   }
 }

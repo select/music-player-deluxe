@@ -2,7 +2,7 @@
   "youtubeId": "71sg-ThOQ6o",
   "title": "Drogen nehmen und rumfahren",
   "artist": "Die Zukunft",
-  "lastFetched": "2025-11-23T15:22:59.905Z",
+  "lastFetched": "2025-11-30T22:23:44.057Z",
   "odesli": {
     "amazonMusic": "B007Z2LKLY",
     "amazonStore": "B007Z2LKLY",
@@ -21,6 +21,14 @@
     "tags": [
       "die wahren perlen deutschsprachiger popmusik",
       "perlen deutschsprachiger popmusik"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3861cbf8-b8a6-4acd-8621-0b247c491814",
+    "artistMbid": "fb6f465f-ab29-458c-b21d-d68137e8ff81",
+    "releaseCount": 2,
+    "artistGenres": [
+      "rock"
     ]
   }
 }

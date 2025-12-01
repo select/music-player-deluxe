@@ -2,7 +2,7 @@
   "youtubeId": "ADE4hmYfwGE",
   "title": "Ode to an African Violet",
   "artist": "Mort Garson",
-  "lastFetched": "2025-11-23T15:23:30.317Z",
+  "lastFetched": "2025-11-30T22:23:41.433Z",
   "odesli": {
     "amazonMusic": "B07PF957JC",
     "amazonStore": "B07PF957JC",
@@ -26,6 +26,22 @@
       "progressive electronic",
       "dance dance dance",
       "moogsploitation"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8fe3c70d-a91e-4cdd-b90a-7b78d611b1b3",
+    "artistMbid": "c47028fa-0086-426d-a7b8-ed20eba3ed61",
+    "releaseCount": 8,
+    "genres": [
+      "moogsploitation",
+      "progressive electronic",
+      "space age pop"
+    ],
+    "artistGenres": [
+      "electronic",
+      "moogsploitation",
+      "progressive electronic",
+      "psychedelic rock"
     ]
   }
 }

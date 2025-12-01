@@ -2,7 +2,7 @@
   "youtubeId": "ZS0WvzRVByg",
   "title": "Listen to the Man",
   "artist": "George Ezra",
-  "lastFetched": "2025-11-27T12:03:52.903Z",
+  "lastFetched": "2025-11-30T20:48:24.120Z",
   "odesli": {
     "amazonMusic": "B00QKEJME0",
     "amazonStore": "B00QKEJME0",
@@ -30,6 +30,31 @@
       "british",
       "10s",
       "2014"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "39cb6e94-d3d2-4731-a0ea-3dd22959c871",
+    "artistMbid": "2c5e2a98-d9ea-46b5-9618-d9bb4863a920",
+    "releaseCount": 14,
+    "genres": [
+      "blues",
+      "indie rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "singer-songwriter",
+      "ska"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "blues",
+      "folk",
+      "indie folk",
+      "indie pop",
+      "indie rock",
+      "pop",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

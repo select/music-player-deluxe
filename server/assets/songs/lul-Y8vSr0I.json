@@ -1,7 +1,7 @@
 {
   "youtubeId": "lul-Y8vSr0I",
   "title": "[broken] ☹️ William Shatner \"Sings\" 'Rocket Man' (1978) - BEST QUALITY!",
-  "lastFetched": "2025-11-27T11:59:49.009Z",
+  "lastFetched": "2025-11-30T20:20:42.337Z",
   "ai": {
     "title": "Rocket Man",
     "artist": "William Shatner"
@@ -22,5 +22,10 @@
       "science fiction",
       "radio: spoken word"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b5a0ec06-b17b-4852-aadb-fc7e411348cf",
+    "artistMbid": "a406a684-7c88-442b-836d-3b9b67bbc91d",
+    "releaseCount": 3
   }
 }

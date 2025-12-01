@@ -2,7 +2,7 @@
   "youtubeId": "VhfEO5egmlY",
   "title": "Too Cold",
   "artist": "Vanilla Ice",
-  "lastFetched": "2025-11-23T19:30:08.826Z",
+  "lastFetched": "2025-11-30T22:12:04.543Z",
   "odesli": {
     "amazonMusic": "B000VZV3QY",
     "amazonStore": "B000VZV3QY",
@@ -24,6 +24,18 @@
     "tags": [
       "nu metal",
       "rapcore"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "215b33db-85a2-429e-84a5-74e4279f380b",
+    "artistMbid": "2d5583be-aafd-41ec-addd-df85913855ef",
+    "releaseCount": 3,
+    "artistGenres": [
+      "hardcore hip hop",
+      "hip hop",
+      "nu metal",
+      "pop rap",
+      "rap rock"
     ]
   }
 }

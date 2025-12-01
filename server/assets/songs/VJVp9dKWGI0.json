@@ -2,7 +2,7 @@
   "youtubeId": "VJVp9dKWGI0",
   "title": "Body Count",
   "artist": "Body Count",
-  "lastFetched": "2025-11-19T13:03:43.999Z",
+  "lastFetched": "2025-11-30T23:05:30.008Z",
   "odesli": {
     "amazonMusic": "B00JO2EZOC",
     "amazonStore": "B00JO2EZOC",
@@ -27,6 +27,32 @@
       "crossover",
       "metal",
       "hardcore",
+      "rapcore"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5216f9c1-bb67-4e80-a55b-6794b8b408d4",
+    "artistMbid": "8b12db5d-54a9-4014-9fa8-d646ac291361",
+    "releaseCount": 13,
+    "genres": [
+      "conscious hip hop",
+      "crossover thrash",
+      "gangsta rap",
+      "hardcore punk",
+      "hip hop",
+      "rap metal",
+      "thrash metal",
+      "west coast hip hop"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "crossover thrash",
+      "groove metal",
+      "hardcore punk",
+      "metal",
+      "metalcore",
+      "punk",
+      "rap metal",
       "rapcore"
     ]
   }

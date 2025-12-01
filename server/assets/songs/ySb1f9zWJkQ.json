@@ -4,7 +4,7 @@
   "album": "Rock 3",
   "duration": 290,
   "youtubeId": "ySb1f9zWJkQ",
-  "lastFetched": "2025-11-19T01:37:44.796Z",
+  "lastFetched": "2025-11-30T23:43:37.746Z",
   "odesli": {
     "amazonMusic": "B002GZQ4WK",
     "amazonStore": "B002GZQ4WK",
@@ -26,7 +26,23 @@
       "rock"
     ],
     "artistMbid": "160629ab-ec18-4931-8c95-02cb92d06186",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "trackMbid": "67654bcd-4835-4867-a609-31df528fed8f",
+    "genres": [
+      "classic rock",
+      "hard rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "aor",
+      "arena rock",
+      "classic rock",
+      "hard rock",
+      "pop rock",
+      "rock",
+      "soft rock"
+    ]
   },
   "lastfm": {
     "id": "Foreigner/_/Cold+as+Ice",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "gNazaZHe4o4",
   "title": "Dotcom - Get It",
-  "lastFetched": "2025-11-26T10:59:26.949Z",
+  "lastFetched": "2025-11-30T21:14:45.998Z",
   "ai": {
     "title": "Get It",
     "artist": "Dotcom"
@@ -19,6 +19,16 @@
       "mash-up",
       "united states",
       "mashup"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b6abbd3e-ab29-47f5-bdc4-fae58084c05c",
+    "artistMbid": "6f41d0a1-fbea-4c0b-a2e0-c930bc78568b",
+    "releaseCount": 1,
+    "artistGenres": [
+      "edm",
+      "trap",
+      "trap edm"
     ]
   }
 }

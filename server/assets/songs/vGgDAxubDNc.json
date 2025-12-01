@@ -1,7 +1,7 @@
 {
   "youtubeId": "vGgDAxubDNc",
   "title": "Feel Something",
-  "lastFetched": "2025-11-27T12:03:21.158Z",
+  "lastFetched": "2025-11-30T20:42:07.986Z",
   "ai": {
     "title": "Feel Something",
     "artist": "Peverelist"
@@ -18,6 +18,14 @@
       "electronic",
       "minimal",
       "dub techno"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9c7ba125-b936-4c02-ac32-e8444b991eb4",
+    "artistMbid": "a9564e02-c5f6-4f6e-a009-d4f459a9e3fe",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ambient dub"
     ]
   }
 }

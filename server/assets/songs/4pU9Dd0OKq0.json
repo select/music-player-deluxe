@@ -1,7 +1,7 @@
 {
   "youtubeId": "4pU9Dd0OKq0",
   "title": "IAMDYNAMITE - \"Stereo\" Lyric Video",
-  "lastFetched": "2025-11-27T12:03:01.908Z",
+  "lastFetched": "2025-11-30T20:39:51.211Z",
   "ai": {
     "title": "Stereo",
     "artist": "IAMDYNAMITE"
@@ -19,6 +19,16 @@
       "us",
       "fun",
       "met"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d6f5d71d-ec52-4455-a45b-50defa2af2a8",
+    "artistMbid": "33c481b9-803b-4441-a166-d605056b8508",
+    "releaseCount": 1,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "rock"
     ]
   }
 }

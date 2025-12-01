@@ -2,7 +2,7 @@
   "youtubeId": "PUdyuKaGQd4",
   "title": "No Roots",
   "artist": "Alice Merton",
-  "lastFetched": "2025-11-28T18:36:53.114Z",
+  "lastFetched": "2025-11-30T20:10:18.830Z",
   "odesli": {
     "amazonMusic": "B0CPKJPVDF",
     "amazonStore": "B0CPKJPVDF",
@@ -35,6 +35,22 @@
       "2017",
       "indie pop",
       "female vocalists"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "06d25944-dbcf-4ad2-97bd-f3d33cbe49fa",
+    "artistMbid": "7292ba91-0465-4679-a697-6891570ae06c",
+    "releaseCount": 25,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "country blues",
+      "dance-pop",
+      "electropop",
+      "singer-songwriter",
+      "southern rock"
     ]
   }
 }

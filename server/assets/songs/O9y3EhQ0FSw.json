@@ -2,7 +2,7 @@
   "youtubeId": "O9y3EhQ0FSw",
   "title": "Zum Zum",
   "artist": "Magnifico",
-  "lastFetched": "2025-11-28T18:38:36.437Z",
+  "lastFetched": "2025-11-30T20:16:50.209Z",
   "odesli": {
     "amazonMusic": "B0F9FX364R",
     "amazonStore": "B0F9FX364R",
@@ -25,5 +25,10 @@
       "lunes",
       "loquemegustameloquedo"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c75a3c2a-7ee2-4a91-b1e8-7e48c433ca62",
+    "artistMbid": "85af933d-6de6-4d2a-aa1e-ba58b6d670d9",
+    "releaseCount": 6
   }
 }

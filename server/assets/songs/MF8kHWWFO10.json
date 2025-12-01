@@ -2,7 +2,7 @@
   "youtubeId": "MF8kHWWFO10",
   "title": "Lovers",
   "artist": "seven oops",
-  "lastFetched": "2025-11-27T10:32:05.111Z",
+  "lastFetched": "2025-11-30T20:32:56.390Z",
   "odesli": {
     "amazonMusic": "B008Y0X19A",
     "amazonStore": "B008Y0X19A",
@@ -12,5 +12,15 @@
     "tidal": "144628782",
     "youtube": "MF8kHWWFO10",
     "youtubeMusic": "MF8kHWWFO10"
+  },
+  "musicbrainz": {
+    "trackMbid": "f2550e39-573f-4b2c-a45a-08934a3dfe41",
+    "artistMbid": "6a0a2bb6-3eee-4afe-9929-09bf76fd8618",
+    "releaseCount": 1,
+    "artistGenres": [
+      "j-pop",
+      "pop rock",
+      "rock"
+    ]
   }
 }

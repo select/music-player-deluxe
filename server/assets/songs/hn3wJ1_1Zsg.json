@@ -2,7 +2,7 @@
   "youtubeId": "hn3wJ1_1Zsg",
   "title": "Lost on You",
   "artist": "LP",
-  "lastFetched": "2025-11-23T14:52:56.109Z",
+  "lastFetched": "2025-11-30T22:30:56.851Z",
   "odesli": {
     "amazonMusic": "B0F15W7PHT",
     "amazonStore": "B0F15W7PHT",
@@ -45,6 +45,16 @@
       "Love",
       "pop",
       "Ballad"
+    ],
+    "trackMbid": "0f9e8343-97bb-4690-918d-4225602e83d4",
+    "artistMbid": "6301cda3-f614-4501-a1c4-b19b27c2efac",
+    "releaseCount": 25,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "pop rock",
+      "singer-songwriter"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "NUnXxh5U25Y",
   "title": "Everything In Its Right Place",
   "artist": "Radiohead",
-  "lastFetched": "2025-11-23T19:33:11.286Z",
+  "lastFetched": "2025-11-30T21:59:24.597Z",
   "odesli": {
     "amazonMusic": "B01DPRQ0TY",
     "amazonStore": "B01DPRQ0TY",
@@ -36,5 +36,22 @@
     "artist": "Radiohead",
     "mbid": "5937fb93-d9ac-3338-9623-b925e860c9c6",
     "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+  },
+  "musicbrainz": {
+    "trackMbid": "2e4a94c8-d5dd-4631-a919-ced157a71a4c",
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "art pop",
+      "art rock",
+      "electronic",
+      "electronica",
+      "experimental",
+      "experimental rock",
+      "indie rock",
+      "post-britpop",
+      "rock"
+    ]
   }
 }

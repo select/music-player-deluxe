@@ -2,7 +2,7 @@
   "youtubeId": "Shzx41k0hec",
   "title": "Gated Thoughts",
   "artist": "Max Cooper",
-  "lastFetched": "2025-11-23T19:31:17.927Z",
+  "lastFetched": "2025-11-30T22:08:07.269Z",
   "odesli": {
     "amazonMusic": "B0D3HZNWVZ",
     "amazonStore": "B0D3HZNWVZ",
@@ -30,6 +30,17 @@
       "techno",
       "electronic",
       "tech house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ff8300a6-90ca-469b-84a3-10f718aac24d",
+    "artistMbid": "2d68f237-4e00-424a-a03e-d16993d1da15",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ambient",
+      "electronic",
+      "electronica",
+      "techno"
     ]
   }
 }

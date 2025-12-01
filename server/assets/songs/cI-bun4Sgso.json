@@ -2,7 +2,7 @@
   "youtubeId": "cI-bun4Sgso",
   "title": "Slime Beach",
   "artist": "Kuhn",
-  "lastFetched": "2025-11-24T00:23:08.546Z",
+  "lastFetched": "2025-11-30T21:33:53.173Z",
   "odesli": {
     "amazonMusic": "B07J4VF348",
     "amazonStore": "B07J4VF348",
@@ -30,5 +30,10 @@
       "bass",
       "wonky"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4cebb9ed-8553-4848-a0f7-422158a2667a",
+    "artistMbid": "77450d99-c0a5-4355-84dc-a5ba488af2be",
+    "releaseCount": 1
   }
 }

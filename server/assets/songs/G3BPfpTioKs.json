@@ -1,7 +1,7 @@
 {
   "youtubeId": "G3BPfpTioKs",
   "title": "Art Farmer - Soul Sides",
-  "lastFetched": "2025-11-29T12:38:55.359Z",
+  "lastFetched": "2025-11-30T19:48:15.512Z",
   "ai": {
     "title": "Soul Sides",
     "artist": "Art Farmer"
@@ -19,6 +19,17 @@
       "trumpet",
       "funky",
       "70s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "145444bf-9363-4e83-baee-aa8bb8edd3c8",
+    "artistMbid": "ee40fc76-9cbf-4862-bd00-e5f45e8d25d7",
+    "releaseCount": 1,
+    "artistGenres": [
+      "bebop",
+      "hard bop",
+      "jazz",
+      "post-bop"
     ]
   }
 }

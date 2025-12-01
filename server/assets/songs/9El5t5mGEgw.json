@@ -1,7 +1,7 @@
 {
   "youtubeId": "9El5t5mGEgw",
   "title": "Cli-n-tel - 2030",
-  "lastFetched": "2025-11-26T11:02:28.661Z",
+  "lastFetched": "2025-11-30T21:35:11.638Z",
   "ai": {
     "title": "2030",
     "artist": "Cli-n-tel"
@@ -16,6 +16,14 @@
     "artistMbid": "43b0ba65-aaeb-41e0-9c09-0ae99678b791",
     "tags": [
       "electro"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c16b654e-bb70-4ff1-9a44-a3ebe3226d88",
+    "artistMbid": "43b0ba65-aaeb-41e0-9c09-0ae99678b791",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

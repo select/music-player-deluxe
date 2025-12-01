@@ -2,7 +2,7 @@
   "youtubeId": "4hDSgmYqzsk",
   "title": "Nijána",
   "artist": "Jana Koubková",
-  "lastFetched": "2025-11-23T15:05:39.201Z",
+  "lastFetched": "2025-11-30T22:27:57.523Z",
   "odesli": {
     "amazonMusic": "B07D3Y6B2P",
     "amazonStore": "B07D3Y6B2P",
@@ -20,6 +20,14 @@
     "playcount": 1060,
     "tags": [
       "jazz fusion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9d06aa4f-0ead-4a5d-9bba-36a79098718a",
+    "artistMbid": "4174065f-7988-4489-8651-d1a28b1b2b8b",
+    "releaseCount": 3,
+    "artistGenres": [
+      "jazz"
     ]
   }
 }

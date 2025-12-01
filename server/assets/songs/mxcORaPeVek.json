@@ -2,7 +2,7 @@
   "youtubeId": "mxcORaPeVek",
   "title": "Region 804",
   "artist": "Peter Schilling",
-  "lastFetched": "2025-11-23T14:27:57.667Z",
+  "lastFetched": "2025-11-30T22:39:39.630Z",
   "lastfm": {
     "title": "Region 804",
     "artist": "Peter Schilling",
@@ -17,6 +17,18 @@
       "new wave",
       "synth-pop",
       "1985"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c1c37b71-66af-499a-a621-6677c7176ac3",
+    "artistMbid": "bc6be178-3933-44ad-88a7-fde1a160bc29",
+    "releaseCount": 6,
+    "artistGenres": [
+      "happy hardcore",
+      "neue deutsche welle",
+      "new wave",
+      "pop",
+      "synth-pop"
     ]
   }
 }

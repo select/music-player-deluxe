@@ -1,7 +1,7 @@
 {
   "youtubeId": "-tAEAyHgCec",
   "title": "Motörhead \"ACE OF SPADES\" on the 3-String Shovel!",
-  "lastFetched": "2025-11-27T12:00:16.221Z",
+  "lastFetched": "2025-11-30T20:23:29.166Z",
   "ai": {
     "title": "ACE OF SPADES",
     "artist": "Motörhead"
@@ -22,5 +22,22 @@
     "artist": "Motörhead",
     "mbid": "601a659e-6dbf-36f0-bd8c-216cc8b39984",
     "artistMbid": "57961a97-3796-4bf7-9f02-a985a8979ae9"
+  },
+  "musicbrainz": {
+    "trackMbid": "fc67a7c2-9518-40aa-917b-fc889ed5fdb9",
+    "artistMbid": "57961a97-3796-4bf7-9f02-a985a8979ae9",
+    "releaseCount": 21,
+    "genres": [
+      "heavy metal",
+      "metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "rock",
+      "speed metal"
+    ]
   }
 }

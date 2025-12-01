@@ -1,7 +1,7 @@
 {
   "youtubeId": "CY6y6nabFTo",
   "title": "Beats Unraveled #1 by BINKBEATS: The Healer by Madlib & Erykah Badu",
-  "lastFetched": "2025-11-30T17:24:54.326Z",
+  "lastFetched": "2025-11-30T19:34:34.851Z",
   "ai": {
     "title": "The Healer",
     "artist": "BINKBEATS"
@@ -19,5 +19,10 @@
       "netherlands",
       "ambient"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4fa2c23d-5ccf-412c-b3a9-c34a6dafc43c",
+    "artistMbid": "d0662df8-08cd-4d31-81f2-ac6eb5c76a42",
+    "releaseCount": 1
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "ZO6vmXtwiSc",
   "title": "Juliette Lewis - Hardly Wait",
-  "lastFetched": "2025-11-29T12:39:10.821Z",
+  "lastFetched": "2025-11-30T19:52:46.209Z",
   "ai": {
     "title": "Hardly Wait",
     "artist": "Juliette Lewis"
@@ -19,6 +19,15 @@
       "aggressive",
       "soundtrack",
       "female vocalist"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3d54f41c-9720-44e5-8e1a-f95fd5d9023f",
+    "artistMbid": "607dec4a-3efc-44ae-ba52-6d5cabcdd1cc",
+    "releaseCount": 7,
+    "genres": [
+      "indie rock",
+      "rock"
     ]
   }
 }

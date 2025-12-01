@@ -2,7 +2,7 @@
   "youtubeId": "B-FWhcNvNhA",
   "title": "Youth",
   "artist": "Portico Quartet",
-  "lastFetched": "2025-11-19T05:55:00.825Z",
+  "lastFetched": "2025-11-30T23:38:24.553Z",
   "odesli": {
     "amazonMusic": "B09PRLZQH9",
     "amazonStore": "B09PRLZQH9",
@@ -29,6 +29,16 @@
       "modern jazz",
       "instrumental",
       "hang drum"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9f832fbe-74d5-4a50-9f33-4f9e464c3634",
+    "artistMbid": "0e6e5a3e-b5cb-45ff-97f4-c23c88efc563",
+    "releaseCount": 4,
+    "artistGenres": [
+      "avant-garde jazz",
+      "instrumental",
+      "jazz"
     ]
   }
 }

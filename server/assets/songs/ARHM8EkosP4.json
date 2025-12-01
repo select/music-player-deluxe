@@ -2,7 +2,7 @@
   "youtubeId": "ARHM8EkosP4",
   "title": "Just A Ride",
   "artist": "The Virginmarys",
-  "lastFetched": "2025-11-28T12:14:00.478Z",
+  "lastFetched": "2025-11-30T20:32:30.069Z",
   "odesli": {
     "pandora": "TR:9841468",
     "soundcloud": "thevirginmarysofficial/just-a-ride-3",
@@ -24,5 +24,10 @@
       "indie rock",
       "10s"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "553cace9-dc2f-460c-b785-310e10879337",
+    "artistMbid": "47035a1e-7137-4c92-9a74-88647d021efd",
+    "releaseCount": 6
   }
 }

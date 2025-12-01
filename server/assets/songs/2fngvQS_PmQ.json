@@ -1,7 +1,7 @@
 {
   "youtubeId": "2fngvQS_PmQ",
   "title": "Ed Sheeran - I See Fire (Music Video)",
-  "lastFetched": "2025-11-26T11:00:57.959Z",
+  "lastFetched": "2025-11-30T21:22:16.981Z",
   "ai": {
     "title": "I See Fire",
     "artist": "Ed Sheeran"
@@ -20,6 +20,29 @@
       "folk",
       "indie",
       "ed sheeran"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ea33cdb1-b489-4614-98f6-da067d3ed6f6",
+    "artistMbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+    "releaseCount": 25,
+    "genres": [
+      "classical",
+      "contemporary r&b",
+      "folk",
+      "folk pop",
+      "folk rock",
+      "pop",
+      "pop rock"
+    ],
+    "artistGenres": [
+      "dance-pop",
+      "folk",
+      "folk pop",
+      "persian pop",
+      "pop",
+      "singer-songwriter",
+      "soft rock"
     ]
   }
 }

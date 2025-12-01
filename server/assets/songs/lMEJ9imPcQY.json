@@ -2,7 +2,7 @@
   "youtubeId": "lMEJ9imPcQY",
   "title": "Warcry",
   "artist": "Shadow Gallery",
-  "lastFetched": "2025-11-26T10:58:52.818Z",
+  "lastFetched": "2025-11-30T21:11:49.589Z",
   "odesli": {
     "pandora": "TR:5887319",
     "tidal": "5565830",
@@ -21,6 +21,26 @@
       "progressive metal",
       "progressive rock",
       "progdinos"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "37dd710d-7b38-4c0a-acd8-81925461334e",
+    "artistMbid": "1d219532-3976-4ba0-9b92-3448fd85ba78",
+    "releaseCount": 4,
+    "genres": [
+      "metal",
+      "progressive metal",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "heavy metal",
+      "metal",
+      "progressive",
+      "progressive metal",
+      "progressive rock",
+      "rock",
+      "symphonic metal"
     ]
   }
 }

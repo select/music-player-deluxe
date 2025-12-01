@@ -2,7 +2,7 @@
   "youtubeId": "YZUE4_PtOk0",
   "title": "It's Raining Again",
   "artist": "Supertramp",
-  "lastFetched": "2025-11-26T11:00:27.647Z",
+  "lastFetched": "2025-11-30T21:20:13.663Z",
   "odesli": {
     "amazonMusic": "B000V6514I",
     "amazonStore": "B000V6514I",
@@ -29,6 +29,22 @@
       "70s",
       "pop",
       "supertramp"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1d7441a5-d31b-4764-84b0-4818bcc070b7",
+    "artistMbid": "d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8",
+    "releaseCount": 1,
+    "artistGenres": [
+      "art pop",
+      "art rock",
+      "classic rock",
+      "crossover prog",
+      "pop rock",
+      "progressive pop",
+      "progressive rock",
+      "rock",
+      "soft rock"
     ]
   }
 }

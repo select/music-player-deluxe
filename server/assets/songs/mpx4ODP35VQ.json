@@ -2,7 +2,7 @@
   "youtubeId": "mpx4ODP35VQ",
   "title": "Look at Your Game Girl",
   "artist": "Charles Manson",
-  "lastFetched": "2025-11-28T12:14:45.012Z",
+  "lastFetched": "2025-11-30T20:41:25.866Z",
   "odesli": {
     "amazonMusic": "B00JVU525S",
     "amazonStore": "B00JVU525S",
@@ -24,6 +24,16 @@
     "tags": [
       "folk",
       "acoustic",
+      "singer-songwriter"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "941d8860-1f1a-4a91-819d-82e07e148ed4",
+    "artistMbid": "db3d7002-d9e8-4803-82c4-d85dad3f29bb",
+    "releaseCount": 1,
+    "artistGenres": [
+      "contemporary folk",
+      "folk rock",
       "singer-songwriter"
     ]
   }

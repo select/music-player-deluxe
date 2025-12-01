@@ -2,7 +2,7 @@
   "youtubeId": "7Df3vRcoA50",
   "title": "Bruttosozialprodukt",
   "artist": "Geier Sturzflug",
-  "lastFetched": "2025-11-19T17:13:30.560Z",
+  "lastFetched": "2025-11-30T22:40:52.506Z",
   "odesli": {
     "amazonMusic": "B0BYTGV4DD",
     "amazonStore": "B0BYTGV4DD",
@@ -28,6 +28,19 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "3be1c652-2e90-40e6-89ad-bcac62aab60f"
+    "artistMbid": "3be1c652-2e90-40e6-89ad-bcac62aab60f",
+    "trackMbid": "1fc48d5a-dab8-4f4c-84f4-f3740c5f5688",
+    "releaseCount": 25,
+    "genres": [
+      "neue deutsche welle",
+      "new wave",
+      "pop",
+      "pop rock",
+      "rock",
+      "ska"
+    ],
+    "artistGenres": [
+      "neue deutsche welle"
+    ]
   }
 }

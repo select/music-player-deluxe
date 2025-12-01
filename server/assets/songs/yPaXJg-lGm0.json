@@ -2,7 +2,7 @@
   "youtubeId": "yPaXJg-lGm0",
   "title": "A Dark Machine",
   "artist": "ShockOne",
-  "lastFetched": "2025-11-19T07:37:52.739Z",
+  "lastFetched": "2025-11-30T23:29:06.428Z",
   "odesli": {
     "amazonMusic": "B07T3PX7LV",
     "amazonStore": "B07T3PX7LV",
@@ -24,6 +24,15 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "df76ffff-c150-4aa1-ab1d-e2714d865038"
+    "artistMbid": "df76ffff-c150-4aa1-ab1d-e2714d865038",
+    "trackMbid": "4603ce34-6fe7-45f6-83bf-71b4da9a4572",
+    "releaseCount": 3,
+    "artistGenres": [
+      "brostep",
+      "dancefloor drum and bass",
+      "drum and bass",
+      "dubstep",
+      "neurofunk"
+    ]
   }
 }

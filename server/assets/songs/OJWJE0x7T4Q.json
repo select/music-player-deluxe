@@ -1,7 +1,7 @@
 {
   "youtubeId": "OJWJE0x7T4Q",
   "title": "Peter Gabriel - Sledgehammer (HD version)",
-  "lastFetched": "2025-11-29T12:38:51.478Z",
+  "lastFetched": "2025-11-30T19:47:57.352Z",
   "ai": {
     "title": "Sledgehammer",
     "artist": "Peter Gabriel"
@@ -21,6 +21,30 @@
       "progressive rock",
       "pop",
       "classic rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "39a2af3a-5bad-4534-83d9-55a6d3c29ef1",
+    "artistMbid": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5",
+    "releaseCount": 9,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "art pop",
+      "art rock",
+      "chamber pop",
+      "crossover prog",
+      "experimental",
+      "folk",
+      "new wave",
+      "pop",
+      "pop rock",
+      "progressive pop",
+      "progressive rock",
+      "rock",
+      "soft rock",
+      "worldbeat"
     ]
   }
 }

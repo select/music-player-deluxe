@@ -2,7 +2,7 @@
   "youtubeId": "Kge3RKLn5RU",
   "title": "Bend Over",
   "artist": "Wagon Christ",
-  "lastFetched": "2025-11-23T15:53:07.502Z",
+  "lastFetched": "2025-11-30T22:15:34.587Z",
   "odesli": {
     "amazonMusic": "B073RZ2LVK",
     "amazonStore": "B073RZ2LVK",
@@ -26,6 +26,25 @@
       "electronic",
       "trip-hop",
       "ninja tune"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8b6b7924-ee56-4d45-baba-ab77ab67a9a4",
+    "artistMbid": "991b8af4-328a-4441-8dc5-f7af0c89af08",
+    "releaseCount": 9,
+    "genres": [
+      "breakbeat",
+      "electronic",
+      "idm",
+      "leftfield",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "acid techno",
+      "drum and bass",
+      "electronic",
+      "idm",
+      "trip hop"
     ]
   }
 }

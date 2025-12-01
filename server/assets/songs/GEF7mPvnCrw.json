@@ -1,9 +1,29 @@
 {
   "youtubeId": "GEF7mPvnCrw",
   "title": "Portico Quartet 'Steepless' with Cornelia // BeatCast Live Series",
-  "lastFetched": "2025-11-26T10:08:19.930Z",
+  "lastFetched": "2025-11-30T20:55:01.436Z",
   "ai": {
     "title": "Steepless",
     "artist": "Portico Quartet"
+  },
+  "musicbrainz": {
+    "trackMbid": "47631847-3870-4407-927f-c9e90dc85c40",
+    "artistMbid": "0e6e5a3e-b5cb-45ff-97f4-c23c88efc563",
+    "releaseCount": 5,
+    "genres": [
+      "ambient",
+      "contemporary jazz",
+      "electronic",
+      "indie pop",
+      "indie rock",
+      "jazz",
+      "jazz fusion",
+      "rock"
+    ],
+    "artistGenres": [
+      "avant-garde jazz",
+      "instrumental",
+      "jazz"
+    ]
   }
 }

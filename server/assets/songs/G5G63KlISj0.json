@@ -2,7 +2,7 @@
   "youtubeId": "G5G63KlISj0",
   "title": "Belt Loops",
   "artist": "The Films",
-  "lastFetched": "2025-11-28T12:13:43.682Z",
+  "lastFetched": "2025-11-30T20:24:25.746Z",
   "odesli": {
     "amazonMusic": "B00122A0JG",
     "amazonStore": "B00122A0JG",
@@ -25,6 +25,17 @@
       "indie rock",
       "indie",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7f0db50f-3429-45a0-b84f-f1b5b72c4f8c",
+    "artistMbid": "a43dccad-c63f-49e5-b342-f96debc02ac4",
+    "releaseCount": 1,
+    "genres": [
+      "alternative rock",
+      "blues",
+      "indie rock",
+      "rock"
     ]
   }
 }

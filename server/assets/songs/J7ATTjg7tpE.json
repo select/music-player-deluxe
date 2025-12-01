@@ -2,7 +2,7 @@
   "youtubeId": "J7ATTjg7tpE",
   "title": "Oye Como Va",
   "artist": "Santana",
-  "lastFetched": "2025-11-30T17:45:03.164Z",
+  "lastFetched": "2025-11-30T19:37:05.508Z",
   "odesli": {
     "amazonMusic": "B00137KSV0",
     "amazonStore": "B00137KSV0",
@@ -32,6 +32,34 @@
       "classic rock",
       "santana",
       "latin rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f9d07e62-9174-4602-a695-6bff7f3923ea",
+    "artistMbid": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+    "releaseCount": 14,
+    "genres": [
+      "classic rock",
+      "folk rock",
+      "jazz",
+      "jazz rock",
+      "latin",
+      "latin rock",
+      "psychedelic rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "classic rock",
+      "hard rock",
+      "jazz",
+      "jazz fusion",
+      "jazz rock",
+      "latin",
+      "latin rock",
+      "pop rock",
+      "psychedelic rock",
+      "rock"
     ]
   }
 }

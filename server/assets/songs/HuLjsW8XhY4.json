@@ -1,7 +1,7 @@
 {
   "youtubeId": "HuLjsW8XhY4",
   "title": "Smoke City - Underwater Love",
-  "lastFetched": "2025-11-28T12:13:27.233Z",
+  "lastFetched": "2025-11-30T20:03:20.935Z",
   "ai": {
     "title": "Underwater Love",
     "artist": "Smoke City"
@@ -20,6 +20,15 @@
       "trip-hop",
       "chillout",
       "female vocalists"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2548e595-a470-40cd-aaf1-b1c407798cf4",
+    "artistMbid": "7fbfcd25-9ce2-4ef4-9270-e971ea61fb4a",
+    "releaseCount": 2,
+    "artistGenres": [
+      "acid jazz",
+      "trip hop"
     ]
   }
 }

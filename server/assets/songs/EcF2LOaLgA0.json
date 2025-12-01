@@ -2,7 +2,7 @@
   "youtubeId": "EcF2LOaLgA0",
   "title": "Inspector Gadget",
   "artist": "TV Themes",
-  "lastFetched": "2025-11-30T17:21:11.097Z",
+  "lastFetched": "2025-11-30T19:39:46.930Z",
   "odesli": {
     "amazonMusic": "B01896JB1K",
     "amazonStore": "B01896JB1K",
@@ -13,5 +13,10 @@
     "yandex": "48757426",
     "youtube": "EcF2LOaLgA0",
     "youtubeMusic": "EcF2LOaLgA0"
+  },
+  "musicbrainz": {
+    "trackMbid": "2238b684-25eb-4f87-b6d8-a283700a687f",
+    "artistMbid": "092f23ff-bb09-4f78-aadc-21198a671159",
+    "releaseCount": 1
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "kZQUlcf5P3E",
   "title": "Gut für mich, schlecht für die Welt",
   "artist": "Die Türen",
-  "lastFetched": "2025-11-19T16:06:56.504Z",
+  "lastFetched": "2025-11-30T22:50:09.631Z",
   "odesli": {
     "amazonMusic": "B0C6MQK6VS",
     "amazonStore": "B0C6MQK6VS",
@@ -24,6 +24,11 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "70885aba-47cb-4566-ac6b-8a180e551d42"
+    "artistMbid": "70885aba-47cb-4566-ac6b-8a180e551d42",
+    "trackMbid": "93fe2970-158c-4e7c-bc0c-cd1cce858083",
+    "releaseCount": 2,
+    "artistGenres": [
+      "rock"
+    ]
   }
 }

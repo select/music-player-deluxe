@@ -2,7 +2,7 @@
   "youtubeId": "eD27KaaL2us",
   "title": "Cubano Chant",
   "artist": "Ray Bryant",
-  "lastFetched": "2025-11-19T17:30:47.166Z",
+  "lastFetched": "2025-11-30T22:36:42.690Z",
   "odesli": {
     "appleMusic": "1444065240",
     "itunes": "1444065240",
@@ -23,6 +23,15 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "7feee525-a8ff-4a59-85f6-2b5190ea3e38"
+    "artistMbid": "7feee525-a8ff-4a59-85f6-2b5190ea3e38",
+    "trackMbid": "2a7253ee-3289-465a-8bee-3c0a95e54b3b",
+    "releaseCount": 3,
+    "artistGenres": [
+      "bebop",
+      "hard bop",
+      "jazz",
+      "post-bop",
+      "soul jazz"
+    ]
   }
 }

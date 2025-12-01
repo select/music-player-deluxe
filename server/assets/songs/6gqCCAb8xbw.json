@@ -2,7 +2,7 @@
   "youtubeId": "6gqCCAb8xbw",
   "title": "Far Far Away",
   "artist": "Slade",
-  "lastFetched": "2025-11-28T18:35:23.308Z",
+  "lastFetched": "2025-11-30T20:04:11.867Z",
   "odesli": {
     "amazonMusic": "B0DZRNP4H1",
     "amazonStore": "B0DZRNP4H1",
@@ -27,6 +27,16 @@
       "classic rock",
       "glam rock",
       "slade"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4f4f81bd-ce09-4f9e-b4e5-508a61b84730",
+    "artistMbid": "2e700147-56a3-416b-a95d-381ea42f947f",
+    "releaseCount": 4,
+    "artistGenres": [
+      "glam rock",
+      "hard rock",
+      "rock"
     ]
   }
 }

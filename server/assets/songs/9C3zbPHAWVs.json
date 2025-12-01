@@ -2,7 +2,7 @@
   "youtubeId": "9C3zbPHAWVs",
   "title": "Dem Gone",
   "artist": "Solo Banton",
-  "lastFetched": "2025-11-19T13:55:47.708Z",
+  "lastFetched": "2025-11-30T23:01:14.448Z",
   "odesli": {
     "amazonMusic": "B0CJHH5TNS",
     "amazonStore": "B0CJHH5TNS",
@@ -24,6 +24,11 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "4dc99260-03b9-4121-8a80-c19f8f284d10"
+    "artistMbid": "4dc99260-03b9-4121-8a80-c19f8f284d10",
+    "trackMbid": "d0b58c78-b839-4aef-9640-615c93d68690",
+    "releaseCount": 1,
+    "genres": [
+      "reggae"
+    ]
   }
 }

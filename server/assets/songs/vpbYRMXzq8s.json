@@ -2,7 +2,7 @@
   "youtubeId": "vpbYRMXzq8s",
   "title": "If I Were a Carpenter",
   "artist": "Johnny Cash",
-  "lastFetched": "2025-11-19T09:39:54.205Z",
+  "lastFetched": "2025-11-30T23:06:44.310Z",
   "odesli": {
     "amazonMusic": "B00136NSZO",
     "amazonStore": "B00136NSZO",
@@ -16,5 +16,21 @@
   "ai": {
     "title": "If I Were a Carpenter",
     "artist": "Johnny Cash, June Carter Cash"
+  },
+  "musicbrainz": {
+    "trackMbid": "ab6e206a-6a9e-4c7e-8393-56bec1b3d534",
+    "artistMbid": "d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
+    "releaseCount": 2,
+    "artistGenres": [
+      "americana",
+      "blues",
+      "country",
+      "country gospel",
+      "folk",
+      "gospel",
+      "outlaw country",
+      "rock and roll",
+      "rockabilly"
+    ]
   }
 }

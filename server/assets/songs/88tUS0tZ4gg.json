@@ -2,7 +2,7 @@
   "youtubeId": "88tUS0tZ4gg",
   "title": "EDM Death Machine",
   "artist": "Knife Party",
-  "lastFetched": "2025-11-28T18:36:28.674Z",
+  "lastFetched": "2025-11-30T20:08:27.727Z",
   "odesli": {
     "amazonMusic": "B00CJSIYWW",
     "amazonStore": "B00CJSIYWW",
@@ -31,6 +31,26 @@
       "house",
       "dubstep",
       "electronica"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c05a15b3-e928-4bf5-bf55-490086f15e19",
+    "artistMbid": "82a8aee6-0772-4399-9238-b5903eab413f",
+    "releaseCount": 5,
+    "genres": [
+      "big room house",
+      "dance",
+      "edm",
+      "electro house",
+      "electronic",
+      "house"
+    ],
+    "artistGenres": [
+      "complextro",
+      "dubstep",
+      "electro house",
+      "electronic",
+      "house"
     ]
   }
 }

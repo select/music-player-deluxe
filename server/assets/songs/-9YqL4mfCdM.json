@@ -1,7 +1,7 @@
 {
   "youtubeId": "-9YqL4mfCdM",
   "title": "3TEETH  -  NIHIL",
-  "lastFetched": "2025-11-28T12:13:24.080Z",
+  "lastFetched": "2025-11-30T20:02:59.727Z",
   "ai": {
     "title": "NIHIL",
     "artist": "3TEETH"
@@ -17,6 +17,16 @@
     "tags": [
       "industrial metal",
       "industrial"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6ef60e3b-b2ea-4dca-b547-2ff33674fe4f",
+    "artistMbid": "358278f1-e0c5-4f8d-99de-9815bff2d15b",
+    "releaseCount": 5,
+    "artistGenres": [
+      "electro-industrial",
+      "industrial metal",
+      "industrial rock"
     ]
   }
 }

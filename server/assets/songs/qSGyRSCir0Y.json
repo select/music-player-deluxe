@@ -2,9 +2,14 @@
   "youtubeId": "qSGyRSCir0Y",
   "title": "Robot is Systematic",
   "artist": "Electric Workers",
-  "lastFetched": "2025-11-20T11:43:37.536Z",
+  "lastFetched": "2025-11-30T22:16:33.642Z",
   "ai": {
     "title": "Robot is Systematic",
     "artist": "Electric Workers"
+  },
+  "musicbrainz": {
+    "trackMbid": "54377261-13db-4ec6-9510-725d93bda056",
+    "artistMbid": "480aa9a7-b14b-4e11-9a79-bb020ea8d5d0",
+    "releaseCount": 1
   }
 }

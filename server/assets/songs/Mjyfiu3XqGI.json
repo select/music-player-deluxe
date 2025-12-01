@@ -2,7 +2,7 @@
   "youtubeId": "Mjyfiu3XqGI",
   "title": "Spiritual Warriors",
   "artist": "Kurt Stenzel",
-  "lastFetched": "2025-11-29T13:48:17.552Z",
+  "lastFetched": "2025-11-30T19:51:32.994Z",
   "odesli": {
     "amazonMusic": "B0DT2DLSZJ",
     "amazonStore": "B0DT2DLSZJ",
@@ -26,5 +26,10 @@
       "berlin school",
       "horror synth"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "45035fa6-2185-48d5-a5c6-f3fa452aa7ef",
+    "artistMbid": "9e4251b1-2734-4f74-8860-9c095740be5c",
+    "releaseCount": 2
   }
 }

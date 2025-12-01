@@ -1,7 +1,7 @@
 {
   "youtubeId": "7dSFMUcTuhU",
   "title": "In My Room (Audio) - Jacob Collier",
-  "lastFetched": "2025-11-26T11:02:11.090Z",
+  "lastFetched": "2025-11-30T21:30:37.262Z",
   "ai": {
     "title": "In My Room",
     "artist": "Jacob Collier"
@@ -17,6 +17,25 @@
     "artistMbid": "1df15ee0-b52b-4315-9cb9-bc5a27a685e9",
     "tags": [
       "cover"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e6cdb6a6-7aee-49eb-ae84-ae41c781ee15",
+    "artistMbid": "1df15ee0-b52b-4315-9cb9-bc5a27a685e9",
+    "releaseCount": 3,
+    "artistGenres": [
+      "art pop",
+      "classical",
+      "contemporary r&b",
+      "crossover jazz",
+      "electronic",
+      "funk",
+      "jazz",
+      "jazz-funk",
+      "pop",
+      "r&b",
+      "soul",
+      "vocal jazz"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "RvuVFHTvdaY",
   "title": "Underneath It All",
   "artist": "No Doubt",
-  "lastFetched": "2025-11-26T10:56:10.206Z",
+  "lastFetched": "2025-11-30T20:45:19.063Z",
   "odesli": {
     "amazonMusic": "B000V61642",
     "amazonStore": "B000V61642",
@@ -31,6 +31,29 @@
       "pop",
       "alternative",
       "female vocalists"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3df24577-f3c1-44e0-a888-a47196e8b811",
+    "artistMbid": "fbd2a255-1d57-4d31-ac11-65b671c19958",
+    "releaseCount": 25,
+    "genres": [
+      "alternative pop",
+      "alternative rock",
+      "blues",
+      "post-grunge",
+      "reggae",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "pop",
+      "pop rock",
+      "power pop",
+      "rock",
+      "ska",
+      "ska punk",
+      "third wave ska"
     ]
   }
 }

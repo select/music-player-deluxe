@@ -1,7 +1,7 @@
 {
   "youtubeId": "aYEFl8YCFkA",
   "title": "257ers - Holz (Weihnachtslied)",
-  "lastFetched": "2025-11-26T11:01:42.697Z",
+  "lastFetched": "2025-11-30T21:26:49.663Z",
   "ai": {
     "title": "Holz",
     "artist": "257ers"
@@ -19,6 +19,20 @@
       "rap",
       "hip hop",
       "hip-hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3f78e559-5895-441f-8667-0996aef90ed7",
+    "artistMbid": "ae667c89-4be1-4100-bb44-39bcfbe9cc28",
+    "releaseCount": 14,
+    "genres": [
+      "hip hop",
+      "pop",
+      "pop rap"
+    ],
+    "artistGenres": [
+      "hip house",
+      "pop rap"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "VDhqcuR-4aY",
   "title": "Le trip",
   "artist": "The Offline",
-  "lastFetched": "2025-11-19T05:25:33.179Z",
+  "lastFetched": "2025-11-30T23:39:54.617Z",
   "odesli": {
     "amazonMusic": "B0FH2TKMWQ",
     "amazonStore": "B0FH2TKMWQ",
@@ -24,6 +24,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "4ea981de-978b-4098-901f-8c401456a4c5"
+    "artistMbid": "4ea981de-978b-4098-901f-8c401456a4c5",
+    "trackMbid": "8a4ad9a2-876c-4fe9-8da0-d6824efdc78c",
+    "releaseCount": 1
   }
 }

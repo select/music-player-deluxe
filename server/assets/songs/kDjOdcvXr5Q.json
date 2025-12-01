@@ -2,7 +2,7 @@
   "youtubeId": "kDjOdcvXr5Q",
   "title": "Come Back To What You Know",
   "artist": "Embrace",
-  "lastFetched": "2025-11-29T13:49:24.009Z",
+  "lastFetched": "2025-11-30T20:01:07.903Z",
   "odesli": {
     "amazonMusic": "B073LW5VYX",
     "amazonStore": "B073LW5VYX",
@@ -25,6 +25,23 @@
       "indie",
       "britpop",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "550d7a2a-0dbf-4e75-838b-56426ffae4b0",
+    "artistMbid": "77f049ad-f469-4ad1-8283-7a2606a6722e",
+    "releaseCount": 25,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "britpop",
+      "indie pop",
+      "indie rock",
+      "piano rock",
+      "pop rock",
+      "post-britpop"
     ]
   }
 }

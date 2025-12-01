@@ -1,7 +1,7 @@
 {
   "youtubeId": "82gyb0cFJ20",
   "title": "Ashtray Heart",
-  "lastFetched": "2025-11-28T14:54:01.690Z",
+  "lastFetched": "2025-11-30T20:05:13.142Z",
   "ai": {
     "title": "Ashtray Heart",
     "artist": "Captain Beefheart"
@@ -15,5 +15,19 @@
     "youtube": "82gyb0cFJ20",
     "youtubeMusic": "82gyb0cFJ20"
   },
-  "artist": "Captain Beefheart"
+  "artist": "Captain Beefheart",
+  "musicbrainz": {
+    "trackMbid": "01d96553-7e4b-4d38-ada7-7e99bc0fd4cb",
+    "artistMbid": "a1594afa-2f6b-4596-a156-a35853dca691",
+    "releaseCount": 1,
+    "artistGenres": [
+      "art rock",
+      "avant-garde",
+      "beat poetry",
+      "blues rock",
+      "experimental rock",
+      "proto-punk",
+      "psychedelic rock"
+    ]
+  }
 }

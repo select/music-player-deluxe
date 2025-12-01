@@ -2,7 +2,7 @@
   "youtubeId": "1l0xpkk0yaQ",
   "title": "Long Cool Woman (In a Black Dress)",
   "artist": "The Hollies",
-  "lastFetched": "2025-11-28T12:14:19.906Z",
+  "lastFetched": "2025-11-30T20:36:57.122Z",
   "odesli": {
     "amazonMusic": "B0F1BFLRDR",
     "amazonStore": "B0F1BFLRDR",
@@ -27,6 +27,21 @@
       "60s",
       "70s",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "db0d650c-f1dc-49cc-8a84-08062180471c",
+    "artistMbid": "d4305549-6b4e-4a57-b24d-8af0743fe191",
+    "releaseCount": 1,
+    "artistGenres": [
+      "baroque pop",
+      "beat music",
+      "pop",
+      "pop rock",
+      "psychedelic pop",
+      "rock",
+      "soft rock",
+      "sunshine pop"
     ]
   }
 }

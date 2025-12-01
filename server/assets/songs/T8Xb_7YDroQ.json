@@ -2,7 +2,7 @@
   "youtubeId": "T8Xb_7YDroQ",
   "title": "Inside Out",
   "artist": "Eve 6",
-  "lastFetched": "2025-11-29T13:49:05.884Z",
+  "lastFetched": "2025-11-30T19:57:40.306Z",
   "odesli": {
     "amazonMusic": "B001BHFZ74",
     "amazonStore": "B001BHFZ74",
@@ -30,6 +30,14 @@
       "rock",
       "alternative rock",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e799c8ed-2bd0-430f-a620-d9fd2d728408",
+    "artistMbid": "ebd2ac91-6249-4e4b-bde1-353a424138c9",
+    "releaseCount": 3,
+    "artistGenres": [
+      "alternative rock"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "NLGLh6KUb2s",
   "title": "Big Horse",
   "artist": "Spice",
-  "lastFetched": "2025-11-24T00:22:14.850Z",
+  "lastFetched": "2025-11-30T21:42:43.782Z",
   "odesli": {
     "amazonMusic": "B07JKN7H4D",
     "amazonStore": "B07JKN7H4D",
@@ -35,6 +35,15 @@
       "jamaica",
       "reggae",
       "indie rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "57bdbcf8-ae27-4d3b-be75-ee332ebedb28",
+    "artistMbid": "9bcbf327-72bf-4a66-a6ad-5e990565c16e",
+    "releaseCount": 2,
+    "artistGenres": [
+      "dancehall",
+      "reggae"
     ]
   }
 }

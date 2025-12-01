@@ -1,9 +1,14 @@
 {
   "youtubeId": "-5EmnQp3V48",
   "title": "The Commodores - Brick House",
-  "lastFetched": "2025-11-25T17:11:48.941Z",
+  "lastFetched": "2025-11-30T21:37:55.065Z",
   "ai": {
     "title": "Brick House",
     "artist": "The Commodores"
+  },
+  "musicbrainz": {
+    "trackMbid": "a195870b-1c0c-4c2a-9812-487e2380f824",
+    "artistMbid": "0d70a3b5-95d2-43cc-aeeb-6c54167fcb5c",
+    "releaseCount": 1
   }
 }

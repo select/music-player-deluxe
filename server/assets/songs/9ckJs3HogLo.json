@@ -2,7 +2,7 @@
   "youtubeId": "9ckJs3HogLo",
   "title": "Everlasting Sunday",
   "artist": "Cuthead",
-  "lastFetched": "2025-11-23T19:30:37.630Z",
+  "lastFetched": "2025-11-30T22:09:43.422Z",
   "odesli": {
     "amazonMusic": "B00FRNEHAO",
     "amazonStore": "B00FRNEHAO",
@@ -28,6 +28,18 @@
     "artistMbid": "87088076-5965-4a71-b3ab-7be1de068514",
     "tags": [
       "beats"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bda13f8f-7a60-462e-833c-ed6e742ec7b7",
+    "artistMbid": "7838eb1b-9e70-4e4c-bc2f-a0ddc95011c7",
+    "releaseCount": 2,
+    "genres": [
+      "dance",
+      "deep house",
+      "electronic",
+      "hip hop",
+      "house"
     ]
   }
 }

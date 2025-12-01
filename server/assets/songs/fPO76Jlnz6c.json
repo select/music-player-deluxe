@@ -2,7 +2,7 @@
   "youtubeId": "fPO76Jlnz6c",
   "title": "Gangsta's Paradise",
   "artist": "Coolio",
-  "lastFetched": "2025-11-19T08:59:56.384Z",
+  "lastFetched": "2025-11-30T23:23:49.576Z",
   "odesli": {
     "amazonMusic": "B0766RZ7M1",
     "amazonStore": "B0766RZ7M1",
@@ -24,7 +24,18 @@
       "Gangsta Rap",
       "hip hop"
     ],
-    "artistMbid": "cc30e630-8c75-4d78-b205-8e2edc6bdaa7"
+    "artistMbid": "cc30e630-8c75-4d78-b205-8e2edc6bdaa7",
+    "trackMbid": "069c290f-2d7a-4bba-9e38-419493b85411",
+    "releaseCount": 2,
+    "artistGenres": [
+      "conscious hip hop",
+      "contemporary r&b",
+      "g-funk",
+      "gangsta rap",
+      "hip hop",
+      "pop rap",
+      "west coast hip hop"
+    ]
   },
   "lastfm": {
     "id": "Coolio/_/Gangsta%27s+Paradise",

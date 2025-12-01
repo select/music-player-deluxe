@@ -2,7 +2,7 @@
   "youtubeId": "_76NQF3FnCE",
   "title": "Uah",
   "artist": "Mouse On Mars",
-  "lastFetched": "2025-11-29T13:49:29.231Z",
+  "lastFetched": "2025-11-30T20:02:10.382Z",
   "odesli": {
     "amazonMusic": "B001KTRVCU",
     "amazonStore": "B001KTRVCU",
@@ -31,6 +31,22 @@
     "tags": [
       "electronic",
       "the hryvnia"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6a8ddb1c-9fc8-470c-aa5f-7eb9d988faf9",
+    "artistMbid": "4d4f5d92-0589-42fa-bc0e-1bd73e17a2ce",
+    "releaseCount": 4,
+    "genres": [
+      "techno"
+    ],
+    "artistGenres": [
+      "ambient",
+      "electronic",
+      "experimental",
+      "glitch",
+      "idm",
+      "techno"
     ]
   }
 }

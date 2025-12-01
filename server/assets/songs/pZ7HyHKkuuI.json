@@ -2,7 +2,7 @@
   "youtubeId": "pZ7HyHKkuuI",
   "title": "Wir sind frei",
   "artist": "Berge",
-  "lastFetched": "2025-11-23T19:35:21.334Z",
+  "lastFetched": "2025-11-30T21:47:59.662Z",
   "odesli": {
     "amazonMusic": "B00Y1UG63U",
     "amazonStore": "B00Y1UG63U",
@@ -27,6 +27,14 @@
       "rock",
       "pop",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ee6c933a-9f06-407b-b247-34b73b3f30d0",
+    "artistMbid": "257ad136-1cdb-432e-89dc-90b6ee8eb7ec",
+    "releaseCount": 2,
+    "artistGenres": [
+      "pop"
     ]
   }
 }

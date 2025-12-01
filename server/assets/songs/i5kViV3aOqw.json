@@ -2,7 +2,7 @@
   "youtubeId": "i5kViV3aOqw",
   "title": "Sirius Syntoms",
   "artist": "Lindstrøm",
-  "lastFetched": "2025-11-23T15:32:12.049Z",
+  "lastFetched": "2025-11-30T22:21:39.537Z",
   "odesli": {
     "amazonMusic": "B0D4ZJVGVV",
     "amazonStore": "B0D4ZJVGVV",
@@ -31,6 +31,16 @@
       "norwegian",
       "minimal",
       "disco"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "99783da1-2b8c-4d0e-a3e0-0850e86cca5f",
+    "artistMbid": "d2c1af9e-b83a-4ad6-a3e8-53c993d74730",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic",
+      "nu disco",
+      "space disco"
     ]
   }
 }

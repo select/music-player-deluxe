@@ -2,7 +2,7 @@
   "youtubeId": "uHYhzg8QWbI",
   "title": "Delicate Cycle",
   "artist": "The Uncluded",
-  "lastFetched": "2025-11-30T17:44:24.149Z",
+  "lastFetched": "2025-11-30T19:31:56.344Z",
   "odesli": {
     "amazonMusic": "B089NQ3639",
     "amazonStore": "B089NQ3639",
@@ -26,6 +26,18 @@
       "hip-hop",
       "indie hip hop",
       "antifolk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "95d424d4-bcff-47ed-b997-5ead1d10c1d3",
+    "artistMbid": "fd8001ae-21d0-4370-8290-a04af255c115",
+    "releaseCount": 7,
+    "genres": [
+      "alternative hip hop",
+      "hip hop"
+    ],
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

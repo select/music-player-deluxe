@@ -1,7 +1,7 @@
 {
   "youtubeId": "fT_waNzdKMg",
   "title": "Opeth - Demon of the Fall",
-  "lastFetched": "2025-11-27T12:00:51.651Z",
+  "lastFetched": "2025-11-30T20:26:47.930Z",
   "ai": {
     "title": "Demon of the Fall",
     "artist": "Opeth"
@@ -17,6 +17,29 @@
       "progressive metal",
       "death metal",
       "metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ef91cc15-c38c-48d3-bfdf-ab50c08ff08d",
+    "artistMbid": "c14b4180-dc87-481e-b17a-64e4150f90f6",
+    "releaseCount": 25,
+    "genres": [
+      "acoustic rock",
+      "death metal",
+      "heavy metal",
+      "metal",
+      "progressive metal",
+      "progressive rock",
+      "rock",
+      "symphonic black metal"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "art rock",
+      "death metal",
+      "metal",
+      "progressive metal",
+      "progressive rock"
     ]
   }
 }

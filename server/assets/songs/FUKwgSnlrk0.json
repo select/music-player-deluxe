@@ -2,7 +2,7 @@
   "youtubeId": "FUKwgSnlrk0",
   "title": "Duet",
   "artist": "Rosalie Cunningham",
-  "lastFetched": "2025-11-19T06:22:04.087Z",
+  "lastFetched": "2025-11-30T23:36:19.980Z",
   "odesli": {
     "amazonMusic": "B09NCGG4HC",
     "amazonStore": "B09NCGG4HC",
@@ -22,6 +22,15 @@
     "tags": [
       "psychedelic rock",
       "psychedelic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0d193b9a-8dab-4296-927b-e2426122f720",
+    "artistMbid": "c339108e-8eeb-4392-9933-9a72bd50e9b6",
+    "releaseCount": 4,
+    "artistGenres": [
+      "art rock",
+      "psychedelic rock"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "NIeiUFr2xTs",
   "title": "On The Run (Edit)",
   "artist": "Tony Allen",
-  "lastFetched": "2025-11-19T13:09:50.969Z",
+  "lastFetched": "2025-11-30T23:04:37.532Z",
   "odesli": {
     "amazonMusic": "B07F16FV8Q",
     "amazonStore": "B07F16FV8Q",
@@ -25,6 +25,14 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "ea524cc6-191a-4c05-ab88-3bb5c0880ca5"
+    "artistMbid": "ea524cc6-191a-4c05-ab88-3bb5c0880ca5",
+    "trackMbid": "3b7e1fe0-5c92-4114-992f-36606e0be4a3",
+    "releaseCount": 1,
+    "artistGenres": [
+      "afrobeat",
+      "funk",
+      "jazz",
+      "post-bop"
+    ]
   }
 }

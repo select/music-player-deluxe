@@ -2,7 +2,7 @@
   "youtubeId": "TNi99utfX-w",
   "title": "Echtzeit",
   "artist": "Sensorama",
-  "lastFetched": "2025-11-23T15:30:10.475Z",
+  "lastFetched": "2025-11-30T22:22:17.151Z",
   "lastfm": {
     "title": "Echtzeit",
     "artist": "Sensorama",
@@ -15,6 +15,18 @@
       "groovesalad",
       "chillout",
       "downtempo"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7971a2d8-4c91-4276-b8d8-f90b5f8fbe92",
+    "artistMbid": "4a9dabcf-02a5-486a-8f35-23a94370ad0d",
+    "releaseCount": 5,
+    "genres": [
+      "ambient",
+      "chillout",
+      "downtempo",
+      "electronic",
+      "techno"
     ]
   }
 }

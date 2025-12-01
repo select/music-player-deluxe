@@ -2,7 +2,7 @@
   "youtubeId": "7tf1wzg4rdE",
   "title": "Anything Could Happen",
   "artist": "The Clean",
-  "lastFetched": "2025-11-23T19:30:35.134Z",
+  "lastFetched": "2025-11-30T22:10:12.598Z",
   "odesli": {
     "amazonMusic": "B0FQLW5PNB",
     "amazonStore": "B0FQLW5PNB",
@@ -24,6 +24,16 @@
       "indie rock",
       "house of wax",
       "wsum 91.7 fm madison"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "887c4b3f-8533-46fd-be4b-70ce88240a0e",
+    "artistMbid": "d10c7c90-54b1-4855-a9f5-1099a8dd7f54",
+    "releaseCount": 18,
+    "artistGenres": [
+      "dunedin sound",
+      "indie pop",
+      "jangle pop"
     ]
   }
 }

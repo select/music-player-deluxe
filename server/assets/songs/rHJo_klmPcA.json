@@ -1,7 +1,7 @@
 {
   "youtubeId": "rHJo_klmPcA",
   "title": "The Polyphonic Spree - Light and Day",
-  "lastFetched": "2025-11-26T11:02:42.820Z",
+  "lastFetched": "2025-11-30T21:41:13.107Z",
   "ai": {
     "title": "Light and Day",
     "artist": "The Polyphonic Spree"
@@ -19,6 +19,22 @@
       "scrubs",
       "indie",
       "indie pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "dec6aa4a-403d-4e74-9a90-5b507b8931d6",
+    "artistMbid": "6758601f-6d57-491e-a125-037f382a5ddd",
+    "releaseCount": 2,
+    "genres": [
+      "indie pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "indie pop",
+      "indie rock",
+      "psychedelic pop",
+      "psychedelic rock",
+      "symphonic rock"
     ]
   }
 }

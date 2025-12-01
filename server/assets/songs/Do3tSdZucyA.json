@@ -2,7 +2,7 @@
   "youtubeId": "Do3tSdZucyA",
   "title": "Solara",
   "artist": "The Smashing Pumpkins",
-  "lastFetched": "2025-11-30T17:44:58.146Z",
+  "lastFetched": "2025-11-30T19:36:24.442Z",
   "odesli": {
     "amazonMusic": "B07HCSL3MQ",
     "amazonStore": "B07HCSL3MQ",
@@ -27,6 +27,25 @@
     "tags": [
       "no darcy no real reunion",
       "where is darcy"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3754c5a5-a471-4adc-a133-d525cbbbfabf",
+    "artistMbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+    "releaseCount": 10,
+    "genres": [
+      "alternative rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "dream pop",
+      "grunge",
+      "neo-psychedelia",
+      "progressive rock",
+      "rock",
+      "shoegaze",
+      "symphonic rock",
+      "synth-pop"
     ]
   }
 }

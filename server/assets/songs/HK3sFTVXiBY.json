@@ -2,7 +2,7 @@
   "youtubeId": "HK3sFTVXiBY",
   "title": "Feel The Night",
   "artist": "Lee Ritenour",
-  "lastFetched": "2025-11-28T18:39:08.078Z",
+  "lastFetched": "2025-11-30T20:18:36.950Z",
   "odesli": {
     "amazonMusic": "B09B5SMK6Y",
     "amazonStore": "B09B5SMK6Y",
@@ -24,6 +24,20 @@
       "70s",
       "instrumental",
       "jazz-funk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f9c27b10-efa8-4e08-938b-d880ba535175",
+    "artistMbid": "0c361ea5-98c6-4947-900b-201833f2dd84",
+    "releaseCount": 3,
+    "artistGenres": [
+      "crossover jazz",
+      "jazz",
+      "jazz fusion",
+      "jazz pop",
+      "jazz rock",
+      "smooth jazz",
+      "yacht rock"
     ]
   }
 }

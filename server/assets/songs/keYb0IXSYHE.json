@@ -2,7 +2,7 @@
   "youtubeId": "keYb0IXSYHE",
   "title": "I Know, I Know",
   "artist": "Dekker",
-  "lastFetched": "2025-11-19T16:28:56.234Z",
+  "lastFetched": "2025-11-30T22:46:35.998Z",
   "odesli": {
     "amazonMusic": "B0CSZ9CPK6",
     "amazonStore": "B0CSZ9CPK6",
@@ -27,6 +27,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "c5297503-fa61-4fe0-8dbb-49af0ef08004"
+    "artistMbid": "c5297503-fa61-4fe0-8dbb-49af0ef08004",
+    "trackMbid": "099e989d-89c6-4440-afa9-74813b380a7b",
+    "releaseCount": 2
   }
 }

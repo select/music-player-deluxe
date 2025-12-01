@@ -2,7 +2,7 @@
   "youtubeId": "XDPgVe9h0Yc",
   "title": "8 Bit Dreamer",
   "artist": "501",
-  "lastFetched": "2025-11-27T12:05:06.119Z",
+  "lastFetched": "2025-11-30T21:00:19.221Z",
   "odesli": {
     "amazonMusic": "B00LRMYUZQ",
     "amazonStore": "B00LRMYUZQ",
@@ -25,6 +25,18 @@
       "never say die records",
       "2011",
       "please play this one"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2c3e5996-148b-4bcc-8bfd-c80e8dfbb886",
+    "artistMbid": "7127593a-f58c-48fb-8f53-b3207bdf1111",
+    "releaseCount": 1,
+    "genres": [
+      "brostep"
+    ],
+    "artistGenres": [
+      "dubstep",
+      "electronic"
     ]
   }
 }

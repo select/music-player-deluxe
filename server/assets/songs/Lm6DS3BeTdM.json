@@ -2,7 +2,7 @@
   "youtubeId": "Lm6DS3BeTdM",
   "title": "Virtual Insanity",
   "artist": "Jamiroquai",
-  "lastFetched": "2025-11-23T19:33:44.901Z",
+  "lastFetched": "2025-11-30T21:56:32.730Z",
   "odesli": {
     "amazonMusic": "B01ENCD1M4",
     "amazonStore": "B01ENCD1M4",
@@ -32,5 +32,17 @@
     ],
     "title": "Virtual Insanity",
     "artist": "Jamiroquai"
+  },
+  "musicbrainz": {
+    "trackMbid": "541aadde-4969-4d35-aaa4-eaf3a1709f3e",
+    "artistMbid": "f4857fb9-e255-4dc6-bd01-e4ca7cc68544",
+    "releaseCount": 1,
+    "artistGenres": [
+      "acid jazz",
+      "disco",
+      "funk",
+      "house",
+      "r&b"
+    ]
   }
 }

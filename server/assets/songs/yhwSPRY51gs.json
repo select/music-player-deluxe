@@ -2,7 +2,7 @@
   "youtubeId": "yhwSPRY51gs",
   "title": "Oh! Sweet Nuthin'",
   "artist": "The Velvet Underground",
-  "lastFetched": "2025-11-23T15:31:41.637Z",
+  "lastFetched": "2025-11-30T22:21:56.081Z",
   "odesli": {
     "amazonMusic": "B016S7ZFKI",
     "amazonStore": "B016S7ZFKI",
@@ -34,6 +34,32 @@
       "rock",
       "psychedelic",
       "the velvet underground"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "867efdb3-aaa3-4b36-b0bf-c4fde6b7a227",
+    "artistMbid": "94b0fb9d-a066-4823-b2ec-af1d324bcfcf",
+    "releaseCount": 2,
+    "genres": [
+      "classic rock",
+      "experimental",
+      "folk rock",
+      "garage rock",
+      "noise",
+      "pop rock",
+      "psychedelic rock",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "art rock",
+      "experimental rock",
+      "garage rock",
+      "noise rock",
+      "pop rock",
+      "proto-punk",
+      "psychedelic rock",
+      "rock"
     ]
   }
 }

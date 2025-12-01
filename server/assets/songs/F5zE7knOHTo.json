@@ -2,9 +2,26 @@
   "youtubeId": "F5zE7knOHTo",
   "title": "iconic storage",
   "artist": "Ryuichi Sakamoto",
-  "lastFetched": "2025-11-18T20:03:51.903Z",
+  "lastFetched": "2025-11-30T22:59:26.985Z",
   "ai": {
     "title": "iconic storage",
     "artist": "Ryuichi Sakamoto"
+  },
+  "musicbrainz": {
+    "trackMbid": "4031aa4f-03aa-48f7-8602-4082965086f7",
+    "artistMbid": "a7f7df4a-77d8-4f12-8acd-5c60c93f4de8",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ambient",
+      "art pop",
+      "classical",
+      "electronic",
+      "experimental",
+      "experimental electronic",
+      "glitch",
+      "japanese classical",
+      "modern classical",
+      "progressive electronic"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "r_0BPqWpM_M",
   "title": "Impossible Germany by Wilco + Lyrics",
-  "lastFetched": "2025-11-29T12:38:27.062Z",
+  "lastFetched": "2025-11-30T19:41:49.892Z",
   "ai": {
     "title": "Impossible Germany",
     "artist": "Wilco"
@@ -19,6 +19,19 @@
       "indie rock",
       "rock",
       "wilco-2007-sky blue sky"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "46a371de-41a1-4e54-8ff2-3832d800412d",
+    "artistMbid": "9e53f84d-ef44-4c16-9677-5fd4d78cbd7d",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "americana",
+      "folk rock",
+      "indie rock",
+      "pop rock",
+      "rock"
     ]
   }
 }

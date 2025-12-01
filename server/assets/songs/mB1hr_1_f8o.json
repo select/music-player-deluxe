@@ -2,7 +2,7 @@
   "youtubeId": "mB1hr_1_f8o",
   "title": "Get Off",
   "artist": "Foxy",
-  "lastFetched": "2025-11-23T19:31:24.174Z",
+  "lastFetched": "2025-11-30T22:07:54.623Z",
   "odesli": {
     "amazonMusic": "B00124AY9A",
     "amazonStore": "B00124AY9A",
@@ -31,6 +31,16 @@
       "disco",
       "70s",
       "funk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6ccaf2fe-b68d-4bd1-8111-398c914c2aef",
+    "artistMbid": "3199d132-4ba1-4dc4-bef6-f024d0e2443b",
+    "releaseCount": 6,
+    "artistGenres": [
+      "disco",
+      "funk",
+      "latin"
     ]
   }
 }

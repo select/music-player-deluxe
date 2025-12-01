@@ -2,7 +2,7 @@
   "youtubeId": "iVvXB-Vwnco",
   "title": "Silvera",
   "artist": "Gojira",
-  "lastFetched": "2025-11-29T13:48:14.172Z",
+  "lastFetched": "2025-11-30T19:51:00.482Z",
   "odesli": {
     "amazonMusic": "B07VTJB548",
     "amazonStore": "B07VTJB548",
@@ -36,5 +36,28 @@
     "artist": "Gojira",
     "mbid": "00d18422-b30c-473b-a132-f1552bf8867b",
     "artistMbid": "1c5efd53-d6b6-4d63-9d22-a15025cf5f07"
+  },
+  "musicbrainz": {
+    "trackMbid": "94819af0-ade1-487c-b09a-7482cf852a9d",
+    "artistMbid": "1c5efd53-d6b6-4d63-9d22-a15025cf5f07",
+    "releaseCount": 14,
+    "genres": [
+      "death metal",
+      "groove metal",
+      "metal",
+      "progressive metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "avant-garde metal",
+      "death metal",
+      "groove metal",
+      "melodic death metal",
+      "metal",
+      "post-metal",
+      "progressive metal",
+      "technical death metal"
+    ]
   }
 }

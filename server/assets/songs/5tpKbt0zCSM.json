@@ -2,7 +2,7 @@
   "youtubeId": "5tpKbt0zCSM",
   "title": "Return to Shiraz",
   "artist": "Eishan Ensemble",
-  "lastFetched": "2025-11-24T00:23:22.230Z",
+  "lastFetched": "2025-11-30T21:32:14.281Z",
   "odesli": {
     "amazonMusic": "B0F4Y4G2TF",
     "amazonStore": "B0F4Y4G2TF",
@@ -27,6 +27,16 @@
     "tags": [
       "jazz",
       "persian"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f7e201a7-eeb4-42a5-ac24-c5343f5c7bdc",
+    "artistMbid": "74099f87-245b-4205-8246-c1a1e9ae7c11",
+    "releaseCount": 1,
+    "artistGenres": [
+      "classical",
+      "folk",
+      "jazz"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "GeUx5sdp3qM",
   "title": "Babylon Zoo - Spaceman",
-  "lastFetched": "2025-11-27T11:59:53.768Z",
+  "lastFetched": "2025-11-30T20:21:02.125Z",
   "ai": {
     "title": "Spaceman",
     "artist": "Babylon Zoo"
@@ -19,6 +19,21 @@
       "alternative",
       "rock",
       "one hit wonder"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d96495c5-7406-4e18-ba76-6c70af484cf5",
+    "artistMbid": "22459cde-5212-4d97-aa8f-30f0b83eaff0",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "downtempo",
+      "electronic",
+      "indie rock",
+      "industrial",
+      "pop",
+      "progressive house",
+      "space rock"
     ]
   }
 }

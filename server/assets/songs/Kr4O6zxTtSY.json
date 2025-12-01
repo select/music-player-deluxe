@@ -2,7 +2,7 @@
   "youtubeId": "Kr4O6zxTtSY",
   "title": "CrasH",
   "artist": "Schoolboy Q",
-  "lastFetched": "2025-11-23T15:53:38.720Z",
+  "lastFetched": "2025-11-30T22:15:24.009Z",
   "odesli": {
     "amazonMusic": "B07QNVDB4V",
     "amazonStore": "B07QNVDB4V",
@@ -27,6 +27,18 @@
       "hip-hop",
       "my scribbled",
       "schoolboy q"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e5645698-84ef-4312-9a75-ad2fd981a1d8",
+    "artistMbid": "bce6d667-cde8-485e-b078-c0a05adea36d",
+    "releaseCount": 4,
+    "artistGenres": [
+      "gangsta rap",
+      "hardcore hip hop",
+      "hip hop",
+      "trap",
+      "west coast hip hop"
     ]
   }
 }

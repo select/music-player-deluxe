@@ -1,7 +1,7 @@
 {
   "youtubeId": "OZuW6BH_Vak",
   "title": "Crazy On You",
-  "lastFetched": "2025-11-26T11:00:25.486Z",
+  "lastFetched": "2025-11-30T21:20:03.180Z",
   "ai": {
     "title": "Heart-Crazy On You",
     "artist": "SuperKevinheart"
@@ -33,5 +33,22 @@
     ],
     "title": "Crazy on You",
     "artist": "Heart"
+  },
+  "musicbrainz": {
+    "trackMbid": "85296424-a87c-4b21-b5fd-1ad33807fb59",
+    "artistMbid": "bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9",
+    "releaseCount": 3,
+    "artistGenres": [
+      "aor",
+      "arena rock",
+      "classic rock",
+      "folk rock",
+      "hard rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "soft rock",
+      "synth-pop"
+    ]
   }
 }

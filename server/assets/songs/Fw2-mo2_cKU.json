@@ -2,7 +2,7 @@
   "youtubeId": "Fw2-mo2_cKU",
   "title": "Leb So, Dass Es Alle Wissen Wollen",
   "artist": "Keine Zähne im Maul aber La Paloma pfeifen",
-  "lastFetched": "2025-11-19T06:19:00.654Z",
+  "lastFetched": "2025-11-30T23:36:23.666Z",
   "odesli": {
     "amazonMusic": "B008OETNQG",
     "amazonStore": "B008OETNQG",
@@ -21,5 +21,10 @@
       "ich scheiss auf deutsche texte",
       "die wahren perlen deutschsprachiger popmusik"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3eb5f997-4683-4a6c-aed0-e418818c91ce",
+    "artistMbid": "46f2e6c6-865f-465d-aaca-41d37213b64a",
+    "releaseCount": 2
   }
 }

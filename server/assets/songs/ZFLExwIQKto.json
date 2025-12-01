@@ -2,7 +2,7 @@
   "youtubeId": "ZFLExwIQKto",
   "title": "Oi To The World",
   "artist": "No Doubt",
-  "lastFetched": "2025-11-23T19:33:07.744Z",
+  "lastFetched": "2025-11-30T21:59:40.353Z",
   "odesli": {
     "amazonMusic": "B01N0XW72R",
     "amazonStore": "B01N0XW72R",
@@ -25,6 +25,24 @@
       "christmas",
       "punk",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "905e50e2-961e-449d-a3d5-f0e8aa5280d6",
+    "artistMbid": "fbd2a255-1d57-4d31-ac11-65b671c19958",
+    "releaseCount": 11,
+    "genres": [
+      "post-grunge"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "pop",
+      "pop rock",
+      "power pop",
+      "rock",
+      "ska",
+      "ska punk",
+      "third wave ska"
     ]
   }
 }

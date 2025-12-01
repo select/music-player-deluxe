@@ -2,7 +2,7 @@
   "youtubeId": "VrQc6jQkE3Q",
   "title": "Far From Here",
   "artist": "Oscuro",
-  "lastFetched": "2025-11-19T07:29:44.694Z",
+  "lastFetched": "2025-11-30T23:29:43.883Z",
   "odesli": {
     "amazonMusic": "B07YM1S2SQ",
     "amazonStore": "B07YM1S2SQ",
@@ -24,6 +24,12 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "92e43ae5-757f-437a-a156-5e7f10499a78"
+    "artistMbid": "92e43ae5-757f-437a-a156-5e7f10499a78",
+    "trackMbid": "a9a413db-34d2-4c58-8c91-4b74d0f5bac7",
+    "releaseCount": 1,
+    "artistGenres": [
+      "chillstep",
+      "downtempo"
+    ]
   }
 }

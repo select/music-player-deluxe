@@ -1,7 +1,7 @@
 {
   "youtubeId": "ol5Ha6XinFk",
   "title": "Witchrider - Black",
-  "lastFetched": "2025-11-27T12:01:14.388Z",
+  "lastFetched": "2025-11-30T20:29:10.594Z",
   "ai": {
     "title": "Black",
     "artist": "Witchrider"
@@ -17,6 +17,17 @@
     "tags": [
       "importado_do_spotify",
       "songs i have played on drums"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bc26eeea-9edc-456d-a20b-b5a717dae42e",
+    "artistMbid": "e754f30d-3ba4-4586-9b59-39b35944aa9a",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock",
+      "occult rock",
+      "psychedelic rock",
+      "stoner rock"
     ]
   }
 }

@@ -18,6 +18,7 @@
 		"deps:dedupe": "pnpm dedupe",
 		"stats:repo": "tsx scripts/repo-stats.ts",
 		"stats:playlist": "scripts/playlist-stats.sh",
+		"stats:update": "tsx scripts/update-sources.ts",
 		"augment:musicbrainz": "tsx scripts/musicbrainz-augment.ts",
 		"augment:ollama": "tsx scripts/ollama-augment.ts",
 		"augment:lastfm": "tsx scripts/lastfm-augment-find.ts",

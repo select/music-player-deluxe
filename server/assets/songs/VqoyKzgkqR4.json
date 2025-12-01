@@ -2,7 +2,7 @@
   "youtubeId": "VqoyKzgkqR4",
   "title": "Square Hammer",
   "artist": "Ghost",
-  "lastFetched": "2025-11-29T13:48:04.136Z",
+  "lastFetched": "2025-11-30T19:50:03.000Z",
   "odesli": {
     "amazonMusic": "B01LRZ2LOE",
     "amazonStore": "B01LRZ2LOE",
@@ -33,5 +33,30 @@
     "artist": "Ghost",
     "mbid": "d8238961-00f3-4955-af02-41b9c3d17051",
     "artistMbid": "2bcf2e02-5bc3-4c76-bf76-41126cb11444"
+  },
+  "musicbrainz": {
+    "trackMbid": "dc8ecac2-32d1-4390-93dc-11ede6117b36",
+    "artistMbid": "2bcf2e02-5bc3-4c76-bf76-41126cb11444",
+    "releaseCount": 25,
+    "genres": [
+      "doom metal",
+      "hard rock",
+      "heavy metal",
+      "pop rock",
+      "progressive rock",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "doom metal",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "occult rock",
+      "pop rock",
+      "progressive rock",
+      "psychedelic",
+      "psychedelic rock",
+      "rock"
+    ]
   }
 }

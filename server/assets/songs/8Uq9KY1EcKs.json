@@ -2,7 +2,7 @@
   "youtubeId": "8Uq9KY1EcKs",
   "title": "Tuur mang Welten",
   "artist": "Niklas Paschburg",
-  "lastFetched": "2025-11-30T17:45:04.392Z",
+  "lastFetched": "2025-11-30T19:37:17.586Z",
   "odesli": {
     "amazonMusic": "B07BJG1B54",
     "amazonStore": "B07BJG1B54",
@@ -20,5 +20,24 @@
     "artist": "Niklas Paschburg",
     "mbid": "5cd1269b-f7b7-4fd8-b6de-4004ac8356db",
     "artistMbid": "3a579be5-524e-4078-8e82-88af354b0008"
+  },
+  "musicbrainz": {
+    "trackMbid": "a00ea998-846a-4b33-a45f-21ea828bf844",
+    "artistMbid": "3a579be5-524e-4078-8e82-88af354b0008",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dance",
+      "edm",
+      "electro",
+      "electronic",
+      "electronica",
+      "house",
+      "melodic house",
+      "melodic techno",
+      "neoclassicism",
+      "organic house",
+      "pop",
+      "progressive house"
+    ]
   }
 }

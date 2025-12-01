@@ -1,7 +1,7 @@
 {
   "youtubeId": "N5XVeENmLMk",
   "title": "Fujiya & Miyagi Ankle Injuries (Offical Video)",
-  "lastFetched": "2025-11-26T10:56:34.886Z",
+  "lastFetched": "2025-11-30T20:50:59.079Z",
   "ai": {
     "title": "Ankle Injuries",
     "artist": "Fujiya & Miyagi"
@@ -17,6 +17,26 @@
     "tags": [
       "indie",
       "electronic",
+      "krautrock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ee255926-31da-43b4-9a1e-ece51ac57467",
+    "artistMbid": "41a94033-8b12-4c60-a22c-38c78801e363",
+    "releaseCount": 10,
+    "genres": [
+      "electro",
+      "electronic",
+      "indie rock",
+      "indietronica",
+      "krautrock",
+      "leftfield",
+      "new wave",
+      "rock"
+    ],
+    "artistGenres": [
+      "electronic",
+      "indietronica",
       "krautrock"
     ]
   }

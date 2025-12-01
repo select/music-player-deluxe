@@ -1,7 +1,7 @@
 {
   "youtubeId": "tJcm4uoCzW8",
   "title": "Spor - Pacifica (Chasing Shadows Remix)",
-  "lastFetched": "2025-11-26T10:57:20.673Z",
+  "lastFetched": "2025-11-30T21:00:01.996Z",
   "ai": {
     "title": "Pacifica (Chasing Shadows Remix)",
     "artist": "Spor"
@@ -14,6 +14,24 @@
     "artist": "Spor",
     "tags": [
       "dubstep"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "13ea9bb5-758e-4da4-8a54-217c721658d6",
+    "artistMbid": "8b1ff40c-2f5c-4121-8f3b-3e8db0b80606",
+    "releaseCount": 6,
+    "genres": [
+      "club",
+      "dance",
+      "drum and bass",
+      "dubstep",
+      "electronic",
+      "house"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "electronic",
+      "neurofunk"
     ]
   }
 }

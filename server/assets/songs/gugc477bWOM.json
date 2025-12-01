@@ -2,7 +2,7 @@
   "youtubeId": "gugc477bWOM",
   "title": "Let’s See How Things Go",
   "artist": "Jaakko Eino Kalevi",
-  "lastFetched": "2025-11-19T14:46:57.763Z",
+  "lastFetched": "2025-11-30T22:57:02.403Z",
   "odesli": {
     "amazonMusic": "B0CB72BPSP",
     "amazonStore": "B0CB72BPSP",
@@ -31,6 +31,11 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "81590419-e62c-43dd-9097-aaf6274c77cc"
+    "artistMbid": "81590419-e62c-43dd-9097-aaf6274c77cc",
+    "trackMbid": "d9bd6b19-7b99-4082-bb96-f61e60f64476",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic"
+    ]
   }
 }

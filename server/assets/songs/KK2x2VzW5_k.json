@@ -2,7 +2,7 @@
   "youtubeId": "KK2x2VzW5_k",
   "title": "Gänseblümchen",
   "artist": "Ganz Schön Feist",
-  "lastFetched": "2025-11-23T14:04:31.474Z",
+  "lastFetched": "2025-11-30T22:49:21.058Z",
   "lastfm": {
     "title": "Gänseblümchen",
     "artist": "Ganz Schön Feist",
@@ -16,6 +16,14 @@
       "german",
       "deutsch",
       "perlen deutschsprachiger popmusik"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b50066d6-1c26-44e8-9d98-1393cd703831",
+    "artistMbid": "d01185da-21e0-4d86-a53a-3aa87d85b89e",
+    "releaseCount": 1,
+    "genres": [
+      "pop"
     ]
   }
 }

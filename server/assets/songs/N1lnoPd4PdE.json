@@ -2,7 +2,7 @@
   "youtubeId": "N1lnoPd4PdE",
   "title": "Digidesign",
   "artist": "Joker",
-  "lastFetched": "2025-11-28T18:39:37.692Z",
+  "lastFetched": "2025-11-30T20:20:07.558Z",
   "odesli": {
     "amazonMusic": "B0CYDXQVPM",
     "amazonStore": "B0CYDXQVPM",
@@ -24,6 +24,16 @@
     "tags": [
       "dubstep",
       "hyperdub"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8b096c20-d500-401d-8448-ab5baf1a4201",
+    "artistMbid": "4ec9883f-f359-4b41-bcf9-4d92e97f2f20",
+    "releaseCount": 7,
+    "artistGenres": [
+      "dubstep",
+      "grime",
+      "uk garage"
     ]
   }
 }

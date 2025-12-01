@@ -1,7 +1,7 @@
 {
   "youtubeId": "3VCvSJo-yC0",
   "title": "Shoot It Out",
-  "lastFetched": "2025-11-26T10:59:17.093Z",
+  "lastFetched": "2025-11-30T21:13:45.609Z",
   "ai": {
     "title": "Shoot It Out",
     "artist": "10 Years"
@@ -31,6 +31,25 @@
       "rock",
       "hard rock",
       "rocking out"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "dbe6ed1e-8322-47e4-8399-5e08def81cd0",
+    "artistMbid": "b18bc9c4-6f22-4f1b-a918-e9c86a39fe7a",
+    "releaseCount": 11,
+    "genres": [
+      "alternative metal",
+      "hard rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "nu metal",
+      "post-grunge",
+      "rock"
     ]
   }
 }

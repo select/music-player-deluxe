@@ -1,7 +1,7 @@
 {
   "youtubeId": "d4UroCOGj2E",
   "title": "Manu Katché - Slowing The Tides",
-  "lastFetched": "2025-11-28T18:37:54.861Z",
+  "lastFetched": "2025-11-30T20:14:24.698Z",
   "ai": {
     "title": "Slowing The Tides",
     "artist": "Manu Katché"
@@ -18,6 +18,20 @@
       "jazz",
       "organ",
       "drums",
+      "jazz fusion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bf106072-a012-40f0-9465-c9425b1bd997",
+    "artistMbid": "2581fa6c-1a78-4c59-9f18-020ed8cb18be",
+    "releaseCount": 4,
+    "genres": [
+      "contemporary jazz",
+      "jazz"
+    ],
+    "artistGenres": [
+      "contemporary jazz",
+      "jazz",
       "jazz fusion"
     ]
   }

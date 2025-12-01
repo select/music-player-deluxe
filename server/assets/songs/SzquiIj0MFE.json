@@ -2,7 +2,7 @@
   "youtubeId": "SzquiIj0MFE",
   "title": "Cherubic Hymn",
   "artist": "Bruce Haack",
-  "lastFetched": "2025-11-23T19:31:59.911Z",
+  "lastFetched": "2025-11-30T22:05:14.729Z",
   "odesli": {
     "amazonMusic": "B09PMNWFRX",
     "amazonStore": "B09PMNWFRX",
@@ -33,6 +33,16 @@
       "77davez-all-tracks",
       "moog",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1cf869cf-bc54-4459-97df-d079aa5c9ea4",
+    "artistMbid": "f9b7f120-3c0d-4ada-bc14-95ad2550e9cf",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic",
+      "experimental",
+      "moogsploitation"
     ]
   }
 }

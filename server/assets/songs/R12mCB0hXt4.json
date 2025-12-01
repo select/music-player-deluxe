@@ -2,7 +2,7 @@
   "youtubeId": "R12mCB0hXt4",
   "title": "Der Pinguin",
   "artist": "Rockstah",
-  "lastFetched": "2025-11-30T17:45:16.400Z",
+  "lastFetched": "2025-11-30T19:39:58.810Z",
   "odesli": {
     "amazonMusic": "B0F53Z4YJC",
     "amazonStore": "B0F53Z4YJC",
@@ -26,5 +26,10 @@
       "deutschrap",
       "german"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f5177d14-b95a-4045-b191-6d9ca6567e49",
+    "artistMbid": "96b631b5-a315-4193-82e8-1fd59c4ba80c",
+    "releaseCount": 1
   }
 }

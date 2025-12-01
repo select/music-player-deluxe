@@ -2,7 +2,7 @@
   "youtubeId": "IHKaNCMh3Rc",
   "title": "Message From The Nile",
   "artist": "McCoy Tyner",
-  "lastFetched": "2025-11-19T15:34:56.434Z",
+  "lastFetched": "2025-11-30T22:52:48.227Z",
   "odesli": {
     "amazonMusic": "B000TE7HXA",
     "amazonStore": "B000TE7HXA",
@@ -28,6 +28,24 @@
       "jazz",
       "blue note",
       "bluenotejazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d7c160ce-a42b-496b-8bf1-9f164df668b5",
+    "artistMbid": "22fe7b6f-af38-458e-87bd-8971e7a2912e",
+    "releaseCount": 6,
+    "genres": [
+      "hard bop",
+      "instrumental jazz",
+      "jazz",
+      "post-bop"
+    ],
+    "artistGenres": [
+      "afro-cuban jazz",
+      "hard bop",
+      "jazz",
+      "modal jazz",
+      "modern creative"
     ]
   }
 }

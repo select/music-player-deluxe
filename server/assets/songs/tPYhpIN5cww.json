@@ -2,7 +2,7 @@
   "youtubeId": "tPYhpIN5cww",
   "title": "Love Split With Blood",
   "artist": "Dog Faced Hermans",
-  "lastFetched": "2025-11-23T15:07:43.721Z",
+  "lastFetched": "2025-11-30T22:27:08.266Z",
   "odesli": {
     "amazonMusic": "B09TTWQVYS",
     "amazonStore": "B09TTWQVYS",
@@ -31,6 +31,18 @@
       "no wave",
       "noise rock",
       "art punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6b575fb8-36fe-488d-a7c5-b39229f8c3c5",
+    "artistMbid": "11d3ce7e-4d8a-40b5-8025-bf0ca6462f12",
+    "releaseCount": 4,
+    "artistGenres": [
+      "anarcho-punk",
+      "art punk",
+      "experimental rock",
+      "noise rock",
+      "post-punk"
     ]
   }
 }

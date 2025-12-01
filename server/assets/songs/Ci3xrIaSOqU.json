@@ -1,7 +1,7 @@
 {
   "youtubeId": "Ci3xrIaSOqU",
   "title": "Goose Snow Cone",
-  "lastFetched": "2025-11-26T10:58:50.358Z",
+  "lastFetched": "2025-11-30T21:11:43.935Z",
   "ai": {
     "title": "Goose Snow Cone",
     "artist": "Aimee Mann"
@@ -33,6 +33,20 @@
       "folk",
       "singer-songwriter",
       "indie"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "af6a573a-4950-48fe-b754-6b688c96efb9",
+    "artistMbid": "db3c0a20-bf05-4b30-ac22-f294aea24172",
+    "releaseCount": 8,
+    "genres": [
+      "alternative rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

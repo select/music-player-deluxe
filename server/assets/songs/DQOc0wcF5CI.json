@@ -2,7 +2,7 @@
   "youtubeId": "DQOc0wcF5CI",
   "title": "Foot Wrong",
   "artist": "Moin",
-  "lastFetched": "2025-11-23T15:02:05.852Z",
+  "lastFetched": "2025-11-30T22:28:38.966Z",
   "odesli": {
     "amazonMusic": "B0BDR43BWY",
     "amazonStore": "B0BDR43BWY",
@@ -27,6 +27,14 @@
       "experimental",
       "post-punk",
       "psych"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "eaf19621-8f3f-42c5-9879-b8235641bbb6",
+    "artistMbid": "363e12b1-7e51-4140-91b2-688dec8bee47",
+    "releaseCount": 3,
+    "artistGenres": [
+      "experimental rock"
     ]
   }
 }

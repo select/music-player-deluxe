@@ -2,7 +2,7 @@
   "youtubeId": "siRz-pvN4WE",
   "title": "Don't Stay For Breakfast",
   "artist": "Ströer",
-  "lastFetched": "2025-11-23T13:57:52.274Z",
+  "lastFetched": "2025-11-30T22:50:49.452Z",
   "lastfm": {
     "title": "Don't Stay For Breakfast",
     "artist": "Ströer",
@@ -12,6 +12,14 @@
     "playcount": 7730,
     "tags": [
       "disco"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6841b59e-96db-4e2c-b101-299cb74c6487",
+    "artistMbid": "7d19c780-91fa-47f5-b5a5-e1b469b7408d",
+    "releaseCount": 1,
+    "artistGenres": [
+      "jazz"
     ]
   }
 }

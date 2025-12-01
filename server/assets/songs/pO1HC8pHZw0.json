@@ -2,7 +2,7 @@
   "youtubeId": "pO1HC8pHZw0",
   "title": "Two Tribes",
   "artist": "Frankie Goes To Hollywood",
-  "lastFetched": "2025-11-23T19:35:33.213Z",
+  "lastFetched": "2025-11-30T21:46:55.356Z",
   "odesli": {
     "amazonMusic": "B07CB9TH4J",
     "amazonStore": "B07CB9TH4J",
@@ -31,6 +31,21 @@
       "pop",
       "new wave",
       "1984"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "32cc9a4c-c3a0-4400-b573-38e79d1060f2",
+    "artistMbid": "c09c8263-40ef-4352-8031-e438b1ce68fc",
+    "releaseCount": 3,
+    "artistGenres": [
+      "club",
+      "dance",
+      "dance-pop",
+      "dance-rock",
+      "hi-nrg",
+      "new wave",
+      "pop",
+      "pop rock"
     ]
   }
 }

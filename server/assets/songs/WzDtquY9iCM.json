@@ -2,7 +2,7 @@
   "youtubeId": "WzDtquY9iCM",
   "title": "Don't Bug Me",
   "artist": "Dyke & The Blazers",
-  "lastFetched": "2025-11-23T19:32:21.480Z",
+  "lastFetched": "2025-11-30T22:03:33.988Z",
   "odesli": {
     "amazonMusic": "B00NYICLDY",
     "amazonStore": "B00NYICLDY",
@@ -26,5 +26,10 @@
       "funk",
       "soul"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "12440c8b-9870-498a-9ba1-3efbadaac501",
+    "artistMbid": "2956178f-8247-422e-b693-a04753a67e27",
+    "releaseCount": 1
   }
 }

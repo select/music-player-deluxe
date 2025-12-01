@@ -2,7 +2,7 @@
   "youtubeId": "GNPKmXMephs",
   "title": "Sleepwalking",
   "artist": "NINA",
-  "lastFetched": "2025-11-29T13:49:03.222Z",
+  "lastFetched": "2025-11-30T19:57:20.789Z",
   "odesli": {
     "amazonMusic": "B07B7PHCJ6",
     "amazonStore": "B07B7PHCJ6",
@@ -24,6 +24,15 @@
     "tags": [
       "synthwave",
       "popwave"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d351f528-259d-49a4-a6d0-0496cb16f007",
+    "artistMbid": "06efc032-646d-4192-b537-11cb24f921fc",
+    "releaseCount": 4,
+    "artistGenres": [
+      "synth-pop",
+      "synthwave"
     ]
   }
 }

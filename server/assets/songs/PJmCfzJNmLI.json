@@ -2,7 +2,7 @@
   "youtubeId": "PJmCfzJNmLI",
   "title": "Lip Service",
   "artist": "Lorene Drive",
-  "lastFetched": "2025-11-19T08:09:01.351Z",
+  "lastFetched": "2025-11-30T23:27:17.701Z",
   "odesli": {
     "amazonMusic": "B001EDESKK",
     "amazonStore": "B001EDESKK",
@@ -27,6 +27,19 @@
       "post-hardcore",
       "emo",
       "pop rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f1739941-8965-413c-a819-ff73473ac39a",
+    "artistMbid": "6c95bdc4-03be-4659-a304-f9420fdd34bb",
+    "releaseCount": 1,
+    "genres": [
+      "emo",
+      "pop punk",
+      "post-hardcore",
+      "punk",
+      "rock",
+      "screamo"
     ]
   }
 }

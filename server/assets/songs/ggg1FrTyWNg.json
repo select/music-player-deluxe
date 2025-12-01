@@ -2,7 +2,7 @@
   "youtubeId": "ggg1FrTyWNg",
   "title": "La bataille de neige",
   "artist": "Domenique Dumont",
-  "lastFetched": "2025-11-27T12:04:35.297Z",
+  "lastFetched": "2025-11-30T20:54:38.627Z",
   "odesli": {
     "amazonMusic": "B00YSE6JHM",
     "amazonStore": "B00YSE6JHM",
@@ -23,6 +23,17 @@
     "artistMbid": "79730a7b-c426-4f51-bc4a-bc0b2e1c2f8f",
     "tags": [
       "wow"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1e40140c-b1f2-4f76-827c-f78c008370be",
+    "artistMbid": "79730a7b-c426-4f51-bc4a-bc0b2e1c2f8f",
+    "releaseCount": 1,
+    "genres": [
+      "dub",
+      "electronic",
+      "pop",
+      "synth-pop"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "Q_iW4AgFxsI",
   "title": "Major Tom (Völlig losgelöst)",
   "artist": "Peter Schilling",
-  "lastFetched": "2025-11-23T14:25:25.499Z",
+  "lastFetched": "2025-11-30T22:40:35.948Z",
   "lastfm": {
     "title": "Major Tom (Völlig losgelöst)",
     "artist": "Peter Schilling",
@@ -18,6 +18,28 @@
       "ndw",
       "deutsch",
       "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "318e146e-60f9-4298-8d4a-78b2657f668f",
+    "artistMbid": "bc6be178-3933-44ad-88a7-fde1a160bc29",
+    "releaseCount": 25,
+    "genres": [
+      "electronic",
+      "neue deutsche welle",
+      "new wave",
+      "pop",
+      "pop rock",
+      "post-punk",
+      "rock",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "happy hardcore",
+      "neue deutsche welle",
+      "new wave",
+      "pop",
+      "synth-pop"
     ]
   }
 }

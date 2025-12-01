@@ -1,7 +1,7 @@
 {
   "youtubeId": "e8OHEv8v3Oc",
   "title": "Tocotronic - Meine Freundin und ihr Freund",
-  "lastFetched": "2025-11-26T11:02:37.639Z",
+  "lastFetched": "2025-11-30T21:39:01.972Z",
   "ai": {
     "title": "Meine Freundin und ihr Freund",
     "artist": "Tocotronic"
@@ -19,6 +19,17 @@
       "punk",
       "indie",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "68e423f3-1d95-492c-9b3a-43195f3f3897",
+    "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19",
+    "releaseCount": 7,
+    "artistGenres": [
+      "alternative rock",
+      "hamburger schule",
+      "indie rock",
+      "rock"
     ]
   }
 }

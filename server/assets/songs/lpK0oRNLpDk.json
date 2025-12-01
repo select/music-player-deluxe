@@ -2,7 +2,7 @@
   "youtubeId": "lpK0oRNLpDk",
   "title": "Revenge Of The Bitch",
   "artist": "Zora Jones",
-  "lastFetched": "2025-11-23T19:30:56.116Z",
+  "lastFetched": "2025-11-30T22:08:43.261Z",
   "odesli": {
     "amazonMusic": "B08FCRPQ6Y",
     "amazonStore": "B08FCRPQ6Y",
@@ -24,6 +24,14 @@
       "experimental",
       "electronic",
       "abstract"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7898a15b-a268-485c-a01e-0173b1917da7",
+    "artistMbid": "381c94db-6354-4f08-af2a-774bff5fed56",
+    "releaseCount": 1,
+    "genres": [
+      "footwork"
     ]
   }
 }

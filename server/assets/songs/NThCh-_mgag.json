@@ -1,7 +1,7 @@
 {
   "youtubeId": "NThCh-_mgag",
   "title": "Rapture",
-  "lastFetched": "2025-11-26T10:59:18.319Z",
+  "lastFetched": "2025-11-30T21:13:56.214Z",
   "ai": {
     "title": "Hurt - Rapture",
     "artist": "Hurt"
@@ -30,6 +30,24 @@
       "rock",
       "alternative rock",
       "metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1455f206-f503-407d-8613-f2c92b2f9dcb",
+    "artistMbid": "96cb9364-e045-47ae-af66-298ce0dc6895",
+    "releaseCount": 6,
+    "genres": [
+      "alternative metal",
+      "alternative rock",
+      "emo",
+      "grunge",
+      "nu metal",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "post-hardcore"
     ]
   }
 }

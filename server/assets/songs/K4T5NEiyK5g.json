@@ -2,7 +2,7 @@
   "youtubeId": "K4T5NEiyK5g",
   "title": "Kaufmann und Maid",
   "artist": "Saltatio Mortis",
-  "lastFetched": "2025-11-23T15:48:30.388Z",
+  "lastFetched": "2025-11-30T22:16:20.201Z",
   "odesli": {
     "amazonMusic": "B08N5DZX1G",
     "amazonStore": "B08N5DZX1G",
@@ -25,6 +25,16 @@
       "german",
       "mittelalter",
       "folk rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "67961ad3-c5e6-4353-b011-a0d0838cde1d",
+    "artistMbid": "d3201290-2791-4b2c-9d79-62eb6240e742",
+    "releaseCount": 2,
+    "artistGenres": [
+      "folk metal",
+      "medieval",
+      "medieval metal"
     ]
   }
 }

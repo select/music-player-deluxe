@@ -2,7 +2,7 @@
   "youtubeId": "uznTHSEgx4U",
   "title": "Got 'Til It's Gone",
   "artist": "Janet Jackson",
-  "lastFetched": "2025-11-23T19:30:32.564Z",
+  "lastFetched": "2025-11-30T22:10:38.925Z",
   "odesli": {
     "amazonMusic": "B0BGY1S91N",
     "amazonStore": "B0BGY1S91N",
@@ -30,6 +30,19 @@
       "pop",
       "90s",
       "janet jackson"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "83729c22-e84a-4934-884f-9d7a08a50114",
+    "artistMbid": "6be2828f-6c0d-4059-99d4-fa18acf1a296",
+    "releaseCount": 1,
+    "artistGenres": [
+      "contemporary r&b",
+      "dance",
+      "pop",
+      "quiet storm",
+      "r&b",
+      "soul"
     ]
   }
 }

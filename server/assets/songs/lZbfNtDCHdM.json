@@ -2,7 +2,7 @@
   "youtubeId": "lZbfNtDCHdM",
   "title": "Música da Lagoa",
   "artist": "Hermeto Pascoal",
-  "lastFetched": "2025-11-23T19:30:21.913Z",
+  "lastFetched": "2025-11-30T22:11:12.717Z",
   "lastfm": {
     "id": "Hermeto+Pascoal/_/m%C3%BAsica+da+lagoa",
     "listeners": 15930,
@@ -14,6 +14,16 @@
       "experimental",
       "brazilian",
       "fusion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "04a50333-d42e-4be9-a1e0-fbbd44d16c38",
+    "artistMbid": "c7a4c4a0-9544-44e3-87f2-5779d18b753f",
+    "releaseCount": 1,
+    "artistGenres": [
+      "avant-garde jazz",
+      "jazz",
+      "jazz fusion"
     ]
   }
 }

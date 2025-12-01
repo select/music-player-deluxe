@@ -2,7 +2,7 @@
   "youtubeId": "XRvpGGc9Jv8",
   "title": "I Don't Give A Fuck",
   "artist": "Boss",
-  "lastFetched": "2025-11-23T15:37:16.589Z",
+  "lastFetched": "2025-11-30T22:19:56.213Z",
   "odesli": {
     "amazonMusic": "B006VRK1UK",
     "amazonStore": "B006VRK1UK",
@@ -22,6 +22,15 @@
     "playcount": 56086,
     "tags": [
       "melhores 1993"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e3533545-be25-406e-8c54-10b87fd15883",
+    "artistMbid": "47429cf9-ad53-4512-9eef-8a32d5e74e99",
+    "releaseCount": 2,
+    "artistGenres": [
+      "gangsta rap",
+      "hip hop"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "uqUa_G1h3pw",
   "title": "Red Rider - Lunatic Fringe",
-  "lastFetched": "2025-11-27T12:00:38.773Z",
+  "lastFetched": "2025-11-30T20:25:36.644Z",
   "ai": {
     "title": "Lunatic Fringe",
     "artist": "Red Rider"
@@ -18,6 +18,27 @@
       "rock",
       "80s",
       "canadian"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6b714d57-7c51-4ed6-a0f9-db5cd9fa9712",
+    "artistMbid": "a22d8a5d-1ca1-43cf-85a6-07f64a18273d",
+    "releaseCount": 25,
+    "genres": [
+      "aor",
+      "classic rock",
+      "heartland rock",
+      "musical",
+      "new wave",
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "aor",
+      "new wave",
+      "pop rock",
+      "rock"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "FWRCJhsz5t4",
   "title": "Laisse tomber les filles",
   "artist": "France Gall",
-  "lastFetched": "2025-11-30T17:44:32.035Z",
+  "lastFetched": "2025-11-30T19:32:52.168Z",
   "odesli": {
     "boomplay": "73881968",
     "soundcloud": "france-gall-official/laisse-tomber-les-filles-4",
@@ -23,6 +23,20 @@
       "french pop",
       "female vocalists",
       "ye-ye"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "87d4798e-93c6-4a10-b2cd-0ffc0581dcd1",
+    "artistMbid": "385966f0-b912-4755-bad6-4780ebf3f4cd",
+    "releaseCount": 25,
+    "genres": [
+      "chanson française",
+      "pop"
+    ],
+    "artistGenres": [
+      "chanson française",
+      "pop",
+      "yé-yé"
     ]
   }
 }

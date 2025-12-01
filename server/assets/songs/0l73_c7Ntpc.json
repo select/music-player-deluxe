@@ -2,7 +2,7 @@
   "youtubeId": "0l73_c7Ntpc",
   "title": "Future Perfect",
   "artist": "The Durutti Column",
-  "lastFetched": "2025-11-23T15:21:59.085Z",
+  "lastFetched": "2025-11-30T22:23:51.099Z",
   "odesli": {
     "soundcloud": "the-durutti-column/future-perfect",
     "spotify": "0RlpgTdnxatoTRBvG34zaB",
@@ -23,6 +23,20 @@
       "electro",
       "poignant",
       "obscure yet streamable tracks"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "dfa573fa-777a-4a96-b829-fbe66a558cb0",
+    "artistMbid": "aaddb5e3-f8a5-4a9d-8674-f885112ecf0e",
+    "releaseCount": 3,
+    "artistGenres": [
+      "ambient",
+      "art rock",
+      "dream pop",
+      "neoclassicism",
+      "new age",
+      "post-punk",
+      "post-rock"
     ]
   }
 }

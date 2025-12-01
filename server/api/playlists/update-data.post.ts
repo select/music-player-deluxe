@@ -8,17 +8,6 @@ import type {
 	TagBlacklistData,
 } from "~/types";
 
-interface AIAugmentedData {
-	title: string;
-	channel: string;
-	ai?: {
-		artist: string;
-		track: string;
-		tags?: string[];
-		tagsConfidence?: number;
-	};
-}
-
 interface UpdateDataRequest {
 	playlistId: string;
 }
@@ -28,6 +17,10 @@ interface UpdateDataResponse {
 	message: string;
 	updatedVideos: number;
 	totalVideos: number;
+}
+
+interface TagNormalizationData {
+	mappings: Record<string, string>;
 }
 
 export default defineEventHandler(async (event) => {
@@ -57,6 +50,12 @@ export default defineEventHandler(async (event) => {
 			"assets",
 			"tag-blacklist.json",
 		);
+		const normalizationPath = join(
+			process.cwd(),
+			"server",
+			"assets",
+			"tag-normalization.json",
+		);
 		const playlistFilePath = join(playlistsDir, `${playlistId}.json`);
 
 		// Load tag blacklist
@@ -67,6 +66,20 @@ export default defineEventHandler(async (event) => {
 			blacklistedTags = blacklistData.blacklistedTags || [];
 		} catch (error) {
 			console.warn("Failed to read tag blacklist:", error);
+		}
+
+		// Load tag normalization mappings
+		let tagNormalizationMap: Record<string, string> = {};
+		try {
+			const normalizationContent = await fs.readFile(
+				normalizationPath,
+				"utf-8",
+			);
+			const normalizationData: TagNormalizationData =
+				JSON.parse(normalizationContent);
+			tagNormalizationMap = normalizationData.mappings || {};
+		} catch (error) {
+			console.warn("Failed to read tag normalization mappings:", error);
 		}
 
 		// Read the playlist file
@@ -147,30 +160,21 @@ export default defineEventHandler(async (event) => {
 
 				// Add musicbrainz artistGenres
 				if (
+					(!songData.musicbrainz?.genres ||
+						songData.musicbrainz?.genres.length <= 0) &&
 					songData.musicbrainz?.artistGenres &&
 					songData.musicbrainz?.artistGenres.length > 0
 				) {
 					fusedTags.push(...songData.musicbrainz.artistGenres);
 				}
 
-				// Add musicbrainz tags
-				if (
-					songData.musicbrainz?.tags &&
-					songData.musicbrainz.tags.length > 0
-				) {
-					fusedTags.push(...songData.musicbrainz.tags);
-				}
-
-				// Add artist tags
-				if (
-					songData.musicbrainz?.artistTags &&
-					songData.musicbrainz.artistTags.length > 0
-				) {
-					fusedTags.push(...songData.musicbrainz.artistTags);
-				}
-
-				// Remove duplicates and filter out blacklisted tags
-				const uniqueTags = Array.from(new Set(fusedTags)).filter(
+				// Normalize tags, remove duplicates, and filter out blacklisted tags
+				const normalizedTags = fusedTags.map((tag) => {
+					const lowercaseTag = tag.toLowerCase().trim();
+					// Check if there's a normalization mapping for this tag
+					return tagNormalizationMap[lowercaseTag] || tag;
+				});
+				const uniqueTags = Array.from(new Set(normalizedTags)).filter(
 					(tag) => !blacklistedTags.includes(tag.toLowerCase().trim()),
 				);
 
@@ -199,17 +203,12 @@ export default defineEventHandler(async (event) => {
 					playcount: songData.lastfm?.playcount,
 					lastfmSummary: songData.lastfm?.summary,
 				};
-				if (songData.mbid) {
+				if (songData.musicbrainz?.trackMbid) {
 					if (!updatedVideo.externalIds) {
 						updatedVideo.externalIds = {};
 					}
-					updatedVideo.externalIds["musicbrainz"] = songData.mbid;
-				}
-				if (songData.trackMbid) {
-					if (!updatedVideo.externalIds) {
-						updatedVideo.externalIds = {};
-					}
-					updatedVideo.externalIds["musicbrainz-track"] = songData.trackMbid;
+					updatedVideo.externalIds["musicbrainz"] =
+						songData.musicbrainz.trackMbid;
 				}
 				if (songData.lastfm?.mbid) {
 					if (!updatedVideo.externalIds) {
@@ -224,11 +223,12 @@ export default defineEventHandler(async (event) => {
 					updatedVideo.externalIds["musicbrainz-artist"] =
 						songData.lastfm.artistMbid;
 				}
-				if (songData.artistMbid) {
+				if (songData.musicbrainz?.artistMbid) {
 					if (!updatedVideo.externalIds) {
 						updatedVideo.externalIds = {};
 					}
-					updatedVideo.externalIds["musicbrainz-artist"] = songData.artistMbid;
+					updatedVideo.externalIds["musicbrainz-artist"] =
+						songData.musicbrainz?.artistMbid;
 				}
 				if (songData.lastfm?.id) {
 					if (!updatedVideo.externalIds) {

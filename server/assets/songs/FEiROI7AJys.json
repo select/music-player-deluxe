@@ -1,7 +1,7 @@
 {
   "youtubeId": "FEiROI7AJys",
   "title": "Euzen - Metamorph - 07 Metamorph",
-  "lastFetched": "2025-11-29T12:39:24.042Z",
+  "lastFetched": "2025-11-30T19:55:09.015Z",
   "ai": {
     "title": "Metamorph",
     "artist": "Euzen"
@@ -20,6 +20,21 @@
       "2015",
       "best of 2015",
       "folk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0915eba7-0bdf-4c8c-97cf-d34f1cbfde8f",
+    "artistMbid": "3e7334f1-bc25-433c-97c1-52a75250d97b",
+    "releaseCount": 2,
+    "genres": [
+      "electronic",
+      "folk"
+    ],
+    "artistGenres": [
+      "electronic",
+      "folk",
+      "progressive rock",
+      "trip hop"
     ]
   }
 }

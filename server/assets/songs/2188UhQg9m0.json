@@ -2,7 +2,7 @@
   "youtubeId": "2188UhQg9m0",
   "title": "Hasty Train",
   "artist": "OLUMA",
-  "lastFetched": "2025-11-23T14:18:48.594Z",
+  "lastFetched": "2025-11-30T22:42:08.254Z",
   "lastfm": {
     "title": "Hasty Train",
     "artist": "Oluma",
@@ -15,5 +15,10 @@
       "afrobeat",
       "funk_add_to_lidarr_batch_20"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f2c34658-0f9e-4d8a-8208-1eaa1735c23f",
+    "artistMbid": "26184476-0880-44c0-bf5a-8c80dd8d47e2",
+    "releaseCount": 1
   }
 }

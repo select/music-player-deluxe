@@ -2,7 +2,7 @@
   "youtubeId": "w7D-OQHIfqU",
   "title": "Hard to Handle",
   "artist": "Otis Redding",
-  "lastFetched": "2025-11-19T03:47:24.510Z",
+  "lastFetched": "2025-11-30T23:41:50.414Z",
   "odesli": {
     "amazonMusic": "B07VZW4YS3",
     "amazonStore": "B07VZW4YS3",
@@ -32,6 +32,20 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751"
+    "artistMbid": "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
+    "trackMbid": "05f83e3d-473a-43a2-bbb1-827d60ff8e86",
+    "releaseCount": 5,
+    "genres": [
+      "soul"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "deep soul",
+      "psychedelic rock",
+      "r&b",
+      "soul",
+      "southern soul"
+    ]
   }
 }

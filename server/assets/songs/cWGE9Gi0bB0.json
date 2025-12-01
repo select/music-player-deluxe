@@ -2,7 +2,7 @@
   "youtubeId": "cWGE9Gi0bB0",
   "title": "Shine On You Crazy Diamond (Pts. 1-5)",
   "artist": "Pink Floyd",
-  "lastFetched": "2025-11-24T00:22:49.535Z",
+  "lastFetched": "2025-11-30T21:36:55.907Z",
   "odesli": {
     "amazonMusic": "B019HKJTTQ",
     "amazonStore": "B019HKJTTQ",
@@ -31,5 +31,25 @@
     ],
     "title": "Shine On You Crazy Diamond (Pts. 1-5)",
     "artist": "Pink Floyd"
+  },
+  "musicbrainz": {
+    "trackMbid": "11b0366c-625d-4ca5-9a83-dcc36081ddc1",
+    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
+    "releaseCount": 1,
+    "artistGenres": [
+      "acid rock",
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "experimental rock",
+      "progressive",
+      "progressive rock",
+      "psychedelic",
+      "psychedelic pop",
+      "psychedelic rock",
+      "rock",
+      "rock opera",
+      "space rock"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "cWaPA9EJpZA",
   "title": "Lebenslauf",
   "artist": "Grossstadtgeflüster",
-  "lastFetched": "2025-11-19T11:10:28.833Z",
+  "lastFetched": "2025-11-30T23:15:55.078Z",
   "lastfm": {
     "id": "Grossstadtgefl%C3%BCster/_/Lebenslauf",
     "listeners": 4408,
@@ -16,6 +16,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f"
+    "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f",
+    "trackMbid": "1e6025a3-362a-41e9-bc80-34758ce6c583",
+    "releaseCount": 1
   }
 }

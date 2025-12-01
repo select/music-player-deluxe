@@ -2,7 +2,7 @@
   "youtubeId": "RQy4WbUf84Y",
   "title": "White Lines",
   "artist": "Grandmaster Flash",
-  "lastFetched": "2025-11-23T14:36:05.613Z",
+  "lastFetched": "2025-11-30T22:37:29.453Z",
   "lastfm": {
     "title": "White Lines",
     "artist": "Grandmaster Flash",
@@ -17,6 +17,14 @@
       "80s",
       "old school",
       "rap"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "108e29f0-088a-4a49-9fc3-df6db347a0fb",
+    "artistMbid": "7db590cd-d7e6-4b36-b4e7-e8209426b02d",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

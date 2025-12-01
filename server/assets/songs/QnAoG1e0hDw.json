@@ -1,7 +1,7 @@
 {
   "youtubeId": "QnAoG1e0hDw",
   "title": "ג'ירפות - רמי מואשם באחזקת סמים קלים",
-  "lastFetched": "2025-11-26T10:56:20.645Z",
+  "lastFetched": "2025-11-30T20:48:35.244Z",
   "ai": {
     "title": "רמי מואשם באחזקת סמים קלים",
     "artist": "ג'ירפות"
@@ -20,5 +20,10 @@
       "weed",
       "im so stoned"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bf70cbd1-3f16-4d08-b2a5-5f225665cd84",
+    "artistMbid": "8ae967b0-34de-43c8-bae1-8d0773b80970",
+    "releaseCount": 1
   }
 }

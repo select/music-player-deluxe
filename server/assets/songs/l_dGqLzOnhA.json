@@ -2,10 +2,15 @@
   "youtubeId": "l_dGqLzOnhA",
   "title": "I Am the Antichrist to You",
   "artist": "Nu Deco Ensemble & Kishi Bashi",
-  "lastFetched": "2025-11-19T09:47:29.882Z",
+  "lastFetched": "2025-11-30T23:21:43.439Z",
   "lastfm": {
     "id": "Nu+Deco+Ensemble+&+Kishi+Bashi/_/I+Am+the+Antichrist+to+You",
     "listeners": 301,
     "playcount": 1298
+  },
+  "musicbrainz": {
+    "trackMbid": "b26974f7-37ce-4968-a6a1-fd73802b6f84",
+    "artistMbid": "6a81df70-f46b-4815-b7e5-dd53faf7580d",
+    "releaseCount": 1
   }
 }

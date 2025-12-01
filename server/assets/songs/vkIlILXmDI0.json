@@ -2,7 +2,7 @@
   "youtubeId": "vkIlILXmDI0",
   "title": "Es ist Weihnachtstag",
   "artist": "Reinhard Mey",
-  "lastFetched": "2025-11-28T12:14:07.958Z",
+  "lastFetched": "2025-11-30T20:35:03.248Z",
   "odesli": {
     "amazonMusic": "B002O25ZLQ",
     "amazonStore": "B002O25ZLQ",
@@ -26,6 +26,20 @@
       "seasonal",
       "christmas",
       "reinhard mey"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "98f15165-39bb-421a-8f30-d2a7922bc6bb",
+    "artistMbid": "3531715d-fee3-4c5b-82ff-5d85865b598b",
+    "releaseCount": 6,
+    "genres": [
+      "ballad",
+      "chanson française",
+      "pop"
+    ],
+    "artistGenres": [
+      "liedermacher",
+      "singer-songwriter"
     ]
   }
 }

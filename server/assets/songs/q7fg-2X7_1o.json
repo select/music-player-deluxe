@@ -1,7 +1,7 @@
 {
   "youtubeId": "q7fg-2X7_1o",
   "title": "Skream - Chest Boxing",
-  "lastFetched": "2025-11-26T10:56:47.066Z",
+  "lastFetched": "2025-11-30T20:52:16.676Z",
   "ai": {
     "title": "Chest Boxing",
     "artist": "Skream"
@@ -16,6 +16,24 @@
     "artistMbid": "fb5ee67e-e31a-40cf-8b06-5f1a0f53529a",
     "tags": [
       "dubstep"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6eb43b50-b0e0-4d6d-afde-17b2df356b9e",
+    "artistMbid": "fb5ee67e-e31a-40cf-8b06-5f1a0f53529a",
+    "releaseCount": 3,
+    "genres": [
+      "dubstep",
+      "electronic"
+    ],
+    "artistGenres": [
+      "2-step",
+      "drum and bass",
+      "dubstep",
+      "electronic",
+      "electronica",
+      "grime",
+      "uk garage"
     ]
   }
 }

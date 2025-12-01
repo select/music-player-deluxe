@@ -2,7 +2,7 @@
   "youtubeId": "Qy1tVvJPgSg",
   "title": "Sunrise in Texas",
   "artist": "Blackberry Smoke",
-  "lastFetched": "2025-11-26T10:59:47.407Z",
+  "lastFetched": "2025-11-30T21:16:36.078Z",
   "odesli": {
     "amazonMusic": "B01JN4UZ62",
     "amazonStore": "B01JN4UZ62",
@@ -29,6 +29,20 @@
       "rock",
       "country rock",
       "albums"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "241a578b-c07b-4e13-b852-00f75592cbbb",
+    "artistMbid": "1576a26e-f77d-47ac-87f2-4f610c141ac6",
+    "releaseCount": 4,
+    "genres": [
+      "country rock",
+      "rock",
+      "southern rock"
+    ],
+    "artistGenres": [
+      "rock",
+      "southern rock"
     ]
   }
 }

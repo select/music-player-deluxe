@@ -2,7 +2,7 @@
   "youtubeId": "Dwbe13hTvEw",
   "title": "Brain",
   "artist": "Jungle Brothers",
-  "lastFetched": "2025-11-24T00:22:58.780Z",
+  "lastFetched": "2025-11-30T21:35:05.176Z",
   "odesli": {
     "pandora": "TR:8417247",
     "soundcloud": "dcgbrothers/jungle-life",
@@ -22,6 +22,20 @@
       "hip hop",
       "hip-hop",
       "old school"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "61e065dd-bdca-4e36-b505-682776cc279c",
+    "artistMbid": "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+    "releaseCount": 4,
+    "genres": [
+      "conscious hip hop",
+      "hip hop",
+      "underground hip hop"
+    ],
+    "artistGenres": [
+      "east coast hip hop",
+      "hip hop"
     ]
   }
 }

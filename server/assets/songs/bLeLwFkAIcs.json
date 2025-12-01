@@ -2,7 +2,7 @@
   "youtubeId": "bLeLwFkAIcs",
   "title": "Sam Handwich",
   "artist": "Aquarian",
-  "lastFetched": "2025-11-19T09:59:11.266Z",
+  "lastFetched": "2025-11-30T23:21:26.302Z",
   "odesli": {
     "amazonMusic": "B09RVKQ3FM",
     "amazonStore": "B09RVKQ3FM",
@@ -31,6 +31,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "46aba787-c9f1-4909-8e12-f91f80a79360"
+    "artistMbid": "46aba787-c9f1-4909-8e12-f91f80a79360",
+    "trackMbid": "9ae40aad-e578-4894-bbea-165709f4c2c2",
+    "releaseCount": 1
   }
 }

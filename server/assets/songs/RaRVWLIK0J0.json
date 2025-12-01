@@ -2,7 +2,7 @@
   "youtubeId": "RaRVWLIK0J0",
   "title": "Du schreibst Geschichte",
   "artist": "Madsen",
-  "lastFetched": "2025-11-27T12:05:19.018Z",
+  "lastFetched": "2025-11-30T21:02:09.983Z",
   "odesli": {
     "amazonMusic": "B073MGW6YY",
     "amazonStore": "B073MGW6YY",
@@ -27,6 +27,19 @@
       "deutsch",
       "indie",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cb59b2ee-cfef-4363-a13d-0f1fee837b9e",
+    "artistMbid": "8a0c3b86-af55-42d2-85b9-6372e7430986",
+    "releaseCount": 9,
+    "genres": [
+      "alternative rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "indie rock"
     ]
   }
 }

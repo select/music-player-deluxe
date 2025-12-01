@@ -2,7 +2,7 @@
   "youtubeId": "WEdPf2dFyaQ",
   "title": "The Stage",
   "artist": "Euzen",
-  "lastFetched": "2025-11-29T13:48:43.766Z",
+  "lastFetched": "2025-11-30T19:54:56.849Z",
   "odesli": {
     "amazonMusic": "B08KPMF99Z",
     "amazonStore": "B08KPMF99Z",
@@ -26,6 +26,21 @@
       "2015",
       "best of 2015",
       "folk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6a7d09d0-1063-489e-9d69-313b27184715",
+    "artistMbid": "3e7334f1-bc25-433c-97c1-52a75250d97b",
+    "releaseCount": 2,
+    "genres": [
+      "electronic",
+      "folk"
+    ],
+    "artistGenres": [
+      "electronic",
+      "folk",
+      "progressive rock",
+      "trip hop"
     ]
   }
 }

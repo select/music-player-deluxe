@@ -2,7 +2,7 @@
   "youtubeId": "OMAY0SfyXVM",
   "title": "Back To Me",
   "artist": "Document One",
-  "lastFetched": "2025-11-19T05:57:33.197Z",
+  "lastFetched": "2025-11-30T23:38:13.446Z",
   "odesli": {
     "amazonMusic": "B09QH5HZJ8",
     "amazonStore": "B09QH5HZJ8",
@@ -28,6 +28,15 @@
       "electronic",
       "filthstep",
       "drum and bass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "51bf4d97-d35d-41da-9841-c5a495dff908",
+    "artistMbid": "2cd77751-5537-43ba-bffb-eea0b619f0ca",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass",
+      "electronic"
     ]
   }
 }

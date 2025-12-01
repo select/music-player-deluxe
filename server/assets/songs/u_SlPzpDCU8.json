@@ -2,7 +2,7 @@
   "youtubeId": "u_SlPzpDCU8",
   "title": "Sun Touch",
   "artist": "Herbie Hancock",
-  "lastFetched": "2025-11-23T19:33:21.120Z",
+  "lastFetched": "2025-11-30T21:58:46.406Z",
   "odesli": {
     "amazonMusic": "B00138B48A",
     "amazonStore": "B00138B48A",
@@ -22,6 +22,29 @@
       "jazz fusion",
       "funk",
       "piano"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b2b374a8-87a0-439c-9b2f-d492935064df",
+    "artistMbid": "27613b78-1b9d-4ec3-9db5-fa0743465fdd",
+    "releaseCount": 9,
+    "genres": [
+      "funk",
+      "jazz",
+      "jazz-funk",
+      "post-bop"
+    ],
+    "artistGenres": [
+      "classical",
+      "electro",
+      "funk",
+      "hard bop",
+      "jazz",
+      "jazz fusion",
+      "jazz-funk",
+      "modal jazz",
+      "post-bop",
+      "soul jazz"
     ]
   }
 }

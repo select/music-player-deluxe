@@ -2,7 +2,7 @@
   "youtubeId": "A3adFWKE9JE",
   "title": "Grace",
   "artist": "Jeff Buckley",
-  "lastFetched": "2025-11-24T00:22:04.006Z",
+  "lastFetched": "2025-11-30T21:44:08.048Z",
   "odesli": {
     "amazonMusic": "B01689A0VA",
     "amazonStore": "B01689A0VA",
@@ -31,5 +31,27 @@
     "title": "Grace",
     "artist": "Jeff Buckley",
     "artistMbid": "e6e879c0-3d56-4f12-b3c5-3ce459661a8e"
+  },
+  "musicbrainz": {
+    "trackMbid": "74e41728-0965-4810-bf1a-d71f41e32ab0",
+    "artistMbid": "e6e879c0-3d56-4f12-b3c5-3ce459661a8e",
+    "releaseCount": 5,
+    "genres": [
+      "alternative rock",
+      "classic rock",
+      "folk rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "singer-songwriter",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "folk rock",
+      "rock",
+      "singer-songwriter",
+      "soul"
+    ]
   }
 }

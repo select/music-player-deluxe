@@ -2,7 +2,7 @@
   "youtubeId": "RD8QLNiolfk",
   "title": "Racing With the Sun",
   "artist": "Chinese Man",
-  "lastFetched": "2025-11-26T11:00:21.094Z",
+  "lastFetched": "2025-11-30T21:19:36.276Z",
   "odesli": {
     "amazonMusic": "B004QNYE22",
     "amazonStore": "B004QNYE22",
@@ -30,6 +30,14 @@
       "dub",
       "downtempo",
       "ccut"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8cc38859-e2e4-4cf9-868c-d4144317cfab",
+    "artistMbid": "0837d2bc-ceb6-4512-9490-b30f5c0390fa",
+    "releaseCount": 2,
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

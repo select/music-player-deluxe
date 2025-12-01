@@ -1,7 +1,7 @@
 {
   "youtubeId": "hCZnXg0vNs0",
   "title": "Talk Talk - THE RAINBOW - 1988",
-  "lastFetched": "2025-11-26T11:02:35.102Z",
+  "lastFetched": "2025-11-30T21:37:30.494Z",
   "ai": {
     "title": "The Rainbow",
     "artist": "Talk Talk"
@@ -20,6 +20,25 @@
       "80s",
       "new wave",
       "ambient"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "66ff31a9-5f00-4183-80f7-e105fabeb906",
+    "artistMbid": "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03",
+    "releaseCount": 8,
+    "genres": [
+      "art rock",
+      "post-rock"
+    ],
+    "artistGenres": [
+      "art pop",
+      "art rock",
+      "chamber pop",
+      "modern classical",
+      "new romantic",
+      "new wave",
+      "post-rock",
+      "synth-pop"
     ]
   }
 }

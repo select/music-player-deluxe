@@ -2,7 +2,7 @@
   "youtubeId": "nYVDN27CrOo",
   "title": "Alone Again Or",
   "artist": "The Damned",
-  "lastFetched": "2025-11-26T10:59:40.121Z",
+  "lastFetched": "2025-11-30T21:15:58.953Z",
   "odesli": {
     "amazonMusic": "B001VKJYM8",
     "amazonStore": "B001VKJYM8",
@@ -27,6 +27,19 @@
       "80s",
       "punk",
       "post punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "34f70a5b-4d83-4b40-86aa-ef86002ddcdb",
+    "artistMbid": "77d21c13-846f-4f48-9546-873949eff6ae",
+    "releaseCount": 5,
+    "artistGenres": [
+      "gothic rock",
+      "new wave",
+      "post-punk",
+      "punk",
+      "punk rock",
+      "rock"
     ]
   }
 }

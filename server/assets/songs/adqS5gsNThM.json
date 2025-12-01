@@ -2,7 +2,7 @@
   "youtubeId": "adqS5gsNThM",
   "title": "This Earth That You Walk Upon",
   "artist": "Simple Minds",
-  "lastFetched": "2025-11-19T17:33:51.386Z",
+  "lastFetched": "2025-11-30T22:35:49.337Z",
   "odesli": {
     "amazonMusic": "B000TPE55C",
     "amazonStore": "B000TPE55C",
@@ -21,6 +21,29 @@
       "80s",
       "alternative",
       "instrumental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f75ca868-0ece-42c6-b5d3-ec9e97387d8e",
+    "artistMbid": "f41490ce-fe39-435d-86c0-ab5ce098b423",
+    "releaseCount": 17,
+    "genres": [
+      "alternative rock",
+      "electronic",
+      "new wave",
+      "rock"
+    ],
+    "artistGenres": [
+      "art rock",
+      "electronic",
+      "glam rock",
+      "new wave",
+      "pop",
+      "pop rock",
+      "post-punk",
+      "rock",
+      "soft rock",
+      "synth-pop"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "vsm4qjZfB-c",
   "title": "Silver Alloy",
   "artist": "Acid Lab",
-  "lastFetched": "2025-11-28T18:35:37.541Z",
+  "lastFetched": "2025-11-30T20:05:44.809Z",
   "odesli": {
     "amazonMusic": "B09H1Q1PJ4",
     "amazonStore": "B09H1Q1PJ4",
@@ -21,6 +21,15 @@
     "tags": [
       "darkstep",
       "drum and bass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ff8b662e-ce0a-4a10-9e49-8912d80afe72",
+    "artistMbid": "f2ec5c64-3ef5-4548-825a-ce14f631b93b",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass",
+      "jungle"
     ]
   }
 }

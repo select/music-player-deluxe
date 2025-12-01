@@ -2,7 +2,7 @@
   "youtubeId": "e2FI1qTLjNk",
   "title": "Pillow Talk",
   "artist": "Lustt",
-  "lastFetched": "2025-11-23T14:56:00.428Z",
+  "lastFetched": "2025-11-30T22:30:20.224Z",
   "odesli": {
     "amazonMusic": "B003U9XEV0",
     "amazonStore": "B003U9XEV0",
@@ -34,6 +34,16 @@
       "italo",
       "italo disco",
       "discompany"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "96ff26a2-4f37-47b0-9498-f48ac4773bea",
+    "artistMbid": "3485ddd2-ec82-4bed-96c9-657d7ef7cc3a",
+    "releaseCount": 2,
+    "genres": [
+      "dance",
+      "electronic",
+      "italo-disco"
     ]
   }
 }

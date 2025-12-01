@@ -1,7 +1,7 @@
 {
   "youtubeId": "Fc__0q1JkFs",
   "title": "Sepia - Amber",
-  "lastFetched": "2025-11-26T10:56:48.400Z",
+  "lastFetched": "2025-11-30T20:52:20.042Z",
   "ai": {
     "title": "Amber",
     "artist": "Sepia"
@@ -19,6 +19,27 @@
       "gothic",
       "gothic rock",
       "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d755da54-8b46-4086-862a-bef7385c4951",
+    "artistMbid": "a2027823-6e57-4d8c-8f6a-c5e465355829",
+    "releaseCount": 1,
+    "artistGenres": [
+      "bassline",
+      "breakbeat",
+      "breaks",
+      "dance",
+      "deep house",
+      "disco",
+      "dub",
+      "dubstep",
+      "electronica",
+      "grime",
+      "house",
+      "pop",
+      "progressive house",
+      "uk garage"
     ]
   }
 }

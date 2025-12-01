@@ -1,7 +1,7 @@
 {
   "youtubeId": "6a5VT9FGRQ8",
   "title": "King Garbage – Lost In The Sauce",
-  "lastFetched": "2025-11-29T12:39:02.698Z",
+  "lastFetched": "2025-11-30T19:51:36.013Z",
   "ai": {
     "title": "Lost In The Sauce",
     "artist": "King Garbage"
@@ -17,5 +17,10 @@
       "nu jazz",
       "music to get the pussy wet"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e34ca94a-269c-4d24-98ad-929e8c35d759",
+    "artistMbid": "4460e517-93b9-44a9-8482-6eecd22d9b7c",
+    "releaseCount": 1
   }
 }

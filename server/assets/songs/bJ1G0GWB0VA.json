@@ -1,7 +1,7 @@
 {
   "youtubeId": "bJ1G0GWB0VA",
   "title": "Anoushka shankar - Beloved (Thievery Corporation )",
-  "lastFetched": "2025-11-28T18:37:34.689Z",
+  "lastFetched": "2025-11-30T20:13:12.556Z",
   "ai": {
     "title": "Beloved",
     "artist": "Anoushka shankar"
@@ -20,6 +20,14 @@
       "sitar",
       "anoushka shankar",
       "world music"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b0d57b8f-b21e-4c6e-bd3b-74c898eeb959",
+    "artistMbid": "40ee8fa3-c6d7-4556-b4e2-9f4114565043",
+    "releaseCount": 6,
+    "artistGenres": [
+      "indian classical"
     ]
   }
 }

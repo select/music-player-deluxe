@@ -2,7 +2,7 @@
   "youtubeId": "94QVyAi4yWE",
   "title": "Cigarettes",
   "artist": "Fort Minor",
-  "lastFetched": "2025-11-29T13:48:39.157Z",
+  "lastFetched": "2025-11-30T19:54:18.137Z",
   "odesli": {
     "amazonMusic": "B0042GJBCG",
     "amazonStore": "B0042GJBCG",
@@ -30,6 +30,22 @@
       "rap",
       "fort minor",
       "alternative",
+      "hip hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7fe8c317-5c70-4942-9627-9be08c547a52",
+    "artistMbid": "e1564e98-978b-4947-8698-f6fd6f8b0181",
+    "releaseCount": 14,
+    "genres": [
+      "alternative hip hop",
+      "heavy metal",
+      "hip hop",
+      "nu metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative hip hop",
       "hip hop"
     ]
   }

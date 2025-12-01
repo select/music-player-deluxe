@@ -2,7 +2,7 @@
   "youtubeId": "J8jr-p0lQZo",
   "title": "Rosanna",
   "artist": "Weezer",
-  "lastFetched": "2025-11-29T13:47:57.788Z",
+  "lastFetched": "2025-11-30T19:48:56.427Z",
   "odesli": {
     "amazonMusic": "B07D5MLZ5V",
     "amazonStore": "B07D5MLZ5V",
@@ -29,6 +29,21 @@
       "rock",
       "covers",
       "classic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7fe607c8-353b-4e10-aaec-dff3784855f4",
+    "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+    "releaseCount": 3,
+    "artistGenres": [
+      "alternative pop",
+      "alternative rock",
+      "emo",
+      "geek rock",
+      "mainstream rock",
+      "pop rock",
+      "power pop",
+      "rock"
     ]
   }
 }

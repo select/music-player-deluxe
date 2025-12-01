@@ -2,7 +2,7 @@
   "youtubeId": "poUNWZJsBBk",
   "title": "DING DONG MERRILY OI! OI!",
   "artist": "HARD SKIN",
-  "lastFetched": "2025-11-23T19:33:48.761Z",
+  "lastFetched": "2025-11-30T21:56:09.471Z",
   "lastfm": {
     "id": "Hard+Skin/_/Ding+Dong+Merrily+Oi%21+Oi%21",
     "listeners": 1090,
@@ -13,6 +13,15 @@
     "artistMbid": "c764ecbb-8b74-482d-99b5-62c559c471cb",
     "tags": [
       "skinhead"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7cffeabb-4b45-4026-8ff7-f08ca0ea4cf9",
+    "artistMbid": "c764ecbb-8b74-482d-99b5-62c559c471cb",
+    "releaseCount": 1,
+    "artistGenres": [
+      "oi",
+      "punk"
     ]
   }
 }

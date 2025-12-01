@@ -2,7 +2,7 @@
   "youtubeId": "qTlkVTwMLFs",
   "title": "Rain Dogs",
   "artist": "Tom Waits",
-  "lastFetched": "2025-11-19T14:29:35.397Z",
+  "lastFetched": "2025-11-30T22:58:47.453Z",
   "lastfm": {
     "id": "Tom+Waits/_/Rain+Dogs",
     "listeners": 251818,
@@ -14,6 +14,29 @@
       "tom waits",
       "alternative",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e15841f1-0b61-4aa7-830c-544f23b4a3b6",
+    "artistMbid": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+    "releaseCount": 6,
+    "artistGenres": [
+      "americana",
+      "avant-garde jazz",
+      "beat poetry",
+      "blues",
+      "blues rock",
+      "dark cabaret",
+      "dark jazz",
+      "experimental",
+      "experimental rock",
+      "folk",
+      "folk rock",
+      "gothic country",
+      "jazz",
+      "piano blues",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

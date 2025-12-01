@@ -2,9 +2,20 @@
   "youtubeId": "tKNoNUxbCFs",
   "title": "Face The Face",
   "artist": "Pete Townshend",
-  "lastFetched": "2025-11-18T19:43:44.323Z",
+  "lastFetched": "2025-11-30T23:24:40.674Z",
   "ai": {
     "title": "Face The Face",
     "artist": "Pete Townshend"
+  },
+  "musicbrainz": {
+    "trackMbid": "c9b7a8ba-6b69-4c85-8dff-64d341e5b674",
+    "artistMbid": "fb147b8f-0144-4418-acaa-90b2d9779840",
+    "releaseCount": 3,
+    "artistGenres": [
+      "art rock",
+      "pop rock",
+      "rock",
+      "rock opera"
+    ]
   }
 }

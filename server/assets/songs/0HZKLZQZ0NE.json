@@ -2,7 +2,7 @@
   "youtubeId": "0HZKLZQZ0NE",
   "title": "Afrika Yie",
   "artist": "Blay Ambolley",
-  "lastFetched": "2025-11-23T19:34:51.390Z",
+  "lastFetched": "2025-11-30T21:50:25.222Z",
   "odesli": {
     "soundcloud": "kayode-1/gyedu-blay-ambolley-afrika-yie",
     "spotify": "4IAjUilgSWE3iB6L9xBRAh",
@@ -19,6 +19,14 @@
     "tags": [
       "ghana",
       "ouest africa"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ddbb505c-6694-4209-9ced-728f8bf93d67",
+    "artistMbid": "ad93763f-9bab-4a3f-a476-22fc9504bef3",
+    "releaseCount": 1,
+    "artistGenres": [
+      "highlife"
     ]
   }
 }

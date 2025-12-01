@@ -2,7 +2,7 @@
   "youtubeId": "eeJ_DzRJUI4",
   "title": "God Break Down The Door",
   "artist": "Nine Inch Nails",
-  "lastFetched": "2025-11-23T19:33:25.155Z",
+  "lastFetched": "2025-11-30T21:58:17.126Z",
   "odesli": {
     "amazonMusic": "B07D2MC39N",
     "amazonStore": "B07D2MC39N",
@@ -32,6 +32,24 @@
       "experimental",
       "electronic",
       "jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "33dff6f6-37ed-4299-a951-7b3914d393b1",
+    "artistMbid": "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+    "releaseCount": 6,
+    "genres": [
+      "drum and bass"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "electro-industrial",
+      "electronic",
+      "industrial",
+      "industrial metal",
+      "industrial rock",
+      "post-industrial",
+      "rock"
     ]
   }
 }

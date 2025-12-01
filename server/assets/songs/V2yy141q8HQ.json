@@ -2,7 +2,7 @@
   "youtubeId": "V2yy141q8HQ",
   "title": "Novocaine For The Soul",
   "artist": "Eels",
-  "lastFetched": "2025-11-26T10:58:16.096Z",
+  "lastFetched": "2025-11-30T21:08:47.424Z",
   "odesli": {
     "amazonMusic": "B0BQH3CLZM",
     "amazonStore": "B0BQH3CLZM",
@@ -29,6 +29,30 @@
       "indie rock",
       "rock",
       "alternative rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7a4f720f-853f-474a-ae40-cf3639ccd260",
+    "artistMbid": "14387b0f-765c-4852-852f-135335790466",
+    "releaseCount": 5,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "pop",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "chamber pop",
+      "downtempo",
+      "indie folk",
+      "indie pop",
+      "indie rock",
+      "rock",
+      "singer-songwriter",
+      "slowcore",
+      "trip hop"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "pySA6xOddIg",
   "title": "You're No Good",
   "artist": "The Swinging Blue Jeans",
-  "lastFetched": "2025-11-19T11:34:26.566Z",
+  "lastFetched": "2025-11-30T23:14:05.678Z",
   "odesli": {
     "amazonMusic": "B001KSDKYY",
     "amazonStore": "B001KSDKYY",
@@ -23,6 +23,20 @@
       "oldies",
       "pop",
       "classic rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0d51ada1-86c1-4ea5-a5dc-74f70d91855f",
+    "artistMbid": "f200e1a5-43c6-42e1-a715-d9742d6559ef",
+    "releaseCount": 2,
+    "genres": [
+      "beat music",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "beat music",
+      "merseybeat"
     ]
   }
 }

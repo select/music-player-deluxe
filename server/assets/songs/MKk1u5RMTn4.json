@@ -2,7 +2,7 @@
   "youtubeId": "MKk1u5RMTn4",
   "title": "Carnival of Rust",
   "artist": "Poets Of The Fall",
-  "lastFetched": "2025-11-27T12:04:03.452Z",
+  "lastFetched": "2025-11-30T20:49:51.255Z",
   "odesli": {
     "amazonMusic": "B0012DYV6I",
     "amazonStore": "B0012DYV6I",
@@ -36,6 +36,22 @@
       "alternative",
       "finnish",
       "finnish rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "69ee0993-c96b-41cb-bc83-f8925af214cd",
+    "artistMbid": "482a5456-7d8a-4366-a2e9-6f38853df632",
+    "releaseCount": 8,
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "pop rock",
+      "rock"
     ]
   }
 }

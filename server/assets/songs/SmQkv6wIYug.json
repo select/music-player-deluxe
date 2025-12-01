@@ -2,7 +2,7 @@
   "youtubeId": "SmQkv6wIYug",
   "title": "Perfect Day (Piano Komorebi Version)",
   "artist": "Patrick Watson",
-  "lastFetched": "2025-11-19T16:32:03.180Z",
+  "lastFetched": "2025-11-30T22:46:21.028Z",
   "odesli": {
     "amazonMusic": "B0CVCP4P6T",
     "amazonStore": "B0CVCP4P6T",
@@ -32,6 +32,13 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "592da4c4-9618-4a1a-a944-e60c05c39037"
+    "artistMbid": "592da4c4-9618-4a1a-a944-e60c05c39037",
+    "trackMbid": "36dceb21-a4f4-4ba9-b27b-4a353f9b3fef",
+    "releaseCount": 1,
+    "artistGenres": [
+      "chamber pop",
+      "indie rock",
+      "rock"
+    ]
   }
 }

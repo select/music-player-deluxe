@@ -2,7 +2,7 @@
   "youtubeId": "okJR-fljLHc",
   "title": "Freunde sind Friends",
   "artist": "Fraktus",
-  "lastFetched": "2025-11-24T00:23:39.126Z",
+  "lastFetched": "2025-11-30T21:30:55.208Z",
   "odesli": {
     "amazonMusic": "B01N5NPTI9",
     "amazonStore": "B01N5NPTI9",
@@ -30,5 +30,10 @@
       "die wahren perlen deutschsprachiger popmusik",
       "songs die so gut sind das ich meiner oma ihr klein haeuschen zwar nicht verkaufen aber zumindest dafuer beleihen wuerde"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d5639048-6c11-4d8d-9887-6c67f166d753",
+    "artistMbid": "4341463c-3bc5-483a-bcff-d32e4650c9b6",
+    "releaseCount": 2
   }
 }

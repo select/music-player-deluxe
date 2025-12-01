@@ -2,7 +2,7 @@
   "youtubeId": "6TfxMYQWfbg",
   "title": "New Gospel (Live)",
   "artist": "Marquis Hill",
-  "lastFetched": "2025-11-19T07:04:19.258Z",
+  "lastFetched": "2025-11-30T23:32:24.424Z",
   "odesli": {
     "amazonMusic": "B09LFGS42V",
     "amazonStore": "B09LFGS42V",
@@ -28,6 +28,13 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "8849eb24-3cff-4fa2-b750-acefc3dddf9d"
+    "artistMbid": "8849eb24-3cff-4fa2-b750-acefc3dddf9d",
+    "trackMbid": "1ab989ea-e21b-4c18-8ddd-e1a2667e0bdd",
+    "releaseCount": 2,
+    "artistGenres": [
+      "jazz",
+      "post-bop",
+      "soul jazz"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "4LMaqRmBo1s",
   "title": "Ashes of American Flags",
   "artist": "Wilco",
-  "lastFetched": "2025-11-29T13:47:34.573Z",
+  "lastFetched": "2025-11-30T19:44:17.772Z",
   "odesli": {
     "amazonMusic": "B07VTQ4QVZ",
     "amazonStore": "B07VTQ4QVZ",
@@ -25,6 +25,19 @@
       "indie",
       "rock",
       "indie rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5c8aedbd-b748-4863-81e2-a6347c86f7cb",
+    "artistMbid": "9e53f84d-ef44-4c16-9677-5fd4d78cbd7d",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "americana",
+      "folk rock",
+      "indie rock",
+      "pop rock",
+      "rock"
     ]
   }
 }

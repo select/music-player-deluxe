@@ -1,7 +1,7 @@
 {
   "youtubeId": "vgmXiTG21yM",
   "title": "Paul McCartney & Wings - Letting Go",
-  "lastFetched": "2025-11-27T12:01:46.337Z",
+  "lastFetched": "2025-11-30T20:32:13.270Z",
   "ai": {
     "title": "Letting Go",
     "artist": "Paul McCartney & Wings"
@@ -18,6 +18,23 @@
       "70s",
       "rock",
       "pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "eaece3dd-5a70-4ca3-b83c-39d61bdabdb4",
+    "artistMbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+    "releaseCount": 3,
+    "artistGenres": [
+      "classic rock",
+      "mainstream rock",
+      "pop",
+      "pop rock",
+      "power pop",
+      "progressive pop",
+      "rock",
+      "rock and roll",
+      "singer-songwriter",
+      "soft rock"
     ]
   }
 }

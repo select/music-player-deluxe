@@ -2,7 +2,7 @@
   "youtubeId": "efnjQBxqaFE",
   "title": "Somebody Else’s Guy",
   "artist": "Jocelyn Brown",
-  "lastFetched": "2025-11-23T15:45:27.910Z",
+  "lastFetched": "2025-11-30T22:17:04.103Z",
   "lastfm": {
     "title": "Somebody Else’s Guy",
     "artist": "Jocelyn Brown",
@@ -12,6 +12,25 @@
     "playcount": 5768,
     "tags": [
       "maybe"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c27871b6-ecc7-4b08-847d-8a4ced48d1f3",
+    "artistMbid": "6a628a50-1c5c-4d29-a13a-79a73eb012d9",
+    "releaseCount": 1,
+    "genres": [
+      "disco",
+      "funk",
+      "pop",
+      "r&b",
+      "soul"
+    ],
+    "artistGenres": [
+      "boogie",
+      "disco",
+      "pop",
+      "r&b",
+      "soul"
     ]
   }
 }

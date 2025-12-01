@@ -2,7 +2,7 @@
   "youtubeId": "pUfDTPNnSwk",
   "title": "In The City",
   "artist": "Basstripper",
-  "lastFetched": "2025-11-19T12:47:24.204Z",
+  "lastFetched": "2025-11-30T23:07:38.365Z",
   "odesli": {
     "amazonMusic": "B0C9VY1SMW",
     "amazonStore": "B0C9VY1SMW",
@@ -26,6 +26,11 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "82687fdf-84d6-49ac-bff2-de88cb42e5a2"
+    "artistMbid": "82687fdf-84d6-49ac-bff2-de88cb42e5a2",
+    "trackMbid": "ee846065-2f7d-4e87-ae3f-b925c75359c1",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass"
+    ]
   }
 }

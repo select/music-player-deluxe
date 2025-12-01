@@ -2,7 +2,7 @@
   "youtubeId": "PTFwQP86BRs",
   "title": "Closer",
   "artist": "Nine Inch Nails",
-  "lastFetched": "2025-11-27T12:05:27.008Z",
+  "lastFetched": "2025-11-30T21:04:19.616Z",
   "odesli": {
     "amazonMusic": "B07FZLFNQK",
     "amazonStore": "B07FZLFNQK",
@@ -32,5 +32,29 @@
     "title": "Closer",
     "artist": "Nine Inch Nails",
     "artistMbid": "b7ffd2af-418f-4be2-bdd1-22f8b48613da"
+  },
+  "musicbrainz": {
+    "trackMbid": "54dbd059-4e61-4b84-b131-9e1de06c8cf9",
+    "artistMbid": "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+    "releaseCount": 3,
+    "genres": [
+      "alternative rock",
+      "electronic",
+      "industrial",
+      "industrial metal",
+      "industrial rock",
+      "metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "electro-industrial",
+      "electronic",
+      "industrial",
+      "industrial metal",
+      "industrial rock",
+      "post-industrial",
+      "rock"
+    ]
   }
 }

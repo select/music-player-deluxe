@@ -2,7 +2,7 @@
   "youtubeId": "6o-p-OAWmsY",
   "title": "Carol of the Bells",
   "artist": "August Burns Red",
-  "lastFetched": "2025-11-26T11:00:44.358Z",
+  "lastFetched": "2025-11-30T21:21:36.460Z",
   "odesli": {
     "amazonMusic": "B08MB11LG5",
     "amazonStore": "B08MB11LG5",
@@ -25,6 +25,19 @@
       "instrumental",
       "metal",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "41f25a5d-c35f-4cd0-970b-4e589b7e559c",
+    "artistMbid": "5bac9b4f-2f1c-4d39-8d11-231d5b6650ce",
+    "releaseCount": 11,
+    "genres": [
+      "alternative metal"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "melodic metalcore",
+      "metalcore"
     ]
   }
 }

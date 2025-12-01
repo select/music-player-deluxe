@@ -2,7 +2,7 @@
   "youtubeId": "EDnIEWyVIlE",
   "title": "RATATATA",
   "artist": "BABYMETAL",
-  "lastFetched": "2025-11-19T17:39:28.287Z",
+  "lastFetched": "2025-11-30T22:33:35.437Z",
   "odesli": {
     "amazonMusic": "B0D429YRYZ",
     "amazonStore": "B0D429YRYZ",
@@ -24,6 +24,20 @@
       "Pokemon",
       "trancecore",
       "electronicore"
+    ],
+    "trackMbid": "ee39a7af-eaa0-43bc-bed3-b3248f9d4f9d",
+    "artistMbid": "27e2997f-f7a1-4353-bcc4-57b9274fa9a4",
+    "releaseCount": 14,
+    "genres": [
+      "electronicore"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "j-pop",
+      "j-rock",
+      "kawaii metal",
+      "metal",
+      "pop metal"
     ]
   },
   "lastfm": {

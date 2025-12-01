@@ -2,7 +2,7 @@
   "youtubeId": "E-QV4n-z-9k",
   "title": "Eastman",
   "artist": "Move D",
-  "lastFetched": "2025-11-23T15:15:23.912Z",
+  "lastFetched": "2025-11-30T22:25:14.836Z",
   "lastfm": {
     "title": "Eastman",
     "artist": "Move D",
@@ -15,6 +15,18 @@
       "deep house",
       "zyrotechira",
       "dj delberts dorky dance drops"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d8511181-9583-4aa3-9087-983e8e1f20ae",
+    "artistMbid": "20a3f336-f78c-40c4-bc37-ef53cce4ae53",
+    "releaseCount": 4,
+    "genres": [
+      "ambient",
+      "downtempo",
+      "electronic",
+      "house",
+      "idm"
     ]
   }
 }

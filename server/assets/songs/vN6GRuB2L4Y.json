@@ -2,7 +2,7 @@
   "youtubeId": "vN6GRuB2L4Y",
   "title": "Sie wollen wieder schießen (dürfen)",
   "artist": "Slime",
-  "lastFetched": "2025-11-19T10:01:48.010Z",
+  "lastFetched": "2025-11-30T22:41:42.205Z",
   "odesli": {
     "appleMusic": "1094447637",
     "itunes": "1094447637",
@@ -15,5 +15,14 @@
   "ai": {
     "title": "Sie wollen wieder schiessen (dürfen)",
     "artist": "SLIME"
+  },
+  "musicbrainz": {
+    "trackMbid": "37e74d88-c2c1-44d6-bb02-224a1b245e8f",
+    "artistMbid": "a0fe06e3-deb7-4ea2-a7de-cc93740fd163",
+    "releaseCount": 3,
+    "artistGenres": [
+      "punk",
+      "punk rock"
+    ]
   }
 }

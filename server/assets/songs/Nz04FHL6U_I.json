@@ -2,7 +2,7 @@
   "youtubeId": "Nz04FHL6U_I",
   "title": "Her Alone",
   "artist": "Amorphis",
-  "lastFetched": "2025-11-28T12:13:31.484Z",
+  "lastFetched": "2025-11-30T20:20:26.862Z",
   "odesli": {
     "amazonMusic": "B0DLBB7QQ2",
     "amazonStore": "B0DLBB7QQ2",
@@ -24,6 +24,20 @@
       "melodic death metal",
       "death metal",
       "metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0e635e84-0a20-46ce-8831-2d2cbf8a94fc",
+    "artistMbid": "efaefde1-e09b-4d49-9d8e-b1304d2ece8d",
+    "releaseCount": 9,
+    "artistGenres": [
+      "death metal",
+      "death-doom metal",
+      "folk metal",
+      "melodic death metal",
+      "metal",
+      "progressive metal",
+      "symphonic metal"
     ]
   }
 }

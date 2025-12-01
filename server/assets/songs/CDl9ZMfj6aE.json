@@ -2,7 +2,7 @@
   "youtubeId": "CDl9ZMfj6aE",
   "title": "Smooth Criminal",
   "artist": "Alien Ant Farm",
-  "lastFetched": "2025-11-26T10:57:58.051Z",
+  "lastFetched": "2025-11-30T21:07:11.129Z",
   "odesli": {
     "amazonMusic": "B004EFJK5I",
     "amazonStore": "B004EFJK5I",
@@ -31,5 +31,20 @@
     "title": "Smooth Criminal",
     "artist": "Alien Ant Farm",
     "artistMbid": "8ac6cc32-8ddf-43b1-9ac4-4b04f9053176"
+  },
+  "musicbrainz": {
+    "trackMbid": "47d74c64-e842-45e7-9432-b2c096964454",
+    "artistMbid": "8ac6cc32-8ddf-43b1-9ac4-4b04f9053176",
+    "releaseCount": 4,
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "funk metal",
+      "nu metal",
+      "pop punk",
+      "post-grunge",
+      "rap metal",
+      "rock"
+    ]
   }
 }

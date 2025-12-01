@@ -1,7 +1,7 @@
 {
   "youtubeId": "8jZhivKY62s",
   "title": "Señor Coconut - Riders On The Storm",
-  "lastFetched": "2025-11-28T18:38:09.402Z",
+  "lastFetched": "2025-11-30T20:15:22.304Z",
   "ai": {
     "title": "Riders On The Storm",
     "artist": "Señor Coconut"
@@ -20,6 +20,15 @@
       "latin",
       "lounge",
       "doors cover"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9299e67e-89a4-4b19-9808-1fc78e1c74b7",
+    "artistMbid": "ba07ae41-8e41-4411-bcf6-e37e4864d821",
+    "releaseCount": 1,
+    "artistGenres": [
+      "cocktail nation",
+      "lounge"
     ]
   }
 }

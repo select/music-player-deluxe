@@ -2,7 +2,7 @@
   "youtubeId": "vQiHmQI_fv8",
   "title": "Shika-1",
   "artist": "Biosphere",
-  "lastFetched": "2025-11-23T15:31:11.225Z",
+  "lastFetched": "2025-11-30T22:21:59.907Z",
   "odesli": {
     "amazonMusic": "B0051ZWKGG",
     "amazonStore": "B0051ZWKGG",
@@ -20,6 +20,27 @@
     "playcount": 68948,
     "tags": [
       "deepspaceone"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3e61a0d8-b05b-4376-aaf8-bbb6f73bde7e",
+    "artistMbid": "a5ee1ebe-a645-45d2-8319-d101fe62e581",
+    "releaseCount": 5,
+    "genres": [
+      "ambient",
+      "chillout",
+      "downtempo",
+      "electronic",
+      "idm"
+    ],
+    "artistGenres": [
+      "ambient",
+      "ambient house",
+      "ambient techno",
+      "electronic",
+      "electronica",
+      "experimental",
+      "field recording"
     ]
   }
 }

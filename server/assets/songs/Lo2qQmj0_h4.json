@@ -1,7 +1,7 @@
 {
   "youtubeId": "Lo2qQmj0_h4",
   "title": "AC/DC - You Shook Me All Night Long (Official 4K Video)",
-  "lastFetched": "2025-11-27T12:00:14.949Z",
+  "lastFetched": "2025-11-30T20:23:12.621Z",
   "ai": {
     "title": "You Shook Me All Night Long",
     "artist": "AC/DC"
@@ -21,5 +21,17 @@
     "title": "You Shook Me All Night Long",
     "artist": "AC/DC",
     "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1"
+  },
+  "musicbrainz": {
+    "trackMbid": "0f780644-0385-4862-ac13-a6b29e06628d",
+    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+    "releaseCount": 4,
+    "artistGenres": [
+      "blues rock",
+      "classic rock",
+      "hard rock",
+      "rock",
+      "rock and roll"
+    ]
   }
 }

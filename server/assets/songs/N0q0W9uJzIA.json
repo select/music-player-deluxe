@@ -2,7 +2,7 @@
   "youtubeId": "N0q0W9uJzIA",
   "title": "Electric Surfin' Go Go",
   "artist": "Polysics",
-  "lastFetched": "2025-11-30T17:44:49.265Z",
+  "lastFetched": "2025-11-30T19:34:57.578Z",
   "odesli": {
     "amazonMusic": "B073Q667W1",
     "amazonStore": "B073Q667W1",
@@ -27,6 +27,18 @@
       "electronic",
       "new wave",
       "j-rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c24fa84a-d323-4db1-ad19-d1d8676f2618",
+    "artistMbid": "b7d567df-e26b-4da1-b29d-f903f0ff9bbc",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic",
+      "electronic rock",
+      "j-rock",
+      "noise rock",
+      "post-punk"
     ]
   }
 }

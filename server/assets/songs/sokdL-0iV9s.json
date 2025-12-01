@@ -2,7 +2,7 @@
   "youtubeId": "sokdL-0iV9s",
   "title": "Talk Shit, Get Shot",
   "artist": "Body Count",
-  "lastFetched": "2025-11-27T12:05:11.553Z",
+  "lastFetched": "2025-11-30T21:00:36.514Z",
   "odesli": {
     "amazonMusic": "B0FD9YD2CV",
     "amazonStore": "B0FD9YD2CV",
@@ -28,6 +28,29 @@
       "hip-hop",
       "rapcore",
       "importado_do_spotify"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7c25fe03-18fe-4d67-9783-c091b73331e2",
+    "artistMbid": "8b12db5d-54a9-4014-9fa8-d646ac291361",
+    "releaseCount": 2,
+    "genres": [
+      "heavy metal",
+      "hip hop",
+      "metal",
+      "rapcore",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "crossover thrash",
+      "groove metal",
+      "hardcore punk",
+      "metal",
+      "metalcore",
+      "punk",
+      "rap metal",
+      "rapcore"
     ]
   }
 }

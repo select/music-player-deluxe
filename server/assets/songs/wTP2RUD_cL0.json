@@ -2,7 +2,7 @@
   "youtubeId": "wTP2RUD_cL0",
   "title": "Money For Nothing",
   "artist": "Dire Straits",
-  "lastFetched": "2025-11-28T18:35:27.026Z",
+  "lastFetched": "2025-11-30T20:04:45.136Z",
   "odesli": {
     "amazonMusic": "B001NHGGIY",
     "amazonStore": "B001NHGGIY",
@@ -32,6 +32,28 @@
       "80s",
       "dire straits",
       "guitar"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "831ab82a-d9d5-4dbb-885c-6cdf1591a80d",
+    "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+    "releaseCount": 17,
+    "genres": [
+      "blues rock",
+      "classic rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "classic rock",
+      "pop rock",
+      "pub rock",
+      "rock",
+      "rock and roll",
+      "roots rock",
+      "soft rock",
+      "sophisti-pop"
     ]
   }
 }

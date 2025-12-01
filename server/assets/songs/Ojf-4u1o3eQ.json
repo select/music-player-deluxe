@@ -2,7 +2,7 @@
   "youtubeId": "Ojf-4u1o3eQ",
   "title": "Affection",
   "artist": "Boys Noize",
-  "lastFetched": "2025-11-19T06:50:34.092Z",
+  "lastFetched": "2025-11-30T23:34:12.590Z",
   "odesli": {
     "amazonMusic": "B09DK6HMBF",
     "amazonStore": "B09DK6HMBF",
@@ -27,6 +27,23 @@
       "miami bass",
       "freestyle",
       "alternative rnb"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "bf333ec9-6c4a-4d01-9309-b2157453f93b",
+    "artistMbid": "d2f4a968-1f6e-4a4a-9376-ee2b2a50c87a",
+    "releaseCount": 6,
+    "artistGenres": [
+      "acid techno",
+      "ebm",
+      "electro",
+      "electro house",
+      "electronic",
+      "electronica",
+      "french electro",
+      "midtempo bass",
+      "tech house",
+      "techno"
     ]
   }
 }

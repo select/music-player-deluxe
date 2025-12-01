@@ -2,7 +2,7 @@
   "youtubeId": "ex4oSYGQzas",
   "title": "Illusion Of Seclusion",
   "artist": "Photay",
-  "lastFetched": "2025-11-28T18:35:50.240Z",
+  "lastFetched": "2025-11-30T20:06:23.021Z",
   "odesli": {
     "amazonMusic": "B00N31PBRU",
     "amazonStore": "B00N31PBRU",
@@ -25,6 +25,14 @@
       "electronic",
       "experimental",
       "chillwave"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c3a442e4-aea2-4867-9880-9d84cc9135e2",
+    "artistMbid": "f5d2692f-6938-433f-92f7-021dc04ffd38",
+    "releaseCount": 3,
+    "artistGenres": [
+      "electronic"
     ]
   }
 }

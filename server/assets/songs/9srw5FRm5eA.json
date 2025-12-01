@@ -2,7 +2,7 @@
   "youtubeId": "9srw5FRm5eA",
   "title": "Corcovado",
   "artist": "Astrud Gilberto",
-  "lastFetched": "2025-11-23T19:32:34.215Z",
+  "lastFetched": "2025-11-30T22:02:09.514Z",
   "lastfm": {
     "id": "Astrud+Gilberto/_/Corcovado",
     "listeners": 12406,
@@ -15,6 +15,19 @@
       "bossa nova",
       "lazy sundays",
       "jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3cfb2cb8-b0c2-45da-8db1-f4229f2680d9",
+    "artistMbid": "8d08cabf-03a3-4f38-a815-8197a0984f19",
+    "releaseCount": 1,
+    "artistGenres": [
+      "bossa nova",
+      "jazz",
+      "latin",
+      "latin jazz",
+      "mpb",
+      "samba"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "GWgisTPKCdk",
   "title": "Seiler und Speer - Ham kummst",
-  "lastFetched": "2025-11-29T12:38:34.161Z",
+  "lastFetched": "2025-11-30T19:43:21.104Z",
   "ai": {
     "title": "Ham kummst",
     "artist": "Seiler und Speer"
@@ -20,6 +20,14 @@
       "augschitt",
       "give booze a chance",
       "ruperts greatest hits"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f225ae18-6c54-46c8-801b-1e091044369f",
+    "artistMbid": "1b5c5c26-7232-48e2-8363-08f420b1f5fa",
+    "releaseCount": 3,
+    "genres": [
+      "pop"
     ]
   }
 }

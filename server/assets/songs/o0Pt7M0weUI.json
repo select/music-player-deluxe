@@ -2,7 +2,7 @@
   "youtubeId": "o0Pt7M0weUI",
   "title": "Wish I Knew You",
   "artist": "The Revivalists",
-  "lastFetched": "2025-11-27T12:05:12.772Z",
+  "lastFetched": "2025-11-30T21:00:51.362Z",
   "odesli": {
     "amazonMusic": "B01LZW4QIM",
     "amazonStore": "B01LZW4QIM",
@@ -34,6 +34,15 @@
       "funk rock",
       "banned",
       "blue-eyed soul"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ef7faf39-f6cd-4b65-a032-4288d2133762",
+    "artistMbid": "ed4a08e1-2a79-4538-b519-87bb2ee0fd9d",
+    "releaseCount": 5,
+    "genres": [
+      "alternative rock",
+      "rock"
     ]
   }
 }

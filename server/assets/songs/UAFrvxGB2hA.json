@@ -1,7 +1,7 @@
 {
   "youtubeId": "UAFrvxGB2hA",
   "title": "Rinder & Lewis -- Gluttony (1977)",
-  "lastFetched": "2025-11-26T11:02:41.483Z",
+  "lastFetched": "2025-11-30T21:40:47.252Z",
   "ai": {
     "title": "Gluttony",
     "artist": "Rinder & Lewis"
@@ -17,5 +17,10 @@
     "tags": [
       "drjazzmrfunkmusic"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "843bc19f-b54c-4936-ba31-9b38cdd9f9b2",
+    "artistMbid": "0b5791f2-9015-4387-9a01-2c63d5b57c3e",
+    "releaseCount": 1
   }
 }

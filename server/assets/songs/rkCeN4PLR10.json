@@ -1,7 +1,7 @@
 {
   "youtubeId": "rkCeN4PLR10",
   "title": "XTC-Then She Appeared- Nonsuch 1992",
-  "lastFetched": "2025-11-26T10:58:23.607Z",
+  "lastFetched": "2025-11-30T21:09:25.578Z",
   "ai": {
     "title": "Then She Appeared",
     "artist": "XTC"
@@ -18,6 +18,30 @@
       "90s",
       "80s",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "21153b63-0b66-49a0-94fa-856850e70a9a",
+    "artistMbid": "97c86b2c-2765-46a2-aef8-76a7e24c430f",
+    "releaseCount": 17,
+    "genres": [
+      "alternative rock",
+      "new wave",
+      "pop rock",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "art pop",
+      "art punk",
+      "art rock",
+      "chamber pop",
+      "new wave",
+      "pop rock",
+      "post-punk",
+      "power pop",
+      "psychedelic pop",
+      "zolo"
     ]
   }
 }

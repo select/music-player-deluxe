@@ -1,7 +1,7 @@
 {
   "youtubeId": "DXqx1rHZfx8",
   "title": "Vangelis - Mythodea",
-  "lastFetched": "2025-11-29T12:38:32.933Z",
+  "lastFetched": "2025-11-30T19:43:07.083Z",
   "ai": {
     "title": "Mythodea",
     "artist": "Vangelis"
@@ -20,6 +20,22 @@
       "ambient",
       "soundtrack",
       "instrumental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "95587838-cf77-453e-85be-0ce6aa382680",
+    "artistMbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ambient",
+      "classical",
+      "electronic",
+      "experimental",
+      "instrumental",
+      "new age",
+      "progressive electronic",
+      "progressive rock",
+      "rock"
     ]
   }
 }

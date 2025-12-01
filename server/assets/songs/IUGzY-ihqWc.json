@@ -1,7 +1,7 @@
 {
   "youtubeId": "IUGzY-ihqWc",
   "title": "Blue Foundation - Eyes On Fire (Zeds Dead Remix)",
-  "lastFetched": "2025-11-26T11:01:15.256Z",
+  "lastFetched": "2025-11-30T21:23:46.955Z",
   "ai": {
     "title": "Eyes On Fire (Zeds Dead Remix)",
     "artist": "Blue Foundation"
@@ -14,6 +14,19 @@
     "artist": "Blue Foundation",
     "tags": [
       "dubstep"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "168632a1-53ad-4b46-bd1d-711e5c670c44",
+    "artistMbid": "455aca99-38f3-47cb-aa6b-820cf9de3c91",
+    "releaseCount": 6,
+    "genres": [
+      "dubstep",
+      "electronic",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "electronic"
     ]
   }
 }

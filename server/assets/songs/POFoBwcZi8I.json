@@ -2,7 +2,7 @@
   "youtubeId": "POFoBwcZi8I",
   "title": "Hey Laura",
   "artist": "Gregory Porter",
-  "lastFetched": "2025-11-19T10:28:11.383Z",
+  "lastFetched": "2025-11-30T23:19:29.064Z",
   "odesli": {
     "amazonMusic": "B076Y76TCT",
     "amazonStore": "B076Y76TCT",
@@ -23,6 +23,21 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "7ac1e33f-0cdf-4e81-b914-41830700d746"
+    "artistMbid": "7ac1e33f-0cdf-4e81-b914-41830700d746",
+    "trackMbid": "f7b31f56-755f-4ecd-8356-1ada1176dfbf",
+    "releaseCount": 2,
+    "artistGenres": [
+      "blues",
+      "contemporary jazz",
+      "easy listening",
+      "gospel",
+      "jazz",
+      "neo soul",
+      "soul",
+      "soul blues",
+      "soul jazz",
+      "traditional pop",
+      "vocal jazz"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "LXvG0SMP7tw",
   "title": "Waiting for the Miracle",
   "artist": "Leonard Cohen",
-  "lastFetched": "2025-11-23T15:33:12.716Z",
+  "lastFetched": "2025-11-30T22:21:18.726Z",
   "odesli": {
     "amazonMusic": "B00136NJCQ",
     "amazonStore": "B00136NJCQ",
@@ -34,6 +34,30 @@
       "leonard cohen",
       "soundtrack",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3a824c74-8ed4-4963-aa92-2ea0a173eeeb",
+    "artistMbid": "65314b12-0e08-43fa-ba33-baaa7b874c15",
+    "releaseCount": 25,
+    "genres": [
+      "ballad",
+      "folk",
+      "folk rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "contemporary folk",
+      "folk",
+      "folk rock",
+      "poetry",
+      "pop",
+      "rock",
+      "singer-songwriter"
     ]
   }
 }

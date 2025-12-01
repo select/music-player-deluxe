@@ -2,7 +2,7 @@
   "youtubeId": "d6wtWNszFvM",
   "title": "Ne Weile Her",
   "artist": "WIRTZ",
-  "lastFetched": "2025-11-27T12:05:21.065Z",
+  "lastFetched": "2025-11-30T21:02:26.775Z",
   "odesli": {
     "pandora": "TR:72547308",
     "tidal": "72318487",
@@ -19,6 +19,15 @@
       "alternative rock",
       "rock",
       "wirtz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f776e873-3328-41c4-9bce-a8dcd6b0d5e5",
+    "artistMbid": "ad34b448-0c37-4253-bbec-b937723d5158",
+    "releaseCount": 2,
+    "genres": [
+      "alternative rock",
+      "rock"
     ]
   }
 }

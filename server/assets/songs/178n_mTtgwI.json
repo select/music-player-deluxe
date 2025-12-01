@@ -2,7 +2,7 @@
   "youtubeId": "178n_mTtgwI",
   "title": "Still Standing (Instrumental)",
   "artist": "Hilltop Hoods",
-  "lastFetched": "2025-11-23T19:30:31.231Z",
+  "lastFetched": "2025-11-30T22:10:48.623Z",
   "odesli": {
     "amazonMusic": "B0DP5X93S2",
     "amazonStore": "B0DP5X93S2",
@@ -32,6 +32,14 @@
       "australian",
       "rap",
       "aussie hip-hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d671ff96-4600-48d4-8478-fe511b306d94",
+    "artistMbid": "16e1fb95-6d1c-45a3-aad8-d3bcd7e06aac",
+    "releaseCount": 1,
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

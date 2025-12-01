@@ -1,9 +1,19 @@
 {
   "youtubeId": "QT2Hk88qIwQ",
   "title": "Ton Steine Scherben - Macht kaputt was euch kaputt macht",
-  "lastFetched": "2025-11-26T10:19:21.270Z",
+  "lastFetched": "2025-11-30T21:09:55.929Z",
   "ai": {
     "title": "Macht kaputt was euch kaputt macht",
     "artist": "Ton Steine Scherben"
+  },
+  "musicbrainz": {
+    "trackMbid": "f8c6cddb-0cee-469b-bd35-63a4e18d389a",
+    "artistMbid": "6b49bc68-353e-44a3-ba64-3ba4d30b1beb",
+    "releaseCount": 2,
+    "artistGenres": [
+      "krautrock",
+      "proto-punk",
+      "rock"
+    ]
   }
 }

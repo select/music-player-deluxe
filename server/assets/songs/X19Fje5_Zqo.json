@@ -2,7 +2,7 @@
   "youtubeId": "X19Fje5_Zqo",
   "title": "Burn One Down",
   "artist": "Ben Harper",
-  "lastFetched": "2025-11-19T12:20:54.500Z",
+  "lastFetched": "2025-11-30T23:10:10.979Z",
   "lastfm": {
     "id": "Ben+Harper/_/Burn+One+Down",
     "listeners": 310476,
@@ -13,6 +13,18 @@
       "ben harper",
       "folk",
       "singer-songwriter"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c759cb10-15ae-42ce-a161-4234bab0bddc",
+    "artistMbid": "1582a5b8-538e-45e7-9ae4-4099439a0e79",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative pop",
+      "folk rock",
+      "rock",
+      "singer-songwriter",
+      "soul"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "7SEnj3_6hWQ",
   "title": "A&E",
   "artist": "Inga Copeland",
-  "lastFetched": "2025-11-23T19:34:14.261Z",
+  "lastFetched": "2025-11-30T21:53:29.261Z",
   "odesli": {
     "amazonMusic": "B073P9P6PK",
     "amazonStore": "B073P9P6PK",
@@ -26,6 +26,19 @@
       "ladytron",
       "5 stars",
       "frauen und technik"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1f42d84e-dcd0-4807-891a-0034b4695aa5",
+    "artistMbid": "f1bf6126-09a6-4577-b872-d7dd3274768b",
+    "releaseCount": 1,
+    "genres": [
+      "dub",
+      "electronic",
+      "leftfield",
+      "pop",
+      "reggae",
+      "synth-pop"
     ]
   }
 }

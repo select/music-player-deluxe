@@ -2,7 +2,7 @@
   "youtubeId": "FyxaZP5oAAQ",
   "title": "Fusil Contra Fusil",
   "artist": "Silvio Rodríguez",
-  "lastFetched": "2025-11-29T13:48:48.110Z",
+  "lastFetched": "2025-11-30T19:55:28.820Z",
   "odesli": {
     "amazonMusic": "B07L456FQ6",
     "amazonStore": "B07L456FQ6",
@@ -25,6 +25,15 @@
       "live",
       "world",
       "cuban"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7f36249d-20a8-4f6b-980c-120766ff55c5",
+    "artistMbid": "42e1a761-429e-403c-971a-e85c2f748cfa",
+    "releaseCount": 4,
+    "artistGenres": [
+      "nueva trova",
+      "singer-songwriter"
     ]
   }
 }

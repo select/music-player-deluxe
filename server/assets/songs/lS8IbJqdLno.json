@@ -2,7 +2,7 @@
   "youtubeId": "lS8IbJqdLno",
   "title": "SWAMP THING",
   "artist": "THE GRID",
-  "lastFetched": "2025-11-23T15:20:27.531Z",
+  "lastFetched": "2025-11-30T22:24:18.200Z",
   "lastfm": {
     "title": "Swamp Thing",
     "artist": "The Grid",
@@ -16,6 +16,17 @@
       "90s",
       "banjo",
       "dance",
+      "techno"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1e0e7d88-6474-45a5-ba58-1aedc39ebf1f",
+    "artistMbid": "7aacce38-8ab5-4a4a-a206-0fb4b1c505c4",
+    "releaseCount": 3,
+    "artistGenres": [
+      "ambient house",
+      "electronic",
+      "house",
       "techno"
     ]
   }

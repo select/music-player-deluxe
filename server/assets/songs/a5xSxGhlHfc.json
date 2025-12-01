@@ -2,7 +2,7 @@
   "youtubeId": "a5xSxGhlHfc",
   "title": "Du Hast",
   "artist": "Rammstein",
-  "lastFetched": "2025-11-23T19:30:01.331Z",
+  "lastFetched": "2025-11-30T22:12:26.793Z",
   "lastfm": {
     "summary": "\"Du hast\" (German, \"you have\") is a song by the German Tanz-Metall band Rammstein from the 1997 album Sehnsucht. The song is one of the band's best known worldwide, owing to its inclusion on the soundtrack of The Matrix and heavy airplay on MTV. It has also been featured in other films, such as CKY2K and 2001's How High, as well as TV's Gilmore Girls in the episode \"Presenting Lorelai Gilmore\".\n\nThe video for the song was influenced by Reservoir Dogs. <a href=\"http://www.last.fm/music/Rammstein/_/Du+hast\">Read more on Last.fm</a>.",
     "id": "Rammstein/_/Du+hast",
@@ -17,5 +17,28 @@
     ],
     "title": "Du hast",
     "artist": "Rammstein"
+  },
+  "musicbrainz": {
+    "trackMbid": "dbe94a70-3913-4d73-9f76-1a88f7016e4a",
+    "artistMbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+    "releaseCount": 8,
+    "genres": [
+      "alternative metal",
+      "electronic",
+      "hard rock",
+      "heavy metal",
+      "industrial",
+      "industrial metal",
+      "industrial rock",
+      "metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "industrial",
+      "industrial metal",
+      "metal",
+      "neue deutsche härte",
+      "rock"
+    ]
   }
 }

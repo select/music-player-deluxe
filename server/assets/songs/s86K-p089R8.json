@@ -2,7 +2,7 @@
   "youtubeId": "s86K-p089R8",
   "title": "Runaway",
   "artist": "Bon Jovi",
-  "lastFetched": "2025-11-19T05:46:20.833Z",
+  "lastFetched": "2025-11-30T23:39:22.278Z",
   "odesli": {
     "amazonMusic": "B000V66Z3Y",
     "amazonStore": "B000V66Z3Y",
@@ -25,7 +25,26 @@
       "classic rock",
       "bon jovi"
     ],
-    "artistMbid": "5dcdb5eb-cb72-4e6e-9e63-b7bace604965"
+    "artistMbid": "5dcdb5eb-cb72-4e6e-9e63-b7bace604965",
+    "trackMbid": "abf80538-b759-4a9d-93d3-84f24ae5354d",
+    "releaseCount": 6,
+    "genres": [
+      "classic rock",
+      "hard rock",
+      "pop metal",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "aor",
+      "arena rock",
+      "classic rock",
+      "glam metal",
+      "hard rock",
+      "heartland rock",
+      "pop rock",
+      "rock"
+    ]
   },
   "lastfm": {
     "id": "Bon+Jovi/_/Runaway",

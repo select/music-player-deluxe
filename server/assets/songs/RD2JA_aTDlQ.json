@@ -1,7 +1,7 @@
 {
   "youtubeId": "RD2JA_aTDlQ",
   "title": "The Dudes, Everybody Dies Too Soon (Official Audio)",
-  "lastFetched": "2025-11-27T12:01:19.783Z",
+  "lastFetched": "2025-11-30T20:29:47.162Z",
   "ai": {
     "title": "Everybody Dies Too Soon",
     "artist": "The Dudes"
@@ -18,5 +18,10 @@
       "indie rock",
       "indie"
     ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e61255ef-2639-410f-91bb-9320dfcebf39",
+    "artistMbid": "0e27641b-d35e-4826-a842-1e123df9c599",
+    "releaseCount": 1
   }
 }

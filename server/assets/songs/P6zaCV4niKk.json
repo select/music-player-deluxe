@@ -2,7 +2,7 @@
   "youtubeId": "P6zaCV4niKk",
   "title": "Father and Son",
   "artist": "Cat Stevens",
-  "lastFetched": "2025-11-19T14:37:14.849Z",
+  "lastFetched": "2025-11-30T22:58:15.657Z",
   "odesli": {
     "boomplay": "2577636",
     "deezer": "1157032882",
@@ -30,6 +30,19 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "da8a7465-cf8a-42fd-b7d9-d2ab8f5dbf0d"
+    "artistMbid": "e2345fdf-2be7-47c5-a6dd-be64353ad134",
+    "trackMbid": "fbe1c0c2-490d-42e7-88eb-db226884a15f",
+    "releaseCount": 2,
+    "artistGenres": [
+      "baroque pop",
+      "contemporary folk",
+      "folk",
+      "folk pop",
+      "folk rock",
+      "pop rock",
+      "rock",
+      "singer-songwriter",
+      "soft rock"
+    ]
   }
 }

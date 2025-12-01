@@ -2,7 +2,7 @@
   "youtubeId": "EKuTjsx2ark",
   "title": "a gift",
   "artist": "Rachel Portman",
-  "lastFetched": "2025-11-19T09:51:33.400Z",
+  "lastFetched": "2025-11-30T23:21:39.309Z",
   "odesli": {
     "spotify": "1CmQKnFJKWTesGSSQ2noNL",
     "tidal": "230045271",
@@ -21,6 +21,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "550508e3-efae-47de-83cc-e50cc471d7e4"
+    "artistMbid": "550508e3-efae-47de-83cc-e50cc471d7e4",
+    "trackMbid": "95201757-e9af-469e-b008-06e064b996ff",
+    "releaseCount": 1
   }
 }

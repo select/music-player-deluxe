@@ -1,7 +1,7 @@
 {
   "youtubeId": "05A-LRoAzUc",
   "title": "Popol Vuh - Spirit of Peace (1985) FULL ALBUM",
-  "lastFetched": "2025-11-26T11:00:59.395Z",
+  "lastFetched": "2025-11-30T21:22:33.469Z",
   "ai": {
     "title": "Spirit of Peace",
     "artist": "Popol Vuh"
@@ -20,6 +20,25 @@
       "experimental",
       "progressive rock",
       "psychedelic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "40c9f2c1-d54c-4b7b-a2d8-b603c1b73007",
+    "artistMbid": "2f4bf325-2bbb-4d5f-8681-b0fef130bff0",
+    "releaseCount": 2,
+    "genres": [
+      "ambient",
+      "electronic",
+      "krautrock",
+      "rock"
+    ],
+    "artistGenres": [
+      "ambient",
+      "electronic",
+      "krautrock",
+      "neoclassical new age",
+      "new age",
+      "psychedelic folk"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "Tg_Guhd6fEY",
   "title": "I'm Still in Love with You",
   "artist": "Al Green",
-  "lastFetched": "2025-11-23T14:51:23.434Z",
+  "lastFetched": "2025-11-30T22:31:20.256Z",
   "odesli": {
     "amazonMusic": "B01MQK6O7F",
     "amazonStore": "B01MQK6O7F",
@@ -35,6 +35,20 @@
       "70s",
       "al green",
       "smooth soul"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7f8059ff-dc82-4ecd-a888-1799af58000b",
+    "artistMbid": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+    "releaseCount": 1,
+    "artistGenres": [
+      "christmas music",
+      "contemporary gospel",
+      "gospel",
+      "smooth soul",
+      "soul",
+      "soul blues",
+      "southern soul"
     ]
   }
 }

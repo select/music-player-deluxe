@@ -2,7 +2,7 @@
   "youtubeId": "K1b8AhIsSYQ",
   "title": "We Built This City",
   "artist": "Starship",
-  "lastFetched": "2025-11-19T14:25:28.365Z",
+  "lastFetched": "2025-11-30T22:59:12.600Z",
   "odesli": {
     "amazonMusic": "B07L6YLHTD",
     "amazonStore": "B07L6YLHTD",
@@ -28,7 +28,19 @@
       "rock",
       "starship"
     ],
-    "artistMbid": "fbf445c0-11ae-4d3e-af1a-c6e2783e447c"
+    "artistMbid": "fbf445c0-11ae-4d3e-af1a-c6e2783e447c",
+    "trackMbid": "1d530ba0-163b-4d71-abb8-0a326b55ea13",
+    "releaseCount": 2,
+    "artistGenres": [
+      "acid rock",
+      "aor",
+      "arena rock",
+      "hard rock",
+      "pop",
+      "pop rock",
+      "psychedelic rock",
+      "rock"
+    ]
   },
   "lastfm": {
     "id": "Starship/_/We+Built+This+City",

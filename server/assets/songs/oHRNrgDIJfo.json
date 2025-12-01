@@ -2,7 +2,7 @@
   "youtubeId": "oHRNrgDIJfo",
   "title": "Feeling Good",
   "artist": "Nina Simone",
-  "lastFetched": "2025-11-23T19:32:40.361Z",
+  "lastFetched": "2025-11-30T22:01:19.938Z",
   "odesli": {
     "amazonMusic": "B07TZ2FPVZ",
     "amazonStore": "B07TZ2FPVZ",
@@ -30,5 +30,29 @@
     ],
     "title": "Feeling Good",
     "artist": "Nina Simone"
+  },
+  "musicbrainz": {
+    "trackMbid": "96b8213c-48ab-435a-bd70-7f9d491fd107",
+    "artistMbid": "2944824d-4c26-476f-a981-be849081942f",
+    "releaseCount": 25,
+    "genres": [
+      "big band",
+      "dance",
+      "jazz",
+      "pop",
+      "soul jazz",
+      "vocal jazz"
+    ],
+    "artistGenres": [
+      "blues",
+      "classical",
+      "folk",
+      "jazz",
+      "pop soul",
+      "r&b",
+      "soul",
+      "soul jazz",
+      "vocal jazz"
+    ]
   }
 }

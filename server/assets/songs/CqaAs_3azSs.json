@@ -2,7 +2,7 @@
   "youtubeId": "CqaAs_3azSs",
   "title": "Anvil",
   "artist": "Lorn",
-  "lastFetched": "2025-11-29T13:48:11.611Z",
+  "lastFetched": "2025-11-30T19:50:39.598Z",
   "odesli": {
     "amazonMusic": "B0B239S2XN",
     "amazonStore": "B0B239S2XN",
@@ -29,6 +29,22 @@
       "rock",
       "idm",
       "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3cbd3545-f486-4d1e-a387-b2f3d03384df",
+    "artistMbid": "ce45313f-00cd-4748-a7f8-a5b64463a5d8",
+    "releaseCount": 2,
+    "genres": [
+      "ambient",
+      "electronic",
+      "experimental",
+      "idm"
+    ],
+    "artistGenres": [
+      "electronic",
+      "grime",
+      "orchestral"
     ]
   }
 }

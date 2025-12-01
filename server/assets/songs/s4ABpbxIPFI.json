@@ -2,7 +2,7 @@
   "youtubeId": "s4ABpbxIPFI",
   "title": "Electric Worry",
   "artist": "Clutch",
-  "lastFetched": "2025-11-28T12:13:41.677Z",
+  "lastFetched": "2025-11-30T20:24:02.300Z",
   "odesli": {
     "amazonMusic": "B00LS9MUMI",
     "amazonStore": "B00LS9MUMI",
@@ -24,6 +24,17 @@
     "artistMbid": "0cdb0359-5698-487d-9aae-a25fb4dcdc4d",
     "tags": [
       "alt metal",
+      "stoner rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0344cb3f-dde9-4f4a-af02-0db82ad600ec",
+    "artistMbid": "0cdb0359-5698-487d-9aae-a25fb4dcdc4d",
+    "releaseCount": 5,
+    "artistGenres": [
+      "blues rock",
+      "hard rock",
+      "rock",
       "stoner rock"
     ]
   }

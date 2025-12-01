@@ -1,7 +1,7 @@
 {
   "youtubeId": "buqtdpuZxvk",
   "title": "Galaxy Song - Monty Python's The Meaning of Life",
-  "lastFetched": "2025-11-26T10:59:07.114Z",
+  "lastFetched": "2025-11-30T21:13:09.043Z",
   "ai": {
     "title": "Galaxy Song",
     "artist": "Monty Python"
@@ -20,6 +20,20 @@
       "soundtrack",
       "british",
       "monty python"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0739a09c-4a54-4e62-ac61-89243e5e4897",
+    "artistMbid": "4a5c8526-f8ec-43f1-97af-49722ad88394",
+    "releaseCount": 14,
+    "genres": [
+      "comedy",
+      "comedy rock",
+      "pop",
+      "sketch comedy"
+    ],
+    "artistGenres": [
+      "comedy"
     ]
   }
 }

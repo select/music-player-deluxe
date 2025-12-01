@@ -1,7 +1,7 @@
 {
   "youtubeId": "LO40CaFEG5Y",
   "title": "Kangding Ray AMBER DECAY",
-  "lastFetched": "2025-11-27T12:02:26.578Z",
+  "lastFetched": "2025-11-30T20:35:30.714Z",
   "ai": {
     "title": "AMBER DECAY",
     "artist": "Kangding Ray"
@@ -17,6 +17,23 @@
     "tags": [
       "techno",
       "brain-altering lobotomy sexual fantasy"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "29fb2f3b-55cc-47a8-b83b-fbec15697185",
+    "artistMbid": "db9ee7c8-d0b7-4004-972b-62d99dcd2d15",
+    "releaseCount": 3,
+    "genres": [
+      "electronic",
+      "experimental",
+      "glitch",
+      "idm",
+      "techno"
+    ],
+    "artistGenres": [
+      "electronic",
+      "glitch",
+      "techno"
     ]
   }
 }

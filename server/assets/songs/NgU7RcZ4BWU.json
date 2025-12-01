@@ -2,13 +2,24 @@
   "youtubeId": "NgU7RcZ4BWU",
   "title": "Let's Go",
   "artist": "Club Des Belugas",
-  "lastFetched": "2025-11-19T06:47:30.068Z",
+  "lastFetched": "2025-11-30T23:34:16.820Z",
   "lastfm": {
     "id": "Club+Des+Belugas/_/Let%27s+Go",
     "listeners": 4721,
     "playcount": 16114,
     "tags": [
       "jazz fusion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2ba5ab4e-bbea-4ab8-8973-30338e860bf9",
+    "artistMbid": "b22b957a-47a9-4c09-86f5-e3c63afcd786",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electro swing",
+      "jazz",
+      "lounge",
+      "nu jazz"
     ]
   }
 }

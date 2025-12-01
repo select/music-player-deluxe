@@ -2,7 +2,7 @@
   "youtubeId": "jVYKlv-cT7o",
   "title": "Anaesthetist",
   "artist": "Pola & Bryson",
-  "lastFetched": "2025-11-19T16:13:04.025Z",
+  "lastFetched": "2025-11-30T22:49:16.505Z",
   "odesli": {
     "amazonMusic": "B09MNFFNPQ",
     "amazonStore": "B09MNFFNPQ",
@@ -23,6 +23,12 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "47619b12-91e7-4014-8308-6efda7310966"
+    "artistMbid": "47619b12-91e7-4014-8308-6efda7310966",
+    "trackMbid": "0cc279d1-174e-45af-8bbe-6c8a87dd17f2",
+    "releaseCount": 3,
+    "artistGenres": [
+      "drum and bass",
+      "electronic"
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "H-npTb7LlB4",
   "title": "Oh, Lady Be Good",
   "artist": "Benny Goodman Trio",
-  "lastFetched": "2025-11-23T15:00:04.239Z",
+  "lastFetched": "2025-11-30T22:29:04.254Z",
   "odesli": {
     "amazonMusic": "B0013AW6NA",
     "amazonStore": "B0013AW6NA",
@@ -23,6 +23,14 @@
       "jazz",
       "swing",
       "oldies"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ca958455-b55f-4bce-8ab1-7563f1d5f3f6",
+    "artistMbid": "815fc2fe-4ec7-4a9a-995a-3a7f5d64eb17",
+    "releaseCount": 1,
+    "artistGenres": [
+      "swing"
     ]
   }
 }

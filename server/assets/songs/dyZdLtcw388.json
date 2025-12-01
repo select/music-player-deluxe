@@ -2,7 +2,7 @@
   "youtubeId": "dyZdLtcw388",
   "title": "Do What You Wanna Do",
   "artist": "T-Connection",
-  "lastFetched": "2025-11-23T19:31:25.709Z",
+  "lastFetched": "2025-11-30T22:07:38.085Z",
   "odesli": {
     "pandora": "TR:177017933",
     "soundcloud": "t-connection-official/do-what-you-wanna-do-2",
@@ -19,6 +19,15 @@
       "funk",
       "disco",
       "70s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "029a4bb4-315c-4ba9-a7ec-43507d11e2c7",
+    "artistMbid": "e509b240-7d64-43ec-8d0e-c09090393c82",
+    "releaseCount": 4,
+    "artistGenres": [
+      "disco",
+      "funk"
     ]
   }
 }

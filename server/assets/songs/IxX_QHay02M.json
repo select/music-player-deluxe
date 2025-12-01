@@ -2,7 +2,7 @@
   "youtubeId": "IxX_QHay02M",
   "title": "OIIA OIIA (Spinning Cat)",
   "artist": "W&W",
-  "lastFetched": "2025-11-24T00:22:24.680Z",
+  "lastFetched": "2025-11-30T21:40:56.412Z",
   "odesli": {
     "amazonMusic": "B0DSCFPZVB",
     "amazonStore": "B0DSCFPZVB",
@@ -30,6 +30,20 @@
       "meme",
       "lana",
       "oiia oiia"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d12bf5db-b964-475a-ab31-9e3b161491c1",
+    "artistMbid": "5df88386-32bb-48b2-8eff-47a450079075",
+    "releaseCount": 1,
+    "artistGenres": [
+      "big room house",
+      "electronic",
+      "happy hardcore",
+      "hard trance",
+      "progressive trance",
+      "tech trance",
+      "trance"
     ]
   }
 }

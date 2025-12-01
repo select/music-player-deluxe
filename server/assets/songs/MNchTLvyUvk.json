@@ -1,7 +1,7 @@
 {
   "youtubeId": "MNchTLvyUvk",
   "title": "Sofaplanet - Liebficken.avi",
-  "lastFetched": "2025-11-26T10:57:48.912Z",
+  "lastFetched": "2025-11-30T21:05:23.222Z",
   "ai": {
     "title": "Liebficken",
     "artist": "Sofaplanet"
@@ -19,6 +19,16 @@
       "lol",
       "deutsch",
       "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5c23eb7b-f710-4e45-b249-56860903b10e",
+    "artistMbid": "61d0dfc9-788d-48e4-b394-1706dbba9733",
+    "releaseCount": 2,
+    "genres": [
+      "pop",
+      "pop rock",
+      "rock"
     ]
   }
 }

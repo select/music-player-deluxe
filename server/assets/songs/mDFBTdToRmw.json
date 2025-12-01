@@ -2,7 +2,7 @@
   "youtubeId": "mDFBTdToRmw",
   "title": "Skibidi",
   "artist": "Little Big",
-  "lastFetched": "2025-11-29T13:47:21.230Z",
+  "lastFetched": "2025-11-30T19:43:55.835Z",
   "odesli": {
     "amazonMusic": "B0FX5Z671K",
     "amazonStore": "B0FX5Z671K",
@@ -34,6 +34,18 @@
       "rap",
       "house",
       "dance"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "19856a2d-2294-4a9c-b961-629318078634",
+    "artistMbid": "cbe51088-e4d8-463e-9f4e-e83fa64d3f5e",
+    "releaseCount": 3,
+    "artistGenres": [
+      "dance",
+      "dance-pop",
+      "electropop",
+      "pop",
+      "rave"
     ]
   }
 }

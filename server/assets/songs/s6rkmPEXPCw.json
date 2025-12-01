@@ -2,7 +2,7 @@
   "youtubeId": "s6rkmPEXPCw",
   "title": "Be Gay, Do Drugs, Hail Satan",
   "artist": "Super Cassette",
-  "lastFetched": "2025-11-19T10:39:52.842Z",
+  "lastFetched": "2025-11-30T23:18:00.269Z",
   "odesli": {
     "amazonMusic": "B08DCWKTNC",
     "amazonStore": "B08DCWKTNC",
@@ -31,6 +31,8 @@
     ]
   },
   "musicbrainz": {
-    "artistMbid": "4746502c-a0c4-44c3-af4d-827b4d71cf8c"
+    "artistMbid": "4746502c-a0c4-44c3-af4d-827b4d71cf8c",
+    "trackMbid": "babd11ba-f149-4636-9fec-3e621433e3a4",
+    "releaseCount": 1
   }
 }

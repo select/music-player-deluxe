@@ -1,7 +1,7 @@
 {
   "youtubeId": "YhBYykbZWN4",
   "title": "Nitin Sawhney - Koyal (Songbird)",
-  "lastFetched": "2025-11-26T10:57:18.503Z",
+  "lastFetched": "2025-11-30T20:59:49.458Z",
   "ai": {
     "title": "Koyal (Songbird)",
     "artist": "Nitin Sawhney"
@@ -18,6 +18,23 @@
       "beautiful",
       "trip-hop",
       "asian fusion"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ff7faaea-f90f-46e6-9fd9-6255167e2414",
+    "artistMbid": "bc3d74c5-9328-4a1b-8014-3ecdb3dababe",
+    "releaseCount": 2,
+    "genres": [
+      "downtempo",
+      "electronic"
+    ],
+    "artistGenres": [
+      "downtempo",
+      "drum and bass",
+      "electronic",
+      "nu jazz",
+      "r&b",
+      "trip hop"
     ]
   }
 }

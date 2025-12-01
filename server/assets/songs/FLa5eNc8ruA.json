@@ -2,7 +2,7 @@
   "youtubeId": "FLa5eNc8ruA",
   "title": "Power Chords",
   "artist": "Annix",
-  "lastFetched": "2025-11-28T18:36:09.491Z",
+  "lastFetched": "2025-11-30T20:07:19.576Z",
   "odesli": {
     "amazonMusic": "B07CP3GRYM",
     "amazonStore": "B07CP3GRYM",
@@ -21,6 +21,15 @@
     "artistMbid": "b7c65173-4a6c-4add-b468-7e16c0833038",
     "tags": [
       "jump up"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f91d7eb1-8d8c-4367-b7bb-d53aedfb1f67",
+    "artistMbid": "b7c65173-4a6c-4add-b468-7e16c0833038",
+    "releaseCount": 2,
+    "artistGenres": [
+      "drum and bass",
+      "electronic"
     ]
   }
 }

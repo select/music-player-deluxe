@@ -2,7 +2,7 @@
   "youtubeId": "taYfc5cgMPE",
   "title": "Shake It",
   "artist": "Mc Shy D",
-  "lastFetched": "2025-11-23T15:36:46.250Z",
+  "lastFetched": "2025-11-30T22:20:12.674Z",
   "odesli": {
     "amazonMusic": "B07WNXDHMV",
     "amazonStore": "B07WNXDHMV",
@@ -30,6 +30,17 @@
     "tags": [
       "miami bass",
       "rap"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6197fa25-ff49-4ee9-b251-aa138ed18e2b",
+    "artistMbid": "2b5127c0-7ee0-4221-8654-70d8dbf27c1e",
+    "releaseCount": 3,
+    "genres": [
+      "hip hop"
+    ],
+    "artistGenres": [
+      "hip hop"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "NvYxFX-gC-U",
   "title": "Fever",
   "artist": "Buddy Guy",
-  "lastFetched": "2025-11-23T15:06:10.296Z",
+  "lastFetched": "2025-11-30T22:27:44.271Z",
   "lastfm": {
     "title": "Fever",
     "artist": "Buddy Guy",
@@ -12,6 +12,17 @@
     "tags": [
       "jazz",
       "cover"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cd7d1e4b-4ca4-4b6c-ad88-0b70955a1749",
+    "artistMbid": "4336a134-d091-4e54-9967-c7c433db6d4e",
+    "releaseCount": 1,
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "chicago blues",
+      "electric blues"
     ]
   }
 }

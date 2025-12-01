@@ -1,7 +1,7 @@
 {
   "youtubeId": "7EeSjfPQYMs",
   "title": "Everything Everything- To The Blade Lyrics [HQ] 1080p",
-  "lastFetched": "2025-11-27T12:01:47.752Z",
+  "lastFetched": "2025-11-30T20:32:24.361Z",
   "ai": {
     "title": "To The Blade",
     "artist": "Everything Everything"
@@ -19,6 +19,33 @@
       "art rock",
       "art pop",
       "math rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1603126f-42bf-4680-9b2d-15280ffa6086",
+    "artistMbid": "251e10fb-4ed1-4a79-8655-7f22d461a689",
+    "releaseCount": 9,
+    "genres": [
+      "art pop",
+      "indie rock",
+      "progressive pop"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "art pop",
+      "art rock",
+      "dance-pop",
+      "dance-punk",
+      "indie pop",
+      "indie rock",
+      "indietronica",
+      "math pop",
+      "math rock",
+      "new rave",
+      "new wave",
+      "pop",
+      "progressive house",
+      "progressive pop"
     ]
   }
 }

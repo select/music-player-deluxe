@@ -2,7 +2,7 @@
   "youtubeId": "mQfscj6Sfnc",
   "title": "People Don't Get What They Deserve",
   "artist": "Sharon Jones & The Dap-Kings",
-  "lastFetched": "2025-11-16T20:02:48.690Z",
+  "lastFetched": "2025-11-30T23:21:05.286Z",
   "odesli": {
     "amazonMusic": "B07ZN6D21T",
     "amazonStore": "B07ZN6D21T",
@@ -23,5 +23,14 @@
   "ai": {
     "title": "People Don't Get What They Deserve",
     "artist": "Sharon Jones & The Dap-Kings"
+  },
+  "musicbrainz": {
+    "trackMbid": "d30a3372-f238-4057-8a3c-6eca6b140a08",
+    "artistMbid": "8d50cd20-34f2-4abe-ba16-0759ee0fb9f5",
+    "releaseCount": 1,
+    "artistGenres": [
+      "funk",
+      "soul"
+    ]
   }
 }

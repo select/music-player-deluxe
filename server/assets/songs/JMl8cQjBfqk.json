@@ -2,7 +2,7 @@
   "youtubeId": "JMl8cQjBfqk",
   "title": "The Adventure",
   "artist": "Angels & Airwaves",
-  "lastFetched": "2025-11-27T12:03:47.784Z",
+  "lastFetched": "2025-11-30T20:47:45.408Z",
   "odesli": {
     "amazonMusic": "B000WN5M4Y",
     "amazonStore": "B000WN5M4Y",
@@ -30,6 +30,21 @@
       "alternative",
       "rock",
       "punk rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1af9cd94-d0d4-44d1-aab0-be1dd291a7ff",
+    "artistMbid": "05071a7e-e71c-4306-a509-591cd3686893",
+    "releaseCount": 15,
+    "genres": [
+      "alternative rock",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "pop rock",
+      "space rock"
     ]
   }
 }

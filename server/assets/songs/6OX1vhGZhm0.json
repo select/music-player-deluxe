@@ -2,7 +2,7 @@
   "youtubeId": "6OX1vhGZhm0",
   "title": "Ethiopian Sunshower",
   "artist": "Brian Jackson",
-  "lastFetched": "2025-11-23T19:29:48.940Z",
+  "lastFetched": "2025-11-30T22:13:19.490Z",
   "odesli": {
     "amazonMusic": "B0CVKTSN5C",
     "amazonStore": "B0CVKTSN5C",
@@ -25,6 +25,18 @@
       "jazz",
       "soul",
       "flute"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0dce7441-3bcb-4d89-8cb4-b046324cfc81",
+    "artistMbid": "c4cdf239-e646-4339-b064-7a94f5af6583",
+    "releaseCount": 4,
+    "artistGenres": [
+      "funk",
+      "jazz",
+      "jazz-funk",
+      "soul",
+      "soul jazz"
     ]
   }
 }

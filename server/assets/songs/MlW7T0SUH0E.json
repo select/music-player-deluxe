@@ -2,7 +2,7 @@
   "youtubeId": "MlW7T0SUH0E",
   "title": "Chacarron",
   "artist": "El Chombo",
-  "lastFetched": "2025-11-24T00:22:19.462Z",
+  "lastFetched": "2025-11-30T21:42:15.496Z",
   "odesli": {
     "amazonMusic": "B018TBNDLE",
     "amazonStore": "B018TBNDLE",
@@ -26,6 +26,20 @@
       "lol",
       "the worst thing ever to happen to music",
       "this shit is bananas"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "eae58f65-c31c-45e3-9b80-053c6cabc3ab",
+    "artistMbid": "ba74b590-e83f-4f1d-ba35-b9a3c37d54b1",
+    "releaseCount": 8,
+    "genres": [
+      "electronic",
+      "euro house",
+      "pop"
+    ],
+    "artistGenres": [
+      "latin",
+      "reggaeton"
     ]
   }
 }

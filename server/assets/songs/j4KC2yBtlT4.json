@@ -2,7 +2,7 @@
   "youtubeId": "j4KC2yBtlT4",
   "title": "Shallow Love",
   "artist": "LARI LUKE",
-  "lastFetched": "2025-11-23T19:31:28.927Z",
+  "lastFetched": "2025-11-30T22:07:20.880Z",
   "odesli": {
     "amazonMusic": "B0CRRY57RP",
     "amazonStore": "B0CRRY57RP",
@@ -26,6 +26,16 @@
       "electronic",
       "techno",
       "electro pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e01d8772-524b-4271-81ef-d3898af8571e",
+    "artistMbid": "290d1310-d5b5-4e1d-ba62-6f549451ede3",
+    "releaseCount": 1,
+    "artistGenres": [
+      "bass house",
+      "electro",
+      "trap"
     ]
   }
 }

@@ -1,9 +1,29 @@
 {
   "youtubeId": "pzVgIop0f0Y",
   "title": "The doors ft Scott Weiland - Break on through",
-  "lastFetched": "2025-11-29T12:08:00.738Z",
+  "lastFetched": "2025-11-30T19:58:33.980Z",
   "ai": {
     "title": "Break on through",
     "artist": "The doors"
+  },
+  "musicbrainz": {
+    "trackMbid": "eb818b07-4dbb-4b6c-bf80-4c91fc9cd3f6",
+    "artistMbid": "9efff43b-3b29-4082-824e-bc82f646f93d",
+    "releaseCount": 2,
+    "artistGenres": [
+      "acid rock",
+      "art rock",
+      "blues rock",
+      "classic rock",
+      "gothic",
+      "gothic rock",
+      "hard rock",
+      "pop",
+      "proto-punk",
+      "psychedelic",
+      "psychedelic rock",
+      "rock",
+      "rock and roll"
+    ]
   }
 }

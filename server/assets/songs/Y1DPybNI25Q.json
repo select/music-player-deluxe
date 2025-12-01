@@ -1,7 +1,7 @@
 {
   "youtubeId": "Y1DPybNI25Q",
   "title": "Avicii - Wake Me Up ( 1$ Cover )",
-  "lastFetched": "2025-11-28T18:36:51.680Z",
+  "lastFetched": "2025-11-30T20:10:08.089Z",
   "ai": {
     "title": "Wake Me Up",
     "artist": "Avicii"
@@ -22,5 +22,35 @@
     "artist": "Avicii",
     "mbid": "7b9dad93-c09d-476e-bab1-7c95a3d6dcb0",
     "artistMbid": "c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5"
+  },
+  "musicbrainz": {
+    "trackMbid": "b437fbda-9c32-4078-afa2-1afb98ff0d74",
+    "artistMbid": "c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5",
+    "releaseCount": 25,
+    "genres": [
+      "club",
+      "dance",
+      "dance-pop",
+      "electro house",
+      "electronic",
+      "electropop",
+      "festival progressive house",
+      "folk pop",
+      "house",
+      "pop",
+      "progressive house"
+    ],
+    "artistGenres": [
+      "dance-pop",
+      "edm",
+      "electro house",
+      "electronic",
+      "electropop",
+      "festival progressive house",
+      "funky house",
+      "house",
+      "progressive house",
+      "tropical house"
+    ]
   }
 }

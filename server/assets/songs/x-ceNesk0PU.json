@@ -2,7 +2,7 @@
   "youtubeId": "x-ceNesk0PU",
   "title": "Western Jam",
   "artist": "Metrik",
-  "lastFetched": "2025-11-30T17:44:56.815Z",
+  "lastFetched": "2025-11-30T19:36:07.411Z",
   "odesli": {
     "amazonMusic": "B0C3WLS3DK",
     "amazonStore": "B0C3WLS3DK",
@@ -25,6 +25,16 @@
       "liquid funk",
       "neurofunk",
       "dnb"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "04b8b0f6-c763-4726-8187-f48b69907617",
+    "artistMbid": "2744b622-aaaf-467a-8641-d0deffbe43ac",
+    "releaseCount": 2,
+    "artistGenres": [
+      "dancefloor drum and bass",
+      "drum and bass",
+      "electronic"
     ]
   }
 }

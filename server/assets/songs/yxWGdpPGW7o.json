@@ -2,7 +2,7 @@
   "youtubeId": "yxWGdpPGW7o",
   "title": "Prisencolinensinainciusol",
   "artist": "Adriano Celentano",
-  "lastFetched": "2025-11-23T19:34:39.547Z",
+  "lastFetched": "2025-11-30T21:51:25.324Z",
   "odesli": {
     "amazonMusic": "B07MX6HSHS",
     "amazonStore": "B07MX6HSHS",
@@ -27,6 +27,17 @@
       "rock",
       "pop",
       "70s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0d9715e2-0afa-43f2-a19e-13eaf3cf6f96",
+    "artistMbid": "d2b50525-1111-4906-aab6-4553f035f679",
+    "releaseCount": 1,
+    "artistGenres": [
+      "art pop",
+      "pop",
+      "pop rock",
+      "rock and roll"
     ]
   }
 }

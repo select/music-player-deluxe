@@ -1,7 +1,7 @@
 {
   "youtubeId": "6JG0N_tpmZA",
   "title": "Life Of Agony - Weeds [OFFICIAL VIDEO]",
-  "lastFetched": "2025-11-27T12:01:17.736Z",
+  "lastFetched": "2025-11-30T20:29:43.871Z",
   "ai": {
     "title": "Weeds",
     "artist": "Life Of Agony"
@@ -20,6 +20,27 @@
       "alternative rock",
       "metal",
       "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "95938af0-7997-43ed-b5a7-28f87e876d6d",
+    "artistMbid": "d6ff259a-bbb6-4454-8503-80151da5f2db",
+    "releaseCount": 18,
+    "genres": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "crossover thrash",
+      "hard rock",
+      "heavy metal",
+      "metal"
     ]
   }
 }

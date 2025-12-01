@@ -1,7 +1,7 @@
 {
   "youtubeId": "03hC_Ml8aAM",
   "title": "TV On The Radio  Wolf Like Me",
-  "lastFetched": "2025-11-26T10:57:03.863Z",
+  "lastFetched": "2025-11-30T20:56:14.019Z",
   "ai": {
     "title": "Wolf Like Me",
     "artist": "TV On The Radio"
@@ -21,6 +21,25 @@
       "indie",
       "experimental",
       "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a8618514-577d-4bc2-b810-eac5f7f1e542",
+    "artistMbid": "eb872766-98f6-453d-883f-2ae908a18315",
+    "releaseCount": 25,
+    "genres": [
+      "experimental rock",
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "art rock",
+      "electronic",
+      "experimental rock",
+      "indie rock",
+      "noise pop",
+      "psychedelic soul",
+      "shoegaze"
     ]
   }
 }

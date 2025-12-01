@@ -2,7 +2,7 @@
   "youtubeId": "D6ciLtP1B10",
   "title": "Kronan",
   "artist": "The Upbeats",
-  "lastFetched": "2025-11-29T13:47:02.901Z",
+  "lastFetched": "2025-11-30T19:40:56.412Z",
   "odesli": {
     "amazonMusic": "B07YZH197F",
     "amazonStore": "B07YZH197F",
@@ -25,6 +25,18 @@
       "neurofunk",
       "dnb",
       "drum n bass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "06f2951e-febc-46f7-8495-a07c4694078b",
+    "artistMbid": "63630fb9-5d2b-43a5-8e98-b85bb773b258",
+    "releaseCount": 2,
+    "genres": [
+      "neurofunk"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "electronic"
     ]
   }
 }

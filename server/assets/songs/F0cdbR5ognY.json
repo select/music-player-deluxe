@@ -2,7 +2,7 @@
   "youtubeId": "F0cdbR5ognY",
   "title": "DENIAL IS A RIVER",
   "artist": "Doechii",
-  "lastFetched": "2025-11-23T19:34:13.032Z",
+  "lastFetched": "2025-11-30T21:53:45.484Z",
   "odesli": {
     "amazonMusic": "B0DF1SGB7D",
     "amazonStore": "B0DF1SGB7D",
@@ -30,5 +30,14 @@
     "artist": "Doechii",
     "mbid": "f3d19705-92d0-4183-8faf-7203ac8d3979",
     "artistMbid": "9f75277c-b283-4846-ac8c-f932255cd0ac"
+  },
+  "musicbrainz": {
+    "trackMbid": "9a179828-d223-47fb-b29f-ec2e0b14ab72",
+    "artistMbid": "9f75277c-b283-4846-ac8c-f932255cd0ac",
+    "releaseCount": 17,
+    "artistGenres": [
+      "hip hop",
+      "pop rap"
+    ]
   }
 }
