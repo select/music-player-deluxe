@@ -2,7 +2,7 @@
   "youtubeId": "PHzOOQfhPFg",
   "title": "Just A Girl",
   "artist": "No Doubt",
-  "lastFetched": "2025-11-30T21:32:59.232Z",
+  "lastFetched": "2025-12-02T01:11:24.410Z",
   "odesli": {
     "amazonMusic": "B000WOWPYS",
     "amazonStore": "B000WOWPYS",
@@ -55,6 +55,23 @@
       "ska",
       "ska punk",
       "third wave ska"
-    ]
+    ],
+    "releasedAt": "1995-10-10",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "6ImaS2UPY8YsCzytymOXnf",
+      "deezer": "3067393661"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000341672",
+      "discogs": "83614",
+      "spotify": "0cQbJU1aAzvbEmTuljWLlF",
+      "deezer": "79",
+      "lastfm": "No+Doubt",
+      "rateyourmusic": "no_doubt",
+      "soundcloud": "https://soundcloud.com/nodoubt",
+      "wikidata": "Q43259",
+      "youtube": "NoDoubtVEVO"
+    }
   }
 }

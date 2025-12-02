@@ -2,7 +2,7 @@
   "youtubeId": "F3pHwBExfO4",
   "title": "The Door",
   "artist": "Siriusmo",
-  "lastFetched": "2025-11-23T16:33:15.593Z",
+  "lastFetched": "2025-12-02T00:54:46.061Z",
   "odesli": {
     "amazonMusic": "B0B36T44FZ",
     "amazonStore": "B0B36T44FZ",
@@ -27,7 +27,22 @@
       "electro house"
     ],
     "trackMbid": "b08d1bbd-f2be-41f3-a57e-2e5187dab8a4",
-    "artistMbid": "4285ce75-f472-4adb-927d-51534d72b7c3"
+    "artistMbid": "4285ce75-f472-4adb-927d-51534d72b7c3",
+    "releasedAt": "2009-06-26",
+    "artistCountry": "DE",
+    "externalIdsTrack": {
+      "spotify": "4vh7Bb2QjJZ4iO7q6YfCKf",
+      "deezer": "1760795247"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000465578",
+      "bandcamp": "https://siriusmomusic.bandcamp.com/",
+      "discogs": "65059",
+      "spotify": "22680B8sUdq6bL6nQaJfwg",
+      "deezer": "183987",
+      "soundcloud": "https://soundcloud.com/siriusmo",
+      "wikidata": "Q77907"
+    }
   },
   "lastfm": {
     "id": "Siriusmo/_/The+Door",

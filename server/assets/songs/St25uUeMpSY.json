@@ -2,7 +2,7 @@
   "youtubeId": "St25uUeMpSY",
   "title": "Money Music",
   "artist": "Surprise Chef",
-  "lastFetched": "2025-11-23T16:39:41.817Z",
+  "lastFetched": "2025-12-02T01:17:14.446Z",
   "odesli": {
     "amazonMusic": "B0B64727S3",
     "amazonStore": "B0B64727S3",
@@ -27,7 +27,16 @@
       "soul jazz"
     ],
     "trackMbid": "b459fb63-8fc3-4c0b-860a-60836b83ae47",
-    "artistMbid": "be809d9a-5841-4733-ad12-979ad6047a22"
+    "artistMbid": "be809d9a-5841-4733-ad12-979ad6047a22",
+    "releasedAt": "2022-10-14",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "bandcamp": "https://surprisechef.bandcamp.com/",
+      "discogs": "6261356",
+      "spotify": "2Ks1Z1scmEDZfaYaCS7Osj",
+      "deezer": "13968335",
+      "rateyourmusic": "surprise-chef"
+    }
   },
   "lastfm": {
     "id": "Surprise+Chef/_/Money+Music",

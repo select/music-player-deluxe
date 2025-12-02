@@ -2,7 +2,7 @@
   "youtubeId": "LoiyWTtinbk",
   "title": "Masâr",
   "artist": "Le Trio Joubran",
-  "lastFetched": "2025-11-23T16:36:11.430Z",
+  "lastFetched": "2025-12-02T01:05:45.518Z",
   "odesli": {
     "amazonMusic": "B0014LT58W",
     "amazonStore": "B0014LT58W",
@@ -32,7 +32,19 @@
       "oud"
     ],
     "trackMbid": "56681d16-aca3-4889-9b22-6f5e01e116ab",
-    "artistMbid": "a205ab49-6884-4233-bc71-7e6df54512bf"
+    "artistMbid": "a205ab49-6884-4233-bc71-7e6df54512bf",
+    "releasedAt": "2007-10-29",
+    "artistCountry": "PS",
+    "externalIdsArtist": {
+      "allmusic": "mn0001899843",
+      "bandcamp": "https://letriojoubran.bandcamp.com/",
+      "discogs": "1668961",
+      "spotify": "4TKtK5MMFFrQjhPvvu5YRI",
+      "deezer": "56203",
+      "lastfm": "Le+Trio+Joubran",
+      "rateyourmusic": "le_trio_joubran",
+      "wikidata": "Q1810258"
+    }
   },
   "lastfm": {
     "id": "Le+Trio+Joubran/_/Mas%C3%A2r",

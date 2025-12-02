@@ -2,7 +2,7 @@
   "youtubeId": "Q0oIoR9mLwc",
   "title": "Dark Necessities",
   "artist": "Red Hot Chili Peppers",
-  "lastFetched": "2025-11-30T21:24:37.910Z",
+  "lastFetched": "2025-12-02T01:12:28.136Z",
   "odesli": {
     "amazonMusic": "B01F542JLS",
     "amazonStore": "B01F542JLS",
@@ -57,6 +57,21 @@
       "pop rock",
       "rap rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2016-05-05",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000883318",
+      "discogs": "92476",
+      "spotify": "0L8ExT028jH3ddEcZwqJJ5",
+      "deezer": "182",
+      "lastfm": "Red+Hot+Chili+Peppers",
+      "genius": "Red-hot-chili-peppers",
+      "rateyourmusic": "red_hot_chili_peppers",
+      "soundcloud": "https://soundcloud.com/red-hot-chili-peppers-official",
+      "napster": "red-hot-chili-peppers",
+      "wikidata": "Q10708",
+      "youtube": "UCrSorX845CEWXzU4Z7BojjA"
+    }
   }
 }

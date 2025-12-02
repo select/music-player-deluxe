@@ -2,7 +2,7 @@
   "youtubeId": "T5ALPzS0QfQ",
   "title": "SOUL BOSSA NOVA",
   "artist": "Quincy Jones",
-  "lastFetched": "2025-11-30T22:06:44.059Z",
+  "lastFetched": "2025-12-02T01:17:36.625Z",
   "odesli": {
     "amazonMusic": "B01BXVBYFE",
     "amazonStore": "B01BXVBYFE",
@@ -39,6 +39,18 @@
       "pop",
       "soul",
       "swing"
-    ]
+    ],
+    "releasedAt": "1999",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000378624",
+      "discogs": "1852038",
+      "spotify": "3rxIQc9kWT6Ueg4BhnOwRK",
+      "deezer": "978",
+      "genius": "Quincy-jones",
+      "rateyourmusic": "quincy_jones",
+      "wikidata": "Q193645",
+      "youtube": "UCOceWwQ90r9zFN20et7JXAA"
+    }
   }
 }

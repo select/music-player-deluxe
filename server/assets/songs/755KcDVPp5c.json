@@ -2,7 +2,7 @@
   "youtubeId": "755KcDVPp5c",
   "title": "Forever Young",
   "artist": "Madness",
-  "lastFetched": "2025-11-23T16:29:13.385Z",
+  "lastFetched": "2025-12-02T00:42:31.127Z",
   "odesli": {
     "amazonMusic": "B0F4RS8Z8M",
     "amazonStore": "B0F4RS8Z8M",
@@ -33,7 +33,19 @@
       "psychedelic pop"
     ],
     "trackMbid": "9d21d1e5-9868-4bff-8f3e-def348bffd64",
-    "artistMbid": "5f58803e-8c4c-478e-8b51-477f38483ede"
+    "artistMbid": "5f58803e-8c4c-478e-8b51-477f38483ede",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000195874",
+      "discogs": "10388",
+      "spotify": "4AYkFtEBnNnGuoo8HaHErd",
+      "deezer": "1825",
+      "lastfm": "Madness",
+      "genius": "Madness",
+      "rateyourmusic": "madness",
+      "wikidata": "Q745741",
+      "youtube": "UC0iYPVu2agNaaqbnHFPCBFQ"
+    }
   },
   "lastfm": {
     "id": "Madness/_/Forever+Young",

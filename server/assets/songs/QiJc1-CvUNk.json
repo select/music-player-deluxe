@@ -2,7 +2,7 @@
   "youtubeId": "QiJc1-CvUNk",
   "title": "I Don't Wanna Go",
   "artist": "Ballyhoo!",
-  "lastFetched": "2025-11-30T19:42:29.598Z",
+  "lastFetched": "2025-12-02T01:13:14.139Z",
   "odesli": {
     "amazonMusic": "B0D4XGNM1C",
     "amazonStore": "B0D4XGNM1C",
@@ -34,6 +34,17 @@
   "musicbrainz": {
     "trackMbid": "68e61a37-702d-4d28-a967-8b6ed304c32a",
     "artistMbid": "148350d7-1b04-4518-b216-4519eb0bcc08",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2018-09-28",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://ballyhoo.bandcamp.com/",
+      "discogs": "1035955",
+      "spotify": "6py4uFIC7T6RdrZnH6hFYJ",
+      "deezer": "399663",
+      "rateyourmusic": "ballyhoo_",
+      "wikipedia": "Ballyhoo!",
+      "youtube": "UCujv8EveH58NxMZxo65fXYQ"
+    }
   }
 }

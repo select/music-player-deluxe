@@ -2,7 +2,7 @@
   "youtubeId": "FBqYsRdglnY",
   "title": "The Forest",
   "artist": "José González",
-  "lastFetched": "2025-11-23T16:33:27.996Z",
+  "lastFetched": "2025-12-02T00:55:13.279Z",
   "odesli": {
     "amazonMusic": "B00P1AZFVS",
     "amazonStore": "B00P1AZFVS",
@@ -34,7 +34,20 @@
       "singer-songwriter"
     ],
     "trackMbid": "02755536-a9cd-45e3-b4b1-2e001a820943",
-    "artistMbid": "cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8"
+    "artistMbid": "cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000867978",
+      "discogs": "190821",
+      "spotify": "6xrCU6zdcSTsG2hLrojpmI",
+      "deezer": "5613427",
+      "lastfm": "Jos%C3%A9+Gonz%C3%A1lez",
+      "genius": "Jose-gonzalez",
+      "rateyourmusic": "jose_gonzalez",
+      "soundcloud": "https://soundcloud.com/josegonzalez",
+      "wikidata": "Q315107",
+      "youtube": "UCUBq_9jeiAXNoSgNjEwGPAQ"
+    }
   },
   "lastfm": {
     "id": "Jos%C3%A9+Gonz%C3%A1lez/_/The+Forest",

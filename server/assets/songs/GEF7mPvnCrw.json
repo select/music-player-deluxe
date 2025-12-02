@@ -1,7 +1,7 @@
 {
   "youtubeId": "GEF7mPvnCrw",
   "title": "Portico Quartet 'Steepless' with Cornelia // BeatCast Live Series",
-  "lastFetched": "2025-11-30T20:55:01.436Z",
+  "lastFetched": "2025-12-02T00:57:02.146Z",
   "ai": {
     "title": "Steepless",
     "artist": "Portico Quartet"
@@ -24,6 +24,21 @@
       "avant-garde jazz",
       "instrumental",
       "jazz"
-    ]
+    ],
+    "releasedAt": "2012-01-30",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001012019",
+      "bandcamp": "https://porticoquartet.bandcamp.com/",
+      "discogs": "984316",
+      "spotify": "7sYipTRgDXS2JVOPEhRutx",
+      "deezer": "103287",
+      "lastfm": "porticoquartet",
+      "genius": "Portico-quartet",
+      "rateyourmusic": "portico_f1",
+      "soundcloud": "https://soundcloud.com/porticoquartet",
+      "wikidata": "Q3399302",
+      "youtube": "UCwFeYxCdn6nhydQcBlFIOqA"
+    }
   }
 }

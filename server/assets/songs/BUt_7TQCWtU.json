@@ -2,7 +2,7 @@
   "youtubeId": "BUt_7TQCWtU",
   "title": "Brighton Rock",
   "artist": "Queen",
-  "lastFetched": "2025-11-30T20:48:21.354Z",
+  "lastFetched": "2025-12-02T00:48:45.353Z",
   "odesli": {
     "amazonMusic": "B004ZKL92E",
     "amazonStore": "B004ZKL92E",
@@ -47,6 +47,21 @@
       "progressive rock",
       "rock",
       "symphonic rock"
-    ]
+    ],
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000858827",
+      "discogs": "81013",
+      "spotify": "1dfeR4HaWDbWqFHLkxsg1d",
+      "deezer": "412",
+      "lastfm": "Queen",
+      "genius": "Queen",
+      "rateyourmusic": "queen",
+      "soundcloud": "https://soundcloud.com/queen-69312",
+      "napster": "queen",
+      "wikidata": "Q15862",
+      "wikipedia": "Queen_(band)",
+      "youtube": "UCEPMVbUzImPl4p8k4LkGevA"
+    }
   }
 }

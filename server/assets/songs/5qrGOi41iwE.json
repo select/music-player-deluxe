@@ -1,7 +1,7 @@
 {
   "youtubeId": "5qrGOi41iwE",
   "title": "BOGGIE : PARFÜM",
-  "lastFetched": "2025-11-30T19:47:59.749Z",
+  "lastFetched": "2025-12-02T00:40:31.009Z",
   "ai": {
     "title": "PARFÜM",
     "artist": "BOGGIE"
@@ -22,6 +22,16 @@
   "musicbrainz": {
     "trackMbid": "9c8abd8f-d732-4079-a81c-820ce27546f2",
     "artistMbid": "1f4e9eea-79ee-43be-a78c-79fe37661359",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2013-04-13",
+    "artistCountry": "HU",
+    "externalIdsArtist": {
+      "discogs": "4355579",
+      "spotify": "1xgFpK5t7pofLRzut700GV",
+      "deezer": "4685653",
+      "genius": "Boggie",
+      "soundcloud": "https://soundcloud.com/boggieofficial",
+      "wikidata": "Q16240486"
+    }
   }
 }

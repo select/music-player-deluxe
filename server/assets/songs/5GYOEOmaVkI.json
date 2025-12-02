@@ -2,7 +2,7 @@
   "youtubeId": "5GYOEOmaVkI",
   "title": "Dilijans",
   "artist": "Ayizan",
-  "lastFetched": "2025-11-30T22:50:32.965Z",
+  "lastFetched": "2025-12-02T00:39:49.843Z",
   "odesli": {
     "amazonMusic": "B0BRNWHDY2",
     "amazonStore": "B0BRNWHDY2",
@@ -23,6 +23,10 @@
   "musicbrainz": {
     "trackMbid": "43447f3f-c531-4659-aaa2-6535a5d4a674",
     "artistMbid": "b9d69428-2c76-44c0-853a-7ca4a0e537db",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "1984",
+    "externalIdsArtist": {
+      "discogs": "4628937"
+    }
   }
 }

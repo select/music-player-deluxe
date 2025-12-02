@@ -1,0 +1,42 @@
+{
+  "youtubeId": "ljy3vAcQdiQ",
+  "title": "If You Don't, Don't",
+  "artist": "Jimmy Eat World",
+  "lastFetched": "2025-12-01T12:55:54.038Z",
+  "odesli": {
+    "soundcloud": "jimmyeatworld/if-you-dont-dont-xfm-session",
+    "tidal": "165939419",
+    "youtube": "ljy3vAcQdiQ",
+    "youtubeMusic": "ljy3vAcQdiQ"
+  },
+  "lastfm": {
+    "id": "Jimmy+Eat+World/_/If+You+Don%27t,+Don%27t",
+    "listeners": 286442,
+    "playcount": 1648363,
+    "title": "If You Don't, Don't",
+    "artist": "Jimmy Eat World",
+    "mbid": "19d2d6f4-13f8-4d58-8610-c5631adf9d6e",
+    "artistMbid": "bbc5b66b-d037-4f26-aecf-0b129e7f876a",
+    "tags": [
+      "alternative rock",
+      "rock",
+      "alternative",
+      "emo",
+      "indie rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c17f8b65-c2f8-4bc0-b565-c06156ba4987",
+    "artistMbid": "bbc5b66b-d037-4f26-aecf-0b129e7f876a",
+    "releaseCount": 5,
+    "artistGenres": [
+      "alternative rock",
+      "emo",
+      "emo pop",
+      "indie rock",
+      "pop punk",
+      "pop rock",
+      "power pop"
+    ]
+  }
+}

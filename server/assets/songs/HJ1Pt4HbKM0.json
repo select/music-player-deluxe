@@ -3,7 +3,7 @@
   "artist": "Philip Weberndoerfer",
   "duration": 334,
   "youtubeId": "HJ1Pt4HbKM0",
-  "lastFetched": "2025-11-19T04:59:36.889Z",
+  "lastFetched": "2025-12-02T00:58:48.245Z",
   "odesli": {
     "amazonMusic": "B0D7XQ8WX4",
     "amazonStore": "B0D7XQ8WX4",
@@ -25,6 +25,7 @@
   "musicbrainz": {
     "trackMbid": "a172fcf7-13df-4617-b6ed-b7a0feea9556",
     "artistMbid": "ffad6c9b-1fbf-4905-a312-11b61267a06b",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2024-08-23"
   }
 }

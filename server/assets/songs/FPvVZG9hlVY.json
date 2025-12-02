@@ -2,7 +2,7 @@
   "youtubeId": "FPvVZG9hlVY",
   "title": "Columbo",
   "artist": "Wanda",
-  "lastFetched": "2025-11-30T23:14:12.029Z",
+  "lastFetched": "2025-12-02T00:55:49.819Z",
   "odesli": {
     "amazonMusic": "B0742NS3VJ",
     "amazonStore": "B0742NS3VJ",
@@ -30,6 +30,17 @@
     "releaseCount": 10,
     "genres": [
       "pop"
-    ]
+    ],
+    "releasedAt": "2017-08-25",
+    "externalIdsArtist": {
+      "allmusic": "mn0003343159",
+      "discogs": "4107387",
+      "spotify": "6Kg9EvjSnEm5swmrvWCJyB",
+      "deezer": "130529",
+      "lastfm": "Wanda",
+      "rateyourmusic": "wanda-3",
+      "wikidata": "Q18632647",
+      "youtube": "UCVYZWtK_RljRsLlCTCMDoWA"
+    }
   }
 }

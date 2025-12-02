@@ -2,7 +2,7 @@
   "youtubeId": "Cf5O2M5GaEA",
   "title": "The Way I Tend To Be",
   "artist": "Frank Turner",
-  "lastFetched": "2025-11-23T16:31:39.723Z",
+  "lastFetched": "2025-12-02T00:50:29.651Z",
   "odesli": {
     "amazonMusic": "B00CBULU0G",
     "amazonStore": "B00CBULU0G",
@@ -32,7 +32,21 @@
       "singer-songwriter"
     ],
     "trackMbid": "bdb98fe4-9d89-4970-837c-f7ae1c94eed8",
-    "artistMbid": "aca5718f-4f49-4439-b8f6-209db3f11757"
+    "artistMbid": "aca5718f-4f49-4439-b8f6-209db3f11757",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000640073",
+      "bandcamp": "https://frank-turner.bandcamp.com/",
+      "discogs": "534926",
+      "spotify": "27M9shmwhIjRo7WntpT9Rp",
+      "deezer": "258786",
+      "lastfm": "Frank+Turner",
+      "genius": "Frank-turner",
+      "rateyourmusic": "frank_turner",
+      "soundcloud": "https://soundcloud.com/frank-turner-official",
+      "wikidata": "Q451028",
+      "youtube": "UCAlM8z66OSmWn_aVS5z5yMw"
+    }
   },
   "lastfm": {
     "id": "Frank+Turner/_/The+Way+I+Tend+To+Be",

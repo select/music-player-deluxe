@@ -1,7 +1,7 @@
 {
   "youtubeId": "DbwsIHZCVpc",
   "title": "Sleaford Mods - Tarantula Deadly Cargo Lyrics",
-  "lastFetched": "2025-11-30T19:24:11.710Z",
+  "lastFetched": "2025-12-02T00:52:39.459Z",
   "ai": {
     "title": "Tarantula Deadly Cargo",
     "artist": "Sleaford Mods"
@@ -27,6 +27,21 @@
       "electronic",
       "hip hop",
       "post-punk"
-    ]
+    ],
+    "releasedAt": "2015-06",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003160641",
+      "bandcamp": "https://sleafordmods.bandcamp.com/",
+      "discogs": "2994744",
+      "spotify": "0otAqZw8htTsGHfqR491Yh",
+      "deezer": "5326959",
+      "lastfm": "Sleaford+Mods",
+      "genius": "Sleaford-mods",
+      "rateyourmusic": "sleaford_mods",
+      "soundcloud": "https://soundcloud.com/sleafordmods",
+      "napster": "art.129622795",
+      "wikidata": "Q18162306"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "Em0kBub5EAE",
   "title": "Die Sterne - Es Möchte Echt Sein",
-  "lastFetched": "2025-11-30T20:02:06.760Z",
+  "lastFetched": "2025-12-02T00:54:21.000Z",
   "ai": {
     "title": "Es Möchte Echt Sein",
     "artist": "Die Sterne"
@@ -30,6 +30,17 @@
       "hamburger schule",
       "indie pop",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "1994-04",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000526529",
+      "discogs": "3327",
+      "deezer": "145568",
+      "lastfm": "Die+Sterne",
+      "rateyourmusic": "die_sterne",
+      "wikidata": "Q11889",
+      "youtube": "UC3amkvr9DJ7MJFXLjpBb3bg"
+    }
   }
 }

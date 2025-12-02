@@ -2,7 +2,7 @@
   "youtubeId": "Fi7NdeGxRt0",
   "title": "My Woman",
   "artist": "Al Bowlly",
-  "lastFetched": "2025-11-30T22:29:11.307Z",
+  "lastFetched": "2025-12-02T00:56:15.613Z",
   "lastfm": {
     "title": "My Woman",
     "artist": "Al Bowlly",
@@ -23,6 +23,14 @@
   "musicbrainz": {
     "trackMbid": "f6621e94-307f-468b-9955-501a7df21aa8",
     "artistMbid": "f747a4ff-d54f-41b1-be56-97abcf1eb688",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2014-09-25",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000608166",
+      "discogs": "309733",
+      "spotify": "6l3iPTof4l2D75Wawq9w7R",
+      "wikidata": "Q923647"
+    }
   }
 }

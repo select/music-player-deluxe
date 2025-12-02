@@ -2,7 +2,7 @@
   "youtubeId": "RD36GsRheEY",
   "title": "Alter Mann",
   "artist": "KNORKATOR",
-  "lastFetched": "2025-11-30T22:03:22.492Z",
+  "lastFetched": "2025-12-02T01:14:10.476Z",
   "odesli": {
     "amazonMusic": "B07QYGKXPP",
     "amazonStore": "B07QYGKXPP",
@@ -27,6 +27,20 @@
   "musicbrainz": {
     "trackMbid": "88942030-3c07-4ac0-b034-04177ea451be",
     "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
-    "releaseCount": 5
+    "releaseCount": 5,
+    "releasedAt": "2007-02-02",
+    "externalIdsArtist": {
+      "allmusic": "mn0000911512",
+      "bandcamp": "https://knorkator.bandcamp.com/",
+      "discogs": "351541",
+      "spotify": "5iFI4j0w7RbSJmkbI6rqzi",
+      "deezer": "7097",
+      "lastfm": "Knorkator",
+      "genius": "Knorkator",
+      "rateyourmusic": "knorkator",
+      "soundcloud": "https://soundcloud.com/knorkatorofficial",
+      "wikidata": "Q696919",
+      "youtube": "UCDchoKSWD6v70-MOKgBWFXQ"
+    }
   }
 }

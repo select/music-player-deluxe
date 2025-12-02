@@ -2,7 +2,7 @@
   "youtubeId": "5VSl3jfQlY8",
   "title": "Sex in der Wüste",
   "artist": "Ideal",
-  "lastFetched": "2025-11-23T16:28:23.407Z",
+  "lastFetched": "2025-12-02T00:39:57.831Z",
   "odesli": {
     "amazonMusic": "B073JY767N",
     "amazonStore": "B073JY767N",
@@ -28,7 +28,16 @@
       "punk"
     ],
     "trackMbid": "389258b4-9670-3660-bc6e-9ee21d4bb782",
-    "artistMbid": "4e3f4f52-968c-43ec-b165-741122d7cc28"
+    "artistMbid": "4e3f4f52-968c-43ec-b165-741122d7cc28",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "215514",
+      "spotify": "14Oz8FdDXMirWulgEYaLaG",
+      "deezer": "104352232",
+      "lastfm": "Ideal",
+      "wikidata": "Q562091",
+      "youtube": "UCVDX8W80wMYLRS2_Vx_dSVw"
+    }
   },
   "lastfm": {
     "id": "Ideal/_/Sex+in+der+W%C3%BCste",

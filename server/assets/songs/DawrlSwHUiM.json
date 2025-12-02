@@ -2,7 +2,7 @@
   "youtubeId": "DawrlSwHUiM",
   "title": "Numbers on the Boards",
   "artist": "Pusha T",
-  "lastFetched": "2025-11-23T16:32:30.670Z",
+  "lastFetched": "2025-12-02T00:52:36.938Z",
   "odesli": {
     "amazonMusic": "B00HWJXS1K",
     "amazonStore": "B00HWJXS1K",
@@ -36,7 +36,20 @@
       "hip hop"
     ],
     "trackMbid": "8d4fa03b-f5b2-4e42-b0af-3bde582bed00",
-    "artistMbid": "14ecd19f-7121-4192-8549-e5056241a42f"
+    "artistMbid": "14ecd19f-7121-4192-8549-e5056241a42f",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002365827",
+      "discogs": "73899",
+      "spotify": "0ONHkAv9pCAFxb0zJwDNTy",
+      "deezer": "1371731",
+      "lastfm": "Pusha+T",
+      "genius": "Pusha-t",
+      "rateyourmusic": "pusha_t",
+      "soundcloud": "https://soundcloud.com/pushat",
+      "wikidata": "Q2329709",
+      "youtube": "UCoA_cEhtRi07_12Ib_k3yuw"
+    }
   },
   "lastfm": {
     "id": "Pusha+T/_/Numbers+on+the+Boards",

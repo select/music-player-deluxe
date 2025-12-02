@@ -2,7 +2,7 @@
   "youtubeId": "C33e52X4rNA",
   "title": "That B",
   "artist": "Subwave",
-  "lastFetched": "2025-11-30T22:50:06.890Z",
+  "lastFetched": "2025-12-02T00:49:43.802Z",
   "lastfm": {
     "title": "That B",
     "artist": "Subwave",
@@ -23,6 +23,15 @@
     "releaseCount": 1,
     "artistGenres": [
       "drum and bass"
-    ]
+    ],
+    "releasedAt": "2022-04-22",
+    "artistCountry": "RU",
+    "externalIdsArtist": {
+      "discogs": "45382",
+      "spotify": "19UDaks6aMVPdEp8qhO4T9",
+      "deezer": "133237",
+      "lastfm": "Subwave",
+      "soundcloud": "https://soundcloud.com/subwave"
+    }
   }
 }

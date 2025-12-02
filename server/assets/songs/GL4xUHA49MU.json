@@ -2,7 +2,7 @@
   "youtubeId": "GL4xUHA49MU",
   "title": "Make Those Move (Ternion Sound Remix)",
   "artist": "I Am Legion",
-  "lastFetched": "2025-11-30T23:16:49.875Z",
+  "lastFetched": "2025-12-02T00:57:14.537Z",
   "odesli": {
     "amazonMusic": "B0BHDYD3BM",
     "amazonStore": "B0BHDYD3BM",
@@ -37,6 +37,17 @@
       "dubstep",
       "electronic",
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2022-10-14",
+    "artistCountry": "XE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003130367",
+      "discogs": "3376861",
+      "spotify": "2wNMk7BiCiuO7hjGZPZYuJ",
+      "deezer": "4890924",
+      "lastfm": "I+Am+Legion",
+      "soundcloud": "https://soundcloud.com/iamlegionmusic",
+      "youtube": "UCS3_xYova7A94ZKZmzykoxQ"
+    }
   }
 }

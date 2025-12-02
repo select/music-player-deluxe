@@ -2,7 +2,7 @@
   "youtubeId": "QpDq4RfeYsw",
   "title": "You Made Me Want to Live",
   "artist": "Black Label Society",
-  "lastFetched": "2025-11-23T16:38:28.695Z",
+  "lastFetched": "2025-12-02T01:13:27.152Z",
   "odesli": {
     "amazonMusic": "B09B39N335",
     "amazonStore": "B09B39N335",
@@ -34,7 +34,22 @@
       "metal"
     ],
     "trackMbid": "1e77ae7c-02a9-48be-b9bd-12d8f6daf971",
-    "artistMbid": "a8e935c6-3fcc-414c-900c-77e8170e7e7c"
+    "artistMbid": "a8e935c6-3fcc-414c-900c-77e8170e7e7c",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000093565",
+      "bandcamp": "https://blacklabelsocietyband.bandcamp.com/",
+      "discogs": "299863",
+      "spotify": "0zfT626RwO6zN3RDYeRit5",
+      "deezer": "822",
+      "lastfm": "Black+Label+Society",
+      "genius": "Black-label-society",
+      "rateyourmusic": "black_label_society",
+      "soundcloud": "https://soundcloud.com/black-label-society",
+      "napster": "black-label-society",
+      "wikidata": "Q727736",
+      "youtube": "UCuh997EhSaMH44xsN7JC-RA"
+    }
   },
   "lastfm": {
     "id": "Black+Label+Society/_/You+Made+Me+Want+to+Live",

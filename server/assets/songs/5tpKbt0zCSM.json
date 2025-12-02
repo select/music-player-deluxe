@@ -2,7 +2,7 @@
   "youtubeId": "5tpKbt0zCSM",
   "title": "Return to Shiraz",
   "artist": "Eishan Ensemble",
-  "lastFetched": "2025-11-30T21:32:14.281Z",
+  "lastFetched": "2025-12-02T00:40:36.232Z",
   "odesli": {
     "amazonMusic": "B0F4Y4G2TF",
     "amazonStore": "B0F4Y4G2TF",
@@ -37,6 +37,11 @@
       "classical",
       "folk",
       "jazz"
-    ]
+    ],
+    "releasedAt": "2025-05-09",
+    "externalIdsArtist": {
+      "bandcamp": "https://eishanensemble.bandcamp.com/",
+      "discogs": "8162006"
+    }
   }
 }

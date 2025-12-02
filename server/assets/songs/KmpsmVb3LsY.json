@@ -2,7 +2,7 @@
   "youtubeId": "KmpsmVb3LsY",
   "title": "Holland",
   "artist": "Joint Venture",
-  "lastFetched": "2025-11-30T22:24:26.915Z",
+  "lastFetched": "2025-12-02T01:03:54.834Z",
   "lastfm": {
     "title": "Holland",
     "artist": "Joint Venture",
@@ -28,6 +28,13 @@
     "artistGenres": [
       "liedermacher",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "1999-09-10",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "269806",
+      "lastfm": "Joint+Venture",
+      "wikidata": "Q1702554"
+    }
   }
 }

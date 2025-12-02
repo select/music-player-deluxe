@@ -2,7 +2,7 @@
   "youtubeId": "HaHrSEV6l_k",
   "title": "Neon Pill",
   "artist": "Cage The Elephant",
-  "lastFetched": "2025-11-30T22:14:08.875Z",
+  "lastFetched": "2025-12-02T00:59:09.724Z",
   "odesli": {
     "amazonMusic": "B0CWHLMGPY",
     "amazonStore": "B0CWHLMGPY",
@@ -49,6 +49,19 @@
       "psychedelic rock",
       "punk blues",
       "punk rock"
-    ]
+    ],
+    "releasedAt": "2024-01-19",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001061166",
+      "discogs": "1213263",
+      "spotify": "26T3LtbuGT1Fu9m0eRq5X3",
+      "deezer": "214810",
+      "lastfm": "Cage+the+Elephant",
+      "genius": "Cage-the-elephant",
+      "rateyourmusic": "cage_the_elephant",
+      "soundcloud": "https://soundcloud.com/cagetheelephant",
+      "wikidata": "Q68061"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "OhgoOpvMJms",
   "title": "Backwards",
   "artist": "H31R",
-  "lastFetched": "2025-11-19T13:32:50.395Z",
+  "lastFetched": "2025-12-02T01:10:28.493Z",
   "odesli": {
     "amazonMusic": "B0CGDJJ92C",
     "amazonStore": "B0CGDJJ92C",
@@ -24,6 +24,11 @@
   },
   "musicbrainz": {
     "trackMbid": "58ddbcf0-0df9-403e-ba82-4ddb5cf2161f",
-    "artistMbid": "2b0966d0-a671-4c11-97cf-ca629bc82e6c"
+    "artistMbid": "2b0966d0-a671-4c11-97cf-ca629bc82e6c",
+    "releasedAt": "2023-11-17",
+    "externalIdsArtist": {
+      "bandcamp": "https://h31r.bandcamp.com/",
+      "discogs": "8888461"
+    }
   }
 }

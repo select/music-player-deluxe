@@ -2,7 +2,7 @@
   "youtubeId": "RFYVrq7d5v4",
   "title": "Words Left Unspoken",
   "artist": "Jasmine Myra",
-  "lastFetched": "2025-11-30T23:17:48.030Z",
+  "lastFetched": "2025-12-02T01:14:20.827Z",
   "odesli": {
     "amazonMusic": "B09X5XFMKG",
     "amazonStore": "B09X5XFMKG",
@@ -33,6 +33,13 @@
     "releaseCount": 3,
     "artistGenres": [
       "spiritual jazz"
-    ]
+    ],
+    "releasedAt": "2022-07-15",
+    "externalIdsArtist": {
+      "bandcamp": "https://jasminemyra.bandcamp.com/",
+      "discogs": "11514305",
+      "spotify": "3OOAxdMJCLi7iAurDghYyK",
+      "deezer": "164016707"
+    }
   }
 }

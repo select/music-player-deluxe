@@ -2,7 +2,7 @@
   "youtubeId": "FwDhOhoRGyI",
   "title": "Climbing the Corporate Ladder",
   "artist": "Nmesh",
-  "lastFetched": "2025-11-30T21:33:41.050Z",
+  "lastFetched": "2025-12-02T00:56:33.068Z",
   "odesli": {
     "amazonMusic": "B00IK9O41O",
     "amazonStore": "B00IK9O41O",
@@ -55,6 +55,15 @@
       "psychedelic",
       "sound collage",
       "vaporwave"
-    ]
+    ],
+    "releasedAt": "2014-02-27",
+    "externalIdsArtist": {
+      "bandcamp": "https://nmesh.bandcamp.com/",
+      "discogs": "1995953",
+      "spotify": "5XbtWFLdL2sXDUo3oqzn9b",
+      "deezer": "5549118",
+      "rateyourmusic": "nmesh",
+      "soundcloud": "https://soundcloud.com/nmesh"
+    }
   }
 }

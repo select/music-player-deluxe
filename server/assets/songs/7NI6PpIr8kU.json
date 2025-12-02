@@ -1,7 +1,7 @@
 {
   "youtubeId": "7NI6PpIr8kU",
   "title": "13 - Hans Söllner -  Zeugnis",
-  "lastFetched": "2025-11-30T20:12:23.664Z",
+  "lastFetched": "2025-12-02T00:43:04.992Z",
   "ai": {
     "title": "Zeugnis",
     "artist": "Hans Söllner"
@@ -26,6 +26,16 @@
     "releaseCount": 1,
     "artistGenres": [
       "reggae"
-    ]
+    ],
+    "releasedAt": "2005-12-02",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "347959",
+      "deezer": "275287",
+      "rateyourmusic": "hans_sollner",
+      "wikidata": "Q43949",
+      "wikipedia": "Hans_S%C3%B6llner",
+      "youtube": "UC6zpPGyBRCLY4b8JrpWl1MA"
+    }
   }
 }

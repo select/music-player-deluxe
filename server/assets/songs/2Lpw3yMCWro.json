@@ -2,7 +2,7 @@
   "youtubeId": "2Lpw3yMCWro",
   "title": "Knives Out",
   "artist": "Radiohead",
-  "lastFetched": "2025-11-19T16:24:51.211Z",
+  "lastFetched": "2025-12-02T00:36:01.386Z",
   "odesli": {
     "amazonMusic": "B01FFHZC1Y",
     "amazonStore": "B01FFHZC1Y",
@@ -29,7 +29,21 @@
       "indie"
     ],
     "trackMbid": "6a333674-7e9e-4d9b-8b71-7e95a296f4fb",
-    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000326249",
+      "bandcamp": "https://radiohead.bandcamp.com/",
+      "discogs": "3840",
+      "spotify": "4Z8W4fKeB5YxbusRsdQVPb",
+      "deezer": "399",
+      "lastfm": "Radiohead",
+      "genius": "Radiohead",
+      "rateyourmusic": "radiohead",
+      "soundcloud": "https://soundcloud.com/radiohead",
+      "wikidata": "Q44190",
+      "youtube": "UCr_iyUANcn9OX_yy9piYoLw"
+    }
   },
   "lastfm": {
     "id": "Radiohead/_/Knives+Out",

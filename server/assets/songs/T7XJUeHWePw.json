@@ -2,7 +2,7 @@
   "youtubeId": "T7XJUeHWePw",
   "title": "Don't Believe In Christmas",
   "artist": "The Sonics",
-  "lastFetched": "2025-11-30T21:56:21.752Z",
+  "lastFetched": "2025-12-02T01:17:38.556Z",
   "odesli": {
     "amazonMusic": "B00CBWA8X4",
     "amazonStore": "B00CBWA8X4",
@@ -33,6 +33,17 @@
     "artistGenres": [
       "garage rock",
       "proto-punk"
-    ]
+    ],
+    "releasedAt": "1965",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000428717",
+      "discogs": "226982",
+      "spotify": "2g3PKH7Z1Ofn5oGR6oDjLy",
+      "deezer": "2956",
+      "lastfm": "The+Sonics",
+      "rateyourmusic": "the_sonics",
+      "wikidata": "Q904921"
+    }
   }
 }

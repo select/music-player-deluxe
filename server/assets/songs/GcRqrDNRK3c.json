@@ -2,7 +2,7 @@
   "youtubeId": "GcRqrDNRK3c",
   "title": "Fission Chips",
   "artist": "George Fenton",
-  "lastFetched": "2025-11-30T21:39:38.885Z",
+  "lastFetched": "2025-12-02T00:57:49.461Z",
   "odesli": {
     "amazonMusic": "B01N47HTHB",
     "amazonStore": "B01N47HTHB",
@@ -31,6 +31,19 @@
   "musicbrainz": {
     "trackMbid": "f080ea2f-4f89-4732-9519-dd6f52f6c822",
     "artistMbid": "5992eb3a-044c-4739-a385-8bc0e8f7055d",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1980",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000648799",
+      "discogs": "263417",
+      "spotify": "2kxRt0Gyp6B3xX0f5LYQhm",
+      "deezer": "5637",
+      "lastfm": "George+Fenton",
+      "rateyourmusic": "george-fenton",
+      "soundcloud": "https://soundcloud.com/george-fenton-official",
+      "wikidata": "Q920167",
+      "youtube": "UC4RyJXVby5mANPV2sLmdJYw"
+    }
   }
 }

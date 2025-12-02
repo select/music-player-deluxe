@@ -2,7 +2,7 @@
   "youtubeId": "IfFi4Q7ueA8",
   "title": "Slow Dancing in a Burning Room",
   "artist": "John Mayer",
-  "lastFetched": "2025-11-30T19:26:22.265Z",
+  "lastFetched": "2025-12-02T01:00:45.282Z",
   "odesli": {
     "amazonMusic": "B001BKRX94",
     "amazonStore": "B001BKRX94",
@@ -47,6 +47,20 @@
       "pop rock",
       "singer-songwriter",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "2008-07-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000239827",
+      "discogs": "254479",
+      "spotify": "0hEurMDQu99nJRq8pTxO14",
+      "deezer": "598",
+      "lastfm": "John+Mayer",
+      "genius": "John-mayer",
+      "rateyourmusic": "john_mayer",
+      "soundcloud": "https://soundcloud.com/johnmayer",
+      "napster": "john-mayer",
+      "wikidata": "Q215215"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "RYnFIRc0k6E",
   "title": "Rollin' (Air Raid Vehicle)",
   "artist": "Limp Bizkit",
-  "lastFetched": "2025-11-30T20:04:29.724Z",
+  "lastFetched": "2025-12-02T01:15:11.592Z",
   "odesli": {
     "amazonMusic": "B0126TSFNG",
     "amazonStore": "B0126TSFNG",
@@ -49,6 +49,22 @@
       "rap rock",
       "rapcore",
       "rock"
-    ]
+    ],
+    "releasedAt": "2024-09-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000290502",
+      "discogs": "108722",
+      "spotify": "165ZgPlLkK7bf5bDoFc6Sb",
+      "deezer": "93",
+      "lastfm": "Limp+Bizkit",
+      "genius": "Limp-bizkit",
+      "rateyourmusic": "limp_bizkit",
+      "soundcloud": "https://soundcloud.com/limpbizkit",
+      "qobuz": "72882",
+      "napster": "limp-bizkit",
+      "wikidata": "Q240767",
+      "youtube": "UCXe06VQdj4l_LyuUGh__DQg"
+    }
   }
 }

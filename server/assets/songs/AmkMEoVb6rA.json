@@ -2,7 +2,7 @@
   "youtubeId": "AmkMEoVb6rA",
   "title": "Rat Race",
   "artist": "The Specials",
-  "lastFetched": "2025-11-30T21:45:07.731Z",
+  "lastFetched": "2025-12-02T00:47:53.411Z",
   "odesli": {
     "amazonMusic": "B0B3SBVDVC",
     "amazonStore": "B0B3SBVDVC",
@@ -36,6 +36,19 @@
       "reggae",
       "rocksteady",
       "ska"
-    ]
+    ],
+    "releasedAt": "1998-03-24",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000511194",
+      "discogs": "27937",
+      "spotify": "6xnvNmSzmeOE1bLKnYXKW3",
+      "deezer": "1657",
+      "lastfm": "The+Specials",
+      "genius": "The-specials",
+      "rateyourmusic": "the_specials",
+      "napster": "the-specials",
+      "wikidata": "Q19057"
+    }
   }
 }

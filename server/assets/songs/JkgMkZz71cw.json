@@ -1,7 +1,7 @@
 {
   "youtubeId": "JkgMkZz71cw",
   "title": "Balkan Express",
-  "lastFetched": "2025-11-30T21:17:07.913Z",
+  "lastFetched": "2025-12-02T01:02:23.174Z",
   "ai": {
     "title": "Balkan Express",
     "artist": "Gramatik"
@@ -42,6 +42,22 @@
       "hip hop",
       "instrumental hip hop",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2010-07-29",
+    "externalIdsTrack": {
+      "spotify": "3AOYipJWLuQ4qn8tj3pJF3",
+      "deezer": "2596259652"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002609213",
+      "bandcamp": "https://gramatik.bandcamp.com/",
+      "discogs": "1270794",
+      "spotify": "179BpmLkQCRIoU68Co80f5",
+      "deezer": "796051",
+      "lastfm": "Gramatik",
+      "rateyourmusic": "gramatik",
+      "soundcloud": "https://soundcloud.com/gramatik",
+      "wikidata": "Q14623663"
+    }
   }
 }

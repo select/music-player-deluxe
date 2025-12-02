@@ -2,7 +2,7 @@
   "youtubeId": "0YEZiDtnbdA",
   "title": "Mathematik",
   "artist": "Lindemann",
-  "lastFetched": "2025-11-30T19:27:12.394Z",
+  "lastFetched": "2025-12-02T00:33:40.346Z",
   "odesli": {
     "amazonMusic": "B07L9MVSQJ",
     "amazonStore": "B07L9MVSQJ",
@@ -21,7 +21,14 @@
     "title": "Mathematik",
     "artist": "Lindemann",
     "mbid": "0c668d04-17e5-430e-b031-61262ca12c53",
-    "artistMbid": "cc9060e4-ad8a-4b28-a19c-3ec6c93f8236"
+    "artistMbid": "cc9060e4-ad8a-4b28-a19c-3ec6c93f8236",
+    "tags": [
+      "psychedelic",
+      "hip-hop",
+      "industrial metal",
+      "strange",
+      "i want to have sex with this song"
+    ]
   },
   "musicbrainz": {
     "trackMbid": "9ae89a5f-a6f7-47a1-b75d-4cffe8458ed8",
@@ -32,6 +39,20 @@
       "industrial",
       "industrial metal",
       "metal"
-    ]
+    ],
+    "releasedAt": "2019-11-22",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003412930",
+      "discogs": "2494458",
+      "spotify": "65A714FqhSPjoFZeffQbTv",
+      "deezer": "4770475",
+      "lastfm": "Lindemann",
+      "genius": "Lindemann",
+      "rateyourmusic": "lindemann",
+      "soundcloud": "https://soundcloud.com/lindemann-official",
+      "wikidata": "Q19612750",
+      "youtube": "UCXSGc1JJvsCGtMxtuADRQAw"
+    }
   }
 }

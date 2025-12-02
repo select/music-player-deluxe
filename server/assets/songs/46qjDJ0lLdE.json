@@ -2,7 +2,7 @@
   "youtubeId": "46qjDJ0lLdE",
   "title": "Teeth of the Hydra",
   "artist": "Steve Vai",
-  "lastFetched": "2025-11-23T16:27:40.094Z",
+  "lastFetched": "2025-12-02T00:37:56.178Z",
   "odesli": {
     "amazonMusic": "B09MZL8M1Z",
     "amazonStore": "B09MZL8M1Z",
@@ -34,7 +34,22 @@
       "progressive metal"
     ],
     "trackMbid": "514059c2-16d0-4440-a820-60c5efea558c",
-    "artistMbid": "5e7ccd92-6277-451a-aab9-1efd587c50f3"
+    "artistMbid": "5e7ccd92-6277-451a-aab9-1efd587c50f3",
+    "releasedAt": "2025-01-31",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000045475",
+      "discogs": "221183",
+      "spotify": "32Jb1X3wSmmoHj2epZReZA",
+      "deezer": "1902",
+      "lastfm": "Steve+Vai",
+      "genius": "Steve-vai",
+      "rateyourmusic": "steve-vai",
+      "soundcloud": "https://soundcloud.com/stevevaiofficial",
+      "napster": "steve-vai",
+      "wikidata": "Q193397",
+      "youtube": "UCnG97WeJKNGaP_F4qhHLtqw"
+    }
   },
   "lastfm": {
     "id": "Steve+Vai/_/Teeth+of+the+Hydra",

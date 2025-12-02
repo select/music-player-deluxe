@@ -2,7 +2,7 @@
   "youtubeId": "HnIGTIwBWVU",
   "title": "Waterhole",
   "artist": "The Outlaws",
-  "lastFetched": "2025-11-30T20:42:37.857Z",
+  "lastFetched": "2025-12-02T00:59:31.448Z",
   "odesli": {
     "amazonMusic": "B0013D6FTS",
     "amazonStore": "B0013D6FTS",
@@ -27,6 +27,17 @@
       "hard rock",
       "rock",
       "southern rock"
-    ]
+    ],
+    "releasedAt": "2022-09-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000891264",
+      "discogs": "508629",
+      "spotify": "72JEwd3EjDEwTLypkFYJn9",
+      "deezer": "7531",
+      "lastfm": "The+Outlaws",
+      "rateyourmusic": "outlaws",
+      "wikidata": "Q1869710"
+    }
   }
 }

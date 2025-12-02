@@ -3,7 +3,7 @@
   "artist": "Susumu Yokota",
   "duration": 215,
   "youtubeId": "NAq0f6z5cY8",
-  "lastFetched": "2025-11-19T03:16:18.863Z",
+  "lastFetched": "2025-12-02T01:07:46.863Z",
   "odesli": {
     "amazonMusic": "B000X1S9ZE",
     "amazonStore": "B000X1S9ZE",
@@ -27,7 +27,19 @@
     ],
     "trackMbid": "2edc667d-957c-46d5-a206-b6f50494f857",
     "artistMbid": "7b05d6fe-91e8-4cb9-a401-2a13b1578716",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2004-10-27",
+    "artistCountry": "JP",
+    "externalIdsArtist": {
+      "allmusic": "mn0001235137",
+      "bandcamp": "https://susumuyokota.bandcamp.com/",
+      "discogs": "368",
+      "spotify": "3ND5NWoKzlelYDDyWqSQpQ",
+      "deezer": "4466",
+      "lastfm": "Susumu+Yokota",
+      "rateyourmusic": "susumu_yokota",
+      "wikidata": "Q3099802"
+    }
   },
   "lastfm": {
     "id": "Susumu+Yokota/_/Purple+Rose+Minuet",

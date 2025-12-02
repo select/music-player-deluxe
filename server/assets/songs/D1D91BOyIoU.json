@@ -2,7 +2,7 @@
   "youtubeId": "D1D91BOyIoU",
   "title": "Lowride",
   "artist": "Autechre",
-  "lastFetched": "2025-11-30T20:02:20.109Z",
+  "lastFetched": "2025-12-02T00:51:16.857Z",
   "odesli": {
     "amazonMusic": "B001E42FJ0",
     "amazonStore": "B001E42FJ0",
@@ -47,6 +47,18 @@
       "glitch",
       "idm",
       "instrumental"
-    ]
+    ],
+    "releasedAt": "1993-11-29",
+    "externalIdsArtist": {
+      "allmusic": "mn0000759998",
+      "bandcamp": "https://autechre.bandcamp.com/",
+      "discogs": "41",
+      "spotify": "6WH1V41LwGDGmlPUhSZLHO",
+      "deezer": "6374",
+      "lastfm": "Autechre",
+      "rateyourmusic": "autechre",
+      "wikidata": "Q247237",
+      "youtube": "UCBUAlfIrcw1f0c4qGrYn3xA"
+    }
   }
 }

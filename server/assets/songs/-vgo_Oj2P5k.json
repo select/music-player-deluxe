@@ -3,7 +3,7 @@
   "artist": "Frivolous",
   "album": "Meteorology",
   "youtubeId": "-vgo_Oj2P5k",
-  "lastFetched": "2025-11-19T04:55:02.362Z",
+  "lastFetched": "2025-12-02T00:32:44.888Z",
   "odesli": {
     "pandora": "TR:125664485",
     "soundcloud": "2173133124",
@@ -25,6 +25,16 @@
   },
   "musicbrainz": {
     "trackMbid": "1424e87b-eefc-4808-93a3-c5d5fec571ba",
-    "artistMbid": "dd8385e4-fdd6-485c-8e75-b69043e68950"
+    "artistMbid": "dd8385e4-fdd6-485c-8e75-b69043e68950",
+    "releasedAt": "2011-02-01",
+    "externalIds": {
+      "bandcamp": "https://the-real-frivolous.bandcamp.com/",
+      "discogs": "51765"
+    },
+    "externalIdsArtist": {
+      "bandcamp": "https://the-real-frivolous.bandcamp.com/",
+      "discogs": "51765",
+      "deezer": "62856"
+    }
   }
 }

@@ -3,7 +3,7 @@
   "artist": "The Whitest Boy Alive",
   "duration": 219,
   "youtubeId": "89Sqc0r3Tv8",
-  "lastFetched": "2025-11-19T01:37:26.876Z",
+  "lastFetched": "2025-12-02T00:44:20.492Z",
   "odesli": {
     "amazonMusic": "B001RJOU0O",
     "amazonStore": "B001RJOU0O",
@@ -33,7 +33,15 @@
     ],
     "trackMbid": "1ad90592-b681-3554-af3e-9ae202fdcb27",
     "artistMbid": "f83781c8-64f9-4657-85bd-51f74d195cfd",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000578222",
+      "discogs": "172602",
+      "deezer": "5993",
+      "rateyourmusic": "the_whitest_boy_alive",
+      "wikidata": "Q639424"
+    }
   },
   "lastfm": {
     "id": "The+Whitest+Boy+Alive/_/Intentions",

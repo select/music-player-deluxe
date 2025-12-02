@@ -2,7 +2,7 @@
   "youtubeId": "7G2-FPlvY58",
   "title": "Riders on the Storm",
   "artist": "The Doors",
-  "lastFetched": "2025-11-19T07:32:46.969Z",
+  "lastFetched": "2025-12-02T00:42:50.994Z",
   "odesli": {
     "amazonMusic": "B09DZV3DTG",
     "amazonStore": "B09DZV3DTG",
@@ -31,7 +31,21 @@
       "psychedelic"
     ],
     "trackMbid": "e2d62fa2-f1be-49a9-a2af-4589c8206d79",
-    "artistMbid": "9efff43b-3b29-4082-824e-bc82f646f93d"
+    "artistMbid": "9efff43b-3b29-4082-824e-bc82f646f93d",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000114342",
+      "discogs": "56798",
+      "spotify": "22WZ7M8sxp5THdruNY3gXt",
+      "deezer": "847",
+      "lastfm": "The+Doors",
+      "genius": "The-doors",
+      "rateyourmusic": "the_doors",
+      "soundcloud": "https://soundcloud.com/thedoors",
+      "napster": "the-doors",
+      "wikidata": "Q45354",
+      "youtube": "UCdx4iSJpg33jNmd9auQT04Q"
+    }
   },
   "lastfm": {
     "id": "The+Doors/_/Riders+on+the+Storm",

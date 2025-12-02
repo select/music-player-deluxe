@@ -2,7 +2,7 @@
   "youtubeId": "O3tnOVideSo",
   "title": "Baby Be Mine",
   "artist": "Michael Jackson",
-  "lastFetched": "2025-11-19T08:15:07.845Z",
+  "lastFetched": "2025-12-02T01:09:24.879Z",
   "odesli": {
     "amazonMusic": "B0013DA9C2",
     "amazonStore": "B0013DA9C2",
@@ -26,7 +26,22 @@
       "funk"
     ],
     "trackMbid": "170f236a-f9e5-4632-8543-dd0142eaf242",
-    "artistMbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e"
+    "artistMbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+    "releasedAt": "1982-11-29",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000467203",
+      "discogs": "15885",
+      "spotify": "3fMbdgg4jU18AjLCKBhRSm",
+      "deezer": "259",
+      "lastfm": "Michael+Jackson",
+      "genius": "Michael-jackson",
+      "rateyourmusic": "michael_jackson",
+      "soundcloud": "https://soundcloud.com/mjimmortal",
+      "napster": "michael-jackson",
+      "wikidata": "Q2831",
+      "youtube": "UCoIOOL7QKuBhQHVKL8y7BEQ"
+    }
   },
   "lastfm": {
     "id": "Michael+Jackson/_/Baby+Be+Mine",

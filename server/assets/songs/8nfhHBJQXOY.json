@@ -2,7 +2,7 @@
   "youtubeId": "8nfhHBJQXOY",
   "title": "Pompeii MMXXIII",
   "artist": "Bastille",
-  "lastFetched": "2025-11-30T23:00:57.034Z",
+  "lastFetched": "2025-12-02T00:45:19.575Z",
   "odesli": {
     "amazonMusic": "B0CGXH2PNZ",
     "amazonStore": "B0CGXH2PNZ",
@@ -31,6 +31,21 @@
       "indie pop",
       "pop rock",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2023-09-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002825814",
+      "discogs": "2563389",
+      "spotify": "7EQ0qTo7fWT7DPxmxtSYEc",
+      "deezer": "1352097",
+      "lastfm": "Bastille",
+      "genius": "Bastille",
+      "rateyourmusic": "bastille_f1",
+      "soundcloud": "https://soundcloud.com/bastilleuk",
+      "napster": "bastille",
+      "wikidata": "Q689",
+      "youtube": "UC0q_PBWOkFe3SKllFXf3eWw"
+    }
   }
 }

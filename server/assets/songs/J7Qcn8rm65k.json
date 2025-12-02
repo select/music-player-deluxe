@@ -2,7 +2,7 @@
   "youtubeId": "J7Qcn8rm65k",
   "title": "Love Hurts",
   "artist": "Incubus",
-  "lastFetched": "2025-11-23T16:35:05.850Z",
+  "lastFetched": "2025-12-02T01:01:26.963Z",
   "musicbrainz": {
     "artistTags": [
       "alternative metal",
@@ -23,7 +23,21 @@
       "nu metal"
     ],
     "trackMbid": "f10b1761-c35b-472a-8627-6e4ab9a3030e",
-    "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5"
+    "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5",
+    "releasedAt": "2008-06-06",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000772745",
+      "discogs": "149192",
+      "spotify": "3YcBF2ttyueytpXtEzn1Za",
+      "deezer": "693",
+      "lastfm": "Incubus",
+      "genius": "Incubus",
+      "rateyourmusic": "incubus",
+      "soundcloud": "https://soundcloud.com/incubus",
+      "wikidata": "Q1661036",
+      "youtube": "UCjvwoDIrMmlSOINUPZWM3CA"
+    }
   },
   "lastfm": {
     "id": "Incubus/_/Love+Hurts",

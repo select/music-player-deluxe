@@ -2,7 +2,7 @@
   "youtubeId": "GLvohMXgcBo",
   "title": "Under the Bridge",
   "artist": "Red Hot Chili Peppers",
-  "lastFetched": "2025-11-30T23:35:51.032Z",
+  "lastFetched": "2025-12-02T00:57:16.470Z",
   "odesli": {
     "amazonMusic": "B0011Z7J70",
     "amazonStore": "B0011Z7J70",
@@ -41,7 +41,21 @@
       "pop rock",
       "rap rock",
       "rock"
-    ]
+    ],
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000883318",
+      "discogs": "92476",
+      "spotify": "0L8ExT028jH3ddEcZwqJJ5",
+      "deezer": "182",
+      "lastfm": "Red+Hot+Chili+Peppers",
+      "genius": "Red-hot-chili-peppers",
+      "rateyourmusic": "red_hot_chili_peppers",
+      "soundcloud": "https://soundcloud.com/red-hot-chili-peppers-official",
+      "napster": "red-hot-chili-peppers",
+      "wikidata": "Q10708",
+      "youtube": "UCrSorX845CEWXzU4Z7BojjA"
+    }
   },
   "lastfm": {
     "id": "Red+Hot+Chili+Peppers/_/Under+the+Bridge",

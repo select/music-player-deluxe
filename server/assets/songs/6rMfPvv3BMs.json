@@ -2,7 +2,7 @@
   "youtubeId": "6rMfPvv3BMs",
   "title": "Combat Baby",
   "artist": "Metric",
-  "lastFetched": "2025-11-30T19:25:46.160Z",
+  "lastFetched": "2025-12-02T00:29:54.374Z",
   "odesli": {
     "amazonMusic": "B00OE20N66",
     "amazonStore": "B00OE20N66",
@@ -40,6 +40,22 @@
       "new wave",
       "pop",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "2003-07-29",
+    "artistCountry": "CA",
+    "externalIdsTrack": {
+      "bandcamp": "https://oldworldunderground.bandcamp.com/track/combat-baby",
+      "spotify": "7Eb5avO0Ut4p6hAGCaeYEk",
+      "soundcloud": "https://soundcloud.com/metric-band/combat-baby"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000380651",
+      "bandcamp": "https://oldworldunderground.bandcamp.com/",
+      "discogs": "251798",
+      "spotify": "1rCIEwPp5OnXW0ornlSsRl",
+      "lastfm": "Metric",
+      "soundcloud": "metric-band",
+      "youtube": "UCEDAqx7QPrOUV3Bx9aqUjsw"
+    }
   }
 }

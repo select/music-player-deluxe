@@ -1,7 +1,7 @@
 {
   "youtubeId": "-IWzad9VZsI",
   "title": "Black Pussy - Hello",
-  "lastFetched": "2025-11-30T20:46:51.340Z",
+  "lastFetched": "2025-12-02T00:32:06.212Z",
   "ai": {
     "title": "Hello",
     "artist": "Black Pussy"
@@ -33,6 +33,17 @@
       "psychedelic",
       "rock",
       "stoner rock"
-    ]
+    ],
+    "releasedAt": "2015-08-18",
+    "artistCountry": "Portland",
+    "externalIds": {
+      "bandcamp": "https://blackpussy.bandcamp.com/",
+      "discogs": "3505063"
+    },
+    "externalIdsArtist": {
+      "bandcamp": "https://blackpussy.bandcamp.com/",
+      "discogs": "3505063",
+      "rateyourmusic": "black_pussy"
+    }
   }
 }

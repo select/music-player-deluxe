@@ -1,0 +1,31 @@
+{
+  "youtubeId": "yc4ii3V3b-E",
+  "title": "10/15",
+  "artist": "5K HD",
+  "lastFetched": "2025-12-01T12:53:06.841Z",
+  "odesli": {
+    "amazonMusic": "B0B36RMS8T",
+    "amazonStore": "B0B36RMS8T",
+    "pandora": "TR:19632519",
+    "soundcloud": "user-266903350/5k-hd-1015",
+    "tidal": "199845501",
+    "youtube": "yc4ii3V3b-E",
+    "youtubeMusic": "yc4ii3V3b-E"
+  },
+  "lastfm": {
+    "id": "5K+HD/_/10%2F15",
+    "listeners": 3927,
+    "playcount": 13767,
+    "title": "10/15",
+    "artist": "5K HD",
+    "artistMbid": "51840e23-72a6-4731-ad0e-6b177bc45030",
+    "tags": [
+      "fm4"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "abbf9a28-b3a9-4fc1-8f95-9f5b548748ea",
+    "artistMbid": "51840e23-72a6-4731-ad0e-6b177bc45030",
+    "releaseCount": 1
+  }
+}

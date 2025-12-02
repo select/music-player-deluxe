@@ -2,7 +2,7 @@
   "youtubeId": "T8Xb_7YDroQ",
   "title": "Inside Out",
   "artist": "Eve 6",
-  "lastFetched": "2025-11-30T19:57:40.306Z",
+  "lastFetched": "2025-12-02T01:17:43.967Z",
   "odesli": {
     "amazonMusic": "B001BHFZ74",
     "amazonStore": "B001BHFZ74",
@@ -38,6 +38,19 @@
     "releaseCount": 3,
     "artistGenres": [
       "alternative rock"
-    ]
+    ],
+    "releasedAt": "1998",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000147785",
+      "bandcamp": "https://eve6.bandcamp.com/",
+      "discogs": "287818",
+      "spotify": "4Eqd24yS5YcxI8b6Xfuwr8",
+      "deezer": "7301",
+      "lastfm": "EVE+6",
+      "rateyourmusic": "eve_6",
+      "soundcloud": "https://soundcloud.com/eve6official",
+      "wikidata": "Q1381587"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "3F-bl_HMaxM",
   "title": "Bad K.",
   "artist": "Dritte Wahl",
-  "lastFetched": "2025-11-30T23:05:48.038Z",
+  "lastFetched": "2025-12-02T00:37:06.760Z",
   "odesli": {
     "amazonMusic": "B00C1YV6DI",
     "amazonStore": "B00C1YV6DI",
@@ -35,6 +35,18 @@
     "artistGenres": [
       "punk",
       "punk rock"
-    ]
+    ],
+    "releasedAt": "1994",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000976814",
+      "discogs": "137167",
+      "spotify": "7zhSE4Ry047wUsemXtAzq9",
+      "deezer": "8914",
+      "genius": "Dritte-wahl",
+      "rateyourmusic": "dritte_wahl",
+      "wikidata": "Q316998",
+      "youtube": "DRITTEWAHLKANAL"
+    }
   }
 }

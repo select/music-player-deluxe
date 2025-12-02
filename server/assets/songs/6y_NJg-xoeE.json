@@ -2,7 +2,7 @@
   "youtubeId": "6y_NJg-xoeE",
   "title": "New Game",
   "artist": "Nitro Fun",
-  "lastFetched": "2025-11-30T20:27:20.427Z",
+  "lastFetched": "2025-12-02T00:30:09.387Z",
   "odesli": {
     "amazonMusic": "B092RDQ6BK",
     "amazonStore": "B092RDQ6BK",
@@ -45,6 +45,18 @@
       "dubstep",
       "edm",
       "electro house"
-    ]
+    ],
+    "releasedAt": "2014-02-10",
+    "artistCountry": "MX",
+    "externalIdsTrack": {
+      "spotify": "3AINsrnkOKPTGTrO91vwUY",
+      "soundcloud": "https://soundcloud.com/monstercat/nitro-fun-new-game"
+    },
+    "externalIdsArtist": {
+      "discogs": "3620649",
+      "spotify": "4XU5f8nGiPMr6eetud6epC",
+      "soundcloud": "nitrofun",
+      "youtube": "UCvpSayXiUOBk143j1QnP8WQ"
+    }
   }
 }

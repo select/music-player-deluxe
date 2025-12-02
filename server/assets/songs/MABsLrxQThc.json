@@ -1,0 +1,46 @@
+{
+  "youtubeId": "MABsLrxQThc",
+  "title": "El Quinto",
+  "artist": "Radio Tarifa",
+  "lastFetched": "2025-12-02T01:06:11.528Z",
+  "odesli": {
+    "amazonMusic": "B008Y8GZR2",
+    "amazonStore": "B008Y8GZR2",
+    "tidal": "18019319",
+    "youtube": "MABsLrxQThc",
+    "youtubeMusic": "MABsLrxQThc"
+  },
+  "lastfm": {
+    "id": "Radio+Tarifa/_/El+Quinto",
+    "listeners": 3558,
+    "playcount": 11103,
+    "title": "El Quinto",
+    "artist": "Radio Tarifa",
+    "mbid": "681af4cd-156b-3b8b-9994-e09e9a4759ae",
+    "artistMbid": "bc3f048c-0cfe-4d92-b7a9-269e093e2231",
+    "tags": [
+      "sublime",
+      "ethnic",
+      "flamenco",
+      "arabic",
+      "sometimes i have really bad taste"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "644b4e24-e08e-43a2-85a9-e368e05071ab",
+    "artistMbid": "bc3f048c-0cfe-4d92-b7a9-269e093e2231",
+    "releaseCount": 4,
+    "genres": [
+      "latin",
+      "rumba"
+    ],
+    "releasedAt": "2000",
+    "artistCountry": "ES",
+    "externalIdsArtist": {
+      "allmusic": "mn0000326218",
+      "discogs": "241492",
+      "lastfm": "Radio+Tarifa",
+      "wikidata": "Q1755388"
+    }
+  }
+}

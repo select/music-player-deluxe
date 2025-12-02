@@ -2,7 +2,7 @@
   "youtubeId": "A_F6FS-SIM0",
   "title": "Watchlar",
   "artist": "Cocteau Twins",
-  "lastFetched": "2025-11-23T16:30:37.802Z",
+  "lastFetched": "2025-12-02T00:47:27.480Z",
   "odesli": {
     "amazonMusic": "B0137B1B2O",
     "amazonStore": "B0137B1B2O",
@@ -32,7 +32,19 @@
       "gothic rock"
     ],
     "trackMbid": "0768caa4-05bb-38e5-849f-9eb47f9d0ff5",
-    "artistMbid": "000fc734-b7e1-4a01-92d1-f544261b43f5"
+    "artistMbid": "000fc734-b7e1-4a01-92d1-f544261b43f5",
+    "externalIdsArtist": {
+      "allmusic": "mn0000140499",
+      "discogs": "12373",
+      "spotify": "5Wabl1lPdNOeIn0SQ5A1mp",
+      "deezer": "1041",
+      "lastfm": "Cocteau+Twins",
+      "genius": "Cocteau-twins",
+      "rateyourmusic": "cocteau_twins",
+      "soundcloud": "https://soundcloud.com/cocteau-twins",
+      "wikidata": "Q588820",
+      "youtube": "UCle3lHYlHgugefCCr78N1Gw"
+    }
   },
   "lastfm": {
     "id": "Cocteau+Twins/_/Watchlar",

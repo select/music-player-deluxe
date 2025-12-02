@@ -24,7 +24,13 @@
     "title": "Heavy, California",
     "artist": "Jungle",
     "mbid": "0c6fd9d3-7cc9-4364-9b95-a4f591e19e1d",
-    "artistMbid": "3dd6a140-4526-4792-94dd-ba271e6ed041"
+    "artistMbid": "3dd6a140-4526-4792-94dd-ba271e6ed041",
+    "tags": [
+      "electronic",
+      "indie",
+      "british",
+      "fm4"
+    ]
   },
   "musicbrainz": {
     "trackMbid": "db82d2da-9644-411f-979f-39e24938c029",

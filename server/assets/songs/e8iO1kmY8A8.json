@@ -1,0 +1,46 @@
+{
+  "youtubeId": "e8iO1kmY8A8",
+  "title": "Echoes",
+  "artist": "Rodrigo Y Gabriela",
+  "lastFetched": "2025-12-01T13:02:45.822Z",
+  "odesli": {
+    "amazonMusic": "B08W2LC5WF",
+    "amazonStore": "B08W2LC5WF",
+    "appleMusic": "1552488324",
+    "itunes": "1552488324",
+    "pandora": "TR:18133573",
+    "soundcloud": "rodgab/echoes",
+    "spotify": "28W6mGZBRvaZNXPoxteL6G",
+    "tidal": "172659048",
+    "yandex": "49201997",
+    "youtube": "e8iO1kmY8A8",
+    "youtubeMusic": "e8iO1kmY8A8"
+  },
+  "lastfm": {
+    "summary": "\"Echoes\" is a song by English rock band Pink Floyd that features as the sixth (and final) track of their 1971 album \"Meddle\". It was written in 1970 by all four members of the group. Cover versions include the 19-minute cover by Mexican classical guitar duo Rodrigo y Gabrielaon their 2019 album \"Mettavolution\". <a href=\"http://www.last.fm/music/Rodrigo+y+Gabriela/_/Echoes\">Read more on Last.fm</a>.",
+    "id": "Rodrigo+y+Gabriela/_/Echoes",
+    "listeners": 12912,
+    "playcount": 43073,
+    "title": "Echoes",
+    "artist": "Rodrigo y Gabriela",
+    "mbid": "07427d25-8195-4491-a94e-d420a1652146",
+    "artistMbid": "a8ed28e3-5c08-4448-b889-867483e251f5",
+    "tags": [
+      "plex",
+      "cover"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ba7be84a-065a-4580-b00f-eb259a56bfe6",
+    "artistMbid": "a8ed28e3-5c08-4448-b889-867483e251f5",
+    "releaseCount": 23,
+    "artistGenres": [
+      "acoustic rock",
+      "flamenco",
+      "folk rock",
+      "jazz fusion",
+      "latin",
+      "nuevo flamenco"
+    ]
+  }
+}

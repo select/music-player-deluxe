@@ -1,0 +1,56 @@
+{
+  "youtubeId": "uT3SBzmDxGk",
+  "title": "Thunderstruck",
+  "artist": "2CELLOS",
+  "lastFetched": "2025-12-01T12:55:18.615Z",
+  "odesli": {
+    "amazonMusic": "B00PZAD7XM",
+    "amazonStore": "B00PZAD7XM",
+    "anghami": "4994188",
+    "boomplay": "14096518",
+    "deezer": "91315250",
+    "appleMusic": "944398830",
+    "itunes": "944398830",
+    "pandora": "TR:2977059",
+    "soundcloud": "2cellos/thunderstruck",
+    "spotify": "1taz71WL8grTxW6JLiL1i8",
+    "tidal": "38440450",
+    "yandex": "17436909",
+    "youtube": "uT3SBzmDxGk",
+    "youtubeMusic": "uT3SBzmDxGk"
+  },
+  "lastfm": {
+    "id": "2Cellos/_/Thunderstruck",
+    "listeners": 48669,
+    "playcount": 217456,
+    "title": "Thunderstruck",
+    "artist": "2Cellos",
+    "mbid": "83908d8f-bb49-4b19-b48d-b9c28ec474ea",
+    "tags": [
+      "cover",
+      "instrumental",
+      "cello"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "48321c77-95dc-4f06-9fdc-a3f3b250c1bd",
+    "artistMbid": "c8e94c78-0e17-4d9a-b1f6-96e1b22ebe97",
+    "releaseCount": 14,
+    "genres": [
+      "blues",
+      "classical",
+      "instrumental",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "classical",
+      "classical crossover",
+      "instrumental rock",
+      "modern classical",
+      "neoclassical metal",
+      "orchestral",
+      "symphonic rock"
+    ]
+  }
+}

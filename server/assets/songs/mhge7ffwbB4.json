@@ -1,0 +1,48 @@
+{
+  "youtubeId": "mhge7ffwbB4",
+  "title": "Edward Smith",
+  "artist": "Thought Industry",
+  "lastFetched": "2025-12-01T12:56:09.761Z",
+  "odesli": {
+    "amazonMusic": "B005DN5GQ2",
+    "amazonStore": "B005DN5GQ2",
+    "pandora": "TR:6736196",
+    "soundcloud": "thoughtindustry/edward-smith",
+    "tidal": "22772579",
+    "youtube": "mhge7ffwbB4",
+    "youtubeMusic": "mhge7ffwbB4"
+  },
+  "lastfm": {
+    "id": "Thought+Industry/_/Edward+Smith",
+    "listeners": 482,
+    "playcount": 2322,
+    "title": "Edward Smith",
+    "artist": "Thought Industry",
+    "mbid": "ea9d1995-1a66-3ef6-be57-bf91403271a6",
+    "artistMbid": "4cde1c2d-2e19-4eb6-87b9-e8b54dc71e36",
+    "tags": [
+      "progressive metal",
+      "avant-garde metal",
+      "alternative rock",
+      "thrash metal",
+      "11"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0c960658-c5d0-4cc9-8c0b-44a32ee4214a",
+    "artistMbid": "4cde1c2d-2e19-4eb6-87b9-e8b54dc71e36",
+    "releaseCount": 1,
+    "genres": [
+      "acoustic rock",
+      "alternative rock",
+      "avant-garde",
+      "experimental",
+      "rock"
+    ],
+    "artistGenres": [
+      "experimental",
+      "metal",
+      "progressive metal"
+    ]
+  }
+}

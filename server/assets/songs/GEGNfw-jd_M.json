@@ -2,7 +2,7 @@
   "youtubeId": "GEGNfw-jd_M",
   "title": "Song for Insane Times",
   "artist": "Kevin Ayers",
-  "lastFetched": "2025-11-30T21:47:23.337Z",
+  "lastFetched": "2025-12-02T00:57:04.941Z",
   "odesli": {
     "amazonMusic": "B013SSOYA2",
     "amazonStore": "B013SSOYA2",
@@ -47,6 +47,14 @@
       "psychedelic pop",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1969-11",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000080118",
+      "discogs": "45646",
+      "rateyourmusic": "kevin_ayers",
+      "wikidata": "Q280077"
+    }
   }
 }

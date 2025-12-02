@@ -2,7 +2,7 @@
   "youtubeId": "MF8kHWWFO10",
   "title": "Lovers",
   "artist": "seven oops",
-  "lastFetched": "2025-11-30T20:32:56.390Z",
+  "lastFetched": "2025-12-02T01:06:19.973Z",
   "odesli": {
     "amazonMusic": "B008Y0X19A",
     "amazonStore": "B008Y0X19A",
@@ -21,6 +21,12 @@
       "j-pop",
       "pop rock",
       "rock"
-    ]
+    ],
+    "artistCountry": "JP",
+    "externalIdsArtist": {
+      "allmusic": "mn0003087963",
+      "discogs": "6214045",
+      "wikidata": "Q763867"
+    }
   }
 }

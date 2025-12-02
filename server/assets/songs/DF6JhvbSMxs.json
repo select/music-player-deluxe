@@ -2,7 +2,7 @@
   "youtubeId": "DF6JhvbSMxs",
   "title": "Synchronize",
   "artist": "Milky Chance",
-  "lastFetched": "2025-11-23T16:32:11.573Z",
+  "lastFetched": "2025-12-02T00:51:40.719Z",
   "odesli": {
     "amazonMusic": "B09RTH8DRL",
     "amazonStore": "B09RTH8DRL",
@@ -29,7 +29,19 @@
       "indie pop"
     ],
     "trackMbid": "0688736f-cca3-430e-810b-43ae6b0aebc3",
-    "artistMbid": "6d230d98-fb8d-4421-a6e8-daca4e55d53e"
+    "artistMbid": "6d230d98-fb8d-4421-a6e8-daca4e55d53e",
+    "releasedAt": "2025-05-13",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003161113",
+      "discogs": "3370142",
+      "spotify": "1hzfo8twXdOegF3xireCYs",
+      "deezer": "4512147",
+      "lastfm": "Milky+Chance",
+      "rateyourmusic": "milky_chance",
+      "soundcloud": "https://soundcloud.com/milkychance",
+      "wikidata": "Q14623684"
+    }
   },
   "lastfm": {
     "id": "Milky+Chance/_/Synchronize",

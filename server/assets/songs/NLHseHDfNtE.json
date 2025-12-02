@@ -2,7 +2,7 @@
   "youtubeId": "NLHseHDfNtE",
   "title": "Stash",
   "artist": "Passafire",
-  "lastFetched": "2025-11-30T23:00:18.898Z",
+  "lastFetched": "2025-12-02T01:08:06.236Z",
   "odesli": {
     "amazonMusic": "B0CL15KJ3G",
     "amazonStore": "B0CL15KJ3G",
@@ -25,6 +25,12 @@
   "musicbrainz": {
     "artistMbid": "d34516e1-b370-4b97-addd-6363ef0e9ecc",
     "trackMbid": "217a7528-dc46-4552-8e16-1bcda28a4a11",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-10-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "2735122",
+      "spotify": "3Il8w8T0de4sdogo2EQEVJ"
+    }
   }
 }

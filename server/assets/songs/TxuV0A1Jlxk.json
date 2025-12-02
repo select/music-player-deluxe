@@ -2,7 +2,7 @@
   "youtubeId": "TxuV0A1Jlxk",
   "title": "The Age of Revolution",
   "artist": "The Duckworth Lewis Method",
-  "lastFetched": "2025-11-30T20:56:27.272Z",
+  "lastFetched": "2025-12-02T01:18:59.172Z",
   "odesli": {
     "amazonMusic": "B002BN7VQK",
     "amazonStore": "B002BN7VQK",
@@ -41,6 +41,14 @@
       "comedy rock",
       "indie rock",
       "pop rock"
-    ]
+    ],
+    "releasedAt": "2009-07-05",
+    "artistCountry": "IE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002141473",
+      "discogs": "1650820",
+      "wikidata": "Q7731135",
+      "wikipedia": "The_Duckworth_Lewis_Method"
+    }
   }
 }

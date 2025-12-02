@@ -2,7 +2,7 @@
   "youtubeId": "Hd8WNqYZklA",
   "title": "AIE",
   "artist": "Roberta Kelly",
-  "lastFetched": "2025-11-30T22:06:33.868Z",
+  "lastFetched": "2025-12-02T00:59:13.950Z",
   "lastfm": {
     "id": "Roberta+Kelly/_/Aie",
     "listeners": 29468,
@@ -32,6 +32,13 @@
       "disco",
       "gospel",
       "soul"
-    ]
+    ],
+    "releasedAt": "1980",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "41081",
+      "lastfm": "Roberta+Kelly",
+      "wikidata": "Q519899"
+    }
   }
 }

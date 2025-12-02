@@ -2,7 +2,7 @@
   "youtubeId": "2kYziAgA_A4",
   "title": "Black (Trentemøller Remix)",
   "artist": "The Soft Moon",
-  "lastFetched": "2025-11-30T22:52:18.013Z",
+  "lastFetched": "2025-12-02T00:36:40.706Z",
   "odesli": {
     "amazonMusic": "B0FG8ZYMPM",
     "amazonStore": "B0FG8ZYMPM",
@@ -28,6 +28,20 @@
       "dark wave",
       "noise rock",
       "post-punk"
-    ]
+    ],
+    "releasedAt": "2015-01-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002429445",
+      "bandcamp": "https://thesoftmoon.bandcamp.com/",
+      "discogs": "1775650",
+      "spotify": "40HeNm05FEAxGx8gUOV4my",
+      "deezer": "429180",
+      "lastfm": "The+Soft+Moon",
+      "rateyourmusic": "the_soft_moon",
+      "soundcloud": "https://soundcloud.com/thesoftmoon",
+      "wikidata": "Q7765124",
+      "youtube": "UCr4qc4lvlNdCqIv8sWTu_Og"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "TsjcQoJ8W4U",
   "title": "I'm Glad - Captain Beefheart & His Magic Band",
-  "lastFetched": "2025-11-30T20:31:54.593Z",
+  "lastFetched": "2025-12-02T01:18:54.836Z",
   "ai": {
     "title": "I'm Glad",
     "artist": "Captain Beefheart & His Magic Band"
@@ -40,6 +40,17 @@
       "progressive rock",
       "proto-punk",
       "psychedelic rock"
-    ]
+    ],
+    "releasedAt": "1988",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000646816",
+      "discogs": "256164",
+      "spotify": "2k8kY9zHUWxuTtwV4UutHw",
+      "deezer": "2343",
+      "lastfm": "Captain+Beefheart+&+His+Magic+Band",
+      "rateyourmusic": "captain-beefheart-and-the-magic-band",
+      "wikidata": "Q820040"
+    }
   }
 }

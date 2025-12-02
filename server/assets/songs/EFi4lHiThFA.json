@@ -2,7 +2,7 @@
   "youtubeId": "EFi4lHiThFA",
   "title": "Contract",
   "artist": "Gang Of Four",
-  "lastFetched": "2025-11-30T22:05:39.868Z",
+  "lastFetched": "2025-12-02T00:53:30.759Z",
   "odesli": {
     "amazonMusic": "B08XLQGJY9",
     "amazonStore": "B08XLQGJY9",
@@ -52,6 +52,20 @@
       "funk",
       "new wave",
       "post-punk"
-    ]
+    ],
+    "releasedAt": "1979-09-25",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000193231",
+      "discogs": "33929",
+      "spotify": "3AmWjMXXtBJOmNGpUFSOAl",
+      "deezer": "4717",
+      "lastfm": "Gang+of+Four",
+      "genius": "Gang-of-four",
+      "rateyourmusic": "gang_of_four",
+      "soundcloud": "https://soundcloud.com/gangoffourofficial",
+      "napster": "gang-of-four",
+      "wikidata": "Q1130624"
+    }
   }
 }

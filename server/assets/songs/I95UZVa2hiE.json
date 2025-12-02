@@ -2,7 +2,7 @@
   "youtubeId": "I95UZVa2hiE",
   "title": "Vergangenheit",
   "artist": "Die Höchste Eisenbahn",
-  "lastFetched": "2025-11-30T23:07:00.725Z",
+  "lastFetched": "2025-12-02T01:00:03.466Z",
   "odesli": {
     "amazonMusic": "B01NGUSAMQ",
     "amazonStore": "B01NGUSAMQ",
@@ -24,6 +24,15 @@
   "musicbrainz": {
     "artistMbid": "0cb26d00-212f-4009-8b45-691a1311e541",
     "trackMbid": "a25e390a-e901-4949-94bb-7ade20dc77ce",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2012-09-14",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "3548896",
+      "spotify": "2NnrINoqFoPEteJ6m1TR72",
+      "deezer": "6591446",
+      "rateyourmusic": "die_hochste_eisenbahn",
+      "wikidata": "Q15632460"
+    }
   }
 }

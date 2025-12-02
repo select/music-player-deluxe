@@ -1,7 +1,7 @@
 {
   "youtubeId": "Aa2gg7Qwuew",
   "title": "Priestess - Ladykiller",
-  "lastFetched": "2025-11-30T21:14:43.186Z",
+  "lastFetched": "2025-12-02T00:47:31.677Z",
   "ai": {
     "title": "Ladykiller",
     "artist": "Priestess"
@@ -15,6 +15,16 @@
       "metal",
       "rock",
       "stoner rock"
-    ]
+    ],
+    "releasedAt": "2010",
+    "externalIdsArtist": {
+      "allmusic": "mn0000983539",
+      "discogs": "752621",
+      "spotify": "3RxjSLIz5osqOhGarH9lFV",
+      "deezer": "133426",
+      "lastfm": "Priestess",
+      "rateyourmusic": "priestess",
+      "wikidata": "Q1968441"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "SUlcQA4gwww",
   "title": "Love Rehab",
   "artist": "Chaim",
-  "lastFetched": "2025-11-30T23:06:56.459Z",
+  "lastFetched": "2025-12-02T01:16:27.879Z",
   "odesli": {
     "amazonMusic": "B003J0FKT4",
     "amazonStore": "B003J0FKT4",
@@ -38,6 +38,14 @@
       "melodic house",
       "nu disco",
       "techno"
-    ]
+    ],
+    "releasedAt": "2010-04-26",
+    "externalIdsArtist": {
+      "discogs": "689818",
+      "spotify": "2XMpXAQ0B1J95en60YGE3V",
+      "deezer": "15412",
+      "soundcloud": "https://soundcloud.com/chaim_avital",
+      "wikidata": "Q97300469"
+    }
   }
 }

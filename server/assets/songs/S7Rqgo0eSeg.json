@@ -1,0 +1,54 @@
+{
+  "youtubeId": "S7Rqgo0eSeg",
+  "title": "L'APPEL DU VIDE",
+  "artist": "Lorn",
+  "lastFetched": "2025-12-02T01:15:58.696Z",
+  "odesli": {
+    "amazonMusic": "B07H14BLDY",
+    "amazonStore": "B07H14BLDY",
+    "soundcloud": "sharedmem/lorn-lappel-du-vide",
+    "spotify": "0RqeVRIZQCfpVWvYorl5Pg",
+    "tidal": "94664339",
+    "youtube": "S7Rqgo0eSeg",
+    "youtubeMusic": "S7Rqgo0eSeg"
+  },
+  "lastfm": {
+    "id": "Lorn/_/L%27APPEL+DU+VIDE",
+    "listeners": 15832,
+    "playcount": 68544,
+    "title": "L'APPEL DU VIDE",
+    "artist": "Lorn",
+    "mbid": "be5939e5-0a8e-4e42-9ffe-9ba74050208e",
+    "artistMbid": "d7f7f338-7715-4a67-9589-586f70957824",
+    "tags": [
+      "idm",
+      "2018",
+      "electronic",
+      "dubstep",
+      "black metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "721fa4fd-6db9-4d7b-8c9d-d0a02211c2bd",
+    "artistMbid": "ce45313f-00cd-4748-a7f8-a5b64463a5d8",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic",
+      "grime",
+      "orchestral"
+    ],
+    "releasedAt": "2018-09-05",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002450537",
+      "bandcamp": "https://lorn.bandcamp.com/",
+      "discogs": "985862",
+      "spotify": "1PmVyfIR9KtCxbHWuga8E5",
+      "deezer": "394171",
+      "lastfm": "Lorn",
+      "rateyourmusic": "lorn_f1",
+      "soundcloud": "https://soundcloud.com/lorn",
+      "wikidata": "Q2253334"
+    }
+  }
+}

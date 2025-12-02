@@ -2,7 +2,7 @@
   "youtubeId": "MlW7T0SUH0E",
   "title": "Chacarron",
   "artist": "El Chombo",
-  "lastFetched": "2025-11-30T21:42:15.496Z",
+  "lastFetched": "2025-12-02T01:07:07.779Z",
   "odesli": {
     "amazonMusic": "B018TBNDLE",
     "amazonStore": "B018TBNDLE",
@@ -40,6 +40,16 @@
     "artistGenres": [
       "latin",
       "reggaeton"
-    ]
+    ],
+    "releasedAt": "2006-03-10",
+    "artistCountry": "PA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000165498",
+      "discogs": "690727",
+      "spotify": "6iSZjc4kOoKZKiBXK5HbwD",
+      "deezer": "161721",
+      "wikidata": "Q1323972",
+      "youtube": "UCvlDEVR4EEBd3wt30HbamRQ"
+    }
   }
 }

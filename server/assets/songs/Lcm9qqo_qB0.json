@@ -1,7 +1,7 @@
 {
   "youtubeId": "Lcm9qqo_qB0",
   "title": "Megadeth - Tornado of Souls (HD)",
-  "lastFetched": "2025-11-30T20:39:21.954Z",
+  "lastFetched": "2025-12-02T01:05:21.250Z",
   "ai": {
     "title": "Tornado of Souls",
     "artist": "Megadeth"
@@ -41,6 +41,26 @@
       "rock",
       "speed metal",
       "thrash metal"
-    ]
+    ],
+    "releasedAt": "1990-09-21",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "4GMQOjbWshf4Mzphkjg0DJ"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000406294",
+      "bandcamp": "https://officialmegadeth.bandcamp.com/",
+      "discogs": "11770",
+      "spotify": "1Yox196W7bzVNZI7RBaPnf",
+      "deezer": "3487",
+      "lastfm": "Megadeth",
+      "genius": "Megadeth",
+      "rateyourmusic": "megadeth",
+      "soundcloud": "https://soundcloud.com/megadethofficial",
+      "qobuz": "121232",
+      "napster": "art.2011",
+      "wikidata": "Q83431",
+      "youtube": "UCW5bkwocGGoeJjHTJZIEAOw"
+    }
   }
 }

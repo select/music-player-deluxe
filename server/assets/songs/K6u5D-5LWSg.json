@@ -2,7 +2,7 @@
   "youtubeId": "K6u5D-5LWSg",
   "title": "3055",
   "artist": "Ólafur Arnalds",
-  "lastFetched": "2025-11-23T16:35:35.260Z",
+  "lastFetched": "2025-12-02T01:02:51.854Z",
   "odesli": {
     "amazonMusic": "B07N8WHTG2",
     "amazonStore": "B07N8WHTG2",
@@ -56,7 +56,23 @@
       "contemporary classical"
     ],
     "trackMbid": "74dbe19e-0e7f-4921-91d4-e6aa04860159",
-    "artistMbid": "6655955b-1c1e-4bcb-84e4-81bcd9efab30"
+    "artistMbid": "6655955b-1c1e-4bcb-84e4-81bcd9efab30",
+    "releasedAt": "2007-10-29",
+    "artistCountry": "IS",
+    "externalIdsArtist": {
+      "allmusic": "mn0000335052",
+      "bandcamp": "https://olafurarnalds.bandcamp.com/",
+      "discogs": "986636",
+      "spotify": "7E3BRXV9ZbCt5lQTCXMTia",
+      "deezer": "277491",
+      "lastfm": "%C3%93lafur+Arnalds",
+      "genius": "Olafur-arnalds",
+      "rateyourmusic": "olafur-arnalds",
+      "soundcloud": "https://soundcloud.com/olafur-arnalds",
+      "wikidata": "Q292972",
+      "wikipedia": "%C3%93lafur_Arnalds",
+      "youtube": "UCQqNGQtArSUaBfRsFRCyFIA"
+    }
   },
   "lastfm": {
     "id": "%C3%93lafur+Arnalds/_/3055",

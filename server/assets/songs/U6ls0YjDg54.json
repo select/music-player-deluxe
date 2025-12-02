@@ -3,7 +3,7 @@
   "artist": "Fleetwood Mac",
   "duration": 260,
   "youtubeId": "U6ls0YjDg54",
-  "lastFetched": "2025-11-19T05:33:08.659Z",
+  "lastFetched": "2025-12-02T01:19:18.793Z",
   "musicbrainz": {
     "tags": [
       "classic rock",
@@ -14,7 +14,22 @@
     ],
     "trackMbid": "014ab6d9-a494-4a4e-bd4e-2bdc488087de",
     "artistMbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
-    "releaseCount": 12
+    "releaseCount": 12,
+    "releasedAt": "1980-12-08",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000182900",
+      "discogs": "47333",
+      "spotify": "08GQAI4eElDnROBrJRGE0X",
+      "deezer": "169",
+      "lastfm": "Fleetwood+Mac",
+      "genius": "Fleetwood-mac",
+      "rateyourmusic": "fleetwood-mac",
+      "soundcloud": "https://soundcloud.com/fleetwoodmacofficial",
+      "napster": "fleetwood-mac",
+      "wikidata": "Q106648",
+      "youtube": "UCCzULu3prrEaPvM2ZtkJlYQ"
+    }
   },
   "lastfm": {
     "id": "Fleetwood+Mac/_/Dreams",

@@ -2,7 +2,7 @@
   "youtubeId": "EvC4XxnrvaA",
   "title": "Counting Blue Cars",
   "artist": "Dishwalla",
-  "lastFetched": "2025-11-19T07:59:17.667Z",
+  "lastFetched": "2025-12-02T00:54:36.136Z",
   "lastfm": {
     "id": "Dishwalla/_/Counting+Blue+Cars",
     "listeners": 172605,
@@ -17,6 +17,18 @@
   },
   "musicbrainz": {
     "trackMbid": "077ec0b1-ce8a-31e2-9aff-8446ad1b69ef",
-    "artistMbid": "d6cd2165-7877-4ca7-ace9-34dacadaf393"
+    "artistMbid": "d6cd2165-7877-4ca7-ace9-34dacadaf393",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000167931",
+      "discogs": "28973",
+      "spotify": "6F3NW2aC9Sni1FH7QPSLvw",
+      "deezer": "2182",
+      "lastfm": "Dishwalla",
+      "rateyourmusic": "dishwalla",
+      "soundcloud": "https://soundcloud.com/dishwalla",
+      "wikidata": "Q1228689",
+      "youtube": "UC9fkjbg-sCoAGUBAiGaieWQ"
+    }
   }
 }

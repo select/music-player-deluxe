@@ -1,0 +1,46 @@
+{
+  "youtubeId": "So1wWBc-ezU",
+  "title": "Shto Mi E Milo (Macedonia)",
+  "artist": "Kitka",
+  "lastFetched": "2025-12-02T01:17:07.785Z",
+  "odesli": {
+    "amazonMusic": "B000TPQ5BY",
+    "amazonStore": "B000TPQ5BY",
+    "appleMusic": "261061488",
+    "itunes": "261061488",
+    "pandora": "TR:10301125",
+    "spotify": "1v6IL7E19BwRrd7Wveb2uv",
+    "tidal": "9382363",
+    "yandex": "7920047",
+    "youtube": "So1wWBc-ezU",
+    "youtubeMusic": "So1wWBc-ezU"
+  },
+  "lastfm": {
+    "id": "Kitka/_/Shto+Mi+E+Milo+(Macedonia)",
+    "listeners": 1244,
+    "playcount": 4418,
+    "title": "Shto Mi E Milo (Macedonia)",
+    "artist": "Kitka",
+    "mbid": "6d9486d6-6cd2-34e5-9103-5d32d6f6f319",
+    "artistMbid": "6867b083-80e2-400a-8a8c-d4efed64ada1",
+    "tags": [
+      "muymooi",
+      "macedonian",
+      "kimbva",
+      "kvonn faerd etc",
+      "muymooi choral 02"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5f22d439-444b-44c8-9d51-802e22fde0fa",
+    "artistMbid": "4612bd43-25eb-41d9-a7b7-2cacc78b5d78",
+    "releaseCount": 3,
+    "releasedAt": "1999",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://kitka.bandcamp.com/",
+      "discogs": "880282",
+      "wikidata": "Q6418238"
+    }
+  }
+}

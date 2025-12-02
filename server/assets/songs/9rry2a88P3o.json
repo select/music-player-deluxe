@@ -2,7 +2,7 @@
   "youtubeId": "9rry2a88P3o",
   "title": "The Guidelines",
   "artist": "Aceyalone",
-  "lastFetched": "2025-11-30T21:37:11.181Z",
+  "lastFetched": "2025-12-02T00:46:45.606Z",
   "odesli": {
     "amazonMusic": "B01J6WXW02",
     "amazonStore": "B01J6WXW02",
@@ -44,6 +44,18 @@
     "artistGenres": [
       "conscious hip hop",
       "hip hop"
-    ]
+    ],
+    "releasedAt": "1998-04-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000926487",
+      "discogs": "53608",
+      "spotify": "7CaUk9xCxdXAmmqQn3PLR7",
+      "deezer": "237",
+      "lastfm": "Aceyalone",
+      "rateyourmusic": "aceyalone",
+      "soundcloud": "https://soundcloud.com/aceyalone",
+      "wikidata": "Q943219"
+    }
   }
 }

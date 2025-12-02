@@ -2,7 +2,7 @@
   "youtubeId": "-y9Q7ud7Or0",
   "title": "Many Rivers To Cross",
   "artist": "Jimmy Cliff",
-  "lastFetched": "2025-11-30T21:28:10.266Z",
+  "lastFetched": "2025-12-02T00:32:50.041Z",
   "odesli": {
     "amazonMusic": "B08L3VW8R9",
     "amazonStore": "B08L3VW8R9",
@@ -44,6 +44,23 @@
       "roots reggae",
       "ska",
       "soul"
-    ]
+    ],
+    "releasedAt": "1995-12-05",
+    "artistCountry": "JM",
+    "externalIds": {
+      "allmusic": "mn0000295276",
+      "discogs": "63019",
+      "spotify": "3rJ3m1tM6vUgiWLjfV8sRf",
+      "youtube": "UC0XgKIPiuGMQNS9TXlN8b1g"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000295276",
+      "discogs": "63019",
+      "spotify": "3rJ3m1tM6vUgiWLjfV8sRf",
+      "deezer": "2425",
+      "rateyourmusic": "jimmy-cliff",
+      "wikidata": "Q109063",
+      "youtube": "UC0XgKIPiuGMQNS9TXlN8b1g"
+    }
   }
 }

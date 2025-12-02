@@ -2,7 +2,7 @@
   "youtubeId": "PL82vhL_h2w",
   "title": "That Healin' Feelin'",
   "artist": "Horace Silver",
-  "lastFetched": "2025-11-23T16:37:40.424Z",
+  "lastFetched": "2025-12-02T01:11:29.688Z",
   "odesli": {
     "amazonMusic": "B0CTVKWV3M",
     "amazonStore": "B0CTVKWV3M",
@@ -31,7 +31,16 @@
       "soul jazz"
     ],
     "trackMbid": "0978e84f-6d39-3023-93cf-0e406be95a4d",
-    "artistMbid": "d185d986-ee96-4fd3-bd61-8c848a4765b6"
+    "artistMbid": "d185d986-ee96-4fd3-bd61-8c848a4765b6",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000267354",
+      "discogs": "29973",
+      "spotify": "5ZATfKurLqflrBhv2FLht5",
+      "deezer": "3963",
+      "rateyourmusic": "horace_silver",
+      "wikidata": "Q365560"
+    }
   },
   "lastfm": {
     "id": "Horace+Silver/_/That+Healin%27+Feelin%27",

@@ -2,7 +2,7 @@
   "youtubeId": "5qICfHKO3dU",
   "title": "Take This Book And Burn It",
   "artist": "Neroche",
-  "lastFetched": "2025-11-19T14:10:09.926Z",
+  "lastFetched": "2025-12-02T00:40:28.720Z",
   "lastfm": {
     "id": "Neroche/_/Take+This+Book+And+Burn+It",
     "listeners": 1582,
@@ -16,6 +16,12 @@
   },
   "musicbrainz": {
     "trackMbid": "04a90818-1756-4eb1-a589-38e06286c6ac",
-    "artistMbid": "4d65b85d-9927-4eff-ad89-d1645ed0b4e5"
+    "artistMbid": "4d65b85d-9927-4eff-ad89-d1645ed0b4e5",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://neroche.bandcamp.com/",
+      "discogs": "3670330",
+      "soundcloud": "https://soundcloud.com/nerocheproductions"
+    }
   }
 }

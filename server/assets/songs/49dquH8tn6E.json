@@ -2,7 +2,7 @@
   "youtubeId": "49dquH8tn6E",
   "title": "Without You (Remastered 2010)",
   "artist": "Badfinger",
-  "lastFetched": "2025-11-30T21:16:47.165Z",
+  "lastFetched": "2025-12-02T00:38:00.796Z",
   "odesli": {
     "amazonMusic": "B00GXSBDZ4",
     "amazonStore": "B00GXSBDZ4",
@@ -36,6 +36,19 @@
       "blues rock",
       "pop rock",
       "power pop"
-    ]
+    ],
+    "releasedAt": "2017-09-15",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000064303",
+      "discogs": "282064",
+      "spotify": "4pJCawaKSZ40EnxN0YEYw3",
+      "deezer": "8257",
+      "lastfm": "Badfinger",
+      "genius": "Badfinger",
+      "rateyourmusic": "badfinger",
+      "soundcloud": "https://soundcloud.com/badfingermusic",
+      "wikidata": "Q798993"
+    }
   }
 }

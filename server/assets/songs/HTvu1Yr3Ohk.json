@@ -1,7 +1,7 @@
 {
   "youtubeId": "HTvu1Yr3Ohk",
   "title": "Trapt - Headstrong (Official Music Video) | Warner Vault",
-  "lastFetched": "2025-11-30T21:08:13.572Z",
+  "lastFetched": "2025-12-02T00:59:04.827Z",
   "ai": {
     "title": "Headstrong",
     "artist": "Trapt"
@@ -44,6 +44,19 @@
       "hard rock",
       "nu metal",
       "post-grunge"
-    ]
+    ],
+    "releasedAt": "2002-11-05",
+    "externalIdsArtist": {
+      "allmusic": "mn0000015262",
+      "discogs": "343052",
+      "spotify": "1UdQqCUR7RwB9YYJONwbdM",
+      "deezer": "2137",
+      "lastfm": "Trapt",
+      "genius": "Trapt",
+      "rateyourmusic": "trapt",
+      "soundcloud": "https://soundcloud.com/traptofficial",
+      "wikidata": "Q1143223",
+      "youtube": "UCYoZFI1iNlWnmHJZkHF3SsQ"
+    }
   }
 }

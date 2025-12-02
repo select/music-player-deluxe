@@ -1,0 +1,68 @@
+{
+  "youtubeId": "32kYH6XZrIo",
+  "title": "Familiar",
+  "artist": "Agnes Obel",
+  "lastFetched": "2025-12-02T00:24:11.728Z",
+  "odesli": {
+    "amazonMusic": "B073SVTMC2",
+    "amazonStore": "B073SVTMC2",
+    "audiomack": "7081194",
+    "boomplay": "37324448",
+    "deezer": "134428552",
+    "appleMusic": "1132115987",
+    "itunes": "1132115987",
+    "napster": "tra.231395414",
+    "pandora": "TR:5671209",
+    "soundcloud": "agnes-obel-1/familiar",
+    "spotify": "2EWnKuspetOzgfBtmaNZvJ",
+    "tidal": "66288724",
+    "yandex": "46174148",
+    "youtube": "32kYH6XZrIo",
+    "youtubeMusic": "32kYH6XZrIo"
+  },
+  "lastfm": {
+    "id": "Agnes+Obel/_/Familiar",
+    "listeners": 182944,
+    "playcount": 1536654,
+    "title": "Familiar",
+    "artist": "Agnes Obel",
+    "mbid": "d2c4c87c-844c-4212-83fb-174c775161a3",
+    "artistMbid": "e3c4c4af-f83b-4168-84cb-898009dd0447",
+    "tags": [
+      "chillout",
+      "berlin",
+      "indie",
+      "pop",
+      "piano"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d2c4c87c-844c-4212-83fb-174c775161a3",
+    "artistMbid": "e3c4c4af-f83b-4168-84cb-898009dd0447",
+    "releaseCount": 13,
+    "genres": [
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "ambient pop",
+      "folk",
+      "pop"
+    ],
+    "releasedAt": "2016-06-29",
+    "artistCountry": "DK",
+    "externalIdsTrack": {
+      "bandcamp": "https://agnesobel.bandcamp.com/track/familiar",
+      "spotify": "7AAbVXD0Wxul9xxlJpn7rS"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002487710",
+      "bandcamp": "https://agnesobel.bandcamp.com/",
+      "discogs": "1679804",
+      "spotify": "1rKrEdI6GKirxWHxIUPYms",
+      "lastfm": "Agnes+Obel",
+      "soundcloud": "agnes-obel-1",
+      "youtube": "UC23qupoDRn9YOAVzeoxjOQA"
+    }
+  }
+}

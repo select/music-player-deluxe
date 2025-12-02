@@ -1,0 +1,45 @@
+{
+  "youtubeId": "nt0MkotVIEc",
+  "title": "I Come With Knives",
+  "artist": "IAMX",
+  "lastFetched": "2025-12-01T13:00:43.418Z",
+  "odesli": {
+    "amazonMusic": "B09PQHKY8M",
+    "amazonStore": "B09PQHKY8M",
+    "audiomack": "16549571",
+    "anghami": "1039574828",
+    "boomplay": "2737696",
+    "deezer": "1610601732",
+    "appleMusic": "1603338474",
+    "itunes": "1603338474",
+    "pandora": "TR:53631139",
+    "soundcloud": "iamx-official/i-come-with-knives-album",
+    "spotify": "2FnukbZsuLUY3BK6lWtx1K",
+    "tidal": "211271128",
+    "youtube": "nt0MkotVIEc",
+    "youtubeMusic": "nt0MkotVIEc"
+  },
+  "lastfm": {
+    "id": "IAMX/_/I+Come+with+Knives",
+    "listeners": 93043,
+    "playcount": 888393,
+    "title": "I Come with Knives",
+    "artist": "IAMX",
+    "mbid": "f5b49448-6435-4000-8edb-cf1023701f13",
+    "artistMbid": "e4d05411-9a3d-452e-8b0e-a55b86b7cf85",
+    "tags": [
+      "electronic",
+      "indie",
+      "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f5b49448-6435-4000-8edb-cf1023701f13",
+    "artistMbid": "e4d05411-9a3d-452e-8b0e-a55b86b7cf85",
+    "releaseCount": 3,
+    "artistGenres": [
+      "electronic",
+      "synth-pop"
+    ]
+  }
+}

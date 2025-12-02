@@ -2,7 +2,7 @@
   "youtubeId": "O52jAYa4Pm8",
   "title": "Psycho Killer",
   "artist": "Talking Heads",
-  "lastFetched": "2025-11-30T23:27:06.808Z",
+  "lastFetched": "2025-12-02T01:09:29.881Z",
   "musicbrainz": {
     "tags": [
       "new wave",
@@ -30,7 +30,20 @@
       "pop rock",
       "post-punk",
       "rock"
-    ]
+    ],
+    "releasedAt": "1982",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000131650",
+      "discogs": "22854",
+      "spotify": "2x9SpqnPi8rlE9pjHBwmSC",
+      "deezer": "181",
+      "lastfm": "Talking+Heads",
+      "genius": "Talking-heads",
+      "rateyourmusic": "talking_heads",
+      "wikidata": "Q205001",
+      "youtube": "UCCmr_pJ7az1JfWUiujsiHWg"
+    }
   },
   "lastfm": {
     "id": "Talking+Heads/_/Psycho+Killer",

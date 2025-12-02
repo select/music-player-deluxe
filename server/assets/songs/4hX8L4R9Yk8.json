@@ -2,7 +2,7 @@
   "youtubeId": "4hX8L4R9Yk8",
   "title": "Computerliebe",
   "artist": "Das Modul",
-  "lastFetched": "2025-11-19T07:36:50.580Z",
+  "lastFetched": "2025-12-02T00:39:03.942Z",
   "lastfm": {
     "id": "Das+Modul/_/Computerliebe",
     "listeners": 5203,
@@ -16,6 +16,13 @@
   },
   "musicbrainz": {
     "trackMbid": "18e1aa74-d98b-40a6-a56c-da2b29afa64b",
-    "artistMbid": "e7f9a6fa-dfb2-45fc-a705-d26b2aa96e2a"
+    "artistMbid": "e7f9a6fa-dfb2-45fc-a705-d26b2aa96e2a",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001903190",
+      "discogs": "33774",
+      "lastfm": "Das+Modul",
+      "wikidata": "Q1169787"
+    }
   }
 }

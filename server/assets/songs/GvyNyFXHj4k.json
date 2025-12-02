@@ -1,7 +1,7 @@
 {
   "youtubeId": "GvyNyFXHj4k",
   "title": "Queens of the Stone Age - The Way You Used to Do (Audio)",
-  "lastFetched": "2025-11-30T21:08:02.925Z",
+  "lastFetched": "2025-12-02T00:58:25.222Z",
   "ai": {
     "title": "The Way You Used to Do",
     "artist": "Queens of the Stone Age"
@@ -36,6 +36,23 @@
       "hard rock",
       "rock",
       "stoner rock"
-    ]
+    ],
+    "releasedAt": "2017-06-15",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "52LL3IFB8N3PaJmoZ8Xii1"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000376422",
+      "discogs": "56168",
+      "spotify": "4pejUc4iciQfgdX6OKulQn",
+      "deezer": "1177",
+      "lastfm": "Queens+of+the+Stone+Age",
+      "genius": "Queens-of-the-stone-age",
+      "rateyourmusic": "queens-of-the-stone-age",
+      "soundcloud": "https://soundcloud.com/qotsa",
+      "wikidata": "Q1243718",
+      "youtube": "UCcYgNw9ne8v1cxcAD_sIOWQ"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "PkJ6OUstaIA",
   "title": "Les Cowboys Fringants - La Reine (sous-titres français)",
-  "lastFetched": "2025-11-30T20:35:25.140Z",
+  "lastFetched": "2025-12-02T01:12:13.509Z",
   "ai": {
     "title": "La Reine",
     "artist": "Les Cowboys Fringants"
@@ -32,6 +32,15 @@
       "folk rock",
       "néo-trad",
       "rock"
-    ]
+    ],
+    "releasedAt": "2007-06-26",
+    "externalIdsArtist": {
+      "discogs": "1317168",
+      "youtube": "UCZuEgzPq-NvOpd9NO0BGV5Q",
+      "spotify": "54BZLczVMsW9sPSIcUst1a",
+      "deezer": "1558",
+      "genius": "Les-cowboys-fringants",
+      "wikidata": "Q681234"
+    }
   }
 }

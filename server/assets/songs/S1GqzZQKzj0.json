@@ -1,7 +1,7 @@
 {
   "youtubeId": "S1GqzZQKzj0",
   "title": "Tears for Fears - Johnny Panic And The Bible Of Dreams (Mix two)",
-  "lastFetched": "2025-11-30T20:22:36.578Z",
+  "lastFetched": "2025-12-02T01:15:50.709Z",
   "ai": {
     "title": "Johnny Panic And The Bible Of Dreams (Mix two)",
     "artist": "Tears for Fears"
@@ -31,6 +31,21 @@
       "psychedelic pop",
       "sophisti-pop",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2020-10-09",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000019892",
+      "discogs": "19814",
+      "spotify": "4bthk9UfsYUYdcFyqxmSUU",
+      "deezer": "1192",
+      "lastfm": "Tears+for+Fears",
+      "genius": "Tears-for-fears",
+      "rateyourmusic": "tears-for-fears",
+      "soundcloud": "https://soundcloud.com/tearsforfearsmusic",
+      "napster": "tears-for-fears",
+      "wikidata": "Q269091",
+      "youtube": "UCcozhiTOkGB1HCOgdBlEFPA"
+    }
   }
 }

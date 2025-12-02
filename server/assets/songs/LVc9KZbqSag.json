@@ -2,7 +2,7 @@
   "youtubeId": "LVc9KZbqSag",
   "title": "Integrier Dich Du Yuppie",
   "artist": "Mark",
-  "lastFetched": "2025-11-30T22:51:36.211Z",
+  "lastFetched": "2025-12-02T01:05:06.596Z",
   "odesli": {
     "amazonMusic": "B07G2PXPR8",
     "amazonStore": "B07G2PXPR8",
@@ -30,6 +30,7 @@
   "musicbrainz": {
     "artistMbid": "103a2d2e-6e1e-47c5-8145-ea40fef68696",
     "trackMbid": "3a30ffe8-7a8b-4b71-a43e-2ccfb256bcd3",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2018-01-29"
   }
 }

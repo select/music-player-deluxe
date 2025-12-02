@@ -2,7 +2,7 @@
   "youtubeId": "NLGLh6KUb2s",
   "title": "Big Horse",
   "artist": "Spice",
-  "lastFetched": "2025-11-30T21:42:43.782Z",
+  "lastFetched": "2025-12-02T01:08:04.374Z",
   "odesli": {
     "amazonMusic": "B07JKN7H4D",
     "amazonStore": "B07JKN7H4D",
@@ -44,6 +44,19 @@
     "artistGenres": [
       "dancehall",
       "reggae"
-    ]
+    ],
+    "releasedAt": "2018-11-02",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000004614",
+      "discogs": "777416",
+      "spotify": "0wEvWMQRqaXcgnrZv6KtyL",
+      "deezer": "17008",
+      "lastfm": "Spice",
+      "genius": "Spice",
+      "rateyourmusic": "spice_f3",
+      "soundcloud": "https://soundcloud.com/SpiceOfficially",
+      "wikidata": "Q23777380"
+    }
   }
 }

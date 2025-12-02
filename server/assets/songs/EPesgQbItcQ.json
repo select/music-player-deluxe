@@ -2,7 +2,7 @@
   "youtubeId": "EPesgQbItcQ",
   "title": "Objection (Tango)",
   "artist": "Shakira",
-  "lastFetched": "2025-11-23T16:32:51.937Z",
+  "lastFetched": "2025-12-02T00:53:54.966Z",
   "odesli": {
     "amazonMusic": "B00137MJ0I",
     "amazonStore": "B00137MJ0I",
@@ -25,7 +25,21 @@
       "pop rock"
     ],
     "trackMbid": "65483acf-833e-4880-ba45-bf9a74353322",
-    "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc"
+    "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
+    "artistCountry": "CO",
+    "externalIdsArtist": {
+      "allmusic": "mn0003204519",
+      "discogs": "5530",
+      "spotify": "0EmeFodog0BfCgMzAIvKQp",
+      "deezer": "160",
+      "lastfm": "Shakira",
+      "genius": "Shakira",
+      "rateyourmusic": "shakira",
+      "soundcloud": "https://soundcloud.com/shakira",
+      "napster": "shakira",
+      "wikidata": "Q34424",
+      "youtube": "UCo6JijJGA3IvIiPsawDK3Ww"
+    }
   },
   "lastfm": {
     "id": "Shakira/_/Objection+(Tango)",

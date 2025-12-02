@@ -2,7 +2,7 @@
   "youtubeId": "0ZamfaHt6UE",
   "title": "Grace",
   "artist": "Everyday Process",
-  "lastFetched": "2025-11-19T08:28:21.748Z",
+  "lastFetched": "2025-12-02T00:33:44.754Z",
   "odesli": {
     "amazonMusic": "B005F9AI0I",
     "amazonStore": "B005F9AI0I",
@@ -31,6 +31,9 @@
   },
   "musicbrainz": {
     "trackMbid": "1de766ad-6bf9-39b7-b0b9-c621e0ae40d1",
-    "artistMbid": "07e0646c-0898-4935-a03c-588c94ac64be"
+    "artistMbid": "07e0646c-0898-4935-a03c-588c94ac64be",
+    "externalIdsArtist": {
+      "discogs": "4354140"
+    }
   }
 }

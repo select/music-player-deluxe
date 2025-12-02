@@ -2,7 +2,7 @@
   "youtubeId": "0rdF7o08KXw",
   "title": "When You're Hot, You're Hot",
   "artist": "Jerry Reed",
-  "lastFetched": "2025-11-30T23:12:55.178Z",
+  "lastFetched": "2025-12-02T00:34:09.980Z",
   "lastfm": {
     "id": "Jerry+Reed/_/When+You%27re+Hot,+You%27re+Hot",
     "listeners": 34858,
@@ -18,6 +18,16 @@
     "artistGenres": [
       "country",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2008",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000334644",
+      "discogs": "283281",
+      "spotify": "3kvy8do7n0qVqvlNFS4yOF",
+      "deezer": "9828",
+      "rateyourmusic": "jerry_reed",
+      "wikidata": "Q712914"
+    }
   }
 }

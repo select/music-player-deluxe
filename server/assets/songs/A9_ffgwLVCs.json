@@ -2,7 +2,7 @@
   "youtubeId": "A9_ffgwLVCs",
   "title": "Wild Wood",
   "artist": "Paul Weller",
-  "lastFetched": "2025-11-30T21:02:57.404Z",
+  "lastFetched": "2025-12-02T00:47:02.001Z",
   "odesli": {
     "amazonMusic": "B0029OR85A",
     "amazonStore": "B0029OR85A",
@@ -50,6 +50,17 @@
       "pop rock",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2006-06-12",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000029791",
+      "discogs": "14906",
+      "spotify": "7Lf3LOZp3U3u2f6cWMd3AH",
+      "deezer": "2802",
+      "lastfm": "Paul%20Weller",
+      "rateyourmusic": "paul_weller",
+      "wikidata": "Q371986"
+    }
   }
 }

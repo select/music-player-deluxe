@@ -2,7 +2,7 @@
   "youtubeId": "StHGawXsitE",
   "title": "Theme For Great Cities",
   "artist": "Simple Minds",
-  "lastFetched": "2025-11-30T21:38:31.123Z",
+  "lastFetched": "2025-12-02T01:17:17.181Z",
   "odesli": {
     "amazonMusic": "B000TPE57U",
     "amazonStore": "B000TPE57U",
@@ -44,6 +44,20 @@
       "rock",
       "soft rock",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "1981-08",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000049374",
+      "discogs": "18547",
+      "spotify": "6hN9F0iuULZYWXppob22Aj",
+      "deezer": "2454",
+      "lastfm": "Simple+Minds",
+      "genius": "Simple-minds",
+      "rateyourmusic": "simple-minds",
+      "soundcloud": "https://soundcloud.com/simple-minds-official",
+      "wikidata": "Q748836",
+      "youtube": "UCE_svhtO1EX9jG8KV2-njfA"
+    }
   }
 }

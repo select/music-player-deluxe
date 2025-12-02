@@ -2,7 +2,7 @@
   "youtubeId": "NqBh8hFC5NQ",
   "title": "Chop Suey",
   "artist": "The Dead South",
-  "lastFetched": "2025-11-23T16:37:06.652Z",
+  "lastFetched": "2025-12-02T01:08:58.140Z",
   "odesli": {
     "amazonMusic": "B09JS6BCRK",
     "amazonStore": "B09JS6BCRK",
@@ -38,7 +38,17 @@
       "rock"
     ],
     "trackMbid": "79d85378-2996-4774-9b70-66852c7824f1",
-    "artistMbid": "ffb316f0-0df3-4f9c-b0e0-945187b6e964"
+    "artistMbid": "ffb316f0-0df3-4f9c-b0e0-945187b6e964",
+    "releasedAt": "2022-03-04",
+    "externalIdsArtist": {
+      "bandcamp": "https://thedeadsouth.bandcamp.com/",
+      "discogs": "4120792",
+      "spotify": "3HR1xtIsUefdFnkI1XHgeA",
+      "deezer": "5699072",
+      "lastfm": "The+Dead+South",
+      "soundcloud": "https://soundcloud.com/the-dead-south",
+      "wikidata": "Q30887550"
+    }
   },
   "lastfm": {
     "id": "The+Dead+South/_/Chop+Suey",

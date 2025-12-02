@@ -2,7 +2,7 @@
   "youtubeId": "CugQD7DCGKc",
   "title": "Never Ending Light",
   "artist": "Bruce Soord",
-  "lastFetched": "2025-11-19T13:35:23.193Z",
+  "lastFetched": "2025-12-02T00:51:01.805Z",
   "odesli": {
     "amazonMusic": "B0CFM2RP3Z",
     "amazonStore": "B0CFM2RP3Z",
@@ -30,6 +30,19 @@
   },
   "musicbrainz": {
     "trackMbid": "01794ae1-1273-47e6-bbb6-3b7c40bce3ff",
-    "artistMbid": "8e57cabb-7dc5-4eac-94c0-a3928b989af5"
+    "artistMbid": "8e57cabb-7dc5-4eac-94c0-a3928b989af5",
+    "releasedAt": "2023-09-21",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002006454",
+      "discogs": "378852",
+      "spotify": "0Ie8EFqO5e2DPSeFF6EcXQ",
+      "deezer": "4763216",
+      "genius": "Bruce-soord",
+      "rateyourmusic": "bruce_soord",
+      "soundcloud": "https://soundcloud.com/brucesoord",
+      "wikidata": "Q106785080",
+      "youtube": "UCewBl2zv9Mur6-fn5FF_Ghw"
+    }
   }
 }

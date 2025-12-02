@@ -2,7 +2,7 @@
   "youtubeId": "RGx5wxznSOE",
   "title": "Lurgee",
   "artist": "Radiohead",
-  "lastFetched": "2025-11-23T16:38:49.565Z",
+  "lastFetched": "2025-12-02T01:14:22.748Z",
   "odesli": {
     "amazonMusic": "B01DPRO54G",
     "amazonStore": "B01DPRO54G",
@@ -41,7 +41,21 @@
       "electronica"
     ],
     "trackMbid": "45365cc3-8692-300d-a2f3-38b06def2155",
-    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000326249",
+      "bandcamp": "https://radiohead.bandcamp.com/",
+      "discogs": "3840",
+      "spotify": "4Z8W4fKeB5YxbusRsdQVPb",
+      "deezer": "399",
+      "lastfm": "Radiohead",
+      "genius": "Radiohead",
+      "rateyourmusic": "radiohead",
+      "soundcloud": "https://soundcloud.com/radiohead",
+      "wikidata": "Q44190",
+      "youtube": "UCr_iyUANcn9OX_yy9piYoLw"
+    }
   },
   "lastfm": {
     "id": "Radiohead/_/Lurgee",

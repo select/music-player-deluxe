@@ -1,0 +1,55 @@
+{
+  "youtubeId": "ccZuKOTb6ug",
+  "title": "Blue Lips",
+  "artist": "Regina Spektor",
+  "lastFetched": "2025-12-01T13:00:22.684Z",
+  "odesli": {
+    "amazonMusic": "B002CONFW2",
+    "amazonStore": "B002CONFW2",
+    "boomplay": "4199453",
+    "soundcloud": "reginaspektor/blue-lips-1",
+    "youtube": "ccZuKOTb6ug",
+    "youtubeMusic": "ccZuKOTb6ug"
+  },
+  "lastfm": {
+    "summary": "This was produced by Jeff Lynne, who also sings hamonies on the track (Source Blue Lips Songfacts). <a href=\"http://www.last.fm/music/Regina+Spektor/_/Blue+Lips\">Read more on Last.fm</a>.",
+    "id": "Regina+Spektor/_/Blue+Lips",
+    "listeners": 271593,
+    "playcount": 2085833,
+    "title": "Blue Lips",
+    "artist": "Regina Spektor",
+    "mbid": "0a4197ce-e75f-3045-9ee7-5d7d3944888a",
+    "artistMbid": "fbb375f9-48bb-4635-824e-4120273b3ba7",
+    "tags": [
+      "piano",
+      "female vocalists",
+      "far2",
+      "far1",
+      "far3"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fe0f7d89-3238-4eec-b224-3e99866524a7",
+    "artistMbid": "fbb375f9-48bb-4635-824e-4120273b3ba7",
+    "releaseCount": 11,
+    "genres": [
+      "alternative rock",
+      "anti-folk",
+      "indie pop",
+      "jazz fusion"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "anti-folk",
+      "art pop",
+      "chamber pop",
+      "folk",
+      "indie pop",
+      "indie rock",
+      "piano rock",
+      "pop rock",
+      "rock",
+      "singer-songwriter"
+    ]
+  }
+}

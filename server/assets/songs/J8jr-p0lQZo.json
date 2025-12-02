@@ -2,7 +2,7 @@
   "youtubeId": "J8jr-p0lQZo",
   "title": "Rosanna",
   "artist": "Weezer",
-  "lastFetched": "2025-11-30T19:48:56.427Z",
+  "lastFetched": "2025-12-02T01:01:30.832Z",
   "odesli": {
     "amazonMusic": "B07D5MLZ5V",
     "amazonStore": "B07D5MLZ5V",
@@ -44,6 +44,24 @@
       "pop rock",
       "power pop",
       "rock"
-    ]
+    ],
+    "releasedAt": "2018-05-24",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "46Em8Tk4iqp1qI9vT5dtf0"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000243008",
+      "discogs": "105730",
+      "spotify": "3jOstUTkEu2JkjvRdBA5Gu",
+      "deezer": "418",
+      "lastfm": "Weezer",
+      "genius": "Weezer",
+      "rateyourmusic": "weezer",
+      "soundcloud": "https://soundcloud.com/weezer",
+      "napster": "weezer",
+      "wikidata": "Q209956",
+      "youtube": "UCtHZHneyvFGwxg6MHcbMLAw"
+    }
   }
 }

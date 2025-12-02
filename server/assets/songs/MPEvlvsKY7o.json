@@ -2,7 +2,7 @@
   "youtubeId": "MPEvlvsKY7o",
   "title": "Dansshow",
   "artist": "Lander & Adriaan",
-  "lastFetched": "2025-11-30T22:30:36.263Z",
+  "lastFetched": "2025-12-02T01:06:39.468Z",
   "odesli": {
     "amazonMusic": "B09SKS7XYR",
     "amazonStore": "B09SKS7XYR",
@@ -35,6 +35,13 @@
   "musicbrainz": {
     "trackMbid": "2809f735-8a2e-4cba-992f-61e5f29fd23e",
     "artistMbid": "098ed13b-283a-480f-8c70-6c8a4e906c6b",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2022-04-15",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "spotify": "7fGMaOZYnod95gl4lcRg95",
+      "deezer": "158861972",
+      "youtube": "UCsNBoYw-MAlLBAH1G6xkhrw"
+    }
   }
 }

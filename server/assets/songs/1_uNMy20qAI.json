@@ -2,7 +2,7 @@
   "youtubeId": "1_uNMy20qAI",
   "title": "Get Up Offa That Thing",
   "artist": "James Brown",
-  "lastFetched": "2025-11-30T23:34:34.259Z",
+  "lastFetched": "2025-12-02T00:34:56.041Z",
   "odesli": {
     "amazonMusic": "B07H3C914V",
     "amazonStore": "B07H3C914V",
@@ -33,6 +33,19 @@
       "disco",
       "funk",
       "soul"
-    ]
+    ],
+    "releasedAt": "1987",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000128099",
+      "discogs": "12596",
+      "spotify": "7GaxyUddsPok8BuhxN6OUW",
+      "deezer": "1622",
+      "lastfm": "James+Brown",
+      "genius": "James-brown",
+      "rateyourmusic": "james-brown",
+      "wikidata": "Q5950",
+      "youtube": "UCOCZxe0gNRA7c3PGWPGoiGg"
+    }
   }
 }

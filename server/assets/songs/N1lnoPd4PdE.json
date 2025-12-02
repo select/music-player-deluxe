@@ -2,7 +2,7 @@
   "youtubeId": "N1lnoPd4PdE",
   "title": "Digidesign",
   "artist": "Joker",
-  "lastFetched": "2025-11-30T20:20:07.558Z",
+  "lastFetched": "2025-12-02T01:07:35.129Z",
   "odesli": {
     "amazonMusic": "B0CYDXQVPM",
     "amazonStore": "B0CYDXQVPM",
@@ -34,6 +34,15 @@
       "dubstep",
       "grime",
       "uk garage"
-    ]
+    ],
+    "releasedAt": "2009-02-20",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "622822",
+      "spotify": "6S5jf5noKu0JJjLLVUCZqP",
+      "deezer": "84404932",
+      "soundcloud": "https://soundcloud.com/jokerkapsize",
+      "wikidata": "Q6269729"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "CqaAs_3azSs",
   "title": "Anvil",
   "artist": "Lorn",
-  "lastFetched": "2025-11-30T19:50:39.598Z",
+  "lastFetched": "2025-12-02T00:50:54.124Z",
   "odesli": {
     "amazonMusic": "B0B239S2XN",
     "amazonStore": "B0B239S2XN",
@@ -45,6 +45,19 @@
       "electronic",
       "grime",
       "orchestral"
-    ]
+    ],
+    "releasedAt": "2015-12-30",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002450537",
+      "bandcamp": "https://lorn.bandcamp.com/",
+      "discogs": "985862",
+      "spotify": "1PmVyfIR9KtCxbHWuga8E5",
+      "deezer": "394171",
+      "lastfm": "Lorn",
+      "rateyourmusic": "lorn_f1",
+      "soundcloud": "https://soundcloud.com/lorn",
+      "wikidata": "Q2253334"
+    }
   }
 }

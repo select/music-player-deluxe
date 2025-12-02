@@ -2,7 +2,7 @@
   "youtubeId": "JhWfrtIPZjk",
   "title": "Nothing Else Matters",
   "artist": "Metallica",
-  "lastFetched": "2025-11-23T16:35:28.448Z",
+  "lastFetched": "2025-12-02T01:02:12.366Z",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -18,7 +18,21 @@
       "thrash metal"
     ],
     "trackMbid": "4f9e2300-ccb2-43ad-8e25-7bae46803b18",
-    "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+    "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000446509",
+      "discogs": "18839",
+      "spotify": "2ye2Wgw4gimLv2eAKyk1NB",
+      "deezer": "119",
+      "lastfm": "Metallica",
+      "genius": "Metallica",
+      "rateyourmusic": "metallica",
+      "soundcloud": "https://soundcloud.com/officialmetallica",
+      "napster": "metallica",
+      "wikidata": "Q15920",
+      "youtube": "UCGexNm_Kw4rdQjLxmpb2EKw"
+    }
   },
   "lastfm": {
     "id": "Metallica/_/Nothing+Else+Matters",

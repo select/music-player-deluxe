@@ -2,7 +2,7 @@
   "youtubeId": "Kie6zYs6K7U",
   "title": "The Capricorn's Silent Walk Through Pagan Fire And The Sea Of Blood",
   "artist": "The Great Machine",
-  "lastFetched": "2025-11-23T16:35:45.095Z",
+  "lastFetched": "2025-12-02T01:03:43.654Z",
   "odesli": {
     "amazonMusic": "B07S1D1RV8",
     "amazonStore": "B07S1D1RV8",
@@ -35,7 +35,12 @@
       "stoner rock"
     ],
     "trackMbid": "5c11a3f0-196c-49ad-b269-ef44d66cdaf9",
-    "artistMbid": "e7876844-3c7a-47c5-a6ac-ab94bc21a1a3"
+    "artistMbid": "e7876844-3c7a-47c5-a6ac-ab94bc21a1a3",
+    "externalIdsArtist": {
+      "bandcamp": "https://thegreatmachine1.bandcamp.com/",
+      "discogs": "4965611",
+      "soundcloud": "https://soundcloud.com/the-great-machine"
+    }
   },
   "lastfm": {
     "id": "The+Great+Machine/_/The+Capricorn%27s+Silent+Walk+Through+Pagan+Fire+And+The+Sea+Of+Blood",

@@ -2,7 +2,7 @@
   "youtubeId": "RPM-NbDuHlM",
   "title": "Kalkutta",
   "artist": "Okuma",
-  "lastFetched": "2025-11-30T23:07:54.175Z",
+  "lastFetched": "2025-12-02T01:14:45.371Z",
   "odesli": {
     "amazonMusic": "B09NYJ2PG6",
     "amazonStore": "B09NYJ2PG6",
@@ -34,6 +34,15 @@
   "musicbrainz": {
     "trackMbid": "d86669bf-3b53-47f8-8d66-05b3301dace5",
     "artistMbid": "7ede7431-3a86-48c9-831d-f5e505647566",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-02-10",
+    "artistCountry": "CH",
+    "externalIdsArtist": {
+      "bandcamp": "https://okuma-sounds.bandcamp.com/",
+      "discogs": "7286664",
+      "spotify": "5KxadtK47w9IzFK0V4O38Q",
+      "deezer": "10432100",
+      "soundcloud": "https://soundcloud.com/okuma-sounds"
+    }
   }
 }

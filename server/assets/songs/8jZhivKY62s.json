@@ -1,7 +1,7 @@
 {
   "youtubeId": "8jZhivKY62s",
   "title": "Señor Coconut - Riders On The Storm",
-  "lastFetched": "2025-11-30T20:15:22.304Z",
+  "lastFetched": "2025-12-02T00:45:00.096Z",
   "ai": {
     "title": "Riders On The Storm",
     "artist": "Señor Coconut"
@@ -29,6 +29,14 @@
     "artistGenres": [
       "cocktail nation",
       "lounge"
-    ]
+    ],
+    "releasedAt": "2008-11-03",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000006832",
+      "discogs": "7556",
+      "spotify": "6rATWMhuTXfhBqtB3IQRWd",
+      "wikidata": "Q65843"
+    }
   }
 }

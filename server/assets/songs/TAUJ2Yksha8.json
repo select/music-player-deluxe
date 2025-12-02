@@ -2,7 +2,7 @@
   "youtubeId": "TAUJ2Yksha8",
   "title": "Mittelfinger",
   "artist": "Team Scheisse",
-  "lastFetched": "2025-11-30T22:08:13.945Z",
+  "lastFetched": "2025-12-02T01:17:48.981Z",
   "odesli": {
     "audiomack": "54411110",
     "appleMusic": "1769001474",
@@ -32,6 +32,18 @@
     "artistGenres": [
       "punk",
       "punk rock"
-    ]
+    ],
+    "releasedAt": "2024-10-09",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "bandcamp": "https://teamscheisse.bandcamp.com/",
+      "discogs": "8524677",
+      "spotify": "1Jpq5mhimELhC70sKsXZ3a",
+      "deezer": "147789492",
+      "genius": "Team-scheisse",
+      "rateyourmusic": "team-scheisse",
+      "youtube": "UC1cKNAO4Yu5IMQl4r5LuGbg",
+      "wikidata": "Q116940034"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "LXvG0SMP7tw",
   "title": "Waiting for the Miracle",
   "artist": "Leonard Cohen",
-  "lastFetched": "2025-11-30T22:21:18.726Z",
+  "lastFetched": "2025-12-02T01:05:08.817Z",
   "odesli": {
     "amazonMusic": "B00136NJCQ",
     "amazonStore": "B00136NJCQ",
@@ -58,6 +58,19 @@
       "pop",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "1992-11-24",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000071209",
+      "discogs": "227848",
+      "spotify": "5l8VQNuIg0turYE1VtM9zV",
+      "deezer": "1834",
+      "lastfm": "Leonard+Cohen",
+      "genius": "Leonard-cohen",
+      "rateyourmusic": "leonard_cohen",
+      "soundcloud": "https://soundcloud.com/leonardcohen",
+      "wikidata": "Q1276"
+    }
   }
 }

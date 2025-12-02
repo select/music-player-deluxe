@@ -2,7 +2,7 @@
   "youtubeId": "7Y9wUGv8VkQ",
   "title": "INEUNTE FINIS",
   "artist": "Mario Batkovic",
-  "lastFetched": "2025-11-30T21:55:14.792Z",
+  "lastFetched": "2025-12-02T00:43:29.879Z",
   "lastfm": {
     "id": "Mario+Batkovic/_/Ineunte+finis",
     "listeners": 76,
@@ -22,6 +22,18 @@
   "musicbrainz": {
     "trackMbid": "176cffaf-bbe6-4260-9b76-a9c7bcf3960d",
     "artistMbid": "a254e02f-2b07-49f2-a2e7-a41ac05a40e8",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2015-04-10",
+    "artistCountry": "CH",
+    "externalIdsArtist": {
+      "allmusic": "mn0003323988",
+      "discogs": "2884380",
+      "spotify": "3lLjSS7VP84aQ1fwX3Vbqz",
+      "deezer": "5010122",
+      "lastfm": "Mario+Batkovic",
+      "rateyourmusic": "mario-batkovic",
+      "soundcloud": "https://soundcloud.com/mariobatkovic",
+      "wikidata": "Q60439613"
+    }
   }
 }

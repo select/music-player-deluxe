@@ -1,0 +1,48 @@
+{
+  "youtubeId": "9XKaA2Jo-zg",
+  "title": "Frozen",
+  "artist": "Electrosoul System",
+  "lastFetched": "2025-12-02T00:46:18.260Z",
+  "odesli": {
+    "amazonMusic": "B0C4Q5LRHQ",
+    "amazonStore": "B0C4Q5LRHQ",
+    "appleMusic": "1685833942",
+    "itunes": "1685833942",
+    "pandora": "TR:11247834",
+    "spotify": "5hTals6JiIWDzBheIjAW9m",
+    "tidal": "291981424",
+    "yandex": "31587696",
+    "youtube": "9XKaA2Jo-zg",
+    "youtubeMusic": "9XKaA2Jo-zg"
+  },
+  "lastfm": {
+    "id": "Electrosoul+System/_/Frozen",
+    "listeners": 427,
+    "playcount": 899,
+    "title": "Frozen",
+    "artist": "Electrosoul System",
+    "mbid": "55422c13-8831-46ec-a7bc-a7a8685ec425",
+    "artistMbid": "f5ee3b00-d677-4fd6-9589-7430e6a7d12f",
+    "tags": [
+      "drum and bass",
+      "liquid funk",
+      "soulful drum and bass",
+      "dnb"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c2188b27-6f11-4ecd-ab23-c49b1ec2ca62",
+    "artistMbid": "f5ee3b00-d677-4fd6-9589-7430e6a7d12f",
+    "releaseCount": 2,
+    "artistGenres": [
+      "drum and bass"
+    ],
+    "releasedAt": "2016-04-01",
+    "artistCountry": "RU",
+    "externalIdsArtist": {
+      "discogs": "674068",
+      "spotify": "0tSNYelLMRA52oDWmw5eU3",
+      "deezer": "270709"
+    }
+  }
+}

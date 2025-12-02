@@ -1,7 +1,7 @@
 {
   "youtubeId": "DQ1_ALxGbGk",
   "title": "Joseph Beuys - Sonne statt Reagan 1982",
-  "lastFetched": "2025-11-30T19:34:05.123Z",
+  "lastFetched": "2025-12-02T00:52:07.342Z",
   "ai": {
     "title": "Sonne statt Reagan",
     "artist": "Joseph Beuys"
@@ -26,6 +26,13 @@
   "musicbrainz": {
     "trackMbid": "1f08d135-7987-4b80-b15a-019101384862",
     "artistMbid": "8406a8fa-3718-492e-b0ff-1e0b920cc6e2",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2004-10-25",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "251144",
+      "rateyourmusic": "joseph_beuys",
+      "wikidata": "Q153965"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "QLWkl5YpiD0",
   "title": "Wicked Game",
   "artist": "Tenacious D",
-  "lastFetched": "2025-11-23T16:38:12.414Z",
+  "lastFetched": "2025-12-02T01:12:45.056Z",
   "musicbrainz": {
     "artistTags": [
       "acoustic rock",
@@ -20,7 +20,21 @@
       "hard rock"
     ],
     "trackMbid": "0163435b-d54c-456e-aede-b337e0741735",
-    "artistMbid": "148ddea2-6839-4354-8e2c-5dfadf136b7f"
+    "artistMbid": "148ddea2-6839-4354-8e2c-5dfadf136b7f",
+    "releasedAt": "2023",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000017021",
+      "discogs": "275914",
+      "spotify": "1XpDYCrUJnvCo9Ez6yeMWh",
+      "deezer": "445",
+      "lastfm": "Tenacious+D",
+      "genius": "Tenacious-d",
+      "rateyourmusic": "tenacious_d",
+      "soundcloud": "https://soundcloud.com/tenaciousd",
+      "wikidata": "Q205780",
+      "youtube": "UCH-Uobgd_TrFNnxuphSnbeQ"
+    }
   },
   "lastfm": {
     "id": "Tenacious+D/_/Wicked+Game",

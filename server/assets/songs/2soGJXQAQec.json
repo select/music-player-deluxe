@@ -2,7 +2,7 @@
   "youtubeId": "2soGJXQAQec",
   "title": "Who Am I (What’s My Name)?",
   "artist": "Snoop Dogg",
-  "lastFetched": "2025-11-30T23:23:14.383Z",
+  "lastFetched": "2025-12-02T00:36:44.598Z",
   "odesli": {
     "amazonMusic": "B0BXVK652T",
     "amazonStore": "B0BXVK652T",
@@ -36,6 +36,21 @@
       "gangsta rap",
       "hip hop",
       "west coast hip hop"
-    ]
+    ],
+    "releasedAt": "2000",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000029086",
+      "discogs": "4400358",
+      "spotify": "7hJcb9fa4alzcOq3EaNPoG",
+      "deezer": "3",
+      "lastfm": "Snoop+Dogg",
+      "genius": "Snoop-dogg",
+      "rateyourmusic": "snoop-dogg",
+      "soundcloud": "https://soundcloud.com/snoopdogg",
+      "napster": "snoop-dogg",
+      "wikidata": "Q6096",
+      "youtube": "UC7xz_YipuZtypOuVALNzeog"
+    }
   }
 }

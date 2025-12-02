@@ -2,7 +2,7 @@
   "youtubeId": "-8X2bcjTELs",
   "title": "NAILS",
   "artist": "Noga Erez",
-  "lastFetched": "2025-11-23T16:25:04.383Z",
+  "lastFetched": "2025-12-02T00:17:14.027Z",
   "odesli": {
     "amazonMusic": "B0BBZKBT81",
     "amazonStore": "B0BBZKBT81",
@@ -29,7 +29,30 @@
       "pop"
     ],
     "trackMbid": "e90bc10e-ea2d-41d9-b1b8-1ac55f2af3bd",
-    "artistMbid": "06479724-ee7d-471e-a3d4-4554330a0293"
+    "artistMbid": "06479724-ee7d-471e-a3d4-4554330a0293",
+    "releasedAt": "2022-09-16",
+    "artistCountry": "IL",
+    "externalIds": {
+      "allmusic": "mn0003566054",
+      "bandcamp": "https://nogaerez.bandcamp.com/",
+      "discogs": "5353186",
+      "spotify": "5VwCIS8jdx9ZHjApLFNrTZ",
+      "lastfm": "Noga+Erez",
+      "soundcloud": "nogerz26",
+      "youtube": "UC8jilbu-zFcknaZ5ah3C8NA"
+    },
+    "externalIdsTrack": {
+      "spotify": "1JKv57le9khoYlYsD8stgj"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003566054",
+      "bandcamp": "https://nogaerez.bandcamp.com/",
+      "discogs": "5353186",
+      "spotify": "5VwCIS8jdx9ZHjApLFNrTZ",
+      "lastfm": "Noga+Erez",
+      "soundcloud": "nogerz26",
+      "youtube": "UC8jilbu-zFcknaZ5ah3C8NA"
+    }
   },
   "lastfm": {
     "id": "Noga+Erez/_/NAILS",

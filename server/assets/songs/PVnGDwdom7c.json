@@ -1,7 +1,7 @@
 {
   "youtubeId": "PVnGDwdom7c",
   "title": "Thundercat - Drunk (2017) Full Album",
-  "lastFetched": "2025-11-30T20:39:25.411Z",
+  "lastFetched": "2025-12-02T01:11:51.512Z",
   "ai": {
     "title": "Drunk",
     "artist": "Thundercat"
@@ -53,6 +53,22 @@
       "soul",
       "trap",
       "yacht rock"
-    ]
+    ],
+    "releasedAt": "2017-02-24",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002424073",
+      "bandcamp": "https://thundercat.bandcamp.com/",
+      "discogs": "801230",
+      "spotify": "4XsGoYZSMIAyQUXOtLX4QX",
+      "deezer": "546520",
+      "lastfm": "Thundercat",
+      "genius": "Thundercat",
+      "rateyourmusic": "thundercat",
+      "soundcloud": "https://soundcloud.com/thundercat-official",
+      "napster": "thundercat",
+      "wikidata": "Q15285290",
+      "youtube": "UCUl7CLMqbyYVb62zJ7nbLfA"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "8uNL16uf8xo",
   "title": "Rossignol",
   "artist": "The Sea and Cake",
-  "lastFetched": "2025-11-30T21:46:38.543Z",
+  "lastFetched": "2025-12-02T00:45:26.849Z",
   "odesli": {
     "amazonMusic": "B01HRA01WC",
     "amazonStore": "B01HRA01WC",
@@ -33,6 +33,18 @@
       "indie pop",
       "indie rock",
       "jazz"
-    ]
+    ],
+    "releasedAt": "1997-03-25",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003373073",
+      "bandcamp": "https://theseaandcake.bandcamp.com/",
+      "discogs": "50982",
+      "spotify": "0ihBDeJlIlXo4LFfAllsGm",
+      "deezer": "5282",
+      "lastfm": "The+Sea+and+Cake",
+      "rateyourmusic": "the_sea_and_cake",
+      "wikidata": "Q587705"
+    }
   }
 }

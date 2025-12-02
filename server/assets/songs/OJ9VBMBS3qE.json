@@ -2,7 +2,7 @@
   "youtubeId": "OJ9VBMBS3qE",
   "title": "Manchild",
   "artist": "Neneh Cherry",
-  "lastFetched": "2025-11-23T16:37:13.998Z",
+  "lastFetched": "2025-12-02T01:09:51.691Z",
   "odesli": {
     "amazonMusic": "B09XY4W4GF",
     "amazonStore": "B09XY4W4GF",
@@ -36,7 +36,22 @@
       "pop"
     ],
     "trackMbid": "7140101e-94ab-472c-a494-6918a952f385",
-    "artistMbid": "527c65d1-9fdb-4482-8796-dde2980bd63a"
+    "artistMbid": "527c65d1-9fdb-4482-8796-dde2980bd63a",
+    "releasedAt": "1993",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000332257",
+      "bandcamp": "https://nenehcherry.bandcamp.com/",
+      "discogs": "11449",
+      "spotify": "3JxCEqL9zjKnDJgUhRuRJD",
+      "deezer": "2680",
+      "lastfm": "Neneh+Cherry",
+      "genius": "Neneh-cherry",
+      "rateyourmusic": "neneh_cherry",
+      "soundcloud": "https://soundcloud.com/nenehcherry",
+      "wikidata": "Q233342",
+      "youtube": "UCqvh_VyeJTfHTyOV9mT4PaQ"
+    }
   },
   "lastfm": {
     "id": "Neneh+Cherry/_/Manchild",

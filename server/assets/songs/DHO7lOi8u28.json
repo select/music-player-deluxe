@@ -3,7 +3,7 @@
   "artist": "Guem",
   "duration": 316,
   "youtubeId": "DHO7lOi8u28",
-  "lastFetched": "2025-11-19T05:31:07.313Z",
+  "lastFetched": "2025-12-02T00:51:45.245Z",
   "odesli": {
     "amazonMusic": "B077CFK4SV",
     "amazonStore": "B077CFK4SV",
@@ -27,7 +27,15 @@
     ],
     "trackMbid": "980b848f-c677-49c4-bcb9-9cf3edc23e22",
     "artistMbid": "e4f43165-7f2b-46a9-9fdd-ae8a74dc1eb2",
-    "releaseCount": 23
+    "releaseCount": 23,
+    "releasedAt": "1978",
+    "artistCountry": "DZ",
+    "externalIdsArtist": {
+      "allmusic": "mn0000653016",
+      "discogs": "109850",
+      "rateyourmusic": "guem",
+      "wikidata": "Q307999"
+    }
   },
   "lastfm": {
     "id": "Guem/_/Le+Serpent",

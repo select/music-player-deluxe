@@ -2,7 +2,7 @@
   "youtubeId": "U0P5KVdRkak",
   "title": "Right Before My Eyes",
   "artist": "Cage the Elephant",
-  "lastFetched": "2025-11-23T16:40:10.994Z",
+  "lastFetched": "2025-12-02T01:19:09.470Z",
   "odesli": {
     "amazonMusic": "B076NRY96H",
     "amazonStore": "B076NRY96H",
@@ -42,7 +42,19 @@
       "indie rock"
     ],
     "trackMbid": "1432fb81-db72-458a-ad46-34d3a5e9c9ec",
-    "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696"
+    "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001061166",
+      "discogs": "1213263",
+      "spotify": "26T3LtbuGT1Fu9m0eRq5X3",
+      "deezer": "214810",
+      "lastfm": "Cage+the+Elephant",
+      "genius": "Cage-the-elephant",
+      "rateyourmusic": "cage_the_elephant",
+      "soundcloud": "https://soundcloud.com/cagetheelephant",
+      "wikidata": "Q68061"
+    }
   },
   "lastfm": {
     "id": "Cage+the+Elephant/_/Right+Before+My+Eyes",

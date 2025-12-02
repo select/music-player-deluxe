@@ -2,7 +2,7 @@
   "youtubeId": "ARHM8EkosP4",
   "title": "Just A Ride",
   "artist": "The Virginmarys",
-  "lastFetched": "2025-11-30T20:32:30.069Z",
+  "lastFetched": "2025-12-02T00:47:19.469Z",
   "odesli": {
     "pandora": "TR:9841468",
     "soundcloud": "thevirginmarysofficial/just-a-ride-3",
@@ -28,6 +28,18 @@
   "musicbrainz": {
     "trackMbid": "553cace9-dc2f-460c-b785-310e10879337",
     "artistMbid": "47035a1e-7137-4c92-9a74-88647d021efd",
-    "releaseCount": 6
+    "releaseCount": 6,
+    "releasedAt": "2013-02-03",
+    "externalIdsTrack": {
+      "spotify": "7cGtfu1NryehQAJrnPfp6L",
+      "deezer": "1761413417"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002534133",
+      "discogs": "1760501",
+      "spotify": "1Kpz4HxilmXzCt2eLpGgID",
+      "deezer": "466792",
+      "wikidata": "Q7772834"
+    }
   }
 }

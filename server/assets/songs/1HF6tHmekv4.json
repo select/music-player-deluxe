@@ -3,7 +3,7 @@
   "artist": "The Lady of Rage",
   "duration": 262,
   "youtubeId": "1HF6tHmekv4",
-  "lastFetched": "2025-11-23T16:26:31.465Z",
+  "lastFetched": "2025-12-02T00:34:27.685Z",
   "musicbrainz": {
     "artistTags": [
       "hip hop"
@@ -13,7 +13,19 @@
     ],
     "trackMbid": "02455bd2-10ae-4b26-a04c-45cc0da444b3",
     "artistMbid": "147a3ceb-ebeb-4ce8-96e6-b2b3616dca04",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2001-07-02",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001344099",
+      "discogs": "68311",
+      "spotify": "5CxwOBCoGSvWxfDgNoa1Nv",
+      "deezer": "9781",
+      "lastfm": "The+Lady+of+Rage",
+      "genius": "The-lady-of-rage",
+      "rateyourmusic": "lady_of_rage",
+      "wikidata": "Q963740"
+    }
   },
   "lastfm": {
     "id": "The+Lady+of+Rage/_/Afro+Puffs",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "7kzUwxAkzPU",
   "title": "Schnipo Schranke - Pisse",
-  "lastFetched": "2025-11-30T21:24:08.278Z",
+  "lastFetched": "2025-12-02T00:43:51.872Z",
   "ai": {
     "title": "Pisse",
     "artist": "Schnipo Schranke"
@@ -24,6 +24,15 @@
   "musicbrainz": {
     "trackMbid": "d8c48afa-eda2-401e-8ba0-f9c4eeee608c",
     "artistMbid": "69df6dce-5e42-44be-9819-c621b44941ca",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2015-09-04",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "3799344",
+      "spotify": "1qMH37eEGa23qh00xUqES3",
+      "genius": "Schnipo-schranke",
+      "rateyourmusic": "schnipo-schranke",
+      "wikidata": "Q20966869"
+    }
   }
 }

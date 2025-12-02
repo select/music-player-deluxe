@@ -4,7 +4,7 @@
   "album": "Melody A.M.",
   "duration": 211,
   "youtubeId": "QOrTtbrHXG4",
-  "lastFetched": "2025-11-19T04:32:38.440Z",
+  "lastFetched": "2025-12-02T01:12:52.532Z",
   "odesli": {
     "amazonMusic": "B073RTNP3Z",
     "amazonStore": "B073RTNP3Z",
@@ -27,7 +27,27 @@
       "electronic"
     ],
     "trackMbid": "3e0e697e-a33a-41f1-98d3-704b95810f1a",
-    "artistMbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884"
+    "artistMbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+    "releasedAt": "2001-09-13",
+    "artistCountry": "NO",
+    "externalIdsTrack": {
+      "spotify": "6AeYJgfupThpUZ3HGtnbiI",
+      "deezer": "109713888"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000914152",
+      "bandcamp": "https://royksopp.bandcamp.com/",
+      "discogs": "786258",
+      "spotify": "5nPOO9iTcrs9k6yFffPxjH",
+      "deezer": "480",
+      "lastfm": "R%C3%B6yksopp",
+      "genius": "Royksopp",
+      "rateyourmusic": "royksopp",
+      "soundcloud": "https://soundcloud.com/royksopp",
+      "napster": "royksopp",
+      "wikidata": "Q193218",
+      "youtube": "UCoT418wNz3-pX_Nd7XTVknw"
+    }
   },
   "lastfm": {
     "id": "R%C3%B6yksopp/_/In+Space",

@@ -2,7 +2,7 @@
   "youtubeId": "GdTiZB0wjs0",
   "title": "Renegades of Funk",
   "artist": "Rage Against the Machine",
-  "lastFetched": "2025-11-23T16:34:01.818Z",
+  "lastFetched": "2025-12-02T00:57:54.067Z",
   "odesli": {
     "amazonMusic": "B00136LSEW",
     "amazonStore": "B00136LSEW",
@@ -34,7 +34,20 @@
       "nu metal"
     ],
     "trackMbid": "986c878e-1d03-4a43-9aa0-1ef6b1214525",
-    "artistMbid": "3798b104-01cb-484c-a3b0-56adc6399b80"
+    "artistMbid": "3798b104-01cb-484c-a3b0-56adc6399b80",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000863790",
+      "discogs": "12212",
+      "spotify": "2d0hyoQ5ynDBnkvAbJKORj",
+      "deezer": "113",
+      "lastfm": "Rage+Against+the+Machine",
+      "genius": "Rage-against-the-machine",
+      "rateyourmusic": "rage-against-the-machine",
+      "napster": "rage-against-the-machine",
+      "wikidata": "Q72092",
+      "youtube": "UCg4nBubbzhYXjudOxPi9V7w"
+    }
   },
   "lastfm": {
     "id": "Rage+Against+the+Machine/_/Renegades+of+Funk",

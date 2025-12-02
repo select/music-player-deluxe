@@ -2,7 +2,7 @@
   "youtubeId": "ShCRN3tFy80",
   "title": "Over and Over and Over",
   "artist": "Jack White",
-  "lastFetched": "2025-11-30T20:11:47.048Z",
+  "lastFetched": "2025-12-02T01:16:50.384Z",
   "odesli": {
     "amazonMusic": "B07959JD1H",
     "amazonStore": "B07959JD1H",
@@ -41,6 +41,20 @@
       "garage rock revival",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2018-03-09",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000128873",
+      "bandcamp": "https://officialjackwhite.bandcamp.com/",
+      "discogs": "278763",
+      "spotify": "4FZ3j1oH43e7cukCALsCwf",
+      "deezer": "1945",
+      "lastfm": "Jack+White",
+      "rateyourmusic": "jack-white",
+      "soundcloud": "https://soundcloud.com/jackwhiteiii",
+      "wikidata": "Q272031",
+      "youtube": "UCL5YsYJMZ-S5SU4_RQOWEPw"
+    }
   }
 }

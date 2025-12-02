@@ -2,7 +2,7 @@
   "youtubeId": "5Ugqo5dhL2A",
   "title": "Inside Out",
   "artist": "Martin Dupont",
-  "lastFetched": "2025-11-23T16:28:22.070Z",
+  "lastFetched": "2025-12-02T00:39:55.887Z",
   "odesli": {
     "amazonMusic": "B07PDFKPKP",
     "amazonStore": "B07PDFKPKP",
@@ -34,7 +34,15 @@
       "new wave"
     ],
     "trackMbid": "1d378a04-791a-38d1-a016-dd31c5781578",
-    "artistMbid": "bbb1f7fa-aa8c-416f-8a5a-5ca26ee24827"
+    "artistMbid": "bbb1f7fa-aa8c-416f-8a5a-5ca26ee24827",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "bandcamp": "https://martindupont.bandcamp.com/",
+      "discogs": "280808",
+      "lastfm": "Martin+Dupont",
+      "rateyourmusic": "martin_dupont",
+      "wikidata": "Q3295408"
+    }
   },
   "lastfm": {
     "id": "Martin+Dupont/_/Inside+Out",

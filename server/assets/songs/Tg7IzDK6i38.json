@@ -1,7 +1,7 @@
 {
   "youtubeId": "Tg7IzDK6i38",
   "title": "Die Gesunden - Instru-Mental",
-  "lastFetched": "2025-11-30T21:30:58.204Z",
+  "lastFetched": "2025-12-02T01:18:39.752Z",
   "ai": {
     "title": "Instru-Mental",
     "artist": "Die Gesunden"
@@ -29,6 +29,12 @@
     "artistGenres": [
       "minimal synth",
       "neue deutsche welle"
-    ]
+    ],
+    "releasedAt": "1982",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "146680",
+      "rateyourmusic": "die_gesunden"
+    }
   }
 }

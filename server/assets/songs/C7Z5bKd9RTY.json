@@ -2,7 +2,7 @@
   "youtubeId": "C7Z5bKd9RTY",
   "title": "WILLST DU",
   "artist": "Alligatoah",
-  "lastFetched": "2025-11-30T21:55:56.729Z",
+  "lastFetched": "2025-12-02T00:49:48.385Z",
   "lastfm": {
     "id": "Alligatoah/_/Willst+du",
     "listeners": 120155,
@@ -29,6 +29,22 @@
     "artistGenres": [
       "hip hop",
       "rap metal"
-    ]
+    ],
+    "releasedAt": "2013-08-02",
+    "artistCountry": "DE",
+    "externalIdsTrack": {
+      "spotify": "4bVW8xbVZtqjI75vPmVVYF",
+      "deezer": "1762226027"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002814203",
+      "discogs": "3403223",
+      "spotify": "0r0R5nIjDY04TfxRM10Bcb",
+      "deezer": "1191410",
+      "lastfm": "Alligatoah",
+      "genius": "Alligatoah",
+      "soundcloud": "https://soundcloud.com/alligatoahofficial",
+      "wikidata": "Q1731236"
+    }
   }
 }

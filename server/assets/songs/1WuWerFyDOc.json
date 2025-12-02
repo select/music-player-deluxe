@@ -1,7 +1,7 @@
 {
   "youtubeId": "1WuWerFyDOc",
   "title": "Slo Burn - Pilot The Dune",
-  "lastFetched": "2025-11-30T19:25:04.170Z",
+  "lastFetched": "2025-12-02T00:34:53.594Z",
   "ai": {
     "title": "Pilot The Dune",
     "artist": "Slo Burn"
@@ -33,6 +33,17 @@
       "desert rock",
       "stoner metal",
       "stoner rock"
-    ]
+    ],
+    "releasedAt": "1997-04-15",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001625569",
+      "discogs": "540049",
+      "spotify": "7gVqaPZ2w74Hm86VMrgq9h",
+      "deezer": "300091",
+      "lastfm": "Slo+Burn",
+      "rateyourmusic": "slo_burn",
+      "wikidata": "Q2140414"
+    }
   }
 }

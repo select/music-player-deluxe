@@ -1,7 +1,7 @@
 {
   "youtubeId": "0PVsSyzSMfU",
   "title": "Fink at Manu Katché - Pretty Little Thing (Live)",
-  "lastFetched": "2025-11-30T21:22:56.235Z",
+  "lastFetched": "2025-12-02T00:33:28.885Z",
   "ai": {
     "title": "Pretty Little Thing",
     "artist": "Fink"
@@ -39,6 +39,18 @@
       "dub",
       "indie folk",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2006-04-17",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001723862",
+      "bandcamp": "https://finkmusic.bandcamp.com/",
+      "discogs": "4080",
+      "spotify": "2t9yJDJIEtvPmr2iRIdqBf",
+      "deezer": "8094",
+      "rateyourmusic": "fink_f1",
+      "soundcloud": "https://soundcloud.com/fink",
+      "wikidata": "Q250669"
+    }
   }
 }

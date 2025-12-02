@@ -1,0 +1,45 @@
+{
+  "youtubeId": "U3Ithy9EoRY",
+  "title": "Yeah, I Know",
+  "artist": "Otherkin",
+  "lastFetched": "2025-12-02T01:19:14.239Z",
+  "odesli": {
+    "amazonMusic": "B0DMVPZ484",
+    "amazonStore": "B0DMVPZ484",
+    "appleMusic": "1779501462",
+    "itunes": "1779501462",
+    "pandora": "TR:5436224",
+    "soundcloud": "otherkinok/otherkin-yeah-i-know",
+    "spotify": "65KiYWfsMx1SmiUOW1VW3L",
+    "tidal": "399210991",
+    "youtube": "U3Ithy9EoRY",
+    "youtubeMusic": "U3Ithy9EoRY"
+  },
+  "lastfm": {
+    "id": "Otherkin/_/Yeah,+I+Know",
+    "listeners": 27569,
+    "playcount": 118541,
+    "title": "Yeah, I Know",
+    "artist": "Otherkin",
+    "mbid": "4b9e7694-60f4-4b6d-86a1-f67d03953534",
+    "artistMbid": "1d22a17d-439c-4fa8-80b2-1ddbc9496e70",
+    "tags": [
+      "not grunge"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "208dfada-86b6-4364-bdc4-c2f35e2eca54",
+    "artistMbid": "1d22a17d-439c-4fa8-80b2-1ddbc9496e70",
+    "releaseCount": 3,
+    "artistGenres": [
+      "punk"
+    ],
+    "releasedAt": "2017-09-29",
+    "externalIdsArtist": {
+      "bandcamp": "https://otherkin.bandcamp.com/",
+      "discogs": "4840534",
+      "rateyourmusic": "otherkin",
+      "soundcloud": "https://soundcloud.com/otherkinok"
+    }
+  }
+}

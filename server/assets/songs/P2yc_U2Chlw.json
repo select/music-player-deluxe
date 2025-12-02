@@ -2,7 +2,7 @@
   "youtubeId": "P2yc_U2Chlw",
   "title": "Horses",
   "artist": "Slomosa",
-  "lastFetched": "2025-11-23T16:37:33.399Z",
+  "lastFetched": "2025-12-02T01:11:02.316Z",
   "odesli": {
     "amazonMusic": "B089N6FGQW",
     "amazonStore": "B089N6FGQW",
@@ -43,7 +43,21 @@
       "stoner rock"
     ],
     "trackMbid": "69409534-9445-4056-b0e8-dfdc5410816c",
-    "artistMbid": "262c9855-aa44-40f4-a275-cb425c074513"
+    "artistMbid": "262c9855-aa44-40f4-a275-cb425c074513",
+    "releasedAt": "2020-08-26",
+    "externalIdsArtist": {
+      "allmusic": "mn0003954936",
+      "bandcamp": "https://slomosa1.bandcamp.com/",
+      "discogs": "8069347",
+      "spotify": "0l7GXb53ndWn97ul8Hpfzd",
+      "deezer": "75706492",
+      "lastfm": "Slomosa",
+      "genius": "Slomosa",
+      "rateyourmusic": "slomosa",
+      "soundcloud": "https://soundcloud.com/slomosa",
+      "wikidata": "Q113273531",
+      "youtube": "UC57LztCWbw4zajavTumB_fg"
+    }
   },
   "lastfm": {
     "id": "Slomosa/_/Horses",

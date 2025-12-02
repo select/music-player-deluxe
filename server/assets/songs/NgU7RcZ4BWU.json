@@ -2,7 +2,7 @@
   "youtubeId": "NgU7RcZ4BWU",
   "title": "Let's Go",
   "artist": "Club Des Belugas",
-  "lastFetched": "2025-11-30T23:34:16.820Z",
+  "lastFetched": "2025-12-02T01:08:43.440Z",
   "lastfm": {
     "id": "Club+Des+Belugas/_/Let%27s+Go",
     "listeners": 4721,
@@ -20,6 +20,14 @@
       "jazz",
       "lounge",
       "nu jazz"
-    ]
+    ],
+    "releasedAt": "2022",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "154956",
+      "spotify": "3ea1ZpptTqS5pwYYpQQVCo",
+      "deezer": "12987",
+      "wikidata": "Q4036325"
+    }
   }
 }

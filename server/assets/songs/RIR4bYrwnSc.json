@@ -1,0 +1,40 @@
+{
+  "youtubeId": "RIR4bYrwnSc",
+  "title": "Joyous",
+  "artist": "Lance Ferguson",
+  "lastFetched": "2025-12-02T01:14:25.883Z",
+  "odesli": {
+    "soundcloud": "lanceferguson-music/joyous",
+    "spotify": "3iDjBYycm6cAqwzcoD23DE",
+    "tidal": "97958426",
+    "youtube": "RIR4bYrwnSc",
+    "youtubeMusic": "RIR4bYrwnSc"
+  },
+  "lastfm": {
+    "id": "Lance+Ferguson/_/Joyous",
+    "listeners": 415,
+    "playcount": 972,
+    "title": "Joyous",
+    "artist": "Lance Ferguson",
+    "mbid": "6d4cc141-e3da-49cf-a390-7bb7d403110b",
+    "artistMbid": "d58bd6e5-3f09-4f7d-b2c8-3cd626d05b02",
+    "tags": [
+      "fusion",
+      "soul",
+      "funk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d4040fd4-b736-4bfd-b81c-d38329aa2a5b",
+    "artistMbid": "d58bd6e5-3f09-4f7d-b2c8-3cd626d05b02",
+    "releaseCount": 2,
+    "releasedAt": "2019-01-25",
+    "artistCountry": "NZ",
+    "externalIdsArtist": {
+      "bandcamp": "https://lanceferguson.bandcamp.com/",
+      "discogs": "101697",
+      "spotify": "6dbQYrMbGorwsvnVCDb9ua",
+      "deezer": "4456832"
+    }
+  }
+}

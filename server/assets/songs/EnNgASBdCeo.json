@@ -2,7 +2,7 @@
   "youtubeId": "EnNgASBdCeo",
   "title": "Sir Duke",
   "artist": "Stevie Wonder",
-  "lastFetched": "2025-11-30T23:37:56.346Z",
+  "lastFetched": "2025-12-02T00:54:23.736Z",
   "odesli": {
     "amazonMusic": "B07RDMSQS6",
     "amazonStore": "B07RDMSQS6",
@@ -49,7 +49,25 @@
       "pop",
       "pop soul",
       "soul"
-    ]
+    ],
+    "releasedAt": "1976-09-28",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "4pNiE4LCVV74vfIBaUHm1b"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000622805",
+      "discogs": "649674",
+      "spotify": "7guDJrEfX3qb6FEbdPA5qi",
+      "deezer": "166",
+      "lastfm": "Stevie+Wonder",
+      "genius": "Stevie-wonder",
+      "rateyourmusic": "stevie_wonder",
+      "soundcloud": "https://soundcloud.com/stevie-wonder-official",
+      "napster": "stevie-wonder",
+      "wikidata": "Q714",
+      "youtube": "UCR83RRXHzXrEQbu_ZQmPMSg"
+    }
   },
   "lastfm": {
     "id": "Stevie+Wonder/_/Sir+Duke",

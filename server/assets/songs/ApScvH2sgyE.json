@@ -2,7 +2,7 @@
   "youtubeId": "ApScvH2sgyE",
   "title": "Nobody",
   "artist": "Skindred",
-  "lastFetched": "2025-11-23T16:30:57.210Z",
+  "lastFetched": "2025-12-02T00:47:56.152Z",
   "odesli": {
     "amazonMusic": "B001237IRW",
     "amazonStore": "B001237IRW",
@@ -59,7 +59,27 @@
       "rapcore"
     ],
     "trackMbid": "bbeb0814-d0ff-4122-9efb-6eb8d0b7f6b7",
-    "artistMbid": "36e371e9-e76b-4b66-b813-e1d1af6d7128"
+    "artistMbid": "36e371e9-e76b-4b66-b813-e1d1af6d7128",
+    "releasedAt": "2002-07-03",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "6ydV2rmhWkZCYk1TIpDlL8",
+      "deezer": "715278"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000025236",
+      "bandcamp": "https://skindred-earache.bandcamp.com/",
+      "discogs": "277983",
+      "spotify": "3jTlKw98Ql1jGRPYqhqHap",
+      "deezer": "1259",
+      "lastfm": "Skindred",
+      "genius": "Skindred",
+      "rateyourmusic": "skindred",
+      "soundcloud": "https://soundcloud.com/skindred",
+      "napster": "skindred",
+      "wikidata": "Q973760",
+      "youtube": "UCIxhwCa4CY-etSc7Y2f8nCg"
+    }
   },
   "lastfm": {
     "id": "Skindred/_/Nobody",

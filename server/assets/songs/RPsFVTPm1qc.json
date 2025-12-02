@@ -2,7 +2,7 @@
   "youtubeId": "RPsFVTPm1qc",
   "title": "Shout 2000",
   "artist": "Disturbed",
-  "lastFetched": "2025-11-23T16:38:58.134Z",
+  "lastFetched": "2025-12-02T01:14:47.819Z",
   "odesli": {
     "amazonMusic": "B0011Z7JHU",
     "amazonStore": "B0011Z7JHU",
@@ -55,7 +55,22 @@
       "metal"
     ],
     "trackMbid": "955dd434-660a-4446-ba9f-9c92eec49233",
-    "artistMbid": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5"
+    "artistMbid": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5",
+    "releasedAt": "2000-03-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000175579",
+      "discogs": "40027",
+      "spotify": "3TOqt5oJwL9BE2NG9MEwDa",
+      "deezer": "2127",
+      "lastfm": "Disturbed",
+      "genius": "Disturbed",
+      "rateyourmusic": "disturbed",
+      "soundcloud": "https://soundcloud.com/disturbed1",
+      "napster": "disturbed",
+      "wikidata": "Q131366",
+      "youtube": "UCMHHDXMvnMKRzuEKtMe8ZRA"
+    }
   },
   "lastfm": {
     "id": "Disturbed/_/Shout+2000",

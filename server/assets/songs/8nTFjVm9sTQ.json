@@ -2,7 +2,7 @@
   "youtubeId": "8nTFjVm9sTQ",
   "title": "House of Cards",
   "artist": "Radiohead",
-  "lastFetched": "2025-11-19T14:26:59.852Z",
+  "lastFetched": "2025-12-02T00:45:17.514Z",
   "musicbrainz": {
     "tags": [
       "alternative",
@@ -12,7 +12,21 @@
       "radiohead"
     ],
     "trackMbid": "01d2fdc1-4c3c-3951-bc5b-894a240f292b",
-    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000326249",
+      "bandcamp": "https://radiohead.bandcamp.com/",
+      "discogs": "3840",
+      "spotify": "4Z8W4fKeB5YxbusRsdQVPb",
+      "deezer": "399",
+      "lastfm": "Radiohead",
+      "genius": "Radiohead",
+      "rateyourmusic": "radiohead",
+      "soundcloud": "https://soundcloud.com/radiohead",
+      "wikidata": "Q44190",
+      "youtube": "UCr_iyUANcn9OX_yy9piYoLw"
+    }
   },
   "lastfm": {
     "id": "Radiohead/_/House+of+Cards",

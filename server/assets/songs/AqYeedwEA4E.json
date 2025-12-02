@@ -2,7 +2,7 @@
   "youtubeId": "AqYeedwEA4E",
   "title": "Evil Eye",
   "artist": "Fu Manchu",
-  "lastFetched": "2025-11-23T16:30:59.297Z",
+  "lastFetched": "2025-12-02T00:47:58.599Z",
   "musicbrainz": {
     "artistTags": [
       "desert rock",
@@ -18,7 +18,19 @@
       "stoner rock"
     ],
     "trackMbid": "069fa815-3321-3801-9be5-2944ffb26804",
-    "artistMbid": "f96de591-5dae-41da-855b-eb387d88d7d4"
+    "artistMbid": "f96de591-5dae-41da-855b-eb387d88d7d4",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000988529",
+      "bandcamp": "https://fumanchuband.bandcamp.com/",
+      "discogs": "64758",
+      "spotify": "1TKaUU8ooBgSW9TlyKsw6k",
+      "deezer": "2874",
+      "lastfm": "Fu+Manchu",
+      "rateyourmusic": "fu_manchu",
+      "youtube": "UCl4NTEQKHXB2saseTctyFaQ",
+      "wikidata": "Q137769"
+    }
   },
   "lastfm": {
     "id": "Fu+Manchu/_/Evil+Eye",

@@ -1,0 +1,37 @@
+{
+  "youtubeId": "cKBIy0vM3Bg",
+  "title": "Sky",
+  "artist": "Intara",
+  "lastFetched": "2025-12-01T13:00:25.423Z",
+  "odesli": {
+    "amazonMusic": "B07J52SXVG",
+    "amazonStore": "B07J52SXVG",
+    "deezer": "427921382",
+    "appleMusic": "1803187511",
+    "itunes": "1803187511",
+    "napster": "tra.562339221",
+    "pandora": "TR:154340559",
+    "soundcloud": "intara/sky",
+    "spotify": "3Fqh57DScj2RPWlBwOim4G",
+    "tidal": "96429016",
+    "yandex": "117274744",
+    "youtube": "cKBIy0vM3Bg",
+    "youtubeMusic": "cKBIy0vM3Bg"
+  },
+  "lastfm": {
+    "id": "Intara/_/Sky",
+    "listeners": 2670,
+    "playcount": 11444,
+    "title": "Sky",
+    "artist": "Intara",
+    "artistMbid": "a989f7a0-8f57-45f0-9bce-a66b7ef2c576",
+    "tags": [
+      "trance"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fa05ef1d-edab-464e-b389-baf1049f83d7",
+    "artistMbid": "a989f7a0-8f57-45f0-9bce-a66b7ef2c576",
+    "releaseCount": 1
+  }
+}

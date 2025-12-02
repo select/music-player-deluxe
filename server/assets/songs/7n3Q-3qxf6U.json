@@ -2,7 +2,7 @@
   "title": "rapids",
   "artist": "Simo Cell",
   "youtubeId": "7n3Q-3qxf6U",
-  "lastFetched": "2025-11-19T03:33:38.860Z",
+  "lastFetched": "2025-12-02T00:43:54.788Z",
   "odesli": {
     "amazonMusic": "B0CB4TNSZP",
     "amazonStore": "B0CB4TNSZP",
@@ -32,6 +32,11 @@
   "musicbrainz": {
     "trackMbid": "7a245f56-034d-4fd0-a171-c7b6fe2d6021",
     "artistMbid": "b37b759e-715e-4e7c-ac07-776e6a9450d4",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-09-14",
+    "externalIdsArtist": {
+      "discogs": "4439827",
+      "soundcloud": "https://soundcloud.com/simocell"
+    }
   }
 }

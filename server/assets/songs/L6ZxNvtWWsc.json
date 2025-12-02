@@ -2,7 +2,7 @@
   "youtubeId": "L6ZxNvtWWsc",
   "title": "Sarà",
   "artist": "I Muvrini",
-  "lastFetched": "2025-11-23T16:35:56.685Z",
+  "lastFetched": "2025-12-02T01:04:33.614Z",
   "musicbrainz": {
     "artistTags": [
       "folk",
@@ -13,7 +13,15 @@
       "worldbeat"
     ],
     "trackMbid": "e46dd359-29d9-3233-b472-f49b53374b28",
-    "artistMbid": "42e8e932-4eb2-4ec0-8d6a-83bd19e7ec8f"
+    "artistMbid": "42e8e932-4eb2-4ec0-8d6a-83bd19e7ec8f",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "discogs": "394844",
+      "spotify": "6F0Plr9cZQ71ExSA4PGX7r",
+      "deezer": "3659",
+      "wikidata": "Q234929",
+      "youtube": "UCaEvMWzk3LdCpMZnntkdYwQ"
+    }
   },
   "lastfm": {
     "id": "I+Muvrini/_/Sar%C3%A0",

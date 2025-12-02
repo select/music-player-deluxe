@@ -1,0 +1,57 @@
+{
+  "youtubeId": "-zVjjBv7nU8",
+  "title": "John Wizards - Tet Lek Schrempf",
+  "lastFetched": "2025-12-02T00:32:51.727Z",
+  "ai": {
+    "title": "Tet Lek Schrempf",
+    "artist": "John Wizards"
+  },
+  "lastfm": {
+    "id": "John+Wizards/_/Tet+Lek+Schrempf",
+    "listeners": 2890,
+    "playcount": 12488,
+    "title": "Tet Lek Schrempf",
+    "artist": "John Wizards",
+    "artistMbid": "9ead0b84-3e7b-40f5-bcb7-ca658e782801",
+    "tags": [
+      "electronic",
+      "john wizards",
+      "2013",
+      "mzansi"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d3cdcda5-81de-464a-a1c8-1bf7f8a24ca6",
+    "artistMbid": "9ead0b84-3e7b-40f5-bcb7-ca658e782801",
+    "releaseCount": 2,
+    "genres": [
+      "electronic",
+      "hip hop",
+      "reggae"
+    ],
+    "artistGenres": [
+      "shangaan electro",
+      "soukous"
+    ],
+    "releasedAt": "2013-09-02",
+    "artistCountry": "ZA",
+    "externalIds": {
+      "allmusic": "mn0003144799",
+      "bandcamp": "https://johnwizards.bandcamp.com/",
+      "discogs": "3379380",
+      "spotify": "4sPLhyVBoVtdlX0MaetdVK",
+      "lastfm": "John+Wizards",
+      "soundcloud": "john-wizards"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003144799",
+      "bandcamp": "https://johnwizards.bandcamp.com/",
+      "discogs": "3379380",
+      "spotify": "4sPLhyVBoVtdlX0MaetdVK",
+      "lastfm": "John+Wizards",
+      "rateyourmusic": "john_wizards",
+      "soundcloud": "https://soundcloud.com/john-wizards",
+      "wikidata": "Q15821605"
+    }
+  }
+}

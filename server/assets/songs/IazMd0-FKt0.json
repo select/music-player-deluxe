@@ -2,7 +2,7 @@
   "youtubeId": "IazMd0-FKt0",
   "title": "Paradoxical",
   "artist": "Acid Lab",
-  "lastFetched": "2025-11-30T20:05:41.804Z",
+  "lastFetched": "2025-12-02T01:00:42.440Z",
   "odesli": {
     "amazonMusic": "B09H124CWR",
     "amazonStore": "B09H124CWR",
@@ -30,6 +30,15 @@
     "artistGenres": [
       "drum and bass",
       "jungle"
-    ]
+    ],
+    "releasedAt": "2018-04-06",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "bandcamp": "https://acidlab.bandcamp.com/",
+      "discogs": "1118875",
+      "spotify": "3EpW2Blqje9r8fvGCpRnpl",
+      "deezer": "275703",
+      "soundcloud": "https://soundcloud.com/acid_lab"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "4LRRJzaktuY",
   "title": "Steppin Out",
   "artist": "Steel Pulse",
-  "lastFetched": "2025-11-30T22:02:43.330Z",
+  "lastFetched": "2025-12-02T00:38:25.156Z",
   "lastfm": {
     "id": "Steel+Pulse/_/Steppin+Out",
     "listeners": 2627,
@@ -22,6 +22,16 @@
     "artistGenres": [
       "reggae",
       "roots reggae"
-    ]
+    ],
+    "releasedAt": "2004",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000745584",
+      "discogs": "169498",
+      "spotify": "6UL7BodGc5iVmQGlMwHR0g",
+      "deezer": "6542",
+      "rateyourmusic": "steel_pulse",
+      "wikidata": "Q1542680"
+    }
   }
 }

@@ -4,7 +4,7 @@
   "album": "Xaxoeira EP",
   "duration": 352,
   "youtubeId": "2Kc6YYG8VRg",
-  "lastFetched": "2025-11-19T05:09:16.683Z",
+  "lastFetched": "2025-12-02T00:35:57.000Z",
   "odesli": {
     "amazonMusic": "B07BPKYT91",
     "amazonStore": "B07BPKYT91",
@@ -27,6 +27,15 @@
   },
   "musicbrainz": {
     "trackMbid": "738b8e95-fb6c-4c6f-90ae-89934c036018",
-    "artistMbid": "9d7ca1c4-f865-4720-ae19-cc5afda60c04"
+    "artistMbid": "9d7ca1c4-f865-4720-ae19-cc5afda60c04",
+    "releasedAt": "2016-08-01",
+    "artistCountry": "BR",
+    "externalIdsArtist": {
+      "discogs": "4159119",
+      "spotify": "5LuhrBhGclMzHlYK4mDLLp",
+      "deezer": "11177202",
+      "lastfm": "Xique-Xique",
+      "soundcloud": "https://soundcloud.com/djdunwich"
+    }
   }
 }

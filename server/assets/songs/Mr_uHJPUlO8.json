@@ -2,7 +2,7 @@
   "youtubeId": "Mr_uHJPUlO8",
   "title": "Give It Away",
   "artist": "Red Hot Chili Peppers",
-  "lastFetched": "2025-11-30T23:15:16.874Z",
+  "lastFetched": "2025-12-02T01:07:15.716Z",
   "odesli": {
     "amazonMusic": "B07VXKCTDR",
     "amazonStore": "B07VXKCTDR",
@@ -40,7 +40,22 @@
       "pop rock",
       "rap rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1995",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000883318",
+      "discogs": "92476",
+      "spotify": "0L8ExT028jH3ddEcZwqJJ5",
+      "deezer": "182",
+      "lastfm": "Red+Hot+Chili+Peppers",
+      "genius": "Red-hot-chili-peppers",
+      "rateyourmusic": "red_hot_chili_peppers",
+      "soundcloud": "https://soundcloud.com/red-hot-chili-peppers-official",
+      "napster": "red-hot-chili-peppers",
+      "wikidata": "Q10708",
+      "youtube": "UCrSorX845CEWXzU4Z7BojjA"
+    }
   },
   "lastfm": {
     "id": "Red+Hot+Chili+Peppers/_/Give+It+Away",

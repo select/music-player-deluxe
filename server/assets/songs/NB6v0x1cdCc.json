@@ -2,7 +2,7 @@
   "youtubeId": "NB6v0x1cdCc",
   "title": "Carouser",
   "artist": "Passafire",
-  "lastFetched": "2025-11-19T17:32:19.077Z",
+  "lastFetched": "2025-12-02T01:07:49.353Z",
   "odesli": {
     "amazonMusic": "B0C34CWFNJ",
     "amazonStore": "B0C34CWFNJ",
@@ -24,6 +24,11 @@
   },
   "musicbrainz": {
     "trackMbid": "92757c8f-cd53-3168-90ae-f0a16da18e17",
-    "artistMbid": "d34516e1-b370-4b97-addd-6363ef0e9ecc"
+    "artistMbid": "d34516e1-b370-4b97-addd-6363ef0e9ecc",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "2735122",
+      "spotify": "3Il8w8T0de4sdogo2EQEVJ"
+    }
   }
 }

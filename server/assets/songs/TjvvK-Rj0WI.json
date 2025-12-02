@@ -4,7 +4,7 @@
   "album": "Spellbound",
   "duration": 198,
   "youtubeId": "TjvvK-Rj0WI",
-  "lastFetched": "2025-11-19T04:36:43.220Z",
+  "lastFetched": "2025-12-02T01:18:45.010Z",
   "odesli": {
     "amazonMusic": "B09JFD9JQ1",
     "amazonStore": "B09JFD9JQ1",
@@ -32,7 +32,25 @@
       "Gothic Rock"
     ],
     "trackMbid": "a435aa59-93ca-4e4d-9604-b4132f50d4b2",
-    "artistMbid": "78ea5ea1-3c4d-4b7e-ac5d-68900319ebe2"
+    "artistMbid": "78ea5ea1-3c4d-4b7e-ac5d-68900319ebe2",
+    "releasedAt": "1981-05",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "5Ng6UbryNd3eds2zQk9MUf"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000748222",
+      "discogs": "80501",
+      "spotify": "1n65zfwYIj5kKEtNgxUlWb",
+      "deezer": "1719",
+      "lastfm": "Siouxsie+and+the+Banshees",
+      "genius": "Siouxsie-and-the-banshees",
+      "rateyourmusic": "siouxsie_and_the_banshees",
+      "soundcloud": "https://soundcloud.com/siouxsie-and-the-banshees",
+      "youtube": "UCjCD5fzt7QaWpuGE9KNXN0g",
+      "napster": "siouxsie-and-the-banshees",
+      "wikidata": "Q323834"
+    }
   },
   "lastfm": {
     "id": "Siouxsie+and+the+Banshees/_/Spellbound",

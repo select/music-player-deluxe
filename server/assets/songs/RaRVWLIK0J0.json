@@ -2,7 +2,7 @@
   "youtubeId": "RaRVWLIK0J0",
   "title": "Du schreibst Geschichte",
   "artist": "Madsen",
-  "lastFetched": "2025-11-30T21:02:09.983Z",
+  "lastFetched": "2025-12-02T01:15:19.272Z",
   "odesli": {
     "amazonMusic": "B073MGW6YY",
     "amazonStore": "B073MGW6YY",
@@ -40,6 +40,20 @@
     ],
     "artistGenres": [
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2006-07-28",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001063883",
+      "discogs": "309721",
+      "spotify": "1LsT3D414izg8h3K1VbrL4",
+      "deezer": "12817",
+      "lastfm": "Madsen",
+      "genius": "Madsen",
+      "rateyourmusic": "madsen",
+      "soundcloud": "https://soundcloud.com/madsen-official",
+      "wikidata": "Q566663",
+      "youtube": "UCHKRQOkiLreFUJnP9jqaD3Q"
+    }
   }
 }

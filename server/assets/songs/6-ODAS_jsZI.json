@@ -2,7 +2,7 @@
   "youtubeId": "6-ODAS_jsZI",
   "title": "Lonesome",
   "artist": "Jakob",
-  "lastFetched": "2025-11-23T16:28:43.885Z",
+  "lastFetched": "2025-12-02T00:40:48.223Z",
   "odesli": {
     "amazonMusic": "B0DK6KDMFV",
     "amazonStore": "B0DK6KDMFV",
@@ -29,7 +29,19 @@
       "post-rock"
     ],
     "trackMbid": "099c3b4c-68e1-3594-841c-24a13d7816c7",
-    "artistMbid": "936d6c0c-ad6f-4ec6-a8f0-e2dd7faf79ec"
+    "artistMbid": "936d6c0c-ad6f-4ec6-a8f0-e2dd7faf79ec",
+    "artistCountry": "NZ",
+    "externalIdsArtist": {
+      "allmusic": "mn0003265784",
+      "bandcamp": "https://jakob.bandcamp.com/",
+      "discogs": "729659",
+      "spotify": "1rRk0aScbAjuf5lAnnTe6n",
+      "lastfm": "Jakob",
+      "rateyourmusic": "jakob",
+      "soundcloud": "https://soundcloud.com/jakobtheband",
+      "wikidata": "Q6125225",
+      "youtube": "UCpM3Jk6cjeGKGW2ETklZV7g"
+    }
   },
   "lastfm": {
     "id": "Jakob/_/Lonesome",

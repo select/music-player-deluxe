@@ -3,7 +3,7 @@
   "artist": "Björk",
   "duration": 330,
   "youtubeId": "D7DJDABIbGk",
-  "lastFetched": "2025-11-19T02:43:37.873Z",
+  "lastFetched": "2025-12-02T00:51:33.642Z",
   "musicbrainz": {
     "tags": [
       "alternative rock",
@@ -53,7 +53,22 @@
     ],
     "trackMbid": "8969dc6d-5fdf-4735-9744-49a6ea1deef1",
     "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
-    "releaseCount": 8
+    "releaseCount": 8,
+    "releasedAt": "2003-08-18",
+    "artistCountry": "IS",
+    "externalIdsArtist": {
+      "allmusic": "mn0000769444",
+      "bandcamp": "https://bjork.bandcamp.com/",
+      "discogs": "517951",
+      "spotify": "7w29UYBi0qsHi5RTcv3lmA",
+      "deezer": "630",
+      "lastfm": "Bj%C3%B6rk",
+      "genius": "Bjork",
+      "rateyourmusic": "bjork",
+      "soundcloud": "https://soundcloud.com/bjork",
+      "wikidata": "Q42455",
+      "youtube": "UCAjidy3vxRkgGVNIFqZMl_Q"
+    }
   },
   "lastfm": {
     "listeners": 3580,

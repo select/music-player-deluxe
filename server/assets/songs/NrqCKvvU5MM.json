@@ -2,7 +2,7 @@
   "youtubeId": "NrqCKvvU5MM",
   "title": "When I Was a Yout",
   "artist": "Ed Solo",
-  "lastFetched": "2025-11-30T20:31:01.280Z",
+  "lastFetched": "2025-12-02T01:09:00.499Z",
   "odesli": {
     "amazonMusic": "B0BT5YPKCZ",
     "amazonStore": "B0BT5YPKCZ",
@@ -31,6 +31,14 @@
     "releaseCount": 2,
     "genres": [
       "breaks"
-    ]
+    ],
+    "releasedAt": "2006-03-13",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000164612",
+      "discogs": "862534",
+      "spotify": "7jnJgk7LLLdpPhXrOOZXCa",
+      "deezer": "433237"
+    }
   }
 }

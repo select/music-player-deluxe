@@ -2,7 +2,7 @@
   "youtubeId": "Tg_Guhd6fEY",
   "title": "I'm Still in Love with You",
   "artist": "Al Green",
-  "lastFetched": "2025-11-30T22:31:20.256Z",
+  "lastFetched": "2025-12-02T01:18:42.422Z",
   "odesli": {
     "amazonMusic": "B01MQK6O7F",
     "amazonStore": "B01MQK6O7F",
@@ -49,6 +49,17 @@
       "soul",
       "soul blues",
       "southern soul"
-    ]
+    ],
+    "releasedAt": "2000-06-28",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000607448",
+      "discogs": "25261",
+      "spotify": "3dkbV4qihUeMsqN4vBGg93",
+      "deezer": "2369",
+      "lastfm": "Al+Green",
+      "rateyourmusic": "al_green",
+      "wikidata": "Q313260"
+    }
   }
 }

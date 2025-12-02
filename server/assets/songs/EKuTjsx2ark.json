@@ -2,7 +2,7 @@
   "youtubeId": "EKuTjsx2ark",
   "title": "a gift",
   "artist": "Rachel Portman",
-  "lastFetched": "2025-11-30T23:21:39.309Z",
+  "lastFetched": "2025-12-02T00:53:42.267Z",
   "odesli": {
     "spotify": "1CmQKnFJKWTesGSSQ2noNL",
     "tidal": "230045271",
@@ -23,6 +23,19 @@
   "musicbrainz": {
     "artistMbid": "550508e3-efae-47de-83cc-e50cc471d7e4",
     "trackMbid": "95201757-e9af-469e-b008-06e064b996ff",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2020-05-08",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000597500",
+      "discogs": "377359",
+      "spotify": "1joFZGTRER78nUsWtgHCHR",
+      "deezer": "1941",
+      "lastfm": "Rachel+Portman",
+      "rateyourmusic": "rachel-portman",
+      "soundcloud": "https://soundcloud.com/rachel-portman-official",
+      "wikidata": "Q261314",
+      "youtube": "UCuVRrnU7zGnonK6s3yEzODA"
+    }
   }
 }

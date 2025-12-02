@@ -2,7 +2,7 @@
   "youtubeId": "SBcADQziQWY",
   "title": "Check My Brain",
   "artist": "Alice in Chains",
-  "lastFetched": "2025-11-19T07:25:10.055Z",
+  "lastFetched": "2025-12-02T01:16:03.816Z",
   "odesli": {
     "amazonMusic": "B0D7V8R5Q2",
     "amazonStore": "B0D7V8R5Q2",
@@ -27,7 +27,21 @@
       "rock"
     ],
     "trackMbid": "3fb648b7-f6b4-383e-b9f7-dd185105f8d2",
-    "artistMbid": "4bd95eea-b9f6-4d70-a36c-cfea77431553"
+    "artistMbid": "4bd95eea-b9f6-4d70-a36c-cfea77431553",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000007920",
+      "discogs": "251846",
+      "spotify": "64tNsm6TnZe2zpcMVMOoHL",
+      "deezer": "691",
+      "lastfm": "Alice+in+Chains",
+      "genius": "Alice-in-chains",
+      "rateyourmusic": "alice-in-chains",
+      "soundcloud": "https://soundcloud.com/aliceinchainsofficial",
+      "napster": "alice-in-chains",
+      "wikidata": "Q484255",
+      "youtube": "UCjtMrcJSQnXyE0rGfQlr8MA"
+    }
   },
   "lastfm": {
     "id": "Alice+in+Chains/_/Check+My+Brain",

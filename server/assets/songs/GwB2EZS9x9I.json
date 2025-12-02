@@ -2,7 +2,7 @@
   "youtubeId": "GwB2EZS9x9I",
   "title": "Frenzy",
   "artist": "Iggy Pop",
-  "lastFetched": "2025-11-23T16:34:16.431Z",
+  "lastFetched": "2025-12-02T00:58:28.781Z",
   "odesli": {
     "amazonMusic": "B0BKKFJL96",
     "amazonStore": "B0BKKFJL96",
@@ -32,7 +32,21 @@
       "punk"
     ],
     "trackMbid": "f0022b89-5fe9-4d15-80d8-9ec7e2b79b17",
-    "artistMbid": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7"
+    "artistMbid": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7",
+    "releasedAt": "2025-01-24",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000926548",
+      "bandcamp": "https://iggypopmusic.bandcamp.com/",
+      "discogs": "636988",
+      "spotify": "33EUXrFKGjpUSGacqEHhU4",
+      "deezer": "868",
+      "lastfm": "Iggy+Pop",
+      "genius": "Iggy-pop",
+      "rateyourmusic": "iggy_pop",
+      "wikidata": "Q182665",
+      "youtube": "UCRkrwxsHkK5pY8es61J5oGg"
+    }
   },
   "lastfm": {
     "id": "Iggy+Pop/_/Frenzy",

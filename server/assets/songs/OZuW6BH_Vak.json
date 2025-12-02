@@ -1,7 +1,7 @@
 {
   "youtubeId": "OZuW6BH_Vak",
   "title": "Crazy On You",
-  "lastFetched": "2025-11-30T21:20:03.180Z",
+  "lastFetched": "2025-12-02T01:10:16.072Z",
   "ai": {
     "title": "Heart-Crazy On You",
     "artist": "SuperKevinheart"
@@ -49,6 +49,19 @@
       "rock",
       "soft rock",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2007-10-23",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000671953",
+      "discogs": "136201",
+      "spotify": "34jw2BbxjoYalTp8cJFCPv",
+      "deezer": "7359",
+      "lastfm": "Heart",
+      "genius": "heart",
+      "rateyourmusic": "heart",
+      "napster": "heart",
+      "wikidata": "Q941662"
+    }
   }
 }

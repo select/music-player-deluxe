@@ -1,0 +1,75 @@
+{
+  "youtubeId": "IHXK9glwFBg",
+  "title": "So Far Away",
+  "artist": "Dire Straits",
+  "lastFetched": "2025-12-02T01:00:17.733Z",
+  "odesli": {
+    "amazonMusic": "B001NHETNS",
+    "amazonStore": "B001NHETNS",
+    "boomplay": "18446540",
+    "appleMusic": "299545315",
+    "itunes": "299545315",
+    "soundcloud": "direstraits/so-far-away",
+    "spotify": "3pGBIgFdfdnjtHDJR4nbrR",
+    "tidal": "34981732",
+    "youtube": "IHXK9glwFBg",
+    "youtubeMusic": "IHXK9glwFBg"
+  },
+  "lastfm": {
+    "summary": "\"So Far Away\" is a 1985 rock song by Dire Straits. It appears on the album Brothers in Arms. It became the band's fourth top 20 hit on the Billboard charts, peaking at #19.\n\nAccording to the So Far Away Songfacts, the line, \"I'm tired of making out on the telephone, 'cause you're so far away from me\" hails back to a common element of the 1980s: the phone-sex line. <a href=\"http://www.last.fm/music/Dire+Straits/_/So+Far+Away\">Read more on Last.fm</a>.",
+    "id": "Dire+Straits/_/So+Far+Away",
+    "listeners": 514573,
+    "playcount": 2600909,
+    "title": "So Far Away",
+    "artist": "Dire Straits",
+    "mbid": "57c32de9-2fa5-4367-a5e5-f2162b7c3a44",
+    "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+    "tags": [
+      "classic rock",
+      "rock",
+      "80s",
+      "dire straits"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b3ad85e8-241d-44d9-81d4-31a7cf5f3b60",
+    "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+    "releaseCount": 25,
+    "genres": [
+      "aor",
+      "classic rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "classic rock",
+      "pop rock",
+      "pub rock",
+      "rock",
+      "rock and roll",
+      "roots rock",
+      "soft rock",
+      "sophisti-pop"
+    ],
+    "releasedAt": "1985-05",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "4DDyybdhC9su038YIG6JDj"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000167517",
+      "discogs": "103687",
+      "spotify": "0WwSkZ7LtFUFjGjMZBMt6T",
+      "deezer": "176",
+      "lastfm": "Dire+Straits",
+      "genius": "Dire-straits",
+      "rateyourmusic": "dire_straits",
+      "soundcloud": "https://soundcloud.com/direstraits",
+      "wikidata": "Q50040",
+      "youtube": "UCA37MBUzQgLbUHoUQgl-p0g"
+    }
+  }
+}

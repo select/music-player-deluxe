@@ -2,7 +2,7 @@
   "youtubeId": "PMV3a8DM60c",
   "title": "Zipfeschwinga",
   "artist": "DICHT & ERGREIFEND",
-  "lastFetched": "2025-11-23T15:40:03.424Z",
+  "lastFetched": "2025-12-02T01:11:32.042Z",
   "lastfm": {
     "id": "DICHT+&+ERGREIFEND/_/Zipfeschwinga",
     "listeners": 4623,
@@ -17,6 +17,18 @@
   },
   "musicbrainz": {
     "trackMbid": "788634de-0478-4448-930e-f1d45329d61a",
-    "artistMbid": "c6bc18a7-72f1-46d3-857b-b632aaef882f"
+    "artistMbid": "c6bc18a7-72f1-46d3-857b-b632aaef882f",
+    "releasedAt": "2015-06-05",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "bandcamp": "https://dichtundergreifend.bandcamp.com/",
+      "discogs": "4264824",
+      "spotify": "7cWK9gtcsryfl5CBzFjjjW",
+      "deezer": "7115753",
+      "rateyourmusic": "dicht-and-ergreifend",
+      "soundcloud": "https://soundcloud.com/dichtundergreifend",
+      "wikidata": "Q65969753",
+      "youtube": "UCtT54e0JjVBg4qIWX-DrS5g"
+    }
   }
 }

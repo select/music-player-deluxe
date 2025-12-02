@@ -2,7 +2,7 @@
   "youtubeId": "Hlev6Nz0CI8",
   "title": "Bad Attraction",
   "artist": "Brad Sucks",
-  "lastFetched": "2025-11-19T05:47:52.379Z",
+  "lastFetched": "2025-12-02T00:59:24.384Z",
   "odesli": {
     "amazonMusic": "B06XGRJ7VQ",
     "amazonStore": "B06XGRJ7VQ",
@@ -29,6 +29,16 @@
   },
   "musicbrainz": {
     "trackMbid": "55c15b55-da1a-3d2e-9026-0fa4a79c7e3a",
-    "artistMbid": "9c070e4f-28c1-4b98-b371-d8514c31ba55"
+    "artistMbid": "9c070e4f-28c1-4b98-b371-d8514c31ba55",
+    "externalIdsArtist": {
+      "allmusic": "mn0000306032",
+      "bandcamp": "https://bradsucks.bandcamp.com/",
+      "discogs": "368581",
+      "spotify": "13yy1c4aDXIWu2zfvtvGLn",
+      "deezer": "9610",
+      "lastfm": "Brad+Sucks",
+      "soundcloud": "https://soundcloud.com/bradsucks",
+      "wikidata": "Q896869"
+    }
   }
 }

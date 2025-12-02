@@ -2,7 +2,7 @@
   "youtubeId": "HpXSx-meS0U",
   "title": "Rastafarian Folk Song",
   "artist": "Cymande",
-  "lastFetched": "2025-11-30T22:26:24.777Z",
+  "lastFetched": "2025-12-02T00:59:33.414Z",
   "odesli": {
     "amazonMusic": "B0DPJQ1YLK",
     "amazonStore": "B0DPJQ1YLK",
@@ -36,6 +36,16 @@
     "artistGenres": [
       "funk",
       "psychedelic soul"
-    ]
+    ],
+    "releasedAt": "1972",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000147294",
+      "discogs": "59250",
+      "spotify": "4hfcSstwnyuBoek1dQwLkG",
+      "deezer": "2884",
+      "rateyourmusic": "cymande",
+      "wikidata": "Q3008703"
+    }
   }
 }

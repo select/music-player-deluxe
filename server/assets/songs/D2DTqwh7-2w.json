@@ -2,7 +2,7 @@
   "title": "Das Alte Liedchen",
   "artist": "Kreiml & Samurai",
   "youtubeId": "D2DTqwh7-2w",
-  "lastFetched": "2025-11-23T15:39:48.972Z",
+  "lastFetched": "2025-12-02T00:51:21.196Z",
   "lastfm": {
     "id": "Kreiml+&+Samurai/_/Das+Alte+Liedchen",
     "listeners": 670,
@@ -14,6 +14,10 @@
   "musicbrainz": {
     "trackMbid": "e07b0e8d-9a45-4383-a360-da29c3116089",
     "artistMbid": "13e9c991-678e-47cd-805e-97cecfff25c4",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2016-01-15",
+    "externalIdsArtist": {
+      "bandcamp": "https://schweinehund.bandcamp.com/"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "DRfzittQ4Wc",
   "title": "Awakening",
   "artist": "ichika Nito",
-  "lastFetched": "2025-11-30T23:20:30.747Z",
+  "lastFetched": "2025-12-02T00:52:17.291Z",
   "lastfm": {
     "id": "ichika+Nito/_/Awakening",
     "listeners": 27973,
@@ -17,6 +17,15 @@
   "musicbrainz": {
     "trackMbid": "387a9f71-707f-4ce9-b80e-abda45399f3d",
     "artistMbid": "d148a0ee-8cb8-4392-9465-e0078f211fe7",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-06-02",
+    "artistCountry": "JP",
+    "externalIdsArtist": {
+      "bandcamp": "https://ichika.bandcamp.com/",
+      "discogs": "6564468",
+      "spotify": "1v7B6ZWa7QRQS3knn3Jvf4",
+      "deezer": "74115672",
+      "youtube": "UCq3Wpi10SyZkzVeS7vzB5Lw"
+    }
   }
 }

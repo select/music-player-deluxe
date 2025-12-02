@@ -2,7 +2,7 @@
   "youtubeId": "AXVuQrDCXoE",
   "title": "Right Down Here",
   "artist": "Asha Puthli",
-  "lastFetched": "2025-11-23T16:30:34.317Z",
+  "lastFetched": "2025-12-02T00:47:21.742Z",
   "odesli": {
     "amazonMusic": "B000QL4FU4",
     "amazonStore": "B000QL4FU4",
@@ -18,7 +18,17 @@
       "jazz"
     ],
     "trackMbid": "3d09c72f-66a8-3de7-b5a2-ccc3b414e901",
-    "artistMbid": "6bea93d9-08e8-40af-974e-b7d066b2e0fb"
+    "artistMbid": "6bea93d9-08e8-40af-974e-b7d066b2e0fb",
+    "artistCountry": "IN",
+    "externalIdsArtist": {
+      "allmusic": "mn0000663643",
+      "discogs": "147751",
+      "spotify": "6XS2GPyMwHEgAn0VspnhMf",
+      "deezer": "56669",
+      "lastfm": "Asha+Puthli",
+      "wikidata": "Q434399",
+      "wikipedia": "Asha_Puthli"
+    }
   },
   "lastfm": {
     "id": "Asha+Puthli/_/Right+Down+Here",

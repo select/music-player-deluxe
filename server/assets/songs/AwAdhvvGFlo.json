@@ -2,7 +2,7 @@
   "youtubeId": "AwAdhvvGFlo",
   "title": "Who Needs You",
   "artist": "The Orwells",
-  "lastFetched": "2025-11-30T20:11:24.506Z",
+  "lastFetched": "2025-12-02T00:48:04.040Z",
   "odesli": {
     "boomplay": "12006592",
     "appleMusic": "694564369",
@@ -34,6 +34,16 @@
       "indie rock",
       "punk",
       "rock"
-    ]
+    ],
+    "releasedAt": "2013-09-10",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002940311",
+      "discogs": "3018410",
+      "spotify": "7ia4FaCVsbXvhVwagCJk7l",
+      "deezer": "4042928",
+      "rateyourmusic": "the_orwells",
+      "wikidata": "Q7755435"
+    }
   }
 }

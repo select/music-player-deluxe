@@ -2,7 +2,7 @@
   "youtubeId": "DRdMHbzjrlU",
   "title": "Nuke Em",
   "artist": "Datsik",
-  "lastFetched": "2025-11-30T20:08:46.467Z",
+  "lastFetched": "2025-12-02T00:52:15.344Z",
   "odesli": {
     "pandora": "TR:28513934",
     "soundcloud": "sound-of-dubstep/datsik-nuke-em",
@@ -30,6 +30,19 @@
       "dubstep",
       "electronic",
       "post-dubstep"
-    ]
+    ],
+    "releasedAt": "2009-08-25",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0002396590",
+      "discogs": "1450846",
+      "spotify": "5Ingks3J0yP0bIVJkT50CD",
+      "deezer": "441447",
+      "lastfm": "Datsik",
+      "rateyourmusic": "datsik",
+      "soundcloud": "https://soundcloud.com/datsik",
+      "wikidata": "Q1998551",
+      "youtube": "UCHaXTjcyIw6vXak5QvC3yvw"
+    }
   }
 }

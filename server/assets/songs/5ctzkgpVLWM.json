@@ -2,7 +2,7 @@
   "youtubeId": "5ctzkgpVLWM",
   "title": "Truth",
   "artist": "Alex Ebert",
-  "lastFetched": "2025-11-30T22:22:02.878Z",
+  "lastFetched": "2025-12-02T00:27:58.572Z",
   "odesli": {
     "amazonMusic": "B0DFMVD4JQ",
     "amazonStore": "B0DFMVD4JQ",
@@ -26,6 +26,18 @@
     ],
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "releasedAt": "2011-03-01",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "4R8rN5XAQSAhzunX84Gr1k"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0001967279",
+      "bandcamp": "https://alex-ebert.bandcamp.com/",
+      "discogs": "915555",
+      "spotify": "1me05HW5s7TShHra5nN7uE",
+      "lastfm": "Alexander%20Ebert"
+    }
   }
 }

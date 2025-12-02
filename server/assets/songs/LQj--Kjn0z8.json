@@ -2,7 +2,7 @@
   "youtubeId": "LQj--Kjn0z8",
   "title": "Walkin' on the Sun",
   "artist": "Smash Mouth",
-  "lastFetched": "2025-11-30T23:13:49.077Z",
+  "lastFetched": "2025-12-02T01:05:04.147Z",
   "odesli": {
     "amazonMusic": "B000W0YU8G",
     "amazonStore": "B000W0YU8G",
@@ -41,7 +41,19 @@
       "skate punk",
       "surf punk",
       "surf rock"
-    ]
+    ],
+    "releasedAt": "1998-09-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000029600",
+      "discogs": "90040",
+      "spotify": "2iEvnFsWxR0Syqu2JNopAd",
+      "deezer": "1179",
+      "lastfm": "Smash+Mouth",
+      "rateyourmusic": "smash_mouth",
+      "wikidata": "Q740434",
+      "youtube": "UCney_E5ANuRPZqOaIuAwz2A"
+    }
   },
   "lastfm": {
     "id": "Smash+Mouth/_/Walkin%27+on+the+Sun",

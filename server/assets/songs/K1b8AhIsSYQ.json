@@ -2,7 +2,7 @@
   "youtubeId": "K1b8AhIsSYQ",
   "title": "We Built This City",
   "artist": "Starship",
-  "lastFetched": "2025-11-30T22:59:12.600Z",
+  "lastFetched": "2025-12-02T01:02:47.470Z",
   "odesli": {
     "amazonMusic": "B07L6YLHTD",
     "amazonStore": "B07L6YLHTD",
@@ -40,7 +40,17 @@
       "pop rock",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1997-05-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000748168",
+      "discogs": "245159",
+      "spotify": "0kObWap02DEg9EAJ3PBxzf",
+      "deezer": "7358",
+      "rateyourmusic": "starship",
+      "wikidata": "Q15706519"
+    }
   },
   "lastfm": {
     "id": "Starship/_/We+Built+This+City",

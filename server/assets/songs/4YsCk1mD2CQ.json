@@ -2,7 +2,7 @@
   "youtubeId": "4YsCk1mD2CQ",
   "title": "Miraculous Weekend",
   "artist": "Peter Ivers",
-  "lastFetched": "2025-11-30T22:20:49.330Z",
+  "lastFetched": "2025-12-02T00:38:57.165Z",
   "lastfm": {
     "title": "Miraculous Weekend",
     "artist": "Peter Ivers",
@@ -24,6 +24,15 @@
     "releaseCount": 3,
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "releasedAt": "2019-11-08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000551534",
+      "discogs": "163942",
+      "lastfm": "Peter%20Ivers",
+      "rateyourmusic": "peter_ivers",
+      "wikidata": "Q5949762"
+    }
   }
 }

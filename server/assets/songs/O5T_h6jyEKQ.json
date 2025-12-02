@@ -2,7 +2,7 @@
   "youtubeId": "O5T_h6jyEKQ",
   "title": "Agnus",
   "artist": "C Cat Trance",
-  "lastFetched": "2025-11-30T22:51:38.911Z",
+  "lastFetched": "2025-12-02T01:09:32.039Z",
   "odesli": {
     "amazonMusic": "B0CQ8KSXM5",
     "amazonStore": "B0CQ8KSXM5",
@@ -23,6 +23,12 @@
   "musicbrainz": {
     "artistMbid": "162e2239-34ed-44cd-969f-cd2bcf637d54",
     "trackMbid": "cb99b06f-a30e-40fd-9797-84fd1dc41b9d",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1992",
+    "externalIdsArtist": {
+      "discogs": "25477",
+      "spotify": "2Wg8tCeQposnT2pUqEKKdS",
+      "deezer": "258688"
+    }
   }
 }

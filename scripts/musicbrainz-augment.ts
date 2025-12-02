@@ -96,7 +96,7 @@ function saveSongMetadata(youtubeId: string, metadata: SongMetaData): void {
 	}
 }
 
-// Get detailed MusicBrainz data including genres
+// Get detailed MusicBrainz data including genres, release date, country, and external IDs
 async function getMusicBrainzDetails(
 	trackMbid: string,
 	artistMbid: string,
@@ -104,19 +104,28 @@ async function getMusicBrainzDetails(
 	genres: string[];
 	artistGenres: string[];
 	releaseCount: number;
+	releasedAt?: string;
+	artistCountry?: string;
+	externalIdsTrack?: Record<string, string>;
+	externalIdsArtist?: Record<string, string>;
 } | null> {
 	try {
-		// Get recording details with genres
+		// Get recording details with genres and url-rels for track external IDs
 		const recordingData = await mbApi.lookup("recording", trackMbid, [
 			"releases",
 			"genres",
+			"url-rels",
 		]);
 
 		// Small delay between API calls to avoid rate limiting
 		await sleep(200);
 
-		// Get artist details with genres
-		const artistData = await mbApi.lookup("artist", artistMbid, ["genres"]);
+		// Get artist details with genres, area, and url-rels for external IDs
+		const artistData = await mbApi.lookup("artist", artistMbid, [
+			"genres",
+			"area-rels",
+			"url-rels",
+		]);
 
 		const genres =
 			(recordingData as any).genres?.map((genre: any) => genre.name) || [];
@@ -124,10 +133,88 @@ async function getMusicBrainzDetails(
 			(artistData as any).genres?.map((genre: any) => genre.name) || [];
 		const releaseCount = recordingData.releases?.length || 0;
 
+		// Get first release date
+		let releasedAt: string | undefined;
+		if ((recordingData as any)["first-release-date"]) {
+			releasedAt = (recordingData as any)["first-release-date"];
+			console.log(`   Found first release date: ${releasedAt}`);
+		}
+
+		// Get artist country (ISO 3166-1 code)
+		let artistCountry: string | undefined;
+		if (
+			(artistData as any).area &&
+			(artistData as any).area["iso-3166-1-codes"] &&
+			(artistData as any).area["iso-3166-1-codes"].length > 0
+		) {
+			artistCountry = (artistData as any).area["iso-3166-1-codes"][0];
+			console.log(
+				`   Found artist country code: ${artistCountry} (${(artistData as any).area.name})`,
+			);
+		}
+
+		// Extract external IDs from track URL relationships
+		let externalIdsTrack: Record<string, string> | undefined;
+		if (
+			(recordingData as any).relations &&
+			(recordingData as any).relations.length > 0
+		) {
+			const trackIds: Record<string, string> = {};
+
+			for (const relation of (recordingData as any).relations) {
+				if (relation.type && relation.url) {
+					const url = relation.url.resource;
+					const extracted = extractPlatformId(url);
+
+					if (extracted) {
+						trackIds[extracted.platform] = extracted.id;
+						console.log(
+							`   Found track external ID - ${extracted.platform}: ${extracted.id}`,
+						);
+					}
+				}
+			}
+
+			if (Object.keys(trackIds).length > 0) {
+				externalIdsTrack = trackIds;
+			}
+		}
+
+		// Extract external IDs from artist URL relationships
+		let externalIdsArtist: Record<string, string> | undefined;
+		if (
+			(artistData as any).relations &&
+			(artistData as any).relations.length > 0
+		) {
+			const artistIds: Record<string, string> = {};
+
+			for (const relation of (artistData as any).relations) {
+				if (relation.type && relation.url) {
+					const url = relation.url.resource;
+					const extracted = extractPlatformId(url);
+
+					if (extracted) {
+						artistIds[extracted.platform] = extracted.id;
+						console.log(
+							`   Found artist external ID - ${extracted.platform}: ${extracted.id}`,
+						);
+					}
+				}
+			}
+
+			if (Object.keys(artistIds).length > 0) {
+				externalIdsArtist = artistIds;
+			}
+		}
+
 		return {
 			genres,
 			artistGenres,
 			releaseCount,
+			releasedAt,
+			artistCountry,
+			externalIdsTrack,
+			externalIdsArtist,
 		};
 	} catch (error) {
 		console.warn(
@@ -242,7 +329,7 @@ async function searchMusicBrainz(
 			return null;
 		}
 
-		// Get additional details including genres
+		// Get additional details including genres, release date, country, and external IDs
 		console.log("   Fetching detailed MusicBrainz data...");
 		const details = await getMusicBrainzDetails(
 			bestMatch.id,
@@ -259,6 +346,10 @@ async function searchMusicBrainz(
 				releaseCount: bestMatch.releaseCount,
 				genres: undefined,
 				artistGenres: undefined,
+				releasedAt: undefined,
+				artistCountry: undefined,
+				externalIdsTrack: undefined,
+				externalIdsArtist: undefined,
 			};
 		}
 
@@ -273,11 +364,192 @@ async function searchMusicBrainz(
 			genres: details.genres.length > 0 ? details.genres : undefined,
 			artistGenres:
 				details.artistGenres.length > 0 ? details.artistGenres : undefined,
+			releasedAt: details.releasedAt,
+			artistCountry: details.artistCountry,
+			externalIdsTrack: details.externalIdsTrack,
+			externalIdsArtist: details.externalIdsArtist,
 		};
 	} catch (error) {
 		console.error("MusicBrainz search error:", error);
 		return null;
 	}
+}
+
+// Platform ID extractors - generic patterns for extracting IDs from URLs
+interface PlatformExtractor {
+	pattern: string | RegExp;
+	extract: (url: string) => string | null;
+}
+
+const PLATFORM_EXTRACTORS: Record<string, PlatformExtractor> = {
+	spotify: {
+		pattern: "open.spotify.com/",
+		extract: (url) => {
+			// Matches /artist/, /track/, /album/
+			const match = url.match(
+				/open\.spotify\.com\/(artist|track|album)\/([^/?]+)/,
+			);
+			return match?.[2] || null;
+		},
+	},
+	apple: {
+		pattern: "music.apple.com",
+		extract: (url) => {
+			// Matches artist or song IDs
+			const match = url.match(/\/(artist|song|album)\/[^/]+\/(\d+)/);
+			return match?.[2] || null;
+		},
+	},
+	discogs: {
+		pattern: "discogs.com/",
+		extract: (url) => {
+			// Matches /artist/, /release/, /master/
+			const match = url.match(/discogs\.com\/(artist|release|master)\/(\d+)/);
+			return match?.[2] || null;
+		},
+	},
+	allmusic: {
+		pattern: "allmusic.com/",
+		extract: (url) => {
+			const match = url.match(/allmusic\.com\/(artist|album|song)\/([^/?]+)/);
+			return match?.[2] || null;
+		},
+	},
+	bandcamp: {
+		pattern: "bandcamp.com",
+		extract: (url) => {
+			// Return full URL for Bandcamp
+			return url;
+		},
+	},
+	soundcloud: {
+		pattern: "soundcloud.com/",
+		extract: (url) => {
+			const parts = url.split("soundcloud.com/")[1];
+			if (!parts) return null;
+			// If it has more than one path segment, it's likely a track
+			const segments = parts.split("/").filter((s) => s);
+			return segments.length > 0 ? url : null;
+		},
+	},
+	youtube: {
+		pattern: "youtube.com/",
+		extract: (url) => {
+			if (url.includes("/channel/")) {
+				return url.split("/channel/")[1]?.split("/")[0] || null;
+			} else if (url.includes("/c/")) {
+				return url.split("/c/")[1]?.split("/")[0] || null;
+			} else if (url.includes("/@")) {
+				return url.split("/@")[1]?.split("/")[0] || null;
+			}
+			return null;
+		},
+	},
+	lastfm: {
+		pattern: "last.fm/music/",
+		extract: (url) => {
+			const match = url.match(/last\.fm\/music\/([^/?]+)/);
+			return match?.[1] || null;
+		},
+	},
+	deezer: {
+		pattern: "deezer.com/",
+		extract: (url) => {
+			const match = url.match(/deezer\.com\/(artist|track|album)\/(\d+)/);
+			return match?.[2] || null;
+		},
+	},
+	tidal: {
+		pattern: "tidal.com/",
+		extract: (url) => {
+			const match = url.match(
+				/tidal\.com\/browse\/(artist|track|album)\/(\d+)/,
+			);
+			return match?.[2] || null;
+		},
+	},
+	amazonmusic: {
+		pattern: "amazon.com/music/",
+		extract: (url) => {
+			const match = url.match(
+				/amazon\.com\/music\/player\/(artists|albums|tracks)\/([^/?]+)/,
+			);
+			return match?.[2] || null;
+		},
+	},
+	pandora: {
+		pattern: "pandora.com/artist/",
+		extract: (url) => {
+			const match = url.match(/pandora\.com\/artist\/([^/?]+)/);
+			return match?.[1] || null;
+		},
+	},
+	qobuz: {
+		pattern: "qobuz.com/",
+		extract: (url) => {
+			const match = url.match(/qobuz\.com\/(artist|album|track)\/([^/?]+)/);
+			return match?.[2] || null;
+		},
+	},
+	napster: {
+		pattern: "napster.com/",
+		extract: (url) => {
+			const match = url.match(/napster\.com\/artist\/([^/?]+)/);
+			return match?.[1] || null;
+		},
+	},
+	musicbrainz: {
+		pattern: "musicbrainz.org/",
+		extract: (url) => {
+			const match = url.match(
+				/musicbrainz\.org\/(artist|recording|release)\/([a-f0-9-]+)/,
+			);
+			return match?.[2] || null;
+		},
+	},
+	wikidata: {
+		pattern: "wikidata.org/",
+		extract: (url) => {
+			const match = url.match(/wikidata\.org\/wiki\/(Q\d+)/);
+			return match?.[1] || null;
+		},
+	},
+	wikipedia: {
+		pattern: "wikipedia.org/wiki/",
+		extract: (url) => {
+			const match = url.match(/wikipedia\.org\/wiki\/([^#?]+)/);
+			return match?.[1] || null;
+		},
+	},
+	genius: {
+		pattern: "genius.com/",
+		extract: (url) => {
+			const match = url.match(/genius\.com\/(artists|songs|albums)\/([^/?]+)/);
+			return match?.[2] || null;
+		},
+	},
+	rateyourmusic: {
+		pattern: "rateyourmusic.com/",
+		extract: (url) => {
+			const match = url.match(/rateyourmusic\.com\/(artist|release)\/([^/?]+)/);
+			return match?.[2] || null;
+		},
+	},
+};
+
+// Extract platform ID from URL using generic extractors
+function extractPlatformId(
+	url: string,
+): { platform: string; id: string } | null {
+	for (const [platform, extractor] of Object.entries(PLATFORM_EXTRACTORS)) {
+		if (url.includes(extractor.pattern as string)) {
+			const id = extractor.extract(url);
+			if (id) {
+				return { platform, id };
+			}
+		}
+	}
+	return null;
 }
 
 // Sleep function for rate limiting
@@ -385,6 +657,22 @@ async function main(): Promise<void> {
 				console.log(
 					`   Artist Genres: ${result.artistGenres?.join(", ") || "None"}`,
 				);
+				if (result.releasedAt) {
+					console.log(`   Released At: ${result.releasedAt}`);
+				}
+				if (result.artistCountry) {
+					console.log(`   Artist Country: ${result.artistCountry}`);
+				}
+				if (result.externalIdsTrack) {
+					console.log(
+						`   Track External IDs: ${Object.keys(result.externalIdsTrack).join(", ")}`,
+					);
+				}
+				if (result.externalIdsArtist) {
+					console.log(
+						`   Artist External IDs: ${Object.keys(result.externalIdsArtist).join(", ")}`,
+					);
+				}
 
 				// Load or create song metadata file
 				let songMetadata = loadSongMetadata(video.id);
@@ -405,6 +693,18 @@ async function main(): Promise<void> {
 				songMetadata.musicbrainz.releaseCount = result.releaseCount;
 				songMetadata.musicbrainz.genres = result.genres;
 				songMetadata.musicbrainz.artistGenres = result.artistGenres;
+				if (result.releasedAt) {
+					songMetadata.musicbrainz.releasedAt = result.releasedAt;
+				}
+				if (result.artistCountry) {
+					songMetadata.musicbrainz.artistCountry = result.artistCountry;
+				}
+				if (result.externalIdsTrack) {
+					songMetadata.musicbrainz.externalIdsTrack = result.externalIdsTrack;
+				}
+				if (result.externalIdsArtist) {
+					songMetadata.musicbrainz.externalIdsArtist = result.externalIdsArtist;
+				}
 				songMetadata.lastFetched = new Date().toISOString();
 
 				// Save updated song metadata

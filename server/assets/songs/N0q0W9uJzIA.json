@@ -2,7 +2,7 @@
   "youtubeId": "N0q0W9uJzIA",
   "title": "Electric Surfin' Go Go",
   "artist": "Polysics",
-  "lastFetched": "2025-11-30T19:34:57.578Z",
+  "lastFetched": "2025-12-02T01:07:29.966Z",
   "odesli": {
     "amazonMusic": "B073Q667W1",
     "amazonStore": "B073Q667W1",
@@ -39,6 +39,17 @@
       "j-rock",
       "noise rock",
       "post-punk"
-    ]
+    ],
+    "releasedAt": "2008-08-26",
+    "artistCountry": "JP",
+    "externalIdsArtist": {
+      "allmusic": "mn0000349954",
+      "discogs": "261089",
+      "spotify": "3l4rRK7zL537twQBI967Bq",
+      "deezer": "1810",
+      "lastfm": "POLYSICS",
+      "rateyourmusic": "polysics",
+      "wikidata": "Q765268"
+    }
   }
 }

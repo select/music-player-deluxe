@@ -2,7 +2,7 @@
   "youtubeId": "TnpwuRlXbhk",
   "title": "Love Like Blood",
   "artist": "Killing Joke",
-  "lastFetched": "2025-11-30T19:42:10.059Z",
+  "lastFetched": "2025-12-02T01:18:49.478Z",
   "odesli": {
     "amazonMusic": "B0CCBN1BP3",
     "amazonStore": "B0CCBN1BP3",
@@ -46,6 +46,19 @@
       "punk",
       "rock",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2000",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000081493",
+      "discogs": "13408",
+      "spotify": "0Zy4ncr8h1jd7Nzr9946fD",
+      "deezer": "3916",
+      "lastfm": "Killing+Joke",
+      "genius": "Killing-joke",
+      "rateyourmusic": "killing_joke",
+      "wikidata": "Q250421",
+      "youtube": "UCO4m-LA6oW766Vyrigjd5KQ"
+    }
   }
 }

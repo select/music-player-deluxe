@@ -3,7 +3,7 @@
   "artist": "Dj BeBeDeRa",
   "duration": 193,
   "youtubeId": "417a8410GUQ",
-  "lastFetched": "2025-11-23T15:39:32.616Z",
+  "lastFetched": "2025-12-02T00:37:51.412Z",
   "odesli": {
     "amazonMusic": "B0FB5HZY7X",
     "amazonStore": "B0FB5HZY7X",
@@ -31,6 +31,11 @@
   "musicbrainz": {
     "trackMbid": "c50e86ee-9fbc-4704-96fa-9fc271391684",
     "artistMbid": "20ed7c79-7ce8-48be-8a9c-35c3bcbc6218",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-07-04",
+    "externalIdsArtist": {
+      "discogs": "5204983",
+      "soundcloud": "https://soundcloud.com/danilo-furtado"
+    }
   }
 }

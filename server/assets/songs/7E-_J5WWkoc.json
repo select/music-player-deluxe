@@ -2,7 +2,7 @@
   "youtubeId": "7E-_J5WWkoc",
   "title": "Conditions of My Parole",
   "artist": "Puscifer",
-  "lastFetched": "2025-11-23T16:29:19.501Z",
+  "lastFetched": "2025-12-02T00:42:45.566Z",
   "odesli": {
     "amazonMusic": "B0DZVB7XGS",
     "amazonStore": "B0DZVB7XGS",
@@ -35,7 +35,20 @@
       "industrial"
     ],
     "trackMbid": "072992f7-b735-4217-834f-53511aa04902",
-    "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22"
+    "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22",
+    "releasedAt": "2013-11-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000314056",
+      "discogs": "279194",
+      "spotify": "2pAajGWerK3ghwToNWFENS",
+      "deezer": "8030",
+      "lastfm": "Puscifer",
+      "genius": "Puscifer",
+      "rateyourmusic": "puscifer",
+      "wikidata": "Q1636465",
+      "youtube": "UClSC0yg5RZysRZv-uV06RPw"
+    }
   },
   "lastfm": {
     "id": "Puscifer/_/Conditions+of+My+Parole",

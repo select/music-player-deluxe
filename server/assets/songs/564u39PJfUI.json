@@ -2,7 +2,7 @@
   "youtubeId": "564u39PJfUI",
   "title": "Thunderstruck",
   "artist": "AC/DC",
-  "lastFetched": "2025-11-30T22:54:04.527Z",
+  "lastFetched": "2025-12-02T00:39:33.808Z",
   "musicbrainz": {
     "tags": [
       "hard rock",
@@ -26,7 +26,22 @@
       "hard rock",
       "rock",
       "rock and roll"
-    ]
+    ],
+    "releasedAt": "2012-11-16",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000574772",
+      "discogs": "84752",
+      "spotify": "711MCceyCBcFnzjGY4Q7Un",
+      "deezer": "115",
+      "lastfm": "AC%2FDC",
+      "genius": "Ac-dc",
+      "rateyourmusic": "ac_dc",
+      "soundcloud": "https://soundcloud.com/acdcofficial",
+      "napster": "acdc",
+      "wikidata": "Q27593",
+      "youtube": "UCVm4YdI3hobkwsHTTOMVJKg"
+    }
   },
   "lastfm": {
     "id": "AC%2FDC/_/Thunderstruck",

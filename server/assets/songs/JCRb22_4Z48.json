@@ -2,7 +2,7 @@
   "youtubeId": "JCRb22_4Z48",
   "title": "Bardo",
   "artist": "GoGo Penguin",
-  "lastFetched": "2025-11-23T16:35:11.684Z",
+  "lastFetched": "2025-12-02T01:01:38.486Z",
   "odesli": {
     "amazonMusic": "B0784Y4LVG",
     "amazonStore": "B0784Y4LVG",
@@ -38,7 +38,21 @@
       "post-rock"
     ],
     "trackMbid": "1d61942e-619e-4af7-862b-42bd718c21c2",
-    "artistMbid": "b328de0e-ee48-4d74-9d36-7c7ee16ffc69"
+    "artistMbid": "b328de0e-ee48-4d74-9d36-7c7ee16ffc69",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003004998",
+      "bandcamp": "https://gogopenguin.bandcamp.com/",
+      "discogs": "2995691",
+      "spotify": "19f2JXwlRU26376TCKmp6L",
+      "deezer": "4052492",
+      "lastfm": "GoGo+Penguin",
+      "genius": "Gogo-penguin",
+      "rateyourmusic": "gogo_penguin",
+      "soundcloud": "https://soundcloud.com/gogopenguin",
+      "wikidata": "Q18151740",
+      "youtube": "UCNztRNLNDM1oE-osnDmPuWg"
+    }
   },
   "lastfm": {
     "id": "GoGo+Penguin/_/Bardo",

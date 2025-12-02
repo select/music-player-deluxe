@@ -2,7 +2,7 @@
   "youtubeId": "I8ygfX0BavM",
   "title": "When I'm Gone",
   "artist": "Dirty Honey",
-  "lastFetched": "2025-11-23T16:34:40.040Z",
+  "lastFetched": "2025-12-02T01:00:00.557Z",
   "odesli": {
     "amazonMusic": "B07YNC7R3Z",
     "amazonStore": "B07YNC7R3Z",
@@ -23,7 +23,22 @@
       "hard rock"
     ],
     "trackMbid": "f009ec3e-9952-4c3b-b4ab-6c0fa678cdce",
-    "artistMbid": "de7ecc1f-487c-4ef9-8a0c-c18146c309c4"
+    "artistMbid": "de7ecc1f-487c-4ef9-8a0c-c18146c309c4",
+    "releasedAt": "2019-03-22",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003836081",
+      "discogs": "7258535",
+      "spotify": "0XBRd3N11rCbh0s8qHf41m",
+      "deezer": "14452019",
+      "lastfm": "Dirty+Honey",
+      "genius": "Dirty-honey",
+      "rateyourmusic": "dirty-honey",
+      "soundcloud": "https://soundcloud.com/user-613573628",
+      "napster": "dirty-honey",
+      "wikidata": "Q64518397",
+      "youtube": "UCaDfrUwmGvaGxIPt2jaxarQ"
+    }
   },
   "lastfm": {
     "id": "Dirty+Honey/_/When+I%27m+Gone",

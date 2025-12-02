@@ -2,7 +2,7 @@
   "youtubeId": "MUaL1FnotRQ",
   "title": "Bombtrack",
   "artist": "Rage Against the Machine",
-  "lastFetched": "2025-11-19T09:52:34.020Z",
+  "lastFetched": "2025-12-02T01:06:46.169Z",
   "odesli": {
     "amazonMusic": "B00A4Y9O3Q",
     "amazonStore": "B00A4Y9O3Q",
@@ -25,7 +25,21 @@
       "Rage Against The Machine"
     ],
     "trackMbid": "3a145200-0efa-4e35-a555-dc350fea7039",
-    "artistMbid": "3798b104-01cb-484c-a3b0-56adc6399b80"
+    "artistMbid": "3798b104-01cb-484c-a3b0-56adc6399b80",
+    "releasedAt": "1996",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000863790",
+      "discogs": "12212",
+      "spotify": "2d0hyoQ5ynDBnkvAbJKORj",
+      "deezer": "113",
+      "lastfm": "Rage+Against+the+Machine",
+      "genius": "Rage-against-the-machine",
+      "rateyourmusic": "rage-against-the-machine",
+      "napster": "rage-against-the-machine",
+      "wikidata": "Q72092",
+      "youtube": "UCg4nBubbzhYXjudOxPi9V7w"
+    }
   },
   "lastfm": {
     "id": "Rage+Against+the+Machine/_/Bombtrack",

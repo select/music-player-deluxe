@@ -2,7 +2,7 @@
   "youtubeId": "CnVf1ZoCJSo",
   "title": "Shock the Monkey",
   "artist": "Peter Gabriel",
-  "lastFetched": "2025-11-30T23:35:07.217Z",
+  "lastFetched": "2025-12-02T00:50:46.961Z",
   "lastfm": {
     "id": "Peter+Gabriel/_/Shock+the+Monkey",
     "listeners": 159662,
@@ -34,6 +34,21 @@
       "rock",
       "soft rock",
       "worldbeat"
-    ]
+    ],
+    "releasedAt": "2014-06-20",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000842802",
+      "bandcamp": "https://petergabriel.bandcamp.com/",
+      "discogs": "11136",
+      "spotify": "7C4sUpWGlTy7IANjruj02I",
+      "deezer": "259472582",
+      "lastfm": "Peter+Gabriel",
+      "genius": "Peter-gabriel",
+      "rateyourmusic": "peter-gabriel",
+      "soundcloud": "https://soundcloud.com/peter-gabriel-official",
+      "wikidata": "Q175195",
+      "youtube": "UC7dI7qJoDsMd388DTtcwIZg"
+    }
   }
 }

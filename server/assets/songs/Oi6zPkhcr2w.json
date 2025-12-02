@@ -1,7 +1,7 @@
 {
   "youtubeId": "Oi6zPkhcr2w",
   "title": "DIABLO SWING ORCHESTRA -Poetic Pitbull Revolutions",
-  "lastFetched": "2025-11-30T20:21:05.289Z",
+  "lastFetched": "2025-12-02T01:10:33.673Z",
   "ai": {
     "title": "Poetic Pitbull Revolutions",
     "artist": "DIABLO SWING ORCHESTRA"
@@ -42,6 +42,25 @@
       "metal",
       "progressive metal",
       "symphonic metal"
-    ]
+    ],
+    "releasedAt": "2006-08-17",
+    "artistCountry": "SE",
+    "externalIdsTrack": {
+      "spotify": "3Wzwp8uatb7J6JkIcA7WWl"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000552965",
+      "bandcamp": "https://diabloswingorchestra.bandcamp.com/",
+      "discogs": "792102",
+      "spotify": "2cbWJP4X5b9sKEDW80uc5r",
+      "deezer": "15730",
+      "lastfm": "Diablo+Swing+Orchestra",
+      "genius": "Diablo-swing-orchestra",
+      "rateyourmusic": "diablo_swing_orchestra",
+      "soundcloud": "https://soundcloud.com/diablo-swing-orchestra-official",
+      "napster": "diablo-swing-orchestra",
+      "wikidata": "Q1208011",
+      "youtube": "UCrOUm08PcV9pVN15xHoJBTg"
+    }
   }
 }

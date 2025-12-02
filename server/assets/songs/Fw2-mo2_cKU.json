@@ -2,7 +2,7 @@
   "youtubeId": "Fw2-mo2_cKU",
   "title": "Leb So, Dass Es Alle Wissen Wollen",
   "artist": "Keine Zähne im Maul aber La Paloma pfeifen",
-  "lastFetched": "2025-11-30T23:36:23.666Z",
+  "lastFetched": "2025-12-02T00:56:31.176Z",
   "odesli": {
     "amazonMusic": "B008OETNQG",
     "amazonStore": "B008OETNQG",
@@ -25,6 +25,16 @@
   "musicbrainz": {
     "trackMbid": "3eb5f997-4683-4a6c-aed0-e418818c91ce",
     "artistMbid": "46f2e6c6-865f-465d-aaca-41d37213b64a",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2012-08-17",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "1245959",
+      "spotify": "0oZ4zekjedred6c18SjpEg",
+      "rateyourmusic": "keine-zahne-im-maul-aber-la-paloma-pfeifen",
+      "soundcloud": "https://soundcloud.com/keine-zaehne-im-maul",
+      "wikidata": "Q24706228",
+      "youtube": "keinezahneimmaulaberlapalo3260"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "3BxfpbyV-uc",
   "title": "OK Go - Get Over It",
-  "lastFetched": "2025-11-30T20:24:18.961Z",
+  "lastFetched": "2025-12-02T00:37:02.169Z",
   "ai": {
     "title": "Get Over It",
     "artist": "OK Go"
@@ -38,6 +38,21 @@
     "artistGenres": [
       "alternative rock",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2002-09-17",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000390743",
+      "discogs": "219647",
+      "spotify": "3hozsZ9hqNq7CoBGYNlFTz",
+      "deezer": "1279",
+      "lastfm": "OK+Go",
+      "genius": "Ok-go",
+      "rateyourmusic": "ok_go",
+      "soundcloud": "https://soundcloud.com/okgo",
+      "napster": "ok-go",
+      "wikidata": "Q736107",
+      "youtube": "UCJwQvoGAP0BHXZIvGpY0CJw"
+    }
   }
 }

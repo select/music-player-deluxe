@@ -2,7 +2,7 @@
   "youtubeId": "6AQSxaFkGCg",
   "title": "Novembergrey",
   "artist": "Chris Liebing",
-  "lastFetched": "2025-11-30T19:19:08.756Z",
+  "lastFetched": "2025-12-02T00:40:55.635Z",
   "odesli": {
     "amazonMusic": "B07BPM34JD",
     "amazonStore": "B07BPM34JD",
@@ -41,6 +41,17 @@
       "schranz",
       "tech house",
       "techno"
-    ]
+    ],
+    "releasedAt": "2018-09-07",
+    "externalIdsArtist": {
+      "allmusic": "mn0000110283",
+      "discogs": "1711",
+      "youtube": "UCGqNxL2ogwl3cu7nvN77AzQ",
+      "spotify": "21444lX8gpmOX36icLmbFI",
+      "deezer": "176167",
+      "rateyourmusic": "chris_liebing",
+      "soundcloud": "https://soundcloud.com/chris-liebing",
+      "wikidata": "Q67372"
+    }
   }
 }

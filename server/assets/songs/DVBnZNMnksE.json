@@ -1,7 +1,7 @@
 {
   "youtubeId": "DVBnZNMnksE",
   "title": "Hans Theessink - Walking the dog (live)",
-  "lastFetched": "2025-11-30T21:14:28.005Z",
+  "lastFetched": "2025-12-02T00:52:24.196Z",
   "ai": {
     "title": "Walking the dog",
     "artist": "Hans Theessink"
@@ -31,6 +31,14 @@
     ],
     "artistGenres": [
       "blues"
-    ]
+    ],
+    "releasedAt": "1997",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "discogs": "645295",
+      "spotify": "2e02wACgnPCZ1lPeQEUCom",
+      "wikidata": "Q327856",
+      "youtube": "UCk6tArlB_hv--Ns0TcedvgA"
+    }
   }
 }

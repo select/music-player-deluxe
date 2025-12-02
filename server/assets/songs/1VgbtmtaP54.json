@@ -3,14 +3,24 @@
   "artist": "Killah Priest",
   "duration": 107,
   "youtubeId": "1VgbtmtaP54",
-  "lastFetched": "2025-11-09T19:11:54.518Z",
+  "lastFetched": "2025-12-02T00:34:45.366Z",
   "musicbrainz": {
     "artistTags": [
       "hip hop"
     ],
     "trackMbid": "d749ad89-a4a1-4b93-9c0c-7e734ff6d3b1",
     "artistMbid": "c9faa478-2a02-4c34-bede-1d20d717f8dc",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2006",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000771382",
+      "discogs": "647271",
+      "spotify": "0JYmatsiEQMn2v5KchV8u2",
+      "deezer": "92186",
+      "rateyourmusic": "killah_priest",
+      "wikidata": "Q929008"
+    }
   },
   "ai": {
     "title": "feat. Ghostface Killah, Killah Priest, RZA, & GZA",

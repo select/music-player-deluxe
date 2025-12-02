@@ -2,7 +2,7 @@
   "youtubeId": "LbtRELG5BwM",
   "title": "Trance Plane",
   "artist": "Dub Spencer & Trance Hill",
-  "lastFetched": "2025-11-30T23:25:17.397Z",
+  "lastFetched": "2025-12-02T01:05:18.899Z",
   "odesli": {
     "amazonMusic": "B0CQKD4729",
     "amazonStore": "B0CQKD4729",
@@ -33,6 +33,16 @@
     "artistGenres": [
       "dub",
       "reggae"
-    ]
+    ],
+    "releasedAt": "2022",
+    "artistCountry": "CH",
+    "externalIdsArtist": {
+      "bandcamp": "https://dubspencerandtrancehill.bandcamp.com/",
+      "discogs": "963456",
+      "deezer": "278026",
+      "rateyourmusic": "dub_spencer_and_trance_hill",
+      "soundcloud": "https://soundcloud.com/dub-spencer-1",
+      "wikidata": "Q27868297"
+    }
   }
 }

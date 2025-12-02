@@ -1,7 +1,7 @@
 {
   "youtubeId": "DXqx1rHZfx8",
   "title": "Vangelis - Mythodea",
-  "lastFetched": "2025-11-30T19:43:07.083Z",
+  "lastFetched": "2025-12-02T00:52:29.386Z",
   "ai": {
     "title": "Mythodea",
     "artist": "Vangelis"
@@ -36,6 +36,19 @@
       "progressive electronic",
       "progressive rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2001",
+    "artistCountry": "GR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000840000",
+      "discogs": "7027",
+      "spotify": "4P70aqttdpJ9vuYFDmf7f6",
+      "deezer": "2639",
+      "lastfm": "Vangelis",
+      "genius": "Vangelis",
+      "rateyourmusic": "vangelis",
+      "wikidata": "Q153172",
+      "youtube": "UCNms80n59AltHVQuPgGrKkg"
+    }
   }
 }

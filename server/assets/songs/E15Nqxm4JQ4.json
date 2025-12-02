@@ -1,7 +1,7 @@
 {
   "youtubeId": "E15Nqxm4JQ4",
   "title": "Ain't No Sunshine",
-  "lastFetched": "2025-11-30T20:03:33.088Z",
+  "lastFetched": "2025-12-02T00:53:05.915Z",
   "ai": {
     "title": "Ain't no sunshine",
     "artist": "Sivuca"
@@ -36,6 +36,13 @@
     "genres": [
       "jazz",
       "mpb"
-    ]
+    ],
+    "artistCountry": "BR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000012852",
+      "discogs": "317191",
+      "genius": "Sivuca",
+      "wikidata": "Q539833"
+    }
   }
 }

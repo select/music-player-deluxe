@@ -2,7 +2,7 @@
   "title": "Take a Seat",
   "artist": "Sven Wunder",
   "youtubeId": "0qHotJmYG0Y",
-  "lastFetched": "2025-11-23T16:26:25.858Z",
+  "lastFetched": "2025-12-02T00:34:08.031Z",
   "odesli": {
     "amazonMusic": "B0F9B3LKWS",
     "amazonStore": "B0F9B3LKWS",
@@ -27,7 +27,14 @@
     ],
     "trackMbid": "dc7f102e-eed8-42e1-a349-39f6770b7716",
     "artistMbid": "b035c36e-1bb5-404b-97df-e8b72e54d215",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-09-26",
+    "externalIdsArtist": {
+      "bandcamp": "https://svenwunder.bandcamp.com/",
+      "discogs": "7270658",
+      "spotify": "2fQf2M7SkTwCv2MOEIP2Ly",
+      "deezer": "71722742"
+    }
   },
   "lastfm": {
     "id": "Sven+Wunder/_/Take+a+Seat",

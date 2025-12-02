@@ -2,13 +2,24 @@
   "youtubeId": "IwdeqVmXlHk",
   "title": "Lux Aeterna",
   "artist": "Voces8",
-  "lastFetched": "2025-11-23T16:34:59.112Z",
+  "lastFetched": "2025-12-02T01:01:01.970Z",
   "musicbrainz": {
     "artistTags": [
       "a cappella"
     ],
     "trackMbid": "fd4d3751-bee6-41c0-8352-e84f9a6f4415",
-    "artistMbid": "2a264f51-0a83-4972-858d-a4825ff02ad9"
+    "artistMbid": "2a264f51-0a83-4972-858d-a4825ff02ad9",
+    "releasedAt": "2023",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002396830",
+      "discogs": "3343798",
+      "spotify": "32nW8kGbs65y8CSlIvREuc",
+      "deezer": "352137",
+      "lastfm": "Voces8",
+      "rateyourmusic": "voces8",
+      "wikidata": "Q7939250"
+    }
   },
   "lastfm": {
     "id": "Voces8/_/Lux+Aeterna",

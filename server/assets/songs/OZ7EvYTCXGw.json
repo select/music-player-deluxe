@@ -2,7 +2,7 @@
   "youtubeId": "OZ7EvYTCXGw",
   "title": "I Can See Clearly Now",
   "artist": "Holly Cole Trio",
-  "lastFetched": "2025-11-30T20:16:33.316Z",
+  "lastFetched": "2025-12-02T01:10:14.034Z",
   "odesli": {
     "amazonMusic": "B000S53Z6I",
     "amazonStore": "B000S53Z6I",
@@ -28,6 +28,11 @@
     "artistGenres": [
       "jazz",
       "vocal jazz"
-    ]
+    ],
+    "releasedAt": "1993-06-23",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "discogs": "265581"
+    }
   }
 }

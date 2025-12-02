@@ -2,7 +2,7 @@
   "youtubeId": "TT30jj_L1Dc",
   "title": "Water Of Love",
   "artist": "Dire Straits",
-  "lastFetched": "2025-11-30T20:02:40.915Z",
+  "lastFetched": "2025-12-02T01:18:20.356Z",
   "odesli": {
     "amazonMusic": "B002M69BPA",
     "amazonStore": "B002M69BPA",
@@ -51,6 +51,20 @@
       "roots rock",
       "soft rock",
       "sophisti-pop"
-    ]
+    ],
+    "releasedAt": "1990",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000167517",
+      "discogs": "103687",
+      "spotify": "0WwSkZ7LtFUFjGjMZBMt6T",
+      "deezer": "176",
+      "lastfm": "Dire+Straits",
+      "genius": "Dire-straits",
+      "rateyourmusic": "dire_straits",
+      "soundcloud": "https://soundcloud.com/direstraits",
+      "wikidata": "Q50040",
+      "youtube": "UCA37MBUzQgLbUHoUQgl-p0g"
+    }
   }
 }

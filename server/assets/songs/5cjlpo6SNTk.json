@@ -2,7 +2,7 @@
   "youtubeId": "5cjlpo6SNTk",
   "title": "Indian Fever",
   "artist": "David Starfire",
-  "lastFetched": "2025-11-30T21:00:22.686Z",
+  "lastFetched": "2025-12-02T00:40:19.336Z",
   "odesli": {
     "amazonMusic": "B06WWL6JBT",
     "amazonStore": "B06WWL6JBT",
@@ -30,6 +30,18 @@
   "musicbrainz": {
     "trackMbid": "fc93622d-506e-4acf-abc7-df75567e21b2",
     "artistMbid": "0f21d379-ef5f-49df-af5e-701e8e167b4d",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2007",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001966329",
+      "discogs": "1197402",
+      "spotify": "6nhEcP9sIqaoQ6hM5R55IB",
+      "deezer": "802242",
+      "rateyourmusic": "david_starfire",
+      "soundcloud": "https://soundcloud.com/davidstarfire",
+      "wikidata": "Q5240032",
+      "youtube": "UC0jvvUvsbi-uEv21u74v3yw"
+    }
   }
 }

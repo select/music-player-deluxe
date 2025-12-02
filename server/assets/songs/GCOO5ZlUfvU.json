@@ -2,7 +2,7 @@
   "youtubeId": "GCOO5ZlUfvU",
   "title": "A Praise Chorus",
   "artist": "Jimmy Eat World",
-  "lastFetched": "2025-11-23T16:33:44.944Z",
+  "lastFetched": "2025-12-02T00:56:57.132Z",
   "odesli": {
     "soundcloud": "256030946",
     "spotify": "0n7d3no0cHnsnkgfFzDuj4",
@@ -30,7 +30,21 @@
       "pop punk"
     ],
     "trackMbid": "7b138df0-b4aa-4647-adb3-2bed43420648",
-    "artistMbid": "bbc5b66b-d037-4f26-aecf-0b129e7f876a"
+    "artistMbid": "bbc5b66b-d037-4f26-aecf-0b129e7f876a",
+    "releasedAt": "2003-01-25",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000852688",
+      "discogs": "82079",
+      "spotify": "3Ayl7mCk0nScecqOzvNp6s",
+      "deezer": "346",
+      "lastfm": "Jimmy+Eat+World",
+      "genius": "Jimmy-eat-world",
+      "rateyourmusic": "jimmy_eat_world",
+      "soundcloud": "https://soundcloud.com/jimmyeatworld",
+      "napster": "jimmy-eat-world",
+      "wikidata": "Q642988"
+    }
   },
   "lastfm": {
     "id": "Jimmy+Eat+World/_/A+Praise+Chorus",

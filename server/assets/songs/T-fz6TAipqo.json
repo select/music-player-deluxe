@@ -2,7 +2,7 @@
   "youtubeId": "T-fz6TAipqo",
   "title": "Day Dreaming",
   "artist": "Aretha Franklin",
-  "lastFetched": "2025-11-30T22:17:14.312Z",
+  "lastFetched": "2025-12-02T01:17:29.320Z",
   "odesli": {
     "amazonMusic": "B08VMTQ6HJ",
     "amazonStore": "B08VMTQ6HJ",
@@ -56,6 +56,19 @@
       "r&b",
       "soul",
       "southern soul"
-    ]
+    ],
+    "releasedAt": "1972-01-24",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000927555",
+      "discogs": "38863",
+      "spotify": "7nwUJBm0HE4ZxD3f5cy5ok",
+      "deezer": "5293441",
+      "lastfm": "Aretha+Franklin",
+      "genius": "Aretha-franklin",
+      "rateyourmusic": "aretha-franklin",
+      "napster": "aretha-franklin",
+      "wikidata": "Q125121"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "P8JEm4d6Wu4",
   "title": "Insomnia",
   "artist": "Faithless",
-  "lastFetched": "2025-11-30T23:17:42.271Z",
+  "lastFetched": "2025-12-02T01:11:07.383Z",
   "odesli": {
     "amazonMusic": "B01MXVQCMO",
     "amazonStore": "B01MXVQCMO",
@@ -47,6 +47,19 @@
       "techno",
       "trance",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2006-09-11",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000793848",
+      "discogs": "4118",
+      "spotify": "5T4UKHhr4HGIC0VzdZQtAE",
+      "deezer": "10",
+      "lastfm": "Faithless",
+      "rateyourmusic": "faithless",
+      "soundcloud": "https://soundcloud.com/faithless",
+      "qobuz": "41878",
+      "wikidata": "Q542071"
+    }
   }
 }

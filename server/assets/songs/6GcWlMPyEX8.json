@@ -1,0 +1,41 @@
+{
+  "youtubeId": "6GcWlMPyEX8",
+  "title": "Pedal Pusher",
+  "artist": "Dark Stares",
+  "lastFetched": "2025-12-02T00:41:04.618Z",
+  "odesli": {
+    "amazonMusic": "B01MZ8V5HG",
+    "amazonStore": "B01MZ8V5HG",
+    "appleMusic": "1194119097",
+    "itunes": "1194119097",
+    "pandora": "TR:12470335",
+    "spotify": "3uOXTKKPpM1ED52vadIad5",
+    "tidal": "241095365",
+    "youtube": "6GcWlMPyEX8",
+    "youtubeMusic": "6GcWlMPyEX8"
+  },
+  "lastfm": {
+    "id": "Dark+Stares/_/Pedal+Pusher",
+    "listeners": 17014,
+    "playcount": 94005,
+    "title": "Pedal Pusher",
+    "artist": "Dark Stares",
+    "mbid": "93187c2f-428d-4abe-8d14-8da6d44d0846",
+    "artistMbid": "151e6164-036b-44d6-bf72-88de7d22257c",
+    "tags": [
+      "hard rock",
+      "rock",
+      "alternative",
+      "alternative rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "de737754-a5c2-4fe5-8426-4991f70a522a",
+    "artistMbid": "151e6164-036b-44d6-bf72-88de7d22257c",
+    "releaseCount": 1,
+    "releasedAt": "2018-05-11",
+    "externalIdsArtist": {
+      "discogs": "3593130"
+    }
+  }
+}

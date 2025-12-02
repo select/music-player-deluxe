@@ -1,7 +1,7 @@
 {
   "youtubeId": "TsSl7cKQuKk",
   "title": "Don't Need the Sunshine",
-  "lastFetched": "2025-11-30T20:03:03.629Z",
+  "lastFetched": "2025-12-02T01:18:51.670Z",
   "ai": {
     "title": "Don't Need The Sunshine",
     "artist": "Catatonia"
@@ -39,6 +39,17 @@
       "power pop",
       "rock",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "1998",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000163365",
+      "discogs": "102975",
+      "spotify": "4Bgfzia8wyaGaTn42egzTv",
+      "deezer": "3018",
+      "lastfm": "Catatonia",
+      "rateyourmusic": "catatonia",
+      "wikidata": "Q1050456"
+    }
   }
 }

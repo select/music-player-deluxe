@@ -2,7 +2,7 @@
   "youtubeId": "JkfuBg2DhlM",
   "title": "Aquamarine",
   "artist": "Hand Habits",
-  "lastFetched": "2025-11-30T22:25:48.207Z",
+  "lastFetched": "2025-12-02T01:02:19.796Z",
   "odesli": {
     "amazonMusic": "B09BG9JN8B",
     "amazonStore": "B09BG9JN8B",
@@ -31,6 +31,19 @@
     "artistGenres": [
       "indie folk",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2021-10-22",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003562441",
+      "bandcamp": "https://handhabits.bandcamp.com/",
+      "discogs": "3739617",
+      "spotify": "5poU7FPEYoBlwjzOEWMbX5",
+      "lastfm": "Hand+Habits",
+      "genius": "Hand-habits",
+      "rateyourmusic": "hand-habits",
+      "soundcloud": "https://soundcloud.com/handhabits",
+      "wikidata": "Q99670407"
+    }
   }
 }

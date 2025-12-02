@@ -2,7 +2,7 @@
   "youtubeId": "0CDAko69JnY",
   "title": "Der Wille lenkt die Tat",
   "artist": "Tapete",
-  "lastFetched": "2025-11-23T16:25:57.992Z",
+  "lastFetched": "2025-12-02T00:33:07.766Z",
   "odesli": {
     "amazonMusic": "B00R8OWWHK",
     "amazonStore": "B00R8OWWHK",
@@ -21,7 +21,21 @@
       "hip hop"
     ],
     "trackMbid": "630d218b-5846-3548-9331-b0e3cea9aa90",
-    "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3"
+    "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3",
+    "artistCountry": "Berlin",
+    "externalIds": {
+      "bandcamp": "https://tapeteberlin.bandcamp.com/",
+      "discogs": "1369220",
+      "spotify": "2mLGlQXPcSPMTrVbfP0OdF",
+      "soundcloud": "tapeteberlin"
+    },
+    "externalIdsArtist": {
+      "bandcamp": "https://tapeteberlin.bandcamp.com/",
+      "discogs": "1369220",
+      "spotify": "2mLGlQXPcSPMTrVbfP0OdF",
+      "deezer": "313413",
+      "soundcloud": "https://soundcloud.com/tapeteberlin"
+    }
   },
   "lastfm": {
     "id": "Tapete/_/Der+Wille+lenkt+die+Tat",

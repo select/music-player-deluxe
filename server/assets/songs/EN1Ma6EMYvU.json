@@ -2,7 +2,7 @@
   "youtubeId": "EN1Ma6EMYvU",
   "title": "Don't Book Me",
   "artist": "Buttering Trio",
-  "lastFetched": "2025-11-30T23:24:19.878Z",
+  "lastFetched": "2025-12-02T00:53:50.177Z",
   "odesli": {
     "amazonMusic": "B09N8HQ86Y",
     "amazonStore": "B09N8HQ86Y",
@@ -32,6 +32,14 @@
   "musicbrainz": {
     "artistMbid": "fd2120d3-7c64-4390-aafb-ad31ccaaa207",
     "trackMbid": "cb1e02a0-61a7-4193-9cfe-9fc5e719d292",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-07-29",
+    "artistCountry": "IL",
+    "externalIdsArtist": {
+      "bandcamp": "https://butteringtrio.bandcamp.com/",
+      "discogs": "2507450",
+      "spotify": "5HthaLyG6SfVxEuA94MAjm",
+      "wikidata": "Q48772089"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "QBgelyLjbdo",
   "title": "Tripping Out",
   "artist": "Curtis Mayfield",
-  "lastFetched": "2025-11-23T16:38:06.157Z",
+  "lastFetched": "2025-12-02T01:12:32.944Z",
   "odesli": {
     "amazonMusic": "B00122Q7EI",
     "amazonStore": "B00122Q7EI",
@@ -41,7 +41,16 @@
       "singer-songwriter"
     ],
     "trackMbid": "02d2b667-963c-3806-ad0d-0852ce0354e2",
-    "artistMbid": "4dca4bb2-23ba-4103-97e6-5810311db33a"
+    "artistMbid": "4dca4bb2-23ba-4103-97e6-5810311db33a",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000144458",
+      "discogs": "17589",
+      "spotify": "2AV6XDIs32ofIJhkkDevjm",
+      "deezer": "2027",
+      "rateyourmusic": "curtis_mayfield",
+      "wikidata": "Q310170"
+    }
   },
   "lastfm": {
     "id": "Curtis+Mayfield/_/Tripping+Out",

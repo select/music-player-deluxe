@@ -2,7 +2,7 @@
   "youtubeId": "5E0zej3qZRY",
   "title": "Pilot",
   "artist": "The Notwist",
-  "lastFetched": "2025-11-30T20:50:45.980Z",
+  "lastFetched": "2025-12-02T00:39:43.096Z",
   "odesli": {
     "amazonMusic": "B0DK667DBF",
     "amazonStore": "B0DK667DBF",
@@ -48,6 +48,20 @@
       "indie rock",
       "indietronica",
       "rock"
-    ]
+    ],
+    "releasedAt": "2002-01-14",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000408427",
+      "bandcamp": "https://thenotwist.bandcamp.com/",
+      "discogs": "616",
+      "spotify": "1o4xLcugkCtDDOw7POAMha",
+      "deezer": "1486",
+      "lastfm": "The+Notwist",
+      "rateyourmusic": "the_notwist",
+      "soundcloud": "https://soundcloud.com/the-notwist",
+      "wikidata": "Q703201",
+      "youtube": "UCxtNLu9qrGS5KeEOeKpMLuw"
+    }
   }
 }

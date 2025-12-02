@@ -2,7 +2,7 @@
   "youtubeId": "Np-3nZe12vw",
   "title": "Schrei nach Liebe",
   "artist": "die ärzte",
-  "lastFetched": "2025-11-30T20:44:42.374Z",
+  "lastFetched": "2025-12-02T01:08:50.843Z",
   "odesli": {
     "amazonMusic": "B09VLK5K2Q",
     "amazonStore": "B09VLK5K2Q",
@@ -37,6 +37,20 @@
       "punk",
       "punk rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2009-07-04",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000823202",
+      "discogs": "45317",
+      "spotify": "0cbL6CYnRqpAxf1evwUVQD",
+      "deezer": "2154",
+      "lastfm": "Die+%C3%84rzte",
+      "genius": "Die-arzte",
+      "rateyourmusic": "die_arzte",
+      "soundcloud": "https://soundcloud.com/diearzte",
+      "wikidata": "Q32645",
+      "youtube": "UCsJsxj9pPP8sZuaRiaNAavQ"
+    }
   }
 }

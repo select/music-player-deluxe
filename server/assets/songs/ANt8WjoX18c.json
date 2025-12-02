@@ -2,7 +2,7 @@
   "youtubeId": "ANt8WjoX18c",
   "title": "Ganz leicht",
   "artist": "City",
-  "lastFetched": "2025-11-23T16:30:32.124Z",
+  "lastFetched": "2025-12-02T00:47:14.673Z",
   "odesli": {
     "amazonMusic": "B073NNVXHJ",
     "amazonStore": "B073NNVXHJ",
@@ -34,7 +34,16 @@
       "rock"
     ],
     "trackMbid": "1de96f65-ee69-3091-9ae4-c7b3f42812a0",
-    "artistMbid": "bb1ee9fe-c5b9-46da-94ab-ea6bec84b7aa"
+    "artistMbid": "bb1ee9fe-c5b9-46da-94ab-ea6bec84b7aa",
+    "artistCountry": "XG",
+    "externalIdsArtist": {
+      "allmusic": "mn0000131639",
+      "discogs": "192251",
+      "spotify": "7JRN2zE9GRXmVLj2UgNWtN",
+      "deezer": "71199",
+      "rateyourmusic": "city",
+      "wikidata": "Q319753"
+    }
   },
   "lastfm": {
     "id": "City/_/Ganz+leicht",

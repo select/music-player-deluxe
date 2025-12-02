@@ -2,7 +2,7 @@
   "youtubeId": "7UIHl0oJEpg",
   "title": "Jazz Suite No. 2: VI. Waltz II",
   "artist": "Dmitri Shostakovich",
-  "lastFetched": "2025-11-23T15:39:36.941Z",
+  "lastFetched": "2025-12-02T00:43:24.392Z",
   "odesli": {
     "soundcloud": "medhat-abbas/shostakovich-dmitri-1",
     "spotify": "3tcorTc2qAByPxoCr8IsMx",
@@ -23,6 +23,7 @@
   },
   "musicbrainz": {
     "trackMbid": "ab004730-bd4b-4ce7-aac0-fad0d546eb55",
-    "artistMbid": "55ff3c68-b64d-4e91-ad66-48ff802cf91b"
+    "artistMbid": "55ff3c68-b64d-4e91-ad66-48ff802cf91b",
+    "releasedAt": "2011"
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "LIejWJ1rsgU",
   "title": "Emotion Sickness",
   "artist": "Queens of the Stone Age",
-  "lastFetched": "2025-11-23T16:36:01.833Z",
+  "lastFetched": "2025-12-02T01:04:53.242Z",
   "odesli": {
     "amazonMusic": "B0BY8QCB3P",
     "amazonStore": "B0BY8QCB3P",
@@ -45,7 +45,24 @@
       "stoner rock"
     ],
     "trackMbid": "470f4030-6ffc-4cee-ad00-b2df0e35ed8e",
-    "artistMbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+    "artistMbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+    "releasedAt": "2023-05-11",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "5a8V2ZeVLj8ktvodCa1m80"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000376422",
+      "discogs": "56168",
+      "spotify": "4pejUc4iciQfgdX6OKulQn",
+      "deezer": "1177",
+      "lastfm": "Queens+of+the+Stone+Age",
+      "genius": "Queens-of-the-stone-age",
+      "rateyourmusic": "queens-of-the-stone-age",
+      "soundcloud": "https://soundcloud.com/qotsa",
+      "wikidata": "Q1243718",
+      "youtube": "UCcYgNw9ne8v1cxcAD_sIOWQ"
+    }
   },
   "lastfm": {
     "id": "Queens+of+the+Stone+Age/_/Emotion+Sickness",

@@ -1,0 +1,36 @@
+{
+  "youtubeId": "WEQnzs8wl6E",
+  "title": "Metallica - Fade to Black",
+  "lastFetched": "2025-12-01T11:50:26.822Z",
+  "ai": {
+    "title": "Fade to Black",
+    "artist": "Metallica"
+  },
+  "lastfm": {
+    "summary": "The first musical ballad released by the band. It was ranked as having the 24th best guitar solo ever by Guitar World magazine readers.\n\nIt was written after almost all of their equipment, including a very rare amplifier, given to singer/rhythm guitarist James Hetfield by his mother just before she died, was stolen in Boston, MA, following a gig at the Channel Club on 14th January 1984. This event forced Metallica to borrow equipment from fellow tour band and friends, Anthrax, for the remainder of the tour. <a href=\"http://www.last.fm/music/Metallica/_/Fade+to+Black\">Read more on Last.fm</a>.",
+    "id": "Metallica/_/Fade+to+Black",
+    "listeners": 738114,
+    "playcount": 7127210,
+    "title": "Fade to Black",
+    "artist": "Metallica",
+    "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+    "tags": [
+      "thrash metal",
+      "metal",
+      "heavy metal",
+      "metallica",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a98db560-e764-475e-8dc2-66f1bfde08e2",
+    "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+    "releaseCount": 3,
+    "artistGenres": [
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "thrash metal"
+    ]
+  }
+}

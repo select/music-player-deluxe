@@ -3,7 +3,7 @@
   "artist": "Billie Marten",
   "duration": 271,
   "youtubeId": "RK2xBIU69ZI",
-  "lastFetched": "2025-11-23T16:38:51.734Z",
+  "lastFetched": "2025-12-02T01:14:32.063Z",
   "odesli": {
     "amazonMusic": "B07P8337YQ",
     "amazonStore": "B07P8337YQ",
@@ -29,7 +29,20 @@
     ],
     "trackMbid": "7c72e8d1-82c5-4889-82e9-0d8c1e12b467",
     "artistMbid": "f5d276c8-8407-45c0-8b1c-4e43c6694fa9",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2019-04-26",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003402417",
+      "discogs": "4441374",
+      "spotify": "02YLJJnWC7YQVixkjEBRn7",
+      "deezer": "5869800",
+      "lastfm": "Billie+Marten",
+      "genius": "Billie-marten",
+      "rateyourmusic": "billie_marten",
+      "soundcloud": "https://soundcloud.com/billie-marten",
+      "wikidata": "Q22056270"
+    }
   },
   "lastfm": {
     "id": "Billie+Marten/_/Bad+Apple",

@@ -2,7 +2,7 @@
   "youtubeId": "8Ky_-Kh2UjI",
   "title": "When We Last Met",
   "artist": "Crackazat",
-  "lastFetched": "2025-11-30T22:56:24.232Z",
+  "lastFetched": "2025-12-02T00:44:35.965Z",
   "odesli": {
     "amazonMusic": "B0C758G7QT",
     "amazonStore": "B0C758G7QT",
@@ -26,6 +26,13 @@
   "musicbrainz": {
     "artistMbid": "22b46247-7dbe-4640-a6f1-16c4926cfa4c",
     "trackMbid": "f057492f-0cc4-40f4-a979-7be41e334670",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-07-14",
+    "externalIdsArtist": {
+      "discogs": "1844952",
+      "spotify": "2PagBkTVHoKFjuxtCJp3As",
+      "deezer": "1290727",
+      "soundcloud": "https://soundcloud.com/crackazat"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "5_co8r5qE5A",
   "title": "Codeword Marlene",
   "artist": "Tape Five",
-  "lastFetched": "2025-11-23T16:28:32.942Z",
+  "lastFetched": "2025-12-02T00:40:11.342Z",
   "odesli": {
     "amazonMusic": "B06Y1L759H",
     "amazonStore": "B06Y1L759H",
@@ -39,7 +39,18 @@
       "swing"
     ],
     "trackMbid": "400264f9-bf39-48a9-ac62-d609bfbe2c05",
-    "artistMbid": "5c01e21f-8222-4728-abce-267abf83544a"
+    "artistMbid": "5c01e21f-8222-4728-abce-267abf83544a",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000623717",
+      "discogs": "705927",
+      "spotify": "7kHK5OLdiiHCfG49KSHTko",
+      "deezer": "262197",
+      "lastfm": "Tape+Five",
+      "soundcloud": "https://soundcloud.com/tape-five-official",
+      "wikidata": "Q2802775",
+      "youtube": "UCogWzIy_7h0sVbukMhGG50g"
+    }
   },
   "lastfm": {
     "id": "Tape+Five/_/Codeword+Marlene",

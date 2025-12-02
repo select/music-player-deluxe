@@ -1,7 +1,7 @@
 {
   "youtubeId": "Lo2qQmj0_h4",
   "title": "AC/DC - You Shook Me All Night Long (Official 4K Video)",
-  "lastFetched": "2025-11-30T20:23:12.621Z",
+  "lastFetched": "2025-12-02T01:05:43.036Z",
   "ai": {
     "title": "You Shook Me All Night Long",
     "artist": "AC/DC"
@@ -32,6 +32,21 @@
       "hard rock",
       "rock",
       "rock and roll"
-    ]
+    ],
+    "releasedAt": "1996",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000574772",
+      "discogs": "84752",
+      "spotify": "711MCceyCBcFnzjGY4Q7Un",
+      "deezer": "115",
+      "lastfm": "AC%2FDC",
+      "genius": "Ac-dc",
+      "rateyourmusic": "ac_dc",
+      "soundcloud": "https://soundcloud.com/acdcofficial",
+      "napster": "acdc",
+      "wikidata": "Q27593",
+      "youtube": "UCVm4YdI3hobkwsHTTOMVJKg"
+    }
   }
 }

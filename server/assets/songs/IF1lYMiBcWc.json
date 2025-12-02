@@ -2,7 +2,7 @@
   "youtubeId": "IF1lYMiBcWc",
   "title": "Nobody Wants to Die",
   "artist": "Rival Sons",
-  "lastFetched": "2025-11-30T23:18:04.073Z",
+  "lastFetched": "2025-12-02T01:00:06.161Z",
   "odesli": {
     "amazonMusic": "B0BHXCD6X2",
     "amazonStore": "B0BHXCD6X2",
@@ -34,6 +34,22 @@
       "blues rock",
       "hard rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2022-10-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002672136",
+      "bandcamp": "https://rivalsons.bandcamp.com/",
+      "discogs": "2051286",
+      "spotify": "356c8AN5YWKvz86B4Sb1yf",
+      "deezer": "571758",
+      "pandora": "rival-sons",
+      "lastfm": "Rival+Sons",
+      "genius": "Rival-sons",
+      "rateyourmusic": "rival_sons",
+      "soundcloud": "https://soundcloud.com/rivalsonsofficial",
+      "napster": "rival-sons",
+      "wikidata": "Q172186"
+    }
   }
 }

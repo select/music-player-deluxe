@@ -1,7 +1,7 @@
 {
   "youtubeId": "F8BgfqVE-kY",
   "title": "Wagon Christ - 'Shadows'",
-  "lastFetched": "2025-11-30T21:33:22.977Z",
+  "lastFetched": "2025-12-02T00:54:59.923Z",
   "ai": {
     "title": "Shadows",
     "artist": "Wagon Christ"
@@ -40,6 +40,16 @@
       "electronic",
       "idm",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2004-06-05",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000229210",
+      "discogs": "163",
+      "spotify": "3INW2gvv9ZcgPGL0oqkOXy",
+      "lastfm": "Wagon+Christ",
+      "rateyourmusic": "wagon_christ",
+      "wikidata": "Q1352724"
+    }
   }
 }

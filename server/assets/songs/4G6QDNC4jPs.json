@@ -2,7 +2,7 @@
   "youtubeId": "4G6QDNC4jPs",
   "title": "Everytime We Touch",
   "artist": "Cascada",
-  "lastFetched": "2025-11-19T12:44:51.305Z",
+  "lastFetched": "2025-12-02T00:38:15.736Z",
   "odesli": {
     "amazonMusic": "B004IE25DO",
     "amazonStore": "B004IE25DO",
@@ -26,7 +26,20 @@
       "trance"
     ],
     "trackMbid": "7e8e7768-7cf1-38e7-84e8-83b08cc5d738",
-    "artistMbid": "04af2581-6692-4f14-a7fe-151a36f20368"
+    "artistMbid": "04af2581-6692-4f14-a7fe-151a36f20368",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000666073",
+      "discogs": "226574",
+      "spotify": "0N0d3kjwdY2h7UVuTdJGfp",
+      "deezer": "771",
+      "lastfm": "Cascada",
+      "genius": "Cascada",
+      "rateyourmusic": "cascada",
+      "soundcloud": "https://soundcloud.com/cascada-live",
+      "wikidata": "Q858880",
+      "youtube": "UCzOwRLQp7Jgzb_6MEDVzzJg"
+    }
   },
   "lastfm": {
     "id": "Cascada/_/Everytime+We+Touch",

@@ -2,7 +2,7 @@
   "youtubeId": "IxX_QHay02M",
   "title": "OIIA OIIA (Spinning Cat)",
   "artist": "W&W",
-  "lastFetched": "2025-11-30T21:40:56.412Z",
+  "lastFetched": "2025-12-02T01:01:07.308Z",
   "odesli": {
     "amazonMusic": "B0DSCFPZVB",
     "amazonStore": "B0DSCFPZVB",
@@ -44,6 +44,19 @@
       "progressive trance",
       "tech trance",
       "trance"
-    ]
+    ],
+    "releasedAt": "2025-01-17",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "allmusic": "mn0001552930",
+      "discogs": "1016605",
+      "spotify": "2rTo8KIkBTFjQS7VvaKYQ4",
+      "deezer": "404049",
+      "lastfm": "W&W",
+      "genius": "W-w",
+      "soundcloud": "https://soundcloud.com/wandw",
+      "wikidata": "Q1891477",
+      "youtube": "UC_FSjhzXRorZRJTLkzf3INw"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "6l6vqPUM_FE",
   "title": "I Don't Want To Set The World On Fire",
   "artist": "The Ink Spots",
-  "lastFetched": "2025-11-30T22:30:06.652Z",
+  "lastFetched": "2025-12-02T00:41:43.921Z",
   "odesli": {
     "amazonMusic": "B07G95NDMH",
     "amazonStore": "B07G95NDMH",
@@ -50,6 +50,17 @@
       "doo-wop",
       "jazz",
       "vocal jazz"
-    ]
+    ],
+    "releasedAt": "2010",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000082831",
+      "discogs": "322272",
+      "spotify": "5bOsFzuJ6QZMr86ezC4oXY",
+      "deezer": "92588",
+      "lastfm": "The+Ink+Spots",
+      "rateyourmusic": "the_ink_spots",
+      "wikidata": "Q127140"
+    }
   }
 }

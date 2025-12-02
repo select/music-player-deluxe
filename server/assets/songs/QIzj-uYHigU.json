@@ -2,7 +2,7 @@
   "youtubeId": "QIzj-uYHigU",
   "title": "Mona Lisa",
   "artist": "Teddy Teclebrhan",
-  "lastFetched": "2025-11-30T22:46:32.353Z",
+  "lastFetched": "2025-12-02T01:12:42.802Z",
   "odesli": {
     "amazonMusic": "B0BNJ5MGQB",
     "amazonStore": "B0BNJ5MGQB",
@@ -30,6 +30,15 @@
   "musicbrainz": {
     "trackMbid": "3733171c-d984-4374-965c-4e7cdbe1b3e8",
     "artistMbid": "67ffbb4c-ea05-400b-aee7-a15a7ff05c32",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2021-04-13",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "4470392",
+      "spotify": "40uoVr8ty6fA9TEpMH0lJ7",
+      "lastfm": "Tedros+Teclebrhan",
+      "rateyourmusic": "tedros_teclebrhan_f1",
+      "wikidata": "Q2399957"
+    }
   }
 }

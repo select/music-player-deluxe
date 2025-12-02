@@ -2,7 +2,7 @@
   "youtubeId": "HIfFA8-RaHQ",
   "title": "No Diggity",
   "artist": "Chet Faker",
-  "lastFetched": "2025-11-30T19:33:24.757Z",
+  "lastFetched": "2025-12-02T00:58:45.105Z",
   "odesli": {
     "amazonMusic": "B00OUDRGBE",
     "amazonStore": "B00OUDRGBE",
@@ -45,6 +45,19 @@
       "electronica",
       "soul",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2012-03-09",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0002925310",
+      "discogs": "2716985",
+      "spotify": "6UcJxoeHWWWyT5HZP064om",
+      "deezer": "1635714",
+      "lastfm": "Chet+Faker",
+      "genius": "Chet-faker",
+      "soundcloud": "https://soundcloud.com/chetfaker",
+      "wikidata": "Q5094088",
+      "youtube": "UCLcSym6gRtQqhxLZHvAwuDg"
+    }
   }
 }

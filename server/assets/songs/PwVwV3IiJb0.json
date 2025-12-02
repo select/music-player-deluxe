@@ -2,7 +2,7 @@
   "youtubeId": "PwVwV3IiJb0",
   "title": "Heidi",
   "artist": "Django 3000",
-  "lastFetched": "2025-11-19T12:39:14.815Z",
+  "lastFetched": "2025-12-02T01:12:25.496Z",
   "lastfm": {
     "id": "Django+3000/_/Heidi",
     "listeners": 4079,
@@ -17,6 +17,13 @@
   },
   "musicbrainz": {
     "trackMbid": "cb93208d-e7ac-433a-a3b5-04ce7d1e1593",
-    "artistMbid": "26ad03aa-e30f-4553-b76f-71b115fab2ea"
+    "artistMbid": "26ad03aa-e30f-4553-b76f-71b115fab2ea",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "3128021",
+      "rateyourmusic": "django_3000",
+      "wikidata": "Q2676842",
+      "youtube": "UCCVJ4rRUMfjoXJdFs6ZTr3Q"
+    }
   }
 }

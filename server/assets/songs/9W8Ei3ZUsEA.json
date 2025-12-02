@@ -2,7 +2,7 @@
   "youtubeId": "9W8Ei3ZUsEA",
   "title": "Loved",
   "artist": "Four Tet",
-  "lastFetched": "2025-11-23T16:30:12.991Z",
+  "lastFetched": "2025-12-02T00:46:16.002Z",
   "odesli": {
     "amazonMusic": "B0CV62BHNC",
     "amazonStore": "B0CV62BHNC",
@@ -47,7 +47,25 @@
       "electronic"
     ],
     "trackMbid": "3497975f-a859-4972-8b3f-8aa17b5d4c6b",
-    "artistMbid": "3bcff06f-675a-451f-9075-99e8657047e8"
+    "artistMbid": "3bcff06f-675a-451f-9075-99e8657047e8",
+    "releasedAt": "2024-01-10",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "2rIDrqcliMqD8AydNA4Tmc"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000741236",
+      "bandcamp": "https://fourtet.bandcamp.com/",
+      "discogs": "3543",
+      "spotify": "7Eu1txygG6nJttLHbZdQOh",
+      "deezer": "1744",
+      "lastfm": "Four+Tet",
+      "genius": "Four-tet",
+      "rateyourmusic": "four-tet",
+      "soundcloud": "https://soundcloud.com/four-tet",
+      "wikidata": "Q959655",
+      "youtube": "UC3sZYInu3YYkyIXBif83ZCg"
+    }
   },
   "lastfm": {
     "id": "Four+Tet/_/Loved",

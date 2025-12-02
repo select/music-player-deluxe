@@ -1,7 +1,7 @@
 {
   "youtubeId": "QybR25RPt-8",
   "title": "Gotan Project - La Revancha Del Tango (Full Album)",
-  "lastFetched": "2025-11-30T19:56:57.056Z",
+  "lastFetched": "2025-12-02T01:13:41.849Z",
   "ai": {
     "title": "La Revancha Del Tango",
     "artist": "Gotan Project"
@@ -30,6 +30,17 @@
       "electronic",
       "electrotango",
       "tango"
-    ]
+    ],
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000196259",
+      "bandcamp": "https://gotanproject.bandcamp.com/",
+      "discogs": "3196",
+      "spotify": "44ejFPE33H5aOInxNV2BFP",
+      "deezer": "1645",
+      "lastfm": "Gotan+Project",
+      "rateyourmusic": "gotan_project",
+      "wikidata": "Q746955"
+    }
   }
 }

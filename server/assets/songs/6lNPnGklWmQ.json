@@ -2,7 +2,7 @@
   "youtubeId": "6lNPnGklWmQ",
   "title": "Derhan",
   "artist": "Imarhan",
-  "lastFetched": "2025-11-23T16:29:01.580Z",
+  "lastFetched": "2025-12-02T00:41:46.684Z",
   "odesli": {
     "amazonMusic": "B0CQ4QGCG8",
     "amazonStore": "B0CQ4QGCG8",
@@ -32,7 +32,21 @@
       "desert blues"
     ],
     "trackMbid": "6ee7b461-feeb-4ab8-87eb-59fa04488251",
-    "artistMbid": "edf62daa-1425-44bb-8fe3-07499b519472"
+    "artistMbid": "edf62daa-1425-44bb-8fe3-07499b519472",
+    "artistCountry": "DZ",
+    "externalIdsArtist": {
+      "allmusic": "mn0003476720",
+      "bandcamp": "https://imarhan.bandcamp.com/",
+      "discogs": "4903765",
+      "spotify": "1KQ1687z0hWSabx0YswG54",
+      "deezer": "7981694",
+      "lastfm": "Imarhan",
+      "genius": "Imarhan",
+      "rateyourmusic": "imarhan",
+      "soundcloud": "https://soundcloud.com/imarhan-official",
+      "wikidata": "Q27817993",
+      "youtube": "imarhan"
+    }
   },
   "lastfm": {
     "id": "Imarhan/_/Derhan",

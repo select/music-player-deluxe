@@ -2,7 +2,7 @@
   "youtubeId": "7O4lGQsf8Tw",
   "title": "La réalité",
   "artist": "Amadou & Mariam",
-  "lastFetched": "2025-11-23T16:29:28.207Z",
+  "lastFetched": "2025-12-02T00:43:12.702Z",
   "odesli": {
     "amazonMusic": "B073MX77W8",
     "amazonStore": "B073MX77W8",
@@ -39,7 +39,20 @@
       "desert blues"
     ],
     "trackMbid": "fcffab91-a65c-48be-bc8d-f280298533f1",
-    "artistMbid": "1fb60b6c-0f4d-42b4-8a5e-de705ec76660"
+    "artistMbid": "1fb60b6c-0f4d-42b4-8a5e-de705ec76660",
+    "releasedAt": "2004-08-02",
+    "artistCountry": "ML",
+    "externalIdsArtist": {
+      "allmusic": "mn0000013647",
+      "bandcamp": "https://amadoumariam.bandcamp.com/",
+      "discogs": "144288",
+      "spotify": "6ZW2WjjlDrwwEgT4ZexufR",
+      "deezer": "5",
+      "lastfm": "Amadou+&+Mariam",
+      "genius": "Amadou-and-mariam",
+      "rateyourmusic": "amadou_and_mariam",
+      "wikidata": "Q452258"
+    }
   },
   "lastfm": {
     "id": "Amadou+&+Mariam/_/La+r%C3%A9alit%C3%A9",

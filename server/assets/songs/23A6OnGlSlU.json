@@ -2,7 +2,7 @@
   "youtubeId": "23A6OnGlSlU",
   "title": "Maximum Style",
   "artist": "Tom & Jerry",
-  "lastFetched": "2025-11-30T22:37:47.621Z",
+  "lastFetched": "2025-12-02T00:35:41.796Z",
   "lastfm": {
     "title": "Maximum Style",
     "artist": "Tom & Jerry",
@@ -22,6 +22,13 @@
     "releaseCount": 4,
     "artistGenres": [
       "jungle"
-    ]
+    ],
+    "releasedAt": "1994-08-05",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "24413",
+      "deezer": "86138482",
+      "rateyourmusic": "tom_and_jerry_f1"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "Nz04FHL6U_I",
   "title": "Her Alone",
   "artist": "Amorphis",
-  "lastFetched": "2025-11-30T20:20:26.862Z",
+  "lastFetched": "2025-12-02T01:09:17.604Z",
   "odesli": {
     "amazonMusic": "B0DLBB7QQ2",
     "amazonStore": "B0DLBB7QQ2",
@@ -38,6 +38,20 @@
       "metal",
       "progressive metal",
       "symphonic metal"
-    ]
+    ],
+    "releasedAt": "2007-08-22",
+    "artistCountry": "FI",
+    "externalIdsArtist": {
+      "allmusic": "mn0000022590",
+      "discogs": "113365",
+      "spotify": "2UOVgpgiNTC6KK0vSC77aD",
+      "deezer": "3579",
+      "lastfm": "Amorphis",
+      "genius": "Amorphis",
+      "rateyourmusic": "amorphis",
+      "soundcloud": "https://soundcloud.com/amorphis-official",
+      "wikidata": "Q474169",
+      "youtube": "UCRAHc1Aild5p1Zmy2rAgVmA"
+    }
   }
 }

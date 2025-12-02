@@ -2,7 +2,7 @@
   "youtubeId": "2fOzweu95oc",
   "title": "Geburtstag",
   "artist": "Kapelle Petra",
-  "lastFetched": "2025-11-19T14:37:45.201Z",
+  "lastFetched": "2025-12-02T00:36:35.849Z",
   "lastfm": {
     "id": "Kapelle+Petra/_/Geburtstag",
     "listeners": 7813,
@@ -14,6 +14,18 @@
   },
   "musicbrainz": {
     "trackMbid": "3735c2bc-c5e3-4514-8629-bdfc65ec70c8",
-    "artistMbid": "6dcb275a-0f1f-4f87-8abd-25be36a02604"
+    "artistMbid": "6dcb275a-0f1f-4f87-8abd-25be36a02604",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001770471",
+      "bandcamp": "https://kapellepetra.bandcamp.com/",
+      "discogs": "3328167",
+      "spotify": "0AqWbspCaJBnrvCcOi8OXe",
+      "deezer": "544748",
+      "lastfm": "Kapelle+Petra",
+      "rateyourmusic": "kapelle_petra",
+      "wikidata": "Q1728408",
+      "youtube": "UChvRAHxXFVj9dnAKK_Su3Tw"
+    }
   }
 }

@@ -3,7 +3,7 @@
   "artist": "Hildegard Knef",
   "duration": 195,
   "youtubeId": "LmVNZHGAX-Y",
-  "lastFetched": "2025-11-16T20:52:28.569Z",
+  "lastFetched": "2025-12-02T01:05:38.485Z",
   "odesli": {
     "amazonMusic": "B073HG5D44",
     "amazonStore": "B073HG5D44",
@@ -27,6 +27,19 @@
     ],
     "trackMbid": "1da881ee-b7fe-4e94-babd-bb0f93324b96",
     "artistMbid": "fef1e787-e631-41a3-b8f2-a834291d8bd1",
-    "releaseCount": 7
+    "releaseCount": 7,
+    "releasedAt": "1970",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000676814",
+      "discogs": "55104",
+      "spotify": "66aVJ4ocSmKcdrRUCXR8j0",
+      "deezer": "64939",
+      "lastfm": "Hildegard%20Knef",
+      "genius": "Hildegard-knef",
+      "rateyourmusic": "hildegard_knef",
+      "wikidata": "Q57604",
+      "youtube": "UCdF1D2Bkek2HyuWdogrWcYw"
+    }
   }
 }

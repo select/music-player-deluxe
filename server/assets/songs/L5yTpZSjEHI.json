@@ -3,7 +3,7 @@
   "artist": "Elektro Willi und Sohn",
   "duration": 366,
   "youtubeId": "L5yTpZSjEHI",
-  "lastFetched": "2025-11-19T05:34:39.750Z",
+  "lastFetched": "2025-12-02T01:04:31.790Z",
   "lastfm": {
     "id": "Elektro+Willi+und+Sohn/_/Autoscooter",
     "listeners": 774,
@@ -19,6 +19,13 @@
   "musicbrainz": {
     "trackMbid": "5be62b0b-6ee4-47e3-92cf-9655a89f2f3d",
     "artistMbid": "663cdea5-6584-4695-b358-9514bb029b32",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2008",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "702455",
+      "soundcloud": "https://soundcloud.com/elektrowilli",
+      "wikidata": "Q1326675"
+    }
   }
 }

@@ -1,0 +1,56 @@
+{
+  "youtubeId": "rLtZKkCIVmI",
+  "title": "Tom Waits - \"Downtown Train\"",
+  "lastFetched": "2025-12-01T13:03:02.705Z",
+  "ai": {
+    "title": "Downtown Train",
+    "artist": "Tom Waits"
+  },
+  "lastfm": {
+    "summary": "Raw <a href=\"http://www.last.fm/music/Tom+Waits/_/Downtown+Train\">Read more on Last.fm</a>.",
+    "id": "Tom+Waits/_/Downtown+Train",
+    "listeners": 319894,
+    "playcount": 1542144,
+    "title": "Downtown Train",
+    "artist": "Tom Waits",
+    "mbid": "84c1be3e-d20f-4e7e-aabd-18b18efd883a",
+    "artistMbid": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+    "tags": [
+      "singer-songwriter",
+      "blues",
+      "rock",
+      "tom waits",
+      "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a9559e17-60d8-4068-8b40-07f73549505b",
+    "artistMbid": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+    "releaseCount": 25,
+    "genres": [
+      "blues",
+      "blues rock",
+      "experimental rock",
+      "rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "americana",
+      "avant-garde jazz",
+      "beat poetry",
+      "blues",
+      "blues rock",
+      "dark cabaret",
+      "dark jazz",
+      "experimental",
+      "experimental rock",
+      "folk",
+      "folk rock",
+      "gothic country",
+      "jazz",
+      "piano blues",
+      "rock",
+      "singer-songwriter"
+    ]
+  }
+}

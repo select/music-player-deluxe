@@ -2,7 +2,7 @@
   "youtubeId": "RRKJiM9Njr8",
   "title": "Welcome to the Black Parade",
   "artist": "My Chemical Romance",
-  "lastFetched": "2025-11-19T12:37:12.856Z",
+  "lastFetched": "2025-12-02T01:14:55.107Z",
   "odesli": {
     "amazonMusic": "B0011Z4X74",
     "amazonStore": "B0011Z4X74",
@@ -31,7 +31,21 @@
       "punk"
     ],
     "trackMbid": "f8989bd7-99c4-37fc-93cb-f42a49fc8a7a",
-    "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13"
+    "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000520545",
+      "discogs": "319406",
+      "spotify": "7FBcuc1gsnv6Y1nwFtNRCb",
+      "deezer": "599",
+      "lastfm": "My+Chemical+Romance",
+      "genius": "My-chemical-romance",
+      "rateyourmusic": "my-chemical-romance",
+      "soundcloud": "https://soundcloud.com/my-chemical-romance",
+      "napster": "my-chemical-romance",
+      "wikidata": "Q483285",
+      "youtube": "UC527A_XB_c7XftocVOIVNeA"
+    }
   },
   "lastfm": {
     "id": "My+Chemical+Romance/_/Welcome+to+the+Black+Parade",

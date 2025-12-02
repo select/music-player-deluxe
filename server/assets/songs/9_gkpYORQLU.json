@@ -2,7 +2,7 @@
   "youtubeId": "9_gkpYORQLU",
   "title": "G.O.A.T.",
   "artist": "Polyphia",
-  "lastFetched": "2025-11-30T23:28:31.869Z",
+  "lastFetched": "2025-12-02T00:46:28.290Z",
   "odesli": {
     "amazonMusic": "B07FT2GR3F",
     "amazonStore": "B07FT2GR3F",
@@ -42,6 +42,25 @@
       "math rock",
       "progressive metal",
       "progressive rock"
-    ]
+    ],
+    "releasedAt": "2018-05-24",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "0maCwhZTO3PybhSiQcsjAf"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003313453",
+      "bandcamp": "https://polyphia.bandcamp.com/",
+      "discogs": "4067618",
+      "spotify": "4vGrte8FDu062Ntj0RsPiZ",
+      "deezer": "6241820",
+      "lastfm": "Polyphia",
+      "genius": "Polyphia",
+      "rateyourmusic": "polyphia",
+      "soundcloud": "https://soundcloud.com/polyphiaofficial",
+      "napster": "polyphia",
+      "wikidata": "Q24075467",
+      "youtube": "UCDe08Fs0s0YKJuk5h45csAQ"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "8YoYa5N_2xU",
   "title": "No Apologies",
   "artist": "Ward 21",
-  "lastFetched": "2025-11-30T21:48:40.403Z",
+  "lastFetched": "2025-12-02T00:44:47.595Z",
   "odesli": {
     "amazonMusic": "B01APT4KYM",
     "amazonStore": "B01APT4KYM",
@@ -40,6 +40,14 @@
     "releaseCount": 1,
     "artistGenres": [
       "dancehall"
-    ]
+    ],
+    "releasedAt": "2003-07-28",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "discogs": "17857",
+      "spotify": "0iRwqSYn7fG3WkEBYQpcqJ",
+      "deezer": "98239",
+      "wikidata": "Q2549050"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "78ESklV174I",
   "title": "Capezio",
   "artist": "Perfume Genius",
-  "lastFetched": "2025-11-30T21:31:01.051Z",
+  "lastFetched": "2025-12-02T00:30:34.208Z",
   "odesli": {
     "amazonMusic": "B0DRCWMRRS",
     "amazonStore": "B0DRCWMRRS",
@@ -50,6 +50,20 @@
       "indie rock",
       "minimal wave",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2025-03-28",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "4zXF1oNzq6sovCdalbDLIu"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002455573",
+      "bandcamp": "https://perfumegenius.bandcamp.com/",
+      "discogs": "1741195",
+      "spotify": "2ueoLVCXQ948OfhVvAy3Nn",
+      "lastfm": "Perfume+Genius",
+      "soundcloud": "perfumegenius",
+      "youtube": "UCbdULJagJxPyVr3mad8qUcg"
+    }
   }
 }

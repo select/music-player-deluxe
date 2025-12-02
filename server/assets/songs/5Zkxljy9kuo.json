@@ -2,7 +2,7 @@
   "youtubeId": "5Zkxljy9kuo",
   "title": "There was a Bar",
   "artist": "Capey Cash",
-  "lastFetched": "2025-11-19T11:21:14.166Z",
+  "lastFetched": "2025-12-02T00:40:09.209Z",
   "odesli": {
     "amazonMusic": "B07Y2H69H7",
     "amazonStore": "B07Y2H69H7",
@@ -25,6 +25,7 @@
   },
   "musicbrainz": {
     "trackMbid": "1419cb05-88eb-461b-a3dc-393dea4283b4",
-    "artistMbid": "50c789bc-5675-4f2e-acbc-271cd5c55114"
+    "artistMbid": "50c789bc-5675-4f2e-acbc-271cd5c55114",
+    "releasedAt": "2010-11-22"
   }
 }

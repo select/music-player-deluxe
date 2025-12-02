@@ -2,7 +2,7 @@
   "youtubeId": "D-vWg0Oue6w",
   "title": "Gold Dust",
   "artist": "DJ Fresh",
-  "lastFetched": "2025-11-23T16:31:58.872Z",
+  "lastFetched": "2025-12-02T00:51:11.382Z",
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
@@ -15,7 +15,18 @@
       "uk garage"
     ],
     "trackMbid": "18e08908-1834-3a2c-b70b-6558c6e0b86d",
-    "artistMbid": "77049387-0580-4a3a-a05f-d12b5d6b5042"
+    "artistMbid": "77049387-0580-4a3a-a05f-d12b5d6b5042",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000654628",
+      "discogs": "23096",
+      "spotify": "6r20qOqY7qDWI0PPTxVMlC",
+      "deezer": "490454",
+      "lastfm": "DJ%20Fresh",
+      "soundcloud": "https://soundcloud.com/djfreshuk",
+      "wikidata": "Q941738",
+      "youtube": "UC0y8P5OjTKLTpnDt62WJzCA"
+    }
   },
   "lastfm": {
     "id": "DJ+Fresh/_/Gold+Dust",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "AauVal4ODbE",
   "title": "Emicida - Boa Esperança (Videoclipe Oficial)",
-  "lastFetched": "2025-11-30T19:46:30.138Z",
+  "lastFetched": "2025-12-02T00:47:36.561Z",
   "ai": {
     "title": "Boa Esperança",
     "artist": "Emicida"
@@ -23,6 +23,17 @@
     "releaseCount": 1,
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2015-07-08",
+    "artistCountry": "BR",
+    "externalIdsArtist": {
+      "allmusic": "mn0002688820",
+      "discogs": "2724690",
+      "spotify": "2d9LRvQJnAXRijqIJDDs2K",
+      "deezer": "4033307",
+      "lastfm": "Emicida",
+      "soundcloud": "https://soundcloud.com/emicidacachoeira",
+      "wikidata": "Q611208"
+    }
   }
 }

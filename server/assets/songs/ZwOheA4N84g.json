@@ -1,0 +1,52 @@
+{
+  "youtubeId": "ZwOheA4N84g",
+  "title": "Essential One",
+  "artist": "Soulwax",
+  "lastFetched": "2025-12-01T12:53:08.322Z",
+  "odesli": {
+    "amazonMusic": "B07C6KFYTP",
+    "amazonStore": "B07C6KFYTP",
+    "anghami": "35451371",
+    "boomplay": "37094036",
+    "deezer": "486935842",
+    "appleMusic": "1372626227",
+    "itunes": "1372626227",
+    "napster": "tra.309123040",
+    "pandora": "TR:11930379",
+    "spotify": "2DFViommN02hsyrtzaPgcI",
+    "tidal": "87444540",
+    "youtube": "ZwOheA4N84g",
+    "youtubeMusic": "ZwOheA4N84g"
+  },
+  "lastfm": {
+    "id": "Soulwax/_/Essential+One",
+    "listeners": 9233,
+    "playcount": 27060,
+    "title": "Essential One",
+    "artist": "Soulwax",
+    "mbid": "19b38e47-b621-4da8-b8ea-ae3e08613b01",
+    "artistMbid": "68ec1b08-3c2e-40b3-b0af-8f323743fdff",
+    "tags": [
+      "electronic",
+      "alternative",
+      "rock",
+      "indie",
+      "acid house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "220f3c75-42db-42a6-8af0-2ebf9ae9f422",
+    "artistMbid": "68ec1b08-3c2e-40b3-b0af-8f323743fdff",
+    "releaseCount": 4,
+    "artistGenres": [
+      "alternative rock",
+      "dance-punk",
+      "electro house",
+      "electroclash",
+      "electronic",
+      "indie rock",
+      "new rave",
+      "rock"
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "9RHFFeQ2tu4",
   "title": "Source",
   "artist": "Fever the Ghost",
-  "lastFetched": "2025-11-30T19:52:09.562Z",
+  "lastFetched": "2025-12-02T00:46:11.495Z",
   "odesli": {
     "amazonMusic": "B00HFHKVNC",
     "amazonStore": "B00HFHKVNC",
@@ -40,6 +40,15 @@
       "progressive rock",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2014-10-06",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://fevertheghost.bandcamp.com/",
+      "discogs": "3534107",
+      "spotify": "02Bl8I5jXlMRfDSL5swBOm",
+      "deezer": "5431808",
+      "soundcloud": "https://soundcloud.com/fevertheghost"
+    }
   }
 }

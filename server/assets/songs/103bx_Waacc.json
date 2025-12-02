@@ -2,7 +2,7 @@
   "youtubeId": "103bx_Waacc",
   "title": "Je ne parle pas français",
   "artist": "Namika",
-  "lastFetched": "2025-11-30T19:56:09.328Z",
+  "lastFetched": "2025-12-02T00:34:19.772Z",
   "odesli": {
     "amazonMusic": "B07DQPTN1J",
     "amazonStore": "B07DQPTN1J",
@@ -40,6 +40,16 @@
       "contemporary r&b",
       "pop",
       "pop rap"
-    ]
+    ],
+    "releasedAt": "2018-04-13",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003416781",
+      "discogs": "4590210",
+      "spotify": "0HSc7yUdNSosxRb2UJnXlz",
+      "rateyourmusic": "namika",
+      "wikidata": "Q20750928",
+      "youtube": "UCRrLWhcrm7jrOMiuU0HmNRA"
+    }
   }
 }

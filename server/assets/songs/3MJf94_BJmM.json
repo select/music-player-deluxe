@@ -2,7 +2,7 @@
   "youtubeId": "3MJf94_BJmM",
   "title": "Arbeit",
   "artist": "Sido",
-  "lastFetched": "2025-11-23T16:27:24.579Z",
+  "lastFetched": "2025-12-02T00:37:12.420Z",
   "odesli": {
     "amazonMusic": "B00L6MYRKA",
     "amazonStore": "B00L6MYRKA",
@@ -28,7 +28,20 @@
       "pop rap"
     ],
     "trackMbid": "753d0b92-561e-48b2-9041-b9741e416575",
-    "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd"
+    "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000721939",
+      "discogs": "282660",
+      "spotify": "4Yttlv9ndGjCDCVLqM7ACq",
+      "deezer": "12039",
+      "lastfm": "Sido",
+      "genius": "Sido",
+      "rateyourmusic": "sido",
+      "soundcloud": "https://soundcloud.com/sido-official",
+      "youtube": "UChl3h_bqcx_c15f7WOtSn-A",
+      "wikidata": "Q213670"
+    }
   },
   "lastfm": {
     "id": "Sido/_/Arbeit",

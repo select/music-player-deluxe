@@ -2,7 +2,7 @@
   "youtubeId": "6o-p-OAWmsY",
   "title": "Carol of the Bells",
   "artist": "August Burns Red",
-  "lastFetched": "2025-11-30T21:21:36.460Z",
+  "lastFetched": "2025-12-02T00:41:51.921Z",
   "odesli": {
     "amazonMusic": "B08MB11LG5",
     "amazonStore": "B08MB11LG5",
@@ -38,6 +38,22 @@
       "alternative metal",
       "melodic metalcore",
       "metalcore"
-    ]
+    ],
+    "releasedAt": "2008-10-28",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000177336",
+      "bandcamp": "https://augustburnsred.bandcamp.com/",
+      "discogs": "824685",
+      "spotify": "5p9CTsn5ueGU4oScNX1axu",
+      "deezer": "14046",
+      "lastfm": "August+Burns+Red",
+      "genius": "August-burns-red",
+      "rateyourmusic": "august_burns_red",
+      "soundcloud": "https://soundcloud.com/august-burns-red-official",
+      "napster": "august-burns-red",
+      "wikidata": "Q537954",
+      "youtube": "UCW92JR_Ej-BIxNTg8CLfnvw"
+    }
   }
 }

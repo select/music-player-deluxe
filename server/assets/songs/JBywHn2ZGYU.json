@@ -3,7 +3,7 @@
   "artist": "Jimmy McGriff",
   "duration": 245,
   "youtubeId": "JBywHn2ZGYU",
-  "lastFetched": "2025-11-19T05:32:08.043Z",
+  "lastFetched": "2025-12-02T01:01:35.865Z",
   "odesli": {
     "amazonMusic": "B000TRQAWG",
     "amazonStore": "B000TRQAWG",
@@ -30,7 +30,16 @@
     ],
     "trackMbid": "46d1ed11-14cf-4e83-85aa-519f326edc88",
     "artistMbid": "58f23499-f263-4772-9b7a-2f6cd2fe428f",
-    "releaseCount": 4
+    "releaseCount": 4,
+    "releasedAt": "1970",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000076658",
+      "discogs": "29962",
+      "spotify": "1A0QR12gcj2L5hYh1WWDeh",
+      "rateyourmusic": "jimmy_mcgriff",
+      "wikidata": "Q726100"
+    }
   },
   "lastfm": {
     "id": "Jimmy+McGriff/_/The+Bird+Wave",

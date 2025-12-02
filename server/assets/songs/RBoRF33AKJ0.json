@@ -2,7 +2,7 @@
   "youtubeId": "RBoRF33AKJ0",
   "title": "Palace Midas",
   "artist": "Ruxpin",
-  "lastFetched": "2025-11-19T16:35:36.541Z",
+  "lastFetched": "2025-12-02T01:14:06.391Z",
   "odesli": {
     "amazonMusic": "B0011FU62U",
     "amazonStore": "B0011FU62U",
@@ -29,6 +29,13 @@
   },
   "musicbrainz": {
     "trackMbid": "1d09c79e-a6f4-3785-86df-d24996f3ca13",
-    "artistMbid": "4dab20be-f26d-49f3-8bb2-bb011acf180b"
+    "artistMbid": "4dab20be-f26d-49f3-8bb2-bb011acf180b",
+    "artistCountry": "IS",
+    "externalIdsArtist": {
+      "discogs": "24903",
+      "spotify": "0gsu0Kbfq0yG5uIdJ4KNyH",
+      "deezer": "295334",
+      "soundcloud": "https://soundcloud.com/ruxpin"
+    }
   }
 }

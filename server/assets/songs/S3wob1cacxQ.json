@@ -2,7 +2,7 @@
   "youtubeId": "S3wob1cacxQ",
   "title": "Strobe light network",
   "artist": "Cold",
-  "lastFetched": "2025-11-23T16:39:17.204Z",
+  "lastFetched": "2025-12-02T01:15:56.378Z",
   "odesli": {
     "amazonMusic": "B003QZDETA",
     "amazonStore": "B003QZDETA",
@@ -26,7 +26,19 @@
       "rock"
     ],
     "trackMbid": "1f1dde9a-8d72-3b53-ad34-a2dc993a470b",
-    "artistMbid": "d9a2f1e6-6429-41ce-9d32-9a66188fb39c"
+    "artistMbid": "d9a2f1e6-6429-41ce-9d32-9a66188fb39c",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000105638",
+      "discogs": "256662",
+      "spotify": "0Gw3a3BkWLwsMLFbOBmo6Q",
+      "deezer": "318",
+      "lastfm": "Cold",
+      "genius": "Cold",
+      "rateyourmusic": "cold",
+      "napster": "cold-46361",
+      "wikidata": "Q1107761"
+    }
   },
   "lastfm": {
     "id": "Cold/_/Strobe+light+network",

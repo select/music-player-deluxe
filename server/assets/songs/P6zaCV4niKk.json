@@ -2,7 +2,7 @@
   "youtubeId": "P6zaCV4niKk",
   "title": "Father and Son",
   "artist": "Cat Stevens",
-  "lastFetched": "2025-11-30T22:58:15.657Z",
+  "lastFetched": "2025-12-02T01:11:04.862Z",
   "odesli": {
     "boomplay": "2577636",
     "deezer": "1157032882",
@@ -43,6 +43,19 @@
       "rock",
       "singer-songwriter",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "1996",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000198480",
+      "discogs": "37606",
+      "spotify": "1ygnFQb0wvgWFS4P020EaY",
+      "deezer": "282417",
+      "genius": "Cat-stevens",
+      "rateyourmusic": "cat_stevens",
+      "soundcloud": "https://soundcloud.com/yusufcatstevens",
+      "wikidata": "Q154216",
+      "youtube": "UCo0pv-U5bTDLlfdROjmCCGg"
+    }
   }
 }

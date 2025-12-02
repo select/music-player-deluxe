@@ -1,0 +1,32 @@
+{
+  "youtubeId": "HfM8f9NfHS4",
+  "title": "Essence Of A Dream",
+  "artist": "Risqué III",
+  "lastFetched": "2025-12-02T00:59:16.298Z",
+  "odesli": {
+    "amazonMusic": "B09PQCKZKT",
+    "amazonStore": "B09PQCKZKT",
+    "tidal": "211293728",
+    "youtube": "HfM8f9NfHS4",
+    "youtubeMusic": "HfM8f9NfHS4"
+  },
+  "lastfm": {
+    "id": "Risqu%C3%A9+III/_/Essence+Of+A+Dream",
+    "listeners": 1053,
+    "playcount": 2348,
+    "title": "Essence Of A Dream",
+    "artist": "Risqué III",
+    "mbid": "14dad52e-e9a7-461b-aa90-e6536e0cde27",
+    "artistMbid": "448ff4e3-02b6-488a-961b-9edaddc58122"
+  },
+  "musicbrainz": {
+    "trackMbid": "0b1c6740-0d7b-47f6-8937-d9dff9d95ac3",
+    "artistMbid": "448ff4e3-02b6-488a-961b-9edaddc58122",
+    "releaseCount": 1,
+    "releasedAt": "2014-09-01",
+    "externalIdsArtist": {
+      "bandcamp": "https://risque-iii.bandcamp.com/",
+      "discogs": "6045"
+    }
+  }
+}

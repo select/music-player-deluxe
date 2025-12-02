@@ -2,7 +2,7 @@
   "youtubeId": "JnhjWUepaE8",
   "title": "Dustup",
   "artist": "Noisia",
-  "lastFetched": "2025-11-30T20:54:35.107Z",
+  "lastFetched": "2025-12-02T01:02:32.390Z",
   "odesli": {
     "amazonMusic": "B09H2MRYPB",
     "amazonStore": "B09H2MRYPB",
@@ -52,6 +52,21 @@
       "electronic",
       "halftime",
       "neurofunk"
-    ]
+    ],
+    "releasedAt": "2012-05-14",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "allmusic": "mn0000450398",
+      "bandcamp": "https://noisia.bandcamp.com/",
+      "discogs": "100457",
+      "spotify": "4YWj8sohRDjL9deiuRvEEY",
+      "deezer": "6455",
+      "lastfm": "Noisia",
+      "genius": "Noisia",
+      "rateyourmusic": "noisia",
+      "soundcloud": "https://soundcloud.com/noisia",
+      "wikidata": "Q47227",
+      "youtube": "UChCso6519aVIfbcTYAEwB1g"
+    }
   }
 }

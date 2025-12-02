@@ -1,7 +1,7 @@
 {
   "youtubeId": "5aWUdMQPCss",
   "title": "Aranda - Satisfied - Lyrics",
-  "lastFetched": "2025-11-30T21:14:07.171Z",
+  "lastFetched": "2025-12-02T00:27:50.059Z",
   "ai": {
     "title": "Satisfied",
     "artist": "Aranda"
@@ -24,6 +24,16 @@
   "musicbrainz": {
     "trackMbid": "a836a656-1966-413b-93d8-e6a9f578bf86",
     "artistMbid": "03017402-d7ba-4a4b-a794-5c3bc6e7e3b1",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2012-01-30",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "1HdnoaD0mfBjxJtBAazAFm"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000989871",
+      "discogs": "3260127",
+      "spotify": "6l0DPGloCYFvs6dM7Y8Wmw"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "-If2r9ENQfA",
   "title": "Vicinity Of Obscenity",
   "artist": "System Of A Down",
-  "lastFetched": "2025-11-30T21:24:22.065Z",
+  "lastFetched": "2025-12-02T00:17:29.067Z",
   "odesli": {
     "amazonMusic": "B006ONVZQA",
     "amazonStore": "B006ONVZQA",
@@ -53,6 +53,29 @@
       "hard rock",
       "heavy metal",
       "nu metal"
-    ]
+    ],
+    "releasedAt": "2005-11-18",
+    "artistCountry": "US",
+    "externalIds": {
+      "allmusic": "mn0000005501",
+      "bandcamp": "https://systemofadown.bandcamp.com/",
+      "discogs": "85889",
+      "spotify": "5eAWCfyUhZtHHtBdNk56l1",
+      "lastfm": "System+of+a+Down",
+      "soundcloud": "system-of-a-down-official",
+      "youtube": "UCDJftX2zx_UT_QSnBGIF96w"
+    },
+    "externalIdsTrack": {
+      "spotify": "6IdKZeYIfmsnPOVbI0O94p"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000005501",
+      "bandcamp": "https://systemofadown.bandcamp.com/",
+      "discogs": "85889",
+      "spotify": "5eAWCfyUhZtHHtBdNk56l1",
+      "lastfm": "System+of+a+Down",
+      "soundcloud": "system-of-a-down-official",
+      "youtube": "UCDJftX2zx_UT_QSnBGIF96w"
+    }
   }
 }

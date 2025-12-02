@@ -1,0 +1,54 @@
+{
+  "youtubeId": "I2YCzoH9fP4",
+  "title": "Bsslama Habiti",
+  "artist": "Fadoul",
+  "lastFetched": "2025-12-02T00:59:50.910Z",
+  "odesli": {
+    "amazonMusic": "B0FS7LT2CR",
+    "amazonStore": "B0FS7LT2CR",
+    "anghami": "1024542194",
+    "boomplay": "55101151",
+    "appleMusic": "1841608788",
+    "itunes": "1841608788",
+    "soundcloud": "habibifunk/fadoul-bsslama-habiti-habibi-funk-an-ecclectic-selection-of-music-from-the-arab-world",
+    "spotify": "08xVRlwBzyrKSHSlFuhZVC",
+    "tidal": "462430858",
+    "yandex": "45489794",
+    "youtube": "I2YCzoH9fP4",
+    "youtubeMusic": "I2YCzoH9fP4"
+  },
+  "lastfm": {
+    "id": "Fadoul/_/Bsslama+Habiti",
+    "listeners": 273,
+    "playcount": 592,
+    "title": "Bsslama Habiti",
+    "artist": "Fadoul",
+    "artistMbid": "a80023e0-776f-45ac-b942-ac11506d5bd0",
+    "tags": [
+      "funk",
+      "morocco",
+      "arabic",
+      "garage rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2e6a5fe5-6d66-4a66-9a2c-3bb327777a44",
+    "artistMbid": "a80023e0-776f-45ac-b942-ac11506d5bd0",
+    "releaseCount": 1,
+    "artistGenres": [
+      "funk"
+    ],
+    "releasedAt": "2025-10-17",
+    "artistCountry": "MA",
+    "externalIdsTrack": {
+      "spotify": "08xVRlwBzyrKSHSlFuhZVC",
+      "deezer": "3568811801"
+    },
+    "externalIdsArtist": {
+      "discogs": "4562365",
+      "spotify": "2SCAwDNVflhhFVo1s01Xc9",
+      "deezer": "9240226",
+      "rateyourmusic": "fadoul"
+    }
+  }
+}

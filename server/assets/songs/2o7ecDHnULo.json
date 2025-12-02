@@ -2,7 +2,7 @@
   "youtubeId": "2o7ecDHnULo",
   "title": "Small Talk",
   "artist": "Martin Rev",
-  "lastFetched": "2025-11-23T16:27:09.812Z",
+  "lastFetched": "2025-12-02T00:36:42.440Z",
   "odesli": {
     "anghami": "87470064",
     "boomplay": "46548884",
@@ -26,7 +26,16 @@
       "electronic"
     ],
     "trackMbid": "cc07d1f3-022e-333d-8da2-dfd5ddf1dd73",
-    "artistMbid": "15dba3af-bb9a-4a19-808d-fbffc085c4ff"
+    "artistMbid": "15dba3af-bb9a-4a19-808d-fbffc085c4ff",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000367156",
+      "discogs": "4587",
+      "spotify": "4zDG2kkm3SmF383uO3Hgo8",
+      "lastfm": "Martin%20Rev",
+      "rateyourmusic": "martin_rev",
+      "wikidata": "Q433265"
+    }
   },
   "lastfm": {
     "id": "Martin+Rev/_/Small+Talk",

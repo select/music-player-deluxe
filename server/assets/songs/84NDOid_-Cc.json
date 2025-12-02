@@ -3,7 +3,7 @@
   "artist": "Mandidextrous",
   "duration": 223,
   "youtubeId": "84NDOid_-Cc",
-  "lastFetched": "2025-11-23T16:29:49.473Z",
+  "lastFetched": "2025-12-02T00:44:14.360Z",
   "odesli": {
     "amazonMusic": "B0CPQ6T9XR",
     "amazonStore": "B0CPQ6T9XR",
@@ -32,7 +32,14 @@
     ],
     "trackMbid": "3639f0e5-ed70-46af-ac4c-79c3cb2d3c28",
     "artistMbid": "c1c2604f-96ba-4784-b717-190f7bff01f8",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-12-15",
+    "externalIdsArtist": {
+      "discogs": "2195029",
+      "spotify": "0oVDzp5DK2caqb6FuL2mhp",
+      "deezer": "5301534",
+      "soundcloud": "https://soundcloud.com/mandidextroustnt"
+    }
   },
   "lastfm": {
     "id": "Mandidextrous/_/Deep+On+This",

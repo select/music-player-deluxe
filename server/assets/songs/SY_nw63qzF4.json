@@ -2,7 +2,7 @@
   "youtubeId": "SY_nw63qzF4",
   "title": "Chica",
   "artist": "Culcha Candela",
-  "lastFetched": "2025-11-30T19:42:46.627Z",
+  "lastFetched": "2025-12-02T01:16:37.914Z",
   "odesli": {
     "amazonMusic": "B09L4H8XHS",
     "amazonStore": "B09L4H8XHS",
@@ -42,6 +42,17 @@
       "hip hop",
       "reggae",
       "salsa"
-    ]
+    ],
+    "releasedAt": "2007-08-31",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000566880",
+      "discogs": "215497",
+      "spotify": "3gemH8D6fpu12DmTmUZYAL",
+      "deezer": "2637",
+      "rateyourmusic": "culcha_candela",
+      "wikidata": "Q707095",
+      "youtube": "UCVWqL8NXmnMbn8hbVA_hugQ"
+    }
   }
 }

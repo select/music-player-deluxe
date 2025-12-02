@@ -3,7 +3,7 @@
   "artist": "Billy Brooks",
   "duration": 379,
   "youtubeId": "QySirDr6aA8",
-  "lastFetched": "2025-11-19T02:40:43.392Z",
+  "lastFetched": "2025-12-02T01:13:39.305Z",
   "odesli": {
     "amazonMusic": "B08HDKFN1T",
     "amazonStore": "B08HDKFN1T",
@@ -33,6 +33,12 @@
   "musicbrainz": {
     "trackMbid": "b9409fcb-f212-46d2-8c24-9b3bb242c1ef",
     "artistMbid": "775c0cf9-5d7e-4889-9393-d21e3105fc4b",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1997",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "98383",
+      "deezer": "4268189"
+    }
   }
 }

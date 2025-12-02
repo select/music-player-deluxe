@@ -2,7 +2,7 @@
   "youtubeId": "NOOHZeFLQVE",
   "title": "Naturally Spineless",
   "artist": "Minor Science",
-  "lastFetched": "2025-11-30T21:20:39.163Z",
+  "lastFetched": "2025-12-02T01:08:17.053Z",
   "odesli": {
     "amazonMusic": "B0B23JVN29",
     "amazonStore": "B0B23JVN29",
@@ -32,6 +32,15 @@
   "musicbrainz": {
     "trackMbid": "b0adfc4a-43c7-451f-b8b5-37116af64a07",
     "artistMbid": "5944a380-bfed-4b8b-9d5e-52a6f115032b",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2016-07-29",
+    "externalIdsArtist": {
+      "bandcamp": "https://minorscience.bandcamp.com/",
+      "discogs": "3720639",
+      "spotify": "7xkfvmfvOfMBZmIGKaLtzi",
+      "deezer": "7613128",
+      "rateyourmusic": "minor-science",
+      "soundcloud": "https://soundcloud.com/minor-science"
+    }
   }
 }

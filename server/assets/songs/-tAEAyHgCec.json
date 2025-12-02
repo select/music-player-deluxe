@@ -1,7 +1,7 @@
 {
   "youtubeId": "-tAEAyHgCec",
   "title": "Motörhead \"ACE OF SPADES\" on the 3-String Shovel!",
-  "lastFetched": "2025-11-30T20:23:29.166Z",
+  "lastFetched": "2025-12-02T00:32:35.872Z",
   "ai": {
     "title": "ACE OF SPADES",
     "artist": "Motörhead"
@@ -38,6 +38,31 @@
       "metal",
       "rock",
       "speed metal"
-    ]
+    ],
+    "releasedAt": "1988-12-16",
+    "artistCountry": "GB",
+    "externalIds": {
+      "allmusic": "mn0000501407",
+      "bandcamp": "https://cleopatrarecordsmotrhead.bandcamp.com/",
+      "discogs": "233658",
+      "spotify": "3gw1fogA8YSHWC6JiycMOQ",
+      "lastfm": "Mot%C3%B6rhead",
+      "soundcloud": "motorhead-official",
+      "youtube": "UC29TwdZt2GUC-AqbhFs_uSA"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000501407",
+      "bandcamp": "https://cleopatrarecordsmotrhead.bandcamp.com/",
+      "discogs": "233658",
+      "spotify": "3gw1fogA8YSHWC6JiycMOQ",
+      "deezer": "2996",
+      "lastfm": "Mot%C3%B6rhead",
+      "genius": "Motorhead",
+      "rateyourmusic": "motorhead",
+      "soundcloud": "https://soundcloud.com/motorhead-official",
+      "napster": "motorhead",
+      "wikidata": "Q19697",
+      "youtube": "UC29TwdZt2GUC-AqbhFs_uSA"
+    }
   }
 }

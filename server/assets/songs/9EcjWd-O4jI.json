@@ -2,7 +2,7 @@
   "youtubeId": "9EcjWd-O4jI",
   "title": "Pump Up the Jam",
   "artist": "Technotronic",
-  "lastFetched": "2025-11-30T23:11:41.542Z",
+  "lastFetched": "2025-12-02T00:45:54.093Z",
   "odesli": {
     "amazonMusic": "B003Y2XEBI",
     "amazonStore": "B003Y2XEBI",
@@ -42,6 +42,17 @@
       "eurodance",
       "hip house",
       "new beat"
-    ]
+    ],
+    "releasedAt": "1989-12",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000025899",
+      "discogs": "14457",
+      "spotify": "2Cd98zHVdZeOCisc6Gi2sB",
+      "deezer": "988",
+      "lastfm": "Technotronic",
+      "rateyourmusic": "technotronic",
+      "wikidata": "Q1344793"
+    }
   }
 }

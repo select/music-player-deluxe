@@ -2,7 +2,7 @@
   "youtubeId": "Bwb6io8ZKCA",
   "title": "L'amour c'est pas pour les caniches",
   "artist": "Joakim",
-  "lastFetched": "2025-11-30T22:06:59.152Z",
+  "lastFetched": "2025-12-02T00:49:26.582Z",
   "odesli": {
     "amazonMusic": "B002HMZQKI",
     "amazonStore": "B002HMZQKI",
@@ -36,6 +36,17 @@
   "musicbrainz": {
     "trackMbid": "8159e379-1e5b-49db-a30b-d16243da8397",
     "artistMbid": "6ed9f05b-97f3-437b-ae52-6b6fee5ecc30",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2003",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "bandcamp": "https://joakimbouaziz.bandcamp.com/",
+      "discogs": "5163",
+      "spotify": "5af6HkEomDP7dKLugVmMmk",
+      "deezer": "10231",
+      "rateyourmusic": "joakim",
+      "soundcloud": "https://soundcloud.com/joakimbouaziz",
+      "wikidata": "Q3179527"
+    }
   }
 }

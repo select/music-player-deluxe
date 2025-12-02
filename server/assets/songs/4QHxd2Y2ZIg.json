@@ -2,7 +2,7 @@
   "youtubeId": "4QHxd2Y2ZIg",
   "title": "Mark",
   "artist": "Das Lumpenpack",
-  "lastFetched": "2025-11-23T16:27:47.959Z",
+  "lastFetched": "2025-12-02T00:38:35.071Z",
   "odesli": {
     "amazonMusic": "B09YHYH5L7",
     "amazonStore": "B09YHYH5L7",
@@ -29,7 +29,17 @@
       "rock"
     ],
     "trackMbid": "46db24ca-fc47-4744-b210-9179fa23e9b6",
-    "artistMbid": "52b08164-7002-4eb8-a68f-bd7f42d73346"
+    "artistMbid": "52b08164-7002-4eb8-a68f-bd7f42d73346",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003674163",
+      "discogs": "7271722",
+      "spotify": "1yoERhqOE1iKKzKELHhEWM",
+      "deezer": "7628140",
+      "lastfm": "Das+Lumpenpack",
+      "rateyourmusic": "das-lumpenpack",
+      "wikidata": "Q31836089"
+    }
   },
   "lastfm": {
     "id": "Das+Lumpenpack/_/Mark",

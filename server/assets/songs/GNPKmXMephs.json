@@ -2,7 +2,7 @@
   "youtubeId": "GNPKmXMephs",
   "title": "Sleepwalking",
   "artist": "NINA",
-  "lastFetched": "2025-11-30T19:57:20.789Z",
+  "lastFetched": "2025-12-02T00:57:21.595Z",
   "odesli": {
     "amazonMusic": "B07B7PHCJ6",
     "amazonStore": "B07B7PHCJ6",
@@ -33,6 +33,19 @@
     "artistGenres": [
       "synth-pop",
       "synthwave"
-    ]
+    ],
+    "releasedAt": "2018-03-16",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003647990",
+      "bandcamp": "https://ninasounduk.bandcamp.com/",
+      "discogs": "3140171",
+      "spotify": "5TsEB86lZzK8U5qFlNn9zz",
+      "deezer": "78432352",
+      "genius": "Nina",
+      "soundcloud": "https://soundcloud.com/ninasounduk",
+      "youtube": "UCJ17BYf5b38JQdOVvvbWyuQ",
+      "wikidata": "Q59852503"
+    }
   }
 }

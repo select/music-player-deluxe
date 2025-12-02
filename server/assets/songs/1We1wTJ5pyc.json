@@ -1,0 +1,50 @@
+{
+  "youtubeId": "1We1wTJ5pyc",
+  "title": "Dreams Burn Down",
+  "artist": "Hallatar",
+  "lastFetched": "2025-12-02T00:34:47.245Z",
+  "odesli": {
+    "amazonMusic": "B083QQLV9V",
+    "amazonStore": "B083QQLV9V",
+    "anghami": "66293720",
+    "soundcloud": "hallatar/dreams-burn-down",
+    "tidal": "127872383",
+    "youtube": "1We1wTJ5pyc",
+    "youtubeMusic": "1We1wTJ5pyc"
+  },
+  "lastfm": {
+    "id": "Hallatar/_/Dreams+Burn+Down",
+    "listeners": 15166,
+    "playcount": 91310,
+    "title": "Dreams Burn Down",
+    "artist": "Hallatar",
+    "artistMbid": "7f0d27cb-d636-40c3-a92d-cd44e880658e",
+    "tags": [
+      "doom metal",
+      "death doom metal",
+      "atmospheric doom metal",
+      "finnish"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "90e6b83e-1318-440b-80c0-4c56516078c4",
+    "artistMbid": "7f0d27cb-d636-40c3-a92d-cd44e880658e",
+    "releaseCount": 3,
+    "artistGenres": [
+      "death-doom metal",
+      "doom metal",
+      "metal"
+    ],
+    "releasedAt": "2017-10-20",
+    "artistCountry": "FI",
+    "externalIdsArtist": {
+      "bandcamp": "https://hallatar.bandcamp.com/",
+      "discogs": "6072336",
+      "spotify": "5ztihvnD5Rio6dt2brPQEl",
+      "deezer": "12588578",
+      "lastfm": "Hallatar",
+      "rateyourmusic": "hallatar",
+      "wikidata": "Q36112223"
+    }
+  }
+}

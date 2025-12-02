@@ -2,7 +2,7 @@
   "youtubeId": "O6SeD1xE7NA",
   "title": "Hold You",
   "artist": "Gyptian",
-  "lastFetched": "2025-11-30T23:04:19.411Z",
+  "lastFetched": "2025-12-02T01:09:39.418Z",
   "odesli": {
     "amazonMusic": "B01JH4KNJW",
     "amazonStore": "B01JH4KNJW",
@@ -38,6 +38,16 @@
       "dancehall",
       "reggae",
       "roots reggae"
-    ]
+    ],
+    "releasedAt": "2010-11-01",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000279395",
+      "discogs": "530462",
+      "spotify": "2JX4h8xm0hNxCB0aNBWzyi",
+      "lastfm": "Gyptian",
+      "genius": "Gyptian",
+      "wikidata": "Q1558502"
+    }
   }
 }

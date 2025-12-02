@@ -2,7 +2,7 @@
   "youtubeId": "1reSpJWbuYE",
   "title": "Life Signs",
   "artist": "Water From Your Eyes",
-  "lastFetched": "2025-11-30T21:31:34.249Z",
+  "lastFetched": "2025-12-02T00:35:32.448Z",
   "odesli": {
     "amazonMusic": "B0F8HPW8RN",
     "amazonStore": "B0F8HPW8RN",
@@ -40,6 +40,19 @@
     "releaseCount": 5,
     "artistGenres": [
       "indie pop"
-    ]
+    ],
+    "releasedAt": "2025-06-04",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003692186",
+      "bandcamp": "https://waterfromyoureyes.bandcamp.com/",
+      "discogs": "6261102",
+      "spotify": "6hYlNLoZJg74dVhA8FHIc0",
+      "deezer": "12056120",
+      "lastfm": "Water+From+Your+Eyes",
+      "rateyourmusic": "water-from-your-eyes",
+      "wikidata": "Q116482745",
+      "youtube": "UCn2NYlgvouruR8Jr2Y8675Q"
+    }
   }
 }

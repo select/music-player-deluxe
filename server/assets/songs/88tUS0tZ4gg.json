@@ -2,7 +2,7 @@
   "youtubeId": "88tUS0tZ4gg",
   "title": "EDM Death Machine",
   "artist": "Knife Party",
-  "lastFetched": "2025-11-30T20:08:27.727Z",
+  "lastFetched": "2025-12-02T00:44:18.445Z",
   "odesli": {
     "amazonMusic": "B00CJSIYWW",
     "amazonStore": "B00CJSIYWW",
@@ -51,6 +51,22 @@
       "electro house",
       "electronic",
       "house"
-    ]
+    ],
+    "releasedAt": "2013-05-06",
+    "externalIdsTrack": {
+      "soundcloud": "https://soundcloud.com/knifepartyinc/knife-party-edm-death-machine"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002858632",
+      "discogs": "2291890",
+      "spotify": "2DuJi13MWHjRHrqRUwk8vH",
+      "deezer": "541764",
+      "lastfm": "Knife+Party",
+      "genius": "Knife-party",
+      "rateyourmusic": "knife_party_f1",
+      "soundcloud": "https://soundcloud.com/knifepartyinc",
+      "wikidata": "Q20615",
+      "youtube": "UCV69sHsulbG_5Vu0N-KXwTQ"
+    }
   }
 }

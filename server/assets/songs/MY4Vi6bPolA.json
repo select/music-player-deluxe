@@ -2,7 +2,7 @@
   "youtubeId": "MY4Vi6bPolA",
   "title": "Herbs And Spices",
   "artist": "Flox",
-  "lastFetched": "2025-11-30T23:26:50.316Z",
+  "lastFetched": "2025-12-02T01:06:56.380Z",
   "odesli": {
     "amazonMusic": "B09TX1YRVV",
     "amazonStore": "B09TX1YRVV",
@@ -40,6 +40,15 @@
       "electro",
       "pop",
       "reggae"
-    ]
+    ],
+    "releasedAt": "2022-06-08",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "bandcamp": "https://floxnureggae.bandcamp.com/",
+      "discogs": "763766",
+      "spotify": "2YY8u7yMQyNgJWK4XOpP2x",
+      "deezer": "16178",
+      "soundcloud": "https://soundcloud.com/flox-music"
+    }
   }
 }

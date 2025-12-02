@@ -1,0 +1,50 @@
+{
+  "youtubeId": "QYpoCzkHh0s",
+  "title": "Lost In Space (Theme)",
+  "artist": "Apollo 440",
+  "lastFetched": "2025-12-02T01:13:02.362Z",
+  "odesli": {
+    "amazonMusic": "B001384HIY",
+    "amazonStore": "B001384HIY",
+    "pandora": "TR:53339018",
+    "soundcloud": "apollo-440-official/lost-in-space-theme-1",
+    "spotify": "60Wf8wMmdoZ1GoIpOFYxkN",
+    "tidal": "33997680",
+    "youtube": "QYpoCzkHh0s",
+    "youtubeMusic": "QYpoCzkHh0s"
+  },
+  "lastfm": {
+    "id": "Apollo+440/_/Lost+in+Space+(theme)",
+    "listeners": 45647,
+    "playcount": 133157,
+    "title": "Lost in Space (theme)",
+    "artist": "Apollo 440",
+    "tags": [
+      "big beat",
+      "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4079aa7b-b629-4405-ad51-5d241e041056",
+    "artistMbid": "1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative dance",
+      "big beat",
+      "electronic",
+      "electronica",
+      "house"
+    ],
+    "releasedAt": "2002",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000926914",
+      "discogs": "66579",
+      "spotify": "37f9cjf8Ic4t7vYNRYAzI7",
+      "deezer": "82",
+      "genius": "Apollo-440",
+      "rateyourmusic": "apollo_440",
+      "wikidata": "Q619067"
+    }
+  }
+}

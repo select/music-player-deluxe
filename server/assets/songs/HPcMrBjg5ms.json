@@ -2,7 +2,7 @@
   "youtubeId": "HPcMrBjg5ms",
   "title": "My Love Is",
   "artist": "Little Willie John",
-  "lastFetched": "2025-11-30T22:16:47.365Z",
+  "lastFetched": "2025-12-02T00:58:56.838Z",
   "odesli": {
     "amazonMusic": "B005JLSB3I",
     "amazonStore": "B005JLSB3I",
@@ -41,6 +41,15 @@
     "artistGenres": [
       "r&b",
       "soul"
-    ]
+    ],
+    "releasedAt": "2005-10-10",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000269972",
+      "discogs": "607661",
+      "lastfm": "Little%20Willie%20John",
+      "rateyourmusic": "little_willie_john",
+      "wikidata": "Q1388443"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "FC-TAZrhYFo",
   "title": "Solid Gold",
   "artist": "Turbowolf",
-  "lastFetched": "2025-11-30T20:19:17.356Z",
+  "lastFetched": "2025-12-02T00:55:15.012Z",
   "odesli": {
     "amazonMusic": "B0BQLTTB41",
     "amazonStore": "B0BQLTTB41",
@@ -44,6 +44,13 @@
     "artistGenres": [
       "alternative metal",
       "hard rock"
-    ]
+    ],
+    "releasedAt": "2015-04-06",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "1255554",
+      "deezer": "270047",
+      "wikidata": "Q7854764"
+    }
   }
 }

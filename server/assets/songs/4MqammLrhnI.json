@@ -2,7 +2,7 @@
   "youtubeId": "4MqammLrhnI",
   "title": "Free Soul",
   "artist": "John Klemmer",
-  "lastFetched": "2025-11-30T22:59:41.453Z",
+  "lastFetched": "2025-12-02T00:38:27.743Z",
   "lastfm": {
     "id": "John+Klemmer/_/Free+Soul",
     "listeners": 7012,
@@ -25,6 +25,16 @@
       "jazz fusion",
       "post-bop",
       "smooth jazz"
-    ]
+    ],
+    "releasedAt": "1997",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000192260",
+      "discogs": "50123",
+      "spotify": "6HkwRgGXuqTufwpEh2dwGK",
+      "deezer": "110654",
+      "rateyourmusic": "john_klemmer",
+      "wikidata": "Q1700723"
+    }
   }
 }

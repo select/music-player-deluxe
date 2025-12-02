@@ -1,7 +1,7 @@
 {
   "youtubeId": "K_DOnKJ232M",
   "title": "R.L. Burnside: See My Jumper Hanging On the Line (1978)",
-  "lastFetched": "2025-11-30T19:21:54.020Z",
+  "lastFetched": "2025-12-02T01:03:33.176Z",
   "ai": {
     "title": "See My Jumper Hanging On the Line",
     "artist": "R.L. Burnside"
@@ -32,6 +32,16 @@
       "delta blues",
       "electric blues",
       "hill country blues"
-    ]
+    ],
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000389213",
+      "bandcamp": "https://rlburnside.bandcamp.com/",
+      "discogs": "262901",
+      "spotify": "2drMeidRg4jc07neGOL0Ip",
+      "deezer": "6292",
+      "rateyourmusic": "r_l__burnside",
+      "wikidata": "Q2123902"
+    }
   }
 }

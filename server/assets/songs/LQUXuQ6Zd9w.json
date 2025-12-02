@@ -2,7 +2,7 @@
   "youtubeId": "LQUXuQ6Zd9w",
   "title": "War Pigs",
   "artist": "Black Sabbath",
-  "lastFetched": "2025-11-30T20:00:51.099Z",
+  "lastFetched": "2025-12-02T01:05:01.590Z",
   "odesli": {
     "amazonMusic": "B07VVGN7TW",
     "amazonStore": "B07VVGN7TW",
@@ -43,6 +43,21 @@
       "metal",
       "rock",
       "traditional doom metal"
-    ]
+    ],
+    "releasedAt": "2021-06-11",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000771438",
+      "discogs": "1938664",
+      "spotify": "5M52tdBnJaKSvOpJGz8mfZ",
+      "deezer": "647",
+      "lastfm": "Black+Sabbath",
+      "genius": "Black-sabbath",
+      "rateyourmusic": "black-sabbath",
+      "soundcloud": "https://soundcloud.com/blacksabbath",
+      "napster": "Black-Sabbath",
+      "wikidata": "Q47670",
+      "youtube": "UCrx-X329UKv0Y06VhfpFVvw"
+    }
   }
 }

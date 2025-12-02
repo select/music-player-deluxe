@@ -4,7 +4,7 @@
   "album": "Blue Reminder",
   "duration": 249,
   "youtubeId": "AlIJ9gxMC2g",
-  "lastFetched": "2025-11-23T16:30:53.635Z",
+  "lastFetched": "2025-12-02T00:47:51.236Z",
   "odesli": {
     "amazonMusic": "B0F446GQBV",
     "amazonStore": "B0F446GQBV",
@@ -27,7 +27,20 @@
       "singer-songwriter"
     ],
     "trackMbid": "5290dab3-93ff-467a-83c5-74c52d359dd8",
-    "artistMbid": "a92d48e1-40a9-457d-971c-ddb748d78759"
+    "artistMbid": "a92d48e1-40a9-457d-971c-ddb748d78759",
+    "releasedAt": "2025-08-22",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003562441",
+      "bandcamp": "https://handhabits.bandcamp.com/",
+      "discogs": "3739617",
+      "spotify": "5poU7FPEYoBlwjzOEWMbX5",
+      "lastfm": "Hand+Habits",
+      "genius": "Hand-habits",
+      "rateyourmusic": "hand-habits",
+      "soundcloud": "https://soundcloud.com/handhabits",
+      "wikidata": "Q99670407"
+    }
   },
   "lastfm": {
     "id": "Hand+Habits/_/Nubble",

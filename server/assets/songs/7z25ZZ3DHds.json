@@ -2,7 +2,7 @@
   "youtubeId": "7z25ZZ3DHds",
   "title": "Rumble",
   "artist": "Skrillex",
-  "lastFetched": "2025-11-23T16:29:47.308Z",
+  "lastFetched": "2025-12-02T00:44:06.260Z",
   "odesli": {
     "amazonMusic": "B0FHQKM6R3",
     "amazonStore": "B0FHQKM6R3",
@@ -42,7 +42,21 @@
       "edm"
     ],
     "trackMbid": "bffbd139-34bb-42dc-a646-e36300cb091b",
-    "artistMbid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b"
+    "artistMbid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b",
+    "releasedAt": "2023-01-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002365087",
+      "discogs": "479897",
+      "spotify": "5he5w2lnU9x7JFhnwcekXX",
+      "deezer": "525643",
+      "lastfm": "Skrillex",
+      "genius": "Sonny-moore",
+      "rateyourmusic": "sonny-moore",
+      "soundcloud": "https://soundcloud.com/skrillex",
+      "wikidata": "Q19004",
+      "youtube": "UCibXKvuw5PoJVmyZJ4qhDIw"
+    }
   },
   "lastfm": {
     "id": "Skrillex/_/Rumble",

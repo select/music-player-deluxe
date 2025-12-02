@@ -2,7 +2,7 @@
   "youtubeId": "GfccuJ_ZMTY",
   "title": "Valley of the Shadows",
   "artist": "Siva Six",
-  "lastFetched": "2025-11-30T20:21:53.112Z",
+  "lastFetched": "2025-12-02T00:58:00.511Z",
   "odesli": {
     "amazonMusic": "B097S1JPMX",
     "amazonStore": "B097S1JPMX",
@@ -40,6 +40,16 @@
       "dark electro",
       "electro-industrial",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2011-06-17",
+    "artistCountry": "GR",
+    "externalIdsArtist": {
+      "bandcamp": "https://sivasix.bandcamp.com/",
+      "discogs": "375188",
+      "spotify": "2IKSRBzhoUsxU6vjB23Nhk",
+      "deezer": "1245395",
+      "lastfm": "Siva+Six",
+      "rateyourmusic": "siva_six"
+    }
   }
 }

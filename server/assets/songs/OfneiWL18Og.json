@@ -2,7 +2,7 @@
   "youtubeId": "OfneiWL18Og",
   "title": "Dishes & Wishes",
   "artist": "Roman Flügel",
-  "lastFetched": "2025-11-23T16:37:18.905Z",
+  "lastFetched": "2025-12-02T01:10:23.305Z",
   "odesli": {
     "amazonMusic": "B09SM34XMT",
     "amazonStore": "B09SM34XMT",
@@ -25,7 +25,16 @@
       "electronic"
     ],
     "trackMbid": "09065870-e096-3114-950c-ca09fee1e3b1",
-    "artistMbid": "5286b91c-5d42-4cab-933a-77e30eb74ddc"
+    "artistMbid": "5286b91c-5d42-4cab-933a-77e30eb74ddc",
+    "externalIdsArtist": {
+      "allmusic": "mn0000285072",
+      "discogs": "13111",
+      "spotify": "2GvwZbDjH1DbQpodGKENDw",
+      "rateyourmusic": "roman_flugel",
+      "soundcloud": "https://soundcloud.com/roman-fluegel",
+      "wikidata": "Q2164562",
+      "youtube": "UC2ujHf8A3M3YMdClInL_KdA"
+    }
   },
   "lastfm": {
     "id": "Roman+Fl%C3%BCgel/_/Dishes+&+Wishes",

@@ -2,7 +2,7 @@
   "youtubeId": "EDnIEWyVIlE",
   "title": "RATATATA",
   "artist": "BABYMETAL",
-  "lastFetched": "2025-11-30T22:33:35.437Z",
+  "lastFetched": "2025-12-02T00:53:25.586Z",
   "odesli": {
     "amazonMusic": "B0D429YRYZ",
     "amazonStore": "B0D429YRYZ",
@@ -38,7 +38,25 @@
       "kawaii metal",
       "metal",
       "pop metal"
-    ]
+    ],
+    "releasedAt": "2024-05-23",
+    "artistCountry": "JP",
+    "externalIdsTrack": {
+      "spotify": "2S3u18aJF8eExll5dYwSJb"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003176966",
+      "discogs": "3393348",
+      "spotify": "630wzNP2OL7fl4Xl0GnMWq",
+      "deezer": "7805012",
+      "lastfm": "BABYMETAL",
+      "genius": "Babymetal",
+      "rateyourmusic": "babymetal",
+      "soundcloud": "https://soundcloud.com/babymetalofficial",
+      "napster": "babymetal",
+      "wikidata": "Q11190781",
+      "youtube": "UCCbekeZYV4LhXTxJYrHf9lg"
+    }
   },
   "lastfm": {
     "id": "BABYMETAL/_/RATATATA",

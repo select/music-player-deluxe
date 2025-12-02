@@ -2,7 +2,7 @@
   "youtubeId": "LZ5fIKmn1ok",
   "title": "Killed by Death",
   "artist": "Motörhead",
-  "lastFetched": "2025-11-23T16:36:04.451Z",
+  "lastFetched": "2025-12-02T01:05:13.003Z",
   "odesli": {
     "amazonMusic": "B0DZVHQJD9",
     "amazonStore": "B0DZVHQJD9",
@@ -35,7 +35,22 @@
       "speed metal"
     ],
     "trackMbid": "6163e20c-9bfe-4bef-9c46-eb3a2b122097",
-    "artistMbid": "57961a97-3796-4bf7-9f02-a985a8979ae9"
+    "artistMbid": "57961a97-3796-4bf7-9f02-a985a8979ae9",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000501407",
+      "bandcamp": "https://cleopatrarecordsmotrhead.bandcamp.com/",
+      "discogs": "233658",
+      "spotify": "3gw1fogA8YSHWC6JiycMOQ",
+      "deezer": "2996",
+      "lastfm": "Mot%C3%B6rhead",
+      "genius": "Motorhead",
+      "rateyourmusic": "motorhead",
+      "soundcloud": "https://soundcloud.com/motorhead-official",
+      "napster": "motorhead",
+      "wikidata": "Q19697",
+      "youtube": "UC29TwdZt2GUC-AqbhFs_uSA"
+    }
   },
   "lastfm": {
     "id": "Mot%C3%B6rhead/_/Killed+by+Death",

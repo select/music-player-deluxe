@@ -2,7 +2,7 @@
   "youtubeId": "-tuhwZH9Owk",
   "title": "Belziger Faceplant",
   "artist": "Stephen Malkmus",
-  "lastFetched": "2025-11-23T16:25:52.771Z",
+  "lastFetched": "2025-12-02T00:32:42.220Z",
   "odesli": {
     "amazonMusic": "B07MG33MPG",
     "amazonStore": "B07MG33MPG",
@@ -38,7 +38,22 @@
       "rock"
     ],
     "trackMbid": "3457c963-7a88-40c0-b358-444da6e3b8e2",
-    "artistMbid": "eaefd603-84c1-4db4-a72b-0cb718a0cc07"
+    "artistMbid": "eaefd603-84c1-4db4-a72b-0cb718a0cc07",
+    "artistCountry": "US",
+    "externalIds": {
+      "allmusic": "mn0000021492",
+      "discogs": "81763",
+      "spotify": "0WISkx0PwT6lYWdPqKUJY8",
+      "lastfm": "Stephen+Malkmus"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000021492",
+      "discogs": "81763",
+      "spotify": "0WISkx0PwT6lYWdPqKUJY8",
+      "lastfm": "Stephen+Malkmus",
+      "rateyourmusic": "stephen_malkmus",
+      "wikidata": "Q282877"
+    }
   },
   "lastfm": {
     "id": "Stephen+Malkmus/_/Belziger+Faceplant",

@@ -2,7 +2,7 @@
   "youtubeId": "BgSKP3tmezo",
   "title": "Ganz Wien",
   "artist": "Falco",
-  "lastFetched": "2025-11-23T16:31:18.397Z",
+  "lastFetched": "2025-12-02T00:49:11.476Z",
   "odesli": {
     "amazonMusic": "B073SZX2XX",
     "amazonStore": "B073SZX2XX",
@@ -33,7 +33,16 @@
       "pop rap"
     ],
     "trackMbid": "00c99400-febc-40a9-b0f4-ce3ca7e4a5ce",
-    "artistMbid": "dcd95aa4-f3ff-492d-a621-8518ada0f58b"
+    "artistMbid": "dcd95aa4-f3ff-492d-a621-8518ada0f58b",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000793845",
+      "discogs": "701293",
+      "spotify": "0hLd40hVpRDGENe4KGZLnW",
+      "deezer": "8803",
+      "rateyourmusic": "falco",
+      "wikidata": "Q44398"
+    }
   },
   "lastfm": {
     "id": "Falco/_/Ganz+Wien",

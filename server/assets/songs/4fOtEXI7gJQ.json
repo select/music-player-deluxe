@@ -3,7 +3,7 @@
   "artist": "HO99O9",
   "duration": 219,
   "youtubeId": "4fOtEXI7gJQ",
-  "lastFetched": "2025-11-23T16:27:59.205Z",
+  "lastFetched": "2025-12-02T00:38:59.460Z",
   "odesli": {
     "amazonMusic": "B0FJMTCPKP",
     "amazonStore": "B0FJMTCPKP",
@@ -23,7 +23,21 @@
     ],
     "trackMbid": "c4d13bf0-caf1-4751-ab53-da1988381fc3",
     "artistMbid": "e0458faa-82b2-4011-b851-6a0ed1f5a0e6",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2025-09-09",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://ho99o9.bandcamp.com/",
+      "discogs": "4380422",
+      "spotify": "5KuuNGYTUTokLerXMNYCGL",
+      "deezer": "6541581",
+      "rateyourmusic": "ho99o9",
+      "soundcloud": "https://soundcloud.com/ho99o9",
+      "wikidata": "Q20684179"
+    },
+    "externalIdsTrack": {
+      "deezer": "3495491901"
+    }
   },
   "lastfm": {
     "id": "HO99O9/_/Incline+(feat.+Nova+Twins,+Pink+Siifu+&+Yung+Skrrt)",

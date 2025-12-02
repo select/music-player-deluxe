@@ -2,7 +2,7 @@
   "youtubeId": "CFlhlZbeKgE",
   "title": "Tekkno Train",
   "artist": "Electric Callboy",
-  "lastFetched": "2025-11-23T16:31:29.590Z",
+  "lastFetched": "2025-12-02T00:50:03.277Z",
   "odesli": {
     "amazonMusic": "B09XJG58MX",
     "amazonStore": "B09XJG58MX",
@@ -37,7 +37,22 @@
       "post-hardcore"
     ],
     "trackMbid": "a769dbd6-dbb8-4eee-a051-2279a84003a2",
-    "artistMbid": "cf075492-d880-4afc-b87b-d6b03e33dacc"
+    "artistMbid": "cf075492-d880-4afc-b87b-d6b03e33dacc",
+    "releasedAt": "2022-09-09",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002663488",
+      "bandcamp": "https://eskimocallboy.bandcamp.com/",
+      "discogs": "2541259",
+      "youtube": "UCAR30oDTNbJE-Zd2NDg1mTQ",
+      "spotify": "1WNoKxsp715jez1Td4vthc",
+      "deezer": "163128877",
+      "lastfm": "Eskimo+Callboy",
+      "genius": "Electric-callboy",
+      "napster": "eskimo-callboy",
+      "wikidata": "Q940430",
+      "wikipedia": "Electric_Callboy"
+    }
   },
   "lastfm": {
     "id": "Electric+Callboy/_/Tekkno+Train",

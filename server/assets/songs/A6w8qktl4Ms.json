@@ -2,7 +2,7 @@
   "youtubeId": "A6w8qktl4Ms",
   "title": "Black Mountain (Beautiful Love)",
   "artist": "Arsenal",
-  "lastFetched": "2025-11-30T19:54:20.976Z",
+  "lastFetched": "2025-12-02T00:47:00.070Z",
   "odesli": {
     "amazonMusic": "B073Q8RKJQ",
     "amazonStore": "B073Q8RKJQ",
@@ -37,6 +37,19 @@
     ],
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "releasedAt": "2014-04-03",
+    "artistCountry": "BE",
+    "externalIdsTrack": {
+      "spotify": "79FZNp6LjJdORxVCohK5Kw",
+      "deezer": "76003425"
+    },
+    "externalIdsArtist": {
+      "discogs": "3360",
+      "spotify": "6dZdcowBonykRqLdlfb7qR",
+      "deezer": "17035",
+      "soundcloud": "https://soundcloud.com/arsenalmusic",
+      "wikidata": "Q2864377"
+    }
   }
 }

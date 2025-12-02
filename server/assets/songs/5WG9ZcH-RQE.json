@@ -1,7 +1,7 @@
 {
   "youtubeId": "5WG9ZcH-RQE",
   "title": "Balthazar - Wait Any Longer",
-  "lastFetched": "2025-11-30T20:34:33.907Z",
+  "lastFetched": "2025-12-02T00:40:02.532Z",
   "ai": {
     "title": "Wait Any Longer",
     "artist": "Balthazar"
@@ -29,6 +29,20 @@
     "artistGenres": [
       "indie pop",
       "pop rock"
-    ]
+    ],
+    "releasedAt": "2015-03-27",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002443028",
+      "bandcamp": "https://balthazarofficial.bandcamp.com/",
+      "discogs": "1264028",
+      "spotify": "4oMBP1OWXtmxyDhAj2aRyQ",
+      "deezer": "384181",
+      "lastfm": "Balthazar",
+      "genius": "Balthazar",
+      "rateyourmusic": "balthazar_f1",
+      "soundcloud": "https://soundcloud.com/balthazarband",
+      "wikidata": "Q662107"
+    }
   }
 }

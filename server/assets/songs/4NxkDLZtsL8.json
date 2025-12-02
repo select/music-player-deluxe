@@ -1,7 +1,7 @@
 {
   "youtubeId": "4NxkDLZtsL8",
   "title": "Wouldn,t It Be Nice  Acappella   Stack- o- Vocals   The Beach Boys",
-  "lastFetched": "2025-11-30T20:39:42.695Z",
+  "lastFetched": "2025-12-02T00:38:30.568Z",
   "ai": {
     "title": "Wouldn't It Be Nice",
     "artist": "The Beach Boys"
@@ -37,6 +37,20 @@
       "sunshine pop",
       "surf rock",
       "vocal surf"
-    ]
+    ],
+    "releasedAt": "1975",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000041874",
+      "discogs": "70829",
+      "spotify": "3oDbviiivRWhXwIE8hxkVV",
+      "deezer": "2179",
+      "lastfm": "The+Beach+Boys",
+      "genius": "The-beach-boys",
+      "rateyourmusic": "the_beach_boys",
+      "napster": "the-beach-boys",
+      "wikidata": "Q183048",
+      "youtube": "UCrnD8aXhy4oQMS0ITw471tA"
+    }
   }
 }

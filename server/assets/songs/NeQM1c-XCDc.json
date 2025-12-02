@@ -1,0 +1,70 @@
+{
+  "youtubeId": "NeQM1c-XCDc",
+  "title": "Deutschland",
+  "artist": "Rammstein",
+  "lastFetched": "2025-12-02T01:08:38.639Z",
+  "odesli": {
+    "amazonMusic": "B07PXL77N4",
+    "amazonStore": "B07PXL77N4",
+    "audiomack": "7342152",
+    "audius": "KdjOo",
+    "anghami": "1050302707",
+    "boomplay": "5526737",
+    "pandora": "TR:18449380",
+    "soundcloud": "efrenjuva/rammstein-deutschland",
+    "spotify": "2bPGTMB5sFfFYQ2YvSmup0",
+    "tidal": "109100969",
+    "yandex": "51422266",
+    "youtube": "NeQM1c-XCDc",
+    "youtubeMusic": "NeQM1c-XCDc"
+  },
+  "lastfm": {
+    "summary": "The first single off Rammstein's seventh album is a reflection on Germany's history of conflict. The song finds Till Lindemann speaking of his love/hate relationship with Germany as he considers his country's divisive history.\n\nThe Specter Berlin-directed video, which is nearly 10-minutes long, shows various scenes of violence across its history, from Germanic tribes to the Nazism era and modern day rioting. German actress Ruby Commey (credited as Germania) appears throughout the clip. <a href=\"http://www.last.fm/music/Rammstein/_/DEUTSCHLAND\">Read more on Last.fm</a>.",
+    "id": "Rammstein/_/DEUTSCHLAND",
+    "listeners": 506100,
+    "playcount": 7384670,
+    "tags": [
+      "industrial metal",
+      "german",
+      "Neue Deutsche Harte",
+      "Rammstein",
+      "rock"
+    ],
+    "title": "DEUTSCHLAND",
+    "artist": "Rammstein",
+    "mbid": "06945e80-25ad-4aa8-b9da-8d9adb7b42be",
+    "artistMbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66"
+  },
+  "musicbrainz": {
+    "trackMbid": "57fb9bee-1351-4830-97be-bafbef057924",
+    "artistMbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+    "releaseCount": 16,
+    "genres": [
+      "electro-industrial",
+      "industrial",
+      "industrial metal",
+      "neue deutsche härte"
+    ],
+    "artistGenres": [
+      "industrial",
+      "industrial metal",
+      "metal",
+      "neue deutsche härte",
+      "rock"
+    ],
+    "releasedAt": "2019-03-28",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000333648",
+      "discogs": "11771",
+      "spotify": "6wWVKhxIU2cEi0K81v7HvP",
+      "deezer": "464",
+      "lastfm": "Rammstein",
+      "genius": "Rammstein",
+      "rateyourmusic": "rammstein",
+      "soundcloud": "https://soundcloud.com/rammstein-official",
+      "wikidata": "Q25177",
+      "youtube": "UCs6GGpd9zvsYghuYe0VDFUQ"
+    }
+  }
+}

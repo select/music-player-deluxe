@@ -2,7 +2,7 @@
   "youtubeId": "MTqlaX4qfVI",
   "title": "Balek",
   "artist": "Marc Moulin",
-  "lastFetched": "2025-11-23T16:36:28.388Z",
+  "lastFetched": "2025-12-02T01:06:44.243Z",
   "odesli": {
     "amazonMusic": "B00WK87K44",
     "amazonStore": "B00WK87K44",
@@ -27,7 +27,15 @@
       "jazz"
     ],
     "trackMbid": "18cd7e15-5bfe-4fc1-844b-717df32d5148",
-    "artistMbid": "441111d5-fa9f-4f08-bb03-60a081394487"
+    "artistMbid": "441111d5-fa9f-4f08-bb03-60a081394487",
+    "releasedAt": "2009",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "discogs": "14166",
+      "spotify": "6n6ot5JVa8YO9z82eNbvd8",
+      "deezer": "6047",
+      "wikidata": "Q1274954"
+    }
   },
   "lastfm": {
     "id": "Marc+Moulin/_/Balek",

@@ -2,7 +2,7 @@
   "youtubeId": "2gJ6dpB1Jdo",
   "title": "Jungle Juke",
   "artist": "Tha Pope",
-  "lastFetched": "2025-11-30T21:42:19.207Z",
+  "lastFetched": "2025-12-02T00:36:38.432Z",
   "odesli": {
     "pandora": "TR:1669976",
     "spotify": "0Ac3zF1jg2wTJOYlCZVEvz",
@@ -26,6 +26,12 @@
   "musicbrainz": {
     "trackMbid": "5afd6c01-ba27-46a2-a71a-ee4a23ba345c",
     "artistMbid": "f6c6fe6e-b4f0-4193-aa67-05f9aee0a40b",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2010-12-06",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "1964598",
+      "spotify": "5AXsbGVbdQSQIadVkPyatG"
+    }
   }
 }

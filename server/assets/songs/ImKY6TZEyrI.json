@@ -2,7 +2,7 @@
   "youtubeId": "ImKY6TZEyrI",
   "title": "Fade Into You",
   "artist": "Mazzy Star",
-  "lastFetched": "2025-11-30T21:49:48.565Z",
+  "lastFetched": "2025-12-02T01:00:51.845Z",
   "odesli": {
     "amazonMusic": "B000TEB3VC",
     "amazonStore": "B000TEB3VC",
@@ -46,6 +46,20 @@
       "rock",
       "shoegaze",
       "slowcore"
-    ]
+    ],
+    "releasedAt": "2000-10-16",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000401287",
+      "discogs": "15262",
+      "spotify": "37w38cCSGgKLdayTRjna4W",
+      "deezer": "1306",
+      "lastfm": "Mazzy+Star",
+      "genius": "Mazzy-star",
+      "rateyourmusic": "mazzy_star",
+      "soundcloud": "https://soundcloud.com/mazzystarofficial",
+      "wikidata": "Q1132765",
+      "youtube": "UCwLvhxojhPFQXoHACA4WWsA"
+    }
   }
 }

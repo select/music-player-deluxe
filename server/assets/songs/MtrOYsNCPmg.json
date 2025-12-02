@@ -2,7 +2,7 @@
   "youtubeId": "MtrOYsNCPmg",
   "title": "Radio Nowhere",
   "artist": "Bruce Springsteen",
-  "lastFetched": "2025-11-30T20:05:03.073Z",
+  "lastFetched": "2025-12-02T01:07:18.498Z",
   "odesli": {
     "amazonMusic": "B0788BBF4D",
     "amazonStore": "B0788BBF4D",
@@ -47,6 +47,24 @@
       "rock",
       "rock and roll",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2007-08-28",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "7zrHnJ87htwgS20PzFmgTr"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000530745",
+      "discogs": "219986",
+      "spotify": "3eqjTLE0HfPfh78zjh6TqT",
+      "deezer": "4762",
+      "lastfm": "Bruce+Springsteen",
+      "genius": "Bruce-springsteen",
+      "rateyourmusic": "bruce-springsteen",
+      "soundcloud": "https://soundcloud.com/brucespringsteen",
+      "napster": "bruce-springsteen",
+      "wikidata": "Q1225",
+      "youtube": "UCyFqJ_5TyAeTD7rHpLikbKQ"
+    }
   }
 }

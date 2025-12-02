@@ -2,7 +2,7 @@
   "youtubeId": "SMW2yX9OtWY",
   "title": "Ya Mayela Al-Ghusoon",
   "artist": "Lena Chamamyan",
-  "lastFetched": "2025-11-23T16:39:22.518Z",
+  "lastFetched": "2025-12-02T01:16:20.352Z",
   "odesli": {
     "amazonMusic": "B015KAZG0S",
     "amazonStore": "B015KAZG0S",
@@ -31,7 +31,12 @@
       "singer-songwriter"
     ],
     "trackMbid": "9ae57124-a24c-4a34-8f58-ed48be5c6059",
-    "artistMbid": "6bba0cc9-74c4-4a83-8171-a225726e9644"
+    "artistMbid": "6bba0cc9-74c4-4a83-8171-a225726e9644",
+    "artistCountry": "SY",
+    "externalIdsArtist": {
+      "spotify": "0LH01nWLQote2HIUL87BLc",
+      "wikidata": "Q2583955"
+    }
   },
   "lastfm": {
     "id": "Lena+Chamamyan/_/Ya+Mayela+Al-Ghusoon",

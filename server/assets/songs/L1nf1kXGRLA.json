@@ -2,7 +2,7 @@
   "youtubeId": "L1nf1kXGRLA",
   "title": "Nobody",
   "artist": "Wonder Girls",
-  "lastFetched": "2025-11-30T23:09:04.560Z",
+  "lastFetched": "2025-12-02T01:04:20.423Z",
   "odesli": {
     "amazonMusic": "B0CCS12HKH",
     "amazonStore": "B0CCS12HKH",
@@ -42,6 +42,18 @@
     ],
     "artistGenres": [
       "k-pop"
-    ]
+    ],
+    "releasedAt": "2008-09-22",
+    "artistCountry": "KR",
+    "externalIdsArtist": {
+      "allmusic": "mn0002110284",
+      "discogs": "1882257",
+      "spotify": "3Cv2vi3WTl8VZOTdrBkKdM",
+      "deezer": "410599",
+      "lastfm": "Wonder+Girls",
+      "rateyourmusic": "wonder_girls",
+      "wikidata": "Q476119",
+      "youtube": "UCTE8ueKNA54RcO6MgXif2Tg"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "0N2UOxkcs8w",
   "title": "\"Intro\" - Double Bass Looping - Adam Ben Ezra",
-  "lastFetched": "2025-11-30T20:00:55.525Z",
+  "lastFetched": "2025-12-02T00:33:25.374Z",
   "ai": {
     "title": "Intro",
     "artist": "Adam Ben Ezra"
@@ -28,6 +28,20 @@
     "artistGenres": [
       "instrumental",
       "jazz"
-    ]
+    ],
+    "releasedAt": "2013-04-08",
+    "externalIds": {
+      "bandcamp": "https://adambenezra.bandcamp.com/",
+      "discogs": "2378989",
+      "lastfm": "Adam+Ben+Ezra",
+      "youtube": "UCM4rKhv1DqfNRZyWoLAAtIA"
+    },
+    "externalIdsArtist": {
+      "bandcamp": "https://adambenezra.bandcamp.com/",
+      "discogs": "2378989",
+      "lastfm": "Adam+Ben+Ezra",
+      "wikidata": "Q20738970",
+      "youtube": "UCM4rKhv1DqfNRZyWoLAAtIA"
+    }
   }
 }

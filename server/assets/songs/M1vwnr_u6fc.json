@@ -2,7 +2,7 @@
   "youtubeId": "M1vwnr_u6fc",
   "title": "Sterile Nails and Thunderbowels",
   "artist": "Silencer",
-  "lastFetched": "2025-11-19T17:24:39.955Z",
+  "lastFetched": "2025-12-02T01:05:55.055Z",
   "odesli": {
     "amazonMusic": "B0D3X3KT1W",
     "amazonStore": "B0D3X3KT1W",
@@ -30,6 +30,13 @@
   },
   "musicbrainz": {
     "trackMbid": "952861a7-0178-4b2e-9d49-6c200decfbf3",
-    "artistMbid": "7c8609fa-800b-4d68-9ce6-428f1881634c"
+    "artistMbid": "7c8609fa-800b-4d68-9ce6-428f1881634c",
+    "releasedAt": "2021-09",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001748599",
+      "discogs": "3202796",
+      "rateyourmusic": "silencer_f1"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "6hGfoRtAm04",
   "title": "Doo Wop",
   "artist": "Anna Butterss",
-  "lastFetched": "2025-11-30T22:57:22.532Z",
+  "lastFetched": "2025-12-02T00:41:39.174Z",
   "lastfm": {
     "id": "Anna+Butterss/_/Doo+Wop",
     "listeners": 7318,
@@ -14,6 +14,13 @@
   "musicbrainz": {
     "artistMbid": "022b8522-a7cc-4755-a99f-225107415a45",
     "trackMbid": "820a2c46-16a8-4c1b-9369-c84309ade123",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-07-08",
+    "externalIdsArtist": {
+      "allmusic": "mn0003288242",
+      "discogs": "6778705",
+      "spotify": "2AN7XYCHxVLSqJ5RPjI4DA",
+      "soundcloud": "https://soundcloud.com/anna-butterss"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "S2TaAcwC_zI",
   "title": "Strangers",
   "artist": "Kenya Grace",
-  "lastFetched": "2025-11-19T16:14:36.654Z",
+  "lastFetched": "2025-12-02T01:15:53.707Z",
   "odesli": {
     "amazonMusic": "B0CGMMDYF5",
     "amazonStore": "B0CGMMDYF5",
@@ -30,7 +30,19 @@
       "vocal"
     ],
     "trackMbid": "d41e7f0b-ab24-4212-9b81-02f6e876d6d2",
-    "artistMbid": "94c4459d-4c35-4bc6-8bca-c75107515c1c"
+    "artistMbid": "94c4459d-4c35-4bc6-8bca-c75107515c1c",
+    "releasedAt": "2023-09-01",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "24S6RbvnRj6NyAWPbyRxdX"
+    },
+    "externalIdsArtist": {
+      "discogs": "11036828",
+      "spotify": "7uMDnSZyUYNBPLhPMNuaM2",
+      "deezer": "71805132",
+      "soundcloud": "https://soundcloud.com/kenyajohnsonsound",
+      "wikidata": "Q122729278"
+    }
   },
   "lastfm": {
     "id": "Kenya+Grace/_/Strangers",

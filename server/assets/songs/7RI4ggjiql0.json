@@ -1,7 +1,7 @@
 {
   "youtubeId": "7RI4ggjiql0",
   "title": "Voyager - Time Travel",
-  "lastFetched": "2025-11-30T20:30:41.296Z",
+  "lastFetched": "2025-12-02T00:43:19.714Z",
   "ai": {
     "title": "Time Travel",
     "artist": "Voyager"
@@ -32,6 +32,11 @@
       "progressive house",
       "progressive trance",
       "trance"
-    ]
+    ],
+    "releasedAt": "1999-10-04",
+    "externalIdsArtist": {
+      "discogs": "6168",
+      "soundcloud": "https://soundcloud.com/jsdvoyager"
+    }
   }
 }

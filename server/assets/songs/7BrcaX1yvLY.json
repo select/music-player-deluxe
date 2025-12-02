@@ -2,7 +2,7 @@
   "youtubeId": "7BrcaX1yvLY",
   "title": "Die Känguruh Theorie",
   "artist": "Knarf Rellöm Arkestra",
-  "lastFetched": "2025-11-23T15:39:35.859Z",
+  "lastFetched": "2025-12-02T00:42:38.020Z",
   "odesli": {
     "amazonMusic": "B09RTS3SJS",
     "amazonStore": "B09RTS3SJS",
@@ -25,6 +25,12 @@
   },
   "musicbrainz": {
     "trackMbid": "867e2f64-d6a3-4771-b774-afc03dec39e9",
-    "artistMbid": "f843b3ed-e342-4a4b-a935-eb3cbc9c7307"
+    "artistMbid": "f843b3ed-e342-4a4b-a935-eb3cbc9c7307",
+    "releasedAt": "2022-02-25",
+    "externalIdsArtist": {
+      "allmusic": "mn0002332323",
+      "discogs": "648735",
+      "lastfm": "Knarf+Rell%C3%B6m+Trinity"
+    }
   }
 }

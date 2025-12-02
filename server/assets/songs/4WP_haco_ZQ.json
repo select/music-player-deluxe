@@ -2,7 +2,7 @@
   "youtubeId": "4WP_haco_ZQ",
   "title": "Fly Like An Eagle (From 'Minions: The Rise of Gru' Soundtrack)",
   "artist": "Thundercat",
-  "lastFetched": "2025-11-23T16:27:56.939Z",
+  "lastFetched": "2025-12-02T00:38:50.247Z",
   "odesli": {
     "amazonMusic": "B09ZLWKFKB",
     "amazonStore": "B09ZLWKFKB",
@@ -42,7 +42,23 @@
       "dance"
     ],
     "trackMbid": "6292bf4d-5e42-440b-9486-c5ae98108a9e",
-    "artistMbid": "044fd265-79dd-43eb-afc4-8b20becf7e17"
+    "artistMbid": "044fd265-79dd-43eb-afc4-8b20becf7e17",
+    "releasedAt": "2022-07-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002424073",
+      "bandcamp": "https://thundercat.bandcamp.com/",
+      "discogs": "801230",
+      "spotify": "4XsGoYZSMIAyQUXOtLX4QX",
+      "deezer": "546520",
+      "lastfm": "Thundercat",
+      "genius": "Thundercat",
+      "rateyourmusic": "thundercat",
+      "soundcloud": "https://soundcloud.com/thundercat-official",
+      "napster": "thundercat",
+      "wikidata": "Q15285290",
+      "youtube": "UCUl7CLMqbyYVb62zJ7nbLfA"
+    }
   },
   "lastfm": {
     "id": "Thundercat/_/Fly+Like+An+Eagle+(From+%27Minions:+The+Rise+of+Gru%27+Soundtrack)",

@@ -2,7 +2,7 @@
   "youtubeId": "3FuEFH7_t00",
   "title": "Dublisious",
   "artist": "Grouch in Dub",
-  "lastFetched": "2025-11-30T23:03:45.235Z",
+  "lastFetched": "2025-12-02T00:37:09.891Z",
   "odesli": {
     "amazonMusic": "B07H15FKF3",
     "amazonStore": "B07H15FKF3",
@@ -38,6 +38,16 @@
       "psychedelic",
       "psytrance",
       "trance"
-    ]
+    ],
+    "releasedAt": "2018-03-03",
+    "artistCountry": "NZ",
+    "externalIdsArtist": {
+      "bandcamp": "https://grouchnz.bandcamp.com/",
+      "discogs": "607844",
+      "spotify": "5OSiAhozbPQrCsZHZmT3YF",
+      "deezer": "310197",
+      "soundcloud": "https://soundcloud.com/grouchnz",
+      "youtube": "UCMJCZgcJU4JDxUS0aN0fgdQ"
+    }
   }
 }

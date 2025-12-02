@@ -1,7 +1,7 @@
 {
   "youtubeId": "J3fL138Zbmc",
   "title": "Ill Niño - With You",
-  "lastFetched": "2025-11-30T20:28:01.848Z",
+  "lastFetched": "2025-12-02T01:01:18.998Z",
   "ai": {
     "title": "With You",
     "artist": "Ill Niño"
@@ -37,6 +37,20 @@
       "metalcore",
       "nu metal",
       "rock"
-    ]
+    ],
+    "releasedAt": "2001-09-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000087741",
+      "discogs": "465285",
+      "spotify": "1xJ6l1VXgGuyZ0uhu27caF",
+      "deezer": "2183",
+      "lastfm": "Ill+Ni%C3%B1o",
+      "genius": "Ill-nino",
+      "rateyourmusic": "ill-nino",
+      "soundcloud": "https://soundcloud.com/illninoofficial",
+      "wikidata": "Q866410",
+      "youtube": "UCeth5ikBXfY8IYuHyhwA8Pg"
+    }
   }
 }

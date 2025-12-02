@@ -3,7 +3,7 @@
   "artist": "Andrea Belfi",
   "duration": 527,
   "youtubeId": "R0JuVmYEfko",
-  "lastFetched": "2025-11-19T05:36:41.448Z",
+  "lastFetched": "2025-12-02T01:13:43.834Z",
   "odesli": {
     "amazonMusic": "B00O06AH5I",
     "amazonStore": "B00O06AH5I",
@@ -34,6 +34,18 @@
   "musicbrainz": {
     "trackMbid": "488c294f-7f83-4e01-b7fb-d283c9e9496a",
     "artistMbid": "444c97b5-7dc9-4191-89f5-580d2eebfa5b",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2014-10",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000915412",
+      "bandcamp": "https://andreabelfi.bandcamp.com/",
+      "discogs": "413608",
+      "spotify": "2lktSq1VE3OezchJvi3D8X",
+      "deezer": "1703139",
+      "rateyourmusic": "andrea_belfi",
+      "soundcloud": "https://soundcloud.com/andreabelfi",
+      "wikidata": "Q4754962"
+    }
   }
 }

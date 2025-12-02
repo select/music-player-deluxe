@@ -4,7 +4,7 @@
   "album": "HIGH, LONESOME AND THEN SOME.",
   "duration": 296,
   "youtubeId": "G1ucU1ZfKCs",
-  "lastFetched": "2025-11-23T16:33:42.718Z",
+  "lastFetched": "2025-12-02T00:56:42.618Z",
   "odesli": {
     "amazonMusic": "B0FMTXQZY5",
     "amazonStore": "B0FMTXQZY5",
@@ -31,7 +31,17 @@
       "singer-songwriter"
     ],
     "trackMbid": "38c99f2f-c728-4582-9131-9aec976c560b",
-    "artistMbid": "25c13ec7-fad4-4da4-8d98-9607ff615d68"
+    "artistMbid": "25c13ec7-fad4-4da4-8d98-9607ff615d68",
+    "releasedAt": "2025-10-17",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000616664",
+      "discogs": "417831",
+      "spotify": "6uXJm6sZx9IVPrN2laTOP5",
+      "deezer": "152088",
+      "rateyourmusic": "todd_snider",
+      "wikidata": "Q7812645"
+    }
   },
   "lastfm": {
     "id": "Todd+Snider/_/ITS+HARD+TO+BE+HAPPY+(Y+IS+FOR+REDNECK)",

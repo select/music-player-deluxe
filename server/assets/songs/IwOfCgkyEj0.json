@@ -2,7 +2,7 @@
   "youtubeId": "IwOfCgkyEj0",
   "title": "Like a Rolling Stone",
   "artist": "Bob Dylan",
-  "lastFetched": "2025-11-30T22:10:28.669Z",
+  "lastFetched": "2025-12-02T01:00:59.411Z",
   "odesli": {
     "amazonMusic": "B00136PR6C",
     "amazonStore": "B00136PR6C",
@@ -64,6 +64,20 @@
       "roots rock",
       "singer-songwriter",
       "traditional pop"
-    ]
+    ],
+    "releasedAt": "1978-03",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000066915",
+      "discogs": "834818",
+      "spotify": "74ASZWbe4lXaubB36ztrGX",
+      "deezer": "808",
+      "lastfm": "Bob+Dylan",
+      "genius": "Bob-dylan",
+      "rateyourmusic": "bob-dylan",
+      "soundcloud": "https://soundcloud.com/bobdylan",
+      "wikidata": "Q392",
+      "youtube": "UCnRI0ay61tY-fKYzzB3fCnw"
+    }
   }
 }

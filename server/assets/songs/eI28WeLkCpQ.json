@@ -1,0 +1,49 @@
+{
+  "youtubeId": "eI28WeLkCpQ",
+  "title": "Standing in the Sun",
+  "artist": "Grouplove",
+  "lastFetched": "2025-12-01T13:04:12.255Z",
+  "odesli": {
+    "amazonMusic": "B074NH7LTR",
+    "amazonStore": "B074NH7LTR",
+    "appleMusic": "1269236127",
+    "itunes": "1269236127",
+    "pandora": "TR:10600101",
+    "soundcloud": "grouplove/standing-in-the-sun",
+    "spotify": "6kCHznMiHnRaNDHXwHmrrV",
+    "tidal": "77187608",
+    "yandex": "31017415",
+    "youtube": "eI28WeLkCpQ",
+    "youtubeMusic": "eI28WeLkCpQ"
+  },
+  "lastfm": {
+    "id": "Grouplove/_/Standing+in+The+Sun",
+    "listeners": 28567,
+    "playcount": 110444,
+    "title": "Standing in The Sun",
+    "artist": "Grouplove",
+    "mbid": "04d6af19-a2b7-47e0-b9ab-3950d115c5e1",
+    "artistMbid": "d8e41375-bd8d-4e39-9da7-f0c171e97086",
+    "tags": [
+      "indie",
+      "indie rock",
+      "indie pop",
+      "alternative",
+      "2016"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e4c67d6c-c464-4272-b5d0-bccaa75a3b8e",
+    "artistMbid": "d8e41375-bd8d-4e39-9da7-f0c171e97086",
+    "releaseCount": 5,
+    "artistGenres": [
+      "alternative dance",
+      "alternative rock",
+      "electropop",
+      "indie pop",
+      "indie rock",
+      "pop",
+      "rock"
+    ]
+  }
+}

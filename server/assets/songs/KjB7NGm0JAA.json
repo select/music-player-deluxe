@@ -2,7 +2,7 @@
   "youtubeId": "KjB7NGm0JAA",
   "title": "Quattro",
   "artist": "Herbert Pixner Projekt",
-  "lastFetched": "2025-11-30T23:37:01.502Z",
+  "lastFetched": "2025-12-02T01:03:45.845Z",
   "odesli": {
     "boomplay": "611497",
     "deezer": "83372188",
@@ -31,6 +31,14 @@
     "releaseCount": 1,
     "artistGenres": [
       "folk"
-    ]
+    ],
+    "releasedAt": "2014",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0003534522",
+      "discogs": "2636206",
+      "rateyourmusic": "herbert_pixner_projekt",
+      "wikidata": "Q124094228"
+    }
   }
 }

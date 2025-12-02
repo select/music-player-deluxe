@@ -1,0 +1,78 @@
+{
+  "youtubeId": "Jknn7MMszNo",
+  "title": "Shine a Little Light",
+  "artist": "The Black Keys",
+  "lastFetched": "2025-12-02T01:02:25.973Z",
+  "odesli": {
+    "amazonMusic": "B07QMB2T5X",
+    "amazonStore": "B07QMB2T5X",
+    "audiomack": "7190913",
+    "anghami": "53474134",
+    "boomplay": "6783167",
+    "deezer": "701760892",
+    "appleMusic": "1459700589",
+    "itunes": "1459700589",
+    "napster": "tra.386967282",
+    "pandora": "TR:19652503",
+    "soundcloud": "theblackkeys/shine-a-little-light",
+    "spotify": "365TSrFPqM66giaxJuafR3",
+    "tidal": "110827652",
+    "yandex": "54559333",
+    "youtube": "Jknn7MMszNo",
+    "youtubeMusic": "Jknn7MMszNo"
+  },
+  "lastfm": {
+    "id": "The+Black+Keys/_/Shine+A+Little+Light",
+    "listeners": 136245,
+    "playcount": 804737,
+    "title": "Shine A Little Light",
+    "artist": "The Black Keys",
+    "mbid": "93acf674-3d3b-494f-9871-da72911494b5",
+    "artistMbid": "d15721d8-56b4-453d-b506-fc915b14cba2",
+    "tags": [
+      "blues rock",
+      "garage rock",
+      "2010s",
+      "garage rock revival",
+      "alternative rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "76aad0cb-433d-4a1d-ada6-50f21069b281",
+    "artistMbid": "d15721d8-56b4-453d-b506-fc915b14cba2",
+    "releaseCount": 8,
+    "genres": [
+      "alternative rock",
+      "blues",
+      "blues rock",
+      "garage rock",
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "blues",
+      "blues rock",
+      "garage rock",
+      "garage rock revival",
+      "indie rock",
+      "rock"
+    ],
+    "releasedAt": "2019-06-28",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000755918",
+      "bandcamp": "https://theblackkeys.bandcamp.com/",
+      "discogs": "258372",
+      "spotify": "7mnBLXK823vNxN3UWB7Gfz",
+      "deezer": "2483",
+      "lastfm": "The+Black+Keys",
+      "genius": "The-black-keys",
+      "rateyourmusic": "the_black_keys",
+      "soundcloud": "https://soundcloud.com/theblackkeys",
+      "qobuz": "40589",
+      "wikidata": "Q606226",
+      "youtube": "UCchwuI134MUX4GSZqYLpYGA"
+    }
+  }
+}

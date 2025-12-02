@@ -2,7 +2,7 @@
   "youtubeId": "Dnbq0iAPLnk",
   "title": "Ich drück die Maus",
   "artist": "Helge Schneider",
-  "lastFetched": "2025-11-23T16:32:34.962Z",
+  "lastFetched": "2025-12-02T00:52:48.851Z",
   "odesli": {
     "amazonMusic": "B003O2B2JY",
     "amazonStore": "B003O2B2JY",
@@ -28,7 +28,20 @@
       "spoken word"
     ],
     "trackMbid": "f2437b03-70eb-3997-a944-19c1057c44fd",
-    "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9"
+    "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000419691",
+      "discogs": "271200",
+      "spotify": "05OMHvPpkWnblSy9Kl7e9l",
+      "deezer": "79663",
+      "lastfm": "Helge+Schneider",
+      "genius": "Helge-schneider",
+      "rateyourmusic": "helge_schneider",
+      "soundcloud": "https://soundcloud.com/helge-schneider-official",
+      "wikidata": "Q76490",
+      "youtube": "UCpUm-HvU2Qgs207QiNmXFYQ"
+    }
   },
   "lastfm": {
     "id": "Helge+Schneider/_/Ich+dr%C3%BCck+die+Maus",

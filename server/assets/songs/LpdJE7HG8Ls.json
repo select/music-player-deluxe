@@ -2,7 +2,7 @@
   "youtubeId": "LpdJE7HG8Ls",
   "title": "Dig a Pony",
   "artist": "The Beatles",
-  "lastFetched": "2025-11-23T16:36:13.405Z",
+  "lastFetched": "2025-12-02T01:05:47.813Z",
   "odesli": {
     "amazonMusic": "B07FT1NS3L",
     "amazonStore": "B07FT1NS3L",
@@ -41,7 +41,21 @@
       "pop rock"
     ],
     "trackMbid": "44913bb3-7b0b-4ad0-beb4-b0a4364e1d02",
-    "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+    "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000754032",
+      "discogs": "82730",
+      "spotify": "3WrFJ7ztbogyGnTHbHJFl2",
+      "deezer": "1",
+      "lastfm": "The+Beatles",
+      "genius": "The-beatles",
+      "rateyourmusic": "the-beatles",
+      "soundcloud": "https://soundcloud.com/thebeatles",
+      "napster": "the-beatles",
+      "wikidata": "Q1299",
+      "youtube": "UC2XdaAVUannpujzv32jcouQ"
+    }
   },
   "lastfm": {
     "id": "The+Beatles/_/Dig+a+Pony",

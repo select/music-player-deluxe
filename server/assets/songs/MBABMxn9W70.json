@@ -1,0 +1,43 @@
+{
+  "youtubeId": "MBABMxn9W70",
+  "title": "Kwela",
+  "artist": "Soweto String Quartet",
+  "lastFetched": "2025-12-02T01:06:14.600Z",
+  "odesli": {
+    "amazonMusic": "B001BJKHFM",
+    "amazonStore": "B001BJKHFM",
+    "spotify": "0frk5x4MtPG7HV3LiYda9r",
+    "tidal": "3000163",
+    "yandex": "885278",
+    "youtube": "MBABMxn9W70",
+    "youtubeMusic": "MBABMxn9W70"
+  },
+  "lastfm": {
+    "id": "Soweto+String+Quartet/_/Kwela",
+    "listeners": 1078,
+    "playcount": 3456,
+    "title": "Kwela",
+    "artist": "Soweto String Quartet",
+    "mbid": "8d2058a4-d580-40b4-bf4f-7453d7b1bdc6",
+    "artistMbid": "39128f2f-a42c-4492-83c5-9db4979ba14b",
+    "tags": [
+      "south africa soweto string quartet",
+      "4 of 10 stars"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f4519235-0c76-45b8-864c-c31f382d5956",
+    "artistMbid": "39128f2f-a42c-4492-83c5-9db4979ba14b",
+    "releaseCount": 2,
+    "releasedAt": "1994",
+    "artistCountry": "ZA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000004825",
+      "discogs": "885307",
+      "lastfm": "Soweto+String+Quartet",
+      "rateyourmusic": "soweto_string_quartet",
+      "wikidata": "Q625366",
+      "youtube": "UCzLt12BYOJHofXa8jR3gs9g"
+    }
+  }
+}

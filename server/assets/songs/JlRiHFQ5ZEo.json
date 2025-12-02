@@ -2,7 +2,7 @@
   "youtubeId": "JlRiHFQ5ZEo",
   "title": "Old Ground",
   "artist": "Scar",
-  "lastFetched": "2025-11-19T12:16:15.477Z",
+  "lastFetched": "2025-12-02T01:02:28.078Z",
   "odesli": {
     "amazonMusic": "B00NDA89A2",
     "amazonStore": "B00NDA89A2",
@@ -27,6 +27,9 @@
   },
   "musicbrainz": {
     "trackMbid": "00b53065-b7e3-46f8-ae25-529a12ee944e",
-    "artistMbid": "ec406531-3c98-4d48-9c19-53015c6dabfc"
+    "artistMbid": "ec406531-3c98-4d48-9c19-53015c6dabfc",
+    "externalIdsArtist": {
+      "spotify": "7HZbKBp2NNdcIu0fm6Qd6P"
+    }
   }
 }

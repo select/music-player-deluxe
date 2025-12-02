@@ -2,7 +2,7 @@
   "youtubeId": "OMKXIm3qTwo",
   "title": "Ocean to Ocean",
   "artist": "Tori Amos",
-  "lastFetched": "2025-11-23T16:37:16.474Z",
+  "lastFetched": "2025-12-02T01:10:03.882Z",
   "odesli": {
     "amazonMusic": "B09GK773KK",
     "amazonStore": "B09GK773KK",
@@ -42,7 +42,21 @@
       "baroque pop"
     ],
     "trackMbid": "ac7ae037-d49b-4aec-8336-502a0449f924",
-    "artistMbid": "c0b2500e-0cef-4130-869d-732b23ed9df5"
+    "artistMbid": "c0b2500e-0cef-4130-869d-732b23ed9df5",
+    "releasedAt": "2022-02-02",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000792530",
+      "discogs": "9902",
+      "spotify": "1KsASRNugxU85T0u6zSg32",
+      "deezer": "854",
+      "lastfm": "Tori+Amos",
+      "genius": "Tori-amos",
+      "rateyourmusic": "tori-amos",
+      "soundcloud": "https://soundcloud.com/tori-amos-official",
+      "wikidata": "Q193744",
+      "youtube": "UCIgQ_8rulGwokbAu6QOxCGQ"
+    }
   },
   "lastfm": {
     "id": "Tori+Amos/_/Ocean+to+Ocean",

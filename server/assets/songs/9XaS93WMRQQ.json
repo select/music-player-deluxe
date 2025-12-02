@@ -2,7 +2,7 @@
   "youtubeId": "9XaS93WMRQQ",
   "title": "Zombie",
   "artist": "Bad Wolves",
-  "lastFetched": "2025-11-23T16:30:16.754Z",
+  "lastFetched": "2025-12-02T00:46:23.169Z",
   "odesli": {
     "amazonMusic": "B07ZS95WMX",
     "amazonStore": "B07ZS95WMX",
@@ -34,7 +34,27 @@
       "heavy metal"
     ],
     "trackMbid": "eaf4aaf0-e7a8-4f6d-a146-6ec85ac530c6",
-    "artistMbid": "2002b451-41ec-4e57-b806-a109931743b1"
+    "artistMbid": "2002b451-41ec-4e57-b806-a109931743b1",
+    "releasedAt": "2018-01-19",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "2ZlrVaKOo5d1QA6903H9wK",
+      "deezer": "2350073455"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003713326",
+      "bandcamp": "https://badwolvesnation.bandcamp.com/",
+      "discogs": "5834021",
+      "spotify": "0eI3X5rAzHRZVe5FPk4MN1",
+      "deezer": "8156852",
+      "lastfm": "Bad+Wolves",
+      "genius": "Bad-wolves",
+      "rateyourmusic": "bad-wolves",
+      "soundcloud": "https://soundcloud.com/badwolves-music",
+      "napster": "bad-wolves",
+      "wikidata": "Q48720091",
+      "youtube": "UCNZgKQ8UFu_-UlJizJEBxkg"
+    }
   },
   "lastfm": {
     "id": "Bad+Wolves/_/Zombie",

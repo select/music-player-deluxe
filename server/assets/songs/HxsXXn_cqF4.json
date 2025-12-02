@@ -2,7 +2,7 @@
   "youtubeId": "HxsXXn_cqF4",
   "title": "The Trembling Hand",
   "artist": "Hot Sugar",
-  "lastFetched": "2025-11-30T20:16:37.611Z",
+  "lastFetched": "2025-12-02T00:59:46.562Z",
   "odesli": {
     "amazonMusic": "B06XCDG267",
     "amazonStore": "B06XCDG267",
@@ -29,6 +29,14 @@
   "musicbrainz": {
     "trackMbid": "be9356f0-2b94-4ed3-9c1e-99291ef51391",
     "artistMbid": "1f0a95a1-bf3e-4534-8b6f-5539af5dac1d",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2017-03-31",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://hotsugar.bandcamp.com/",
+      "discogs": "2519303",
+      "soundcloud": "https://soundcloud.com/hotsugar",
+      "wikidata": "Q20631233"
+    }
   }
 }

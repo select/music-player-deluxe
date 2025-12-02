@@ -1,7 +1,7 @@
 {
   "youtubeId": "NThCh-_mgag",
   "title": "Rapture",
-  "lastFetched": "2025-11-30T21:13:56.214Z",
+  "lastFetched": "2025-12-02T01:08:21.529Z",
   "ai": {
     "title": "Hurt - Rapture",
     "artist": "Hurt"
@@ -48,6 +48,14 @@
     "artistGenres": [
       "alternative rock",
       "post-hardcore"
-    ]
+    ],
+    "releasedAt": "2006-03-21",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "799625",
+      "deezer": "8468",
+      "rateyourmusic": "hurt_f1",
+      "wikidata": "Q1516480"
+    }
   }
 }

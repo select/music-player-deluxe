@@ -1,7 +1,7 @@
 {
   "youtubeId": "0fOIRnKrskQ",
   "title": "Queens of the Stone Age - Millionaire",
-  "lastFetched": "2025-11-30T19:40:23.541Z",
+  "lastFetched": "2025-12-02T00:33:54.814Z",
   "ai": {
     "title": "Millionaire",
     "artist": "Queens of the Stone Age"
@@ -21,6 +21,20 @@
       "hard rock",
       "rock",
       "stoner rock"
-    ]
+    ],
+    "releasedAt": "2010-08-03",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000376422",
+      "discogs": "56168",
+      "spotify": "4pejUc4iciQfgdX6OKulQn",
+      "deezer": "1177",
+      "lastfm": "Queens+of+the+Stone+Age",
+      "genius": "Queens-of-the-stone-age",
+      "rateyourmusic": "queens-of-the-stone-age",
+      "soundcloud": "https://soundcloud.com/qotsa",
+      "wikidata": "Q1243718",
+      "youtube": "UCcYgNw9ne8v1cxcAD_sIOWQ"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "CZVVLvw0t84",
   "title": "LC Full Blast",
   "artist": "Lucky Chops",
-  "lastFetched": "2025-11-23T16:31:37.504Z",
+  "lastFetched": "2025-12-02T00:50:27.218Z",
   "odesli": {
     "amazonMusic": "B0B94SL1MY",
     "amazonStore": "B0B94SL1MY",
@@ -34,7 +34,16 @@
       "jazz"
     ],
     "trackMbid": "5e41d64a-b9c5-4cba-aa74-9cd668bef38f",
-    "artistMbid": "8ab73770-878d-4c67-803a-e89e59341324"
+    "artistMbid": "8ab73770-878d-4c67-803a-e89e59341324",
+    "releasedAt": "2024-01-19",
+    "externalIdsArtist": {
+      "bandcamp": "https://luckychops.bandcamp.com/",
+      "discogs": "5399944",
+      "spotify": "2b6gc4EVpO6OTlDvKrK852",
+      "deezer": "9445642",
+      "soundcloud": "https://soundcloud.com/lucky_chops",
+      "youtube": "UCYfFuHmTC6-i43qoYmXckbQ"
+    }
   },
   "lastfm": {
     "id": "Lucky+Chops/_/LC+Full+Blast",

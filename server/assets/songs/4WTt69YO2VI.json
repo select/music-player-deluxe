@@ -2,7 +2,7 @@
   "youtubeId": "4WTt69YO2VI",
   "title": "Mystery of Love",
   "artist": "Sufjan Stevens",
-  "lastFetched": "2025-11-19T10:12:55.805Z",
+  "lastFetched": "2025-12-02T00:38:52.601Z",
   "odesli": {
     "amazonMusic": "B0773S35W3",
     "amazonStore": "B0773S35W3",
@@ -25,7 +25,21 @@
       "beautiful"
     ],
     "trackMbid": "365171e6-34e2-47cf-bd34-ca4194a8f643",
-    "artistMbid": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c"
+    "artistMbid": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000580300",
+      "bandcamp": "https://sufjanstevens.bandcamp.com/",
+      "discogs": "202598",
+      "spotify": "4MXUO7sVCaFgFjoTI5ox5c",
+      "deezer": "1999",
+      "lastfm": "Sufjan+Stevens",
+      "genius": "Sufjan-stevens",
+      "rateyourmusic": "sufjan-stevens",
+      "soundcloud": "https://soundcloud.com/sufjan-stevens",
+      "wikidata": "Q319502",
+      "youtube": "UC5sOhxfts379lOCXaIAinyw"
+    }
   },
   "lastfm": {
     "id": "Sufjan+Stevens/_/Mystery+of+Love",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "BLTS0tcqgZE",
   "title": "Detektivbyrån-E18",
-  "lastFetched": "2025-11-30T19:25:05.821Z",
+  "lastFetched": "2025-12-02T00:48:34.975Z",
   "ai": {
     "title": "E18",
     "artist": "Detektivbyrån"
@@ -30,6 +30,15 @@
       "instrumental",
       "modern classical",
       "pop"
-    ]
+    ],
+    "releasedAt": "2006-08-29",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001006963",
+      "discogs": "959081",
+      "lastfm": "Detektivbyr%C3%A5n",
+      "rateyourmusic": "detektivbyran",
+      "wikidata": "Q1201122"
+    }
   }
 }

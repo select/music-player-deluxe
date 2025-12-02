@@ -2,7 +2,7 @@
   "youtubeId": "6BigTbHd8Xs",
   "title": "Golden",
   "artist": "Magnetic Ghost Orchestra",
-  "lastFetched": "2025-11-30T23:32:09.504Z",
+  "lastFetched": "2025-12-02T00:40:58.004Z",
   "odesli": {
     "amazonMusic": "B09VXL17L9",
     "amazonStore": "B09VXL17L9",
@@ -24,6 +24,11 @@
   "musicbrainz": {
     "artistMbid": "8a3365ac-1f67-4894-8c09-0ac35960dc35",
     "trackMbid": "6bda4249-7a4e-4104-af53-ac88db2928ab",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-06-17",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "4794974"
+    }
   }
 }

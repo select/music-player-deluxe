@@ -2,7 +2,7 @@
   "youtubeId": "DdWM2TbPxUM",
   "title": "No Love Dubplate",
   "artist": "Queen Omega",
-  "lastFetched": "2025-11-30T23:05:42.929Z",
+  "lastFetched": "2025-12-02T00:52:41.732Z",
   "odesli": {
     "amazonMusic": "B0CN1QQ77T",
     "amazonStore": "B0CN1QQ77T",
@@ -36,6 +36,14 @@
     "artistGenres": [
       "dancehall",
       "reggae"
-    ]
+    ],
+    "artistCountry": "TT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000314440",
+      "discogs": "323585",
+      "spotify": "0NZQTozgPtlt5iN3hmANhy",
+      "deezer": "8723",
+      "wikidata": "Q7270484"
+    }
   }
 }

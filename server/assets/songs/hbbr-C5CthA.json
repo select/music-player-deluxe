@@ -1,0 +1,33 @@
+{
+  "youtubeId": "hbbr-C5CthA",
+  "title": "Kashmir - The Aftermath (live bei TV Noir)",
+  "lastFetched": "2025-12-01T11:48:21.010Z",
+  "ai": {
+    "title": "The Aftermath",
+    "artist": "Kashmir"
+  },
+  "lastfm": {
+    "id": "Kashmir/_/The+Aftermath",
+    "listeners": 43406,
+    "playcount": 288764,
+    "title": "The Aftermath",
+    "artist": "Kashmir",
+    "mbid": "0f081016-09bf-31d3-a7bc-3e98ec9153fa",
+    "artistMbid": "cd08ab5e-a823-4985-975d-3a3438b9b5d5",
+    "tags": [
+      "rock",
+      "indie",
+      "danish",
+      "beautiful"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "91dc3e18-e28c-4025-8752-51e6c1f75849",
+    "artistMbid": "cd08ab5e-a823-4985-975d-3a3438b9b5d5",
+    "releaseCount": 5,
+    "artistGenres": [
+      "alternative rock",
+      "indie rock"
+    ]
+  }
+}

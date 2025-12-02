@@ -2,7 +2,7 @@
   "youtubeId": "KyFe5m2MU9Q",
   "title": "Major Tom",
   "artist": "Shiny Toy Guns",
-  "lastFetched": "2025-11-23T16:35:49.979Z",
+  "lastFetched": "2025-12-02T01:04:14.281Z",
   "musicbrainz": {
     "artistTags": [
       "american",
@@ -21,7 +21,19 @@
       "rock"
     ],
     "trackMbid": "4e37411d-0818-31e8-a908-efb8752ee36a",
-    "artistMbid": "ad61e25e-5516-41e1-b60d-744e8220986e"
+    "artistMbid": "ad61e25e-5516-41e1-b60d-744e8220986e",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000638632",
+      "discogs": "281056",
+      "spotify": "6UocZe4AprSYBvmn3J0oqY",
+      "soundcloud": "https://soundcloud.com/shinytoyguns",
+      "deezer": "5785",
+      "lastfm": "Shiny+Toy+Guns",
+      "genius": "Shiny-toy-guns",
+      "rateyourmusic": "shiny_toy_guns",
+      "wikidata": "Q931174"
+    }
   },
   "lastfm": {
     "id": "Shiny+Toy+Guns/_/Major+Tom",

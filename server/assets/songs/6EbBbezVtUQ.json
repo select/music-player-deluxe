@@ -1,0 +1,52 @@
+{
+  "youtubeId": "6EbBbezVtUQ",
+  "title": "Douce France",
+  "artist": "Charles Trenet",
+  "lastFetched": "2025-12-02T00:41:02.651Z",
+  "odesli": {
+    "amazonMusic": "B073RXL186",
+    "amazonStore": "B073RXL186",
+    "anghami": "1749746",
+    "boomplay": "5914551",
+    "pandora": "TR:11114549",
+    "soundcloud": "charles-trenet/douce-france-363512829",
+    "spotify": "6zlMAsPgiG81sZzsYVFwL3",
+    "tidal": "1501226",
+    "youtube": "6EbBbezVtUQ",
+    "youtubeMusic": "6EbBbezVtUQ"
+  },
+  "lastfm": {
+    "id": "Charles+Trenet/_/Douce+France",
+    "listeners": 68048,
+    "playcount": 244265,
+    "title": "Douce France",
+    "artist": "Charles Trenet",
+    "mbid": "dd774e07-a813-40ac-adb2-9041902d15f9",
+    "artistMbid": "cf97f8c4-f287-4c0c-a07e-6ca2fdd8e8c2",
+    "tags": [
+      "chanson francaise",
+      "french",
+      "charles trenet",
+      "oldies"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4eab76e8-b41c-4053-ad63-9d85d2a13ad2",
+    "artistMbid": "cf97f8c4-f287-4c0c-a07e-6ca2fdd8e8c2",
+    "releaseCount": 3,
+    "genres": [
+      "chanson française",
+      "pop"
+    ],
+    "releasedAt": "1988",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000197532",
+      "discogs": "287785",
+      "spotify": "4a16JEaHldo5vZuRojtGTZ",
+      "deezer": "5857",
+      "rateyourmusic": "charles_trenet",
+      "wikidata": "Q212549"
+    }
+  }
+}

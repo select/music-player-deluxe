@@ -2,7 +2,7 @@
   "youtubeId": "RQS9_ZN5k_c",
   "title": "Caravansary",
   "artist": "Kitaro",
-  "lastFetched": "2025-11-30T20:11:12.999Z",
+  "lastFetched": "2025-12-02T01:14:49.815Z",
   "odesli": {
     "amazonMusic": "B000QVKQOI",
     "amazonStore": "B000QVKQOI",
@@ -35,6 +35,19 @@
       "electronic",
       "instrumental",
       "new age"
-    ]
+    ],
+    "releasedAt": "2002-10-08",
+    "artistCountry": "JP",
+    "externalIdsArtist": {
+      "allmusic": "mn0000081017",
+      "bandcamp": "https://kitaro.bandcamp.com/",
+      "discogs": "76122",
+      "spotify": "6CTNhXJKT6SdsQspUDIGiY",
+      "deezer": "10712",
+      "lastfm": "Kitaro",
+      "rateyourmusic": "kitaro",
+      "wikidata": "Q273652",
+      "youtube": "UC_eQTR18f-kcgVj-S03RZhw"
+    }
   }
 }

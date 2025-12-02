@@ -2,7 +2,7 @@
   "youtubeId": "8b-ecNhMIyw",
   "title": "Midnight",
   "artist": "Caravan Palace",
-  "lastFetched": "2025-11-30T19:38:31.645Z",
+  "lastFetched": "2025-12-02T00:44:53.351Z",
   "odesli": {
     "amazonMusic": "B0CMXTSYNT",
     "amazonStore": "B0CMXTSYNT",
@@ -44,6 +44,21 @@
       "electro house",
       "electro swing",
       "fidget house"
-    ]
+    ],
+    "releasedAt": "2015-10-16",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0002101786",
+      "bandcamp": "https://caravanpalace.bandcamp.com/",
+      "discogs": "1337187",
+      "spotify": "37J1PlAkhRK7yrZUtqaUpQ",
+      "deezer": "259767",
+      "lastfm": "Caravan+Palace",
+      "genius": "Caravan-palace",
+      "rateyourmusic": "caravan_palace",
+      "soundcloud": "https://soundcloud.com/caravan-palace-official",
+      "wikidata": "Q1035442",
+      "youtube": "UCKH9HfYY_GEcyltl2mbD5lA"
+    }
   }
 }

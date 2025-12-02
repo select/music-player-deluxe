@@ -2,7 +2,7 @@
   "youtubeId": "2XeqjFW8GvI",
   "title": "Trash",
   "artist": "The Whip",
-  "lastFetched": "2025-11-30T20:46:31.925Z",
+  "lastFetched": "2025-12-02T00:36:22.954Z",
   "odesli": {
     "amazonMusic": "B005TUAAQ0",
     "amazonStore": "B005TUAAQ0",
@@ -39,6 +39,16 @@
       "house",
       "indie rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2008-03-17",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000953398",
+      "discogs": "497671",
+      "spotify": "4M2H1fDQR5ygAi7MMOVxAA",
+      "deezer": "9906",
+      "rateyourmusic": "the_whip_f1",
+      "wikidata": "Q1078032"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "4pILx_RrYrg",
   "title": "Thought I Knew",
   "artist": "Weezer",
-  "lastFetched": "2025-11-30T19:31:53.324Z",
+  "lastFetched": "2025-12-02T00:39:14.088Z",
   "odesli": {
     "amazonMusic": "B001A5ZL9O",
     "amazonStore": "B001A5ZL9O",
@@ -46,6 +46,21 @@
       "pop rock",
       "power pop",
       "rock"
-    ]
+    ],
+    "releasedAt": "2008-01-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000243008",
+      "discogs": "105730",
+      "spotify": "3jOstUTkEu2JkjvRdBA5Gu",
+      "deezer": "418",
+      "lastfm": "Weezer",
+      "genius": "Weezer",
+      "rateyourmusic": "weezer",
+      "soundcloud": "https://soundcloud.com/weezer",
+      "napster": "weezer",
+      "wikidata": "Q209956",
+      "youtube": "UCtHZHneyvFGwxg6MHcbMLAw"
+    }
   }
 }

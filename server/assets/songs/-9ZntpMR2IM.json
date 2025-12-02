@@ -3,7 +3,7 @@
   "artist": "Busta Rhymes",
   "duration": 231,
   "youtubeId": "-9ZntpMR2IM",
-  "lastFetched": "2025-11-19T05:14:52.660Z",
+  "lastFetched": "2025-12-02T00:17:23.129Z",
   "odesli": {
     "amazonMusic": "B00122P960",
     "amazonStore": "B00122P960",
@@ -29,7 +29,28 @@
     ],
     "trackMbid": "a8aae251-e739-4570-8195-0f56d661455b",
     "artistMbid": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1997-09-16",
+    "artistCountry": "US",
+    "externalIds": {
+      "allmusic": "mn0003199106",
+      "discogs": "640089",
+      "spotify": "1YfEcTuGvBQ8xSD1f53UnK",
+      "lastfm": "Busta+Rhymes",
+      "soundcloud": "busta-rhymes-9",
+      "youtube": "UCaSeNTljGkpoj1ijhs72nag"
+    },
+    "externalIdsTrack": {
+      "spotify": "74z4PdLhrqH32PPjdMIt5U"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003199106",
+      "discogs": "640089",
+      "spotify": "1YfEcTuGvBQ8xSD1f53UnK",
+      "lastfm": "Busta+Rhymes",
+      "soundcloud": "busta-rhymes-9",
+      "youtube": "UCaSeNTljGkpoj1ijhs72nag"
+    }
   },
   "lastfm": {
     "id": "Busta+Rhymes/_/Get+High+Tonight",

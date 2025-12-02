@@ -2,7 +2,7 @@
   "youtubeId": "2vbf2qRJocc",
   "title": "Come About",
   "artist": "Love'n'Joy",
-  "lastFetched": "2025-11-19T14:38:16.319Z",
+  "lastFetched": "2025-12-02T00:36:50.331Z",
   "odesli": {
     "amazonMusic": "B07B2BB9SS",
     "amazonStore": "B07B2BB9SS",
@@ -27,6 +27,13 @@
   },
   "musicbrainz": {
     "trackMbid": "8a75d462-a8ba-4f65-921f-694e09c3e8ed",
-    "artistMbid": "015e7f44-fbdb-4fae-8a9a-b406cb0b1234"
+    "artistMbid": "015e7f44-fbdb-4fae-8a9a-b406cb0b1234",
+    "releasedAt": "2019-02-01",
+    "artistCountry": "UA",
+    "externalIdsArtist": {
+      "bandcamp": "https://lovenjoy.bandcamp.com/",
+      "discogs": "5554908",
+      "soundcloud": "https://soundcloud.com/lovenjoyband"
+    }
   }
 }

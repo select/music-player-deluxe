@@ -2,7 +2,7 @@
   "youtubeId": "SL9RyYxwXz8",
   "title": "Der Sturm",
   "artist": "Subway to Sally",
-  "lastFetched": "2025-11-30T23:29:32.330Z",
+  "lastFetched": "2025-12-02T01:16:18.254Z",
   "odesli": {
     "amazonMusic": "B085STYFKV",
     "amazonStore": "B085STYFKV",
@@ -50,6 +50,21 @@
       "medieval",
       "medieval metal",
       "metal"
-    ]
+    ],
+    "releasedAt": "1996-04-15",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000542856",
+      "bandcamp": "https://subwaytosally.bandcamp.com/",
+      "discogs": "303963",
+      "spotify": "544X9aDcwFDSon8HevRcqg",
+      "deezer": "12066",
+      "lastfm": "Subway%20to%20Sally",
+      "genius": "Subway-to-sally",
+      "rateyourmusic": "subway_to_sally",
+      "soundcloud": "https://soundcloud.com/subway-to-sally",
+      "wikidata": "Q655629",
+      "youtube": "UCV5hjbCuTa3uEKPzwT8bk-Q"
+    }
   }
 }

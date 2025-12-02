@@ -2,7 +2,7 @@
   "youtubeId": "D5Xsmq0_aho",
   "title": "Rock Steady",
   "artist": "Andy Rantzen",
-  "lastFetched": "2025-11-30T21:30:33.423Z",
+  "lastFetched": "2025-12-02T00:51:25.788Z",
   "odesli": {
     "amazonMusic": "B07RCDWL87",
     "amazonStore": "B07RCDWL87",
@@ -35,6 +35,12 @@
     "artistGenres": [
       "electronica",
       "experimental electronic"
-    ]
+    ],
+    "releasedAt": "2017-10-27",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "discogs": "26971",
+      "wikidata": "Q4761210"
+    }
   }
 }

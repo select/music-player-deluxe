@@ -2,7 +2,7 @@
   "youtubeId": "27phIWvUYXQ",
   "title": "Luck Of Lucien",
   "artist": "A Tribe Called Quest",
-  "lastFetched": "2025-11-23T16:27:01.781Z",
+  "lastFetched": "2025-12-02T00:22:53.580Z",
   "odesli": {
     "amazonMusic": "B0169CNVPS",
     "amazonStore": "B0169CNVPS",
@@ -55,7 +55,20 @@
       "hip hop"
     ],
     "trackMbid": "4e4eb697-75b2-47a8-9a21-8c2cac73c547",
-    "artistMbid": "9689aa5a-4471-4fb4-9721-07cecda0fa9f"
+    "artistMbid": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
+    "releasedAt": "1990-03-12",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "7EhEPcPa60LlvGuG9R1DOx"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000478982",
+      "discogs": "3268",
+      "spotify": "09hVIj6vWgoCDtT03h8ZCa",
+      "lastfm": "A+Tribe+Called+Quest",
+      "soundcloud": "a-tribe-called-quest-official",
+      "youtube": "UCkZ7qikT6yimOwi-eeSUo5g"
+    }
   },
   "lastfm": {
     "id": "A+Tribe+Called+Quest/_/Luck+Of+Lucien",

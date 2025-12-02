@@ -1,7 +1,7 @@
 {
   "youtubeId": "DIm6Bz6MlPI",
   "title": "Radio Tarifa en Vivo \"La Pastora\"",
-  "lastFetched": "2025-11-30T19:23:04.181Z",
+  "lastFetched": "2025-12-02T00:51:47.868Z",
   "ai": {
     "title": "La Pastora",
     "artist": "Radio Tarifa"
@@ -28,6 +28,14 @@
     "genres": [
       "folk",
       "latin"
-    ]
+    ],
+    "releasedAt": "1993",
+    "artistCountry": "ES",
+    "externalIdsArtist": {
+      "allmusic": "mn0000326218",
+      "discogs": "241492",
+      "lastfm": "Radio+Tarifa",
+      "wikidata": "Q1755388"
+    }
   }
 }

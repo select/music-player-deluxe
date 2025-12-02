@@ -1,0 +1,50 @@
+{
+  "youtubeId": "7W6P1exYiVY",
+  "title": "Tausendfrankenlang",
+  "artist": "Faber",
+  "lastFetched": "2025-12-02T00:43:26.864Z",
+  "odesli": {
+    "soundcloud": "user-769410848/faber-tausendfrankenlang-mp3",
+    "tidal": "243874941",
+    "yandex": "122485698",
+    "youtube": "7W6P1exYiVY",
+    "youtubeMusic": "7W6P1exYiVY"
+  },
+  "lastfm": {
+    "id": "Faber/_/Tausendfrankenlang",
+    "listeners": 12831,
+    "playcount": 113107,
+    "title": "Tausendfrankenlang",
+    "artist": "Faber",
+    "mbid": "f90462cb-246d-4aa7-a8f6-eb5818a9dbc8",
+    "artistMbid": "41e55ccc-c01d-4e3e-9ea0-daced36c9cf3",
+    "tags": [
+      "swiss",
+      "10s",
+      "2015",
+      "indie",
+      "liedermacher"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f90462cb-246d-4aa7-a8f6-eb5818a9dbc8",
+    "artistMbid": "41e55ccc-c01d-4e3e-9ea0-daced36c9cf3",
+    "releaseCount": 3,
+    "artistGenres": [
+      "alternative rock",
+      "indie pop"
+    ],
+    "releasedAt": "2022-08-12",
+    "artistCountry": "CH",
+    "externalIdsArtist": {
+      "allmusic": "mn0003556793",
+      "bandcamp": "https://fabermusic.bandcamp.com/",
+      "discogs": "5481382",
+      "spotify": "0k70gnDBLPirCltbTzoxuM",
+      "deezer": "1073110",
+      "rateyourmusic": "faber-1",
+      "wikidata": "Q35555519",
+      "youtube": "UCZmMQrt1cIU6YQpypm7aclw"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "HR7UE6pfmng",
   "title": "King Tut",
   "artist": "Paul Hardcastle",
-  "lastFetched": "2025-11-30T22:24:53.417Z",
+  "lastFetched": "2025-12-02T00:58:59.522Z",
   "odesli": {
     "amazonMusic": "B0042FK2SY",
     "amazonStore": "B0042FK2SY",
@@ -38,6 +38,19 @@
       "electronic",
       "electronica",
       "smooth jazz"
-    ]
+    ],
+    "releasedAt": "1985",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000018513",
+      "bandcamp": "https://paulhardcastle.bandcamp.com/",
+      "discogs": "17743",
+      "spotify": "0SgDfSfWqkZMW96aT2oQZ1",
+      "deezer": "7553",
+      "genius": "Paul-hardcastle",
+      "rateyourmusic": "paul-hardcastle",
+      "wikidata": "Q938029",
+      "youtube": "UClJd-U0zsT4tpaAiPjmAGnw"
+    }
   }
 }

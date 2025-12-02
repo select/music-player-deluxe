@@ -2,7 +2,7 @@
   "youtubeId": "KTG0-HklIEs",
   "title": "System",
   "artist": "Babe Roots",
-  "lastFetched": "2025-11-30T23:22:13.940Z",
+  "lastFetched": "2025-12-02T01:03:21.746Z",
   "odesli": {
     "amazonMusic": "B0D6DH4P2G",
     "amazonStore": "B0D6DH4P2G",
@@ -29,6 +29,15 @@
   "musicbrainz": {
     "trackMbid": "e0fba19f-6beb-4a4b-9897-ac15fb6c682c",
     "artistMbid": "c31ab344-80a8-41af-b959-ec8cc465c163",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2021-07-17",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "bandcamp": "https://baberoots.bandcamp.com/",
+      "discogs": "4139794",
+      "spotify": "2eQqRynBVnuR7aT73ups9b",
+      "deezer": "12095474",
+      "soundcloud": "https://soundcloud.com/babe-roots"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "NpDYfkymaSE",
   "title": "Sturgill Simpson - \"In Bloom\"",
-  "lastFetched": "2025-11-30T21:15:25.584Z",
+  "lastFetched": "2025-12-02T01:08:53.269Z",
   "ai": {
     "title": "In Bloom",
     "artist": "Sturgill Simpson"
@@ -34,6 +34,18 @@
       "bluegrass",
       "country",
       "outlaw country"
-    ]
+    ],
+    "releasedAt": "2016-04-15",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003098721",
+      "bandcamp": "https://sturgillsimpson.bandcamp.com/",
+      "discogs": "3388603",
+      "spotify": "3vDpQbGnzRbRVirXlfQagB",
+      "deezer": "4044591",
+      "genius": "Sturgill-simpson",
+      "rateyourmusic": "sturgill-simpson",
+      "wikidata": "Q16736403"
+    }
   }
 }

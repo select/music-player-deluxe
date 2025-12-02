@@ -2,7 +2,7 @@
   "youtubeId": "PYI09PMNazw",
   "title": "The Ecstasy of Gold",
   "artist": "Ennio Morricone",
-  "lastFetched": "2025-11-23T16:37:49.824Z",
+  "lastFetched": "2025-12-02T01:11:53.855Z",
   "odesli": {
     "amazonMusic": "B08CDXL5Q6",
     "amazonStore": "B08CDXL5Q6",
@@ -37,7 +37,21 @@
       "modern classical"
     ],
     "trackMbid": "0664d616-9476-4a46-994f-0ef7b5e516da",
-    "artistMbid": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd"
+    "artistMbid": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000798662",
+      "bandcamp": "https://enniomorricone.bandcamp.com/",
+      "discogs": "1974469",
+      "spotify": "1nIUhcKHnK6iyumRyoV68C",
+      "deezer": "1536",
+      "lastfm": "Ennio+Morricone",
+      "genius": "Ennio-morricone",
+      "rateyourmusic": "ennio-morricone",
+      "soundcloud": "https://soundcloud.com/ennio-morricone",
+      "wikidata": "Q23848",
+      "youtube": "UCUAwOBo-ZZ8S8cIH0SGoXpg"
+    }
   },
   "lastfm": {
     "id": "Ennio+Morricone/_/The+Ecstasy+of+Gold",

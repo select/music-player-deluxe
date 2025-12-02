@@ -3,7 +3,7 @@
   "artist": "Dwig",
   "duration": 431,
   "youtubeId": "0RXdd0pCJ9Q",
-  "lastFetched": "2025-11-19T05:00:37.715Z",
+  "lastFetched": "2025-12-02T00:33:30.803Z",
   "musicbrainz": {
     "tags": [
       "deep house",
@@ -11,7 +11,16 @@
     ],
     "trackMbid": "c19cea58-ff2a-4c0a-b8f8-61e33b9a0ebd",
     "artistMbid": "6f5618f3-fb91-4ff2-9ba2-7a39e9beeac7",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2014-10-02",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "1447610",
+      "spotify": "13ZYzKJHN4B7o3zqxr54wn",
+      "soundcloud": "https://soundcloud.com/dwig",
+      "wikidata": "Q55995644",
+      "youtube": "UCnbrZzyIQwK6AbAj3_4m4BA"
+    }
   },
   "lastfm": {
     "id": "Dwig/_/Orange+Evening",

@@ -3,7 +3,7 @@
   "artist": "Chet Baker",
   "duration": 577,
   "youtubeId": "DKVWp_Ekl44",
-  "lastFetched": "2025-11-23T16:32:15.888Z",
+  "lastFetched": "2025-12-02T00:51:55.830Z",
   "musicbrainz": {
     "artistTags": [
       "2008 universal fire victim",
@@ -17,7 +17,19 @@
     ],
     "trackMbid": "79feef8f-11fd-4ae5-b3ed-367c011f0518",
     "artistMbid": "1ba1d493-7114-45e2-b163-a36d49a0c065",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1980",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000094210",
+      "discogs": "31617",
+      "spotify": "3rxeQlsv0Sc2nyYaZ5W71T",
+      "deezer": "5853",
+      "lastfm": "Chet+Baker",
+      "rateyourmusic": "chet_baker",
+      "wikidata": "Q2274",
+      "youtube": "UCVNfRXuaWVILL9giCEg0rQg"
+    }
   },
   "lastfm": {
     "id": "Chet+Baker/_/Leaving",

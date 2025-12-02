@@ -2,7 +2,7 @@
   "youtubeId": "CVrIFxGNRb0",
   "title": "Ahhhhhhh",
   "artist": "DJ Paypal",
-  "lastFetched": "2025-11-19T14:15:15.798Z",
+  "lastFetched": "2025-12-02T00:50:18.181Z",
   "odesli": {
     "amazonMusic": "B073S63JKC",
     "amazonStore": "B073S63JKC",
@@ -24,6 +24,15 @@
   },
   "musicbrainz": {
     "trackMbid": "2a9bd766-9d92-467a-9add-c311b6a30e79",
-    "artistMbid": "e464e642-06c6-4fa0-b3c5-4a81191b0f38"
+    "artistMbid": "e464e642-06c6-4fa0-b3c5-4a81191b0f38",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "bandcamp": "https://djpaypal.bandcamp.com/",
+      "discogs": "3196082",
+      "spotify": "4hH4fEXPg3qpTDlmdNOO01",
+      "deezer": "4267277",
+      "soundcloud": "https://soundcloud.com/djpaypal",
+      "wikidata": "Q22277594"
+    }
   }
 }

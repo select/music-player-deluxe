@@ -2,7 +2,7 @@
   "youtubeId": "Epj84QVw2rc",
   "title": "Come Undone",
   "artist": "Duran Duran",
-  "lastFetched": "2025-11-19T05:47:21.556Z",
+  "lastFetched": "2025-12-02T00:54:29.329Z",
   "odesli": {
     "amazonMusic": "B00LIQLC5M",
     "amazonStore": "B00LIQLC5M",
@@ -26,7 +26,21 @@
       "rock"
     ],
     "trackMbid": "7a777d0e-2639-47f5-bfcb-347a669a9396",
-    "artistMbid": "1a1cd7f3-e5df-4eca-bae2-2757c9e656b5"
+    "artistMbid": "1a1cd7f3-e5df-4eca-bae2-2757c9e656b5",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000128440",
+      "discogs": "10262",
+      "spotify": "0lZoBs4Pzo7R89JM9lxwoT",
+      "deezer": "596",
+      "lastfm": "Duran+Duran",
+      "genius": "Duran-duran",
+      "rateyourmusic": "duran_duran",
+      "soundcloud": "https://soundcloud.com/duranduran",
+      "napster": "duran-duran",
+      "wikidata": "Q58381",
+      "youtube": "UC7d6hou24HcG5sA2lwTgV0A"
+    }
   },
   "lastfm": {
     "id": "Duran+Duran/_/Come+Undone",

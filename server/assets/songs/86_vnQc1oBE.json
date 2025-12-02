@@ -2,7 +2,7 @@
   "youtubeId": "86_vnQc1oBE",
   "title": "When The Curtain Falls",
   "artist": "Greta Van Fleet",
-  "lastFetched": "2025-11-23T16:29:51.590Z",
+  "lastFetched": "2025-12-02T00:44:16.396Z",
   "odesli": {
     "amazonMusic": "B07H4754NS",
     "amazonStore": "B07H4754NS",
@@ -30,7 +30,23 @@
       "rock"
     ],
     "trackMbid": "8bd8d9a9-c365-4737-91a2-ac4b551791e3",
-    "artistMbid": "0be22557-d8c7-4706-a531-625c4c570162"
+    "artistMbid": "0be22557-d8c7-4706-a531-625c4c570162",
+    "releasedAt": "2022-04-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003612630",
+      "bandcamp": "https://gretavanfleetmusic.bandcamp.com/",
+      "discogs": "5880038",
+      "spotify": "4NpFxQe2UvRCAjto3JqlSl",
+      "deezer": "5674606",
+      "lastfm": "Greta+Van+Fleet",
+      "genius": "Greta-van-fleet",
+      "rateyourmusic": "greta-van-fleet",
+      "soundcloud": "https://soundcloud.com/gretavanfleet",
+      "napster": "greta-van-fleet",
+      "wikidata": "Q30636835",
+      "youtube": "UCX2_tsfS1lWaNg26UUuWrxA"
+    }
   },
   "lastfm": {
     "id": "Greta+Van+Fleet/_/When+The+Curtain+Falls",

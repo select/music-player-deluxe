@@ -2,7 +2,7 @@
   "youtubeId": "1fa_npv6y9I",
   "title": "El Azul",
   "artist": "Junior H",
-  "lastFetched": "2025-11-30T23:15:59.262Z",
+  "lastFetched": "2025-12-02T00:35:18.239Z",
   "odesli": {
     "appleMusic": "1670252659",
     "itunes": "1670252659",
@@ -29,6 +29,16 @@
     "artistGenres": [
       "corrido tumbado",
       "regional mexicano"
-    ]
+    ],
+    "releasedAt": "2023-02-10",
+    "artistCountry": "MX",
+    "externalIdsArtist": {
+      "allmusic": "mn0003932342",
+      "discogs": "8180624",
+      "spotify": "7Gi6gjaWy3DxyilpF1a8Is",
+      "deezer": "54047652",
+      "soundcloud": "https://soundcloud.com/juniorh-music",
+      "wikidata": "Q109569656"
+    }
   }
 }

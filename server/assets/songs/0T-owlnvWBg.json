@@ -3,7 +3,7 @@
   "artist": "Redman",
   "duration": 188,
   "youtubeId": "0T-owlnvWBg",
-  "lastFetched": "2025-11-19T03:34:39.777Z",
+  "lastFetched": "2025-12-02T00:33:32.580Z",
   "odesli": {
     "amazonMusic": "B073NK8F1T",
     "amazonStore": "B073NK8F1T",
@@ -23,7 +23,18 @@
     ],
     "trackMbid": "fabfd12b-c160-4f4e-b537-4356be993722",
     "artistMbid": "1f1f6737-b930-46fc-8d25-110bb99f7490",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2005",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000456134",
+      "discogs": "157653",
+      "spotify": "7xTKLpo7UCzXSnlH7fOIoM",
+      "deezer": "7541",
+      "genius": "Redman",
+      "rateyourmusic": "redman",
+      "wikidata": "Q313138"
+    }
   },
   "lastfm": {
     "id": "Redman/_/Funkorama",

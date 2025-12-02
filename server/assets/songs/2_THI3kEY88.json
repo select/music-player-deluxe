@@ -2,7 +2,7 @@
   "youtubeId": "2_THI3kEY88",
   "title": "Pop Machine",
   "artist": "RP Boo",
-  "lastFetched": "2025-11-30T22:56:43.795Z",
+  "lastFetched": "2025-12-02T00:36:27.916Z",
   "odesli": {
     "amazonMusic": "B0BX1T54TM",
     "amazonStore": "B0BX1T54TM",
@@ -29,6 +29,18 @@
   "musicbrainz": {
     "artistMbid": "55ccebaa-109c-437d-a533-44cbef54a08d",
     "trackMbid": "b22cc0ff-bb8d-4e74-888e-b91472c74a7d",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-05-12",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002573983",
+      "bandcamp": "https://rpboo.bandcamp.com/",
+      "discogs": "400544",
+      "spotify": "678aHai0twQ5ZJcqO1KYWl",
+      "lastfm": "RP+Boo",
+      "rateyourmusic": "rp-boo",
+      "soundcloud": "https://soundcloud.com/rp_boo",
+      "wikidata": "Q41556490"
+    }
   }
 }

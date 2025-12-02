@@ -2,7 +2,7 @@
   "youtubeId": "F5zE7knOHTo",
   "title": "iconic storage",
   "artist": "Ryuichi Sakamoto",
-  "lastFetched": "2025-11-30T22:59:26.985Z",
+  "lastFetched": "2025-12-02T00:54:51.248Z",
   "ai": {
     "title": "iconic storage",
     "artist": "Ryuichi Sakamoto"
@@ -22,6 +22,19 @@
       "japanese classical",
       "modern classical",
       "progressive electronic"
-    ]
+    ],
+    "releasedAt": "1986-02-25",
+    "artistCountry": "JP",
+    "externalIdsArtist": {
+      "allmusic": "mn0000587608",
+      "discogs": "5087",
+      "spotify": "1tcgfoMTT1szjUeaikxRjA",
+      "deezer": "62996",
+      "lastfm": "%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80",
+      "genius": "Ryuichi-sakamoto",
+      "rateyourmusic": "ryuichi-sakamoto",
+      "wikidata": "Q345494",
+      "youtube": "UCjAFg9QWPzjRgFI7RpLVu_A"
+    }
   }
 }

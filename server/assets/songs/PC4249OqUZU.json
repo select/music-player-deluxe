@@ -2,7 +2,7 @@
   "youtubeId": "PC4249OqUZU",
   "title": "Broke",
   "artist": "Scott Lavene",
-  "lastFetched": "2025-11-30T22:21:01.359Z",
+  "lastFetched": "2025-12-02T01:11:12.508Z",
   "odesli": {
     "amazonMusic": "B0BGZYRPTV",
     "amazonStore": "B0BGZYRPTV",
@@ -34,6 +34,12 @@
     "releaseCount": 2,
     "artistGenres": [
       "punk"
-    ]
+    ],
+    "releasedAt": "2019-06-07",
+    "externalIdsArtist": {
+      "bandcamp": "https://scottlavene.bandcamp.com/",
+      "discogs": "5329491",
+      "spotify": "6dpTFwhi4Z3QIJeOxjZB3n"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "1WefRFZlbkc",
   "title": "Duck and Cover",
   "artist": "Pepper Coyote",
-  "lastFetched": "2025-11-23T16:26:46.362Z",
+  "lastFetched": "2025-12-02T00:34:50.219Z",
   "odesli": {
     "amazonMusic": "B085B7CBSH",
     "amazonStore": "B085B7CBSH",
@@ -37,7 +37,13 @@
       "rock"
     ],
     "trackMbid": "015d0585-5888-421a-ad6a-e6b3df68b2e5",
-    "artistMbid": "24092fc2-3e6a-4d7a-8f43-8673f95517f4"
+    "artistMbid": "24092fc2-3e6a-4d7a-8f43-8673f95517f4",
+    "externalIdsArtist": {
+      "bandcamp": "https://peppercoyote.bandcamp.com/",
+      "discogs": "4705702",
+      "spotify": "4BaRyymiAjO4Q0PPG1dai5",
+      "deezer": "13714859"
+    }
   },
   "lastfm": {
     "id": "Pepper+Coyote/_/Duck+and+Cover",

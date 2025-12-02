@@ -2,7 +2,7 @@
   "youtubeId": "NdL_uljFZqU",
   "title": "God Put A Smile Upon Your Face (Live In Sydney)",
   "artist": "Coldplay",
-  "lastFetched": "2025-11-23T16:36:57.263Z",
+  "lastFetched": "2025-12-02T01:08:33.877Z",
   "odesli": {
     "amazonMusic": "B00KHDYBU0",
     "amazonStore": "B00KHDYBU0",
@@ -40,7 +40,21 @@
       "piano rock"
     ],
     "trackMbid": "6810792b-7a47-401a-866d-9b508586d3d3",
-    "artistMbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234"
+    "artistMbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000775877",
+      "discogs": "29735",
+      "spotify": "4gzpq5DPGxSnKTe4SA8HAU",
+      "deezer": "892",
+      "lastfm": "Coldplay",
+      "genius": "Coldplay",
+      "rateyourmusic": "coldplay",
+      "soundcloud": "https://soundcloud.com/coldplay",
+      "napster": "coldplay",
+      "wikidata": "Q45188",
+      "youtube": "UCIaFw5VBEK8qaW6nRpx_qnw"
+    }
   },
   "lastfm": {
     "id": "Coldplay/_/God+Put+A+Smile+Upon+Your+Face+(Live+In+Sydney)",

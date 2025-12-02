@@ -1,7 +1,7 @@
 {
   "youtubeId": "KJHr2DlRog8",
   "title": "Colin Stetson - Spindrift (Official Video)",
-  "lastFetched": "2025-11-30T20:30:06.588Z",
+  "lastFetched": "2025-12-02T01:03:11.675Z",
   "ai": {
     "title": "Spindrift",
     "artist": "Colin Stetson"
@@ -33,6 +33,18 @@
       "jazz",
       "new age",
       "nu jazz"
-    ]
+    ],
+    "releasedAt": "2017-04-28",
+    "externalIdsArtist": {
+      "allmusic": "mn0000636213",
+      "bandcamp": "https://colinstetson.bandcamp.com/",
+      "discogs": "262225",
+      "spotify": "4G6HhUUQ1LgyYnA2WJppf8",
+      "deezer": "1234202",
+      "rateyourmusic": "colin_stetson",
+      "soundcloud": "https://soundcloud.com/colin-stetson",
+      "wikidata": "Q2982657",
+      "youtube": "UCCJMjLN3ebaMOFB7nV4JTeA"
+    }
   }
 }

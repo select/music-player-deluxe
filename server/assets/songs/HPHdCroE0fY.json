@@ -2,7 +2,7 @@
   "youtubeId": "HPHdCroE0fY",
   "title": "Onprangering",
   "artist": "die ärzte",
-  "lastFetched": "2025-11-30T21:45:53.192Z",
+  "lastFetched": "2025-12-02T00:58:54.375Z",
   "odesli": {
     "amazonMusic": "B08C268ZX8",
     "amazonStore": "B08C268ZX8",
@@ -42,6 +42,20 @@
       "punk",
       "punk rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2000-10-23",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000823202",
+      "discogs": "45317",
+      "spotify": "0cbL6CYnRqpAxf1evwUVQD",
+      "deezer": "2154",
+      "lastfm": "Die+%C3%84rzte",
+      "genius": "Die-arzte",
+      "rateyourmusic": "die_arzte",
+      "soundcloud": "https://soundcloud.com/diearzte",
+      "wikidata": "Q32645",
+      "youtube": "UCsJsxj9pPP8sZuaRiaNAavQ"
+    }
   }
 }

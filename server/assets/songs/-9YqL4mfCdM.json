@@ -1,7 +1,7 @@
 {
   "youtubeId": "-9YqL4mfCdM",
   "title": "3TEETH  -  NIHIL",
-  "lastFetched": "2025-11-30T20:02:59.727Z",
+  "lastFetched": "2025-12-02T00:31:57.056Z",
   "ai": {
     "title": "NIHIL",
     "artist": "3TEETH"
@@ -27,6 +27,29 @@
       "electro-industrial",
       "industrial metal",
       "industrial rock"
-    ]
+    ],
+    "releasedAt": "2013-11-11",
+    "artistCountry": "Los Angeles",
+    "externalIds": {
+      "allmusic": "mn0003225831",
+      "bandcamp": "https://3teeth.bandcamp.com/",
+      "discogs": "3807540",
+      "spotify": "4GHi4xklo0FT0l2CNuLFh2",
+      "lastfm": "3Teeth",
+      "soundcloud": "3teeth",
+      "youtube": "UC5zWjQAxayKEJnbxbSuR7ug"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003225831",
+      "bandcamp": "https://3teeth.bandcamp.com/",
+      "discogs": "3807540",
+      "spotify": "4GHi4xklo0FT0l2CNuLFh2",
+      "deezer": "7029359",
+      "lastfm": "3Teeth",
+      "rateyourmusic": "3teeth",
+      "soundcloud": "https://soundcloud.com/3teeth",
+      "youtube": "UC5zWjQAxayKEJnbxbSuR7ug",
+      "wikidata": "Q22906096"
+    }
   }
 }

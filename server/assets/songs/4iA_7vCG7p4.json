@@ -1,7 +1,7 @@
 {
   "youtubeId": "4iA_7vCG7p4",
   "title": "Canned Heat : Poor Moon",
-  "lastFetched": "2025-11-30T20:41:45.157Z",
+  "lastFetched": "2025-12-02T00:26:30.982Z",
   "ai": {
     "title": "Poor Moon",
     "artist": "Canned Heat"
@@ -37,6 +37,17 @@
       "electric blues",
       "folk rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1969",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "5ua0oMnt220HUE3wutKKT1"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000946137",
+      "discogs": "269094",
+      "spotify": "27a0GiCba9K9lnkKidroFU",
+      "lastfm": "Canned+Heat"
+    }
   }
 }

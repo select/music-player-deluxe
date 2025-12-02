@@ -2,7 +2,7 @@
   "youtubeId": "QC2F-2H2Piw",
   "title": "Citizen Erased",
   "artist": "Muse",
-  "lastFetched": "2025-11-30T22:47:05.519Z",
+  "lastFetched": "2025-12-02T01:12:35.005Z",
   "lastfm": {
     "title": "Citizen Erased",
     "artist": "Muse",
@@ -41,6 +41,22 @@
       "progressive rock",
       "rock",
       "symphonic rock"
-    ]
+    ],
+    "releasedAt": "2002-06-26",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000514563",
+      "discogs": "1003",
+      "spotify": "12Chz98pHFMPJEknJQMWvI",
+      "deezer": "705",
+      "lastfm": "Muse",
+      "genius": "Muse",
+      "rateyourmusic": "muse",
+      "soundcloud": "https://soundcloud.com/muse",
+      "qobuz": "75739",
+      "napster": "muse-7035",
+      "wikidata": "Q22151",
+      "youtube": "UCw8jIQzB2mdvvo_CVplLxug"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "OJWJE0x7T4Q",
   "title": "Peter Gabriel - Sledgehammer (HD version)",
-  "lastFetched": "2025-11-30T19:47:57.352Z",
+  "lastFetched": "2025-12-02T01:09:54.661Z",
   "ai": {
     "title": "Sledgehammer",
     "artist": "Peter Gabriel"
@@ -45,6 +45,21 @@
       "rock",
       "soft rock",
       "worldbeat"
-    ]
+    ],
+    "releasedAt": "2012-10-22",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000842802",
+      "bandcamp": "https://petergabriel.bandcamp.com/",
+      "discogs": "11136",
+      "spotify": "7C4sUpWGlTy7IANjruj02I",
+      "deezer": "259472582",
+      "lastfm": "Peter+Gabriel",
+      "genius": "Peter-gabriel",
+      "rateyourmusic": "peter-gabriel",
+      "soundcloud": "https://soundcloud.com/peter-gabriel-official",
+      "wikidata": "Q175195",
+      "youtube": "UC7dI7qJoDsMd388DTtcwIZg"
+    }
   }
 }

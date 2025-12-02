@@ -2,7 +2,7 @@
   "youtubeId": "DC6JppqHkaM",
   "title": "春を告げる",
   "artist": "Yama",
-  "lastFetched": "2025-11-19T08:08:30.030Z",
+  "lastFetched": "2025-12-02T00:51:36.310Z",
   "odesli": {
     "audiomack": "9410227",
     "deezer": "920971322",
@@ -23,6 +23,9 @@
   },
   "musicbrainz": {
     "trackMbid": "82428632-4cf5-4bac-be57-4719d48cdfec",
-    "artistMbid": "108a5d87-929c-4357-93b5-0c825e64b8d6"
+    "artistMbid": "108a5d87-929c-4357-93b5-0c825e64b8d6",
+    "externalIdsArtist": {
+      "soundcloud": "https://soundcloud.com/yama00"
+    }
   }
 }

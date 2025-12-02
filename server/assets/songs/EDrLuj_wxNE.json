@@ -2,7 +2,7 @@
   "youtubeId": "EDrLuj_wxNE",
   "title": "89/90",
   "artist": "Dÿse",
-  "lastFetched": "2025-11-19T09:50:32.574Z",
+  "lastFetched": "2025-12-02T00:53:27.879Z",
   "odesli": {
     "amazonMusic": "B0B194S99M",
     "amazonStore": "B0B194S99M",
@@ -31,6 +31,15 @@
   },
   "musicbrainz": {
     "trackMbid": "20482b25-384d-4aa1-b8bf-82f739948911",
-    "artistMbid": "90d69386-fe84-4d5f-88b8-619ac71cc8bc"
+    "artistMbid": "90d69386-fe84-4d5f-88b8-619ac71cc8bc",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001311692",
+      "discogs": "967850",
+      "spotify": "4oNw4xsW0dnOW2DtLtiY6S",
+      "deezer": "277674",
+      "rateyourmusic": "dyse",
+      "wikidata": "Q35840728"
+    }
   }
 }

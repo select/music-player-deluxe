@@ -4,7 +4,7 @@
   "album": "90 Club Hits From the 90’s",
   "duration": 191,
   "youtubeId": "LCzgsZi_zfg",
-  "lastFetched": "2025-11-19T03:41:17.504Z",
+  "lastFetched": "2025-12-02T01:04:47.114Z",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -14,7 +14,17 @@
     ],
     "trackMbid": "f061ee98-f82b-43a2-b8e1-ffa3db605f26",
     "artistMbid": "65fe9ece-5a3f-442d-8d6d-34f58b1dce23",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2007",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000159805",
+      "discogs": "12591",
+      "spotify": "6C5gMdsVmZHJG6yJuC68sp",
+      "deezer": "6913",
+      "lastfm": "Beats+International",
+      "wikidata": "Q813312"
+    }
   },
   "lastfm": {
     "id": "Beats+International/_/Dub+Be+Good+To+Me",

@@ -2,7 +2,7 @@
   "youtubeId": "MYCRIykylOc",
   "title": "Spill The Wine",
   "artist": "Eric Burdon",
-  "lastFetched": "2025-11-30T21:43:35.140Z",
+  "lastFetched": "2025-12-02T01:06:58.918Z",
   "odesli": {
     "amazonMusic": "B073T3ZK18",
     "amazonStore": "B073T3ZK18",
@@ -42,6 +42,16 @@
     "artistGenres": [
       "blues",
       "rock"
-    ]
+    ],
+    "releasedAt": "2002",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000154548",
+      "discogs": "188393",
+      "spotify": "3miNucraVWk4hdVsIxn7id",
+      "deezer": "5858",
+      "rateyourmusic": "eric_burdon",
+      "wikidata": "Q44648"
+    }
   }
 }

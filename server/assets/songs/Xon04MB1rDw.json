@@ -1,0 +1,32 @@
+{
+  "youtubeId": "Xon04MB1rDw",
+  "title": "Justin King - Phunkdified",
+  "lastFetched": "2025-12-01T11:51:01.641Z",
+  "ai": {
+    "title": "Phunkdified",
+    "artist": "Justin King"
+  },
+  "lastfm": {
+    "id": "Justin+King/_/Phunkdified",
+    "listeners": 11993,
+    "playcount": 39221,
+    "title": "Phunkdified",
+    "artist": "Justin King",
+    "mbid": "d367efdf-1327-36c2-ac6c-45fdce369736",
+    "artistMbid": "799dbb3f-d07e-4a72-a71f-9d2bbd86ab58",
+    "tags": [
+      "guitar",
+      "acoustic guitar",
+      "instrumental",
+      "acoustic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3eaf770d-24ab-47db-a9a7-e35ff328ddfc",
+    "artistMbid": "799dbb3f-d07e-4a72-a71f-9d2bbd86ab58",
+    "releaseCount": 1,
+    "genres": [
+      "instrumental"
+    ]
+  }
+}

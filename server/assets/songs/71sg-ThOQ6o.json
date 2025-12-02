@@ -2,7 +2,7 @@
   "youtubeId": "71sg-ThOQ6o",
   "title": "Drogen nehmen und rumfahren",
   "artist": "Die Zukunft",
-  "lastFetched": "2025-11-30T22:23:44.057Z",
+  "lastFetched": "2025-12-02T00:42:22.888Z",
   "odesli": {
     "amazonMusic": "B007Z2LKLY",
     "amazonStore": "B007Z2LKLY",
@@ -29,6 +29,12 @@
     "releaseCount": 2,
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "releasedAt": "2010-04-30",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "1791730",
+      "wikidata": "Q1217782"
+    }
   }
 }

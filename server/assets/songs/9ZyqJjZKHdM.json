@@ -2,7 +2,7 @@
   "youtubeId": "9ZyqJjZKHdM",
   "title": "Theme From a NOFX Album",
   "artist": "NOFX",
-  "lastFetched": "2025-11-23T16:30:21.162Z",
+  "lastFetched": "2025-12-02T00:46:26.140Z",
   "odesli": {
     "soundcloud": "nofx-official/theme-from-a-nofx-album",
     "spotify": "3FHpMTn4QTrvmC4CuUpcLk",
@@ -31,7 +31,21 @@
       "punk rock"
     ],
     "trackMbid": "0ae832d9-25c5-3511-8636-30afb10140b2",
-    "artistMbid": "dcaa4f81-bfb7-44eb-8594-4e74f004b6e4"
+    "artistMbid": "dcaa4f81-bfb7-44eb-8594-4e74f004b6e4",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000317545",
+      "bandcamp": "https://nofx.bandcamp.com/",
+      "discogs": "253281",
+      "spotify": "4S2yOnmsWW97dT87yVoaSZ",
+      "deezer": "941",
+      "lastfm": "NOFX",
+      "genius": "Nofx",
+      "rateyourmusic": "nofx",
+      "soundcloud": "https://soundcloud.com/nofx-official",
+      "napster": "nofx",
+      "wikidata": "Q265222"
+    }
   },
   "lastfm": {
     "id": "NOFX/_/Theme+From+a+NOFX+Album",

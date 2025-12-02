@@ -2,7 +2,7 @@
   "youtubeId": "B1jJ7Wg7KzE",
   "title": "Krøterveg Te Helvete",
   "artist": "Kvelertak",
-  "lastFetched": "2025-11-23T16:31:01.500Z",
+  "lastFetched": "2025-12-02T00:48:10.641Z",
   "odesli": {
     "amazonMusic": "B0F18GNZNL",
     "amazonStore": "B0F18GNZNL",
@@ -31,7 +31,22 @@
       "hardcore punk"
     ],
     "trackMbid": "adb59bff-f6e7-418f-87e6-2dcdaa552ef9",
-    "artistMbid": "61fdc79c-df1a-4999-8d2f-668f18c11283"
+    "artistMbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+    "releasedAt": "2023-09-07",
+    "artistCountry": "NO",
+    "externalIdsArtist": {
+      "allmusic": "mn0002526582",
+      "bandcamp": "https://kvelertakofnorway.bandcamp.com/",
+      "discogs": "1868277",
+      "spotify": "0VE0GTaTSeeGSzrQpLmeb9",
+      "deezer": "418420",
+      "lastfm": "Kvelertak",
+      "rateyourmusic": "kvelertak",
+      "soundcloud": "https://soundcloud.com/kvelertak",
+      "napster": "kvelertak",
+      "wikidata": "Q1794838",
+      "youtube": "UC1Dpe-1cIVjpC7p4rtT-FOA"
+    }
   },
   "lastfm": {
     "id": "Kvelertak/_/Kr%C3%B8terveg+Te+Helvete",

@@ -1,0 +1,56 @@
+{
+  "youtubeId": "Qxrax9iYOBo",
+  "title": "Radiohead - Let Down",
+  "lastFetched": "2025-12-02T01:13:33.478Z",
+  "ai": {
+    "title": "Let Down",
+    "artist": "Radiohead"
+  },
+  "lastfm": {
+    "summary": "\"God just walked through the room... It was an incredibly spiritual moment\", said guitarist Ed O'Brien in a 2020 Reddit AMA, of the fifth track on Radiohead's OK Computer. \"Let Down\" was recorded at 3 a.m. in the ballroom of St Catherine's Court, when the band found inspiration. It makes extensive use of the natural reverberation of the location. This song is best known for its third verse, where Thom Yorke duets with himself across the stereo field, accompanied by the sounds of a ZX Spectrum computer. <a href=\"http://www.last.fm/music/Radiohead/_/Let+Down\">Read more on Last.fm</a>.",
+    "id": "Radiohead/_/Let+Down",
+    "listeners": 2317525,
+    "playcount": 34767375,
+    "tags": [
+      "alternative",
+      "alternative rock",
+      "rock",
+      "radiohead",
+      "beautiful"
+    ],
+    "title": "Let Down",
+    "artist": "Radiohead"
+  },
+  "musicbrainz": {
+    "trackMbid": "04e0270b-16c8-44ba-a7fe-dc27ec6a86c4",
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock",
+      "art pop",
+      "art rock",
+      "electronic",
+      "electronica",
+      "experimental",
+      "experimental rock",
+      "indie rock",
+      "post-britpop",
+      "rock"
+    ],
+    "releasedAt": "1997",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000326249",
+      "bandcamp": "https://radiohead.bandcamp.com/",
+      "discogs": "3840",
+      "spotify": "4Z8W4fKeB5YxbusRsdQVPb",
+      "deezer": "399",
+      "lastfm": "Radiohead",
+      "genius": "Radiohead",
+      "rateyourmusic": "radiohead",
+      "soundcloud": "https://soundcloud.com/radiohead",
+      "wikidata": "Q44190",
+      "youtube": "UCr_iyUANcn9OX_yy9piYoLw"
+    }
+  }
+}

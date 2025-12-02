@@ -2,7 +2,7 @@
   "youtubeId": "DQOc0wcF5CI",
   "title": "Foot Wrong",
   "artist": "Moin",
-  "lastFetched": "2025-11-30T22:28:38.966Z",
+  "lastFetched": "2025-12-02T00:52:09.809Z",
   "odesli": {
     "amazonMusic": "B0BDR43BWY",
     "amazonStore": "B0BDR43BWY",
@@ -35,6 +35,15 @@
     "releaseCount": 3,
     "artistGenres": [
       "experimental rock"
-    ]
+    ],
+    "releasedAt": "2022-10-28",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://m-o-i-n.bandcamp.com/",
+      "discogs": "2835065",
+      "spotify": "7xgtUknw8tyUhWkSnMjhti",
+      "deezer": "4028980",
+      "rateyourmusic": "moin_f1"
+    }
   }
 }

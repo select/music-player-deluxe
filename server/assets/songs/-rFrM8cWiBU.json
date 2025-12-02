@@ -4,7 +4,7 @@
   "album": "Zoup",
   "duration": 307,
   "youtubeId": "-rFrM8cWiBU",
-  "lastFetched": "2025-11-23T16:25:50.209Z",
+  "lastFetched": "2025-12-02T00:32:32.383Z",
   "odesli": {
     "amazonMusic": "B0CKZK2MH3",
     "amazonStore": "B0CKZK2MH3",
@@ -24,7 +24,23 @@
       "krautrock"
     ],
     "trackMbid": "ded1dd33-1f53-49ef-9fcb-7ad4dd11f9cb",
-    "artistMbid": "d634f58c-aa2c-4430-9c85-b8e0d1c66878"
+    "artistMbid": "d634f58c-aa2c-4430-9c85-b8e0d1c66878",
+    "releasedAt": "2023-11-24",
+    "artistCountry": "DE",
+    "externalIds": {
+      "allmusic": "mn0000102542",
+      "bandcamp": "https://kraan.bandcamp.com/",
+      "discogs": "146256",
+      "spotify": "1yTEkYjWeeo4ANkbvUTiFG"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000102542",
+      "bandcamp": "https://kraan.bandcamp.com/",
+      "discogs": "146256",
+      "spotify": "1yTEkYjWeeo4ANkbvUTiFG",
+      "deezer": "244934",
+      "wikidata": "Q687257"
+    }
   },
   "lastfm": {
     "id": "Kraan/_/Norwegen+Dia+(Acoustic+Version)",

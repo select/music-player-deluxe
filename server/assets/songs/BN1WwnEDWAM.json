@@ -2,7 +2,7 @@
   "youtubeId": "BN1WwnEDWAM",
   "title": "Should I Stay or Should I Go",
   "artist": "The Clash",
-  "lastFetched": "2025-11-30T23:12:06.734Z",
+  "lastFetched": "2025-12-02T00:48:37.561Z",
   "odesli": {
     "amazonMusic": "B00EQRHZNI",
     "amazonStore": "B00EQRHZNI",
@@ -56,6 +56,17 @@
       "punk",
       "punk rock",
       "reggae rock"
-    ]
+    ],
+    "releasedAt": "1982-05-14",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000075747",
+      "discogs": "29890",
+      "spotify": "3RGLhK1IP9jnYFH4BRFJBS",
+      "deezer": "2",
+      "lastfm": "The+Clash",
+      "rateyourmusic": "the_clash",
+      "wikidata": "Q125603"
+    }
   }
 }

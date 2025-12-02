@@ -2,7 +2,7 @@
   "youtubeId": "SfPQB-mtQDY",
   "title": "TV-Glotzer (White Punks On Dope)",
   "artist": "Nina Hagen",
-  "lastFetched": "2025-11-23T16:39:34.139Z",
+  "lastFetched": "2025-12-02T01:16:48.361Z",
   "odesli": {
     "amazonMusic": "B0DMFS2SRM",
     "amazonStore": "B0DMFS2SRM",
@@ -32,7 +32,18 @@
       "punk rock"
     ],
     "trackMbid": "0b235cb7-fe09-3b21-b517-21548420b0e5",
-    "artistMbid": "e4d32f51-bc57-42a4-8165-b80f7a86496d"
+    "artistMbid": "e4d32f51-bc57-42a4-8165-b80f7a86496d",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000414016",
+      "discogs": "53800",
+      "spotify": "7xZHrltZh8zIRvjimgABvj",
+      "deezer": "8299",
+      "lastfm": "Nina+Hagen",
+      "rateyourmusic": "nina_hagen",
+      "wikidata": "Q159099",
+      "youtube": "NinaHagen_Official"
+    }
   },
   "lastfm": {
     "id": "Nina+Hagen/_/TV-Glotzer+(White+Punks+On+Dope)",

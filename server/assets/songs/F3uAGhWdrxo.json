@@ -2,7 +2,7 @@
   "youtubeId": "F3uAGhWdrxo",
   "title": "Die Hesse komme!",
   "artist": "Rodgau Monotones",
-  "lastFetched": "2025-11-23T16:33:17.764Z",
+  "lastFetched": "2025-12-02T00:54:48.754Z",
   "odesli": {
     "amazonMusic": "B000ZN39X2",
     "amazonStore": "B000ZN39X2",
@@ -24,7 +24,14 @@
       "rock"
     ],
     "trackMbid": "21502147-9b5a-4a09-bad9-27e4f3eeb255",
-    "artistMbid": "da014b60-38aa-422c-9f65-e3f0bd0e39c2"
+    "artistMbid": "da014b60-38aa-422c-9f65-e3f0bd0e39c2",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "215519",
+      "deezer": "64122",
+      "lastfm": "Rodgau+Monotones",
+      "wikidata": "Q1645778"
+    }
   },
   "lastfm": {
     "id": "Rodgau+Monotones/_/Die+Hesse+komme%21",

@@ -2,7 +2,7 @@
   "youtubeId": "4SA0Aa54-tQ",
   "title": "Lunatic",
   "artist": "Electric Moon",
-  "lastFetched": "2025-11-30T19:42:58.154Z",
+  "lastFetched": "2025-12-02T00:38:37.763Z",
   "odesli": {
     "amazonMusic": "B0FNMW14GF",
     "amazonStore": "B0FNMW14GF",
@@ -43,6 +43,18 @@
       "psychedelic rock",
       "rock",
       "space rock"
-    ]
+    ],
+    "releasedAt": "2010",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002949031",
+      "bandcamp": "https://electric-moon.bandcamp.com/",
+      "discogs": "2058206",
+      "spotify": "54tu8zFRJ8wFZrFUqps70r",
+      "deezer": "2695461",
+      "rateyourmusic": "electric_moon",
+      "soundcloud": "https://soundcloud.com/electricmoon",
+      "wikidata": "Q16064137"
+    }
   }
 }

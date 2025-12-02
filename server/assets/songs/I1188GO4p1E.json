@@ -2,7 +2,7 @@
   "youtubeId": "I1188GO4p1E",
   "title": "Get Schwifty",
   "artist": "Rick and Morty",
-  "lastFetched": "2025-11-30T23:19:01.446Z",
+  "lastFetched": "2025-12-02T00:59:48.857Z",
   "lastfm": {
     "id": "Rick+and+Morty/_/Get+Schwifty",
     "listeners": 1218,
@@ -18,6 +18,14 @@
   "musicbrainz": {
     "trackMbid": "115e50cd-9aa1-4b58-a6da-8855554ddee6",
     "artistMbid": "9ed1acdb-5b8d-4da5-950b-6d5607536b8b",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2015-10-19",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "6619024",
+      "spotify": "2M0kKcVuBsLFH5d12pW215",
+      "deezer": "15007857",
+      "wikidata": "Q15659308"
+    }
   }
 }

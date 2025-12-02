@@ -1,7 +1,7 @@
 {
   "youtubeId": "9El5t5mGEgw",
   "title": "Cli-n-tel - 2030",
-  "lastFetched": "2025-11-30T21:35:11.638Z",
+  "lastFetched": "2025-12-02T00:45:56.224Z",
   "ai": {
     "title": "2030",
     "artist": "Cli-n-tel"
@@ -24,6 +24,10 @@
     "releaseCount": 1,
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2003",
+    "externalIdsArtist": {
+      "discogs": "76348"
+    }
   }
 }

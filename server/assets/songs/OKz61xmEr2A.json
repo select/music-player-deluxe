@@ -2,7 +2,7 @@
   "youtubeId": "OKz61xmEr2A",
   "title": "Raumschiff Love",
   "artist": "David Nesselhauf",
-  "lastFetched": "2025-11-30T21:34:20.282Z",
+  "lastFetched": "2025-12-02T01:09:56.415Z",
   "odesli": {
     "amazonMusic": "B0C24VN17H",
     "amazonStore": "B0C24VN17H",
@@ -31,6 +31,10 @@
   "musicbrainz": {
     "trackMbid": "e36a2ed4-f063-4b60-9914-3a2c8dd75f5a",
     "artistMbid": "91cd43e2-fdf7-4ed2-bc30-38d4d2130a24",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-05-19",
+    "externalIdsArtist": {
+      "discogs": "2580317"
+    }
   }
 }

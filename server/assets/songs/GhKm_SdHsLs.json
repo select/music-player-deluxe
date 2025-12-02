@@ -2,7 +2,7 @@
   "youtubeId": "GhKm_SdHsLs",
   "title": "Generate",
   "artist": "Eric Prydz",
-  "lastFetched": "2025-11-30T21:19:30.461Z",
+  "lastFetched": "2025-12-02T00:58:09.120Z",
   "odesli": {
     "amazonMusic": "B01AXI2V32",
     "amazonStore": "B01AXI2V32",
@@ -47,6 +47,22 @@
       "progressive",
       "progressive house",
       "trance"
-    ]
+    ],
+    "releasedAt": "2015-04-13",
+    "artistCountry": "SE",
+    "externalIdsTrack": {
+      "soundcloud": "https://soundcloud.com/eric-prydz/eric-prydz-generate-out-13th-april"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000184677",
+      "discogs": "16619",
+      "spotify": "5sm0jQ1mq0dusiLtDJ2b4R",
+      "deezer": "30",
+      "lastfm": "Eric+Prydz",
+      "rateyourmusic": "eric_prydz",
+      "soundcloud": "https://soundcloud.com/eric-prydz",
+      "wikidata": "Q155141",
+      "youtube": "UCOjTxt7xBAjh1NraToYYlog"
+    }
   }
 }

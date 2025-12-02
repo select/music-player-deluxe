@@ -3,7 +3,7 @@
   "artist": "Harumi",
   "duration": 214,
   "youtubeId": "0jEoRZ7hRtw",
-  "lastFetched": "2025-11-19T03:51:58.331Z",
+  "lastFetched": "2025-12-02T00:33:56.993Z",
   "odesli": {
     "amazonMusic": "B0BT9XMLNR",
     "amazonStore": "B0BT9XMLNR",
@@ -20,7 +20,15 @@
     ],
     "trackMbid": "4a2d94eb-db3b-4bb7-94f1-850e304443fa",
     "artistMbid": "6752d176-45fb-49e1-9bbc-d4e1ee0738f7",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "1968",
+    "artistCountry": "JP",
+    "externalIdsArtist": {
+      "discogs": "1295925",
+      "spotify": "4ultVGMWqvHvwRHnogpymO",
+      "rateyourmusic": "harumi",
+      "wikidata": "Q112196122"
+    }
   },
   "lastfm": {
     "id": "Harumi/_/Fire+By+The+River",

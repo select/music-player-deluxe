@@ -1,0 +1,59 @@
+{
+  "youtubeId": "RW_3sD2xBFg",
+  "title": "Prophetian",
+  "artist": "Eternal Tears Of Sorrow",
+  "lastFetched": "2025-12-02T01:15:07.401Z",
+  "odesli": {
+    "amazonMusic": "B0BQH52PP9",
+    "amazonStore": "B0BQH52PP9",
+    "pandora": "TR:27402941",
+    "soundcloud": "eternal-tears-of-sorrow/prophetian",
+    "youtube": "RW_3sD2xBFg",
+    "youtubeMusic": "RW_3sD2xBFg"
+  },
+  "lastfm": {
+    "id": "Eternal+Tears+of+Sorrow/_/Prophetian",
+    "listeners": 34617,
+    "playcount": 249678,
+    "title": "Prophetian",
+    "artist": "Eternal Tears of Sorrow",
+    "mbid": "1bb5203d-34b8-3f19-9813-0a2a6ede1d69",
+    "artistMbid": "8b46a7e4-704d-4f8d-973a-a0ab8ea8249b",
+    "tags": [
+      "melodic death metal",
+      "symphonic death metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "591aa5c1-97af-4fac-bf13-76a235d4c540",
+    "artistMbid": "8b46a7e4-704d-4f8d-973a-a0ab8ea8249b",
+    "releaseCount": 9,
+    "genres": [
+      "death metal",
+      "heavy metal",
+      "melodic death metal",
+      "metal",
+      "rock",
+      "symphonic metal"
+    ],
+    "artistGenres": [
+      "death metal",
+      "melodic death metal",
+      "symphonic metal"
+    ],
+    "releasedAt": "2001-10-08",
+    "artistCountry": "FI",
+    "externalIdsArtist": {
+      "allmusic": "mn0000524521",
+      "discogs": "242913",
+      "spotify": "3rdFnKhyWhTivuBFSH4YT3",
+      "deezer": "4024",
+      "lastfm": "Eternal+Tears+of+Sorrow",
+      "genius": "Eternal-tears-of-sorrow",
+      "rateyourmusic": "eternal_tears_of_sorrow",
+      "soundcloud": "https://soundcloud.com/eternal-tears-of-sorrow",
+      "wikidata": "Q377524",
+      "youtube": "UCkxCV8qtdaqVVS7M-PdSLqw"
+    }
+  }
+}

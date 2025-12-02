@@ -2,7 +2,7 @@
   "youtubeId": "Pgum6OT_VH8",
   "title": "Starlight",
   "artist": "Muse",
-  "lastFetched": "2025-11-19T15:06:24.787Z",
+  "lastFetched": "2025-12-02T01:12:08.800Z",
   "odesli": {
     "amazonMusic": "B002CNUSFK",
     "amazonStore": "B002CNUSFK",
@@ -31,7 +31,22 @@
       "Muse"
     ],
     "trackMbid": "7e1f3095-d86b-400c-98b0-a0d919037c54",
-    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090"
+    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000514563",
+      "discogs": "1003",
+      "spotify": "12Chz98pHFMPJEknJQMWvI",
+      "deezer": "705",
+      "lastfm": "Muse",
+      "genius": "Muse",
+      "rateyourmusic": "muse",
+      "soundcloud": "https://soundcloud.com/muse",
+      "qobuz": "75739",
+      "napster": "muse-7035",
+      "wikidata": "Q22151",
+      "youtube": "UCw8jIQzB2mdvvo_CVplLxug"
+    }
   },
   "lastfm": {
     "id": "Muse/_/Starlight",

@@ -2,7 +2,7 @@
   "youtubeId": "PiNt_kQvoag",
   "title": "Do It All Again",
   "artist": "The Neal Morse Band",
-  "lastFetched": "2025-11-23T16:37:55.414Z",
+  "lastFetched": "2025-12-02T01:12:11.058Z",
   "odesli": {
     "amazonMusic": "B0967RD7BK",
     "amazonStore": "B0967RD7BK",
@@ -23,7 +23,20 @@
       "symphonic prog"
     ],
     "trackMbid": "0b8649d7-ea32-477b-9a0e-fe8de17da500",
-    "artistMbid": "38c69101-243a-474b-851a-b82e0a35b173"
+    "artistMbid": "38c69101-243a-474b-851a-b82e0a35b173",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003557367",
+      "discogs": "2306050",
+      "spotify": "18Jf8IdSCQTBGDIZaVKuGi",
+      "deezer": "69211122",
+      "lastfm": "The+Neal+Morse+Band",
+      "genius": "The-neal-morse-band",
+      "rateyourmusic": "the-neal-morse-band",
+      "napster": "the-neal-morse-band",
+      "wikidata": "Q61044526",
+      "youtube": "UCTxiao9veSDCSMkkuC0xThg"
+    }
   },
   "lastfm": {
     "id": "The+Neal+Morse+Band/_/Do+It+All+Again",

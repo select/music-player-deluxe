@@ -1,0 +1,59 @@
+{
+  "youtubeId": "DHEOF_rcND8",
+  "title": "Home",
+  "artist": "Edward Sharpe & The Magnetic Zeros",
+  "lastFetched": "2025-12-02T00:51:43.246Z",
+  "odesli": {
+    "amazonMusic": "B0DBJ33G5B",
+    "amazonStore": "B0DBJ33G5B",
+    "boomplay": "3297466",
+    "appleMusic": "1759972674",
+    "itunes": "1759972674",
+    "soundcloud": "vagrantrecords/40-day-dream",
+    "spotify": "2x1jP9BexWtOKudvuUHbaD",
+    "tidal": "378055874",
+    "yandex": "515897",
+    "youtube": "DHEOF_rcND8",
+    "youtubeMusic": "DHEOF_rcND8"
+  },
+  "lastfm": {
+    "summary": " <a href=\"http://www.last.fm/music/Edward+Sharpe+&+The+Magnetic+Zeros/_/Home\">Read more on Last.fm</a>.",
+    "id": "Edward+Sharpe+&+The+Magnetic+Zeros/_/Home",
+    "listeners": 1216581,
+    "playcount": 11170137,
+    "title": "Home",
+    "artist": "Edward Sharpe & The Magnetic Zeros",
+    "mbid": "f8752c77-6cdf-459f-8f77-0edb7afbcfc2",
+    "tags": [
+      "folk",
+      "indie folk",
+      "indie",
+      "whistling",
+      "upbeat"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "31dfe6cb-9768-4df6-b0f9-8c9f48f8b774",
+    "artistMbid": "4a069029-4f64-4946-b650-01aeb0b55d9d",
+    "releaseCount": 2,
+    "artistGenres": [
+      "folk rock",
+      "indie folk",
+      "neo-psychedelia",
+      "stomp and holler"
+    ],
+    "releasedAt": "2013-03-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000463037",
+      "discogs": "1465726",
+      "spotify": "7giUHu5pv6YTZgSkxxCcgh",
+      "deezer": "419298",
+      "lastfm": "Edward+Sharpe+&+The+Magnetic+Zeros",
+      "genius": "Edward-sharpe-and-the-magnetic-zeros",
+      "rateyourmusic": "edward_sharpe_and_the_magnetic_zeros",
+      "napster": "edward-sharpe-and-the-magnetic-zeros",
+      "wikidata": "Q555623"
+    }
+  }
+}

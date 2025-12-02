@@ -1,7 +1,7 @@
 {
   "youtubeId": "RJKsp9_L24Q",
   "title": "Deodato - Also sprach Zarathustra",
-  "lastFetched": "2025-11-30T21:17:49.584Z",
+  "lastFetched": "2025-12-02T01:14:27.868Z",
   "ai": {
     "title": "Also sprach Zarathustra",
     "artist": "Deodato"
@@ -36,6 +36,17 @@
     ],
     "artistGenres": [
       "jazz"
-    ]
+    ],
+    "releasedAt": "1987",
+    "artistCountry": "BR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000212614",
+      "discogs": "83740",
+      "spotify": "0hE3uA2w3guHeKvuc7BpRr",
+      "deezer": "54703",
+      "lastfm": "Eumir+Deodato",
+      "rateyourmusic": "eumir_deodato",
+      "wikidata": "Q571260"
+    }
   }
 }

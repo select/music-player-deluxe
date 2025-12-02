@@ -2,7 +2,7 @@
   "youtubeId": "Fpu5a0Bl8eY",
   "title": "99 Luftballons",
   "artist": "Nena",
-  "lastFetched": "2025-11-30T22:39:07.341Z",
+  "lastFetched": "2025-12-02T00:56:23.209Z",
   "odesli": {
     "amazonMusic": "B004B4J8PY",
     "amazonStore": "B004B4J8PY",
@@ -38,7 +38,21 @@
       "pop",
       "pop rock",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "1998",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000395187",
+      "discogs": "9259834",
+      "spotify": "6Tz0QRoe083BcOo2YbG9lV",
+      "deezer": "2211",
+      "lastfm": "Nena",
+      "genius": "Nena",
+      "rateyourmusic": "nena",
+      "soundcloud": "https://soundcloud.com/nenaofficialmusic",
+      "wikidata": "Q153996",
+      "youtube": "UCDxXOCnw-unzxH5kMsnIEOA"
+    }
   },
   "lastfm": {
     "id": "Nena/_/99+Luftballons",

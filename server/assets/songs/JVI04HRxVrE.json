@@ -2,7 +2,7 @@
   "youtubeId": "JVI04HRxVrE",
   "title": "Surrender",
   "artist": "Godsmack",
-  "lastFetched": "2025-11-23T16:35:22.866Z",
+  "lastFetched": "2025-12-02T01:02:10.682Z",
   "odesli": {
     "amazonMusic": "B0DZV2CSVN",
     "amazonStore": "B0DZV2CSVN",
@@ -39,7 +39,22 @@
       "metal"
     ],
     "trackMbid": "4f8df84e-f143-446d-a014-5f84ebd45f57",
-    "artistMbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2"
+    "artistMbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2",
+    "releasedAt": "2023-02-24",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000665860",
+      "discogs": "251883",
+      "spotify": "6gZq1Q6bdOxsUPUG1TaFbF",
+      "deezer": "534",
+      "lastfm": "Godsmack",
+      "genius": "Godsmack",
+      "rateyourmusic": "godsmack",
+      "soundcloud": "https://soundcloud.com/godsmack-official",
+      "napster": "godsmack",
+      "wikidata": "Q207306",
+      "youtube": "UCAekf1Wstvqk5LeNNHuMlDg"
+    }
   },
   "lastfm": {
     "id": "Godsmack/_/Surrender",

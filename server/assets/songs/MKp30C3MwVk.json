@@ -2,7 +2,7 @@
   "youtubeId": "MKp30C3MwVk",
   "title": "Tout Petit Moineau",
   "artist": "Igorrr",
-  "lastFetched": "2025-11-30T23:38:07.191Z",
+  "lastFetched": "2025-12-02T01:06:34.159Z",
   "odesli": {
     "amazonMusic": "B0897DFD4P",
     "amazonStore": "B0897DFD4P",
@@ -51,6 +51,25 @@
       "electronic",
       "experimental",
       "idm"
-    ]
+    ],
+    "releasedAt": "2012-12-21",
+    "artistCountry": "FR",
+    "externalIdsTrack": {
+      "spotify": "6DUvpC2bFViefEhZ65NGgk",
+      "deezer": "972192892"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002587287",
+      "bandcamp": "https://igorrr.bandcamp.com/",
+      "discogs": "1028023",
+      "spotify": "2p2uE4i92Dn4DkThfoKIB9",
+      "deezer": "1025520",
+      "lastfm": "Igorrr",
+      "genius": "Igorrr",
+      "rateyourmusic": "igorrr",
+      "soundcloud": "https://soundcloud.com/igorrr",
+      "wikidata": "Q2486120",
+      "youtube": "UC7gJRij98IY_nFfFDrld8yQ"
+    }
   }
 }

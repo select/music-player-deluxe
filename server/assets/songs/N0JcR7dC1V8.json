@@ -2,7 +2,7 @@
   "youtubeId": "N0JcR7dC1V8",
   "title": "Let's Take a Ride",
   "artist": "Kraan",
-  "lastFetched": "2025-11-23T16:36:34.848Z",
+  "lastFetched": "2025-12-02T01:07:27.314Z",
   "musicbrainz": {
     "artistTags": [
       "fusion",
@@ -14,7 +14,16 @@
       "krautrock"
     ],
     "trackMbid": "25ef492f-a094-372e-854c-f1f25baca62b",
-    "artistMbid": "d634f58c-aa2c-4430-9c85-b8e0d1c66878"
+    "artistMbid": "d634f58c-aa2c-4430-9c85-b8e0d1c66878",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000102542",
+      "bandcamp": "https://kraan.bandcamp.com/",
+      "discogs": "146256",
+      "spotify": "1yTEkYjWeeo4ANkbvUTiFG",
+      "deezer": "244934",
+      "wikidata": "Q687257"
+    }
   },
   "lastfm": {
     "id": "Kraan/_/Let%27s+Take+a+Ride",

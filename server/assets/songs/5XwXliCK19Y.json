@@ -2,7 +2,7 @@
   "youtubeId": "5XwXliCK19Y",
   "title": "I'm Only Sleeping",
   "artist": "The Beatles",
-  "lastFetched": "2025-11-23T16:28:24.781Z",
+  "lastFetched": "2025-12-02T00:40:05.667Z",
   "odesli": {
     "amazonMusic": "B07FT7VDWV",
     "amazonStore": "B07FT7VDWV",
@@ -35,7 +35,21 @@
       "pop rock"
     ],
     "trackMbid": "51abf293-b43e-4049-9e6c-ef3f56d4b7b3",
-    "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+    "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000754032",
+      "discogs": "82730",
+      "spotify": "3WrFJ7ztbogyGnTHbHJFl2",
+      "deezer": "1",
+      "lastfm": "The+Beatles",
+      "genius": "The-beatles",
+      "rateyourmusic": "the-beatles",
+      "soundcloud": "https://soundcloud.com/thebeatles",
+      "napster": "the-beatles",
+      "wikidata": "Q1299",
+      "youtube": "UC2XdaAVUannpujzv32jcouQ"
+    }
   },
   "lastfm": {
     "id": "The+Beatles/_/I%27m+Only+Sleeping",

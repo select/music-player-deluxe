@@ -1,0 +1,43 @@
+{
+  "youtubeId": "w7KA2LSvsfM",
+  "title": "Wer Sagt Denn Das?",
+  "artist": "Deichkind",
+  "lastFetched": "2025-12-01T12:58:15.096Z",
+  "odesli": {
+    "amazonMusic": "B07SHT4CTG",
+    "amazonStore": "B07SHT4CTG",
+    "pandora": "TR:23046882",
+    "soundcloud": "deichkind-1/wer-sagt-denn-das",
+    "tidal": "118381233",
+    "youtube": "w7KA2LSvsfM",
+    "youtubeMusic": "w7KA2LSvsfM"
+  },
+  "lastfm": {
+    "id": "Deichkind/_/Wer+Sagt+Denn+Das%3F",
+    "listeners": 14146,
+    "playcount": 104166,
+    "title": "Wer Sagt Denn Das?",
+    "artist": "Deichkind",
+    "mbid": "5f8ee47e-f8dd-4327-807c-a5731a18fc5c",
+    "artistMbid": "5de80871-f721-4c7c-b0c5-4ad0d350c232",
+    "tags": [
+      "synth-punk",
+      "instrumental",
+      "deichkind",
+      "fm4",
+      "2019"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5f8ee47e-f8dd-4327-807c-a5731a18fc5c",
+    "artistMbid": "5de80871-f721-4c7c-b0c5-4ad0d350c232",
+    "releaseCount": 10,
+    "artistGenres": [
+      "electro",
+      "electroclash",
+      "electropop",
+      "electropunk",
+      "hip hop"
+    ]
+  }
+}

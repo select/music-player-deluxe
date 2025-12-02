@@ -2,7 +2,7 @@
   "youtubeId": "BVZu_MZleq8",
   "title": "One With The Sun",
   "artist": "3",
-  "lastFetched": "2025-11-30T21:07:18.974Z",
+  "lastFetched": "2025-12-02T00:48:49.911Z",
   "odesli": {
     "amazonMusic": "B005MVKWUK",
     "amazonStore": "B005MVKWUK",
@@ -33,6 +33,14 @@
     "artistGenres": [
       "crossover prog",
       "progressive rock"
-    ]
+    ],
+    "releasedAt": "2011-10-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001928175",
+      "discogs": "513958",
+      "rateyourmusic": "3_f4",
+      "wikidata": "Q2279110"
+    }
   }
 }

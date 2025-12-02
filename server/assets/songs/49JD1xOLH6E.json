@@ -3,7 +3,7 @@
   "artist": "Felix Kubin",
   "duration": 200,
   "youtubeId": "49JD1xOLH6E",
-  "lastFetched": "2025-11-19T03:49:26.162Z",
+  "lastFetched": "2025-12-02T00:37:58.761Z",
   "odesli": {
     "amazonMusic": "B0F8MRPGP6",
     "amazonStore": "B0F8MRPGP6",
@@ -18,7 +18,14 @@
     ],
     "trackMbid": "fe3ad0a0-bf4a-4ea2-b595-b7c3efb666e8",
     "artistMbid": "299d57a7-690d-4225-b341-0b8eeca007e1",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-06-16",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "12584",
+      "rateyourmusic": "felix_kubin",
+      "wikidata": "Q97273"
+    }
   },
   "lastfm": {
     "id": "Felix+Kubin/_/Der+Tanz+Aller",

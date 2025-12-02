@@ -2,7 +2,7 @@
   "youtubeId": "Pdui8CTWbR8",
   "title": "Island",
   "artist": "Heather Nova",
-  "lastFetched": "2025-11-23T16:37:52.585Z",
+  "lastFetched": "2025-12-02T01:12:05.938Z",
   "odesli": {
     "amazonMusic": "B00138FW9M",
     "amazonStore": "B00138FW9M",
@@ -35,7 +35,19 @@
       "singer-songwriter"
     ],
     "trackMbid": "0066b832-bd09-4603-84c1-a6929af75725",
-    "artistMbid": "d048022b-8e7a-48b4-be28-638922556639"
+    "artistMbid": "d048022b-8e7a-48b4-be28-638922556639",
+    "artistCountry": "BM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000668841",
+      "discogs": "15782",
+      "spotify": "76oeXwztPqAxVg9oqozK3z",
+      "deezer": "3244",
+      "lastfm": "Heather+Nova",
+      "rateyourmusic": "heather_nova",
+      "qobuz": "151874",
+      "wikidata": "Q236960",
+      "youtube": "UCBXkRu-MGeRsSPVmXrHmkqQ"
+    }
   },
   "lastfm": {
     "id": "Heather+Nova/_/Island",

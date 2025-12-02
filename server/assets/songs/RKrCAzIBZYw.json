@@ -2,7 +2,7 @@
   "youtubeId": "RKrCAzIBZYw",
   "title": "Dragula",
   "artist": "Rob Zombie",
-  "lastFetched": "2025-11-30T23:03:36.964Z",
+  "lastFetched": "2025-12-02T01:14:35.195Z",
   "musicbrainz": {
     "tags": [
       "industrial metal",
@@ -30,7 +30,22 @@
       "industrial metal",
       "metal",
       "rock"
-    ]
+    ],
+    "releasedAt": "1998-01-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000235169",
+      "discogs": "775414",
+      "spotify": "3HVdAiMNjYrQIKlOGxoGh5",
+      "deezer": "856",
+      "lastfm": "Rob+Zombie",
+      "genius": "Rob-zombie",
+      "rateyourmusic": "rob_zombie",
+      "soundcloud": "https://soundcloud.com/rob-zombie-official",
+      "napster": "rob-zombie",
+      "wikidata": "Q298255",
+      "youtube": "UCgcoBtYryju2lCbaJmS62Cg"
+    }
   },
   "lastfm": {
     "id": "Rob+Zombie/_/Dragula",

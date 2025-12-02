@@ -2,7 +2,7 @@
   "youtubeId": "0Yy7A74o8gQ",
   "title": "The Magic Number",
   "artist": "De La Soul",
-  "lastFetched": "2025-11-23T16:26:12.182Z",
+  "lastFetched": "2025-12-02T00:33:42.894Z",
   "odesli": {
     "amazonMusic": "B0BNP9S1RF",
     "amazonStore": "B0BNP9S1RF",
@@ -36,7 +36,21 @@
       "hip hop"
     ],
     "trackMbid": "7f5ec186-ef4d-4015-a37b-3a5ba4a9678e",
-    "artistMbid": "a8ebde98-7e91-46c7-992c-90039ba42017"
+    "artistMbid": "a8ebde98-7e91-46c7-992c-90039ba42017",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000238322",
+      "bandcamp": "https://delasoul.bandcamp.com/",
+      "discogs": "4091",
+      "spotify": "1Z8ODXyhEBi3WynYw0Rya6",
+      "deezer": "1312",
+      "lastfm": "De+La+Soul",
+      "genius": "De-la-soul",
+      "rateyourmusic": "de_la_soul",
+      "soundcloud": "https://soundcloud.com/wearedelasoul",
+      "wikidata": "Q685595",
+      "youtube": "UCnLCApgMiI8wopT2tWVuMLw"
+    }
   },
   "lastfm": {
     "id": "De+La+Soul/_/The+Magic+Number",

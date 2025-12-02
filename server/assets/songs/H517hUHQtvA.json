@@ -2,7 +2,7 @@
   "youtubeId": "H517hUHQtvA",
   "title": "Wein A Ramallah",
   "artist": "Bukahara",
-  "lastFetched": "2025-11-23T16:34:25.453Z",
+  "lastFetched": "2025-12-02T00:58:39.953Z",
   "odesli": {
     "amazonMusic": "B0BNP1BRVR",
     "amazonStore": "B0BNP1BRVR",
@@ -33,7 +33,18 @@
       "pop"
     ],
     "trackMbid": "a34626ce-d262-4482-a135-3e1c86148b6b",
-    "artistMbid": "ad058e4f-7e24-4db0-b5c2-7fcbcff72e01"
+    "artistMbid": "ad058e4f-7e24-4db0-b5c2-7fcbcff72e01",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003612800",
+      "discogs": "4709295",
+      "spotify": "21K0gLOe4i0o6l1MHd5a6W",
+      "deezer": "9579802",
+      "lastfm": "Bukahara",
+      "soundcloud": "https://soundcloud.com/bukahara",
+      "wikidata": "Q23806113",
+      "youtube": "UClQXTG___RYyGyjKgMjQ8og"
+    }
   },
   "lastfm": {
     "id": "Bukahara/_/Wein+A+Ramallah",

@@ -3,7 +3,7 @@
   "artist": "Kettenkarussell",
   "duration": 547,
   "youtubeId": "NDkB4KoPfwY",
-  "lastFetched": "2025-11-23T15:40:00.124Z",
+  "lastFetched": "2025-12-02T01:07:52.542Z",
   "ai": {
     "title": "You N Me",
     "artist": "Kettenkarussell"
@@ -11,6 +11,14 @@
   "musicbrainz": {
     "trackMbid": "bca66184-becf-4893-a3c8-5b3d4415e933",
     "artistMbid": "126ed5d6-a0f4-4a37-87d5-8dce0febd18c",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2009-03-19",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003482813",
+      "discogs": "1398569",
+      "rateyourmusic": "kettenkarussell",
+      "wikidata": "Q61037231"
+    }
   }
 }

@@ -3,7 +3,7 @@
   "artist": "Igorrr",
   "duration": 195,
   "youtubeId": "PYRdJo3cG2Q",
-  "lastFetched": "2025-11-19T04:39:16.575Z",
+  "lastFetched": "2025-12-02T01:11:56.122Z",
   "odesli": {
     "amazonMusic": "B0F2CCHQ3L",
     "amazonStore": "B0F2CCHQ3L",
@@ -25,7 +25,26 @@
     ],
     "trackMbid": "cd81a8de-af6d-4cbd-bd55-c8cf57bcd1c8",
     "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73",
-    "releaseCount": 16
+    "releaseCount": 16,
+    "releasedAt": "2025-05-21",
+    "artistCountry": "FR",
+    "externalIdsTrack": {
+      "spotify": "3mtUQBbyLk5jxfrLt4nV3K",
+      "deezer": "3293342781"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002587287",
+      "bandcamp": "https://igorrr.bandcamp.com/",
+      "discogs": "1028023",
+      "spotify": "2p2uE4i92Dn4DkThfoKIB9",
+      "deezer": "1025520",
+      "lastfm": "Igorrr",
+      "genius": "Igorrr",
+      "rateyourmusic": "igorrr",
+      "soundcloud": "https://soundcloud.com/igorrr",
+      "wikidata": "Q2486120",
+      "youtube": "UC7gJRij98IY_nFfFDrld8yQ"
+    }
   },
   "lastfm": {
     "id": "Igorrr/_/Blastbeat+Falafel",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "6od76UNHt-M",
   "title": "LITTLE BIG - HATEFUL LOVE",
-  "lastFetched": "2025-11-30T20:22:26.249Z",
+  "lastFetched": "2025-12-02T00:41:53.968Z",
   "ai": {
     "title": "HATEFUL LOVE",
     "artist": "LITTLE BIG"
@@ -24,6 +24,24 @@
       "electropop",
       "pop",
       "rave"
-    ]
+    ],
+    "releasedAt": "2015-12-19",
+    "externalIdsTrack": {
+      "spotify": "5csbBb7DkzDkDaH9wJ2Xxp",
+      "deezer": "3262926461"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003695755",
+      "bandcamp": "https://littlebigband.bandcamp.com/",
+      "discogs": "4563408",
+      "spotify": "0pnd3MP2rxAzljR9AqXUJB",
+      "deezer": "4606326",
+      "lastfm": "Little+Big",
+      "genius": "Little-big",
+      "rateyourmusic": "little_big",
+      "soundcloud": "https://soundcloud.com/littlebigrussia",
+      "wikidata": "Q24261863",
+      "youtube": "UCu7TZ_ATWgjgD9IrNLdnYDA"
+    }
   }
 }

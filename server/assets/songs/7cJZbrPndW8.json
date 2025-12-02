@@ -2,7 +2,7 @@
   "youtubeId": "7cJZbrPndW8",
   "title": "Carson City Stage",
   "artist": "Chet Baker Quartet",
-  "lastFetched": "2025-11-30T22:36:26.409Z",
+  "lastFetched": "2025-12-02T00:43:35.128Z",
   "odesli": {
     "amazonMusic": "B07N9YHL1M",
     "amazonStore": "B07N9YHL1M",
@@ -31,6 +31,13 @@
   "musicbrainz": {
     "artistMbid": "58f9c836-30a1-4330-9274-e2dd5bc75008",
     "trackMbid": "23c9c22f-67d8-4edc-abd8-bf740a49aa9c",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "1989",
+    "externalIdsArtist": {
+      "discogs": "310109",
+      "spotify": "3UcvB0rDa44LfjsOO5Btfc",
+      "deezer": "16847",
+      "wikidata": "Q88655171"
+    }
   }
 }

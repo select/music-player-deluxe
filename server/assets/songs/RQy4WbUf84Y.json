@@ -2,7 +2,7 @@
   "youtubeId": "RQy4WbUf84Y",
   "title": "White Lines",
   "artist": "Grandmaster Flash",
-  "lastFetched": "2025-11-30T22:37:29.453Z",
+  "lastFetched": "2025-12-02T01:14:51.930Z",
   "lastfm": {
     "title": "White Lines",
     "artist": "Grandmaster Flash",
@@ -25,6 +25,19 @@
     "releaseCount": 1,
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2000",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000738402",
+      "discogs": "265393",
+      "spotify": "1JfnADNz5yYEq3hrzlZHLk",
+      "deezer": "66946",
+      "lastfm": "Grandmaster+Flash",
+      "rateyourmusic": "grandmaster_flash",
+      "soundcloud": "https://soundcloud.com/grandmasterflashofficial",
+      "wikidata": "Q506900",
+      "youtube": "djflash4eva"
+    }
   }
 }

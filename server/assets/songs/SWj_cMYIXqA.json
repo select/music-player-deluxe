@@ -2,7 +2,7 @@
   "youtubeId": "SWj_cMYIXqA",
   "title": "Close to Paradise",
   "artist": "Soulwax",
-  "lastFetched": "2025-11-30T19:36:58.128Z",
+  "lastFetched": "2025-12-02T01:16:29.750Z",
   "odesli": {
     "amazonMusic": "B08T8LCNZ1",
     "amazonStore": "B08T8LCNZ1",
@@ -39,6 +39,20 @@
       "indie rock",
       "new rave",
       "rock"
-    ]
+    ],
+    "releasedAt": "2021-05-07",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000048806",
+      "bandcamp": "https://soulwax.bandcamp.com/",
+      "discogs": "34128",
+      "spotify": "43mWhBXSflupNLuNjM5vff",
+      "deezer": "1091",
+      "lastfm": "Soulwax",
+      "rateyourmusic": "soulwax",
+      "soundcloud": "https://soundcloud.com/soulwaxofficial",
+      "wikidata": "Q1288216",
+      "youtube": "UCHvcelhZMS1T1bUTCC5r54w"
+    }
   }
 }

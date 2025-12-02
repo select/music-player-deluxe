@@ -2,7 +2,7 @@
   "youtubeId": "Kr4O6zxTtSY",
   "title": "CrasH",
   "artist": "Schoolboy Q",
-  "lastFetched": "2025-11-30T22:15:24.009Z",
+  "lastFetched": "2025-12-02T01:04:03.114Z",
   "odesli": {
     "amazonMusic": "B07QNVDB4V",
     "amazonStore": "B07QNVDB4V",
@@ -39,6 +39,19 @@
       "hip hop",
       "trap",
       "west coast hip hop"
-    ]
+    ],
+    "releasedAt": "2019-04-26",
+    "externalIdsArtist": {
+      "allmusic": "mn0003009716",
+      "discogs": "2962723",
+      "spotify": "5IcR3N7QB1j6KBL8eImZ8m",
+      "deezer": "1057597",
+      "lastfm": "ScHoolboy+Q",
+      "genius": "Schoolboy-q",
+      "rateyourmusic": "schoolboy-q",
+      "soundcloud": "https://soundcloud.com/schoolboy-q",
+      "wikidata": "Q168633",
+      "youtube": "UCLi6DTUnJdDOUkWu0szfI0g"
+    }
   }
 }

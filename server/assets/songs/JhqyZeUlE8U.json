@@ -2,7 +2,7 @@
   "youtubeId": "JhqyZeUlE8U",
   "title": "Sure Shot",
   "artist": "Beastie Boys",
-  "lastFetched": "2025-11-23T16:35:30.878Z",
+  "lastFetched": "2025-12-02T01:02:14.880Z",
   "odesli": {
     "amazonMusic": "B000SXIZQ0",
     "amazonStore": "B000SXIZQ0",
@@ -36,7 +36,20 @@
       "funk"
     ],
     "trackMbid": "7933198b-c23d-3f43-a242-2deae1235815",
-    "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53"
+    "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000038469",
+      "discogs": "10783",
+      "spotify": "03r4iKL2g2442PT9n2UKsx",
+      "deezer": "194746",
+      "lastfm": "Beastie+Boys",
+      "genius": "Beastie-boys",
+      "rateyourmusic": "beastie_boys",
+      "soundcloud": "https://soundcloud.com/beastieboys",
+      "qobuz": "43813",
+      "wikidata": "Q214039"
+    }
   },
   "lastfm": {
     "id": "Beastie+Boys/_/Sure+Shot",

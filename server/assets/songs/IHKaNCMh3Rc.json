@@ -2,7 +2,7 @@
   "youtubeId": "IHKaNCMh3Rc",
   "title": "Message From The Nile",
   "artist": "McCoy Tyner",
-  "lastFetched": "2025-11-30T22:52:48.227Z",
+  "lastFetched": "2025-12-02T01:00:14.973Z",
   "odesli": {
     "amazonMusic": "B000TE7HXA",
     "amazonStore": "B000TE7HXA",
@@ -46,6 +46,15 @@
       "jazz",
       "modal jazz",
       "modern creative"
-    ]
+    ],
+    "releasedAt": "1972",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000868092",
+      "discogs": "10620",
+      "spotify": "2EsmKkHsXK0WMNGOtIhbxr",
+      "deezer": "5119",
+      "wikidata": "Q318619"
+    }
   }
 }

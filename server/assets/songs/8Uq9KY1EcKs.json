@@ -2,7 +2,7 @@
   "youtubeId": "8Uq9KY1EcKs",
   "title": "Tuur mang Welten",
   "artist": "Niklas Paschburg",
-  "lastFetched": "2025-11-30T19:37:17.586Z",
+  "lastFetched": "2025-12-02T00:44:45.508Z",
   "odesli": {
     "amazonMusic": "B07BJG1B54",
     "amazonStore": "B07BJG1B54",
@@ -19,7 +19,14 @@
     "title": "Tuur Mang Welten",
     "artist": "Niklas Paschburg",
     "mbid": "5cd1269b-f7b7-4fd8-b6de-4004ac8356db",
-    "artistMbid": "3a579be5-524e-4078-8e82-88af354b0008"
+    "artistMbid": "3a579be5-524e-4078-8e82-88af354b0008",
+    "tags": [
+      "ambient",
+      "2016",
+      "piano",
+      "contemporary classical",
+      "electronic"
+    ]
   },
   "musicbrainz": {
     "trackMbid": "a00ea998-846a-4b33-a45f-21ea828bf844",
@@ -38,6 +45,15 @@
       "organic house",
       "pop",
       "progressive house"
-    ]
+    ],
+    "releasedAt": "2016-11-25",
+    "externalIdsArtist": {
+      "allmusic": "mn0003647980",
+      "bandcamp": "https://niklaspaschburg.bandcamp.com/",
+      "discogs": "5385804",
+      "spotify": "4dTw5svKFBPnfijbi3H9eI",
+      "deezer": "7880674",
+      "soundcloud": "https://soundcloud.com/niklas-paschburg/"
+    }
   }
 }

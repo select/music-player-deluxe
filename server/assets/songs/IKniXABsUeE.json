@@ -2,7 +2,7 @@
   "youtubeId": "IKniXABsUeE",
   "title": "Wildcat",
   "artist": "Ratatat",
-  "lastFetched": "2025-11-30T20:13:27.100Z",
+  "lastFetched": "2025-12-02T01:00:25.668Z",
   "odesli": {
     "amazonMusic": "B000SFOJKE",
     "amazonStore": "B000SFOJKE",
@@ -49,6 +49,22 @@
       "instrumental",
       "neo-psychedelia",
       "new rave"
-    ]
+    ],
+    "releasedAt": "2006-07-25",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "0wP9okoDWmbeC2w9E8ZzPu"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000404136",
+      "discogs": "158120",
+      "spotify": "57dN52uHvrHOxijzpIgu3E",
+      "deezer": "6058",
+      "lastfm": "Ratatat",
+      "rateyourmusic": "ratatat",
+      "soundcloud": "https://soundcloud.com/ratatat",
+      "wikidata": "Q1422764",
+      "youtube": "UCTcraSQKl7F8GFiLydv6eDg"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "Qo-IlvkKDU4",
   "title": "Kingpin",
   "artist": "Dan Structure",
-  "lastFetched": "2025-11-23T16:38:25.827Z",
+  "lastFetched": "2025-12-02T01:13:24.171Z",
   "musicbrainz": {
     "artistTags": [
       "drum and bass"
@@ -11,7 +11,14 @@
       "drum and bass"
     ],
     "trackMbid": "aad7ec8c-b07b-4624-ba4b-991a06e3f73d",
-    "artistMbid": "3e2d122f-6864-43b2-acab-d5b92277dba7"
+    "artistMbid": "3e2d122f-6864-43b2-acab-d5b92277dba7",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "8194463",
+      "spotify": "6Q2gUfIwUx99hUEFhBwvpE",
+      "deezer": "107177272",
+      "soundcloud": "https://soundcloud.com/danstructure"
+    }
   },
   "lastfm": {
     "id": "Dan+Structure/_/Kingpin",

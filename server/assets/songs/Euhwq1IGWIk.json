@@ -2,7 +2,7 @@
   "youtubeId": "Euhwq1IGWIk",
   "title": "Invisible Limits",
   "artist": "Tangerine Dream",
-  "lastFetched": "2025-11-23T16:33:11.109Z",
+  "lastFetched": "2025-12-02T00:54:34.080Z",
   "odesli": {
     "amazonMusic": "B004HAAY1Y",
     "amazonStore": "B004HAAY1Y",
@@ -33,7 +33,21 @@
       "new age"
     ],
     "trackMbid": "13ca2735-b9a0-45c1-bbb2-fdc3c4ffc41c",
-    "artistMbid": "23d8426c-18c7-46e6-a51d-7395bd43c641"
+    "artistMbid": "23d8426c-18c7-46e6-a51d-7395bd43c641",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000002411",
+      "bandcamp": "https://tangerinedreamofficial.bandcamp.com/",
+      "discogs": "10343",
+      "spotify": "1BGN1IdyiSR0ZYrkoKNchl",
+      "deezer": "1151",
+      "lastfm": "Tangerine+Dream",
+      "genius": "Tangerine-dream",
+      "rateyourmusic": "tangerine_dream",
+      "soundcloud": "https://soundcloud.com/tangerinedreamofficial2015",
+      "wikidata": "Q153616",
+      "youtube": "UC4_FcTax65mwCulnRcelfhQ"
+    }
   },
   "lastfm": {
     "id": "Tangerine+Dream/_/Invisible+Limits",

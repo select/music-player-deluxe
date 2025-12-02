@@ -2,7 +2,7 @@
   "youtubeId": "80_39eAx3z8",
   "title": "For What It's Worth",
   "artist": "Buffalo Springfield",
-  "lastFetched": "2025-11-19T06:27:09.445Z",
+  "lastFetched": "2025-12-02T00:44:08.800Z",
   "odesli": {
     "amazonMusic": "B0011Z76UA",
     "amazonStore": "B0011Z76UA",
@@ -27,7 +27,17 @@
       "folk"
     ],
     "trackMbid": "bed887b0-1c89-454e-b876-34d2dd1c7886",
-    "artistMbid": "22dc19af-d085-4c9b-adfb-22ec256251f1"
+    "artistMbid": "22dc19af-d085-4c9b-adfb-22ec256251f1",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000939567",
+      "discogs": "58696",
+      "spotify": "3eskO5m0H4yiF64vRySBjr",
+      "deezer": "905",
+      "lastfm": "Buffalo+Springfield",
+      "rateyourmusic": "buffalo-springfield",
+      "wikidata": "Q48992"
+    }
   },
   "lastfm": {
     "id": "Buffalo+Springfield/_/For+What+It%27s+Worth",

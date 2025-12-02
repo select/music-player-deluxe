@@ -1,0 +1,38 @@
+{
+  "youtubeId": "ZBnAUdLLEuI",
+  "title": "White Scarf in the Mist",
+  "artist": "Sly & Robbie",
+  "lastFetched": "2025-12-01T13:04:48.286Z",
+  "odesli": {
+    "amazonMusic": "B07957Q4ZG",
+    "amazonStore": "B07957Q4ZG",
+    "appleMusic": "1337825333",
+    "itunes": "1337825333",
+    "tidal": "84340174",
+    "youtube": "ZBnAUdLLEuI",
+    "youtubeMusic": "ZBnAUdLLEuI"
+  },
+  "lastfm": {
+    "id": "Sly+&+Robbie/_/White+Scarf+in+the+Mist",
+    "listeners": 1456,
+    "playcount": 3761,
+    "title": "White Scarf in the Mist",
+    "artist": "Sly & Robbie",
+    "artistMbid": "6e14dc18-9313-4afa-9344-4b6c2bf80fca",
+    "tags": [
+      "dub",
+      "reggae",
+      "dancehall",
+      "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8da75dd7-237d-4dbc-90eb-76bed1682bde",
+    "artistMbid": "6e14dc18-9313-4afa-9344-4b6c2bf80fca",
+    "releaseCount": 3,
+    "artistGenres": [
+      "dub",
+      "reggae"
+    ]
+  }
+}

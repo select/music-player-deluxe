@@ -2,7 +2,7 @@
   "youtubeId": "94QVyAi4yWE",
   "title": "Cigarettes",
   "artist": "Fort Minor",
-  "lastFetched": "2025-11-30T19:54:18.137Z",
+  "lastFetched": "2025-12-02T00:45:39.253Z",
   "odesli": {
     "amazonMusic": "B0042GJBCG",
     "amazonStore": "B0042GJBCG",
@@ -47,6 +47,16 @@
     "artistGenres": [
       "alternative hip hop",
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2005-11-21",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000843892",
+      "discogs": "374073",
+      "spotify": "7dWYWUbO68rXJOcyA7SpJk",
+      "deezer": "72",
+      "lastfm": "Fort+Minor",
+      "wikidata": "Q493729"
+    }
   }
 }

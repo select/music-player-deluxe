@@ -2,7 +2,7 @@
   "youtubeId": "8KHwuOtcALQ",
   "title": "Freak",
   "artist": "Silverchair",
-  "lastFetched": "2025-11-23T16:29:53.784Z",
+  "lastFetched": "2025-12-02T00:44:33.823Z",
   "odesli": {
     "amazonMusic": "B016YW5746",
     "amazonStore": "B016YW5746",
@@ -38,7 +38,19 @@
       "experimental"
     ],
     "trackMbid": "185bd076-cbaf-3370-bac8-177e98ad2c71",
-    "artistMbid": "b0799818-22cb-4564-8e68-3c410d0722ee"
+    "artistMbid": "b0799818-22cb-4564-8e68-3c410d0722ee",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000048265",
+      "discogs": "18842",
+      "spotify": "4iudEcmuPlYNdbP3e1bdn1",
+      "deezer": "706",
+      "lastfm": "Silverchair",
+      "rateyourmusic": "silverchair",
+      "soundcloud": "https://soundcloud.com/silverchair-official",
+      "wikidata": "Q157327",
+      "youtube": "UCvt5tDpc8I4RoS6LQH0fKog"
+    }
   },
   "lastfm": {
     "id": "Silverchair/_/Freak",

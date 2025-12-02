@@ -2,7 +2,7 @@
   "youtubeId": "NdYWuo9OFAw",
   "title": "Iris",
   "artist": "Goo Goo Dolls",
-  "lastFetched": "2025-11-23T16:36:59.692Z",
+  "lastFetched": "2025-12-02T01:08:36.441Z",
   "odesli": {
     "amazonMusic": "B001NS5LMA",
     "amazonStore": "B001NS5LMA",
@@ -42,7 +42,21 @@
       "pop punk"
     ],
     "trackMbid": "49c04d28-280a-4bfb-afb5-a5affcb373e9",
-    "artistMbid": "e2c00c56-8365-4160-9f40-a64682917633"
+    "artistMbid": "e2c00c56-8365-4160-9f40-a64682917633",
+    "releasedAt": "2007-02-19",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000949630",
+      "discogs": "252661",
+      "spotify": "2sil8z5kiy4r76CRTXxBCA",
+      "deezer": "65791",
+      "lastfm": "Goo+Goo+Dolls",
+      "genius": "Goo-goo-dolls",
+      "rateyourmusic": "goo-goo-dolls",
+      "soundcloud": "https://soundcloud.com/thegoogoodolls",
+      "wikidata": "Q730046",
+      "youtube": "UCjOkbXu7vYeeQrA7R3-OfXQ"
+    }
   },
   "lastfm": {
     "id": "Goo+Goo+Dolls/_/Iris",

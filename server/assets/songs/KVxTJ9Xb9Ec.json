@@ -2,7 +2,7 @@
   "youtubeId": "KVxTJ9Xb9Ec",
   "title": "Primo Victoria",
   "artist": "Sabaton",
-  "lastFetched": "2025-11-30T21:32:43.369Z",
+  "lastFetched": "2025-12-02T01:03:26.459Z",
   "odesli": {
     "amazonMusic": "B07RPW467L",
     "amazonStore": "B07RPW467L",
@@ -53,6 +53,21 @@
       "pop metal",
       "power metal",
       "speed metal"
-    ]
+    ],
+    "releasedAt": "2005-03-04",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000631335",
+      "bandcamp": "https://sabaton.bandcamp.com/",
+      "discogs": "580793",
+      "spotify": "3o2dn2O0FCVsWDFSh8qxgG",
+      "deezer": "12022",
+      "lastfm": "Sabaton",
+      "genius": "Sabaton",
+      "rateyourmusic": "sabaton",
+      "soundcloud": "https://soundcloud.com/sabatonofficial",
+      "wikidata": "Q740159",
+      "youtube": "UCxJrBLPnyUIt6K33m9ZcsqA"
+    }
   }
 }

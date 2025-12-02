@@ -2,7 +2,7 @@
   "youtubeId": "6RDl3ooiXR8",
   "title": "Right On",
   "artist": "Ray Barretto",
-  "lastFetched": "2025-11-30T22:44:14.244Z",
+  "lastFetched": "2025-12-02T00:41:22.222Z",
   "odesli": {
     "amazonMusic": "B099JD1P8Q",
     "amazonStore": "B099JD1P8Q",
@@ -42,6 +42,15 @@
       "salsa",
       "salsa dura",
       "son cubano"
-    ]
+    ],
+    "releasedAt": "1970",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000341422",
+      "discogs": "2023295",
+      "deezer": "5130",
+      "rateyourmusic": "ray_barretto",
+      "wikidata": "Q740099"
+    }
   }
 }

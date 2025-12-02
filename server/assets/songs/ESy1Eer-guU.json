@@ -2,7 +2,7 @@
   "youtubeId": "ESy1Eer-guU",
   "title": "Can't You See Me",
   "artist": "Roy Ayers",
-  "lastFetched": "2025-11-30T21:41:59.208Z",
+  "lastFetched": "2025-12-02T00:53:57.195Z",
   "odesli": {
     "amazonMusic": "B001GDVE0K",
     "amazonStore": "B001GDVE0K",
@@ -38,6 +38,18 @@
       "jazz-funk",
       "post-bop",
       "soul jazz"
-    ]
+    ],
+    "releasedAt": "1994",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000345168",
+      "bandcamp": "https://royayers.bandcamp.com/",
+      "discogs": "2265",
+      "spotify": "6R9Mv0bgGE4Tqxna1q5Mrj",
+      "deezer": "4933",
+      "lastfm": "Roy+Ayers",
+      "rateyourmusic": "roy_ayers",
+      "wikidata": "Q588551"
+    }
   }
 }

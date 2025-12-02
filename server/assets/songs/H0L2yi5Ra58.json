@@ -2,7 +2,7 @@
   "youtubeId": "H0L2yi5Ra58",
   "title": "Speech Coma",
   "artist": "Blood Red Shoes",
-  "lastFetched": "2025-11-23T16:34:20.941Z",
+  "lastFetched": "2025-12-02T00:58:35.031Z",
   "odesli": {
     "amazonMusic": "B08P6C81VP",
     "amazonStore": "B08P6C81VP",
@@ -31,7 +31,20 @@
       "post-punk"
     ],
     "trackMbid": "14c20945-3ac8-43cb-9737-bc3fe9663ff2",
-    "artistMbid": "cd830a8f-89d2-4e96-96cb-7a497e51d437"
+    "artistMbid": "cd830a8f-89d2-4e96-96cb-7a497e51d437",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001995352",
+      "bandcamp": "https://bloodredshoes.bandcamp.com/",
+      "discogs": "534920",
+      "spotify": "3r6Sk3pYxdJk7MekhBGgMR",
+      "deezer": "75312",
+      "lastfm": "Blood+Red+Shoes",
+      "rateyourmusic": "blood_red_shoes",
+      "soundcloud": "https://soundcloud.com/bloodredshoes",
+      "wikidata": "Q672354",
+      "youtube": "UCUKZKIEXKbCf01CXNS3tMbA"
+    }
   },
   "lastfm": {
     "id": "Blood+Red+Shoes/_/Speech+Coma",

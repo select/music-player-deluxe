@@ -1,0 +1,53 @@
+{
+  "youtubeId": "Puz9PzY_etM",
+  "title": "Sasha - Linepulse",
+  "lastFetched": "2025-12-02T01:12:23.255Z",
+  "ai": {
+    "title": "Linepulse",
+    "artist": "Sasha"
+  },
+  "lastfm": {
+    "id": "Sasha/_/Linepulse",
+    "listeners": 19317,
+    "playcount": 53364,
+    "title": "Linepulse",
+    "artist": "Sasha",
+    "tags": [
+      "trance",
+      "progressive house",
+      "electronic",
+      "progressive trance"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cb3e98ad-8ecd-45f4-a981-01bce185e149",
+    "artistMbid": "68be8273-cb12-4053-964d-157b7e5cf265",
+    "releaseCount": 2,
+    "genres": [
+      "downtempo",
+      "electro",
+      "electronic",
+      "experimental"
+    ],
+    "artistGenres": [
+      "breakbeat",
+      "breaks",
+      "electro house",
+      "electronic",
+      "progressive house"
+    ],
+    "releasedAt": "2016-04-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002141576",
+      "bandcamp": "https://sasha.bandcamp.com/",
+      "discogs": "3365",
+      "spotify": "6u4jLGLPuarS3i2XWHVxoS",
+      "deezer": "50055182",
+      "lastfm": "Sasha",
+      "rateyourmusic": "sasha-5",
+      "soundcloud": "https://soundcloud.com/sashaofficial",
+      "wikidata": "Q556024"
+    }
+  }
+}

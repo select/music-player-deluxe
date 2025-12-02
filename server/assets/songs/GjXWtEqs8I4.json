@@ -2,7 +2,7 @@
   "youtubeId": "GjXWtEqs8I4",
   "title": "Knights of Cydonia",
   "artist": "Muse",
-  "lastFetched": "2025-11-19T11:09:58.421Z",
+  "lastFetched": "2025-12-02T00:58:11.153Z",
   "odesli": {
     "amazonMusic": "B002CO12RW",
     "amazonStore": "B002CO12RW",
@@ -26,7 +26,22 @@
       "Muse"
     ],
     "trackMbid": "74db77e6-423e-3f67-b8a1-62c21094de33",
-    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090"
+    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000514563",
+      "discogs": "1003",
+      "spotify": "12Chz98pHFMPJEknJQMWvI",
+      "deezer": "705",
+      "lastfm": "Muse",
+      "genius": "Muse",
+      "rateyourmusic": "muse",
+      "soundcloud": "https://soundcloud.com/muse",
+      "qobuz": "75739",
+      "napster": "muse-7035",
+      "wikidata": "Q22151",
+      "youtube": "UCw8jIQzB2mdvvo_CVplLxug"
+    }
   },
   "lastfm": {
     "id": "Muse/_/Knights+of+Cydonia",

@@ -1,0 +1,46 @@
+{
+  "youtubeId": "o6vptqMYk3g",
+  "title": "Remembering",
+  "artist": "Avishai Cohen",
+  "lastFetched": "2025-12-01T12:55:35.476Z",
+  "odesli": {
+    "amazonMusic": "B0766GJSL8",
+    "amazonStore": "B0766GJSL8",
+    "soundcloud": "sani-sukiasyan/avishai-cohen-remembering",
+    "spotify": "1J24vNYCuLaJ3qm0SioL8A",
+    "tidal": "79580728",
+    "youtube": "o6vptqMYk3g",
+    "youtubeMusic": "o6vptqMYk3g"
+  },
+  "lastfm": {
+    "id": "Avishai+Cohen/_/Remembering",
+    "listeners": 61779,
+    "playcount": 264340,
+    "title": "Remembering",
+    "artist": "Avishai Cohen",
+    "mbid": "381d9d0f-1fc6-401c-a8d7-7aad80206d1c",
+    "artistMbid": "17d78170-7194-4603-8dbb-ca1108430882",
+    "tags": [
+      "jazz",
+      "piano",
+      "contemporary jazz",
+      "bass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "551d6072-b28b-401d-91f2-c3d3616d8177",
+    "artistMbid": "17d78170-7194-4603-8dbb-ca1108430882",
+    "releaseCount": 7,
+    "genres": [
+      "contemporary jazz",
+      "hard bop",
+      "jazz",
+      "jazz fusion",
+      "post-bop"
+    ],
+    "artistGenres": [
+      "jazz",
+      "post-bop"
+    ]
+  }
+}

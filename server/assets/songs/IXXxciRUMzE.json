@@ -2,7 +2,7 @@
   "youtubeId": "IXXxciRUMzE",
   "title": "About Damn Time",
   "artist": "Lizzo",
-  "lastFetched": "2025-11-23T16:34:49.835Z",
+  "lastFetched": "2025-12-02T01:00:34.614Z",
   "odesli": {
     "amazonMusic": "B0BXB7HH7B",
     "amazonStore": "B0BXB7HH7B",
@@ -38,7 +38,23 @@
       "r&b"
     ],
     "trackMbid": "29c1a473-2412-453d-8698-34a70f71c587",
-    "artistMbid": "8fb5370b-9568-4b61-9da5-2aa12c9928db"
+    "artistMbid": "8fb5370b-9568-4b61-9da5-2aa12c9928db",
+    "releasedAt": "2025-05-23",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003167672",
+      "bandcamp": "https://lizzobangers.bandcamp.com/",
+      "discogs": "5311381",
+      "spotify": "56oDRnqbIiwx4mymNEv7dS",
+      "deezer": "5200025",
+      "lastfm": "Lizzo",
+      "genius": "Lizzo",
+      "rateyourmusic": "lizzo",
+      "soundcloud": "https://soundcloud.com/lizzomusic",
+      "napster": "lizzo",
+      "wikidata": "Q16232225",
+      "youtube": "UCVjeW1D_3IsiMYvG46nay4Q"
+    }
   },
   "lastfm": {
     "id": "Lizzo/_/About+Damn+Time",

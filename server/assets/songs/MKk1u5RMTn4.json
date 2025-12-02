@@ -2,7 +2,7 @@
   "youtubeId": "MKk1u5RMTn4",
   "title": "Carnival of Rust",
   "artist": "Poets Of The Fall",
-  "lastFetched": "2025-11-30T20:49:51.255Z",
+  "lastFetched": "2025-12-02T01:06:31.292Z",
   "odesli": {
     "amazonMusic": "B0012DYV6I",
     "amazonStore": "B0012DYV6I",
@@ -52,6 +52,17 @@
       "alternative rock",
       "pop rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2006-03-22",
+    "artistCountry": "FI",
+    "externalIdsArtist": {
+      "allmusic": "mn0000722469",
+      "discogs": "329140",
+      "spotify": "1AZ30JnvQU1pbX6sbRE0Yn",
+      "deezer": "1817",
+      "lastfm": "Poets+of+the+Fall",
+      "wikidata": "Q725517",
+      "youtube": "UC0hNui8bT7yV0Xb8w8YxjHw"
+    }
   }
 }

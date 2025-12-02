@@ -1,7 +1,7 @@
 {
   "youtubeId": "TYNLm2wZyT8",
   "title": "Guster - \"Ruby Falls\" [Best Quality]",
-  "lastFetched": "2025-11-30T20:33:21.908Z",
+  "lastFetched": "2025-12-02T01:18:28.052Z",
   "ai": {
     "title": "Ruby Falls",
     "artist": "Guster"
@@ -34,6 +34,19 @@
       "jangle pop",
       "pop rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2006-04-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000945245",
+      "bandcamp": "https://guster.bandcamp.com/",
+      "discogs": "125053",
+      "spotify": "34XlPCFfB4vT7P1ekWq9Jc",
+      "deezer": "1815",
+      "lastfm": "Guster",
+      "rateyourmusic": "guster",
+      "wikidata": "Q775690",
+      "youtube": "UCxzfCKgmsQTdWUpFa1IpkBQ"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "5x7dbJFJSWs",
   "title": "Paralyzed",
   "artist": "Conquer Divide",
-  "lastFetched": "2025-11-30T21:51:41.761Z",
+  "lastFetched": "2025-12-02T00:40:42.582Z",
   "odesli": {
     "amazonMusic": "B0D7WF93KS",
     "amazonStore": "B0D7WF93KS",
@@ -36,6 +36,19 @@
     "artistGenres": [
       "metalcore",
       "post-hardcore"
-    ]
+    ],
+    "releasedAt": "2022-10-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003401183",
+      "bandcamp": "https://conquerdivide.bandcamp.com/",
+      "discogs": "4691499",
+      "spotify": "4ZznAOb4aE3va5Jz1iDpjc",
+      "deezer": "5172291",
+      "lastfm": "conquer+divide",
+      "soundcloud": "https://soundcloud.com/conquerdivide",
+      "wikidata": "Q20808496",
+      "youtube": "UCzgyXzrtFg6GxCf_5ZEUVag?feature=gws_kp_artist&feature=gws_kp_artist"
+    }
   }
 }

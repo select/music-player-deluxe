@@ -1,7 +1,7 @@
 {
   "youtubeId": "53nAa6G78QA",
   "title": "War das etwa Haschisch",
-  "lastFetched": "2025-11-30T21:27:24.303Z",
+  "lastFetched": "2025-12-02T00:39:32.119Z",
   "ai": {
     "title": "war das etwa haschisch",
     "artist": "Georg Danzer"
@@ -40,6 +40,14 @@
       "liedermacher",
       "pop",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2002-10-07",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "discogs": "455091",
+      "deezer": "13772",
+      "wikidata": "Q45447",
+      "youtube": "UC4pQV4oUzxuW9PBNzJ_Mcig"
+    }
   }
 }

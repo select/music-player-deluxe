@@ -1,7 +1,7 @@
 {
   "youtubeId": "96bIZrb9bpw",
   "title": "Wallis Bird - Girls (live bei TV Noir)",
-  "lastFetched": "2025-11-30T21:06:26.182Z",
+  "lastFetched": "2025-12-02T00:45:41.800Z",
   "ai": {
     "title": "Girls",
     "artist": "Wallis Bird"
@@ -29,6 +29,16 @@
     "genres": [
       "pop",
       "rock"
-    ]
+    ],
+    "releasedAt": "2014-04-11",
+    "artistCountry": "IE",
+    "externalIdsArtist": {
+      "discogs": "879274",
+      "spotify": "0aogyPVqx5tlIkR0BHAehX",
+      "deezer": "75169",
+      "rateyourmusic": "wallis_bird",
+      "soundcloud": "https://soundcloud.com/wallis-bird",
+      "wikidata": "Q444966"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "PNkxPAReT5I",
   "title": "Theme From Slaying Beauty",
   "artist": "The Bambi Molesters",
-  "lastFetched": "2025-11-19T10:20:34.502Z",
+  "lastFetched": "2025-12-02T01:11:34.181Z",
   "odesli": {
     "amazonMusic": "B09BDR1BKD",
     "amazonStore": "B09BDR1BKD",
@@ -23,6 +23,13 @@
   },
   "musicbrainz": {
     "trackMbid": "10b65860-f194-4976-b84a-95ef14a601ad",
-    "artistMbid": "e0668292-5084-4bb2-9eff-785c1efbc13a"
+    "artistMbid": "e0668292-5084-4bb2-9eff-785c1efbc13a",
+    "artistCountry": "HR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000038359",
+      "discogs": "342698",
+      "rateyourmusic": "the_bambi_molesters",
+      "wikidata": "Q456356"
+    }
   }
 }

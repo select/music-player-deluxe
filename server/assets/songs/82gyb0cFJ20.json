@@ -1,7 +1,7 @@
 {
   "youtubeId": "82gyb0cFJ20",
   "title": "Ashtray Heart",
-  "lastFetched": "2025-11-30T20:05:13.142Z",
+  "lastFetched": "2025-12-02T00:44:11.444Z",
   "ai": {
     "title": "Ashtray Heart",
     "artist": "Captain Beefheart"
@@ -28,6 +28,17 @@
       "experimental rock",
       "proto-punk",
       "psychedelic rock"
-    ]
+    ],
+    "releasedAt": "2011-11-21",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000988638",
+      "discogs": "119009",
+      "spotify": "2ebK4ueGwhVaXUm060m1BS",
+      "deezer": "87384",
+      "lastfm": "+noredirect",
+      "rateyourmusic": "captain_beefheart",
+      "wikidata": "Q312264"
+    }
   }
 }

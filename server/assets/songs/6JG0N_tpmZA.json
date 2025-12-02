@@ -1,7 +1,7 @@
 {
   "youtubeId": "6JG0N_tpmZA",
   "title": "Life Of Agony - Weeds [OFFICIAL VIDEO]",
-  "lastFetched": "2025-11-30T20:29:43.871Z",
+  "lastFetched": "2025-12-02T00:28:53.955Z",
   "ai": {
     "title": "Weeds",
     "artist": "Life Of Agony"
@@ -41,6 +41,19 @@
       "hard rock",
       "heavy metal",
       "metal"
-    ]
+    ],
+    "releasedAt": "1997-09-09",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "4rqrbNlfOGSXCsId1NPFeE"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000261087",
+      "discogs": "260756",
+      "spotify": "4gyzQpfG5YQZJt2jj0IkEl",
+      "lastfm": "Life+of+Agony",
+      "soundcloud": "lifeofagony",
+      "youtube": "UCmW3PyryzOZEoDvG3tbUihw"
+    }
   }
 }

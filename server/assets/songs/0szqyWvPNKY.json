@@ -2,7 +2,7 @@
   "youtubeId": "0szqyWvPNKY",
   "title": "Ends",
   "artist": "Everlast",
-  "lastFetched": "2025-11-23T16:26:27.293Z",
+  "lastFetched": "2025-12-02T00:34:14.588Z",
   "odesli": {
     "amazonMusic": "B07Y8VBHMK",
     "amazonStore": "B07Y8VBHMK",
@@ -26,7 +26,18 @@
       "rock"
     ],
     "trackMbid": "c84ee273-6b87-32d1-af39-dbd7afce3b7f",
-    "artistMbid": "ca39d50f-9885-420e-88d6-9c3f64038773"
+    "artistMbid": "ca39d50f-9885-420e-88d6-9c3f64038773",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000155044",
+      "discogs": "76490",
+      "spotify": "14ZxDAK6ITtZZqPdiWrvSn",
+      "deezer": "3490",
+      "lastfm": "Everlast",
+      "rateyourmusic": "everlast",
+      "soundcloud": "https://soundcloud.com/whiteyford",
+      "wikidata": "Q453048"
+    }
   },
   "lastfm": {
     "id": "Everlast/_/Ends",

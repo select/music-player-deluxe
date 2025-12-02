@@ -3,14 +3,22 @@
   "artist": "Sjaella",
   "duration": 494,
   "youtubeId": "SuKVWVqVDB0",
-  "lastFetched": "2025-11-19T03:55:31.817Z",
+  "lastFetched": "2025-12-02T01:17:22.076Z",
   "musicbrainz": {
     "artistTags": [
       "a cappella"
     ],
     "trackMbid": "b977e115-919a-4bac-8ff6-69393ab86991",
     "artistMbid": "9b500279-1fbe-4917-b179-a91707ece463",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2021-10-08",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "7857429",
+      "spotify": "1RVOL3tm1whUTduWYwibSL",
+      "soundcloud": "https://soundcloud.com/user-642787614",
+      "wikidata": "Q1684254"
+    }
   },
   "lastfm": {
     "id": "Sjaella/_/Evening+Morning+Day",

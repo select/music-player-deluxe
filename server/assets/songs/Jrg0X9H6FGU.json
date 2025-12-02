@@ -2,7 +2,7 @@
   "youtubeId": "Jrg0X9H6FGU",
   "title": "Sweet Home Alabama",
   "artist": "Leningrad Cowboys",
-  "lastFetched": "2025-11-30T22:30:40.502Z",
+  "lastFetched": "2025-12-02T01:02:36.977Z",
   "lastfm": {
     "title": "Sweet Home Alabama",
     "artist": "Leningrad Cowboys",
@@ -32,6 +32,15 @@
       "folk rock",
       "hard rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1994-06-20",
+    "artistCountry": "FI",
+    "externalIdsArtist": {
+      "allmusic": "mn0000719210",
+      "discogs": "323101",
+      "spotify": "2wqpXHT8V0bE05VCjy8k3H",
+      "rateyourmusic": "leningrad_cowboys",
+      "wikidata": "Q941264"
+    }
   }
 }

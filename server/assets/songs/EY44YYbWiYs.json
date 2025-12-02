@@ -2,7 +2,7 @@
   "youtubeId": "EY44YYbWiYs",
   "title": "California Dreaming",
   "artist": "Monophonics",
-  "lastFetched": "2025-11-23T16:32:54.286Z",
+  "lastFetched": "2025-12-02T00:54:01.662Z",
   "odesli": {
     "amazonMusic": "B0F4DZB37X",
     "amazonStore": "B0F4DZB37X",
@@ -30,7 +30,14 @@
       "soul"
     ],
     "trackMbid": "35fc71da-6411-46e1-973e-4a6e63ef4e41",
-    "artistMbid": "f1745cca-1cae-4696-a0d3-62553c742b0c"
+    "artistMbid": "f1745cca-1cae-4696-a0d3-62553c742b0c",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://monophonics.bandcamp.com/",
+      "discogs": "2220328",
+      "deezer": "429853",
+      "rateyourmusic": "monophonics"
+    }
   },
   "lastfm": {
     "id": "Monophonics/_/California+Dreaming",

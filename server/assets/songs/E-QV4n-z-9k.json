@@ -2,7 +2,7 @@
   "youtubeId": "E-QV4n-z-9k",
   "title": "Eastman",
   "artist": "Move D",
-  "lastFetched": "2025-11-30T22:25:14.836Z",
+  "lastFetched": "2025-12-02T00:53:03.238Z",
   "lastfm": {
     "title": "Eastman",
     "artist": "Move D",
@@ -27,6 +27,15 @@
       "electronic",
       "house",
       "idm"
-    ]
+    ],
+    "releasedAt": "1995",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "838",
+      "spotify": "3hwmrS8MSceZwnZYvZFf97",
+      "rateyourmusic": "move_d",
+      "soundcloud": "https://soundcloud.com/move-d",
+      "wikidata": "Q1951118"
+    }
   }
 }

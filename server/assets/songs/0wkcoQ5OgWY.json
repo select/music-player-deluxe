@@ -2,7 +2,7 @@
   "youtubeId": "0wkcoQ5OgWY",
   "title": "Bleibt alles anders",
   "artist": "Herbert Grönemeyer",
-  "lastFetched": "2025-11-23T16:26:28.764Z",
+  "lastFetched": "2025-12-02T00:34:16.636Z",
   "odesli": {
     "amazonMusic": "B07CHSKVHS",
     "amazonStore": "B07CHSKVHS",
@@ -27,7 +27,20 @@
       "rock"
     ],
     "trackMbid": "09a3b510-52d2-3f32-ac4a-1a07759383e3",
-    "artistMbid": "456eabce-d1dd-4481-a206-36ab4f2eaeb8"
+    "artistMbid": "456eabce-d1dd-4481-a206-36ab4f2eaeb8",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000956217",
+      "discogs": "163850",
+      "spotify": "5tG5dl5mS2wB5w72YBpsyg",
+      "deezer": "4568",
+      "lastfm": "Herbert+Gr%C3%B6nemeyer",
+      "genius": "Herbert-gronemeyer",
+      "rateyourmusic": "herbert_gronemeyer",
+      "soundcloud": "https://soundcloud.com/herbert-gronemeyer",
+      "wikidata": "Q275247",
+      "youtube": "UCpgBROkXWpGzEMXnz0LGHbg"
+    }
   },
   "lastfm": {
     "id": "Herbert+Gr%C3%B6nemeyer/_/Bleibt+alles+anders",

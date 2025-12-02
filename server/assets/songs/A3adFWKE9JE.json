@@ -2,7 +2,7 @@
   "youtubeId": "A3adFWKE9JE",
   "title": "Grace",
   "artist": "Jeff Buckley",
-  "lastFetched": "2025-11-30T21:44:08.048Z",
+  "lastFetched": "2025-12-02T00:46:55.222Z",
   "odesli": {
     "amazonMusic": "B01689A0VA",
     "amazonStore": "B01689A0VA",
@@ -52,6 +52,18 @@
       "rock",
       "singer-songwriter",
       "soul"
-    ]
+    ],
+    "releasedAt": "2001",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000240665",
+      "discogs": "159169",
+      "spotify": "3nnQpaTvKb5jCQabZefACI",
+      "deezer": "664",
+      "lastfm": "Jeff+Buckley",
+      "rateyourmusic": "jeff_buckley",
+      "wikidata": "Q215855",
+      "youtube": "UCbchKSYoDnilVrYQYsKPhxg"
+    }
   }
 }

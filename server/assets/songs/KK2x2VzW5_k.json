@@ -2,7 +2,7 @@
   "youtubeId": "KK2x2VzW5_k",
   "title": "Gänseblümchen",
   "artist": "Ganz Schön Feist",
-  "lastFetched": "2025-11-30T22:49:21.058Z",
+  "lastFetched": "2025-12-02T01:03:13.456Z",
   "lastfm": {
     "title": "Gänseblümchen",
     "artist": "Ganz Schön Feist",
@@ -24,6 +24,13 @@
     "releaseCount": 1,
     "genres": [
       "pop"
-    ]
+    ],
+    "releasedAt": "1997",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "450130",
+      "wikidata": "Q1493696",
+      "youtube": "UCubQaL2BCSVkqwhIDGjmbiw"
+    }
   }
 }

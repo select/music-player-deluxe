@@ -2,7 +2,7 @@
   "youtubeId": "Kge3RKLn5RU",
   "title": "Bend Over",
   "artist": "Wagon Christ",
-  "lastFetched": "2025-11-30T22:15:34.587Z",
+  "lastFetched": "2025-12-02T01:03:38.149Z",
   "odesli": {
     "amazonMusic": "B073RZ2LVK",
     "amazonStore": "B073RZ2LVK",
@@ -45,6 +45,16 @@
       "electronic",
       "idm",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "1999",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000229210",
+      "discogs": "163",
+      "spotify": "3INW2gvv9ZcgPGL0oqkOXy",
+      "lastfm": "Wagon+Christ",
+      "rateyourmusic": "wagon_christ",
+      "wikidata": "Q1352724"
+    }
   }
 }

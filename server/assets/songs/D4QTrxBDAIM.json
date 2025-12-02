@@ -2,7 +2,7 @@
   "youtubeId": "D4QTrxBDAIM",
   "title": "The Frost",
   "artist": "The Pineapple Thief",
-  "lastFetched": "2025-11-23T16:32:03.266Z",
+  "lastFetched": "2025-12-02T00:51:23.824Z",
   "odesli": {
     "amazonMusic": "B0CMV2VCR5",
     "amazonStore": "B0CMV2VCR5",
@@ -29,7 +29,22 @@
       "progressive rock"
     ],
     "trackMbid": "b73facaf-dd71-412d-a0a0-597c079b2a03",
-    "artistMbid": "e8f55abb-a6d5-4e5f-81b4-14f9cc320519"
+    "artistMbid": "e8f55abb-a6d5-4e5f-81b4-14f9cc320519",
+    "releasedAt": "2023-11-29",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000347161",
+      "discogs": "1158584",
+      "spotify": "4lrBMUSk8PiNnCEZfsmPAk",
+      "deezer": "94494",
+      "lastfm": "The+Pineapple+Thief",
+      "genius": "The-pineapple-thief",
+      "rateyourmusic": "the-pineapple-thief",
+      "soundcloud": "https://soundcloud.com/thepineapplethief",
+      "napster": "pineapple-thief",
+      "wikidata": "Q38502",
+      "youtube": "UCuqpzZnOFS_Pers0CYQ2Saw"
+    }
   },
   "lastfm": {
     "id": "The+Pineapple+Thief/_/The+Frost",

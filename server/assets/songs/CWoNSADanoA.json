@@ -1,7 +1,7 @@
 {
   "youtubeId": "CWoNSADanoA",
   "title": "The Sound - New Dark Age (HQ)",
-  "lastFetched": "2025-11-30T19:54:39.541Z",
+  "lastFetched": "2025-12-02T00:50:20.077Z",
   "ai": {
     "title": "New Dark Age",
     "artist": "The Sound"
@@ -32,6 +32,16 @@
       "alternative rock",
       "new wave",
       "post-punk"
-    ]
+    ],
+    "releasedAt": "2001",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000040922",
+      "discogs": "171148",
+      "spotify": "4hzCcF4Leos2sKnz79nwhz",
+      "deezer": "15016",
+      "rateyourmusic": "the_sound",
+      "wikidata": "Q732151"
+    }
   }
 }

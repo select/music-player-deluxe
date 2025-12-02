@@ -2,7 +2,7 @@
   "youtubeId": "8mq4UT4VnbE",
   "title": "Minnie the Moocher",
   "artist": "Cab Calloway",
-  "lastFetched": "2025-11-30T23:37:29.406Z",
+  "lastFetched": "2025-12-02T00:45:12.832Z",
   "odesli": {
     "pandora": "TR:58167527",
     "soundcloud": "1227368620",
@@ -31,6 +31,17 @@
       "jazz",
       "swing",
       "vocal jazz"
-    ]
+    ],
+    "releasedAt": "1978",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000532957",
+      "discogs": "253474",
+      "spotify": "03cwCzIWQ8BRmXjGPDAL04",
+      "deezer": "2591",
+      "lastfm": "Cab+Calloway",
+      "rateyourmusic": "cab_calloway",
+      "wikidata": "Q273079"
+    }
   }
 }

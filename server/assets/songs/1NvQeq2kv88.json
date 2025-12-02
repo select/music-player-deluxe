@@ -2,7 +2,7 @@
   "youtubeId": "1NvQeq2kv88",
   "title": "(If You're Wondering If I Want You To) I Want You To",
   "artist": "Weezer",
-  "lastFetched": "2025-11-30T19:29:53.549Z",
+  "lastFetched": "2025-12-02T00:34:41.390Z",
   "odesli": {
     "amazonMusic": "B002U59XGA",
     "amazonStore": "B002U59XGA",
@@ -42,6 +42,21 @@
       "pop rock",
       "power pop",
       "rock"
-    ]
+    ],
+    "releasedAt": "2010",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000243008",
+      "discogs": "105730",
+      "spotify": "3jOstUTkEu2JkjvRdBA5Gu",
+      "deezer": "418",
+      "lastfm": "Weezer",
+      "genius": "Weezer",
+      "rateyourmusic": "weezer",
+      "soundcloud": "https://soundcloud.com/weezer",
+      "napster": "weezer",
+      "wikidata": "Q209956",
+      "youtube": "UCtHZHneyvFGwxg6MHcbMLAw"
+    }
   }
 }

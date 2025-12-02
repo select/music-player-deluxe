@@ -1,7 +1,7 @@
 {
   "youtubeId": "4pU9Dd0OKq0",
   "title": "IAMDYNAMITE - \"Stereo\" Lyric Video",
-  "lastFetched": "2025-11-30T20:39:51.211Z",
+  "lastFetched": "2025-12-02T00:39:16.665Z",
   "ai": {
     "title": "Stereo",
     "artist": "IAMDYNAMITE"
@@ -29,6 +29,13 @@
       "alternative rock",
       "indie rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2012-06-05",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "2604889",
+      "spotify": "7zwglk4YBuDu1r4Es8Eucw",
+      "youtube": "UCivYCYVW4rSQmrNoEBfCqHw"
+    }
   }
 }

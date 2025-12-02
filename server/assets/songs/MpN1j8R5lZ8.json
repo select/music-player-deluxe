@@ -2,7 +2,7 @@
   "youtubeId": "MpN1j8R5lZ8",
   "title": "Hearts a Mess",
   "artist": "Gotye",
-  "lastFetched": "2025-11-23T16:36:30.548Z",
+  "lastFetched": "2025-12-02T01:07:13.480Z",
   "odesli": {
     "amazonMusic": "B00CM3BI7C",
     "amazonStore": "B00CM3BI7C",
@@ -44,7 +44,21 @@
       "electronic"
     ],
     "trackMbid": "fa3a8842-feac-46e5-87be-30a3684933f5",
-    "artistMbid": "6f6fd596-76e0-4b82-aa37-f558ac2d337b"
+    "artistMbid": "6f6fd596-76e0-4b82-aa37-f558ac2d337b",
+    "releasedAt": "2006-03-21",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0001471865",
+      "discogs": "735239",
+      "spotify": "2AsusXITU8P25dlRNhcAbG",
+      "deezer": "159449",
+      "lastfm": "Gotye",
+      "genius": "Gotye",
+      "rateyourmusic": "gotye",
+      "soundcloud": "https://soundcloud.com/gotye",
+      "wikidata": "Q489643",
+      "youtube": "UCcrR-Or3AH2RKJqOntiD_Tw"
+    }
   },
   "lastfm": {
     "id": "Gotye/_/Hearts+a+Mess",

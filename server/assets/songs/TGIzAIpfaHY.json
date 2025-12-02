@@ -1,7 +1,7 @@
 {
   "youtubeId": "TGIzAIpfaHY",
   "title": "Maniac-Michael Sembello",
-  "lastFetched": "2025-11-30T21:12:56.029Z",
+  "lastFetched": "2025-12-02T01:17:56.244Z",
   "ai": {
     "title": "Maniac",
     "artist": "Michael Sembello"
@@ -34,6 +34,18 @@
       "pop",
       "pop rock",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "1991",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000458423",
+      "discogs": "94940",
+      "spotify": "771qBvjnXOH9Azr6lKy6FB",
+      "deezer": "5825",
+      "lastfm": "Michael+Sembello",
+      "genius": "Michael-sembello",
+      "rateyourmusic": "michael_sembello",
+      "wikidata": "Q1929388"
+    }
   }
 }

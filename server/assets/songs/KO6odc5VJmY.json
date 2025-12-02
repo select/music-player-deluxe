@@ -2,7 +2,7 @@
   "youtubeId": "KO6odc5VJmY",
   "title": "Sunshower",
   "artist": "Chris Cornell",
-  "lastFetched": "2025-11-30T21:12:17.150Z",
+  "lastFetched": "2025-12-02T01:03:18.647Z",
   "odesli": {
     "amazonMusic": "B07HFS7W1F",
     "amazonStore": "B07HFS7W1F",
@@ -49,6 +49,25 @@
       "post-grunge",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "1997",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "7vtHyfbb8ohBxWCTxZmGCA",
+      "deezer": "6586814"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000775406",
+      "discogs": "261561",
+      "spotify": "0XHiH53dHrvbwfjYM7en7I",
+      "deezer": "8547",
+      "lastfm": "Chris+Cornell",
+      "genius": "Chris-cornell",
+      "rateyourmusic": "chris_cornell",
+      "soundcloud": "https://soundcloud.com/chriscornell",
+      "napster": "chris-cornell",
+      "wikidata": "Q270935",
+      "youtube": "UCxLRTW2YShYeV3m_GdvDnXQ"
+    }
   }
 }

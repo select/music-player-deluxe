@@ -2,7 +2,7 @@
   "youtubeId": "1k8craCGpgs",
   "title": "Don't Stop Believin'",
   "artist": "Journey",
-  "lastFetched": "2025-11-19T06:55:08.618Z",
+  "lastFetched": "2025-12-02T00:35:24.475Z",
   "odesli": {
     "amazonMusic": "B00137GHF6",
     "amazonStore": "B00137GHF6",
@@ -26,7 +26,18 @@
       "scrubs"
     ],
     "trackMbid": "84488228-2c2c-4a50-89d0-528e45a57120",
-    "artistMbid": "abd506e1-6f2b-4d6f-b937-92c267f6f88b"
+    "artistMbid": "abd506e1-6f2b-4d6f-b937-92c267f6f88b",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000291043",
+      "discogs": "128395",
+      "spotify": "0rvjqX7ttXeg3mTy8Xscbt",
+      "deezer": "3381",
+      "lastfm": "Journey",
+      "rateyourmusic": "journey",
+      "wikidata": "Q464749",
+      "youtube": "UCCcn1f6IDJyXVNYoiYIGZFw"
+    }
   },
   "lastfm": {
     "id": "Journey/_/Don%27t+Stop+Believin%27",

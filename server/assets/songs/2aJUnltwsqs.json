@@ -2,7 +2,7 @@
   "youtubeId": "2aJUnltwsqs",
   "title": "Awake and Alive",
   "artist": "Skillet",
-  "lastFetched": "2025-11-30T20:36:23.990Z",
+  "lastFetched": "2025-12-02T00:36:30.875Z",
   "odesli": {
     "amazonMusic": "B002LD3RK4",
     "amazonStore": "B002LD3RK4",
@@ -51,6 +51,21 @@
       "christian rock",
       "nu metal",
       "symphonic metal"
-    ]
+    ],
+    "releasedAt": "2009-08-21",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000749571",
+      "discogs": "309893",
+      "spotify": "49bzE5vRBRIota4qeHtQM8",
+      "deezer": "9315",
+      "lastfm": "Skillet",
+      "genius": "Skillet",
+      "rateyourmusic": "skillet",
+      "soundcloud": "https://soundcloud.com/skilletofficial",
+      "napster": "skillet",
+      "wikidata": "Q374747",
+      "youtube": "UCUHYrf3BF5yI9QdRw09__BA"
+    }
   }
 }

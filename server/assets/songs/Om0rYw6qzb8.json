@@ -2,7 +2,7 @@
   "youtubeId": "Om0rYw6qzb8",
   "title": "HOTEL LOBBY (Unc & Phew)",
   "artist": "Quavo",
-  "lastFetched": "2025-11-30T23:42:55.892Z",
+  "lastFetched": "2025-12-02T01:10:50.105Z",
   "odesli": {
     "amazonMusic": "B0B1G21MXS",
     "amazonStore": "B0B1G21MXS",
@@ -29,7 +29,17 @@
       "hip hop",
       "pop rap",
       "trap"
-    ]
+    ],
+    "releasedAt": "2025-05-16",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003390457",
+      "discogs": "4806504",
+      "spotify": "0VRj0yCOv2FXJNP47XQnx5",
+      "deezer": "5059044",
+      "rateyourmusic": "quavo",
+      "wikidata": "Q30072039"
+    }
   },
   "lastfm": {
     "id": "Quavo/_/HOTEL+LOBBY+(Unc+&+Phew)",

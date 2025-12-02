@@ -2,7 +2,7 @@
   "youtubeId": "J3HLiQsaf3Y",
   "title": "Here I Come",
   "artist": "Skarra Mucci",
-  "lastFetched": "2025-11-30T23:01:11.469Z",
+  "lastFetched": "2025-12-02T01:01:16.284Z",
   "odesli": {
     "amazonMusic": "B0F74BFGMC",
     "amazonStore": "B0F74BFGMC",
@@ -31,6 +31,14 @@
       "dancehall",
       "ragga",
       "ragga jungle"
-    ]
+    ],
+    "releasedAt": "2023-09-29",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "discogs": "162052",
+      "spotify": "7kV4pmJgdYg4Cn9ZK98Fky",
+      "deezer": "252534",
+      "youtube": "UCAWccF-FMJzgF2aWDKP-lAg"
+    }
   }
 }

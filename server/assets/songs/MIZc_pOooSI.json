@@ -3,7 +3,7 @@
   "artist": "Terence :Terry:",
   "duration": 427,
   "youtubeId": "MIZc_pOooSI",
-  "lastFetched": "2025-11-19T03:59:35.860Z",
+  "lastFetched": "2025-12-02T01:06:28.813Z",
   "odesli": {
     "amazonMusic": "B09B2YHL99",
     "amazonStore": "B09B2YHL99",
@@ -22,6 +22,11 @@
   "musicbrainz": {
     "trackMbid": "3a84a1a0-6364-423c-b95c-3a945b9e331b",
     "artistMbid": "0b59e0a9-bcbc-41a3-adc2-72f3eca6fb9e",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2013-05-17",
+    "externalIdsArtist": {
+      "discogs": "1446633",
+      "spotify": "552AJdWzrzP4AmX72qTVQA"
+    }
   }
 }

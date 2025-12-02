@@ -3,7 +3,7 @@
   "artist": "Fleetwood Mac",
   "duration": 436,
   "youtubeId": "6ul-cZyuYq4",
-  "lastFetched": "2025-11-23T16:29:11.273Z",
+  "lastFetched": "2025-12-02T00:42:06.146Z",
   "odesli": {
     "amazonMusic": "B00B1MHZQ8",
     "amazonStore": "B00B1MHZQ8",
@@ -38,7 +38,22 @@
     ],
     "trackMbid": "2dcbc457-1d90-493a-8d02-4420db419453",
     "artistMbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
-    "releaseCount": 4
+    "releaseCount": 4,
+    "releasedAt": "2004-06-08",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000182900",
+      "discogs": "47333",
+      "spotify": "08GQAI4eElDnROBrJRGE0X",
+      "deezer": "169",
+      "lastfm": "Fleetwood+Mac",
+      "genius": "Fleetwood-mac",
+      "rateyourmusic": "fleetwood-mac",
+      "soundcloud": "https://soundcloud.com/fleetwoodmacofficial",
+      "napster": "fleetwood-mac",
+      "wikidata": "Q106648",
+      "youtube": "UCCzULu3prrEaPvM2ZtkJlYQ"
+    }
   },
   "lastfm": {
     "id": "Fleetwood+Mac/_/Go+Your+Own+Way",

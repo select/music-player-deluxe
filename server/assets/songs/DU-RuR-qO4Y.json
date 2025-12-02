@@ -2,7 +2,7 @@
   "youtubeId": "DU-RuR-qO4Y",
   "title": "Democracy",
   "artist": "Leonard Cohen",
-  "lastFetched": "2025-11-30T22:05:09.497Z",
+  "lastFetched": "2025-12-02T00:52:20.042Z",
   "odesli": {
     "amazonMusic": "B00136LHNY",
     "amazonStore": "B00136LHNY",
@@ -53,6 +53,19 @@
       "pop",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "1992-11-24",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000071209",
+      "discogs": "227848",
+      "spotify": "5l8VQNuIg0turYE1VtM9zV",
+      "deezer": "1834",
+      "lastfm": "Leonard+Cohen",
+      "genius": "Leonard-cohen",
+      "rateyourmusic": "leonard_cohen",
+      "soundcloud": "https://soundcloud.com/leonardcohen",
+      "wikidata": "Q1276"
+    }
   }
 }

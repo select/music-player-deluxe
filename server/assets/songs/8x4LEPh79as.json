@@ -1,7 +1,7 @@
 {
   "youtubeId": "8x4LEPh79as",
   "title": "Max Pashm - Manea-k (Balkan Beats 2008. Vol 3.)",
-  "lastFetched": "2025-11-30T20:13:53.050Z",
+  "lastFetched": "2025-12-02T00:45:32.379Z",
   "ai": {
     "title": "Manea-k",
     "artist": "Max Pashm"
@@ -22,6 +22,10 @@
   "musicbrainz": {
     "trackMbid": "4efeef3d-3040-4d62-a76d-63df7293a01c",
     "artistMbid": "cd3972ff-5726-4145-805c-ea29f4b860b9",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2005-08-20",
+    "externalIdsArtist": {
+      "discogs": "38901"
+    }
   }
 }

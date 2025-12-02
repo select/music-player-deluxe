@@ -2,7 +2,7 @@
   "youtubeId": "M2kcOCsALnw",
   "title": "Prelude in 303 Major",
   "artist": "Ceephax Acid Crew",
-  "lastFetched": "2025-11-30T22:44:44.334Z",
+  "lastFetched": "2025-12-02T01:05:57.976Z",
   "odesli": {
     "amazonMusic": "B07GHWF382",
     "amazonStore": "B07GHWF382",
@@ -27,6 +27,18 @@
     "releaseCount": 3,
     "artistGenres": [
       "acid house"
-    ]
+    ],
+    "releasedAt": "2007-02-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001780197",
+      "bandcamp": "https://ceephax.bandcamp.com/",
+      "discogs": "20390",
+      "spotify": "4sAE8NfDzNrxGuCLwZeu9E",
+      "deezer": "14677",
+      "rateyourmusic": "ceephax-acid-crew",
+      "wikidata": "Q2799860",
+      "youtube": "UCcvdGwb8HC8Gkq9_mN4ugNQ"
+    }
   }
 }

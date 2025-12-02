@@ -3,7 +3,7 @@
   "artist": "Need for Mirrors",
   "duration": 343,
   "youtubeId": "49l2GK-EUWs",
-  "lastFetched": "2025-11-23T16:27:42.281Z",
+  "lastFetched": "2025-12-02T00:38:02.712Z",
   "odesli": {
     "amazonMusic": "B077F9HDVP",
     "amazonStore": "B077F9HDVP",
@@ -23,7 +23,15 @@
     ],
     "trackMbid": "d2ae3e48-373d-4bb9-ac7d-99792d6a7a44",
     "artistMbid": "119d9a00-c929-4d3d-8e6c-1e9537c7b59d",
-    "releaseCount": 4
+    "releaseCount": 4,
+    "releasedAt": "2017-12",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "1760435",
+      "spotify": "0bR5osQX9Kn0wmtUPQQhze",
+      "deezer": "525564",
+      "soundcloud": "https://soundcloud.com/needformirrors"
+    }
   },
   "lastfm": {
     "id": "Need+for+Mirrors/_/Pagans",

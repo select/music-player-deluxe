@@ -2,7 +2,7 @@
   "youtubeId": "A_JtkSmw808",
   "title": "Strobelite Honey",
   "artist": "Black Sheep",
-  "lastFetched": "2025-11-23T16:30:40.225Z",
+  "lastFetched": "2025-12-02T00:47:29.424Z",
   "odesli": {
     "amazonMusic": "B001O3OG98",
     "amazonStore": "B001O3OG98",
@@ -21,7 +21,16 @@
       "hip hop"
     ],
     "trackMbid": "47f3a65b-38e8-315f-9eaf-c707d35adeda",
-    "artistMbid": "63034f55-692a-4f3b-a19a-ac2072eac3bb"
+    "artistMbid": "63034f55-692a-4f3b-a19a-ac2072eac3bb",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000080384",
+      "discogs": "14751",
+      "deezer": "7543",
+      "genius": "Black-sheep",
+      "rateyourmusic": "black_sheep",
+      "wikidata": "Q258120"
+    }
   },
   "lastfm": {
     "id": "Black+Sheep/_/Strobelite+Honey",

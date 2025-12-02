@@ -2,7 +2,7 @@
   "youtubeId": "Cmbdj9aXt_A",
   "title": "Don't Let It Go to Your Head",
   "artist": "Black Harmony",
-  "lastFetched": "2025-11-19T07:30:15.210Z",
+  "lastFetched": "2025-12-02T00:50:44.537Z",
   "odesli": {
     "amazonMusic": "B09MT48PBY",
     "amazonStore": "B09MT48PBY",
@@ -24,6 +24,9 @@
   },
   "musicbrainz": {
     "trackMbid": "3d80dde4-ea65-43c6-a07c-b13444ac810a",
-    "artistMbid": "1c7422d6-a198-457c-a654-5cbca262d2a3"
+    "artistMbid": "1c7422d6-a198-457c-a654-5cbca262d2a3",
+    "externalIdsArtist": {
+      "discogs": "77066"
+    }
   }
 }

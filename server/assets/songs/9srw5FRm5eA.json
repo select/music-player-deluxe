@@ -2,7 +2,7 @@
   "youtubeId": "9srw5FRm5eA",
   "title": "Corcovado",
   "artist": "Astrud Gilberto",
-  "lastFetched": "2025-11-30T22:02:09.514Z",
+  "lastFetched": "2025-12-02T00:46:47.849Z",
   "lastfm": {
     "id": "Astrud+Gilberto/_/Corcovado",
     "listeners": 12406,
@@ -28,6 +28,20 @@
       "latin jazz",
       "mpb",
       "samba"
-    ]
+    ],
+    "releasedAt": "1984",
+    "artistCountry": "BR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000931086",
+      "discogs": "8699",
+      "spotify": "5rX2c1zow6hCph8PnnU3kF",
+      "deezer": "1293",
+      "lastfm": "Astrud+Gilberto",
+      "genius": "Astrud-gilberto",
+      "rateyourmusic": "astrud_gilberto",
+      "soundcloud": "https://soundcloud.com/astrud-gilberto",
+      "wikidata": "Q230401",
+      "youtube": "UCy7dG12ZRkZxwRDC_Qr8lqQ"
+    }
   }
 }

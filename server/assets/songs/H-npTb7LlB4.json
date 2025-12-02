@@ -2,7 +2,7 @@
   "youtubeId": "H-npTb7LlB4",
   "title": "Oh, Lady Be Good",
   "artist": "Benny Goodman Trio",
-  "lastFetched": "2025-11-30T22:29:04.254Z",
+  "lastFetched": "2025-12-02T00:58:30.651Z",
   "odesli": {
     "amazonMusic": "B0013AW6NA",
     "amazonStore": "B0013AW6NA",
@@ -31,6 +31,11 @@
     "releaseCount": 1,
     "artistGenres": [
       "swing"
-    ]
+    ],
+    "releasedAt": "1959",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "311733"
+    }
   }
 }

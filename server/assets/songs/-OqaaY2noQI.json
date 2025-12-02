@@ -2,7 +2,7 @@
   "youtubeId": "-OqaaY2noQI",
   "title": "VU",
   "artist": "Sababa 5",
-  "lastFetched": "2025-11-30T21:32:11.653Z",
+  "lastFetched": "2025-12-02T00:32:13.045Z",
   "odesli": {
     "amazonMusic": "B0F3DLFHZL",
     "amazonStore": "B0F3DLFHZL",
@@ -35,6 +35,22 @@
       "anatolian rock",
       "muzika mizrahit",
       "neo-psychedelia"
-    ]
+    ],
+    "releasedAt": "2025-05-13",
+    "artistCountry": "Tel Aviv",
+    "externalIds": {
+      "bandcamp": "https://sababa5.bandcamp.com/",
+      "discogs": "7018623",
+      "spotify": "4MAzZqdLNuFniumG9Sbjiu",
+      "youtube": "UCCP7Ks8BtjiZa9VPVCs8qOg"
+    },
+    "externalIdsArtist": {
+      "bandcamp": "https://sababa5.bandcamp.com/",
+      "discogs": "7018623",
+      "spotify": "4MAzZqdLNuFniumG9Sbjiu",
+      "deezer": "59418222",
+      "rateyourmusic": "sababa-5",
+      "youtube": "UCCP7Ks8BtjiZa9VPVCs8qOg"
+    }
   }
 }

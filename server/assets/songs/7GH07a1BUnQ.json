@@ -2,7 +2,7 @@
   "youtubeId": "7GH07a1BUnQ",
   "title": "Meister Petz",
   "artist": "Peace Orchestra",
-  "lastFetched": "2025-11-30T22:32:28.495Z",
+  "lastFetched": "2025-12-02T00:42:52.812Z",
   "odesli": {
     "amazonMusic": "B07L5TCXHK",
     "amazonStore": "B07L5TCXHK",
@@ -39,6 +39,16 @@
       "dub",
       "electronic",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "1999-09-01",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000031760",
+      "discogs": "7570",
+      "deezer": "2243",
+      "lastfm": "Peace%20Orchestra",
+      "rateyourmusic": "peace_orchestra",
+      "wikidata": "Q695393"
+    }
   }
 }

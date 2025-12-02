@@ -2,7 +2,7 @@
   "youtubeId": "FFRWWUn7TSw",
   "title": "Been to the Future",
   "artist": "3",
-  "lastFetched": "2025-11-30T20:37:19.284Z",
+  "lastFetched": "2025-12-02T00:55:22.074Z",
   "odesli": {
     "amazonMusic": "B005E7D0P6",
     "amazonStore": "B005E7D0P6",
@@ -40,6 +40,14 @@
     "artistGenres": [
       "crossover prog",
       "progressive rock"
-    ]
+    ],
+    "releasedAt": "2007-07-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001928175",
+      "discogs": "513958",
+      "rateyourmusic": "3_f4",
+      "wikidata": "Q2279110"
+    }
   }
 }

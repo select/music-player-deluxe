@@ -2,7 +2,7 @@
   "youtubeId": "N701JYnjaMs",
   "title": "Paradise Circus",
   "artist": "Massive Attack vs Burial",
-  "lastFetched": "2025-11-23T16:36:45.084Z",
+  "lastFetched": "2025-12-02T01:07:44.713Z",
   "musicbrainz": {
     "artistTags": [
       "alternative dance",
@@ -24,7 +24,21 @@
       "dub"
     ],
     "trackMbid": "3284a14d-1e85-3a1b-8dc7-acdf2926667f",
-    "artistMbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8"
+    "artistMbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000378288",
+      "discogs": "4480",
+      "spotify": "6FXMGgJwohJLUSr5nVlf9X",
+      "deezer": "612",
+      "lastfm": "Massive+Attack",
+      "genius": "Massive-attack",
+      "rateyourmusic": "massive_attack",
+      "soundcloud": "https://soundcloud.com/massiveattack",
+      "napster": "massive-attack",
+      "wikidata": "Q357418",
+      "youtube": "UCNgjBASMIxygr65gJs9IyUA"
+    }
   },
   "lastfm": {
     "id": "Massive+Attack+vs+Burial/_/Paradise+Circus",

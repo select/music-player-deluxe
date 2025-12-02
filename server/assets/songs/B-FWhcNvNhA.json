@@ -2,7 +2,7 @@
   "youtubeId": "B-FWhcNvNhA",
   "title": "Youth",
   "artist": "Portico Quartet",
-  "lastFetched": "2025-11-30T23:38:24.553Z",
+  "lastFetched": "2025-12-02T00:48:06.481Z",
   "odesli": {
     "amazonMusic": "B09PRLZQH9",
     "amazonStore": "B09PRLZQH9",
@@ -39,6 +39,21 @@
       "avant-garde jazz",
       "instrumental",
       "jazz"
-    ]
+    ],
+    "releasedAt": "2022-02-23",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001012019",
+      "bandcamp": "https://porticoquartet.bandcamp.com/",
+      "discogs": "984316",
+      "spotify": "7sYipTRgDXS2JVOPEhRutx",
+      "deezer": "103287",
+      "lastfm": "porticoquartet",
+      "genius": "Portico-quartet",
+      "rateyourmusic": "portico_f1",
+      "soundcloud": "https://soundcloud.com/porticoquartet",
+      "wikidata": "Q3399302",
+      "youtube": "UCwFeYxCdn6nhydQcBlFIOqA"
+    }
   }
 }

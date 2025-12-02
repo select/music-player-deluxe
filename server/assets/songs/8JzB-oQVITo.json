@@ -2,7 +2,7 @@
   "youtubeId": "8JzB-oQVITo",
   "title": "Franis Vikarma",
   "artist": "Wucan",
-  "lastFetched": "2025-11-30T19:20:08.504Z",
+  "lastFetched": "2025-12-02T00:44:31.039Z",
   "odesli": {
     "amazonMusic": "B00Q42BFMA",
     "amazonStore": "B00Q42BFMA",
@@ -37,6 +37,15 @@
       "folk",
       "psychedelic rock",
       "stoner rock"
-    ]
+    ],
+    "releasedAt": "2015-06-14",
+    "externalIdsArtist": {
+      "bandcamp": "https://wucan.bandcamp.com/",
+      "discogs": "3504936",
+      "spotify": "7FsZ5HKdtDFJ1xmK6NICBO",
+      "deezer": "7181472",
+      "soundcloud": "https://soundcloud.com/wucan",
+      "wikidata": "Q23786301"
+    }
   }
 }

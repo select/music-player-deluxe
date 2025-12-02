@@ -2,7 +2,7 @@
   "youtubeId": "BE2Fj0W4jP4",
   "title": "Tattoo",
   "artist": "Loreen",
-  "lastFetched": "2025-11-19T11:51:45.709Z",
+  "lastFetched": "2025-12-02T00:48:23.472Z",
   "musicbrainz": {
     "tags": [
       "Eurovision",
@@ -12,7 +12,25 @@
       "eurovision winner"
     ],
     "trackMbid": "8a878f89-5454-46b7-a445-42c4ebc95830",
-    "artistMbid": "1e234774-8e37-4378-b01d-b7dd6ced769c"
+    "artistMbid": "1e234774-8e37-4378-b01d-b7dd6ced769c",
+    "releasedAt": "2023-02-25",
+    "artistCountry": "SE",
+    "externalIdsTrack": {
+      "spotify": "6HU0YI8xw0vnyy1QWzVPjS"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000276058",
+      "bandcamp": "https://loreenofficial.bandcamp.com/",
+      "discogs": "1252894",
+      "spotify": "49aaHxvAJ0tCh0F15OnwIl",
+      "deezer": "1199771",
+      "lastfm": "Loreen",
+      "genius": "Loreen",
+      "rateyourmusic": "loreen",
+      "soundcloud": "https://soundcloud.com/loreen-official",
+      "wikidata": "Q483376",
+      "youtube": "UCa5Ms_IBIxzAexW__370eHQ"
+    }
   },
   "lastfm": {
     "id": "Loreen/_/Tattoo",

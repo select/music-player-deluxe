@@ -2,7 +2,7 @@
   "youtubeId": "JMjYYuDpEww",
   "title": "White Rabbit",
   "artist": "Jefferson Airplane",
-  "lastFetched": "2025-11-30T22:19:10.696Z",
+  "lastFetched": "2025-12-02T01:01:55.302Z",
   "lastfm": {
     "title": "White Rabbit",
     "artist": "Jefferson Airplane",
@@ -41,6 +41,18 @@
       "psychedelic pop",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1978",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000840102",
+      "discogs": "58687",
+      "spotify": "2qFr8w5sWUITRlzZ9kZotF",
+      "deezer": "1723",
+      "lastfm": "Jefferson+Airplane",
+      "rateyourmusic": "jefferson_airplane",
+      "wikidata": "Q488260",
+      "youtube": "UCebgb37-z3_i6Xk_h4ch9YQ"
+    }
   }
 }

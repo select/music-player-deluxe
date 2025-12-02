@@ -2,7 +2,7 @@
   "youtubeId": "-RQFHqnIfTc",
   "title": "Schmetterling",
   "artist": "Team Scheisse",
-  "lastFetched": "2025-11-23T16:25:05.594Z",
+  "lastFetched": "2025-12-02T00:32:16.392Z",
   "musicbrainz": {
     "artistTags": [
       "punk",
@@ -13,7 +13,25 @@
       "punk rock"
     ],
     "trackMbid": "0333d0c7-42d0-4027-9bae-d18b644e03ed",
-    "artistMbid": "b9e85d24-37d9-4e22-a495-ef9a1dc0b894"
+    "artistMbid": "b9e85d24-37d9-4e22-a495-ef9a1dc0b894",
+    "releasedAt": "2023-02-24",
+    "artistCountry": "DE",
+    "externalIds": {
+      "bandcamp": "https://teamscheisse.bandcamp.com/",
+      "discogs": "8524677",
+      "spotify": "1Jpq5mhimELhC70sKsXZ3a",
+      "youtube": "UC1cKNAO4Yu5IMQl4r5LuGbg"
+    },
+    "externalIdsArtist": {
+      "bandcamp": "https://teamscheisse.bandcamp.com/",
+      "discogs": "8524677",
+      "spotify": "1Jpq5mhimELhC70sKsXZ3a",
+      "deezer": "147789492",
+      "genius": "Team-scheisse",
+      "rateyourmusic": "team-scheisse",
+      "youtube": "UC1cKNAO4Yu5IMQl4r5LuGbg",
+      "wikidata": "Q116940034"
+    }
   },
   "lastfm": {
     "id": "Team+Scheisse/_/Schmetterling",

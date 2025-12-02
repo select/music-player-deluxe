@@ -2,7 +2,7 @@
   "youtubeId": "AkSSDgSCUZw",
   "title": "Great Vacation",
   "artist": "Dirt Poor Robins",
-  "lastFetched": "2025-11-30T22:01:02.755Z",
+  "lastFetched": "2025-12-02T00:47:48.977Z",
   "odesli": {
     "amazonMusic": "B000QNJ80Y",
     "amazonStore": "B000QNJ80Y",
@@ -38,6 +38,15 @@
   "musicbrainz": {
     "trackMbid": "95a9958d-5183-4a0c-9037-cf66b4c91c5a",
     "artistMbid": "48104fe6-2006-49c0-87dd-ba077c798d8d",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2007",
+    "externalIdsArtist": {
+      "allmusic": "mn0001895552",
+      "bandcamp": "https://dirtpoorrobins.bandcamp.com/",
+      "discogs": "6003973",
+      "deezer": "1266479",
+      "lastfm": "Dirt+Poor+Robins",
+      "rateyourmusic": "dirt-poor-robins"
+    }
   }
 }

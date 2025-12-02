@@ -2,7 +2,7 @@
   "youtubeId": "3mecNrIaWOA",
   "title": "Sweet Mother",
   "artist": "Prince Nico Mbarga",
-  "lastFetched": "2025-11-30T22:03:41.947Z",
+  "lastFetched": "2025-12-02T00:37:34.564Z",
   "odesli": {
     "amazonMusic": "B01MRK4H8L",
     "amazonStore": "B01MRK4H8L",
@@ -31,6 +31,15 @@
   "musicbrainz": {
     "trackMbid": "1f9db056-b313-44bf-b2fa-2fa535e3c5a9",
     "artistMbid": "2d12a36d-3913-49bc-a738-7a055e980d45",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "1982",
+    "artistCountry": "NG",
+    "externalIdsArtist": {
+      "discogs": "865039",
+      "spotify": "1t3sXc68XewRk3pB1S4A9e",
+      "deezer": "1453568",
+      "genius": "Prince-nico-mbarga",
+      "wikidata": "Q1893336"
+    }
   }
 }

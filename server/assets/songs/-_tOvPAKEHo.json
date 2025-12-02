@@ -2,7 +2,7 @@
   "youtubeId": "-_tOvPAKEHo",
   "title": "Dreaming",
   "artist": "The Cosmic Rays",
-  "lastFetched": "2025-11-30T20:53:42.401Z",
+  "lastFetched": "2025-12-02T00:32:27.366Z",
   "odesli": {
     "amazonMusic": "B01MA6K4GO",
     "amazonStore": "B01MA6K4GO",
@@ -33,6 +33,17 @@
       "hard bop",
       "jazz",
       "r&b"
-    ]
+    ],
+    "releasedAt": "1996-09-24",
+    "artistCountry": "Chicago",
+    "externalIds": {
+      "allmusic": "mn0000137219",
+      "discogs": "271888"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000137219",
+      "discogs": "271888",
+      "rateyourmusic": "cosmic_rays"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "9X_ViIPA-Gc",
   "title": "I'd Do Anything for Love (But I Won't Do That)",
   "artist": "Meat Loaf",
-  "lastFetched": "2025-11-23T16:30:15.206Z",
+  "lastFetched": "2025-12-02T00:46:20.963Z",
   "odesli": {
     "amazonMusic": "B000V61F52",
     "amazonStore": "B000V61F52",
@@ -53,7 +53,20 @@
       "rock opera"
     ],
     "trackMbid": "6070bf13-fec2-41e8-aa46-7fa863f3eaf5",
-    "artistMbid": "b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1"
+    "artistMbid": "b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1",
+    "releasedAt": "1993-11-04",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000378132",
+      "discogs": "254259",
+      "spotify": "7dnB1wSxbYa8CejeVg98hz",
+      "deezer": "317",
+      "lastfm": "Meat+Loaf",
+      "genius": "Meat-loaf",
+      "rateyourmusic": "meat-loaf",
+      "napster": "meat-loaf",
+      "wikidata": "Q152929"
+    }
   },
   "lastfm": {
     "id": "Meat+Loaf/_/I%27d+Do+Anything+for+Love+(But+I+Won%27t+Do+That)",

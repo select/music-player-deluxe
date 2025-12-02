@@ -1,7 +1,7 @@
 {
   "youtubeId": "GTISI3Bg4Mc",
   "title": "Grandson - Best Friends (Official Audio)",
-  "lastFetched": "2025-11-30T19:21:14.128Z",
+  "lastFetched": "2025-12-02T00:57:32.257Z",
   "ai": {
     "title": "Best Friends",
     "artist": "Grandson"
@@ -32,6 +32,21 @@
       "nu metal",
       "political hip hop",
       "rap rock"
-    ]
+    ],
+    "releasedAt": "2017-04-12",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0003577797",
+      "discogs": "6540090",
+      "spotify": "4ZgQDCtRqZlhLswVS6MHN4",
+      "deezer": "324922",
+      "lastfm": "Grandson",
+      "genius": "Grandson",
+      "rateyourmusic": "grandson-1",
+      "soundcloud": "https://soundcloud.com/grandsonsucks",
+      "napster": "grandson",
+      "wikidata": "Q56274788",
+      "youtube": "UC22gMfQuek7x6mdsoJ1qFSQ"
+    }
   }
 }

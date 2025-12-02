@@ -2,7 +2,7 @@
   "youtubeId": "3wk7C64kaP4",
   "title": "Zero",
   "artist": "The Smashing Pumpkins",
-  "lastFetched": "2025-11-30T23:38:48.237Z",
+  "lastFetched": "2025-12-02T00:37:48.786Z",
   "odesli": {
     "amazonMusic": "B000TDYWJI",
     "amazonStore": "B000TDYWJI",
@@ -44,6 +44,21 @@
       "shoegaze",
       "symphonic rock",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "1996",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000036521",
+      "discogs": "28970",
+      "spotify": "40Yq4vzPs9VNUrIBG5Jr2i",
+      "deezer": "193331",
+      "lastfm": "The+Smashing+Pumpkins",
+      "genius": "Smashing-pumpkins",
+      "rateyourmusic": "the-smashing-pumpkins",
+      "soundcloud": "https://soundcloud.com/smashingpumpkins",
+      "napster": "smashing-pumpkins",
+      "wikidata": "Q184217",
+      "youtube": "UCZM3bF24BS-qDMe0OigpeZw"
+    }
   }
 }

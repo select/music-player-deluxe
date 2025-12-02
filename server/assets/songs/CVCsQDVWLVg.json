@@ -2,7 +2,7 @@
   "youtubeId": "CVCsQDVWLVg",
   "title": "October Swimmer",
   "artist": "JJ72",
-  "lastFetched": "2025-11-30T21:59:58.509Z",
+  "lastFetched": "2025-12-02T00:50:14.869Z",
   "odesli": {
     "amazonMusic": "B0014LROC6",
     "amazonStore": "B0014LROC6",
@@ -40,6 +40,16 @@
     "artistGenres": [
       "alternative rock",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "1999",
+    "artistCountry": "IE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000778333",
+      "discogs": "80392",
+      "spotify": "5z7r51VxyXSf7DcJVONfer",
+      "deezer": "4042",
+      "lastfm": "JJ72",
+      "wikidata": "Q611696"
+    }
   }
 }

@@ -4,7 +4,7 @@
   "album": "ISMUS",
   "duration": 161,
   "youtubeId": "L1ukLL192vg",
-  "lastFetched": "2025-11-19T04:52:59.572Z",
+  "lastFetched": "2025-12-02T01:04:22.450Z",
   "odesli": {
     "amazonMusic": "B0F21VZXFH",
     "amazonStore": "B0F21VZXFH",
@@ -22,7 +22,21 @@
       "german"
     ],
     "trackMbid": "dcd7e755-be54-4dfa-9d40-9a7101061c67",
-    "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e"
+    "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
+    "releasedAt": "2025-04-03",
+    "externalIdsArtist": {
+      "allmusic": "mn0000911512",
+      "bandcamp": "https://knorkator.bandcamp.com/",
+      "discogs": "351541",
+      "spotify": "5iFI4j0w7RbSJmkbI6rqzi",
+      "deezer": "7097",
+      "lastfm": "Knorkator",
+      "genius": "Knorkator",
+      "rateyourmusic": "knorkator",
+      "soundcloud": "https://soundcloud.com/knorkatorofficial",
+      "wikidata": "Q696919",
+      "youtube": "UCDchoKSWD6v70-MOKgBWFXQ"
+    }
   },
   "lastfm": {
     "id": "Knorkator/_/ISMUS",

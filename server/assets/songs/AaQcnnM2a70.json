@@ -2,7 +2,7 @@
   "youtubeId": "AaQcnnM2a70",
   "title": "Lasse redn",
   "artist": "Die Ärzte",
-  "lastFetched": "2025-11-23T16:30:42.381Z",
+  "lastFetched": "2025-12-02T00:47:34.008Z",
   "odesli": {
     "amazonMusic": "B08C2CC1F1",
     "amazonStore": "B08C2CC1F1",
@@ -32,7 +32,20 @@
       "rock"
     ],
     "trackMbid": "9a93db5a-e2e0-396a-b681-7bad962d3e69",
-    "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320"
+    "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000823202",
+      "discogs": "45317",
+      "spotify": "0cbL6CYnRqpAxf1evwUVQD",
+      "deezer": "2154",
+      "lastfm": "Die+%C3%84rzte",
+      "genius": "Die-arzte",
+      "rateyourmusic": "die_arzte",
+      "soundcloud": "https://soundcloud.com/diearzte",
+      "wikidata": "Q32645",
+      "youtube": "UCsJsxj9pPP8sZuaRiaNAavQ"
+    }
   },
   "lastfm": {
     "id": "Die+%C3%84rzte/_/Lasse+redn",

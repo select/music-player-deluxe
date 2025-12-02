@@ -2,7 +2,7 @@
   "youtubeId": "178n_mTtgwI",
   "title": "Still Standing (Instrumental)",
   "artist": "Hilltop Hoods",
-  "lastFetched": "2025-11-30T22:10:48.623Z",
+  "lastFetched": "2025-12-02T00:34:23.998Z",
   "odesli": {
     "amazonMusic": "B0DP5X93S2",
     "amazonStore": "B0DP5X93S2",
@@ -40,6 +40,18 @@
     "releaseCount": 1,
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2009",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000721539",
+      "discogs": "103357",
+      "spotify": "7dlqUnjoF2U2DkNDMhcgG4",
+      "deezer": "5462",
+      "lastfm": "Hilltop+Hoods",
+      "soundcloud": "https://soundcloud.com/hilltophoods",
+      "wikidata": "Q1618844",
+      "youtube": "UC3MvNfKIhwubtPr2LMOFSZA"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "4o2h02vLhg4",
   "title": "Dread the Evening",
   "artist": "Minor Science",
-  "lastFetched": "2025-11-19T12:50:27.696Z",
+  "lastFetched": "2025-12-02T00:39:12.089Z",
   "odesli": {
     "amazonMusic": "B0C8YZBVCK",
     "amazonStore": "B0C8YZBVCK",
@@ -33,6 +33,15 @@
   },
   "musicbrainz": {
     "trackMbid": "c43acd20-3dec-4c3c-9944-353d858f32c9",
-    "artistMbid": "5944a380-bfed-4b8b-9d5e-52a6f115032b"
+    "artistMbid": "5944a380-bfed-4b8b-9d5e-52a6f115032b",
+    "releasedAt": "2023-09-08",
+    "externalIdsArtist": {
+      "bandcamp": "https://minorscience.bandcamp.com/",
+      "discogs": "3720639",
+      "spotify": "7xkfvmfvOfMBZmIGKaLtzi",
+      "deezer": "7613128",
+      "rateyourmusic": "minor-science",
+      "soundcloud": "https://soundcloud.com/minor-science"
+    }
   }
 }

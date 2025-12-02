@@ -2,7 +2,7 @@
   "youtubeId": "RuQraiLIhbI",
   "title": "The Only Young Ones Left",
   "artist": "Dark Suns",
-  "lastFetched": "2025-11-23T16:39:14.980Z",
+  "lastFetched": "2025-12-02T01:15:46.281Z",
   "odesli": {
     "amazonMusic": "B08XQMGMSV",
     "amazonStore": "B08XQMGMSV",
@@ -26,7 +26,16 @@
       "progressive metal"
     ],
     "trackMbid": "46123c5d-cbd5-47c3-9047-579b2c9d0698",
-    "artistMbid": "b8291282-319b-4ec6-9807-2280a1118e3f"
+    "artistMbid": "b8291282-319b-4ec6-9807-2280a1118e3f",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "bandcamp": "https://dark-suns.bandcamp.com/",
+      "discogs": "295657",
+      "spotify": "725TVcN9QYnaZiG9VFBT7P",
+      "soundcloud": "https://soundcloud.com/darksuns",
+      "wikidata": "Q873974",
+      "youtube": "UCperGoWO7zT8OT61WrklCmw"
+    }
   },
   "lastfm": {
     "id": "Dark+Suns/_/The+Only+Young+Ones+Left",

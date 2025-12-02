@@ -2,7 +2,7 @@
   "youtubeId": "4hDSgmYqzsk",
   "title": "Nijána",
   "artist": "Jana Koubková",
-  "lastFetched": "2025-11-30T22:27:57.523Z",
+  "lastFetched": "2025-12-02T00:39:01.303Z",
   "odesli": {
     "amazonMusic": "B07D3Y6B2P",
     "amazonStore": "B07D3Y6B2P",
@@ -28,6 +28,12 @@
     "releaseCount": 3,
     "artistGenres": [
       "jazz"
-    ]
+    ],
+    "releasedAt": "2023-07-21",
+    "artistCountry": "CZ",
+    "externalIdsArtist": {
+      "discogs": "465894",
+      "wikidata": "Q669948"
+    }
   }
 }

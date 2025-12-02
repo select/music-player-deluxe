@@ -2,7 +2,7 @@
   "youtubeId": "HK3sFTVXiBY",
   "title": "Feel The Night",
   "artist": "Lee Ritenour",
-  "lastFetched": "2025-11-30T20:18:36.950Z",
+  "lastFetched": "2025-12-02T00:58:50.285Z",
   "odesli": {
     "amazonMusic": "B09B5SMK6Y",
     "amazonStore": "B09B5SMK6Y",
@@ -38,6 +38,17 @@
       "jazz rock",
       "smooth jazz",
       "yacht rock"
-    ]
+    ],
+    "releasedAt": "1979",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000228444",
+      "discogs": "37735",
+      "spotify": "1nDqTUspmq8IXhcEZT93iq",
+      "deezer": "7432",
+      "lastfm": "Lee+Ritenour",
+      "rateyourmusic": "lee_ritenour",
+      "wikidata": "Q363320"
+    }
   }
 }

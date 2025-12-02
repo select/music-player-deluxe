@@ -2,7 +2,7 @@
   "youtubeId": "BmpWw8dI1-Y",
   "title": "Mushin",
   "artist": "Dead Can Dance",
-  "lastFetched": "2025-11-23T16:31:20.601Z",
+  "lastFetched": "2025-12-02T00:49:16.538Z",
   "odesli": {
     "amazonMusic": "B095XJV6N2",
     "amazonStore": "B095XJV6N2",
@@ -36,7 +36,18 @@
       "ethereal wave"
     ],
     "trackMbid": "44dd3ead-bc24-4e69-a93a-9653ea9f6355",
-    "artistMbid": "ccda046a-2674-4f7d-97e6-f23d6c156432"
+    "artistMbid": "ccda046a-2674-4f7d-97e6-f23d6c156432",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000225948",
+      "discogs": "12368",
+      "spotify": "6sq7prp0tj9Abn89khmfja",
+      "deezer": "605",
+      "lastfm": "Dead+Can+Dance",
+      "genius": "Dead-can-dance",
+      "rateyourmusic": "dead_can_dance",
+      "wikidata": "Q324400"
+    }
   },
   "lastfm": {
     "id": "Dead+Can+Dance/_/Mushin",

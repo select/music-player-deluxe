@@ -2,7 +2,7 @@
   "youtubeId": "A2zKARkpDW4",
   "title": "Dayvan Cowboy",
   "artist": "Boards of Canada",
-  "lastFetched": "2025-11-23T16:30:25.517Z",
+  "lastFetched": "2025-12-02T00:46:52.457Z",
   "musicbrainz": {
     "artistTags": [
       "ambient",
@@ -24,7 +24,21 @@
       "folktronica"
     ],
     "trackMbid": "ada0a76a-1024-4945-a856-23ac86f6a08d",
-    "artistMbid": "69158f97-4c07-4c4e-baf8-4e4ab1ed666e"
+    "artistMbid": "69158f97-4c07-4c4e-baf8-4e4ab1ed666e",
+    "releasedAt": "2012",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000758999",
+      "bandcamp": "https://boardsofcanada.bandcamp.com/",
+      "discogs": "307",
+      "youtube": "UCidyEq0ZC6rcqZmwKt_g_2g",
+      "spotify": "2VAvhf61GgLYmC6C8anyX1",
+      "deezer": "1098",
+      "lastfm": "Boards+of+Canada",
+      "rateyourmusic": "boards-of-canada",
+      "soundcloud": "https://soundcloud.com/boardsofcanada",
+      "wikidata": "Q722778"
+    }
   },
   "lastfm": {
     "id": "Boards+of+Canada/_/Dayvan+Cowboy",

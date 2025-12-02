@@ -2,7 +2,7 @@
   "youtubeId": "4PkcfQtibmU",
   "title": "Walk",
   "artist": "Foo Fighters",
-  "lastFetched": "2025-11-23T16:27:46.599Z",
+  "lastFetched": "2025-12-02T00:38:32.677Z",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -20,7 +20,22 @@
       "rock"
     ],
     "trackMbid": "0734d285-4838-480d-acd3-a54352ba6a45",
-    "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d"
+    "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000184043",
+      "bandcamp": "https://foofighters.bandcamp.com/",
+      "discogs": "198282",
+      "spotify": "7jy3rLJdDQY21OgRLCZ9sD",
+      "deezer": "566",
+      "lastfm": "Foo+Fighters",
+      "genius": "Foo-fighters",
+      "rateyourmusic": "foo_fighters",
+      "soundcloud": "https://soundcloud.com/foofighters",
+      "napster": "foo-fighters",
+      "wikidata": "Q483718",
+      "youtube": "UCwDw2KaS8jRUxAPScL2U8og"
+    }
   },
   "lastfm": {
     "id": "Foo+Fighters/_/Walk",

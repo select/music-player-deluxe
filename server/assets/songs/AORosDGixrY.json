@@ -2,7 +2,7 @@
   "youtubeId": "AORosDGixrY",
   "title": "Everyone's A V.I.P. To Someone",
   "artist": "The Go! Team",
-  "lastFetched": "2025-11-30T20:55:18.053Z",
+  "lastFetched": "2025-12-02T00:47:17.145Z",
   "odesli": {
     "amazonMusic": "B0096J6GHW",
     "amazonStore": "B0096J6GHW",
@@ -40,6 +40,20 @@
       "indie pop",
       "indie rock",
       "sampledelia"
-    ]
+    ],
+    "releasedAt": "2006-09-12",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000397794",
+      "bandcamp": "https://thegoteam.bandcamp.com/",
+      "discogs": "101138",
+      "spotify": "6veTV9sF06FBf2KN0xAdvo",
+      "deezer": "1565",
+      "lastfm": "The+Go!+Team",
+      "genius": "The-go-team-uk",
+      "rateyourmusic": "the_go__team",
+      "soundcloud": "https://soundcloud.com/thegoteam",
+      "wikidata": "Q1514317"
+    }
   }
 }

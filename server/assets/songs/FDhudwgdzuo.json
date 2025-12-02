@@ -2,7 +2,7 @@
   "youtubeId": "FDhudwgdzuo",
   "title": "Hymn (European mix)",
   "artist": "Moby",
-  "lastFetched": "2025-11-23T16:33:30.310Z",
+  "lastFetched": "2025-12-02T00:55:17.152Z",
   "musicbrainz": {
     "artistTags": [
       "ambient",
@@ -24,7 +24,23 @@
       "electronica"
     ],
     "trackMbid": "be8f7029-9e3d-44b9-8f9a-8e930e989b64",
-    "artistMbid": "8970d868-0723-483b-a75b-51088913d3d4"
+    "artistMbid": "8970d868-0723-483b-a75b-51088913d3d4",
+    "releasedAt": "2014",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000477116",
+      "bandcamp": "https://moby.bandcamp.com/",
+      "discogs": "1031",
+      "spotify": "3OsRAKCvk37zwYcnzRf5XF",
+      "deezer": "493",
+      "lastfm": "Moby",
+      "genius": "Moby",
+      "rateyourmusic": "moby",
+      "soundcloud": "https://soundcloud.com/moby",
+      "napster": "moby",
+      "wikidata": "Q14045",
+      "youtube": "UC35GdXKfexT9GAZv3SJq0uA"
+    }
   },
   "lastfm": {
     "id": "Moby/_/Hymn+(European+mix)",

@@ -2,7 +2,7 @@
   "youtubeId": "Kyar2C_wEq8",
   "title": "Egg Man",
   "artist": "Beastie Boys",
-  "lastFetched": "2025-11-23T16:35:52.359Z",
+  "lastFetched": "2025-12-02T01:04:17.132Z",
   "odesli": {
     "amazonMusic": "B001QSQLWQ",
     "amazonStore": "B001QSQLWQ",
@@ -33,7 +33,20 @@
       "funk"
     ],
     "trackMbid": "0e1ead74-2a75-3645-9d53-fc0252dd516d",
-    "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53"
+    "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000038469",
+      "discogs": "10783",
+      "spotify": "03r4iKL2g2442PT9n2UKsx",
+      "deezer": "194746",
+      "lastfm": "Beastie+Boys",
+      "genius": "Beastie-boys",
+      "rateyourmusic": "beastie_boys",
+      "soundcloud": "https://soundcloud.com/beastieboys",
+      "qobuz": "43813",
+      "wikidata": "Q214039"
+    }
   },
   "lastfm": {
     "id": "Beastie+Boys/_/Egg+Man",

@@ -2,7 +2,7 @@
   "youtubeId": "7tf1wzg4rdE",
   "title": "Anything Could Happen",
   "artist": "The Clean",
-  "lastFetched": "2025-11-30T22:10:12.598Z",
+  "lastFetched": "2025-12-02T00:44:03.811Z",
   "odesli": {
     "amazonMusic": "B0FQLW5PNB",
     "amazonStore": "B0FQLW5PNB",
@@ -34,6 +34,16 @@
       "dunedin sound",
       "indie pop",
       "jangle pop"
-    ]
+    ],
+    "releasedAt": "1981-11",
+    "artistCountry": "NZ",
+    "externalIdsArtist": {
+      "bandcamp": "https://theclean.bandcamp.com/",
+      "discogs": "261396",
+      "spotify": "6LRmgzRManplPQghd2BMqz",
+      "lastfm": "The+Clean",
+      "rateyourmusic": "the_clean",
+      "wikidata": "Q2410301"
+    }
   }
 }

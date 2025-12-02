@@ -3,7 +3,7 @@
   "artist": "Ozzy Osbourne",
   "duration": 361,
   "youtubeId": "8lD5bfqzr6E",
-  "lastFetched": "2025-11-19T03:17:19.690Z",
+  "lastFetched": "2025-12-02T00:45:10.158Z",
   "odesli": {
     "amazonMusic": "B0013D6ACK",
     "amazonStore": "B0013D6ACK",
@@ -32,7 +32,22 @@
     ],
     "trackMbid": "fc2d9e14-c592-46c5-bc3f-89c827ab9318",
     "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2002-05-25",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000424244",
+      "discogs": "59770",
+      "spotify": "6ZLTlhejhndI4Rh53vYhrY",
+      "deezer": "823",
+      "lastfm": "Ozzy+Osbourne",
+      "genius": "Ozzy-osbourne",
+      "rateyourmusic": "ozzy-osbourne",
+      "soundcloud": "https://soundcloud.com/ozzy-osbourne-official",
+      "napster": "ozzy-osbourne",
+      "wikidata": "Q133151",
+      "youtube": "UC3oY0sESMqxZaAy8nRcVxQQ"
+    }
   },
   "lastfm": {
     "id": "Ozzy+Osbourne/_/Crazy+Train+(Live)",

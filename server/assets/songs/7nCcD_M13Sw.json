@@ -2,7 +2,7 @@
   "youtubeId": "7nCcD_M13Sw",
   "title": "Technical Difficulties",
   "artist": "Racer X",
-  "lastFetched": "2025-11-23T16:29:39.725Z",
+  "lastFetched": "2025-12-02T00:43:56.838Z",
   "musicbrainz": {
     "artistTags": [
       "heavy metal"
@@ -11,7 +11,21 @@
       "heavy metal"
     ],
     "trackMbid": "cbdbf0b0-c25d-3c0d-83ea-458a553232a4",
-    "artistMbid": "9943ae46-9fe3-4e01-91db-b27179ccf831"
+    "artistMbid": "9943ae46-9fe3-4e01-91db-b27179ccf831",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000320442",
+      "discogs": "292457",
+      "spotify": "6C3ixObG7tE7jeO69rehvs",
+      "deezer": "1027612",
+      "lastfm": "Racer+X",
+      "genius": "Racer-x",
+      "rateyourmusic": "racer-x",
+      "soundcloud": "https://soundcloud.com/racerxofficial",
+      "napster": "racer-x",
+      "wikidata": "Q1472795",
+      "youtube": "UCKKDU_oxPW9wNKD3BvEzYhg"
+    }
   },
   "lastfm": {
     "id": "Racer+X/_/Technical+Difficulties",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "KUDpc04r_QM",
   "title": "Pink Floyd - Have a Cigar",
-  "lastFetched": "2025-11-30T21:17:39.185Z",
+  "lastFetched": "2025-12-02T01:03:24.211Z",
   "ai": {
     "title": "Have a Cigar",
     "artist": "Pink Floyd"
@@ -40,6 +40,19 @@
       "rock",
       "rock opera",
       "space rock"
-    ]
+    ],
+    "releasedAt": "1998",
+    "externalIdsArtist": {
+      "allmusic": "mn0000346336",
+      "discogs": "45467",
+      "spotify": "0k17h0D3J5VfsdmQ1iZtE9",
+      "deezer": "860",
+      "lastfm": "Pink+Floyd",
+      "genius": "Pink-floyd",
+      "rateyourmusic": "pink-floyd",
+      "soundcloud": "https://soundcloud.com/officialpinkfloyd",
+      "wikidata": "Q2306",
+      "youtube": "UCO6LS_5W7vqG9mALDNzSFug"
+    }
   }
 }

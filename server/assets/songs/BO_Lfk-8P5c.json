@@ -2,7 +2,7 @@
   "youtubeId": "BO_Lfk-8P5c",
   "title": "Memphis Underground",
   "artist": "Herbie Mann",
-  "lastFetched": "2025-11-30T22:14:40.796Z",
+  "lastFetched": "2025-12-02T00:48:42.904Z",
   "odesli": {
     "amazonMusic": "B0018AKEP2",
     "amazonStore": "B0018AKEP2",
@@ -43,6 +43,17 @@
     "artistGenres": [
       "jazz",
       "soul jazz"
-    ]
+    ],
+    "releasedAt": "1969",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000678408",
+      "discogs": "30721",
+      "spotify": "6ycoXr0Ayd89vFUT6BOiWo",
+      "deezer": "61690",
+      "lastfm": "Herbie+Mann",
+      "rateyourmusic": "herbie_mann",
+      "wikidata": "Q551912"
+    }
   }
 }

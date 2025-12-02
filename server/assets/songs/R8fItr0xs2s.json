@@ -2,7 +2,7 @@
   "youtubeId": "R8fItr0xs2s",
   "title": "Kill Room",
   "artist": "Delta Heavy",
-  "lastFetched": "2025-11-30T20:12:32.074Z",
+  "lastFetched": "2025-12-02T01:14:03.403Z",
   "odesli": {
     "amazonMusic": "B0DZW6SGQC",
     "amazonStore": "B0DZW6SGQC",
@@ -42,6 +42,18 @@
       "drum and bass",
       "electronic",
       "jungle"
-    ]
+    ],
+    "releasedAt": "2016-10-21",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002393575",
+      "discogs": "1564807",
+      "spotify": "7GvVTb8yFV0ZrdI30Qce6T",
+      "deezer": "1019634",
+      "rateyourmusic": "delta_heavy",
+      "soundcloud": "https://soundcloud.com/deltaheavyuk",
+      "wikidata": "Q16864855",
+      "youtube": "UCIrx_9CKAkCNKx5khJ-AvDA"
+    }
   }
 }

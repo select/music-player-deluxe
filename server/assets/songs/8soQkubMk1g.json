@@ -2,7 +2,7 @@
   "youtubeId": "8soQkubMk1g",
   "title": "Ça plane pour moi",
   "artist": "Plastic Bertrand",
-  "lastFetched": "2025-11-30T23:10:20.312Z",
+  "lastFetched": "2025-12-02T00:45:24.390Z",
   "odesli": {
     "amazonMusic": "B001B8182E",
     "amazonStore": "B001B8182E",
@@ -49,6 +49,21 @@
     "artistGenres": [
       "punk",
       "rock"
-    ]
+    ],
+    "releasedAt": "1977",
+    "artistCountry": "BE",
+    "externalIdsTrack": {
+      "spotify": "4sf4Lq52b2iCoAgpge7a9g",
+      "deezer": "1974268367"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000298766",
+      "discogs": "728514",
+      "spotify": "1KeIof0zqga5ojkmOKg88P",
+      "deezer": "5789",
+      "genius": "Plastic-bertrand",
+      "rateyourmusic": "plastic_bertrand",
+      "wikidata": "Q558440"
+    }
   }
 }

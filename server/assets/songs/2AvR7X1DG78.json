@@ -2,7 +2,7 @@
   "youtubeId": "2AvR7X1DG78",
   "title": "Happiness Is…",
   "artist": "Yungchen Lhamo",
-  "lastFetched": "2025-11-30T20:37:14.490Z",
+  "lastFetched": "2025-12-02T00:35:49.028Z",
   "odesli": {
     "amazonMusic": "B073R978FH",
     "amazonStore": "B073R978FH",
@@ -30,6 +30,17 @@
   "musicbrainz": {
     "trackMbid": "c0ca2c88-94fe-4576-830e-becabfb362c8",
     "artistMbid": "4d9d3718-2261-448d-9239-68ac50ba16a2",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2002",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000694102",
+      "bandcamp": "https://yungchenlhamo.bandcamp.com/",
+      "discogs": "318471",
+      "spotify": "75vR6YRnRzAVqGrh6saGTS",
+      "deezer": "211328",
+      "rateyourmusic": "yungchen_lhamo",
+      "wikidata": "Q2507975"
+    }
   }
 }

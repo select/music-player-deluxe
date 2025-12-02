@@ -1,7 +1,7 @@
 {
   "youtubeId": "6wMMcCkRAsk",
   "title": "Héroes del Silencio - Entre dos tierras",
-  "lastFetched": "2025-11-30T20:16:12.358Z",
+  "lastFetched": "2025-12-02T00:42:11.568Z",
   "ai": {
     "title": "Entre dos tierras",
     "artist": "Héroes del Silencio"
@@ -32,6 +32,18 @@
     ],
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "releasedAt": "1990-05-04",
+    "artistCountry": "ES",
+    "externalIdsArtist": {
+      "allmusic": "mn0000954045",
+      "discogs": "282520",
+      "spotify": "3qAPxVwIQRBuz5ImPUxpZT",
+      "deezer": "6137",
+      "lastfm": "H%C3%A9roes%20del%20Silencio",
+      "rateyourmusic": "heroes_del_silencio",
+      "wikidata": "Q1434852",
+      "youtube": "UCd8PQHkVSnhcMI3Ie4AEMOA"
+    }
   }
 }

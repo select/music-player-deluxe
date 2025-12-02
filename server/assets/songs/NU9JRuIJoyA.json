@@ -2,7 +2,7 @@
   "youtubeId": "NU9JRuIJoyA",
   "title": "Catwalk",
   "artist": "Art Of Noise",
-  "lastFetched": "2025-11-30T22:24:58.474Z",
+  "lastFetched": "2025-12-02T01:08:23.931Z",
   "odesli": {
     "amazonMusic": "B073RJQ1BC",
     "amazonStore": "B073RJQ1BC",
@@ -52,6 +52,19 @@
       "plunderphonics",
       "sampledelia",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "1989-10-03",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000930204",
+      "discogs": "7142",
+      "spotify": "77zrvBORXcnTyysjjKRfBU",
+      "deezer": "204",
+      "rateyourmusic": "art_of_noise",
+      "soundcloud": "https://soundcloud.com/art-of-noise-official",
+      "wikidata": "Q502967",
+      "wikipedia": "File:Art_Of_Noise.jpeg",
+      "youtube": "UClyaVdvS3c1V5SHTJgkXzVg"
+    }
   }
 }

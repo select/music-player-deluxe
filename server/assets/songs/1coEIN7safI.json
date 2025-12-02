@@ -1,0 +1,63 @@
+{
+  "youtubeId": "1coEIN7safI",
+  "title": "Richtig Gutes Zeug",
+  "artist": "Deichkind",
+  "lastFetched": "2025-12-02T00:35:05.062Z",
+  "odesli": {
+    "amazonMusic": "B07SN49JVX",
+    "amazonStore": "B07SN49JVX",
+    "deezer": "760389442",
+    "napster": "tra.359412188",
+    "pandora": "TR:23046896",
+    "soundcloud": "deichkind-1/richtig-gutes-zeug",
+    "spotify": "6mvehsKY9lZnLkBU648zHe",
+    "tidal": "118381243",
+    "yandex": "54413918",
+    "youtube": "1coEIN7safI",
+    "youtubeMusic": "1coEIN7safI"
+  },
+  "lastfm": {
+    "id": "Deichkind/_/Richtig+Gutes+Zeug",
+    "listeners": 13400,
+    "playcount": 93708,
+    "title": "Richtig Gutes Zeug",
+    "artist": "Deichkind",
+    "mbid": "1d51f07d-e498-4ae7-8e12-614a75f509bc",
+    "artistMbid": "5de80871-f721-4c7c-b0c5-4ad0d350c232",
+    "tags": [
+      "deichkind",
+      "fm4",
+      "2019",
+      "2010s",
+      "wer sagt denn das"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9498f9e3-5d53-4481-a580-2e8ff090b96f",
+    "artistMbid": "5de80871-f721-4c7c-b0c5-4ad0d350c232",
+    "releaseCount": 9,
+    "artistGenres": [
+      "electro",
+      "electroclash",
+      "electropop",
+      "electropunk",
+      "hip hop"
+    ],
+    "releasedAt": "2019-03-15",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000521004",
+      "bandcamp": "https://deichkind.bandcamp.com/",
+      "discogs": "90440",
+      "spotify": "49eo9xE4yGzJLWkOndiODs",
+      "deezer": "12920",
+      "lastfm": "Deichkind",
+      "genius": "Deichkind",
+      "rateyourmusic": "deichkind",
+      "soundcloud": "https://soundcloud.com/deichkind-musik",
+      "qobuz": "218835",
+      "wikidata": "Q323803",
+      "youtube": "UC4-16tWm2omCdOjk0sz8QSw"
+    }
+  }
+}

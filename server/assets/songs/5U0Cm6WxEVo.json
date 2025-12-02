@@ -1,0 +1,43 @@
+{
+  "youtubeId": "5U0Cm6WxEVo",
+  "title": "I Spy",
+  "artist": "Here Come The Mummies",
+  "lastFetched": "2025-12-02T00:39:53.726Z",
+  "odesli": {
+    "amazonMusic": "B07R4QC64S",
+    "amazonStore": "B07R4QC64S",
+    "anghami": "1072961626",
+    "appleMusic": "1461756869",
+    "itunes": "1461756869",
+    "soundcloud": "herecomethemummies/i-spy-studio",
+    "tidal": "241908757",
+    "youtube": "5U0Cm6WxEVo",
+    "youtubeMusic": "5U0Cm6WxEVo"
+  },
+  "lastfm": {
+    "id": "Here+Come+the+Mummies/_/I+Spy",
+    "listeners": 449,
+    "playcount": 1909,
+    "title": "I Spy",
+    "artist": "Here Come the Mummies",
+    "mbid": "91ef20ef-b109-427c-9dd0-c3400658c4fb",
+    "artistMbid": "8ee5fb89-8cfc-4811-97ba-31c7b08d8a40",
+    "tags": [
+      "funk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fc430d5e-c505-424e-bf45-b0c491a5a9c9",
+    "artistMbid": "8ee5fb89-8cfc-4811-97ba-31c7b08d8a40",
+    "releaseCount": 1,
+    "artistGenres": [
+      "funk"
+    ],
+    "releasedAt": "2018-10-02",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "2374698",
+      "wikidata": "Q5737029"
+    }
+  }
+}

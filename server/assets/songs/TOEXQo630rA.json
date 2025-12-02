@@ -2,7 +2,7 @@
   "youtubeId": "TOEXQo630rA",
   "title": "Solveig's Song",
   "artist": "Edvard Grieg",
-  "lastFetched": "2025-11-23T16:39:47.339Z",
+  "lastFetched": "2025-12-02T01:18:08.613Z",
   "musicbrainz": {
     "artistTags": [
       "classical",
@@ -24,7 +24,17 @@
       "romantic classical"
     ],
     "trackMbid": "89747dd6-f812-3f55-baab-9cd31d754df5",
-    "artistMbid": "013c8e5b-d72a-4cd3-8dee-6c64d6125823"
+    "artistMbid": "013c8e5b-d72a-4cd3-8dee-6c64d6125823",
+    "artistCountry": "NO",
+    "externalIdsArtist": {
+      "allmusic": "mn0000198512",
+      "discogs": "95542",
+      "spotify": "5ihY290YPGc3aY2xTyx7Gy",
+      "deezer": "6139",
+      "lastfm": "Edvard+Grieg",
+      "rateyourmusic": "edvard_grieg",
+      "wikidata": "Q80621"
+    }
   },
   "lastfm": {
     "id": "Edvard+Grieg/_/Solveig%27s+Song",

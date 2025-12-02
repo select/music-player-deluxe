@@ -2,7 +2,7 @@
   "youtubeId": "Kx2x_YUzOQQ",
   "title": "The Whispers",
   "artist": "KXD-LvL",
-  "lastFetched": "2025-11-30T21:44:31.165Z",
+  "lastFetched": "2025-12-02T01:04:08.237Z",
   "odesli": {
     "amazonMusic": "B0C2J99S69",
     "amazonStore": "B0C2J99S69",
@@ -26,6 +26,13 @@
   "musicbrainz": {
     "trackMbid": "f9c5b873-9d29-4d49-81ab-804d5d8f8c9b",
     "artistMbid": "d482b1d6-5b60-41a5-8364-11bdcdb3ae54",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-05-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "spotify": "07c1KDEW8KTe9DK2ekyeTt",
+      "deezer": "302460081",
+      "soundcloud": "https://soundcloud.com/leyton-keddie"
+    }
   }
 }

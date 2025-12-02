@@ -2,7 +2,7 @@
   "youtubeId": "O_e63ScEneo",
   "title": "Blast",
   "artist": "Marcus Miller",
-  "lastFetched": "2025-11-30T23:30:00.411Z",
+  "lastFetched": "2025-12-02T01:10:18.315Z",
   "lastfm": {
     "id": "Marcus+Miller/_/Blast",
     "listeners": 25973,
@@ -29,6 +29,19 @@
       "jazz",
       "jazz fusion",
       "jazz-funk"
-    ]
+    ],
+    "releasedAt": "2007-06-25",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000673114",
+      "discogs": "79989",
+      "spotify": "6fmq5mv6HnduZdlTOEYBC9",
+      "deezer": "3705",
+      "lastfm": "Marcus+Miller",
+      "rateyourmusic": "marcus_miller",
+      "soundcloud": "https://soundcloud.com/marcusmillerofficial",
+      "wikidata": "Q323467",
+      "youtube": "UCRkN9W6S76IhQAS3wc36EHA"
+    }
   }
 }

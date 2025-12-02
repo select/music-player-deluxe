@@ -1,7 +1,7 @@
 {
   "youtubeId": "OkQlrIQhUMQ",
   "title": "Martin Roth - An Analog Guy In A Digital World",
-  "lastFetched": "2025-11-30T19:33:43.886Z",
+  "lastFetched": "2025-12-02T01:10:42.891Z",
   "ai": {
     "title": "An Analog Guy In A Digital World",
     "artist": "Martin Roth"
@@ -23,6 +23,15 @@
   "musicbrainz": {
     "trackMbid": "ed16e4d9-3cf4-4c84-927c-9544c2136fa1",
     "artistMbid": "ed94ddc6-17ea-4886-8dfc-0476811838af",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2016-12-28",
+    "externalIdsArtist": {
+      "bandcamp": "https://martinroth.bandcamp.com/",
+      "discogs": "102781",
+      "spotify": "4LoSbPey3kklzX5f2KEks1",
+      "deezer": "471121",
+      "soundcloud": "https://soundcloud.com/djmartinroth",
+      "youtube": "UClFSZy3PHiwsXY7acXavuaA"
+    }
   }
 }

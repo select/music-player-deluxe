@@ -2,7 +2,7 @@
   "youtubeId": "FA0FQRioBhQ",
   "title": "Little Man (Calyx & Teebee Remix)",
   "artist": "Little Dragon",
-  "lastFetched": "2025-11-30T23:07:14.453Z",
+  "lastFetched": "2025-12-02T00:55:02.643Z",
   "odesli": {
     "amazonMusic": "B00NXP0F3Q",
     "amazonStore": "B00NXP0F3Q",
@@ -38,6 +38,21 @@
       "electronic",
       "electropop",
       "indietronica"
-    ]
+    ],
+    "releasedAt": "2011-10-31",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000992751",
+      "bandcamp": "https://littledragon.bandcamp.com/",
+      "discogs": "503060",
+      "spotify": "6Tyzp9KzpiZ04DABQoedps",
+      "deezer": "16952",
+      "lastfm": "Little+Dragon",
+      "genius": "Little-dragon",
+      "rateyourmusic": "little-dragon",
+      "soundcloud": "https://soundcloud.com/littledragon",
+      "wikidata": "Q1535105",
+      "youtube": "UCxMNZhuVJC39GOCtUJmYaHQ"
+    }
   }
 }

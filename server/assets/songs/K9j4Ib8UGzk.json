@@ -2,7 +2,7 @@
   "youtubeId": "K9j4Ib8UGzk",
   "title": "The Shore",
   "artist": "Wiretree",
-  "lastFetched": "2025-11-30T20:51:50.674Z",
+  "lastFetched": "2025-12-02T01:02:59.185Z",
   "odesli": {
     "amazonMusic": "B00587PYBU",
     "amazonStore": "B00587PYBU",
@@ -35,6 +35,18 @@
       "indie rock",
       "post-punk",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2011-08-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000378550",
+      "discogs": "1630047",
+      "spotify": "1Poa9x2nD1TLCxOalo71IE",
+      "deezer": "416516",
+      "lastfm": "Wiretree",
+      "rateyourmusic": "wiretree",
+      "wikidata": "Q8026940",
+      "wikipedia": "Wiretree"
+    }
   }
 }

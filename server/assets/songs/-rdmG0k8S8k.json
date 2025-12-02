@@ -2,7 +2,7 @@
   "youtubeId": "-rdmG0k8S8k",
   "title": "Getting Away with Murder",
   "artist": "Papa Roach",
-  "lastFetched": "2025-11-23T16:25:51.356Z",
+  "lastFetched": "2025-12-02T00:32:34.059Z",
   "odesli": {
     "amazonMusic": "B011QP7POG",
     "amazonStore": "B011QP7POG",
@@ -54,7 +54,32 @@
       "pop rock"
     ],
     "trackMbid": "965f7c7e-e3d3-47bf-a0d7-3370d0af1144",
-    "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c"
+    "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
+    "releasedAt": "2004-07-14",
+    "artistCountry": "US",
+    "externalIds": {
+      "allmusic": "mn0000007731",
+      "bandcamp": "https://paparoach.bandcamp.com/",
+      "discogs": "175368",
+      "spotify": "4RddZ3iHvSpGV4dvATac9X",
+      "lastfm": "Papa+Roach",
+      "soundcloud": "paparoach",
+      "youtube": "UCRiFekze9Yx5zDDjAVrYvbg"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000007731",
+      "bandcamp": "https://paparoach.bandcamp.com/",
+      "discogs": "175368",
+      "spotify": "4RddZ3iHvSpGV4dvATac9X",
+      "deezer": "89",
+      "lastfm": "Papa+Roach",
+      "genius": "Papa-roach",
+      "rateyourmusic": "papa_roach",
+      "soundcloud": "https://soundcloud.com/paparoach",
+      "napster": "papa-roach",
+      "wikidata": "Q254371",
+      "youtube": "UCRiFekze9Yx5zDDjAVrYvbg"
+    }
   },
   "lastfm": {
     "id": "Papa+Roach/_/Getting+Away+with+Murder",

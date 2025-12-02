@@ -2,7 +2,7 @@
   "youtubeId": "0IkuKfrYgUc",
   "title": "Freak Like Me",
   "artist": "NoMBe",
-  "lastFetched": "2025-11-19T08:33:58.350Z",
+  "lastFetched": "2025-12-02T00:33:18.225Z",
   "odesli": {
     "amazonMusic": "B083TKZ3SC",
     "amazonStore": "B083TKZ3SC",
@@ -27,6 +27,29 @@
   },
   "musicbrainz": {
     "trackMbid": "4129e75d-eb44-4406-89e4-73e4eb948395",
-    "artistMbid": "a588237b-c9ee-49c5-b254-cb670cce3b2b"
+    "artistMbid": "a588237b-c9ee-49c5-b254-cb670cce3b2b",
+    "releasedAt": "2017-03-20",
+    "artistCountry": "Los Angeles",
+    "externalIds": {
+      "allmusic": "mn0003508693",
+      "bandcamp": "https://nombe.bandcamp.com/",
+      "discogs": "4743006",
+      "spotify": "5Lhxlge1CR1DrgDAje8Qaw",
+      "lastfm": "NoMBe",
+      "soundcloud": "nombe",
+      "youtube": "UCa2Lphlcewqb42zSjAuie5w"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003508693",
+      "bandcamp": "https://nombe.bandcamp.com/",
+      "discogs": "4743006",
+      "spotify": "5Lhxlge1CR1DrgDAje8Qaw",
+      "deezer": "5549496",
+      "lastfm": "NoMBe",
+      "genius": "Nombe",
+      "soundcloud": "https://soundcloud.com/nombe",
+      "wikidata": "Q39049903",
+      "youtube": "UCa2Lphlcewqb42zSjAuie5w"
+    }
   }
 }

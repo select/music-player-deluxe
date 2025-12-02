@@ -1,0 +1,53 @@
+{
+  "youtubeId": "qp1dRh2FVVs",
+  "title": "Hearts Alive",
+  "artist": "Mastodon",
+  "lastFetched": "2025-12-01T13:02:29.853Z",
+  "odesli": {
+    "amazonMusic": "B000XUBLE6",
+    "amazonStore": "B000XUBLE6",
+    "youtube": "qp1dRh2FVVs",
+    "youtubeMusic": "qp1dRh2FVVs"
+  },
+  "lastfm": {
+    "id": "Mastodon/_/Hearts+Alive",
+    "listeners": 172242,
+    "playcount": 980797,
+    "title": "Hearts Alive",
+    "artist": "Mastodon",
+    "mbid": "049b0fa6-1b11-304e-8786-8273b4827970",
+    "artistMbid": "bc5e2ad6-0a4a-4d90-b911-e9a7e6861727",
+    "tags": [
+      "progressive metal",
+      "epic",
+      "sludge",
+      "i had to change my pants after this song"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "866a70c8-562d-4056-a9ad-a1a1886cfd2a",
+    "artistMbid": "bc5e2ad6-0a4a-4d90-b911-e9a7e6861727",
+    "releaseCount": 12,
+    "genres": [
+      "heavy metal",
+      "math rock",
+      "metal",
+      "metalcore",
+      "progressive metal",
+      "progressive rock",
+      "rock",
+      "sludge metal",
+      "southern rock",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "progressive metal",
+      "sludge metal",
+      "stoner metal"
+    ]
+  }
+}

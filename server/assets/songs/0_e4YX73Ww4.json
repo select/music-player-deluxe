@@ -1,7 +1,7 @@
 {
   "youtubeId": "0_e4YX73Ww4",
   "title": "HAKEN - Cockroach King - (Single Version)",
-  "lastFetched": "2025-11-30T20:09:01.671Z",
+  "lastFetched": "2025-12-02T00:33:46.686Z",
   "ai": {
     "title": "Cockroach King",
     "artist": "Haken"
@@ -26,6 +26,22 @@
     "artistGenres": [
       "progressive metal",
       "progressive rock"
-    ]
+    ],
+    "releasedAt": "2013-08-30",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001369015",
+      "bandcamp": "https://hakenofficial.bandcamp.com/",
+      "discogs": "2481019",
+      "spotify": "2SRIVGDkdqQnrQdaXxDkJt",
+      "deezer": "427183",
+      "lastfm": "Haken",
+      "genius": "Haken",
+      "rateyourmusic": "haken",
+      "soundcloud": "https://soundcloud.com/hakenofficial",
+      "napster": "haken",
+      "wikidata": "Q774774",
+      "youtube": "UCY1AGog6eZVVFK0m2419owQ"
+    }
   }
 }

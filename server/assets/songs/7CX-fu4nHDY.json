@@ -2,7 +2,7 @@
   "youtubeId": "7CX-fu4nHDY",
   "title": "Bigoudi",
   "artist": "Amsterdam Klezmer Band",
-  "lastFetched": "2025-11-19T13:31:18.412Z",
+  "lastFetched": "2025-12-02T00:42:40.491Z",
   "odesli": {
     "amazonMusic": "B07K26K5BY",
     "amazonStore": "B07K26K5BY",
@@ -34,6 +34,17 @@
   },
   "musicbrainz": {
     "trackMbid": "77507ffb-3dee-45ed-8760-bc9055fd68bb",
-    "artistMbid": "28e27f86-3eba-4e17-9d04-f47b3be48e96"
+    "artistMbid": "28e27f86-3eba-4e17-9d04-f47b3be48e96",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "allmusic": "mn0000197049",
+      "discogs": "721035",
+      "spotify": "2vMBszTQ5H66LhDEM3mSvl",
+      "deezer": "17272",
+      "lastfm": "Amsterdam+Klezmer+Band",
+      "rateyourmusic": "de-amsterdam-klezmer-band",
+      "soundcloud": "https://soundcloud.com/amsterdamklezmerband",
+      "wikidata": "Q478561"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "7dSFMUcTuhU",
   "title": "In My Room (Audio) - Jacob Collier",
-  "lastFetched": "2025-11-30T21:30:37.262Z",
+  "lastFetched": "2025-12-02T00:43:37.176Z",
   "ai": {
     "title": "In My Room",
     "artist": "Jacob Collier"
@@ -36,6 +36,21 @@
       "r&b",
       "soul",
       "vocal jazz"
-    ]
+    ],
+    "releasedAt": "2016-07-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003449375",
+      "bandcamp": "https://jacobcollier.bandcamp.com/",
+      "discogs": "4674871",
+      "spotify": "0QWrMNukfcVOmgEU0FEDyD",
+      "deezer": "6563333",
+      "lastfm": "Jacob+Collier",
+      "genius": "Jacob-collier",
+      "rateyourmusic": "jacob-collier",
+      "soundcloud": "https://soundcloud.com/jacobcollier",
+      "wikidata": "Q24900882",
+      "youtube": "UCtmY49Zn4l0RMJnTWfV7Wsg"
+    }
   }
 }

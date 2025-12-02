@@ -2,7 +2,7 @@
   "youtubeId": "5aJbeLbsOGY",
   "title": "Run Forever",
   "artist": "Emma Ruth Rundle",
-  "lastFetched": "2025-11-23T16:28:35.221Z",
+  "lastFetched": "2025-12-02T00:40:13.068Z",
   "odesli": {
     "amazonMusic": "B0F4V8VVHG",
     "amazonStore": "B0F4V8VVHG",
@@ -32,7 +32,21 @@
       "folk"
     ],
     "trackMbid": "096701ff-d1da-451d-81f0-b61940885dfa",
-    "artistMbid": "7ba593b9-79d4-4860-92c8-ade2a1ef4551"
+    "artistMbid": "7ba593b9-79d4-4860-92c8-ade2a1ef4551",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002423072",
+      "bandcamp": "https://emmaruthrundle.bandcamp.com/",
+      "discogs": "1782496",
+      "spotify": "34gLicNdz493863yZTanvC",
+      "deezer": "5799810",
+      "lastfm": "Emma+Ruth+Rundle",
+      "genius": "Emma-ruth-rundle",
+      "rateyourmusic": "emma-ruth-rundle",
+      "soundcloud": "https://soundcloud.com/emmaruthrundleofficial",
+      "wikidata": "Q17411149",
+      "youtube": "UCXqoHeiHh7wX-ZGoknAsnDA"
+    }
   },
   "lastfm": {
     "id": "Emma+Ruth+Rundle/_/Run+Forever",

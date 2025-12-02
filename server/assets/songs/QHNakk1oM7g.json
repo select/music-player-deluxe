@@ -1,7 +1,7 @@
 {
   "youtubeId": "QHNakk1oM7g",
   "title": "Daniel Deluxe - Star Eater",
-  "lastFetched": "2025-11-30T19:53:05.338Z",
+  "lastFetched": "2025-12-02T01:12:40.651Z",
   "ai": {
     "title": "Star Eater",
     "artist": "Daniel Deluxe"
@@ -27,6 +27,22 @@
       "darksynth",
       "electronic",
       "synthwave"
-    ]
+    ],
+    "releasedAt": "2015-07-14",
+    "externalIdsTrack": {
+      "soundcloud": "https://soundcloud.com/daniel-deluxe/star-eater"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003799822",
+      "bandcamp": "https://danieldeluxe.bandcamp.com/",
+      "discogs": "3884112",
+      "spotify": "0OTY72l7CC7ynKzp6N2o5b",
+      "deezer": "7360654",
+      "lastfm": "Daniel%20Deluxe",
+      "genius": "Daniel-deluxe",
+      "rateyourmusic": "daniel_deluxe",
+      "soundcloud": "https://soundcloud.com/daniel-deluxe",
+      "wikidata": "Q55608964"
+    }
   }
 }

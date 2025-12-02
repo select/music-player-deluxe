@@ -2,7 +2,7 @@
   "youtubeId": "0l73_c7Ntpc",
   "title": "Future Perfect",
   "artist": "The Durutti Column",
-  "lastFetched": "2025-11-30T22:23:51.099Z",
+  "lastFetched": "2025-12-02T00:34:02.445Z",
   "odesli": {
     "soundcloud": "the-durutti-column/future-perfect",
     "spotify": "0RlpgTdnxatoTRBvG34zaB",
@@ -37,6 +37,18 @@
       "new age",
       "post-punk",
       "post-rock"
-    ]
+    ],
+    "releasedAt": "1996-04",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000129308",
+      "bandcamp": "https://thedurutticolumn.bandcamp.com/",
+      "discogs": "637432",
+      "spotify": "7fh7bwX9qV60tLxxsp9bTe",
+      "deezer": "11109",
+      "lastfm": "The+Durutti+Column",
+      "rateyourmusic": "the_durutti_column",
+      "wikidata": "Q1724658"
+    }
   }
 }

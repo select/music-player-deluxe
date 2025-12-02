@@ -1,7 +1,7 @@
 {
   "youtubeId": "C8fIVTH0TiM",
   "title": "MOVITS! - Äppelknyckarjazz Video (Officiell)",
-  "lastFetched": "2025-11-30T20:21:37.137Z",
+  "lastFetched": "2025-12-02T00:49:53.021Z",
   "ai": {
     "title": "Äppelknyckarjazz",
     "artist": "MOVITS!"
@@ -27,6 +27,14 @@
     "artistGenres": [
       "alternative hip hop",
       "swing"
-    ]
+    ],
+    "releasedAt": "2009-11-16",
+    "externalIdsArtist": {
+      "allmusic": "mn0001576808",
+      "discogs": "2174653",
+      "lastfm": "Movits!",
+      "rateyourmusic": "movits_",
+      "wikidata": "Q796382"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "Oq7gVPRjlfQ",
   "title": "Tum Rakak",
   "artist": "Deluxe",
-  "lastFetched": "2025-11-30T22:22:28.136Z",
+  "lastFetched": "2025-12-02T01:10:55.318Z",
   "odesli": {
     "amazonMusic": "B015KATZZU",
     "amazonStore": "B015KATZZU",
@@ -42,6 +42,15 @@
       "broken beat",
       "electronic",
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2016-01-22",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "discogs": "2538474",
+      "spotify": "4EePV5BljRSXJnYww4d5Qa",
+      "deezer": "3295",
+      "wikidata": "Q16628361",
+      "youtube": "UCXJD8hp8s8HQk6s5_1AaZUA"
+    }
   }
 }

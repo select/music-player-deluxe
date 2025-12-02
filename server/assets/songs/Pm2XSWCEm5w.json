@@ -2,7 +2,7 @@
   "youtubeId": "Pm2XSWCEm5w",
   "title": "Burning Star",
   "artist": "Helstar",
-  "lastFetched": "2025-11-23T16:37:57.214Z",
+  "lastFetched": "2025-12-02T01:12:15.666Z",
   "odesli": {
     "pandora": "TR:1218057",
     "soundcloud": "helstarofficial/burning-star-1",
@@ -20,7 +20,15 @@
       "speed metal"
     ],
     "trackMbid": "27244fa0-1eda-43c9-bbb9-8b99d62e7ffb",
-    "artistMbid": "3b0f2300-1f53-4cc1-acbc-0e9a78871661"
+    "artistMbid": "3b0f2300-1f53-4cc1-acbc-0e9a78871661",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000675535",
+      "discogs": "524281",
+      "lastfm": "Helstar",
+      "wikidata": "Q1457636",
+      "wikipedia": "Helstar"
+    }
   },
   "lastfm": {
     "id": "Helstar/_/Burning+Star",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "3aBl3bnRv3g",
   "title": "Local H - Wolf Like Me (Studio Version)",
-  "lastFetched": "2025-11-30T21:09:59.405Z",
+  "lastFetched": "2025-12-02T00:37:23.921Z",
   "ai": {
     "title": "Wolf Like Me",
     "artist": "Local H"
@@ -39,6 +39,21 @@
       "post-hardcore",
       "punk rock",
       "slacker rock"
-    ]
+    ],
+    "releasedAt": "2010-10-19",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000230244",
+      "bandcamp": "https://localh.bandcamp.com/",
+      "discogs": "210521",
+      "spotify": "415JrPfN7ukaTu8JV8BLE8",
+      "deezer": "3921",
+      "lastfm": "Local+H",
+      "genius": "Local-h",
+      "rateyourmusic": "local_h",
+      "soundcloud": "https://soundcloud.com/local-h",
+      "wikidata": "Q1810439",
+      "youtube": "UCUy0qsA2trylLXvkEyC1EAw"
+    }
   }
 }

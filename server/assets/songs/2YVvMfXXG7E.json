@@ -3,7 +3,7 @@
   "artist": "Three 6 Mafia",
   "duration": 262,
   "youtubeId": "2YVvMfXXG7E",
-  "lastFetched": "2025-11-19T03:28:34.513Z",
+  "lastFetched": "2025-12-02T00:36:25.067Z",
   "musicbrainz": {
     "artistTags": [
       "crunk",
@@ -14,7 +14,18 @@
     ],
     "trackMbid": "43961569-a714-42c3-bae7-2d438c47f67d",
     "artistMbid": "a8754ac4-a85e-4f48-a81f-eecd482570ef",
-    "releaseCount": 1
+    "releasedAt": "2001",
+    "externalIdsArtist": {
+      "allmusic": "mn0000924367",
+      "discogs": "178698",
+      "spotify": "26s8LSolLfCIY88ysQbIuT",
+      "deezer": "291",
+      "lastfm": "Three+6+Mafia",
+      "rateyourmusic": "three_6_mafia",
+      "soundcloud": "https://soundcloud.com/three-6-mafia/",
+      "wikidata": "Q1027165",
+      "youtube": "UCH7dNHRWzjBGgVPbS6_wedQ"
+    }
   },
   "lastfm": {
     "id": "Three+6+Mafia/_/Sippin%E2%80%99+on+Some+Syrup",

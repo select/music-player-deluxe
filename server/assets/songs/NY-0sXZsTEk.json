@@ -2,7 +2,7 @@
   "youtubeId": "NY-0sXZsTEk",
   "title": "Kinderland",
   "artist": "Gerhard Schöne",
-  "lastFetched": "2025-11-30T22:42:26.240Z",
+  "lastFetched": "2025-12-02T01:08:28.744Z",
   "odesli": {
     "amazonMusic": "B0C4B5SWZR",
     "amazonStore": "B0C4B5SWZR",
@@ -28,6 +28,16 @@
   "musicbrainz": {
     "trackMbid": "23cf5f0d-505e-459f-bd49-1c61624980b1",
     "artistMbid": "17b49d7c-eaf1-47f8-92e8-45940c3d74ef",
-    "releaseCount": 5
+    "releaseCount": 5,
+    "releasedAt": "1982",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000528738",
+      "discogs": "324095",
+      "spotify": "4RHaWzHJgNgcsow0lsSkUw",
+      "deezer": "71268",
+      "rateyourmusic": "gerhard_schone",
+      "wikidata": "Q102425"
+    }
   }
 }

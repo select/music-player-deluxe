@@ -2,7 +2,7 @@
   "youtubeId": "LkcTGldDDkY",
   "title": "Phantoms",
   "artist": "Ballyhoo!",
-  "lastFetched": "2025-11-19T15:19:10.396Z",
+  "lastFetched": "2025-12-02T01:05:28.416Z",
   "odesli": {
     "amazonMusic": "B0D743HRQM",
     "amazonStore": "B0D743HRQM",
@@ -20,6 +20,16 @@
   },
   "musicbrainz": {
     "trackMbid": "4bbc54d1-1ad5-474c-959d-6e3167c93cbc",
-    "artistMbid": "148350d7-1b04-4518-b216-4519eb0bcc08"
+    "artistMbid": "148350d7-1b04-4518-b216-4519eb0bcc08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://ballyhoo.bandcamp.com/",
+      "discogs": "1035955",
+      "spotify": "6py4uFIC7T6RdrZnH6hFYJ",
+      "deezer": "399663",
+      "rateyourmusic": "ballyhoo_",
+      "wikipedia": "Ballyhoo!",
+      "youtube": "UCujv8EveH58NxMZxo65fXYQ"
+    }
   }
 }

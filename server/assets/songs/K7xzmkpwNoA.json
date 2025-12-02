@@ -2,7 +2,7 @@
   "youtubeId": "K7xzmkpwNoA",
   "title": "Gorilla",
   "artist": "Little Simz",
-  "lastFetched": "2025-11-23T16:35:37.583Z",
+  "lastFetched": "2025-12-02T01:02:53.552Z",
   "odesli": {
     "amazonMusic": "B0BPB11TZ5",
     "amazonStore": "B0BPB11TZ5",
@@ -32,7 +32,19 @@
       "pop rap"
     ],
     "trackMbid": "358c33cd-471b-4911-b188-6c1e4b6c929a",
-    "artistMbid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
+    "artistMbid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
+    "releasedAt": "2024-06-30",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003267919",
+      "bandcamp": "https://littlesimz.bandcamp.com/",
+      "discogs": "3887166",
+      "spotify": "6eXZu6O7nAUA5z6vLV8NKI",
+      "deezer": "4578590",
+      "rateyourmusic": "little-simz",
+      "soundcloud": "https://soundcloud.com/littlesimz",
+      "wikidata": "Q6547427"
+    }
   },
   "lastfm": {
     "id": "Little+Simz/_/Gorilla",

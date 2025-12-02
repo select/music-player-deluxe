@@ -2,7 +2,7 @@
   "youtubeId": "4Uly7baW_qs",
   "title": "Langeweile",
   "artist": "Pankow",
-  "lastFetched": "2025-11-23T16:27:50.164Z",
+  "lastFetched": "2025-12-02T00:38:44.560Z",
   "musicbrainz": {
     "artistTags": [
       "ebm",
@@ -13,7 +13,15 @@
       "industrial"
     ],
     "trackMbid": "166245a7-1a1b-45a8-820d-6e3b501462b6",
-    "artistMbid": "cd8192d4-fbc6-44f1-9104-8a722d8082d1"
+    "artistMbid": "cd8192d4-fbc6-44f1-9104-8a722d8082d1",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000008864",
+      "bandcamp": "https://pankow.bandcamp.com/",
+      "discogs": "21893",
+      "spotify": "5lP03UO1IIlTEIvqJDlj3H",
+      "rateyourmusic": "pankow"
+    }
   },
   "lastfm": {
     "id": "Pankow/_/Langeweile",

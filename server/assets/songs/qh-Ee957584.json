@@ -1,0 +1,45 @@
+{
+  "youtubeId": "qh-Ee957584",
+  "title": "Hush Now",
+  "artist": "Fink",
+  "lastFetched": "2025-12-01T12:59:09.708Z",
+  "odesli": {
+    "amazonMusic": "B073SB9JGT",
+    "amazonStore": "B073SB9JGT",
+    "pandora": "TR:137081956",
+    "soundcloud": "fink/hush-now-1",
+    "tidal": "6756503",
+    "youtube": "qh-Ee957584",
+    "youtubeMusic": "qh-Ee957584"
+  },
+  "lastfm": {
+    "id": "Fink/_/Hush+Now",
+    "listeners": 11281,
+    "playcount": 38400,
+    "title": "Hush Now",
+    "artist": "Fink",
+    "mbid": "f222633e-9a3c-37ef-8740-a7c9de368f8b",
+    "artistMbid": "aa1d542d-11c6-4bf3-8219-28a781de29ea",
+    "tags": [
+      "indie",
+      "singer-songwriter",
+      "downtempo",
+      "chillout",
+      "ninja tune"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "73becf09-98cb-4709-b685-4405a6703c27",
+    "artistMbid": "aa1d542d-11c6-4bf3-8219-28a781de29ea",
+    "releaseCount": 3,
+    "genres": [
+      "electronic"
+    ],
+    "artistGenres": [
+      "blues",
+      "dub",
+      "indie folk",
+      "indie rock"
+    ]
+  }
+}

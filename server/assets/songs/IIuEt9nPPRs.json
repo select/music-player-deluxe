@@ -2,7 +2,7 @@
   "youtubeId": "IIuEt9nPPRs",
   "title": "Hemorrhage (In My Hands)",
   "artist": "Fuel",
-  "lastFetched": "2025-11-23T16:34:44.527Z",
+  "lastFetched": "2025-12-02T01:00:22.985Z",
   "odesli": {
     "amazonMusic": "B00136RKIK",
     "amazonStore": "B00136RKIK",
@@ -26,7 +26,20 @@
       "post-grunge"
     ],
     "trackMbid": "09340368-b7a3-4f1b-ad3f-5cf4836365d0",
-    "artistMbid": "2a5a3b60-d468-4b62-a28f-9c410ad3f71d"
+    "artistMbid": "2a5a3b60-d468-4b62-a28f-9c410ad3f71d",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000988627",
+      "discogs": "94271",
+      "spotify": "1kymORp8cdJg1NQgZ7Mr8e",
+      "deezer": "1818",
+      "lastfm": "Fuel",
+      "genius": "Fuel",
+      "rateyourmusic": "fuel",
+      "soundcloud": "https://soundcloud.com/fuel-music",
+      "napster": "fuel",
+      "wikidata": "Q2412660"
+    }
   },
   "lastfm": {
     "id": "Fuel/_/Hemorrhage+(In+My+Hands)",

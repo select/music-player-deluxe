@@ -2,7 +2,7 @@
   "youtubeId": "LKWXDEA04L0",
   "title": "Special Agent Man (Female Version)",
   "artist": "Gaznevada",
-  "lastFetched": "2025-11-30T22:38:43.662Z",
+  "lastFetched": "2025-12-02T01:04:56.388Z",
   "lastfm": {
     "title": "Special Agent Man (Female Version)",
     "artist": "Gaznevada",
@@ -28,6 +28,17 @@
       "new wave",
       "post-punk",
       "punk rock"
-    ]
+    ],
+    "releasedAt": "1983",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000192064",
+      "discogs": "50570",
+      "spotify": "3lkvPuFo1qlcJZvB3h44Mj",
+      "deezer": "5571320",
+      "lastfm": "Gaznevada",
+      "rateyourmusic": "gaznevada",
+      "wikidata": "Q3759077"
+    }
   }
 }

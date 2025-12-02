@@ -2,7 +2,7 @@
   "youtubeId": "GoYAGNLqFwg",
   "title": "Soul Eyes",
   "artist": "John Coltrane Quartet",
-  "lastFetched": "2025-11-23T16:34:08.608Z",
+  "lastFetched": "2025-12-02T00:58:15.469Z",
   "musicbrainz": {
     "artistTags": [
       "jazz"
@@ -11,7 +11,16 @@
       "jazz"
     ],
     "trackMbid": "0f33ccad-517b-4e7a-afd7-9b468998451e",
-    "artistMbid": "a43270af-bc4a-4552-847e-617b11f38d7b"
+    "artistMbid": "a43270af-bc4a-4552-847e-617b11f38d7b",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000216294",
+      "discogs": "255386",
+      "spotify": "67PZTxaHKMZBFRUh8wIzCy",
+      "deezer": "75111",
+      "lastfm": "John+Coltrane+Quartet",
+      "wikidata": "Q1699646"
+    }
   },
   "lastfm": {
     "id": "John+Coltrane+Quartet/_/Soul+Eyes",

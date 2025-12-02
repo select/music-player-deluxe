@@ -1,0 +1,43 @@
+{
+  "youtubeId": "F7hS6jL7DpU",
+  "title": "Lead Thoughts",
+  "artist": "Dead Hot Workshop",
+  "lastFetched": "2025-12-02T00:54:55.497Z",
+  "odesli": {
+    "amazonMusic": "B00TQTIJQS",
+    "amazonStore": "B00TQTIJQS",
+    "deezer": "95577570",
+    "appleMusic": "968482384",
+    "itunes": "968482384",
+    "napster": "tra.178910128",
+    "spotify": "3yoc4rOPG8MKLN232JksGI",
+    "tidal": "41861783",
+    "yandex": "21946894",
+    "youtube": "F7hS6jL7DpU",
+    "youtubeMusic": "F7hS6jL7DpU"
+  },
+  "lastfm": {
+    "id": "Dead+Hot+Workshop/_/Lead+Thoughts",
+    "listeners": 1664,
+    "playcount": 3993,
+    "title": "Lead Thoughts",
+    "artist": "Dead Hot Workshop",
+    "mbid": "49b016ca-d823-4909-9258-b09441382464",
+    "artistMbid": "9f7612e6-c99c-47a5-9f6b-f307bff0b48b",
+    "tags": [
+      "rock",
+      "alternative",
+      "arizona"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a0d91f66-f75d-46b6-8e97-da69b7fb1b55",
+    "artistMbid": "9f7612e6-c99c-47a5-9f6b-f307bff0b48b",
+    "releaseCount": 2,
+    "releasedAt": "1997-09-23",
+    "externalIdsArtist": {
+      "discogs": "1577212",
+      "wikidata": "Q5245224"
+    }
+  }
+}

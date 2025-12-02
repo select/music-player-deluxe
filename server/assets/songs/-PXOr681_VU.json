@@ -2,7 +2,7 @@
   "youtubeId": "-PXOr681_VU",
   "title": "A Go Go",
   "artist": "John Scofield",
-  "lastFetched": "2025-11-30T21:30:23.670Z",
+  "lastFetched": "2025-12-02T00:32:14.722Z",
   "odesli": {
     "amazonMusic": "B000W1941S",
     "amazonStore": "B000W1941S",
@@ -52,6 +52,22 @@
       "jazz fusion",
       "jazz-funk",
       "post-bop"
-    ]
+    ],
+    "releasedAt": "1998-03-18",
+    "artistCountry": "US",
+    "externalIds": {
+      "allmusic": "mn0000677991",
+      "discogs": "12628",
+      "spotify": "14RXohtx6NiBGFTW8IdmAK",
+      "youtube": "UCox0a_pbj_auPuirufg-H4Q"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000677991",
+      "discogs": "12628",
+      "spotify": "14RXohtx6NiBGFTW8IdmAK",
+      "deezer": "14671",
+      "wikidata": "Q357176",
+      "youtube": "UCox0a_pbj_auPuirufg-H4Q"
+    }
   }
 }

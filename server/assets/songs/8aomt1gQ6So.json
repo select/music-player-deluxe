@@ -2,7 +2,7 @@
   "youtubeId": "8aomt1gQ6So",
   "title": "Between the Bars",
   "artist": "Elliott Smith",
-  "lastFetched": "2025-11-19T14:39:17.059Z",
+  "lastFetched": "2025-12-02T00:44:50.503Z",
   "odesli": {
     "amazonMusic": "B000US4KQM",
     "amazonStore": "B000US4KQM",
@@ -30,7 +30,21 @@
       "beautiful"
     ],
     "trackMbid": "19e5d62d-f67b-4c21-84f5-1fc4d2350836",
-    "artistMbid": "03ad1736-b7c9-412a-b442-82536d63a5c4"
+    "artistMbid": "03ad1736-b7c9-412a-b442-82536d63a5c4",
+    "releasedAt": "1997-02-25",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "52Bg6oaos7twR7IUtEpqcE"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000172167",
+      "discogs": "243300",
+      "spotify": "2ApaG60P4r0yhBoDCGD8YG",
+      "deezer": "1023",
+      "lastfm": "Elliott+Smith",
+      "rateyourmusic": "elliott_smith",
+      "wikidata": "Q210428"
+    }
   },
   "lastfm": {
     "id": "Elliott+Smith/_/Between+the+Bars",

@@ -2,7 +2,7 @@
   "youtubeId": "HvrFbbIG3lg",
   "title": "NOBU",
   "artist": "Shy Fx",
-  "lastFetched": "2025-11-30T21:30:08.289Z",
+  "lastFetched": "2025-12-02T00:59:43.912Z",
   "odesli": {
     "amazonMusic": "B0F9YVCHBG",
     "amazonStore": "B0F9YVCHBG",
@@ -33,6 +33,21 @@
       "drum and bass",
       "dubwise",
       "jungle"
-    ]
+    ],
+    "releasedAt": "2025-06-19",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "1eGUQyf6j64qRec6KkusaR",
+      "deezer": "3589296711"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000031249",
+      "discogs": "286",
+      "spotify": "5oDtp2FC8VqBjTx1aT4P5j",
+      "deezer": "12186",
+      "lastfm": "Shy%20FX",
+      "rateyourmusic": "shy_fx",
+      "wikidata": "Q720649"
+    }
   }
 }

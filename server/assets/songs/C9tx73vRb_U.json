@@ -1,7 +1,7 @@
 {
   "youtubeId": "C9tx73vRb_U",
   "title": "The Correspondents - Foolishman (Full Album)",
-  "lastFetched": "2025-11-30T20:26:30.705Z",
+  "lastFetched": "2025-12-02T00:49:58.531Z",
   "ai": {
     "title": "Foolishman",
     "artist": "The Correspondents"
@@ -31,6 +31,20 @@
       "jazz",
       "pop",
       "swing"
-    ]
+    ],
+    "releasedAt": "2017-09-22",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001098615",
+      "bandcamp": "https://correspondents.bandcamp.com/",
+      "discogs": "1760025",
+      "spotify": "3VvmUsYPzFheK2wJGKcXxp",
+      "deezer": "1179027",
+      "lastfm": "The+Correspondents",
+      "genius": "The-correspondents",
+      "soundcloud": "https://soundcloud.com/the-correspondents",
+      "wikidata": "Q7727671",
+      "youtube": "UCSj-RATmRC1rRxmvUlYxxTA"
+    }
   }
 }

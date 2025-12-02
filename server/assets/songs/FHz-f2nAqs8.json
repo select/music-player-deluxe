@@ -2,7 +2,7 @@
   "youtubeId": "FHz-f2nAqs8",
   "title": "Twenty Eight",
   "artist": "Karma to Burn",
-  "lastFetched": "2025-11-23T16:33:32.549Z",
+  "lastFetched": "2025-12-02T00:55:27.587Z",
   "odesli": {
     "amazonMusic": "B09LTJ5XCC",
     "amazonStore": "B09LTJ5XCC",
@@ -31,7 +31,20 @@
       "rock"
     ],
     "trackMbid": "269920ec-5167-43b4-bf66-51d4f678247e",
-    "artistMbid": "a587390a-db69-4ba9-9d7b-3afa13aefc6a"
+    "artistMbid": "a587390a-db69-4ba9-9d7b-3afa13aefc6a",
+    "releasedAt": "2009-04-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000854639",
+      "bandcamp": "https://karmatoburn.bandcamp.com/",
+      "discogs": "233607",
+      "spotify": "1tMtHqVsdmW0Yj9f4YnnHq",
+      "deezer": "10379",
+      "lastfm": "Karma+to+Burn",
+      "rateyourmusic": "karma-to-burn",
+      "wikidata": "Q1457648",
+      "youtube": "UCOYoiJdlrF3en9VWFrcv5Iw"
+    }
   },
   "lastfm": {
     "id": "Karma+to+Burn/_/Twenty+Eight",

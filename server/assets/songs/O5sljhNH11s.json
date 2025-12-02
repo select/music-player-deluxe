@@ -1,7 +1,7 @@
 {
   "youtubeId": "O5sljhNH11s",
   "title": "Console - My Dog Eats Beats",
-  "lastFetched": "2025-11-30T20:07:34.959Z",
+  "lastFetched": "2025-12-02T01:09:36.997Z",
   "ai": {
     "title": "My Dog Eats Beats",
     "artist": "Console"
@@ -36,6 +36,15 @@
       "electronic",
       "idm",
       "indietronica"
-    ]
+    ],
+    "releasedAt": "1999-10-11",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000121469",
+      "discogs": "424",
+      "lastfm": "Console",
+      "rateyourmusic": "console",
+      "wikidata": "Q873759"
+    }
   }
 }

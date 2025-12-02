@@ -2,7 +2,7 @@
   "youtubeId": "PEGccV-NOm8",
   "title": "Bodak Yellow",
   "artist": "Cardi B",
-  "lastFetched": "2025-11-19T17:18:35.131Z",
+  "lastFetched": "2025-12-02T01:11:21.836Z",
   "odesli": {
     "amazonMusic": "B071KB3W98",
     "amazonStore": "B071KB3W98",
@@ -31,7 +31,22 @@
       "2017"
     ],
     "trackMbid": "ba923dbb-b9b9-4890-9d14-3c5607bb12af",
-    "artistMbid": "2f3c4d70-0462-40da-bba3-0aec5772c556"
+    "artistMbid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003493912",
+      "discogs": "5153025",
+      "spotify": "4kYSro6naA4h99UJvo89HB",
+      "deezer": "9064930",
+      "lastfm": "Cardi+B",
+      "genius": "Cardi-b",
+      "rateyourmusic": "cardi-b",
+      "soundcloud": "https://soundcloud.com/iamcardib",
+      "napster": "cardi-b",
+      "apple": "956078923",
+      "wikidata": "Q29033668",
+      "youtube": "UCxMAbVFmxKUVGAll0WVGpFw"
+    }
   },
   "lastfm": {
     "id": "Cardi+B/_/Bodak+Yellow",

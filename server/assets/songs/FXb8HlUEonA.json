@@ -3,7 +3,7 @@
   "artist": "Keeno",
   "duration": 296,
   "youtubeId": "FXb8HlUEonA",
-  "lastFetched": "2025-11-23T16:33:34.723Z",
+  "lastFetched": "2025-12-02T00:56:09.244Z",
   "odesli": {
     "amazonMusic": "B0C2ZC9KX8",
     "amazonStore": "B0C2ZC9KX8",
@@ -24,7 +24,19 @@
     ],
     "trackMbid": "ed1a4205-b1bc-46ec-8f73-f3e5f1d14854",
     "artistMbid": "9d9321c3-ca3a-41b0-a68d-73a7793051c1",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2017-04-07",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003266661",
+      "bandcamp": "https://willkeeno.bandcamp.com/",
+      "discogs": "4035216",
+      "spotify": "6r54QO0889i9vqaeuruUSn",
+      "deezer": "187771037",
+      "soundcloud": "https://soundcloud.com/willkeeno",
+      "wikidata": "Q17386163",
+      "youtube": "UCyVyJt-ntY80VOTyPqVkWwg"
+    }
   },
   "lastfm": {
     "id": "Keeno/_/Enigma",

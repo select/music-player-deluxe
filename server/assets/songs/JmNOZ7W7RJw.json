@@ -2,7 +2,7 @@
   "youtubeId": "JmNOZ7W7RJw",
   "title": "3 Uhr Nachts",
   "artist": "MEHNERSMOOS",
-  "lastFetched": "2025-11-30T22:00:04.434Z",
+  "lastFetched": "2025-12-02T01:02:30.247Z",
   "odesli": {
     "amazonMusic": "B09RZGRJ51",
     "amazonStore": "B09RZGRJ51",
@@ -35,6 +35,18 @@
     "releaseCount": 1,
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2022-03-04",
+    "externalIdsArtist": {
+      "allmusic": "mn0003324228",
+      "discogs": "2447701",
+      "spotify": "4v1lRzkxvSsxo1JVUxXEOK",
+      "deezer": "6175662",
+      "lastfm": "Mehnersmoos",
+      "genius": "Mehnersmoos",
+      "soundcloud": "https://soundcloud.com/mehnersmoos",
+      "wikidata": "Q113292238",
+      "youtube": "UCHO6ISPZ2cryTANTncnIyew"
+    }
   }
 }

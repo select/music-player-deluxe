@@ -1,0 +1,43 @@
+{
+  "youtubeId": "FwiHpTc49pI",
+  "title": "A Way Out of Nowhere",
+  "artist": "Deficiency",
+  "lastFetched": "2025-12-02T00:56:35.219Z",
+  "odesli": {
+    "amazonMusic": "B00FKWB87W",
+    "amazonStore": "B00FKWB87W",
+    "soundcloud": "deficiency-music/a-way-out-of-nowhere",
+    "tidal": "22906641",
+    "youtube": "FwiHpTc49pI",
+    "youtubeMusic": "FwiHpTc49pI"
+  },
+  "lastfm": {
+    "id": "Deficiency/_/A+Way+Out+of+Nowhere",
+    "listeners": 259,
+    "playcount": 679,
+    "title": "A Way Out of Nowhere",
+    "artist": "Deficiency",
+    "mbid": "06d45a8d-4e43-4525-8c70-edff27f9912c",
+    "artistMbid": "0f64fef8-d3b0-4eb4-8bc7-43fd77971c20",
+    "tags": [
+      "thrash metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "51f32c2b-76cb-49fa-9f12-b95ad401f42a",
+    "artistMbid": "0f64fef8-d3b0-4eb4-8bc7-43fd77971c20",
+    "releaseCount": 2,
+    "releasedAt": "2013-10-07",
+    "artistCountry": "FR",
+    "externalIdsTrack": {
+      "spotify": "4yAAHgNHaX5AXFDHWlk9qj",
+      "deezer": "71312030"
+    },
+    "externalIdsArtist": {
+      "discogs": "3777771",
+      "spotify": "2U3uwxpSBsfzUwwCpeZ2T9",
+      "deezer": "1472985",
+      "youtube": "UChdMNHu3cNAaRLnks6_yHBg"
+    }
+  }
+}

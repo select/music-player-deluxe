@@ -2,7 +2,7 @@
   "youtubeId": "8BphNy9ZQMU",
   "title": "Babel",
   "artist": "Gustavo Bravetti",
-  "lastFetched": "2025-11-30T23:13:02.296Z",
+  "lastFetched": "2025-12-02T00:44:25.645Z",
   "odesli": {
     "amazonMusic": "B09MKY95XC",
     "amazonStore": "B09MKY95XC",
@@ -30,6 +30,12 @@
   "musicbrainz": {
     "artistMbid": "c686937f-7a80-4b30-abe6-00430898b70b",
     "trackMbid": "4440fe43-9037-4ad4-aed1-c9e93e2f6a82",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2022-02-25",
+    "externalIdsArtist": {
+      "discogs": "241535",
+      "spotify": "3COgt6jQqmGpT8vM79C7R9",
+      "soundcloud": "https://soundcloud.com/gustavobravetti"
+    }
   }
 }

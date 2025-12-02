@@ -2,7 +2,7 @@
   "youtubeId": "NuYDKzky4z0",
   "title": "Use Me",
   "artist": "Bill Withers",
-  "lastFetched": "2025-11-30T23:06:18.502Z",
+  "lastFetched": "2025-12-02T01:09:04.877Z",
   "odesli": {
     "amazonMusic": "B00B5K62Z6",
     "amazonStore": "B00B5K62Z6",
@@ -43,7 +43,20 @@
       "pop soul",
       "smooth soul",
       "soul"
-    ]
+    ],
+    "releasedAt": "1972-05-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000078044",
+      "discogs": "59249",
+      "spotify": "1ThoqLcyIYvZn7iWbj8fsj",
+      "deezer": "1118",
+      "lastfm": "Bill+Withers",
+      "genius": "Bill-withers",
+      "rateyourmusic": "bill-withers",
+      "wikidata": "Q346565",
+      "youtube": "UCBTrTXbSiv4Pq7As_tcB0UA"
+    }
   },
   "lastfm": {
     "id": "Bill+Withers/_/Use+Me",

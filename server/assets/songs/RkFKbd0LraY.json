@@ -2,7 +2,7 @@
   "youtubeId": "RkFKbd0LraY",
   "title": "Ain't Talkin' 'Bout Dub",
   "artist": "Apollo 440",
-  "lastFetched": "2025-11-23T16:39:10.986Z",
+  "lastFetched": "2025-12-02T01:15:36.371Z",
   "musicbrainz": {
     "artistTags": [
       "alternative dance",
@@ -22,7 +22,17 @@
       "house"
     ],
     "trackMbid": "6deb3378-b4d7-31f3-b039-014a0fa61e46",
-    "artistMbid": "1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b"
+    "artistMbid": "1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000926914",
+      "discogs": "66579",
+      "spotify": "37f9cjf8Ic4t7vYNRYAzI7",
+      "deezer": "82",
+      "genius": "Apollo-440",
+      "rateyourmusic": "apollo_440",
+      "wikidata": "Q619067"
+    }
   },
   "lastfm": {
     "id": "Apollo+440/_/Ain%27t+Talkin%27+%27Bout+Dub",

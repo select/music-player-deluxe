@@ -2,7 +2,7 @@
   "youtubeId": "EFo_63tQHe8",
   "title": "Human Patterns",
   "artist": "Beanfield",
-  "lastFetched": "2025-11-30T22:47:40.823Z",
+  "lastFetched": "2025-12-02T00:53:33.223Z",
   "odesli": {
     "amazonMusic": "B0BML4WSCV",
     "amazonStore": "B0BML4WSCV",
@@ -23,6 +23,15 @@
   "musicbrainz": {
     "trackMbid": "72149d7c-61fb-4ed3-92a4-e74af056ac4a",
     "artistMbid": "ad0811ea-e213-451d-b22f-fa1a7f9e0226",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1999-11-29",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000128989",
+      "discogs": "234",
+      "spotify": "66pwO4VzpMLwntaQ9DPLvH",
+      "lastfm": "Beanfield",
+      "rateyourmusic": "beanfield"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "CvcoxunP7KU",
   "title": "The Loop",
   "artist": "Toro y Moi",
-  "lastFetched": "2025-11-23T16:31:56.803Z",
+  "lastFetched": "2025-12-02T00:51:06.425Z",
   "odesli": {
     "amazonMusic": "B09P462YYQ",
     "amazonStore": "B09P462YYQ",
@@ -34,7 +34,22 @@
       "indie pop"
     ],
     "trackMbid": "dbb4e40d-50ae-4856-8ad8-cf19f6f0daf3",
-    "artistMbid": "3a6d6481-142d-423f-91d4-55bbfff318ed"
+    "artistMbid": "3a6d6481-142d-423f-91d4-55bbfff318ed",
+    "releasedAt": "2022-02-22",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002138857",
+      "bandcamp": "https://toroymoi.bandcamp.com/",
+      "discogs": "1362799",
+      "spotify": "6O4EGCCb6DoIiR6B1QCQgp",
+      "deezer": "390200",
+      "lastfm": "Toro+y+Moi",
+      "genius": "Toro-y-moi",
+      "rateyourmusic": "toro-y-moi",
+      "soundcloud": "https://soundcloud.com/toroymoi",
+      "wikidata": "Q1590013",
+      "youtube": "UCMQmOGQDbzCwT6xXRZm3FSw"
+    }
   },
   "lastfm": {
     "id": "Toro+y+Moi/_/The+Loop",

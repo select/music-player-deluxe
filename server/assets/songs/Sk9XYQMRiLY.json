@@ -1,7 +1,7 @@
 {
   "youtubeId": "Sk9XYQMRiLY",
   "title": "Finally Moving",
-  "lastFetched": "2025-11-30T21:22:45.756Z",
+  "lastFetched": "2025-12-02T01:16:59.505Z",
   "ai": {
     "title": "Finally Moving",
     "artist": "Pretty Lights"
@@ -48,6 +48,18 @@
       "hip hop",
       "soul",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2006-10-23",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002411743",
+      "bandcamp": "https://prettylights.bandcamp.com/",
+      "discogs": "1319717",
+      "spotify": "4iVhFmG8YCCEHANGeUUS9q",
+      "deezer": "407295",
+      "lastfm": "Pretty+Lights",
+      "rateyourmusic": "pretty_lights",
+      "wikidata": "Q370375"
+    }
   }
 }

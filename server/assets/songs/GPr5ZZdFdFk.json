@@ -2,7 +2,7 @@
   "youtubeId": "GPr5ZZdFdFk",
   "title": "Dreamer",
   "artist": "Dennis Wilson",
-  "lastFetched": "2025-11-23T16:33:51.633Z",
+  "lastFetched": "2025-12-02T00:57:26.999Z",
   "odesli": {
     "amazonMusic": "B006LRYABQ",
     "amazonStore": "B006LRYABQ",
@@ -31,7 +31,16 @@
       "classic rock"
     ],
     "trackMbid": "1003ca48-d3e2-4d25-98f9-2552ccbcd800",
-    "artistMbid": "4051f6bf-6a59-4d23-bd8b-2fddb1389dc0"
+    "artistMbid": "4051f6bf-6a59-4d23-bd8b-2fddb1389dc0",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000252356",
+      "discogs": "391245",
+      "deezer": "74788",
+      "rateyourmusic": "dennis_wilson",
+      "wikidata": "Q453611",
+      "youtube": "UCHEtqtyiqMtrpNWmYxIIM4w"
+    }
   },
   "lastfm": {
     "id": "Dennis+Wilson/_/Dreamer",

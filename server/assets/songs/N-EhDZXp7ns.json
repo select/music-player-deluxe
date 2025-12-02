@@ -2,7 +2,7 @@
   "youtubeId": "N-EhDZXp7ns",
   "title": "My Club",
   "artist": "The Asteroids Galaxy Tour",
-  "lastFetched": "2025-11-30T21:46:16.422Z",
+  "lastFetched": "2025-12-02T01:07:23.207Z",
   "odesli": {
     "amazonMusic": "B0F45GQX3M",
     "amazonStore": "B0F45GQX3M",
@@ -38,6 +38,18 @@
     "artistGenres": [
       "acid jazz",
       "indie pop"
-    ]
+    ],
+    "releasedAt": "2014-07-04",
+    "artistCountry": "DK",
+    "externalIdsArtist": {
+      "allmusic": "mn0001039786",
+      "discogs": "865897",
+      "spotify": "68g1s6VqLLLBI3tXR0Bb7C",
+      "deezer": "161800",
+      "lastfm": "The%20Asteroids%20Galaxy%20Tour",
+      "rateyourmusic": "the-asteroids-galaxy-tour-1",
+      "soundcloud": "https://soundcloud.com/theasteroidsgalaxytour",
+      "wikidata": "Q1148130"
+    }
   }
 }

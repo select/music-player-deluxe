@@ -2,7 +2,7 @@
   "youtubeId": "RRh0QiXyZSk",
   "title": "Sixteen Tons",
   "artist": "Tennessee Ernie Ford",
-  "lastFetched": "2025-11-30T21:30:02.727Z",
+  "lastFetched": "2025-12-02T01:14:57.358Z",
   "odesli": {
     "amazonMusic": "B073QKG9ZL",
     "amazonStore": "B073QKG9ZL",
@@ -44,6 +44,16 @@
       "country gospel",
       "gospel",
       "traditional country"
-    ]
+    ],
+    "releasedAt": "1994-11-15",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000020403",
+      "discogs": "295179",
+      "spotify": "7u6FSuqT3SWE2kO8rNVjfp",
+      "deezer": "2590",
+      "rateyourmusic": "tennessee_ernie_ford",
+      "wikidata": "Q963827"
+    }
   }
 }

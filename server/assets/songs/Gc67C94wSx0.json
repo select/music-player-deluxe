@@ -1,7 +1,7 @@
 {
   "youtubeId": "Gc67C94wSx0",
   "title": "Dub FX 18/04/2009 'Society Gates'",
-  "lastFetched": "2025-11-30T19:53:09.364Z",
+  "lastFetched": "2025-12-02T00:57:46.548Z",
   "ai": {
     "title": "Society Gates",
     "artist": "Dub FX"
@@ -39,6 +39,19 @@
       "beatboxing",
       "dub",
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2010-01-01",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "bandcamp": "https://dubfx.bandcamp.com/",
+      "discogs": "1534857",
+      "spotify": "4ucW1LE5T7y7X4jlaKCeVo",
+      "deezer": "400869",
+      "lastfm": "Dub+Fx",
+      "genius": "Dub-fx",
+      "rateyourmusic": "dub-fx",
+      "soundcloud": "https://soundcloud.com/dub_fx",
+      "wikidata": "Q375193"
+    }
   }
 }

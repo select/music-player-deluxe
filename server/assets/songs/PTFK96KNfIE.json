@@ -1,7 +1,7 @@
 {
   "youtubeId": "PTFK96KNfIE",
   "title": "Parcels - Tieduprightnow (Live in New York City)",
-  "lastFetched": "2025-11-30T19:50:44.108Z",
+  "lastFetched": "2025-12-02T01:11:38.801Z",
   "ai": {
     "title": "Tieduprightnow",
     "artist": "Parcels"
@@ -30,6 +30,18 @@
       "disco",
       "indietronica",
       "nu disco"
-    ]
+    ],
+    "releasedAt": "2018-10-12",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0003588620",
+      "discogs": "4669649",
+      "spotify": "3oKRxpszQKUjjaHz388fVA",
+      "deezer": "7626764",
+      "lastfm": "The+Parcels",
+      "soundcloud": "https://soundcloud.com/parcels-music",
+      "wikidata": "Q47293799",
+      "youtube": "UC2as7PrmUgmdZAkMIWNY6EQ"
+    }
   }
 }

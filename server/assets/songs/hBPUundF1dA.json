@@ -1,0 +1,34 @@
+{
+  "youtubeId": "hBPUundF1dA",
+  "title": "An der schönen blauen Donau, Op. 314",
+  "artist": "Johann Strauss II",
+  "lastFetched": "2025-12-01T12:54:58.760Z",
+  "odesli": {
+    "amazonMusic": "B086H4Y8BY",
+    "amazonStore": "B086H4Y8BY",
+    "pandora": "TR:91808998",
+    "soundcloud": "mrpmx/johann-straus-an-der-schonen-blauen-donau-op-314",
+    "spotify": "7yO51M7uFRODzKFjEzTS0Q",
+    "youtube": "hBPUundF1dA",
+    "youtubeMusic": "hBPUundF1dA"
+  },
+  "lastfm": {
+    "id": "Johann+Strauss+II/_/An+der+sch%C3%B6nen+blauen+Donau,+Op.+314",
+    "listeners": 69666,
+    "playcount": 210839,
+    "title": "An der schönen blauen Donau, Op. 314",
+    "artist": "Johann Strauss II",
+    "tags": [
+      "classical",
+      "waltz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1c13fe60-a134-43fa-9757-0aba413a1f4e",
+    "artistMbid": "8255db36-4902-4cf6-8612-0f2b4288bc9a",
+    "releaseCount": 4,
+    "artistGenres": [
+      "classical"
+    ]
+  }
+}

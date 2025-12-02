@@ -2,7 +2,7 @@
   "youtubeId": "KhrteSZXFzM",
   "title": "DRUGS",
   "artist": "RATATAT",
-  "lastFetched": "2025-11-30T22:28:14.841Z",
+  "lastFetched": "2025-12-02T01:03:41.410Z",
   "lastfm": {
     "title": "Drugs",
     "artist": "Ratatat",
@@ -35,6 +35,19 @@
       "instrumental",
       "neo-psychedelia",
       "new rave"
-    ]
+    ],
+    "releasedAt": "2010-06-08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000404136",
+      "discogs": "158120",
+      "spotify": "57dN52uHvrHOxijzpIgu3E",
+      "deezer": "6058",
+      "lastfm": "Ratatat",
+      "rateyourmusic": "ratatat",
+      "soundcloud": "https://soundcloud.com/ratatat",
+      "wikidata": "Q1422764",
+      "youtube": "UCTcraSQKl7F8GFiLydv6eDg"
+    }
   }
 }

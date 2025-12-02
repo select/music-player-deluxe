@@ -2,7 +2,7 @@
   "youtubeId": "7OwfUQtIGjQ",
   "title": "Battleships",
   "artist": "Travis",
-  "lastFetched": "2025-11-23T16:29:32.464Z",
+  "lastFetched": "2025-12-02T00:43:17.480Z",
   "odesli": {
     "amazonMusic": "B07Q4FY745",
     "amazonStore": "B07Q4FY745",
@@ -41,7 +41,19 @@
       "jangle pop"
     ],
     "trackMbid": "12c666fb-8dee-3274-a367-62d424a8fdaa",
-    "artistMbid": "22a40b75-affc-4e69-8884-266d087e4751"
+    "artistMbid": "22a40b75-affc-4e69-8884-266d087e4751",
+    "externalIdsArtist": {
+      "allmusic": "mn0000013508",
+      "discogs": "102983",
+      "spotify": "3bUwxJgNakzYKkqAVgZLlh",
+      "deezer": "1295",
+      "lastfm": "Travis",
+      "genius": "Travis",
+      "rateyourmusic": "travis",
+      "soundcloud": "https://soundcloud.com/travistheband",
+      "wikidata": "Q160103",
+      "youtube": "UCowh5WX6b70SpXxZvfMQE7Q"
+    }
   },
   "lastfm": {
     "id": "Travis/_/Battleships",

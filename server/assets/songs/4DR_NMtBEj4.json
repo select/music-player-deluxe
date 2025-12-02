@@ -1,7 +1,7 @@
 {
   "youtubeId": "4DR_NMtBEj4",
   "title": "ROTARY CONNECTION-\"I AM THE BLACK GOLD OF THE SUN\" (1971)",
-  "lastFetched": "2025-11-30T20:48:58.669Z",
+  "lastFetched": "2025-12-02T00:38:08.194Z",
   "ai": {
     "title": "I AM THE BLACK GOLD OF THE SUN",
     "artist": "ROTARY CONNECTION"
@@ -37,6 +37,16 @@
       "christmas music",
       "pop soul",
       "psychedelic soul"
-    ]
+    ],
+    "releasedAt": "1998",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000852405",
+      "discogs": "8286",
+      "spotify": "3dGTi4MZZo4zXdQaKAS1va",
+      "deezer": "110555",
+      "rateyourmusic": "rotary_connection",
+      "wikidata": "Q2168041"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "H-pcNScMpak",
   "title": "Die Diktatur der Angepassten",
   "artist": "Blumfeld",
-  "lastFetched": "2025-11-23T16:34:18.884Z",
+  "lastFetched": "2025-12-02T00:58:32.979Z",
   "odesli": {
     "appleMusic": "1467116368",
     "itunes": "1467116368",
@@ -21,7 +21,17 @@
       "indie rock"
     ],
     "trackMbid": "044c3035-b52b-3a61-a794-559ea16caba7",
-    "artistMbid": "f1726af1-e797-4679-88d7-2ef6abcbec76"
+    "artistMbid": "f1726af1-e797-4679-88d7-2ef6abcbec76",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000044973",
+      "discogs": "23230",
+      "lastfm": "Blumfeld",
+      "genius": "Blumfeld",
+      "rateyourmusic": "blumfeld",
+      "wikidata": "Q11894",
+      "youtube": "UCrjkkL43SvVvInzHJMoOlXw"
+    }
   },
   "lastfm": {
     "id": "Blumfeld/_/Die+Diktatur+der+Angepassten",

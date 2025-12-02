@@ -1,7 +1,7 @@
 {
   "youtubeId": "LkJEp2TbFHA",
   "title": "Tim Minchin - Storm",
-  "lastFetched": "2025-11-30T20:37:37.285Z",
+  "lastFetched": "2025-12-02T01:05:26.041Z",
   "ai": {
     "title": "Storm",
     "artist": "Tim Minchin"
@@ -23,6 +23,17 @@
     "releaseCount": 5,
     "artistGenres": [
       "comedy"
-    ]
+    ],
+    "releasedAt": "2008-07-20",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "discogs": "661943",
+      "spotify": "4adgHnoK84DgtLot2jxrp2",
+      "deezer": "538100",
+      "genius": "Tim-minchin",
+      "rateyourmusic": "tim_minchin",
+      "wikidata": "Q23527",
+      "youtube": "UCz5wnzqxdlrhdpaVoRwKe2A"
+    }
   }
 }

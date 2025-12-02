@@ -2,7 +2,7 @@
   "youtubeId": "T93aZ9Q65eo",
   "title": "No Tomorrow",
   "artist": "Camo & Krooked",
-  "lastFetched": "2025-11-30T22:55:14.926Z",
+  "lastFetched": "2025-12-02T01:17:46.639Z",
   "odesli": {
     "amazonMusic": "B0C3R41RPB",
     "amazonStore": "B0C3R41RPB",
@@ -33,6 +33,20 @@
     "artistGenres": [
       "drum and bass",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2020-10-16",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0002106660",
+      "bandcamp": "https://camoandkrooked.bandcamp.com/",
+      "discogs": "1166964",
+      "spotify": "2N8IPNZTiNo3nj4mreOlHU",
+      "deezer": "275668",
+      "lastfm": "Camo+&+Krooked",
+      "rateyourmusic": "camo_and_krooked",
+      "soundcloud": "https://soundcloud.com/camokrooked",
+      "wikidata": "Q701735",
+      "youtube": "UC6TsngDAS3kvU5cOyO3-hoA"
+    }
   }
 }

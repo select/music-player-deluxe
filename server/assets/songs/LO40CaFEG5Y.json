@@ -1,7 +1,7 @@
 {
   "youtubeId": "LO40CaFEG5Y",
   "title": "Kangding Ray AMBER DECAY",
-  "lastFetched": "2025-11-30T20:35:30.714Z",
+  "lastFetched": "2025-12-02T01:04:59.439Z",
   "ai": {
     "title": "AMBER DECAY",
     "artist": "Kangding Ray"
@@ -34,6 +34,20 @@
       "electronic",
       "glitch",
       "techno"
-    ]
+    ],
+    "releasedAt": "2014-02-24",
+    "externalIdsArtist": {
+      "allmusic": "mn0001002290",
+      "bandcamp": "https://kangdingray.bandcamp.com/",
+      "discogs": "558608",
+      "spotify": "20UWNE4rEU7YMO0GHq4F26",
+      "deezer": "95034",
+      "lastfm": "Kangding%20Ray",
+      "genius": "Kangding-ray",
+      "rateyourmusic": "kangding_ray",
+      "soundcloud": "https://soundcloud.com/kangding-ray",
+      "wikidata": "Q3192647",
+      "youtube": "elcyano"
+    }
   }
 }

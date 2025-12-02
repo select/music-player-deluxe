@@ -2,7 +2,7 @@
   "youtubeId": "PUilAIADiAc",
   "title": "KÕK TU",
   "artist": "ИРИНА КАЙРАТОВНА & SHIZA",
-  "lastFetched": "2025-11-23T16:37:47.039Z",
+  "lastFetched": "2025-12-02T01:11:49.464Z",
   "musicbrainz": {
     "artistTags": [
       "hip hop",
@@ -15,7 +15,16 @@
       "q-pop"
     ],
     "trackMbid": "5818d371-978e-473b-8d3f-fb31bb92885d",
-    "artistMbid": "b445fc92-e6d5-4221-8796-9551373f670a"
+    "artistMbid": "b445fc92-e6d5-4221-8796-9551373f670a",
+    "releasedAt": "2022-03-18",
+    "artistCountry": "KZ",
+    "externalIdsTrack": {
+      "spotify": "1tVJ6OAOSN5D7e0kwrhdqc"
+    },
+    "externalIdsArtist": {
+      "spotify": "0AGZvVUGRD63ticvhaXZx1",
+      "wikidata": "Q111371986"
+    }
   },
   "lastfm": {
     "id": "%D0%98%D0%A0%D0%98%D0%9D%D0%90+%D0%9A%D0%90%D0%99%D0%A0%D0%90%D0%A2%D0%9E%D0%92%D0%9D%D0%90+&+SHIZA/_/K%C3%95K+TU",

@@ -2,7 +2,7 @@
   "youtubeId": "LnET4RKXx5k",
   "title": "Hello",
   "artist": "Martin Solveig",
-  "lastFetched": "2025-11-23T16:36:09.204Z",
+  "lastFetched": "2025-12-02T01:05:40.807Z",
   "odesli": {
     "amazonMusic": "B004EG6J92",
     "amazonStore": "B004EG6J92",
@@ -33,7 +33,19 @@
       "future house"
     ],
     "trackMbid": "005a9151-8e8f-4e45-935d-945dc4cf2d71",
-    "artistMbid": "06db73fd-57e2-4a6f-bcd3-699fb7bb7af4"
+    "artistMbid": "06db73fd-57e2-4a6f-bcd3-699fb7bb7af4",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000418582",
+      "discogs": "6540",
+      "spotify": "1bj5GrcLom5gZFF5t949Xl",
+      "deezer": "2046",
+      "lastfm": "Martin+Solveig",
+      "genius": "Martin-solveig",
+      "rateyourmusic": "martin_solveig",
+      "soundcloud": "https://soundcloud.com/martinsolveig",
+      "wikidata": "Q359066"
+    }
   },
   "lastfm": {
     "id": "Martin+Solveig/_/Hello",

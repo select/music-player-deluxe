@@ -1,7 +1,7 @@
 {
   "youtubeId": "5Dhr_9QP70Q",
   "title": "Orphx - Stillpoint (Sonic Groove - 2010)",
-  "lastFetched": "2025-11-30T19:19:11.402Z",
+  "lastFetched": "2025-12-02T00:39:40.207Z",
   "ai": {
     "title": "Stillpoint",
     "artist": "Orphx"
@@ -21,6 +21,14 @@
   "musicbrainz": {
     "trackMbid": "0270560a-b478-4fcf-b865-cd02ecb2e578",
     "artistMbid": "a7c5a839-b5a1-45bd-aa7e-ba34d7aeb3a4",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2010-04-05",
+    "externalIdsArtist": {
+      "bandcamp": "https://orphx.bandcamp.com/",
+      "discogs": "6603",
+      "rateyourmusic": "orphx",
+      "soundcloud": "https://soundcloud.com/orphx",
+      "wikidata": "Q7104011"
+    }
   }
 }

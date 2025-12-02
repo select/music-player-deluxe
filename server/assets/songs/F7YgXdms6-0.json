@@ -2,7 +2,7 @@
   "youtubeId": "F7YgXdms6-0",
   "title": "Southbound Again",
   "artist": "Dire Straits",
-  "lastFetched": "2025-11-23T16:33:21.162Z",
+  "lastFetched": "2025-12-02T00:54:53.738Z",
   "odesli": {
     "amazonMusic": "B002M69BTQ",
     "amazonStore": "B002M69BTQ",
@@ -42,7 +42,20 @@
       "rock"
     ],
     "trackMbid": "76f6bf4c-6475-47db-80e4-d62dccf6856b",
-    "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a"
+    "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000167517",
+      "discogs": "103687",
+      "spotify": "0WwSkZ7LtFUFjGjMZBMt6T",
+      "deezer": "176",
+      "lastfm": "Dire+Straits",
+      "genius": "Dire-straits",
+      "rateyourmusic": "dire_straits",
+      "soundcloud": "https://soundcloud.com/direstraits",
+      "wikidata": "Q50040",
+      "youtube": "UCA37MBUzQgLbUHoUQgl-p0g"
+    }
   },
   "lastfm": {
     "id": "Dire+Straits/_/Southbound+Again",

@@ -3,7 +3,7 @@
   "artist": "Paul Cornish",
   "duration": 333,
   "youtubeId": "U6EAEln-a7Q",
-  "lastFetched": "2025-11-19T03:58:34.111Z",
+  "lastFetched": "2025-12-02T01:19:16.026Z",
   "odesli": {
     "amazonMusic": "B0FBH77RD3",
     "amazonStore": "B0FBH77RD3",
@@ -24,7 +24,12 @@
     ],
     "trackMbid": "acc428b8-2ad5-4de4-be7f-802f44cd3a1c",
     "artistMbid": "104721c5-f679-4627-9462-26ad5d15f082",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-08-22",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "spotify": "6Buu7N5lG1P2yRirqj9UON"
+    }
   },
   "lastfm": {
     "id": "Paul+Cornish/_/DB+Song",

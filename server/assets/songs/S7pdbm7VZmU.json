@@ -1,0 +1,53 @@
+{
+  "youtubeId": "S7pdbm7VZmU",
+  "title": "Using Splashes",
+  "artist": "Forss",
+  "lastFetched": "2025-12-02T01:16:00.473Z",
+  "odesli": {
+    "amazonMusic": "B01ACVXUF8",
+    "amazonStore": "B01ACVXUF8",
+    "boomplay": "27531389",
+    "deezer": "117101020",
+    "appleMusic": "524431620",
+    "itunes": "524431620",
+    "napster": "tra.15791586",
+    "soundcloud": "forss/using-splashes",
+    "spotify": "0JnuWTvwJulj41s6O26Rtg",
+    "tidal": "184761774",
+    "yandex": "19762744",
+    "youtube": "S7pdbm7VZmU",
+    "youtubeMusic": "S7pdbm7VZmU"
+  },
+  "lastfm": {
+    "id": "Forss/_/Using+Splashes",
+    "listeners": 9045,
+    "playcount": 29566,
+    "title": "Using Splashes",
+    "artist": "Forss",
+    "artistMbid": "3a04ffc9-843f-44ba-b098-49b68e6f7f48",
+    "tags": [
+      "soundcloud",
+      "funk",
+      "future jazz",
+      "x"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "16cc0806-025d-4c96-9fab-12bd3ab9c23a",
+    "artistMbid": "3a04ffc9-843f-44ba-b098-49b68e6f7f48",
+    "releaseCount": 3,
+    "releasedAt": "2003-06-02",
+    "artistCountry": "SE",
+    "externalIdsTrack": {
+      "spotify": "0JnuWTvwJulj41s6O26Rtg"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000660052",
+      "bandcamp": "https://forss.bandcamp.com/",
+      "discogs": "35327",
+      "lastfm": "Forss",
+      "rateyourmusic": "forss",
+      "wikidata": "Q58631861"
+    }
+  }
+}

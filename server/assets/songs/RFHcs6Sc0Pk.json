@@ -4,7 +4,7 @@
   "album": "Chapters of Zdenka",
   "duration": 98,
   "youtubeId": "RFHcs6Sc0Pk",
-  "lastFetched": "2025-11-19T04:28:34.931Z",
+  "lastFetched": "2025-12-02T01:14:18.200Z",
   "odesli": {
     "amazonMusic": "B08P3WZV62",
     "amazonStore": "B08P3WZV62",
@@ -37,6 +37,16 @@
   },
   "musicbrainz": {
     "trackMbid": "01104965-02a6-4abe-a8a5-a785306024da",
-    "artistMbid": "768633eb-8810-4fbe-aabb-f891c07d29d3"
+    "artistMbid": "768633eb-8810-4fbe-aabb-f891c07d29d3",
+    "releasedAt": "2020-12-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003457200",
+      "bandcamp": "https://salamirosejoelouismusic.bandcamp.com/",
+      "discogs": "4702598",
+      "spotify": "6EHS9kZ9PpeXaJ4wZO3FSX",
+      "soundcloud": "https://soundcloud.com/salami-rose-joe-louis",
+      "wikidata": "Q112726398"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "QDIUL6T5GQU",
   "title": "Mandjou",
   "artist": "Salif Keita",
-  "lastFetched": "2025-11-23T16:38:09.204Z",
+  "lastFetched": "2025-12-02T01:12:37.478Z",
   "odesli": {
     "amazonMusic": "B003P699MG",
     "amazonStore": "B003P699MG",
@@ -32,7 +32,19 @@
       "jùjú"
     ],
     "trackMbid": "22a870e3-b2e7-4b76-bdcf-ff0276b85eb3",
-    "artistMbid": "b29a24ff-2c55-437e-867b-1456c9f3f73e"
+    "artistMbid": "b29a24ff-2c55-437e-867b-1456c9f3f73e",
+    "artistCountry": "ML",
+    "externalIdsArtist": {
+      "allmusic": "mn0000832281",
+      "bandcamp": "https://salifkeita.bandcamp.com/",
+      "discogs": "10377",
+      "spotify": "0VVnWF3KNaa5O7ESohKhAx",
+      "deezer": "1399",
+      "lastfm": "Salif+Keita",
+      "genius": "Salif-keita",
+      "rateyourmusic": "salif-keita",
+      "wikidata": "Q313318"
+    }
   },
   "lastfm": {
     "id": "Salif+Keita/_/Mandjou",

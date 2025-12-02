@@ -4,7 +4,7 @@
   "album": "Live at the Village Vanguard Again!",
   "duration": 1221,
   "youtubeId": "JQvc-Gkwhow",
-  "lastFetched": "2025-11-23T16:35:20.602Z",
+  "lastFetched": "2025-12-02T01:02:03.719Z",
   "odesli": {
     "amazonMusic": "B0012F8XAG",
     "amazonStore": "B0012F8XAG",
@@ -41,7 +41,21 @@
       "modal jazz"
     ],
     "trackMbid": "9e5fbae7-6a07-4914-ab24-6296270e12b4",
-    "artistMbid": "b625448e-bf4a-41c3-a421-72ad46cdb831"
+    "artistMbid": "b625448e-bf4a-41c3-a421-72ad46cdb831",
+    "releasedAt": "1966-12",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000175553",
+      "discogs": "97545",
+      "spotify": "2hGh5VOeeqimQFxqXvfCUf",
+      "deezer": "2449",
+      "lastfm": "John+Coltrane",
+      "genius": "John-coltrane",
+      "rateyourmusic": "john_coltrane",
+      "soundcloud": "https://soundcloud.com/johncoltraneofficial",
+      "wikidata": "Q7346",
+      "youtube": "UCH4T2kv7rr9qnuP0DOXLxMA"
+    }
   },
   "lastfm": {
     "id": "John+Coltrane/_/My+Favorite+Things",

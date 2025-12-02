@@ -2,7 +2,7 @@
   "youtubeId": "HRpDFufphEw",
   "title": "If I Only Had A Heart",
   "artist": "Ozma",
-  "lastFetched": "2025-11-30T19:34:38.000Z",
+  "lastFetched": "2025-12-02T00:59:01.947Z",
   "odesli": {
     "pandora": "TR:463504",
     "soundcloud": "ozma-sc/if-i-only-had-a-heart",
@@ -26,6 +26,21 @@
   "musicbrainz": {
     "trackMbid": "ffcbbd04-216f-4c51-bd48-8aa5b0ead49d",
     "artistMbid": "c0e03a06-f8b9-47ac-a50f-8ae1dbb5bd52",
-    "releaseCount": 5
+    "releaseCount": 5,
+    "releasedAt": "2000-01-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000898551",
+      "bandcamp": "https://ozmamusic.bandcamp.com/",
+      "discogs": "221456",
+      "spotify": "5OBmG7IuJhugloUxhtSAlw",
+      "deezer": "12070",
+      "lastfm": "Ozma",
+      "genius": "Ozma",
+      "rateyourmusic": "ozma",
+      "soundcloud": "https://soundcloud.com/ozma-sc",
+      "wikidata": "Q3277429",
+      "youtube": "OZMAOFFICIAL"
+    }
   }
 }

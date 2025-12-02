@@ -2,7 +2,7 @@
   "youtubeId": "PJmCfzJNmLI",
   "title": "Lip Service",
   "artist": "Lorene Drive",
-  "lastFetched": "2025-11-30T23:27:17.701Z",
+  "lastFetched": "2025-12-02T01:11:26.773Z",
   "odesli": {
     "amazonMusic": "B001EDESKK",
     "amazonStore": "B001EDESKK",
@@ -40,6 +40,12 @@
       "punk",
       "rock",
       "screamo"
-    ]
+    ],
+    "releasedAt": "2005-08-02",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "3053661",
+      "wikidata": "Q4043187"
+    }
   }
 }

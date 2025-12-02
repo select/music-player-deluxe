@@ -2,7 +2,7 @@
   "youtubeId": "GH4CC8nV58A",
   "title": "We Gettin' Down",
   "artist": "Weldon Irvine",
-  "lastFetched": "2025-11-23T16:33:47.075Z",
+  "lastFetched": "2025-12-02T00:57:10.241Z",
   "odesli": {
     "amazonMusic": "B06XYYX66M",
     "amazonStore": "B06XYYX66M",
@@ -20,7 +20,14 @@
       "jazz"
     ],
     "trackMbid": "6b987e22-0213-3969-ac50-a72c88f385a6",
-    "artistMbid": "92a0f97c-311e-4ca9-8bb3-247b3d96d41b"
+    "artistMbid": "92a0f97c-311e-4ca9-8bb3-247b3d96d41b",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000244561",
+      "discogs": "20585",
+      "rateyourmusic": "weldon_irvine",
+      "wikidata": "Q7980906"
+    }
   },
   "lastfm": {
     "id": "Weldon+Irvine/_/We+Gettin%27+Down",

@@ -2,7 +2,7 @@
   "youtubeId": "6MdABLcI7RI",
   "title": "James Bond Theme (Moby's re-version)",
   "artist": "Moby",
-  "lastFetched": "2025-11-23T16:28:58.680Z",
+  "lastFetched": "2025-12-02T00:28:59.562Z",
   "odesli": {
     "amazonMusic": "B08Y37JQYR",
     "amazonStore": "B08Y37JQYR",
@@ -62,7 +62,21 @@
       "electronica"
     ],
     "trackMbid": "bacdd875-5f7a-4b36-967a-37873911252f",
-    "artistMbid": "8970d868-0723-483b-a75b-51088913d3d4"
+    "artistMbid": "8970d868-0723-483b-a75b-51088913d3d4",
+    "releasedAt": "1997-10-27",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "7BM6l1QoAVGtmya4ALUy38"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000477116",
+      "bandcamp": "https://moby.bandcamp.com/",
+      "discogs": "1031",
+      "spotify": "3OsRAKCvk37zwYcnzRf5XF",
+      "lastfm": "Moby",
+      "soundcloud": "moby",
+      "youtube": "UC35GdXKfexT9GAZv3SJq0uA"
+    }
   },
   "lastfm": {
     "id": "Moby/_/James+Bond+Theme+(Moby%27s+re-version)",

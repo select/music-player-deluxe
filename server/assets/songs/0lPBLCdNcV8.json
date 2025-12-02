@@ -1,0 +1,44 @@
+{
+  "youtubeId": "0lPBLCdNcV8",
+  "title": "Holy Ghost! - It Gets Dark",
+  "lastFetched": "2025-12-02T00:34:04.442Z",
+  "ai": {
+    "title": "It Gets Dark",
+    "artist": "Holy Ghost!"
+  },
+  "lastfm": {
+    "id": "Holy+Ghost%21/_/It+Gets+Dark",
+    "listeners": 34837,
+    "playcount": 126830,
+    "title": "It Gets Dark",
+    "artist": "Holy Ghost!",
+    "mbid": "7828f7df-007a-41f6-9053-7c32017c852e",
+    "artistMbid": "3c0d5463-6688-4f4a-8273-a191657d8084",
+    "tags": [
+      "nu-disco",
+      "electronic",
+      "disco"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "10cd047e-eebf-4fe9-bdca-66c81496fe63",
+    "artistMbid": "3c0d5463-6688-4f4a-8273-a191657d8084",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative dance"
+    ],
+    "releasedAt": "2012-10-06",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002459611",
+      "bandcamp": "https://holyghost.bandcamp.com/",
+      "discogs": "953600",
+      "spotify": "2Vhc7Y0Kc6HzMC6glKM4h6",
+      "deezer": "372634",
+      "lastfm": "Holy+Ghost!",
+      "rateyourmusic": "holy_ghost_",
+      "wikidata": "Q4040718",
+      "youtube": "UCV6e3LsFXyobhQLEhvpDN-w"
+    }
+  }
+}

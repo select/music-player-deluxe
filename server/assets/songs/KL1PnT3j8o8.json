@@ -2,7 +2,7 @@
   "youtubeId": "KL1PnT3j8o8",
   "title": "Dust It Off",
   "artist": "The Dø",
-  "lastFetched": "2025-11-30T23:01:01.419Z",
+  "lastFetched": "2025-12-02T01:03:16.116Z",
   "odesli": {
     "amazonMusic": "B073NG9B7R",
     "amazonStore": "B073NG9B7R",
@@ -45,6 +45,18 @@
       "folk rock",
       "indie pop",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2010-12-13",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0001557353",
+      "discogs": "988573",
+      "spotify": "2mcNCn1qbZUQ3J9KHapUxj",
+      "deezer": "378715",
+      "lastfm": "The%20D%C3%B8",
+      "rateyourmusic": "the_do",
+      "soundcloud": "https://soundcloud.com/thedo",
+      "wikidata": "Q1027492"
+    }
   }
 }

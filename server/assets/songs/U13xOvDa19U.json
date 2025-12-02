@@ -1,7 +1,7 @@
 {
   "youtubeId": "U13xOvDa19U",
   "title": "Stayin' Alive In The Wall (Pink Floyd + Bee Gees Mashup) by Wax Audio",
-  "lastFetched": "2025-11-30T20:46:14.681Z",
+  "lastFetched": "2025-12-02T01:19:11.723Z",
   "ai": {
     "title": "Stayin' Alive In The Wall",
     "artist": "Wax Audio"
@@ -21,6 +21,15 @@
   "musicbrainz": {
     "trackMbid": "92eac92e-c5dc-4031-accf-fe5432c7f039",
     "artistMbid": "ee5f7b9a-0eaa-4796-87ad-410dee597708",
-    "releaseCount": 5
+    "releaseCount": 5,
+    "releasedAt": "2007-04",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "discogs": "604712",
+      "spotify": "3ETfFRplqW9PhDrA3i0Jkd",
+      "lastfm": "Wax+Audio",
+      "rateyourmusic": "wax_audio",
+      "soundcloud": "https://soundcloud.com/waxaudio"
+    }
   }
 }

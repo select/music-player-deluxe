@@ -2,7 +2,7 @@
   "youtubeId": "50Ceq5eBocE",
   "title": "Army Ants in Your Pants",
   "artist": "Bruce Haack",
-  "lastFetched": "2025-11-23T16:28:13.803Z",
+  "lastFetched": "2025-12-02T00:39:30.284Z",
   "odesli": {
     "amazonMusic": "B0C5CQ96LF",
     "amazonStore": "B0C5CQ96LF",
@@ -31,7 +31,15 @@
       "moogsploitation"
     ],
     "trackMbid": "2296c3ce-1389-3117-b854-bab479e77eee",
-    "artistMbid": "f9b7f120-3c0d-4ada-bc14-95ad2550e9cf"
+    "artistMbid": "f9b7f120-3c0d-4ada-bc14-95ad2550e9cf",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000529565",
+      "discogs": "26952",
+      "lastfm": "Bruce%20Haack",
+      "rateyourmusic": "bruce_haack",
+      "wikidata": "Q365270"
+    }
   },
   "lastfm": {
     "id": "Bruce+Haack/_/Army+Ants+in+Your+Pants",

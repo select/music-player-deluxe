@@ -2,7 +2,7 @@
   "youtubeId": "1ekQ5VEaYMc",
   "title": "Tip Tip",
   "artist": "Gudrun Gut",
-  "lastFetched": "2025-11-19T11:02:20.420Z",
+  "lastFetched": "2025-12-02T00:35:15.489Z",
   "odesli": {
     "amazonMusic": "B0018CM9PI",
     "amazonStore": "B0018CM9PI",
@@ -30,6 +30,14 @@
   },
   "musicbrainz": {
     "trackMbid": "19c05770-6c34-392f-866f-6b5ec353ffba",
-    "artistMbid": "22e67027-3c07-44d5-8501-8eed7b13286b"
+    "artistMbid": "22e67027-3c07-44d5-8501-8eed7b13286b",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "49376",
+      "spotify": "1T48eW2iZNOo834wEdlopV",
+      "deezer": "168708",
+      "soundcloud": "https://soundcloud.com/ggut",
+      "wikidata": "Q105979"
+    }
   }
 }

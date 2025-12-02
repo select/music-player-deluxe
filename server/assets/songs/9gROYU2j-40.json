@@ -1,7 +1,7 @@
 {
   "youtubeId": "9gROYU2j-40",
   "title": "Devendra Banhart - Baby (Video)",
-  "lastFetched": "2025-11-30T21:35:49.841Z",
+  "lastFetched": "2025-12-02T00:46:35.638Z",
   "ai": {
     "title": "Baby",
     "artist": "Devendra Banhart"
@@ -36,6 +36,19 @@
       "freak folk",
       "indie folk",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2009-10-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000246032",
+      "bandcamp": "https://devendrabanhart.bandcamp.com/",
+      "discogs": "202595",
+      "spotify": "1YZEoYFXx4AxVv13OiOPvZ",
+      "deezer": "2689",
+      "lastfm": "Devendra+Banhart",
+      "rateyourmusic": "devendra_banhart",
+      "soundcloud": "https://soundcloud.com/devendrabanhart",
+      "wikidata": "Q223443"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "N63W1dM8gmU",
   "title": "Lose Your Head",
   "artist": "Bad Religion",
-  "lastFetched": "2025-11-23T16:36:42.891Z",
+  "lastFetched": "2025-12-02T01:07:42.715Z",
   "odesli": {
     "amazonMusic": "B07ZMHJ85Z",
     "amazonStore": "B07ZMHJ85Z",
@@ -33,7 +33,20 @@
       "skate punk"
     ],
     "trackMbid": "28988b53-2888-4369-bfe8-56c74b584402",
-    "artistMbid": "149e6720-4e4a-41a4-afca-6d29083fc091"
+    "artistMbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000062823",
+      "discogs": "17479",
+      "spotify": "2yJwXpWAQOOl5XFzbCxLs9",
+      "deezer": "936",
+      "lastfm": "Bad+Religion",
+      "genius": "Bad-religion",
+      "rateyourmusic": "bad_religion",
+      "soundcloud": "https://soundcloud.com/thebrpage",
+      "wikidata": "Q201669",
+      "youtube": "UCLjT3GCC1Q-p39MWp85KKFA"
+    }
   },
   "lastfm": {
     "id": "Bad+Religion/_/Lose+Your+Head",

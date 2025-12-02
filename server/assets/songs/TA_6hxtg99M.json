@@ -2,7 +2,7 @@
   "youtubeId": "TA_6hxtg99M",
   "title": "Хризантеми",
   "artist": "анастимоза",
-  "lastFetched": "2025-11-30T21:50:14.573Z",
+  "lastFetched": "2025-12-02T01:17:50.814Z",
   "odesli": {
     "amazonMusic": "B0CBKG19JV",
     "amazonStore": "B0CBKG19JV",
@@ -36,6 +36,14 @@
   "musicbrainz": {
     "trackMbid": "107014bf-b69b-49b9-b8d5-35a0aa567945",
     "artistMbid": "58ba611b-dd29-449e-b7d7-a41bd7a8aba9",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-11-12",
+    "externalIdsArtist": {
+      "spotify": "387gWxnXhGdDQFO7Ld3mLZ",
+      "deezer": "152612012",
+      "soundcloud": "https://soundcloud.com/anastimoza",
+      "wikidata": "Q136117996",
+      "youtube": "anastymozamusic"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "I4mKZsEBfFU",
   "title": "Kendama",
   "artist": "Glass Museum",
-  "lastFetched": "2025-11-30T22:51:06.007Z",
+  "lastFetched": "2025-12-02T00:59:55.367Z",
   "odesli": {
     "amazonMusic": "B09Y1CC6M6",
     "amazonStore": "B09Y1CC6M6",
@@ -33,6 +33,15 @@
   "musicbrainz": {
     "artistMbid": "84fe88ef-3ac0-49a1-95c7-3aa9d4062149",
     "trackMbid": "1054cbba-39b1-4158-9a50-bad35fb158b6",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-04-29",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "bandcamp": "https://glassmuseumbe.bandcamp.com/",
+      "discogs": "6535851",
+      "spotify": "0bq8ZdJxUOXswye4qT4zzU",
+      "deezer": "5562267",
+      "youtube": "UCjHUnRVND8giqgZGr8Twp-w"
+    }
   }
 }

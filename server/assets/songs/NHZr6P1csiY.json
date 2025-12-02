@@ -2,7 +2,7 @@
   "youtubeId": "NHZr6P1csiY",
   "title": "And the Day Goes On",
   "artist": "Bill Wurtz",
-  "lastFetched": "2025-11-30T20:09:42.814Z",
+  "lastFetched": "2025-12-02T01:07:57.718Z",
   "odesli": {
     "amazonMusic": "B07CN9D2C5",
     "amazonStore": "B07CN9D2C5",
@@ -41,6 +41,25 @@
       "jazz pop",
       "lo-fi",
       "pop"
-    ]
+    ],
+    "releasedAt": "2018-04-25",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "7GLqxrkceMlnw2OMZleOeg",
+      "soundcloud": "https://soundcloud.com/billwurtz/and-the-day-goes-on",
+      "deezer": "491799012"
+    },
+    "externalIdsArtist": {
+      "bandcamp": "https://billwurtz.bandcamp.com/",
+      "discogs": "5762374",
+      "spotify": "78cT0dM5Ivm722EP2sgfDh",
+      "deezer": "8399920",
+      "lastfm": "Bill+Wurtz",
+      "genius": "Bill-wurtz",
+      "rateyourmusic": "bill-wurtz",
+      "soundcloud": "https://soundcloud.com/billywilds",
+      "wikidata": "Q28094405",
+      "youtube": "UCq6aw03lNILzV96UvEAASfQ"
+    }
   }
 }

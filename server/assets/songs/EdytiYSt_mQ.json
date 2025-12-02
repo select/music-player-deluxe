@@ -2,7 +2,7 @@
   "youtubeId": "EdytiYSt_mQ",
   "title": "Bring It On",
   "artist": "Nick Cave & the Bad Seeds",
-  "lastFetched": "2025-11-23T16:33:04.523Z",
+  "lastFetched": "2025-12-02T00:54:16.715Z",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -23,7 +23,20 @@
       "post-punk"
     ],
     "trackMbid": "18907224-982b-4124-9d7e-396e4ff60110",
-    "artistMbid": "172e1f1a-504d-4488-b053-6344ba63e6d0"
+    "artistMbid": "172e1f1a-504d-4488-b053-6344ba63e6d0",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000866271",
+      "discogs": "798590",
+      "spotify": "4UXJsSlnKd7ltsrHebV79Q",
+      "deezer": "1581",
+      "lastfm": "Nick+Cave+&+the+Bad+Seeds",
+      "genius": "Nick-cave-and-the-bad-seeds",
+      "rateyourmusic": "nick-cave-and-the-bad-seeds",
+      "soundcloud": "https://soundcloud.com/nickcaveofficial",
+      "wikidata": "Q1051182",
+      "youtube": "UCO3bMONL-69xY-dqqo5Cnew"
+    }
   },
   "lastfm": {
     "id": "Nick+Cave+&+the+Bad+Seeds/_/Bring+It+On",

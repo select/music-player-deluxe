@@ -1,7 +1,7 @@
 {
   "youtubeId": "Brs__9VzDqM",
   "title": "Maite Hontelé - Me Da Igual (Video Oficial)",
-  "lastFetched": "2025-11-30T19:53:38.988Z",
+  "lastFetched": "2025-12-02T00:49:19.354Z",
   "ai": {
     "title": "Me Da Igual",
     "artist": "Maite Hontelé"
@@ -27,6 +27,15 @@
       "bolero",
       "latin",
       "salsa"
-    ]
+    ],
+    "releasedAt": "2015-05-19",
+    "artistCountry": "CO",
+    "externalIdsArtist": {
+      "allmusic": "mn0003249943",
+      "discogs": "5293976",
+      "spotify": "1Pe4MoTbike2NZeexUUBrU",
+      "rateyourmusic": "maite_hontele",
+      "wikidata": "Q20747923"
+    }
   }
 }

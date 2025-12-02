@@ -2,7 +2,7 @@
   "youtubeId": "HjxBfTknY-s",
   "title": "You Drive My Four Wheel Coffin",
   "artist": "The Unsleeping",
-  "lastFetched": "2025-11-30T23:04:03.155Z",
+  "lastFetched": "2025-12-02T00:59:19.018Z",
   "odesli": {
     "amazonMusic": "B0BTV1CD9P",
     "amazonStore": "B0BTV1CD9P",
@@ -30,6 +30,14 @@
   "musicbrainz": {
     "artistMbid": "89de8465-f65b-4a1a-856a-e3f4c7ec89e8",
     "trackMbid": "a72ba042-b296-4539-980c-a0cee188318d",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2018-08-30",
+    "artistCountry": "UA",
+    "externalIdsArtist": {
+      "spotify": "4lkuCrbRHsGwfVR916oqsM",
+      "deezer": "14447813",
+      "wikidata": "Q93600137",
+      "youtube": "UCd28Lw_gmaRdJTJR6T7K1bA"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "5c3EjeP2x-Q",
   "title": "Eternal Summer",
   "artist": "The Strokes",
-  "lastFetched": "2025-11-19T07:49:36.950Z",
+  "lastFetched": "2025-12-02T00:40:17.368Z",
   "odesli": {
     "amazonMusic": "B084KMHR5H",
     "amazonStore": "B084KMHR5H",
@@ -25,7 +25,21 @@
       "synth pop"
     ],
     "trackMbid": "753b8762-2f20-495d-9571-bc1be26a978c",
-    "artistMbid": "f181961b-20f7-459e-89de-920ef03c7ed0"
+    "artistMbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000568137",
+      "bandcamp": "https://thestrokesband.bandcamp.com/",
+      "discogs": "55980",
+      "spotify": "0epOFNiUfyON9EYx7Tpr6V",
+      "deezer": "569",
+      "lastfm": "The+Strokes",
+      "genius": "The-strokes",
+      "rateyourmusic": "the_strokes",
+      "soundcloud": "https://soundcloud.com/thestrokes",
+      "wikidata": "Q211583",
+      "youtube": "UC28OQSWdiW7jkadedZRRyZA"
+    }
   },
   "lastfm": {
     "id": "The+Strokes/_/Eternal+Summer",

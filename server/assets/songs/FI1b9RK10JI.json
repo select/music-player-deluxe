@@ -2,7 +2,7 @@
   "youtubeId": "FI1b9RK10JI",
   "title": "Águas De Março",
   "artist": "Elis Regina",
-  "lastFetched": "2025-11-30T23:20:27.302Z",
+  "lastFetched": "2025-12-02T00:55:30.288Z",
   "lastfm": {
     "id": "Elis+Regina/_/%C3%81guas+De+Mar%C3%A7o",
     "listeners": 440956,
@@ -23,6 +23,18 @@
       "bossa nova",
       "latin",
       "mpb"
-    ]
+    ],
+    "releasedAt": "2012-01-24",
+    "artistCountry": "BR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000797056",
+      "discogs": "30703",
+      "spotify": "0yFvXd36g5sNKYDi0Kkvl8",
+      "deezer": "15827",
+      "lastfm": "Elis+Regina",
+      "genius": "Elis-regina",
+      "rateyourmusic": "elis_regina",
+      "wikidata": "Q465877"
+    }
   }
 }

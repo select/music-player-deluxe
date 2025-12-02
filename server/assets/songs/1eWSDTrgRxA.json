@@ -1,7 +1,7 @@
 {
   "youtubeId": "1eWSDTrgRxA",
   "title": "BICEP & HAMMER | ICEBOWL",
-  "lastFetched": "2025-11-30T19:56:21.061Z",
+  "lastFetched": "2025-12-02T00:35:13.016Z",
   "ai": {
     "title": "ICEBOWL",
     "artist": "BICEP"
@@ -32,6 +32,19 @@
       "leftfield",
       "stutter house",
       "techno"
-    ]
+    ],
+    "releasedAt": "2014-09-29",
+    "externalIdsArtist": {
+      "allmusic": "mn0002596465",
+      "bandcamp": "https://bicep.bandcamp.com/",
+      "discogs": "1540289",
+      "spotify": "73A3bLnfnz5BoQjb4gNCga",
+      "deezer": "369056",
+      "lastfm": "Bicep",
+      "genius": "Bicep",
+      "soundcloud": "https://soundcloud.com/feelmybicep",
+      "wikidata": "Q28855240",
+      "youtube": "UCreSupkPVEJoDjoIV-9GG5w"
+    }
   }
 }

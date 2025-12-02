@@ -2,7 +2,7 @@
   "youtubeId": "B9FzVhw8_bY",
   "title": "In Hell I'll Be in Good Company",
   "artist": "The Dead South",
-  "lastFetched": "2025-11-30T22:23:04.137Z",
+  "lastFetched": "2025-12-02T00:48:18.059Z",
   "odesli": {
     "amazonMusic": "B07D97S2XH",
     "amazonStore": "B07D97S2XH",
@@ -49,6 +49,16 @@
       "folk",
       "folk rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2014-04-26",
+    "externalIdsArtist": {
+      "bandcamp": "https://thedeadsouth.bandcamp.com/",
+      "discogs": "4120792",
+      "spotify": "3HR1xtIsUefdFnkI1XHgeA",
+      "deezer": "5699072",
+      "lastfm": "The+Dead+South",
+      "soundcloud": "https://soundcloud.com/the-dead-south",
+      "wikidata": "Q30887550"
+    }
   }
 }

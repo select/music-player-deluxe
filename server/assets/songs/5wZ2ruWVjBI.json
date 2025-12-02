@@ -2,7 +2,7 @@
   "youtubeId": "5wZ2ruWVjBI",
   "title": "Ogrodu serce",
   "artist": "Daab",
-  "lastFetched": "2025-11-30T22:09:15.914Z",
+  "lastFetched": "2025-12-02T00:40:40.532Z",
   "lastfm": {
     "id": "Daab/_/Ogrodu+serce",
     "listeners": 20755,
@@ -23,6 +23,12 @@
     "releaseCount": 2,
     "artistGenres": [
       "reggae"
-    ]
+    ],
+    "releasedAt": "2003",
+    "artistCountry": "PL",
+    "externalIdsArtist": {
+      "discogs": "601552",
+      "wikidata": "Q5207353"
+    }
   }
 }

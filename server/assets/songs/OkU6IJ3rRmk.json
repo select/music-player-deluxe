@@ -2,7 +2,7 @@
   "youtubeId": "OkU6IJ3rRmk",
   "title": "Never Saw Blue Like That",
   "artist": "Shawn Colvin",
-  "lastFetched": "2025-11-23T16:37:29.975Z",
+  "lastFetched": "2025-12-02T01:10:45.451Z",
   "odesli": {
     "amazonMusic": "B00137SPVK",
     "amazonStore": "B00137SPVK",
@@ -28,7 +28,18 @@
       "rock"
     ],
     "trackMbid": "e98315e0-f893-4b0c-8c8c-99a01af1305d",
-    "artistMbid": "42222090-c5e5-4243-8582-c29bc8b63ec6"
+    "artistMbid": "42222090-c5e5-4243-8582-c29bc8b63ec6",
+    "releasedAt": "1999-07-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000013387",
+      "discogs": "267853",
+      "spotify": "0K7VN4aHxHcEb7PqkfoIVA",
+      "deezer": "7463",
+      "lastfm": "Shawn+Colvin",
+      "rateyourmusic": "shawn_colvin",
+      "wikidata": "Q267438"
+    }
   },
   "lastfm": {
     "id": "Shawn+Colvin/_/Never+Saw+Blue+Like+That",

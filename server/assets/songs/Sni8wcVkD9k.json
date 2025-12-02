@@ -1,0 +1,44 @@
+{
+  "youtubeId": "Sni8wcVkD9k",
+  "title": "Da Vinci's Chamber",
+  "artist": "Dear Sherlock",
+  "lastFetched": "2025-12-02T01:17:04.998Z",
+  "odesli": {
+    "amazonMusic": "B0B6GVBJ48",
+    "amazonStore": "B0B6GVBJ48",
+    "deezer": "1900237437",
+    "appleMusic": "1634467167",
+    "itunes": "1634467167",
+    "pandora": "TR:19160984",
+    "soundcloud": "dearsherlock/da-vincis-chamber",
+    "spotify": "3b5MVtp4DwO2R0Kic4TU5z",
+    "tidal": "246601731",
+    "youtube": "Sni8wcVkD9k",
+    "youtubeMusic": "Sni8wcVkD9k"
+  },
+  "lastfm": {
+    "id": "Dear+Sherlock/_/Da+Vinci%27s+Chamber",
+    "listeners": 4784,
+    "playcount": 22509,
+    "title": "Da Vinci's Chamber",
+    "artist": "Dear Sherlock",
+    "mbid": "39843b05-6ab1-45d7-b823-ffdf32306bcc",
+    "artistMbid": "2c31570c-abc0-443c-8594-6ce77d30833d",
+    "tags": [
+      "progressive rock",
+      "alternative rock",
+      "rock",
+      "indie rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "08a7d8c4-8910-47d4-b667-166eb8711667",
+    "artistMbid": "2c31570c-abc0-443c-8594-6ce77d30833d",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock"
+    ],
+    "releasedAt": "2017-03-03",
+    "artistCountry": "GB"
+  }
+}

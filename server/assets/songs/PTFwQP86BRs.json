@@ -2,7 +2,7 @@
   "youtubeId": "PTFwQP86BRs",
   "title": "Closer",
   "artist": "Nine Inch Nails",
-  "lastFetched": "2025-11-30T21:04:19.616Z",
+  "lastFetched": "2025-12-02T01:11:41.874Z",
   "odesli": {
     "amazonMusic": "B07FZLFNQK",
     "amazonStore": "B07FZLFNQK",
@@ -55,6 +55,21 @@
       "industrial rock",
       "post-industrial",
       "rock"
-    ]
+    ],
+    "releasedAt": "2007-02-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000351733",
+      "discogs": "3857",
+      "spotify": "0X380XXQSNBYuleKzav5UO",
+      "deezer": "407",
+      "lastfm": "Nine+Inch+Nails",
+      "genius": "Nine-inch-nails",
+      "rateyourmusic": "nine-inch-nails",
+      "soundcloud": "https://soundcloud.com/nineinchnails",
+      "napster": "nine-inch-nails",
+      "wikidata": "Q11647",
+      "youtube": "UC8txE2ZyN2Sh8XxH5OkHLSw"
+    }
   }
 }

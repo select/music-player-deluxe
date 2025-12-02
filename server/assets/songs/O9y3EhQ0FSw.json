@@ -2,7 +2,7 @@
   "youtubeId": "O9y3EhQ0FSw",
   "title": "Zum Zum",
   "artist": "Magnifico",
-  "lastFetched": "2025-11-30T20:16:50.209Z",
+  "lastFetched": "2025-12-02T01:09:47.023Z",
   "odesli": {
     "amazonMusic": "B0F9FX364R",
     "amazonStore": "B0F9FX364R",
@@ -29,6 +29,18 @@
   "musicbrainz": {
     "trackMbid": "c75a3c2a-7ee2-4a91-b1e8-7e48c433ca62",
     "artistMbid": "85af933d-6de6-4d2a-aa1e-ba58b6d670d9",
-    "releaseCount": 6
+    "releaseCount": 6,
+    "releasedAt": "2010",
+    "artistCountry": "SI",
+    "externalIdsTrack": {
+      "spotify": "2k22NCk3eEB6AbcswBRiho",
+      "deezer": "3178841321"
+    },
+    "externalIdsArtist": {
+      "discogs": "617911",
+      "spotify": "7exDOvjmJZcrxVfLM0twPT",
+      "deezer": "288507",
+      "wikidata": "Q963905"
+    }
   }
 }

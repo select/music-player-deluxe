@@ -2,7 +2,7 @@
   "youtubeId": "7HRzcu4uKvA",
   "title": "What Would You Do?",
   "artist": "Seether",
-  "lastFetched": "2025-11-23T16:29:20.660Z",
+  "lastFetched": "2025-12-02T00:42:55.498Z",
   "odesli": {
     "amazonMusic": "B0B5K1343W",
     "amazonStore": "B0B5K1343W",
@@ -28,7 +28,21 @@
       "rock"
     ],
     "trackMbid": "ad5a3209-8793-48e2-b146-d32fb1915200",
-    "artistMbid": "fbcd7b29-455f-49e6-9c4f-8249d20a055e"
+    "artistMbid": "fbcd7b29-455f-49e6-9c4f-8249d20a055e",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001501801",
+      "discogs": "263225",
+      "spotify": "6B5c4sch27tWHAGdarpPaW",
+      "deezer": "1189",
+      "lastfm": "Seether",
+      "genius": "Seether",
+      "rateyourmusic": "seether",
+      "soundcloud": "https://soundcloud.com/seetherofficial",
+      "napster": "seether",
+      "wikidata": "Q461448",
+      "youtube": "UC0lhr4dvpfKJ0C3TPFXu3ww"
+    }
   },
   "lastfm": {
     "id": "Seether/_/What+Would+You+Do%3F",

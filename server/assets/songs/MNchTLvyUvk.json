@@ -1,7 +1,7 @@
 {
   "youtubeId": "MNchTLvyUvk",
   "title": "Sofaplanet - Liebficken.avi",
-  "lastFetched": "2025-11-30T21:05:23.222Z",
+  "lastFetched": "2025-12-02T01:06:36.916Z",
   "ai": {
     "title": "Liebficken",
     "artist": "Sofaplanet"
@@ -29,6 +29,13 @@
       "pop",
       "pop rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2001-04-02",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "281651",
+      "rateyourmusic": "sofaplanet",
+      "wikidata": "Q2297401"
+    }
   }
 }

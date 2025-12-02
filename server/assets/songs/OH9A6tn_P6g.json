@@ -2,7 +2,7 @@
   "youtubeId": "OH9A6tn_P6g",
   "title": "Ignorance",
   "artist": "Paramore",
-  "lastFetched": "2025-11-19T11:11:59.870Z",
+  "lastFetched": "2025-12-02T01:09:49.633Z",
   "odesli": {
     "amazonMusic": "B002Q5ZUUM",
     "amazonStore": "B002Q5ZUUM",
@@ -30,7 +30,21 @@
       "pop rock"
     ],
     "trackMbid": "01f900ac-84e1-357a-937e-71755d8a7a2d",
-    "artistMbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5"
+    "artistMbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000366681",
+      "discogs": "609563",
+      "spotify": "74XFHRwlV6OrjEM0A2NCMF",
+      "deezer": "10977",
+      "lastfm": "Paramore",
+      "genius": "Paramore",
+      "rateyourmusic": "paramore",
+      "soundcloud": "https://soundcloud.com/paramore",
+      "napster": "paramore",
+      "wikidata": "Q473466",
+      "youtube": "UCl2qVCHeUjL3lCnSCrKxtoQ"
+    }
   },
   "lastfm": {
     "id": "Paramore/_/Ignorance",

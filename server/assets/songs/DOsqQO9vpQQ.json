@@ -2,7 +2,7 @@
   "youtubeId": "DOsqQO9vpQQ",
   "title": "Get Hi",
   "artist": "Danny Brown",
-  "lastFetched": "2025-11-30T22:25:51.539Z",
+  "lastFetched": "2025-12-02T00:52:02.939Z",
   "odesli": {
     "amazonMusic": "B01LXT91W8",
     "amazonStore": "B01LXT91W8",
@@ -40,6 +40,24 @@
       "hardcore hip hop",
       "hip hop",
       "trap"
-    ]
+    ],
+    "releasedAt": "2016-09-30",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "0iKqG9b0vEtfd122rJcTb0",
+      "deezer": "130700460"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0001477553",
+      "bandcamp": "https://dannybrown.bandcamp.com/",
+      "discogs": "3116198",
+      "spotify": "7aA592KWirLsnfb5ulGWvU",
+      "deezer": "73212732",
+      "genius": "Danny-brown",
+      "rateyourmusic": "danny_brown",
+      "soundcloud": "https://soundcloud.com/xdannyxbrownx",
+      "wikidata": "Q2337999",
+      "youtube": "UCqGg7NKRWozzuxYr4p4gxeg"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "Sy6JNk17-wA",
   "title": "Local H - The Misanthrope",
-  "lastFetched": "2025-11-30T20:38:27.077Z",
+  "lastFetched": "2025-12-02T01:17:24.341Z",
   "ai": {
     "title": "The Misanthrope",
     "artist": "Local H"
@@ -33,6 +33,21 @@
       "post-hardcore",
       "punk rock",
       "slacker rock"
-    ]
+    ],
+    "releasedAt": "2014-06-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000230244",
+      "bandcamp": "https://localh.bandcamp.com/",
+      "discogs": "210521",
+      "spotify": "415JrPfN7ukaTu8JV8BLE8",
+      "deezer": "3921",
+      "lastfm": "Local+H",
+      "genius": "Local-h",
+      "rateyourmusic": "local_h",
+      "soundcloud": "https://soundcloud.com/local-h",
+      "wikidata": "Q1810439",
+      "youtube": "UCUy0qsA2trylLXvkEyC1EAw"
+    }
   }
 }

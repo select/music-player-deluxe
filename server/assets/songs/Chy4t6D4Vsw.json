@@ -1,7 +1,7 @@
 {
   "youtubeId": "Chy4t6D4Vsw",
   "title": "Ellie Goulding - Lights [Caizzz﻿ remix | HQ]",
-  "lastFetched": "2025-11-30T20:57:39.987Z",
+  "lastFetched": "2025-12-02T00:50:32.325Z",
   "ai": {
     "title": "Lights",
     "artist": "Ellie Goulding"
@@ -49,6 +49,22 @@
       "indietronica",
       "pop",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2010-03-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001596642",
+      "discogs": "1626845",
+      "spotify": "0X2BH1fck6amBIoJhDVmmJ",
+      "deezer": "311820",
+      "lastfm": "Ellie+Goulding",
+      "genius": "Ellie-goulding",
+      "rateyourmusic": "ellie_goulding",
+      "soundcloud": "https://soundcloud.com/elliegoulding",
+      "qobuz": "290661",
+      "napster": "art.32907864",
+      "wikidata": "Q31164",
+      "youtube": "UCZSxBlUEOKgXkzaj_VlBLlg"
+    }
   }
 }

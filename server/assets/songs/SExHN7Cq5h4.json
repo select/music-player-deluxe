@@ -2,7 +2,7 @@
   "youtubeId": "SExHN7Cq5h4",
   "title": "Barbarossa",
   "artist": "K-Lone",
-  "lastFetched": "2025-11-30T23:01:34.526Z",
+  "lastFetched": "2025-12-02T01:16:10.096Z",
   "odesli": {
     "amazonMusic": "B0DBC1KFT4",
     "amazonStore": "B0DBC1KFT4",
@@ -23,6 +23,15 @@
   "musicbrainz": {
     "artistMbid": "6e1b1094-2126-4bb9-b59f-15d58af0a986",
     "trackMbid": "00e6472e-fc5f-49f2-966a-c505dc0a80ef",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2018",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003238813",
+      "discogs": "3921008",
+      "spotify": "6VC4hWnnMMmOxpH6KsAXBU",
+      "deezer": "4054895",
+      "soundcloud": "https://soundcloud.com/k-lone93"
+    }
   }
 }

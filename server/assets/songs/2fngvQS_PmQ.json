@@ -1,7 +1,7 @@
 {
   "youtubeId": "2fngvQS_PmQ",
   "title": "Ed Sheeran - I See Fire (Music Video)",
-  "lastFetched": "2025-11-30T21:22:16.981Z",
+  "lastFetched": "2025-12-02T00:23:46.612Z",
   "ai": {
     "title": "I See Fire",
     "artist": "Ed Sheeran"
@@ -43,6 +43,19 @@
       "pop",
       "singer-songwriter",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "2013-11-05",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "1f1wT6Q7Buxb3OD0BqMW8O"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002639628",
+      "discogs": "2184482",
+      "spotify": "6eUKZXaKkcviH0Ku9w2n3V",
+      "lastfm": "Ed+Sheeran",
+      "soundcloud": "edsheeran",
+      "youtube": "UClmXPfaYhXOYsNn_QUyheWQ"
+    }
   }
 }

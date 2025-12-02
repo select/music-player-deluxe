@@ -2,7 +2,7 @@
   "youtubeId": "4VxdufqB9zg",
   "title": "Something in the Way",
   "artist": "Nirvana",
-  "lastFetched": "2025-11-30T23:31:33.499Z",
+  "lastFetched": "2025-12-02T00:38:47.480Z",
   "odesli": {
     "amazonMusic": "B005MVLLIW",
     "amazonStore": "B005MVLLIW",
@@ -43,7 +43,22 @@
       "punk rock",
       "rock",
       "sludge metal"
-    ]
+    ],
+    "releasedAt": "2009",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000357406",
+      "discogs": "125246",
+      "spotify": "6olE6TJLqED3rqDCT0FyPh",
+      "deezer": "415",
+      "lastfm": "Nirvana",
+      "genius": "Nirvana",
+      "rateyourmusic": "nirvana",
+      "soundcloud": "https://soundcloud.com/nirvana",
+      "napster": "nirvana",
+      "wikidata": "Q11649",
+      "youtube": "UCzGrGrvf9g8CVVzh_LvGf-g"
+    }
   },
   "lastfm": {
     "id": "Nirvana/_/Something+in+the+Way",

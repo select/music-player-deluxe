@@ -2,7 +2,7 @@
   "youtubeId": "6MLKAdxCeCg",
   "title": "Breakfast By The Mattress",
   "artist": "Kristoffer Ragnstam",
-  "lastFetched": "2025-11-19T10:38:21.760Z",
+  "lastFetched": "2025-12-02T00:41:09.770Z",
   "odesli": {
     "amazonMusic": "B000SF0DXQ",
     "amazonStore": "B000SF0DXQ",
@@ -23,6 +23,13 @@
   },
   "musicbrainz": {
     "trackMbid": "19be117b-4c26-36c5-9769-5a6385f5842f",
-    "artistMbid": "823ddc0d-2a25-453b-a261-f0f5935ea453"
+    "artistMbid": "823ddc0d-2a25-453b-a261-f0f5935ea453",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000622312",
+      "discogs": "1111135",
+      "lastfm": "Kristoffer%20Ragnstam",
+      "rateyourmusic": "kristoffer_ragnstam"
+    }
   }
 }

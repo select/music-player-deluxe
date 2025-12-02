@@ -1,7 +1,7 @@
 {
   "youtubeId": "3asQ7VS3LgU",
   "title": "Toes Across The Floor",
-  "lastFetched": "2025-11-30T21:12:33.612Z",
+  "lastFetched": "2025-12-02T00:24:45.418Z",
   "ai": {
     "title": "Toes Across the Floor",
     "artist": "Blind Melon"
@@ -52,6 +52,17 @@
       "neo-psychedelia",
       "psychedelic rock",
       "southern rock"
-    ]
+    ],
+    "releasedAt": "1995-08-07",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "1u6fNead7PCqDfrbqz9eOf"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000050251",
+      "discogs": "261026",
+      "spotify": "5sD1ZLf2dGQ9gQ3YJl1eAd",
+      "lastfm": "Blind+Melon"
+    }
   }
 }

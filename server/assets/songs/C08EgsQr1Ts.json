@@ -2,7 +2,7 @@
   "youtubeId": "C08EgsQr1Ts",
   "title": "Vielfraß",
   "artist": "Odd Couple",
-  "lastFetched": "2025-11-30T20:11:38.069Z",
+  "lastFetched": "2025-12-02T00:49:36.053Z",
   "odesli": {
     "amazonMusic": "B0F5W9JFZ8",
     "amazonStore": "B0F5W9JFZ8",
@@ -32,6 +32,16 @@
   "musicbrainz": {
     "trackMbid": "d6c905c3-0ab9-4957-a4eb-804814efda93",
     "artistMbid": "b88f74b2-2eaa-45ae-81bb-f4612c8dad93",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2018-03-16",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "bandcamp": "https://oddcoupleberlin.bandcamp.com/",
+      "discogs": "4466277",
+      "spotify": "10zinYW8UkE4vnTzFfDhxk",
+      "rateyourmusic": "odd-couple",
+      "wikidata": "Q57719954",
+      "youtube": "UCAM7rNmzTEi7cE1PkZpo27Q"
+    }
   }
 }

@@ -3,7 +3,7 @@
   "artist": "Gaspar OM",
   "duration": 230,
   "youtubeId": "J8DBn7C56ms",
-  "lastFetched": "2025-11-19T03:45:52.246Z",
+  "lastFetched": "2025-12-02T01:01:28.834Z",
   "lastfm": {
     "id": "Gaspar+OM/_/Tengo+Mezcla+%2F+Maneiras",
     "listeners": 2060,
@@ -12,6 +12,12 @@
   "musicbrainz": {
     "trackMbid": "dfc42641-fbdc-476e-bc2e-90a240ca035c",
     "artistMbid": "28600c75-8a2b-4498-a2f3-a785ce5ebf5d",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2016-04-18",
+    "externalIdsArtist": {
+      "spotify": "1Tvrm9z0xfdxJ5Xg5NODEj",
+      "wikidata": "Q68026577",
+      "youtube": "UCK1jyH47Dj6XaL7GHJHDigA"
+    }
   }
 }

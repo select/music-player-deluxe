@@ -3,7 +3,7 @@
   "artist": "Dylan Henner",
   "duration": 280,
   "youtubeId": "R_tJqxN_Tqs",
-  "lastFetched": "2025-11-23T16:39:08.938Z",
+  "lastFetched": "2025-12-02T01:15:16.813Z",
   "odesli": {
     "amazonMusic": "B0FND8TYRS",
     "amazonStore": "B0FND8TYRS",
@@ -26,7 +26,15 @@
     ],
     "trackMbid": "19756fac-de4f-439d-8c07-d2a81bbde88c",
     "artistMbid": "0d393d03-d207-40a3-81ba-a90dc848dc7b",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-10-17",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://dylanhenner.bandcamp.com/",
+      "discogs": "7323154",
+      "spotify": "1L9mUjZqdG9QZnys4EDI7C",
+      "soundcloud": "https://soundcloud.com/dylanhenner"
+    }
   },
   "lastfm": {
     "id": "Dylan+Henner/_/We+Walked+all+the+Way+to+the+Lake+and+The+Water+Was+So+Still+We+Jumped+in+Naked",

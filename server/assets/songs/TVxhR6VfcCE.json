@@ -2,7 +2,7 @@
   "youtubeId": "TVxhR6VfcCE",
   "title": "Not Today",
   "artist": "Chill Bump",
-  "lastFetched": "2025-11-19T16:02:49.723Z",
+  "lastFetched": "2025-12-02T01:18:25.502Z",
   "odesli": {
     "amazonMusic": "B0F6XNVG45",
     "amazonStore": "B0F6XNVG45",
@@ -25,6 +25,13 @@
   },
   "musicbrainz": {
     "trackMbid": "5e32164d-a1ab-4203-a823-7c2b6b64a2b5",
-    "artistMbid": "7f9d3622-6e3e-4bd5-9a36-261eecbd30e5"
+    "artistMbid": "7f9d3622-6e3e-4bd5-9a36-261eecbd30e5",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "bandcamp": "https://chillbump.bandcamp.com/",
+      "discogs": "4096967",
+      "spotify": "4Dg91FdjVPhAehoV0IBeLd",
+      "soundcloud": "https://soundcloud.com/chill-bump"
+    }
   }
 }

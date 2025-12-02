@@ -2,7 +2,7 @@
   "youtubeId": "JMl8cQjBfqk",
   "title": "The Adventure",
   "artist": "Angels & Airwaves",
-  "lastFetched": "2025-11-30T20:47:45.408Z",
+  "lastFetched": "2025-12-02T01:01:57.996Z",
   "odesli": {
     "amazonMusic": "B000WN5M4Y",
     "amazonStore": "B000WN5M4Y",
@@ -45,6 +45,21 @@
       "alternative rock",
       "pop rock",
       "space rock"
-    ]
+    ],
+    "releasedAt": "2006-05-17",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "5mQlRdP91RtczegYXG3X63",
+      "deezer": "2539964"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000569600",
+      "discogs": "517921",
+      "spotify": "7xklw3WodFZiNNmQt3DIgp",
+      "deezer": "76067",
+      "lastfm": "Angels+&+Airwaves",
+      "rateyourmusic": "angels_and_airwaves",
+      "wikidata": "Q488562"
+    }
   }
 }

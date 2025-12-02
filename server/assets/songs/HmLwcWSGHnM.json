@@ -3,14 +3,25 @@
   "artist": "Caspa",
   "duration": 269,
   "youtubeId": "HmLwcWSGHnM",
-  "lastFetched": "2025-11-19T05:08:46.270Z",
+  "lastFetched": "2025-12-02T00:59:27.031Z",
   "musicbrainz": {
     "tags": [
       "electronic"
     ],
     "trackMbid": "46228931-d6eb-478c-b567-bdb2b3e16ae8",
     "artistMbid": "dc9b8085-fe1e-4b83-8d41-6dd8d295513c",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2006-09-11",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001451262",
+      "discogs": "504173",
+      "spotify": "4nMuaJ4kBLDJCRBizNESI6",
+      "deezer": "87977282",
+      "soundcloud": "https://soundcloud.com/caspaofficial",
+      "wikidata": "Q1047788",
+      "youtube": "UCxG3fmvy78Uc8lXVxFFq4Vw"
+    }
   },
   "lastfm": {
     "id": "Caspa/_/Rubber+Chicken",

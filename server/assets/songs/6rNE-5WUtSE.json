@@ -2,7 +2,7 @@
   "youtubeId": "6rNE-5WUtSE",
   "title": "Moonshine",
   "artist": "Jaqee",
-  "lastFetched": "2025-11-30T19:26:57.829Z",
+  "lastFetched": "2025-12-02T00:42:01.531Z",
   "odesli": {
     "amazonMusic": "B003PU7QRW",
     "amazonStore": "B003PU7QRW",
@@ -28,6 +28,15 @@
   "musicbrainz": {
     "trackMbid": "73f7a455-b2bb-474c-aeb5-ad6a2193a07b",
     "artistMbid": "c9c74ad1-9ae1-462a-b3ea-a366adb2c481",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2009-09-25",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001420408",
+      "bandcamp": "https://jaqeeofficial.bandcamp.com/",
+      "discogs": "1080929",
+      "wikidata": "Q3162261",
+      "youtube": "UCPUmYspDDnhDRTFJ04uKCrQ"
+    }
   }
 }

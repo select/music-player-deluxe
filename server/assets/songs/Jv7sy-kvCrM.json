@@ -1,0 +1,42 @@
+{
+  "youtubeId": "Jv7sy-kvCrM",
+  "title": "Chefdenker - Punkrockkavalier.wmv",
+  "lastFetched": "2025-12-02T01:02:42.566Z",
+  "ai": {
+    "title": "Punkrockkavalier",
+    "artist": "Chefdenker"
+  },
+  "lastfm": {
+    "id": "Chefdenker/_/Punkrockkavalier",
+    "listeners": 2826,
+    "playcount": 20673,
+    "title": "Punkrockkavalier",
+    "artist": "Chefdenker",
+    "mbid": "2ffbd200-da53-3409-9595-be1884f2c219",
+    "artistMbid": "bda93b6e-2040-49fd-814c-57dec5dc2850",
+    "tags": [
+      "punk rock",
+      "german",
+      "2003",
+      "positive",
+      "2000s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "20eafa82-ad7c-4113-be84-e9e8e57a6497",
+    "artistMbid": "bda93b6e-2040-49fd-814c-57dec5dc2850",
+    "releaseCount": 2,
+    "artistGenres": [
+      "pop punk",
+      "punk"
+    ],
+    "releasedAt": "2003-09-25",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002043165",
+      "discogs": "943403",
+      "rateyourmusic": "chefdenker",
+      "wikidata": "Q1068938"
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "youtubeId": "GWgisTPKCdk",
   "title": "Seiler und Speer - Ham kummst",
-  "lastFetched": "2025-11-30T19:43:21.104Z",
+  "lastFetched": "2025-12-02T00:57:36.465Z",
   "ai": {
     "title": "Ham kummst",
     "artist": "Seiler und Speer"
@@ -28,6 +28,14 @@
     "releaseCount": 3,
     "genres": [
       "pop"
-    ]
+    ],
+    "releasedAt": "2015-04-17",
+    "externalIdsArtist": {
+      "discogs": "4633719",
+      "spotify": "4PBCFEjR4a3OGdOZ6jeKKM",
+      "deezer": "7208196",
+      "wikidata": "Q21260270",
+      "youtube": "UClwxxo8vNcVOvenD6_7XzNw"
+    }
   }
 }

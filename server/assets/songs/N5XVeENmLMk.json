@@ -1,7 +1,7 @@
 {
   "youtubeId": "N5XVeENmLMk",
   "title": "Fujiya & Miyagi Ankle Injuries (Offical Video)",
-  "lastFetched": "2025-11-30T20:50:59.079Z",
+  "lastFetched": "2025-12-02T01:07:40.415Z",
   "ai": {
     "title": "Ankle Injuries",
     "artist": "Fujiya & Miyagi"
@@ -38,6 +38,16 @@
       "electronic",
       "indietronica",
       "krautrock"
-    ]
+    ],
+    "releasedAt": "2006-04",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000798607",
+      "bandcamp": "https://fujiyamiyagi.bandcamp.com/",
+      "discogs": "50661",
+      "lastfm": "Fujiya+&+Miyagi",
+      "rateyourmusic": "fujiya_and_miyagi",
+      "wikidata": "Q1473311"
+    }
   }
 }

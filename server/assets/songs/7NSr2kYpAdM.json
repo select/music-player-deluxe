@@ -2,7 +2,7 @@
   "youtubeId": "7NSr2kYpAdM",
   "title": "The Orbiter",
   "artist": "Lizzard",
-  "lastFetched": "2025-11-30T20:21:56.846Z",
+  "lastFetched": "2025-12-02T00:43:10.397Z",
   "odesli": {
     "amazonMusic": "B06XFY1SBW",
     "amazonStore": "B06XFY1SBW",
@@ -41,6 +41,14 @@
       "experimental rock",
       "metal",
       "rock"
-    ]
+    ],
+    "releasedAt": "2012",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "bandcamp": "https://lizzardband.bandcamp.com/",
+      "discogs": "3081346",
+      "spotify": "3y8vqcADc0jrZGhRDRGs1f",
+      "soundcloud": "https://soundcloud.com/lizzardmusic"
+    }
   }
 }

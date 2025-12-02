@@ -3,7 +3,7 @@
   "artist": "Art Pepper",
   "duration": 181,
   "youtubeId": "-RiPdpeii7E",
-  "lastFetched": "2025-11-19T05:09:47.812Z",
+  "lastFetched": "2025-12-02T00:32:18.065Z",
   "odesli": {
     "amazonMusic": "B088JTRYQX",
     "amazonStore": "B088JTRYQX",
@@ -22,7 +22,21 @@
     ],
     "trackMbid": "1e06cf21-1f93-4372-8c5e-ffb5debb137a",
     "artistMbid": "266b9126-4a40-4b9b-b21e-422d72e64254",
-    "releaseCount": 17
+    "releaseCount": 17,
+    "releasedAt": "1959",
+    "artistCountry": "US",
+    "externalIds": {
+      "allmusic": "mn0000505047",
+      "discogs": "251873",
+      "spotify": "3GpMtIOC5ZLvMBMI7IxPvA"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000505047",
+      "discogs": "251873",
+      "spotify": "3GpMtIOC5ZLvMBMI7IxPvA",
+      "deezer": "76720",
+      "wikidata": "Q468202"
+    }
   },
   "lastfm": {
     "id": "Art+Pepper/_/Four+Brothers",

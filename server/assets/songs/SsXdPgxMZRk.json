@@ -2,7 +2,7 @@
   "youtubeId": "SsXdPgxMZRk",
   "title": "Love Misunderstood",
   "artist": "Muchos Plus",
-  "lastFetched": "2025-11-30T22:11:44.256Z",
+  "lastFetched": "2025-12-02T01:17:09.761Z",
   "odesli": {
     "amazonMusic": "B08MQ6CJRB",
     "amazonStore": "B08MQ6CJRB",
@@ -30,6 +30,11 @@
   "musicbrainz": {
     "trackMbid": "1a180bec-bbdf-4dd3-9482-72c8e7f5079c",
     "artistMbid": "eb05dcdf-7720-4878-8bde-8430a0d90e17",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2021-02-05",
+    "externalIdsArtist": {
+      "discogs": "1509882",
+      "lastfm": "Muchos+Plus"
+    }
   }
 }

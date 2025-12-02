@@ -2,7 +2,7 @@
   "youtubeId": "GvrNPiz7rHw",
   "title": "Flood",
   "artist": "Little Simz",
-  "lastFetched": "2025-11-30T21:32:26.676Z",
+  "lastFetched": "2025-12-02T00:58:22.839Z",
   "odesli": {
     "amazonMusic": "B0FB6DD1ZL",
     "amazonStore": "B0FB6DD1ZL",
@@ -47,6 +47,22 @@
     "artistGenres": [
       "hip hop",
       "pop rap"
-    ]
+    ],
+    "releasedAt": "2025-02-26",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "3m9g8ua3M51JvqmS8rh6bS",
+      "deezer": "3395725561"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003267919",
+      "bandcamp": "https://littlesimz.bandcamp.com/",
+      "discogs": "3887166",
+      "spotify": "6eXZu6O7nAUA5z6vLV8NKI",
+      "deezer": "4578590",
+      "rateyourmusic": "little-simz",
+      "soundcloud": "https://soundcloud.com/littlesimz",
+      "wikidata": "Q6547427"
+    }
   }
 }

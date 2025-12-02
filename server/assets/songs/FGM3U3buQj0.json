@@ -2,7 +2,7 @@
   "youtubeId": "FGM3U3buQj0",
   "title": "Classical Dragon",
   "artist": "Marcin",
-  "lastFetched": "2025-11-30T21:47:12.422Z",
+  "lastFetched": "2025-12-02T00:55:24.849Z",
   "odesli": {
     "amazonMusic": "B0D5DDHVRP",
     "amazonStore": "B0D5DDHVRP",
@@ -30,6 +30,20 @@
   "musicbrainz": {
     "trackMbid": "8a5c709e-7d74-4f7e-a39b-64931c6794a0",
     "artistMbid": "71a46c25-f2bf-4e24-b4fb-9c656a808187",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2024-06-07",
+    "artistCountry": "PL",
+    "externalIdsTrack": {
+      "spotify": "0B5yLldRLJdVKwkOUcnlDL",
+      "deezer": "2833204052"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002091451",
+      "discogs": "6825670",
+      "spotify": "2F7PtF4lRVIufJd6Sjud71",
+      "deezer": "111003442",
+      "soundcloud": "https://soundcloud.com/user-108445683",
+      "wikidata": "Q57017214"
+    }
   }
 }

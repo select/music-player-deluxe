@@ -2,7 +2,7 @@
   "youtubeId": "RLefc10kkMc",
   "title": "Dove",
   "artist": "Cymande",
-  "lastFetched": "2025-11-30T23:07:51.035Z",
+  "lastFetched": "2025-12-02T01:14:37.799Z",
   "odesli": {
     "amazonMusic": "B0DPJPXG2H",
     "amazonStore": "B0DPJPXG2H",
@@ -43,6 +43,16 @@
     "artistGenres": [
       "funk",
       "psychedelic soul"
-    ]
+    ],
+    "releasedAt": "1972",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000147294",
+      "discogs": "59250",
+      "spotify": "4hfcSstwnyuBoek1dQwLkG",
+      "deezer": "2884",
+      "rateyourmusic": "cymande",
+      "wikidata": "Q3008703"
+    }
   }
 }

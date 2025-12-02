@@ -2,7 +2,7 @@
   "youtubeId": "FJ3t_FORDjw",
   "title": "Chengetedza",
   "artist": "Jah Prayzah",
-  "lastFetched": "2025-11-30T20:16:16.320Z",
+  "lastFetched": "2025-12-02T00:55:34.657Z",
   "odesli": {
     "amazonMusic": "B076DS7FMC",
     "amazonStore": "B076DS7FMC",
@@ -32,6 +32,13 @@
   "musicbrainz": {
     "trackMbid": "016bfc20-ccde-4c30-9401-12471c305d22",
     "artistMbid": "df4b14d3-7c30-40b7-820b-f98e066e803f",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2017-10-13",
+    "artistCountry": "ZW",
+    "externalIdsArtist": {
+      "discogs": "12177226",
+      "spotify": "13JLy7UFJgqRypeQGbucP3",
+      "wikidata": "Q23007667"
+    }
   }
 }

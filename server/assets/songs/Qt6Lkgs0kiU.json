@@ -2,7 +2,7 @@
   "youtubeId": "Qt6Lkgs0kiU",
   "title": "The Boys Of Summer",
   "artist": "The Ataris",
-  "lastFetched": "2025-11-23T16:38:31.497Z",
+  "lastFetched": "2025-12-02T01:13:29.202Z",
   "odesli": {
     "amazonMusic": "B00136PP8M",
     "amazonStore": "B00136PP8M",
@@ -22,7 +22,21 @@
       "punk"
     ],
     "trackMbid": "1599b608-7087-47b2-9d33-fb7b07051e7e",
-    "artistMbid": "57805d77-f947-4851-b7fb-78baad154451"
+    "artistMbid": "57805d77-f947-4851-b7fb-78baad154451",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000040124",
+      "bandcamp": "https://theataris.bandcamp.com/",
+      "discogs": "253320",
+      "spotify": "3LC8PXXgk7YtAIobtjSdNi",
+      "deezer": "4224",
+      "lastfm": "The+Ataris",
+      "genius": "The-ataris",
+      "rateyourmusic": "the_ataris",
+      "soundcloud": "https://soundcloud.com/the-ataris",
+      "napster": "the-ataris",
+      "wikidata": "Q1373222"
+    }
   },
   "lastfm": {
     "id": "The+Ataris/_/The+Boys+Of+Summer",

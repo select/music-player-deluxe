@@ -2,7 +2,7 @@
   "youtubeId": "TNi99utfX-w",
   "title": "Echtzeit",
   "artist": "Sensorama",
-  "lastFetched": "2025-11-30T22:22:17.151Z",
+  "lastFetched": "2025-12-02T01:18:06.090Z",
   "lastfm": {
     "title": "Echtzeit",
     "artist": "Sensorama",
@@ -27,6 +27,14 @@
       "downtempo",
       "electronic",
       "techno"
-    ]
+    ],
+    "releasedAt": "1995-10",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000006745",
+      "discogs": "3230",
+      "lastfm": "Sensorama",
+      "rateyourmusic": "sensorama"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "4XJxFAoiWSY",
   "title": "Primitive Radio Gods - Standing Outside A Broken Phone Booth With Money In My Hand",
-  "lastFetched": "2025-11-30T19:19:44.782Z",
+  "lastFetched": "2025-12-02T00:38:54.752Z",
   "ai": {
     "title": "Standing Outside A Broken Phone Booth With Money In My Hand",
     "artist": "Primitive Radio Gods"
@@ -33,6 +33,18 @@
     ],
     "artistGenres": [
       "alternative rock"
-    ]
+    ],
+    "releasedAt": "1996-06-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000855619",
+      "discogs": "69520",
+      "spotify": "5wTpMQz4RtF6dFX9blvMDc",
+      "deezer": "7864",
+      "lastfm": "Primitive%20Radio%20Gods",
+      "rateyourmusic": "primitive_radio_gods",
+      "wikidata": "Q7243572",
+      "youtube": "UC9xLZN7q-siHWwChSe99lHw"
+    }
   }
 }

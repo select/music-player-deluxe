@@ -1,7 +1,7 @@
 {
   "youtubeId": "4F-CpE73o2M",
   "title": "Fever Ray 'When I Grow Up'",
-  "lastFetched": "2025-11-30T20:06:17.726Z",
+  "lastFetched": "2025-12-02T00:38:10.885Z",
   "ai": {
     "title": "When I Grow Up",
     "artist": "Fever Ray"
@@ -63,6 +63,21 @@
       "techno",
       "trance",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2009-01-12",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002016362",
+      "bandcamp": "https://feverray.bandcamp.com/",
+      "discogs": "325359",
+      "spotify": "5hE6NCoobhyEu6TRSbjOJY",
+      "deezer": "158709",
+      "lastfm": "Fever+Ray",
+      "genius": "Fever-ray",
+      "rateyourmusic": "fever-ray",
+      "soundcloud": "https://soundcloud.com/fever-ray",
+      "wikidata": "Q55662676",
+      "youtube": "UCSjzzQM_Cwc2QWbwvx3KDsw"
+    }
   }
 }

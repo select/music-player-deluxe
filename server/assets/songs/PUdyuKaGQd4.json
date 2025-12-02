@@ -2,7 +2,7 @@
   "youtubeId": "PUdyuKaGQd4",
   "title": "No Roots",
   "artist": "Alice Merton",
-  "lastFetched": "2025-11-30T20:10:18.830Z",
+  "lastFetched": "2025-12-02T01:11:46.380Z",
   "odesli": {
     "amazonMusic": "B0CPKJPVDF",
     "amazonStore": "B0CPKJPVDF",
@@ -51,6 +51,21 @@
       "electropop",
       "singer-songwriter",
       "southern rock"
-    ]
+    ],
+    "releasedAt": "2017-02-02",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0003332366",
+      "discogs": "4325585",
+      "spotify": "7f0OLhGgBMX9fUjm1dcPip",
+      "deezer": "6067766",
+      "lastfm": "Alice+Merton",
+      "genius": "Alice-merton",
+      "rateyourmusic": "alice-merton",
+      "soundcloud": "https://soundcloud.com/alicemerton",
+      "qobuz": "1212885",
+      "wikidata": "Q29016765",
+      "youtube": "UCVxrTuGYoEvz26wYrq1uGjQ"
+    }
   }
 }

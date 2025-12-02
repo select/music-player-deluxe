@@ -2,7 +2,7 @@
   "youtubeId": "4FTz6aEmuxA",
   "title": "Love Letters",
   "artist": "Lord Cobra",
-  "lastFetched": "2025-11-30T22:52:32.924Z",
+  "lastFetched": "2025-12-02T00:38:13.339Z",
   "odesli": {
     "amazonMusic": "B07CZYKX7V",
     "amazonStore": "B07CZYKX7V",
@@ -36,6 +36,13 @@
     "releaseCount": 1,
     "genres": [
       "latin"
-    ]
+    ],
+    "releasedAt": "2009-06-01",
+    "artistCountry": "PA",
+    "externalIdsArtist": {
+      "allmusic": "mn0001069828",
+      "discogs": "1494645",
+      "rateyourmusic": "lord_cobra"
+    }
   }
 }

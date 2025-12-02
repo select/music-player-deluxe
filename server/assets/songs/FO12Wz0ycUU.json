@@ -1,0 +1,39 @@
+{
+  "youtubeId": "FO12Wz0ycUU",
+  "title": "Dean Magraw - Isabella - Guitar - www.candyrat.com",
+  "lastFetched": "2025-12-02T00:55:41.496Z",
+  "ai": {
+    "title": "Isabella",
+    "artist": "Dean Magraw"
+  },
+  "lastfm": {
+    "id": "Dean+Magraw/_/Isabella",
+    "listeners": 310,
+    "playcount": 921,
+    "title": "Isabella",
+    "artist": "Dean Magraw",
+    "mbid": "a9a15659-b9f9-4faa-ba68-8e20e652b046",
+    "artistMbid": "5006936e-2172-4227-8d3c-edaad6b126d6",
+    "tags": [
+      "guitar",
+      "celtic",
+      "acoustic",
+      "instrumental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0665fd14-7012-4de9-a7f9-003358d09ad9",
+    "artistMbid": "5006936e-2172-4227-8d3c-edaad6b126d6",
+    "releaseCount": 1,
+    "artistGenres": [
+      "folk",
+      "jazz"
+    ],
+    "releasedAt": "2007-02-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "475991",
+      "wikidata": "Q5246321"
+    }
+  }
+}

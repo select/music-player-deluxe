@@ -2,7 +2,7 @@
   "youtubeId": "1lWJXDG2i0A",
   "title": "Free Fallin'",
   "artist": "Tom Petty",
-  "lastFetched": "2025-11-19T09:45:26.498Z",
+  "lastFetched": "2025-12-02T00:35:29.424Z",
   "odesli": {
     "amazonMusic": "B0DPRNZQFJ",
     "amazonStore": "B0DPRNZQFJ",
@@ -25,7 +25,17 @@
       "Southern Rock"
     ],
     "trackMbid": "ea8f7998-36f7-4131-9ea5-8fefad8b40a1",
-    "artistMbid": "5ca3f318-d028-4151-ac73-78e2b2d6cdcc"
+    "artistMbid": "5ca3f318-d028-4151-ac73-78e2b2d6cdcc",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000612716",
+      "discogs": "834819",
+      "spotify": "2UZMlIwnkgAEDBsw1Rejkn",
+      "deezer": "5229",
+      "rateyourmusic": "tom_petty",
+      "wikidata": "Q311655",
+      "youtube": "UCvYomLPMwUr1FAXRMGhVfCQ"
+    }
   },
   "lastfm": {
     "id": "Tom+Petty/_/Free+Fallin%27",

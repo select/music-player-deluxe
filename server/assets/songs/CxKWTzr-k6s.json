@@ -2,7 +2,7 @@
   "youtubeId": "CxKWTzr-k6s",
   "title": "Even Flow",
   "artist": "Pearl Jam",
-  "lastFetched": "2025-11-30T23:33:35.105Z",
+  "lastFetched": "2025-12-02T00:51:09.050Z",
   "odesli": {
     "amazonMusic": "B00A46H44A",
     "amazonStore": "B00A46H44A",
@@ -41,7 +41,22 @@
       "indie rock",
       "pop rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1992",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000037730",
+      "discogs": "175395",
+      "spotify": "1w5Kfo2jwwIPruYS2UWh56",
+      "deezer": "1319",
+      "lastfm": "Pearl+Jam",
+      "genius": "Pearl-jam",
+      "rateyourmusic": "pearl-jam",
+      "soundcloud": "https://soundcloud.com/pearljam",
+      "napster": "pearl-jam",
+      "wikidata": "Q142701",
+      "youtube": "UCI1tnOMUhNh2QiHTpMrPDbw"
+    }
   },
   "lastfm": {
     "id": "Pearl+Jam/_/Even+Flow",

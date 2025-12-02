@@ -3,7 +3,7 @@
   "artist": "Kavinsky",
   "duration": 256,
   "youtubeId": "MV_3Dpw-BRY",
-  "lastFetched": "2025-11-19T03:41:47.814Z",
+  "lastFetched": "2025-12-02T01:06:48.392Z",
   "odesli": {
     "amazonMusic": "B07F3LNRDM",
     "amazonStore": "B07F3LNRDM",
@@ -38,7 +38,21 @@
     ],
     "trackMbid": "104a2e68-be76-4dcf-8bf0-64ebb2a687a8",
     "artistMbid": "eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2011",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000907351",
+      "bandcamp": "https://kavinsky.bandcamp.com/",
+      "discogs": "433179",
+      "spotify": "0UF7XLthtbSF2Eur7559oV",
+      "deezer": "13358",
+      "lastfm": "Kavinsky",
+      "rateyourmusic": "kavinsky",
+      "soundcloud": "https://soundcloud.com/deadcruiser",
+      "wikidata": "Q982784",
+      "youtube": "UCuHvsUG1esCAQw9aTHbH42w"
+    }
   },
   "lastfm": {
     "id": "Kavinsky/_/Nightcall",

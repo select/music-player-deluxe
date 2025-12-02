@@ -2,7 +2,7 @@
   "youtubeId": "1I1iDxG32Ag",
   "title": "Grauer Sand",
   "artist": "Pole",
-  "lastFetched": "2025-11-23T16:26:33.408Z",
+  "lastFetched": "2025-12-02T00:34:30.299Z",
   "odesli": {
     "amazonMusic": "B0B7CZVZDX",
     "amazonStore": "B0B7CZVZDX",
@@ -33,7 +33,18 @@
       "idm"
     ],
     "trackMbid": "d9f35c56-8e66-4d97-9673-935ef2fb756c",
-    "artistMbid": "ad957b43-9dc0-42e1-940c-19b21ec77f3a"
+    "artistMbid": "ad957b43-9dc0-42e1-940c-19b21ec77f3a",
+    "releasedAt": "2022-12-24",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000300371",
+      "discogs": "611",
+      "spotify": "2oAUWVDrNRE76jqj9IkVK6",
+      "deezer": "6555",
+      "rateyourmusic": "stefan-betke",
+      "soundcloud": "https://soundcloud.com/pole-original",
+      "wikidata": "Q2819621"
+    }
   },
   "lastfm": {
     "id": "Pole/_/Grauer+Sand",

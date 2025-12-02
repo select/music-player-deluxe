@@ -4,7 +4,7 @@
   "album": "The Pool",
   "duration": 386,
   "youtubeId": "5CZFg4q0cSo",
-  "lastFetched": "2025-11-30T23:40:49.910Z",
+  "lastFetched": "2025-12-02T00:39:38.376Z",
   "odesli": {
     "soundcloud": "1052472169",
     "spotify": "0Rk5K4ziDHqnzPc8JdN5Rj",
@@ -30,6 +30,17 @@
       "downtempo",
       "jazz",
       "nu jazz"
-    ]
+    ],
+    "releasedAt": "2018-06-29",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000228732",
+      "bandcamp": "https://jazzanova.bandcamp.com/",
+      "discogs": "109",
+      "spotify": "0nTErwSOllrcUWt3knOG2T",
+      "deezer": "4065",
+      "rateyourmusic": "jazzanova",
+      "wikidata": "Q708757"
+    }
   }
 }

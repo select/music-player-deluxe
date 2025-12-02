@@ -2,7 +2,7 @@
   "youtubeId": "FZpDlSPh1nU",
   "title": "Hepatitis",
   "artist": "Haruomi Hosono",
-  "lastFetched": "2025-11-30T22:22:46.137Z",
+  "lastFetched": "2025-12-02T00:56:11.616Z",
   "odesli": {
     "amazonMusic": "B088FTRYVN",
     "amazonStore": "B088FTRYVN",
@@ -18,6 +18,17 @@
       "exotica",
       "j-pop",
       "rock"
-    ]
+    ],
+    "artistCountry": "JP",
+    "externalIdsArtist": {
+      "allmusic": "mn0000952345",
+      "bandcamp": "https://haruomihosono.bandcamp.com/",
+      "discogs": "19132",
+      "spotify": "370nbSkMB9kDWyTypwWYak",
+      "deezer": "4457161",
+      "rateyourmusic": "%E7%B4%B0%E9%87%8E%E6%99%B4%E8%87%A3",
+      "napster": "hosono-haruomi",
+      "wikidata": "Q705221"
+    }
   }
 }

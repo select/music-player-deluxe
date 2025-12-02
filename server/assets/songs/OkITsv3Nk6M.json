@@ -2,7 +2,7 @@
   "youtubeId": "OkITsv3Nk6M",
   "title": "Phantom Limb",
   "artist": "The Shins",
-  "lastFetched": "2025-11-23T16:37:27.908Z",
+  "lastFetched": "2025-12-02T01:10:40.433Z",
   "odesli": {
     "amazonMusic": "B000YN69S0",
     "amazonStore": "B000YN69S0",
@@ -31,7 +31,21 @@
       "psychedelic pop"
     ],
     "trackMbid": "0402d66b-5782-416a-8204-d4de1b5a2423",
-    "artistMbid": "6c8b9855-ba8b-48f9-ac1d-42167f7f7b18"
+    "artistMbid": "6c8b9855-ba8b-48f9-ac1d-42167f7f7b18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000419102",
+      "bandcamp": "https://theshins.bandcamp.com/",
+      "discogs": "96922",
+      "spotify": "4LG4Bs1Gadht7TCrMytQUO",
+      "deezer": "1340",
+      "lastfm": "The+Shins",
+      "genius": "The-shins",
+      "rateyourmusic": "the_shins",
+      "soundcloud": "https://soundcloud.com/theshins",
+      "wikidata": "Q58391",
+      "youtube": "UCwKTbPQOdBFrkSvGrO-8v3g"
+    }
   },
   "lastfm": {
     "id": "The+Shins/_/Phantom+Limb",

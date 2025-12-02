@@ -1,7 +1,7 @@
 {
   "youtubeId": "RiR53x1RW4A",
   "title": "Les Wanted (Jean Claude Pierric et Francois Rolland)  - Blow Gun [France, Jazz/Funk/Library] (1977)",
-  "lastFetched": "2025-11-30T22:08:29.285Z",
+  "lastFetched": "2025-12-02T01:15:34.222Z",
   "ai": {
     "title": "Blow Gun",
     "artist": "Les Wanted"
@@ -16,6 +16,11 @@
   "musicbrainz": {
     "trackMbid": "f1941d68-e87a-47fa-9244-728694fa8af1",
     "artistMbid": "2ac1f5a4-dc95-4578-acd0-e8bf18e49526",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1977",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "discogs": "1084285"
+    }
   }
 }

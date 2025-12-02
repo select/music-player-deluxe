@@ -1,0 +1,44 @@
+{
+  "youtubeId": "pV-GGCrRcu0",
+  "title": "Bungalow",
+  "artist": "Bilderbuch",
+  "lastFetched": "2025-12-01T12:56:08.534Z",
+  "odesli": {
+    "amazonMusic": "B074JXQHYF",
+    "amazonStore": "B074JXQHYF",
+    "appleMusic": "1267310120",
+    "itunes": "1267310120",
+    "soundcloud": "bilderbuch/bungalow",
+    "spotify": "66IA1JX0jKza9c7OHFeW8k",
+    "tidal": "77046526",
+    "yandex": "55976591",
+    "youtube": "pV-GGCrRcu0",
+    "youtubeMusic": "pV-GGCrRcu0"
+  },
+  "lastfm": {
+    "id": "Bilderbuch/_/Bungalow",
+    "listeners": 39978,
+    "playcount": 345943,
+    "title": "Bungalow",
+    "artist": "Bilderbuch",
+    "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6",
+    "tags": [
+      "avantgarde pop",
+      "post-revolutionary pop song"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7d4a4701-ca30-4252-b1ed-b95cb4dcade3",
+    "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6",
+    "releaseCount": 15,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "indie rock",
+      "progressive rock",
+      "psychedelic rock",
+      "rock"
+    ]
+  }
+}

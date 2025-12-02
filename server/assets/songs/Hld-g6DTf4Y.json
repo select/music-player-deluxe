@@ -2,7 +2,7 @@
   "youtubeId": "Hld-g6DTf4Y",
   "title": "My Kantele (Acoustic Reprise)",
   "artist": "Amorphis",
-  "lastFetched": "2025-11-30T20:55:51.270Z",
+  "lastFetched": "2025-12-02T00:59:21.413Z",
   "odesli": {
     "amazonMusic": "B000YWUXJC",
     "amazonStore": "B000YWUXJC",
@@ -47,6 +47,20 @@
       "metal",
       "progressive metal",
       "symphonic metal"
-    ]
+    ],
+    "releasedAt": "1996-05-14",
+    "artistCountry": "FI",
+    "externalIdsArtist": {
+      "allmusic": "mn0000022590",
+      "discogs": "113365",
+      "spotify": "2UOVgpgiNTC6KK0vSC77aD",
+      "deezer": "3579",
+      "lastfm": "Amorphis",
+      "genius": "Amorphis",
+      "rateyourmusic": "amorphis",
+      "soundcloud": "https://soundcloud.com/amorphis-official",
+      "wikidata": "Q474169",
+      "youtube": "UCRAHc1Aild5p1Zmy2rAgVmA"
+    }
   }
 }

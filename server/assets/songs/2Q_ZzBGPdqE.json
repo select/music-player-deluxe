@@ -2,7 +2,7 @@
   "youtubeId": "2Q_ZzBGPdqE",
   "title": "Help!",
   "artist": "The Beatles",
-  "lastFetched": "2025-11-23T16:27:07.055Z",
+  "lastFetched": "2025-12-02T00:36:03.416Z",
   "odesli": {
     "amazonMusic": "B076DMGVH3",
     "amazonStore": "B076DMGVH3",
@@ -37,7 +37,21 @@
       "pop rock"
     ],
     "trackMbid": "43756410-2837-4827-92da-3cd12b16c219",
-    "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+    "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000754032",
+      "discogs": "82730",
+      "spotify": "3WrFJ7ztbogyGnTHbHJFl2",
+      "deezer": "1",
+      "lastfm": "The+Beatles",
+      "genius": "The-beatles",
+      "rateyourmusic": "the-beatles",
+      "soundcloud": "https://soundcloud.com/thebeatles",
+      "napster": "the-beatles",
+      "wikidata": "Q1299",
+      "youtube": "UC2XdaAVUannpujzv32jcouQ"
+    }
   },
   "lastfm": {
     "id": "The+Beatles/_/Help%21",

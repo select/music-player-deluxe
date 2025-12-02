@@ -2,7 +2,7 @@
   "youtubeId": "SXi0NSghf5Q",
   "title": "I'm Not Jesus (International Version)",
   "artist": "Apocalyptica",
-  "lastFetched": "2025-11-23T16:39:28.073Z",
+  "lastFetched": "2025-12-02T01:16:32.660Z",
   "odesli": {
     "amazonMusic": "B08H5VQXDW",
     "amazonStore": "B08H5VQXDW",
@@ -37,7 +37,20 @@
       "neoclassical metal"
     ],
     "trackMbid": "6cf8abf5-03f9-4249-a124-ddbdbb1a3e2f",
-    "artistMbid": "788ad31c-bf0c-4a31-83f8-b8b130d79c76"
+    "artistMbid": "788ad31c-bf0c-4a31-83f8-b8b130d79c76",
+    "artistCountry": "FI",
+    "externalIdsArtist": {
+      "allmusic": "mn0000594121",
+      "discogs": "17482",
+      "spotify": "4Lm0pUvmisUHMdoky5ch2I",
+      "deezer": "912",
+      "lastfm": "Apocalyptica",
+      "genius": "Apocalyptica",
+      "rateyourmusic": "apocalyptica",
+      "soundcloud": "https://soundcloud.com/apocalyptica",
+      "wikidata": "Q484421",
+      "youtube": "UCpqq5sZCFH6vkIrO9PZc8bA"
+    }
   },
   "lastfm": {
     "id": "Apocalyptica/_/I%27m+Not+Jesus+(International+Version)",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "TbcV3D1TYrc",
   "title": "Reinhard Mey - Wenn ich betrunken bin (live)",
-  "lastFetched": "2025-11-30T20:08:10.965Z",
+  "lastFetched": "2025-12-02T01:18:29.865Z",
   "ai": {
     "title": "Wenn ich betrunken bin",
     "artist": "Reinhard Mey"
@@ -33,6 +33,20 @@
     "artistGenres": [
       "liedermacher",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2000-05-08",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000906171",
+      "discogs": "591932",
+      "spotify": "119CgQj02xyMpOobWjdb3C",
+      "deezer": "240924",
+      "lastfm": "Reinhard+Mey",
+      "genius": "Reinhard-mey",
+      "rateyourmusic": "reinhard_mey",
+      "soundcloud": "https://soundcloud.com/reinhardmey",
+      "wikidata": "Q164721",
+      "youtube": "UCtA_Bw_UL5txlWJehv1MATg"
+    }
   }
 }

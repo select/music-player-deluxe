@@ -2,7 +2,7 @@
   "youtubeId": "04mfKJWDSzI",
   "title": "On Melancholy Hill",
   "artist": "Gorillaz",
-  "lastFetched": "2025-11-19T12:30:04.152Z",
+  "lastFetched": "2025-12-02T00:33:01.557Z",
   "odesli": {
     "amazonMusic": "B003A9V2XW",
     "amazonStore": "B003A9V2XW",
@@ -30,7 +30,29 @@
       "beautiful"
     ],
     "trackMbid": "06f2a8ae-fab8-4830-8721-6bbe3a03a594",
-    "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596"
+    "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+    "releasedAt": "2018-09-20",
+    "artistCountry": "England",
+    "externalIds": {
+      "allmusic": "mn0000664770",
+      "discogs": "6378",
+      "spotify": "3AA28KZvwAUcZuOKwyblJQ",
+      "lastfm": "Gorillaz",
+      "soundcloud": "gorillaz",
+      "youtube": "UCNIV5B_aJnLrKDSnW_MOmcQ"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000664770",
+      "discogs": "6378",
+      "spotify": "3AA28KZvwAUcZuOKwyblJQ",
+      "deezer": "14",
+      "lastfm": "Gorillaz",
+      "genius": "Gorillaz",
+      "rateyourmusic": "gorillaz",
+      "soundcloud": "https://soundcloud.com/gorillaz",
+      "wikidata": "Q189991",
+      "youtube": "UCNIV5B_aJnLrKDSnW_MOmcQ"
+    }
   },
   "lastfm": {
     "id": "Gorillaz/_/On+Melancholy+Hill",

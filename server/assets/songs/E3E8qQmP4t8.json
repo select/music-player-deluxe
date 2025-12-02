@@ -3,7 +3,7 @@
   "artist": "Omah Lay",
   "duration": 186,
   "youtubeId": "E3E8qQmP4t8",
-  "lastFetched": "2025-11-19T03:50:57.708Z",
+  "lastFetched": "2025-12-02T00:53:15.848Z",
   "odesli": {
     "amazonMusic": "B0CLZ1TT2K",
     "amazonStore": "B0CLZ1TT2K",
@@ -28,7 +28,19 @@
     ],
     "trackMbid": "f37a82d0-d173-4bc8-9a2e-93c9bf8292ce",
     "artistMbid": "b63bd4fd-2050-4c92-a237-576f6f6c97cb",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2023-11-09",
+    "artistCountry": "NG",
+    "externalIdsArtist": {
+      "allmusic": "mn0003965770",
+      "discogs": "8327166",
+      "spotify": "5yOvAmpIR7hVxiS6Ls5DPO",
+      "deezer": "56094992",
+      "soundcloud": "https://soundcloud.com/omah_lay",
+      "pandora": "omah-lay",
+      "wikidata": "Q106558182",
+      "youtube": "UC60F2Ngz1ZkAP6v_PwgSY0A"
+    }
   },
   "lastfm": {
     "id": "Omah+Lay/_/Holy+Ghost",

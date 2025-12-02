@@ -2,7 +2,7 @@
   "youtubeId": "D6ciLtP1B10",
   "title": "Kronan",
   "artist": "The Upbeats",
-  "lastFetched": "2025-11-30T19:40:56.412Z",
+  "lastFetched": "2025-12-02T00:51:30.826Z",
   "odesli": {
     "amazonMusic": "B07YZH197F",
     "amazonStore": "B07YZH197F",
@@ -37,6 +37,19 @@
     "artistGenres": [
       "drum and bass",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2018-09-28",
+    "artistCountry": "NZ",
+    "externalIdsArtist": {
+      "allmusic": "mn0001771281",
+      "bandcamp": "https://theupbeats.bandcamp.com/",
+      "discogs": "96593",
+      "spotify": "5fbq6W6HAncSYaFtlQi7fF",
+      "deezer": "59529",
+      "rateyourmusic": "the_upbeats",
+      "soundcloud": "https://soundcloud.com/theupbeats",
+      "wikidata": "Q7771774",
+      "youtube": "UCBS5yE92aBOuOrPpX6DCMYw"
+    }
   }
 }

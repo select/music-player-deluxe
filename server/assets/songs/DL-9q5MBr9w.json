@@ -2,7 +2,7 @@
   "youtubeId": "DL-9q5MBr9w",
   "title": "There's A Light",
   "artist": "Shirley Ann Lee",
-  "lastFetched": "2025-11-19T14:36:44.456Z",
+  "lastFetched": "2025-12-02T00:51:57.857Z",
   "odesli": {
     "soundcloud": "shirleyannlee/theres-a-light",
     "spotify": "7ne5EmfdM8KrDsd02ZNnti",
@@ -21,6 +21,9 @@
   },
   "musicbrainz": {
     "trackMbid": "6300489e-dc44-4597-b3f3-502f6cf8d78f",
-    "artistMbid": "18b498d4-a6c9-474c-94ce-3d6b9a2ced7c"
+    "artistMbid": "18b498d4-a6c9-474c-94ce-3d6b9a2ced7c",
+    "externalIdsArtist": {
+      "discogs": "1424761"
+    }
   }
 }

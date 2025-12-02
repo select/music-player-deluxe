@@ -2,7 +2,7 @@
   "youtubeId": "5LKqxJOz6aM",
   "title": "Emptyset (Etapp Kyle remix)",
   "artist": "Max Cooper",
-  "lastFetched": "2025-11-30T23:16:29.715Z",
+  "lastFetched": "2025-12-02T00:39:51.893Z",
   "odesli": {
     "amazonMusic": "B07NQSVXBZ",
     "amazonStore": "B07NQSVXBZ",
@@ -36,6 +36,20 @@
       "electronic",
       "electronica",
       "techno"
-    ]
+    ],
+    "releasedAt": "2019-03-21",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002002647",
+      "bandcamp": "https://maxcooper.bandcamp.com/",
+      "discogs": "830699",
+      "spotify": "0WSSKmoRbxqLf3MnXInQ2J",
+      "deezer": "181041",
+      "lastfm": "Max+Cooper",
+      "genius": "Max-cooper",
+      "rateyourmusic": "max-cooper",
+      "soundcloud": "https://soundcloud.com/max-cooper",
+      "wikidata": "Q6794665"
+    }
   }
 }

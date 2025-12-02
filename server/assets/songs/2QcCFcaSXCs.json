@@ -2,7 +2,7 @@
   "youtubeId": "2QcCFcaSXCs",
   "title": "Blind Man",
   "artist": "Nomine",
-  "lastFetched": "2025-11-30T22:32:32.896Z",
+  "lastFetched": "2025-12-02T00:36:05.479Z",
   "odesli": {
     "amazonMusic": "B0DT5M3HWB",
     "amazonStore": "B0DT5M3HWB",
@@ -33,6 +33,13 @@
       "drum and bass",
       "dubstep",
       "jungle"
-    ]
+    ],
+    "releasedAt": "2015-04-10",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "3138333",
+      "spotify": "7uQ1qwQMMz3quYPqFsDgGS",
+      "deezer": "4860824"
+    }
   }
 }

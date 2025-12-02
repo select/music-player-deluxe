@@ -3,7 +3,7 @@
   "artist": "Damaged Bug",
   "duration": 195,
   "youtubeId": "Ai1D08sGIZ8",
-  "lastFetched": "2025-11-23T16:30:51.289Z",
+  "lastFetched": "2025-12-02T00:47:47.035Z",
   "odesli": {
     "amazonMusic": "B00YGJCG9Y",
     "amazonStore": "B00YGJCG9Y",
@@ -31,7 +31,17 @@
     ],
     "trackMbid": "9a500087-73eb-4604-8b07-3ddf6de73afa",
     "artistMbid": "a5e7d877-affe-4b75-8203-452f48468205",
-    "releaseCount": 1
+    "releasedAt": "2015-06-09",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003213617",
+      "bandcamp": "https://damagedbug.bandcamp.com/",
+      "discogs": "3708976",
+      "spotify": "0OqqomaR6NwSNKDpqnHlBo",
+      "deezer": "5569183",
+      "rateyourmusic": "damaged-bug",
+      "wikidata": "Q125090223"
+    }
   },
   "lastfm": {
     "id": "Damaged+Bug/_/Jet+in+Jungle",

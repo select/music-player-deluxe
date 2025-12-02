@@ -2,7 +2,7 @@
   "youtubeId": "7j8ySSs_yww",
   "title": "Weed & Rum",
   "artist": "Chase & Status",
-  "lastFetched": "2025-11-30T22:49:02.946Z",
+  "lastFetched": "2025-12-02T00:43:46.596Z",
   "odesli": {
     "amazonMusic": "B07QXV65GL",
     "amazonStore": "B07QXV65GL",
@@ -42,6 +42,20 @@
       "pop",
       "techno",
       "uk garage"
-    ]
+    ],
+    "releasedAt": "2019-05-31",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000101961",
+      "discogs": "138585",
+      "spotify": "3jNkaOXasoc7RsxdchvEVq",
+      "deezer": "15617",
+      "lastfm": "Chase+&+Status",
+      "genius": "Chase-and-status",
+      "rateyourmusic": "chase_and_status_f1",
+      "soundcloud": "https://soundcloud.com/chaseandstatus",
+      "wikidata": "Q1067983",
+      "youtube": "UCQOPcSW3O8G8xK-5pukX9Bw"
+    }
   }
 }

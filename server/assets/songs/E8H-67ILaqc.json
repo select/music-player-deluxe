@@ -2,7 +2,7 @@
   "youtubeId": "E8H-67ILaqc",
   "title": "Chicken In The Corn",
   "artist": "Brushy One String",
-  "lastFetched": "2025-11-30T22:25:10.172Z",
+  "lastFetched": "2025-12-02T00:53:22.659Z",
   "odesli": {
     "amazonMusic": "B097HQ81NY",
     "amazonStore": "B097HQ81NY",
@@ -44,6 +44,13 @@
     "artistGenres": [
       "blues",
       "reggae"
-    ]
+    ],
+    "releasedAt": "2013-03-06",
+    "externalIdsArtist": {
+      "discogs": "2184031",
+      "spotify": "5XV7hYBGbvqHRFDBj2fTfO",
+      "wikidata": "Q18239136",
+      "youtube": "UC9EX_r1oYGgTBqEoqnd4ycA"
+    }
   }
 }

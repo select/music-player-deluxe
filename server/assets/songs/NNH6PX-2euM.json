@@ -2,7 +2,7 @@
   "youtubeId": "NNH6PX-2euM",
   "title": "Numb",
   "artist": "Gary Clark Jr.",
-  "lastFetched": "2025-11-30T19:40:06.087Z",
+  "lastFetched": "2025-12-02T01:08:11.991Z",
   "odesli": {
     "amazonMusic": "B07VZPC3P3",
     "amazonStore": "B07VZPC3P3",
@@ -49,6 +49,24 @@
       "hard rock",
       "rock and roll",
       "soul"
-    ]
+    ],
+    "releasedAt": "2012-10-22",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "5qE73YiMazBlI4r7PuervC",
+      "deezer": "61309069"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000989208",
+      "discogs": "2699369",
+      "spotify": "01aC2ikO4Xgb2LUpf9JfKp",
+      "deezer": "265266762",
+      "lastfm": "Gary+Clark+Jr.",
+      "genius": "Gary-clark-jr",
+      "rateyourmusic": "gary_clark_jr_",
+      "soundcloud": "https://soundcloud.com/garyclarkjr",
+      "wikidata": "Q1153310",
+      "youtube": "UCqOvoj8ToHKN5YzyBGZCgUQ"
+    }
   }
 }

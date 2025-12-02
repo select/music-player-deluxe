@@ -1,7 +1,7 @@
 {
   "youtubeId": "9z3KitYP6VU",
   "title": "Yonderboi - All we go to hell",
-  "lastFetched": "2025-11-30T20:34:01.283Z",
+  "lastFetched": "2025-12-02T00:46:50.319Z",
   "ai": {
     "title": "All we go to hell",
     "artist": "Yonderboi"
@@ -31,6 +31,16 @@
       "downtempo",
       "electronic",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2005-10-21",
+    "artistCountry": "HU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000591293",
+      "discogs": "1784",
+      "spotify": "4hi7BCJEn3xCR3VRZU1Ek7",
+      "deezer": "2812",
+      "rateyourmusic": "yonderboi",
+      "wikidata": "Q678283"
+    }
   }
 }

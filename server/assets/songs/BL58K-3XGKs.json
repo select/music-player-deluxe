@@ -2,7 +2,7 @@
   "youtubeId": "BL58K-3XGKs",
   "title": "Whole Lotta Rosie",
   "artist": "AC/DC",
-  "lastFetched": "2025-11-23T16:31:10.413Z",
+  "lastFetched": "2025-12-02T00:48:32.282Z",
   "odesli": {
     "amazonMusic": "B00O75SGLE",
     "amazonStore": "B00O75SGLE",
@@ -33,7 +33,21 @@
       "rock and roll"
     ],
     "trackMbid": "6640f760-932c-4033-bec3-ee6157c7ca67",
-    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1"
+    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000574772",
+      "discogs": "84752",
+      "spotify": "711MCceyCBcFnzjGY4Q7Un",
+      "deezer": "115",
+      "lastfm": "AC%2FDC",
+      "genius": "Ac-dc",
+      "rateyourmusic": "ac_dc",
+      "soundcloud": "https://soundcloud.com/acdcofficial",
+      "napster": "acdc",
+      "wikidata": "Q27593",
+      "youtube": "UCVm4YdI3hobkwsHTTOMVJKg"
+    }
   },
   "lastfm": {
     "id": "AC%2FDC/_/Whole+Lotta+Rosie",

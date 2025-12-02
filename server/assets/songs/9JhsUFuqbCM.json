@@ -2,7 +2,7 @@
   "youtubeId": "9JhsUFuqbCM",
   "title": "Fall to Pieces",
   "artist": "Velvet Revolver",
-  "lastFetched": "2025-11-30T19:58:50.793Z",
+  "lastFetched": "2025-12-02T00:46:01.472Z",
   "odesli": {
     "amazonMusic": "B0D9C7CGW1",
     "amazonStore": "B0D9C7CGW1",
@@ -49,6 +49,19 @@
       "alternative rock",
       "hard rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2004-06-07",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "4hPOUBMZDvTBn9BD9GahMt"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000840348",
+      "discogs": "252206",
+      "spotify": "7CHilrn81OdYjkh4uSVnYM",
+      "deezer": "1252",
+      "rateyourmusic": "velvet_revolver",
+      "wikidata": "Q223736"
+    }
   }
 }

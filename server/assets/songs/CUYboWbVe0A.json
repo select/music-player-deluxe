@@ -3,7 +3,7 @@
   "artist": "Four Tet",
   "duration": 252,
   "youtubeId": "CUYboWbVe0A",
-  "lastFetched": "2025-11-19T03:28:04.099Z",
+  "lastFetched": "2025-12-02T00:50:12.523Z",
   "odesli": {
     "amazonMusic": "B075WDZL7H",
     "amazonStore": "B075WDZL7H",
@@ -26,7 +26,25 @@
     ],
     "trackMbid": "59feedf2-8212-4352-80c9-820b00bd36ce",
     "artistMbid": "3bcff06f-675a-451f-9075-99e8657047e8",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2017-07-04",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "2ZIaH69kaz55RM4Pjx6KXl"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000741236",
+      "bandcamp": "https://fourtet.bandcamp.com/",
+      "discogs": "3543",
+      "spotify": "7Eu1txygG6nJttLHbZdQOh",
+      "deezer": "1744",
+      "lastfm": "Four+Tet",
+      "genius": "Four-tet",
+      "rateyourmusic": "four-tet",
+      "soundcloud": "https://soundcloud.com/four-tet",
+      "wikidata": "Q959655",
+      "youtube": "UC3sZYInu3YYkyIXBif83ZCg"
+    }
   },
   "lastfm": {
     "id": "Four+Tet/_/Two+Thousand+And+Seventeen",

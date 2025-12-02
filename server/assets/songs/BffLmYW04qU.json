@@ -2,7 +2,7 @@
   "youtubeId": "BffLmYW04qU",
   "title": "Tilted",
   "artist": "UNGLUED",
-  "lastFetched": "2025-11-30T23:09:07.445Z",
+  "lastFetched": "2025-12-02T00:49:07.125Z",
   "odesli": {
     "amazonMusic": "B0C9KQFRTF",
     "amazonStore": "B0C9KQFRTF",
@@ -35,6 +35,15 @@
   "musicbrainz": {
     "trackMbid": "0c32650a-099f-4c7a-be40-8cd4da9452a7",
     "artistMbid": "3cf7234e-a7fc-47f4-afd7-f8fd4a9542c9",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-07-14",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "3903241",
+      "spotify": "3AXcevvp1Kd1KEyHiUEsrC",
+      "deezer": "12900077",
+      "soundcloud": "https://soundcloud.com/unglueddnb",
+      "wikidata": "Q108647039"
+    }
   }
 }

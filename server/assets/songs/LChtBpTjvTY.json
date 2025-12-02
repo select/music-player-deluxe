@@ -2,7 +2,7 @@
   "youtubeId": "LChtBpTjvTY",
   "title": "The Hounds",
   "artist": "The Protomen",
-  "lastFetched": "2025-11-30T20:40:51.083Z",
+  "lastFetched": "2025-12-02T01:04:44.589Z",
   "odesli": {
     "amazonMusic": "B002LVT8KE",
     "amazonStore": "B002LVT8KE",
@@ -43,6 +43,18 @@
       "alternative rock",
       "rock",
       "rock opera"
-    ]
+    ],
+    "releasedAt": "2009-09-08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002091401",
+      "bandcamp": "https://theprotomen.bandcamp.com/",
+      "discogs": "985408",
+      "spotify": "2rVDi66o7gdeUq1OHUzM0W",
+      "lastfm": "The+Protomen",
+      "rateyourmusic": "the_protomen",
+      "soundcloud": "https://soundcloud.com/protomen",
+      "wikidata": "Q7758619"
+    }
   }
 }

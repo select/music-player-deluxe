@@ -2,7 +2,7 @@
   "youtubeId": "Km5nbbtQVDo",
   "title": "Jarred",
   "artist": "Kiasmos",
-  "lastFetched": "2025-11-30T19:32:28.979Z",
+  "lastFetched": "2025-12-02T01:03:52.645Z",
   "odesli": {
     "amazonMusic": "B07N8FMGXQ",
     "amazonStore": "B07N8FMGXQ",
@@ -19,7 +19,14 @@
     "title": "Jarred",
     "artist": "Kiasmos",
     "mbid": "9449dcab-0fab-48ea-8c1b-6e09e9c47a0b",
-    "artistMbid": "3252542b-98a7-48ba-9861-7a612b16c227"
+    "artistMbid": "3252542b-98a7-48ba-9861-7a612b16c227",
+    "tags": [
+      "electronic",
+      "minimal",
+      "techno",
+      "2017 releases",
+      "james-joul - 2017 albums"
+    ]
   },
   "musicbrainz": {
     "trackMbid": "cc31a58b-40a9-4f6b-9f02-d39ff7342a4d",
@@ -30,6 +37,19 @@
       "idm",
       "microhouse",
       "minimal techno"
-    ]
+    ],
+    "releasedAt": "2017-10-06",
+    "artistCountry": "IS",
+    "externalIdsArtist": {
+      "allmusic": "mn0001060355",
+      "bandcamp": "https://kiasmos.bandcamp.com/",
+      "discogs": "1459655",
+      "spotify": "6X8lhZ7YaRUBlOsOYimlyD",
+      "deezer": "252873",
+      "lastfm": "Kiasmos",
+      "soundcloud": "https://soundcloud.com/kiasmos",
+      "wikidata": "Q21583944",
+      "youtube": "UCXWADwj6t4af0WJkP8LAIZw"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "9-6g0Kg2YyI",
   "title": "To The Sky",
   "artist": "Nomine",
-  "lastFetched": "2025-11-30T20:51:02.605Z",
+  "lastFetched": "2025-12-02T00:45:36.849Z",
   "odesli": {
     "amazonMusic": "B07G2JW18V",
     "amazonStore": "B07G2JW18V",
@@ -33,6 +33,13 @@
       "drum and bass",
       "dubstep",
       "jungle"
-    ]
+    ],
+    "releasedAt": "2015-04-10",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "3138333",
+      "spotify": "7uQ1qwQMMz3quYPqFsDgGS",
+      "deezer": "4860824"
+    }
   }
 }

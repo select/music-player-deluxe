@@ -2,7 +2,7 @@
   "youtubeId": "0jgrCKhxE1s",
   "title": "Through the Fire and Flames",
   "artist": "DragonForce",
-  "lastFetched": "2025-11-19T10:14:57.366Z",
+  "lastFetched": "2025-12-02T00:34:00.345Z",
   "odesli": {
     "amazonMusic": "B0011ZMV0A",
     "amazonStore": "B0011ZMV0A",
@@ -29,7 +29,21 @@
       "DragonForce"
     ],
     "trackMbid": "0a0e045a-f03a-4a40-946b-296e89571642",
-    "artistMbid": "ef58d4c9-0d40-42ba-bfab-9186c1483edd"
+    "artistMbid": "ef58d4c9-0d40-42ba-bfab-9186c1483edd",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000205838",
+      "bandcamp": "https://dragonforce.bandcamp.com/",
+      "discogs": "267042",
+      "spotify": "2pH3wEn4eYlMMIIQyKPbVR",
+      "deezer": "4421",
+      "lastfm": "DragonForce",
+      "genius": "Dragonforce",
+      "rateyourmusic": "dragonforce",
+      "soundcloud": "https://soundcloud.com/dragonforceofficial",
+      "wikidata": "Q212715",
+      "youtube": "UCDademfIkaXZGd2Ww-S60Tw"
+    }
   },
   "lastfm": {
     "id": "DragonForce/_/Through+the+Fire+and+Flames",

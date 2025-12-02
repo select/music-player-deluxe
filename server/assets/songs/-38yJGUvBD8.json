@@ -2,7 +2,7 @@
   "youtubeId": "-38yJGUvBD8",
   "title": "Canned Heat",
   "artist": "Canned Heat",
-  "lastFetched": "2025-11-30T21:55:46.329Z",
+  "lastFetched": "2025-12-02T00:17:08.362Z",
   "odesli": {
     "amazonMusic": "B001BKRW22",
     "amazonStore": "B001BKRW22",
@@ -52,6 +52,23 @@
       "electric blues",
       "folk rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1969-07-08",
+    "artistCountry": "US",
+    "externalIds": {
+      "allmusic": "mn0000946137",
+      "discogs": "269094",
+      "spotify": "27a0GiCba9K9lnkKidroFU",
+      "lastfm": "Canned+Heat"
+    },
+    "externalIdsTrack": {
+      "spotify": "19fE6AlKhqiro8jdjwkBog"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000946137",
+      "discogs": "269094",
+      "spotify": "27a0GiCba9K9lnkKidroFU",
+      "lastfm": "Canned+Heat"
+    }
   }
 }

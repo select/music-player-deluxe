@@ -1,7 +1,7 @@
 {
   "youtubeId": "05A-LRoAzUc",
   "title": "Popol Vuh - Spirit of Peace (1985) FULL ALBUM",
-  "lastFetched": "2025-11-30T21:22:33.469Z",
+  "lastFetched": "2025-12-02T00:33:04.223Z",
   "ai": {
     "title": "Spirit of Peace",
     "artist": "Popol Vuh"
@@ -39,6 +39,23 @@
       "neoclassical new age",
       "new age",
       "psychedelic folk"
-    ]
+    ],
+    "releasedAt": "1985",
+    "artistCountry": "DE",
+    "externalIds": {
+      "allmusic": "mn0000853926",
+      "discogs": "81882",
+      "spotify": "5zeiqAaIiDrjiDch33A2lT",
+      "lastfm": "Popol+Vuh"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000853926",
+      "discogs": "81882",
+      "spotify": "5zeiqAaIiDrjiDch33A2lT",
+      "deezer": "289769",
+      "lastfm": "Popol+Vuh",
+      "rateyourmusic": "popol_vuh",
+      "wikidata": "Q706764"
+    }
   }
 }

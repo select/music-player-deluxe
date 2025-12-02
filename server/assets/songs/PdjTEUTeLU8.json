@@ -1,0 +1,34 @@
+{
+  "youtubeId": "PdjTEUTeLU8",
+  "title": "Elbrus - Tall Shadow",
+  "lastFetched": "2025-12-02T01:12:03.584Z",
+  "ai": {
+    "title": "Tall Shadow",
+    "artist": "Elbrus"
+  },
+  "lastfm": {
+    "id": "Elbrus/_/Tall+Shadow",
+    "listeners": 594,
+    "playcount": 2102,
+    "title": "Tall Shadow",
+    "artist": "Elbrus",
+    "tags": [
+      "stoner rock",
+      "psychedelic",
+      "blues rock",
+      "stoner",
+      "psychedelic rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9f1dc1fa-8ce3-4d1f-842d-c5f20d233d1a",
+    "artistMbid": "ad33b4eb-30ed-4404-b05f-03f76308f43b",
+    "releaseCount": 1,
+    "releasedAt": "2016-12-12",
+    "externalIdsArtist": {
+      "bandcamp": "https://elbrusmelbourne.bandcamp.com/",
+      "discogs": "5442068",
+      "spotify": "6tpe3ncE3Ifcuxpr3SRJC1"
+    }
+  }
+}

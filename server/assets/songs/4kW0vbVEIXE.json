@@ -3,7 +3,7 @@
   "artist": "Kelly Lee Owens",
   "duration": 214,
   "youtubeId": "4kW0vbVEIXE",
-  "lastFetched": "2025-11-23T16:28:02.996Z",
+  "lastFetched": "2025-12-02T00:39:07.038Z",
   "odesli": {
     "amazonMusic": "B084LH6TC7",
     "amazonStore": "B084LH6TC7",
@@ -35,7 +35,20 @@
     ],
     "trackMbid": "13aaaccb-7974-49bd-846c-1ec6bc53ef46",
     "artistMbid": "9d88eaab-f90a-4fbe-b84f-20da5518cd26",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2020-02-25",
+    "externalIdsArtist": {
+      "allmusic": "mn0003184750",
+      "bandcamp": "https://kellyleeowens.bandcamp.com/",
+      "discogs": "3143783",
+      "spotify": "5eitAUlYmlha3LLWg7aBn5",
+      "deezer": "7888234",
+      "genius": "Kelly-lee-owens",
+      "rateyourmusic": "kelly-lee-owens",
+      "soundcloud": "https://soundcloud.com/kellyleeowens",
+      "wikidata": "Q55006228",
+      "youtube": "UC9wARUGtGtBwyghM9itiAKw"
+    }
   },
   "lastfm": {
     "id": "Kelly+Lee+Owens/_/Melt%21",

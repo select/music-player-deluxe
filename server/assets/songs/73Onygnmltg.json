@@ -1,7 +1,7 @@
 {
   "youtubeId": "73Onygnmltg",
   "title": "We Were Promised Jetpacks - Quiet Little Voices",
-  "lastFetched": "2025-11-30T21:03:36.413Z",
+  "lastFetched": "2025-12-02T00:42:28.104Z",
   "ai": {
     "title": "Quiet Little Voices",
     "artist": "We Were Promised Jetpacks"
@@ -28,6 +28,19 @@
     "artistGenres": [
       "indie rock",
       "post-punk revival"
-    ]
+    ],
+    "releasedAt": "2009-04-05",
+    "externalIdsArtist": {
+      "allmusic": "mn0002323629",
+      "bandcamp": "https://wewerepromisedjetpacks.bandcamp.com/",
+      "discogs": "950725",
+      "spotify": "3gnrmLahFhVXRI9DA1MImH",
+      "deezer": "398656",
+      "lastfm": "We+Were+Promised+Jetpacks",
+      "genius": "We-were-promised-jetpacks",
+      "rateyourmusic": "we_were_promised_jetpacks",
+      "soundcloud": "https://soundcloud.com/wewerepromisedjetpacksofficial",
+      "wikidata": "Q1488607"
+    }
   }
 }

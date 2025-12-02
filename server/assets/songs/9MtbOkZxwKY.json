@@ -4,7 +4,7 @@
   "album": "Plunge",
   "duration": 330,
   "youtubeId": "9MtbOkZxwKY",
-  "lastFetched": "2025-11-19T04:30:36.788Z",
+  "lastFetched": "2025-12-02T00:46:03.636Z",
   "odesli": {
     "amazonMusic": "B0FFND9445",
     "amazonStore": "B0FFND9445",
@@ -34,6 +34,11 @@
   },
   "musicbrainz": {
     "trackMbid": "21427a61-c0ef-4ecc-b951-c05cc9449fb0",
-    "artistMbid": "cbbb9b55-81f2-41c6-94d1-e3f53364278d"
+    "artistMbid": "cbbb9b55-81f2-41c6-94d1-e3f53364278d",
+    "releasedAt": "2025-09-05",
+    "externalIdsArtist": {
+      "bandcamp": "https://flurflur.bandcamp.com/",
+      "spotify": "44vfrGSSsXFddb8qDq9gxC"
+    }
   }
 }

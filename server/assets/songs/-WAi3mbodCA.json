@@ -2,7 +2,7 @@
   "youtubeId": "-WAi3mbodCA",
   "title": "Careful With That Axe, Eugene",
   "artist": "Pink Floyd",
-  "lastFetched": "2025-11-30T22:44:04.525Z",
+  "lastFetched": "2025-12-02T00:32:25.553Z",
   "lastfm": {
     "title": "Careful With That Axe, Eugene",
     "artist": "Pink Floyd",
@@ -36,6 +36,28 @@
       "rock",
       "rock opera",
       "space rock"
-    ]
+    ],
+    "releasedAt": "1990",
+    "artistCountry": "England",
+    "externalIds": {
+      "allmusic": "mn0000346336",
+      "discogs": "45467",
+      "spotify": "0k17h0D3J5VfsdmQ1iZtE9",
+      "lastfm": "Pink+Floyd",
+      "soundcloud": "officialpinkfloyd",
+      "youtube": "UCO6LS_5W7vqG9mALDNzSFug"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000346336",
+      "discogs": "45467",
+      "spotify": "0k17h0D3J5VfsdmQ1iZtE9",
+      "deezer": "860",
+      "lastfm": "Pink+Floyd",
+      "genius": "Pink-floyd",
+      "rateyourmusic": "pink-floyd",
+      "soundcloud": "https://soundcloud.com/officialpinkfloyd",
+      "wikidata": "Q2306",
+      "youtube": "UCO6LS_5W7vqG9mALDNzSFug"
+    }
   }
 }

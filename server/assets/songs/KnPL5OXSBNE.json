@@ -1,7 +1,7 @@
 {
   "youtubeId": "KnPL5OXSBNE",
   "title": "The Beach Boys - I Get Around",
-  "lastFetched": "2025-11-30T21:31:50.656Z",
+  "lastFetched": "2025-12-02T01:03:57.542Z",
   "ai": {
     "title": "I Get Around",
     "artist": "The Beach Boys"
@@ -43,6 +43,20 @@
       "sunshine pop",
       "surf rock",
       "vocal surf"
-    ]
+    ],
+    "releasedAt": "1990",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000041874",
+      "discogs": "70829",
+      "spotify": "3oDbviiivRWhXwIE8hxkVV",
+      "deezer": "2179",
+      "lastfm": "The+Beach+Boys",
+      "genius": "The-beach-boys",
+      "rateyourmusic": "the_beach_boys",
+      "napster": "the-beach-boys",
+      "wikidata": "Q183048",
+      "youtube": "UCrnD8aXhy4oQMS0ITw471tA"
+    }
   }
 }

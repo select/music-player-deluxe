@@ -2,7 +2,7 @@
   "youtubeId": "TdwBRn2NKWM",
   "title": "Deeper Underground",
   "artist": "Jamiroquai",
-  "lastFetched": "2025-11-23T16:39:58.490Z",
+  "lastFetched": "2025-12-02T01:18:35.167Z",
   "odesli": {
     "amazonMusic": "B001386W46",
     "amazonStore": "B001386W46",
@@ -31,7 +31,22 @@
       "r&b"
     ],
     "trackMbid": "1049b9da-5707-4322-ac0a-fda79ee84559",
-    "artistMbid": "f4857fb9-e255-4dc6-bd01-e4ca7cc68544"
+    "artistMbid": "f4857fb9-e255-4dc6-bd01-e4ca7cc68544",
+    "releasedAt": "1998",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000176358",
+      "discogs": "8029",
+      "spotify": "6J7biCazzYhU3gM9j1wfid",
+      "deezer": "7",
+      "lastfm": "Jamiroquai",
+      "genius": "Jamiroquai",
+      "rateyourmusic": "jamiroquai",
+      "soundcloud": "https://soundcloud.com/jamiroquai",
+      "napster": "jamiroquai",
+      "wikidata": "Q202041",
+      "youtube": "UCd8wWXk6fSa8b8WaZbpWgvg"
+    }
   },
   "lastfm": {
     "id": "Jamiroquai/_/Deeper+Underground",

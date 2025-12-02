@@ -2,7 +2,7 @@
   "youtubeId": "BzbRHsyjIzk",
   "title": "Paradise",
   "artist": "The Neighbourhood",
-  "lastFetched": "2025-11-30T19:43:58.133Z",
+  "lastFetched": "2025-12-02T00:49:33.528Z",
   "odesli": {
     "amazonMusic": "B07JZKBKD7",
     "amazonStore": "B07JZKBKD7",
@@ -35,6 +35,21 @@
     "artistGenres": [
       "alternative rock",
       "indie pop"
-    ]
+    ],
+    "releasedAt": "2018-09-21",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002690553",
+      "discogs": "3081520",
+      "spotify": "77SW9BnxLY8rJ0RciFqkHh",
+      "deezer": "296861",
+      "lastfm": "The+Neighbourhood",
+      "genius": "The-neighbourhood",
+      "rateyourmusic": "the_neighbourhood_f1",
+      "soundcloud": "https://soundcloud.com/theneighbourhood",
+      "napster": "the-neighbourhood",
+      "wikidata": "Q7753383",
+      "youtube": "UCDAXusYwRJpiSP2CHnXnVnw"
+    }
   }
 }

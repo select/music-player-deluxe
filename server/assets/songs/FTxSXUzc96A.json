@@ -1,0 +1,43 @@
+{
+  "youtubeId": "FTxSXUzc96A",
+  "title": "Covet - falkor (full band playthrough)",
+  "lastFetched": "2025-12-02T00:55:58.336Z",
+  "ai": {
+    "title": "falkor",
+    "artist": "Covet"
+  },
+  "lastfm": {
+    "id": "Covet/_/Falkor",
+    "listeners": 49882,
+    "playcount": 292508,
+    "title": "Falkor",
+    "artist": "Covet",
+    "mbid": "63a70c77-52eb-4f90-b7fb-0be588fc82a6",
+    "artistMbid": "55445596-bb2f-40dc-993d-5195e4657148",
+    "tags": [
+      "math rock",
+      "post-rock",
+      "instrumental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "96017558-9526-4c33-8d10-00915436a1f6",
+    "artistMbid": "20b144e3-dd0e-4359-ae0c-0af7188c443b",
+    "releaseCount": 3,
+    "artistGenres": [
+      "math rock",
+      "post-rock"
+    ],
+    "releasedAt": "2018-07-13",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001964384",
+      "bandcamp": "https://covetband.bandcamp.com/",
+      "discogs": "1438945",
+      "spotify": "46iJ1VD4HKFnqjISGqlZkV",
+      "deezer": "1444150",
+      "lastfm": "Covet",
+      "rateyourmusic": "covet_f1"
+    }
+  }
+}

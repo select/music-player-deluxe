@@ -2,7 +2,7 @@
   "youtubeId": "GVp-UOEur6Y",
   "title": "Wir",
   "artist": "Stephan Bodzin",
-  "lastFetched": "2025-11-30T20:52:12.457Z",
+  "lastFetched": "2025-12-02T00:57:34.416Z",
   "odesli": {
     "amazonMusic": "B00WNE8EUO",
     "amazonStore": "B00WNE8EUO",
@@ -40,6 +40,21 @@
       "minimal techno",
       "tech house",
       "techno"
-    ]
+    ],
+    "releasedAt": "2015-06-12",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000738477",
+      "bandcamp": "https://stephanbodzin.bandcamp.com/",
+      "discogs": "49243",
+      "spotify": "2nq2BeSbzExGAv3Y4HgUf7",
+      "deezer": "15417",
+      "lastfm": "Stephan%20Bodzin",
+      "genius": "Stephan-bodzin",
+      "rateyourmusic": "stephan_bodzin",
+      "soundcloud": "https://soundcloud.com/stephanbodzin",
+      "wikidata": "Q75361",
+      "youtube": "UC6R_rPY5JImFrnb46vfKL5g"
+    }
   }
 }

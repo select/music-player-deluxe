@@ -2,7 +2,7 @@
   "youtubeId": "-m7-md-7B5w",
   "title": "ZaZa and Some Runtz (Smoke Break)",
   "artist": "Terry Presume",
-  "lastFetched": "2025-11-30T22:18:22.456Z",
+  "lastFetched": "2025-12-02T00:32:29.039Z",
   "odesli": {
     "amazonMusic": "B093SXTXZK",
     "amazonStore": "B093SXTXZK",
@@ -30,6 +30,14 @@
   "musicbrainz": {
     "trackMbid": "765bcfaa-4448-4933-ba62-c9dcfc3bf884",
     "artistMbid": "f970327b-faa2-465b-8161-83b22d1038c9",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2021-07-29",
+    "externalIds": {
+      "spotify": "4JLuMu6NZUAU8gYhrzvOdX"
+    },
+    "externalIdsArtist": {
+      "spotify": "4JLuMu6NZUAU8gYhrzvOdX",
+      "deezer": "57493642"
+    }
   }
 }

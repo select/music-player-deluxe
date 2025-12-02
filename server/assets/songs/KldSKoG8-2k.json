@@ -2,7 +2,7 @@
   "youtubeId": "KldSKoG8-2k",
   "title": "Vintage Keys (The Art)",
   "artist": "Fusion Forum",
-  "lastFetched": "2025-11-30T23:25:29.835Z",
+  "lastFetched": "2025-12-02T01:03:50.748Z",
   "odesli": {
     "pandora": "TR:76455316",
     "tidal": "19181759",
@@ -20,6 +20,13 @@
   "musicbrainz": {
     "artistMbid": "56727819-500d-4444-be2c-fcd59a2f2003",
     "trackMbid": "cc7b2da6-fdf3-4ce1-a0eb-33ab292d4065",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2015-06-24",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001788331",
+      "discogs": "5231",
+      "rateyourmusic": "fusion_forum"
+    }
   }
 }

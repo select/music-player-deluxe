@@ -2,7 +2,7 @@
   "youtubeId": "-KT-r2vHeMM",
   "title": "Sex & Candy",
   "artist": "Marcy Playground",
-  "lastFetched": "2025-11-30T23:32:42.431Z",
+  "lastFetched": "2025-12-02T00:32:09.703Z",
   "odesli": {
     "amazonMusic": "B000TE8PCC",
     "amazonStore": "B000TE8PCC",
@@ -25,6 +25,25 @@
     "releaseCount": 1,
     "artistGenres": [
       "alternative rock"
-    ]
+    ],
+    "releasedAt": "1998",
+    "artistCountry": "US",
+    "externalIds": {
+      "allmusic": "mn0000572327",
+      "discogs": "344639",
+      "spotify": "7AQzXO3NPNQsI7oNu5rC3r",
+      "lastfm": "Marcy+Playground",
+      "youtube": "UCk5jc7aolfnJUQm5-4CUj9A"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000572327",
+      "discogs": "344639",
+      "spotify": "7AQzXO3NPNQsI7oNu5rC3r",
+      "deezer": "788",
+      "lastfm": "Marcy+Playground",
+      "rateyourmusic": "marcy_playground",
+      "wikidata": "Q1417871",
+      "youtube": "UCk5jc7aolfnJUQm5-4CUj9A"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "1cHKb8O07M4",
   "title": "Submarine",
   "artist": "Moskwa TV",
-  "lastFetched": "2025-11-19T16:48:52.266Z",
+  "lastFetched": "2025-12-02T00:35:00.965Z",
   "odesli": {
     "amazonMusic": "B002B0PHHS",
     "amazonStore": "B002B0PHHS",
@@ -20,6 +20,12 @@
   },
   "musicbrainz": {
     "trackMbid": "ecaa8fc0-a3a5-3ec8-b833-14eb24cc2e69",
-    "artistMbid": "0f0779be-7ee8-4bbc-bac2-32b7f007b17c"
+    "artistMbid": "0f0779be-7ee8-4bbc-bac2-32b7f007b17c",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "24334",
+      "rateyourmusic": "moskwa_tv",
+      "wikidata": "Q1949373"
+    }
   }
 }

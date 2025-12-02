@@ -1,7 +1,7 @@
 {
   "youtubeId": "A4BhRDp_tsI",
   "title": "Metric - The Police And The Private",
-  "lastFetched": "2025-11-30T19:36:04.787Z",
+  "lastFetched": "2025-12-02T00:46:57.373Z",
   "ai": {
     "title": "The Police And The Private",
     "artist": "Metric"
@@ -36,6 +36,22 @@
       "new wave",
       "pop",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "2005-10-04",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000380651",
+      "bandcamp": "https://oldworldunderground.bandcamp.com/",
+      "discogs": "251798",
+      "spotify": "1rCIEwPp5OnXW0ornlSsRl",
+      "deezer": "956",
+      "lastfm": "Metric",
+      "genius": "Metric",
+      "rateyourmusic": "metric",
+      "soundcloud": "https://soundcloud.com/metric-band",
+      "qobuz": "51582",
+      "wikidata": "Q650486",
+      "youtube": "UCEDAqx7QPrOUV3Bx9aqUjsw"
+    }
   }
 }

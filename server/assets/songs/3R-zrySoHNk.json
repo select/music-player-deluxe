@@ -4,7 +4,7 @@
   "album": "Today’s Song",
   "duration": 195,
   "youtubeId": "3R-zrySoHNk",
-  "lastFetched": "2025-11-19T01:37:48.593Z",
+  "lastFetched": "2025-12-02T00:24:31.492Z",
   "odesli": {
     "amazonMusic": "B0FG4F15MN",
     "amazonStore": "B0FG4F15MN",
@@ -27,7 +27,21 @@
     ],
     "trackMbid": "4774084f-9f05-45f9-a2aa-fad63c663dfd",
     "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-07-02",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "14PhYqLZ4QLKprqeCOMx36"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000184043",
+      "bandcamp": "https://foofighters.bandcamp.com/",
+      "discogs": "198282",
+      "spotify": "7jy3rLJdDQY21OgRLCZ9sD",
+      "lastfm": "Foo+Fighters",
+      "soundcloud": "foofighters",
+      "youtube": "UCwDw2KaS8jRUxAPScL2U8og"
+    }
   },
   "lastfm": {
     "id": "Foo+Fighters/_/Today%27s+Song",

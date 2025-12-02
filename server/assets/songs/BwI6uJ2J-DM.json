@@ -2,7 +2,7 @@
   "youtubeId": "BwI6uJ2J-DM",
   "title": "The Big Apple",
   "artist": "Hugh Masekela",
-  "lastFetched": "2025-11-23T16:31:23.218Z",
+  "lastFetched": "2025-12-02T00:49:24.398Z",
   "odesli": {
     "amazonMusic": "B001CVIZH6",
     "amazonStore": "B001CVIZH6",
@@ -27,7 +27,19 @@
       "soul jazz"
     ],
     "trackMbid": "54e45ac0-d1b6-4d71-af30-70a899af4f9f",
-    "artistMbid": "83a2e0fb-3d9b-46ff-b383-3dde54c15297"
+    "artistMbid": "83a2e0fb-3d9b-46ff-b383-3dde54c15297",
+    "artistCountry": "ZA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000830319",
+      "discogs": "14661",
+      "spotify": "1b3F5FI7TX4IWTNA4P1kWp",
+      "deezer": "6796",
+      "lastfm": "Hugh%20Masekela",
+      "genius": "Hugh-masekela",
+      "rateyourmusic": "hugh_masekela",
+      "wikidata": "Q246594",
+      "youtube": "UCfAkbN43RQG_Pe1xOevukfA"
+    }
   },
   "lastfm": {
     "id": "Hugh+Masekela/_/The+Big+Apple",

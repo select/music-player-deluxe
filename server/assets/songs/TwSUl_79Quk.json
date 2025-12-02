@@ -2,7 +2,7 @@
   "youtubeId": "TwSUl_79Quk",
   "title": "Walking On The Moon",
   "artist": "The Supermen Lovers",
-  "lastFetched": "2025-11-23T16:40:04.133Z",
+  "lastFetched": "2025-12-02T01:18:56.627Z",
   "odesli": {
     "amazonMusic": "B0F8X95PP4",
     "amazonStore": "B0F8X95PP4",
@@ -15,7 +15,15 @@
       "pop and chart"
     ],
     "trackMbid": "32ea1a38-22ad-4f19-b769-785a048be33c",
-    "artistMbid": "0df6d50f-7e43-4c6a-8220-61932b67c9c5"
+    "artistMbid": "0df6d50f-7e43-4c6a-8220-61932b67c9c5",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "discogs": "32806",
+      "spotify": "08dJ0NJ9jMf8qdLmdhQ2yA",
+      "deezer": "153394",
+      "soundcloud": "https://soundcloud.com/the-supermen-lovers",
+      "wikidata": "Q1022142"
+    }
   },
   "lastfm": {
     "id": "The+Supermen+Lovers/_/Walking+On+The+Moon",

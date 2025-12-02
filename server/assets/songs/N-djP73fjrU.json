@@ -2,7 +2,7 @@
   "youtubeId": "N-djP73fjrU",
   "title": "Anioł",
   "artist": "HEY",
-  "lastFetched": "2025-11-30T21:57:33.715Z",
+  "lastFetched": "2025-12-02T01:07:25.130Z",
   "lastfm": {
     "id": "Hey/_/Anio%C5%82",
     "listeners": 15250,
@@ -22,6 +22,18 @@
     "releaseCount": 4,
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "releasedAt": "1995",
+    "artistCountry": "PL",
+    "externalIdsArtist": {
+      "allmusic": "mn0001223162",
+      "discogs": "460208",
+      "spotify": "3z5O1IzrnIQfWHAMuQEeZB",
+      "deezer": "244210",
+      "lastfm": "Hey",
+      "rateyourmusic": "hey",
+      "wikidata": "Q2632769",
+      "wikipedia": "Hey_(band)"
+    }
   }
 }

@@ -1,0 +1,49 @@
+{
+  "youtubeId": "pat2c33sbog",
+  "title": "Ausländer",
+  "artist": "Rammstein",
+  "lastFetched": "2025-12-01T13:00:02.648Z",
+  "odesli": {
+    "amazonMusic": "B07PWHLY62",
+    "amazonStore": "B07PWHLY62",
+    "audius": "oP7BX",
+    "anghami": "1050302884",
+    "boomplay": "5526740",
+    "pandora": "TR:18449376",
+    "soundcloud": "mlf9nxfshviw/rammstein-auslander-1",
+    "spotify": "7j43FohbLVulScL7S9sQZk",
+    "tidal": "109100972",
+    "yandex": "52974547",
+    "youtube": "pat2c33sbog",
+    "youtubeMusic": "pat2c33sbog"
+  },
+  "lastfm": {
+    "id": "Rammstein/_/AUSL%C3%84NDER",
+    "listeners": 278302,
+    "playcount": 3466171,
+    "title": "AUSLÄNDER",
+    "artist": "Rammstein",
+    "mbid": "00631776-5b09-43d4-b5c7-d8e84025ed13",
+    "artistMbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+    "tags": [
+      "industrial metal",
+      "industrial",
+      "neue deutsche harte"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "94a59d7a-b9e6-4942-a7d6-abab2778877d",
+    "artistMbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+    "releaseCount": 14,
+    "genres": [
+      "industrial"
+    ],
+    "artistGenres": [
+      "industrial",
+      "industrial metal",
+      "metal",
+      "neue deutsche härte",
+      "rock"
+    ]
+  }
+}

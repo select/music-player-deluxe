@@ -2,7 +2,7 @@
   "youtubeId": "S_Xm9BzpwPc",
   "title": "Punk Rock Song",
   "artist": "Bad Religion",
-  "lastFetched": "2025-11-23T16:39:30.120Z",
+  "lastFetched": "2025-12-02T01:16:43.133Z",
   "odesli": {
     "amazonMusic": "B07ZMH6C83",
     "amazonStore": "B07ZMH6C83",
@@ -34,7 +34,21 @@
       "skate punk"
     ],
     "trackMbid": "995888c5-9d00-4d34-b848-cbfe949520be",
-    "artistMbid": "149e6720-4e4a-41a4-afca-6d29083fc091"
+    "artistMbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
+    "releasedAt": "1997",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000062823",
+      "discogs": "17479",
+      "spotify": "2yJwXpWAQOOl5XFzbCxLs9",
+      "deezer": "936",
+      "lastfm": "Bad+Religion",
+      "genius": "Bad-religion",
+      "rateyourmusic": "bad_religion",
+      "soundcloud": "https://soundcloud.com/thebrpage",
+      "wikidata": "Q201669",
+      "youtube": "UCLjT3GCC1Q-p39MWp85KKFA"
+    }
   },
   "lastfm": {
     "id": "Bad+Religion/_/Punk+Rock+Song",

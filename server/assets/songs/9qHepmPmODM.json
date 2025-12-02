@@ -2,7 +2,7 @@
   "youtubeId": "9qHepmPmODM",
   "title": "Websiiite",
   "artist": "Tracky Birthday",
-  "lastFetched": "2025-11-30T23:28:19.462Z",
+  "lastFetched": "2025-12-02T00:46:42.536Z",
   "odesli": {
     "amazonMusic": "B07NDRKZ6P",
     "amazonStore": "B07NDRKZ6P",
@@ -23,6 +23,10 @@
   "musicbrainz": {
     "trackMbid": "ec685082-2fee-4465-b3ef-e9fd95abf48e",
     "artistMbid": "e104bd8f-0152-4f5e-b696-1b646794f577",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2008-12-22",
+    "externalIdsArtist": {
+      "discogs": "197727"
+    }
   }
 }

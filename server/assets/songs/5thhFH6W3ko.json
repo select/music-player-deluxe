@@ -1,7 +1,7 @@
 {
   "youtubeId": "5thhFH6W3ko",
   "title": "FOALS - Snake Oil [Official Live CCTV Session]",
-  "lastFetched": "2025-11-30T19:46:27.264Z",
+  "lastFetched": "2025-12-02T00:40:34.080Z",
   "ai": {
     "title": "Snake Oil",
     "artist": "FOALS"
@@ -35,6 +35,19 @@
       "indie rock",
       "math rock",
       "new wave"
-    ]
+    ],
+    "releasedAt": "2015-08-28",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000990368",
+      "discogs": "648691",
+      "spotify": "6FQqZYVfTNQ1pCqfkwVFEa",
+      "deezer": "13372",
+      "lastfm": "Foals",
+      "genius": "Foals",
+      "rateyourmusic": "foals",
+      "soundcloud": "https://soundcloud.com/foals",
+      "wikidata": "Q728958"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "3-Yh6rnOchs",
   "title": "Kiss From a Rose",
   "artist": "Seal",
-  "lastFetched": "2025-11-30T21:46:32.698Z",
+  "lastFetched": "2025-12-02T00:36:55.396Z",
   "odesli": {
     "amazonMusic": "B0CZLXDRFH",
     "amazonStore": "B0CZLXDRFH",
@@ -56,6 +56,19 @@
       "pop soul",
       "r&b",
       "soul"
-    ]
+    ],
+    "releasedAt": "1995-06-06",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000576718",
+      "discogs": "10643",
+      "spotify": "5GtMEZEeFFsuHY8ad4kOxv",
+      "deezer": "1444",
+      "genius": "Seal",
+      "rateyourmusic": "seal",
+      "napster": "seal",
+      "wikidata": "Q218091",
+      "youtube": "UCh1sjlhxkKzX9O-fN3G18vg"
+    }
   }
 }

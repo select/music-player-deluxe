@@ -2,7 +2,7 @@
   "youtubeId": "BeXZZYBLUzE",
   "title": "Fun Campfire Song",
   "artist": "Dan Reeder",
-  "lastFetched": "2025-11-30T23:35:23.180Z",
+  "lastFetched": "2025-12-02T00:49:04.846Z",
   "lastfm": {
     "id": "Dan+Reeder/_/Fun+Campfire+Song",
     "listeners": 1794,
@@ -15,6 +15,14 @@
   "musicbrainz": {
     "artistMbid": "b73ad3ac-be50-4b3c-b5dd-7412d557602c",
     "trackMbid": "13b48eb2-310d-45cd-8ce6-89b5efb73d41",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2024-10-04",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000672381",
+      "discogs": "1213628",
+      "wikidata": "Q1159146",
+      "wikipedia": "Dan_Reeder"
+    }
   }
 }

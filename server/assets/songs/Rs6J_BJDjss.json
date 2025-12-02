@@ -2,7 +2,7 @@
   "youtubeId": "Rs6J_BJDjss",
   "title": "Say You Will",
   "artist": "Foreigner",
-  "lastFetched": "2025-11-23T16:39:13.149Z",
+  "lastFetched": "2025-12-02T01:15:44.257Z",
   "odesli": {
     "amazonMusic": "B07VWLN35R",
     "amazonStore": "B07VWLN35R",
@@ -57,7 +57,22 @@
       "hard rock"
     ],
     "trackMbid": "959508f2-6cba-4bba-ac5d-266385f9b503",
-    "artistMbid": "160629ab-ec18-4931-8c95-02cb92d06186"
+    "artistMbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+    "releasedAt": "1987-12-08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000987621",
+      "discogs": "174890",
+      "spotify": "6IRouO5mvvfcyxtPDKMYFN",
+      "deezer": "2310",
+      "lastfm": "Foreigner",
+      "genius": "Foreigner",
+      "rateyourmusic": "foreigner",
+      "soundcloud": "https://soundcloud.com/foreigner",
+      "napster": "foreigner",
+      "wikidata": "Q275059",
+      "youtube": "UCr79-QZv1_VGlxVWLc28xrQ"
+    }
   },
   "lastfm": {
     "id": "Foreigner/_/Say+You+Will",

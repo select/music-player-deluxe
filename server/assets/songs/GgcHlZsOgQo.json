@@ -2,7 +2,7 @@
   "youtubeId": "GgcHlZsOgQo",
   "title": "Stretch Your Face",
   "artist": "Tobacco",
-  "lastFetched": "2025-11-30T19:58:15.371Z",
+  "lastFetched": "2025-12-02T00:58:03.290Z",
   "odesli": {
     "amazonMusic": "B0964D5921",
     "amazonStore": "B0964D5921",
@@ -39,6 +39,17 @@
       "lo-fi",
       "neo-psychedelia",
       "wonky"
-    ]
+    ],
+    "releasedAt": "2017-06-23",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001394896",
+      "bandcamp": "https://tobaxxo.bandcamp.com/",
+      "discogs": "903328",
+      "spotify": "3ikKyCOrsMeANi0d5u8BCR",
+      "deezer": "409950",
+      "rateyourmusic": "tobacco",
+      "wikidata": "Q7811452"
+    }
   }
 }

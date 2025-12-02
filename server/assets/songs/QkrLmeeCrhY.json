@@ -1,7 +1,7 @@
 {
   "youtubeId": "QkrLmeeCrhY",
   "title": "\"Serenade\" Steve Miller Band (lyrics⬇) ⭐",
-  "lastFetched": "2025-11-30T20:33:58.511Z",
+  "lastFetched": "2025-12-02T01:13:19.872Z",
   "ai": {
     "title": "Serenade",
     "artist": "Steve Miller Band"
@@ -40,6 +40,19 @@
       "pop rock",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1976-05",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000036106",
+      "discogs": "29815",
+      "spotify": "6QtGlUje9TIkLrgPZrESuk",
+      "deezer": "3351",
+      "lastfm": "Steve+Miller+Band",
+      "genius": "Steve-miller-band",
+      "rateyourmusic": "steve_miller_band",
+      "soundcloud": "https://soundcloud.com/stevemillerband",
+      "wikidata": "Q750927"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "6qAazPVLONM",
   "title": "Komm Gib Mir Deine Hand (Remastered 2009)",
   "artist": "The Beatles",
-  "lastFetched": "2025-11-23T16:29:09.037Z",
+  "lastFetched": "2025-12-02T00:41:58.999Z",
   "odesli": {
     "amazonMusic": "B07FTG9RQ6",
     "amazonStore": "B07FTG9RQ6",
@@ -42,7 +42,21 @@
       "pop rock"
     ],
     "trackMbid": "d73a8e7a-d090-4862-b514-edc448a0fec6",
-    "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+    "artistMbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000754032",
+      "discogs": "82730",
+      "spotify": "3WrFJ7ztbogyGnTHbHJFl2",
+      "deezer": "1",
+      "lastfm": "The+Beatles",
+      "genius": "The-beatles",
+      "rateyourmusic": "the-beatles",
+      "soundcloud": "https://soundcloud.com/thebeatles",
+      "napster": "the-beatles",
+      "wikidata": "Q1299",
+      "youtube": "UC2XdaAVUannpujzv32jcouQ"
+    }
   },
   "lastfm": {
     "id": "The+Beatles/_/Komm+Gib+Mir+Deine+Hand+(Remastered+2009)",

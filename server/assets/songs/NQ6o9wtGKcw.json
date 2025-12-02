@@ -2,7 +2,7 @@
   "youtubeId": "NQ6o9wtGKcw",
   "title": "Kiss",
   "artist": "Señor Coconut",
-  "lastFetched": "2025-11-30T20:52:55.415Z",
+  "lastFetched": "2025-12-02T01:08:19.302Z",
   "odesli": {
     "amazonMusic": "B07P6RJCRB",
     "amazonStore": "B07P6RJCRB",
@@ -32,6 +32,13 @@
     "artistGenres": [
       "cocktail nation",
       "lounge"
-    ]
+    ],
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000006832",
+      "discogs": "7556",
+      "spotify": "6rATWMhuTXfhBqtB3IQRWd",
+      "wikidata": "Q65843"
+    }
   }
 }

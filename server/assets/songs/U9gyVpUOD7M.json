@@ -1,0 +1,48 @@
+{
+  "youtubeId": "U9gyVpUOD7M",
+  "title": "Patrick Bateman",
+  "artist": "Local H",
+  "lastFetched": "2025-12-01T12:57:03.115Z",
+  "odesli": {
+    "amazonMusic": "B07TZ787G6",
+    "amazonStore": "B07TZ787G6",
+    "pandora": "TR:28947657",
+    "soundcloud": "local-h-official/patrick-bateman",
+    "spotify": "73q2gCnpazVBCg13dx4Prv",
+    "tidal": "112751990",
+    "yandex": "61939114",
+    "youtube": "U9gyVpUOD7M",
+    "youtubeMusic": "U9gyVpUOD7M"
+  },
+  "lastfm": {
+    "id": "Local+H/_/Patrick+Bateman",
+    "listeners": 3855,
+    "playcount": 14227,
+    "title": "Patrick Bateman",
+    "artist": "Local H",
+    "mbid": "7f08e3b1-46f9-461c-8fd2-8304f660a45e",
+    "artistMbid": "baaf92f5-f2b2-4f51-9723-abed41a257f8",
+    "tags": [
+      "alternative rock",
+      "post-grunge",
+      "not grunge",
+      "names of people"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f1e89f1e-ec29-4f29-b2f8-6e1782bc1daa",
+    "artistMbid": "baaf92f5-f2b2-4f51-9723-abed41a257f8",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "noise rock",
+      "post-grunge",
+      "post-hardcore",
+      "punk rock",
+      "slacker rock"
+    ]
+  }
+}

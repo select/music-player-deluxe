@@ -2,7 +2,7 @@
   "youtubeId": "AgeG6w31Mks",
   "title": "Bushido",
   "artist": "Karmawin",
-  "lastFetched": "2025-11-23T16:30:48.967Z",
+  "lastFetched": "2025-12-02T00:47:44.629Z",
   "odesli": {
     "amazonMusic": "B0BGZL7XSY",
     "amazonStore": "B0BGZL7XSY",
@@ -32,7 +32,14 @@
       "instrumental"
     ],
     "trackMbid": "02a8657d-55d3-4dee-b5f4-e294ed20ca40",
-    "artistMbid": "e41d3647-0f8b-45d9-b074-e63fde35ba3c"
+    "artistMbid": "e41d3647-0f8b-45d9-b074-e63fde35ba3c",
+    "externalIdsArtist": {
+      "discogs": "5911577",
+      "spotify": "2rOhOgnBlD4qpnQEsl7sRK",
+      "deezer": "11977574",
+      "soundcloud": "https://soundcloud.com/karmawinlyon",
+      "youtube": "UCZHDM74Niz9NIVz8rXqvjDQ"
+    }
   },
   "lastfm": {
     "id": "Karmawin/_/Bushido",

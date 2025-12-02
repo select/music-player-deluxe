@@ -2,7 +2,7 @@
   "youtubeId": "6QyVil0dwhk",
   "title": "Stop Crying Your Heart Out",
   "artist": "Oasis",
-  "lastFetched": "2025-11-19T06:35:18.615Z",
+  "lastFetched": "2025-12-02T00:41:19.411Z",
   "odesli": {
     "amazonMusic": "B089W19V3Y",
     "amazonStore": "B089W19V3Y",
@@ -31,7 +31,22 @@
       "alternative"
     ],
     "trackMbid": "16789907-c268-44bb-836e-94d95c726838",
-    "artistMbid": "39ab1aed-75e0-4140-bd47-540276886b60"
+    "artistMbid": "39ab1aed-75e0-4140-bd47-540276886b60",
+    "releasedAt": "2021-04-30",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000393345",
+      "discogs": "140140",
+      "spotify": "2DaxqgrOhkeH0fpeiQq2f4",
+      "deezer": "927",
+      "lastfm": "Oasis",
+      "genius": "Oasis",
+      "rateyourmusic": "oasis",
+      "soundcloud": "https://soundcloud.com/oasisofficial",
+      "napster": "oasis",
+      "wikidata": "Q382890",
+      "youtube": "UCmMUZbaYdNH0bEd1PAlAqsA"
+    }
   },
   "lastfm": {
     "id": "Oasis/_/Stop+Crying+Your+Heart+Out",

@@ -3,7 +3,7 @@
   "artist": "Kutiman",
   "duration": 231,
   "youtubeId": "9FFo21LlrWk",
-  "lastFetched": "2025-11-19T03:50:27.295Z",
+  "lastFetched": "2025-12-02T00:45:58.858Z",
   "odesli": {
     "amazonMusic": "B09RQ1K7KH",
     "amazonStore": "B09RQ1K7KH",
@@ -48,7 +48,18 @@
     ],
     "trackMbid": "e2919c8f-9bfa-4c19-a22f-252b71ebf8ca",
     "artistMbid": "48e18c9b-371f-42e6-878d-633e25fa01fd",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-02-19",
+    "artistCountry": "IL",
+    "externalIdsArtist": {
+      "bandcamp": "https://kutiman.bandcamp.com/",
+      "discogs": "661754",
+      "spotify": "0sDJfnuudhMaEmFPvALK2e",
+      "deezer": "143817",
+      "soundcloud": "https://soundcloud.com/kutiman",
+      "wikidata": "Q939843",
+      "youtube": "UC7uoovBt-854ZO4-4tosU5g"
+    }
   },
   "lastfm": {
     "id": "Kutiman/_/Remotely+Close:+Silkyway",

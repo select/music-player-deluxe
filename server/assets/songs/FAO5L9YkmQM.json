@@ -2,7 +2,7 @@
   "youtubeId": "FAO5L9YkmQM",
   "title": "Unamerikan",
   "artist": "Kultur Shock",
-  "lastFetched": "2025-11-19T07:43:28.818Z",
+  "lastFetched": "2025-12-02T00:55:08.138Z",
   "odesli": {
     "soundcloud": "kulturshock/03-unamerikan",
     "tidal": "37352746",
@@ -19,6 +19,13 @@
   },
   "musicbrainz": {
     "trackMbid": "7dafba13-3498-4ce9-b1be-b7d57fe52001",
-    "artistMbid": "fddb7d67-7977-4ab5-884c-f5644c78b700"
+    "artistMbid": "fddb7d67-7977-4ab5-884c-f5644c78b700",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000675977",
+      "discogs": "340245",
+      "rateyourmusic": "kultur_shock",
+      "wikidata": "Q1362482"
+    }
   }
 }

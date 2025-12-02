@@ -2,7 +2,7 @@
   "youtubeId": "5mQVljB7JGw",
   "title": "Heavy Cross",
   "artist": "Gossip",
-  "lastFetched": "2025-11-30T20:46:48.576Z",
+  "lastFetched": "2025-12-02T00:40:25.889Z",
   "odesli": {
     "amazonMusic": "B002CUGZPA",
     "amazonStore": "B002CUGZPA",
@@ -55,6 +55,19 @@
       "indie rock",
       "pop rock",
       "post-punk"
-    ]
+    ],
+    "releasedAt": "2009-03-21",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000070586",
+      "discogs": "202605",
+      "spotify": "3sFTupo9UGgrujjN21BjwR",
+      "deezer": "57650402",
+      "lastfm": "Gossip",
+      "genius": "Gossip",
+      "rateyourmusic": "gossip_f1",
+      "soundcloud": "https://soundcloud.com/gossip_music",
+      "wikidata": "Q12831"
+    }
   }
 }

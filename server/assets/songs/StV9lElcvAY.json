@@ -2,7 +2,7 @@
   "youtubeId": "StV9lElcvAY",
   "title": "Anemone",
   "artist": "The Brian Jonestown Massacre",
-  "lastFetched": "2025-11-23T16:39:44.778Z",
+  "lastFetched": "2025-12-02T01:17:18.936Z",
   "odesli": {
     "amazonMusic": "B0DBD7RFWN",
     "amazonStore": "B0DBD7RFWN",
@@ -23,7 +23,18 @@
       "neo-psychedelia"
     ],
     "trackMbid": "023ae207-b559-4efc-ab80-e40549fa79dd",
-    "artistMbid": "381e8434-109a-439c-8acc-5d328359f2e0"
+    "artistMbid": "381e8434-109a-439c-8acc-5d328359f2e0",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000614455",
+      "discogs": "371334",
+      "spotify": "30uiS1n3uIGXJEYFR1GVDy",
+      "deezer": "5406",
+      "lastfm": "The+Brian+Jonestown+Massacre",
+      "genius": "The-brian-jonestown-massacre",
+      "rateyourmusic": "the_brian_jonestown_massacre",
+      "wikidata": "Q1637693"
+    }
   },
   "lastfm": {
     "id": "The+Brian+Jonestown+Massacre/_/Anemone",

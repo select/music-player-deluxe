@@ -1,7 +1,7 @@
 {
   "youtubeId": "JFAcOnhcpGA",
   "title": "Atlas, Rise!",
-  "lastFetched": "2025-11-30T21:27:17.164Z",
+  "lastFetched": "2025-12-02T01:01:46.299Z",
   "ai": {
     "title": "Atlas, Rise!",
     "artist": "Metallica"
@@ -45,6 +45,21 @@
       "heavy metal",
       "metal",
       "thrash metal"
-    ]
+    ],
+    "releasedAt": "2017-04-06",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000446509",
+      "discogs": "18839",
+      "spotify": "2ye2Wgw4gimLv2eAKyk1NB",
+      "deezer": "119",
+      "lastfm": "Metallica",
+      "genius": "Metallica",
+      "rateyourmusic": "metallica",
+      "soundcloud": "https://soundcloud.com/officialmetallica",
+      "napster": "metallica",
+      "wikidata": "Q15920",
+      "youtube": "UCGexNm_Kw4rdQjLxmpb2EKw"
+    }
   }
 }

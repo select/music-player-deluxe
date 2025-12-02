@@ -1,0 +1,55 @@
+{
+  "youtubeId": "q7DfQMPmJRI",
+  "title": "Fear Inoculum",
+  "artist": "TOOL",
+  "lastFetched": "2025-12-01T12:56:46.338Z",
+  "odesli": {
+    "amazonMusic": "B07W58GNPX",
+    "amazonStore": "B07W58GNPX",
+    "audius": "QVZXG",
+    "anghami": "57037051",
+    "pandora": "TR:21292652",
+    "soundcloud": "officialtool/fear-inoculum",
+    "spotify": "39zWYYZStDgWi32sOU9AX4",
+    "tidal": "116415071",
+    "yandex": "56235917",
+    "youtube": "q7DfQMPmJRI",
+    "youtubeMusic": "q7DfQMPmJRI"
+  },
+  "lastfm": {
+    "id": "Tool/_/Fear+Inoculum",
+    "listeners": 224654,
+    "playcount": 2249163,
+    "title": "Fear Inoculum",
+    "artist": "Tool",
+    "mbid": "1fa83b2d-c480-4787-8d84-5fe781534a97",
+    "artistMbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
+    "tags": [
+      "progressive metal",
+      "2010s",
+      "2019",
+      "progressive rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "972b78fa-fb71-4d74-a0f7-57c42d679ef3",
+    "artistMbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
+    "releaseCount": 9,
+    "genres": [
+      "alternative metal",
+      "art rock",
+      "progressive metal",
+      "progressive rock",
+      "psychedelic rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "electronic",
+      "metal",
+      "progressive metal",
+      "progressive rock",
+      "rock"
+    ]
+  }
+}

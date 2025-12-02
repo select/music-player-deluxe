@@ -2,7 +2,7 @@
   "youtubeId": "9ckJs3HogLo",
   "title": "Everlasting Sunday",
   "artist": "Cuthead",
-  "lastFetched": "2025-11-30T22:09:43.422Z",
+  "lastFetched": "2025-12-02T00:46:30.912Z",
   "odesli": {
     "amazonMusic": "B00FRNEHAO",
     "amazonStore": "B00FRNEHAO",
@@ -40,6 +40,14 @@
       "electronic",
       "hip hop",
       "house"
-    ]
+    ],
+    "releasedAt": "2013-11-08",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "1470031",
+      "spotify": "1z39BS5hTB0I2kL3w8ux5n",
+      "deezer": "4693249",
+      "soundcloud": "https://soundcloud.com/cuthead"
+    }
   }
 }

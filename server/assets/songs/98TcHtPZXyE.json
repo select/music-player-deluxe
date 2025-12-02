@@ -2,7 +2,7 @@
   "youtubeId": "98TcHtPZXyE",
   "title": "Grateful",
   "artist": "Kush Jones",
-  "lastFetched": "2025-11-30T22:59:58.750Z",
+  "lastFetched": "2025-12-02T00:45:46.702Z",
   "odesli": {
     "amazonMusic": "B073TCNDL4",
     "amazonStore": "B073TCNDL4",
@@ -25,6 +25,14 @@
   "musicbrainz": {
     "trackMbid": "30ca3c45-8db4-4d2f-8b60-670ce5737e6e",
     "artistMbid": "c8d441c3-3223-4d33-a412-cb05092f0649",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2016-03-11",
+    "externalIdsArtist": {
+      "bandcamp": "https://kushjones.bandcamp.com/",
+      "discogs": "5021966",
+      "spotify": "5ifmtTvKK5Pfk6K1b0eHZm",
+      "deezer": "7079701",
+      "soundcloud": "https://soundcloud.com/kush_jones"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "64liF2VuLxI",
   "title": "Loud Pipes",
   "artist": "Ratatat",
-  "lastFetched": "2025-11-30T20:13:35.710Z",
+  "lastFetched": "2025-12-02T00:28:36.115Z",
   "odesli": {
     "amazonMusic": "B000SFOJNG",
     "amazonStore": "B000SFOJNG",
@@ -46,6 +46,19 @@
       "instrumental",
       "neo-psychedelia",
       "new rave"
-    ]
+    ],
+    "releasedAt": "2006-08-21",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "3qkFIjYRInFasy2jeDZPgm"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000404136",
+      "discogs": "158120",
+      "spotify": "57dN52uHvrHOxijzpIgu3E",
+      "lastfm": "Ratatat",
+      "soundcloud": "ratatat",
+      "youtube": "UCTcraSQKl7F8GFiLydv6eDg"
+    }
   }
 }

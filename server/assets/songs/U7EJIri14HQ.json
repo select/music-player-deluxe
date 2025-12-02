@@ -2,7 +2,7 @@
   "youtubeId": "U7EJIri14HQ",
   "title": "Back To Me",
   "artist": "Document One",
-  "lastFetched": "2025-11-30T23:26:47.389Z",
+  "lastFetched": "2025-12-02T01:19:21.287Z",
   "odesli": {
     "amazonMusic": "B09QH5HZJ8",
     "amazonStore": "B09QH5HZJ8",
@@ -28,6 +28,14 @@
     "artistGenres": [
       "drum and bass",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2022-02-04",
+    "externalIdsArtist": {
+      "discogs": "1773496",
+      "spotify": "70E0CLEf2H8hCo06gHJ7tu",
+      "deezer": "604165",
+      "soundcloud": "https://soundcloud.com/documentone",
+      "youtube": "UCjgRcjpyfots-QO5rWlSVsQ"
+    }
   }
 }

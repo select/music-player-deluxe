@@ -2,7 +2,7 @@
   "youtubeId": "TSE9vKCMxuI",
   "title": "Fillip",
   "artist": "Muse",
-  "lastFetched": "2025-11-23T16:39:49.278Z",
+  "lastFetched": "2025-12-02T01:18:15.582Z",
   "odesli": {
     "amazonMusic": "B002BG8R5Q",
     "amazonStore": "B002BG8R5Q",
@@ -32,7 +32,22 @@
       "neo-progressive rock"
     ],
     "trackMbid": "1ecb6fbe-f9c8-4bf3-be8f-d64f0f744a95",
-    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090"
+    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000514563",
+      "discogs": "1003",
+      "spotify": "12Chz98pHFMPJEknJQMWvI",
+      "deezer": "705",
+      "lastfm": "Muse",
+      "genius": "Muse",
+      "rateyourmusic": "muse",
+      "soundcloud": "https://soundcloud.com/muse",
+      "qobuz": "75739",
+      "napster": "muse-7035",
+      "wikidata": "Q22151",
+      "youtube": "UCw8jIQzB2mdvvo_CVplLxug"
+    }
   },
   "lastfm": {
     "id": "Muse/_/Fillip",

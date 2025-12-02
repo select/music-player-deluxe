@@ -2,7 +2,7 @@
   "youtubeId": "COx7NEy09t8",
   "title": "OH MY GOD",
   "artist": "Sevdaliza",
-  "lastFetched": "2025-11-30T22:46:48.893Z",
+  "lastFetched": "2025-12-02T00:50:10.080Z",
   "lastfm": {
     "title": "Oh My God",
     "artist": "Sevdaliza",
@@ -34,6 +34,21 @@
       "pop",
       "trap",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2020-01-29",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "allmusic": "mn0003433633",
+      "bandcamp": "https://sevdaliza.bandcamp.com/",
+      "discogs": "4223984",
+      "spotify": "5MraexJKZDrQYzS98kNwie",
+      "deezer": "5683028",
+      "lastfm": "Sevdaliza",
+      "genius": "Sevdaliza",
+      "rateyourmusic": "sevdaliza",
+      "soundcloud": "https://soundcloud.com/sevdaliza",
+      "wikidata": "Q28112930",
+      "youtube": "UCONnf7g7QfOqzM3etLECtUA"
+    }
   }
 }

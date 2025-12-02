@@ -2,7 +2,7 @@
   "youtubeId": "5AqNAISmXbk",
   "title": "pieces",
   "artist": "Daughtry",
-  "lastFetched": "2025-11-23T16:28:18.283Z",
+  "lastFetched": "2025-12-02T00:27:08.591Z",
   "odesli": {
     "amazonMusic": "B0CX67XL9F",
     "amazonStore": "B0CX67XL9F",
@@ -29,7 +29,20 @@
       "hard rock"
     ],
     "trackMbid": "ab28a8f1-ae58-4f2d-b61a-136238b6cd72",
-    "artistMbid": "21e3292e-dac8-4609-b57d-402f926aa41f"
+    "artistMbid": "21e3292e-dac8-4609-b57d-402f926aa41f",
+    "releasedAt": "2024-03-22",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "0lR3l0GzWxxig5oL9699jT"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000567153",
+      "discogs": "705086",
+      "spotify": "5P5FTygHyx2G57oszR3Wot",
+      "lastfm": "Daughtry",
+      "soundcloud": "daughtry",
+      "youtube": "UCkrV3aukHg-BB2xT8D3Hwyw"
+    }
   },
   "lastfm": {
     "id": "Daughtry/_/pieces",

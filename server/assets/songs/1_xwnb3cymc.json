@@ -2,7 +2,7 @@
   "youtubeId": "1_xwnb3cymc",
   "title": "Ooh La La",
   "artist": "Faces",
-  "lastFetched": "2025-11-30T19:29:16.295Z",
+  "lastFetched": "2025-12-02T00:34:58.804Z",
   "odesli": {
     "boomplay": "5823666",
     "soundcloud": "faces3/ooh-la-la-2",
@@ -43,6 +43,18 @@
       "folk rock",
       "hard rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1973",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000058372",
+      "discogs": "289040",
+      "spotify": "3v4feUQnU3VEUqFrjmtekL",
+      "deezer": "2444",
+      "lastfm": "Faces",
+      "rateyourmusic": "faces",
+      "wikidata": "Q1136388",
+      "youtube": "UCmQ1F3mlOlAR4Njn39lf9cw"
+    }
   }
 }

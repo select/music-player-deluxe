@@ -1,0 +1,76 @@
+{
+  "youtubeId": "Ldh04Olynrw",
+  "title": "Sweet Charity",
+  "artist": "Mr. Bungle",
+  "lastFetched": "2025-12-02T01:05:23.700Z",
+  "odesli": {
+    "amazonMusic": "B0041VFS92",
+    "amazonStore": "B0041VFS92",
+    "pandora": "TR:42311",
+    "tidal": "4428809",
+    "youtube": "Ldh04Olynrw",
+    "youtubeMusic": "Ldh04Olynrw"
+  },
+  "lastfm": {
+    "id": "Mr.+Bungle/_/Sweet+Charity",
+    "listeners": 169315,
+    "playcount": 961368,
+    "title": "Sweet Charity",
+    "artist": "Mr. Bungle",
+    "mbid": "303fc65d-8f98-49ab-8527-8e0f0625b0da",
+    "artistMbid": "277e21a9-2d64-452d-96c4-2d23a7af5891",
+    "tags": [
+      "experimental",
+      "avant-garde",
+      "mike patton",
+      "alternative",
+      "experimental rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "25b03e08-3a3a-488e-9a36-5a0a7e478459",
+    "artistMbid": "277e21a9-2d64-452d-96c4-2d23a7af5891",
+    "releaseCount": 10,
+    "genres": [
+      "doo-wop",
+      "electronic",
+      "experimental",
+      "experimental rock",
+      "heavy metal",
+      "lounge",
+      "punk",
+      "rock",
+      "rock and roll"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "art rock",
+      "avant-garde",
+      "avant-garde metal",
+      "experimental",
+      "experimental rock",
+      "funk metal",
+      "funk rock",
+      "progressive metal",
+      "rock",
+      "thrash metal",
+      "zolo"
+    ],
+    "releasedAt": "1999-07-13",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "7GPkaA7ZYLKOsZylGPoxDQ"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000506513",
+      "bandcamp": "https://mrbungle.bandcamp.com/",
+      "discogs": "202323",
+      "spotify": "2zq0uqN9Wq12tqrQQt1ozw",
+      "deezer": "2193",
+      "lastfm": "Mr.+Bungle",
+      "genius": "Mr-bungle",
+      "rateyourmusic": "mr__bungle",
+      "wikidata": "Q1147061"
+    }
+  }
+}

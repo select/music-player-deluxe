@@ -2,7 +2,7 @@
   "youtubeId": "NN41klNPKvA",
   "title": "Marijuana",
   "artist": "Chrome Sparks",
-  "lastFetched": "2025-11-30T22:56:50.319Z",
+  "lastFetched": "2025-12-02T01:08:09.187Z",
   "odesli": {
     "amazonMusic": "B0CJT48822",
     "amazonStore": "B0CJT48822",
@@ -33,6 +33,25 @@
     "genres": [
       "chillwave",
       "downtempo"
-    ]
+    ],
+    "releasedAt": "2013-03-04",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "bandcamp": "https://chromesparks.bandcamp.com/track/marijuana-2",
+      "spotify": "4MPyyq69wHFvmjCKSpN4Ri",
+      "deezer": "2471553011"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003093947",
+      "bandcamp": "https://chromesparks.bandcamp.com/",
+      "discogs": "2428555",
+      "spotify": "2pTCZ9C1fXdaVlv6d5EIXM",
+      "deezer": "2669971",
+      "lastfm": "Chrome%20Sparks",
+      "genius": "Chrome-sparks",
+      "rateyourmusic": "chrome_sparks",
+      "soundcloud": "https://soundcloud.com/chrome-sparks",
+      "youtube": "UCUmVLdKm_-Z9DmWfBIj80Tg"
+    }
   }
 }

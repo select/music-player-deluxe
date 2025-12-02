@@ -2,7 +2,7 @@
   "youtubeId": "0BfUDyvdTSE",
   "title": "Moon River",
   "artist": "Audrey Hepburn",
-  "lastFetched": "2025-11-30T22:34:31.105Z",
+  "lastFetched": "2025-12-02T00:33:06.037Z",
   "lastfm": {
     "title": "Moon River",
     "artist": "Audrey Hepburn",
@@ -22,6 +22,23 @@
   "musicbrainz": {
     "trackMbid": "f49597c9-77f1-4c02-8580-d38cb39bce5b",
     "artistMbid": "7ddb6325-7022-4d30-a585-78a8eab631ab",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "1994",
+    "artistCountry": "GB",
+    "externalIds": {
+      "allmusic": "mn0000050156",
+      "discogs": "1130742",
+      "spotify": "16eV2TebyEhqaDRFEZJ9h8",
+      "lastfm": "Audrey%20Hepburn"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000050156",
+      "discogs": "1130742",
+      "spotify": "16eV2TebyEhqaDRFEZJ9h8",
+      "deezer": "282853",
+      "lastfm": "Audrey%20Hepburn",
+      "rateyourmusic": "audrey_hepburn",
+      "wikidata": "Q42786"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "HZm6XlFxsaE",
   "title": "Do All Dogs Go to Heaven?",
   "artist": "Bombskare",
-  "lastFetched": "2025-11-30T20:51:06.691Z",
+  "lastFetched": "2025-12-02T00:59:07.631Z",
   "odesli": {
     "amazonMusic": "B00BBRNOF4",
     "amazonStore": "B00BBRNOF4",
@@ -30,6 +30,14 @@
     "releaseCount": 2,
     "artistGenres": [
       "ska"
-    ]
+    ],
+    "releasedAt": "2016-06-18",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "3469065",
+      "spotify": "4UxXK4oF3ph8Q43dEWPU5U",
+      "deezer": "483661",
+      "soundcloud": "https://soundcloud.com/bombskare"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "EIUeZ4OqLXU",
   "title": "Falling",
   "artist": "Julee Cruise",
-  "lastFetched": "2025-11-30T21:51:07.303Z",
+  "lastFetched": "2025-12-02T00:53:35.290Z",
   "lastfm": {
     "summary": "\"Falling\" is the first single from Julee Cruise's 1989 debut album Floating into the Night. The instrumental version of the song became more well known as the theme for the cult television series, Twin Peaks, and won a Grammy Award for Best Pop Instrumental.\n\nThe song itself reached number 11 on the Billboard Alternative charts, number 7 in the UK, and number one in Australia. A remixed version was also released. It is arguably the most successful (at least in commercial terms) of any song of the dream pop genre. <a href=\"http://www.last.fm/music/Julee+Cruise/_/Falling\">Read more on Last.fm</a>.",
     "id": "Julee+Cruise/_/Falling",
@@ -33,6 +33,18 @@
     ],
     "artistGenres": [
       "dream pop"
-    ]
+    ],
+    "releasedAt": "1989",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000254972",
+      "discogs": "14362",
+      "spotify": "4Pt1HZtuJwrQB8l0ES5iTX",
+      "deezer": "3031",
+      "lastfm": "Julee+Cruise",
+      "genius": "Julee-cruise",
+      "rateyourmusic": "julee-cruise",
+      "wikidata": "Q272496"
+    }
   }
 }

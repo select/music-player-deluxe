@@ -2,7 +2,7 @@
   "youtubeId": "IHF5rXcp6-M",
   "title": "I DM U",
   "artist": "Loraine James",
-  "lastFetched": "2025-11-19T13:55:17.296Z",
+  "lastFetched": "2025-12-02T01:00:12.621Z",
   "odesli": {
     "amazonMusic": "B0C69ZBTJ6",
     "amazonStore": "B0C69ZBTJ6",
@@ -31,6 +31,17 @@
   },
   "musicbrainz": {
     "trackMbid": "aa87448d-e0a9-4d0c-b982-6d5cf7778bf8",
-    "artistMbid": "5c952c8c-6791-4df4-8dae-f65678e1e900"
+    "artistMbid": "5c952c8c-6791-4df4-8dae-f65678e1e900",
+    "releasedAt": "2023-09-15",
+    "externalIdsArtist": {
+      "bandcamp": "https://lorainejames.bandcamp.com/",
+      "discogs": "6858444",
+      "spotify": "536qHynzDH1QviwhWY9dE3",
+      "deezer": "14499245",
+      "lastfm": "Loraine+James",
+      "soundcloud": "https://soundcloud.com/lorainejames",
+      "wikidata": "Q96620298",
+      "youtube": "UCcNXCJCHrXEmtR071dR4kPA"
+    }
   }
 }

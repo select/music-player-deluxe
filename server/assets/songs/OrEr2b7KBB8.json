@@ -1,7 +1,7 @@
 {
   "youtubeId": "OrEr2b7KBB8",
   "title": "GERRY RAFFERTY ► Right Down the Line 【HD】",
-  "lastFetched": "2025-11-30T20:33:42.112Z",
+  "lastFetched": "2025-12-02T01:10:57.799Z",
   "ai": {
     "title": "Right Down the Line",
     "artist": "GERRY RAFFERTY"
@@ -41,6 +41,21 @@
       "rock",
       "singer-songwriter",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "1978",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "7IiHRhxpZ1sfNl6yZZB6gu"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000945196",
+      "discogs": "253945",
+      "spotify": "7tjbDPvrdvDshcpEMXKRVb",
+      "deezer": "7188",
+      "lastfm": "Gerry+Rafferty",
+      "genius": "Gerry-rafferty",
+      "rateyourmusic": "gerry_rafferty",
+      "wikidata": "Q110919"
+    }
   }
 }

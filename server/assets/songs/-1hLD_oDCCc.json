@@ -4,7 +4,7 @@
   "album": "Bang Bang",
   "duration": 170,
   "youtubeId": "-1hLD_oDCCc",
-  "lastFetched": "2025-11-19T03:38:43.492Z",
+  "lastFetched": "2025-12-02T00:06:26.228Z",
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
@@ -12,7 +12,17 @@
     ],
     "trackMbid": "eb24a390-f124-4c69-8046-bb6164e80f9e",
     "artistMbid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2024-11-05",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001479680",
+      "bandcamp": "https://shogunaudiofriction.bandcamp.com/",
+      "discogs": "4124",
+      "spotify": "5xdizdgbQQvGAgAolGhpXr",
+      "soundcloud": "djfriction",
+      "youtube": "UCRbxsUB7dk2XvAuGFRF1UlQ"
+    }
   },
   "lastfm": {
     "id": "Friction/_/Bang+Bang",

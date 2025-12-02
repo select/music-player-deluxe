@@ -2,7 +2,7 @@
   "youtubeId": "Si_ppckTo-s",
   "title": "Temperance",
   "artist": "Marcus Intalex",
-  "lastFetched": "2025-11-23T16:39:36.267Z",
+  "lastFetched": "2025-12-02T01:16:55.034Z",
   "odesli": {
     "amazonMusic": "B0CD2STDQ8",
     "amazonStore": "B0CD2STDQ8",
@@ -30,7 +30,17 @@
       "drum and bass"
     ],
     "trackMbid": "4a8b193f-0e91-44eb-82a1-d9254816e863",
-    "artistMbid": "2dfab9de-02f2-4aaf-b339-065fddcc9208"
+    "artistMbid": "2dfab9de-02f2-4aaf-b339-065fddcc9208",
+    "releasedAt": "2004-01-01",
+    "externalIdsArtist": {
+      "allmusic": "mn0000673582",
+      "discogs": "13031",
+      "spotify": "1LUyPCV4OiooCwffEq5ftD",
+      "deezer": "417295",
+      "rateyourmusic": "marcus_intalex",
+      "soundcloud": "https://soundcloud.com/marcusintalex",
+      "wikidata": "Q60694463"
+    }
   },
   "lastfm": {
     "id": "Marcus+Intalex/_/Temperance",

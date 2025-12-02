@@ -2,7 +2,7 @@
   "youtubeId": "6UtCQIzgEkI",
   "title": "Anti Loudness",
   "artist": "Toto Chiavetta",
-  "lastFetched": "2025-11-30T22:49:12.899Z",
+  "lastFetched": "2025-12-02T00:29:19.256Z",
   "odesli": {
     "amazonMusic": "B0B36RRZRV",
     "amazonStore": "B0B36RRZRV",
@@ -25,6 +25,17 @@
   "musicbrainz": {
     "trackMbid": "20810cf3-f320-48ad-ac2b-e155bf2eb842",
     "artistMbid": "806b9260-9d72-49be-ba24-d1e75c36a3ed",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2020-10-30",
+    "artistCountry": "IT",
+    "externalIdsTrack": {
+      "spotify": "7zsBOr6MDyxAuN2sfFFrhy"
+    },
+    "externalIdsArtist": {
+      "bandcamp": "https://totochiavetta.bandcamp.com/",
+      "discogs": "1541978",
+      "spotify": "0DBwNrdGSluzJl24pHRiOk",
+      "soundcloud": "toto-chiavetta"
+    }
   }
 }

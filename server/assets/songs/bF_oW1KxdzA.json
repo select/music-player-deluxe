@@ -1,0 +1,43 @@
+{
+  "youtubeId": "bF_oW1KxdzA",
+  "title": "Local H - All The Kids Are Right",
+  "lastFetched": "2025-12-01T11:50:07.032Z",
+  "ai": {
+    "title": "All The Kids Are Right",
+    "artist": "Local H"
+  },
+  "lastfm": {
+    "id": "Local+H/_/All+The+Kids+Are+Right",
+    "listeners": 55363,
+    "playcount": 232923,
+    "title": "All The Kids Are Right",
+    "artist": "Local H",
+    "tags": [
+      "alternative rock",
+      "underrated",
+      "local h",
+      "alternative",
+      "should be more appreciated"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "886c0641-b2c7-403e-9038-ec87347b318d",
+    "artistMbid": "baaf92f5-f2b2-4f51-9723-abed41a257f8",
+    "releaseCount": 5,
+    "genres": [
+      "alternative rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "noise rock",
+      "post-grunge",
+      "post-hardcore",
+      "punk rock",
+      "slacker rock"
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "RpfudOZ_pjU",
   "title": "Hey Lover",
   "artist": "Blake Mills",
-  "lastFetched": "2025-11-30T20:49:20.131Z",
+  "lastFetched": "2025-12-02T01:15:38.882Z",
   "odesli": {
     "amazonMusic": "B00617ADNK",
     "amazonStore": "B00617ADNK",
@@ -36,6 +36,18 @@
     ],
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "releasedAt": "2010-07-06",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "6VZ4oBS55HXtemdH1MjThN"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000270262",
+      "discogs": "848055",
+      "spotify": "4LhV33vJvXmFGSM3m5RzUR",
+      "deezer": "465928",
+      "wikidata": "Q4924438"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "0pDGZtkpAPY",
   "title": "Robohands - Green [Full Album]",
-  "lastFetched": "2025-11-30T19:52:11.632Z",
+  "lastFetched": "2025-12-02T00:34:06.255Z",
   "ai": {
     "title": "Green",
     "artist": "Robohands"
@@ -21,6 +21,16 @@
   "musicbrainz": {
     "trackMbid": "1f23ef59-8465-4012-ac88-b2802e63c525",
     "artistMbid": "ccf9b52e-27f3-4737-baa1-7234df105c61",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2018-04-23",
+    "externalIdsArtist": {
+      "allmusic": "mn0004001197",
+      "bandcamp": "https://robohands.bandcamp.com/",
+      "discogs": "6509222",
+      "spotify": "5qRtt9DQNy64ig66kCWFjX",
+      "deezer": "14851723",
+      "lastfm": "Robohands",
+      "rateyourmusic": "robohands"
+    }
   }
 }

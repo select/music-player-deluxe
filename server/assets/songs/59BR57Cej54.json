@@ -2,7 +2,7 @@
   "youtubeId": "59BR57Cej54",
   "title": "The Blessing Song",
   "artist": "Michael White",
-  "lastFetched": "2025-11-30T20:54:50.720Z",
+  "lastFetched": "2025-12-02T00:39:36.328Z",
   "odesli": {
     "soundcloud": "michael-white-official/the-blessing-song",
     "tidal": "109122450",
@@ -27,6 +27,13 @@
     "releaseCount": 3,
     "artistGenres": [
       "jazz"
-    ]
+    ],
+    "releasedAt": "1972",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000468572",
+      "discogs": "254823",
+      "wikidata": "Q1929810"
+    }
   }
 }

@@ -1,0 +1,47 @@
+{
+  "youtubeId": "YIhV69a0bPc",
+  "title": "Miss Viki",
+  "artist": "Stanley Cowell Trio",
+  "lastFetched": "2025-12-01T13:02:31.985Z",
+  "odesli": {
+    "amazonMusic": "B004MZJOCO",
+    "amazonStore": "B004MZJOCO",
+    "anghami": "29197413",
+    "boomplay": "2789042",
+    "deezer": "5482133",
+    "napster": "tra.108171340",
+    "pandora": "TR:11082503",
+    "soundcloud": "stanley-cowell-trio/miss-viki",
+    "spotify": "0e133pg4C4btj50mLlkHHf",
+    "tidal": "13345895",
+    "yandex": "37917151",
+    "youtube": "YIhV69a0bPc",
+    "youtubeMusic": "YIhV69a0bPc"
+  },
+  "lastfm": {
+    "id": "Stanley+Cowell+Trio/_/Miss+Viki",
+    "listeners": 5803,
+    "playcount": 11973,
+    "title": "Miss Viki",
+    "artist": "Stanley Cowell Trio",
+    "tags": [
+      "jazz",
+      "ecm",
+      "xvi",
+      "gammarec",
+      "freepurp1e"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5288f6e6-88ec-4997-8878-1713f9530669",
+    "artistMbid": "7ea59c66-f478-4740-b157-cd0256af21bb",
+    "releaseCount": 3,
+    "genres": [
+      "jazz",
+      "soul jazz"
+    ],
+    "artistGenres": [
+      "jazz"
+    ]
+  }
+}

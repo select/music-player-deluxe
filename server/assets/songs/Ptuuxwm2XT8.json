@@ -3,7 +3,7 @@
   "artist": "Group Listening",
   "duration": 434,
   "youtubeId": "Ptuuxwm2XT8",
-  "lastFetched": "2025-11-23T16:37:59.563Z",
+  "lastFetched": "2025-12-02T01:12:21.048Z",
   "odesli": {
     "amazonMusic": "B0CYQY8M4B",
     "amazonStore": "B0CYQY8M4B",
@@ -30,7 +30,14 @@
     ],
     "trackMbid": "2aa6d715-53ad-42dc-994b-825638d1b3b6",
     "artistMbid": "c23d3f55-c1b4-40c6-b191-ebf7177a4656",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2019-11-01",
+    "externalIdsArtist": {
+      "bandcamp": "https://grouplistening.bandcamp.com/",
+      "discogs": "6484569",
+      "spotify": "1dYBVjbhVOu9Y4mmxDCPoe",
+      "lastfm": "Group+Listening"
+    }
   },
   "lastfm": {
     "id": "Group+Listening/_/What%27s+A+Girl+To+Do",

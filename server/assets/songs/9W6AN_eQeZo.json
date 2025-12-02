@@ -1,0 +1,53 @@
+{
+  "youtubeId": "9W6AN_eQeZo",
+  "title": "U Got That",
+  "artist": "Halogen",
+  "lastFetched": "2025-12-02T00:46:13.470Z",
+  "odesli": {
+    "amazonMusic": "B07XQPHLDN",
+    "amazonStore": "B07XQPHLDN",
+    "anghami": "57928810",
+    "boomplay": "17983993",
+    "pandora": "TR:107555402",
+    "soundcloud": "pinnaclecollective/halogen-u-got-that",
+    "spotify": "4RiAKw0In5ddPdWlD2SoUd",
+    "tidal": "117602767",
+    "yandex": "57787178",
+    "youtube": "9W6AN_eQeZo",
+    "youtubeMusic": "9W6AN_eQeZo"
+  },
+  "lastfm": {
+    "id": "Halogen/_/U+Got+That",
+    "listeners": 98712,
+    "playcount": 861429,
+    "title": "U Got That",
+    "artist": "Halogen",
+    "mbid": "7cffb912-dc0f-47a1-82e3-9187a717a4b4",
+    "artistMbid": "423cbdf2-7d74-4b5e-8d8f-4633180d9f7c",
+    "tags": [
+      "g house",
+      "getto house",
+      "ricardo milos"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ae13d875-0e09-41e3-ab00-f44fad5ff88b",
+    "artistMbid": "ef55e7f1-8858-43d4-a42b-95b271318d45",
+    "releaseCount": 3,
+    "genres": [
+      "g-house",
+      "tech house"
+    ],
+    "releasedAt": "2017-08-15",
+    "externalIdsTrack": {
+      "spotify": "4RiAKw0In5ddPdWlD2SoUd",
+      "deezer": "751755022"
+    },
+    "externalIdsArtist": {
+      "discogs": "5144143",
+      "spotify": "0Za5KjrhmN4OYMr04f3g1e",
+      "deezer": "364442",
+      "soundcloud": "https://soundcloud.com/halogen_official"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "7nsYpjmwsr0",
   "title": "Excitation",
   "artist": "Brutus",
-  "lastFetched": "2025-11-30T22:16:14.058Z",
+  "lastFetched": "2025-12-02T00:43:58.803Z",
   "lastfm": {
     "title": "excitation",
     "artist": "Brutus",
@@ -22,6 +22,8 @@
   "musicbrainz": {
     "trackMbid": "7b6b7ffd-3aaa-4c59-9dea-07255e62a373",
     "artistMbid": "e9c0afe0-7659-4242-ae99-cefa4b943af0",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2012",
+    "artistCountry": "US"
   }
 }

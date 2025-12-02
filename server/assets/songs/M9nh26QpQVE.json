@@ -2,7 +2,7 @@
   "youtubeId": "M9nh26QpQVE",
   "title": "Lie Detection",
   "artist": "Proxima",
-  "lastFetched": "2025-11-30T23:10:33.047Z",
+  "lastFetched": "2025-12-02T01:06:09.378Z",
   "lastfm": {
     "id": "Proxima/_/Lie+Detection",
     "listeners": 2062,
@@ -18,6 +18,15 @@
     "artistGenres": [
       "dubstep",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2012-09",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "discogs": "1105767",
+      "spotify": "2B735h8ZPvLjmWtThdZP8Z",
+      "deezer": "163766",
+      "soundcloud": "https://soundcloud.com/proxima-music",
+      "youtube": "UCpk3IrEVR6UF7n1_5Huga-w"
+    }
   }
 }

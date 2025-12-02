@@ -2,7 +2,7 @@
   "youtubeId": "HuO3wwLuF0w",
   "title": "Kerosene",
   "artist": "Big Black",
-  "lastFetched": "2025-11-30T22:27:24.576Z",
+  "lastFetched": "2025-12-02T00:59:40.952Z",
   "odesli": {
     "anghami": "24383209",
     "pandora": "TR:7907203",
@@ -46,6 +46,20 @@
       "post-hardcore",
       "post-punk",
       "punk"
-    ]
+    ],
+    "releasedAt": "1986-01",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "6tHZNpTqtOy64NMWqxMCjT"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000758520",
+      "bandcamp": "https://bigblack.bandcamp.com/",
+      "discogs": "55961",
+      "deezer": "10754",
+      "rateyourmusic": "big_black",
+      "wikidata": "Q572821",
+      "youtube": "UCqGF7gRwC9ZFxWIv0uWUl_g"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "4vYEQGsD8fw",
   "title": "Starstruck",
   "artist": "Santigold",
-  "lastFetched": "2025-11-23T16:28:05.677Z",
+  "lastFetched": "2025-12-02T00:39:20.783Z",
   "odesli": {
     "amazonMusic": "B0017T6H4Q",
     "amazonStore": "B0017T6H4Q",
@@ -34,7 +34,19 @@
       "pop"
     ],
     "trackMbid": "0d1d2c8a-78ec-39c6-aab3-bb492c5c3204",
-    "artistMbid": "97b20fe3-0924-4a5f-9955-d0b5c5f9587f"
+    "artistMbid": "97b20fe3-0924-4a5f-9955-d0b5c5f9587f",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001502854",
+      "discogs": "822140",
+      "spotify": "6ZW2WjjlDrwwEgT4ZexufR",
+      "deezer": "170008",
+      "lastfm": "Santigold",
+      "genius": "Santigold",
+      "rateyourmusic": "santigold",
+      "soundcloud": "https://soundcloud.com/santigold",
+      "wikidata": "Q240343"
+    }
   },
   "lastfm": {
     "id": "Santigold/_/Starstruck",

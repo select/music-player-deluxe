@@ -3,7 +3,7 @@
   "artist": "Leroy Ace Miller",
   "duration": 285,
   "youtubeId": "PDwwLILhzdg",
-  "lastFetched": "2025-11-23T15:40:01.279Z",
+  "lastFetched": "2025-12-02T01:11:17.308Z",
   "odesli": {
     "amazonMusic": "B07667B47T",
     "amazonStore": "B07667B47T",
@@ -19,6 +19,11 @@
   "musicbrainz": {
     "trackMbid": "20e4ebf8-62e7-44ba-8d8f-011d4014a4a2",
     "artistMbid": "3abb1309-2b2c-4575-97a9-5b99ab6f3638",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2017-02-17",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "2120767"
+    }
   }
 }

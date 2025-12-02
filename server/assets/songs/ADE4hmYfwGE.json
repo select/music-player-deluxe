@@ -2,7 +2,7 @@
   "youtubeId": "ADE4hmYfwGE",
   "title": "Ode to an African Violet",
   "artist": "Mort Garson",
-  "lastFetched": "2025-11-30T22:23:41.433Z",
+  "lastFetched": "2025-12-02T00:47:07.307Z",
   "odesli": {
     "amazonMusic": "B07PF957JC",
     "amazonStore": "B07PF957JC",
@@ -42,6 +42,17 @@
       "moogsploitation",
       "progressive electronic",
       "psychedelic rock"
-    ]
+    ],
+    "releasedAt": "1976",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000597668",
+      "bandcamp": "https://mortgarson.bandcamp.com/",
+      "discogs": "76089",
+      "spotify": "0WmzT6tMLhdST5BfYagbha",
+      "deezer": "1197618",
+      "wikidata": "Q3324460",
+      "youtube": "UCcnjrxkU2gORV90MTBcEjaQ"
+    }
   }
 }

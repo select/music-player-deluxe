@@ -1,7 +1,7 @@
 {
   "youtubeId": "71Gt46aX9Z4",
   "title": "Gary B.B. Coleman - The Sky is Crying",
-  "lastFetched": "2025-11-30T20:37:32.492Z",
+  "lastFetched": "2025-12-02T00:42:18.632Z",
   "ai": {
     "title": "The Sky is Crying",
     "artist": "Gary B.B. Coleman"
@@ -26,6 +26,13 @@
       "blues",
       "electric blues",
       "soul blues"
-    ]
+    ],
+    "releasedAt": "1992",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000987493",
+      "discogs": "1786210",
+      "wikidata": "Q5524628"
+    }
   }
 }

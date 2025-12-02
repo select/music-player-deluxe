@@ -1,7 +1,7 @@
 {
   "youtubeId": "03hC_Ml8aAM",
   "title": "TV On The Radio  Wolf Like Me",
-  "lastFetched": "2025-11-30T20:56:14.019Z",
+  "lastFetched": "2025-12-02T00:32:55.210Z",
   "ai": {
     "title": "Wolf Like Me",
     "artist": "TV On The Radio"
@@ -40,6 +40,25 @@
       "noise pop",
       "psychedelic soul",
       "shoegaze"
-    ]
+    ],
+    "releasedAt": "2006-07-03",
+    "artistCountry": "US",
+    "externalIds": {
+      "allmusic": "mn0000012972",
+      "discogs": "172047",
+      "spotify": "3HJIB8sYPyxrFGuwvKXSLR",
+      "lastfm": "TV+on+the+Radio"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000012972",
+      "discogs": "172047",
+      "spotify": "3HJIB8sYPyxrFGuwvKXSLR",
+      "deezer": "1239",
+      "lastfm": "TV+on+the+Radio",
+      "genius": "Tv-on-the-radio",
+      "rateyourmusic": "tv_on_the_radio",
+      "napster": "tv-on-the-radio",
+      "wikidata": "Q829138"
+    }
   }
 }

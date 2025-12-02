@@ -2,7 +2,7 @@
   "youtubeId": "PDxTX1zZ9NA",
   "title": "Technautic",
   "artist": "Secret Circuit",
-  "lastFetched": "2025-11-30T22:24:01.299Z",
+  "lastFetched": "2025-12-02T01:11:19.287Z",
   "odesli": {
     "amazonMusic": "B0BXSRHQ3Z",
     "amazonStore": "B0BXSRHQ3Z",
@@ -27,6 +27,13 @@
   "musicbrainz": {
     "trackMbid": "c37798c2-6c81-4d24-9a76-41741dddc2e1",
     "artistMbid": "9e149893-bb90-4669-a8ce-e35dd42eea57",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2023-04-10",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://secretcircuit.bandcamp.com/",
+      "discogs": "1459455",
+      "rateyourmusic": "secret_circuit"
+    }
   }
 }

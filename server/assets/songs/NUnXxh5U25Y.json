@@ -2,7 +2,7 @@
   "youtubeId": "NUnXxh5U25Y",
   "title": "Everything In Its Right Place",
   "artist": "Radiohead",
-  "lastFetched": "2025-11-30T21:59:24.597Z",
+  "lastFetched": "2025-12-02T01:08:25.616Z",
   "odesli": {
     "amazonMusic": "B01DPRQ0TY",
     "amazonStore": "B01DPRQ0TY",
@@ -52,6 +52,21 @@
       "indie rock",
       "post-britpop",
       "rock"
-    ]
+    ],
+    "releasedAt": "2000",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000326249",
+      "bandcamp": "https://radiohead.bandcamp.com/",
+      "discogs": "3840",
+      "spotify": "4Z8W4fKeB5YxbusRsdQVPb",
+      "deezer": "399",
+      "lastfm": "Radiohead",
+      "genius": "Radiohead",
+      "rateyourmusic": "radiohead",
+      "soundcloud": "https://soundcloud.com/radiohead",
+      "wikidata": "Q44190",
+      "youtube": "UCr_iyUANcn9OX_yy9piYoLw"
+    }
   }
 }

@@ -1,0 +1,59 @@
+{
+  "youtubeId": "KWluXbWpbVw",
+  "title": "Flores y Tamales",
+  "artist": "Calexico",
+  "lastFetched": "2025-12-02T01:03:29.174Z",
+  "odesli": {
+    "amazonMusic": "B083VXL1WS",
+    "amazonStore": "B083VXL1WS",
+    "appleMusic": "1495030013",
+    "itunes": "1495030013",
+    "pandora": "TR:11318975",
+    "soundcloud": "casadecalexico/flores-y-tamales-1",
+    "spotify": "6gucJfZpSTJp3g0Do75dgM",
+    "tidal": "128216231",
+    "youtube": "KWluXbWpbVw",
+    "youtubeMusic": "KWluXbWpbVw"
+  },
+  "lastfm": {
+    "id": "Calexico/_/Flores+y+Tamales",
+    "listeners": 10423,
+    "playcount": 37624,
+    "title": "Flores y Tamales",
+    "artist": "Calexico",
+    "mbid": "12f1de3f-baff-4403-88ff-2806d6628f2b",
+    "artistMbid": "5e372a49-5672-4fb8-ba14-18c90780c4f9",
+    "tags": [
+      "alt-country",
+      "indie",
+      "folk",
+      "americana",
+      "2018"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7334fdc8-0569-4a7f-96be-9e17d672c2bc",
+    "artistMbid": "5e372a49-5672-4fb8-ba14-18c90780c4f9",
+    "releaseCount": 8,
+    "artistGenres": [
+      "americana",
+      "country",
+      "folk rock",
+      "indie folk",
+      "indie rock"
+    ],
+    "releasedAt": "2018-01-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000944293",
+      "bandcamp": "https://casadecalexico.bandcamp.com/",
+      "discogs": "9856",
+      "spotify": "1OmdWpAh1pucAuZPzJaxIJ",
+      "deezer": "1596",
+      "lastfm": "Calexico",
+      "genius": "Calexico",
+      "rateyourmusic": "calexico",
+      "wikidata": "Q1026652"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "youtubeId": "HM562yQyVT8",
+  "title": "Two Roomed Motel",
+  "artist": "Scott Gilmore",
+  "lastFetched": "2025-12-02T00:58:52.441Z",
+  "odesli": {
+    "amazonMusic": "B07KQV2N8K",
+    "amazonStore": "B07KQV2N8K",
+    "pandora": "TR:17038681",
+    "soundcloud": "scottgilmoremusic/two-roomed-motel-2",
+    "tidal": "99469620",
+    "youtube": "HM562yQyVT8",
+    "youtubeMusic": "HM562yQyVT8"
+  },
+  "lastfm": {
+    "id": "Scott+Gilmore/_/Two+Roomed+Motel",
+    "listeners": 12902,
+    "playcount": 33311,
+    "title": "Two Roomed Motel",
+    "artist": "Scott Gilmore",
+    "mbid": "41226dc7-ebf7-496e-a264-82ecfd1b0017",
+    "artistMbid": "cf8d1aad-36a6-4527-8eaf-17d940a5600e",
+    "tags": [
+      "experimental",
+      "electronica",
+      "usa"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b307268d-fd20-4049-960a-c17e09a1551e",
+    "artistMbid": "cf8d1aad-36a6-4527-8eaf-17d940a5600e",
+    "releaseCount": 2,
+    "releasedAt": "2019-03-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://scottgilmore.bandcamp.com/",
+      "discogs": "5824748",
+      "lastfm": "Scott+Gilmore",
+      "soundcloud": "https://soundcloud.com/scottgilmoremusic"
+    }
+  }
+}

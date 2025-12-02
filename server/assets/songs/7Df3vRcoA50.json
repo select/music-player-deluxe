@@ -2,7 +2,7 @@
   "youtubeId": "7Df3vRcoA50",
   "title": "Bruttosozialprodukt",
   "artist": "Geier Sturzflug",
-  "lastFetched": "2025-11-30T22:40:52.506Z",
+  "lastFetched": "2025-12-02T00:42:42.284Z",
   "odesli": {
     "amazonMusic": "B0BYTGV4DD",
     "amazonStore": "B0BYTGV4DD",
@@ -41,6 +41,18 @@
     ],
     "artistGenres": [
       "neue deutsche welle"
-    ]
+    ],
+    "releasedAt": "1983-01-24",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000556477",
+      "discogs": "134533",
+      "spotify": "3vQGJGekBpxyOrob92qTcE",
+      "deezer": "16591",
+      "lastfm": "Geier+Sturzflug",
+      "rateyourmusic": "geier_sturzflug",
+      "wikidata": "Q1498683",
+      "youtube": "UCePxlqRbDCbO2f5pGJXGC_Q"
+    }
   }
 }

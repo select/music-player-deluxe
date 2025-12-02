@@ -2,7 +2,7 @@
   "youtubeId": "6XQSEqQowxU",
   "title": "Divergente",
   "artist": "Santa Salut",
-  "lastFetched": "2025-11-30T21:44:28.411Z",
+  "lastFetched": "2025-12-02T00:41:29.650Z",
   "odesli": {
     "amazonMusic": "B0FP6XYRN9",
     "amazonStore": "B0FP6XYRN9",
@@ -24,6 +24,14 @@
   "musicbrainz": {
     "trackMbid": "ec4fd89f-4f8b-42d9-b412-2dee891f5739",
     "artistMbid": "2e59c532-a3cd-444a-8ca4-2835e58deb4b",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-02-27",
+    "artistCountry": "ES",
+    "externalIdsArtist": {
+      "allmusic": "mn0004018959",
+      "spotify": "75vabMROpVyiTX4wv3iHFH",
+      "deezer": "61970542",
+      "wikidata": "Q86535496"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "MCNIBCPj5FU",
   "title": "Teeth",
   "artist": "Mallrat",
-  "lastFetched": "2025-11-30T23:12:34.950Z",
+  "lastFetched": "2025-12-02T01:06:17.484Z",
   "odesli": {
     "amazonMusic": "B09R788GGZ",
     "amazonStore": "B09R788GGZ",
@@ -41,6 +41,19 @@
       "bedroom pop",
       "indie pop",
       "indietronica"
-    ]
+    ],
+    "releasedAt": "2022-03-02",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0003521920",
+      "discogs": "5320579",
+      "spotify": "4OSArit7O2Jaj4mgf3YN7A",
+      "deezer": "9324742",
+      "lastfm": "Mallrat",
+      "genius": "Mallrat",
+      "soundcloud": "https://soundcloud.com/lilmallrat",
+      "wikidata": "Q47500351",
+      "youtube": "UCK2codDA94XHf66dbfSy6vw?spfreload=10"
+    }
   }
 }

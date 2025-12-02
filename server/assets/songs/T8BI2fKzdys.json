@@ -2,7 +2,7 @@
   "youtubeId": "T8BI2fKzdys",
   "title": "Your God Is Dead",
   "artist": "Really Slow Motion",
-  "lastFetched": "2025-11-30T23:26:32.320Z",
+  "lastFetched": "2025-12-02T01:17:41.611Z",
   "odesli": {
     "amazonMusic": "B01C7WEAZY",
     "amazonStore": "B01C7WEAZY",
@@ -31,6 +31,16 @@
       "classical",
       "orchestral",
       "production music"
-    ]
+    ],
+    "releasedAt": "2016-03-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003329722",
+      "discogs": "5197371",
+      "spotify": "4dDb2XLONSNrTrucRcoaYM",
+      "deezer": "5649718",
+      "lastfm": "Really+Slow+Motion",
+      "soundcloud": "https://soundcloud.com/reallyslowmotion"
+    }
   }
 }

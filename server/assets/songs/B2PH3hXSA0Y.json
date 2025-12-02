@@ -2,7 +2,7 @@
   "youtubeId": "B2PH3hXSA0Y",
   "title": "Taubenvergiften",
   "artist": "Georg Kreisler",
-  "lastFetched": "2025-11-30T22:32:47.904Z",
+  "lastFetched": "2025-12-02T00:48:12.943Z",
   "lastfm": {
     "title": "Taubenvergiften",
     "artist": "Georg Kreisler",
@@ -19,6 +19,17 @@
   "musicbrainz": {
     "trackMbid": "cb2b2383-a042-4042-a373-9d1eb17fa580",
     "artistMbid": "53dd8212-8586-439e-b8ed-29461a4a3a5d",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "1997",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0002086651",
+      "discogs": "827632",
+      "spotify": "56snND3YyUX2aZQVXwgLeq",
+      "deezer": "450851",
+      "lastfm": "Georg+Kreisler",
+      "genius": "Georg-kreisler",
+      "wikidata": "Q45275"
+    }
   }
 }

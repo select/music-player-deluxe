@@ -2,7 +2,7 @@
   "youtubeId": "BVHkeQNmMvM",
   "title": "Circadian Rhythm (Last Dance)",
   "artist": "Silversun Pickups",
-  "lastFetched": "2025-11-30T21:06:00.424Z",
+  "lastFetched": "2025-12-02T00:48:47.660Z",
   "odesli": {
     "amazonMusic": "B082MTXLGD",
     "amazonStore": "B082MTXLGD",
@@ -49,6 +49,21 @@
       "indietronica",
       "rock",
       "shoegaze"
-    ]
+    ],
+    "releasedAt": "2015-09-15",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000756754",
+      "bandcamp": "https://silversunpickups.bandcamp.com/",
+      "discogs": "579616",
+      "spotify": "6qyi8X6MdP1lu6B1K6yh3h",
+      "deezer": "8466",
+      "lastfm": "Silversun+Pickups",
+      "genius": "Silversun-pickups",
+      "rateyourmusic": "silversun_pickups",
+      "soundcloud": "https://soundcloud.com/silversunpickups",
+      "napster": "silversun-pickups",
+      "wikidata": "Q312275"
+    }
   }
 }

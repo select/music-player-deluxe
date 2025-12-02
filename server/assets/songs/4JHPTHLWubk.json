@@ -2,7 +2,7 @@
   "youtubeId": "4JHPTHLWubk",
   "title": "Nothing Can Change This Love",
   "artist": "Sam Cooke",
-  "lastFetched": "2025-11-19T07:11:57.573Z",
+  "lastFetched": "2025-12-02T00:38:20.344Z",
   "odesli": {
     "amazonMusic": "B0071T2WEA",
     "amazonStore": "B0071T2WEA",
@@ -30,7 +30,17 @@
       "rhythm and blues"
     ],
     "trackMbid": "e6b56988-de62-4d6a-909e-8c67dfac2c11",
-    "artistMbid": "6c8fd0be-d961-454c-aee0-4366a6dbc993"
+    "artistMbid": "6c8fd0be-d961-454c-aee0-4366a6dbc993",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000238115",
+      "discogs": "295202",
+      "spotify": "6hnWRPzGGKiapVX1UCdEAC",
+      "deezer": "900",
+      "lastfm": "Sam+Cooke",
+      "rateyourmusic": "sam_cooke",
+      "wikidata": "Q295919"
+    }
   },
   "lastfm": {
     "id": "Sam+Cooke/_/Nothing+Can+Change+This+Love",

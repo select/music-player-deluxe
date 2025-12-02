@@ -2,7 +2,7 @@
   "youtubeId": "PobrSpMwKk4",
   "title": "The Message",
   "artist": "Grandmaster Flash & The Furious Five",
-  "lastFetched": "2025-11-30T22:54:52.695Z",
+  "lastFetched": "2025-12-02T01:12:17.840Z",
   "odesli": {
     "amazonMusic": "B0014JBJHY",
     "amazonStore": "B0014JBJHY",
@@ -34,6 +34,16 @@
       "hip hop",
       "instrumental hip hop",
       "turntablism"
-    ]
+    ],
+    "releasedAt": "1996-05-31",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000738369",
+      "discogs": "20590",
+      "spotify": "5hQCwevTf03u1rECrRMeop",
+      "deezer": "8582",
+      "rateyourmusic": "grandmaster_flash_and_the_furious_five",
+      "wikidata": "Q765409"
+    }
   }
 }

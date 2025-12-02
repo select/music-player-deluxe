@@ -1,7 +1,7 @@
 {
   "youtubeId": "3m3qOD-hhrQ",
   "title": "Head Hunters | Herbie Hancock | 1973 | Full Album",
-  "lastFetched": "2025-11-30T20:30:25.904Z",
+  "lastFetched": "2025-12-02T00:37:32.021Z",
   "ai": {
     "title": "Head Hunters",
     "artist": "Herbie Hancock"
@@ -35,6 +35,16 @@
       "modal jazz",
       "post-bop",
       "soul jazz"
-    ]
+    ],
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000957296",
+      "discogs": "3865",
+      "spotify": "2ZvrvbQNrHKwjT7qfGFFUW",
+      "deezer": "1406",
+      "lastfm": "Herbie+Hancock",
+      "rateyourmusic": "herbie_hancock",
+      "wikidata": "Q105875"
+    }
   }
 }

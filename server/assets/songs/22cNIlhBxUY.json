@@ -3,7 +3,7 @@
   "artist": "Britney Spears",
   "duration": 230,
   "youtubeId": "22cNIlhBxUY",
-  "lastFetched": "2025-11-19T03:56:02.182Z",
+  "lastFetched": "2025-12-02T00:22:43.124Z",
   "odesli": {
     "amazonMusic": "B08PVYFFHB",
     "amazonStore": "B08PVYFFHB",
@@ -21,7 +21,20 @@
     ],
     "trackMbid": "5d7798fb-d3ca-40c4-85f6-5f2c849e1163",
     "artistMbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
-    "releaseCount": 11
+    "releaseCount": 11,
+    "releasedAt": "2016-08-26",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "4B3XjvOY7GTzzNLA1Dm97y"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000628467",
+      "discogs": "15687",
+      "spotify": "26dSoYclwsYLMAKD3tpOr4",
+      "lastfm": "Britney+Spears",
+      "soundcloud": "britneyspears",
+      "youtube": "UCIOdfgVAkc_8rxhRAz9WRDw"
+    }
   },
   "lastfm": {
     "id": "Britney+Spears/_/Mood+Ring+(By+Demand)",

@@ -2,7 +2,7 @@
   "youtubeId": "M9kxjxHNtbs",
   "title": "Delicious",
   "artist": "A Perfect Circle",
-  "lastFetched": "2025-11-30T19:50:26.112Z",
+  "lastFetched": "2025-12-02T01:06:07.433Z",
   "odesli": {
     "amazonMusic": "B0DZVCSWC4",
     "amazonStore": "B0DZVCSWC4",
@@ -36,6 +36,25 @@
       "alternative rock",
       "art rock",
       "progressive rock"
-    ]
+    ],
+    "releasedAt": "2018-04-20",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "1FEguBjPAhX5Go3nJQVrJy"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000479149",
+      "bandcamp": "https://a-perfect-circle.bandcamp.com/",
+      "discogs": "242802",
+      "spotify": "4DFhHyjvGYa9wxdHUjtDkc",
+      "deezer": "702",
+      "lastfm": "A+Perfect+Circle",
+      "genius": "A-perfect-circle",
+      "rateyourmusic": "a_perfect_circle",
+      "soundcloud": "https://soundcloud.com/a-perfect-circle-official",
+      "youtube": "UCMCMRWDmeB8yxfYu657YzFQ",
+      "napster": "a-perfect-circle",
+      "wikidata": "Q300519"
+    }
   }
 }

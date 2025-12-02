@@ -1,0 +1,46 @@
+{
+  "youtubeId": "LBrMsBk0IwU",
+  "title": "BRATZE - Die Auswendigen Muster",
+  "lastFetched": "2025-12-02T01:04:39.813Z",
+  "ai": {
+    "title": "Die Auswendigen Muster",
+    "artist": "BRATZE"
+  },
+  "lastfm": {
+    "id": "Bratze/_/Die+auswendigen+Muster",
+    "listeners": 9547,
+    "playcount": 75253,
+    "title": "Die auswendigen Muster",
+    "artist": "Bratze",
+    "mbid": "648f4222-623b-341b-94c3-8ef4738bd84b",
+    "artistMbid": "459262db-6617-46f1-bd6d-abb29a76f11a",
+    "tags": [
+      "electronic",
+      "electropunk",
+      "electrogefuckel"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f2177c46-6c5a-412f-977d-aeafbcac1608",
+    "artistMbid": "459262db-6617-46f1-bd6d-abb29a76f11a",
+    "releaseCount": 2,
+    "genres": [
+      "electronic",
+      "electropunk",
+      "pop",
+      "punk",
+      "rock",
+      "synth-pop"
+    ],
+    "releasedAt": "2010-03-19",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001988583",
+      "discogs": "507245",
+      "lastfm": "Bratze",
+      "rateyourmusic": "bratze",
+      "soundcloud": "https://soundcloud.com/bratze-angriff",
+      "wikidata": "Q899848"
+    }
+  }
+}

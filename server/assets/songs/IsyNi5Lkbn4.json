@@ -2,7 +2,7 @@
   "youtubeId": "IsyNi5Lkbn4",
   "title": "Dotab",
   "artist": "Bear Ghost",
-  "lastFetched": "2025-11-23T16:34:57.051Z",
+  "lastFetched": "2025-12-02T01:00:56.750Z",
   "odesli": {
     "amazonMusic": "B0CCRD1YYM",
     "amazonStore": "B0CCRD1YYM",
@@ -26,7 +26,17 @@
       "rock"
     ],
     "trackMbid": "4f8325f5-227d-402b-ae37-3325fc7f6b19",
-    "artistMbid": "ce41dd47-f5bd-46a8-9155-a1c20e3e8f7e"
+    "artistMbid": "ce41dd47-f5bd-46a8-9155-a1c20e3e8f7e",
+    "externalIdsArtist": {
+      "bandcamp": "https://bearghost.bandcamp.com/",
+      "discogs": "5264533",
+      "spotify": "1N1JZ3SRv6PSzAsOEW2aZp",
+      "deezer": "6222094",
+      "lastfm": "Bear+Ghost",
+      "rateyourmusic": "bear_ghost",
+      "soundcloud": "https://soundcloud.com/bearghost",
+      "youtube": "UCzVnuTG7kJa1ZCmswWRa3jA"
+    }
   },
   "lastfm": {
     "id": "Bear+Ghost/_/Dotab",

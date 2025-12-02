@@ -2,7 +2,7 @@
   "youtubeId": "IG6xVp3JaiE",
   "title": "Bloodsport",
   "artist": "AlphaWhores",
-  "lastFetched": "2025-11-30T21:32:04.022Z",
+  "lastFetched": "2025-12-02T01:00:10.465Z",
   "odesli": {
     "amazonMusic": "B0F6NQB744",
     "amazonStore": "B0F6NQB744",
@@ -39,6 +39,12 @@
       "metal",
       "sludge metal",
       "stoner metal"
-    ]
+    ],
+    "releasedAt": "2025-06-13",
+    "externalIdsArtist": {
+      "bandcamp": "https://alphawhores.bandcamp.com/",
+      "spotify": "2lrBkJvLpco6iJ2QWNhJvM",
+      "youtube": "AlphaWhores"
+    }
   }
 }

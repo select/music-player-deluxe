@@ -2,7 +2,7 @@
   "youtubeId": "2Wy26XWXse0",
   "title": "Moody Bandz",
   "artist": "B.o.B",
-  "lastFetched": "2025-11-30T22:39:42.603Z",
+  "lastFetched": "2025-12-02T00:36:19.056Z",
   "odesli": {
     "amazonMusic": "B0BYMDHDG6",
     "amazonStore": "B0BYMDHDG6",
@@ -47,6 +47,21 @@
       "r&b",
       "southern hip hop",
       "trap"
-    ]
+    ],
+    "releasedAt": "2023-04-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000726348",
+      "discogs": "901031",
+      "spotify": "5ndkK3dpZLKtBklKjxNQwT",
+      "deezer": "280294",
+      "lastfm": "B.o.B",
+      "genius": "Bob",
+      "rateyourmusic": "b_o_b",
+      "soundcloud": "https://soundcloud.com/bobatl",
+      "napster": "bob",
+      "wikidata": "Q45667",
+      "youtube": "UCU1JusGzZe0Msn79JB3g46w"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "8nQLXkl9Zco",
   "title": "Balling",
   "artist": "Vibe Chemistry",
-  "lastFetched": "2025-11-19T06:17:28.536Z",
+  "lastFetched": "2025-12-02T00:45:15.044Z",
   "odesli": {
     "amazonMusic": "B09TGTR3XP",
     "amazonStore": "B09TGTR3XP",
@@ -28,6 +28,15 @@
   },
   "musicbrainz": {
     "trackMbid": "a1079e31-ce9f-49ef-9d07-084a34d01986",
-    "artistMbid": "2b854372-d92f-4f1c-975a-cc66bb30c827"
+    "artistMbid": "2b854372-d92f-4f1c-975a-cc66bb30c827",
+    "releasedAt": "2021-07-30",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "9786391",
+      "spotify": "1L5GuSYb4gktP74dqFkJpi",
+      "deezer": "223910665",
+      "soundcloud": "https://soundcloud.com/vibe-chemistry",
+      "youtube": "UCe1ATnXpAVnqB_WULROugug"
+    }
   }
 }

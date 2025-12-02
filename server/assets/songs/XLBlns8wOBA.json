@@ -1,0 +1,35 @@
+{
+  "youtubeId": "XLBlns8wOBA",
+  "title": "La Malagueña - Gaby Moreno | Live from Here with Chris Thile",
+  "lastFetched": "2025-12-01T11:48:28.057Z",
+  "ai": {
+    "title": "La Malagueña",
+    "artist": "Gaby Moreno"
+  },
+  "lastfm": {
+    "id": "Gaby+Moreno/_/La+Malague%C3%B1a",
+    "listeners": 989,
+    "playcount": 3435,
+    "title": "La Malagueña",
+    "artist": "Gaby Moreno",
+    "mbid": "377afe0a-20b2-406d-bb49-fb178e84835a",
+    "artistMbid": "4aec1363-ab7a-4de2-a253-c529eeec55bd",
+    "tags": [
+      "jazz",
+      "blues",
+      "soul",
+      "female vocalists"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d2d6027f-9783-4d73-90e7-b8717b436498",
+    "artistMbid": "4aec1363-ab7a-4de2-a253-c529eeec55bd",
+    "releaseCount": 2,
+    "artistGenres": [
+      "blues",
+      "jazz",
+      "singer-songwriter",
+      "soul"
+    ]
+  }
+}

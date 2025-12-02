@@ -2,7 +2,7 @@
   "youtubeId": "DLQawHJ38Sc",
   "title": "Right Now",
   "artist": "Van Halen",
-  "lastFetched": "2025-11-23T16:32:20.489Z",
+  "lastFetched": "2025-12-02T00:52:00.584Z",
   "odesli": {
     "amazonMusic": "B0D4FGTGZG",
     "amazonStore": "B0D4FGTGZG",
@@ -24,7 +24,25 @@
       "rock"
     ],
     "trackMbid": "2d65b19a-0f5b-41f4-9207-58a8b30d18c6",
-    "artistMbid": "b665b768-0d83-4363-950c-31ed39317c15"
+    "artistMbid": "b665b768-0d83-4363-950c-31ed39317c15",
+    "releasedAt": "2018-11-09",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "deezer": "1024718072"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000260206",
+      "discogs": "94066",
+      "spotify": "2cnMpRsOVqtPMfq7YiFE6K",
+      "deezer": "1168",
+      "lastfm": "Van+Halen",
+      "genius": "Van-halen",
+      "rateyourmusic": "van_halen",
+      "soundcloud": "https://soundcloud.com/vanhalenofficial",
+      "napster": "van-halen",
+      "wikidata": "Q190155",
+      "youtube": "UCPi7wU0ppI6ad7EEpHs7lHg"
+    }
   },
   "lastfm": {
     "id": "Van+Halen/_/Right+Now",

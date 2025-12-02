@@ -1,0 +1,49 @@
+{
+  "youtubeId": "r7rF2EZ0A_0",
+  "title": "Archive - Again",
+  "lastFetched": "2025-12-01T13:03:21.828Z",
+  "ai": {
+    "title": "Again",
+    "artist": "Archive"
+  },
+  "lastfm": {
+    "id": "Archive/_/Again",
+    "listeners": 244108,
+    "playcount": 2043438,
+    "title": "Again",
+    "artist": "Archive",
+    "mbid": "00b2d20a-7548-4492-8759-b6b88fb3b7b3",
+    "artistMbid": "bd513de0-e42f-425e-ae46-817d7bc5fb1c",
+    "tags": [
+      "trip-hop",
+      "alternative",
+      "progressive rock",
+      "rock",
+      "sad"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1907a571-c6e0-44e6-8c52-d3c94b883015",
+    "artistMbid": "bd513de0-e42f-425e-ae46-817d7bc5fb1c",
+    "releaseCount": 23,
+    "genres": [
+      "alternative rock",
+      "downtempo",
+      "electronic",
+      "progressive rock",
+      "rock",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "ambient pop",
+      "art rock",
+      "crossover prog",
+      "electronic",
+      "electronica",
+      "post-rock",
+      "progressive rock",
+      "trip hop"
+    ]
+  }
+}

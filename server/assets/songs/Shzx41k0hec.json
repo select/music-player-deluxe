@@ -2,7 +2,7 @@
   "youtubeId": "Shzx41k0hec",
   "title": "Gated Thoughts",
   "artist": "Max Cooper",
-  "lastFetched": "2025-11-30T22:08:07.269Z",
+  "lastFetched": "2025-12-02T01:16:52.080Z",
   "odesli": {
     "amazonMusic": "B0D3HZNWVZ",
     "amazonStore": "B0D3HZNWVZ",
@@ -41,6 +41,20 @@
       "electronic",
       "electronica",
       "techno"
-    ]
+    ],
+    "releasedAt": "2024-05-24",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002002647",
+      "bandcamp": "https://maxcooper.bandcamp.com/",
+      "discogs": "830699",
+      "spotify": "0WSSKmoRbxqLf3MnXInQ2J",
+      "deezer": "181041",
+      "lastfm": "Max+Cooper",
+      "genius": "Max-cooper",
+      "rateyourmusic": "max-cooper",
+      "soundcloud": "https://soundcloud.com/max-cooper",
+      "wikidata": "Q6794665"
+    }
   }
 }

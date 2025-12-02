@@ -2,7 +2,7 @@
   "youtubeId": "Sd5ZLJWQmss",
   "title": "Convoy",
   "artist": "C.W. McCall",
-  "lastFetched": "2025-11-23T16:39:32.388Z",
+  "lastFetched": "2025-12-02T01:16:45.607Z",
   "musicbrainz": {
     "tags": [
       "country",
@@ -21,7 +21,15 @@
       "outlaw country"
     ],
     "trackMbid": "a12304f9-a115-4a53-aeb7-099d1c4f5834",
-    "artistMbid": "07a7e7d3-910c-472e-92b2-a3a69f95a504"
+    "artistMbid": "07a7e7d3-910c-472e-92b2-a3a69f95a504",
+    "releasedAt": "1975",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000646260",
+      "discogs": "685853",
+      "spotify": "0iTkPxRldzi5lmS6qZ70JV",
+      "wikidata": "Q1022574"
+    }
   },
   "lastfm": {
     "id": "C.W.+McCall/_/Convoy",

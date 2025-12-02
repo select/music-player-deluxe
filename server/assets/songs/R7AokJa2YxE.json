@@ -3,7 +3,7 @@
   "artist": "TTSSFU",
   "duration": 184,
   "youtubeId": "R7AokJa2YxE",
-  "lastFetched": "2025-11-19T01:37:16.643Z",
+  "lastFetched": "2025-12-02T01:14:01.356Z",
   "odesli": {
     "amazonMusic": "B0FD4ZKD69",
     "amazonStore": "B0FD4ZKD69",
@@ -32,6 +32,12 @@
   "musicbrainz": {
     "trackMbid": "c81bac01-10ce-4507-93c5-22e06128b1e2",
     "artistMbid": "149456f4-6daf-4290-a4bf-093bb87769c5",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-07-16",
+    "externalIdsArtist": {
+      "bandcamp": "https://ttssfu.bandcamp.com/",
+      "spotify": "4u0g598Mtg9ch4HgEP2DFG",
+      "deezer": "143873282"
+    }
   }
 }

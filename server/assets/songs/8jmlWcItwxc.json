@@ -1,7 +1,7 @@
 {
   "youtubeId": "8jmlWcItwxc",
   "title": "Books From Boxes",
-  "lastFetched": "2025-11-30T20:40:13.109Z",
+  "lastFetched": "2025-12-02T00:45:02.580Z",
   "ai": {
     "title": "Books from Boxes",
     "artist": "Maximo Park"
@@ -29,6 +29,22 @@
       "indie rock",
       "new wave",
       "post-punk revival"
-    ]
+    ],
+    "releasedAt": "2007-03-31",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "3JnWgwQPW2bIqehd4FFYXT"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000561037",
+      "discogs": "384412",
+      "spotify": "048FBwXjFYBWxSggPDipic",
+      "deezer": "1946",
+      "lastfm": "Max%C3%AFmo+Park",
+      "rateyourmusic": "maximo_park",
+      "soundcloud": "https://soundcloud.com/maximo-park-1",
+      "napster": "art.7418951",
+      "wikidata": "Q833332"
+    }
   }
 }

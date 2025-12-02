@@ -2,7 +2,7 @@
   "youtubeId": "0TqFAUkEuS0",
   "title": "Manche Stadt",
   "artist": "Hannes Wader",
-  "lastFetched": "2025-11-23T16:26:10.762Z",
+  "lastFetched": "2025-12-02T00:33:37.561Z",
   "musicbrainz": {
     "artistTags": [
       "folk",
@@ -17,7 +17,16 @@
       "singer-songwriter"
     ],
     "trackMbid": "14d8182c-76f5-4f46-848c-14f78290d34f",
-    "artistMbid": "f07b5d3a-b385-4244-ad6e-ea6b5ccbe1ae"
+    "artistMbid": "f07b5d3a-b385-4244-ad6e-ea6b5ccbe1ae",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000958560",
+      "discogs": "312357",
+      "spotify": "1ePGBuJM1znQUYt4qpgUdW",
+      "deezer": "134206",
+      "rateyourmusic": "hannes_wader",
+      "wikidata": "Q65491"
+    }
   },
   "lastfm": {
     "id": "Hannes+Wader/_/Manche+Stadt",

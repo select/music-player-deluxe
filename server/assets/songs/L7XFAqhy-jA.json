@@ -2,7 +2,7 @@
   "youtubeId": "L7XFAqhy-jA",
   "title": "What a Wonderful World",
   "artist": "Sofi Tukker",
-  "lastFetched": "2025-11-30T23:18:39.350Z",
+  "lastFetched": "2025-12-02T01:04:36.912Z",
   "odesli": {
     "amazonMusic": "B0DD9BTGDJ",
     "amazonStore": "B0DD9BTGDJ",
@@ -32,6 +32,21 @@
       "dance-pop",
       "edm",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2022-04-29",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003460434",
+      "discogs": "4921480",
+      "spotify": "586uxXMyD5ObPuzjtrzO1Q",
+      "deezer": "7988922",
+      "lastfm": "Sofi+Tukker",
+      "genius": "Sofi-tukker",
+      "rateyourmusic": "sofi-tukker",
+      "soundcloud": "https://soundcloud.com/sofitukker",
+      "napster": "sofi-tukker",
+      "wikidata": "Q22044898",
+      "youtube": "UCZIhVmhQMWRAsalCuU7ZXDA"
+    }
   }
 }

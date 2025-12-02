@@ -2,7 +2,7 @@
   "youtubeId": "-YzitR0IKW4",
   "title": "Just Like a Baby",
   "artist": "Sly & The Family Stone",
-  "lastFetched": "2025-11-30T22:15:05.920Z",
+  "lastFetched": "2025-12-02T00:17:51.085Z",
   "odesli": {
     "amazonMusic": "B00BB350XC",
     "amazonStore": "B00BB350XC",
@@ -41,6 +41,23 @@
       "psychedelic soul",
       "rock",
       "soul"
-    ]
+    ],
+    "releasedAt": "1971-11-20",
+    "artistCountry": "US",
+    "externalIds": {
+      "allmusic": "mn0000033161",
+      "discogs": "39768",
+      "spotify": "5m8H6zSadhu1j9Yi04VLqD",
+      "youtube": "UCrPnFvHBoZz1326HwrKBOFg"
+    },
+    "externalIdsTrack": {
+      "spotify": "4B2kcIhJ92DRAhln5cF7Cy"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000033161",
+      "discogs": "39768",
+      "spotify": "5m8H6zSadhu1j9Yi04VLqD",
+      "youtube": "UCrPnFvHBoZz1326HwrKBOFg"
+    }
   }
 }

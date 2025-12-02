@@ -2,7 +2,7 @@
   "youtubeId": "MTSbhEUe9OI",
   "title": "Penda Yoro",
   "artist": "Ali Farka Touré",
-  "lastFetched": "2025-11-23T16:36:25.994Z",
+  "lastFetched": "2025-12-02T01:06:41.750Z",
   "odesli": {
     "amazonMusic": "B0DZXNZHZC",
     "amazonStore": "B0DZXNZHZC",
@@ -24,7 +24,17 @@
       "african blues"
     ],
     "trackMbid": "13b12e72-41c7-4030-827f-37656e56561d",
-    "artistMbid": "9be2a5ac-8201-489b-b5f6-91f958bf9060"
+    "artistMbid": "9be2a5ac-8201-489b-b5f6-91f958bf9060",
+    "artistCountry": "ML",
+    "externalIdsArtist": {
+      "allmusic": "mn0000006613",
+      "discogs": "410281",
+      "spotify": "3mNygoyrEKLgo6sx0MzwOL",
+      "deezer": "1404",
+      "lastfm": "Ali+Farka+Tour%C3%A9",
+      "rateyourmusic": "ali_farka_toure",
+      "wikidata": "Q334947"
+    }
   },
   "lastfm": {
     "id": "Ali+Farka+Tour%C3%A9/_/Penda+Yoro",

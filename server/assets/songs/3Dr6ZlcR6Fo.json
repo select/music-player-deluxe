@@ -2,7 +2,7 @@
   "youtubeId": "3Dr6ZlcR6Fo",
   "title": "Lateralus",
   "artist": "Tool",
-  "lastFetched": "2025-11-19T12:14:44.439Z",
+  "lastFetched": "2025-12-02T00:37:04.000Z",
   "musicbrainz": {
     "tags": [
       "Progressive metal",
@@ -12,7 +12,22 @@
       "metal"
     ],
     "trackMbid": "9b03dcba-a350-43d6-90d1-7d0b111abc74",
-    "artistMbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2"
+    "artistMbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
+    "releasedAt": "2002-07-21",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000790820",
+      "discogs": "87016",
+      "spotify": "2yEwvVSSSUkcLeSTNyHKh8",
+      "deezer": "689",
+      "lastfm": "Tool",
+      "genius": "Tool",
+      "rateyourmusic": "tool",
+      "soundcloud": "https://soundcloud.com/officialtool",
+      "napster": "tool",
+      "wikidata": "Q184827",
+      "youtube": "UCW6FSIkA04g7pBvMXlnaKqg"
+    }
   },
   "lastfm": {
     "id": "Tool/_/Lateralus",

@@ -2,7 +2,7 @@
   "youtubeId": "H4lurE-IpHE",
   "title": "1921",
   "artist": "The Who",
-  "lastFetched": "2025-11-23T16:34:23.123Z",
+  "lastFetched": "2025-12-02T00:58:37.281Z",
   "odesli": {
     "amazonMusic": "B07R8DG52J",
     "amazonStore": "B07R8DG52J",
@@ -42,7 +42,21 @@
       "mod"
     ],
     "trackMbid": "81a938ef-0410-3c01-85fe-7d1b384f0225",
-    "artistMbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa"
+    "artistMbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000577627",
+      "discogs": "196766",
+      "spotify": "67ea9eGLXYMsO2eYQRui3w",
+      "deezer": "817",
+      "lastfm": "The+Who",
+      "genius": "The-who",
+      "rateyourmusic": "the_who",
+      "napster": "the-who",
+      "wikidata": "Q93346",
+      "wikipedia": "The_Who",
+      "youtube": "UCq8x90UTaVXcNHuWa6OQgjA"
+    }
   },
   "lastfm": {
     "id": "The+Who/_/1921",

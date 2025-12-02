@@ -3,7 +3,7 @@
   "artist": "Woodkid",
   "duration": 230,
   "youtubeId": "5tEfYvY3bAg",
-  "lastFetched": "2025-11-23T16:28:39.591Z",
+  "lastFetched": "2025-12-02T00:28:12.319Z",
   "odesli": {
     "amazonMusic": "B0876J77HW",
     "amazonStore": "B0876J77HW",
@@ -43,7 +43,20 @@
     ],
     "trackMbid": "841b81d2-7fe6-41c2-9c3e-d6c867936bb4",
     "artistMbid": "420e923e-e74c-42ef-b771-2e2bcee93394",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2020-04-23",
+    "artistCountry": "FR",
+    "externalIdsTrack": {
+      "spotify": "6Q9Qfc4SScI6OJkFTwqja1"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002814238",
+      "discogs": "2487477",
+      "spotify": "44TGR1CzjKBxSHsSEy7bi9",
+      "lastfm": "Woodkid",
+      "soundcloud": "woodkid",
+      "youtube": "UCwfdPgMway3ClQiCwlc94iA"
+    }
   },
   "lastfm": {
     "id": "Woodkid/_/Goliath",

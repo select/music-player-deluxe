@@ -2,7 +2,7 @@
   "youtubeId": "Q_iW4AgFxsI",
   "title": "Major Tom (Völlig losgelöst)",
   "artist": "Peter Schilling",
-  "lastFetched": "2025-11-30T22:40:35.948Z",
+  "lastFetched": "2025-12-02T01:13:07.277Z",
   "lastfm": {
     "title": "Major Tom (Völlig losgelöst)",
     "artist": "Peter Schilling",
@@ -40,6 +40,18 @@
       "new wave",
       "pop",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "1982",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000270497",
+      "discogs": "108338",
+      "spotify": "7ip3CWlgPZbQHvgJpmcGSS",
+      "deezer": "2488",
+      "genius": "Peter-schilling",
+      "rateyourmusic": "peter_schilling",
+      "wikidata": "Q62951",
+      "youtube": "UCWpOK2TZSXkX1zfSp_zYgGw"
+    }
   }
 }

@@ -1,0 +1,59 @@
+{
+  "youtubeId": "M7Oe1DN5VDA",
+  "title": "Caribou - Melody Day",
+  "lastFetched": "2025-12-02T01:06:00.367Z",
+  "ai": {
+    "title": "Melody Day",
+    "artist": "Caribou"
+  },
+  "lastfm": {
+    "id": "Caribou/_/Melody+Day",
+    "listeners": 215101,
+    "playcount": 1270990,
+    "title": "Melody Day",
+    "artist": "Caribou",
+    "mbid": "0d9d902a-3ea6-3dbb-8881-ea6aba9b4096",
+    "artistMbid": "735e3514-a8ae-401f-af3b-6300df1b8d2c",
+    "tags": [
+      "psychedelic",
+      "electronic",
+      "dream pop",
+      "canadian"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "55303b17-c28d-47eb-893d-95188e76a9cb",
+    "artistMbid": "735e3514-a8ae-401f-af3b-6300df1b8d2c",
+    "releaseCount": 14,
+    "genres": [
+      "ambient",
+      "electronic",
+      "indie rock",
+      "indietronica",
+      "rock",
+      "space rock",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "dream pop",
+      "electronic",
+      "folktronica",
+      "house",
+      "indietronica",
+      "neo-psychedelia"
+    ],
+    "releasedAt": "2007-07-10",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000609590",
+      "bandcamp": "https://caribouband.bandcamp.com/",
+      "discogs": "517",
+      "spotify": "7nFj31QiQll8sRmWagex1M",
+      "deezer": "3892",
+      "lastfm": "Caribou",
+      "rateyourmusic": "manitoba",
+      "soundcloud": "https://soundcloud.com/caribouband",
+      "wikidata": "Q1036131"
+    }
+  }
+}

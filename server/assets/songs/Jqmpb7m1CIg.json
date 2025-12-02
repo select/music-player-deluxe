@@ -2,7 +2,7 @@
   "youtubeId": "Jqmpb7m1CIg",
   "title": "Last Resort",
   "artist": "Papa Roach",
-  "lastFetched": "2025-11-19T08:16:09.592Z",
+  "lastFetched": "2025-12-02T01:02:34.217Z",
   "musicbrainz": {
     "tags": [
       "rock",
@@ -12,7 +12,23 @@
       "Papa Roach"
     ],
     "trackMbid": "93c11c66-d48e-4dab-a065-2c318c95cc93",
-    "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c"
+    "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
+    "releasedAt": "2024-09-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000007731",
+      "bandcamp": "https://paparoach.bandcamp.com/",
+      "discogs": "175368",
+      "spotify": "4RddZ3iHvSpGV4dvATac9X",
+      "deezer": "89",
+      "lastfm": "Papa+Roach",
+      "genius": "Papa-roach",
+      "rateyourmusic": "papa_roach",
+      "soundcloud": "https://soundcloud.com/paparoach",
+      "napster": "papa-roach",
+      "wikidata": "Q254371",
+      "youtube": "UCRiFekze9Yx5zDDjAVrYvbg"
+    }
   },
   "lastfm": {
     "id": "Papa+Roach/_/Last+Resort",

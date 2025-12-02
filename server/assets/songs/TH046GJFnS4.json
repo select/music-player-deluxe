@@ -1,7 +1,7 @@
 {
   "youtubeId": "TH046GJFnS4",
   "title": "Caetano Veloso - It's a Long Way",
-  "lastFetched": "2025-11-30T19:25:08.335Z",
+  "lastFetched": "2025-12-02T01:17:58.197Z",
   "ai": {
     "title": "It's a Long Way",
     "artist": "Caetano Veloso"
@@ -31,6 +31,18 @@
       "mpb",
       "singer-songwriter",
       "tropicália"
-    ]
+    ],
+    "releasedAt": "1975",
+    "artistCountry": "BR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000639397",
+      "discogs": "83763",
+      "spotify": "7HGNYPmbDrMkylWqeFCOIQ",
+      "deezer": "232",
+      "lastfm": "Caetano+Veloso",
+      "genius": "Caetano-veloso",
+      "rateyourmusic": "caetano_veloso",
+      "wikidata": "Q309983"
+    }
   }
 }

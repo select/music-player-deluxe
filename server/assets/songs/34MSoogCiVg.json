@@ -2,7 +2,7 @@
   "youtubeId": "34MSoogCiVg",
   "title": "Echo",
   "artist": "BSEARL",
-  "lastFetched": "2025-11-19T08:36:00.834Z",
+  "lastFetched": "2025-12-02T00:36:57.815Z",
   "odesli": {
     "amazonMusic": "B0B2PSP4ZG",
     "amazonStore": "B0B2PSP4ZG",
@@ -25,6 +25,10 @@
   },
   "musicbrainz": {
     "trackMbid": "a3fcfed9-b42a-444c-9ae1-973091ee62b6",
-    "artistMbid": "f52b01cb-fd98-4f85-b855-0ecf47827de2"
+    "artistMbid": "f52b01cb-fd98-4f85-b855-0ecf47827de2",
+    "releasedAt": "2022-07-08",
+    "externalIdsArtist": {
+      "soundcloud": "https://soundcloud.com/brandon-searl"
+    }
   }
 }

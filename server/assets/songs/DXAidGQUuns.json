@@ -2,7 +2,7 @@
   "youtubeId": "DXAidGQUuns",
   "title": "Steady, As She Goes",
   "artist": "The Raconteurs",
-  "lastFetched": "2025-11-30T22:29:30.648Z",
+  "lastFetched": "2025-12-02T00:52:26.788Z",
   "odesli": {
     "amazonMusic": "B08W9LQC4M",
     "amazonStore": "B08W9LQC4M",
@@ -55,6 +55,21 @@
       "garage rock revival",
       "indie rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2006-01-30",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "4xlEKYv7HmC8zXoJIbpZKM"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000531653",
+      "bandcamp": "https://theraconteurs.bandcamp.com/",
+      "discogs": "475462",
+      "spotify": "4wo1267SJuUfHgasdlfNfc",
+      "deezer": "1202",
+      "lastfm": "The+Raconteurs",
+      "rateyourmusic": "the-raconteurs",
+      "wikidata": "Q912909"
+    }
   }
 }

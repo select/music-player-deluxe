@@ -1,7 +1,7 @@
 {
   "youtubeId": "FJtPkTUOoho",
   "title": "Christer Bladin - Wildkatze (1974)",
-  "lastFetched": "2025-11-30T21:12:39.345Z",
+  "lastFetched": "2025-12-02T00:55:36.547Z",
   "ai": {
     "title": "Wildkatze",
     "artist": "Christer Bladin"
@@ -22,6 +22,11 @@
   "musicbrainz": {
     "trackMbid": "d2e36060-f928-4070-8392-71c75ec300dc",
     "artistMbid": "15a43ed4-733b-45cb-8120-7b9238a50fe4",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2006-10",
+    "externalIdsArtist": {
+      "discogs": "646993",
+      "spotify": "14zna2a4WbLBnGAR32jH8z"
+    }
   }
 }

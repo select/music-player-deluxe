@@ -1,7 +1,7 @@
 {
   "youtubeId": "7EeSjfPQYMs",
   "title": "Everything Everything- To The Blade Lyrics [HQ] 1080p",
-  "lastFetched": "2025-11-30T20:32:24.361Z",
+  "lastFetched": "2025-12-02T00:42:47.614Z",
   "ai": {
     "title": "To The Blade",
     "artist": "Everything Everything"
@@ -46,6 +46,25 @@
       "pop",
       "progressive house",
       "progressive pop"
-    ]
+    ],
+    "releasedAt": "2015-05-19",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "3USEqVIzYFGPag0F1qo2Km",
+      "deezer": "3416114431"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002371422",
+      "bandcamp": "https://everythingeverything.bandcamp.com/",
+      "discogs": "1380904",
+      "spotify": "1HOeqtP7tHkKNJNLzQ2tnr",
+      "deezer": "157701",
+      "lastfm": "Everything+Everything",
+      "genius": "Everything-everything",
+      "rateyourmusic": "everything_everything",
+      "soundcloud": "https://soundcloud.com/everythingeverything",
+      "wikidata": "Q1382296",
+      "youtube": "UCRqHYLgmWogpGTBijijv5lg"
+    }
   }
 }

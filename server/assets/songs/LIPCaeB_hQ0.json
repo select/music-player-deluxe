@@ -1,0 +1,43 @@
+{
+  "youtubeId": "LIPCaeB_hQ0",
+  "title": "Berlin stinkt!",
+  "artist": "The Incredible Herrengedeck",
+  "lastFetched": "2025-12-02T01:04:51.349Z",
+  "odesli": {
+    "amazonMusic": "B07D2H745Z",
+    "amazonStore": "B07D2H745Z",
+    "pandora": "TR:63130956",
+    "soundcloud": "theincredibleherrengedeck/berlin-stinkt",
+    "tidal": "88865894",
+    "youtube": "LIPCaeB_hQ0",
+    "youtubeMusic": "LIPCaeB_hQ0"
+  },
+  "lastfm": {
+    "id": "The+Incredible+Herrengedeck/_/Berlin+stinkt%21",
+    "listeners": 181,
+    "playcount": 926,
+    "title": "Berlin stinkt!",
+    "artist": "The Incredible Herrengedeck",
+    "artistMbid": "e91a97b7-04df-42a9-84b2-2f3e423bb519",
+    "tags": [
+      "berlin",
+      "punk",
+      "chanson",
+      "auf dem fahrrad und musik im ohr",
+      "deutsch"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "21cc4f93-99fc-4066-a1a8-86eb6e20a18b",
+    "artistMbid": "e91a97b7-04df-42a9-84b2-2f3e423bb519",
+    "releaseCount": 2,
+    "releasedAt": "2008-05",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "bandcamp": "https://herrengedeck.bandcamp.com/",
+      "discogs": "2034808",
+      "soundcloud": "https://soundcloud.com/herrengedeck44",
+      "wikidata": "Q15850502"
+    }
+  }
+}

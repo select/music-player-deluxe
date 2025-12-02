@@ -1,7 +1,7 @@
 {
   "youtubeId": "Hn0vSR4NgcY",
   "title": "10  Max Fresh - Candy Kitchen",
-  "lastFetched": "2025-11-30T21:16:50.651Z",
+  "lastFetched": "2025-12-02T00:59:29.298Z",
   "ai": {
     "title": "Candy Kitchen",
     "artist": "Max Fresh"
@@ -22,6 +22,11 @@
   "musicbrainz": {
     "trackMbid": "f43845e3-8dbe-45be-8e1e-46565e97d942",
     "artistMbid": "30f3c9c6-007a-4464-b4f7-45b0a29d940d",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2002",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "44219"
+    }
   }
 }

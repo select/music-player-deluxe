@@ -2,7 +2,7 @@
   "youtubeId": "QPmAO4xpQcE",
   "title": "Shuggie",
   "artist": "Foxygen",
-  "lastFetched": "2025-11-19T07:33:47.795Z",
+  "lastFetched": "2025-12-02T01:12:57.129Z",
   "odesli": {
     "amazonMusic": "B00HL14RG4",
     "amazonStore": "B00HL14RG4",
@@ -26,6 +26,19 @@
   },
   "musicbrainz": {
     "trackMbid": "6999992c-3913-463f-abdc-9a370e9bd489",
-    "artistMbid": "913e6848-6865-4717-ac5e-3bd9c22826be"
+    "artistMbid": "913e6848-6865-4717-ac5e-3bd9c22826be",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002939749",
+      "bandcamp": "https://foxygen.bandcamp.com/",
+      "discogs": "2769573",
+      "spotify": "55LHFEtIplWhsfyWZUwkf4",
+      "deezer": "101464592",
+      "lastfm": "Foxygen",
+      "rateyourmusic": "foxygen",
+      "soundcloud": "https://soundcloud.com/foxygen",
+      "wikidata": "Q5477342",
+      "wikipedia": "Foxygen"
+    }
   }
 }

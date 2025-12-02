@@ -2,7 +2,7 @@
   "youtubeId": "LYdCzs5uPrI",
   "title": "Save Me",
   "artist": "Remy Zero",
-  "lastFetched": "2025-11-30T22:01:53.121Z",
+  "lastFetched": "2025-12-02T01:05:10.818Z",
   "lastfm": {
     "id": "Remy+Zero/_/Save+Me",
     "listeners": 226839,
@@ -29,6 +29,17 @@
     ],
     "artistGenres": [
       "alternative rock"
-    ]
+    ],
+    "releasedAt": "2001-12",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000887709",
+      "discogs": "269161",
+      "spotify": "2pZCKLhbrrDD4PwEzrDig3",
+      "deezer": "1852",
+      "lastfm": "Remy+Zero",
+      "rateyourmusic": "remy_zero",
+      "wikidata": "Q1474918"
+    }
   }
 }

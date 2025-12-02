@@ -3,7 +3,7 @@
   "artist": "Dominik Eulberg",
   "duration": 510,
   "youtubeId": "OhapitERR-M",
-  "lastFetched": "2025-11-19T05:28:35.452Z",
+  "lastFetched": "2025-12-02T01:10:25.842Z",
   "odesli": {
     "amazonMusic": "B0FJSJ1LV9",
     "amazonStore": "B0FJSJ1LV9",
@@ -32,6 +32,16 @@
   "musicbrainz": {
     "trackMbid": "a003fb61-36f8-49c6-8f9f-6920839affb1",
     "artistMbid": "8f0d3885-04d9-4a13-aed7-96a25f9f9842",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2025-11-07",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000953615",
+      "discogs": "46060",
+      "spotify": "44zcDDVZOY0ck7KECNUPK1",
+      "deezer": "13829",
+      "rateyourmusic": "dominik_eulberg",
+      "wikidata": "Q87037"
+    }
   }
 }

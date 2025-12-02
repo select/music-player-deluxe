@@ -2,7 +2,7 @@
   "youtubeId": "2F-0pKS3xgk",
   "title": "Momentum",
   "artist": "Aimee Mann",
-  "lastFetched": "2025-11-23T16:27:04.132Z",
+  "lastFetched": "2025-12-02T00:35:54.534Z",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -18,7 +18,19 @@
       "singer-songwriter"
     ],
     "trackMbid": "4406cf1b-c33c-3ecf-9ca9-b89cd429614c",
-    "artistMbid": "db3c0a20-bf05-4b30-ac22-f294aea24172"
+    "artistMbid": "db3c0a20-bf05-4b30-ac22-f294aea24172",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000610346",
+      "discogs": "11068",
+      "spotify": "3UpIbyXfGzmHG6TMH4dJEk",
+      "deezer": "1602",
+      "lastfm": "Aimee+Mann",
+      "genius": "Aimee-mann",
+      "rateyourmusic": "aimee_mann",
+      "wikidata": "Q239587",
+      "youtube": "UCi435HYo68R8z0GTCi759LQ"
+    }
   },
   "lastfm": {
     "id": "Aimee+Mann/_/Momentum",

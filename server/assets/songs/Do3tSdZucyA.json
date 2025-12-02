@@ -2,7 +2,7 @@
   "youtubeId": "Do3tSdZucyA",
   "title": "Solara",
   "artist": "The Smashing Pumpkins",
-  "lastFetched": "2025-11-30T19:36:24.442Z",
+  "lastFetched": "2025-12-02T00:52:51.697Z",
   "odesli": {
     "amazonMusic": "B07HCSL3MQ",
     "amazonStore": "B07HCSL3MQ",
@@ -46,6 +46,25 @@
       "shoegaze",
       "symphonic rock",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2018-06-08",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "2sIOdx1ZEUOQCMyW6vwoPx",
+      "deezer": "507913822"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000036521",
+      "discogs": "28970",
+      "spotify": "40Yq4vzPs9VNUrIBG5Jr2i",
+      "deezer": "193331",
+      "lastfm": "The+Smashing+Pumpkins",
+      "genius": "Smashing-pumpkins",
+      "rateyourmusic": "the-smashing-pumpkins",
+      "soundcloud": "https://soundcloud.com/smashingpumpkins",
+      "napster": "smashing-pumpkins",
+      "wikidata": "Q184217",
+      "youtube": "UCZM3bF24BS-qDMe0OigpeZw"
+    }
   }
 }

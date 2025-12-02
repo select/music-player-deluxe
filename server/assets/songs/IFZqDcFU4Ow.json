@@ -2,7 +2,7 @@
   "youtubeId": "IFZqDcFU4Ow",
   "title": "In der Weihnachtsbäckerei",
   "artist": "Rolf Zuckowski und seine Freunde",
-  "lastFetched": "2025-11-30T19:28:41.012Z",
+  "lastFetched": "2025-12-02T01:00:08.418Z",
   "odesli": {
     "amazonMusic": "B073P1V3MK",
     "amazonStore": "B073P1V3MK",
@@ -31,6 +31,12 @@
     "releaseCount": 5,
     "artistGenres": [
       "children's music"
-    ]
+    ],
+    "releasedAt": "1987-11-11",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "553253",
+      "deezer": "110550"
+    }
   }
 }

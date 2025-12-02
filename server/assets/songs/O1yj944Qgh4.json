@@ -2,7 +2,7 @@
   "youtubeId": "O1yj944Qgh4",
   "title": "Slow Soul",
   "artist": "The Travellers",
-  "lastFetched": "2025-11-19T15:13:32.840Z",
+  "lastFetched": "2025-12-02T01:09:19.871Z",
   "lastfm": {
     "id": "The+Travellers/_/Slow+Soul",
     "listeners": 731,
@@ -15,6 +15,10 @@
   },
   "musicbrainz": {
     "trackMbid": "2d7d47fd-5450-388b-95ea-8cfe9bfbe11a",
-    "artistMbid": "b123cd70-a247-4d0d-a9ae-de64eb94920a"
+    "artistMbid": "b123cd70-a247-4d0d-a9ae-de64eb94920a",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "discogs": "442711"
+    }
   }
 }

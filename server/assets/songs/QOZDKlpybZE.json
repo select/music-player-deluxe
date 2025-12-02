@@ -2,7 +2,7 @@
   "youtubeId": "QOZDKlpybZE",
   "title": "Army Dreamers",
   "artist": "Kate Bush",
-  "lastFetched": "2025-11-19T17:22:07.992Z",
+  "lastFetched": "2025-12-02T01:12:50.075Z",
   "odesli": {
     "amazonMusic": "B0BXFPVDMS",
     "amazonStore": "B0BXFPVDMS",
@@ -25,7 +25,21 @@
       "Kate Bush"
     ],
     "trackMbid": "680bc776-4bfa-40de-8f00-b7a4bc03c7b0",
-    "artistMbid": "4b585938-f271-45e2-b19a-91c634b5e396"
+    "artistMbid": "4b585938-f271-45e2-b19a-91c634b5e396",
+    "releasedAt": "2025-04-14",
+    "externalIdsArtist": {
+      "allmusic": "mn0000855423",
+      "bandcamp": "https://katebush.bandcamp.com/",
+      "discogs": "85929",
+      "spotify": "1aSxMhuvixZ8h9dK9jIDwL",
+      "deezer": "1049",
+      "lastfm": "Kate+Bush",
+      "genius": "Kate-bush",
+      "rateyourmusic": "kate-bush",
+      "napster": "art.2069",
+      "wikidata": "Q636",
+      "youtube": "UC31hY7kg7CUOBpdyn9d_gYA"
+    }
   },
   "lastfm": {
     "id": "Kate+Bush/_/Army+Dreamers",

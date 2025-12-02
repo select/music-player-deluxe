@@ -2,7 +2,7 @@
   "youtubeId": "FOskk0xlUG0",
   "title": "nwahulwana",
   "artist": "Wazimbo",
-  "lastFetched": "2025-11-30T23:11:09.743Z",
+  "lastFetched": "2025-12-02T00:55:46.975Z",
   "odesli": {
     "amazonMusic": "B01KAITL5Q",
     "amazonStore": "B01KAITL5Q",
@@ -27,6 +27,11 @@
     "releaseCount": 1,
     "artistGenres": [
       "marrabenta"
-    ]
+    ],
+    "artistCountry": "MZ",
+    "externalIdsArtist": {
+      "discogs": "1150282",
+      "wikidata": "Q7976922"
+    }
   }
 }

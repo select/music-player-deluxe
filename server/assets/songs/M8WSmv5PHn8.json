@@ -1,0 +1,68 @@
+{
+  "youtubeId": "M8WSmv5PHn8",
+  "title": "What Would You Have Me Do?",
+  "artist": "Local H",
+  "lastFetched": "2025-12-02T01:06:02.372Z",
+  "odesli": {
+    "amazonMusic": "B001NGBWSO",
+    "amazonStore": "B001NGBWSO",
+    "pandora": "TR:6585847",
+    "spotify": "2ncTiSfc7DkCuMaHI54tio",
+    "tidal": "2726841",
+    "youtube": "M8WSmv5PHn8",
+    "youtubeMusic": "M8WSmv5PHn8"
+  },
+  "lastfm": {
+    "id": "Local+H/_/What+Would+You+Have+Me+Do%3F",
+    "listeners": 5232,
+    "playcount": 28784,
+    "title": "What Would You Have Me Do?",
+    "artist": "Local H",
+    "mbid": "47406a79-5680-35ea-a012-696fc6ac2310",
+    "artistMbid": "baaf92f5-f2b2-4f51-9723-abed41a257f8",
+    "tags": [
+      "grunge",
+      "post-grunge",
+      "not grunge",
+      "this would be a classic if there was any justice in the world",
+      "blankcore"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3e03d4a5-a705-466f-9f4b-ecbe9068ef58",
+    "artistMbid": "baaf92f5-f2b2-4f51-9723-abed41a257f8",
+    "releaseCount": 2,
+    "genres": [
+      "alternative punk",
+      "alternative rock",
+      "rock",
+      "rock and roll"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "noise rock",
+      "post-grunge",
+      "post-hardcore",
+      "punk rock",
+      "slacker rock"
+    ],
+    "releasedAt": "2002-03-05",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000230244",
+      "bandcamp": "https://localh.bandcamp.com/",
+      "discogs": "210521",
+      "spotify": "415JrPfN7ukaTu8JV8BLE8",
+      "deezer": "3921",
+      "lastfm": "Local+H",
+      "genius": "Local-h",
+      "rateyourmusic": "local_h",
+      "soundcloud": "https://soundcloud.com/local-h",
+      "wikidata": "Q1810439",
+      "youtube": "UCUy0qsA2trylLXvkEyC1EAw"
+    }
+  }
+}

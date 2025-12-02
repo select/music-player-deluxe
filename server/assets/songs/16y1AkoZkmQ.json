@@ -3,7 +3,7 @@
   "artist": "Boney M.",
   "duration": 200,
   "youtubeId": "16y1AkoZkmQ",
-  "lastFetched": "2025-11-19T03:19:51.347Z",
+  "lastFetched": "2025-12-02T00:34:22.054Z",
   "odesli": {
     "amazonMusic": "B08WHP64WM",
     "amazonStore": "B08WHP64WM",
@@ -28,7 +28,21 @@
     ],
     "trackMbid": "9fc863dc-c986-4545-93f5-1007354aca26",
     "artistMbid": "5403bf6e-bc1d-4e62-b31f-926a2bf66a14",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1998-08-24",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000081403",
+      "discogs": "7370641",
+      "spotify": "54R6Y0I7jGUCveDTtI21nb",
+      "deezer": "308",
+      "lastfm": "Boney+M.",
+      "genius": "Boney-m",
+      "rateyourmusic": "boney_m_",
+      "soundcloud": "https://soundcloud.com/boney-m-official",
+      "wikidata": "Q156298",
+      "youtube": "UC4VgwFaENFDrIjt8a4XjmaQ"
+    }
   },
   "lastfm": {
     "id": "Boney+M./_/Rasputin",

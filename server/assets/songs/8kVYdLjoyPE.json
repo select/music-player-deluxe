@@ -3,7 +3,7 @@
   "artist": "Ukandanz",
   "duration": 429,
   "youtubeId": "8kVYdLjoyPE",
-  "lastFetched": "2025-11-19T04:43:20.862Z",
+  "lastFetched": "2025-12-02T00:45:07.187Z",
   "odesli": {
     "amazonMusic": "B0F1H7QX73",
     "amazonStore": "B0F1H7QX73",
@@ -28,7 +28,15 @@
     ],
     "trackMbid": "8d55a9ad-026c-44d3-9376-ebfd24e17bdd",
     "artistMbid": "97eaa6ea-de07-474f-b395-a4bb108e25b8",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-04-18",
+    "externalIdsArtist": {
+      "bandcamp": "https://ukandanz.bandcamp.com/",
+      "discogs": "3114923",
+      "spotify": "6eid2mbg2XPVDyqdRmNIqb",
+      "rateyourmusic": "ukandanz",
+      "soundcloud": "https://soundcloud.com/ukandanz"
+    }
   },
   "lastfm": {
     "id": "Ukandanz/_/War+Pigs",

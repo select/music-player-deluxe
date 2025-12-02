@@ -2,7 +2,7 @@
   "youtubeId": "SDvfbvuJtS8",
   "title": "The Doomed",
   "artist": "A Perfect Circle",
-  "lastFetched": "2025-11-30T19:52:32.743Z",
+  "lastFetched": "2025-12-02T01:16:08.322Z",
   "odesli": {
     "amazonMusic": "B0DZVCZMY9",
     "amazonStore": "B0DZVCZMY9",
@@ -39,6 +39,25 @@
       "alternative rock",
       "art rock",
       "progressive rock"
-    ]
+    ],
+    "releasedAt": "2017-10-17",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "44OUZyiPnJc4pOZw4J6pid"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000479149",
+      "bandcamp": "https://a-perfect-circle.bandcamp.com/",
+      "discogs": "242802",
+      "spotify": "4DFhHyjvGYa9wxdHUjtDkc",
+      "deezer": "702",
+      "lastfm": "A+Perfect+Circle",
+      "genius": "A-perfect-circle",
+      "rateyourmusic": "a_perfect_circle",
+      "soundcloud": "https://soundcloud.com/a-perfect-circle-official",
+      "youtube": "UCMCMRWDmeB8yxfYu657YzFQ",
+      "napster": "a-perfect-circle",
+      "wikidata": "Q300519"
+    }
   }
 }

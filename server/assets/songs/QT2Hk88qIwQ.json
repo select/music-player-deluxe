@@ -1,7 +1,7 @@
 {
   "youtubeId": "QT2Hk88qIwQ",
   "title": "Ton Steine Scherben - Macht kaputt was euch kaputt macht",
-  "lastFetched": "2025-11-30T21:09:55.929Z",
+  "lastFetched": "2025-12-02T01:13:00.212Z",
   "ai": {
     "title": "Macht kaputt was euch kaputt macht",
     "artist": "Ton Steine Scherben"
@@ -14,6 +14,17 @@
       "krautrock",
       "proto-punk",
       "rock"
-    ]
+    ],
+    "releasedAt": "1981",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000725101",
+      "discogs": "312358",
+      "spotify": "6qt7HAbdjQ4a2B0sYAjySO",
+      "deezer": "327955",
+      "lastfm": "Ton+Steine+Scherben",
+      "rateyourmusic": "ton_steine_scherben",
+      "wikidata": "Q481487"
+    }
   }
 }

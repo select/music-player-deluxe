@@ -2,7 +2,7 @@
   "youtubeId": "7A2EqiLeUbk",
   "title": "Ostrova Bezi",
   "artist": "Chillera",
-  "lastFetched": "2025-11-30T22:28:35.968Z",
+  "lastFetched": "2025-12-02T00:42:35.904Z",
   "lastfm": {
     "title": "Ostrova Bezi",
     "artist": "Chillera",
@@ -20,6 +20,10 @@
   "musicbrainz": {
     "trackMbid": "59229330-afec-4959-82e9-77efe59f1b55",
     "artistMbid": "b7d73244-5274-4020-926b-c6ea53d57905",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2017-11-10",
+    "externalIdsArtist": {
+      "discogs": "5982581"
+    }
   }
 }

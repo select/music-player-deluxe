@@ -1,0 +1,32 @@
+{
+  "youtubeId": "RhHWJhRQBvY",
+  "title": "Leisure Connection 'Jungle Dancing'",
+  "lastFetched": "2025-12-02T01:15:28.825Z",
+  "ai": {
+    "title": "Jungle Dancing",
+    "artist": "Leisure Connection"
+  },
+  "lastfm": {
+    "id": "Leisure+Connection/_/Jungle+Dancing",
+    "listeners": 506,
+    "playcount": 1338,
+    "title": "Jungle Dancing",
+    "artist": "Leisure Connection",
+    "mbid": "2cc57ed0-8719-49e8-8e2a-02d66f1355c6",
+    "artistMbid": "100edd9a-627a-4ec9-8f30-c4844dec553b"
+  },
+  "musicbrainz": {
+    "trackMbid": "fd43862f-5ff8-421d-b990-f4180c24339e",
+    "artistMbid": "100edd9a-627a-4ec9-8f30-c4844dec553b",
+    "releaseCount": 1,
+    "genres": [
+      "electronic",
+      "house",
+      "leftfield"
+    ],
+    "releasedAt": "2013-08-12",
+    "externalIdsArtist": {
+      "discogs": "3415067"
+    }
+  }
+}

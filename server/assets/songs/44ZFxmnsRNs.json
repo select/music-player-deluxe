@@ -2,7 +2,7 @@
   "youtubeId": "44ZFxmnsRNs",
   "title": "Wasting Time",
   "artist": "Dallas Frasca",
-  "lastFetched": "2025-11-30T20:19:37.618Z",
+  "lastFetched": "2025-12-02T00:37:53.963Z",
   "odesli": {
     "amazonMusic": "B0D6XN97M6",
     "amazonStore": "B0D6XN97M6",
@@ -30,6 +30,18 @@
     "releaseCount": 1,
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "releasedAt": "2016-09-16",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0001485535",
+      "bandcamp": "https://dallasfrasca.bandcamp.com/",
+      "discogs": "6591488",
+      "spotify": "4qSKO2W4qPKfcWZzUdpSsM",
+      "lastfm": "Dallas%20Frasca",
+      "rateyourmusic": "dallas-frasca",
+      "soundcloud": "https://soundcloud.com/dallasfrasca",
+      "wikidata": "Q5211330"
+    }
   }
 }

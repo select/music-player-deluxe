@@ -2,7 +2,7 @@
   "youtubeId": "NfDEEyg3AdA",
   "title": "De Plata",
   "artist": "ROSALÍA",
-  "lastFetched": "2025-11-30T23:35:41.167Z",
+  "lastFetched": "2025-12-02T01:08:41.088Z",
   "odesli": {
     "amazonMusic": "B073TC1V6P",
     "amazonStore": "B073TC1V6P",
@@ -38,6 +38,23 @@
       "pop",
       "reggaeton",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2017-02-10",
+    "artistCountry": "ES",
+    "externalIdsTrack": {
+      "spotify": "3hwsaspJ90iWvBZ8Py9IpN"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003596740",
+      "discogs": "5648334",
+      "spotify": "7ltDVBr6mKbRvohxheJ9h1",
+      "deezer": "554792",
+      "lastfm": "Rosal%C3%ADa",
+      "genius": "Rosalia",
+      "rateyourmusic": "rosalia-1",
+      "soundcloud": "https://soundcloud.com/rosaliaofficial",
+      "wikidata": "Q28843759",
+      "youtube": "UCy2bCk5KnIfjmWYFHMZcd5w"
+    }
   }
 }

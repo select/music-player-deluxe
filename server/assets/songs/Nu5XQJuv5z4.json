@@ -2,7 +2,7 @@
   "youtubeId": "Nu5XQJuv5z4",
   "title": "Monterey",
   "artist": "Nick Waterhouse",
-  "lastFetched": "2025-11-23T16:37:08.812Z",
+  "lastFetched": "2025-12-02T01:09:02.896Z",
   "odesli": {
     "amazonMusic": "B0B3GHWTMR",
     "amazonStore": "B0B3GHWTMR",
@@ -27,7 +27,22 @@
       "soul"
     ],
     "trackMbid": "dda5c3e6-1e6a-4014-a99a-0e066fbc1c48",
-    "artistMbid": "b20e16f4-4af2-4234-93ca-6c79525269a1"
+    "artistMbid": "b20e16f4-4af2-4234-93ca-6c79525269a1",
+    "releasedAt": "2022-07-29",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002761055",
+      "bandcamp": "https://nickwaterhouse.bandcamp.com/",
+      "discogs": "2651559",
+      "spotify": "0V7uVrIYr4FwFvUN9S4kYr",
+      "deezer": "1154631",
+      "lastfm": "Nick%20Waterhouse",
+      "genius": "Nick-waterhouse",
+      "rateyourmusic": "nick_waterhouse",
+      "soundcloud": "https://soundcloud.com/nick-waterhouse",
+      "wikidata": "Q195479",
+      "youtube": "UC3TCiyAutMrJQ-HCWiHo56w"
+    }
   },
   "lastfm": {
     "id": "Nick+Waterhouse/_/Monterey",

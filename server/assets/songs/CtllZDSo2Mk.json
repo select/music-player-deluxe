@@ -2,7 +2,7 @@
   "youtubeId": "CtllZDSo2Mk",
   "title": "Suzie Thundertussy",
   "artist": "Junie Morrison",
-  "lastFetched": "2025-11-23T16:31:52.439Z",
+  "lastFetched": "2025-12-02T00:50:59.244Z",
   "odesli": {
     "amazonMusic": "B01BBBC5XG",
     "amazonStore": "B01BBBC5XG",
@@ -18,7 +18,17 @@
       "funk"
     ],
     "trackMbid": "053bb25b-971e-4f35-ba45-b37741ee4d15",
-    "artistMbid": "39d895fa-c8e1-4dfe-ae14-9a1a302e64aa"
+    "artistMbid": "39d895fa-c8e1-4dfe-ae14-9a1a302e64aa",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000300262",
+      "bandcamp": "https://juniemorrison.bandcamp.com/",
+      "discogs": "67807",
+      "spotify": "3shcoEVk22LlHqZHyJtZWn",
+      "deezer": "94394",
+      "rateyourmusic": "walter_junie_morrison",
+      "wikidata": "Q3364316"
+    }
   },
   "lastfm": {
     "id": "Junie+Morrison/_/Suzie+Thundertussy",

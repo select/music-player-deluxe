@@ -2,7 +2,7 @@
   "youtubeId": "RUn0TtyAqpE",
   "title": "Nubian Lady (Metisse remix)",
   "artist": "Yusef Lateef",
-  "lastFetched": "2025-11-23T16:39:03.310Z",
+  "lastFetched": "2025-12-02T01:15:05.036Z",
   "odesli": {
     "amazonMusic": "B07QLR5SN6",
     "amazonStore": "B07QLR5SN6",
@@ -36,7 +36,17 @@
       "jazz-funk"
     ],
     "trackMbid": "74da3fac-52e4-3721-9731-cb28249d1c6f",
-    "artistMbid": "2968722f-03d8-4e2f-88bc-f9975f147503"
+    "artistMbid": "2968722f-03d8-4e2f-88bc-f9975f147503",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000596922",
+      "bandcamp": "https://yuseflateef1.bandcamp.com/",
+      "discogs": "167055",
+      "spotify": "33XkS6h90eeK7e6OJHw0mq",
+      "deezer": "64449",
+      "rateyourmusic": "yusef_lateef",
+      "wikidata": "Q539832"
+    }
   },
   "lastfm": {
     "id": "Yusef+Lateef/_/Nubian+Lady+(Metisse+remix)",

@@ -2,7 +2,7 @@
   "youtubeId": "PBdH6SjBEX8",
   "title": "Falling",
   "artist": "Julee Cruise",
-  "lastFetched": "2025-11-23T16:37:35.856Z",
+  "lastFetched": "2025-12-02T01:11:09.980Z",
   "musicbrainz": {
     "artistTags": [
       "dream pop"
@@ -11,7 +11,18 @@
       "dream pop"
     ],
     "trackMbid": "8c684690-096a-3f34-b7bf-d49bfb5ebe98",
-    "artistMbid": "3b7865df-3c91-48dd-9126-a71e0dfe7f8d"
+    "artistMbid": "3b7865df-3c91-48dd-9126-a71e0dfe7f8d",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000254972",
+      "discogs": "14362",
+      "spotify": "4Pt1HZtuJwrQB8l0ES5iTX",
+      "deezer": "3031",
+      "lastfm": "Julee+Cruise",
+      "genius": "Julee-cruise",
+      "rateyourmusic": "julee-cruise",
+      "wikidata": "Q272496"
+    }
   },
   "lastfm": {
     "id": "Julee+Cruise/_/Falling",

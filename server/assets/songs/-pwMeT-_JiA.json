@@ -2,7 +2,7 @@
   "youtubeId": "-pwMeT-_JiA",
   "title": "Sareri Hovin Mernem",
   "artist": "Lena Chamamyan",
-  "lastFetched": "2025-11-30T20:06:01.089Z",
+  "lastFetched": "2025-12-02T00:32:30.706Z",
   "odesli": {
     "amazonMusic": "B015KQ04V8",
     "amazonStore": "B015KQ04V8",
@@ -30,6 +30,15 @@
     "artistGenres": [
       "néo-trad",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2010-10-01",
+    "artistCountry": "SY",
+    "externalIds": {
+      "spotify": "0LH01nWLQote2HIUL87BLc"
+    },
+    "externalIdsArtist": {
+      "spotify": "0LH01nWLQote2HIUL87BLc",
+      "wikidata": "Q2583955"
+    }
   }
 }

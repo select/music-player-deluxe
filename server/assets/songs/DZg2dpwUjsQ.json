@@ -2,7 +2,7 @@
   "youtubeId": "DZg2dpwUjsQ",
   "title": "Allo Paris",
   "artist": "Mano Solo",
-  "lastFetched": "2025-11-19T09:57:09.889Z",
+  "lastFetched": "2025-12-02T00:52:34.739Z",
   "odesli": {
     "pandora": "TR:13228960",
     "tidal": "291365",
@@ -23,6 +23,13 @@
   },
   "musicbrainz": {
     "trackMbid": "5885f2bc-686c-3bec-b144-1a326e2e7e8b",
-    "artistMbid": "5febe272-7691-4ea8-a3cf-c6c7f98d9bf1"
+    "artistMbid": "5febe272-7691-4ea8-a3cf-c6c7f98d9bf1",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "discogs": "508871",
+      "deezer": "1375",
+      "genius": "Mano-solo",
+      "wikidata": "Q1335349"
+    }
   }
 }

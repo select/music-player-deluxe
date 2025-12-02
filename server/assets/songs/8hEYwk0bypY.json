@@ -1,0 +1,50 @@
+{
+  "youtubeId": "8hEYwk0bypY",
+  "title": "Muddy Waters - Got My Mojo Workin'",
+  "lastFetched": "2025-12-02T00:44:58.176Z",
+  "ai": {
+    "title": "Got My Mojo Workin'",
+    "artist": "Muddy Waters"
+  },
+  "lastfm": {
+    "id": "Muddy+Waters/_/Got+My+Mojo+Workin%27",
+    "listeners": 7302,
+    "playcount": 21554,
+    "title": "Got My Mojo Workin'",
+    "artist": "Muddy Waters",
+    "artistMbid": "f86f1f07-d182-45ce-ae93-ef610880ca72",
+    "tags": [
+      "radio paradise",
+      "radioparadise",
+      "blues",
+      "muddy waters-got my mojo workin-"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3e48eed7-4f94-4e2f-9829-d5b052b28bea",
+    "artistMbid": "f86f1f07-d182-45ce-ae93-ef610880ca72",
+    "releaseCount": 2,
+    "genres": [
+      "blues"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "chicago blues",
+      "delta blues",
+      "electric blues",
+      "psychedelic rock"
+    ],
+    "releasedAt": "1987",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000608701",
+      "discogs": "695388",
+      "spotify": "4y6J8jwRAwO4dssiSmN91R",
+      "deezer": "5414",
+      "genius": "Muddy-waters",
+      "rateyourmusic": "muddy_waters",
+      "wikidata": "Q220707"
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "youtubeId": "HaXfvrFI4Mk",
   "title": "Entourage",
-  "lastFetched": "2025-11-30T21:12:00.454Z",
+  "lastFetched": "2025-12-02T00:59:11.947Z",
   "ai": {
     "title": "Entourage",
     "artist": "Youssoupha"
@@ -42,6 +42,17 @@
       "conscious hip hop",
       "hip hop",
       "pop rap"
-    ]
+    ],
+    "releasedAt": "2015-05-18",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0002014070",
+      "discogs": "762049",
+      "spotify": "5DW7NxqQ2875JtjuV7KMn4",
+      "deezer": "13020",
+      "genius": "Youssoupha",
+      "wikidata": "Q138856",
+      "youtube": "UCcVrym0F4OFhLkrc-f4h2sg"
+    }
   }
 }

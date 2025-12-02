@@ -2,7 +2,7 @@
   "youtubeId": "B_11rzktYnk",
   "title": "Birth",
   "artist": "The Faint",
-  "lastFetched": "2025-11-30T20:50:07.863Z",
+  "lastFetched": "2025-12-02T00:48:57.021Z",
   "odesli": {
     "amazonMusic": "B0015K33TE",
     "amazonStore": "B0015K33TE",
@@ -43,6 +43,18 @@
     "artistGenres": [
       "electronic",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2004-09-04",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000058934",
+      "discogs": "67373",
+      "spotify": "4A1yfFuBmBOgzv4Oe3fFHk",
+      "deezer": "1365",
+      "lastfm": "The+Faint",
+      "rateyourmusic": "the_faint",
+      "soundcloud": "https://soundcloud.com/thefaint",
+      "wikidata": "Q941421"
+    }
   }
 }

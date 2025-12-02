@@ -2,7 +2,7 @@
   "youtubeId": "Gf68J5iqK6g",
   "title": "Born 2 Live",
   "artist": "O.C.",
-  "lastFetched": "2025-11-30T22:35:27.624Z",
+  "lastFetched": "2025-12-02T00:57:58.031Z",
   "lastfm": {
     "title": "Born 2 Live",
     "artist": "O.C.",
@@ -32,6 +32,18 @@
       "boom bap",
       "east coast hip hop",
       "hip hop"
-    ]
+    ],
+    "releasedAt": "1994-10-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000387650",
+      "bandcamp": "https://omarcredle.bandcamp.com/",
+      "discogs": "22910",
+      "spotify": "5XI6qfoZSiEYtmItjfEX1Q",
+      "deezer": "436035",
+      "lastfm": "O.C.",
+      "rateyourmusic": "o_c_",
+      "wikidata": "Q629402"
+    }
   }
 }

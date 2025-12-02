@@ -2,7 +2,7 @@
   "youtubeId": "HpxEXMIY64c",
   "title": "Kandy",
   "artist": "Fever Ray",
-  "lastFetched": "2025-11-23T16:34:37.975Z",
+  "lastFetched": "2025-12-02T00:59:35.637Z",
   "odesli": {
     "amazonMusic": "B0BG2JTVBF",
     "amazonStore": "B0BG2JTVBF",
@@ -40,7 +40,22 @@
       "breaks"
     ],
     "trackMbid": "9257d187-93c1-43fd-9403-fb2859a7d335",
-    "artistMbid": "f7df5df4-4dfa-459d-972b-1ba051c15ddc"
+    "artistMbid": "f7df5df4-4dfa-459d-972b-1ba051c15ddc",
+    "releasedAt": "2023-01-25",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002016362",
+      "bandcamp": "https://feverray.bandcamp.com/",
+      "discogs": "325359",
+      "spotify": "5hE6NCoobhyEu6TRSbjOJY",
+      "deezer": "158709",
+      "lastfm": "Fever+Ray",
+      "genius": "Fever-ray",
+      "rateyourmusic": "fever-ray",
+      "soundcloud": "https://soundcloud.com/fever-ray",
+      "wikidata": "Q55662676",
+      "youtube": "UCSjzzQM_Cwc2QWbwvx3KDsw"
+    }
   },
   "lastfm": {
     "id": "Fever+Ray/_/Kandy",

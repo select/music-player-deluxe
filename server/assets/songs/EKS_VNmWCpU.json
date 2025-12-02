@@ -2,7 +2,7 @@
   "youtubeId": "EKS_VNmWCpU",
   "title": "32",
   "artist": "Cold Years",
-  "lastFetched": "2025-11-30T23:27:35.029Z",
+  "lastFetched": "2025-12-02T00:53:39.927Z",
   "odesli": {
     "amazonMusic": "B09SH51LY1",
     "amazonStore": "B09SH51LY1",
@@ -27,6 +27,14 @@
   "musicbrainz": {
     "artistMbid": "8de5700e-668a-41f5-8859-573a7021abaf",
     "trackMbid": "9899192d-cd49-4f62-9b58-f29d9d49d83c",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-04-22",
+    "externalIdsArtist": {
+      "bandcamp": "https://coldyears.bandcamp.com/",
+      "discogs": "6244515",
+      "spotify": "5zJB2KYIylCM6uPtl9R9yp",
+      "deezer": "7919224",
+      "lastfm": "Cold+Years"
+    }
   }
 }

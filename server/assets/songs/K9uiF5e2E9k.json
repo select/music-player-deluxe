@@ -2,7 +2,7 @@
   "youtubeId": "K9uiF5e2E9k",
   "title": "My Heroine",
   "artist": "Silverstein",
-  "lastFetched": "2025-11-23T16:35:39.697Z",
+  "lastFetched": "2025-12-02T01:03:02.204Z",
   "odesli": {
     "amazonMusic": "B09252GYS1",
     "amazonStore": "B09252GYS1",
@@ -37,7 +37,20 @@
       "metalcore"
     ],
     "trackMbid": "c6775545-5beb-3157-9529-0f0fc39b364e",
-    "artistMbid": "d89de379-665d-425c-b2e9-41b95d1edb36"
+    "artistMbid": "d89de379-665d-425c-b2e9-41b95d1edb36",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000048061",
+      "bandcamp": "https://silverstein.bandcamp.com/",
+      "discogs": "354892",
+      "spotify": "1Tsag5J854qxeOo2apszug",
+      "deezer": "5721",
+      "lastfm": "Silverstein",
+      "rateyourmusic": "silverstein",
+      "soundcloud": "https://soundcloud.com/silverstein-2",
+      "wikidata": "Q638286",
+      "youtube": "UChQidgcBzCuN2IOQ6s1wRFw"
+    }
   },
   "lastfm": {
     "id": "Silverstein/_/My+Heroine",

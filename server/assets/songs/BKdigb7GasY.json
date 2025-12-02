@@ -3,7 +3,7 @@
   "artist": "Oklou",
   "duration": 221,
   "youtubeId": "BKdigb7GasY",
-  "lastFetched": "2025-11-23T16:31:08.055Z",
+  "lastFetched": "2025-12-02T00:48:30.455Z",
   "odesli": {
     "amazonMusic": "B0FP5GH4QF",
     "amazonStore": "B0FP5GH4QF",
@@ -40,7 +40,25 @@
     ],
     "trackMbid": "31670d7c-8cd8-4d82-b314-8d185e7760e2",
     "artistMbid": "13e2db47-3010-48b8-a8b9-667551f37119",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-10-09",
+    "externalIdsTrack": {
+      "bandcamp": "https://oklou.bandcamp.com/track/viscus-feat-fka-twigs",
+      "spotify": "6T3sDq6ZvxJFZy09GDJv3K",
+      "deezer": "3596092862"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003892414",
+      "bandcamp": "https://loumar93.bandcamp.com/",
+      "discogs": "4961167",
+      "spotify": "6fFcUOFcbjeIuEomuUthkw",
+      "deezer": "11060562",
+      "lastfm": "Oklou",
+      "genius": "Oklou",
+      "rateyourmusic": "oklou-1",
+      "soundcloud": "https://soundcloud.com/oklou93",
+      "wikidata": "Q64746371"
+    }
   },
   "lastfm": {
     "id": "Oklou/_/viscus",

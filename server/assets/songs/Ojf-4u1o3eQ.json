@@ -2,7 +2,7 @@
   "youtubeId": "Ojf-4u1o3eQ",
   "title": "Affection",
   "artist": "Boys Noize",
-  "lastFetched": "2025-11-30T23:34:12.590Z",
+  "lastFetched": "2025-12-02T01:10:35.825Z",
   "odesli": {
     "amazonMusic": "B09DK6HMBF",
     "amazonStore": "B09DK6HMBF",
@@ -44,6 +44,25 @@
       "midtempo bass",
       "tech house",
       "techno"
-    ]
+    ],
+    "releasedAt": "2021-09-23",
+    "artistCountry": "DE",
+    "externalIdsTrack": {
+      "spotify": "7322doZY3H7TUYavIGhZwM",
+      "deezer": "1475324312"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000619424",
+      "bandcamp": "https://boysnoize.bandcamp.com/",
+      "discogs": "243374",
+      "spotify": "62k5LKMhymqlDNo2DWOvvv",
+      "deezer": "9907",
+      "lastfm": "Boys%20Noize",
+      "genius": "Boys-noize",
+      "rateyourmusic": "boys-noize",
+      "soundcloud": "https://soundcloud.com/boysnoize",
+      "wikidata": "Q706820",
+      "youtube": "UC1eEuqs-JhqB4daavcZ9H4g"
+    }
   }
 }

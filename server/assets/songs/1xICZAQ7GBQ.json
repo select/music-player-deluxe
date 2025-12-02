@@ -4,7 +4,7 @@
   "album": "One Day Remains",
   "duration": 307,
   "youtubeId": "1xICZAQ7GBQ",
-  "lastFetched": "2025-11-19T05:12:20.493Z",
+  "lastFetched": "2025-12-02T00:35:34.986Z",
   "odesli": {
     "amazonMusic": "B00KX5FJR6",
     "amazonStore": "B00KX5FJR6",
@@ -29,7 +29,20 @@
       "rock"
     ],
     "trackMbid": "18cbe0f1-8616-4645-a108-c149d1f805a3",
-    "artistMbid": "60a23fda-a440-4ab9-a344-7dfdd2ed341a"
+    "artistMbid": "60a23fda-a440-4ab9-a344-7dfdd2ed341a",
+    "releasedAt": "2004-08-10",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000958087",
+      "discogs": "713239",
+      "spotify": "4DWX7u8BV0vZIQSpJQQDWU",
+      "lastfm": "Alter+Bridge",
+      "genius": "Alter-bridge",
+      "rateyourmusic": "alter_bridge",
+      "soundcloud": "https://soundcloud.com/alterbridgeofficial",
+      "napster": "alter-bridge",
+      "wikidata": "Q335036"
+    }
   },
   "lastfm": {
     "id": "Alter+Bridge/_/Broken+Wings",

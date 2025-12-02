@@ -2,7 +2,7 @@
   "youtubeId": "MkgR0SxmMKo",
   "title": "Neo-Tokyo (Dance With The Dead Remix)",
   "artist": "Scandroid",
-  "lastFetched": "2025-11-30T20:35:42.432Z",
+  "lastFetched": "2025-12-02T01:07:05.624Z",
   "odesli": {
     "amazonMusic": "B08XK8PN6C",
     "amazonStore": "B08XK8PN6C",
@@ -40,6 +40,18 @@
       "electronic",
       "new wave",
       "synthwave"
-    ]
+    ],
+    "releasedAt": "2017",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003455671",
+      "bandcamp": "https://scandroid.bandcamp.com/",
+      "discogs": "3510756",
+      "spotify": "27qG899eLldfpYtPr3S3NJ",
+      "deezer": "5037816",
+      "lastfm": "Scandroid",
+      "soundcloud": "https://soundcloud.com/scandroidofficial",
+      "wikidata": "Q15052733"
+    }
   }
 }

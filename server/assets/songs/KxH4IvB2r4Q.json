@@ -3,7 +3,7 @@
   "artist": "The Prodigy",
   "duration": 253,
   "youtubeId": "KxH4IvB2r4Q",
-  "lastFetched": "2025-11-19T01:38:03.626Z",
+  "lastFetched": "2025-12-02T01:04:11.982Z",
   "name": "Omen",
   "musicbrainz": {
     "artistTags": [
@@ -22,7 +22,21 @@
     ],
     "trackMbid": "079a5ea6-1e49-4d80-85b3-60bf4adc0441",
     "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000492162",
+      "bandcamp": "https://theprodigy.bandcamp.com/",
+      "discogs": "66852",
+      "spotify": "4k1ELeJKT1ISyDv8JivPpB",
+      "deezer": "85",
+      "lastfm": "The+Prodigy",
+      "genius": "The-prodigy",
+      "rateyourmusic": "the-prodigy",
+      "soundcloud": "https://soundcloud.com/theprodigy",
+      "wikidata": "Q7256860",
+      "youtube": "UCOEO40PfRXSKhslXNgS0H8Q"
+    }
   },
   "lastfm": {
     "id": "The+Prodigy/_/Omen",

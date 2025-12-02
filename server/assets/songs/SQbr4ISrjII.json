@@ -2,7 +2,7 @@
   "youtubeId": "SQbr4ISrjII",
   "title": "Most of the Time",
   "artist": "Bob Dylan",
-  "lastFetched": "2025-11-23T16:39:25.559Z",
+  "lastFetched": "2025-12-02T01:16:23.292Z",
   "odesli": {
     "amazonMusic": "B00137V6LQ",
     "amazonStore": "B00137V6LQ",
@@ -34,7 +34,20 @@
       "country"
     ],
     "trackMbid": "01604eec-365b-4005-a86b-fbf74a9377c0",
-    "artistMbid": "72c536dc-7137-4477-a521-567eeb840fa8"
+    "artistMbid": "72c536dc-7137-4477-a521-567eeb840fa8",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000066915",
+      "discogs": "834818",
+      "spotify": "74ASZWbe4lXaubB36ztrGX",
+      "deezer": "808",
+      "lastfm": "Bob+Dylan",
+      "genius": "Bob-dylan",
+      "rateyourmusic": "bob-dylan",
+      "soundcloud": "https://soundcloud.com/bobdylan",
+      "wikidata": "Q392",
+      "youtube": "UCnRI0ay61tY-fKYzzB3fCnw"
+    }
   },
   "lastfm": {
     "id": "Bob+Dylan/_/Most+of+the+Time",

@@ -2,7 +2,7 @@
   "youtubeId": "RD8QLNiolfk",
   "title": "Racing With the Sun",
   "artist": "Chinese Man",
-  "lastFetched": "2025-11-30T21:19:36.276Z",
+  "lastFetched": "2025-12-02T01:14:12.338Z",
   "odesli": {
     "amazonMusic": "B004QNYE22",
     "amazonStore": "B004QNYE22",
@@ -38,6 +38,19 @@
     "releaseCount": 2,
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2012-11-12",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0001055682",
+      "bandcamp": "https://chinese-man.bandcamp.com/",
+      "discogs": "976494",
+      "spotify": "6vgw0jwJkUnW2NR1rzsQU3",
+      "deezer": "58801",
+      "lastfm": "Chinese+Man",
+      "soundcloud": "https://soundcloud.com/chineseman",
+      "wikidata": "Q2963764",
+      "youtube": "UCa2OR2nl26Ht0Gg_IkCd7DQ"
+    }
   }
 }

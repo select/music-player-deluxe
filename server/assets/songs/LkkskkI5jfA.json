@@ -2,7 +2,7 @@
   "youtubeId": "LkkskkI5jfA",
   "title": "Krautwickel",
   "artist": "Lucas Croon",
-  "lastFetched": "2025-11-30T22:45:39.620Z",
+  "lastFetched": "2025-12-02T01:05:30.362Z",
   "odesli": {
     "amazonMusic": "B0CTRNVZ6X",
     "amazonStore": "B0CTRNVZ6X",
@@ -23,6 +23,12 @@
   "musicbrainz": {
     "artistMbid": "3d1e33c5-93e5-477d-af54-de23fda1b348",
     "trackMbid": "8a5b591b-7b0d-4dd3-8aec-d093aae05211",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2024-03-01",
+    "externalIdsArtist": {
+      "discogs": "1842806",
+      "spotify": "0KB64He7gdUpIIfg3DzH5Z",
+      "deezer": "10934546"
+    }
   }
 }

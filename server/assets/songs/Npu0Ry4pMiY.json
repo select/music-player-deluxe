@@ -2,7 +2,7 @@
   "youtubeId": "Npu0Ry4pMiY",
   "title": "Detonate",
   "artist": "Netta",
-  "lastFetched": "2025-11-30T22:08:47.170Z",
+  "lastFetched": "2025-12-02T01:08:56.085Z",
   "odesli": {
     "amazonMusic": "B0DVT8ZDFM",
     "amazonStore": "B0DVT8ZDFM",
@@ -36,6 +36,18 @@
       "dance",
       "electropop",
       "pop"
-    ]
+    ],
+    "releasedAt": "2025-03-13",
+    "artistCountry": "IL",
+    "externalIdsArtist": {
+      "allmusic": "mn0000387390",
+      "discogs": "6428285",
+      "spotify": "4Z4afeDmHFxPmJorIwupbZ",
+      "deezer": "14306691",
+      "lastfm": "Netta",
+      "genius": "Netta-barzilai",
+      "wikidata": "Q48654131",
+      "youtube": "UC1-uIm6HCLwNqKpLYVvEE5w"
+    }
   }
 }

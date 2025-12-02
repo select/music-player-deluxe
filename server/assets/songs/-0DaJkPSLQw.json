@@ -2,7 +2,7 @@
   "youtubeId": "-0DaJkPSLQw",
   "title": "Desperado",
   "artist": "Alice Cooper",
-  "lastFetched": "2025-11-30T21:47:49.915Z",
+  "lastFetched": "2025-12-02T00:31:50.364Z",
   "odesli": {
     "amazonMusic": "B00DAMOHAE",
     "amazonStore": "B00DAMOHAE",
@@ -33,7 +33,6 @@
   "musicbrainz": {
     "trackMbid": "d7ebc9cb-b437-4464-9674-19b537d5ba42",
     "artistMbid": "4d7928cd-7ed2-4282-8c29-c0c9f966f1bd",
-    "releaseCount": 25,
     "genres": [
       "classic rock",
       "hard rock",
@@ -51,6 +50,19 @@
       "pop rock",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1971-11-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000005953",
+      "discogs": "48433",
+      "spotify": "3EhbVgyfGd7HkpsagwL9GS",
+      "deezer": "687",
+      "lastfm": "Alice+Cooper",
+      "genius": "Alice-cooper",
+      "rateyourmusic": "the_spiders_f4",
+      "wikidata": "Q16821277",
+      "youtube": "UCSjn-oQV136VoKk7FXxxZ0w"
+    }
   }
 }

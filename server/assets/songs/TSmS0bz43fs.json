@@ -2,7 +2,7 @@
   "youtubeId": "TSmS0bz43fs",
   "title": "Catalyst",
   "artist": "Gantz",
-  "lastFetched": "2025-11-19T09:48:30.819Z",
+  "lastFetched": "2025-12-02T01:18:17.585Z",
   "lastfm": {
     "id": "Gantz/_/Catalyst",
     "listeners": 526,
@@ -16,6 +16,12 @@
   },
   "musicbrainz": {
     "trackMbid": "078d4989-99e0-47cf-aa54-837a8edcf92b",
-    "artistMbid": "b6a0411e-ce2c-4ef1-baa7-4302ca4c77bc"
+    "artistMbid": "b6a0411e-ce2c-4ef1-baa7-4302ca4c77bc",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "discogs": "500408",
+      "lastfm": "Gantz",
+      "rateyourmusic": "gantz"
+    }
   }
 }

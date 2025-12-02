@@ -3,7 +3,7 @@
   "artist": "The Banana Splits",
   "duration": 145,
   "youtubeId": "3cfHKmQ2ZzI",
-  "lastFetched": "2025-11-23T16:27:28.887Z",
+  "lastFetched": "2025-12-02T00:37:26.388Z",
   "odesli": {
     "amazonMusic": "B0DVJ6YX7P",
     "amazonStore": "B0DVJ6YX7P",
@@ -22,7 +22,16 @@
     ],
     "trackMbid": "6f9c8921-91ce-467a-ae56-4d1433b7c7dd",
     "artistMbid": "710ac829-5739-43eb-a1c3-92894adc5f48",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1968",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000038389",
+      "discogs": "396568",
+      "lastfm": "The%20Banana%20Splits",
+      "rateyourmusic": "the_banana_splits",
+      "wikidata": "Q100724788"
+    }
   },
   "lastfm": {
     "id": "The+Banana+Splits/_/I%27m+Gonna+Find+a+Cave",

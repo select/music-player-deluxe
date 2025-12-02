@@ -1,0 +1,46 @@
+{
+  "youtubeId": "e33b5rW8zS0",
+  "title": "Boy Harsher - Careful (2019) Full Album",
+  "lastFetched": "2025-12-01T11:48:40.897Z",
+  "ai": {
+    "title": "Careful",
+    "artist": "Boy Harsher"
+  },
+  "lastfm": {
+    "id": "Boy+Harsher/_/Careful",
+    "listeners": 22834,
+    "playcount": 93901,
+    "title": "Careful",
+    "artist": "Boy Harsher",
+    "mbid": "3eed5c39-f44c-47ac-be0b-6a9a0adb97bc",
+    "artistMbid": "6dc9bc09-a0c7-40f9-b491-f90845927533",
+    "tags": [
+      "spoken word",
+      "ambient",
+      "dark ambient",
+      "industrial",
+      "post-industrial"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ddaee5f4-15c0-441d-8d4b-a314dee79f9e",
+    "artistMbid": "6dc9bc09-a0c7-40f9-b491-f90845927533",
+    "releaseCount": 2,
+    "genres": [
+      "dark wave",
+      "ebm",
+      "electronic"
+    ],
+    "artistGenres": [
+      "coldwave",
+      "drone",
+      "ebm",
+      "electronic",
+      "minimal wave",
+      "new wave",
+      "noise",
+      "spoken word",
+      "techno"
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "Q7soN6HNU3Y",
   "title": "16 Words",
   "artist": "Margo Guryan",
-  "lastFetched": "2025-11-23T16:38:03.959Z",
+  "lastFetched": "2025-12-02T01:12:30.464Z",
   "musicbrainz": {
     "artistTags": [
       "pop",
@@ -17,7 +17,15 @@
       "sunshine pop"
     ],
     "trackMbid": "5985131f-41d0-34d2-ad67-a6dfe0bc2457",
-    "artistMbid": "cd2867c5-c2f0-4f86-b8aa-a7be324cb916"
+    "artistMbid": "cd2867c5-c2f0-4f86-b8aa-a7be324cb916",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "461538",
+      "spotify": "3SMY2MGuaUOhuPpgRn6clw",
+      "deezer": "430871",
+      "genius": "Margo-guryan",
+      "wikidata": "Q3290616"
+    }
   },
   "lastfm": {
     "id": "Margo+Guryan/_/16+Words",

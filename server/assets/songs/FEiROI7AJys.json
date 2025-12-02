@@ -1,7 +1,7 @@
 {
   "youtubeId": "FEiROI7AJys",
   "title": "Euzen - Metamorph - 07 Metamorph",
-  "lastFetched": "2025-11-30T19:55:09.015Z",
+  "lastFetched": "2025-12-02T00:55:19.442Z",
   "ai": {
     "title": "Metamorph",
     "artist": "Euzen"
@@ -35,6 +35,13 @@
       "folk",
       "progressive rock",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2015-02-04",
+    "artistCountry": "DK",
+    "externalIdsArtist": {
+      "bandcamp": "https://euzen.bandcamp.com/",
+      "discogs": "2367922",
+      "wikidata": "Q19508184"
+    }
   }
 }

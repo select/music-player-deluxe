@@ -2,7 +2,7 @@
   "youtubeId": "J7ATTjg7tpE",
   "title": "Oye Como Va",
   "artist": "Santana",
-  "lastFetched": "2025-11-30T19:37:05.508Z",
+  "lastFetched": "2025-12-02T01:01:24.265Z",
   "odesli": {
     "amazonMusic": "B00137KSV0",
     "amazonStore": "B00137KSV0",
@@ -60,6 +60,19 @@
       "pop rock",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1973-07-03",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000295756",
+      "discogs": "30724",
+      "spotify": "6GI52t8N5F02MxU0g5U69P",
+      "deezer": "553",
+      "lastfm": "Santana",
+      "genius": "Santana",
+      "rateyourmusic": "santana",
+      "wikidata": "Q873384",
+      "youtube": "UCty_FzLdVEPlsUMg1O8eEgA"
+    }
   }
 }

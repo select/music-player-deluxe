@@ -2,7 +2,7 @@
   "youtubeId": "BOZrxbbtxD0",
   "title": "Blank Project",
   "artist": "Neneh Cherry",
-  "lastFetched": "2025-11-23T16:31:13.806Z",
+  "lastFetched": "2025-12-02T00:48:40.389Z",
   "odesli": {
     "amazonMusic": "B084SQN67Y",
     "amazonStore": "B084SQN67Y",
@@ -42,7 +42,21 @@
       "pop"
     ],
     "trackMbid": "20d8c078-e8b3-4f3e-b27c-756afe52f16c",
-    "artistMbid": "527c65d1-9fdb-4482-8796-dde2980bd63a"
+    "artistMbid": "527c65d1-9fdb-4482-8796-dde2980bd63a",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000332257",
+      "bandcamp": "https://nenehcherry.bandcamp.com/",
+      "discogs": "11449",
+      "spotify": "3JxCEqL9zjKnDJgUhRuRJD",
+      "deezer": "2680",
+      "lastfm": "Neneh+Cherry",
+      "genius": "Neneh-cherry",
+      "rateyourmusic": "neneh_cherry",
+      "soundcloud": "https://soundcloud.com/nenehcherry",
+      "wikidata": "Q233342",
+      "youtube": "UCqvh_VyeJTfHTyOV9mT4PaQ"
+    }
   },
   "lastfm": {
     "id": "Neneh+Cherry/_/Blank+Project",

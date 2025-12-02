@@ -2,7 +2,7 @@
   "youtubeId": "MFF3LJ678kY",
   "title": "High Rise",
   "artist": "Hawkwind",
-  "lastFetched": "2025-11-30T21:47:39.573Z",
+  "lastFetched": "2025-12-02T01:06:22.281Z",
   "lastfm": {
     "id": "Hawkwind/_/High+Rise",
     "listeners": 6528,
@@ -34,6 +34,21 @@
       "psychedelic rock",
       "rock",
       "space rock"
-    ]
+    ],
+    "releasedAt": "1980-10",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000672011",
+      "bandcamp": "https://hawkwindofficial.bandcamp.com/",
+      "discogs": "929351",
+      "spotify": "2jK54ZlZhTF1TxygsVeR05",
+      "deezer": "9920",
+      "lastfm": "Hawkwind",
+      "genius": "Hawkwind",
+      "rateyourmusic": "hawkwind",
+      "soundcloud": "https://soundcloud.com/hawkwind-official",
+      "wikidata": "Q285966",
+      "youtube": "UCikVYXon0_RNmMzqPVRB3mQ"
+    }
   }
 }

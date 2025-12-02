@@ -2,7 +2,7 @@
   "youtubeId": "BWf-eARnf6U",
   "title": "Heal the World",
   "artist": "Michael Jackson",
-  "lastFetched": "2025-11-30T20:00:35.733Z",
+  "lastFetched": "2025-12-02T00:48:52.063Z",
   "odesli": {
     "amazonMusic": "B0011GDR9S",
     "amazonStore": "B0011GDR9S",
@@ -55,6 +55,21 @@
       "pop soul",
       "r&b",
       "soul"
-    ]
+    ],
+    "releasedAt": "1992",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000467203",
+      "discogs": "15885",
+      "spotify": "3fMbdgg4jU18AjLCKBhRSm",
+      "deezer": "259",
+      "lastfm": "Michael+Jackson",
+      "genius": "Michael-jackson",
+      "rateyourmusic": "michael_jackson",
+      "soundcloud": "https://soundcloud.com/mjimmortal",
+      "napster": "michael-jackson",
+      "wikidata": "Q2831",
+      "youtube": "UCoIOOL7QKuBhQHVKL8y7BEQ"
+    }
   }
 }

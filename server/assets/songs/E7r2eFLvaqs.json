@@ -1,7 +1,7 @@
 {
   "youtubeId": "E7r2eFLvaqs",
   "title": "IAMDYNAMITE - Stereo [HD]",
-  "lastFetched": "2025-11-30T20:39:55.849Z",
+  "lastFetched": "2025-12-02T00:53:20.523Z",
   "ai": {
     "title": "Stereo",
     "artist": "IAMDYNAMITE"
@@ -29,6 +29,13 @@
       "alternative rock",
       "indie rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2012-06-05",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "2604889",
+      "spotify": "7zwglk4YBuDu1r4Es8Eucw",
+      "youtube": "UCivYCYVW4rSQmrNoEBfCqHw"
+    }
   }
 }

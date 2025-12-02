@@ -2,7 +2,7 @@
   "youtubeId": "SzquiIj0MFE",
   "title": "Cherubic Hymn",
   "artist": "Bruce Haack",
-  "lastFetched": "2025-11-30T22:05:14.729Z",
+  "lastFetched": "2025-12-02T01:17:27.170Z",
   "odesli": {
     "amazonMusic": "B09PMNWFRX",
     "amazonStore": "B09PMNWFRX",
@@ -43,6 +43,15 @@
       "electronic",
       "experimental",
       "moogsploitation"
-    ]
+    ],
+    "releasedAt": "2007-05-14",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000529565",
+      "discogs": "26952",
+      "lastfm": "Bruce%20Haack",
+      "rateyourmusic": "bruce_haack",
+      "wikidata": "Q365270"
+    }
   }
 }

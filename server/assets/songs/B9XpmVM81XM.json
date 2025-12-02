@@ -3,7 +3,7 @@
   "artist": "I Am Legion",
   "duration": 190,
   "youtubeId": "B9XpmVM81XM",
-  "lastFetched": "2025-11-19T04:28:04.518Z",
+  "lastFetched": "2025-12-02T00:48:20.838Z",
   "odesli": {
     "amazonMusic": "B00U45EGQK",
     "amazonStore": "B00U45EGQK",
@@ -21,7 +21,18 @@
     ],
     "trackMbid": "4183bb72-7efd-43c0-b731-c0b390012a0e",
     "artistMbid": "d88c7701-dea3-4436-acd1-2ce2ac0e0869",
-    "releaseCount": 10
+    "releaseCount": 10,
+    "releasedAt": "2013-07-15",
+    "artistCountry": "XE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003130367",
+      "discogs": "3376861",
+      "spotify": "2wNMk7BiCiuO7hjGZPZYuJ",
+      "deezer": "4890924",
+      "lastfm": "I+Am+Legion",
+      "soundcloud": "https://soundcloud.com/iamlegionmusic",
+      "youtube": "UCS3_xYova7A94ZKZmzykoxQ"
+    }
   },
   "lastfm": {
     "id": "I+Am+Legion/_/Make+Those+Move",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "OXBYn9X4ooA",
   "title": "Foamplate - Smokey Joe",
-  "lastFetched": "2025-11-30T20:49:33.971Z",
+  "lastFetched": "2025-12-02T01:10:11.157Z",
   "ai": {
     "title": "Smokey Joe",
     "artist": "Foamplate"
@@ -20,6 +20,15 @@
   "musicbrainz": {
     "trackMbid": "c108f3e9-e394-4b68-bed1-8b9e25fc8f25",
     "artistMbid": "12b18202-9e48-4f89-93cd-ad420d45ff10",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2016-02-12",
+    "externalIdsArtist": {
+      "discogs": "4553658",
+      "spotify": "2QaEAd5s6mZkvrItP2yYYP",
+      "deezer": "8659428",
+      "lastfm": "Foamplate",
+      "rateyourmusic": "foamplate",
+      "soundcloud": "https://soundcloud.com/foamplate"
+    }
   }
 }

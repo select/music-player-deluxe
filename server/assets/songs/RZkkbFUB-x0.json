@@ -2,7 +2,7 @@
   "youtubeId": "RZkkbFUB-x0",
   "title": "Alone Again Or",
   "artist": "Calexico",
-  "lastFetched": "2025-11-23T16:39:05.806Z",
+  "lastFetched": "2025-12-02T01:15:14.622Z",
   "odesli": {
     "amazonMusic": "B0BX1WMTP5",
     "amazonStore": "B0BX1WMTP5",
@@ -35,7 +35,19 @@
       "indie rock"
     ],
     "trackMbid": "15bde335-c1b9-3cea-b5e1-9ae996952663",
-    "artistMbid": "5e372a49-5672-4fb8-ba14-18c90780c4f9"
+    "artistMbid": "5e372a49-5672-4fb8-ba14-18c90780c4f9",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000944293",
+      "bandcamp": "https://casadecalexico.bandcamp.com/",
+      "discogs": "9856",
+      "spotify": "1OmdWpAh1pucAuZPzJaxIJ",
+      "deezer": "1596",
+      "lastfm": "Calexico",
+      "genius": "Calexico",
+      "rateyourmusic": "calexico",
+      "wikidata": "Q1026652"
+    }
   },
   "lastfm": {
     "id": "Calexico/_/Alone+Again+Or",

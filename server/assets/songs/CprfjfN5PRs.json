@@ -4,7 +4,7 @@
   "album": "No More Tears",
   "duration": 355,
   "youtubeId": "CprfjfN5PRs",
-  "lastFetched": "2025-11-19T05:16:54.518Z",
+  "lastFetched": "2025-12-02T00:50:49.519Z",
   "odesli": {
     "amazonMusic": "B00137IENY",
     "amazonStore": "B00137IENY",
@@ -39,7 +39,22 @@
       "Ozzy Osbourne"
     ],
     "trackMbid": "68e216c6-67b2-4f26-b914-2e6508f250dc",
-    "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934"
+    "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+    "releasedAt": "1991",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000424244",
+      "discogs": "59770",
+      "spotify": "6ZLTlhejhndI4Rh53vYhrY",
+      "deezer": "823",
+      "lastfm": "Ozzy+Osbourne",
+      "genius": "Ozzy-osbourne",
+      "rateyourmusic": "ozzy-osbourne",
+      "soundcloud": "https://soundcloud.com/ozzy-osbourne-official",
+      "napster": "ozzy-osbourne",
+      "wikidata": "Q133151",
+      "youtube": "UC3oY0sESMqxZaAy8nRcVxQQ"
+    }
   },
   "lastfm": {
     "id": "Ozzy+Osbourne/_/No+More+Tears",

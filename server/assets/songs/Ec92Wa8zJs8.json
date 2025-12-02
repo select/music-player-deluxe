@@ -2,7 +2,7 @@
   "youtubeId": "Ec92Wa8zJs8",
   "title": "Find Me",
   "artist": "Sigma",
-  "lastFetched": "2025-11-30T20:31:37.325Z",
+  "lastFetched": "2025-12-02T00:54:12.138Z",
   "odesli": {
     "amazonMusic": "B01MQ1YIL7",
     "amazonStore": "B01MQ1YIL7",
@@ -40,6 +40,18 @@
     "artistGenres": [
       "drum and bass",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2016-11-04",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000027780",
+      "discogs": "561924",
+      "spotify": "01pKrlgPJhm5dB4lneYAqS",
+      "deezer": "278529",
+      "rateyourmusic": "sigma_f3",
+      "soundcloud": "https://soundcloud.com/sigmahq",
+      "wikidata": "Q16333772",
+      "youtube": "UCaEe1-y6J_QZzc-fTh0ieuQ"
+    }
   }
 }

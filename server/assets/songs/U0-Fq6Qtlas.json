@@ -2,7 +2,7 @@
   "youtubeId": "U0-Fq6Qtlas",
   "title": "Guiar",
   "artist": "Carlos Maria Trindade",
-  "lastFetched": "2025-11-23T16:40:08.428Z",
+  "lastFetched": "2025-12-02T01:19:07.090Z",
   "odesli": {
     "amazonMusic": "B005D9DKAU",
     "amazonStore": "B005D9DKAU",
@@ -28,7 +28,14 @@
       "jazz"
     ],
     "trackMbid": "15615848-9d3f-38c0-ac2b-295ba918f3ee",
-    "artistMbid": "11a0e11c-5e86-4e13-9e52-7d037b21ed73"
+    "artistMbid": "11a0e11c-5e86-4e13-9e52-7d037b21ed73",
+    "artistCountry": "PT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000795315",
+      "discogs": "104022",
+      "rateyourmusic": "carlos_maria_trindade",
+      "wikidata": "Q1043041"
+    }
   },
   "lastfm": {
     "id": "Carlos+Maria+Trindade/_/Guiar",

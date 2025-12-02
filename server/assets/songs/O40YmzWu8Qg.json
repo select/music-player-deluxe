@@ -2,7 +2,7 @@
   "youtubeId": "O40YmzWu8Qg",
   "title": "Auburn",
   "artist": "Glass Museum",
-  "lastFetched": "2025-11-30T23:28:56.325Z",
+  "lastFetched": "2025-12-02T01:09:27.648Z",
   "odesli": {
     "amazonMusic": "B09Y1BRF69",
     "amazonStore": "B09Y1BRF69",
@@ -33,6 +33,15 @@
   "musicbrainz": {
     "artistMbid": "84fe88ef-3ac0-49a1-95c7-3aa9d4062149",
     "trackMbid": "a5c5fe68-84f8-4c41-a3bd-e126ba570e3a",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-04-29",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "bandcamp": "https://glassmuseumbe.bandcamp.com/",
+      "discogs": "6535851",
+      "spotify": "0bq8ZdJxUOXswye4qT4zzU",
+      "deezer": "5562267",
+      "youtube": "UCjHUnRVND8giqgZGr8Twp-w"
+    }
   }
 }

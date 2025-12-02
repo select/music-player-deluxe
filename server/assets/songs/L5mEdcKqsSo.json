@@ -2,7 +2,7 @@
   "youtubeId": "L5mEdcKqsSo",
   "title": "Open Door",
   "artist": "Losoul",
-  "lastFetched": "2025-11-30T21:53:03.707Z",
+  "lastFetched": "2025-12-02T01:04:27.678Z",
   "odesli": {
     "amazonMusic": "B0BHWLVNL5",
     "amazonStore": "B0BHWLVNL5",
@@ -30,6 +30,13 @@
   "musicbrainz": {
     "trackMbid": "033e0f39-c1b6-447e-908d-4b3a64f20703",
     "artistMbid": "c64bbb9f-1acb-40fa-abb3-2ca0246bdee1",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "1996-01",
+    "externalIdsArtist": {
+      "allmusic": "mn0000218903",
+      "discogs": "1531",
+      "spotify": "0jO0TlgxW9Il5JphAWzhR4",
+      "rateyourmusic": "losoul"
+    }
   }
 }

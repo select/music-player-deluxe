@@ -2,7 +2,7 @@
   "youtubeId": "7326Bn4FoJc",
   "title": "Wie schnell ist nix passiert",
   "artist": "Stoppok",
-  "lastFetched": "2025-11-30T19:28:06.150Z",
+  "lastFetched": "2025-12-02T00:42:25.916Z",
   "odesli": {
     "amazonMusic": "B00N2X7SLG",
     "amazonStore": "B00N2X7SLG",
@@ -36,6 +36,13 @@
       "liedermacher",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2014-09-26",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "3300495",
+      "rateyourmusic": "stoppok",
+      "wikidata": "Q2337752"
+    }
   }
 }

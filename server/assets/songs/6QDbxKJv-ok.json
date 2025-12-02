@@ -1,7 +1,7 @@
 {
   "youtubeId": "6QDbxKJv-ok",
   "title": "Red Rider - Human Race",
-  "lastFetched": "2025-11-30T20:27:58.519Z",
+  "lastFetched": "2025-12-02T00:41:17.425Z",
   "ai": {
     "title": "Human Race",
     "artist": "Red Rider"
@@ -37,6 +37,19 @@
       "new wave",
       "pop rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1983-01-18",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000883619",
+      "discogs": "527597",
+      "spotify": "4EGlaDAVZTNNknDdKHrHRp",
+      "deezer": "240941",
+      "lastfm": "Red+Rider",
+      "genius": "Red-rider",
+      "rateyourmusic": "red_rider",
+      "wikidata": "Q7304796",
+      "youtube": "UCRvr9QQF15xw7idpFqvd6KA"
+    }
   }
 }

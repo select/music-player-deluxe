@@ -2,7 +2,7 @@
   "youtubeId": "6mx4PvA21Iw",
   "title": "Returning",
   "artist": "Paul White",
-  "lastFetched": "2025-11-30T20:07:45.079Z",
+  "lastFetched": "2025-12-02T00:41:49.147Z",
   "odesli": {
     "amazonMusic": "B07B2WTP1M",
     "amazonStore": "B07B2WTP1M",
@@ -40,6 +40,15 @@
     "releaseCount": 1,
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2018-04-28",
+    "externalIdsArtist": {
+      "allmusic": "mn0002141768",
+      "bandcamp": "https://paulwhite.bandcamp.com/",
+      "discogs": "934385",
+      "spotify": "5agXR9PXcQ3whCRLu8LeeN",
+      "rateyourmusic": "paul_white",
+      "soundcloud": "https://soundcloud.com/paulwhitebeats"
+    }
   }
 }

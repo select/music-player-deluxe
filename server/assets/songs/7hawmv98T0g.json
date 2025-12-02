@@ -1,7 +1,7 @@
 {
   "youtubeId": "7hawmv98T0g",
   "title": "Sub sUB (doves) - Firesuite",
-  "lastFetched": "2025-11-30T20:45:03.236Z",
+  "lastFetched": "2025-12-02T00:43:43.840Z",
   "ai": {
     "title": "Firesuite",
     "artist": "Sub sUB"
@@ -24,6 +24,16 @@
   "musicbrainz": {
     "trackMbid": "7e8388c4-c312-4132-b464-bfc3b4414cc7",
     "artistMbid": "1a29b6f0-7016-4b56-863c-84b55541edbe",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1998",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000484057",
+      "discogs": "26531",
+      "deezer": "1634981",
+      "lastfm": "Sub%20Sub",
+      "rateyourmusic": "sub-sub",
+      "wikidata": "Q4050294"
+    }
   }
 }

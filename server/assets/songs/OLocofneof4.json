@@ -1,7 +1,7 @@
 {
   "youtubeId": "OLocofneof4",
   "title": "Aspettami",
-  "lastFetched": "2025-11-30T20:03:55.002Z",
+  "lastFetched": "2025-12-02T01:09:58.755Z",
   "ai": {
     "title": "Aspettami",
     "artist": "I Muvrini"
@@ -44,6 +44,15 @@
     "artistGenres": [
       "folk",
       "worldbeat"
-    ]
+    ],
+    "releasedAt": "2002",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "discogs": "394844",
+      "spotify": "6F0Plr9cZQ71ExSA4PGX7r",
+      "deezer": "3659",
+      "wikidata": "Q234929",
+      "youtube": "UCaEvMWzk3LdCpMZnntkdYwQ"
+    }
   }
 }

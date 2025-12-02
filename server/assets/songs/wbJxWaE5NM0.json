@@ -1,0 +1,40 @@
+{
+  "youtubeId": "wbJxWaE5NM0",
+  "title": "Larkin Poe - When God Closes A Door",
+  "lastFetched": "2025-12-01T11:48:17.510Z",
+  "ai": {
+    "title": "When God Closes A Door",
+    "artist": "Larkin Poe"
+  },
+  "lastfm": {
+    "id": "Larkin+Poe/_/When+God+Closes+A+Door",
+    "listeners": 3735,
+    "playcount": 19119,
+    "title": "When God Closes A Door",
+    "artist": "Larkin Poe",
+    "mbid": "0477857e-5a32-46bd-91f6-235423683088",
+    "artistMbid": "ec5436c4-c44a-47f5-a640-da8d376a3871",
+    "tags": [
+      "country",
+      "folk",
+      "blues",
+      "rock",
+      "blues rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ca7b74a4-520c-4de2-807a-3cac14c2fbe4",
+    "artistMbid": "ec5436c4-c44a-47f5-a640-da8d376a3871",
+    "releaseCount": 4,
+    "genres": [
+      "folk rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "folk rock",
+      "indie rock"
+    ]
+  }
+}

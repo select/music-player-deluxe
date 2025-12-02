@@ -1,0 +1,62 @@
+{
+  "youtubeId": "DqfpF8oBmxY",
+  "title": "Lovesong (Brecon Remix)",
+  "artist": "Max Cooper",
+  "lastFetched": "2025-12-02T00:52:56.276Z",
+  "odesli": {
+    "amazonMusic": "B07NQQLV58",
+    "amazonStore": "B07NQQLV58",
+    "anghami": "47212090",
+    "boomplay": "6370264",
+    "deezer": "632966492",
+    "appleMusic": "1453023563",
+    "itunes": "1453023563",
+    "napster": "tra.354218579",
+    "pandora": "TR:16701573",
+    "soundcloud": "breconbreconbrecon/lovesong-max-cooper-brecon-remix",
+    "spotify": "4PafdDEYZaRJhmycPMu0VH",
+    "youtube": "DqfpF8oBmxY",
+    "youtubeMusic": "DqfpF8oBmxY"
+  },
+  "lastfm": {
+    "id": "Max+Cooper/_/Lovesong+(Brecon+Remix)",
+    "listeners": 216,
+    "playcount": 540,
+    "title": "Lovesong (Brecon Remix)",
+    "artist": "Max Cooper",
+    "mbid": "f2073fac-2a4f-4f55-91e4-97754eeabae5",
+    "artistMbid": "2d68f237-4e00-424a-a03e-d16993d1da15",
+    "tags": [
+      "minimal",
+      "minimal techno",
+      "techno",
+      "electronic",
+      "tech house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "df111034-471f-4fdd-8982-e35b99dbb70e",
+    "artistMbid": "2d68f237-4e00-424a-a03e-d16993d1da15",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ambient",
+      "electronic",
+      "electronica",
+      "techno"
+    ],
+    "releasedAt": "2019-03-21",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002002647",
+      "bandcamp": "https://maxcooper.bandcamp.com/",
+      "discogs": "830699",
+      "spotify": "0WSSKmoRbxqLf3MnXInQ2J",
+      "deezer": "181041",
+      "lastfm": "Max+Cooper",
+      "genius": "Max-cooper",
+      "rateyourmusic": "max-cooper",
+      "soundcloud": "https://soundcloud.com/max-cooper",
+      "wikidata": "Q6794665"
+    }
+  }
+}

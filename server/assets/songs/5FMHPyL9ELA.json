@@ -2,7 +2,7 @@
   "youtubeId": "5FMHPyL9ELA",
   "title": "Schlohweißer Tag",
   "artist": "Silly",
-  "lastFetched": "2025-11-23T16:28:20.491Z",
+  "lastFetched": "2025-12-02T00:39:46.075Z",
   "odesli": {
     "amazonMusic": "B0084N1RH0",
     "amazonStore": "B0084N1RH0",
@@ -33,7 +33,15 @@
       "rock"
     ],
     "trackMbid": "051a930a-eb24-47c9-b4a0-ff2b417193f3",
-    "artistMbid": "be28f50e-2d75-4fb2-95c3-371fda5c2667"
+    "artistMbid": "be28f50e-2d75-4fb2-95c3-371fda5c2667",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "4620624",
+      "spotify": "4vvZMdl6p2XjdcmxA9dRws",
+      "deezer": "69961",
+      "rateyourmusic": "silly",
+      "wikidata": "Q446484"
+    }
   },
   "lastfm": {
     "id": "Silly/_/Schlohwei%C3%9Fer+Tag",

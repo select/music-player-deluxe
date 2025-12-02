@@ -1,7 +1,7 @@
 {
   "youtubeId": "R5Mx7x_F_Iw",
   "title": "Altan Urag - Temuujin",
-  "lastFetched": "2025-11-30T20:42:57.966Z",
+  "lastFetched": "2025-12-02T01:13:58.746Z",
   "ai": {
     "title": "Temuujin",
     "artist": "Altan Urag"
@@ -23,6 +23,17 @@
     "releaseCount": 1,
     "artistGenres": [
       "folk rock"
-    ]
+    ],
+    "releasedAt": "2009",
+    "artistCountry": "MN",
+    "externalIdsArtist": {
+      "allmusic": "mn0001017054",
+      "discogs": "2057171",
+      "deezer": "282923",
+      "lastfm": "Altan+urag",
+      "genius": "Altan-urag",
+      "rateyourmusic": "altan_urag",
+      "wikidata": "Q2975964"
+    }
   }
 }

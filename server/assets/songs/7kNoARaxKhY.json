@@ -2,7 +2,7 @@
   "youtubeId": "7kNoARaxKhY",
   "title": "Exposition 5",
   "artist": "Philippe Laurent",
-  "lastFetched": "2025-11-30T21:40:32.699Z",
+  "lastFetched": "2025-12-02T00:43:49.338Z",
   "odesli": {
     "amazonMusic": "B0059F9P9I",
     "amazonStore": "B0059F9P9I",
@@ -45,6 +45,13 @@
       "industrial",
       "minimal synth",
       "neoclassicism"
-    ]
+    ],
+    "releasedAt": "2011-06-09",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "discogs": "208090",
+      "rateyourmusic": "philippe_laurent",
+      "wikidata": "Q19629820"
+    }
   }
 }

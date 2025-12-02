@@ -2,7 +2,7 @@
   "youtubeId": "AszabgCs6d8",
   "title": "Devotion And Desire",
   "artist": "Bayside",
-  "lastFetched": "2025-11-30T19:31:38.838Z",
+  "lastFetched": "2025-12-02T00:48:00.965Z",
   "odesli": {
     "amazonMusic": "B073GLJCDH",
     "amazonStore": "B073GLJCDH",
@@ -43,6 +43,19 @@
       "emo",
       "punk rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2005-08-23",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000151504",
+      "bandcamp": "https://baysidemusic.bandcamp.com/",
+      "discogs": "373997",
+      "spotify": "51J0q8S7W3kIEYHQi3EPqk",
+      "deezer": "12836",
+      "lastfm": "Bayside",
+      "rateyourmusic": "bayside",
+      "soundcloud": "https://soundcloud.com/baysideofficial",
+      "wikidata": "Q812627"
+    }
   }
 }

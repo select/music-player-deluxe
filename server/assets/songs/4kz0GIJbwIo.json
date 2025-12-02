@@ -2,7 +2,7 @@
   "youtubeId": "4kz0GIJbwIo",
   "title": "Funky Stuff",
   "artist": "Kool & The Gang",
-  "lastFetched": "2025-11-30T22:18:17.455Z",
+  "lastFetched": "2025-12-02T00:39:10.326Z",
   "odesli": {
     "amazonMusic": "B000VZRDIG",
     "amazonStore": "B000VZRDIG",
@@ -49,6 +49,21 @@
       "pop soul",
       "soul",
       "synth funk"
-    ]
+    ],
+    "releasedAt": "1991",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000777210",
+      "discogs": "48865",
+      "spotify": "3VNITwohbvU5Wuy5PC6dsI",
+      "deezer": "305",
+      "lastfm": "Kool+&+The+Gang",
+      "genius": "Kool-and-the-gang",
+      "rateyourmusic": "kool_and_the_gang",
+      "soundcloud": "https://soundcloud.com/koolandthegang",
+      "napster": "kool-and-the-gang",
+      "wikidata": "Q850290",
+      "youtube": "UCX8pxyrMe7tJDhpM2DRgHvw"
+    }
   }
 }

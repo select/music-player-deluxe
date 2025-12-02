@@ -2,7 +2,7 @@
   "youtubeId": "DoA88OnR8UA",
   "title": "There's a woman",
   "artist": "Gino Soccio",
-  "lastFetched": "2025-11-30T22:15:53.500Z",
+  "lastFetched": "2025-12-02T00:52:54.165Z",
   "lastfm": {
     "title": "There's a woman",
     "artist": "Gino Soccio",
@@ -21,6 +21,17 @@
       "disco",
       "electronic",
       "pop"
-    ]
+    ],
+    "releasedAt": "1979-02-15",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000552576",
+      "discogs": "75922",
+      "spotify": "3q2AjYY7FmiMh29bKki4EE",
+      "deezer": "248825",
+      "lastfm": "Gino+Soccio",
+      "rateyourmusic": "gino_soccio",
+      "wikidata": "Q556728"
+    }
   }
 }

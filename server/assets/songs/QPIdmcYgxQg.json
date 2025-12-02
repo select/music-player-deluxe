@@ -2,7 +2,7 @@
   "youtubeId": "QPIdmcYgxQg",
   "title": "Helicopter",
   "artist": "Bloc Party",
-  "lastFetched": "2025-11-19T13:14:25.986Z",
+  "lastFetched": "2025-12-02T01:12:54.622Z",
   "odesli": {
     "amazonMusic": "B00122WZ9E",
     "amazonStore": "B00122WZ9E",
@@ -23,7 +23,21 @@
       "alternative"
     ],
     "trackMbid": "5270941d-5ec3-3803-9b66-7cb553ab913d",
-    "artistMbid": "8c538f11-c141-4588-8ecb-931083524186"
+    "artistMbid": "8c538f11-c141-4588-8ecb-931083524186",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000223861",
+      "discogs": "226215",
+      "spotify": "3MM8mtgFzaEJsqbjZBSsHJ",
+      "deezer": "8514548",
+      "lastfm": "Bloc+Party",
+      "genius": "Bloc-party",
+      "rateyourmusic": "bloc_party",
+      "soundcloud": "https://soundcloud.com/blocparty",
+      "napster": "bloc-party",
+      "wikidata": "Q205838",
+      "youtube": "UC0vVHeqTu59ATT9JRv1Zjzg"
+    }
   },
   "lastfm": {
     "id": "Bloc+Party/_/Helicopter",

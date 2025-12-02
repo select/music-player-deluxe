@@ -1,7 +1,7 @@
 {
   "youtubeId": "C18MDTO2aI4",
   "title": "LSB - Tripped",
-  "lastFetched": "2025-11-30T20:05:49.008Z",
+  "lastFetched": "2025-12-02T00:49:38.821Z",
   "ai": {
     "title": "Tripped",
     "artist": "LSB"
@@ -25,6 +25,15 @@
     "releaseCount": 2,
     "artistGenres": [
       "drum and bass"
-    ]
+    ],
+    "releasedAt": "2018-03-09",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "804768",
+      "spotify": "7M5ogsZnEm96Va8wLKvftN",
+      "deezer": "172975",
+      "lastfm": "LSB",
+      "soundcloud": "https://soundcloud.com/lukelsb"
+    }
   }
 }

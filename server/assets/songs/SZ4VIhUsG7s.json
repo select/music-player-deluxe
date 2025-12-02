@@ -2,7 +2,7 @@
   "youtubeId": "SZ4VIhUsG7s",
   "title": "Computer Language",
   "artist": "Grouch in Dub",
-  "lastFetched": "2025-11-30T23:03:42.012Z",
+  "lastFetched": "2025-12-02T01:16:40.065Z",
   "odesli": {
     "amazonMusic": "B07H17QNZ3",
     "amazonStore": "B07H17QNZ3",
@@ -37,6 +37,16 @@
       "psychedelic",
       "psytrance",
       "trance"
-    ]
+    ],
+    "releasedAt": "2018-03-03",
+    "artistCountry": "NZ",
+    "externalIdsArtist": {
+      "bandcamp": "https://grouchnz.bandcamp.com/",
+      "discogs": "607844",
+      "spotify": "5OSiAhozbPQrCsZHZmT3YF",
+      "deezer": "310197",
+      "soundcloud": "https://soundcloud.com/grouchnz",
+      "youtube": "UCMJCZgcJU4JDxUS0aN0fgdQ"
+    }
   }
 }

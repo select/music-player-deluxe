@@ -2,7 +2,7 @@
   "youtubeId": "FBiWjtlX4k0",
   "title": "Ghost",
   "artist": "CHON",
-  "lastFetched": "2025-11-23T16:33:25.811Z",
+  "lastFetched": "2025-12-02T00:55:10.728Z",
   "odesli": {
     "amazonMusic": "B0FBCM7FD6",
     "amazonStore": "B0FBCM7FD6",
@@ -27,7 +27,18 @@
       "progressive rock"
     ],
     "trackMbid": "227cb31f-fcb2-47d4-bf76-16688f75bacb",
-    "artistMbid": "d7235f31-229a-4c04-abca-14e0fbcba26e"
+    "artistMbid": "d7235f31-229a-4c04-abca-14e0fbcba26e",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003371416",
+      "bandcamp": "https://chonofficial.bandcamp.com/",
+      "discogs": "1765699",
+      "spotify": "2JFljHPanIjYy2QqfNYvC0",
+      "deezer": "5523798",
+      "lastfm": "CHON",
+      "rateyourmusic": "chon",
+      "wikidata": "Q19864572"
+    }
   },
   "lastfm": {
     "id": "CHON/_/Ghost",

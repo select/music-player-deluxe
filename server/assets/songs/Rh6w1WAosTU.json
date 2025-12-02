@@ -2,7 +2,7 @@
   "youtubeId": "Rh6w1WAosTU",
   "title": "Hunter's Harp",
   "artist": "Dirtwire",
-  "lastFetched": "2025-11-30T22:06:53.330Z",
+  "lastFetched": "2025-12-02T01:15:26.809Z",
   "odesli": {
     "amazonMusic": "B09BYWXF8C",
     "amazonStore": "B09BYWXF8C",
@@ -44,6 +44,16 @@
       "electronic",
       "electronica",
       "world fusion"
-    ]
+    ],
+    "releasedAt": "2012-05-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://dirtwiremusic.bandcamp.com/",
+      "discogs": "3488565",
+      "spotify": "0hc2qwaU2xy7LUd0FRjcHK",
+      "deezer": "5170949",
+      "rateyourmusic": "dirtwire",
+      "soundcloud": "https://soundcloud.com/dirtwire"
+    }
   }
 }

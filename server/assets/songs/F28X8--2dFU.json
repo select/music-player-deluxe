@@ -1,7 +1,7 @@
 {
   "youtubeId": "F28X8--2dFU",
   "title": "(I Know) I'm Losing You",
-  "lastFetched": "2025-11-30T21:27:51.248Z",
+  "lastFetched": "2025-12-02T00:54:43.185Z",
   "ai": {
     "title": "I Know I'm Losing You",
     "artist": "Rare Earth"
@@ -40,6 +40,17 @@
       "psychedelic rock",
       "psychedelic soul",
       "rock"
-    ]
+    ],
+    "releasedAt": "2000",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000339490",
+      "discogs": "21207",
+      "spotify": "6eEsIl4wosvhuWI0mfXxAF",
+      "deezer": "10377",
+      "lastfm": "Rare+Earth",
+      "rateyourmusic": "rare-earth",
+      "wikidata": "Q2131764"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "NJYzpNHJ2mY",
   "title": "Willow Weep For Me (2018 Stereo Mix)",
   "artist": "Frank Sinatra",
-  "lastFetched": "2025-11-23T16:36:51.822Z",
+  "lastFetched": "2025-12-02T01:08:02.134Z",
   "odesli": {
     "amazonMusic": "B07GRG6KFR",
     "amazonStore": "B07GRG6KFR",
@@ -41,7 +41,19 @@
       "lounge"
     ],
     "trackMbid": "569f689a-c88b-4955-bfe7-3257ecc0eaa8",
-    "artistMbid": "197450cd-0124-4164-b723-3c22dd16494d"
+    "artistMbid": "197450cd-0124-4164-b723-3c22dd16494d",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000792507",
+      "discogs": "52833",
+      "spotify": "1Mxqyy3pSjf8kZZL4QVxS0",
+      "deezer": "617",
+      "lastfm": "Frank+Sinatra",
+      "genius": "Frank-sinatra",
+      "rateyourmusic": "frank_sinatra",
+      "napster": "frank-sinatra",
+      "wikidata": "Q40912"
+    }
   },
   "lastfm": {
     "id": "Frank+Sinatra/_/Willow+Weep+For+Me+(2018+Stereo+Mix)",

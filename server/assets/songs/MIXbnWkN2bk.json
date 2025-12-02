@@ -2,7 +2,7 @@
   "youtubeId": "MIXbnWkN2bk",
   "title": "Club Quarters",
   "artist": "The Physics House Band",
-  "lastFetched": "2025-11-30T23:27:39.565Z",
+  "lastFetched": "2025-12-02T01:06:26.833Z",
   "odesli": {
     "amazonMusic": "B09ML1M7R2",
     "amazonStore": "B09ML1M7R2",
@@ -36,6 +36,18 @@
     "releaseCount": 1,
     "artistGenres": [
       "math rock"
-    ]
+    ],
+    "releasedAt": "2021-12-10",
+    "externalIdsArtist": {
+      "allmusic": "mn0003086349",
+      "bandcamp": "https://tphb.bandcamp.com/",
+      "discogs": "2924155",
+      "spotify": "30EilmonVXftR1pWoALezP",
+      "lastfm": "The+Physics+House+Band",
+      "rateyourmusic": "the-physics-house-band",
+      "apple": "503850474",
+      "soundcloud": "https://soundcloud.com/thephysicshouseband",
+      "wikidata": "Q30594675"
+    }
   }
 }

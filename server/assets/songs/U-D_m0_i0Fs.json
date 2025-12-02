@@ -2,7 +2,7 @@
   "youtubeId": "U-D_m0_i0Fs",
   "title": "Feast",
   "artist": "Avant",
-  "lastFetched": "2025-11-23T16:40:06.537Z",
+  "lastFetched": "2025-12-02T01:19:04.423Z",
   "odesli": {
     "amazonMusic": "B0BFJZ1JJ3",
     "amazonStore": "B0BFJZ1JJ3",
@@ -29,7 +29,16 @@
       "singer-songwriter"
     ],
     "trackMbid": "2d4491be-eb11-40f0-87c5-e6d216c285de",
-    "artistMbid": "6255c59a-de38-44de-b966-a3c4686f9941"
+    "artistMbid": "6255c59a-de38-44de-b966-a3c4686f9941",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000062412",
+      "discogs": "5377127",
+      "spotify": "0AunegKKH2ys98aLxq8G1A",
+      "deezer": "798",
+      "wikidata": "Q724485",
+      "youtube": "UC2xAT_5Nedx_bvybMjHNyTA"
+    }
   },
   "lastfm": {
     "id": "Avant/_/Feast",

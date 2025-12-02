@@ -2,7 +2,7 @@
   "youtubeId": "GpBFOJ3R0M4",
   "title": "Only Happy When It Rains",
   "artist": "Garbage",
-  "lastFetched": "2025-11-23T16:34:13.878Z",
+  "lastFetched": "2025-12-02T00:58:20.137Z",
   "odesli": {
     "amazonMusic": "B014M3JODO",
     "amazonStore": "B014M3JODO",
@@ -35,7 +35,21 @@
       "trip hop"
     ],
     "trackMbid": "4a8eb49a-c14d-4e41-a7a3-cf89ee0f45a8",
-    "artistMbid": "f9ef7a22-4262-4596-a2a8-1d19345b8e50"
+    "artistMbid": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+    "releasedAt": "2025-08-17",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000194246",
+      "discogs": "12332",
+      "spotify": "6S0GHTqz5sxK5f9HtLXn9q",
+      "deezer": "485",
+      "lastfm": "Garbage",
+      "genius": "Garbage",
+      "rateyourmusic": "garbage",
+      "napster": "garbage",
+      "wikidata": "Q485673",
+      "youtube": "UCzVBX_zq9EXcWL8YN2kpssQ"
+    }
   },
   "lastfm": {
     "id": "Garbage/_/Only+Happy+When+It+Rains",

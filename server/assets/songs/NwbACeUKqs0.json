@@ -2,7 +2,7 @@
   "youtubeId": "NwbACeUKqs0",
   "title": "FINA TAWA",
   "artist": "Afel Bocoum",
-  "lastFetched": "2025-11-30T22:54:35.464Z",
+  "lastFetched": "2025-12-02T01:09:10.288Z",
   "odesli": {
     "amazonMusic": "B0042KHEG2",
     "amazonStore": "B0042KHEG2",
@@ -32,6 +32,15 @@
   "musicbrainz": {
     "artistMbid": "d09eb662-bd34-4837-9e74-21afcd5373e3",
     "trackMbid": "32d19254-9a5e-4bf2-b5a5-12976ee25a07",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2009-01-01",
+    "artistCountry": "ML",
+    "externalIdsArtist": {
+      "allmusic": "mn0000601707",
+      "bandcamp": "https://afelbocoum.bandcamp.com/",
+      "discogs": "599243",
+      "spotify": "06Ib5crxFFg8jg3q8ZP77W",
+      "wikidata": "Q2825720"
+    }
   }
 }

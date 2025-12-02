@@ -1,7 +1,7 @@
 {
   "youtubeId": "8r67q9uPk8E",
   "title": "Boozoo Bajou - Satta (Full Album) [2001]",
-  "lastFetched": "2025-11-30T20:19:29.016Z",
+  "lastFetched": "2025-12-02T00:45:22.024Z",
   "ai": {
     "title": "Satta",
     "artist": "Boozoo Bajou"
@@ -38,6 +38,18 @@
       "nu jazz",
       "reggae",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2001-06",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000088329",
+      "discogs": "3749",
+      "spotify": "2I36EjIVz3vDfROgj1MfZ3",
+      "deezer": "6280",
+      "lastfm": "Boozoo%20Bajou",
+      "rateyourmusic": "boozoo_bajou",
+      "soundcloud": "https://soundcloud.com/boozoobajou",
+      "wikidata": "Q469099"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "8SsPgE27Blc",
   "title": "Holy Hell",
   "artist": "Eddie Chacon",
-  "lastFetched": "2025-11-19T08:21:14.234Z",
+  "lastFetched": "2025-12-02T00:44:42.952Z",
   "odesli": {
     "amazonMusic": "B0B6QN3K9Q",
     "amazonStore": "B0B6QN3K9Q",
@@ -28,6 +28,14 @@
   },
   "musicbrainz": {
     "trackMbid": "439bc5e1-bb24-4ad5-a4fc-25bca132bca4",
-    "artistMbid": "6996c534-61ca-4c7d-805b-07247227f902"
+    "artistMbid": "6996c534-61ca-4c7d-805b-07247227f902",
+    "releasedAt": "2022-08-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://eddiechaconofficial.bandcamp.com/",
+      "discogs": "537248",
+      "deezer": "4530727",
+      "wikidata": "Q5335919"
+    }
   }
 }

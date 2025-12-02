@@ -1,0 +1,43 @@
+{
+  "youtubeId": "Ix8R8SbBzJM",
+  "title": "Jack Conte - I Know Better",
+  "lastFetched": "2025-12-02T01:01:04.716Z",
+  "ai": {
+    "title": "I Know Better",
+    "artist": "Jack Conte"
+  },
+  "lastfm": {
+    "id": "Jack+Conte/_/I+Know+Better",
+    "listeners": 89,
+    "playcount": 707,
+    "title": "I Know Better",
+    "artist": "Jack Conte",
+    "mbid": "1b7f929b-a042-4d20-a4ef-408032ee44e3",
+    "artistMbid": "f86acb2e-03fa-4992-957a-6f7d0155b34e",
+    "tags": [
+      "experimental",
+      "indie",
+      "psychedelic",
+      "indietronica",
+      "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3ef911d7-8665-432a-a668-ca0244fee235",
+    "artistMbid": "f86acb2e-03fa-4992-957a-6f7d0155b34e",
+    "releaseCount": 1,
+    "releasedAt": "2013-05-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001435248",
+      "bandcamp": "https://jackconte.bandcamp.com/",
+      "discogs": "3281506",
+      "spotify": "3NhMdYv1pNWHQZruHqs4FY",
+      "deezer": "4333521",
+      "lastfm": "Jack+Conte",
+      "rateyourmusic": "jack-conte",
+      "soundcloud": "https://soundcloud.com/jackconte",
+      "wikidata": "Q14648645"
+    }
+  }
+}

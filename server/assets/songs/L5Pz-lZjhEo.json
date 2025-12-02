@@ -2,7 +2,7 @@
   "youtubeId": "L5Pz-lZjhEo",
   "title": "Golden Woman",
   "artist": "Monster Truck",
-  "lastFetched": "2025-11-30T23:27:20.931Z",
+  "lastFetched": "2025-12-02T01:04:25.031Z",
   "odesli": {
     "amazonMusic": "B0DZTG64RT",
     "amazonStore": "B0DZTG64RT",
@@ -36,6 +36,22 @@
       "hard rock",
       "rock",
       "stoner rock"
-    ]
+    ],
+    "releasedAt": "2022-09-09",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0002830365",
+      "bandcamp": "https://monstertruckrock.bandcamp.com/",
+      "discogs": "2831934",
+      "spotify": "0slSgjqTuj6hcod6IcG6zu",
+      "deezer": "981492",
+      "lastfm": "Monster+Truck",
+      "genius": "Monster-truck",
+      "rateyourmusic": "monster_truck",
+      "soundcloud": "https://soundcloud.com/monster-truck-official",
+      "napster": "monster-truck",
+      "wikidata": "Q15052816",
+      "youtube": "UCNSI2VrlYXoRnofey_li3Sw"
+    }
   }
 }

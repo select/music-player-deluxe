@@ -4,7 +4,7 @@
   "album": "Der gestichelte Kater",
   "duration": 42,
   "youtubeId": "7I75a27Cgfs",
-  "lastFetched": "2025-11-23T16:29:25.812Z",
+  "lastFetched": "2025-12-02T00:43:00.211Z",
   "musicbrainz": {
     "artistTags": [
       "2000s",
@@ -20,7 +20,23 @@
       "rap metal"
     ],
     "trackMbid": "d6795cd8-ad71-44cd-b5ad-05b3e498eee8",
-    "artistMbid": "ebf76ca6-a2c5-4d3a-8e84-7fa3be9e22ab"
+    "artistMbid": "ebf76ca6-a2c5-4d3a-8e84-7fa3be9e22ab",
+    "releasedAt": "2025-10-15",
+    "artistCountry": "DE",
+    "externalIdsTrack": {
+      "spotify": "7sstpSWpmIgrxZ4u0WqrAq",
+      "deezer": "3570808841"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002814203",
+      "discogs": "3403223",
+      "spotify": "0r0R5nIjDY04TfxRM10Bcb",
+      "deezer": "1191410",
+      "lastfm": "Alligatoah",
+      "genius": "Alligatoah",
+      "soundcloud": "https://soundcloud.com/alligatoahofficial",
+      "wikidata": "Q1731236"
+    }
   },
   "lastfm": {
     "id": "Alligatoah/_/Der+gestichelte+Kater+-+Inhaltsangabe",

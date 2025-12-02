@@ -2,7 +2,7 @@
   "youtubeId": "97Sg3rE3epw",
   "title": "Caillebotis",
   "artist": "Glass Museum",
-  "lastFetched": "2025-11-30T23:31:54.761Z",
+  "lastFetched": "2025-12-02T00:45:44.246Z",
   "odesli": {
     "amazonMusic": "B09Y1BJTR4",
     "amazonStore": "B09Y1BJTR4",
@@ -29,6 +29,15 @@
   "musicbrainz": {
     "artistMbid": "84fe88ef-3ac0-49a1-95c7-3aa9d4062149",
     "trackMbid": "276f2c54-8941-49f8-a0d4-c2b9243961b7",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-02-25",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "bandcamp": "https://glassmuseumbe.bandcamp.com/",
+      "discogs": "6535851",
+      "spotify": "0bq8ZdJxUOXswye4qT4zzU",
+      "deezer": "5562267",
+      "youtube": "UCjHUnRVND8giqgZGr8Twp-w"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "8wWvuVhOz-I",
   "title": "Walk together",
   "artist": "Raum",
-  "lastFetched": "2025-11-19T08:44:39.074Z",
+  "lastFetched": "2025-12-02T00:45:29.517Z",
   "odesli": {
     "amazonMusic": "B09RDSH441",
     "amazonStore": "B09RDSH441",
@@ -33,6 +33,7 @@
   },
   "musicbrainz": {
     "trackMbid": "2e42a1b9-15a9-43e6-992c-5e811881e501",
-    "artistMbid": "50ed738b-11fb-4fef-805c-a8dffb1c7b02"
+    "artistMbid": "50ed738b-11fb-4fef-805c-a8dffb1c7b02",
+    "releasedAt": "2022-02-04"
   }
 }

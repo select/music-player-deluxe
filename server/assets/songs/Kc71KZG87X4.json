@@ -2,7 +2,7 @@
   "youtubeId": "Kc71KZG87X4",
   "title": "Burning Heart",
   "artist": "Survivor",
-  "lastFetched": "2025-11-30T23:33:08.476Z",
+  "lastFetched": "2025-12-02T01:03:35.451Z",
   "odesli": {
     "amazonMusic": "B00137IM90",
     "amazonStore": "B00137IM90",
@@ -46,6 +46,16 @@
       "hard rock",
       "pop rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1985",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000039637",
+      "discogs": "149347",
+      "spotify": "26bcq2nyj5GB7uRr558iQg",
+      "deezer": "39",
+      "rateyourmusic": "survivor",
+      "wikidata": "Q1135315"
+    }
   }
 }

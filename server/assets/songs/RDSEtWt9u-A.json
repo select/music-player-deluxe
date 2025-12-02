@@ -3,7 +3,7 @@
   "artist": "Everything Everything",
   "duration": 202,
   "youtubeId": "RDSEtWt9u-A",
-  "lastFetched": "2025-11-19T05:03:40.807Z",
+  "lastFetched": "2025-12-02T01:14:15.476Z",
   "odesli": {
     "audius": "4k37z84",
     "anghami": "5249454",
@@ -25,7 +25,26 @@
     ],
     "trackMbid": "6803b9fc-204a-4858-877d-1d5c652afb6b",
     "artistMbid": "251e10fb-4ed1-4a79-8655-7f22d461a689",
-    "releaseCount": 12
+    "releaseCount": 12,
+    "releasedAt": "2015-04-30",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "5cjzNdEuGUxygnHlV3kNyo",
+      "deezer": "98429064"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002371422",
+      "bandcamp": "https://everythingeverything.bandcamp.com/",
+      "discogs": "1380904",
+      "spotify": "1HOeqtP7tHkKNJNLzQ2tnr",
+      "deezer": "157701",
+      "lastfm": "Everything+Everything",
+      "genius": "Everything-everything",
+      "rateyourmusic": "everything_everything",
+      "soundcloud": "https://soundcloud.com/everythingeverything",
+      "wikidata": "Q1382296",
+      "youtube": "UCRqHYLgmWogpGTBijijv5lg"
+    }
   },
   "lastfm": {
     "id": "Everything+Everything/_/Regret",

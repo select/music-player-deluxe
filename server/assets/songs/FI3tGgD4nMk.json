@@ -1,7 +1,7 @@
 {
   "youtubeId": "FI3tGgD4nMk",
   "title": "Animaniacs - Schnitzelbank",
-  "lastFetched": "2025-11-30T20:55:55.997Z",
+  "lastFetched": "2025-12-02T00:55:32.698Z",
   "ai": {
     "title": "Schnitzelbank",
     "artist": "Animaniacs"
@@ -28,6 +28,13 @@
     "releaseCount": 3,
     "genres": [
       "comedy"
-    ]
+    ],
+    "releasedAt": "1993-11-16",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "1218305",
+      "spotify": "40UNA6rYal5Bd8tm3BHcHY",
+      "wikidata": "Q547744"
+    }
   }
 }

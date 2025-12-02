@@ -2,7 +2,7 @@
   "youtubeId": "EoRCCBoi4dc",
   "title": "White",
   "artist": "Minus 8",
-  "lastFetched": "2025-11-19T17:46:12.051Z",
+  "lastFetched": "2025-12-02T00:54:26.563Z",
   "odesli": {
     "amazonMusic": "B0B36T1TPT",
     "amazonStore": "B0B36T1TPT",
@@ -24,6 +24,15 @@
   },
   "musicbrainz": {
     "trackMbid": "291b9c08-1756-48f7-acfc-94b1e68bb87f",
-    "artistMbid": "463a94f1-2713-40b1-9c88-dcc9c0170cae"
+    "artistMbid": "463a94f1-2713-40b1-9c88-dcc9c0170cae",
+    "artistCountry": "CH",
+    "externalIdsArtist": {
+      "allmusic": "mn0000498192",
+      "discogs": "768",
+      "spotify": "5reIQ0pcUjR46GIyTCyR6B",
+      "deezer": "10547",
+      "rateyourmusic": "minus_8",
+      "wikidata": "Q1369091"
+    }
   }
 }

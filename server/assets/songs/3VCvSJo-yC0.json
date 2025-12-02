@@ -1,7 +1,7 @@
 {
   "youtubeId": "3VCvSJo-yC0",
   "title": "Shoot It Out",
-  "lastFetched": "2025-11-30T21:13:45.609Z",
+  "lastFetched": "2025-12-02T00:37:14.913Z",
   "ai": {
     "title": "Shoot It Out",
     "artist": "10 Years"
@@ -50,6 +50,22 @@
       "nu metal",
       "post-grunge",
       "rock"
-    ]
+    ],
+    "releasedAt": "2010-06-12",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000331323",
+      "bandcamp": "https://10years.bandcamp.com/",
+      "discogs": "991804",
+      "spotify": "0REMf7H0VP6DwfZ9MbuWph",
+      "deezer": "344",
+      "lastfm": "10+Years",
+      "genius": "10-years",
+      "rateyourmusic": "10_years",
+      "soundcloud": "https://soundcloud.com/10years",
+      "napster": "10-years",
+      "wikidata": "Q169119",
+      "youtube": "UCc0ku51qLvL1JexzKXh01sg"
+    }
   }
 }

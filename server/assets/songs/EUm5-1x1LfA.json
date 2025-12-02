@@ -1,0 +1,71 @@
+{
+  "youtubeId": "EUm5-1x1LfA",
+  "title": "Why Bother?",
+  "artist": "Weezer",
+  "lastFetched": "2025-12-02T00:53:59.265Z",
+  "odesli": {
+    "amazonMusic": "B000W23K9E",
+    "amazonStore": "B000W23K9E",
+    "soundcloud": "weezer/why-bother",
+    "spotify": "43Qr1YBCY3vSVCvZuR0PCb",
+    "tidal": "634691",
+    "youtube": "EUm5-1x1LfA",
+    "youtubeMusic": "EUm5-1x1LfA"
+  },
+  "lastfm": {
+    "summary": "Written by Rivers Cuomo and demoed in early 1994 before the release of the Blue Album, \"Why Bother?\" is the fourth track in Weezer's 1996 album, Pinkerton.\n\nThe lyrics describe feeling hopeless in attempting the pursuit of a romantic interest due to past failures, worried about getting hurt and abandoned again. <a href=\"http://www.last.fm/music/Weezer/_/Why+Bother%3F\">Read more on Last.fm</a>.",
+    "id": "Weezer/_/Why+Bother%3F",
+    "listeners": 436476,
+    "playcount": 3595028,
+    "tags": [
+      "rock",
+      "alternative rock",
+      "alternative",
+      "punk",
+      "power pop"
+    ],
+    "title": "Why Bother?",
+    "artist": "Weezer",
+    "mbid": "0f220ead-aebd-4512-bc75-89931e87a97a",
+    "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04"
+  },
+  "musicbrainz": {
+    "trackMbid": "975c5751-00af-45ed-8ec9-fe1d37166f9a",
+    "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+    "releaseCount": 19,
+    "genres": [
+      "alternative rock",
+      "emo",
+      "power pop"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "alternative rock",
+      "emo",
+      "geek rock",
+      "mainstream rock",
+      "pop rock",
+      "power pop",
+      "rock"
+    ],
+    "releasedAt": "1996-08-24",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "4W3uLgQTUl4fXAIdAvFRzK",
+      "deezer": "7310018"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000243008",
+      "discogs": "105730",
+      "spotify": "3jOstUTkEu2JkjvRdBA5Gu",
+      "deezer": "418",
+      "lastfm": "Weezer",
+      "genius": "Weezer",
+      "rateyourmusic": "weezer",
+      "soundcloud": "https://soundcloud.com/weezer",
+      "napster": "weezer",
+      "wikidata": "Q209956",
+      "youtube": "UCtHZHneyvFGwxg6MHcbMLAw"
+    }
+  }
+}

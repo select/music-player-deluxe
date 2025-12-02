@@ -2,7 +2,7 @@
   "youtubeId": "8yA9tc86inc",
   "title": "Liebeslied",
   "artist": "Knorkator",
-  "lastFetched": "2025-11-30T23:08:24.261Z",
+  "lastFetched": "2025-12-02T00:45:34.529Z",
   "lastfm": {
     "id": "Knorkator/_/Liebeslied",
     "listeners": 648,
@@ -16,6 +16,19 @@
   "musicbrainz": {
     "trackMbid": "c2391034-ced8-40b4-9a23-917f8fc29f19",
     "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
-    "releaseCount": 0
+    "releaseCount": 0,
+    "externalIdsArtist": {
+      "allmusic": "mn0000911512",
+      "bandcamp": "https://knorkator.bandcamp.com/",
+      "discogs": "351541",
+      "spotify": "5iFI4j0w7RbSJmkbI6rqzi",
+      "deezer": "7097",
+      "lastfm": "Knorkator",
+      "genius": "Knorkator",
+      "rateyourmusic": "knorkator",
+      "soundcloud": "https://soundcloud.com/knorkatorofficial",
+      "wikidata": "Q696919",
+      "youtube": "UCDchoKSWD6v70-MOKgBWFXQ"
+    }
   }
 }

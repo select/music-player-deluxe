@@ -2,7 +2,7 @@
   "youtubeId": "0-7IHOXkiV8",
   "title": "Way Down We Go",
   "artist": "KALEO",
-  "lastFetched": "2025-11-30T20:53:57.262Z",
+  "lastFetched": "2025-12-02T00:19:47.390Z",
   "odesli": {
     "amazonMusic": "B0131ICFMS",
     "amazonStore": "B0131ICFMS",
@@ -52,6 +52,21 @@
       "blues rock",
       "indie folk",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2015-08-07",
+    "artistCountry": "IS",
+    "externalIds": {
+      "allmusic": "mn0003393991",
+      "discogs": "3902380",
+      "spotify": "7jdFEYD2LTYjfwxOdlVjmc"
+    },
+    "externalIdsTrack": {
+      "spotify": "0orWjv5j8GZuyFuZkYjDxv"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003393991",
+      "discogs": "3902380",
+      "spotify": "7jdFEYD2LTYjfwxOdlVjmc"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "7NK_JOkuSVY",
   "title": "Lost",
   "artist": "Linkin Park",
-  "lastFetched": "2025-11-19T11:11:29.524Z",
+  "lastFetched": "2025-12-02T00:43:07.275Z",
   "odesli": {
     "amazonMusic": "B0C2K344FN",
     "amazonStore": "B0C2K344FN",
@@ -31,7 +31,27 @@
       "metal"
     ],
     "trackMbid": "71274005-b4e4-42c9-b9c9-cdecde31a82f",
-    "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+    "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+    "releasedAt": "2023-02-10",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "3RQHAFkEHiFHQ7qmMpKRdv",
+      "deezer": "2218801587"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000289599",
+      "discogs": "901845",
+      "spotify": "6XyY86QOPPrYVGvF9ch6wz",
+      "qobuz": "308709",
+      "deezer": "92",
+      "lastfm": "Linkin+Park",
+      "genius": "Linkin-park",
+      "rateyourmusic": "linkin_park",
+      "soundcloud": "https://soundcloud.com/linkinpark",
+      "napster": "linkin-park",
+      "wikidata": "Q261",
+      "youtube": "UCxgN32UVVztKAQd2HkXzBtw"
+    }
   },
   "lastfm": {
     "id": "Linkin+Park/_/Lost",

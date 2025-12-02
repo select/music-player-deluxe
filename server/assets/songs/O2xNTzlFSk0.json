@@ -2,7 +2,7 @@
   "youtubeId": "O2xNTzlFSk0",
   "title": "Im Nin'Alu",
   "artist": "Ofra Haza",
-  "lastFetched": "2025-11-30T22:25:38.227Z",
+  "lastFetched": "2025-12-02T01:09:22.384Z",
   "ai": {
     "title": "Im Nin'Alu",
     "artist": "Ofra Haza"
@@ -17,6 +17,19 @@
     "artistGenres": [
       "folk",
       "pop"
-    ]
+    ],
+    "releasedAt": "1984",
+    "artistCountry": "IL",
+    "externalIdsArtist": {
+      "allmusic": "mn0000458759",
+      "discogs": "32388",
+      "spotify": "6tOL5L1TlmBLdFMeEoXgae",
+      "deezer": "64132",
+      "lastfm": "Ofra%20Haza",
+      "genius": "Ofra-haza",
+      "rateyourmusic": "%D7%A2%D7%A4%D7%A8%D7%94-%D7%97%D7%96%D7%94",
+      "wikidata": "Q111087",
+      "youtube": "UCiZg7Rni9hUdT1fKAOJrAIQ"
+    }
   }
 }

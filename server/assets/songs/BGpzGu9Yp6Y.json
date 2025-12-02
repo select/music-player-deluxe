@@ -3,7 +3,7 @@
   "artist": "Skrillex",
   "duration": 219,
   "youtubeId": "BGpzGu9Yp6Y",
-  "lastFetched": "2025-11-19T03:39:15.032Z",
+  "lastFetched": "2025-12-02T00:48:28.172Z",
   "odesli": {
     "amazonMusic": "B0092W4L0C",
     "amazonStore": "B0092W4L0C",
@@ -41,7 +41,21 @@
     ],
     "trackMbid": "7af8e4a7-2c0c-4ccc-bb94-10ac757adfbd",
     "artistMbid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2012-09-06",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002365087",
+      "discogs": "479897",
+      "spotify": "5he5w2lnU9x7JFhnwcekXX",
+      "deezer": "525643",
+      "lastfm": "Skrillex",
+      "genius": "Sonny-moore",
+      "rateyourmusic": "sonny-moore",
+      "soundcloud": "https://soundcloud.com/skrillex",
+      "wikidata": "Q19004",
+      "youtube": "UCibXKvuw5PoJVmyZJ4qhDIw"
+    }
   },
   "lastfm": {
     "id": "Skrillex/_/Make+It+Bun+Dem",

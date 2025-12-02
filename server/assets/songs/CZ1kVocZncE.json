@@ -3,7 +3,7 @@
   "artist": "Knorkator",
   "duration": 206,
   "youtubeId": "CZ1kVocZncE",
-  "lastFetched": "2025-11-23T16:31:35.370Z",
+  "lastFetched": "2025-12-02T00:50:25.070Z",
   "odesli": {
     "amazonMusic": "B0FDBJPFX6",
     "amazonStore": "B0FDBJPFX6",
@@ -23,7 +23,21 @@
     ],
     "trackMbid": "a7fcc717-816e-4252-b0d7-3de1ecd9fba9",
     "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-09-12",
+    "externalIdsArtist": {
+      "allmusic": "mn0000911512",
+      "bandcamp": "https://knorkator.bandcamp.com/",
+      "discogs": "351541",
+      "spotify": "5iFI4j0w7RbSJmkbI6rqzi",
+      "deezer": "7097",
+      "lastfm": "Knorkator",
+      "genius": "Knorkator",
+      "rateyourmusic": "knorkator",
+      "soundcloud": "https://soundcloud.com/knorkatorofficial",
+      "wikidata": "Q696919",
+      "youtube": "UCDchoKSWD6v70-MOKgBWFXQ"
+    }
   },
   "lastfm": {
     "id": "Knorkator/_/Halb+voll",

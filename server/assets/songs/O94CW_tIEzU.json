@@ -1,7 +1,7 @@
 {
   "youtubeId": "O94CW_tIEzU",
   "title": "Our Lady Peace - Starseed (Official Remastered HD Video)",
-  "lastFetched": "2025-11-30T20:29:27.007Z",
+  "lastFetched": "2025-12-02T01:09:44.383Z",
   "ai": {
     "title": "Starseed",
     "artist": "Our Lady Peace"
@@ -33,6 +33,21 @@
       "pop rock",
       "post-grunge",
       "rock"
-    ]
+    ],
+    "releasedAt": "1994-03-22",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000490852",
+      "discogs": "125054",
+      "spotify": "1lqW59DUEKqvcHc8mVWBtH",
+      "deezer": "319",
+      "lastfm": "Our+Lady+Peace",
+      "genius": "Our-lady-peace",
+      "rateyourmusic": "our_lady_peace",
+      "soundcloud": "https://soundcloud.com/our-lady-peace",
+      "napster": "our-lady-peace",
+      "wikidata": "Q1047508",
+      "youtube": "UCHfOiAnU8KXGxJ-lGS2nH6g"
+    }
   }
 }

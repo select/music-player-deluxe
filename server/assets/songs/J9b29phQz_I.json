@@ -1,7 +1,7 @@
 {
   "youtubeId": "J9b29phQz_I",
   "title": "Jon Gomm - Telepathy",
-  "lastFetched": "2025-11-30T20:01:29.838Z",
+  "lastFetched": "2025-12-02T01:01:32.896Z",
   "ai": {
     "title": "Telepathy",
     "artist": "Jon Gomm"
@@ -25,6 +25,13 @@
   "musicbrainz": {
     "trackMbid": "b53e7bd2-7d93-471e-bad6-3ece3d8a4f85",
     "artistMbid": "eb9c78a5-d7f0-49c1-b887-1aa983ddb84a",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2013-11-25",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "1216628",
+      "lastfm": "Jon+Gomm",
+      "wikidata": "Q3809859"
+    }
   }
 }

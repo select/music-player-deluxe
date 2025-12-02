@@ -2,7 +2,7 @@
   "youtubeId": "IZ3i80B0qKg",
   "title": "BYE BYE",
   "artist": "Kim Gordon",
-  "lastFetched": "2025-11-23T16:34:52.444Z",
+  "lastFetched": "2025-12-02T01:00:37.282Z",
   "odesli": {
     "amazonMusic": "B0CQXGB9D4",
     "amazonStore": "B0CQXGB9D4",
@@ -34,7 +34,23 @@
       "noise rock"
     ],
     "trackMbid": "d03d905b-6daf-4ddf-86c6-1eef710acdf7",
-    "artistMbid": "19301485-ac9c-4dad-885b-cd8e8c8b4184"
+    "artistMbid": "19301485-ac9c-4dad-885b-cd8e8c8b4184",
+    "releasedAt": "2024-01-16",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "3b34EvMAFHcdRBujeo9e6t"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000083751",
+      "bandcamp": "https://kimgordon.bandcamp.com/",
+      "discogs": "187676",
+      "spotify": "3n8qeKQViV1waeCzZmS4Tx",
+      "deezer": "1000022",
+      "lastfm": "Kim_Gordon",
+      "rateyourmusic": "kim_gordon",
+      "wikidata": "Q240570",
+      "youtube": "UCGCyE2JoVAPqxO3CpcUIRXw"
+    }
   },
   "lastfm": {
     "id": "Kim+Gordon/_/BYE+BYE",

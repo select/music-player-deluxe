@@ -2,7 +2,7 @@
   "youtubeId": "I8-tGYPMfGQ",
   "title": "Bright Sunny Day",
   "artist": "The Streets",
-  "lastFetched": "2025-11-30T22:58:30.895Z",
+  "lastFetched": "2025-12-02T00:59:58.081Z",
   "odesli": {
     "amazonMusic": "B0CBKVVWRB",
     "amazonStore": "B0CBKVVWRB",
@@ -39,6 +39,21 @@
     "artistGenres": [
       "hip hop",
       "uk garage"
-    ]
+    ],
+    "releasedAt": "2023-10-13",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000918569",
+      "discogs": "17502",
+      "spotify": "4GvOygVQquMaPm8oAc0vXi",
+      "deezer": "784",
+      "lastfm": "The+Streets",
+      "genius": "The-streets",
+      "rateyourmusic": "the_streets",
+      "soundcloud": "https://soundcloud.com/the-streets",
+      "napster": "the-streets",
+      "wikidata": "Q316029",
+      "youtube": "UCIChmPKJxNQi1FoUB1_8i4Q"
+    }
   }
 }

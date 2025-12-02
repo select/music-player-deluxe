@@ -2,7 +2,7 @@
   "youtubeId": "SJfOFlYdO6c",
   "title": "Verschenktes Potential",
   "artist": "Grossstadtgeflüster",
-  "lastFetched": "2025-11-30T22:29:14.231Z",
+  "lastFetched": "2025-12-02T01:16:16.205Z",
   "odesli": {
     "amazonMusic": "B0DZTFLS43",
     "amazonStore": "B0DZTFLS43",
@@ -40,6 +40,16 @@
   "musicbrainz": {
     "trackMbid": "3b9e1d63-c80e-40b6-b143-f4306c00322d",
     "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2024-02-09",
+    "externalIdsArtist": {
+      "discogs": "749951",
+      "spotify": "03SZv6slUnLnHI3IfwG0gl",
+      "deezer": "80890",
+      "lastfm": "Grossstadtgefl%C3%BCster",
+      "soundcloud": "https://soundcloud.com/grossstadtgefluester",
+      "wikidata": "Q541543",
+      "youtube": "UCSNJbR3O1Xb0juzA52HuDsw"
+    }
   }
 }

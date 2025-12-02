@@ -2,7 +2,7 @@
   "youtubeId": "FyxaZP5oAAQ",
   "title": "Fusil Contra Fusil",
   "artist": "Silvio Rodríguez",
-  "lastFetched": "2025-11-30T19:55:28.820Z",
+  "lastFetched": "2025-12-02T00:56:37.299Z",
   "odesli": {
     "amazonMusic": "B07L456FQ6",
     "amazonStore": "B07L456FQ6",
@@ -34,6 +34,19 @@
     "artistGenres": [
       "nueva trova",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "1977",
+    "artistCountry": "CU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000037794",
+      "discogs": "400811",
+      "spotify": "4rUyBlggM5tZUH5QZn9ZuO",
+      "deezer": "4340",
+      "lastfm": "Silvio%20Rodr%C3%ADguez",
+      "genius": "Silvio-rodriguez",
+      "rateyourmusic": "silvio_rodriguez",
+      "wikidata": "Q377956",
+      "youtube": "UC16aF70kysMIJdz51HdMx9Q"
+    }
   }
 }

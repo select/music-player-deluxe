@@ -81,6 +81,10 @@ export interface SongMetaData {
 		genres?: string[];
 		artistTags?: string[];
 		artistGenres?: string[];
+		releasedAt?: string;
+		artistCountry?: string;
+		externalIdsTrack?: Record<string, string>;
+		externalIdsArtist?: Record<string, string>;
 	};
 	lastfm?: {
 		summary?: string;

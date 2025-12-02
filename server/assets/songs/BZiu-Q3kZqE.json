@@ -2,7 +2,7 @@
   "youtubeId": "BZiu-Q3kZqE",
   "title": "Signs",
   "artist": "Howling",
-  "lastFetched": "2025-11-23T16:31:16.296Z",
+  "lastFetched": "2025-12-02T00:48:54.385Z",
   "musicbrainz": {
     "artistTags": [
       "electronic"
@@ -11,7 +11,16 @@
       "electronic"
     ],
     "trackMbid": "9a2d596b-f051-40d5-8b8d-4fc557a984e2",
-    "artistMbid": "77a678b8-b848-4c08-bbff-f838aea3ad1f"
+    "artistMbid": "77a678b8-b848-4c08-bbff-f838aea3ad1f",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003273340",
+      "bandcamp": "https://howlinghowling.bandcamp.com/",
+      "discogs": "3450118",
+      "deezer": "6098396",
+      "rateyourmusic": "howling-1",
+      "soundcloud": "https://soundcloud.com/howlinghowling"
+    }
   },
   "lastfm": {
     "id": "Howling/_/Signs",

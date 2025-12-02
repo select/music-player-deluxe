@@ -2,7 +2,7 @@
   "youtubeId": "36nqGs_Dvws",
   "title": "Seaside Rendezvous",
   "artist": "Queen",
-  "lastFetched": "2025-11-23T16:27:23.206Z",
+  "lastFetched": "2025-12-02T00:37:00.361Z",
   "odesli": {
     "amazonMusic": "B005CZRXJ4",
     "amazonStore": "B005CZRXJ4",
@@ -38,7 +38,22 @@
       "pop rock"
     ],
     "trackMbid": "5b171ca9-a708-4b56-bda4-6b930b51f9f1",
-    "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3"
+    "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000858827",
+      "discogs": "81013",
+      "spotify": "1dfeR4HaWDbWqFHLkxsg1d",
+      "deezer": "412",
+      "lastfm": "Queen",
+      "genius": "Queen",
+      "rateyourmusic": "queen",
+      "soundcloud": "https://soundcloud.com/queen-69312",
+      "napster": "queen",
+      "wikidata": "Q15862",
+      "wikipedia": "Queen_(band)",
+      "youtube": "UCEPMVbUzImPl4p8k4LkGevA"
+    }
   },
   "lastfm": {
     "id": "Queen/_/Seaside+Rendezvous",

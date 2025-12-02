@@ -2,7 +2,7 @@
   "youtubeId": "TcpGA45iKRM",
   "title": "Healing Waters of the Tigris",
   "artist": "Tourniquet",
-  "lastFetched": "2025-11-30T19:53:24.050Z",
+  "lastFetched": "2025-12-02T01:18:32.196Z",
   "odesli": {
     "amazonMusic": "B007VL7VPS",
     "amazonStore": "B007VL7VPS",
@@ -36,6 +36,17 @@
       "metal",
       "technical thrash metal",
       "thrash metal"
-    ]
+    ],
+    "releasedAt": "2003-03-25",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000009966",
+      "bandcamp": "https://tourniquet.bandcamp.com/",
+      "discogs": "447041",
+      "lastfm": "Tourniquet",
+      "rateyourmusic": "tourniquet",
+      "wikidata": "Q2141857",
+      "wikipedia": "Tourniquet_(band)"
+    }
   }
 }

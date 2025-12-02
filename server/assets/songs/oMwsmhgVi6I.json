@@ -20,7 +20,12 @@
     "title": "TopBrazil",
     "artist": "Fischerspooner",
     "mbid": "f8e139b8-f411-4c5f-8502-c407677a5bb5",
-    "artistMbid": "a4f54716-24d9-4c6b-8ba7-1d7e7a5173d0"
+    "artistMbid": "a4f54716-24d9-4c6b-8ba7-1d7e7a5173d0",
+    "tags": [
+      "electropop",
+      "synthpop",
+      "electroclash"
+    ]
   },
   "musicbrainz": {
     "trackMbid": "380a881a-bca7-4d6d-a860-edcf3c5e7cb1",

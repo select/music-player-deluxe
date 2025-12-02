@@ -1,7 +1,7 @@
 {
   "youtubeId": "GeUx5sdp3qM",
   "title": "Babylon Zoo - Spaceman",
-  "lastFetched": "2025-11-30T20:21:02.125Z",
+  "lastFetched": "2025-12-02T00:57:55.933Z",
   "ai": {
     "title": "Spaceman",
     "artist": "Babylon Zoo"
@@ -34,6 +34,17 @@
       "pop",
       "progressive house",
       "space rock"
-    ]
+    ],
+    "releasedAt": "1995",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000076211",
+      "discogs": "50264",
+      "spotify": "3k7uMwc8FLJmH8RHMh2HF8",
+      "deezer": "3200",
+      "lastfm": "Babylon+Zoo",
+      "rateyourmusic": "babylon_zoo",
+      "wikidata": "Q696624"
+    }
   }
 }

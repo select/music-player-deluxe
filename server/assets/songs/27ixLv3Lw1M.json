@@ -1,0 +1,70 @@
+{
+  "youtubeId": "27ixLv3Lw1M",
+  "title": "MK Ultra",
+  "artist": "Muse",
+  "lastFetched": "2025-12-02T00:35:45.930Z",
+  "odesli": {
+    "amazonMusic": "B002O1RJRK",
+    "amazonStore": "B002O1RJRK",
+    "boomplay": "4011304",
+    "pandora": "TR:1413365",
+    "soundcloud": "inguimalmstin/mk-ultra-muse-1",
+    "tidal": "3083293",
+    "youtube": "27ixLv3Lw1M",
+    "youtubeMusic": "27ixLv3Lw1M"
+  },
+  "lastfm": {
+    "summary": "MK Ultra is the 7th track on Muse's 5th studio album The Resistance. The title of the song is derived from Project MK-ULTRA, the code name for a CIA project that sought to use drugs for the purposes of mind control and interrogation. The song is described as being \"electric sounding\" and having \"spidery riffs\". <a href=\"http://www.last.fm/music/Muse/_/MK+Ultra\">Read more on Last.fm</a>.",
+    "id": "Muse/_/MK+Ultra",
+    "listeners": 543671,
+    "playcount": 4580671,
+    "title": "MK Ultra",
+    "artist": "Muse",
+    "tags": [
+      "alternative rock",
+      "alternative",
+      "rock",
+      "progressive rock",
+      "muse"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e3fada81-0718-4807-b249-cf47dbf29a03",
+    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+    "releaseCount": 23,
+    "genres": [
+      "alternative rock",
+      "art rock",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "alternative metal",
+      "alternative rock",
+      "art rock",
+      "neo-progressive rock",
+      "pop rock",
+      "post-grunge",
+      "progressive rock",
+      "rock",
+      "symphonic rock"
+    ],
+    "releasedAt": "2009-09-10",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000514563",
+      "discogs": "1003",
+      "spotify": "12Chz98pHFMPJEknJQMWvI",
+      "deezer": "705",
+      "lastfm": "Muse",
+      "genius": "Muse",
+      "rateyourmusic": "muse",
+      "soundcloud": "https://soundcloud.com/muse",
+      "qobuz": "75739",
+      "napster": "muse-7035",
+      "wikidata": "Q22151",
+      "youtube": "UCw8jIQzB2mdvvo_CVplLxug"
+    }
+  }
+}

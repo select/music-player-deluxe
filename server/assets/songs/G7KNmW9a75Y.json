@@ -2,7 +2,7 @@
   "youtubeId": "G7KNmW9a75Y",
   "title": "Flowers",
   "artist": "Miley Cyrus",
-  "lastFetched": "2025-11-19T12:05:34.749Z",
+  "lastFetched": "2025-12-02T00:56:53.036Z",
   "odesli": {
     "amazonMusic": "B0BS2S4WXN",
     "amazonStore": "B0BS2S4WXN",
@@ -25,7 +25,26 @@
       "2020s"
     ],
     "trackMbid": "baecb366-aa92-4685-a4a3-56c6e573b679",
-    "artistMbid": "7e9bd05a-117f-4cce-87bc-e011527a8b18"
+    "artistMbid": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
+    "releasedAt": "2023-01-13",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "4DHcnVTT87F0zZhRPYmZ3B",
+      "deezer": "2182389137"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000551762",
+      "discogs": "676432",
+      "spotify": "5YGY8feqx7naU7z4HrwZM6",
+      "deezer": "12436",
+      "lastfm": "Miley+Cyrus",
+      "genius": "Miley-cyrus",
+      "rateyourmusic": "miley_cyrus",
+      "soundcloud": "https://soundcloud.com/mileycyrus",
+      "napster": "miley-cyrus",
+      "wikidata": "Q4235",
+      "youtube": "UCREdEwBdZcnQLIT0ThaAtmQ"
+    }
   },
   "lastfm": {
     "id": "Miley+Cyrus/_/Flowers",

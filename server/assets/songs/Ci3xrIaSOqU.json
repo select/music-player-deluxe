@@ -1,7 +1,7 @@
 {
   "youtubeId": "Ci3xrIaSOqU",
   "title": "Goose Snow Cone",
-  "lastFetched": "2025-11-30T21:11:43.935Z",
+  "lastFetched": "2025-12-02T00:50:34.213Z",
   "ai": {
     "title": "Goose Snow Cone",
     "artist": "Aimee Mann"
@@ -47,6 +47,19 @@
       "alternative rock",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2017-01-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000610346",
+      "discogs": "11068",
+      "spotify": "3UpIbyXfGzmHG6TMH4dJEk",
+      "deezer": "1602",
+      "lastfm": "Aimee+Mann",
+      "genius": "Aimee-mann",
+      "rateyourmusic": "aimee_mann",
+      "wikidata": "Q239587",
+      "youtube": "UCi435HYo68R8z0GTCi759LQ"
+    }
   }
 }

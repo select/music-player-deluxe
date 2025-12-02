@@ -3,7 +3,7 @@
   "artist": "Bo Burnham",
   "duration": 58,
   "youtubeId": "7_EeCkHs-e0",
-  "lastFetched": "2025-11-30T23:40:31.238Z",
+  "lastFetched": "2025-12-02T00:43:32.260Z",
   "odesli": {
     "amazonMusic": "B0B29P1RXK",
     "amazonStore": "B0B29P1RXK",
@@ -36,7 +36,20 @@
     "artistGenres": [
       "comedy",
       "standup comedy"
-    ]
+    ],
+    "releasedAt": "2021-06-10",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "6uEwn2DP99liwTHVu1gnzu",
+      "deezer": "1783056577"
+    },
+    "externalIdsArtist": {
+      "discogs": "1376508",
+      "spotify": "2Waw2sSbqvAwK8NwACNjVo",
+      "deezer": "73437",
+      "rateyourmusic": "bo-burnham",
+      "wikidata": "Q887347"
+    }
   },
   "lastfm": {
     "id": "Bo+Burnham/_/Bezos+I",

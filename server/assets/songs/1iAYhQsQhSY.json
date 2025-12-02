@@ -2,7 +2,7 @@
   "youtubeId": "1iAYhQsQhSY",
   "title": "S.O.B.",
   "artist": "Nathaniel Rateliff & the Night Sweats",
-  "lastFetched": "2025-11-23T16:26:52.569Z",
+  "lastFetched": "2025-12-02T00:35:20.482Z",
   "odesli": {
     "amazonMusic": "B00ZF3T3X2",
     "amazonStore": "B00ZF3T3X2",
@@ -26,7 +26,16 @@
       "folk rock"
     ],
     "trackMbid": "bf5210ed-0124-469e-9f83-d06d4b5ef965",
-    "artistMbid": "52a4de43-92f5-4995-9a71-07d67dd35b7d"
+    "artistMbid": "52a4de43-92f5-4995-9a71-07d67dd35b7d",
+    "releasedAt": "2016",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003399894",
+      "discogs": "4254234",
+      "spotify": "02seUFsFQP7TH4hLrTj77o",
+      "deezer": "7932092",
+      "wikidata": "Q96739389"
+    }
   },
   "lastfm": {
     "id": "Nathaniel+Rateliff+&+the+Night+Sweats/_/S.O.B.",

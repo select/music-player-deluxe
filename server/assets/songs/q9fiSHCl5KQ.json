@@ -1,0 +1,46 @@
+{
+  "youtubeId": "q9fiSHCl5KQ",
+  "title": "On My Shoulders",
+  "artist": "The Dø",
+  "lastFetched": "2025-12-01T12:59:30.855Z",
+  "odesli": {
+    "amazonMusic": "B073HSGGC6",
+    "amazonStore": "B073HSGGC6",
+    "boomplay": "8551285",
+    "soundcloud": "thedo/on-my-shoulders-1",
+    "spotify": "6hKFQb0Jsr51UFJ4sNVoUx",
+    "youtube": "q9fiSHCl5KQ",
+    "youtubeMusic": "q9fiSHCl5KQ"
+  },
+  "lastfm": {
+    "id": "The+D%C3%B8/_/On+My+Shoulders",
+    "listeners": 141011,
+    "playcount": 843934,
+    "title": "On My Shoulders",
+    "artist": "The Dø",
+    "mbid": "0499a698-bda5-3807-8f3d-1f02deba1921",
+    "artistMbid": "c3477250-bc5f-44e9-aa0a-144dd2d7a935",
+    "tags": [
+      "indie",
+      "female vocalists",
+      "french",
+      "indie pop",
+      "folk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0476dc62-2b58-43fe-96b3-49b76ba17a08",
+    "artistMbid": "c3477250-bc5f-44e9-aa0a-144dd2d7a935",
+    "releaseCount": 22,
+    "genres": [
+      "indie pop",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "folk rock",
+      "indie pop",
+      "indie rock"
+    ]
+  }
+}

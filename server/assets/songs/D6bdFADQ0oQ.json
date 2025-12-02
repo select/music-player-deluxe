@@ -2,7 +2,7 @@
   "youtubeId": "D6bdFADQ0oQ",
   "title": "let u in",
   "artist": "DEBBY FRIDAY",
-  "lastFetched": "2025-11-23T16:32:05.611Z",
+  "lastFetched": "2025-12-02T00:51:28.460Z",
   "odesli": {
     "amazonMusic": "B0CGMQKT8F",
     "amazonStore": "B0CGMQKT8F",
@@ -29,7 +29,17 @@
       "industrial hip hop"
     ],
     "trackMbid": "3acc8027-d589-4a2a-8277-25b4abf6090f",
-    "artistMbid": "da8b6c67-710c-4480-bf2a-ca2849b42094"
+    "artistMbid": "da8b6c67-710c-4480-bf2a-ca2849b42094",
+    "releasedAt": "2023-09-27",
+    "externalIdsArtist": {
+      "allmusic": "mn0003838384",
+      "bandcamp": "https://debbyfriday.bandcamp.com/",
+      "discogs": "6863615",
+      "spotify": "5lofelrRCFBwzTF616hSx4",
+      "deezer": "14484565",
+      "rateyourmusic": "debby-friday",
+      "soundcloud": "https://soundcloud.com/debbyfriday"
+    }
   },
   "lastfm": {
     "id": "DEBBY+FRIDAY/_/let+u+in",

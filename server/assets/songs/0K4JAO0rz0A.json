@@ -3,7 +3,7 @@
   "artist": "Aril Brikha",
   "duration": 425,
   "youtubeId": "0K4JAO0rz0A",
-  "lastFetched": "2025-11-19T05:02:39.265Z",
+  "lastFetched": "2025-12-02T00:33:23.559Z",
   "lastfm": {
     "id": "Aril+Brikha/_/Deeparture+in+Time",
     "listeners": 4262,
@@ -19,6 +19,21 @@
   "musicbrainz": {
     "trackMbid": "9d89886a-6cac-4615-a002-8cc421659060",
     "artistMbid": "6f87329a-e4b2-4eb3-8bc6-5fe8460e08f0",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1999-08-10",
+    "artistCountry": "SE",
+    "externalIds": {
+      "allmusic": "mn0000928399",
+      "discogs": "1173",
+      "spotify": "3zWrv3ns5knPAVMR30hxxO"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000928399",
+      "discogs": "1173",
+      "spotify": "3zWrv3ns5knPAVMR30hxxO",
+      "deezer": "173328",
+      "rateyourmusic": "aril_brikha",
+      "wikidata": "Q661086"
+    }
   }
 }

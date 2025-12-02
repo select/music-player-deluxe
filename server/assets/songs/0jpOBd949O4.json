@@ -2,7 +2,7 @@
   "youtubeId": "0jpOBd949O4",
   "title": "Physical Education",
   "artist": "Animals As Leaders",
-  "lastFetched": "2025-11-30T20:17:39.104Z",
+  "lastFetched": "2025-12-02T00:20:58.384Z",
   "odesli": {
     "amazonMusic": "B0FD3HNVK8",
     "amazonStore": "B0FD3HNVK8",
@@ -33,6 +33,20 @@
       "experimental",
       "instrumental",
       "progressive metal"
-    ]
+    ],
+    "releasedAt": "2014-03-24",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "4sr5OIyYOY3JXbFYSoJR0G"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0001057593",
+      "bandcamp": "https://animalsasleaders.bandcamp.com/",
+      "discogs": "1439605",
+      "spotify": "65C6Unk7nhg2aCnVuAPMo8",
+      "lastfm": "Animals+as+Leaders",
+      "soundcloud": "animals-as-leaders",
+      "youtube": "UCh8E95ps6PJjgdS5XKzDEfg"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "JTZ6v0G1um4",
   "title": "Dolphin Dream",
   "artist": "Larry Heard",
-  "lastFetched": "2025-11-30T22:48:25.468Z",
+  "lastFetched": "2025-12-02T01:02:08.680Z",
   "lastfm": {
     "title": "Dolphin Dream",
     "artist": "Larry Heard",
@@ -26,6 +26,16 @@
     "artistGenres": [
       "electronic",
       "house"
-    ]
+    ],
+    "releasedAt": "2017-02-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000782191",
+      "discogs": "148",
+      "spotify": "3j7teie3p6UnbA8nW51Trz",
+      "deezer": "74753",
+      "rateyourmusic": "larry_heard",
+      "wikidata": "Q1375814"
+    }
   }
 }

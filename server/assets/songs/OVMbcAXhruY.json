@@ -3,7 +3,7 @@
   "artist": "2raumwohnung",
   "duration": 230,
   "youtubeId": "OVMbcAXhruY",
-  "lastFetched": "2025-11-19T01:37:55.753Z",
+  "lastFetched": "2025-12-02T01:10:09.028Z",
   "name": "36grad",
   "musicbrainz": {
     "tags": [
@@ -15,7 +15,20 @@
     ],
     "trackMbid": "93b13f1a-b541-4b18-aa61-1cb717a0ed07",
     "artistMbid": "5579a23d-c411-4930-987d-ff89d77c1c12",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2024-09-13",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000483305",
+      "discogs": "30727",
+      "spotify": "6BHpFo1cbGCGLWh28wa43x",
+      "deezer": "6154",
+      "lastfm": "2raumwohnung",
+      "rateyourmusic": "2raumwohnung",
+      "soundcloud": "https://soundcloud.com/2raumwohnung",
+      "wikidata": "Q158998",
+      "youtube": "UC8fyBBZwYcdyVyuQvjQtnrA"
+    }
   },
   "lastfm": {
     "id": "2raumwohnung/_/36grad",

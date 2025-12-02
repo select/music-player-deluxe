@@ -2,7 +2,7 @@
   "youtubeId": "5ZeKlqZ6dNU",
   "title": "Purple Music",
   "artist": "Prince",
-  "lastFetched": "2025-11-30T22:17:46.462Z",
+  "lastFetched": "2025-12-02T00:27:39.098Z",
   "odesli": {
     "amazonMusic": "B08Q8QRVQY",
     "amazonStore": "B08Q8QRVQY",
@@ -56,6 +56,18 @@
       "rock",
       "soul",
       "synth funk"
-    ]
+    ],
+    "releasedAt": "2019-11-29",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "54BDzeENKrBiquT6VM04Oy"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000361393",
+      "discogs": "79903",
+      "spotify": "5a2EaR3hamoenG9rDuVn8j",
+      "lastfm": "Prince",
+      "soundcloud": "prince"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "71qoLvXcUsU",
   "title": "Criminal",
   "artist": "Lutan Fyah",
-  "lastFetched": "2025-11-30T23:02:09.690Z",
+  "lastFetched": "2025-12-02T00:42:21.091Z",
   "odesli": {
     "amazonMusic": "B09RWDJH2X",
     "amazonStore": "B09RWDJH2X",
@@ -31,6 +31,16 @@
     "releaseCount": 0,
     "artistGenres": [
       "reggae"
-    ]
+    ],
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000339098",
+      "discogs": "413695",
+      "spotify": "1QfjByidqUrsRhcT3fpWTU",
+      "deezer": "13379",
+      "lastfm": "Lutan+Fyah",
+      "wikidata": "Q745330",
+      "youtube": "lutanfyahvevo6566"
+    }
   }
 }

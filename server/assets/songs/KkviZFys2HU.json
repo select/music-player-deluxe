@@ -2,7 +2,7 @@
   "youtubeId": "KkviZFys2HU",
   "title": "Ich Bin Nackt",
   "artist": "Stereo Total",
-  "lastFetched": "2025-11-23T16:35:47.594Z",
+  "lastFetched": "2025-12-02T01:03:48.596Z",
   "musicbrainz": {
     "artistTags": [
       "alternative dance",
@@ -16,7 +16,15 @@
       "synth-pop"
     ],
     "trackMbid": "4d702fd9-85ef-4b49-bb44-abce84b19132",
-    "artistMbid": "475ae7a5-07de-46a8-a88d-4322259aafa9"
+    "artistMbid": "475ae7a5-07de-46a8-a88d-4322259aafa9",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000024340",
+      "discogs": "12795",
+      "spotify": "662bj9rCw8Twt6JDAMmMDb",
+      "soundcloud": "https://soundcloud.com/stereototal",
+      "wikidata": "Q829715"
+    }
   },
   "lastfm": {
     "id": "Stereo+Total/_/Ich+Bin+Nackt",

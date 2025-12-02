@@ -2,7 +2,7 @@
   "youtubeId": "6-JOVXZePQk",
   "title": "Ring Ring Ring (Ha Ha Hey)",
   "artist": "De La Soul",
-  "lastFetched": "2025-11-23T16:28:42.495Z",
+  "lastFetched": "2025-12-02T00:40:45.225Z",
   "odesli": {
     "amazonMusic": "B0BS4HTCGW",
     "amazonStore": "B0BS4HTCGW",
@@ -44,7 +44,22 @@
       "hip hop"
     ],
     "trackMbid": "5a2d1eec-b948-4c3c-a9ab-fce2553b3979",
-    "artistMbid": "a8ebde98-7e91-46c7-992c-90039ba42017"
+    "artistMbid": "a8ebde98-7e91-46c7-992c-90039ba42017",
+    "releasedAt": "1991-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000238322",
+      "bandcamp": "https://delasoul.bandcamp.com/",
+      "discogs": "4091",
+      "spotify": "1Z8ODXyhEBi3WynYw0Rya6",
+      "deezer": "1312",
+      "lastfm": "De+La+Soul",
+      "genius": "De-la-soul",
+      "rateyourmusic": "de_la_soul",
+      "soundcloud": "https://soundcloud.com/wearedelasoul",
+      "wikidata": "Q685595",
+      "youtube": "UCnLCApgMiI8wopT2tWVuMLw"
+    }
   },
   "lastfm": {
     "id": "De+La+Soul/_/Ring+Ring+Ring+(Ha+Ha+Hey)",

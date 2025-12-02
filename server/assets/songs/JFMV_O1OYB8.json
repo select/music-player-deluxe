@@ -2,7 +2,7 @@
   "youtubeId": "JFMV_O1OYB8",
   "title": "Nightscape",
   "artist": "Stellardrone",
-  "lastFetched": "2025-11-23T16:35:18.306Z",
+  "lastFetched": "2025-12-02T01:01:48.222Z",
   "odesli": {
     "amazonMusic": "B0091P59FG",
     "amazonStore": "B0091P59FG",
@@ -34,7 +34,16 @@
       "space ambient"
     ],
     "trackMbid": "1b3b731d-7c78-345c-9fdc-bb85e3b3f874",
-    "artistMbid": "8208d8f9-61b6-47f2-90c0-2680dadd56a8"
+    "artistMbid": "8208d8f9-61b6-47f2-90c0-2680dadd56a8",
+    "artistCountry": "LT",
+    "externalIdsArtist": {
+      "bandcamp": "https://stellardrone.bandcamp.com/",
+      "discogs": "1910110",
+      "spotify": "5WUuOv4NOeXvCzjQnmKqTA",
+      "deezer": "3855311",
+      "lastfm": "Stellardrone",
+      "rateyourmusic": "stellardrone"
+    }
   },
   "lastfm": {
     "id": "Stellardrone/_/Nightscape",

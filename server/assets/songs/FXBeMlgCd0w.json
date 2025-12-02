@@ -2,7 +2,7 @@
   "youtubeId": "FXBeMlgCd0w",
   "title": "Feed Me",
   "artist": "Elton John",
-  "lastFetched": "2025-11-30T21:56:44.042Z",
+  "lastFetched": "2025-12-02T00:56:06.518Z",
   "odesli": {
     "amazonMusic": "B0767KP5L4",
     "amazonStore": "B0767KP5L4",
@@ -55,6 +55,21 @@
       "rock and roll",
       "singer-songwriter",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "1975-10-04",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001336698",
+      "discogs": "57103",
+      "spotify": "3PhoLpVuITZKcymswpck5b",
+      "deezer": "413",
+      "lastfm": "Elton+John",
+      "genius": "Elton-john",
+      "rateyourmusic": "elton-john",
+      "soundcloud": "https://soundcloud.com/elton-john",
+      "napster": "elton-john",
+      "wikidata": "Q2808",
+      "youtube": "UCn9i4cdLe14CbsOycTbKMoA"
+    }
   }
 }

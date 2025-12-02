@@ -1,7 +1,7 @@
 {
   "youtubeId": "FOkkE93coIg",
   "title": "The Dragonborn Comes - Malukah - Lyrics ( extended version )",
-  "lastFetched": "2025-11-30T20:18:20.140Z",
+  "lastFetched": "2025-12-02T00:55:44.266Z",
   "ai": {
     "title": "The Dragonborn Comes",
     "artist": "Malukah"
@@ -25,6 +25,20 @@
   "musicbrainz": {
     "trackMbid": "b0a82854-b587-4853-a3a6-a0641f96c365",
     "artistMbid": "17b7863c-510b-4523-b8bd-efebc7236c99",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2017-08",
+    "artistCountry": "MX",
+    "externalIdsArtist": {
+      "allmusic": "mn0003259586",
+      "bandcamp": "https://malukah.bandcamp.com/",
+      "discogs": "2984451",
+      "spotify": "6qFEVczpjXakMuKcI5BBdc",
+      "deezer": "4698316",
+      "lastfm": "Malukah",
+      "rateyourmusic": "malukah",
+      "soundcloud": "https://soundcloud.com/malukah",
+      "wikidata": "Q15774989",
+      "wikipedia": "Malukah"
+    }
   }
 }

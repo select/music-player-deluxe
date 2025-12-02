@@ -1,0 +1,66 @@
+{
+  "youtubeId": "KqlIFLb6jU0",
+  "title": "doves- catch the sun original video",
+  "lastFetched": "2025-12-02T01:04:00.968Z",
+  "ai": {
+    "title": "catch the sun",
+    "artist": "doves"
+  },
+  "lastfm": {
+    "id": "Doves/_/Catch+the+Sun",
+    "listeners": 149788,
+    "playcount": 646374,
+    "title": "Catch the Sun",
+    "artist": "Doves",
+    "tags": [
+      "indie rock",
+      "indie",
+      "britpop",
+      "00s",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "70ac42fb-6c61-4952-b09e-8079f4e5e320",
+    "artistMbid": "9de8f66e-3cd1-4f11-8328-38200f0612b0",
+    "releaseCount": 25,
+    "genres": [
+      "britpop",
+      "dream pop",
+      "indie rock",
+      "neo-psychedelia",
+      "post-britpop",
+      "rock",
+      "shoegaze",
+      "space rock"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "alternative rock",
+      "britpop",
+      "dream pop",
+      "experimental rock",
+      "indie rock",
+      "pop rock",
+      "post-britpop",
+      "space rock"
+    ],
+    "releasedAt": "2000-04-03",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "77x7Jxr5jdd5hhK7b6P2Ec"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000804516",
+      "discogs": "3855",
+      "spotify": "0LVrQUinPUBFvVD5pLqmWY",
+      "deezer": "2222",
+      "lastfm": "Doves",
+      "genius": "Doves",
+      "rateyourmusic": "doves",
+      "soundcloud": "https://soundcloud.com/doves-official",
+      "wikidata": "Q126128",
+      "youtube": "UCBx0DpQKQGzsYScPwwgPOeg"
+    }
+  }
+}

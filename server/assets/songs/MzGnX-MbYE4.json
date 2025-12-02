@@ -2,7 +2,7 @@
   "youtubeId": "MzGnX-MbYE4",
   "title": "People Are People",
   "artist": "Depeche Mode",
-  "lastFetched": "2025-11-23T16:36:32.701Z",
+  "lastFetched": "2025-12-02T01:07:20.854Z",
   "odesli": {
     "amazonMusic": "B073PLBC9V",
     "amazonStore": "B073PLBC9V",
@@ -36,7 +36,21 @@
       "electronic rock"
     ],
     "trackMbid": "5be3cea2-34d0-40f7-97fd-b8d771012a23",
-    "artistMbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0"
+    "artistMbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000239921",
+      "discogs": "2725",
+      "spotify": "762310PdDnwsDxAQxzQkfX",
+      "deezer": "545",
+      "lastfm": "Depeche+Mode",
+      "genius": "Depeche-mode",
+      "rateyourmusic": "depeche-mode",
+      "soundcloud": "https://soundcloud.com/depeche_mode",
+      "napster": "depeche-mode",
+      "wikidata": "Q482964",
+      "youtube": "UC-CcyIM_seGnGL5-2Fsppow"
+    }
   },
   "lastfm": {
     "id": "Depeche+Mode/_/People+Are+People",

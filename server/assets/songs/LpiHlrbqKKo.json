@@ -2,7 +2,7 @@
   "youtubeId": "LpiHlrbqKKo",
   "title": "82",
   "artist": "InsideInfo",
-  "lastFetched": "2025-11-30T20:46:01.434Z",
+  "lastFetched": "2025-12-02T01:05:49.872Z",
   "odesli": {
     "amazonMusic": "B097BZ2R77",
     "amazonStore": "B097BZ2R77",
@@ -32,6 +32,19 @@
     "artistGenres": [
       "drum and bass",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2017-04-07",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://insideinfo.bandcamp.com/",
+      "discogs": "763194",
+      "spotify": "4HVopeHcb4aGTBsfIRrRcQ",
+      "deezer": "1437265",
+      "lastfm": "InsideInfo",
+      "rateyourmusic": "insideinfo",
+      "soundcloud": "https://soundcloud.com/insideinfo",
+      "wikidata": "Q63242079",
+      "youtube": "UC6Pa_xWIVG18fwwF1BF7UKg"
+    }
   }
 }

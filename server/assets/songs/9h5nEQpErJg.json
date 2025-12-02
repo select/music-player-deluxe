@@ -2,7 +2,7 @@
   "youtubeId": "9h5nEQpErJg",
   "title": "Lose Yourself",
   "artist": "Eminem",
-  "lastFetched": "2025-11-19T07:20:34.326Z",
+  "lastFetched": "2025-12-02T00:46:40.537Z",
   "musicbrainz": {
     "tags": [
       "rap",
@@ -12,7 +12,21 @@
       "hip hop"
     ],
     "trackMbid": "727c60cd-f92b-3c8c-b813-ee5a61fd3a62",
-    "artistMbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4"
+    "artistMbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001892803",
+      "discogs": "644153",
+      "spotify": "7dGJo4pcD2V6oG8kP0tJRR",
+      "deezer": "13",
+      "lastfm": "Eminem",
+      "genius": "Eminem",
+      "rateyourmusic": "eminem",
+      "soundcloud": "https://soundcloud.com/eminemofficial",
+      "napster": "eminem",
+      "wikidata": "Q5608",
+      "youtube": "UCedvOgsKFzcK3hA5taf3KoQ"
+    }
   },
   "lastfm": {
     "id": "Eminem/_/Lose+Yourself",

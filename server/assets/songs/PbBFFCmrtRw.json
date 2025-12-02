@@ -2,7 +2,7 @@
   "youtubeId": "PbBFFCmrtRw",
   "title": "Paper Love",
   "artist": "Allie X",
-  "lastFetched": "2025-11-30T19:29:20.494Z",
+  "lastFetched": "2025-12-02T01:11:58.463Z",
   "odesli": {
     "amazonMusic": "B0716BS5HZ",
     "amazonStore": "B0716BS5HZ",
@@ -23,7 +23,13 @@
     "title": "Paper Love",
     "artist": "Allie X",
     "mbid": "cf5c2299-dfe8-4521-8575-bdb728371b71",
-    "artistMbid": "7c922f2c-9d2b-4f37-a139-cddb83722ab3"
+    "artistMbid": "7c922f2c-9d2b-4f37-a139-cddb83722ab3",
+    "tags": [
+      "electropop",
+      "synthpop",
+      "dance-pop",
+      "indie pop"
+    ]
   },
   "musicbrainz": {
     "trackMbid": "cf5c2299-dfe8-4521-8575-bdb728371b71",
@@ -40,6 +46,20 @@
       "indie pop",
       "pop",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2017-04-28",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003221710",
+      "discogs": "6256195",
+      "spotify": "0wnYgCeP013HkKoOyC5V32",
+      "deezer": "5587890",
+      "lastfm": "Allie+X",
+      "genius": "Allie-x",
+      "rateyourmusic": "allie_x",
+      "soundcloud": "https://soundcloud.com/alliexandra",
+      "wikidata": "Q16150821",
+      "youtube": "UCb1cXeayhg_La-C_saU76DA"
+    }
   }
 }
