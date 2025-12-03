@@ -1,0 +1,52 @@
+{
+  "youtubeId": "LGmw84OSU74",
+  "title": "Pennywise - \"Same Old Story\"",
+  "lastFetched": "2025-12-03T11:56:38.980Z",
+  "ai": {
+    "title": "Same Old Story",
+    "artist": "Pennywise"
+  },
+  "lastfm": {
+    "id": "Pennywise/_/Same+Old+Story",
+    "listeners": 71034,
+    "playcount": 303469,
+    "title": "Same Old Story",
+    "artist": "Pennywise",
+    "mbid": "01794a59-f6e5-314e-ac65-dc57e1f6c70c",
+    "artistMbid": "5c210861-2ce2-4be3-9307-bbcfc361cc01",
+    "tags": [
+      "punk rock",
+      "punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5cd244d5-0d8d-43c7-a50e-b35ebc7c473c",
+    "artistMbid": "5c210861-2ce2-4be3-9307-bbcfc361cc01",
+    "releaseCount": 6,
+    "genres": [
+      "punk",
+      "punk rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "melodic hardcore",
+      "punk",
+      "punk rock",
+      "rock",
+      "skate punk"
+    ],
+    "releasedAt": "1995-06-13",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000258430",
+      "discogs": "21657",
+      "spotify": "6i0KVTOvm96T55mbp742ks",
+      "deezer": "2238",
+      "lastfm": "Pennywise",
+      "genius": "Pennywise",
+      "rateyourmusic": "pennywise",
+      "soundcloud": "https://soundcloud.com/pennywisdom",
+      "wikidata": "Q754051"
+    }
+  }
+}

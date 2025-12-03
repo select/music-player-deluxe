@@ -2,7 +2,7 @@
   "youtubeId": "xJIkYFltRVU",
   "title": "Dark Desire (Alternative Mix)",
   "artist": "Mono Culture",
-  "lastFetched": "2025-11-30T22:13:14.900Z",
+  "lastFetched": "2025-12-02T02:04:17.635Z",
   "lastfm": {
     "id": "Mono+Culture/_/Dark+Desire+(Alternative+Mix)",
     "listeners": 33,
@@ -18,6 +18,10 @@
   "musicbrainz": {
     "trackMbid": "f752495c-045c-4e05-a414-f750e9786355",
     "artistMbid": "dcbb05d8-7c2d-4587-9689-6b6fc0323c82",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1998-03-02",
+    "externalIdsArtist": {
+      "discogs": "17836"
+    }
   }
 }

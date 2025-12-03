@@ -1,0 +1,70 @@
+{
+  "youtubeId": "nTwp1sgUJrM",
+  "title": "Flamenco Sketches",
+  "artist": "Miles Davis",
+  "lastFetched": "2025-12-03T11:47:37.748Z",
+  "odesli": {
+    "amazonMusic": "B073QV259C",
+    "amazonStore": "B073QV259C",
+    "boomplay": "7497522",
+    "napster": "tra.313945900",
+    "pandora": "TR:5558972",
+    "soundcloud": "milesdavissonymusic/flamenco-sketches",
+    "spotify": "6dRx7OUXfvosnXG3g9lWGi",
+    "tidal": "2178498",
+    "yandex": "5799673",
+    "youtube": "nTwp1sgUJrM",
+    "youtubeMusic": "nTwp1sgUJrM"
+  },
+  "lastfm": {
+    "summary": "“Flamenco Sketches” is a jazz composition written by American jazz trumpeter Miles Davis and pianist Bill Evans. It is the fifth track on Davis’ 1959 album Kind of Blue, the best-selling jazz record of all time, and an innovative experiment in modal jazz. The track features Miles Davis, John Coltrane, Cannonball Adderley, Paul Chambers, Jimmy Cobb and Bill Evans. \n\nThe piece has no written melody, but is rather defined by a set of chord changes that are improvised over using various modes of the major scale of each tonality. <a href=\"http://www.last.fm/music/Miles+Davis/_/Flamenco+Sketches\">Read more on Last.fm</a>.",
+    "id": "Miles+Davis/_/Flamenco+Sketches",
+    "listeners": 467270,
+    "playcount": 2158016,
+    "title": "Flamenco Sketches",
+    "artist": "Miles Davis",
+    "artistMbid": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+    "tags": [
+      "jazz",
+      "cool jazz",
+      "miles davis",
+      "trumpet"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fabcab5f-12e1-435d-a66b-a7ab0ba678e6",
+    "artistMbid": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+    "releaseCount": 25,
+    "genres": [
+      "cool jazz",
+      "jazz",
+      "smooth jazz"
+    ],
+    "artistGenres": [
+      "bebop",
+      "classical",
+      "cool jazz",
+      "funk",
+      "hard bop",
+      "jazz",
+      "jazz fusion",
+      "jazz-funk",
+      "modal jazz",
+      "post-bop",
+      "rock"
+    ],
+    "releasedAt": "1959-08-17",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000423829",
+      "discogs": "23755",
+      "spotify": "0kbYTNQb4Pb1rPbbaF0pT4",
+      "deezer": "1910",
+      "lastfm": "Miles+Davis",
+      "genius": "Miles-davis",
+      "rateyourmusic": "miles_davis",
+      "wikidata": "Q93341",
+      "youtube": "UCIev2PktTH5mI-QlGmbUkiw"
+    }
+  }
+}

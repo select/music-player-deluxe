@@ -1,7 +1,7 @@
 {
   "youtubeId": "y1-g5VG2pWg",
   "title": "P.P. Arnold: The first cut is the deepest",
-  "lastFetched": "2025-11-30T21:24:03.386Z",
+  "lastFetched": "2025-12-02T02:05:28.130Z",
   "ai": {
     "title": "The first cut is the deepest",
     "artist": "P.P. Arnold"
@@ -15,6 +15,15 @@
       "gospel",
       "rock",
       "soul"
-    ]
+    ],
+    "releasedAt": "2021-03-05",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002610991",
+      "discogs": "30212",
+      "deezer": "175294",
+      "rateyourmusic": "p_p__arnold",
+      "wikidata": "Q469825"
+    }
   }
 }

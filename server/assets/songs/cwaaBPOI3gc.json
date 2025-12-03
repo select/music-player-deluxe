@@ -1,7 +1,7 @@
 {
   "youtubeId": "cwaaBPOI3gc",
   "title": "Plastic Stress",
-  "lastFetched": "2025-11-30T21:21:40.947Z",
+  "lastFetched": "2025-12-02T01:34:31.282Z",
   "ai": {
     "title": "Plastic Stress",
     "artist": "Terranova"
@@ -42,6 +42,13 @@
       "electronic",
       "electronica",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "1999-08-30",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "4830",
+      "deezer": "2045",
+      "wikidata": "Q7888883"
+    }
   }
 }

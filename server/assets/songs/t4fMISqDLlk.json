@@ -2,7 +2,7 @@
   "youtubeId": "t4fMISqDLlk",
   "title": "Hafi Deo",
   "artist": "Tabu Ley Rochereau",
-  "lastFetched": "2025-11-30T22:12:55.425Z",
+  "lastFetched": "2025-12-02T01:58:30.502Z",
   "odesli": {
     "amazonMusic": "B09TQPK27J",
     "amazonStore": "B09TQPK27J",
@@ -32,6 +32,17 @@
     "artistGenres": [
       "congolese rumba",
       "soukous"
-    ]
+    ],
+    "releasedAt": "2014-08-04",
+    "artistCountry": "CD",
+    "externalIdsArtist": {
+      "allmusic": "mn0000015762",
+      "discogs": "454639",
+      "spotify": "7hYOOcRqfNzeE2CTpajd5a",
+      "deezer": "103702",
+      "lastfm": "Tabu%20Ley%20Rochereau",
+      "rateyourmusic": "tabu-ley-rochereau",
+      "wikidata": "Q2743754"
+    }
   }
 }

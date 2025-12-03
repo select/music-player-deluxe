@@ -2,7 +2,7 @@
   "youtubeId": "ckCwBAhz4oc",
   "title": "Right Back Where We Started From",
   "artist": "Maxine Nightingale",
-  "lastFetched": "2025-11-23T16:44:23.679Z",
+  "lastFetched": "2025-12-02T01:34:02.215Z",
   "musicbrainz": {
     "tags": [
       "club",
@@ -28,7 +28,22 @@
       "soprano"
     ],
     "trackMbid": "88e89116-7644-4f76-966a-e9f49984f0a4",
-    "artistMbid": "0d8da158-389d-4b58-a62e-a6b5870fc3a4"
+    "artistMbid": "0d8da158-389d-4b58-a62e-a6b5870fc3a4",
+    "releasedAt": "1975",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "6208B8Utmd2fTqgGMjeNr6",
+      "deezer": "1130463082"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000396531",
+      "discogs": "203739",
+      "spotify": "6jQ9UtYXqNfVnPkrH1Xxwi",
+      "deezer": "113791",
+      "lastfm": "Maxine+Nightingale",
+      "genius": "Maxine-nightingale",
+      "wikidata": "Q433115"
+    }
   },
   "lastfm": {
     "id": "Maxine+Nightingale/_/Right+Back+Where+We+Started+From",

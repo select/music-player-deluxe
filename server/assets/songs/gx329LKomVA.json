@@ -2,7 +2,7 @@
   "youtubeId": "gx329LKomVA",
   "title": "Condo",
   "artist": "Afro B",
-  "lastFetched": "2025-11-23T16:46:21.005Z",
+  "lastFetched": "2025-12-02T01:39:25.516Z",
   "odesli": {
     "amazonMusic": "B07YMHQJN3",
     "amazonStore": "B07YMHQJN3",
@@ -24,7 +24,19 @@
       "afrobeats"
     ],
     "trackMbid": "ec178d96-ba09-4518-a522-7b09027d325f",
-    "artistMbid": "75ddd2e6-8e48-4385-b5e2-625626c8e505"
+    "artistMbid": "75ddd2e6-8e48-4385-b5e2-625626c8e505",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003595189",
+      "discogs": "4588680",
+      "spotify": "7oMRcCu0OYSCtCyS3P37iC",
+      "deezer": "7371096",
+      "lastfm": "Afro+B",
+      "genius": "Afro-b",
+      "soundcloud": "https://soundcloud.com/deejay-afro-b",
+      "wikidata": "Q77359058",
+      "youtube": "UC_b88itzF4hreKbNctuCu-w"
+    }
   },
   "lastfm": {
     "id": "Afro+B/_/Condo",

@@ -2,7 +2,7 @@
   "youtubeId": "ZlsJD8RlhbI",
   "title": "God Rest Ye Merry Gentlemen",
   "artist": "Annie Lennox",
-  "lastFetched": "2025-11-30T19:26:00.960Z",
+  "lastFetched": "2025-12-02T01:28:10.855Z",
   "odesli": {
     "amazonMusic": "B004ASXSS4",
     "amazonStore": "B004ASXSS4",
@@ -46,6 +46,18 @@
       "soft rock",
       "sophisti-pop",
       "soul"
-    ]
+    ],
+    "releasedAt": "2010-01-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000585249",
+      "discogs": "23825",
+      "spotify": "5MspMQqdVbdwP6ax3GXqum",
+      "deezer": "1148",
+      "lastfm": "Annie+Lennox",
+      "genius": "Annie-lennox",
+      "rateyourmusic": "annie_lennox",
+      "wikidata": "Q151231"
+    }
   }
 }

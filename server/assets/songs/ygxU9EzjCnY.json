@@ -2,7 +2,7 @@
   "youtubeId": "ygxU9EzjCnY",
   "title": "Deja Vu",
   "artist": "Spliff",
-  "lastFetched": "2025-11-23T16:54:26.195Z",
+  "lastFetched": "2025-12-02T02:06:31.504Z",
   "musicbrainz": {
     "artistTags": [
       "deutschrock",
@@ -20,7 +20,16 @@
       "synth-pop"
     ],
     "trackMbid": "10267d3a-cc3e-4955-a878-b95bbd5acd9f",
-    "artistMbid": "dbec3b6d-a3f6-410b-9fc5-5cf62008c598"
+    "artistMbid": "dbec3b6d-a3f6-410b-9fc5-5cf62008c598",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000746817",
+      "discogs": "77226",
+      "spotify": "47U0ujLT2qD3wSOGl5WDth",
+      "deezer": "70644",
+      "rateyourmusic": "spliff",
+      "wikidata": "Q538465"
+    }
   },
   "lastfm": {
     "id": "Spliff/_/Deja+Vu",

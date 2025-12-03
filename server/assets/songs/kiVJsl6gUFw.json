@@ -3,7 +3,7 @@
   "artist": "Tori Amos",
   "duration": 67,
   "youtubeId": "kiVJsl6gUFw",
-  "lastFetched": "2025-11-19T01:39:36.515Z",
+  "lastFetched": "2025-12-02T01:45:18.865Z",
   "odesli": {
     "appleMusic": "207929144",
     "itunes": "207929144",
@@ -31,7 +31,20 @@
     ],
     "trackMbid": "8aab8b40-a43b-3b85-a3ea-a55d21a069f0",
     "artistMbid": "c0b2500e-0cef-4130-869d-732b23ed9df5",
-    "releaseCount": 25
+    "releaseCount": 25,
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000792530",
+      "discogs": "9902",
+      "spotify": "1KsASRNugxU85T0u6zSg32",
+      "deezer": "854",
+      "lastfm": "Tori+Amos",
+      "genius": "Tori-amos",
+      "rateyourmusic": "tori-amos",
+      "soundcloud": "https://soundcloud.com/tori-amos-official",
+      "wikidata": "Q193744",
+      "youtube": "UCIgQ_8rulGwokbAu6QOxCGQ"
+    }
   },
   "lastfm": {
     "id": "Tori+Amos/_/Mr.+Zebra",

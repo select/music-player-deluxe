@@ -2,7 +2,7 @@
   "youtubeId": "_ooeMXnPuIg",
   "title": "A Day In The Life",
   "artist": "Wes Montgomery",
-  "lastFetched": "2025-11-30T19:34:22.486Z",
+  "lastFetched": "2025-12-02T01:29:38.362Z",
   "odesli": {
     "amazonMusic": "B07H16BM26",
     "amazonStore": "B07H16BM26",
@@ -39,6 +39,17 @@
       "jazz pop",
       "latin jazz",
       "soul jazz"
-    ]
+    ],
+    "releasedAt": "1967",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000248392",
+      "bandcamp": "https://wesmontgomery.bandcamp.com/",
+      "discogs": "129805",
+      "spotify": "6FSFGjKnC5RijmA7Aizmpf",
+      "deezer": "75104",
+      "rateyourmusic": "wes_montgomery",
+      "wikidata": "Q298601"
+    }
   }
 }

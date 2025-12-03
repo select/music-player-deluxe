@@ -2,7 +2,7 @@
   "youtubeId": "sqwfDNzTYks",
   "title": "Sammy Davis Jr.",
   "artist": "Movits!",
-  "lastFetched": "2025-11-30T22:31:10.300Z",
+  "lastFetched": "2025-12-02T01:58:05.248Z",
   "odesli": {
     "amazonMusic": "B0D1QXBMPV",
     "amazonStore": "B0D1QXBMPV",
@@ -34,6 +34,14 @@
     "artistGenres": [
       "alternative hip hop",
       "swing"
-    ]
+    ],
+    "releasedAt": "2011-03-23",
+    "externalIdsArtist": {
+      "allmusic": "mn0001576808",
+      "discogs": "2174653",
+      "lastfm": "Movits!",
+      "rateyourmusic": "movits_",
+      "wikidata": "Q796382"
+    }
   }
 }

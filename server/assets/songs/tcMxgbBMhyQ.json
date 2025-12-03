@@ -3,7 +3,7 @@
   "artist": "Tingvall Trio",
   "duration": 281,
   "youtubeId": "tcMxgbBMhyQ",
-  "lastFetched": "2025-11-19T03:40:15.755Z",
+  "lastFetched": "2025-12-02T01:59:40.514Z",
   "odesli": {
     "amazonMusic": "B0FD3QNMNR",
     "amazonStore": "B0FD3QNMNR",
@@ -24,7 +24,16 @@
     ],
     "trackMbid": "b876737b-f3ec-4f51-b2c0-5947f9a65f7c",
     "artistMbid": "51b553fa-1604-4110-ba48-f54e38f50678",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-08-01",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "2084613",
+      "spotify": "65mwyp96M7Yx78x8XVz39M",
+      "deezer": "392255",
+      "rateyourmusic": "tingvall_trio",
+      "wikidata": "Q1560591"
+    }
   },
   "lastfm": {
     "id": "Tingvall+Trio/_/Cruisin%27",

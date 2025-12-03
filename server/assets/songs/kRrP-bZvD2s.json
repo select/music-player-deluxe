@@ -1,7 +1,7 @@
 {
   "youtubeId": "kRrP-bZvD2s",
   "title": "die ärzte - Deine Schuld (Offizielles Video - Refurbished 2025)",
-  "lastFetched": "2025-11-30T21:01:54.992Z",
+  "lastFetched": "2025-12-02T01:44:50.889Z",
   "ai": {
     "title": "Deine Schuld",
     "artist": "die Ärzte"
@@ -35,6 +35,20 @@
       "punk",
       "punk rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2013-09-13",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000823202",
+      "discogs": "45317",
+      "spotify": "0cbL6CYnRqpAxf1evwUVQD",
+      "deezer": "2154",
+      "lastfm": "Die+%C3%84rzte",
+      "genius": "Die-arzte",
+      "rateyourmusic": "die_arzte",
+      "soundcloud": "https://soundcloud.com/diearzte",
+      "wikidata": "Q32645",
+      "youtube": "UCsJsxj9pPP8sZuaRiaNAavQ"
+    }
   }
 }

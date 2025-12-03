@@ -2,7 +2,7 @@
   "youtubeId": "j8jhAzSZYfg",
   "title": "Dead End Justice",
   "artist": "The Runaways",
-  "lastFetched": "2025-11-30T20:10:46.944Z",
+  "lastFetched": "2025-12-02T01:42:50.767Z",
   "odesli": {
     "amazonMusic": "B003B7KENW",
     "amazonStore": "B003B7KENW",
@@ -55,6 +55,16 @@
       "punk",
       "punk rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1976",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000492275",
+      "discogs": "242611",
+      "spotify": "5eTq3PxbOh5vgeRXKNqPyV",
+      "deezer": "371339",
+      "lastfm": "The+Runaways",
+      "wikidata": "Q908458"
+    }
   }
 }

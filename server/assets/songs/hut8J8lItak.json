@@ -1,7 +1,7 @@
 {
   "youtubeId": "hut8J8lItak",
   "title": "Shadow Gallery - Celtic Princess",
-  "lastFetched": "2025-11-30T21:11:46.713Z",
+  "lastFetched": "2025-12-02T01:40:56.310Z",
   "ai": {
     "title": "Celtic Princess",
     "artist": "Shadow Gallery"
@@ -39,6 +39,18 @@
       "progressive rock",
       "rock",
       "symphonic metal"
-    ]
+    ],
+    "releasedAt": "1995-06-27",
+    "externalIdsArtist": {
+      "allmusic": "mn0000131339",
+      "discogs": "364853",
+      "spotify": "79zigPpfSQ5Fgeu0iaI8n5",
+      "deezer": "248872",
+      "lastfm": "Shadow+Gallery",
+      "genius": "Shadow-gallery",
+      "rateyourmusic": "shadow_gallery",
+      "soundcloud": "https://soundcloud.com/shadowgalleryofficial",
+      "wikidata": "Q980356"
+    }
   }
 }

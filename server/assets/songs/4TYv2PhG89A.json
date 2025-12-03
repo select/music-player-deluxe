@@ -1,0 +1,59 @@
+{
+  "youtubeId": "4TYv2PhG89A",
+  "title": "Sade - Smooth Operator - Official - 1984",
+  "lastFetched": "2025-12-03T11:59:35.744Z",
+  "ai": {
+    "title": "Smooth Operator",
+    "artist": "Sade"
+  },
+  "lastfm": {
+    "summary": "\"Smooth Operator\" is a song by the English group Sade released as the fourth and final single from their debut album, Diamond Life (1984). It was released (in both the U.S. and the UK) as a 7\" single with \"Spirit\" as its B-side and as a 12\" maxi single with \"Smooth Operator\" and \"Red Eye\" on side A and \"Spirit\" on side B. In the U.S. it was the follow-up to \"Hang on to Your Love\".\n\nThis was Sade's first top ten hit in the U.S., peaking at number five on the Billboard Hot 100 chart for two weeks in May 1985. <a href=\"http://www.last.fm/music/Sade/_/Smooth+Operator\">Read more on Last.fm</a>.",
+    "id": "Sade/_/Smooth+Operator",
+    "listeners": 574818,
+    "playcount": 3326349,
+    "title": "Smooth Operator",
+    "artist": "Sade",
+    "artistMbid": "67930b3e-e00b-469f-8c74-fd69f20522ec",
+    "tags": [
+      "soul",
+      "jazz",
+      "female vocalists",
+      "80s",
+      "sade"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6e53e09e-9009-4c26-9ce6-60ab146d66d5",
+    "artistMbid": "67930b3e-e00b-469f-8c74-fd69f20522ec",
+    "releaseCount": 2,
+    "artistGenres": [
+      "contemporary r&b",
+      "downtempo",
+      "jazz",
+      "jazz pop",
+      "pop",
+      "pop soul",
+      "quiet storm",
+      "smooth jazz",
+      "smooth soul",
+      "sophisti-pop",
+      "soul",
+      "trip hop"
+    ],
+    "releasedAt": "2012-06-11",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000279337",
+      "discogs": "19731",
+      "spotify": "47zz7sob9NUcODy0BTDvKx",
+      "deezer": "202",
+      "lastfm": "Sade",
+      "genius": "Sade",
+      "rateyourmusic": "sade",
+      "soundcloud": "https://soundcloud.com/sadeofficial",
+      "napster": "sade",
+      "wikidata": "Q658182",
+      "youtube": "UCegKDBFMUSQNeWe4FAB7aig"
+    }
+  }
+}

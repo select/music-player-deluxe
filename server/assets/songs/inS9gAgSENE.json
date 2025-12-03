@@ -1,7 +1,7 @@
 {
   "youtubeId": "inS9gAgSENE",
   "title": "Stevie Wonder - Happy Birthday",
-  "lastFetched": "2025-11-30T21:40:29.205Z",
+  "lastFetched": "2025-12-02T01:42:14.204Z",
   "ai": {
     "title": "Happy Birthday",
     "artist": "Stevie Wonder"
@@ -39,6 +39,21 @@
       "pop",
       "pop soul",
       "soul"
-    ]
+    ],
+    "releasedAt": "1980-09-29",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000622805",
+      "discogs": "649674",
+      "spotify": "7guDJrEfX3qb6FEbdPA5qi",
+      "deezer": "166",
+      "lastfm": "Stevie+Wonder",
+      "genius": "Stevie-wonder",
+      "rateyourmusic": "stevie_wonder",
+      "soundcloud": "https://soundcloud.com/stevie-wonder-official",
+      "napster": "stevie-wonder",
+      "wikidata": "Q714",
+      "youtube": "UCR83RRXHzXrEQbu_ZQmPMSg"
+    }
   }
 }

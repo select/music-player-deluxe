@@ -2,7 +2,7 @@
   "youtubeId": "uznTHSEgx4U",
   "title": "Got 'Til It's Gone",
   "artist": "Janet Jackson",
-  "lastFetched": "2025-11-30T22:10:38.925Z",
+  "lastFetched": "2025-12-02T02:01:05.257Z",
   "odesli": {
     "amazonMusic": "B0BGY1S91N",
     "amazonStore": "B0BGY1S91N",
@@ -43,6 +43,21 @@
       "quiet storm",
       "r&b",
       "soul"
-    ]
+    ],
+    "releasedAt": "1999-01-13",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000208774",
+      "discogs": "8024",
+      "spotify": "4qwGe91Bz9K2T8jXTZ815W",
+      "deezer": "262",
+      "lastfm": "Janet+Jackson",
+      "genius": "Janet-jackson",
+      "rateyourmusic": "janet_jackson",
+      "soundcloud": "https://soundcloud.com/janetjackson",
+      "napster": "janet-jackson",
+      "wikidata": "Q131324",
+      "youtube": "UCd6_LdvB_IdhYOGR-HSJziA"
+    }
   }
 }

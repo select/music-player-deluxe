@@ -2,7 +2,7 @@
   "youtubeId": "q0sPDW3086E",
   "title": "Krasse Sachen",
   "artist": "Ohrbooten",
-  "lastFetched": "2025-11-30T22:16:36.658Z",
+  "lastFetched": "2025-12-02T01:53:34.776Z",
   "lastfm": {
     "title": "Krasse Sachen",
     "artist": "Ohrbooten",
@@ -24,6 +24,13 @@
     "releaseCount": 2,
     "artistGenres": [
       "ragga hip-hop"
-    ]
+    ],
+    "releasedAt": "2005-08-01",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "566564",
+      "spotify": "06sVMzmcw141RgryE8TuMj",
+      "wikidata": "Q2016708"
+    }
   }
 }

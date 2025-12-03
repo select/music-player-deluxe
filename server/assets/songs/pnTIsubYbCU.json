@@ -2,7 +2,7 @@
   "youtubeId": "pnTIsubYbCU",
   "title": "Go Away",
   "artist": "Weezer",
-  "lastFetched": "2025-11-30T21:52:29.207Z",
+  "lastFetched": "2025-12-02T01:53:12.809Z",
   "odesli": {
     "amazonMusic": "B00NQ3MDO4",
     "amazonStore": "B00NQ3MDO4",
@@ -44,6 +44,21 @@
       "pop rock",
       "power pop",
       "rock"
-    ]
+    ],
+    "releasedAt": "2014-07-10",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000243008",
+      "discogs": "105730",
+      "spotify": "3jOstUTkEu2JkjvRdBA5Gu",
+      "deezer": "418",
+      "lastfm": "Weezer",
+      "genius": "Weezer",
+      "rateyourmusic": "weezer",
+      "soundcloud": "https://soundcloud.com/weezer",
+      "napster": "weezer",
+      "wikidata": "Q209956",
+      "youtube": "UCtHZHneyvFGwxg6MHcbMLAw"
+    }
   }
 }

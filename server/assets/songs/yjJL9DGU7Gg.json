@@ -1,7 +1,7 @@
 {
   "youtubeId": "yjJL9DGU7Gg",
   "title": "Interstate Love Song",
-  "lastFetched": "2025-11-30T21:11:12.998Z",
+  "lastFetched": "2025-12-02T02:06:40.017Z",
   "ai": {
     "title": "Interstate Love Song",
     "artist": "Stone Temple Pilots"
@@ -64,6 +64,23 @@
       "neo-psychedelia",
       "post-grunge",
       "power pop"
-    ]
+    ],
+    "releasedAt": "1994-06-06",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "6qLEOZvf5gI7kWE63JE7p3"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000626463",
+      "discogs": "87642",
+      "spotify": "2UazAtjfzqBF0Nho2awK4z",
+      "deezer": "4435",
+      "lastfm": "Stone+Temple+Pilots",
+      "genius": "Stone-temple-pilots",
+      "rateyourmusic": "stone-temple-pilots",
+      "soundcloud": "https://soundcloud.com/stpsoundcloud",
+      "wikidata": "Q329270",
+      "youtube": "UCg26QwzVApb014fbJF-dptQ"
+    }
   }
 }

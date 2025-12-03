@@ -2,7 +2,7 @@
   "youtubeId": "Z8NiouNEivo",
   "title": "BABY SAID",
   "artist": "Måneskin",
-  "lastFetched": "2025-11-19T14:29:04.169Z",
+  "lastFetched": "2025-12-02T01:27:02.470Z",
   "odesli": {
     "amazonMusic": "B0BPYSGD1L",
     "amazonStore": "B0BPYSGD1L",
@@ -24,7 +24,22 @@
       "italian"
     ],
     "trackMbid": "aaf402a3-ec26-4a55-9be2-f72a604bb156",
-    "artistMbid": "3862342a-43c4-4cdb-8250-bfdbfb5e1419"
+    "artistMbid": "3862342a-43c4-4cdb-8250-bfdbfb5e1419",
+    "releasedAt": "2023-01-20",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "allmusic": "mn0003698978",
+      "discogs": "6184259",
+      "spotify": "0lAWpj5szCSwM4rUMHYmrr",
+      "deezer": "13612387",
+      "lastfm": "M%C3%A5neskin",
+      "genius": "Maneskin",
+      "rateyourmusic": "maneskin",
+      "soundcloud": "https://soundcloud.com/maneskin",
+      "napster": "maneskin",
+      "wikidata": "Q56884561",
+      "youtube": "UCgQna2EqpzqzfBjlSmzT72w"
+    }
   },
   "lastfm": {
     "id": "M%C3%A5neskin/_/BABY+SAID",

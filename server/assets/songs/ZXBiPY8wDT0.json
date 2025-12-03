@@ -2,7 +2,7 @@
   "youtubeId": "ZXBiPY8wDT0",
   "title": "Ticket to the Moon",
   "artist": "Electric Light Orchestra",
-  "lastFetched": "2025-11-30T20:08:38.008Z",
+  "lastFetched": "2025-12-02T01:27:46.392Z",
   "odesli": {
     "amazonMusic": "B00137XX8A",
     "amazonStore": "B00137XX8A",
@@ -49,6 +49,21 @@
       "rock",
       "symphonic prog",
       "symphonic rock"
-    ]
+    ],
+    "releasedAt": "2004",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000163229",
+      "discogs": "112154",
+      "spotify": "7jefIIksOi1EazgRTfW2Pk",
+      "deezer": "8904994",
+      "lastfm": "Electric+Light+Orchestra",
+      "genius": "Electric-light-orchestra",
+      "rateyourmusic": "electric_light_orchestra",
+      "soundcloud": "https://soundcloud.com/electric-light-orchestra",
+      "napster": "electric-light-orchestra",
+      "wikidata": "Q218255",
+      "youtube": "UCk87V2lvXb6AMZXkLY3_phQ"
+    }
   }
 }

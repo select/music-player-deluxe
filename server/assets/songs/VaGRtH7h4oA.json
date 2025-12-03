@@ -3,7 +3,7 @@
   "artist": "Syd Barrett",
   "duration": 305,
   "youtubeId": "VaGRtH7h4oA",
-  "lastFetched": "2025-11-19T03:30:06.060Z",
+  "lastFetched": "2025-12-02T01:21:21.002Z",
   "odesli": {
     "amazonMusic": "B0BPN5TDPW",
     "amazonStore": "B0BPN5TDPW",
@@ -29,7 +29,20 @@
     ],
     "trackMbid": "719aa04c-931f-4efe-b1f3-2779ab9a51ed",
     "artistMbid": "12327d75-47d5-45d9-84c2-3760b9210c17",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1970-01-03",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000044874",
+      "discogs": "178489",
+      "spotify": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+      "deezer": "3462",
+      "lastfm": "Syd+Barrett",
+      "genius": "Syd-barrett",
+      "rateyourmusic": "syd_barrett",
+      "wikidata": "Q173061",
+      "youtube": "SydBarrettOfficial"
+    }
   },
   "lastfm": {
     "id": "Syd+Barrett/_/Terrapin",

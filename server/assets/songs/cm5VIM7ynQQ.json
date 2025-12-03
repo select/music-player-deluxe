@@ -2,7 +2,7 @@
   "youtubeId": "cm5VIM7ynQQ",
   "title": "Estranged",
   "artist": "Guns N' Roses",
-  "lastFetched": "2025-11-23T16:44:26.017Z",
+  "lastFetched": "2025-12-02T01:34:07.638Z",
   "odesli": {
     "amazonMusic": "B07DCLFS4X",
     "amazonStore": "B07DCLFS4X",
@@ -32,7 +32,22 @@
       "hard rock"
     ],
     "trackMbid": "0013b878-337a-4ab9-86f2-d043bc38761f",
-    "artistMbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43"
+    "artistMbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+    "releasedAt": "1991",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000540883",
+      "discogs": "124535",
+      "spotify": "3qm84nBOXUEQ2vnTfUTTFC",
+      "deezer": "663",
+      "lastfm": "Guns+N'+Roses",
+      "genius": "Guns-n-roses",
+      "rateyourmusic": "guns_n_roses",
+      "soundcloud": "https://soundcloud.com/guns-n-roses-official",
+      "napster": "guns-n-roses",
+      "wikidata": "Q11895",
+      "youtube": "UCSLbbBoUqpin6BE34whSOvA"
+    }
   },
   "lastfm": {
     "id": "Guns+N%27+Roses/_/Estranged",

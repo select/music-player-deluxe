@@ -2,7 +2,7 @@
   "youtubeId": "ysYyCElzB0A",
   "title": "I Love Your Smile",
   "artist": "Shanice",
-  "lastFetched": "2025-11-23T16:54:33.404Z",
+  "lastFetched": "2025-12-02T02:07:06.014Z",
   "odesli": {
     "amazonMusic": "B001NZG9FQ",
     "amazonStore": "B001NZG9FQ",
@@ -31,7 +31,17 @@
       "soul"
     ],
     "trackMbid": "413f3564-ad99-471c-b203-03107f537df6",
-    "artistMbid": "1d0a249b-5892-4e09-b50d-3c0755bfae77"
+    "artistMbid": "1d0a249b-5892-4e09-b50d-3c0755bfae77",
+    "releasedAt": "1996-11-05",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000792839",
+      "discogs": "478431",
+      "spotify": "6bdynXw42zLZpIS5NTMot6",
+      "deezer": "7603",
+      "rateyourmusic": "shanice",
+      "wikidata": "Q267306"
+    }
   },
   "lastfm": {
     "id": "Shanice/_/I+Love+Your+Smile",

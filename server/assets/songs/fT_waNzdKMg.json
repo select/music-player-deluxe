@@ -1,7 +1,7 @@
 {
   "youtubeId": "fT_waNzdKMg",
   "title": "Opeth - Demon of the Fall",
-  "lastFetched": "2025-11-30T20:26:47.930Z",
+  "lastFetched": "2025-12-02T01:37:28.336Z",
   "ai": {
     "title": "Demon of the Fall",
     "artist": "Opeth"
@@ -40,6 +40,21 @@
       "metal",
       "progressive metal",
       "progressive rock"
-    ]
+    ],
+    "releasedAt": "1998-06-15",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000400717",
+      "discogs": "245797",
+      "spotify": "0ybFZ2Ab08V8hueghSXm6E",
+      "deezer": "2814",
+      "lastfm": "Opeth",
+      "genius": "Opeth",
+      "rateyourmusic": "opeth",
+      "soundcloud": "https://soundcloud.com/opethofficial",
+      "napster": "opeth",
+      "wikidata": "Q18557",
+      "youtube": "UCPDNZZQOlPKYnL64i9cCXFA"
+    }
   }
 }

@@ -1,0 +1,53 @@
+{
+  "youtubeId": "-yhpr-ixpw8",
+  "title": "Calyx & TeeBee - Skank",
+  "lastFetched": "2025-12-03T11:54:48.440Z",
+  "ai": {
+    "title": "Skank",
+    "artist": "Calyx & TeeBee"
+  },
+  "lastfm": {
+    "id": "Calyx+&+TeeBee/_/Skank",
+    "listeners": 5824,
+    "playcount": 21939,
+    "title": "Skank",
+    "artist": "Calyx & TeeBee",
+    "mbid": "00d832b8-72a9-4628-a7ed-1d3309948ad7",
+    "artistMbid": "43b161b8-4fb7-4aed-8056-d927e3c17be2",
+    "tags": [
+      "drum and bass",
+      "electronic",
+      "dance",
+      "british",
+      "neurofunk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "413dc9b7-7618-49a2-879a-473e9b8aad59",
+    "artistMbid": "43b161b8-4fb7-4aed-8056-d927e3c17be2",
+    "releaseCount": 2,
+    "genres": [
+      "dance",
+      "drum and bass",
+      "electronic",
+      "house"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "electronic"
+    ],
+    "releasedAt": "2012-11-04",
+    "artistCountry": "XE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003413672",
+      "discogs": "1333378",
+      "youtube": "UCd50BHeUSmquZAkc27bD2eA",
+      "spotify": "5AXHArSOd9lplw0Y5Qt5Eg",
+      "deezer": "2936901",
+      "lastfm": "Calyx%20&%20TeeBee",
+      "rateyourmusic": "calyx_and_teebee",
+      "soundcloud": "https://soundcloud.com/calyxteebee",
+      "wikidata": "Q18745853"
+    }
+  }
+}

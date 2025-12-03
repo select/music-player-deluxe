@@ -2,7 +2,7 @@
   "youtubeId": "m3clDWcuNhE",
   "title": "Cat On Tin Roof",
   "artist": "Blonde Redhead",
-  "lastFetched": "2025-11-23T16:48:28.141Z",
+  "lastFetched": "2025-12-02T01:47:14.282Z",
   "odesli": {
     "amazonMusic": "B00N40MU7Y",
     "amazonStore": "B00N40MU7Y",
@@ -32,7 +32,20 @@
       "indie rock"
     ],
     "trackMbid": "08c22a69-d6a4-472f-a09f-dde73b03d686",
-    "artistMbid": "6821bf3f-5d5b-4b0f-8fa4-79d2ab2d9219"
+    "artistMbid": "6821bf3f-5d5b-4b0f-8fa4-79d2ab2d9219",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000046527",
+      "bandcamp": "https://blonderedhead.bandcamp.com/",
+      "discogs": "67009",
+      "spotify": "5isqImG0rLfAgBJSPMEVXF",
+      "deezer": "1508",
+      "lastfm": "Blonde+Redhead",
+      "genius": "Blonde-redhead",
+      "rateyourmusic": "blonde_redhead",
+      "soundcloud": "https://soundcloud.com/blonde-redhead-2",
+      "wikidata": "Q885016"
+    }
   },
   "lastfm": {
     "id": "Blonde+Redhead/_/Cat+On+Tin+Roof",

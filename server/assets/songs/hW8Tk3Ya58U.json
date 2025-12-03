@@ -2,7 +2,7 @@
   "youtubeId": "hW8Tk3Ya58U",
   "title": "Pains",
   "artist": "Silk Rhodes",
-  "lastFetched": "2025-11-30T21:24:41.641Z",
+  "lastFetched": "2025-12-02T01:40:23.793Z",
   "odesli": {
     "amazonMusic": "B095XN4J5B",
     "amazonStore": "B095XN4J5B",
@@ -33,6 +33,13 @@
     "genres": [
       "r&b",
       "soul"
-    ]
+    ],
+    "releasedAt": "2014-08-12",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://silkrhodes.bandcamp.com/",
+      "discogs": "3831751",
+      "soundcloud": "https://soundcloud.com/silkrhodes"
+    }
   }
 }

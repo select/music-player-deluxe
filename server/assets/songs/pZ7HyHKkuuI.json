@@ -2,7 +2,7 @@
   "youtubeId": "pZ7HyHKkuuI",
   "title": "Wir sind frei",
   "artist": "Berge",
-  "lastFetched": "2025-11-30T21:47:59.662Z",
+  "lastFetched": "2025-12-02T01:52:55.891Z",
   "odesli": {
     "amazonMusic": "B00Y1UG63U",
     "amazonStore": "B00Y1UG63U",
@@ -35,6 +35,13 @@
     "releaseCount": 2,
     "artistGenres": [
       "pop"
-    ]
+    ],
+    "releasedAt": "2015-06-05",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "541982",
+      "soundcloud": "https://soundcloud.com/hoertberge",
+      "wikidata": "Q819463"
+    }
   }
 }

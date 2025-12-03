@@ -1,0 +1,54 @@
+{
+  "youtubeId": "Huag2s7UPXg",
+  "title": "Die Leere",
+  "artist": "Parkway Drive",
+  "lastFetched": "2025-12-03T11:50:55.945Z",
+  "odesli": {
+    "amazonMusic": "B083JM4RC6",
+    "amazonStore": "B083JM4RC6",
+    "appleMusic": "1493962202",
+    "itunes": "1493962202",
+    "pandora": "TR:29990384",
+    "soundcloud": "parkway-drive/die-leere",
+    "spotify": "1c4c8iipyUGlCbpwDvomRD",
+    "tidal": "135033443",
+    "youtube": "Huag2s7UPXg",
+    "youtubeMusic": "Huag2s7UPXg"
+  },
+  "lastfm": {
+    "id": "Parkway+Drive/_/Die+Leere",
+    "listeners": 15290,
+    "playcount": 77031,
+    "title": "Die Leere",
+    "artist": "Parkway Drive",
+    "mbid": "331654bb-0b66-4b94-9c30-ad814891d9ab",
+    "artistMbid": "a436dd02-0549-4c91-b608-df451217fdeb",
+    "tags": [
+      "metalcore"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d94c7e4c-bbc0-41fb-8e35-aff62bdb3903",
+    "artistMbid": "a436dd02-0549-4c91-b608-df451217fdeb",
+    "releaseCount": 4,
+    "artistGenres": [
+      "melodic metalcore",
+      "metalcore"
+    ],
+    "releasedAt": "2020-01-23",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0001393036",
+      "bandcamp": "https://parkwaydriveresist.bandcamp.com/",
+      "discogs": "441052",
+      "spotify": "159qqlGwzE04xyqpfAwRLo",
+      "deezer": "16410",
+      "lastfm": "Parkway+Drive",
+      "genius": "Parkway-drive",
+      "rateyourmusic": "parkway_drive",
+      "soundcloud": "https://soundcloud.com/parkway-drive",
+      "wikidata": "Q282855",
+      "youtube": "UCpAJllxeRiu18lTgsKiSVmg"
+    }
+  }
+}

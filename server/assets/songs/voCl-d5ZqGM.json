@@ -1,7 +1,7 @@
 {
   "youtubeId": "voCl-d5ZqGM",
   "title": "Supersuckers – Pretty Fucked Up",
-  "lastFetched": "2025-11-30T19:28:58.282Z",
+  "lastFetched": "2025-12-02T02:02:05.980Z",
   "ai": {
     "title": "Pretty Fucked Up",
     "artist": "Supersuckers"
@@ -23,6 +23,18 @@
       "punk rock",
       "rock and roll",
       "southern rock"
-    ]
+    ],
+    "releasedAt": "2003-04-22",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000752022",
+      "bandcamp": "https://supersuckers.bandcamp.com/",
+      "discogs": "322791",
+      "spotify": "7gMCi9ouTHLfqzJsjL1UVg",
+      "deezer": "66893",
+      "lastfm": "Supersuckers",
+      "rateyourmusic": "supersuckers",
+      "wikidata": "Q1611056"
+    }
   }
 }

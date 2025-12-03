@@ -2,7 +2,7 @@
   "youtubeId": "Ygfh6dFUtcU",
   "title": "Left Side Drive",
   "artist": "Boards Of Canada",
-  "lastFetched": "2025-11-30T22:13:28.618Z",
+  "lastFetched": "2025-12-02T01:26:35.903Z",
   "odesli": {
     "amazonMusic": "B001GQGRK4",
     "amazonStore": "B001GQGRK4",
@@ -46,6 +46,23 @@
       "folktronica",
       "hauntology",
       "idm"
-    ]
+    ],
+    "releasedAt": "2006-05-19",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "3NrNukjXkShrtZSrA89Gc4"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000758999",
+      "bandcamp": "https://boardsofcanada.bandcamp.com/",
+      "discogs": "307",
+      "youtube": "UCidyEq0ZC6rcqZmwKt_g_2g",
+      "spotify": "2VAvhf61GgLYmC6C8anyX1",
+      "deezer": "1098",
+      "lastfm": "Boards+of+Canada",
+      "rateyourmusic": "boards-of-canada",
+      "soundcloud": "https://soundcloud.com/boardsofcanada",
+      "wikidata": "Q722778"
+    }
   }
 }

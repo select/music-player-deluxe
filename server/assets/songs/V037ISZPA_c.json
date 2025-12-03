@@ -1,7 +1,7 @@
 {
   "youtubeId": "V037ISZPA_c",
   "title": "Tschaika 21/16 \"Man nennt sie Nancy\"",
-  "lastFetched": "2025-11-30T21:18:15.750Z",
+  "lastFetched": "2025-12-02T01:20:27.240Z",
   "ai": {
     "title": "Man nennt sie Nancy",
     "artist": "Tschaika 21/16"
@@ -22,6 +22,10 @@
   "musicbrainz": {
     "trackMbid": "ff9fb0c8-7b16-4411-a474-b9c82e0cab8a",
     "artistMbid": "4e02b238-6c0f-4ac4-b57b-6a32fca29f49",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2016-11-11",
+    "externalIdsArtist": {
+      "discogs": "4972910"
+    }
   }
 }

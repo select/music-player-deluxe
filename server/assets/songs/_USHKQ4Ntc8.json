@@ -2,7 +2,7 @@
   "youtubeId": "_USHKQ4Ntc8",
   "title": "Mothers Of The Sun",
   "artist": "Black Mountain",
-  "lastFetched": "2025-11-23T16:42:42.064Z",
+  "lastFetched": "2025-12-02T01:29:09.051Z",
   "odesli": {
     "amazonMusic": "B01ACDYVNQ",
     "amazonStore": "B01ACDYVNQ",
@@ -32,7 +32,18 @@
       "rock"
     ],
     "trackMbid": "1db364c5-2748-4ce0-b28f-e35434a54acd",
-    "artistMbid": "4898b9ad-f564-4ff1-9046-b1a16dfd5200"
+    "artistMbid": "4898b9ad-f564-4ff1-9046-b1a16dfd5200",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000950037",
+      "bandcamp": "https://blackmountain.bandcamp.com/",
+      "discogs": "336341",
+      "spotify": "00sAr10UTV1JZtHqxsLVn4",
+      "deezer": "4426",
+      "lastfm": "Black+Mountain",
+      "rateyourmusic": "black_mountain",
+      "wikidata": "Q2247758"
+    }
   },
   "lastfm": {
     "id": "Black+Mountain/_/Mothers+Of+The+Sun",

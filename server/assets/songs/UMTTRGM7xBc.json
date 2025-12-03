@@ -2,7 +2,7 @@
   "youtubeId": "UMTTRGM7xBc",
   "title": "Rose Pedals",
   "artist": "Lee Ritenour",
-  "lastFetched": "2025-11-23T16:40:12.387Z",
+  "lastFetched": "2025-12-02T01:19:35.866Z",
   "odesli": {
     "amazonMusic": "B0098X0CLW",
     "amazonStore": "B0098X0CLW",
@@ -39,7 +39,17 @@
       "jazz rock"
     ],
     "trackMbid": "11c14d5d-17bd-449c-9fc0-8e9b2eda92b2",
-    "artistMbid": "0c361ea5-98c6-4947-900b-201833f2dd84"
+    "artistMbid": "0c361ea5-98c6-4947-900b-201833f2dd84",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000228444",
+      "discogs": "37735",
+      "spotify": "1nDqTUspmq8IXhcEZT93iq",
+      "deezer": "7432",
+      "lastfm": "Lee+Ritenour",
+      "rateyourmusic": "lee_ritenour",
+      "wikidata": "Q363320"
+    }
   },
   "lastfm": {
     "id": "Lee+Ritenour/_/Rose+Pedals",

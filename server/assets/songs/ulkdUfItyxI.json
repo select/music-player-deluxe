@@ -2,7 +2,7 @@
   "youtubeId": "ulkdUfItyxI",
   "title": "End of Summer",
   "artist": "Tame Impala",
-  "lastFetched": "2025-11-19T04:07:44.002Z",
+  "lastFetched": "2025-12-02T02:00:49.589Z",
   "odesli": {
     "amazonMusic": "B0FJDK991F",
     "amazonStore": "B0FJDK991F",
@@ -22,7 +22,25 @@
       "tech house"
     ],
     "trackMbid": "56c5e58b-c62b-4d86-bc75-f1501fd2f98f",
-    "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
+    "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+    "releasedAt": "2025-07-17",
+    "artistCountry": "AU",
+    "externalIdsTrack": {
+      "spotify": "3McBKxKZLXbE4czUezk5QG",
+      "deezer": "3602329412"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002014409",
+      "discogs": "1245513",
+      "spotify": "5INjqkS1o8h1imAzPqGZBb",
+      "deezer": "134790",
+      "lastfm": "Tame+Impala",
+      "genius": "Tame-impala",
+      "rateyourmusic": "tame_impala",
+      "soundcloud": "https://soundcloud.com/tame-impala",
+      "wikidata": "Q9619",
+      "youtube": "UCdI8MAC5HoPJSJ4zrgDDI-Q"
+    }
   },
   "lastfm": {
     "id": "Tame+Impala/_/End+of+Summer",

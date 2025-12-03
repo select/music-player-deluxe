@@ -2,7 +2,7 @@
   "youtubeId": "nXiQtD5gcHU",
   "title": "Papa Was a Rolling Stone",
   "artist": "The Temptations",
-  "lastFetched": "2025-11-23T16:49:21.194Z",
+  "lastFetched": "2025-12-02T01:49:26.563Z",
   "odesli": {
     "amazonMusic": "B07KZRYQ35",
     "amazonStore": "B07KZRYQ35",
@@ -35,7 +35,18 @@
       "pop soul"
     ],
     "trackMbid": "62f2a1da-6dea-4851-818f-fa84e94ff928",
-    "artistMbid": "d8df96ae-8fcf-4997-b3e6-e5d1aaf0f69e"
+    "artistMbid": "d8df96ae-8fcf-4997-b3e6-e5d1aaf0f69e",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000569685",
+      "discogs": "28332",
+      "spotify": "3RwQ26hR2tJtA8F9p2n7jG",
+      "deezer": "2730",
+      "lastfm": "The+Temptations",
+      "rateyourmusic": "the_temptations",
+      "wikidata": "Q846373",
+      "youtube": "UCee8VNCWfOCYccbFhDM8B_A"
+    }
   },
   "lastfm": {
     "id": "The+Temptations/_/Papa+Was+a+Rolling+Stone",

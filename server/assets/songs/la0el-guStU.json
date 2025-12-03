@@ -2,7 +2,7 @@
   "youtubeId": "la0el-guStU",
   "title": "Heat Miser",
   "artist": "Massive Attack",
-  "lastFetched": "2025-11-30T20:57:00.406Z",
+  "lastFetched": "2025-12-02T01:46:34.828Z",
   "odesli": {
     "amazonMusic": "B000TEEPLC",
     "amazonStore": "B000TEEPLC",
@@ -52,6 +52,24 @@
       "electronica",
       "trip hop",
       "uk street soul"
-    ]
+    ],
+    "releasedAt": "1994-09-26",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "1sMr77QrXyS9LRIhcCI2el"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000378288",
+      "discogs": "4480",
+      "spotify": "6FXMGgJwohJLUSr5nVlf9X",
+      "deezer": "612",
+      "lastfm": "Massive+Attack",
+      "genius": "Massive-attack",
+      "rateyourmusic": "massive_attack",
+      "soundcloud": "https://soundcloud.com/massiveattack",
+      "napster": "massive-attack",
+      "wikidata": "Q357418",
+      "youtube": "UCNgjBASMIxygr65gJs9IyUA"
+    }
   }
 }

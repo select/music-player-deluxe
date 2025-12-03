@@ -2,7 +2,7 @@
   "youtubeId": "n7U2amT4GkA",
   "title": "Beware The Rat King",
   "artist": "Eyestral",
-  "lastFetched": "2025-11-19T10:06:49.370Z",
+  "lastFetched": "2025-12-02T01:48:54.021Z",
   "lastfm": {
     "id": "Eyestral/_/Beware+The+Rat+King",
     "listeners": 33,
@@ -17,6 +17,11 @@
   },
   "musicbrainz": {
     "trackMbid": "56812fd6-2eea-4ebc-a72c-ca2e3cffabe2",
-    "artistMbid": "433ffd08-4b0b-404b-b2e5-3c7f5713fe4b"
+    "artistMbid": "433ffd08-4b0b-404b-b2e5-3c7f5713fe4b",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "bandcamp": "https://eyestral.bandcamp.com/",
+      "discogs": "6058558"
+    }
   }
 }

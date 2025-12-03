@@ -2,7 +2,7 @@
   "youtubeId": "zGNM6bkmjqc",
   "title": "En Passant",
   "artist": "Dub Trio",
-  "lastFetched": "2025-11-30T22:27:34.279Z",
+  "lastFetched": "2025-12-02T02:07:41.035Z",
   "odesli": {
     "amazonMusic": "B005P4GA0K",
     "amazonStore": "B005P4GA0K",
@@ -45,6 +45,13 @@
       "instrumental",
       "metal",
       "rock"
-    ]
+    ],
+    "releasedAt": "2010",
+    "externalIdsArtist": {
+      "allmusic": "mn0000197938",
+      "discogs": "235206",
+      "soundcloud": "https://soundcloud.com/dub-trio",
+      "wikidata": "Q3040493"
+    }
   }
 }

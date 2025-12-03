@@ -3,7 +3,7 @@
   "artist": "Artur Nunes",
   "duration": 223,
   "youtubeId": "XCi4LVt-Ais",
-  "lastFetched": "2025-11-19T05:30:06.471Z",
+  "lastFetched": "2025-12-02T01:23:40.212Z",
   "odesli": {
     "amazonMusic": "B0164R7KS2",
     "amazonStore": "B0164R7KS2",
@@ -29,6 +29,13 @@
   "musicbrainz": {
     "trackMbid": "d638d258-a973-48ff-a3fb-b941f6ba530a",
     "artistMbid": "e6d56982-effc-41dc-8d70-0b3650052b7e",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2018-11-02",
+    "artistCountry": "AO",
+    "externalIdsArtist": {
+      "discogs": "1483779",
+      "spotify": "7mFSTNhatB9vilNcjMs3qx",
+      "rateyourmusic": "artur_nunes"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "vQiHmQI_fv8",
   "title": "Shika-1",
   "artist": "Biosphere",
-  "lastFetched": "2025-11-30T22:21:59.907Z",
+  "lastFetched": "2025-12-02T02:01:29.125Z",
   "odesli": {
     "amazonMusic": "B0051ZWKGG",
     "amazonStore": "B0051ZWKGG",
@@ -41,6 +41,17 @@
       "electronica",
       "experimental",
       "field recording"
-    ]
+    ],
+    "releasedAt": "2011-06-27",
+    "artistCountry": "NO",
+    "externalIdsArtist": {
+      "allmusic": "mn0000081248",
+      "bandcamp": "https://biosphere.bandcamp.com/",
+      "discogs": "3956",
+      "deezer": "8291",
+      "lastfm": "Geir+Jenssen",
+      "rateyourmusic": "biosphere",
+      "wikidata": "Q616371"
+    }
   }
 }

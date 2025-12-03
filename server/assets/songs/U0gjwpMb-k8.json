@@ -1,0 +1,45 @@
+{
+  "youtubeId": "U0gjwpMb-k8",
+  "title": "Erkin Koray - Cemalim (1974, High Quality)",
+  "lastFetched": "2025-12-03T11:51:52.113Z",
+  "ai": {
+    "title": "Cemalim",
+    "artist": "Erkin Koray"
+  },
+  "lastfm": {
+    "id": "Erkin+Koray/_/Cemalim",
+    "listeners": 22534,
+    "playcount": 111222,
+    "title": "Cemalim",
+    "artist": "Erkin Koray",
+    "mbid": "9679cd41-edce-40af-b638-0593b1c2fa21",
+    "artistMbid": "779fce7e-c99e-4d0c-bfb1-af7aa1c34e80",
+    "tags": [
+      "turkish",
+      "rock",
+      "psychedelic rock",
+      "psychedelic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "18a8872e-a4c6-44e0-b619-1bc2ffcfdf64",
+    "artistMbid": "779fce7e-c99e-4d0c-bfb1-af7aa1c34e80",
+    "releaseCount": 6,
+    "artistGenres": [
+      "anatolian rock",
+      "heavy psych",
+      "psychedelic rock"
+    ],
+    "releasedAt": "1974",
+    "artistCountry": "TR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000803481",
+      "discogs": "348808",
+      "spotify": "4o3Nv2BAyoZkyGaRXv4rT3",
+      "deezer": "328791",
+      "genius": "Erkin-koray",
+      "rateyourmusic": "erkin_koray",
+      "wikidata": "Q259405"
+    }
+  }
+}

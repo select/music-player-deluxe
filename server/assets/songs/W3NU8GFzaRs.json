@@ -1,7 +1,7 @@
 {
   "youtubeId": "W3NU8GFzaRs",
   "title": "The Wave Pictures - I Love You Like a Madman",
-  "lastFetched": "2025-11-30T21:09:14.954Z",
+  "lastFetched": "2025-12-02T01:21:55.769Z",
   "ai": {
     "title": "I Love You Like a Madman",
     "artist": "The Wave Pictures"
@@ -29,6 +29,16 @@
     "releaseCount": 2,
     "artistGenres": [
       "lo-fi"
-    ]
+    ],
+    "releasedAt": "2008-05-05",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002317646",
+      "bandcamp": "https://thewavepictures.bandcamp.com/",
+      "discogs": "999275",
+      "rateyourmusic": "the-wave-pictures",
+      "soundcloud": "https://soundcloud.com/the-wave-pictures-official",
+      "wikidata": "Q1346449"
+    }
   }
 }

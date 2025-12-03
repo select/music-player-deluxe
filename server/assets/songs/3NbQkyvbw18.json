@@ -1,0 +1,73 @@
+{
+  "youtubeId": "3NbQkyvbw18",
+  "title": "Murder Most Foul",
+  "artist": "Bob Dylan",
+  "lastFetched": "2025-12-03T11:48:35.951Z",
+  "odesli": {
+    "amazonMusic": "B086D85YNQ",
+    "amazonStore": "B086D85YNQ",
+    "audius": "rGzmg",
+    "anghami": "78732522",
+    "boomplay": "23660129",
+    "pandora": "TR:33098374",
+    "soundcloud": "parabuilding/bob-dylan-a-murder-most-foul-2020",
+    "spotify": "1LfTvT9JPYuuZanwxLtZCr",
+    "tidal": "145057457",
+    "yandex": "64059850",
+    "youtube": "3NbQkyvbw18",
+    "youtubeMusic": "3NbQkyvbw18"
+  },
+  "lastfm": {
+    "id": "Bob+Dylan/_/Murder+Most+Foul",
+    "listeners": 45142,
+    "playcount": 159088,
+    "title": "Murder Most Foul",
+    "artist": "Bob Dylan",
+    "mbid": "242b62ce-958c-4585-9551-5bfead9b82ee",
+    "artistMbid": "72c536dc-7137-4477-a521-567eeb840fa8",
+    "tags": [
+      "folk",
+      "2020",
+      "2020s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0f7f3692-8944-4fd6-9a64-8ddd91a17ed6",
+    "artistMbid": "72c536dc-7137-4477-a521-567eeb840fa8",
+    "releaseCount": 7,
+    "genres": [
+      "folk rock"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "classic rock",
+      "contemporary folk",
+      "country",
+      "country rock",
+      "folk",
+      "folk rock",
+      "gospel",
+      "jazz",
+      "pop rock",
+      "rock",
+      "roots rock",
+      "singer-songwriter",
+      "traditional pop"
+    ],
+    "releasedAt": "2020-03-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000066915",
+      "discogs": "834818",
+      "spotify": "74ASZWbe4lXaubB36ztrGX",
+      "deezer": "808",
+      "lastfm": "Bob+Dylan",
+      "genius": "Bob-dylan",
+      "rateyourmusic": "bob-dylan",
+      "soundcloud": "https://soundcloud.com/bobdylan",
+      "wikidata": "Q392",
+      "youtube": "UCnRI0ay61tY-fKYzzB3fCnw"
+    }
+  }
+}

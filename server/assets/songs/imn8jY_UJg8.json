@@ -3,7 +3,7 @@
   "artist": "Jon Hopkins",
   "duration": 711,
   "youtubeId": "imn8jY_UJg8",
-  "lastFetched": "2025-11-19T01:36:55.337Z",
+  "lastFetched": "2025-12-02T01:42:11.514Z",
   "name": "Luminous Beings",
   "musicbrainz": {
     "tags": [
@@ -12,7 +12,21 @@
     ],
     "trackMbid": "07eedb91-dff1-4d8e-a76c-074e2f3ce086",
     "artistMbid": "0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000822040",
+      "bandcamp": "https://jonhopkins.bandcamp.com/",
+      "discogs": "24056",
+      "spotify": "7yxi31szvlbwvKq9dYOmFI",
+      "deezer": "258846",
+      "lastfm": "Jon+Hopkins",
+      "genius": "Jon-hopkins",
+      "rateyourmusic": "jon-hopkins",
+      "soundcloud": "https://soundcloud.com/jonhopkins",
+      "wikidata": "Q903592",
+      "youtube": "UCiwgazsh4EbM04FIQuyDVYw"
+    }
   },
   "lastfm": {
     "id": "Jon+Hopkins/_/Luminous+Beings",

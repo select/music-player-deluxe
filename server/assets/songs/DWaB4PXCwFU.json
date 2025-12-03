@@ -1,0 +1,73 @@
+{
+  "youtubeId": "DWaB4PXCwFU",
+  "title": "The Diary of Jane",
+  "artist": "Breaking Benjamin",
+  "lastFetched": "2025-12-03T11:37:06.375Z",
+  "odesli": {
+    "amazonMusic": "B0156NQ0M2",
+    "amazonStore": "B0156NQ0M2",
+    "audius": "OJ4lZ",
+    "anghami": "68806357",
+    "boomplay": "2950506",
+    "appleMusic": "1440872262",
+    "itunes": "1440872262",
+    "pandora": "TR:6943834",
+    "soundcloud": "breaking_benjamin/the-diary-of-jane-1",
+    "spotify": "5m9uiFH9sK5wxRZdfN62n9",
+    "tidal": "36766279",
+    "yandex": "281607",
+    "youtube": "DWaB4PXCwFU",
+    "youtubeMusic": "DWaB4PXCwFU"
+  },
+  "lastfm": {
+    "summary": "\"The Diary of Jane\" is a song by American rock band Breaking Benjamin. It was released as the first single from their third album, Phobia. The song is one of their most notable and successful, it is the fastest added single ever in the history of Hollywood Records. It is also known to be, and is still, the most popular Breaking Benjamin song since the band first formed. It gained a massive amount of radio play throughout the United States and was added at the place of #1 under three rock charts. <a href=\"http://www.last.fm/music/Breaking+Benjamin/_/The+Diary+of+Jane\">Read more on Last.fm</a>.",
+    "id": "Breaking+Benjamin/_/The+Diary+of+Jane",
+    "listeners": 893250,
+    "playcount": 7707619,
+    "title": "The Diary of Jane",
+    "artist": "Breaking Benjamin",
+    "tags": [
+      "alternative rock",
+      "rock",
+      "hard rock",
+      "alternative",
+      "breaking benjamin"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "30a6feb0-e400-44a6-894d-02eb22d7a45a",
+    "artistMbid": "854a1807-025b-42a8-ba8c-2a39717f1d25",
+    "releaseCount": 25,
+    "genres": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "metal",
+      "post-grunge"
+    ],
+    "releasedAt": "2006-06-15",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "5pvJ59i7JxylN8VB24xdMs"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000934367",
+      "discogs": "397701",
+      "spotify": "5BtHciL0e0zOP7prIHn3pP",
+      "deezer": "5286",
+      "lastfm": "Breaking+Benjamin",
+      "genius": "Breaking-benjamin",
+      "rateyourmusic": "breaking_benjamin",
+      "soundcloud": "https://soundcloud.com/breaking-benjamin-official",
+      "napster": "breaking-benjamin",
+      "wikidata": "Q271984",
+      "youtube": "UCgdqrZsRnxy1qGIusPhQEyg"
+    }
+  }
+}

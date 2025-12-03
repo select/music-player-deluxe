@@ -1,7 +1,7 @@
 {
   "youtubeId": "Z3AKrwna2C8",
   "title": "Edwin Birdsong - Cola Bottle Baby",
-  "lastFetched": "2025-11-30T20:45:00.387Z",
+  "lastFetched": "2025-12-02T01:26:52.745Z",
   "ai": {
     "title": "Cola Bottle Baby",
     "artist": "Edwin Birdsong"
@@ -31,6 +31,17 @@
       "funk",
       "pop",
       "soul"
-    ]
+    ],
+    "releasedAt": "1979-03-02",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "00Roxf5Opk9tpXXhIAQl8i"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000145306",
+      "discogs": "141386",
+      "rateyourmusic": "edwin-birdsong",
+      "wikidata": "Q3048765"
+    }
   }
 }

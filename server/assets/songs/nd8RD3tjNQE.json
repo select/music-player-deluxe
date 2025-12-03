@@ -3,7 +3,7 @@
   "artist": "bleu soleil",
   "duration": 132,
   "youtubeId": "nd8RD3tjNQE",
-  "lastFetched": "2025-11-19T04:00:06.989Z",
+  "lastFetched": "2025-12-02T01:49:40.937Z",
   "musicbrainz": {
     "artistTags": [
       "bass music",
@@ -15,7 +15,14 @@
     ],
     "trackMbid": "dce0bc75-1611-498b-bb2c-2680d54f1caa",
     "artistMbid": "736ee88d-6b6d-4160-9484-a2c9ea5d3c04",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "bandcamp": "https://bleusoleil.bandcamp.com/",
+      "spotify": "2HSmynRDUgRfom3fditkjf",
+      "deezer": "270952322",
+      "soundcloud": "https://soundcloud.com/bleusoleildub"
+    }
   },
   "lastfm": {
     "id": "bleu+soleil/_/Soleil+Bleu+(Radio+Edit)",

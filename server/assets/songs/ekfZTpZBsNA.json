@@ -2,7 +2,7 @@
   "youtubeId": "ekfZTpZBsNA",
   "title": "Odesa",
   "artist": "Halogenix",
-  "lastFetched": "2025-11-30T22:45:42.594Z",
+  "lastFetched": "2025-12-02T01:36:36.516Z",
   "lastfm": {
     "title": "Odesa",
     "artist": "Halogenix",
@@ -27,6 +27,13 @@
     "artistGenres": [
       "drum and bass",
       "jungle"
-    ]
+    ],
+    "releasedAt": "2022-03-04",
+    "externalIdsArtist": {
+      "discogs": "2351299",
+      "spotify": "24eQxPRLv3UMwEIo6mawVW",
+      "deezer": "2946091",
+      "soundcloud": "https://soundcloud.com/halogenix"
+    }
   }
 }

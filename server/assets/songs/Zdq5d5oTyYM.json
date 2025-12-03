@@ -2,7 +2,7 @@
   "youtubeId": "Zdq5d5oTyYM",
   "title": "Adieu",
   "artist": "17 Hippies",
-  "lastFetched": "2025-11-30T20:16:53.721Z",
+  "lastFetched": "2025-12-02T01:27:56.159Z",
   "odesli": {
     "amazonMusic": "B01BC1SBVK",
     "amazonStore": "B01BC1SBVK",
@@ -35,6 +35,16 @@
     "artistGenres": [
       "folk",
       "pop"
-    ]
+    ],
+    "releasedAt": "2016-01-15",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000425930",
+      "discogs": "188949",
+      "spotify": "3Tq2hRlRrQzA4Zq2ncYiiA",
+      "rateyourmusic": "17_hippies",
+      "soundcloud": "https://soundcloud.com/17-hippies",
+      "wikidata": "Q200089"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ghBxfKBIhG4",
   "title": "Für die Jule",
   "artist": "Hans Söllner",
-  "lastFetched": "2025-11-30T20:15:33.067Z",
+  "lastFetched": "2025-12-02T01:39:01.300Z",
   "odesli": {
     "amazonMusic": "B007Z2MEF0",
     "amazonStore": "B007Z2MEF0",
@@ -34,6 +34,16 @@
     "releaseCount": 1,
     "artistGenres": [
       "reggae"
-    ]
+    ],
+    "releasedAt": "1997-06-23",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "347959",
+      "deezer": "275287",
+      "rateyourmusic": "hans_sollner",
+      "wikidata": "Q43949",
+      "wikipedia": "Hans_S%C3%B6llner",
+      "youtube": "UC6zpPGyBRCLY4b8JrpWl1MA"
+    }
   }
 }

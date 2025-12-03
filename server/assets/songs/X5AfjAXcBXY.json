@@ -2,7 +2,7 @@
   "youtubeId": "X5AfjAXcBXY",
   "title": "So Fresh, So Clean",
   "artist": "OutKast",
-  "lastFetched": "2025-11-19T11:23:45.923Z",
+  "lastFetched": "2025-12-02T01:23:27.625Z",
   "musicbrainz": {
     "tags": [
       "Hip-Hop",
@@ -12,7 +12,26 @@
       "funk"
     ],
     "trackMbid": "42b451dd-38c6-4076-bca9-a3f07f4d2327",
-    "artistMbid": "73fdb566-a9b1-494c-9f32-51768ec9fd27"
+    "artistMbid": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
+    "releasedAt": "2000-10-23",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "7501tQX1JPBktgZs4iTAb2",
+      "deezer": "3618498272"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000420381",
+      "discogs": "38561",
+      "spotify": "1G9G7WwrXka3Z1r7aIDjI7",
+      "deezer": "9",
+      "lastfm": "OutKast",
+      "genius": "Outkast",
+      "rateyourmusic": "outkast",
+      "soundcloud": "https://soundcloud.com/outkast-music",
+      "napster": "outkast",
+      "wikidata": "Q472595",
+      "youtube": "UCaziuyHLR37c2jBkHrYSQMA"
+    }
   },
   "lastfm": {
     "id": "OutKast/_/So+Fresh,+So+Clean",

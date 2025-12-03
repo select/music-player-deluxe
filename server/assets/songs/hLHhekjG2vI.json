@@ -1,0 +1,53 @@
+{
+  "youtubeId": "hLHhekjG2vI",
+  "title": "With A Little Help From My Friends",
+  "artist": "Joe Cocker",
+  "lastFetched": "2025-12-03T12:04:22.896Z",
+  "odesli": {
+    "amazonMusic": "B001NYEG7A",
+    "amazonStore": "B001NYEG7A",
+    "boomplay": "3229238",
+    "spotify": "0YZ3J8xzGwLOg4yEgST1YK",
+    "youtube": "hLHhekjG2vI",
+    "youtubeMusic": "hLHhekjG2vI"
+  },
+  "lastfm": {
+    "summary": "\"With a Little Help from My Friends\" (originally titled A Little Help from My Friends) is a song written by John Lennon and Paul McCartney, released on The Beatles album Sgt. Pepper's Lonely Hearts Club Band in 1967. The song was written for and sung by Beatles drummer Ringo Starr as the character \"Billy Shears\"; it is ranked #304 on Rolling Stone's list of the 500 Greatest Songs of All Time.\n\nJoe Cocker's version was a radical re-arrangement of the original <a href=\"http://www.last.fm/music/Joe+Cocker/_/With+a+Little+Help+From+My+Friends\">Read more on Last.fm</a>.",
+    "id": "Joe+Cocker/_/With+a+Little+Help+From+My+Friends",
+    "listeners": 444964,
+    "playcount": 1980149,
+    "title": "With a Little Help From My Friends",
+    "artist": "Joe Cocker",
+    "artistMbid": "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb",
+    "tags": [
+      "classic rock",
+      "rock",
+      "60s",
+      "blues",
+      "cover"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "259807c9-2a58-4dee-9fb7-4f3da143c1c1",
+    "artistMbid": "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb",
+    "releaseCount": 6,
+    "artistGenres": [
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "releasedAt": "2013-10-04",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000149515",
+      "discogs": "124497",
+      "spotify": "3pFCERyEiP5xeN2EsPXhjI",
+      "deezer": "1866",
+      "lastfm": "Joe+Cocker",
+      "genius": "Joe-cocker",
+      "rateyourmusic": "joe-cocker",
+      "soundcloud": "https://soundcloud.com/joe-cocker-official",
+      "wikidata": "Q190076"
+    }
+  }
+}

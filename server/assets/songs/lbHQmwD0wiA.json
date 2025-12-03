@@ -1,0 +1,43 @@
+{
+  "youtubeId": "lbHQmwD0wiA",
+  "title": "MR.RAINDROP",
+  "artist": "Amplified",
+  "lastFetched": "2025-12-03T11:40:40.381Z",
+  "odesli": {
+    "amazonMusic": "B08QZ5SW3T",
+    "amazonStore": "B08QZ5SW3T",
+    "soundcloud": "amplified-scmusic/mr-raindrop",
+    "youtube": "lbHQmwD0wiA",
+    "youtubeMusic": "lbHQmwD0wiA"
+  },
+  "lastfm": {
+    "id": "Amplified/_/MR.RAINDROP",
+    "listeners": 13830,
+    "playcount": 156128,
+    "title": "MR.RAINDROP",
+    "artist": "Amplified",
+    "mbid": "8d15205e-ada9-4dc9-9eef-11682458280b",
+    "artistMbid": "e6aed48d-bc51-4b75-91cc-2034d7065ba0",
+    "tags": [
+      "gintama",
+      "anime",
+      "soundtrack"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b14e5aec-abd0-40c3-a3b1-0851d04acce9",
+    "artistMbid": "ae1aceb8-566d-4b99-b542-e07cb7945817",
+    "releaseCount": 5,
+    "artistGenres": [
+      "rock"
+    ],
+    "releasedAt": "2006-07-19",
+    "artistCountry": "JP",
+    "externalIdsArtist": {
+      "allmusic": "mn0001402354",
+      "lastfm": "Amplified",
+      "wikidata": "Q3266365",
+      "wikipedia": "Amplified_(band)"
+    }
+  }
+}

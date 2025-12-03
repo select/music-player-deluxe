@@ -2,7 +2,7 @@
   "youtubeId": "ysGtBZX32I0",
   "title": "Walk Idiot Walk",
   "artist": "The Hives",
-  "lastFetched": "2025-11-30T19:47:22.296Z",
+  "lastFetched": "2025-12-02T02:07:02.121Z",
   "odesli": {
     "amazonMusic": "B073GRF2FG",
     "amazonStore": "B073GRF2FG",
@@ -44,6 +44,20 @@
       "punk",
       "punk rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2007",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000074520",
+      "discogs": "105733",
+      "spotify": "4DToQR3aKrHQSSRzSz8Nzt",
+      "deezer": "621",
+      "lastfm": "The+Hives",
+      "genius": "The-hives",
+      "rateyourmusic": "the_hives",
+      "soundcloud": "https://soundcloud.com/the-hives",
+      "napster": "the-hives",
+      "wikidata": "Q287690"
+    }
   }
 }

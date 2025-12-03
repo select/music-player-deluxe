@@ -2,7 +2,7 @@
   "youtubeId": "sqSA-SY5Hro",
   "title": "Rich Men North Of Richmond",
   "artist": "Oliver Anthony",
-  "lastFetched": "2025-11-23T16:51:47.603Z",
+  "lastFetched": "2025-12-02T01:58:03.299Z",
   "musicbrainz": {
     "tags": [
       "country"
@@ -11,7 +11,19 @@
       "country"
     ],
     "trackMbid": "c7456b5b-bdb5-41f9-b562-0c9550ab32c5",
-    "artistMbid": "e0870836-d112-4851-92bd-570f2e1e62cb"
+    "artistMbid": "e0870836-d112-4851-92bd-570f2e1e62cb",
+    "releasedAt": "2023-08-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "13417686",
+      "spotify": "6IkfE2JyVoKwBZXvuytKX3",
+      "deezer": "184785987",
+      "lastfm": "Oliver+Anthony+Music",
+      "genius": "Oliver-anthony",
+      "rateyourmusic": "oliver-anthony",
+      "wikidata": "Q121391237",
+      "youtube": "UC5caRbGN5SukgJnj2ecK_wA"
+    }
   },
   "lastfm": {
     "id": "Oliver+Anthony/_/Rich+Men+North+Of+Richmond",

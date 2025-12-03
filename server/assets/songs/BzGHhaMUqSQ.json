@@ -1,0 +1,64 @@
+{
+  "youtubeId": "BzGHhaMUqSQ",
+  "title": "König von Deutschland",
+  "artist": "Rio Reiser",
+  "lastFetched": "2025-12-03T12:05:21.081Z",
+  "odesli": {
+    "amazonMusic": "B001EWID02",
+    "amazonStore": "B001EWID02",
+    "anghami": "1078788367",
+    "soundcloud": "rioreiserofficial/k-nig-von-deutschland-2",
+    "spotify": "0Myx5KXaDZqcMecRmbS96k",
+    "tidal": "1760949",
+    "yandex": "746533",
+    "youtube": "BzGHhaMUqSQ",
+    "youtubeMusic": "BzGHhaMUqSQ"
+  },
+  "lastfm": {
+    "id": "Rio+Reiser/_/K%C3%B6nig+Von+Deutschland",
+    "listeners": 53056,
+    "playcount": 215270,
+    "title": "König Von Deutschland",
+    "artist": "Rio Reiser",
+    "artistMbid": "cdc82eb3-7eac-4387-baf8-cd3bac0f5092",
+    "tags": [
+      "deutsch",
+      "german",
+      "rock",
+      "80s",
+      "ndw"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cf00a4dd-41ab-4097-8f8a-97f208968c87",
+    "artistMbid": "cdc82eb3-7eac-4387-baf8-cd3bac0f5092",
+    "releaseCount": 25,
+    "genres": [
+      "neue deutsche welle",
+      "pop",
+      "rock",
+      "singer-songwriter",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "krautrock",
+      "neue deutsche welle",
+      "progressive rock",
+      "rock"
+    ],
+    "releasedAt": "1986-11-05",
+    "artistCountry": "DE",
+    "externalIdsTrack": {
+      "spotify": "4Hg99jQ6zjks47xaH8eK40",
+      "deezer": "872167"
+    },
+    "externalIdsArtist": {
+      "discogs": "134534",
+      "spotify": "0YcKbZwjx2BEoKLzfqlmgH",
+      "deezer": "12046",
+      "genius": "Rio-reiser",
+      "rateyourmusic": "rio_reiser",
+      "wikidata": "Q643688"
+    }
+  }
+}

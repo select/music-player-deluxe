@@ -2,7 +2,7 @@
   "youtubeId": "aUQzXQhAgvw",
   "title": "Percusienfa",
   "artist": "Erik Mongrain",
-  "lastFetched": "2025-11-23T16:43:18.285Z",
+  "lastFetched": "2025-12-02T01:30:34.302Z",
   "musicbrainz": {
     "artistTags": [
       "acoustic guitar",
@@ -15,7 +15,14 @@
       "jazz"
     ],
     "trackMbid": "816d911f-b3e2-3a10-88eb-e2a226d568b1",
-    "artistMbid": "e1626c85-984c-4a25-a9fd-40c6ac28b181"
+    "artistMbid": "e1626c85-984c-4a25-a9fd-40c6ac28b181",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "discogs": "854811",
+      "spotify": "7Mt6u0GfDpAzQnWYGMCIQJ",
+      "deezer": "100389",
+      "wikidata": "Q13132"
+    }
   },
   "lastfm": {
     "id": "Erik+Mongrain/_/Percusienfa",

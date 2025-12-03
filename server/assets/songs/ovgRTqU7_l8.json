@@ -1,0 +1,41 @@
+{
+  "youtubeId": "ovgRTqU7_l8",
+  "title": "Growing Up",
+  "artist": "Passafire",
+  "lastFetched": "2025-12-03T11:43:26.790Z",
+  "odesli": {
+    "amazonMusic": "B06XH8FT8Z",
+    "amazonStore": "B06XH8FT8Z",
+    "pandora": "TR:10472246",
+    "soundcloud": "passafiretheband/growing-up",
+    "tidal": "71328089",
+    "youtube": "ovgRTqU7_l8",
+    "youtubeMusic": "ovgRTqU7_l8"
+  },
+  "lastfm": {
+    "id": "Passafire/_/Growing+Up",
+    "listeners": 4113,
+    "playcount": 21689,
+    "title": "Growing Up",
+    "artist": "Passafire",
+    "mbid": "af5a753e-bbf1-4c1d-9430-6b54379e9f51",
+    "artistMbid": "d34516e1-b370-4b97-addd-6363ef0e9ecc",
+    "tags": [
+      "reggae",
+      "ska",
+      "reggae-rock",
+      "california reggae"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "dafab312-a8d0-4748-984a-d93b0280d667",
+    "artistMbid": "d34516e1-b370-4b97-addd-6363ef0e9ecc",
+    "releaseCount": 1,
+    "releasedAt": "2017-05-12",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "2735122",
+      "spotify": "3Il8w8T0de4sdogo2EQEVJ"
+    }
+  }
+}

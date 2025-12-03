@@ -2,7 +2,7 @@
   "youtubeId": "iM0VWOQsVGA",
   "title": "Drifted",
   "artist": "Satl",
-  "lastFetched": "2025-11-23T16:46:50.305Z",
+  "lastFetched": "2025-12-02T01:41:35.426Z",
   "odesli": {
     "amazonMusic": "B081FGT12F",
     "amazonStore": "B081FGT12F",
@@ -20,7 +20,15 @@
       "electronic"
     ],
     "trackMbid": "7dae19bc-4ba7-4b1b-90fa-d02964263ef7",
-    "artistMbid": "3c5255a5-de8f-447c-b666-731fbf30f1f3"
+    "artistMbid": "3c5255a5-de8f-447c-b666-731fbf30f1f3",
+    "artistCountry": "PL",
+    "externalIdsArtist": {
+      "discogs": "4056274",
+      "spotify": "6OwnHoDYszPivlUgbApZbR",
+      "deezer": "5130655",
+      "soundcloud": "https://soundcloud.com/satl",
+      "youtube": "UCP3-TedeiVEf496Yyz3iAlA"
+    }
   },
   "lastfm": {
     "id": "Satl/_/Drifted",

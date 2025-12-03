@@ -2,7 +2,7 @@
   "youtubeId": "s86K-p089R8",
   "title": "Runaway",
   "artist": "Bon Jovi",
-  "lastFetched": "2025-11-30T23:39:22.278Z",
+  "lastFetched": "2025-12-02T01:57:06.764Z",
   "odesli": {
     "amazonMusic": "B000V66Z3Y",
     "amazonStore": "B000V66Z3Y",
@@ -44,7 +44,22 @@
       "heartland rock",
       "pop rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2001-05-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000069534",
+      "discogs": "124541",
+      "spotify": "58lV9VcRSjABbAbfWS6skp",
+      "deezer": "637",
+      "lastfm": "Bon+Jovi",
+      "genius": "Bon-jovi",
+      "rateyourmusic": "bon_jovi",
+      "soundcloud": "https://soundcloud.com/bon-jovi-com",
+      "napster": "bon-jovi",
+      "wikidata": "Q259254",
+      "youtube": "UCCL-yoaPLR-7bxZM1xlcQcQ"
+    }
   },
   "lastfm": {
     "id": "Bon+Jovi/_/Runaway",

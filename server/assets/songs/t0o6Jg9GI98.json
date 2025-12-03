@@ -2,7 +2,7 @@
   "youtubeId": "t0o6Jg9GI98",
   "title": "SLOWDIVE",
   "artist": "Turnstile",
-  "lastFetched": "2025-11-30T21:31:17.650Z",
+  "lastFetched": "2025-12-02T01:58:15.837Z",
   "odesli": {
     "pandora": "TR:162049283",
     "soundcloud": "turnstileofficial/slowdive",
@@ -30,6 +30,21 @@
     "artistGenres": [
       "hardcore punk",
       "punk"
-    ]
+    ],
+    "releasedAt": "2025-06-06",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001569643",
+      "bandcamp": "https://turnstilehc.bandcamp.com/",
+      "discogs": "2921052",
+      "spotify": "2qnpHrOzdmOo1S4ox3j17x",
+      "deezer": "1072674",
+      "lastfm": "Turnstile",
+      "genius": "Turnstile",
+      "rateyourmusic": "turnstile",
+      "soundcloud": "https://soundcloud.com/turnstileofficial",
+      "wikidata": "Q18719133",
+      "youtube": "UCP5O_Y-RbtVJUEv4uLP-O8A"
+    }
   }
 }

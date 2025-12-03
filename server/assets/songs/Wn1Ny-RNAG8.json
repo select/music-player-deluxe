@@ -2,7 +2,7 @@
   "youtubeId": "Wn1Ny-RNAG8",
   "title": "Seine Saint-Denis Style",
   "artist": "Suprême NTM",
-  "lastFetched": "2025-11-30T20:36:18.418Z",
+  "lastFetched": "2025-12-02T01:23:08.055Z",
   "odesli": {
     "amazonMusic": "B001M07K1E",
     "amazonStore": "B001M07K1E",
@@ -20,6 +20,18 @@
     "releaseCount": 3,
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2000-03-27",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000033522",
+      "discogs": "458975",
+      "spotify": "4ko6Ysxtvx9EY9GEFslrIz",
+      "deezer": "752",
+      "lastfm": "Supr%C3%AAme+NTM",
+      "genius": "Supreme-ntm",
+      "rateyourmusic": "ntm",
+      "wikidata": "Q1479960"
+    }
   }
 }

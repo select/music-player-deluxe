@@ -2,7 +2,7 @@
   "youtubeId": "oOeugwd4vqs",
   "title": "Kinderlied",
   "artist": "Knorkator",
-  "lastFetched": "2025-11-30T20:01:43.900Z",
+  "lastFetched": "2025-12-02T01:51:01.490Z",
   "odesli": {
     "amazonMusic": "B005KPJ0JM",
     "amazonStore": "B005KPJ0JM",
@@ -36,6 +36,20 @@
       "heavy metal",
       "industrial",
       "rock"
-    ]
+    ],
+    "releasedAt": "2011-09-16",
+    "externalIdsArtist": {
+      "allmusic": "mn0000911512",
+      "bandcamp": "https://knorkator.bandcamp.com/",
+      "discogs": "351541",
+      "spotify": "5iFI4j0w7RbSJmkbI6rqzi",
+      "deezer": "7097",
+      "lastfm": "Knorkator",
+      "genius": "Knorkator",
+      "rateyourmusic": "knorkator",
+      "soundcloud": "https://soundcloud.com/knorkatorofficial",
+      "wikidata": "Q696919",
+      "youtube": "UCDchoKSWD6v70-MOKgBWFXQ"
+    }
   }
 }

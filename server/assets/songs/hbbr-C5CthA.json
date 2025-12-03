@@ -1,7 +1,7 @@
 {
   "youtubeId": "hbbr-C5CthA",
   "title": "Kashmir - The Aftermath (live bei TV Noir)",
-  "lastFetched": "2025-12-01T11:48:21.010Z",
+  "lastFetched": "2025-12-02T01:40:33.630Z",
   "ai": {
     "title": "The Aftermath",
     "artist": "Kashmir"
@@ -28,6 +28,14 @@
     "artistGenres": [
       "alternative rock",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2003-03-03",
+    "artistCountry": "DK",
+    "externalIdsArtist": {
+      "allmusic": "mn0000362907",
+      "discogs": "217355",
+      "rateyourmusic": "kashmir",
+      "wikidata": "Q127679"
+    }
   }
 }

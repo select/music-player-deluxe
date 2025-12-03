@@ -2,7 +2,7 @@
   "youtubeId": "UAQiGpGwS5s",
   "title": "Leberkäs mit Ei",
   "artist": "Hansi",
-  "lastFetched": "2025-11-30T20:49:13.874Z",
+  "lastFetched": "2025-12-02T01:19:28.925Z",
   "odesli": {
     "amazonMusic": "B00F9COU7I",
     "amazonStore": "B00F9COU7I",
@@ -26,6 +26,11 @@
   "musicbrainz": {
     "trackMbid": "34252920-b3b1-49dd-bdb5-0a45020b3e83",
     "artistMbid": "88f8b057-efca-4375-a9f0-1ead0f3854f1",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1983",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "1609547"
+    }
   }
 }

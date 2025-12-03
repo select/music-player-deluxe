@@ -1,7 +1,7 @@
 {
   "youtubeId": "XSgr0bip7xg",
   "title": "Ten Years After - One Of These Days - 8/4/1975 - Winterland (Official)",
-  "lastFetched": "2025-11-30T21:36:34.016Z",
+  "lastFetched": "2025-12-02T01:24:19.202Z",
   "ai": {
     "title": "One Of These Days",
     "artist": "Ten Years After"
@@ -44,6 +44,17 @@
       "progressive rock",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1971-08",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000020050",
+      "discogs": "253987",
+      "spotify": "7nkLRaWHImCvWGHdNGnhVE",
+      "deezer": "7217",
+      "lastfm": "Ten+Years+After",
+      "rateyourmusic": "ten-years-after",
+      "wikidata": "Q630808"
+    }
   }
 }

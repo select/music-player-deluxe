@@ -1,7 +1,7 @@
 {
   "youtubeId": "zN8GcRGNWe4",
   "title": "Propellerheads - On Her Majesty's Secret Service",
-  "lastFetched": "2025-11-30T19:41:28.368Z",
+  "lastFetched": "2025-12-02T02:07:52.804Z",
   "ai": {
     "title": "On Her Majesty's Secret Service",
     "artist": "Propellerheads"
@@ -31,6 +31,19 @@
       "breakbeat",
       "electronica",
       "trip hop"
-    ]
+    ],
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000363327",
+      "discogs": "1598",
+      "spotify": "3Z7thZHrtFvqp8OpPffPKp",
+      "deezer": "845",
+      "lastfm": "Propellerheads",
+      "genius": "Propellerheads",
+      "rateyourmusic": "propellerheads",
+      "soundcloud": "https://soundcloud.com/propellerheads-official-cloud",
+      "napster": "propellerheads",
+      "wikidata": "Q1426055"
+    }
   }
 }

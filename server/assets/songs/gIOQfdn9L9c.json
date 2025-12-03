@@ -1,7 +1,7 @@
 {
   "youtubeId": "gIOQfdn9L9c",
   "title": "Pendulum Slam \"Video HD\"",
-  "lastFetched": "2025-11-30T19:37:53.514Z",
+  "lastFetched": "2025-12-02T01:38:33.641Z",
   "ai": {
     "title": "Slam",
     "artist": "Pendulum"
@@ -43,6 +43,23 @@
       "neurofunk",
       "rock",
       "techstep"
-    ]
+    ],
+    "releasedAt": "2005-07-26",
+    "artistCountry": "AU",
+    "externalIdsTrack": {
+      "spotify": "5cw39FV9eXL3IuLxwpG8Z1"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000258022",
+      "discogs": "134038",
+      "spotify": "7MqnCTCAX6SsIYYdJCQj9B",
+      "deezer": "281",
+      "lastfm": "Pendulum",
+      "genius": "Pendulum",
+      "rateyourmusic": "pendulum",
+      "soundcloud": "https://soundcloud.com/pendulum",
+      "wikidata": "Q20672",
+      "youtube": "UC285VkDO4L7aMOiTrnzD8mw"
+    }
   }
 }

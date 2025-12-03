@@ -2,7 +2,7 @@
   "youtubeId": "uizQVriWp8M",
   "title": "Soul Meets Body",
   "artist": "Death Cab for Cutie",
-  "lastFetched": "2025-11-19T15:43:05.417Z",
+  "lastFetched": "2025-12-02T02:00:47.336Z",
   "odesli": {
     "appleMusic": "966379417",
     "itunes": "966379417",
@@ -24,7 +24,22 @@
       "death cab for cutie"
     ],
     "trackMbid": "641c030f-cd4a-3004-a097-20e9b08f15f6",
-    "artistMbid": "0039c7ae-e1a7-4a7d-9b49-0cbc716821a6"
+    "artistMbid": "0039c7ae-e1a7-4a7d-9b49-0cbc716821a6",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000812711",
+      "bandcamp": "https://deathcabforcutie.bandcamp.com/",
+      "discogs": "280098",
+      "spotify": "0YrtvWJMgSdVrk3SfNjTbx",
+      "deezer": "383",
+      "lastfm": "Death+Cab+for+Cutie",
+      "genius": "Death-cab-for-cutie",
+      "rateyourmusic": "death-cab-for-cutie",
+      "soundcloud": "https://soundcloud.com/deathcabforcutie",
+      "napster": "death-cab-for-cutie",
+      "wikidata": "Q16414",
+      "youtube": "UCQyYgbGkyvK3v3X1XzGDQ2Q"
+    }
   },
   "lastfm": {
     "id": "Death+Cab+for+Cutie/_/Soul+Meets+Body",

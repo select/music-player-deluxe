@@ -1,7 +1,7 @@
 {
   "youtubeId": "mWw500HI6L4",
   "title": "Liquid Visions - Pink Cloud",
-  "lastFetched": "2025-11-30T19:37:20.580Z",
+  "lastFetched": "2025-12-02T01:48:00.964Z",
   "ai": {
     "title": "Pink Cloud",
     "artist": "Liquid Visions"
@@ -22,6 +22,14 @@
   "musicbrainz": {
     "trackMbid": "2483fe97-bfd0-4e1a-97e4-8676465e5ab3",
     "artistMbid": "2fe837f0-485a-4af0-afed-2125c636e884",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2004",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001403188",
+      "discogs": "893983",
+      "lastfm": "Liquid+Visions",
+      "rateyourmusic": "liquid_visions"
+    }
   }
 }

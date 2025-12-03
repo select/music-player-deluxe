@@ -2,7 +2,7 @@
   "youtubeId": "wTP2RUD_cL0",
   "title": "Money For Nothing",
   "artist": "Dire Straits",
-  "lastFetched": "2025-11-30T20:04:45.136Z",
+  "lastFetched": "2025-12-02T02:03:13.573Z",
   "odesli": {
     "amazonMusic": "B001NHGGIY",
     "amazonStore": "B001NHGGIY",
@@ -54,6 +54,20 @@
       "roots rock",
       "soft rock",
       "sophisti-pop"
-    ]
+    ],
+    "releasedAt": "1993-05-10",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000167517",
+      "discogs": "103687",
+      "spotify": "0WwSkZ7LtFUFjGjMZBMt6T",
+      "deezer": "176",
+      "lastfm": "Dire+Straits",
+      "genius": "Dire-straits",
+      "rateyourmusic": "dire_straits",
+      "soundcloud": "https://soundcloud.com/direstraits",
+      "wikidata": "Q50040",
+      "youtube": "UCA37MBUzQgLbUHoUQgl-p0g"
+    }
   }
 }

@@ -1,0 +1,60 @@
+{
+  "youtubeId": "Mxxk5iS9nVM",
+  "title": "Backseat Boogie",
+  "artist": "Airbourne",
+  "lastFetched": "2025-12-03T11:52:11.418Z",
+  "odesli": {
+    "amazonMusic": "B0BQBL8SYQ",
+    "amazonStore": "B0BQBL8SYQ",
+    "boomplay": "9579629",
+    "pandora": "TR:82490023",
+    "soundcloud": "airbournerock/backseat-boogie",
+    "spotify": "3SJEktfi1HI7yigmqJMKaA",
+    "tidal": "268999535",
+    "youtube": "Mxxk5iS9nVM",
+    "youtubeMusic": "Mxxk5iS9nVM"
+  },
+  "lastfm": {
+    "id": "Airbourne/_/Backseat+Boogie",
+    "listeners": 16239,
+    "playcount": 54077,
+    "title": "Backseat Boogie",
+    "artist": "Airbourne",
+    "mbid": "77064293-2454-421a-b19c-1f2c56e77cc6",
+    "artistMbid": "5365f55c-b1e1-48f9-b09f-078f7a14cb1f",
+    "tags": [
+      "hard rock",
+      "2010s",
+      "2019"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "015b54cf-d260-4bb2-9aa6-da38477712c8",
+    "artistMbid": "5365f55c-b1e1-48f9-b09f-078f7a14cb1f",
+    "releaseCount": 6,
+    "genres": [
+      "hard rock"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "hard rock",
+      "rock"
+    ],
+    "releasedAt": "2019-10-25",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000930444",
+      "discogs": "165993",
+      "spotify": "6urzdpGY5yUimWZsgJUoTb",
+      "deezer": "64106",
+      "lastfm": "Airbourne",
+      "genius": "Airbourne",
+      "rateyourmusic": "airbourne",
+      "soundcloud": "https://soundcloud.com/airbournerock",
+      "napster": "airbourne",
+      "wikidata": "Q408139",
+      "wikipedia": "Airbourne_(band)",
+      "youtube": "UCn8IrY8ivelsFK4uphbJbHA"
+    }
+  }
+}

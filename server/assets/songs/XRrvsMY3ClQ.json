@@ -1,7 +1,7 @@
 {
   "youtubeId": "XRrvsMY3ClQ",
   "title": "KNORKATOR - Arschgesicht",
-  "lastFetched": "2025-12-01T11:48:26.688Z",
+  "lastFetched": "2025-12-02T01:24:14.051Z",
   "ai": {
     "title": "Arschgesicht",
     "artist": "KNORKATOR"
@@ -29,6 +29,20 @@
       "heavy metal",
       "industrial",
       "rock"
-    ]
+    ],
+    "releasedAt": "2011-09-16",
+    "externalIdsArtist": {
+      "allmusic": "mn0000911512",
+      "bandcamp": "https://knorkator.bandcamp.com/",
+      "discogs": "351541",
+      "spotify": "5iFI4j0w7RbSJmkbI6rqzi",
+      "deezer": "7097",
+      "lastfm": "Knorkator",
+      "genius": "Knorkator",
+      "rateyourmusic": "knorkator",
+      "soundcloud": "https://soundcloud.com/knorkatorofficial",
+      "wikidata": "Q696919",
+      "youtube": "UCDchoKSWD6v70-MOKgBWFXQ"
+    }
   }
 }

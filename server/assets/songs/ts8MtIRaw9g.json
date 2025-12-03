@@ -1,0 +1,46 @@
+{
+  "youtubeId": "ts8MtIRaw9g",
+  "title": "62 (My Generation’s Falling Apart)",
+  "artist": "Cold Years",
+  "lastFetched": "2025-12-03T11:56:43.614Z",
+  "odesli": {
+    "amazonMusic": "B07YDX52BZ",
+    "amazonStore": "B07YDX52BZ",
+    "appleMusic": "1499159979",
+    "itunes": "1499159979",
+    "pandora": "TR:29143518",
+    "soundcloud": "coldyears/62-my-generations-falling",
+    "spotify": "03kDw4VCC36opJzwm38WHF",
+    "tidal": "334104946",
+    "yandex": "58366957",
+    "youtube": "ts8MtIRaw9g",
+    "youtubeMusic": "ts8MtIRaw9g"
+  },
+  "lastfm": {
+    "id": "Cold+Years/_/62+(My+Generation%E2%80%99s+Falling+Apart)",
+    "listeners": 1583,
+    "playcount": 8867,
+    "title": "62 (My Generation’s Falling Apart)",
+    "artist": "Cold Years",
+    "tags": [
+      "rock",
+      "punk rock",
+      "punk",
+      "americana",
+      "scotland"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8751947c-1650-4872-a3fb-e53a4d901dae",
+    "artistMbid": "8de5700e-668a-41f5-8859-573a7021abaf",
+    "releaseCount": 2,
+    "releasedAt": "2020-07-08",
+    "externalIdsArtist": {
+      "bandcamp": "https://coldyears.bandcamp.com/",
+      "discogs": "6244515",
+      "spotify": "5zJB2KYIylCM6uPtl9R9yp",
+      "deezer": "7919224",
+      "lastfm": "Cold+Years"
+    }
+  }
+}

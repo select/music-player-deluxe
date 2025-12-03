@@ -2,7 +2,7 @@
   "youtubeId": "cdrDZSE3yj8",
   "title": "DMT",
   "artist": "Knorkator",
-  "lastFetched": "2025-11-30T23:40:16.978Z",
+  "lastFetched": "2025-12-02T01:33:51.988Z",
   "odesli": {
     "amazonMusic": "B0FDBL94MJ",
     "amazonStore": "B0FDBL94MJ",
@@ -32,6 +32,20 @@
   "musicbrainz": {
     "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
     "trackMbid": "fefa6db5-bb59-4be6-9c08-4b1f5fe1a7a5",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2025-09-12",
+    "externalIdsArtist": {
+      "allmusic": "mn0000911512",
+      "bandcamp": "https://knorkator.bandcamp.com/",
+      "discogs": "351541",
+      "spotify": "5iFI4j0w7RbSJmkbI6rqzi",
+      "deezer": "7097",
+      "lastfm": "Knorkator",
+      "genius": "Knorkator",
+      "rateyourmusic": "knorkator",
+      "soundcloud": "https://soundcloud.com/knorkatorofficial",
+      "wikidata": "Q696919",
+      "youtube": "UCDchoKSWD6v70-MOKgBWFXQ"
+    }
   }
 }

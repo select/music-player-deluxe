@@ -1,7 +1,7 @@
 {
   "youtubeId": "fl-ZBdyI4BU",
   "title": "Fischerspooner - Fucker",
-  "lastFetched": "2025-11-30T21:03:01.892Z",
+  "lastFetched": "2025-12-02T01:37:51.888Z",
   "ai": {
     "title": "Fucker",
     "artist": "Fischerspooner"
@@ -36,6 +36,20 @@
     "artistGenres": [
       "electroclash",
       "electronica"
-    ]
+    ],
+    "releasedAt": "2000-03",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000178051",
+      "discogs": "9086",
+      "spotify": "5R7K1GezC0jy24v1R2n4x3",
+      "deezer": "1575",
+      "lastfm": "Fischerspooner",
+      "genius": "Fischerspooner",
+      "rateyourmusic": "fischerspooner",
+      "soundcloud": "https://soundcloud.com/fischerspooner-official",
+      "wikidata": "Q1420144",
+      "youtube": "UCH_fpKusEQIEojPir1y5t6Q"
+    }
   }
 }

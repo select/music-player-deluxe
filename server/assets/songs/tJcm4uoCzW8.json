@@ -1,7 +1,7 @@
 {
   "youtubeId": "tJcm4uoCzW8",
   "title": "Spor - Pacifica (Chasing Shadows Remix)",
-  "lastFetched": "2025-11-30T21:00:01.996Z",
+  "lastFetched": "2025-12-02T01:58:52.238Z",
   "ai": {
     "title": "Pacifica (Chasing Shadows Remix)",
     "artist": "Spor"
@@ -32,6 +32,20 @@
       "drum and bass",
       "electronic",
       "neurofunk"
-    ]
+    ],
+    "releasedAt": "2011-05-09",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002640328",
+      "bandcamp": "https://spor.bandcamp.com/",
+      "discogs": "213608",
+      "spotify": "42EZt9LfgsaF0WHlDC3FoM",
+      "deezer": "281431821",
+      "lastfm": "Spor",
+      "rateyourmusic": "spor_f1",
+      "soundcloud": "https://soundcloud.com/spor",
+      "wikidata": "Q1453940",
+      "youtube": "UCCUTX5lrqykvmv05jhuDk7Q"
+    }
   }
 }

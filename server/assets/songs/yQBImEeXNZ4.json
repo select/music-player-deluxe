@@ -2,7 +2,7 @@
   "youtubeId": "yQBImEeXNZ4",
   "title": "First Class",
   "artist": "Jack Harlow",
-  "lastFetched": "2025-11-23T16:54:16.731Z",
+  "lastFetched": "2025-12-02T02:06:02.666Z",
   "odesli": {
     "amazonMusic": "B09XC7ZJBZ",
     "amazonStore": "B09XC7ZJBZ",
@@ -44,7 +44,24 @@
       "pop rap"
     ],
     "trackMbid": "b6fc6286-4b1b-4ac9-917a-f1238caeef20",
-    "artistMbid": "134cb0bc-06fa-42f7-8078-b0c858349975"
+    "artistMbid": "134cb0bc-06fa-42f7-8078-b0c858349975",
+    "releasedAt": "2022-04-08",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "2IrqcIVFl7qs0hdThG3oCX",
+      "deezer": "2161309017"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003766269",
+      "discogs": "9203707",
+      "spotify": "2LIk90788K0zvyj2JJVwkJ",
+      "deezer": "9093938",
+      "lastfm": "Jack+Harlow",
+      "genius": "Jack-harlow",
+      "rateyourmusic": "jack-harlow",
+      "soundcloud": "https://soundcloud.com/HandsomeHarlow",
+      "wikidata": "Q59727812"
+    }
   },
   "lastfm": {
     "id": "Jack+Harlow/_/First+Class",

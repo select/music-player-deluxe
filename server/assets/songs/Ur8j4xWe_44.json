@@ -2,7 +2,7 @@
   "youtubeId": "Ur8j4xWe_44",
   "title": "Hurt",
   "artist": "Johnny Cash",
-  "lastFetched": "2025-11-19T16:52:56.937Z",
+  "lastFetched": "2025-12-02T01:20:20.176Z",
   "odesli": {
     "amazonMusic": "B00AYBU9EM",
     "amazonStore": "B00AYBU9EM",
@@ -23,7 +23,22 @@
       "folk"
     ],
     "trackMbid": "f62a520d-3ea3-4876-aa01-3ec6efe76c25",
-    "artistMbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432"
+    "artistMbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+    "releasedAt": "2004",
+    "artistCountry": "IE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000219203",
+      "discogs": "6520",
+      "spotify": "51Blml2LZPmy7TTiAg47vQ",
+      "deezer": "163",
+      "lastfm": "U2",
+      "genius": "U2",
+      "rateyourmusic": "u2",
+      "soundcloud": "https://soundcloud.com/u2",
+      "napster": "U2",
+      "wikidata": "Q396",
+      "youtube": "UCqIQRxCUGi7hyJisyzv9zYQ"
+    }
   },
   "lastfm": {
     "id": "Johnny+Cash/_/Hurt",

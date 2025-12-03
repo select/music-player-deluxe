@@ -2,7 +2,7 @@
   "youtubeId": "oEMu-eyIY5k",
   "title": "21",
   "artist": "iSeo & Dodosound",
-  "lastFetched": "2025-11-30T22:53:06.916Z",
+  "lastFetched": "2025-12-02T01:50:44.184Z",
   "odesli": {
     "amazonMusic": "B0CQKKM982",
     "amazonStore": "B0CQKKM982",
@@ -30,6 +30,15 @@
     "artistGenres": [
       "dub",
       "reggae"
-    ]
+    ],
+    "releasedAt": "2024-01-19",
+    "artistCountry": "ES",
+    "externalIdsArtist": {
+      "discogs": "7629634",
+      "spotify": "7dmbpbRfi5fEBqu9A9kwrc",
+      "deezer": "12358478",
+      "wikidata": "Q54855961",
+      "youtube": "UC6R528xpCoDwWEZwFYr1-Yw"
+    }
   }
 }

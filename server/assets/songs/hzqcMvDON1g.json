@@ -2,7 +2,7 @@
   "youtubeId": "hzqcMvDON1g",
   "title": "Dicht im Flieger",
   "artist": "Julian Sommer",
-  "lastFetched": "2025-11-30T23:20:44.478Z",
+  "lastFetched": "2025-12-02T01:41:02.690Z",
   "odesli": {
     "amazonMusic": "B0BT4K8BN2",
     "amazonStore": "B0BT4K8BN2",
@@ -26,6 +26,14 @@
   "musicbrainz": {
     "artistMbid": "2044a4b8-1980-47ee-a452-9511ff137444",
     "trackMbid": "7092314e-b331-49a8-8834-ded2cba862a3",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2022-03-18",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "11166101",
+      "spotify": "77puYb4Nubacm3PAzkY1UQ",
+      "deezer": "66084912",
+      "wikidata": "Q112107282"
+    }
   }
 }

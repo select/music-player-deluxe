@@ -2,7 +2,7 @@
   "youtubeId": "ygFtKbGPo8E",
   "title": "Reina Mora",
   "artist": "Marina Herlop",
-  "lastFetched": "2025-11-30T22:22:35.158Z",
+  "lastFetched": "2025-12-02T02:06:29.457Z",
   "odesli": {
     "amazonMusic": "B0CJCGNFKJ",
     "amazonStore": "B0CJCGNFKJ",
@@ -41,6 +41,18 @@
     "artistGenres": [
       "avant-garde",
       "experimental"
-    ]
+    ],
+    "releasedAt": "2023-10-27",
+    "artistCountry": "ES",
+    "externalIdsArtist": {
+      "bandcamp": "https://marinaherlop.bandcamp.com/",
+      "discogs": "6108055",
+      "spotify": "4ZG4S6skttdVhHz08AjMhR",
+      "deezer": "11297004",
+      "lastfm": "Marina+Herlop",
+      "soundcloud": "https://soundcloud.com/marinaherlop",
+      "wikidata": "Q73032573",
+      "youtube": "UC0E7jAnHqleMPg4c_eA8XfQ"
+    }
   }
 }

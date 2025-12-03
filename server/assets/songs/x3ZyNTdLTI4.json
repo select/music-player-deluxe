@@ -2,7 +2,7 @@
   "youtubeId": "x3ZyNTdLTI4",
   "title": "Why?",
   "artist": "Abstract Elements",
-  "lastFetched": "2025-11-23T16:53:28.612Z",
+  "lastFetched": "2025-12-02T02:03:55.548Z",
   "odesli": {
     "amazonMusic": "B09GYJPKP9",
     "amazonStore": "B09GYJPKP9",
@@ -21,7 +21,14 @@
       "minimal drum and bass"
     ],
     "trackMbid": "42e805e1-c28f-4622-8d2e-87bc37747ac6",
-    "artistMbid": "80ba0f2a-c8a6-4f5d-bf11-f2b5b077f4ed"
+    "artistMbid": "80ba0f2a-c8a6-4f5d-bf11-f2b5b077f4ed",
+    "releasedAt": "2018-12-14",
+    "externalIdsArtist": {
+      "discogs": "1594117",
+      "spotify": "22hIEBiHio8iJu0JR7dOLn",
+      "deezer": "3543551",
+      "soundcloud": "https://soundcloud.com/abstractelementz"
+    }
   },
   "lastfm": {
     "id": "Abstract+Elements/_/Why%3F",

@@ -2,7 +2,7 @@
   "youtubeId": "l7Ko5586zqQ",
   "title": "Standard Procedures",
   "artist": "Lewsberg",
-  "lastFetched": "2025-11-19T10:54:39.246Z",
+  "lastFetched": "2025-12-02T01:45:36.344Z",
   "odesli": {
     "amazonMusic": "B0DBDJBMM6",
     "amazonStore": "B0DBDJBMM6",
@@ -34,6 +34,14 @@
   },
   "musicbrainz": {
     "trackMbid": "7a0eef28-632c-4468-997b-f194b5eab12b",
-    "artistMbid": "e270d44f-3109-4bd4-a35c-67870159198e"
+    "artistMbid": "e270d44f-3109-4bd4-a35c-67870159198e",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "allmusic": "mn0003804996",
+      "bandcamp": "https://lewsberg.bandcamp.com/",
+      "discogs": "5551019",
+      "spotify": "49q3PS0SzgbyvWDwZj7qg5",
+      "youtube": "UCOwo2MmG1ilD23PPg3FNqVw"
+    }
   }
 }

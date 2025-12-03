@@ -2,7 +2,7 @@
   "youtubeId": "t2XRQdmkdws",
   "title": "Tropical Eel",
   "artist": "Jimi Tenor",
-  "lastFetched": "2025-11-30T21:00:26.196Z",
+  "lastFetched": "2025-12-02T01:58:20.634Z",
   "odesli": {
     "amazonMusic": "B01BSVX90C",
     "amazonStore": "B01BSVX90C",
@@ -38,6 +38,17 @@
       "ambient techno",
       "electronic",
       "electronica"
-    ]
+    ],
+    "releasedAt": "2018-06-08",
+    "artistCountry": "FI",
+    "externalIdsArtist": {
+      "allmusic": "mn0000295847",
+      "bandcamp": "https://jimitenor.bandcamp.com/",
+      "discogs": "952",
+      "spotify": "69H6uUTI29XBzQXV1d3A7D",
+      "deezer": "8099",
+      "rateyourmusic": "jimi_tenor",
+      "wikidata": "Q1389182"
+    }
   }
 }

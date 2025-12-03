@@ -3,7 +3,7 @@
   "artist": "Jeremy Jay",
   "duration": 153,
   "youtubeId": "o0AtBnYujw4",
-  "lastFetched": "2025-11-19T05:21:29.464Z",
+  "lastFetched": "2025-12-02T01:50:17.735Z",
   "odesli": {
     "pandora": "TR:37066452",
     "tidal": "159454502",
@@ -19,7 +19,18 @@
     ],
     "trackMbid": "8768fa3b-6227-45b6-a00b-a7078a78ace0",
     "artistMbid": "34f8701a-24ef-48d6-a130-61149d04530d",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2008-05-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000738784",
+      "bandcamp": "https://jeremyjay.bandcamp.com/",
+      "discogs": "1016096",
+      "lastfm": "Jeremy%20Jay",
+      "rateyourmusic": "jeremy_jay",
+      "soundcloud": "https://soundcloud.com/jeremy-jay-official",
+      "wikidata": "Q3177318"
+    }
   },
   "lastfm": {
     "id": "Jeremy+Jay/_/Beautiful+Rebel",

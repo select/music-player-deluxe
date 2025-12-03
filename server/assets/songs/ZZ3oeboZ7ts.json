@@ -2,7 +2,7 @@
   "youtubeId": "ZZ3oeboZ7ts",
   "title": "The Photo Song",
   "artist": "Holger Czukay",
-  "lastFetched": "2025-11-30T22:22:49.307Z",
+  "lastFetched": "2025-12-02T01:27:49.104Z",
   "odesli": {
     "amazonMusic": "B07G9PYC6J",
     "amazonStore": "B07G9PYC6J",
@@ -44,6 +44,15 @@
       "electronic",
       "experimental rock",
       "krautrock"
-    ]
+    ],
+    "releasedAt": "1984",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000088122",
+      "discogs": "3480",
+      "lastfm": "Holger+Czukay",
+      "rateyourmusic": "holger_czukay",
+      "wikidata": "Q699355"
+    }
   }
 }

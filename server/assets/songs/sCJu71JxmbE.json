@@ -2,7 +2,7 @@
   "youtubeId": "sCJu71JxmbE",
   "title": "Wenn du denkst du denkst dann denkst du nur du denkst",
   "artist": "Juliane Werding",
-  "lastFetched": "2025-11-30T23:42:37.205Z",
+  "lastFetched": "2025-12-02T01:57:12.277Z",
   "odesli": {
     "amazonMusic": "B0B2QBBV3V",
     "amazonStore": "B0B2QBBV3V",
@@ -38,6 +38,16 @@
     "artistGenres": [
       "pop",
       "schlager"
-    ]
+    ],
+    "releasedAt": "1975",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "112880",
+      "spotify": "1GxuBISOyVHyRO5GDZEz9C",
+      "deezer": "16558",
+      "lastfm": "Juliane+Werding",
+      "rateyourmusic": "juliane_werding",
+      "wikidata": "Q77765"
+    }
   }
 }

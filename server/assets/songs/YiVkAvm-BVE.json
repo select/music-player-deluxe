@@ -2,7 +2,7 @@
   "youtubeId": "YiVkAvm-BVE",
   "title": "Atlas Falls",
   "artist": "Shinedown",
-  "lastFetched": "2025-11-23T16:42:13.753Z",
+  "lastFetched": "2025-12-02T01:26:40.343Z",
   "odesli": {
     "appleMusic": "1512827486",
     "itunes": "1512827486",
@@ -28,7 +28,20 @@
       "post-grunge"
     ],
     "trackMbid": "c55fe050-a332-43d1-8879-8a57081ab5e4",
-    "artistMbid": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6"
+    "artistMbid": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000028002",
+      "discogs": "343055",
+      "spotify": "70BYFdaZbEKbeauJ670ysI",
+      "deezer": "6691",
+      "lastfm": "Shinedown",
+      "genius": "Shinedown",
+      "rateyourmusic": "shinedown",
+      "soundcloud": "https://soundcloud.com/shinedownofficial",
+      "napster": "shinedown",
+      "wikidata": "Q1063812"
+    }
   },
   "lastfm": {
     "id": "Shinedown/_/Atlas+Falls",

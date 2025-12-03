@@ -2,7 +2,7 @@
   "youtubeId": "csILUDfmtqM",
   "title": "Hold Me Up (Thank You)",
   "artist": "Khruangbin",
-  "lastFetched": "2025-11-23T16:44:28.192Z",
+  "lastFetched": "2025-12-02T01:34:19.575Z",
   "odesli": {
     "amazonMusic": "B0CQ3HPHKV",
     "amazonStore": "B0CQ3HPHKV",
@@ -39,7 +39,23 @@
       "indie rock"
     ],
     "trackMbid": "a7ec324a-0ffc-4392-8390-189842095ad6",
-    "artistMbid": "aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634"
+    "artistMbid": "aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634",
+    "releasedAt": "2024-04-05",
+    "externalIdsTrack": {
+      "spotify": "0juMDnoo3u3uDJ32wjK2BF"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003192866",
+      "bandcamp": "https://khruangbin.bandcamp.com/",
+      "discogs": "3565949",
+      "spotify": "2mVVjNmdjXZZDvhgQWiakk",
+      "deezer": "5328540",
+      "lastfm": "Khruangbin",
+      "rateyourmusic": "khruangbin",
+      "soundcloud": "https://soundcloud.com/khruangbin",
+      "wikidata": "Q54555985",
+      "youtube": "UCZGBua-dvwfSdcF9AskDIgw"
+    }
   },
   "lastfm": {
     "id": "Khruangbin/_/Hold+Me+Up+(Thank+You)",

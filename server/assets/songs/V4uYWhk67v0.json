@@ -2,7 +2,7 @@
   "youtubeId": "V4uYWhk67v0",
   "title": "Ease & Grace",
   "artist": "Iya Terra",
-  "lastFetched": "2025-11-30T22:34:55.326Z",
+  "lastFetched": "2025-12-02T01:20:34.179Z",
   "odesli": {
     "amazonMusic": "B0968XN76N",
     "amazonStore": "B0968XN76N",
@@ -33,6 +33,14 @@
     "releaseCount": 1,
     "artistGenres": [
       "reggae"
-    ]
+    ],
+    "releasedAt": "2023-09-21",
+    "externalIdsArtist": {
+      "discogs": "7044665",
+      "spotify": "1uXHYeD8JQjkaIGvEARs4D",
+      "deezer": "5456702",
+      "napster": "iya-terra",
+      "wikipedia": "Iya_Terra"
+    }
   }
 }

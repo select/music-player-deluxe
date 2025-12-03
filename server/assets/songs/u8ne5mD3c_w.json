@@ -2,7 +2,7 @@
   "youtubeId": "u8ne5mD3c_w",
   "title": "Hay Libertad",
   "artist": "Dubioza kolektiv",
-  "lastFetched": "2025-11-30T19:52:28.195Z",
+  "lastFetched": "2025-12-02T02:00:08.321Z",
   "odesli": {
     "amazonMusic": "B01B0VZOS0",
     "amazonStore": "B01B0VZOS0",
@@ -42,6 +42,18 @@
       "reggae",
       "rock",
       "ska"
-    ]
+    ],
+    "releasedAt": "2014",
+    "artistCountry": "BA",
+    "externalIdsArtist": {
+      "allmusic": "mn0002749976",
+      "discogs": "598412",
+      "spotify": "02IFYoziC7CpQRK8fbehUY",
+      "deezer": "334496",
+      "lastfm": "Dubioza+Kolektiv",
+      "rateyourmusic": "dubioza_kolektiv",
+      "soundcloud": "https://soundcloud.com/dubioza-kolektiv",
+      "wikidata": "Q1263054"
+    }
   }
 }

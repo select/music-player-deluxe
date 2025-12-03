@@ -1,7 +1,7 @@
 {
   "youtubeId": "xWndjqMwBu4",
   "title": "Aphrodite's Child - End Of The World",
-  "lastFetched": "2025-11-30T20:25:29.042Z",
+  "lastFetched": "2025-12-02T02:04:47.057Z",
   "ai": {
     "title": "End Of The World",
     "artist": "Aphrodite's Child"
@@ -27,6 +27,18 @@
       "progressive rock",
       "psychedelic pop",
       "psychedelic rock"
-    ]
+    ],
+    "releasedAt": "2013",
+    "artistCountry": "GR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000495954",
+      "discogs": "104958",
+      "spotify": "2XhhAWeUOlrZnGOB7aKEI8",
+      "deezer": "14009",
+      "lastfm": "Aphrodite's+Child",
+      "genius": "Aphrodites-child",
+      "rateyourmusic": "aphrodites_child",
+      "wikidata": "Q618537"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "gnwywMpPbjg",
   "title": "Tonttuheviä",
   "artist": "Hevisaurus",
-  "lastFetched": "2025-11-30T21:58:35.125Z",
+  "lastFetched": "2025-12-02T01:39:09.889Z",
   "odesli": {
     "amazonMusic": "B006P8M360",
     "amazonStore": "B006P8M360",
@@ -30,6 +30,16 @@
   "musicbrainz": {
     "trackMbid": "beee2711-fce9-4320-9992-864a18b851f1",
     "artistMbid": "c964b49c-5482-4282-8980-f18501004368",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2011-11-07",
+    "artistCountry": "FI",
+    "externalIdsArtist": {
+      "allmusic": "mn0002379956",
+      "discogs": "2183502",
+      "spotify": "04wwRPFGcvENSA7EIQBJwC",
+      "rateyourmusic": "hevisaurus",
+      "wikidata": "Q1573235",
+      "wikipedia": "Hevisaurus"
+    }
   }
 }

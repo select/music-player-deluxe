@@ -2,7 +2,7 @@
   "youtubeId": "XGDrzDEa-sw",
   "title": "Return Of The Hooligans",
   "artist": "DJ Normal 4",
-  "lastFetched": "2025-11-30T22:49:48.208Z",
+  "lastFetched": "2025-12-02T01:23:52.623Z",
   "odesli": {
     "amazonMusic": "B07L8GL5RP",
     "amazonStore": "B07L8GL5RP",
@@ -25,6 +25,12 @@
   "musicbrainz": {
     "artistMbid": "70f63a33-5476-4739-9a58-d68df2bf6cb1",
     "trackMbid": "043becdd-acd3-42aa-98c7-f2536a1aa7dc",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2018-11-12",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "5041276",
+      "soundcloud": "https://soundcloud.com/djnormal4"
+    }
   }
 }

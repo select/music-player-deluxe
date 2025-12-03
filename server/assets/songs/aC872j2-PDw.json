@@ -2,7 +2,7 @@
   "youtubeId": "aC872j2-PDw",
   "title": "Denkmal",
   "artist": "Wir sind Helden",
-  "lastFetched": "2025-11-30T23:08:48.022Z",
+  "lastFetched": "2025-12-02T01:30:12.895Z",
   "odesli": {
     "amazonMusic": "B000TETAVW",
     "amazonStore": "B000TETAVW",
@@ -38,6 +38,19 @@
       "pop",
       "pop rock",
       "rock"
-    ]
+    ],
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000568593",
+      "discogs": "144005",
+      "spotify": "3jiOHVFdVQjbSDVeC7RgY7",
+      "deezer": "1372",
+      "lastfm": "Wir+sind+Helden",
+      "genius": "Wir-sind-helden",
+      "rateyourmusic": "wir_sind_helden",
+      "soundcloud": "https://soundcloud.com/wir-sind-helden",
+      "wikidata": "Q157079",
+      "youtube": "UCnS-aTAcLzj1ylzsJA6jzPg"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "gam6ZH8zo5g",
   "title": "Bangkok Starters - Glass Off",
-  "lastFetched": "2025-11-30T21:25:53.630Z",
+  "lastFetched": "2025-12-02T01:38:50.390Z",
   "ai": {
     "title": "Glass Off",
     "artist": "Bangkok Starters"
@@ -16,6 +16,7 @@
   "musicbrainz": {
     "trackMbid": "ab8aef01-7b69-452b-a021-f5e4006124d1",
     "artistMbid": "c4f9dbb7-1a39-4136-9a24-fd0bb34dd191",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2004-06-29"
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "UsHCcNPT3L4",
   "title": "Peloton Don (Instrumental)",
   "artist": "RJD2",
-  "lastFetched": "2025-11-23T16:40:37.541Z",
+  "lastFetched": "2025-12-02T01:20:22.380Z",
   "odesli": {
     "amazonMusic": "B0BV91YQWQ",
     "amazonStore": "B0BV91YQWQ",
@@ -37,7 +37,20 @@
       "instrumental hip hop"
     ],
     "trackMbid": "89a23a2d-45d1-4006-9ba2-32a5774d4483",
-    "artistMbid": "1a120ec5-35b3-4f3e-aa49-7201550d9feb"
+    "artistMbid": "1a120ec5-35b3-4f3e-aa49-7201550d9feb",
+    "releasedAt": "2023-02-22",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000389486",
+      "bandcamp": "https://officialrjd2.bandcamp.com/",
+      "discogs": "336190",
+      "spotify": "1O3ZOjqFLEnbpZexcRjocn",
+      "deezer": "3227",
+      "lastfm": "RJD2",
+      "rateyourmusic": "rjd2",
+      "soundcloud": "https://soundcloud.com/officialrjd2",
+      "wikidata": "Q1933793"
+    }
   },
   "lastfm": {
     "id": "RJD2/_/Peloton+Don+(Instrumental)",

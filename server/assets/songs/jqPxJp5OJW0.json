@@ -2,7 +2,7 @@
   "youtubeId": "jqPxJp5OJW0",
   "title": "Ante Up",
   "artist": "M.O.P.",
-  "lastFetched": "2025-11-30T19:26:39.252Z",
+  "lastFetched": "2025-12-02T01:43:43.494Z",
   "odesli": {
     "amazonMusic": "B000ZST63Y",
     "amazonStore": "B000ZST63Y",
@@ -41,6 +41,17 @@
       "east coast hip hop",
       "gangsta rap",
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2003-12-22",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000808756",
+      "bandcamp": "https://mashoutposse.bandcamp.com/",
+      "discogs": "50662",
+      "spotify": "1BH45DVSTeGBvcYXNCd67g",
+      "deezer": "2543",
+      "rateyourmusic": "m_o_p",
+      "wikidata": "Q1052019"
+    }
   }
 }

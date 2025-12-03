@@ -1,7 +1,7 @@
 {
   "youtubeId": "_YoapuIvv_4",
   "title": "Yusef Lateef, \"Morning\"",
-  "lastFetched": "2025-11-30T19:38:11.145Z",
+  "lastFetched": "2025-12-02T01:29:16.370Z",
   "ai": {
     "title": "Morning",
     "artist": "Yusef Lateef"
@@ -29,6 +29,17 @@
       "jazz fusion",
       "jazz-funk",
       "post-bop"
-    ]
+    ],
+    "releasedAt": "1957",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000596922",
+      "bandcamp": "https://yuseflateef1.bandcamp.com/",
+      "discogs": "167055",
+      "spotify": "33XkS6h90eeK7e6OJHw0mq",
+      "deezer": "64449",
+      "rateyourmusic": "yusef_lateef",
+      "wikidata": "Q539832"
+    }
   }
 }

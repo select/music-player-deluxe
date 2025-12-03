@@ -2,7 +2,7 @@
   "youtubeId": "y5vr_Vhoumc",
   "title": "Weatherman",
   "artist": "Dead Sara",
-  "lastFetched": "2025-11-23T16:54:02.795Z",
+  "lastFetched": "2025-12-02T02:05:41.111Z",
   "odesli": {
     "amazonMusic": "B077GKCL9G",
     "amazonStore": "B077GKCL9G",
@@ -34,7 +34,20 @@
       "rock"
     ],
     "trackMbid": "801a4e77-1cc7-485c-bb0c-4fd0f3c13015",
-    "artistMbid": "0f4fa442-3e9c-4355-8e17-a39386a52077"
+    "artistMbid": "0f4fa442-3e9c-4355-8e17-a39386a52077",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002873731",
+      "discogs": "2708972",
+      "spotify": "589tFv4Vf1K27wpf0uWz2j",
+      "deezer": "552744",
+      "lastfm": "Dead+Sara",
+      "genius": "Dead-sara",
+      "rateyourmusic": "dead_sara",
+      "soundcloud": "https://soundcloud.com/deadsaraofficial",
+      "napster": "dead-sara",
+      "wikidata": "Q4037090"
+    }
   },
   "lastfm": {
     "id": "Dead+Sara/_/Weatherman",

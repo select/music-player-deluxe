@@ -1,0 +1,52 @@
+{
+  "youtubeId": "A_xHMKkzPc4",
+  "title": "The Well",
+  "artist": "Marcus King",
+  "lastFetched": "2025-12-03T12:02:25.146Z",
+  "odesli": {
+    "amazonMusic": "B07YMW84FR",
+    "amazonStore": "B07YMW84FR",
+    "anghami": "66633034",
+    "boomplay": "9222908",
+    "napster": "tra.412180891",
+    "pandora": "TR:28318394",
+    "soundcloud": "marcuskingofficial/the-well",
+    "spotify": "4wszHgvhXYlN2Io813hLQ1",
+    "tidal": "127818841",
+    "yandex": "58639973",
+    "youtube": "A_xHMKkzPc4",
+    "youtubeMusic": "A_xHMKkzPc4"
+  },
+  "lastfm": {
+    "id": "Marcus+King/_/The+Well",
+    "listeners": 47290,
+    "playcount": 196278,
+    "title": "The Well",
+    "artist": "Marcus King",
+    "mbid": "286f3a3e-065b-4528-8b1f-7ea205a8debd",
+    "artistMbid": "955bc3c8-36d4-47e8-9648-f6728c613583",
+    "tags": [
+      "my top songs"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8626ea83-8fbe-43fa-a3f2-738eda6f005a",
+    "artistMbid": "955bc3c8-36d4-47e8-9648-f6728c613583",
+    "releaseCount": 7,
+    "artistGenres": [
+      "country"
+    ],
+    "releasedAt": "2019-10-10",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003554475",
+      "bandcamp": "https://marcusking.bandcamp.com/",
+      "discogs": "6362532",
+      "spotify": "0FeWKiZSwBRdGzqeCdlH1a",
+      "deezer": "5399313",
+      "rateyourmusic": "marcus-king",
+      "wikidata": "Q90797800",
+      "youtube": "UC6dwaC5J_YiXXsRCZhqK3yw"
+    }
+  }
+}

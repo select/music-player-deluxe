@@ -1,0 +1,41 @@
+{
+  "youtubeId": "pnGvAwf7pgE",
+  "title": "Esper",
+  "artist": "Yak",
+  "lastFetched": "2025-12-03T11:46:10.241Z",
+  "odesli": {
+    "amazonMusic": "B0CLLTHJ1R",
+    "amazonStore": "B0CLLTHJ1R",
+    "soundcloud": "yak17940/esper",
+    "youtube": "pnGvAwf7pgE",
+    "youtubeMusic": "pnGvAwf7pgE"
+  },
+  "lastfm": {
+    "id": "Yak/_/Esper",
+    "listeners": 902,
+    "playcount": 2026,
+    "title": "Esper",
+    "artist": "Yak",
+    "mbid": "255bb236-207b-4bfa-9c29-a8d470c17528",
+    "artistMbid": "c6b1ad19-a877-4258-b0ac-77e713ed1336",
+    "tags": [
+      "drum and bass",
+      "electronic",
+      "idm",
+      "breaks"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9cf39ca8-3ed4-48e8-81c9-278a077691b3",
+    "artistMbid": "b5fd0325-a5b1-46b2-ad72-4a25e98f6eeb",
+    "releaseCount": 1,
+    "releasedAt": "2020-04-20",
+    "externalIdsArtist": {
+      "bandcamp": "https://yaksound.bandcamp.com/",
+      "discogs": "5876280",
+      "spotify": "0pTZMjQ7LDF0feqXskgC6O",
+      "rateyourmusic": "yak-1",
+      "soundcloud": "https://soundcloud.com/yaksound"
+    }
+  }
+}

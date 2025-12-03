@@ -3,7 +3,7 @@
   "artist": "Carlton & The Shoes",
   "duration": 186,
   "youtubeId": "taiub0SI2kQ",
-  "lastFetched": "2025-11-23T15:40:51.385Z",
+  "lastFetched": "2025-12-02T01:59:31.086Z",
   "odesli": {
     "amazonMusic": "B07J33FCY6",
     "amazonStore": "B07J33FCY6",
@@ -17,7 +17,16 @@
     ],
     "trackMbid": "d679c910-cf77-4380-801b-dcfe40d20107",
     "artistMbid": "38140c43-8b8f-42c4-9a32-5be059c1a41b",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1976",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0001923932",
+      "discogs": "177046",
+      "lastfm": "Carlton%20and%20The%20Shoes",
+      "rateyourmusic": "carlton-and-the-shoes",
+      "wikidata": "Q5043082"
+    }
   },
   "lastfm": {
     "id": "Carlton+&+The+Shoes/_/Never+Give+Your+Heart+Away",

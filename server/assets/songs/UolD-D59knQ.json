@@ -3,7 +3,7 @@
   "artist": "Julianna Barwick & Mary Lattimore",
   "duration": 518,
   "youtubeId": "UolD-D59knQ",
-  "lastFetched": "2025-11-23T16:40:34.553Z",
+  "lastFetched": "2025-12-02T01:20:14.658Z",
   "odesli": {
     "amazonMusic": "B0FTSYKRBN",
     "amazonStore": "B0FTSYKRBN",
@@ -29,7 +29,18 @@
     ],
     "trackMbid": "eef55a3d-c506-4493-aa30-51e381d2cc0b",
     "artistMbid": "ba49bbe3-188b-44d7-95f3-92ff9939af28",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-10-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002418851",
+      "discogs": "584243",
+      "spotify": "0HWfFWL4vVrbaBQqxVCwCi",
+      "deezer": "399572",
+      "lastfm": "Julianna+Barwick",
+      "rateyourmusic": "julianna_barwick",
+      "wikidata": "Q6307829"
+    }
   },
   "lastfm": {
     "id": "Julianna+Barwick+&+Mary+Lattimore/_/Melted+Moon",

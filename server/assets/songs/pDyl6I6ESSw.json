@@ -3,7 +3,7 @@
   "artist": "Chris Hadfield",
   "duration": 319,
   "youtubeId": "pDyl6I6ESSw",
-  "lastFetched": "2025-11-19T03:14:17.415Z",
+  "lastFetched": "2025-12-02T01:52:11.500Z",
   "lastfm": {
     "id": "Chris+Hadfield/_/Space+Oddity",
     "listeners": 13232,
@@ -18,6 +18,14 @@
   "musicbrainz": {
     "trackMbid": "1799aad2-6367-4982-a487-52f6ed1c06c2",
     "artistMbid": "73daf3fc-1e3f-4d2e-9e51-3f397d4e556f",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2015-10-09",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "discogs": "3933396",
+      "soundcloud": "https://soundcloud.com/colchrishadfield",
+      "wikidata": "Q1076962",
+      "youtube": "UCtGG8ucQgEJPeUPhJZ4M4jA"
+    }
   }
 }

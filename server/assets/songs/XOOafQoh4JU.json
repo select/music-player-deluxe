@@ -2,7 +2,7 @@
   "youtubeId": "XOOafQoh4JU",
   "title": "Spectral",
   "artist": "Petroll",
-  "lastFetched": "2025-11-30T19:55:12.710Z",
+  "lastFetched": "2025-12-02T01:24:06.639Z",
   "odesli": {
     "amazonMusic": "B09GP29M1R",
     "amazonStore": "B09GP29M1R",
@@ -32,6 +32,15 @@
   "musicbrainz": {
     "trackMbid": "f4d5e9b6-64be-496a-b663-5f34b6c421ca",
     "artistMbid": "86794e65-393a-4bf1-b271-7b0c32d0ac12",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2018-03-30",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "bandcamp": "https://petroll.bandcamp.com/",
+      "discogs": "5209003",
+      "spotify": "5qe1MR25C0G4Y4Frag0Cyl",
+      "deezer": "10646309",
+      "soundcloud": "https://soundcloud.com/petroll"
+    }
   }
 }

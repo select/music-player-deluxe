@@ -1,7 +1,7 @@
 {
   "youtubeId": "lyirrcT5a6Q",
   "title": "Pharoah Sanders - Thembi",
-  "lastFetched": "2025-11-30T21:29:26.698Z",
+  "lastFetched": "2025-12-02T01:47:12.295Z",
   "ai": {
     "title": "Thembi",
     "artist": "Pharoah Sanders"
@@ -42,6 +42,18 @@
       "post-bop",
       "soul jazz",
       "spiritual jazz"
-    ]
+    ],
+    "releasedAt": "1971",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000330601",
+      "bandcamp": "https://pharoahsanders.bandcamp.com/",
+      "discogs": "21147",
+      "spotify": "3JLUCojZaHrX2LaUkSj7Ud",
+      "deezer": "5999",
+      "rateyourmusic": "pharoah_sanders",
+      "wikidata": "Q470617",
+      "youtube": "UCiGyeWInaBikhmnKnhw7CuA"
+    }
   }
 }

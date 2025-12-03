@@ -2,7 +2,7 @@
   "youtubeId": "rGA6shXdb_M",
   "title": "Baknaffek",
   "artist": "Das EFX",
-  "lastFetched": "2025-11-23T16:51:04.517Z",
+  "lastFetched": "2025-12-02T01:55:31.991Z",
   "odesli": {
     "amazonMusic": "B003TRX4HC",
     "amazonStore": "B003TRX4HC",
@@ -22,7 +22,17 @@
       "hip hop"
     ],
     "trackMbid": "a7c832d8-17ff-4c6a-8409-ebbd9a7f6a2b",
-    "artistMbid": "2ed45dd0-6a96-4459-af32-bc74e7a7f387"
+    "artistMbid": "2ed45dd0-6a96-4459-af32-bc74e7a7f387",
+    "releasedAt": "2022-12-02",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000678167",
+      "discogs": "69544",
+      "spotify": "0auu2itHTxEdAMRHvx7CyG",
+      "deezer": "4468",
+      "rateyourmusic": "das_efx",
+      "wikidata": "Q1167627"
+    }
   },
   "lastfm": {
     "id": "Das+EFX/_/Baknaffek",

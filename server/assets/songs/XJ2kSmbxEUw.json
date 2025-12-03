@@ -2,7 +2,7 @@
   "youtubeId": "XJ2kSmbxEUw",
   "title": "My Head Is My Only House Unless It Rains",
   "artist": "Captain Beefheart",
-  "lastFetched": "2025-11-30T22:47:09.624Z",
+  "lastFetched": "2025-12-02T01:23:57.185Z",
   "odesli": {
     "amazonMusic": "B004JAWDJ8",
     "amazonStore": "B004JAWDJ8",
@@ -29,6 +29,17 @@
       "experimental rock",
       "proto-punk",
       "psychedelic rock"
-    ]
+    ],
+    "releasedAt": "2015",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000988638",
+      "discogs": "119009",
+      "spotify": "2ebK4ueGwhVaXUm060m1BS",
+      "deezer": "87384",
+      "lastfm": "+noredirect",
+      "rateyourmusic": "captain_beefheart",
+      "wikidata": "Q312264"
+    }
   }
 }

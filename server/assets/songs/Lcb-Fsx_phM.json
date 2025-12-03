@@ -1,0 +1,73 @@
+{
+  "youtubeId": "Lcb-Fsx_phM",
+  "title": "Urgent",
+  "artist": "Foreigner",
+  "lastFetched": "2025-12-03T11:37:44.191Z",
+  "odesli": {
+    "amazonMusic": "B001CDJM3K",
+    "amazonStore": "B001CDJM3K",
+    "anghami": "27621293",
+    "boomplay": "4246113",
+    "pandora": "TR:7068818",
+    "soundcloud": "foreigner/urgent-1",
+    "spotify": "08onVqQ8YicJ98Ycm1qoLf",
+    "tidal": "1894870",
+    "yandex": "122599",
+    "youtube": "Lcb-Fsx_phM",
+    "youtubeMusic": "Lcb-Fsx_phM"
+  },
+  "lastfm": {
+    "summary": "\"Urgent\" is a song by the English-American rock band Foreigner, and the first single from their album 4 in 1981. Foreigner went into the studio with producer Robert John \"Mutt\" Lange, best known at the time as producer of hard rock band AC/DC. Foreigner's sound wasn't quite as heavy, and the band worked with then-unknown Thomas Dolby to program and play synthesizer. Dolby's work can be heard on \"Urgent\", along with a saxophone solo by Motown great Junior Walker. <a href=\"http://www.last.fm/music/Foreigner/_/Urgent\">Read more on Last.fm</a>.",
+    "id": "Foreigner/_/Urgent",
+    "listeners": 319992,
+    "playcount": 1497997,
+    "title": "Urgent",
+    "artist": "Foreigner",
+    "mbid": "2e3f1666-dee3-3667-bce0-d4225eeed38c",
+    "artistMbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+    "tags": [
+      "80s",
+      "classic rock",
+      "rock",
+      "foreigner",
+      "hard rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4cf7cbec-c767-4257-9ee0-f7a1cb6e44a6",
+    "artistMbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+    "releaseCount": 18,
+    "genres": [
+      "classic rock",
+      "hard rock",
+      "pop",
+      "rock",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "aor",
+      "arena rock",
+      "classic rock",
+      "hard rock",
+      "pop rock",
+      "rock",
+      "soft rock"
+    ],
+    "releasedAt": "1993",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000987621",
+      "discogs": "174890",
+      "spotify": "6IRouO5mvvfcyxtPDKMYFN",
+      "deezer": "2310",
+      "lastfm": "Foreigner",
+      "genius": "Foreigner",
+      "rateyourmusic": "foreigner",
+      "soundcloud": "https://soundcloud.com/foreigner",
+      "napster": "foreigner",
+      "wikidata": "Q275059",
+      "youtube": "UCr79-QZv1_VGlxVWLc28xrQ"
+    }
+  }
+}

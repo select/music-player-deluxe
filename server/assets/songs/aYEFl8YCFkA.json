@@ -1,7 +1,7 @@
 {
   "youtubeId": "aYEFl8YCFkA",
   "title": "257ers - Holz (Weihnachtslied)",
-  "lastFetched": "2025-11-30T21:26:49.663Z",
+  "lastFetched": "2025-12-02T01:30:39.089Z",
   "ai": {
     "title": "Holz",
     "artist": "257ers"
@@ -33,6 +33,18 @@
     "artistGenres": [
       "hip house",
       "pop rap"
-    ]
+    ],
+    "releasedAt": "2016-07-01",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003003362",
+      "discogs": "1774272",
+      "spotify": "6ihLfpY3cmdGyWEnItn30w",
+      "deezer": "3575501",
+      "lastfm": "257ers",
+      "rateyourmusic": "257ers",
+      "wikidata": "Q218269",
+      "youtube": "UCoMradiChryBgljtr05IsDA"
+    }
   }
 }

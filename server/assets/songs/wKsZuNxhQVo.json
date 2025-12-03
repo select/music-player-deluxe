@@ -1,7 +1,7 @@
 {
   "youtubeId": "wKsZuNxhQVo",
   "title": "Alone Again Or",
-  "lastFetched": "2025-11-30T21:15:42.101Z",
+  "lastFetched": "2025-12-02T02:03:09.151Z",
   "ai": {
     "title": "alone again or",
     "artist": "Calexico"
@@ -51,6 +51,19 @@
       "folk rock",
       "indie folk",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2003-06-30",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000944293",
+      "bandcamp": "https://casadecalexico.bandcamp.com/",
+      "discogs": "9856",
+      "spotify": "1OmdWpAh1pucAuZPzJaxIJ",
+      "deezer": "1596",
+      "lastfm": "Calexico",
+      "genius": "Calexico",
+      "rateyourmusic": "calexico",
+      "wikidata": "Q1026652"
+    }
   }
 }

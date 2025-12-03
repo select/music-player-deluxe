@@ -1,0 +1,49 @@
+{
+  "youtubeId": "HHgAsRQRGYs",
+  "title": "The Sinister Never Deceives",
+  "artist": "Legowelt",
+  "lastFetched": "2025-12-03T11:48:00.210Z",
+  "odesli": {
+    "amazonMusic": "B09PMBSG3N",
+    "amazonStore": "B09PMBSG3N",
+    "tidal": "211130373",
+    "youtube": "HHgAsRQRGYs",
+    "youtubeMusic": "HHgAsRQRGYs"
+  },
+  "lastfm": {
+    "id": "Legowelt/_/The+Sinister+Never+Deceives",
+    "listeners": 1150,
+    "playcount": 2756,
+    "title": "The Sinister Never Deceives",
+    "artist": "Legowelt",
+    "mbid": "1ed4993a-ae38-401e-93c1-983d8cdfd951",
+    "artistMbid": "764eb299-d4a6-4a9d-af8b-d0dcf7b3d3ca",
+    "tags": [
+      "electro",
+      "beanoboo"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ba9c4fba-ebc8-4087-a9d3-0cbbfc0ca330",
+    "artistMbid": "764eb299-d4a6-4a9d-af8b-d0dcf7b3d3ca",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dance",
+      "electronic"
+    ],
+    "releasedAt": "2020-03-20",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "allmusic": "mn0000814615",
+      "bandcamp": "https://legowelt.bandcamp.com/",
+      "discogs": "12828",
+      "spotify": "0cG9dZ6X8YfLeGe24QWMwM",
+      "deezer": "15976",
+      "lastfm": "Legowelt",
+      "rateyourmusic": "legowelt",
+      "soundcloud": "https://soundcloud.com/legowelt-official",
+      "wikidata": "Q329267",
+      "youtube": "Legoweltofficial"
+    }
+  }
+}

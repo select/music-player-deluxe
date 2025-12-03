@@ -1,0 +1,56 @@
+{
+  "youtubeId": "x8eTSOQCUbk",
+  "title": "Lighterless",
+  "artist": "Microwave",
+  "lastFetched": "2025-12-03T11:57:55.776Z",
+  "odesli": {
+    "amazonMusic": "B0B4FFT27V",
+    "amazonStore": "B0B4FFT27V",
+    "pandora": "TR:89943500",
+    "soundcloud": "sideonedummy/lighterless",
+    "spotify": "2vz0FuZC8HrDEjxXSHODsZ",
+    "tidal": "234258813",
+    "youtube": "x8eTSOQCUbk",
+    "youtubeMusic": "x8eTSOQCUbk"
+  },
+  "lastfm": {
+    "id": "Microwave/_/Lighterless",
+    "listeners": 89443,
+    "playcount": 935992,
+    "title": "Lighterless",
+    "artist": "Microwave",
+    "mbid": "1f04a225-d05a-4e06-aedb-80b4c3a7fc4c",
+    "artistMbid": "c79032e6-f077-4cf7-9de3-ad29084a723e",
+    "tags": [
+      "emo",
+      "post-hardcore",
+      "alternative rock",
+      "atlanta"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9cae19bc-af07-427d-8f39-167b12b7a7a0",
+    "artistMbid": "c79032e6-f077-4cf7-9de3-ad29084a723e",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock",
+      "emo",
+      "indie rock",
+      "pop punk",
+      "post-hardcore",
+      "psychedelic rock",
+      "punk",
+      "rock"
+    ],
+    "releasedAt": "2016-09-30",
+    "externalIdsArtist": {
+      "allmusic": "mn0001231149",
+      "bandcamp": "https://microwavetheband.bandcamp.com/",
+      "discogs": "48263",
+      "spotify": "7ptm7G8z8VVvwBnDq8fAmD",
+      "deezer": "3107351",
+      "lastfm": "Microwave",
+      "youtube": "UCyoHhmvy10gBz9yDjU_Jsxg"
+    }
+  }
+}

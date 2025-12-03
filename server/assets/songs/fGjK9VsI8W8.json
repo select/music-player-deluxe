@@ -3,7 +3,7 @@
   "artist": "Conducta",
   "duration": 185,
   "youtubeId": "fGjK9VsI8W8",
-  "lastFetched": "2025-11-19T03:36:10.812Z",
+  "lastFetched": "2025-12-02T01:37:10.399Z",
   "odesli": {
     "amazonMusic": "B0C6B19RT3",
     "amazonStore": "B0C6B19RT3",
@@ -23,7 +23,17 @@
     ],
     "trackMbid": "003cc8d6-22bb-48fa-957e-716383787e47",
     "artistMbid": "8c9f8c4b-ab6b-42e4-aed0-e7a366c8eade",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-06-28",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://conducta.bandcamp.com/",
+      "discogs": "3481018",
+      "spotify": "1lMcg4Y7nW5hHgIVsN9Shn",
+      "deezer": "4776340",
+      "soundcloud": "https://soundcloud.com/Conducta",
+      "wikidata": "Q108530392"
+    }
   },
   "lastfm": {
     "id": "Conducta/_/Gold",

@@ -1,0 +1,71 @@
+{
+  "youtubeId": "5x5NCDYB1Lc",
+  "title": "Egg Man",
+  "artist": "Beastie Boys",
+  "lastFetched": "2025-12-03T12:00:52.737Z",
+  "odesli": {
+    "amazonMusic": "B001QSQLWQ",
+    "amazonStore": "B001QSQLWQ",
+    "soundcloud": "beastieboys/egg-man-2009-digital-remaster",
+    "spotify": "6vcf7sA7tsNiIeufH0FUFL",
+    "youtube": "5x5NCDYB1Lc",
+    "youtubeMusic": "5x5NCDYB1Lc"
+  },
+  "lastfm": {
+    "id": "Beastie+Boys/_/Egg+Man",
+    "listeners": 229492,
+    "playcount": 951501,
+    "title": "Egg Man",
+    "artist": "Beastie Boys",
+    "mbid": "0e1ead74-2a75-3645-9d53-fc0252dd516d",
+    "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
+    "tags": [
+      "hip-hop",
+      "rap",
+      "hip hop",
+      "beastie boys",
+      "old school"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "10c16cdc-3a08-4d80-9b7c-6826d4c4aaea",
+    "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
+    "releaseCount": 25,
+    "genres": [
+      "alternative hip hop",
+      "east coast hip hop",
+      "experimental hip hop",
+      "hardcore hip hop",
+      "hip hop"
+    ],
+    "artistGenres": [
+      "alternative hip hop",
+      "alternative rock",
+      "east coast hip hop",
+      "experimental hip hop",
+      "funk",
+      "hardcore hip hop",
+      "hardcore punk",
+      "hip hop",
+      "rap rock",
+      "rock"
+    ],
+    "releasedAt": "1989-07-25",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "6vcf7sA7tsNiIeufH0FUFL"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000038469",
+      "discogs": "10783",
+      "spotify": "03r4iKL2g2442PT9n2UKsx",
+      "deezer": "194746",
+      "lastfm": "Beastie+Boys",
+      "genius": "Beastie-boys",
+      "rateyourmusic": "beastie_boys",
+      "soundcloud": "https://soundcloud.com/beastieboys",
+      "qobuz": "43813",
+      "wikidata": "Q214039"
+    }
+  }
+}

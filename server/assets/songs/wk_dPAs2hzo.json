@@ -2,7 +2,7 @@
   "youtubeId": "wk_dPAs2hzo",
   "title": "Space",
   "artist": "Galt MacDermot",
-  "lastFetched": "2025-11-30T21:54:24.525Z",
+  "lastFetched": "2025-12-02T02:03:33.011Z",
   "odesli": {
     "amazonMusic": "B00104M058",
     "amazonStore": "B00104M058",
@@ -28,6 +28,16 @@
   "musicbrainz": {
     "trackMbid": "bdaae92c-8b3f-44a6-9b54-9d8e53baebf2",
     "artistMbid": "479e16b4-2b26-40d1-ba65-9ce5ea8ae6a6",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "1969",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000157874",
+      "discogs": "179056",
+      "spotify": "3b6TinIPahsS8iSCYAeinr",
+      "deezer": "2666",
+      "rateyourmusic": "galt_macdermot",
+      "wikidata": "Q1346345"
+    }
   }
 }

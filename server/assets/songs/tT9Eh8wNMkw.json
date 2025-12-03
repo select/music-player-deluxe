@@ -1,0 +1,47 @@
+{
+  "youtubeId": "tT9Eh8wNMkw",
+  "title": "Dave Brubeck - Take Five",
+  "lastFetched": "2025-12-03T12:03:18.538Z",
+  "ai": {
+    "title": "Take Five",
+    "artist": "Dave Brubeck"
+  },
+  "lastfm": {
+    "summary": "\"Take Five\" is a classic jazz piece first recorded by The Dave Brubeck Quartet and released on the 1959 album “Time Out”. It became the first million-selling jazz single on the Billboard Hot 100 charts in 1961, at a time when rock and roll was still in fashion.\n\n“Take Five” became Brubeck’s best known, and signature, tune. It was composed by Paul Desmond, the group's saxophonist and became famous for its distinctive, catchy saxophone melody and use of the unusual quintuple (5/4) time, from which its name is derived. <a href=\"http://www.last.fm/music/Dave+Brubeck/_/Take+Five\">Read more on Last.fm</a>.",
+    "id": "Dave+Brubeck/_/Take+Five",
+    "listeners": 462092,
+    "playcount": 2189487,
+    "title": "Take Five",
+    "artist": "Dave Brubeck",
+    "artistMbid": "de0222a6-e1c4-403d-8b01-3f66d505061b",
+    "tags": [
+      "jazz",
+      "cool jazz",
+      "instrumental",
+      "piano"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4c8300a0-c3b1-4cdf-8e29-fab81e6bd9b6",
+    "artistMbid": "de0222a6-e1c4-403d-8b01-3f66d505061b",
+    "releaseCount": 2,
+    "artistGenres": [
+      "classical",
+      "cool jazz",
+      "jazz",
+      "third stream"
+    ],
+    "releasedAt": "1999",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000958533",
+      "discogs": "37737",
+      "spotify": "3kUKwTJdH8FuWzF8p6Dg9E",
+      "deezer": "4080",
+      "lastfm": "Dave+Brubeck",
+      "rateyourmusic": "dave_brubeck",
+      "wikidata": "Q108597",
+      "youtube": "UCt9j7GVh_NwJjbnFcJItReA"
+    }
+  }
+}

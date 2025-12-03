@@ -2,7 +2,7 @@
   "youtubeId": "_zOTYHIr_MU",
   "title": "The Yum Factor",
   "artist": "Kaminanda",
-  "lastFetched": "2025-11-23T16:43:06.576Z",
+  "lastFetched": "2025-12-02T01:29:55.177Z",
   "odesli": {
     "amazonMusic": "B00773YV9E",
     "amazonStore": "B00773YV9E",
@@ -33,7 +33,20 @@
       "electronic"
     ],
     "trackMbid": "177a0c78-ae3f-48d0-8c8c-29dcb7715554",
-    "artistMbid": "0b382ebc-9813-4162-b856-b4eaa26883c7"
+    "artistMbid": "0b382ebc-9813-4162-b856-b4eaa26883c7",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0003676184",
+      "bandcamp": "https://kaminanda.bandcamp.com/",
+      "discogs": "840047",
+      "spotify": "0jczGxUB6EOlmuY7VbEtop",
+      "deezer": "1137740",
+      "lastfm": "Kaminanda",
+      "genius": "Kaminanda",
+      "rateyourmusic": "kaminanda",
+      "soundcloud": "https://soundcloud.com/kaminanda",
+      "youtube": "UCqCtfk0ncG_bdrxgr3v4HmQ"
+    }
   },
   "lastfm": {
     "id": "Kaminanda/_/The+Yum+Factor",

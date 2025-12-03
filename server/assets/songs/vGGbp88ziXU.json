@@ -2,7 +2,7 @@
   "youtubeId": "vGGbp88ziXU",
   "title": "Saraiman",
   "artist": "LADANIVA",
-  "lastFetched": "2025-11-30T22:06:00.528Z",
+  "lastFetched": "2025-12-02T02:01:13.959Z",
   "lastfm": {
     "id": "Ladaniva/_/Saraiman",
     "listeners": 2807,
@@ -24,6 +24,18 @@
     "releaseCount": 2,
     "artistGenres": [
       "folk pop"
-    ]
+    ],
+    "releasedAt": "2024-06-06",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0004376359",
+      "discogs": "8471856",
+      "spotify": "6nt7tWnBx4NqnXKO6vEByU",
+      "deezer": "88142012",
+      "rateyourmusic": "ladaniva",
+      "napster": "art.454994504",
+      "wikidata": "Q110818920",
+      "youtube": "UC08OoQiXFnOvOlD5iMErgHQ"
+    }
   }
 }

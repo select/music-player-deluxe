@@ -2,7 +2,7 @@
   "youtubeId": "mwHxpxGQ4N8",
   "title": "Stress",
   "artist": "Pino Daniele",
-  "lastFetched": "2025-11-23T16:48:59.630Z",
+  "lastFetched": "2025-12-02T01:48:40.391Z",
   "musicbrainz": {
     "artistTags": [
       "canzone napoletana",
@@ -21,7 +21,19 @@
       "singer-songwriter"
     ],
     "trackMbid": "1ccf4363-3eef-336c-8e30-dde2b6fe02bf",
-    "artistMbid": "5b1633c8-cb78-4d85-a7d1-a6d145d8d472"
+    "artistMbid": "5b1633c8-cb78-4d85-a7d1-a6d145d8d472",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000765696",
+      "discogs": "152754",
+      "spotify": "2eFv7NVs8R6Go7msuqikeg",
+      "deezer": "64816",
+      "lastfm": "Pino+Daniele",
+      "genius": "Pino-daniele",
+      "rateyourmusic": "pino_daniele",
+      "wikidata": "Q736851",
+      "youtube": "UCUQfSYwytFs_rHBrNV2liRw"
+    }
   },
   "lastfm": {
     "id": "Pino+Daniele/_/Stress",

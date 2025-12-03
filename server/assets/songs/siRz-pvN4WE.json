@@ -2,7 +2,7 @@
   "youtubeId": "siRz-pvN4WE",
   "title": "Don't Stay For Breakfast",
   "artist": "Ströer",
-  "lastFetched": "2025-11-30T22:50:49.452Z",
+  "lastFetched": "2025-12-02T01:57:53.614Z",
   "lastfm": {
     "title": "Don't Stay For Breakfast",
     "artist": "Ströer",
@@ -20,6 +20,12 @@
     "releaseCount": 1,
     "artistGenres": [
       "jazz"
-    ]
+    ],
+    "releasedAt": "1980",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "672879",
+      "wikidata": "Q1581729"
+    }
   }
 }

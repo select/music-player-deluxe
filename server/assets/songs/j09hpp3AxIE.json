@@ -1,7 +1,7 @@
 {
   "youtubeId": "j09hpp3AxIE",
   "title": "Die Toten Hosen // „Tage wie diese\" [Offizielles Musikvideo]",
-  "lastFetched": "2025-11-30T21:01:38.173Z",
+  "lastFetched": "2025-12-02T01:42:31.338Z",
   "ai": {
     "title": "Tage wie diese",
     "artist": "DIE TOTEN HOSEN"
@@ -39,6 +39,20 @@
       "pop rock",
       "punk",
       "punk rock"
-    ]
+    ],
+    "releasedAt": "2012-03-23",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000263577",
+      "discogs": "415916",
+      "spotify": "2F8GvYuY0lfZNYu45dY6gJ",
+      "deezer": "1497",
+      "lastfm": "Die+Toten+Hosen",
+      "genius": "Die-toten-hosen",
+      "rateyourmusic": "die_toten_hosen",
+      "soundcloud": "https://soundcloud.com/die-toten-hosen-official",
+      "wikidata": "Q32461",
+      "youtube": "UCDOMU7d2xhTF90FFzij3kgg"
+    }
   }
 }

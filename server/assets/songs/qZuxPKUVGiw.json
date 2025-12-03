@@ -3,7 +3,7 @@
   "artist": "N.W.A",
   "duration": 160,
   "youtubeId": "qZuxPKUVGiw",
-  "lastFetched": "2025-11-19T04:49:26.295Z",
+  "lastFetched": "2025-12-02T01:54:25.737Z",
   "musicbrainz": {
     "artistTags": [
       "gangsta rap",
@@ -12,7 +12,18 @@
     ],
     "trackMbid": "d47ba093-1061-45ef-b71f-1b45c07f8e48",
     "artistMbid": "3a54bffa-2314-44a2-927b-60144119c780",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "1996",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000314793",
+      "discogs": "13726",
+      "spotify": "4EnEZVjo3w1cwcQYePccay",
+      "deezer": "1004",
+      "lastfm": "N.W.A",
+      "rateyourmusic": "n_w_a",
+      "wikidata": "Q216856"
+    }
   },
   "lastfm": {
     "id": "N.W.A/_/Fuck+the+Police",

@@ -2,7 +2,7 @@
   "youtubeId": "rEuMAqfuCrI",
   "title": "Opus Brain",
   "artist": "Igorrr",
-  "lastFetched": "2025-11-23T16:51:02.251Z",
+  "lastFetched": "2025-12-02T01:55:29.042Z",
   "odesli": {
     "amazonMusic": "B06XXJK5M8",
     "amazonStore": "B06XXJK5M8",
@@ -39,7 +39,21 @@
       "death metal"
     ],
     "trackMbid": "802c861b-6b6f-4841-8722-7f93bb95f525",
-    "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73"
+    "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0002587287",
+      "bandcamp": "https://igorrr.bandcamp.com/",
+      "discogs": "1028023",
+      "spotify": "2p2uE4i92Dn4DkThfoKIB9",
+      "deezer": "1025520",
+      "lastfm": "Igorrr",
+      "genius": "Igorrr",
+      "rateyourmusic": "igorrr",
+      "soundcloud": "https://soundcloud.com/igorrr",
+      "wikidata": "Q2486120",
+      "youtube": "UC7gJRij98IY_nFfFDrld8yQ"
+    }
   },
   "lastfm": {
     "id": "Igorrr/_/Opus+Brain",

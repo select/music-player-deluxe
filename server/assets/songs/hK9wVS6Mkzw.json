@@ -2,7 +2,7 @@
   "youtubeId": "hK9wVS6Mkzw",
   "title": "Funrider",
   "artist": "The Great Machine",
-  "lastFetched": "2025-11-30T23:09:37.290Z",
+  "lastFetched": "2025-12-02T01:40:06.267Z",
   "odesli": {
     "amazonMusic": "B0C1RMTSP8",
     "amazonStore": "B0C1RMTSP8",
@@ -33,6 +33,12 @@
       "psychedelic rock",
       "rock",
       "stoner rock"
-    ]
+    ],
+    "releasedAt": "2023-04-28",
+    "externalIdsArtist": {
+      "bandcamp": "https://thegreatmachine1.bandcamp.com/",
+      "discogs": "4965611",
+      "soundcloud": "https://soundcloud.com/the-great-machine"
+    }
   }
 }

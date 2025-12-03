@@ -1,7 +1,7 @@
 {
   "youtubeId": "ozD4h9HCHOY",
   "title": "Rokia Traoré - Wanita",
-  "lastFetched": "2025-11-30T21:04:31.899Z",
+  "lastFetched": "2025-12-02T01:51:47.495Z",
   "ai": {
     "title": "Wanita",
     "artist": "Rokia Traoré"
@@ -26,6 +26,16 @@
     "releaseCount": 1,
     "artistGenres": [
       "folk"
-    ]
+    ],
+    "releasedAt": "2001",
+    "artistCountry": "ML",
+    "externalIdsArtist": {
+      "allmusic": "mn0000837328",
+      "discogs": "483553",
+      "deezer": "789",
+      "lastfm": "Rokia%20Traor%C3%A9",
+      "rateyourmusic": "rokia_traore",
+      "wikidata": "Q256065"
+    }
   }
 }

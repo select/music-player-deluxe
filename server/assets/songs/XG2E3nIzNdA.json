@@ -1,7 +1,7 @@
 {
   "youtubeId": "XG2E3nIzNdA",
   "title": "To The Highest Gods We Know - Colour Haze",
-  "lastFetched": "2025-12-01T11:49:17.016Z",
+  "lastFetched": "2025-12-02T01:23:49.843Z",
   "ai": {
     "title": "To The Highest Gods We Know",
     "artist": "Colour Haze"
@@ -33,6 +33,17 @@
       "jam band",
       "psychedelic rock",
       "stoner rock"
-    ]
+    ],
+    "releasedAt": "2014-12-15",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000719325",
+      "bandcamp": "https://colourhaze.bandcamp.com/",
+      "discogs": "581045",
+      "spotify": "5UzFfn3lNMWSm4PHCzBDi8",
+      "deezer": "328631",
+      "rateyourmusic": "colour_haze",
+      "wikidata": "Q883407"
+    }
   }
 }

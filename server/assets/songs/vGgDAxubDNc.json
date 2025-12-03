@@ -1,7 +1,7 @@
 {
   "youtubeId": "vGgDAxubDNc",
   "title": "Feel Something",
-  "lastFetched": "2025-11-30T20:42:07.986Z",
+  "lastFetched": "2025-12-02T02:01:15.998Z",
   "ai": {
     "title": "Feel Something",
     "artist": "Peverelist"
@@ -26,6 +26,17 @@
     "releaseCount": 1,
     "artistGenres": [
       "ambient dub"
-    ]
+    ],
+    "releasedAt": "2025-07-18",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "3z3VH8TccBt3VPJCGypO1q",
+      "deezer": "3346997871"
+    },
+    "externalIdsArtist": {
+      "discogs": "748051",
+      "spotify": "0UrA452V5vJpCW5ezx0YMP",
+      "deezer": "181015"
+    }
   }
 }

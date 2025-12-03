@@ -2,7 +2,7 @@
   "youtubeId": "V6nbFZtxAL4",
   "title": "Bullets",
   "artist": "Archive",
-  "lastFetched": "2025-11-23T16:40:42.425Z",
+  "lastFetched": "2025-12-02T01:20:39.890Z",
   "odesli": {
     "amazonMusic": "B07BNT5ZCB",
     "amazonStore": "B07BNT5ZCB",
@@ -44,7 +44,24 @@
       "electronic"
     ],
     "trackMbid": "a68cf408-feb3-4487-b399-67eb679dbed8",
-    "artistMbid": "bd513de0-e42f-425e-ae46-817d7bc5fb1c"
+    "artistMbid": "bd513de0-e42f-425e-ae46-817d7bc5fb1c",
+    "releasedAt": "2009-03-27",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "7E8jwM39O9GiSU0rfoNbBt",
+      "deezer": "624061662"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000503309",
+      "discogs": "11453",
+      "spotify": "1Q776wzj2mrtXrNu3iH6nk",
+      "deezer": "1334",
+      "lastfm": "Archive",
+      "genius": "Archive",
+      "rateyourmusic": "archive",
+      "soundcloud": "https://soundcloud.com/archiveofficial",
+      "wikidata": "Q635772"
+    }
   },
   "lastfm": {
     "id": "Archive/_/Bullets",

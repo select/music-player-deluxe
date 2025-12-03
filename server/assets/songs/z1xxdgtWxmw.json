@@ -3,7 +3,7 @@
   "artist": "Getdown Services",
   "duration": 255,
   "youtubeId": "z1xxdgtWxmw",
-  "lastFetched": "2025-11-19T03:43:19.361Z",
+  "lastFetched": "2025-12-02T02:07:27.671Z",
   "odesli": {
     "amazonMusic": "B0DHRWDKM7",
     "amazonStore": "B0DHRWDKM7",
@@ -20,7 +20,17 @@
     ],
     "trackMbid": "e53221fd-a6f0-4ca0-ae1e-32722fb8f92e",
     "artistMbid": "ca57dd61-590f-4605-85ec-72e947a6148b",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2024-11-01",
+    "externalIdsArtist": {
+      "bandcamp": "https://getdownservices.bandcamp.com/",
+      "discogs": "13888912",
+      "spotify": "4OTD2AbOu5iBqSWk3NfwG5",
+      "deezer": "118628202",
+      "soundcloud": "https://soundcloud.com/getdownservices-music",
+      "napster": "art.750173921",
+      "wikidata": "Q130734538"
+    }
   },
   "lastfm": {
     "id": "Getdown+Services/_/Dog+Dribble",

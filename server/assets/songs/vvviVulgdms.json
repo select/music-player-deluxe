@@ -2,7 +2,7 @@
   "youtubeId": "vvviVulgdms",
   "title": "Diamonds",
   "artist": "Rihanna",
-  "lastFetched": "2025-11-30T21:48:25.943Z",
+  "lastFetched": "2025-12-02T02:02:25.671Z",
   "odesli": {
     "audiomack": "9777114",
     "soundcloud": "sagitariusadhi/any-given-day-diamonds-rihanna-metal-cover",
@@ -52,6 +52,26 @@
       "pop soul",
       "r&b",
       "reggae"
-    ]
+    ],
+    "releasedAt": "2012-09-27",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "7Kt59L2ZZGtOnIhvMwzG6f",
+      "deezer": "79419945"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002947871",
+      "discogs": "321128",
+      "spotify": "5pKCCKE2ajJHZ9KAiaK11H",
+      "deezer": "564",
+      "lastfm": "Rihanna",
+      "genius": "Rihanna",
+      "rateyourmusic": "rihanna",
+      "soundcloud": "https://soundcloud.com/rihanna",
+      "qobuz": "36240",
+      "napster": "art.7375005",
+      "wikidata": "Q36844",
+      "youtube": "UCvWtix2TtWGe9kffqnwdaMw"
+    }
   }
 }

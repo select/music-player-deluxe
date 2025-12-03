@@ -2,7 +2,7 @@
   "youtubeId": "x1JrRwKeAP4",
   "title": "If I Was",
   "artist": "Midge Ure",
-  "lastFetched": "2025-11-30T21:55:11.236Z",
+  "lastFetched": "2025-12-02T02:03:52.683Z",
   "odesli": {
     "amazonMusic": "B0B3SF2L18",
     "amazonStore": "B0B3SF2L18",
@@ -43,6 +43,19 @@
       "pop rock",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "1992",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000479687",
+      "bandcamp": "https://midgeure.bandcamp.com/",
+      "discogs": "72881",
+      "spotify": "2N4isf5pypyuDVpBofqEN8",
+      "deezer": "4659",
+      "lastfm": "Midge+Ure",
+      "genius": "Midge-ure",
+      "rateyourmusic": "midge_ure",
+      "wikidata": "Q355382"
+    }
   }
 }

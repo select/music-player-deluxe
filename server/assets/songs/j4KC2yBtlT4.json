@@ -2,7 +2,7 @@
   "youtubeId": "j4KC2yBtlT4",
   "title": "Shallow Love",
   "artist": "LARI LUKE",
-  "lastFetched": "2025-11-30T22:07:20.880Z",
+  "lastFetched": "2025-12-02T01:42:36.325Z",
   "odesli": {
     "amazonMusic": "B0CRRY57RP",
     "amazonStore": "B0CRRY57RP",
@@ -36,6 +36,14 @@
       "bass house",
       "electro",
       "trap"
-    ]
+    ],
+    "releasedAt": "2024-02-02",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "7633587",
+      "spotify": "4CTjrUu7zgqHjGDjFKYTAm",
+      "soundcloud": "https://soundcloud.com/lariluke",
+      "wikidata": "Q27831966"
+    }
   }
 }

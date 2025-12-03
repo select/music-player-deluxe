@@ -3,14 +3,29 @@
   "artist": "Underworld",
   "duration": 217,
   "youtubeId": "iTFrCbQGyvM",
-  "lastFetched": "2025-11-19T04:14:50.603Z",
+  "lastFetched": "2025-12-02T01:41:41.878Z",
   "musicbrainz": {
     "tags": [
       "experimental"
     ],
     "trackMbid": "45fabc47-00b9-420c-a311-cbac93f95301",
     "artistMbid": "ba2f4f3b-0293-4bc8-bb94-2f73b5207343",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1996-08-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000807949",
+      "bandcamp": "https://underworld.bandcamp.com/",
+      "discogs": "1280",
+      "spotify": "1PXHzxRDiLnjqNrRn2Xbsa",
+      "deezer": "276",
+      "lastfm": "Underworld",
+      "genius": "Underworld",
+      "rateyourmusic": "underworld",
+      "soundcloud": "https://soundcloud.com/underworld",
+      "wikidata": "Q849429",
+      "youtube": "UCL2yEhXEN6umpyZYJhX4e7g"
+    }
   },
   "lastfm": {
     "id": "Underworld/_/Born+Slippy",

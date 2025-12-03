@@ -2,7 +2,7 @@
   "youtubeId": "bp9YVQcOjgo",
   "title": "Sanson Ki Mala Pe",
   "artist": "Nusrat Fateh Ali Khan",
-  "lastFetched": "2025-11-23T16:43:54.691Z",
+  "lastFetched": "2025-12-02T01:32:21.651Z",
   "musicbrainz": {
     "artistTags": [
       "ascetic",
@@ -22,7 +22,19 @@
       "qawwali"
     ],
     "trackMbid": "0fce275b-6461-48bc-829c-8e64a7784237",
-    "artistMbid": "5968383c-11c1-4c5b-ada0-504a38cec8e7"
+    "artistMbid": "5968383c-11c1-4c5b-ada0-504a38cec8e7",
+    "artistCountry": "PK",
+    "externalIdsArtist": {
+      "allmusic": "mn0000887719",
+      "bandcamp": "https://nusratfatehalikhan.bandcamp.com/",
+      "discogs": "12822",
+      "spotify": "5HcunTidTUrOaf8V0iJcvl",
+      "deezer": "2907",
+      "lastfm": "Nusrat+Fateh+Ali+Khan",
+      "genius": "Nusrat-fateh-ali-khan",
+      "rateyourmusic": "nusrat_fateh_ali_khan",
+      "wikidata": "Q299073"
+    }
   },
   "lastfm": {
     "id": "Nusrat+Fateh+Ali+Khan/_/Sanson+Ki+Mala+Pe",

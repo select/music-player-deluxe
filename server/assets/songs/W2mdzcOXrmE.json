@@ -1,7 +1,7 @@
 {
   "youtubeId": "W2mdzcOXrmE",
   "title": "Bender · Isolate",
-  "lastFetched": "2025-11-30T20:49:17.396Z",
+  "lastFetched": "2025-12-02T01:21:52.369Z",
   "ai": {
     "title": "Isolate",
     "artist": "Bender"
@@ -21,6 +21,11 @@
   "musicbrainz": {
     "trackMbid": "8345e941-db56-450b-b5ee-d4dbae38b8b9",
     "artistMbid": "ca5701a9-6ca5-4c19-bc7f-7ad44faa50e0",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1998",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "wikidata": "Q4887042"
+    }
   }
 }

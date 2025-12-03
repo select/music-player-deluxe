@@ -2,7 +2,7 @@
   "youtubeId": "s4ABpbxIPFI",
   "title": "Electric Worry",
   "artist": "Clutch",
-  "lastFetched": "2025-11-30T20:24:02.300Z",
+  "lastFetched": "2025-12-02T01:57:02.730Z",
   "odesli": {
     "amazonMusic": "B00LS9MUMI",
     "amazonStore": "B00LS9MUMI",
@@ -36,6 +36,20 @@
       "hard rock",
       "rock",
       "stoner rock"
-    ]
+    ],
+    "releasedAt": "2008-11-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000154417",
+      "bandcamp": "https://clutchband.bandcamp.com/",
+      "discogs": "289116",
+      "spotify": "161AC1AVRkIGIMxyj5djFQ",
+      "deezer": "5505",
+      "lastfm": "Clutch",
+      "genius": "Clutch",
+      "rateyourmusic": "clutch",
+      "wikidata": "Q578376",
+      "youtube": "UChFx-3fX89Bl9GeAqOdCwxQ"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "YIhV69a0bPc",
   "title": "Miss Viki",
   "artist": "Stanley Cowell Trio",
-  "lastFetched": "2025-12-01T13:02:31.985Z",
+  "lastFetched": "2025-12-02T01:25:44.220Z",
   "odesli": {
     "amazonMusic": "B004MZJOCO",
     "amazonStore": "B004MZJOCO",
@@ -42,6 +42,13 @@
     ],
     "artistGenres": [
       "jazz"
-    ]
+    ],
+    "releasedAt": "1973",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000745061",
+      "discogs": "364476",
+      "lastfm": "Stanley%20Cowell%20Trio"
+    }
   }
 }

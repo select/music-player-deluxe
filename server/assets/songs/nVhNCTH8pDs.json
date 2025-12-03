@@ -4,7 +4,7 @@
   "album": "Miami Bell ’94",
   "duration": 314,
   "youtubeId": "nVhNCTH8pDs",
-  "lastFetched": "2025-11-23T16:49:16.578Z",
+  "lastFetched": "2025-12-02T01:49:19.153Z",
   "odesli": {
     "amazonMusic": "B019HNVM9S",
     "amazonStore": "B019HNVM9S",
@@ -44,7 +44,20 @@
       "experimental rock"
     ],
     "trackMbid": "4f0e8542-3fdb-40e1-a0e6-da26434653e2",
-    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47"
+    "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
+    "releasedAt": "1994",
+    "externalIdsArtist": {
+      "allmusic": "mn0000346336",
+      "discogs": "45467",
+      "spotify": "0k17h0D3J5VfsdmQ1iZtE9",
+      "deezer": "860",
+      "lastfm": "Pink+Floyd",
+      "genius": "Pink-floyd",
+      "rateyourmusic": "pink-floyd",
+      "soundcloud": "https://soundcloud.com/officialpinkfloyd",
+      "wikidata": "Q2306",
+      "youtube": "UCO6LS_5W7vqG9mALDNzSFug"
+    }
   },
   "lastfm": {
     "id": "Pink+Floyd/_/Learning+to+Fly",

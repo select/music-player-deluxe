@@ -2,7 +2,7 @@
   "youtubeId": "iw1ytlL8YVA",
   "title": "Doom mich auch",
   "artist": "Tschaika 21/16",
-  "lastFetched": "2025-11-30T20:36:03.081Z",
+  "lastFetched": "2025-12-02T01:42:25.367Z",
   "odesli": {
     "amazonMusic": "B01M4P6TMD",
     "amazonStore": "B01M4P6TMD",
@@ -26,6 +26,10 @@
   "musicbrainz": {
     "trackMbid": "4b3a2c27-7cd1-4fd2-bbca-804bc9a8ef23",
     "artistMbid": "4e02b238-6c0f-4ac4-b57b-6a32fca29f49",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2016-11-11",
+    "externalIdsArtist": {
+      "discogs": "4972910"
+    }
   }
 }

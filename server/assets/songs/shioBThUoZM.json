@@ -2,7 +2,7 @@
   "youtubeId": "shioBThUoZM",
   "title": "Light For The Deadvine",
   "artist": "People In Planes",
-  "lastFetched": "2025-11-30T21:38:04.027Z",
+  "lastFetched": "2025-12-02T01:57:51.411Z",
   "odesli": {
     "amazonMusic": "B00KX58RGG",
     "amazonStore": "B00KX58RGG",
@@ -34,6 +34,17 @@
   "musicbrainz": {
     "trackMbid": "7965f50e-bd90-4bb6-94e5-ef188fcfacfe",
     "artistMbid": "6f34f90d-8b30-4b98-896a-423cf760fed0",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2006-01-01",
+    "externalIdsArtist": {
+      "allmusic": "mn0000848645",
+      "discogs": "595671",
+      "spotify": "0xTNdlDmxYw4nebrj7ouxk",
+      "deezer": "9171",
+      "lastfm": "People+In+Planes",
+      "rateyourmusic": "people_in_planes",
+      "soundcloud": "https://soundcloud.com/people-in-planes",
+      "wikidata": "Q7165954"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "tMWfpekfAms",
   "title": "Shining",
   "artist": "Peace Orchestra",
-  "lastFetched": "2025-11-30T22:32:22.357Z",
+  "lastFetched": "2025-12-02T01:58:59.585Z",
   "odesli": {
     "amazonMusic": "B07L5PVN7V",
     "amazonStore": "B07L5PVN7V",
@@ -37,6 +37,16 @@
       "electronic",
       "nu jazz",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2010-04-16",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000031760",
+      "discogs": "7570",
+      "deezer": "2243",
+      "lastfm": "Peace%20Orchestra",
+      "rateyourmusic": "peace_orchestra",
+      "wikidata": "Q695393"
+    }
   }
 }

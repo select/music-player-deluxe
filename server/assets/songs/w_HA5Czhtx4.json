@@ -2,7 +2,7 @@
   "title": "Cornflake Girl",
   "artist": "Tori Amos",
   "youtubeId": "w_HA5Czhtx4",
-  "lastFetched": "2025-11-19T04:48:55.960Z",
+  "lastFetched": "2025-12-02T02:03:22.166Z",
   "odesli": {
     "amazonMusic": "B002MHGBAW",
     "amazonStore": "B002MHGBAW",
@@ -41,7 +41,20 @@
     ],
     "trackMbid": "b94f801d-8a95-4dc9-bd65-322b079bb174",
     "artistMbid": "c0b2500e-0cef-4130-869d-732b23ed9df5",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000792530",
+      "discogs": "9902",
+      "spotify": "1KsASRNugxU85T0u6zSg32",
+      "deezer": "854",
+      "lastfm": "Tori+Amos",
+      "genius": "Tori-amos",
+      "rateyourmusic": "tori-amos",
+      "soundcloud": "https://soundcloud.com/tori-amos-official",
+      "wikidata": "Q193744",
+      "youtube": "UCIgQ_8rulGwokbAu6QOxCGQ"
+    }
   },
   "lastfm": {
     "id": "Tori+Amos/_/Cornflake+Girl",

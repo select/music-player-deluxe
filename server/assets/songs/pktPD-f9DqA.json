@@ -2,7 +2,7 @@
   "youtubeId": "pktPD-f9DqA",
   "title": "Howling Around My Happy Home",
   "artist": "Daniel Norgren",
-  "lastFetched": "2025-11-30T19:27:31.232Z",
+  "lastFetched": "2025-12-02T01:53:09.963Z",
   "odesli": {
     "amazonMusic": "B075MWJG5W",
     "amazonStore": "B075MWJG5W",
@@ -32,6 +32,15 @@
   "musicbrainz": {
     "trackMbid": "d1e19ac4-0915-433e-a81a-60697b7e9bdb",
     "artistMbid": "c8a26e97-e5f5-4f1c-8eb3-e2453b6cf262",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2013-03-01",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "bandcamp": "https://danielnorgren.bandcamp.com/",
+      "discogs": "1607171",
+      "deezer": "1684317",
+      "lastfm": "Daniel+Norgren",
+      "wikidata": "Q5218273"
+    }
   }
 }

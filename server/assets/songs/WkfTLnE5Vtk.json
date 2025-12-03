@@ -2,7 +2,7 @@
   "youtubeId": "WkfTLnE5Vtk",
   "title": "The Ghetto",
   "artist": "Donny Hathaway",
-  "lastFetched": "2025-11-30T23:18:57.935Z",
+  "lastFetched": "2025-12-02T01:23:05.820Z",
   "lastfm": {
     "id": "Donny+Hathaway/_/The+Ghetto",
     "listeners": 185823,
@@ -21,6 +21,17 @@
     "releaseCount": 2,
     "artistGenres": [
       "soul"
-    ]
+    ],
+    "releasedAt": "1996-06-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000182360",
+      "discogs": "9746",
+      "spotify": "0HU0U9kdXEHZVxUNbuQe8S",
+      "deezer": "4613",
+      "genius": "Donny-hathaway",
+      "rateyourmusic": "donny_hathaway",
+      "wikidata": "Q507864"
+    }
   }
 }

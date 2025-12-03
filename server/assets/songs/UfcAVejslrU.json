@@ -1,0 +1,64 @@
+{
+  "youtubeId": "UfcAVejslrU",
+  "title": "Weightless",
+  "artist": "Marconi Union",
+  "lastFetched": "2025-12-03T11:55:22.649Z",
+  "odesli": {
+    "amazonMusic": "B09WH22DGM",
+    "amazonStore": "B09WH22DGM",
+    "audius": "pjXGJv5",
+    "anghami": "1047418247",
+    "boomplay": "87046511",
+    "deezer": "83240440",
+    "pandora": "TR:2808167",
+    "soundcloud": "justmusiclabel/weightless-marconi-union",
+    "spotify": "6kkwzB6hXLIONkEk9JciA6",
+    "tidal": "68418357",
+    "yandex": "5567294",
+    "youtube": "UfcAVejslrU",
+    "youtubeMusic": "UfcAVejslrU"
+  },
+  "lastfm": {
+    "summary": "Sound therapists and stress specialists worked with the band Marconi Union to develop “Weightless”, the most relaxing song ever:\n\nWeightless works by using specific rhythms, tones, frequencies and intervals to relax the listener. A continuous rhythm of 60 BPM causes the brainwaves and heart rate to synchronise with the rhythm: a process known as ‘entrainment’. Low underlying bass tones relax the listener and a low whooshing sound with a trance-like quality takes the listener into an even deeper state of calm. <a href=\"http://www.last.fm/music/Marconi+Union/_/Weightless\">Read more on Last.fm</a>.",
+    "id": "Marconi+Union/_/Weightless",
+    "listeners": 145227,
+    "playcount": 1825459,
+    "title": "Weightless",
+    "artist": "Marconi Union",
+    "mbid": "78001811-9c65-4048-85d9-183907cea303",
+    "artistMbid": "3f9b5837-ed1c-413e-bfef-ca4f892dcc59",
+    "tags": [
+      "deepspaceone"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1ec6389d-ea30-4989-bd97-7bf142fb88d9",
+    "artistMbid": "3f9b5837-ed1c-413e-bfef-ca4f892dcc59",
+    "releaseCount": 4,
+    "genres": [
+      "ambient",
+      "electronic"
+    ],
+    "artistGenres": [
+      "ambient",
+      "ambient techno",
+      "downtempo",
+      "electronic",
+      "minimal techno",
+      "post-rock"
+    ],
+    "releasedAt": "2012-10-29",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000419197",
+      "bandcamp": "https://marconiunion.bandcamp.com/",
+      "discogs": "200004",
+      "spotify": "3nZ3ed6p4CKc1McTLypr6H",
+      "deezer": "1242386",
+      "lastfm": "Marconi+Union",
+      "rateyourmusic": "marconi_union",
+      "soundcloud": "https://soundcloud.com/marconiunion",
+      "wikidata": "Q6757798"
+    }
+  }
+}

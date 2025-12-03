@@ -2,7 +2,7 @@
   "youtubeId": "w7D-OQHIfqU",
   "title": "Hard to Handle",
   "artist": "Otis Redding",
-  "lastFetched": "2025-11-30T23:41:50.414Z",
+  "lastFetched": "2025-12-02T02:02:42.949Z",
   "odesli": {
     "amazonMusic": "B07VZW4YS3",
     "amazonStore": "B07VZW4YS3",
@@ -46,6 +46,18 @@
       "r&b",
       "soul",
       "southern soul"
-    ]
+    ],
+    "releasedAt": "2015-09-17",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000414251",
+      "discogs": "132136",
+      "spotify": "60df5JBRRPcnSpsIMxxwQm",
+      "deezer": "2945",
+      "lastfm": "Otis+Redding",
+      "rateyourmusic": "otis_redding",
+      "soundcloud": "https://soundcloud.com/otisredding",
+      "wikidata": "Q217839"
+    }
   }
 }

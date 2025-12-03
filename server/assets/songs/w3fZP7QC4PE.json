@@ -2,7 +2,7 @@
   "youtubeId": "w3fZP7QC4PE",
   "title": "U.R.A Fever",
   "artist": "The Kills",
-  "lastFetched": "2025-11-30T20:15:51.103Z",
+  "lastFetched": "2025-12-02T02:02:32.528Z",
   "odesli": {
     "amazonMusic": "B073MSR8WS",
     "amazonStore": "B073MSR8WS",
@@ -42,6 +42,18 @@
       "garage rock revival",
       "indie rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2008-02-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000099508",
+      "discogs": "202601",
+      "spotify": "5BYuBzqmTXwUDw2rYkwExr",
+      "deezer": "1068",
+      "lastfm": "The+Kills",
+      "rateyourmusic": "the_kills",
+      "youtube": "UC3PZfrCBgOirrMAYDSFlFQA",
+      "wikidata": "Q959681"
+    }
   }
 }

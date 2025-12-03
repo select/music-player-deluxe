@@ -2,7 +2,7 @@
   "youtubeId": "baECB_c2VBI",
   "title": "The Good, the Bad and the Ugly",
   "artist": "Ennio Morricone",
-  "lastFetched": "2025-11-23T16:43:47.544Z",
+  "lastFetched": "2025-12-02T01:32:02.199Z",
   "musicbrainz": {
     "artistTags": [
       "absolute music",
@@ -24,7 +24,22 @@
       "modern classical"
     ],
     "trackMbid": "a07d04ed-ba7e-4dca-9e6b-c4e8f3ad9590",
-    "artistMbid": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd"
+    "artistMbid": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd",
+    "releasedAt": "1992-11-13",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000798662",
+      "bandcamp": "https://enniomorricone.bandcamp.com/",
+      "discogs": "1974469",
+      "spotify": "1nIUhcKHnK6iyumRyoV68C",
+      "deezer": "1536",
+      "lastfm": "Ennio+Morricone",
+      "genius": "Ennio-morricone",
+      "rateyourmusic": "ennio-morricone",
+      "soundcloud": "https://soundcloud.com/ennio-morricone",
+      "wikidata": "Q23848",
+      "youtube": "UCUAwOBo-ZZ8S8cIH0SGoXpg"
+    }
   },
   "lastfm": {
     "id": "Ennio+Morricone/_/The+Good,+the+Bad+and+the+Ugly",

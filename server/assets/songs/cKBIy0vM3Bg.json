@@ -2,7 +2,7 @@
   "youtubeId": "cKBIy0vM3Bg",
   "title": "Sky",
   "artist": "Intara",
-  "lastFetched": "2025-12-01T13:00:25.423Z",
+  "lastFetched": "2025-12-02T01:33:17.247Z",
   "odesli": {
     "amazonMusic": "B07J52SXVG",
     "amazonStore": "B07J52SXVG",
@@ -32,6 +32,12 @@
   "musicbrainz": {
     "trackMbid": "fa05ef1d-edab-464e-b389-baf1049f83d7",
     "artistMbid": "a989f7a0-8f57-45f0-9bce-a66b7ef2c576",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2018-11-02",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "9145312",
+      "soundcloud": "https://soundcloud.com/intara-music"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ghAYvOExtC4",
   "title": "Real",
   "artist": "Perel",
-  "lastFetched": "2025-11-30T23:28:14.641Z",
+  "lastFetched": "2025-12-02T01:38:58.865Z",
   "odesli": {
     "amazonMusic": "B09Q3FMXJ2",
     "amazonStore": "B09Q3FMXJ2",
@@ -24,6 +24,15 @@
   "musicbrainz": {
     "trackMbid": "537aefcd-6075-4cd2-8f75-fd791c101099",
     "artistMbid": "b07632f8-eb18-4a32-9dfd-c398412ab6b4",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-05-13",
+    "externalIdsArtist": {
+      "bandcamp": "https://perelmusic.bandcamp.com/",
+      "discogs": "4105899",
+      "spotify": "5cmqnZNaNDqgcsTOkQUmqB",
+      "deezer": "6923231",
+      "rateyourmusic": "perel",
+      "soundcloud": "https://soundcloud.com/perel-music"
+    }
   }
 }

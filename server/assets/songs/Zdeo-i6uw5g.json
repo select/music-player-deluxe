@@ -2,7 +2,7 @@
   "youtubeId": "Zdeo-i6uw5g",
   "title": "Don't Tell Me How To Live",
   "artist": "Kid Rock",
-  "lastFetched": "2025-11-23T16:42:20.936Z",
+  "lastFetched": "2025-12-02T01:27:54.075Z",
   "odesli": {
     "amazonMusic": "B09L5DSFK8",
     "amazonStore": "B09L5DSFK8",
@@ -39,7 +39,19 @@
       "rap metal"
     ],
     "trackMbid": "eaea4669-4454-403e-83e2-39d58eb5a0ce",
-    "artistMbid": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e"
+    "artistMbid": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e",
+    "releasedAt": "2021-11-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000088180",
+      "discogs": "672861",
+      "spotify": "7dOBabd5O4CvKrg4iriHTM",
+      "deezer": "1534",
+      "genius": "Kid-rock",
+      "rateyourmusic": "kid_rock",
+      "wikidata": "Q158175",
+      "youtube": "UCjwhEPNX5rsU6gl_8qZMQZg"
+    }
   },
   "lastfm": {
     "id": "Kid+Rock/_/Don%27t+Tell+Me+How+To+Live",

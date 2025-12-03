@@ -2,7 +2,7 @@
   "youtubeId": "eZQyVUTcpM4",
   "title": "Keep the Faith",
   "artist": "Bon Jovi",
-  "lastFetched": "2025-11-30T23:02:31.405Z",
+  "lastFetched": "2025-12-02T01:36:16.944Z",
   "odesli": {
     "amazonMusic": "B000V64UCM",
     "amazonStore": "B000V64UCM",
@@ -41,6 +41,20 @@
       "heartland rock",
       "pop rock",
       "rock"
-    ]
+    ],
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000069534",
+      "discogs": "124541",
+      "spotify": "58lV9VcRSjABbAbfWS6skp",
+      "deezer": "637",
+      "lastfm": "Bon+Jovi",
+      "genius": "Bon-jovi",
+      "rateyourmusic": "bon_jovi",
+      "soundcloud": "https://soundcloud.com/bon-jovi-com",
+      "napster": "bon-jovi",
+      "wikidata": "Q259254",
+      "youtube": "UCCL-yoaPLR-7bxZM1xlcQcQ"
+    }
   }
 }

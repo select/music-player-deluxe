@@ -2,7 +2,7 @@
   "youtubeId": "nspqYGz-Z1s",
   "title": "All Night Long",
   "artist": "Jacob Collier",
-  "lastFetched": "2025-11-23T16:49:28.575Z",
+  "lastFetched": "2025-12-02T01:50:07.964Z",
   "odesli": {
     "amazonMusic": "B07JQ39FGL",
     "amazonStore": "B07JQ39FGL",
@@ -42,7 +42,22 @@
       "electronic"
     ],
     "trackMbid": "882a71e8-2069-4445-a143-6acad0c79b62",
-    "artistMbid": "1df15ee0-b52b-4315-9cb9-bc5a27a685e9"
+    "artistMbid": "1df15ee0-b52b-4315-9cb9-bc5a27a685e9",
+    "releasedAt": "2018",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003449375",
+      "bandcamp": "https://jacobcollier.bandcamp.com/",
+      "discogs": "4674871",
+      "spotify": "0QWrMNukfcVOmgEU0FEDyD",
+      "deezer": "6563333",
+      "lastfm": "Jacob+Collier",
+      "genius": "Jacob-collier",
+      "rateyourmusic": "jacob-collier",
+      "soundcloud": "https://soundcloud.com/jacobcollier",
+      "wikidata": "Q24900882",
+      "youtube": "UCtmY49Zn4l0RMJnTWfV7Wsg"
+    }
   },
   "lastfm": {
     "id": "Jacob+Collier/_/All+Night+Long",

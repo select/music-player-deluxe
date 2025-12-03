@@ -1,0 +1,51 @@
+{
+  "youtubeId": "t_s6waEUTbI",
+  "title": "die ärzte - Ein Lied für Jetzt (Offizielles Video)",
+  "lastFetched": "2025-12-03T11:48:52.705Z",
+  "ai": {
+    "title": "Ein Lied für Jetzt",
+    "artist": "die ärzte"
+  },
+  "lastfm": {
+    "id": "Die+%C3%84rzte/_/Ein+Lied+f%C3%BCr+Jetzt",
+    "listeners": 6216,
+    "playcount": 24338,
+    "title": "Ein Lied für Jetzt",
+    "artist": "Die Ärzte",
+    "mbid": "24a8a2e4-182f-4d60-8fc2-a45c191ea54a",
+    "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
+    "tags": [
+      "punk rock",
+      "german",
+      "punk",
+      "rock",
+      "deutschrock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4c0f67b6-62f4-4d1c-a00f-19f9fb719bef",
+    "artistMbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
+    "releaseCount": 3,
+    "artistGenres": [
+      "neue deutsche welle",
+      "pop punk",
+      "punk",
+      "punk rock",
+      "rock"
+    ],
+    "releasedAt": "2020-03-26",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000823202",
+      "discogs": "45317",
+      "spotify": "0cbL6CYnRqpAxf1evwUVQD",
+      "deezer": "2154",
+      "lastfm": "Die+%C3%84rzte",
+      "genius": "Die-arzte",
+      "rateyourmusic": "die_arzte",
+      "soundcloud": "https://soundcloud.com/diearzte",
+      "wikidata": "Q32645",
+      "youtube": "UCsJsxj9pPP8sZuaRiaNAavQ"
+    }
+  }
+}

@@ -3,7 +3,7 @@
   "artist": "Donato Dozzy",
   "duration": 535,
   "youtubeId": "o9YezPSmFpQ",
-  "lastFetched": "2025-11-19T04:18:53.918Z",
+  "lastFetched": "2025-12-02T01:50:31.438Z",
   "odesli": {
     "amazonMusic": "B0DYWJBPLD",
     "amazonStore": "B0DYWJBPLD",
@@ -24,6 +24,16 @@
   "musicbrainz": {
     "trackMbid": "53a6c900-b84d-46a6-8439-9e790546c8b7",
     "artistMbid": "4a2a0d6b-d871-400b-8d61-bf544854bdf6",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2013-08",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "bandcamp": "https://dozz.bandcamp.com/",
+      "discogs": "984791",
+      "spotify": "2LmP2eHIAmprDBQfi4jiBC",
+      "deezer": "189717",
+      "rateyourmusic": "donato-dozzy",
+      "soundcloud": "https://soundcloud.com/donato-dozzy"
+    }
   }
 }

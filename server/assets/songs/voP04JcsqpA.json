@@ -2,7 +2,7 @@
   "youtubeId": "voP04JcsqpA",
   "title": "Manifest",
   "artist": "Mefjus",
-  "lastFetched": "2025-11-23T16:53:04.295Z",
+  "lastFetched": "2025-12-02T02:02:08.201Z",
   "musicbrainz": {
     "artistTags": [
       "drum and bass",
@@ -17,7 +17,18 @@
       "neurofunk"
     ],
     "trackMbid": "572e73b7-e359-4671-bb8a-76b2d5ff85ee",
-    "artistMbid": "1a7e9da1-f1df-43e9-b1aa-e9d4c2abcfce"
+    "artistMbid": "1a7e9da1-f1df-43e9-b1aa-e9d4c2abcfce",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0002801092",
+      "bandcamp": "https://mefjuscritical.bandcamp.com/",
+      "discogs": "2656928",
+      "spotify": "54qqaSH6byJIb8eFWxe3Pj",
+      "deezer": "982836",
+      "soundcloud": "https://soundcloud.com/mefjus",
+      "wikidata": "Q21033832",
+      "youtube": "UCdk2pyE0YyFoudQhMcrYt1A"
+    }
   },
   "lastfm": {
     "id": "Mefjus/_/Manifest",

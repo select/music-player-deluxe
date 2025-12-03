@@ -2,7 +2,7 @@
   "youtubeId": "lbb316gp78A",
   "title": "Between the Buttons",
   "artist": "French 79",
-  "lastFetched": "2025-11-23T16:48:16.578Z",
+  "lastFetched": "2025-12-02T01:46:39.757Z",
   "odesli": {
     "amazonMusic": "B0F6V7Q1FX",
     "amazonStore": "B0F6V7Q1FX",
@@ -35,7 +35,18 @@
       "synth-pop"
     ],
     "trackMbid": "4f136ae7-1c74-4a17-9df2-2b85f51fd2c4",
-    "artistMbid": "b4bf3785-04d5-4cd3-94d9-86f3b43e2904"
+    "artistMbid": "b4bf3785-04d5-4cd3-94d9-86f3b43e2904",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "bandcamp": "https://french79music.bandcamp.com/",
+      "discogs": "4901245",
+      "spotify": "6MJKlN8ya42Agsw3iQZs6e",
+      "deezer": "6927617",
+      "rateyourmusic": "french-79",
+      "soundcloud": "https://soundcloud.com/french79music",
+      "wikidata": "Q56201390",
+      "youtube": "UCKTF0GFef9h5JxpkFZiNAqA"
+    }
   },
   "lastfm": {
     "id": "French+79/_/Between+the+Buttons",

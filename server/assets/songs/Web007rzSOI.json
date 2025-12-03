@@ -2,7 +2,7 @@
   "youtubeId": "Web007rzSOI",
   "title": "Strange Fruit",
   "artist": "Billie Holiday",
-  "lastFetched": "2025-11-30T22:53:31.336Z",
+  "lastFetched": "2025-12-02T01:23:01.310Z",
   "odesli": {
     "amazonMusic": "B073NB21WB",
     "amazonStore": "B073NB21WB",
@@ -37,6 +37,20 @@
       "swing",
       "traditional pop",
       "vocal jazz"
-    ]
+    ],
+    "releasedAt": "2004-03-29",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000079016",
+      "discogs": "33589",
+      "spotify": "1YzCsTRb22dQkh9lghPIrp",
+      "deezer": "1036",
+      "lastfm": "Billie+Holiday",
+      "genius": "Billie-holiday",
+      "rateyourmusic": "billie_holiday",
+      "soundcloud": "https://soundcloud.com/billie-holiday-official",
+      "wikidata": "Q104358",
+      "youtube": "UCwO6O7HAOHQ7_FgI28QWtvQ"
+    }
   }
 }

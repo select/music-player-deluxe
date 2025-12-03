@@ -2,7 +2,7 @@
   "youtubeId": "rLiuL6GjtnM",
   "title": "Side By Side",
   "artist": "Raoul Vignal",
-  "lastFetched": "2025-11-30T22:43:17.177Z",
+  "lastFetched": "2025-12-02T01:55:42.025Z",
   "lastfm": {
     "title": "Side by side",
     "artist": "Raoul Vignal",
@@ -29,6 +29,14 @@
       "pop",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2016-12-20",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "bandcamp": "https://raoulvignal.bandcamp.com/",
+      "discogs": "5629096",
+      "spotify": "2dhK4evl9ePjM6Kg59Tf3Q",
+      "soundcloud": "https://soundcloud.com/raoulvignal"
+    }
   }
 }

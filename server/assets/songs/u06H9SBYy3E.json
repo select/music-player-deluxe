@@ -1,0 +1,53 @@
+{
+  "youtubeId": "u06H9SBYy3E",
+  "title": "The Profit Song",
+  "artist": "Kirsty McGee",
+  "lastFetched": "2025-12-03T11:51:18.316Z",
+  "odesli": {
+    "amazonMusic": "B001DBNJ08",
+    "amazonStore": "B001DBNJ08",
+    "boomplay": "18572100",
+    "deezer": "11001963",
+    "appleMusic": "286417543",
+    "itunes": "286417543",
+    "napster": "tra.22088537",
+    "pandora": "TR:57966694",
+    "soundcloud": "kirstymcgee/the-profit-song",
+    "spotify": "0wYA2yVfaylZsqapN6CNEq",
+    "tidal": "6670276",
+    "yandex": "6613230",
+    "youtube": "u06H9SBYy3E",
+    "youtubeMusic": "u06H9SBYy3E"
+  },
+  "lastfm": {
+    "id": "Kirsty+McGee/_/The+Profit+Song",
+    "listeners": 345,
+    "playcount": 1498,
+    "title": "The Profit Song",
+    "artist": "Kirsty McGee",
+    "mbid": "abf4d4c6-92a4-4379-8731-7a3ceb7bf748",
+    "artistMbid": "c792d8de-b2fa-4d36-ac4f-caed65dfa812",
+    "tags": [
+      "fantastic",
+      "kirsty mcgee",
+      "singer-songwriter",
+      "folk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "81b4a511-73a1-427d-a783-b20f705ca41e",
+    "artistMbid": "c792d8de-b2fa-4d36-ac4f-caed65dfa812",
+    "releaseCount": 1,
+    "artistGenres": [
+      "folk"
+    ],
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://kirstymcgee.bandcamp.com/",
+      "discogs": "1129777",
+      "soundcloud": "https://soundcloud.com/kirstymcgee",
+      "wikidata": "Q6416174",
+      "youtube": "UCJBmfqVnZd67mKvEoq4eBwA"
+    }
+  }
+}

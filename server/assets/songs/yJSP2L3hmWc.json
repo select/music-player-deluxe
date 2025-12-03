@@ -2,7 +2,7 @@
   "youtubeId": "yJSP2L3hmWc",
   "title": "Trouble",
   "artist": "Say She She",
-  "lastFetched": "2025-11-23T16:54:09.503Z",
+  "lastFetched": "2025-12-02T02:05:52.477Z",
   "odesli": {
     "amazonMusic": "B0BMPPS9G9",
     "amazonStore": "B0BMPPS9G9",
@@ -25,7 +25,17 @@
       "soul"
     ],
     "trackMbid": "f56899d4-8afc-405a-b232-b5f589956493",
-    "artistMbid": "64dad611-8ada-4696-ac5f-ecb8bf73d51b"
+    "artistMbid": "64dad611-8ada-4696-ac5f-ecb8bf73d51b",
+    "releasedAt": "2022-07-13",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://saysheshe.bandcamp.com/",
+      "discogs": "11260631",
+      "spotify": "1WGb8nCPGJA0RyriSDIQfC",
+      "deezer": "157365162",
+      "wikidata": "Q124367029",
+      "youtube": "saysheshe"
+    }
   },
   "lastfm": {
     "id": "Say+She+She/_/Trouble",

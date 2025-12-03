@@ -2,7 +2,7 @@
   "youtubeId": "WYeDsa4Tw0c",
   "title": "Conquest of Paradise",
   "artist": "Vangelis",
-  "lastFetched": "2025-11-23T16:41:13.566Z",
+  "lastFetched": "2025-12-02T01:22:41.814Z",
   "odesli": {
     "anghami": "338933",
     "boomplay": "4302232",
@@ -32,7 +32,19 @@
       "instrumental"
     ],
     "trackMbid": "218a4651-65c8-3c8e-9a05-58439bce88e1",
-    "artistMbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f"
+    "artistMbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f",
+    "artistCountry": "GR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000840000",
+      "discogs": "7027",
+      "spotify": "4P70aqttdpJ9vuYFDmf7f6",
+      "deezer": "2639",
+      "lastfm": "Vangelis",
+      "genius": "Vangelis",
+      "rateyourmusic": "vangelis",
+      "wikidata": "Q153172",
+      "youtube": "UCNms80n59AltHVQuPgGrKkg"
+    }
   },
   "lastfm": {
     "id": "Vangelis/_/Conquest+of+Paradise",

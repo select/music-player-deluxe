@@ -2,7 +2,7 @@
   "youtubeId": "UOUBW8bkjQ4",
   "title": "Jumpsuit",
   "artist": "Twenty One Pilots",
-  "lastFetched": "2025-11-30T19:42:27.139Z",
+  "lastFetched": "2025-12-02T01:19:40.909Z",
   "odesli": {
     "amazonMusic": "B07G7HYMMS",
     "amazonStore": "B07G7HYMMS",
@@ -55,6 +55,25 @@
       "indietronica",
       "piano rock",
       "pop rap"
-    ]
+    ],
+    "releasedAt": "2018-07-11",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "1E1uGhNdBe6Dddbgs2KqtZ",
+      "deezer": "562774642"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002398414",
+      "discogs": "3128936",
+      "spotify": "3YQKmKGau1PzlVlkL1iodx",
+      "deezer": "647650",
+      "pandora": "20-1-pilots",
+      "lastfm": "Twenty+One+Pilots",
+      "genius": "Twenty-one-pilots",
+      "rateyourmusic": "twenty_one_pilots",
+      "soundcloud": "https://soundcloud.com/twentyonepilots",
+      "wikidata": "Q7857806",
+      "youtube": "UCBQZwaNPFfJ1gZ1fLZpAEGw"
+    }
   }
 }

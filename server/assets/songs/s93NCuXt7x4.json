@@ -2,7 +2,7 @@
   "youtubeId": "s93NCuXt7x4",
   "title": "BLOW",
   "artist": "Ed Sheeran",
-  "lastFetched": "2025-11-30T23:39:35.975Z",
+  "lastFetched": "2025-12-02T01:57:09.848Z",
   "odesli": {
     "amazonMusic": "B07S1VNW9D",
     "amazonStore": "B07S1VNW9D",
@@ -45,6 +45,20 @@
       "pop",
       "singer-songwriter",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "2019-07-05",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002639628",
+      "discogs": "2184482",
+      "spotify": "6eUKZXaKkcviH0Ku9w2n3V",
+      "deezer": "384236",
+      "lastfm": "Ed+Sheeran",
+      "genius": "Ed-sheeran",
+      "rateyourmusic": "ed_sheeran",
+      "soundcloud": "https://soundcloud.com/edsheeran",
+      "wikidata": "Q47447",
+      "youtube": "UClmXPfaYhXOYsNn_QUyheWQ"
+    }
   }
 }

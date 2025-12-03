@@ -3,7 +3,7 @@
   "artist": "The Circling Sun",
   "duration": 447,
   "youtubeId": "vogYl8g_6KU",
-  "lastFetched": "2025-11-23T15:40:53.515Z",
+  "lastFetched": "2025-12-02T02:02:10.689Z",
   "odesli": {
     "amazonMusic": "B0BYTFKV2G",
     "amazonStore": "B0BYTFKV2G",
@@ -20,6 +20,13 @@
   "musicbrainz": {
     "trackMbid": "9c2fa007-2ede-4a88-9068-2f91606178cc",
     "artistMbid": "36f4c4ae-ecd8-4be1-b810-dba5114a577e",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-05-19",
+    "artistCountry": "NZ",
+    "externalIdsArtist": {
+      "bandcamp": "https://thecirclingsun.bandcamp.com/",
+      "discogs": "13012284",
+      "lastfm": "The+Circling+Sun"
+    }
   }
 }

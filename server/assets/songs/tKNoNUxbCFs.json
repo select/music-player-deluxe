@@ -2,7 +2,7 @@
   "youtubeId": "tKNoNUxbCFs",
   "title": "Face The Face",
   "artist": "Pete Townshend",
-  "lastFetched": "2025-11-30T23:24:40.674Z",
+  "lastFetched": "2025-12-02T01:58:57.462Z",
   "ai": {
     "title": "Face The Face",
     "artist": "Pete Townshend"
@@ -16,6 +16,17 @@
       "pop rock",
       "rock",
       "rock opera"
-    ]
+    ],
+    "releasedAt": "2004-11-16",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000842351",
+      "discogs": "256053",
+      "spotify": "24Wa5wIZIo1sPkzVGP0B5p",
+      "deezer": "5432",
+      "rateyourmusic": "pete_townshend",
+      "wikidata": "Q26933",
+      "youtube": "UCLxj9OY4ADYmM_pM9v2mJiA"
+    }
   }
 }

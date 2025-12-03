@@ -1,0 +1,74 @@
+{
+  "youtubeId": "kHuX16Pt3ng",
+  "title": "Gun Street Girl",
+  "artist": "Tom Waits",
+  "lastFetched": "2025-12-03T12:02:42.461Z",
+  "odesli": {
+    "amazonMusic": "B0F9QGB6MC",
+    "amazonStore": "B0F9QGB6MC",
+    "anghami": "1214863883",
+    "boomplay": "2419220",
+    "deezer": "2963456",
+    "appleMusic": "1816269806",
+    "itunes": "1816269806",
+    "napster": "tra.783462661",
+    "soundcloud": "tomwaits/gun-street-girl-1",
+    "spotify": "0ZgpMvk8DzFMSRGLvoJ31o",
+    "tidal": "303883688",
+    "yandex": "637794",
+    "youtube": "kHuX16Pt3ng",
+    "youtubeMusic": "kHuX16Pt3ng"
+  },
+  "lastfm": {
+    "id": "Tom+Waits/_/Gun+Street+Girl",
+    "listeners": 212423,
+    "playcount": 949887,
+    "title": "Gun Street Girl",
+    "artist": "Tom Waits",
+    "mbid": "cddd2c8b-dd2a-44b1-a400-82ad351d9c3c",
+    "artistMbid": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+    "tags": [
+      "blues",
+      "singer-songwriter",
+      "tom waits",
+      "rock",
+      "experimental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e870ce9a-1e7b-4188-97dd-5c900a58d283",
+    "artistMbid": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+    "releaseCount": 7,
+    "artistGenres": [
+      "americana",
+      "avant-garde jazz",
+      "beat poetry",
+      "blues",
+      "blues rock",
+      "dark cabaret",
+      "dark jazz",
+      "experimental",
+      "experimental rock",
+      "folk",
+      "folk rock",
+      "gothic country",
+      "jazz",
+      "piano blues",
+      "rock",
+      "singer-songwriter"
+    ],
+    "releasedAt": "1988-09",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000615119",
+      "bandcamp": "https://tomwaits.bandcamp.com/",
+      "discogs": "82294",
+      "spotify": "7x83XhcMbOTl1UdYsPTuZM",
+      "deezer": "1128",
+      "lastfm": "Tom+Waits",
+      "genius": "Tom-waits",
+      "rateyourmusic": "tom_waits",
+      "wikidata": "Q184805"
+    }
+  }
+}

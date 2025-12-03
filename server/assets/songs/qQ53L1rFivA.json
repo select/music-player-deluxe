@@ -2,7 +2,7 @@
   "youtubeId": "qQ53L1rFivA",
   "title": "Bahama Mama",
   "artist": "4Lyn",
-  "lastFetched": "2025-11-30T19:59:42.925Z",
+  "lastFetched": "2025-12-02T01:54:11.198Z",
   "odesli": {
     "amazonMusic": "B094X28C6H",
     "amazonStore": "B094X28C6H",
@@ -30,6 +30,15 @@
     "releaseCount": 5,
     "artistGenres": [
       "alternative rock"
-    ]
+    ],
+    "releasedAt": "2001-05-21",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000385444",
+      "discogs": "287822",
+      "lastfm": "4Lyn",
+      "rateyourmusic": "4lyn",
+      "wikidata": "Q238154"
+    }
   }
 }

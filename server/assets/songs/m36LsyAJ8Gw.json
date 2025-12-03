@@ -1,0 +1,55 @@
+{
+  "youtubeId": "m36LsyAJ8Gw",
+  "title": "Sdubid",
+  "artist": "Tommy Cash",
+  "lastFetched": "2025-12-03T12:01:31.881Z",
+  "odesli": {
+    "amazonMusic": "B08YYYZX5F",
+    "amazonStore": "B08YYYZX5F",
+    "pandora": "TR:27034500",
+    "soundcloud": "george-sitnik/y2matecom-tommy-cash-sdubid-official-video-m36lsyaj8gw-320kbps",
+    "spotify": "7IJkpZJ6sXrVooigSt6mFu",
+    "tidal": "175472054",
+    "yandex": "60571259",
+    "youtube": "m36LsyAJ8Gw",
+    "youtubeMusic": "m36LsyAJ8Gw"
+  },
+  "lastfm": {
+    "id": "Tommy+Cash/_/Sdubid",
+    "listeners": 19059,
+    "playcount": 116649,
+    "title": "Sdubid",
+    "artist": "Tommy Cash",
+    "mbid": "336f8706-5be1-4cfd-a5cb-30addd2b7f47",
+    "artistMbid": "d8c5c228-0dff-4236-beae-3e2982714a72",
+    "tags": [
+      "trap",
+      "single",
+      "rate"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ca68fd43-c787-4734-a5b4-d96075fcd6bc",
+    "artistMbid": "18a9ae86-24b8-4ef1-959b-7bb5e5a5fee7",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative hip hop",
+      "experimental hip hop",
+      "hip hop",
+      "underground hip hop"
+    ],
+    "releasedAt": "2019-12-13",
+    "artistCountry": "EE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003710295",
+      "bandcamp": "https://tommycashpcmusic.bandcamp.com/",
+      "discogs": "8076672",
+      "spotify": "44XzG6GoJZNtkIGW19hsUK",
+      "deezer": "178856",
+      "lastfm": "Tommy+Cash",
+      "soundcloud": "https://soundcloud.com/iamtommycash",
+      "wikidata": "Q28498299",
+      "youtube": "UCr92AKSfMI-quMa2UGcvWvg"
+    }
+  }
+}

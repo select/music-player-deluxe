@@ -1,0 +1,45 @@
+{
+  "youtubeId": "26HsSzFX_ok",
+  "title": "Livin' in the Sunlight, Lovin' in the Moon Light",
+  "artist": "Tiny Tim",
+  "lastFetched": "2025-12-03T11:46:41.378Z",
+  "odesli": {
+    "amazonMusic": "B00124D91K",
+    "amazonStore": "B00124D91K",
+    "boomplay": "4503564",
+    "deezer": "742611",
+    "appleMusic": "140785453",
+    "itunes": "140785453",
+    "napster": "tra.9067435",
+    "pandora": "TR:13223256",
+    "soundcloud": "mro-wow/tiny-tim-livin-in-the-sunlight",
+    "spotify": "1PmXm1881bonBI1AlG5uaH",
+    "tidal": "215953",
+    "yandex": "137009",
+    "youtube": "26HsSzFX_ok",
+    "youtubeMusic": "26HsSzFX_ok"
+  },
+  "musicbrainz": {
+    "trackMbid": "06e522b8-9bd1-48a1-a222-6a21a63b2062",
+    "artistMbid": "2f2f7eb6-37c3-446e-8288-f88f76295c2a",
+    "releaseCount": 1,
+    "artistGenres": [
+      "christmas music",
+      "pop",
+      "spoken word",
+      "traditional pop"
+    ],
+    "releasedAt": "2019-04-19",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000603980",
+      "bandcamp": "https://tinytimtpos.bandcamp.com/",
+      "discogs": "96001",
+      "spotify": "0Nc79lkTxXLSIIHDB8mqJC",
+      "deezer": "66408",
+      "lastfm": "Tiny+Tim",
+      "rateyourmusic": "tiny_tim",
+      "wikidata": "Q979347"
+    }
+  }
+}

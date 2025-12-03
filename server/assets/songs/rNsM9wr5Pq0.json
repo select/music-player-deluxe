@@ -1,7 +1,7 @@
 {
   "youtubeId": "rNsM9wr5Pq0",
   "title": "Pink Flamingos",
-  "lastFetched": "2025-11-30T20:03:37.005Z",
+  "lastFetched": "2025-12-02T01:55:46.182Z",
   "ai": {
     "title": "Pink Flamingos",
     "artist": "The Limiñanas"
@@ -40,6 +40,18 @@
       "pop",
       "psychedelic",
       "rock"
-    ]
+    ],
+    "releasedAt": "2018-01-19",
+    "externalIdsArtist": {
+      "allmusic": "mn0002442828",
+      "bandcamp": "https://theliminanas.bandcamp.com/",
+      "discogs": "2719367",
+      "spotify": "2joJCoCL4EmiVqic3vZn7n",
+      "deezer": "1264758",
+      "rateyourmusic": "the_liminanas",
+      "qobuz": "1786444",
+      "wikidata": "Q48758477",
+      "youtube": "theliminanasofficial"
+    }
   }
 }

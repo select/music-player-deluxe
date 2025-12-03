@@ -1,0 +1,55 @@
+{
+  "youtubeId": "LLn3FT9BsRs",
+  "title": "Isn't it a Pity - Nina Simone",
+  "lastFetched": "2025-12-03T11:58:59.778Z",
+  "ai": {
+    "title": "Isn't it a Pity",
+    "artist": "Nina Simone"
+  },
+  "lastfm": {
+    "id": "Nina+Simone/_/Isn%27t+It+A+Pity",
+    "listeners": 20111,
+    "playcount": 66818,
+    "title": "Isn't It A Pity",
+    "artist": "Nina Simone",
+    "mbid": "88fd3d19-8d07-31af-8e07-090dbda49ecd",
+    "artistMbid": "2944824d-4c26-476f-a981-be849081942f",
+    "tags": [
+      "cover",
+      "gorgeous",
+      "nina simone",
+      "love at first listen",
+      "merkliste"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a61107cb-8f8c-48a6-b4ae-f331139f8b12",
+    "artistMbid": "2944824d-4c26-476f-a981-be849081942f",
+    "releaseCount": 1,
+    "artistGenres": [
+      "blues",
+      "classical",
+      "folk",
+      "jazz",
+      "pop soul",
+      "r&b",
+      "soul",
+      "soul jazz",
+      "vocal jazz"
+    ],
+    "releasedAt": "1971",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000411761",
+      "discogs": "10584",
+      "spotify": "7G1GBhoKtEPnP86X2PvEYO",
+      "deezer": "744",
+      "lastfm": "Nina+Simone",
+      "genius": "Nina-simone",
+      "rateyourmusic": "nina_simone",
+      "soundcloud": "https://soundcloud.com/ninasimone",
+      "wikidata": "Q174957",
+      "youtube": "UCJ-FRbWianyv9q-Ly9whFQQ"
+    }
+  }
+}

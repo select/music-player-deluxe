@@ -2,7 +2,7 @@
   "youtubeId": "W4VpE-0zitU",
   "title": "(Rock) Superstar",
   "artist": "Cypress Hill",
-  "lastFetched": "2025-11-30T20:45:38.493Z",
+  "lastFetched": "2025-12-02T01:21:58.135Z",
   "odesli": {
     "amazonMusic": "B003EM91LU",
     "amazonStore": "B003EM91LU",
@@ -57,6 +57,24 @@
       "rap rock",
       "rapcore",
       "west coast hip hop"
-    ]
+    ],
+    "releasedAt": "2000-04-19",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "5hYr8yRbQLFE20oS7Mi3T2"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000147315",
+      "discogs": "37905",
+      "spotify": "4P0dddbxPil35MNN9G2MEX",
+      "deezer": "1222",
+      "lastfm": "Cypress+Hill",
+      "genius": "Cypress-hill",
+      "rateyourmusic": "cypress_hill",
+      "soundcloud": "https://soundcloud.com/chxrsk",
+      "napster": "cypress-hill",
+      "wikidata": "Q322196",
+      "youtube": "UCcxp6abw1T9DmxzFIWLAz4g"
+    }
   }
 }

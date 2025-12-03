@@ -2,7 +2,7 @@
   "youtubeId": "XnVPaTL8PsI",
   "title": "Notturno",
   "artist": "Herbert Pixner Projekt",
-  "lastFetched": "2025-11-23T16:41:44.589Z",
+  "lastFetched": "2025-12-02T01:24:55.830Z",
   "odesli": {
     "amazonMusic": "B07F37LJZB",
     "amazonStore": "B07F37LJZB",
@@ -28,7 +28,15 @@
       "folk"
     ],
     "trackMbid": "719a9e36-b358-4296-87aa-4bcbeff94eed",
-    "artistMbid": "e2360a56-f63a-4589-9295-f83130b563c5"
+    "artistMbid": "e2360a56-f63a-4589-9295-f83130b563c5",
+    "releasedAt": "2020-09-25",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0003534522",
+      "discogs": "2636206",
+      "rateyourmusic": "herbert_pixner_projekt",
+      "wikidata": "Q124094228"
+    }
   },
   "lastfm": {
     "id": "Herbert+Pixner+Projekt/_/Notturno",

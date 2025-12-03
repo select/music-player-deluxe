@@ -1,7 +1,7 @@
 {
   "youtubeId": "ZAuIFXMwyaE",
   "title": "Jiggery Pokery by The Duckworth Lewis Method animation",
-  "lastFetched": "2025-11-30T20:57:03.279Z",
+  "lastFetched": "2025-12-02T01:27:12.154Z",
   "ai": {
     "title": "Jiggery Pokery",
     "artist": "The Duckworth Lewis Method"
@@ -36,6 +36,14 @@
       "comedy rock",
       "indie rock",
       "pop rock"
-    ]
+    ],
+    "releasedAt": "2009-07-05",
+    "artistCountry": "IE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002141473",
+      "discogs": "1650820",
+      "wikidata": "Q7731135",
+      "wikipedia": "The_Duckworth_Lewis_Method"
+    }
   }
 }

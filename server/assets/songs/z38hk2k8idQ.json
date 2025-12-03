@@ -2,7 +2,7 @@
   "youtubeId": "z38hk2k8idQ",
   "title": "Ruby",
   "artist": "Silver Apples",
-  "lastFetched": "2025-11-23T16:54:43.490Z",
+  "lastFetched": "2025-12-02T02:07:30.199Z",
   "odesli": {
     "amazonMusic": "B00491PVKK",
     "amazonStore": "B00491PVKK",
@@ -31,7 +31,17 @@
       "experimental rock"
     ],
     "trackMbid": "6c99ccaa-d81e-31b9-9295-5864bb8e3913",
-    "artistMbid": "802d971d-5fb1-4ca1-8e56-69c64122d957"
+    "artistMbid": "802d971d-5fb1-4ca1-8e56-69c64122d957",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000755494",
+      "discogs": "15444",
+      "spotify": "6dP7OHshDvGHaNNSwunol4",
+      "deezer": "4921",
+      "lastfm": "Silver+Apples",
+      "rateyourmusic": "silver_apples",
+      "wikidata": "Q687866"
+    }
   },
   "lastfm": {
     "id": "Silver+Apples/_/Ruby",

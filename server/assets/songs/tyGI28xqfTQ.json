@@ -1,7 +1,7 @@
 {
   "youtubeId": "tyGI28xqfTQ",
   "title": "Akufen - Make Bagels Not War  [Karat Records ‎– KARAT 57]",
-  "lastFetched": "2025-11-30T20:12:00.508Z",
+  "lastFetched": "2025-12-02T01:59:53.015Z",
   "ai": {
     "title": "Make Bagels Not War",
     "artist": "Akufen"
@@ -25,6 +25,15 @@
   "musicbrainz": {
     "trackMbid": "a38b592b-6966-46ff-8664-0aff6b7553c1",
     "artistMbid": "a5b263e3-069f-46a2-9955-326d39392dd2",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2017-01-03",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000610861",
+      "discogs": "5844",
+      "rateyourmusic": "akufen",
+      "soundcloud": "https://soundcloud.com/aku-en",
+      "wikidata": "Q423707"
+    }
   }
 }

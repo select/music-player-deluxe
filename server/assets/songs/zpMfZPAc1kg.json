@@ -1,0 +1,72 @@
+{
+  "youtubeId": "zpMfZPAc1kg",
+  "title": "Nearly Forgot My Broken Heart",
+  "artist": "Chris Cornell",
+  "lastFetched": "2025-12-03T12:07:41.712Z",
+  "odesli": {
+    "amazonMusic": "B07HFTJ82R",
+    "amazonStore": "B07HFTJ82R",
+    "anghami": "11549214",
+    "appleMusic": "1440816958",
+    "itunes": "1440816958",
+    "pandora": "TR:4462274",
+    "soundcloud": "chris-cornell-official/nearly-forgot-my-broken-heart",
+    "spotify": "7MjRtWS2teufvOiMM0BARZ",
+    "tidal": "50958359",
+    "youtube": "zpMfZPAc1kg",
+    "youtubeMusic": "zpMfZPAc1kg"
+  },
+  "lastfm": {
+    "id": "Chris+Cornell/_/Nearly+Forgot+My+Broken+Heart",
+    "listeners": 124951,
+    "playcount": 764740,
+    "title": "Nearly Forgot My Broken Heart",
+    "artist": "Chris Cornell",
+    "mbid": "123c714f-b797-4432-86e1-d08e79804b83",
+    "artistMbid": "cbf9738d-8f81-4a92-bc64-ede09341652d",
+    "tags": [
+      "alternative rock",
+      "alternative",
+      "roots rock",
+      "singer-songwriter"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "95d3a16e-3542-4289-92d8-a4c1d3757537",
+    "artistMbid": "cbf9738d-8f81-4a92-bc64-ede09341652d",
+    "releaseCount": 22,
+    "genres": [
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "post-grunge"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "alternative rock",
+      "electropop",
+      "pop rock",
+      "post-grunge",
+      "rock",
+      "singer-songwriter"
+    ],
+    "releasedAt": "2015-08-10",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "2pweTaAm6EFqUGDI5CYoaw"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000775406",
+      "discogs": "261561",
+      "spotify": "0XHiH53dHrvbwfjYM7en7I",
+      "deezer": "8547",
+      "lastfm": "Chris+Cornell",
+      "genius": "Chris-cornell",
+      "rateyourmusic": "chris_cornell",
+      "soundcloud": "https://soundcloud.com/chriscornell",
+      "napster": "chris-cornell",
+      "wikidata": "Q270935",
+      "youtube": "UCxLRTW2YShYeV3m_GdvDnXQ"
+    }
+  }
+}

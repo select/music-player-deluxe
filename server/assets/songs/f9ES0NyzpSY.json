@@ -1,7 +1,7 @@
 {
   "youtubeId": "f9ES0NyzpSY",
   "title": "DJ RIKO - Whistler's Delight (full version)",
-  "lastFetched": "2025-11-30T20:57:08.027Z",
+  "lastFetched": "2025-12-02T01:37:04.165Z",
   "ai": {
     "title": "Whistler's Delight",
     "artist": "DJ RIKO"
@@ -22,6 +22,10 @@
   "musicbrainz": {
     "trackMbid": "b0b4d604-d408-445f-87e5-83722cef70b1",
     "artistMbid": "0842c3dc-9c33-462a-ab65-2155f40584f4",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2005-11-07",
+    "externalIdsArtist": {
+      "discogs": "357799"
+    }
   }
 }

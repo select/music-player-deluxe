@@ -2,7 +2,7 @@
   "youtubeId": "v64-DpcLEvI",
   "title": "Choke",
   "artist": "I DONT KNOW HOW BUT THEY FOUND ME",
-  "lastFetched": "2025-11-19T10:21:35.367Z",
+  "lastFetched": "2025-12-02T02:01:07.304Z",
   "odesli": {
     "amazonMusic": "B07KMLQKCJ",
     "amazonStore": "B07KMLQKCJ",
@@ -27,7 +27,23 @@
       "band"
     ],
     "trackMbid": "846c8d32-8ed9-4865-804b-b3245e219907",
-    "artistMbid": "91ae77d8-3bb5-4e59-98a7-532ac0f2825d"
+    "artistMbid": "91ae77d8-3bb5-4e59-98a7-532ac0f2825d",
+    "releasedAt": "2017-10-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0004000506",
+      "bandcamp": "https://idkhow.bandcamp.com/",
+      "discogs": "6188288",
+      "spotify": "0Raaw7kr1Vzat4ZvHzjsJR",
+      "deezer": "12983465",
+      "lastfm": "I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME",
+      "genius": "I-dont-know-how-but-they-found-me",
+      "rateyourmusic": "i-dont-know-how-but-they-found-me",
+      "soundcloud": "https://soundcloud.com/idontknowhowbuttheyfoundme",
+      "napster": "i-dont-know-how-but-they-found-me",
+      "wikidata": "Q50841782",
+      "youtube": "UCPeiIDYMwZQpL7aocblfqtQ"
+    }
   },
   "lastfm": {
     "id": "I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Choke",

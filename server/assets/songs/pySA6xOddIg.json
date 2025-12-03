@@ -2,7 +2,7 @@
   "youtubeId": "pySA6xOddIg",
   "title": "You're No Good",
   "artist": "The Swinging Blue Jeans",
-  "lastFetched": "2025-11-30T23:14:05.678Z",
+  "lastFetched": "2025-12-02T01:53:24.741Z",
   "odesli": {
     "amazonMusic": "B001KSDKYY",
     "amazonStore": "B001KSDKYY",
@@ -37,6 +37,12 @@
     "artistGenres": [
       "beat music",
       "merseybeat"
-    ]
+    ],
+    "releasedAt": "1993",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "269091",
+      "wikidata": "Q1310839"
+    }
   }
 }

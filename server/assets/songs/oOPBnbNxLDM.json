@@ -2,7 +2,7 @@
   "youtubeId": "oOPBnbNxLDM",
   "title": "La chasse aux papillons",
   "artist": "Georges Brassens",
-  "lastFetched": "2025-11-30T20:37:55.283Z",
+  "lastFetched": "2025-12-02T01:50:58.810Z",
   "odesli": {
     "amazonMusic": "B09DS5BSSD",
     "amazonStore": "B09DS5BSSD",
@@ -36,6 +36,18 @@
       "chanson à texte",
       "poetry",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2001",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000541940",
+      "discogs": "278663",
+      "spotify": "5UWyW1PcEM8coxeqg3RIHr",
+      "deezer": "671",
+      "lastfm": "Georges+Brassens",
+      "rateyourmusic": "georges_brassens",
+      "wikidata": "Q449",
+      "youtube": "UC3_2Y8OTKzRN89VCwfXEL0Q"
+    }
   }
 }

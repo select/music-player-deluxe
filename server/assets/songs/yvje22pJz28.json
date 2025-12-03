@@ -4,7 +4,7 @@
   "album": "İstikrarlı Hayal Hakikattir",
   "duration": 257,
   "youtubeId": "yvje22pJz28",
-  "lastFetched": "2025-11-23T16:54:41.127Z",
+  "lastFetched": "2025-12-02T02:07:16.869Z",
   "musicbrainz": {
     "artistTags": [
       "anatolian rock",
@@ -26,7 +26,22 @@
       "electronica"
     ],
     "trackMbid": "f3a142eb-8efd-4c97-8449-199656f920fc",
-    "artistMbid": "9a156579-3b0c-4cc6-82b5-b199d43410fc"
+    "artistMbid": "9a156579-3b0c-4cc6-82b5-b199d43410fc",
+    "releasedAt": "2018-10-26",
+    "artistCountry": "TR",
+    "externalIdsArtist": {
+      "allmusic": "mn0003181803",
+      "bandcamp": "https://gayesuakyol.bandcamp.com/",
+      "discogs": "1964780",
+      "spotify": "0VsS7WKuNEsKGNIWuiwSyZ",
+      "deezer": "5878130",
+      "lastfm": "Gaye+Su+Akyol",
+      "genius": "Gaye-su-akyol",
+      "rateyourmusic": "gaye_su_akyol",
+      "soundcloud": "https://soundcloud.com/gayesuakyol",
+      "wikidata": "Q31190562",
+      "youtube": "UC9wfaxtw7vfv5PltzdyLcaw"
+    }
   },
   "lastfm": {
     "id": "Gaye+Su+Akyol/_/Meftunum+Sana",

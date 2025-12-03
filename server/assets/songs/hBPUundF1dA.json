@@ -2,7 +2,7 @@
   "youtubeId": "hBPUundF1dA",
   "title": "An der schönen blauen Donau, Op. 314",
   "artist": "Johann Strauss II",
-  "lastFetched": "2025-12-01T12:54:58.760Z",
+  "lastFetched": "2025-12-02T01:39:51.901Z",
   "odesli": {
     "amazonMusic": "B086H4Y8BY",
     "amazonStore": "B086H4Y8BY",
@@ -29,6 +29,17 @@
     "releaseCount": 4,
     "artistGenres": [
       "classical"
-    ]
+    ],
+    "releasedAt": "1999-05",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000307361",
+      "discogs": "1259101",
+      "spotify": "5goS0v24Fc1ydjCKQRwtjM",
+      "deezer": "305399",
+      "lastfm": "Johann+Strauss+II",
+      "genius": "Johann-strauss-ii",
+      "wikidata": "Q83309"
+    }
   }
 }

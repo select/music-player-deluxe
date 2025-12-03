@@ -1,0 +1,64 @@
+{
+  "youtubeId": "Uhq8lDmUmqo",
+  "title": "Never Win",
+  "artist": "Fischerspooner",
+  "lastFetched": "2025-12-03T11:44:23.595Z",
+  "odesli": {
+    "amazonMusic": "B000T2IKLK",
+    "amazonStore": "B000T2IKLK",
+    "pandora": "TR:242538",
+    "soundcloud": "fischerspooner-official/never-win",
+    "spotify": "2aAV8orZctvbDvVJnMDlBR",
+    "tidal": "156803",
+    "youtube": "Uhq8lDmUmqo",
+    "youtubeMusic": "Uhq8lDmUmqo"
+  },
+  "lastfm": {
+    "id": "Fischerspooner/_/Never+Win",
+    "listeners": 212499,
+    "playcount": 1423009,
+    "title": "Never Win",
+    "artist": "Fischerspooner",
+    "mbid": "253e2c33-fb57-4075-8ba4-113998a8d227",
+    "artistMbid": "a4f54716-24d9-4c6b-8ba7-1d7e7a5173d0",
+    "tags": [
+      "electronic",
+      "electroclash",
+      "electro",
+      "electronica",
+      "dance"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3eb75675-0f13-4973-bed2-ddfeb59dd4da",
+    "artistMbid": "a4f54716-24d9-4c6b-8ba7-1d7e7a5173d0",
+    "releaseCount": 14,
+    "genres": [
+      "club",
+      "dance",
+      "electroclash",
+      "electronic",
+      "electronica",
+      "house",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "electroclash",
+      "electronica"
+    ],
+    "releasedAt": "2005-04-05",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000178051",
+      "discogs": "9086",
+      "spotify": "5R7K1GezC0jy24v1R2n4x3",
+      "deezer": "1575",
+      "lastfm": "Fischerspooner",
+      "genius": "Fischerspooner",
+      "rateyourmusic": "fischerspooner",
+      "soundcloud": "https://soundcloud.com/fischerspooner-official",
+      "wikidata": "Q1420144",
+      "youtube": "UCH_fpKusEQIEojPir1y5t6Q"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "ZKHJ7y99PdE",
   "title": "Future Hope",
   "artist": "DunDunDun",
-  "lastFetched": "2025-11-30T23:31:39.187Z",
+  "lastFetched": "2025-12-02T01:27:26.666Z",
   "odesli": {
     "amazonMusic": "B09T76LV2B",
     "amazonStore": "B09T76LV2B",
@@ -32,6 +32,11 @@
     "releaseCount": 1,
     "artistGenres": [
       "jazz"
-    ]
+    ],
+    "releasedAt": "2022-04-08",
+    "externalIdsArtist": {
+      "spotify": "0JKgKpJ7HLggYkQdh1jUVt",
+      "deezer": "122537062"
+    }
   }
 }

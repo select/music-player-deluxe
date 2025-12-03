@@ -3,7 +3,7 @@
   "artist": "Dear Reader",
   "duration": 185,
   "youtubeId": "UP9K4YJItzA",
-  "lastFetched": "2025-11-19T02:31:08.718Z",
+  "lastFetched": "2025-12-02T01:19:43.169Z",
   "odesli": {
     "amazonMusic": "B0CQ3YVSJW",
     "amazonStore": "B0CQ3YVSJW",
@@ -32,6 +32,15 @@
   "musicbrainz": {
     "trackMbid": "01d02806-b421-4d8e-b8de-df0f7dd45125",
     "artistMbid": "dc70bf33-5c52-4699-871b-0008126ba88b",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2018-06-01",
+    "artistCountry": "ZA",
+    "externalIdsArtist": {
+      "bandcamp": "https://dearreadermusic.bandcamp.com/",
+      "discogs": "1349074",
+      "soundcloud": "https://soundcloud.com/dearreadermusic",
+      "wikidata": "Q1181201",
+      "wikipedia": "Dear_Reader"
+    }
   }
 }

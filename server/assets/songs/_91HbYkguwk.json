@@ -2,7 +2,7 @@
   "youtubeId": "_91HbYkguwk",
   "title": "Where Do I Begin",
   "artist": "The Chemical Brothers",
-  "lastFetched": "2025-11-23T16:42:37.884Z",
+  "lastFetched": "2025-12-02T01:28:40.162Z",
   "odesli": {
     "amazonMusic": "B06Y3LHB4P",
     "amazonStore": "B06Y3LHB4P",
@@ -38,7 +38,22 @@
       "progressive house"
     ],
     "trackMbid": "52b687d8-30b5-4f66-9e4a-acf0db96940a",
-    "artistMbid": "1946a82a-f927-40c2-8235-38d64f50d043"
+    "artistMbid": "1946a82a-f927-40c2-8235-38d64f50d043",
+    "releasedAt": "2010-05-17",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002300576",
+      "discogs": "6131",
+      "spotify": "1GhPHrq36VKCY3ucVaZCfo",
+      "deezer": "81",
+      "lastfm": "The+Chemical+Brothers",
+      "genius": "The-chemical-brothers",
+      "rateyourmusic": "the-chemical-brothers",
+      "soundcloud": "https://soundcloud.com/thechemicalbrothers",
+      "napster": "the-chemical-brothers",
+      "wikidata": "Q208507",
+      "youtube": "UCvyAsTkXVoCQtFG-rGhwCKw"
+    }
   },
   "lastfm": {
     "id": "The+Chemical+Brothers/_/Where+Do+I+Begin",

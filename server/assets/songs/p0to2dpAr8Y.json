@@ -1,0 +1,40 @@
+{
+  "youtubeId": "p0to2dpAr8Y",
+  "title": "Blow",
+  "artist": "Passafire",
+  "lastFetched": "2025-12-03T11:55:43.016Z",
+  "odesli": {
+    "amazonMusic": "B06XH9GHZ8",
+    "amazonStore": "B06XH9GHZ8",
+    "pandora": "TR:10472244",
+    "soundcloud": "passafiretheband/blow",
+    "tidal": "71328095",
+    "youtube": "p0to2dpAr8Y",
+    "youtubeMusic": "p0to2dpAr8Y"
+  },
+  "lastfm": {
+    "id": "Passafire/_/Blow",
+    "listeners": 610,
+    "playcount": 2603,
+    "title": "Blow",
+    "artist": "Passafire",
+    "artistMbid": "d34516e1-b370-4b97-addd-6363ef0e9ecc",
+    "tags": [
+      "reggae",
+      "ska",
+      "reggae-rock",
+      "california reggae"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "520015b8-274c-467f-a15c-1b4ef29d6ed7",
+    "artistMbid": "d34516e1-b370-4b97-addd-6363ef0e9ecc",
+    "releaseCount": 1,
+    "releasedAt": "2017-05-12",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "2735122",
+      "spotify": "3Il8w8T0de4sdogo2EQEVJ"
+    }
+  }
+}

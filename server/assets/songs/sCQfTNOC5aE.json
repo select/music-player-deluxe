@@ -2,7 +2,7 @@
   "youtubeId": "sCQfTNOC5aE",
   "title": "In A Sentimental Mood",
   "artist": "Duke Ellington",
-  "lastFetched": "2025-11-19T13:59:26.036Z",
+  "lastFetched": "2025-12-02T01:57:14.607Z",
   "odesli": {
     "amazonMusic": "B07KT6NS2F",
     "amazonStore": "B07KT6NS2F",
@@ -27,7 +27,17 @@
       "Swing Jazz"
     ],
     "trackMbid": "72feb5a5-35d4-496c-94d7-56f34e732f23",
-    "artistMbid": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f"
+    "artistMbid": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000120323",
+      "discogs": "145257",
+      "spotify": "4F7Q5NV6h5TSwCainz8S5A",
+      "deezer": "57504",
+      "genius": "Duke-ellington",
+      "rateyourmusic": "duke_ellington",
+      "wikidata": "Q4030"
+    }
   },
   "lastfm": {
     "id": "Duke+Ellington/_/In+A+Sentimental+Mood",

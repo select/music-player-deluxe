@@ -2,7 +2,7 @@
   "youtubeId": "x6AL1XnHJZs",
   "title": "I'm Gonna Love You Just A Little More Baby",
   "artist": "Barry White",
-  "lastFetched": "2025-11-23T16:53:33.612Z",
+  "lastFetched": "2025-12-02T02:04:03.589Z",
   "odesli": {
     "boomplay": "3409567",
     "spotify": "1QR3Wcba5NBidmxEE8DW3w",
@@ -31,7 +31,17 @@
       "pop soul"
     ],
     "trackMbid": "3d478c9c-8201-4868-8936-0db37e43161b",
-    "artistMbid": "b904d624-9e05-4398-8f4f-88fbcf022f79"
+    "artistMbid": "b904d624-9e05-4398-8f4f-88fbcf022f79",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000149044",
+      "discogs": "18978",
+      "spotify": "3rfgbfpPSfXY40lzRK7Syt",
+      "deezer": "34",
+      "lastfm": "Barry+White",
+      "rateyourmusic": "barry_white",
+      "wikidata": "Q213647"
+    }
   },
   "lastfm": {
     "id": "Barry+White/_/I%27m+Gonna+Love+You+Just+A+Little+More+Baby",

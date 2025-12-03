@@ -2,7 +2,7 @@
   "youtubeId": "u_SlPzpDCU8",
   "title": "Sun Touch",
   "artist": "Herbie Hancock",
-  "lastFetched": "2025-11-30T21:58:46.406Z",
+  "lastFetched": "2025-12-02T02:00:35.048Z",
   "odesli": {
     "amazonMusic": "B00138B48A",
     "amazonStore": "B00138B48A",
@@ -45,6 +45,17 @@
       "modal jazz",
       "post-bop",
       "soul jazz"
-    ]
+    ],
+    "releasedAt": "1975",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000957296",
+      "discogs": "3865",
+      "spotify": "2ZvrvbQNrHKwjT7qfGFFUW",
+      "deezer": "1406",
+      "lastfm": "Herbie+Hancock",
+      "rateyourmusic": "herbie_hancock",
+      "wikidata": "Q105875"
+    }
   }
 }

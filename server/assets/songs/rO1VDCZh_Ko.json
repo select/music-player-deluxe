@@ -2,7 +2,7 @@
   "youtubeId": "rO1VDCZh_Ko",
   "title": "ave cesaria",
   "artist": "Stromae",
-  "lastFetched": "2025-11-30T19:43:40.029Z",
+  "lastFetched": "2025-12-02T01:55:51.440Z",
   "odesli": {
     "amazonMusic": "B00EFB8VXI",
     "amazonStore": "B00EFB8VXI",
@@ -47,6 +47,24 @@
       "electro house",
       "electropop",
       "hip house"
-    ]
+    ],
+    "releasedAt": "2013-08-16",
+    "artistCountry": "BE",
+    "externalIdsTrack": {
+      "spotify": "66u6ycRUqlrW9C05QJUmSo"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002410546",
+      "discogs": "1735302",
+      "spotify": "5j4HeCoUlzhfWtjAfM1acR",
+      "deezer": "310260",
+      "lastfm": "Stromae",
+      "genius": "Stromae",
+      "rateyourmusic": "stromae",
+      "soundcloud": "https://soundcloud.com/stromae-cheese",
+      "napster": "stromae",
+      "wikidata": "Q313453",
+      "youtube": "UCXF0YCBWewAj3RytJUAivGA"
+    }
   }
 }

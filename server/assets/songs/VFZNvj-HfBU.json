@@ -1,0 +1,67 @@
+{
+  "youtubeId": "VFZNvj-HfBU",
+  "title": "Think About Things",
+  "artist": "Daði Freyr",
+  "lastFetched": "2025-12-03T11:38:37.476Z",
+  "odesli": {
+    "amazonMusic": "B086R247DD",
+    "amazonStore": "B086R247DD",
+    "audiomack": "28754390",
+    "anghami": "1080367056",
+    "boomplay": "23027456",
+    "deezer": "1951174127",
+    "appleMusic": "1506183849",
+    "itunes": "1506183849",
+    "napster": "tra.472148960",
+    "pandora": "TR:44631346",
+    "soundcloud": "dadimakesmusic/think-about-things",
+    "spotify": "77yGu0p7APK39lotu7CLk5",
+    "tidal": "226799766",
+    "yandex": "64418838",
+    "youtube": "VFZNvj-HfBU",
+    "youtubeMusic": "VFZNvj-HfBU"
+  },
+  "lastfm": {
+    "id": "Da%C3%B0i+Freyr/_/Think+About+Things",
+    "listeners": 194156,
+    "playcount": 2161945,
+    "title": "Think About Things",
+    "artist": "Daði Freyr",
+    "tags": [
+      "eurovision",
+      "pop",
+      "eurovision 2020",
+      "iceland"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9a597630-8f3a-47af-a03b-67c03c51853b",
+    "artistMbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b",
+    "releaseCount": 12,
+    "genres": [
+      "funktronica"
+    ],
+    "artistGenres": [
+      "electropop",
+      "funktronica",
+      "synth-pop"
+    ],
+    "releasedAt": "2020-01-18",
+    "artistCountry": "IS",
+    "externalIdsTrack": {
+      "spotify": "6RV6IjazF35seR5ThpDPbM",
+      "deezer": "1951174127"
+    },
+    "externalIdsArtist": {
+      "discogs": "7911513",
+      "spotify": "3Hb64DQZIhDCgyHKrzBXOL",
+      "deezer": "12779993",
+      "lastfm": "Da%C3%B0i+Freyr",
+      "genius": "Dai-freyr",
+      "rateyourmusic": "dadi-freyr-petursson",
+      "soundcloud": "https://soundcloud.com/dadimakesmusic",
+      "wikidata": "Q31749372",
+      "youtube": "UCF18N219OPiOcElz_hSYoIQ"
+    }
+  }
+}

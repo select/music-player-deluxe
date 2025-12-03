@@ -2,7 +2,7 @@
   "youtubeId": "tvtJPs8IDgU",
   "title": "Big Yellow Taxi",
   "artist": "Counting Crows",
-  "lastFetched": "2025-11-23T16:52:14.373Z",
+  "lastFetched": "2025-12-02T01:59:50.710Z",
   "odesli": {
     "amazonMusic": "B07RJCDDCK",
     "amazonStore": "B07RJCDDCK",
@@ -36,7 +36,20 @@
       "indie rock"
     ],
     "trackMbid": "a9ada411-c209-4b3e-8f9b-ccb790528f48",
-    "artistMbid": "a0327dc2-dc76-44d5-aec6-47cd2dff1469"
+    "artistMbid": "a0327dc2-dc76-44d5-aec6-47cd2dff1469",
+    "releasedAt": "2003",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000128495",
+      "discogs": "262643",
+      "spotify": "0vEsuISMWAKNctLlUAhSZC",
+      "deezer": "321",
+      "lastfm": "Counting+Crows",
+      "genius": "Counting-crows",
+      "rateyourmusic": "counting_crows",
+      "soundcloud": "https://soundcloud.com/countingcrows",
+      "wikidata": "Q178549"
+    }
   },
   "lastfm": {
     "id": "Counting+Crows/_/Big+Yellow+Taxi",

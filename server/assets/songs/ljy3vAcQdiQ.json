@@ -2,7 +2,7 @@
   "youtubeId": "ljy3vAcQdiQ",
   "title": "If You Don't, Don't",
   "artist": "Jimmy Eat World",
-  "lastFetched": "2025-12-01T12:55:54.038Z",
+  "lastFetched": "2025-12-02T01:46:50.823Z",
   "odesli": {
     "soundcloud": "jimmyeatworld/if-you-dont-dont-xfm-session",
     "tidal": "165939419",
@@ -37,6 +37,23 @@
       "pop punk",
       "pop rock",
       "power pop"
-    ]
+    ],
+    "releasedAt": "2001-08-27",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "5prYdqVZFzoOBj33WFTdJu"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000852688",
+      "discogs": "82079",
+      "spotify": "3Ayl7mCk0nScecqOzvNp6s",
+      "deezer": "346",
+      "lastfm": "Jimmy+Eat+World",
+      "genius": "Jimmy-eat-world",
+      "rateyourmusic": "jimmy_eat_world",
+      "soundcloud": "https://soundcloud.com/jimmyeatworld",
+      "napster": "jimmy-eat-world",
+      "wikidata": "Q642988"
+    }
   }
 }

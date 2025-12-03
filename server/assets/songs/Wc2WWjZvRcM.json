@@ -2,7 +2,7 @@
   "youtubeId": "Wc2WWjZvRcM",
   "title": "I Don't Know What Love Is (feat. Watsky)",
   "artist": "Garth.",
-  "lastFetched": "2025-12-01T13:00:55.379Z",
+  "lastFetched": "2025-12-02T01:22:51.159Z",
   "odesli": {
     "amazonMusic": "B079VTPV9W",
     "amazonStore": "B079VTPV9W",
@@ -34,6 +34,11 @@
   "musicbrainz": {
     "trackMbid": "9b1c8be4-3e59-4f13-b74a-641773c456fa",
     "artistMbid": "ad117bbf-e140-4a08-80c7-edada17da60e",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2018-03-16",
+    "externalIdsArtist": {
+      "bandcamp": "https://garthofficial.bandcamp.com/",
+      "spotify": "7aEP0AzwgG0Bs0Bw7I2sqI"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "hBnU8ISP_a0",
   "title": "Album of the Year",
   "artist": "The Good Life",
-  "lastFetched": "2025-11-23T16:46:28.299Z",
+  "lastFetched": "2025-12-02T01:39:54.746Z",
   "odesli": {
     "amazonMusic": "B00150ECNA",
     "amazonStore": "B00150ECNA",
@@ -31,7 +31,17 @@
       "indie rock"
     ],
     "trackMbid": "25114513-134b-3cbd-9110-50ebea10436a",
-    "artistMbid": "0ad7bbcd-6e77-4dc0-bb61-e331c46f70ec"
+    "artistMbid": "0ad7bbcd-6e77-4dc0-bb61-e331c46f70ec",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000059700",
+      "discogs": "313971",
+      "spotify": "7MDjyeL85p0NwMIpu96o1l",
+      "deezer": "65095",
+      "rateyourmusic": "the_good_life",
+      "wikidata": "Q1483286",
+      "wikipedia": "The_Good_Life_(band)"
+    }
   },
   "lastfm": {
     "id": "The+Good+Life/_/Album+of+the+Year",

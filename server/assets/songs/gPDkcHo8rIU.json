@@ -3,7 +3,7 @@
   "artist": "Christine Perfect",
   "duration": 181,
   "youtubeId": "gPDkcHo8rIU",
-  "lastFetched": "2025-11-16T19:15:06.774Z",
+  "lastFetched": "2025-12-02T01:38:44.301Z",
   "odesli": {
     "amazonMusic": "B086XKWJRK",
     "amazonStore": "B086XKWJRK",
@@ -31,6 +31,18 @@
     ],
     "trackMbid": "0adbd7ba-150e-4d57-8128-bd0a3075ffac",
     "artistMbid": "21551f7d-93f2-4cb7-ba71-7f260058e923",
-    "releaseCount": 12
+    "releaseCount": 12,
+    "releasedAt": "1970",
+    "externalIdsArtist": {
+      "allmusic": "mn0000123915",
+      "discogs": "304393",
+      "spotify": "6RCsx4p5smZHYz2P5HLcL2",
+      "deezer": "158697",
+      "lastfm": "Christine+McVie",
+      "genius": "Christine-mcvie",
+      "rateyourmusic": "christine-mcvie",
+      "napster": "christine-mcvie",
+      "wikidata": "Q283796"
+    }
   }
 }

@@ -1,0 +1,47 @@
+{
+  "youtubeId": "MmA551qiMT8",
+  "title": "Wie viel ist dein Outfit wert",
+  "artist": "Kummer",
+  "lastFetched": "2025-12-03T11:40:21.743Z",
+  "odesli": {
+    "amazonMusic": "B07TSF8YP7",
+    "amazonStore": "B07TSF8YP7",
+    "pandora": "TR:23769227",
+    "soundcloud": "kummer-music/wie-viel-ist-dein-outfit-wert",
+    "spotify": "1VccO3KR3IuFBSc3Fee92X",
+    "tidal": "119421817",
+    "youtube": "MmA551qiMT8",
+    "youtubeMusic": "MmA551qiMT8"
+  },
+  "lastfm": {
+    "id": "Kummer/_/Wie+viel+ist+dein+Outfit+wert",
+    "listeners": 19889,
+    "playcount": 197901,
+    "title": "Wie viel ist dein Outfit wert",
+    "artist": "Kummer",
+    "mbid": "59050838-1b61-40ce-b4bb-be48c3488a9a",
+    "artistMbid": "8e0069ec-0e15-4733-ae84-a3cfe01c50f0",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "deutschrap",
+      "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ef610987-628e-484a-b6be-bf5e9d4f07c0",
+    "artistMbid": "8e0069ec-0e15-4733-ae84-a3cfe01c50f0",
+    "releaseCount": 5,
+    "artistGenres": [
+      "hip hop"
+    ],
+    "releasedAt": "2019-10-08",
+    "externalIdsArtist": {
+      "discogs": "10509304",
+      "spotify": "2TiXt00aPsggbxZxL1RaG7",
+      "deezer": "5873975",
+      "youtube": "UCUHQfA8uW2KNh-h5lFCz9Sg",
+      "wikidata": "Q66729708"
+    }
+  }
+}

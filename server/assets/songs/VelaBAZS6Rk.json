@@ -1,7 +1,7 @@
 {
   "youtubeId": "VelaBAZS6Rk",
   "title": "Suspicious Stench - Ghost Town (Dubstep).mp4",
-  "lastFetched": "2025-11-30T21:23:30.278Z",
+  "lastFetched": "2025-12-02T01:21:25.874Z",
   "ai": {
     "title": "Ghost Town",
     "artist": "Suspicious Stench"
@@ -23,6 +23,12 @@
   "musicbrainz": {
     "trackMbid": "7474dc90-4949-4ffa-9ef1-13a16d339516",
     "artistMbid": "2c56491b-098b-402f-8e04-da56da3df071",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2010-09-27",
+    "externalIdsArtist": {
+      "discogs": "1089769",
+      "spotify": "1kBXjphH7vToJgW2xsBs9a",
+      "deezer": "1232921"
+    }
   }
 }

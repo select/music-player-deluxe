@@ -2,7 +2,7 @@
   "youtubeId": "yqPVq9DZYvM",
   "title": "Fancy Sauce",
   "artist": "Green Day",
-  "lastFetched": "2025-11-30T22:06:03.485Z",
+  "lastFetched": "2025-12-02T02:06:57.136Z",
   "odesli": {
     "amazonMusic": "B0CKMM8P3B",
     "amazonStore": "B0CKMM8P3B",
@@ -42,6 +42,21 @@
       "punk",
       "punk rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2024-01-19",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000154544",
+      "discogs": "251593",
+      "spotify": "7oPftvlwr6VrsViSDV7fJY",
+      "deezer": "52",
+      "lastfm": "Green+Day",
+      "genius": "green-day",
+      "rateyourmusic": "green_day",
+      "soundcloud": "https://soundcloud.com/greenday",
+      "napster": "green-day",
+      "wikidata": "Q47871",
+      "youtube": "UC4JNeITH4P7G51C1hJoG6vQ"
+    }
   }
 }

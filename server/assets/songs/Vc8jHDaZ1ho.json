@@ -2,7 +2,7 @@
   "youtubeId": "Vc8jHDaZ1ho",
   "title": "Mr Bobby",
   "artist": "Manu Chao",
-  "lastFetched": "2025-11-30T22:21:34.695Z",
+  "lastFetched": "2025-12-02T01:21:23.921Z",
   "lastfm": {
     "title": "Mr Bobby",
     "artist": "Manu Chao",
@@ -33,6 +33,20 @@
       "rock",
       "ska",
       "worldbeat"
-    ]
+    ],
+    "releasedAt": "1998",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000674161",
+      "discogs": "30773",
+      "spotify": "6wH6iStAh4KIaWfuhf0NYM",
+      "deezer": "6",
+      "lastfm": "Manu+Chao",
+      "genius": "Manu-chao",
+      "rateyourmusic": "manu_chao",
+      "soundcloud": "https://soundcloud.com/manuchao",
+      "wikidata": "Q207898",
+      "youtube": "UCzGpxRavGnm6yym4Pt7B2sg"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "qajFhFmDdho",
   "title": "Phaeleh - Fallen Light Full CD",
-  "lastFetched": "2025-11-30T21:23:26.647Z",
+  "lastFetched": "2025-12-02T01:54:28.027Z",
   "ai": {
     "title": "Fallen Light",
     "artist": "Phaeleh"
@@ -32,6 +32,18 @@
       "ambient",
       "electronic",
       "electronica"
-    ]
+    ],
+    "releasedAt": "2010-10-25",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://phaeleh.bandcamp.com/",
+      "discogs": "1249996",
+      "spotify": "5NkUpXWkeXspvu7iQQOHhP",
+      "deezer": "436581",
+      "lastfm": "Phaeleh",
+      "soundcloud": "https://soundcloud.com/phaeleh",
+      "wikidata": "Q11995572",
+      "youtube": "UCqexug8BOihyLrOxMtj0mEg"
+    }
   }
 }

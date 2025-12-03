@@ -2,7 +2,7 @@
   "youtubeId": "wcrSzSplcvg",
   "title": "Ya Bismillah",
   "artist": "Mamman Sani",
-  "lastFetched": "2025-11-19T16:40:44.084Z",
+  "lastFetched": "2025-12-02T02:03:30.971Z",
   "odesli": {
     "amazonMusic": "B07RMLWWWC",
     "amazonStore": "B07RMLWWWC",
@@ -21,6 +21,14 @@
   },
   "musicbrainz": {
     "trackMbid": "c401188a-6e0f-4d6e-aef6-17748d7e4077",
-    "artistMbid": "c3fde6db-b99d-4301-b42a-c40b073fe734"
+    "artistMbid": "c3fde6db-b99d-4301-b42a-c40b073fe734",
+    "artistCountry": "NE",
+    "externalIdsArtist": {
+      "bandcamp": "https://mammansani.bandcamp.com/",
+      "discogs": "3260416",
+      "deezer": "10409534",
+      "rateyourmusic": "mammane_sani_abdullaye",
+      "wikidata": "Q117212004"
+    }
   }
 }

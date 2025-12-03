@@ -3,7 +3,7 @@
   "artist": "Martinou",
   "duration": 445,
   "youtubeId": "UYMphbtpYFo",
-  "lastFetched": "2025-11-23T15:40:08.398Z",
+  "lastFetched": "2025-12-02T01:19:55.267Z",
   "lastfm": {
     "id": "Martinou/_/Shimmer",
     "listeners": 20,
@@ -18,6 +18,14 @@
   "musicbrainz": {
     "trackMbid": "e110c5ee-9be2-4966-95b5-5f7219b65906",
     "artistMbid": "81c386f6-ecde-480e-8f8d-7af94af61f13",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2020-03-20",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "discogs": "3884300",
+      "spotify": "5mxwKKP9qnvmfpuAgoI7kp",
+      "deezer": "7084175",
+      "soundcloud": "https://soundcloud.com/martinou3000"
+    }
   }
 }

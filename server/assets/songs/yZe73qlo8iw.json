@@ -2,7 +2,7 @@
   "youtubeId": "yZe73qlo8iw",
   "title": "Into the Night (Nicolas Jaar remix)",
   "artist": "Azari & III",
-  "lastFetched": "2025-11-19T15:30:20.788Z",
+  "lastFetched": "2025-12-02T02:06:11.918Z",
   "odesli": {
     "amazonMusic": "B073PJ5G9M",
     "amazonStore": "B073PJ5G9M",
@@ -26,6 +26,16 @@
   },
   "musicbrainz": {
     "trackMbid": "0b7700a4-e59c-39b0-8f2c-3299ba101bcb",
-    "artistMbid": "4b238c9c-c5eb-4900-92ef-1af425356f5a"
+    "artistMbid": "4b238c9c-c5eb-4900-92ef-1af425356f5a",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0002502797",
+      "discogs": "1676000",
+      "deezer": "374717",
+      "lastfm": "Azari%20&%20III",
+      "rateyourmusic": "azari_and_iii",
+      "soundcloud": "https://soundcloud.com/azariandiii",
+      "wikidata": "Q4832263"
+    }
   }
 }

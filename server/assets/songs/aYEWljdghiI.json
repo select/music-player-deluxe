@@ -1,7 +1,7 @@
 {
   "youtubeId": "aYEWljdghiI",
   "title": "Pothead - Never Want It Like That",
-  "lastFetched": "2025-11-30T20:23:43.724Z",
+  "lastFetched": "2025-12-02T01:30:41.277Z",
   "ai": {
     "title": "Never Want It Like That",
     "artist": "Pothead"
@@ -24,6 +24,14 @@
   "musicbrainz": {
     "trackMbid": "e179295e-25ce-4506-8056-195babc0b69f",
     "artistMbid": "b67cf130-b7f9-48ed-b14f-da434ae3d0a3",
-    "releaseCount": 4
+    "releaseCount": 4,
+    "releasedAt": "1995",
+    "externalIdsArtist": {
+      "allmusic": "mn0001964549",
+      "discogs": "258183",
+      "genius": "Pothead",
+      "rateyourmusic": "pothead",
+      "wikidata": "Q2106456"
+    }
   }
 }

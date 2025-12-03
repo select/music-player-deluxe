@@ -2,7 +2,7 @@
   "youtubeId": "xpBJzyNMpfs",
   "title": "Swung From The Gutters",
   "artist": "Tortoise",
-  "lastFetched": "2025-11-30T22:38:25.757Z",
+  "lastFetched": "2025-12-02T02:05:13.583Z",
   "lastfm": {
     "title": "Swung From the Gutters",
     "artist": "Tortoise",
@@ -28,6 +28,17 @@
       "instrumental",
       "jazz rock",
       "post-rock"
-    ]
+    ],
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000180023",
+      "bandcamp": "https://tortoise.bandcamp.com/",
+      "discogs": "4727",
+      "spotify": "3WggbHDpj4rPKbL97zG5MQ",
+      "deezer": "7244",
+      "lastfm": "Tortoise",
+      "rateyourmusic": "tortoise",
+      "wikidata": "Q1412030"
+    }
   }
 }

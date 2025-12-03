@@ -2,7 +2,7 @@
   "youtubeId": "i5kViV3aOqw",
   "title": "Sirius Syntoms",
   "artist": "Lindstrøm",
-  "lastFetched": "2025-11-30T22:21:39.537Z",
+  "lastFetched": "2025-12-02T01:41:20.272Z",
   "odesli": {
     "amazonMusic": "B0D4ZJVGVV",
     "amazonStore": "B0D4ZJVGVV",
@@ -41,6 +41,18 @@
       "electronic",
       "nu disco",
       "space disco"
-    ]
+    ],
+    "releasedAt": "2024-06-21",
+    "artistCountry": "NO",
+    "externalIdsArtist": {
+      "allmusic": "mn0000547573",
+      "bandcamp": "https://lindstrom.bandcamp.com/",
+      "discogs": "152312",
+      "spotify": "2vTtjIqZ7hW0W15t1ApKTB",
+      "deezer": "277090",
+      "rateyourmusic": "lindstrom",
+      "soundcloud": "https://soundcloud.com/feedelity",
+      "wikidata": "Q1363881"
+    }
   }
 }

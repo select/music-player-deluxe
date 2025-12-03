@@ -2,7 +2,7 @@
   "youtubeId": "gugc477bWOM",
   "title": "Let’s See How Things Go",
   "artist": "Jaakko Eino Kalevi",
-  "lastFetched": "2025-11-30T22:57:02.403Z",
+  "lastFetched": "2025-12-02T01:39:20.908Z",
   "odesli": {
     "amazonMusic": "B0CB72BPSP",
     "amazonStore": "B0CB72BPSP",
@@ -36,6 +36,16 @@
     "releaseCount": 1,
     "artistGenres": [
       "electronic"
-    ]
+    ],
+    "releasedAt": "2023-11-17",
+    "artistCountry": "FI",
+    "externalIdsArtist": {
+      "bandcamp": "https://jeks.bandcamp.com/",
+      "discogs": "224090",
+      "spotify": "20o7mwLphfnviZKGPw1gi3",
+      "rateyourmusic": "jaakko-eino-kalevi",
+      "soundcloud": "https://soundcloud.com/jeks",
+      "wikidata": "Q16299345"
+    }
   }
 }

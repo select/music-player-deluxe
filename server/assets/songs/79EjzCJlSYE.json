@@ -1,0 +1,57 @@
+{
+  "youtubeId": "79EjzCJlSYE",
+  "title": "Heroin",
+  "artist": "Badflower",
+  "lastFetched": "2025-12-03T11:54:13.056Z",
+  "odesli": {
+    "amazonMusic": "B07JR168J5",
+    "amazonStore": "B07JR168J5",
+    "napster": "tra.192642360",
+    "pandora": "TR:16710264",
+    "soundcloud": "badflower-music/heroin",
+    "spotify": "0leJYiYyZE6jjXCEVYUQAm",
+    "tidal": "104160944",
+    "yandex": "45744779",
+    "youtube": "79EjzCJlSYE",
+    "youtubeMusic": "79EjzCJlSYE"
+  },
+  "lastfm": {
+    "id": "Badflower/_/Heroin",
+    "listeners": 64207,
+    "playcount": 531190,
+    "title": "Heroin",
+    "artist": "Badflower",
+    "mbid": "d32a63dc-b7a3-4405-84cd-aa0ec3ba17b2",
+    "artistMbid": "d949a93e-19a4-410a-8dae-7359d39a0ad6",
+    "tags": [
+      "my top songs"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d32a63dc-b7a3-4405-84cd-aa0ec3ba17b2",
+    "artistMbid": "d949a93e-19a4-410a-8dae-7359d39a0ad6",
+    "releaseCount": 6,
+    "artistGenres": [
+      "alternative rock",
+      "emo pop",
+      "hard rock",
+      "post-grunge",
+      "rock"
+    ],
+    "releasedAt": "2018-11-30",
+    "externalIdsArtist": {
+      "allmusic": "mn0003397329",
+      "discogs": "6580240",
+      "spotify": "3T55D3LMiygE9eSKFpiAye",
+      "deezer": "5988054",
+      "lastfm": "Badflower",
+      "genius": "Badflower",
+      "rateyourmusic": "badflower",
+      "soundcloud": "https://soundcloud.com/badflower-music",
+      "pandora": "badflower",
+      "wikidata": "Q16246673",
+      "wikipedia": "Badflower",
+      "youtube": "UCveBEE4SnxaQMgILEyVn8aQ"
+    }
+  }
+}

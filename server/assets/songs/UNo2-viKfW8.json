@@ -2,7 +2,7 @@
   "youtubeId": "UNo2-viKfW8",
   "title": "Open Your Eyes",
   "artist": "Guano Apes",
-  "lastFetched": "2025-11-30T23:01:54.624Z",
+  "lastFetched": "2025-12-02T01:19:38.451Z",
   "odesli": {
     "amazonMusic": "B073LX8WSK",
     "amazonStore": "B073LX8WSK",
@@ -55,6 +55,20 @@
       "pop rock",
       "post-grunge",
       "rock"
-    ]
+    ],
+    "releasedAt": "1997-08-25",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000945796",
+      "discogs": "12642",
+      "spotify": "4whxX965DKKqYkXmk33b4E",
+      "deezer": "1487",
+      "lastfm": "Guano+Apes",
+      "genius": "Guano-apes",
+      "rateyourmusic": "guano_apes",
+      "soundcloud": "https://soundcloud.com/guano-apes-official",
+      "wikidata": "Q491661",
+      "youtube": "UC4QnSDk-NiioEpPmW36LqzQ"
+    }
   }
 }

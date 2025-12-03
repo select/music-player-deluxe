@@ -2,7 +2,7 @@
   "youtubeId": "yhwSPRY51gs",
   "title": "Oh! Sweet Nuthin'",
   "artist": "The Velvet Underground",
-  "lastFetched": "2025-11-30T22:21:56.081Z",
+  "lastFetched": "2025-12-02T02:06:37.581Z",
   "odesli": {
     "amazonMusic": "B016S7ZFKI",
     "amazonStore": "B016S7ZFKI",
@@ -60,6 +60,19 @@
       "proto-punk",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1995-09-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000840402",
+      "discogs": "39766",
+      "spotify": "1nJvji2KIlWSseXRSlNYsC",
+      "deezer": "1559",
+      "lastfm": "The+Velvet+Underground",
+      "genius": "The-velvet-underground",
+      "rateyourmusic": "the_velvet_underground",
+      "soundcloud": "https://soundcloud.com/thevelvetundergroundofficial",
+      "wikidata": "Q103550"
+    }
   }
 }

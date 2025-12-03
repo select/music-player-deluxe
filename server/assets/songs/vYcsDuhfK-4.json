@@ -2,7 +2,7 @@
   "youtubeId": "vYcsDuhfK-4",
   "title": "Star Of Rio",
   "artist": "The Night Flight Orchestra",
-  "lastFetched": "2025-11-23T16:52:57.205Z",
+  "lastFetched": "2025-12-02T02:01:40.755Z",
   "odesli": {
     "amazonMusic": "B07QHDCNK3",
     "amazonStore": "B07QHDCNK3",
@@ -32,7 +32,21 @@
       "hard rock"
     ],
     "trackMbid": "32f6f624-e56f-4351-8d28-cac562e82ee5",
-    "artistMbid": "0aa7e8fd-ba08-4a2d-93fc-91baf635072d"
+    "artistMbid": "0aa7e8fd-ba08-4a2d-93fc-91baf635072d",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002928334",
+      "bandcamp": "https://thenightflightorchestra.bandcamp.com/",
+      "discogs": "3238263",
+      "spotify": "6xPOeIDWmM9ooOw7SBknMl",
+      "deezer": "1849611",
+      "lastfm": "The+Night+Flight+Orchestra",
+      "genius": "The-night-flight-orchestra",
+      "rateyourmusic": "the-night-flight-orchestra",
+      "napster": "the-night-flight-orchestra",
+      "wikidata": "Q20687344",
+      "youtube": "UCx37J1JA7oAsRZN8R-3m-HA"
+    }
   },
   "lastfm": {
     "id": "The+Night+Flight+Orchestra/_/Star+Of+Rio",

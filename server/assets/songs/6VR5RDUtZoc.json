@@ -1,0 +1,50 @@
+{
+  "youtubeId": "6VR5RDUtZoc",
+  "title": "Sleaford Mods - Bang Someone Out | The Moonshine Sessions",
+  "lastFetched": "2025-12-03T12:05:59.926Z",
+  "ai": {
+    "title": "Bang Someone Out",
+    "artist": "Sleaford Mods"
+  },
+  "lastfm": {
+    "id": "Sleaford+Mods/_/Bang+Someone+Out",
+    "listeners": 10219,
+    "playcount": 37054,
+    "title": "Bang Someone Out",
+    "artist": "Sleaford Mods",
+    "mbid": "0696a95e-e953-4d5c-b227-bd03422cd8e2",
+    "artistMbid": "09d8290b-6ada-422f-8ce3-19349fb1c15d",
+    "tags": [
+      "post-punk",
+      "crank wave",
+      "spoken word",
+      "rap punk",
+      "punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fa7ecff5-03a2-401c-9fc8-27b615827c77",
+    "artistMbid": "09d8290b-6ada-422f-8ce3-19349fb1c15d",
+    "releaseCount": 2,
+    "artistGenres": [
+      "electronic",
+      "hip hop",
+      "post-punk"
+    ],
+    "releasedAt": "2018-09-14",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003160641",
+      "bandcamp": "https://sleafordmods.bandcamp.com/",
+      "discogs": "2994744",
+      "spotify": "0otAqZw8htTsGHfqR491Yh",
+      "deezer": "5326959",
+      "lastfm": "Sleaford+Mods",
+      "genius": "Sleaford-mods",
+      "rateyourmusic": "sleaford_mods",
+      "soundcloud": "https://soundcloud.com/sleafordmods",
+      "napster": "art.129622795",
+      "wikidata": "Q18162306"
+    }
+  }
+}

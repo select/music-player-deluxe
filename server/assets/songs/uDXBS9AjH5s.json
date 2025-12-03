@@ -2,7 +2,7 @@
   "youtubeId": "uDXBS9AjH5s",
   "title": "Jelly Roll Dance",
   "artist": "Jean-Pierre Martin",
-  "lastFetched": "2025-11-30T22:08:32.815Z",
+  "lastFetched": "2025-12-02T02:00:15.410Z",
   "lastfm": {
     "id": "Jean-Pierre+Martin/_/Jelly+Roll+Dance",
     "listeners": 45,
@@ -19,6 +19,10 @@
   "musicbrainz": {
     "trackMbid": "1b0bd9e0-384e-421d-b81b-f15d61da420c",
     "artistMbid": "2c8ae2e0-3934-440e-81f5-2ec7fd0d7899",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1976",
+    "externalIdsArtist": {
+      "discogs": "1005496"
+    }
   }
 }

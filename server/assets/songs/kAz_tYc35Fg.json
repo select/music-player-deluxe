@@ -1,7 +1,7 @@
 {
   "youtubeId": "kAz_tYc35Fg",
   "title": "Oh No",
-  "lastFetched": "2025-11-30T21:22:01.008Z",
+  "lastFetched": "2025-12-02T01:44:20.581Z",
   "ai": {
     "title": "Oh No",
     "artist": "Goodbye June"
@@ -34,6 +34,21 @@
     "artistGenres": [
       "blues rock",
       "hard rock"
-    ]
+    ],
+    "releasedAt": "2017-12-08",
+    "externalIdsArtist": {
+      "allmusic": "mn0003263207",
+      "bandcamp": "https://goodbyejune.bandcamp.com/",
+      "discogs": "3876597",
+      "spotify": "1l9I7G8J8AnMScWQwlNJ4M",
+      "deezer": "2639901",
+      "lastfm": "Goodbye+June",
+      "genius": "Goodbye-june",
+      "rateyourmusic": "goodbye_june",
+      "soundcloud": "https://soundcloud.com/goodbyejune",
+      "napster": "goodbye-june",
+      "wikidata": "Q27817974",
+      "youtube": "UC5O9zZ5BATbbSeTZAgs8gug"
+    }
   }
 }

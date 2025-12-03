@@ -2,7 +2,7 @@
   "youtubeId": "ym9StwsvT2I",
   "title": "Cold Edge",
   "artist": "Fracture",
-  "lastFetched": "2025-11-30T22:45:17.482Z",
+  "lastFetched": "2025-12-02T02:06:48.904Z",
   "odesli": {
     "amazonMusic": "B09TWKHG4H",
     "amazonStore": "B09TWKHG4H",
@@ -33,6 +33,18 @@
     "artistGenres": [
       "drum and bass",
       "footwork jungle"
-    ]
+    ],
+    "releasedAt": "2022-04-22",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002474368",
+      "bandcamp": "https://fracture.bandcamp.com/",
+      "discogs": "434256",
+      "spotify": "5imJlmURJJk9wicePHiqvo",
+      "deezer": "798877",
+      "lastfm": "Fracture",
+      "rateyourmusic": "fracture_f1",
+      "soundcloud": "https://soundcloud.com/fracture-official"
+    }
   }
 }

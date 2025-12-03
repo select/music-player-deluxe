@@ -2,7 +2,7 @@
   "youtubeId": "wHylQRVN2Qs",
   "title": "Russians",
   "artist": "Sting",
-  "lastFetched": "2025-11-23T16:53:23.854Z",
+  "lastFetched": "2025-12-02T02:03:04.975Z",
   "odesli": {
     "amazonMusic": "B000W2725W",
     "amazonStore": "B000W2725W",
@@ -37,7 +37,20 @@
       "pop"
     ],
     "trackMbid": "700e7687-fd47-4f57-a43d-42d76eaf0ce9",
-    "artistMbid": "7944ed53-2a58-4035-9b93-140a71e41c34"
+    "artistMbid": "7944ed53-2a58-4035-9b93-140a71e41c34",
+    "externalIdsArtist": {
+      "allmusic": "mn0000522377",
+      "discogs": "207403",
+      "spotify": "0Ty63ceoRnnJKVEYP0VQpk",
+      "deezer": "368",
+      "lastfm": "Sting",
+      "genius": "Sting",
+      "rateyourmusic": "sting",
+      "soundcloud": "https://soundcloud.com/sting",
+      "napster": "sting",
+      "wikidata": "Q483203",
+      "youtube": "UCHhKCdsmx9t-PSqlSfa-VKA"
+    }
   },
   "lastfm": {
     "id": "Sting/_/Russians",

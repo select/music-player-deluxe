@@ -3,7 +3,7 @@
   "artist": "Supertramp",
   "duration": 249,
   "youtubeId": "kln_bIndDJg",
-  "lastFetched": "2025-11-23T16:47:52.410Z",
+  "lastFetched": "2025-12-02T01:45:26.990Z",
   "odesli": {
     "amazonMusic": "B00KVYAAUA",
     "amazonStore": "B00KVYAAUA",
@@ -39,7 +39,22 @@
     ],
     "trackMbid": "e3d6df86-5cbf-4289-8f9c-8109587ac602",
     "artistMbid": "d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2011",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000033666",
+      "discogs": "251517",
+      "spotify": "3JsMj0DEzyWc0VDlHuy9Bx",
+      "deezer": "3128",
+      "lastfm": "Supertramp",
+      "genius": "Supertramp",
+      "rateyourmusic": "supertramp",
+      "napster": "supertramp",
+      "wikidata": "Q176457",
+      "wikipedia": "Supertramp",
+      "youtube": "UCuD7geq8bM0VYQAzW1J-3_Q"
+    }
   },
   "lastfm": {
     "id": "Supertramp/_/The+Logical+Song",

@@ -2,7 +2,7 @@
   "youtubeId": "lTfu2_iGud4",
   "title": "Miracle Fruit",
   "artist": "Molly Lewis",
-  "lastFetched": "2025-11-30T22:48:00.897Z",
+  "lastFetched": "2025-12-02T01:46:13.489Z",
   "odesli": {
     "amazonMusic": "B0B4YQ46T6",
     "amazonStore": "B0B4YQ46T6",
@@ -30,6 +30,17 @@
     "releaseCount": 4,
     "artistGenres": [
       "folk pop"
-    ]
+    ],
+    "releasedAt": "2022-09-16",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "bandcamp": "https://cafemolly.bandcamp.com/",
+      "discogs": "3524696",
+      "spotify": "16eM95zw2t0KRDniuNFKVt",
+      "deezer": "126636942",
+      "lastfm": "Molly+Lewis",
+      "wikidata": "Q110186627",
+      "youtube": "UCU23e1GqBEBvseaxX8Pl-Yg"
+    }
   }
 }

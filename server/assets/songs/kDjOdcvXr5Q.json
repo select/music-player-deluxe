@@ -2,7 +2,7 @@
   "youtubeId": "kDjOdcvXr5Q",
   "title": "Come Back To What You Know",
   "artist": "Embrace",
-  "lastFetched": "2025-11-30T20:01:07.903Z",
+  "lastFetched": "2025-12-02T01:44:25.575Z",
   "odesli": {
     "amazonMusic": "B073LW5VYX",
     "amazonStore": "B073LW5VYX",
@@ -42,6 +42,17 @@
       "piano rock",
       "pop rock",
       "post-britpop"
-    ]
+    ],
+    "releasedAt": "1998-05-25",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000182866",
+      "discogs": "236112",
+      "spotify": "74K7bX12L8GBAWvPuyIgJ7",
+      "deezer": "1510",
+      "lastfm": "Embrace",
+      "rateyourmusic": "embrace",
+      "wikidata": "Q1335100"
+    }
   }
 }

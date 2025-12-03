@@ -1,7 +1,7 @@
 {
   "youtubeId": "pAycJ7Gf2ak",
   "title": "The Wiseguys - Oh La La",
-  "lastFetched": "2025-11-30T20:19:34.471Z",
+  "lastFetched": "2025-12-02T01:52:07.032Z",
   "ai": {
     "title": "Oh La La",
     "artist": "The Wiseguys"
@@ -28,6 +28,15 @@
     "artistGenres": [
       "big beat",
       "breakbeat"
-    ]
+    ],
+    "releasedAt": "1999",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000580294",
+      "discogs": "3146",
+      "deezer": "10592",
+      "rateyourmusic": "the_wiseguys",
+      "wikidata": "Q1430899"
+    }
   }
 }

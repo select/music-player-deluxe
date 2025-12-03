@@ -1,7 +1,7 @@
 {
   "youtubeId": "V5PwxCoFxuA",
   "title": "DISSYTHEKID - FYNN (FULL MOVIE)",
-  "lastFetched": "2025-11-30T21:02:32.175Z",
+  "lastFetched": "2025-12-02T01:20:37.302Z",
   "ai": {
     "title": "FYNN",
     "artist": "DISSYTHEKID"
@@ -25,6 +25,16 @@
     "releaseCount": 1,
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2017-06-16",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "4086055",
+      "spotify": "6CfRq9NZZaosSc1hEAXuwH",
+      "rateyourmusic": "dissythekid",
+      "soundcloud": "https://soundcloud.com/dissythekid",
+      "wikidata": "Q56764880",
+      "youtube": "UCw_CETHMz7L6dksJZE8Fcvg"
+    }
   }
 }

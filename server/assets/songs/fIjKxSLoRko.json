@@ -2,7 +2,7 @@
   "youtubeId": "fIjKxSLoRko",
   "title": "Silver Dollar",
   "artist": "Sierra Ferrell",
-  "lastFetched": "2025-11-30T22:06:08.802Z",
+  "lastFetched": "2025-12-02T01:37:12.465Z",
   "lastfm": {
     "id": "Sierra+Ferrell/_/Silver+Dollar",
     "listeners": 28677,
@@ -29,6 +29,18 @@
       "neo-traditional country",
       "progressive country",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2021-08-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003898450",
+      "bandcamp": "https://sierraferrell.bandcamp.com/",
+      "discogs": "6772708",
+      "spotify": "3oVcF3VdpMuvMvLLyHPT4t",
+      "deezer": "282724981",
+      "genius": "Sierra-ferrell",
+      "wikidata": "Q110877092",
+      "youtube": "UCbjFZTjyAveA2dOTCmkZ3ng"
+    }
   }
 }

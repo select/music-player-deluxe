@@ -2,7 +2,7 @@
   "youtubeId": "VOWu4-cTV1I",
   "title": "Corona",
   "artist": "Minutemen",
-  "lastFetched": "2025-11-30T22:27:00.314Z",
+  "lastFetched": "2025-12-02T01:21:11.160Z",
   "lastfm": {
     "title": "Corona",
     "artist": "Minutemen",
@@ -38,6 +38,15 @@
       "post-punk",
       "punk",
       "punk rock"
-    ]
+    ],
+    "releasedAt": "1984-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000474482",
+      "discogs": "28963",
+      "spotify": "0z6zRFzl5njXWLVAisXQBz",
+      "rateyourmusic": "minutemen",
+      "wikidata": "Q1364766"
+    }
   }
 }

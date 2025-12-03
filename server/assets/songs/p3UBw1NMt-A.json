@@ -2,7 +2,7 @@
   "youtubeId": "p3UBw1NMt-A",
   "title": "Of Truth",
   "artist": "Current Value",
-  "lastFetched": "2025-11-30T19:53:41.561Z",
+  "lastFetched": "2025-12-02T01:52:00.123Z",
   "odesli": {
     "amazonMusic": "B0DC1B9RN8",
     "amazonStore": "B0DC1B9RN8",
@@ -38,6 +38,18 @@
       "neurofunk",
       "skullstep",
       "techstep"
-    ]
+    ],
+    "releasedAt": "2018-08-30",
+    "externalIdsArtist": {
+      "bandcamp": "https://currentvalue.bandcamp.com/",
+      "discogs": "4937",
+      "spotify": "6B9SjvZNSQZkeJDH17oBSO",
+      "deezer": "307163",
+      "lastfm": "Current+Value",
+      "rateyourmusic": "current-value",
+      "soundcloud": "https://soundcloud.com/tim-e-aka-current-value",
+      "wikidata": "Q18967146",
+      "youtube": "UC-H-3aYU_HCmK6RWccSVFpg"
+    }
   }
 }

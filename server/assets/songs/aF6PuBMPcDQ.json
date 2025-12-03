@@ -2,7 +2,7 @@
   "youtubeId": "aF6PuBMPcDQ",
   "title": "So You Think You're Special",
   "artist": "Scuba",
-  "lastFetched": "2025-11-23T16:43:11.565Z",
+  "lastFetched": "2025-12-02T01:30:19.695Z",
   "musicbrainz": {
     "artistTags": [
       "dubstep",
@@ -20,7 +20,16 @@
       "tech house"
     ],
     "trackMbid": "c34d8161-0523-4883-adaa-2efe834ee84c",
-    "artistMbid": "8bb978c1-a003-4f6f-ac53-0c84ec8b28ee"
+    "artistMbid": "8bb978c1-a003-4f6f-ac53-0c84ec8b28ee",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002020050",
+      "bandcamp": "https://scubaofficial.bandcamp.com/",
+      "discogs": "288826",
+      "spotify": "48hZklIMPklae2Mssfp8Cx",
+      "soundcloud": "https://soundcloud.com/scubaofficial",
+      "wikidata": "Q7439369"
+    }
   },
   "lastfm": {
     "id": "Scuba/_/So+You+Think+You%27re+Special",

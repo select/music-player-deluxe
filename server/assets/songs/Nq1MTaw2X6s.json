@@ -1,0 +1,61 @@
+{
+  "youtubeId": "Nq1MTaw2X6s",
+  "title": "Reckless Paradise",
+  "artist": "Billy Talent",
+  "lastFetched": "2025-12-03T11:48:30.112Z",
+  "odesli": {
+    "amazonMusic": "B0BTVWBR1J",
+    "amazonStore": "B0BTVWBR1J",
+    "appleMusic": "1669849982",
+    "itunes": "1669849982",
+    "pandora": "TR:54008177",
+    "soundcloud": "billytalent/reckless-paradise",
+    "spotify": "5DyopyvTi9Lt4Hpe1JGbD2",
+    "tidal": "275050383",
+    "yandex": "61874305",
+    "youtube": "Nq1MTaw2X6s",
+    "youtubeMusic": "Nq1MTaw2X6s"
+  },
+  "lastfm": {
+    "id": "Billy+Talent/_/Reckless+Paradise",
+    "listeners": 78263,
+    "playcount": 583633,
+    "title": "Reckless Paradise",
+    "artist": "Billy Talent",
+    "mbid": "0632efb2-c855-4d34-8800-e37472c2a541",
+    "artistMbid": "fd429857-5ace-4609-ae54-1502c3bdac11",
+    "tags": [
+      "punk",
+      "rock",
+      "punk rock",
+      "pop punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2be56231-ad35-483f-80a5-82b8ef62624a",
+    "artistMbid": "fd429857-5ace-4609-ae54-1502c3bdac11",
+    "releaseCount": 7,
+    "artistGenres": [
+      "alternative rock",
+      "pop punk",
+      "pop rock",
+      "punk rock"
+    ],
+    "releasedAt": "2020-01-24",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000768585",
+      "bandcamp": "https://billytalentband.bandcamp.com/",
+      "discogs": "287592",
+      "spotify": "08yf5A2nS4XEeNvabDXqyg",
+      "deezer": "2830",
+      "lastfm": "Billy+Talent",
+      "genius": "Billy-talent",
+      "rateyourmusic": "billy_talent",
+      "soundcloud": "https://soundcloud.com/billytalent",
+      "napster": "billy-talent",
+      "wikidata": "Q154815",
+      "youtube": "UCHXV6N-U335ncqCLRpEjJKw"
+    }
+  }
+}

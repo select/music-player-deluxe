@@ -2,7 +2,7 @@
   "youtubeId": "gxh9CJ1FAC0",
   "title": "Change Init",
   "artist": "Cleo AD",
-  "lastFetched": "2025-11-30T21:57:40.420Z",
+  "lastFetched": "2025-12-02T01:39:27.435Z",
   "odesli": {
     "amazonMusic": "B0DPQTRDDT",
     "amazonStore": "B0DPQTRDDT",
@@ -28,6 +28,7 @@
   "musicbrainz": {
     "trackMbid": "0b34f5a0-903d-4b04-a132-1ea87df03353",
     "artistMbid": "2ea8198b-9788-4b7d-ab51-410f5f90206d",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2024-05-09"
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "xHZbWxVqDjM",
   "title": "Dear Catastrophe Waitress",
   "artist": "Belle And Sebastian",
-  "lastFetched": "2025-11-30T20:37:02.127Z",
+  "lastFetched": "2025-12-02T02:04:15.312Z",
   "odesli": {
     "amazonMusic": "B01LX8H78T",
     "amazonStore": "B01LX8H78T",
@@ -41,6 +41,20 @@
       "sunshine pop",
       "synth-pop",
       "twee pop"
-    ]
+    ],
+    "releasedAt": "2015-05-22",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000153565",
+      "bandcamp": "https://belleandsebastian.bandcamp.com/",
+      "discogs": "252864",
+      "spotify": "4I2BJf80C0skQpp1sQmA0h",
+      "deezer": "887535",
+      "lastfm": "Belle+and+Sebastian",
+      "rateyourmusic": "belle-and-sebastian",
+      "soundcloud": "https://soundcloud.com/belle-and-sebastian",
+      "wikidata": "Q691568",
+      "youtube": "UClz7tzOxFJT_v5iOfh8PPvg"
+    }
   }
 }

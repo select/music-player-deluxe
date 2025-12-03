@@ -2,7 +2,7 @@
   "youtubeId": "lL2ZwXj1tXM",
   "title": "Never Too Late",
   "artist": "Three Days Grace",
-  "lastFetched": "2025-11-19T09:39:20.005Z",
+  "lastFetched": "2025-12-02T01:45:49.998Z",
   "odesli": {
     "amazonMusic": "B0040GR0A8",
     "amazonStore": "B0040GR0A8",
@@ -28,7 +28,21 @@
       "alternative"
     ],
     "trackMbid": "2ac2fefc-83f0-4441-9f0d-4bad4d317fa8",
-    "artistMbid": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d"
+    "artistMbid": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000490860",
+      "discogs": "313265",
+      "spotify": "2xiIXseIJcq3nG7C8fHeBj",
+      "deezer": "2978",
+      "lastfm": "Three+Days+Grace",
+      "genius": "Three-days-grace",
+      "rateyourmusic": "three_days_grace",
+      "soundcloud": "https://soundcloud.com/threedaysgraceofficial",
+      "napster": "three-days-grace",
+      "wikidata": "Q486825",
+      "youtube": "UCfgRkxIufLnYKicOY8aJQ2g"
+    }
   },
   "lastfm": {
     "id": "Three+Days+Grace/_/Never+Too+Late",

@@ -2,13 +2,22 @@
   "youtubeId": "nqF9chK05YM",
   "title": "Warum hört der Fahrradweg einfach hier auf?",
   "artist": "Jan Böhmermann",
-  "lastFetched": "2025-11-23T16:49:26.069Z",
+  "lastFetched": "2025-12-02T01:49:55.226Z",
   "musicbrainz": {
     "artistTags": [
       "satire"
     ],
     "trackMbid": "14231183-5558-4a1d-91d3-0672b815157f",
-    "artistMbid": "1965aa78-3109-4ceb-9b7e-5e9b79b5a229"
+    "artistMbid": "1965aa78-3109-4ceb-9b7e-5e9b79b5a229",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "4041494",
+      "spotify": "4yos94vHbPhhiNdyYO2uan",
+      "deezer": "281893",
+      "lastfm": "Jan+B%C3%B6hmermann",
+      "rateyourmusic": "jan-bohmermann",
+      "wikidata": "Q1361675"
+    }
   },
   "lastfm": {
     "id": "Jan+B%C3%B6hmermann/_/Warum+h%C3%B6rt+der+Fahrradweg+einfach+hier+auf%3F",

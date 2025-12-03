@@ -1,7 +1,7 @@
 {
   "youtubeId": "jPkZsDInseQ",
   "title": "Grimner - Eldhjärta ( Official Video ) Swedish Viking Pagan Folk Metal",
-  "lastFetched": "2025-11-30T20:08:13.583Z",
+  "lastFetched": "2025-12-02T01:43:04.719Z",
   "ai": {
     "title": "Eldhjärta",
     "artist": "Grimner"
@@ -25,6 +25,15 @@
     "artistGenres": [
       "folk metal",
       "viking metal"
-    ]
+    ],
+    "releasedAt": "2015-12-18",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "bandcamp": "https://grimner.bandcamp.com/",
+      "discogs": "4155320",
+      "spotify": "3EzUgwy78fPj2HFx8hSvKR",
+      "deezer": "1848081",
+      "lastfm": "Grimner"
+    }
   }
 }

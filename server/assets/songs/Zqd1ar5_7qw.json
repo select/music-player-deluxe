@@ -2,7 +2,7 @@
   "title": "Nonsense song (Titine)",
   "artist": "Charlie Chaplin",
   "youtubeId": "Zqd1ar5_7qw",
-  "lastFetched": "2025-11-19T04:50:57.306Z",
+  "lastFetched": "2025-12-02T01:28:15.778Z",
   "lastfm": {
     "id": "Charlie+Chaplin/_/Nonsense+song+(Titine)",
     "listeners": 81,
@@ -18,6 +18,16 @@
   "musicbrainz": {
     "trackMbid": "e1ea4495-3721-4289-808a-4d6bada30314",
     "artistMbid": "043eefc9-9d94-4d06-b6f3-93252fa52154",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2019",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000206681",
+      "discogs": "243896",
+      "spotify": "6AmG7SNdlV9boPZ7dFVnLY",
+      "rateyourmusic": "charlie_chaplin_f1",
+      "wikidata": "Q882",
+      "youtube": "UCe7sQfrqTHc-hWXdenf7VxQ"
+    }
   }
 }

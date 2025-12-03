@@ -1,7 +1,7 @@
 {
   "youtubeId": "cwYQIw5sXC0",
   "title": "Noga Erez - Balkada - 12/6/2016 - Paste Studios, New York, NY",
-  "lastFetched": "2025-11-30T20:43:29.059Z",
+  "lastFetched": "2025-12-02T01:34:29.234Z",
   "ai": {
     "title": "Balkada",
     "artist": "Noga Erez"
@@ -29,6 +29,21 @@
     "artistGenres": [
       "electronic",
       "pop"
-    ]
+    ],
+    "releasedAt": "2017-06-02",
+    "artistCountry": "IL",
+    "externalIdsArtist": {
+      "allmusic": "mn0003566054",
+      "bandcamp": "https://nogaerez.bandcamp.com/",
+      "discogs": "5353186",
+      "spotify": "5VwCIS8jdx9ZHjApLFNrTZ",
+      "deezer": "11226070",
+      "lastfm": "Noga+Erez",
+      "genius": "Noga-erez",
+      "rateyourmusic": "noga-erez",
+      "soundcloud": "https://soundcloud.com/nogerz26",
+      "wikidata": "Q40856678",
+      "youtube": "UC8jilbu-zFcknaZ5ah3C8NA"
+    }
   }
 }

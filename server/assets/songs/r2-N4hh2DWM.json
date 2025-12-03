@@ -1,7 +1,7 @@
 {
   "youtubeId": "r2-N4hh2DWM",
   "title": "Maite Hontelé - Nochecita ft. Herencia de Timbiquí (Video Oficial)",
-  "lastFetched": "2025-11-30T19:53:26.290Z",
+  "lastFetched": "2025-12-02T01:55:00.962Z",
   "ai": {
     "title": "Nochecita",
     "artist": "Maite Hontelé"
@@ -27,6 +27,15 @@
       "bolero",
       "latin",
       "salsa"
-    ]
+    ],
+    "releasedAt": "2015-09-01",
+    "artistCountry": "CO",
+    "externalIdsArtist": {
+      "allmusic": "mn0003249943",
+      "discogs": "5293976",
+      "spotify": "1Pe4MoTbike2NZeexUUBrU",
+      "rateyourmusic": "maite_hontele",
+      "wikidata": "Q20747923"
+    }
   }
 }

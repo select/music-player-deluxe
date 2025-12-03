@@ -1,7 +1,7 @@
 {
   "youtubeId": "jUOO148S5lU",
   "title": "Frivolous - Wasting Time",
-  "lastFetched": "2025-11-30T20:17:59.020Z",
+  "lastFetched": "2025-12-02T01:43:10.191Z",
   "ai": {
     "title": "Wasting Time",
     "artist": "Frivolous"
@@ -23,6 +23,12 @@
   "musicbrainz": {
     "trackMbid": "2ba364ff-6603-49cc-bdcc-eff13cee757e",
     "artistMbid": "dd8385e4-fdd6-485c-8e75-b69043e68950",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2011-02-01",
+    "externalIdsArtist": {
+      "bandcamp": "https://the-real-frivolous.bandcamp.com/",
+      "discogs": "51765",
+      "deezer": "62856"
+    }
   }
 }

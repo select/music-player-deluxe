@@ -1,7 +1,7 @@
 {
   "youtubeId": "WJygRDsOR7k",
   "title": "Thievery Corporation - Liberation Front",
-  "lastFetched": "2025-11-30T20:39:05.203Z",
+  "lastFetched": "2025-12-02T01:22:24.247Z",
   "ai": {
     "title": "Liberation Front",
     "artist": "Thievery Corporation"
@@ -46,6 +46,21 @@
       "electronica",
       "idm",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2002-09-17",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000586798",
+      "bandcamp": "https://thieverycorporation.bandcamp.com/",
+      "discogs": "1035",
+      "spotify": "25KNo5GDS6ZpLkjasaecA3",
+      "deezer": "366",
+      "lastfm": "Thievery+Corporation",
+      "genius": "Thievery-corporation",
+      "rateyourmusic": "thievery_corporation",
+      "soundcloud": "https://soundcloud.com/thieverycorporation",
+      "napster": "thievery-corporation",
+      "wikidata": "Q546930"
+    }
   }
 }

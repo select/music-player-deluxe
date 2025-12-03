@@ -2,7 +2,7 @@
   "youtubeId": "lyfLS8Ygas0",
   "title": "Bangla Vampires",
   "artist": "SubMotive",
-  "lastFetched": "2025-11-30T23:05:33.168Z",
+  "lastFetched": "2025-12-02T01:47:10.462Z",
   "odesli": {
     "amazonMusic": "B0B9129YRM",
     "amazonStore": "B0B9129YRM",
@@ -29,6 +29,14 @@
     "releaseCount": 1,
     "artistGenres": [
       "drum and bass"
-    ]
+    ],
+    "releasedAt": "2022-09-09",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "9654814",
+      "spotify": "5wlb3CuXIKwGZj2qSmNFUU",
+      "deezer": "334924",
+      "soundcloud": "https://soundcloud.com/submotive"
+    }
   }
 }

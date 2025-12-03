@@ -2,7 +2,7 @@
   "youtubeId": "eZ7MFTBjJS8",
   "title": "Carry the Zero",
   "artist": "Built to Spill",
-  "lastFetched": "2025-11-23T16:45:09.031Z",
+  "lastFetched": "2025-12-02T01:36:13.751Z",
   "odesli": {
     "amazonMusic": "B0026EEF0E",
     "amazonStore": "B0026EEF0E",
@@ -33,7 +33,21 @@
       "rock"
     ],
     "trackMbid": "801474bb-feef-46ab-9fc3-64566e46d5d8",
-    "artistMbid": "3ac482b8-1494-4071-a0e9-f192f9d2c2b0"
+    "artistMbid": "3ac482b8-1494-4071-a0e9-f192f9d2c2b0",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000527267",
+      "bandcamp": "https://builttospill.bandcamp.com/",
+      "discogs": "260124",
+      "spotify": "3kbBWco9PZ5eSQsNScwG6U",
+      "deezer": "11003",
+      "lastfm": "Built+to+Spill",
+      "genius": "Built-to-spill",
+      "rateyourmusic": "built_to_spill",
+      "soundcloud": "https://soundcloud.com/builttospill",
+      "wikidata": "Q1003115",
+      "youtube": "builttospill"
+    }
   },
   "lastfm": {
     "id": "Built+to+Spill/_/Carry+the+Zero",

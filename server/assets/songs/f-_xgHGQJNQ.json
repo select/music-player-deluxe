@@ -2,7 +2,7 @@
   "youtubeId": "f-_xgHGQJNQ",
   "title": "Onsta la Yerbita",
   "artist": "Los Destellos",
-  "lastFetched": "2025-11-30T20:10:53.655Z",
+  "lastFetched": "2025-12-02T01:36:56.077Z",
   "odesli": {
     "amazonMusic": "B0BYT7W1QN",
     "amazonStore": "B0BYT7W1QN",
@@ -33,6 +33,14 @@
     "artistGenres": [
       "cumbia",
       "cumbia peruana"
-    ]
+    ],
+    "releasedAt": "2009-12-15",
+    "artistCountry": "PE",
+    "externalIdsArtist": {
+      "discogs": "865862",
+      "spotify": "2xfdrsA1TWrKlaEfQQbbmf",
+      "rateyourmusic": "los_destellos",
+      "wikidata": "Q5979655"
+    }
   }
 }

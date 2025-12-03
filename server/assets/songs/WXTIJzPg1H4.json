@@ -1,7 +1,7 @@
 {
   "youtubeId": "WXTIJzPg1H4",
   "title": "Altın Gün - Goca Dünya",
-  "lastFetched": "2025-11-30T20:11:04.950Z",
+  "lastFetched": "2025-12-02T01:22:39.401Z",
   "ai": {
     "title": "Goca Dünya",
     "artist": "Altın Gün"
@@ -18,6 +18,25 @@
       "pop",
       "psychedelic folk",
       "psychedelic rock"
-    ]
+    ],
+    "releasedAt": "2017-04",
+    "artistCountry": "NL",
+    "externalIdsTrack": {
+      "spotify": "0jCeRmcKLp7HDdKeOMXMM8"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003616207",
+      "bandcamp": "https://altingun.bandcamp.com/",
+      "discogs": "5793123",
+      "spotify": "37PL04N8kBWWW69jdrMMWT",
+      "deezer": "12494758",
+      "lastfm": "Alt%C4%B1n+G%C3%BCn",
+      "genius": "Altin-gun",
+      "rateyourmusic": "altin-gun",
+      "soundcloud": "https://soundcloud.com/altin_gun",
+      "qobuz": "3589355",
+      "wikidata": "Q59459512",
+      "youtube": "UChEZ2psKMV0dei91gpDtI_A"
+    }
   }
 }

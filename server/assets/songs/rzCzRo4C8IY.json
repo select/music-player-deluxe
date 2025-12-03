@@ -2,7 +2,7 @@
   "youtubeId": "rzCzRo4C8IY",
   "title": "Doctor D",
   "artist": "VHS Glitch",
-  "lastFetched": "2025-11-23T16:51:28.285Z",
+  "lastFetched": "2025-12-02T01:56:50.225Z",
   "odesli": {
     "amazonMusic": "B07D1X2X74",
     "amazonStore": "B07D1X2X74",
@@ -26,7 +26,14 @@
       "synthwave"
     ],
     "trackMbid": "867b1620-18f9-4c45-94a7-0b25a55a3b08",
-    "artistMbid": "13505577-7c12-431b-bb81-19a41fc48c99"
+    "artistMbid": "13505577-7c12-431b-bb81-19a41fc48c99",
+    "externalIdsArtist": {
+      "bandcamp": "https://vhsglitch.bandcamp.com/",
+      "discogs": "3947139",
+      "spotify": "7s5ohke1zMktuLdZyR2Clp",
+      "deezer": "7704706",
+      "soundcloud": "https://soundcloud.com/vhs-glitch"
+    }
   },
   "lastfm": {
     "id": "VHS+Glitch/_/Doctor+D",

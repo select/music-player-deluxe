@@ -2,7 +2,7 @@
   "youtubeId": "Xsu_22_JzNM",
   "title": "Knockout",
   "artist": "Noga Erez",
-  "lastFetched": "2025-11-23T16:41:49.506Z",
+  "lastFetched": "2025-12-02T01:25:05.007Z",
   "odesli": {
     "amazonMusic": "B09RGQNB5X",
     "amazonStore": "B09RGQNB5X",
@@ -28,7 +28,21 @@
       "pop"
     ],
     "trackMbid": "1dca6e38-0275-4ab8-a10c-8674742b7095",
-    "artistMbid": "06479724-ee7d-471e-a3d4-4554330a0293"
+    "artistMbid": "06479724-ee7d-471e-a3d4-4554330a0293",
+    "artistCountry": "IL",
+    "externalIdsArtist": {
+      "allmusic": "mn0003566054",
+      "bandcamp": "https://nogaerez.bandcamp.com/",
+      "discogs": "5353186",
+      "spotify": "5VwCIS8jdx9ZHjApLFNrTZ",
+      "deezer": "11226070",
+      "lastfm": "Noga+Erez",
+      "genius": "Noga-erez",
+      "rateyourmusic": "noga-erez",
+      "soundcloud": "https://soundcloud.com/nogerz26",
+      "wikidata": "Q40856678",
+      "youtube": "UC8jilbu-zFcknaZ5ah3C8NA"
+    }
   },
   "lastfm": {
     "id": "Noga+Erez/_/Knockout",

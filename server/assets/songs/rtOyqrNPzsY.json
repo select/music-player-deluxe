@@ -2,7 +2,7 @@
   "youtubeId": "rtOyqrNPzsY",
   "title": "You're Cut Off",
   "artist": "Municipal Waste",
-  "lastFetched": "2025-11-30T23:27:24.768Z",
+  "lastFetched": "2025-12-02T01:56:43.108Z",
   "odesli": {
     "amazonMusic": "B07NK9JRPH",
     "amazonStore": "B07NK9JRPH",
@@ -24,6 +24,22 @@
       "metal",
       "punk",
       "thrash metal"
-    ]
+    ],
+    "releasedAt": "2017-06-17",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000934565",
+      "bandcamp": "https://municipal-waste.bandcamp.com/",
+      "discogs": "428324",
+      "spotify": "2Ah9OuOj7B57gPD1cbwiaE",
+      "deezer": "131940",
+      "lastfm": "Municipal%20Waste",
+      "genius": "Municipal-waste",
+      "rateyourmusic": "municipal_waste",
+      "soundcloud": "https://soundcloud.com/municipalwaste",
+      "napster": "municipal-waste",
+      "wikidata": "Q922034",
+      "youtube": "UCRZIRz5bGPKhAu0to1WDHdw"
+    }
   }
 }

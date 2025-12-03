@@ -1,0 +1,53 @@
+{
+  "youtubeId": "R9ePvkocxHA",
+  "title": "Cold Chisel - Goodbye (Astrid Goodbye) [Original 1978 Version]",
+  "lastFetched": "2025-12-03T11:55:39.895Z",
+  "ai": {
+    "title": "Goodbye (Astrid Goodbye)",
+    "artist": "Cold Chisel"
+  },
+  "lastfm": {
+    "id": "Cold+Chisel/_/Goodbye+(Astrid+Goodbye)",
+    "listeners": 4771,
+    "playcount": 18450,
+    "title": "Goodbye (Astrid Goodbye)",
+    "artist": "Cold Chisel",
+    "mbid": "05c440a6-1d17-3cab-b0da-278500890f1b",
+    "artistMbid": "29c52c26-5f62-46f5-a995-c9f30e3ffbef",
+    "tags": [
+      "hard rock",
+      "70s",
+      "pub rock",
+      "aussie",
+      "1978"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f1afb1fe-7860-4010-849c-d70593c58f8b",
+    "artistMbid": "29c52c26-5f62-46f5-a995-c9f30e3ffbef",
+    "releaseCount": 6,
+    "genres": [
+      "hard rock",
+      "new wave",
+      "pub rock"
+    ],
+    "artistGenres": [
+      "hard rock",
+      "pop rock",
+      "pub rock",
+      "rock and roll"
+    ],
+    "releasedAt": "1981-03-23",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000107823",
+      "discogs": "257769",
+      "spotify": "1VcbchGlIfo3Gylxc3F076",
+      "deezer": "10295",
+      "lastfm": "Cold+Chisel",
+      "rateyourmusic": "cold-chisel",
+      "wikidata": "Q1107765",
+      "youtube": "UCZW5rgF90OnAgNhLh52YHeQ"
+    }
+  }
+}

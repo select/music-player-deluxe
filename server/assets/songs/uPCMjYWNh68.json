@@ -1,0 +1,65 @@
+{
+  "youtubeId": "uPCMjYWNh68",
+  "title": "Perdida",
+  "artist": "Stone Temple Pilots",
+  "lastFetched": "2025-12-03T11:54:33.150Z",
+  "odesli": {
+    "amazonMusic": "B081XNW5WL",
+    "amazonStore": "B081XNW5WL",
+    "appleMusic": "1488999869",
+    "itunes": "1488999869",
+    "pandora": "TR:28764074",
+    "soundcloud": "stpsoundcloud/perdida",
+    "spotify": "37AWxJfFokpKZhn6b0o483",
+    "tidal": "128416014",
+    "yandex": "62048228",
+    "youtube": "uPCMjYWNh68",
+    "youtubeMusic": "uPCMjYWNh68"
+  },
+  "lastfm": {
+    "id": "Stone+Temple+Pilots/_/Perdida",
+    "listeners": 17206,
+    "playcount": 62234,
+    "title": "Perdida",
+    "artist": "Stone Temple Pilots",
+    "mbid": "35ef36cc-88d3-49a2-84f9-98227c338e01",
+    "artistMbid": "8c32bb01-58a3-453b-8050-8c0620edb0e5",
+    "tags": [
+      "folk rock",
+      "acoustic",
+      "folk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fc69e487-649b-4769-9056-d6d1f783482c",
+    "artistMbid": "8c32bb01-58a3-453b-8050-8c0620edb0e5",
+    "releaseCount": 3,
+    "artistGenres": [
+      "acoustic rock",
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "neo-psychedelia",
+      "post-grunge",
+      "power pop"
+    ],
+    "releasedAt": "2020-02-07",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "37AWxJfFokpKZhn6b0o483"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000626463",
+      "discogs": "87642",
+      "spotify": "2UazAtjfzqBF0Nho2awK4z",
+      "deezer": "4435",
+      "lastfm": "Stone+Temple+Pilots",
+      "genius": "Stone-temple-pilots",
+      "rateyourmusic": "stone-temple-pilots",
+      "soundcloud": "https://soundcloud.com/stpsoundcloud",
+      "wikidata": "Q329270",
+      "youtube": "UCg26QwzVApb014fbJF-dptQ"
+    }
+  }
+}

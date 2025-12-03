@@ -2,7 +2,7 @@
   "youtubeId": "jzfJHxRsT6o",
   "title": "Positivland",
   "artist": "Âme",
-  "lastFetched": "2025-12-01T12:59:47.295Z",
+  "lastFetched": "2025-12-02T01:43:58.787Z",
   "odesli": {
     "amazonMusic": "B07VNBZ14Y",
     "amazonStore": "B07VNBZ14Y",
@@ -34,6 +34,19 @@
     "artistGenres": [
       "electronic",
       "house"
-    ]
+    ],
+    "releasedAt": "2018-06-01",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000748516",
+      "bandcamp": "https://ame-engoli.bandcamp.com/",
+      "discogs": "21735",
+      "spotify": "5muFO8VqYRCRW13EkvX564",
+      "deezer": "9085",
+      "lastfm": "%C3%82me",
+      "rateyourmusic": "ame",
+      "soundcloud": "https://soundcloud.com/ame",
+      "wikidata": "Q3577064"
+    }
   }
 }

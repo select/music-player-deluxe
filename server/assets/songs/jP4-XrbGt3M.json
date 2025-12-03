@@ -2,7 +2,7 @@
   "youtubeId": "jP4-XrbGt3M",
   "title": "Sowieso",
   "artist": "Mark Forster",
-  "lastFetched": "2025-11-30T20:02:46.955Z",
+  "lastFetched": "2025-12-02T01:43:00.316Z",
   "odesli": {
     "amazonMusic": "B01GB0YIOG",
     "amazonStore": "B01GB0YIOG",
@@ -37,6 +37,20 @@
     ],
     "artistGenres": [
       "pop"
-    ]
+    ],
+    "releasedAt": "2016-06-03",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002921153",
+      "bandcamp": "https://mark-forster.bandcamp.com/",
+      "discogs": "3195385",
+      "spotify": "7qXzy6c5RWT0XlVQcOBIDG",
+      "deezer": "2163861",
+      "lastfm": "Mark+Forster",
+      "rateyourmusic": "mark_forster",
+      "soundcloud": "https://soundcloud.com/mark-forster-official",
+      "wikidata": "Q105558",
+      "youtube": "UCLyAYe-pk6HGmfyT94ouBcA"
+    }
   }
 }

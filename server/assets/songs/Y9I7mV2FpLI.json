@@ -1,0 +1,72 @@
+{
+  "youtubeId": "Y9I7mV2FpLI",
+  "title": "Rainy Night House",
+  "artist": "Joni Mitchell",
+  "lastFetched": "2025-12-03T11:59:58.517Z",
+  "odesli": {
+    "amazonMusic": "B001KWL5II",
+    "amazonStore": "B001KWL5II",
+    "pandora": "TR:41382",
+    "tidal": "393330",
+    "youtube": "Y9I7mV2FpLI",
+    "youtubeMusic": "Y9I7mV2FpLI"
+  },
+  "lastfm": {
+    "id": "Joni+Mitchell/_/Rainy+Night+House",
+    "listeners": 74286,
+    "playcount": 253151,
+    "title": "Rainy Night House",
+    "artist": "Joni Mitchell",
+    "mbid": "6b2bb9c1-681a-48e8-a246-f3d24133caec",
+    "artistMbid": "a6de8ef9-b1a1-4756-97aa-481bbb8a4069",
+    "tags": [
+      "folk",
+      "female vocalists",
+      "rain",
+      "singer-songwriter"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8dbe8ca6-1e28-4244-b4c1-f9beeb4daee2",
+    "artistMbid": "a6de8ef9-b1a1-4756-97aa-481bbb8a4069",
+    "releaseCount": 21,
+    "genres": [
+      "acoustic rock",
+      "contemporary folk",
+      "folk",
+      "folk rock",
+      "jazz",
+      "pop",
+      "rock",
+      "singer-songwriter",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "contemporary folk",
+      "folk",
+      "folk pop",
+      "folk rock",
+      "jazz",
+      "jazz pop",
+      "pop",
+      "rock",
+      "singer-songwriter",
+      "vocal jazz"
+    ],
+    "releasedAt": "1970-04",
+    "artistCountry": "CA",
+    "externalIdsTrack": {
+      "spotify": "3ZGKe1PrwxQl6sCHwioCyE"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000270491",
+      "discogs": "90233",
+      "spotify": "5hW4L92KnC6dX9t7tYM4Ve",
+      "deezer": "3283",
+      "lastfm": "Joni+Mitchell",
+      "rateyourmusic": "joni_mitchell",
+      "wikidata": "Q205721",
+      "youtube": "JoniMitchell"
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "youtubeId": "ZryxBDQYOkY",
   "title": "ZIRKEL x 9 EURO SYLT",
-  "lastFetched": "2025-11-30T23:28:35.403Z",
+  "lastFetched": "2025-12-02T01:28:17.612Z",
   "ai": {
     "title": "9 EURO SYLT",
     "artist": "ZIRKEL"
@@ -9,6 +9,13 @@
   "musicbrainz": {
     "trackMbid": "54fecf43-1201-42f6-bb2b-a1ad3a8a1a18",
     "artistMbid": "87544895-0be0-4c8d-a056-b1fdfc2cddc9",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-05-30",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "spotify": "798bbZOe4VTHtiKT7rwQvi",
+      "deezer": "5553776",
+      "lastfm": "zirkel"
+    }
   }
 }

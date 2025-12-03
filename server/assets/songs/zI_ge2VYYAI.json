@@ -2,7 +2,7 @@
   "youtubeId": "zI_ge2VYYAI",
   "title": "York",
   "artist": "Christian Löffler",
-  "lastFetched": "2025-11-30T19:32:14.894Z",
+  "lastFetched": "2025-12-02T02:07:45.439Z",
   "odesli": {
     "amazonMusic": "B019HX1PLS",
     "amazonStore": "B019HX1PLS",
@@ -35,6 +35,24 @@
       "microhouse",
       "progressive house",
       "tech house"
-    ]
+    ],
+    "releasedAt": "2015-04-20",
+    "artistCountry": "DE",
+    "externalIdsTrack": {
+      "bandcamp": "https://christianloffler.bandcamp.com/track/york-2",
+      "spotify": "7sr9I9sQ0lwXelHWbSuQkx",
+      "deezer": "3328822721"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003234697",
+      "bandcamp": "https://christianloffler.bandcamp.com/",
+      "discogs": "1317148",
+      "spotify": "3tSvlEzeDnVbQJBTkIA6nO",
+      "deezer": "1631052",
+      "rateyourmusic": "christian-loffler",
+      "soundcloud": "https://soundcloud.com/christianloeffler/",
+      "wikidata": "Q16041783",
+      "youtube": "UCdGOUsLqm5_ds01HX9xMRHg"
+    }
   }
 }

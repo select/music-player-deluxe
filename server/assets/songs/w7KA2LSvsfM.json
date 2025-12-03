@@ -2,7 +2,7 @@
   "youtubeId": "w7KA2LSvsfM",
   "title": "Wer Sagt Denn Das?",
   "artist": "Deichkind",
-  "lastFetched": "2025-12-01T12:58:15.096Z",
+  "lastFetched": "2025-12-02T02:02:45.302Z",
   "odesli": {
     "amazonMusic": "B07SHT4CTG",
     "amazonStore": "B07SHT4CTG",
@@ -38,6 +38,22 @@
       "electropop",
       "electropunk",
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2019-06-12",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000521004",
+      "bandcamp": "https://deichkind.bandcamp.com/",
+      "discogs": "90440",
+      "spotify": "49eo9xE4yGzJLWkOndiODs",
+      "deezer": "12920",
+      "lastfm": "Deichkind",
+      "genius": "Deichkind",
+      "rateyourmusic": "deichkind",
+      "soundcloud": "https://soundcloud.com/deichkind-musik",
+      "qobuz": "218835",
+      "wikidata": "Q323803",
+      "youtube": "UC4-16tWm2omCdOjk0sz8QSw"
+    }
   }
 }

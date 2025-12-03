@@ -2,7 +2,7 @@
   "youtubeId": "pJk7c9r0oI8",
   "title": "J'aime regarder les filles",
   "artist": "Patrick Coutin",
-  "lastFetched": "2025-11-23T16:50:16.295Z",
+  "lastFetched": "2025-12-02T01:52:26.516Z",
   "odesli": {
     "amazonMusic": "B09MKT9TGX",
     "amazonStore": "B09MKT9TGX",
@@ -27,7 +27,16 @@
       "rock"
     ],
     "trackMbid": "fd85f1a2-e9c6-3630-bcf8-e0149e52dbd7",
-    "artistMbid": "cc9e76a9-9065-4314-87ee-997c11eeb7f5"
+    "artistMbid": "cc9e76a9-9065-4314-87ee-997c11eeb7f5",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0001969962",
+      "discogs": "4193",
+      "spotify": "4emUqFLk5iZsqEqawwEfRJ",
+      "deezer": "10932",
+      "wikidata": "Q3369364",
+      "youtube": "UC8_xg26GXhSBXgK72PB2Hpg"
+    }
   },
   "lastfm": {
     "id": "Patrick+Coutin/_/J%27aime+regarder+les+filles",

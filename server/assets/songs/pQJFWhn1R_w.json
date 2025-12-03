@@ -2,7 +2,7 @@
   "youtubeId": "pQJFWhn1R_w",
   "title": "Alabama Song (Whisky Bar)",
   "artist": "The Doors",
-  "lastFetched": "2025-11-23T16:50:23.794Z",
+  "lastFetched": "2025-12-02T01:52:36.470Z",
   "odesli": {
     "amazonMusic": "B0018AT21O",
     "amazonStore": "B0018AT21O",
@@ -51,7 +51,25 @@
       "gothic"
     ],
     "trackMbid": "f5a9b6cf-b1f0-4d73-8e4d-5e8c911c68d0",
-    "artistMbid": "9efff43b-3b29-4082-824e-bc82f646f93d"
+    "artistMbid": "9efff43b-3b29-4082-824e-bc82f646f93d",
+    "releasedAt": "1967-01-04",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "0GvHDOJojX9uJEvUzohy3Z"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000114342",
+      "discogs": "56798",
+      "spotify": "22WZ7M8sxp5THdruNY3gXt",
+      "deezer": "847",
+      "lastfm": "The+Doors",
+      "genius": "The-doors",
+      "rateyourmusic": "the_doors",
+      "soundcloud": "https://soundcloud.com/thedoors",
+      "napster": "the-doors",
+      "wikidata": "Q45354",
+      "youtube": "UCdx4iSJpg33jNmd9auQT04Q"
+    }
   },
   "lastfm": {
     "id": "The+Doors/_/Alabama+Song+(Whisky+Bar)",

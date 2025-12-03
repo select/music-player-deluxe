@@ -1,7 +1,7 @@
 {
   "youtubeId": "_K_PMVdb-c0",
   "title": "TS5_ Béla Fleck - Big Country.mp4",
-  "lastFetched": "2025-11-30T20:42:32.577Z",
+  "lastFetched": "2025-12-02T01:28:59.543Z",
   "ai": {
     "title": "Big Country",
     "artist": "Béla Fleck"
@@ -32,6 +32,16 @@
       "folk",
       "jazz",
       "jazz fusion"
-    ]
+    ],
+    "releasedAt": "2012-08-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000151290",
+      "discogs": "305844",
+      "spotify": "2ka8z2lwkcp13fG8Wyv3xU",
+      "deezer": "10519",
+      "rateyourmusic": "bela_fleck",
+      "wikidata": "Q561390"
+    }
   }
 }

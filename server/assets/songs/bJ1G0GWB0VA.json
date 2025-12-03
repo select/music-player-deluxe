@@ -1,7 +1,7 @@
 {
   "youtubeId": "bJ1G0GWB0VA",
   "title": "Anoushka shankar - Beloved (Thievery Corporation )",
-  "lastFetched": "2025-11-30T20:13:12.556Z",
+  "lastFetched": "2025-12-02T01:31:42.592Z",
   "ai": {
     "title": "Beloved",
     "artist": "Anoushka shankar"
@@ -28,6 +28,22 @@
     "releaseCount": 6,
     "artistGenres": [
       "indian classical"
-    ]
+    ],
+    "releasedAt": "2005-09-25",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "1S7BtJNfAsJOxgEyYea7O7"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000588694",
+      "bandcamp": "https://anoushkashankar.bandcamp.com/",
+      "discogs": "239658",
+      "spotify": "6MTByljF8u5omBltY2VKPU",
+      "deezer": "10489",
+      "genius": "Anoushka-shankar",
+      "rateyourmusic": "anoushka-shankar",
+      "qobuz": "166871",
+      "wikidata": "Q259379"
+    }
   }
 }

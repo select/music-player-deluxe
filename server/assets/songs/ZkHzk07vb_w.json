@@ -2,7 +2,7 @@
   "youtubeId": "ZkHzk07vb_w",
   "title": "Love and Death",
   "artist": "Ebo Taylor",
-  "lastFetched": "2025-11-23T16:42:25.579Z",
+  "lastFetched": "2025-12-02T01:28:08.623Z",
   "odesli": {
     "amazonMusic": "B0042FKO1Y",
     "amazonStore": "B0042FKO1Y",
@@ -36,7 +36,17 @@
       "highlife"
     ],
     "trackMbid": "c1fe8e87-883d-4868-96e7-e9e173e3460b",
-    "artistMbid": "8b034085-b06d-4c42-9be3-d709be169d79"
+    "artistMbid": "8b034085-b06d-4c42-9be3-d709be169d79",
+    "artistCountry": "GH",
+    "externalIdsArtist": {
+      "allmusic": "mn0000675355",
+      "bandcamp": "https://ebotaylor.bandcamp.com/",
+      "discogs": "274623",
+      "spotify": "2gR0iQTVBPHDKiNn1Kq8HI",
+      "deezer": "336332",
+      "rateyourmusic": "ebo-taylor",
+      "wikidata": "Q14903387"
+    }
   },
   "lastfm": {
     "id": "Ebo+Taylor/_/Love+and+Death",

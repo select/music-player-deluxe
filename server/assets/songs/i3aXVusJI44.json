@@ -2,7 +2,7 @@
   "youtubeId": "i3aXVusJI44",
   "title": "Bonbon aus Wurst",
   "artist": "Helge Schneider",
-  "lastFetched": "2025-11-30T22:55:20.261Z",
+  "lastFetched": "2025-12-02T01:41:18.223Z",
   "odesli": {
     "amazonMusic": "B003O2D5EY",
     "amazonStore": "B003O2D5EY",
@@ -46,6 +46,20 @@
       "jazz",
       "kabarett",
       "spoken word"
-    ]
+    ],
+    "releasedAt": "2003-08-15",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000419691",
+      "discogs": "271200",
+      "spotify": "05OMHvPpkWnblSy9Kl7e9l",
+      "deezer": "79663",
+      "lastfm": "Helge+Schneider",
+      "genius": "Helge-schneider",
+      "rateyourmusic": "helge_schneider",
+      "soundcloud": "https://soundcloud.com/helge-schneider-official",
+      "wikidata": "Q76490",
+      "youtube": "UCpUm-HvU2Qgs207QiNmXFYQ"
+    }
   }
 }

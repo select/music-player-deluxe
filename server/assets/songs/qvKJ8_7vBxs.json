@@ -1,0 +1,50 @@
+{
+  "youtubeId": "qvKJ8_7vBxs",
+  "title": "All the Love in the World",
+  "artist": "The Outfield",
+  "lastFetched": "2025-12-03T11:46:29.269Z",
+  "odesli": {
+    "amazonMusic": "B00137QLWK",
+    "amazonStore": "B00137QLWK",
+    "anghami": "57742922",
+    "boomplay": "11364243",
+    "appleMusic": "186347344",
+    "itunes": "186347344",
+    "pandora": "TR:62196",
+    "soundcloud": "the-outfield/all-the-love-album-version-1",
+    "spotify": "3CwGE5jaRJDx0YZN0vqJRS",
+    "tidal": "1313596",
+    "yandex": "644743",
+    "youtube": "qvKJ8_7vBxs",
+    "youtubeMusic": "qvKJ8_7vBxs"
+  },
+  "lastfm": {
+    "id": "The+Outfield/_/All+the+Love+in+the+World",
+    "listeners": 79878,
+    "playcount": 404992,
+    "title": "All the Love in the World",
+    "artist": "The Outfield",
+    "tags": [
+      "80s",
+      "pop rock",
+      "1986",
+      "1985",
+      "electric guitar riffs"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "465f694c-351a-4556-a5e5-32f777edb69e",
+    "artistMbid": "5d400869-0471-42ee-afda-3addd73d0418",
+    "releaseCount": 5,
+    "releasedAt": "1985",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000475650",
+      "discogs": "317696",
+      "spotify": "1zxDewzd2j1ZdSBGaYcr0y",
+      "deezer": "7743",
+      "rateyourmusic": "the_outfield",
+      "wikidata": "Q2093178"
+    }
+  }
+}

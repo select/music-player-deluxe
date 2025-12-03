@@ -1,0 +1,47 @@
+{
+  "youtubeId": "L6OTM6wBaMk",
+  "title": "Gravitacion",
+  "artist": "257ers",
+  "lastFetched": "2025-12-03T11:39:32.299Z",
+  "odesli": {
+    "amazonMusic": "B07QSBXH6T",
+    "amazonStore": "B07QSBXH6T",
+    "soundcloud": "257ers-official/gravitacion",
+    "spotify": "4zaUDt7WzQTil9RnNuLtGp",
+    "youtube": "L6OTM6wBaMk",
+    "youtubeMusic": "L6OTM6wBaMk"
+  },
+  "lastfm": {
+    "id": "257ers/_/Gravitacion",
+    "listeners": 8116,
+    "playcount": 59441,
+    "title": "Gravitacion",
+    "artist": "257ers",
+    "mbid": "03c0db82-74c0-4abe-a2ce-974c5ff64d31",
+    "artistMbid": "ae667c89-4be1-4100-bb44-39bcfbe9cc28",
+    "tags": [
+      "banned"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "567aee05-7e97-4b9b-8170-43af9bb755cf",
+    "artistMbid": "ae667c89-4be1-4100-bb44-39bcfbe9cc28",
+    "releaseCount": 3,
+    "artistGenres": [
+      "hip house",
+      "pop rap"
+    ],
+    "releasedAt": "2019-04-26",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003003362",
+      "discogs": "1774272",
+      "spotify": "6ihLfpY3cmdGyWEnItn30w",
+      "deezer": "3575501",
+      "lastfm": "257ers",
+      "rateyourmusic": "257ers",
+      "wikidata": "Q218269",
+      "youtube": "UCoMradiChryBgljtr05IsDA"
+    }
+  }
+}

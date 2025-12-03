@@ -3,7 +3,7 @@
   "artist": "George Benson",
   "duration": 336,
   "youtubeId": "zgxL-khJ--Q",
-  "lastFetched": "2025-11-30T23:43:21.077Z",
+  "lastFetched": "2025-12-02T02:08:06.826Z",
   "odesli": {
     "boomplay": "4674179",
     "spotify": "7iX9wyZkiKg8AyD7XUu3mK",
@@ -36,6 +36,19 @@
       "quiet storm",
       "smooth jazz",
       "smooth soul"
-    ]
+    ],
+    "releasedAt": "2000",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000201760",
+      "discogs": "2266",
+      "spotify": "4N8BwYTEC6XqykGvXXlmfv",
+      "deezer": "4029",
+      "lastfm": "George+Benson",
+      "rateyourmusic": "george_benson",
+      "napster": "george-benson",
+      "wikidata": "Q348459",
+      "youtube": "UChrbSeE9HULE3VBPAMr2dtw"
+    }
   }
 }

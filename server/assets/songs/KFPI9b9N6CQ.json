@@ -1,0 +1,65 @@
+{
+  "youtubeId": "KFPI9b9N6CQ",
+  "title": "Ministry - Every Day Is Halloween",
+  "lastFetched": "2025-12-03T12:06:15.364Z",
+  "ai": {
+    "title": "Every Day Is Halloween",
+    "artist": "Ministry"
+  },
+  "lastfm": {
+    "id": "Ministry/_/Every+Day+Is+Halloween",
+    "listeners": 55119,
+    "playcount": 249307,
+    "title": "Every Day Is Halloween",
+    "artist": "Ministry",
+    "artistMbid": "13df2a46-f72f-40e7-aa63-26fcf62c7048",
+    "tags": [
+      "halloween",
+      "industrial",
+      "80s",
+      "industrial metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0523cef6-f535-4efd-9532-d9e1f89bb80d",
+    "artistMbid": "13df2a46-f72f-40e7-aa63-26fcf62c7048",
+    "releaseCount": 18,
+    "genres": [
+      "ebm",
+      "electronic",
+      "industrial",
+      "industrial metal",
+      "industrial rock",
+      "rock",
+      "synth-pop",
+      "trance"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "ebm",
+      "electro-industrial",
+      "industrial",
+      "industrial metal",
+      "industrial rock",
+      "metal",
+      "new wave",
+      "synth-pop"
+    ],
+    "releasedAt": "1985",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000420133",
+      "bandcamp": "https://ministryband.bandcamp.com/",
+      "discogs": "12209",
+      "spotify": "1DXylZlWbVvlckNqwvjTEt",
+      "deezer": "677",
+      "lastfm": "Ministry",
+      "genius": "Ministry",
+      "rateyourmusic": "ministry",
+      "soundcloud": "https://soundcloud.com/ministryofficial",
+      "napster": "ministry",
+      "wikidata": "Q425772",
+      "youtube": "UCkHZWbfPk_iA8_Rio-9J5LA"
+    }
+  }
+}

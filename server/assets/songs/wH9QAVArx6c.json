@@ -2,7 +2,7 @@
   "youtubeId": "wH9QAVArx6c",
   "title": "Riddle Me This",
   "artist": "Aaron Parks",
-  "lastFetched": "2025-11-23T16:53:21.527Z",
+  "lastFetched": "2025-12-02T02:03:02.415Z",
   "odesli": {
     "amazonMusic": "B001E53RA0",
     "amazonStore": "B001E53RA0",
@@ -35,7 +35,15 @@
       "post-bop"
     ],
     "trackMbid": "6479fc4d-a0a8-3838-ba5b-5ff3f57eda5f",
-    "artistMbid": "4dd62d49-9868-465b-882f-733afb40eb0d"
+    "artistMbid": "4dd62d49-9868-465b-882f-733afb40eb0d",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000865933",
+      "discogs": "1314506",
+      "spotify": "22KzEvCtrTGf9l6k7zFcdv",
+      "deezer": "242181",
+      "wikidata": "Q302467"
+    }
   },
   "lastfm": {
     "id": "Aaron+Parks/_/Riddle+Me+This",

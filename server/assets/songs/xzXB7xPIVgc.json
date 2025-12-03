@@ -2,7 +2,7 @@
   "youtubeId": "xzXB7xPIVgc",
   "title": "Milk It",
   "artist": "Nirvana",
-  "lastFetched": "2025-11-30T22:51:55.695Z",
+  "lastFetched": "2025-12-02T02:05:25.935Z",
   "lastfm": {
     "id": "Nirvana/_/Milk+It",
     "listeners": 745369,
@@ -30,6 +30,20 @@
       "punk rock",
       "rock",
       "sludge metal"
-    ]
+    ],
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000357406",
+      "discogs": "125246",
+      "spotify": "6olE6TJLqED3rqDCT0FyPh",
+      "deezer": "415",
+      "lastfm": "Nirvana",
+      "genius": "Nirvana",
+      "rateyourmusic": "nirvana",
+      "soundcloud": "https://soundcloud.com/nirvana",
+      "napster": "nirvana",
+      "wikidata": "Q11649",
+      "youtube": "UCzGrGrvf9g8CVVzh_LvGf-g"
+    }
   }
 }

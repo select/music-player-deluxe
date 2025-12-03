@@ -1,7 +1,7 @@
 {
   "youtubeId": "glEE0vpK3KI",
   "title": "Jonathan Bree - Valentine",
-  "lastFetched": "2025-11-30T19:32:11.563Z",
+  "lastFetched": "2025-12-02T01:39:08.064Z",
   "ai": {
     "title": "Valentine",
     "artist": "Jonathan Bree"
@@ -26,6 +26,15 @@
     "artistGenres": [
       "electronic",
       "pop"
-    ]
+    ],
+    "releasedAt": "2018-06-08",
+    "externalIdsArtist": {
+      "bandcamp": "https://jonathanbree.bandcamp.com/",
+      "discogs": "874437",
+      "spotify": "2IlTe9Gm5w5qrt2kKdOvAh",
+      "deezer": "4796281",
+      "soundcloud": "https://soundcloud.com/jonathan-bree",
+      "wikidata": "Q16727642"
+    }
   }
 }

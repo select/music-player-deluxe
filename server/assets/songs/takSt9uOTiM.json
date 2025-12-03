@@ -2,7 +2,7 @@
   "youtubeId": "takSt9uOTiM",
   "title": "Laser Lobotomy",
   "artist": "Blotted Science",
-  "lastFetched": "2025-11-30T23:10:47.553Z",
+  "lastFetched": "2025-12-02T01:59:33.634Z",
   "odesli": {
     "amazonMusic": "B00158232O",
     "amazonStore": "B00158232O",
@@ -45,6 +45,15 @@
       "metal",
       "progressive metal",
       "technical death metal"
-    ]
+    ],
+    "releasedAt": "2007-09-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001575954",
+      "discogs": "987543",
+      "lastfm": "Blotted+Science",
+      "rateyourmusic": "blotted_science",
+      "wikidata": "Q2034482"
+    }
   }
 }

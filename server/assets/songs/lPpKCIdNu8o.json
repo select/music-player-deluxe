@@ -2,7 +2,7 @@
   "youtubeId": "lPpKCIdNu8o",
   "title": "The Return of Little Big Man",
   "artist": "Steinregen Dubsystem",
-  "lastFetched": "2025-11-19T07:42:28.094Z",
+  "lastFetched": "2025-12-02T01:46:00.469Z",
   "odesli": {
     "amazonMusic": "B01H2R1DC2",
     "amazonStore": "B01H2R1DC2",
@@ -24,6 +24,11 @@
   },
   "musicbrainz": {
     "trackMbid": "890736d2-25bf-4bf0-8a4d-b6ca0cc9f24b",
-    "artistMbid": "62cd29c8-ba7c-4611-a921-3e9d9d15de32"
+    "artistMbid": "62cd29c8-ba7c-4611-a921-3e9d9d15de32",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "3016757",
+      "soundcloud": "https://soundcloud.com/steinregendubsystem"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ZBnAUdLLEuI",
   "title": "White Scarf in the Mist",
   "artist": "Sly & Robbie",
-  "lastFetched": "2025-12-01T13:04:48.286Z",
+  "lastFetched": "2025-12-02T01:27:14.860Z",
   "odesli": {
     "amazonMusic": "B07957Q4ZG",
     "amazonStore": "B07957Q4ZG",
@@ -33,6 +33,17 @@
     "artistGenres": [
       "dub",
       "reggae"
-    ]
+    ],
+    "releasedAt": "2018-04-06",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000751592",
+      "discogs": "5064",
+      "spotify": "6jJG408jz8VayohX86nuTt",
+      "deezer": "93256",
+      "lastfm": "Sly%20&%20Robbie",
+      "rateyourmusic": "sly_and_robbie",
+      "wikidata": "Q576723"
+    }
   }
 }

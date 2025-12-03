@@ -1,7 +1,7 @@
 {
   "youtubeId": "X0wZ1jLi6PU",
   "title": "Kayla",
-  "lastFetched": "2025-11-30T21:13:20.194Z",
+  "lastFetched": "2025-12-02T01:23:20.800Z",
   "ai": {
     "title": "Kayla",
     "artist": "Flying Colors"
@@ -38,6 +38,21 @@
     ],
     "artistGenres": [
       "progressive rock"
-    ]
+    ],
+    "releasedAt": "2012-03-23",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002863653",
+      "bandcamp": "https://flyingcolors.bandcamp.com/",
+      "discogs": "2692886",
+      "spotify": "7vdTrczuBydSrfUcoruaeX",
+      "deezer": "1329614",
+      "lastfm": "Flying+Colors",
+      "genius": "Flying-colors",
+      "rateyourmusic": "flying_colors",
+      "soundcloud": "https://soundcloud.com/flying-colors-official",
+      "wikidata": "Q651984",
+      "youtube": "UCmnemVMrt74xo3sx-iysJcw"
+    }
   }
 }

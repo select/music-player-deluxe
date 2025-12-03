@@ -2,7 +2,7 @@
   "youtubeId": "fPO76Jlnz6c",
   "title": "Gangsta's Paradise",
   "artist": "Coolio",
-  "lastFetched": "2025-11-30T23:23:49.576Z",
+  "lastFetched": "2025-12-02T01:37:23.808Z",
   "odesli": {
     "amazonMusic": "B0766RZ7M1",
     "amazonStore": "B0766RZ7M1",
@@ -35,7 +35,23 @@
       "hip hop",
       "pop rap",
       "west coast hip hop"
-    ]
+    ],
+    "releasedAt": "2000-12-04",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000780346",
+      "bandcamp": "https://coolioofficial.bandcamp.com/",
+      "discogs": "633285",
+      "spotify": "3y24n3XhZ96wgwRXjvS17T",
+      "deezer": "99",
+      "lastfm": "Coolio",
+      "genius": "Coolio",
+      "rateyourmusic": "coolio",
+      "soundcloud": "https://soundcloud.com/coolio",
+      "napster": "coolio",
+      "wikidata": "Q310357",
+      "youtube": "UC48nZNzBVu13HPwJ3upxQnQ"
+    }
   },
   "lastfm": {
     "id": "Coolio/_/Gangsta%27s+Paradise",

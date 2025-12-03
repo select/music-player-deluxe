@@ -2,7 +2,7 @@
   "youtubeId": "UprcpdwuwCg",
   "title": "Heathens",
   "artist": "Twenty One Pilots",
-  "lastFetched": "2025-11-30T21:24:58.157Z",
+  "lastFetched": "2025-12-02T01:20:17.879Z",
   "odesli": {
     "amazonMusic": "B01H5ZYNM8",
     "amazonStore": "B01H5ZYNM8",
@@ -53,6 +53,25 @@
       "indietronica",
       "piano rock",
       "pop rap"
-    ]
+    ],
+    "releasedAt": "2016-06-16",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "6i0V12jOa3mr6uu4WYhUBr",
+      "deezer": "126884459"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002398414",
+      "discogs": "3128936",
+      "spotify": "3YQKmKGau1PzlVlkL1iodx",
+      "deezer": "647650",
+      "pandora": "20-1-pilots",
+      "lastfm": "Twenty+One+Pilots",
+      "genius": "Twenty-one-pilots",
+      "rateyourmusic": "twenty_one_pilots",
+      "soundcloud": "https://soundcloud.com/twentyonepilots",
+      "wikidata": "Q7857806",
+      "youtube": "UCBQZwaNPFfJ1gZ1fLZpAEGw"
+    }
   }
 }

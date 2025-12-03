@@ -1,7 +1,7 @@
 {
   "youtubeId": "_K-FES3tElg",
   "title": "Clutch - Big News I & II",
-  "lastFetched": "2025-11-30T20:17:02.141Z",
+  "lastFetched": "2025-12-02T01:28:54.798Z",
   "ai": {
     "title": "Big News I & II",
     "artist": "Clutch"
@@ -29,6 +29,19 @@
       "hard rock",
       "rock",
       "stoner rock"
-    ]
+    ],
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000154417",
+      "bandcamp": "https://clutchband.bandcamp.com/",
+      "discogs": "289116",
+      "spotify": "161AC1AVRkIGIMxyj5djFQ",
+      "deezer": "5505",
+      "lastfm": "Clutch",
+      "genius": "Clutch",
+      "rateyourmusic": "clutch",
+      "wikidata": "Q578376",
+      "youtube": "UChFx-3fX89Bl9GeAqOdCwxQ"
+    }
   }
 }

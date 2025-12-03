@@ -2,7 +2,7 @@
   "youtubeId": "lWSgPiKhOW8",
   "title": "The Final Frontier (Acoustic Mix)",
   "artist": "Logic",
-  "lastFetched": "2025-12-01T13:05:44.728Z",
+  "lastFetched": "2025-12-02T01:46:19.888Z",
   "odesli": {
     "amazonMusic": "B0DZV67HMK",
     "amazonStore": "B0DZV67HMK",
@@ -33,6 +33,15 @@
   "musicbrainz": {
     "trackMbid": "4e2da07a-698c-46f5-a887-34146b8d7f91",
     "artistMbid": "358beee9-a1dc-4124-b2ad-528b155906d2",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "1990",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001349266",
+      "discogs": "15177",
+      "spotify": "1BF6z9EIGGoPViPON57eGC",
+      "deezer": "62726372",
+      "rateyourmusic": "logic"
+    }
   }
 }

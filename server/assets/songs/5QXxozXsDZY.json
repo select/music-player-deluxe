@@ -1,0 +1,70 @@
+{
+  "youtubeId": "5QXxozXsDZY",
+  "title": "to france mike oldfield",
+  "lastFetched": "2025-12-03T12:01:27.919Z",
+  "ai": {
+    "title": "to france",
+    "artist": "mike oldfield"
+  },
+  "lastfm": {
+    "id": "Mike+Oldfield/_/To+France",
+    "listeners": 104676,
+    "playcount": 544991,
+    "title": "To France",
+    "artist": "Mike Oldfield",
+    "tags": [
+      "new age",
+      "80s",
+      "progressive rock",
+      "pop",
+      "instrumental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e9aedc10-76a1-4f4c-a5ca-bf2de3795ca8",
+    "artistMbid": "a1684a49-feaa-4150-b758-d9412fc59f12",
+    "releaseCount": 25,
+    "genres": [
+      "ballad",
+      "disco",
+      "electronic",
+      "modern classical",
+      "new age",
+      "pop",
+      "pop rock",
+      "progressive rock",
+      "rock",
+      "soft rock",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "ambient",
+      "avant-garde",
+      "classical",
+      "classical crossover",
+      "crossover prog",
+      "electronic",
+      "experimental",
+      "experimental electronic",
+      "folk pop",
+      "folk rock",
+      "new age",
+      "progressive pop",
+      "progressive rock",
+      "rock"
+    ],
+    "releasedAt": "1984-07",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000489520",
+      "discogs": "18666",
+      "spotify": "562Od3CffWedyz2BbeYWVn",
+      "deezer": "990",
+      "lastfm": "Mike+Oldfield",
+      "genius": "Mike-oldfield",
+      "rateyourmusic": "mike-oldfield",
+      "soundcloud": "https://soundcloud.com/mikeoldfieldofficial",
+      "wikidata": "Q3008"
+    }
+  }
+}

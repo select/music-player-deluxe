@@ -2,7 +2,7 @@
   "youtubeId": "h2_rc6UuAHQ",
   "title": "Nullkommaneun",
   "artist": "SSIO",
-  "lastFetched": "2025-11-23T16:46:23.393Z",
+  "lastFetched": "2025-12-02T01:39:37.938Z",
   "odesli": {
     "amazonMusic": "B07DXCGQ54",
     "amazonStore": "B07DXCGQ54",
@@ -31,7 +31,20 @@
       "hip hop"
     ],
     "trackMbid": "15971667-4f44-4916-a8a8-917f93151f41",
-    "artistMbid": "24234aaf-000f-44de-8f58-9d7964ac3e8f"
+    "artistMbid": "24234aaf-000f-44de-8f58-9d7964ac3e8f",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002848756",
+      "discogs": "2774128",
+      "spotify": "3IrUyDPQlQFcB5lMWhPml2",
+      "deezer": "5095703",
+      "lastfm": "SSIO",
+      "rateyourmusic": "ssio",
+      "soundcloud": "https://soundcloud.com/ssio-official",
+      "napster": "ssio",
+      "wikidata": "Q15843629",
+      "youtube": "UCpDPnl4xIsueUFVidM_A6xg"
+    }
   },
   "lastfm": {
     "id": "SSIO/_/Nullkommaneun",

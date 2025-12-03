@@ -2,7 +2,7 @@
   "youtubeId": "m79He1X0StU",
   "title": "Begleitautomatik",
   "artist": "DJ Normal 4",
-  "lastFetched": "2025-11-19T16:17:41.084Z",
+  "lastFetched": "2025-12-02T01:47:18.781Z",
   "odesli": {
     "amazonMusic": "B0CC5X5D53",
     "amazonStore": "B0CC5X5D53",
@@ -22,6 +22,12 @@
   },
   "musicbrainz": {
     "trackMbid": "605f81ed-142c-48bf-b665-097933a6b170",
-    "artistMbid": "70f63a33-5476-4739-9a58-d68df2bf6cb1"
+    "artistMbid": "70f63a33-5476-4739-9a58-d68df2bf6cb1",
+    "releasedAt": "2023-08-04",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "5041276",
+      "soundcloud": "https://soundcloud.com/djnormal4"
+    }
   }
 }

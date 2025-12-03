@@ -2,7 +2,7 @@
   "youtubeId": "YeGTWu0xskE",
   "title": "Voodooz (Extended Mix)",
   "artist": "Bougenvilla",
-  "lastFetched": "2025-11-30T19:59:46.559Z",
+  "lastFetched": "2025-12-02T01:26:25.801Z",
   "odesli": {
     "soundcloud": "musical-freedom/bougenvilla-marc-macrowland-voodooz-original-mix",
     "tidal": "84408568",
@@ -16,6 +16,14 @@
     "artistGenres": [
       "electronic",
       "house"
-    ]
+    ],
+    "releasedAt": "2015-03-09",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "discogs": "4314816",
+      "spotify": "1I5pYXplsbqmHaVWlAEhla",
+      "soundcloud": "https://soundcloud.com/bougenvilla",
+      "youtube": "UCRPZFE2Q8GZRSANO8rk82dQ"
+    }
   }
 }

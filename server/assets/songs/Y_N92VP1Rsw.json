@@ -2,7 +2,7 @@
   "youtubeId": "Y_N92VP1Rsw",
   "title": "Oh My Gawd!",
   "artist": "Big Boss Man",
-  "lastFetched": "2025-11-30T21:21:24.289Z",
+  "lastFetched": "2025-12-02T01:26:06.325Z",
   "odesli": {
     "amazonMusic": "B0BH6VC3XG",
     "amazonStore": "B0BH6VC3XG",
@@ -30,6 +30,14 @@
   "musicbrainz": {
     "trackMbid": "e2ec6893-64d4-48ec-a1e8-f9acc230260f",
     "artistMbid": "950cb0de-a910-44c5-b44b-a7b9bbba7ab4",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2005-04-04",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "18159",
+      "spotify": "6ZEPiznKqWSTc8YMITtM0X",
+      "deezer": "275989",
+      "wikidata": "Q4905183"
+    }
   }
 }

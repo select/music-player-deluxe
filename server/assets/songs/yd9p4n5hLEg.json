@@ -2,7 +2,7 @@
   "youtubeId": "yd9p4n5hLEg",
   "title": "Life Itself",
   "artist": "Glass Animals",
-  "lastFetched": "2025-11-30T21:25:34.066Z",
+  "lastFetched": "2025-12-02T02:06:20.142Z",
   "odesli": {
     "amazonMusic": "B01GIH24GQ",
     "amazonStore": "B01GIH24GQ",
@@ -45,6 +45,20 @@
       "pop",
       "psychedelic pop",
       "psychedelic rock"
-    ]
+    ],
+    "releasedAt": "2016-05-16",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002984484",
+      "discogs": "2969609",
+      "spotify": "4yvcSjfu4PC0CYQyLy4wSq",
+      "deezer": "2489131",
+      "lastfm": "Glass+Animals",
+      "genius": "Glass-animals",
+      "rateyourmusic": "glass_animals",
+      "soundcloud": "https://soundcloud.com/glassanimals",
+      "wikidata": "Q16839267",
+      "youtube": "UCOMLtULLvoymORim06O1vaw"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "_95eFs4sHZs",
   "title": "Mendum - Stay With Me (Krys Talk Remix) | Drumstep | NCS - Copyright Free Music",
-  "lastFetched": "2025-11-30T20:48:42.052Z",
+  "lastFetched": "2025-12-02T01:28:42.015Z",
   "ai": {
     "title": "Stay With Me (Krys Talk Remix)",
     "artist": "Mendum"
@@ -28,6 +28,17 @@
     "artistGenres": [
       "edm",
       "progressive house"
-    ]
+    ],
+    "releasedAt": "2014-11-06",
+    "externalIdsTrack": {
+      "spotify": "6gdjzpQWseUICLJ2Yscb4Y",
+      "deezer": "1733712047"
+    },
+    "externalIdsArtist": {
+      "discogs": "4856264",
+      "spotify": "3rq78lkE1laoELdsHHirtg",
+      "deezer": "5052540",
+      "soundcloud": "https://soundcloud.com/mendumofficial"
+    }
   }
 }

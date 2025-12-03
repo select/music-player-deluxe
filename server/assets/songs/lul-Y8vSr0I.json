@@ -1,7 +1,7 @@
 {
   "youtubeId": "lul-Y8vSr0I",
   "title": "[broken] ☹️ William Shatner \"Sings\" 'Rocket Man' (1978) - BEST QUALITY!",
-  "lastFetched": "2025-11-30T20:20:42.337Z",
+  "lastFetched": "2025-12-02T01:47:05.030Z",
   "ai": {
     "title": "Rocket Man",
     "artist": "William Shatner"
@@ -26,6 +26,16 @@
   "musicbrainz": {
     "trackMbid": "b5a0ec06-b17b-4852-aadb-fc7e411348cf",
     "artistMbid": "a406a684-7c88-442b-836d-3b9b67bbc91d",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2011-10-11",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000579627",
+      "discogs": "139175",
+      "spotify": "2dPqql8xbby3nWuf98mAza",
+      "lastfm": "William+Shatner",
+      "rateyourmusic": "william_shatner",
+      "wikidata": "Q16297"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "c6uVXJ3x2Sk",
   "title": "High Energy",
   "artist": "Evelyn Thomas",
-  "lastFetched": "2025-11-30T22:26:08.122Z",
+  "lastFetched": "2025-12-02T01:32:43.918Z",
   "lastfm": {
     "title": "High Energy",
     "artist": "Evelyn Thomas",
@@ -26,6 +26,15 @@
       "disco",
       "hi-nrg",
       "soul"
-    ]
+    ],
+    "releasedAt": "1991",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000788847",
+      "discogs": "58574",
+      "lastfm": "Evelyn+Thomas",
+      "rateyourmusic": "evelyn-thomas",
+      "wikidata": "Q437129"
+    }
   }
 }

@@ -3,7 +3,7 @@
   "artist": "Esbjörn Svensson Trio",
   "duration": 404,
   "youtubeId": "ZAaB7x7kBK0",
-  "lastFetched": "2025-11-19T03:58:03.698Z",
+  "lastFetched": "2025-12-02T01:27:10.249Z",
   "odesli": {
     "anghami": "38131497",
     "boomplay": "16141090",
@@ -28,7 +28,18 @@
     ],
     "trackMbid": "0a16100f-daea-4aae-bc53-a62b2f9eb3e6",
     "artistMbid": "cfa7c6b1-bbb3-4f9a-a636-cbfafb9b4bcf",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2003",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001934731",
+      "discogs": "25557",
+      "spotify": "3HJzLaMbS0jMabxS3wttGk",
+      "deezer": "5807",
+      "rateyourmusic": "esbjorn_svensson_trio",
+      "soundcloud": "https://soundcloud.com/esbjorn-svensson-trio",
+      "wikidata": "Q287061"
+    }
   },
   "lastfm": {
     "id": "Esbj%C3%B6rn+Svensson+Trio/_/Elevation+of+Love",

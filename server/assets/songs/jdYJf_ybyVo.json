@@ -1,7 +1,7 @@
 {
   "youtubeId": "jdYJf_ybyVo",
   "title": "OCEAN - John Butler - 2012 Studio Version",
-  "lastFetched": "2025-11-30T20:22:55.175Z",
+  "lastFetched": "2025-12-02T01:43:27.043Z",
   "ai": {
     "title": "OCEAN",
     "artist": "John Butler"
@@ -15,6 +15,14 @@
       "alternative rock",
       "instrumental",
       "rock"
-    ]
+    ],
+    "releasedAt": "1995",
+    "externalIdsArtist": {
+      "allmusic": "mn0000221373",
+      "discogs": "398461",
+      "spotify": "7czrHF19KySaSs3dnBnPCR",
+      "rateyourmusic": "john_butler_f1",
+      "wikidata": "Q731958"
+    }
   }
 }

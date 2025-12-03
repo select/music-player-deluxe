@@ -2,7 +2,7 @@
   "youtubeId": "pJ-Ydk3er5U",
   "title": "Regenwurm",
   "artist": "Roedelius",
-  "lastFetched": "2025-11-30T21:40:52.539Z",
+  "lastFetched": "2025-12-02T01:52:21.697Z",
   "odesli": {
     "amazonMusic": "B01NBJDVJX",
     "amazonStore": "B01NBJDVJX",
@@ -25,6 +25,18 @@
       "krautrock",
       "modern classical",
       "progressive electronic"
-    ]
+    ],
+    "releasedAt": "2010-12-03",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000948842",
+      "bandcamp": "https://roedelius-official.bandcamp.com/",
+      "discogs": "105272",
+      "spotify": "7v5E9zviGMsOGHRdMVmhDc",
+      "deezer": "60129",
+      "lastfm": "Hans-Joachim+Roedelius",
+      "rateyourmusic": "hans_joachim_roedelius",
+      "wikidata": "Q2655756"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "bSdtvfBQd6c",
   "title": "Out of the Black",
   "artist": "Royal Blood",
-  "lastFetched": "2025-11-19T13:14:56.449Z",
+  "lastFetched": "2025-12-02T01:31:56.747Z",
   "odesli": {
     "amazonMusic": "B00LXI95V8",
     "amazonStore": "B00LXI95V8",
@@ -35,6 +35,10 @@
   },
   "musicbrainz": {
     "trackMbid": "9b2ec0e6-8e1c-4c75-9854-325671f60c4a",
-    "artistMbid": "95ee8d6d-07b8-4588-a405-c64cef1d05b3"
+    "artistMbid": "95ee8d6d-07b8-4588-a405-c64cef1d05b3",
+    "externalIdsArtist": {
+      "spotify": "5loo32gbqSGQtAi2iMzSKq",
+      "deezer": "62150932"
+    }
   }
 }

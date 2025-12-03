@@ -1,7 +1,7 @@
 {
   "youtubeId": "ZO6vmXtwiSc",
   "title": "Juliette Lewis - Hardly Wait",
-  "lastFetched": "2025-11-30T19:52:46.209Z",
+  "lastFetched": "2025-12-02T01:27:34.419Z",
   "ai": {
     "title": "Hardly Wait",
     "artist": "Juliette Lewis"
@@ -28,6 +28,17 @@
     "genres": [
       "indie rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1995-10-03",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000300490",
+      "discogs": "87869",
+      "spotify": "5tJuo3Ch89ZPGFD3cOkpue",
+      "deezer": "1313",
+      "genius": "Juliette-lewis",
+      "rateyourmusic": "juliette_lewis",
+      "wikidata": "Q230523"
+    }
   }
 }

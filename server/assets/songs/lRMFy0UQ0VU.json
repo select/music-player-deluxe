@@ -2,7 +2,7 @@
   "youtubeId": "lRMFy0UQ0VU",
   "title": "Subtle Bodies",
   "artist": "Carmen Villain",
-  "lastFetched": "2025-11-19T10:35:19.292Z",
+  "lastFetched": "2025-12-02T01:46:06.083Z",
   "odesli": {
     "amazonMusic": "B09MKR9RT1",
     "amazonStore": "B09MKR9RT1",
@@ -35,6 +35,16 @@
   },
   "musicbrainz": {
     "trackMbid": "7b5c8845-34e6-4568-8b40-cb703a022a88",
-    "artistMbid": "cf72dacf-bad9-45bb-9331-739a8ba217b8"
+    "artistMbid": "cf72dacf-bad9-45bb-9331-739a8ba217b8",
+    "releasedAt": "2022-12-30",
+    "artistCountry": "NO",
+    "externalIdsArtist": {
+      "allmusic": "mn0003025627",
+      "bandcamp": "https://carmenvillain.bandcamp.com/",
+      "discogs": "2621684",
+      "spotify": "4Ps6q34DtWOueT2tJtwE5l",
+      "lastfm": "Carmen+Villain",
+      "wikidata": "Q49296479"
+    }
   }
 }

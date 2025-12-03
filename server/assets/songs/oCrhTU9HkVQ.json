@@ -1,0 +1,70 @@
+{
+  "youtubeId": "oCrhTU9HkVQ",
+  "title": "Grimes - Idoru (Slightly Longer Version)",
+  "lastFetched": "2025-12-03T11:51:46.652Z",
+  "ai": {
+    "title": "Idoru",
+    "artist": "Grimes"
+  },
+  "lastfm": {
+    "id": "Grimes/_/IDORU",
+    "listeners": 138904,
+    "playcount": 1222456,
+    "title": "IDORU",
+    "artist": "Grimes",
+    "mbid": "22ead67f-f693-45fa-89f7-4d6affe387ea",
+    "artistMbid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222",
+    "tags": [
+      "art pop",
+      "synthpop",
+      "dream pop",
+      "progressive breaks"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "22ead67f-f693-45fa-89f7-4d6affe387ea",
+    "artistMbid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222",
+    "releaseCount": 25,
+    "genres": [
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "ambient",
+      "art pop",
+      "avant-garde",
+      "avant-garde pop",
+      "contemporary r&b",
+      "dance",
+      "dark wave",
+      "dream pop",
+      "electronic",
+      "electronica",
+      "electropop",
+      "ethereal wave",
+      "experimental",
+      "indie pop",
+      "indie rock",
+      "indietronica",
+      "leftfield",
+      "pop",
+      "synth-pop"
+    ],
+    "releasedAt": "2020-02-21",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0002290007",
+      "bandcamp": "https://grimesmusic.bandcamp.com/",
+      "discogs": "3396407",
+      "spotify": "053q0ukIDRgzwTr4vNSwab",
+      "deezer": "807493",
+      "lastfm": "Grimes",
+      "genius": "Grimes",
+      "rateyourmusic": "grimes-1",
+      "soundcloud": "https://soundcloud.com/actuallygrimes",
+      "napster": "grimes",
+      "wikidata": "Q117970",
+      "youtube": "UCRXaOr2-9CJTMqQH5A5GYZQ"
+    }
+  }
+}

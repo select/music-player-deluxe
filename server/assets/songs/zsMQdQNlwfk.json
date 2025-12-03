@@ -2,7 +2,7 @@
   "youtubeId": "zsMQdQNlwfk",
   "title": "Jenseits von Eden",
   "artist": "Nino de Angelo",
-  "lastFetched": "2025-11-23T16:54:57.914Z",
+  "lastFetched": "2025-12-02T02:08:29.471Z",
   "odesli": {
     "amazonMusic": "B0FPZJJ7WV",
     "amazonStore": "B0FPZJJ7WV",
@@ -32,7 +32,16 @@
       "schlager"
     ],
     "trackMbid": "3680a233-a966-4d1d-a32f-6d9de9332636",
-    "artistMbid": "d050be17-1326-48b8-b8d4-49570bdab8e7"
+    "artistMbid": "d050be17-1326-48b8-b8d4-49570bdab8e7",
+    "releasedAt": "1984-12",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "838325",
+      "spotify": "2TWKU6gA4uorXNGR193VlO",
+      "deezer": "64150",
+      "rateyourmusic": "nino_de_angelo",
+      "wikidata": "Q65063"
+    }
   },
   "lastfm": {
     "id": "Nino+de+Angelo/_/Jenseits+von+Eden",

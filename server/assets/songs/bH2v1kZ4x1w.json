@@ -4,7 +4,7 @@
   "album": "Resort",
   "duration": 274,
   "youtubeId": "bH2v1kZ4x1w",
-  "lastFetched": "2025-11-19T04:32:08.027Z",
+  "lastFetched": "2025-12-02T01:31:39.865Z",
   "odesli": {
     "anghami": "1164317465",
     "deezer": "2851967332",
@@ -22,7 +22,16 @@
       "ambient"
     ],
     "trackMbid": "54f0de3c-fcf6-4610-9163-5f5351ca5a97",
-    "artistMbid": "2b3e25ba-983e-44ac-9def-907e03910cd2"
+    "artistMbid": "2b3e25ba-983e-44ac-9def-907e03910cd2",
+    "releasedAt": "2024-06-13",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003739557",
+      "discogs": "4039564",
+      "spotify": "2qwi0hBvI2GrbkurOnw3hZ",
+      "deezer": "6900965",
+      "rateyourmusic": "skee-mask"
+    }
   },
   "lastfm": {
     "id": "Skee+Mask/_/Nostaglitch",

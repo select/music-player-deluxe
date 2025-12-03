@@ -2,7 +2,7 @@
   "youtubeId": "W9P_qUnMaFg",
   "title": "In My Mind",
   "artist": "Dynoro",
-  "lastFetched": "2025-11-30T19:59:24.287Z",
+  "lastFetched": "2025-12-02T01:22:00.171Z",
   "odesli": {
     "amazonMusic": "B07DB5MJ62",
     "amazonStore": "B07DB5MJ62",
@@ -50,6 +50,17 @@
     ],
     "artistGenres": [
       "edm"
-    ]
+    ],
+    "releasedAt": "2017-11-15",
+    "artistCountry": "LT",
+    "externalIdsArtist": {
+      "allmusic": "mn0003748829",
+      "discogs": "3988138",
+      "spotify": "3v6Ji4uoWtKRkhuDUaxi9n",
+      "deezer": "6049784",
+      "soundcloud": "https://soundcloud.com/dynoro",
+      "wikidata": "Q55006974",
+      "youtube": "UCiuUu5eKHkKSBGzFZslCljQ"
+    }
   }
 }

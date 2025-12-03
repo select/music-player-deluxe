@@ -2,7 +2,7 @@
   "youtubeId": "X_hqLmxvpiI",
   "title": "Start a Fire",
   "artist": "The Tiger Lillies",
-  "lastFetched": "2025-11-23T16:41:37.812Z",
+  "lastFetched": "2025-12-02T01:24:26.023Z",
   "musicbrainz": {
     "artistTags": [
       "dark cabaret"
@@ -11,7 +11,17 @@
       "dark cabaret"
     ],
     "trackMbid": "5664c442-29c6-3031-b6b1-8afde55ef3de",
-    "artistMbid": "3ad4f6ec-253f-4050-8849-ca26266edfb8"
+    "artistMbid": "3ad4f6ec-253f-4050-8849-ca26266edfb8",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000575064",
+      "discogs": "243092",
+      "spotify": "72o2T9aqYR2PFNYpzYrMmw",
+      "deezer": "66475",
+      "lastfm": "The%20Tiger%20Lillies",
+      "rateyourmusic": "the_tiger_lillies",
+      "wikidata": "Q724783"
+    }
   },
   "lastfm": {
     "id": "The+Tiger+Lillies/_/Start+a+Fire",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "hHT_hEuTtxg",
   "title": "TRETTMANN - GRAUER BETON (prod. KITSCHKRIEG) (OFFICIAL VIDEO)",
-  "lastFetched": "2025-11-30T19:41:14.242Z",
+  "lastFetched": "2025-12-02T01:40:04.407Z",
   "ai": {
     "title": "GRAUER BETON",
     "artist": "TRETTMANN"
@@ -25,6 +25,17 @@
   "musicbrainz": {
     "trackMbid": "12a6daa7-aa15-4c40-a0ae-446bd7dee952",
     "artistMbid": "ed818245-5d44-458a-bbc5-ff480901c2b9",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2017-09-29",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003491164",
+      "discogs": "649425",
+      "spotify": "6QzzeKV0VcnT2vJMYDPuL4",
+      "deezer": "8650570",
+      "rateyourmusic": "trettmann",
+      "apple": "1027740393",
+      "wikidata": "Q1399355"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ftS2xk7VJGQ",
   "title": "Synaptic Transmission",
   "artist": "John Beltran",
-  "lastFetched": "2025-11-30T22:48:36.887Z",
+  "lastFetched": "2025-12-02T01:38:05.061Z",
   "lastfm": {
     "title": "Synaptic Transmission",
     "artist": "John Beltran",
@@ -22,6 +22,16 @@
     "releaseCount": 2,
     "genres": [
       "idm"
-    ]
+    ],
+    "releasedAt": "1995",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000809679",
+      "discogs": "5881",
+      "spotify": "0si3qPiSptTnVbdGByVAMd",
+      "soundcloud": "https://soundcloud.com/john-beltran",
+      "deezer": "10088",
+      "lastfm": "John+Beltran"
+    }
   }
 }

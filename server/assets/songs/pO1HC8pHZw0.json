@@ -2,7 +2,7 @@
   "youtubeId": "pO1HC8pHZw0",
   "title": "Two Tribes",
   "artist": "Frankie Goes To Hollywood",
-  "lastFetched": "2025-11-30T21:46:55.356Z",
+  "lastFetched": "2025-12-02T01:52:34.070Z",
   "odesli": {
     "amazonMusic": "B07CB9TH4J",
     "amazonStore": "B07CB9TH4J",
@@ -46,6 +46,20 @@
       "new wave",
       "pop",
       "pop rock"
-    ]
+    ],
+    "releasedAt": "2016",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000139741",
+      "discogs": "6273",
+      "spotify": "1mZu3rO7qSD09GdDpePHhY",
+      "deezer": "1145",
+      "lastfm": "Frankie+Goes+to+Hollywood",
+      "genius": "Frankie-goes-to-hollywood",
+      "rateyourmusic": "frankie_goes_to_hollywood",
+      "soundcloud": "https://soundcloud.com/frankie-goes-to-hollywood-official",
+      "wikidata": "Q73597",
+      "youtube": "UCM_Tw_YtHs5CKkN90dUnw3A"
+    }
   }
 }

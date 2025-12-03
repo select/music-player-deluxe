@@ -2,7 +2,7 @@
   "youtubeId": "z86Nq61NDkk",
   "title": "Dama Bëgga Ñibi (I Want To Go Home)",
   "artist": "Aron & the Jeri Jeri Band",
-  "lastFetched": "2025-11-19T15:23:43.815Z",
+  "lastFetched": "2025-12-02T02:07:33.366Z",
   "odesli": {
     "amazonMusic": "B0CJRL9DCP",
     "amazonStore": "B0CJRL9DCP",
@@ -28,6 +28,10 @@
   },
   "musicbrainz": {
     "trackMbid": "ca2ac80c-4e8b-492c-8efe-f11796f30c38",
-    "artistMbid": "7a6bf9a9-2101-4c4e-bd29-ddd496dbd215"
+    "artistMbid": "7a6bf9a9-2101-4c4e-bd29-ddd496dbd215",
+    "releasedAt": "2024-01-12",
+    "externalIdsArtist": {
+      "bandcamp": "https://aronandthejerijeriband.bandcamp.com/"
+    }
   }
 }

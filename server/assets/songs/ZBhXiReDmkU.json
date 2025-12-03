@@ -1,0 +1,48 @@
+{
+  "youtubeId": "ZBhXiReDmkU",
+  "title": "Erobique - Urlaub in Italien (Live)",
+  "lastFetched": "2025-12-03T11:50:06.764Z",
+  "ai": {
+    "title": "Urlaub in Italien",
+    "artist": "Erobique"
+  },
+  "lastfm": {
+    "id": "Erobique/_/Urlaub+in+Italien",
+    "listeners": 14918,
+    "playcount": 98966,
+    "title": "Urlaub in Italien",
+    "artist": "Erobique",
+    "mbid": "b1cb630a-c3a5-48a9-ae77-695595cbe95d",
+    "tags": [
+      "electronic",
+      "german",
+      "electro",
+      "acid jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6350c7f4-83ab-4b8c-8fec-9b27e94d6e28",
+    "artistMbid": "609afe90-64f9-41eb-ad12-64130bf1016a",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dance",
+      "electronic",
+      "house",
+      "tech house"
+    ],
+    "releasedAt": "2018-05-04",
+    "artistCountry": "DE",
+    "externalIdsTrack": {
+      "spotify": "6DVHaplIW44aHvIW0obrrS"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000805462",
+      "bandcamp": "https://erobique.bandcamp.com/",
+      "discogs": "68710",
+      "spotify": "2Gde0DBcgb2YE6AV1lqLxH",
+      "deezer": "181113",
+      "rateyourmusic": "erobique",
+      "wikidata": "Q15793662"
+    }
+  }
+}

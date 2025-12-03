@@ -3,7 +3,7 @@
   "artist": "Finch",
   "duration": 187,
   "youtubeId": "cxvaa028KQo",
-  "lastFetched": "2025-11-19T05:36:10.967Z",
+  "lastFetched": "2025-12-02T01:34:33.330Z",
   "musicbrainz": {
     "artistTags": [
       "german",
@@ -13,7 +13,17 @@
     ],
     "trackMbid": "2fac2736-0a28-4630-8486-9423b2e8cb11",
     "artistMbid": "92653164-7cbd-468f-afa3-b0baa3e05986",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2021-05-13",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0004152096",
+      "discogs": "9427285",
+      "spotify": "1ZyqnbV7Brg5LgyS4EZCUD",
+      "deezer": "13700433",
+      "wikidata": "Q62070109",
+      "youtube": "UC3eP48LEsxo4moTFYrOrG9A"
+    }
   },
   "lastfm": {
     "id": "Finch/_/Direkt+Bock",

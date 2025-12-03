@@ -2,7 +2,7 @@
   "youtubeId": "c6TuEfDF77g",
   "title": "Unscharf mit Katze",
   "artist": "Element of Crime",
-  "lastFetched": "2025-11-30T23:16:11.570Z",
+  "lastFetched": "2025-12-02T01:32:38.130Z",
   "odesli": {
     "amazonMusic": "B0BSRBY1G4",
     "amazonStore": "B0BSRBY1G4",
@@ -31,6 +31,17 @@
     "releaseCount": 3,
     "artistGenres": [
       "pop rock"
-    ]
+    ],
+    "releasedAt": "2023-02-03",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000138899",
+      "discogs": "141807",
+      "spotify": "3FweAJRBCbUOGR6jULfaRi",
+      "deezer": "15727",
+      "lastfm": "Element+of+Crime",
+      "rateyourmusic": "element_of_crime",
+      "wikidata": "Q895739"
+    }
   }
 }

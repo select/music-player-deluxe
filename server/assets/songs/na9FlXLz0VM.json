@@ -2,7 +2,7 @@
   "youtubeId": "na9FlXLz0VM",
   "title": "Hanging Tree",
   "artist": "Queens of the Stone Age",
-  "lastFetched": "2025-11-23T16:49:23.609Z",
+  "lastFetched": "2025-12-02T01:49:33.011Z",
   "odesli": {
     "amazonMusic": "B000VZKN8I",
     "amazonStore": "B000VZKN8I",
@@ -37,7 +37,21 @@
       "stoner rock"
     ],
     "trackMbid": "0b5da2ff-ef28-4ad5-97d1-5855116c8f2a",
-    "artistMbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+    "artistMbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+    "releasedAt": "2002-06-13",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000376422",
+      "discogs": "56168",
+      "spotify": "4pejUc4iciQfgdX6OKulQn",
+      "deezer": "1177",
+      "lastfm": "Queens+of+the+Stone+Age",
+      "genius": "Queens-of-the-stone-age",
+      "rateyourmusic": "queens-of-the-stone-age",
+      "soundcloud": "https://soundcloud.com/qotsa",
+      "wikidata": "Q1243718",
+      "youtube": "UCcYgNw9ne8v1cxcAD_sIOWQ"
+    }
   },
   "lastfm": {
     "id": "Queens+of+the+Stone+Age/_/Hanging+Tree",

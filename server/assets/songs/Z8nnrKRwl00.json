@@ -1,7 +1,7 @@
 {
   "youtubeId": "Z8nnrKRwl00",
   "title": "Larry Carlton - Bubble Shuffle [Audio HQ]",
-  "lastFetched": "2025-11-30T20:22:32.222Z",
+  "lastFetched": "2025-12-02T01:27:04.684Z",
   "ai": {
     "title": "Bubble Shuffle",
     "artist": "Larry Carlton"
@@ -34,6 +34,16 @@
       "progressive pop",
       "rock",
       "smooth jazz"
-    ]
+    ],
+    "releasedAt": "1989",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000102399",
+      "discogs": "258119",
+      "spotify": "7aRi9OzdA2ciputfuguaPK",
+      "deezer": "15466",
+      "rateyourmusic": "larry_carlton",
+      "wikidata": "Q452227"
+    }
   }
 }

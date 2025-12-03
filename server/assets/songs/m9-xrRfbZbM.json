@@ -3,7 +3,7 @@
   "artist": "Monty",
   "duration": 281,
   "youtubeId": "m9-xrRfbZbM",
-  "lastFetched": "2025-11-19T04:37:13.592Z",
+  "lastFetched": "2025-12-02T01:47:24.411Z",
   "odesli": {
     "amazonMusic": "B0FL1JHKYY",
     "amazonStore": "B0FL1JHKYY",
@@ -33,6 +33,16 @@
   "musicbrainz": {
     "trackMbid": "7d4dfe53-25da-4e80-b747-2206e2bd3d21",
     "artistMbid": "2d44fc00-3845-4f6f-ae91-c788e6d1ed5e",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-09-18",
+    "artistCountry": "FR",
+    "externalIdsTrack": {
+      "spotify": "1y1Y9tGB8Lbij6o5b6jllM",
+      "deezer": "3514382911"
+    },
+    "externalIdsArtist": {
+      "discogs": "678952",
+      "wikidata": "Q3323180"
+    }
   }
 }

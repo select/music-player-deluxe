@@ -2,7 +2,7 @@
   "youtubeId": "dXldrIVtRRM",
   "title": "Teddy Bears Picnic",
   "artist": "Henry Hall",
-  "lastFetched": "2025-11-30T23:30:26.326Z",
+  "lastFetched": "2025-12-02T01:35:08.483Z",
   "odesli": {
     "amazonMusic": "B01LWK1EF9",
     "amazonStore": "B01LWK1EF9",
@@ -32,6 +32,13 @@
   "musicbrainz": {
     "artistMbid": "6e8f93a7-eb40-4dec-a781-69b6dd77d145",
     "trackMbid": "873d223d-9525-4370-9f44-6196aaae8cb8",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2001",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000954987",
+      "discogs": "419463",
+      "wikidata": "Q1521852"
+    }
   }
 }

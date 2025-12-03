@@ -1,7 +1,7 @@
 {
   "youtubeId": "pBkHHoOIIn8",
   "title": "Feel It Still",
-  "lastFetched": "2025-11-30T21:14:23.145Z",
+  "lastFetched": "2025-12-02T01:52:09.084Z",
   "ai": {
     "title": "Feel It Still",
     "artist": "Portugal. The Man"
@@ -56,6 +56,24 @@
       "indie rock",
       "neo-psychedelia",
       "progressive"
-    ]
+    ],
+    "releasedAt": "2017-03-02",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "5MMxzaiSbAlLMYhgbVcrEY",
+      "deezer": "371593461"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000716469",
+      "bandcamp": "https://portugaltheman.bandcamp.com/",
+      "discogs": "574537",
+      "spotify": "4kI8Ie27vjvonwaB2ePh8T",
+      "deezer": "181878",
+      "lastfm": "Portugal.+The+Man",
+      "genius": "Portugal-the-man",
+      "rateyourmusic": "portugal__the_man",
+      "soundcloud": "https://soundcloud.com/portugaltheman",
+      "wikidata": "Q606879"
+    }
   }
 }

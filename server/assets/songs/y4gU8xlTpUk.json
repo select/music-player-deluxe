@@ -2,7 +2,7 @@
   "youtubeId": "y4gU8xlTpUk",
   "title": "Come Around",
   "artist": "Papa Roach",
-  "lastFetched": "2025-11-23T16:53:59.767Z",
+  "lastFetched": "2025-12-02T02:05:39.075Z",
   "odesli": {
     "amazonMusic": "B08MQ52N2J",
     "amazonStore": "B08MQ52N2J",
@@ -33,7 +33,23 @@
       "pop rock"
     ],
     "trackMbid": "2a08e309-5cf2-4d70-8b40-95616ee813d0",
-    "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c"
+    "artistMbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
+    "releasedAt": "2019-01-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000007731",
+      "bandcamp": "https://paparoach.bandcamp.com/",
+      "discogs": "175368",
+      "spotify": "4RddZ3iHvSpGV4dvATac9X",
+      "deezer": "89",
+      "lastfm": "Papa+Roach",
+      "genius": "Papa-roach",
+      "rateyourmusic": "papa_roach",
+      "soundcloud": "https://soundcloud.com/paparoach",
+      "napster": "papa-roach",
+      "wikidata": "Q254371",
+      "youtube": "UCRiFekze9Yx5zDDjAVrYvbg"
+    }
   },
   "lastfm": {
     "id": "Papa+Roach/_/Come+Around",

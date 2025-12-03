@@ -1,7 +1,7 @@
 {
   "youtubeId": "i7gD3XBeLk8",
   "title": "Mean Mary - Blazing",
-  "lastFetched": "2025-11-30T19:41:32.978Z",
+  "lastFetched": "2025-12-02T01:41:29.550Z",
   "ai": {
     "title": "Blazing",
     "artist": "Mean Mary"
@@ -23,6 +23,12 @@
   "musicbrainz": {
     "trackMbid": "628ed47b-588b-4e13-889a-81ea1586cdc8",
     "artistMbid": "7463ed5b-7cb8-4c04-be1e-529624f57ceb",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2017",
+    "externalIdsArtist": {
+      "discogs": "7552627",
+      "wikidata": "Q50987176",
+      "wikipedia": "Mean_Mary"
+    }
   }
 }

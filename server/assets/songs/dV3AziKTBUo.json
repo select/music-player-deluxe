@@ -2,7 +2,7 @@
   "youtubeId": "dV3AziKTBUo",
   "title": "The Joker",
   "artist": "Steve Miller Band",
-  "lastFetched": "2025-11-30T22:49:38.248Z",
+  "lastFetched": "2025-12-02T01:35:04.292Z",
   "odesli": {
     "amazonMusic": "B000ULATPU",
     "amazonStore": "B000ULATPU",
@@ -38,6 +38,19 @@
       "pop rock",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2013-03-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000036106",
+      "discogs": "29815",
+      "spotify": "6QtGlUje9TIkLrgPZrESuk",
+      "deezer": "3351",
+      "lastfm": "Steve+Miller+Band",
+      "genius": "Steve-miller-band",
+      "rateyourmusic": "steve_miller_band",
+      "soundcloud": "https://soundcloud.com/stevemillerband",
+      "wikidata": "Q750927"
+    }
   }
 }

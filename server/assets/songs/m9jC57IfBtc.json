@@ -2,7 +2,7 @@
   "youtubeId": "m9jC57IfBtc",
   "title": "Quit It",
   "artist": "Miriam Makeba",
-  "lastFetched": "2025-11-23T16:48:38.288Z",
+  "lastFetched": "2025-12-02T01:47:27.515Z",
   "odesli": {
     "amazonMusic": "B0D5YWB6LJ",
     "amazonStore": "B0D5YWB6LJ",
@@ -27,7 +27,19 @@
       "marabi"
     ],
     "trackMbid": "88544e92-f61f-35f3-ba80-d2b9375e64e9",
-    "artistMbid": "bc5c2918-4aba-4ef6-a245-100563a4487f"
+    "artistMbid": "bc5c2918-4aba-4ef6-a245-100563a4487f",
+    "artistCountry": "ZA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000496097",
+      "bandcamp": "https://miriammakeba.bandcamp.com/",
+      "discogs": "76040",
+      "spotify": "18RkLKfeoUgZflWv9os25W",
+      "deezer": "8514",
+      "lastfm": "Miriam+Makeba",
+      "genius": "Miriam-makeba",
+      "rateyourmusic": "miriam_makeba",
+      "wikidata": "Q146256"
+    }
   },
   "lastfm": {
     "id": "Miriam+Makeba/_/Quit+It",

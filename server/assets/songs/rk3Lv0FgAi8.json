@@ -2,7 +2,7 @@
   "youtubeId": "rk3Lv0FgAi8",
   "title": "Pet Sound",
   "artist": "Puppetmastaz",
-  "lastFetched": "2025-11-19T17:42:07.723Z",
+  "lastFetched": "2025-12-02T01:56:27.333Z",
   "odesli": {
     "soundcloud": "puppetmastaz-official/pet-sound",
     "yandex": "317478",
@@ -23,6 +23,18 @@
   },
   "musicbrainz": {
     "trackMbid": "7e363e75-9242-410e-bcc5-5035656a3a8f",
-    "artistMbid": "ffe53025-23f7-4c80-ac9d-442a3275d4a6"
+    "artistMbid": "ffe53025-23f7-4c80-ac9d-442a3275d4a6",
+    "releasedAt": "2003",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000733463",
+      "discogs": "62809",
+      "spotify": "4yZwAqoNthxjwuszjQpTt2",
+      "deezer": "1226",
+      "lastfm": "Puppetmastaz",
+      "rateyourmusic": "puppetmastaz",
+      "wikidata": "Q2118702",
+      "youtube": "UC2A5HXeJOdPxYuNsiLuLDFQ"
+    }
   }
 }

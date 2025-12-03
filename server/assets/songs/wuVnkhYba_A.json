@@ -2,7 +2,7 @@
   "youtubeId": "wuVnkhYba_A",
   "title": "Be Careful",
   "artist": "Tantrum Desire",
-  "lastFetched": "2025-11-30T23:16:18.190Z",
+  "lastFetched": "2025-12-02T02:03:38.370Z",
   "odesli": {
     "amazonMusic": "B08FCQZNVW",
     "amazonStore": "B08FCQZNVW",
@@ -29,6 +29,14 @@
     "artistGenres": [
       "drum and bass",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2020-08-20",
+    "externalIdsArtist": {
+      "discogs": "1009267",
+      "spotify": "7HBMCyflAmijk08T1si9wS",
+      "deezer": "525892",
+      "soundcloud": "https://soundcloud.com/tantrumdesire",
+      "youtube": "UCeVvQcV02w3b8lz5QumtRvQ"
+    }
   }
 }

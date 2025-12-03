@@ -2,7 +2,7 @@
   "youtubeId": "uhE0j5mj1zE",
   "title": "Latino",
   "artist": "Herbert Pixner Projekt",
-  "lastFetched": "2025-11-23T16:52:40.346Z",
+  "lastFetched": "2025-12-02T02:00:45.276Z",
   "odesli": {
     "amazonMusic": "B01N4NKE90",
     "amazonStore": "B01N4NKE90",
@@ -28,7 +28,14 @@
       "folk"
     ],
     "trackMbid": "3843e8f7-b597-4e6c-8328-57549baf0a25",
-    "artistMbid": "e2360a56-f63a-4589-9295-f83130b563c5"
+    "artistMbid": "e2360a56-f63a-4589-9295-f83130b563c5",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0003534522",
+      "discogs": "2636206",
+      "rateyourmusic": "herbert_pixner_projekt",
+      "wikidata": "Q124094228"
+    }
   },
   "lastfm": {
     "id": "Herbert+Pixner+Projekt/_/Latino",

@@ -2,7 +2,7 @@
   "youtubeId": "cvbIT_CKQ9M",
   "title": "Higher Than Ever Before",
   "artist": "Disclosure",
-  "lastFetched": "2025-11-23T16:44:30.695Z",
+  "lastFetched": "2025-12-02T01:34:27.079Z",
   "odesli": {
     "amazonMusic": "B0CLM2DJSN",
     "amazonStore": "B0CLM2DJSN",
@@ -28,7 +28,11 @@
       "jungle"
     ],
     "trackMbid": "d810c7fd-51b4-42a3-9d33-8de225b11fc1",
-    "artistMbid": "962419b3-51c6-464d-acd5-b43f88429d85"
+    "artistMbid": "962419b3-51c6-464d-acd5-b43f88429d85",
+    "releasedAt": "2023-07-14",
+    "externalIdsArtist": {
+      "discogs": "3291881"
+    }
   },
   "lastfm": {
     "id": "Disclosure/_/Higher+Than+Ever+Before",

@@ -2,7 +2,7 @@
   "youtubeId": "yPaXJg-lGm0",
   "title": "A Dark Machine",
   "artist": "ShockOne",
-  "lastFetched": "2025-11-30T23:29:06.428Z",
+  "lastFetched": "2025-12-02T02:06:00.682Z",
   "odesli": {
     "amazonMusic": "B07T3PX7LV",
     "amazonStore": "B07T3PX7LV",
@@ -33,6 +33,22 @@
       "drum and bass",
       "dubstep",
       "neurofunk"
-    ]
+    ],
+    "releasedAt": "2019-08-01",
+    "artistCountry": "AU",
+    "externalIdsTrack": {
+      "spotify": "64Up18W3SPpThiKls1iEkf"
+    },
+    "externalIdsArtist": {
+      "discogs": "354973",
+      "spotify": "1yShtQaHjChbToQboKRzgH",
+      "deezer": "981598",
+      "genius": "Shockone",
+      "rateyourmusic": "shockone",
+      "soundcloud": "https://soundcloud.com/shockone",
+      "wikidata": "Q16222047",
+      "wikipedia": "ShockOne",
+      "youtube": "UCjfSOcNTCQOtnAqdPsDETgw"
+    }
   }
 }

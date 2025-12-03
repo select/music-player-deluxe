@@ -2,7 +2,7 @@
   "youtubeId": "WQdOCzLH6d4",
   "title": "Cloud Catcher",
   "artist": "Mike Dawes",
-  "lastFetched": "2025-11-30T22:31:35.871Z",
+  "lastFetched": "2025-12-02T01:22:31.677Z",
   "odesli": {
     "amazonMusic": "B0DBWXLBLX",
     "amazonStore": "B0DBWXLBLX",
@@ -40,6 +40,16 @@
       "progressive",
       "progressive rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2024-07-19",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://mikedawes.bandcamp.com/",
+      "discogs": "4555307",
+      "spotify": "3B83ffT0B4Si3ttxzY9fMz",
+      "deezer": "410674",
+      "wikidata": "Q6846519",
+      "youtube": "UCkkS9vuXcbxijUfoXft8x7w"
+    }
   }
 }

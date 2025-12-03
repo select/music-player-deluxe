@@ -2,7 +2,7 @@
   "youtubeId": "sKwVrsMf6g0",
   "title": "a good man with a broken heart",
   "artist": "LoVibe.",
-  "lastFetched": "2025-11-30T22:31:50.063Z",
+  "lastFetched": "2025-12-02T01:57:24.377Z",
   "odesli": {
     "amazonMusic": "B0FMTJ9KSG",
     "amazonStore": "B0FMTJ9KSG",
@@ -39,6 +39,17 @@
       "hip hop",
       "instrumental",
       "instrumental hip hop"
-    ]
+    ],
+    "releasedAt": "2025-05-12",
+    "externalIdsTrack": {
+      "spotify": "07fNxq0gkGFZpAYCTd0v2A"
+    },
+    "externalIdsArtist": {
+      "bandcamp": "https://lovibe.bandcamp.com/",
+      "discogs": "5177354",
+      "spotify": "1NLyehNkC7wzb5FLW4uYjc",
+      "soundcloud": "https://soundcloud.com/lovibe1",
+      "youtube": "UCiknwxowbeBnReFh_CxHJLQ"
+    }
   }
 }

@@ -1,0 +1,63 @@
+{
+  "youtubeId": "Cwkej79U3ek",
+  "title": "A Thousand Miles",
+  "artist": "Vanessa Carlton",
+  "lastFetched": "2025-12-03T11:45:35.724Z",
+  "odesli": {
+    "amazonMusic": "B000W291YM",
+    "amazonStore": "B000W291YM",
+    "audiomack": "26689163",
+    "audius": "lZ0gd1l",
+    "anghami": "2663819",
+    "boomplay": "2059478",
+    "pandora": "TR:113346",
+    "soundcloud": "vanessacarlton/a-thousand-miles",
+    "spotify": "4w1lzcaoZ1IC2K5TwjalRP",
+    "tidal": "16156372",
+    "yandex": "69410",
+    "youtube": "Cwkej79U3ek",
+    "youtubeMusic": "Cwkej79U3ek"
+  },
+  "lastfm": {
+    "summary": "\"A Thousand Miles\" (originally titled \"Interlude\") is the debut single by American pop singer Vanessa Carlton. Produced by Curtis Schweitzer and Ron Fair, the song was released as the lead single for Carlton's album Be Not Nobody (2002). Her signature song, it became Carlton's breakthrough hit and one of the most popular songs of the year. To date, it remains Carlton's biggest hit in the United States, and her only single to reach the top ten of the Billboard Hot 100, peaking at number five. <a href=\"http://www.last.fm/music/Vanessa+Carlton/_/A+Thousand+Miles\">Read more on Last.fm</a>.",
+    "id": "Vanessa+Carlton/_/A+Thousand+Miles",
+    "listeners": 1269358,
+    "playcount": 8038092,
+    "tags": [
+      "pop",
+      "female vocalists",
+      "piano",
+      "singer-songwriter",
+      "vanessa carlton"
+    ],
+    "title": "A Thousand Miles",
+    "artist": "Vanessa Carlton",
+    "artistMbid": "c1a61bb0-e4fe-4064-bc8d-954a2dafda79"
+  },
+  "musicbrainz": {
+    "trackMbid": "dafb4617-9bb7-4ba4-8a98-dd73038fa528",
+    "artistMbid": "c1a61bb0-e4fe-4064-bc8d-954a2dafda79",
+    "releaseCount": 3,
+    "artistGenres": [
+      "pop",
+      "pop rock",
+      "rock",
+      "singer-songwriter"
+    ],
+    "releasedAt": "2011-11-21",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000839432",
+      "discogs": "275641",
+      "spotify": "5ILrArfIV0tMURcHJN8Q07",
+      "deezer": "456",
+      "lastfm": "Vanessa+Carlton",
+      "genius": "Vanessa-carlton",
+      "rateyourmusic": "vanessa_carlton",
+      "soundcloud": "https://soundcloud.com/vanessacarlton",
+      "napster": "vanessa-carlton",
+      "wikidata": "Q233081",
+      "youtube": "UCgrnWaeLQ_zTqaiq858zksA"
+    }
+  }
+}

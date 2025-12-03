@@ -2,7 +2,7 @@
   "youtubeId": "ltQRZ8QSskM",
   "title": "Herbalist",
   "artist": "EL SPEAKER",
-  "lastFetched": "2025-11-30T23:32:59.366Z",
+  "lastFetched": "2025-12-02T01:47:02.213Z",
   "odesli": {
     "amazonMusic": "B0BRKG61V5",
     "amazonStore": "B0BRKG61V5",
@@ -34,6 +34,19 @@
     "artistGenres": [
       "electronic",
       "trap edm"
-    ]
+    ],
+    "releasedAt": "2016-09-06",
+    "artistCountry": "CO",
+    "externalIdsTrack": {
+      "spotify": "34nULCKJW5lJImfw1MzakZ",
+      "deezer": "2093472687"
+    },
+    "externalIdsArtist": {
+      "discogs": "10723666",
+      "spotify": "0HAZyL1XzRf6rEoYxLp6k0",
+      "deezer": "7874082",
+      "soundcloud": "https://soundcloud.com/el_speaker",
+      "youtube": "UCyrVZ_rQy49HaWqZhF2QY0A"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "iax855jAlak",
   "title": "BIKINI GRELL",
   "artist": "Ikkimel",
-  "lastFetched": "2025-11-30T22:35:08.841Z",
+  "lastFetched": "2025-12-02T01:41:49.258Z",
   "lastfm": {
     "title": "BIKINI GRELL",
     "artist": "Ikkimel",
@@ -26,6 +26,19 @@
     "artistGenres": [
       "hip hop",
       "pop rap"
-    ]
+    ],
+    "releasedAt": "2024-02-16",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0004508818",
+      "bandcamp": "https://ikkimel.bandcamp.com/",
+      "discogs": "12739211",
+      "spotify": "0CzoJbqBbtBNLArLyAFDPn",
+      "deezer": "345226501",
+      "lastfm": "Ikkimel",
+      "rateyourmusic": "ikkimel",
+      "wikidata": "Q122971758",
+      "youtube": "UC8NcV0PxLBjm_QrCj9Opimw"
+    }
   }
 }

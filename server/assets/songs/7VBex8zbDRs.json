@@ -1,0 +1,71 @@
+{
+  "youtubeId": "7VBex8zbDRs",
+  "title": "Gravity",
+  "artist": "John Mayer",
+  "lastFetched": "2025-12-03T12:05:53.655Z",
+  "odesli": {
+    "amazonMusic": "B07VRLHTMD",
+    "amazonStore": "B07VRLHTMD",
+    "anghami": "4229088",
+    "pandora": "TR:607438",
+    "soundcloud": "johnmayer/gravity",
+    "spotify": "3SktMqZmo3M9zbB7oKMIF7",
+    "tidal": "552870",
+    "youtube": "7VBex8zbDRs",
+    "youtubeMusic": "7VBex8zbDRs"
+  },
+  "lastfm": {
+    "summary": "\"Gravity\" is a song by American musician John Mayer. It is written by Mayer and produced by Mayer and Steve Jordan. \"Gravity\" is featured on three of Mayer's releases: the 2005 live album Try! by the John Mayer Trio, his 2006 studio album Continuum, and his 2008 live album Where the Light Is: John Mayer Live in Los Angeles. In 2007, the song was released as the third single from Continuum.\n\nBackground and production\nMayer suggested in an interview with the magazine Performing Songwriter that \"Gravity\" was the song he was always trying to write <a href=\"http://www.last.fm/music/John+Mayer/_/Gravity\">Read more on Last.fm</a>.",
+    "id": "John+Mayer/_/Gravity",
+    "listeners": 847099,
+    "playcount": 7275297,
+    "tags": [
+      "blues",
+      "singer-songwriter",
+      "john mayer",
+      "acoustic",
+      "rock"
+    ],
+    "title": "Gravity",
+    "artist": "John Mayer",
+    "mbid": "1283f9e1-9413-406e-8af8-dd04fef1d824",
+    "artistMbid": "144ef525-85e9-40c3-8335-02c32d0861f3"
+  },
+  "musicbrainz": {
+    "trackMbid": "0ade2d42-99c6-4f06-9d15-592e745fd0e2",
+    "artistMbid": "144ef525-85e9-40c3-8335-02c32d0861f3",
+    "releaseCount": 9,
+    "genres": [
+      "acoustic rock",
+      "blues",
+      "blues rock",
+      "pop",
+      "rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "americana",
+      "blues",
+      "blues rock",
+      "folk rock",
+      "pop rock",
+      "singer-songwriter",
+      "soft rock"
+    ],
+    "releasedAt": "2008-05-29",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000239827",
+      "discogs": "254479",
+      "spotify": "0hEurMDQu99nJRq8pTxO14",
+      "deezer": "598",
+      "lastfm": "John+Mayer",
+      "genius": "John-mayer",
+      "rateyourmusic": "john_mayer",
+      "soundcloud": "https://soundcloud.com/johnmayer",
+      "napster": "john-mayer",
+      "wikidata": "Q215215"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "ZS0WvzRVByg",
   "title": "Listen to the Man",
   "artist": "George Ezra",
-  "lastFetched": "2025-11-30T20:48:24.120Z",
+  "lastFetched": "2025-12-02T01:27:38.813Z",
   "odesli": {
     "amazonMusic": "B00QKEJME0",
     "amazonStore": "B00QKEJME0",
@@ -55,6 +55,24 @@
       "pop",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2014-05-19",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "5B0ibk0qk9ees6wvlzMsZe",
+      "deezer": "79391477"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003172484",
+      "discogs": "3533079",
+      "spotify": "2ysnwxxNtSgbb9t1m2Ur4j",
+      "deezer": "5241932",
+      "lastfm": "George%20Ezra",
+      "genius": "George-ezra",
+      "rateyourmusic": "george-ezra",
+      "soundcloud": "https://soundcloud.com/george-ezra",
+      "wikidata": "Q15459513",
+      "youtube": "UCMRHmbI7BHZX-Efo6bS3WFw"
+    }
   }
 }

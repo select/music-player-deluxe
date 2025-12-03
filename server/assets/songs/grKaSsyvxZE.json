@@ -2,7 +2,7 @@
   "youtubeId": "grKaSsyvxZE",
   "title": "Through the Roof 'n' Underground",
   "artist": "Gogol Bordello",
-  "lastFetched": "2025-11-23T16:46:16.344Z",
+  "lastFetched": "2025-12-02T01:39:15.756Z",
   "odesli": {
     "amazonMusic": "B077YXW1LF",
     "amazonStore": "B077YXW1LF",
@@ -27,7 +27,20 @@
       "rock"
     ],
     "trackMbid": "650a78bd-5b50-3e20-a22c-31a6712e5c90",
-    "artistMbid": "f47fc54d-b334-4321-8218-00c5b11d4dd1"
+    "artistMbid": "f47fc54d-b334-4321-8218-00c5b11d4dd1",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000670273",
+      "bandcamp": "https://gogolbordello.bandcamp.com/",
+      "discogs": "192610",
+      "spotify": "2SVw939fwuqSobLjF8u78b",
+      "deezer": "5361",
+      "lastfm": "Gogol+Bordello",
+      "rateyourmusic": "gogol_bordello",
+      "soundcloud": "https://soundcloud.com/gogolbordello",
+      "wikidata": "Q46644",
+      "youtube": "UCMIR3hEDm2gMtN8DfgvS-yQ"
+    }
   },
   "lastfm": {
     "id": "Gogol+Bordello/_/Through+the+Roof+%27n%27+Underground",

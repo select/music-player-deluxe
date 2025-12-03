@@ -2,7 +2,7 @@
   "youtubeId": "WzDtquY9iCM",
   "title": "Don't Bug Me",
   "artist": "Dyke & The Blazers",
-  "lastFetched": "2025-11-30T22:03:33.988Z",
+  "lastFetched": "2025-12-02T01:23:15.855Z",
   "odesli": {
     "amazonMusic": "B00NYICLDY",
     "amazonStore": "B00NYICLDY",
@@ -30,6 +30,15 @@
   "musicbrainz": {
     "trackMbid": "12440c8b-9870-498a-9ba1-3efbadaac501",
     "artistMbid": "2956178f-8247-422e-b693-a04753a67e27",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2007",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000792190",
+      "discogs": "60631",
+      "lastfm": "Dyke%20&%20The%20Blazers",
+      "rateyourmusic": "dyke_and_the_blazers",
+      "wikidata": "Q5318666"
+    }
   }
 }

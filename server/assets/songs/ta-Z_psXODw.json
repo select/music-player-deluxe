@@ -1,7 +1,7 @@
 {
   "youtubeId": "ta-Z_psXODw",
   "title": "ALESTORM - Keelhauled (Official Video) | Napalm Records",
-  "lastFetched": "2025-11-30T19:25:40.194Z",
+  "lastFetched": "2025-12-02T01:59:27.054Z",
   "ai": {
     "title": "Keelhauled",
     "artist": "ALESTORM"
@@ -38,6 +38,22 @@
       "folk metal",
       "metal",
       "power metal"
-    ]
+    ],
+    "releasedAt": "2009-03-27",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000950099",
+      "bandcamp": "https://alestorm.bandcamp.com/",
+      "discogs": "1050916",
+      "spotify": "3OpqU68JpZlzvjAJj3B2Da",
+      "deezer": "125436",
+      "lastfm": "Alestorm",
+      "genius": "Alestorm",
+      "rateyourmusic": "alestorm",
+      "soundcloud": "https://soundcloud.com/alestorm",
+      "napster": "alestorm",
+      "wikidata": "Q758934",
+      "youtube": "UCpmH4GvnC0AmPhrLUAKJyUg"
+    }
   }
 }

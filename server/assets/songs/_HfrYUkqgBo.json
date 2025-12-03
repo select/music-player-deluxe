@@ -2,7 +2,7 @@
   "youtubeId": "_HfrYUkqgBo",
   "title": "I Talk To The Trees",
   "artist": "Masha Qrella",
-  "lastFetched": "2025-11-30T20:19:50.879Z",
+  "lastFetched": "2025-12-02T01:28:52.501Z",
   "odesli": {
     "amazonMusic": "B0025Z2A1K",
     "amazonStore": "B0025Z2A1K",
@@ -32,6 +32,18 @@
   "musicbrainz": {
     "trackMbid": "ab961b8e-25f9-47d9-bc26-24107059b64c",
     "artistMbid": "6fb75f83-71f2-47ce-b4f1-aa3833982a4b",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2009-07",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "bandcamp": "https://mashaqrella.bandcamp.com/",
+      "discogs": "65741",
+      "spotify": "0ozlTmp6BHcqNEqleu3AEb",
+      "deezer": "4560",
+      "genius": "Masha-qrella",
+      "rateyourmusic": "masha_qrella",
+      "soundcloud": "https://soundcloud.com/mashaqrella",
+      "wikidata": "Q15834312"
+    }
   }
 }

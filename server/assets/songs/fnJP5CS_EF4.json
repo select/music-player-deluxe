@@ -2,7 +2,7 @@
   "youtubeId": "fnJP5CS_EF4",
   "title": "Die Geschichte vom Zappel-Philipp",
   "artist": "Knorkator",
-  "lastFetched": "2025-11-23T16:45:54.947Z",
+  "lastFetched": "2025-12-02T01:37:57.122Z",
   "odesli": {
     "amazonMusic": "B0DRW5VK8X",
     "amazonStore": "B0DRW5VK8X",
@@ -21,7 +21,20 @@
       "german"
     ],
     "trackMbid": "096731b2-1e14-459a-8bc4-23985d1c3615",
-    "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e"
+    "artistMbid": "b76e48bd-6cb2-4eda-bbd8-f87ba9c4b47e",
+    "externalIdsArtist": {
+      "allmusic": "mn0000911512",
+      "bandcamp": "https://knorkator.bandcamp.com/",
+      "discogs": "351541",
+      "spotify": "5iFI4j0w7RbSJmkbI6rqzi",
+      "deezer": "7097",
+      "lastfm": "Knorkator",
+      "genius": "Knorkator",
+      "rateyourmusic": "knorkator",
+      "soundcloud": "https://soundcloud.com/knorkatorofficial",
+      "wikidata": "Q696919",
+      "youtube": "UCDchoKSWD6v70-MOKgBWFXQ"
+    }
   },
   "lastfm": {
     "id": "Knorkator/_/Die+Geschichte+vom+Zappel-Philipp",

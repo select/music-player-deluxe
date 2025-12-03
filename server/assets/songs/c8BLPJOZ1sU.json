@@ -2,7 +2,7 @@
   "youtubeId": "c8BLPJOZ1sU",
   "title": "Mishto",
   "artist": "Gogol Bordello",
-  "lastFetched": "2025-11-23T16:43:59.300Z",
+  "lastFetched": "2025-12-02T01:32:47.241Z",
   "odesli": {
     "amazonMusic": "B0B4FDFY27",
     "amazonStore": "B0B4FDFY27",
@@ -25,7 +25,20 @@
       "rock"
     ],
     "trackMbid": "0ecee3c8-4b2b-42c3-8f09-eab480ef94a3",
-    "artistMbid": "f47fc54d-b334-4321-8218-00c5b11d4dd1"
+    "artistMbid": "f47fc54d-b334-4321-8218-00c5b11d4dd1",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000670273",
+      "bandcamp": "https://gogolbordello.bandcamp.com/",
+      "discogs": "192610",
+      "spotify": "2SVw939fwuqSobLjF8u78b",
+      "deezer": "5361",
+      "lastfm": "Gogol+Bordello",
+      "rateyourmusic": "gogol_bordello",
+      "soundcloud": "https://soundcloud.com/gogolbordello",
+      "wikidata": "Q46644",
+      "youtube": "UCMIR3hEDm2gMtN8DfgvS-yQ"
+    }
   },
   "lastfm": {
     "id": "Gogol+Bordello/_/Mishto",

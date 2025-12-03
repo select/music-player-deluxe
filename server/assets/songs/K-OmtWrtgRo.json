@@ -1,0 +1,55 @@
+{
+  "youtubeId": "K-OmtWrtgRo",
+  "title": "Generation YouPorn",
+  "artist": "Faber",
+  "lastFetched": "2025-12-03T12:03:38.611Z",
+  "odesli": {
+    "amazonMusic": "B07V58SGZX",
+    "amazonStore": "B07V58SGZX",
+    "appleMusic": "1472243742",
+    "itunes": "1472243742",
+    "pandora": "TR:24782620",
+    "soundcloud": "faberofficial/generation-youporn",
+    "spotify": "4vrL20uPyc7ClLchX0NRdu",
+    "tidal": "121059508",
+    "yandex": "56756984",
+    "youtube": "K-OmtWrtgRo",
+    "youtubeMusic": "K-OmtWrtgRo"
+  },
+  "lastfm": {
+    "id": "Faber/_/Generation+YouPorn",
+    "listeners": 14357,
+    "playcount": 141550,
+    "title": "Generation YouPorn",
+    "artist": "Faber",
+    "mbid": "b9b52100-efe7-4537-9378-ccf336a01935",
+    "artistMbid": "41e55ccc-c01d-4e3e-9ea0-daced36c9cf3",
+    "tags": [
+      "swiss",
+      "indie",
+      "liedermacher",
+      "singer-songwriter"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e0106d0f-1dbe-4dbf-b8a6-ef494fdeb20f",
+    "artistMbid": "41e55ccc-c01d-4e3e-9ea0-daced36c9cf3",
+    "releaseCount": 4,
+    "artistGenres": [
+      "alternative rock",
+      "indie pop"
+    ],
+    "releasedAt": "2019-08-23",
+    "artistCountry": "CH",
+    "externalIdsArtist": {
+      "allmusic": "mn0003556793",
+      "bandcamp": "https://fabermusic.bandcamp.com/",
+      "discogs": "5481382",
+      "spotify": "0k70gnDBLPirCltbTzoxuM",
+      "deezer": "1073110",
+      "rateyourmusic": "faber-1",
+      "wikidata": "Q35555519",
+      "youtube": "UCZmMQrt1cIU6YQpypm7aclw"
+    }
+  }
+}

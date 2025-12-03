@@ -2,7 +2,7 @@
   "youtubeId": "gxzMbAMO73k",
   "title": "California Stars",
   "artist": "Billy Bragg",
-  "lastFetched": "2025-11-30T21:03:50.845Z",
+  "lastFetched": "2025-12-02T01:39:29.321Z",
   "odesli": {
     "amazonMusic": "B007QNRPKM",
     "amazonStore": "B007QNRPKM",
@@ -46,6 +46,19 @@
       "anti-folk",
       "folk",
       "rock"
-    ]
+    ],
+    "releasedAt": "1998-06-22",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000083554",
+      "bandcamp": "https://billybragg.bandcamp.com/",
+      "discogs": "83242",
+      "spotify": "5yXAFDZNUNyO92l5WTImkO",
+      "deezer": "9448",
+      "lastfm": "Billy+Bragg",
+      "rateyourmusic": "billy_bragg",
+      "soundcloud": "https://soundcloud.com/billy-bragg-3",
+      "wikidata": "Q508412"
+    }
   }
 }

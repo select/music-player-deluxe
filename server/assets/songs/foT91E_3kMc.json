@@ -2,7 +2,7 @@
   "youtubeId": "foT91E_3kMc",
   "title": "Diane",
   "artist": "Therapy?",
-  "lastFetched": "2025-11-30T20:26:26.963Z",
+  "lastFetched": "2025-12-02T01:38:00.497Z",
   "odesli": {
     "amazonMusic": "B000QLAK76",
     "amazonStore": "B000QLAK76",
@@ -45,6 +45,19 @@
       "power pop",
       "punk rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1995-06-12",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000925636",
+      "discogs": "32480",
+      "spotify": "3MomZRiJwdZmYnysgtF4Ey",
+      "deezer": "3586",
+      "lastfm": "Therapy%3F",
+      "genius": "Therapy-band",
+      "rateyourmusic": "therapy_",
+      "wikidata": "Q1130493",
+      "youtube": "UCDZTQmOlOj_dh7Giixx4orw"
+    }
   }
 }

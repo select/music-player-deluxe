@@ -2,7 +2,7 @@
   "youtubeId": "kZQUlcf5P3E",
   "title": "Gut für mich, schlecht für die Welt",
   "artist": "Die Türen",
-  "lastFetched": "2025-11-30T22:50:09.631Z",
+  "lastFetched": "2025-12-02T01:45:04.568Z",
   "odesli": {
     "amazonMusic": "B0C6MQK6VS",
     "amazonStore": "B0C6MQK6VS",
@@ -29,6 +29,14 @@
     "releaseCount": 2,
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "releasedAt": "2023-10-05",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "202448",
+      "spotify": "5Q2DijkguiiBhezl9vqzmm",
+      "soundcloud": "https://soundcloud.com/dietueren",
+      "wikidata": "Q1216957"
+    }
   }
 }

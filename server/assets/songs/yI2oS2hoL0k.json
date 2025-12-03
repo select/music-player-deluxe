@@ -2,7 +2,7 @@
   "youtubeId": "yI2oS2hoL0k",
   "title": "Burn the Witch",
   "artist": "Radiohead",
-  "lastFetched": "2025-11-19T05:14:22.247Z",
+  "lastFetched": "2025-12-02T02:05:48.008Z",
   "musicbrainz": {
     "tags": [
       "chamber pop",
@@ -12,7 +12,22 @@
       "alternative"
     ],
     "trackMbid": "81eaef98-48c0-4431-807c-5fd08c304b9a",
-    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "releasedAt": "2020-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000326249",
+      "bandcamp": "https://radiohead.bandcamp.com/",
+      "discogs": "3840",
+      "spotify": "4Z8W4fKeB5YxbusRsdQVPb",
+      "deezer": "399",
+      "lastfm": "Radiohead",
+      "genius": "Radiohead",
+      "rateyourmusic": "radiohead",
+      "soundcloud": "https://soundcloud.com/radiohead",
+      "wikidata": "Q44190",
+      "youtube": "UCr_iyUANcn9OX_yy9piYoLw"
+    }
   },
   "lastfm": {
     "id": "Radiohead/_/Burn+the+Witch",

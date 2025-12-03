@@ -2,7 +2,7 @@
   "youtubeId": "tFenIIR47VU",
   "title": "The One You Love",
   "artist": "Rufus Wainwright",
-  "lastFetched": "2025-11-30T21:08:31.001Z",
+  "lastFetched": "2025-12-02T01:58:44.790Z",
   "odesli": {
     "amazonMusic": "B00IDXOAIE",
     "amazonStore": "B00IDXOAIE",
@@ -50,6 +50,18 @@
       "folk",
       "indie rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2004-11-16",
+    "externalIdsArtist": {
+      "allmusic": "mn0000854854",
+      "discogs": "268049",
+      "spotify": "2PfBzriIMRsCXPDtSy9vg8",
+      "deezer": "1515",
+      "lastfm": "Rufus+Wainwright",
+      "rateyourmusic": "rufus_wainwright",
+      "soundcloud": "https://soundcloud.com/rufuswainwright",
+      "wikidata": "Q192402",
+      "youtube": "UCzV2sYMCYqhCEPGDtVj7dIA"
+    }
   }
 }

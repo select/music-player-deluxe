@@ -1,7 +1,7 @@
 {
   "youtubeId": "ncW6aYG6wFA",
   "title": "The Hacker - Nebel",
-  "lastFetched": "2025-11-30T20:57:23.355Z",
+  "lastFetched": "2025-12-02T01:49:35.780Z",
   "ai": {
     "title": "Nebel",
     "artist": "The Hacker"
@@ -26,6 +26,18 @@
     "artistGenres": [
       "electroclash",
       "techno"
-    ]
+    ],
+    "releasedAt": "1999",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000764504",
+      "discogs": "1737",
+      "spotify": "763V8ZisRsw5kCoquzKTUp",
+      "deezer": "3776",
+      "rateyourmusic": "the_hacker",
+      "soundcloud": "https://soundcloud.com/the-hacker",
+      "wikidata": "Q279213",
+      "wikipedia": "The_Hacker"
+    }
   }
 }

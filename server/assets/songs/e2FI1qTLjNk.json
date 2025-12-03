@@ -2,7 +2,7 @@
   "youtubeId": "e2FI1qTLjNk",
   "title": "Pillow Talk",
   "artist": "Lustt",
-  "lastFetched": "2025-11-30T22:30:20.224Z",
+  "lastFetched": "2025-12-02T01:35:37.764Z",
   "odesli": {
     "amazonMusic": "B003U9XEV0",
     "amazonStore": "B003U9XEV0",
@@ -44,6 +44,10 @@
       "dance",
       "electronic",
       "italo-disco"
-    ]
+    ],
+    "releasedAt": "1983",
+    "externalIdsArtist": {
+      "discogs": "104655"
+    }
   }
 }

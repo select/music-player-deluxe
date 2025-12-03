@@ -2,7 +2,7 @@
   "youtubeId": "_AzH-x2IK2I",
   "title": "Boom Boom",
   "artist": "Big Head Todd And The Monsters",
-  "lastFetched": "2025-11-30T20:45:42.754Z",
+  "lastFetched": "2025-12-02T01:28:47.366Z",
   "odesli": {
     "amazonMusic": "B084DNBP3X",
     "amazonStore": "B084DNBP3X",
@@ -35,6 +35,15 @@
       "alternative rock",
       "blues rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1997-02-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000060855",
+      "discogs": "305587",
+      "deezer": "3104",
+      "rateyourmusic": "big_head_todd_and_the_monsters",
+      "wikidata": "Q4905806"
+    }
   }
 }

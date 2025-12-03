@@ -2,7 +2,7 @@
   "youtubeId": "eYDI8b5Nn5s",
   "title": "Buttercup",
   "artist": "Jack Stauber",
-  "lastFetched": "2025-11-19T12:48:25.426Z",
+  "lastFetched": "2025-12-02T01:36:11.531Z",
   "odesli": {
     "amazonMusic": "B06Y274G1Y",
     "amazonStore": "B06Y274G1Y",
@@ -22,7 +22,17 @@
       "synthpop"
     ],
     "trackMbid": "5147d04a-7938-4dce-af05-4e4973f6e8cd",
-    "artistMbid": "9f4c3bca-4d80-428f-9ed2-0de052d92ecc"
+    "artistMbid": "9f4c3bca-4d80-428f-9ed2-0de052d92ecc",
+    "externalIdsArtist": {
+      "bandcamp": "https://jackstauber.bandcamp.com/",
+      "discogs": "6394903",
+      "spotify": "1yNIb413Bmfs2ZBVuPp9kC",
+      "deezer": "14959035",
+      "lastfm": "Jack+Stauber",
+      "soundcloud": "https://soundcloud.com/jackstaubermicropop89",
+      "wikidata": "Q85871526",
+      "youtube": "UC_kUPagBX7moXc9FB4YLtiA"
+    }
   },
   "lastfm": {
     "id": "Jack+Stauber/_/Buttercup",

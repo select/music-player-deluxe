@@ -2,7 +2,7 @@
   "youtubeId": "o7X3LYGV_N8",
   "title": "Monster",
   "artist": "The Automatic",
-  "lastFetched": "2025-11-23T16:49:33.433Z",
+  "lastFetched": "2025-12-02T01:50:29.662Z",
   "odesli": {
     "amazonMusic": "B0D5N5DXWB",
     "amazonStore": "B0D5N5DXWB",
@@ -21,7 +21,16 @@
       "pop and chart"
     ],
     "trackMbid": "014e0465-99c6-3c30-9c82-f976f869306c",
-    "artistMbid": "afe5e238-d248-4da4-87b7-e70dfab787f6"
+    "artistMbid": "afe5e238-d248-4da4-87b7-e70dfab787f6",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001017833",
+      "discogs": "494507",
+      "spotify": "7IZcg74X6CKzf0SfRliRrB",
+      "deezer": "4605",
+      "rateyourmusic": "the_automatic",
+      "wikidata": "Q1849852"
+    }
   },
   "lastfm": {
     "id": "The+Automatic/_/Monster",

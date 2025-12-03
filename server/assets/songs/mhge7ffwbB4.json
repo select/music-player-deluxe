@@ -2,7 +2,7 @@
   "youtubeId": "mhge7ffwbB4",
   "title": "Edward Smith",
   "artist": "Thought Industry",
-  "lastFetched": "2025-12-01T12:56:09.761Z",
+  "lastFetched": "2025-12-02T01:48:17.408Z",
   "odesli": {
     "amazonMusic": "B005DN5GQ2",
     "amazonStore": "B005DN5GQ2",
@@ -43,6 +43,14 @@
       "experimental",
       "metal",
       "progressive metal"
-    ]
+    ],
+    "releasedAt": "1997-06-24",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000585940",
+      "discogs": "709686",
+      "rateyourmusic": "thought-industry",
+      "wikidata": "Q7796983"
+    }
   }
 }

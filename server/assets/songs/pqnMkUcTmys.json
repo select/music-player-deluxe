@@ -2,7 +2,7 @@
   "youtubeId": "pqnMkUcTmys",
   "title": "Í Tokuni",
   "artist": "Eivør",
-  "lastFetched": "2025-11-30T19:25:23.044Z",
+  "lastFetched": "2025-12-02T01:53:18.306Z",
   "odesli": {
     "amazonMusic": "B016NDUWTQ",
     "amazonStore": "B016NDUWTQ",
@@ -40,6 +40,21 @@
     "releaseCount": 2,
     "artistGenres": [
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2015-09-18",
+    "artistCountry": "FO",
+    "externalIdsArtist": {
+      "allmusic": "mn0002848477",
+      "bandcamp": "https://eivor.bandcamp.com/",
+      "discogs": "366638",
+      "spotify": "2dB4ya2W1Gvng8gjWSPu2H",
+      "deezer": "572019",
+      "lastfm": "Eiv%C3%B8r+P%C3%A1lsd%C3%B3ttir",
+      "genius": "Eivr-palsdottir",
+      "rateyourmusic": "eivor_palsdottir",
+      "soundcloud": "https://soundcloud.com/eivor",
+      "wikidata": "Q272898",
+      "youtube": "UCjKO6we36tPNC9hCeXUNvgQ"
+    }
   }
 }

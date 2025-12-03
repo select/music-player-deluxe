@@ -1,0 +1,53 @@
+{
+  "youtubeId": "GRCq7yuxFWA",
+  "title": "Anotherdrinkingsong",
+  "artist": "Skyclad",
+  "lastFetched": "2025-12-03T11:40:27.955Z",
+  "odesli": {
+    "soundcloud": "skycladofficial/anotherdrinkingsong-1",
+    "spotify": "1ZgNrZlg2QBhzR7SNhEbZc",
+    "youtube": "GRCq7yuxFWA",
+    "youtubeMusic": "GRCq7yuxFWA"
+  },
+  "lastfm": {
+    "id": "Skyclad/_/Anotherdrinkingsong",
+    "listeners": 18354,
+    "playcount": 93756,
+    "title": "Anotherdrinkingsong",
+    "artist": "Skyclad",
+    "mbid": "b49e4aa3-ccdb-30d6-8864-75f3afc79857",
+    "artistMbid": "8fe90664-ee90-4b18-b4e9-9b7cf02807bd",
+    "tags": [
+      "folk metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a4747196-ec4b-4b42-90d9-d053546add76",
+    "artistMbid": "8fe90664-ee90-4b18-b4e9-9b7cf02807bd",
+    "releaseCount": 1,
+    "artistGenres": [
+      "celtic",
+      "celtic metal",
+      "celtic rock",
+      "folk metal",
+      "heavy metal",
+      "metal",
+      "thrash metal"
+    ],
+    "releasedAt": "2004-06-21",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000019692",
+      "discogs": "492915",
+      "spotify": "3CgDRO3wUoner5eZocDuQN",
+      "deezer": "12244",
+      "lastfm": "Skyclad",
+      "genius": "Skyclad",
+      "rateyourmusic": "skyclad",
+      "soundcloud": "https://soundcloud.com/skycladofficial",
+      "napster": "skyclad",
+      "wikidata": "Q1339778",
+      "youtube": "UCoksTWS2bCHvogG_uOF-bdQ"
+    }
+  }
+}

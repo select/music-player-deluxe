@@ -1,7 +1,7 @@
 {
   "youtubeId": "dfkgdAwQE88",
   "title": "「Nightcore」→ GRRRLS (AViVA) - (Lyrics)",
-  "lastFetched": "2025-11-30T19:51:16.610Z",
+  "lastFetched": "2025-12-02T01:35:15.303Z",
   "ai": {
     "title": "GRRRLS",
     "artist": "AViVA"
@@ -25,6 +25,19 @@
   "musicbrainz": {
     "trackMbid": "52bb90d8-63e5-4dec-8eeb-c7dd48dbea14",
     "artistMbid": "6b787065-b524-4d5d-b7e4-4080316e1371",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2017-10-13",
+    "artistCountry": "AU",
+    "externalIdsTrack": {
+      "soundcloud": "https://soundcloud.com/thisisaviva/aviva-grrrls"
+    },
+    "externalIdsArtist": {
+      "discogs": "8251831",
+      "spotify": "50tDsT4wwq8FCMJNkn1D67",
+      "deezer": "297757",
+      "lastfm": "Aviva",
+      "soundcloud": "https://soundcloud.com/thisisaviva",
+      "youtube": "UCQElSu32ovAEvbhyo2o_8aQ"
+    }
   }
 }

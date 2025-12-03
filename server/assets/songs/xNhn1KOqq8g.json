@@ -1,0 +1,70 @@
+{
+  "youtubeId": "xNhn1KOqq8g",
+  "title": "Shot In The Dark",
+  "artist": "AC/DC",
+  "lastFetched": "2025-12-03T11:37:22.041Z",
+  "odesli": {
+    "amazonMusic": "B08KKBD8G6",
+    "amazonStore": "B08KKBD8G6",
+    "audius": "wzqPp",
+    "anghami": "91220271",
+    "boomplay": "46581387",
+    "pandora": "TR:37806119",
+    "soundcloud": "acdcofficial/shot-in-the-dark",
+    "spotify": "0sfdiwck2xr4PteGOdyOfz",
+    "tidal": "161708943",
+    "yandex": "72087199",
+    "youtube": "xNhn1KOqq8g",
+    "youtubeMusic": "xNhn1KOqq8g"
+  },
+  "lastfm": {
+    "summary": "\"Shot in the Dark\" is a single by rock band AC/DC from their seventeenth studio album \"Power Up\". The song was recorded late 2018 to early 2019. It was released on October 7, 2020 in Australia, and is the band's first single released since 2015's \"Rock the Blues Away\" from their album Rock or Bust. The song was used as the official theme for WWE Survivor Series.\n\nThe song was nominated for two Grammys for the 64th Grammy Awards, Best Rock Performance and Best Music Video. <a href=\"http://www.last.fm/music/AC%2FDC/_/Shot+in+the+Dark\">Read more on Last.fm</a>.",
+    "id": "AC%2FDC/_/Shot+in+the+Dark",
+    "listeners": 152855,
+    "playcount": 730047,
+    "title": "Shot in the Dark",
+    "artist": "AC/DC",
+    "mbid": "48f6ff99-05e9-49d3-96c6-73ec2d3d3100",
+    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+    "tags": [
+      "hard rock",
+      "rock n roll",
+      "2020"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b18c03fb-a8c7-4be9-b9f1-cfa6e3ce933a",
+    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+    "releaseCount": 15,
+    "genres": [
+      "blues rock",
+      "hard rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "classic rock",
+      "hard rock",
+      "rock",
+      "rock and roll"
+    ],
+    "releasedAt": "2020-10-07",
+    "artistCountry": "AU",
+    "externalIdsTrack": {
+      "spotify": "6ZtrGCcn38kGImt2GPFbJB",
+      "deezer": "1100296512"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000574772",
+      "discogs": "84752",
+      "spotify": "711MCceyCBcFnzjGY4Q7Un",
+      "deezer": "115",
+      "lastfm": "AC%2FDC",
+      "genius": "Ac-dc",
+      "rateyourmusic": "ac_dc",
+      "soundcloud": "https://soundcloud.com/acdcofficial",
+      "napster": "acdc",
+      "wikidata": "Q27593",
+      "youtube": "UCVm4YdI3hobkwsHTTOMVJKg"
+    }
+  }
+}

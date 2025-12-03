@@ -1,0 +1,65 @@
+{
+  "youtubeId": "IT09DGuXwYQ",
+  "title": "Second",
+  "artist": "Sleaford Mods",
+  "lastFetched": "2025-12-03T11:44:15.949Z",
+  "odesli": {
+    "amazonMusic": "B084ZH3W1C",
+    "amazonStore": "B084ZH3W1C",
+    "audius": "rzjkG",
+    "anghami": "75491997",
+    "boomplay": "52888907",
+    "deezer": "887229682",
+    "appleMusic": "1499863298",
+    "itunes": "1499863298",
+    "napster": "tra.471598080",
+    "pandora": "TR:31229755",
+    "soundcloud": "sleafordmods/sleaford-mods-second",
+    "spotify": "60b1A196tC7X41baxIUyxk",
+    "tidal": "138411284",
+    "yandex": "65581132",
+    "youtube": "IT09DGuXwYQ",
+    "youtubeMusic": "IT09DGuXwYQ"
+  },
+  "lastfm": {
+    "id": "Sleaford+Mods/_/Second",
+    "listeners": 15824,
+    "playcount": 49709,
+    "title": "Second",
+    "artist": "Sleaford Mods",
+    "mbid": "276653c8-9a84-4bf6-a13a-2eb474388a8e",
+    "artistMbid": "09d8290b-6ada-422f-8ce3-19349fb1c15d",
+    "tags": [
+      "post-punk",
+      "crank wave",
+      "spoken word",
+      "rap punk",
+      "indie rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ea6680b0-1cad-4b63-8d1f-9eded0f3c5df",
+    "artistMbid": "09d8290b-6ada-422f-8ce3-19349fb1c15d",
+    "releaseCount": 2,
+    "artistGenres": [
+      "electronic",
+      "hip hop",
+      "post-punk"
+    ],
+    "releasedAt": "2020-05-15",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003160641",
+      "bandcamp": "https://sleafordmods.bandcamp.com/",
+      "discogs": "2994744",
+      "spotify": "0otAqZw8htTsGHfqR491Yh",
+      "deezer": "5326959",
+      "lastfm": "Sleaford+Mods",
+      "genius": "Sleaford-mods",
+      "rateyourmusic": "sleaford_mods",
+      "soundcloud": "https://soundcloud.com/sleafordmods",
+      "napster": "art.129622795",
+      "wikidata": "Q18162306"
+    }
+  }
+}

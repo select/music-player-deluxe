@@ -2,7 +2,7 @@
   "youtubeId": "kRpZJ9EgJho",
   "title": "Simple Kind Of Life",
   "artist": "No Doubt",
-  "lastFetched": "2025-11-30T22:18:54.517Z",
+  "lastFetched": "2025-12-02T01:44:47.922Z",
   "odesli": {
     "amazonMusic": "B00391RCZI",
     "amazonStore": "B00391RCZI",
@@ -53,6 +53,19 @@
       "ska",
       "ska punk",
       "third wave ska"
-    ]
+    ],
+    "releasedAt": "2000-04-05",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000341672",
+      "discogs": "83614",
+      "spotify": "0cQbJU1aAzvbEmTuljWLlF",
+      "deezer": "79",
+      "lastfm": "No+Doubt",
+      "rateyourmusic": "no_doubt",
+      "soundcloud": "https://soundcloud.com/nodoubt",
+      "wikidata": "Q43259",
+      "youtube": "NoDoubtVEVO"
+    }
   }
 }

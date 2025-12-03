@@ -2,7 +2,7 @@
   "youtubeId": "mDFBTdToRmw",
   "title": "Skibidi",
   "artist": "Little Big",
-  "lastFetched": "2025-11-30T19:43:55.835Z",
+  "lastFetched": "2025-12-02T01:47:33.829Z",
   "odesli": {
     "amazonMusic": "B0FX5Z671K",
     "amazonStore": "B0FX5Z671K",
@@ -46,6 +46,20 @@
       "electropop",
       "pop",
       "rave"
-    ]
+    ],
+    "releasedAt": "2018-10-05",
+    "externalIdsArtist": {
+      "allmusic": "mn0003695755",
+      "bandcamp": "https://littlebigband.bandcamp.com/",
+      "discogs": "4563408",
+      "spotify": "0pnd3MP2rxAzljR9AqXUJB",
+      "deezer": "4606326",
+      "lastfm": "Little+Big",
+      "genius": "Little-big",
+      "rateyourmusic": "little_big",
+      "soundcloud": "https://soundcloud.com/littlebigrussia",
+      "wikidata": "Q24261863",
+      "youtube": "UCu7TZ_ATWgjgD9IrNLdnYDA"
+    }
   }
 }

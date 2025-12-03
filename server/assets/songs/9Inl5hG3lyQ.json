@@ -1,0 +1,54 @@
+{
+  "youtubeId": "9Inl5hG3lyQ",
+  "title": "Walk Away",
+  "artist": "Ballyhoo!",
+  "lastFetched": "2025-12-03T11:59:40.484Z",
+  "odesli": {
+    "amazonMusic": "B0D5JRRWXM",
+    "amazonStore": "B0D5JRRWXM",
+    "pandora": "TR:49018851",
+    "soundcloud": "greg-borisov/ballyhoo-walk-away-1",
+    "spotify": "4hdNF3HjLTtaC1DjeFodQA",
+    "tidal": "366261685",
+    "youtube": "9Inl5hG3lyQ",
+    "youtubeMusic": "9Inl5hG3lyQ"
+  },
+  "lastfm": {
+    "id": "Ballyhoo%21/_/Walk+Away",
+    "listeners": 36996,
+    "playcount": 184165,
+    "title": "Walk Away",
+    "artist": "Ballyhoo!",
+    "mbid": "e0f9e452-2f6a-4769-822e-3fc97b51461b",
+    "artistMbid": "148350d7-1b04-4518-b216-4519eb0bcc08",
+    "tags": [
+      "reggae",
+      "rock",
+      "baltimore",
+      "maryland",
+      "reggae rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "38cf78a6-6691-401e-b363-59d37d71866d",
+    "artistMbid": "148350d7-1b04-4518-b216-4519eb0bcc08",
+    "releaseCount": 2,
+    "genres": [
+      "reggae",
+      "rock",
+      "ska",
+      "ska punk"
+    ],
+    "releasedAt": "2011-09-06",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://ballyhoo.bandcamp.com/",
+      "discogs": "1035955",
+      "spotify": "6py4uFIC7T6RdrZnH6hFYJ",
+      "deezer": "399663",
+      "rateyourmusic": "ballyhoo_",
+      "wikipedia": "Ballyhoo!",
+      "youtube": "UCujv8EveH58NxMZxo65fXYQ"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "ojLYdFeiPdA",
   "title": "Moonlit",
   "artist": "Falling Up",
-  "lastFetched": "2025-11-19T09:07:04.005Z",
+  "lastFetched": "2025-12-02T01:51:28.035Z",
   "odesli": {
     "amazonMusic": "B000TDG624",
     "amazonStore": "B000TDG624",
@@ -26,6 +26,14 @@
   },
   "musicbrainz": {
     "trackMbid": "4f93fc24-508a-3660-a5a9-6b62ba1394f4",
-    "artistMbid": "a4d12798-4891-4ced-90ec-a8b8ff7b3b71"
+    "artistMbid": "a4d12798-4891-4ced-90ec-a8b8ff7b3b71",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://fallingup.bandcamp.com/",
+      "discogs": "343550",
+      "spotify": "0qJxsH9kWhslWau4Ork4Zm",
+      "deezer": "7655",
+      "wikidata": "Q666329"
+    }
   }
 }

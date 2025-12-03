@@ -1,7 +1,7 @@
 {
   "youtubeId": "_0BPnJUx_Yw",
   "title": "Anya Marina - Whatever You Like (album version)",
-  "lastFetched": "2025-11-30T20:30:23.191Z",
+  "lastFetched": "2025-12-02T01:28:25.355Z",
   "ai": {
     "title": "Whatever You Like",
     "artist": "Anya Marina"
@@ -27,6 +27,17 @@
     "releaseCount": 2,
     "artistGenres": [
       "indie pop"
-    ]
+    ],
+    "releasedAt": "2009-05-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000725549",
+      "discogs": "658345",
+      "spotify": "6xYBLeSMu1AqPsnUzEvx5n",
+      "deezer": "161431",
+      "lastfm": "Anya%20Marina",
+      "rateyourmusic": "anya_marina",
+      "wikidata": "Q259572"
+    }
   }
 }

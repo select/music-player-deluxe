@@ -1,7 +1,7 @@
 {
   "youtubeId": "eTAmQDQbxP8",
   "title": "TLC No Scrubs - Live Electronic Cover / Remix",
-  "lastFetched": "2025-11-30T19:56:38.098Z",
+  "lastFetched": "2025-12-02T01:36:07.231Z",
   "ai": {
     "title": "No Scrubs",
     "artist": "TLC"
@@ -31,6 +31,20 @@
       "new jack swing",
       "pop",
       "pop rap"
-    ]
+    ],
+    "releasedAt": "2005-01-29",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000007689",
+      "discogs": "77859",
+      "spotify": "0TImkz4nPqjegtVSMZnMRq",
+      "deezer": "183",
+      "lastfm": "TLC",
+      "genius": "Tlc",
+      "rateyourmusic": "tlc",
+      "soundcloud": "https://soundcloud.com/tlcofficial",
+      "wikidata": "Q742804",
+      "youtube": "officialTLC"
+    }
   }
 }

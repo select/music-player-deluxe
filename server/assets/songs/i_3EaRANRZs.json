@@ -1,0 +1,54 @@
+{
+  "youtubeId": "i_3EaRANRZs",
+  "title": "Showreel, Pt. 3",
+  "artist": "Djrum",
+  "lastFetched": "2025-12-03T12:07:12.584Z",
+  "odesli": {
+    "amazonMusic": "B07DTQJZ49",
+    "amazonStore": "B07DTQJZ49",
+    "soundcloud": "r-srecords/djrum-showreel-pt3",
+    "spotify": "7KQTzqmRk04lNX2Nere77K",
+    "youtube": "i_3EaRANRZs",
+    "youtubeMusic": "i_3EaRANRZs"
+  },
+  "lastfm": {
+    "id": "Djrum/_/Showreel,+Pt.+3",
+    "listeners": 11691,
+    "playcount": 46775,
+    "title": "Showreel, Pt. 3",
+    "artist": "Djrum",
+    "mbid": "acb87f33-bb8f-4265-a71f-bed5181ef35b",
+    "artistMbid": "ed19b934-f1a8-4b04-aa74-6f9033caed26",
+    "tags": [
+      "electronic",
+      "ambient",
+      "techno",
+      "breakcore",
+      "jungle"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e4e49b56-21ae-4116-b508-0f589a161894",
+    "artistMbid": "ed19b934-f1a8-4b04-aa74-6f9033caed26",
+    "releaseCount": 3,
+    "artistGenres": [
+      "ambient",
+      "dubstep",
+      "electronic",
+      "idm",
+      "techno"
+    ],
+    "releasedAt": "2018-08-17",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002995186",
+      "bandcamp": "https://djrum.bandcamp.com/",
+      "discogs": "1762528",
+      "spotify": "4HwlolvniI44ETSg5tajeZ",
+      "deezer": "3978191",
+      "lastfm": "Djrum",
+      "rateyourmusic": "djrum",
+      "soundcloud": "https://soundcloud.com/djrum"
+    }
+  }
+}

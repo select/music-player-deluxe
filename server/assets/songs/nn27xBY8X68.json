@@ -3,7 +3,7 @@
   "artist": "Del Shannon",
   "duration": 121,
   "youtubeId": "nn27xBY8X68",
-  "lastFetched": "2025-11-19T04:26:32.627Z",
+  "lastFetched": "2025-12-02T01:49:50.638Z",
   "odesli": {
     "pandora": "TR:24434159",
     "soundcloud": "1389281575",
@@ -24,7 +24,18 @@
     ],
     "trackMbid": "5a5f546b-c283-4160-afc1-040cd8c03a58",
     "artistMbid": "2e885bfb-1f59-49cf-8d51-e743445e1b48",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "1992",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000194018",
+      "discogs": "229195",
+      "spotify": "3c8WoNjBfyLJhFObE6RHgs",
+      "deezer": "1882",
+      "genius": "Del-shannon",
+      "rateyourmusic": "del_shannon",
+      "wikidata": "Q323456"
+    }
   },
   "lastfm": {
     "id": "Del+Shannon/_/The+Swiss+Maid",

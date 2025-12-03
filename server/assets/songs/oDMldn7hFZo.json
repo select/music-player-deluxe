@@ -2,7 +2,7 @@
   "youtubeId": "oDMldn7hFZo",
   "title": "The Dripping Tap",
   "artist": "King Gizzard & The Lizard Wizard",
-  "lastFetched": "2025-11-23T16:49:42.926Z",
+  "lastFetched": "2025-12-02T01:50:39.388Z",
   "odesli": {
     "amazonMusic": "B09V3GRH72",
     "amazonStore": "B09V3GRH72",
@@ -39,7 +39,22 @@
       "heavy psych"
     ],
     "trackMbid": "015706ec-b04b-4d43-aab6-4d6949e3b4c6",
-    "artistMbid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7"
+    "artistMbid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7",
+    "releasedAt": "2024-09-04",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0003085959",
+      "bandcamp": "https://kinggizzard.bandcamp.com/",
+      "discogs": "2532180",
+      "spotify": "6XYvaoDGE0VmRt83Jss9Sn",
+      "deezer": "3973121",
+      "lastfm": "King+Gizzard+&+The+Lizard+Wizard",
+      "genius": "King-gizzard-and-the-lizard-wizard",
+      "rateyourmusic": "king-gizzard-and-the-lizard-wizard",
+      "soundcloud": "https://soundcloud.com/king-gizzard-the-lizard-wizard",
+      "wikidata": "Q19366461",
+      "youtube": "UC-3mACkWPK3QluQYi5dHQCA"
+    }
   },
   "lastfm": {
     "id": "King+Gizzard+&+The+Lizard+Wizard/_/The+Dripping+Tap",

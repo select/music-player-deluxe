@@ -1,7 +1,7 @@
 {
   "youtubeId": "e33b5rW8zS0",
   "title": "Boy Harsher - Careful (2019) Full Album",
-  "lastFetched": "2025-12-01T11:48:40.897Z",
+  "lastFetched": "2025-12-02T01:35:40.383Z",
   "ai": {
     "title": "Careful",
     "artist": "Boy Harsher"
@@ -41,6 +41,19 @@
       "noise",
       "spoken word",
       "techno"
-    ]
+    ],
+    "releasedAt": "2019-02-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003687587",
+      "bandcamp": "https://boyharsher.bandcamp.com/",
+      "discogs": "4322281",
+      "spotify": "4iom7VVRU6AHRIu1JUXpLG",
+      "deezer": "8512914",
+      "lastfm": "Boy+Harsher",
+      "soundcloud": "https://soundcloud.com/boy-harsher",
+      "wikidata": "Q60834610",
+      "youtube": "UCcwLVJ0hC4YnSfMRlolkVDw"
+    }
   }
 }

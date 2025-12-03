@@ -3,7 +3,7 @@
   "artist": "The In Crowd",
   "duration": 269,
   "youtubeId": "pTscTtB0rCA",
-  "lastFetched": "2025-11-19T04:09:15.343Z",
+  "lastFetched": "2025-12-02T01:52:41.341Z",
   "odesli": {
     "amazonMusic": "B0F16GGX2M",
     "amazonStore": "B0F16GGX2M",
@@ -18,7 +18,17 @@
     ],
     "trackMbid": "2cdf7fd4-5317-40ec-9aa2-265de0f06e5f",
     "artistMbid": "e1461504-72d8-4051-953c-ed4cb144c9e1",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2006-11-20",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000767449",
+      "discogs": "491495",
+      "spotify": "2dIv8v3YCvYQ7IkkGaXOVk",
+      "deezer": "186486",
+      "rateyourmusic": "the_in_crowd",
+      "wikidata": "Q7741664"
+    }
   },
   "lastfm": {
     "id": "The+In+Crowd/_/Back+a+Yard+(Edit)",

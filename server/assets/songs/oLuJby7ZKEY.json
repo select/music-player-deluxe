@@ -2,7 +2,7 @@
   "youtubeId": "oLuJby7ZKEY",
   "title": "We'll Meet Again",
   "artist": "The Ink Spots",
-  "lastFetched": "2025-11-30T22:29:50.322Z",
+  "lastFetched": "2025-12-02T01:50:53.724Z",
   "odesli": {
     "amazonMusic": "B0DZXS53DK",
     "amazonStore": "B0DZXS53DK",
@@ -39,6 +39,17 @@
       "doo-wop",
       "jazz",
       "vocal jazz"
-    ]
+    ],
+    "releasedAt": "2010-10-25",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000082831",
+      "discogs": "322272",
+      "spotify": "5bOsFzuJ6QZMr86ezC4oXY",
+      "deezer": "92588",
+      "lastfm": "The+Ink+Spots",
+      "rateyourmusic": "the_ink_spots",
+      "wikidata": "Q127140"
+    }
   }
 }

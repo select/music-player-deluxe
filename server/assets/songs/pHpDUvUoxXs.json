@@ -2,7 +2,7 @@
   "youtubeId": "pHpDUvUoxXs",
   "title": "One Of These Days",
   "artist": "Camper Van Beethoven",
-  "lastFetched": "2025-11-23T16:50:11.748Z",
+  "lastFetched": "2025-12-02T01:52:19.555Z",
   "odesli": {
     "amazonMusic": "B001UHCW4Y",
     "amazonStore": "B001UHCW4Y",
@@ -24,7 +24,18 @@
       "geek rock"
     ],
     "trackMbid": "174fd24f-7e87-3216-8434-0a8d9b5598f3",
-    "artistMbid": "0ee7e64d-90ca-406b-b59a-3e551c556dbe"
+    "artistMbid": "0ee7e64d-90ca-406b-b59a-3e551c556dbe",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000647796",
+      "discogs": "268200",
+      "spotify": "1JXB7XQ9hjLB5pnr1eowKR",
+      "deezer": "242846",
+      "lastfm": "Camper+Van+Beethoven",
+      "rateyourmusic": "camper_van_beethoven",
+      "wikidata": "Q1030927",
+      "youtube": "UCW-TnThVhZPFU5jcRBUJxZg"
+    }
   },
   "lastfm": {
     "id": "Camper+Van+Beethoven/_/One+Of+These+Days",

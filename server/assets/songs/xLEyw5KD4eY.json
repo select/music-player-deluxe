@@ -1,7 +1,7 @@
 {
   "youtubeId": "xLEyw5KD4eY",
   "title": "Nalyssa Green - Κοκτέιλ",
-  "lastFetched": "2025-11-30T21:05:31.554Z",
+  "lastFetched": "2025-12-02T02:04:20.520Z",
   "ai": {
     "title": "Κοκτέιλ",
     "artist": "Nalyssa Green"
@@ -27,6 +27,12 @@
     "artistGenres": [
       "indie folk",
       "indie pop"
-    ]
+    ],
+    "releasedAt": "2016-05-31",
+    "artistCountry": "GR",
+    "externalIdsArtist": {
+      "bandcamp": "https://nalyssagreen-innerear.bandcamp.com/",
+      "discogs": "2250480"
+    }
   }
 }

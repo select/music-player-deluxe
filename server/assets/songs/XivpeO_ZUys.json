@@ -2,7 +2,7 @@
   "youtubeId": "XivpeO_ZUys",
   "title": "Video Disco",
   "artist": "Alpharisc",
-  "lastFetched": "2025-11-30T21:06:55.184Z",
+  "lastFetched": "2025-12-02T01:24:51.084Z",
   "odesli": {
     "amazonMusic": "B09MNRLKWB",
     "amazonStore": "B09MNRLKWB",
@@ -35,6 +35,12 @@
     "artistGenres": [
       "chillsynth",
       "synthwave"
-    ]
+    ],
+    "releasedAt": "2021-11-25",
+    "externalIdsArtist": {
+      "discogs": "6844",
+      "spotify": "2p6XgR7UTLgiNljGJy21Fo",
+      "soundcloud": "https://soundcloud.com/Alpharisc"
+    }
   }
 }

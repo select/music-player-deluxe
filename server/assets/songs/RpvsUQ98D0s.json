@@ -1,0 +1,64 @@
+{
+  "youtubeId": "RpvsUQ98D0s",
+  "title": "Hypnose",
+  "artist": "Metronomy",
+  "lastFetched": "2025-12-03T12:07:21.654Z",
+  "odesli": {
+    "amazonMusic": "B0B7CCVHHQ",
+    "amazonStore": "B0B7CCVHHQ",
+    "appleMusic": "1101214135",
+    "itunes": "1101214135",
+    "pandora": "TR:74495289",
+    "soundcloud": "latenighttales/late-night-tales-metronomy",
+    "spotify": "3ViDStxK3LplSImcvIdSLi",
+    "yandex": "4491604",
+    "youtube": "RpvsUQ98D0s",
+    "youtubeMusic": "RpvsUQ98D0s"
+  },
+  "lastfm": {
+    "id": "Metronomy/_/Hypnose",
+    "listeners": 31523,
+    "playcount": 80929,
+    "title": "Hypnose",
+    "artist": "Metronomy",
+    "mbid": "0ff815b1-fe06-47ce-bd07-5b66b78e9e4a",
+    "artistMbid": "93eb7110-0bc9-4d3f-816b-4b52ef982ec8",
+    "tags": [
+      "ambient",
+      "instrumental",
+      "electronic",
+      "synthpop",
+      "electronica"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7366b602-7b3e-4bc1-a2b2-30a4d2c3a7ba",
+    "artistMbid": "93eb7110-0bc9-4d3f-816b-4b52ef982ec8",
+    "releaseCount": 3,
+    "artistGenres": [
+      "art pop",
+      "electronic",
+      "electropop",
+      "indie pop",
+      "indie rock",
+      "indietronica",
+      "new rave",
+      "synth-pop"
+    ],
+    "releasedAt": "2012-08-31",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000845771",
+      "bandcamp": "https://metronomy.bandcamp.com/",
+      "discogs": "114350",
+      "spotify": "54QMjE4toDfiCryzYWCpXX",
+      "deezer": "13570",
+      "lastfm": "Metronomy",
+      "genius": "Metronomy",
+      "rateyourmusic": "metronomy",
+      "soundcloud": "https://soundcloud.com/metronomy",
+      "wikidata": "Q151783",
+      "youtube": "UCtpiIBHg_cbAIm9N-7SabOw"
+    }
+  }
+}

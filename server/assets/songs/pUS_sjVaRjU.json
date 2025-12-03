@@ -2,7 +2,7 @@
   "youtubeId": "pUS_sjVaRjU",
   "title": "ZTO",
   "artist": "Devin Townsend",
-  "lastFetched": "2025-11-30T20:18:41.127Z",
+  "lastFetched": "2025-12-02T01:52:43.899Z",
   "odesli": {
     "amazonMusic": "B0163I3DTW",
     "amazonStore": "B0163I3DTW",
@@ -40,6 +40,26 @@
       "progressive",
       "progressive metal",
       "progressive rock"
-    ]
+    ],
+    "releasedAt": "2007-05-18",
+    "artistCountry": "CA",
+    "externalIdsTrack": {
+      "bandcamp": "https://devintownsend.bandcamp.com/track/zto",
+      "spotify": "05UC7sqw0sqsCW7dFExtsj",
+      "deezer": "108565610"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000818627",
+      "bandcamp": "https://devintownsendofficial.bandcamp.com/",
+      "discogs": "251249",
+      "spotify": "6uejjWIOshliv2Ho0OJAQN",
+      "deezer": "5582",
+      "lastfm": "Devin+Townsend",
+      "genius": "Devin-townsend",
+      "rateyourmusic": "devin-townsend",
+      "soundcloud": "https://soundcloud.com/devin-townsend-official",
+      "wikidata": "Q335629",
+      "youtube": "UCylstOR8n268-jdMGwMfazw"
+    }
   }
 }

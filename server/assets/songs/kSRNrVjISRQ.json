@@ -1,0 +1,63 @@
+{
+  "youtubeId": "kSRNrVjISRQ",
+  "title": "Straight to Hell",
+  "artist": "Ozzy Osbourne",
+  "lastFetched": "2025-12-03T11:52:08.320Z",
+  "odesli": {
+    "amazonMusic": "B081PHMKGG",
+    "amazonStore": "B081PHMKGG",
+    "anghami": "69178780",
+    "boomplay": "10414913",
+    "pandora": "TR:29125319",
+    "soundcloud": "ozzy-osbourne-official/straight-to-hell",
+    "spotify": "1mbPPfppc4tbxyvSRpgPrY",
+    "tidal": "122889326",
+    "yandex": "60066972",
+    "youtube": "kSRNrVjISRQ",
+    "youtubeMusic": "kSRNrVjISRQ"
+  },
+  "lastfm": {
+    "id": "Ozzy+Osbourne/_/Straight+to+Hell",
+    "listeners": 82066,
+    "playcount": 382198,
+    "title": "Straight to Hell",
+    "artist": "Ozzy Osbourne",
+    "mbid": "0113bb05-80a2-47d1-acfe-fac2de15d4b0",
+    "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+    "tags": [
+      "heavy metal",
+      "hard rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "362288e6-93fb-4d30-8b11-aac148a82fae",
+    "artistMbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+    "releaseCount": 11,
+    "genres": [
+      "heavy metal"
+    ],
+    "artistGenres": [
+      "glam metal",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "pop rock",
+      "symphonic rock"
+    ],
+    "releasedAt": "2019-11-22",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000424244",
+      "discogs": "59770",
+      "spotify": "6ZLTlhejhndI4Rh53vYhrY",
+      "deezer": "823",
+      "lastfm": "Ozzy+Osbourne",
+      "genius": "Ozzy-osbourne",
+      "rateyourmusic": "ozzy-osbourne",
+      "soundcloud": "https://soundcloud.com/ozzy-osbourne-official",
+      "napster": "ozzy-osbourne",
+      "wikidata": "Q133151",
+      "youtube": "UC3oY0sESMqxZaAy8nRcVxQQ"
+    }
+  }
+}

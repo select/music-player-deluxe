@@ -1,0 +1,40 @@
+{
+  "youtubeId": "2sOxY0VSbmk",
+  "title": "Smuglianka",
+  "artist": "The Red Army Choir",
+  "lastFetched": "2025-12-03T11:38:20.307Z",
+  "odesli": {
+    "amazonMusic": "B0892H2PZR",
+    "amazonStore": "B0892H2PZR",
+    "spotify": "50zOZDf9wXpWrJHarjgHaG",
+    "youtube": "2sOxY0VSbmk",
+    "youtubeMusic": "2sOxY0VSbmk"
+  },
+  "lastfm": {
+    "id": "The+Red+Army+Choir/_/Smuglianka",
+    "listeners": 18176,
+    "playcount": 93399,
+    "title": "Smuglianka",
+    "artist": "The Red Army Choir",
+    "mbid": "3672f3dc-3698-4bf0-ae18-d0bdd65c754f",
+    "tags": [
+      "russian",
+      "choral",
+      "classical",
+      "soviet"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ea906174-3e15-4549-b85e-6b99b45c3a47",
+    "artistMbid": "4f6654b3-0ae3-44bc-9bed-e9477446beab",
+    "releaseCount": 1,
+    "releasedAt": "2008-12",
+    "artistCountry": "RU",
+    "externalIdsArtist": {
+      "discogs": "415470",
+      "spotify": "4yNluGAiPbYXLwlA9KspbG",
+      "deezer": "8354978",
+      "wikidata": "Q620990"
+    }
+  }
+}

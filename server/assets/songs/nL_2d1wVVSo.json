@@ -2,7 +2,7 @@
   "youtubeId": "nL_2d1wVVSo",
   "title": "Jobseeker",
   "artist": "Sleaford Mods",
-  "lastFetched": "2025-11-30T23:02:49.410Z",
+  "lastFetched": "2025-12-02T01:49:13.671Z",
   "odesli": {
     "amazonMusic": "B084ZHGQB1",
     "amazonStore": "B084ZHGQB1",
@@ -38,6 +38,21 @@
       "electronic",
       "hip hop",
       "post-punk"
-    ]
+    ],
+    "releasedAt": "2013-11-02",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003160641",
+      "bandcamp": "https://sleafordmods.bandcamp.com/",
+      "discogs": "2994744",
+      "spotify": "0otAqZw8htTsGHfqR491Yh",
+      "deezer": "5326959",
+      "lastfm": "Sleaford+Mods",
+      "genius": "Sleaford-mods",
+      "rateyourmusic": "sleaford_mods",
+      "soundcloud": "https://soundcloud.com/sleafordmods",
+      "napster": "art.129622795",
+      "wikidata": "Q18162306"
+    }
   }
 }

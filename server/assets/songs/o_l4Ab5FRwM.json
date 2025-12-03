@@ -1,7 +1,7 @@
 {
   "youtubeId": "o_l4Ab5FRwM",
   "title": "Wrong Side of Heaven",
-  "lastFetched": "2025-11-30T21:10:35.413Z",
+  "lastFetched": "2025-12-02T01:51:18.329Z",
   "ai": {
     "title": "Wrong Side Of Heaven",
     "artist": "Five Finger Death Punch"
@@ -54,6 +54,21 @@
       "groove metal",
       "hard rock",
       "heavy metal"
-    ]
+    ],
+    "releasedAt": "2013-07-30",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000640208",
+      "bandcamp": "https://fivefingerdeathpunch.bandcamp.com/",
+      "discogs": "1502727",
+      "spotify": "5t28BP42x2axFnqOOMg3CM",
+      "deezer": "158710",
+      "lastfm": "Five+Finger+Death+Punch",
+      "genius": "Five-finger-death-punch",
+      "rateyourmusic": "five_finger_death_punch",
+      "soundcloud": "https://soundcloud.com/five-finger-death-punch-official",
+      "napster": "five-finger-death-punch",
+      "wikidata": "Q749502"
+    }
   }
 }

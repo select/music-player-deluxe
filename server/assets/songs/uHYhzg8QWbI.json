@@ -2,7 +2,7 @@
   "youtubeId": "uHYhzg8QWbI",
   "title": "Delicate Cycle",
   "artist": "The Uncluded",
-  "lastFetched": "2025-11-30T19:31:56.344Z",
+  "lastFetched": "2025-12-02T02:00:19.893Z",
   "odesli": {
     "amazonMusic": "B089NQ3639",
     "amazonStore": "B089NQ3639",
@@ -38,6 +38,17 @@
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2013-03-26",
+    "externalIdsArtist": {
+      "allmusic": "mn0002910444",
+      "bandcamp": "https://uncluded.bandcamp.com/",
+      "discogs": "2719519",
+      "spotify": "3TgZxvzeWjtAPq2rf9cx1u",
+      "lastfm": "The+Uncluded",
+      "genius": "The-uncluded",
+      "rateyourmusic": "the-uncluded",
+      "wikidata": "Q16886257"
+    }
   }
 }

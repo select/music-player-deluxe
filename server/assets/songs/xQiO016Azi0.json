@@ -1,0 +1,45 @@
+{
+  "youtubeId": "xQiO016Azi0",
+  "title": "Sun My Sweet Sun",
+  "artist": "Red Axes",
+  "lastFetched": "2025-12-03T11:49:29.049Z",
+  "odesli": {
+    "amazonMusic": "B0B354YSB4",
+    "amazonStore": "B0B354YSB4",
+    "pandora": "TR:11017734",
+    "soundcloud": "permvac/red-axes-sun-my-sweet-sun",
+    "tidal": "199528322",
+    "youtube": "xQiO016Azi0",
+    "youtubeMusic": "xQiO016Azi0"
+  },
+  "lastfm": {
+    "id": "Red+Axes/_/Sun+My+Sweet+Sun",
+    "listeners": 8406,
+    "playcount": 25003,
+    "title": "Sun My Sweet Sun",
+    "artist": "Red Axes",
+    "tags": [
+      "electronic superhighway",
+      "sun and moon and stars and outer space"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f014a196-fa99-4abf-acae-da4f0aa579ab",
+    "artistMbid": "a9734106-210d-4c29-b2cb-aed0cb049733",
+    "releaseCount": 2,
+    "artistGenres": [
+      "electronic"
+    ],
+    "releasedAt": "2017-04-28",
+    "artistCountry": "IL",
+    "externalIdsArtist": {
+      "bandcamp": "https://red-axes.bandcamp.com/",
+      "discogs": "2537824",
+      "spotify": "5Owm9QgL9BSCRQKTX6T08G",
+      "deezer": "1312223",
+      "soundcloud": "https://soundcloud.com/redaxes",
+      "wikidata": "Q48774860",
+      "youtube": "UCtHlsHR47lUXvBEpTmAEjUw"
+    }
+  }
+}

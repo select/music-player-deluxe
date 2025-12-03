@@ -2,7 +2,7 @@
   "youtubeId": "uJz20oiwSXI",
   "title": "Starship Bahia",
   "artist": "Adrian Sherwood",
-  "lastFetched": "2025-11-23T16:52:28.312Z",
+  "lastFetched": "2025-12-02T02:00:22.551Z",
   "odesli": {
     "amazonMusic": "B008SDJ2K0",
     "amazonStore": "B008SDJ2K0",
@@ -26,7 +26,19 @@
       "trip hop"
     ],
     "trackMbid": "c19a8940-3ee7-42c4-a7cd-25a1c3fac1ae",
-    "artistMbid": "cbfcdb48-c199-45af-80da-100d4e53253e"
+    "artistMbid": "cbfcdb48-c199-45af-80da-100d4e53253e",
+    "releasedAt": "2024-11-07",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000594648",
+      "bandcamp": "https://adriansherwood.bandcamp.com/",
+      "discogs": "677003",
+      "spotify": "4vZIz0gG5DD3Qj9MB6kclW",
+      "lastfm": "Adrian+Sherwood",
+      "rateyourmusic": "adrian_sherwood",
+      "soundcloud": "https://soundcloud.com/adriansherwood",
+      "wikidata": "Q374206"
+    }
   },
   "lastfm": {
     "id": "Adrian+Sherwood/_/Starship+Bahia",

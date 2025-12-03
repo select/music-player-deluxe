@@ -1,7 +1,7 @@
 {
   "youtubeId": "vgmXiTG21yM",
   "title": "Paul McCartney & Wings - Letting Go",
-  "lastFetched": "2025-11-30T20:32:13.270Z",
+  "lastFetched": "2025-12-02T02:01:57.593Z",
   "ai": {
     "title": "Letting Go",
     "artist": "Paul McCartney & Wings"
@@ -35,6 +35,17 @@
       "rock and roll",
       "singer-songwriter",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "2025-11-07",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000956707",
+      "discogs": "941710",
+      "spotify": "3sFhA6G1N0gG1pszb6kk1m",
+      "deezer": "2709",
+      "lastfm": "Wings",
+      "rateyourmusic": "wings",
+      "wikidata": "Q622988"
+    }
   }
 }

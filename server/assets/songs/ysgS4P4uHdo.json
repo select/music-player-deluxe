@@ -2,7 +2,7 @@
   "youtubeId": "ysgS4P4uHdo",
   "title": "Feierabend",
   "artist": "Grossstadtgeflüster",
-  "lastFetched": "2025-11-19T07:09:25.098Z",
+  "lastFetched": "2025-12-02T02:07:08.241Z",
   "odesli": {
     "amazonMusic": "B0F18FP5NZ",
     "amazonStore": "B0F18FP5NZ",
@@ -28,6 +28,15 @@
   },
   "musicbrainz": {
     "trackMbid": "5e95ed4e-a4a0-499d-96a5-6815b53819ba",
-    "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f"
+    "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f",
+    "externalIdsArtist": {
+      "discogs": "749951",
+      "spotify": "03SZv6slUnLnHI3IfwG0gl",
+      "deezer": "80890",
+      "lastfm": "Grossstadtgefl%C3%BCster",
+      "soundcloud": "https://soundcloud.com/grossstadtgefluester",
+      "wikidata": "Q541543",
+      "youtube": "UCSNJbR3O1Xb0juzA52HuDsw"
+    }
   }
 }

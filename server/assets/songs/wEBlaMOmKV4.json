@@ -2,7 +2,7 @@
   "youtubeId": "wEBlaMOmKV4",
   "title": "A Change Is Gonna Come",
   "artist": "Sam Cooke",
-  "lastFetched": "2025-11-19T14:50:04.472Z",
+  "lastFetched": "2025-12-02T02:02:54.006Z",
   "odesli": {
     "amazonMusic": "B00SVFDEOU",
     "amazonStore": "B00SVFDEOU",
@@ -28,7 +28,17 @@
       "rhythm and blues"
     ],
     "trackMbid": "fd26b1e6-f43d-4bf6-bf52-3962adf5cee2",
-    "artistMbid": "6c8fd0be-d961-454c-aee0-4366a6dbc993"
+    "artistMbid": "6c8fd0be-d961-454c-aee0-4366a6dbc993",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000238115",
+      "discogs": "295202",
+      "spotify": "6hnWRPzGGKiapVX1UCdEAC",
+      "deezer": "900",
+      "lastfm": "Sam+Cooke",
+      "rateyourmusic": "sam_cooke",
+      "wikidata": "Q295919"
+    }
   },
   "lastfm": {
     "id": "Sam+Cooke/_/A+Change+Is+Gonna+Come",

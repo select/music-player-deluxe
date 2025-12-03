@@ -1,7 +1,7 @@
 {
   "youtubeId": "pY7zqDemqZo",
   "title": "Turbowolf - Rabbits Foot",
-  "lastFetched": "2025-11-30T20:33:24.636Z",
+  "lastFetched": "2025-12-02T01:52:50.434Z",
   "ai": {
     "title": "Rabbits Foot",
     "artist": "Turbowolf"
@@ -29,6 +29,13 @@
     "artistGenres": [
       "alternative metal",
       "hard rock"
-    ]
+    ],
+    "releasedAt": "2015-04-06",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "1255554",
+      "deezer": "270047",
+      "wikidata": "Q7854764"
+    }
   }
 }

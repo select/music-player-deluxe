@@ -1,7 +1,7 @@
 {
   "youtubeId": "yQOBUrRaPU0",
   "title": "Name",
-  "lastFetched": "2025-11-30T21:20:57.752Z",
+  "lastFetched": "2025-12-02T02:06:05.020Z",
   "ai": {
     "title": "Name",
     "artist": "Goo Goo Dolls"
@@ -40,6 +40,20 @@
       "power pop",
       "punk rock",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "1996",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000949630",
+      "discogs": "252661",
+      "spotify": "2sil8z5kiy4r76CRTXxBCA",
+      "deezer": "65791",
+      "lastfm": "Goo+Goo+Dolls",
+      "genius": "Goo-goo-dolls",
+      "rateyourmusic": "goo-goo-dolls",
+      "soundcloud": "https://soundcloud.com/thegoogoodolls",
+      "wikidata": "Q730046",
+      "youtube": "UCjOkbXu7vYeeQrA7R3-OfXQ"
+    }
   }
 }

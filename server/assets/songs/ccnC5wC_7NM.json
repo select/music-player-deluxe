@@ -2,7 +2,7 @@
   "youtubeId": "ccnC5wC_7NM",
   "title": "Wenn Träume sterben",
   "artist": "Puhdys",
-  "lastFetched": "2025-11-30T23:19:56.323Z",
+  "lastFetched": "2025-12-02T01:33:48.125Z",
   "odesli": {
     "amazonMusic": "B08813S46D",
     "amazonStore": "B08813S46D",
@@ -40,6 +40,18 @@
     "artistGenres": [
       "neue deutsche welle",
       "rock"
-    ]
+    ],
+    "releasedAt": "1977",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000720718",
+      "discogs": "150374",
+      "spotify": "2oIff3MArfKonx1PCiXj8O",
+      "deezer": "70049",
+      "genius": "Puhdys",
+      "rateyourmusic": "puhdys",
+      "youtube": "UCEsIP_F9a_wdhapBjECcERA",
+      "wikidata": "Q657976"
+    }
   }
 }

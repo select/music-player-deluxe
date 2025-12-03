@@ -2,7 +2,7 @@
   "youtubeId": "ykEjUWrVxTQ",
   "title": "Die Wüste lebt (Alarmsignal...)",
   "artist": "Peter Schilling",
-  "lastFetched": "2025-11-30T22:40:19.327Z",
+  "lastFetched": "2025-12-02T02:06:42.359Z",
   "lastfm": {
     "title": "Die Wüste lebt (Alarmsignal...)",
     "artist": "Peter Schilling",
@@ -29,6 +29,18 @@
       "new wave",
       "pop",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2013-10-18",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000270497",
+      "discogs": "108338",
+      "spotify": "7ip3CWlgPZbQHvgJpmcGSS",
+      "deezer": "2488",
+      "genius": "Peter-schilling",
+      "rateyourmusic": "peter_schilling",
+      "wikidata": "Q62951",
+      "youtube": "UCWpOK2TZSXkX1zfSp_zYgGw"
+    }
   }
 }

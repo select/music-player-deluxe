@@ -2,7 +2,7 @@
   "youtubeId": "ZFLExwIQKto",
   "title": "Oi To The World",
   "artist": "No Doubt",
-  "lastFetched": "2025-11-30T21:59:40.353Z",
+  "lastFetched": "2025-12-02T01:27:21.807Z",
   "odesli": {
     "amazonMusic": "B01N0XW72R",
     "amazonStore": "B01N0XW72R",
@@ -43,6 +43,19 @@
       "ska",
       "ska punk",
       "third wave ska"
-    ]
+    ],
+    "releasedAt": "1997-10-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000341672",
+      "discogs": "83614",
+      "spotify": "0cQbJU1aAzvbEmTuljWLlF",
+      "deezer": "79",
+      "lastfm": "No+Doubt",
+      "rateyourmusic": "no_doubt",
+      "soundcloud": "https://soundcloud.com/nodoubt",
+      "wikidata": "Q43259",
+      "youtube": "NoDoubtVEVO"
+    }
   }
 }

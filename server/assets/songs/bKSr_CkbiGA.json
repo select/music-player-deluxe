@@ -1,7 +1,7 @@
 {
   "youtubeId": "bKSr_CkbiGA",
   "title": "Erdmöbel - In den Schuhen von Audrey Hepburn",
-  "lastFetched": "2025-11-30T20:59:21.413Z",
+  "lastFetched": "2025-12-02T01:31:44.811Z",
   "ai": {
     "title": "In den Schuhen von Audrey Hepburn",
     "artist": "Erdmöbel"
@@ -25,6 +25,13 @@
   "musicbrainz": {
     "trackMbid": "7fb83758-17a9-4902-b30f-431f22f3b27b",
     "artistMbid": "003b2747-b74a-46c1-a51e-aeaffe88256c",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2003-03-24",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "123784",
+      "deezer": "274945",
+      "wikidata": "Q1349374"
+    }
   }
 }

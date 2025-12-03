@@ -2,7 +2,7 @@
   "youtubeId": "vAGtkWGpD_Y",
   "title": "Through Glass",
   "artist": "Stone Sour",
-  "lastFetched": "2025-11-19T10:04:46.356Z",
+  "lastFetched": "2025-12-02T02:01:09.353Z",
   "odesli": {
     "amazonMusic": "B0011ZUM38",
     "amazonStore": "B0011ZUM38",
@@ -22,7 +22,21 @@
       "metal"
     ],
     "trackMbid": "0c30dc5d-cb3e-37bd-820d-982f45ad68ae",
-    "artistMbid": "4ca783b7-5bf7-4348-b494-46680660050f"
+    "artistMbid": "4ca783b7-5bf7-4348-b494-46680660050f",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000626939",
+      "discogs": "256140",
+      "spotify": "49qiE8dj4JuNdpYGRPdKbF",
+      "deezer": "3701",
+      "lastfm": "Stone+Sour",
+      "genius": "Stone-sour",
+      "rateyourmusic": "stone-sour",
+      "soundcloud": "https://soundcloud.com/stone-sour",
+      "napster": "stone-sour",
+      "wikidata": "Q725469",
+      "youtube": "UC4Hkv4VoHUOfZy8n3dzARsw"
+    }
   },
   "lastfm": {
     "id": "Stone+Sour/_/Through+Glass",

@@ -2,7 +2,7 @@
   "youtubeId": "WGkZM6wjIwk",
   "title": "Enter the Jungle",
   "artist": "Ezra Collective",
-  "lastFetched": "2025-11-23T16:41:04.448Z",
+  "lastFetched": "2025-12-02T01:22:17.539Z",
   "musicbrainz": {
     "artistTags": [
       "afrobeat",
@@ -23,7 +23,18 @@
       "jazz"
     ],
     "trackMbid": "a6e1224b-87c9-4bc8-a5eb-85dfb2adccdf",
-    "artistMbid": "d51acca9-a88b-4f5c-a2fe-f069de70ca1d"
+    "artistMbid": "d51acca9-a88b-4f5c-a2fe-f069de70ca1d",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003709023",
+      "bandcamp": "https://ezracollective.bandcamp.com/",
+      "discogs": "5431491",
+      "spotify": "5BRAUN0yN8557PLRZIr02W",
+      "deezer": "13882529",
+      "rateyourmusic": "ezra-collective",
+      "soundcloud": "https://soundcloud.com/ezracollective",
+      "wikidata": "Q78045434"
+    }
   },
   "lastfm": {
     "id": "Ezra+Collective/_/Enter+the+Jungle",

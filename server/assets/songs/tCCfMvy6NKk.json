@@ -1,7 +1,7 @@
 {
   "youtubeId": "tCCfMvy6NKk",
   "title": "Ed Cox - Arabian Raves",
-  "lastFetched": "2025-11-30T19:20:45.064Z",
+  "lastFetched": "2025-12-02T01:58:37.719Z",
   "ai": {
     "title": "Arabian Raves",
     "artist": "Ed Cox"
@@ -27,6 +27,14 @@
     "releaseCount": 1,
     "genres": [
       "country"
-    ]
+    ],
+    "releasedAt": "2005",
+    "externalIdsArtist": {
+      "bandcamp": "https://edcox1.bandcamp.com/",
+      "discogs": "423630",
+      "spotify": "5sJBSH1OkwBwvWTVsLuyqn",
+      "deezer": "483742",
+      "soundcloud": "https://soundcloud.com/ed-cox-life4land"
+    }
   }
 }

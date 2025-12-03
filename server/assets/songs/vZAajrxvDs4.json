@@ -2,7 +2,7 @@
   "youtubeId": "vZAajrxvDs4",
   "title": "Only Love Can Break Your Heart",
   "artist": "Saint Etienne",
-  "lastFetched": "2025-11-30T20:58:37.601Z",
+  "lastFetched": "2025-12-02T02:01:44.271Z",
   "odesli": {
     "amazonMusic": "B072PT2R56",
     "amazonStore": "B072PT2R56",
@@ -61,6 +61,17 @@
       "indietronica",
       "rock",
       "techno"
-    ]
+    ],
+    "releasedAt": "1990-05",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000831215",
+      "discogs": "2807",
+      "spotify": "1N2FgBLehaq77UEdJhCt7f",
+      "deezer": "2822",
+      "lastfm": "Saint+Etienne",
+      "rateyourmusic": "saint_etienne",
+      "wikidata": "Q1430158"
+    }
   }
 }

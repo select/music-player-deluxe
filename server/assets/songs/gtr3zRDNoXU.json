@@ -1,0 +1,56 @@
+{
+  "youtubeId": "gtr3zRDNoXU",
+  "title": "Where We Wanna Be",
+  "artist": "Daði Freyr",
+  "lastFetched": "2025-12-03T11:38:15.533Z",
+  "odesli": {
+    "amazonMusic": "B0881YF6YD",
+    "amazonStore": "B0881YF6YD",
+    "deezer": "950224912",
+    "appleMusic": "1511541289",
+    "itunes": "1511541289",
+    "napster": "tra.472148955",
+    "pandora": "TR:31289214",
+    "soundcloud": "dadimakesmusic/where-we-wanna-be",
+    "spotify": "0wPsxtjqWKJhSvrnyAjpHy",
+    "tidal": "246258106",
+    "yandex": "65617870",
+    "youtube": "gtr3zRDNoXU",
+    "youtubeMusic": "gtr3zRDNoXU"
+  },
+  "lastfm": {
+    "id": "Da%C3%B0i+Freyr/_/Where+We+Wanna+Be",
+    "listeners": 28086,
+    "playcount": 163772,
+    "title": "Where We Wanna Be",
+    "artist": "Daði Freyr",
+    "mbid": "bf06a383-d687-4c5e-9abb-14588688241b",
+    "artistMbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b",
+    "tags": [
+      "synth pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a2876cab-6a31-4d58-bb77-09559c1ca528",
+    "artistMbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electropop",
+      "funktronica",
+      "synth-pop"
+    ],
+    "releasedAt": "2020-05-21",
+    "artistCountry": "IS",
+    "externalIdsArtist": {
+      "discogs": "7911513",
+      "spotify": "3Hb64DQZIhDCgyHKrzBXOL",
+      "deezer": "12779993",
+      "lastfm": "Da%C3%B0i+Freyr",
+      "genius": "Dai-freyr",
+      "rateyourmusic": "dadi-freyr-petursson",
+      "soundcloud": "https://soundcloud.com/dadimakesmusic",
+      "wikidata": "Q31749372",
+      "youtube": "UCF18N219OPiOcElz_hSYoIQ"
+    }
+  }
+}

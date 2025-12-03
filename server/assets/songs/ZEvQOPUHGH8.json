@@ -2,7 +2,7 @@
   "youtubeId": "ZEvQOPUHGH8",
   "title": "Cold Beer (Cry Tunes)",
   "artist": "Jesse Stewart",
-  "lastFetched": "2025-11-30T19:49:10.445Z",
+  "lastFetched": "2025-12-02T01:27:19.280Z",
   "odesli": {
     "audiomack": "16306066",
     "soundcloud": "eatsh1t/cold-beer-jesse-stewart-deep-in-cider",
@@ -29,6 +29,11 @@
     "releaseCount": 1,
     "artistGenres": [
       "folk punk"
-    ]
+    ],
+    "releasedAt": "2014",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "spotify": "2rmjIDBloWPeLmLrW6nBZx"
+    }
   }
 }

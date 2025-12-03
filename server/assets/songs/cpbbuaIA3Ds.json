@@ -2,7 +2,7 @@
   "youtubeId": "cpbbuaIA3Ds",
   "title": "Money",
   "artist": "Pink Floyd",
-  "lastFetched": "2025-11-30T21:09:03.991Z",
+  "lastFetched": "2025-12-02T01:34:13.446Z",
   "odesli": {
     "amazonMusic": "B019HNVJVO",
     "amazonStore": "B019HNVJVO",
@@ -49,6 +49,19 @@
       "rock",
       "rock opera",
       "space rock"
-    ]
+    ],
+    "releasedAt": "2014-11-02",
+    "externalIdsArtist": {
+      "allmusic": "mn0000346336",
+      "discogs": "45467",
+      "spotify": "0k17h0D3J5VfsdmQ1iZtE9",
+      "deezer": "860",
+      "lastfm": "Pink+Floyd",
+      "genius": "Pink-floyd",
+      "rateyourmusic": "pink-floyd",
+      "soundcloud": "https://soundcloud.com/officialpinkfloyd",
+      "wikidata": "Q2306",
+      "youtube": "UCO6LS_5W7vqG9mALDNzSFug"
+    }
   }
 }

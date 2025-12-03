@@ -2,7 +2,7 @@
   "youtubeId": "rQbjE6mVgms",
   "title": "Edie's Dream",
   "artist": "Suuns",
-  "lastFetched": "2025-11-30T20:11:29.641Z",
+  "lastFetched": "2025-12-02T01:55:56.606Z",
   "odesli": {
     "amazonMusic": "B00HL5J5L2",
     "amazonStore": "B00HL5J5L2",
@@ -40,6 +40,17 @@
       "post-punk",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2020-03-31",
+    "externalIdsArtist": {
+      "allmusic": "mn0002534252",
+      "bandcamp": "https://suuns.bandcamp.com/",
+      "discogs": "1932399",
+      "spotify": "3UkN1XeK2D4wD4uhtJx4vb",
+      "deezer": "517413",
+      "lastfm": "Suuns",
+      "rateyourmusic": "suuns",
+      "wikidata": "Q14159627"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "gHMzOxaMqwM",
   "title": "Bedroom Acoustics",
   "artist": "Muse",
-  "lastFetched": "2025-11-23T16:46:04.067Z",
+  "lastFetched": "2025-12-02T01:38:30.936Z",
   "odesli": {
     "amazonMusic": "B073MQRHZL",
     "amazonStore": "B073MQRHZL",
@@ -40,7 +40,22 @@
       "neo-progressive rock"
     ],
     "trackMbid": "4757e2fe-0b61-3083-a4f3-64b9f44183ba",
-    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090"
+    "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000514563",
+      "discogs": "1003",
+      "spotify": "12Chz98pHFMPJEknJQMWvI",
+      "deezer": "705",
+      "lastfm": "Muse",
+      "genius": "Muse",
+      "rateyourmusic": "muse",
+      "soundcloud": "https://soundcloud.com/muse",
+      "qobuz": "75739",
+      "napster": "muse-7035",
+      "wikidata": "Q22151",
+      "youtube": "UCw8jIQzB2mdvvo_CVplLxug"
+    }
   },
   "lastfm": {
     "id": "Muse/_/Bedroom+Acoustics",

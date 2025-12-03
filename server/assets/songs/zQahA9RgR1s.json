@@ -2,7 +2,7 @@
   "youtubeId": "zQahA9RgR1s",
   "title": "Black And Gold",
   "artist": "Sivert Høyem",
-  "lastFetched": "2025-11-23T16:54:50.247Z",
+  "lastFetched": "2025-12-02T02:07:55.744Z",
   "musicbrainz": {
     "artistTags": [
       "rock"
@@ -11,7 +11,16 @@
       "rock"
     ],
     "trackMbid": "79bdf7b2-991d-43f3-8a43-19c84bcba6e9",
-    "artistMbid": "bb44b574-5e96-49a2-81be-82f439fd8868"
+    "artistMbid": "bb44b574-5e96-49a2-81be-82f439fd8868",
+    "releasedAt": "2017-06-09",
+    "artistCountry": "NO",
+    "externalIdsArtist": {
+      "discogs": "226487",
+      "spotify": "2xMBy2SwN1OMgSSCKmX3IG",
+      "deezer": "8656",
+      "soundcloud": "https://soundcloud.com/siverthoyem",
+      "wikidata": "Q3356812"
+    }
   },
   "lastfm": {
     "id": "Sivert+H%C3%B8yem/_/Black+And+Gold",

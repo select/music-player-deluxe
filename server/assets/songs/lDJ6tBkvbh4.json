@@ -2,7 +2,7 @@
   "youtubeId": "lDJ6tBkvbh4",
   "title": "Quatere",
   "artist": "Mario Batkovic",
-  "lastFetched": "2025-11-30T23:11:49.592Z",
+  "lastFetched": "2025-12-02T01:45:38.528Z",
   "lastfm": {
     "id": "Mario+Batkovic/_/Quatere",
     "listeners": 8452,
@@ -18,6 +18,18 @@
   "musicbrainz": {
     "trackMbid": "a5c042ee-dd25-420e-a62c-2863d22a420b",
     "artistMbid": "a254e02f-2b07-49f2-a2e7-a41ac05a40e8",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2017-03-17",
+    "artistCountry": "CH",
+    "externalIdsArtist": {
+      "allmusic": "mn0003323988",
+      "discogs": "2884380",
+      "spotify": "3lLjSS7VP84aQ1fwX3Vbqz",
+      "deezer": "5010122",
+      "lastfm": "Mario+Batkovic",
+      "rateyourmusic": "mario-batkovic",
+      "soundcloud": "https://soundcloud.com/mariobatkovic",
+      "wikidata": "Q60439613"
+    }
   }
 }

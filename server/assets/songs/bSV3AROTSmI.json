@@ -1,0 +1,45 @@
+{
+  "youtubeId": "bSV3AROTSmI",
+  "title": "Dark Black Makeup",
+  "artist": "Radkey",
+  "lastFetched": "2025-12-03T11:44:35.510Z",
+  "odesli": {
+    "amazonMusic": "B01LWNLBZ9",
+    "amazonStore": "B01LWNLBZ9",
+    "pandora": "TR:5689577",
+    "soundcloud": "radkey-band/dark-black-makeup-2",
+    "spotify": "1BSc6cdCjzOwF8XdNDyaGP",
+    "tidal": "65256528",
+    "youtube": "bSV3AROTSmI",
+    "youtubeMusic": "bSV3AROTSmI"
+  },
+  "lastfm": {
+    "id": "Radkey/_/Dark+Black+Makeup",
+    "listeners": 18955,
+    "playcount": 83224,
+    "title": "Dark Black Makeup",
+    "artist": "Radkey",
+    "mbid": "556b5ca2-ae30-47f6-b254-f738f77e9379",
+    "artistMbid": "31fcc2d8-ce8f-4fe2-a641-a458750fed55",
+    "tags": [
+      "punk",
+      "punk rock",
+      "personal favourites"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8c5629c0-3453-4a4c-8dc7-9a5ee4f942ce",
+    "artistMbid": "31fcc2d8-ce8f-4fe2-a641-a458750fed55",
+    "releaseCount": 5,
+    "releasedAt": "2015-08-21",
+    "externalIdsArtist": {
+      "bandcamp": "https://radkey.bandcamp.com/",
+      "discogs": "3165260",
+      "spotify": "1egsOeSvcQyacni1rL6c4C",
+      "deezer": "1630442",
+      "soundcloud": "https://soundcloud.com/radkey-band",
+      "wikidata": "Q18158481",
+      "youtube": "UCiEvV2h-bMfGoUBHYOnFifA"
+    }
+  }
+}

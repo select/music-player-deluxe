@@ -2,7 +2,7 @@
   "youtubeId": "nDBdrXo4Nw0",
   "title": "Threatening War",
   "artist": "The Pineapple Thief",
-  "lastFetched": "2025-11-23T16:49:09.197Z",
+  "lastFetched": "2025-12-02T01:49:06.998Z",
   "odesli": {
     "soundcloud": "thepineapplethief/threatening-war",
     "tidal": "192873495",
@@ -23,7 +23,21 @@
       "progressive rock"
     ],
     "trackMbid": "0ecc6781-dfbe-448f-a7d3-523568cfecdb",
-    "artistMbid": "e8f55abb-a6d5-4e5f-81b4-14f9cc320519"
+    "artistMbid": "e8f55abb-a6d5-4e5f-81b4-14f9cc320519",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000347161",
+      "discogs": "1158584",
+      "spotify": "4lrBMUSk8PiNnCEZfsmPAk",
+      "deezer": "94494",
+      "lastfm": "The+Pineapple+Thief",
+      "genius": "The-pineapple-thief",
+      "rateyourmusic": "the-pineapple-thief",
+      "soundcloud": "https://soundcloud.com/thepineapplethief",
+      "napster": "pineapple-thief",
+      "wikidata": "Q38502",
+      "youtube": "UCuqpzZnOFS_Pers0CYQ2Saw"
+    }
   },
   "lastfm": {
     "id": "The+Pineapple+Thief/_/Threatening+War",

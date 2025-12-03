@@ -2,13 +2,19 @@
   "youtubeId": "lDJgtemS9MA",
   "title": "Du willst immer nur ficken",
   "artist": "Ganz Schön Feist",
-  "lastFetched": "2025-11-23T16:48:04.562Z",
+  "lastFetched": "2025-12-02T01:45:40.881Z",
   "musicbrainz": {
     "artistTags": [
       "german"
     ],
     "trackMbid": "44960433-e089-4b00-9835-6f4966891d4b",
-    "artistMbid": "d01185da-21e0-4d86-a53a-3aa87d85b89e"
+    "artistMbid": "d01185da-21e0-4d86-a53a-3aa87d85b89e",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "450130",
+      "wikidata": "Q1493696",
+      "youtube": "UCubQaL2BCSVkqwhIDGjmbiw"
+    }
   },
   "lastfm": {
     "id": "Ganz+Sch%C3%B6n+Feist/_/Du+willst+immer+nur+ficken",

@@ -2,7 +2,7 @@
   "youtubeId": "rTyif4NZ4yg",
   "title": "The Black Keys Work",
   "artist": "Erlend Øye",
-  "lastFetched": "2025-11-23T16:51:11.621Z",
+  "lastFetched": "2025-12-02T01:56:07.997Z",
   "musicbrainz": {
     "artistTags": [
       "electropop",
@@ -21,7 +21,16 @@
       "indietronica"
     ],
     "trackMbid": "0e97440f-43d2-33b3-97a5-0de1339d1c9e",
-    "artistMbid": "bdb8e865-98f6-4dd3-a8ac-74b9b7ae8abd"
+    "artistMbid": "bdb8e865-98f6-4dd3-a8ac-74b9b7ae8abd",
+    "artistCountry": "NO",
+    "externalIdsArtist": {
+      "allmusic": "mn0000803829",
+      "discogs": "82343",
+      "spotify": "12AnGvqOxseM5VJLyO5yBs",
+      "deezer": "9809",
+      "rateyourmusic": "erlend_oye",
+      "wikidata": "Q726170"
+    }
   },
   "lastfm": {
     "id": "Erlend+%C3%98ye/_/The+Black+Keys+Work",

@@ -2,7 +2,7 @@
   "youtubeId": "Zh9KTe5hI_A",
   "title": "Discovery",
   "artist": "Trevino",
-  "lastFetched": "2025-11-19T15:18:40.050Z",
+  "lastFetched": "2025-12-02T01:28:02.819Z",
   "lastfm": {
     "id": "Trevino/_/Discovery",
     "listeners": 505,
@@ -15,6 +15,13 @@
   },
   "musicbrainz": {
     "trackMbid": "1532e20f-8e10-322f-bb26-a89cfa18a016",
-    "artistMbid": "221f6af3-4948-48f4-bcf7-984115c29846"
+    "artistMbid": "221f6af3-4948-48f4-bcf7-984115c29846",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "2492078",
+      "spotify": "54QWzwwLTGc8ifV6tNfiRS",
+      "deezer": "1446022",
+      "lastfm": "Trevino"
+    }
   }
 }

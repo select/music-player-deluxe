@@ -3,7 +3,7 @@
   "artist": "Quincy Jones",
   "duration": 246,
   "youtubeId": "jpbK4tLQH_s",
-  "lastFetched": "2025-11-19T03:26:02.652Z",
+  "lastFetched": "2025-12-02T01:43:41.640Z",
   "odesli": {
     "amazonMusic": "B001PQN0QE",
     "amazonStore": "B001PQN0QE",
@@ -28,7 +28,19 @@
     ],
     "trackMbid": "6ddcd32e-b209-450d-a6c7-2726cb3bb75a",
     "artistMbid": "5803c81e-739a-4057-9a5c-cf84e55db630",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1973-10-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000378624",
+      "discogs": "1852038",
+      "spotify": "3rxIQc9kWT6Ueg4BhnOwRK",
+      "deezer": "978",
+      "genius": "Quincy-jones",
+      "rateyourmusic": "quincy_jones",
+      "wikidata": "Q193645",
+      "youtube": "UCOceWwQ90r9zFN20et7JXAA"
+    }
   },
   "lastfm": {
     "id": "Quincy+Jones/_/Summer+in+the+City",

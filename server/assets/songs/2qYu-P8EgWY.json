@@ -1,0 +1,43 @@
+{
+  "youtubeId": "2qYu-P8EgWY",
+  "title": "Robot Echos",
+  "artist": "Disrupt",
+  "lastFetched": "2025-12-03T12:06:38.018Z",
+  "odesli": {
+    "amazonMusic": "B0DBBDKVBG",
+    "amazonStore": "B0DBBDKVBG",
+    "appleMusic": "1059550622",
+    "itunes": "1059550622",
+    "pandora": "TR:80297110",
+    "soundcloud": "jahtari_records/disrupt-robot-echos",
+    "tidal": "53965891",
+    "youtube": "2qYu-P8EgWY",
+    "youtubeMusic": "2qYu-P8EgWY"
+  },
+  "lastfm": {
+    "id": "Disrupt/_/Robot+Echos",
+    "listeners": 530,
+    "playcount": 1652,
+    "title": "Robot Echos",
+    "artist": "Disrupt",
+    "mbid": "39d9d900-036d-4869-bbc1-dc98732008d3",
+    "artistMbid": "5fffffdf-90d2-4e77-a12d-ea1ab24bd2b9",
+    "tags": [
+      "dub",
+      "experimental",
+      "digital reggae"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "39d9d900-036d-4869-bbc1-dc98732008d3",
+    "artistMbid": "5fffffdf-90d2-4e77-a12d-ea1ab24bd2b9",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dub"
+    ],
+    "releasedAt": "2009-11-11",
+    "externalIdsArtist": {
+      "discogs": "321209"
+    }
+  }
+}

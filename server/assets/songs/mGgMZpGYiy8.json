@@ -2,7 +2,7 @@
   "youtubeId": "mGgMZpGYiy8",
   "title": "Friday I'm in Love",
   "artist": "The Cure",
-  "lastFetched": "2025-11-30T20:01:17.489Z",
+  "lastFetched": "2025-12-02T01:47:38.411Z",
   "odesli": {
     "amazonMusic": "B001OGPRXO",
     "amazonStore": "B001OGPRXO",
@@ -46,6 +46,19 @@
       "punk",
       "rock",
       "synth-pop"
-    ]
+    ],
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000137390",
+      "discogs": "28972",
+      "spotify": "7bu3H8JO7d0UbMoVzbo70s",
+      "deezer": "381",
+      "lastfm": "The+Cure",
+      "genius": "The-cure",
+      "rateyourmusic": "the-cure",
+      "soundcloud": "https://soundcloud.com/thecureofficial",
+      "wikidata": "Q484427",
+      "youtube": "UCKuG9-MGolUuWbEcoz5qijw"
+    }
   }
 }

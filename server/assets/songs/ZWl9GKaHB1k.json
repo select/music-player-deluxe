@@ -1,7 +1,7 @@
 {
   "youtubeId": "ZWl9GKaHB1k",
   "title": "Grossstadtgeflüster  -  Ich muss gar nix",
-  "lastFetched": "2025-11-30T21:05:07.166Z",
+  "lastFetched": "2025-12-02T01:27:43.420Z",
   "ai": {
     "title": "Ich muss gar nix",
     "artist": "Grossstadtgeflüster"
@@ -31,6 +31,16 @@
       "electropunk",
       "pop",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2006-05-12",
+    "externalIdsArtist": {
+      "discogs": "749951",
+      "spotify": "03SZv6slUnLnHI3IfwG0gl",
+      "deezer": "80890",
+      "lastfm": "Grossstadtgefl%C3%BCster",
+      "soundcloud": "https://soundcloud.com/grossstadtgefluester",
+      "wikidata": "Q541543",
+      "youtube": "UCSNJbR3O1Xb0juzA52HuDsw"
+    }
   }
 }

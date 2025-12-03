@@ -3,7 +3,7 @@
   "artist": "Rival Consoles",
   "duration": 248,
   "youtubeId": "WdXMBiEqJFo",
-  "lastFetched": "2025-11-19T01:38:09.074Z",
+  "lastFetched": "2025-12-02T01:22:58.793Z",
   "odesli": {
     "amazonMusic": "B0DY8J87MX",
     "amazonStore": "B0DY8J87MX",
@@ -20,7 +20,24 @@
     ],
     "trackMbid": "40232262-f725-4897-b918-7c582a1686eb",
     "artistMbid": "803f2853-7e3e-4dff-96a7-9f77b5f56de5",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-07-04",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "4XCXyN8EzvcihdZYBNsRDL",
+      "bandcamp": "https://rivalconsoles.bandcamp.com/track/in-reverse",
+      "deezer": "3248209171"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0001552281",
+      "bandcamp": "https://rivalconsoles.bandcamp.com/",
+      "discogs": "1012899",
+      "spotify": "05lIUgmmsmTX2N9dCKc8rC",
+      "deezer": "252874",
+      "lastfm": "Rival+Consoles",
+      "soundcloud": "https://soundcloud.com/rivalconsoles",
+      "wikidata": "Q17364134"
+    }
   },
   "lastfm": {
     "id": "Rival+Consoles/_/In+Reverse",

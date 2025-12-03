@@ -1,0 +1,54 @@
+{
+  "youtubeId": "L9XgRA8QtyM",
+  "title": "Ich setz mein Herz bei E-bay rein",
+  "artist": "Helge Schneider",
+  "lastFetched": "2025-12-03T11:41:58.665Z",
+  "odesli": {
+    "amazonMusic": "B09YHW7RZM",
+    "amazonStore": "B09YHW7RZM",
+    "soundcloud": "helge-schneider-official/ich-setz-mein-herz-bei-e-bay",
+    "spotify": "3SW0GTGuSVLYLYfknvNaZN",
+    "tidal": "225039513",
+    "youtube": "L9XgRA8QtyM",
+    "youtubeMusic": "L9XgRA8QtyM"
+  },
+  "lastfm": {
+    "id": "Helge+Schneider/_/Ich+Setz+Mein+Herz+Bei+E-bay+Rein",
+    "listeners": 3365,
+    "playcount": 8944,
+    "title": "Ich Setz Mein Herz Bei E-bay Rein",
+    "artist": "Helge Schneider",
+    "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
+    "tags": [
+      "jazz",
+      "comedy",
+      "german",
+      "deutsch"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8d3e0d87-e89a-47c8-9e30-64d1929ae40b",
+    "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
+    "releaseCount": 3,
+    "artistGenres": [
+      "comedy",
+      "jazz",
+      "kabarett",
+      "spoken word"
+    ],
+    "releasedAt": "2020-08-28",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000419691",
+      "discogs": "271200",
+      "spotify": "05OMHvPpkWnblSy9Kl7e9l",
+      "deezer": "79663",
+      "lastfm": "Helge+Schneider",
+      "genius": "Helge-schneider",
+      "rateyourmusic": "helge_schneider",
+      "soundcloud": "https://soundcloud.com/helge-schneider-official",
+      "wikidata": "Q76490",
+      "youtube": "UCpUm-HvU2Qgs207QiNmXFYQ"
+    }
+  }
+}

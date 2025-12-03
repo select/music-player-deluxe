@@ -2,7 +2,7 @@
   "youtubeId": "w-OMKalnvX0",
   "title": "Veranda Shove",
   "artist": "Baths",
-  "lastFetched": "2025-11-30T21:31:10.030Z",
+  "lastFetched": "2025-12-02T02:02:27.792Z",
   "odesli": {
     "amazonMusic": "B0BQ8PDHKJ",
     "amazonStore": "B0BQ8PDHKJ",
@@ -37,6 +37,21 @@
       "experimental",
       "futurepop",
       "glitch"
-    ]
+    ],
+    "releasedAt": "2020-05-29",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002424501",
+      "bandcamp": "https://bathsmusic.bandcamp.com/",
+      "discogs": "1819667",
+      "spotify": "5zS8r5hRRk1jzD41yYS1NO",
+      "deezer": "412151",
+      "lastfm": "Baths",
+      "genius": "Baths",
+      "rateyourmusic": "baths",
+      "soundcloud": "https://soundcloud.com/bathsmusic",
+      "wikidata": "Q4869073",
+      "youtube": "UCLBMBOLk5rup9GXUB7ejnkg"
+    }
   }
 }

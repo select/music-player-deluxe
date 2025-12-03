@@ -2,7 +2,7 @@
   "youtubeId": "m56H4E5bZLk",
   "title": "The Coffee Cola Song",
   "artist": "Francis Bebey",
-  "lastFetched": "2025-11-19T13:42:01.434Z",
+  "lastFetched": "2025-12-02T01:47:16.421Z",
   "lastfm": {
     "id": "Francis+Bebey/_/The+Coffee+Cola+Song",
     "listeners": 44871,
@@ -16,6 +16,19 @@
   },
   "musicbrainz": {
     "trackMbid": "6b7d5f3a-5ee6-485f-8cb9-1d539f1be943",
-    "artistMbid": "fab6adab-b46f-45f8-8700-bc44408ba583"
+    "artistMbid": "fab6adab-b46f-45f8-8700-bc44408ba583",
+    "artistCountry": "CM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000801280",
+      "bandcamp": "https://francisbebey.bandcamp.com/",
+      "discogs": "181285",
+      "spotify": "0mdmrbu5UZ32uRcRp2z6mr",
+      "deezer": "376157",
+      "lastfm": "Francis+Bebey",
+      "genius": "Francis-bebey",
+      "rateyourmusic": "francis_bebey",
+      "wikidata": "Q529942",
+      "youtube": "UCgsPHHZvHTQwWLO9Go1k5rg"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "cpprnWM0psw",
   "title": "NRG",
   "artist": "Chase & Status",
-  "lastFetched": "2025-11-30T22:45:20.334Z",
+  "lastFetched": "2025-12-02T01:34:16.101Z",
   "odesli": {
     "amazonMusic": "B0743K9TTM",
     "amazonStore": "B0743K9TTM",
@@ -45,6 +45,20 @@
       "pop",
       "techno",
       "uk garage"
-    ]
+    ],
+    "releasedAt": "2017-08-18",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000101961",
+      "discogs": "138585",
+      "spotify": "3jNkaOXasoc7RsxdchvEVq",
+      "deezer": "15617",
+      "lastfm": "Chase+&+Status",
+      "genius": "Chase-and-status",
+      "rateyourmusic": "chase_and_status_f1",
+      "soundcloud": "https://soundcloud.com/chaseandstatus",
+      "wikidata": "Q1067983",
+      "youtube": "UCQOPcSW3O8G8xK-5pukX9Bw"
+    }
   }
 }

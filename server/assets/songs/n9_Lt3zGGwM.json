@@ -2,7 +2,7 @@
   "youtubeId": "n9_Lt3zGGwM",
   "title": "Windows",
   "artist": "Leland Whitty",
-  "lastFetched": "2025-11-30T23:02:06.240Z",
+  "lastFetched": "2025-12-02T01:48:56.376Z",
   "odesli": {
     "amazonMusic": "B0BJ8275J3",
     "amazonStore": "B0BJ8275J3",
@@ -23,6 +23,15 @@
   "musicbrainz": {
     "trackMbid": "387fd501-27c9-439a-834c-cb58385c11d3",
     "artistMbid": "382482ab-3577-4dd2-916b-850c5805b05c",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2022-12-09",
+    "externalIdsArtist": {
+      "allmusic": "mn0003240368",
+      "discogs": "2692944",
+      "spotify": "2QobOeybSvyibNUGIobnlP",
+      "deezer": "5789894",
+      "soundcloud": "https://soundcloud.com/leland-whitty",
+      "wikidata": "Q135410087"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "n9cbWfqqEoU",
   "title": "I Can Be Killed",
   "artist": "Big Black",
-  "lastFetched": "2025-11-30T22:27:04.575Z",
+  "lastFetched": "2025-12-02T01:48:59.815Z",
   "odesli": {
     "amazonMusic": "B01GJXW9UA",
     "amazonStore": "B01GJXW9UA",
@@ -46,6 +46,17 @@
       "post-hardcore",
       "post-punk",
       "punk"
-    ]
+    ],
+    "releasedAt": "1986",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000758520",
+      "bandcamp": "https://bigblack.bandcamp.com/",
+      "discogs": "55961",
+      "deezer": "10754",
+      "rateyourmusic": "big_black",
+      "wikidata": "Q572821",
+      "youtube": "UCqGF7gRwC9ZFxWIv0uWUl_g"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "_wMKS0pNTeo",
   "title": "Mama war ne Schlampe",
   "artist": "Addi Blanco",
-  "lastFetched": "2025-11-19T08:47:44.318Z",
+  "lastFetched": "2025-12-02T01:29:53.442Z",
   "odesli": {
     "amazonMusic": "B00WJ7WBAE",
     "amazonStore": "B00WJ7WBAE",
@@ -24,6 +24,11 @@
   },
   "musicbrainz": {
     "trackMbid": "07cb59f6-c241-4048-8e6c-088cd7d742fa",
-    "artistMbid": "80587e18-8f29-4f09-a9a7-2abb911247e3"
+    "artistMbid": "80587e18-8f29-4f09-a9a7-2abb911247e3",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003385471",
+      "spotify": "6s4bncptpt1l9tfgRpaOsQ"
+    }
   }
 }

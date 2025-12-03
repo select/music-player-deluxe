@@ -1,0 +1,46 @@
+{
+  "youtubeId": "YI2XuIOW3gM",
+  "title": "Hindi Zahra - Stand Up",
+  "lastFetched": "2025-12-03T12:06:20.669Z",
+  "ai": {
+    "title": "Stand Up",
+    "artist": "Hindi Zahra"
+  },
+  "lastfm": {
+    "id": "Hindi+Zahra/_/Stand+up",
+    "listeners": 30806,
+    "playcount": 160580,
+    "title": "Stand up",
+    "artist": "Hindi Zahra",
+    "tags": [
+      "folk",
+      "guitar",
+      "title is a full sentence",
+      "contemporary folk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4206e713-28ec-47ae-b618-863c035d6a24",
+    "artistMbid": "34964ede-3103-4023-93c8-ee514abdcb3b",
+    "releaseCount": 8,
+    "artistGenres": [
+      "folk pop",
+      "indie folk",
+      "singer-songwriter",
+      "soul jazz"
+    ],
+    "releasedAt": "2010-01-13",
+    "artistCountry": "MA",
+    "externalIdsArtist": {
+      "allmusic": "mn0002392883",
+      "discogs": "1316313",
+      "spotify": "6QncudMSOiKxYRIKRDks6S",
+      "deezer": "298133",
+      "lastfm": "Hindi%20Zahra",
+      "genius": "Hindi-zahra",
+      "rateyourmusic": "hindi_zahra",
+      "wikidata": "Q463514",
+      "youtube": "UC5AGMp53U0apgylLddeNgnA"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "k3ZaLSI0zpQ",
   "title": "Flucht",
   "artist": "Tapete",
-  "lastFetched": "2025-11-23T16:47:20.969Z",
+  "lastFetched": "2025-12-02T01:44:01.153Z",
   "odesli": {
     "amazonMusic": "B09VK1W5M4",
     "amazonStore": "B09VK1W5M4",
@@ -27,7 +27,15 @@
       "hip hop"
     ],
     "trackMbid": "32bc60d7-ac9d-4f3f-b88d-57f192d0008c",
-    "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3"
+    "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3",
+    "releasedAt": "2022-03-18",
+    "externalIdsArtist": {
+      "bandcamp": "https://tapeteberlin.bandcamp.com/",
+      "discogs": "1369220",
+      "spotify": "2mLGlQXPcSPMTrVbfP0OdF",
+      "deezer": "313413",
+      "soundcloud": "https://soundcloud.com/tapeteberlin"
+    }
   },
   "lastfm": {
     "id": "Tapete/_/Flucht",

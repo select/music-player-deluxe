@@ -2,7 +2,7 @@
   "youtubeId": "qV7ha4DO6hU",
   "title": "Piper's Dream - Fred Morrison",
   "artist": "Patrick Molard",
-  "lastFetched": "2025-11-30T23:25:51.944Z",
+  "lastFetched": "2025-12-02T01:54:18.635Z",
   "odesli": {
     "amazonMusic": "B00F6N4804",
     "amazonStore": "B00F6N4804",
@@ -28,6 +28,14 @@
   "musicbrainz": {
     "artistMbid": "8f110909-c075-4d54-a253-2a1d510e56ad",
     "trackMbid": "d0f399d3-17d4-4df2-a281-b5b41f5f5759",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2004",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "discogs": "695767",
+      "spotify": "5sYA5wDyJQAAnPrrU6oJGZ",
+      "lastfm": "Patrick+Molard",
+      "wikidata": "Q3369710"
+    }
   }
 }

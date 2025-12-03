@@ -2,7 +2,7 @@
   "youtubeId": "o2Mkxjf3dYo",
   "title": "Girl It's Alright",
   "artist": "Steven Seagal",
-  "lastFetched": "2025-11-30T22:12:08.106Z",
+  "lastFetched": "2025-12-02T01:50:22.706Z",
   "odesli": {
     "amazonMusic": "B000QMUBKQ",
     "amazonStore": "B000QMUBKQ",
@@ -43,6 +43,14 @@
       "pop rock",
       "power metal",
       "rock"
-    ]
+    ],
+    "releasedAt": "2004-05-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "517800",
+      "spotify": "1jgRWeREJTbx96zhcn8vgx",
+      "rateyourmusic": "steven-seagal-1",
+      "wikidata": "Q82110"
+    }
   }
 }

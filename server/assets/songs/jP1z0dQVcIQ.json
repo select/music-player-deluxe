@@ -2,7 +2,7 @@
   "youtubeId": "jP1z0dQVcIQ",
   "title": "The Wanderer",
   "artist": "Dion",
-  "lastFetched": "2025-11-30T22:10:00.011Z",
+  "lastFetched": "2025-12-02T01:42:57.962Z",
   "lastfm": {
     "summary": "In this song Dion is warning Flo, Jane and Mary to stay clear of The Wanderer. Dion told Rolling Stone magazine in 1976: \"You say to a chick, 'Stay away from that guy. And she would say, 'What guy?' Chicks loved a rebel.\" (Source The Wanderer Songfacts) <a href=\"http://www.last.fm/music/Dion/_/The+Wanderer\">Read more on Last.fm</a>.",
     "id": "Dion/_/The+Wanderer",
@@ -33,6 +33,16 @@
       "folk rock",
       "pop",
       "pop rock"
-    ]
+    ],
+    "releasedAt": "1988",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000265456",
+      "discogs": "628976",
+      "spotify": "15FyiY3ChN0QRspHIQYq0W",
+      "deezer": "12489",
+      "rateyourmusic": "dion",
+      "wikidata": "Q1226921"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "zhl-Cs1-sG4",
   "title": "Giorgio by Moroder",
   "artist": "Daft Punk",
-  "lastFetched": "2025-11-30T21:07:31.940Z",
+  "lastFetched": "2025-12-02T02:08:10.016Z",
   "odesli": {
     "amazonMusic": "B00CRMX3GM",
     "amazonStore": "B00CRMX3GM",
@@ -66,6 +66,25 @@
       "french house",
       "funk",
       "house"
-    ]
+    ],
+    "releasedAt": "2013-05-17",
+    "artistCountry": "FR",
+    "externalIdsTrack": {
+      "spotify": "2eXJRM1lQJ591AStNA26Yx",
+      "deezer": "67238730"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000667669",
+      "discogs": "7618671",
+      "spotify": "4tZwfgrHOc3mvqYlEYSvVi",
+      "deezer": "27",
+      "lastfm": "Daft+Punk",
+      "genius": "Daft-punk",
+      "rateyourmusic": "daft-punk",
+      "soundcloud": "https://soundcloud.com/daftpunkofficialmusic",
+      "napster": "daft-punk",
+      "wikidata": "Q185828",
+      "youtube": "UCRr1xG_2WIDs18a6cIiCxeA"
+    }
   }
 }

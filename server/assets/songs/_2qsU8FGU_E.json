@@ -2,7 +2,7 @@
   "youtubeId": "_2qsU8FGU_E",
   "title": "Tieduprightnow",
   "artist": "Parcels",
-  "lastFetched": "2025-11-30T20:09:13.989Z",
+  "lastFetched": "2025-12-02T01:28:30.191Z",
   "odesli": {
     "amazonMusic": "B07H2PP135",
     "amazonStore": "B07H2PP135",
@@ -45,6 +45,18 @@
       "disco",
       "indietronica",
       "nu disco"
-    ]
+    ],
+    "releasedAt": "2018-10-12",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0003588620",
+      "discogs": "4669649",
+      "spotify": "3oKRxpszQKUjjaHz388fVA",
+      "deezer": "7626764",
+      "lastfm": "The+Parcels",
+      "soundcloud": "https://soundcloud.com/parcels-music",
+      "wikidata": "Q47293799",
+      "youtube": "UC2as7PrmUgmdZAkMIWNY6EQ"
+    }
   }
 }

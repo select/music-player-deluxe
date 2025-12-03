@@ -3,7 +3,7 @@
   "artist": "Trentemøller",
   "duration": 417,
   "youtubeId": "_r8b9fq-EKA",
-  "lastFetched": "2025-11-19T03:31:06.783Z",
+  "lastFetched": "2025-12-02T01:29:45.904Z",
   "musicbrainz": {
     "tags": [
       "abstract electronic",
@@ -21,7 +21,22 @@
     ],
     "trackMbid": "1a31a7fd-e98e-4193-a11d-a3dbae1afcbc",
     "artistMbid": "95e9aba6-f85c-48a0-9ec9-395d4f0e3875",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2006-10-06",
+    "artistCountry": "DK",
+    "externalIdsArtist": {
+      "allmusic": "mn0000017060",
+      "bandcamp": "https://trentemoller.bandcamp.com/",
+      "discogs": "117914",
+      "spotify": "4O71i7ke5iIBX6RNSFoZbS",
+      "deezer": "5210",
+      "lastfm": "Trentem%C3%B8ller",
+      "genius": "Trentemller",
+      "rateyourmusic": "trentemoller",
+      "soundcloud": "https://soundcloud.com/trentemusic",
+      "wikidata": "Q359835",
+      "youtube": "UCF5FI-ATbiOxuM0Wpr_1juA"
+    }
   },
   "lastfm": {
     "id": "Trentem%C3%B8ller/_/Chameleon",

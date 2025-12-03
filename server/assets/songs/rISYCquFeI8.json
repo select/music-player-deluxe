@@ -2,7 +2,7 @@
   "youtubeId": "rISYCquFeI8",
   "title": "I Just Wanna Live",
   "artist": "Good Charlotte",
-  "lastFetched": "2025-11-30T21:25:14.662Z",
+  "lastFetched": "2025-12-02T01:55:37.164Z",
   "odesli": {
     "amazonMusic": "B071HYFLWW",
     "amazonStore": "B071HYFLWW",
@@ -48,6 +48,20 @@
       "pop punk",
       "post-grunge",
       "punk rock"
-    ]
+    ],
+    "releasedAt": "2004-09-28",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000665908",
+      "discogs": "261637",
+      "spotify": "5aYyPjAsLj7UzANzdupwnS",
+      "deezer": "703",
+      "lastfm": "Good+Charlotte",
+      "genius": "Good-Charlotte",
+      "rateyourmusic": "good_charlotte",
+      "soundcloud": "https://soundcloud.com/good-charlotte-official",
+      "napster": "good-charlotte",
+      "wikidata": "Q485220"
+    }
   }
 }

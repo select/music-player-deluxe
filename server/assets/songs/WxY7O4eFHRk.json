@@ -2,7 +2,7 @@
   "youtubeId": "WxY7O4eFHRk",
   "title": "Clubbed To Death",
   "artist": "Rob Dougan",
-  "lastFetched": "2025-11-30T22:20:29.143Z",
+  "lastFetched": "2025-12-02T01:23:13.328Z",
   "lastfm": {
     "title": "Clubbed to Death",
     "artist": "Rob Dougan",
@@ -41,6 +41,18 @@
       "electronic",
       "electronica",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "1995-02",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000276573",
+      "discogs": "22969",
+      "spotify": "22xRIphSN7IkPVbErICu7s",
+      "deezer": "844",
+      "lastfm": "Rob+Dougan",
+      "rateyourmusic": "rob_dougan",
+      "wikidata": "Q963350",
+      "youtube": "UCL7m8Z4rXpr_wx6CgBa8vlw"
+    }
   }
 }

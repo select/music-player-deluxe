@@ -1,7 +1,7 @@
 {
   "youtubeId": "jvEin4SOOgY",
   "title": "System of a Down - B.Y.O.B. (Cello Cover by Break of Reality)",
-  "lastFetched": "2025-11-30T20:44:03.151Z",
+  "lastFetched": "2025-12-02T01:43:49.572Z",
   "ai": {
     "title": "B.Y.O.B.",
     "artist": "System of a Down"
@@ -43,6 +43,25 @@
       "hard rock",
       "heavy metal",
       "nu metal"
-    ]
+    ],
+    "releasedAt": "2005-03-29",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "0EYOdF5FCkgOJJla8DI2Md"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000005501",
+      "bandcamp": "https://systemofadown.bandcamp.com/",
+      "discogs": "85889",
+      "spotify": "5eAWCfyUhZtHHtBdNk56l1",
+      "deezer": "458",
+      "lastfm": "System+of+a+Down",
+      "genius": "System-of-a-down",
+      "rateyourmusic": "system-of-a-down",
+      "soundcloud": "https://soundcloud.com/system-of-a-down-official",
+      "napster": "system-of-a-down",
+      "wikidata": "Q45165",
+      "youtube": "UCDJftX2zx_UT_QSnBGIF96w"
+    }
   }
 }

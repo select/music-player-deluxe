@@ -1,7 +1,7 @@
 {
   "youtubeId": "jyFlZS2IR6E",
   "title": "CloZee - Revolution [Full Album]",
-  "lastFetched": "2025-12-01T11:52:37.273Z",
+  "lastFetched": "2025-12-02T01:43:54.462Z",
   "ai": {
     "title": "Revolution",
     "artist": "CloZee"
@@ -26,6 +26,16 @@
     "artistGenres": [
       "chillout",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2015-08-11",
+    "externalIdsArtist": {
+      "bandcamp": "https://clozee.bandcamp.com/",
+      "discogs": "2662965",
+      "spotify": "1496XxkytEk26FUJLfpVZr",
+      "deezer": "4631262",
+      "lastfm": "Clozee",
+      "soundcloud": "https://soundcloud.com/clozee",
+      "wikidata": "Q48625847"
+    }
   }
 }

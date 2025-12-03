@@ -1,0 +1,38 @@
+{
+  "youtubeId": "mYJhJUyJdNQ",
+  "title": "Chambacú",
+  "artist": "Flowering Inferno",
+  "lastFetched": "2025-12-03T12:04:30.280Z",
+  "odesli": {
+    "amazonMusic": "B07C882YVW",
+    "amazonStore": "B07C882YVW",
+    "youtube": "mYJhJUyJdNQ",
+    "youtubeMusic": "mYJhJUyJdNQ"
+  },
+  "lastfm": {
+    "id": "Flowering+Inferno/_/Chambac%C3%BA",
+    "listeners": 4616,
+    "playcount": 11169,
+    "title": "Chambacú",
+    "artist": "Flowering Inferno",
+    "artistMbid": "801c3dbb-bd1f-444f-9230-651780f5b4ae",
+    "tags": [
+      "dub",
+      "reggae",
+      "downtempo",
+      "tru thoughts",
+      "dub reggae"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c1600ff6-b5ec-491e-9ee6-acab2b87d59d",
+    "artistMbid": "801c3dbb-bd1f-444f-9230-651780f5b4ae",
+    "releaseCount": 1,
+    "releasedAt": "2016-06-17",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "1167845",
+      "deezer": "336493"
+    }
+  }
+}

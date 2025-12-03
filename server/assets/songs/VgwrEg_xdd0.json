@@ -2,7 +2,7 @@
   "youtubeId": "VgwrEg_xdd0",
   "title": "Theme From Jerome (Forgotten Words)",
   "artist": "Kishi Bashi",
-  "lastFetched": "2025-11-19T09:50:02.134Z",
+  "lastFetched": "2025-12-02T01:21:28.428Z",
   "odesli": {
     "amazonMusic": "B07NY2YKF4",
     "amazonStore": "B07NY2YKF4",
@@ -25,6 +25,19 @@
   },
   "musicbrainz": {
     "trackMbid": "2162ce66-c236-4fca-8c0c-81d197c2f5c5",
-    "artistMbid": "7c340ac5-6eda-4981-91d6-d5b1f4d1bbbf"
+    "artistMbid": "7c340ac5-6eda-4981-91d6-d5b1f4d1bbbf",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002800003",
+      "bandcamp": "https://kishibashi.bandcamp.com/",
+      "discogs": "2446539",
+      "spotify": "3LVPGE5jPPwtbGslx07YR0",
+      "deezer": "1374642",
+      "lastfm": "Kishi%20Bashi",
+      "rateyourmusic": "kishi_bashi",
+      "wikidata": "Q74309",
+      "wikipedia": "Kishi_Bashi",
+      "youtube": "UCW3FwEI_iYWJ-AH_KScypHw"
+    }
   }
 }

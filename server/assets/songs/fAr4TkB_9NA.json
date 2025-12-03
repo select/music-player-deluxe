@@ -3,7 +3,7 @@
   "artist": "Alina Bzhezhinska & Tony Kofi",
   "duration": 264,
   "youtubeId": "fAr4TkB_9NA",
-  "lastFetched": "2025-11-19T05:26:03.592Z",
+  "lastFetched": "2025-12-02T01:37:06.133Z",
   "odesli": {
     "amazonMusic": "B0FQWHHXW5",
     "amazonStore": "B0FQWHHXW5",
@@ -30,6 +30,12 @@
   "musicbrainz": {
     "trackMbid": "b2ce0d29-96d4-4a9f-8b35-ccef355c52cc",
     "artistMbid": "156f2e34-903e-4a2f-9d35-81a3a739891c",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-10-10",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://alinahipharp.bandcamp.com/",
+      "discogs": "6537392"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "XLBlns8wOBA",
   "title": "La Malagueña - Gaby Moreno | Live from Here with Chris Thile",
-  "lastFetched": "2025-12-01T11:48:28.057Z",
+  "lastFetched": "2025-12-02T01:23:59.775Z",
   "ai": {
     "title": "La Malagueña",
     "artist": "Gaby Moreno"
@@ -30,6 +30,17 @@
       "jazz",
       "singer-songwriter",
       "soul"
-    ]
+    ],
+    "releasedAt": "2016-09-09",
+    "artistCountry": "GT",
+    "externalIdsArtist": {
+      "allmusic": "mn0002128626",
+      "discogs": "1178864",
+      "spotify": "0K9pSmFx0kWESA9jqx8aCW",
+      "deezer": "401475",
+      "genius": "Gaby-moreno",
+      "wikidata": "Q511537",
+      "youtube": "UC1h3FZ8vCxViozCLT-C3loA"
+    }
   }
 }

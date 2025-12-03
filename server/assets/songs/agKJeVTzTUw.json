@@ -2,7 +2,7 @@
   "youtubeId": "agKJeVTzTUw",
   "title": "Instrument of War",
   "artist": "Vera Sola",
-  "lastFetched": "2025-11-30T22:37:12.896Z",
+  "lastFetched": "2025-12-02T01:30:58.489Z",
   "odesli": {
     "amazonMusic": "B0CMJWFRSY",
     "amazonStore": "B0CMJWFRSY",
@@ -30,6 +30,14 @@
   "musicbrainz": {
     "trackMbid": "d3816c3a-bcae-4acb-a877-b450f9af46ae",
     "artistMbid": "272b5bc9-90a3-4a8b-a263-9e933903fdeb",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2023",
+    "externalIdsArtist": {
+      "bandcamp": "https://verasola.bandcamp.com/",
+      "discogs": "6802984",
+      "spotify": "6QZsje9QjfKHObQDmX6k0y",
+      "wikidata": "Q60215318",
+      "youtube": "UCbO7VfL6BPCqghGUrxi6DPA"
+    }
   }
 }

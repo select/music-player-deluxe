@@ -1,0 +1,65 @@
+{
+  "youtubeId": "9gArvGIQHdU",
+  "title": "A Ghost",
+  "artist": "Travis",
+  "lastFetched": "2025-12-03T11:43:43.529Z",
+  "odesli": {
+    "amazonMusic": "B0F18BK2DT",
+    "amazonStore": "B0F18BK2DT",
+    "boomplay": "121632319",
+    "deezer": "979825272",
+    "appleMusic": "1511928800",
+    "itunes": "1511928800",
+    "napster": "tra.479748198",
+    "pandora": "TR:36563727",
+    "soundcloud": "travistheband/a-ghost",
+    "spotify": "2kaMjrvcNg1vtBlKDTTVde",
+    "tidal": "141197547",
+    "yandex": "66756279",
+    "youtube": "9gArvGIQHdU",
+    "youtubeMusic": "9gArvGIQHdU"
+  },
+  "lastfm": {
+    "summary": "Originally planned to debuted on June the 2nd (but delayed due to the social media blackout protest against racism) Scottish rockers Travis premiered their new single ‘A Ghost’ on Ken Bruce’s BBC Radio 2 show on June the 3rd 2020.\n\nFollowing on from ‘Kissing In The Wind’ released the previous December, the song is the second single to be taken from the bands album ‘10 Songs’ released Released October 2020. \n\nWhile the album was finished just before the worldwide lockdown for the Covid-19 pandemic, the video had yet to be filmed. <a href=\"http://www.last.fm/music/Travis/_/A+Ghost\">Read more on Last.fm</a>.",
+    "id": "Travis/_/A+Ghost",
+    "listeners": 24043,
+    "playcount": 115764,
+    "title": "A Ghost",
+    "artist": "Travis",
+    "mbid": "3d94ebba-3737-41b4-9ac9-c61dd11babef",
+    "artistMbid": "22a40b75-affc-4e69-8884-266d087e4751",
+    "tags": [
+      "post-britpop",
+      "folk rock",
+      "alternative rock",
+      "indie pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "92e5e58c-6598-4876-bdf8-fb7dd767348c",
+    "artistMbid": "22a40b75-affc-4e69-8884-266d087e4751",
+    "releaseCount": 5,
+    "artistGenres": [
+      "alternative rock",
+      "britpop",
+      "indie pop",
+      "indie rock",
+      "jangle pop",
+      "pop rock",
+      "post-britpop"
+    ],
+    "releasedAt": "2020-10-09",
+    "externalIdsArtist": {
+      "allmusic": "mn0000013508",
+      "discogs": "102983",
+      "spotify": "3bUwxJgNakzYKkqAVgZLlh",
+      "deezer": "1295",
+      "lastfm": "Travis",
+      "genius": "Travis",
+      "rateyourmusic": "travis",
+      "soundcloud": "https://soundcloud.com/travistheband",
+      "wikidata": "Q160103",
+      "youtube": "UCowh5WX6b70SpXxZvfMQE7Q"
+    }
+  }
+}

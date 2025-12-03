@@ -1,7 +1,7 @@
 {
   "youtubeId": "gVE6C6m1cR0",
   "title": "Daan - Housewife",
-  "lastFetched": "2025-11-30T20:19:09.106Z",
+  "lastFetched": "2025-12-02T01:38:46.587Z",
   "ai": {
     "title": "Housewife",
     "artist": "Daan"
@@ -25,6 +25,14 @@
     "releaseCount": 19,
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "releasedAt": "2004-04-26",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "discogs": "176383",
+      "spotify": "5rytKg8dlNhhb2nZ47y9IW",
+      "deezer": "16477",
+      "wikidata": "Q2283004"
+    }
   }
 }

@@ -1,0 +1,58 @@
+{
+  "youtubeId": "pQCMvIZquYA",
+  "title": "Boneshaker",
+  "artist": "Airbourne",
+  "lastFetched": "2025-12-03T12:01:09.927Z",
+  "odesli": {
+    "amazonMusic": "B0BY4PK7T6",
+    "amazonStore": "B0BY4PK7T6",
+    "anghami": "1091527311",
+    "spotify": "1i9mctpfTvkg0Yb1mJDQZE",
+    "yandex": "56757460",
+    "youtube": "pQCMvIZquYA",
+    "youtubeMusic": "pQCMvIZquYA"
+  },
+  "lastfm": {
+    "id": "Airbourne/_/Boneshaker",
+    "listeners": 20477,
+    "playcount": 77524,
+    "title": "Boneshaker",
+    "artist": "Airbourne",
+    "mbid": "3640c0c6-7571-41a8-8fc5-f1b35b978fb7",
+    "artistMbid": "5365f55c-b1e1-48f9-b09f-078f7a14cb1f",
+    "tags": [
+      "hard rock",
+      "2010s",
+      "2019"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ed998e1a-fcc0-4505-87fe-0e16439606bb",
+    "artistMbid": "5365f55c-b1e1-48f9-b09f-078f7a14cb1f",
+    "releaseCount": 6,
+    "genres": [
+      "hard rock"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "hard rock",
+      "rock"
+    ],
+    "releasedAt": "2019-10-25",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000930444",
+      "discogs": "165993",
+      "spotify": "6urzdpGY5yUimWZsgJUoTb",
+      "deezer": "64106",
+      "lastfm": "Airbourne",
+      "genius": "Airbourne",
+      "rateyourmusic": "airbourne",
+      "soundcloud": "https://soundcloud.com/airbournerock",
+      "napster": "airbourne",
+      "wikidata": "Q408139",
+      "wikipedia": "Airbourne_(band)",
+      "youtube": "UCn8IrY8ivelsFK4uphbJbHA"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "youtubeId": "PtksNW7Bni4",
+  "title": "A Symphony of Shadows",
+  "artist": "The Shadow Theory",
+  "lastFetched": "2025-12-03T11:55:06.292Z",
+  "odesli": {
+    "amazonMusic": "B016549Q7W",
+    "amazonStore": "B016549Q7W",
+    "pandora": "TR:7220715",
+    "tidal": "52100894",
+    "youtube": "PtksNW7Bni4",
+    "youtubeMusic": "PtksNW7Bni4"
+  },
+  "lastfm": {
+    "id": "The+Shadow+Theory/_/A+Symphony+of+Shadows",
+    "listeners": 1196,
+    "playcount": 4682,
+    "title": "A Symphony of Shadows",
+    "artist": "The Shadow Theory",
+    "mbid": "02a7478d-f8ef-3d70-9843-405d4aa36b84",
+    "artistMbid": "5cfc4258-2b71-486c-af7c-5973453eebed",
+    "tags": [
+      "progressive metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "72a6cf18-e5a4-4238-925e-0c816a36d1c3",
+    "artistMbid": "5cfc4258-2b71-486c-af7c-5973453eebed",
+    "releaseCount": 1,
+    "releasedAt": "2010-11-19"
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "_eiaceJG4us",
   "title": "Ain't That Asking For Trouble",
   "artist": "Stevie Wonder",
-  "lastFetched": "2025-11-23T16:42:52.377Z",
+  "lastFetched": "2025-12-02T01:29:26.316Z",
   "odesli": {
     "amazonMusic": "B07QQFLSDR",
     "amazonStore": "B07QQFLSDR",
@@ -39,7 +39,21 @@
       "soul"
     ],
     "trackMbid": "5e94762a-9e03-372a-8cf9-d765d383794a",
-    "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e"
+    "artistMbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000622805",
+      "discogs": "649674",
+      "spotify": "7guDJrEfX3qb6FEbdPA5qi",
+      "deezer": "166",
+      "lastfm": "Stevie+Wonder",
+      "genius": "Stevie-wonder",
+      "rateyourmusic": "stevie_wonder",
+      "soundcloud": "https://soundcloud.com/stevie-wonder-official",
+      "napster": "stevie-wonder",
+      "wikidata": "Q714",
+      "youtube": "UCR83RRXHzXrEQbu_ZQmPMSg"
+    }
   },
   "lastfm": {
     "id": "Stevie+Wonder/_/Ain%27t+That+Asking+For+Trouble",

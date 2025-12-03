@@ -1,0 +1,69 @@
+{
+  "youtubeId": "CzHfyOGWDSA",
+  "title": "Nozomi",
+  "artist": "Vitalic",
+  "lastFetched": "2025-12-03T11:45:17.689Z",
+  "odesli": {
+    "amazonMusic": "B0F74S5HX7",
+    "amazonStore": "B0F74S5HX7",
+    "audiomack": "66984694",
+    "anghami": "1142118728",
+    "boomplay": "128623269",
+    "deezer": "2615578112",
+    "appleMusic": "1725172468",
+    "itunes": "1725172468",
+    "napster": "tra.243247835",
+    "pandora": "TR:113868588",
+    "soundcloud": "vitalicofficial/nozomi",
+    "spotify": "1C0ZjRB5fVpI6pXnrePGOk",
+    "tidal": "66892138",
+    "yandex": "44588864",
+    "youtube": "CzHfyOGWDSA",
+    "youtubeMusic": "CzHfyOGWDSA"
+  },
+  "lastfm": {
+    "id": "Vitalic/_/Nozomi",
+    "listeners": 11549,
+    "playcount": 43337,
+    "title": "Nozomi",
+    "artist": "Vitalic",
+    "mbid": "0ae188ca-1d86-48ca-9476-becb8808d6a8",
+    "artistMbid": "1f064e2d-aa55-4631-8f62-e2c14bbe1f4e",
+    "tags": [
+      "electronic",
+      "electro",
+      "techno",
+      "dance",
+      "electronica"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8666faee-d6d9-4ae1-86e7-a21534c901bd",
+    "artistMbid": "1f064e2d-aa55-4631-8f62-e2c14bbe1f4e",
+    "releaseCount": 10,
+    "genres": [
+      "electro house"
+    ],
+    "artistGenres": [
+      "electro house",
+      "electroclash",
+      "electronic",
+      "french electro",
+      "progressive house",
+      "synth-pop",
+      "techno"
+    ],
+    "releasedAt": "2017-01-20",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000220024",
+      "discogs": "12214",
+      "spotify": "4M84umUNRbZy1mJleyyRM9",
+      "deezer": "641",
+      "lastfm": "Vitalic",
+      "rateyourmusic": "vitalic",
+      "soundcloud": "https://soundcloud.com/vitalicofficial",
+      "wikidata": "Q455732"
+    }
+  }
+}

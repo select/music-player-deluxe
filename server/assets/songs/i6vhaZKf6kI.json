@@ -2,7 +2,7 @@
   "youtubeId": "i6vhaZKf6kI",
   "title": "Besame Mucho",
   "artist": "The Ventures",
-  "lastFetched": "2025-11-30T22:55:55.428Z",
+  "lastFetched": "2025-12-02T01:41:22.320Z",
   "odesli": {
     "amazonMusic": "B00CTHHS5W",
     "amazonStore": "B00CTHHS5W",
@@ -42,6 +42,18 @@
     "artistGenres": [
       "pop rock",
       "surf rock"
-    ]
+    ],
+    "releasedAt": "1962-05",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000921965",
+      "discogs": "65376",
+      "spotify": "2GaayiIs1kcyNqRXQuzp35",
+      "deezer": "14156",
+      "lastfm": "The+Ventures",
+      "rateyourmusic": "the_ventures",
+      "wikidata": "Q770732",
+      "youtube": "UCBTyn_Hs6HQQ6poBYsiQiVw"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "pzVgIop0f0Y",
   "title": "The doors ft Scott Weiland - Break on through",
-  "lastFetched": "2025-11-30T19:58:33.980Z",
+  "lastFetched": "2025-12-02T01:53:27.115Z",
   "ai": {
     "title": "Break on through",
     "artist": "The doors"
@@ -24,6 +24,21 @@
       "psychedelic rock",
       "rock",
       "rock and roll"
-    ]
+    ],
+    "releasedAt": "1970-08-29",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000114342",
+      "discogs": "56798",
+      "spotify": "22WZ7M8sxp5THdruNY3gXt",
+      "deezer": "847",
+      "lastfm": "The+Doors",
+      "genius": "The-doors",
+      "rateyourmusic": "the_doors",
+      "soundcloud": "https://soundcloud.com/thedoors",
+      "napster": "the-doors",
+      "wikidata": "Q45354",
+      "youtube": "UCdx4iSJpg33jNmd9auQT04Q"
+    }
   }
 }

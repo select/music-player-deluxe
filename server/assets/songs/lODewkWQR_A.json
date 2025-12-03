@@ -2,7 +2,7 @@
   "youtubeId": "lODewkWQR_A",
   "title": "Mathematische Modelle",
   "artist": "Der Zyklus",
-  "lastFetched": "2025-11-19T17:10:56.241Z",
+  "lastFetched": "2025-12-02T01:45:54.078Z",
   "odesli": {
     "amazonMusic": "B00IUT9JAK",
     "amazonStore": "B00IUT9JAK",
@@ -30,6 +30,12 @@
   },
   "musicbrainz": {
     "trackMbid": "0bb979a4-2fe9-301e-959c-187c3acd8046",
-    "artistMbid": "198360cf-8b5a-4294-9402-9e5d40e71872"
+    "artistMbid": "198360cf-8b5a-4294-9402-9e5d40e71872",
+    "externalIdsArtist": {
+      "discogs": "13114",
+      "spotify": "3oMzxer7m75NN19ckIWSn8",
+      "deezer": "9682",
+      "rateyourmusic": "der_zyklus"
+    }
   }
 }

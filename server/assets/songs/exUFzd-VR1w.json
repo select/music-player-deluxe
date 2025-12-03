@@ -1,7 +1,7 @@
 {
   "youtubeId": "exUFzd-VR1w",
   "title": "Beatsteaks - Hey Du (HQ) LIVE @ Rock am Ring 2011",
-  "lastFetched": "2025-11-30T20:17:11.120Z",
+  "lastFetched": "2025-12-02T01:36:52.904Z",
   "ai": {
     "title": "Hey Du",
     "artist": "Beatsteaks"
@@ -35,6 +35,20 @@
     "artistGenres": [
       "alternative rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2002-12-21",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000162631",
+      "discogs": "255526",
+      "spotify": "79qRD2IfSr3pmuYUficMWX",
+      "deezer": "2672",
+      "lastfm": "Beatsteaks",
+      "genius": "Beatsteaks",
+      "rateyourmusic": "beatsteaks",
+      "soundcloud": "https://soundcloud.com/beatsteaks",
+      "wikidata": "Q257652",
+      "youtube": "UCRYgt1W1Sq59E2pQivpYj0A"
+    }
   }
 }

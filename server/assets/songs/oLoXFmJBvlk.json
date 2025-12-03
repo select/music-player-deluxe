@@ -2,7 +2,7 @@
   "youtubeId": "oLoXFmJBvlk",
   "title": "Rat In Mi Kitchen",
   "artist": "UB40",
-  "lastFetched": "2025-11-30T22:34:14.139Z",
+  "lastFetched": "2025-12-02T01:50:51.054Z",
   "odesli": {
     "amazonMusic": "B000S5626I",
     "amazonStore": "B000S5626I",
@@ -40,6 +40,19 @@
       "reggae",
       "reggae-pop",
       "roots reggae"
-    ]
+    ],
+    "releasedAt": "1986-07-28",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000181376",
+      "discogs": "21767",
+      "spotify": "69MEO1AADKg1IZrq2XLzo5",
+      "deezer": "165",
+      "lastfm": "UB40",
+      "rateyourmusic": "ub40",
+      "soundcloud": "https://soundcloud.com/ub40-official",
+      "wikidata": "Q560153",
+      "youtube": "UC6jd0WZLAp0LGcAyiJiDgBQ"
+    }
   }
 }

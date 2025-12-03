@@ -1,7 +1,7 @@
 {
   "youtubeId": "sWir94wTwS8",
   "title": "Deadsoul Tribe - The Gossamer Strand",
-  "lastFetched": "2025-11-30T21:07:34.704Z",
+  "lastFetched": "2025-12-02T01:57:39.356Z",
   "ai": {
     "title": "The Gossamer Strand",
     "artist": "Deadsoul Tribe"
@@ -27,6 +27,20 @@
     "artistGenres": [
       "progressive metal",
       "progressive rock"
-    ]
+    ],
+    "releasedAt": "2007-08-24",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000185029",
+      "discogs": "252324",
+      "spotify": "14FTVRqyet2DMeLgW58gVJ",
+      "deezer": "16234",
+      "lastfm": "Deadsoul+Tribe",
+      "genius": "Deadsoul-tribe",
+      "rateyourmusic": "deadsoul_tribe",
+      "soundcloud": "https://soundcloud.com/deadsoultribe",
+      "wikidata": "Q692221",
+      "youtube": "UCMgvdA_DecWzqKY9ac4yjnQ"
+    }
   }
 }

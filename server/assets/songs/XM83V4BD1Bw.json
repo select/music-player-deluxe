@@ -2,7 +2,7 @@
   "youtubeId": "XM83V4BD1Bw",
   "title": "Strasbourg / St. Denis",
   "artist": "Roy Hargrove",
-  "lastFetched": "2025-11-23T16:41:32.915Z",
+  "lastFetched": "2025-12-02T01:24:02.353Z",
   "odesli": {
     "amazonMusic": "B001N65IRU",
     "amazonStore": "B001N65IRU",
@@ -33,7 +33,15 @@
       "post-bop"
     ],
     "trackMbid": "de65cda9-006f-44c2-bbbc-6c52135a3f06",
-    "artistMbid": "8cdf780e-b909-4d25-9060-e552e95b3414"
+    "artistMbid": "8cdf780e-b909-4d25-9060-e552e95b3414",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000345426",
+      "discogs": "99438",
+      "deezer": "5890",
+      "rateyourmusic": "roy-hargrove",
+      "wikidata": "Q648750"
+    }
   },
   "lastfm": {
     "id": "Roy+Hargrove/_/Strasbourg+%2F+St.+Denis",

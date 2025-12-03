@@ -3,7 +3,7 @@
   "artist": "Wise Guys",
   "duration": 159,
   "youtubeId": "xHGGmTbd9Hc",
-  "lastFetched": "2025-11-19T04:21:59.560Z",
+  "lastFetched": "2025-12-02T02:04:12.192Z",
   "odesli": {
     "amazonMusic": "B000QYXMJQ",
     "amazonStore": "B000QYXMJQ",
@@ -24,7 +24,16 @@
     ],
     "trackMbid": "3ec21bb6-6b78-452b-8cab-0d4b72af7fee",
     "artistMbid": "b86bf49a-9097-4faf-9ad5-ada6dd8fe459",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "1997-08-29",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "219855",
+      "spotify": "11YTrgsi6VjRCkExQBY13k",
+      "deezer": "13316",
+      "rateyourmusic": "wise_guys_f1",
+      "wikidata": "Q448458"
+    }
   },
   "lastfm": {
     "id": "Wise+Guys/_/Wie+kann+es+sein",

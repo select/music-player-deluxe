@@ -2,7 +2,7 @@
   "youtubeId": "rEBxmQR2B9g",
   "title": "Lose Your Way",
   "artist": "Sophie B. Hawkins",
-  "lastFetched": "2025-11-30T21:54:54.515Z",
+  "lastFetched": "2025-12-02T01:55:26.608Z",
   "odesli": {
     "amazonMusic": "B001RXFYXC",
     "amazonStore": "B001RXFYXC",
@@ -37,6 +37,19 @@
     "artistGenres": [
       "pop",
       "rock"
-    ]
+    ],
+    "releasedAt": "1999-04-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000754055",
+      "discogs": "137751",
+      "spotify": "3gdIwZY6Q3RXhDteYr4ZvC",
+      "deezer": "8958",
+      "lastfm": "Sophie+B.+Hawkins",
+      "genius": "Sophie-b-hawkins",
+      "rateyourmusic": "sophie_b__hawkins",
+      "soundcloud": "https://soundcloud.com/sophie-b-hawkins-official",
+      "wikidata": "Q292092"
+    }
   }
 }

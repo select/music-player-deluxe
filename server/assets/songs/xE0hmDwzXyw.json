@@ -1,0 +1,41 @@
+{
+  "youtubeId": "xE0hmDwzXyw",
+  "title": "Yamasuki: Yama Yama (1971)",
+  "lastFetched": "2025-12-03T12:07:31.359Z",
+  "ai": {
+    "title": "Yama Yama",
+    "artist": "Yamasuki"
+  },
+  "lastfm": {
+    "id": "Yamasuki/_/Yama+Yama",
+    "listeners": 22576,
+    "playcount": 74569,
+    "title": "Yama Yama",
+    "artist": "Yamasuki",
+    "tags": [
+      "70s",
+      "psychedelic",
+      "pop",
+      "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1afff730-9f01-40ad-9186-0e2bca8ff5ff",
+    "artistMbid": "fe34cd28-2e12-4429-b0aa-f35db26f11b1",
+    "releaseCount": 5,
+    "artistGenres": [
+      "pop",
+      "psychedelic pop"
+    ],
+    "releasedAt": "1971",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "discogs": "309070",
+      "spotify": "3xLz7xXbJ4thF9a0sU81Ir",
+      "deezer": "5881549",
+      "lastfm": "Yamasuki",
+      "rateyourmusic": "yamasuki",
+      "wikidata": "Q112308899"
+    }
+  }
+}

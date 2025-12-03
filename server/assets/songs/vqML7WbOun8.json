@@ -2,7 +2,7 @@
   "youtubeId": "vqML7WbOun8",
   "title": "Blood And Roses",
   "artist": "The Smithereens",
-  "lastFetched": "2025-11-30T21:43:17.673Z",
+  "lastFetched": "2025-12-02T02:02:14.991Z",
   "odesli": {
     "amazonMusic": "B002CC0SYC",
     "amazonStore": "B002CC0SYC",
@@ -46,6 +46,21 @@
       "alternative rock",
       "hard rock",
       "power pop"
-    ]
+    ],
+    "releasedAt": "1986",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000898479",
+      "bandcamp": "https://thesmithereens.bandcamp.com/",
+      "discogs": "377441",
+      "spotify": "06KgaEpSluofkcChSo7TNr",
+      "deezer": "7568",
+      "lastfm": "The+Smithereens",
+      "genius": "The-smithereens",
+      "rateyourmusic": "the_smithereens",
+      "soundcloud": "https://soundcloud.com/the-smithereens-official",
+      "youtube": "UC5jihNlULssDHWAG2QTOHlQ",
+      "wikidata": "Q128443"
+    }
   }
 }

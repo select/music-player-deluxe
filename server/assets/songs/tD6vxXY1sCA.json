@@ -2,7 +2,7 @@
   "youtubeId": "tD6vxXY1sCA",
   "title": "Зелені Очі",
   "artist": "Океан Ельзи",
-  "lastFetched": "2025-11-23T16:51:57.420Z",
+  "lastFetched": "2025-12-02T01:58:40.163Z",
   "musicbrainz": {
     "artistTags": [
       "rock",
@@ -12,7 +12,16 @@
       "rock"
     ],
     "trackMbid": "5090477b-1581-4780-82db-4caa1e1a5deb",
-    "artistMbid": "87a417d3-f118-43e0-bece-3de1bd90fce0"
+    "artistMbid": "87a417d3-f118-43e0-bece-3de1bd90fce0",
+    "artistCountry": "UA",
+    "externalIdsArtist": {
+      "bandcamp": "https://okeanelzy.bandcamp.com/",
+      "discogs": "125748",
+      "spotify": "6NTzEgUmN1PIBIYEHhf1kS",
+      "lastfm": "%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD+%D0%95%D0%BB%D1%8C%D0%B7%D0%B8",
+      "soundcloud": "https://soundcloud.com/okean-elzy",
+      "wikidata": "Q1008489"
+    }
   },
   "lastfm": {
     "id": "%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD+%D0%95%D0%BB%D1%8C%D0%B7%D0%B8/_/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%96+%D0%9E%D1%87%D1%96",

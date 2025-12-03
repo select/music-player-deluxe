@@ -2,7 +2,7 @@
   "youtubeId": "fV4DiAyExN0",
   "title": "The Reason",
   "artist": "Hoobastank",
-  "lastFetched": "2025-11-30T22:48:54.274Z",
+  "lastFetched": "2025-12-02T01:37:30.291Z",
   "odesli": {
     "amazonMusic": "B0040PWO00",
     "amazonStore": "B0040PWO00",
@@ -41,7 +41,21 @@
       "nu metal",
       "pop rock",
       "post-grunge"
-    ]
+    ],
+    "releasedAt": "2004-07-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000822910",
+      "discogs": "252593",
+      "spotify": "2MqhkhX4npxDZ62ObR5ELO",
+      "deezer": "490",
+      "lastfm": "Hoobastank",
+      "genius": "Hoobastank",
+      "rateyourmusic": "hoobastank",
+      "soundcloud": "https://soundcloud.com/hoobastank-official",
+      "napster": "hoobastank",
+      "wikidata": "Q49724"
+    }
   },
   "lastfm": {
     "id": "Hoobastank/_/The+Reason",

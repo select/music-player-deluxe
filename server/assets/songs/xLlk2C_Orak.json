@@ -2,7 +2,7 @@
   "youtubeId": "xLlk2C_Orak",
   "title": "Slow Drag",
   "artist": "Smokey Joe & The Kid",
-  "lastFetched": "2025-12-01T13:01:52.934Z",
+  "lastFetched": "2025-12-02T02:04:25.142Z",
   "odesli": {
     "amazonMusic": "B08G8XF6RM",
     "amazonStore": "B08G8XF6RM",
@@ -34,6 +34,16 @@
   "musicbrainz": {
     "trackMbid": "c820f3fb-2bd8-48b4-b9e4-7b147691dc87",
     "artistMbid": "e9e0a3e6-6403-4eb9-87e4-81decb8fb03f",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2014-12-01",
+    "externalIdsArtist": {
+      "bandcamp": "https://smokeyjoethekid.bandcamp.com/",
+      "discogs": "3775989",
+      "spotify": "3dITsREBtJGzkh8z3AXWKQ",
+      "deezer": "2230541",
+      "soundcloud": "https://soundcloud.com/smokeyjoethekid",
+      "wikidata": "Q55599907",
+      "youtube": "UC8D8P_vxFASTOmHaQc0KQAg"
+    }
   }
 }

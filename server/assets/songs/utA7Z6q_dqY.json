@@ -2,7 +2,7 @@
   "youtubeId": "utA7Z6q_dqY",
   "title": "Mullah Said",
   "artist": "Muslimgauze",
-  "lastFetched": "2025-11-23T16:52:43.128Z",
+  "lastFetched": "2025-12-02T02:00:58.784Z",
   "odesli": {
     "amazonMusic": "B00GM9LP52",
     "amazonStore": "B00GM9LP52",
@@ -31,7 +31,17 @@
       "experimental"
     ],
     "trackMbid": "4498500a-7afc-4251-a681-3c47baba84e1",
-    "artistMbid": "06fc1189-d7cd-4344-b09a-51cd82cfefe5"
+    "artistMbid": "06fc1189-d7cd-4344-b09a-51cd82cfefe5",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000620392",
+      "bandcamp": "https://muslimgauze.bandcamp.com/",
+      "discogs": "484",
+      "spotify": "7bO9rUH5Yd2Td8S1TMoBUP",
+      "deezer": "6934",
+      "rateyourmusic": "muslimgauze",
+      "wikidata": "Q1955445"
+    }
   },
   "lastfm": {
     "id": "Muslimgauze/_/Mullah+Said",

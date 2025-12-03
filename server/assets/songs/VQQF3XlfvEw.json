@@ -2,7 +2,7 @@
   "youtubeId": "VQQF3XlfvEw",
   "title": "You Gave Me Love",
   "artist": "Crown Heights Affair",
-  "lastFetched": "2025-11-30T22:16:10.118Z",
+  "lastFetched": "2025-12-02T01:21:13.544Z",
   "lastfm": {
     "title": "You Gave Me Love",
     "artist": "Crown Heights Affair",
@@ -24,6 +24,17 @@
     "releaseCount": 1,
     "artistGenres": [
       "funk"
-    ]
+    ],
+    "releasedAt": "2003-09-08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000782262",
+      "discogs": "17958",
+      "spotify": "3X9xSaKYs3EY8l74Hgy5rz",
+      "deezer": "13578",
+      "lastfm": "Crown%20Heights%20Affair",
+      "rateyourmusic": "crown-heights-affair",
+      "wikidata": "Q357559"
+    }
   }
 }

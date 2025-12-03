@@ -1,0 +1,48 @@
+{
+  "youtubeId": "TjbZI9lvKYg",
+  "title": "Remove Your Mask - Wolfmother",
+  "lastFetched": "2025-12-03T12:04:43.360Z",
+  "ai": {
+    "title": "Remove Your Mask",
+    "artist": "Wolfmother"
+  },
+  "lastfm": {
+    "id": "Wolfmother/_/Remove+Your+Mask",
+    "listeners": 1152,
+    "playcount": 4390,
+    "title": "Remove Your Mask",
+    "artist": "Wolfmother",
+    "mbid": "30d50dc5-392a-4515-88fe-522fe39b55bd",
+    "artistMbid": "f0c8f75f-8736-4b1d-b312-9349fcff321d",
+    "tags": [
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "be46654d-bbc8-4859-bbe9-e221ec273195",
+    "artistMbid": "f0c8f75f-8736-4b1d-b312-9349fcff321d",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative rock",
+      "blues rock",
+      "hard rock",
+      "psychedelic rock",
+      "rock"
+    ],
+    "releasedAt": "2016-02-19",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000086250",
+      "bandcamp": "https://wolfmother.bandcamp.com/",
+      "discogs": "389911",
+      "spotify": "3yEnArbNHyTCwMRvD9SBy4",
+      "deezer": "5359",
+      "lastfm": "Wolfmother",
+      "rateyourmusic": "wolfmother",
+      "soundcloud": "https://soundcloud.com/wolfmother-official",
+      "napster": "wolfmother",
+      "wikidata": "Q736766",
+      "youtube": "UCledROUfeP9bglqpKqeUgwQ"
+    }
+  }
+}

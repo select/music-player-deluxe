@@ -1,7 +1,7 @@
 {
   "youtubeId": "x5dDCXtjHH4",
   "title": "ZEN ZEBRA - Lake Lauer",
-  "lastFetched": "2025-11-30T20:38:07.252Z",
+  "lastFetched": "2025-12-02T02:03:57.808Z",
   "ai": {
     "title": "Lake Lauer",
     "artist": "ZEN ZEBRA"
@@ -24,6 +24,11 @@
   "musicbrainz": {
     "trackMbid": "0bb1432f-e1e9-4160-b1b6-e2748a025f2b",
     "artistMbid": "e92a75d7-428b-468f-b5bd-83c1fbde7081",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2012-10",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "2079301"
+    }
   }
 }

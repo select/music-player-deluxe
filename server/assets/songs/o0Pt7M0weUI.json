@@ -2,7 +2,7 @@
   "youtubeId": "o0Pt7M0weUI",
   "title": "Wish I Knew You",
   "artist": "The Revivalists",
-  "lastFetched": "2025-11-30T21:00:51.362Z",
+  "lastFetched": "2025-12-02T01:50:19.836Z",
   "odesli": {
     "amazonMusic": "B01LZW4QIM",
     "amazonStore": "B01LZW4QIM",
@@ -43,6 +43,18 @@
     "genres": [
       "alternative rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2015-07-15",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002026581",
+      "bandcamp": "https://therevivalists.bandcamp.com/",
+      "discogs": "3715914",
+      "spotify": "5kuJibJcwOC53s3OkoGMRA",
+      "deezer": "486301",
+      "lastfm": "The%20Revivalists",
+      "rateyourmusic": "the_revivalists",
+      "wikidata": "Q16929773"
+    }
   }
 }

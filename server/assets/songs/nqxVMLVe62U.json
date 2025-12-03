@@ -2,7 +2,7 @@
   "youtubeId": "nqxVMLVe62U",
   "title": "Blame It on the Boogie",
   "artist": "The Jacksons",
-  "lastFetched": "2025-11-30T23:09:25.435Z",
+  "lastFetched": "2025-12-02T01:50:00.401Z",
   "odesli": {
     "amazonMusic": "B08TKJTBTG",
     "amazonStore": "B08TKJTBTG",
@@ -36,7 +36,19 @@
       "pop",
       "pop soul",
       "soul"
-    ]
+    ],
+    "releasedAt": "2003-05-12",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000083013",
+      "discogs": "41157",
+      "spotify": "2yrbLiuBmc9j81lTX3XUuI",
+      "deezer": "980",
+      "rateyourmusic": "the_jacksons",
+      "soundcloud": "https://soundcloud.com/hayvenhurst",
+      "wikidata": "Q43267",
+      "youtube": "UCG16tbsOLv3EsQhhPFOknjQ"
+    }
   },
   "lastfm": {
     "id": "The+Jacksons/_/Blame+It+on+the+Boogie",

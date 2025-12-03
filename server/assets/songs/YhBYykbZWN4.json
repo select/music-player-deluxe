@@ -1,7 +1,7 @@
 {
   "youtubeId": "YhBYykbZWN4",
   "title": "Nitin Sawhney - Koyal (Songbird)",
-  "lastFetched": "2025-11-30T20:59:49.458Z",
+  "lastFetched": "2025-12-02T01:26:38.334Z",
   "ai": {
     "title": "Koyal (Songbird)",
     "artist": "Nitin Sawhney"
@@ -35,6 +35,19 @@
       "nu jazz",
       "r&b",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2005-05-02",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000422297",
+      "bandcamp": "https://nitin.bandcamp.com/",
+      "discogs": "2671",
+      "spotify": "5NCKpzuowtihcIrIHFjKbJ",
+      "deezer": "1162",
+      "lastfm": "Nitin+Sawhney",
+      "rateyourmusic": "nitin_sawhney",
+      "soundcloud": "https://soundcloud.com/nitinsawhney",
+      "wikidata": "Q1396434"
+    }
   }
 }

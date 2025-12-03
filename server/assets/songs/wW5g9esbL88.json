@@ -1,0 +1,42 @@
+{
+  "youtubeId": "wW5g9esbL88",
+  "title": "HEY SIRI",
+  "artist": "Stacks102",
+  "lastFetched": "2025-12-03T11:42:14.027Z",
+  "odesli": {
+    "amazonMusic": "B088FYSJ15",
+    "amazonStore": "B088FYSJ15",
+    "audiomack": "13359741",
+    "deezer": "978372252",
+    "appleMusic": "1512784977",
+    "itunes": "1512784977",
+    "napster": "tra.479378009",
+    "pandora": "TR:32442997",
+    "soundcloud": "user-266783689/hey-siri-feat-skoob102",
+    "spotify": "5QOOQK84Rtezt6XJvctork",
+    "tidal": "143084445",
+    "yandex": "66793862",
+    "youtube": "wW5g9esbL88",
+    "youtubeMusic": "wW5g9esbL88"
+  },
+  "lastfm": {
+    "id": "Stacks102/_/HEY+SIRI",
+    "listeners": 1058,
+    "playcount": 7789,
+    "title": "HEY SIRI",
+    "artist": "Stacks102",
+    "artistMbid": "aa61d65d-0bfb-4115-8674-401b911b3028"
+  },
+  "musicbrainz": {
+    "trackMbid": "45f78692-65f6-46c0-bd7b-f595898b646d",
+    "artistMbid": "aa61d65d-0bfb-4115-8674-401b911b3028",
+    "releaseCount": 1,
+    "releasedAt": "2020-06-05",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "6137635",
+      "spotify": "32AAxPlW6sOK0nopTJM7sv",
+      "deezer": "13106953"
+    }
+  }
+}

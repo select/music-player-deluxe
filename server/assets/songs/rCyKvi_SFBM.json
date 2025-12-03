@@ -4,7 +4,7 @@
   "album": "LUV?",
   "duration": 157,
   "youtubeId": "rCyKvi_SFBM",
-  "lastFetched": "2025-11-19T04:29:05.214Z",
+  "lastFetched": "2025-12-02T01:55:24.567Z",
   "odesli": {
     "amazonMusic": "B0F393MY88",
     "amazonStore": "B0F393MY88",
@@ -25,7 +25,20 @@
       "uk drill"
     ],
     "trackMbid": "ce16d63b-6330-4735-a3ef-4c780c5bd46a",
-    "artistMbid": "57dd4661-9f78-4442-8836-482fab983008"
+    "artistMbid": "57dd4661-9f78-4442-8836-482fab983008",
+    "releasedAt": "2025-04-24",
+    "externalIdsArtist": {
+      "allmusic": "mn0003878383",
+      "discogs": "7547173",
+      "spotify": "2PJEagPIxaBugeMjIyKVXF",
+      "deezer": "507896",
+      "lastfm": "Aitch",
+      "genius": "Aitch",
+      "rateyourmusic": "aitch-1",
+      "soundcloud": "https://soundcloud.com/officialaitch",
+      "wikidata": "Q66685938",
+      "youtube": "UCi1z2e3LwosX3kvAbWdBB2A"
+    }
   },
   "lastfm": {
     "id": "Aitch/_/LUV%3F",

@@ -2,7 +2,7 @@
   "youtubeId": "_4C7H6fXmVY",
   "title": "Turning Sheep into Goats",
   "artist": "Rishloo",
-  "lastFetched": "2025-11-30T21:58:52.431Z",
+  "lastFetched": "2025-12-02T01:28:33.034Z",
   "odesli": {
     "amazonMusic": "B0032AIF0M",
     "amazonStore": "B0032AIF0M",
@@ -46,6 +46,16 @@
       "progressive",
       "progressive metal",
       "progressive rock"
-    ]
+    ],
+    "releasedAt": "2009-12-08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "2593457",
+      "deezer": "407758",
+      "lastfm": "Rishloo",
+      "rateyourmusic": "rishloo",
+      "soundcloud": "https://soundcloud.com/rishloo",
+      "wikidata": "Q3936957"
+    }
   }
 }

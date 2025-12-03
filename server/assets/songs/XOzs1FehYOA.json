@@ -2,7 +2,7 @@
   "youtubeId": "XOzs1FehYOA",
   "title": "My Own Summer (Shove It)",
   "artist": "Deftones",
-  "lastFetched": "2025-11-19T17:12:27.911Z",
+  "lastFetched": "2025-12-02T01:24:09.342Z",
   "odesli": {
     "amazonMusic": "B07VVD8BZ2",
     "amazonStore": "B07VVD8BZ2",
@@ -30,7 +30,22 @@
       "alternative rock"
     ],
     "trackMbid": "7615e831-dc40-3e3a-9c79-2c59fbe49add",
-    "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46"
+    "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000813946",
+      "bandcamp": "https://deftones.bandcamp.com/",
+      "discogs": "12210",
+      "spotify": "6Ghvu1VvMGScGpOUJBAHNH",
+      "deezer": "535",
+      "lastfm": "Deftones",
+      "genius": "Deftones",
+      "rateyourmusic": "deftones",
+      "soundcloud": "https://soundcloud.com/deftones_official",
+      "napster": "deftones",
+      "wikidata": "Q485039",
+      "youtube": "UCXQtyZ6gWbOYR5B8Sc2sr3g"
+    }
   },
   "lastfm": {
     "id": "Deftones/_/My+Own+Summer+(Shove+It)",

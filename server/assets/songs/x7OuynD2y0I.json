@@ -2,7 +2,7 @@
   "youtubeId": "x7OuynD2y0I",
   "title": "Jugend ohne Gott gegen Faschismus",
   "artist": "Tocotronic",
-  "lastFetched": "2025-11-23T16:53:35.630Z",
+  "lastFetched": "2025-12-02T02:04:05.507Z",
   "odesli": {
     "amazonMusic": "B09FYDL81H",
     "amazonStore": "B09FYDL81H",
@@ -28,7 +28,24 @@
       "rock"
     ],
     "trackMbid": "d717828e-34f1-4017-84e9-0fb628efb6bb",
-    "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19"
+    "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19",
+    "releasedAt": "2021-09-24",
+    "artistCountry": "DE",
+    "externalIdsTrack": {
+      "spotify": "7F1bOVxReGBgfjOkVbVhl3"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000611087",
+      "discogs": "19605",
+      "spotify": "4WOaecAM3RMMmrbZzNx0vu",
+      "deezer": "3472",
+      "lastfm": "Tocotronic",
+      "genius": "Tocotronic",
+      "rateyourmusic": "tocotronic",
+      "soundcloud": "https://soundcloud.com/rockotronic",
+      "wikidata": "Q11890",
+      "youtube": "UCdvyuUBl9V6bHqoTzPtUiWA"
+    }
   },
   "lastfm": {
     "id": "Tocotronic/_/Jugend+ohne+Gott+gegen+Faschismus",

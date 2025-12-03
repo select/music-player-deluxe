@@ -2,7 +2,7 @@
   "youtubeId": "ewvkauIMmbQ",
   "title": "Kommienezuspadt",
   "artist": "Tom Waits",
-  "lastFetched": "2025-11-30T19:46:47.039Z",
+  "lastFetched": "2025-12-02T01:36:48.643Z",
   "odesli": {
     "amazonMusic": "B07ZMH678Z",
     "amazonStore": "B07ZMH678Z",
@@ -58,6 +58,19 @@
       "piano blues",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2002-05-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000615119",
+      "bandcamp": "https://tomwaits.bandcamp.com/",
+      "discogs": "82294",
+      "spotify": "7x83XhcMbOTl1UdYsPTuZM",
+      "deezer": "1128",
+      "lastfm": "Tom+Waits",
+      "genius": "Tom-waits",
+      "rateyourmusic": "tom_waits",
+      "wikidata": "Q184805"
+    }
   }
 }

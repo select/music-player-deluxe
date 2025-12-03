@@ -2,7 +2,7 @@
   "youtubeId": "azaKs-Y5T8k",
   "title": "Frisbeee",
   "artist": "Bilderbuch",
-  "lastFetched": "2025-11-23T16:43:37.528Z",
+  "lastFetched": "2025-12-02T01:31:25.406Z",
   "odesli": {
     "amazonMusic": "B07NDHB3Q9",
     "amazonStore": "B07NDHB3Q9",
@@ -33,7 +33,17 @@
       "rock"
     ],
     "trackMbid": "280e04b5-bbf8-4270-8ea5-c9a42d06b60d",
-    "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6"
+    "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "discogs": "1635431",
+      "spotify": "2ErWLckuGFl84nGmg5fwyG",
+      "deezer": "870631",
+      "rateyourmusic": "bilderbuch",
+      "soundcloud": "https://soundcloud.com/bilderbuch",
+      "wikidata": "Q860688",
+      "youtube": "UCZXCfEevpX1wOKO6a8egX3Q"
+    }
   },
   "lastfm": {
     "id": "Bilderbuch/_/Frisbeee",

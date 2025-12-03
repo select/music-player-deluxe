@@ -1,7 +1,7 @@
 {
   "youtubeId": "i2wmKcBm4Ik",
   "title": "Jacques Brel - Ne Me Quitte Pas",
-  "lastFetched": "2025-11-30T21:03:18.590Z",
+  "lastFetched": "2025-12-02T01:41:12.792Z",
   "ai": {
     "title": "Ne Me Quitte Pas",
     "artist": "Jacques Brel"
@@ -35,6 +35,18 @@
       "chanson française",
       "chanson à texte",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "1972",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000121590",
+      "discogs": "164263",
+      "spotify": "4RN2vlFWepLa46qQIU2PHs",
+      "deezer": "1560",
+      "lastfm": "Jacques+Brel",
+      "genius": "Jacques-brel",
+      "rateyourmusic": "jacques_brel",
+      "wikidata": "Q1666"
+    }
   }
 }

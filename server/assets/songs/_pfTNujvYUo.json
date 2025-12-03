@@ -2,7 +2,7 @@
   "youtubeId": "_pfTNujvYUo",
   "title": "Coc' O Mary",
   "artist": "Brainticket",
-  "lastFetched": "2025-11-23T16:42:57.018Z",
+  "lastFetched": "2025-12-02T01:29:43.126Z",
   "odesli": {
     "amazonMusic": "B003A6C9KA",
     "amazonStore": "B003A6C9KA",
@@ -31,7 +31,18 @@
       "psychedelic rock"
     ],
     "trackMbid": "4e1b1d9b-4c6f-40fe-8c30-b1811ee55d6a",
-    "artistMbid": "8fbbcf55-9fc9-4e06-99dc-ef76d5816dcd"
+    "artistMbid": "8fbbcf55-9fc9-4e06-99dc-ef76d5816dcd",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000934397",
+      "bandcamp": "https://brainticket.bandcamp.com/",
+      "discogs": "89313",
+      "spotify": "0d11irn1BkpHJ6X8EyDsi7",
+      "deezer": "115549",
+      "rateyourmusic": "brainticket",
+      "wikidata": "Q388621",
+      "youtube": "UCb_xaYP7BY0SMY_Lnv9pq8A"
+    }
   },
   "lastfm": {
     "id": "Brainticket/_/Coc%27+O+Mary",

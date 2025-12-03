@@ -2,7 +2,7 @@
   "youtubeId": "Yas4Ko5WhF8",
   "title": "Still in Love Song",
   "artist": "The Stills",
-  "lastFetched": "2025-11-30T21:04:01.557Z",
+  "lastFetched": "2025-12-02T01:26:08.882Z",
   "odesli": {
     "pandora": "TR:146785",
     "soundcloud": "the-stills/still-in-love-song-2",
@@ -31,6 +31,17 @@
       "indie rock",
       "post-punk revival",
       "rock"
-    ]
+    ],
+    "releasedAt": "2003-06-17",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000473645",
+      "discogs": "189130",
+      "spotify": "0fdKgNnfYBXuLEwoSdIf76",
+      "deezer": "7382",
+      "lastfm": "The+Stills",
+      "rateyourmusic": "the_stills",
+      "wikidata": "Q630797"
+    }
   }
 }

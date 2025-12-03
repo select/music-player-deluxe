@@ -2,7 +2,7 @@
   "youtubeId": "ncaNlxvTFzg",
   "title": "Take Me to the Hospital",
   "artist": "The Prodigy",
-  "lastFetched": "2025-11-30T21:36:06.326Z",
+  "lastFetched": "2025-12-02T01:49:38.491Z",
   "odesli": {
     "amazonMusic": "B01M3VBIUK",
     "amazonStore": "B01M3VBIUK",
@@ -58,6 +58,24 @@
       "hardcore breaks",
       "rave",
       "techno"
-    ]
+    ],
+    "releasedAt": "2009-02-18",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "0zE0BJJxcJ2rjVs7IrE2tj"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000492162",
+      "bandcamp": "https://theprodigy.bandcamp.com/",
+      "discogs": "66852",
+      "spotify": "4k1ELeJKT1ISyDv8JivPpB",
+      "deezer": "85",
+      "lastfm": "The+Prodigy",
+      "genius": "The-prodigy",
+      "rateyourmusic": "the-prodigy",
+      "soundcloud": "https://soundcloud.com/theprodigy",
+      "wikidata": "Q7256860",
+      "youtube": "UCOEO40PfRXSKhslXNgS0H8Q"
+    }
   }
 }

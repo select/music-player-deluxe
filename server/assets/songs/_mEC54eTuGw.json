@@ -2,7 +2,7 @@
   "youtubeId": "_mEC54eTuGw",
   "title": "Angry",
   "artist": "The Rolling Stones",
-  "lastFetched": "2025-11-23T16:42:54.750Z",
+  "lastFetched": "2025-12-02T01:29:34.000Z",
   "odesli": {
     "amazonMusic": "B0CLB9X4Q3",
     "amazonStore": "B0CLB9X4Q3",
@@ -43,7 +43,21 @@
       "pop rock"
     ],
     "trackMbid": "06bba11d-6cd6-4a21-a406-69cc10ad9165",
-    "artistMbid": "b071f9fa-14b0-4217-8e97-eb41da73f598"
+    "artistMbid": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+    "releasedAt": "2023-09-06",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000894465",
+      "discogs": "20991",
+      "spotify": "22bE4uQ6baNwSHPVcDxLCe",
+      "deezer": "11",
+      "lastfm": "The+Rolling+Stones",
+      "genius": "The-rolling-stones",
+      "rateyourmusic": "the-rolling-stones",
+      "soundcloud": "https://soundcloud.com/rolling-stones-official",
+      "wikidata": "Q11036",
+      "youtube": "UCNYhhkQqeFLUc-YEDcLpSYQ"
+    }
   },
   "lastfm": {
     "id": "The+Rolling+Stones/_/Angry",

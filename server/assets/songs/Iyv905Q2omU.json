@@ -1,0 +1,72 @@
+{
+  "youtubeId": "Iyv905Q2omU",
+  "title": "Pressure",
+  "artist": "Billy Joel",
+  "lastFetched": "2025-12-03T11:38:54.758Z",
+  "odesli": {
+    "amazonMusic": "B07R5QMN93",
+    "amazonStore": "B07R5QMN93",
+    "anghami": "198968",
+    "boomplay": "11412266",
+    "pandora": "TR:9956469",
+    "soundcloud": "billyjoel/pressure",
+    "spotify": "3LqvmDtXWXjF7fg8mh8iZh",
+    "tidal": "112",
+    "yandex": "666237",
+    "youtube": "Iyv905Q2omU",
+    "youtubeMusic": "Iyv905Q2omU"
+  },
+  "lastfm": {
+    "id": "Billy+Joel/_/Pressure",
+    "listeners": 174184,
+    "playcount": 1111849,
+    "title": "Pressure",
+    "artist": "Billy Joel",
+    "mbid": "6b5a8148-440f-4dc4-bd03-1bfc33ad6987",
+    "artistMbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
+    "tags": [
+      "rock",
+      "80s",
+      "classic rock",
+      "pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "179d482a-5abe-4eed-8ac1-08aec86097c3",
+    "artistMbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
+    "releaseCount": 25,
+    "genres": [
+      "classic rock",
+      "classical",
+      "new wave",
+      "piano rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "singer-songwriter"
+    ],
+    "artistGenres": [
+      "classic rock",
+      "piano rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "singer-songwriter",
+      "soft rock"
+    ],
+    "releasedAt": "1982-09-23",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000085915",
+      "discogs": "137418",
+      "spotify": "6zFYqv1mOsgBRQbae3JJ9e",
+      "deezer": "423",
+      "lastfm": "Billy+Joel",
+      "genius": "Billy-joel",
+      "rateyourmusic": "billy_joel",
+      "soundcloud": "https://soundcloud.com/billyjoel",
+      "wikidata": "Q194333",
+      "youtube": "UCGEfxrwIPBuRqxeh-3JUSkg"
+    }
+  }
+}

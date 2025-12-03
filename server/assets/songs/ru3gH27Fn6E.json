@@ -2,7 +2,7 @@
   "youtubeId": "ru3gH27Fn6E",
   "title": "So What'cha Want",
   "artist": "Beastie Boys",
-  "lastFetched": "2025-11-23T16:51:25.941Z",
+  "lastFetched": "2025-12-02T01:56:44.787Z",
   "odesli": {
     "amazonMusic": "B001U7X4FU",
     "amazonStore": "B001U7X4FU",
@@ -36,7 +36,20 @@
       "funk"
     ],
     "trackMbid": "014e78c2-c150-3c65-849e-f96d124c21fe",
-    "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53"
+    "artistMbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000038469",
+      "discogs": "10783",
+      "spotify": "03r4iKL2g2442PT9n2UKsx",
+      "deezer": "194746",
+      "lastfm": "Beastie+Boys",
+      "genius": "Beastie-boys",
+      "rateyourmusic": "beastie_boys",
+      "soundcloud": "https://soundcloud.com/beastieboys",
+      "qobuz": "43813",
+      "wikidata": "Q214039"
+    }
   },
   "lastfm": {
     "id": "Beastie+Boys/_/So+What%27cha+Want",

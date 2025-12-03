@@ -1,0 +1,40 @@
+{
+  "youtubeId": "OEDwl--KTMU",
+  "title": "Binary Sunset",
+  "artist": "The Evil Genius Orchestra",
+  "lastFetched": "2025-12-03T11:44:54.344Z",
+  "odesli": {
+    "amazonMusic": "B07YCR9KDX",
+    "amazonStore": "B07YCR9KDX",
+    "appleMusic": "1128962849",
+    "itunes": "1128962849",
+    "pandora": "TR:32308901",
+    "soundcloud": "theevilgeniusorchestra/binary-sunset",
+    "spotify": "1Mr6NbHbpOa0MvyWJpkbyi",
+    "tidal": "62448101",
+    "yandex": "29875706",
+    "youtube": "OEDwl--KTMU",
+    "youtubeMusic": "OEDwl--KTMU"
+  },
+  "lastfm": {
+    "id": "The+Evil+Genius+Orchestra/_/Binary+Sunset",
+    "listeners": 169,
+    "playcount": 534,
+    "title": "Binary Sunset",
+    "artist": "The Evil Genius Orchestra",
+    "mbid": "edeeb05c-1450-3734-a87e-b91408727690",
+    "artistMbid": "d78cbdf1-b119-421e-8b3e-da71d4f9bed6",
+    "tags": [
+      "autonomes tiki-tuka-land"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5146d2a7-1f23-4f92-bedd-97eaccc6c3a8",
+    "artistMbid": "d78cbdf1-b119-421e-8b3e-da71d4f9bed6",
+    "releaseCount": 1,
+    "releasedAt": "1999",
+    "externalIdsArtist": {
+      "discogs": "4537435"
+    }
+  }
+}

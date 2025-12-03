@@ -3,7 +3,7 @@
   "artist": "Yeah Yeah Yeahs",
   "duration": 221,
   "youtubeId": "auzfTPp4moA",
-  "lastFetched": "2025-11-19T01:37:08.752Z",
+  "lastFetched": "2025-12-02T01:31:18.017Z",
   "odesli": {
     "amazonMusic": "B001V7GDDE",
     "amazonStore": "B001V7GDDE",
@@ -38,7 +38,20 @@
     ],
     "trackMbid": "5c70fbf0-42d4-4ba5-a732-a0b960225f82",
     "artistMbid": "584c04d2-4acc-491b-8a0a-e63133f4bfc4",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000681154",
+      "bandcamp": "https://yeahyeahyeahs.bandcamp.com/",
+      "discogs": "95405",
+      "spotify": "3TNt4aUIxgfy9aoaft5Jj2",
+      "deezer": "964",
+      "lastfm": "Yeah+Yeah+Yeahs",
+      "genius": "Yeah-yeah-yeahs",
+      "rateyourmusic": "yeah_yeah_yeahs",
+      "wikidata": "Q641858",
+      "youtube": "UCK49WVAaBRnVci8fmM4NiLQ"
+    }
   },
   "lastfm": {
     "id": "Yeah+Yeah+Yeahs/_/Heads+Will+Roll",

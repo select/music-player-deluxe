@@ -2,7 +2,7 @@
   "youtubeId": "VqoyKzgkqR4",
   "title": "Square Hammer",
   "artist": "Ghost",
-  "lastFetched": "2025-11-30T19:50:03.000Z",
+  "lastFetched": "2025-12-02T01:21:38.473Z",
   "odesli": {
     "amazonMusic": "B01LRZ2LOE",
     "amazonStore": "B01LRZ2LOE",
@@ -57,6 +57,22 @@
       "psychedelic",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2016-09-16",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002616588",
+      "bandcamp": "https://ghost.bandcamp.com/",
+      "discogs": "1966143",
+      "spotify": "1Qp56T7n950O3EGMsSl81D",
+      "deezer": "8506054",
+      "lastfm": "Ghost",
+      "genius": "Ghost",
+      "rateyourmusic": "ghost-4",
+      "soundcloud": "https://soundcloud.com/thebandghost",
+      "napster": "ghost-bc",
+      "wikidata": "Q1355578",
+      "youtube": "UC08qAR-kyTJb8Xjwbo6C7ZQ"
+    }
   }
 }

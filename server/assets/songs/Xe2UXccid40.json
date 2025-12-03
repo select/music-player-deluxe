@@ -2,7 +2,7 @@
   "youtubeId": "Xe2UXccid40",
   "title": "Bei Mir Bist Du Schoen",
   "artist": "The Andrews Sisters",
-  "lastFetched": "2025-11-30T21:13:34.016Z",
+  "lastFetched": "2025-12-02T01:24:38.791Z",
   "odesli": {
     "amazonMusic": "B0761W6NGF",
     "amazonStore": "B0761W6NGF",
@@ -36,6 +36,17 @@
     "releaseCount": 3,
     "artistGenres": [
       "jazz"
-    ]
+    ],
+    "releasedAt": "1996",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000043499",
+      "discogs": "299951",
+      "spotify": "2NCGI6dLTxLdI9XHdv7QfM",
+      "deezer": "54713",
+      "lastfm": "The+Andrews+Sisters",
+      "rateyourmusic": "the_andrews_sisters",
+      "wikidata": "Q972398"
+    }
   }
 }

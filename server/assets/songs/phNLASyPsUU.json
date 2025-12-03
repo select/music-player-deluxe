@@ -1,0 +1,66 @@
+{
+  "youtubeId": "phNLASyPsUU",
+  "title": "Lady (You Bring Me Up)",
+  "artist": "Commodores",
+  "lastFetched": "2025-12-03T11:42:50.063Z",
+  "odesli": {
+    "amazonMusic": "B001NZACZY",
+    "amazonStore": "B001NZACZY",
+    "anghami": "4459583",
+    "boomplay": "54821395",
+    "pandora": "TR:102155",
+    "soundcloud": "commodores-official/lady-you-bring-me-up-album",
+    "spotify": "5CLozJK4pKWoPpFf2Z1Mye",
+    "tidal": "34187822",
+    "youtube": "phNLASyPsUU",
+    "youtubeMusic": "phNLASyPsUU"
+  },
+  "lastfm": {
+    "summary": "love songs <a href=\"http://www.last.fm/music/Commodores/_/Lady+(You+Bring+Me+Up)\">Read more on Last.fm</a>.",
+    "id": "Commodores/_/Lady+(You+Bring+Me+Up)",
+    "listeners": 87219,
+    "playcount": 281881,
+    "title": "Lady (You Bring Me Up)",
+    "artist": "Commodores",
+    "mbid": "529024d3-2f56-4936-a2d6-2d26d3be39db",
+    "artistMbid": "900ab237-327b-44e2-87e4-73250bbe025a",
+    "tags": [
+      "motown",
+      "soul",
+      "funk",
+      "disco",
+      "80s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "de3d23ab-f15b-40f8-bc38-70532a569328",
+    "artistMbid": "900ab237-327b-44e2-87e4-73250bbe025a",
+    "releaseCount": 9,
+    "genres": [
+      "disco",
+      "funk",
+      "motown",
+      "pop",
+      "soul"
+    ],
+    "artistGenres": [
+      "disco",
+      "funk",
+      "pop soul",
+      "r&b",
+      "smooth soul",
+      "soul"
+    ],
+    "releasedAt": "1994",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000766094",
+      "discogs": "38563",
+      "spotify": "6twIAGnYuIT1pncMAsXnEm",
+      "deezer": "173",
+      "lastfm": "Commodores",
+      "rateyourmusic": "commodores",
+      "wikidata": "Q287206"
+    }
+  }
+}

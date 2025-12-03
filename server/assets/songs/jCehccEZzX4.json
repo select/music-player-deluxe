@@ -3,7 +3,7 @@
   "artist": "Black Sabbath",
   "duration": 339,
   "youtubeId": "jCehccEZzX4",
-  "lastFetched": "2025-11-23T16:47:01.767Z",
+  "lastFetched": "2025-12-02T01:42:53.765Z",
   "odesli": {
     "amazonMusic": "B00HRQ3ZDE",
     "amazonStore": "B00HRQ3ZDE",
@@ -43,7 +43,22 @@
     ],
     "trackMbid": "fc558148-0268-4627-bd9f-f5faa01fab9c",
     "artistMbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2020-07-08",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000771438",
+      "discogs": "1938664",
+      "spotify": "5M52tdBnJaKSvOpJGz8mfZ",
+      "deezer": "647",
+      "lastfm": "Black+Sabbath",
+      "genius": "Black-sabbath",
+      "rateyourmusic": "black-sabbath",
+      "soundcloud": "https://soundcloud.com/blacksabbath",
+      "napster": "Black-Sabbath",
+      "wikidata": "Q47670",
+      "youtube": "UCrx-X329UKv0Y06VhfpFVvw"
+    }
   },
   "lastfm": {
     "id": "Black+Sabbath/_/Killing+Yourself+to+Live",

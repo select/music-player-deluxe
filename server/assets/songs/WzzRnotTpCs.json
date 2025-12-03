@@ -2,7 +2,7 @@
   "youtubeId": "WzzRnotTpCs",
   "title": "War das etwa Haschisch",
   "artist": "Georg Danzer",
-  "lastFetched": "2025-11-23T16:41:20.956Z",
+  "lastFetched": "2025-12-02T01:23:18.217Z",
   "musicbrainz": {
     "artistTags": [
       "austrian",
@@ -17,7 +17,14 @@
       "singer-songwriter"
     ],
     "trackMbid": "0ee76709-efaa-47b2-8c3d-607495127791",
-    "artistMbid": "6a65cfbe-d198-4f24-aff0-e0ce1d500863"
+    "artistMbid": "6a65cfbe-d198-4f24-aff0-e0ce1d500863",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "discogs": "455091",
+      "deezer": "13772",
+      "wikidata": "Q45447",
+      "youtube": "UC4pQV4oUzxuW9PBNzJ_Mcig"
+    }
   },
   "lastfm": {
     "id": "Georg+Danzer/_/War+das+etwa+Haschisch",

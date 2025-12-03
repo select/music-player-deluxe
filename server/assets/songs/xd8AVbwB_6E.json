@@ -1,7 +1,7 @@
 {
   "youtubeId": "xd8AVbwB_6E",
   "title": "Taurus",
-  "lastFetched": "2025-11-30T21:18:43.581Z",
+  "lastFetched": "2025-12-02T02:04:56.813Z",
   "ai": {
     "title": "Taurus",
     "artist": "Spirit"
@@ -46,6 +46,17 @@
     "artistGenres": [
       "progressive rock",
       "psychedelic rock"
-    ]
+    ],
+    "releasedAt": "1968-01-22",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000746010",
+      "discogs": "270578",
+      "spotify": "5q9nLsvWwbSUW1kRyhZLAx",
+      "deezer": "71378",
+      "genius": "Spirit",
+      "rateyourmusic": "spirit",
+      "wikidata": "Q1777553"
+    }
   }
 }

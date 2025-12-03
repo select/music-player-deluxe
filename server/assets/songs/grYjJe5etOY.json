@@ -1,7 +1,7 @@
 {
   "youtubeId": "grYjJe5etOY",
   "title": "Carmen Electra - Go Go Dancer MUSIC VIDEO [HQ]",
-  "lastFetched": "2025-11-30T20:45:58.690Z",
+  "lastFetched": "2025-12-02T01:39:18.342Z",
   "ai": {
     "title": "Go Go Dancer",
     "artist": "Carmen Electra"
@@ -23,6 +23,14 @@
   "musicbrainz": {
     "trackMbid": "42234e78-bde5-4193-b888-4738afb5e975",
     "artistMbid": "26ec2015-615d-4e6c-97e9-afadfc286f42",
-    "releaseCount": 6
+    "releaseCount": 6,
+    "releasedAt": "1992",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000181639",
+      "discogs": "90648",
+      "rateyourmusic": "carmen_electra",
+      "wikidata": "Q185122"
+    }
   }
 }

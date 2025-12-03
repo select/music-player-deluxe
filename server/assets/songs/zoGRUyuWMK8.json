@@ -2,7 +2,7 @@
   "youtubeId": "zoGRUyuWMK8",
   "title": "Wake Me Up",
   "artist": "Norah Jones",
-  "lastFetched": "2025-11-23T16:54:55.181Z",
+  "lastFetched": "2025-12-02T02:08:22.303Z",
   "odesli": {
     "amazonMusic": "B000TRQ7K6",
     "amazonStore": "B000TRQ7K6",
@@ -43,7 +43,18 @@
       "indie pop"
     ],
     "trackMbid": "0f22d136-e087-4c50-afa2-e8db89692d22",
-    "artistMbid": "985c709c-7771-4de3-9024-7bda29ebe3f9"
+    "artistMbid": "985c709c-7771-4de3-9024-7bda29ebe3f9",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000884686",
+      "discogs": "147031",
+      "spotify": "2Kx7MNY7cI1ENniW7vT30N",
+      "deezer": "810",
+      "lastfm": "Norah+Jones",
+      "rateyourmusic": "norah_jones",
+      "soundcloud": "https://soundcloud.com/norahjonesofficial",
+      "wikidata": "Q549981"
+    }
   },
   "lastfm": {
     "id": "Norah+Jones/_/Wake+Me+Up",

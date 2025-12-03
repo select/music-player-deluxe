@@ -2,7 +2,7 @@
   "youtubeId": "beAjcsqRt3c",
   "title": "¿Me Lo Dices o Me Lo Cuentas?",
   "artist": "Azucarillo Kings",
-  "lastFetched": "2025-11-19T07:45:31.290Z",
+  "lastFetched": "2025-12-02T01:32:07.484Z",
   "odesli": {
     "amazonMusic": "B000SFE6I4",
     "amazonStore": "B000SFE6I4",
@@ -31,6 +31,13 @@
   },
   "musicbrainz": {
     "trackMbid": "9ab845db-bb0f-3432-959d-de25adc4b1ed",
-    "artistMbid": "96852f3a-c726-415a-adf3-1e33cdbe9d3c"
+    "artistMbid": "96852f3a-c726-415a-adf3-1e33cdbe9d3c",
+    "artistCountry": "ES",
+    "externalIdsArtist": {
+      "discogs": "328040",
+      "spotify": "2sQnIRC0ed7e4O9xvURntO",
+      "deezer": "106396",
+      "rateyourmusic": "azucarillo_kings"
+    }
   }
 }

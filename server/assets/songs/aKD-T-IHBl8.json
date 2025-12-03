@@ -2,7 +2,7 @@
   "youtubeId": "aKD-T-IHBl8",
   "title": "Die Welt Kann Mich Nicht Mehr Verstehen",
   "artist": "Tocotronic",
-  "lastFetched": "2025-11-23T16:43:16.236Z",
+  "lastFetched": "2025-12-02T01:30:21.804Z",
   "odesli": {
     "amazonMusic": "B08VQJJ8PG",
     "amazonStore": "B08VQJJ8PG",
@@ -33,7 +33,21 @@
       "rock"
     ],
     "trackMbid": "b6571dec-8ec8-484a-903c-2c2bd6a38b4c",
-    "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19"
+    "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19",
+    "releasedAt": "2000",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000611087",
+      "discogs": "19605",
+      "spotify": "4WOaecAM3RMMmrbZzNx0vu",
+      "deezer": "3472",
+      "lastfm": "Tocotronic",
+      "genius": "Tocotronic",
+      "rateyourmusic": "tocotronic",
+      "soundcloud": "https://soundcloud.com/rockotronic",
+      "wikidata": "Q11890",
+      "youtube": "UCdvyuUBl9V6bHqoTzPtUiWA"
+    }
   },
   "lastfm": {
     "id": "Tocotronic/_/Die+Welt+Kann+Mich+Nicht+Mehr+Verstehen",

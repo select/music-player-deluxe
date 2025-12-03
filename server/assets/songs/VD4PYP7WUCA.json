@@ -2,7 +2,7 @@
   "youtubeId": "VD4PYP7WUCA",
   "title": "The Unforgiven III",
   "artist": "Metallica",
-  "lastFetched": "2025-11-23T16:40:46.775Z",
+  "lastFetched": "2025-12-02T01:20:53.517Z",
   "odesli": {
     "amazonMusic": "B07Y213L2G",
     "amazonStore": "B07Y213L2G",
@@ -36,7 +36,22 @@
       "thrash metal"
     ],
     "trackMbid": "6dc9a422-5a3a-4242-8e50-96b4190bdefe",
-    "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+    "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+    "releasedAt": "2010-09-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000446509",
+      "discogs": "18839",
+      "spotify": "2ye2Wgw4gimLv2eAKyk1NB",
+      "deezer": "119",
+      "lastfm": "Metallica",
+      "genius": "Metallica",
+      "rateyourmusic": "metallica",
+      "soundcloud": "https://soundcloud.com/officialmetallica",
+      "napster": "metallica",
+      "wikidata": "Q15920",
+      "youtube": "UCGexNm_Kw4rdQjLxmpb2EKw"
+    }
   },
   "lastfm": {
     "id": "Metallica/_/The+Unforgiven+III",

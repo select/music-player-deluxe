@@ -2,7 +2,7 @@
   "youtubeId": "u_uJ6HVKUWw",
   "title": "The Frog's Fandango",
   "artist": "Woo",
-  "lastFetched": "2025-11-23T16:52:35.748Z",
+  "lastFetched": "2025-12-02T02:00:37.119Z",
   "odesli": {
     "amazonMusic": "B01HOIW0JO",
     "amazonStore": "B01HOIW0JO",
@@ -37,7 +37,14 @@
       "lo-fi"
     ],
     "trackMbid": "6a40a5aa-e9d1-441e-888e-1381f8d2959e",
-    "artistMbid": "24018655-62cf-4446-81e3-73fba7a1cd95"
+    "artistMbid": "24018655-62cf-4446-81e3-73fba7a1cd95",
+    "externalIdsArtist": {
+      "allmusic": "mn0001174647",
+      "bandcamp": "https://woo-music.bandcamp.com/",
+      "discogs": "936604",
+      "rateyourmusic": "woo",
+      "wikipedia": "Woo_(music_group)"
+    }
   },
   "lastfm": {
     "id": "Woo/_/The+Frog%27s+Fandango",

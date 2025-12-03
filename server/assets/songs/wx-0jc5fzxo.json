@@ -2,7 +2,7 @@
   "youtubeId": "wx-0jc5fzxo",
   "title": "E-Plus",
   "artist": "Sascha Funke",
-  "lastFetched": "2025-11-30T23:22:31.907Z",
+  "lastFetched": "2025-12-02T02:03:41.575Z",
   "odesli": {
     "appleMusic": "1640039863",
     "itunes": "1640039863",
@@ -24,6 +24,17 @@
   "musicbrainz": {
     "artistMbid": "c32c4e72-ee6f-4a12-b8ec-2d8506387ae2",
     "trackMbid": "1ebd76e8-0568-4986-b3f1-19eeb09f788b",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-09-02",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000307496",
+      "discogs": "3045",
+      "spotify": "1dDTkRz9WVOQr63enjJ1Yd",
+      "deezer": "178429",
+      "lastfm": "Sascha+Funke",
+      "soundcloud": "https://soundcloud.com/saschafunkeofficial",
+      "wikidata": "Q105974"
+    }
   }
 }

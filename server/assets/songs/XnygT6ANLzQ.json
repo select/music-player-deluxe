@@ -3,7 +3,7 @@
   "artist": "Skrilla",
   "duration": 150,
   "youtubeId": "XnygT6ANLzQ",
-  "lastFetched": "2025-11-23T16:41:46.964Z",
+  "lastFetched": "2025-12-02T01:24:58.248Z",
   "odesli": {
     "amazonMusic": "B0DWBNJ5C1",
     "amazonStore": "B0DWBNJ5C1",
@@ -30,7 +30,16 @@
     ],
     "trackMbid": "cd9d9fcf-7693-45ea-9da4-aed5ac84d66d",
     "artistMbid": "7edb1ae1-770e-499a-a8be-cbd0c144516c",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-02-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "spotify": "5iIl7sknJm4dw34xfsL667",
+      "deezer": "1073070",
+      "genius": "Skrilla",
+      "soundcloud": "https://soundcloud.com/skrilla",
+      "youtube": "PaymeSkrilla"
+    }
   },
   "lastfm": {
     "id": "Skrilla/_/Doot+Doot+(6+7)",

@@ -2,7 +2,7 @@
   "youtubeId": "q7DfQMPmJRI",
   "title": "Fear Inoculum",
   "artist": "TOOL",
-  "lastFetched": "2025-12-01T12:56:46.338Z",
+  "lastFetched": "2025-12-02T01:53:46.611Z",
   "odesli": {
     "amazonMusic": "B07W58GNPX",
     "amazonStore": "B07W58GNPX",
@@ -50,6 +50,25 @@
       "progressive metal",
       "progressive rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2019-08-07",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "39zWYYZStDgWi32sOU9AX4",
+      "deezer": "740969212"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000790820",
+      "discogs": "87016",
+      "spotify": "2yEwvVSSSUkcLeSTNyHKh8",
+      "deezer": "689",
+      "lastfm": "Tool",
+      "genius": "Tool",
+      "rateyourmusic": "tool",
+      "soundcloud": "https://soundcloud.com/officialtool",
+      "napster": "tool",
+      "wikidata": "Q184827",
+      "youtube": "UCW6FSIkA04g7pBvMXlnaKqg"
+    }
   }
 }

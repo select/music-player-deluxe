@@ -2,7 +2,7 @@
   "youtubeId": "zYq_ZNA_nkw",
   "title": "Caught in a Lie",
   "artist": "fatima",
-  "lastFetched": "2025-11-30T19:24:46.156Z",
+  "lastFetched": "2025-12-02T02:08:02.474Z",
   "odesli": {
     "amazonMusic": "B07DH9Z7CR",
     "amazonStore": "B07DH9Z7CR",
@@ -29,6 +29,10 @@
   "musicbrainz": {
     "trackMbid": "847b6802-a383-4ffd-b6a2-28888afd4f6f",
     "artistMbid": "915b8ced-bcac-4d3f-a35b-c71d11c48228",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2018-06-15",
+    "externalIdsArtist": {
+      "discogs": "302099"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "rHJo_klmPcA",
   "title": "The Polyphonic Spree - Light and Day",
-  "lastFetched": "2025-11-30T21:41:13.107Z",
+  "lastFetched": "2025-12-02T01:55:34.761Z",
   "ai": {
     "title": "Light and Day",
     "artist": "The Polyphonic Spree"
@@ -35,6 +35,20 @@
       "psychedelic pop",
       "psychedelic rock",
       "symphonic rock"
-    ]
+    ],
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000414038",
+      "bandcamp": "https://thepolyphonicspree.bandcamp.com/",
+      "discogs": "79023",
+      "spotify": "0inqWv3OS4VpWt691ki8yk",
+      "deezer": "1520",
+      "lastfm": "The+Polyphonic+Spree",
+      "genius": "The-polyphonic-spree",
+      "rateyourmusic": "the_polyphonic_spree",
+      "soundcloud": "https://soundcloud.com/the-polyphonic-spree",
+      "youtube": "UCdjVj6W3bcD2QGqqBJGd5Og",
+      "wikidata": "Q611845"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "jkWWJ9W5300",
   "title": "Without You",
   "artist": "Lapalux",
-  "lastFetched": "2025-11-30T20:57:56.630Z",
+  "lastFetched": "2025-12-02T01:43:36.847Z",
   "odesli": {
     "amazonMusic": "B073S6G2MV",
     "amazonStore": "B073S6G2MV",
@@ -43,6 +43,18 @@
     ],
     "artistGenres": [
       "electronic"
-    ]
+    ],
+    "releasedAt": "2013-03-25",
+    "externalIdsArtist": {
+      "allmusic": "mn0002852099",
+      "bandcamp": "https://lapalux.bandcamp.com/",
+      "discogs": "2198906",
+      "spotify": "46Ce0QmI1mE2bl5VQ4P9N8",
+      "deezer": "1207749",
+      "lastfm": "Lapalux",
+      "rateyourmusic": "lapalux",
+      "soundcloud": "https://soundcloud.com/lapalux",
+      "wikidata": "Q19875002"
+    }
   }
 }

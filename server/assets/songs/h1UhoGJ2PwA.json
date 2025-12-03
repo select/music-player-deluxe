@@ -2,7 +2,7 @@
   "youtubeId": "h1UhoGJ2PwA",
   "title": "Cavalry in Thousands",
   "artist": "Tengger Cavalry",
-  "lastFetched": "2025-11-30T20:42:50.546Z",
+  "lastFetched": "2025-12-02T01:39:35.334Z",
   "odesli": {
     "appleMusic": "1179450798",
     "itunes": "1179450798",
@@ -40,6 +40,17 @@
     ],
     "artistGenres": [
       "folk metal"
-    ]
+    ],
+    "releasedAt": "2013-06-18",
+    "artistCountry": "CN",
+    "externalIdsArtist": {
+      "bandcamp": "https://tenggercavalry.bandcamp.com/",
+      "discogs": "2911481",
+      "spotify": "1jH1BbeNbZBvIgDwxGIJhe",
+      "deezer": "5685097",
+      "rateyourmusic": "tengger-cavalry",
+      "soundcloud": "https://soundcloud.com/tengger-cavalry",
+      "wikidata": "Q16924406"
+    }
   }
 }

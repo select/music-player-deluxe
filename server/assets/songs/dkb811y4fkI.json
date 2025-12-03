@@ -3,7 +3,7 @@
   "artist": "Eagles",
   "duration": 296,
   "youtubeId": "dkb811y4fkI",
-  "lastFetched": "2025-11-23T16:44:49.934Z",
+  "lastFetched": "2025-12-02T01:35:20.828Z",
   "odesli": {
     "amazonMusic": "B00DANSQVO",
     "amazonStore": "B00DANSQVO",
@@ -39,7 +39,21 @@
     ],
     "trackMbid": "7a599f6d-d53c-42ec-ad22-d8b35e786d4a",
     "artistMbid": "f46bd570-5768-462e-b84c-c7c993bbf47e",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000144847",
+      "discogs": "255680",
+      "spotify": "0ECwFtbIWEVNwjlrfc6xoL",
+      "deezer": "210",
+      "lastfm": "Eagles",
+      "genius": "Eagles",
+      "rateyourmusic": "eagles",
+      "soundcloud": "https://soundcloud.com/eaglesofficial",
+      "napster": "eagles",
+      "wikidata": "Q189635",
+      "youtube": "UC49r4GNHHpc-eQ9hmD2Rg6A"
+    }
   },
   "lastfm": {
     "id": "Eagles/_/One+of+These+Nights",

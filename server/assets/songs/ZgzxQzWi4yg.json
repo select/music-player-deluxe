@@ -3,7 +3,7 @@
   "artist": "Hannes Wader",
   "duration": 364,
   "youtubeId": "ZgzxQzWi4yg",
-  "lastFetched": "2025-11-19T04:02:40.179Z",
+  "lastFetched": "2025-12-02T01:28:01.025Z",
   "odesli": {
     "amazonMusic": "B073Q34PPD",
     "amazonStore": "B073Q34PPD",
@@ -31,7 +31,17 @@
     ],
     "trackMbid": "4a5cdbd4-689d-4e35-b5cd-f01cc05436d9",
     "artistMbid": "f07b5d3a-b385-4244-ad6e-ea6b5ccbe1ae",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1982",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000958560",
+      "discogs": "312357",
+      "spotify": "1ePGBuJM1znQUYt4qpgUdW",
+      "deezer": "134206",
+      "rateyourmusic": "hannes_wader",
+      "wikidata": "Q65491"
+    }
   },
   "lastfm": {
     "id": "Hannes+Wader/_/Es+ist+an+der+Zeit",

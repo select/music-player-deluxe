@@ -2,7 +2,7 @@
   "youtubeId": "cEMwjkRVYb8",
   "title": "Wild Ride",
   "artist": "John Tejada",
-  "lastFetched": "2025-11-23T16:44:06.831Z",
+  "lastFetched": "2025-12-02T01:32:55.332Z",
   "odesli": {
     "amazonMusic": "B0BTYWQHWW",
     "amazonStore": "B0BTYWQHWW",
@@ -31,7 +31,19 @@
       "techno"
     ],
     "trackMbid": "555dd289-ccbb-498f-9c32-c1382b35fd49",
-    "artistMbid": "bda6d00e-f8f7-43a5-b8f8-f1ebc55b46d3"
+    "artistMbid": "bda6d00e-f8f7-43a5-b8f8-f1ebc55b46d3",
+    "releasedAt": "2023-09-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000229686",
+      "bandcamp": "https://johntejada.bandcamp.com/",
+      "discogs": "62",
+      "spotify": "2JWmMcE8Z0vapxOIiT7PLq",
+      "deezer": "5991",
+      "lastfm": "John+Tejada",
+      "rateyourmusic": "john_tejada",
+      "wikidata": "Q85028"
+    }
   },
   "lastfm": {
     "id": "John+Tejada/_/Wild+Ride",

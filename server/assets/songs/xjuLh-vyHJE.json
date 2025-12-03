@@ -2,7 +2,7 @@
   "youtubeId": "xjuLh-vyHJE",
   "title": "TRiP",
   "artist": "V.C.R",
-  "lastFetched": "2025-11-23T16:53:52.716Z",
+  "lastFetched": "2025-12-02T02:05:06.595Z",
   "odesli": {
     "amazonMusic": "B0CCFYZHDS",
     "amazonStore": "B0CCFYZHDS",
@@ -39,7 +39,15 @@
       "free jazz"
     ],
     "trackMbid": "fc53cd82-a1bc-463c-8a28-26f97b0a75c0",
-    "artistMbid": "fc1c6fab-cb59-4a02-879f-69be388a964e"
+    "artistMbid": "fc1c6fab-cb59-4a02-879f-69be388a964e",
+    "releasedAt": "2021-05-14",
+    "externalIdsArtist": {
+      "bandcamp": "https://vthemartian.bandcamp.com/",
+      "discogs": "9988609",
+      "spotify": "3kCN1Q6YPXCtKflf3NPXKw",
+      "soundcloud": "https://soundcloud.com/vthemartian",
+      "youtube": "UCfXPvOjs389DeEKCb02aTQQ"
+    }
   },
   "lastfm": {
     "id": "V.C.R/_/TRiP",

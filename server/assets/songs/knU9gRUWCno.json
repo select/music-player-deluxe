@@ -2,7 +2,7 @@
   "youtubeId": "knU9gRUWCno",
   "title": "Someday",
   "artist": "The Strokes",
-  "lastFetched": "2025-11-19T16:03:20.051Z",
+  "lastFetched": "2025-12-02T01:45:30.052Z",
   "odesli": {
     "amazonMusic": "B00137GBD4",
     "amazonStore": "B00137GBD4",
@@ -26,7 +26,22 @@
       "alternative rock"
     ],
     "trackMbid": "9f3bf979-73d3-457f-8dd8-8176a7e4bb1f",
-    "artistMbid": "f181961b-20f7-459e-89de-920ef03c7ed0"
+    "artistMbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+    "releasedAt": "2002-03-09",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000568137",
+      "bandcamp": "https://thestrokesband.bandcamp.com/",
+      "discogs": "55980",
+      "spotify": "0epOFNiUfyON9EYx7Tpr6V",
+      "deezer": "569",
+      "lastfm": "The+Strokes",
+      "genius": "The-strokes",
+      "rateyourmusic": "the_strokes",
+      "soundcloud": "https://soundcloud.com/thestrokes",
+      "wikidata": "Q211583",
+      "youtube": "UC28OQSWdiW7jkadedZRRyZA"
+    }
   },
   "lastfm": {
     "id": "The+Strokes/_/Someday",

@@ -1,0 +1,49 @@
+{
+  "youtubeId": "nmKFcinpgOk",
+  "title": "Sleepwalking",
+  "artist": "Jonathan Bree",
+  "lastFetched": "2025-12-03T12:00:18.941Z",
+  "odesli": {
+    "amazonMusic": "B0BHFFNZHJ",
+    "amazonStore": "B0BHFFNZHJ",
+    "boomplay": "5528214",
+    "soundcloud": "jonathan-bree/sleepwalking",
+    "spotify": "6LV0D6qPMRyPEI3Y0YmARH",
+    "youtube": "nmKFcinpgOk",
+    "youtubeMusic": "nmKFcinpgOk"
+  },
+  "lastfm": {
+    "id": "Jonathan+Bree/_/Sleepwalking",
+    "listeners": 18513,
+    "playcount": 81079,
+    "title": "Sleepwalking",
+    "artist": "Jonathan Bree",
+    "mbid": "d5bcc6cc-466b-4356-a84b-bd1a95fff801",
+    "artistMbid": "03d64ac3-ee2e-4331-8c4f-7785e4469264",
+    "tags": [
+      "indie",
+      "synthpop",
+      "indie pop",
+      "new zealand",
+      "art pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5de39628-81de-4b99-a7e4-5e49e3de9967",
+    "artistMbid": "03d64ac3-ee2e-4331-8c4f-7785e4469264",
+    "releaseCount": 2,
+    "artistGenres": [
+      "electronic",
+      "pop"
+    ],
+    "releasedAt": "2018-06-08",
+    "externalIdsArtist": {
+      "bandcamp": "https://jonathanbree.bandcamp.com/",
+      "discogs": "874437",
+      "spotify": "2IlTe9Gm5w5qrt2kKdOvAh",
+      "deezer": "4796281",
+      "soundcloud": "https://soundcloud.com/jonathan-bree",
+      "wikidata": "Q16727642"
+    }
+  }
+}

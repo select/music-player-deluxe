@@ -3,7 +3,7 @@
   "artist": "Tapete",
   "duration": 139,
   "youtubeId": "k7-bdqr-2KA",
-  "lastFetched": "2025-11-23T15:40:36.611Z",
+  "lastFetched": "2025-12-02T01:44:09.129Z",
   "odesli": {
     "amazonMusic": "B00R8OWHRK",
     "amazonStore": "B00R8OWHRK",
@@ -20,7 +20,15 @@
     ],
     "trackMbid": "53fb5a08-4e68-4d02-bc71-dadad4da3e7f",
     "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2009",
+    "externalIdsArtist": {
+      "bandcamp": "https://tapeteberlin.bandcamp.com/",
+      "discogs": "1369220",
+      "spotify": "2mLGlQXPcSPMTrVbfP0OdF",
+      "deezer": "313413",
+      "soundcloud": "https://soundcloud.com/tapeteberlin"
+    }
   },
   "ai": {
     "title": "Tapete",

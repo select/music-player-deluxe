@@ -2,7 +2,7 @@
   "youtubeId": "rRrOt7hmd0o",
   "title": "Huckepack",
   "artist": "Grossstadtgeflüster",
-  "lastFetched": "2025-11-30T22:30:23.877Z",
+  "lastFetched": "2025-12-02T01:55:59.285Z",
   "odesli": {
     "amazonMusic": "B0DZTHR67N",
     "amazonStore": "B0DZTHR67N",
@@ -32,6 +32,16 @@
   "musicbrainz": {
     "trackMbid": "66b756d1-6a77-4456-b8c9-9ef39418f2a5",
     "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2024-02-09",
+    "externalIdsArtist": {
+      "discogs": "749951",
+      "spotify": "03SZv6slUnLnHI3IfwG0gl",
+      "deezer": "80890",
+      "lastfm": "Grossstadtgefl%C3%BCster",
+      "soundcloud": "https://soundcloud.com/grossstadtgefluester",
+      "wikidata": "Q541543",
+      "youtube": "UCSNJbR3O1Xb0juzA52HuDsw"
+    }
   }
 }

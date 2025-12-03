@@ -2,7 +2,7 @@
   "youtubeId": "VCEsveSK5to",
   "title": "Sloppy Seconds",
   "artist": "Watsky",
-  "lastFetched": "2025-11-30T20:52:50.052Z",
+  "lastFetched": "2025-12-02T01:20:51.714Z",
   "odesli": {
     "amazonMusic": "B0CXZQMMKZ",
     "amazonStore": "B0CXZQMMKZ",
@@ -33,6 +33,14 @@
     "releaseCount": 2,
     "genres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2013-03-08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "2303839",
+      "spotify": "3mJ9GlkLzj8Ka7Z7EQaCMi",
+      "deezer": "1066681",
+      "wikidata": "Q5546073"
+    }
   }
 }

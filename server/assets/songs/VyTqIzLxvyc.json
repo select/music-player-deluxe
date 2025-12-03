@@ -2,7 +2,7 @@
   "youtubeId": "VyTqIzLxvyc",
   "title": "Willst Du mit mir geh’n?",
   "artist": "Fünf Sterne Deluxe",
-  "lastFetched": "2025-11-30T23:32:48.755Z",
+  "lastFetched": "2025-12-02T01:21:45.327Z",
   "odesli": {
     "amazonMusic": "B00L4RKWRO",
     "amazonStore": "B00L4RKWRO",
@@ -40,6 +40,18 @@
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "1998-03-30",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002101215",
+      "discogs": "22902",
+      "spotify": "7i6FNvFrVU61bNKBmWwX4X",
+      "deezer": "7952",
+      "lastfm": "F%C3%BCnf+Sterne+Deluxe",
+      "rateyourmusic": "funf_sterne_deluxe",
+      "wikidata": "Q686687",
+      "youtube": "UCe6GltCxiizB7F03LlrVHCg"
+    }
   }
 }

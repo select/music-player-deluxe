@@ -1,0 +1,68 @@
+{
+  "youtubeId": "PeMvMNpvB5M",
+  "title": "Barracuda",
+  "artist": "Heart",
+  "lastFetched": "2025-12-03T11:47:19.612Z",
+  "odesli": {
+    "amazonMusic": "B00KLPGUFI",
+    "amazonStore": "B00KLPGUFI",
+    "audiomack": "67980511",
+    "anghami": "1183379076",
+    "appleMusic": "400072063",
+    "itunes": "400072063",
+    "napster": "tra.335854392",
+    "pandora": "TR:64912074",
+    "soundcloud": "violet-guile/heart-barracuda-1",
+    "spotify": "38bHLl4pznhxzRJLuw1OA7",
+    "tidal": "98182233",
+    "yandex": "104189780",
+    "youtube": "PeMvMNpvB5M",
+    "youtubeMusic": "PeMvMNpvB5M"
+  },
+  "lastfm": {
+    "summary": "\"Barracuda\" is a song written and recorded by the rock band Heart.  It was released as the first single from the band's second album \"Little Queen\".\n\nThe song is an aggressive hard rock number notable for a galloping guitar riff.  It has been noted for its use of natural harmonics, particularly in the intro where the harmonics are bent using the tremolo arm of the guitar.\n\nUpon its release, \"Barracuda\" became Heart's second top-twenty hit in the U. <a href=\"http://www.last.fm/music/Heart/_/Barracuda\">Read more on Last.fm</a>.",
+    "id": "Heart/_/Barracuda",
+    "listeners": 1060971,
+    "playcount": 6672978,
+    "tags": [
+      "classic rock",
+      "rock",
+      "70s",
+      "female vocalists",
+      "hard rock"
+    ],
+    "title": "Barracuda",
+    "artist": "Heart",
+    "artistMbid": "bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9"
+  },
+  "musicbrainz": {
+    "trackMbid": "d13e7a7c-361c-4fd1-b41f-942457182550",
+    "artistMbid": "bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9",
+    "releaseCount": 3,
+    "artistGenres": [
+      "aor",
+      "arena rock",
+      "classic rock",
+      "folk rock",
+      "hard rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "soft rock",
+      "synth-pop"
+    ],
+    "releasedAt": "2014-11-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000671953",
+      "discogs": "136201",
+      "spotify": "34jw2BbxjoYalTp8cJFCPv",
+      "deezer": "7359",
+      "lastfm": "Heart",
+      "genius": "heart",
+      "rateyourmusic": "heart",
+      "napster": "heart",
+      "wikidata": "Q941662"
+    }
+  }
+}

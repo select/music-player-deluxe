@@ -2,7 +2,7 @@
   "youtubeId": "ieumolVsiWI",
   "title": "Pendejo",
   "artist": "Little Big",
-  "lastFetched": "2025-11-23T16:46:52.288Z",
+  "lastFetched": "2025-12-02T01:41:57.252Z",
   "odesli": {
     "amazonMusic": "B0CW1X1JS7",
     "amazonStore": "B0CW1X1JS7",
@@ -36,7 +36,21 @@
       "rave"
     ],
     "trackMbid": "cf2631b3-c474-47f4-b22e-89b0b1f48e98",
-    "artistMbid": "cbe51088-e4d8-463e-9f4e-e83fa64d3f5e"
+    "artistMbid": "cbe51088-e4d8-463e-9f4e-e83fa64d3f5e",
+    "releasedAt": "2023-04-12",
+    "externalIdsArtist": {
+      "allmusic": "mn0003695755",
+      "bandcamp": "https://littlebigband.bandcamp.com/",
+      "discogs": "4563408",
+      "spotify": "0pnd3MP2rxAzljR9AqXUJB",
+      "deezer": "4606326",
+      "lastfm": "Little+Big",
+      "genius": "Little-big",
+      "rateyourmusic": "little_big",
+      "soundcloud": "https://soundcloud.com/littlebigrussia",
+      "wikidata": "Q24261863",
+      "youtube": "UCu7TZ_ATWgjgD9IrNLdnYDA"
+    }
   },
   "lastfm": {
     "id": "Little+Big/_/Pendejo",

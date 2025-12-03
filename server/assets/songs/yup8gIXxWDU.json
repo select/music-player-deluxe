@@ -2,7 +2,7 @@
   "youtubeId": "yup8gIXxWDU",
   "title": "HelloWorld.java",
   "artist": "NANOWAR OF STEEL",
-  "lastFetched": "2025-11-30T21:59:08.039Z",
+  "lastFetched": "2025-12-02T02:07:13.897Z",
   "odesli": {
     "amazonMusic": "B0DD4K4W97",
     "amazonStore": "B0DD4K4W97",
@@ -36,6 +36,24 @@
       "heavy metal",
       "metal",
       "power metal"
-    ]
+    ],
+    "releasedAt": "2024-12-03",
+    "artistCountry": "IT",
+    "externalIdsTrack": {
+      "bandcamp": "https://nanowarofsteel.bandcamp.com/track/helloworld-java"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003682127",
+      "bandcamp": "https://nanowarofsteel.bandcamp.com/",
+      "discogs": "2451650",
+      "spotify": "7jw9vF1hFRp1k8dDRNRiC5",
+      "deezer": "2829401",
+      "lastfm": "Nanowar+of+Steel",
+      "genius": "Nanowar-of-steel",
+      "rateyourmusic": "nanowar-of-steel",
+      "soundcloud": "https://soundcloud.com/nanowarofsteel-music",
+      "wikidata": "Q2617758",
+      "youtube": "UChiNu7HTnMqt9kF2pD6UaJQ"
+    }
   }
 }

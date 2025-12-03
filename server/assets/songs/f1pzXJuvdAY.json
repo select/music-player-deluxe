@@ -1,7 +1,7 @@
 {
   "youtubeId": "f1pzXJuvdAY",
   "title": "Born Under A Bad Sign",
-  "lastFetched": "2025-11-30T21:26:26.651Z",
+  "lastFetched": "2025-12-02T01:36:58.685Z",
   "ai": {
     "title": "Born Under A Bad Sign",
     "artist": "Cream"
@@ -44,6 +44,17 @@
       "psychedelic pop",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1973",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000112462",
+      "discogs": "229621",
+      "spotify": "74oJ4qxwOZvX6oSsu1DGnw",
+      "deezer": "1796",
+      "lastfm": "Cream",
+      "rateyourmusic": "cream",
+      "wikidata": "Q203736"
+    }
   }
 }

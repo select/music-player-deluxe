@@ -2,7 +2,7 @@
   "youtubeId": "qVHyl0P_P-M",
   "title": "Primo Victoria",
   "artist": "Sabaton",
-  "lastFetched": "2025-11-23T16:50:40.397Z",
+  "lastFetched": "2025-12-02T01:54:21.591Z",
   "odesli": {
     "amazonMusic": "B07RPW467L",
     "amazonStore": "B07RPW467L",
@@ -39,7 +39,21 @@
       "speed metal"
     ],
     "trackMbid": "7da997ad-1e42-49ce-b580-ee2ee64d8e2b",
-    "artistMbid": "39a31de6-763d-48b6-a45c-f7cfad58ffd8"
+    "artistMbid": "39a31de6-763d-48b6-a45c-f7cfad58ffd8",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000631335",
+      "bandcamp": "https://sabaton.bandcamp.com/",
+      "discogs": "580793",
+      "spotify": "3o2dn2O0FCVsWDFSh8qxgG",
+      "deezer": "12022",
+      "lastfm": "Sabaton",
+      "genius": "Sabaton",
+      "rateyourmusic": "sabaton",
+      "soundcloud": "https://soundcloud.com/sabatonofficial",
+      "wikidata": "Q740159",
+      "youtube": "UCxJrBLPnyUIt6K33m9ZcsqA"
+    }
   },
   "lastfm": {
     "id": "Sabaton/_/Primo+Victoria",

@@ -2,7 +2,7 @@
   "youtubeId": "UAWcs5H-qgQ",
   "title": "The A Team",
   "artist": "Ed Sheeran",
-  "lastFetched": "2025-11-30T20:38:23.331Z",
+  "lastFetched": "2025-12-02T01:19:31.283Z",
   "odesli": {
     "amazonMusic": "B0086HGWG0",
     "amazonStore": "B0086HGWG0",
@@ -59,6 +59,20 @@
       "pop",
       "singer-songwriter",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "2010-02-07",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002639628",
+      "discogs": "2184482",
+      "spotify": "6eUKZXaKkcviH0Ku9w2n3V",
+      "deezer": "384236",
+      "lastfm": "Ed+Sheeran",
+      "genius": "Ed-sheeran",
+      "rateyourmusic": "ed_sheeran",
+      "soundcloud": "https://soundcloud.com/edsheeran",
+      "wikidata": "Q47447",
+      "youtube": "UClmXPfaYhXOYsNn_QUyheWQ"
+    }
   }
 }

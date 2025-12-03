@@ -2,7 +2,7 @@
   "youtubeId": "YblzvqIyFoE",
   "title": "Floatin",
   "artist": "Fulton Lee",
-  "lastFetched": "2025-11-30T23:07:19.446Z",
+  "lastFetched": "2025-12-02T01:26:16.492Z",
   "odesli": {
     "amazonMusic": "B0C7LQ6SB9",
     "amazonStore": "B0C7LQ6SB9",
@@ -31,6 +31,13 @@
   "musicbrainz": {
     "artistMbid": "61e73ac3-1e17-4296-84f3-9498534d25e0",
     "trackMbid": "951a1cc0-b86e-4236-9a91-e6193bd008b2",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-08-04",
+    "externalIdsArtist": {
+      "discogs": "8281138",
+      "spotify": "5CAvR9koH16JpcoTxUoeyS",
+      "deezer": "14059411",
+      "youtube": "UCeIWPXe7YFwUI9OXlE6LIkQ"
+    }
   }
 }

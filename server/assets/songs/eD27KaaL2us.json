@@ -2,7 +2,7 @@
   "youtubeId": "eD27KaaL2us",
   "title": "Cubano Chant",
   "artist": "Ray Bryant",
-  "lastFetched": "2025-11-30T22:36:42.690Z",
+  "lastFetched": "2025-12-02T01:35:57.222Z",
   "odesli": {
     "appleMusic": "1444065240",
     "itunes": "1444065240",
@@ -32,6 +32,16 @@
       "jazz",
       "post-bop",
       "soul jazz"
-    ]
+    ],
+    "releasedAt": "1972",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000869265",
+      "discogs": "98585",
+      "spotify": "617L0tV5Y7lMvUHGHR43AR",
+      "deezer": "58328",
+      "rateyourmusic": "ray_bryant",
+      "wikidata": "Q492143"
+    }
   }
 }

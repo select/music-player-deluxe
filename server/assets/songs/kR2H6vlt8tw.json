@@ -2,7 +2,7 @@
   "youtubeId": "kR2H6vlt8tw",
   "title": "Hark, shepherd swains",
   "artist": "Solomon's Knot",
-  "lastFetched": "2025-11-23T16:47:40.293Z",
+  "lastFetched": "2025-12-02T01:44:45.175Z",
   "odesli": {
     "amazonMusic": "B0CLYVCX7W",
     "amazonStore": "B0CLYVCX7W",
@@ -22,7 +22,12 @@
       "baroque"
     ],
     "trackMbid": "30bd9c91-c736-4455-8696-c43be3148b4f",
-    "artistMbid": "6f1afd8c-3025-4d94-8ac1-ba98f6bc7f92"
+    "artistMbid": "6f1afd8c-3025-4d94-8ac1-ba98f6bc7f92",
+    "releasedAt": "2024-02-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "wikidata": "Q112594237"
+    }
   },
   "lastfm": {
     "id": "Solomon%27s+Knot/_/Hark,+shepherd+swains",

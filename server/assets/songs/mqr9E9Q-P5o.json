@@ -2,7 +2,7 @@
   "youtubeId": "mqr9E9Q-P5o",
   "title": "The Trolley Song",
   "artist": "Herb Alpert & The Tijuana Brass",
-  "lastFetched": "2025-11-30T22:36:52.382Z",
+  "lastFetched": "2025-12-02T01:48:34.151Z",
   "odesli": {
     "amazonMusic": "B018ANVSDQ",
     "amazonStore": "B018ANVSDQ",
@@ -33,6 +33,17 @@
       "jazz pop",
       "lounge",
       "pop"
-    ]
+    ],
+    "releasedAt": "1967-12-08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000955773",
+      "discogs": "275002",
+      "spotify": "09L3cUdx0hq6qn5bKuJJ4I",
+      "deezer": "2871",
+      "lastfm": "Herb+Alpert+and+the+Tijuana+Brass",
+      "rateyourmusic": "herb_alpert_and_the_tijuana_brass",
+      "wikidata": "Q60525729"
+    }
   }
 }

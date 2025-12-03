@@ -3,7 +3,7 @@
   "artist": "Jennifer Lara",
   "duration": 136,
   "youtubeId": "zjFrpjAw1Uc",
-  "lastFetched": "2025-11-19T03:25:01.723Z",
+  "lastFetched": "2025-12-02T02:08:12.266Z",
   "musicbrainz": {
     "tags": [
       "reggae",
@@ -12,7 +12,12 @@
     ],
     "trackMbid": "4ffc5080-76b8-4934-b6ad-982a313f3b47",
     "artistMbid": "b0079b6d-d464-4433-960b-072479d3d1ad",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1981",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "discogs": "145436"
+    }
   },
   "lastfm": {
     "id": "Jennifer+Lara/_/A+Change+Is+Gonna+Come",

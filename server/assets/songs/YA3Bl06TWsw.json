@@ -2,7 +2,7 @@
   "youtubeId": "YA3Bl06TWsw",
   "title": "Forward on to Zion",
   "artist": "The Abyssinians",
-  "lastFetched": "2025-11-23T16:41:52.028Z",
+  "lastFetched": "2025-12-02T01:25:29.939Z",
   "odesli": {
     "amazonMusic": "B007X2J7M0",
     "amazonStore": "B007X2J7M0",
@@ -27,7 +27,15 @@
       "roots reggae"
     ],
     "trackMbid": "3b7d0c8a-be13-44a7-ad73-194e77e832f2",
-    "artistMbid": "103ae173-2204-40b8-a6a8-f1623304deed"
+    "artistMbid": "103ae173-2204-40b8-a6a8-f1623304deed",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000588943",
+      "discogs": "116694",
+      "spotify": "1vB5909auE9YUaTjQ7ZkTj",
+      "deezer": "3604",
+      "wikidata": "Q1535896"
+    }
   },
   "lastfm": {
     "id": "The+Abyssinians/_/Forward+on+to+Zion",

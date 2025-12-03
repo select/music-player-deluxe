@@ -2,7 +2,7 @@
   "youtubeId": "gJ1R8dzN95s",
   "title": "End Of Time",
   "artist": "Break",
-  "lastFetched": "2025-11-23T16:46:06.550Z",
+  "lastFetched": "2025-12-02T01:38:36.338Z",
   "odesli": {
     "soundcloud": "355794452",
     "tidal": "125978891",
@@ -28,7 +28,14 @@
       "house"
     ],
     "trackMbid": "f254a1f4-be8c-40d7-b641-3e95cd7951d2",
-    "artistMbid": "62ce9272-0d54-4ecf-b03b-e7992ae0d320"
+    "artistMbid": "62ce9272-0d54-4ecf-b03b-e7992ae0d320",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "554471",
+      "spotify": "7FtCGMC0pcHPlrZWmYe9XM",
+      "deezer": "398776",
+      "rateyourmusic": "break_f1"
+    }
   },
   "lastfm": {
     "id": "Break/_/End+Of+Time",

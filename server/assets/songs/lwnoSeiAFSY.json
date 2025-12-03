@@ -2,7 +2,7 @@
   "youtubeId": "lwnoSeiAFSY",
   "title": "Lowlife",
   "artist": "That Poppy",
-  "lastFetched": "2025-11-30T19:34:52.128Z",
+  "lastFetched": "2025-12-02T01:47:08.054Z",
   "odesli": {
     "amazonMusic": "B01GJXN2I8",
     "amazonStore": "B01GJXN2I8",
@@ -47,6 +47,22 @@
       "nu metal",
       "pop",
       "pop metal"
-    ]
+    ],
+    "releasedAt": "2015-07-24",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003667565",
+      "bandcamp": "https://impoppy.bandcamp.com/",
+      "discogs": "6581315",
+      "spotify": "5uW6WiRHzStJq2i2OsAXcu",
+      "deezer": "712754",
+      "lastfm": "That+Poppy",
+      "genius": "Poppy",
+      "rateyourmusic": "poppy-1",
+      "soundcloud": "https://soundcloud.com/thatpoppy",
+      "napster": "that-poppy",
+      "wikidata": "Q24852571",
+      "youtube": "UCwJcp-qqo0pVvvRwPXIXKyQ"
+    }
   }
 }

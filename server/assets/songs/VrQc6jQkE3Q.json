@@ -2,7 +2,7 @@
   "youtubeId": "VrQc6jQkE3Q",
   "title": "Far From Here",
   "artist": "Oscuro",
-  "lastFetched": "2025-11-30T23:29:43.883Z",
+  "lastFetched": "2025-12-02T01:21:40.417Z",
   "odesli": {
     "amazonMusic": "B07YM1S2SQ",
     "amazonStore": "B07YM1S2SQ",
@@ -30,6 +30,15 @@
     "artistGenres": [
       "chillstep",
       "downtempo"
-    ]
+    ],
+    "releasedAt": "2020-04-17",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://oscurochill.bandcamp.com/",
+      "spotify": "2FYj4Dc7l6f8JyLB2I3eLl",
+      "deezer": "6774845",
+      "soundcloud": "https://soundcloud.com/oscurochill",
+      "youtube": "UCX-_8nya6NJ5mp67bo5v-bQ"
+    }
   }
 }

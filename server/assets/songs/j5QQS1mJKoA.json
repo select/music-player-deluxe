@@ -2,7 +2,7 @@
   "youtubeId": "j5QQS1mJKoA",
   "title": "Elif'e Ninni",
   "artist": "Erkan Oğur",
-  "lastFetched": "2025-11-30T23:41:28.281Z",
+  "lastFetched": "2025-12-02T01:42:42.805Z",
   "odesli": {
     "amazonMusic": "B0DDYCZXQY",
     "amazonStore": "B0DDYCZXQY",
@@ -31,6 +31,15 @@
     "releaseCount": 1,
     "artistGenres": [
       "world fusion"
-    ]
+    ],
+    "releasedAt": "2014-06-16",
+    "artistCountry": "TR",
+    "externalIdsArtist": {
+      "discogs": "847864",
+      "spotify": "7HIccJjwPhWkLVKu0gGJgB",
+      "deezer": "101917",
+      "wikidata": "Q3056675",
+      "wikipedia": "Erkan_O%C4%9Fur"
+    }
   }
 }

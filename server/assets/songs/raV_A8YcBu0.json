@@ -2,7 +2,7 @@
   "youtubeId": "raV_A8YcBu0",
   "title": "One of These Days",
   "artist": "Pink Floyd",
-  "lastFetched": "2025-11-30T21:36:44.520Z",
+  "lastFetched": "2025-12-02T01:56:25.145Z",
   "odesli": {
     "amazonMusic": "B019HKJQ7G",
     "amazonStore": "B019HKJQ7G",
@@ -60,6 +60,19 @@
       "rock",
       "rock opera",
       "space rock"
-    ]
+    ],
+    "releasedAt": "1990-12",
+    "externalIdsArtist": {
+      "allmusic": "mn0000346336",
+      "discogs": "45467",
+      "spotify": "0k17h0D3J5VfsdmQ1iZtE9",
+      "deezer": "860",
+      "lastfm": "Pink+Floyd",
+      "genius": "Pink-floyd",
+      "rateyourmusic": "pink-floyd",
+      "soundcloud": "https://soundcloud.com/officialpinkfloyd",
+      "wikidata": "Q2306",
+      "youtube": "UCO6LS_5W7vqG9mALDNzSFug"
+    }
   }
 }

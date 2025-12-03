@@ -2,7 +2,7 @@
   "youtubeId": "gAdTsAKvVTU",
   "title": "Wishin' And Hopin'",
   "artist": "Dusty Springfield",
-  "lastFetched": "2025-12-01T12:54:22.904Z",
+  "lastFetched": "2025-12-02T01:38:19.956Z",
   "odesli": {
     "amazonMusic": "B001NZC24I",
     "amazonStore": "B001NZC24I",
@@ -42,6 +42,19 @@
       "pop soul",
       "r&b",
       "soul"
-    ]
+    ],
+    "releasedAt": "1979",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000159214",
+      "discogs": "31260",
+      "spotify": "5zaXYwewAXedKNCff45U5l",
+      "deezer": "2588",
+      "lastfm": "Dusty+Springfield",
+      "genius": "Dusty-springfield",
+      "rateyourmusic": "dusty-springfield",
+      "wikidata": "Q219782",
+      "youtube": "UCeaE6DwTIEIFrk4K8kXB9LA"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "lan-Pjv99Xk",
   "title": "Crow (DJ-Kicks)",
   "artist": "Forest Swords",
-  "lastFetched": "2025-11-30T19:28:07.906Z",
+  "lastFetched": "2025-12-02T01:46:37.275Z",
   "odesli": {
     "amazonMusic": "B07BQY8ZP1",
     "amazonStore": "B07BQY8ZP1",
@@ -46,6 +46,19 @@
       "experimental",
       "instrumental",
       "post-industrial"
-    ]
+    ],
+    "releasedAt": "2018-05-18",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002424875",
+      "bandcamp": "https://forestswords.bandcamp.com/",
+      "discogs": "1550411",
+      "spotify": "2VarlUiM6Lw0SA7BvwVPRP",
+      "deezer": "1105115",
+      "rateyourmusic": "forest-swords",
+      "soundcloud": "https://soundcloud.com/forestswords",
+      "wikidata": "Q14518205",
+      "youtube": "UC7AveXWQuQIgdf-1Obki59g"
+    }
   }
 }

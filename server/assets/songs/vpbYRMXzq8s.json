@@ -2,7 +2,7 @@
   "youtubeId": "vpbYRMXzq8s",
   "title": "If I Were a Carpenter",
   "artist": "Johnny Cash",
-  "lastFetched": "2025-11-30T23:06:44.310Z",
+  "lastFetched": "2025-12-02T02:02:12.943Z",
   "odesli": {
     "amazonMusic": "B00136NSZO",
     "amazonStore": "B00136NSZO",
@@ -31,6 +31,21 @@
       "outlaw country",
       "rock and roll",
       "rockabilly"
-    ]
+    ],
+    "releasedAt": "2007-12-15",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000816890",
+      "discogs": "135946",
+      "spotify": "6kACVPfCOnqzgfEF5ryl0x",
+      "deezer": "405",
+      "lastfm": "Johnny+Cash",
+      "genius": "Johnny-cash",
+      "rateyourmusic": "johnny_cash",
+      "soundcloud": "https://soundcloud.com/johnnycash",
+      "pandora": "johnny-cash",
+      "wikidata": "Q42775",
+      "youtube": "UCiGs21G3KeE2tpbbMPzn9Qg"
+    }
   }
 }

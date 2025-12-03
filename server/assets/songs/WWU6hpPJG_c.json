@@ -2,7 +2,7 @@
   "youtubeId": "WWU6hpPJG_c",
   "title": "Mary Had A Little Lamb",
   "artist": "Stevie Ray Vaughan",
-  "lastFetched": "2025-11-23T16:41:10.521Z",
+  "lastFetched": "2025-12-02T01:22:36.962Z",
   "musicbrainz": {
     "artistTags": [
       "blues",
@@ -21,7 +21,17 @@
       "texas blues"
     ],
     "trackMbid": "16d9a44e-feac-40d9-839f-a18bf6faa312",
-    "artistMbid": "f5426431-f490-4678-ad44-a75c71097bb4"
+    "artistMbid": "f5426431-f490-4678-ad44-a75c71097bb4",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000625739",
+      "discogs": "137225",
+      "spotify": "5fsDcuclIe8ZiBD5P787K1",
+      "deezer": "12297",
+      "lastfm": "Stevie+Ray+Vaughan",
+      "rateyourmusic": "stevie_ray_vaughan",
+      "wikidata": "Q202937"
+    }
   },
   "lastfm": {
     "id": "Stevie+Ray+Vaughan/_/Mary+Had+A+Little+Lamb",

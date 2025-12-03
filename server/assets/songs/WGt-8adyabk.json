@@ -2,7 +2,7 @@
   "youtubeId": "WGt-8adyabk",
   "title": "Sound of Madness",
   "artist": "Shinedown",
-  "lastFetched": "2025-11-23T16:41:06.189Z",
+  "lastFetched": "2025-12-02T01:22:19.936Z",
   "odesli": {
     "amazonMusic": "B002MXA4VS",
     "amazonStore": "B002MXA4VS",
@@ -37,7 +37,20 @@
       "post-grunge"
     ],
     "trackMbid": "0694fc8e-b6bf-3260-9589-908f379fc7e6",
-    "artistMbid": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6"
+    "artistMbid": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000028002",
+      "discogs": "343055",
+      "spotify": "70BYFdaZbEKbeauJ670ysI",
+      "deezer": "6691",
+      "lastfm": "Shinedown",
+      "genius": "Shinedown",
+      "rateyourmusic": "shinedown",
+      "soundcloud": "https://soundcloud.com/shinedownofficial",
+      "napster": "shinedown",
+      "wikidata": "Q1063812"
+    }
   },
   "lastfm": {
     "id": "Shinedown/_/Sound+of+Madness",

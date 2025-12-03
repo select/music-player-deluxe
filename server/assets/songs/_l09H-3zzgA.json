@@ -2,7 +2,7 @@
   "youtubeId": "_l09H-3zzgA",
   "title": "Under Cover of Darkness",
   "artist": "The Strokes",
-  "lastFetched": "2025-11-30T20:10:35.076Z",
+  "lastFetched": "2025-12-02T01:29:31.536Z",
   "odesli": {
     "amazonMusic": "B004S8E67I",
     "amazonStore": "B004S8E67I",
@@ -52,6 +52,21 @@
       "post-punk revival",
       "rock",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2011-02-10",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000568137",
+      "bandcamp": "https://thestrokesband.bandcamp.com/",
+      "discogs": "55980",
+      "spotify": "0epOFNiUfyON9EYx7Tpr6V",
+      "deezer": "569",
+      "lastfm": "The+Strokes",
+      "genius": "The-strokes",
+      "rateyourmusic": "the_strokes",
+      "soundcloud": "https://soundcloud.com/thestrokes",
+      "wikidata": "Q211583",
+      "youtube": "UC28OQSWdiW7jkadedZRRyZA"
+    }
   }
 }

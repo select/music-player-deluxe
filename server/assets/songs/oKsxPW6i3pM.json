@@ -2,7 +2,7 @@
   "youtubeId": "oKsxPW6i3pM",
   "title": "The Middle",
   "artist": "Jimmy Eat World",
-  "lastFetched": "2025-11-30T23:12:23.270Z",
+  "lastFetched": "2025-12-02T01:50:49.159Z",
   "odesli": {
     "amazonMusic": "B08QDBLLW6",
     "amazonStore": "B08QDBLLW6",
@@ -35,7 +35,21 @@
       "pop punk",
       "pop rock",
       "power pop"
-    ]
+    ],
+    "releasedAt": "2001",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000852688",
+      "discogs": "82079",
+      "spotify": "3Ayl7mCk0nScecqOzvNp6s",
+      "deezer": "346",
+      "lastfm": "Jimmy+Eat+World",
+      "genius": "Jimmy-eat-world",
+      "rateyourmusic": "jimmy_eat_world",
+      "soundcloud": "https://soundcloud.com/jimmyeatworld",
+      "napster": "jimmy-eat-world",
+      "wikidata": "Q642988"
+    }
   },
   "lastfm": {
     "id": "Jimmy+Eat+World/_/The+Middle",

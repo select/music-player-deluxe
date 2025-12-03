@@ -2,7 +2,7 @@
   "youtubeId": "tT4d1LQy4es",
   "title": "Black Velvet",
   "artist": "Alannah Myles",
-  "lastFetched": "2025-11-23T16:52:04.328Z",
+  "lastFetched": "2025-12-02T01:59:11.682Z",
   "odesli": {
     "amazonMusic": "B004X48WAY",
     "amazonStore": "B004X48WAY",
@@ -33,7 +33,18 @@
       "singer-songwriter"
     ],
     "trackMbid": "df7e9d7b-7a52-37e9-8da9-ce889387e64c",
-    "artistMbid": "14156fcd-ba0f-45be-88c0-e10fb6acf4b2"
+    "artistMbid": "14156fcd-ba0f-45be-88c0-e10fb6acf4b2",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000933621",
+      "discogs": "254403",
+      "spotify": "6IYnSXO40Bh7Zdqhf6rQoj",
+      "deezer": "7950",
+      "genius": "Alannah-myles",
+      "rateyourmusic": "alannah_myles",
+      "wikidata": "Q234687",
+      "youtube": "UClG1wHeJiQebeoTYuViI-rA"
+    }
   },
   "lastfm": {
     "id": "Alannah+Myles/_/Black+Velvet",

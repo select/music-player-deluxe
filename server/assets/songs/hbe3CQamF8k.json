@@ -2,7 +2,7 @@
   "youtubeId": "hbe3CQamF8k",
   "title": "Angel",
   "artist": "Massive Attack",
-  "lastFetched": "2025-11-30T19:38:28.803Z",
+  "lastFetched": "2025-12-02T01:40:36.636Z",
   "odesli": {
     "amazonMusic": "B000T02G8K",
     "amazonStore": "B000T02G8K",
@@ -61,6 +61,24 @@
       "electronica",
       "trip hop",
       "uk street soul"
-    ]
+    ],
+    "releasedAt": "1998-04-17",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "7uv632EkfwYhXoqf8rhYrg"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000378288",
+      "discogs": "4480",
+      "spotify": "6FXMGgJwohJLUSr5nVlf9X",
+      "deezer": "612",
+      "lastfm": "Massive+Attack",
+      "genius": "Massive-attack",
+      "rateyourmusic": "massive_attack",
+      "soundcloud": "https://soundcloud.com/massiveattack",
+      "napster": "massive-attack",
+      "wikidata": "Q357418",
+      "youtube": "UCNgjBASMIxygr65gJs9IyUA"
+    }
   }
 }

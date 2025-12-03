@@ -2,7 +2,7 @@
   "youtubeId": "vMBxuk0r6QQ",
   "title": "Coyotes",
   "artist": "Don Edwards",
-  "lastFetched": "2025-11-23T16:52:50.388Z",
+  "lastFetched": "2025-12-02T02:01:24.657Z",
   "odesli": {
     "amazonMusic": "B003A96LMY",
     "amazonStore": "B003A96LMY",
@@ -27,7 +27,14 @@
       "country"
     ],
     "trackMbid": "495312d7-d138-37ee-97bc-694004981e6d",
-    "artistMbid": "bf69a157-325d-4b73-a11a-fce8079e539c"
+    "artistMbid": "bf69a157-325d-4b73-a11a-fce8079e539c",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000150069",
+      "discogs": "1169676",
+      "wikidata": "Q1239100",
+      "wikipedia": "Don_Edwards_(cowboy_singer)"
+    }
   },
   "lastfm": {
     "id": "Don+Edwards/_/Coyotes",

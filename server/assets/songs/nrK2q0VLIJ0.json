@@ -1,7 +1,7 @@
 {
   "youtubeId": "nrK2q0VLIJ0",
   "title": "Hannes Wader   Bella ciao",
-  "lastFetched": "2025-11-30T20:28:34.563Z",
+  "lastFetched": "2025-12-02T01:50:05.332Z",
   "ai": {
     "title": "Bella ciao",
     "artist": "Hannes Wader"
@@ -34,6 +34,16 @@
       "folk",
       "liedermacher",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "1977",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000958560",
+      "discogs": "312357",
+      "spotify": "1ePGBuJM1znQUYt4qpgUdW",
+      "deezer": "134206",
+      "rateyourmusic": "hannes_wader",
+      "wikidata": "Q65491"
+    }
   }
 }

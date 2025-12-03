@@ -2,7 +2,7 @@
   "youtubeId": "u8z0TgGNOro",
   "title": "Soundtrack",
   "artist": "Alexander Robotnick",
-  "lastFetched": "2025-11-19T17:08:53.360Z",
+  "lastFetched": "2025-12-02T02:00:10.268Z",
   "odesli": {
     "deezer": "2350842355",
     "pandora": "TR:6261619",
@@ -25,6 +25,16 @@
   },
   "musicbrainz": {
     "trackMbid": "0ebd8e8f-14cb-40bf-b53c-83558b04cc0f",
-    "artistMbid": "f413aa93-3b67-4e72-8ef5-101cbfdd6428"
+    "artistMbid": "f413aa93-3b67-4e72-8ef5-101cbfdd6428",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000741692",
+      "discogs": "15975",
+      "spotify": "4ssHihhGpCx4eftfzAI3jq",
+      "lastfm": "Alexander+Robotnick",
+      "rateyourmusic": "alexander-robotnick",
+      "soundcloud": "https://soundcloud.com/alexander-robotnick",
+      "wikidata": "Q2196960"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "eYCxGBjrI4U",
   "title": "Sigma - Nobody To Love (Sigma's Future Jungle Mix)",
-  "lastFetched": "2025-11-30T20:31:26.382Z",
+  "lastFetched": "2025-12-02T01:36:09.113Z",
   "ai": {
     "title": "Nobody To Love (Sigma's Future Jungle Mix)",
     "artist": "Sigma"
@@ -29,6 +29,18 @@
     "artistGenres": [
       "drum and bass",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2014-05-09",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000027780",
+      "discogs": "561924",
+      "spotify": "01pKrlgPJhm5dB4lneYAqS",
+      "deezer": "278529",
+      "rateyourmusic": "sigma_f3",
+      "soundcloud": "https://soundcloud.com/sigmahq",
+      "wikidata": "Q16333772",
+      "youtube": "UCaEe1-y6J_QZzc-fTh0ieuQ"
+    }
   }
 }

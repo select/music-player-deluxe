@@ -2,7 +2,7 @@
   "youtubeId": "V2yy141q8HQ",
   "title": "Novocaine For The Soul",
   "artist": "Eels",
-  "lastFetched": "2025-11-30T21:08:47.424Z",
+  "lastFetched": "2025-12-02T01:20:32.301Z",
   "odesli": {
     "amazonMusic": "B0BQH3CLZM",
     "amazonStore": "B0BQH3CLZM",
@@ -53,6 +53,20 @@
       "singer-songwriter",
       "slowcore",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2006-02-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000174752",
+      "discogs": "74395",
+      "spotify": "3zunDAtRDg7kflREzWAhxl",
+      "deezer": "668",
+      "lastfm": "Eels",
+      "genius": "Eels",
+      "rateyourmusic": "eels",
+      "soundcloud": "https://soundcloud.com/the_eels",
+      "wikidata": "Q11904",
+      "youtube": "UCYn1UDl8kdPoNd32ad-Lo_w"
+    }
   }
 }

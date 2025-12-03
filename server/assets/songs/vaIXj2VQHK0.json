@@ -2,7 +2,7 @@
   "youtubeId": "vaIXj2VQHK0",
   "title": "Green Valley",
   "artist": "Puscifer",
-  "lastFetched": "2025-11-23T16:52:59.818Z",
+  "lastFetched": "2025-12-02T02:01:48.775Z",
   "odesli": {
     "amazonMusic": "B0DZV5L9JP",
     "amazonStore": "B0DZV5L9JP",
@@ -42,7 +42,19 @@
       "industrial"
     ],
     "trackMbid": "6cc9eb54-d00e-31c4-825a-72e9dee82776",
-    "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22"
+    "artistMbid": "6e4277d8-7b64-44a3-b823-13bd15114e22",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000314056",
+      "discogs": "279194",
+      "spotify": "2pAajGWerK3ghwToNWFENS",
+      "deezer": "8030",
+      "lastfm": "Puscifer",
+      "genius": "Puscifer",
+      "rateyourmusic": "puscifer",
+      "wikidata": "Q1636465",
+      "youtube": "UClSC0yg5RZysRZv-uV06RPw"
+    }
   },
   "lastfm": {
     "id": "Puscifer/_/Green+Valley",

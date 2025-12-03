@@ -1,0 +1,74 @@
+{
+  "youtubeId": "pEN1eeyXsTU",
+  "title": "Pins and Needles",
+  "artist": "Billy Talent",
+  "lastFetched": "2025-12-03T11:39:27.093Z",
+  "odesli": {
+    "amazonMusic": "B00123CZN4",
+    "amazonStore": "B00123CZN4",
+    "anghami": "1213226117",
+    "boomplay": "4358626",
+    "deezer": "713392",
+    "appleMusic": "160346630",
+    "itunes": "160346630",
+    "napster": "tra.10553602",
+    "pandora": "TR:160041392",
+    "soundcloud": "billytalent/pins-and-needles",
+    "spotify": "3YuftIhLOyNyL9G29gpyB0",
+    "tidal": "321543",
+    "yandex": "416754",
+    "youtube": "pEN1eeyXsTU",
+    "youtubeMusic": "pEN1eeyXsTU"
+  },
+  "lastfm": {
+    "id": "Billy+Talent/_/Pins+and+Needles",
+    "listeners": 284261,
+    "playcount": 2483551,
+    "title": "Pins and Needles",
+    "artist": "Billy Talent",
+    "mbid": "c2cdff59-3917-48a7-b964-f40eca27b31d",
+    "artistMbid": "fd429857-5ace-4609-ae54-1502c3bdac11",
+    "tags": [
+      "punk rock",
+      "rock",
+      "punk",
+      "alternative",
+      "alternative rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e01a13a3-db85-4b8c-8f5b-55b36cff8004",
+    "artistMbid": "fd429857-5ace-4609-ae54-1502c3bdac11",
+    "releaseCount": 13,
+    "genres": [
+      "alternative rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "pop punk",
+      "pop rock",
+      "punk rock"
+    ],
+    "releasedAt": "2006-06-23",
+    "artistCountry": "CA",
+    "externalIdsTrack": {
+      "spotify": "5epM3ZWurF4zwzYRImqcTY",
+      "soundcloud": "https://soundcloud.com/billytalent/05-pins-needles"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000768585",
+      "bandcamp": "https://billytalentband.bandcamp.com/",
+      "discogs": "287592",
+      "spotify": "08yf5A2nS4XEeNvabDXqyg",
+      "deezer": "2830",
+      "lastfm": "Billy+Talent",
+      "genius": "Billy-talent",
+      "rateyourmusic": "billy_talent",
+      "soundcloud": "https://soundcloud.com/billytalent",
+      "napster": "billy-talent",
+      "wikidata": "Q154815",
+      "youtube": "UCHXV6N-U335ncqCLRpEjJKw"
+    }
+  }
+}

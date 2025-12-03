@@ -2,7 +2,7 @@
   "youtubeId": "_Q6Rixmvujc",
   "title": "Soapy",
   "artist": "Naira Marley",
-  "lastFetched": "2025-11-30T21:39:58.507Z",
+  "lastFetched": "2025-12-02T01:29:04.117Z",
   "odesli": {
     "amazonMusic": "B0BPK3LMXW",
     "amazonStore": "B0BPK3LMXW",
@@ -38,6 +38,15 @@
   "musicbrainz": {
     "trackMbid": "135436b1-cc34-41a8-af06-aae6131b9017",
     "artistMbid": "bf82380b-efc2-473a-a9d3-4d087ce0feb0",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2021-12-10",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003261290",
+      "discogs": "4728875",
+      "spotify": "5DfaMudUwkoz6TAPYifqkJ",
+      "lastfm": "Naira+Marley",
+      "youtube": "UCNWtzYVo1PYlV3ZsLRwe3Pw"
+    }
   }
 }

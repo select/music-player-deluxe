@@ -2,7 +2,7 @@
   "youtubeId": "W2cMVP6McdQ",
   "title": "Bury Me in Smoke",
   "artist": "Down",
-  "lastFetched": "2025-11-23T16:40:59.326Z",
+  "lastFetched": "2025-12-02T01:21:50.062Z",
   "odesli": {
     "amazonMusic": "B001NS06GG",
     "amazonStore": "B001NS06GG",
@@ -36,7 +36,18 @@
       "stoner metal"
     ],
     "trackMbid": "ab6ae712-31b5-326f-874c-2b92ac687c09",
-    "artistMbid": "4c01333f-e8e8-43bd-9923-8de83ef6f63d"
+    "artistMbid": "4c01333f-e8e8-43bd-9923-8de83ef6f63d",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000169189",
+      "discogs": "351418",
+      "spotify": "1m0B9ak05G0jqDY4ACLhQu",
+      "deezer": "7274",
+      "lastfm": "Down",
+      "rateyourmusic": "down",
+      "wikidata": "Q832141",
+      "youtube": "UCdNmSqBXH6xFvNK61i0K-qQ"
+    }
   },
   "lastfm": {
     "id": "Down/_/Bury+Me+in+Smoke",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "pYUcr43cxSY",
   "title": "Radio Tarifa en Vivo \"Sin Palabras\"",
-  "lastFetched": "2025-11-30T20:06:32.117Z",
+  "lastFetched": "2025-12-02T01:52:53.474Z",
   "ai": {
     "title": "Sin Palabras",
     "artist": "Radio Tarifa"
@@ -29,6 +29,14 @@
     "genres": [
       "latin",
       "rumba"
-    ]
+    ],
+    "releasedAt": "2000",
+    "artistCountry": "ES",
+    "externalIdsArtist": {
+      "allmusic": "mn0000326218",
+      "discogs": "241492",
+      "lastfm": "Radio+Tarifa",
+      "wikidata": "Q1755388"
+    }
   }
 }

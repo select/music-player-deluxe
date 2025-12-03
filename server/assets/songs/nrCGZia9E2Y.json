@@ -2,7 +2,7 @@
   "youtubeId": "nrCGZia9E2Y",
   "title": "Termites",
   "artist": "Fracture",
-  "lastFetched": "2025-11-30T23:21:23.300Z",
+  "lastFetched": "2025-12-02T01:50:03.316Z",
   "odesli": {
     "amazonMusic": "B09TWKDZ7N",
     "amazonStore": "B09TWKDZ7N",
@@ -34,6 +34,18 @@
     "artistGenres": [
       "drum and bass",
       "footwork jungle"
-    ]
+    ],
+    "releasedAt": "2022-04-22",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002474368",
+      "bandcamp": "https://fracture.bandcamp.com/",
+      "discogs": "434256",
+      "spotify": "5imJlmURJJk9wicePHiqvo",
+      "deezer": "798877",
+      "lastfm": "Fracture",
+      "rateyourmusic": "fracture_f1",
+      "soundcloud": "https://soundcloud.com/fracture-official"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "YjrOVc8hYqU",
   "title": "Trains To Brazil",
   "artist": "Guillemots",
-  "lastFetched": "2025-11-30T20:50:29.331Z",
+  "lastFetched": "2025-12-02T01:26:42.884Z",
   "odesli": {
     "amazonMusic": "B088KNYDKQ",
     "amazonStore": "B088KNYDKQ",
@@ -45,6 +45,18 @@
       "chamber pop",
       "dream pop",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2005-12-05",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000905023",
+      "discogs": "537102",
+      "spotify": "3zD5liDjbqljSRorrrcEjs",
+      "deezer": "5986",
+      "lastfm": "Guillemots",
+      "rateyourmusic": "guillemots",
+      "soundcloud": "https://soundcloud.com/guillemots",
+      "wikidata": "Q1555502"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ldYv5kqLVS0",
   "title": "Joe Blues",
   "artist": "The Moving Sidewalks",
-  "lastFetched": "2025-11-30T22:49:56.281Z",
+  "lastFetched": "2025-12-02T01:46:45.445Z",
   "lastfm": {
     "title": "Joe Blues",
     "artist": "The Moving Sidewalks",
@@ -31,6 +31,20 @@
     "artistGenres": [
       "garage rock",
       "psychedelic rock"
-    ]
+    ],
+    "releasedAt": "1968-08",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "71U7b2Jz4JWCqsEDbbgDkN",
+      "deezer": "812886"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000503563",
+      "discogs": "684681",
+      "spotify": "1mVnnp85GXJce62susfwac",
+      "deezer": "12180",
+      "rateyourmusic": "the_moving_sidewalks",
+      "wikidata": "Q657317"
+    }
   }
 }

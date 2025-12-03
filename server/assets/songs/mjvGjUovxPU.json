@@ -2,7 +2,7 @@
   "youtubeId": "mjvGjUovxPU",
   "title": "Nothing Else Matters",
   "artist": "Apocalyptica",
-  "lastFetched": "2025-11-30T20:43:47.066Z",
+  "lastFetched": "2025-12-02T01:48:20.627Z",
   "odesli": {
     "amazonMusic": "B0BF4DNRG6",
     "amazonStore": "B0BF4DNRG6",
@@ -63,6 +63,20 @@
       "metal",
       "neoclassical metal",
       "symphonic metal"
-    ]
+    ],
+    "releasedAt": "2006-05-26",
+    "artistCountry": "FI",
+    "externalIdsArtist": {
+      "allmusic": "mn0000594121",
+      "discogs": "17482",
+      "spotify": "4Lm0pUvmisUHMdoky5ch2I",
+      "deezer": "912",
+      "lastfm": "Apocalyptica",
+      "genius": "Apocalyptica",
+      "rateyourmusic": "apocalyptica",
+      "soundcloud": "https://soundcloud.com/apocalyptica",
+      "wikidata": "Q484421",
+      "youtube": "UCpqq5sZCFH6vkIrO9PZc8bA"
+    }
   }
 }

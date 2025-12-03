@@ -2,7 +2,7 @@
   "youtubeId": "ccZuKOTb6ug",
   "title": "Blue Lips",
   "artist": "Regina Spektor",
-  "lastFetched": "2025-12-01T13:00:22.684Z",
+  "lastFetched": "2025-12-02T01:33:45.816Z",
   "odesli": {
     "amazonMusic": "B002CONFW2",
     "amazonStore": "B002CONFW2",
@@ -50,6 +50,19 @@
       "pop rock",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2009-06-09",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000386560",
+      "discogs": "413427",
+      "spotify": "3z6Gk257P9jNcZbBXJNX5i",
+      "deezer": "1568",
+      "lastfm": "Regina+Spektor",
+      "rateyourmusic": "regina_spektor",
+      "soundcloud": "https://soundcloud.com/reginaspektor",
+      "wikidata": "Q229274",
+      "youtube": "UCXLFs5gTV3rjGPFkgxFoDxQ"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "a01QQZyl-_I",
   "title": "Under Pressure",
   "artist": "Queen",
-  "lastFetched": "2025-11-30T19:53:58.263Z",
+  "lastFetched": "2025-12-02T01:29:57.937Z",
   "odesli": {
     "amazonMusic": "B01JD7DA7A",
     "amazonStore": "B01JD7DA7A",
@@ -48,6 +48,22 @@
       "progressive rock",
       "rock",
       "symphonic rock"
-    ]
+    ],
+    "releasedAt": "2012-06-11",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000858827",
+      "discogs": "81013",
+      "spotify": "1dfeR4HaWDbWqFHLkxsg1d",
+      "deezer": "412",
+      "lastfm": "Queen",
+      "genius": "Queen",
+      "rateyourmusic": "queen",
+      "soundcloud": "https://soundcloud.com/queen-69312",
+      "napster": "queen",
+      "wikidata": "Q15862",
+      "wikipedia": "Queen_(band)",
+      "youtube": "UCEPMVbUzImPl4p8k4LkGevA"
+    }
   }
 }

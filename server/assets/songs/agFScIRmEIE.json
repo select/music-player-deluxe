@@ -3,7 +3,7 @@
   "artist": "Jah Shaka & Mad Professor",
   "duration": 171,
   "youtubeId": "agFScIRmEIE",
-  "lastFetched": "2025-11-23T16:43:23.289Z",
+  "lastFetched": "2025-12-02T01:30:56.249Z",
   "odesli": {
     "amazonMusic": "B000QYYBRS",
     "amazonStore": "B000QYYBRS",
@@ -33,7 +33,18 @@
     ],
     "trackMbid": "6038bbca-b386-41b1-9ef1-f857cc297945",
     "artistMbid": "47b2253e-034f-4806-b65c-7cee187f34d8",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2013-06-07",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000107383",
+      "bandcamp": "https://jahshaka.bandcamp.com/",
+      "discogs": "157538",
+      "spotify": "3UdoO8DiElu02b95ig57cC",
+      "lastfm": "Jah%20Shaka",
+      "rateyourmusic": "jah_shaka",
+      "wikidata": "Q726991"
+    }
   },
   "ai": {
     "title": "People Of Yoruba",

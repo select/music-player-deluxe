@@ -2,7 +2,7 @@
   "youtubeId": "ev-bR9ii7Gs",
   "title": "Lydia",
   "artist": "Highly Suspect",
-  "lastFetched": "2025-11-30T21:14:39.045Z",
+  "lastFetched": "2025-12-02T01:36:46.723Z",
   "odesli": {
     "amazonMusic": "B07VY1PW81",
     "amazonStore": "B07VY1PW81",
@@ -44,6 +44,18 @@
       "alternative rock",
       "hard rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2013",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003381371",
+      "discogs": "4518659",
+      "spotify": "2pqd3HsfsvcBGtHvPOg6eg",
+      "deezer": "1608029",
+      "lastfm": "Highly+Suspect",
+      "genius": "Highly-suspect",
+      "soundcloud": "https://soundcloud.com/highlysuspect",
+      "wikidata": "Q20527609"
+    }
   }
 }

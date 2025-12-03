@@ -1,7 +1,7 @@
 {
   "youtubeId": "W_m-kWYmUG0",
   "title": "Creutzfeld & Jakob - Bunkerwelt in Witten Feat. Onanon & Dike",
-  "lastFetched": "2025-11-30T19:41:52.905Z",
+  "lastFetched": "2025-12-02T01:22:48.647Z",
   "ai": {
     "title": "Bunkerwelt in Witten",
     "artist": "Creutzfeld & Jakob"
@@ -24,6 +24,16 @@
     "releaseCount": 1,
     "genres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2000",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001993595",
+      "discogs": "235304",
+      "deezer": "78705",
+      "lastfm": "Creutzfeld+&+Jakob",
+      "wikidata": "Q1139793",
+      "wikipedia": "Creutzfeld_%26_Jakob"
+    }
   }
 }

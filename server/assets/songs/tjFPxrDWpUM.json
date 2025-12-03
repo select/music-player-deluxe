@@ -1,7 +1,7 @@
 {
   "youtubeId": "tjFPxrDWpUM",
   "title": "The Vandals - \"My Girlfriend's Dead\" Kung Fu Records",
-  "lastFetched": "2025-11-30T20:40:26.518Z",
+  "lastFetched": "2025-12-02T01:59:43.322Z",
   "ai": {
     "title": "My Girlfriend's Dead",
     "artist": "The Vandals"
@@ -27,6 +27,16 @@
     "artistGenres": [
       "punk",
       "skate punk"
-    ]
+    ],
+    "releasedAt": "1998",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000920994",
+      "discogs": "253313",
+      "spotify": "4AqIRTZF6DDmKmdorgFug6",
+      "deezer": "4711",
+      "rateyourmusic": "the_vandals",
+      "wikidata": "Q1570297"
+    }
   }
 }

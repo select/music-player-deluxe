@@ -2,7 +2,7 @@
   "youtubeId": "znSs7uEXCeo",
   "title": "Désolé pour hier soir",
   "artist": "Tryo",
-  "lastFetched": "2025-11-30T20:36:40.529Z",
+  "lastFetched": "2025-12-02T02:08:20.253Z",
   "odesli": {
     "amazonMusic": "B08NWR59LG",
     "amazonStore": "B08NWR59LG",
@@ -43,6 +43,17 @@
     "artistGenres": [
       "reggae",
       "reggae-pop"
-    ]
+    ],
+    "releasedAt": "2003-06-02",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000535279",
+      "discogs": "467421",
+      "spotify": "4ZP3CHz28XWVLGiaVVWuLj",
+      "deezer": "457",
+      "rateyourmusic": "tryo",
+      "soundcloud": "https://soundcloud.com/tryo",
+      "wikidata": "Q1752957"
+    }
   }
 }

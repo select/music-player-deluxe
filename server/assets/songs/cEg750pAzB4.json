@@ -2,7 +2,7 @@
   "youtubeId": "cEg750pAzB4",
   "title": "Los Días Antes a Melina",
   "artist": "Comedia",
-  "lastFetched": "2025-11-30T22:22:32.105Z",
+  "lastFetched": "2025-12-02T01:32:57.558Z",
   "odesli": {
     "amazonMusic": "B07RVLZ4C4",
     "amazonStore": "B07RVLZ4C4",
@@ -25,6 +25,7 @@
   "musicbrainz": {
     "trackMbid": "9773cb42-d7cd-4e98-a60c-11a9721f49a5",
     "artistMbid": "9b836cf2-33a0-45e4-af9e-34947999fd8e",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-03-16"
   }
 }

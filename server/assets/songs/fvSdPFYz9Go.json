@@ -3,7 +3,7 @@
   "artist": "Arto Lindsay",
   "duration": 231,
   "youtubeId": "fvSdPFYz9Go",
-  "lastFetched": "2025-11-19T03:40:46.169Z",
+  "lastFetched": "2025-12-02T01:38:09.444Z",
   "odesli": {
     "amazonMusic": "B07F42WN6J",
     "amazonStore": "B07F42WN6J",
@@ -18,7 +18,18 @@
     ],
     "trackMbid": "02ef8087-6747-4782-98b2-7e2a57286ae4",
     "artistMbid": "6c1904f2-dacf-4389-b828-d2cedc6f12b4",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2017-01-06",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000793623",
+      "discogs": "10293",
+      "spotify": "603tEfBHMH1LzenDGJsgCh",
+      "deezer": "4954",
+      "lastfm": "Arto%20Lindsay",
+      "rateyourmusic": "arto_lindsay",
+      "wikidata": "Q591445"
+    }
   },
   "lastfm": {
     "id": "Arto+Lindsay/_/TANGLES",

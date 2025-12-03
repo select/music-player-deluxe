@@ -2,7 +2,7 @@
   "youtubeId": "e-Ozl7Q6X0g",
   "title": "Nosferatu",
   "artist": "Kuhn Fu",
-  "lastFetched": "2025-11-30T23:32:13.525Z",
+  "lastFetched": "2025-12-02T01:35:32.232Z",
   "lastfm": {
     "id": "Kuhn+Fu/_/Nosferatu",
     "listeners": 74,
@@ -18,6 +18,14 @@
   "musicbrainz": {
     "artistMbid": "9c239f76-b8bd-4d06-a37a-3ecbe998184f",
     "trackMbid": "79be28f3-71f1-40be-868d-f1e140d6d29e",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2015-06-28",
+    "artistCountry": "XE",
+    "externalIdsArtist": {
+      "bandcamp": "https://kuhnfumusic.bandcamp.com/",
+      "discogs": "4695889",
+      "spotify": "4nIWSWxET8QsNicwHn5hKC",
+      "deezer": "12049478"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "nB-xqDZbEVQ",
   "title": "Blue Skies",
   "artist": "Ella Fitzgerald",
-  "lastFetched": "2025-11-30T22:36:16.392Z",
+  "lastFetched": "2025-12-02T01:49:02.106Z",
   "lastfm": {
     "title": "Blue Skies",
     "artist": "Ella Fitzgerald",
@@ -34,6 +34,18 @@
       "pop",
       "swing",
       "vocal jazz"
-    ]
+    ],
+    "releasedAt": "1959",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000184502",
+      "discogs": "31615",
+      "spotify": "5V0MlUE1Bft0mbLlND7FJz",
+      "deezer": "3280",
+      "lastfm": "Ella+Fitzgerald",
+      "genius": "Ella-fitzgerald",
+      "rateyourmusic": "ella_fitzgerald",
+      "wikidata": "Q1768"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "bk56bjCRN8Y",
   "title": "burning grey",
   "artist": "Jaimie Branch",
-  "lastFetched": "2025-11-23T16:43:52.127Z",
+  "lastFetched": "2025-12-02T01:32:12.016Z",
   "odesli": {
     "amazonMusic": "B0C5T2V9YN",
     "amazonStore": "B0C5T2V9YN",
@@ -30,7 +30,19 @@
       "jazz"
     ],
     "trackMbid": "a61fa87e-dcbd-4cdb-8fd3-7925ba83cd06",
-    "artistMbid": "8ff2bf9c-d1b6-4134-ae14-b837913c3dfd"
+    "artistMbid": "8ff2bf9c-d1b6-4134-ae14-b837913c3dfd",
+    "releasedAt": "2023-08-25",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000990914",
+      "bandcamp": "https://jaimiebranch.bandcamp.com/",
+      "discogs": "914585",
+      "spotify": "54T6Gso8zGPk4czyWlnUw5",
+      "deezer": "7700006",
+      "lastfm": "Jaimie+Branch",
+      "rateyourmusic": "jaimie-branch",
+      "wikidata": "Q25931284"
+    }
   },
   "lastfm": {
     "id": "Jaimie+Branch/_/burning+grey",

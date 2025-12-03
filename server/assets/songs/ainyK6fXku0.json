@@ -2,7 +2,7 @@
   "youtubeId": "ainyK6fXku0",
   "title": "Common People",
   "artist": "William Shatner",
-  "lastFetched": "2025-11-30T21:16:19.018Z",
+  "lastFetched": "2025-12-02T01:31:03.613Z",
   "odesli": {
     "amazonMusic": "B00J534HKC",
     "amazonStore": "B00J534HKC",
@@ -39,6 +39,16 @@
       "punk",
       "rock",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "2004-10-04",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000579627",
+      "discogs": "139175",
+      "spotify": "2dPqql8xbby3nWuf98mAza",
+      "lastfm": "William+Shatner",
+      "rateyourmusic": "william_shatner",
+      "wikidata": "Q16297"
+    }
   }
 }

@@ -1,0 +1,65 @@
+{
+  "youtubeId": "2AMMb9CiScI",
+  "title": "Happens to the Heart",
+  "artist": "Leonard Cohen",
+  "lastFetched": "2025-12-03T12:06:32.286Z",
+  "odesli": {
+    "amazonMusic": "B07XW8K12Q",
+    "amazonStore": "B07XW8K12Q",
+    "anghami": "62417481",
+    "boomplay": "10328219",
+    "appleMusic": "1480060932",
+    "itunes": "1480060932",
+    "pandora": "TR:26037761",
+    "soundcloud": "papercutgr/leonard-cohen-happens-to-the-heart-papercut-mix",
+    "spotify": "2DkpoHJ1h88e9dyc6SFIm2",
+    "tidal": "122848198",
+    "yandex": "59141032",
+    "youtube": "2AMMb9CiScI",
+    "youtubeMusic": "2AMMb9CiScI"
+  },
+  "lastfm": {
+    "id": "Leonard+Cohen/_/Happens+to+the+Heart",
+    "listeners": 58421,
+    "playcount": 292294,
+    "title": "Happens to the Heart",
+    "artist": "Leonard Cohen",
+    "mbid": "3357e330-af01-4595-92e8-7c7387ed166a",
+    "artistMbid": "65314b12-0e08-43fa-ba33-baaa7b874c15",
+    "tags": [
+      "folk",
+      "singer-songwriter",
+      "2019",
+      "blues",
+      "canadian"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "85ecf46c-c85f-4057-b11d-adceb872fb6f",
+    "artistMbid": "65314b12-0e08-43fa-ba33-baaa7b874c15",
+    "releaseCount": 9,
+    "artistGenres": [
+      "blues rock",
+      "contemporary folk",
+      "folk",
+      "folk rock",
+      "poetry",
+      "pop",
+      "rock",
+      "singer-songwriter"
+    ],
+    "releasedAt": "2019-10-25",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000071209",
+      "discogs": "227848",
+      "spotify": "5l8VQNuIg0turYE1VtM9zV",
+      "deezer": "1834",
+      "lastfm": "Leonard+Cohen",
+      "genius": "Leonard-cohen",
+      "rateyourmusic": "leonard_cohen",
+      "soundcloud": "https://soundcloud.com/leonardcohen",
+      "wikidata": "Q1276"
+    }
+  }
+}

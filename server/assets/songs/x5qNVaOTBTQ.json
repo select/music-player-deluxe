@@ -2,7 +2,7 @@
   "youtubeId": "x5qNVaOTBTQ",
   "title": "Battle of the Planets",
   "artist": "Fader Gladiator",
-  "lastFetched": "2025-11-19T14:32:07.750Z",
+  "lastFetched": "2025-12-02T02:04:01.078Z",
   "lastfm": {
     "id": "Fader+Gladiator/_/Battle+of+the+Planets",
     "listeners": 776,
@@ -16,6 +16,15 @@
   },
   "musicbrainz": {
     "trackMbid": "d1e16844-4625-355c-975c-002875bdea04",
-    "artistMbid": "c397c8cb-3f61-428a-bf9a-ce8167bb9238"
+    "artistMbid": "c397c8cb-3f61-428a-bf9a-ce8167bb9238",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001223336",
+      "discogs": "14729",
+      "spotify": "4PTILgpqHyy1S4acQJF5Tz",
+      "deezer": "9052164",
+      "lastfm": "Fader+Gladiator",
+      "wikidata": "Q1292277"
+    }
   }
 }

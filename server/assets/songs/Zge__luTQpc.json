@@ -2,7 +2,7 @@
   "youtubeId": "Zge__luTQpc",
   "title": "Sphinx",
   "artist": "Harry Thumann",
-  "lastFetched": "2025-11-30T22:50:44.938Z",
+  "lastFetched": "2025-12-02T01:27:58.224Z",
   "lastfm": {
     "title": "Sphinx",
     "artist": "Harry Thumann",
@@ -30,6 +30,13 @@
     ],
     "artistGenres": [
       "disco"
-    ]
+    ],
+    "releasedAt": "2007-04-02",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000082090",
+      "discogs": "6720",
+      "wikidata": "Q14352872"
+    }
   }
 }

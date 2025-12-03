@@ -2,7 +2,7 @@
   "youtubeId": "a6JUTiVj5Sw",
   "title": "Bureau De Fatigue",
   "artist": "Laundromat",
-  "lastFetched": "2025-11-30T23:00:21.642Z",
+  "lastFetched": "2025-12-02T01:30:05.274Z",
   "odesli": {
     "amazonMusic": "B0BH17C7FC",
     "amazonStore": "B0BH17C7FC",
@@ -29,6 +29,16 @@
   "musicbrainz": {
     "artistMbid": "4e7819f0-0139-4db3-8b27-4ef8d75b1231",
     "trackMbid": "4be2a344-ba06-4f0c-8a9a-8ba6cd885ec3",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2020-11-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://laundromatmusica.bandcamp.com/",
+      "discogs": "8293865",
+      "spotify": "4MyYqCvbqndRDqEqBzuHXm",
+      "genius": "Laundromat",
+      "rateyourmusic": "laundromat-1",
+      "soundcloud": "https://soundcloud.com/laundromatmusica"
+    }
   }
 }

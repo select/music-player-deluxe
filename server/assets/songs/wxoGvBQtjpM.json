@@ -3,7 +3,7 @@
   "artist": "Big Mama Thornton",
   "duration": 180,
   "youtubeId": "wxoGvBQtjpM",
-  "lastFetched": "2025-11-19T04:11:16.790Z",
+  "lastFetched": "2025-12-02T02:03:44.053Z",
   "musicbrainz": {
     "tags": [
       "blues",
@@ -14,7 +14,17 @@
     ],
     "trackMbid": "cd640d5f-111a-4222-9681-a10983aba5e2",
     "artistMbid": "2993f855-403f-4c6a-bea9-088cd5d354dc",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1975",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000762288",
+      "discogs": "648359",
+      "spotify": "6bR0cgMtkCVpm0I5yrDNzO",
+      "deezer": "8989",
+      "rateyourmusic": "big_mama_thornton",
+      "wikidata": "Q237527"
+    }
   },
   "lastfm": {
     "id": "Big+Mama+Thornton/_/Hound+Dog",

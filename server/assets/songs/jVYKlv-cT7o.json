@@ -2,7 +2,7 @@
   "youtubeId": "jVYKlv-cT7o",
   "title": "Anaesthetist",
   "artist": "Pola & Bryson",
-  "lastFetched": "2025-11-30T22:49:16.505Z",
+  "lastFetched": "2025-12-02T01:43:15.471Z",
   "odesli": {
     "amazonMusic": "B09MNFFNPQ",
     "amazonStore": "B09MNFFNPQ",
@@ -29,6 +29,16 @@
     "artistGenres": [
       "drum and bass",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2021-09-03",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://polabryson.bandcamp.com/",
+      "discogs": "4539210",
+      "spotify": "79PzyYqAyunWsVH4tY4vpr",
+      "deezer": "7743396",
+      "soundcloud": "https://soundcloud.com/pola-bryson",
+      "youtube": "UCHiskfcxC5EgmA5pP0jaKdQ"
+    }
   }
 }

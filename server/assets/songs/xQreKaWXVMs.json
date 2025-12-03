@@ -3,7 +3,7 @@
   "artist": "µ-Ziq",
   "duration": 317,
   "youtubeId": "xQreKaWXVMs",
-  "lastFetched": "2025-11-23T16:53:43.339Z",
+  "lastFetched": "2025-12-02T02:04:40.195Z",
   "odesli": {
     "amazonMusic": "B0FM48JXYD",
     "amazonStore": "B0FM48JXYD",
@@ -46,7 +46,23 @@
     ],
     "trackMbid": "4e8cbadd-7d52-4387-8361-eb712cac8057",
     "artistMbid": "aae5b930-c59c-4509-81a1-4e65e8f424e4",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-09-05",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "02HTFXaUZENzXrc1B3heIb",
+      "deezer": "3504924201"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000510042",
+      "bandcamp": "https://mikeparadinas.bandcamp.com/",
+      "discogs": "1075",
+      "spotify": "7AiamoV760pPGGM5PbOC6X",
+      "deezer": "9445",
+      "rateyourmusic": "__ziq",
+      "soundcloud": "https://soundcloud.com/mikep",
+      "wikidata": "Q446572"
+    }
   },
   "lastfm": {
     "id": "%C2%B5-Ziq/_/Escorial",

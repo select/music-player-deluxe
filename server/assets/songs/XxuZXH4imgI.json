@@ -2,7 +2,7 @@
   "youtubeId": "XxuZXH4imgI",
   "title": "Mr. Taxi Driver",
   "artist": "Munan",
-  "lastFetched": "2025-11-30T23:01:37.405Z",
+  "lastFetched": "2025-12-02T01:25:10.549Z",
   "odesli": {
     "amazonMusic": "B0C1NZRWLD",
     "amazonStore": "B0C1NZRWLD",
@@ -26,6 +26,10 @@
   "musicbrainz": {
     "artistMbid": "bde38975-19f2-4d10-a3e5-bc225182a306",
     "trackMbid": "d5a111e2-e544-406a-aa24-0629383bef87",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-09-13",
+    "externalIdsArtist": {
+      "deezer": "12554888"
+    }
   }
 }

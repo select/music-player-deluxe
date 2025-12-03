@@ -1,0 +1,58 @@
+{
+  "youtubeId": "7XzLbGssArQ",
+  "title": "Papaya",
+  "artist": "Alexander Marcus",
+  "lastFetched": "2025-12-03T11:43:07.413Z",
+  "odesli": {
+    "amazonMusic": "B001BW4HO6",
+    "amazonStore": "B001BW4HO6",
+    "deezer": "1420230422",
+    "appleMusic": "281343205",
+    "itunes": "281343205",
+    "napster": "tra.21689008",
+    "pandora": "TR:14080086",
+    "soundcloud": "alexandermarcus/papaya",
+    "spotify": "47fNN4T4roB7TzOb9X2UQb",
+    "tidal": "189526637",
+    "yandex": "2449981",
+    "youtube": "7XzLbGssArQ",
+    "youtubeMusic": "7XzLbGssArQ"
+  },
+  "lastfm": {
+    "id": "Alexander+Marcus/_/Papaya",
+    "listeners": 20254,
+    "playcount": 99593,
+    "title": "Papaya",
+    "artist": "Alexander Marcus",
+    "tags": [
+      "german",
+      "electro",
+      "electrolore"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0fb8b3c1-f084-4fc1-be5c-42577a07bb82",
+    "artistMbid": "1d523b84-9ffd-409a-9883-be1ba25e5102",
+    "releaseCount": 4,
+    "genres": [
+      "electro",
+      "electroclash",
+      "electronic",
+      "house",
+      "pop",
+      "schlager",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "electro"
+    ],
+    "releasedAt": "2008-06-06",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001029756",
+      "discogs": "1137862",
+      "spotify": "4WmEJkzJ7Z3yeIa98QS93Y",
+      "wikidata": "Q327383"
+    }
+  }
+}

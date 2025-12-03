@@ -1,0 +1,69 @@
+{
+  "youtubeId": "9c5yPIQ3LQI",
+  "title": "Ma Baker",
+  "artist": "Boney M.",
+  "lastFetched": "2025-12-03T12:03:56.532Z",
+  "odesli": {
+    "amazonMusic": "B01EE9LR6I",
+    "amazonStore": "B01EE9LR6I",
+    "anghami": "742923",
+    "boomplay": "11340791",
+    "pandora": "TR:9764751",
+    "soundcloud": "boney-m-official/ma-baker-4",
+    "spotify": "1BqnZOkYJbvYLOhN0qPJDm",
+    "tidal": "16822019",
+    "yandex": "609522",
+    "youtube": "9c5yPIQ3LQI",
+    "youtubeMusic": "9c5yPIQ3LQI"
+  },
+  "lastfm": {
+    "summary": "\"Ma Baker\" is a song by disco group Boney M., released as a single in 1977. It was the first single off their second album Love for Sale and their third consecutive chart-topper in Germany. The song was a huge success in Europe and Latin America, topping the charts in many countries there. It was a number 2 hit in the UK (only surpassed by Donna Summer's \"I Feel Love\"). In the U.S, the song only reached number 96. <a href=\"http://www.last.fm/music/Boney+M./_/Ma+Baker\">Read more on Last.fm</a>.",
+    "id": "Boney+M./_/Ma+Baker",
+    "listeners": 272878,
+    "playcount": 1431532,
+    "title": "Ma Baker",
+    "artist": "Boney M.",
+    "artistMbid": "5403bf6e-bc1d-4e62-b31f-926a2bf66a14",
+    "tags": [
+      "disco",
+      "70s",
+      "pop",
+      "dance"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e94c5643-3eed-4901-bb49-c4eb369796d3",
+    "artistMbid": "5403bf6e-bc1d-4e62-b31f-926a2bf66a14",
+    "releaseCount": 25,
+    "genres": [
+      "disco",
+      "electronic",
+      "metal",
+      "pop"
+    ],
+    "artistGenres": [
+      "dance-pop",
+      "disco",
+      "europop",
+      "pop",
+      "soul"
+    ],
+    "releasedAt": "1977-05-02",
+    "artistCountry": "DE",
+    "externalIdsTrack": {
+      "deezer": "1049255"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000081403",
+      "discogs": "7370641",
+      "spotify": "54R6Y0I7jGUCveDTtI21nb",
+      "deezer": "308",
+      "lastfm": "Boney+M.",
+      "genius": "Boney-m",
+      "rateyourmusic": "boney_m_",
+      "soundcloud": "https://soundcloud.com/boney-m-official",
+      "wikidata": "Q156298",
+      "youtube": "UC4VgwFaENFDrIjt8a4XjmaQ"
+    }
+  }
+}

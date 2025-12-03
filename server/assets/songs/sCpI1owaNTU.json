@@ -2,7 +2,7 @@
   "youtubeId": "sCpI1owaNTU",
   "title": "Piano Man",
   "artist": "Billy Joel",
-  "lastFetched": "2025-11-30T23:31:16.814Z",
+  "lastFetched": "2025-12-02T01:57:17.313Z",
   "musicbrainz": {
     "tags": [
       "classic rock",
@@ -22,7 +22,21 @@
       "rock",
       "singer-songwriter",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "1990-12",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000085915",
+      "discogs": "137418",
+      "spotify": "6zFYqv1mOsgBRQbae3JJ9e",
+      "deezer": "423",
+      "lastfm": "Billy+Joel",
+      "genius": "Billy-joel",
+      "rateyourmusic": "billy_joel",
+      "soundcloud": "https://soundcloud.com/billyjoel",
+      "wikidata": "Q194333",
+      "youtube": "UCGEfxrwIPBuRqxeh-3JUSkg"
+    }
   },
   "lastfm": {
     "id": "Billy+Joel/_/Piano+Man",

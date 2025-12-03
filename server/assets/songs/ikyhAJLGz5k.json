@@ -2,7 +2,7 @@
   "youtubeId": "ikyhAJLGz5k",
   "title": "Brothers Keeper",
   "artist": "Mark Instinct",
-  "lastFetched": "2025-11-30T20:43:18.691Z",
+  "lastFetched": "2025-12-02T01:42:05.942Z",
   "odesli": {
     "amazonMusic": "B072PY8SC9",
     "amazonStore": "B072PY8SC9",
@@ -15,6 +15,15 @@
     "releaseCount": 1,
     "artistGenres": [
       "electronic"
-    ]
+    ],
+    "releasedAt": "2014-08-11",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "discogs": "1495429",
+      "spotify": "5IDtOOZj9h2gnxX6SLy9TF",
+      "deezer": "604766",
+      "soundcloud": "https://soundcloud.com/mark_instinct",
+      "youtube": "UCzVhN4qGztCIjkNTKPN-ogQ"
+    }
   }
 }

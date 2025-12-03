@@ -2,7 +2,7 @@
   "youtubeId": "saz95lOkfv0",
   "title": "Are You In?",
   "artist": "Incubus",
-  "lastFetched": "2025-11-23T16:51:42.844Z",
+  "lastFetched": "2025-12-02T01:57:43.844Z",
   "odesli": {
     "amazonMusic": "B0013DC6TG",
     "amazonStore": "B0013DC6TG",
@@ -41,7 +41,21 @@
       "nu metal"
     ],
     "trackMbid": "e9c11d1c-bb19-4495-9669-89a665b963fd",
-    "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5"
+    "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5",
+    "releasedAt": "2008-06-06",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000772745",
+      "discogs": "149192",
+      "spotify": "3YcBF2ttyueytpXtEzn1Za",
+      "deezer": "693",
+      "lastfm": "Incubus",
+      "genius": "Incubus",
+      "rateyourmusic": "incubus",
+      "soundcloud": "https://soundcloud.com/incubus",
+      "wikidata": "Q1661036",
+      "youtube": "UCjvwoDIrMmlSOINUPZWM3CA"
+    }
   },
   "lastfm": {
     "id": "Incubus/_/Are+You+In%3F",

@@ -2,7 +2,7 @@
   "youtubeId": "taYfc5cgMPE",
   "title": "Shake It",
   "artist": "Mc Shy D",
-  "lastFetched": "2025-11-30T22:20:12.674Z",
+  "lastFetched": "2025-12-02T01:59:28.999Z",
   "odesli": {
     "amazonMusic": "B07WNXDHMV",
     "amazonStore": "B07WNXDHMV",
@@ -41,6 +41,18 @@
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "1994-08-16",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000182331",
+      "discogs": "43315",
+      "spotify": "7tvXK65inF7sWJ255UigSI",
+      "deezer": "5155376",
+      "lastfm": "MC+Shy+D",
+      "rateyourmusic": "mc_shy_d",
+      "soundcloud": "https://soundcloud.com/mcshy-d",
+      "wikidata": "Q47160828"
+    }
   }
 }

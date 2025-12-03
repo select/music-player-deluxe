@@ -2,7 +2,7 @@
   "youtubeId": "diIFhc_Kzng",
   "title": "Nikes",
   "artist": "Frank Ocean",
-  "lastFetched": "2025-11-19T17:24:09.543Z",
+  "lastFetched": "2025-12-02T01:35:18.283Z",
   "odesli": {
     "amazonMusic": "B01LYRB9G8",
     "amazonStore": "B01LYRB9G8",
@@ -27,7 +27,20 @@
       "Frank Ocean"
     ],
     "trackMbid": "079b495f-f4af-4878-a036-d0bcb0df65f8",
-    "artistMbid": "e520459c-dff4-491d-a6e4-c97be35e0044"
+    "artistMbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002592086",
+      "discogs": "2013868",
+      "spotify": "2h93pZq0e7k5yf4dywlkpM",
+      "deezer": "1350335",
+      "lastfm": "Frank+Ocean",
+      "genius": "Frank-ocean",
+      "rateyourmusic": "frank-ocean",
+      "soundcloud": "https://soundcloud.com/frankocean",
+      "wikidata": "Q357645",
+      "youtube": "UCqf-kTp9ERV5T1rPayno7LA"
+    }
   },
   "lastfm": {
     "id": "Frank+Ocean/_/Nikes",

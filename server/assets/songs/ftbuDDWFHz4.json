@@ -2,7 +2,7 @@
   "youtubeId": "ftbuDDWFHz4",
   "title": "Black Betty (Single Edit)",
   "artist": "Spiderbait",
-  "lastFetched": "2025-11-23T16:45:57.100Z",
+  "lastFetched": "2025-12-02T01:38:07.105Z",
   "odesli": {
     "amazonMusic": "B000V61D5O",
     "amazonStore": "B000V61D5O",
@@ -45,7 +45,19 @@
       "rock"
     ],
     "trackMbid": "365981ac-0d12-452a-8511-ca846fabaae2",
-    "artistMbid": "6f0c596e-c5e6-4bae-87c2-4c69cb3d4067"
+    "artistMbid": "6f0c596e-c5e6-4bae-87c2-4c69cb3d4067",
+    "releasedAt": "2004-03-15",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000005895",
+      "discogs": "254490",
+      "spotify": "6P7kkhED6EPrfoZuxz20Fo",
+      "deezer": "2825",
+      "lastfm": "Spiderbait",
+      "genius": "Spiderbait",
+      "rateyourmusic": "spiderbait",
+      "wikidata": "Q1294844"
+    }
   },
   "lastfm": {
     "id": "Spiderbait/_/Black+Betty+(Single+Edit)",

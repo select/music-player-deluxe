@@ -2,7 +2,7 @@
   "youtubeId": "YIZVApRF5sg",
   "title": "Take Me Out",
   "artist": "Scissor Sisters",
-  "lastFetched": "2025-11-30T21:18:55.927Z",
+  "lastFetched": "2025-12-02T01:25:41.872Z",
   "odesli": {
     "amazonMusic": "B0DP8J2LS7",
     "amazonStore": "B0DP8J2LS7",
@@ -41,6 +41,20 @@
       "glam rock",
       "indie pop",
       "pop"
-    ]
+    ],
+    "releasedAt": "2004-10-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000836394",
+      "discogs": "51888",
+      "spotify": "3Y10boYzeuFCJ4Qgp53w6o",
+      "deezer": "565",
+      "lastfm": "Scissor+Sisters",
+      "genius": "Scissor-sisters",
+      "rateyourmusic": "scissor_sisters",
+      "soundcloud": "https://soundcloud.com/scissorsisters",
+      "napster": "scissor-sisters",
+      "wikidata": "Q464109"
+    }
   }
 }

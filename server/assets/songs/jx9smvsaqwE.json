@@ -1,7 +1,7 @@
 {
   "youtubeId": "jx9smvsaqwE",
   "title": "WALTER MURPHY Mostly Mozart 1979",
-  "lastFetched": "2025-11-30T20:18:52.967Z",
+  "lastFetched": "2025-12-02T01:43:52.327Z",
   "ai": {
     "title": "Mostly Mozart",
     "artist": "WALTER MURPHY"
@@ -35,6 +35,17 @@
       "jazz",
       "pop",
       "swing"
-    ]
+    ],
+    "releasedAt": "1979-10-22",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000231576",
+      "discogs": "80126",
+      "spotify": "73JBR5s2PVvUjGu6tIqjqx",
+      "deezer": "194366",
+      "lastfm": "Walter+Murphy",
+      "rateyourmusic": "walter_murphy",
+      "wikidata": "Q534419"
+    }
   }
 }

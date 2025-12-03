@@ -1,0 +1,76 @@
+{
+  "youtubeId": "XEjLoHdbVeE",
+  "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+  "artist": "ABBA",
+  "lastFetched": "2025-12-03T11:47:03.162Z",
+  "odesli": {
+    "amazonMusic": "B004DBCQP4",
+    "amazonStore": "B004DBCQP4",
+    "audius": "WamJ6",
+    "boomplay": "242850",
+    "pandora": "TR:553524",
+    "soundcloud": "abba-official/gimme-gimme-gimme-a-man-after",
+    "spotify": "3vkQ5DAB1qQMYO4Mr9zJN6",
+    "tidal": "1771758",
+    "yandex": "25786",
+    "youtube": "XEjLoHdbVeE",
+    "youtubeMusic": "XEjLoHdbVeE"
+  },
+  "lastfm": {
+    "summary": "\"Gimme! Gimme! Gimme! (A Man After Midnight)\", (working title \"Been and Gone and Done It\"), is one of Swedish pop group ABBA's biggest Eurodisco hits. It was recorded and released in 1979 with \"The King Has Lost His Crown\" as the B-side. It appears on ABBA's Greatest Hits Vol. 2 album, as well as their best-selling album, Gold: Greatest Hits.\n\n\"Gimme! Gimme! Gimme! (A Man after Midnight)\" was written and composed by Benny Andersson & Björn Ulvaeus, with the lead vocal sung by Agnetha Fältskog. <a href=\"http://www.last.fm/music/ABBA/_/Gimme%21+Gimme%21+Gimme%21+(A+Man+After+Midnight)\">Read more on Last.fm</a>.",
+    "id": "ABBA/_/Gimme%21+Gimme%21+Gimme%21+(A+Man+After+Midnight)",
+    "listeners": 1586197,
+    "playcount": 12155231,
+    "tags": [
+      "pop",
+      "Disco",
+      "70s",
+      "abba",
+      "swedish"
+    ],
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "artist": "ABBA"
+  },
+  "musicbrainz": {
+    "trackMbid": "e1b7b099-abe6-4b7f-b06e-2c7cba7ffe7f",
+    "artistMbid": "d87e52c5-bb8d-4da8-b941-9f4928627dc8",
+    "releaseCount": 25,
+    "genres": [
+      "acid jazz",
+      "dance-pop",
+      "disco",
+      "euro-disco",
+      "europop",
+      "house",
+      "pop",
+      "pop rock"
+    ],
+    "artistGenres": [
+      "disco",
+      "europop",
+      "glam rock",
+      "mainstream rock",
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "releasedAt": "1979-10-12",
+    "artistCountry": "SE",
+    "externalIdsTrack": {
+      "spotify": "3vkQ5DAB1qQMYO4Mr9zJN6",
+      "deezer": "2319593005"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000922728",
+      "discogs": "69866",
+      "spotify": "0LcJLqbBmaGUft1e9Mm8HV",
+      "deezer": "180",
+      "lastfm": "ABBA",
+      "genius": "Abba",
+      "rateyourmusic": "abba",
+      "soundcloud": "https://soundcloud.com/abba-official",
+      "wikidata": "Q18233",
+      "youtube": "UCuubAXN9AYgtcmSrD0frggQ"
+    }
+  }
+}

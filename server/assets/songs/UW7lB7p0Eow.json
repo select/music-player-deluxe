@@ -2,7 +2,7 @@
   "youtubeId": "UW7lB7p0Eow",
   "title": "Ich will Spass",
   "artist": "Markus",
-  "lastFetched": "2025-11-23T16:40:25.837Z",
+  "lastFetched": "2025-12-02T01:19:53.300Z",
   "odesli": {
     "amazonMusic": "B0F24G6RNJ",
     "amazonStore": "B0F24G6RNJ",
@@ -37,7 +37,18 @@
       "new wave"
     ],
     "trackMbid": "2e6c7eb5-853b-4376-aad1-d21b1793c7b2",
-    "artistMbid": "88a6e84f-a7bd-4cef-9e02-45476a61510c"
+    "artistMbid": "88a6e84f-a7bd-4cef-9e02-45476a61510c",
+    "releasedAt": "1982-05",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001264173",
+      "discogs": "288053",
+      "spotify": "17v3lYLbmp9OhL8Sx3f1bq",
+      "deezer": "87003662",
+      "lastfm": "Markus",
+      "wikidata": "Q106463",
+      "youtube": "UCSPqb0LxZ_YgiUtd0v_cZ6A"
+    }
   },
   "lastfm": {
     "id": "Markus/_/Ich+will+Spass",

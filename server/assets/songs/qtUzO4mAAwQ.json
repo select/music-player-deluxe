@@ -2,7 +2,7 @@
   "youtubeId": "qtUzO4mAAwQ",
   "title": "I Think of You",
   "artist": "Alma Deutscher",
-  "lastFetched": "2025-11-19T09:05:01.845Z",
+  "lastFetched": "2025-12-02T01:54:55.588Z",
   "lastfm": {
     "id": "Alma+Deutscher/_/I+Think+of+You",
     "listeners": 3851,
@@ -17,6 +17,12 @@
   },
   "musicbrainz": {
     "trackMbid": "857a7455-6849-4e23-9db3-8a31b2b4dd18",
-    "artistMbid": "908f2643-951c-4ac5-a2fe-6183741acbd2"
+    "artistMbid": "908f2643-951c-4ac5-a2fe-6183741acbd2",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "6591757",
+      "deezer": "5028082",
+      "wikidata": "Q40503"
+    }
   }
 }

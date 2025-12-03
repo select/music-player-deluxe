@@ -2,7 +2,7 @@
   "youtubeId": "oHRNrgDIJfo",
   "title": "Feeling Good",
   "artist": "Nina Simone",
-  "lastFetched": "2025-11-30T22:01:19.938Z",
+  "lastFetched": "2025-12-02T01:50:46.862Z",
   "odesli": {
     "amazonMusic": "B07TZ2FPVZ",
     "amazonStore": "B07TZ2FPVZ",
@@ -53,6 +53,23 @@
       "soul",
       "soul jazz",
       "vocal jazz"
-    ]
+    ],
+    "releasedAt": "1965",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "7u6HRyEoWlUkoEsbQxX7sa"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000411761",
+      "discogs": "10584",
+      "spotify": "7G1GBhoKtEPnP86X2PvEYO",
+      "deezer": "744",
+      "lastfm": "Nina+Simone",
+      "genius": "Nina-simone",
+      "rateyourmusic": "nina_simone",
+      "soundcloud": "https://soundcloud.com/ninasimone",
+      "wikidata": "Q174957",
+      "youtube": "UCJ-FRbWianyv9q-Ly9whFQQ"
+    }
   }
 }

@@ -1,0 +1,63 @@
+{
+  "youtubeId": "xmnt0GZmorg",
+  "title": "Watch Out",
+  "artist": "Dirtyphonics",
+  "lastFetched": "2025-12-03T11:42:16.004Z",
+  "odesli": {
+    "amazonMusic": "B092RNYSRH",
+    "amazonStore": "B092RNYSRH",
+    "anghami": "22643289",
+    "boomplay": "996702",
+    "deezer": "358158361",
+    "appleMusic": "1229884451",
+    "itunes": "1229884451",
+    "pandora": "TR:10470473",
+    "soundcloud": "monstercat/dirtyphonics-bassnectar-watch-out",
+    "spotify": "3OI0scR6CkWugqtUQKaTqK",
+    "tidal": "189603858",
+    "yandex": "35086231",
+    "youtube": "xmnt0GZmorg",
+    "youtubeMusic": "xmnt0GZmorg"
+  },
+  "lastfm": {
+    "id": "Dirtyphonics/_/Watch+Out",
+    "listeners": 8471,
+    "playcount": 40652,
+    "title": "Watch Out",
+    "artist": "Dirtyphonics",
+    "artistMbid": "8b9a69ea-b60e-46c8-a1a5-93c56e7e4f35",
+    "tags": [
+      "drum and bass",
+      "dubstep",
+      "electronic",
+      "drumstep",
+      "jungle"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "86f4b9bf-9c2f-4581-9fbe-f320421749cb",
+    "artistMbid": "8b9a69ea-b60e-46c8-a1a5-93c56e7e4f35",
+    "releaseCount": 3,
+    "genres": [
+      "dancefloor drum and bass",
+      "drumstep"
+    ],
+    "artistGenres": [
+      "drum and bass",
+      "dubstep"
+    ],
+    "releasedAt": "2017-03-31",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0001542504",
+      "discogs": "1143233",
+      "spotify": "4zymhxzJ0UJc74tMHGyoWs",
+      "deezer": "407883",
+      "lastfm": "Dirtyphonics",
+      "rateyourmusic": "dirtyphonics",
+      "soundcloud": "https://soundcloud.com/dirtyphonics",
+      "wikidata": "Q3029750",
+      "youtube": "UCGDaw3Vw-Tsla6xoiAZzdDQ"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "Ui5X51qcKco",
   "title": "Who Dem?",
   "artist": "Capleton",
-  "lastFetched": "2025-11-30T21:29:10.176Z",
+  "lastFetched": "2025-12-02T01:20:10.217Z",
   "odesli": {
     "amazonMusic": "B000X7S4QC",
     "amazonStore": "B000X7S4QC",
@@ -39,6 +39,19 @@
     "artistGenres": [
       "dancehall",
       "dub"
-    ]
+    ],
+    "releasedAt": "2015-06-23",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000540010",
+      "discogs": "54518",
+      "spotify": "21J3YJTyq1biE3SvSNjzuf",
+      "deezer": "5078",
+      "lastfm": "Capleton",
+      "genius": "Capleton",
+      "rateyourmusic": "capleton",
+      "wikidata": "Q536588",
+      "youtube": "UC-N0xFLnqpbufzwWI43-vmw"
+    }
   }
 }

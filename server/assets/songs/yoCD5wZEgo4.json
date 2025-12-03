@@ -2,7 +2,7 @@
   "youtubeId": "yoCD5wZEgo4",
   "title": "Points of Authority",
   "artist": "Linkin Park",
-  "lastFetched": "2025-11-19T07:42:58.405Z",
+  "lastFetched": "2025-12-02T02:06:51.270Z",
   "odesli": {
     "amazonMusic": "B0011Z2XKI",
     "amazonStore": "B0011Z2XKI",
@@ -30,7 +30,22 @@
       "Linkin Park"
     ],
     "trackMbid": "76c6b0b2-2dfe-3d47-9453-4a0cf38a3011",
-    "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+    "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000289599",
+      "discogs": "901845",
+      "spotify": "6XyY86QOPPrYVGvF9ch6wz",
+      "qobuz": "308709",
+      "deezer": "92",
+      "lastfm": "Linkin+Park",
+      "genius": "Linkin-park",
+      "rateyourmusic": "linkin_park",
+      "soundcloud": "https://soundcloud.com/linkinpark",
+      "napster": "linkin-park",
+      "wikidata": "Q261",
+      "youtube": "UCxgN32UVVztKAQd2HkXzBtw"
+    }
   },
   "lastfm": {
     "id": "Linkin+Park/_/Points+of+Authority",

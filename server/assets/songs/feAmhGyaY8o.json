@@ -2,7 +2,7 @@
   "youtubeId": "feAmhGyaY8o",
   "title": "Southern Comfort",
   "artist": "Larkin Poe",
-  "lastFetched": "2025-11-23T16:45:45.024Z",
+  "lastFetched": "2025-12-02T01:37:45.623Z",
   "odesli": {
     "amazonMusic": "B09Y8P82BK",
     "amazonStore": "B09Y8P82BK",
@@ -29,7 +29,19 @@
       "indie rock"
     ],
     "trackMbid": "d3871f23-3ca6-425c-aeed-7ab8f4c97853",
-    "artistMbid": "ec5436c4-c44a-47f5-a640-da8d376a3871"
+    "artistMbid": "ec5436c4-c44a-47f5-a640-da8d376a3871",
+    "releasedAt": "2022-11-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002567975",
+      "discogs": "2487986",
+      "spotify": "7d10VF1J4LqW7vrpPOngzm",
+      "deezer": "389902",
+      "lastfm": "Larkin%20Poe",
+      "rateyourmusic": "larkin_poe",
+      "wikidata": "Q3217956",
+      "youtube": "UC0zpwL3KETxmQPkXYs-grAw"
+    }
   },
   "lastfm": {
     "id": "Larkin+Poe/_/Southern+Comfort",

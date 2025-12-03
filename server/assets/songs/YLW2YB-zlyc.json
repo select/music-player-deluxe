@@ -2,7 +2,7 @@
   "youtubeId": "YLW2YB-zlyc",
   "title": "Sutrix",
   "artist": "Talvin Singh",
-  "lastFetched": "2025-11-23T16:42:01.838Z",
+  "lastFetched": "2025-12-02T01:25:46.937Z",
   "odesli": {
     "amazonMusic": "B003D29BE8",
     "amazonStore": "B003D29BE8",
@@ -29,7 +29,16 @@
       "uk"
     ],
     "trackMbid": "6aec94ae-94a8-31d5-8bc5-1f4b184a281f",
-    "artistMbid": "4fafdd2b-4cd0-4cc7-a338-cd94cfceeea4"
+    "artistMbid": "4fafdd2b-4cd0-4cc7-a338-cd94cfceeea4",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000157084",
+      "discogs": "2808",
+      "spotify": "30Y7JOpiNgAGEhnkYPdI1P",
+      "deezer": "4991",
+      "rateyourmusic": "talvin_singh",
+      "wikidata": "Q331450"
+    }
   },
   "lastfm": {
     "id": "Talvin+Singh/_/Sutrix",

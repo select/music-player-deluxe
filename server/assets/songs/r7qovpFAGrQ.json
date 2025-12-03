@@ -2,7 +2,7 @@
   "youtubeId": "r7qovpFAGrQ",
   "title": "Old Town Road",
   "artist": "Lil Nas X",
-  "lastFetched": "2025-11-23T16:50:54.905Z",
+  "lastFetched": "2025-12-02T01:55:09.514Z",
   "odesli": {
     "amazonMusic": "B07TCB85WP",
     "amazonStore": "B07TCB85WP",
@@ -46,7 +46,25 @@
       "trap"
     ],
     "trackMbid": "4d1bb5a1-14ba-438d-b96d-070704f400f5",
-    "artistMbid": "0b30341b-b59d-4979-8130-b66c0e475321"
+    "artistMbid": "0b30341b-b59d-4979-8130-b66c0e475321",
+    "releasedAt": "2018-12-03",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "0F7FA14euOIX8KcbEturGH",
+      "deezer": "699056262"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003827666",
+      "discogs": "7093536",
+      "spotify": "7jVv8c5Fj3E9VhNjxT4snq",
+      "deezer": "15166511",
+      "lastfm": "Lil+Nas+X",
+      "genius": "Lil-nas-x",
+      "soundcloud": "https://soundcloud.com/user-243281059",
+      "qobuz": "4384197",
+      "wikidata": "Q62591281",
+      "youtube": "UC_uMv3bNXwapHl8Dzf2p01Q"
+    }
   },
   "lastfm": {
     "id": "Lil+Nas+X/_/Old+Town+Road",

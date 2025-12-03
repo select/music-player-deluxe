@@ -2,7 +2,7 @@
   "youtubeId": "qlniwvcc0-w",
   "title": "God Knows We Tried",
   "artist": "Hugo Massien",
-  "lastFetched": "2025-11-23T16:50:47.770Z",
+  "lastFetched": "2025-12-02T01:54:45.154Z",
   "odesli": {
     "amazonMusic": "B08W2171JG",
     "amazonStore": "B08W2171JG",
@@ -41,7 +41,14 @@
       "deep house"
     ],
     "trackMbid": "1732a59d-6442-411d-a471-1c313486b782",
-    "artistMbid": "ac017afa-aa56-4856-9385-94c4a96f1aef"
+    "artistMbid": "ac017afa-aa56-4856-9385-94c4a96f1aef",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "4133126",
+      "spotify": "2W5iJGVOD94ioSvjS8x8Yu",
+      "deezer": "5103484",
+      "soundcloud": "https://soundcloud.com/hugomassien"
+    }
   },
   "lastfm": {
     "id": "Hugo+Massien/_/God+Knows+We+Tried",

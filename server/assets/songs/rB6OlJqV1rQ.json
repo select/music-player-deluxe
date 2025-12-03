@@ -2,7 +2,7 @@
   "youtubeId": "rB6OlJqV1rQ",
   "title": "The Bluest Blues",
   "artist": "Alvin Lee",
-  "lastFetched": "2025-11-30T19:35:30.820Z",
+  "lastFetched": "2025-12-02T01:55:22.622Z",
   "odesli": {
     "amazonMusic": "B09J1WR2NV",
     "amazonStore": "B09J1WR2NV",
@@ -41,6 +41,16 @@
       "blues rock",
       "hard rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1997",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000011620",
+      "discogs": "309338",
+      "deezer": "97124",
+      "rateyourmusic": "alvin_lee",
+      "wikidata": "Q46132",
+      "youtube": "UCscWdU24lRO_08c2N1qPiMw"
+    }
   }
 }

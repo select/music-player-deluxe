@@ -2,7 +2,7 @@
   "youtubeId": "w5P0mLQpPI8",
   "title": "Rote Riesen schlafen nicht",
   "artist": "Girlwoman",
-  "lastFetched": "2025-11-30T23:33:38.618Z",
+  "lastFetched": "2025-12-02T02:02:39.872Z",
   "lastfm": {
     "id": "Girlwoman/_/Rote+Riesen+schlafen+nicht",
     "listeners": 5408,
@@ -16,6 +16,12 @@
   "musicbrainz": {
     "artistMbid": "db5feca4-7086-4d86-a96c-5cb72dec68b5",
     "trackMbid": "cea534c8-1944-41aa-9391-3b14cce6e122",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2021-11-05",
+    "externalIdsArtist": {
+      "discogs": "9463276",
+      "spotify": "24rqTvJDFy2t2xgCxsN2f0",
+      "deezer": "92572102"
+    }
   }
 }

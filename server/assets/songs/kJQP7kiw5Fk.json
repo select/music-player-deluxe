@@ -2,7 +2,7 @@
   "youtubeId": "kJQP7kiw5Fk",
   "title": "Despacito",
   "artist": "Luis Fonsi",
-  "lastFetched": "2025-11-30T21:01:02.232Z",
+  "lastFetched": "2025-12-02T01:44:33.921Z",
   "odesli": {
     "amazonMusic": "B08Z4613QV",
     "amazonStore": "B08Z4613QV",
@@ -42,6 +42,21 @@
       "latin",
       "latin pop",
       "pop"
-    ]
+    ],
+    "releasedAt": "2017-03-17",
+    "artistCountry": "PR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000312004",
+      "bandcamp": "https://luisfonsi.bandcamp.com/",
+      "discogs": "170496",
+      "spotify": "4V8Sr092TqfHkfAA5fXXqG",
+      "deezer": "6707",
+      "lastfm": "Luis+Fonsi",
+      "genius": "Luis-fonsi",
+      "rateyourmusic": "luis-fonsi",
+      "soundcloud": "https://soundcloud.com/luisfonsiofficial",
+      "wikidata": "Q1387726",
+      "youtube": "UCxoq-PAQeAdk_zyg8YS0JqA"
+    }
   }
 }

@@ -1,0 +1,78 @@
+{
+  "youtubeId": "W1UpiOLc3uY",
+  "title": "Chant of a Poor Man",
+  "artist": "Leftfield",
+  "lastFetched": "2025-12-03T11:45:51.062Z",
+  "odesli": {
+    "amazonMusic": "B002ATF4IM",
+    "amazonStore": "B002ATF4IM",
+    "appleMusic": "206898770",
+    "itunes": "206898770",
+    "napster": "tra.39185883",
+    "pandora": "TR:690519",
+    "spotify": "0chYo7FiwL4UCW3VwaAum8",
+    "tidal": "4369",
+    "youtube": "W1UpiOLc3uY",
+    "youtubeMusic": "W1UpiOLc3uY"
+  },
+  "lastfm": {
+    "id": "Leftfield/_/Chant+of+a+Poor+Man",
+    "listeners": 71632,
+    "playcount": 205546,
+    "title": "Chant of a Poor Man",
+    "artist": "Leftfield",
+    "mbid": "05150c10-6357-360c-8022-6fb7837a91ff",
+    "artistMbid": "369fbad4-6fa4-4dae-9842-a69826cd359d",
+    "tags": [
+      "dub",
+      "electronic",
+      "chillout",
+      "trip-hop",
+      "leftfield"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d21a1184-393e-49af-b3dc-cb5d2f55a0ac",
+    "artistMbid": "369fbad4-6fa4-4dae-9842-a69826cd359d",
+    "releaseCount": 12,
+    "genres": [
+      "breakbeat",
+      "dance",
+      "downtempo",
+      "dub",
+      "electronic",
+      "electronica",
+      "house",
+      "leftfield",
+      "progressive house",
+      "reggae",
+      "techno",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "downtempo",
+      "dub",
+      "electronic",
+      "electronica",
+      "leftfield",
+      "progressive house",
+      "trip hop"
+    ],
+    "releasedAt": "1999-09-15",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "0chYo7FiwL4UCW3VwaAum8"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000813441",
+      "discogs": "1866",
+      "spotify": "72hqBMsw7x5jnfxxwkii8L",
+      "deezer": "6646",
+      "lastfm": "Leftfield",
+      "rateyourmusic": "leftfield",
+      "soundcloud": "https://soundcloud.com/leftfield",
+      "wikidata": "Q277479",
+      "youtube": "UCOrpszBwWhM6a1a67ezZhTQ"
+    }
+  }
+}

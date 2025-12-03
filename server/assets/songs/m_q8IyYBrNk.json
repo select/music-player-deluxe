@@ -1,7 +1,7 @@
 {
   "youtubeId": "m_q8IyYBrNk",
   "title": "Dendemann - Stumpf ist Trumpf 3.0",
-  "lastFetched": "2025-11-30T19:51:18.490Z",
+  "lastFetched": "2025-12-02T01:48:08.797Z",
   "ai": {
     "title": "Stumpf ist Trumpf 3.0",
     "artist": "Dendemann"
@@ -30,6 +30,17 @@
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2010-04-09",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002064758",
+      "discogs": "60752",
+      "spotify": "2wm5YtIlq0Spe9rDGGTVkF",
+      "deezer": "16616",
+      "lastfm": "Dendemann",
+      "rateyourmusic": "dendemann",
+      "wikidata": "Q164859"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "title": "Yogtze",
   "artist": "FEATER",
   "youtubeId": "mA8NPhT8Qxo",
-  "lastFetched": "2025-11-23T15:40:40.495Z",
+  "lastFetched": "2025-12-02T01:47:29.856Z",
   "odesli": {
     "amazonMusic": "B07T7GDCBF",
     "amazonStore": "B07T7GDCBF",
@@ -22,6 +22,12 @@
   "musicbrainz": {
     "trackMbid": "76d82d0f-78ab-42c6-96d2-bbd39b5bca07",
     "artistMbid": "e030ae23-82f4-495f-bd9c-d9bb4d5280f8",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2019-05-03",
+    "externalIdsArtist": {
+      "discogs": "3535751",
+      "spotify": "5FaDxbWtNzaR2d3L3H9857",
+      "deezer": "13952993"
+    }
   }
 }

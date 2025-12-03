@@ -1,7 +1,7 @@
 {
   "youtubeId": "YcwkS9_Vnhg",
   "title": "BadBadNotGood: CS60",
-  "lastFetched": "2025-11-30T20:30:43.873Z",
+  "lastFetched": "2025-12-02T01:26:23.446Z",
   "ai": {
     "title": "CS60",
     "artist": "BadBadNotGood"
@@ -27,6 +27,21 @@
     "artistGenres": [
       "hip hop",
       "instrumental hip hop"
-    ]
+    ],
+    "releasedAt": "2014-05-03",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0003014251",
+      "bandcamp": "https://badbadnotgoodil.bandcamp.com/",
+      "discogs": "2468526",
+      "spotify": "65dGLGjkw3UbddUg2GKQoZ",
+      "deezer": "1635715",
+      "lastfm": "BADBADNOTGOOD",
+      "genius": "Badbadnotgood",
+      "rateyourmusic": "badbadnotgood",
+      "soundcloud": "https://soundcloud.com/badbadnotgood",
+      "wikidata": "Q4840142",
+      "youtube": "UCoYAFe4DypQIUqMd1YynPVg"
+    }
   }
 }

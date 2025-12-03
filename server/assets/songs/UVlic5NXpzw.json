@@ -2,7 +2,7 @@
   "youtubeId": "UVlic5NXpzw",
   "title": "Fuzz Universe",
   "artist": "Paul Gilbert",
-  "lastFetched": "2025-11-23T16:40:20.839Z",
+  "lastFetched": "2025-12-02T01:19:48.485Z",
   "odesli": {
     "amazonMusic": "B0180NMSL2",
     "amazonStore": "B0180NMSL2",
@@ -30,7 +30,19 @@
       "rock"
     ],
     "trackMbid": "28bf0607-a54f-4986-ac0e-bade3b806f4f",
-    "artistMbid": "453321a7-3a77-47b0-8125-7bd385f3a730"
+    "artistMbid": "453321a7-3a77-47b0-8125-7bd385f3a730",
+    "releasedAt": "2016-07-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000747761",
+      "bandcamp": "https://paulgilbert.bandcamp.com/",
+      "discogs": "299756",
+      "spotify": "19sJfp2FK2evlsw46WVhPG",
+      "deezer": "4783",
+      "lastfm": "Paul+Gilbert",
+      "rateyourmusic": "paul_gilbert",
+      "wikidata": "Q315092"
+    }
   },
   "lastfm": {
     "id": "Paul+Gilbert/_/Fuzz+Universe",

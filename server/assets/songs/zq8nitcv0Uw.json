@@ -2,7 +2,7 @@
   "youtubeId": "zq8nitcv0Uw",
   "title": "Plastic Man",
   "artist": "The Temptations",
-  "lastFetched": "2025-11-30T23:15:43.510Z",
+  "lastFetched": "2025-12-02T02:08:24.302Z",
   "odesli": {
     "amazonMusic": "B000WT666G",
     "amazonStore": "B000WT666G",
@@ -44,6 +44,18 @@
       "r&b",
       "smooth soul",
       "soul"
-    ]
+    ],
+    "releasedAt": "1973",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000569685",
+      "discogs": "28332",
+      "spotify": "3RwQ26hR2tJtA8F9p2n7jG",
+      "deezer": "2730",
+      "lastfm": "The+Temptations",
+      "rateyourmusic": "the_temptations",
+      "wikidata": "Q846373",
+      "youtube": "UCee8VNCWfOCYccbFhDM8B_A"
+    }
   }
 }

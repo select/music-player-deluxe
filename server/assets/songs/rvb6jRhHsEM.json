@@ -2,7 +2,7 @@
   "youtubeId": "rvb6jRhHsEM",
   "title": "Superior",
   "artist": "Gentleman",
-  "lastFetched": "2025-11-30T21:04:55.585Z",
+  "lastFetched": "2025-12-02T01:56:46.913Z",
   "odesli": {
     "amazonMusic": "B07BJ9ZTY5",
     "amazonStore": "B07BJ9ZTY5",
@@ -35,6 +35,19 @@
     "releaseCount": 3,
     "artistGenres": [
       "reggae"
-    ]
+    ],
+    "releasedAt": "2004",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000803479",
+      "discogs": "49312",
+      "spotify": "5tlNJfV9UIpgnbWmvUEFu7",
+      "deezer": "2323",
+      "lastfm": "Gentleman",
+      "genius": "Gentleman",
+      "rateyourmusic": "gentleman",
+      "soundcloud": "https://soundcloud.com/gentlemanmusic",
+      "wikidata": "Q452250"
+    }
   }
 }

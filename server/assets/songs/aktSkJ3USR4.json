@@ -2,7 +2,7 @@
   "youtubeId": "aktSkJ3USR4",
   "title": "Red Town",
   "artist": "Gentleman",
-  "lastFetched": "2025-11-30T21:01:13.878Z",
+  "lastFetched": "2025-12-02T01:31:11.452Z",
   "odesli": {
     "amazonMusic": "B0FJ91HKKN",
     "amazonStore": "B0FJ91HKKN",
@@ -36,6 +36,19 @@
     "releaseCount": 2,
     "artistGenres": [
       "reggae"
-    ]
+    ],
+    "releasedAt": "2017-06-16",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000803479",
+      "discogs": "49312",
+      "spotify": "5tlNJfV9UIpgnbWmvUEFu7",
+      "deezer": "2323",
+      "lastfm": "Gentleman",
+      "genius": "Gentleman",
+      "rateyourmusic": "gentleman",
+      "soundcloud": "https://soundcloud.com/gentlemanmusic",
+      "wikidata": "Q452250"
+    }
   }
 }

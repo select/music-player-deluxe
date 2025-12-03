@@ -2,7 +2,7 @@
   "youtubeId": "nqORaOv44ls",
   "title": "Kifaya",
   "artist": "Natacha Atlas",
-  "lastFetched": "2025-11-30T20:54:23.332Z",
+  "lastFetched": "2025-12-02T01:49:58.305Z",
   "odesli": {
     "soundcloud": "natacha-atlas-official/kifaya",
     "spotify": "5kVjthxj2uz2yza6w9VxYv",
@@ -29,6 +29,19 @@
   "musicbrainz": {
     "trackMbid": "159678eb-bd0c-430a-b7df-df1217d6447b",
     "artistMbid": "5b86eefc-f3b2-4b91-8161-c505869fb17f",
-    "releaseCount": 5
+    "releaseCount": 5,
+    "releasedAt": "1999-02",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000369574",
+      "bandcamp": "https://natachaatlas1.bandcamp.com/",
+      "discogs": "11072",
+      "spotify": "0aVJmlOwIxTZeHzhFiFL5Y",
+      "deezer": "2442",
+      "lastfm": "Natacha%20Atlas",
+      "genius": "Natacha-atlas",
+      "rateyourmusic": "natacha_atlas",
+      "wikidata": "Q235896"
+    }
   }
 }

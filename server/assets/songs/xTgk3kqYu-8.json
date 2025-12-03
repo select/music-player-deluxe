@@ -2,7 +2,7 @@
   "youtubeId": "xTgk3kqYu-8",
   "title": "The Fire From Africa",
   "artist": "Mista Savona",
-  "lastFetched": "2025-11-30T23:27:44.319Z",
+  "lastFetched": "2025-12-02T02:04:44.810Z",
   "lastfm": {
     "id": "Mista+Savona/_/The+Fire+From+Africa",
     "listeners": 280,
@@ -17,6 +17,16 @@
   "musicbrainz": {
     "artistMbid": "50d9730b-c4ab-4abd-8625-4fc0ebb81b18",
     "trackMbid": "89f01ff7-a0a6-410b-b805-b9f9d95e9341",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2022-06-03",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "bandcamp": "https://mistasavona.bandcamp.com/",
+      "discogs": "1983967",
+      "spotify": "4Y6SrIz24cWZIWuG28CVgz",
+      "deezer": "436766",
+      "wikidata": "Q6880004",
+      "wikipedia": "Mista_Savona"
+    }
   }
 }

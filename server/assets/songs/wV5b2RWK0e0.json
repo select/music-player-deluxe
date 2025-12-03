@@ -2,7 +2,7 @@
   "youtubeId": "wV5b2RWK0e0",
   "title": "Love Burns",
   "artist": "Black Rebel Motorcycle Club",
-  "lastFetched": "2025-11-30T21:52:18.633Z",
+  "lastFetched": "2025-12-02T02:03:16.342Z",
   "odesli": {
     "amazonMusic": "B0BQMSHVXC",
     "amazonStore": "B0BQMSHVXC",
@@ -42,6 +42,17 @@
       "indie rock",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1999",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000771388",
+      "discogs": "62807",
+      "spotify": "1tpXaFf2F55E7kVJON4j4G",
+      "deezer": "1315",
+      "lastfm": "Black+Rebel+Motorcycle+Club",
+      "rateyourmusic": "black_rebel_motorcycle_club",
+      "wikidata": "Q166120"
+    }
   }
 }

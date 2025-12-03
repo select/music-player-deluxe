@@ -2,7 +2,7 @@
   "youtubeId": "raMXHL0ppkU",
   "title": "Miserable",
   "artist": "Lit",
-  "lastFetched": "2025-11-30T20:25:51.306Z",
+  "lastFetched": "2025-12-02T01:56:23.450Z",
   "odesli": {
     "amazonMusic": "B004LETEC6",
     "amazonStore": "B004LETEC6",
@@ -41,6 +41,20 @@
       "pop punk",
       "post-grunge",
       "power pop"
-    ]
+    ],
+    "releasedAt": "1999-02-23",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000837886",
+      "discogs": "257193",
+      "spotify": "5mgr0FFpvy267wKVAYg8qp",
+      "deezer": "5922",
+      "genius": "Lit",
+      "rateyourmusic": "lit",
+      "soundcloud": "https://soundcloud.com/lit-band-official",
+      "napster": "lit",
+      "wikidata": "Q1142016",
+      "youtube": "UC4LqZQKKG0g3pQH0bJmKl-Q"
+    }
   }
 }

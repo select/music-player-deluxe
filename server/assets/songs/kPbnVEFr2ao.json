@@ -2,7 +2,7 @@
   "youtubeId": "kPbnVEFr2ao",
   "title": "No Sunset For Soul",
   "artist": "Monty",
-  "lastFetched": "2025-11-30T22:54:07.338Z",
+  "lastFetched": "2025-12-02T01:44:42.351Z",
   "odesli": {
     "amazonMusic": "B0CCCCX3MV",
     "amazonStore": "B0CCCCX3MV",
@@ -28,6 +28,12 @@
     "artistGenres": [
       "drum and bass",
       "dubstep"
-    ]
+    ],
+    "releasedAt": "2023-09-01",
+    "externalIdsArtist": {
+      "discogs": "5977656",
+      "spotify": "2w5c2l70mYNDdSLifFyZjJ",
+      "deezer": "98099122"
+    }
   }
 }

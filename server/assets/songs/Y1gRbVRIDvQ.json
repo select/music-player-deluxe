@@ -3,7 +3,7 @@
   "artist": "Archive",
   "duration": 337,
   "youtubeId": "Y1gRbVRIDvQ",
-  "lastFetched": "2025-11-19T04:42:19.329Z",
+  "lastFetched": "2025-12-02T01:25:17.803Z",
   "odesli": {
     "amazonMusic": "B0FGYG29VP",
     "amazonStore": "B0FGYG29VP",
@@ -35,7 +35,24 @@
     ],
     "trackMbid": "016fd6ff-3c55-4707-afa3-41c6d378d18b",
     "artistMbid": "bd513de0-e42f-425e-ae46-817d7bc5fb1c",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2025-09-10",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "5xMyHeYPK7Xv2n7S0wsZYO",
+      "deezer": "3494971871"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000503309",
+      "discogs": "11453",
+      "spotify": "1Q776wzj2mrtXrNu3iH6nk",
+      "deezer": "1334",
+      "lastfm": "Archive",
+      "genius": "Archive",
+      "rateyourmusic": "archive",
+      "soundcloud": "https://soundcloud.com/archiveofficial",
+      "wikidata": "Q635772"
+    }
   },
   "lastfm": {
     "id": "Archive/_/Look+At+Us",

@@ -2,7 +2,7 @@
   "youtubeId": "qb4l8DaPvZ8",
   "title": "Spring of Life",
   "artist": "Tomu DJ",
-  "lastFetched": "2025-11-30T23:25:49.095Z",
+  "lastFetched": "2025-12-02T01:54:30.586Z",
   "odesli": {
     "amazonMusic": "B0B3SG8Q11",
     "amazonStore": "B0B3SG8Q11",
@@ -32,6 +32,14 @@
   "musicbrainz": {
     "artistMbid": "0387a330-4121-409d-94c0-7b3f360d2bd1",
     "trackMbid": "562423fc-78ff-451a-a6fd-7038b4d19435",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2022-08-12",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://tomu.bandcamp.com/",
+      "discogs": "8303960",
+      "spotify": "3IkZulWyXacENlNykgnmwh",
+      "deezer": "50252282"
+    }
   }
 }

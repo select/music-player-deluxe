@@ -2,7 +2,7 @@
   "youtubeId": "kMEzVm5F9YE",
   "title": "Viking 1",
   "artist": "Moondog",
-  "lastFetched": "2025-11-30T22:34:50.079Z",
+  "lastFetched": "2025-12-02T01:44:35.683Z",
   "lastfm": {
     "title": "viking 1",
     "artist": "Moondog",
@@ -29,6 +29,19 @@
       "experimental",
       "modern classical",
       "orchestral jazz"
-    ]
+    ],
+    "releasedAt": "2019-12-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000496525",
+      "bandcamp": "https://moondog.bandcamp.com/",
+      "discogs": "5932094",
+      "spotify": "7HvQfRNJCvPXTVirKKB0Nn",
+      "deezer": "2740",
+      "lastfm": "Moondog",
+      "genius": "Moondog",
+      "rateyourmusic": "moondog",
+      "wikidata": "Q134864"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "_om0W6xzQd8",
   "title": "Canopée",
   "artist": "Polo & Pan",
-  "lastFetched": "2025-11-30T20:15:16.969Z",
+  "lastFetched": "2025-12-02T01:29:35.779Z",
   "odesli": {
     "amazonMusic": "B07DRJZQS4",
     "amazonStore": "B07DRJZQS4",
@@ -36,6 +36,21 @@
       "house",
       "indie pop",
       "tropical house"
-    ]
+    ],
+    "releasedAt": "2016-06-10",
+    "artistCountry": "FR",
+    "externalIdsTrack": {
+      "spotify": "3DmJ390x0h8IePKoCwArUC",
+      "deezer": "505027302"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003555947",
+      "discogs": "4106352",
+      "spotify": "45yEuthJ9yq1rNXAOpBnqM",
+      "deezer": "5400149",
+      "soundcloud": "https://soundcloud.com/polo-pan",
+      "wikidata": "Q28495756",
+      "youtube": "UCQUFWrwQshjbq3VN0yfm_5Q"
+    }
   }
 }

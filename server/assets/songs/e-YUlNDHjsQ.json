@@ -2,7 +2,7 @@
   "youtubeId": "e-YUlNDHjsQ",
   "title": "III",
   "artist": "Glass Museum",
-  "lastFetched": "2025-11-30T21:30:51.446Z",
+  "lastFetched": "2025-12-02T01:35:34.638Z",
   "odesli": {
     "amazonMusic": "B0F5HPWVCL",
     "amazonStore": "B0F5HPWVCL",
@@ -32,6 +32,15 @@
   "musicbrainz": {
     "trackMbid": "15d56a1d-9f60-4668-9039-e6ba203a6a99",
     "artistMbid": "84fe88ef-3ac0-49a1-95c7-3aa9d4062149",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-05-16",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "bandcamp": "https://glassmuseumbe.bandcamp.com/",
+      "discogs": "6535851",
+      "spotify": "0bq8ZdJxUOXswye4qT4zzU",
+      "deezer": "5562267",
+      "youtube": "UCjHUnRVND8giqgZGr8Twp-w"
+    }
   }
 }

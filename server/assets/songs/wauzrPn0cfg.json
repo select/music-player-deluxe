@@ -2,7 +2,7 @@
   "youtubeId": "wauzrPn0cfg",
   "title": "Wake Up",
   "artist": "Rage Against The Machine",
-  "lastFetched": "2025-11-30T19:39:44.832Z",
+  "lastFetched": "2025-12-02T02:03:24.522Z",
   "odesli": {
     "amazonMusic": "B00137MFJS",
     "amazonStore": "B00137MFJS",
@@ -43,6 +43,19 @@
       "nu metal",
       "rap metal",
       "rap rock"
-    ]
+    ],
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000863790",
+      "discogs": "12212",
+      "spotify": "2d0hyoQ5ynDBnkvAbJKORj",
+      "deezer": "113",
+      "lastfm": "Rage+Against+the+Machine",
+      "genius": "Rage-against-the-machine",
+      "rateyourmusic": "rage-against-the-machine",
+      "napster": "rage-against-the-machine",
+      "wikidata": "Q72092",
+      "youtube": "UCg4nBubbzhYXjudOxPi9V7w"
+    }
   }
 }

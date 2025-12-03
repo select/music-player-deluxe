@@ -1,0 +1,60 @@
+{
+  "youtubeId": "rSZzyGXCTQk",
+  "title": "Ride Across the River",
+  "artist": "Dire Straits",
+  "lastFetched": "2025-12-03T11:39:49.186Z",
+  "odesli": {
+    "amazonMusic": "B001NHHTYY",
+    "amazonStore": "B001NHHTYY",
+    "boomplay": "60090447",
+    "soundcloud": "direstraits/ride-across-the-river",
+    "tidal": "34981737",
+    "youtube": "rSZzyGXCTQk",
+    "youtubeMusic": "rSZzyGXCTQk"
+  },
+  "lastfm": {
+    "summary": "\"Ride Across the River\"  first appeared as the sixth track on the band's 1985 multi-platinum selling album Brothers in Arms. It is very different from the band's other works, with Latino-style beats and flutes. The lyrics are about wars (or the same war) described by two opposing views: one follows guerrilla members and the other follows mercenary warfare.\n\nAt 6 minutes and 58 seconds, \"Ride Across the River\" is the fourth longest song on the album. <a href=\"http://www.last.fm/music/Dire+Straits/_/Ride+Across+the+River\">Read more on Last.fm</a>.",
+    "id": "Dire+Straits/_/Ride+Across+the+River",
+    "listeners": 205522,
+    "playcount": 843285,
+    "title": "Ride Across the River",
+    "artist": "Dire Straits",
+    "tags": [
+      "rock",
+      "classic rock",
+      "80s",
+      "dire straits",
+      "guitar"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "154f4221-d2d3-49ea-b99e-5cbc909827a3",
+    "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+    "releaseCount": 2,
+    "artistGenres": [
+      "blues rock",
+      "classic rock",
+      "pop rock",
+      "pub rock",
+      "rock",
+      "rock and roll",
+      "roots rock",
+      "soft rock",
+      "sophisti-pop"
+    ],
+    "releasedAt": "1986-04-26",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000167517",
+      "discogs": "103687",
+      "spotify": "0WwSkZ7LtFUFjGjMZBMt6T",
+      "deezer": "176",
+      "lastfm": "Dire+Straits",
+      "genius": "Dire-straits",
+      "rateyourmusic": "dire_straits",
+      "soundcloud": "https://soundcloud.com/direstraits",
+      "wikidata": "Q50040",
+      "youtube": "UCA37MBUzQgLbUHoUQgl-p0g"
+    }
+  }
+}

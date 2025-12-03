@@ -2,7 +2,7 @@
   "youtubeId": "sGwd0qs9W4w",
   "title": "Willow Weep for Me",
   "artist": "Stanley Turrentine",
-  "lastFetched": "2025-11-23T16:51:35.817Z",
+  "lastFetched": "2025-12-02T01:57:22.436Z",
   "odesli": {
     "amazonMusic": "B000TRXAO2",
     "amazonStore": "B000TRXAO2",
@@ -32,7 +32,17 @@
       "soul jazz"
     ],
     "trackMbid": "fca5f47f-d7e3-4b0d-9e47-cfae7b06a776",
-    "artistMbid": "51e0df97-1fe2-401c-ba92-9f854b7831c3"
+    "artistMbid": "51e0df97-1fe2-401c-ba92-9f854b7831c3",
+    "releasedAt": "1999",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000012644",
+      "discogs": "29974",
+      "spotify": "2dRsXWVnkku2cMDtV1h6NP",
+      "deezer": "7625",
+      "rateyourmusic": "stanley_turrentine",
+      "wikidata": "Q638824"
+    }
   },
   "lastfm": {
     "id": "Stanley+Turrentine/_/Willow+Weep+for+Me",

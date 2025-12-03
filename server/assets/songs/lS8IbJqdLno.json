@@ -2,7 +2,7 @@
   "youtubeId": "lS8IbJqdLno",
   "title": "SWAMP THING",
   "artist": "THE GRID",
-  "lastFetched": "2025-11-30T22:24:18.200Z",
+  "lastFetched": "2025-12-02T01:46:09.432Z",
   "lastfm": {
     "title": "Swamp Thing",
     "artist": "The Grid",
@@ -28,6 +28,16 @@
       "electronic",
       "house",
       "techno"
-    ]
+    ],
+    "releasedAt": "2009-04-27",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000062378",
+      "discogs": "5081",
+      "spotify": "1fN3lF5RILxJeG9H8EhEDo",
+      "deezer": "15587",
+      "rateyourmusic": "the_grid",
+      "wikidata": "Q163913"
+    }
   }
 }

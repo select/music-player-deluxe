@@ -2,7 +2,7 @@
   "youtubeId": "aq89bjM08OM",
   "title": "Caterpillar",
   "artist": "Jazzbois",
-  "lastFetched": "2025-11-30T22:57:08.252Z",
+  "lastFetched": "2025-12-02T01:31:13.371Z",
   "odesli": {
     "amazonMusic": "B0CKFDFHZK",
     "amazonStore": "B0CKFDFHZK",
@@ -23,6 +23,13 @@
   "musicbrainz": {
     "artistMbid": "34197023-e96c-4607-aa7b-903a0ec877df",
     "trackMbid": "e2d16f24-10d6-4d0e-971e-206fb4362476",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-11-03",
+    "artistCountry": "HU",
+    "externalIdsArtist": {
+      "discogs": "7439897",
+      "spotify": "0jq1z5MQSlFtvpbnLzeEul",
+      "deezer": "51333282"
+    }
   }
 }

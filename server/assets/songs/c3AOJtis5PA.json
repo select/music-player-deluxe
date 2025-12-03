@@ -2,7 +2,7 @@
   "youtubeId": "c3AOJtis5PA",
   "title": "The Night Garden",
   "artist": "Waldeck",
-  "lastFetched": "2025-11-30T22:32:06.207Z",
+  "lastFetched": "2025-12-02T01:32:35.774Z",
   "odesli": {
     "amazonMusic": "B0BHSZQ2XZ",
     "amazonStore": "B0BHSZQ2XZ",
@@ -42,6 +42,17 @@
     ],
     "artistGenres": [
       "chillout"
-    ]
+    ],
+    "releasedAt": "2001-05-22",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000230288",
+      "discogs": "58897",
+      "spotify": "6596yDTd94cIC3dlBptxDH",
+      "deezer": "8106",
+      "rateyourmusic": "waldeck",
+      "wikidata": "Q671560",
+      "youtube": "UC907WY53IhAlba4P6BGJCUQ"
+    }
   }
 }

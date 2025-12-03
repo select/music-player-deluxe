@@ -2,7 +2,7 @@
   "youtubeId": "ZckaCTKFBXU",
   "title": "Clap Your Hands",
   "artist": "Kungs",
-  "lastFetched": "2025-11-30T23:05:13.450Z",
+  "lastFetched": "2025-12-02T01:27:51.375Z",
   "odesli": {
     "amazonMusic": "B0013AF628",
     "amazonStore": "B0013AF628",
@@ -41,6 +41,24 @@
       "edm",
       "house",
       "tropical house"
-    ]
+    ],
+    "releasedAt": "2022-02-18",
+    "artistCountry": "FR",
+    "externalIdsTrack": {
+      "spotify": "3vYkOXwIVmcMuuiNTM6tYR",
+      "deezer": "1802218997"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003417741",
+      "discogs": "4394625",
+      "spotify": "7keGfmQR4X5w0two1xKZ7d",
+      "deezer": "5992092",
+      "lastfm": "Kungs",
+      "genius": "Kungs",
+      "rateyourmusic": "kungs",
+      "soundcloud": "https://soundcloud.com/kungsmusic",
+      "wikidata": "Q23826199",
+      "youtube": "UCdaQq_IggxNXTvW2HV1GXRQ"
+    }
   }
 }

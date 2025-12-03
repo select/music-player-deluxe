@@ -2,7 +2,7 @@
   "youtubeId": "XE-5yZtkiCQ",
   "title": "Seventh One",
   "artist": "Dean Magraw",
-  "lastFetched": "2025-11-23T16:41:29.777Z",
+  "lastFetched": "2025-12-02T01:23:47.065Z",
   "odesli": {
     "amazonMusic": "B07M6H3PJ2",
     "amazonStore": "B07M6H3PJ2",
@@ -27,7 +27,12 @@
       "jazz"
     ],
     "trackMbid": "4e86043f-139f-3a85-bb96-fd7269ca23bc",
-    "artistMbid": "5006936e-2172-4227-8d3c-edaad6b126d6"
+    "artistMbid": "5006936e-2172-4227-8d3c-edaad6b126d6",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "475991",
+      "wikidata": "Q5246321"
+    }
   },
   "lastfm": {
     "id": "Dean+Magraw/_/Seventh+One",

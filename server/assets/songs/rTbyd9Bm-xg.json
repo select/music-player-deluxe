@@ -3,7 +3,7 @@
   "artist": "James Marvel",
   "duration": 293,
   "youtubeId": "rTbyd9Bm-xg",
-  "lastFetched": "2025-11-19T04:20:58.120Z",
+  "lastFetched": "2025-12-02T01:56:05.617Z",
   "odesli": {
     "amazonMusic": "B07WT3HWTN",
     "amazonStore": "B07WT3HWTN",
@@ -32,6 +32,14 @@
   "musicbrainz": {
     "trackMbid": "e8691977-b467-45fb-8e69-27c27bcb437e",
     "artistMbid": "02db8033-68b5-4312-92c5-7d1c74d151de",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2017-12-17",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "discogs": "3120445",
+      "spotify": "0PvM7YGil23rlj6bXdv8kZ",
+      "deezer": "2276011",
+      "soundcloud": "https://soundcloud.com/j-marvel"
+    }
   }
 }

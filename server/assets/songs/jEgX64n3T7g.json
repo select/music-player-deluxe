@@ -1,0 +1,66 @@
+{
+  "youtubeId": "jEgX64n3T7g",
+  "title": "Massive Attack - Paradise Circus",
+  "lastFetched": "2025-12-03T11:54:29.714Z",
+  "ai": {
+    "title": "Paradise Circus",
+    "artist": "Massive Attack"
+  },
+  "lastfm": {
+    "summary": "Vocals: Hope Sandoval <a href=\"http://www.last.fm/music/Massive+Attack/_/Paradise+Circus\">Read more on Last.fm</a>.",
+    "id": "Massive+Attack/_/Paradise+Circus",
+    "listeners": 752981,
+    "playcount": 7011767,
+    "tags": [
+      "trip-hop",
+      "chillout",
+      "electronic",
+      "downtempo",
+      "female vocalists"
+    ],
+    "title": "Paradise Circus",
+    "artist": "Massive Attack",
+    "mbid": "357c982c-9f41-44c5-87aa-50272a05d8cf",
+    "artistMbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8"
+  },
+  "musicbrainz": {
+    "trackMbid": "b350a371-25ea-410d-8c3e-c138503a7cee",
+    "artistMbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "downtempo",
+      "electronic",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "ambient",
+      "club",
+      "downtempo",
+      "dub",
+      "electronic",
+      "electronica",
+      "trip hop",
+      "uk street soul"
+    ],
+    "releasedAt": "2010-02-03",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "2BndJYJQ17UcEeUFJP5JmY"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000378288",
+      "discogs": "4480",
+      "spotify": "6FXMGgJwohJLUSr5nVlf9X",
+      "deezer": "612",
+      "lastfm": "Massive+Attack",
+      "genius": "Massive-attack",
+      "rateyourmusic": "massive_attack",
+      "soundcloud": "https://soundcloud.com/massiveattack",
+      "napster": "massive-attack",
+      "wikidata": "Q357418",
+      "youtube": "UCNgjBASMIxygr65gJs9IyUA"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "youtubeId": "qe01GUiEGoo",
+  "title": "Our Love",
+  "artist": "Incubus",
+  "lastFetched": "2025-12-03T11:50:04.138Z",
+  "odesli": {
+    "amazonMusic": "B083Z1BV3R",
+    "amazonStore": "B083Z1BV3R",
+    "appleMusic": "1495256907",
+    "itunes": "1495256907",
+    "pandora": "TR:30577035",
+    "soundcloud": "incubusofficial/our-love",
+    "spotify": "6j652760j2wctFstQmai4R",
+    "tidal": "128416554",
+    "yandex": "62100954",
+    "youtube": "qe01GUiEGoo",
+    "youtubeMusic": "qe01GUiEGoo"
+  },
+  "lastfm": {
+    "id": "Incubus/_/Our+Love",
+    "listeners": 32393,
+    "playcount": 130291,
+    "title": "Our Love",
+    "artist": "Incubus",
+    "mbid": "2078cc35-d242-4987-8e1d-764b25033a55",
+    "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5",
+    "tags": [
+      "alternative rock",
+      "alt rock",
+      "2020",
+      "2020s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a20ed26a-f982-4ccf-a425-f655161a6919",
+    "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "funk metal",
+      "funk rock",
+      "nu metal",
+      "pop rock",
+      "rap metal",
+      "rock",
+      "turntablism"
+    ],
+    "releasedAt": "2020-01-31",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000772745",
+      "discogs": "149192",
+      "spotify": "3YcBF2ttyueytpXtEzn1Za",
+      "deezer": "693",
+      "lastfm": "Incubus",
+      "genius": "Incubus",
+      "rateyourmusic": "incubus",
+      "soundcloud": "https://soundcloud.com/incubus",
+      "wikidata": "Q1661036",
+      "youtube": "UCjvwoDIrMmlSOINUPZWM3CA"
+    }
+  }
+}

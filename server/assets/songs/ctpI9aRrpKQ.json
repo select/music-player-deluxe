@@ -2,7 +2,7 @@
   "youtubeId": "ctpI9aRrpKQ",
   "title": "Rapture",
   "artist": "Pedro The Lion",
-  "lastFetched": "2025-11-30T20:53:09.996Z",
+  "lastFetched": "2025-12-02T01:34:25.051Z",
   "odesli": {
     "amazonMusic": "B07ZMHGJRQ",
     "amazonStore": "B07ZMHGJRQ",
@@ -37,6 +37,20 @@
     ],
     "artistGenres": [
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2002-04-16",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000251033",
+      "bandcamp": "https://pedrothelion.bandcamp.com/",
+      "discogs": "382085",
+      "spotify": "4ApdWjZjftqD77Vh6qDbCr",
+      "deezer": "2069",
+      "lastfm": "Pedro+the+Lion",
+      "genius": "Pedro-the-lion",
+      "rateyourmusic": "pedro_the_lion",
+      "soundcloud": "https://soundcloud.com/pedro-the-lion",
+      "wikidata": "Q9291749"
+    }
   }
 }

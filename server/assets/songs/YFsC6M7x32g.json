@@ -2,7 +2,7 @@
   "youtubeId": "YFsC6M7x32g",
   "title": "The Coffin Train",
   "artist": "Diamond Head",
-  "lastFetched": "2025-11-23T16:41:59.605Z",
+  "lastFetched": "2025-12-02T01:25:39.844Z",
   "odesli": {
     "amazonMusic": "B07P5C6XL4",
     "amazonStore": "B07P5C6XL4",
@@ -28,7 +28,22 @@
       "nwobhm"
     ],
     "trackMbid": "0c5e6cde-4282-430b-b261-6163e5c0e17f",
-    "artistMbid": "d3dd86df-2f57-4a97-8100-d09915343f60"
+    "artistMbid": "d3dd86df-2f57-4a97-8100-d09915343f60",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000251604",
+      "bandcamp": "https://diamondhead.bandcamp.com/",
+      "discogs": "441141",
+      "spotify": "3z3KnhKZObj216IgfHYGVf",
+      "deezer": "11873",
+      "lastfm": "Diamond+Head",
+      "genius": "Diamond-head",
+      "rateyourmusic": "diamond_head",
+      "soundcloud": "https://soundcloud.com/diamond-head-official",
+      "napster": "diamond-head",
+      "wikidata": "Q552377",
+      "youtube": "UCwL_QWQ3ILpZlwaEJHsjP9A"
+    }
   },
   "lastfm": {
     "id": "Diamond+Head/_/The+Coffin+Train",

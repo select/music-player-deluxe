@@ -3,7 +3,7 @@
   "artist": "TeRex Productions",
   "duration": 132,
   "youtubeId": "wJ-ybTlbU5E",
-  "lastFetched": "2025-11-16T21:25:59.726Z",
+  "lastFetched": "2025-12-02T02:03:06.845Z",
   "odesli": {
     "boomplay": "19617868",
     "pandora": "TR:1840695",
@@ -26,7 +26,22 @@
     ],
     "trackMbid": "0ed351f9-5f9a-4b81-a4c3-a68c8425511f",
     "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2025-08-27",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0002036252",
+      "discogs": "1474921",
+      "spotify": "738wLrAtLtCtFOLvQBXOXp",
+      "deezer": "282118",
+      "lastfm": "Major+Lazer",
+      "genius": "Major-lazer",
+      "rateyourmusic": "major-lazer",
+      "soundcloud": "https://soundcloud.com/majorlazer",
+      "qobuz": "111764",
+      "wikidata": "Q2604214",
+      "youtube": "UCouK2xKynWUBlknnuhdTTgg"
+    }
   },
   "ai": {
     "title": "GANGSTA",

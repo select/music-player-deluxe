@@ -2,7 +2,7 @@
   "youtubeId": "yI8lrvKLzg0",
   "title": "Heaven for Everyone",
   "artist": "Queen",
-  "lastFetched": "2025-11-23T16:54:06.912Z",
+  "lastFetched": "2025-12-02T02:05:49.883Z",
   "odesli": {
     "amazonMusic": "B07VH1Z99Y",
     "amazonStore": "B07VH1Z99Y",
@@ -36,7 +36,22 @@
       "pop rock"
     ],
     "trackMbid": "b8381b23-c760-4670-a9a1-e1b01b7e5ebf",
-    "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3"
+    "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000858827",
+      "discogs": "81013",
+      "spotify": "1dfeR4HaWDbWqFHLkxsg1d",
+      "deezer": "412",
+      "lastfm": "Queen",
+      "genius": "Queen",
+      "rateyourmusic": "queen",
+      "soundcloud": "https://soundcloud.com/queen-69312",
+      "napster": "queen",
+      "wikidata": "Q15862",
+      "wikipedia": "Queen_(band)",
+      "youtube": "UCEPMVbUzImPl4p8k4LkGevA"
+    }
   },
   "lastfm": {
     "id": "Queen/_/Heaven+for+Everyone",

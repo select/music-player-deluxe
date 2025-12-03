@@ -1,7 +1,7 @@
 {
   "youtubeId": "_ePlKJfWtaM",
   "title": "Talvin Singh - Traveller",
-  "lastFetched": "2025-11-30T20:12:55.698Z",
+  "lastFetched": "2025-12-02T01:29:23.627Z",
   "ai": {
     "title": "Traveller",
     "artist": "Talvin Singh"
@@ -36,6 +36,19 @@
       "electronic",
       "tribal house",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "1998-08-17",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "7v8twzSuORE0C2oGmGEKVr"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000157084",
+      "discogs": "2808",
+      "spotify": "30Y7JOpiNgAGEhnkYPdI1P",
+      "deezer": "4991",
+      "rateyourmusic": "talvin_singh",
+      "wikidata": "Q331450"
+    }
   }
 }

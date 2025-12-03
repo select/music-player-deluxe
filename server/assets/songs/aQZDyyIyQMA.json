@@ -1,0 +1,56 @@
+{
+  "youtubeId": "aQZDyyIyQMA",
+  "title": "Talk Is Cheap (Live at the Enmore Theatre)",
+  "artist": "Chet Faker",
+  "lastFetched": "2025-12-03T11:58:31.104Z",
+  "odesli": {
+    "amazonMusic": "B0DGVNSB4T",
+    "amazonStore": "B0DGVNSB4T",
+    "appleMusic": "1769470652",
+    "itunes": "1769470652",
+    "pandora": "TR:141538984",
+    "soundcloud": "chetfaker/talk-is-cheap-live-at-the",
+    "spotify": "6QTb3BBTGSOATIP9Q5idmZ",
+    "youtube": "aQZDyyIyQMA",
+    "youtubeMusic": "aQZDyyIyQMA"
+  },
+  "lastfm": {
+    "id": "Chet+Faker/_/Talk+Is+Cheap+(Live+at+the+Enmore+Theatre)",
+    "listeners": 318,
+    "playcount": 1273,
+    "title": "Talk Is Cheap (Live at the Enmore Theatre)",
+    "artist": "Chet Faker",
+    "artistMbid": "a21b2652-62ed-4767-a3d2-0aa802abf080",
+    "tags": [
+      "downtempo",
+      "lo-fi",
+      "post-dubstep",
+      "smooth",
+      "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "627e69f3-f391-4134-9356-87ba8a6a5795",
+    "artistMbid": "a21b2652-62ed-4767-a3d2-0aa802abf080",
+    "releaseCount": 1,
+    "artistGenres": [
+      "downtempo",
+      "electronica",
+      "soul",
+      "trip hop"
+    ],
+    "releasedAt": "2014-04-11",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0002925310",
+      "discogs": "2716985",
+      "spotify": "6UcJxoeHWWWyT5HZP064om",
+      "deezer": "1635714",
+      "lastfm": "Chet+Faker",
+      "genius": "Chet-faker",
+      "soundcloud": "https://soundcloud.com/chetfaker",
+      "wikidata": "Q5094088",
+      "youtube": "UCLcSym6gRtQqhxLZHvAwuDg"
+    }
+  }
+}

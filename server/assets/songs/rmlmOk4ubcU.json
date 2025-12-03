@@ -1,7 +1,7 @@
 {
   "youtubeId": "rmlmOk4ubcU",
   "title": "Automaton",
-  "lastFetched": "2025-11-30T21:18:21.368Z",
+  "lastFetched": "2025-12-02T01:56:35.721Z",
   "ai": {
     "title": "Automaton",
     "artist": "Jamiroquai"
@@ -55,6 +55,21 @@
       "funk",
       "house",
       "r&b"
-    ]
+    ],
+    "releasedAt": "2017-01-27",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000176358",
+      "discogs": "8029",
+      "spotify": "6J7biCazzYhU3gM9j1wfid",
+      "deezer": "7",
+      "lastfm": "Jamiroquai",
+      "genius": "Jamiroquai",
+      "rateyourmusic": "jamiroquai",
+      "soundcloud": "https://soundcloud.com/jamiroquai",
+      "napster": "jamiroquai",
+      "wikidata": "Q202041",
+      "youtube": "UCd8wWXk6fSa8b8WaZbpWgvg"
+    }
   }
 }

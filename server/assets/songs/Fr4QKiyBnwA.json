@@ -1,0 +1,45 @@
+{
+  "youtubeId": "Fr4QKiyBnwA",
+  "title": "Maduk - Kings & Queens",
+  "lastFetched": "2025-12-03T11:50:19.322Z",
+  "ai": {
+    "title": "Kings & Queens",
+    "artist": "Maduk"
+  },
+  "lastfm": {
+    "id": "Maduk/_/Kings+&+Queens",
+    "listeners": 6152,
+    "playcount": 28163,
+    "title": "Kings & Queens",
+    "artist": "Maduk",
+    "mbid": "039718f4-e289-4fe4-8aa9-a4113fa73046",
+    "artistMbid": "eb01febc-e2ba-45ef-b873-2ccbef4b64cb",
+    "tags": [
+      "drum and bass",
+      "liquid funk",
+      "dnb"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8faa9ee7-ca1b-442e-9b22-1e0d23e7d48c",
+    "artistMbid": "eb01febc-e2ba-45ef-b873-2ccbef4b64cb",
+    "releaseCount": 2,
+    "artistGenres": [
+      "drum and bass",
+      "electronic"
+    ],
+    "releasedAt": "2013-12-09",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "bandcamp": "https://maduk.bandcamp.com/",
+      "discogs": "2602550",
+      "spotify": "6TaaqqCMRMSpvNHClfnbEL",
+      "deezer": "2075521",
+      "lastfm": "Maduk",
+      "rateyourmusic": "maduk",
+      "soundcloud": "https://soundcloud.com/madukdnb",
+      "wikidata": "Q21076641",
+      "youtube": "UCpb-o6wwa9r_U0D4X8lSxWg"
+    }
+  }
+}

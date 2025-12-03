@@ -2,7 +2,7 @@
   "youtubeId": "hA2mSqHFjeM",
   "title": "Road to Zion",
   "artist": "Petra",
-  "lastFetched": "2025-11-30T21:52:00.705Z",
+  "lastFetched": "2025-12-02T01:39:48.707Z",
   "odesli": {
     "amazonMusic": "B00E1X0GU6",
     "amazonStore": "B00E1X0GU6",
@@ -44,6 +44,16 @@
       "praise & worship",
       "progressive rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1982-09-21",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000325443",
+      "discogs": "903792",
+      "spotify": "1LmsXfZSt1nutb8OCvt00G",
+      "deezer": "15039",
+      "rateyourmusic": "petra",
+      "wikidata": "Q1092014"
+    }
   }
 }

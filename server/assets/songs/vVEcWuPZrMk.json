@@ -2,7 +2,7 @@
   "youtubeId": "vVEcWuPZrMk",
   "title": "Forever Changed",
   "artist": "DJ Shadow",
-  "lastFetched": "2025-11-23T16:52:55.110Z",
+  "lastFetched": "2025-12-02T02:01:38.053Z",
   "odesli": {
     "amazonMusic": "B0CFHYM47G",
     "amazonStore": "B0CFHYM47G",
@@ -32,7 +32,23 @@
       "instrumental hip hop"
     ],
     "trackMbid": "d4e6b28e-4e03-4acc-a1b0-c8992c1ecfff",
-    "artistMbid": "efa2c11a-1a35-4b60-bc1b-66d37de88511"
+    "artistMbid": "efa2c11a-1a35-4b60-bc1b-66d37de88511",
+    "releasedAt": "2023-10-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000949820",
+      "bandcamp": "https://djshadow.bandcamp.com/",
+      "discogs": "4478",
+      "spotify": "5CE2IfdYZEQGIDsfiRm8SI",
+      "deezer": "1214",
+      "lastfm": "DJ+Shadow",
+      "genius": "Dj-shadow",
+      "rateyourmusic": "dj_shadow",
+      "soundcloud": "https://soundcloud.com/djshadow",
+      "napster": "dj-shadow",
+      "wikidata": "Q217716",
+      "youtube": "UCtTuSKgCdeTyxBGPCD3TgxQ"
+    }
   },
   "lastfm": {
     "id": "DJ+Shadow/_/Forever+Changed",

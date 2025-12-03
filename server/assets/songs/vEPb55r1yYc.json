@@ -2,7 +2,7 @@
   "youtubeId": "vEPb55r1yYc",
   "title": "Von Freiheit nicht genug",
   "artist": "Tapete",
-  "lastFetched": "2025-11-23T16:52:45.110Z",
+  "lastFetched": "2025-12-02T02:01:11.034Z",
   "odesli": {
     "amazonMusic": "B00R8OUFAQ",
     "amazonStore": "B00R8OUFAQ",
@@ -23,7 +23,14 @@
       "hip hop"
     ],
     "trackMbid": "1a6b467e-a0fa-31a4-9fd2-76c418227373",
-    "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3"
+    "artistMbid": "c629082a-4354-4b92-b653-868dbd987bd3",
+    "externalIdsArtist": {
+      "bandcamp": "https://tapeteberlin.bandcamp.com/",
+      "discogs": "1369220",
+      "spotify": "2mLGlQXPcSPMTrVbfP0OdF",
+      "deezer": "313413",
+      "soundcloud": "https://soundcloud.com/tapeteberlin"
+    }
   },
   "lastfm": {
     "id": "Tapete/_/Von+Freiheit+nicht+genug",

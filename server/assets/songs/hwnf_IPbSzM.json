@@ -2,7 +2,7 @@
   "youtubeId": "hwnf_IPbSzM",
   "title": "Nur Flug",
   "artist": "Die Sterne",
-  "lastFetched": "2025-11-23T16:46:37.831Z",
+  "lastFetched": "2025-12-02T01:40:58.562Z",
   "odesli": {
     "amazonMusic": "B07PGW5Q3J",
     "amazonStore": "B07PGW5Q3J",
@@ -32,7 +32,17 @@
       "indie rock"
     ],
     "trackMbid": "2b1a3739-af67-3c65-9fb0-079465082c9f",
-    "artistMbid": "52f2c49e-43c4-4716-bf4a-0eac1c651d3a"
+    "artistMbid": "52f2c49e-43c4-4716-bf4a-0eac1c651d3a",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000526529",
+      "discogs": "3327",
+      "deezer": "145568",
+      "lastfm": "Die+Sterne",
+      "rateyourmusic": "die_sterne",
+      "wikidata": "Q11889",
+      "youtube": "UC3amkvr9DJ7MJFXLjpBb3bg"
+    }
   },
   "lastfm": {
     "id": "Die+Sterne/_/Nur+Flug",

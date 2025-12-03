@@ -2,7 +2,7 @@
   "youtubeId": "ztCgNQg9FCQ",
   "title": "Baltimore",
   "artist": "Nina Simone",
-  "lastFetched": "2025-11-23T16:55:02.555Z",
+  "lastFetched": "2025-12-02T02:08:34.896Z",
   "odesli": {
     "amazonMusic": "B00138BRVY",
     "amazonStore": "B00138BRVY",
@@ -36,7 +36,20 @@
       "jazz"
     ],
     "trackMbid": "fb908095-4905-4ab7-a8e9-de6a8f03008e",
-    "artistMbid": "2944824d-4c26-476f-a981-be849081942f"
+    "artistMbid": "2944824d-4c26-476f-a981-be849081942f",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000411761",
+      "discogs": "10584",
+      "spotify": "7G1GBhoKtEPnP86X2PvEYO",
+      "deezer": "744",
+      "lastfm": "Nina+Simone",
+      "genius": "Nina-simone",
+      "rateyourmusic": "nina_simone",
+      "soundcloud": "https://soundcloud.com/ninasimone",
+      "wikidata": "Q174957",
+      "youtube": "UCJ-FRbWianyv9q-Ly9whFQQ"
+    }
   },
   "lastfm": {
     "id": "Nina+Simone/_/Baltimore",

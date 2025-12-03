@@ -2,7 +2,7 @@
   "youtubeId": "qbp_cthERyI",
   "title": "Magic Truffle",
   "artist": "shine grooves",
-  "lastFetched": "2025-11-23T15:40:50.315Z",
+  "lastFetched": "2025-12-02T01:54:33.254Z",
   "odesli": {
     "amazonMusic": "B0CBHHWVK2",
     "amazonStore": "B0CBHHWVK2",
@@ -32,6 +32,12 @@
   },
   "musicbrainz": {
     "trackMbid": "d733df00-097f-4aa4-9438-ecb70efb8bd9",
-    "artistMbid": "019f0313-9538-435b-8f46-00f32bd6998b"
+    "artistMbid": "019f0313-9538-435b-8f46-00f32bd6998b",
+    "releasedAt": "2023-09-01",
+    "artistCountry": "RU",
+    "externalIdsArtist": {
+      "discogs": "3213169",
+      "soundcloud": "https://soundcloud.com/shine-grooves"
+    }
   }
 }

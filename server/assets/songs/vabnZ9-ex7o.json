@@ -2,7 +2,7 @@
   "youtubeId": "vabnZ9-ex7o",
   "title": "Come As You Are",
   "artist": "Nirvana",
-  "lastFetched": "2025-11-30T21:34:11.163Z",
+  "lastFetched": "2025-12-02T02:01:51.193Z",
   "odesli": {
     "amazonMusic": "B09GLJ13Q8",
     "amazonStore": "B09GLJ13Q8",
@@ -51,6 +51,21 @@
       "punk rock",
       "rock",
       "sludge metal"
-    ]
+    ],
+    "releasedAt": "1994",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000357406",
+      "discogs": "125246",
+      "spotify": "6olE6TJLqED3rqDCT0FyPh",
+      "deezer": "415",
+      "lastfm": "Nirvana",
+      "genius": "Nirvana",
+      "rateyourmusic": "nirvana",
+      "soundcloud": "https://soundcloud.com/nirvana",
+      "napster": "nirvana",
+      "wikidata": "Q11649",
+      "youtube": "UCzGrGrvf9g8CVVzh_LvGf-g"
+    }
   }
 }

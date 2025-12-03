@@ -1,0 +1,53 @@
+{
+  "youtubeId": "xdOa4_Fc08o",
+  "title": "Shakar",
+  "artist": "Ladaniva",
+  "lastFetched": "2025-12-03T12:07:48.614Z",
+  "odesli": {
+    "amazonMusic": "B0BSRHX3XK",
+    "amazonStore": "B0BSRHX3XK",
+    "appleMusic": "1667046124",
+    "itunes": "1667046124",
+    "pandora": "TR:105417554",
+    "soundcloud": "ladaniva-music/shakar",
+    "spotify": "62csL1cwrwNUfWYQN3z3WI",
+    "tidal": "318016765",
+    "youtube": "xdOa4_Fc08o",
+    "youtubeMusic": "xdOa4_Fc08o"
+  },
+  "lastfm": {
+    "id": "Ladaniva/_/Shakar",
+    "listeners": 6034,
+    "playcount": 38508,
+    "title": "Shakar",
+    "artist": "Ladaniva",
+    "mbid": "07b82545-6543-4f12-9502-444a7facb27b",
+    "artistMbid": "bf5b5110-784a-4211-b8f4-d33abe881da3",
+    "tags": [
+      "armenian",
+      "folk",
+      "pop",
+      "armenia"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "07b82545-6543-4f12-9502-444a7facb27b",
+    "artistMbid": "bf5b5110-784a-4211-b8f4-d33abe881da3",
+    "releaseCount": 7,
+    "artistGenres": [
+      "folk pop"
+    ],
+    "releasedAt": "2023-02-16",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0004376359",
+      "discogs": "8471856",
+      "spotify": "6nt7tWnBx4NqnXKO6vEByU",
+      "deezer": "88142012",
+      "rateyourmusic": "ladaniva",
+      "napster": "art.454994504",
+      "wikidata": "Q110818920",
+      "youtube": "UC08OoQiXFnOvOlD5iMErgHQ"
+    }
+  }
+}

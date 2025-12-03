@@ -2,7 +2,7 @@
   "youtubeId": "lMEJ9imPcQY",
   "title": "Warcry",
   "artist": "Shadow Gallery",
-  "lastFetched": "2025-11-30T21:11:49.589Z",
+  "lastFetched": "2025-12-02T01:45:52.038Z",
   "odesli": {
     "pandora": "TR:5887319",
     "tidal": "5565830",
@@ -41,6 +41,18 @@
       "progressive rock",
       "rock",
       "symphonic metal"
-    ]
+    ],
+    "releasedAt": "1995-06-27",
+    "externalIdsArtist": {
+      "allmusic": "mn0000131339",
+      "discogs": "364853",
+      "spotify": "79zigPpfSQ5Fgeu0iaI8n5",
+      "deezer": "248872",
+      "lastfm": "Shadow+Gallery",
+      "genius": "Shadow-gallery",
+      "rateyourmusic": "shadow_gallery",
+      "soundcloud": "https://soundcloud.com/shadowgalleryofficial",
+      "wikidata": "Q980356"
+    }
   }
 }

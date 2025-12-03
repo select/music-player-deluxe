@@ -1,0 +1,45 @@
+{
+  "youtubeId": "sTlperhyiDk",
+  "title": "Henri Salvador - Mais non, mais non",
+  "lastFetched": "2025-12-03T11:56:55.727Z",
+  "ai": {
+    "title": "Mais non, mais non",
+    "artist": "Henri Salvador"
+  },
+  "lastfm": {
+    "id": "Henri+Salvador/_/Mais+non,+mais+non",
+    "listeners": 514,
+    "playcount": 1809,
+    "title": "Mais non, mais non",
+    "artist": "Henri Salvador",
+    "artistMbid": "05812a7d-deff-4cd1-9087-08de9ff77581",
+    "tags": [
+      "french",
+      "jazz",
+      "bossa nova",
+      "chanson francaise",
+      "chanson"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c3835d15-fd34-4dae-b56e-8134c27a58a4",
+    "artistMbid": "05812a7d-deff-4cd1-9087-08de9ff77581",
+    "releaseCount": 11,
+    "artistGenres": [
+      "cabaret",
+      "chanson française",
+      "jazz"
+    ],
+    "releasedAt": "1969",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000955051",
+      "discogs": "59389",
+      "spotify": "0TQUgpZqEnfluYEfKQBYB6",
+      "deezer": "5953",
+      "lastfm": "Henri+Salvador",
+      "rateyourmusic": "henri_salvador",
+      "wikidata": "Q318060"
+    }
+  }
+}

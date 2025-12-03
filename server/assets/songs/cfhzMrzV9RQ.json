@@ -2,7 +2,7 @@
   "youtubeId": "cfhzMrzV9RQ",
   "title": "Sointu",
   "artist": "Timo Lassy",
-  "lastFetched": "2025-11-23T16:44:18.552Z",
+  "lastFetched": "2025-12-02T01:33:56.612Z",
   "odesli": {
     "appleMusic": "1709352889",
     "itunes": "1709352889",
@@ -19,7 +19,16 @@
       "jazz"
     ],
     "trackMbid": "3c343c84-c5a7-47ce-979a-7ae96cd112a5",
-    "artistMbid": "65541f32-262c-4a6a-a887-d192d6630ff3"
+    "artistMbid": "65541f32-262c-4a6a-a887-d192d6630ff3",
+    "artistCountry": "FI",
+    "externalIdsArtist": {
+      "allmusic": "mn0000822268",
+      "discogs": "264503",
+      "spotify": "12DkoR4cqoY6osVYHmsrAq",
+      "deezer": "457909",
+      "rateyourmusic": "timo_lassy",
+      "wikidata": "Q11897687"
+    }
   },
   "lastfm": {
     "id": "Timo+Lassy/_/Sointu",

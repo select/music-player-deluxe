@@ -1,7 +1,7 @@
 {
   "youtubeId": "WckSWlEf2nM",
   "title": "Esben and the Witch - No Dog",
-  "lastFetched": "2025-11-30T20:27:17.009Z",
+  "lastFetched": "2025-12-02T01:22:53.903Z",
   "ai": {
     "title": "No Dog",
     "artist": "Esben and the Witch"
@@ -36,6 +36,21 @@
       "post-punk",
       "post-rock",
       "shoegaze"
-    ]
+    ],
+    "releasedAt": "2014-09-07",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002521808",
+      "bandcamp": "https://esbenandthewitch.bandcamp.com/",
+      "discogs": "1618742",
+      "spotify": "5e9048O5CDVvCgSmUEJA06",
+      "deezer": "392632",
+      "lastfm": "Esben+and+the+Witch",
+      "genius": "Esben-and-the-witch",
+      "rateyourmusic": "esben-and-the-witch",
+      "soundcloud": "https://soundcloud.com/esben-and-the-witch",
+      "youtube": "UCm46JeeCjHhIN0BxcXkQb9Q",
+      "wikidata": "Q5396778"
+    }
   }
 }

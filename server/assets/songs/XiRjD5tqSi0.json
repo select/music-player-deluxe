@@ -2,7 +2,7 @@
   "youtubeId": "XiRjD5tqSi0",
   "title": "Déjame",
   "artist": "Rumbakana",
-  "lastFetched": "2025-11-30T23:07:11.461Z",
+  "lastFetched": "2025-12-02T01:24:45.404Z",
   "odesli": {
     "amazonMusic": "B0BWNNYKHY",
     "amazonStore": "B0BWNNYKHY",
@@ -27,6 +27,12 @@
   "musicbrainz": {
     "trackMbid": "604ae37e-5182-4d05-8c34-455d4963d7b8",
     "artistMbid": "3c391682-fbd8-486c-9900-f1323d2ced2d",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-02-17",
+    "externalIdsArtist": {
+      "spotify": "4XdtcO5PlsJx1zpFUDBOrZ",
+      "deezer": "198135697",
+      "youtube": "UCA_EQTq7Bw_62yzQ_pR0rLA"
+    }
   }
 }

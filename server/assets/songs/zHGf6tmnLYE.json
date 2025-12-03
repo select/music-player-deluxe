@@ -2,7 +2,7 @@
   "youtubeId": "zHGf6tmnLYE",
   "title": "Woman",
   "artist": "Little Simz",
-  "lastFetched": "2025-11-30T21:37:01.722Z",
+  "lastFetched": "2025-12-02T02:07:43.083Z",
   "odesli": {
     "amazonMusic": "B091J4X3MD",
     "amazonStore": "B091J4X3MD",
@@ -43,6 +43,18 @@
     "artistGenres": [
       "hip hop",
       "pop rap"
-    ]
+    ],
+    "releasedAt": "2021-05-06",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003267919",
+      "bandcamp": "https://littlesimz.bandcamp.com/",
+      "discogs": "3887166",
+      "spotify": "6eXZu6O7nAUA5z6vLV8NKI",
+      "deezer": "4578590",
+      "rateyourmusic": "little-simz",
+      "soundcloud": "https://soundcloud.com/littlesimz",
+      "wikidata": "Q6547427"
+    }
   }
 }

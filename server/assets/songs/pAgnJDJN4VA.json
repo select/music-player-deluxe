@@ -1,0 +1,68 @@
+{
+  "youtubeId": "pAgnJDJN4VA",
+  "title": "Back In Black",
+  "artist": "AC/DC",
+  "lastFetched": "2025-12-03T11:50:52.494Z",
+  "odesli": {
+    "amazonMusic": "B00O6K8HC8",
+    "amazonStore": "B00O6K8HC8",
+    "audius": "nVgpN",
+    "anghami": "9921154",
+    "boomplay": "14171049",
+    "pandora": "TR:7184",
+    "soundcloud": "shakedrock/acdc-back-in-black",
+    "spotify": "6eB8r7ABs9BvK8MQPtSpBQ",
+    "tidal": "35986110",
+    "yandex": "647040",
+    "youtube": "pAgnJDJN4VA",
+    "youtubeMusic": "pAgnJDJN4VA"
+  },
+  "lastfm": {
+    "summary": "\"Back in Black\" is a song by AC/DC, appearing as the first track on side two of their 1980 album, Back in Black. Known for its opening guitar riff, the song was AC/DC's tribute to their former singer Bon Scott. It peaked in the U.S. at #37 on the Billboard Hot 100 chart in 1981 and was #51 on Billboard's Top Tracks chart, which debuted in March 1981. \"Back in Black\" received the RIAA's Master Ringtone Sales Award (Gold and Platinum) in 2006 and reached 2x Platinum status in 2007. <a href=\"http://www.last.fm/music/AC%2FDC/_/Back+in+Black\">Read more on Last.fm</a>.",
+    "id": "AC%2FDC/_/Back+in+Black",
+    "listeners": 2051358,
+    "playcount": 15883899,
+    "tags": [
+      "hard rock",
+      "classic rock",
+      "rock",
+      "heavy metal",
+      "ACDC"
+    ],
+    "title": "Back in Black",
+    "artist": "AC/DC",
+    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1"
+  },
+  "musicbrainz": {
+    "trackMbid": "175bbff1-b618-4b54-a50b-5a0b3ff1413f",
+    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+    "releaseCount": 3,
+    "genres": [
+      "classic rock",
+      "hard rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "classic rock",
+      "hard rock",
+      "rock",
+      "rock and roll"
+    ],
+    "releasedAt": "2005-03-29",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000574772",
+      "discogs": "84752",
+      "spotify": "711MCceyCBcFnzjGY4Q7Un",
+      "deezer": "115",
+      "lastfm": "AC%2FDC",
+      "genius": "Ac-dc",
+      "rateyourmusic": "ac_dc",
+      "soundcloud": "https://soundcloud.com/acdcofficial",
+      "napster": "acdc",
+      "wikidata": "Q27593",
+      "youtube": "UCVm4YdI3hobkwsHTTOMVJKg"
+    }
+  }
+}

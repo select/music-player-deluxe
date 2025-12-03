@@ -1,0 +1,40 @@
+{
+  "youtubeId": "Zc2rD1u2iVY",
+  "title": "Fleisch",
+  "artist": "Bo Marley",
+  "lastFetched": "2025-12-03T11:48:48.689Z",
+  "odesli": {
+    "amazonMusic": "B0DBBPF5SH",
+    "amazonStore": "B0DBBPF5SH",
+    "appleMusic": "1059550618",
+    "itunes": "1059550618",
+    "pandora": "TR:80297106",
+    "soundcloud": "benja93190/fleisch-1",
+    "spotify": "0ccIffJ9r3hSWaC2yUGzKD",
+    "tidal": "53965887",
+    "youtube": "Zc2rD1u2iVY",
+    "youtubeMusic": "Zc2rD1u2iVY"
+  },
+  "lastfm": {
+    "id": "Bo+Marley/_/Fleisch",
+    "listeners": 891,
+    "playcount": 2812,
+    "title": "Fleisch",
+    "artist": "Bo Marley",
+    "mbid": "e9b8f237-2008-444d-a0b4-4c6378eac501",
+    "artistMbid": "a7302485-24ca-4862-9e2d-c80bb35c4979",
+    "tags": [
+      "soulriddim",
+      "rootsriddim"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "54179f7d-e05f-4740-8599-a8efee9de490",
+    "artistMbid": "a7302485-24ca-4862-9e2d-c80bb35c4979",
+    "releaseCount": 1,
+    "releasedAt": "2008-11",
+    "externalIdsArtist": {
+      "discogs": "646735"
+    }
+  }
+}

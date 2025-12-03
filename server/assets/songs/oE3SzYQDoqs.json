@@ -1,7 +1,7 @@
 {
   "youtubeId": "oE3SzYQDoqs",
   "title": "Kruder & Dorfmeister - Sleazy Rider",
-  "lastFetched": "2025-11-30T20:54:20.611Z",
+  "lastFetched": "2025-12-02T01:50:42.147Z",
   "ai": {
     "title": "Sleazy Rider",
     "artist": "Kruder & Dorfmeister"
@@ -40,6 +40,16 @@
       "drum and bass",
       "electronic",
       "trip hop"
-    ]
+    ],
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000107227",
+      "bandcamp": "https://kruderanddorfmeister.bandcamp.com/",
+      "discogs": "1434",
+      "spotify": "39ywlwtGw8RTGobakgb11L",
+      "deezer": "2612",
+      "rateyourmusic": "kruder_and_dorfmeister",
+      "wikidata": "Q1121411"
+    }
   }
 }

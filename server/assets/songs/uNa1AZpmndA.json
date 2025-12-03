@@ -1,7 +1,7 @@
 {
   "youtubeId": "uNa1AZpmndA",
   "title": "Jon Hopkins - Vessel",
-  "lastFetched": "2025-12-01T11:52:32.266Z",
+  "lastFetched": "2025-12-02T02:00:27.665Z",
   "ai": {
     "title": "Vessel",
     "artist": "Jon Hopkins"
@@ -36,6 +36,21 @@
       "idm",
       "tech house",
       "techno"
-    ]
+    ],
+    "releasedAt": "2008-11-30",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000822040",
+      "bandcamp": "https://jonhopkins.bandcamp.com/",
+      "discogs": "24056",
+      "spotify": "7yxi31szvlbwvKq9dYOmFI",
+      "deezer": "258846",
+      "lastfm": "Jon+Hopkins",
+      "genius": "Jon-hopkins",
+      "rateyourmusic": "jon-hopkins",
+      "soundcloud": "https://soundcloud.com/jonhopkins",
+      "wikidata": "Q903592",
+      "youtube": "UCiwgazsh4EbM04FIQuyDVYw"
+    }
   }
 }

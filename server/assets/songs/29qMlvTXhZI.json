@@ -1,0 +1,61 @@
+{
+  "youtubeId": "29qMlvTXhZI",
+  "title": "Night",
+  "artist": "Kelly Lee Owens",
+  "lastFetched": "2025-12-03T11:46:07.970Z",
+  "odesli": {
+    "amazonMusic": "B084LJ5H46",
+    "amazonStore": "B084LJ5H46",
+    "audiomack": "36033122",
+    "boomplay": "18921947",
+    "deezer": "872155232",
+    "appleMusic": "1497732982",
+    "itunes": "1497732982",
+    "napster": "tra.480502124",
+    "pandora": "TR:28870653",
+    "soundcloud": "kellyleeowens/night",
+    "spotify": "1N1Dhz6cFIMv9Zkl15qPpC",
+    "tidal": "130833534",
+    "yandex": "62535590",
+    "youtube": "29qMlvTXhZI",
+    "youtubeMusic": "29qMlvTXhZI"
+  },
+  "lastfm": {
+    "id": "Kelly+Lee+Owens/_/Night",
+    "listeners": 43376,
+    "playcount": 204533,
+    "title": "Night",
+    "artist": "Kelly Lee Owens",
+    "mbid": "19e9fbac-10d7-40da-807e-cdf8c3445ae2",
+    "artistMbid": "9d88eaab-f90a-4fbe-b84f-20da5518cd26",
+    "tags": [
+      "tech house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "de93960c-d8ee-424b-97bb-586b1853c3d9",
+    "artistMbid": "9d88eaab-f90a-4fbe-b84f-20da5518cd26",
+    "releaseCount": 4,
+    "artistGenres": [
+      "dance",
+      "dream pop",
+      "electronic",
+      "pop",
+      "tech house",
+      "techno"
+    ],
+    "releasedAt": "2020-04-22",
+    "externalIdsArtist": {
+      "allmusic": "mn0003184750",
+      "bandcamp": "https://kellyleeowens.bandcamp.com/",
+      "discogs": "3143783",
+      "spotify": "5eitAUlYmlha3LLWg7aBn5",
+      "deezer": "7888234",
+      "genius": "Kelly-lee-owens",
+      "rateyourmusic": "kelly-lee-owens",
+      "soundcloud": "https://soundcloud.com/kellyleeowens",
+      "wikidata": "Q55006228",
+      "youtube": "UC9wARUGtGtBwyghM9itiAKw"
+    }
+  }
+}

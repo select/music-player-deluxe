@@ -2,7 +2,7 @@
   "youtubeId": "gy6ZMaJyxcc",
   "title": "Mashup The Dance",
   "artist": "Major Lazer",
-  "lastFetched": "2025-11-30T20:06:38.816Z",
+  "lastFetched": "2025-12-02T01:39:32.260Z",
   "odesli": {
     "amazonMusic": "B0CFD6BYQW",
     "amazonStore": "B0CFD6BYQW",
@@ -44,6 +44,25 @@
       "electropop",
       "jungle terror",
       "moombahton"
-    ]
+    ],
+    "releasedAt": "2013-04-10",
+    "artistCountry": "JM",
+    "externalIdsTrack": {
+      "spotify": "7IfozqiZSuaPo1Q7jpUgJx",
+      "deezer": "630194012"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002036252",
+      "discogs": "1474921",
+      "spotify": "738wLrAtLtCtFOLvQBXOXp",
+      "deezer": "282118",
+      "lastfm": "Major+Lazer",
+      "genius": "Major-lazer",
+      "rateyourmusic": "major-lazer",
+      "soundcloud": "https://soundcloud.com/majorlazer",
+      "qobuz": "111764",
+      "wikidata": "Q2604214",
+      "youtube": "UCouK2xKynWUBlknnuhdTTgg"
+    }
   }
 }

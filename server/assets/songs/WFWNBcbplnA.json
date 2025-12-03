@@ -2,7 +2,7 @@
   "youtubeId": "WFWNBcbplnA",
   "title": "Hinterm Kreisel",
   "artist": "Sorry3000",
-  "lastFetched": "2025-11-30T22:51:02.917Z",
+  "lastFetched": "2025-12-02T01:22:12.061Z",
   "lastfm": {
     "title": "Hinterm Kreisel",
     "artist": "Sorry3000",
@@ -18,6 +18,12 @@
   "musicbrainz": {
     "trackMbid": "ee9f4fd2-018f-4d9b-9161-08ec167abc18",
     "artistMbid": "56679701-0c2a-4ea2-b982-f05375ee1fd3",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2024-04-19",
+    "externalIdsArtist": {
+      "spotify": "21m8jydGaWLqhLtMAboaLh",
+      "deezer": "92516542",
+      "youtube": "UCQvh3JrVbPi11I7U8X_sBOg"
+    }
   }
 }

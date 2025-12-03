@@ -3,7 +3,7 @@
   "artist": "Sumac Dub",
   "duration": 246,
   "youtubeId": "Z0Wk7rwwyEk",
-  "lastFetched": "2025-11-19T05:27:34.728Z",
+  "lastFetched": "2025-12-02T01:26:50.787Z",
   "odesli": {
     "amazonMusic": "B0DPGKXYKJ",
     "amazonStore": "B0DPGKXYKJ",
@@ -27,7 +27,17 @@
     ],
     "trackMbid": "0fd5ffff-29a8-413f-bafc-0cc7c8f7b5f5",
     "artistMbid": "a668b547-1369-4c74-ab64-c901bab6b746",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2025-02-21",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "bandcamp": "https://sumacdub.bandcamp.com/",
+      "discogs": "5428789",
+      "spotify": "069WBCVKf29W5A88rqq0HI",
+      "deezer": "10614679",
+      "soundcloud": "https://soundcloud.com/su_maac",
+      "youtube": "UCffJy69IzGcJ7pVsxyObC0A"
+    }
   },
   "lastfm": {
     "id": "Sumac+Dub/_/Pers%C3%A9ides",

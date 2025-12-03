@@ -3,7 +3,7 @@
   "artist": "Johnny Paycheck",
   "duration": 164,
   "youtubeId": "gj2iGAifSNI",
-  "lastFetched": "2025-11-19T02:40:12.682Z",
+  "lastFetched": "2025-12-02T01:39:06.055Z",
   "odesli": {
     "amazonMusic": "B003U24QMI",
     "amazonStore": "B003U24QMI",
@@ -25,7 +25,14 @@
     ],
     "trackMbid": "559be2d9-7b66-48fa-88d4-8aa5ac8957e6",
     "artistMbid": "fae7b17e-03e9-44ea-9734-f4ed92246f9f",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "716201",
+      "spotify": "0DchahWJGQqrqr8PMM5zQD",
+      "deezer": "61681",
+      "wikidata": "Q1702383"
+    }
   },
   "lastfm": {
     "id": "Johnny+Paycheck/_/Take+This+Job+and+Shove+It",

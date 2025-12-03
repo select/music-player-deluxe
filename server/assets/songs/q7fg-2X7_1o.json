@@ -1,7 +1,7 @@
 {
   "youtubeId": "q7fg-2X7_1o",
   "title": "Skream - Chest Boxing",
-  "lastFetched": "2025-11-30T20:52:16.676Z",
+  "lastFetched": "2025-12-02T01:53:49.026Z",
   "ai": {
     "title": "Chest Boxing",
     "artist": "Skream"
@@ -34,6 +34,20 @@
       "electronica",
       "grime",
       "uk garage"
-    ]
+    ],
+    "releasedAt": "2007-04-23",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000555075",
+      "bandcamp": "https://skreamizm.bandcamp.com/",
+      "discogs": "189821",
+      "spotify": "2jbP92oFLWqPqogflK1wlW",
+      "deezer": "198649",
+      "lastfm": "Skream",
+      "rateyourmusic": "skream",
+      "soundcloud": "https://soundcloud.com/skreamizm",
+      "wikidata": "Q734062",
+      "youtube": "UCIB_Tcbd3KxUyGwfz5dBsCw"
+    }
   }
 }

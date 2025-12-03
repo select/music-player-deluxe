@@ -2,7 +2,7 @@
   "youtubeId": "ym0OCU65Gb4",
   "title": "Balloon",
   "artist": "Mar Malade",
-  "lastFetched": "2025-11-30T23:21:16.994Z",
+  "lastFetched": "2025-12-02T02:06:46.598Z",
   "odesli": {
     "amazonMusic": "B0CD2SPGFY",
     "amazonStore": "B0CD2SPGFY",
@@ -30,6 +30,12 @@
   "musicbrainz": {
     "artistMbid": "d7f11b5c-8743-4f87-8a19-6852db9b5d88",
     "trackMbid": "c256c763-b09c-4841-b330-bc1d12449c30",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-04-21",
+    "externalIdsArtist": {
+      "discogs": "9617335",
+      "spotify": "31XESXereH3q4fhAjG1NUw",
+      "deezer": "109475802"
+    }
   }
 }

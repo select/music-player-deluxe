@@ -4,7 +4,7 @@
   "album": "The Heat Warps",
   "duration": 371,
   "youtubeId": "dRZY6dEx7vI",
-  "lastFetched": "2025-11-19T04:31:07.303Z",
+  "lastFetched": "2025-12-02T01:35:01.121Z",
   "odesli": {
     "amazonMusic": "B0F7RWXV5F",
     "amazonStore": "B0F7RWXV5F",
@@ -33,6 +33,12 @@
   },
   "musicbrainz": {
     "trackMbid": "2209d4d2-c012-41af-835b-19f31d96617f",
-    "artistMbid": "42160bcc-8ed1-45bf-8678-edc3fea5d5c1"
+    "artistMbid": "42160bcc-8ed1-45bf-8678-edc3fea5d5c1",
+    "releasedAt": "2025-08-29",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://modernnature.bandcamp.com/",
+      "discogs": "7055540"
+    }
   }
 }

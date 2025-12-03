@@ -2,7 +2,7 @@
   "youtubeId": "Yp257b5APOg",
   "title": "Prettiest Virgin",
   "artist": "Agar Agar",
-  "lastFetched": "2025-11-30T20:15:04.295Z",
+  "lastFetched": "2025-12-02T01:26:45.253Z",
   "odesli": {
     "amazonMusic": "B08J46PKKN",
     "amazonStore": "B08J46PKKN",
@@ -38,6 +38,18 @@
     ],
     "artistGenres": [
       "electronic"
-    ]
+    ],
+    "releasedAt": "2016-09-28",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0003775546",
+      "bandcamp": "https://agar--agar.bandcamp.com/",
+      "discogs": "2613216",
+      "spotify": "5TkylUv5ysSbNoawmn3PBj",
+      "deezer": "10261270",
+      "rateyourmusic": "agar-agar",
+      "wikidata": "Q56753359",
+      "youtube": "AgarAgarVEVO"
+    }
   }
 }

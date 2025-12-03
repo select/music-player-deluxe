@@ -2,7 +2,7 @@
   "youtubeId": "Z6qnRS36EgE",
   "title": "Living Next Door to Alice",
   "artist": "Smokie",
-  "lastFetched": "2025-11-23T16:42:16.340Z",
+  "lastFetched": "2025-12-02T01:26:59.903Z",
   "odesli": {
     "amazonMusic": "B00UDDTRCG",
     "amazonStore": "B00UDDTRCG",
@@ -34,7 +34,19 @@
       "soft rock"
     ],
     "trackMbid": "dbe310b1-db36-4db9-bcfc-e35e84e2925f",
-    "artistMbid": "165e2705-abf7-4f1b-8971-4ceed8769c4d"
+    "artistMbid": "165e2705-abf7-4f1b-8971-4ceed8769c4d",
+    "releasedAt": "1976",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000026227",
+      "discogs": "180927",
+      "spotify": "5rIqOJspxDq89aBBCUda1X",
+      "deezer": "12818",
+      "lastfm": "Smokie",
+      "rateyourmusic": "smokie",
+      "wikidata": "Q815849",
+      "youtube": "UCSB4HDDIK0yiWiCYJEpEDQg"
+    }
   },
   "lastfm": {
     "id": "Smokie/_/Living+Next+Door+to+Alice",

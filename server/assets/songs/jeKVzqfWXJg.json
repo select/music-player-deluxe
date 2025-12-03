@@ -2,7 +2,7 @@
   "youtubeId": "jeKVzqfWXJg",
   "title": "Bul Bul Bul",
   "artist": "Kit Sebastian",
-  "lastFetched": "2025-11-30T22:08:24.534Z",
+  "lastFetched": "2025-12-02T01:43:29.599Z",
   "odesli": {
     "amazonMusic": "B0DFWPPRG1",
     "amazonStore": "B0DFWPPRG1",
@@ -45,6 +45,15 @@
       "jazz",
       "pop",
       "psychedelic"
-    ]
+    ],
+    "releasedAt": "2024-09-27",
+    "externalIdsArtist": {
+      "bandcamp": "https://kitsebastian.bandcamp.com/",
+      "discogs": "7190017",
+      "spotify": "5GSILaXo4yN4umwJK8eBBY",
+      "deezer": "12151254",
+      "soundcloud": "https://soundcloud.com/kitsebastian",
+      "youtube": "UCvwYBkowzJXpKjwDlaoSfJQ"
+    }
   }
 }

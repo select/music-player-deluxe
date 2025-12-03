@@ -2,7 +2,7 @@
   "youtubeId": "tPYhpIN5cww",
   "title": "Love Split With Blood",
   "artist": "Dog Faced Hermans",
-  "lastFetched": "2025-11-30T22:27:08.266Z",
+  "lastFetched": "2025-12-02T01:59:04.197Z",
   "odesli": {
     "amazonMusic": "B09TTWQVYS",
     "amazonStore": "B09TTWQVYS",
@@ -43,6 +43,19 @@
       "experimental rock",
       "noise rock",
       "post-punk"
-    ]
+    ],
+    "releasedAt": "1993",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000794391",
+      "bandcamp": "https://dogfacedhermans.bandcamp.com/",
+      "discogs": "304715",
+      "spotify": "3dP1h4150iwrDTqryQ5ybE",
+      "deezer": "5364183",
+      "genius": "Dog-faced-hermans",
+      "rateyourmusic": "dog_faced_hermans",
+      "wikidata": "Q5288181",
+      "youtube": "UCGYoY1cOEJpQW0BnWR1BhYQ"
+    }
   }
 }

@@ -4,7 +4,7 @@
   "album": "Night",
   "duration": 371,
   "youtubeId": "c-2gP-1pejs",
-  "lastFetched": "2025-11-19T05:08:15.875Z",
+  "lastFetched": "2025-12-02T01:32:31.463Z",
   "musicbrainz": {
     "tags": [
       "bass",
@@ -14,7 +14,19 @@
       "grime"
     ],
     "trackMbid": "75ae926e-49fa-4fbe-81a1-f8065c037a94",
-    "artistMbid": "d3ba1c50-d403-40df-8eac-80d74551a7e3"
+    "artistMbid": "d3ba1c50-d403-40df-8eac-80d74551a7e3",
+    "releasedAt": "2007",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000563928",
+      "discogs": "66136",
+      "spotify": "6lyYDuLxgcxPLH5RjUPH5p",
+      "deezer": "300357",
+      "lastfm": "Benga",
+      "rateyourmusic": "benga",
+      "soundcloud": "https://soundcloud.com/iambenga",
+      "wikidata": "Q524665"
+    }
   },
   "lastfm": {
     "id": "Benga/_/Night",

@@ -2,7 +2,7 @@
   "youtubeId": "lsPrINajncU",
   "title": "Nuclear War",
   "artist": "Sun Ra",
-  "lastFetched": "2025-11-23T16:48:23.673Z",
+  "lastFetched": "2025-12-02T01:46:56.867Z",
   "odesli": {
     "amazonMusic": "B0C9NGKH4R",
     "amazonStore": "B0C9NGKH4R",
@@ -36,7 +36,20 @@
       "hard bop"
     ],
     "trackMbid": "13864215-e117-4539-bd19-223d12890fc3",
-    "artistMbid": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d"
+    "artistMbid": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000924232",
+      "bandcamp": "https://sunramusic.bandcamp.com/",
+      "discogs": "35328",
+      "spotify": "0tIODqvzGUoEaK26rK4pvX",
+      "deezer": "9317",
+      "lastfm": "Sun%20Ra",
+      "rateyourmusic": "sun_ra",
+      "soundcloud": "https://soundcloud.com/heunaevivalostrautrockrchestra",
+      "wikidata": "Q354508",
+      "youtube": "UCJ6vuDnto1QvRr2TFHldDMw"
+    }
   },
   "lastfm": {
     "id": "Sun+Ra/_/Nuclear+War",

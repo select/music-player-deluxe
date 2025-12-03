@@ -2,7 +2,7 @@
   "youtubeId": "o6vptqMYk3g",
   "title": "Remembering",
   "artist": "Avishai Cohen",
-  "lastFetched": "2025-12-01T12:55:35.476Z",
+  "lastFetched": "2025-12-02T01:50:27.459Z",
   "odesli": {
     "amazonMusic": "B0766GJSL8",
     "amazonStore": "B0766GJSL8",
@@ -41,6 +41,15 @@
     "artistGenres": [
       "jazz",
       "post-bop"
-    ]
+    ],
+    "releasedAt": "2005-02-22",
+    "artistCountry": "IL",
+    "externalIdsArtist": {
+      "allmusic": "mn0000071908",
+      "discogs": "304734",
+      "spotify": "5P0713TH0hfITBogErNmgp",
+      "deezer": "16229",
+      "wikidata": "Q388320"
+    }
   }
 }

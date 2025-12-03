@@ -2,7 +2,7 @@
   "youtubeId": "xAZMu-qKLxE",
   "title": "DOGGY",
   "artist": "Katja Krasavice",
-  "lastFetched": "2025-11-30T20:34:30.380Z",
+  "lastFetched": "2025-12-02T02:04:07.734Z",
   "odesli": {
     "amazonMusic": "B0777T5GNW",
     "amazonStore": "B0777T5GNW",
@@ -41,6 +41,20 @@
       "electropop",
       "hip hop",
       "pop rap"
-    ]
+    ],
+    "releasedAt": "2017-11-24",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0003785702",
+      "discogs": "6224046",
+      "spotify": "0lFLP59V4TY3XgnrkFIwxK",
+      "deezer": "13606033",
+      "lastfm": "Katja+Krasavice",
+      "genius": "Katja-krasavice",
+      "rateyourmusic": "katja-krasavice",
+      "soundcloud": "https://soundcloud.com/katjakrasavice-music",
+      "wikidata": "Q44305762",
+      "youtube": "UCxSjjIIotkeJVaNFz4NrBFQ"
+    }
   }
 }

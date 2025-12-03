@@ -2,7 +2,7 @@
   "youtubeId": "WAXnqjUfal4",
   "title": "Beetlebum",
   "artist": "Blur",
-  "lastFetched": "2025-12-01T12:53:43.175Z",
+  "lastFetched": "2025-12-02T01:22:02.936Z",
   "odesli": {
     "amazonMusic": "B008IMVJVG",
     "amazonStore": "B008IMVJVG",
@@ -54,6 +54,20 @@
       "post-grunge",
       "shoegaze",
       "slacker rock"
-    ]
+    ],
+    "releasedAt": "1997-11-04",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000758444",
+      "discogs": "7551",
+      "spotify": "7MhMgCo0Bl0Kukl93PZbYS",
+      "deezer": "743",
+      "lastfm": "Blur",
+      "genius": "Blur",
+      "rateyourmusic": "blur",
+      "soundcloud": "https://soundcloud.com/blurofficial",
+      "wikidata": "Q485820",
+      "youtube": "UCLWtClAPLK7uy8us5jxvrMA"
+    }
   }
 }

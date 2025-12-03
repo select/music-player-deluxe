@@ -2,7 +2,7 @@
   "youtubeId": "zANwppmnO-Q",
   "title": "Crazy Talk",
   "artist": "5K HD",
-  "lastFetched": "2025-12-01T12:52:51.724Z",
+  "lastFetched": "2025-12-02T02:07:38.364Z",
   "odesli": {
     "amazonMusic": "B0B36RJF6X",
     "amazonStore": "B0B36RJF6X",
@@ -32,6 +32,11 @@
   "musicbrainz": {
     "trackMbid": "4bd9196e-bc1f-4dcc-b47c-482a6d1640a3",
     "artistMbid": "51840e23-72a6-4731-ad0e-6b177bc45030",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2021-09-10",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "discogs": "5983225"
+    }
   }
 }

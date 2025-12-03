@@ -2,7 +2,7 @@
   "youtubeId": "eCjXOKL6FKo",
   "title": "El Baile del Kkoyaruna",
   "artist": "Pascuala Ilabaca y Fauna",
-  "lastFetched": "2025-11-30T22:08:10.443Z",
+  "lastFetched": "2025-12-02T01:35:54.226Z",
   "lastfm": {
     "id": "Pascuala+Ilabaca+y+Fauna/_/El+Baile+del+Kkoyaruna",
     "listeners": 2244,
@@ -25,6 +25,13 @@
     "artistGenres": [
       "folk",
       "latin"
-    ]
+    ],
+    "releasedAt": "2018",
+    "artistCountry": "CL",
+    "externalIdsArtist": {
+      "discogs": "4098903",
+      "rateyourmusic": "pascuala_ilabaca",
+      "wikidata": "Q106667548"
+    }
   }
 }

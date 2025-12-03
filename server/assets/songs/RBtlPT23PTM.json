@@ -1,0 +1,71 @@
+{
+  "youtubeId": "RBtlPT23PTM",
+  "title": "Space Song",
+  "artist": "Beach House",
+  "lastFetched": "2025-12-03T11:40:25.238Z",
+  "odesli": {
+    "amazonMusic": "B00YDEUITC",
+    "amazonStore": "B00YDEUITC",
+    "audius": "Kzrxw",
+    "anghami": "69937102",
+    "boomplay": "5430198",
+    "appleMusic": "997914096",
+    "itunes": "997914096",
+    "soundcloud": "beachhouse/space-song",
+    "spotify": "7H0ya83CMmgFcOhw0UB6ow",
+    "tidal": "50163466",
+    "yandex": "46174604",
+    "youtube": "RBtlPT23PTM",
+    "youtubeMusic": "RBtlPT23PTM"
+  },
+  "lastfm": {
+    "summary": "\"Space Song\" is a song of reassurance and connection - a reminder that there is hope to be found in even the darkest moments and that love and support can be found to bring you back to a sense of peace, comfort and unity. Despite the pain and uncertainty of life, the song recognizes the importance of companionship and of finding a space, physically or metaphorically, to support one another. The chorus \"Fall back into place\" is a call to not give up, but to search for connection, understanding and solace even in uncertain times. <a href=\"http://www.last.fm/music/Beach+House/_/Space+Song\">Read more on Last.fm</a>.",
+    "id": "Beach+House/_/Space+Song",
+    "listeners": 1930264,
+    "playcount": 31331107,
+    "tags": [
+      "dream pop",
+      "indie pop",
+      "indie",
+      "Neo-Psychedelia",
+      "ethereal wave"
+    ],
+    "title": "Space Song",
+    "artist": "Beach House",
+    "mbid": "2a5eaabf-8c46-4b1e-b450-89d18b071f2d",
+    "artistMbid": "d5cc67b8-1cc4-453b-96e8-44487acdebea"
+  },
+  "musicbrainz": {
+    "trackMbid": "5a8f7959-6906-4672-ac64-f994e98976ae",
+    "artistMbid": "d5cc67b8-1cc4-453b-96e8-44487acdebea",
+    "releaseCount": 12,
+    "genres": [
+      "indie pop",
+      "indie rock"
+    ],
+    "artistGenres": [
+      "dream pop",
+      "indie pop",
+      "shoegaze",
+      "slowcore"
+    ],
+    "releasedAt": "2015-08-18",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "1ZgMsA55GIY7ICkQh5MILA"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000998969",
+      "bandcamp": "https://beachhouse.bandcamp.com/",
+      "discogs": "592308",
+      "spotify": "56ZTgzPBDge0OvCGgMO3OY",
+      "deezer": "75055",
+      "lastfm": "Beach+House",
+      "genius": "Beach-house",
+      "rateyourmusic": "beach_house",
+      "soundcloud": "https://soundcloud.com/beachhouse",
+      "wikidata": "Q812842",
+      "youtube": "UCN-jxm11fOETNF5JrZsATCg"
+    }
+  }
+}

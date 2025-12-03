@@ -1,7 +1,7 @@
 {
   "youtubeId": "rLtZKkCIVmI",
   "title": "Tom Waits - \"Downtown Train\"",
-  "lastFetched": "2025-12-01T13:03:02.705Z",
+  "lastFetched": "2025-12-02T01:55:43.905Z",
   "ai": {
     "title": "Downtown Train",
     "artist": "Tom Waits"
@@ -51,6 +51,19 @@
       "piano blues",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "1985",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000615119",
+      "bandcamp": "https://tomwaits.bandcamp.com/",
+      "discogs": "82294",
+      "spotify": "7x83XhcMbOTl1UdYsPTuZM",
+      "deezer": "1128",
+      "lastfm": "Tom+Waits",
+      "genius": "Tom-waits",
+      "rateyourmusic": "tom_waits",
+      "wikidata": "Q184805"
+    }
   }
 }

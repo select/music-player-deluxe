@@ -3,7 +3,7 @@
   "artist": "Dom Valentino",
   "duration": 249,
   "youtubeId": "kVanxNR5bv8",
-  "lastFetched": "2025-11-19T03:36:41.092Z",
+  "lastFetched": "2025-12-02T01:44:59.292Z",
   "odesli": {
     "amazonMusic": "B0CKWV9DLG",
     "amazonStore": "B0CKWV9DLG",
@@ -30,6 +30,7 @@
   "musicbrainz": {
     "trackMbid": "9db5b4c8-19de-4e83-ba72-57068e4f42ea",
     "artistMbid": "a2da4953-03fd-4c3a-9ed1-f09c0bbb5609",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-10-27"
   }
 }

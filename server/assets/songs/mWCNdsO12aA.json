@@ -2,7 +2,7 @@
   "youtubeId": "mWCNdsO12aA",
   "title": "echt von unten / zoé freestyle",
   "artist": "Casper",
-  "lastFetched": "2025-11-23T16:48:47.811Z",
+  "lastFetched": "2025-12-02T01:47:58.021Z",
   "odesli": {
     "amazonMusic": "B0CGY6H597",
     "amazonStore": "B0CGY6H597",
@@ -33,7 +33,18 @@
       "pop rap"
     ],
     "trackMbid": "4db7af3e-d5ec-4834-8066-8037b357d8ad",
-    "artistMbid": "fd3ff7a2-e1d2-4486-9d25-cb9d69fa084c"
+    "artistMbid": "fd3ff7a2-e1d2-4486-9d25-cb9d69fa084c",
+    "releasedAt": "2023-09-08",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002105335",
+      "discogs": "958624",
+      "spotify": "6ZzHf4XhWBJ7c4JGYosDAi",
+      "deezer": "396351",
+      "lastfm": "Casper",
+      "rateyourmusic": "casper_f1",
+      "wikidata": "Q324686"
+    }
   },
   "lastfm": {
     "id": "Casper/_/echt+von+unten+%2F+zo%C3%A9+freestyle",

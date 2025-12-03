@@ -4,7 +4,7 @@
   "album": "The Watchline",
   "duration": 419,
   "youtubeId": "Uk-2wA-Il_c",
-  "lastFetched": "2025-11-23T16:40:31.955Z",
+  "lastFetched": "2025-12-02T01:20:12.776Z",
   "odesli": {
     "amazonMusic": "B0FD18ZDPF",
     "amazonStore": "B0FD18ZDPF",
@@ -32,7 +32,19 @@
       "techno"
     ],
     "trackMbid": "081d7b03-24e2-4dc5-aaf1-92c227a83c21",
-    "artistMbid": "bda6d00e-f8f7-43a5-b8f8-f1ebc55b46d3"
+    "artistMbid": "bda6d00e-f8f7-43a5-b8f8-f1ebc55b46d3",
+    "releasedAt": "2025-09-05",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000229686",
+      "bandcamp": "https://johntejada.bandcamp.com/",
+      "discogs": "62",
+      "spotify": "2JWmMcE8Z0vapxOIiT7PLq",
+      "deezer": "5991",
+      "lastfm": "John+Tejada",
+      "rateyourmusic": "john_tejada",
+      "wikidata": "Q85028"
+    }
   },
   "lastfm": {
     "id": "John+Tejada/_/Until+the+End+of+the+World",

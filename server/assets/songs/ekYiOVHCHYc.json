@@ -2,7 +2,7 @@
   "youtubeId": "ekYiOVHCHYc",
   "title": "Haschisch rauchen macht harmlos",
   "artist": "Joint Venture",
-  "lastFetched": "2025-11-23T16:45:21.095Z",
+  "lastFetched": "2025-12-02T01:36:33.194Z",
   "odesli": {
     "amazonMusic": "B019H70858",
     "amazonStore": "B019H70858",
@@ -29,7 +29,13 @@
       "singer-songwriter"
     ],
     "trackMbid": "2219e28f-8ab9-4807-ba0d-deeb14cd6533",
-    "artistMbid": "15b8992f-4971-404e-afab-2fe8cbcbd61a"
+    "artistMbid": "15b8992f-4971-404e-afab-2fe8cbcbd61a",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "269806",
+      "lastfm": "Joint+Venture",
+      "wikidata": "Q1702554"
+    }
   },
   "lastfm": {
     "id": "Joint+Venture/_/Haschisch+rauchen+macht+harmlos",

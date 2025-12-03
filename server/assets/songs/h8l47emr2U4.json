@@ -3,7 +3,7 @@
   "artist": "The Beach Boys",
   "duration": 220,
   "youtubeId": "h8l47emr2U4",
-  "lastFetched": "2025-11-19T03:52:28.744Z",
+  "lastFetched": "2025-12-02T01:39:42.787Z",
   "odesli": {
     "soundcloud": "251819972",
     "spotify": "3WXnctgyr4doLQDEpg3XPK",
@@ -28,7 +28,21 @@
     ],
     "trackMbid": "59e61413-8889-4375-9e2d-edef3d056598",
     "artistMbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
-    "releaseCount": 8
+    "releaseCount": 8,
+    "releasedAt": "1968-06-10",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000041874",
+      "discogs": "70829",
+      "spotify": "3oDbviiivRWhXwIE8hxkVV",
+      "deezer": "2179",
+      "lastfm": "The+Beach+Boys",
+      "genius": "The-beach-boys",
+      "rateyourmusic": "the_beach_boys",
+      "napster": "the-beach-boys",
+      "wikidata": "Q183048",
+      "youtube": "UCrnD8aXhy4oQMS0ITw471tA"
+    }
   },
   "lastfm": {
     "id": "The+Beach+Boys/_/Diamond+Head+-+Remastered+2001",

@@ -2,13 +2,26 @@
   "youtubeId": "kT8cX2-_7pQ",
   "title": "Danny Don't You Know",
   "artist": "Ninja Sex Party",
-  "lastFetched": "2025-11-23T16:47:43.045Z",
+  "lastFetched": "2025-12-02T01:44:55.244Z",
   "musicbrainz": {
     "artistTags": [
       "silly name"
     ],
     "trackMbid": "203eb792-3dff-4c8a-ba91-a6c7b5860e88",
-    "artistMbid": "5b2cc0d6-9075-4fc8-a88e-61d1a22199f5"
+    "artistMbid": "5b2cc0d6-9075-4fc8-a88e-61d1a22199f5",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003396793",
+      "bandcamp": "https://ninjasexparty.bandcamp.com/",
+      "discogs": "3664845",
+      "spotify": "3jsyANBBy6gOZUSQhiGclx",
+      "deezer": "1415091",
+      "lastfm": "Ninja%20Sex%20Party",
+      "genius": "Ninja-sex-party",
+      "rateyourmusic": "ninja-sex-party",
+      "soundcloud": "https://soundcloud.com/ninjasexparty",
+      "wikidata": "Q7038942"
+    }
   },
   "lastfm": {
     "id": "Ninja+Sex+Party/_/Danny+Don%27t+You+Know",

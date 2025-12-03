@@ -1,7 +1,7 @@
 {
   "youtubeId": "wbJxWaE5NM0",
   "title": "Larkin Poe - When God Closes A Door",
-  "lastFetched": "2025-12-01T11:48:17.510Z",
+  "lastFetched": "2025-12-02T02:03:26.422Z",
   "ai": {
     "title": "When God Closes A Door",
     "artist": "Larkin Poe"
@@ -35,6 +35,18 @@
       "blues rock",
       "folk rock",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2016-04-15",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002567975",
+      "discogs": "2487986",
+      "spotify": "7d10VF1J4LqW7vrpPOngzm",
+      "deezer": "389902",
+      "lastfm": "Larkin%20Poe",
+      "rateyourmusic": "larkin_poe",
+      "wikidata": "Q3217956",
+      "youtube": "UC0zpwL3KETxmQPkXYs-grAw"
+    }
   }
 }

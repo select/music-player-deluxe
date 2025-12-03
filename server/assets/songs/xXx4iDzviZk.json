@@ -2,7 +2,7 @@
   "youtubeId": "xXx4iDzviZk",
   "title": "Reggins",
   "artist": "The Blackbyrds",
-  "lastFetched": "2025-11-30T22:44:50.322Z",
+  "lastFetched": "2025-12-02T02:04:49.060Z",
   "lastfm": {
     "title": "Reggins",
     "artist": "The Blackbyrds",
@@ -32,6 +32,16 @@
       "contemporary jazz",
       "jazz fusion",
       "jazz-funk"
-    ]
+    ],
+    "releasedAt": "1974-06-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000049367",
+      "discogs": "30725",
+      "spotify": "7uykqYYhDUugFJgKZWXIWq",
+      "deezer": "6887",
+      "rateyourmusic": "the_blackbyrds",
+      "wikidata": "Q7718487"
+    }
   }
 }

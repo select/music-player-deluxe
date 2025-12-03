@@ -2,7 +2,7 @@
   "youtubeId": "lFJMXpBO11I",
   "title": "Viento Borrascoso",
   "artist": "Tourniquet",
-  "lastFetched": "2025-11-23T16:48:06.879Z",
+  "lastFetched": "2025-12-02T01:45:46.327Z",
   "odesli": {
     "amazonMusic": "B00H3X7BR2",
     "amazonStore": "B00H3X7BR2",
@@ -30,7 +30,17 @@
       "thrash metal"
     ],
     "trackMbid": "1801bf3f-5eba-3cb7-834d-a35b0b31cab8",
-    "artistMbid": "0770a42f-10e3-4204-8459-0c6fba885852"
+    "artistMbid": "0770a42f-10e3-4204-8459-0c6fba885852",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000009966",
+      "bandcamp": "https://tourniquet.bandcamp.com/",
+      "discogs": "447041",
+      "lastfm": "Tourniquet",
+      "rateyourmusic": "tourniquet",
+      "wikidata": "Q2141857",
+      "wikipedia": "Tourniquet_(band)"
+    }
   },
   "lastfm": {
     "id": "Tourniquet/_/Viento+Borrascoso",

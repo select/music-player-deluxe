@@ -1,7 +1,7 @@
 {
   "youtubeId": "Y7L60KrhBKA",
   "title": "Porcupine Tree - Trains: 40 YouTube Artists Mix",
-  "lastFetched": "2025-11-30T20:27:04.573Z",
+  "lastFetched": "2025-12-02T01:25:27.535Z",
   "ai": {
     "title": "Trains",
     "artist": "Porcupine Tree"
@@ -39,6 +39,25 @@
       "psychedelic rock",
       "rock",
       "space rock"
-    ]
+    ],
+    "releasedAt": "2002-09-24",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "7HK4RUHg3xmihjjjkO1Pse"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000854203",
+      "bandcamp": "https://porcupinetreeofficial.bandcamp.com/",
+      "discogs": "5105",
+      "spotify": "5NXHXK6hOCotCF8lvGM1I0",
+      "deezer": "4069",
+      "lastfm": "Porcupine+Tree",
+      "genius": "Porcupine-tree",
+      "rateyourmusic": "porcupine-tree",
+      "soundcloud": "https://soundcloud.com/porcupine-tree-official",
+      "napster": "porcupine-tree",
+      "wikidata": "Q213923",
+      "youtube": "UCc3TEf15ldupda3ifbVzNMA"
+    }
   }
 }

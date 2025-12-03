@@ -2,7 +2,7 @@
   "youtubeId": "s_nc1IVoMxc",
   "title": "Hi Ren",
   "artist": "Ren",
-  "lastFetched": "2025-11-19T11:06:24.801Z",
+  "lastFetched": "2025-12-02T01:57:41.854Z",
   "odesli": {
     "amazonMusic": "B0CDPR887R",
     "amazonStore": "B0CDPR887R",
@@ -34,6 +34,7 @@
   },
   "musicbrainz": {
     "trackMbid": "07ad5d8e-675e-4eff-beae-b0cd8cbbcb1a",
-    "artistMbid": "fdeeac94-2d89-4bb2-a6f3-9e72dc142b68"
+    "artistMbid": "fdeeac94-2d89-4bb2-a6f3-9e72dc142b68",
+    "releasedAt": "2022-12-15"
   }
 }

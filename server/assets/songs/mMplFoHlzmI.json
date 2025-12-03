@@ -2,7 +2,7 @@
   "youtubeId": "mMplFoHlzmI",
   "title": "La fleur",
   "artist": "M",
-  "lastFetched": "2025-11-23T16:48:42.879Z",
+  "lastFetched": "2025-12-02T01:47:43.855Z",
   "musicbrainz": {
     "artistTags": [
       "70s",
@@ -22,7 +22,17 @@
       "pop"
     ],
     "trackMbid": "8521a7fb-dcfc-49a6-9fee-1958c8917235",
-    "artistMbid": "4a9ee375-8d75-41f5-b315-a94293a2a07d"
+    "artistMbid": "4a9ee375-8d75-41f5-b315-a94293a2a07d",
+    "releasedAt": "1997-04-25",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000207876",
+      "discogs": "47014",
+      "spotify": "4ZYjW9vY2BTk1er3xomkwI",
+      "deezer": "64311562",
+      "rateyourmusic": "m",
+      "wikidata": "Q4387178"
+    }
   },
   "lastfm": {
     "id": "M/_/La+fleur",

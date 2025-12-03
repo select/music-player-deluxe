@@ -2,7 +2,7 @@
   "youtubeId": "cIwDLN2X6Rs",
   "title": "Skylab",
   "artist": "Electronic System",
-  "lastFetched": "2025-11-19T07:08:54.686Z",
+  "lastFetched": "2025-12-02T01:33:12.639Z",
   "odesli": {
     "anghami": "1101817462",
     "boomplay": "17525241",
@@ -24,6 +24,12 @@
   },
   "musicbrainz": {
     "trackMbid": "6924d31f-00d9-457d-871f-34bec8e8050e",
-    "artistMbid": "c8a0ebb6-76b3-43df-ac2f-9a7a0cef624e"
+    "artistMbid": "c8a0ebb6-76b3-43df-ac2f-9a7a0cef624e",
+    "artistCountry": "BE",
+    "externalIdsArtist": {
+      "discogs": "185434",
+      "spotify": "7JroJhEaKyYsWkn0tdyjtR",
+      "deezer": "201857"
+    }
   }
 }

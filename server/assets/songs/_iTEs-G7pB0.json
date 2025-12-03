@@ -2,7 +2,7 @@
   "youtubeId": "_iTEs-G7pB0",
   "title": "El muerto vivo",
   "artist": "Peret",
-  "lastFetched": "2025-11-30T23:35:30.880Z",
+  "lastFetched": "2025-12-02T01:29:28.584Z",
   "odesli": {
     "amazonMusic": "B01M1HOC5L",
     "amazonStore": "B01M1HOC5L",
@@ -29,6 +29,17 @@
   "musicbrainz": {
     "artistMbid": "796481a3-2977-45b6-84b3-eb06bb10a903",
     "trackMbid": "bd0bf8d8-3e82-44b4-9dd7-7c925469d432",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2000",
+    "artistCountry": "ES",
+    "externalIdsArtist": {
+      "allmusic": "mn0000307642",
+      "discogs": "283852",
+      "spotify": "2bhNZ8x8k2VfVhNRKESlcj",
+      "deezer": "14540",
+      "genius": "Peret",
+      "rateyourmusic": "peret",
+      "wikidata": "Q1388730"
+    }
   }
 }

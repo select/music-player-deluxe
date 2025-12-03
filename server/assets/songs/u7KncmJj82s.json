@@ -3,7 +3,7 @@
   "artist": "Snoop Dogg",
   "duration": 375,
   "youtubeId": "u7KncmJj82s",
-  "lastFetched": "2025-11-19T04:16:52.357Z",
+  "lastFetched": "2025-12-02T02:00:06.170Z",
   "musicbrainz": {
     "tags": [
       "chill",
@@ -24,7 +24,22 @@
     ],
     "trackMbid": "0387dc34-6a1d-401e-818e-639ebdb12eed",
     "artistMbid": "f90e8b26-9e52-4669-a5c9-e28529c47894",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2004",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000029086",
+      "discogs": "4400358",
+      "spotify": "7hJcb9fa4alzcOq3EaNPoG",
+      "deezer": "3",
+      "lastfm": "Snoop+Dogg",
+      "genius": "Snoop-dogg",
+      "rateyourmusic": "snoop-dogg",
+      "soundcloud": "https://soundcloud.com/snoopdogg",
+      "napster": "snoop-dogg",
+      "wikidata": "Q6096",
+      "youtube": "UC7xz_YipuZtypOuVALNzeog"
+    }
   },
   "lastfm": {
     "id": "Snoop+Dogg/_/Riders+on+the+Storm+(Fredwreck+Remix)",

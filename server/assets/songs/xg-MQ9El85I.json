@@ -3,7 +3,7 @@
   "artist": "Nabihah Iqbal",
   "duration": 402,
   "youtubeId": "xg-MQ9El85I",
-  "lastFetched": "2025-11-19T04:24:00.803Z",
+  "lastFetched": "2025-12-02T02:04:59.855Z",
   "odesli": {
     "amazonMusic": "B0BX7F4GHZ",
     "amazonStore": "B0BX7F4GHZ",
@@ -22,7 +22,17 @@
     ],
     "trackMbid": "f6bfe34f-c192-4d07-b25b-4e6c844ee661",
     "artistMbid": "28a7d9a8-36c0-4bdd-ae4d-abcfb76f5a18",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2023-04-28",
+    "externalIdsArtist": {
+      "allmusic": "mn0003479454",
+      "bandcamp": "https://nabihahiqbal.bandcamp.com/",
+      "discogs": "5102492",
+      "spotify": "7pPOvwCq4bb2iObs8twDir",
+      "rateyourmusic": "nabihah-iqbal",
+      "soundcloud": "https://soundcloud.com/nabihahiqbal",
+      "wikidata": "Q50309785"
+    }
   },
   "lastfm": {
     "id": "Nabihah+Iqbal/_/In+Light",

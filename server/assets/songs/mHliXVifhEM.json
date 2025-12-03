@@ -2,7 +2,7 @@
   "youtubeId": "mHliXVifhEM",
   "title": "Doctor Worm",
   "artist": "They Might Be Giants",
-  "lastFetched": "2025-11-30T21:49:19.998Z",
+  "lastFetched": "2025-12-02T01:47:41.366Z",
   "odesli": {
     "amazonMusic": "B00DZLN922",
     "amazonStore": "B00DZLN922",
@@ -45,6 +45,24 @@
       "pop rock",
       "power pop",
       "rock"
-    ]
+    ],
+    "releasedAt": "2024-05-23",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "7K0D56sAxgcx9syXFOzylN"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000493327",
+      "bandcamp": "https://tmbg.bandcamp.com/",
+      "discogs": "159350",
+      "spotify": "6zB02lwP6L6ZH32nggQiJT",
+      "deezer": "417",
+      "lastfm": "They+Might+Be+Giants",
+      "genius": "They-might-be-giants",
+      "rateyourmusic": "they_might_be_giants",
+      "soundcloud": "https://soundcloud.com/they-might-be-giants",
+      "napster": "they-might-be-giants",
+      "wikidata": "Q420880"
+    }
   }
 }

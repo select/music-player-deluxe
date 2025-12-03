@@ -2,7 +2,7 @@
   "youtubeId": "x-ceNesk0PU",
   "title": "Western Jam",
   "artist": "Metrik",
-  "lastFetched": "2025-11-30T19:36:07.411Z",
+  "lastFetched": "2025-12-02T02:03:50.531Z",
   "odesli": {
     "amazonMusic": "B0C3WLS3DK",
     "amazonStore": "B0C3WLS3DK",
@@ -35,6 +35,21 @@
       "dancefloor drum and bass",
       "drum and bass",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2016-10-07",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "4Z27RFzLE1Zzjd8OwIM8tc"
+    },
+    "externalIdsArtist": {
+      "bandcamp": "https://metrikmusic.bandcamp.com/",
+      "discogs": "770381",
+      "spotify": "2NCEtX40i9lLNpTg2X5583",
+      "deezer": "469495",
+      "lastfm": "Metrik",
+      "soundcloud": "https://soundcloud.com/metrik",
+      "wikidata": "Q13427115",
+      "youtube": "UC3GpUBcrmY846NVSUB0aUjg"
+    }
   }
 }

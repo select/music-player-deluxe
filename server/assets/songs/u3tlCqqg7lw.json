@@ -1,0 +1,48 @@
+{
+  "youtubeId": "u3tlCqqg7lw",
+  "title": "I'm a Train",
+  "artist": "Albert Hammond",
+  "lastFetched": "2025-12-03T11:38:02.183Z",
+  "odesli": {
+    "amazonMusic": "B0DLLV4RQ2",
+    "amazonStore": "B0DLLV4RQ2",
+    "soundcloud": "albert-hammond/im-a-train-1",
+    "tidal": "382847355",
+    "youtube": "u3tlCqqg7lw",
+    "youtubeMusic": "u3tlCqqg7lw"
+  },
+  "lastfm": {
+    "id": "Albert+Hammond/_/I%27m+A+Train",
+    "listeners": 22875,
+    "playcount": 87478,
+    "title": "I'm A Train",
+    "artist": "Albert Hammond",
+    "mbid": "d0ba1845-79df-42de-bdc1-ea331d20458f",
+    "artistMbid": "364f3cef-442b-4182-ae78-4e7e79683c24",
+    "tags": [
+      "70s",
+      "pop",
+      "oldies",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d0ba1845-79df-42de-bdc1-ea331d20458f",
+    "artistMbid": "364f3cef-442b-4182-ae78-4e7e79683c24",
+    "releaseCount": 1,
+    "artistGenres": [
+      "pop rock",
+      "soft rock"
+    ],
+    "releasedAt": "1997",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000933781",
+      "discogs": "252786",
+      "spotify": "34E3csCxpXunPGEkOVVX2g",
+      "deezer": "73982",
+      "rateyourmusic": "albert_hammond",
+      "wikidata": "Q451075"
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "youtubeId": "xywNeumntoE",
   "title": "Happy - Pharrell Williams (on 10 Different Musical Instruments Cover) (ft. Gunhild Carling)",
-  "lastFetched": "2025-12-01T11:48:24.807Z",
+  "lastFetched": "2025-12-02T02:05:23.592Z",
   "ai": {
     "title": "Happy",
     "artist": "Pharrell Williams"
@@ -41,6 +41,21 @@
       "pop rap",
       "pop soul",
       "soul"
-    ]
+    ],
+    "releasedAt": "2013-06-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000275757",
+      "discogs": "90037",
+      "spotify": "2RdwBSPQiwcmiDo9kixcl8",
+      "deezer": "103",
+      "lastfm": "Pharrell+Williams",
+      "genius": "Pharrell-williams",
+      "rateyourmusic": "pharrell",
+      "soundcloud": "https://soundcloud.com/pharrell-williams-official",
+      "napster": "pharrell-williams",
+      "wikidata": "Q14313",
+      "youtube": "UCJw8VyO6e3v6S0327AsgwcQ"
+    }
   }
 }

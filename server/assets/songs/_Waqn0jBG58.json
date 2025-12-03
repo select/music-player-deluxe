@@ -2,7 +2,7 @@
   "youtubeId": "_Waqn0jBG58",
   "title": "Machine Gun (16bit Remix)",
   "artist": "Noisia",
-  "lastFetched": "2025-11-23T16:42:44.768Z",
+  "lastFetched": "2025-12-02T01:29:12.140Z",
   "odesli": {
     "amazonMusic": "B00DWYBX3Y",
     "amazonStore": "B00DWYBX3Y",
@@ -32,7 +32,21 @@
       "electronic"
     ],
     "trackMbid": "090f9558-3ad8-33bf-b210-30cc081c3b97",
-    "artistMbid": "ec22a32b-acab-432e-a88c-ffe6ae68fa16"
+    "artistMbid": "ec22a32b-acab-432e-a88c-ffe6ae68fa16",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "allmusic": "mn0000450398",
+      "bandcamp": "https://noisia.bandcamp.com/",
+      "discogs": "100457",
+      "spotify": "4YWj8sohRDjL9deiuRvEEY",
+      "deezer": "6455",
+      "lastfm": "Noisia",
+      "genius": "Noisia",
+      "rateyourmusic": "noisia",
+      "soundcloud": "https://soundcloud.com/noisia",
+      "wikidata": "Q47227",
+      "youtube": "UChCso6519aVIfbcTYAEwB1g"
+    }
   },
   "lastfm": {
     "id": "Noisia/_/Machine+Gun+(16bit+Remix)",

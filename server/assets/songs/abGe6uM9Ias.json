@@ -2,7 +2,7 @@
   "youtubeId": "abGe6uM9Ias",
   "title": "Wonderful Life",
   "artist": "Katie Melua",
-  "lastFetched": "2025-11-30T20:42:05.290Z",
+  "lastFetched": "2025-12-02T01:30:49.335Z",
   "odesli": {
     "amazonMusic": "B0DZWS61P1",
     "amazonStore": "B0DZWS61P1",
@@ -48,6 +48,22 @@
       "jazz",
       "jazz pop",
       "vocal jazz"
-    ]
+    ],
+    "releasedAt": "2014-11-28",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "0cqLFzFYsQurUI3McUZkLg"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000101522",
+      "discogs": "278940",
+      "spotify": "5uCXJWo3WoXgqv3T1RlAbh",
+      "deezer": "218",
+      "lastfm": "Katie+Melua",
+      "genius": "Katie-melua",
+      "rateyourmusic": "katie_melua",
+      "soundcloud": "https://soundcloud.com/katie-melua",
+      "wikidata": "Q156322"
+    }
   }
 }

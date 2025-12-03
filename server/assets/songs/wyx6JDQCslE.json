@@ -2,7 +2,7 @@
   "youtubeId": "wyx6JDQCslE",
   "title": "Sexy and I Know It",
   "artist": "LMFAO",
-  "lastFetched": "2025-11-19T05:49:24.001Z",
+  "lastFetched": "2025-12-02T02:03:46.025Z",
   "odesli": {
     "amazonMusic": "B005636AJQ",
     "amazonStore": "B005636AJQ",
@@ -28,7 +28,18 @@
       "Hip-Hop"
     ],
     "trackMbid": "72a112d8-e0c9-43e3-a339-3abb5d38efa2",
-    "artistMbid": "ed5d9086-e8cd-473a-b96c-d81ad6c98f0d"
+    "artistMbid": "ed5d9086-e8cd-473a-b96c-d81ad6c98f0d",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001029659",
+      "discogs": "1229202",
+      "spotify": "3sgFRtyBnxXD5ESfmbK4dl",
+      "deezer": "167225",
+      "lastfm": "LMFAO",
+      "genius": "Lmfao",
+      "rateyourmusic": "lmfao",
+      "wikidata": "Q48978"
+    }
   },
   "lastfm": {
     "id": "LMFAO/_/Sexy+and+I+Know+It",

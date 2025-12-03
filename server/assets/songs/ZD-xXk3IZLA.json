@@ -2,7 +2,7 @@
   "youtubeId": "ZD-xXk3IZLA",
   "title": "An Tagen wie diesen",
   "artist": "Fettes Brot",
-  "lastFetched": "2025-11-30T21:52:47.400Z",
+  "lastFetched": "2025-12-02T01:27:17.250Z",
   "odesli": {
     "amazonMusic": "B0FRFHWKXF",
     "amazonStore": "B0FRFHWKXF",
@@ -37,6 +37,20 @@
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2005-03-21",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001239555",
+      "discogs": "57160",
+      "spotify": "3RRODs1rHC2ktLqyDDfgPH",
+      "deezer": "4281",
+      "lastfm": "Fettes+Brot",
+      "genius": "Fettes-brot",
+      "rateyourmusic": "fettes-brot",
+      "soundcloud": "https://soundcloud.com/fettes-brot",
+      "wikidata": "Q496214",
+      "youtube": "UCX5VJlyox9Ijv7glam7Xnqw"
+    }
   }
 }

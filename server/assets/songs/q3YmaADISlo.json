@@ -2,7 +2,7 @@
   "youtubeId": "q3YmaADISlo",
   "title": "Little Toy Gun",
   "artist": "honeyhoney",
-  "lastFetched": "2025-11-30T21:31:20.295Z",
+  "lastFetched": "2025-12-02T01:53:42.244Z",
   "odesli": {
     "amazonMusic": "B00B2LSE2W",
     "amazonStore": "B00B2LSE2W",
@@ -37,6 +37,15 @@
     ],
     "artistGenres": [
       "indie folk"
-    ]
+    ],
+    "releasedAt": "2008-02-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001018023",
+      "discogs": "1120525",
+      "lastfm": "honeyhoney",
+      "rateyourmusic": "honeyhoney",
+      "wikidata": "Q16844618"
+    }
   }
 }

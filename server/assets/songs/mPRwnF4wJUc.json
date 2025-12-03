@@ -2,7 +2,7 @@
   "youtubeId": "mPRwnF4wJUc",
   "title": "Funky For You",
   "artist": "Nice & Smooth",
-  "lastFetched": "2025-11-30T22:43:14.334Z",
+  "lastFetched": "2025-12-02T01:47:49.269Z",
   "lastfm": {
     "title": "Funky For You",
     "artist": "Nice & Smooth",
@@ -26,6 +26,16 @@
     ],
     "artistGenres": [
       "hip hop"
-    ]
+    ],
+    "releasedAt": "1989",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000393513",
+      "discogs": "39828",
+      "deezer": "16466",
+      "lastfm": "Nice+&+Smooth",
+      "rateyourmusic": "nice_and_smooth",
+      "wikidata": "Q2790794"
+    }
   }
 }

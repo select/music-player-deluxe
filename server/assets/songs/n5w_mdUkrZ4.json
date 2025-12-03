@@ -2,7 +2,7 @@
   "youtubeId": "n5w_mdUkrZ4",
   "title": "Change",
   "artist": "Linguistics",
-  "lastFetched": "2025-11-30T22:51:25.491Z",
+  "lastFetched": "2025-12-02T01:48:52.177Z",
   "odesli": {
     "amazonMusic": "B09MNFN1F2",
     "amazonStore": "B09MNFN1F2",
@@ -28,6 +28,15 @@
   "musicbrainz": {
     "trackMbid": "ae6a10cf-00ca-4f3c-ae39-fb68467de13c",
     "artistMbid": "8d949c1b-fc65-4434-8d9a-bd0767eb3f87",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2021-07-23",
+    "externalIdsArtist": {
+      "discogs": "3046886",
+      "spotify": "5ez11adLi95kAPuxh0RefJ",
+      "deezer": "647719",
+      "rateyourmusic": "linguistics-1",
+      "soundcloud": "https://soundcloud.com/linguistics",
+      "youtube": "UCsjS1tSXfbznglSm9bh-_Zw"
+    }
   }
 }

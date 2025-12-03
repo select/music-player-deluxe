@@ -2,7 +2,7 @@
   "youtubeId": "kPMRkQK2szI",
   "title": "Fickt-Euch-Allee",
   "artist": "Grossstadtgeflüster",
-  "lastFetched": "2025-11-30T23:24:04.655Z",
+  "lastFetched": "2025-12-02T01:44:39.918Z",
   "odesli": {
     "spotify": "5ZCugQ9WKwcORLAJTK3Fqc",
     "tidal": "84347776",
@@ -21,6 +21,16 @@
   "musicbrainz": {
     "artistMbid": "9958ab5f-a8a5-4670-9ca2-b85e5367248f",
     "trackMbid": "f60e513d-0c7e-4385-b8c8-3f519b2e6418",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2015-11-13",
+    "externalIdsArtist": {
+      "discogs": "749951",
+      "spotify": "03SZv6slUnLnHI3IfwG0gl",
+      "deezer": "80890",
+      "lastfm": "Grossstadtgefl%C3%BCster",
+      "soundcloud": "https://soundcloud.com/grossstadtgefluester",
+      "wikidata": "Q541543",
+      "youtube": "UCSNJbR3O1Xb0juzA52HuDsw"
+    }
   }
 }

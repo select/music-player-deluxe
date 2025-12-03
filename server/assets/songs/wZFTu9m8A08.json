@@ -1,0 +1,52 @@
+{
+  "youtubeId": "wZFTu9m8A08",
+  "title": "Fascinating Rhythm",
+  "artist": "Dave Grusin",
+  "lastFetched": "2025-12-03T11:51:10.567Z",
+  "odesli": {
+    "soundcloud": "dave-grusin/fascinating-rhythm-album",
+    "spotify": "0aRO0zEpE5RZIJrm0TXB4p",
+    "tidal": "4906952",
+    "youtube": "wZFTu9m8A08",
+    "youtubeMusic": "wZFTu9m8A08"
+  },
+  "lastfm": {
+    "id": "Dave+Grusin/_/Fascinating+Rhythm",
+    "listeners": 5389,
+    "playcount": 13397,
+    "title": "Fascinating Rhythm",
+    "artist": "Dave Grusin",
+    "mbid": "911536e9-f4b4-4126-a5d7-41ddb854f9b3",
+    "artistMbid": "7915b61a-da59-4e4e-83d3-bde7a24bd1ba",
+    "tags": [
+      "jazz",
+      "vibraphone",
+      "fusion",
+      "instrumental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ed4da16b-4f33-4d4d-b346-4547e80a6d23",
+    "artistMbid": "7915b61a-da59-4e4e-83d3-bde7a24bd1ba",
+    "releaseCount": 3,
+    "genres": [
+      "bebop",
+      "jazz",
+      "smooth jazz"
+    ],
+    "artistGenres": [
+      "jazz"
+    ],
+    "releasedAt": "1991",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000684920",
+      "discogs": "37730",
+      "spotify": "0SPkat5bgfP5wo2kbqZIwu",
+      "deezer": "1928",
+      "lastfm": "Dave+Grusin",
+      "rateyourmusic": "dave-grusin",
+      "wikidata": "Q502923"
+    }
+  }
+}

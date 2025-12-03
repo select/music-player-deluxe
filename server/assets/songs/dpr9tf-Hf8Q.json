@@ -2,7 +2,7 @@
   "youtubeId": "dpr9tf-Hf8Q",
   "title": "Four walls",
   "artist": "Massive Attack",
-  "lastFetched": "2025-11-30T23:34:36.813Z",
+  "lastFetched": "2025-12-02T01:35:24.020Z",
   "lastfm": {
     "id": "Massive+Attack/_/Four+walls",
     "listeners": 478,
@@ -34,6 +34,21 @@
       "electronica",
       "trip hop",
       "uk street soul"
-    ]
+    ],
+    "releasedAt": "2011-10-10",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000378288",
+      "discogs": "4480",
+      "spotify": "6FXMGgJwohJLUSr5nVlf9X",
+      "deezer": "612",
+      "lastfm": "Massive+Attack",
+      "genius": "Massive-attack",
+      "rateyourmusic": "massive_attack",
+      "soundcloud": "https://soundcloud.com/massiveattack",
+      "napster": "massive-attack",
+      "wikidata": "Q357418",
+      "youtube": "UCNgjBASMIxygr65gJs9IyUA"
+    }
   }
 }

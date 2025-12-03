@@ -2,7 +2,7 @@
   "youtubeId": "p0mRIhK9seg",
   "title": "Human Behaviour",
   "artist": "Björk",
-  "lastFetched": "2025-11-30T22:55:38.976Z",
+  "lastFetched": "2025-12-02T01:51:49.207Z",
   "odesli": {
     "appleMusic": "300205497",
     "itunes": "300205497",
@@ -40,7 +40,22 @@
       "leftfield",
       "progressive pop",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "1998",
+    "artistCountry": "IS",
+    "externalIdsArtist": {
+      "allmusic": "mn0000769444",
+      "bandcamp": "https://bjork.bandcamp.com/",
+      "discogs": "517951",
+      "spotify": "7w29UYBi0qsHi5RTcv3lmA",
+      "deezer": "630",
+      "lastfm": "Bj%C3%B6rk",
+      "genius": "Bjork",
+      "rateyourmusic": "bjork",
+      "soundcloud": "https://soundcloud.com/bjork",
+      "wikidata": "Q42455",
+      "youtube": "UCAjidy3vxRkgGVNIFqZMl_Q"
+    }
   },
   "lastfm": {
     "id": "Bj%C3%B6rk/_/Human+Behaviour",

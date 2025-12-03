@@ -2,7 +2,7 @@
   "youtubeId": "jYVHZN0_EDQ",
   "title": "Little Italy",
   "artist": "Stephen Bishop",
-  "lastFetched": "2025-11-23T16:47:11.461Z",
+  "lastFetched": "2025-12-02T01:43:17.373Z",
   "odesli": {
     "amazonMusic": "B001O3KF34",
     "amazonStore": "B001O3KF34",
@@ -24,7 +24,18 @@
       "rock"
     ],
     "trackMbid": "005d7bec-4caa-4f7b-ad45-a03a68060a9d",
-    "artistMbid": "6cf4f18c-2455-47ed-9f6c-953e2f107406"
+    "artistMbid": "6cf4f18c-2455-47ed-9f6c-953e2f107406",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000023925",
+      "discogs": "258759",
+      "spotify": "3JhRHqCi8HEzkJVWt19LtN",
+      "deezer": "78495",
+      "pandora": "stephen-bishop",
+      "napster": "stephen-bishop",
+      "wikidata": "Q3498517",
+      "youtube": "UCG85IC329CzTo83KK8PSh6A?view_as=subscriber"
+    }
   },
   "lastfm": {
     "id": "Stephen+Bishop/_/Little+Italy",

@@ -2,7 +2,7 @@
   "youtubeId": "VIpnaZMa4Yg",
   "title": "Southern Comfort",
   "artist": "Burial",
-  "lastFetched": "2025-11-23T16:40:49.262Z",
+  "lastFetched": "2025-12-02T01:21:01.211Z",
   "odesli": {
     "amazonMusic": "B01423YVXW",
     "amazonStore": "B01423YVXW",
@@ -32,7 +32,19 @@
       "electronic"
     ],
     "trackMbid": "1f115ded-92bc-49b3-8c86-511abe130418",
-    "artistMbid": "9ddce51c-2b75-4b3e-ac8c-1db09e7c89c6"
+    "artistMbid": "9ddce51c-2b75-4b3e-ac8c-1db09e7c89c6",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000643682",
+      "bandcamp": "https://burial.bandcamp.com/",
+      "discogs": "306157",
+      "spotify": "0uCCBpmg6MrPb1KY2msceF",
+      "deezer": "6281",
+      "lastfm": "Burial",
+      "rateyourmusic": "burial_f1",
+      "soundcloud": "https://soundcloud.com/burial",
+      "wikidata": "Q552245"
+    }
   },
   "lastfm": {
     "id": "Burial/_/Southern+Comfort",

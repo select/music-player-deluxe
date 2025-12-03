@@ -2,7 +2,7 @@
   "youtubeId": "b7o3F-MVE-Y",
   "title": "Koo Koo Fun",
   "artist": "Major Lazer",
-  "lastFetched": "2025-11-23T16:43:42.549Z",
+  "lastFetched": "2025-12-02T01:31:33.003Z",
   "odesli": {
     "amazonMusic": "B0F647DSY6",
     "amazonStore": "B0F647DSY6",
@@ -35,7 +35,22 @@
       "electronic"
     ],
     "trackMbid": "00d92cfe-ab1d-4cbe-9abe-98aa8ca6cbab",
-    "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f"
+    "artistMbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
+    "releasedAt": "2022-09-26",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0002036252",
+      "discogs": "1474921",
+      "spotify": "738wLrAtLtCtFOLvQBXOXp",
+      "deezer": "282118",
+      "lastfm": "Major+Lazer",
+      "genius": "Major-lazer",
+      "rateyourmusic": "major-lazer",
+      "soundcloud": "https://soundcloud.com/majorlazer",
+      "qobuz": "111764",
+      "wikidata": "Q2604214",
+      "youtube": "UCouK2xKynWUBlknnuhdTTgg"
+    }
   },
   "lastfm": {
     "id": "Major+Lazer/_/Koo+Koo+Fun",

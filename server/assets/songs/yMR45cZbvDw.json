@@ -2,7 +2,7 @@
   "youtubeId": "yMR45cZbvDw",
   "title": "Alles nur geklaut",
   "artist": "Die Prinzen",
-  "lastFetched": "2025-11-23T16:54:11.843Z",
+  "lastFetched": "2025-12-02T02:05:55.459Z",
   "musicbrainz": {
     "artistTags": [
       "a capella",
@@ -14,7 +14,21 @@
       "pop"
     ],
     "trackMbid": "c009cc94-881a-4766-90ee-000cb644c754",
-    "artistMbid": "a7ebbbb1-d29f-4e4a-8657-e687efc72ac5"
+    "artistMbid": "a7ebbbb1-d29f-4e4a-8657-e687efc72ac5",
+    "releasedAt": "2024-09-20",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000488397",
+      "discogs": "233755",
+      "spotify": "7F0bQWvv3rfV3EubmoQlwZ",
+      "deezer": "12206",
+      "lastfm": "Die+Prinzen",
+      "genius": "Die-prinzen",
+      "rateyourmusic": "die_prinzen",
+      "soundcloud": "https://soundcloud.com/die-prinzen",
+      "wikidata": "Q661645",
+      "youtube": "UC-DyQ0Bp9RB_NRf8gjnDI-g"
+    }
   },
   "lastfm": {
     "id": "Die+Prinzen/_/Alles+nur+geklaut",

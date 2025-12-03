@@ -2,7 +2,7 @@
   "youtubeId": "h7qTI6Njp9g",
   "title": "Meine",
   "artist": "Daso",
-  "lastFetched": "2025-11-30T19:58:10.833Z",
+  "lastFetched": "2025-12-02T01:39:40.350Z",
   "odesli": {
     "amazonMusic": "B08FCSGY7F",
     "amazonStore": "B08FCSGY7F",
@@ -42,6 +42,14 @@
     "artistGenres": [
       "edm",
       "tech house"
-    ]
+    ],
+    "releasedAt": "2007-10-31",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "325981",
+      "spotify": "70PpOSePHXISY6UFBJt3K0",
+      "deezer": "63775",
+      "wikidata": "Q1171935"
+    }
   }
 }

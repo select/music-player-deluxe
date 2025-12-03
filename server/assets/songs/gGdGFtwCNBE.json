@@ -2,7 +2,7 @@
   "youtubeId": "gGdGFtwCNBE",
   "title": "Mr. Brightside",
   "artist": "The Killers",
-  "lastFetched": "2025-11-30T21:43:51.523Z",
+  "lastFetched": "2025-12-02T01:38:29.194Z",
   "odesli": {
     "amazonMusic": "B0DG4L5L1K",
     "amazonStore": "B0DG4L5L1K",
@@ -55,6 +55,21 @@
       "pop rock",
       "post-punk revival",
       "rock"
-    ]
+    ],
+    "releasedAt": "2009-11-06",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000670226",
+      "discogs": "220651",
+      "spotify": "0C0XlULifJtAgn6ZNCW2eu",
+      "deezer": "897",
+      "lastfm": "The+Killers",
+      "genius": "The-killers",
+      "rateyourmusic": "the_killers",
+      "soundcloud": "https://soundcloud.com/thekillers",
+      "napster": "the-killers",
+      "wikidata": "Q220730",
+      "youtube": "UCkhyoTaWKuB-Rdbb6Z3Z5DA"
+    }
   }
 }

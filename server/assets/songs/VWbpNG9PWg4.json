@@ -2,7 +2,7 @@
   "youtubeId": "VWbpNG9PWg4",
   "title": "Magic on My Back",
   "artist": "Mykki Blanco",
-  "lastFetched": "2025-11-30T22:59:23.453Z",
+  "lastFetched": "2025-12-02T01:21:18.964Z",
   "odesli": {
     "amazonMusic": "B0CF1X3P6T",
     "amazonStore": "B0CF1X3P6T",
@@ -36,6 +36,22 @@
     "artistGenres": [
       "electronic",
       "hip hop"
-    ]
+    ],
+    "releasedAt": "2023-09-22",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "3NUjpb39XAnAYiknfLtr9C",
+      "deezer": "2401206015"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002940520",
+      "bandcamp": "https://mykkiblanco.bandcamp.com/",
+      "discogs": "2959276",
+      "spotify": "2tSv9mEQSuNVMGr9qjYfkr",
+      "deezer": "4777400",
+      "soundcloud": "https://soundcloud.com/mykkiblanco",
+      "wikidata": "Q16201334",
+      "youtube": "UCTlUMLdh0Po11lbKdyButOg"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "_p2NvO6KrBs",
   "title": "solitude",
   "artist": "M83",
-  "lastFetched": "2025-11-30T23:04:33.875Z",
+  "lastFetched": "2025-12-02T01:29:40.362Z",
   "odesli": {
     "amazonMusic": "B087TJ46NM",
     "amazonStore": "B087TJ46NM",
@@ -54,6 +54,26 @@
       "synthwave",
       "tech house",
       "techno"
-    ]
+    ],
+    "releasedAt": "2016-03-18",
+    "artistCountry": "FR",
+    "externalIdsTrack": {
+      "bandcamp": "https://ilovem83.bandcamp.com/track/solitude",
+      "spotify": "49xgzcmtmEnsEDWSOMYWoD",
+      "deezer": "121917476"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000175525",
+      "bandcamp": "https://ilovem83.bandcamp.com/",
+      "discogs": "33591",
+      "spotify": "63MQldklfxkjYDoUE4Tppz",
+      "deezer": "678",
+      "lastfm": "M83",
+      "genius": "M83",
+      "rateyourmusic": "m83",
+      "soundcloud": "https://soundcloud.com/m83",
+      "wikidata": "Q615471",
+      "youtube": "UC0UUzwcmD3s1S7NYAxHfs1w"
+    }
   }
 }

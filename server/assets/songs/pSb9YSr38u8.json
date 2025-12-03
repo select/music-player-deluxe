@@ -2,7 +2,7 @@
   "youtubeId": "pSb9YSr38u8",
   "title": "Silvery Sometimes (Ghosts)",
   "artist": "The Smashing Pumpkins",
-  "lastFetched": "2025-11-30T19:36:27.151Z",
+  "lastFetched": "2025-12-02T01:52:39.292Z",
   "odesli": {
     "amazonMusic": "B07GS92PSF",
     "amazonStore": "B07GS92PSF",
@@ -49,6 +49,21 @@
       "shoegaze",
       "symphonic rock",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2018-09-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000036521",
+      "discogs": "28970",
+      "spotify": "40Yq4vzPs9VNUrIBG5Jr2i",
+      "deezer": "193331",
+      "lastfm": "The+Smashing+Pumpkins",
+      "genius": "Smashing-pumpkins",
+      "rateyourmusic": "the-smashing-pumpkins",
+      "soundcloud": "https://soundcloud.com/smashingpumpkins",
+      "napster": "smashing-pumpkins",
+      "wikidata": "Q184217",
+      "youtube": "UCZM3bF24BS-qDMe0OigpeZw"
+    }
   }
 }

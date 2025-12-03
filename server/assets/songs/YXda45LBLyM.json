@@ -3,7 +3,7 @@
   "artist": "Branko Mataja",
   "duration": 160,
   "youtubeId": "YXda45LBLyM",
-  "lastFetched": "2025-11-23T16:42:08.856Z",
+  "lastFetched": "2025-12-02T01:26:01.335Z",
   "odesli": {
     "amazonMusic": "B09N9WKRZV",
     "amazonStore": "B09N9WKRZV",
@@ -29,7 +29,16 @@
     ],
     "trackMbid": "e9ecbb49-2ca7-46af-832a-f9cb36209bba",
     "artistMbid": "2a7824e3-7363-499d-bcfd-33c60a5d1889",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2022-03-25",
+    "artistCountry": "YU",
+    "externalIdsArtist": {
+      "bandcamp": "https://brankomataja.bandcamp.com/",
+      "discogs": "3789803",
+      "spotify": "3GUvYumHvxngYgB807pOOe",
+      "deezer": "149409322",
+      "rateyourmusic": "branko-mataja"
+    }
   },
   "lastfm": {
     "id": "Branko+Mataja/_/Tebi+Majko+Misli+Lete",

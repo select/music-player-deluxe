@@ -2,7 +2,7 @@
   "youtubeId": "q3KE-_wkiCc",
   "title": "New Romantic",
   "artist": "Andy Stott",
-  "lastFetched": "2025-11-30T20:21:25.613Z",
+  "lastFetched": "2025-12-02T01:53:39.678Z",
   "odesli": {
     "amazonMusic": "B01ENCAQDG",
     "amazonStore": "B01ENCAQDG",
@@ -43,6 +43,16 @@
     "artistGenres": [
       "electronic",
       "techno"
-    ]
+    ],
+    "releasedAt": "2016-04-22",
+    "externalIdsArtist": {
+      "allmusic": "mn0000975878",
+      "discogs": "317019",
+      "spotify": "6BuDxEE5rfuYeyhxQsl53K",
+      "deezer": "1338787",
+      "lastfm": "Andy+Stott",
+      "rateyourmusic": "andy_stott",
+      "wikidata": "Q4761358"
+    }
   }
 }

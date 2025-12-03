@@ -2,7 +2,7 @@
   "youtubeId": "yCmIp6ndg4E",
   "title": "Unsolved Mysteries",
   "artist": "Animal Collective",
-  "lastFetched": "2025-11-23T16:54:05.243Z",
+  "lastFetched": "2025-12-02T02:05:45.561Z",
   "odesli": {
     "amazonMusic": "B073MTT5WZ",
     "amazonStore": "B073MTT5WZ",
@@ -31,7 +31,22 @@
       "experimental"
     ],
     "trackMbid": "08f0fe36-d50c-376c-b8f7-2c2f7c67359a",
-    "artistMbid": "0c751690-c784-4a4f-b1e4-c1de27d47581"
+    "artistMbid": "0c751690-c784-4a4f-b1e4-c1de27d47581",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000919603",
+      "bandcamp": "https://anmlcollectve.bandcamp.com/",
+      "discogs": "207958",
+      "spotify": "4kwxTgCKMipBKhSnEstNKj",
+      "deezer": "6786",
+      "lastfm": "Animal+Collective",
+      "genius": "Animal-collective",
+      "rateyourmusic": "animal-collective",
+      "soundcloud": "https://soundcloud.com/anmlcollective",
+      "napster": "animal-collective",
+      "wikidata": "Q547272",
+      "youtube": "UC6X5Baxp63Ex9NaLZwAy7lQ"
+    }
   },
   "lastfm": {
     "id": "Animal+Collective/_/Unsolved+Mysteries",

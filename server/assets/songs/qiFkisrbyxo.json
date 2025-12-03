@@ -2,7 +2,7 @@
   "youtubeId": "qiFkisrbyxo",
   "title": "El Mechánico",
   "artist": "Deela",
-  "lastFetched": "2025-11-30T22:33:08.224Z",
+  "lastFetched": "2025-12-02T01:54:41.326Z",
   "lastfm": {
     "title": "El Mechánico",
     "artist": "Deela",
@@ -22,6 +22,15 @@
     "releaseCount": 1,
     "artistGenres": [
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2013-05-26",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "bandcamp": "https://deela.bandcamp.com/",
+      "discogs": "42793",
+      "spotify": "5RpRyZqqxZjQA8f5a1JU8z",
+      "rateyourmusic": "deela",
+      "wikidata": "Q15906062"
+    }
   }
 }

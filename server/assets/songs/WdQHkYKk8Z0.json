@@ -1,7 +1,7 @@
 {
   "youtubeId": "WdQHkYKk8Z0",
   "title": "Datashock - Im Zuchtstall der Existenzhengste",
-  "lastFetched": "2025-11-30T20:06:52.964Z",
+  "lastFetched": "2025-12-02T01:22:56.401Z",
   "ai": {
     "title": "Im Zuchtstall der Existenzhengste",
     "artist": "Datashock"
@@ -31,6 +31,16 @@
       "neo-psychedelia",
       "psychedelic rock",
       "ritual ambient"
-    ]
+    ],
+    "releasedAt": "2018-05-25",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002678743",
+      "bandcamp": "https://datashock.bandcamp.com/",
+      "discogs": "537528",
+      "spotify": "48jd7yvWE2qePfLvrFiuff",
+      "deezer": "10792460",
+      "rateyourmusic": "datashock"
+    }
   }
 }

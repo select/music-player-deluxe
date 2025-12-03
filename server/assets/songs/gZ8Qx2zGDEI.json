@@ -2,7 +2,7 @@
   "youtubeId": "gZ8Qx2zGDEI",
   "title": "Hanazono",
   "artist": "Jazzanova",
-  "lastFetched": "2025-11-23T16:46:08.956Z",
+  "lastFetched": "2025-12-02T01:38:48.654Z",
   "odesli": {
     "amazonMusic": "B00XM4770M",
     "amazonStore": "B00XM4770M",
@@ -28,7 +28,17 @@
       "nu jazz"
     ],
     "trackMbid": "14c628c0-d5ef-4f30-a96e-fa0a9109b7ca",
-    "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d"
+    "artistMbid": "b5a6ea29-3065-4869-ac66-a44002e55d4d",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000228732",
+      "bandcamp": "https://jazzanova.bandcamp.com/",
+      "discogs": "109",
+      "spotify": "0nTErwSOllrcUWt3knOG2T",
+      "deezer": "4065",
+      "rateyourmusic": "jazzanova",
+      "wikidata": "Q708757"
+    }
   },
   "lastfm": {
     "id": "Jazzanova/_/Hanazono",

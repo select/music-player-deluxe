@@ -3,7 +3,7 @@
   "artist": "Lavery",
   "duration": 365,
   "youtubeId": "hObImmlg784",
-  "lastFetched": "2025-11-23T16:46:31.094Z",
+  "lastFetched": "2025-12-02T01:40:11.458Z",
   "odesli": {
     "amazonMusic": "B09SGPV3JV",
     "amazonStore": "B09SGPV3JV",
@@ -35,7 +35,13 @@
     ],
     "trackMbid": "640dede3-e1ed-4577-ae04-e9423bb5d5e5",
     "artistMbid": "b1112bf7-1886-489c-9541-502dd2906335",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2022-03-07",
+    "externalIdsArtist": {
+      "discogs": "6034958",
+      "spotify": "0fK0hLAdC0LJDHiReWUAYU",
+      "deezer": "10436704"
+    }
   },
   "lastfm": {
     "id": "Lavery/_/Love+Somebody+Else",

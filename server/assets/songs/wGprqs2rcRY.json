@@ -3,7 +3,7 @@
   "artist": "Galt Macdermot",
   "duration": 201,
   "youtubeId": "wGprqs2rcRY",
-  "lastFetched": "2025-11-19T05:20:28.536Z",
+  "lastFetched": "2025-12-02T02:02:59.307Z",
   "odesli": {
     "amazonMusic": "B00122LPYU",
     "amazonStore": "B00122LPYU",
@@ -29,6 +29,16 @@
   "musicbrainz": {
     "trackMbid": "f491122f-8530-4b59-832e-013be1b484ff",
     "artistMbid": "479e16b4-2b26-40d1-ba65-9ce5ea8ae6a6",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2002",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000157874",
+      "discogs": "179056",
+      "spotify": "3b6TinIPahsS8iSCYAeinr",
+      "deezer": "2666",
+      "rateyourmusic": "galt_macdermot",
+      "wikidata": "Q1346345"
+    }
   }
 }

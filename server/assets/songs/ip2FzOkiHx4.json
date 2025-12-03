@@ -1,7 +1,7 @@
 {
   "youtubeId": "ip2FzOkiHx4",
   "title": "Hans Söllner - Ned aloa",
-  "lastFetched": "2025-11-30T19:43:24.740Z",
+  "lastFetched": "2025-12-02T01:42:18.795Z",
   "ai": {
     "title": "Ned aloa",
     "artist": "Hans Söllner"
@@ -28,6 +28,16 @@
     "releaseCount": 1,
     "artistGenres": [
       "reggae"
-    ]
+    ],
+    "releasedAt": "2004-02-09",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "347959",
+      "deezer": "275287",
+      "rateyourmusic": "hans_sollner",
+      "wikidata": "Q43949",
+      "wikipedia": "Hans_S%C3%B6llner",
+      "youtube": "UC6zpPGyBRCLY4b8JrpWl1MA"
+    }
   }
 }

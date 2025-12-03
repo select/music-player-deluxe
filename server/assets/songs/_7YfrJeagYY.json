@@ -2,7 +2,7 @@
   "youtubeId": "_7YfrJeagYY",
   "title": "El Niño",
   "artist": "Jethro Tull",
-  "lastFetched": "2025-11-30T20:47:28.103Z",
+  "lastFetched": "2025-12-02T01:28:37.285Z",
   "odesli": {
     "amazonMusic": "B0D5JWCYP8",
     "amazonStore": "B0D5JWCYP8",
@@ -46,6 +46,20 @@
       "progressive folk",
       "progressive rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1999-08-23",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000850692",
+      "discogs": "30122",
+      "spotify": "6w6z8m4WXX7Tub4Rb6Lu7R",
+      "deezer": "2888",
+      "lastfm": "Jethro+Tull",
+      "genius": "Jethro-tull",
+      "rateyourmusic": "jethro-tull",
+      "soundcloud": "https://soundcloud.com/jethrotullmusic",
+      "wikidata": "Q192353",
+      "youtube": "UC7sFWdsZTzfR507dbonTlyQ"
+    }
   }
 }

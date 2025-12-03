@@ -2,7 +2,7 @@
   "youtubeId": "XcMNfX5yh28",
   "title": "Chase The Devil",
   "artist": "Max Romeo",
-  "lastFetched": "2025-11-30T22:57:59.247Z",
+  "lastFetched": "2025-12-02T01:24:36.437Z",
   "odesli": {
     "amazonMusic": "B07PJBWGG8",
     "amazonStore": "B07PJBWGG8",
@@ -24,6 +24,21 @@
     "artistGenres": [
       "reggae",
       "roots reggae"
-    ]
+    ],
+    "releasedAt": "2001",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000334101",
+      "bandcamp": "https://maxromeoariwa.bandcamp.com/",
+      "discogs": "33469",
+      "spotify": "45QpZznbXYo3nWy0TIhvgv",
+      "deezer": "301512",
+      "lastfm": "Max+Romeo",
+      "genius": "Max-romeo",
+      "rateyourmusic": "max_romeo",
+      "soundcloud": "https://soundcloud.com/max-romeo-official",
+      "wikidata": "Q452162",
+      "youtube": "UCbYAoXuVCgE8QepDKugbozQ"
+    }
   }
 }

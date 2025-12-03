@@ -2,7 +2,7 @@
   "youtubeId": "gB98kRDUTM4",
   "title": "Cœur croisé",
   "artist": "Polo & Pan",
-  "lastFetched": "2025-11-30T20:13:45.116Z",
+  "lastFetched": "2025-12-02T01:38:22.452Z",
   "odesli": {
     "amazonMusic": "B07DRK25N1",
     "amazonStore": "B07DRK25N1",
@@ -36,6 +36,21 @@
       "house",
       "indie pop",
       "tropical house"
-    ]
+    ],
+    "releasedAt": "2017-04-28",
+    "artistCountry": "FR",
+    "externalIdsTrack": {
+      "spotify": "4V4SroHS7zs9KkG6X1CEPF",
+      "deezer": "505027412"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003555947",
+      "discogs": "4106352",
+      "spotify": "45yEuthJ9yq1rNXAOpBnqM",
+      "deezer": "5400149",
+      "soundcloud": "https://soundcloud.com/polo-pan",
+      "wikidata": "Q28495756",
+      "youtube": "UCQUFWrwQshjbq3VN0yfm_5Q"
+    }
   }
 }

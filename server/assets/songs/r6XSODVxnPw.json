@@ -2,7 +2,7 @@
   "youtubeId": "r6XSODVxnPw",
   "title": "Bunny Goes 2 Business School",
   "artist": "idialedyournumber",
-  "lastFetched": "2025-11-30T22:09:20.733Z",
+  "lastFetched": "2025-12-02T01:55:04.561Z",
   "odesli": {
     "amazonMusic": "B0CKG7JFGH",
     "amazonStore": "B0CKG7JFGH",
@@ -32,6 +32,14 @@
   "musicbrainz": {
     "trackMbid": "2beaba6b-0940-438b-9428-c95b28369ff5",
     "artistMbid": "167755d5-0225-4588-829d-2d486b87fa4b",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-10-04",
+    "externalIdsArtist": {
+      "bandcamp": "https://rosasaudiodiary.bandcamp.com/",
+      "discogs": "14046190",
+      "spotify": "7yyQ1q0HnyerC1kGKTj1Dm",
+      "deezer": "219849265",
+      "youtube": "UCzWZwSv3Rmjx_CXWs2O9IqQ"
+    }
   }
 }

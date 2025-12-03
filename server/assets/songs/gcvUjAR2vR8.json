@@ -1,7 +1,7 @@
 {
   "youtubeId": "gcvUjAR2vR8",
   "title": "Delta Spirit \"Bushwick Blues\"",
-  "lastFetched": "2025-11-30T20:28:55.893Z",
+  "lastFetched": "2025-12-02T01:38:53.105Z",
   "ai": {
     "title": "Bushwick Blues",
     "artist": "Delta Spirit"
@@ -35,6 +35,18 @@
     "artistGenres": [
       "americana",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2010-06-08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001002017",
+      "discogs": "1217228",
+      "spotify": "1xVWSPiw5B0OduIC0DSu3V",
+      "deezer": "133168",
+      "lastfm": "Delta+Spirit",
+      "rateyourmusic": "delta_spirit",
+      "napster": "delta-spirit",
+      "wikidata": "Q4037180"
+    }
   }
 }

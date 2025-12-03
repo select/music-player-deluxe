@@ -2,7 +2,7 @@
   "youtubeId": "lsMdCQgCvUY",
   "title": "Where's Jason's K",
   "artist": "Syclops",
-  "lastFetched": "2025-11-19T17:40:29.828Z",
+  "lastFetched": "2025-12-02T01:46:54.816Z",
   "odesli": {
     "amazonMusic": "B07CQ6NBSH",
     "amazonStore": "B07CQ6NBSH",
@@ -32,6 +32,11 @@
   },
   "musicbrainz": {
     "trackMbid": "3ac2fb73-6464-36f5-80c2-0ea9abd19b66",
-    "artistMbid": "5c7f757a-7be1-40e6-acb4-8cfee81ecd84"
+    "artistMbid": "5c7f757a-7be1-40e6-acb4-8cfee81ecd84",
+    "externalIdsArtist": {
+      "bandcamp": "https://syclopsbubbleteasecommunications.bandcamp.com/",
+      "discogs": "104731",
+      "spotify": "1DoyIKYcf1Pw2tMFFy0oEi"
+    }
   }
 }

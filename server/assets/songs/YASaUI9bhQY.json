@@ -3,7 +3,7 @@
   "artist": "Yussef Dayes",
   "duration": 239,
   "youtubeId": "YASaUI9bhQY",
-  "lastFetched": "2025-11-23T16:41:56.959Z",
+  "lastFetched": "2025-12-02T01:25:37.364Z",
   "odesli": {
     "amazonMusic": "B0C31XSR3G",
     "amazonStore": "B0C31XSR3G",
@@ -27,7 +27,15 @@
     ],
     "trackMbid": "795cf9d8-109e-4a40-84f6-f58d22f0bcaa",
     "artistMbid": "fdbffd97-c991-433c-9137-cafee3ded97a",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2023-05-31",
+    "externalIdsArtist": {
+      "allmusic": "mn0003486740",
+      "discogs": "3464319",
+      "spotify": "2rspptKP0lPBdlJJAJHqht",
+      "rateyourmusic": "yussef-dayes",
+      "wikidata": "Q96362639"
+    }
   },
   "lastfm": {
     "id": "Yussef+Dayes/_/Rust+(feat.+Tom+Misch)",

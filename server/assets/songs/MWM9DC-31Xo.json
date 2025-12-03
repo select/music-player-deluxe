@@ -1,0 +1,52 @@
+{
+  "youtubeId": "MWM9DC-31Xo",
+  "title": "KITTY KITTY",
+  "artist": "De Staat",
+  "lastFetched": "2025-12-03T11:36:48.779Z",
+  "odesli": {
+    "amazonMusic": "B07FZFMGK5",
+    "amazonStore": "B07FZFMGK5",
+    "pandora": "TR:43341672",
+    "soundcloud": "destaat/kitty-kitty-2",
+    "tidal": "105415771",
+    "youtube": "MWM9DC-31Xo",
+    "youtubeMusic": "MWM9DC-31Xo"
+  },
+  "lastfm": {
+    "id": "De+Staat/_/KITTY+KITTY",
+    "listeners": 19403,
+    "playcount": 138438,
+    "title": "KITTY KITTY",
+    "artist": "De Staat",
+    "mbid": "16efc71e-710e-4a7b-a557-560e08a00118",
+    "artistMbid": "873ba42d-4a18-4580-8893-3f9ff7b3e282",
+    "tags": [
+      "2019",
+      "rock",
+      "dutch",
+      "stoner rock",
+      "blues rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "399e56f0-04f2-4d60-b2dd-e0d48db82eb9",
+    "artistMbid": "873ba42d-4a18-4580-8893-3f9ff7b3e282",
+    "releaseCount": 4,
+    "artistGenres": [
+      "alternative rock",
+      "indie rock",
+      "rock"
+    ],
+    "releasedAt": "2019-01-18",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "allmusic": "mn0002007966",
+      "discogs": "1252348",
+      "spotify": "4rZJKub3qA5t1yYcT3qmm4",
+      "deezer": "248998",
+      "lastfm": "De+Staat",
+      "rateyourmusic": "de_staat",
+      "wikidata": "Q1180311"
+    }
+  }
+}

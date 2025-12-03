@@ -1,7 +1,7 @@
 {
   "youtubeId": "e8OHEv8v3Oc",
   "title": "Tocotronic - Meine Freundin und ihr Freund",
-  "lastFetched": "2025-11-30T21:39:01.972Z",
+  "lastFetched": "2025-12-02T01:35:43.485Z",
   "ai": {
     "title": "Meine Freundin und ihr Freund",
     "artist": "Tocotronic"
@@ -30,6 +30,20 @@
       "hamburger schule",
       "indie rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1995-03-06",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000611087",
+      "discogs": "19605",
+      "spotify": "4WOaecAM3RMMmrbZzNx0vu",
+      "deezer": "3472",
+      "lastfm": "Tocotronic",
+      "genius": "Tocotronic",
+      "rateyourmusic": "tocotronic",
+      "soundcloud": "https://soundcloud.com/rockotronic",
+      "wikidata": "Q11890",
+      "youtube": "UCdvyuUBl9V6bHqoTzPtUiWA"
+    }
   }
 }

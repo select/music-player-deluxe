@@ -2,7 +2,7 @@
   "youtubeId": "ijr7e0THYWU",
   "title": "I May Hate You Sometimes",
   "artist": "The Posies",
-  "lastFetched": "2025-11-30T21:21:57.497Z",
+  "lastFetched": "2025-12-02T01:42:03.790Z",
   "odesli": {
     "amazonMusic": "B00MIB2NJU",
     "amazonStore": "B00MIB2NJU",
@@ -39,6 +39,19 @@
       "indie rock",
       "power pop",
       "rock"
-    ]
+    ],
+    "releasedAt": "1988",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000490554",
+      "discogs": "265452",
+      "spotify": "5ZOh5D4MKLhU3GekPzNFam",
+      "deezer": "122296",
+      "lastfm": "The+Posies",
+      "genius": "The-posies",
+      "rateyourmusic": "the_posies",
+      "soundcloud": "https://soundcloud.com/the-posies",
+      "wikidata": "Q984004"
+    }
   }
 }

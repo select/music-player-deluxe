@@ -2,7 +2,7 @@
   "youtubeId": "XbGs_qK2PQA",
   "title": "Rap God",
   "artist": "Eminem",
-  "lastFetched": "2025-11-19T12:26:00.683Z",
+  "lastFetched": "2025-12-02T01:24:31.654Z",
   "odesli": {
     "amazonMusic": "B00GBCN50S",
     "amazonStore": "B00GBCN50S",
@@ -27,7 +27,21 @@
       "Eminem"
     ],
     "trackMbid": "851e53db-c962-492b-8d98-45fe93b0efd5",
-    "artistMbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4"
+    "artistMbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001892803",
+      "discogs": "644153",
+      "spotify": "7dGJo4pcD2V6oG8kP0tJRR",
+      "deezer": "13",
+      "lastfm": "Eminem",
+      "genius": "Eminem",
+      "rateyourmusic": "eminem",
+      "soundcloud": "https://soundcloud.com/eminemofficial",
+      "napster": "eminem",
+      "wikidata": "Q5608",
+      "youtube": "UCedvOgsKFzcK3hA5taf3KoQ"
+    }
   },
   "lastfm": {
     "id": "Eminem/_/Rap+God",

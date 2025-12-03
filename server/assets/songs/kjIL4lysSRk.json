@@ -2,7 +2,7 @@
   "youtubeId": "kjIL4lysSRk",
   "title": "Eine gute Nachricht",
   "artist": "Danger Dan",
-  "lastFetched": "2025-11-23T16:47:49.863Z",
+  "lastFetched": "2025-12-02T01:45:21.266Z",
   "musicbrainz": {
     "artistTags": [
       "conscious hip hop",
@@ -13,7 +13,15 @@
       "hip hop"
     ],
     "trackMbid": "31eb83b1-2030-458f-b549-f9dd2d502fce",
-    "artistMbid": "aaf0cc6b-8855-4a78-9b89-1574eb459f58"
+    "artistMbid": "aaf0cc6b-8855-4a78-9b89-1574eb459f58",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "3920796",
+      "spotify": "2jXb8AWz82Sn3RRGOaia7a",
+      "deezer": "5298065",
+      "lastfm": "Danger+Dan",
+      "wikidata": "Q54892284"
+    }
   },
   "lastfm": {
     "id": "Danger+Dan/_/Eine+gute+Nachricht",

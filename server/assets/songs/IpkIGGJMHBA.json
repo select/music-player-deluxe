@@ -1,0 +1,59 @@
+{
+  "youtubeId": "IpkIGGJMHBA",
+  "title": "Damsel In Distress",
+  "artist": "Rufus Wainwright",
+  "lastFetched": "2025-12-03T11:41:38.522Z",
+  "odesli": {
+    "amazonMusic": "B0DZRKV7WY",
+    "amazonStore": "B0DZRKV7WY",
+    "appleMusic": "1710154332",
+    "itunes": "1710154332",
+    "pandora": "TR:33804963",
+    "soundcloud": "rufuswainwright/damsel-in-distress-1",
+    "spotify": "2k40nK8sBPnd2zdhajudBZ",
+    "tidal": "133943301",
+    "yandex": "63034506",
+    "youtube": "IpkIGGJMHBA",
+    "youtubeMusic": "IpkIGGJMHBA"
+  },
+  "lastfm": {
+    "summary": "\"Damsel in Distress\" is a song by Rufus Wainwright. On February 27, 2020, the song was released as the second single for his ninth studio album Unfollow the Rules, released by BMG in April 2020.\n\nWainwright wrote the song to honor Joni Mitchell. He said, \"My husband and I now live in Laurel Canyon. I wasn't that familiar with Joni's music but Jörn [Weisbrodt] became obsessed and took me on a journey into her music. We ended up hanging out with her and I get now why she's one of the greats. <a href=\"http://www.last.fm/music/Rufus+Wainwright/_/Damsel+In+Distress\">Read more on Last.fm</a>.",
+    "id": "Rufus+Wainwright/_/Damsel+In+Distress",
+    "listeners": 19597,
+    "playcount": 140491,
+    "title": "Damsel In Distress",
+    "artist": "Rufus Wainwright",
+    "mbid": "236067a6-9d21-469a-be8a-7132e0425ac6",
+    "artistMbid": "78e46ae5-9bfd-433b-be3f-19e993d67ecc",
+    "tags": [
+      "singer-songwriter",
+      "folk",
+      "indie pop",
+      "indie folk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cf711614-7c77-424b-a1dd-fe3bf04725b9",
+    "artistMbid": "78e46ae5-9bfd-433b-be3f-19e993d67ecc",
+    "releaseCount": 4,
+    "artistGenres": [
+      "alternative rock",
+      "chamber pop",
+      "folk",
+      "indie rock",
+      "singer-songwriter"
+    ],
+    "releasedAt": "2020-04-01",
+    "externalIdsArtist": {
+      "allmusic": "mn0000854854",
+      "discogs": "268049",
+      "spotify": "2PfBzriIMRsCXPDtSy9vg8",
+      "deezer": "1515",
+      "lastfm": "Rufus+Wainwright",
+      "rateyourmusic": "rufus_wainwright",
+      "soundcloud": "https://soundcloud.com/rufuswainwright",
+      "wikidata": "Q192402",
+      "youtube": "UCzV2sYMCYqhCEPGDtVj7dIA"
+    }
+  }
+}

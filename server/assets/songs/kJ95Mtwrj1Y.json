@@ -2,7 +2,7 @@
   "youtubeId": "kJ95Mtwrj1Y",
   "title": "More Than Machines",
   "artist": "Bush",
-  "lastFetched": "2025-11-23T16:47:35.823Z",
+  "lastFetched": "2025-12-02T01:44:31.454Z",
   "odesli": {
     "amazonMusic": "B0F199JM7C",
     "amazonStore": "B0F199JM7C",
@@ -37,7 +37,22 @@
       "post-grunge"
     ],
     "trackMbid": "b40167dd-d276-41a5-9f90-3f8119fd27c0",
-    "artistMbid": "93ccd76c-3790-4435-a8bf-02bc26294b93"
+    "artistMbid": "93ccd76c-3790-4435-a8bf-02bc26294b93",
+    "releasedAt": "2022-09-16",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000639056",
+      "discogs": "3961",
+      "spotify": "78SHxLdtysAXgywQ4vE0Oa",
+      "deezer": "1551",
+      "lastfm": "Bush",
+      "genius": "Bush",
+      "rateyourmusic": "bush",
+      "soundcloud": "https://soundcloud.com/bushofficial",
+      "napster": "bush",
+      "wikidata": "Q247949",
+      "youtube": "UCzh6E5PwoxNGhn3Nwf2rrOg"
+    }
   },
   "lastfm": {
     "id": "Bush/_/More+Than+Machines",

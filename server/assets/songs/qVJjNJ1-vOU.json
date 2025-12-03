@@ -2,7 +2,7 @@
   "youtubeId": "qVJjNJ1-vOU",
   "title": "Barbary Coast (Later)",
   "artist": "Conor Oberst",
-  "lastFetched": "2025-11-30T20:18:32.195Z",
+  "lastFetched": "2025-12-02T01:54:23.547Z",
   "odesli": {
     "amazonMusic": "B07VV4BVT6",
     "amazonStore": "B07VV4BVT6",
@@ -35,6 +35,18 @@
       "folk",
       "folk rock",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2016-10-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000131818",
+      "discogs": "326906",
+      "spotify": "2Z7gV3uEh1ckIaBzTUCE6R",
+      "deezer": "110791",
+      "lastfm": "Conor+Oberst",
+      "rateyourmusic": "conor_oberst",
+      "wikidata": "Q550900",
+      "youtube": "UCPrWVPL8Ea-EjxhCwBpCP3A"
+    }
   }
 }

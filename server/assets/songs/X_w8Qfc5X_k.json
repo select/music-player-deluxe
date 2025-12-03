@@ -2,7 +2,7 @@
   "youtubeId": "X_w8Qfc5X_k",
   "title": "Mission Venice",
   "artist": "Nightmares on Wax",
-  "lastFetched": "2025-11-23T16:41:40.389Z",
+  "lastFetched": "2025-12-02T01:24:28.960Z",
   "odesli": {
     "amazonMusic": "B084KPRP7Q",
     "amazonStore": "B084KPRP7Q",
@@ -33,7 +33,20 @@
       "nu jazz"
     ],
     "trackMbid": "4bf2a04a-2746-4c2d-a155-f7f5d98985ab",
-    "artistMbid": "b8c5cc4f-239f-4e02-b46f-b040b77c2030"
+    "artistMbid": "b8c5cc4f-239f-4e02-b46f-b040b77c2030",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000869417",
+      "bandcamp": "https://nightmaresonwax.bandcamp.com/",
+      "discogs": "759",
+      "spotify": "4tNxq9NGKTKaX8OkZBLgf0",
+      "deezer": "8026",
+      "lastfm": "Nightmares+on+Wax",
+      "rateyourmusic": "nightmares_on_wax",
+      "soundcloud": "https://soundcloud.com/nightmares-on-wax",
+      "qobuz": "290666",
+      "wikidata": "Q928905"
+    }
   },
   "lastfm": {
     "id": "Nightmares+on+Wax/_/Mission+Venice",

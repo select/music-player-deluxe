@@ -3,7 +3,7 @@
   "artist": "Charles Lloyd",
   "duration": 566,
   "youtubeId": "lbiheF8e5D8",
-  "lastFetched": "2025-11-23T16:48:19.030Z",
+  "lastFetched": "2025-12-02T01:46:42.692Z",
   "odesli": {
     "amazonMusic": "B0FL69GQ1V",
     "amazonStore": "B0FL69GQ1V",
@@ -30,7 +30,17 @@
     ],
     "trackMbid": "7b1b367b-99b5-48bc-b9ef-312768d2427a",
     "artistMbid": "b9b579ad-e499-4e3e-9d09-06bc8e504135",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1993",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000206538",
+      "discogs": "274429",
+      "spotify": "0GC1oqEWpiAjfE7jm5LQO5",
+      "deezer": "14645",
+      "rateyourmusic": "charles_lloyd",
+      "wikidata": "Q635132"
+    }
   },
   "lastfm": {
     "id": "Charles+Lloyd/_/Figure+In+Blue,+Memories+Of+Duke",

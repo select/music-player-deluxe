@@ -2,7 +2,7 @@
   "youtubeId": "irmURXnkt54",
   "title": "Some Days I Drink My Coffee By The Grave Of William Blake",
   "artist": "The The",
-  "lastFetched": "2025-11-30T22:13:33.545Z",
+  "lastFetched": "2025-12-02T01:42:21.208Z",
   "odesli": {
     "amazonMusic": "B0DCGQHWYS",
     "amazonStore": "B0DCGQHWYS",
@@ -38,6 +38,18 @@
       "new wave",
       "pop rock",
       "post-punk"
-    ]
+    ],
+    "releasedAt": "2024-08-29",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000566918",
+      "discogs": "23368",
+      "spotify": "7cKtqv9cYVlOwnuCFH95ce",
+      "deezer": "4131",
+      "lastfm": "The+The",
+      "genius": "The-the",
+      "rateyourmusic": "the_the",
+      "wikidata": "Q1354463"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "_76NQF3FnCE",
   "title": "Uah",
   "artist": "Mouse On Mars",
-  "lastFetched": "2025-11-30T20:02:10.382Z",
+  "lastFetched": "2025-12-02T01:28:35.338Z",
   "odesli": {
     "amazonMusic": "B001KTRVCU",
     "amazonStore": "B001KTRVCU",
@@ -47,6 +47,17 @@
       "glitch",
       "idm",
       "techno"
-    ]
+    ],
+    "releasedAt": "1994-07-10",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000929800",
+      "bandcamp": "https://mouseonmars.bandcamp.com/",
+      "discogs": "2540",
+      "spotify": "4ZgIWfyg9BkcqnJJ2xVR3f",
+      "deezer": "11554",
+      "rateyourmusic": "mouse_on_mars",
+      "wikidata": "Q702006"
+    }
   }
 }

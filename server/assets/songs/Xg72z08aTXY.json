@@ -2,7 +2,7 @@
   "youtubeId": "Xg72z08aTXY",
   "title": "Beggin'",
   "artist": "Måneskin",
-  "lastFetched": "2025-11-19T12:34:40.829Z",
+  "lastFetched": "2025-12-02T01:24:41.509Z",
   "odesli": {
     "amazonMusic": "B09YRK8R45",
     "amazonStore": "B09YRK8R45",
@@ -28,7 +28,21 @@
       "funky"
     ],
     "trackMbid": "00469a82-abc5-4367-bde1-a59a4d30bcaf",
-    "artistMbid": "3862342a-43c4-4cdb-8250-bfdbfb5e1419"
+    "artistMbid": "3862342a-43c4-4cdb-8250-bfdbfb5e1419",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "allmusic": "mn0003698978",
+      "discogs": "6184259",
+      "spotify": "0lAWpj5szCSwM4rUMHYmrr",
+      "deezer": "13612387",
+      "lastfm": "M%C3%A5neskin",
+      "genius": "Maneskin",
+      "rateyourmusic": "maneskin",
+      "soundcloud": "https://soundcloud.com/maneskin",
+      "napster": "maneskin",
+      "wikidata": "Q56884561",
+      "youtube": "UCgQna2EqpzqzfBjlSmzT72w"
+    }
   },
   "lastfm": {
     "id": "M%C3%A5neskin/_/Beggin%27",

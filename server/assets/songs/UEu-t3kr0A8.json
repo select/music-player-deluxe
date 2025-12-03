@@ -2,7 +2,7 @@
   "youtubeId": "UEu-t3kr0A8",
   "title": "Zu Fuss",
   "artist": "Extrawelt",
-  "lastFetched": "2025-11-30T19:30:14.562Z",
+  "lastFetched": "2025-12-02T01:19:33.849Z",
   "odesli": {
     "pandora": "TR:5971163",
     "soundcloud": "kotizm/extrawelt-zu-fuss",
@@ -39,6 +39,16 @@
     ],
     "artistGenres": [
       "minimal techno"
-    ]
+    ],
+    "releasedAt": "2005-06-13",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000338773",
+      "bandcamp": "https://extrawelt.bandcamp.com/",
+      "discogs": "318221",
+      "spotify": "3VRvi42U8SsiT4YKP5LNCB",
+      "deezer": "9394",
+      "soundcloud": "https://soundcloud.com/extrawelt-official"
+    }
   }
 }

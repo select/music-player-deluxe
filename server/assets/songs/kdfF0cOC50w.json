@@ -2,7 +2,7 @@
   "youtubeId": "kdfF0cOC50w",
   "title": "Paul Revere",
   "artist": "Beastie Boys",
-  "lastFetched": "2025-11-30T22:23:14.972Z",
+  "lastFetched": "2025-12-02T01:45:10.571Z",
   "odesli": {
     "amazonMusic": "B001NZGR8A",
     "amazonStore": "B001NZGR8A",
@@ -53,6 +53,20 @@
       "hip hop",
       "rap rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2006-03-31",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000038469",
+      "discogs": "10783",
+      "spotify": "03r4iKL2g2442PT9n2UKsx",
+      "deezer": "194746",
+      "lastfm": "Beastie+Boys",
+      "genius": "Beastie-boys",
+      "rateyourmusic": "beastie_boys",
+      "soundcloud": "https://soundcloud.com/beastieboys",
+      "qobuz": "43813",
+      "wikidata": "Q214039"
+    }
   }
 }

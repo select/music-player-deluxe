@@ -2,7 +2,7 @@
   "youtubeId": "cNEdxZURTaI",
   "title": "The Look Of Love, Pt.1",
   "artist": "ABC",
-  "lastFetched": "2025-11-23T16:44:13.777Z",
+  "lastFetched": "2025-12-02T01:33:22.975Z",
   "odesli": {
     "amazonMusic": "B001NZXFF8",
     "amazonStore": "B001NZXFF8",
@@ -52,7 +52,20 @@
       "sophisti-pop"
     ],
     "trackMbid": "991257e8-8bf2-4059-8cb9-0da6d5bdc598",
-    "artistMbid": "87199477-b0df-4ead-84ee-9b54b4abfc3d"
+    "artistMbid": "87199477-b0df-4ead-84ee-9b54b4abfc3d",
+    "releasedAt": "1982-05",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000574597",
+      "discogs": "23035",
+      "spotify": "2s79xe5F6eUQkjwjww27Fh",
+      "deezer": "213",
+      "lastfm": "ABC",
+      "genius": "Abc",
+      "rateyourmusic": "abc",
+      "wikidata": "Q287078",
+      "youtube": "UCGgfcWvljQIxpntF46rHo7w"
+    }
   },
   "lastfm": {
     "id": "ABC/_/The+Look+Of+Love,+Pt.1",

@@ -2,7 +2,7 @@
   "youtubeId": "efnjQBxqaFE",
   "title": "Somebody Else’s Guy",
   "artist": "Jocelyn Brown",
-  "lastFetched": "2025-11-30T22:17:04.103Z",
+  "lastFetched": "2025-12-02T01:36:26.995Z",
   "lastfm": {
     "title": "Somebody Else’s Guy",
     "artist": "Jocelyn Brown",
@@ -31,6 +31,18 @@
       "pop",
       "r&b",
       "soul"
-    ]
+    ],
+    "releasedAt": "2000-03-27",
+    "externalIdsArtist": {
+      "allmusic": "mn0000118128",
+      "discogs": "236304",
+      "spotify": "2ga5ADaBpljQ3YrCh99ZMq",
+      "deezer": "13686",
+      "lastfm": "Jocelyn+Brown",
+      "genius": "Jocelyn-brown",
+      "rateyourmusic": "jocelyn_brown",
+      "soundcloud": "https://soundcloud.com/jocelyn-brown",
+      "wikidata": "Q447915"
+    }
   }
 }

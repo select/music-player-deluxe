@@ -2,7 +2,7 @@
   "youtubeId": "UZ-gTdR3oTQ",
   "title": "Gassenhauer",
   "artist": "Carl Orff",
-  "lastFetched": "2025-11-23T16:40:30.135Z",
+  "lastFetched": "2025-12-02T01:19:57.938Z",
   "musicbrainz": {
     "artistTags": [
       "20th century",
@@ -24,7 +24,17 @@
       "orchestral"
     ],
     "trackMbid": "52186999-79af-3355-890a-d4e5852784b0",
-    "artistMbid": "0b3ee6cd-a2df-4144-adf9-7807ee7ecc4f"
+    "artistMbid": "0b3ee6cd-a2df-4144-adf9-7807ee7ecc4f",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000937423",
+      "discogs": "102506",
+      "spotify": "4LXxsm5BF85PWnQ1dUDAze",
+      "deezer": "4225",
+      "lastfm": "Carl+Orff",
+      "rateyourmusic": "carl_orff",
+      "wikidata": "Q44086"
+    }
   },
   "lastfm": {
     "id": "Carl+Orff/_/Gassenhauer",

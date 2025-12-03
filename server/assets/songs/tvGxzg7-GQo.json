@@ -2,7 +2,7 @@
   "youtubeId": "tvGxzg7-GQo",
   "title": "Gilt Complex",
   "artist": "Sons And Daughters",
-  "lastFetched": "2025-11-30T20:49:31.153Z",
+  "lastFetched": "2025-12-02T01:59:48.659Z",
   "odesli": {
     "amazonMusic": "B073MWXDWM",
     "amazonStore": "B073MWXDWM",
@@ -33,6 +33,15 @@
     "releaseCount": 14,
     "artistGenres": [
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2007-10-29",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000757073",
+      "discogs": "220657",
+      "lastfm": "Sons+and+Daughters",
+      "rateyourmusic": "sons_and_daughters",
+      "wikidata": "Q2036876"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "oUUdJY8xMIk",
   "title": "Truckstop Queen",
   "artist": "Rachel Sweet",
-  "lastFetched": "2025-11-23T16:49:50.221Z",
+  "lastFetched": "2025-12-02T01:51:10.442Z",
   "odesli": {
     "amazonMusic": "B07BSVNM1C",
     "amazonStore": "B07BSVNM1C",
@@ -30,7 +30,14 @@
       "pop"
     ],
     "trackMbid": "0e6b8447-2e66-369e-b225-463f1d69cf7b",
-    "artistMbid": "0c085548-8a13-4c6a-ad32-2e773cc81717"
+    "artistMbid": "0c085548-8a13-4c6a-ad32-2e773cc81717",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "283973",
+      "spotify": "4BvJVhT7kavQm80mtVL1mS",
+      "deezer": "199736",
+      "wikidata": "Q543719"
+    }
   },
   "lastfm": {
     "id": "Rachel+Sweet/_/Truckstop+Queen",

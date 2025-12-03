@@ -1,7 +1,7 @@
 {
   "youtubeId": "dx54kFr2d0M",
   "title": "Deadsoul Tribe - A Stairway to Nowhere",
-  "lastFetched": "2025-11-30T21:12:03.369Z",
+  "lastFetched": "2025-12-02T01:35:27.979Z",
   "ai": {
     "title": "A Stairway to Nowhere",
     "artist": "Deadsoul Tribe"
@@ -23,6 +23,20 @@
     "artistGenres": [
       "progressive metal",
       "progressive rock"
-    ]
+    ],
+    "releasedAt": "2007-08-24",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000185029",
+      "discogs": "252324",
+      "spotify": "14FTVRqyet2DMeLgW58gVJ",
+      "deezer": "16234",
+      "lastfm": "Deadsoul+Tribe",
+      "genius": "Deadsoul-tribe",
+      "rateyourmusic": "deadsoul_tribe",
+      "soundcloud": "https://soundcloud.com/deadsoultribe",
+      "wikidata": "Q692221",
+      "youtube": "UCMgvdA_DecWzqKY9ac4yjnQ"
+    }
   }
 }

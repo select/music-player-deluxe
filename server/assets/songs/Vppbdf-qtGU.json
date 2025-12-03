@@ -2,7 +2,7 @@
   "youtubeId": "Vppbdf-qtGU",
   "title": "La Grange",
   "artist": "ZZ Top",
-  "lastFetched": "2025-11-30T23:06:05.999Z",
+  "lastFetched": "2025-12-02T01:21:36.211Z",
   "odesli": {
     "amazonMusic": "B07T84XYLJ",
     "amazonStore": "B07T84XYLJ",
@@ -48,6 +48,19 @@
       "hard rock",
       "rock",
       "southern rock"
-    ]
+    ],
+    "releasedAt": "2006-02-28",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000690254",
+      "discogs": "113655",
+      "spotify": "2AM4ilv6UzW0uMRuqKtDgN",
+      "deezer": "49602692",
+      "lastfm": "ZZ+Top",
+      "genius": "Zz-top",
+      "rateyourmusic": "zz_top",
+      "napster": "zz-top",
+      "wikidata": "Q136591"
+    }
   }
 }

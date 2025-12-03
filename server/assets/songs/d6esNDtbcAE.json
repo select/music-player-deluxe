@@ -2,7 +2,7 @@
   "youtubeId": "d6esNDtbcAE",
   "title": "GIGACHAD",
   "artist": "Kai Wachi",
-  "lastFetched": "2025-11-23T16:44:37.759Z",
+  "lastFetched": "2025-12-02T01:34:48.794Z",
   "odesli": {
     "amazonMusic": "B09SBVZNJY",
     "amazonStore": "B09SBVZNJY",
@@ -23,7 +23,21 @@
       "electronic"
     ],
     "trackMbid": "eca09ba5-757d-4edf-b504-2872db33fbaa",
-    "artistMbid": "5cfd01c7-f308-4aa6-a489-36a43aeee525"
+    "artistMbid": "5cfd01c7-f308-4aa6-a489-36a43aeee525",
+    "releasedAt": "2022-02-23",
+    "externalIdsTrack": {
+      "spotify": "2VXSei3puBk9C8EW5v1MmF",
+      "deezer": "1653409852"
+    },
+    "externalIdsArtist": {
+      "discogs": "4713276",
+      "spotify": "2fNr4ldujwq97v1jWeqs8K",
+      "deezer": "3998011",
+      "lastfm": "Kai+Wachi",
+      "genius": "Kai-wachi",
+      "soundcloud": "https://soundcloud.com/kaiwachi",
+      "youtube": "UCK7y9fUqUZy8HcrxcuPKGqg"
+    }
   },
   "lastfm": {
     "id": "Kai+Wachi/_/GIGACHAD",

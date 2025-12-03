@@ -2,7 +2,7 @@
   "youtubeId": "ZLtACqqXjts",
   "title": "Come Check This",
   "artist": "Fetish",
-  "lastFetched": "2025-11-30T22:59:45.636Z",
+  "lastFetched": "2025-12-02T01:27:29.667Z",
   "odesli": {
     "amazonMusic": "B09WJM6LNP",
     "amazonStore": "B09WJM6LNP",
@@ -23,6 +23,12 @@
   "musicbrainz": {
     "artistMbid": "a6b128c9-ae21-4b32-aacd-24656132d4ac",
     "trackMbid": "392fb7af-c4f1-4add-89d9-bf19b0a5296d",
-    "releaseCount": 4
+    "releaseCount": 4,
+    "releasedAt": "2020-04-21",
+    "externalIdsArtist": {
+      "spotify": "1r59KUMNZRw0M8FDnrHq0o",
+      "deezer": "107874",
+      "soundcloud": "https://soundcloud.com/officialfetish"
+    }
   }
 }

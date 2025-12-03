@@ -2,7 +2,7 @@
   "youtubeId": "p5sXIpcohUE",
   "title": "Lost (Pola & Bryson Remix)",
   "artist": "Hybrid Minds",
-  "lastFetched": "2025-11-30T20:12:17.105Z",
+  "lastFetched": "2025-12-02T01:52:02.318Z",
   "odesli": {
     "amazonMusic": "B09H2N5VL1",
     "amazonStore": "B09H2N5VL1",
@@ -37,6 +37,17 @@
     "artistGenres": [
       "drum and bass",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2017-12-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002965287",
+      "discogs": "2597452",
+      "spotify": "05lF0DUkLJqiW5o70SScyR",
+      "deezer": "1396170",
+      "rateyourmusic": "hybrid_minds",
+      "soundcloud": "https://soundcloud.com/hybridminds",
+      "youtube": "UCxcHpkmprPi2wTMULhwjIbA"
+    }
   }
 }

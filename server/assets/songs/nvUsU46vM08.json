@@ -2,7 +2,7 @@
   "youtubeId": "nvUsU46vM08",
   "title": "Swerve It",
   "artist": "Bou",
-  "lastFetched": "2025-11-30T21:31:55.151Z",
+  "lastFetched": "2025-12-02T01:50:11.952Z",
   "odesli": {
     "amazonMusic": "B0CLSF765G",
     "amazonStore": "B0CLSF765G",
@@ -40,6 +40,13 @@
     "releaseCount": 1,
     "artistGenres": [
       "drum and bass"
-    ]
+    ],
+    "releasedAt": "2023-11-03",
+    "externalIdsArtist": {
+      "discogs": "7042360",
+      "spotify": "35dxfY1wywqVRUEaVuMm13",
+      "deezer": "4886285",
+      "soundcloud": "https://soundcloud.com/boudnb"
+    }
   }
 }

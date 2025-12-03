@@ -1,0 +1,82 @@
+{
+  "youtubeId": "cPCLFtxpadE",
+  "title": "Roundabout",
+  "artist": "YES",
+  "lastFetched": "2025-12-03T11:50:36.327Z",
+  "odesli": {
+    "amazonMusic": "B001L63H0C",
+    "amazonStore": "B001L63H0C",
+    "audiomack": "55583731",
+    "anghami": "10967577",
+    "boomplay": "47099430",
+    "deezer": "2607856",
+    "appleMusic": "1049009209",
+    "itunes": "1049009209",
+    "napster": "tra.809358550",
+    "pandora": "TR:76736",
+    "soundcloud": "yesofficial/roundabout-2008-remaster-1",
+    "spotify": "466C6kwoJHLUJ8VHG98hCY",
+    "tidal": "68714527",
+    "youtube": "cPCLFtxpadE",
+    "youtubeMusic": "cPCLFtxpadE"
+  },
+  "lastfm": {
+    "summary": "\"Roundabout\" is the opening track for the 1971 album Fragile by British progressive rock band Yes. The song was written by singer Jon Anderson and guitarist Steve Howe. In January 1972, an edited version of the song was released as a single with \"Long Distance Runaround\" on the B-side. \"Roundabout\" has become one of the best-known songs by Yes. Live versions of the song are found on the albums Yessongs  (1973), Keys to Ascension (1996), House of Yes: Live from House of Blues (2000), and Live at Montreux 2003 (2007). <a href=\"http://www.last.fm/music/Yes/_/Roundabout\">Read more on Last.fm</a>.",
+    "id": "Yes/_/Roundabout",
+    "listeners": 360668,
+    "playcount": 1973691,
+    "title": "Roundabout",
+    "artist": "Yes",
+    "mbid": "ea56898c-f554-4fa9-ba13-4ad175c1d120",
+    "artistMbid": "c1d4f2ba-cf39-460c-9528-6b827d3417a1",
+    "tags": [
+      "progressive rock",
+      "classic rock",
+      "70s",
+      "rock",
+      "yes"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3f065476-1721-4662-bbbd-c97e7c85d822",
+    "artistMbid": "c1d4f2ba-cf39-460c-9528-6b827d3417a1",
+    "releaseCount": 4,
+    "genres": [
+      "classic rock",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "aor",
+      "art rock",
+      "classic rock",
+      "disco",
+      "electronic",
+      "garage rock",
+      "hard rock",
+      "pop rock",
+      "progressive",
+      "progressive pop",
+      "progressive rock",
+      "psychedelic rock",
+      "rock",
+      "symphonic prog",
+      "synth-pop"
+    ],
+    "releasedAt": "1995-05-23",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000685647",
+      "discogs": "50263",
+      "spotify": "7AC976RDJzL2asmZuz7qil",
+      "deezer": "2711",
+      "lastfm": "Yes",
+      "genius": "Yes",
+      "rateyourmusic": "yes",
+      "soundcloud": "https://soundcloud.com/yesofficial",
+      "napster": "yes",
+      "wikidata": "Q184386",
+      "youtube": "UCtwW_44fofodl7K_12nXOEg"
+    }
+  }
+}

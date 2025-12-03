@@ -2,7 +2,7 @@
   "youtubeId": "xiMqvPYPvQ0",
   "title": "Mountain Time",
   "artist": "Joe Bonamassa",
-  "lastFetched": "2025-11-23T16:53:50.294Z",
+  "lastFetched": "2025-12-02T02:05:04.148Z",
   "musicbrainz": {
     "artistTags": [
       "blues",
@@ -18,7 +18,22 @@
       "rock"
     ],
     "trackMbid": "54087202-4128-45f5-97f6-0f5112f5b475",
-    "artistMbid": "984f8239-8fe1-4683-9c54-10ffb14439e9"
+    "artistMbid": "984f8239-8fe1-4683-9c54-10ffb14439e9",
+    "releasedAt": "2019",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000118243",
+      "discogs": "900313",
+      "spotify": "2SNzxY1OsSCHBLVi77mpPQ",
+      "deezer": "4781",
+      "lastfm": "Joe+Bonamassa",
+      "genius": "Joe-bonamassa",
+      "rateyourmusic": "joe-bonamassa-1",
+      "soundcloud": "https://soundcloud.com/joe-bonamassa",
+      "napster": "joe-bonamassa",
+      "wikidata": "Q347717",
+      "youtube": "UCMmOiXQLPGwWUXHuLsO5Wcg"
+    }
   },
   "lastfm": {
     "id": "Joe+Bonamassa/_/Mountain+Time",

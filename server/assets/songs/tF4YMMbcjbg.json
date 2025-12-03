@@ -2,7 +2,7 @@
   "youtubeId": "tF4YMMbcjbg",
   "title": "The Lesser Evil",
   "artist": "Earthside",
-  "lastFetched": "2025-11-30T22:42:18.246Z",
+  "lastFetched": "2025-12-02T01:58:42.370Z",
   "odesli": {
     "amazonMusic": "B0CC21P8LF",
     "amazonStore": "B0CC21P8LF",
@@ -32,6 +32,15 @@
       "post-rock",
       "progressive metal",
       "progressive rock"
-    ]
+    ],
+    "releasedAt": "2023-11-17",
+    "externalIdsArtist": {
+      "bandcamp": "https://earthside.bandcamp.com/",
+      "discogs": "4799361",
+      "spotify": "6mRDRKsNautYuxybddnvgg",
+      "deezer": "10824342",
+      "lastfm": "Earthside",
+      "rateyourmusic": "earthside"
+    }
   }
 }

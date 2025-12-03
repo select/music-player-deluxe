@@ -2,7 +2,7 @@
   "youtubeId": "WGFT33Yd0H0",
   "title": "Full Bloom",
   "artist": "Josiah Steinbrick",
-  "lastFetched": "2025-11-30T22:25:17.956Z",
+  "lastFetched": "2025-12-02T01:22:15.156Z",
   "odesli": {
     "amazonMusic": "B08DTD1VDV",
     "amazonStore": "B08DTD1VDV",
@@ -36,6 +36,14 @@
   "musicbrainz": {
     "trackMbid": "d8e67334-5be9-4638-9e75-9f5583377454",
     "artistMbid": "3143853f-44ce-49d5-b7ec-b59e8a6cf871",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2020-09-18",
+    "externalIdsArtist": {
+      "bandcamp": "https://josiahsteinbrick.bandcamp.com/",
+      "discogs": "1365857",
+      "spotify": "2t1feKJJZgzieczJ0oDmiP",
+      "deezer": "8568570",
+      "wikidata": "Q16221620"
+    }
   }
 }

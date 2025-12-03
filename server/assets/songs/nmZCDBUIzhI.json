@@ -2,7 +2,7 @@
   "youtubeId": "nmZCDBUIzhI",
   "title": "Summer Madness",
   "artist": "Mato",
-  "lastFetched": "2025-11-30T21:35:22.017Z",
+  "lastFetched": "2025-12-02T01:49:48.499Z",
   "odesli": {
     "soundcloud": "mato83990/summer-madness",
     "spotify": "45SiHmjLBcPWFsNFzB547Y",
@@ -27,6 +27,14 @@
   "musicbrainz": {
     "trackMbid": "ca071240-0eed-4993-92c0-3bee8a7d1789",
     "artistMbid": "7960bdc8-054e-4d5d-b18c-74c3eca76793",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2021-06-21",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "discogs": "1192800",
+      "spotify": "6MM8EVDP0fapYAeRGH2DkI",
+      "deezer": "171951",
+      "soundcloud": "https://soundcloud.com/mato-870059582"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "qBjbEi3dNOc",
   "title": "Tonight",
   "artist": "The Correspondents",
-  "lastFetched": "2025-11-30T19:55:51.297Z",
+  "lastFetched": "2025-12-02T01:53:57.302Z",
   "odesli": {
     "amazonMusic": "B074XM3XFH",
     "amazonStore": "B074XM3XFH",
@@ -40,6 +40,20 @@
       "jazz",
       "pop",
       "swing"
-    ]
+    ],
+    "releasedAt": "2017-09-22",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001098615",
+      "bandcamp": "https://correspondents.bandcamp.com/",
+      "discogs": "1760025",
+      "spotify": "3VvmUsYPzFheK2wJGKcXxp",
+      "deezer": "1179027",
+      "lastfm": "The+Correspondents",
+      "genius": "The-correspondents",
+      "soundcloud": "https://soundcloud.com/the-correspondents",
+      "wikidata": "Q7727671",
+      "youtube": "UCSj-RATmRC1rRxmvUlYxxTA"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "Z5k8JD93YxY",
   "title": "Kent - Revolt III [lyrics]",
-  "lastFetched": "2025-11-30T20:32:45.080Z",
+  "lastFetched": "2025-12-02T01:26:55.454Z",
   "ai": {
     "title": "Revolt III",
     "artist": "Kent"
@@ -28,6 +28,17 @@
       "indie rock",
       "pop",
       "rock"
-    ]
+    ],
+    "releasedAt": "1999-12-06",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000083281",
+      "discogs": "90653",
+      "spotify": "4KXp3xtaz1wWXnu5u34eVX",
+      "deezer": "8478506",
+      "rateyourmusic": "kent",
+      "soundcloud": "https://soundcloud.com/kenttheband",
+      "wikidata": "Q648786"
+    }
   }
 }

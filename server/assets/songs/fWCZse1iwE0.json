@@ -2,7 +2,7 @@
   "youtubeId": "fWCZse1iwE0",
   "title": "Gin and Juice",
   "artist": "Snoop Dogg",
-  "lastFetched": "2025-11-19T10:18:32.154Z",
+  "lastFetched": "2025-12-02T01:37:32.331Z",
   "odesli": {
     "amazonMusic": "B0BXVFXJGQ",
     "amazonStore": "B0BXVFXJGQ",
@@ -26,7 +26,25 @@
       "hip hop"
     ],
     "trackMbid": "55d6f36a-081c-42ee-b1fd-51de1ef5585d",
-    "artistMbid": "f90e8b26-9e52-4669-a5c9-e28529c47894"
+    "artistMbid": "f90e8b26-9e52-4669-a5c9-e28529c47894",
+    "releasedAt": "1993-11-23",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "39QBkWKnap8wRSW4WB9OK0"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000029086",
+      "discogs": "4400358",
+      "spotify": "7hJcb9fa4alzcOq3EaNPoG",
+      "deezer": "3",
+      "lastfm": "Snoop+Dogg",
+      "genius": "Snoop-dogg",
+      "rateyourmusic": "snoop-dogg",
+      "soundcloud": "https://soundcloud.com/snoopdogg",
+      "napster": "snoop-dogg",
+      "wikidata": "Q6096",
+      "youtube": "UC7xz_YipuZtypOuVALNzeog"
+    }
   },
   "lastfm": {
     "id": "Snoop+Dogg/_/Gin+and+Juice",

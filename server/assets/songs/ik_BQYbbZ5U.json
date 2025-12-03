@@ -1,0 +1,78 @@
+{
+  "youtubeId": "ik_BQYbbZ5U",
+  "title": "Heartbeats",
+  "artist": "José González",
+  "lastFetched": "2025-12-03T11:41:18.795Z",
+  "odesli": {
+    "amazonMusic": "B00IML6Z2G",
+    "amazonStore": "B00IML6Z2G",
+    "audiomack": "26468283",
+    "anghami": "1127973417",
+    "boomplay": "2341562",
+    "deezer": "75485502",
+    "appleMusic": "828118037",
+    "itunes": "828118037",
+    "napster": "tra.108304471",
+    "pandora": "TR:105799402",
+    "soundcloud": "josegonzalez/heartbeats",
+    "spotify": "5YqpHuXpFjDVZ7tY1ClFll",
+    "tidal": "35108305",
+    "yandex": "96357",
+    "youtube": "ik_BQYbbZ5U",
+    "youtubeMusic": "ik_BQYbbZ5U"
+  },
+  "lastfm": {
+    "summary": "This is a gentle acoustic rendition of an original song by The Knife.  <a href=\"http://www.last.fm/music/Jos%C3%A9+Gonz%C3%A1lez/_/Heartbeats\">Read more on Last.fm</a>.",
+    "id": "Jos%C3%A9+Gonz%C3%A1lez/_/Heartbeats",
+    "listeners": 1080473,
+    "playcount": 9614326,
+    "tags": [
+      "acoustic",
+      "chillout",
+      "indie",
+      "Mellow",
+      "singer-songwriter"
+    ],
+    "title": "Heartbeats",
+    "artist": "José González",
+    "mbid": "e9ba89bd-ab94-465a-8c6f-9d37b4b5d2cd",
+    "artistMbid": "cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8"
+  },
+  "musicbrainz": {
+    "trackMbid": "e9ba89bd-ab94-465a-8c6f-9d37b4b5d2cd",
+    "artistMbid": "cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8",
+    "releaseCount": 25,
+    "genres": [
+      "chillout",
+      "easy listening",
+      "folk",
+      "folk rock",
+      "indie folk",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "folk",
+      "folk rock",
+      "indie folk",
+      "indie rock",
+      "singer-songwriter"
+    ],
+    "releasedAt": "2003-10",
+    "artistCountry": "SE",
+    "externalIdsTrack": {
+      "spotify": "3jQyadhLTxpxadQlkFh2b8"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000867978",
+      "discogs": "190821",
+      "spotify": "6xrCU6zdcSTsG2hLrojpmI",
+      "deezer": "5613427",
+      "lastfm": "Jos%C3%A9+Gonz%C3%A1lez",
+      "genius": "Jose-gonzalez",
+      "rateyourmusic": "jose_gonzalez",
+      "soundcloud": "https://soundcloud.com/josegonzalez",
+      "wikidata": "Q315107",
+      "youtube": "UCUBq_9jeiAXNoSgNjEwGPAQ"
+    }
+  }
+}

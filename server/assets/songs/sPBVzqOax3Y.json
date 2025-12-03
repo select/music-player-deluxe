@@ -2,7 +2,7 @@
   "youtubeId": "sPBVzqOax3Y",
   "title": "Somebody's Story",
   "artist": "Solomun",
-  "lastFetched": "2025-11-30T19:29:57.600Z",
+  "lastFetched": "2025-12-02T01:57:31.852Z",
   "odesli": {
     "amazonMusic": "B0B37ZT4ZK",
     "amazonStore": "B0B37ZT4ZK",
@@ -36,6 +36,17 @@
       "edm",
       "electronic",
       "house"
-    ]
+    ],
+    "releasedAt": "2008-09-22",
+    "artistCountry": "BA",
+    "externalIdsArtist": {
+      "discogs": "925729",
+      "spotify": "5wJK4kQAkVGjqM9x46KQOC",
+      "deezer": "179975",
+      "rateyourmusic": "solomun",
+      "soundcloud": "https://soundcloud.com/solomun",
+      "wikidata": "Q1941178",
+      "youtube": "UCN8v8tNOCmaZaN-t4ynDdEA"
+    }
   }
 }

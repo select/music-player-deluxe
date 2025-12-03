@@ -2,7 +2,7 @@
   "youtubeId": "hqwU7nv3hTM",
   "title": "Fade Out Lines (The Avener Rework)",
   "artist": "The Avener",
-  "lastFetched": "2025-11-30T22:15:44.210Z",
+  "lastFetched": "2025-12-02T01:40:53.057Z",
   "odesli": {
     "amazonMusic": "B01JCY96TK",
     "amazonStore": "B01JCY96TK",
@@ -44,6 +44,18 @@
       "electro house",
       "french electro",
       "house"
-    ]
+    ],
+    "releasedAt": "2014-10-10",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0003237765",
+      "discogs": "669395",
+      "spotify": "0e6qzpphJHtObTSwD75mi0",
+      "deezer": "5283366",
+      "rateyourmusic": "the_avener",
+      "soundcloud": "https://soundcloud.com/tristancasara",
+      "wikidata": "Q18144072",
+      "youtube": "UCp0cfAAV320WWUjIPDq9OSg"
+    }
   }
 }

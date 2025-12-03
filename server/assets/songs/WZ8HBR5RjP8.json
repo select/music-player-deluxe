@@ -3,7 +3,7 @@
   "artist": "Commodo",
   "duration": 238,
   "youtubeId": "WZ8HBR5RjP8",
-  "lastFetched": "2025-11-23T16:41:16.120Z",
+  "lastFetched": "2025-12-02T01:22:44.215Z",
   "odesli": {
     "amazonMusic": "B08MWWGLB8",
     "amazonStore": "B08MWWGLB8",
@@ -26,7 +26,15 @@
     ],
     "trackMbid": "e12ce14f-239a-44ec-87f8-f68abda80de0",
     "artistMbid": "9c70d239-0b23-4237-be05-655c53d3af60",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2020-05-22",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://commodomusic.bandcamp.com/",
+      "discogs": "1435721",
+      "spotify": "2ZUJPPIpRK31hReRC22ZmT",
+      "deezer": "1420434"
+    }
   },
   "lastfm": {
     "id": "Commodo/_/Loan+Shark",

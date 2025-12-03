@@ -2,7 +2,7 @@
   "youtubeId": "xQR9QEOVmD8",
   "title": "Ormancı",
   "artist": "İbrahim Tatlıses",
-  "lastFetched": "2025-11-30T20:08:42.535Z",
+  "lastFetched": "2025-12-02T02:04:34.727Z",
   "odesli": {
     "amazonMusic": "B00G4R6304",
     "amazonStore": "B00G4R6304",
@@ -18,6 +18,16 @@
     "releaseCount": 2,
     "artistGenres": [
       "arabesk"
-    ]
+    ],
+    "releasedAt": "1996-08-22",
+    "artistCountry": "TR",
+    "externalIdsArtist": {
+      "discogs": "531810",
+      "spotify": "0gPgE6wLLiPnrakh9WcsdQ",
+      "deezer": "254617",
+      "genius": "Ibrahim-tatlses",
+      "wikidata": "Q343394",
+      "youtube": "UCz1sDPtUPQ7BytUJ4fttcKg"
+    }
   }
 }

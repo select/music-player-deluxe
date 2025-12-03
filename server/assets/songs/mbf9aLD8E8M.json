@@ -2,7 +2,7 @@
   "youtubeId": "mbf9aLD8E8M",
   "title": "Mouhamadou Bamba",
   "artist": "Orchestra Baobab",
-  "lastFetched": "2025-11-23T16:48:50.067Z",
+  "lastFetched": "2025-12-02T01:48:12.897Z",
   "odesli": {
     "amazonMusic": "B0815RSL85",
     "amazonStore": "B0815RSL85",
@@ -19,7 +19,17 @@
       "world"
     ],
     "trackMbid": "1eeaca74-6a09-49d4-9056-f821c0c919e3",
-    "artistMbid": "30331c85-26d4-4daa-9f66-3075cac4c20b"
+    "artistMbid": "30331c85-26d4-4daa-9f66-3075cac4c20b",
+    "artistCountry": "SN",
+    "externalIdsArtist": {
+      "allmusic": "mn0000891907",
+      "discogs": "82080",
+      "spotify": "7xT0arvCDupDU1YYy0BNv9",
+      "deezer": "9143",
+      "lastfm": "Orchestra%20Baobab",
+      "rateyourmusic": "orchestra_baobab",
+      "wikidata": "Q263471"
+    }
   },
   "lastfm": {
     "id": "Orchestra+Baobab/_/Mouhamadou+Bamba",

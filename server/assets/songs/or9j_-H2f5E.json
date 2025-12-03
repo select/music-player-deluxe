@@ -2,7 +2,7 @@
   "youtubeId": "or9j_-H2f5E",
   "title": "Vienen a Verme",
   "artist": "Los Mayitos De Sinaloa",
-  "lastFetched": "2025-12-01T12:55:48.816Z",
+  "lastFetched": "2025-12-02T01:51:42.909Z",
   "odesli": {
     "amazonMusic": "B096HHJ9Y4",
     "amazonStore": "B096HHJ9Y4",
@@ -12,6 +12,12 @@
   "musicbrainz": {
     "trackMbid": "a59bf542-ff3a-4f53-85d4-bc83367ac3f2",
     "artistMbid": "6bf3a433-2a3e-4d40-a00c-5258436b9148",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2020-06-20",
+    "artistCountry": "MX",
+    "externalIdsArtist": {
+      "allmusic": "mn0002725463",
+      "spotify": "0vnz9PZNUDprkhDBg3aF6R"
+    }
   }
 }

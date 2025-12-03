@@ -1,7 +1,7 @@
 {
   "youtubeId": "s245ptHGM2I",
   "title": "Megan by Smoking Popes",
-  "lastFetched": "2025-11-30T20:50:20.698Z",
+  "lastFetched": "2025-12-02T01:56:57.751Z",
   "ai": {
     "title": "Megan",
     "artist": "Smoking Popes"
@@ -35,6 +35,18 @@
       "pop punk",
       "power pop",
       "punk rock"
-    ]
+    ],
+    "releasedAt": "1997-08-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000036468",
+      "bandcamp": "https://smokingpopes.bandcamp.com/",
+      "discogs": "398014",
+      "spotify": "4PKAg3S6JyEG8N9wgjD0fu",
+      "deezer": "67907",
+      "lastfm": "Smoking+Popes",
+      "rateyourmusic": "smoking_popes",
+      "wikidata": "Q7546039"
+    }
   }
 }

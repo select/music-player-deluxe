@@ -2,7 +2,7 @@
   "youtubeId": "tGc8jL4dzao",
   "title": "Breed (Live At The Paramount)",
   "artist": "Nirvana",
-  "lastFetched": "2025-11-23T16:51:59.681Z",
+  "lastFetched": "2025-12-02T01:58:47.952Z",
   "odesli": {
     "amazonMusic": "B005KXXB2G",
     "amazonStore": "B005KXXB2G",
@@ -47,7 +47,22 @@
       "noise rock"
     ],
     "trackMbid": "7bdd5bd4-c485-462b-bcb4-19ad552f01d0",
-    "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da"
+    "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+    "releasedAt": "2011-09-23",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000357406",
+      "discogs": "125246",
+      "spotify": "6olE6TJLqED3rqDCT0FyPh",
+      "deezer": "415",
+      "lastfm": "Nirvana",
+      "genius": "Nirvana",
+      "rateyourmusic": "nirvana",
+      "soundcloud": "https://soundcloud.com/nirvana",
+      "napster": "nirvana",
+      "wikidata": "Q11649",
+      "youtube": "UCzGrGrvf9g8CVVzh_LvGf-g"
+    }
   },
   "lastfm": {
     "id": "Nirvana/_/Breed+(Live+At+The+Paramount)",

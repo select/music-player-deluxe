@@ -2,7 +2,7 @@
   "youtubeId": "qHgaJ5UI90M",
   "title": "Glory And Consequence",
   "artist": "Ben Harper",
-  "lastFetched": "2025-11-30T22:33:44.958Z",
+  "lastFetched": "2025-12-02T01:54:01.896Z",
   "odesli": {
     "amazonMusic": "B000SXM0U2",
     "amazonStore": "B000SXM0U2",
@@ -41,6 +41,20 @@
       "rock",
       "singer-songwriter",
       "soul"
-    ]
+    ],
+    "releasedAt": "2001-04-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001063103",
+      "discogs": "42599",
+      "spotify": "45lorWzrKLxfKlWpV7r9CN",
+      "deezer": "249",
+      "lastfm": "Ben+Harper+and+Relentless7",
+      "genius": "Ben-harper",
+      "rateyourmusic": "ben-harper",
+      "soundcloud": "https://soundcloud.com/ben-harper",
+      "wikidata": "Q380849",
+      "youtube": "UCQDfDVFPX4TxzD8pJXX5OpA"
+    }
   }
 }

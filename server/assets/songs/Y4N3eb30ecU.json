@@ -1,7 +1,7 @@
 {
   "youtubeId": "Y4N3eb30ecU",
   "title": "SHELTER - Mantra (Full Album)",
-  "lastFetched": "2025-11-30T20:35:10.525Z",
+  "lastFetched": "2025-12-02T01:25:20.355Z",
   "ai": {
     "title": "Mantra",
     "artist": "SHELTER"
@@ -23,6 +23,17 @@
   "musicbrainz": {
     "trackMbid": "352f5d49-acfd-4bba-a630-424ee9c21b25",
     "artistMbid": "d5157104-76b1-4b8b-90c2-9ff994f940db",
-    "releaseCount": 4
+    "releaseCount": 4,
+    "releasedAt": "1995-08-08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000749390",
+      "discogs": "260020",
+      "spotify": "4vTTRvwORrfvMOUb3OOUTy",
+      "deezer": "81341",
+      "lastfm": "Shelter",
+      "rateyourmusic": "shelter",
+      "wikidata": "Q2001971"
+    }
   }
 }

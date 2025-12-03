@@ -2,7 +2,7 @@
   "youtubeId": "okJR-fljLHc",
   "title": "Freunde sind Friends",
   "artist": "Fraktus",
-  "lastFetched": "2025-11-30T21:30:55.208Z",
+  "lastFetched": "2025-12-02T01:51:29.871Z",
   "odesli": {
     "amazonMusic": "B01N5NPTI9",
     "amazonStore": "B01N5NPTI9",
@@ -34,6 +34,11 @@
   "musicbrainz": {
     "trackMbid": "d5639048-6c11-4d8d-9887-6c67f166d753",
     "artistMbid": "4341463c-3bc5-483a-bcff-d32e4650c9b6",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2015-11-27",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "758595"
+    }
   }
 }

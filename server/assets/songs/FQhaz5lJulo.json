@@ -1,0 +1,51 @@
+{
+  "youtubeId": "FQhaz5lJulo",
+  "title": "Foldin Clothes",
+  "artist": "J. Cole",
+  "lastFetched": "2025-12-03T11:46:45.085Z",
+  "odesli": {
+    "amazonMusic": "B01N9F6UP7",
+    "amazonStore": "B01N9F6UP7",
+    "boomplay": "2642767",
+    "appleMusic": "1440924590",
+    "itunes": "1440924590",
+    "soundcloud": "j-cole/foldin-clothes-1",
+    "spotify": "77IAeEz8LEchPN8UNjaTJ2",
+    "youtube": "FQhaz5lJulo",
+    "youtubeMusic": "FQhaz5lJulo"
+  },
+  "lastfm": {
+    "id": "J.+Cole/_/Foldin+Clothes",
+    "listeners": 172571,
+    "playcount": 1193250,
+    "title": "Foldin Clothes",
+    "artist": "J. Cole",
+    "mbid": "346c038a-1bd5-43f6-9bb5-b6e805e219b2",
+    "artistMbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+    "tags": [
+      "j cole",
+      "rap",
+      "hip-hop",
+      "intelligent"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f3997e75-ab27-494e-b93e-d38b19ebdb9b",
+    "artistMbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+    "releaseCount": 3,
+    "artistGenres": [
+      "hip hop"
+    ],
+    "releasedAt": "2016-12-09",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002596035",
+      "discogs": "750828",
+      "spotify": "6l3HvQ5sa6mXTsMTB19rO5",
+      "deezer": "339209",
+      "rateyourmusic": "j__cole",
+      "soundcloud": "https://soundcloud.com/j-cole",
+      "wikidata": "Q204018"
+    }
+  }
+}

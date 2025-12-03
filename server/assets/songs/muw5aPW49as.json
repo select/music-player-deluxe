@@ -2,7 +2,7 @@
   "youtubeId": "muw5aPW49as",
   "title": "Dunst",
   "artist": "Die Nerven",
-  "lastFetched": "2025-11-19T15:30:51.136Z",
+  "lastFetched": "2025-12-02T01:48:36.781Z",
   "odesli": {
     "amazonMusic": "B0799S9Z8W",
     "amazonStore": "B0799S9Z8W",
@@ -31,6 +31,10 @@
   },
   "musicbrainz": {
     "trackMbid": "18863fe1-ca00-4960-b148-af04be1bd3aa",
-    "artistMbid": "4b123fba-8458-44d9-a64c-a469029fde9b"
+    "artistMbid": "4b123fba-8458-44d9-a64c-a469029fde9b",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "discogs": "4528965"
+    }
   }
 }

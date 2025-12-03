@@ -3,7 +3,7 @@
   "artist": "Kwashibu Area Band",
   "duration": 230,
   "youtubeId": "sLsJbsiE8PQ",
-  "lastFetched": "2025-11-19T05:31:37.623Z",
+  "lastFetched": "2025-12-02T01:57:26.210Z",
   "odesli": {
     "amazonMusic": "B0DWG7DWZS",
     "amazonStore": "B0DWG7DWZS",
@@ -27,6 +27,16 @@
   "musicbrainz": {
     "trackMbid": "8ba5a5f1-9b50-4582-8585-1613406f30c7",
     "artistMbid": "b1b19d69-d5b3-468f-a715-c2e3baabf3c6",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-04-11",
+    "externalIdsTrack": {
+      "spotify": "0Z8OLCjrLRCAQOz5ogPMTe",
+      "deezer": "3216541051"
+    },
+    "externalIdsArtist": {
+      "discogs": "4409793",
+      "spotify": "53PQcfQVWV5FU1Mh7Of1yP",
+      "deezer": "7838910"
+    }
   }
 }

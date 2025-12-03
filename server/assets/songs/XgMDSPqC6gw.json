@@ -2,7 +2,7 @@
   "youtubeId": "XgMDSPqC6gw",
   "title": "Releasing the Demons",
   "artist": "Godsmack",
-  "lastFetched": "2025-11-23T16:41:42.673Z",
+  "lastFetched": "2025-12-02T01:24:43.345Z",
   "odesli": {
     "amazonMusic": "B0736KLM49",
     "amazonStore": "B0736KLM49",
@@ -40,7 +40,21 @@
       "metal"
     ],
     "trackMbid": "8bf9ecbe-ca27-389b-b5ff-68d018e21d5f",
-    "artistMbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2"
+    "artistMbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000665860",
+      "discogs": "251883",
+      "spotify": "6gZq1Q6bdOxsUPUG1TaFbF",
+      "deezer": "534",
+      "lastfm": "Godsmack",
+      "genius": "Godsmack",
+      "rateyourmusic": "godsmack",
+      "soundcloud": "https://soundcloud.com/godsmack-official",
+      "napster": "godsmack",
+      "wikidata": "Q207306",
+      "youtube": "UCAekf1Wstvqk5LeNNHuMlDg"
+    }
   },
   "lastfm": {
     "id": "Godsmack/_/Releasing+the+Demons",

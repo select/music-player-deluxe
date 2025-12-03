@@ -2,7 +2,7 @@
   "youtubeId": "nYfqxcKp5HY",
   "title": "Santa Maria",
   "artist": "Roland Kaiser",
-  "lastFetched": "2025-11-30T22:11:04.572Z",
+  "lastFetched": "2025-12-02T01:49:31.122Z",
   "odesli": {
     "amazonMusic": "B002ATCP1G",
     "amazonStore": "B002ATCP1G",
@@ -35,6 +35,21 @@
     "releaseCount": 2,
     "artistGenres": [
       "schlager"
-    ]
+    ],
+    "releasedAt": "2020-05-29",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000372946",
+      "discogs": "345413",
+      "spotify": "1uphmI1bErhHslREq9QusL",
+      "deezer": "70387",
+      "lastfm": "Roland+Kaiser",
+      "genius": "Roland-kaiser",
+      "rateyourmusic": "roland-kaiser",
+      "soundcloud": "https://soundcloud.com/roland-kaiser-official",
+      "napster": "art.10965112",
+      "wikidata": "Q69263",
+      "youtube": "UCtqi0viP-suK-okUQfaw8Ew"
+    }
   }
 }

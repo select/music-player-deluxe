@@ -2,7 +2,7 @@
   "youtubeId": "XnBbjc5hmho",
   "title": "Jaan Pehchan Ho",
   "artist": "Mohammed Rafi",
-  "lastFetched": "2025-11-30T23:28:53.500Z",
+  "lastFetched": "2025-12-02T01:24:53.651Z",
   "lastfm": {
     "id": "Mohammed+Rafi/_/Jaan+Pehchan+Ho",
     "listeners": 8211,
@@ -21,6 +21,15 @@
     "releaseCount": 12,
     "artistGenres": [
       "filmi"
-    ]
+    ],
+    "releasedAt": "1965",
+    "artistCountry": "IN",
+    "externalIdsArtist": {
+      "discogs": "386904",
+      "spotify": "7snlvcS2iyIfGOZdnBZ3aC",
+      "deezer": "8033",
+      "genius": "Mohammed-rafi",
+      "wikidata": "Q156815"
+    }
   }
 }

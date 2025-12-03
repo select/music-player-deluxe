@@ -2,7 +2,7 @@
   "youtubeId": "ZMnrlAYUypE",
   "title": "State of the Nation",
   "artist": "Fad Gadget",
-  "lastFetched": "2025-11-30T21:58:01.934Z",
+  "lastFetched": "2025-12-02T01:27:31.850Z",
   "odesli": {
     "amazonMusic": "B00IL4I6SU",
     "amazonStore": "B00IL4I6SU",
@@ -49,6 +49,17 @@
       "post-punk",
       "rock",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "1980-09-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000790078",
+      "discogs": "2705",
+      "spotify": "69B23qT57XPnfhb9DSR9ag",
+      "deezer": "210653",
+      "rateyourmusic": "fad_gadget",
+      "youtube": "UCBhsedWG9h5daYpSl7wqY_Q",
+      "wikidata": "Q1444339"
+    }
   }
 }

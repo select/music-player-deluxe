@@ -1,0 +1,38 @@
+{
+  "youtubeId": "A4jnJqLbh2g",
+  "title": "Raw",
+  "artist": "MEUTE",
+  "lastFetched": "2025-12-03T11:45:52.735Z",
+  "odesli": {
+    "amazonMusic": "B0FDLF844R",
+    "amazonStore": "B0FDLF844R",
+    "appleMusic": "1490092885",
+    "itunes": "1490092885",
+    "pandora": "TR:26823830",
+    "soundcloud": "meutesound/raw-meute-original",
+    "spotify": "4G3oFJE6aei1ygJVinVt1O",
+    "tidal": "124236125",
+    "yandex": "60432611",
+    "youtube": "A4jnJqLbh2g",
+    "youtubeMusic": "A4jnJqLbh2g"
+  },
+  "lastfm": {
+    "id": "Meute/_/Raw",
+    "listeners": 6049,
+    "playcount": 22107,
+    "title": "Raw",
+    "artist": "Meute",
+    "mbid": "cb6182de-6aef-4309-9a31-300b54a89067",
+    "tags": [
+      "germany",
+      "techno",
+      "marching band",
+      "progressive house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "514c8bb9-2bba-4c2f-b30d-b0024761fff2",
+    "artistMbid": "51692530-fb26-4626-9ca1-703aac6f2bc4",
+    "releaseCount": 4
+  }
+}

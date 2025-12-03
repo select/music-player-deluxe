@@ -2,7 +2,7 @@
   "youtubeId": "ioMuDdNPIxQ",
   "title": "No Waves",
   "artist": "FIDLAR",
-  "lastFetched": "2025-11-30T20:40:36.074Z",
+  "lastFetched": "2025-12-02T01:42:16.825Z",
   "odesli": {
     "amazonMusic": "B0CPTL389Z",
     "amazonStore": "B0CPTL389Z",
@@ -40,6 +40,19 @@
       "garage rock",
       "skate punk",
       "surf"
-    ]
+    ],
+    "releasedAt": "2012-03-13",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002674457",
+      "bandcamp": "https://fidlar.bandcamp.com/",
+      "discogs": "2660605",
+      "spotify": "3P6duIn7oHeiBACZfYeNud",
+      "deezer": "1295761",
+      "lastfm": "FIDLAR",
+      "rateyourmusic": "fidlar",
+      "soundcloud": "https://soundcloud.com/fidlar",
+      "wikidata": "Q4038524"
+    }
   }
 }

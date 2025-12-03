@@ -2,7 +2,7 @@
   "youtubeId": "g-i7P5tZVp8",
   "title": "Pookie",
   "artist": "Aya Nakamura",
-  "lastFetched": "2025-11-30T21:45:24.721Z",
+  "lastFetched": "2025-12-02T01:38:11.596Z",
   "odesli": {
     "amazonMusic": "B07Z86XZLF",
     "amazonStore": "B07Z86XZLF",
@@ -35,6 +35,23 @@
       "afrobeats",
       "alternative r&b",
       "r&b"
-    ]
+    ],
+    "releasedAt": "2018-11-02",
+    "artistCountry": "FR",
+    "externalIdsTrack": {
+      "spotify": "78Bmv5qXjCTSGMXsLRWi23",
+      "deezer": "781478012"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003438277",
+      "discogs": "4814288",
+      "spotify": "7IlRNXHjoOCgEAWN5qYksg",
+      "deezer": "8909272",
+      "lastfm": "Aya+Nakamura",
+      "genius": "Aya-nakamura",
+      "rateyourmusic": "aya-nakamura",
+      "soundcloud": "https://soundcloud.com/ayanakamura",
+      "wikidata": "Q37793136"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "jPeheoBa2_Y",
   "title": "Army of Me",
   "artist": "Björk",
-  "lastFetched": "2025-11-19T14:55:38.321Z",
+  "lastFetched": "2025-12-02T01:43:02.673Z",
   "musicbrainz": {
     "tags": [
       "electronic",
@@ -12,7 +12,21 @@
       "bjork"
     ],
     "trackMbid": "048b65f3-8177-49e1-8809-1439a13ff793",
-    "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb"
+    "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
+    "artistCountry": "IS",
+    "externalIdsArtist": {
+      "allmusic": "mn0000769444",
+      "bandcamp": "https://bjork.bandcamp.com/",
+      "discogs": "517951",
+      "spotify": "7w29UYBi0qsHi5RTcv3lmA",
+      "deezer": "630",
+      "lastfm": "Bj%C3%B6rk",
+      "genius": "Bjork",
+      "rateyourmusic": "bjork",
+      "soundcloud": "https://soundcloud.com/bjork",
+      "wikidata": "Q42455",
+      "youtube": "UCAjidy3vxRkgGVNIFqZMl_Q"
+    }
   },
   "lastfm": {
     "id": "Bj%C3%B6rk/_/Army+of+Me",

@@ -3,7 +3,7 @@
   "artist": "Rosinha de Valença",
   "duration": 371,
   "youtubeId": "hxi_qliU3DE",
-  "lastFetched": "2025-11-30T23:41:06.547Z",
+  "lastFetched": "2025-12-02T01:41:00.666Z",
   "name": "Consolação",
   "lastfm": {
     "id": "Rosinha+de+Valen%C3%A7a/_/Consola%C3%A7%C3%A3o",
@@ -20,6 +20,13 @@
   "musicbrainz": {
     "artistMbid": "ed6192aa-3abb-4c0b-849e-24eae2ec60ea",
     "releaseCount": 2,
-    "trackMbid": "9b7c5ade-8d31-441c-b7f3-4065ce213551"
+    "trackMbid": "9b7c5ade-8d31-441c-b7f3-4065ce213551",
+    "releasedAt": "1998-04-24",
+    "artistCountry": "BR",
+    "externalIdsArtist": {
+      "discogs": "478643",
+      "spotify": "3PaJldxyhusOBLFXRkI36B",
+      "wikidata": "Q7368971"
+    }
   }
 }

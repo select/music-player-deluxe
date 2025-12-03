@@ -1,0 +1,48 @@
+{
+  "youtubeId": "FjTqI7vkb6E",
+  "title": "We Forgot We Were Human",
+  "artist": "Dirt Poor Robins",
+  "lastFetched": "2025-12-03T11:43:46.915Z",
+  "odesli": {
+    "amazonMusic": "B081L83WNT",
+    "amazonStore": "B081L83WNT",
+    "deezer": "1366816912",
+    "appleMusic": "1566690309",
+    "itunes": "1566690309",
+    "pandora": "TR:44605389",
+    "soundcloud": "premiumtrash/dirt-poor-robins-we-forgot-we",
+    "spotify": "0cqQ6dShatfYiIMjYFDuON",
+    "tidal": "122656635",
+    "youtube": "FjTqI7vkb6E",
+    "youtubeMusic": "FjTqI7vkb6E"
+  },
+  "lastfm": {
+    "id": "Dirt+Poor+Robins/_/We+Forgot+We+Were+Human",
+    "listeners": 7083,
+    "playcount": 65142,
+    "title": "We Forgot We Were Human",
+    "artist": "Dirt Poor Robins",
+    "mbid": "03987e22-5f87-4023-baf5-ecaae06b9319",
+    "artistMbid": "48104fe6-2006-49c0-87dd-ba077c798d8d",
+    "tags": [
+      "rock",
+      "female vocalists",
+      "indie",
+      "american"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "429067ce-9ad2-487d-9a53-d551e2f8de78",
+    "artistMbid": "48104fe6-2006-49c0-87dd-ba077c798d8d",
+    "releaseCount": 2,
+    "releasedAt": "2013-11-19",
+    "externalIdsArtist": {
+      "allmusic": "mn0001895552",
+      "bandcamp": "https://dirtpoorrobins.bandcamp.com/",
+      "discogs": "6003973",
+      "deezer": "1266479",
+      "lastfm": "Dirt+Poor+Robins",
+      "rateyourmusic": "dirt-poor-robins"
+    }
+  }
+}

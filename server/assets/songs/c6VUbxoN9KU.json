@@ -1,7 +1,7 @@
 {
   "youtubeId": "c6VUbxoN9KU",
   "title": "DEAD CAN DANCE - Mesmerism",
-  "lastFetched": "2025-12-01T11:51:55.623Z",
+  "lastFetched": "2025-12-02T01:32:41.508Z",
   "ai": {
     "title": "Mesmerism",
     "artist": "DEAD CAN DANCE"
@@ -41,6 +41,18 @@
       "neoclassical dark wave",
       "new age",
       "post-punk"
-    ]
+    ],
+    "releasedAt": "1985-11-25",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000225948",
+      "discogs": "12368",
+      "spotify": "6sq7prp0tj9Abn89khmfja",
+      "deezer": "605",
+      "lastfm": "Dead+Can+Dance",
+      "genius": "Dead-can-dance",
+      "rateyourmusic": "dead_can_dance",
+      "wikidata": "Q324400"
+    }
   }
 }

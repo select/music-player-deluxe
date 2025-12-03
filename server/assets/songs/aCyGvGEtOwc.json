@@ -2,7 +2,7 @@
   "youtubeId": "aCyGvGEtOwc",
   "title": "Misery Business",
   "artist": "Paramore",
-  "lastFetched": "2025-12-01T12:58:32.090Z",
+  "lastFetched": "2025-12-02T01:30:14.873Z",
   "odesli": {
     "amazonMusic": "B0030DEKMI",
     "amazonStore": "B0030DEKMI",
@@ -60,6 +60,21 @@
       "pop rock",
       "power pop",
       "rock"
-    ]
+    ],
+    "releasedAt": "2007-04-17",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000366681",
+      "discogs": "609563",
+      "spotify": "74XFHRwlV6OrjEM0A2NCMF",
+      "deezer": "10977",
+      "lastfm": "Paramore",
+      "genius": "Paramore",
+      "rateyourmusic": "paramore",
+      "soundcloud": "https://soundcloud.com/paramore",
+      "napster": "paramore",
+      "wikidata": "Q473466",
+      "youtube": "UCl2qVCHeUjL3lCnSCrKxtoQ"
+    }
   }
 }

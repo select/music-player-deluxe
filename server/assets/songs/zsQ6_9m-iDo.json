@@ -2,7 +2,7 @@
   "youtubeId": "zsQ6_9m-iDo",
   "title": "Sing",
   "artist": "Blur",
-  "lastFetched": "2025-11-23T16:55:00.309Z",
+  "lastFetched": "2025-12-02T02:08:31.837Z",
   "odesli": {
     "amazonMusic": "B002FTIKKG",
     "amazonStore": "B002FTIKKG",
@@ -36,7 +36,20 @@
       "grunge"
     ],
     "trackMbid": "128c5410-32ee-431a-8950-8dfe2e853bb0",
-    "artistMbid": "ba853904-ae25-4ebb-89d6-c44cfbd71bd2"
+    "artistMbid": "ba853904-ae25-4ebb-89d6-c44cfbd71bd2",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000758444",
+      "discogs": "7551",
+      "spotify": "7MhMgCo0Bl0Kukl93PZbYS",
+      "deezer": "743",
+      "lastfm": "Blur",
+      "genius": "Blur",
+      "rateyourmusic": "blur",
+      "soundcloud": "https://soundcloud.com/blurofficial",
+      "wikidata": "Q485820",
+      "youtube": "UCLWtClAPLK7uy8us5jxvrMA"
+    }
   },
   "lastfm": {
     "id": "Blur/_/Sing",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "aW8UnXzP3ms",
   "title": "Why - Carly Simon",
-  "lastFetched": "2025-11-30T19:47:04.538Z",
+  "lastFetched": "2025-12-02T01:30:36.847Z",
   "ai": {
     "title": "Why",
     "artist": "Carly Simon"
@@ -40,6 +40,22 @@
       "pop rock",
       "rock",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "1982-05-24",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "3hI05NM8JnJvQLZMUnRvMa",
+      "deezer": "89339015"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000147635",
+      "discogs": "36603",
+      "spotify": "4FtSnMlCVxCswABUmdhwpm",
+      "deezer": "2910",
+      "lastfm": "Carly+Simon",
+      "genius": "Carly-simon",
+      "rateyourmusic": "carly_simon",
+      "wikidata": "Q181683"
+    }
   }
 }

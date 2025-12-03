@@ -2,7 +2,7 @@
   "youtubeId": "pKtSoSyAxcs",
   "title": "Ingoina Le Nyathi",
   "artist": "Intombi Zephepha",
-  "lastFetched": "2025-11-19T17:37:26.223Z",
+  "lastFetched": "2025-12-02T01:52:28.465Z",
   "odesli": {
     "amazonMusic": "B0037B9P6Y",
     "amazonStore": "B0037B9P6Y",
@@ -21,6 +21,9 @@
   },
   "musicbrainz": {
     "trackMbid": "e7243be9-5d90-3007-b56e-11f281f2b4c5",
-    "artistMbid": "736cd91d-5b1a-41cd-925b-217df9bda11c"
+    "artistMbid": "736cd91d-5b1a-41cd-925b-217df9bda11c",
+    "externalIdsArtist": {
+      "discogs": "1589829"
+    }
   }
 }

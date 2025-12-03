@@ -2,7 +2,7 @@
   "youtubeId": "jyvo6gY9zLA",
   "title": "Megalomaniac",
   "artist": "Incubus",
-  "lastFetched": "2025-11-23T16:47:18.646Z",
+  "lastFetched": "2025-12-02T01:43:56.432Z",
   "odesli": {
     "amazonMusic": "B0045L1QU8",
     "amazonStore": "B0045L1QU8",
@@ -32,7 +32,20 @@
       "nu metal"
     ],
     "trackMbid": "0456ed91-c52a-3c81-bcc0-d5b42a80c0df",
-    "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5"
+    "artistMbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000772745",
+      "discogs": "149192",
+      "spotify": "3YcBF2ttyueytpXtEzn1Za",
+      "deezer": "693",
+      "lastfm": "Incubus",
+      "genius": "Incubus",
+      "rateyourmusic": "incubus",
+      "soundcloud": "https://soundcloud.com/incubus",
+      "wikidata": "Q1661036",
+      "youtube": "UCjvwoDIrMmlSOINUPZWM3CA"
+    }
   },
   "lastfm": {
     "id": "Incubus/_/Megalomaniac",

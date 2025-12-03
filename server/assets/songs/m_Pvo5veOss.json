@@ -1,7 +1,7 @@
 {
   "youtubeId": "m_Pvo5veOss",
   "title": "Max Raabe - Der perfekte Moment… wird heut verpennt",
-  "lastFetched": "2025-11-30T20:25:14.296Z",
+  "lastFetched": "2025-12-02T01:48:06.325Z",
   "ai": {
     "title": "Der perfekte Moment… wird heut verpennt",
     "artist": "Max Raabe & Palast Orchester"
@@ -27,6 +27,15 @@
     "artistGenres": [
       "kabarett",
       "old-time"
-    ]
+    ],
+    "releasedAt": "2019-11-22",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001017057",
+      "discogs": "635139",
+      "deezer": "69931",
+      "rateyourmusic": "max_raabe_and_palast_orchester",
+      "wikidata": "Q1303952"
+    }
   }
 }

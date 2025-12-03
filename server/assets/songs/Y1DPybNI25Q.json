@@ -1,7 +1,7 @@
 {
   "youtubeId": "Y1DPybNI25Q",
   "title": "Avicii - Wake Me Up ( 1$ Cover )",
-  "lastFetched": "2025-11-30T20:10:08.089Z",
+  "lastFetched": "2025-12-02T01:25:15.349Z",
   "ai": {
     "title": "Wake Me Up",
     "artist": "Avicii"
@@ -51,6 +51,24 @@
       "house",
       "progressive house",
       "tropical house"
-    ]
+    ],
+    "releasedAt": "2013-06-19",
+    "artistCountry": "SE",
+    "externalIdsTrack": {
+      "spotify": "7cbCsw8nDcHe0iV6w5IgH7",
+      "deezer": "3318189231"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002393596",
+      "discogs": "1235958",
+      "spotify": "1vCWHaC5f2uS3yhpwWbIA6",
+      "deezer": "293585",
+      "lastfm": "Avicii",
+      "genius": "Avicii",
+      "rateyourmusic": "avicii",
+      "soundcloud": "https://soundcloud.com/aviciiofficial",
+      "wikidata": "Q505476",
+      "youtube": "UCPHjpfnnGklkRBBTd0k6aHg"
+    }
   }
 }

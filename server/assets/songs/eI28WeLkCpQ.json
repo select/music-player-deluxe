@@ -2,7 +2,7 @@
   "youtubeId": "eI28WeLkCpQ",
   "title": "Standing in the Sun",
   "artist": "Grouplove",
-  "lastFetched": "2025-12-01T13:04:12.255Z",
+  "lastFetched": "2025-12-02T01:36:00.167Z",
   "odesli": {
     "amazonMusic": "B074NH7LTR",
     "amazonStore": "B074NH7LTR",
@@ -44,6 +44,18 @@
       "indie rock",
       "pop",
       "rock"
-    ]
+    ],
+    "releasedAt": "2016-09-09",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002538809",
+      "discogs": "2038524",
+      "spotify": "3kVUvbeRdcrqQ3oHk5hPdx",
+      "deezer": "483428",
+      "lastfm": "Grouplove",
+      "rateyourmusic": "grouplove",
+      "soundcloud": "https://soundcloud.com/grouplove",
+      "wikidata": "Q1153346"
+    }
   }
 }

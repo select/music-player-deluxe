@@ -2,7 +2,7 @@
   "youtubeId": "l4uzAADWe00",
   "title": "In Every Dream Home a Heartache",
   "artist": "Roxy Music",
-  "lastFetched": "2025-11-23T16:47:59.784Z",
+  "lastFetched": "2025-12-02T01:45:34.581Z",
   "odesli": {
     "amazonMusic": "B000SX9W5S",
     "amazonStore": "B000SX9W5S",
@@ -42,7 +42,17 @@
       "new wave"
     ],
     "trackMbid": "080f0584-96c7-383a-a059-9879dda4fce5",
-    "artistMbid": "331ce348-1b08-40b9-8ed7-0763b92bd003"
+    "artistMbid": "331ce348-1b08-40b9-8ed7-0763b92bd003",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000852855",
+      "discogs": "56621",
+      "spotify": "3fhOTtm0LBJ3Ojn4hIljLo",
+      "deezer": "1157",
+      "lastfm": "Roxy+Music",
+      "rateyourmusic": "roxy_music",
+      "wikidata": "Q334648"
+    }
   },
   "lastfm": {
     "id": "Roxy+Music/_/In+Every+Dream+Home+a+Heartache",

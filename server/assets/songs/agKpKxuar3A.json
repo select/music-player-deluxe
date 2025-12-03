@@ -2,7 +2,7 @@
   "youtubeId": "agKpKxuar3A",
   "title": "Brick and Mortar",
   "artist": "Sir Richard Bishop",
-  "lastFetched": "2025-11-19T16:20:44.115Z",
+  "lastFetched": "2025-12-02T01:31:00.723Z",
   "odesli": {
     "amazonMusic": "B01IW54TAG",
     "amazonStore": "B01IW54TAG",
@@ -30,6 +30,16 @@
   },
   "musicbrainz": {
     "trackMbid": "65170171-f6ee-44a9-94fc-b6acafd44c80",
-    "artistMbid": "a444f8ff-2f8b-438b-a680-32c1f393244b"
+    "artistMbid": "a444f8ff-2f8b-438b-a680-32c1f393244b",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000945019",
+      "discogs": "316007",
+      "spotify": "36GbLKvZbVebDmu6hS6Zfa",
+      "deezer": "275085",
+      "lastfm": "Sir%20Richard%20Bishop",
+      "rateyourmusic": "sir-richard-bishop",
+      "wikidata": "Q1149764"
+    }
   }
 }

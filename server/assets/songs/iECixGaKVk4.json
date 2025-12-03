@@ -2,7 +2,7 @@
   "youtubeId": "iECixGaKVk4",
   "title": "Broken Boy",
   "artist": "Cage the Elephant",
-  "lastFetched": "2025-11-23T16:46:47.608Z",
+  "lastFetched": "2025-12-02T01:41:32.126Z",
   "odesli": {
     "amazonMusic": "B07N8YS2N6",
     "amazonStore": "B07N8YS2N6",
@@ -37,7 +37,19 @@
       "indie rock"
     ],
     "trackMbid": "8ae7c44e-45dd-44ca-8221-298a58df03c9",
-    "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696"
+    "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001061166",
+      "discogs": "1213263",
+      "spotify": "26T3LtbuGT1Fu9m0eRq5X3",
+      "deezer": "214810",
+      "lastfm": "Cage+the+Elephant",
+      "genius": "Cage-the-elephant",
+      "rateyourmusic": "cage_the_elephant",
+      "soundcloud": "https://soundcloud.com/cagetheelephant",
+      "wikidata": "Q68061"
+    }
   },
   "lastfm": {
     "id": "Cage+the+Elephant/_/Broken+Boy",

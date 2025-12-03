@@ -1,7 +1,7 @@
 {
   "youtubeId": "ZRppgz4BDSA",
   "title": "Mi Son - Sí, Soy El Son - Mecanica De Amor",
-  "lastFetched": "2025-11-30T23:33:54.482Z",
+  "lastFetched": "2025-12-02T01:27:36.713Z",
   "ai": {
     "title": "Sí, Soy El Son",
     "artist": "Mi Son"
@@ -9,6 +9,11 @@
   "musicbrainz": {
     "trackMbid": "41a241d7-1de2-459d-b4f2-b901be184b4f",
     "artistMbid": "c70cd81b-55b1-4c69-92ac-f9ce3ad54ce9",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "1994",
+    "externalIdsArtist": {
+      "discogs": "800631",
+      "spotify": "0b7DTk0ApTwTzLEXDcA6XH"
+    }
   }
 }

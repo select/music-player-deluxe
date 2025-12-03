@@ -1,0 +1,41 @@
+{
+  "youtubeId": "whhI4Bmr_HU",
+  "title": "Kellylee Evans   Lose Yourself",
+  "lastFetched": "2025-12-03T12:03:27.184Z",
+  "ai": {
+    "title": "Lose Yourself",
+    "artist": "Kellylee Evans"
+  },
+  "lastfm": {
+    "id": "Kellylee+Evans/_/Lose+Yourself",
+    "listeners": 3563,
+    "playcount": 14315,
+    "title": "Lose Yourself",
+    "artist": "Kellylee Evans",
+    "mbid": "081e10a0-4858-47ab-949e-34b533b913e8",
+    "artistMbid": "8b2d19f1-e8a2-40d4-8fcc-a8712aa8042f",
+    "tags": [
+      "jazz",
+      "soul",
+      "female vocalists",
+      "pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c5fb1c81-a581-49d3-b3b4-f924216b295a",
+    "artistMbid": "8b2d19f1-e8a2-40d4-8fcc-a8712aa8042f",
+    "releaseCount": 2,
+    "artistGenres": [
+      "blues",
+      "jazz",
+      "soul"
+    ],
+    "releasedAt": "2013",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0001017578",
+      "discogs": "2184816",
+      "wikidata": "Q1279739"
+    }
+  }
+}

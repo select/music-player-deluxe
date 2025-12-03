@@ -1,7 +1,7 @@
 {
   "youtubeId": "boj3A39XBxc",
   "title": "Zombie Barricades By The Company Band",
-  "lastFetched": "2025-11-30T20:24:22.489Z",
+  "lastFetched": "2025-12-02T01:32:16.155Z",
   "ai": {
     "title": "Zombie Barricades",
     "artist": "The Company Band"
@@ -34,6 +34,13 @@
       "heavy metal",
       "rock",
       "stoner rock"
-    ]
+    ],
+    "releasedAt": "2009-11-10",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://thecompanyband.bandcamp.com/",
+      "wikidata": "Q3520362",
+      "wikipedia": "The_Company_Band"
+    }
   }
 }

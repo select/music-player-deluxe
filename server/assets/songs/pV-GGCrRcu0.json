@@ -2,7 +2,7 @@
   "youtubeId": "pV-GGCrRcu0",
   "title": "Bungalow",
   "artist": "Bilderbuch",
-  "lastFetched": "2025-12-01T12:56:08.534Z",
+  "lastFetched": "2025-12-02T01:52:47.904Z",
   "odesli": {
     "amazonMusic": "B074JXQHYF",
     "amazonStore": "B074JXQHYF",
@@ -39,6 +39,17 @@
       "progressive rock",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2017-01-06",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "discogs": "1635431",
+      "spotify": "2ErWLckuGFl84nGmg5fwyG",
+      "deezer": "870631",
+      "rateyourmusic": "bilderbuch",
+      "soundcloud": "https://soundcloud.com/bilderbuch",
+      "wikidata": "Q860688",
+      "youtube": "UCZXCfEevpX1wOKO6a8egX3Q"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "ccztRby3FAk",
   "title": "Car Seat Headrest - \"Drunk Drivers/Killer Whales\"",
-  "lastFetched": "2025-11-30T19:20:01.983Z",
+  "lastFetched": "2025-12-02T01:33:50.117Z",
   "ai": {
     "title": "Drunk Drivers/Killer Whales",
     "artist": "Car Seat Headrest"
@@ -38,6 +38,22 @@
       "noise rock",
       "psychedelic",
       "slacker rock"
-    ]
+    ],
+    "releasedAt": "2016-03-24",
+    "externalIdsTrack": {
+      "spotify": "75hwtYcghca6YKW4i6C6fP"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003427505",
+      "bandcamp": "https://carseatheadrest.bandcamp.com/",
+      "discogs": "2427937",
+      "spotify": "5PbpKlxQE0Ktl5lcNABoFf",
+      "deezer": "7020467",
+      "lastfm": "Car+Seat+Headrest",
+      "rateyourmusic": "car-seat-headrest",
+      "soundcloud": "https://soundcloud.com/car-seat-headrest",
+      "wikidata": "Q22080761",
+      "youtube": "UC6Rl1uJ-KEC8VJ94l1QYvBg"
+    }
   }
 }

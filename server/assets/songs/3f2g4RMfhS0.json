@@ -1,0 +1,67 @@
+{
+  "youtubeId": "3f2g4RMfhS0",
+  "title": "Let There Be Rock",
+  "artist": "AC/DC",
+  "lastFetched": "2025-12-03T11:40:59.760Z",
+  "odesli": {
+    "amazonMusic": "B00O75SCV8",
+    "amazonStore": "B00O75SCV8",
+    "audius": "PWKJ7",
+    "anghami": "9921490",
+    "boomplay": "438966",
+    "appleMusic": "574124486",
+    "itunes": "574124486",
+    "pandora": "TR:1514268",
+    "soundcloud": "acdcofficial/let-there-be-rock",
+    "spotify": "4YhPkibXbcCcksAOUVB5uY",
+    "tidal": "35986150",
+    "yandex": "830288",
+    "youtube": "3f2g4RMfhS0",
+    "youtubeMusic": "3f2g4RMfhS0"
+  },
+  "lastfm": {
+    "summary": "\"Let There Be Rock\" is a song by Australian hard rock band AC/DC. It is the third track from their album of the same name, released in March 1977, and was written by Angus Young, Malcolm Young, and Bon Scott.\n\nIt was also released as a single, with a B-side of \"Problem Child\", in 1977 <a href=\"http://www.last.fm/music/AC%2FDC/_/Let+There+Be+Rock\">Read more on Last.fm</a>.",
+    "id": "AC%2FDC/_/Let+There+Be+Rock",
+    "listeners": 426977,
+    "playcount": 2288386,
+    "title": "Let There Be Rock",
+    "artist": "AC/DC",
+    "tags": [
+      "hard rock",
+      "rock",
+      "classic rock",
+      "acdc"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "05d346cd-47de-4a0d-b7d0-e5b7861d8b05",
+    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+    "releaseCount": 7,
+    "genres": [
+      "blues rock",
+      "hard rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "classic rock",
+      "hard rock",
+      "rock",
+      "rock and roll"
+    ],
+    "releasedAt": "2012-11-16",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000574772",
+      "discogs": "84752",
+      "spotify": "711MCceyCBcFnzjGY4Q7Un",
+      "deezer": "115",
+      "lastfm": "AC%2FDC",
+      "genius": "Ac-dc",
+      "rateyourmusic": "ac_dc",
+      "soundcloud": "https://soundcloud.com/acdcofficial",
+      "napster": "acdc",
+      "wikidata": "Q27593",
+      "youtube": "UCVm4YdI3hobkwsHTTOMVJKg"
+    }
+  }
+}

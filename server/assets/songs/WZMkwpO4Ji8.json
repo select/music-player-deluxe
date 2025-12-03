@@ -2,7 +2,7 @@
   "youtubeId": "WZMkwpO4Ji8",
   "title": "SHOWER SONG",
   "artist": "Tierra Whack",
-  "lastFetched": "2025-11-19T16:59:02.948Z",
+  "lastFetched": "2025-12-02T01:22:46.407Z",
   "odesli": {
     "amazonMusic": "B0CSJSX99T",
     "amazonStore": "B0CSJSX99T",
@@ -29,6 +29,20 @@
   },
   "musicbrainz": {
     "trackMbid": "762f2819-dd27-4779-9b74-091ec7711ff7",
-    "artistMbid": "ae952d46-0f36-414c-90d4-f202ea2d4a71"
+    "artistMbid": "ae952d46-0f36-414c-90d4-f202ea2d4a71",
+    "releasedAt": "2024-01-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003604268",
+      "discogs": "4133405",
+      "spotify": "4lPl9gqgox3JDiaJ1yklKh",
+      "deezer": "12041350",
+      "lastfm": "Tierra+Whack",
+      "genius": "Tierra-whack",
+      "rateyourmusic": "tierra-whack",
+      "soundcloud": "https://soundcloud.com/tierrawhack",
+      "wikidata": "Q56292576",
+      "youtube": "UCu8FLIExXI7of239SoAizlg"
+    }
   }
 }

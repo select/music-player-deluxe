@@ -2,7 +2,7 @@
   "youtubeId": "YfjsyKFbyqM",
   "title": "Lifeworld",
   "artist": "Oneohtrix Point Never",
-  "lastFetched": "2025-11-30T20:02:24.424Z",
+  "lastFetched": "2025-12-02T01:26:31.229Z",
   "odesli": {
     "amazonMusic": "B0FRN86ZBJ",
     "amazonStore": "B0FRN86ZBJ",
@@ -47,6 +47,21 @@
       "plunderphonics",
       "progressive electronic",
       "vaporwave"
-    ]
+    ],
+    "releasedAt": "2025-10-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001598199",
+      "bandcamp": "https://opnemego.bandcamp.com/",
+      "discogs": "1191704",
+      "spotify": "2wPDbhaGXCqROrVmwDdCrK",
+      "deezer": "406857",
+      "lastfm": "Oneohtrix+Point+Never",
+      "genius": "Oneohtrix-point-never",
+      "rateyourmusic": "oneohtrix-point-never",
+      "soundcloud": "https://soundcloud.com/oneohtrix-point-never",
+      "wikidata": "Q286346",
+      "youtube": "UCnj8OjhJVGOgCq8zEN1tGNg"
+    }
   }
 }

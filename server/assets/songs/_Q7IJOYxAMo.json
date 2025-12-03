@@ -2,7 +2,7 @@
   "youtubeId": "_Q7IJOYxAMo",
   "title": "Les Nuits",
   "artist": "Nightmares on Wax",
-  "lastFetched": "2025-11-30T22:57:42.842Z",
+  "lastFetched": "2025-12-02T01:29:06.980Z",
   "odesli": {
     "amazonMusic": "B0D1KXTCJS",
     "amazonStore": "B0D1KXTCJS",
@@ -40,6 +40,20 @@
       "nu jazz",
       "techno",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "1999-09-27",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000869417",
+      "bandcamp": "https://nightmaresonwax.bandcamp.com/",
+      "discogs": "759",
+      "spotify": "4tNxq9NGKTKaX8OkZBLgf0",
+      "deezer": "8026",
+      "lastfm": "Nightmares+on+Wax",
+      "rateyourmusic": "nightmares_on_wax",
+      "soundcloud": "https://soundcloud.com/nightmares-on-wax",
+      "qobuz": "290666",
+      "wikidata": "Q928905"
+    }
   }
 }

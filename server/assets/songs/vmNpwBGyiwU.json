@@ -1,0 +1,49 @@
+{
+  "youtubeId": "vmNpwBGyiwU",
+  "title": "Alech Taadi",
+  "artist": "Khaled",
+  "lastFetched": "2025-12-03T12:04:04.727Z",
+  "odesli": {
+    "amazonMusic": "B00BS1T7E0",
+    "amazonStore": "B00BS1T7E0",
+    "anghami": "1502746",
+    "soundcloud": "khaled-official/alech-taadi-album-version",
+    "spotify": "0Phx8Faea2XGf6XSIxCcqA",
+    "yandex": "96554",
+    "youtube": "vmNpwBGyiwU",
+    "youtubeMusic": "vmNpwBGyiwU"
+  },
+  "lastfm": {
+    "id": "Khaled/_/Alech+Taadi",
+    "listeners": 10144,
+    "playcount": 46810,
+    "title": "Alech Taadi",
+    "artist": "Khaled",
+    "tags": [
+      "arabic",
+      "rai",
+      "world"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "735c2596-bba4-48f2-92fc-ee2f4af46c1d",
+    "artistMbid": "b4a479aa-4384-4acf-88b0-dee9188faeb5",
+    "releaseCount": 4,
+    "artistGenres": [
+      "raï"
+    ],
+    "releasedAt": "1993",
+    "artistCountry": "DZ",
+    "externalIdsArtist": {
+      "allmusic": "mn0001604255",
+      "discogs": "62919",
+      "spotify": "28ztjHIXceRRntmTUfnmUX",
+      "deezer": "75354",
+      "lastfm": "Khaled",
+      "genius": "Khaled",
+      "rateyourmusic": "khaled",
+      "wikidata": "Q312609",
+      "youtube": "UCCcdzVT1LwAdD7pozFar8TA"
+    }
+  }
+}

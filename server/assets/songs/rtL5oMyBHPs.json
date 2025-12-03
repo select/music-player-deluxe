@@ -2,7 +2,7 @@
   "youtubeId": "rtL5oMyBHPs",
   "title": "Little Dark Age",
   "artist": "MGMT",
-  "lastFetched": "2025-11-19T17:29:46.135Z",
+  "lastFetched": "2025-12-02T01:56:40.786Z",
   "odesli": {
     "amazonMusic": "B078Z27MKN",
     "amazonStore": "B078Z27MKN",
@@ -26,7 +26,26 @@
       "2010s"
     ],
     "trackMbid": "364a10df-d8f5-4578-a1fb-92b3b2f4fbf8",
-    "artistMbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc"
+    "artistMbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
+    "releasedAt": "2017-10-17",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "2Y0iGXY6m6immVb2ktbseM",
+      "deezer": "418657342"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000536321",
+      "bandcamp": "https://mgmt.bandcamp.com/",
+      "discogs": "985480",
+      "spotify": "0SwO7SWeDHJijQ3XNS7xEE",
+      "deezer": "69627",
+      "lastfm": "MGMT",
+      "genius": "Mgmt",
+      "rateyourmusic": "mgmt",
+      "soundcloud": "https://soundcloud.com/whoismgmt",
+      "wikidata": "Q391969",
+      "youtube": "UCwMzrhrw-GhekJgDLj_8gkA"
+    }
   },
   "lastfm": {
     "id": "MGMT/_/Little+Dark+Age",

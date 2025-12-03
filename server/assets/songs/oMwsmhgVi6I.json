@@ -2,7 +2,7 @@
   "youtubeId": "oMwsmhgVi6I",
   "title": "TopBrazil",
   "artist": "Fischerspooner",
-  "lastFetched": "2025-11-30T19:27:46.257Z",
+  "lastFetched": "2025-12-02T01:50:56.685Z",
   "odesli": {
     "amazonMusic": "B078Z1FC9M",
     "amazonStore": "B078Z1FC9M",
@@ -37,6 +37,20 @@
     "artistGenres": [
       "electroclash",
       "electronica"
-    ]
+    ],
+    "releasedAt": "2018-02-16",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000178051",
+      "discogs": "9086",
+      "spotify": "5R7K1GezC0jy24v1R2n4x3",
+      "deezer": "1575",
+      "lastfm": "Fischerspooner",
+      "genius": "Fischerspooner",
+      "rateyourmusic": "fischerspooner",
+      "soundcloud": "https://soundcloud.com/fischerspooner-official",
+      "wikidata": "Q1420144",
+      "youtube": "UCH_fpKusEQIEojPir1y5t6Q"
+    }
   }
 }

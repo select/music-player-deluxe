@@ -2,7 +2,7 @@
   "youtubeId": "k8tHJmkBSNI",
   "title": "Breach (The Upbeats Remix)",
   "artist": "Black Sun Empire",
-  "lastFetched": "2025-11-23T16:47:28.493Z",
+  "lastFetched": "2025-12-02T01:44:16.197Z",
   "odesli": {
     "amazonMusic": "B0CSPLXT5H",
     "amazonStore": "B0CSPLXT5H",
@@ -30,7 +30,19 @@
       "techstep"
     ],
     "trackMbid": "3e91eac8-8a7a-44e7-bc66-08cc97b20490",
-    "artistMbid": "76a2eaff-b6ad-483a-a427-d3a2aa3c4f8f"
+    "artistMbid": "76a2eaff-b6ad-483a-a427-d3a2aa3c4f8f",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "allmusic": "mn0000080473",
+      "bandcamp": "https://blacksunempire.bandcamp.com/",
+      "discogs": "7830",
+      "spotify": "3PAXvY08KxX5HmCsmKw4x8",
+      "deezer": "4154",
+      "rateyourmusic": "black_sun_empire",
+      "soundcloud": "https://soundcloud.com/blacksunempire",
+      "wikidata": "Q158442",
+      "youtube": "UCHluxE3zTLEXx8CUke1G4Xw"
+    }
   },
   "lastfm": {
     "id": "Black+Sun+Empire/_/Breach+(The+Upbeats+Remix)",

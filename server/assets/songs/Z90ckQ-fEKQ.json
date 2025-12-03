@@ -1,7 +1,7 @@
 {
   "youtubeId": "Z90ckQ-fEKQ",
   "title": "International Music System - An English '93   (1983)",
-  "lastFetched": "2025-11-30T22:41:14.223Z",
+  "lastFetched": "2025-12-02T01:27:07.292Z",
   "ai": {
     "title": "An English '93",
     "artist": "International Music System"
@@ -23,6 +23,12 @@
   "musicbrainz": {
     "trackMbid": "6ed0dec6-0609-430e-9911-c13cf06b9c8e",
     "artistMbid": "b107577f-f214-472d-a58e-5c78e277cf50",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2021-02-01",
+    "externalIdsArtist": {
+      "discogs": "65066",
+      "spotify": "2jC1SZntXN9KkHltJlLzDV",
+      "deezer": "373456"
+    }
   }
 }

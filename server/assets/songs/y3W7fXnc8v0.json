@@ -2,7 +2,7 @@
   "youtubeId": "y3W7fXnc8v0",
   "title": "Sommerregen",
   "artist": "Schiller",
-  "lastFetched": "2025-11-23T16:53:57.413Z",
+  "lastFetched": "2025-12-02T02:05:35.647Z",
   "odesli": {
     "amazonMusic": "B073SZJDG9",
     "amazonStore": "B073SZJDG9",
@@ -35,7 +35,18 @@
       "trance"
     ],
     "trackMbid": "217c22dd-634c-4f3b-8902-dd929217dcde",
-    "artistMbid": "75ebdfa0-4a8a-496a-a57f-e4bb93b14d4c"
+    "artistMbid": "75ebdfa0-4a8a-496a-a57f-e4bb93b14d4c",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000311370",
+      "discogs": "5608",
+      "spotify": "4tRSX1e4hJYjMNdl1TkINg",
+      "deezer": "8648",
+      "lastfm": "Schiller",
+      "soundcloud": "https://soundcloud.com/schillermusic",
+      "wikidata": "Q704262",
+      "youtube": "UCmM5xlAZDZ-h3bi6AXzDNKQ"
+    }
   },
   "lastfm": {
     "id": "Schiller/_/Sommerregen",

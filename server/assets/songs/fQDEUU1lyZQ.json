@@ -1,0 +1,66 @@
+{
+  "youtubeId": "fQDEUU1lyZQ",
+  "title": "Où va le monde",
+  "artist": "La Femme",
+  "lastFetched": "2025-12-03T12:02:18.536Z",
+  "odesli": {
+    "amazonMusic": "B01L640AQM",
+    "amazonStore": "B01L640AQM",
+    "anghami": "32952600",
+    "appleMusic": "1146811127",
+    "itunes": "1146811127",
+    "pandora": "TR:8007940",
+    "soundcloud": "lafemmeressort/ou-va-le-monde",
+    "spotify": "6M2ZYgZ2cdu5oCHGI8wamV",
+    "tidal": "64283460",
+    "yandex": "44732238",
+    "youtube": "fQDEUU1lyZQ",
+    "youtubeMusic": "fQDEUU1lyZQ"
+  },
+  "lastfm": {
+    "id": "La+Femme/_/O%C3%B9+va+le+monde",
+    "listeners": 115812,
+    "playcount": 835651,
+    "title": "Où va le monde",
+    "artist": "La Femme",
+    "mbid": "3d628e1f-cc59-4855-aec4-3c3abae20d30",
+    "artistMbid": "45ce3d4f-3cb5-474a-a3b0-614b0f517349",
+    "tags": [
+      "surf",
+      "french",
+      "eclectonia",
+      "french pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3d628e1f-cc59-4855-aec4-3c3abae20d30",
+    "artistMbid": "559211a5-2a51-4346-ba84-5cc74821a1cd",
+    "releaseCount": 13,
+    "artistGenres": [
+      "acid jazz",
+      "coldwave",
+      "electronic",
+      "neo-psychedelia",
+      "pop",
+      "post-punk",
+      "psychedelic",
+      "psychedelic rock",
+      "rock",
+      "surf",
+      "synth-pop"
+    ],
+    "releasedAt": "2016-06-03",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0003064265",
+      "bandcamp": "https://lafemmeressort.bandcamp.com/",
+      "discogs": "1808268",
+      "spotify": "5VTWoYYizcOY3uIKnxeCGI",
+      "deezer": "995510",
+      "genius": "La-femme",
+      "rateyourmusic": "la-femme",
+      "soundcloud": "https://soundcloud.com/lafemmeressort",
+      "wikidata": "Q13038522"
+    }
+  }
+}

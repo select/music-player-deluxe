@@ -1,0 +1,54 @@
+{
+  "youtubeId": "RyUkQWk29jY",
+  "title": "Three Wishes",
+  "artist": "The Pierces",
+  "lastFetched": "2025-12-03T11:54:51.038Z",
+  "odesli": {
+    "amazonMusic": "B002BXETLU",
+    "amazonStore": "B002BXETLU",
+    "soundcloud": "the-pierces/three-wishes",
+    "spotify": "3JqlvBYHgdJE7le7eVueuQ",
+    "youtube": "RyUkQWk29jY",
+    "youtubeMusic": "RyUkQWk29jY"
+  },
+  "lastfm": {
+    "id": "The+Pierces/_/Three+Wishes",
+    "listeners": 77697,
+    "playcount": 629200,
+    "title": "Three Wishes",
+    "artist": "The Pierces",
+    "mbid": "26274ae1-7c10-32e2-924d-4fbb76ff9a88",
+    "artistMbid": "9f4452f2-0451-455a-80c4-c873dda66eca",
+    "tags": [
+      "gossip girl",
+      "indie",
+      "female vocalists",
+      "beautiful"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1a20ade7-efe9-4180-baf7-72c0acdad9ae",
+    "artistMbid": "9f4452f2-0451-455a-80c4-c873dda66eca",
+    "releaseCount": 6,
+    "genres": [
+      "indie pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "folk rock",
+      "indie pop",
+      "indie rock"
+    ],
+    "releasedAt": "2007-03-20",
+    "externalIdsArtist": {
+      "allmusic": "mn0000483745",
+      "discogs": "921175",
+      "spotify": "1ET1wIkDmuCBC80XcTr3Sg",
+      "deezer": "67689",
+      "lastfm": "The%20Pierces",
+      "rateyourmusic": "the_pierces",
+      "napster": "the-pierces",
+      "wikidata": "Q2529057"
+    }
+  }
+}

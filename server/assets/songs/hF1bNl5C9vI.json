@@ -2,7 +2,7 @@
   "youtubeId": "hF1bNl5C9vI",
   "title": "In the Netto",
   "artist": "Reis against the Spülmachine",
-  "lastFetched": "2025-11-30T22:00:35.236Z",
+  "lastFetched": "2025-12-02T01:39:59.887Z",
   "lastfm": {
     "id": "Reis+against+the+Sp%C3%BClmachine/_/In+the+Netto",
     "listeners": 85,
@@ -17,6 +17,13 @@
   "musicbrainz": {
     "trackMbid": "6f1a722b-9d65-4626-8daa-43c81c381def",
     "artistMbid": "aa35096d-acad-4841-b705-1527eefdd505",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-10-10",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "spotify": "1woaAg9umuHZpxmoRPstxP",
+      "wikidata": "Q109498973",
+      "youtube": "UCilNJ6Lh-w0ngZWgjaFP7pQ"
+    }
   }
 }

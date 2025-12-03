@@ -2,7 +2,7 @@
   "youtubeId": "lVlgMEFu1PI",
   "title": "Warni Warni",
   "artist": "Omar Souleyman",
-  "lastFetched": "2025-11-30T20:47:24.487Z",
+  "lastFetched": "2025-12-02T01:46:15.492Z",
   "odesli": {
     "amazonMusic": "B00J8XB1KI",
     "amazonStore": "B00J8XB1KI",
@@ -42,6 +42,16 @@
     ],
     "artistGenres": [
       "dabke"
-    ]
+    ],
+    "releasedAt": "2013-10-21",
+    "artistCountry": "SY",
+    "externalIdsArtist": {
+      "allmusic": "mn0000627995",
+      "bandcamp": "https://omarsouleyman.bandcamp.com/",
+      "discogs": "831357",
+      "deezer": "99009492",
+      "rateyourmusic": "%D8%B9%D9%85%D8%B1_%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86",
+      "wikidata": "Q619303"
+    }
   }
 }

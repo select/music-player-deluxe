@@ -2,7 +2,7 @@
   "youtubeId": "i7Q6MLGJBhc",
   "title": "Hajduk",
   "artist": "Psio Crew",
-  "lastFetched": "2025-11-30T21:42:41.103Z",
+  "lastFetched": "2025-12-02T01:41:26.529Z",
   "odesli": {
     "amazonMusic": "B015LDK5OQ",
     "amazonStore": "B015LDK5OQ",
@@ -34,6 +34,10 @@
   "musicbrainz": {
     "trackMbid": "14f78b15-f2de-48a9-b1f3-58bfff88d0ab",
     "artistMbid": "aae81c80-240a-499f-8c2a-7019d296152c",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2007",
+    "externalIdsArtist": {
+      "discogs": "525988"
+    }
   }
 }

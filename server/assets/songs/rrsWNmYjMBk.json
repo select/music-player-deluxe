@@ -1,0 +1,77 @@
+{
+  "youtubeId": "rrsWNmYjMBk",
+  "title": "Careless Whisper - George Michael por Alexandr MISKO Guitar",
+  "lastFetched": "2025-12-03T12:05:05.888Z",
+  "ai": {
+    "title": "Careless Whisper",
+    "artist": "George Michael"
+  },
+  "lastfm": {
+    "summary": "Careless Whisper is a song written by George Michael and Andrew Ridgeley. Released on the 1984 Wham! album Make It Big, the single release was credited either to Wham! featuring George Michael (in North America and several other countries) or solely to George Michael (in the United Kingdom and some European countries) as it became apparent, that at some point in the near future, Michael would be embarking on a solo career. The song features a prominent saxophone riff, and has been covered by a number of artists since its first release. <a href=\"http://www.last.fm/music/George+Michael/_/Careless+Whisper\">Read more on Last.fm</a>.",
+    "id": "George+Michael/_/Careless+Whisper",
+    "listeners": 1630817,
+    "playcount": 13735663,
+    "tags": [
+      "80s",
+      "pop",
+      "romantic",
+      "George Michael",
+      "Love"
+    ],
+    "title": "Careless Whisper",
+    "artist": "George Michael",
+    "mbid": "7d07fe13-4551-4b9a-9862-ec1167436acf",
+    "artistMbid": "ccb8f30e-4d71-40c4-8b1d-846dafe73e2c"
+  },
+  "musicbrainz": {
+    "trackMbid": "7313c159-ee3b-4f16-b46c-81f7982b91db",
+    "artistMbid": "ccb8f30e-4d71-40c4-8b1d-846dafe73e2c",
+    "releaseCount": 25,
+    "genres": [
+      "ballad",
+      "downtempo",
+      "electronic",
+      "house",
+      "pop",
+      "pop soul",
+      "soft rock",
+      "soul",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "ballad",
+      "blue-eyed soul",
+      "contemporary r&b",
+      "dance-pop",
+      "dance-rock",
+      "jazz",
+      "pop",
+      "pop rock",
+      "pop soul",
+      "r&b",
+      "smooth jazz",
+      "smooth soul",
+      "soft rock",
+      "sophisti-pop",
+      "soul"
+    ],
+    "releasedAt": "1984-07-24",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "7lNSnaqt19mvUkDmGItK6z",
+      "deezer": "926317962"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000545074",
+      "discogs": "32990",
+      "spotify": "19ra5tSw0tWufvUp8GotLo",
+      "deezer": "3098",
+      "lastfm": "George+Michael",
+      "genius": "George-michael",
+      "rateyourmusic": "george_michael",
+      "soundcloud": "https://soundcloud.com/georgemichael",
+      "wikidata": "Q130311",
+      "youtube": "UC7X_qC_rgc3s04Aw1t5DSHg"
+    }
+  }
+}

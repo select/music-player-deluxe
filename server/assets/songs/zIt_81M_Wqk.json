@@ -3,7 +3,7 @@
   "artist": "London Grammar",
   "duration": 185,
   "youtubeId": "zIt_81M_Wqk",
-  "lastFetched": "2025-11-19T03:17:50.102Z",
+  "lastFetched": "2025-12-02T02:07:47.407Z",
   "odesli": {
     "amazonMusic": "B00J0QJBAU",
     "amazonStore": "B00J0QJBAU",
@@ -28,7 +28,25 @@
     ],
     "trackMbid": "b08a2ddd-004d-4eea-86be-6ba5334e0f51",
     "artistMbid": "4dbe08c1-b40a-43b3-ab89-210000bd8ab2",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2013-09-06",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "2zymLCg3AQJn7ApkTxHHe4"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003066904",
+      "bandcamp": "https://londongrammar.bandcamp.com/",
+      "discogs": "3180942",
+      "spotify": "3Bd1cgCjtCI32PYvDC3ynO",
+      "deezer": "4771546",
+      "lastfm": "London+Grammar",
+      "genius": "London-grammar",
+      "rateyourmusic": "london-grammar",
+      "soundcloud": "https://soundcloud.com/londongrammar",
+      "wikidata": "Q14557360",
+      "youtube": "UCgX66nFZQodWgTeNIMF_4Rw"
+    }
   },
   "lastfm": {
     "id": "London+Grammar/_/Shyer",

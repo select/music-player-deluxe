@@ -2,7 +2,7 @@
   "youtubeId": "ggg1FrTyWNg",
   "title": "La bataille de neige",
   "artist": "Domenique Dumont",
-  "lastFetched": "2025-11-30T20:54:38.627Z",
+  "lastFetched": "2025-12-02T01:38:55.899Z",
   "odesli": {
     "amazonMusic": "B00YSE6JHM",
     "amazonStore": "B00YSE6JHM",
@@ -34,6 +34,17 @@
       "electronic",
       "pop",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2015-06-22",
+    "artistCountry": "LV",
+    "externalIdsArtist": {
+      "bandcamp": "https://domeniquedumont.bandcamp.com/",
+      "discogs": "4474010",
+      "spotify": "6kNluNBHa4sh5BKIvyiDgf",
+      "deezer": "8040423",
+      "rateyourmusic": "domenique_dumont",
+      "soundcloud": "https://soundcloud.com/domeniquedumont",
+      "wikidata": "Q99646975"
+    }
   }
 }

@@ -1,0 +1,48 @@
+{
+  "youtubeId": "vO1CCXXMzBI",
+  "title": "Reggie Watts - A Song About Apples (Always Love Yourself)",
+  "lastFetched": "2025-12-03T11:56:06.073Z",
+  "ai": {
+    "title": "A Song About Apples (Always Love Yourself)",
+    "artist": "Reggie Watts"
+  },
+  "lastfm": {
+    "id": "Reggie+Watts/_/A+Song+About+Apples+(Always+Love+Yourself)",
+    "listeners": 188,
+    "playcount": 745,
+    "title": "A Song About Apples (Always Love Yourself)",
+    "artist": "Reggie Watts",
+    "artistMbid": "cf6a0510-b08c-4452-b28e-979fb57ff035",
+    "tags": [
+      "funk",
+      "beatbox",
+      "soul",
+      "electronic",
+      "hip-hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e41ebfa6-da97-41e8-b82f-529c405599a6",
+    "artistMbid": "cf6a0510-b08c-4452-b28e-979fb57ff035",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic",
+      "neo soul",
+      "soul",
+      "trip hop"
+    ],
+    "releasedAt": "2020-09-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000460191",
+      "discogs": "57940",
+      "spotify": "3ni9LX95aVQksOuoHFEbEx",
+      "deezer": "391032",
+      "lastfm": "Reggie%20Watts",
+      "genius": "Reggie-watts",
+      "rateyourmusic": "reggie_watts",
+      "wikidata": "Q3423441",
+      "youtube": "UCNJcbcOqXHsaVGOJC0OE6AA"
+    }
+  }
+}

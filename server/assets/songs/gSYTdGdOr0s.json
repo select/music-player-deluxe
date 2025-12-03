@@ -1,0 +1,44 @@
+{
+  "youtubeId": "gSYTdGdOr0s",
+  "title": "Daydreams",
+  "artist": "Carlo Whale",
+  "lastFetched": "2025-12-03T11:49:21.694Z",
+  "odesli": {
+    "amazonMusic": "B0CNQSWWZ5",
+    "amazonStore": "B0CNQSWWZ5",
+    "appleMusic": "1717495268",
+    "itunes": "1717495268",
+    "pandora": "TR:120037657",
+    "soundcloud": "dancefloorromancer/premiere-carlo-whale-daydreams-manual",
+    "spotify": "2iXePl4B6COiRnZGHZD5cO",
+    "tidal": "330080217",
+    "youtube": "gSYTdGdOr0s",
+    "youtubeMusic": "gSYTdGdOr0s"
+  },
+  "lastfm": {
+    "id": "Carlo+Whale/_/Daydreams",
+    "listeners": 272,
+    "playcount": 668,
+    "title": "Daydreams",
+    "artist": "Carlo Whale",
+    "mbid": "e506d0c9-ef11-4fb2-9e77-f2ec9848bee2",
+    "artistMbid": "b8297fbb-2928-4cca-a6f0-260752a64d82",
+    "tags": [
+      "deep house",
+      "house",
+      "techno",
+      "italy"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8b3ce1f4-26c1-4076-a9e4-0fcff5f2a6ca",
+    "artistMbid": "b8297fbb-2928-4cca-a6f0-260752a64d82",
+    "releaseCount": 1,
+    "releasedAt": "2020-08-28",
+    "externalIdsArtist": {
+      "discogs": "2673857",
+      "spotify": "42J0pSvJGXvErpfYL1Nodj",
+      "deezer": "1576521"
+    }
+  }
+}

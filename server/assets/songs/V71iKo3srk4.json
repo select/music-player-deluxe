@@ -2,7 +2,7 @@
   "youtubeId": "V71iKo3srk4",
   "title": "The Conference",
   "artist": "Nitin Sawhney",
-  "lastFetched": "2025-11-30T20:09:37.674Z",
+  "lastFetched": "2025-12-02T01:20:44.666Z",
   "odesli": {
     "amazonMusic": "B07561SLQJ",
     "amazonStore": "B07561SLQJ",
@@ -47,6 +47,22 @@
       "nu jazz",
       "r&b",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "1999-09-13",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "6auRyAth7a3i406odLpTGA"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000422297",
+      "bandcamp": "https://nitin.bandcamp.com/",
+      "discogs": "2671",
+      "spotify": "5NCKpzuowtihcIrIHFjKbJ",
+      "deezer": "1162",
+      "lastfm": "Nitin+Sawhney",
+      "rateyourmusic": "nitin_sawhney",
+      "soundcloud": "https://soundcloud.com/nitinsawhney",
+      "wikidata": "Q1396434"
+    }
   }
 }

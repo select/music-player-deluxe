@@ -1,0 +1,52 @@
+{
+  "youtubeId": "c3atgKzdKxM",
+  "title": "Gunsore",
+  "artist": "Kirsty McGee",
+  "lastFetched": "2025-12-03T11:47:41.127Z",
+  "odesli": {
+    "amazonMusic": "B001DBJN6W",
+    "amazonStore": "B001DBJN6W",
+    "boomplay": "18572091",
+    "deezer": "11001954",
+    "appleMusic": "286417447",
+    "itunes": "286417447",
+    "napster": "tra.22088528",
+    "pandora": "TR:57966685",
+    "spotify": "6zjwef6AMo9930G95efYnb",
+    "tidal": "6670267",
+    "yandex": "6613227",
+    "youtube": "c3atgKzdKxM",
+    "youtubeMusic": "c3atgKzdKxM"
+  },
+  "lastfm": {
+    "id": "Kirsty+McGee/_/Gunsore",
+    "listeners": 718,
+    "playcount": 2851,
+    "title": "Gunsore",
+    "artist": "Kirsty McGee",
+    "mbid": "c163e469-708d-4b1c-ac4e-ef18c680a728",
+    "artistMbid": "c792d8de-b2fa-4d36-ac4f-caed65dfa812",
+    "tags": [
+      "fantastic",
+      "kirsty mcgee",
+      "singer-songwriter",
+      "folk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d9b1e719-0ed0-4045-87b0-c5c58de3611b",
+    "artistMbid": "c792d8de-b2fa-4d36-ac4f-caed65dfa812",
+    "releaseCount": 1,
+    "artistGenres": [
+      "folk"
+    ],
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://kirstymcgee.bandcamp.com/",
+      "discogs": "1129777",
+      "soundcloud": "https://soundcloud.com/kirstymcgee",
+      "wikidata": "Q6416174",
+      "youtube": "UCJBmfqVnZd67mKvEoq4eBwA"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "XDPgVe9h0Yc",
   "title": "8 Bit Dreamer",
   "artist": "501",
-  "lastFetched": "2025-11-30T21:00:19.221Z",
+  "lastFetched": "2025-12-02T01:23:44.639Z",
   "odesli": {
     "amazonMusic": "B00LRMYUZQ",
     "amazonStore": "B00LRMYUZQ",
@@ -37,6 +37,15 @@
     "artistGenres": [
       "dubstep",
       "electronic"
-    ]
+    ],
+    "releasedAt": "2011-07-25",
+    "artistCountry": "FI",
+    "externalIdsArtist": {
+      "discogs": "1234951",
+      "spotify": "6zisJbwMg53zsB4tgVf96L",
+      "deezer": "882203",
+      "soundcloud": "https://soundcloud.com/501dubz",
+      "youtube": "UCdlIk0ZeYrYDbaj2X9D7eDQ"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "jgrgCaSo8e4",
   "title": "Light Up The Sky",
   "artist": "Bibio",
-  "lastFetched": "2025-11-30T19:57:31.887Z",
+  "lastFetched": "2025-12-02T01:43:32.879Z",
   "odesli": {
     "amazonMusic": "B01DCEJLGE",
     "amazonStore": "B01DCEJLGE",
@@ -56,6 +56,21 @@
       "pop",
       "post-rock",
       "psychedelic folk"
-    ]
+    ],
+    "releasedAt": "2016-04-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000818770",
+      "bandcamp": "https://bibio.bandcamp.com/",
+      "discogs": "267474",
+      "spotify": "0qzzGu8qpbXYpzgV52wOFT",
+      "deezer": "298968",
+      "lastfm": "Bibio",
+      "genius": "Bibio",
+      "rateyourmusic": "bibio",
+      "soundcloud": "https://soundcloud.com/bibio",
+      "wikidata": "Q3111737",
+      "youtube": "UCR5bOrzLlzYnoKOE5ZLvOzg"
+    }
   }
 }

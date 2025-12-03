@@ -2,7 +2,7 @@
   "youtubeId": "i79YGW9Ihz0",
   "title": "Sun Touch",
   "artist": "Herbie Hancock",
-  "lastFetched": "2025-11-23T16:46:45.135Z",
+  "lastFetched": "2025-12-02T01:41:24.483Z",
   "odesli": {
     "amazonMusic": "B00137QP8K",
     "amazonStore": "B00137QP8K",
@@ -41,7 +41,17 @@
       "jazz"
     ],
     "trackMbid": "3fb76d1a-4f47-4d6d-ab70-a30876d3f7da",
-    "artistMbid": "27613b78-1b9d-4ec3-9db5-fa0743465fdd"
+    "artistMbid": "27613b78-1b9d-4ec3-9db5-fa0743465fdd",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000957296",
+      "discogs": "3865",
+      "spotify": "2ZvrvbQNrHKwjT7qfGFFUW",
+      "deezer": "1406",
+      "lastfm": "Herbie+Hancock",
+      "rateyourmusic": "herbie_hancock",
+      "wikidata": "Q105875"
+    }
   },
   "lastfm": {
     "id": "Herbie+Hancock/_/Sun+Touch",

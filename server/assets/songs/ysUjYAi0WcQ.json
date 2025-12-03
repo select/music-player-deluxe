@@ -1,7 +1,7 @@
 {
   "youtubeId": "ysUjYAi0WcQ",
   "title": "Hurra Torpedo - Total Eclipse Of The Heart (live)",
-  "lastFetched": "2025-11-30T21:04:38.285Z",
+  "lastFetched": "2025-12-02T02:07:03.984Z",
   "ai": {
     "title": "Total Eclipse Of The Heart",
     "artist": "Hurra Torpedo"
@@ -28,6 +28,15 @@
       "alternative rock",
       "industrial",
       "rock"
-    ]
+    ],
+    "releasedAt": "2005-11-07",
+    "artistCountry": "NO",
+    "externalIdsArtist": {
+      "allmusic": "mn0002021433",
+      "discogs": "290915",
+      "lastfm": "Hurra%20Torpedo",
+      "rateyourmusic": "hurra_torpedo",
+      "wikidata": "Q1638524"
+    }
   }
 }

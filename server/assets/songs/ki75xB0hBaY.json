@@ -2,7 +2,7 @@
   "youtubeId": "ki75xB0hBaY",
   "title": "Tonnow",
   "artist": "Gwenno",
-  "lastFetched": "2025-11-30T23:27:54.503Z",
+  "lastFetched": "2025-12-02T01:45:16.633Z",
   "odesli": {
     "amazonMusic": "B09T774DQ4",
     "amazonStore": "B09T774DQ4",
@@ -36,6 +36,15 @@
       "electropop",
       "hauntology",
       "indietronica"
-    ]
+    ],
+    "releasedAt": "2022-07-01",
+    "externalIdsArtist": {
+      "bandcamp": "https://gwenno.bandcamp.com/",
+      "discogs": "592899",
+      "spotify": "44mRrrRjaV8iu1VLIKuwty",
+      "deezer": "1183232",
+      "rateyourmusic": "gwenno",
+      "wikidata": "Q3050580"
+    }
   }
 }

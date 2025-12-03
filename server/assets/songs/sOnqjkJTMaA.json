@@ -2,7 +2,7 @@
   "youtubeId": "sOnqjkJTMaA",
   "title": "Thriller",
   "artist": "Michael Jackson",
-  "lastFetched": "2025-11-19T13:41:00.606Z",
+  "lastFetched": "2025-12-02T01:57:29.799Z",
   "odesli": {
     "amazonMusic": "B0013D6QP6",
     "amazonStore": "B0013D6QP6",
@@ -26,7 +26,22 @@
       "funk"
     ],
     "trackMbid": "1cd04e20-7e23-4295-9486-e30f36a16524",
-    "artistMbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e"
+    "artistMbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+    "releasedAt": "2001",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000467203",
+      "discogs": "15885",
+      "spotify": "3fMbdgg4jU18AjLCKBhRSm",
+      "deezer": "259",
+      "lastfm": "Michael+Jackson",
+      "genius": "Michael-jackson",
+      "rateyourmusic": "michael_jackson",
+      "soundcloud": "https://soundcloud.com/mjimmortal",
+      "napster": "michael-jackson",
+      "wikidata": "Q2831",
+      "youtube": "UCoIOOL7QKuBhQHVKL8y7BEQ"
+    }
   },
   "lastfm": {
     "id": "Michael+Jackson/_/Thriller",

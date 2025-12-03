@@ -3,7 +3,7 @@
   "artist": "Kraan",
   "duration": 241,
   "youtubeId": "ZId0TanZHzQ",
-  "lastFetched": "2025-11-19T04:41:18.432Z",
+  "lastFetched": "2025-12-02T01:27:24.050Z",
   "odesli": {
     "amazonMusic": "B08CVFR69N",
     "amazonStore": "B08CVFR69N",
@@ -29,7 +29,21 @@
     ],
     "trackMbid": "765c2c8f-7419-45af-8bcd-77d26ab9bcc9",
     "artistMbid": "d634f58c-aa2c-4430-9c85-b8e0d1c66878",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2020-08-21",
+    "artistCountry": "DE",
+    "externalIdsTrack": {
+      "spotify": "388n4EU9HKuCP74bnsqAhp",
+      "deezer": "1020005232"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000102542",
+      "bandcamp": "https://kraan.bandcamp.com/",
+      "discogs": "146256",
+      "spotify": "1yTEkYjWeeo4ANkbvUTiFG",
+      "deezer": "244934",
+      "wikidata": "Q687257"
+    }
   },
   "lastfm": {
     "id": "Kraan/_/Solitude",

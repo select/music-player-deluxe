@@ -2,7 +2,7 @@
   "youtubeId": "mB1hr_1_f8o",
   "title": "Get Off",
   "artist": "Foxy",
-  "lastFetched": "2025-11-30T22:07:54.623Z",
+  "lastFetched": "2025-12-02T01:47:31.675Z",
   "odesli": {
     "amazonMusic": "B00124AY9A",
     "amazonStore": "B00124AY9A",
@@ -41,6 +41,16 @@
       "disco",
       "funk",
       "latin"
-    ]
+    ],
+    "releasedAt": "1978-03-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000662621",
+      "discogs": "66385",
+      "spotify": "6OWX8vOXHDmO2UxsfaJnfw",
+      "deezer": "10283",
+      "lastfm": "Foxy",
+      "wikidata": "Q1440236"
+    }
   }
 }

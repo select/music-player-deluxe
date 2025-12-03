@@ -2,7 +2,7 @@
   "youtubeId": "pUfDTPNnSwk",
   "title": "In The City",
   "artist": "Basstripper",
-  "lastFetched": "2025-11-30T23:07:38.365Z",
+  "lastFetched": "2025-12-02T01:52:45.923Z",
   "odesli": {
     "amazonMusic": "B0C9VY1SMW",
     "amazonStore": "B0C9VY1SMW",
@@ -31,6 +31,20 @@
     "releaseCount": 1,
     "artistGenres": [
       "drum and bass"
-    ]
+    ],
+    "releasedAt": "2023-07-14",
+    "artistCountry": "BE",
+    "externalIdsTrack": {
+      "bandcamp": "https://dnballstars.bandcamp.com/track/in-the-city",
+      "spotify": "4U4vRo9EM6DXaLIagwbbMW",
+      "deezer": "2350084265"
+    },
+    "externalIdsArtist": {
+      "bandcamp": "https://basstripper.bandcamp.com/",
+      "discogs": "4799568",
+      "spotify": "1tSiIyp5dxfbEaS0nZGMEl",
+      "deezer": "7041467",
+      "soundcloud": "https://soundcloud.com/basstripper"
+    }
   }
 }

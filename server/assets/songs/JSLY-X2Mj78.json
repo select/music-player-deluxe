@@ -1,0 +1,56 @@
+{
+  "youtubeId": "JSLY-X2Mj78",
+  "title": "Bit By Bit",
+  "artist": "Mother Mother",
+  "lastFetched": "2025-12-03T11:58:13.697Z",
+  "odesli": {
+    "amazonMusic": "B01EPBQA62",
+    "amazonStore": "B01EPBQA62",
+    "pandora": "TR:2160130",
+    "soundcloud": "mother-mother/bit-by-bit-1",
+    "spotify": "2IQUJbXBXdH4X1dhjYcUsy",
+    "tidal": "332739527",
+    "youtube": "JSLY-X2Mj78",
+    "youtubeMusic": "JSLY-X2Mj78"
+  },
+  "lastfm": {
+    "id": "Mother+Mother/_/Bit+By+Bit",
+    "listeners": 108541,
+    "playcount": 835995,
+    "title": "Bit By Bit",
+    "artist": "Mother Mother",
+    "mbid": "16f375be-f723-3f09-a8a3-c93d281b6a14",
+    "artistMbid": "69681b02-05b8-4685-80cb-e98983b7a96f",
+    "tags": [
+      "canadian",
+      "rock",
+      "indie",
+      "indie pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a4825594-ff9b-4bb0-ad44-fc308b7898a6",
+    "artistMbid": "69681b02-05b8-4685-80cb-e98983b7a96f",
+    "releaseCount": 6,
+    "artistGenres": [
+      "indie pop",
+      "indie rock",
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "releasedAt": "2012-07-18",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000457057",
+      "discogs": "1013700",
+      "spotify": "0e86yPdC41PGRkLp2Q1Bph",
+      "deezer": "380362",
+      "lastfm": "Mother+Mother",
+      "rateyourmusic": "mother_mother",
+      "soundcloud": "https://soundcloud.com/mother-mother",
+      "wikidata": "Q2739716",
+      "youtube": "UCDRSqDdkk3tVNHaxyfOqALg"
+    }
+  }
+}

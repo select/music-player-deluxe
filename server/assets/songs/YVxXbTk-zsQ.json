@@ -3,7 +3,7 @@
   "artist": "U 96",
   "duration": 218,
   "youtubeId": "YVxXbTk-zsQ",
-  "lastFetched": "2025-11-09T18:34:26.757Z",
+  "lastFetched": "2025-12-02T01:25:59.476Z",
   "musicbrainz": {
     "artistTags": [
       "eurodance",
@@ -13,7 +13,19 @@
     ],
     "trackMbid": "9435441b-dafa-4b02-8c4a-efd2abc9626f",
     "artistMbid": "5a2e73e9-15b3-4bd5-bd4b-7a331ead808a",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2011-03-25",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000220979",
+      "bandcamp": "https://u96official.bandcamp.com/",
+      "discogs": "19235",
+      "spotify": "0RhnKJThw36HFitqY6dYgd",
+      "deezer": "4135",
+      "lastfm": "U96",
+      "rateyourmusic": "u96",
+      "wikidata": "Q684170"
+    }
   },
   "ai": {
     "title": "Das Boot",

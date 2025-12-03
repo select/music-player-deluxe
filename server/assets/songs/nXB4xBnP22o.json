@@ -2,7 +2,7 @@
   "youtubeId": "nXB4xBnP22o",
   "title": "Change The World",
   "artist": "Eric Clapton",
-  "lastFetched": "2025-11-23T16:49:18.875Z",
+  "lastFetched": "2025-12-02T01:49:24.337Z",
   "odesli": {
     "amazonMusic": "B002O0SKJW",
     "amazonStore": "B002O0SKJW",
@@ -41,7 +41,20 @@
       "pop rock"
     ],
     "trackMbid": "80c2a25f-a97c-3971-aa4f-27a17928825f",
-    "artistMbid": "618b6900-0618-4f1e-b835-bccb17f84294"
+    "artistMbid": "618b6900-0618-4f1e-b835-bccb17f84294",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000187478",
+      "discogs": "17827",
+      "spotify": "6PAt558ZEZl0DmdXlnjMgD",
+      "deezer": "192",
+      "lastfm": "Eric+Clapton",
+      "genius": "Eric-clapton",
+      "rateyourmusic": "eric-clapton",
+      "soundcloud": "https://soundcloud.com/ericclapton",
+      "wikidata": "Q48187",
+      "youtube": "UCtCOFqqGGGunX71nfZgPQOQ"
+    }
   },
   "lastfm": {
     "id": "Eric+Clapton/_/Change+The+World",

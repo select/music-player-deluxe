@@ -2,7 +2,7 @@
   "youtubeId": "qMdfmOkK25c",
   "title": "I Hadn't Known (I Only Heard)",
   "artist": "Herbert",
-  "lastFetched": "2025-11-30T22:31:55.307Z",
+  "lastFetched": "2025-12-02T01:54:06.059Z",
   "odesli": {
     "amazonMusic": "B0FF67567R",
     "amazonStore": "B0FF67567R",
@@ -33,6 +33,17 @@
       "electroacoustic",
       "idm",
       "microhouse"
-    ]
+    ],
+    "releasedAt": "2006-10-30",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000863092",
+      "bandcamp": "https://matthewherbert.bandcamp.com/",
+      "discogs": "22217",
+      "spotify": "6wXFUcaG7779tb1Ok72GBn",
+      "deezer": "1665",
+      "rateyourmusic": "matthew_herbert",
+      "wikidata": "Q290270"
+    }
   }
 }

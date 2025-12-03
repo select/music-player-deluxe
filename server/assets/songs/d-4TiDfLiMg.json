@@ -3,7 +3,7 @@
   "artist": "Kool Savas",
   "duration": 158,
   "youtubeId": "d-4TiDfLiMg",
-  "lastFetched": "2025-11-23T16:44:35.354Z",
+  "lastFetched": "2025-12-02T01:34:39.278Z",
   "musicbrainz": {
     "artistTags": [
       "german",
@@ -16,7 +16,21 @@
     ],
     "trackMbid": "aee86048-73fe-4d03-815d-495d416dc85f",
     "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2021-02-19",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000496538",
+      "discogs": "1295717",
+      "spotify": "1SUu1Bi7ev9HbOzyVC77qD",
+      "deezer": "72038",
+      "lastfm": "Kool%20Savas",
+      "genius": "Kool-savas",
+      "rateyourmusic": "kool_savas",
+      "soundcloud": "https://soundcloud.com/kool-savas-official",
+      "wikidata": "Q496308",
+      "youtube": "UCCirWHa1TzMlpaXzcn_tGdw"
+    }
   },
   "lastfm": {
     "id": "Kool+Savas/_/Brachland",

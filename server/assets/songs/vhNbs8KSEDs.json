@@ -1,7 +1,7 @@
 {
   "youtubeId": "vhNbs8KSEDs",
   "title": "Jack Conte - the world is easy",
-  "lastFetched": "2025-12-01T11:50:28.832Z",
+  "lastFetched": "2025-12-02T02:02:00.731Z",
   "ai": {
     "title": "the world is easy",
     "artist": "Jack Conte"
@@ -25,6 +25,19 @@
   "musicbrainz": {
     "trackMbid": "126bb21a-dc4b-4ee9-88ce-3a2831d2d0e7",
     "artistMbid": "f86acb2e-03fa-4992-957a-6f7d0155b34e",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2013-05-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001435248",
+      "bandcamp": "https://jackconte.bandcamp.com/",
+      "discogs": "3281506",
+      "spotify": "3NhMdYv1pNWHQZruHqs4FY",
+      "deezer": "4333521",
+      "lastfm": "Jack+Conte",
+      "rateyourmusic": "jack-conte",
+      "soundcloud": "https://soundcloud.com/jackconte",
+      "wikidata": "Q14648645"
+    }
   }
 }

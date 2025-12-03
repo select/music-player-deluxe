@@ -2,7 +2,7 @@
   "youtubeId": "ex4oSYGQzas",
   "title": "Illusion Of Seclusion",
   "artist": "Photay",
-  "lastFetched": "2025-11-30T20:06:23.021Z",
+  "lastFetched": "2025-12-02T01:36:50.609Z",
   "odesli": {
     "amazonMusic": "B00N31PBRU",
     "amazonStore": "B00N31PBRU",
@@ -33,6 +33,16 @@
     "releaseCount": 3,
     "artistGenres": [
       "electronic"
-    ]
+    ],
+    "releasedAt": "2014-09-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003343881",
+      "bandcamp": "https://photay.bandcamp.com/",
+      "discogs": "3283314",
+      "spotify": "1MSxOmIt7uYgvPydd1tU8F",
+      "soundcloud": "https://soundcloud.com/photay",
+      "wikidata": "Q114289259"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "bbqVg_23otg",
   "title": "1 Thing",
   "artist": "Amerie",
-  "lastFetched": "2025-11-30T23:08:12.146Z",
+  "lastFetched": "2025-12-02T01:32:04.606Z",
   "odesli": {
     "amazonMusic": "B0013AQPAK",
     "amazonStore": "B0013AQPAK",
@@ -37,7 +37,22 @@
       "pop",
       "r&b",
       "soul"
-    ]
+    ],
+    "releasedAt": "2005",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003521643",
+      "bandcamp": "https://amerie.bandcamp.com/",
+      "discogs": "116237",
+      "spotify": "1RVxHD4Y3dskNGxEHNkF0e",
+      "deezer": "5916449",
+      "lastfm": "Amerie",
+      "genius": "Amerie",
+      "rateyourmusic": "amerie",
+      "soundcloud": "https://soundcloud.com/officialameriie",
+      "wikidata": "Q233377",
+      "youtube": "UCYHAbewhR_mrgpxfpdyN5wQ"
+    }
   },
   "lastfm": {
     "id": "Amerie/_/1+Thing",

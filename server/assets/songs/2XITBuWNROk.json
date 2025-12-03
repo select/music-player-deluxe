@@ -1,0 +1,69 @@
+{
+  "youtubeId": "2XITBuWNROk",
+  "title": "When My Train Pulls In",
+  "artist": "Gary Clark Jr.",
+  "lastFetched": "2025-12-03T11:57:30.384Z",
+  "odesli": {
+    "amazonMusic": "B009PU2TR8",
+    "amazonStore": "B009PU2TR8",
+    "boomplay": "4706288",
+    "appleMusic": "560652747",
+    "itunes": "560652747",
+    "pandora": "TR:5445557",
+    "soundcloud": "garyclarkjr/gary-clark-jr-when-my-train-1",
+    "spotify": "2mdxGlwrhtkuxgzbH7LOIh",
+    "tidal": "18668127",
+    "yandex": "9047153",
+    "youtube": "2XITBuWNROk",
+    "youtubeMusic": "2XITBuWNROk"
+  },
+  "lastfm": {
+    "id": "Gary+Clark+Jr./_/When+My+Train+Pulls+In",
+    "listeners": 64180,
+    "playcount": 253866,
+    "title": "When My Train Pulls In",
+    "artist": "Gary Clark Jr.",
+    "mbid": "4799cca3-e066-398b-acf6-6c30ae3aa354",
+    "artistMbid": "c733c4e6-22a2-499d-ace7-17b832356aff",
+    "tags": [
+      "blues",
+      "guitar",
+      "blues rock",
+      "soul"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "aa961b33-a375-4776-bc9b-0b7386b6163a",
+    "artistMbid": "c733c4e6-22a2-499d-ace7-17b832356aff",
+    "releaseCount": 4,
+    "genres": [
+      "alternative rock",
+      "blues",
+      "jazz",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "contemporary r&b",
+      "hard rock",
+      "rock and roll",
+      "soul"
+    ],
+    "releasedAt": "2013-11-19",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000989208",
+      "discogs": "2699369",
+      "spotify": "01aC2ikO4Xgb2LUpf9JfKp",
+      "deezer": "265266762",
+      "lastfm": "Gary+Clark+Jr.",
+      "genius": "Gary-clark-jr",
+      "rateyourmusic": "gary_clark_jr_",
+      "soundcloud": "https://soundcloud.com/garyclarkjr",
+      "wikidata": "Q1153310",
+      "youtube": "UCqOvoj8ToHKN5YzyBGZCgUQ"
+    }
+  }
+}

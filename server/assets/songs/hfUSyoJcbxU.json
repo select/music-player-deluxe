@@ -2,7 +2,7 @@
   "youtubeId": "hfUSyoJcbxU",
   "title": "Trip Like I Do",
   "artist": "The Crystal Method",
-  "lastFetched": "2025-11-30T23:09:53.461Z",
+  "lastFetched": "2025-12-02T01:40:38.901Z",
   "odesli": {
     "amazonMusic": "B000W27B1M",
     "amazonStore": "B000W27B1M",
@@ -49,6 +49,19 @@
       "breakbeat",
       "electronic",
       "electronica"
-    ]
+    ],
+    "releasedAt": "1997-08-26",
+    "externalIdsArtist": {
+      "allmusic": "mn0000136124",
+      "discogs": "3141",
+      "spotify": "5eKLa1xyHLq8ERWmT1CRHj",
+      "deezer": "1538",
+      "lastfm": "The+Crystal+Method",
+      "genius": "The-crystal-method",
+      "rateyourmusic": "the_crystal_method",
+      "soundcloud": "https://soundcloud.com/the-crystal-method",
+      "youtube": "UCvnLTMY2XQzMeD5wTgVGNhw",
+      "wikidata": "Q50975"
+    }
   }
 }

@@ -1,0 +1,41 @@
+{
+  "youtubeId": "jft3BVoxqjo",
+  "title": "Tuba Skinny - Jubilee Stomp - Royal Street I",
+  "lastFetched": "2025-12-03T12:02:07.802Z",
+  "ai": {
+    "title": "Jubilee Stomp",
+    "artist": "Tuba Skinny"
+  },
+  "lastfm": {
+    "id": "Tuba+Skinny/_/Jubilee+Stomp",
+    "listeners": 4768,
+    "playcount": 15389,
+    "title": "Jubilee Stomp",
+    "artist": "Tuba Skinny",
+    "mbid": "32a1e782-b7d8-41f4-9b68-9d1c83175a30",
+    "artistMbid": "5cfa6d68-e1f1-493a-a086-20411858a70f",
+    "tags": [
+      "jazz",
+      "blues",
+      "swing"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4f492b5e-a33b-4ba6-890c-dded636a23a3",
+    "artistMbid": "5cfa6d68-e1f1-493a-a086-20411858a70f",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dixieland",
+      "jazz"
+    ],
+    "releasedAt": "2019-04-12",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://tubaskinny.bandcamp.com/",
+      "discogs": "3844565",
+      "spotify": "75vVPF9akWZ5RWAcpxBMU5",
+      "rateyourmusic": "tuba-skinny",
+      "wikidata": "Q17319017"
+    }
+  }
+}

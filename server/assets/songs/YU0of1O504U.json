@@ -2,7 +2,7 @@
   "youtubeId": "YU0of1O504U",
   "title": "Uninvited",
   "artist": "Alanis Morissette",
-  "lastFetched": "2025-11-30T21:23:13.110Z",
+  "lastFetched": "2025-12-02T01:25:54.367Z",
   "odesli": {
     "amazonMusic": "B002O0599Q",
     "amazonStore": "B002O0599Q",
@@ -43,6 +43,20 @@
       "post-grunge",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2012-04-19",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000932665",
+      "discogs": "102789",
+      "spotify": "6ogn9necmbUdCppmNnGOdi",
+      "deezer": "177",
+      "lastfm": "Alanis+Morissette",
+      "genius": "Alanis-morissette",
+      "rateyourmusic": "alanis_morissette",
+      "soundcloud": "https://soundcloud.com/alanismorissette",
+      "wikidata": "Q130742",
+      "youtube": "UCrTC0tOY5aujQFYDRf65xiw"
+    }
   }
 }

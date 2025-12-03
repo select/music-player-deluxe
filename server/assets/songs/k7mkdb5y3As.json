@@ -1,7 +1,7 @@
 {
   "youtubeId": "k7mkdb5y3As",
   "title": "Two Feet - Had Some Drinks",
-  "lastFetched": "2025-11-30T19:21:32.086Z",
+  "lastFetched": "2025-12-02T01:44:11.703Z",
   "ai": {
     "title": "Had Some Drinks",
     "artist": "Two Feet"
@@ -28,6 +28,19 @@
       "alternative rock",
       "electronic",
       "trap"
-    ]
+    ],
+    "releasedAt": "2017-05-19",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003671878",
+      "discogs": "5304830",
+      "spotify": "5sWHDYs0csV6RS48xBl0tH",
+      "deezer": "4950687",
+      "lastfm": "Two+Feet",
+      "genius": "Two-feet",
+      "soundcloud": "https://soundcloud.com/twofeetmusic",
+      "wikidata": "Q48742776",
+      "youtube": "UCdeVgjrK9a0X04F8tD7W6UQ"
+    }
   }
 }

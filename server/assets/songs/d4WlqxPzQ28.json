@@ -1,0 +1,62 @@
+{
+  "youtubeId": "d4WlqxPzQ28",
+  "title": "The Regulator",
+  "artist": "Clutch",
+  "lastFetched": "2025-12-03T11:59:19.439Z",
+  "odesli": {
+    "amazonMusic": "B004ZTL61O",
+    "amazonStore": "B004ZTL61O",
+    "pandora": "TR:5681279",
+    "soundcloud": "nixon-6664/clutch-the-regulator-lyrics",
+    "tidal": "36859720",
+    "yandex": "5910293",
+    "youtube": "d4WlqxPzQ28",
+    "youtubeMusic": "d4WlqxPzQ28"
+  },
+  "lastfm": {
+    "id": "Clutch/_/The+Regulator",
+    "listeners": 109018,
+    "playcount": 763373,
+    "title": "The Regulator",
+    "artist": "Clutch",
+    "mbid": "034d9e6e-e1f1-49a9-88b4-85acbdc13460",
+    "artistMbid": "0cdb0359-5698-487d-9aae-a25fb4dcdc4d",
+    "tags": [
+      "stoner rock",
+      "hard rock",
+      "rock",
+      "blues rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0948abe6-14ef-49ac-86ca-48d8899a4b06",
+    "artistMbid": "0cdb0359-5698-487d-9aae-a25fb4dcdc4d",
+    "releaseCount": 7,
+    "genres": [
+      "hard rock",
+      "metal",
+      "rock",
+      "stoner rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "hard rock",
+      "rock",
+      "stoner rock"
+    ],
+    "releasedAt": "2004-03-30",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000154417",
+      "bandcamp": "https://clutchband.bandcamp.com/",
+      "discogs": "289116",
+      "spotify": "161AC1AVRkIGIMxyj5djFQ",
+      "deezer": "5505",
+      "lastfm": "Clutch",
+      "genius": "Clutch",
+      "rateyourmusic": "clutch",
+      "wikidata": "Q578376",
+      "youtube": "UChFx-3fX89Bl9GeAqOdCwxQ"
+    }
+  }
+}

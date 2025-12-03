@@ -2,7 +2,7 @@
   "youtubeId": "UeIhOoIMXHY",
   "title": "Sauerkraut Polka",
   "artist": "Gus Backus",
-  "lastFetched": "2025-11-30T22:03:59.151Z",
+  "lastFetched": "2025-12-02T01:20:05.683Z",
   "lastfm": {
     "id": "Gus+Backus/_/Sauerkraut+Polka",
     "listeners": 1050,
@@ -23,6 +23,15 @@
     "releaseCount": 1,
     "artistGenres": [
       "schlager"
-    ]
+    ],
+    "releasedAt": "2013-02-01",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "503835",
+      "spotify": "5kcPRzYuORwT3cJCv5mkZx",
+      "deezer": "78927",
+      "rateyourmusic": "gus_backus",
+      "wikidata": "Q320589"
+    }
   }
 }

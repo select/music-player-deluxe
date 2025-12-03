@@ -2,7 +2,7 @@
   "youtubeId": "wF2lOgJS2M4",
   "title": "Red House",
   "artist": "Jimi Hendrix",
-  "lastFetched": "2025-11-23T16:53:16.347Z",
+  "lastFetched": "2025-12-02T02:02:56.669Z",
   "odesli": {
     "amazonMusic": "B003BG2KDU",
     "amazonStore": "B003BG2KDU",
@@ -34,7 +34,19 @@
       "jam band"
     ],
     "trackMbid": "5a4ce5e8-2f2d-32cc-82d3-94aa69c453b1",
-    "artistMbid": "06fb1c8b-566e-4cb2-985b-b467c90781d4"
+    "artistMbid": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000354105",
+      "discogs": "110593",
+      "spotify": "776Uo845nYHJpNaStv1Ds4",
+      "deezer": "849",
+      "lastfm": "Jimi+Hendrix",
+      "genius": "Jimi-hendrix",
+      "rateyourmusic": "jimi-hendrix",
+      "wikidata": "Q5928",
+      "youtube": "UC5NwXf8hOgZgInaYiOCZmUg"
+    }
   },
   "lastfm": {
     "id": "Jimi+Hendrix/_/Red+House",

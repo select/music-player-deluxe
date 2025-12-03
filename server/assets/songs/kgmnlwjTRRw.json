@@ -1,7 +1,7 @@
 {
   "youtubeId": "kgmnlwjTRRw",
   "title": "Oscar Peterson -Mirage",
-  "lastFetched": "2025-11-30T19:21:22.580Z",
+  "lastFetched": "2025-12-02T01:45:14.872Z",
   "ai": {
     "title": "Mirage",
     "artist": "Oscar Peterson"
@@ -34,6 +34,17 @@
       "hard bop",
       "jazz",
       "vocal jazz"
-    ]
+    ],
+    "releasedAt": "1997",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000489316",
+      "discogs": "254394",
+      "spotify": "6zkX5fhrSD4tdVOmimR9wB",
+      "deezer": "9123",
+      "lastfm": "Oscar+Peterson",
+      "rateyourmusic": "oscar-peterson",
+      "wikidata": "Q105349"
+    }
   }
 }

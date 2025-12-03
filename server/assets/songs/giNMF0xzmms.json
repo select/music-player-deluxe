@@ -1,0 +1,63 @@
+{
+  "youtubeId": "giNMF0xzmms",
+  "title": "How Are You True",
+  "artist": "Cage The Elephant",
+  "lastFetched": "2025-12-03T11:54:37.018Z",
+  "odesli": {
+    "amazonMusic": "B0170V9F3O",
+    "amazonStore": "B0170V9F3O",
+    "pandora": "TR:4782400",
+    "soundcloud": "cagetheelephant/how-are-you-true",
+    "tidal": "54783034",
+    "youtube": "giNMF0xzmms",
+    "youtubeMusic": "giNMF0xzmms"
+  },
+  "lastfm": {
+    "summary": "Based on a real story, Matt Shultz sings of meeting a musician named True. The song features philosophical self-reflection, accompanied by the depressing idea of a wasted lifetime.\n\nIn an interview with Entertainment Weekly, lead singer Matt Schultz answers the question: What’s the story being “How Are You True?”\n\n\"I was coming back from New York to Nashville and there was this young kid, super flustered, on the [airplane’s] jet bridge. The flight attendant asked him if he was going to Nashville to get a record deal and he was like <a href=\"http://www.last.fm/music/Cage+the+Elephant/_/How+Are+You+True\">Read more on Last.fm</a>.",
+    "id": "Cage+the+Elephant/_/How+Are+You+True",
+    "listeners": 188423,
+    "playcount": 1267845,
+    "title": "How Are You True",
+    "artist": "Cage the Elephant",
+    "mbid": "cfccaabc-f553-4cdc-8b3f-1528d4ef752b",
+    "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
+    "tags": [
+      "rock",
+      "indie",
+      "indie rock",
+      "beautiful",
+      "transcending"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "23e2db01-fd82-44eb-90d8-778e32ab0774",
+    "artistMbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
+    "releaseCount": 6,
+    "artistGenres": [
+      "acoustic rock",
+      "alternative rock",
+      "garage rock",
+      "garage rock revival",
+      "indie rock",
+      "neo-psychedelia",
+      "pop",
+      "post-punk revival",
+      "psychedelic rock",
+      "punk blues",
+      "punk rock"
+    ],
+    "releasedAt": "2017-07-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001061166",
+      "discogs": "1213263",
+      "spotify": "26T3LtbuGT1Fu9m0eRq5X3",
+      "deezer": "214810",
+      "lastfm": "Cage+the+Elephant",
+      "genius": "Cage-the-elephant",
+      "rateyourmusic": "cage_the_elephant",
+      "soundcloud": "https://soundcloud.com/cagetheelephant",
+      "wikidata": "Q68061"
+    }
+  }
+}

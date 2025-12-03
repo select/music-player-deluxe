@@ -3,7 +3,7 @@
   "artist": "Pink Floyd",
   "duration": 540,
   "youtubeId": "_FrOQC-zEog",
-  "lastFetched": "2025-11-19T04:17:52.980Z",
+  "lastFetched": "2025-12-02T01:28:49.523Z",
   "odesli": {
     "amazonMusic": "B0195Z3A2U",
     "amazonStore": "B0195Z3A2U",
@@ -33,7 +33,19 @@
     ],
     "trackMbid": "96505f8f-172a-4db2-86f1-f7b8f40ee3db",
     "artistMbid": "83d91898-7763-47d7-b03b-b92132375c47",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "externalIdsArtist": {
+      "allmusic": "mn0000346336",
+      "discogs": "45467",
+      "spotify": "0k17h0D3J5VfsdmQ1iZtE9",
+      "deezer": "860",
+      "lastfm": "Pink+Floyd",
+      "genius": "Pink-floyd",
+      "rateyourmusic": "pink-floyd",
+      "soundcloud": "https://soundcloud.com/officialpinkfloyd",
+      "wikidata": "Q2306",
+      "youtube": "UCO6LS_5W7vqG9mALDNzSFug"
+    }
   },
   "lastfm": {
     "id": "Pink+Floyd/_/Comfortably+Numb",

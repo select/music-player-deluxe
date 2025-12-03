@@ -1,0 +1,62 @@
+{
+  "youtubeId": "nngbv6829Fg",
+  "title": "The Way Home",
+  "artist": "Sleep Dealer",
+  "lastFetched": "2025-12-03T12:03:31.238Z",
+  "odesli": {
+    "amazonMusic": "B00JDWI7RO",
+    "amazonStore": "B00JDWI7RO",
+    "deezer": "119351322",
+    "appleMusic": "1759986668",
+    "itunes": "1759986668",
+    "napster": "tra.807943222",
+    "pandora": "TR:10410901",
+    "soundcloud": "sleep_dealer/the-way-home",
+    "spotify": "06fMBaxaNv9swvwTNeC075",
+    "tidal": "57404968",
+    "yandex": "123102269",
+    "youtube": "nngbv6829Fg",
+    "youtubeMusic": "nngbv6829Fg"
+  },
+  "lastfm": {
+    "id": "Sleep+Dealer/_/The+Way+Home",
+    "listeners": 39482,
+    "playcount": 230137,
+    "title": "The Way Home",
+    "artist": "Sleep Dealer",
+    "mbid": "37a747a0-7c42-3bda-9241-97714a90f531",
+    "artistMbid": "94cab6b7-41e8-4c5e-84f2-34c4c736a82d",
+    "tags": [
+      "post-rock",
+      "instrumental",
+      "atmospheric"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "19a4c594-0935-4a21-8004-442caf2baec7",
+    "artistMbid": "94cab6b7-41e8-4c5e-84f2-34c4c736a82d",
+    "releaseCount": 1,
+    "genres": [
+      "instrumental",
+      "post-rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "post-rock"
+    ],
+    "releasedAt": "2009-12-18",
+    "artistCountry": "RU",
+    "externalIdsArtist": {
+      "bandcamp": "https://sleepdealer.bandcamp.com/",
+      "discogs": "2699022",
+      "spotify": "3spV4ipk7tqVzM7n494tr5",
+      "deezer": "5442991",
+      "lastfm": "Sleep+Dealer",
+      "genius": "Sleep-dealer-ru",
+      "rateyourmusic": "sleep_dealer",
+      "soundcloud": "https://soundcloud.com/sleep_dealer",
+      "wikidata": "Q61986930",
+      "youtube": "UC88KmtBBWqpZj_GmqKrFnwA"
+    }
+  }
+}

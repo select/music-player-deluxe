@@ -1,0 +1,45 @@
+{
+  "youtubeId": "_XY56suFXEc",
+  "title": "Trucker, Cowboy, Mann",
+  "artist": "Truck Stop",
+  "lastFetched": "2025-12-03T11:41:54.714Z",
+  "odesli": {
+    "amazonMusic": "B0FPXV2SRZ",
+    "amazonStore": "B0FPXV2SRZ",
+    "pandora": "TR:15220019",
+    "soundcloud": "truck-stop-official/trucker-cowboy-mann",
+    "spotify": "5yVj2RDnO0UdiA5NX9LcWe",
+    "tidal": "51895784",
+    "youtube": "_XY56suFXEc",
+    "youtubeMusic": "_XY56suFXEc"
+  },
+  "lastfm": {
+    "id": "Truck+Stop/_/Trucker,+Cowboy,+Mann",
+    "listeners": 1140,
+    "playcount": 3736,
+    "title": "Trucker, Cowboy, Mann",
+    "artist": "Truck Stop",
+    "mbid": "5015c46c-c92d-4ce0-a72b-53e27f46bb2a",
+    "artistMbid": "c0c852b3-0fdc-4482-aac1-8f8e1fa0e98f",
+    "tags": [
+      "deutsche schlager",
+      "myhitparade"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5015c46c-c92d-4ce0-a72b-53e27f46bb2a",
+    "artistMbid": "c0c852b3-0fdc-4482-aac1-8f8e1fa0e98f",
+    "releaseCount": 2,
+    "artistGenres": [
+      "country"
+    ],
+    "releasedAt": "2020-11-27",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "503887",
+      "spotify": "7eH4Ds7cmyDRSmmApbJHUc",
+      "deezer": "70527",
+      "wikidata": "Q1315315"
+    }
+  }
+}

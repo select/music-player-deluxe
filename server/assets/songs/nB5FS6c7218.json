@@ -2,7 +2,7 @@
   "youtubeId": "nB5FS6c7218",
   "title": "The Magnificent Moon",
   "artist": "Mildlife",
-  "lastFetched": "2025-11-30T21:50:40.323Z",
+  "lastFetched": "2025-12-02T01:49:04.576Z",
   "lastfm": {
     "id": "Mildlife/_/The+Magnificent+Moon",
     "listeners": 70592,
@@ -27,6 +27,20 @@
       "jazz fusion",
       "jazz rock",
       "psychedelic rock"
-    ]
+    ],
+    "releasedAt": "2018-08-31",
+    "externalIdsArtist": {
+      "allmusic": "mn0003707987",
+      "bandcamp": "https://mildlife.bandcamp.com/",
+      "discogs": "6328344",
+      "spotify": "1lsJmnN90u3KBvF3tGEWr3",
+      "deezer": "13614417",
+      "lastfm": "Mildlife",
+      "genius": "Mildlife",
+      "rateyourmusic": "mildlife",
+      "soundcloud": "https://soundcloud.com/mildlife",
+      "wikidata": "Q104859032",
+      "youtube": "UCWn-8swIiz0OpUI4EdYE58Q"
+    }
   }
 }

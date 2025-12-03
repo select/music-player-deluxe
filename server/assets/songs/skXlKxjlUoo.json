@@ -2,7 +2,7 @@
   "youtubeId": "skXlKxjlUoo",
   "title": "Bekhauf",
   "artist": "Bloodywood",
-  "lastFetched": "2025-11-30T22:00:19.445Z",
+  "lastFetched": "2025-12-02T01:57:56.209Z",
   "odesli": {
     "amazonMusic": "B0B7T7NWFT",
     "amazonStore": "B0B7T7NWFT",
@@ -44,6 +44,17 @@
       "folk metal",
       "metal",
       "nu metal"
-    ]
+    ],
+    "releasedAt": "2024-12-06",
+    "artistCountry": "IN",
+    "externalIdsArtist": {
+      "allmusic": "mn0004181699",
+      "bandcamp": "https://bloodywood.bandcamp.com/",
+      "discogs": "7122628",
+      "spotify": "4HFpzehKjow2WqU4EJ6Wy9",
+      "deezer": "11562565",
+      "wikidata": "Q63883353",
+      "youtube": "UChDkP71cJOHop-iRgl_8pVg"
+    }
   }
 }

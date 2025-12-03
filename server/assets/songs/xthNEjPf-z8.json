@@ -2,7 +2,7 @@
   "youtubeId": "xthNEjPf-z8",
   "title": "Ephemeral",
   "artist": "Waeys",
-  "lastFetched": "2025-11-30T23:16:52.550Z",
+  "lastFetched": "2025-12-02T02:05:19.284Z",
   "odesli": {
     "amazonMusic": "B08N9MYK3S",
     "amazonStore": "B08N9MYK3S",
@@ -28,6 +28,14 @@
     "artistGenres": [
       "drum and bass",
       "neurofunk"
-    ]
+    ],
+    "releasedAt": "2020-10-09",
+    "externalIdsArtist": {
+      "discogs": "5447533",
+      "spotify": "6beu3GEnQG3ViUjitgvIAv",
+      "deezer": "11024726",
+      "soundcloud": "https://soundcloud.com/waeys",
+      "youtube": "UCuFql4DFLSAYVJZrIluX-Yg"
+    }
   }
 }

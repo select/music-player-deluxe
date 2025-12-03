@@ -2,7 +2,7 @@
   "youtubeId": "euMNVyuqmwo",
   "title": "Drive",
   "artist": "Joe Bonamassa",
-  "lastFetched": "2025-11-30T19:38:50.177Z",
+  "lastFetched": "2025-12-02T01:36:44.662Z",
   "odesli": {
     "amazonMusic": "B01AOXHH2G",
     "amazonStore": "B01AOXHH2G",
@@ -41,6 +41,21 @@
       "blues",
       "blues rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2016-03-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000118243",
+      "discogs": "900313",
+      "spotify": "2SNzxY1OsSCHBLVi77mpPQ",
+      "deezer": "4781",
+      "lastfm": "Joe+Bonamassa",
+      "genius": "Joe-bonamassa",
+      "rateyourmusic": "joe-bonamassa-1",
+      "soundcloud": "https://soundcloud.com/joe-bonamassa",
+      "napster": "joe-bonamassa",
+      "wikidata": "Q347717",
+      "youtube": "UCMmOiXQLPGwWUXHuLsO5Wcg"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "eAEmjW9J3_o",
   "title": "Stadium Pow Wow",
   "artist": "The Halluci Nation",
-  "lastFetched": "2025-11-30T19:23:35.634Z",
+  "lastFetched": "2025-12-02T01:35:47.470Z",
   "odesli": {
     "amazonMusic": "B01GAKQ1QA",
     "amazonStore": "B01GAKQ1QA",
@@ -44,6 +44,23 @@
     "releaseCount": 2,
     "artistGenres": [
       "electronic"
-    ]
+    ],
+    "releasedAt": "2016-06-03",
+    "artistCountry": "CA",
+    "externalIdsTrack": {
+      "spotify": "10qUlM8qSsDUoEaw4vNFeJ",
+      "deezer": "125654622"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002917730",
+      "bandcamp": "https://thehallucination.bandcamp.com/",
+      "discogs": "9790516",
+      "spotify": "2jlWF9ltd8UtoaqW0PxY4z",
+      "deezer": "1378315",
+      "rateyourmusic": "a-tribe-called-red",
+      "soundcloud": "https://soundcloud.com/a-tribe-called-red",
+      "wikidata": "Q4660300",
+      "youtube": "UCQYo7hQsKKkHi4f0X-gB1yg"
+    }
   }
 }

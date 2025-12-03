@@ -2,7 +2,7 @@
   "youtubeId": "mXnJqYwebF8",
   "title": "MOOO!",
   "artist": "Doja Cat",
-  "lastFetched": "2025-11-30T19:22:49.103Z",
+  "lastFetched": "2025-12-02T01:48:03.471Z",
   "odesli": {
     "amazonMusic": "B07GX66JY7",
     "amazonStore": "B07GX66JY7",
@@ -53,6 +53,21 @@
       "rock",
       "trap",
       "west coast hip hop"
-    ]
+    ],
+    "releasedAt": "2018-08-31",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003341964",
+      "discogs": "7322515",
+      "spotify": "5cj0lLjcoR7YOSnhnX0Po5",
+      "deezer": "5578942",
+      "lastfm": "Doja+Cat",
+      "genius": "Doja-cat",
+      "rateyourmusic": "doja-cat",
+      "soundcloud": "https://soundcloud.com/doja-cat",
+      "napster": "doja-cat",
+      "wikidata": "Q51120673",
+      "youtube": "UCzpl23pGTHVYqvKsgY0A-_w"
+    }
   }
 }

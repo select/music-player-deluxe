@@ -2,7 +2,7 @@
   "youtubeId": "nWdnCVFpiHw",
   "title": "End of the Road",
   "artist": "Noga Erez",
-  "lastFetched": "2025-11-30T22:50:26.341Z",
+  "lastFetched": "2025-12-02T01:49:21.448Z",
   "lastfm": {
     "title": "End of the Road",
     "artist": "Noga Erez",
@@ -26,6 +26,21 @@
     "artistGenres": [
       "electronic",
       "pop"
-    ]
+    ],
+    "releasedAt": "2021-03-26",
+    "artistCountry": "IL",
+    "externalIdsArtist": {
+      "allmusic": "mn0003566054",
+      "bandcamp": "https://nogaerez.bandcamp.com/",
+      "discogs": "5353186",
+      "spotify": "5VwCIS8jdx9ZHjApLFNrTZ",
+      "deezer": "11226070",
+      "lastfm": "Noga+Erez",
+      "genius": "Noga-erez",
+      "rateyourmusic": "noga-erez",
+      "soundcloud": "https://soundcloud.com/nogerz26",
+      "wikidata": "Q40856678",
+      "youtube": "UC8jilbu-zFcknaZ5ah3C8NA"
+    }
   }
 }

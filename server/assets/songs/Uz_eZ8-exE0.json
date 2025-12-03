@@ -2,7 +2,7 @@
   "youtubeId": "Uz_eZ8-exE0",
   "title": "Kilometer",
   "artist": "Sébastien Tellier",
-  "lastFetched": "2025-11-30T21:18:06.205Z",
+  "lastFetched": "2025-12-02T01:20:25.248Z",
   "odesli": {
     "amazonMusic": "B0D1LBRWJZ",
     "amazonStore": "B0D1LBRWJZ",
@@ -38,6 +38,21 @@
       "electronic",
       "french house",
       "pop"
-    ]
+    ],
+    "releasedAt": "2008-02-19",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000840812",
+      "bandcamp": "https://sebastientellier.bandcamp.com/",
+      "discogs": "2280",
+      "spotify": "23ymPLjbtAMzTJS2qRtQ8Z",
+      "deezer": "1408",
+      "lastfm": "S%C3%A9bastien%20Tellier",
+      "genius": "Sebastien-tellier",
+      "rateyourmusic": "sebastien_tellier",
+      "soundcloud": "https://soundcloud.com/sebastien-tellier",
+      "wikidata": "Q370711",
+      "youtube": "UCf1K1yhkNM7iwdW0n3Il8_A"
+    }
   }
 }

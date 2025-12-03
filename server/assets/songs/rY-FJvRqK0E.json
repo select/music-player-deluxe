@@ -2,7 +2,7 @@
   "youtubeId": "rY-FJvRqK0E",
   "title": "Flamingo",
   "artist": "Kero Kero Bonito",
-  "lastFetched": "2025-11-30T19:34:03.020Z",
+  "lastFetched": "2025-12-02T01:56:18.726Z",
   "odesli": {
     "amazonMusic": "B01B3RXYJC",
     "amazonStore": "B01B3RXYJC",
@@ -55,6 +55,24 @@
       "pop",
       "pop rap",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2014-09-21",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "soundcloud": "https://soundcloud.com/shhsecretsongs/kero-kero-bonito-flamingo"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003337688",
+      "bandcamp": "https://kerokerobonito.bandcamp.com/",
+      "discogs": "3270231",
+      "spotify": "6OqhFYFJDnBBHas02HopPT",
+      "deezer": "4673985",
+      "lastfm": "Kero+Kero+Bonito",
+      "genius": "Kero-kero-bonito",
+      "rateyourmusic": "kero-kero-bonito",
+      "soundcloud": "https://soundcloud.com/kerokerobonito",
+      "wikidata": "Q19370850",
+      "youtube": "UC87PQkY3dDS-FastDm97emA"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "cpUQzsQLF78",
   "title": "H-Blockx - Gimme More",
-  "lastFetched": "2025-11-30T19:39:27.938Z",
+  "lastFetched": "2025-12-02T01:34:11.622Z",
   "ai": {
     "title": "Gimme More",
     "artist": "H-Blockx"
@@ -25,6 +25,20 @@
     "releaseCount": 2,
     "artistGenres": [
       "alternative rock"
-    ]
+    ],
+    "releasedAt": "1996-09-30",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000655777",
+      "discogs": "270347",
+      "spotify": "1V3Nl0Y3EZwqP38KHws6vB",
+      "deezer": "3687",
+      "lastfm": "H-Blockx",
+      "genius": "H-blockx",
+      "rateyourmusic": "h_blockx",
+      "soundcloud": "https://soundcloud.com/h-blockx-official",
+      "napster": "h-blockx",
+      "wikidata": "Q116345"
+    }
   }
 }

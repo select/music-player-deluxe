@@ -2,7 +2,7 @@
   "youtubeId": "e8iO1kmY8A8",
   "title": "Echoes",
   "artist": "Rodrigo Y Gabriela",
-  "lastFetched": "2025-12-01T13:02:45.822Z",
+  "lastFetched": "2025-12-02T01:35:45.533Z",
   "odesli": {
     "amazonMusic": "B08W2LC5WF",
     "amazonStore": "B08W2LC5WF",
@@ -41,6 +41,24 @@
       "jazz fusion",
       "latin",
       "nuevo flamenco"
-    ]
+    ],
+    "releasedAt": "2019-01-31",
+    "artistCountry": "MX",
+    "externalIdsTrack": {
+      "spotify": "7pQBzirqNMX00qUCoE3ott"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000400110",
+      "bandcamp": "https://rodrigoygabriela.bandcamp.com/",
+      "discogs": "514314",
+      "spotify": "7vX3cMVyW8gtDA4y855ynF",
+      "deezer": "15794",
+      "lastfm": "Rodrigo+y+Gabriela",
+      "genius": "Rodrigo-y-gabriela",
+      "rateyourmusic": "rodrigo_y_gabriela",
+      "soundcloud": "https://soundcloud.com/rodgab",
+      "wikidata": "Q1469093",
+      "youtube": "UCR9AA58EJMID3DymThq2Gqw"
+    }
   }
 }

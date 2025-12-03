@@ -2,7 +2,7 @@
   "youtubeId": "iVvXB-Vwnco",
   "title": "Silvera",
   "artist": "Gojira",
-  "lastFetched": "2025-11-30T19:51:00.482Z",
+  "lastFetched": "2025-12-02T01:41:44.156Z",
   "odesli": {
     "amazonMusic": "B07VTJB548",
     "amazonStore": "B07VTJB548",
@@ -58,6 +58,22 @@
       "post-metal",
       "progressive metal",
       "technical death metal"
-    ]
+    ],
+    "releasedAt": "2016-05-20",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000721409",
+      "bandcamp": "https://gojira.bandcamp.com/",
+      "discogs": "5273873",
+      "spotify": "0GDGKpJFhVpcjIGF8N6Ewt",
+      "deezer": "2993",
+      "lastfm": "Gojira",
+      "genius": "Gojira",
+      "rateyourmusic": "gojira",
+      "soundcloud": "https://soundcloud.com/gojira1",
+      "napster": "gojira",
+      "wikidata": "Q1011412",
+      "youtube": "UCPdbkw3S_0ZSHAqlnxo9E_g"
+    }
   }
 }

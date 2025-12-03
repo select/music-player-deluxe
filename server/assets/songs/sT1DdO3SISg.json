@@ -2,7 +2,7 @@
   "youtubeId": "sT1DdO3SISg",
   "title": "Creep",
   "artist": "Stone Temple Pilots",
-  "lastFetched": "2025-11-30T19:59:07.493Z",
+  "lastFetched": "2025-12-02T01:57:36.809Z",
   "odesli": {
     "amazonMusic": "B0745493HN",
     "amazonStore": "B0745493HN",
@@ -55,6 +55,23 @@
       "neo-psychedelia",
       "post-grunge",
       "power pop"
-    ]
+    ],
+    "releasedAt": "1992-09-29",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "0elH6ukMGLyCHJavHutEza"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000626463",
+      "discogs": "87642",
+      "spotify": "2UazAtjfzqBF0Nho2awK4z",
+      "deezer": "4435",
+      "lastfm": "Stone+Temple+Pilots",
+      "genius": "Stone-temple-pilots",
+      "rateyourmusic": "stone-temple-pilots",
+      "soundcloud": "https://soundcloud.com/stpsoundcloud",
+      "wikidata": "Q329270",
+      "youtube": "UCg26QwzVApb014fbJF-dptQ"
+    }
   }
 }

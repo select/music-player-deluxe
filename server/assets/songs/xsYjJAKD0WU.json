@@ -1,7 +1,7 @@
 {
   "youtubeId": "xsYjJAKD0WU",
   "title": "Collective Soul - Run",
-  "lastFetched": "2025-11-30T21:10:27.043Z",
+  "lastFetched": "2025-12-02T02:05:16.253Z",
   "ai": {
     "title": "Run",
     "artist": "Collective Soul"
@@ -30,6 +30,20 @@
       "hard rock",
       "pop rock",
       "post-grunge"
-    ]
+    ],
+    "releasedAt": "2017-12-08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000105129",
+      "discogs": "261517",
+      "spotify": "4e5V1Q2dKCzbLVMQ8qbTn6",
+      "deezer": "2567",
+      "lastfm": "Collective+Soul",
+      "genius": "Collective-soul",
+      "rateyourmusic": "collective_soul",
+      "soundcloud": "https://soundcloud.com/collectivesoul",
+      "wikidata": "Q593366",
+      "youtube": "UCtGzco00YRL-LUZfx4hCpdg"
+    }
   }
 }

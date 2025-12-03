@@ -1,0 +1,53 @@
+{
+  "youtubeId": "sKNgjkg0W6A",
+  "title": "Netty",
+  "artist": "Amsterdam Klezmer Band",
+  "lastFetched": "2025-12-03T11:51:13.546Z",
+  "odesli": {
+    "amazonMusic": "B001QSKLKO",
+    "amazonStore": "B001QSKLKO",
+    "appleMusic": "298321399",
+    "itunes": "298321399",
+    "napster": "tra.25683603",
+    "pandora": "TR:14153897",
+    "spotify": "029xuUvDE7GKbxfNY7ZYqp",
+    "yandex": "46198944",
+    "youtube": "sKNgjkg0W6A",
+    "youtubeMusic": "sKNgjkg0W6A"
+  },
+  "lastfm": {
+    "id": "Amsterdam+Klezmer+Band/_/Netty",
+    "listeners": 1646,
+    "playcount": 5441,
+    "title": "Netty",
+    "artist": "Amsterdam Klezmer Band",
+    "tags": [
+      "klezmer",
+      "instrumental",
+      "2000s",
+      "2008",
+      "amsterdam klezmer band"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "568ef9d7-a2d0-4a53-aa95-4a728d7d1d44",
+    "artistMbid": "28e27f86-3eba-4e17-9d04-f47b3be48e96",
+    "releaseCount": 3,
+    "genres": [
+      "folk",
+      "klezmer"
+    ],
+    "releasedAt": "2008-11-14",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "allmusic": "mn0000197049",
+      "discogs": "721035",
+      "spotify": "2vMBszTQ5H66LhDEM3mSvl",
+      "deezer": "17272",
+      "lastfm": "Amsterdam+Klezmer+Band",
+      "rateyourmusic": "de-amsterdam-klezmer-band",
+      "soundcloud": "https://soundcloud.com/amsterdamklezmerband",
+      "wikidata": "Q478561"
+    }
+  }
+}

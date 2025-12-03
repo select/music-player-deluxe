@@ -3,7 +3,7 @@
   "artist": "Steve Kuhn",
   "duration": 180,
   "youtubeId": "prcrc772jc0",
-  "lastFetched": "2025-11-23T16:50:28.543Z",
+  "lastFetched": "2025-12-02T01:53:20.266Z",
   "odesli": {
     "amazonMusic": "B0711YHPBP",
     "amazonStore": "B0711YHPBP",
@@ -37,7 +37,17 @@
     ],
     "trackMbid": "18df0096-22e8-4874-a02c-3483b0badd35",
     "artistMbid": "6a13dd5c-e1a2-481a-b7f8-b78d4eb8b867",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2011-08-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000036645",
+      "discogs": "307555",
+      "spotify": "6KEBRNgSvb95hjK9Nh0tzt",
+      "deezer": "81089",
+      "lastfm": "Steve+Kuhn",
+      "wikidata": "Q529822"
+    }
   },
   "lastfm": {
     "id": "Steve+Kuhn/_/The+Meaning+Of+Love",

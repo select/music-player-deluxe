@@ -2,7 +2,7 @@
   "youtubeId": "zjUUx9iSMmE",
   "title": "Remind Me",
   "artist": "Patrice Rushen",
-  "lastFetched": "2025-11-30T22:17:30.677Z",
+  "lastFetched": "2025-12-02T02:08:15.189Z",
   "odesli": {
     "amazonMusic": "B096FBSLSR",
     "amazonStore": "B096FBSLSR",
@@ -45,6 +45,19 @@
       "jazz-funk",
       "smooth soul",
       "soul"
-    ]
+    ],
+    "releasedAt": "1982-04-02",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000743968",
+      "bandcamp": "https://patricerushen.bandcamp.com/",
+      "discogs": "21262",
+      "spotify": "1mNnxxnPfHQDOkFjnZmdkc",
+      "deezer": "7180",
+      "lastfm": "Patrice+Rushen",
+      "genius": "Patrice-rushen",
+      "rateyourmusic": "patrice_rushen",
+      "wikidata": "Q454419"
+    }
   }
 }

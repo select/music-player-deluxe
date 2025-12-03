@@ -2,7 +2,7 @@
   "youtubeId": "pat2c33sbog",
   "title": "Ausländer",
   "artist": "Rammstein",
-  "lastFetched": "2025-12-01T13:00:02.648Z",
+  "lastFetched": "2025-12-02T01:52:58.629Z",
   "odesli": {
     "amazonMusic": "B07PWHLY62",
     "amazonStore": "B07PWHLY62",
@@ -44,6 +44,20 @@
       "metal",
       "neue deutsche härte",
       "rock"
-    ]
+    ],
+    "releasedAt": "2019-05-17",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000333648",
+      "discogs": "11771",
+      "spotify": "6wWVKhxIU2cEi0K81v7HvP",
+      "deezer": "464",
+      "lastfm": "Rammstein",
+      "genius": "Rammstein",
+      "rateyourmusic": "rammstein",
+      "soundcloud": "https://soundcloud.com/rammstein-official",
+      "wikidata": "Q25177",
+      "youtube": "UCs6GGpd9zvsYghuYe0VDFUQ"
+    }
   }
 }

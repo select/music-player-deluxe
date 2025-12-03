@@ -2,7 +2,7 @@
   "youtubeId": "q9fiSHCl5KQ",
   "title": "On My Shoulders",
   "artist": "The Dø",
-  "lastFetched": "2025-12-01T12:59:30.855Z",
+  "lastFetched": "2025-12-02T01:53:51.642Z",
   "odesli": {
     "amazonMusic": "B073HSGGC6",
     "amazonStore": "B073HSGGC6",
@@ -41,6 +41,18 @@
       "folk rock",
       "indie pop",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2007-10-22",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0001557353",
+      "discogs": "988573",
+      "spotify": "2mcNCn1qbZUQ3J9KHapUxj",
+      "deezer": "378715",
+      "lastfm": "The%20D%C3%B8",
+      "rateyourmusic": "the_do",
+      "soundcloud": "https://soundcloud.com/thedo",
+      "wikidata": "Q1027492"
+    }
   }
 }

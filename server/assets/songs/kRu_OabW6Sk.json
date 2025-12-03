@@ -2,7 +2,7 @@
   "youtubeId": "kRu_OabW6Sk",
   "title": "Harrowdown Hill",
   "artist": "Thom Yorke",
-  "lastFetched": "2025-11-30T22:04:18.530Z",
+  "lastFetched": "2025-12-02T01:44:53.449Z",
   "lastfm": {
     "summary": "\"Harrowdown Hill\" is a song by Radiohead frontman Thom Yorke and is the eighth track on his 2006 album The Eraser. The song was also released as a limited edition single in the United Kingdom on 21 August 2006, peaking at #23 in the UK Singles Chart (see 2006 in British music). \"Harrowdown Hill\" was Yorke's first official solo single, and one of two to be released from The Eraser; however, the track \"Black Swan\" had already been issued as a radio-only single in some areas. <a href=\"http://www.last.fm/music/Thom+Yorke/_/Harrowdown+Hill\">Read more on Last.fm</a>.",
     "id": "Thom+Yorke/_/Harrowdown+Hill",
@@ -40,6 +40,23 @@
       "glitch pop",
       "idm",
       "rock"
-    ]
+    ],
+    "releasedAt": "2006-07-05",
+    "externalIdsTrack": {
+      "spotify": "1pX7VlGPmb1P7Mbtlnvt2p"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000588887",
+      "bandcamp": "https://thomyorke.bandcamp.com/",
+      "discogs": "4854",
+      "spotify": "4CvTDPKA6W06DRfBnZKrau",
+      "deezer": "5806",
+      "lastfm": "Thom+Yorke",
+      "genius": "Thom-yorke",
+      "rateyourmusic": "thom-yorke",
+      "soundcloud": "https://soundcloud.com/thomyorkeofficial",
+      "wikidata": "Q188668",
+      "youtube": "UC9BJwi8Q2AiLtLHdGlWqsrQ"
+    }
   }
 }

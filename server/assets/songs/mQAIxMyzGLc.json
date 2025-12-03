@@ -2,7 +2,7 @@
   "youtubeId": "mQAIxMyzGLc",
   "title": "We Are Not Alone",
   "artist": "Frank Zappa",
-  "lastFetched": "2025-11-30T22:51:19.704Z",
+  "lastFetched": "2025-12-02T01:47:51.033Z",
   "odesli": {
     "amazonMusic": "B00B319Y3Y",
     "amazonStore": "B00B319Y3Y",
@@ -54,6 +54,20 @@
       "progressive rock",
       "psychedelic rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "1983",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000138699",
+      "discogs": "92623",
+      "spotify": "6ra4GIOgCZQZMOaUECftGN",
+      "deezer": "2167",
+      "lastfm": "Frank+Zappa",
+      "genius": "Frank-zappa",
+      "rateyourmusic": "frank-zappa",
+      "soundcloud": "https://soundcloud.com/frankzappa",
+      "wikidata": "Q127330",
+      "youtube": "UCj-Qb2d6dJJJtNL4rgr3FNw"
+    }
   }
 }

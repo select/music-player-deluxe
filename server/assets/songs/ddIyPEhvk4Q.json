@@ -4,7 +4,7 @@
   "album": "Body and Shadow",
   "duration": 189,
   "youtubeId": "ddIyPEhvk4Q",
-  "lastFetched": "2025-11-23T16:44:45.223Z",
+  "lastFetched": "2025-12-02T01:35:12.842Z",
   "odesli": {
     "amazonMusic": "B07683BWHF",
     "amazonStore": "B07683BWHF",
@@ -34,7 +34,17 @@
       "jazz fusion"
     ],
     "trackMbid": "db421e2e-95f6-400c-972f-612fe6302b1e",
-    "artistMbid": "4d54e19b-f78d-4d2b-bdcd-a8d0348d6e6f"
+    "artistMbid": "4d54e19b-f78d-4d2b-bdcd-a8d0348d6e6f",
+    "releasedAt": "2017-11-10",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000623443",
+      "discogs": "252331",
+      "spotify": "0nXwIc4NAbu2K881ealRDu",
+      "deezer": "205407",
+      "rateyourmusic": "brian_blade",
+      "wikidata": "Q911894"
+    }
   },
   "lastfm": {
     "id": "Brian+Blade+&+The+Fellowship+Band/_/Body+And+Shadow+(Night)",

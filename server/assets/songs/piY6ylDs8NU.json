@@ -2,7 +2,7 @@
   "youtubeId": "piY6ylDs8NU",
   "title": "London Boy",
   "artist": "Dizzee Rascal",
-  "lastFetched": "2025-11-30T22:51:08.999Z",
+  "lastFetched": "2025-12-02T01:53:07.381Z",
   "odesli": {
     "amazonMusic": "B0CQMHBWQ5",
     "amazonStore": "B0CQMHBWQ5",
@@ -41,6 +41,20 @@
       "r&b",
       "trance",
       "uk garage"
-    ]
+    ],
+    "releasedAt": "2024-02-09",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000161773",
+      "discogs": "78659",
+      "spotify": "0gusqTJKxtU1UTmNRMHZcv",
+      "deezer": "2388",
+      "lastfm": "Dizzee+Rascal",
+      "genius": "Dizzee-rascal",
+      "rateyourmusic": "dizzee_rascal",
+      "soundcloud": "https://soundcloud.com/dizzee-rascal",
+      "wikidata": "Q366506",
+      "youtube": "UCKlrn_i8L8F8gTilhc2kmEQ"
+    }
   }
 }

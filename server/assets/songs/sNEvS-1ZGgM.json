@@ -1,0 +1,38 @@
+{
+  "youtubeId": "sNEvS-1ZGgM",
+  "title": "Moonlight Avenue",
+  "artist": "Ti.po.ta",
+  "lastFetched": "2025-12-03T12:02:52.575Z",
+  "odesli": {
+    "amazonMusic": "B072JD7ZFF",
+    "amazonStore": "B072JD7ZFF",
+    "appleMusic": "1241455552",
+    "itunes": "1241455552",
+    "pandora": "TR:10497805",
+    "soundcloud": "user-76190107/tipota-moonlight-avenue",
+    "spotify": "5e17Iwey60e1MWX2B5UfZu",
+    "tidal": "74506845",
+    "youtube": "sNEvS-1ZGgM",
+    "youtubeMusic": "sNEvS-1ZGgM"
+  },
+  "lastfm": {
+    "id": "TI.PO.TA/_/MOONLIGHT+AVENUE",
+    "listeners": 15600,
+    "playcount": 56532,
+    "title": "MOONLIGHT AVENUE",
+    "artist": "TI.PO.TA",
+    "mbid": "90939009-dff2-4c42-bfa2-98c32ccae64e",
+    "tags": [
+      "nothing"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2d7de950-e3b9-454a-9171-02cb65f1d880",
+    "artistMbid": "8e8ca642-c8a0-48f6-8d75-153dcabdfb2b",
+    "releaseCount": 3,
+    "releasedAt": "2017-01-01",
+    "externalIdsArtist": {
+      "discogs": "5814097"
+    }
+  }
+}

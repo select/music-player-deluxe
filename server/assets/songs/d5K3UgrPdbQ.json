@@ -2,7 +2,7 @@
   "youtubeId": "d5K3UgrPdbQ",
   "title": "Christmas in L.A.",
   "artist": "Vulfpeck",
-  "lastFetched": "2025-11-30T21:58:31.237Z",
+  "lastFetched": "2025-12-02T01:34:46.848Z",
   "odesli": {
     "amazonMusic": "B013NQUUXO",
     "amazonStore": "B013NQUUXO",
@@ -36,6 +36,17 @@
     "artistGenres": [
       "funk",
       "indie pop"
-    ]
+    ],
+    "releasedAt": "2014-12-02",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003447559",
+      "bandcamp": "https://vulfpeck.bandcamp.com/",
+      "discogs": "3852273",
+      "spotify": "7pXu47GoqSYRajmBCjxdD6",
+      "deezer": "4441488",
+      "rateyourmusic": "vulfpeck",
+      "wikidata": "Q17091147"
+    }
   }
 }

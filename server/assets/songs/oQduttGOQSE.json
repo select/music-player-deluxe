@@ -1,7 +1,7 @@
 {
   "youtubeId": "oQduttGOQSE",
   "title": "plastikman - pakard",
-  "lastFetched": "2025-11-30T20:27:50.389Z",
+  "lastFetched": "2025-12-02T01:51:03.744Z",
   "ai": {
     "title": "pakard",
     "artist": "plastikman"
@@ -32,6 +32,19 @@
       "acid techno",
       "microhouse",
       "minimal techno"
-    ]
+    ],
+    "releasedAt": "1998-11-02",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000355386",
+      "discogs": "1030",
+      "spotify": "7GoFQNOTX0suC6Tn59qx8n",
+      "deezer": "7397",
+      "lastfm": "Plastikman",
+      "genius": "Plastikman",
+      "rateyourmusic": "plastikman",
+      "soundcloud": "https://soundcloud.com/richiehawtin",
+      "wikidata": "Q378876"
+    }
   }
 }

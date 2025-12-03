@@ -2,7 +2,7 @@
   "youtubeId": "X5kmM98iklo",
   "title": "Nur ein Wort",
   "artist": "Wir sind Helden",
-  "lastFetched": "2025-11-30T21:37:50.061Z",
+  "lastFetched": "2025-12-02T01:23:33.256Z",
   "odesli": {
     "amazonMusic": "B0F1NM1DL4",
     "amazonStore": "B0F1NM1DL4",
@@ -47,6 +47,20 @@
       "pop",
       "pop rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2005-04-04",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000568593",
+      "discogs": "144005",
+      "spotify": "3jiOHVFdVQjbSDVeC7RgY7",
+      "deezer": "1372",
+      "lastfm": "Wir+sind+Helden",
+      "genius": "Wir-sind-helden",
+      "rateyourmusic": "wir_sind_helden",
+      "soundcloud": "https://soundcloud.com/wir-sind-helden",
+      "wikidata": "Q157079",
+      "youtube": "UCnS-aTAcLzj1ylzsJA6jzPg"
+    }
   }
 }

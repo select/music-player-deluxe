@@ -2,7 +2,7 @@
   "youtubeId": "cUO9_wlhuu8",
   "title": "The HoaX",
   "artist": "Pryda",
-  "lastFetched": "2025-11-23T16:44:16.141Z",
+  "lastFetched": "2025-12-02T01:33:30.376Z",
   "odesli": {
     "amazonMusic": "B07D41SSK8",
     "amazonStore": "B07D41SSK8",
@@ -23,7 +23,18 @@
       "progressive house"
     ],
     "trackMbid": "488b2c87-f578-4746-9fe9-43df5566f0f2",
-    "artistMbid": "bbf594b2-4c13-4408-979d-7d934a837f2d"
+    "artistMbid": "bbf594b2-4c13-4408-979d-7d934a837f2d",
+    "releasedAt": "2018-06-20",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000081682",
+      "discogs": "238962",
+      "spotify": "37U9sPqTZMd7AKJCWgcvkt",
+      "deezer": "167920",
+      "lastfm": "Pryda",
+      "rateyourmusic": "pryda",
+      "wikidata": "Q155141"
+    }
   },
   "lastfm": {
     "id": "Pryda/_/The+HoaX",

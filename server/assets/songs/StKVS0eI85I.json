@@ -1,0 +1,68 @@
+{
+  "youtubeId": "StKVS0eI85I",
+  "title": "Call Me",
+  "artist": "Blondie",
+  "lastFetched": "2025-12-03T11:43:24.555Z",
+  "odesli": {
+    "amazonMusic": "B0087YXOAO",
+    "amazonStore": "B0087YXOAO",
+    "anghami": "1074728773",
+    "boomplay": "2149629",
+    "pandora": "TR:5852991",
+    "soundcloud": "blondie/call-me-2",
+    "spotify": "7HKxTNVlkHsfMLhigmhC0I",
+    "tidal": "1335096",
+    "youtube": "StKVS0eI85I",
+    "youtubeMusic": "StKVS0eI85I"
+  },
+  "lastfm": {
+    "summary": "\"Call Me\" is a song by the American new wave band Blondie and the theme to the 1980 film American Gigolo. Released in the US in early 1980 as a single, \"Call Me\" was No. 1 for six consecutive weeks on the Billboard Hot 100 chart, where it became the band's biggest single and second No. 1. It also hit No. 1 in the UK and Canada, where it became their fourth and second chart-topper, respectively. In the year-end chart of 1980, it was Billboard's No. 1 single and RPM magazine's No. 3 in Canada. <a href=\"http://www.last.fm/music/Blondie/_/Call+Me\">Read more on Last.fm</a>.",
+    "id": "Blondie/_/Call+Me",
+    "listeners": 1486952,
+    "playcount": 10140209,
+    "tags": [
+      "80s",
+      "new wave",
+      "rock",
+      "female vocalists",
+      "pop"
+    ],
+    "title": "Call Me",
+    "artist": "Blondie",
+    "mbid": "6f6f5eca-19f2-44c6-9619-bcd797687b31",
+    "artistMbid": "4d2956d1-a3f7-44bb-9a41-67563e1a0c94"
+  },
+  "musicbrainz": {
+    "trackMbid": "b99dca0c-abdc-4a62-8e49-d07803d56828",
+    "artistMbid": "4d2956d1-a3f7-44bb-9a41-67563e1a0c94",
+    "releaseCount": 7,
+    "genres": [
+      "disco"
+    ],
+    "artistGenres": [
+      "disco",
+      "new wave",
+      "pop",
+      "pop rock",
+      "power pop",
+      "punk",
+      "punk rock",
+      "rock"
+    ],
+    "releasedAt": "2014-05-09",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000044764",
+      "discogs": "16655",
+      "spotify": "4tpUmLEVLCGFr93o8hFFIB",
+      "deezer": "425",
+      "lastfm": "Blondie",
+      "genius": "Blondie",
+      "rateyourmusic": "blondie",
+      "soundcloud": "https://soundcloud.com/blondie",
+      "napster": "blondie",
+      "wikidata": "Q202741",
+      "youtube": "UCF6I8FH_f6NBEsngIfkZY6g"
+    }
+  }
+}

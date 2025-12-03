@@ -2,7 +2,7 @@
   "youtubeId": "_Xa_1KxR-8M",
   "title": "N'oubliez Jamais",
   "artist": "Joe Cocker",
-  "lastFetched": "2025-11-23T16:42:47.331Z",
+  "lastFetched": "2025-12-02T01:29:14.558Z",
   "odesli": {
     "amazonMusic": "B0DZW4NB7S",
     "amazonStore": "B0DZW4NB7S",
@@ -31,7 +31,19 @@
       "rock"
     ],
     "trackMbid": "029b2984-56e8-30d4-b34d-e28e604b75dd",
-    "artistMbid": "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb"
+    "artistMbid": "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000149515",
+      "discogs": "124497",
+      "spotify": "3pFCERyEiP5xeN2EsPXhjI",
+      "deezer": "1866",
+      "lastfm": "Joe+Cocker",
+      "genius": "Joe-cocker",
+      "rateyourmusic": "joe-cocker",
+      "soundcloud": "https://soundcloud.com/joe-cocker-official",
+      "wikidata": "Q190076"
+    }
   },
   "lastfm": {
     "id": "Joe+Cocker/_/N%27oubliez+Jamais",

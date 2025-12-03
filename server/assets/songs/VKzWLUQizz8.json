@@ -2,7 +2,7 @@
   "youtubeId": "VKzWLUQizz8",
   "title": "Genesis",
   "artist": "Justice",
-  "lastFetched": "2025-11-23T16:40:51.271Z",
+  "lastFetched": "2025-12-02T01:21:06.408Z",
   "odesli": {
     "amazonMusic": "B073HJF4YY",
     "amazonStore": "B073HJF4YY",
@@ -42,7 +42,20 @@
       "electronic"
     ],
     "trackMbid": "01492e36-f10e-48ca-8d5c-4aa120da646b",
-    "artistMbid": "860b2707-6153-4e3a-aa57-74d2b42c55b5"
+    "artistMbid": "860b2707-6153-4e3a-aa57-74d2b42c55b5",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000648106",
+      "bandcamp": "https://etjusticepourtous.bandcamp.com/",
+      "discogs": "52758",
+      "spotify": "1gR0gsQYfi6joyO1dlp76N",
+      "deezer": "6404",
+      "lastfm": "Justice",
+      "rateyourmusic": "justice-1",
+      "soundcloud": "https://soundcloud.com/justice-official",
+      "wikidata": "Q329178",
+      "youtube": "UCQ5Ssrs48yJBfOesfDqXUeA"
+    }
   },
   "lastfm": {
     "id": "Justice/_/Genesis",

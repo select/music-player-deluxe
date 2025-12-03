@@ -2,7 +2,7 @@
   "youtubeId": "hOrUAehL900",
   "title": "That Ain't the Way You Make Love",
   "artist": "Z.Z. Hill",
-  "lastFetched": "2025-11-30T22:42:39.660Z",
+  "lastFetched": "2025-12-02T01:40:14.198Z",
   "odesli": {
     "amazonMusic": "B0013R0X9C",
     "amazonStore": "B0013R0X9C",
@@ -33,6 +33,15 @@
     "artistGenres": [
       "blues",
       "r&b"
-    ]
+    ],
+    "releasedAt": "1975",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000689965",
+      "discogs": "132972",
+      "deezer": "113240",
+      "rateyourmusic": "z_z__hill",
+      "wikidata": "Q135815"
+    }
   }
 }

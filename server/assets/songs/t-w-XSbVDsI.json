@@ -2,7 +2,7 @@
   "youtubeId": "t-w-XSbVDsI",
   "title": "Everything Connected",
   "artist": "Jon Hopkins",
-  "lastFetched": "2025-11-30T20:07:52.209Z",
+  "lastFetched": "2025-12-02T01:58:13.026Z",
   "odesli": {
     "amazonMusic": "B079VPBB3Z",
     "amazonStore": "B079VPBB3Z",
@@ -46,6 +46,21 @@
       "idm",
       "tech house",
       "techno"
-    ]
+    ],
+    "releasedAt": "2018-04-25",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000822040",
+      "bandcamp": "https://jonhopkins.bandcamp.com/",
+      "discogs": "24056",
+      "spotify": "7yxi31szvlbwvKq9dYOmFI",
+      "deezer": "258846",
+      "lastfm": "Jon+Hopkins",
+      "genius": "Jon-hopkins",
+      "rateyourmusic": "jon-hopkins",
+      "soundcloud": "https://soundcloud.com/jonhopkins",
+      "wikidata": "Q903592",
+      "youtube": "UCiwgazsh4EbM04FIQuyDVYw"
+    }
   }
 }

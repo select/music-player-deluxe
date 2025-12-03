@@ -1,0 +1,65 @@
+{
+  "youtubeId": "9zFfRSeA1ls",
+  "title": "Angels Fall",
+  "artist": "Breaking Benjamin",
+  "lastFetched": "2025-12-03T11:45:14.424Z",
+  "odesli": {
+    "amazonMusic": "B00UMI9A2Y",
+    "amazonStore": "B00UMI9A2Y",
+    "anghami": "8692776",
+    "boomplay": "2366758",
+    "pandora": "TR:3307318",
+    "soundcloud": "breaking_benjamin/angels-fall",
+    "spotify": "2D9BrlpeyjXF0vli2dYQ5V",
+    "tidal": "77617998",
+    "yandex": "23419584",
+    "youtube": "9zFfRSeA1ls",
+    "youtubeMusic": "9zFfRSeA1ls"
+  },
+  "lastfm": {
+    "summary": "\"Angels Fall\" is a song by American rock band Breaking Benjamin. Released soon after the album's lead single \"Failure\" on April 14, 2015, the track is the second single on the band's fifth studio album Dark Before Dawn and is the album's third track overall. \n\nThe lyrics remind the listener that, no matter how difficult circumstances may seem, one can always find a glimmer of hope. Sonically, the song teeters back and forth from verses with subdued dark undertones to choruses with bright explosions of radio-friendly guitar rock. <a href=\"http://www.last.fm/music/Breaking+Benjamin/_/Angels+Fall\">Read more on Last.fm</a>.",
+    "id": "Breaking+Benjamin/_/Angels+Fall",
+    "listeners": 170760,
+    "playcount": 1419138,
+    "title": "Angels Fall",
+    "artist": "Breaking Benjamin",
+    "tags": [
+      "rock",
+      "alternative rock",
+      "post-grunge",
+      "hard rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7f71f47c-4208-4af5-b8ac-41263ece3c09",
+    "artistMbid": "854a1807-025b-42a8-ba8c-2a39717f1d25",
+    "releaseCount": 11,
+    "genres": [
+      "alternative metal",
+      "hard rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "hard rock",
+      "metal",
+      "post-grunge"
+    ],
+    "releasedAt": "2015-04-14",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000934367",
+      "discogs": "397701",
+      "spotify": "5BtHciL0e0zOP7prIHn3pP",
+      "deezer": "5286",
+      "lastfm": "Breaking+Benjamin",
+      "genius": "Breaking-benjamin",
+      "rateyourmusic": "breaking_benjamin",
+      "soundcloud": "https://soundcloud.com/breaking-benjamin-official",
+      "napster": "breaking-benjamin",
+      "wikidata": "Q271984",
+      "youtube": "UCgdqrZsRnxy1qGIusPhQEyg"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "yg-1qW2xAU4",
   "title": "Trouble",
   "artist": "Elvis Presley",
-  "lastFetched": "2025-11-30T19:39:24.385Z",
+  "lastFetched": "2025-12-02T02:06:27.205Z",
   "odesli": {
     "amazonMusic": "B073RKW5W3",
     "amazonStore": "B073RKW5W3",
@@ -54,6 +54,21 @@
       "rock and roll",
       "rockabilly",
       "soul"
-    ]
+    ],
+    "releasedAt": "1992",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000180228",
+      "discogs": "27518",
+      "spotify": "43ZHCT0cAZBISjO8DG9PnE",
+      "deezer": "1125",
+      "lastfm": "Elvis+Presley",
+      "genius": "Elvis-presley",
+      "rateyourmusic": "elvis_presley",
+      "soundcloud": "https://soundcloud.com/elvissonymusic",
+      "napster": "elvis-presley",
+      "wikidata": "Q303",
+      "youtube": "UChgxarBUCnPJV871-46bJ2g"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "cHFzyFMT0pw",
   "title": "Kids See Ghosts",
   "artist": "KIDS SEE GHOSTS",
-  "lastFetched": "2025-11-30T22:15:20.125Z",
+  "lastFetched": "2025-12-02T01:33:06.800Z",
   "odesli": {
     "amazonMusic": "B07DM7HPMT",
     "amazonStore": "B07DM7HPMT",
@@ -47,6 +47,16 @@
       "experimental hip hop",
       "hip hop",
       "pop rap"
-    ]
+    ],
+    "releasedAt": "2018-06-08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003748385",
+      "discogs": "6527227",
+      "spotify": "2hPgGN4uhvXAxiXQBIXOmE",
+      "deezer": "14997345",
+      "rateyourmusic": "kids-see-ghosts",
+      "wikidata": "Q52019801"
+    }
   }
 }

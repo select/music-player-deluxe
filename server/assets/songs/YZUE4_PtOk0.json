@@ -2,7 +2,7 @@
   "youtubeId": "YZUE4_PtOk0",
   "title": "It's Raining Again",
   "artist": "Supertramp",
-  "lastFetched": "2025-11-30T21:20:13.663Z",
+  "lastFetched": "2025-12-02T01:26:03.991Z",
   "odesli": {
     "amazonMusic": "B000V6514I",
     "amazonStore": "B000V6514I",
@@ -45,6 +45,21 @@
       "progressive rock",
       "rock",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "2005-01-28",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000033666",
+      "discogs": "251517",
+      "spotify": "3JsMj0DEzyWc0VDlHuy9Bx",
+      "deezer": "3128",
+      "lastfm": "Supertramp",
+      "genius": "Supertramp",
+      "rateyourmusic": "supertramp",
+      "napster": "supertramp",
+      "wikidata": "Q176457",
+      "wikipedia": "Supertramp",
+      "youtube": "UCuD7geq8bM0VYQAzW1J-3_Q"
+    }
   }
 }

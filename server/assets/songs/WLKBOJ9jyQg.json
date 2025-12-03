@@ -1,0 +1,65 @@
+{
+  "youtubeId": "WLKBOJ9jyQg",
+  "title": "Idlewild",
+  "artist": "Travis",
+  "lastFetched": "2025-12-03T11:43:29.278Z",
+  "odesli": {
+    "amazonMusic": "B019GAY47O",
+    "amazonStore": "B019GAY47O",
+    "anghami": "13207410",
+    "pandora": "TR:5387364",
+    "soundcloud": "travistheband/idlewild-1",
+    "spotify": "4EP87eJihvWwsugOYa6u9g",
+    "tidal": "59589020",
+    "youtube": "WLKBOJ9jyQg",
+    "youtubeMusic": "WLKBOJ9jyQg"
+  },
+  "lastfm": {
+    "id": "Travis/_/IDLEWILD",
+    "listeners": 34850,
+    "playcount": 179234,
+    "title": "IDLEWILD",
+    "artist": "Travis",
+    "mbid": "37a1c6b4-bbf0-49a8-8d06-7001cfca87c8",
+    "artistMbid": "22a40b75-affc-4e69-8884-266d087e4751",
+    "tags": [
+      "britpop",
+      "indie",
+      "british",
+      "rock",
+      "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1f194647-ac81-4e02-a03b-2d5a70a74e10",
+    "artistMbid": "22a40b75-affc-4e69-8884-266d087e4751",
+    "releaseCount": 4,
+    "genres": [
+      "indie rock",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "britpop",
+      "indie pop",
+      "indie rock",
+      "jangle pop",
+      "pop rock",
+      "post-britpop"
+    ],
+    "releasedAt": "2016-04-29",
+    "externalIdsArtist": {
+      "allmusic": "mn0000013508",
+      "discogs": "102983",
+      "spotify": "3bUwxJgNakzYKkqAVgZLlh",
+      "deezer": "1295",
+      "lastfm": "Travis",
+      "genius": "Travis",
+      "rateyourmusic": "travis",
+      "soundcloud": "https://soundcloud.com/travistheband",
+      "wikidata": "Q160103",
+      "youtube": "UCowh5WX6b70SpXxZvfMQE7Q"
+    }
+  }
+}

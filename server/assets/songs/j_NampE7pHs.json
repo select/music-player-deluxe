@@ -3,7 +3,7 @@
   "artist": "DJ Python",
   "duration": 271,
   "youtubeId": "j_NampE7pHs",
-  "lastFetched": "2025-11-23T16:47:13.790Z",
+  "lastFetched": "2025-12-02T01:43:19.701Z",
   "odesli": {
     "amazonMusic": "B0BCVC1D84",
     "amazonStore": "B0BCVC1D84",
@@ -23,7 +23,19 @@
     ],
     "trackMbid": "da9b1e6f-126a-4d8e-ba58-edadced2a6ab",
     "artistMbid": "42343a91-da25-4fb3-aac7-bc297956c79c",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2020-04-10",
+    "externalIdsArtist": {
+      "allmusic": "mn0003856129",
+      "bandcamp": "https://djpythonnyc.bandcamp.com/",
+      "discogs": "5021249",
+      "spotify": "1LoZxxInSyuVFKSMAB4BPl",
+      "genius": "Dj-python",
+      "rateyourmusic": "dj-python",
+      "soundcloud": "https://soundcloud.com/worldwideunlimited",
+      "wikidata": "Q114628015",
+      "youtube": "UCW4AJyMBD4oI62cry5X78lQ"
+    }
   },
   "lastfm": {
     "id": "DJ+Python/_/Descanse",

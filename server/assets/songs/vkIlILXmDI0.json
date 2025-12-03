@@ -2,7 +2,7 @@
   "youtubeId": "vkIlILXmDI0",
   "title": "Es ist Weihnachtstag",
   "artist": "Reinhard Mey",
-  "lastFetched": "2025-11-30T20:35:03.248Z",
+  "lastFetched": "2025-12-02T02:02:03.854Z",
   "odesli": {
     "amazonMusic": "B002O25ZLQ",
     "amazonStore": "B002O25ZLQ",
@@ -40,6 +40,20 @@
     "artistGenres": [
       "liedermacher",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "1986",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000906171",
+      "discogs": "591932",
+      "spotify": "119CgQj02xyMpOobWjdb3C",
+      "deezer": "240924",
+      "lastfm": "Reinhard+Mey",
+      "genius": "Reinhard-mey",
+      "rateyourmusic": "reinhard_mey",
+      "soundcloud": "https://soundcloud.com/reinhardmey",
+      "wikidata": "Q164721",
+      "youtube": "UCtA_Bw_UL5txlWJehv1MATg"
+    }
   }
 }

@@ -1,0 +1,77 @@
+{
+  "youtubeId": "GB_S2qFh5lU",
+  "title": "No Time To Die",
+  "artist": "Billie Eilish",
+  "lastFetched": "2025-12-03T11:53:06.269Z",
+  "odesli": {
+    "amazonMusic": "B084Q1DN4S",
+    "amazonStore": "B084Q1DN4S",
+    "audius": "v78qz",
+    "anghami": "1030452373",
+    "boomplay": "19371816",
+    "appleMusic": "1498647654",
+    "itunes": "1498647654",
+    "pandora": "TR:29035053",
+    "soundcloud": "billieeilish/no-time-to-die",
+    "spotify": "73SpzrcaHk0RQPFP73vqVR",
+    "tidal": "131333084",
+    "yandex": "62730777",
+    "youtube": "GB_S2qFh5lU",
+    "youtubeMusic": "GB_S2qFh5lU"
+  },
+  "lastfm": {
+    "summary": "“No Time to Die” serves as the theme song to the 25th James Bond film of the same name. The song was announced on January 14, 2020.\n\nThe song follows in the fabled series of theme songs seen in the film franchise, featuring the likes of mega-hits such as “Skyfall” by British singer Adele, “Live and Let Die” by The Beatles artist Paul McCartney, and “Goldfinger” by Shirley Bassey. It also follows a similar pattern as the other theme songs. <a href=\"http://www.last.fm/music/Billie+Eilish/_/No+Time+to+Die\">Read more on Last.fm</a>.",
+    "id": "Billie+Eilish/_/No+Time+to+Die",
+    "listeners": 803360,
+    "playcount": 8935110,
+    "tags": [
+      "james bond",
+      "2020",
+      "Billie Eilish",
+      "Soundtrack",
+      "pop"
+    ],
+    "title": "No Time to Die",
+    "artist": "Billie Eilish",
+    "mbid": "14848e6d-61fa-49f2-9e22-883e285a3a76",
+    "artistMbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533"
+  },
+  "musicbrainz": {
+    "trackMbid": "14848e6d-61fa-49f2-9e22-883e285a3a76",
+    "artistMbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+    "releaseCount": 25,
+    "genres": [
+      "indie pop"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "alternative r&b",
+      "art pop",
+      "bedroom pop",
+      "contemporary r&b",
+      "electronic",
+      "electronica",
+      "electropop",
+      "indie pop",
+      "pop",
+      "pop rock",
+      "pop soul",
+      "singer-songwriter"
+    ],
+    "releasedAt": "2020-02-13",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003475903",
+      "discogs": "6502756",
+      "spotify": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "deezer": "9635624",
+      "lastfm": "Billie+Eilish",
+      "genius": "Billie-eilish",
+      "rateyourmusic": "billie-eilish",
+      "soundcloud": "https://soundcloud.com/billieeilish",
+      "napster": "billie-eilish",
+      "wikidata": "Q29564107",
+      "youtube": "UCERrDZ8oN0U_n9MphMKERcg"
+    }
+  }
+}

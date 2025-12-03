@@ -2,7 +2,7 @@
   "youtubeId": "hn3wJ1_1Zsg",
   "title": "Lost on You",
   "artist": "LP",
-  "lastFetched": "2025-11-30T22:30:56.851Z",
+  "lastFetched": "2025-12-02T01:40:47.604Z",
   "odesli": {
     "amazonMusic": "B0F15W7PHT",
     "amazonStore": "B0F15W7PHT",
@@ -55,6 +55,19 @@
     "artistGenres": [
       "pop rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2015-11-20",
+    "externalIdsArtist": {
+      "allmusic": "mn0002894200",
+      "discogs": "991792",
+      "spotify": "0J7U24vlOOIeMpuaO6Q85A",
+      "deezer": "112259",
+      "lastfm": "L.P.",
+      "genius": "LP",
+      "rateyourmusic": "l_p_",
+      "soundcloud": "https://soundcloud.com/iamlpmusic",
+      "wikidata": "Q6456303",
+      "youtube": "UCGZhNQ6mRnvLa0_oVJNG_kA"
+    }
   }
 }

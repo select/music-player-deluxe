@@ -1,0 +1,57 @@
+{
+  "youtubeId": "BcyFJLrBVhA",
+  "title": "Uber Everywhere",
+  "artist": "MadeinTYO",
+  "lastFetched": "2025-12-03T12:06:51.342Z",
+  "odesli": {
+    "amazonMusic": "B09DXFCWFP",
+    "amazonStore": "B09DXFCWFP",
+    "audius": "QVvdw",
+    "boomplay": "16806335",
+    "soundcloud": "madeintyo/uber-everywhere-prod-k-swisha",
+    "spotify": "1EeQUb8jruGF8JRt1BgKve",
+    "yandex": "27797357",
+    "youtube": "BcyFJLrBVhA",
+    "youtubeMusic": "BcyFJLrBVhA"
+  },
+  "lastfm": {
+    "id": "MadeinTYO/_/UBER+everywhere",
+    "listeners": 176413,
+    "playcount": 890845,
+    "title": "UBER everywhere",
+    "artist": "MadeinTYO",
+    "mbid": "58f6b3c9-d3ad-4429-b3fe-67a7beb8e15a",
+    "artistMbid": "01667dde-e5fd-4748-9986-ac623e4e9d65",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "trap",
+      "2016",
+      "madeintyo"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4d7c7438-1d3e-4c2f-a9ac-37e33a71fa93",
+    "artistMbid": "01667dde-e5fd-4748-9986-ac623e4e9d65",
+    "releaseCount": 3,
+    "genres": [
+      "hip hop"
+    ],
+    "artistGenres": [
+      "hip hop",
+      "trap"
+    ],
+    "releasedAt": "2016-02-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003487740",
+      "discogs": "5038629",
+      "spotify": "5SyGEPymt1G2uto47tVWvZ",
+      "deezer": "9928732",
+      "lastfm": "Madeintyo",
+      "soundcloud": "https://soundcloud.com/madeintyo",
+      "wikidata": "Q24151039",
+      "youtube": "UCd8yaXFD449WbtKVN3T6G4g"
+    }
+  }
+}

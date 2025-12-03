@@ -2,7 +2,7 @@
   "youtubeId": "qp1dRh2FVVs",
   "title": "Hearts Alive",
   "artist": "Mastodon",
-  "lastFetched": "2025-12-01T13:02:29.853Z",
+  "lastFetched": "2025-12-02T01:54:53.171Z",
   "odesli": {
     "amazonMusic": "B000XUBLE6",
     "amazonStore": "B000XUBLE6",
@@ -48,6 +48,25 @@
       "progressive metal",
       "sludge metal",
       "stoner metal"
-    ]
+    ],
+    "releasedAt": "2004-08-31",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "5ZwXpxkFA2qW0nGCXwpIx4"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000382565",
+      "bandcamp": "https://mastodon.bandcamp.com/",
+      "discogs": "252161",
+      "spotify": "1Dvfqq39HxvCJ3GvfeIFuT",
+      "deezer": "9267",
+      "lastfm": "Mastodon",
+      "genius": "Mastodon",
+      "rateyourmusic": "mastodon",
+      "soundcloud": "https://soundcloud.com/mastodonrocks",
+      "napster": "mastodon",
+      "wikidata": "Q548844",
+      "youtube": "UCk_XWyHOD2ynJb3ekJBwdew"
+    }
   }
 }

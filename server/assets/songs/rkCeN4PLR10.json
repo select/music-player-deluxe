@@ -1,7 +1,7 @@
 {
   "youtubeId": "rkCeN4PLR10",
   "title": "XTC-Then She Appeared- Nonsuch 1992",
-  "lastFetched": "2025-11-30T21:09:25.578Z",
+  "lastFetched": "2025-12-02T01:56:30.821Z",
   "ai": {
     "title": "Then She Appeared",
     "artist": "XTC"
@@ -42,6 +42,24 @@
       "power pop",
       "psychedelic pop",
       "zolo"
-    ]
+    ],
+    "releasedAt": "1992-04-01",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "6mBoE4SeqM0zYBKFvPB5Pd",
+      "deezer": "3135833"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000678339",
+      "discogs": "15118",
+      "spotify": "2qT62DYO8Ajb276vUJmvhz",
+      "deezer": "2158",
+      "lastfm": "XTC",
+      "genius": "Xtc",
+      "rateyourmusic": "xtc",
+      "soundcloud": "https://soundcloud.com/xtc-official",
+      "wikidata": "Q1413926",
+      "youtube": "UCgsgbGAPI68KlnBRGFMtRuA"
+    }
   }
 }

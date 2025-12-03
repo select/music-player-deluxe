@@ -2,7 +2,7 @@
   "youtubeId": "z-mxBDuRaZ8",
   "title": "Lazy Eye",
   "artist": "Silversun Pickups",
-  "lastFetched": "2025-11-30T21:06:23.379Z",
+  "lastFetched": "2025-12-02T02:07:23.524Z",
   "odesli": {
     "amazonMusic": "B00R8JQPS2",
     "amazonStore": "B00R8JQPS2",
@@ -44,6 +44,21 @@
       "indietronica",
       "rock",
       "shoegaze"
-    ]
+    ],
+    "releasedAt": "2007-02-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000756754",
+      "bandcamp": "https://silversunpickups.bandcamp.com/",
+      "discogs": "579616",
+      "spotify": "6qyi8X6MdP1lu6B1K6yh3h",
+      "deezer": "8466",
+      "lastfm": "Silversun+Pickups",
+      "genius": "Silversun-pickups",
+      "rateyourmusic": "silversun_pickups",
+      "soundcloud": "https://soundcloud.com/silversunpickups",
+      "napster": "silversun-pickups",
+      "wikidata": "Q312275"
+    }
   }
 }

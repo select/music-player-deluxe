@@ -1,0 +1,45 @@
+{
+  "youtubeId": "24PnCsZddBk",
+  "title": "MEUTE - What Else Is There? (Röyksopp Rework)",
+  "lastFetched": "2025-12-03T11:52:21.764Z",
+  "ai": {
+    "title": "What Else Is There?",
+    "artist": "MEUTE"
+  },
+  "lastfm": {
+    "summary": "Cover of: Röyksopp - What Else Is There? (Trentemoller Remix) <a href=\"http://www.last.fm/music/Meute/_/What+Else+Is+There%3F\">Read more on Last.fm</a>.",
+    "id": "Meute/_/What+Else+Is+There%3F",
+    "listeners": 10296,
+    "playcount": 45224,
+    "title": "What Else Is There?",
+    "artist": "Meute",
+    "tags": [
+      "germany",
+      "techno",
+      "marching band",
+      "progressive house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "95e488ff-aa64-442f-bd55-2179cfc796dc",
+    "artistMbid": "51692530-fb26-4626-9ca1-703aac6f2bc4",
+    "releaseCount": 4,
+    "artistGenres": [
+      "brass band",
+      "techno",
+      "trance"
+    ],
+    "releasedAt": "2020-02-21",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "6070396",
+      "spotify": "1z5xbcOeFRQXBVDpvRPh8H",
+      "deezer": "9686854",
+      "lastfm": "Meute",
+      "rateyourmusic": "meute-1",
+      "soundcloud": "https://soundcloud.com/meutesound",
+      "wikidata": "Q28225660",
+      "youtube": "UCY3cAFsquIk7VGMuk-V8S3g"
+    }
+  }
+}

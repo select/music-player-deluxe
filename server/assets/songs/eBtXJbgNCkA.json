@@ -1,0 +1,63 @@
+{
+  "youtubeId": "eBtXJbgNCkA",
+  "title": "Turn The Bow",
+  "artist": "Local H",
+  "lastFetched": "2025-12-03T11:56:18.499Z",
+  "odesli": {
+    "amazonMusic": "B0FY3V3KW4",
+    "amazonStore": "B0FY3V3KW4",
+    "appleMusic": "1849338611",
+    "itunes": "1849338611",
+    "pandora": "TR:28947660",
+    "soundcloud": "antifragile_music/turn-the-bow-local-h",
+    "spotify": "7AWXYfAyFnJODSc1UjgcBJ",
+    "tidal": "469862849",
+    "yandex": "61637968",
+    "youtube": "eBtXJbgNCkA",
+    "youtubeMusic": "eBtXJbgNCkA"
+  },
+  "lastfm": {
+    "id": "Local+H/_/Turn+The+Bow",
+    "listeners": 6882,
+    "playcount": 23436,
+    "title": "Turn The Bow",
+    "artist": "Local H",
+    "artistMbid": "baaf92f5-f2b2-4f51-9723-abed41a257f8",
+    "tags": [
+      "alternative rock",
+      "post-grunge",
+      "not grunge"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0230733d-ce97-4de3-9bb9-2f21abba3eb6",
+    "artistMbid": "baaf92f5-f2b2-4f51-9723-abed41a257f8",
+    "releaseCount": 1,
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "grunge",
+      "hard rock",
+      "noise rock",
+      "post-grunge",
+      "post-hardcore",
+      "punk rock",
+      "slacker rock"
+    ],
+    "releasedAt": "2020-04-10",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000230244",
+      "bandcamp": "https://localh.bandcamp.com/",
+      "discogs": "210521",
+      "spotify": "415JrPfN7ukaTu8JV8BLE8",
+      "deezer": "3921",
+      "lastfm": "Local+H",
+      "genius": "Local-h",
+      "rateyourmusic": "local_h",
+      "soundcloud": "https://soundcloud.com/local-h",
+      "wikidata": "Q1810439",
+      "youtube": "UCUy0qsA2trylLXvkEyC1EAw"
+    }
+  }
+}

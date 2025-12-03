@@ -2,7 +2,7 @@
   "youtubeId": "o9gK2fOq4MY",
   "title": "This Must Be the Place (Naive Melody)",
   "artist": "Talking Heads",
-  "lastFetched": "2025-11-23T16:49:37.983Z",
+  "lastFetched": "2025-12-02T01:50:34.091Z",
   "odesli": {
     "amazonMusic": "B001OB992O",
     "amazonStore": "B001OB992O",
@@ -37,7 +37,19 @@
       "new wave"
     ],
     "trackMbid": "239e2d78-edfe-4787-8c8b-4a913bee1fc1",
-    "artistMbid": "a94a7155-c79d-4409-9fcf-220cb0e4dc3a"
+    "artistMbid": "a94a7155-c79d-4409-9fcf-220cb0e4dc3a",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000131650",
+      "discogs": "22854",
+      "spotify": "2x9SpqnPi8rlE9pjHBwmSC",
+      "deezer": "181",
+      "lastfm": "Talking+Heads",
+      "genius": "Talking-heads",
+      "rateyourmusic": "talking_heads",
+      "wikidata": "Q205001",
+      "youtube": "UCCmr_pJ7az1JfWUiujsiHWg"
+    }
   },
   "lastfm": {
     "id": "Talking+Heads/_/This+Must+Be+the+Place+(Naive+Melody)",

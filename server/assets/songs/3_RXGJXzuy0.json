@@ -1,0 +1,55 @@
+{
+  "youtubeId": "3_RXGJXzuy0",
+  "title": "Ne Si Go Prodavaj Koljo",
+  "artist": "Vlatko Stefanovski",
+  "lastFetched": "2025-12-03T11:52:45.503Z",
+  "odesli": {
+    "amazonMusic": "B084GVJQ56",
+    "amazonStore": "B084GVJQ56",
+    "appleMusic": "828977631",
+    "itunes": "828977631",
+    "pandora": "TR:23175110",
+    "spotify": "5Ib2WIW91NogPG1olMwm1l",
+    "tidal": "63185293",
+    "youtube": "3_RXGJXzuy0",
+    "youtubeMusic": "3_RXGJXzuy0"
+  },
+  "lastfm": {
+    "id": "Vlatko+Stefanovski/_/ne+si+go+prodavaj+Koljo",
+    "listeners": 182,
+    "playcount": 581,
+    "title": "ne si go prodavaj Koljo",
+    "artist": "Vlatko Stefanovski",
+    "tags": [
+      "guitar",
+      "balkan",
+      "macedonian",
+      "macedonia",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "8b8a923b-01a0-4884-a40e-367354f50304",
+    "artistMbid": "e9d87fc2-2961-4e12-a56e-67fe1f8be2b9",
+    "releaseCount": 1,
+    "artistGenres": [
+      "jazz fusion",
+      "progressive folk"
+    ],
+    "releasedAt": "2004",
+    "artistCountry": "MK",
+    "externalIdsArtist": {
+      "allmusic": "mn0000224298",
+      "discogs": "553431",
+      "spotify": "5ekFgfk58KqyjN2dIVcZ1V",
+      "deezer": "366955",
+      "lastfm": "Vlatko+Stefanovski",
+      "genius": "Vlatko-stefanovski",
+      "rateyourmusic": "vlatko_stefanovski",
+      "soundcloud": "https://soundcloud.com/vlatkostefanovski",
+      "qobuz": "68534",
+      "wikidata": "Q3131452",
+      "youtube": "UCdV_AfuIW_ngFO-g1LOu6iw"
+    }
+  }
+}

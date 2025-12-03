@@ -1,0 +1,43 @@
+{
+  "youtubeId": "66W0D7HMD0E",
+  "title": "Last Good Day Of The Year",
+  "artist": "Cousteau",
+  "lastFetched": "2025-12-03T11:44:03.836Z",
+  "odesli": {
+    "amazonMusic": "B001NGDKK2",
+    "amazonStore": "B001NGDKK2",
+    "pandora": "TR:86844",
+    "soundcloud": "menina-da-farofa/last-good-day-of-the-year",
+    "spotify": "5SvaVaOTPyHgSKXyJjJeMS",
+    "tidal": "2686568",
+    "youtube": "66W0D7HMD0E",
+    "youtubeMusic": "66W0D7HMD0E"
+  },
+  "lastfm": {
+    "summary": "\"The Last Good Day Of The Year\" was the first single from Cousteau, who were led by Davey Ray Moor (who wrote the song) and Liam McKahey. In a Songfacts interview with Davey Ray Moor, he explained the song's meaning: \"This is about an intense nostalgia for the present moment. We all get those instances where time seems to slow down for an arrested present before speeding away again. These are the tiny pearls that form on the string of memories we recall as our story. <a href=\"http://www.last.fm/music/Cousteau/_/Last+Good+Day+of+the+Year\">Read more on Last.fm</a>.",
+    "id": "Cousteau/_/Last+Good+Day+of+the+Year",
+    "listeners": 26702,
+    "playcount": 109714,
+    "title": "Last Good Day of the Year",
+    "artist": "Cousteau",
+    "mbid": "4aa64c4b-1e2e-4712-9232-2e1dcdedf620",
+    "artistMbid": "d318977b-becc-476a-8e58-604e3cbab45c",
+    "tags": [
+      "lounge",
+      "mellow",
+      "trumpet",
+      "jazz"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "4aa64c4b-1e2e-4712-9232-2e1dcdedf620",
+    "artistMbid": "d318977b-becc-476a-8e58-604e3cbab45c",
+    "releaseCount": 2,
+    "releasedAt": "2001",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "535142",
+      "wikidata": "Q3696275"
+    }
+  }
+}

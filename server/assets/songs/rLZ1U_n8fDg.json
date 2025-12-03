@@ -1,7 +1,7 @@
 {
   "youtubeId": "rLZ1U_n8fDg",
   "title": "Sade - The Moon And The Sky",
-  "lastFetched": "2025-12-01T11:54:25.167Z",
+  "lastFetched": "2025-12-02T01:55:39.948Z",
   "ai": {
     "title": "The Moon And The Sky",
     "artist": "Sade"
@@ -44,6 +44,21 @@
       "sophisti-pop",
       "soul",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2010-02-05",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000279337",
+      "discogs": "19731",
+      "spotify": "47zz7sob9NUcODy0BTDvKx",
+      "deezer": "202",
+      "lastfm": "Sade",
+      "genius": "Sade",
+      "rateyourmusic": "sade",
+      "soundcloud": "https://soundcloud.com/sadeofficial",
+      "napster": "sade",
+      "wikidata": "Q658182",
+      "youtube": "UCegKDBFMUSQNeWe4FAB7aig"
+    }
   }
 }

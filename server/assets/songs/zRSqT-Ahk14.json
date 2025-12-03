@@ -3,7 +3,7 @@
   "artist": "Skream",
   "duration": 231,
   "youtubeId": "zRSqT-Ahk14",
-  "lastFetched": "2025-11-19T03:34:09.327Z",
+  "lastFetched": "2025-12-02T02:07:57.990Z",
   "odesli": {
     "amazonMusic": "B0DT5PT96Y",
     "amazonStore": "B0DT5PT96Y",
@@ -28,7 +28,21 @@
     ],
     "trackMbid": "f58d5092-7057-4426-a8d5-499d9b56f9f3",
     "artistMbid": "fb5ee67e-e31a-40cf-8b06-5f1a0f53529a",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2006-09",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000555075",
+      "bandcamp": "https://skreamizm.bandcamp.com/",
+      "discogs": "189821",
+      "spotify": "2jbP92oFLWqPqogflK1wlW",
+      "deezer": "198649",
+      "lastfm": "Skream",
+      "rateyourmusic": "skream",
+      "soundcloud": "https://soundcloud.com/skreamizm",
+      "wikidata": "Q734062",
+      "youtube": "UCIB_Tcbd3KxUyGwfz5dBsCw"
+    }
   },
   "lastfm": {
     "id": "Skream/_/Deep+Concentration",

@@ -1,0 +1,40 @@
+{
+  "youtubeId": "qDkuwTq9T0Q",
+  "title": "Knothole",
+  "artist": "Yak",
+  "lastFetched": "2025-12-03T11:46:04.578Z",
+  "odesli": {
+    "amazonMusic": "B0CLLSJHC4",
+    "amazonStore": "B0CLLSJHC4",
+    "soundcloud": "yak17940/knothole",
+    "youtube": "qDkuwTq9T0Q",
+    "youtubeMusic": "qDkuwTq9T0Q"
+  },
+  "lastfm": {
+    "id": "Yak/_/Knothole",
+    "listeners": 405,
+    "playcount": 772,
+    "title": "Knothole",
+    "artist": "Yak",
+    "mbid": "ab1933ec-3657-4584-a4c2-6c55c1cfc98d",
+    "artistMbid": "c6b1ad19-a877-4258-b0ac-77e713ed1336",
+    "tags": [
+      "electronic",
+      "idm",
+      "uk bass"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6a1427c5-8400-47a6-b9d6-db61395ad78f",
+    "artistMbid": "b5fd0325-a5b1-46b2-ad72-4a25e98f6eeb",
+    "releaseCount": 1,
+    "releasedAt": "2020-04-20",
+    "externalIdsArtist": {
+      "bandcamp": "https://yaksound.bandcamp.com/",
+      "discogs": "5876280",
+      "spotify": "0pTZMjQ7LDF0feqXskgC6O",
+      "rateyourmusic": "yak-1",
+      "soundcloud": "https://soundcloud.com/yaksound"
+    }
+  }
+}

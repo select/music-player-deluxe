@@ -2,7 +2,7 @@
   "youtubeId": "y_UYu-4PrdQ",
   "title": "Heimatlied",
   "artist": "Sportfreunde Stiller",
-  "lastFetched": "2025-11-23T16:54:22.047Z",
+  "lastFetched": "2025-12-02T02:06:14.882Z",
   "musicbrainz": {
     "artistTags": [
       "german",
@@ -17,7 +17,20 @@
       "pop rock"
     ],
     "trackMbid": "05cf7af6-5c8e-39cb-b7d6-0dd5d41d2e8e",
-    "artistMbid": "35581de7-591f-424f-9c64-7b22fd45605e"
+    "artistMbid": "35581de7-591f-424f-9c64-7b22fd45605e",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000495734",
+      "discogs": "144866",
+      "spotify": "5PwcOudItUhq3ciF9QwaXZ",
+      "deezer": "4336",
+      "lastfm": "Sportfreunde%20Stiller",
+      "genius": "Sportfreunde-stiller",
+      "rateyourmusic": "sportfreunde_stiller",
+      "soundcloud": "https://soundcloud.com/sportfreunde-stiller",
+      "wikidata": "Q263183",
+      "youtube": "UCtN9Te2GXelHmDOmJ9XXSEA"
+    }
   },
   "lastfm": {
     "id": "Sportfreunde+Stiller/_/Heimatlied",

@@ -2,7 +2,7 @@
   "youtubeId": "fZ1ggB4fWvI",
   "title": "Calm",
   "artist": "Avishai Cohen",
-  "lastFetched": "2025-11-23T16:45:42.710Z",
+  "lastFetched": "2025-12-02T01:37:40.807Z",
   "odesli": {
     "amazonMusic": "B08FFFMCLY",
     "amazonStore": "B08FFFMCLY",
@@ -21,7 +21,15 @@
       "post-bop"
     ],
     "trackMbid": "86cc59d6-46d2-42ca-978c-278230a716fd",
-    "artistMbid": "17d78170-7194-4603-8dbb-ca1108430882"
+    "artistMbid": "17d78170-7194-4603-8dbb-ca1108430882",
+    "artistCountry": "IL",
+    "externalIdsArtist": {
+      "allmusic": "mn0000071908",
+      "discogs": "304734",
+      "spotify": "5P0713TH0hfITBogErNmgp",
+      "deezer": "16229",
+      "wikidata": "Q388320"
+    }
   },
   "lastfm": {
     "id": "Avishai+Cohen/_/Calm",

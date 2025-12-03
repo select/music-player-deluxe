@@ -2,7 +2,7 @@
   "youtubeId": "mz3WJ1l1dNM",
   "title": "Yellow Brick Road",
   "artist": "Captain Beefheart & His Magic Band",
-  "lastFetched": "2025-11-30T20:05:30.119Z",
+  "lastFetched": "2025-12-02T01:48:45.143Z",
   "odesli": {
     "amazonMusic": "B001FL69FI",
     "amazonStore": "B001FL69FI",
@@ -42,6 +42,20 @@
       "progressive rock",
       "proto-punk",
       "psychedelic rock"
-    ]
+    ],
+    "releasedAt": "1967-09",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "0GhdsifgVMNt7M2gTHQyA6"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000646816",
+      "discogs": "256164",
+      "spotify": "2k8kY9zHUWxuTtwV4UutHw",
+      "deezer": "2343",
+      "lastfm": "Captain+Beefheart+&+His+Magic+Band",
+      "rateyourmusic": "captain-beefheart-and-the-magic-band",
+      "wikidata": "Q820040"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "lEx5xmexOns",
   "title": "Bohemian Rhapsody",
   "artist": "Queen",
-  "lastFetched": "2025-11-19T09:12:41.217Z",
+  "lastFetched": "2025-12-02T01:45:44.059Z",
   "musicbrainz": {
     "tags": [
       "classic rock",
@@ -12,7 +12,22 @@
       "80s"
     ],
     "trackMbid": "623ad0b2-7a27-445a-aa4d-645853e9b285",
-    "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3"
+    "artistMbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000858827",
+      "discogs": "81013",
+      "spotify": "1dfeR4HaWDbWqFHLkxsg1d",
+      "deezer": "412",
+      "lastfm": "Queen",
+      "genius": "Queen",
+      "rateyourmusic": "queen",
+      "soundcloud": "https://soundcloud.com/queen-69312",
+      "napster": "queen",
+      "wikidata": "Q15862",
+      "wikipedia": "Queen_(band)",
+      "youtube": "UCEPMVbUzImPl4p8k4LkGevA"
+    }
   },
   "lastfm": {
     "id": "Queen/_/Bohemian+Rhapsody",

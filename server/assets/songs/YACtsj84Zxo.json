@@ -2,7 +2,7 @@
   "youtubeId": "YACtsj84Zxo",
   "title": "Album Of The Year",
   "artist": "The Good Life",
-  "lastFetched": "2025-11-30T20:52:33.259Z",
+  "lastFetched": "2025-12-02T01:25:34.761Z",
   "odesli": {
     "amazonMusic": "B00150ECNA",
     "amazonStore": "B00150ECNA",
@@ -40,6 +40,17 @@
     "artistGenres": [
       "folk rock",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2004-08-10",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000059700",
+      "discogs": "313971",
+      "spotify": "7MDjyeL85p0NwMIpu96o1l",
+      "deezer": "65095",
+      "rateyourmusic": "the_good_life",
+      "wikidata": "Q1483286",
+      "wikipedia": "The_Good_Life_(band)"
+    }
   }
 }

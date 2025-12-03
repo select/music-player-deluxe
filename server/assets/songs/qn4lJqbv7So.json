@@ -1,7 +1,7 @@
 {
   "youtubeId": "qn4lJqbv7So",
   "title": "Reverend Horton Heat- Psychobilly Freakout",
-  "lastFetched": "2025-11-30T20:07:00.236Z",
+  "lastFetched": "2025-12-02T01:54:47.457Z",
   "ai": {
     "title": "Psychobilly Freakout",
     "artist": "Reverend Horton Heat"
@@ -27,6 +27,16 @@
       "country",
       "psychobilly",
       "rockabilly"
-    ]
+    ],
+    "releasedAt": "2012",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000462110",
+      "discogs": "261518",
+      "deezer": "1376747",
+      "lastfm": "Reverend+Horton+Heat",
+      "rateyourmusic": "the_reverend_horton_heat",
+      "wikidata": "Q1273740"
+    }
   }
 }

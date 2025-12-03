@@ -1,0 +1,60 @@
+{
+  "youtubeId": "wqVsfGQ_1SU",
+  "title": "Drop",
+  "artist": "The Pharcyde",
+  "lastFetched": "2025-12-03T12:01:48.503Z",
+  "odesli": {
+    "amazonMusic": "B07FPVMJ36",
+    "amazonStore": "B07FPVMJ36",
+    "anghami": "4358553",
+    "boomplay": "2299574",
+    "pandora": "TR:5676242",
+    "soundcloud": "the-pharcyde-official/drop",
+    "spotify": "7sT3O2PXs1o12XnCKlv204",
+    "tidal": "33887840",
+    "yandex": "1052201",
+    "youtube": "wqVsfGQ_1SU",
+    "youtubeMusic": "wqVsfGQ_1SU"
+  },
+  "lastfm": {
+    "summary": "\"Drop\" is a single by alternative hip-hop group The Pharcyde, released in 1995 as the second single for the group's second album, \"Labcabincalifornia\". The single contains a vocal sample of the Beastie Boys song \"The New Style\", using the titular \"mmm..... drop\" line delivered during a drop to create its hook.\n\nThe music video for \"Drop\" was directed by Spike Jonze and filmed in Los Angeles. The video features footage of the group performing the song backwards <a href=\"http://www.last.fm/music/The+Pharcyde/_/Drop\">Read more on Last.fm</a>.",
+    "id": "The+Pharcyde/_/Drop",
+    "listeners": 260030,
+    "playcount": 1152070,
+    "title": "Drop",
+    "artist": "The Pharcyde",
+    "mbid": "0f228270-f771-4853-b3bc-3392a8b1a9ed",
+    "artistMbid": "d7134426-a937-43bf-bc54-f10ad8102ed9",
+    "tags": [
+      "hip-hop",
+      "hip hop",
+      "90s",
+      "underground hip hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0bee2b28-8207-498e-b671-57ccc2df3474",
+    "artistMbid": "d7134426-a937-43bf-bc54-f10ad8102ed9",
+    "releaseCount": 4,
+    "genres": [
+      "hip hop"
+    ],
+    "artistGenres": [
+      "alternative hip hop",
+      "hip hop",
+      "west coast hip hop"
+    ],
+    "releasedAt": "1995",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000483070",
+      "discogs": "10578",
+      "spotify": "7yk35uHNQclPXFGFoTU44w",
+      "deezer": "3831",
+      "lastfm": "The+Pharcyde",
+      "rateyourmusic": "the_pharcyde",
+      "soundcloud": "https://soundcloud.com/the-pharcyde-242",
+      "wikidata": "Q1856396"
+    }
+  }
+}

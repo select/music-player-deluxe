@@ -1,7 +1,7 @@
 {
   "youtubeId": "hCZnXg0vNs0",
   "title": "Talk Talk - THE RAINBOW - 1988",
-  "lastFetched": "2025-11-30T21:37:30.494Z",
+  "lastFetched": "2025-12-02T01:39:57.532Z",
   "ai": {
     "title": "The Rainbow",
     "artist": "Talk Talk"
@@ -39,6 +39,19 @@
       "new wave",
       "post-rock",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "1988-09",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000790814",
+      "discogs": "60480",
+      "spotify": "7Fo8TAyGJr4VmhE68QamMf",
+      "deezer": "8215",
+      "lastfm": "Talk+Talk",
+      "genius": "Talk-talk",
+      "rateyourmusic": "talk_talk",
+      "wikidata": "Q595705",
+      "youtube": "UC95Qg-xb1eN4dv7bVA6xmeA"
+    }
   }
 }

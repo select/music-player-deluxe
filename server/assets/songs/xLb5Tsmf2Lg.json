@@ -2,7 +2,7 @@
   "youtubeId": "xLb5Tsmf2Lg",
   "title": "Flesh Failures (Let the Sunshine In)",
   "artist": "Brian Auger",
-  "lastFetched": "2025-11-30T22:26:14.897Z",
+  "lastFetched": "2025-12-02T02:04:23.027Z",
   "odesli": {
     "amazonMusic": "B09WZ87LQW",
     "amazonStore": "B09WZ87LQW",
@@ -35,6 +35,14 @@
       "jazz fusion",
       "jazz rock",
       "progressive rock"
-    ]
+    ],
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000625014",
+      "discogs": "30185",
+      "spotify": "304senzcXGpWqcpssNpmXJ",
+      "rateyourmusic": "brian-auger",
+      "wikidata": "Q911779"
+    }
   }
 }

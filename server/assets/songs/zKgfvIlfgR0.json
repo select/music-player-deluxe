@@ -2,7 +2,7 @@
   "youtubeId": "zKgfvIlfgR0",
   "title": "Abstractions",
   "artist": "Beanfield",
-  "lastFetched": "2025-11-23T16:54:47.864Z",
+  "lastFetched": "2025-12-02T02:07:49.626Z",
   "odesli": {
     "amazonMusic": "B0BMKSSBYS",
     "amazonStore": "B0BMKSSBYS",
@@ -27,7 +27,16 @@
       "trip hop"
     ],
     "trackMbid": "ea3be4b4-f066-429b-a623-0141b4fdfb4e",
-    "artistMbid": "ad0811ea-e213-451d-b22f-fa1a7f9e0226"
+    "artistMbid": "ad0811ea-e213-451d-b22f-fa1a7f9e0226",
+    "releasedAt": "1999-11-29",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000128989",
+      "discogs": "234",
+      "spotify": "66pwO4VzpMLwntaQ9DPLvH",
+      "lastfm": "Beanfield",
+      "rateyourmusic": "beanfield"
+    }
   },
   "lastfm": {
     "id": "Beanfield/_/Abstractions",

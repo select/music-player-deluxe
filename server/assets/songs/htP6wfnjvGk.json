@@ -1,0 +1,45 @@
+{
+  "youtubeId": "htP6wfnjvGk",
+  "title": "The Banjo Beat, Pt. 1",
+  "artist": "Ricky Desktop",
+  "lastFetched": "2025-12-03T11:40:08.443Z",
+  "odesli": {
+    "amazonMusic": "B08GH4WY8F",
+    "amazonStore": "B08GH4WY8F",
+    "anghami": "83962829",
+    "boomplay": "108234932",
+    "pandora": "TR:36963712",
+    "soundcloud": "aiden-bates-220887402/the-banjo-beat-ricky-desktop",
+    "spotify": "5O0JIw4YvvTdKlN9l69JFQ",
+    "tidal": "152900610",
+    "youtube": "htP6wfnjvGk",
+    "youtubeMusic": "htP6wfnjvGk"
+  },
+  "lastfm": {
+    "id": "Ricky+Desktop/_/The+Banjo+Beat,+Pt.+1",
+    "listeners": 19468,
+    "playcount": 103928,
+    "title": "The Banjo Beat, Pt. 1",
+    "artist": "Ricky Desktop",
+    "mbid": "18158329-1710-4a0d-9743-078f0b0c8a56",
+    "artistMbid": "8ed982d0-07b1-4223-b743-7a6200ed22a6",
+    "tags": [
+      "trap"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "6306f918-578d-495b-b552-21362d0ea91b",
+    "artistMbid": "8ed982d0-07b1-4223-b743-7a6200ed22a6",
+    "releaseCount": 1,
+    "artistGenres": [
+      "trap"
+    ],
+    "releasedAt": "2020-08-21",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "spotify": "6CTStccOisUTgXVrtCIANm",
+      "deezer": "91448132",
+      "youtube": "UCWDXOdjAOXU2YYRbCmQvrYA"
+    }
+  }
+}

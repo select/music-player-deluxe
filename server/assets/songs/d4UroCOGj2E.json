@@ -1,7 +1,7 @@
 {
   "youtubeId": "d4UroCOGj2E",
   "title": "Manu Katché - Slowing The Tides",
-  "lastFetched": "2025-11-30T20:14:24.698Z",
+  "lastFetched": "2025-12-02T01:34:44.696Z",
   "ai": {
     "title": "Slowing The Tides",
     "artist": "Manu Katché"
@@ -33,6 +33,15 @@
       "contemporary jazz",
       "jazz",
       "jazz fusion"
-    ]
+    ],
+    "releasedAt": "2012-10-19",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000671787",
+      "discogs": "253252",
+      "spotify": "4HVFb71ZSXO6nRMk2pdPsy",
+      "rateyourmusic": "manu_katche",
+      "wikidata": "Q472598"
+    }
   }
 }

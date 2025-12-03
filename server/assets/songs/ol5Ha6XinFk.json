@@ -1,7 +1,7 @@
 {
   "youtubeId": "ol5Ha6XinFk",
   "title": "Witchrider - Black",
-  "lastFetched": "2025-11-30T20:29:10.594Z",
+  "lastFetched": "2025-12-02T01:51:32.590Z",
   "ai": {
     "title": "Black",
     "artist": "Witchrider"
@@ -28,6 +28,13 @@
       "occult rock",
       "psychedelic rock",
       "stoner rock"
-    ]
+    ],
+    "releasedAt": "2013-04-28",
+    "externalIdsArtist": {
+      "bandcamp": "https://witchrider.bandcamp.com/",
+      "discogs": "3462854",
+      "lastfm": "Witchrider",
+      "soundcloud": "https://soundcloud.com/witchrider"
+    }
   }
 }

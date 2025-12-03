@@ -2,7 +2,7 @@
   "youtubeId": "g7qbcOc02m0",
   "title": "Sad Big Blue Eyes",
   "artist": "Tango With Lions",
-  "lastFetched": "2025-11-30T21:37:33.459Z",
+  "lastFetched": "2025-12-02T01:38:16.764Z",
   "odesli": {
     "amazonMusic": "B0D7QF1ZWK",
     "amazonStore": "B0D7QF1ZWK",
@@ -33,6 +33,12 @@
       "folk rock",
       "indie rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2010",
+    "artistCountry": "GR",
+    "externalIdsArtist": {
+      "discogs": "2202285",
+      "wikidata": "Q124369311"
+    }
   }
 }

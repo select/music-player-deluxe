@@ -2,7 +2,7 @@
   "youtubeId": "YfjTZLxekig",
   "title": "Click Click Boom",
   "artist": "Saliva",
-  "lastFetched": "2025-11-19T16:18:11.603Z",
+  "lastFetched": "2025-12-02T01:26:28.376Z",
   "odesli": {
     "amazonMusic": "B07G8GVHSX",
     "amazonStore": "B07G8GVHSX",
@@ -25,7 +25,26 @@
       "metal"
     ],
     "trackMbid": "6befa91f-fce9-4582-95f5-dc07f19a881c",
-    "artistMbid": "6e650a01-6489-4dc8-85e1-8ec809dd72a2"
+    "artistMbid": "6e650a01-6489-4dc8-85e1-8ec809dd72a2",
+    "releasedAt": "2000",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "2CGDxXXYbkPOyRXHzQbqkT"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000242211",
+      "bandcamp": "https://officialsaliva.bandcamp.com/",
+      "discogs": "93052",
+      "spotify": "5S6hjAxgxjsLylsTtMIimO",
+      "deezer": "3117",
+      "lastfm": "Saliva",
+      "genius": "Saliva",
+      "rateyourmusic": "saliva",
+      "soundcloud": "https://soundcloud.com/saliva",
+      "napster": "saliva",
+      "wikidata": "Q1753914",
+      "youtube": "UCzjMi7EaV2L5dYvH-_FQ4ow"
+    }
   },
   "lastfm": {
     "id": "Saliva/_/Click+Click+Boom",

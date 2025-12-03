@@ -2,7 +2,7 @@
   "youtubeId": "ZhkXkIoLs4A",
   "title": "Low Berth (Extended Mix)",
   "artist": "Urban Tribe",
-  "lastFetched": "2025-11-30T22:16:30.546Z",
+  "lastFetched": "2025-12-02T01:28:05.853Z",
   "lastfm": {
     "title": "low berth (extended mix)",
     "artist": "Urban Tribe",
@@ -25,6 +25,13 @@
     "artistGenres": [
       "detroit techno",
       "electronica"
-    ]
+    ],
+    "releasedAt": "2002-11-26",
+    "externalIdsArtist": {
+      "allmusic": "mn0000732792",
+      "discogs": "5280",
+      "rateyourmusic": "urban_tribe",
+      "wikidata": "Q7900068"
+    }
   }
 }

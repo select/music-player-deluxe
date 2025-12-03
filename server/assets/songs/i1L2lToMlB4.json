@@ -2,7 +2,7 @@
   "youtubeId": "i1L2lToMlB4",
   "title": "Shackles (Praise You)",
   "artist": "Mary Mary",
-  "lastFetched": "2025-11-23T16:46:40.526Z",
+  "lastFetched": "2025-12-02T01:41:10.134Z",
   "musicbrainz": {
     "artistTags": [
       "classic pop and rock",
@@ -16,7 +16,16 @@
       "urban contemporary gospel"
     ],
     "trackMbid": "128ca666-74c8-4cf4-a799-57d83d86fe39",
-    "artistMbid": "6413506f-e22b-412c-9f19-239db7df21f2"
+    "artistMbid": "6413506f-e22b-412c-9f19-239db7df21f2",
+    "releasedAt": "2000-10",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "52834",
+      "spotify": "12Kgt2eahvxNWhD5PnSUde",
+      "deezer": "11174",
+      "wikidata": "Q1906374",
+      "wikipedia": "Mary_Mary"
+    }
   },
   "lastfm": {
     "id": "Mary+Mary/_/Shackles+(Praise+You)",

@@ -2,7 +2,7 @@
   "youtubeId": "r8PAjHAETrw",
   "title": "I Could Have Been A Dreamer",
   "artist": "Dio",
-  "lastFetched": "2025-11-23T16:50:57.140Z",
+  "lastFetched": "2025-12-02T01:55:15.071Z",
   "odesli": {
     "amazonMusic": "B003N1EC0M",
     "amazonStore": "B003N1EC0M",
@@ -28,7 +28,20 @@
       "rock"
     ],
     "trackMbid": "02ea3e5c-408d-4dc3-91f7-733deed71c4a",
-    "artistMbid": "c55193fb-f5d2-4839-a263-4c044fca1456"
+    "artistMbid": "c55193fb-f5d2-4839-a263-4c044fca1456",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000263937",
+      "discogs": "252122",
+      "spotify": "4CYeVo5iZbtYGBN4Isc3n6",
+      "deezer": "3038",
+      "lastfm": "Dio",
+      "genius": "Dio",
+      "rateyourmusic": "dio",
+      "soundcloud": "https://soundcloud.com/dioofficial",
+      "wikidata": "Q478750",
+      "youtube": "UCgxv4igPRzlBIyCKEzDwiYQ"
+    }
   },
   "lastfm": {
     "id": "Dio/_/I+Could+Have+Been+A+Dreamer",

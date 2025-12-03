@@ -1,7 +1,7 @@
 {
   "youtubeId": "bF_oW1KxdzA",
   "title": "Local H - All The Kids Are Right",
-  "lastFetched": "2025-12-01T11:50:07.032Z",
+  "lastFetched": "2025-12-02T01:31:37.358Z",
   "ai": {
     "title": "All The Kids Are Right",
     "artist": "Local H"
@@ -38,6 +38,21 @@
       "post-hardcore",
       "punk rock",
       "slacker rock"
-    ]
+    ],
+    "releasedAt": "1998-09-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000230244",
+      "bandcamp": "https://localh.bandcamp.com/",
+      "discogs": "210521",
+      "spotify": "415JrPfN7ukaTu8JV8BLE8",
+      "deezer": "3921",
+      "lastfm": "Local+H",
+      "genius": "Local-h",
+      "rateyourmusic": "local_h",
+      "soundcloud": "https://soundcloud.com/local-h",
+      "wikidata": "Q1810439",
+      "youtube": "UCUy0qsA2trylLXvkEyC1EAw"
+    }
   }
 }

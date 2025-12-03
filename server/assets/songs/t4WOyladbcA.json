@@ -3,7 +3,7 @@
   "artist": "The Jubalaires",
   "duration": 155,
   "youtubeId": "t4WOyladbcA",
-  "lastFetched": "2025-11-19T04:34:39.990Z",
+  "lastFetched": "2025-12-02T01:58:28.021Z",
   "lastfm": {
     "id": "The+Jubalaires/_/God+Almighty%27s+Gonna+Cut+You+Down",
     "listeners": 134,
@@ -15,6 +15,15 @@
   "musicbrainz": {
     "trackMbid": "9104cd91-4ea2-4b0d-a04a-65ccd9df449a",
     "artistMbid": "da02aff9-5666-4591-8007-a04212a79525",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2000-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000344221",
+      "discogs": "2578181",
+      "rateyourmusic": "the_jubilaires",
+      "wikidata": "Q7743729",
+      "wikipedia": "The_Jubalaires"
+    }
   }
 }

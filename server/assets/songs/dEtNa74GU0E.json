@@ -3,7 +3,7 @@
   "artist": "Art Pepper",
   "duration": 219,
   "youtubeId": "dEtNa74GU0E",
-  "lastFetched": "2025-11-23T16:44:40.335Z",
+  "lastFetched": "2025-12-02T01:34:53.195Z",
   "odesli": {
     "amazonMusic": "B0D37GRP9B",
     "amazonStore": "B0D37GRP9B",
@@ -41,7 +41,16 @@
     ],
     "trackMbid": "178485f1-f915-4819-ab7e-1eb4d1d73526",
     "artistMbid": "266b9126-4a40-4b9b-b21e-422d72e64254",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1993-06-15",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000505047",
+      "discogs": "251873",
+      "spotify": "3GpMtIOC5ZLvMBMI7IxPvA",
+      "deezer": "76720",
+      "wikidata": "Q468202"
+    }
   },
   "lastfm": {
     "id": "Art+Pepper/_/Patricia",

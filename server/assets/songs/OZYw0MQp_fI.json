@@ -1,0 +1,76 @@
+{
+  "youtubeId": "OZYw0MQp_fI",
+  "title": "Nightcall",
+  "artist": "London Grammar",
+  "lastFetched": "2025-12-03T11:40:06.498Z",
+  "odesli": {
+    "amazonMusic": "B00EVCGXZY",
+    "amazonStore": "B00EVCGXZY",
+    "audiomack": "26687882",
+    "boomplay": "20354742",
+    "deezer": "76066038",
+    "appleMusic": "695806056",
+    "itunes": "695806056",
+    "napster": "tra.122225189",
+    "pandora": "TR:2478937",
+    "soundcloud": "londongrammar/london-grammar-nightcall-lg-re-edit",
+    "spotify": "4PRQ8IJzRvbDWNONJWGbwH",
+    "tidal": "34911106",
+    "yandex": "14671868",
+    "youtube": "OZYw0MQp_fI",
+    "youtubeMusic": "OZYw0MQp_fI"
+  },
+  "lastfm": {
+    "summary": "This song is a cover from nightcall. <a href=\"http://www.last.fm/music/London+Grammar/_/Nightcall\">Read more on Last.fm</a>.",
+    "id": "London+Grammar/_/Nightcall",
+    "listeners": 273894,
+    "playcount": 2196562,
+    "title": "Nightcall",
+    "artist": "London Grammar",
+    "mbid": "0ff2aad1-d119-439c-83b9-f1588dfa6251",
+    "artistMbid": "4dbe08c1-b40a-43b3-ab89-210000bd8ab2",
+    "tags": [
+      "lush"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "96c463f8-a1d3-4ac7-b233-39f02282e31b",
+    "artistMbid": "4dbe08c1-b40a-43b3-ab89-210000bd8ab2",
+    "releaseCount": 18,
+    "genres": [
+      "indie pop",
+      "indie rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "art pop",
+      "dream pop",
+      "electronic",
+      "electronica",
+      "indie pop",
+      "indie rock",
+      "indietronica",
+      "pop",
+      "rock"
+    ],
+    "releasedAt": "2013-09-06",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "6OyO2lru99HJTkJworhXxo"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003066904",
+      "bandcamp": "https://londongrammar.bandcamp.com/",
+      "discogs": "3180942",
+      "spotify": "3Bd1cgCjtCI32PYvDC3ynO",
+      "deezer": "4771546",
+      "lastfm": "London+Grammar",
+      "genius": "London-grammar",
+      "rateyourmusic": "london-grammar",
+      "soundcloud": "https://soundcloud.com/londongrammar",
+      "wikidata": "Q14557360",
+      "youtube": "UCgX66nFZQodWgTeNIMF_4Rw"
+    }
+  }
+}

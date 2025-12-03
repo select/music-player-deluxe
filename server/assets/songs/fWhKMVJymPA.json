@@ -2,7 +2,7 @@
   "title": "The Wilhelm Scream",
   "artist": "Richard Koch Quartett",
   "youtubeId": "fWhKMVJymPA",
-  "lastFetched": "2025-11-23T16:45:40.298Z",
+  "lastFetched": "2025-12-02T01:37:37.785Z",
   "odesli": {
     "amazonMusic": "B08K9DMYGT",
     "amazonStore": "B08K9DMYGT",
@@ -24,7 +24,12 @@
     ],
     "trackMbid": "309161e0-7547-4198-baca-6068597bff65",
     "artistMbid": "20f60d05-48e3-42e8-a627-67e41f8da16f",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2020",
+    "externalIdsArtist": {
+      "bandcamp": "https://richardkochquartett.bandcamp.com/",
+      "discogs": "6428137"
+    }
   },
   "lastfm": {
     "id": "Richard+Koch+Quartett/_/The+Wilhelm+Scream",

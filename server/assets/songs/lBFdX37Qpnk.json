@@ -1,0 +1,61 @@
+{
+  "youtubeId": "lBFdX37Qpnk",
+  "title": "Doesn't Remind Me",
+  "artist": "Audioslave",
+  "lastFetched": "2025-12-03T12:02:06.558Z",
+  "odesli": {
+    "amazonMusic": "B001NYU26Y",
+    "amazonStore": "B001NYU26Y",
+    "boomplay": "2382984",
+    "napster": "tra.354195462",
+    "pandora": "TR:263185",
+    "soundcloud": "audioslave-official/doesnt-remind-me-album-version",
+    "spotify": "0o995gJCGebaza0LWybToU",
+    "tidal": "585368",
+    "yandex": "54459",
+    "youtube": "lBFdX37Qpnk",
+    "youtubeMusic": "lBFdX37Qpnk"
+  },
+  "lastfm": {
+    "id": "Audioslave/_/Doesn%27t+Remind+Me",
+    "listeners": 584707,
+    "playcount": 3395436,
+    "title": "Doesn't Remind Me",
+    "artist": "Audioslave",
+    "mbid": "06d6fa43-e8bd-46de-b868-d77aebb1e754",
+    "artistMbid": "020bfbb4-05c3-4c86-b372-17825c262094",
+    "tags": [
+      "alternative rock",
+      "rock",
+      "hard rock",
+      "alternative",
+      "audioslave"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "05feba51-6e43-43c2-8e21-86f4dcb9fbd2",
+    "artistMbid": "020bfbb4-05c3-4c86-b372-17825c262094",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock",
+      "hard rock",
+      "post-grunge",
+      "rock"
+    ],
+    "releasedAt": "2005",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000040743",
+      "discogs": "252455",
+      "spotify": "2ziB7fzrXBoh1HUPS6sVFn",
+      "deezer": "843",
+      "lastfm": "Audioslave",
+      "genius": "Audioslave",
+      "rateyourmusic": "audioslave",
+      "soundcloud": "https://soundcloud.com/audioslave-official",
+      "napster": "audioslave",
+      "wikidata": "Q486830",
+      "youtube": "UCQCq16x84FeLx0tARDtEaFg"
+    }
+  }
+}

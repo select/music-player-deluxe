@@ -2,7 +2,7 @@
   "youtubeId": "rAep7ma-zLc",
   "title": "Untitled Dubplate",
   "artist": "Breakage",
-  "lastFetched": "2025-11-23T16:50:59.804Z",
+  "lastFetched": "2025-12-02T01:55:17.272Z",
   "odesli": {
     "amazonMusic": "B09KSC7FDV",
     "amazonStore": "B09KSC7FDV",
@@ -41,7 +41,20 @@
       "dance"
     ],
     "trackMbid": "3008e1b3-a699-4c72-a5dd-7cc3a6d83054",
-    "artistMbid": "6e9a0ac8-699b-4817-8f9b-25a6dba89f57"
+    "artistMbid": "6e9a0ac8-699b-4817-8f9b-25a6dba89f57",
+    "releasedAt": "2021-11-26",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000613831",
+      "bandcamp": "https://breakage.bandcamp.com/",
+      "discogs": "15822",
+      "spotify": "68Wb5Pcy71lLaKdIB6cBA5",
+      "deezer": "394248",
+      "lastfm": "Breakage",
+      "rateyourmusic": "breakage",
+      "soundcloud": "https://soundcloud.com/breakage",
+      "wikidata": "Q903639"
+    }
   },
   "lastfm": {
     "id": "Breakage/_/Untitled+Dubplate",

@@ -2,7 +2,7 @@
   "youtubeId": "etIgt13xzTQ",
   "title": "Sandman (VIP)",
   "artist": "Oak",
-  "lastFetched": "2025-11-30T23:04:48.236Z",
+  "lastFetched": "2025-12-02T01:36:42.168Z",
   "lastfm": {
     "id": "Oak/_/Sandman+(VIP)",
     "listeners": 215,
@@ -14,6 +14,12 @@
   "musicbrainz": {
     "artistMbid": "f82da106-22d8-4a07-b92a-ebcb8f4e5bbb",
     "trackMbid": "ce2b75d1-5794-46e9-ae69-9c4c3d8001ed",
-    "releaseCount": 3
+    "releaseCount": 3,
+    "releasedAt": "2016-12-02",
+    "artistCountry": "RU",
+    "externalIdsArtist": {
+      "discogs": "1061657",
+      "soundcloud": "https://soundcloud.com/oak-1"
+    }
   }
 }

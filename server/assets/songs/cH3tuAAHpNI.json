@@ -2,7 +2,7 @@
   "youtubeId": "cH3tuAAHpNI",
   "title": "Wann wird's mal wieder richtig Sommer",
   "artist": "Rudi Carrell",
-  "lastFetched": "2025-11-30T22:23:47.883Z",
+  "lastFetched": "2025-12-02T01:33:03.524Z",
   "odesli": {
     "amazonMusic": "B0F15SMYM8",
     "amazonStore": "B0F15SMYM8",
@@ -37,6 +37,18 @@
   "musicbrainz": {
     "trackMbid": "845c913c-0578-43f3-9fc0-230e8bc03846",
     "artistMbid": "7b92b87c-fe3f-40d2-9d0e-bea73ae6bf41",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1996",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001227786",
+      "discogs": "455100",
+      "spotify": "52OEAGQwJplUGohcbmtAG5",
+      "deezer": "146700",
+      "lastfm": "Rudi+Carrell",
+      "genius": "Rudi-carrell",
+      "rateyourmusic": "rudi_carrell",
+      "wikidata": "Q126035"
+    }
   }
 }

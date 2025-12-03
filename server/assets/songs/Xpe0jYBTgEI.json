@@ -2,7 +2,7 @@
   "youtubeId": "Xpe0jYBTgEI",
   "title": "Emerald (The Antidote)",
   "artist": "Djrum",
-  "lastFetched": "2025-11-30T22:49:51.651Z",
+  "lastFetched": "2025-12-02T01:25:02.958Z",
   "lastfm": {
     "title": "Emerald (The Antidote)",
     "artist": "Djrum",
@@ -26,6 +26,18 @@
       "electronic",
       "idm",
       "techno"
-    ]
+    ],
+    "releasedAt": "2021-10-29",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002995186",
+      "bandcamp": "https://djrum.bandcamp.com/",
+      "discogs": "1762528",
+      "spotify": "4HwlolvniI44ETSg5tajeZ",
+      "deezer": "3978191",
+      "lastfm": "Djrum",
+      "rateyourmusic": "djrum",
+      "soundcloud": "https://soundcloud.com/djrum"
+    }
   }
 }

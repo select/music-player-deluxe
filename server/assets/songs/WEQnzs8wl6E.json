@@ -1,7 +1,7 @@
 {
   "youtubeId": "WEQnzs8wl6E",
   "title": "Metallica - Fade to Black",
-  "lastFetched": "2025-12-01T11:50:26.822Z",
+  "lastFetched": "2025-12-02T01:22:07.325Z",
   "ai": {
     "title": "Fade to Black",
     "artist": "Metallica"
@@ -31,6 +31,21 @@
       "heavy metal",
       "metal",
       "thrash metal"
-    ]
+    ],
+    "releasedAt": "1995",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000446509",
+      "discogs": "18839",
+      "spotify": "2ye2Wgw4gimLv2eAKyk1NB",
+      "deezer": "119",
+      "lastfm": "Metallica",
+      "genius": "Metallica",
+      "rateyourmusic": "metallica",
+      "soundcloud": "https://soundcloud.com/officialmetallica",
+      "napster": "metallica",
+      "wikidata": "Q15920",
+      "youtube": "UCGexNm_Kw4rdQjLxmpb2EKw"
+    }
   }
 }

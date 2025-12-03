@@ -2,7 +2,7 @@
   "youtubeId": "yhuMLpdnOjY",
   "title": "Poisoning Pigeons in the Park",
   "artist": "Tom Lehrer",
-  "lastFetched": "2025-11-30T22:33:04.480Z",
+  "lastFetched": "2025-12-02T02:06:34.520Z",
   "odesli": {
     "amazonMusic": "B07DLRBVJP",
     "amazonStore": "B07DLRBVJP",
@@ -36,6 +36,17 @@
     ],
     "artistGenres": [
       "comedy"
-    ]
+    ],
+    "releasedAt": "1959-11",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000611877",
+      "bandcamp": "https://tomlehrer.bandcamp.com/",
+      "discogs": "457354",
+      "spotify": "5iNvbRVX9W8t1RpD2SHpAO",
+      "deezer": "152211",
+      "genius": "Tom-lehrer",
+      "wikidata": "Q369724"
+    }
   }
 }

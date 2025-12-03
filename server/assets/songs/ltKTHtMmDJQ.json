@@ -2,7 +2,7 @@
   "youtubeId": "ltKTHtMmDJQ",
   "title": "The Liars Club",
   "artist": "Coheed and Cambria",
-  "lastFetched": "2025-11-23T16:48:26.030Z",
+  "lastFetched": "2025-12-02T01:46:59.410Z",
   "odesli": {
     "amazonMusic": "B09L5J718B",
     "amazonStore": "B09L5J718B",
@@ -31,7 +31,22 @@
       "progressive rock"
     ],
     "trackMbid": "0e097478-8111-4da3-a896-8bdbaab7d5de",
-    "artistMbid": "ae1b47d5-5128-431c-9d30-e08fd90e0767"
+    "artistMbid": "ae1b47d5-5128-431c-9d30-e08fd90e0767",
+    "releasedAt": "2022-02-25",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000105030",
+      "bandcamp": "https://coheedandcambria.bandcamp.com/",
+      "discogs": "256629",
+      "spotify": "3utxjLheHaVEd9bPjQRsy8",
+      "deezer": "3380",
+      "lastfm": "Coheed+and+Cambria",
+      "genius": "Coheed-and-cambria",
+      "rateyourmusic": "coheed_and_cambria",
+      "soundcloud": "https://soundcloud.com/coheedandcambria",
+      "wikidata": "Q4299",
+      "youtube": "UC3uvC65HgDdGeGaQ_K5g3RA"
+    }
   },
   "lastfm": {
     "id": "Coheed+and+Cambria/_/The+Liars+Club",

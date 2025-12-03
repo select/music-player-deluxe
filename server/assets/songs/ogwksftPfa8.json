@@ -2,7 +2,7 @@
   "youtubeId": "ogwksftPfa8",
   "title": "State Trooper",
   "artist": "Bruce Springsteen",
-  "lastFetched": "2025-11-30T21:48:56.701Z",
+  "lastFetched": "2025-12-02T01:51:23.516Z",
   "lastfm": {
     "summary": "According to the State Trooper Songfacts, Springsteen thought this song up while on a drive from New York.\n <a href=\"http://www.last.fm/music/Bruce+Springsteen/_/State+Trooper\">Read more on Last.fm</a>.",
     "id": "Bruce+Springsteen/_/State+Trooper",
@@ -31,6 +31,21 @@
       "rock",
       "rock and roll",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "1991",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000530745",
+      "discogs": "219986",
+      "spotify": "3eqjTLE0HfPfh78zjh6TqT",
+      "deezer": "4762",
+      "lastfm": "Bruce+Springsteen",
+      "genius": "Bruce-springsteen",
+      "rateyourmusic": "bruce-springsteen",
+      "soundcloud": "https://soundcloud.com/brucespringsteen",
+      "napster": "bruce-springsteen",
+      "wikidata": "Q1225",
+      "youtube": "UCyFqJ_5TyAeTD7rHpLikbKQ"
+    }
   }
 }

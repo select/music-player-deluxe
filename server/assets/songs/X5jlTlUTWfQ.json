@@ -2,7 +2,7 @@
   "youtubeId": "X5jlTlUTWfQ",
   "title": "The Way",
   "artist": "Fastball",
-  "lastFetched": "2025-11-23T16:41:23.596Z",
+  "lastFetched": "2025-12-02T01:23:30.313Z",
   "musicbrainz": {
     "artistTags": [
       "alternative rock",
@@ -19,7 +19,21 @@
       "roots rock"
     ],
     "trackMbid": "d8ea522b-cefe-479d-af84-dbcc2f2156ee",
-    "artistMbid": "dc083bd6-41a3-436e-9e0a-28b4dc773820"
+    "artistMbid": "dc083bd6-41a3-436e-9e0a-28b4dc773820",
+    "releasedAt": "1998",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000146490",
+      "discogs": "260408",
+      "spotify": "7FtVJzRtpQpU61nBwB7cKN",
+      "deezer": "2801",
+      "lastfm": "Fastball",
+      "rateyourmusic": "fastball",
+      "soundcloud": "https://soundcloud.com/fb2015",
+      "napster": "fastball",
+      "wikidata": "Q541737",
+      "youtube": "UCnCi-xNtAsrM4Z9jH3JYj2w"
+    }
   },
   "lastfm": {
     "id": "Fastball/_/The+Way",

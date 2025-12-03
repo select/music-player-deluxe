@@ -2,7 +2,7 @@
   "youtubeId": "r6jIXtJy4oM",
   "title": "Eyes Of A Panther",
   "artist": "Steel Panther",
-  "lastFetched": "2025-11-30T20:12:04.291Z",
+  "lastFetched": "2025-12-02T01:55:06.976Z",
   "odesli": {
     "amazonMusic": "B07JB8NRVM",
     "amazonStore": "B07JB8NRVM",
@@ -46,6 +46,18 @@
       "glam metal",
       "hard rock",
       "heavy metal"
-    ]
+    ],
+    "releasedAt": "2009-06-08",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001045720",
+      "discogs": "3972967",
+      "spotify": "3l02WF362j1oHOurzuseBv",
+      "deezer": "288251",
+      "lastfm": "Steel+Panther",
+      "rateyourmusic": "steel_panther",
+      "wikidata": "Q179652",
+      "youtube": "UCdbJCOYEJ5Z9hlx2jXX5ulg"
+    }
   }
 }

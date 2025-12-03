@@ -2,7 +2,7 @@
   "youtubeId": "qTlkVTwMLFs",
   "title": "Rain Dogs",
   "artist": "Tom Waits",
-  "lastFetched": "2025-11-30T22:58:47.453Z",
+  "lastFetched": "2025-12-02T01:54:16.636Z",
   "lastfm": {
     "id": "Tom+Waits/_/Rain+Dogs",
     "listeners": 251818,
@@ -37,6 +37,19 @@
       "piano blues",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "1988-09",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000615119",
+      "bandcamp": "https://tomwaits.bandcamp.com/",
+      "discogs": "82294",
+      "spotify": "7x83XhcMbOTl1UdYsPTuZM",
+      "deezer": "1128",
+      "lastfm": "Tom+Waits",
+      "genius": "Tom-waits",
+      "rateyourmusic": "tom_waits",
+      "wikidata": "Q184805"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "dRFyC3qnA0I",
   "title": "It's All True",
   "artist": "World Brain",
-  "lastFetched": "2025-11-30T21:57:20.803Z",
+  "lastFetched": "2025-12-02T01:34:58.710Z",
   "odesli": {
     "amazonMusic": "B0B5VJ81CS",
     "amazonStore": "B0B5VJ81CS",
@@ -30,6 +30,13 @@
   "musicbrainz": {
     "trackMbid": "9cd755f5-b720-41e7-a76e-cd321c441635",
     "artistMbid": "0c25670f-ae0b-4c0a-a732-ec094651a2b3",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2019-04-12",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "6415031",
+      "lastfm": "World+Brain",
+      "soundcloud": "https://soundcloud.com/mondecerveau"
+    }
   }
 }

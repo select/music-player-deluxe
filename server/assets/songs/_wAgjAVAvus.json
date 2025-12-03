@@ -3,7 +3,7 @@
   "artist": "11Schnull",
   "duration": 293,
   "youtubeId": "_wAgjAVAvus",
-  "lastFetched": "2025-11-16T20:52:15.503Z",
+  "lastFetched": "2025-12-02T01:29:50.914Z",
   "odesli": {
     "amazonMusic": "B0F8JDNJQ7",
     "amazonStore": "B0F8JDNJQ7",
@@ -18,6 +18,10 @@
   "musicbrainz": {
     "trackMbid": "04245b05-aafc-4152-976b-a3fc4164e60b",
     "artistMbid": "2739409c-1b34-4640-9693-214c9e7dcadc",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-07-25",
+    "externalIdsArtist": {
+      "soundcloud": "https://soundcloud.com/11schnull"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "eBHmcORu4og",
   "title": "The Dolphin's Cry",
   "artist": "Live",
-  "lastFetched": "2025-11-19T05:42:16.606Z",
+  "lastFetched": "2025-12-02T01:35:49.515Z",
   "odesli": {
     "amazonMusic": "B000VZMTZ8",
     "amazonStore": "B000VZMTZ8",
@@ -29,6 +29,8 @@
   },
   "musicbrainz": {
     "trackMbid": "bc251d41-55a1-4a72-be49-2da5da56fc71",
-    "artistMbid": "b11ef3b0-247c-4c42-acc9-16e75b875096"
+    "artistMbid": "b11ef3b0-247c-4c42-acc9-16e75b875096",
+    "releasedAt": "2008",
+    "artistCountry": "GR"
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "WLaeWpDEy1c",
   "title": "Arto Lindsay - Simply Are",
-  "lastFetched": "2025-11-30T20:32:06.394Z",
+  "lastFetched": "2025-12-02T01:22:27.001Z",
   "ai": {
     "title": "Simply Are",
     "artist": "Arto Lindsay"
@@ -36,6 +36,17 @@
     ],
     "artistGenres": [
       "no wave"
-    ]
+    ],
+    "releasedAt": "2014-05-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000793623",
+      "discogs": "10293",
+      "spotify": "603tEfBHMH1LzenDGJsgCh",
+      "deezer": "4954",
+      "lastfm": "Arto%20Lindsay",
+      "rateyourmusic": "arto_lindsay",
+      "wikidata": "Q591445"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "s-OQJzAoAUw",
   "title": "Mano Mi Hermano",
   "artist": "Kultur Shock",
-  "lastFetched": "2025-11-19T07:27:43.155Z",
+  "lastFetched": "2025-12-02T01:56:52.681Z",
   "odesli": {
     "amazonMusic": "B01JPNUCZA",
     "amazonStore": "B01JPNUCZA",
@@ -24,6 +24,13 @@
   },
   "musicbrainz": {
     "trackMbid": "8c34f99f-d123-4faa-8597-031a7bff75d0",
-    "artistMbid": "fddb7d67-7977-4ab5-884c-f5644c78b700"
+    "artistMbid": "fddb7d67-7977-4ab5-884c-f5644c78b700",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000675977",
+      "discogs": "340245",
+      "rateyourmusic": "kultur_shock",
+      "wikidata": "Q1362482"
+    }
   }
 }

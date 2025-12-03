@@ -1,7 +1,7 @@
 {
   "youtubeId": "utmgnjBavs0",
   "title": "jimmy smith root down",
-  "lastFetched": "2025-11-30T20:14:09.544Z",
+  "lastFetched": "2025-12-02T02:01:01.775Z",
   "ai": {
     "title": "root down",
     "artist": "jimmy smith"
@@ -30,6 +30,15 @@
       "jazz",
       "jazz-funk",
       "soul jazz"
-    ]
+    ],
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000781172",
+      "discogs": "29981",
+      "spotify": "5GXruybcLmXPjR9rKKFyS6",
+      "deezer": "13925",
+      "rateyourmusic": "jimmy_smith",
+      "wikidata": "Q318948"
+    }
   }
 }

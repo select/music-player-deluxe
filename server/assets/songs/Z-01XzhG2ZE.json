@@ -2,7 +2,7 @@
   "youtubeId": "Z-01XzhG2ZE",
   "title": "Disconnect",
   "artist": "Becky Hill",
-  "lastFetched": "2025-11-30T22:56:14.363Z",
+  "lastFetched": "2025-12-02T01:26:47.896Z",
   "odesli": {
     "audius": "07ag5",
     "soundcloud": "becky-hill-official/becky-hill-chase-status",
@@ -31,6 +31,22 @@
     "artistGenres": [
       "house",
       "pop"
-    ]
+    ],
+    "releasedAt": "2023-07-14",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "04Fe6LGtLN7GtvWMlbqlWV",
+      "deezer": "2376918715"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002966122",
+      "discogs": "3269972",
+      "spotify": "4EPJlUEBy49EX1wuFOvtjK",
+      "deezer": "2699221",
+      "lastfm": "Becky+Hill",
+      "genius": "Becky-hill",
+      "soundcloud": "https://soundcloud.com/becky-hill-official",
+      "wikidata": "Q16236194"
+    }
   }
 }

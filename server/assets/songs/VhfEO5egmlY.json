@@ -2,7 +2,7 @@
   "youtubeId": "VhfEO5egmlY",
   "title": "Too Cold",
   "artist": "Vanilla Ice",
-  "lastFetched": "2025-11-30T22:12:04.543Z",
+  "lastFetched": "2025-12-02T01:21:30.600Z",
   "odesli": {
     "amazonMusic": "B000VZV3QY",
     "amazonStore": "B000VZV3QY",
@@ -36,6 +36,22 @@
       "nu metal",
       "pop rap",
       "rap rock"
-    ]
+    ],
+    "releasedAt": "1998-10-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000262445",
+      "bandcamp": "https://vanillaicebaby.bandcamp.com/",
+      "discogs": "723022",
+      "spotify": "7GXXMm3DB1VswVcuGyInUd",
+      "deezer": "3109",
+      "lastfm": "Vanilla+Ice",
+      "genius": "Vanilla-ice",
+      "rateyourmusic": "vanilla_ice",
+      "soundcloud": "https://soundcloud.com/vanilla-ice-official",
+      "napster": "vanilla-ice",
+      "wikidata": "Q313578",
+      "youtube": "UCaVc_T14Gu-l54VIGUf3WZA"
+    }
   }
 }

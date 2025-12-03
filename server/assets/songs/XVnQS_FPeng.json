@@ -2,7 +2,7 @@
   "youtubeId": "XVnQS_FPeng",
   "title": "Long Distance",
   "artist": "Turin Brakes",
-  "lastFetched": "2025-11-30T20:47:08.032Z",
+  "lastFetched": "2025-12-02T01:24:21.786Z",
   "odesli": {
     "amazonMusic": "B0BRVNFNRX",
     "amazonStore": "B0BRVNFNRX",
@@ -42,6 +42,17 @@
       "indie pop",
       "indie rock",
       "pop"
-    ]
+    ],
+    "releasedAt": "2002-10-21",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000205668",
+      "discogs": "12635",
+      "spotify": "1zrBQvkTNhFFby4V5UiK2L",
+      "deezer": "4712",
+      "lastfm": "Turin+Brakes",
+      "rateyourmusic": "turin_brakes",
+      "wikidata": "Q1759211"
+    }
   }
 }

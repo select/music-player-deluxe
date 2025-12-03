@@ -2,7 +2,7 @@
   "youtubeId": "w4LkSRXrK34",
   "title": "Heavy, California",
   "artist": "Jungle",
-  "lastFetched": "2025-11-30T19:33:58.110Z",
+  "lastFetched": "2025-12-02T02:02:36.883Z",
   "odesli": {
     "amazonMusic": "B07FDMRHS3",
     "amazonStore": "B07FDMRHS3",
@@ -43,6 +43,21 @@
       "nu disco",
       "smooth soul",
       "synth funk"
-    ]
+    ],
+    "releasedAt": "2018-08-24",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003229446",
+      "bandcamp": "https://jungle.bandcamp.com/",
+      "discogs": "3388626",
+      "spotify": "59oA5WbbQvomJz2BuRG071",
+      "deezer": "436163",
+      "genius": "Jungle",
+      "rateyourmusic": "jungle-1",
+      "soundcloud": "https://soundcloud.com/jungle-8",
+      "napster": "jungle",
+      "wikidata": "Q17405943",
+      "youtube": "UC8qPIA18dFORTSUmw0n8U-g"
+    }
   }
 }

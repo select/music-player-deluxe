@@ -3,7 +3,7 @@
   "artist": "Y.A.S.",
   "duration": 224,
   "youtubeId": "hPQH3O-Xx5U",
-  "lastFetched": "2025-11-19T04:26:02.250Z",
+  "lastFetched": "2025-12-02T01:40:19.306Z",
   "musicbrainz": {
     "tags": [
       "indie",
@@ -11,7 +11,13 @@
     ],
     "trackMbid": "4ae60236-2d20-46f2-8f28-a68b0035ed0a",
     "artistMbid": "2a3b75ac-4472-464c-88cd-52a4ca659b41",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2009-06-08",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "discogs": "1482266",
+      "wikidata": "Q15052981"
+    }
   },
   "lastfm": {
     "id": "Y.A.S./_/Ma+Rida",

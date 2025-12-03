@@ -2,7 +2,7 @@
   "youtubeId": "e_MSqS1-Ubs",
   "title": "Meet Your Maker",
   "artist": "IN FLAMES",
-  "lastFetched": "2025-11-30T21:48:35.289Z",
+  "lastFetched": "2025-12-02T01:36:19.736Z",
   "odesli": {
     "amazonMusic": "B0BBMZJ4NV",
     "amazonStore": "B0BBMZJ4NV",
@@ -40,6 +40,21 @@
       "melodic death metal",
       "metal",
       "metalcore"
-    ]
+    ],
+    "releasedAt": "2023-01-16",
+    "artistCountry": "SE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000096977",
+      "bandcamp": "https://inflamesoffical.bandcamp.com/",
+      "discogs": "244819",
+      "spotify": "57ylwQTnFnIhJh4nu4rxCs",
+      "deezer": "120",
+      "lastfm": "In+Flames",
+      "genius": "In-flames",
+      "rateyourmusic": "in_flames",
+      "soundcloud": "https://soundcloud.com/in-flames-official",
+      "wikidata": "Q258546",
+      "youtube": "UCcX2ZgyB4ImYO3uP_ul2MNA"
+    }
   }
 }

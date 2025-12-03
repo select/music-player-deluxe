@@ -2,7 +2,7 @@
   "youtubeId": "tPQ0PDi6m1k",
   "title": "Calypso Blues",
   "artist": "Calypso Rose",
-  "lastFetched": "2025-11-23T16:52:02.049Z",
+  "lastFetched": "2025-12-02T01:59:01.780Z",
   "odesli": {
     "amazonMusic": "B01EBCR9SI",
     "amazonStore": "B01EBCR9SI",
@@ -29,7 +29,17 @@
       "soca"
     ],
     "trackMbid": "91c36255-d739-3434-beb7-49ad1499d901",
-    "artistMbid": "ed4a6b66-f07f-41cb-9e5d-ea47d40beba6"
+    "artistMbid": "ed4a6b66-f07f-41cb-9e5d-ea47d40beba6",
+    "artistCountry": "TT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000650371",
+      "discogs": "772296",
+      "spotify": "56QlZ0AFfkaaHyANLVkg5h",
+      "deezer": "361476",
+      "lastfm": "Calypso+Rose",
+      "wikidata": "Q4356602",
+      "youtube": "UC4RBqjgigdHaDNW9hGYuoaw"
+    }
   },
   "lastfm": {
     "id": "Calypso+Rose/_/Calypso+Blues",

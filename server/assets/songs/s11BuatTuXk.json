@@ -2,7 +2,7 @@
   "youtubeId": "s11BuatTuXk",
   "title": "Dirty Old Town",
   "artist": "The Pogues",
-  "lastFetched": "2025-11-23T16:51:33.169Z",
+  "lastFetched": "2025-12-02T01:56:55.146Z",
   "musicbrainz": {
     "tags": [
       "celtic",
@@ -37,7 +37,23 @@
       "folk punk"
     ],
     "trackMbid": "af06a6ed-2271-4df2-983a-4dc89dda618c",
-    "artistMbid": "d41a6875-b626-4c0f-89a1-aecb643d29ff"
+    "artistMbid": "d41a6875-b626-4c0f-89a1-aecb643d29ff",
+    "releasedAt": "1985",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "3vPhzt8OsQn9aW6AOXTPVz",
+      "deezer": "765247"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000489876",
+      "discogs": "253234",
+      "spotify": "2wzMOQwNT6ZvVB4amvhFAH",
+      "deezer": "1435",
+      "lastfm": "The+Pogues",
+      "rateyourmusic": "the_pogues",
+      "wikidata": "Q48304",
+      "youtube": "UCvfcW8XVa2Kj802P4l302Yw"
+    }
   },
   "lastfm": {
     "id": "The+Pogues/_/Dirty+Old+Town",

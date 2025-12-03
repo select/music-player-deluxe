@@ -3,14 +3,23 @@
   "artist": "Nicolas Cage",
   "duration": 177,
   "youtubeId": "cKpcVGinVOk",
-  "lastFetched": "2025-11-19T03:59:04.524Z",
+  "lastFetched": "2025-12-02T01:33:20.667Z",
   "musicbrainz": {
     "artistTags": [
       "american"
     ],
     "trackMbid": "58145393-87ec-49ac-b532-d652dc516f5a",
     "artistMbid": "f6b92af8-75ab-4f42-83a0-6adf49b34b40",
-    "releaseCount": 5
+    "releaseCount": 5,
+    "releasedAt": "1990-08-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000405258",
+      "discogs": "282991",
+      "lastfm": "Nicolas%20Cage",
+      "rateyourmusic": "nicolas_cage",
+      "wikidata": "Q42869"
+    }
   },
   "lastfm": {
     "id": "Nicolas+Cage/_/Love+Me",

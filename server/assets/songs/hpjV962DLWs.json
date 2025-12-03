@@ -1,7 +1,7 @@
 {
   "youtubeId": "hpjV962DLWs",
   "title": "Vladimir Cauchemar - Aulos (Official Music Video)",
-  "lastFetched": "2025-11-30T20:28:26.391Z",
+  "lastFetched": "2025-12-02T01:40:50.676Z",
   "ai": {
     "title": "Aulos",
     "artist": "Vladimir Cauchemar"
@@ -25,6 +25,18 @@
   "musicbrainz": {
     "trackMbid": "804e3acb-2767-46ea-8e37-a47420f8f7b0",
     "artistMbid": "fb5b5da8-61f3-445e-8e2d-f9873b330b13",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2017-12-04",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "discogs": "6164577",
+      "spotify": "2V5xArcB3BGAHmwsK46tyU",
+      "deezer": "13682095",
+      "genius": "Vladimir-cauchemar",
+      "rateyourmusic": "vladimir-cauchemar",
+      "soundcloud": "https://soundcloud.com/user-248063763",
+      "wikidata": "Q57259286",
+      "youtube": "UC07udoHCKUb36kImuvm5zJw"
+    }
   }
 }

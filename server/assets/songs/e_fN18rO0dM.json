@@ -1,7 +1,7 @@
 {
   "youtubeId": "e_fN18rO0dM",
   "title": "them crooked vultures - elephants",
-  "lastFetched": "2025-11-30T20:22:16.595Z",
+  "lastFetched": "2025-12-02T01:36:22.794Z",
   "ai": {
     "title": "elephants",
     "artist": "them crooked vultures"
@@ -34,6 +34,19 @@
       "hard rock",
       "rock",
       "stoner rock"
-    ]
+    ],
+    "releasedAt": "2009-11-13",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002043528",
+      "discogs": "1547819",
+      "spotify": "4zYQWYmtimAEmI6WWEzGfO",
+      "deezer": "312888",
+      "lastfm": "Them+Crooked+Vultures",
+      "genius": "Them-crooked-vultures",
+      "rateyourmusic": "them_crooked_vultures",
+      "wikidata": "Q544121",
+      "youtube": "UCIBRMfqzUbE4UMV5F7K2TJA"
+    }
   }
 }

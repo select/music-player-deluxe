@@ -2,7 +2,7 @@
   "youtubeId": "mk5Dwg5zm2U",
   "title": "Africa",
   "artist": "Weezer",
-  "lastFetched": "2025-11-30T19:29:37.796Z",
+  "lastFetched": "2025-12-02T01:48:22.856Z",
   "odesli": {
     "appleMusic": "1388058245",
     "itunes": "1388058245",
@@ -43,6 +43,24 @@
       "pop rock",
       "power pop",
       "rock"
-    ]
+    ],
+    "releasedAt": "2018-05-29",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "36Pim2ANczp82lCWIb8GHy"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000243008",
+      "discogs": "105730",
+      "spotify": "3jOstUTkEu2JkjvRdBA5Gu",
+      "deezer": "418",
+      "lastfm": "Weezer",
+      "genius": "Weezer",
+      "rateyourmusic": "weezer",
+      "soundcloud": "https://soundcloud.com/weezer",
+      "napster": "weezer",
+      "wikidata": "Q209956",
+      "youtube": "UCtHZHneyvFGwxg6MHcbMLAw"
+    }
   }
 }

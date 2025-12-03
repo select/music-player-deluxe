@@ -2,7 +2,7 @@
   "youtubeId": "lj7OZ6w04DQ",
   "title": "Open Questions",
   "artist": "Mulo Francel",
-  "lastFetched": "2025-11-30T23:42:00.572Z",
+  "lastFetched": "2025-12-02T01:46:48.457Z",
   "odesli": {
     "amazonMusic": "B0F9Z1G6GZ",
     "amazonStore": "B0F9Z1G6GZ",
@@ -33,6 +33,13 @@
     "releaseCount": 1,
     "artistGenres": [
       "jazz"
-    ]
+    ],
+    "releasedAt": "2025-08-01",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000768406",
+      "discogs": "1078096",
+      "wikidata": "Q19959475"
+    }
   }
 }

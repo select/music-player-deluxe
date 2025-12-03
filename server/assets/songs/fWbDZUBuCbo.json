@@ -1,0 +1,60 @@
+{
+  "youtubeId": "fWbDZUBuCbo",
+  "title": "je sais pas danser",
+  "artist": "Pomme",
+  "lastFetched": "2025-12-03T11:50:00.098Z",
+  "odesli": {
+    "amazonMusic": "B07WXHWY23",
+    "amazonStore": "B07WXHWY23",
+    "boomplay": "5423310",
+    "pandora": "TR:37127090",
+    "soundcloud": "pommeofficial/je-sais-pas-danser",
+    "spotify": "7FMDhuPk4KiG2Y1DV7y56c",
+    "tidal": "121052584",
+    "yandex": "56988335",
+    "youtube": "fWbDZUBuCbo",
+    "youtubeMusic": "fWbDZUBuCbo"
+  },
+  "lastfm": {
+    "id": "Pomme/_/je+sais+pas+danser",
+    "listeners": 94320,
+    "playcount": 547672,
+    "title": "je sais pas danser",
+    "artist": "Pomme",
+    "mbid": "030c370a-7fb5-4c8b-8e6e-8aeddda839c1",
+    "artistMbid": "c75b226d-d643-41dc-a2b7-00c0ff8c8e7b",
+    "tags": [
+      "d"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a9416836-6854-49f4-9e72-e2a2615cfdfb",
+    "artistMbid": "c75b226d-d643-41dc-a2b7-00c0ff8c8e7b",
+    "releaseCount": 15,
+    "genres": [
+      "chanson française",
+      "folk pop"
+    ],
+    "artistGenres": [
+      "ambient pop",
+      "chamber folk",
+      "chamber pop",
+      "chanson française",
+      "folk pop",
+      "singer-songwriter"
+    ],
+    "releasedAt": "2019-08-30",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0003202652",
+      "discogs": "3786024",
+      "spotify": "6e3pZKXUxrPfnUPJ960Hd9",
+      "deezer": "5382747",
+      "genius": "Pomme",
+      "rateyourmusic": "pomme",
+      "soundcloud": "https://soundcloud.com/pommeofficial",
+      "wikidata": "Q42397176",
+      "youtube": "UCZy0-5YHgLpzgT-biGtJgJg"
+    }
+  }
+}

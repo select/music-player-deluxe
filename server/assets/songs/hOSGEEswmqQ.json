@@ -1,7 +1,7 @@
 {
   "youtubeId": "hOSGEEswmqQ",
   "title": "Thirteen Women - Bill Haley and his Comets",
-  "lastFetched": "2025-11-30T21:07:51.999Z",
+  "lastFetched": "2025-12-02T01:40:08.177Z",
   "ai": {
     "title": "Thirteen Women",
     "artist": "Bill Haley and his Comets"
@@ -15,6 +15,17 @@
       "rock and roll",
       "rockabilly",
       "western swing"
-    ]
+    ],
+    "releasedAt": "1956",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000063536",
+      "discogs": "282897",
+      "spotify": "3MFp4cYuYtTZe3d3xkLLbr",
+      "deezer": "6075",
+      "lastfm": "Bill+Haley+&+His+Comets",
+      "rateyourmusic": "bill_haley_and_his_comets",
+      "wikidata": "Q2914477"
+    }
   }
 }

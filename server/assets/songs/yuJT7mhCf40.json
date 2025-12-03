@@ -2,7 +2,7 @@
   "youtubeId": "yuJT7mhCf40",
   "title": "Wurstfachverkäuferin",
   "artist": "Helge Schneider",
-  "lastFetched": "2025-11-23T16:54:38.637Z",
+  "lastFetched": "2025-12-02T02:07:10.609Z",
   "musicbrainz": {
     "artistTags": [
       "comedy",
@@ -20,7 +20,21 @@
       "spoken word"
     ],
     "trackMbid": "7ba5687e-f478-430a-af3a-b949a84307fc",
-    "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9"
+    "artistMbid": "3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
+    "releasedAt": "1997",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000419691",
+      "discogs": "271200",
+      "spotify": "05OMHvPpkWnblSy9Kl7e9l",
+      "deezer": "79663",
+      "lastfm": "Helge+Schneider",
+      "genius": "Helge-schneider",
+      "rateyourmusic": "helge_schneider",
+      "soundcloud": "https://soundcloud.com/helge-schneider-official",
+      "wikidata": "Q76490",
+      "youtube": "UCpUm-HvU2Qgs207QiNmXFYQ"
+    }
   },
   "lastfm": {
     "id": "Helge+Schneider/_/Wurstfachverk%C3%A4uferin",

@@ -2,7 +2,7 @@
   "youtubeId": "i3ODk2McsHU",
   "title": "What AFD Thinks We Do...",
   "artist": "AKNE KID JOE",
-  "lastFetched": "2025-11-23T15:40:33.012Z",
+  "lastFetched": "2025-12-02T01:41:15.830Z",
   "odesli": {
     "amazonMusic": "B0CWDPMR9T",
     "amazonStore": "B0CWDPMR9T",
@@ -26,6 +26,17 @@
   },
   "musicbrainz": {
     "trackMbid": "864a2466-3836-4c08-adfc-4c4672086729",
-    "artistMbid": "fe014641-ef62-4092-89cf-cc7c4dca8dd5"
+    "artistMbid": "fe014641-ef62-4092-89cf-cc7c4dca8dd5",
+    "releasedAt": "2020-03",
+    "externalIdsArtist": {
+      "bandcamp": "https://aknekidjoe.bandcamp.com/",
+      "discogs": "5786369",
+      "spotify": "7gc8dP95DhyLjx5QZMNM3z",
+      "deezer": "13018685",
+      "rateyourmusic": "akne-kid-joe",
+      "napster": "art.267933085",
+      "wikidata": "Q89428872",
+      "youtube": "UCbg56S3cRJnkkkR-Fzqx3hQ"
+    }
   }
 }

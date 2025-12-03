@@ -2,7 +2,7 @@
   "youtubeId": "cJtL8vWNZ4o",
   "title": "Movin' Out",
   "artist": "Billy Joel",
-  "lastFetched": "2025-11-23T16:44:11.349Z",
+  "lastFetched": "2025-12-02T01:33:15.096Z",
   "odesli": {
     "boomplay": "8750173",
     "soundcloud": "257053845",
@@ -29,7 +29,20 @@
       "rock"
     ],
     "trackMbid": "172a2341-fdd1-46ba-900d-bdcca00ebe5b",
-    "artistMbid": "64b94289-9474-4d43-8c93-918ccc1920d1"
+    "artistMbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000085915",
+      "discogs": "137418",
+      "spotify": "6zFYqv1mOsgBRQbae3JJ9e",
+      "deezer": "423",
+      "lastfm": "Billy+Joel",
+      "genius": "Billy-joel",
+      "rateyourmusic": "billy_joel",
+      "soundcloud": "https://soundcloud.com/billyjoel",
+      "wikidata": "Q194333",
+      "youtube": "UCGEfxrwIPBuRqxeh-3JUSkg"
+    }
   },
   "lastfm": {
     "id": "Billy+Joel/_/Movin%27+Out",

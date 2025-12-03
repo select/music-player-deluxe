@@ -2,7 +2,7 @@
   "youtubeId": "X19Fje5_Zqo",
   "title": "Burn One Down",
   "artist": "Ben Harper",
-  "lastFetched": "2025-11-30T23:10:10.979Z",
+  "lastFetched": "2025-12-02T01:23:23.323Z",
   "lastfm": {
     "id": "Ben+Harper/_/Burn+One+Down",
     "listeners": 310476,
@@ -25,6 +25,20 @@
       "rock",
       "singer-songwriter",
       "soul"
-    ]
+    ],
+    "releasedAt": "1998-04-06",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001063103",
+      "discogs": "42599",
+      "spotify": "45lorWzrKLxfKlWpV7r9CN",
+      "deezer": "249",
+      "lastfm": "Ben+Harper+and+Relentless7",
+      "genius": "Ben-harper",
+      "rateyourmusic": "ben-harper",
+      "soundcloud": "https://soundcloud.com/ben-harper",
+      "wikidata": "Q380849",
+      "youtube": "UCQDfDVFPX4TxzD8pJXX5OpA"
+    }
   }
 }

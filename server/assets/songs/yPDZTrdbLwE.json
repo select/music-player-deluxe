@@ -2,7 +2,7 @@
   "youtubeId": "yPDZTrdbLwE",
   "title": "Main Title",
   "artist": "Richard Thompson",
-  "lastFetched": "2025-11-23T16:54:14.284Z",
+  "lastFetched": "2025-12-02T02:05:58.695Z",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -22,7 +22,17 @@
       "rock"
     ],
     "trackMbid": "3e24eccd-d15b-392e-81e3-4f45c39982e8",
-    "artistMbid": "ecfeacaf-0399-470f-8207-d1c646569fd0"
+    "artistMbid": "ecfeacaf-0399-470f-8207-d1c646569fd0",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000359016",
+      "discogs": "241755",
+      "spotify": "5w75MoT8FfcGOMgjgrj1cz",
+      "deezer": "8512",
+      "genius": "Richard-thompson",
+      "rateyourmusic": "richard-thompson",
+      "wikidata": "Q539955"
+    }
   },
   "lastfm": {
     "id": "Richard+Thompson/_/Main+Title",

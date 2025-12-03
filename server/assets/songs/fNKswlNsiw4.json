@@ -2,7 +2,7 @@
   "youtubeId": "fNKswlNsiw4",
   "title": "Das letzte Lied auf der Welt",
   "artist": "Fettes Brot",
-  "lastFetched": "2025-11-23T16:45:33.053Z",
+  "lastFetched": "2025-12-02T01:37:18.342Z",
   "odesli": {
     "pandora": "TR:16068625",
     "soundcloud": "fettes-brot-official/das-letzte-lied-auf-der-welt",
@@ -20,7 +20,20 @@
       "hip hop"
     ],
     "trackMbid": "36f6abdb-c4bb-4d01-a82c-cb2d864cdaad",
-    "artistMbid": "733e7372-5400-4c79-9059-33e2b2262d01"
+    "artistMbid": "733e7372-5400-4c79-9059-33e2b2262d01",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001239555",
+      "discogs": "57160",
+      "spotify": "3RRODs1rHC2ktLqyDDfgPH",
+      "deezer": "4281",
+      "lastfm": "Fettes+Brot",
+      "genius": "Fettes-brot",
+      "rateyourmusic": "fettes-brot",
+      "soundcloud": "https://soundcloud.com/fettes-brot",
+      "wikidata": "Q496214",
+      "youtube": "UCX5VJlyox9Ijv7glam7Xnqw"
+    }
   },
   "lastfm": {
     "id": "Fettes+Brot/_/Das+letzte+Lied+auf+der+Welt",

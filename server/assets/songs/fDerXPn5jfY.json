@@ -3,7 +3,7 @@
   "artist": "Honeyglaze",
   "duration": 235,
   "youtubeId": "fDerXPn5jfY",
-  "lastFetched": "2025-11-19T04:10:46.377Z",
+  "lastFetched": "2025-12-02T01:37:08.162Z",
   "odesli": {
     "amazonMusic": "B0D36852C6",
     "amazonStore": "B0D36852C6",
@@ -28,6 +28,17 @@
   "musicbrainz": {
     "trackMbid": "b366cb73-c0ee-4bea-ac6c-7d6707b4c45d",
     "artistMbid": "6a04ab15-ef22-4408-844f-5bf1d54dd2cb",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2024-08-06",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0004160923",
+      "discogs": "7035152",
+      "spotify": "0IJZjR1tj2EudGR8jvxZtM",
+      "deezer": "74623972",
+      "soundcloud": "https://soundcloud.com/honeyglaze-music",
+      "wikidata": "Q111736401",
+      "youtube": "UCTRkwzRQwc4HOzo69KoeHZQ"
+    }
   }
 }

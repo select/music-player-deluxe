@@ -2,7 +2,7 @@
   "youtubeId": "rn-wj4pRpIE",
   "title": "Technical Difficulties",
   "artist": "Paul Gilbert",
-  "lastFetched": "2025-11-23T16:51:23.703Z",
+  "lastFetched": "2025-12-02T01:56:38.225Z",
   "musicbrainz": {
     "artistTags": [
       "hard rock",
@@ -15,7 +15,19 @@
       "rock"
     ],
     "trackMbid": "171e2ebc-99da-4be0-9511-df6e7e9f0d96",
-    "artistMbid": "453321a7-3a77-47b0-8125-7bd385f3a730"
+    "artistMbid": "453321a7-3a77-47b0-8125-7bd385f3a730",
+    "releasedAt": "2007",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000747761",
+      "bandcamp": "https://paulgilbert.bandcamp.com/",
+      "discogs": "299756",
+      "spotify": "19sJfp2FK2evlsw46WVhPG",
+      "deezer": "4783",
+      "lastfm": "Paul+Gilbert",
+      "rateyourmusic": "paul_gilbert",
+      "wikidata": "Q315092"
+    }
   },
   "lastfm": {
     "id": "Paul+Gilbert/_/Technical+Difficulties",

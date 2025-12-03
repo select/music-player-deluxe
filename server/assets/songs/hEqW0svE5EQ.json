@@ -1,0 +1,40 @@
+{
+  "youtubeId": "hEqW0svE5EQ",
+  "title": "Attention",
+  "artist": "Peter Bence",
+  "lastFetched": "2025-12-03T11:53:24.211Z",
+  "odesli": {
+    "appleMusic": "1339001333",
+    "itunes": "1339001333",
+    "soundcloud": "ferooz_it/attention-charlie-puth-piano",
+    "youtube": "hEqW0svE5EQ",
+    "youtubeMusic": "hEqW0svE5EQ"
+  },
+  "lastfm": {
+    "id": "Peter+Bence/_/Attention",
+    "listeners": 1920,
+    "playcount": 8144,
+    "title": "Attention",
+    "artist": "Peter Bence",
+    "tags": [
+      "piano",
+      "classical",
+      "soundtracks",
+      "classical crossover",
+      "hungary"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b1f80845-dfa6-431f-be64-fb0cfdb54a89",
+    "artistMbid": "6c950c03-0ecc-4944-aa21-2cc74945774d",
+    "releaseCount": 1,
+    "releasedAt": "2020",
+    "artistCountry": "HU",
+    "externalIdsArtist": {
+      "discogs": "6169546",
+      "spotify": "4fdxbJLSNRIMkMGbLs5QPF",
+      "soundcloud": "https://soundcloud.com/bence-peter",
+      "wikidata": "Q20747349"
+    }
+  }
+}

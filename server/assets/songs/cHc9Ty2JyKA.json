@@ -2,7 +2,7 @@
   "youtubeId": "cHc9Ty2JyKA",
   "title": "Dembow Martinica",
   "artist": "Meryl",
-  "lastFetched": "2025-11-30T22:16:17.164Z",
+  "lastFetched": "2025-12-02T01:33:08.849Z",
   "odesli": {
     "amazonMusic": "B0D4CK5VX2",
     "amazonStore": "B0D4CK5VX2",
@@ -30,6 +30,15 @@
   "musicbrainz": {
     "trackMbid": "0fc39161-bb52-45fa-88bb-1ed0813f35f5",
     "artistMbid": "5073c6cf-1f12-4a4d-8c3d-4318da38df63",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2024-06-14",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0003661889",
+      "discogs": "6970720",
+      "spotify": "1AT8NKdQOU0EVPu6ehN4NA",
+      "deezer": "6351846",
+      "wikidata": "Q86735334"
+    }
   }
 }

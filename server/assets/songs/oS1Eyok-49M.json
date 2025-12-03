@@ -2,7 +2,7 @@
   "youtubeId": "oS1Eyok-49M",
   "title": "Kitsch",
   "artist": "Bilderbuch",
-  "lastFetched": "2025-11-23T16:49:47.799Z",
+  "lastFetched": "2025-12-02T01:51:06.239Z",
   "odesli": {
     "amazonMusic": "B07YLRCCJX",
     "amazonStore": "B07YLRCCJX",
@@ -32,7 +32,17 @@
       "rock"
     ],
     "trackMbid": "c8909905-c055-41fc-950e-e2e5f9392d18",
-    "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6"
+    "artistMbid": "456104db-b21e-46a6-a094-1dd396f4c6a6",
+    "artistCountry": "AT",
+    "externalIdsArtist": {
+      "discogs": "1635431",
+      "spotify": "2ErWLckuGFl84nGmg5fwyG",
+      "deezer": "870631",
+      "rateyourmusic": "bilderbuch",
+      "soundcloud": "https://soundcloud.com/bilderbuch",
+      "wikidata": "Q860688",
+      "youtube": "UCZXCfEevpX1wOKO6a8egX3Q"
+    }
   },
   "lastfm": {
     "id": "Bilderbuch/_/Kitsch",

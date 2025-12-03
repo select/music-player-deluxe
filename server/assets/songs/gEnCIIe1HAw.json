@@ -2,7 +2,7 @@
   "youtubeId": "gEnCIIe1HAw",
   "title": "This Is War",
   "artist": "Ben Kweller",
-  "lastFetched": "2025-11-30T22:31:47.424Z",
+  "lastFetched": "2025-12-02T01:38:24.569Z",
   "odesli": {
     "amazonMusic": "B0DZS2N2PC",
     "amazonStore": "B0DZS2N2PC",
@@ -44,6 +44,19 @@
       "indie rock",
       "rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2006-09-19",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000168126",
+      "discogs": "167371",
+      "spotify": "7bhMBjjQhgPX0q9S4Ajncn",
+      "deezer": "2249",
+      "lastfm": "Ben+Kweller",
+      "rateyourmusic": "ben_kweller",
+      "soundcloud": "https://soundcloud.com/benkweller",
+      "wikidata": "Q774923",
+      "youtube": "UCofB4mRf0j5kyn9lnoiSoNA"
+    }
   }
 }

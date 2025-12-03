@@ -2,7 +2,7 @@
   "youtubeId": "U_hFErXDevM",
   "title": "Freestyle",
   "artist": "Taalbi Brothers",
-  "lastFetched": "2025-11-30T21:45:56.680Z",
+  "lastFetched": "2025-12-02T01:20:00.339Z",
   "odesli": {
     "deezer": "390354821",
     "appleMusic": "1266570165",
@@ -32,6 +32,10 @@
   "musicbrainz": {
     "trackMbid": "ceff40ac-46ea-46bc-a0db-3b99facdb5cc",
     "artistMbid": "0e0d50ef-0afa-4f56-948b-b3eedc86a36f",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2009-07-30",
+    "externalIdsArtist": {
+      "bandcamp": "https://taalbibrothers.bandcamp.com/"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "ZSznpyG9CHY",
   "title": "Lights Out",
   "artist": "Royal Blood",
-  "lastFetched": "2025-11-30T21:07:15.359Z",
+  "lastFetched": "2025-12-02T01:27:41.475Z",
   "odesli": {
     "amazonMusic": "B06Y5BMKC2",
     "amazonStore": "B06Y5BMKC2",
@@ -50,6 +50,21 @@
       "hard rock",
       "indie rock",
       "punk blues"
-    ]
+    ],
+    "releasedAt": "2017-04-13",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003205165",
+      "discogs": "3605179",
+      "spotify": "2UeU64aHHwdmnnL2KKbDi5",
+      "deezer": "5506393",
+      "lastfm": "Royal+Blood",
+      "genius": "Royal-blood",
+      "rateyourmusic": "royal_blood_f2",
+      "soundcloud": "https://soundcloud.com/royalblooduk",
+      "napster": "royal-blood-uk",
+      "wikidata": "Q16632343",
+      "youtube": "UCcGxQntsBYoh5ui9wn9Baig"
+    }
   }
 }

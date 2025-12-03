@@ -2,7 +2,7 @@
   "youtubeId": "w4DI1WceXQA",
   "title": "The Wisp",
   "artist": "Simian",
-  "lastFetched": "2025-11-23T16:53:11.796Z",
+  "lastFetched": "2025-12-02T02:02:34.458Z",
   "musicbrainz": {
     "artistTags": [
       "british",
@@ -15,7 +15,17 @@
       "neo-psychedelia"
     ],
     "trackMbid": "d65c2294-0463-4339-bcf7-6e4e2513e4ab",
-    "artistMbid": "c4ef06c6-b6f6-48d2-ab5a-f33c30bd3275"
+    "artistMbid": "c4ef06c6-b6f6-48d2-ab5a-f33c30bd3275",
+    "releasedAt": "2000",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000031617",
+      "discogs": "17226",
+      "deezer": "3396",
+      "rateyourmusic": "simian",
+      "wikidata": "Q353143",
+      "wikipedia": "Simian_(band)"
+    }
   },
   "lastfm": {
     "id": "Simian/_/The+Wisp",

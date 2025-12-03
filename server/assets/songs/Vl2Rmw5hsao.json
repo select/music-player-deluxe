@@ -1,7 +1,7 @@
 {
   "youtubeId": "Vl2Rmw5hsao",
   "title": "Dance Gavin Dance - Young Robot",
-  "lastFetched": "2025-11-30T21:19:45.751Z",
+  "lastFetched": "2025-12-02T01:21:32.996Z",
   "ai": {
     "title": "Young Robot",
     "artist": "Dance Gavin Dance"
@@ -29,6 +29,20 @@
       "post-hardcore",
       "screamo",
       "swancore"
-    ]
+    ],
+    "releasedAt": "2016-10-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000480549",
+      "discogs": "1405649",
+      "spotify": "6guC9FqvlVboSKTI77NG2k",
+      "deezer": "72709",
+      "lastfm": "Dance+Gavin+Dance",
+      "genius": "Dance-gavin-dance",
+      "rateyourmusic": "dance_gavin_dance",
+      "soundcloud": "https://soundcloud.com/dance-gavin-dance",
+      "wikidata": "Q3013333",
+      "youtube": "UCm3F5ZIYJ4CcDCmtgGhOFXQ"
+    }
   }
 }

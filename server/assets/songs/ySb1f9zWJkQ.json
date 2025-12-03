@@ -4,7 +4,7 @@
   "album": "Rock 3",
   "duration": 290,
   "youtubeId": "ySb1f9zWJkQ",
-  "lastFetched": "2025-11-30T23:43:37.746Z",
+  "lastFetched": "2025-12-02T02:06:07.594Z",
   "odesli": {
     "amazonMusic": "B002GZQ4WK",
     "amazonStore": "B002GZQ4WK",
@@ -42,7 +42,22 @@
       "pop rock",
       "rock",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "1990",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000987621",
+      "discogs": "174890",
+      "spotify": "6IRouO5mvvfcyxtPDKMYFN",
+      "deezer": "2310",
+      "lastfm": "Foreigner",
+      "genius": "Foreigner",
+      "rateyourmusic": "foreigner",
+      "soundcloud": "https://soundcloud.com/foreigner",
+      "napster": "foreigner",
+      "wikidata": "Q275059",
+      "youtube": "UCr79-QZv1_VGlxVWLc28xrQ"
+    }
   },
   "lastfm": {
     "id": "Foreigner/_/Cold+as+Ice",

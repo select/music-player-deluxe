@@ -1,7 +1,7 @@
 {
   "youtubeId": "Z6_HlOqy2C0",
   "title": "Luca Stricagnoli - FEEL GOOD INC. (Gorillaz)",
-  "lastFetched": "2025-11-30T20:08:48.789Z",
+  "lastFetched": "2025-12-02T01:26:57.784Z",
   "ai": {
     "title": "FEEL GOOD INC.",
     "artist": "Luca Stricagnoli"
@@ -23,6 +23,11 @@
   "musicbrainz": {
     "trackMbid": "9ce5767a-395f-4bcf-95ff-40065909c460",
     "artistMbid": "10b438d1-7d7c-4494-aba8-77a47060f092",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "2017-09-29",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "discogs": "4681026"
+    }
   }
 }

@@ -1,0 +1,47 @@
+{
+  "youtubeId": "zqLX3t9G6CA",
+  "title": "Nguya Na Ngai",
+  "artist": "Kolinga",
+  "lastFetched": "2025-12-03T11:48:33.189Z",
+  "odesli": {
+    "amazonMusic": "B084ZYR21X",
+    "amazonStore": "B084ZYR21X",
+    "boomplay": "21571427",
+    "appleMusic": "1499878173",
+    "itunes": "1499878173",
+    "soundcloud": "kolinga-music/nguya-na-ngai",
+    "spotify": "0ItIlPXTgGn7w6N1LyPEs7",
+    "tidal": "131983266",
+    "youtube": "zqLX3t9G6CA",
+    "youtubeMusic": "zqLX3t9G6CA"
+  },
+  "lastfm": {
+    "id": "Kolinga/_/Nguya+Na+Ngai",
+    "listeners": 4101,
+    "playcount": 14232,
+    "title": "Nguya Na Ngai",
+    "artist": "Kolinga",
+    "mbid": "f64b19a0-6b14-416d-8796-cad3f646f574",
+    "artistMbid": "4b864787-9adf-4f0a-90c0-2fb9ff78e3d3",
+    "tags": [
+      "france",
+      "congo",
+      "soul",
+      "world"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "2e4d11d8-62fb-4ea4-ba5c-a515e85717e9",
+    "artistMbid": "4b864787-9adf-4f0a-90c0-2fb9ff78e3d3",
+    "releaseCount": 1,
+    "releasedAt": "2020-03-06",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "bandcamp": "https://kolingamusic.bandcamp.com/",
+      "discogs": "8096476",
+      "spotify": "1l4wo8qR1qvFN8aym2xmDM",
+      "soundcloud": "https://soundcloud.com/kolinga",
+      "youtube": "UCUtQk0PG3bf4hpNJRJnGoIQ"
+    }
+  }
+}

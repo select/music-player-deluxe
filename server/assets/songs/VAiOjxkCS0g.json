@@ -1,7 +1,7 @@
 {
   "youtubeId": "VAiOjxkCS0g",
   "title": "The Waterboys - This Is The Sea",
-  "lastFetched": "2025-11-30T20:27:37.910Z",
+  "lastFetched": "2025-12-02T01:20:49.290Z",
   "ai": {
     "title": "This Is The Sea",
     "artist": "The Waterboys"
@@ -36,6 +36,21 @@
       "celtic rock",
       "folk rock",
       "pop rock"
-    ]
+    ],
+    "releasedAt": "1998-10-05",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000924508",
+      "bandcamp": "https://thewaterboys.bandcamp.com/",
+      "discogs": "125174",
+      "spotify": "5TnuP42pw475UrjjeabtwZ",
+      "deezer": "10425",
+      "lastfm": "The+Waterboys",
+      "rateyourmusic": "the_waterboys",
+      "soundcloud": "https://soundcloud.com/waterboysband",
+      "napster": "the-waterboys",
+      "wikidata": "Q1422720",
+      "youtube": "UCtJACWCbG3GL8BQEknIO3CQ"
+    }
   }
 }

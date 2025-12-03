@@ -1,7 +1,7 @@
 {
   "youtubeId": "sEXHeTcxQy4",
   "title": "Chelsea Dagger",
-  "lastFetched": "2025-11-30T21:11:32.200Z",
+  "lastFetched": "2025-12-02T01:57:19.736Z",
   "ai": {
     "title": "Chelsea Dagger",
     "artist": "The Fratellis"
@@ -48,6 +48,21 @@
       "pop",
       "post-punk revival",
       "rock"
-    ]
+    ],
+    "releasedAt": "2009",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000615247",
+      "discogs": "472288",
+      "spotify": "3M4ThdJR28z9eSMcQHAZ5G",
+      "deezer": "9083",
+      "lastfm": "The+Fratellis",
+      "genius": "The-fratellis",
+      "rateyourmusic": "the_fratellis",
+      "soundcloud": "https://soundcloud.com/the-fratellis",
+      "napster": "the-fratellis",
+      "wikidata": "Q1127565",
+      "youtube": "UCmykRIhzFe7bkZYd5MdnokA"
+    }
   }
 }

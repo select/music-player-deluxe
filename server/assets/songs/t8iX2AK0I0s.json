@@ -2,7 +2,7 @@
   "youtubeId": "t8iX2AK0I0s",
   "title": "Instrumental 2 (Welcome to the Caveman Future)",
   "artist": "All Them Witches",
-  "lastFetched": "2025-11-23T16:51:55.306Z",
+  "lastFetched": "2025-12-02T01:58:35.252Z",
   "odesli": {
     "amazonMusic": "B09Q868BBQ",
     "amazonStore": "B09Q868BBQ",
@@ -31,7 +31,21 @@
       "psychedelic"
     ],
     "trackMbid": "1e61f9b5-3b78-4d43-9363-9d0103656ed6",
-    "artistMbid": "b574bfea-2359-4e9d-93f6-71c3c9a2a4f0"
+    "artistMbid": "b574bfea-2359-4e9d-93f6-71c3c9a2a4f0",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0003061563",
+      "bandcamp": "https://allthemwitches.bandcamp.com/",
+      "discogs": "3067403",
+      "spotify": "29Wmfm1CojrjQ3aQP0FI65",
+      "deezer": "2750711",
+      "lastfm": "All+Them+Witches",
+      "genius": "All-them-witches",
+      "rateyourmusic": "all_them_witches",
+      "soundcloud": "https://soundcloud.com/all-them-witches",
+      "wikidata": "Q23199048",
+      "youtube": "UCo2IatrwKyvABUmGbSA473Q"
+    }
   },
   "lastfm": {
     "id": "All+Them+Witches/_/Instrumental+2+(Welcome+to+the+Caveman+Future)",

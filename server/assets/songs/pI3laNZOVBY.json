@@ -1,0 +1,48 @@
+{
+  "youtubeId": "pI3laNZOVBY",
+  "title": "BIER",
+  "artist": "Drunken Masters",
+  "lastFetched": "2025-12-03T11:38:17.723Z",
+  "odesli": {
+    "amazonMusic": "B08KHVJHL4",
+    "amazonStore": "B08KHVJHL4",
+    "anghami": "87767378",
+    "deezer": "1097300452",
+    "appleMusic": "1533430079",
+    "itunes": "1533430079",
+    "pandora": "TR:36432389",
+    "soundcloud": "kiele_wav/drunken-masters-maxim-kiz-bier-techno-edit",
+    "spotify": "44Elooy8S8twBdOoVVHPDA",
+    "tidal": "157184631",
+    "yandex": "72044438",
+    "youtube": "pI3laNZOVBY",
+    "youtubeMusic": "pI3laNZOVBY"
+  },
+  "lastfm": {
+    "id": "Drunken+Masters/_/BIER",
+    "listeners": 21771,
+    "playcount": 181601,
+    "title": "BIER",
+    "artist": "Drunken Masters",
+    "artistMbid": "de907697-e283-4dc7-bae0-e29df7d2636d",
+    "tags": [
+      "drum and bass",
+      "jungle",
+      "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1654c909-56c9-4103-83cd-a5a743f0ff18",
+    "artistMbid": "11b9f6be-db85-4c54-a6f5-e9468f7044f3",
+    "releaseCount": 1,
+    "releasedAt": "2020-10-09",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "5288656",
+      "spotify": "0cUMeX7DFLIvLy0q8uqp6q",
+      "deezer": "4016247",
+      "rateyourmusic": "drunken_masters",
+      "soundcloud": "https://soundcloud.com/drunkenmasters"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "youtubeId": "cVd5RAVHSD8",
   "title": "Skyline Pigeon",
   "artist": "Elton John",
-  "lastFetched": "2025-11-30T19:22:28.340Z",
+  "lastFetched": "2025-12-02T01:33:32.403Z",
   "odesli": {
     "amazonMusic": "B07MP5SHK3",
     "amazonStore": "B07MP5SHK3",
@@ -50,6 +50,21 @@
       "rock and roll",
       "singer-songwriter",
       "soft rock"
-    ]
+    ],
+    "releasedAt": "1973-01",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001336698",
+      "discogs": "57103",
+      "spotify": "3PhoLpVuITZKcymswpck5b",
+      "deezer": "413",
+      "lastfm": "Elton+John",
+      "genius": "Elton-john",
+      "rateyourmusic": "elton-john",
+      "soundcloud": "https://soundcloud.com/elton-john",
+      "napster": "elton-john",
+      "wikidata": "Q2808",
+      "youtube": "UCn9i4cdLe14CbsOycTbKMoA"
+    }
   }
 }

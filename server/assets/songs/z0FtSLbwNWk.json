@@ -2,7 +2,7 @@
   "youtubeId": "z0FtSLbwNWk",
   "title": "Break Night",
   "artist": "The Mole People",
-  "lastFetched": "2025-12-01T13:05:24.857Z",
+  "lastFetched": "2025-12-02T02:07:25.380Z",
   "odesli": {
     "amazonMusic": "B074YB1YHC",
     "amazonStore": "B074YB1YHC",
@@ -28,6 +28,10 @@
   "musicbrainz": {
     "trackMbid": "e5f70d5c-972d-4711-856b-c96bbb8589ac",
     "artistMbid": "7570a64f-4a63-47b3-a21e-29f9a5f43065",
-    "releaseCount": 6
+    "releaseCount": 6,
+    "releasedAt": "1995-06-07",
+    "externalIdsArtist": {
+      "discogs": "20932"
+    }
   }
 }

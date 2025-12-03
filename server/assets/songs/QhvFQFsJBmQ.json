@@ -1,0 +1,40 @@
+{
+  "youtubeId": "QhvFQFsJBmQ",
+  "title": "Geist",
+  "artist": "Ansa Sauermann",
+  "lastFetched": "2025-12-03T11:36:45.596Z",
+  "odesli": {
+    "amazonMusic": "B073XSVK9P",
+    "amazonStore": "B073XSVK9P",
+    "pandora": "TR:29101167",
+    "soundcloud": "ansasauermann/geist-1",
+    "tidal": "66027212",
+    "youtube": "QhvFQFsJBmQ",
+    "youtubeMusic": "QhvFQFsJBmQ"
+  },
+  "lastfm": {
+    "id": "Ansa+Sauermann/_/Geist",
+    "listeners": 2905,
+    "playcount": 9721,
+    "title": "Geist",
+    "artist": "Ansa Sauermann",
+    "artistMbid": "034bdb8f-9178-4bd5-a202-6de0794b119a",
+    "tags": [
+      "mixed-pop",
+      "spotify - mix der woche"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7563409b-604f-48fa-8c70-2fc2339d473b",
+    "artistMbid": "034bdb8f-9178-4bd5-a202-6de0794b119a",
+    "releaseCount": 1,
+    "releasedAt": "2017",
+    "externalIdsArtist": {
+      "discogs": "5645336",
+      "spotify": "43pbeHDddDmFjrckAf27va",
+      "rateyourmusic": "ansa-sauermann",
+      "wikidata": "Q109285703",
+      "youtube": "UCBftjFmmfKMyql8OQN-tQ6w"
+    }
+  }
+}

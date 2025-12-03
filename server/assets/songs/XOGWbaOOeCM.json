@@ -3,7 +3,7 @@
   "artist": "Steely Dan",
   "duration": 338,
   "youtubeId": "XOGWbaOOeCM",
-  "lastFetched": "2025-11-19T01:37:36.297Z",
+  "lastFetched": "2025-12-02T01:24:04.488Z",
   "name": "King Of The World",
   "musicbrainz": {
     "artistTags": [
@@ -19,7 +19,19 @@
     ],
     "trackMbid": "60cd68b3-56f9-3f32-b668-e82c818fa514",
     "artistMbid": "e01c3376-15fa-40d7-b747-5f219bdefdd7",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "externalIdsArtist": {
+      "allmusic": "mn0000011707",
+      "discogs": "160906",
+      "spotify": "6P7H3ai06vU1sGvdpBwDmE",
+      "deezer": "1156",
+      "lastfm": "Steely+Dan",
+      "genius": "Steely-dan",
+      "rateyourmusic": "steely-dan",
+      "napster": "steely-dan",
+      "wikidata": "Q852435",
+      "youtube": "UCvnGL-FVjYVe_0YJKxLlwqA"
+    }
   },
   "lastfm": {
     "id": "Steely+Dan/_/King+Of+The+World",

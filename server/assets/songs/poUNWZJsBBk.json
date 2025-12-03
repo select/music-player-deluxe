@@ -2,7 +2,7 @@
   "youtubeId": "poUNWZJsBBk",
   "title": "DING DONG MERRILY OI! OI!",
   "artist": "HARD SKIN",
-  "lastFetched": "2025-11-30T21:56:09.471Z",
+  "lastFetched": "2025-12-02T01:53:15.294Z",
   "lastfm": {
     "id": "Hard+Skin/_/Ding+Dong+Merrily+Oi%21+Oi%21",
     "listeners": 1090,
@@ -22,6 +22,13 @@
     "artistGenres": [
       "oi",
       "punk"
-    ]
+    ],
+    "releasedAt": "2006",
+    "externalIdsArtist": {
+      "bandcamp": "https://hardskin.bandcamp.com/",
+      "discogs": "366547",
+      "rateyourmusic": "hard_skin",
+      "wikidata": "Q3127339"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "qh-Ee957584",
   "title": "Hush Now",
   "artist": "Fink",
-  "lastFetched": "2025-12-01T12:59:09.708Z",
+  "lastFetched": "2025-12-02T01:54:36.210Z",
   "odesli": {
     "amazonMusic": "B073SB9JGT",
     "amazonStore": "B073SB9JGT",
@@ -40,6 +40,18 @@
       "dub",
       "indie folk",
       "indie rock"
-    ]
+    ],
+    "releasedAt": "2006-04-17",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0001723862",
+      "bandcamp": "https://finkmusic.bandcamp.com/",
+      "discogs": "4080",
+      "spotify": "2t9yJDJIEtvPmr2iRIdqBf",
+      "deezer": "8094",
+      "rateyourmusic": "fink_f1",
+      "soundcloud": "https://soundcloud.com/fink",
+      "wikidata": "Q250669"
+    }
   }
 }

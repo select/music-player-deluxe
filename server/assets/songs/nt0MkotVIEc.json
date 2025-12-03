@@ -2,7 +2,7 @@
   "youtubeId": "nt0MkotVIEc",
   "title": "I Come With Knives",
   "artist": "IAMX",
-  "lastFetched": "2025-12-01T13:00:43.418Z",
+  "lastFetched": "2025-12-02T01:50:10.093Z",
   "odesli": {
     "amazonMusic": "B09PQHKY8M",
     "amazonStore": "B09PQHKY8M",
@@ -40,6 +40,19 @@
     "artistGenres": [
       "electronic",
       "synth-pop"
-    ]
+    ],
+    "releasedAt": "2013-05-12",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000776443",
+      "discogs": "192242",
+      "spotify": "223iUzG0kb5V166FJP9ovD",
+      "deezer": "80763",
+      "lastfm": "IAMX",
+      "genius": "Iamx",
+      "rateyourmusic": "iamx",
+      "soundcloud": "https://soundcloud.com/iamx-official",
+      "wikidata": "Q1990235"
+    }
   }
 }

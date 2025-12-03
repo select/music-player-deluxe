@@ -2,7 +2,7 @@
   "youtubeId": "ykLcVdD8Mnc",
   "title": "Ran Before the Storm",
   "artist": "Roo Panes",
-  "lastFetched": "2025-11-23T16:54:28.785Z",
+  "lastFetched": "2025-12-02T02:06:44.407Z",
   "musicbrainz": {
     "artistTags": [
       "classical",
@@ -15,7 +15,20 @@
       "pop"
     ],
     "trackMbid": "2ce4beb7-8ead-41a1-9ad2-d8049a090b4f",
-    "artistMbid": "f01f4e0c-20c7-44fb-b549-d353c94bef55"
+    "artistMbid": "f01f4e0c-20c7-44fb-b549-d353c94bef55",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003295714",
+      "bandcamp": "https://roopanes.bandcamp.com/",
+      "discogs": "3962785",
+      "spotify": "0XHM5ZNJDU8e4CfbWMeSzC",
+      "deezer": "808664",
+      "lastfm": "Roo+Panes",
+      "genius": "Roo-panes",
+      "rateyourmusic": "roo_panes",
+      "soundcloud": "https://soundcloud.com/roo-panes",
+      "wikidata": "Q16232840"
+    }
   },
   "lastfm": {
     "id": "Roo+Panes/_/Ran+Before+the+Storm",

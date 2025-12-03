@@ -2,7 +2,7 @@
   "youtubeId": "yeBeKngjWvs",
   "title": "Car Chase City",
   "artist": "Tenacious D",
-  "lastFetched": "2025-11-30T23:26:27.926Z",
+  "lastFetched": "2025-12-02T02:06:24.579Z",
   "odesli": {
     "amazonMusic": "B0013CRSYU",
     "amazonStore": "B0013CRSYU",
@@ -42,6 +42,20 @@
       "comedy rock",
       "hard rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2006-11-02",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000017021",
+      "discogs": "275914",
+      "spotify": "1XpDYCrUJnvCo9Ez6yeMWh",
+      "deezer": "445",
+      "lastfm": "Tenacious+D",
+      "genius": "Tenacious-d",
+      "rateyourmusic": "tenacious_d",
+      "soundcloud": "https://soundcloud.com/tenaciousd",
+      "wikidata": "Q205780",
+      "youtube": "UCH-Uobgd_TrFNnxuphSnbeQ"
+    }
   }
 }

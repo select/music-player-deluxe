@@ -2,7 +2,7 @@
   "youtubeId": "jcJ81N6x9VM",
   "title": "I AM",
   "artist": "Ken Arai",
-  "lastFetched": "2025-11-30T19:46:44.188Z",
+  "lastFetched": "2025-12-02T01:43:22.082Z",
   "odesli": {
     "amazonMusic": "B0BHWXG6HL",
     "amazonStore": "B0BHWXG6HL",
@@ -35,6 +35,11 @@
     "artistGenres": [
       "electronic",
       "neoclassicism"
-    ]
+    ],
+    "releasedAt": "2014-12-24",
+    "externalIdsArtist": {
+      "spotify": "407LLFiYyURXP0pdIwbZdr",
+      "wikidata": "Q15978477"
+    }
   }
 }

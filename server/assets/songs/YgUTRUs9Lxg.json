@@ -2,7 +2,7 @@
   "youtubeId": "YgUTRUs9Lxg",
   "title": "Nobody Girl",
   "artist": "Ryan Adams",
-  "lastFetched": "2025-11-23T16:42:11.364Z",
+  "lastFetched": "2025-12-02T01:26:33.231Z",
   "odesli": {
     "amazonMusic": "B000V9AVMM",
     "amazonStore": "B000V9AVMM",
@@ -40,7 +40,20 @@
       "indie rock"
     ],
     "trackMbid": "3ce3b466-4e60-3581-a104-93a2b1a166b7",
-    "artistMbid": "c80f38a6-9980-485d-997c-5c1a9cbd0d64"
+    "artistMbid": "c80f38a6-9980-485d-997c-5c1a9cbd0d64",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000808336",
+      "discogs": "83087",
+      "spotify": "2qc41rNTtdLK0tV3mJn2Pm",
+      "deezer": "1225",
+      "lastfm": "Ryan+Adams+&+The+Cardinals",
+      "genius": "Ryan-adams",
+      "rateyourmusic": "ryan-adams",
+      "soundcloud": "https://soundcloud.com/ryanadams",
+      "wikidata": "Q437970",
+      "youtube": "UCSp4k1WRLuur2msCymqd0Pg"
+    }
   },
   "lastfm": {
     "id": "Ryan+Adams/_/Nobody+Girl",

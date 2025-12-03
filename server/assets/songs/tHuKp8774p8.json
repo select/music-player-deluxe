@@ -1,7 +1,7 @@
 {
   "youtubeId": "tHuKp8774p8",
   "title": "I Think We're Alone Now",
-  "lastFetched": "2025-11-30T21:25:50.740Z",
+  "lastFetched": "2025-12-02T01:58:49.935Z",
   "ai": {
     "title": "I Think We're Alone Now",
     "artist": "The Rubinoos"
@@ -43,6 +43,14 @@
     ],
     "artistGenres": [
       "power pop"
-    ]
+    ],
+    "releasedAt": "1977",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000297955",
+      "discogs": "686295",
+      "rateyourmusic": "the_rubinoos",
+      "wikidata": "Q628629"
+    }
   }
 }

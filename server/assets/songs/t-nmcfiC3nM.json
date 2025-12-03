@@ -1,0 +1,53 @@
+{
+  "youtubeId": "t-nmcfiC3nM",
+  "title": "Melvins - Let It All Be @ Launch",
+  "lastFetched": "2025-12-03T11:57:12.329Z",
+  "ai": {
+    "title": "Let It All Be",
+    "artist": "Melvins"
+  },
+  "lastfm": {
+    "id": "Melvins/_/Let+It+All+Be",
+    "listeners": 15714,
+    "playcount": 58338,
+    "title": "Let It All Be",
+    "artist": "Melvins",
+    "mbid": "24a6cb5f-fe23-4681-ba98-7c6548199f56",
+    "artistMbid": "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
+    "tags": [
+      "stoner rock",
+      "grunge",
+      "sludge",
+      "cowbell"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "24a6cb5f-fe23-4681-ba98-7c6548199f56",
+    "artistMbid": "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock",
+      "drone metal",
+      "experimental rock",
+      "grunge",
+      "hard rock",
+      "metal",
+      "noise rock",
+      "sludge metal",
+      "stoner metal",
+      "stoner rock"
+    ],
+    "releasedAt": "2021-06",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000349157",
+      "bandcamp": "https://melvinsofficial.bandcamp.com/",
+      "discogs": "87652",
+      "spotify": "6aVjo0xHSiuW5hkasoYSR3",
+      "deezer": "3382",
+      "lastfm": "Melvins",
+      "rateyourmusic": "melvins",
+      "wikidata": "Q385618"
+    }
+  }
+}

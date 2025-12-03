@@ -1,0 +1,62 @@
+{
+  "youtubeId": "31jvtk3Z8AU",
+  "title": "Might Be Right",
+  "artist": "White Reaper",
+  "lastFetched": "2025-12-03T12:04:49.297Z",
+  "odesli": {
+    "amazonMusic": "B07RN2F4SR",
+    "amazonStore": "B07RN2F4SR",
+    "anghami": "52216020",
+    "boomplay": "5812414",
+    "deezer": "685889082",
+    "appleMusic": "1477202493",
+    "itunes": "1477202493",
+    "napster": "tra.379106668",
+    "pandora": "TR:24504403",
+    "soundcloud": "white-reaper-official/might-be-right",
+    "spotify": "5YTDnlr6qzl0XIGCqHP7sx",
+    "tidal": "109080819",
+    "yandex": "53437039",
+    "youtube": "31jvtk3Z8AU",
+    "youtubeMusic": "31jvtk3Z8AU"
+  },
+  "lastfm": {
+    "id": "White+Reaper/_/Might+Be+Right",
+    "listeners": 55191,
+    "playcount": 352574,
+    "title": "Might Be Right",
+    "artist": "White Reaper",
+    "mbid": "2a4597b3-9a4f-4e30-91f9-e895cc4b5da6",
+    "artistMbid": "614ae988-c23c-4cf9-bb60-d6d756793005",
+    "tags": [
+      "garage rock",
+      "garage punk",
+      "indie rock",
+      "punk rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ff90fe5f-2ca1-44e1-bc0f-e7cd014ee162",
+    "artistMbid": "614ae988-c23c-4cf9-bb60-d6d756793005",
+    "releaseCount": 7,
+    "releasedAt": "2019-05-29",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "5YTDnlr6qzl0XIGCqHP7sx"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003247637",
+      "bandcamp": "https://whitereaper.bandcamp.com/",
+      "discogs": "3326720",
+      "spotify": "75klPfIVnyYcyEGaicRUSF",
+      "deezer": "5945596",
+      "lastfm": "White+Reaper",
+      "genius": "White-reaper",
+      "rateyourmusic": "white_reaper",
+      "soundcloud": "https://soundcloud.com/white-reaper-official",
+      "napster": "white-reaper",
+      "wikidata": "Q22026280",
+      "youtube": "UCmSTAuwJPwjky-UTjpjbgZg"
+    }
+  }
+}

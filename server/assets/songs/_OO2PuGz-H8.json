@@ -2,7 +2,7 @@
   "youtubeId": "_OO2PuGz-H8",
   "title": "Solsbury Hill",
   "artist": "Peter Gabriel",
-  "lastFetched": "2025-12-01T12:54:05.377Z",
+  "lastFetched": "2025-12-02T01:29:01.361Z",
   "odesli": {
     "amazonMusic": "B07D1F4K83",
     "amazonStore": "B07D1F4K83",
@@ -55,6 +55,21 @@
       "rock",
       "soft rock",
       "worldbeat"
-    ]
+    ],
+    "releasedAt": "2002-06-03",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000842802",
+      "bandcamp": "https://petergabriel.bandcamp.com/",
+      "discogs": "11136",
+      "spotify": "7C4sUpWGlTy7IANjruj02I",
+      "deezer": "259472582",
+      "lastfm": "Peter+Gabriel",
+      "genius": "Peter-gabriel",
+      "rateyourmusic": "peter-gabriel",
+      "soundcloud": "https://soundcloud.com/peter-gabriel-official",
+      "wikidata": "Q175195",
+      "youtube": "UC7dI7qJoDsMd388DTtcwIZg"
+    }
   }
 }

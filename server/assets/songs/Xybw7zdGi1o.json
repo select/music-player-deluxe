@@ -2,7 +2,7 @@
   "youtubeId": "Xybw7zdGi1o",
   "title": "bamboo",
   "artist": "Ebi Soda",
-  "lastFetched": "2025-11-30T21:40:37.048Z",
+  "lastFetched": "2025-12-02T01:25:13.198Z",
   "odesli": {
     "amazonMusic": "B0DWYTP3BG",
     "amazonStore": "B0DWYTP3BG",
@@ -34,6 +34,13 @@
   "musicbrainz": {
     "trackMbid": "1d835b63-a1ae-4790-b602-53be6c7d0ab2",
     "artistMbid": "89fdffe7-4545-4265-9ccc-e7b928e00d22",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-09-19",
+    "externalIdsArtist": {
+      "bandcamp": "https://ebi-soda.bandcamp.com/",
+      "discogs": "7072778",
+      "spotify": "14oHFzpCSWX1koQIlZbjFU",
+      "deezer": "50621602"
+    }
   }
 }

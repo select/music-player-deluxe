@@ -2,7 +2,7 @@
   "youtubeId": "bM0egLYF4Lo",
   "title": "La Chasse aux Microbes",
   "artist": "Michael Bundt",
-  "lastFetched": "2025-11-30T22:51:59.983Z",
+  "lastFetched": "2025-12-02T01:31:50.411Z",
   "odesli": {
     "amazonMusic": "B00KHQLVB4",
     "amazonStore": "B00KHQLVB4",
@@ -30,6 +30,12 @@
   "musicbrainz": {
     "artistMbid": "b9dc0302-1849-4c5e-81b1-20da642e42f1",
     "trackMbid": "5d44729e-3bf4-4208-9712-2dadeace2e75",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "1977",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "10861",
+      "rateyourmusic": "michael_bundt"
+    }
   }
 }

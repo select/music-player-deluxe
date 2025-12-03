@@ -2,7 +2,7 @@
   "youtubeId": "Wjw7m-BKmQ8",
   "title": "Under Me Sleng Teng",
   "artist": "Wayne Smith",
-  "lastFetched": "2025-11-30T19:24:31.665Z",
+  "lastFetched": "2025-12-02T01:23:03.681Z",
   "odesli": {
     "amazonMusic": "B01AOINX2Y",
     "amazonStore": "B01AOINX2Y",
@@ -43,6 +43,14 @@
       "dancehall",
       "dub",
       "reggae"
-    ]
+    ],
+    "releasedAt": "1986",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000251925",
+      "discogs": "28082",
+      "rateyourmusic": "wayne_smith",
+      "wikidata": "Q3566866"
+    }
   }
 }

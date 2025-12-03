@@ -2,7 +2,7 @@
   "youtubeId": "y6RoJ4GIM9k",
   "title": "Things Fall Apart",
   "artist": "Built To Spill",
-  "lastFetched": "2025-11-30T19:49:33.016Z",
+  "lastFetched": "2025-12-02T02:05:42.938Z",
   "odesli": {
     "amazonMusic": "B002Q6J1HE",
     "amazonStore": "B002Q6J1HE",
@@ -39,6 +39,21 @@
     "artistGenres": [
       "indie rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2009-10-02",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000527267",
+      "bandcamp": "https://builttospill.bandcamp.com/",
+      "discogs": "260124",
+      "spotify": "3kbBWco9PZ5eSQsNScwG6U",
+      "deezer": "11003",
+      "lastfm": "Built+to+Spill",
+      "genius": "Built-to-spill",
+      "rateyourmusic": "built_to_spill",
+      "soundcloud": "https://soundcloud.com/builttospill",
+      "wikidata": "Q1003115",
+      "youtube": "builttospill"
+    }
   }
 }

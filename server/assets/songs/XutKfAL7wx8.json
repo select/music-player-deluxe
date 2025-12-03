@@ -2,7 +2,7 @@
   "youtubeId": "XutKfAL7wx8",
   "title": "August 10",
   "artist": "Khruangbin",
-  "lastFetched": "2025-11-30T19:19:27.837Z",
+  "lastFetched": "2025-12-02T01:25:07.945Z",
   "odesli": {
     "amazonMusic": "B076HMZXXF",
     "amazonStore": "B076HMZXXF",
@@ -42,6 +42,22 @@
       "psychedelic rock",
       "psychedelic soul",
       "surf"
-    ]
+    ],
+    "releasedAt": "2018-01-26",
+    "externalIdsTrack": {
+      "spotify": "2MIavWMdvbYuRoA2Cw6VkN"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003192866",
+      "bandcamp": "https://khruangbin.bandcamp.com/",
+      "discogs": "3565949",
+      "spotify": "2mVVjNmdjXZZDvhgQWiakk",
+      "deezer": "5328540",
+      "lastfm": "Khruangbin",
+      "rateyourmusic": "khruangbin",
+      "soundcloud": "https://soundcloud.com/khruangbin",
+      "wikidata": "Q54555985",
+      "youtube": "UCZGBua-dvwfSdcF9AskDIgw"
+    }
   }
 }

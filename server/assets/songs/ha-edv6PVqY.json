@@ -2,7 +2,7 @@
   "youtubeId": "ha-edv6PVqY",
   "title": "I'M ALRIGHT!",
   "artist": "Sportfreunde Stiller",
-  "lastFetched": "2025-11-23T16:46:33.126Z",
+  "lastFetched": "2025-12-02T01:40:27.988Z",
   "odesli": {
     "amazonMusic": "B09YJ4LZGL",
     "amazonStore": "B09YJ4LZGL",
@@ -34,7 +34,21 @@
       "pop rock"
     ],
     "trackMbid": "0c751e4b-915c-4748-a252-8035217147ff",
-    "artistMbid": "35581de7-591f-424f-9c64-7b22fd45605e"
+    "artistMbid": "35581de7-591f-424f-9c64-7b22fd45605e",
+    "releasedAt": "2022-05-06",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000495734",
+      "discogs": "144866",
+      "spotify": "5PwcOudItUhq3ciF9QwaXZ",
+      "deezer": "4336",
+      "lastfm": "Sportfreunde%20Stiller",
+      "genius": "Sportfreunde-stiller",
+      "rateyourmusic": "sportfreunde_stiller",
+      "soundcloud": "https://soundcloud.com/sportfreunde-stiller",
+      "wikidata": "Q263183",
+      "youtube": "UCtN9Te2GXelHmDOmJ9XXSEA"
+    }
   },
   "lastfm": {
     "id": "Sportfreunde+Stiller/_/I%27M+ALRIGHT%21",

@@ -1,7 +1,7 @@
 {
   "youtubeId": "qAYK8I9cs1I",
   "title": "Leoniden - Kids (Official Music Video)",
-  "lastFetched": "2025-11-30T19:41:00.754Z",
+  "lastFetched": "2025-12-02T01:53:54.200Z",
   "ai": {
     "title": "Kids",
     "artist": "Leoniden"
@@ -24,6 +24,17 @@
   "musicbrainz": {
     "trackMbid": "fb41976f-99e5-457b-a916-71e4f05d9a39",
     "artistMbid": "58e80cb1-6b99-43de-b3f8-0d24ab25688e",
-    "releaseCount": 4
+    "releaseCount": 4,
+    "releasedAt": "2018-06-22",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "2415203",
+      "spotify": "1zwtew8BGPk66RKGQqtPCX",
+      "deezer": "5951818",
+      "lastfm": "Leoniden",
+      "rateyourmusic": "leoniden",
+      "wikidata": "Q30226663",
+      "youtube": "UCrypNJiYZ6VZkoCvPwD6mAg"
+    }
   }
 }

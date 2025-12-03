@@ -1,7 +1,7 @@
 {
   "youtubeId": "gFsRvN2sRRU",
   "title": "Little Wing- Jimi Hendrix: You've Never Heard It Like This #13",
-  "lastFetched": "2025-11-30T21:42:35.192Z",
+  "lastFetched": "2025-12-02T01:38:27.128Z",
   "ai": {
     "title": "Little Wing",
     "artist": "Jimi Hendrix"
@@ -37,6 +37,19 @@
       "psychedelic rock",
       "psychedelic soul",
       "rock"
-    ]
+    ],
+    "releasedAt": "1990-11-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000354105",
+      "discogs": "110593",
+      "spotify": "776Uo845nYHJpNaStv1Ds4",
+      "deezer": "849",
+      "lastfm": "Jimi+Hendrix",
+      "genius": "Jimi-hendrix",
+      "rateyourmusic": "jimi-hendrix",
+      "wikidata": "Q5928",
+      "youtube": "UC5NwXf8hOgZgInaYiOCZmUg"
+    }
   }
 }

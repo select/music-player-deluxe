@@ -2,7 +2,7 @@
   "youtubeId": "rV1_7R_3cXA",
   "title": "Driving in My Car",
   "artist": "Madness",
-  "lastFetched": "2025-11-23T16:51:14.073Z",
+  "lastFetched": "2025-12-02T01:56:11.198Z",
   "odesli": {
     "amazonMusic": "B0FH2YFLT2",
     "amazonStore": "B0FH2YFLT2",
@@ -42,7 +42,20 @@
       "psychedelic pop"
     ],
     "trackMbid": "920393af-eba0-4991-957b-1a045a7cedd5",
-    "artistMbid": "5f58803e-8c4c-478e-8b51-477f38483ede"
+    "artistMbid": "5f58803e-8c4c-478e-8b51-477f38483ede",
+    "releasedAt": "1995",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000195874",
+      "discogs": "10388",
+      "spotify": "4AYkFtEBnNnGuoo8HaHErd",
+      "deezer": "1825",
+      "lastfm": "Madness",
+      "genius": "Madness",
+      "rateyourmusic": "madness",
+      "wikidata": "Q745741",
+      "youtube": "UC0iYPVu2agNaaqbnHFPCBFQ"
+    }
   },
   "lastfm": {
     "id": "Madness/_/Driving+in+My+Car",

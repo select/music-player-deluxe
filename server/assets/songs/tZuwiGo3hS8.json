@@ -2,7 +2,7 @@
   "youtubeId": "tZuwiGo3hS8",
   "title": "The Day Is My Enemy",
   "artist": "The Prodigy",
-  "lastFetched": "2025-11-23T16:52:11.763Z",
+  "lastFetched": "2025-12-02T01:59:21.122Z",
   "musicbrainz": {
     "artistTags": [
       "big beat",
@@ -24,7 +24,21 @@
       "electronic"
     ],
     "trackMbid": "013f2b4c-f39f-43e7-bdbf-e33de5262358",
-    "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704"
+    "artistMbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000492162",
+      "bandcamp": "https://theprodigy.bandcamp.com/",
+      "discogs": "66852",
+      "spotify": "4k1ELeJKT1ISyDv8JivPpB",
+      "deezer": "85",
+      "lastfm": "The+Prodigy",
+      "genius": "The-prodigy",
+      "rateyourmusic": "the-prodigy",
+      "soundcloud": "https://soundcloud.com/theprodigy",
+      "wikidata": "Q7256860",
+      "youtube": "UCOEO40PfRXSKhslXNgS0H8Q"
+    }
   },
   "lastfm": {
     "id": "The+Prodigy/_/The+Day+Is+My+Enemy",

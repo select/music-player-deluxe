@@ -2,7 +2,7 @@
   "youtubeId": "YazMpEqd5yA",
   "title": "Trip To The Moon",
   "artist": "Acen",
-  "lastFetched": "2025-11-30T21:54:41.112Z",
+  "lastFetched": "2025-12-02T01:26:11.600Z",
   "odesli": {
     "amazonMusic": "B0CB19HH14",
     "amazonStore": "B0CB19HH14",
@@ -45,6 +45,17 @@
       "breakbeat hardcore",
       "electronic",
       "rave"
-    ]
+    ],
+    "releasedAt": "1999",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000589397",
+      "discogs": "7648",
+      "lastfm": "Acen",
+      "rateyourmusic": "acen",
+      "soundcloud": "https://soundcloud.com/acenmusic",
+      "wikidata": "Q2568768",
+      "youtube": "UCzq9QkU2SY3WNyxPajJmeAw"
+    }
   }
 }

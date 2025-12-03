@@ -1,7 +1,7 @@
 {
   "youtubeId": "VQ_Wqtnlv4U",
   "title": "Natalie Merchant - Carnival",
-  "lastFetched": "2025-11-30T21:38:14.457Z",
+  "lastFetched": "2025-12-02T01:21:16.551Z",
   "ai": {
     "title": "Carnival",
     "artist": "Natalie Merchant"
@@ -44,6 +44,24 @@
       "pop",
       "pop rock",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "1995-06-16",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "4QXhRjZacZ1gZUeL7Ukktw",
+      "deezer": "5704985"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000372322",
+      "discogs": "217243",
+      "spotify": "73JEBdDEFeVaOLg3y0HhBD",
+      "deezer": "1057",
+      "lastfm": "Natalie+Merchant",
+      "genius": "Natalie-merchant",
+      "rateyourmusic": "natalie_merchant",
+      "soundcloud": "https://soundcloud.com/natalie-merchant",
+      "wikidata": "Q238215",
+      "youtube": "UC-xTVl97pv9ftbOu8UfVy_Q"
+    }
   }
 }

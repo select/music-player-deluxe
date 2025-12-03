@@ -1,0 +1,65 @@
+{
+  "youtubeId": "8vVjT8xAoD8",
+  "title": "Aber hier leben, nein danke",
+  "artist": "Tocotronic",
+  "lastFetched": "2025-12-03T11:52:40.777Z",
+  "odesli": {
+    "amazonMusic": "B08VQ2J6QY",
+    "amazonStore": "B08VQ2J6QY",
+    "appleMusic": "1551825462",
+    "itunes": "1551825462",
+    "pandora": "TR:35196358",
+    "soundcloud": "rockotronic/aber-hier-leben-nein-danke-2",
+    "spotify": "1mX8z9ysgh78azFDXX5mex",
+    "tidal": "172114007",
+    "yandex": "2543904",
+    "youtube": "8vVjT8xAoD8",
+    "youtubeMusic": "8vVjT8xAoD8"
+  },
+  "lastfm": {
+    "id": "Tocotronic/_/Aber+hier+leben,+nein+danke",
+    "listeners": 35859,
+    "playcount": 256157,
+    "title": "Aber hier leben, nein danke",
+    "artist": "Tocotronic",
+    "mbid": "1f786de7-b707-32ed-a91f-6b6116e6b6dd",
+    "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19",
+    "tags": [
+      "hamburger schule",
+      "deutsch",
+      "songs die so gut sind das ich meiner oma ihr klein haeuschen zwar nicht verkaufen aber zumindest dafuer beleihen wuerde",
+      "2005"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "69a5f57f-16b6-4340-9238-a3029bfdbd37",
+    "artistMbid": "7717539b-33aa-45d5-b88d-9e627172db19",
+    "releaseCount": 9,
+    "genres": [
+      "acoustic rock",
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "hamburger schule",
+      "indie rock",
+      "rock"
+    ],
+    "releasedAt": "2005-01-17",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000611087",
+      "discogs": "19605",
+      "spotify": "4WOaecAM3RMMmrbZzNx0vu",
+      "deezer": "3472",
+      "lastfm": "Tocotronic",
+      "genius": "Tocotronic",
+      "rateyourmusic": "tocotronic",
+      "soundcloud": "https://soundcloud.com/rockotronic",
+      "wikidata": "Q11890",
+      "youtube": "UCdvyuUBl9V6bHqoTzPtUiWA"
+    }
+  }
+}

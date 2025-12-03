@@ -2,7 +2,7 @@
   "youtubeId": "cPr_D-b5v2Q",
   "title": "ovule",
   "artist": "björk",
-  "lastFetched": "2025-11-30T21:59:29.258Z",
+  "lastFetched": "2025-12-02T01:33:28.615Z",
   "lastfm": {
     "summary": "\"Ovule\" is a deeply introspective and contemplative exploration of love, loss, and the complex nature of human relationships. The lyrics describe the image of a glass egg suspended in a dark, blood-red void, which represents a metaphorical space where the two lovers can exist together in perfect harmony and unity.\n\nThe glass egg is a symbol of purity and fragility, representing the delicate balance that exists between the two lovers, and the need to protect and cherish their bond. <a href=\"http://www.last.fm/music/Bj%C3%B6rk/_/Ovule\">Read more on Last.fm</a>.",
     "id": "Bj%C3%B6rk/_/Ovule",
@@ -49,6 +49,24 @@
       "leftfield",
       "progressive pop",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2022-09-14",
+    "artistCountry": "IS",
+    "externalIdsTrack": {
+      "spotify": "534d5ANGf0pWmCe0KNTD6F"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000769444",
+      "bandcamp": "https://bjork.bandcamp.com/",
+      "discogs": "517951",
+      "spotify": "7w29UYBi0qsHi5RTcv3lmA",
+      "deezer": "630",
+      "lastfm": "Bj%C3%B6rk",
+      "genius": "Bjork",
+      "rateyourmusic": "bjork",
+      "soundcloud": "https://soundcloud.com/bjork",
+      "wikidata": "Q42455",
+      "youtube": "UCAjidy3vxRkgGVNIFqZMl_Q"
+    }
   }
 }

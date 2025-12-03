@@ -1,0 +1,67 @@
+{
+  "youtubeId": "gao0gnHGNK0",
+  "title": "Heads Will Roll",
+  "artist": "Sum 41",
+  "lastFetched": "2025-12-03T11:56:03.242Z",
+  "odesli": {
+    "amazonMusic": "B07Q4ZQC48",
+    "amazonStore": "B07Q4ZQC48",
+    "audiomack": "8697806",
+    "anghami": "58599563",
+    "boomplay": "18143508",
+    "deezer": "708734592",
+    "appleMusic": "1458053636",
+    "itunes": "1458053636",
+    "napster": "tra.392538472",
+    "pandora": "TR:19810018",
+    "soundcloud": "sum41/heads-will-roll",
+    "spotify": "2YIbk9mnCHCR83YPhqshaJ",
+    "tidal": "144506764",
+    "yandex": "55423249",
+    "youtube": "gao0gnHGNK0",
+    "youtubeMusic": "gao0gnHGNK0"
+  },
+  "lastfm": {
+    "id": "Sum+41/_/Heads+Will+Roll",
+    "listeners": 29179,
+    "playcount": 157032,
+    "title": "Heads Will Roll",
+    "artist": "Sum 41",
+    "mbid": "5a72c53e-6fb1-4e8e-9b4d-f6057c2e14b6",
+    "artistMbid": "f2eef649-a6d5-4114-afba-e50ab26254d2",
+    "tags": [
+      "rock n roll",
+      "rock and roll"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "35aa705b-7705-4acf-afce-4fd109498458",
+    "artistMbid": "f2eef649-a6d5-4114-afba-e50ab26254d2",
+    "releaseCount": 5,
+    "artistGenres": [
+      "alternative metal",
+      "alternative rock",
+      "melodic hardcore",
+      "pop punk",
+      "punk",
+      "punk rock",
+      "rock",
+      "skate punk"
+    ],
+    "releasedAt": "2019-07-19",
+    "artistCountry": "CA",
+    "externalIdsArtist": {
+      "allmusic": "mn0000585574",
+      "bandcamp": "https://sum41.bandcamp.com/",
+      "discogs": "115650",
+      "spotify": "0qT79UgT5tY4yudH9VfsdT",
+      "deezer": "459",
+      "lastfm": "Sum+41",
+      "genius": "Sum-41",
+      "rateyourmusic": "sum_41",
+      "soundcloud": "https://soundcloud.com/sum41",
+      "wikidata": "Q483558",
+      "youtube": "UCcMcUoDPCQhtONMyuKJs-dg"
+    }
+  }
+}

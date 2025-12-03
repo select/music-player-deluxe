@@ -2,7 +2,7 @@
   "youtubeId": "tRSBse5oFug",
   "title": "Toi et moi",
   "artist": "Tryo",
-  "lastFetched": "2025-11-30T20:34:49.209Z",
+  "lastFetched": "2025-12-02T01:59:09.440Z",
   "odesli": {
     "amazonMusic": "B0828YJVG2",
     "amazonStore": "B0828YJVG2",
@@ -37,6 +37,17 @@
     "artistGenres": [
       "reggae",
       "reggae-pop"
-    ]
+    ],
+    "releasedAt": "2008-09-01",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000535279",
+      "discogs": "467421",
+      "spotify": "4ZP3CHz28XWVLGiaVVWuLj",
+      "deezer": "457",
+      "rateyourmusic": "tryo",
+      "soundcloud": "https://soundcloud.com/tryo",
+      "wikidata": "Q1752957"
+    }
   }
 }

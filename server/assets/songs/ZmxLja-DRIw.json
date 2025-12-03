@@ -2,7 +2,7 @@
   "youtubeId": "ZmxLja-DRIw",
   "title": "Bring Me To Life",
   "artist": "Evanescence",
-  "lastFetched": "2025-11-30T22:47:50.345Z",
+  "lastFetched": "2025-12-02T01:28:13.604Z",
   "lastfm": {
     "title": "Bring Me to Life",
     "artist": "Evanescence",
@@ -41,6 +41,22 @@
       "rock",
       "symphonic metal",
       "symphonic rock"
-    ]
+    ],
+    "releasedAt": "2004-11-22",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000787428",
+      "bandcamp": "https://evanescence.bandcamp.com/",
+      "discogs": "163505",
+      "spotify": "5nGIFgo0shDenQYSE0Sn7c",
+      "deezer": "98",
+      "lastfm": "Evanescence",
+      "genius": "Evanescence",
+      "rateyourmusic": "evanescence",
+      "soundcloud": "https://soundcloud.com/evanescence",
+      "napster": "evanescence",
+      "wikidata": "Q1777698",
+      "youtube": "UC1ObIyFsDJn62iAZYLWcNxA"
+    }
   }
 }

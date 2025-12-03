@@ -3,7 +3,7 @@
   "artist": "Jah Wobble",
   "duration": 310,
   "youtubeId": "cOgShYm1F0U",
-  "lastFetched": "2025-11-19T03:07:10.567Z",
+  "lastFetched": "2025-12-02T01:33:26.239Z",
   "odesli": {
     "amazonMusic": "B07JW7Z9TX",
     "amazonStore": "B07JW7Z9TX",
@@ -20,7 +20,18 @@
     ],
     "trackMbid": "b5208dbe-477d-4a8f-9dd2-849ff57724fa",
     "artistMbid": "904cc1c8-021e-45ac-bbe9-95c01a1f8099",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2013-06-24",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002407835",
+      "bandcamp": "https://jahwobble.bandcamp.com/",
+      "discogs": "629112",
+      "spotify": "5jhqwsWfRaETrWPWI0Rc7u",
+      "deezer": "65714",
+      "rateyourmusic": "jah_wobble",
+      "wikidata": "Q287933"
+    }
   },
   "lastfm": {
     "id": "Jah+Wobble/_/Reality+Crash",

@@ -2,7 +2,7 @@
   "youtubeId": "ixw_bLVUL34",
   "title": "Tear You Apart",
   "artist": "She Wants Revenge",
-  "lastFetched": "2025-11-30T20:58:26.775Z",
+  "lastFetched": "2025-12-02T01:42:28.572Z",
   "odesli": {
     "amazonMusic": "B07BQ29291",
     "amazonStore": "B07BQ29291",
@@ -54,6 +54,23 @@
     "artistGenres": [
       "indie rock",
       "rock"
-    ]
+    ],
+    "releasedAt": "2005-10-25",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "5qqAIxBJyvdQHYxC7msStM",
+      "deezer": "3067393731"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000328201",
+      "discogs": "467380",
+      "spotify": "2zRt0sfxNnqI8gLR7d8gWt",
+      "deezer": "708",
+      "lastfm": "She+Wants+Revenge",
+      "rateyourmusic": "she_wants_revenge",
+      "soundcloud": "https://soundcloud.com/she-wants-revenge",
+      "wikidata": "Q782916",
+      "youtube": "UCgUeB2ECnQx1ZFuScFCsf3A"
+    }
   }
 }

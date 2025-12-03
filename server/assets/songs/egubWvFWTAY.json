@@ -1,7 +1,7 @@
 {
   "youtubeId": "egubWvFWTAY",
   "title": "Supla - Green Hair (Japa Girl)",
-  "lastFetched": "2025-11-30T19:20:05.376Z",
+  "lastFetched": "2025-12-02T01:36:29.144Z",
   "ai": {
     "title": "Green Hair (Japa Girl)",
     "artist": "Supla"
@@ -25,6 +25,14 @@
     "releaseCount": 1,
     "artistGenres": [
       "rock"
-    ]
+    ],
+    "releasedAt": "2001",
+    "artistCountry": "BR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000376730",
+      "discogs": "862261",
+      "spotify": "7F0xfkXz1ucZLGi6ktLelR",
+      "wikidata": "Q504878"
+    }
   }
 }

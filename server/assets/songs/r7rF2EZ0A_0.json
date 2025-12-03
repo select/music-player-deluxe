@@ -1,7 +1,7 @@
 {
   "youtubeId": "r7rF2EZ0A_0",
   "title": "Archive - Again",
-  "lastFetched": "2025-12-01T13:03:21.828Z",
+  "lastFetched": "2025-12-02T01:55:12.514Z",
   "ai": {
     "title": "Again",
     "artist": "Archive"
@@ -44,6 +44,23 @@
       "post-rock",
       "progressive rock",
       "trip hop"
-    ]
+    ],
+    "releasedAt": "2001",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "0wIh5LzwOtLFoTsbRkgEBz",
+      "deezer": "624061642"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000503309",
+      "discogs": "11453",
+      "spotify": "1Q776wzj2mrtXrNu3iH6nk",
+      "deezer": "1334",
+      "lastfm": "Archive",
+      "genius": "Archive",
+      "rateyourmusic": "archive",
+      "soundcloud": "https://soundcloud.com/archiveofficial",
+      "wikidata": "Q635772"
+    }
   }
 }

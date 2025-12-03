@@ -2,7 +2,7 @@
   "youtubeId": "hPC2Fp7IT7o",
   "title": "Broken",
   "artist": "Seether",
-  "lastFetched": "2025-11-30T21:39:35.183Z",
+  "lastFetched": "2025-12-02T01:40:17.296Z",
   "odesli": {
     "amazonMusic": "B07ZFXML9Q",
     "amazonStore": "B07ZFXML9Q",
@@ -42,6 +42,21 @@
       "hard rock",
       "post-grunge",
       "rock"
-    ]
+    ],
+    "releasedAt": "2003-08-25",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0001501801",
+      "discogs": "263225",
+      "spotify": "6B5c4sch27tWHAGdarpPaW",
+      "deezer": "1189",
+      "lastfm": "Seether",
+      "genius": "Seether",
+      "rateyourmusic": "seether",
+      "soundcloud": "https://soundcloud.com/seetherofficial",
+      "napster": "seether",
+      "wikidata": "Q461448",
+      "youtube": "UC0lhr4dvpfKJ0C3TPFXu3ww"
+    }
   }
 }

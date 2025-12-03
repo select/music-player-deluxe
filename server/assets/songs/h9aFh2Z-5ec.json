@@ -3,7 +3,7 @@
   "artist": "Amoss",
   "duration": 290,
   "youtubeId": "h9aFh2Z-5ec",
-  "lastFetched": "2025-11-19T03:42:18.331Z",
+  "lastFetched": "2025-12-02T01:39:46.821Z",
   "odesli": {
     "amazonMusic": "B0D3KML7HH",
     "amazonStore": "B0D3KML7HH",
@@ -27,7 +27,19 @@
     ],
     "trackMbid": "0245bd61-2523-4f7e-be99-197d1c734a8e",
     "artistMbid": "cfd91deb-a9bd-43b8-a9c5-783fb5ce5a91",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2024-05-24",
+    "externalIdsTrack": {
+      "spotify": "4yxRjNIof1vGYEK0dxtmsV",
+      "deezer": "2788281992"
+    },
+    "externalIdsArtist": {
+      "discogs": "1976980",
+      "spotify": "4dQKaBHBXpgWvb9iS2K0Gt",
+      "deezer": "2780281",
+      "lastfm": "Amoss",
+      "soundcloud": "https://soundcloud.com/amoss"
+    }
   },
   "lastfm": {
     "id": "Amoss/_/And+We+Go+(Original+Mix)",

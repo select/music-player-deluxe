@@ -2,7 +2,7 @@
   "youtubeId": "ierylhxXMKg",
   "title": "Doom",
   "artist": "Manny Charlton",
-  "lastFetched": "2025-12-01T13:02:08.102Z",
+  "lastFetched": "2025-12-02T01:41:54.852Z",
   "odesli": {
     "soundcloud": "mannycharlton-music/doom",
     "tidal": "395752509",
@@ -26,6 +26,12 @@
   "musicbrainz": {
     "trackMbid": "eb0fb4df-6fd0-4ee8-8a02-4f9f84aedbdb",
     "artistMbid": "1e4f7ae2-8b82-4a65-bee8-60e7c96bb2c9",
-    "releaseCount": 2
+    "releaseCount": 2,
+    "releasedAt": "1999",
+    "externalIdsArtist": {
+      "allmusic": "mn0000575310",
+      "discogs": "253883",
+      "wikidata": "Q204385"
+    }
   }
 }

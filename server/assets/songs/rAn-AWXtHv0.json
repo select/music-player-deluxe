@@ -2,7 +2,7 @@
   "youtubeId": "rAn-AWXtHv0",
   "title": "Imagine",
   "artist": "John Lennon",
-  "lastFetched": "2025-11-30T21:43:00.349Z",
+  "lastFetched": "2025-12-02T01:55:20.454Z",
   "odesli": {
     "amazonMusic": "B0043RKGEG",
     "amazonStore": "B0043RKGEG",
@@ -53,6 +53,18 @@
       "rock",
       "rock and roll",
       "singer-songwriter"
-    ]
+    ],
+    "releasedAt": "2001",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000232564",
+      "discogs": "779927",
+      "spotify": "7wcH6naXfssACcXRregV1H",
+      "deezer": "83460222",
+      "lastfm": "John+Lennon",
+      "rateyourmusic": "john-lennon",
+      "wikidata": "Q1203",
+      "youtube": "UCYU4eunPInnHTNWfGvOgkbg"
+    }
   }
 }

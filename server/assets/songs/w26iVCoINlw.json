@@ -2,7 +2,7 @@
   "youtubeId": "w26iVCoINlw",
   "title": "Goye Kur",
   "artist": "Ali Farka Touré",
-  "lastFetched": "2025-11-23T16:53:09.486Z",
+  "lastFetched": "2025-12-02T02:02:30.145Z",
   "odesli": {
     "appleMusic": "1471009185",
     "itunes": "1471009185",
@@ -21,7 +21,17 @@
       "african blues"
     ],
     "trackMbid": "5492a18a-d553-4bc4-b3de-61e7a48c3e21",
-    "artistMbid": "9be2a5ac-8201-489b-b5f6-91f958bf9060"
+    "artistMbid": "9be2a5ac-8201-489b-b5f6-91f958bf9060",
+    "artistCountry": "ML",
+    "externalIdsArtist": {
+      "allmusic": "mn0000006613",
+      "discogs": "410281",
+      "spotify": "3mNygoyrEKLgo6sx0MzwOL",
+      "deezer": "1404",
+      "lastfm": "Ali+Farka+Tour%C3%A9",
+      "rateyourmusic": "ali_farka_toure",
+      "wikidata": "Q334947"
+    }
   },
   "lastfm": {
     "id": "Ali+Farka+Tour%C3%A9/_/Goye+Kur",

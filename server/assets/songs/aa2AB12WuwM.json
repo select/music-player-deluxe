@@ -2,7 +2,7 @@
   "youtubeId": "aa2AB12WuwM",
   "title": "Smells Like Teen Spirit",
   "artist": "Malia J",
-  "lastFetched": "2025-11-19T14:05:01.084Z",
+  "lastFetched": "2025-12-02T01:30:46.547Z",
   "odesli": {
     "amazonMusic": "B097H5RJK5",
     "amazonStore": "B097H5RJK5",
@@ -30,6 +30,11 @@
   },
   "musicbrainz": {
     "trackMbid": "10595bde-f95f-4b24-b45c-ad51954631a5",
-    "artistMbid": "dc0af5d3-3781-4e13-8644-5c98ae3ccb50"
+    "artistMbid": "dc0af5d3-3781-4e13-8644-5c98ae3ccb50",
+    "externalIdsArtist": {
+      "discogs": "10044769",
+      "spotify": "6iY5faxtqPs0eA1OeSvsAQ",
+      "deezer": "102016992"
+    }
   }
 }

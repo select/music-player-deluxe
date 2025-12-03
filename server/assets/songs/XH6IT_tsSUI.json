@@ -2,7 +2,7 @@
   "youtubeId": "XH6IT_tsSUI",
   "title": "Waloyo Yamoni",
   "artist": "Christopher Tin",
-  "lastFetched": "2025-11-30T23:11:14.330Z",
+  "lastFetched": "2025-12-02T01:23:54.715Z",
   "lastfm": {
     "id": "Christopher+Tin/_/Waloyo+Yamoni",
     "listeners": 41,
@@ -20,6 +20,14 @@
     "releaseCount": 1,
     "artistGenres": [
       "classical"
-    ]
+    ],
+    "releasedAt": "2021-05-28",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "1228108",
+      "spotify": "60B2BBjn6yEQEl8XLYMZU2",
+      "deezer": "2058141",
+      "wikidata": "Q1087016"
+    }
   }
 }

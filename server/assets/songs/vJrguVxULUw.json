@@ -2,7 +2,7 @@
   "youtubeId": "vJrguVxULUw",
   "title": "Verkackt",
   "artist": "Erobique",
-  "lastFetched": "2025-11-30T22:28:02.883Z",
+  "lastFetched": "2025-12-02T02:01:18.363Z",
   "odesli": {
     "amazonMusic": "B0C6L4LMD9",
     "amazonStore": "B0C6L4LMD9",
@@ -37,6 +37,17 @@
       "electronic",
       "house",
       "tech house"
-    ]
+    ],
+    "releasedAt": "2023-06-16",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000805462",
+      "bandcamp": "https://erobique.bandcamp.com/",
+      "discogs": "68710",
+      "spotify": "2Gde0DBcgb2YE6AV1lqLxH",
+      "deezer": "181113",
+      "rateyourmusic": "erobique",
+      "wikidata": "Q15793662"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "youtubeId": "uejbDyjwYlw",
   "title": "Thunder & Lightning",
-  "lastFetched": "2025-11-30T21:23:39.853Z",
+  "lastFetched": "2025-12-02T02:00:39.336Z",
   "ai": {
     "title": "Thunder & Lightning",
     "artist": "Azedia"
@@ -39,6 +39,15 @@
       "dubstep",
       "electronic",
       "melodic dubstep"
-    ]
+    ],
+    "releasedAt": "2013-12-09",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://azedia.bandcamp.com/",
+      "discogs": "3121315",
+      "spotify": "19YDv4gY8HMpdJgABGIVJn",
+      "deezer": "4315393",
+      "soundcloud": "https://soundcloud.com/azedia"
+    }
   }
 }

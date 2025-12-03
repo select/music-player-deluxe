@@ -2,7 +2,7 @@
   "youtubeId": "rXuAC1_97iw",
   "title": "Love Me, Love Me Not",
   "artist": "The Sylvers",
-  "lastFetched": "2025-11-19T16:36:07.054Z",
+  "lastFetched": "2025-12-02T01:56:15.984Z",
   "odesli": {
     "amazonMusic": "B07CV18B9Z",
     "amazonStore": "B07CV18B9Z",
@@ -25,6 +25,16 @@
   },
   "musicbrainz": {
     "trackMbid": "ff49a1e4-8c10-39ab-8464-5c87465c7d4b",
-    "artistMbid": "70d1c02b-7349-4555-a9fc-9e85e4eaca49"
+    "artistMbid": "70d1c02b-7349-4555-a9fc-9e85e4eaca49",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000565521",
+      "discogs": "80125",
+      "spotify": "0efkWb9xKhT6H0E7kgSjFK",
+      "deezer": "364105",
+      "lastfm": "The+Sylvers",
+      "rateyourmusic": "the_sylvers",
+      "wikidata": "Q7767800"
+    }
   }
 }

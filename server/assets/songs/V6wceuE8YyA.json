@@ -3,7 +3,7 @@
   "artist": "9OASES",
   "duration": 330,
   "youtubeId": "V6wceuE8YyA",
-  "lastFetched": "2025-11-23T15:40:09.459Z",
+  "lastFetched": "2025-12-02T01:20:41.741Z",
   "odesli": {
     "soundcloud": "2141110989",
     "yandex": "141187113",
@@ -17,6 +17,7 @@
   "musicbrainz": {
     "trackMbid": "d75df594-e9b7-499b-a75e-0cbca2c5aa19",
     "artistMbid": "a693a794-7054-4e70-a0bc-5c9d53e4a68f",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-10-10"
   }
 }

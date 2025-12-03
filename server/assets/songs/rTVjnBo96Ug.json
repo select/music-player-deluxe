@@ -3,7 +3,7 @@
   "artist": "Otis Redding",
   "duration": 161,
   "youtubeId": "rTVjnBo96Ug",
-  "lastFetched": "2025-11-19T03:44:20.301Z",
+  "lastFetched": "2025-12-02T01:56:01.696Z",
   "odesli": {
     "amazonMusic": "B002DUIMHS",
     "amazonStore": "B002DUIMHS",
@@ -42,7 +42,19 @@
     ],
     "trackMbid": "1e1bf5e6-25d5-481b-b3dd-bee44c491ef9",
     "artistMbid": "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1993",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000414251",
+      "discogs": "132136",
+      "spotify": "60df5JBRRPcnSpsIMxxwQm",
+      "deezer": "2945",
+      "lastfm": "Otis+Redding",
+      "rateyourmusic": "otis_redding",
+      "soundcloud": "https://soundcloud.com/otisredding",
+      "wikidata": "Q217839"
+    }
   },
   "lastfm": {
     "id": "Otis+Redding/_/(Sittin%27+On)+The+Dock+of+the+Bay",

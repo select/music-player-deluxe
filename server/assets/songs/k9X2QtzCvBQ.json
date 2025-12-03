@@ -2,7 +2,7 @@
   "youtubeId": "k9X2QtzCvBQ",
   "title": "Fly On A Windshield / Broadway Melody Of 1974",
   "artist": "Genesis",
-  "lastFetched": "2025-11-23T16:47:30.747Z",
+  "lastFetched": "2025-12-02T01:44:18.278Z",
   "musicbrainz": {
     "artistTags": [
       "art rock",
@@ -24,7 +24,20 @@
       "progressive pop"
     ],
     "trackMbid": "f6bc559a-0654-4e69-8b14-9e35e0f49b91",
-    "artistMbid": "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e"
+    "artistMbid": "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000199995",
+      "discogs": "124506",
+      "spotify": "3CkvROUTQ6nRi9yQOcsB50",
+      "deezer": "3037",
+      "lastfm": "Genesis",
+      "genius": "Genesis",
+      "rateyourmusic": "genesis",
+      "napster": "genesis",
+      "wikidata": "Q151012",
+      "youtube": "UCqlnY5lvEp6F52AZSql04qQ"
+    }
   },
   "lastfm": {
     "id": "Genesis/_/Fly+On+A+Windshield+%2F+Broadway+Melody+Of+1974",

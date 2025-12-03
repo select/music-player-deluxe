@@ -1,7 +1,7 @@
 {
   "youtubeId": "gNazaZHe4o4",
   "title": "Dotcom - Get It",
-  "lastFetched": "2025-11-30T21:14:45.998Z",
+  "lastFetched": "2025-12-02T01:38:39.341Z",
   "ai": {
     "title": "Get It",
     "artist": "Dotcom"
@@ -29,6 +29,12 @@
       "edm",
       "trap",
       "trap edm"
-    ]
+    ],
+    "releasedAt": "2014-11-07",
+    "externalIdsArtist": {
+      "discogs": "4223237",
+      "spotify": "3mS6BpiviqsTL1uuYghf3s",
+      "soundcloud": "https://soundcloud.com/dotcomstock"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "youtubeId": "cFwTbsKkqxE",
   "title": "Voodoo Child",
   "artist": "Stevie Ray Vaughan",
-  "lastFetched": "2025-11-30T23:30:56.700Z",
+  "lastFetched": "2025-12-02T01:33:01.173Z",
   "lastfm": {
     "id": "Stevie+Ray+Vaughan/_/Voodoo+Child",
     "listeners": 2963,
@@ -25,6 +25,17 @@
       "electric blues",
       "electric texas blues",
       "texas blues"
-    ]
+    ],
+    "releasedAt": "2016",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000625739",
+      "discogs": "137225",
+      "spotify": "5fsDcuclIe8ZiBD5P787K1",
+      "deezer": "12297",
+      "lastfm": "Stevie+Ray+Vaughan",
+      "rateyourmusic": "stevie_ray_vaughan",
+      "wikidata": "Q202937"
+    }
   }
 }

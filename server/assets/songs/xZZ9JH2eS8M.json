@@ -2,7 +2,7 @@
   "youtubeId": "xZZ9JH2eS8M",
   "title": "This Is What We Do",
   "artist": "Leftfield",
-  "lastFetched": "2025-11-23T16:53:47.844Z",
+  "lastFetched": "2025-12-02T02:04:54.163Z",
   "odesli": {
     "amazonMusic": "B0B6WCWJ4S",
     "amazonStore": "B0B6WCWJ4S",
@@ -42,7 +42,20 @@
       "leftfield"
     ],
     "trackMbid": "ebdc0ad4-8492-457c-829b-ef171fbceea3",
-    "artistMbid": "369fbad4-6fa4-4dae-9842-a69826cd359d"
+    "artistMbid": "369fbad4-6fa4-4dae-9842-a69826cd359d",
+    "releasedAt": "2023-02-03",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000813441",
+      "discogs": "1866",
+      "spotify": "72hqBMsw7x5jnfxxwkii8L",
+      "deezer": "6646",
+      "lastfm": "Leftfield",
+      "rateyourmusic": "leftfield",
+      "soundcloud": "https://soundcloud.com/leftfield",
+      "wikidata": "Q277479",
+      "youtube": "UCOrpszBwWhM6a1a67ezZhTQ"
+    }
   },
   "lastfm": {
     "id": "Leftfield/_/This+Is+What+We+Do",

@@ -2,7 +2,7 @@
   "youtubeId": "tcM8LxunWoo",
   "title": "Those Days",
   "artist": "Just Jinger",
-  "lastFetched": "2025-11-30T22:14:04.751Z",
+  "lastFetched": "2025-12-02T01:59:38.522Z",
   "odesli": {
     "amazonMusic": "B006PTGACW",
     "amazonStore": "B006PTGACW",
@@ -26,6 +26,16 @@
   "musicbrainz": {
     "trackMbid": "6d21ce32-c8f7-4f72-a9f8-1535d336e2ba",
     "artistMbid": "493e31a9-5f44-4b95-a12b-975b377dbd07",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "1999-09-09",
+    "artistCountry": "ZA",
+    "externalIdsArtist": {
+      "allmusic": "mn0002089843",
+      "discogs": "399164",
+      "lastfm": "Just%20Jinjer",
+      "rateyourmusic": "just_jinger",
+      "wikidata": "Q10968610",
+      "youtube": "UC1WW_x_xTZUwH9_PZKrzTqg"
+    }
   }
 }

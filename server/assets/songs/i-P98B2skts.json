@@ -2,7 +2,7 @@
   "youtubeId": "i-P98B2skts",
   "title": "Inner City Life",
   "artist": "Goldie",
-  "lastFetched": "2025-11-30T22:00:56.876Z",
+  "lastFetched": "2025-12-02T01:41:04.955Z",
   "odesli": {
     "amazonMusic": "B07G8B1KYZ",
     "amazonStore": "B07G8B1KYZ",
@@ -41,6 +41,18 @@
       "drum and bass",
       "electronic",
       "electronica"
-    ]
+    ],
+    "releasedAt": "1995-10-12",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000672498",
+      "discogs": "2825",
+      "spotify": "2SYqJ3uDLLXZNyZdLKBy4M",
+      "deezer": "5523",
+      "lastfm": "Goldie",
+      "rateyourmusic": "goldie",
+      "wikidata": "Q507845",
+      "youtube": "UC3jTmoAqoxGn_oIISd3f_eg"
+    }
   }
 }

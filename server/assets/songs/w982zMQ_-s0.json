@@ -3,7 +3,7 @@
   "artist": "The Depth Beneath Us",
   "duration": 339,
   "youtubeId": "w982zMQ_-s0",
-  "lastFetched": "2025-11-19T04:42:49.785Z",
+  "lastFetched": "2025-12-02T02:02:49.527Z",
   "odesli": {
     "amazonMusic": "B0F41QMF7F",
     "amazonStore": "B0F41QMF7F",
@@ -29,6 +29,13 @@
   "musicbrainz": {
     "trackMbid": "62332f19-6fc6-463b-92c2-28f8bc98ab89",
     "artistMbid": "488bc172-1e96-43ac-874f-2aa6c68a8d5f",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2025-08-01",
+    "externalIdsArtist": {
+      "bandcamp": "https://thedepthbeneathus.bandcamp.com/",
+      "discogs": "12660902",
+      "spotify": "3zeoSE858wgz3ZpJ0r4xH4",
+      "rateyourmusic": "the-depth-beneath-us"
+    }
   }
 }

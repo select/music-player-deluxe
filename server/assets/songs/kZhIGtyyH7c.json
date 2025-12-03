@@ -2,7 +2,7 @@
   "youtubeId": "kZhIGtyyH7c",
   "title": "How to Explain",
   "artist": "The Cat Empire",
-  "lastFetched": "2025-11-30T20:09:24.863Z",
+  "lastFetched": "2025-12-02T01:45:07.498Z",
   "odesli": {
     "amazonMusic": "B0D3WJP6DV",
     "amazonStore": "B0D3WJP6DV",
@@ -44,6 +44,18 @@
       "reggae",
       "rock",
       "ska"
-    ]
+    ],
+    "releasedAt": "2004-09-14",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000312438",
+      "discogs": "267625",
+      "spotify": "023YMawCG3OvACmRjWxLWC",
+      "deezer": "8313",
+      "rateyourmusic": "the_cat_empire",
+      "soundcloud": "https://soundcloud.com/the-cat-empire",
+      "wikidata": "Q1539053",
+      "youtube": "UC2Ns1Jsrn_X9PA3GStYctVw"
+    }
   }
 }

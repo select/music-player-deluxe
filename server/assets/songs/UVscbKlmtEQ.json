@@ -3,7 +3,7 @@
   "artist": "Fernando Gelbard",
   "duration": 512,
   "youtubeId": "UVscbKlmtEQ",
-  "lastFetched": "2025-11-23T16:40:23.211Z",
+  "lastFetched": "2025-12-02T01:19:50.668Z",
   "odesli": {
     "amazonMusic": "B004808KTQ",
     "amazonStore": "B004808KTQ",
@@ -22,7 +22,13 @@
     ],
     "trackMbid": "40d603c2-b57e-451f-9d6c-0a36d8f122dd",
     "artistMbid": "4370ac19-3c99-4f60-8223-d644007b866d",
-    "releaseCount": 1
+    "releaseCount": 1,
+    "releasedAt": "2002-07-08",
+    "externalIdsArtist": {
+      "discogs": "133204",
+      "spotify": "2su6TFhMEfmKwuvKsnVsGK",
+      "deezer": "89448"
+    }
   },
   "lastfm": {
     "id": "Fernando+Gelbard/_/Didi+(Hola+Didi)",
