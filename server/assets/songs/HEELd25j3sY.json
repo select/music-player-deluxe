@@ -1,0 +1,56 @@
+{
+  "youtubeId": "HEELd25j3sY",
+  "title": "Let's Play: Leider Geil (Deichkind hacked by Stubenhacker & Jim Pressing)",
+  "lastFetched": "2025-12-04T20:38:36.286Z",
+  "ai": {
+    "title": "Leider Geil",
+    "artist": "Deichkind"
+  },
+  "lastfm": {
+    "id": "Deichkind/_/Leider+geil",
+    "listeners": 4949,
+    "playcount": 37923,
+    "title": "Leider geil",
+    "artist": "Deichkind",
+    "mbid": "f6edcd73-cead-476a-b05c-53a45d5155ec",
+    "artistMbid": "5de80871-f721-4c7c-b0c5-4ad0d350c232",
+    "tags": [
+      "german",
+      "hip hop",
+      "electronic",
+      "hip-hop",
+      "deutsch"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f6e8373f-3d6e-4630-b353-45cf514b9979",
+    "artistMbid": "5de80871-f721-4c7c-b0c5-4ad0d350c232",
+    "releaseCount": 1,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "electro",
+      "electroclash",
+      "electropop",
+      "electropunk",
+      "hip hop"
+    ],
+    "releasedAt": "2016-07-01",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000521004",
+      "bandcamp": "https://deichkind.bandcamp.com/",
+      "discogs": "90440",
+      "spotify": "49eo9xE4yGzJLWkOndiODs",
+      "deezer": "12920",
+      "lastfm": "Deichkind",
+      "genius": "Deichkind",
+      "rateyourmusic": "deichkind",
+      "soundcloud": "https://soundcloud.com/deichkind-musik",
+      "qobuz": "218835",
+      "wikidata": "Q323803",
+      "youtube": "UC4-16tWm2omCdOjk0sz8QSw"
+    }
+  }
+}

@@ -423,6 +423,66 @@
 					</div>
 				</div>
 			</section>
+
+			<!-- Posts Per Year Section -->
+			<section class="bg-bg-gradient rounded-lg p-6">
+				<h2 class="text-2xl font-semibold mb-6 flex items-center gap-2">
+					<div class="i-mdi-calendar-clock" />
+					Posts Per Year
+				</h2>
+				<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+					<div class="bg-primary-1 rounded-lg p-4 text-center">
+						<div class="text-3xl font-bold text-accent mb-1">
+							{{
+								statsData.playlist.postsPerYear.reduce(
+									(sum, year) => sum + year.count,
+									0,
+								)
+							}}
+						</div>
+						<div class="text-sm text-primary-3">Total Posts</div>
+					</div>
+					<div class="bg-primary-1 rounded-lg p-4 text-center">
+						<div class="text-3xl font-bold text-accent mb-1">
+							{{ statsData.playlist.postsPerYear.length }}
+						</div>
+						<div class="text-sm text-primary-3">Years Active</div>
+					</div>
+				</div>
+				<div>
+					<h3 class="text-lg font-semibold mb-4">Posts by Year</h3>
+					<div class="space-y-2">
+						<div
+							v-for="yearData in statsData.playlist.postsPerYear"
+							:key="yearData.year"
+							class="flex items-center gap-3"
+						>
+							<div class="w-20 text-sm text-primary-3">
+								{{ yearData.year }}
+							</div>
+							<div
+								class="flex-1 relative h-7 bg-primary-1 rounded-lg overflow-hidden"
+							>
+								<div
+									class="absolute inset-y-0 left-0 bg-accent transition-all duration-500 flex items-center justify-end pr-2"
+									:style="{
+										width: getBarWidth(
+											yearData.count,
+											Math.max(
+												...statsData.playlist.postsPerYear.map((y) => y.count),
+											),
+										),
+									}"
+								>
+									<span class="text-xs font-semibold text-primary-1">
+										{{ yearData.count }}
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
 		</div>
 	</div>
 </template>
@@ -453,6 +513,7 @@ interface PlaylistData {
 	topCountries: Array<{ country: string; count: number }>;
 	itemsWithReleaseDate: number;
 	releaseYears: Array<{ year: string; count: number }>;
+	postsPerYear: Array<{ year: string; count: number }>;
 }
 
 interface StatsData {
@@ -484,6 +545,7 @@ const statsData = ref<StatsData>({
 		topCountries: [],
 		itemsWithReleaseDate: 0,
 		releaseYears: [],
+		postsPerYear: [],
 	},
 });
 

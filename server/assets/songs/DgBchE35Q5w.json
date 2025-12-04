@@ -1,9 +1,42 @@
 {
   "youtubeId": "DgBchE35Q5w",
   "title": "Vaseegara song with Lyrics | Minnale | Bombay Jayashri | Harris Jayaraj | GVM",
-  "lastFetched": "2025-12-04T19:11:28.485Z",
+  "lastFetched": "2025-12-04T20:36:15.834Z",
   "ai": {
     "title": "Vaseegara",
     "artist": "Bombay Jayashri"
+  },
+  "musicbrainz": {
+    "trackMbid": "acb238d4-5ef1-4fbf-a068-7f1ad13fcd1e",
+    "artistMbid": "fc5db44d-8b22-4b0c-8005-00c60553662d",
+    "releaseCount": 2,
+    "artistGenres": [
+      "carnatic classical",
+      "filmi"
+    ],
+    "releasedAt": "2001-09-26",
+    "artistCountry": "IN",
+    "externalIdsArtist": {
+      "allmusic": "mn0000080866",
+      "discogs": "473925",
+      "spotify": "5OTt6O4Q22YsqZDaWV6FqC",
+      "deezer": "105618",
+      "wikidata": "Q3519929",
+      "youtube": "UCW7oWeD9TLlFizFhRCGUj3Q"
+    }
+  },
+  "lastfm": {
+    "id": "Bombay+Jayashri/_/Vaseegara",
+    "listeners": 10996,
+    "playcount": 93650,
+    "title": "Vaseegara",
+    "artist": "Bombay Jayashri",
+    "mbid": "9e23aafb-3932-4d83-b410-9300a5a73ae5",
+    "artistMbid": "fc5db44d-8b22-4b0c-8005-00c60553662d",
+    "tags": [
+      "carnatic",
+      "indian",
+      "meditative"
+    ]
   }
 }

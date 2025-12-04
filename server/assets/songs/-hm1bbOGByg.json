@@ -1,7 +1,7 @@
 {
   "youtubeId": "-hm1bbOGByg",
   "title": "Billy Cobb - The Shell Shack (lyrics)",
-  "lastFetched": "2025-12-04T19:45:30.797Z",
+  "lastFetched": "2025-12-04T20:35:08.593Z",
   "ai": {
     "title": "The Shell Shack",
     "artist": "Billy Cobb"
@@ -23,5 +23,20 @@
       "soundcloud": "https://soundcloud.com/omancesntead",
       "youtube": "UCrfu-6zSLqPK-H_eFEZb9QA"
     }
+  },
+  "lastfm": {
+    "id": "Billy+Cobb/_/The+Shell+Shack",
+    "listeners": 35293,
+    "playcount": 256496,
+    "title": "The Shell Shack",
+    "artist": "Billy Cobb",
+    "mbid": "c7af6da3-f8e6-4422-8183-5631c992ec7f",
+    "artistMbid": "fc38557f-d18c-4d46-a52d-1f799d0d56df",
+    "tags": [
+      "power pop",
+      "indie pop",
+      "emo",
+      "indie rock"
+    ]
   }
 }

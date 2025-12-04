@@ -1,0 +1,47 @@
+{
+  "youtubeId": "1rv8bSBcZE4",
+  "title": "Kool Savas - Nicht Erinnern (prod. Kool Savas, Danny Autlaw, Tengo)",
+  "lastFetched": "2025-12-04T20:37:22.804Z",
+  "ai": {
+    "title": "Nicht Erinnern",
+    "artist": "Kool Savas"
+  },
+  "musicbrainz": {
+    "trackMbid": "f55b1888-d3a9-418c-8276-0dfdce689c67",
+    "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da",
+    "releaseCount": 2,
+    "artistGenres": [
+      "hip hop"
+    ],
+    "releasedAt": "2021-02-19",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000496538",
+      "discogs": "1295717",
+      "spotify": "1SUu1Bi7ev9HbOzyVC77qD",
+      "deezer": "72038",
+      "lastfm": "Kool%20Savas",
+      "genius": "Kool-savas",
+      "rateyourmusic": "kool_savas",
+      "soundcloud": "https://soundcloud.com/kool-savas-official",
+      "wikidata": "Q496308",
+      "youtube": "UCCirWHa1TzMlpaXzcn_tGdw"
+    }
+  },
+  "lastfm": {
+    "id": "Kool+Savas/_/Nicht+Erinnern",
+    "listeners": 4080,
+    "playcount": 27167,
+    "title": "Nicht Erinnern",
+    "artist": "Kool Savas",
+    "mbid": "1e43ad87-78d9-4d94-af63-46beb7228935",
+    "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da",
+    "tags": [
+      "deutschrap",
+      "rap",
+      "hip hop",
+      "german",
+      "hip-hop"
+    ]
+  }
+}

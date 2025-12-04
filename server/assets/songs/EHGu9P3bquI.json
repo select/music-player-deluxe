@@ -1,9 +1,49 @@
 {
   "youtubeId": "EHGu9P3bquI",
   "title": "Ted Nugent - Hibernation",
-  "lastFetched": "2025-12-04T19:02:08.172Z",
+  "lastFetched": "2025-12-04T20:35:46.445Z",
   "ai": {
     "title": "Hibernation",
     "artist": "Ted Nugent"
+  },
+  "musicbrainz": {
+    "trackMbid": "e6664555-431e-4991-8ad6-4b8de0dcc7c6",
+    "artistMbid": "e491fae8-3a5a-438e-8368-925753fb41a1",
+    "releaseCount": 4,
+    "artistGenres": [
+      "classic rock",
+      "glam metal",
+      "hard rock",
+      "heavy metal",
+      "metal",
+      "psychedelic rock",
+      "rock",
+      "singer-songwriter"
+    ],
+    "releasedAt": "1978",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000749970",
+      "discogs": "265835",
+      "spotify": "21ysNsPzHdqYN2fQ75ZswG",
+      "deezer": "7178",
+      "rateyourmusic": "ted_nugent",
+      "wikidata": "Q334670"
+    }
+  },
+  "lastfm": {
+    "id": "Ted+Nugent/_/Hibernation",
+    "listeners": 2543,
+    "playcount": 7024,
+    "title": "Hibernation",
+    "artist": "Ted Nugent",
+    "artistMbid": "e491fae8-3a5a-438e-8368-925753fb41a1",
+    "tags": [
+      "rock",
+      "70s",
+      "heavy metal",
+      "instrumental",
+      "radiotsar approved"
+    ]
   }
 }

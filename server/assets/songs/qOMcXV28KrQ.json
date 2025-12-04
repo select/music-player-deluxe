@@ -1,7 +1,7 @@
 {
   "youtubeId": "qOMcXV28KrQ",
   "title": "modeselektor - edgar",
-  "lastFetched": "2025-12-04T19:46:25.570Z",
+  "lastFetched": "2025-12-04T20:35:24.017Z",
   "ai": {
     "title": "edgar",
     "artist": "modeselektor"
@@ -38,5 +38,19 @@
       "wikidata": "Q829725",
       "youtube": "UCKUROKmlH_j_o0ufW-NSyKg"
     }
+  },
+  "lastfm": {
+    "id": "Modeselektor/_/Edgar",
+    "listeners": 71253,
+    "playcount": 277892,
+    "title": "Edgar",
+    "artist": "Modeselektor",
+    "mbid": "1ed51711-a5fd-4e8f-ba9b-e8c42be71348",
+    "artistMbid": "8a7a4e72-a099-425f-8238-80706fc1c746",
+    "tags": [
+      "idm",
+      "electronic",
+      "electronica"
+    ]
   }
 }

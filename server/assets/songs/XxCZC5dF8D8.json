@@ -1,0 +1,67 @@
+{
+  "youtubeId": "XxCZC5dF8D8",
+  "title": "Tom Waits - Dead And Lovely",
+  "lastFetched": "2025-12-04T20:37:34.597Z",
+  "ai": {
+    "title": "Dead And Lovely",
+    "artist": "Tom Waits"
+  },
+  "musicbrainz": {
+    "trackMbid": "d26f6d87-2d66-4a95-8d35-9fc8266c4ab4",
+    "artistMbid": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+    "releaseCount": 10,
+    "genres": [
+      "alternative rock",
+      "blues",
+      "blues rock",
+      "experimental",
+      "lo-fi",
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "americana",
+      "avant-garde jazz",
+      "beat poetry",
+      "blues",
+      "blues rock",
+      "dark cabaret",
+      "dark jazz",
+      "experimental",
+      "experimental rock",
+      "folk",
+      "folk rock",
+      "gothic country",
+      "jazz",
+      "piano blues",
+      "rock",
+      "singer-songwriter"
+    ],
+    "releasedAt": "2004-10-04",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000615119",
+      "bandcamp": "https://tomwaits.bandcamp.com/",
+      "discogs": "82294",
+      "spotify": "7x83XhcMbOTl1UdYsPTuZM",
+      "deezer": "1128",
+      "lastfm": "Tom+Waits",
+      "genius": "Tom-waits",
+      "rateyourmusic": "tom_waits",
+      "wikidata": "Q184805"
+    }
+  },
+  "lastfm": {
+    "id": "Tom+Waits/_/Dead+and+Lovely",
+    "listeners": 107159,
+    "playcount": 543814,
+    "title": "Dead and Lovely",
+    "artist": "Tom Waits",
+    "mbid": "9b5befb1-fcb2-4361-bc4f-2cc88935389c",
+    "artistMbid": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+    "tags": [
+      "blues",
+      "singer-songwriter"
+    ]
+  }
+}

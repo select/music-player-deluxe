@@ -16,6 +16,10 @@ const NORMALIZATION_FILE = path.join(
 	__dirname,
 	"../server/assets/tag-normalization.json",
 );
+const ANONYMIZED_METADATA_FILE = path.join(
+	__dirname,
+	"../data/anonymized-metadata.json",
+);
 
 interface SourceData {
 	url: string;
@@ -42,6 +46,7 @@ interface PlaylistData {
 	topCountries: Array<{ country: string; count: number }>;
 	itemsWithReleaseDate: number;
 	releaseYears: Array<{ year: string; count: number }>;
+	postsPerYear: Array<{ year: string; count: number }>;
 }
 
 interface SourcesData {
@@ -69,6 +74,30 @@ async function loadTagNormalization(): Promise<Record<string, string>> {
 function normalizeTag(tag: string, mappings: Record<string, string>): string {
 	const lowercaseTag = tag.toLowerCase().trim();
 	return mappings[lowercaseTag] || tag;
+}
+
+// Scan anonymized metadata for posts per year
+async function scanAnonymizedMetadata(): Promise<Map<string, number>> {
+	const postsPerYear = new Map<string, number>();
+
+	try {
+		const content = await readFile(ANONYMIZED_METADATA_FILE, "utf-8");
+		const metadata = JSON.parse(content);
+
+		if (Array.isArray(metadata)) {
+			for (const entry of metadata) {
+				if (entry.datetime) {
+					const date = new Date(entry.datetime);
+					const year = date.getFullYear().toString();
+					postsPerYear.set(year, (postsPerYear.get(year) || 0) + 1);
+				}
+			}
+		}
+	} catch (error) {
+		console.warn("Failed to load anonymized metadata:", error);
+	}
+
+	return postsPerYear;
 }
 
 async function scanSongFiles(): Promise<{
@@ -275,6 +304,9 @@ async function updateSources(): Promise<void> {
 		releaseYearCounts,
 	} = await scanPlaylistData(tagNormalizationMap);
 
+	console.log("Scanning anonymized metadata for posts per year...");
+	const postsPerYearMap = await scanAnonymizedMetadata();
+
 	// Update source items and tags
 	if (sourcesData.sources.musicbrainz) {
 		sourcesData.sources.musicbrainz.items = musicbrainzCount;
@@ -325,6 +357,11 @@ async function updateSources(): Promise<void> {
 		.map(([year, count]) => ({ year, count }))
 		.sort((a, b) => a.year.localeCompare(b.year)); // Sort chronologically
 
+	// Process posts per year
+	const postsPerYear = Array.from(postsPerYearMap.entries())
+		.map(([year, count]) => ({ year, count }))
+		.sort((a, b) => a.year.localeCompare(b.year)); // Sort chronologically
+
 	// Update playlist data
 	sourcesData.playlist = {
 		items: totalItems,
@@ -337,6 +374,7 @@ async function updateSources(): Promise<void> {
 		topCountries: topCountries,
 		itemsWithReleaseDate: itemsWithReleaseDate,
 		releaseYears: releaseYears,
+		postsPerYear: postsPerYear,
 	};
 
 	console.log("Writing updated sources file...");

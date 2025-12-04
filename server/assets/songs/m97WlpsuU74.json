@@ -1,9 +1,44 @@
 {
   "youtubeId": "m97WlpsuU74",
   "title": "Utah Saints – Something Good '08 (Official HD Music Video) | Ministry of Sound",
-  "lastFetched": "2025-12-04T19:16:38.118Z",
+  "lastFetched": "2025-12-04T20:36:36.711Z",
   "ai": {
     "title": "Something Good '08",
     "artist": "Utah Saints"
+  },
+  "musicbrainz": {
+    "trackMbid": "8805232e-62bd-4c19-ba4b-28b2f117277f",
+    "artistMbid": "6de1f94d-3d2e-40dd-a5e7-3170332a6a93",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dance-pop",
+      "electronic",
+      "house"
+    ],
+    "releasedAt": "2008-03-07",
+    "externalIdsArtist": {
+      "allmusic": "mn0000304102",
+      "discogs": "2703",
+      "spotify": "2KB6LGMBaOYYYdvvgyptFH",
+      "deezer": "6853",
+      "rateyourmusic": "utah_saints",
+      "wikidata": "Q2036827",
+      "youtube": "UCAMvsc4ndfMNo1rdlkpMKuw"
+    }
+  },
+  "lastfm": {
+    "id": "Utah+Saints/_/Something+Good+%2708",
+    "listeners": 16054,
+    "playcount": 115237,
+    "title": "Something Good '08",
+    "artist": "Utah Saints",
+    "mbid": "0353e454-177e-4c10-bb30-e5a31fff629e",
+    "artistMbid": "6de1f94d-3d2e-40dd-a5e7-3170332a6a93",
+    "tags": [
+      "dance",
+      "house",
+      "electronic",
+      "club"
+    ]
   }
 }

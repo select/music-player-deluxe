@@ -1,9 +1,23 @@
 {
   "youtubeId": "CdUdqdlVpYs",
   "title": "arctic monkeys - i wanna be yours (cover) | nursena yener",
-  "lastFetched": "2025-12-04T19:01:28.624Z",
+  "lastFetched": "2025-12-04T20:35:43.885Z",
   "ai": {
     "title": "i wanna be yours (cover)",
     "artist": "arctic monkeys"
+  },
+  "lastfm": {
+    "id": "Arctic+Monkeys/_/I+Wanna+Be+Yours+(Cover)",
+    "listeners": 330,
+    "playcount": 764,
+    "title": "I Wanna Be Yours (Cover)",
+    "artist": "Arctic Monkeys",
+    "tags": [
+      "indie rock",
+      "indie",
+      "british",
+      "alternative",
+      "rock"
+    ]
   }
 }

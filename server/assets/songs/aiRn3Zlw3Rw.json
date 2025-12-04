@@ -1,0 +1,53 @@
+{
+  "youtubeId": "aiRn3Zlw3Rw",
+  "title": "Eric Johnson - Cliffs Of Dover [HQ Studio Version]",
+  "lastFetched": "2025-12-04T20:37:26.390Z",
+  "ai": {
+    "title": "Cliffs Of Dover",
+    "artist": "Eric Johnson"
+  },
+  "musicbrainz": {
+    "trackMbid": "386665dc-1226-4fb7-b68c-e18a61f60577",
+    "artistMbid": "b53868c8-3654-41d3-91db-3c5a1237f0c3",
+    "releaseCount": 8,
+    "genres": [
+      "blues rock",
+      "instrumental rock",
+      "pop",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "rock"
+    ],
+    "releasedAt": "1990-03-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000188261",
+      "discogs": "311699",
+      "spotify": "4CxobvwTpmfpIEbkYh4pAb",
+      "deezer": "12995",
+      "lastfm": "Eric%20Johnson",
+      "rateyourmusic": "eric_johnson",
+      "wikidata": "Q311580"
+    }
+  },
+  "lastfm": {
+    "summary": "\"Cliffs of Dover\" is an instrumental song by guitarist Eric Johnson which appeared on his 1990 Ah Via Musicom album. Composed in the key of G major, the song was recorded on a Gibson ES-335. The song takes its name from the white Cliffs of Dover along the British shoreline. It also features on the video game Guitar Hero III. \"Cliffs of Dover\" was voted number 17 in Guitar World magazine's list of 100 Greatest Guitar Solos.\n\nCliffs of Dover begins the song with an ad-libbed electric guitar solo <a href=\"http://www.last.fm/music/Eric+Johnson/_/Cliffs+of+Dover\">Read more on Last.fm</a>.",
+    "id": "Eric+Johnson/_/Cliffs+of+Dover",
+    "listeners": 224233,
+    "playcount": 1477728,
+    "title": "Cliffs of Dover",
+    "artist": "Eric Johnson",
+    "mbid": "11ba6849-3bbf-38fe-8019-b575682fcc94",
+    "artistMbid": "b53868c8-3654-41d3-91db-3c5a1237f0c3",
+    "tags": [
+      "guitar virtuoso",
+      "instrumental",
+      "instrumental rock",
+      "rock",
+      "guitar hero"
+    ]
+  }
+}

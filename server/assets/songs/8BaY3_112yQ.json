@@ -1,7 +1,7 @@
 {
   "youtubeId": "8BaY3_112yQ",
   "title": "Jürgen Paape - So Weit Wie Noch Nie",
-  "lastFetched": "2025-12-04T19:46:21.019Z",
+  "lastFetched": "2025-12-04T20:35:19.208Z",
   "ai": {
     "title": "So Weit Wie Noch Nie",
     "artist": "Jürgen Paape"
@@ -26,5 +26,20 @@
       "rateyourmusic": "jurgen_paape",
       "wikidata": "Q74007"
     }
+  },
+  "lastfm": {
+    "id": "J%C3%BCrgen+Paape/_/So+Weit+Wie+Noch+Nie",
+    "listeners": 70684,
+    "playcount": 410363,
+    "title": "So Weit Wie Noch Nie",
+    "artist": "Jürgen Paape",
+    "mbid": "7625cebd-6357-3a84-9ebc-dcd72d8f5c09",
+    "artistMbid": "cc6d62db-32cc-43a4-83be-e6187e35f34d",
+    "tags": [
+      "electronic",
+      "german",
+      "minimal",
+      "house"
+    ]
   }
 }

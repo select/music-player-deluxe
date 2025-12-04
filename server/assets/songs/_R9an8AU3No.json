@@ -1,7 +1,7 @@
 {
   "youtubeId": "_R9an8AU3No",
   "title": "Pete Drake & his talking steel guitar - \"Forever\"",
-  "lastFetched": "2025-12-04T19:46:23.276Z",
+  "lastFetched": "2025-12-04T20:35:20.743Z",
   "ai": {
     "title": "Forever",
     "artist": "Pete Drake & his talking steel guitar"
@@ -25,5 +25,20 @@
       "rateyourmusic": "pete-drake",
       "wikidata": "Q7171938"
     }
+  },
+  "lastfm": {
+    "id": "Pete+Drake+&+His+Talking+Steel+Guitar/_/Forever",
+    "listeners": 768,
+    "playcount": 1943,
+    "title": "Forever",
+    "artist": "Pete Drake & His Talking Steel Guitar",
+    "mbid": "017fe95e-b4b4-408c-af39-c39d970e2101",
+    "tags": [
+      "country",
+      "space age pop",
+      "all",
+      "spotify",
+      "country pop"
+    ]
   }
 }

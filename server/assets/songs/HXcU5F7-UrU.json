@@ -1,0 +1,50 @@
+{
+  "youtubeId": "HXcU5F7-UrU",
+  "title": "Still Got The Blues - Gary Moore (Naudo)",
+  "lastFetched": "2025-12-04T20:37:35.818Z",
+  "ai": {
+    "title": "Still Got The Blues",
+    "artist": "Gary Moore"
+  },
+  "musicbrainz": {
+    "trackMbid": "0d559edc-a567-456c-9198-8e917401997d",
+    "artistMbid": "a8806b5c-3ee0-4277-94d3-1a5427a7707c",
+    "releaseCount": 3,
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "electric blues",
+      "hard rock",
+      "heavy metal",
+      "rock"
+    ],
+    "releasedAt": "2017-07-04",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000050034",
+      "discogs": "208220",
+      "spotify": "23wr9RJZg0PmYvVFyNkQ4j",
+      "deezer": "666",
+      "lastfm": "Gary+Moore",
+      "genius": "Gary-moore",
+      "rateyourmusic": "gary-moore",
+      "wikidata": "Q185147"
+    }
+  },
+  "lastfm": {
+    "summary": "\"Still Got the Blues\", sometimes \"Still Got the Blues (For You)\", is a song written by Northern Irish guitarist Gary Moore that features as the title track from his 1990 album of the same name.  Released as a single, it reached #31 on the UK Singles Chart in May 1990 and is the only single of Moore's solo career to chart on the US Billboard Hot 100 where it reached #97 on 16 February 1991. Moore played his Les Paul Standard Guitar throughout the song. <a href=\"http://www.last.fm/music/Gary+Moore/_/Still+Got+the+Blues\">Read more on Last.fm</a>.",
+    "id": "Gary+Moore/_/Still+Got+the+Blues",
+    "listeners": 397773,
+    "playcount": 2293039,
+    "title": "Still Got the Blues",
+    "artist": "Gary Moore",
+    "artistMbid": "a8806b5c-3ee0-4277-94d3-1a5427a7707c",
+    "tags": [
+      "blues",
+      "blues rock",
+      "classic rock",
+      "guitar",
+      "rock"
+    ]
+  }
+}

@@ -1,9 +1,56 @@
 {
   "youtubeId": "RDoGvABD9NY",
   "title": "Joe Cocker - Marjorine (1968)",
-  "lastFetched": "2025-12-04T19:36:57.055Z",
+  "lastFetched": "2025-12-04T20:37:12.872Z",
   "ai": {
     "title": "Marjorine",
     "artist": "Joe Cocker"
+  },
+  "musicbrainz": {
+    "trackMbid": "114b1cbd-e2fd-4d48-a211-7867e69340f9",
+    "artistMbid": "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb",
+    "releaseCount": 6,
+    "genres": [
+      "blue-eyed soul",
+      "blues rock",
+      "classic rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "soul"
+    ],
+    "artistGenres": [
+      "pop",
+      "pop rock",
+      "rock"
+    ],
+    "releasedAt": "1969-04-23",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000149515",
+      "discogs": "124497",
+      "spotify": "3pFCERyEiP5xeN2EsPXhjI",
+      "deezer": "1866",
+      "lastfm": "Joe+Cocker",
+      "genius": "Joe-cocker",
+      "rateyourmusic": "joe-cocker",
+      "soundcloud": "https://soundcloud.com/joe-cocker-official",
+      "wikidata": "Q190076"
+    }
+  },
+  "lastfm": {
+    "id": "Joe+Cocker/_/Marjorine",
+    "listeners": 19021,
+    "playcount": 50050,
+    "title": "Marjorine",
+    "artist": "Joe Cocker",
+    "mbid": "030db301-c9aa-477d-b468-46d498069a3c",
+    "artistMbid": "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb",
+    "tags": [
+      "psychedelic",
+      "classic rock",
+      "rock",
+      "pop"
+    ]
   }
 }

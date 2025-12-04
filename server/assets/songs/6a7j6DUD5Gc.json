@@ -1,9 +1,23 @@
 {
   "youtubeId": "6a7j6DUD5Gc",
   "title": "\"Time Warp\"",
-  "lastFetched": "2025-12-04T19:07:24.748Z",
+  "lastFetched": "2025-12-04T20:36:00.064Z",
   "ai": {
     "title": "Time Warp",
     "artist": "JablinskiGames"
+  },
+  "lastfm": {
+    "id": "JablinskiGames/_/Time+Warp",
+    "listeners": 6,
+    "playcount": 11,
+    "title": "Time Warp",
+    "artist": "JablinskiGames",
+    "tags": [
+      "spoken word",
+      "comedy",
+      "american",
+      "gaming",
+      "jack black"
+    ]
   }
 }

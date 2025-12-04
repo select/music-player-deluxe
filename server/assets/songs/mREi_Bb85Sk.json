@@ -1,9 +1,41 @@
 {
   "youtubeId": "mREi_Bb85Sk",
   "title": "Mason Williams - Classical Gas - ORIGINAL STEREO VERSION",
-  "lastFetched": "2025-12-04T19:23:55.869Z",
+  "lastFetched": "2025-12-04T20:36:50.223Z",
   "ai": {
     "title": "Classical Gas",
     "artist": "Mason Williams"
+  },
+  "musicbrainz": {
+    "trackMbid": "3e8e1b66-cd27-4a8b-8b62-159232a4b8ab",
+    "artistMbid": "cd42041b-cf4b-4d94-87c3-1a3290331b07",
+    "releaseCount": 2,
+    "artistGenres": [
+      "classical"
+    ],
+    "releasedAt": "2008-12-09",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "292539",
+      "spotify": "1XgVoPT2Va5L64LFzskVBW",
+      "deezer": "2890",
+      "wikidata": "Q339892"
+    }
+  },
+  "lastfm": {
+    "summary": " <a href=\"http://www.last.fm/music/Mason+Williams/_/Classical+Gas\">Read more on Last.fm</a>.",
+    "id": "Mason+Williams/_/Classical+Gas",
+    "listeners": 111045,
+    "playcount": 565695,
+    "title": "Classical Gas",
+    "artist": "Mason Williams",
+    "artistMbid": "cd42041b-cf4b-4d94-87c3-1a3290331b07",
+    "tags": [
+      "instrumental",
+      "guitar",
+      "classic rock",
+      "acoustic",
+      "guitar virtuoso"
+    ]
   }
 }

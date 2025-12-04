@@ -1,0 +1,38 @@
+{
+  "youtubeId": "ER8kvGVwvp8",
+  "title": "Staying Alive ( Bee Gees ) Naudo Guitar Solo",
+  "lastFetched": "2025-12-04T20:36:45.329Z",
+  "ai": {
+    "title": "Staying Alive",
+    "artist": "Bee Gees"
+  },
+  "musicbrainz": {
+    "trackMbid": "5472492d-8dcf-407f-843d-18d3d524b7f4",
+    "artistMbid": "bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810",
+    "releaseCount": 2,
+    "artistGenres": [
+      "baroque pop",
+      "blue-eyed soul",
+      "dance",
+      "disco",
+      "pop",
+      "pop rock",
+      "psychedelic pop",
+      "rock",
+      "soft rock"
+    ],
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000043714",
+      "discogs": "97664",
+      "spotify": "1LZEQNv7sE11VDY3SdxQeN",
+      "deezer": "1450",
+      "lastfm": "Bee+Gees",
+      "genius": "Bee-gees",
+      "rateyourmusic": "bee_gees",
+      "soundcloud": "https://soundcloud.com/beegees",
+      "wikidata": "Q133405",
+      "youtube": "UCD9sCcKXnFxMeuFoNayVxeQ"
+    }
+  }
+}

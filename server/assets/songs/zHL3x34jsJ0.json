@@ -1,9 +1,54 @@
 {
   "youtubeId": "zHL3x34jsJ0",
   "title": "Spice Girls - Wannabe | Rubber Chicken Cover 【Chickensan】",
-  "lastFetched": "2025-12-04T19:12:59.295Z",
+  "lastFetched": "2025-12-04T20:36:27.544Z",
   "ai": {
     "title": "Wannabe",
     "artist": "Spice Girls"
+  },
+  "musicbrainz": {
+    "trackMbid": "e9e2346a-806d-4f84-a399-265a80f84571",
+    "artistMbid": "bf0caafc-2b20-4e07-ab85-87e14ff430ce",
+    "releaseCount": 2,
+    "genres": [
+      "rock"
+    ],
+    "artistGenres": [
+      "contemporary r&b",
+      "dance-pop",
+      "pop",
+      "teen pop"
+    ],
+    "releasedAt": "1997-10-21",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000008828",
+      "discogs": "47109",
+      "spotify": "0uq5PttqEjj3IH1bzwcrXF",
+      "deezer": "785",
+      "lastfm": "Spice+Girls",
+      "genius": "Spice-girls",
+      "rateyourmusic": "spice_girls",
+      "soundcloud": "https://soundcloud.com/spice-girls-official",
+      "napster": "spice-girls",
+      "wikidata": "Q55641",
+      "youtube": "UCzTGD812LtZe7HthxnGhCXA"
+    }
+  },
+  "lastfm": {
+    "summary": "\"Wannabe\" is a song by the British pop group Spice Girls, released as their debut single, and widely considered to be their signature song. It was written by the Spice Girls, Richard Stannard and Matt Rowe for the group's debut album Spice.\n\n\"Wannabe\" is an uptempo pop song with a touch of white hip-hop, rap and dance music; the lyrics are a demand of sincerity, with a feminist message of choosing friends over relationships, the song became an iconic symbolism of female empowerment and the most emblematic song of the Girl Power philosophy. <a href=\"http://www.last.fm/music/Spice+Girls/_/Wannabe\">Read more on Last.fm</a>.",
+    "id": "Spice+Girls/_/Wannabe",
+    "listeners": 1538251,
+    "playcount": 9349596,
+    "tags": [
+      "pop",
+      "90s",
+      "dance",
+      "female vocalists",
+      "Spice Girls"
+    ],
+    "title": "Wannabe",
+    "artist": "Spice Girls",
+    "artistMbid": "bf0caafc-2b20-4e07-ab85-87e14ff430ce"
   }
 }

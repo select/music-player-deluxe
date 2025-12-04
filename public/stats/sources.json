@@ -4,8 +4,8 @@
       "url": "https://musicbrainz.org",
       "name": "MusicBrainz",
       "summary": "Open music encyclopedia providing track, artist, and release metadata including genres and tags",
-      "items": 2750,
-      "tags": 632
+      "items": 2784,
+      "tags": 638
     },
     "lastfm": {
       "url": "https://www.last.fm",
@@ -24,7 +24,7 @@
       "url": "https://ollama.ai",
       "name": "Ollama",
       "summary": "Local AI model for parsing and extracting artist and title information",
-      "items": 1270
+      "items": 1341
     }
   },
   "playlist": {
@@ -1812,6 +1812,48 @@
       {
         "year": "2025",
         "count": 91
+      }
+    ],
+    "postsPerYear": [
+      {
+        "year": "2016",
+        "count": 84
+      },
+      {
+        "year": "2017",
+        "count": 494
+      },
+      {
+        "year": "2018",
+        "count": 791
+      },
+      {
+        "year": "2019",
+        "count": 388
+      },
+      {
+        "year": "2020",
+        "count": 470
+      },
+      {
+        "year": "2021",
+        "count": 64
+      },
+      {
+        "year": "2022",
+        "count": 621
+      },
+      {
+        "year": "2023",
+        "count": 536
+      },
+      {
+        "year": "2024",
+        "count": 774
+      },
+      {
+        "year": "2025",
+        "count": 623
       }
     ]
   }

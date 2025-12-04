@@ -1,9 +1,54 @@
 {
   "youtubeId": "nb2TyS2C3Mk",
   "title": "SEVDALIZA - SHABRANG (FULL ALBUM)",
-  "lastFetched": "2025-12-04T19:27:54.315Z",
+  "lastFetched": "2025-12-04T20:36:54.235Z",
   "ai": {
     "title": "SHABRANG",
     "artist": "Sevdaliza"
+  },
+  "musicbrainz": {
+    "trackMbid": "19cfb9f5-2364-411a-af98-172befe526e5",
+    "artistMbid": "e4356a15-5acc-400d-a707-592d66922e28",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative r&b",
+      "art pop",
+      "avant-garde pop",
+      "dance",
+      "edm",
+      "electronic",
+      "electronica",
+      "hip hop",
+      "pop",
+      "trap",
+      "trip hop"
+    ],
+    "releasedAt": "2020-08-28",
+    "artistCountry": "NL",
+    "externalIdsArtist": {
+      "allmusic": "mn0003433633",
+      "bandcamp": "https://sevdaliza.bandcamp.com/",
+      "discogs": "4223984",
+      "spotify": "5MraexJKZDrQYzS98kNwie",
+      "deezer": "5683028",
+      "lastfm": "Sevdaliza",
+      "genius": "Sevdaliza",
+      "rateyourmusic": "sevdaliza",
+      "soundcloud": "https://soundcloud.com/sevdaliza",
+      "wikidata": "Q28112930",
+      "youtube": "UCONnf7g7QfOqzM3etLECtUA"
+    }
+  },
+  "lastfm": {
+    "id": "Sevdaliza/_/Shabrang",
+    "listeners": 52958,
+    "playcount": 297250,
+    "title": "Shabrang",
+    "artist": "Sevdaliza",
+    "mbid": "042ad50b-9d47-4653-b1f1-23d233f0ccf4",
+    "artistMbid": "e4356a15-5acc-400d-a707-592d66922e28",
+    "tags": [
+      "art pop"
+    ]
   }
 }

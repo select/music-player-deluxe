@@ -1,9 +1,41 @@
 {
   "youtubeId": "glHXDhFnQy8",
   "title": "Mamadou Diabate - Tunga (full album)",
-  "lastFetched": "2025-12-04T19:44:09.031Z",
+  "lastFetched": "2025-12-04T20:37:19.323Z",
   "ai": {
     "title": "Tunga",
     "artist": "Mamadou Diabate"
+  },
+  "musicbrainz": {
+    "trackMbid": "92b106b4-eda7-4b6a-b3cf-a343d3e38799",
+    "artistMbid": "9474aeb4-e013-4ae5-adb9-f28bd83ddca8",
+    "releaseCount": 3,
+    "artistGenres": [
+      "folk"
+    ],
+    "releasedAt": "2000-11-20",
+    "artistCountry": "ML",
+    "externalIdsArtist": {
+      "allmusic": "mn0000673460",
+      "discogs": "1106595",
+      "spotify": "4Ue2Ve285CkFy9mv6TPcBf",
+      "rateyourmusic": "mamadou-diabate",
+      "wikidata": "Q965676",
+      "wikipedia": "Mamadou_Diabat%C3%A9"
+    }
+  },
+  "lastfm": {
+    "id": "Mamadou+Diabate/_/Tunga",
+    "listeners": 2693,
+    "playcount": 6761,
+    "title": "Tunga",
+    "artist": "Mamadou Diabate",
+    "mbid": "22685e4d-e60f-34e2-8f25-1cc3751d1e4d",
+    "tags": [
+      "mali",
+      "kora",
+      "world",
+      "africa"
+    ]
   }
 }

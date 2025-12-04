@@ -1,9 +1,45 @@
 {
   "youtubeId": "VWl8XY7d49s",
   "title": "Lively Up Yourself - Bob Marley (cover) by The Late Ones",
-  "lastFetched": "2025-12-04T19:18:14.042Z",
+  "lastFetched": "2025-12-04T20:36:40.514Z",
   "ai": {
     "title": "Lively Up Yourself",
     "artist": "Bob Marley"
+  },
+  "musicbrainz": {
+    "trackMbid": "d4346306-2f48-410d-b170-9a4853aa82a9",
+    "artistMbid": "ed2ac1e9-d51d-4eff-a2c2-85e81abd6360",
+    "releaseCount": 2,
+    "artistGenres": [
+      "reggae",
+      "roots reggae",
+      "singer-songwriter"
+    ],
+    "releasedAt": "1992",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000071514",
+      "discogs": "41441",
+      "spotify": "2QsynagSdAqZj3U9HgDzjD",
+      "deezer": "719",
+      "lastfm": "Bob+Marley",
+      "genius": "Bob-marley",
+      "rateyourmusic": "bob-marley",
+      "wikidata": "Q409"
+    }
+  },
+  "lastfm": {
+    "id": "Bob+Marley/_/Lively+up+Yourself",
+    "listeners": 235295,
+    "playcount": 990101,
+    "title": "Lively up Yourself",
+    "artist": "Bob Marley",
+    "artistMbid": "c33627c6-ef0d-49de-9ef0-c4804190040f",
+    "tags": [
+      "reggae",
+      "bob marley",
+      "jamaican",
+      "roots reggae"
+    ]
   }
 }

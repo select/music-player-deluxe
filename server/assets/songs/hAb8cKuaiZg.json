@@ -1,0 +1,31 @@
+{
+  "youtubeId": "hAb8cKuaiZg",
+  "title": "Leb wohl Birgitt - Jan Jester (Offizielles Musikvideo)",
+  "lastFetched": "2025-12-04T20:38:08.577Z",
+  "ai": {
+    "title": "Leb wohl Birgitt",
+    "artist": "Jan Jester"
+  },
+  "musicbrainz": {
+    "trackMbid": "9413d782-7729-4962-b9e3-170c1240d917",
+    "artistMbid": "0b3f1f7d-95bb-4c8b-a218-3c622aa73f04",
+    "releaseCount": 1,
+    "artistGenres": [
+      "comedy",
+      "schlager"
+    ],
+    "releasedAt": "2020-05-01",
+    "externalIdsArtist": {
+      "youtube": "UCp86ZGUf_2Wm7hdaid4rNvw"
+    }
+  },
+  "lastfm": {
+    "id": "Jan+Jester/_/Leb+wohl+Birgitt",
+    "listeners": 477,
+    "playcount": 2001,
+    "title": "Leb wohl Birgitt",
+    "artist": "Jan Jester",
+    "mbid": "fc864104-c6ea-4b10-a5db-5a0ffaea1ba7",
+    "artistMbid": "0b3f1f7d-95bb-4c8b-a218-3c622aa73f04"
+  }
+}

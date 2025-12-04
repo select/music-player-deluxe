@@ -1,9 +1,49 @@
 {
   "youtubeId": "O32DMyXN-mI",
   "title": "The Pineapple Thief - Versions of the Truth",
-  "lastFetched": "2025-12-04T19:45:29.873Z",
+  "lastFetched": "2025-12-04T20:37:20.607Z",
   "ai": {
     "title": "Versions of the Truth",
     "artist": "The Pineapple Thief"
+  },
+  "musicbrainz": {
+    "trackMbid": "2d488efe-28a1-4407-9b52-dbb929449ea5",
+    "artistMbid": "e8f55abb-a6d5-4e5f-81b4-14f9cc320519",
+    "releaseCount": 7,
+    "artistGenres": [
+      "crossover prog",
+      "progressive rock"
+    ],
+    "releasedAt": "2020-08-07",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000347161",
+      "discogs": "1158584",
+      "spotify": "4lrBMUSk8PiNnCEZfsmPAk",
+      "deezer": "94494",
+      "lastfm": "The+Pineapple+Thief",
+      "genius": "The-pineapple-thief",
+      "rateyourmusic": "the-pineapple-thief",
+      "soundcloud": "https://soundcloud.com/thepineapplethief",
+      "napster": "pineapple-thief",
+      "wikidata": "Q38502",
+      "youtube": "UCuqpzZnOFS_Pers0CYQ2Saw"
+    }
+  },
+  "lastfm": {
+    "id": "The+Pineapple+Thief/_/Versions+of+the+Truth",
+    "listeners": 15358,
+    "playcount": 81179,
+    "title": "Versions of the Truth",
+    "artist": "The Pineapple Thief",
+    "mbid": "10e9636f-0c8d-4ed1-b10d-6ec55dbd7b2e",
+    "artistMbid": "e8f55abb-a6d5-4e5f-81b4-14f9cc320519",
+    "tags": [
+      "progressive rock",
+      "art rock",
+      "2020",
+      "rock",
+      "progressive"
+    ]
   }
 }

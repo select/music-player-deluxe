@@ -1,9 +1,49 @@
 {
   "youtubeId": "zfaOf70M4xs",
   "title": "Charles Bradley performs soulful cover of Black Sabbath's 'Changes'",
-  "lastFetched": "2025-12-04T19:13:29.629Z",
+  "lastFetched": "2025-12-04T20:36:29.056Z",
   "ai": {
     "title": "Changes",
     "artist": "Charles Bradley"
+  },
+  "musicbrainz": {
+    "trackMbid": "b29544be-8e0a-41b9-af46-222442b0f28f",
+    "artistMbid": "dc6d2ba1-012c-47a7-ba3f-d74e76c30d53",
+    "releaseCount": 7,
+    "genres": [
+      "funk",
+      "r&b",
+      "soul"
+    ],
+    "artistGenres": [
+      "funk",
+      "soul"
+    ],
+    "releasedAt": "2016-04-01",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0002401289",
+      "bandcamp": "https://charlesbradley.bandcamp.com/",
+      "discogs": "89824",
+      "spotify": "462T0buQ5ScBUQCRpodDRf",
+      "deezer": "1027239",
+      "genius": "Charles-bradley",
+      "rateyourmusic": "charles_bradley",
+      "wikidata": "Q1063796"
+    }
+  },
+  "lastfm": {
+    "summary": "Charles Bradley's profound interpretation of Changes, released on his third studio album Changes in April 2016, represents a masterful transformation of the original rock ballad into a soul-stirring R&B masterpiece. Working closely with producer Thomas Brenneck and the Daptone Records team, Bradley reimagined the song through the lens of his own life experiences, creating a version that garnered widespread critical acclaim for its raw emotional depth and authentic soul styling. <a href=\"http://www.last.fm/music/Charles+Bradley/_/Changes\">Read more on Last.fm</a>.",
+    "id": "Charles+Bradley/_/Changes",
+    "listeners": 243046,
+    "playcount": 1331704,
+    "title": "Changes",
+    "artist": "Charles Bradley",
+    "mbid": "1172abe1-5509-4e89-baf1-aec3063760f0",
+    "artistMbid": "dc6d2ba1-012c-47a7-ba3f-d74e76c30d53",
+    "tags": [
+      "cover",
+      "soul"
+    ]
   }
 }

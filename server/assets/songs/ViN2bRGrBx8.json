@@ -1,0 +1,51 @@
+{
+  "youtubeId": "ViN2bRGrBx8",
+  "title": "Giorgio Moroder - Chase (Casablanca Records 1978)",
+  "lastFetched": "2025-12-04T20:51:38.013Z",
+  "ai": {
+    "title": "Chase",
+    "artist": "Giorgio Moroder"
+  },
+  "lastfm": {
+    "id": "Giorgio+Moroder/_/Chase",
+    "listeners": 112140,
+    "playcount": 428262,
+    "title": "Chase",
+    "artist": "Giorgio Moroder",
+    "mbid": "6cce3fdc-6a25-40a9-be64-02401b89bda8",
+    "artistMbid": "38dd6337-19ae-4793-ab4b-313eff523457",
+    "tags": [
+      "disco",
+      "electronic",
+      "80s",
+      "soundtrack",
+      "synth pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "eef2aa80-c908-4197-ab3c-03a6649274e6",
+    "artistMbid": "38dd6337-19ae-4793-ab4b-313eff523457",
+    "releaseCount": 3,
+    "artistGenres": [
+      "dance",
+      "disco",
+      "electronic",
+      "italo-disco",
+      "rock"
+    ],
+    "releasedAt": "2006-05-08",
+    "artistCountry": "IT",
+    "externalIdsArtist": {
+      "allmusic": "mn0000660507",
+      "discogs": "4205",
+      "spotify": "6jU2Tt13MmXYk0ZBv1KmfO",
+      "deezer": "2173",
+      "lastfm": "Giorgio+Moroder",
+      "genius": "Giorgio-moroder",
+      "rateyourmusic": "giorgio_moroder",
+      "soundcloud": "https://soundcloud.com/giorgiomoroder",
+      "wikidata": "Q312674",
+      "youtube": "UCKyprH9nHK8gUNMJK2ulnRQ"
+    }
+  }
+}

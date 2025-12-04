@@ -1,0 +1,30 @@
+{
+  "youtubeId": "YHI0ytG_YiM",
+  "title": "Afion - Karanfile",
+  "lastFetched": "2025-12-04T20:38:50.201Z",
+  "ai": {
+    "title": "Karanfile",
+    "artist": "Afion"
+  },
+  "lastfm": {
+    "id": "Afion/_/Karanfile",
+    "listeners": 683,
+    "playcount": 3461,
+    "title": "Karanfile",
+    "artist": "Afion",
+    "artistMbid": "29eb844e-2124-449b-9c38-243f769d1a43",
+    "tags": [
+      "garbuix de la gran meuca",
+      "balkanisme"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "57d77703-a832-4363-b545-ef7b1944c85e",
+    "artistMbid": "29eb844e-2124-449b-9c38-243f769d1a43",
+    "releaseCount": 1,
+    "releasedAt": "2008-12-10",
+    "externalIdsArtist": {
+      "discogs": "934401"
+    }
+  }
+}

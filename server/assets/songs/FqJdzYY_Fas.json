@@ -1,9 +1,22 @@
 {
   "youtubeId": "FqJdzYY_Fas",
   "title": "Best Drummer Ever [HD]",
-  "lastFetched": "2025-12-04T19:17:48.491Z",
+  "lastFetched": "2025-12-04T20:36:39.154Z",
   "ai": {
     "title": "Best Drummer Ever",
     "artist": "William Wei"
+  },
+  "lastfm": {
+    "id": "William+Wei/_/Best+Drummer+Ever",
+    "listeners": 607,
+    "playcount": 694,
+    "title": "Best Drummer Ever",
+    "artist": "William Wei",
+    "tags": [
+      "chinese",
+      "taiwan",
+      "taiwanese",
+      "chinesepop"
+    ]
   }
 }

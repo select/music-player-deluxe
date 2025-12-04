@@ -1,9 +1,62 @@
 {
   "youtubeId": "ycYewhiaVBk",
   "title": "Steven Wilson - Drive Home",
-  "lastFetched": "2025-12-04T19:22:40.747Z",
+  "lastFetched": "2025-12-04T20:36:48.808Z",
   "ai": {
     "title": "Drive Home",
     "artist": "Steven Wilson"
+  },
+  "musicbrainz": {
+    "trackMbid": "1f3d5cd2-a3d5-4c98-89e0-8752d23be23e",
+    "artistMbid": "3a51b862-0144-40f6-aa17-6aaeefea29d9",
+    "releaseCount": 20,
+    "genres": [
+      "art rock",
+      "progressive rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "art rock",
+      "crossover prog",
+      "experimental",
+      "folk",
+      "pop",
+      "progressive",
+      "progressive rock",
+      "singer-songwriter"
+    ],
+    "releasedAt": "2013-02-25",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "4kZbYkUuDHyphD71bPMYL1"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000455886",
+      "discogs": "227943",
+      "spotify": "4X42BfuhWCAZ2swiVze9O0",
+      "deezer": "254940",
+      "lastfm": "Steven+Wilson",
+      "genius": "Steven-wilson",
+      "rateyourmusic": "steven-wilson",
+      "soundcloud": "https://soundcloud.com/steven-wilson",
+      "qobuz": "133149",
+      "napster": "steven-wilson",
+      "wikidata": "Q352766",
+      "youtube": "UCN_yfO7km9qK5n9JlLJRdrg"
+    }
+  },
+  "lastfm": {
+    "id": "Steven+Wilson/_/Drive+Home",
+    "listeners": 103791,
+    "playcount": 909907,
+    "title": "Drive Home",
+    "artist": "Steven Wilson",
+    "mbid": "054044d6-296f-4b2b-816e-93cbbd78fe1e",
+    "artistMbid": "3a51b862-0144-40f6-aa17-6aaeefea29d9",
+    "tags": [
+      "progressive rock",
+      "one solo can kill a man"
+    ]
   }
 }

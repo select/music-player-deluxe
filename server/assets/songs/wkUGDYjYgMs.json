@@ -1,9 +1,45 @@
 {
   "youtubeId": "wkUGDYjYgMs",
   "title": "Billy Strings - Dust In A Baggie (live)",
-  "lastFetched": "2025-12-04T19:19:41.852Z",
+  "lastFetched": "2025-12-04T20:36:44.757Z",
   "ai": {
     "title": "Dust In A Baggie",
     "artist": "Billy Strings"
+  },
+  "musicbrainz": {
+    "trackMbid": "492f5648-0e99-4ad4-b924-28683eb28e2b",
+    "artistMbid": "640db492-34c4-47df-be14-96e2cd4b9fe4",
+    "releaseCount": 1,
+    "artistGenres": [
+      "bluegrass",
+      "jam band",
+      "progressive bluegrass"
+    ],
+    "releasedAt": "2018-01-28",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://billystrings.bandcamp.com/",
+      "discogs": "8700274",
+      "spotify": "1ZN1c1qWEGZNX1pGeKCPpf",
+      "deezer": "7048799",
+      "genius": "Billy-strings",
+      "rateyourmusic": "billy-strings",
+      "wikidata": "Q52004084"
+    }
+  },
+  "lastfm": {
+    "id": "Billy+Strings/_/Dust+in+a+Baggie",
+    "listeners": 67700,
+    "playcount": 466580,
+    "title": "Dust in a Baggie",
+    "artist": "Billy Strings",
+    "mbid": "c97a1bed-1bca-4fd9-806c-430bb4a5c6a1",
+    "artistMbid": "640db492-34c4-47df-be14-96e2cd4b9fe4",
+    "tags": [
+      "bluegrass",
+      "drugs",
+      "progressive bluegrass",
+      "father"
+    ]
   }
 }

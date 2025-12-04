@@ -1,7 +1,7 @@
 {
   "youtubeId": "h_DkECdECJ0",
   "title": "Fred again.. – Julia (Deep Diving)",
-  "lastFetched": "2025-12-04T19:44:52.223Z",
+  "lastFetched": "2025-12-04T20:35:02.015Z",
   "ai": {
     "title": "Julia (Deep Diving)",
     "artist": "Fred again.."
@@ -32,5 +32,17 @@
       "wikidata": "Q64009886",
       "youtube": "UCXF6DMVLIVRr2OQAqyfEGeg"
     }
+  },
+  "lastfm": {
+    "id": "Fred+again../_/Julia+(Deep+Diving)",
+    "listeners": 73686,
+    "playcount": 528577,
+    "title": "Julia (Deep Diving)",
+    "artist": "Fred again..",
+    "mbid": "b839c898-e581-4555-b050-3bdda2328b40",
+    "artistMbid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e",
+    "tags": [
+      "#selected"
+    ]
   }
 }

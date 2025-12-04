@@ -1,0 +1,61 @@
+{
+  "youtubeId": "lZiNtbgm9oM",
+  "title": "Creep - Radiohead",
+  "lastFetched": "2025-12-04T20:40:05.624Z",
+  "ai": {
+    "title": "Creep",
+    "artist": "Radiohead"
+  },
+  "lastfm": {
+    "summary": "\"Creep\" is the first single released by the English alternative rock band Radiohead, and is a track on their debut album Pablo Honey. It was written by the band's singer, Thom Yorke, and released in the United Kingdom initially in September 1992. When it was first given limited release, however, Radio 1 found it \"too depressing\", and removed it from their playlist after airing it only twice. However, it subsequently became one of the band's biggest hits <a href=\"http://www.last.fm/music/Radiohead/_/Creep\">Read more on Last.fm</a>.",
+    "id": "Radiohead/_/Creep",
+    "listeners": 3878698,
+    "playcount": 54782702,
+    "tags": [
+      "alternative",
+      "alternative rock",
+      "rock",
+      "indie",
+      "radiohead"
+    ],
+    "title": "Creep",
+    "artist": "Radiohead",
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+  },
+  "musicbrainz": {
+    "trackMbid": "b8158bd4-bd38-4dd4-b215-3111f3e0a244",
+    "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "releaseCount": 7,
+    "genres": [
+      "alternative rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "art pop",
+      "art rock",
+      "electronic",
+      "electronica",
+      "experimental",
+      "experimental rock",
+      "indie rock",
+      "post-britpop",
+      "rock"
+    ],
+    "releasedAt": "2009-03-23",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000326249",
+      "bandcamp": "https://radiohead.bandcamp.com/",
+      "discogs": "3840",
+      "spotify": "4Z8W4fKeB5YxbusRsdQVPb",
+      "deezer": "399",
+      "lastfm": "Radiohead",
+      "genius": "Radiohead",
+      "rateyourmusic": "radiohead",
+      "soundcloud": "https://soundcloud.com/radiohead",
+      "wikidata": "Q44190",
+      "youtube": "UCr_iyUANcn9OX_yy9piYoLw"
+    }
+  }
+}

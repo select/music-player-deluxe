@@ -1,7 +1,7 @@
 {
   "youtubeId": "N7Vd3AEyFkc",
   "title": "MEZERG - BIRTHDAY",
-  "lastFetched": "2025-12-04T19:45:29.515Z",
+  "lastFetched": "2025-12-04T20:35:07.339Z",
   "ai": {
     "title": "BIRTHDAY",
     "artist": "MEZERG"
@@ -24,5 +24,18 @@
       "wikidata": "Q107169729",
       "youtube": "UCUaQxmkh81tJAWrreHe3CJg"
     }
+  },
+  "lastfm": {
+    "id": "Mezerg/_/Birthday",
+    "listeners": 3363,
+    "playcount": 8003,
+    "title": "Birthday",
+    "artist": "Mezerg",
+    "artistMbid": "d1b53fc3-4223-4c51-a7c4-993fbb5880f8",
+    "tags": [
+      "electronic",
+      "french",
+      "france"
+    ]
   }
 }

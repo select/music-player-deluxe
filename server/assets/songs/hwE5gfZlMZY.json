@@ -1,7 +1,7 @@
 {
   "youtubeId": "hwE5gfZlMZY",
   "title": "THIRD WORLD - 96 DEGREES IN THE SHADE",
-  "lastFetched": "2025-12-04T19:45:27.342Z",
+  "lastFetched": "2025-12-04T20:35:06.101Z",
   "ai": {
     "title": "96 DEGREES IN THE SHADE",
     "artist": "THIRD WORLD"
@@ -25,5 +25,18 @@
       "soundcloud": "https://soundcloud.com/thirdworldband",
       "wikidata": "Q1816034"
     }
+  },
+  "lastfm": {
+    "id": "Third+World/_/96+Degrees+In+The+Shade",
+    "listeners": 18537,
+    "playcount": 54483,
+    "title": "96 Degrees In The Shade",
+    "artist": "Third World",
+    "mbid": "6bb95a2e-0702-3a48-b22c-76c178829957",
+    "artistMbid": "a9355030-319f-4d1b-8798-adaf43f85112",
+    "tags": [
+      "reggae",
+      "roots reggae"
+    ]
   }
 }

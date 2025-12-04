@@ -1,9 +1,62 @@
 {
   "youtubeId": "uRnSdLwcLqU",
   "title": "Cheap Thrills (Sia) on Veena",
-  "lastFetched": "2025-12-04T19:26:33.854Z",
+  "lastFetched": "2025-12-04T20:36:52.904Z",
   "ai": {
     "title": "Cheap Thrills",
     "artist": "Sia"
+  },
+  "musicbrainz": {
+    "trackMbid": "8fcdf7b9-6a1c-40c5-aae0-a489dc8898ef",
+    "artistMbid": "2f548675-008d-4332-876c-108b0c7ab9c5",
+    "releaseCount": 25,
+    "genres": [
+      "indie pop",
+      "indie rock",
+      "pop"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "art pop",
+      "dance-pop",
+      "electropop",
+      "indie pop",
+      "pop"
+    ],
+    "releasedAt": "2015-12-17",
+    "artistCountry": "AU",
+    "externalIdsTrack": {
+      "spotify": "3S4px9f4lceWdKf0gWciFu"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000753742",
+      "discogs": "44758",
+      "spotify": "5WUlDfRSoLAfcVSX1WnrxN",
+      "deezer": "3469",
+      "lastfm": "Sia",
+      "genius": "Sia",
+      "rateyourmusic": "sia",
+      "soundcloud": "https://soundcloud.com/siamusic",
+      "qobuz": "66186",
+      "wikidata": "Q181484",
+      "youtube": "UCaPIRYCKs51kvD4jrbwMH1w"
+    }
+  },
+  "lastfm": {
+    "summary": "\"Cheap Thrills\" is a song by Australian singer and songwriter Sia Furler, taken from her seventh studio album This Is Acting (2016). It was written by Sia and Greg Kurstin, and produced by Kurstin. The remix of the track featuring vocals from Sean Paul was released on 11 February 2016 as the second single from This Is Acting. \"Cheap Thrills\" is a pop song with elements of electropop. The remix of the song featuring Sean Paul contains influences of Jamaican reggae. <a href=\"http://www.last.fm/music/Sia/_/Cheap+Thrills\">Read more on Last.fm</a>.",
+    "id": "Sia/_/Cheap+Thrills",
+    "listeners": 908579,
+    "playcount": 7727518,
+    "tags": [
+      "pop",
+      "dance",
+      "synthpop",
+      "australian",
+      "dancehall"
+    ],
+    "title": "Cheap Thrills",
+    "artist": "Sia",
+    "mbid": "76db241f-7199-421c-91ce-159d6e94a1d8",
+    "artistMbid": "2f548675-008d-4332-876c-108b0c7ab9c5"
   }
 }

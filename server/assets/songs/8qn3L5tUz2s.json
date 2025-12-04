@@ -1,9 +1,37 @@
 {
   "youtubeId": "8qn3L5tUz2s",
   "title": "Audio88 & Yassin - KLINGELTON (Offizielles Video)",
-  "lastFetched": "2025-12-04T18:56:39.358Z",
+  "lastFetched": "2025-12-04T20:35:28.014Z",
   "ai": {
     "title": "KLINGELTON",
     "artist": "Audio88 & Yassin"
+  },
+  "musicbrainz": {
+    "trackMbid": "cfd91cfc-f61b-412b-ad26-7fe3488eccc0",
+    "artistMbid": "af4adb38-884e-4846-a424-7f19143b3f9a",
+    "releaseCount": 5,
+    "releasedAt": "2021-01-08",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "bandcamp": "https://audio88yassin.bandcamp.com/",
+      "discogs": "3015941",
+      "genius": "Audio88-and-yassin",
+      "wikidata": "Q19834913"
+    }
+  },
+  "lastfm": {
+    "id": "Audio88+&+Yassin/_/Klingelton",
+    "listeners": 134,
+    "playcount": 630,
+    "title": "Klingelton",
+    "artist": "Audio88 & Yassin",
+    "mbid": "1de023ba-b276-4cf4-982c-f47b4f282363",
+    "artistMbid": "af4adb38-884e-4846-a424-7f19143b3f9a",
+    "tags": [
+      "musik um sich allein zu betrinken",
+      "deutschrap",
+      "hip hop",
+      "rap"
+    ]
   }
 }

@@ -1,9 +1,32 @@
 {
   "youtubeId": "uJ8oEWMZ0c0",
   "title": "Brothers Moving - Minnie the Moocher (Union Square - NYC) : The Back of the Busk",
-  "lastFetched": "2025-12-04T19:16:00.039Z",
+  "lastFetched": "2025-12-04T20:36:35.495Z",
   "ai": {
     "title": "Minnie the Moocher",
     "artist": "Brothers Moving"
+  },
+  "musicbrainz": {
+    "trackMbid": "db50ec40-c1b3-48b6-9349-bf96e9cd7edc",
+    "artistMbid": "ee05546a-ff96-405e-8ab3-4e84bfd7f431",
+    "releaseCount": 1,
+    "releasedAt": "2021-03-19",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "bandcamp": "https://brothersmoving.bandcamp.com/",
+      "discogs": "5345187",
+      "youtube": "UCB1dKL1SVnSLcg2jVyNGvSA"
+    }
+  },
+  "lastfm": {
+    "id": "Brothers+Moving/_/Minnie+The+Moocher",
+    "listeners": 30964,
+    "playcount": 169276,
+    "title": "Minnie The Moocher",
+    "artist": "Brothers Moving",
+    "artistMbid": "ee05546a-ff96-405e-8ab3-4e84bfd7f431",
+    "tags": [
+      "my top songs"
+    ]
   }
 }

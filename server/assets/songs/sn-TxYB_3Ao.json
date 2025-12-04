@@ -1,9 +1,42 @@
 {
   "youtubeId": "sn-TxYB_3Ao",
   "title": "FURY IN THE SLAUGHTERHOUSE - \"Every Generation Got It's Own Disease\" (Offizielles Video)",
-  "lastFetched": "2025-12-04T19:04:55.493Z",
+  "lastFetched": "2025-12-04T20:35:55.432Z",
   "ai": {
     "title": "Every Generation Got It's Own Disease",
     "artist": "FURY IN THE SLAUGHTERHOUSE"
+  },
+  "musicbrainz": {
+    "trackMbid": "5af9fc06-8ff5-4abd-93c6-f38480ef4056",
+    "artistMbid": "8ebd50fe-f263-4fd6-9c24-de587585ef77",
+    "releaseCount": 1,
+    "artistGenres": [
+      "rock"
+    ],
+    "releasedAt": "2004",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000192620",
+      "discogs": "258161",
+      "spotify": "6eswqLpEm9AhDIguGzRswT",
+      "deezer": "3394",
+      "lastfm": "Fury+In+The+Slaughterhouse",
+      "rateyourmusic": "fury_in_the_slaughterhouse",
+      "wikidata": "Q314029"
+    }
+  },
+  "lastfm": {
+    "id": "Fury+In+The+Slaughterhouse/_/Every+Generation+Got+It%27s+Own+Disease",
+    "listeners": 2687,
+    "playcount": 9340,
+    "title": "Every Generation Got It's Own Disease",
+    "artist": "Fury In The Slaughterhouse",
+    "mbid": "6ea91086-6abd-4962-91dd-5dfefc7bf779",
+    "tags": [
+      "rock",
+      "german",
+      "alternative rock",
+      "alternative"
+    ]
   }
 }

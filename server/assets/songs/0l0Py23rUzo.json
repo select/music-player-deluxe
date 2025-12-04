@@ -1,0 +1,49 @@
+{
+  "youtubeId": "0l0Py23rUzo",
+  "title": "Roo Panes  - I'll Move Mountains",
+  "lastFetched": "2025-12-04T20:37:53.525Z",
+  "ai": {
+    "title": "I'll Move Mountains",
+    "artist": "Roo Panes"
+  },
+  "musicbrainz": {
+    "trackMbid": "f79f6f81-d909-4778-a5e0-8af79dc76849",
+    "artistMbid": "f01f4e0c-20c7-44fb-b549-d353c94bef55",
+    "releaseCount": 1,
+    "artistGenres": [
+      "classical",
+      "folk",
+      "pop"
+    ],
+    "releasedAt": "2012-04-10",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003295714",
+      "bandcamp": "https://roopanes.bandcamp.com/",
+      "discogs": "3962785",
+      "spotify": "0XHM5ZNJDU8e4CfbWMeSzC",
+      "deezer": "808664",
+      "lastfm": "Roo+Panes",
+      "genius": "Roo-panes",
+      "rateyourmusic": "roo_panes",
+      "soundcloud": "https://soundcloud.com/roo-panes",
+      "wikidata": "Q16232840"
+    }
+  },
+  "lastfm": {
+    "id": "Roo+Panes/_/I%27ll+Move+Mountains",
+    "listeners": 19841,
+    "playcount": 49874,
+    "title": "I'll Move Mountains",
+    "artist": "Roo Panes",
+    "mbid": "a0d9b085-6884-4c16-b813-71982291e14e",
+    "artistMbid": "f01f4e0c-20c7-44fb-b549-d353c94bef55",
+    "tags": [
+      "folk",
+      "singer-songwriter",
+      "acoustic",
+      "indie",
+      "british"
+    ]
+  }
+}

@@ -1,9 +1,53 @@
 {
   "youtubeId": "Q5rg_63Shqg",
   "title": "JINJER - Judgement (& Punishment) - Tatiana Shmayluk - One Take Vocal Performance",
-  "lastFetched": "2025-12-04T19:00:02.155Z",
+  "lastFetched": "2025-12-04T20:35:38.863Z",
   "ai": {
     "title": "Judgement (& Punishment)",
     "artist": "JINJER"
+  },
+  "musicbrainz": {
+    "trackMbid": "0eb8ae45-0090-484a-8c17-27a56c3f3b9c",
+    "artistMbid": "51b37017-859c-465e-8810-2d2dd41a401e",
+    "releaseCount": 5,
+    "artistGenres": [
+      "groove metal",
+      "heavy metal",
+      "metal",
+      "metalcore",
+      "progressive metal",
+      "progressive metalcore"
+    ],
+    "releasedAt": "2019-10-11",
+    "artistCountry": "UA",
+    "externalIdsArtist": {
+      "allmusic": "mn0003517752",
+      "bandcamp": "https://jinjer-jinjer.bandcamp.com/",
+      "discogs": "4309973",
+      "spotify": "7o6cOczXTB8ioTAAJTbESf",
+      "deezer": "2544561",
+      "lastfm": "Jinjer",
+      "genius": "Jinjer",
+      "rateyourmusic": "jinjer",
+      "soundcloud": "https://soundcloud.com/jinjermetal",
+      "wikidata": "Q12071385",
+      "youtube": "UCiwWdRzbLYheWL8MD1Sn8oQ"
+    }
+  },
+  "lastfm": {
+    "id": "Jinjer/_/Judgement+(&+Punishment)",
+    "listeners": 56515,
+    "playcount": 419259,
+    "title": "Judgement (& Punishment)",
+    "artist": "Jinjer",
+    "mbid": "66331af8-04dc-4c5f-9071-da5726b65ab1",
+    "artistMbid": "37625867-1e7b-466a-9fe9-0da145a1ca2c",
+    "tags": [
+      "progressive metal",
+      "progressive",
+      "metalcore",
+      "groove metal",
+      "raggae"
+    ]
   }
 }

@@ -1,0 +1,56 @@
+{
+  "youtubeId": "YCqG9B8j-cI",
+  "title": "IGORRR - DOWNGRADE  DESERT",
+  "lastFetched": "2025-12-04T20:38:18.617Z",
+  "ai": {
+    "title": "DOWNGRADE DESERT",
+    "artist": "Igorrr"
+  },
+  "lastfm": {
+    "id": "Igorrr/_/Downgrade+Desert",
+    "listeners": 62055,
+    "playcount": 484996,
+    "title": "Downgrade Desert",
+    "artist": "Igorrr",
+    "mbid": "43b60f1c-064c-4bc2-9c94-af89026d166d",
+    "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73",
+    "tags": [
+      "importado_do_spotify",
+      "progressive metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "5f4f9f29-5686-4bfe-abaf-979f630b78f0",
+    "artistMbid": "aec46991-e896-4c1f-80cc-aed97b0cdc73",
+    "releaseCount": 25,
+    "artistGenres": [
+      "avant-garde",
+      "avant-garde metal",
+      "baroque",
+      "breakcore",
+      "death metal",
+      "electronic",
+      "experimental",
+      "idm"
+    ],
+    "releasedAt": "2020-03-27",
+    "artistCountry": "FR",
+    "externalIdsTrack": {
+      "spotify": "79xLxZrpdURjzJmdHKB85a",
+      "deezer": "835105662"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0002587287",
+      "bandcamp": "https://igorrr.bandcamp.com/",
+      "discogs": "1028023",
+      "spotify": "2p2uE4i92Dn4DkThfoKIB9",
+      "deezer": "1025520",
+      "lastfm": "Igorrr",
+      "genius": "Igorrr",
+      "rateyourmusic": "igorrr",
+      "soundcloud": "https://soundcloud.com/igorrr",
+      "wikidata": "Q2486120",
+      "youtube": "UC7gJRij98IY_nFfFDrld8yQ"
+    }
+  }
+}

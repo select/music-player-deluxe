@@ -1,9 +1,83 @@
 {
   "youtubeId": "VGPYO0mzmBQ",
   "title": "björk : isobel (HD)",
-  "lastFetched": "2025-12-04T19:41:18.058Z",
+  "lastFetched": "2025-12-04T20:37:16.660Z",
   "ai": {
     "title": "isobel",
     "artist": "björk"
+  },
+  "musicbrainz": {
+    "trackMbid": "a8a9353c-9774-44ee-8dc7-a5fef11ee1c5",
+    "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
+    "releaseCount": 8,
+    "genres": [
+      "alternative rock",
+      "ambient",
+      "electronic",
+      "grunge",
+      "pop",
+      "rock",
+      "trip hop"
+    ],
+    "artistGenres": [
+      "alternative dance",
+      "alternative pop",
+      "alternative rock",
+      "ambient",
+      "art pop",
+      "avant-garde",
+      "avant-garde pop",
+      "baroque pop",
+      "club",
+      "dance",
+      "downtempo",
+      "edm",
+      "electronic",
+      "electronica",
+      "experimental",
+      "experimental rock",
+      "folktronica",
+      "future bass",
+      "house",
+      "idm",
+      "latin",
+      "leftfield",
+      "pop",
+      "progressive pop",
+      "rock",
+      "trap",
+      "trip hop"
+    ],
+    "releasedAt": "2003-08-18",
+    "artistCountry": "IS",
+    "externalIdsArtist": {
+      "allmusic": "mn0000769444",
+      "bandcamp": "https://bjork.bandcamp.com/",
+      "discogs": "517951",
+      "spotify": "7w29UYBi0qsHi5RTcv3lmA",
+      "deezer": "630",
+      "lastfm": "Bj%C3%B6rk",
+      "genius": "Bjork",
+      "rateyourmusic": "bjork",
+      "soundcloud": "https://soundcloud.com/bjork",
+      "wikidata": "Q42455",
+      "youtube": "UCAjidy3vxRkgGVNIFqZMl_Q"
+    }
+  },
+  "lastfm": {
+    "summary": "\"This is the story of Isobel; she was born in a forest by a spark, and as she grew up, she realized that the pebbles on the forest floor were actually skyscrapers. And by the time she was a grown-up woman and the skyscrapers had taken over the forest. She found herself in a city, and she didn't like all the people there so much, because they were a bit too clever for her.\"\n\nIsobel was written by Björk, Nellee Hooper and Marius De Vries, and the lyrics were made by Sjón - his very first songlyric in fact. <a href=\"http://www.last.fm/music/Bj%C3%B6rk/_/Isobel\">Read more on Last.fm</a>.",
+    "id": "Bj%C3%B6rk/_/Isobel",
+    "listeners": 563898,
+    "playcount": 3347070,
+    "title": "Isobel",
+    "artist": "Björk",
+    "mbid": "700b1dac-44a0-4c85-be89-87fbcbf558be",
+    "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
+    "tags": [
+      "lush",
+      "electronic",
+      "alternative",
+      "female vocalists"
+    ]
   }
 }

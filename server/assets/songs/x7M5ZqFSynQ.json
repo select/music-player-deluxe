@@ -1,9 +1,19 @@
 {
   "youtubeId": "x7M5ZqFSynQ",
   "title": "VOCES8 - May it Be (Enya/Lord of the Rings) - VOCES8 'Enchanted Isle'",
-  "lastFetched": "2025-12-04T18:58:06.644Z",
+  "lastFetched": "2025-12-04T20:35:33.944Z",
   "ai": {
     "title": "May it Be (Enya/Lord of the Rings)",
     "artist": "VOCES8"
+  },
+  "lastfm": {
+    "id": "Voces8/_/May+it+Be+(Enya%2FLord+of+the+Rings)",
+    "listeners": 43,
+    "playcount": 98,
+    "title": "May it Be (Enya/Lord of the Rings)",
+    "artist": "Voces8",
+    "tags": [
+      "classical"
+    ]
   }
 }

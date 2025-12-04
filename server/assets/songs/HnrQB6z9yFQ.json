@@ -1,0 +1,37 @@
+{
+  "youtubeId": "HnrQB6z9yFQ",
+  "title": "Kaleidoscope Orchestra - Eminem Suite",
+  "lastFetched": "2025-12-04T20:38:04.073Z",
+  "ai": {
+    "title": "Eminem Suite",
+    "artist": "Kaleidoscope Orchestra"
+  },
+  "musicbrainz": {
+    "trackMbid": "39f841ee-8baf-4188-a83c-d8c60aec445a",
+    "artistMbid": "c320cf63-e9dd-4c2e-b4bc-37a0cca6b645",
+    "releaseCount": 1,
+    "releasedAt": "2020-05-01",
+    "externalIdsArtist": {
+      "bandcamp": "https://kaleidoscopeorchestra.bandcamp.com/",
+      "discogs": "4754575",
+      "spotify": "3eFu6B7snC9ZwWbZ3fIgwj",
+      "deezer": "53190972",
+      "lastfm": "Kaleidoscope+Orchestra"
+    }
+  },
+  "lastfm": {
+    "id": "Kaleidoscope+Orchestra/_/Eminem+Suite",
+    "listeners": 52,
+    "playcount": 120,
+    "title": "Eminem Suite",
+    "artist": "Kaleidoscope Orchestra",
+    "mbid": "5c1192ec-cd45-4089-9c2a-e365e9b96f59",
+    "artistMbid": "c320cf63-e9dd-4c2e-b4bc-37a0cca6b645",
+    "tags": [
+      "instrumental",
+      "classical",
+      "orchestra",
+      "classical music"
+    ]
+  }
+}

@@ -1,9 +1,52 @@
 {
   "youtubeId": "i6G53BMgugo",
   "title": "Stevie Ray Vaughan - Little Wing (07/11/1983)",
-  "lastFetched": "2025-12-04T18:59:35.621Z",
+  "lastFetched": "2025-12-04T20:35:37.639Z",
   "ai": {
     "title": "Little Wing",
     "artist": "Stevie Ray Vaughan"
+  },
+  "musicbrainz": {
+    "trackMbid": "98665f98-adfd-498d-873a-ec73251f1062",
+    "artistMbid": "f5426431-f490-4678-ad44-a75c71097bb4",
+    "releaseCount": 2,
+    "genres": [
+      "blues"
+    ],
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "electric blues",
+      "electric texas blues",
+      "texas blues"
+    ],
+    "releasedAt": "1994",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000625739",
+      "discogs": "137225",
+      "spotify": "5fsDcuclIe8ZiBD5P787K1",
+      "deezer": "12297",
+      "lastfm": "Stevie+Ray+Vaughan",
+      "rateyourmusic": "stevie_ray_vaughan",
+      "wikidata": "Q202937"
+    }
+  },
+  "lastfm": {
+    "summary": "Cover of The Jimi Hendrix Experience's Little Wing. <a href=\"http://www.last.fm/music/Stevie+Ray+Vaughan/_/Little+Wing\">Read more on Last.fm</a>.",
+    "id": "Stevie+Ray+Vaughan/_/Little+Wing",
+    "listeners": 273022,
+    "playcount": 1222116,
+    "title": "Little Wing",
+    "artist": "Stevie Ray Vaughan",
+    "mbid": "342411a0-7c35-4f50-8322-fd5a430705a6",
+    "artistMbid": "f5426431-f490-4678-ad44-a75c71097bb4",
+    "tags": [
+      "blues",
+      "blues rock",
+      "guitar",
+      "instrumental",
+      "guitar virtuoso"
+    ]
   }
 }

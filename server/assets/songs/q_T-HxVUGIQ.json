@@ -1,7 +1,7 @@
 {
   "youtubeId": "q_T-HxVUGIQ",
   "title": "Fünf Sterne deluxe - Dein Herz schlägt schneller",
-  "lastFetched": "2025-12-04T19:45:09.859Z",
+  "lastFetched": "2025-12-04T20:35:03.280Z",
   "ai": {
     "title": "Dein Herz schlägt schneller",
     "artist": "Fünf Sterne deluxe"
@@ -28,5 +28,18 @@
       "wikidata": "Q686687",
       "youtube": "UCe6GltCxiizB7F03LlrVHCg"
     }
+  },
+  "lastfm": {
+    "id": "F%C3%BCnf+Sterne+Deluxe/_/Dein+Herz+schl%C3%A4gt+schneller",
+    "listeners": 33594,
+    "playcount": 136973,
+    "title": "Dein Herz schlägt schneller",
+    "artist": "Fünf Sterne Deluxe",
+    "mbid": "68e17a85-8dd3-3d75-876b-ce1aa8f60ef8",
+    "tags": [
+      "hip hop",
+      "german hip hop",
+      "german"
+    ]
   }
 }

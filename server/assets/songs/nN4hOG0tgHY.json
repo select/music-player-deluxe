@@ -1,9 +1,48 @@
 {
   "youtubeId": "nN4hOG0tgHY",
   "title": "Arlo Guthrie - Coming into Los Angeles [Woodstock]",
-  "lastFetched": "2025-12-04T18:57:43.785Z",
+  "lastFetched": "2025-12-04T20:35:32.632Z",
   "ai": {
     "title": "Coming into Los Angeles",
     "artist": "Arlo Guthrie"
+  },
+  "musicbrainz": {
+    "trackMbid": "da3df4fb-0bfa-40d9-a1ca-2767d4f46b46",
+    "artistMbid": "b8efe8ac-45db-4a71-bb51-c1503986172f",
+    "releaseCount": 16,
+    "genres": [
+      "classic rock"
+    ],
+    "artistGenres": [
+      "folk"
+    ],
+    "releasedAt": "1970-05-05",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000927736",
+      "discogs": "153674",
+      "spotify": "0B6QEFtRnneEzb4iqjI0Nw",
+      "deezer": "4341",
+      "genius": "Arlo-guthrie",
+      "rateyourmusic": "arlo_guthrie",
+      "wikidata": "Q552925"
+    }
+  },
+  "lastfm": {
+    "summary": "“Coming Into Los Angeles” is a song written by American musician Arlo Guthrie that he recorded for his 1969 album \"Running Down the Road\". He performed the song at the 1969 Woodstock festival. <a href=\"http://www.last.fm/music/Arlo+Guthrie/_/Coming+Into+Los+Angeles\">Read more on Last.fm</a>.",
+    "id": "Arlo+Guthrie/_/Coming+Into+Los+Angeles",
+    "listeners": 37185,
+    "playcount": 168946,
+    "title": "Coming Into Los Angeles",
+    "artist": "Arlo Guthrie",
+    "mbid": "7ccab59c-7e36-4b5c-8a15-1d03d0e43973",
+    "artistMbid": "b8efe8ac-45db-4a71-bb51-c1503986172f",
+    "tags": [
+      "folk",
+      "folk rock",
+      "60s",
+      "woodstock",
+      "arlo guthrie"
+    ]
   }
 }

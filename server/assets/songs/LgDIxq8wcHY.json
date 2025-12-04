@@ -1,9 +1,37 @@
 {
   "youtubeId": "LgDIxq8wcHY",
   "title": "Audio88 & Yassin - WUP (prod. Drunken Masters) [Offizielles Video]",
-  "lastFetched": "2025-12-04T18:55:51.795Z",
+  "lastFetched": "2025-12-04T20:35:25.454Z",
   "ai": {
     "title": "WUP",
     "artist": "Audio88 & Yassin"
+  },
+  "musicbrainz": {
+    "trackMbid": "aa87dfc8-0c92-4184-8574-914582293038",
+    "artistMbid": "af4adb38-884e-4846-a424-7f19143b3f9a",
+    "releaseCount": 5,
+    "releasedAt": "2020-12-03",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "bandcamp": "https://audio88yassin.bandcamp.com/",
+      "discogs": "3015941",
+      "genius": "Audio88-and-yassin",
+      "wikidata": "Q19834913"
+    }
+  },
+  "lastfm": {
+    "id": "Audio88+&+Yassin/_/WUP",
+    "listeners": 157,
+    "playcount": 746,
+    "title": "WUP",
+    "artist": "Audio88 & Yassin",
+    "mbid": "2bba5234-7288-4383-b76d-1abec83725dd",
+    "artistMbid": "af4adb38-884e-4846-a424-7f19143b3f9a",
+    "tags": [
+      "musik um sich allein zu betrinken",
+      "deutschrap",
+      "hip hop",
+      "rap"
+    ]
   }
 }

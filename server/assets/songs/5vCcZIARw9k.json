@@ -1,9 +1,34 @@
 {
   "youtubeId": "5vCcZIARw9k",
   "title": "Jon Gomm - Ain't Nobody (Chaka Khan)",
-  "lastFetched": "2025-12-04T19:10:12.040Z",
+  "lastFetched": "2025-12-04T20:36:14.607Z",
   "ai": {
     "title": "Ain't Nobody (Chaka Khan)",
     "artist": "Jon Gomm"
+  },
+  "musicbrainz": {
+    "trackMbid": "4f1a2f2f-89d8-479c-b39f-0ae89924b85a",
+    "artistMbid": "eb9c78a5-d7f0-49c1-b887-1aa983ddb84a",
+    "releaseCount": 1,
+    "releasedAt": "2013-03-11",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "1216628",
+      "lastfm": "Jon+Gomm",
+      "wikidata": "Q3809859"
+    }
+  },
+  "lastfm": {
+    "id": "Jon+Gomm/_/Ain%27t+Nobody+(Chaka+Khan)",
+    "listeners": 392,
+    "playcount": 1191,
+    "title": "Ain't Nobody (Chaka Khan)",
+    "artist": "Jon Gomm",
+    "tags": [
+      "acoustic",
+      "experimental",
+      "acoustic guitar",
+      "alternative"
+    ]
   }
 }

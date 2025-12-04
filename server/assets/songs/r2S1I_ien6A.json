@@ -1,9 +1,45 @@
 {
   "youtubeId": "r2S1I_ien6A",
   "title": "\"SING, SING, SING\" BY BENNY GOODMAN",
-  "lastFetched": "2025-12-04T19:33:46.838Z",
+  "lastFetched": "2025-12-04T20:37:04.783Z",
   "ai": {
     "title": "SING, SING, SING",
     "artist": "Benny Goodman"
+  },
+  "musicbrainz": {
+    "trackMbid": "001f6f87-af06-4101-8b8a-dd7ff0d12498",
+    "artistMbid": "b09ae88f-4156-4caa-b129-1cacb5e1632e",
+    "releaseCount": 3,
+    "artistGenres": [
+      "big band",
+      "jazz",
+      "swing"
+    ],
+    "releasedAt": "1999",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000163133",
+      "discogs": "254768",
+      "spotify": "1pBuKaLHJlIlqYxQQaflve",
+      "deezer": "151999",
+      "lastfm": "Benny%20Goodman",
+      "rateyourmusic": "benny_goodman",
+      "wikidata": "Q46755"
+    }
+  },
+  "lastfm": {
+    "summary": "\"Sing, Sing, Sing (With a Swing)\" is a 1936 song, written by Louis Prima, that has become one of the definitive songs of the big band and swing era. Although written by Prima, it is often most associated with Benny Goodman. The song has since been covered by numerous artists. It was used in the Broadway Musical Swing!\n\nOn July 6, 1937, \"Sing, Sing, Sing\" was recorded in Hollywood with Benny Goodman on clarinet; Harry James, Ziggy Elman, and Chris <a href=\"http://www.last.fm/music/Benny+Goodman/_/Sing,+Sing,+Sing\">Read more on Last.fm</a>.",
+    "id": "Benny+Goodman/_/Sing,+Sing,+Sing",
+    "listeners": 194355,
+    "playcount": 668789,
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "artistMbid": "b09ae88f-4156-4caa-b129-1cacb5e1632e",
+    "tags": [
+      "swing",
+      "jazz",
+      "big band",
+      "30s"
+    ]
   }
 }

@@ -1,9 +1,23 @@
 {
   "youtubeId": "axGCI3hIXBE",
   "title": "Elton John - Rocket Man '03 Remix (Featured in Californication)",
-  "lastFetched": "2025-12-04T15:42:21.675Z",
+  "lastFetched": "2025-12-04T20:35:15.455Z",
   "ai": {
     "title": "Rocket Man '03 Remix",
     "artist": "Elton John"
+  },
+  "lastfm": {
+    "id": "Elton+John/_/Rocket+Man+%2703+Remix",
+    "listeners": 22,
+    "playcount": 399,
+    "title": "Rocket Man '03 Remix",
+    "artist": "Elton John",
+    "tags": [
+      "pop",
+      "classic rock",
+      "singer-songwriter",
+      "rock",
+      "piano"
+    ]
   }
 }

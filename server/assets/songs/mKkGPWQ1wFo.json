@@ -1,0 +1,59 @@
+{
+  "youtubeId": "mKkGPWQ1wFo",
+  "title": "Paolo Nutini - One Day [Official Acoustic]",
+  "lastFetched": "2025-12-04T20:51:20.096Z",
+  "ai": {
+    "title": "One Day",
+    "artist": "Paolo Nutini"
+  },
+  "lastfm": {
+    "id": "Paolo+Nutini/_/One+Day",
+    "listeners": 65947,
+    "playcount": 334287,
+    "title": "One Day",
+    "artist": "Paolo Nutini",
+    "mbid": "95d68da6-4f53-40ef-9d56-9b0da0e2fee8",
+    "artistMbid": "24ea074c-59cc-41c5-a5de-f68c2952965f",
+    "tags": [
+      "soul",
+      "scottish"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ffec1909-9948-417d-8683-32895d0e5366",
+    "artistMbid": "24ea074c-59cc-41c5-a5de-f68c2952965f",
+    "releaseCount": 7,
+    "genres": [
+      "r&b"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "blues",
+      "folk rock",
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "releasedAt": "2014-04-11",
+    "artistCountry": "GB",
+    "externalIdsTrack": {
+      "spotify": "6zBvJVbzOTqTu8czVNoStG",
+      "deezer": "76542235"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000573391",
+      "bandcamp": "https://paolonutini.bandcamp.com/",
+      "discogs": "663132",
+      "spotify": "7x5rK9BClDQ8wmCkYAGsQp",
+      "deezer": "5913",
+      "lastfm": "Paolo%20Nutini",
+      "genius": "Paolo-nutini",
+      "rateyourmusic": "paolo_nutini",
+      "soundcloud": "https://soundcloud.com/paolo-nutini",
+      "qobuz": "59836",
+      "napster": "art.11368415",
+      "wikidata": "Q313704",
+      "youtube": "UCeqPMxaoauKH3hYNzFacCrw"
+    }
+  }
+}

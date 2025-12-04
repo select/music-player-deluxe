@@ -1,9 +1,22 @@
 {
   "youtubeId": "MDMiLcpXPk8",
   "title": "Panda Dub - Born 2 Dub - Full Album",
-  "lastFetched": "2025-12-04T15:28:14.527Z",
+  "lastFetched": "2025-12-04T20:52:02.427Z",
   "ai": {
     "title": "Born 2 Dub",
     "artist": "Panda Dub"
+  },
+  "lastfm": {
+    "id": "Panda+Dub/_/Born+2+Dub",
+    "listeners": 151,
+    "playcount": 490,
+    "title": "Born 2 Dub",
+    "artist": "Panda Dub",
+    "tags": [
+      "dub",
+      "french",
+      "electro dub",
+      "dubstep"
+    ]
   }
 }

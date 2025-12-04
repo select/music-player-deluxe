@@ -1,9 +1,33 @@
 {
   "youtubeId": "2EaflX0MWRo",
   "title": "Four Tops - Reach Out (I'll Be There) (1967) HD 0815007",
-  "lastFetched": "2025-12-04T19:20:10.891Z",
+  "lastFetched": "2025-12-04T19:50:38.119Z",
   "ai": {
     "title": "Reach Out (I'll Be There)",
     "artist": "Four Tops"
+  },
+  "musicbrainz": {
+    "trackMbid": "2660aaba-a6bc-48e4-b330-eeb8daddd6ca",
+    "artistMbid": "0d21b01f-21f2-419b-8d98-4158ba0c0aa4",
+    "releaseCount": 2,
+    "artistGenres": [
+      "funk",
+      "motown",
+      "pop soul",
+      "r&b",
+      "smooth soul",
+      "soul"
+    ],
+    "releasedAt": "1998-01-27",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000071812",
+      "discogs": "86093",
+      "spotify": "7fIvjotigTGWqjIz6EP1i4",
+      "deezer": "2938",
+      "lastfm": "The+Four+Tops",
+      "rateyourmusic": "four_tops",
+      "wikidata": "Q653480"
+    }
   }
 }

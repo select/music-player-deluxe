@@ -1,9 +1,22 @@
 {
   "youtubeId": "CWki-Jac8H0",
   "title": "Vadrum - Classical Drumming - Out Now!",
-  "lastFetched": "2025-12-04T19:33:15.643Z",
+  "lastFetched": "2025-12-04T20:37:03.305Z",
   "ai": {
     "title": "Classical Drumming",
     "artist": "Vadrum"
+  },
+  "lastfm": {
+    "id": "Vadrum/_/Classical+Drumming",
+    "listeners": 26,
+    "playcount": 56,
+    "title": "Classical Drumming",
+    "artist": "Vadrum",
+    "tags": [
+      "instrumental",
+      "drums",
+      "classical",
+      "classical drums"
+    ]
   }
 }
