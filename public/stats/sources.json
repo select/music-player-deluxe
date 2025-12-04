@@ -4,15 +4,15 @@
       "url": "https://musicbrainz.org",
       "name": "MusicBrainz",
       "summary": "Open music encyclopedia providing track, artist, and release metadata including genres and tags",
-      "items": 2784,
-      "tags": 638
+      "items": 2807,
+      "tags": 639
     },
     "lastfm": {
       "url": "https://www.last.fm",
       "name": "Last.fm",
       "summary": "Music service providing listening statistics, tags, summaries, and community data",
-      "items": 3342,
-      "tags": 2234
+      "items": 3439,
+      "tags": 2285
     },
     "odesli": {
       "url": "https://odesli.co",
@@ -29,9 +29,13 @@
   },
   "playlist": {
     "items": 4160,
-    "itemsWithTags": 3248,
-    "itemsWithExternalIds": 3529,
+    "itemsWithTags": 3332,
+    "itemsWithExternalIds": 3628,
     "externalIdsByPlatform": {
+      "lastfm": 3434,
+      "musicbrainz": 2726,
+      "musicbrainz-track": 1142,
+      "musicbrainz-artist": 2893,
       "amazonMusic": 2230,
       "amazonStore": 2230,
       "soundcloud": 2007,
@@ -39,12 +43,8 @@
       "tidal": 2018,
       "youtube": 2430,
       "youtubeMusic": 2430,
-      "musicbrainz": 2669,
-      "musicbrainz-artist": 2832,
-      "lastfm": 3337,
       "anghami": 852,
       "pandora": 1659,
-      "musicbrainz-track": 1101,
       "appleMusic": 1202,
       "itunes": 1202,
       "audiomack": 390,
@@ -58,170 +58,174 @@
     "topTags": [
       {
         "tag": "rock",
-        "count": 881
+        "count": 902
       },
       {
         "tag": "electronic",
-        "count": 687
+        "count": 701
       },
       {
         "tag": "pop",
-        "count": 439
+        "count": 456
       },
       {
         "tag": "alternative rock",
-        "count": 376
+        "count": 382
       },
       {
         "tag": "alternative",
-        "count": 290
+        "count": 296
       },
       {
         "tag": "jazz",
-        "count": 286
+        "count": 290
       },
       {
         "tag": "hip hop",
-        "count": 243
+        "count": 254
       },
       {
         "tag": "german",
-        "count": 237
+        "count": 245
       },
       {
         "tag": "indie",
-        "count": 236
+        "count": 241
       },
       {
         "tag": "indie rock",
-        "count": 223
+        "count": 226
       },
       {
         "tag": "hard rock",
-        "count": 195
+        "count": 198
       },
       {
         "tag": "folk",
-        "count": 186
+        "count": 190
       },
       {
         "tag": "classic rock",
-        "count": 183
+        "count": 189
       },
       {
         "tag": "pop rock",
-        "count": 181
+        "count": 185
       },
       {
         "tag": "experimental",
-        "count": 165
+        "count": 169
       },
       {
         "tag": "funk",
-        "count": 153
-      },
-      {
-        "tag": "80s",
-        "count": 146
-      },
-      {
-        "tag": "soul",
-        "count": 145
-      },
-      {
-        "tag": "metal",
-        "count": 145
+        "count": 159
       },
       {
         "tag": "dance",
+        "count": 152
+      },
+      {
+        "tag": "soul",
+        "count": 150
+      },
+      {
+        "tag": "metal",
+        "count": 148
+      },
+      {
+        "tag": "80s",
+        "count": 147
+      },
+      {
+        "tag": "instrumental",
+        "count": 146
+      },
+      {
+        "tag": "singer songwriter",
         "count": 141
       },
       {
         "tag": "ambient",
-        "count": 137
+        "count": 138
       },
       {
-        "tag": "instrumental",
-        "count": 136
-      },
-      {
-        "tag": "singer songwriter",
-        "count": 136
+        "tag": "rap",
+        "count": 138
       },
       {
         "tag": "drum and bass",
         "count": 133
       },
       {
-        "tag": "rap",
+        "tag": "female vocalist",
         "count": 132
       },
       {
         "tag": "punk",
-        "count": 129
-      },
-      {
-        "tag": "female vocalist",
-        "count": 128
+        "count": 130
       },
       {
         "tag": "house",
-        "count": 121
+        "count": 124
       },
       {
         "tag": "techno",
-        "count": 121
+        "count": 124
       },
       {
         "tag": "blues",
-        "count": 117
+        "count": 123
       },
       {
         "tag": "progressive rock",
-        "count": 114
+        "count": 118
       },
       {
         "tag": "reggae",
-        "count": 109
-      },
-      {
-        "tag": "psychedelic rock",
-        "count": 106
+        "count": 113
       },
       {
         "tag": "blues rock",
-        "count": 105
+        "count": 112
+      },
+      {
+        "tag": "psychedelic rock",
+        "count": 107
       },
       {
         "tag": "downtempo",
-        "count": 100
+        "count": 101
+      },
+      {
+        "tag": "indie pop",
+        "count": 99
       },
       {
         "tag": "70s",
-        "count": 98
+        "count": 99
+      },
+      {
+        "tag": "synth pop",
+        "count": 99
       },
       {
         "tag": "new wave",
         "count": 96
       },
       {
-        "tag": "synth pop",
-        "count": 96
-      },
-      {
-        "tag": "indie pop",
-        "count": 95
-      },
-      {
         "tag": "dubstep",
         "count": 92
       },
       {
-        "tag": "psychedelic",
-        "count": 88
+        "tag": "heavy metal",
+        "count": 90
       },
       {
-        "tag": "heavy metal",
+        "tag": "psychedelic",
+        "count": 89
+      },
+      {
+        "tag": "90s",
         "count": 87
       },
       {
@@ -229,32 +233,28 @@
         "count": 86
       },
       {
-        "tag": "90s",
-        "count": 85
-      },
-      {
         "tag": "chillout",
         "count": 80
+      },
+      {
+        "tag": "rnb",
+        "count": 79
+      },
+      {
+        "tag": "folk rock",
+        "count": 79
       },
       {
         "tag": "dub",
         "count": 79
       },
       {
-        "tag": "folk rock",
-        "count": 78
-      },
-      {
         "tag": "punk rock",
         "count": 75
       },
       {
-        "tag": "rnb",
-        "count": 73
-      },
-      {
         "tag": "art rock",
-        "count": 73
+        "count": 75
       }
     ],
     "topTagsByUser": {
@@ -262,7 +262,7 @@
         "tags": [
           {
             "tag": "electronic",
-            "count": 6
+            "count": 7
           },
           {
             "tag": "jazz",
@@ -289,15 +289,15 @@
             "count": 3
           },
           {
+            "tag": "edm",
+            "count": 2
+          },
+          {
             "tag": "jazz funk",
             "count": 2
           },
           {
             "tag": "hip hop",
-            "count": 2
-          },
-          {
-            "tag": "dance",
             "count": 2
           }
         ],
@@ -307,10 +307,18 @@
         "tags": [
           {
             "tag": "electronic",
-            "count": 17
+            "count": 19
           },
           {
             "tag": "hip hop",
+            "count": 14
+          },
+          {
+            "tag": "pop",
+            "count": 12
+          },
+          {
+            "tag": "dance",
             "count": 11
           },
           {
@@ -318,31 +326,23 @@
             "count": 10
           },
           {
-            "tag": "pop",
-            "count": 9
-          },
-          {
-            "tag": "dance",
-            "count": 7
-          },
-          {
             "tag": "rap",
-            "count": 7
+            "count": 10
           },
           {
             "tag": "house",
+            "count": 7
+          },
+          {
+            "tag": "rock",
             "count": 6
           },
           {
-            "tag": "dubstep",
-            "count": 4
-          },
-          {
-            "tag": "soul",
-            "count": 4
-          },
-          {
             "tag": "german",
+            "count": 5
+          },
+          {
+            "tag": "reggae",
             "count": 4
           }
         ],
@@ -352,31 +352,31 @@
         "tags": [
           {
             "tag": "rock",
-            "count": 273
+            "count": 278
           },
           {
             "tag": "electronic",
-            "count": 228
+            "count": 236
           },
           {
             "tag": "pop",
-            "count": 145
+            "count": 151
           },
           {
             "tag": "alternative rock",
-            "count": 104
+            "count": 106
           },
           {
             "tag": "alternative",
-            "count": 87
+            "count": 90
           },
           {
             "tag": "jazz",
-            "count": 78
+            "count": 80
           },
           {
             "tag": "indie",
-            "count": 74
+            "count": 76
           },
           {
             "tag": "hard rock",
@@ -384,11 +384,11 @@
           },
           {
             "tag": "hip hop",
-            "count": 68
+            "count": 72
           },
           {
             "tag": "german",
-            "count": 66
+            "count": 68
           }
         ],
         "totalSongs": 1416
@@ -397,15 +397,15 @@
         "tags": [
           {
             "tag": "rock",
-            "count": 138
+            "count": 141
           },
           {
             "tag": "alternative rock",
-            "count": 90
+            "count": 92
           },
           {
             "tag": "indie rock",
-            "count": 74
+            "count": 75
           },
           {
             "tag": "alternative",
@@ -417,11 +417,11 @@
           },
           {
             "tag": "pop",
-            "count": 50
+            "count": 52
           },
           {
             "tag": "punk",
-            "count": 24
+            "count": 25
           },
           {
             "tag": "electronic",
@@ -433,7 +433,7 @@
           },
           {
             "tag": "pop rock",
-            "count": 17
+            "count": 18
           }
         ],
         "totalSongs": 244
@@ -453,12 +453,12 @@
             "count": 13
           },
           {
-            "tag": "pop",
+            "tag": "hip hop",
             "count": 8
           },
           {
-            "tag": "hip hop",
-            "count": 7
+            "tag": "pop",
+            "count": 8
           },
           {
             "tag": "alternative rock",
@@ -487,11 +487,11 @@
         "tags": [
           {
             "tag": "electronic",
-            "count": 10
+            "count": 12
           },
           {
             "tag": "rock",
-            "count": 8
+            "count": 10
           },
           {
             "tag": "pop",
@@ -506,6 +506,14 @@
             "count": 4
           },
           {
+            "tag": "80s",
+            "count": 4
+          },
+          {
+            "tag": "synth pop",
+            "count": 4
+          },
+          {
             "tag": "instrumental",
             "count": 4
           },
@@ -515,14 +523,6 @@
           },
           {
             "tag": "punk",
-            "count": 3
-          },
-          {
-            "tag": "crank wave",
-            "count": 3
-          },
-          {
-            "tag": "hip hop",
             "count": 3
           }
         ],
@@ -536,7 +536,7 @@
           },
           {
             "tag": "pop",
-            "count": 7
+            "count": 8
           },
           {
             "tag": "german",
@@ -544,7 +544,7 @@
           },
           {
             "tag": "folk",
-            "count": 5
+            "count": 6
           },
           {
             "tag": "classic rock",
@@ -563,11 +563,11 @@
             "count": 3
           },
           {
-            "tag": "krautrock",
+            "tag": "singer songwriter",
             "count": 3
           },
           {
-            "tag": "liedermacher",
+            "tag": "krautrock",
             "count": 3
           }
         ],
@@ -577,31 +577,31 @@
         "tags": [
           {
             "tag": "rock",
-            "count": 86
+            "count": 90
           },
           {
             "tag": "alternative rock",
-            "count": 47
+            "count": 48
           },
           {
             "tag": "hard rock",
-            "count": 44
+            "count": 46
           },
           {
             "tag": "alternative",
-            "count": 29
+            "count": 31
           },
           {
             "tag": "classic rock",
-            "count": 25
+            "count": 26
           },
           {
             "tag": "pop rock",
-            "count": 23
+            "count": 24
           },
           {
             "tag": "blues rock",
-            "count": 17
+            "count": 20
           },
           {
             "tag": "metal",
@@ -613,7 +613,7 @@
           },
           {
             "tag": "heavy metal",
-            "count": 12
+            "count": 13
           }
         ],
         "totalSongs": 150
@@ -622,7 +622,7 @@
         "tags": [
           {
             "tag": "electronic",
-            "count": 156
+            "count": 157
           },
           {
             "tag": "jazz",
@@ -634,31 +634,31 @@
           },
           {
             "tag": "rock",
-            "count": 50
+            "count": 51
+          },
+          {
+            "tag": "german",
+            "count": 45
           },
           {
             "tag": "ambient",
             "count": 45
           },
           {
-            "tag": "german",
-            "count": 44
-          },
-          {
             "tag": "hip hop",
-            "count": 42
+            "count": 43
           },
           {
             "tag": "pop",
-            "count": 42
+            "count": 43
+          },
+          {
+            "tag": "techno",
+            "count": 38
           },
           {
             "tag": "experimental",
             "count": 38
-          },
-          {
-            "tag": "techno",
-            "count": 37
           }
         ],
         "totalSongs": 641
@@ -772,6 +772,10 @@
             "count": 3
           },
           {
+            "tag": "rock",
+            "count": 3
+          },
+          {
             "tag": "indie pop",
             "count": 2
           },
@@ -784,19 +788,60 @@
             "count": 2
           },
           {
+            "tag": "german",
+            "count": 2
+          },
+          {
             "tag": "fantastic",
-            "count": 2
-          },
-          {
-            "tag": "kirsty mcgee",
-            "count": 2
-          },
-          {
-            "tag": "rock",
             "count": 2
           }
         ],
         "totalSongs": 11
+      },
+      "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5": {
+        "tags": [
+          {
+            "tag": "rock",
+            "count": 33
+          },
+          {
+            "tag": "blues",
+            "count": 16
+          },
+          {
+            "tag": "pop",
+            "count": 14
+          },
+          {
+            "tag": "jazz",
+            "count": 14
+          },
+          {
+            "tag": "soul",
+            "count": 13
+          },
+          {
+            "tag": "electronic",
+            "count": 12
+          },
+          {
+            "tag": "indie",
+            "count": 12
+          },
+          {
+            "tag": "singer songwriter",
+            "count": 11
+          },
+          {
+            "tag": "folk",
+            "count": 10
+          },
+          {
+            "tag": "indie rock",
+            "count": 9
+          }
+        ],
+        "totalSongs": 100
       },
       "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563": {
         "tags": [
@@ -842,51 +887,6 @@
           }
         ],
         "totalSongs": 72
-      },
-      "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5": {
-        "tags": [
-          {
-            "tag": "rock",
-            "count": 32
-          },
-          {
-            "tag": "blues",
-            "count": 16
-          },
-          {
-            "tag": "jazz",
-            "count": 14
-          },
-          {
-            "tag": "pop",
-            "count": 13
-          },
-          {
-            "tag": "electronic",
-            "count": 12
-          },
-          {
-            "tag": "indie",
-            "count": 12
-          },
-          {
-            "tag": "soul",
-            "count": 11
-          },
-          {
-            "tag": "singer songwriter",
-            "count": 11
-          },
-          {
-            "tag": "folk",
-            "count": 10
-          },
-          {
-            "tag": "indie rock",
-            "count": 9
-          }
-        ],
-        "totalSongs": 100
       },
       "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2": {
         "tags": [
@@ -1204,23 +1204,23 @@
         "totalSongs": 57
       }
     },
-    "itemsWithCountry": 2239,
+    "itemsWithCountry": 2290,
     "topCountries": [
       {
         "country": "US",
-        "count": 868
+        "count": 886
       },
       {
         "country": "GB",
-        "count": 427
+        "count": 439
       },
       {
         "country": "DE",
-        "count": 312
+        "count": 320
       },
       {
         "country": "FR",
-        "count": 80
+        "count": 83
       },
       {
         "country": "CA",
@@ -1228,7 +1228,7 @@
       },
       {
         "country": "AU",
-        "count": 52
+        "count": 53
       },
       {
         "country": "SE",
@@ -1236,7 +1236,7 @@
       },
       {
         "country": "JM",
-        "count": 30
+        "count": 32
       },
       {
         "country": "BE",
@@ -1248,26 +1248,30 @@
       },
       {
         "country": "IT",
-        "count": 27
+        "count": 28
       },
       {
         "country": "NL",
-        "count": 20
+        "count": 21
       },
       {
         "country": "FI",
         "count": 16
       },
       {
+        "country": "DK",
+        "count": 13
+      },
+      {
         "country": "BR",
         "count": 13
       },
       {
-        "country": "DK",
-        "count": 12
+        "country": "NO",
+        "count": 11
       },
       {
-        "country": "NO",
+        "country": "IS",
         "count": 11
       },
       {
@@ -1283,7 +1287,7 @@
         "count": 10
       },
       {
-        "country": "IS",
+        "country": "ML",
         "count": 10
       },
       {
@@ -1296,10 +1300,6 @@
       },
       {
         "country": "TR",
-        "count": 9
-      },
-      {
-        "country": "ML",
         "count": 9
       },
       {
@@ -1328,7 +1328,11 @@
       },
       {
         "country": "UA",
-        "count": 4
+        "count": 5
+      },
+      {
+        "country": "IN",
+        "count": 5
       },
       {
         "country": "HU",
@@ -1340,10 +1344,6 @@
       },
       {
         "country": "CO",
-        "count": 4
-      },
-      {
-        "country": "IN",
         "count": 4
       },
       {
@@ -1547,7 +1547,7 @@
         "count": 1
       }
     ],
-    "itemsWithReleaseDate": 2147,
+    "itemsWithReleaseDate": 2201,
     "releaseYears": [
       {
         "year": "1956",
@@ -1567,7 +1567,7 @@
       },
       {
         "year": "1964",
-        "count": 1
+        "count": 2
       },
       {
         "year": "1965",
@@ -1587,11 +1587,11 @@
       },
       {
         "year": "1969",
-        "count": 8
+        "count": 9
       },
       {
         "year": "1970",
-        "count": 8
+        "count": 9
       },
       {
         "year": "1971",
@@ -1623,7 +1623,7 @@
       },
       {
         "year": "1978",
-        "count": 10
+        "count": 11
       },
       {
         "year": "1979",
@@ -1631,7 +1631,7 @@
       },
       {
         "year": "1980",
-        "count": 12
+        "count": 13
       },
       {
         "year": "1981",
@@ -1671,7 +1671,7 @@
       },
       {
         "year": "1990",
-        "count": 20
+        "count": 21
       },
       {
         "year": "1991",
@@ -1679,7 +1679,7 @@
       },
       {
         "year": "1992",
-        "count": 14
+        "count": 15
       },
       {
         "year": "1993",
@@ -1687,7 +1687,7 @@
       },
       {
         "year": "1994",
-        "count": 19
+        "count": 20
       },
       {
         "year": "1995",
@@ -1699,23 +1699,23 @@
       },
       {
         "year": "1997",
-        "count": 40
+        "count": 42
       },
       {
         "year": "1998",
-        "count": 39
+        "count": 41
       },
       {
         "year": "1999",
-        "count": 47
+        "count": 48
       },
       {
         "year": "2000",
-        "count": 37
+        "count": 38
       },
       {
         "year": "2001",
-        "count": 41
+        "count": 44
       },
       {
         "year": "2002",
@@ -1723,11 +1723,11 @@
       },
       {
         "year": "2003",
-        "count": 34
+        "count": 36
       },
       {
         "year": "2004",
-        "count": 43
+        "count": 46
       },
       {
         "year": "2005",
@@ -1735,19 +1735,19 @@
       },
       {
         "year": "2006",
-        "count": 54
+        "count": 55
       },
       {
         "year": "2007",
-        "count": 47
+        "count": 48
       },
       {
         "year": "2008",
-        "count": 38
+        "count": 41
       },
       {
         "year": "2009",
-        "count": 58
+        "count": 59
       },
       {
         "year": "2010",
@@ -1759,43 +1759,43 @@
       },
       {
         "year": "2012",
-        "count": 52
+        "count": 53
       },
       {
         "year": "2013",
-        "count": 66
+        "count": 69
       },
       {
         "year": "2014",
-        "count": 56
+        "count": 59
       },
       {
         "year": "2015",
-        "count": 73
+        "count": 74
       },
       {
         "year": "2016",
-        "count": 92
+        "count": 94
       },
       {
         "year": "2017",
-        "count": 96
+        "count": 98
       },
       {
         "year": "2018",
-        "count": 116
+        "count": 117
       },
       {
         "year": "2019",
-        "count": 62
+        "count": 64
       },
       {
         "year": "2020",
-        "count": 81
+        "count": 88
       },
       {
         "year": "2021",
-        "count": 49
+        "count": 53
       },
       {
         "year": "2022",
