@@ -1,0 +1,68 @@
+{
+  "youtubeId": "kFU7nRe7C0A",
+  "title": "Grá",
+  "artist": "Wardruna",
+  "lastFetched": "2025-12-04T14:16:00.488Z",
+  "odesli": {
+    "amazonMusic": "B0C9KXSTGH",
+    "amazonStore": "B0C9KXSTGH",
+    "audiomack": "31760698",
+    "anghami": "1048065052",
+    "boomplay": "18406029",
+    "deezer": "2345404975",
+    "appleMusic": "1694632963",
+    "itunes": "1694632963",
+    "napster": "tra.450869014",
+    "pandora": "TR:29647433",
+    "soundcloud": "wardruna/gra",
+    "spotify": "7m6WxT4yQQ84RlB7hJC69e",
+    "tidal": "301959508",
+    "yandex": "62310865",
+    "youtube": "kFU7nRe7C0A",
+    "youtubeMusic": "kFU7nRe7C0A"
+  },
+  "lastfm": {
+    "id": "Wardruna/_/Gr%C3%A1",
+    "listeners": 43563,
+    "playcount": 316059,
+    "title": "Grá",
+    "artist": "Wardruna",
+    "mbid": "f56e3600-c6fc-4c64-b353-b192628e898b",
+    "artistMbid": "91136bf7-3b12-4ae5-b93b-eddb9e561dfb",
+    "tags": [
+      "folk",
+      "neofolk",
+      "pagan folk",
+      "ambient"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "12d458dd-d1fd-4b23-92b4-fd4b24d6c01d",
+    "artistMbid": "91136bf7-3b12-4ae5-b93b-eddb9e561dfb",
+    "releaseCount": 10,
+    "artistGenres": [
+      "ambient",
+      "celtic",
+      "dark folk",
+      "folk",
+      "folk metal",
+      "medieval",
+      "neofolk"
+    ],
+    "releasedAt": "2020-02-21",
+    "artistCountry": "NO",
+    "externalIdsArtist": {
+      "allmusic": "mn0001589827",
+      "bandcamp": "https://wardruna.bandcamp.com/",
+      "discogs": "1340542",
+      "spotify": "0NJ6wlOAsAJ1PN4VRdTPKA",
+      "deezer": "1690105",
+      "lastfm": "Wardruna",
+      "genius": "Wardruna",
+      "rateyourmusic": "wardruna",
+      "soundcloud": "https://soundcloud.com/wardruna",
+      "wikidata": "Q2120164",
+      "youtube": "UCWDQstA3kDU-rYMJ7x2Rlbg"
+    }
+  }
+}

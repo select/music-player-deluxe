@@ -1,0 +1,63 @@
+{
+  "youtubeId": "qNTLhSR8RiQ",
+  "title": "Meister aller Klassen",
+  "artist": "City",
+  "lastFetched": "2025-12-04T14:16:33.931Z",
+  "odesli": {
+    "amazonMusic": "B002ATGIOG",
+    "amazonStore": "B002ATGIOG",
+    "anghami": "58266842",
+    "boomplay": "12364929",
+    "deezer": "1076275",
+    "appleMusic": "253801758",
+    "itunes": "253801758",
+    "napster": "tra.58817275",
+    "pandora": "TR:15609735",
+    "soundcloud": "city-official/meister-aller-klassen",
+    "spotify": "5I9jnfIT5p388BTAUjRPRe",
+    "tidal": "7900166",
+    "yandex": "702973",
+    "youtube": "qNTLhSR8RiQ",
+    "youtubeMusic": "qNTLhSR8RiQ"
+  },
+  "lastfm": {
+    "id": "City/_/Meister+aller+Klassen",
+    "listeners": 3056,
+    "playcount": 7205,
+    "title": "Meister aller Klassen",
+    "artist": "City",
+    "artistMbid": "bb1ee9fe-c5b9-46da-94ab-ea6bec84b7aa",
+    "tags": [
+      "ostrock",
+      "deutschrock",
+      "city",
+      "deutsch"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e5a05f4a-517f-47d3-a81a-a87cfa27ff1f",
+    "artistMbid": "bb1ee9fe-c5b9-46da-94ab-ea6bec84b7aa",
+    "releaseCount": 20,
+    "genres": [
+      "alternative rock",
+      "pop rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "hard rock",
+      "pop rock",
+      "progressive rock",
+      "rock"
+    ],
+    "releasedAt": "1978",
+    "artistCountry": "XG",
+    "externalIdsArtist": {
+      "allmusic": "mn0000131639",
+      "discogs": "192251",
+      "spotify": "7JRN2zE9GRXmVLj2UgNWtN",
+      "deezer": "71199",
+      "rateyourmusic": "city",
+      "wikidata": "Q319753"
+    }
+  }
+}

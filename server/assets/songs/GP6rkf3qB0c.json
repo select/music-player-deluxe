@@ -1,7 +1,7 @@
 {
   "youtubeId": "GP6rkf3qB0c",
   "title": "Rodrigo y Gabriela - Orion (Studio Version)",
-  "lastFetched": "2025-12-03T12:22:40.943Z",
+  "lastFetched": "2025-12-04T14:23:55.914Z",
   "ai": {
     "title": "Orion",
     "artist": "Rodrigo y Gabriela"
@@ -14,6 +14,50 @@
     "title": "Orion",
     "artist": "Rodrigo y Gabriela",
     "mbid": "063bda4b-110e-30c6-aee0-0774eae18a62",
-    "artistMbid": "a8ed28e3-5c08-4448-b889-867483e251f5"
+    "artistMbid": "a8ed28e3-5c08-4448-b889-867483e251f5",
+    "tags": [
+      "acoustic",
+      "instrumental",
+      "guitar",
+      "cover",
+      "flamenco"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7f7e9697-3201-421b-95fe-48cb437e943e",
+    "artistMbid": "a8ed28e3-5c08-4448-b889-867483e251f5",
+    "releaseCount": 21,
+    "genres": [
+      "acoustic rock",
+      "instrumental",
+      "latin",
+      "rock"
+    ],
+    "artistGenres": [
+      "acoustic rock",
+      "flamenco",
+      "folk rock",
+      "jazz fusion",
+      "latin",
+      "nuevo flamenco"
+    ],
+    "releasedAt": "2006-02-17",
+    "artistCountry": "MX",
+    "externalIdsTrack": {
+      "spotify": "2MdzazQmpuUudDt3fUokua"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000400110",
+      "bandcamp": "https://rodrigoygabriela.bandcamp.com/",
+      "discogs": "514314",
+      "spotify": "7vX3cMVyW8gtDA4y855ynF",
+      "deezer": "15794",
+      "lastfm": "Rodrigo+y+Gabriela",
+      "genius": "Rodrigo-y-gabriela",
+      "rateyourmusic": "rodrigo_y_gabriela",
+      "soundcloud": "https://soundcloud.com/rodgab",
+      "wikidata": "Q1469093",
+      "youtube": "UCR9AA58EJMID3DymThq2Gqw"
+    }
   }
 }

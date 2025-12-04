@@ -1,0 +1,61 @@
+{
+  "youtubeId": "WcqK9Ls7Eos",
+  "title": "Jerusalem",
+  "artist": "Alpha Blondy",
+  "lastFetched": "2025-12-04T14:19:04.091Z",
+  "odesli": {
+    "amazonMusic": "B0CGXG18FD",
+    "amazonStore": "B0CGXG18FD",
+    "audiomack": "49687503",
+    "audius": "q5Pzz",
+    "anghami": "1123529955",
+    "boomplay": "71866152",
+    "deezer": "2432265755",
+    "appleMusic": "1715392886",
+    "itunes": "1715392886",
+    "napster": "tra.787052623",
+    "pandora": "TR:103114651",
+    "soundcloud": "jose-daniel-jimenez-viquez/alpha-blondy-jerusalem",
+    "spotify": "36mmocM7aippXiB6jRjPiy",
+    "tidal": "313654509",
+    "youtube": "WcqK9Ls7Eos",
+    "youtubeMusic": "WcqK9Ls7Eos"
+  },
+  "lastfm": {
+    "id": "Alpha+Blondy/_/Jerusalem",
+    "listeners": 74006,
+    "playcount": 243125,
+    "title": "Jerusalem",
+    "artist": "Alpha Blondy",
+    "mbid": "9653e7bb-987e-4fce-9fd4-a8f3915a3279",
+    "artistMbid": "88502cc3-20e7-4c5d-b583-ea84ed263db4",
+    "tags": [
+      "reggae",
+      "roots reggae",
+      "alpha blondy",
+      "african"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f99abbf6-4753-4279-8925-8f8c59026a53",
+    "artistMbid": "88502cc3-20e7-4c5d-b583-ea84ed263db4",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dub",
+      "reggae",
+      "roots reggae"
+    ],
+    "artistCountry": "CI",
+    "externalIdsArtist": {
+      "allmusic": "mn0000016944",
+      "discogs": "767559",
+      "spotify": "41ekW4MXG59xJMXR8dX1OG",
+      "deezer": "714",
+      "lastfm": "Alpha+Blondy",
+      "genius": "Alpha-blondy",
+      "rateyourmusic": "alpha-blondy",
+      "wikidata": "Q323213",
+      "youtube": "UCjMXU4xk8Zmhr2ePTkcn7dA"
+    }
+  }
+}

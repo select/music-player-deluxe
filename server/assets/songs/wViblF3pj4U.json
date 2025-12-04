@@ -1,0 +1,53 @@
+{
+  "youtubeId": "wViblF3pj4U",
+  "title": "Chains",
+  "artist": "William S. Fischer",
+  "lastFetched": "2025-12-04T14:17:49.132Z",
+  "odesli": {
+    "amazonMusic": "B0045GNMNM",
+    "amazonStore": "B0045GNMNM",
+    "anghami": "451733",
+    "boomplay": "4211339",
+    "deezer": "7230233",
+    "appleMusic": "393789851",
+    "itunes": "393789851",
+    "napster": "tra.41006231",
+    "pandora": "TR:6953708",
+    "soundcloud": "williamsfischer/william-s-fischer-chains",
+    "spotify": "187c6h1frKYjnqKEoKPQQ6",
+    "tidal": "4527473",
+    "yandex": "1756289",
+    "youtube": "wViblF3pj4U",
+    "youtubeMusic": "wViblF3pj4U"
+  },
+  "lastfm": {
+    "id": "William+S.+Fischer/_/Chains",
+    "listeners": 16920,
+    "playcount": 42055,
+    "title": "Chains",
+    "artist": "William S. Fischer",
+    "mbid": "38163de5-132f-367f-9e5c-8c7e7d7e8edd",
+    "artistMbid": "5d467d10-7018-4cef-9590-380a0c69c2f7",
+    "tags": [
+      "funk",
+      "psychedelic",
+      "soul",
+      "70s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d82a0e32-f614-4752-86a9-28b8c0e61a5f",
+    "artistMbid": "5d467d10-7018-4cef-9590-380a0c69c2f7",
+    "releaseCount": 3,
+    "genres": [
+      "jazz fusion"
+    ],
+    "releasedAt": "2019-03-29",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000685613",
+      "discogs": "697017",
+      "wikidata": "Q1799104"
+    }
+  }
+}

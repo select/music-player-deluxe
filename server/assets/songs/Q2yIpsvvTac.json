@@ -1,0 +1,47 @@
+{
+  "youtubeId": "Q2yIpsvvTac",
+  "title": "Lava",
+  "artist": "Benny L",
+  "lastFetched": "2025-12-04T14:15:07.852Z",
+  "odesli": {
+    "amazonMusic": "B07WRZ71M8",
+    "amazonStore": "B07WRZ71M8",
+    "appleMusic": "1477398065",
+    "itunes": "1477398065",
+    "soundcloud": "audiopornrecords/benny-l-lava",
+    "spotify": "49U6rFjym0ME0s3nmt1fwl",
+    "tidal": "294072133",
+    "youtube": "Q2yIpsvvTac",
+    "youtubeMusic": "Q2yIpsvvTac"
+  },
+  "lastfm": {
+    "id": "Benny+L/_/Lava",
+    "listeners": 1110,
+    "playcount": 3070,
+    "title": "Lava",
+    "artist": "Benny L",
+    "artistMbid": "46111b86-6e4c-4926-be0e-3a5d51c33c26",
+    "tags": [
+      "drum and bass",
+      "english",
+      "british",
+      "dnb"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "62a08ed9-cf10-4d7c-9890-6968ce36f549",
+    "artistMbid": "46111b86-6e4c-4926-be0e-3a5d51c33c26",
+    "releaseCount": 2,
+    "artistGenres": [
+      "drum and bass"
+    ],
+    "releasedAt": "2015-07-17",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "discogs": "6105563",
+      "spotify": "5l4uVbRaFx2kxzudLXO2H0",
+      "deezer": "7203976",
+      "soundcloud": "https://soundcloud.com/bennyldnb"
+    }
+  }
+}

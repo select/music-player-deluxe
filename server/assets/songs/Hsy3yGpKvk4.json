@@ -1,0 +1,45 @@
+{
+  "youtubeId": "Hsy3yGpKvk4",
+  "title": "Caravan",
+  "artist": "Raquy and the Cavemen",
+  "lastFetched": "2025-12-04T14:17:13.569Z",
+  "odesli": {
+    "amazonMusic": "B004B9EYLM",
+    "amazonStore": "B004B9EYLM",
+    "deezer": "26363811",
+    "appleMusic": "402540168",
+    "itunes": "402540168",
+    "napster": "tra.44773207",
+    "pandora": "TR:57860502",
+    "soundcloud": "chrisdenerf/raquy-and-the-cavemen-caravan",
+    "spotify": "3R7FcO3NQ6Pc1ZpNThiY1Y",
+    "tidal": "34340073",
+    "yandex": "19585082",
+    "youtube": "Hsy3yGpKvk4",
+    "youtubeMusic": "Hsy3yGpKvk4"
+  },
+  "lastfm": {
+    "id": "Raquy+and+the+Cavemen/_/Caravan",
+    "listeners": 2550,
+    "playcount": 8686,
+    "title": "Caravan",
+    "artist": "Raquy and the Cavemen",
+    "mbid": "2b2059fb-13fd-47fd-bd24-62323644330b",
+    "artistMbid": "00a765e3-a4b2-4658-b54f-005ade97ad5e",
+    "tags": [
+      "instrumental",
+      "tribal",
+      "bellydance",
+      "dance"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b61b1fb0-9302-4685-8367-c44953b0ee65",
+    "artistMbid": "00a765e3-a4b2-4658-b54f-005ade97ad5e",
+    "releaseCount": 1,
+    "releasedAt": "2005-04-14",
+    "externalIdsArtist": {
+      "discogs": "3826881"
+    }
+  }
+}

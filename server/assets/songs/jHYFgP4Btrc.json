@@ -1,0 +1,68 @@
+{
+  "youtubeId": "jHYFgP4Btrc",
+  "title": "Good Stuff",
+  "artist": "Kelis",
+  "lastFetched": "2025-12-04T14:22:02.669Z",
+  "odesli": {
+    "amazonMusic": "B0CLBC2JR5",
+    "amazonStore": "B0CLBC2JR5",
+    "boomplay": "19554619",
+    "pandora": "TR:29037369",
+    "soundcloud": "iamkelis/good-stuff-2",
+    "spotify": "6E2K2I89maFIMR7Zqx57aE",
+    "tidal": "322543367",
+    "youtube": "jHYFgP4Btrc",
+    "youtubeMusic": "jHYFgP4Btrc"
+  },
+  "lastfm": {
+    "summary": "\"Good Stuff\" is the third and final single from Kelis' debut album, \"Kaleidoscope,\" released June 5th, 2000. Produced by The Neptunes, it features rapper Pusha T (at the time called Terrar) of Clipse, acting as the love interest in the song, with Kelis reassuring him she's \"not like the other girls\" that use him for his fame and that she's where it's at. <a href=\"http://www.last.fm/music/Kelis/_/Good+Stuff\">Read more on Last.fm</a>.",
+    "id": "Kelis/_/Good+Stuff",
+    "listeners": 69084,
+    "playcount": 233983,
+    "title": "Good Stuff",
+    "artist": "Kelis",
+    "mbid": "0334c98f-6a0f-317b-856a-5e512d873cbd",
+    "artistMbid": "1239d1bc-cc09-43e0-bcd0-374f60346138",
+    "tags": [
+      "hip-hop",
+      "rnb",
+      "female vocalists",
+      "90s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a0c69f52-dc10-427c-920e-ae59dc308f08",
+    "artistMbid": "1239d1bc-cc09-43e0-bcd0-374f60346138",
+    "releaseCount": 25,
+    "genres": [
+      "contemporary r&b",
+      "hip hop",
+      "r&b",
+      "soul"
+    ],
+    "artistGenres": [
+      "contemporary r&b",
+      "electro house",
+      "electropop",
+      "pop",
+      "pop rap",
+      "r&b",
+      "soul"
+    ],
+    "releasedAt": "1999-12-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000085397",
+      "bandcamp": "https://kelisfood.bandcamp.com/",
+      "discogs": "9688081",
+      "spotify": "0IF46mUS8NXjgHabxk2MCM",
+      "deezer": "2514",
+      "lastfm": "Kelis",
+      "genius": "Kelis",
+      "rateyourmusic": "kelis",
+      "soundcloud": "https://soundcloud.com/iamkelis",
+      "wikidata": "Q294979",
+      "youtube": "UCFRqSV8SWQwWtEIWknLyf0w"
+    }
+  }
+}

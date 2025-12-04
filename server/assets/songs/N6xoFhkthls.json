@@ -1,0 +1,51 @@
+{
+  "youtubeId": "N6xoFhkthls",
+  "title": "Fa-Fa-Fa",
+  "artist": "Datarock",
+  "lastFetched": "2025-12-04T14:23:33.563Z",
+  "odesli": {
+    "amazonMusic": "B07KXTTNY8",
+    "amazonStore": "B07KXTTNY8",
+    "pandora": "TR:867212",
+    "spotify": "69jJtkqDBuF3n6yPnAvRjK",
+    "tidal": "81832337",
+    "youtube": "N6xoFhkthls",
+    "youtubeMusic": "N6xoFhkthls"
+  },
+  "lastfm": {
+    "id": "Datarock/_/Fa-Fa-Fa",
+    "listeners": 232007,
+    "playcount": 1268538,
+    "title": "Fa-Fa-Fa",
+    "artist": "Datarock",
+    "mbid": "0d2f4783-fd70-3aba-82d9-fdbfabafe25a",
+    "artistMbid": "535707ce-ad97-4b73-946e-9ca27869fd3c",
+    "tags": [
+      "poptron",
+      "electronic",
+      "indie",
+      "electropop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "eccccd92-ce77-4e95-b9db-5b547e8d02c5",
+    "artistMbid": "535707ce-ad97-4b73-946e-9ca27869fd3c",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic",
+      "rock"
+    ],
+    "releasedAt": "2007",
+    "artistCountry": "NO",
+    "externalIdsArtist": {
+      "allmusic": "mn0000338638",
+      "discogs": "70887",
+      "spotify": "4foARo5aSfuIuDLupoxK4k",
+      "deezer": "5884",
+      "lastfm": "Datarock",
+      "rateyourmusic": "datarock",
+      "soundcloud": "https://soundcloud.com/fredriksaroea",
+      "wikidata": "Q1129442"
+    }
+  }
+}

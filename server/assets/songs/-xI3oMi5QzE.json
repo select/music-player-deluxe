@@ -1,0 +1,48 @@
+{
+  "youtubeId": "-xI3oMi5QzE",
+  "title": "Glashaus",
+  "artist": "Pohlmann.",
+  "lastFetched": "2025-12-04T14:23:00.420Z",
+  "odesli": {
+    "amazonMusic": "B0DZRW5JQL",
+    "amazonStore": "B0DZRW5JQL",
+    "appleMusic": "1501187305",
+    "itunes": "1501187305",
+    "pandora": "TR:35657029",
+    "soundcloud": "pohlmann-official/glashaus",
+    "tidal": "133642476",
+    "youtube": "-xI3oMi5QzE",
+    "youtubeMusic": "-xI3oMi5QzE"
+  },
+  "lastfm": {
+    "id": "Pohlmann./_/Glashaus",
+    "listeners": 2317,
+    "playcount": 9310,
+    "title": "Glashaus",
+    "artist": "Pohlmann.",
+    "artistMbid": "7b03af51-416d-42dc-8215-98cf48de9a11",
+    "tags": [
+      "singer-songwriter",
+      "german",
+      "acoustic",
+      "deutsch",
+      "pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "98ed8af4-be5c-4733-b074-2e7311c61cde",
+    "artistMbid": "7b03af51-416d-42dc-8215-98cf48de9a11",
+    "releaseCount": 1,
+    "artistGenres": [
+      "pop"
+    ],
+    "releasedAt": "2020-09-11",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "991684",
+      "spotify": "1dV2H8r14HI6oAV7lkN8mL",
+      "rateyourmusic": "pohlmann",
+      "wikidata": "Q87041"
+    }
+  }
+}

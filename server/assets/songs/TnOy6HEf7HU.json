@@ -1,0 +1,58 @@
+{
+  "youtubeId": "TnOy6HEf7HU",
+  "title": "I'm Outta Love",
+  "artist": "Anastacia",
+  "lastFetched": "2025-12-04T14:19:40.708Z",
+  "odesli": {
+    "amazonMusic": "B00137VNEQ",
+    "amazonStore": "B00137VNEQ",
+    "boomplay": "11366634",
+    "pandora": "TR:151806380",
+    "soundcloud": "anastaciamusic/im-outta-love",
+    "spotify": "2376IJzmJ9UJY5wWLTce2I",
+    "tidal": "52505482",
+    "yandex": "633672",
+    "youtube": "TnOy6HEf7HU",
+    "youtubeMusic": "TnOy6HEf7HU"
+  },
+  "lastfm": {
+    "id": "Anastacia/_/I%27m+Outta+Love",
+    "listeners": 224378,
+    "playcount": 1146522,
+    "title": "I'm Outta Love",
+    "artist": "Anastacia",
+    "tags": [
+      "pop",
+      "slow rock",
+      "female vocalists",
+      "dance",
+      "other"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7907460f-b169-4349-8cb4-53cf256e7900",
+    "artistMbid": "d3b2bec4-b70e-460e-b433-a865ceac2de8",
+    "releaseCount": 1,
+    "artistGenres": [
+      "contemporary r&b",
+      "dance-pop",
+      "pop",
+      "pop rock",
+      "pop soul",
+      "r&b",
+      "soul"
+    ],
+    "releasedAt": "2000",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000031442",
+      "discogs": "37622",
+      "spotify": "2siHvYaxjaW5rKVRiIrMYH",
+      "deezer": "718",
+      "lastfm": "Anastacia",
+      "genius": "Anastacia",
+      "rateyourmusic": "anastacia",
+      "wikidata": "Q34584"
+    }
+  }
+}

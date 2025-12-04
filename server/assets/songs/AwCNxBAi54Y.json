@@ -1,0 +1,35 @@
+{
+  "youtubeId": "AwCNxBAi54Y",
+  "title": "Down the Street (Instrumental)",
+  "artist": "The Blue Square",
+  "lastFetched": "2025-12-04T14:15:04.373Z",
+  "odesli": {
+    "amazonMusic": "B07DFHQC1Z",
+    "amazonStore": "B07DFHQC1Z",
+    "soundcloud": "melting-records/the-blue-square-down-the-street-feat-phil-diamond-hugo-kant-instrumental-mr006",
+    "spotify": "4HGacAapXpvqfxBvgVUg6d",
+    "tidal": "89891338",
+    "youtube": "AwCNxBAi54Y",
+    "youtubeMusic": "AwCNxBAi54Y"
+  },
+  "lastfm": {
+    "id": "The+Blue+Square/_/Down+the+Street+(Instrumental)",
+    "listeners": 245,
+    "playcount": 545,
+    "title": "Down the Street (Instrumental)",
+    "artist": "The Blue Square",
+    "artistMbid": "da09356c-bf3d-4a63-8e9d-3d2e39614856",
+    "tags": [
+      "jazz",
+      "downtempo",
+      "sochilounge"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "68339c36-086b-4f2e-830e-367808ea1aea",
+    "artistMbid": "da09356c-bf3d-4a63-8e9d-3d2e39614856",
+    "releaseCount": 1,
+    "releasedAt": "2016-12-15",
+    "artistCountry": "GR"
+  }
+}

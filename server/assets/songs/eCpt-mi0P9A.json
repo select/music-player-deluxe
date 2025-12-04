@@ -1,0 +1,43 @@
+{
+  "youtubeId": "eCpt-mi0P9A",
+  "title": "Breathe",
+  "artist": "Zabo",
+  "lastFetched": "2025-12-04T14:15:43.357Z",
+  "odesli": {
+    "amazonMusic": "B07GZD9154",
+    "amazonStore": "B07GZD9154",
+    "audius": "64dyM",
+    "anghami": "40729750",
+    "boomplay": "19239876",
+    "soundcloud": "uprisemusicofficial/zab0-breathe",
+    "spotify": "1ME8Thb5mDmBYTI3I5f3uJ",
+    "yandex": "43011129",
+    "youtube": "eCpt-mi0P9A",
+    "youtubeMusic": "eCpt-mi0P9A"
+  },
+  "lastfm": {
+    "id": "Zabo/_/Breathe",
+    "listeners": 21218,
+    "playcount": 114136,
+    "title": "Breathe",
+    "artist": "Zabo",
+    "tags": [
+      "house",
+      "canada",
+      "dubstep",
+      "edm"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3df525d8-1372-4425-9317-99318f3bab9f",
+    "artistMbid": "29fff3d2-17a8-4bcb-8328-df5f39b7160f",
+    "releaseCount": 1,
+    "releasedAt": "2018",
+    "externalIdsArtist": {
+      "spotify": "19zQevA415Jm6ThEtIwVIb",
+      "deezer": "2672821",
+      "soundcloud": "https://soundcloud.com/Zabo",
+      "youtube": "UC1ZfS9xoqwImtyXOfxNT5vg"
+    }
+  }
+}

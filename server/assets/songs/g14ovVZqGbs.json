@@ -1,0 +1,55 @@
+{
+  "youtubeId": "g14ovVZqGbs",
+  "title": "Death Waltz",
+  "artist": "Phaseone",
+  "lastFetched": "2025-12-04T14:18:43.076Z",
+  "odesli": {
+    "amazonMusic": "B08NT3S7YC",
+    "amazonStore": "B08NT3S7YC",
+    "pandora": "TR:38060449",
+    "soundcloud": "kaiwachi/phaseone-x-kai-wachi-death-waltz",
+    "tidal": "162622584",
+    "youtube": "g14ovVZqGbs",
+    "youtubeMusic": "g14ovVZqGbs"
+  },
+  "lastfm": {
+    "id": "PhaseOne/_/Death+Waltz",
+    "listeners": 17087,
+    "playcount": 104152,
+    "title": "Death Waltz",
+    "artist": "PhaseOne",
+    "artistMbid": "759a6693-8071-41ae-9489-7c505d248bb9",
+    "tags": [
+      "electronic",
+      "downtempo",
+      "dubstep",
+      "instrumental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a63776e3-67aa-48ac-82d3-943dfbc429ea",
+    "artistMbid": "759a6693-8071-41ae-9489-7c505d248bb9",
+    "releaseCount": 1,
+    "artistGenres": [
+      "downtempo",
+      "dubstep",
+      "electronic",
+      "hip hop",
+      "instrumental"
+    ],
+    "releasedAt": "2020-12-04",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "7LUsIrW9BlMJs3WhXne9Ue",
+      "deezer": "1145923272"
+    },
+    "externalIdsArtist": {
+      "discogs": "4106662",
+      "spotify": "2M1xStr9M0Sgcy3bsR0V9H",
+      "deezer": "1043665",
+      "genius": "Phaseone",
+      "soundcloud": "https://soundcloud.com/phaseoneau",
+      "youtube": "UCM9eEVyLL--HAtj04CubCWw"
+    }
+  }
+}

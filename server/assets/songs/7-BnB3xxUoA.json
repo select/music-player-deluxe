@@ -1,0 +1,53 @@
+{
+  "youtubeId": "7-BnB3xxUoA",
+  "title": "Push The Feeling On (The Dub Of Doom)",
+  "artist": "Nightcrawlers",
+  "lastFetched": "2025-12-04T14:20:35.395Z",
+  "odesli": {
+    "amazonMusic": "B01H7VYAGY",
+    "amazonStore": "B01H7VYAGY",
+    "audiomack": "5083197",
+    "anghami": "1385339",
+    "boomplay": "2631134",
+    "napster": "tra.231128072",
+    "pandora": "TR:6877399",
+    "soundcloud": "fidel-fuar/push-the-feeling-on",
+    "spotify": "1RIO7tSsKrprrjBA6aRj6p",
+    "tidal": "141232371",
+    "yandex": "24869386",
+    "youtube": "7-BnB3xxUoA",
+    "youtubeMusic": "7-BnB3xxUoA"
+  },
+  "lastfm": {
+    "id": "Nightcrawlers/_/Push+The+Feeling+On+(The+Dub+Of+Doom)",
+    "listeners": 4869,
+    "playcount": 16547,
+    "title": "Push The Feeling On (The Dub Of Doom)",
+    "artist": "Nightcrawlers",
+    "mbid": "0186b2b7-b3b5-4472-8ac6-0950f0ef6625",
+    "artistMbid": "1c68d986-7b3a-4ecb-9d14-43e6902ef2bd",
+    "tags": [
+      "house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fef4ad50-98d1-41d8-8e05-a6e221bfe154",
+    "artistMbid": "1c68d986-7b3a-4ecb-9d14-43e6902ef2bd",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic",
+      "euro house",
+      "house"
+    ],
+    "releasedAt": "1998",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0002049223",
+      "discogs": "36858",
+      "spotify": "1gALaWbNDnwS2ECV09sn2A",
+      "deezer": "1016",
+      "rateyourmusic": "nightcrawlers",
+      "wikidata": "Q675268"
+    }
+  }
+}

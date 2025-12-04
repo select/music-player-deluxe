@@ -1,0 +1,38 @@
+{
+  "youtubeId": "XVPKqulZcWA",
+  "title": "Schaukelstuhl",
+  "artist": "Ansa Sauermann",
+  "lastFetched": "2025-12-04T14:22:21.934Z",
+  "odesli": {
+    "amazonMusic": "B08BDHLCR1",
+    "amazonStore": "B08BDHLCR1",
+    "pandora": "TR:30416490",
+    "soundcloud": "ansasauermann/schaukelstuhl",
+    "youtube": "XVPKqulZcWA",
+    "youtubeMusic": "XVPKqulZcWA"
+  },
+  "lastfm": {
+    "id": "Ansa+Sauermann/_/Schaukelstuhl",
+    "listeners": 985,
+    "playcount": 3849,
+    "title": "Schaukelstuhl",
+    "artist": "Ansa Sauermann",
+    "tags": [
+      "mixed-pop",
+      "spotify - mix der woche"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c95587dd-c834-4b4a-a631-76fc6bfd4ce0",
+    "artistMbid": "034bdb8f-9178-4bd5-a202-6de0794b119a",
+    "releaseCount": 1,
+    "releasedAt": "2020",
+    "externalIdsArtist": {
+      "discogs": "5645336",
+      "spotify": "43pbeHDddDmFjrckAf27va",
+      "rateyourmusic": "ansa-sauermann",
+      "wikidata": "Q109285703",
+      "youtube": "UCBftjFmmfKMyql8OQN-tQ6w"
+    }
+  }
+}

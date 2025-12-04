@@ -1,0 +1,60 @@
+{
+  "youtubeId": "j-IkE5TtO2U",
+  "title": "Rock'n Me",
+  "artist": "Steve Miller Band",
+  "lastFetched": "2025-12-04T14:17:10.931Z",
+  "odesli": {
+    "amazonMusic": "B00MB4ASBE",
+    "amazonStore": "B00MB4ASBE",
+    "boomplay": "2424979",
+    "pandora": "TR:41103",
+    "soundcloud": "thestevemillerband/rockn-me",
+    "spotify": "1orVKbp6vqtfAPOmvRofVq",
+    "tidal": "94544887",
+    "yandex": "53918447",
+    "youtube": "j-IkE5TtO2U",
+    "youtubeMusic": "j-IkE5TtO2U"
+  },
+  "lastfm": {
+    "summary": "Recorded in 1976 at CBS Studios in San Francisco, California, \"Rock'n Me\" is an energetic rock n roll track written by the band's frontman, Steve Miller, and released as the second single from the group's ninth studio album. Said album, 'Fly Like an Eagle', proved a commercial and critical success. \"Rock'n Me\" also became an international top 40 hit, and it continues to be a popular track on classic rock radio stations. <a href=\"http://www.last.fm/music/Steve+Miller+Band/_/Rock%27n+Me\">Read more on Last.fm</a>.",
+    "id": "Steve+Miller+Band/_/Rock%27n+Me",
+    "listeners": 257307,
+    "playcount": 1317066,
+    "title": "Rock'n Me",
+    "artist": "Steve Miller Band",
+    "mbid": "847cd866-5aa3-4f9e-94ec-13bdc7ca1923",
+    "artistMbid": "e57f0cac-4f56-473c-8d7e-d93f753fd586",
+    "tags": [
+      "classic rock",
+      "rock",
+      "70s",
+      "steve miller band"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "25674a09-cc50-4785-a2da-0ea15e569935",
+    "artistMbid": "e57f0cac-4f56-473c-8d7e-d93f753fd586",
+    "releaseCount": 3,
+    "artistGenres": [
+      "blues rock",
+      "country rock",
+      "new wave",
+      "pop rock",
+      "psychedelic rock",
+      "rock"
+    ],
+    "releasedAt": "1997-11-25",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000036106",
+      "discogs": "29815",
+      "spotify": "6QtGlUje9TIkLrgPZrESuk",
+      "deezer": "3351",
+      "lastfm": "Steve+Miller+Band",
+      "genius": "Steve-miller-band",
+      "rateyourmusic": "steve_miller_band",
+      "soundcloud": "https://soundcloud.com/stevemillerband",
+      "wikidata": "Q750927"
+    }
+  }
+}

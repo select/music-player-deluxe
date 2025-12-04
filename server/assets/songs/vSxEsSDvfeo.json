@@ -1,0 +1,51 @@
+{
+  "youtubeId": "vSxEsSDvfeo",
+  "title": "Westend",
+  "artist": "Odd Couple",
+  "lastFetched": "2025-12-04T14:23:16.811Z",
+  "odesli": {
+    "amazonMusic": "B0F5W8YFLW",
+    "amazonStore": "B0F5W8YFLW",
+    "anghami": "1051765367",
+    "boomplay": "8237691",
+    "deezer": "1776199967",
+    "appleMusic": "1809923762",
+    "itunes": "1809923762",
+    "pandora": "TR:16349243",
+    "soundcloud": "oddcouplemusic/westend",
+    "spotify": "6URGnsTTF0a22myDHHjb7u",
+    "tidal": "431399705",
+    "youtube": "vSxEsSDvfeo",
+    "youtubeMusic": "vSxEsSDvfeo"
+  },
+  "lastfm": {
+    "id": "Odd+Couple/_/Westend",
+    "listeners": 1038,
+    "playcount": 4036,
+    "title": "Westend",
+    "artist": "Odd Couple",
+    "mbid": "f6309cbb-b72c-41ed-bfd1-6a4ffdd78632",
+    "artistMbid": "b88f74b2-2eaa-45ae-81bb-f4612c8dad93",
+    "tags": [
+      "garage rock",
+      "rock",
+      "psychedelic rock",
+      "garage"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "97c89b05-f2cc-4e08-bc8b-54cb6afcfc0b",
+    "artistMbid": "b88f74b2-2eaa-45ae-81bb-f4612c8dad93",
+    "releaseCount": 1,
+    "releasedAt": "2018-03-16",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "bandcamp": "https://oddcoupleberlin.bandcamp.com/",
+      "discogs": "4466277",
+      "spotify": "10zinYW8UkE4vnTzFfDhxk",
+      "rateyourmusic": "odd-couple",
+      "wikidata": "Q57719954",
+      "youtube": "UCAM7rNmzTEi7cE1PkZpo27Q"
+    }
+  }
+}

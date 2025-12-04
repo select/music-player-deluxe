@@ -1,0 +1,65 @@
+{
+  "youtubeId": "2K0q74jtV8s",
+  "title": "Dreams",
+  "artist": "The Game",
+  "lastFetched": "2025-12-04T14:19:33.168Z",
+  "odesli": {
+    "amazonMusic": "B09642B83B",
+    "amazonStore": "B09642B83B",
+    "audius": "vZkov",
+    "anghami": "1163907368",
+    "boomplay": "2056475",
+    "pandora": "TR:212838",
+    "soundcloud": "the-game-official/dreams-album-version-explicit",
+    "spotify": "5F7caGhe84C6ONva5S8yXF",
+    "tidal": "586573",
+    "yandex": "24070",
+    "youtube": "2K0q74jtV8s",
+    "youtubeMusic": "2K0q74jtV8s"
+  },
+  "lastfm": {
+    "id": "The+Game/_/Dreams",
+    "listeners": 436320,
+    "playcount": 1309116,
+    "title": "Dreams",
+    "artist": "The Game",
+    "mbid": "e12cd07b-72bc-4f84-af4b-0bcb0e1bf106",
+    "artistMbid": "07cc14fb-4784-4a25-804b-2686ed5ef52c",
+    "tags": [
+      "hip-hop",
+      "rap",
+      "gangsta rap",
+      "the game",
+      "hip hop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f2497237-8775-4a8e-9639-7982308b7c1f",
+    "artistMbid": "07cc14fb-4784-4a25-804b-2686ed5ef52c",
+    "releaseCount": 18,
+    "genres": [
+      "gangsta rap",
+      "garage rock",
+      "hip hop",
+      "west coast hip hop"
+    ],
+    "artistGenres": [
+      "gangsta rap",
+      "hip hop"
+    ],
+    "releasedAt": "2005-01-13",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000073749",
+      "discogs": "668486",
+      "spotify": "0NbfKEOTQCcwd6o7wSDOHI",
+      "deezer": "393",
+      "lastfm": "The+Game",
+      "genius": "The-game",
+      "rateyourmusic": "the_game_f1",
+      "soundcloud": "https://soundcloud.com/the-game-official",
+      "wikidata": "Q189936",
+      "youtube": "UCCFs35_Ey5FXLh5L8eN08hg"
+    }
+  }
+}

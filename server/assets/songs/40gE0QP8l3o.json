@@ -1,0 +1,45 @@
+{
+  "youtubeId": "40gE0QP8l3o",
+  "title": "Sometimes (Stop to Call)",
+  "artist": "Fury In the Slaughterhouse",
+  "lastFetched": "2025-12-04T14:18:46.780Z",
+  "odesli": {
+    "appleMusic": "1536165626",
+    "itunes": "1536165626",
+    "spotify": "3QnrmIQozzAe4qVoH9vze7",
+    "youtube": "40gE0QP8l3o",
+    "youtubeMusic": "40gE0QP8l3o"
+  },
+  "lastfm": {
+    "id": "Fury+In+The+Slaughterhouse/_/Sometimes+(Stop+to+Call)",
+    "listeners": 777,
+    "playcount": 2527,
+    "title": "Sometimes (Stop to Call)",
+    "artist": "Fury In The Slaughterhouse",
+    "tags": [
+      "rock",
+      "german",
+      "alternative rock",
+      "alternative"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "053f025c-3ad6-4f84-95e9-283d4c9a21bd",
+    "artistMbid": "8ebd50fe-f263-4fd6-9c24-de587585ef77",
+    "releaseCount": 3,
+    "artistGenres": [
+      "rock"
+    ],
+    "releasedAt": "2021-04-23",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000192620",
+      "discogs": "258161",
+      "spotify": "6eswqLpEm9AhDIguGzRswT",
+      "deezer": "3394",
+      "lastfm": "Fury+In+The+Slaughterhouse",
+      "rateyourmusic": "fury_in_the_slaughterhouse",
+      "wikidata": "Q314029"
+    }
+  }
+}

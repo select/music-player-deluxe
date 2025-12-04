@@ -1,0 +1,56 @@
+{
+  "youtubeId": "v8V0ag3c-HA",
+  "title": "Hot Pursuit",
+  "artist": "Tut Tut Child",
+  "lastFetched": "2025-12-04T14:15:05.947Z",
+  "odesli": {
+    "amazonMusic": "B092RDH1TW",
+    "amazonStore": "B092RDH1TW",
+    "anghami": "30958261",
+    "pandora": "TR:2742237",
+    "soundcloud": "monstercat/tut-tut-child-hot-pursuit",
+    "spotify": "3VaeEv3qwom5oo5AXEOK3w",
+    "tidal": "37012770",
+    "youtube": "v8V0ag3c-HA",
+    "youtubeMusic": "v8V0ag3c-HA"
+  },
+  "lastfm": {
+    "id": "Tut+Tut+Child/_/Hot+Pursuit",
+    "listeners": 14850,
+    "playcount": 95598,
+    "title": "Hot Pursuit",
+    "artist": "Tut Tut Child",
+    "mbid": "05683bfc-0cba-4f56-8d96-fd334cf5e7b2",
+    "artistMbid": "d131b749-6c45-4427-bc00-89bc889d3005",
+    "tags": [
+      "electro house",
+      "heavy bass",
+      "edm",
+      "monstercat"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fd724218-9688-4b13-8a3c-5aa32ca5d7a8",
+    "artistMbid": "d131b749-6c45-4427-bc00-89bc889d3005",
+    "releaseCount": 3,
+    "genres": [
+      "dance",
+      "edm",
+      "electro house",
+      "house"
+    ],
+    "releasedAt": "2014-10-22",
+    "externalIdsTrack": {
+      "spotify": "2YaWyPFUnFCQKgZd0u8Ger"
+    },
+    "externalIdsArtist": {
+      "discogs": "2953715",
+      "spotify": "6EmSzH0r12lNsYQCFzCFS3",
+      "deezer": "1693558",
+      "lastfm": "Tut+Tut+Child",
+      "genius": "Tut-tut-child",
+      "soundcloud": "https://soundcloud.com/tuttutchild",
+      "youtube": "UC-nL2ChF0XxZ-fi8BA_vMmw"
+    }
+  }
+}

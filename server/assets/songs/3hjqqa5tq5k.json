@@ -1,0 +1,54 @@
+{
+  "youtubeId": "3hjqqa5tq5k",
+  "title": "Damn Right, I've Got the Blues",
+  "artist": "Buddy Guy",
+  "lastFetched": "2025-12-04T14:21:28.999Z",
+  "odesli": {
+    "amazonMusic": "B0014LRJ6C",
+    "amazonStore": "B0014LRJ6C",
+    "pandora": "TR:7251410",
+    "soundcloud": "therealbuddyguy/damn-right-ive-got-the-blues-1",
+    "spotify": "2FtX5tOFUVOyjcGQiuGR8f",
+    "tidal": "56117",
+    "youtube": "3hjqqa5tq5k",
+    "youtubeMusic": "3hjqqa5tq5k"
+  },
+  "lastfm": {
+    "summary": "Just tuff <a href=\"http://www.last.fm/music/Buddy+Guy/_/Damn+Right,+I%27ve+Got+The+Blues\">Read more on Last.fm</a>.",
+    "id": "Buddy+Guy/_/Damn+Right,+I%27ve+Got+The+Blues",
+    "listeners": 149356,
+    "playcount": 414990,
+    "title": "Damn Right, I've Got The Blues",
+    "artist": "Buddy Guy",
+    "artistMbid": "4336a134-d091-4e54-9967-c7c433db6d4e",
+    "tags": [
+      "blues",
+      "chicago blues",
+      "buddy guy",
+      "guitar"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "14a06921-24be-4326-84c5-824eaafd326a",
+    "artistMbid": "4336a134-d091-4e54-9967-c7c433db6d4e",
+    "releaseCount": 1,
+    "artistGenres": [
+      "blues",
+      "blues rock",
+      "chicago blues",
+      "electric blues"
+    ],
+    "releasedAt": "1995",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000942529",
+      "discogs": "259799",
+      "spotify": "2gCsNOpiBaMNh20jQ5prf0",
+      "deezer": "8680",
+      "lastfm": "Buddy+Guy",
+      "rateyourmusic": "buddy_guy",
+      "napster": "buddy-guy",
+      "wikidata": "Q314208"
+    }
+  }
+}

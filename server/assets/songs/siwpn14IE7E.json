@@ -1,0 +1,72 @@
+{
+  "youtubeId": "siwpn14IE7E",
+  "title": "Danger Zone",
+  "artist": "Kenny Loggins",
+  "lastFetched": "2025-12-04T14:17:28.954Z",
+  "odesli": {
+    "amazonMusic": "B087TN4TTG",
+    "amazonStore": "B087TN4TTG",
+    "audius": "2lEY3",
+    "anghami": "129928",
+    "boomplay": "88893134",
+    "pandora": "TR:71092",
+    "soundcloud": "kennyloggins/danger-zone",
+    "spotify": "50J6XwEbkYxNb5e4k6R9s1",
+    "tidal": "5119939",
+    "yandex": "628353",
+    "youtube": "siwpn14IE7E",
+    "youtubeMusic": "siwpn14IE7E"
+  },
+  "lastfm": {
+    "summary": "\"Danger Zone\" is a rock song from the soundtrack to the 1986 American motion picture Top Gun. It was composed by Giorgio Moroder and Tom Whitlock, and performed by Kenny Loggins.\nMoroder originally asked Bryan Adams to record this song, but he was said to have rejected it because he had disliked the jingoism expressed in Top Gun. The rock group Toto was also supposed to perform the song, but due to legal matters, it was passed to Loggins.\nThe second single released from the Top Gun soundtrack <a href=\"http://www.last.fm/music/Kenny+Loggins/_/Danger+Zone\">Read more on Last.fm</a>.",
+    "id": "Kenny+Loggins/_/Danger+Zone",
+    "listeners": 371255,
+    "playcount": 1890465,
+    "title": "Danger Zone",
+    "artist": "Kenny Loggins",
+    "mbid": "19af4b37-411d-4c29-a21b-d4063c2e6de0",
+    "artistMbid": "15042d2b-2d4c-4451-a96a-6f547642de13",
+    "tags": [
+      "80s",
+      "soundtrack",
+      "rock",
+      "top gun"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "e283f084-4ca9-4b8e-9952-f9ad366830f7",
+    "artistMbid": "15042d2b-2d4c-4451-a96a-6f547642de13",
+    "releaseCount": 25,
+    "genres": [
+      "aor",
+      "electronic",
+      "hard rock",
+      "pop",
+      "pop rock",
+      "power pop",
+      "rock",
+      "synth-pop"
+    ],
+    "artistGenres": [
+      "pop",
+      "rock",
+      "singer-songwriter",
+      "soft rock",
+      "yacht rock"
+    ],
+    "releasedAt": "1986-05-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000081832",
+      "discogs": "106467",
+      "spotify": "3Y3xIwWyq5wnNHPp5gPjOW",
+      "deezer": "3855",
+      "lastfm": "Kenny+Loggins",
+      "genius": "Kenny-loggins",
+      "rateyourmusic": "kenny_loggins",
+      "napster": "kenny-loggins",
+      "wikidata": "Q435965",
+      "youtube": "UCOU8fWGJPBlywN6816bRdLg"
+    }
+  }
+}

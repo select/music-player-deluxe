@@ -1,0 +1,58 @@
+{
+  "youtubeId": "e0qv0wMudo0",
+  "title": "Monotonie",
+  "artist": "Beatsteaks",
+  "lastFetched": "2025-12-04T14:20:28.060Z",
+  "odesli": {
+    "amazonMusic": "B0DZV5989B",
+    "amazonStore": "B0DZV5989B",
+    "appleMusic": "1537613518",
+    "itunes": "1537613518",
+    "pandora": "TR:38694938",
+    "soundcloud": "beatsteaks-official/monotonie-1",
+    "spotify": "5uhXIjSIxsuxeVf7ohNUU7",
+    "tidal": "160013494",
+    "yandex": "73151082",
+    "youtube": "e0qv0wMudo0",
+    "youtubeMusic": "e0qv0wMudo0"
+  },
+  "lastfm": {
+    "id": "Beatsteaks/_/Monotonie",
+    "listeners": 2248,
+    "playcount": 6919,
+    "title": "Monotonie",
+    "artist": "Beatsteaks",
+    "mbid": "b28e4af1-7f38-4518-a234-71212097c96e",
+    "artistMbid": "a9b88ebb-83aa-4ef7-b674-fabeb572c14e",
+    "tags": [
+      "punk rock",
+      "rock",
+      "german",
+      "alternative",
+      "punk"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c4bed54d-eec3-4f79-ae71-266c56857f3a",
+    "artistMbid": "a9b88ebb-83aa-4ef7-b674-fabeb572c14e",
+    "releaseCount": 2,
+    "artistGenres": [
+      "alternative rock",
+      "rock"
+    ],
+    "releasedAt": "2020-12-11",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000162631",
+      "discogs": "255526",
+      "spotify": "79qRD2IfSr3pmuYUficMWX",
+      "deezer": "2672",
+      "lastfm": "Beatsteaks",
+      "genius": "Beatsteaks",
+      "rateyourmusic": "beatsteaks",
+      "soundcloud": "https://soundcloud.com/beatsteaks",
+      "wikidata": "Q257652",
+      "youtube": "UCRYgt1W1Sq59E2pQivpYj0A"
+    }
+  }
+}

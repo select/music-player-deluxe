@@ -1,0 +1,46 @@
+{
+  "youtubeId": "r7DN1UZ4zoo",
+  "title": "Palmen aus Plastik",
+  "artist": "Callejon",
+  "lastFetched": "2025-12-04T14:19:16.748Z",
+  "odesli": {
+    "amazonMusic": "B07KMGB7LR",
+    "amazonStore": "B07KMGB7LR",
+    "soundcloud": "callejonofficial/palmen-aus-plastik",
+    "youtube": "r7DN1UZ4zoo",
+    "youtubeMusic": "r7DN1UZ4zoo"
+  },
+  "lastfm": {
+    "id": "Callejon/_/Palmen+aus+Plastik",
+    "listeners": 7388,
+    "playcount": 54696,
+    "title": "Palmen aus Plastik",
+    "artist": "Callejon",
+    "mbid": "1f6ecf82-b9c1-467d-9321-5e71bcd7b377",
+    "artistMbid": "97501ef9-b868-4d05-89d8-6161ccdf8d3f",
+    "tags": [
+      "metalcore",
+      "hardcore",
+      "screamo"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ac76b4c7-c644-4224-8a2a-d4a7fbbbf410",
+    "artistMbid": "97501ef9-b868-4d05-89d8-6161ccdf8d3f",
+    "releaseCount": 3,
+    "artistGenres": [
+      "metalcore",
+      "screamo"
+    ],
+    "releasedAt": "2019-01-04",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002094728",
+      "discogs": "1305248",
+      "spotify": "1ce15ppX5OYxPsBVESZG3W",
+      "deezer": "153092",
+      "rateyourmusic": "callejon",
+      "wikidata": "Q834502"
+    }
+  }
+}

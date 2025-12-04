@@ -1,0 +1,54 @@
+{
+  "youtubeId": "B7HAwqQ99Eg",
+  "title": "SILVER",
+  "artist": "Just Mustard",
+  "lastFetched": "2025-12-04T14:23:13.942Z",
+  "odesli": {
+    "amazonMusic": "B0FDB9VMNK",
+    "amazonStore": "B0FDB9VMNK",
+    "appleMusic": "1820903670",
+    "itunes": "1820903670",
+    "pandora": "TR:163208939",
+    "soundcloud": "just-mustard/silver",
+    "spotify": "5JSeuIKIue1s7kc0xTRRt2",
+    "tidal": "442370661",
+    "yandex": "140649061",
+    "youtube": "B7HAwqQ99Eg",
+    "youtubeMusic": "B7HAwqQ99Eg"
+  },
+  "lastfm": {
+    "id": "Just+Mustard/_/SILVER",
+    "listeners": 8158,
+    "playcount": 18374,
+    "title": "SILVER",
+    "artist": "Just Mustard",
+    "mbid": "82cca80c-4d38-4284-a59a-c8fa0eeaf5cc",
+    "artistMbid": "7bab7a05-8b0f-4778-b0b8-02dd6deb463a",
+    "tags": [
+      "shoegaze",
+      "noise rock",
+      "post-punk",
+      "irish"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "82cca80c-4d38-4284-a59a-c8fa0eeaf5cc",
+    "artistMbid": "7bab7a05-8b0f-4778-b0b8-02dd6deb463a",
+    "releaseCount": 3,
+    "artistGenres": [
+      "noise",
+      "post-punk",
+      "post-rock",
+      "shoegaze",
+      "trip hop"
+    ],
+    "releasedAt": "2025-10-17",
+    "artistCountry": "IE",
+    "externalIdsArtist": {
+      "bandcamp": "https://justmustard.bandcamp.com/",
+      "discogs": "6469229",
+      "wikidata": "Q85772579",
+      "youtube": "UCuSgcFEIFCXoJ3dGeYqQrAA"
+    }
+  }
+}

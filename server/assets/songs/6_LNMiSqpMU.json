@@ -1,0 +1,56 @@
+{
+  "youtubeId": "6_LNMiSqpMU",
+  "title": "Drugs",
+  "artist": "UPSAHL",
+  "lastFetched": "2025-12-04T14:18:06.234Z",
+  "odesli": {
+    "amazonMusic": "B07PB8CCQW",
+    "amazonStore": "B07PB8CCQW",
+    "anghami": "48069405",
+    "boomplay": "14964112",
+    "napster": "tra.345019118",
+    "pandora": "TR:17018722",
+    "soundcloud": "upsahlmusic/drugs",
+    "spotify": "06ioYJ99HHjzRk8HrGfkKS",
+    "tidal": "101895930",
+    "yandex": "47754741",
+    "youtube": "6_LNMiSqpMU",
+    "youtubeMusic": "6_LNMiSqpMU"
+  },
+  "lastfm": {
+    "id": "UPSAHL/_/Drugs",
+    "listeners": 219378,
+    "playcount": 1441599,
+    "title": "Drugs",
+    "artist": "UPSAHL",
+    "mbid": "46431321-ec3d-403a-bc80-1e96231061f7",
+    "artistMbid": "6c271707-9c98-4024-b6a0-818569ce9028",
+    "tags": [
+      "pop",
+      "indie pop",
+      "tripping",
+      "tiktok"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3430640f-f799-4e93-9c85-9dbb4a2aaad9",
+    "artistMbid": "6c271707-9c98-4024-b6a0-818569ce9028",
+    "releaseCount": 4,
+    "releasedAt": "2019-01-18",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "4A2905BSPeVOfWzxePS3Yj",
+      "deezer": "641422912"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003856669",
+      "bandcamp": "https://upsahl.bandcamp.com/",
+      "discogs": "7771387",
+      "spotify": "1294QqYm1VuxxjRiL9M0h9",
+      "deezer": "11669905",
+      "soundcloud": "https://soundcloud.com/upsahlmusic",
+      "wikidata": "Q94050009",
+      "youtube": "UCRcL5nuXfXB_8k2ikExgCuw"
+    }
+  }
+}

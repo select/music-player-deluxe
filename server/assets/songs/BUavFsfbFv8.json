@@ -1,0 +1,73 @@
+{
+  "youtubeId": "BUavFsfbFv8",
+  "title": "Calling Elvis",
+  "artist": "Dire Straits",
+  "lastFetched": "2025-12-04T14:20:16.174Z",
+  "odesli": {
+    "amazonMusic": "B001NS1ROG",
+    "amazonStore": "B001NS1ROG",
+    "anghami": "70647369",
+    "boomplay": "2939050",
+    "pandora": "TR:71262",
+    "soundcloud": "direstraits/calling-elvis-1",
+    "tidal": "34433776",
+    "youtube": "BUavFsfbFv8",
+    "youtubeMusic": "BUavFsfbFv8"
+  },
+  "lastfm": {
+    "summary": "\"Calling Elvis\" is a song written by Mark Knopfler. It first appeared on the final studio album by the band, On Every Street (1991), and was released as the first single from that album, peaking at number 21 in the United Kingdom. It also appears on the 1993 live album On the Night.\n\nThe music video was directed by Gerry Anderson of Thunderbirds fame and includes several members of the band represented in marionette form.\n\nThe song is about an Elvis fan who believes Elvis Presley still to be alive <a href=\"http://www.last.fm/music/Dire+Straits/_/Calling+Elvis\">Read more on Last.fm</a>.",
+    "id": "Dire+Straits/_/Calling+Elvis",
+    "listeners": 293975,
+    "playcount": 1413748,
+    "title": "Calling Elvis",
+    "artist": "Dire Straits",
+    "mbid": "010b1247-6cb5-3fdc-804a-105f4ed60919",
+    "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+    "tags": [
+      "rock",
+      "classic rock",
+      "80s",
+      "dire straits",
+      "guitar"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "a1e88c2e-f041-462a-a0c8-1704d2b6c3e5",
+    "artistMbid": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+    "releaseCount": 25,
+    "genres": [
+      "blues rock",
+      "classic rock",
+      "country rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "blues rock",
+      "classic rock",
+      "pop rock",
+      "pub rock",
+      "rock",
+      "rock and roll",
+      "roots rock",
+      "soft rock",
+      "sophisti-pop"
+    ],
+    "releasedAt": "1991-08-19",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000167517",
+      "discogs": "103687",
+      "spotify": "0WwSkZ7LtFUFjGjMZBMt6T",
+      "deezer": "176",
+      "lastfm": "Dire+Straits",
+      "genius": "Dire-straits",
+      "rateyourmusic": "dire_straits",
+      "soundcloud": "https://soundcloud.com/direstraits",
+      "wikidata": "Q50040",
+      "youtube": "UCA37MBUzQgLbUHoUQgl-p0g"
+    }
+  }
+}

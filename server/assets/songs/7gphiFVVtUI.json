@@ -1,0 +1,41 @@
+{
+  "youtubeId": "7gphiFVVtUI",
+  "title": "The Song of the Golden Dragon",
+  "artist": "Estas Tonne",
+  "lastFetched": "2025-12-04T14:22:54.998Z",
+  "odesli": {
+    "boomplay": "96165732",
+    "pandora": "TR:73328358",
+    "soundcloud": "lautaro-farrulla/estas-tonne-the-song-of-the-golden-dragon",
+    "youtube": "7gphiFVVtUI",
+    "youtubeMusic": "7gphiFVVtUI"
+  },
+  "lastfm": {
+    "id": "Estas+Tonne/_/The+Song+of+the+Golden+Dragon",
+    "listeners": 36111,
+    "playcount": 202651,
+    "title": "The Song of the Golden Dragon",
+    "artist": "Estas Tonne",
+    "mbid": "024333f7-4bad-47c1-b2d2-fcc5fda67c9e",
+    "artistMbid": "70b2bb3e-873e-4e32-bbc7-a401b4c88d48",
+    "tags": [
+      "acoustic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "173ef5b9-bfcf-4670-a2cf-3b410ffed232",
+    "artistMbid": "70b2bb3e-873e-4e32-bbc7-a401b4c88d48",
+    "releaseCount": 3,
+    "releasedAt": "2009-08-06",
+    "artistCountry": "UA",
+    "externalIdsArtist": {
+      "bandcamp": "https://estastonne.bandcamp.com/",
+      "discogs": "3267133",
+      "deezer": "470547",
+      "genius": "Estas-tonne",
+      "rateyourmusic": "estas_tonne",
+      "soundcloud": "https://soundcloud.com/estastonne",
+      "wikidata": "Q17254154"
+    }
+  }
+}

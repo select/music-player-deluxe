@@ -1,0 +1,71 @@
+{
+  "youtubeId": "O-fyNgHdmLI",
+  "title": "My Sacrifice",
+  "artist": "Creed",
+  "lastFetched": "2025-12-04T14:18:40.136Z",
+  "odesli": {
+    "amazonMusic": "B00KZB9AZA",
+    "amazonStore": "B00KZB9AZA",
+    "audius": "YVy07",
+    "anghami": "4195904",
+    "boomplay": "2057530",
+    "pandora": "TR:173116880",
+    "soundcloud": "creedofficial/my-sacrifice",
+    "spotify": "2VSbEXqs6NbNiZSTcHlIDR",
+    "tidal": "31849370",
+    "yandex": "328640",
+    "youtube": "O-fyNgHdmLI",
+    "youtubeMusic": "O-fyNgHdmLI"
+  },
+  "lastfm": {
+    "summary": "\"My Sacrifice\" is a single released by the American post-grunge band Creed on their album Weathered in 2001. The song peaked at #4 on the Billboard Hot 100 singles chart on February 9, 2002, after reaching the Top 10 on December 29, 2001, and #1 on the Mainstream Rock Tracks chart for 9 consecutive weeks, starting in December 2001. It was featured in a series of promotional tribute videos made by World Wrestling Entertainment <a href=\"http://www.last.fm/music/Creed/_/My+Sacrifice\">Read more on Last.fm</a>.",
+    "id": "Creed/_/My+Sacrifice",
+    "listeners": 747392,
+    "playcount": 4890942,
+    "tags": [
+      "rock",
+      "alternative rock",
+      "Creed",
+      "alternative",
+      "hard rock"
+    ],
+    "title": "My Sacrifice",
+    "artist": "Creed",
+    "mbid": "10f64786-1351-3571-be89-733da0129f80",
+    "artistMbid": "4b1a830b-0a1f-42e5-b8d5-1d6743912e99"
+  },
+  "musicbrainz": {
+    "trackMbid": "89eb636d-0f7a-4c91-a488-65f5e0c87a51",
+    "artistMbid": "4b1a830b-0a1f-42e5-b8d5-1d6743912e99",
+    "releaseCount": 25,
+    "genres": [
+      "alternative rock",
+      "hard rock",
+      "pop",
+      "post-grunge",
+      "rock"
+    ],
+    "artistGenres": [
+      "alternative rock",
+      "hard rock",
+      "post-grunge",
+      "rock"
+    ],
+    "releasedAt": "2001-01-19",
+    "artistCountry": "US",
+    "externalIdsTrack": {
+      "spotify": "2VSbEXqs6NbNiZSTcHlIDR"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0000782768",
+      "discogs": "261665",
+      "spotify": "43sZBwHjahUvgbx1WNIkIz",
+      "deezer": "1783",
+      "lastfm": "Creed",
+      "genius": "Creed",
+      "rateyourmusic": "creed",
+      "soundcloud": "https://soundcloud.com/creedofficial",
+      "wikidata": "Q308816"
+    }
+  }
+}

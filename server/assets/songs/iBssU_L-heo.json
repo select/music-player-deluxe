@@ -1,0 +1,65 @@
+{
+  "youtubeId": "iBssU_L-heo",
+  "title": "No Long Talking",
+  "artist": "Lady Saw",
+  "lastFetched": "2025-12-04T14:20:52.937Z",
+  "odesli": {
+    "amazonMusic": "B000ZJMMWU",
+    "amazonStore": "B000ZJMMWU",
+    "audiomack": "50628423",
+    "anghami": "27304330",
+    "boomplay": "5871607",
+    "deezer": "63399149",
+    "appleMusic": "309129413",
+    "itunes": "309129413",
+    "napster": "tra.54611294",
+    "pandora": "TR:641793",
+    "soundcloud": "lady-saw-official/no-long-talking",
+    "spotify": "73OlHt1eqdPNvFONT0kgi3",
+    "tidal": "2483123",
+    "yandex": "27702",
+    "youtube": "iBssU_L-heo",
+    "youtubeMusic": "iBssU_L-heo"
+  },
+  "lastfm": {
+    "id": "Lady+Saw/_/No+Long+Talking",
+    "listeners": 4362,
+    "playcount": 11821,
+    "title": "No Long Talking",
+    "artist": "Lady Saw",
+    "mbid": "07cfd31c-53c5-3f19-bbab-8cc009ba4b42",
+    "artistMbid": "be23dca9-50e8-455d-9029-1372b299aff0",
+    "tags": [
+      "dancehall",
+      "reggae",
+      "lady saw"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f9debcb7-c2fb-4f17-8f2e-351007bff024",
+    "artistMbid": "be23dca9-50e8-455d-9029-1372b299aff0",
+    "releaseCount": 2,
+    "genres": [
+      "dancehall",
+      "reggae",
+      "roots reggae"
+    ],
+    "artistGenres": [
+      "dancehall",
+      "reggae"
+    ],
+    "releasedAt": "1996",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000122252",
+      "discogs": "31798",
+      "spotify": "2X1VgNqQOiSbkyel3a9rjK",
+      "deezer": "13364",
+      "lastfm": "Lady+Saw",
+      "genius": "Lady-saw",
+      "rateyourmusic": "lady_saw",
+      "wikidata": "Q166036",
+      "youtube": "UClP2lCaDAJ2FifJzzZHU9fA"
+    }
+  }
+}

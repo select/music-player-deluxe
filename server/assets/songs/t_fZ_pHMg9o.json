@@ -1,0 +1,73 @@
+{
+  "youtubeId": "t_fZ_pHMg9o",
+  "title": "Grapes Of Wrath",
+  "artist": "Weezer",
+  "lastFetched": "2025-12-04T14:15:57.305Z",
+  "odesli": {
+    "amazonMusic": "B08TGXHKM5",
+    "amazonStore": "B08TGXHKM5",
+    "audiomack": "12306970",
+    "anghami": "98139802",
+    "boomplay": "53274856",
+    "deezer": "1225343022",
+    "appleMusic": "1549769057",
+    "itunes": "1549769057",
+    "napster": "tra.555876720",
+    "pandora": "TR:40652501",
+    "soundcloud": "weezer/grapes-of-wrath",
+    "spotify": "7s42bmqI0kQpoO80H3Vnqu",
+    "tidal": "170974428",
+    "yandex": "77241829",
+    "youtube": "t_fZ_pHMg9o",
+    "youtubeMusic": "t_fZ_pHMg9o"
+  },
+  "lastfm": {
+    "id": "Weezer/_/Grapes+of+Wrath",
+    "listeners": 58468,
+    "playcount": 482131,
+    "title": "Grapes of Wrath",
+    "artist": "Weezer",
+    "mbid": "03cc8450-04b0-41d8-b31a-497b848a4332",
+    "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+    "tags": [
+      "pop rock",
+      "alt rock",
+      "alternative rock",
+      "power pop"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "635f7949-2e3e-4159-82b5-b5c140cf32ac",
+    "artistMbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+    "releaseCount": 8,
+    "genres": [
+      "chamber pop",
+      "pop rock"
+    ],
+    "artistGenres": [
+      "alternative pop",
+      "alternative rock",
+      "emo",
+      "geek rock",
+      "mainstream rock",
+      "pop rock",
+      "power pop",
+      "rock"
+    ],
+    "releasedAt": "2021-01-29",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000243008",
+      "discogs": "105730",
+      "spotify": "3jOstUTkEu2JkjvRdBA5Gu",
+      "deezer": "418",
+      "lastfm": "Weezer",
+      "genius": "Weezer",
+      "rateyourmusic": "weezer",
+      "soundcloud": "https://soundcloud.com/weezer",
+      "napster": "weezer",
+      "wikidata": "Q209956",
+      "youtube": "UCtHZHneyvFGwxg6MHcbMLAw"
+    }
+  }
+}

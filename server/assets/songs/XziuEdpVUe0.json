@@ -1,0 +1,49 @@
+{
+  "youtubeId": "XziuEdpVUe0",
+  "title": "Planets",
+  "artist": "Jerobeam Fenderson",
+  "lastFetched": "2025-12-04T14:20:49.725Z",
+  "odesli": {
+    "amazonMusic": "B0DJHBHQGK",
+    "amazonStore": "B0DJHBHQGK",
+    "audiomack": "11108078",
+    "deezer": "3036573781",
+    "appleMusic": "1772447942",
+    "itunes": "1772447942",
+    "pandora": "TR:138137425",
+    "soundcloud": "berke-yi-it-195832360/jerobeam-fenderson-planets",
+    "spotify": "21Nkty2eoq9QCBvfA7zHeL",
+    "tidal": "391353960",
+    "youtube": "XziuEdpVUe0",
+    "youtubeMusic": "XziuEdpVUe0"
+  },
+  "lastfm": {
+    "id": "Jerobeam+Fenderson/_/Planets",
+    "listeners": 1105,
+    "playcount": 2982,
+    "title": "Planets",
+    "artist": "Jerobeam Fenderson",
+    "mbid": "5312b07e-779c-47e3-8844-ee915a8ca884",
+    "artistMbid": "658143d8-a27d-4b45-b8f6-f299c2041a7a",
+    "tags": [
+      "electronic",
+      "techno",
+      "experimental",
+      "idm"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "faa6123d-1c2e-4f84-b464-eeb8a62b56d6",
+    "artistMbid": "658143d8-a27d-4b45-b8f6-f299c2041a7a",
+    "releaseCount": 1,
+    "releasedAt": "2016-10-04",
+    "externalIdsArtist": {
+      "bandcamp": "https://jerobeamfenderson.bandcamp.com/",
+      "discogs": "3887650",
+      "spotify": "77G4xsIKpAMcxbWSIttoWp",
+      "deezer": "282331221",
+      "soundcloud": "https://soundcloud.com/jerobeamfenderson",
+      "youtube": "UCECl4aNz5hvuRzW5fgCOHKQ"
+    }
+  }
+}

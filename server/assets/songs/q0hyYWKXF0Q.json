@@ -1,0 +1,70 @@
+{
+  "youtubeId": "q0hyYWKXF0Q",
+  "title": "Dance Monkey",
+  "artist": "Tones And I",
+  "lastFetched": "2025-12-04T14:22:42.506Z",
+  "odesli": {
+    "amazonMusic": "B07W7D8V7J",
+    "amazonStore": "B07W7D8V7J",
+    "audiomack": "8213864",
+    "audius": "0OWym",
+    "anghami": "68795758",
+    "boomplay": "7847677",
+    "deezer": "739870792",
+    "appleMusic": "1475930045",
+    "itunes": "1475930045",
+    "napster": "tra.396711597",
+    "pandora": "TR:47063000",
+    "soundcloud": "tonesandi-music/dance-monkey",
+    "spotify": "2XU0oxnq2qxCpomAAuJY8K",
+    "tidal": "114833547",
+    "yandex": "56204557",
+    "youtube": "q0hyYWKXF0Q",
+    "youtubeMusic": "q0hyYWKXF0Q"
+  },
+  "lastfm": {
+    "summary": "Dance Monkey\" is a song by Australian singer Tones and I, released on 10 May 2019 as the second single (first in the US) from Tones and I's debut EP, The Kids Are Coming. The song was produced and mixed by Konstantin Kersting. It is often noted as one of the most influential songs of pop music. <a href=\"http://www.last.fm/music/Tones+and+I/_/Dance+Monkey\">Read more on Last.fm</a>.",
+    "id": "Tones+and+I/_/Dance+Monkey",
+    "listeners": 726736,
+    "playcount": 7256401,
+    "title": "Dance Monkey",
+    "artist": "Tones and I",
+    "artistMbid": "663f33f4-8e5f-4773-93ea-493a1135de9a",
+    "tags": [
+      "pop",
+      "2019",
+      "2010s"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c0f89d6a-d740-4f91-b6e1-d5e8572268c1",
+    "artistMbid": "663f33f4-8e5f-4773-93ea-493a1135de9a",
+    "releaseCount": 25,
+    "genres": [
+      "pop"
+    ],
+    "artistGenres": [
+      "dance-pop",
+      "electropop",
+      "indie pop",
+      "pop soul"
+    ],
+    "releasedAt": "2019-05-10",
+    "artistCountry": "AU",
+    "externalIdsTrack": {
+      "spotify": "4L0XKRWcpX0dW1q6fy6ytJ"
+    },
+    "externalIdsArtist": {
+      "allmusic": "mn0003865682",
+      "discogs": "7353588",
+      "spotify": "2NjfBq1NflQcKSeiDooVjY",
+      "deezer": "59070642",
+      "pandora": "tones-and-i",
+      "lastfm": "Tones+and+I",
+      "genius": "Tones-and-i",
+      "soundcloud": "https://soundcloud.com/tonesandi-music",
+      "wikidata": "Q62887629",
+      "youtube": "UCQeiBlCcS4-XGwFjrvDn96w"
+    }
+  }
+}

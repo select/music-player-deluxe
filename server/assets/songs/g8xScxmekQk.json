@@ -1,0 +1,56 @@
+{
+  "youtubeId": "g8xScxmekQk",
+  "title": "Jailbreak",
+  "artist": "AC/DC",
+  "lastFetched": "2025-12-04T14:16:20.562Z",
+  "odesli": {
+    "soundcloud": "acdcofficial/jailbreak",
+    "spotify": "5UKeFkVeUfvP6S43I8s9mt",
+    "yandex": "5574955",
+    "youtube": "g8xScxmekQk",
+    "youtubeMusic": "g8xScxmekQk"
+  },
+  "lastfm": {
+    "summary": "The song \"Jailbreak\" by AC/DC. Originally released only in Australia on the album Dirty Deeds Done Dirty Cheap. It was then re-released on an EP with 4 songs from the Australian High Voltage in 1984 to the American audience. <a href=\"http://www.last.fm/music/AC%2FDC/_/Jailbreak\">Read more on Last.fm</a>.",
+    "id": "AC%2FDC/_/Jailbreak",
+    "listeners": 303037,
+    "playcount": 1499501,
+    "title": "Jailbreak",
+    "artist": "AC/DC",
+    "mbid": "0031e086-4913-3571-8e16-0fcc82614430",
+    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+    "tags": [
+      "hard rock",
+      "rock",
+      "classic rock",
+      "acdc"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0a19cfa1-ad42-4f73-8f7b-d16efbf862ed",
+    "artistMbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+    "releaseCount": 1,
+    "artistGenres": [
+      "blues rock",
+      "classic rock",
+      "hard rock",
+      "rock",
+      "rock and roll"
+    ],
+    "releasedAt": "2003-11-11",
+    "artistCountry": "AU",
+    "externalIdsArtist": {
+      "allmusic": "mn0000574772",
+      "discogs": "84752",
+      "spotify": "711MCceyCBcFnzjGY4Q7Un",
+      "deezer": "115",
+      "lastfm": "AC%2FDC",
+      "genius": "Ac-dc",
+      "rateyourmusic": "ac_dc",
+      "soundcloud": "https://soundcloud.com/acdcofficial",
+      "napster": "acdc",
+      "wikidata": "Q27593",
+      "youtube": "UCVm4YdI3hobkwsHTTOMVJKg"
+    }
+  }
+}

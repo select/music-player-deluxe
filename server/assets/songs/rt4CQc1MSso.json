@@ -1,0 +1,60 @@
+{
+  "youtubeId": "rt4CQc1MSso",
+  "title": "Last Night of the Kings",
+  "artist": "Van Canto",
+  "lastFetched": "2025-12-04T14:21:45.378Z",
+  "odesli": {
+    "amazonMusic": "B073SYRY95",
+    "amazonStore": "B073SYRY95",
+    "appleMusic": "1183577998",
+    "itunes": "1183577998",
+    "pandora": "TR:1531837",
+    "soundcloud": "van-canto-official/last-night-of-the-kings",
+    "spotify": "5fMulb4pYXXg577sMdXkwP",
+    "tidal": "68083266",
+    "youtube": "rt4CQc1MSso",
+    "youtubeMusic": "rt4CQc1MSso"
+  },
+  "lastfm": {
+    "id": "Van+Canto/_/Last+Night+of+the+Kings",
+    "listeners": 26498,
+    "playcount": 215090,
+    "title": "Last Night of the Kings",
+    "artist": "Van Canto",
+    "mbid": "e446d20b-932d-3a13-b067-8dc66638855f",
+    "artistMbid": "c0d4ec16-f684-4751-b6cb-a9c55c0c66d0",
+    "tags": [
+      "acapella metal",
+      "a cappella",
+      "power metal"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "f4dc1baa-6e39-4c65-bf7f-aa2ad7a9064a",
+    "artistMbid": "c0d4ec16-f684-4751-b6cb-a9c55c0c66d0",
+    "releaseCount": 2,
+    "genres": [
+      "heavy metal",
+      "metal",
+      "power metal",
+      "rock",
+      "symphonic metal"
+    ],
+    "artistGenres": [
+      "heavy metal",
+      "metal",
+      "power metal"
+    ],
+    "releasedAt": "2010-02-24",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001630659",
+      "discogs": "1281538",
+      "spotify": "7cTq0bYGTIlPoXo9lFXJlL",
+      "deezer": "16512",
+      "lastfm": "Van+Canto",
+      "rateyourmusic": "van-canto",
+      "wikidata": "Q267720"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "youtubeId": "77ygz-MC6_8",
+  "title": "Dönence",
+  "artist": "Barış Manço",
+  "lastFetched": "2025-12-04T14:17:45.236Z",
+  "odesli": {
+    "amazonMusic": "B00HV1P29U",
+    "amazonStore": "B00HV1P29U",
+    "audius": "blajYxP",
+    "anghami": "4031860",
+    "boomplay": "8297241",
+    "appleMusic": "607178721",
+    "itunes": "607178721",
+    "soundcloud": "barismanco71122/doenence-1",
+    "spotify": "0oaTD1wRqKVsZn0xXyNGNi",
+    "tidal": "25392725",
+    "youtube": "77ygz-MC6_8",
+    "youtubeMusic": "77ygz-MC6_8"
+  },
+  "lastfm": {
+    "id": "Bar%C4%B1%C5%9F+Man%C3%A7o/_/D%C3%B6nence",
+    "listeners": 37717,
+    "playcount": 190348,
+    "title": "Dönence",
+    "artist": "Barış Manço",
+    "mbid": "85b6f4b7-6d7a-44f3-9120-aba1d719892a",
+    "artistMbid": "33736d61-e2a2-4070-88dd-ad2e173d174c",
+    "tags": [
+      "turkish",
+      "turkish rock",
+      "baris manco",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "791ed8cc-64cb-429c-a33a-97fc3fbdb44e",
+    "artistMbid": "33736d61-e2a2-4070-88dd-ad2e173d174c",
+    "releaseCount": 6,
+    "artistGenres": [
+      "anatolian rock",
+      "folk rock",
+      "pop rock",
+      "progressive rock",
+      "psychedelic rock",
+      "rock",
+      "singer-songwriter"
+    ],
+    "releasedAt": "1989",
+    "artistCountry": "TR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000135575",
+      "discogs": "948071",
+      "spotify": "3eVuump9qyK0YCQQo4mKbc",
+      "deezer": "13758",
+      "lastfm": "Bar%C4%B1%C5%9F+Man%C3%A7o",
+      "genius": "Bars-manco",
+      "rateyourmusic": "baris-manco",
+      "soundcloud": "https://soundcloud.com/barismanco-music",
+      "wikidata": "Q442656",
+      "youtube": "UCf_GecNqk1l30IxPCZQGkeg"
+    }
+  }
+}

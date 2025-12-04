@@ -1,0 +1,63 @@
+{
+  "youtubeId": "64CACoHNBEI",
+  "title": "Norupo",
+  "artist": "Heilung",
+  "lastFetched": "2025-12-04T14:22:24.995Z",
+  "odesli": {
+    "amazonMusic": "B07Q59769R",
+    "amazonStore": "B07Q59769R",
+    "audiomack": "20435804",
+    "anghami": "49404236",
+    "boomplay": "18624553",
+    "deezer": "656051642",
+    "appleMusic": "1457872644",
+    "itunes": "1457872644",
+    "napster": "tra.364579915",
+    "pandora": "TR:17689743",
+    "soundcloud": "heilung-music/norupo",
+    "spotify": "7oGwKNBX90dXL53ZbhPxJk",
+    "tidal": "106600732",
+    "yandex": "51474635",
+    "youtube": "64CACoHNBEI",
+    "youtubeMusic": "64CACoHNBEI"
+  },
+  "lastfm": {
+    "id": "Heilung/_/Norupo",
+    "listeners": 77766,
+    "playcount": 612011,
+    "title": "Norupo",
+    "artist": "Heilung",
+    "mbid": "204c70f4-b0a6-4dfd-affe-fbd59abbbd42",
+    "artistMbid": "e52c3c7a-1ded-49e0-91d3-f627658b3d8a",
+    "tags": [
+      "neofolk",
+      "folk",
+      "season of mist records",
+      "frauen und technik"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "51ca3930-80a5-4a38-8a89-582ad9bbeeea",
+    "artistMbid": "e52c3c7a-1ded-49e0-91d3-f627658b3d8a",
+    "releaseCount": 7,
+    "artistGenres": [
+      "dark folk",
+      "neofolk",
+      "pagan folk"
+    ],
+    "releasedAt": "2019-04-04",
+    "artistCountry": "DK",
+    "externalIdsArtist": {
+      "allmusic": "mn0003715148",
+      "bandcamp": "https://heilung.bandcamp.com/",
+      "discogs": "4706560",
+      "spotify": "7sTKZr30LqC928DZ5P9mNQ",
+      "deezer": "4969428",
+      "lastfm": "Heilung",
+      "genius": "Heilung",
+      "rateyourmusic": "heilung",
+      "wikidata": "Q50179341",
+      "youtube": "UC3Jvz7FpBsY73_wEjFV67wQ"
+    }
+  }
+}

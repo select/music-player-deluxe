@@ -1,0 +1,53 @@
+{
+  "youtubeId": "LIcX9x4lHO4",
+  "title": "Poupée de Cire",
+  "artist": "Wizo",
+  "lastFetched": "2025-12-04T14:16:02.629Z",
+  "odesli": {
+    "amazonMusic": "B0011XGGQW",
+    "amazonStore": "B0011XGGQW",
+    "pandora": "TR:5671726",
+    "spotify": "0Fbld0vAjsYbZ4Hs0JCYIJ",
+    "tidal": "16737447",
+    "youtube": "LIcX9x4lHO4",
+    "youtubeMusic": "LIcX9x4lHO4"
+  },
+  "lastfm": {
+    "id": "Wizo/_/Poup%C3%A9e+De+Cire",
+    "listeners": 14180,
+    "playcount": 72443,
+    "title": "Poupée De Cire",
+    "artist": "Wizo",
+    "mbid": "01d77790-1c6e-3a55-afa3-e383680a9952",
+    "artistMbid": "4466f481-c400-4743-ade8-e91f83138baf",
+    "tags": [
+      "punk",
+      "wizo"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "1d9cbc33-1708-45fa-bde7-8cdd84b81474",
+    "artistMbid": "fad99dca-3865-4699-b634-3299ed85028d",
+    "releaseCount": 6,
+    "genres": [
+      "punk",
+      "rock"
+    ],
+    "artistGenres": [
+      "anarcho-punk",
+      "punk",
+      "punk rock"
+    ],
+    "releasedAt": "1995-09-01",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000572284",
+      "discogs": "253297",
+      "spotify": "3bnjnDR8RpA8FA4yZpND07",
+      "deezer": "3484",
+      "lastfm": "Wizo",
+      "rateyourmusic": "wizo",
+      "wikidata": "Q560674"
+    }
+  }
+}

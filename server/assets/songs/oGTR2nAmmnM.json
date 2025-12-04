@@ -1,0 +1,49 @@
+{
+  "youtubeId": "oGTR2nAmmnM",
+  "title": "Pigment",
+  "artist": "Jungle Rootz",
+  "lastFetched": "2025-12-04T14:23:10.973Z",
+  "odesli": {
+    "amazonMusic": "B0FDPDJXTT",
+    "amazonStore": "B0FDPDJXTT",
+    "audiomack": "72415093",
+    "deezer": "3440764001",
+    "appleMusic": "1822436694",
+    "itunes": "1822436694",
+    "pandora": "TR:166746128",
+    "spotify": "2MpDL1CcvkDbj9LDaztcrA",
+    "tidal": "449785397",
+    "yandex": "140894126",
+    "youtube": "oGTR2nAmmnM",
+    "youtubeMusic": "oGTR2nAmmnM"
+  },
+  "lastfm": {
+    "id": "Jungle+Rootz/_/Pigment",
+    "listeners": 92,
+    "playcount": 203,
+    "title": "Pigment",
+    "artist": "Jungle Rootz",
+    "artistMbid": "1e3f3bfc-b5b7-454f-8093-8d34a56a36e1",
+    "tags": [
+      "dubstep"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ddd2b065-e4fd-47c8-942a-68d97cb01ec2",
+    "artistMbid": "1e3f3bfc-b5b7-454f-8093-8d34a56a36e1",
+    "releaseCount": 1,
+    "artistGenres": [
+      "dubstep"
+    ],
+    "releasedAt": "2025-08-01",
+    "externalIdsTrack": {
+      "spotify": "2MpDL1CcvkDbj9LDaztcrA",
+      "deezer": "3440764001"
+    },
+    "externalIdsArtist": {
+      "discogs": "7107580",
+      "spotify": "5MKypgOkitfYLZdLUSgZRi",
+      "deezer": "64428392"
+    }
+  }
+}

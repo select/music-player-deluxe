@@ -1,0 +1,44 @@
+{
+  "youtubeId": "QISxkpwvhjE",
+  "title": "Deutschland isch stabil",
+  "artist": "Teddy Teclebrhan",
+  "lastFetched": "2025-12-04T14:17:50.594Z",
+  "odesli": {
+    "amazonMusic": "B0BNLGZRLC",
+    "amazonStore": "B0BNLGZRLC",
+    "deezer": "2042623567",
+    "appleMusic": "1656969613",
+    "itunes": "1656969613",
+    "soundcloud": "leonklingele/antoine-burtz-feat-teddy-teclebrhan-lohn-isch-da",
+    "spotify": "6YXU2PklJXkXo0lsukDTD9",
+    "tidal": "263373721",
+    "youtube": "QISxkpwvhjE",
+    "youtubeMusic": "QISxkpwvhjE"
+  },
+  "lastfm": {
+    "id": "Teddy+Teclebrhan/_/Deutschland+isch+stabil",
+    "listeners": 4532,
+    "playcount": 26596,
+    "title": "Deutschland isch stabil",
+    "artist": "Teddy Teclebrhan",
+    "tags": [
+      "hip hop",
+      "german",
+      "dumb"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b1d111a0-aaef-4cda-aabb-7af24411746e",
+    "artistMbid": "67ffbb4c-ea05-400b-aee7-a15a7ff05c32",
+    "releaseCount": 1,
+    "releasedAt": "2020-04-28",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "discogs": "4470392",
+      "spotify": "40uoVr8ty6fA9TEpMH0lJ7",
+      "lastfm": "Tedros+Teclebrhan",
+      "rateyourmusic": "tedros_teclebrhan_f1",
+      "wikidata": "Q2399957"
+    }
+  }
+}

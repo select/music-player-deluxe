@@ -1,0 +1,63 @@
+{
+  "youtubeId": "NAHRpEqgcL4",
+  "title": "Kuzu Kuzu",
+  "artist": "Tarkan",
+  "lastFetched": "2025-12-04T14:15:24.127Z",
+  "odesli": {
+    "amazonMusic": "B00BCA3EFU",
+    "amazonStore": "B00BCA3EFU",
+    "audiomack": "7196729",
+    "audius": "BxxVA",
+    "boomplay": "18809163",
+    "deezer": "16412320",
+    "appleMusic": "499334149",
+    "itunes": "499334149",
+    "napster": "tra.53540239",
+    "pandora": "TR:5858020",
+    "soundcloud": "user9709537/kuzu-kuzu",
+    "spotify": "3ajYmPDtB3P7JTPQ64Dr7P",
+    "tidal": "13559731",
+    "yandex": "3571448",
+    "youtube": "NAHRpEqgcL4",
+    "youtubeMusic": "NAHRpEqgcL4"
+  },
+  "lastfm": {
+    "id": "Tarkan/_/Kuzu+Kuzu",
+    "listeners": 49654,
+    "playcount": 333108,
+    "title": "Kuzu Kuzu",
+    "artist": "Tarkan",
+    "mbid": "cdc98d5f-a735-3ad8-b933-bf2e004b62d4",
+    "artistMbid": "4ec2451d-ed0c-4273-b683-4c1312df25fd",
+    "tags": [
+      "turkish",
+      "tarkan"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "95ef0440-318d-4359-88c8-02395af7a852",
+    "artistMbid": "4ec2451d-ed0c-4273-b683-4c1312df25fd",
+    "releaseCount": 7,
+    "genres": [
+      "disco",
+      "electronic",
+      "europop",
+      "pop",
+      "techno"
+    ],
+    "artistGenres": [
+      "pop"
+    ],
+    "releasedAt": "2001-07-26",
+    "artistCountry": "TR",
+    "externalIdsArtist": {
+      "allmusic": "mn0000010278",
+      "discogs": "200979",
+      "spotify": "2yMN0IP20GOaN6q0p0zL5k",
+      "deezer": "3254",
+      "lastfm": "Tarkan",
+      "wikidata": "Q485771",
+      "youtube": "UCnxZBLfmnZwjh8vSg6Kt-Dg"
+    }
+  }
+}

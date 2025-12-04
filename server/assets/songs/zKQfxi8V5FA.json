@@ -1,0 +1,53 @@
+{
+  "youtubeId": "zKQfxi8V5FA",
+  "title": "In the Year 2525",
+  "artist": "Zager & Evans",
+  "lastFetched": "2025-12-04T14:18:23.639Z",
+  "odesli": {
+    "anghami": "2990084",
+    "soundcloud": "zager-evans/in-the-year-2525-exordium",
+    "spotify": "0eJABA3RM6MdN8TIVFN83n",
+    "youtube": "zKQfxi8V5FA",
+    "youtubeMusic": "zKQfxi8V5FA"
+  },
+  "lastfm": {
+    "summary": "This is the opening track of Zager & Evans's debut album 2525 (Exordium & Terminus) <a href=\"http://www.last.fm/music/Zager+&+Evans/_/In+The+Year+2525\">Read more on Last.fm</a>.",
+    "id": "Zager+&+Evans/_/In+The+Year+2525",
+    "listeners": 65195,
+    "playcount": 301452,
+    "title": "In The Year 2525",
+    "artist": "Zager & Evans",
+    "mbid": "fdc68a6f-3725-42d5-ba92-f0d8d8529749",
+    "artistMbid": "8fda69dc-1c26-4a75-8097-f9f8ed210878",
+    "tags": [
+      "60s",
+      "oldies",
+      "classic rock",
+      "rock"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "fdc68a6f-3725-42d5-ba92-f0d8d8529749",
+    "artistMbid": "8fda69dc-1c26-4a75-8097-f9f8ed210878",
+    "releaseCount": 25,
+    "genres": [
+      "classic rock",
+      "electronic",
+      "folk rock",
+      "pop",
+      "psychedelic rock",
+      "rock"
+    ],
+    "artistGenres": [
+      "pop"
+    ],
+    "releasedAt": "1969-07",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000692942",
+      "discogs": "269086",
+      "rateyourmusic": "zager_and_evans",
+      "wikidata": "Q140295"
+    }
+  }
+}
