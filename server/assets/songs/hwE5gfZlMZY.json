@@ -1,0 +1,29 @@
+{
+  "youtubeId": "hwE5gfZlMZY",
+  "title": "THIRD WORLD - 96 DEGREES IN THE SHADE",
+  "lastFetched": "2025-12-04T19:45:27.342Z",
+  "ai": {
+    "title": "96 DEGREES IN THE SHADE",
+    "artist": "THIRD WORLD"
+  },
+  "musicbrainz": {
+    "trackMbid": "0c2cfc16-579d-45c6-9ade-4647a3448843",
+    "artistMbid": "a9355030-319f-4d1b-8798-adaf43f85112",
+    "releaseCount": 3,
+    "artistGenres": [
+      "reggae",
+      "roots reggae"
+    ],
+    "releasedAt": "1980",
+    "artistCountry": "JM",
+    "externalIdsArtist": {
+      "allmusic": "mn0000494474",
+      "discogs": "40152",
+      "spotify": "6qfKnsgz1CwyqA7lTdieRJ",
+      "lastfm": "Third%20World",
+      "rateyourmusic": "third_world",
+      "soundcloud": "https://soundcloud.com/thirdworldband",
+      "wikidata": "Q1816034"
+    }
+  }
+}

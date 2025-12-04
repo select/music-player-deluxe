@@ -1,0 +1,30 @@
+{
+  "youtubeId": "8BaY3_112yQ",
+  "title": "Jürgen Paape - So Weit Wie Noch Nie",
+  "lastFetched": "2025-12-04T19:46:21.019Z",
+  "ai": {
+    "title": "So Weit Wie Noch Nie",
+    "artist": "Jürgen Paape"
+  },
+  "musicbrainz": {
+    "trackMbid": "561545e8-fe23-4a0e-8f37-6a29ec9c01a6",
+    "artistMbid": "cc6d62db-32cc-43a4-83be-e6187e35f34d",
+    "releaseCount": 4,
+    "genres": [
+      "electronic",
+      "house",
+      "idm",
+      "techno"
+    ],
+    "releasedAt": "2001-07-31",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000838852",
+      "discogs": "1364",
+      "spotify": "51qSeH9HimuYMMQ7qbWGrk",
+      "deezer": "16514",
+      "rateyourmusic": "jurgen_paape",
+      "wikidata": "Q74007"
+    }
+  }
+}

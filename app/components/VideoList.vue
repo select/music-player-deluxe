@@ -11,6 +11,7 @@
 					<tr class="border-b border-primary-2">
 						<th class="text-left p-3 font-medium text-primary-4">Video</th>
 						<th class="text-left p-3 font-medium text-primary-4">Duration</th>
+						<th class="text-left p-3 font-medium text-primary-4">Released</th>
 						<th class="text-left p-3 font-medium text-primary-4">Tags</th>
 						<th class="text-left p-3 font-medium text-primary-4">Platforms</th>
 						<th class="text-left p-3 font-medium text-primary-4">Added</th>
@@ -19,7 +20,7 @@
 				<tbody>
 					<!-- Top spacer for non-visible items above viewport -->
 					<tr v-if="topSpacerHeight > 0">
-						<td :colspan="5" :style="{ height: topSpacerHeight + 'px' }" />
+						<td :colspan="6" :style="{ height: topSpacerHeight + 'px' }" />
 					</tr>
 
 					<!-- Visible items -->
@@ -33,7 +34,7 @@
 
 					<!-- Bottom spacer for non-visible items below viewport -->
 					<tr v-if="bottomSpacerHeight > 0">
-						<td :colspan="5" :style="{ height: bottomSpacerHeight + 'px' }" />
+						<td :colspan="6" :style="{ height: bottomSpacerHeight + 'px' }" />
 					</tr>
 				</tbody>
 			</table>

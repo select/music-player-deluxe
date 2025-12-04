@@ -1,0 +1,42 @@
+{
+  "youtubeId": "qOMcXV28KrQ",
+  "title": "modeselektor - edgar",
+  "lastFetched": "2025-12-04T19:46:25.570Z",
+  "ai": {
+    "title": "edgar",
+    "artist": "modeselektor"
+  },
+  "musicbrainz": {
+    "trackMbid": "a4badbf3-7b9c-4d81-8144-9b92aefdbd5a",
+    "artistMbid": "8a7a4e72-a099-425f-8238-80706fc1c746",
+    "releaseCount": 4,
+    "genres": [
+      "electro",
+      "electronic",
+      "glitch",
+      "hip hop",
+      "idm"
+    ],
+    "artistGenres": [
+      "electro",
+      "electronic",
+      "idm",
+      "techno"
+    ],
+    "releasedAt": "2007-09-10",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000332832",
+      "bandcamp": "https://modeselektor.bandcamp.com/",
+      "discogs": "34120",
+      "spotify": "2jYMYP2SVifgmzNRQJx3SJ",
+      "deezer": "573",
+      "lastfm": "Modeselektor",
+      "genius": "Modeselektor",
+      "rateyourmusic": "modeselektor",
+      "soundcloud": "https://soundcloud.com/modeselektor",
+      "wikidata": "Q829725",
+      "youtube": "UCKUROKmlH_j_o0ufW-NSyKg"
+    }
+  }
+}

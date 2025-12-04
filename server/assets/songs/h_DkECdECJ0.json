@@ -1,0 +1,36 @@
+{
+  "youtubeId": "h_DkECdECJ0",
+  "title": "Fred again.. – Julia (Deep Diving)",
+  "lastFetched": "2025-12-04T19:44:52.223Z",
+  "ai": {
+    "title": "Julia (Deep Diving)",
+    "artist": "Fred again.."
+  },
+  "musicbrainz": {
+    "trackMbid": "965d038a-b6d7-45dc-a69d-5664d784c823",
+    "artistMbid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e",
+    "releaseCount": 5,
+    "artistGenres": [
+      "edm",
+      "electronic",
+      "future garage",
+      "stutter house",
+      "uk garage"
+    ],
+    "releasedAt": "2020-11-23",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0003882656",
+      "bandcamp": "https://fredagainagain.bandcamp.com/",
+      "discogs": "8664813",
+      "spotify": "4oLeXFyACqeem2VImYeBFe",
+      "deezer": "76053262",
+      "lastfm": "Fred+again..",
+      "genius": "Fred-again",
+      "rateyourmusic": "fred-again",
+      "soundcloud": "https://soundcloud.com/fredagain",
+      "wikidata": "Q64009886",
+      "youtube": "UCXF6DMVLIVRr2OQAqyfEGeg"
+    }
+  }
+}

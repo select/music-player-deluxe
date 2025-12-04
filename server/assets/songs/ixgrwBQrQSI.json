@@ -1,0 +1,46 @@
+{
+  "youtubeId": "ixgrwBQrQSI",
+  "title": "Justin Timberlake - Cry Me A River [Kaleidoscope Orchestra Remix]",
+  "lastFetched": "2025-12-04T19:45:49.173Z",
+  "ai": {
+    "title": "Cry Me A River",
+    "artist": "Justin Timberlake"
+  },
+  "musicbrainz": {
+    "trackMbid": "aae9a560-1a82-4fae-8cd5-9436dba789ec",
+    "artistMbid": "596ffa74-3d08-44ef-b113-765d43d12738",
+    "releaseCount": 2,
+    "genres": [
+      "ballad",
+      "mainstream rock",
+      "pop",
+      "teen pop"
+    ],
+    "artistGenres": [
+      "boogie",
+      "contemporary r&b",
+      "dance-pop",
+      "disco",
+      "electropop",
+      "neo soul",
+      "pop",
+      "r&b",
+      "synth funk"
+    ],
+    "releasedAt": "2004-01-20",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000312890",
+      "discogs": "66824",
+      "spotify": "31TPClRtHm23RisEBtV3X7",
+      "deezer": "1147",
+      "lastfm": "Justin+Timberlake",
+      "genius": "Justin-timberlake",
+      "rateyourmusic": "justin_timberlake",
+      "soundcloud": "https://soundcloud.com/justintimberlake",
+      "napster": "justin-timberlake",
+      "wikidata": "Q43432",
+      "youtube": "UC6VwktUsQQDCkHG1h6YftAQ"
+    }
+  }
+}

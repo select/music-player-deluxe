@@ -59,6 +59,27 @@
 			</span>
 		</td>
 
+		<!-- Release Year & Country Column -->
+		<td class="p-3">
+			<div class="flex items-center gap-2 text-xs">
+				<span
+					class="inline-block w-4"
+					:title="
+						video.artistCountry ? `Artist from ${video.artistCountry}` : ''
+					"
+				>
+					{{ video.artistCountry ? getFlagEmoji(video.artistCountry) : "" }}
+				</span>
+				<span
+					v-if="video.releasedAt"
+					class="text-primary-3"
+					:title="formatReleaseDate(video.releasedAt)"
+				>
+					{{ video.releasedAt.split("-")[0] }}
+				</span>
+			</div>
+		</td>
+
 		<!-- Tags Column -->
 		<td class="p-3 min-w-xs">
 			<div
@@ -154,5 +175,24 @@ dayjs.extend(relativeTime);
 // Format timestamp to readable date using dayjs
 const formatDate = (timestamp: number): string => {
 	return dayjs(timestamp).fromNow();
+};
+
+// Format release date (YYYY-MM-DD or YYYY-MM or YYYY)
+const formatReleaseDate = (date: string): string => {
+	if (!date) return "";
+	const parts = date.split("-");
+	if (parts.length === 1) return parts[0]; // Just year
+	if (parts.length === 2) return dayjs(`${date}-01`).format("MMM YYYY"); // Year and month
+	return dayjs(date).format("MMM D, YYYY"); // Full date
+};
+
+// Convert country code to flag emoji
+const getFlagEmoji = (countryCode: string): string => {
+	if (!countryCode || countryCode.length !== 2) return "";
+	const codePoints = countryCode
+		.toUpperCase()
+		.split("")
+		.map((char) => 127397 + char.charCodeAt(0));
+	return String.fromCodePoint(...codePoints);
 };
 </script>

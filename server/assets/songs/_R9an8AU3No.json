@@ -1,0 +1,29 @@
+{
+  "youtubeId": "_R9an8AU3No",
+  "title": "Pete Drake & his talking steel guitar - \"Forever\"",
+  "lastFetched": "2025-12-04T19:46:23.276Z",
+  "ai": {
+    "title": "Forever",
+    "artist": "Pete Drake & his talking steel guitar"
+  },
+  "musicbrainz": {
+    "trackMbid": "25d0c926-6653-428b-8056-3f0866cafef4",
+    "artistMbid": "6f64e3ec-2f83-4473-ba9b-3b5b76fc2e94",
+    "releaseCount": 1,
+    "artistGenres": [
+      "country",
+      "country pop",
+      "countrypolitan",
+      "nashville sound",
+      "space age pop"
+    ],
+    "releasedAt": "1964",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "discogs": "322803",
+      "spotify": "15QFACW5Ds2oQABA1Atqxs",
+      "rateyourmusic": "pete-drake",
+      "wikidata": "Q7171938"
+    }
+  }
+}

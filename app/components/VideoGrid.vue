@@ -65,12 +65,38 @@
 					<p class="text-gray-400 text-xs sm:text-sm">
 						{{ video.channel }}
 					</p>
-					<p
-						class="text-gray-500 text-xs sm:text-sm flex items-center justify-center gap-1"
-					>
-						<span class="i-mdi-clock-outline text-xs" />
-						{{ video.duration }}
-					</p>
+					<div class="flex flex-col items-end gap-1">
+						<p
+							class="text-gray-500 text-xs sm:text-sm flex items-center justify-center gap-1"
+						>
+							<span class="i-mdi-clock-outline text-xs" />
+							{{ video.duration }}
+						</p>
+						<div
+							v-if="video.releasedAt || video.artistCountry"
+							class="flex items-center gap-1 text-xs"
+						>
+							<span
+								class="inline-block w-4"
+								:title="
+									video.artistCountry
+										? `Artist from ${video.artistCountry}`
+										: ''
+								"
+							>
+								{{
+									video.artistCountry ? getFlagEmoji(video.artistCountry) : ""
+								}}
+							</span>
+							<span
+								v-if="video.releasedAt"
+								class="text-gray-500"
+								:title="formatReleaseDate(video.releasedAt)"
+							>
+								{{ video.releasedAt.split("-")[0] }}
+							</span>
+						</div>
+					</div>
 				</div>
 
 				<!-- User and Created Date -->
@@ -234,5 +260,24 @@ dayjs.extend(relativeTime);
 // Format timestamp to readable date using dayjs
 const formatDate = (timestamp: number): string => {
 	return dayjs(timestamp).fromNow();
+};
+
+// Format release date (YYYY-MM-DD or YYYY-MM or YYYY)
+const formatReleaseDate = (date: string): string => {
+	if (!date) return "";
+	const parts = date.split("-");
+	if (parts.length === 1) return parts[0]; // Just year
+	if (parts.length === 2) return dayjs(`${date}-01`).format("MMM YYYY"); // Year and month
+	return dayjs(date).format("MMM D, YYYY"); // Full date
+};
+
+// Convert country code to flag emoji
+const getFlagEmoji = (countryCode: string): string => {
+	if (!countryCode || countryCode.length !== 2) return "";
+	const codePoints = countryCode
+		.toUpperCase()
+		.split("")
+		.map((char) => 127397 + char.charCodeAt(0));
+	return String.fromCodePoint(...codePoints);
 };
 </script>

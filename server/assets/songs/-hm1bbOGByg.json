@@ -1,0 +1,27 @@
+{
+  "youtubeId": "-hm1bbOGByg",
+  "title": "Billy Cobb - The Shell Shack (lyrics)",
+  "lastFetched": "2025-12-04T19:45:30.797Z",
+  "ai": {
+    "title": "The Shell Shack",
+    "artist": "Billy Cobb"
+  },
+  "musicbrainz": {
+    "trackMbid": "fc7f58b5-bd1d-412e-8684-1cf1503c1dac",
+    "artistMbid": "fc38557f-d18c-4d46-a52d-1f799d0d56df",
+    "releaseCount": 3,
+    "genres": [
+      "alternative rock"
+    ],
+    "releasedAt": "2019-05-03",
+    "externalIdsArtist": {
+      "bandcamp": "https://billycobb.bandcamp.com/",
+      "discogs": "6591021",
+      "spotify": "1jIl0sLvlOzGpT2RqPBfyE",
+      "deezer": "10347044",
+      "rateyourmusic": "billy-cobb",
+      "soundcloud": "https://soundcloud.com/omancesntead",
+      "youtube": "UCrfu-6zSLqPK-H_eFEZb9QA"
+    }
+  }
+}

@@ -89,7 +89,9 @@
 							>
 								<div
 									class="absolute inset-y-0 left-0 bg-accent transition-all duration-500 flex items-center justify-end pr-2"
-									:style="{ width: getBarWidth(source.items || 0, maxSourceItems) }"
+									:style="{
+										width: getBarWidth(source.items || 0, maxSourceItems),
+									}"
 								>
 									<span class="text-xs font-semibold text-primary-1">
 										{{ source.items }}
@@ -239,7 +241,7 @@
 				<div>
 					<h3 class="text-lg font-semibold mb-4">Top Tags by User</h3>
 					<div class="space-y-6">
-						<div 
+						<div
 							v-for="userId in sortedUsers"
 							:key="userId"
 							class="bg-primary-1 rounded-lg p-4"
@@ -298,6 +300,129 @@
 					</div>
 				</div>
 			</section>
+
+			<!-- Country Statistics Section -->
+			<section class="bg-bg-gradient rounded-lg p-6">
+				<h2 class="text-2xl font-semibold mb-6 flex items-center gap-2">
+					<div class="i-mdi-earth" />
+					Country Statistics
+				</h2>
+				<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+					<div class="bg-primary-1 rounded-lg p-4 text-center">
+						<div class="text-3xl font-bold text-accent mb-1">
+							{{ statsData.playlist.itemsWithCountry }}
+						</div>
+						<div class="text-sm text-primary-3">Songs with Country Data</div>
+					</div>
+					<div class="bg-primary-1 rounded-lg p-4 text-center">
+						<div class="text-3xl font-bold text-accent mb-1">
+							{{
+								getPercentage(
+									statsData.playlist.itemsWithCountry,
+									statsData.playlist.items,
+								)
+							}}%
+						</div>
+						<div class="text-sm text-primary-3">Coverage</div>
+					</div>
+				</div>
+				<div>
+					<h3 class="text-lg font-semibold mb-4">Songs by Country</h3>
+					<div class="space-y-2">
+						<div
+							v-for="country in statsData.playlist.topCountries"
+							:key="country.country"
+							class="flex items-center gap-3"
+						>
+							<div
+								class="w-32 text-sm text-primary-3 truncate flex items-center gap-2"
+							>
+								<span :title="country.country">
+									{{ getFlagEmoji(country.country) }}
+								</span>
+								<span>{{ country.country }}</span>
+							</div>
+							<div
+								class="flex-1 relative h-7 bg-primary-1 rounded-lg overflow-hidden"
+							>
+								<div
+									class="absolute inset-y-0 left-0 bg-accent transition-all duration-500 flex items-center justify-end pr-2"
+									:style="{
+										width: getBarWidth(
+											country.count,
+											statsData.playlist.topCountries[0]?.count || 1,
+										),
+									}"
+								>
+									<span class="text-xs font-semibold text-primary-1">
+										{{ country.count }}
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Release Date Statistics Section -->
+			<section class="bg-bg-gradient rounded-lg p-6">
+				<h2 class="text-2xl font-semibold mb-6 flex items-center gap-2">
+					<div class="i-mdi-calendar" />
+					Release Date Statistics
+				</h2>
+				<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+					<div class="bg-primary-1 rounded-lg p-4 text-center">
+						<div class="text-3xl font-bold text-accent mb-1">
+							{{ statsData.playlist.itemsWithReleaseDate }}
+						</div>
+						<div class="text-sm text-primary-3">Songs with Release Date</div>
+					</div>
+					<div class="bg-primary-1 rounded-lg p-4 text-center">
+						<div class="text-3xl font-bold text-accent mb-1">
+							{{
+								getPercentage(
+									statsData.playlist.itemsWithReleaseDate,
+									statsData.playlist.items,
+								)
+							}}%
+						</div>
+						<div class="text-sm text-primary-3">Coverage</div>
+					</div>
+				</div>
+				<div>
+					<h3 class="text-lg font-semibold mb-4">Songs by Release Year</h3>
+					<div class="space-y-2">
+						<div
+							v-for="yearData in statsData.playlist.releaseYears"
+							:key="yearData.year"
+							class="flex items-center gap-3"
+						>
+							<div class="w-20 text-sm text-primary-3">
+								{{ yearData.year }}
+							</div>
+							<div
+								class="flex-1 relative h-7 bg-primary-1 rounded-lg overflow-hidden"
+							>
+								<div
+									class="absolute inset-y-0 left-0 bg-accent transition-all duration-500 flex items-center justify-end pr-2"
+									:style="{
+										width: getBarWidth(
+											yearData.count,
+											Math.max(
+												...statsData.playlist.releaseYears.map((y) => y.count),
+											),
+										),
+									}"
+								>
+									<span class="text-xs font-semibold text-primary-1">
+										{{ yearData.count }}
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
 		</div>
 	</div>
 </template>
@@ -324,6 +449,10 @@ interface PlaylistData {
 			totalSongs: number;
 		}
 	>;
+	itemsWithCountry: number;
+	topCountries: Array<{ country: string; count: number }>;
+	itemsWithReleaseDate: number;
+	releaseYears: Array<{ year: string; count: number }>;
 }
 
 interface StatsData {
@@ -351,6 +480,10 @@ const statsData = ref<StatsData>({
 		externalIdsByPlatform: {},
 		topTags: [],
 		topTagsByUser: {},
+		itemsWithCountry: 0,
+		topCountries: [],
+		itemsWithReleaseDate: 0,
+		releaseYears: [],
 	},
 });
 
@@ -453,5 +586,15 @@ const formatPlatformName = (key: string): string => {
 	};
 
 	return specialCases[formatted] || formatted;
+};
+
+// Convert country code to flag emoji
+const getFlagEmoji = (countryCode: string): string => {
+	if (!countryCode || countryCode.length !== 2) return "";
+	const codePoints = countryCode
+		.toUpperCase()
+		.split("")
+		.map((char) => 127397 + char.charCodeAt(0));
+	return String.fromCodePoint(...codePoints);
 };
 </script>

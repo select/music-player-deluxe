@@ -38,6 +38,10 @@ interface PlaylistData {
 			totalSongs: number;
 		}
 	>;
+	itemsWithCountry: number;
+	topCountries: Array<{ country: string; count: number }>;
+	itemsWithReleaseDate: number;
+	releaseYears: Array<{ year: string; count: number }>;
 }
 
 interface SourcesData {
@@ -136,6 +140,10 @@ async function scanPlaylistData(
 	tagCounts: Map<string, number>;
 	tagCountsByUser: Map<string, Map<string, number>>;
 	songCountsByUser: Map<string, number>;
+	itemsWithCountry: number;
+	countryCounts: Map<string, number>;
+	itemsWithReleaseDate: number;
+	releaseYearCounts: Map<string, number>;
 }> {
 	const content = await readFile(PLAYLIST_FILE, "utf-8");
 	const playlist = JSON.parse(content);
@@ -144,9 +152,13 @@ async function scanPlaylistData(
 	const tagCounts = new Map<string, number>();
 	const tagCountsByUser = new Map<string, Map<string, number>>();
 	const songCountsByUser = new Map<string, number>();
+	const countryCounts = new Map<string, number>();
+	const releaseYearCounts = new Map<string, number>();
 	let totalItems = 0;
 	let itemsWithTags = 0;
 	let itemsWithExternalIds = 0;
+	let itemsWithCountry = 0;
+	let itemsWithReleaseDate = 0;
 
 	if (playlist.videos && Array.isArray(playlist.videos)) {
 		totalItems = playlist.videos.length;
@@ -194,6 +206,24 @@ async function scanPlaylistData(
 					}
 				}
 			}
+
+			// Count videos with country
+			if (video.artistCountry) {
+				itemsWithCountry++;
+				countryCounts.set(
+					video.artistCountry,
+					(countryCounts.get(video.artistCountry) || 0) + 1,
+				);
+			}
+
+			// Count videos with release date and extract year
+			if (video.releasedAt) {
+				itemsWithReleaseDate++;
+				const year = video.releasedAt.split("-")[0];
+				if (year) {
+					releaseYearCounts.set(year, (releaseYearCounts.get(year) || 0) + 1);
+				}
+			}
 		}
 	}
 
@@ -205,6 +235,10 @@ async function scanPlaylistData(
 		tagCounts,
 		tagCountsByUser,
 		songCountsByUser,
+		itemsWithCountry,
+		countryCounts,
+		itemsWithReleaseDate,
+		releaseYearCounts,
 	};
 }
 
@@ -235,6 +269,10 @@ async function updateSources(): Promise<void> {
 		tagCounts,
 		tagCountsByUser,
 		songCountsByUser,
+		itemsWithCountry,
+		countryCounts,
+		itemsWithReleaseDate,
+		releaseYearCounts,
 	} = await scanPlaylistData(tagNormalizationMap);
 
 	// Update source items and tags
@@ -277,6 +315,16 @@ async function updateSources(): Promise<void> {
 		}
 	}
 
+	// Process top countries
+	const topCountries = Array.from(countryCounts.entries())
+		.map(([country, count]) => ({ country, count }))
+		.sort((a, b) => b.count - a.count);
+
+	// Process release years
+	const releaseYears = Array.from(releaseYearCounts.entries())
+		.map(([year, count]) => ({ year, count }))
+		.sort((a, b) => a.year.localeCompare(b.year)); // Sort chronologically
+
 	// Update playlist data
 	sourcesData.playlist = {
 		items: totalItems,
@@ -285,6 +333,10 @@ async function updateSources(): Promise<void> {
 		externalIdsByPlatform: externalIdCounts,
 		topTags: topTags,
 		topTagsByUser: topTagsByUser,
+		itemsWithCountry: itemsWithCountry,
+		topCountries: topCountries,
+		itemsWithReleaseDate: itemsWithReleaseDate,
+		releaseYears: releaseYears,
 	};
 
 	console.log("Writing updated sources file...");

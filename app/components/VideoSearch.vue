@@ -49,7 +49,7 @@
 			v-if="showFilters"
 			class="rounded-lg p-4 space-y-4 backdrop-blur-2xl bg-bg-gradient"
 		>
-			<div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+			<div class="grid grid-cols-1 md:grid-cols-4 gap-4">
 				<!-- Artist Filter -->
 				<div>
 					<AppInputMultiSelect
@@ -69,6 +69,17 @@
 						label="Tags"
 						placeholder="Search and select tags..."
 						:options="availableTags"
+					/>
+				</div>
+
+				<!-- Country Filter -->
+				<div>
+					<AppInputMultiSelect
+						id="country-filter"
+						v-model="selectedCountries"
+						label="Countries"
+						placeholder="Search and select countries..."
+						:options="availableCountries"
 					/>
 				</div>
 
@@ -164,6 +175,7 @@
 					>
 						<option value="relevance">Relevance</option>
 						<option value="createdAt">Date Added (Latest First)</option>
+						<option value="releasedAt">Release Date (Latest First)</option>
 						<option value="title">Title A-Z</option>
 						<option value="artist">Artist A-Z</option>
 						<option value="duration">Duration</option>
@@ -317,6 +329,7 @@ const searchQuery = ref<string>("");
 const showFilters = ref<boolean>(false);
 const selectedArtists = ref<string[]>([]);
 const selectedTags = ref<string[]>([]);
+const selectedCountries = ref<string[]>([]);
 const selectedUsers = ref<string[]>([]);
 const selectedDuration = ref<string>("");
 const sortBy = ref<string>("createdAt");
@@ -335,6 +348,7 @@ const hasActiveFilters = computed(() => {
 	return (
 		selectedArtists.value.length > 0 ||
 		selectedTags.value.length > 0 ||
+		selectedCountries.value.length > 0 ||
 		selectedUsers.value.length > 0 ||
 		selectedDuration.value !== "" ||
 		searchQuery.value.trim() !== ""
@@ -360,6 +374,17 @@ const availableTags = computed(() => {
 		}
 	});
 	return Array.from(tags).sort();
+});
+
+const availableCountries = computed(() => {
+	const countries = [
+		...new Set(
+			originalVideos.value
+				.filter((video) => video.artistCountry)
+				.map((video) => video.artistCountry!),
+		),
+	];
+	return countries.sort();
 });
 
 const availableUsers = computed(() => {
@@ -471,6 +496,15 @@ const filteredVideos = computed<Video[]>(() => {
 		);
 	}
 
+	// Apply country filter
+	if (selectedCountries.value.length > 0) {
+		results = results.filter(
+			(video) =>
+				video.artistCountry &&
+				selectedCountries.value.includes(video.artistCountry),
+		);
+	}
+
 	// Apply user filter
 	if (selectedUsers.value.length > 0) {
 		results = results.filter((video) => {
@@ -493,6 +527,15 @@ const filteredVideos = computed<Video[]>(() => {
 					// Both have createdAt, sort by latest first
 					if (a.createdAt && b.createdAt) {
 						return b.createdAt - a.createdAt;
+					}
+					return 0;
+				case "releasedAt":
+					// Videos with releasedAt come first
+					if (a.releasedAt && !b.releasedAt) return -1;
+					if (!a.releasedAt && b.releasedAt) return 1;
+					// Both have releasedAt, sort by latest first
+					if (a.releasedAt && b.releasedAt) {
+						return b.releasedAt.localeCompare(a.releasedAt);
 					}
 					return 0;
 				case "title": {
@@ -550,6 +593,7 @@ const clearFilters = (): void => {
 	searchQuery.value = "";
 	selectedArtists.value = [];
 	selectedTags.value = [];
+	selectedCountries.value = [];
 	selectedUsers.value = [];
 	selectedDuration.value = "";
 	sortBy.value = "createdAt";

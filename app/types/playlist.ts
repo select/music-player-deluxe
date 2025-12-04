@@ -8,6 +8,8 @@ export interface Video {
 	artist?: string;
 	musicTitle?: string;
 	tags?: string[];
+	releasedAt?: string;
+	artistCountry?: string;
 	// YouTube metadata fields
 	createdAt?: number;
 	userId?: string | null;

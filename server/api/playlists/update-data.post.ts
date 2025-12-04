@@ -187,7 +187,9 @@ export default defineEventHandler(async (event) => {
 						JSON.stringify(songData.odesli || {}) ||
 					video.listeners !== songData.lastfm?.listeners ||
 					video.playcount !== songData.lastfm?.playcount ||
-					video.lastfmSummary !== songData.lastfm?.summary;
+					video.lastfmSummary !== songData.lastfm?.summary ||
+					video.releasedAt !== songData.musicbrainz?.releasedAt ||
+					video.artistCountry !== songData.musicbrainz?.artistCountry;
 
 				if (hasMusicChanges) {
 					hasChanges = true;
@@ -202,6 +204,8 @@ export default defineEventHandler(async (event) => {
 					listeners: songData.lastfm?.listeners,
 					playcount: songData.lastfm?.playcount,
 					lastfmSummary: songData.lastfm?.summary,
+					releasedAt: songData.musicbrainz?.releasedAt,
+					artistCountry: songData.musicbrainz?.artistCountry,
 				};
 				if (songData.musicbrainz?.trackMbid) {
 					if (!updatedVideo.externalIds) {

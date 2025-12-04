@@ -1,0 +1,28 @@
+{
+  "youtubeId": "N7Vd3AEyFkc",
+  "title": "MEZERG - BIRTHDAY",
+  "lastFetched": "2025-12-04T19:45:29.515Z",
+  "ai": {
+    "title": "BIRTHDAY",
+    "artist": "MEZERG"
+  },
+  "musicbrainz": {
+    "trackMbid": "dcd49c9d-08b9-40e0-b95c-9127d8a8ff31",
+    "artistMbid": "d1b53fc3-4223-4c51-a7c4-993fbb5880f8",
+    "releaseCount": 1,
+    "artistGenres": [
+      "electronic",
+      "techno"
+    ],
+    "releasedAt": "2021-06-02",
+    "artistCountry": "FR",
+    "externalIdsArtist": {
+      "bandcamp": "https://mezerg1.bandcamp.com/",
+      "discogs": "7808759",
+      "spotify": "7G9gz8bsP8VM5CMFTSBvNe",
+      "deezer": "75642412",
+      "wikidata": "Q107169729",
+      "youtube": "UCUaQxmkh81tJAWrreHe3CJg"
+    }
+  }
+}

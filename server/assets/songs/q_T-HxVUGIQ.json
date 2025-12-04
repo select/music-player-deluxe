@@ -1,0 +1,32 @@
+{
+  "youtubeId": "q_T-HxVUGIQ",
+  "title": "Fünf Sterne deluxe - Dein Herz schlägt schneller",
+  "lastFetched": "2025-12-04T19:45:09.859Z",
+  "ai": {
+    "title": "Dein Herz schlägt schneller",
+    "artist": "Fünf Sterne deluxe"
+  },
+  "musicbrainz": {
+    "trackMbid": "bdb2686b-27d6-4cd2-a9c6-2ab791867ab3",
+    "artistMbid": "1491e2b8-23bf-41a8-8184-cccd7e98a23c",
+    "releaseCount": 3,
+    "genres": [
+      "hip hop"
+    ],
+    "artistGenres": [
+      "hip hop"
+    ],
+    "releasedAt": "1998-03-30",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0002101215",
+      "discogs": "22902",
+      "spotify": "7i6FNvFrVU61bNKBmWwX4X",
+      "deezer": "7952",
+      "lastfm": "F%C3%BCnf+Sterne+Deluxe",
+      "rateyourmusic": "funf_sterne_deluxe",
+      "wikidata": "Q686687",
+      "youtube": "UCe6GltCxiizB7F03LlrVHCg"
+    }
+  }
+}
