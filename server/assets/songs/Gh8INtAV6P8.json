@@ -1,0 +1,53 @@
+{
+  "youtubeId": "Gh8INtAV6P8",
+  "title": "Good To Me",
+  "artist": "Alix Perez",
+  "lastFetched": "2025-12-05T09:39:47.108Z",
+  "odesli": {
+    "amazonMusic": "B07YYRTT6D",
+    "amazonStore": "B07YYRTT6D",
+    "soundcloud": "1985music1985/alix-perez-monty-good-to-me-redbull-premiere",
+    "spotify": "31Yy7S9rvGHcbewcJvUB18",
+    "tidal": "120018301",
+    "youtube": "Gh8INtAV6P8",
+    "youtubeMusic": "Gh8INtAV6P8"
+  },
+  "musicbrainz": {
+    "trackMbid": "6af76315-0b68-4c52-bcaf-ce110130e0ea",
+    "artistMbid": "53d47497-63eb-4769-9013-5e34740a7e2d",
+    "releaseCount": 3,
+    "artistGenres": [
+      "drum and bass",
+      "dubstep",
+      "electronic",
+      "liquid funk"
+    ],
+    "releasedAt": "2019-01-31",
+    "externalIdsTrack": {
+      "spotify": "31Yy7S9rvGHcbewcJvUB18",
+      "deezer": "773533122"
+    },
+    "externalIdsArtist": {
+      "bandcamp": "https://shogunaudioalixperez.bandcamp.com/",
+      "discogs": "335067",
+      "spotify": "4e6pQ61gYReORJoXcrQH1Z",
+      "deezer": "260772",
+      "soundcloud": "https://soundcloud.com/alixperez",
+      "wikidata": "Q4727516",
+      "youtube": "UCHP51CfFDUYk40cIR-2-FLw"
+    }
+  },
+  "lastfm": {
+    "id": "Alix+Perez/_/Good+to+Me",
+    "listeners": 10591,
+    "playcount": 42749,
+    "title": "Good to Me",
+    "artist": "Alix Perez",
+    "artistMbid": "53d47497-63eb-4769-9013-5e34740a7e2d",
+    "tags": [
+      "drum and bass",
+      "dnb",
+      "drum n bass"
+    ]
+  }
+}

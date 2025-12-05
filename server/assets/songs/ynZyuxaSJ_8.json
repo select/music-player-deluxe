@@ -1,0 +1,53 @@
+{
+  "youtubeId": "ynZyuxaSJ_8",
+  "title": "I Fuck Around",
+  "lastFetched": "2025-12-05T09:38:30.716Z",
+  "ai": {
+    "title": "I Fuck Around",
+    "artist": "MELVINS"
+  },
+  "lastfm": {
+    "id": "Melvins/_/I+Fuck+Around",
+    "listeners": 17151,
+    "playcount": 68146,
+    "title": "I Fuck Around",
+    "artist": "Melvins",
+    "mbid": "533d599f-cc97-4a0c-99c3-8a4642cd7278",
+    "artistMbid": "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
+    "tags": [
+      "cover",
+      "funny",
+      "melvins",
+      "lol"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9e59c07f-63be-4ff2-a82e-ae8e10dbfc36",
+    "artistMbid": "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
+    "releaseCount": 4,
+    "artistGenres": [
+      "alternative rock",
+      "drone metal",
+      "experimental rock",
+      "grunge",
+      "hard rock",
+      "metal",
+      "noise rock",
+      "sludge metal",
+      "stoner metal",
+      "stoner rock"
+    ],
+    "releasedAt": "2021-02-26",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000349157",
+      "bandcamp": "https://melvinsofficial.bandcamp.com/",
+      "discogs": "87652",
+      "spotify": "6aVjo0xHSiuW5hkasoYSR3",
+      "deezer": "3382",
+      "lastfm": "Melvins",
+      "rateyourmusic": "melvins",
+      "wikidata": "Q385618"
+    }
+  }
+}
