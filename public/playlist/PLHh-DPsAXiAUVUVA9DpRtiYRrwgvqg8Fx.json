@@ -22,8 +22,19 @@
         "spotify": "48wMkvCPrrsKECyzZNjW2H",
         "tidal": "1652956",
         "youtube": "MCBYpv8MmtY",
-        "youtubeMusic": "MCBYpv8MmtY"
-      }
+        "youtubeMusic": "MCBYpv8MmtY",
+        "musicbrainz-artist": "a81259a0-a2f5-464b-866e-71220f2739f1",
+        "lastfm": "ZZ+Top/_/Asleep+In+The+Desert+(Instrumental)"
+      },
+      "tags": [
+        "blues rock",
+        "classic rock",
+        "southern rock",
+        "rock"
+      ],
+      "listeners": 8545,
+      "playcount": 22028,
+      "lastfmSummary": "Incorrect tag for Asleep in the Desert <a href=\"http://www.last.fm/music/ZZ+Top/_/Asleep+In+The+Desert+(Instrumental)\">Read more on Last.fm</a>."
     },
     {
       "id": "mQMSb6dLU5A",
@@ -50,8 +61,20 @@
         "tidal": "212296530",
         "yandex": "97790856",
         "youtube": "mQMSb6dLU5A",
-        "youtubeMusic": "mQMSb6dLU5A"
-      }
+        "youtubeMusic": "mQMSb6dLU5A",
+        "musicbrainz": "7191128d-f821-443d-aa57-a08fa71f7c70",
+        "musicbrainz-artist": "20ee257e-6dc9-43c7-bef2-153b38834576",
+        "lastfm": "Junior+y+su+Equipo/_/Alegrate"
+      },
+      "tags": [
+        "ecuador",
+        "cumbia",
+        "funk_add_to_lidarr_batch_14"
+      ],
+      "listeners": 905,
+      "playcount": 2108,
+      "releasedAt": "2022-04-15",
+      "artistCountry": "EC"
     },
     {
       "id": "aLaMClbv2k8",
@@ -73,8 +96,15 @@
         "tidal": "397070259",
         "yandex": "132580482",
         "youtube": "aLaMClbv2k8",
-        "youtubeMusic": "aLaMClbv2k8"
-      }
+        "youtubeMusic": "aLaMClbv2k8",
+        "musicbrainz": "c2c4062b-de3d-4644-a457-f904a3230f00",
+        "musicbrainz-artist": "11f64d5e-77a6-48f7-ac1f-6d17b3ac2ba9",
+        "lastfm": "Flake+Lorenz/_/Letzte+Weihnacht"
+      },
+      "listeners": 402,
+      "playcount": 953,
+      "releasedAt": "2024-11-22",
+      "artistCountry": "DE"
     },
     {
       "id": "g1F5d1kQTBE",
@@ -93,8 +123,23 @@
         "pandora": "TR:118430762",
         "spotify": "7ir3THer7H6Dh217NtCHbi",
         "youtube": "g1F5d1kQTBE",
-        "youtubeMusic": "g1F5d1kQTBE"
-      }
+        "youtubeMusic": "g1F5d1kQTBE",
+        "musicbrainz": "0a672795-15c3-41b5-ba90-893711c68438",
+        "musicbrainz-artist": "dff718ca-db66-4ce5-98b3-9585935b3dd1",
+        "lastfm": "Solomun/_/Feuervogel+(Icke+&+Er+Remix)"
+      },
+      "tags": [
+        "deep house",
+        "tech house",
+        "progressive house",
+        "house",
+        "edm",
+        "electronic"
+      ],
+      "listeners": 11,
+      "playcount": 40,
+      "releasedAt": "2012-07-16",
+      "artistCountry": "BA"
     },
     {
       "id": "Dit48iEVSs8",
@@ -112,8 +157,20 @@
         "tidal": "86912401",
         "yandex": "31706924",
         "youtube": "Dit48iEVSs8",
-        "youtubeMusic": "Dit48iEVSs8"
-      }
+        "youtubeMusic": "Dit48iEVSs8",
+        "musicbrainz": "025e307b-700b-46b9-aec8-e14ae9681399",
+        "musicbrainz-track": "1984c062-31d1-3491-bb18-f994c68999b1",
+        "musicbrainz-artist": "b2149506-a895-47e6-bc5f-94539f69b44a",
+        "lastfm": "Icke+&+Er/_/Wieder+da"
+      },
+      "tags": [
+        "berlin",
+        "richtig geil",
+        "hip hop"
+      ],
+      "listeners": 1332,
+      "playcount": 4796,
+      "releasedAt": "2010-05-28"
     },
     {
       "id": "rx6pHd1mliM",
@@ -132,8 +189,20 @@
         "spotify": "1lJ1q2LyleHhYFxd15nSBF",
         "tidal": "452270819",
         "youtube": "rx6pHd1mliM",
-        "youtubeMusic": "rx6pHd1mliM"
-      }
+        "youtubeMusic": "rx6pHd1mliM",
+        "musicbrainz": "d51f5945-80c3-415c-8186-2474a5fdace8",
+        "musicbrainz-artist": "89ec6f82-1ad7-42d5-983e-ebf90f6868c8",
+        "lastfm": "Sigma/_/SOUNDBOY"
+      },
+      "tags": [
+        "drum and bass",
+        "liquid funk",
+        "electronic"
+      ],
+      "listeners": 2897,
+      "playcount": 7947,
+      "releasedAt": "2025-10-10",
+      "artistCountry": "GB"
     },
     {
       "id": "LAHBCKL3B_Y",
@@ -114515,5 +114584,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2025-12-06T20:01:07.400Z"
+  "lastFetched": "2025-12-06T20:04:59.073Z"
 }
