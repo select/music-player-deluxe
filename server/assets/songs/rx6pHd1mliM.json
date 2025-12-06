@@ -1,0 +1,50 @@
+{
+  "youtubeId": "rx6pHd1mliM",
+  "title": "SOUNDBOY",
+  "artist": "Sigma",
+  "lastFetched": "2025-12-06T20:02:45.294Z",
+  "odesli": {
+    "amazonMusic": "B0FP3KRNPX",
+    "amazonStore": "B0FP3KRNPX",
+    "pandora": "TR:171088051",
+    "soundcloud": "sigmahq/soundboy",
+    "spotify": "1lJ1q2LyleHhYFxd15nSBF",
+    "tidal": "452270819",
+    "youtube": "rx6pHd1mliM",
+    "youtubeMusic": "rx6pHd1mliM"
+  },
+  "lastfm": {
+    "id": "Sigma/_/SOUNDBOY",
+    "listeners": 2897,
+    "playcount": 7947,
+    "title": "SOUNDBOY",
+    "artist": "Sigma",
+    "tags": [
+      "drum and bass",
+      "liquid funk",
+      "dnb",
+      "electronic"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "d51f5945-80c3-415c-8186-2474a5fdace8",
+    "artistMbid": "89ec6f82-1ad7-42d5-983e-ebf90f6868c8",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass",
+      "electronic"
+    ],
+    "releasedAt": "2025-10-10",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000027780",
+      "discogs": "561924",
+      "spotify": "01pKrlgPJhm5dB4lneYAqS",
+      "deezer": "278529",
+      "rateyourmusic": "sigma_f3",
+      "soundcloud": "https://soundcloud.com/sigmahq",
+      "wikidata": "Q16333772",
+      "youtube": "UCaEe1-y6J_QZzc-fTh0ieuQ"
+    }
+  }
+}

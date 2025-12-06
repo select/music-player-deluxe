@@ -1,0 +1,53 @@
+{
+  "youtubeId": "g1F5d1kQTBE",
+  "title": "Feuervogel (Icke & Er Remix)",
+  "artist": "Solomun",
+  "lastFetched": "2025-12-06T20:02:29.933Z",
+  "odesli": {
+    "amazonMusic": "B0CXFDQHHQ",
+    "amazonStore": "B0CXFDQHHQ",
+    "appleMusic": "1734852516",
+    "itunes": "1734852516",
+    "pandora": "TR:118430762",
+    "spotify": "7ir3THer7H6Dh217NtCHbi",
+    "youtube": "g1F5d1kQTBE",
+    "youtubeMusic": "g1F5d1kQTBE"
+  },
+  "lastfm": {
+    "id": "Solomun/_/Feuervogel+(Icke+&+Er+Remix)",
+    "listeners": 11,
+    "playcount": 40,
+    "title": "Feuervogel (Icke & Er Remix)",
+    "artist": "Solomun",
+    "artistMbid": "dff718ca-db66-4ce5-98b3-9585935b3dd1",
+    "tags": [
+      "deep house",
+      "minimal",
+      "tech house",
+      "progressive house",
+      "house"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "0a672795-15c3-41b5-ba90-893711c68438",
+    "artistMbid": "dff718ca-db66-4ce5-98b3-9585935b3dd1",
+    "releaseCount": 2,
+    "artistGenres": [
+      "deep house",
+      "edm",
+      "electronic",
+      "house"
+    ],
+    "releasedAt": "2012-07-16",
+    "artistCountry": "BA",
+    "externalIdsArtist": {
+      "discogs": "925729",
+      "spotify": "5wJK4kQAkVGjqM9x46KQOC",
+      "deezer": "179975",
+      "rateyourmusic": "solomun",
+      "soundcloud": "https://soundcloud.com/solomun",
+      "wikidata": "Q1941178",
+      "youtube": "UCN8v8tNOCmaZaN-t4ynDdEA"
+    }
+  }
+}

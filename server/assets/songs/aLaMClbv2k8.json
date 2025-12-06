@@ -1,0 +1,42 @@
+{
+  "youtubeId": "aLaMClbv2k8",
+  "title": "Letzte Weihnacht",
+  "artist": "Flake Lorenz",
+  "lastFetched": "2025-12-06T20:02:28.090Z",
+  "odesli": {
+    "amazonMusic": "B0DLP4J199",
+    "amazonStore": "B0DLP4J199",
+    "appleMusic": "1777417355",
+    "itunes": "1777417355",
+    "pandora": "TR:140844886",
+    "soundcloud": "malediva-music/letzte-weihnacht",
+    "spotify": "52pWwIlRB8EW5fu3JXypGT",
+    "tidal": "397070259",
+    "yandex": "132580482",
+    "youtube": "aLaMClbv2k8",
+    "youtubeMusic": "aLaMClbv2k8"
+  },
+  "lastfm": {
+    "id": "Flake+Lorenz/_/Letzte+Weihnacht",
+    "listeners": 402,
+    "playcount": 953,
+    "title": "Letzte Weihnacht",
+    "artist": "Flake Lorenz",
+    "tags": [
+      "experimental"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "c2c4062b-de3d-4644-a457-f904a3230f00",
+    "artistMbid": "11f64d5e-77a6-48f7-ac1f-6d17b3ac2ba9",
+    "releaseCount": 2,
+    "releasedAt": "2024-11-22",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0001884906",
+      "discogs": "506667",
+      "rateyourmusic": "christian_lorenz",
+      "wikidata": "Q155687"
+    }
+  }
+}

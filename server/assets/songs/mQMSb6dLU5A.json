@@ -1,0 +1,50 @@
+{
+  "youtubeId": "mQMSb6dLU5A",
+  "title": "Alegrate",
+  "artist": "Junior Y Su Equipo",
+  "lastFetched": "2025-12-06T20:02:26.423Z",
+  "odesli": {
+    "amazonMusic": "B09QC7D9FQ",
+    "amazonStore": "B09QC7D9FQ",
+    "audiomack": "30396501",
+    "anghami": "1040311591",
+    "boomplay": "78954553",
+    "deezer": "1620075942",
+    "appleMusic": "1604780753",
+    "itunes": "1604780753",
+    "napster": "tra.638745615",
+    "pandora": "TR:53951150",
+    "soundcloud": "juniorysuequipo/alegrate",
+    "spotify": "0eyaHaQIjm0g3392k6Z8Ta",
+    "tidal": "212296530",
+    "yandex": "97790856",
+    "youtube": "mQMSb6dLU5A",
+    "youtubeMusic": "mQMSb6dLU5A"
+  },
+  "lastfm": {
+    "id": "Junior+y+su+Equipo/_/Alegrate",
+    "listeners": 905,
+    "playcount": 2108,
+    "title": "Alegrate",
+    "artist": "Junior y su Equipo",
+    "artistMbid": "20ee257e-6dc9-43c7-bef2-153b38834576",
+    "tags": [
+      "ecuador",
+      "cumbia",
+      "funk_add_to_lidarr_batch_14"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "7191128d-f821-443d-aa57-a08fa71f7c70",
+    "artistMbid": "20ee257e-6dc9-43c7-bef2-153b38834576",
+    "releaseCount": 2,
+    "artistGenres": [
+      "cumbia"
+    ],
+    "releasedAt": "2022-04-15",
+    "artistCountry": "EC",
+    "externalIdsArtist": {
+      "discogs": "5118039"
+    }
+  }
+}

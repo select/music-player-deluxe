@@ -1,0 +1,47 @@
+{
+  "youtubeId": "Dit48iEVSs8",
+  "title": "Wieder da",
+  "artist": "Icke & Er",
+  "lastFetched": "2025-12-06T20:02:43.859Z",
+  "odesli": {
+    "appleMusic": "375029168",
+    "itunes": "375029168",
+    "pandora": "TR:59481689",
+    "tidal": "86912401",
+    "yandex": "31706924",
+    "youtube": "Dit48iEVSs8",
+    "youtubeMusic": "Dit48iEVSs8"
+  },
+  "lastfm": {
+    "id": "Icke+&+Er/_/Wieder+da",
+    "listeners": 1332,
+    "playcount": 4796,
+    "title": "Wieder da",
+    "artist": "Icke & Er",
+    "mbid": "1984c062-31d1-3491-bb18-f994c68999b1",
+    "artistMbid": "b2149506-a895-47e6-bc5f-94539f69b44a",
+    "tags": [
+      "berlin",
+      "richtig geil",
+      "hip hop",
+      "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "025e307b-700b-46b9-aec8-e14ae9681399",
+    "artistMbid": "b2149506-a895-47e6-bc5f-94539f69b44a",
+    "releaseCount": 2,
+    "releasedAt": "2010-05-28",
+    "externalIdsArtist": {
+      "allmusic": "mn0002090446",
+      "discogs": "627061",
+      "spotify": "6fvzsPcPb7iG1W4sKlPNQ3",
+      "deezer": "178305",
+      "genius": "Icke-and-er",
+      "rateyourmusic": "icke_and_er",
+      "soundcloud": "https://soundcloud.com/ickeer",
+      "wikidata": "Q1656422",
+      "youtube": "UCdQo8avlo_H2XmHOY7SKsmQ"
+    }
+  }
+}

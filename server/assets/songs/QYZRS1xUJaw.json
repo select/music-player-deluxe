@@ -1,9 +1,22 @@
 {
   "youtubeId": "QYZRS1xUJaw",
   "title": "Oya (Aw-Yah)",
-  "lastFetched": "2025-12-05T09:37:26.028Z",
+  "lastFetched": "2025-12-06T19:53:13.914Z",
   "ai": {
     "title": "Oya (Aw-Yah)",
     "artist": "Olatunji Yearwood"
-  }
+  },
+  "odesli": {
+    "amazonMusic": "B001380M38",
+    "amazonStore": "B001380M38",
+    "appleMusic": "253425937",
+    "itunes": "253425937",
+    "soundcloud": "babatundeolatunji/oya-primitive-fire-2",
+    "spotify": "1GaaR497GwButOcxrVbVEm",
+    "tidal": "1304530",
+    "yandex": "26845949",
+    "youtube": "QYZRS1xUJaw",
+    "youtubeMusic": "QYZRS1xUJaw"
+  },
+  "artist": "Olatunji"
 }
