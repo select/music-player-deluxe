@@ -1,0 +1,49 @@
+{
+  "youtubeId": "iGAEHdOQ8yc",
+  "title": "Black Militant’s Place",
+  "artist": "Isaac Hayes",
+  "lastFetched": "2025-12-08T13:14:47.338Z",
+  "odesli": {
+    "amazonMusic": "B0773HL7BP",
+    "amazonStore": "B0773HL7BP",
+    "soundcloud": "isaac-hayes-official/black-militants-place",
+    "tidal": "80717609",
+    "youtube": "iGAEHdOQ8yc",
+    "youtubeMusic": "iGAEHdOQ8yc"
+  },
+  "lastfm": {
+    "id": "Isaac+Hayes/_/Black+Militant%E2%80%99s+Place",
+    "listeners": 465,
+    "playcount": 829,
+    "title": "Black Militant’s Place",
+    "artist": "Isaac Hayes",
+    "tags": [
+      "soul",
+      "funk",
+      "rhythm and blues",
+      "soundtrack"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "cb10c45c-9b15-44a2-9494-a2477f1bfac7",
+    "artistMbid": "a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21",
+    "releaseCount": 3,
+    "artistGenres": [
+      "disco",
+      "funk",
+      "smooth soul",
+      "soul"
+    ],
+    "releasedAt": "2017-09-22",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000101946",
+      "discogs": "48432",
+      "spotify": "3IKV7o6WPphDB7cCWXaG3E",
+      "deezer": "2197",
+      "lastfm": "Isaac+Hayes",
+      "rateyourmusic": "isaac_hayes",
+      "wikidata": "Q206439"
+    }
+  }
+}
