@@ -1,9 +1,13 @@
 {
   "youtubeId": "BrPcg8y2-5E",
   "title": "Hier kommt Kurt - Frank Zander - Das Video",
-  "lastFetched": "2025-11-26T10:44:46.664Z",
+  "lastFetched": "2025-12-08T23:36:30.082Z",
   "ai": {
     "title": "Das Video",
     "artist": "Frank Zander"
+  },
+  "curated": {
+    "artist": "Frank Zander",
+    "title": "Hier kommt Kurt"
   }
 }

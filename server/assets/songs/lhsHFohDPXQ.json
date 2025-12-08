@@ -2,9 +2,13 @@
   "youtubeId": "lhsHFohDPXQ",
   "title": "Is This The Future?",
   "artist": "The Fatback Band",
-  "lastFetched": "2025-11-20T11:33:10.015Z",
+  "lastFetched": "2025-12-08T23:44:49.967Z",
   "ai": {
     "title": "Is This The Future?",
     "artist": "The Fatback Band"
+  },
+  "curated": {
+    "artist": "The Fatback Band",
+    "title": "Is This The Future?"
   }
 }

@@ -271,6 +271,7 @@
     "breaking bad",
     "breaking benjamin",
     "brighton",
+    "brill building",
     "bristol",
     "britannique",
     "british artist",
@@ -362,6 +363,7 @@
     "composers",
     "concrete jungle",
     "congo",
+    "connie francis",
     "convoy",
     "cookdandbombd",
     "cool",
@@ -1671,7 +1673,7 @@
     "zolo",
     "zyrotechira"
   ],
-  "lastUpdated": "2025-12-07T22:18:43.683Z",
+  "lastUpdated": "2025-12-08T22:04:37.065Z",
   "model": "gemma3:4b",
-  "prompt": "tag-blacklist-prompt-v2.txt"
+  "prompt": "/home/linux-falko/Dev/music-player-deluxe/prompts/tag-blacklist-prompt-v2.txt"
 }

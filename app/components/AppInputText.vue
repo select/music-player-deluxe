@@ -1,6 +1,6 @@
 <template>
 	<div class="w-full overflow-hidden">
-		<label v-if="label" :for="id" class="block text-sm font-medium">
+		<label v-if="label" :for="id" class="pl-3 block text-sm font-medium">
 			{{ label }}
 		</label>
 		<div class="relative">
@@ -23,7 +23,7 @@
 					$emit('update:modelValue', ($event.target as HTMLInputElement).value)
 				"
 				@keydown.stop
-			>
+			/>
 			<button
 				v-if="modelValue"
 				type="button"
