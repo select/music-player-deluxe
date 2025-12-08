@@ -103,6 +103,223 @@
 				</div>
 			</section>
 
+			<!-- Repository Statistics Section -->
+			<section v-if="statsData.repository" class="bg-bg-gradient rounded-lg p-6">
+				<h2 class="text-2xl font-semibold mb-6 flex items-center gap-2">
+					<div class="i-mdi-code-braces" />
+					Repository Statistics
+				</h2>
+
+				<!-- Project Overview -->
+				<div class="mb-8">
+					<h3 class="text-lg font-semibold mb-4">Project Overview</h3>
+					<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+						<div class="bg-primary-1 rounded-lg p-4 text-center">
+							<div class="text-sm text-primary-3 mb-1">Project Name</div>
+							<div class="text-lg font-semibold text-primary-4">
+								{{ statsData.repository.project.name }}
+							</div>
+						</div>
+						<div class="bg-primary-1 rounded-lg p-4 text-center">
+							<div class="text-sm text-primary-3 mb-1">Dependencies</div>
+							<div class="text-lg font-semibold text-primary-4">
+								{{ statsData.repository.project.dependencies }}
+							</div>
+						</div>
+						<div class="bg-primary-1 rounded-lg p-4 text-center">
+							<div class="text-sm text-primary-3 mb-1">Dev Dependencies</div>
+							<div class="text-lg font-semibold text-primary-4">
+								{{ statsData.repository.project.devDependencies }}
+							</div>
+						</div>
+						<div class="bg-primary-1 rounded-lg p-4 text-center">
+							<div class="text-sm text-primary-3 mb-1">Type</div>
+							<div class="text-lg font-semibold text-primary-4">
+								{{ statsData.repository.project.type }}
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- File Statistics -->
+				<div class="mb-8">
+					<h3 class="text-lg font-semibold mb-4">File Statistics</h3>
+					<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+						<div class="bg-primary-1 rounded-lg p-4 text-center">
+							<div class="text-2xl font-bold text-accent mb-1">
+								{{ statsData.repository.files.totalFiles }}
+							</div>
+							<div class="text-sm text-primary-3">Total Files</div>
+						</div>
+						<div class="bg-primary-1 rounded-lg p-4 text-center">
+							<div class="text-2xl font-bold text-accent mb-1">
+								{{ formatNumber(statsData.repository.files.totalLines) }}
+							</div>
+							<div class="text-sm text-primary-3">Total Lines</div>
+						</div>
+						<div class="bg-primary-1 rounded-lg p-4 text-center">
+							<div class="text-2xl font-bold text-accent mb-1">
+								{{ formatFileSize(statsData.repository.files.totalSize) }}
+							</div>
+							<div class="text-sm text-primary-3">Total Size</div>
+						</div>
+					</div>
+
+					<!-- File Types Bar Chart -->
+					<div>
+						<h4 class="font-semibold mb-3 text-primary-4">Top File Types</h4>
+						<div class="space-y-2">
+							<div
+								v-for="ext in topFileTypes"
+								:key="ext.ext"
+								class="flex items-center gap-3"
+							>
+								<div class="w-16 text-xs text-primary-3 truncate">
+									{{ ext.ext }}
+								</div>
+								<div
+									class="flex-1 relative h-6 bg-primary-1 rounded-lg overflow-hidden"
+								>
+									<div
+										class="absolute inset-y-0 left-0 bg-gradient-to-r from-accent to-accent-1 transition-all duration-500 flex items-center justify-end pr-2"
+										:style="{ width: getBarWidth(ext.count, maxFileCount) }"
+									>
+										<span class="text-xs font-semibold text-primary-1">
+											{{ ext.count }} files
+										</span>
+									</div>
+								</div>
+								<div class="w-20 text-right text-xs text-primary-3">
+									{{ ((ext.count / statsData.repository.files.totalFiles) * 100).toFixed(1) }}%
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Vue Components Breakdown -->
+				<div class="mb-8">
+					<h3 class="text-lg font-semibold mb-4">Vue Components</h3>
+					<div class="grid grid-cols-2 md:grid-cols-5 gap-3">
+						<div class="bg-primary-1 rounded-lg p-3 text-center">
+							<div class="text-xl font-bold text-accent">
+								{{ statsData.repository.components.total }}
+							</div>
+							<div class="text-xs text-primary-3 mt-1">Total</div>
+						</div>
+						<div class="bg-primary-1 rounded-lg p-3 text-center">
+							<div class="text-xl font-bold text-accent-1">
+								{{ statsData.repository.components.admin }}
+							</div>
+							<div class="text-xs text-primary-3 mt-1">Admin</div>
+						</div>
+						<div class="bg-primary-1 rounded-lg p-3 text-center">
+							<div class="text-xl font-bold text-accent-1">
+								{{ statsData.repository.components.app }}
+							</div>
+							<div class="text-xs text-primary-3 mt-1">App</div>
+						</div>
+						<div class="bg-primary-1 rounded-lg p-3 text-center">
+							<div class="text-xl font-bold text-accent-1">
+								{{ statsData.repository.components.pages }}
+							</div>
+							<div class="text-xs text-primary-3 mt-1">Pages</div>
+						</div>
+						<div class="bg-primary-1 rounded-lg p-3 text-center">
+							<div class="text-xl font-bold text-accent-1">
+								{{ statsData.repository.components.layouts }}
+							</div>
+							<div class="text-xs text-primary-3 mt-1">Layouts</div>
+						</div>
+					</div>
+
+					<!-- Component Breakdown Bar Chart -->
+					<div class="mt-4">
+						<div class="space-y-2">
+							<div
+								v-for="component in componentBreakdown"
+								:key="component.name"
+								class="flex items-center gap-3"
+							>
+								<div class="w-24 text-sm text-primary-3">{{ component.name }}</div>
+								<div
+									class="flex-1 relative h-6 bg-primary-1 rounded-lg overflow-hidden"
+								>
+									<div
+										class="absolute inset-y-0 left-0 bg-accent-1 transition-all duration-500 flex items-center justify-end pr-2"
+										:style="{ width: getBarWidth(component.count, statsData.repository.components.total) }"
+									>
+										<span class="text-xs font-semibold text-primary-1">
+											{{ component.count }}
+										</span>
+									</div>
+								</div>
+								<div class="w-16 text-right text-sm text-primary-3">
+									{{ ((component.count / statsData.repository.components.total) * 100).toFixed(1) }}%
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- API Endpoints -->
+				<div>
+					<h3 class="text-lg font-semibold mb-4">API Endpoints</h3>
+					<div class="grid grid-cols-2 md:grid-cols-4 gap-3 mb-4">
+						<div class="bg-primary-1 rounded-lg p-3 text-center">
+							<div class="text-xl font-bold text-accent">
+								{{ statsData.repository.api.total }}
+							</div>
+							<div class="text-xs text-primary-3 mt-1">Total</div>
+						</div>
+						<div class="bg-primary-1 rounded-lg p-3 text-center">
+							<div class="text-xl font-bold text-accent-2">
+								{{ statsData.repository.api.playlists }}
+							</div>
+							<div class="text-xs text-primary-3 mt-1">Playlists</div>
+						</div>
+						<div class="bg-primary-1 rounded-lg p-3 text-center">
+							<div class="text-xl font-bold text-accent-2">
+								{{ statsData.repository.api.musicbrainz }}
+							</div>
+							<div class="text-xs text-primary-3 mt-1">MusicBrainz</div>
+						</div>
+						<div class="bg-primary-1 rounded-lg p-3 text-center">
+							<div class="text-xl font-bold text-accent-2">
+								{{ statsData.repository.api.songs }}
+							</div>
+							<div class="text-xs text-primary-3 mt-1">Songs</div>
+						</div>
+					</div>
+
+					<!-- API Breakdown Bar Chart -->
+					<div class="space-y-2">
+						<div
+							v-for="endpoint in apiBreakdown"
+							:key="endpoint.name"
+							class="flex items-center gap-3"
+						>
+							<div class="w-24 text-sm text-primary-3">{{ endpoint.name }}</div>
+							<div
+								class="flex-1 relative h-6 bg-primary-1 rounded-lg overflow-hidden"
+							>
+								<div
+									class="absolute inset-y-0 left-0 bg-accent-2 transition-all duration-500 flex items-center justify-end pr-2"
+									:style="{ width: getBarWidth(endpoint.count, statsData.repository.api.total) }"
+								>
+									<span class="text-xs font-semibold text-primary-1">
+										{{ endpoint.count }}
+									</span>
+								</div>
+							</div>
+							<div class="w-16 text-right text-sm text-primary-3">
+								{{ ((endpoint.count / statsData.repository.api.total) * 100).toFixed(1) }}%
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
 			<!-- Playlist Section -->
 			<section class="bg-bg-gradient rounded-lg p-6">
 				<h2 class="text-2xl font-semibold mb-6 flex items-center gap-2">
@@ -516,9 +733,57 @@ interface PlaylistData {
 	postsPerYear: Array<{ year: string; count: number }>;
 }
 
+interface FileExtensionStats {
+	count: number;
+	lines: number;
+	size: number;
+}
+
+interface RepositoryStats {
+	project: {
+		name: string;
+		type: string;
+		dependencies: number;
+		devDependencies: number;
+	};
+	files: {
+		totalFiles: number;
+		totalLines: number;
+		totalSize: number;
+		extensions: Record<string, FileExtensionStats>;
+	};
+	components: {
+		total: number;
+		admin: number;
+		app: number;
+		pages: number;
+		layouts: number;
+	};
+	api: {
+		total: number;
+		musicbrainz: number;
+		playlists: number;
+		songs: number;
+	};
+	songs: {
+		total: number;
+		totalSize: number;
+	};
+	playlists: {
+		total: number;
+	};
+	codeQuality: {
+		hasTypeScript: boolean;
+		hasESLint: boolean;
+		hasTests: boolean;
+		testCoverage: string;
+	};
+}
+
 interface StatsData {
 	sources: Record<string, Source>;
 	playlist: PlaylistData;
+	repository?: RepositoryStats;
 }
 
 // Page metadata
@@ -609,6 +874,41 @@ const maxTagCount = computed(() => {
 	return Math.max(...statsData.value.playlist.topTags.map((t) => t.count), 1);
 });
 
+// Repository stats computed properties
+const topFileTypes = computed(() => {
+	if (!statsData.value.repository) return [];
+	return Object.entries(statsData.value.repository.files.extensions)
+		.map(([ext, data]) => ({ ext, ...data }))
+		.sort((a, b) => b.count - a.count)
+		.slice(0, 10);
+});
+
+const maxFileCount = computed(() => {
+	if (!statsData.value.repository || !topFileTypes.value.length) return 1;
+	return Math.max(...topFileTypes.value.map((f) => f.count));
+});
+
+const componentBreakdown = computed(() => {
+	if (!statsData.value.repository) return [];
+	const repo = statsData.value.repository;
+	return [
+		{ name: "Admin", count: repo.components.admin },
+		{ name: "App", count: repo.components.app },
+		{ name: "Pages", count: repo.components.pages },
+		{ name: "Layouts", count: repo.components.layouts },
+	];
+});
+
+const apiBreakdown = computed(() => {
+	if (!statsData.value.repository) return [];
+	const repo = statsData.value.repository;
+	return [
+		{ name: "Playlists", count: repo.api.playlists },
+		{ name: "MusicBrainz", count: repo.api.musicbrainz },
+		{ name: "Songs", count: repo.api.songs },
+	];
+});
+
 const getTagBarColor = (count: number, max: number): string => {
 	const percentage = max > 0 ? count / max : 0;
 	// Create gradient from dim to full accent based on count
@@ -658,5 +958,19 @@ const getFlagEmoji = (countryCode: string): string => {
 		.split("")
 		.map((char) => 127397 + char.charCodeAt(0));
 	return String.fromCodePoint(...codePoints);
+};
+
+// Format large numbers with thousand separators
+const formatNumber = (num: number): string => {
+	return num.toLocaleString();
+};
+
+// Format bytes to human-readable format
+const formatFileSize = (bytes: number): string => {
+	if (bytes === 0) return "0 B";
+	const k = 1024;
+	const sizes = ["B", "KB", "MB", "GB"];
+	const i = Math.floor(Math.log(bytes) / Math.log(k));
+	return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + " " + sizes[i];
 };
 </script>
