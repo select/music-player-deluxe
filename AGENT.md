@@ -1,5 +1,7 @@
 # [music-player-deluxe](https://github.com/select/music-player-deluxe/) Agent Guidelines
 
+**IMPORTANT**: Never commit changes - always stage and let the user review before committing.
+
 ## Commands
 `pnpm dev` (dev server) | `pnpm build` (production) | `pnpm lint` / `pnpm lint:fix` (ESLint) | `pnpm typecheck` (TS)
 

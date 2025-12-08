@@ -1863,20 +1863,20 @@
   },
   "repository": {
     "project": {
-      "name": "music-playlist-view",
+      "name": "music-player-deluxe",
       "type": "module",
       "dependencies": 12,
       "devDependencies": 9
     },
     "files": {
-      "totalFiles": 4308,
-      "totalLines": 346950,
-      "totalSize": 10927990,
+      "totalFiles": 100,
+      "totalLines": 26874,
+      "totalSize": 1244711,
       "extensions": {
         "no-extension": {
-          "count": 6,
+          "count": 7,
           "lines": 0,
-          "size": 5952
+          "size": 5955
         },
         ".example": {
           "count": 1,
@@ -1885,8 +1885,8 @@
         },
         ".md": {
           "count": 6,
-          "lines": 1636,
-          "size": 45456
+          "lines": 1547,
+          "size": 42686
         },
         ".mjs": {
           "count": 2,
@@ -1895,18 +1895,13 @@
         },
         ".ts": {
           "count": 57,
-          "lines": 9640,
-          "size": 346626
-        },
-        ".json": {
-          "count": 4209,
-          "lines": 320093,
-          "size": 9683161
+          "lines": 9644,
+          "size": 346787
         },
         ".vue": {
           "count": 22,
-          "lines": 5905,
-          "size": 163448
+          "lines": 6007,
+          "size": 165936
         },
         ".jsonl": {
           "count": 1,
@@ -1939,9 +1934,11 @@
     },
     "api": {
       "total": 11,
-      "musicbrainz": 0,
-      "playlists": 5,
-      "songs": 0
+      "folders": {
+        "metadata": 6,
+        "playlists": 5,
+        "songs": 0
+      }
     },
     "songs": {
       "total": 4187,

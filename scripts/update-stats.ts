@@ -84,9 +84,7 @@ interface RepoStats {
 	};
 	api: {
 		total: number;
-		musicbrainz: number;
-		playlists: number;
-		songs: number;
+		folders: Record<string, number>;
 	};
 	songs: {
 		total: number;
@@ -141,46 +139,50 @@ async function getFileStats(
 
 				if (entry.isDirectory()) {
 					await processDirectory(fullPath);
-				} else {
-					const fileStat = await stat(fullPath);
-					const ext = extname(entry.name).toLowerCase() || "no-extension";
+			} else {
+				const fileStat = await stat(fullPath);
+				const ext = extname(entry.name).toLowerCase() || "no-extension";
 
-					stats.totalFiles++;
-					stats.totalSize += fileStat.size;
+				// Skip .json files from stats
+				if (ext === ".json") {
+					continue;
+				}
 
-					if (!stats.extensions[ext]) {
-						stats.extensions[ext] = { count: 0, lines: 0, size: 0 };
-					}
+				stats.totalFiles++;
+				stats.totalSize += fileStat.size;
 
-					stats.extensions[ext].count++;
-					stats.extensions[ext].size += fileStat.size;
+				if (!stats.extensions[ext]) {
+					stats.extensions[ext] = { count: 0, lines: 0, size: 0 };
+				}
 
-					// Count lines for text files
-					if (
-						[
-							".vue",
-							".ts",
-							".js",
-							".json",
-							".md",
-							".txt",
-							".yml",
-							".yaml",
-							".html",
-							".css",
-							".scss",
-						].includes(ext)
-					) {
-						try {
-							const content = await readFile(fullPath, "utf-8");
-							const lines = content.split("\n").length;
-							stats.totalLines += lines;
-							stats.extensions[ext].lines += lines;
-						} catch (error) {
-							// Skip binary files or files that can't be read as text
-						}
+				stats.extensions[ext].count++;
+				stats.extensions[ext].size += fileStat.size;
+
+				// Count lines for text files
+				if (
+					[
+						".vue",
+						".ts",
+						".js",
+						".md",
+						".txt",
+						".yml",
+						".yaml",
+						".html",
+						".css",
+						".scss",
+					].includes(ext)
+				) {
+					try {
+						const content = await readFile(fullPath, "utf-8");
+						const lines = content.split("\n").length;
+						stats.totalLines += lines;
+						stats.extensions[ext].lines += lines;
+					} catch (error) {
+						// Skip binary files or files that can't be read as text
 					}
 				}
+			}
 			}
 		} catch (error) {
 			console.warn(`Warning: Could not read directory ${currentPath}`);
@@ -277,23 +279,27 @@ async function generateRepoStats(): Promise<RepoStats> {
 		/\.vue$/,
 	);
 
-	// Count API endpoints
-	const apiFiles = await countFilesInDirectory(
-		join(rootPath, "server/api"),
-		/\.ts$/,
-	);
-	const musicbrainzApi = await countFilesInDirectory(
-		join(rootPath, "server/api/musicbrainz"),
-		/\.ts$/,
-	);
-	const playlistsApi = await countFilesInDirectory(
-		join(rootPath, "server/api/playlists"),
-		/\.ts$/,
-	);
-	const songsApi = await countFilesInDirectory(
-		join(rootPath, "server/api/songs"),
-		/\.ts$/,
-	);
+	// Count API endpoints - dynamically scan folders
+	const apiPath = join(rootPath, "server/api");
+	let apiFiles = 0;
+	const apiFolders: Record<string, number> = {};
+	
+	try {
+		const apiEntries = await readdir(apiPath, { withFileTypes: true });
+		
+		for (const entry of apiEntries) {
+			if (entry.isDirectory()) {
+				const folderPath = join(apiPath, entry.name);
+				const count = await countFilesInDirectory(folderPath, /\.ts$/);
+				apiFolders[entry.name] = count;
+				apiFiles += count;
+			} else if (entry.isFile() && entry.name.endsWith('.ts')) {
+				apiFiles++;
+			}
+		}
+	} catch (error) {
+		console.warn("Could not read API directory");
+	}
 
 	// Count songs and playlists
 	const songsCount = await countFilesInDirectory(
@@ -331,9 +337,7 @@ async function generateRepoStats(): Promise<RepoStats> {
 		},
 		api: {
 			total: apiFiles,
-			musicbrainz: musicbrainzApi,
-			playlists: playlistsApi,
-			songs: songsApi,
+			folders: apiFolders,
 		},
 		songs: {
 			total: songsCount,
@@ -462,7 +466,7 @@ async function scanPlaylistData(
 	tagCounts: Map<string, number>;
 	tagCountsByUser: Map<string, Map<string, number>>;
 	songCountsByUser: Map<string, number>;
-	itemsWithCountry: number;
+	itemsWithCountry: numbere;
 	countryCounts: Map<string, number>;
 	itemsWithReleaseDate: number;
 	releaseYearCounts: Map<string, number>;
