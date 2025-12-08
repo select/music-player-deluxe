@@ -1,109 +1,13 @@
 # Agent Development Guidelines
 
-## TypeScript Requirements
+## Commands
+`pnpm dev` (dev server) | `pnpm build` (production) | `pnpm lint` / `pnpm lint:fix` (ESLint) | `pnpm typecheck` (TS) | `pnpm stats:update` (stats/repo)
 
-All Vue components and JavaScript files in this project MUST use TypeScript:
+## Code Style
+**TypeScript**: `<script setup lang="ts">` with `defineProps<>()`, `defineEmits<>()`. Use union types for literals, interfaces for objects, `Record<K,V>` for maps, explicit return types. ESLint enforces type-based props/emits.
 
-### Vue Components
-- Use `<script setup lang="ts">` for all Vue components
-- Define proper TypeScript interfaces for props using `defineProps<{...}>()`
-- Use `withDefaults()` for default prop values
-- Define emit interfaces using `defineEmits<{...}>()`
-- Type all computed properties and functions with proper return types
+**Imports**: ES6 only. Order: Nuxt/Vue → third-party → shared utils (auto-imported, never explicitly import) → local. Relative paths for local.
 
-### Example Component Structure
-```vue
-<script setup lang="ts">
-const props = withDefaults(defineProps<{
-  variant?: "primary" | "secondary";
-  disabled?: boolean;
-}>(), {
-  variant: "primary",
-  disabled: false,
-});
+**Vue**: Always use `AppBtn.vue` (never `<button>`). Use `storeToRefs()` for Pinia (never destructure store). UnoCSS utilities only (no custom CSS). dayjs for dates. Colors: `bg-color`, `primary-1` (cards), `primary-3` (text), `accent` (gold).
 
-defineEmits<{
-  click: [event: MouseEvent];
-}>();
-</script>
-```
-
-### General TypeScript Guidelines
-1. Use union types for string literals instead of validators
-2. Define interfaces for all object types
-3. Use `Record<K, V>` for mapped object types
-4. Explicitly type function parameters and return values
-5. Use proper generic constraints where applicable
-
-### Color Scheme
-The project uses a dark theme with the following UnoCSS color variables:
-- `bg-color`: #1b1919 (main background)
-- `bg-gradient`: rgba(49,47,47,.8) (hover states)
-- `primary-1`: #000 (card backgrounds)
-- `primary-2`: #576b87 (button backgrounds)
-- `primary-3`: #a4b3c9 (accent/secondary text)
-- `primary-4`: #fff (primary text)
-- `accent`: gold (accent color for primary buttons and highlights)
-
-### Component Standards
-- ALWAYS use the `AppBtn.vue` component when a button is needed - never use raw `<button>` elements
-- Global link styling uses accent color (`text-primary-3`) without underlines
-- Maintain consistent spacing and typography using UnoCSS utilities
-- Use UnoCSS utility classes instead of custom CSS when available (e.g., `animate-spin` instead of custom keyframes)
-- Always use Tailwind's `line-clamp-<number>` utilities instead of custom CSS for text truncation
-
-### Auto-imported Functions
-- NEVER import functions from `shared/utils` - all utility functions are auto-imported by Nuxt
-- Functions like `parseArtistAndTitle`, `extractArtistFromChannel`, etc. are available globally
-- If you need to use a utility function, simply call it directly without importing
-
-### Date and Time Handling
-- ALWAYS use dayjs for date and time formatting and manipulation
-- Import dayjs and required plugins at the top of components:
-  ```ts
-  import dayjs from "dayjs";
-  import relativeTime from "dayjs/plugin/relativeTime";
-  import weekOfYear from "dayjs/plugin/weekOfYear";
-  
-  dayjs.extend(relativeTime);
-  dayjs.extend(weekOfYear);
-  ```
-- Use dayjs formatting methods instead of native Date methods:
-  - `dayjs(timestamp).format("YYYY MMM D")` instead of `new Date().toLocaleDateString()`
-  - `dayjs().fromNow()` for relative time display
-  - `dayjs(date).isSame(otherDate, 'day')` for date comparisons
-
-### Store Usage Guidelines
-- When accessing reactive state from Pinia stores, ALWAYS use `storeToRefs()`:
-  ```ts
-  // ✅ Correct
-  const { currentKeyboardShortcuts } = storeToRefs(useUserSettingsStore());
-  
-  // ❌ Incorrect - loses reactivity
-  const userSettingsStore = useUserSettingsStore();
-  const shortcuts = computed(() => userSettingsStore.currentKeyboardShortcuts);
-  ```
-- Use destructuring with renaming when needed:
-  ```ts
-  const { currentVideos: playlist } = storeToRefs(usePlaylistStore());
-  ```
-- Store refs from `storeToRefs()` are already reactive - don't wrap them in `computed()`
-- For store actions, you can destructure them directly from the store instance:
-  ```ts
-  // ✅ Preferred - destructure actions directly
-  const { loadFirstPlaylist, setCurrentPlaylistVideos } = usePlaylistStore();
-  const { currentPlaylist, currentVideos } = storeToRefs(usePlaylistStore());
-  
-  // Then use them directly
-  await loadFirstPlaylist();
-  setCurrentPlaylistVideos(newVideos);
-  
-  // ❌ Less preferred - using store instance
-  const playlistStore = usePlaylistStore();
-  playlistStore.setCurrentPlaylistVideos(newVideos);
-  ```
-
-### Development Tools
-- Use `pnpx nuxi typecheck` instead of `npx nuxi typecheck` for TypeScript checking
-- Use `pnpx` instead of `npx` for all Nuxt CLI commands when possible
-- This ensures consistency with the project's pnpm package manager setup
+**Error Handling**: try-catch in async functions. Log to console. Type errors as `unknown`, narrow type. Custom errors with messages. Graceful API failure handling.
