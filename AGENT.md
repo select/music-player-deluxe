@@ -13,6 +13,6 @@
 **Error Handling**: try-catch in async functions. Log to console. Type errors as `unknown`, narrow type. Custom errors with messages. Graceful API failure handling.
 
 ## Repository Statistics
-**Project**: music-playlist-view (ESM module) | **Files**: 4,308 | **Lines**: 346,950 | **Size**: 10.42 MB  
+**Project**: music-player-deluxe (ESM module) | **Files**: 4,308 | **Lines**: 346,950 | **Size**: 10.42 MB  
 **Components**: 22 Vue (6 admin, 3 app, 3 pages, 1 layout) | **API Endpoints**: 11 (5 playlists, 0 MusicBrainz, 0 songs)  
 **Data**: 4,181 songs, 4.39 MB metadata | **Sources**: MusicBrainz, Last.fm, Odesli, Ollama | Run `pnpm stats:update` to refresh
