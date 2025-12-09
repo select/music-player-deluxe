@@ -24,7 +24,8 @@
 		"augment:lastfm": "tsx scripts/lastfm-augment-find.ts",
 		"augment:lastfm:tags": "tsx scripts/lastfm-augment-tags.ts",
 		"augment:odesli": "tsx scripts/odesli-augment.ts",
-		"augment:blacklist": "tsx scripts/ollama-augment-blacklist.ts"
+		"augment:blacklist": "tsx scripts/ollama-augment-blacklist.ts",
+		"augment:tag-map": "tsx scripts/ollama-augment-tag-map.ts"
 	},
 	"dependencies": {
 		"@nuxt/eslint": "1.10.0",
