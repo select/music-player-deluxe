@@ -2792,3 +2792,5 @@
 {"tag": "zouk", "decision": "whitelist", "score": 85, "reason": "A specific genre of electronic music originating in the Caribbean."}
 {"tag": "zyrotechira", "decision": "blacklist", "score": 10, "reason": "Unclear term, likely a typo or nonsensical phrase."}
 {"tag": "––––––––––––", "decision": "blacklist", "score": 5, "reason": "Filler character, not a musical descriptor."}
+{"tag":"brill building","decision":"blacklist","score":10,"reason":"This tag refers to a type of architecture and is not related to music."}
+{"tag":"connie francis","decision":"blacklist","score":5,"reason":"This tag refers to a specific artist and is not a musical tag."}

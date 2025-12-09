@@ -1,0 +1,53 @@
+{
+  "youtubeId": "iBJdLlHg9Y8",
+  "title": "Eighteen",
+  "artist": "Connie Francis",
+  "lastFetched": "2025-12-08T13:14:28.827Z",
+  "odesli": {
+    "amazonMusic": "B00A3M962S",
+    "amazonStore": "B00A3M962S",
+    "pandora": "TR:169803156",
+    "soundcloud": "connie-francis-official/eighteen",
+    "tidal": "35140069",
+    "youtube": "iBJdLlHg9Y8",
+    "youtubeMusic": "iBJdLlHg9Y8"
+  },
+  "lastfm": {
+    "id": "Connie+Francis/_/Eighteen",
+    "listeners": 2149,
+    "playcount": 61751,
+    "title": "Eighteen",
+    "artist": "Connie Francis",
+    "artistMbid": "5fcd7daf-25e1-47fd-9ba1-830b42708f84",
+    "tags": [
+      "oldies",
+      "punk rock",
+      "connie francis",
+      "rock n roll"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "3218f5d5-4bef-47f3-b2c8-aed3787c9bc9",
+    "artistMbid": "5fcd7daf-25e1-47fd-9ba1-830b42708f84",
+    "releaseCount": 3,
+    "artistGenres": [
+      "brill building",
+      "easy listening",
+      "pop",
+      "traditional pop"
+    ],
+    "releasedAt": "1993-07-12",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000117064",
+      "discogs": "281441",
+      "spotify": "3EY5DxGdy7x4GelivOjS2Q",
+      "deezer": "1507",
+      "lastfm": "Connie+Francis",
+      "genius": "Connie-francis",
+      "rateyourmusic": "connie-francis",
+      "wikidata": "Q216341",
+      "youtube": "UC9G_OaXEjvl90Nt6FlV61OA"
+    }
+  }
+}

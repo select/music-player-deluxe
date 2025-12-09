@@ -1,0 +1,53 @@
+{
+  "youtubeId": "TUaHa1jJlYQ",
+  "title": "Sogar Icke",
+  "artist": "Icke & Er",
+  "lastFetched": "2025-12-08T13:14:09.439Z",
+  "odesli": {
+    "amazonMusic": "B07BXPTZGN",
+    "amazonStore": "B07BXPTZGN",
+    "boomplay": "43923029",
+    "deezer": "482071382",
+    "appleMusic": "375029247",
+    "itunes": "375029247",
+    "pandora": "TR:59481694",
+    "soundcloud": "ickeer/sogar-icke",
+    "spotify": "0nNWuLesdm3JARqXZel7df",
+    "tidal": "86912406",
+    "yandex": "40281606",
+    "youtube": "TUaHa1jJlYQ",
+    "youtubeMusic": "TUaHa1jJlYQ"
+  },
+  "lastfm": {
+    "id": "Icke+&+Er/_/Sogar+Icke",
+    "listeners": 895,
+    "playcount": 3473,
+    "title": "Sogar Icke",
+    "artist": "Icke & Er",
+    "mbid": "676abe1c-3c57-38de-bf06-01718f24b84d",
+    "artistMbid": "b2149506-a895-47e6-bc5f-94539f69b44a",
+    "tags": [
+      "berlin",
+      "richtig geil",
+      "hip hop",
+      "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "b851786a-4773-44ba-947d-4356c001eb8c",
+    "artistMbid": "b2149506-a895-47e6-bc5f-94539f69b44a",
+    "releaseCount": 1,
+    "releasedAt": "2010-05-28",
+    "externalIdsArtist": {
+      "allmusic": "mn0002090446",
+      "discogs": "627061",
+      "spotify": "6fvzsPcPb7iG1W4sKlPNQ3",
+      "deezer": "178305",
+      "genius": "Icke-and-er",
+      "rateyourmusic": "icke_and_er",
+      "soundcloud": "https://soundcloud.com/ickeer",
+      "wikidata": "Q1656422",
+      "youtube": "UCdQo8avlo_H2XmHOY7SKsmQ"
+    }
+  }
+}

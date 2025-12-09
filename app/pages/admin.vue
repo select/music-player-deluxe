@@ -5,9 +5,14 @@
 				<div class="i-mdi-cog" />
 				Admin Panel
 			</h1>
-			<AppBtn icon="i-mdi-arrow-left" variant="primary" to="/">
-				Back to Playlists
-			</AppBtn>
+			<div class="flex gap-3">
+				<AppBtn icon="i-mdi-music-note-plus" variant="secondary" to="/curate">
+					Curate Songs
+				</AppBtn>
+				<AppBtn icon="i-mdi-arrow-left" variant="primary" to="/">
+					Back to Playlists
+				</AppBtn>
+			</div>
 		</div>
 
 		<div class="flex flex-col gap-6">

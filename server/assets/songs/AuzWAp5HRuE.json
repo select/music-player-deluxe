@@ -1,0 +1,52 @@
+{
+  "youtubeId": "AuzWAp5HRuE",
+  "title": "Komm Klar",
+  "artist": "Icke & Er",
+  "lastFetched": "2025-12-08T13:14:11.884Z",
+  "odesli": {
+    "amazonMusic": "B07CB8DT1B",
+    "amazonStore": "B07CB8DT1B",
+    "deezer": "482071342",
+    "appleMusic": "375029185",
+    "itunes": "375029185",
+    "pandora": "TR:59481690",
+    "soundcloud": "ickeer/komm-klar",
+    "spotify": "7bFktsFnFU1lwmi5VSmNHc",
+    "tidal": "86912402",
+    "yandex": "31706935",
+    "youtube": "AuzWAp5HRuE",
+    "youtubeMusic": "AuzWAp5HRuE"
+  },
+  "lastfm": {
+    "id": "Icke+&+Er/_/Komm+Klar",
+    "listeners": 1647,
+    "playcount": 6740,
+    "title": "Komm Klar",
+    "artist": "Icke & Er",
+    "mbid": "20821360-a9d9-4cf8-8f07-b4e5aaf39d80",
+    "artistMbid": "b2149506-a895-47e6-bc5f-94539f69b44a",
+    "tags": [
+      "berlin",
+      "richtig geil",
+      "hip hop",
+      "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "ecc5f67d-3e36-4502-8d58-653a79d3f050",
+    "artistMbid": "b2149506-a895-47e6-bc5f-94539f69b44a",
+    "releaseCount": 2,
+    "releasedAt": "2010-05-28",
+    "externalIdsArtist": {
+      "allmusic": "mn0002090446",
+      "discogs": "627061",
+      "spotify": "6fvzsPcPb7iG1W4sKlPNQ3",
+      "deezer": "178305",
+      "genius": "Icke-and-er",
+      "rateyourmusic": "icke_and_er",
+      "soundcloud": "https://soundcloud.com/ickeer",
+      "wikidata": "Q1656422",
+      "youtube": "UCdQo8avlo_H2XmHOY7SKsmQ"
+    }
+  }
+}

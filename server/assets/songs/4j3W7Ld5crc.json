@@ -2,9 +2,13 @@
   "youtubeId": "4j3W7Ld5crc",
   "title": "10/11 Live at Johanneskirche",
   "artist": "Move D",
-  "lastFetched": "2025-11-17T01:52:34.339Z",
+  "lastFetched": "2025-12-08T23:45:11.585Z",
   "ai": {
     "title": "10/11 Live at Johanneskirche",
     "artist": "Move D"
+  },
+  "curated": {
+    "artist": "Move D",
+    "title": "10/11"
   }
 }

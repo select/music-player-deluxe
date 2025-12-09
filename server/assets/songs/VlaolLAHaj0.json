@@ -1,0 +1,53 @@
+{
+  "youtubeId": "VlaolLAHaj0",
+  "title": "Angeschossen",
+  "artist": "Icke & Er",
+  "lastFetched": "2025-12-08T13:14:10.714Z",
+  "odesli": {
+    "amazonMusic": "B07BXQG83T",
+    "amazonStore": "B07BXQG83T",
+    "boomplay": "43923028",
+    "deezer": "482071372",
+    "appleMusic": "375029216",
+    "itunes": "375029216",
+    "pandora": "TR:59481693",
+    "soundcloud": "ickeer/angeschossen",
+    "spotify": "0FEGe7ANtkO49wZ2hHC9yi",
+    "tidal": "86912405",
+    "yandex": "40281605",
+    "youtube": "VlaolLAHaj0",
+    "youtubeMusic": "VlaolLAHaj0"
+  },
+  "lastfm": {
+    "id": "Icke+&+Er/_/Angeschossen",
+    "listeners": 824,
+    "playcount": 2834,
+    "title": "Angeschossen",
+    "artist": "Icke & Er",
+    "mbid": "fa8e71df-8e4a-3767-bd72-11a7a8100eb6",
+    "artistMbid": "b2149506-a895-47e6-bc5f-94539f69b44a",
+    "tags": [
+      "berlin",
+      "richtig geil",
+      "hip hop",
+      "german"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "9bf248c5-bcc7-4909-8a7f-be7b3c5a8e03",
+    "artistMbid": "b2149506-a895-47e6-bc5f-94539f69b44a",
+    "releaseCount": 1,
+    "releasedAt": "2010-05-28",
+    "externalIdsArtist": {
+      "allmusic": "mn0002090446",
+      "discogs": "627061",
+      "spotify": "6fvzsPcPb7iG1W4sKlPNQ3",
+      "deezer": "178305",
+      "genius": "Icke-and-er",
+      "rateyourmusic": "icke_and_er",
+      "soundcloud": "https://soundcloud.com/ickeer",
+      "wikidata": "Q1656422",
+      "youtube": "UCdQo8avlo_H2XmHOY7SKsmQ"
+    }
+  }
+}
