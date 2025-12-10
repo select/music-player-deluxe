@@ -1,0 +1,61 @@
+{
+  "youtubeId": "e5VNISAnyMY",
+  "title": "Sinner Time",
+  "artist": "Calibre",
+  "lastFetched": "2025-12-10T09:44:12.169Z",
+  "odesli": {
+    "amazonMusic": "B0F8JFZWBF",
+    "amazonStore": "B0F8JFZWBF",
+    "anghami": "1212102651",
+    "deezer": "3364948081",
+    "appleMusic": "1814186059",
+    "itunes": "1814186059",
+    "pandora": "TR:159628057",
+    "soundcloud": "calibresignature/calibre-sinner-time-4",
+    "spotify": "70zCMD7HseCMZ0XptRvC3G",
+    "tidal": "435702987",
+    "yandex": "139184238",
+    "youtube": "e5VNISAnyMY",
+    "youtubeMusic": "e5VNISAnyMY"
+  },
+  "lastfm": {
+    "id": "Calibre/_/Sinner+Time",
+    "listeners": 1018,
+    "playcount": 2394,
+    "title": "Sinner Time",
+    "artist": "Calibre",
+    "mbid": "68485483-9185-45bd-b9fe-dffe4114e755",
+    "artistMbid": "afa502e0-fb84-4cf4-b3c0-21ed0c695939",
+    "tags": [
+      "drum and bass",
+      "liquid funk",
+      "electronic",
+      "dnb"
+    ]
+  },
+  "musicbrainz": {
+    "trackMbid": "68485483-9185-45bd-b9fe-dffe4114e755",
+    "artistMbid": "afa502e0-fb84-4cf4-b3c0-21ed0c695939",
+    "releaseCount": 1,
+    "artistGenres": [
+      "ambient",
+      "drum and bass",
+      "dub",
+      "dubstep",
+      "electronic",
+      "jungle",
+      "liquid funk",
+      "techno"
+    ],
+    "releasedAt": "2025-05-23",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "bandcamp": "https://calibre.bandcamp.com/",
+      "discogs": "4742",
+      "spotify": "0sklgkoO5JeS7YNhHS5EmH",
+      "deezer": "12199",
+      "soundcloud": "https://soundcloud.com/calibresignature",
+      "wikidata": "Q1844152"
+    }
+  }
+}

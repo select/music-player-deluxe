@@ -2,15 +2,119 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4313,
+  "videoCount": 4316,
   "videos": [
+    {
+      "id": "MGXXcLYSHSU",
+      "title": "Cocoon",
+      "channel": "Fight Pausa - Topic",
+      "duration": "2:50",
+      "createdAt": 1765299779352,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "artist": "Fight Pausa",
+      "musicTitle": "Cocoon",
+      "externalIds": {
+        "amazonMusic": "B0FXN84GKT",
+        "amazonStore": "B0FXN84GKT",
+        "boomplay": "9256912",
+        "appleMusic": "1852496109",
+        "itunes": "1852496109",
+        "pandora": "TR:179947661",
+        "soundcloud": "fightpausa-sc/cocoon",
+        "spotify": "6D4ggqizOhkUMbVVBvoHlB",
+        "tidal": "469151195",
+        "yandex": "144373275",
+        "youtube": "MGXXcLYSHSU",
+        "youtubeMusic": "MGXXcLYSHSU",
+        "musicbrainz-artist": "01bd902d-ce01-4a26-97f9-bfc457361053",
+        "lastfm": "Fight+Pausa/_/Cocoon"
+      },
+      "listeners": 274,
+      "playcount": 357
+    },
+    {
+      "id": "rw4UAQeFDNw",
+      "title": "Whispering Bells",
+      "channel": "The Del-Vikings - Topic",
+      "duration": "2:25",
+      "createdAt": 1765299491377,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "artist": "The Del-Vikings",
+      "musicTitle": "Whispering Bells",
+      "externalIds": {
+        "amazonMusic": "B001NYCUP0",
+        "amazonStore": "B001NYCUP0",
+        "audiomack": "53337658",
+        "anghami": "1130116459",
+        "boomplay": "7899040",
+        "deezer": "2514526",
+        "appleMusic": "408734821",
+        "itunes": "408734821",
+        "napster": "tra.107456174",
+        "pandora": "TR:155620702",
+        "soundcloud": "the-del-vikings/whispering-bells-1",
+        "spotify": "1PdEr0AMqekyg40O85PzqD",
+        "tidal": "59931068",
+        "yandex": "12051419",
+        "youtube": "rw4UAQeFDNw",
+        "youtubeMusic": "rw4UAQeFDNw",
+        "lastfm": "The+Del-Vikings/_/Whispering+Bells"
+      },
+      "tags": [
+        "doo wop",
+        "whispering bells"
+      ],
+      "listeners": 32308,
+      "playcount": 99694
+    },
+    {
+      "id": "e5VNISAnyMY",
+      "title": "Sinner Time",
+      "channel": "Calibre",
+      "duration": "6:28",
+      "createdAt": 1765231432613,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "artist": "Calibre",
+      "musicTitle": "Sinner Time",
+      "externalIds": {
+        "amazonMusic": "B0F8JFZWBF",
+        "amazonStore": "B0F8JFZWBF",
+        "anghami": "1212102651",
+        "deezer": "3364948081",
+        "appleMusic": "1814186059",
+        "itunes": "1814186059",
+        "pandora": "TR:159628057",
+        "soundcloud": "calibresignature/calibre-sinner-time-4",
+        "spotify": "70zCMD7HseCMZ0XptRvC3G",
+        "tidal": "435702987",
+        "yandex": "139184238",
+        "youtube": "e5VNISAnyMY",
+        "youtubeMusic": "e5VNISAnyMY",
+        "musicbrainz": "68485483-9185-45bd-b9fe-dffe4114e755",
+        "musicbrainz-track": "68485483-9185-45bd-b9fe-dffe4114e755",
+        "musicbrainz-artist": "afa502e0-fb84-4cf4-b3c0-21ed0c695939",
+        "lastfm": "Calibre/_/Sinner+Time"
+      },
+      "tags": [
+        "drum and bass",
+        "liquid funk",
+        "electronic",
+        "ambient",
+        "dub",
+        "dubstep",
+        "jungle",
+        "techno"
+      ],
+      "listeners": 1018,
+      "playcount": 2394,
+      "releasedAt": "2025-05-23",
+      "artistCountry": "GB"
+    },
     {
       "id": "flz-qnjpDdo",
       "title": "Dem Deer",
       "channel": "Bryan Bowers - Topic",
       "duration": "1:42",
-      "createdAt": 1765111408700,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
       "artist": "Bryan Bowers Band",
       "musicTitle": "Dem Deer",
       "externalIds": {
@@ -30,17 +134,20 @@
         "lastfm": "Bryan+Bowers+Band/_/Dem+Deer"
       },
       "listeners": 1139,
-      "playcount": 6217
+      "playcount": 6217,
+      "createdAt": 1765111408700,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "TUaHa1jJlYQ",
       "title": "Sogar Icke",
       "channel": "Icke & Er - Topic",
       "duration": "3:05",
-      "createdAt": 1765099852017,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
       "artist": "Icke & Er",
       "musicTitle": "Sogar Icke",
+      "tags": [
+        "hip hop"
+      ],
       "externalIds": {
         "amazonMusic": "B07BXPTZGN",
         "amazonStore": "B07BXPTZGN",
@@ -60,22 +167,22 @@
         "musicbrainz-artist": "b2149506-a895-47e6-bc5f-94539f69b44a",
         "lastfm": "Icke+&+Er/_/Sogar+Icke"
       },
-      "tags": [
-        "hip hop"
-      ],
       "listeners": 895,
       "playcount": 3473,
-      "releasedAt": "2010-05-28"
+      "releasedAt": "2010-05-28",
+      "createdAt": 1765099852017,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "VlaolLAHaj0",
       "title": "Angeschossen",
       "channel": "Icke & Er - Topic",
       "duration": "0:49",
-      "createdAt": 1765099852017,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
       "artist": "Icke & Er",
       "musicTitle": "Angeschossen",
+      "tags": [
+        "hip hop"
+      ],
       "externalIds": {
         "amazonMusic": "B07BXQG83T",
         "amazonStore": "B07BXQG83T",
@@ -95,22 +202,22 @@
         "musicbrainz-artist": "b2149506-a895-47e6-bc5f-94539f69b44a",
         "lastfm": "Icke+&+Er/_/Angeschossen"
       },
-      "tags": [
-        "hip hop"
-      ],
       "listeners": 824,
       "playcount": 2834,
-      "releasedAt": "2010-05-28"
+      "releasedAt": "2010-05-28",
+      "createdAt": 1765099852017,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "AuzWAp5HRuE",
       "title": "Komm Klar",
       "channel": "Icke & Er - Topic",
       "duration": "3:29",
-      "createdAt": 1765099624133,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
       "artist": "Icke & Er",
       "musicTitle": "Komm Klar",
+      "tags": [
+        "hip hop"
+      ],
       "externalIds": {
         "amazonMusic": "B07CB8DT1B",
         "amazonStore": "B07CB8DT1B",
@@ -129,22 +236,24 @@
         "musicbrainz-artist": "b2149506-a895-47e6-bc5f-94539f69b44a",
         "lastfm": "Icke+&+Er/_/Komm+Klar"
       },
-      "tags": [
-        "hip hop"
-      ],
       "listeners": 1647,
       "playcount": 6740,
-      "releasedAt": "2010-05-28"
+      "releasedAt": "2010-05-28",
+      "createdAt": 1765099624133,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "iBJdLlHg9Y8",
       "title": "Eighteen ~ Connie Francis  (1957)",
       "channel": "MrRJDB1969",
       "duration": "2:15",
-      "createdAt": 1765064710287,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
       "artist": "Connie Francis",
       "musicTitle": "Eighteen",
+      "tags": [
+        "rock n roll",
+        "pop",
+        "traditional pop"
+      ],
       "externalIds": {
         "amazonMusic": "B00A3M962S",
         "amazonStore": "B00A3M962S",
@@ -157,27 +266,25 @@
         "musicbrainz-artist": "5fcd7daf-25e1-47fd-9ba1-830b42708f84",
         "lastfm": "Connie+Francis/_/Eighteen"
       },
-      "tags": [
-        "connie francis",
-        "rock n roll",
-        "brill building",
-        "pop",
-        "traditional pop"
-      ],
       "listeners": 2149,
       "playcount": 61751,
       "releasedAt": "1993-07-12",
-      "artistCountry": "US"
+      "artistCountry": "US",
+      "createdAt": 1765064710287,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "3N9FAvcV_tU",
       "title": "Alice Cooper - I'm Eighteen",
       "channel": "Official Alice Cooper",
       "duration": "3:02",
-      "createdAt": 1765064417156,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
       "artist": "Alice Cooper",
       "musicTitle": "I'm Eighteen",
+      "tags": [
+        "hard rock",
+        "70s",
+        "rock"
+      ],
       "externalIds": {
         "amazonMusic": "B00123HLPG",
         "amazonStore": "B00123HLPG",
@@ -193,24 +300,27 @@
         "musicbrainz-artist": "4d7928cd-7ed2-4282-8c29-c0c9f966f1bd",
         "lastfm": "Alice+Cooper/_/I%27m+Eighteen"
       },
-      "tags": [
-        "hard rock",
-        "70s",
-        "rock"
-      ],
       "listeners": 340709,
       "playcount": 1595701,
-      "lastfmSummary": "According to the Peg Songfacts, I'm Eighteen Songfacts, this was Alice Cooper's first hit. They had a very popular stage show, but their first two albums didn't sell well. If this didn't produce, they probably would have been dropped by their record label. It did reaching #21 in the US.  <a href=\"http://www.last.fm/music/Alice+Cooper/_/I%27m+Eighteen\">Read more on Last.fm</a>."
+      "lastfmSummary": "According to the Peg Songfacts, I'm Eighteen Songfacts, this was Alice Cooper's first hit. They had a very popular stage show, but their first two albums didn't sell well. If this didn't produce, they probably would have been dropped by their record label. It did reaching #21 in the US.  <a href=\"http://www.last.fm/music/Alice+Cooper/_/I%27m+Eighteen\">Read more on Last.fm</a>.",
+      "createdAt": 1765064417156,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "iGAEHdOQ8yc",
       "title": "Isaac Hayes Black Militant's Place",
       "channel": "Joyful",
       "duration": "3:36",
-      "createdAt": 1765063958804,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
       "artist": "Isaac Hayes",
       "musicTitle": "Black Militant’s Place",
+      "tags": [
+        "soul",
+        "funk",
+        "rnb",
+        "soundtrack",
+        "disco",
+        "smooth soul"
+      ],
       "externalIds": {
         "amazonMusic": "B0773HL7BP",
         "amazonStore": "B0773HL7BP",
@@ -222,18 +332,12 @@
         "musicbrainz-artist": "a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21",
         "lastfm": "Isaac+Hayes/_/Black+Militant%E2%80%99s+Place"
       },
-      "tags": [
-        "soul",
-        "funk",
-        "rnb",
-        "soundtrack",
-        "disco",
-        "smooth soul"
-      ],
       "listeners": 465,
       "playcount": 829,
       "releasedAt": "2017-09-22",
-      "artistCountry": "US"
+      "artistCountry": "US",
+      "createdAt": 1765063958804,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "MCBYpv8MmtY",
@@ -2513,16 +2617,16 @@
       "channel": "verbalase",
       "duration": "0:56",
       "musicTitle": "Tetris Beatbox Explained",
+      "tags": [
+        "beatboxing"
+      ],
       "externalIds": {
         "lastfm": "Verbalase/_/Tetris+Beatbox+Explained"
       },
       "listeners": 105,
       "playcount": 159,
       "createdAt": 1606656600000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "beatboxing"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "WcqK9Ls7Eos",
@@ -4789,6 +4893,9 @@
       "duration": "4:19",
       "artist": "George Lam",
       "musicTitle": "Mr. Strong Man",
+      "tags": [
+        "cantopop"
+      ],
       "externalIds": {
         "amazonMusic": "B073S1GZT3",
         "amazonStore": "B073S1GZT3",
@@ -4806,10 +4913,7 @@
       "listeners": 138,
       "playcount": 438,
       "createdAt": 1601626620000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "cantopop"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "cPmPfW8uGvc",
@@ -17333,6 +17437,9 @@
       "duration": "5:17",
       "artist": "Manny Charlton",
       "musicTitle": "Doom",
+      "tags": [
+        "hard rock"
+      ],
       "externalIds": {
         "soundcloud": "mannycharlton-music/doom",
         "tidal": "395752509",
@@ -17347,10 +17454,7 @@
       "playcount": 334,
       "releasedAt": "1999",
       "createdAt": 1556613960000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
-      "tags": [
-        "hard rock"
-      ]
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
     },
     {
       "id": "QYpoCzkHh0s",
@@ -18472,6 +18576,9 @@
       "channel": "immortalyear",
       "duration": "38:16",
       "musicTitle": "Macintosh Plus - Floral Shoppe (FULL ALBUM!!)",
+      "tags": [
+        "title track"
+      ],
       "externalIds": {
         "musicbrainz-artist": "bb29e072-dfed-4dcc-bced-ebc63ef81c41",
         "lastfm": "Macintosh+Plus/_/floral+shoppe"
@@ -18479,10 +18586,7 @@
       "listeners": 1777,
       "playcount": 6414,
       "createdAt": 1550759520000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
-      "tags": [
-        "title track"
-      ]
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
     },
     {
       "id": "aQUlA8Hcv4s",
@@ -19547,6 +19651,10 @@
       "duration": "4:21",
       "artist": "Tori Amos",
       "musicTitle": "I Don't Like Mondays",
+      "tags": [
+        "female vocalist",
+        "alternative"
+      ],
       "externalIds": {
         "amazonMusic": "B001L61WEA",
         "amazonStore": "B001L61WEA",
@@ -19563,11 +19671,7 @@
       "playcount": 293922,
       "lastfmSummary": "Cover of The Boomtown Rats' I Don't Like Mondays. <a href=\"http://www.last.fm/music/Tori+Amos/_/I+Don%27t+Like+Mondays\">Read more on Last.fm</a>.",
       "createdAt": 1547037300000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "female vocalist",
-        "alternative"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "Wi6ZG2CmHo8",
@@ -19991,16 +20095,16 @@
       "channel": "Danny James",
       "duration": "3:18",
       "musicTitle": "Chilled Out Psychedelic Blues Guitar...",
+      "tags": [
+        "alternative"
+      ],
       "externalIds": {
         "lastfm": "Danny+James/_/Chilled+Out+Psychedelic+Blues+Guitar..."
       },
       "listeners": 39,
       "playcount": 94,
       "createdAt": 1545649560000,
-      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5",
-      "tags": [
-        "alternative"
-      ]
+      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5"
     },
     {
       "id": "OR07r0ZMFb8",
@@ -20594,6 +20698,9 @@
       "duration": "2:54",
       "artist": "Rolf Zuckowski und seine Freunde",
       "musicTitle": "In der Weihnachtsbäckerei",
+      "tags": [
+        "children's music"
+      ],
       "externalIds": {
         "amazonMusic": "B073P1V3MK",
         "amazonStore": "B073P1V3MK",
@@ -20612,10 +20719,7 @@
       "releasedAt": "1987-11-11",
       "artistCountry": "DE",
       "createdAt": 1544705460000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "children's music"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "HpY3ggKAPIE",
@@ -24224,16 +24328,16 @@
       "channel": "Agostini",
       "duration": "8:55",
       "musicTitle": "Blade Runner Blues (7) - Blade Runner Soundtrack",
+      "tags": [
+        "soundtrack"
+      ],
       "externalIds": {
         "lastfm": "Blade+Runner+Soundtrack/_/Blade+Runner+Blues"
       },
       "listeners": 67,
       "playcount": 322,
       "createdAt": 1538261580000,
-      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563",
-      "tags": [
-        "soundtrack"
-      ]
+      "userId": "0fbaa1c4f97df40c1ddf88d71ea80f8f582e904d553d46ac7f5e7fbe7a87f563"
     },
     {
       "id": "5thhFH6W3ko",
@@ -33555,6 +33659,9 @@
       "channel": "Freestyle Records",
       "duration": "5:29",
       "musicTitle": "01 The Shaolin Afronauts - Ojo Abameta [Freestyle Records]",
+      "tags": [
+        "world"
+      ],
       "externalIds": {
         "musicbrainz": "d2f1d3aa-3386-4c80-9d37-757c8270f2ac",
         "musicbrainz-track": "24c65694-5cf6-44a8-8704-ccc807194315",
@@ -33565,10 +33672,7 @@
       "playcount": 6826,
       "releasedAt": "2014-07-14",
       "createdAt": 1517230200000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "world"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "HkxD-3PGAYE",
@@ -38427,16 +38531,16 @@
       "channel": "ויקטוריה חנה Victoria Hanna",
       "duration": "3:52",
       "musicTitle": "Victoria Hanna - The Aleph-bet song (Hosha'ana) Official video",
+      "tags": [
+        "female vocalist"
+      ],
       "externalIds": {
         "lastfm": "Victoria+Hanna/_/The+Aleph-bet+song+(Hosha%27ana)"
       },
       "listeners": 132,
       "playcount": 535,
       "createdAt": 1505152620000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "female vocalist"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "u2OpgFeNr9s",
@@ -39255,16 +39359,16 @@
       "channel": "Spiritual Sounds",
       "duration": "6:05",
       "musicTitle": "Armen Miran & Hraach - Karahunj (The Prelude)",
+      "tags": [
+        "minimal"
+      ],
       "externalIds": {
         "lastfm": "Armen+Miran+&+Hraach/_/Karahunj+(The+Prelude)"
       },
       "listeners": 1432,
       "playcount": 3990,
       "createdAt": 1503498180000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "minimal"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "GVp-UOEur6Y",
@@ -40084,6 +40188,9 @@
       "channel": "thinkingjack",
       "duration": "3:12",
       "musicTitle": "Animaniacs - Schnitzelbank",
+      "tags": [
+        "soundtrack"
+      ],
       "externalIds": {
         "musicbrainz": "fea24bb8-1239-4137-85c5-82609695b28e",
         "musicbrainz-track": "92ef0dbb-200d-487a-a1bf-a539b409e587",
@@ -40095,10 +40202,7 @@
       "releasedAt": "1993-11-16",
       "artistCountry": "US",
       "createdAt": 1502179860000,
-      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6",
-      "tags": [
-        "soundtrack"
-      ]
+      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
     },
     {
       "id": "fsHcvQRRsY4",
@@ -44323,6 +44427,9 @@
       "duration": "4:04",
       "artist": "Anna Kendrick",
       "musicTitle": "True Colors",
+      "tags": [
+        "soundtrack"
+      ],
       "externalIds": {
         "amazonMusic": "B01LYI81HB",
         "amazonStore": "B01LYI81HB",
@@ -44347,10 +44454,7 @@
       "releasedAt": "2016-09-23",
       "artistCountry": "US",
       "createdAt": 1487716020000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "soundtrack"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "JkgMkZz71cw",
@@ -53731,16 +53835,16 @@
       "duration": "4:15",
       "artist": "DOTA",
       "musicTitle": "Wir rufen dich Galaktika",
+      "tags": [
+        "singer songwriter"
+      ],
       "externalIds": {
         "lastfm": "Dota/_/Wir+rufen+Dich+Galaktika"
       },
       "listeners": 11,
       "playcount": 49,
       "createdAt": 1734170876040,
-      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39",
-      "tags": [
-        "singer songwriter"
-      ]
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
     {
       "id": "_4C7H6fXmVY",
@@ -57378,6 +57482,11 @@
       "duration": "3:34",
       "artist": "Emma Peters",
       "musicTitle": "Clandestina (Cover)",
+      "tags": [
+        "french",
+        "female vocalist",
+        "francophone"
+      ],
       "externalIds": {
         "amazonMusic": "B07VHPGX2N",
         "amazonStore": "B07VHPGX2N",
@@ -57392,12 +57501,7 @@
       "listeners": 9901,
       "playcount": 76199,
       "createdAt": 1727412091054,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "french",
-        "female vocalist",
-        "francophone"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "IzIXlttNCyo",
@@ -59994,6 +60098,10 @@
       "duration": "4:44",
       "artist": "Bummelkasten",
       "musicTitle": "Prinzessin Susi",
+      "tags": [
+        "beatboxing",
+        "children's music"
+      ],
       "externalIds": {
         "musicbrainz": "6d8e8d44-ecb5-4747-8402-f1b2f1830392",
         "musicbrainz-track": "3e03353a-a7f9-48a0-83e8-d52d4f26eb1b",
@@ -60005,11 +60113,7 @@
       "releasedAt": "2017",
       "artistCountry": "DE",
       "createdAt": 1720351158262,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "beatboxing",
-        "children's music"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "0cmWi0vn5Y4",
@@ -62819,6 +62923,9 @@
       "duration": "2:34",
       "artist": "Intombi Zephepha",
       "musicTitle": "Ingoina Le Nyathi",
+      "tags": [
+        "world"
+      ],
       "externalIds": {
         "amazonMusic": "B0037B9P6Y",
         "amazonStore": "B0037B9P6Y",
@@ -62833,10 +62940,7 @@
       "listeners": 6178,
       "playcount": 15188,
       "createdAt": 1716414505339,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
-      "tags": [
-        "world"
-      ]
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "7RBMeUBmSf4",
@@ -65329,16 +65433,16 @@
       "duration": "4:12",
       "artist": "Gavin Rossdale",
       "musicTitle": "The Current",
+      "tags": [
+        "chill"
+      ],
       "externalIds": {
         "lastfm": "Gavin+Rossdale/_/The+Current"
       },
       "listeners": 140,
       "playcount": 2621,
       "createdAt": 1713160086632,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
-      "tags": [
-        "chill"
-      ]
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "5JAxgFe4hpE",
@@ -66980,6 +67084,10 @@
       "duration": "3:42",
       "artist": "Joint Venture",
       "musicTitle": "Haschisch rauchen macht harmlos",
+      "tags": [
+        "alternative",
+        "singer songwriter"
+      ],
       "externalIds": {
         "amazonMusic": "B019H70858",
         "amazonStore": "B019H70858",
@@ -67002,11 +67110,7 @@
       "playcount": 34545,
       "artistCountry": "DE",
       "createdAt": 1711954498152,
-      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39",
-      "tags": [
-        "alternative",
-        "singer songwriter"
-      ]
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
     {
       "id": "Bbngq5xmtCE",
@@ -85593,16 +85697,16 @@
       "duration": "9:09",
       "artist": "Star Trek",
       "musicTitle": "Main Theme",
+      "tags": [
+        "soundtrack"
+      ],
       "externalIds": {
         "lastfm": "Star+Trek/_/Main+Theme"
       },
       "listeners": 110,
       "playcount": 587,
       "createdAt": 1683234089204,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "soundtrack"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "gT6OHSwrt8M",
@@ -98411,16 +98515,16 @@
       "duration": "2:48",
       "artist": "The Big Lebowski",
       "musicTitle": "Just Dropped In (To See What Condition My Condition Was In)",
+      "tags": [
+        "soundtrack"
+      ],
       "externalIds": {
         "lastfm": "The+Big+Lebowski/_/Just+Dropped+In+(To+See+What+Condition+My+Condition+Was+In)"
       },
       "listeners": 393,
       "playcount": 2130,
       "createdAt": 1652972483676,
-      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2",
-      "tags": [
-        "soundtrack"
-      ]
+      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
     {
       "id": "Cmbdj9aXt_A",
@@ -110012,7 +110116,7 @@
     },
     {
       "id": "kln_bIndDJg",
-      "title": "Supertramp - The Logical Song (Official Video)",
+      "title": "Supertramp - The Logical Song",
       "channel": "Supertramp Official",
       "duration": "3:59",
       "artist": "Supertramp",
@@ -111868,6 +111972,9 @@
       "duration": "3:53",
       "artist": "Sue Ellen",
       "musicTitle": "Maneater",
+      "tags": [
+        "female vocalist"
+      ],
       "externalIds": {
         "amazonMusic": "B0030GIN28",
         "amazonStore": "B0030GIN28",
@@ -111889,10 +111996,7 @@
       "playcount": 3220,
       "releasedAt": "2009-12-15",
       "createdAt": 1755285977313,
-      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2",
-      "tags": [
-        "female vocalist"
-      ]
+      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
     {
       "id": "BGpzGu9Yp6Y",
@@ -114246,5 +114350,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2025-12-08T13:19:58.531Z"
+  "lastFetched": "2025-12-10T09:44:34.317Z"
 }

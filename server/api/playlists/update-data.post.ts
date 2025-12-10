@@ -263,7 +263,6 @@ export default defineEventHandler(async (event) => {
 			if (hasChanges) {
 				updatedCount++;
 			}
-			console.log("updatedVideo", updatedVideo);
 			return updatedVideo;
 		});
 
