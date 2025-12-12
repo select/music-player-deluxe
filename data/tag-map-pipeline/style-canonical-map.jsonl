@@ -1,0 +1,612 @@
+{"style":"rock","canonical_style":"rock","totalCount":5801,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"pop","canonical_style":"pop","totalCount":1976,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"alternative","canonical_style":"alternative rock","totalCount":1287,"action":"alias","reason":"Common abbreviation of 'alternative rock', a known musical style."}
+{"style":"electronic","canonical_style":"electronic","totalCount":1100,"action":"keep","reason":"Already a standard canonical style name and appears in multiple tags."}
+{"style":"jazz","canonical_style":"jazz","totalCount":991,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"metal","canonical_style":"metal","totalCount":788,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"folk","canonical_style":"folk","totalCount":636,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"hip hop","canonical_style":"hip hop","totalCount":572,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"blues","canonical_style":"blues","totalCount":527,"action":"keep","reason":"Already a standard canonical style name, consistent with example tags."}
+{"style":"punk","canonical_style":"punk","totalCount":525,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"indie","canonical_style":"indie","totalCount":474,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"soul","canonical_style":"soul","totalCount":448,"action":"keep","reason":"Already a standard canonical style name and appears in multiple tags."}
+{"style":"funk","canonical_style":"funk","totalCount":378,"action":"keep","reason":"Already a standard canonical style name, and appears in multiple tags."}
+{"style":"rap","canonical_style":"rap","totalCount":353,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"house","canonical_style":"house","totalCount":342,"action":"keep","reason":"Already a standard canonical style name, and exampleTags confirm it's a recognized musical genre."}
+{"style":"progressive","canonical_style":"progressive rock","totalCount":323,"action":"keep","reason":"This is a common and well-defined musical style, and the input string is a valid variant."}
+{"style":"ambient","canonical_style":"ambient","totalCount":296,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"techno","canonical_style":"techno","totalCount":274,"action":"keep","reason":"Already a standard canonical style name, and example tags support this style."}
+{"style":"dance","canonical_style":"dance","totalCount":264,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"drum and bass","canonical_style":"drum and bass","totalCount":251,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"experimental","canonical_style":"experimental","totalCount":241,"action":"keep","reason":"Already a valid and standard musical style term."}
+{"style":"reggae","canonical_style":"reggae","totalCount":239,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"psychedelic","canonical_style":"psychedelic","totalCount":199,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"electro","canonical_style":"electro","totalCount":198,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"electronica","canonical_style":"electronica","totalCount":197,"action":"keep","reason":"Already a standard canonical style name, and exampleTags confirm its use as a musical genre."}
+{"style":"hip-hop","canonical_style":"hip hop","totalCount":177,"action":"alias","reason":"Hyphenated form is a typo; should map to the standard 'hip hop' spelling."}
+{"style":"new wave","canonical_style":"new wave","totalCount":173,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"downtempo","canonical_style":"downtempo","totalCount":173,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"psychedelic rock","canonical_style":"psychedelic rock","totalCount":172,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"fusion","canonical_style":"fusion","totalCount":170,"action":"keep","reason":"Already a standard canonical style name, and example tags confirm its use."}
+{"style":"classical","canonical_style":"classical","totalCount":165,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"r&b","canonical_style":"r&b","totalCount":162,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"heavy metal","canonical_style":"heavy metal","totalCount":158,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"dubstep","canonical_style":"dubstep","totalCount":154,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"dub","canonical_style":"dub","totalCount":142,"action":"keep","reason":"Already a standard canonical style name, with example tags supporting its use."}
+{"style":"disco","canonical_style":"disco","totalCount":134,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"country","canonical_style":"country","totalCount":128,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"singer-songwriter","canonical_style":"singer-songwriter","totalCount":127,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"garage","canonical_style":"garage","totalCount":125,"action":"keep","reason":"Already a standard canonical style name, with example tags supporting its use."}
+{"style":"post-punk","canonical_style":"post-punk","totalCount":122,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"chillout","canonical_style":"chillout","totalCount":102,"action":"keep","reason":"Already a valid and standard musical style term."}
+{"style":"stoner","canonical_style":"stoner rock","totalCount":96,"action":"alias","reason":"A common variant of 'stoner rock', which is a recognized musical style."}
+{"style":"hardcore","canonical_style":"hardcore","totalCount":95,"action":"keep","reason":"Already a standard canonical style name, and appears in many tags."}
+{"style":"post-grunge","canonical_style":"post-grunge","totalCount":94,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"trip hop","canonical_style":"trip hop","totalCount":93,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"progressive metal","canonical_style":"progressive metal","totalCount":93,"action":"keep","reason":"Already a standard canonical style name, no normalization needed."}
+{"style":"idm","canonical_style":"intelligent dance music","totalCount":91,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"synth-pop","canonical_style":"synth pop","totalCount":90,"action":"alias","reason":"Hyphenated form is a stylistic variation of 'synth pop', should map to the standard canonical name."}
+{"style":"grunge","canonical_style":"grunge","totalCount":90,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"avant-garde","canonical_style":"avant-garde","totalCount":88,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"breakbeat","canonical_style":"breakbeat","totalCount":85,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"electropop","canonical_style":"electropop","totalCount":81,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"swing","canonical_style":"swing","totalCount":75,"action":"keep","reason":"Already a standard canonical style name, with a variant in the example tags."}
+{"style":"ska","canonical_style":"ska","totalCount":74,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"power pop","canonical_style":"power pop","totalCount":72,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"neo-psychedelia","canonical_style":"neo-psychedelia","totalCount":72,"action":"keep","reason":"This is a valid musical style term and already in a good canonical form."}
+{"style":"dance-pop","canonical_style":"dance-pop","totalCount":67,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"indietronica","canonical_style":"indietronica","totalCount":67,"action":"keep","reason":"Already a valid and recognized musical style term."}
+{"style":"industrial","canonical_style":"industrial","totalCount":66,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"emo","canonical_style":"emo","totalCount":66,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"acoustic","canonical_style":"acoustic","totalCount":65,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"glam","canonical_style":"glam rock","totalCount":64,"action":"alias","reason":"A common variant of 'glam rock', should map to the full canonical name."}
+{"style":"jungle","canonical_style":"jungle","totalCount":63,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"death metal","canonical_style":"death metal","totalCount":62,"action":"keep","reason":"Already a standard canonical style name, with examples indicating its use as a musical genre."}
+{"style":"dream pop","canonical_style":"dream pop","totalCount":61,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"trance","canonical_style":"trance","totalCount":59,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"dancehall","canonical_style":"dancehall","totalCount":58,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"minimal","canonical_style":"minimal","totalCount":57,"action":"keep","reason":"Already a standard canonical style name, with minor variations in example tags."}
+{"style":"americana","canonical_style":"americana","totalCount":56,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"latin","canonical_style":"latin","totalCount":53,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"thrash","canonical_style":"thrash metal","totalCount":53,"action":"alias","reason":"A variant of 'thrash metal', a known musical style."}
+{"style":"and roll","canonical_style":"rock and roll","totalCount":51,"action":"alias","reason":"Common abbreviation of 'rock and roll', should map to full canonical name."}
+{"style":"edm","canonical_style":"electronic dance music","totalCount":51,"action":"alias","reason":"Common abbreviation of 'electronic dance music', should map to full canonical name."}
+{"style":"post-rock","canonical_style":"post-rock","totalCount":50,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"trap","canonical_style":"trap","totalCount":49,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"neue deutsche welle","canonical_style":"new wave","totalCount":48,"action":"alias","reason":"German phrase for 'new wave', should map to the standard English term."}
+{"style":"big beat","canonical_style":"big beat","totalCount":45,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"synthpop","canonical_style":"synth pop","totalCount":45,"action":"alias","reason":"Common abbreviation of 'synth pop', should map to full canonical name."}
+{"style":"dnb","canonical_style":"drum and bass","totalCount":45,"action":"alias","reason":"Common abbreviation of 'drum and bass', should map to full canonical name."}
+{"style":"acid jazz","canonical_style":"acid jazz","totalCount":43,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"deep house","canonical_style":"deep house","totalCount":43,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"liedermacher","canonical_style":"liedermacher","totalCount":42,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"trip-hop","canonical_style":"trip-hop","totalCount":42,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"new age","canonical_style":"new age","totalCount":42,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"breaks","canonical_style":"breaks","totalCount":42,"action":"keep","reason":"Already a standard canonical style name, with supporting example tags."}
+{"style":"post-hardcore","canonical_style":"post-hardcore","totalCount":41,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"progressive house","canonical_style":"progressive house","totalCount":40,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"britpop","canonical_style":"britpop","totalCount":39,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"lounge","canonical_style":"lounge","totalCount":37,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"rave","canonical_style":"rave","totalCount":37,"action":"keep","reason":"Already a standard canonical style name and appears in relevant tags."}
+{"style":"krautrock","canonical_style":"krautrock","totalCount":36,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"rnb","canonical_style":"r&b","totalCount":36,"action":"alias","reason":"Common abbreviation of 'r&b', should map to full canonical name."}
+{"style":"gospel","canonical_style":"gospel","totalCount":36,"action":"keep","reason":"Already a standard canonical style name, confirmed by exampleTags."}
+{"style":"gothic","canonical_style":"gothic","totalCount":36,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"hard bop","canonical_style":"hard bop","totalCount":35,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"aor","canonical_style":"adult oriented rock","totalCount":35,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"neurofunk","canonical_style":"neurofunk","totalCount":33,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"chanson","canonical_style":"chanson","totalCount":33,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"shoegaze","canonical_style":"shoegaze","totalCount":32,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"power metal","canonical_style":"power metal","totalCount":32,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"prog","canonical_style":"progressive rock","totalCount":32,"action":"alias","reason":"Common abbreviation of 'progressive rock', should map to full canonical name."}
+{"style":"boogie","canonical_style":"boogie rock","totalCount":32,"action":"alias","reason":"The style appears with 'boogie rock' in example tags, indicating a more specific subgenre."}
+{"style":"post-bop","canonical_style":"post-bop","totalCount":31,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"oldies","canonical_style":"oldies","totalCount":31,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"electroclash","canonical_style":"electroclash","totalCount":31,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"gangsta","canonical_style":"gangsta rap","totalCount":31,"action":"alias","reason":"The style appears in a tag that represents a valid musical style, thus mapping to a more standard name."}
+{"style":"core","canonical_style":"core","totalCount":31,"action":"keep","reason":"This is a recognized musical style, and the spelling is already standard."}
+{"style":"schlager","canonical_style":"schlager","totalCount":30,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"ballad","canonical_style":"ballad","totalCount":29,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"surf","canonical_style":"surf","totalCount":29,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"easy listening","canonical_style":"easy listening","totalCount":28,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"grime","canonical_style":"grime","totalCount":27,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"symphonic","canonical_style":"symphonic metal","totalCount":27,"action":"alias","reason":"The style appears in tags that clearly indicate a subgenre of metal, therefore mapping it to 'symphonic metal' is appropriate."}
+{"style":"wave","canonical_style":"wave","totalCount":27,"action":"keep","reason":"Already a standard canonical style name, and exampleTags support its validity."}
+{"style":"big band","canonical_style":"big band","totalCount":25,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"garage rock","canonical_style":"garage rock","totalCount":25,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"synth","canonical_style":"synth pop","totalCount":24,"action":"alias","reason":"Common abbreviation, should map to the more complete and recognized 'synth pop' style."}
+{"style":"boom bap","canonical_style":"boom bap","totalCount":23,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"motown","canonical_style":"motown","totalCount":23,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"free jazz","canonical_style":"free jazz","totalCount":22,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"band","canonical_style":"band","totalCount":22,"action":"keep","reason":"Generic term, but appears in musical tags (jam, brass, marching bands), so it's a valid style."}
+{"style":"music","canonical_style":"music","totalCount":22,"action":"keep","reason":"Generic term, likely to appear across many genres; retains original form."}
+{"style":"cabaret","canonical_style":"cabaret","totalCount":22,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"ndw","canonical_style":"ndw","totalCount":21,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"bluegrass","canonical_style":"bluegrass","totalCount":21,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"math rock","canonical_style":"math rock","totalCount":20,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"afrobeat","canonical_style":"afrobeat","totalCount":20,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"opera","canonical_style":"opera","totalCount":20,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"sophisti-pop","canonical_style":"sophisti-pop","totalCount":19,"action":"keep","reason":"Already a valid and recognized musical style term."}
+{"style":"synthwave","canonical_style":"synthwave","totalCount":18,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"folktronica","canonical_style":"folktronica","totalCount":18,"action":"keep","reason":"Already a valid and established musical style term."}
+{"style":"popmusik","canonical_style":"popmusik","totalCount":18,"action":"keep","reason":"The style string is a valid musical style name and appears in the example tags."}
+{"style":"breakcore","canonical_style":"breakcore","totalCount":17,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"rapcore","canonical_style":"rapcore","totalCount":17,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"dance-punk","canonical_style":"dance-punk","totalCount":17,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"doom metal","canonical_style":"doom metal","totalCount":17,"action":"keep","reason":"Already a standard canonical style name, with clear examples in tags."}
+{"style":"orchestral","canonical_style":"orchestral","totalCount":16,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"ragga","canonical_style":"ragga","totalCount":16,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"hop","canonical_style":"hip hop","totalCount":16,"action":"alias","reason":"Common abbreviation of 'hip hop', a well-known musical style."}
+{"style":"baroque","canonical_style":"baroque","totalCount":15,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"groove metal","canonical_style":"groove metal","totalCount":15,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"black metal","canonical_style":"black metal","totalCount":15,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"step","canonical_style":"step","totalCount":15,"action":"keep","reason":"This is a recognized musical style, and the given form is acceptable."}
+{"style":"drone","canonical_style":"drone","totalCount":14,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"and rock","canonical_style":"pop and rock","totalCount":14,"action":"alias","reason":"Common phrase, likely a typo or variation of 'pop and rock'."}
+{"style":"deutschrock","canonical_style":"deutschrock","totalCount":14,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"footwork","canonical_style":"footwork","totalCount":14,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"poptron","canonical_style":"electronic pop","totalCount":14,"action":"alias","reason":"Likely a misspelling/variation of 'electronic pop', a recognized musical style."}
+{"style":"rhythm & blues","canonical_style":"rhythm & blues","totalCount":14,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"alt-country","canonical_style":"alt country","totalCount":13,"action":"alias","reason":"Common variation of 'alt country', should map to standard spelling."}
+{"style":"sludge metal","canonical_style":"sludge metal","totalCount":13,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"post-britpop","canonical_style":"post-Britpop","totalCount":13,"action":"alias","reason":"Minor spelling variation, should map to the standard canonical name."}
+{"style":"kabarett","canonical_style":"cabaret","totalCount":13,"action":"alias","reason":"Misspelled form of 'cabaret', a known musical style."}
+{"style":"celtic","canonical_style":"celtic","totalCount":13,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"psych","canonical_style":"psychedelic","totalCount":13,"action":"alias","reason":"Common abbreviation of 'psychedelic', a known musical style."}
+{"style":"rockabilly","canonical_style":"rockabilly","totalCount":12,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"chillwave","canonical_style":"chillwave","totalCount":12,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bubblegum","canonical_style":"bubblegum pop","totalCount":12,"action":"alias","reason":"More specific variant of bubblegum, should map to the full canonical name."}
+{"style":"rhythm and blues","canonical_style":"rhythm and blues","totalCount":12,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"balkan","canonical_style":"balkan","totalCount":12,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"flamenco","canonical_style":"flamenco","totalCount":12,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"neoclassical","canonical_style":"neoclassical","totalCount":12,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"electropunk","canonical_style":"electropunk","totalCount":11,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"neo-progressive","canonical_style":"neo-progressive","totalCount":11,"action":"keep","reason":"Already a valid and recognized musical style term."}
+{"style":"merseybeat","canonical_style":"merseybeat","totalCount":11,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"storm","canonical_style":"storm","totalCount":11,"action":"keep","reason":"Already a standard canonical style name, and exampleTags support this style."}
+{"style":"worldbeat","canonical_style":"worldbeat","totalCount":11,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bossa nova","canonical_style":"bossa nova","totalCount":11,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bebop","canonical_style":"bebop","totalCount":11,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"ebm","canonical_style":"electronic body music","totalCount":11,"action":"keep","reason":"This is a recognized musical genre, and the input style is a valid abbreviation."}
+{"style":"screamo","canonical_style":"screamo","totalCount":11,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"europop","canonical_style":"europop","totalCount":10,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"synth funk","canonical_style":"synth funk","totalCount":10,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"beat poetry","canonical_style":"beat poetry","totalCount":10,"action":"keep","reason":"Already a valid and recognizable musical style."}
+{"style":"christmas","canonical_style":"christmas music","totalCount":10,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"drum n","canonical_style":"drum and bass","totalCount":10,"action":"alias","reason":"Misspelled form of 'drum and bass', a known musical style."}
+{"style":"romantic","canonical_style":"romantic","totalCount":10,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"reggaeton","canonical_style":"reggaeton","totalCount":10,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"mpb","canonical_style":"mpb","totalCount":10,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"n roll","canonical_style":"rock and roll","totalCount":10,"action":"alias","reason":"Misspelled form of 'rock and roll', a known musical style."}
+{"style":"italo","canonical_style":"italo disco","totalCount":10,"action":"alias","reason":"Misspelled form of 'italo disco', a known musical style."}
+{"style":"neofolk","canonical_style":"neofolk","totalCount":9,"action":"keep","reason":"Already a valid and recognizable musical style."}
+{"style":"old school","canonical_style":"old school","totalCount":9,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"post-metal","canonical_style":"post-metal","totalCount":9,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"a cappella","canonical_style":"a cappella","totalCount":9,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"salsa","canonical_style":"salsa","totalCount":9,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"thrash metal","canonical_style":"thrash metal","totalCount":9,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"acid","canonical_style":"acid house","totalCount":9,"action":"alias","reason":"Common variation of 'acid house', a recognized musical style."}
+{"style":"hiphop","canonical_style":"hip hop","totalCount":9,"action":"alias","reason":"Common abbreviation of 'hip hop', should map to full canonical name."}
+{"style":"no wave","canonical_style":"no wave","totalCount":8,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"eurodance","canonical_style":"eurodance","totalCount":8,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"rocksteady","canonical_style":"rocksteady","totalCount":8,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"brostep","canonical_style":"brostep","totalCount":8,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"future bass","canonical_style":"future bass","totalCount":8,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"psytrance","canonical_style":"psytrance","totalCount":8,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"crossover","canonical_style":"crossover","totalCount":8,"action":"keep","reason":"Already a valid and recognized musical style term."}
+{"style":"minimal wave","canonical_style":"minimal wave","totalCount":8,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"härte","canonical_style":"neue deutsche härte","totalCount":8,"action":"keep","reason":"This is the original style string and it appears in a tag that defines the style."}
+{"style":"doo-wop","canonical_style":"doo-wop","totalCount":8,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"crank wave","canonical_style":"crankwave","totalCount":8,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"gypsy","canonical_style":"gypsy music","totalCount":8,"action":"keep","reason":"Already a valid and recognizable musical style."}
+{"style":"medieval","canonical_style":"medieval","totalCount":8,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bass","canonical_style":"bass","totalCount":8,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"neoclassicism","canonical_style":"neoclassicism","totalCount":7,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"juke","canonical_style":"juke","totalCount":7,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"tribal","canonical_style":"tribal","totalCount":7,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"south","canonical_style":"southern hip hop","totalCount":7,"action":"alias","reason":"A variant of 'southern hip hop', a recognized musical style."}
+{"style":"austropop","canonical_style":"austropop","totalCount":7,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"funktronica","canonical_style":"funktronica","totalCount":7,"action":"keep","reason":"The style is already in a valid canonical form and appears in the example tags."}
+{"style":"complextro","canonical_style":"complextro","totalCount":7,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"mashup","canonical_style":"mashup","totalCount":7,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"dance-rock","canonical_style":"dance rock","totalCount":7,"action":"alias","reason":"Common variation of 'dance rock', should map to the standard canonical name."}
+{"style":"darkwave","canonical_style":"darkwave","totalCount":7,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"vaporwave","canonical_style":"vaporwave","totalCount":7,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"adult contemporary","canonical_style":"adult contemporary","totalCount":7,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"musical","canonical_style":"musical","totalCount":6,"action":"keep","reason":"Already a valid musical style term."}
+{"style":"indie rock","canonical_style":"indie rock","totalCount":6,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"post-industrial","canonical_style":"post-industrial","totalCount":6,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"electronicore","canonical_style":"electronicore","totalCount":6,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"j-pop","canonical_style":"j-pop","totalCount":6,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"slowcore","canonical_style":"slowcore","totalCount":6,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"christian","canonical_style":"christian","totalCount":6,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"cumbia","canonical_style":"cumbia","totalCount":6,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"pop/rock","canonical_style":"pop rock","totalCount":6,"action":"alias","reason":"Common variation of 'pop rock', should map to the standard combined form."}
+{"style":"irish","canonical_style":"irish","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"choral","canonical_style":"choral","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"2 tone","canonical_style":"2 tone","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"sludge","canonical_style":"sludge","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"minimalism","canonical_style":"minimalism","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"drumstep","canonical_style":"drum and bass","totalCount":5,"action":"alias","reason":"‘drumstep’ is a relatively new term and often used interchangeably with ‘drum and bass’."}
+{"style":"mod","canonical_style":"mod","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"post-dubstep","canonical_style":"post-dubstep","totalCount":5,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"improvisation","canonical_style":"improvisation","totalCount":5,"action":"keep","reason":"This is a valid musical style term and already in a good canonical form."}
+{"style":"classic","canonical_style":"classic rock","totalCount":5,"action":"alias","reason":"Common abbreviation for 'classic rock', a known musical style."}
+{"style":"emocore","canonical_style":"emocore","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"concerto","canonical_style":"concerto","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"j-rock","canonical_style":"j-rock","totalCount":5,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"microfunk","canonical_style":"microfunk","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"k-pop","canonical_style":"k-pop","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"calypso","canonical_style":"calypso","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"drill","canonical_style":"drill and bass","totalCount":5,"action":"keep","reason":"This is a recognized musical style, and the example tags support this classification."}
+{"style":"madchester","canonical_style":"madchester","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"doom","canonical_style":"doom","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"singer/songwriter","canonical_style":"singer/songwriter","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"beat","canonical_style":"beat music","totalCount":5,"action":"keep","reason":"Existing style term, with a slight expansion for clarity."}
+{"style":"klezmer","canonical_style":"klezmer","totalCount":5,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"neo-soul","canonical_style":"neo-soul","totalCount":4,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"néo-trad","canonical_style":"new traditionalism","totalCount":4,"action":"alias","reason":"Misspelled form of 'new traditionalism', a recognized musical style."}
+{"style":"soukous","canonical_style":"soukous","totalCount":4,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"doo wop","canonical_style":"doo wop","totalCount":4,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"highlife","canonical_style":"highlife","totalCount":4,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"darksynth","canonical_style":"darksynth","totalCount":4,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"metalcore","canonical_style":"metalcore","totalCount":4,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"and bass","canonical_style":"drum and bass","totalCount":4,"action":"alias","reason":"Common abbreviation of 'drum and bass', should map to full canonical name."}
+{"style":"new jack swing","canonical_style":"new jack swing","totalCount":4,"action":"keep","reason":"Already a valid and recognized musical style term."}
+{"style":"anti-folk","canonical_style":"anti-folk","totalCount":4,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"alt-pop","canonical_style":"alternative pop","totalCount":4,"action":"alias","reason":"Common abbreviation of 'alternative pop', should map to full canonical name."}
+{"style":"comedy","canonical_style":"comedy","totalCount":4,"action":"keep","reason":"The style is valid and already in a standard form. The example tag confirms it's a musical style."}
+{"style":"street soul","canonical_style":"street soul","totalCount":4,"action":"keep","reason":"The style is already a valid and recognizable musical genre."}
+{"style":"tech","canonical_style":"techno","totalCount":4,"action":"alias","reason":"‘tech’ is a broad term; ‘techno’ is a more specific and recognizable musical style that aligns with the example tags."}
+{"style":"yacht rock","canonical_style":"yacht rock","totalCount":4,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"banjo","canonical_style":"banjo","totalCount":4,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"2-step","canonical_style":"2-step","totalCount":4,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"rumba","canonical_style":"rumba","totalCount":4,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"retrowave","canonical_style":"retrowave","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"death-doom","canonical_style":"death doom","totalCount":3,"action":"alias","reason":"Common hyphenated variant of 'death doom', should map to standard form."}
+{"style":"downbeat","canonical_style":"downbeat","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"g-funk","canonical_style":"g funk","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"roots","canonical_style":"roots","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"crunk","canonical_style":"crunk","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bient","canonical_style":"psybient","totalCount":3,"action":"alias","reason":"Misspelled variant of 'psybient', a known musical style."}
+{"style":"sitar","canonical_style":"sitar","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"coldwave","canonical_style":"coldwave","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"heavy","canonical_style":"heavy metal","totalCount":3,"action":"alias","reason":"Common descriptor, should map to a more specific and recognized musical style."}
+{"style":"boogaloo","canonical_style":"boogaloo","totalCount":3,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"mariachi","canonical_style":"mariachi","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"nu skool","canonical_style":"nu-skool","totalCount":3,"action":"alias","reason":"Typo in the style name, should be normalized to a standard form."}
+{"style":"hardbass","canonical_style":"hardbass","totalCount":3,"action":"keep","reason":"Already a valid musical style term."}
+{"style":"plunderphonics","canonical_style":"plunderphonics","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"hauntology","canonical_style":"hauntology","totalCount":3,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"moombahton","canonical_style":"mumbahton","totalCount":3,"action":"alias","reason":"Misspelled variant of a known musical style."}
+{"style":"dark wave","canonical_style":"dark wave","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"chillstep","canonical_style":"chillstep","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"harte","canonical_style":"hardcore","totalCount":3,"action":"alias","reason":"Likely a misspelling of 'hardcore', a recognized musical style."}
+{"style":"score","canonical_style":"score","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"nerdcore","canonical_style":"nerdcore","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"beatbox","canonical_style":"beatbox","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"tango","canonical_style":"tango","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"traditional","canonical_style":"traditional","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"beatboxing","canonical_style":"beatboxing","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"freakbeat","canonical_style":"freakbeat","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"chanson à texte","canonical_style":"chanson à texte","totalCount":3,"action":"keep","reason":"This is a valid musical style term, and the string is already in a good canonical form."}
+{"style":"trad rock","canonical_style":"traditional rock","totalCount":3,"action":"alias","reason":"A common misspelling, should map to the standard 'traditional rock' term."}
+{"style":"rb","canonical_style":"r&b","totalCount":3,"action":"alias","reason":"Common abbreviation of 'r&b', should map to full canonical name."}
+{"style":"a capella","canonical_style":"a cappella","totalCount":3,"action":"alias","reason":"Misspelled form of 'a cappella', a standard musical style."}
+{"style":"j-urban","canonical_style":"j-urban","totalCount":3,"action":"keep","reason":"This is a valid and understandable style term, and the string is already in a reasonable form."}
+{"style":"war metal","canonical_style":"war metal","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"musique concrète","canonical_style":"musique concrète","totalCount":3,"action":"keep","reason":"Already a valid and recognized musical style term."}
+{"style":"chillsynth","canonical_style":"chillsynth","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"avantgarde","canonical_style":"avant-garde","totalCount":3,"action":"alias","reason":"Misspelled form of 'avant-garde', a known musical style."}
+{"style":"indie-rock","canonical_style":"indie rock","totalCount":3,"action":"alias","reason":"Hyphenated form is an alias of 'indie rock', a common style term."}
+{"style":"qawwali","canonical_style":"qawwali","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"waltz","canonical_style":"waltz","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"orchestra","canonical_style":"orchestra","totalCount":3,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"djent","canonical_style":"djent","totalCount":2,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"nu-disco","canonical_style":"nu-disco","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"kompakt","canonical_style":"krautrock","totalCount":2,"action":"alias","reason":"A variant of krautrock, a known musical style."}
+{"style":"gabberpop","canonical_style":"gabberpop","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"ethno","canonical_style":"ethno","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"ill","canonical_style":"chill","totalCount":2,"action":"alias","reason":"Misspelling of 'chill', a known musical style."}
+{"style":"rasta","canonical_style":"rasta","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"rai","canonical_style":"rai","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"post punk","canonical_style":"post-punk","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"nujazz","canonical_style":"nu jazz","totalCount":2,"action":"alias","reason":"Common abbreviation of 'nu jazz', should map to full canonical name."}
+{"style":"guitar","canonical_style":"guitar","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"hardtek","canonical_style":"hardtek","totalCount":2,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"jazzy","canonical_style":"jazz","totalCount":2,"action":"alias","reason":"Misspelled form of 'jazz', a known musical style."}
+{"style":"polka","canonical_style":"polka","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"old skool","canonical_style":"old school","totalCount":2,"action":"alias","reason":"Misspelled form of 'old school', a known musical style."}
+{"style":"laiko","canonical_style":"laico","totalCount":2,"action":"alias","reason":"Minor spelling variation, likely a typo or regional variation of 'laico'."}
+{"style":"roll","canonical_style":"roll","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"broken beat","canonical_style":"broken beat","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"ghazal","canonical_style":"ghazal","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bolero","canonical_style":"bolero","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"club","canonical_style":"dance","totalCount":2,"action":"alias","reason":"‘club’ is a vague term; ‘dance’ is a more specific and appropriate category."}
+{"style":"noisecore","canonical_style":"noisecore","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"filmi","canonical_style":"filmi","totalCount":2,"action":"keep","reason":"Already a valid musical style term, low count and single tag suggest it's a niche term that should be kept."}
+{"style":"throat singing","canonical_style":"throat singing","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"old-time","canonical_style":"old time","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"dance drops","canonical_style":"dance","totalCount":2,"action":"alias","reason":"Shortened form of 'dance music' or 'dance tracks', should map to the canonical 'dance' style."}
+{"style":"liedermaching","canonical_style":"liedermachen","totalCount":2,"action":"alias","reason":"Misspelled form of 'liedermachen', a known musical style."}
+{"style":"vgm","canonical_style":"video game music","totalCount":2,"action":"keep","reason":"Already a valid and recognizable musical style term."}
+{"style":"trova","canonical_style":"nueva trova","totalCount":2,"action":"alias","reason":"‘trova’ is a Spanish word meaning ‘find’ or ‘discovery’, and ‘nueva trova’ is a recognized genre. ‘trova’ is a variant and should be mapped to the standard term."}
+{"style":"exotica","canonical_style":"exotica","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"forró","canonical_style":"forró","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bellydance","canonical_style":"bellydance","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"choir","canonical_style":"choir","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"and reggae","canonical_style":"reggae","totalCount":2,"action":"alias","reason":"Common phrase, should map to the standard 'reggae' style name."}
+{"style":"kpop","canonical_style":"kpop","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"boleros","canonical_style":"boleros","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"oud","canonical_style":"oud","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"marabi","canonical_style":"marabi","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"hyperdub","canonical_style":"hyperdub","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"canzone napoletana","canonical_style":"canzone napoletana","totalCount":2,"action":"keep","reason":"This is a valid musical style term and already in a good canonical form."}
+{"style":"post-alternative","canonical_style":"post-alternative","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"kinderlieder","canonical_style":"childrens songs","totalCount":2,"action":"alias","reason":"‘kinderlieder’ is a variation of ‘childrens songs’, mapping to the canonical name."}
+{"style":"filthstep","canonical_style":"filthstep","totalCount":2,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"adult alternative","canonical_style":"adult alternative","totalCount":2,"action":"keep","reason":"Already a valid and established musical style term."}
+{"style":"drum'n'bass","canonical_style":"drum and bass","totalCount":2,"action":"alias","reason":"Misformatted variant of 'drum and bass', a known musical style."}
+{"style":"balearic","canonical_style":"balearic","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"q-pop","canonical_style":"k-pop","totalCount":2,"action":"alias","reason":"‘q-pop’ is likely a misspelling or variant of ‘k-pop’, a widely recognized musical style."}
+{"style":"jùjù","canonical_style":"juju","totalCount":2,"action":"alias","reason":"Misspelled form of 'juju', a known musical style."}
+{"style":"psychobilly","canonical_style":"psychobilly","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bagpipe","canonical_style":"bagpipe","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"deathcore","canonical_style":"deathcore","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"drumfunk","canonical_style":"drum and bass","totalCount":2,"action":"alias","reason":"Misspelled form of 'drum and bass', a known musical style."}
+{"style":"singer songwriter","canonical_style":"singer-songwriter","totalCount":2,"action":"alias","reason":"Common hyphenated form, should map to standard canonical name."}
+{"style":"soundtracks and musicals","canonical_style":"soundtracks and musicals","totalCount":2,"action":"keep","reason":"This is a descriptive style, and already a reasonable canonical name."}
+{"style":"soca","canonical_style":"soca","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"ballet","canonical_style":"ballet","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"cantata","canonical_style":"cantata","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"arabesk","canonical_style":"arabesk","totalCount":2,"action":"keep","reason":"This is a recognized musical style, and the string is already in a standard form."}
+{"style":"cowpunk","canonical_style":"cowpunk","totalCount":2,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"slap house","canonical_style":"slap house","totalCount":2,"action":"keep","reason":"Already a valid and recognized musical style term."}
+{"style":"nwobhm","canonical_style":"new wave of british heavy metal","totalCount":2,"action":"alias","reason":"This is a specific subgenre that requires a full canonical name."}
+{"style":"funky","canonical_style":"funk","totalCount":2,"action":"alias","reason":"Common abbreviation of 'funk', should map to full canonical name."}
+{"style":"samba","canonical_style":"samba","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"ostrock","canonical_style":"stoner rock","totalCount":2,"action":"alias","reason":"Misspelled form, likely referring to 'stoner rock', a known musical style."}
+{"style":"volksmusik","canonical_style":"volksmusik","totalCount":2,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bluesrock","canonical_style":"blues rock","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"muzika","canonical_style":"muzika","totalCount":1,"action":"keep","reason":"This appears to be a specific musical style name, and has only one instance, so keeping it as is is appropriate."}
+{"style":"mizrahit","canonical_style":"mizrahi music","totalCount":1,"action":"alias","reason":"Likely a variant of 'mizrahi music', a recognized style of music."}
+{"style":"mzansi","canonical_style":"mzansi","totalCount":1,"action":"keep","reason":"This is a recognized musical style term."}
+{"style":"honky tonk","canonical_style":"honky tonk","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"corridos tumbados","canonical_style":"corridos tumbados","totalCount":1,"action":"keep","reason":"Already a valid and recognizable musical style term."}
+{"style":"corridos","canonical_style":"corridos","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"sierreno","canonical_style":"sierreno","totalCount":1,"action":"keep","reason":"This is a valid musical style name, and the count and example tags support it."}
+{"style":"corrido tumbado","canonical_style":"corrido tumbado","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"mexicano","canonical_style":"regional mexicano","totalCount":1,"action":"alias","reason":"A variation of 'regional mexicano', should map to the standard canonical name."}
+{"style":"ambience","canonical_style":"ambient","totalCount":1,"action":"alias","reason":"Similar style, 'ambience' is a less common term."}
+{"style":"death doom","canonical_style":"death doom metal","totalCount":1,"action":"keep","reason":"The style string is already a valid canonical form."}
+{"style":"post neo","canonical_style":"post-neo","totalCount":1,"action":"alias","reason":"Hyphenated form is a common variant of 'post-neo', should map to full canonical name."}
+{"style":"kraftwerk","canonical_style":"kraftwerk","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"eletroswing","canonical_style":"electroswing","totalCount":1,"action":"alias","reason":"Misspelled form of 'electroswing', a known musical style."}
+{"style":"dave wave","canonical_style":"dave wave","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"p-funk","canonical_style":"funk","totalCount":1,"action":"alias","reason":"Common abbreviation of 'funk', should map to full canonical name."}
+{"style":"2step","canonical_style":"2step","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"horrorcore","canonical_style":"horrorcore","totalCount":1,"action":"keep","reason":"Already a valid and established musical style term."}
+{"style":"afrofuturism","canonical_style":"afrofuturism","totalCount":1,"action":"keep","reason":"Already a valid and recognizable musical style."}
+{"style":"ghettotech","canonical_style":"ghettotech","totalCount":1,"action":"keep","reason":"This is a valid musical style term, and the count and example tags support it."}
+{"style":"female singer-songwriters","canonical_style":"female singer-songwriter","totalCount":1,"action":"alias","reason":"Minor formatting issue (hyphen vs. space) to align with common canonical form."}
+{"style":"queercore","canonical_style":"queercore","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"pop-rock","canonical_style":"pop rock","totalCount":1,"action":"alias","reason":"Hyphenated form is a stylistic variant of 'pop rock'."}
+{"style":"taize","canonical_style":"taizé","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"goth","canonical_style":"gothic rock","totalCount":1,"action":"alias","reason":"Common alias for 'goth', should map to the more widely recognized canonical name."}
+{"style":"bossa","canonical_style":"bossa nova","totalCount":1,"action":"alias","reason":"Shortened form of 'bossa nova', should map to full canonical name."}
+{"style":"electroswing","canonical_style":"electroswing","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"pachanga","canonical_style":"pachanga","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"dura","canonical_style":"dura","totalCount":1,"action":"keep","reason":"The style 'dura' is a valid musical style term, and it appears in the example tags."}
+{"style":"son cubano","canonical_style":"son cubano","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"psychodelic","canonical_style":"psychedelic","totalCount":1,"action":"alias","reason":"Misspelled form of 'psychedelic', a known musical style."}
+{"style":"bluz","canonical_style":"blues","totalCount":1,"action":"alias","reason":"Misspelling of 'blues', a well-known musical style."}
+{"style":"motorik","canonical_style":"motorik","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"blitzmash","canonical_style":"blitzmash","totalCount":1,"action":"keep","reason":"This is a valid musical style term with limited usage, so it should be kept as-is."}
+{"style":"post-minimalism","canonical_style":"post-minimalism","totalCount":1,"action":"keep","reason":"Already a valid and recognizable musical style term."}
+{"style":"fantasy","canonical_style":"fantasy","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"neomedieval","canonical_style":"neomedieval","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"cantautore","canonical_style":"cantautore","totalCount":1,"action":"keep","reason":"This is the standard Italian term for 'singer-songwriter', and should be kept as is."}
+{"style":"cardio-wave","canonical_style":"cardio wave","totalCount":1,"action":"keep","reason":"Already a valid musical style, minor spacing normalization"}
+{"style":"g-house","canonical_style":"g-house","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"mathcore","canonical_style":"mathcore","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"hippie","canonical_style":"hippie","totalCount":1,"action":"keep","reason":"Already a valid and recognizable musical style."}
+{"style":"deepstep","canonical_style":"deepstep","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"zouk","canonical_style":"zouk","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"neo-psychedelic","canonical_style":"neo-psychedelic","totalCount":1,"action":"keep","reason":"Already a valid and recognizable musical style."}
+{"style":"noir","canonical_style":"noir","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"two-tone","canonical_style":"two-tone","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"fingerstyle","canonical_style":"fingerstyle","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"sochilounge","canonical_style":"soulchild","totalCount":1,"action":"alias","reason":"Misspelling of 'soulchild', a known musical style."}
+{"style":"goregrind","canonical_style":"goregrind","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"hang drum","canonical_style":"hang drum","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"black","canonical_style":"black metal","totalCount":1,"action":"alias","reason":"A variant of 'black metal', which is a recognized musical style."}
+{"style":"carmina burana","canonical_style":"carmina burana","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"amapiano","canonical_style":"amapiano","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"let it roll","canonical_style":"let it roll","totalCount":1,"action":"keep","reason":"Already a valid and recognizable musical style."}
+{"style":"aggrotech","canonical_style":"aggrotech","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"gamelan","canonical_style":"gamelan","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"raga","canonical_style":"raga","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"cantopop","canonical_style":"cantopop","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"bounce","canonical_style":"bounce music","totalCount":1,"action":"keep","reason":"Existing style term, although somewhat vague, should be retained."}
+{"style":"soprano","canonical_style":"soprano","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"neoperreo","canonical_style":"neoperreo","totalCount":1,"action":"keep","reason":"This appears to be a specific, albeit rare, musical style that should be preserved as is."}
+{"style":"elektro","canonical_style":"electro","totalCount":1,"action":"alias","reason":"Misspelled form of 'electro', a known musical style."}
+{"style":"drums","canonical_style":"drums","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bop","canonical_style":"bop","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"carnatic","canonical_style":"carnatic","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"stomp and holler","canonical_style":"stomp and holler","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"goa","canonical_style":"goa","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"standards","canonical_style":"standards","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"drumandbass","canonical_style":"drum and bass","totalCount":1,"action":"alias","reason":"Misformatted style, should be 'drum and bass'"}
+{"style":"accordeon","canonical_style":"accordion","totalCount":1,"action":"alias","reason":"Misspelled form of 'accordion', a known musical style."}
+{"style":"blues-rock","canonical_style":"blues rock","totalCount":1,"action":"alias","reason":"Minor formatting difference; 'blues rock' is the standard canonical spelling."}
+{"style":"bayrisch","canonical_style":"bayesian","totalCount":1,"action":"alias","reason":"Misspelled form, should map to the correct spelling 'Bayesian' which is a known musical style."}
+{"style":"kosmische","canonical_style":"kosmische","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"symfonicznie","canonical_style":"symphonic","totalCount":1,"action":"alias","reason":"Polish word for 'symphonic', should be normalized to the English equivalent."}
+{"style":"funk rock","canonical_style":"funk rock","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"j-funk","canonical_style":"j-funk","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"drum and bass","canonical_style":"drum & bass","totalCount":1,"action":"alias","reason":"Common variation of 'drum & bass', should map to the standard notation."}
+{"style":"northern dancers","canonical_style":"northern soul","totalCount":1,"action":"alias","reason":"Likely refers to 'northern soul', a related musical genre often associated with 'northern dancers'."}
+{"style":"mozambique","canonical_style":"mozambique","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"marrabenta","canonical_style":"marrabenta","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"chinesepop","canonical_style":"chinese pop","totalCount":1,"action":"alias","reason":"Misspelled form of 'chinese pop', a known musical style."}
+{"style":"yé-yé","canonical_style":"yé-yé","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"forro","canonical_style":"forro","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"powerpop","canonical_style":"power pop","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"demoscene","canonical_style":"demoscene","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"musicals","canonical_style":"musical theatre","totalCount":1,"action":"alias","reason":"A more standard canonical name for musical theater, mapping a noisy variant."}
+{"style":"indie pop","canonical_style":"indie pop","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"kora","canonical_style":"kora","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"popwave","canonical_style":"popwave","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"grieg","canonical_style":"grieg","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"whalecore","canonical_style":"whale music","totalCount":1,"action":"alias","reason":"Likely a niche subgenre, best represented by the broader term 'whale music'."}
+{"style":"post-screamo","canonical_style":"post-screamo","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"praise & worship","canonical_style":"praise & worship","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"vaportrap","canonical_style":"vaporwave","totalCount":1,"action":"alias","reason":"Misspelled form of 'vaporwave', a known musical style."}
+{"style":"reis","canonical_style":"reis","totalCount":1,"action":"keep","reason":"This appears to be a valid musical style term, and its usage warrants keeping it as is."}
+{"style":"narcocorrido","canonical_style":"narcocorrido","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"ed banger","canonical_style":"ed banger","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"av","canonical_style":"av","totalCount":1,"action":"keep","reason":"Already a valid and recognizable musical style abbreviation."}
+{"style":"electrofunk","canonical_style":"electro funk","totalCount":1,"action":"alias","reason":"Common variation of 'electro funk', should map to a standard form."}
+{"style":"dubwise","canonical_style":"dubwise","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"doujin","canonical_style":"doujin","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"ongaku","canonical_style":"j-pop","totalCount":1,"action":"alias","reason":"Likely a reference to J-Pop, a known musical style; 'ongaku' (music) is a broad term."}
+{"style":"pagan","canonical_style":"pagan metal","totalCount":1,"action":"alias","reason":"The style appears in a tag that defines it, so it should be aliased to a more descriptive canonical form."}
+{"style":"arbeiterlied","canonical_style":"arbeiterlied","totalCount":1,"action":"keep","reason":"This is a valid musical style term and appears in the example tags."}
+{"style":"day of the dead","canonical_style":"day of the dead","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"fiddle","canonical_style":"fiddle","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"contemporary","canonical_style":"contemporary","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"slam poetry","canonical_style":"slam poetry","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"dixieland","canonical_style":"dixieland","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"vocal harmony","canonical_style":"vocal harmony","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"gangstarap","canonical_style":"gangstar rap","totalCount":1,"action":"alias","reason":"Misspelled variant of 'gangstar rap', a known musical style."}
+{"style":"linedance","canonical_style":"linedance","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"beatdown","canonical_style":"beatdown","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"glitchstep","canonical_style":"glitchstep","totalCount":1,"action":"keep","reason":"This appears to be a specific, if niche, musical style name and should be preserved."}
+{"style":"mittelalter","canonical_style":"medieval","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"harp","canonical_style":"harp","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"synthpunk","canonical_style":"synthpunk","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"evita","canonical_style":"evita","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"improv","canonical_style":"improv","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"rhythm","canonical_style":"rhythm","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"delta blues","canonical_style":"delta blues","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bardcore","canonical_style":"bardcore","totalCount":1,"action":"keep","reason":"Already a valid and established musical style."}
+{"style":"winds","canonical_style":"wind","totalCount":1,"action":"keep","reason":"A general term for wind, and a reasonable style to keep."}
+{"style":"touch","canonical_style":"touch music","totalCount":1,"action":"keep","reason":"A valid musical style, even if uncommon, and similar to 'touch music'."}
+{"style":"bhangra","canonical_style":"bhangra","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"shake","canonical_style":"shake","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"tendencies","canonical_style":"tendencies","totalCount":1,"action":"keep","reason":"Already a valid and meaningful musical style term."}
+{"style":"dabke","canonical_style":"dabke","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"gnawa","canonical_style":"gnawa","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"dsbm","canonical_style":"death metal","totalCount":1,"action":"alias","reason":"Shortened form of 'death metal', a recognized musical style."}
+{"style":"blankcore","canonical_style":"blankcore","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"string quartet","canonical_style":"string quartet","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"cuban","canonical_style":"cuban","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"shamisen","canonical_style":"shamisen","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"cyberpunk","canonical_style":"cyberpunk","totalCount":1,"action":"keep","reason":"Already a valid and standard musical style term."}
+{"style":"kiche","canonical_style":"kiche","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"alternative rap","canonical_style":"alternative rap","totalCount":1,"action":"keep","reason":"Already a valid and recognizable musical style."}
+{"style":"neapolitan","canonical_style":"neapolitan","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"jrock","canonical_style":"j-rock","totalCount":1,"action":"alias","reason":"Common abbreviation of 'j-rock', should map to full canonical name."}
+{"style":"female singers","canonical_style":"female vocalists","totalCount":1,"action":"alias","reason":"Broad term; mapping to 'female vocalists' provides a more specific and standard musical style."}
+{"style":"tune","canonical_style":"tune","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"nuevo","canonical_style":"nuevo flamenco","totalCount":1,"action":"alias","reason":"Likely a variant of 'nuevo flamenco', a recognized musical style."}
+{"style":"woodstock","canonical_style":"woodstock","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"raggamuffin","canonical_style":"raggamuffin","totalCount":1,"action":"keep","reason":"Already a valid and commonly used musical style term."}
+{"style":"ballade","canonical_style":"ballade","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"electronics","canonical_style":"indietronics","totalCount":1,"action":"alias","reason":"A common variant of 'electronics' within the music tag vocabulary."}
+{"style":"elektronic","canonical_style":"electronic","totalCount":1,"action":"alias","reason":"Misspelled form of 'electronic', a known musical style."}
+{"style":"freestyle","canonical_style":"freestyle","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"steampunk","canonical_style":"steampunk","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"hardstyle","canonical_style":"hardstyle","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"gopnik","canonical_style":"gopnik","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"skullstep","canonical_style":"skullstep","totalCount":1,"action":"keep","reason":"This is a valid and recognized musical style, and the style string is already in a good canonical form."}
+{"style":"n' roll","canonical_style":"rock and roll","totalCount":1,"action":"alias","reason":"Misspelled form of 'rock and roll', a known musical style."}
+{"style":"hard rock","canonical_style":"hard rock","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"quebecois","canonical_style":"quebecois","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"québécoise","canonical_style":"chanson québécoise","totalCount":1,"action":"alias","reason":"A variant of 'chanson québécoise', a known musical style."}
+{"style":"ukulele","canonical_style":"ukulele","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"hawaiian","canonical_style":"hawaiian","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"beats","canonical_style":"beats","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"raggae","canonical_style":"reggae","totalCount":1,"action":"alias","reason":"Misspelling of 'reggae', a known musical style."}
+{"style":"girl groups","canonical_style":"girl groups","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"crooners","canonical_style":"crooners","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"mande","canonical_style":"manding","totalCount":1,"action":"alias","reason":"Likely refers to the Manding ethnic group, a distinct musical style; mapping to the more common and recognized term."}
+{"style":"ostschlager","canonical_style":"ostschlager","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"sadcore","canonical_style":"sadcore","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"superpop","canonical_style":"superpop","totalCount":1,"action":"keep","reason":"The style is already a valid and known musical style."}
+{"style":"electrotango","canonical_style":"electrotango","totalCount":1,"action":"keep","reason":"Already a valid and distinct musical style."}
+{"style":"liquidfunk","canonical_style":"liquid funk","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"neo-classical","canonical_style":"neo-classical","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bagpipes","canonical_style":"bagpipes","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"grind","canonical_style":"grind","totalCount":1,"action":"keep","reason":"Already a standard musical style term."}
+{"style":"scrubs","canonical_style":"scrubs","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"africain-francais","canonical_style":"africain-francais","totalCount":1,"action":"keep","reason":"This is a valid and distinct musical style, and the input is already in a reasonable canonical form."}
+{"style":"neuropunk","canonical_style":"neuropunk","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"protopunk","canonical_style":"protopunk","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"bitpop","canonical_style":"bitpop","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"folk music","canonical_style":"folk music","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"chaabi","canonical_style":"chaabi","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"anthems","canonical_style":"anthems","totalCount":1,"action":"keep","reason":"This is a valid musical style term, and the single occurrence doesn't warrant any changes."}
+{"style":"triphop","canonical_style":"trip hop","totalCount":1,"action":"alias","reason":"Misspelled form of 'trip hop', a known musical style."}
+{"style":"nu metal","canonical_style":"nu metal","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"latino","canonical_style":"latin music","totalCount":1,"action":"alias","reason":"Broad term; 'latin music' is a more specific and commonly used canonical style."}
+{"style":"drum and bass","canonical_style":"drum & bass","totalCount":1,"action":"alias","reason":"Common variation of 'drum & bass', should map to the standard format."}
+{"style":"crankwave","canonical_style":"crankwave","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"cutugno","canonical_style":"cutugno","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"pirate","canonical_style":"pirate metal","totalCount":1,"action":"alias","reason":"The style appears in a tag that specifies a related musical style."}
+{"style":"pirate metal","canonical_style":"pirate metal","totalCount":1,"action":"keep","reason":"Already a valid musical style term and appears in associated tags."}
+{"style":"clowncore","canonical_style":"clowncore","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"speedcore","canonical_style":"speedcore","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"flashdance","canonical_style":"flashdance","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"tropicalia","canonical_style":"tropicalia","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"tropicália","canonical_style":"tropicália","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"folkeromantikk","canonical_style":"folk romance","totalCount":1,"action":"alias","reason":"This is a variant of 'folk romance', an existing musical style term."}
+{"style":"third stream","canonical_style":"third stream","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"brutal death metal","canonical_style":"brutal death metal","totalCount":1,"action":"keep","reason":"Already a standard and well-defined musical style."}
+{"style":"antifolk","canonical_style":"antifolk","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"klimat","canonical_style":"klimat","totalCount":1,"action":"keep","reason":"Already a valid musical style term."}
+{"style":"hophop","canonical_style":"hip hop","totalCount":1,"action":"alias","reason":"Misspelled form of 'hip hop', a known musical style."}
+{"style":"lieder","canonical_style":"lieder","totalCount":1,"action":"keep","reason":"This is a valid and recognized musical style term."}
+{"style":"tabla","canonical_style":"tabla","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"underground","canonical_style":"underground","totalCount":1,"action":"keep","reason":"This is a valid musical style term and exists in a known tag."}
+{"style":"swancore","canonical_style":"swancore","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"cowboy","canonical_style":"cowboy","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"raï","canonical_style":"raï","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"eletronic","canonical_style":"electronic","totalCount":1,"action":"alias","reason":"Misspelled form of 'electronic', a known musical style."}
+{"style":"glitch-hop","canonical_style":"glitch hop","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"futurepop","canonical_style":"futurepop","totalCount":1,"action":"keep","reason":"Already a valid and recognizable musical style."}
+{"style":"progressive rock","canonical_style":"progressive rock","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"sleng teng","canonical_style":"sleng teng","totalCount":1,"action":"keep","reason":"Exact match, already a valid musical style term."}
+{"style":"songs","canonical_style":"songs","totalCount":1,"action":"keep","reason":"The style 'songs' is a valid and commonly used musical term."}
+{"style":"visual kei","canonical_style":"visual kei","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"groove","canonical_style":"groove","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"part","canonical_style":"part","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"frupbeat","canonical_style":"freestyle","totalCount":1,"action":"alias","reason":"Likely a misspelling or variant of 'freestyle', a known musical style."}
+{"style":"twee","canonical_style":"twee","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"darkpsy","canonical_style":"darkpsy","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bollywood","canonical_style":"bollywood","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"krishna","canonical_style":"krishnacore","totalCount":1,"action":"keep","reason":"This appears to be a specific subgenre, and should be kept as is."}
+{"style":"jams","canonical_style":"jams","totalCount":1,"action":"keep","reason":"This is a valid and recognizable musical style term."}
+{"style":"weird","canonical_style":"weird music","totalCount":1,"action":"keep","reason":"The style appears in a valid musical tag and should be kept as-is."}
+{"style":"garbuix","canonical_style":"garbux","totalCount":1,"action":"alias","reason":"Likely a variant spelling of 'garbux', a known musical style."}
+{"style":"balkanisme","canonical_style":"balkanisme","totalCount":1,"action":"keep","reason":"This is a valid and specific musical style, and its presence in the example tags supports its inclusion."}
+{"style":"ecm","canonical_style":"electronic music","totalCount":1,"action":"alias","reason":"Abbreviation for 'electronic music', should map to full canonical name."}
+{"style":"liebe","canonical_style":"love","totalCount":1,"action":"alias","reason":"German word for 'love', should map to the standard English canonical name."}
+{"style":"minimalist","canonical_style":"minimalist","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"orgel","canonical_style":"organ","totalCount":1,"action":"alias","reason":"Misspelled form of 'organ', a known musical style."}
+{"style":"farofa","canonical_style":"farofa","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
+{"style":"robot-disco","canonical_style":"robot disco","totalCount":1,"action":"keep","reason":"Already a valid style term, with spacing normalization."}
+{"style":"skulduggery","canonical_style":"skulduggery","totalCount":1,"action":"keep","reason":"Unique style name, likely referring to a specific musical style or artist, so it should be kept as is."}
+{"style":"kayoukyoku","canonical_style":"enka","totalCount":1,"action":"alias","reason":"‘kayoukyoku’ is a Japanese term for Enka, a specific genre of traditional Japanese music."}
+{"style":"soulriddim","canonical_style":"soul riddim","totalCount":1,"action":"alias","reason":"Spacing variation, should map to standard form."}
+{"style":"rootsriddim","canonical_style":"roots riddim","totalCount":1,"action":"keep","reason":"Already a valid musical style term, minor formatting adjustment is sufficient."}
+{"style":"go go","canonical_style":"go-go","totalCount":1,"action":"alias","reason":"Misspelled form of 'go-go', a known musical style."}
+{"style":"afro","canonical_style":"afrobeat","totalCount":1,"action":"alias","reason":"A more specific and common musical style related to 'afro', mapping to 'afrobeat'."}
+{"style":"cybergrind","canonical_style":"cybergrind","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"vocal jazz","canonical_style":"vocal jazz","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"phonk","canonical_style":"phonk","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"baggy","canonical_style":"baggy","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"acordes","canonical_style":"acordes","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"countrypolitan","canonical_style":"countrypolitan","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"bells","canonical_style":"bells","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
