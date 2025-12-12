@@ -115,7 +115,6 @@
 {"style":"free jazz","totalCount":22,"is_subgenre":true,"parent_genre":"jazz","reason":"Free jazz is a recognized subgenre of jazz music."}
 {"style":"band","totalCount":22,"is_subgenre":true,"parent_genre":"folk","reason":"Band is a subgenre of folk music, characterized by ensemble playing."}
 {"style":"music","totalCount":22,"is_subgenre":false,"parent_genre":"","reason":"Music is a broad primary genre and not a subgenre."}
-{"style":"neoclassical dark wave","totalCount":21,"is_subgenre":true,"parent_genre":"dark wave","reason":"Neoclassical dark wave is a recognized subgenre of dark wave music."}
 {"style":"bluegrass","totalCount":21,"is_subgenre":false,"parent_genre":"","reason":"Bluegrass is a fundamental genre and not a subgenre."}
 {"style":"afrobeat","totalCount":21,"is_subgenre":true,"parent_genre":"hip hop","reason":"Afrobeat is a subgenre of hip hop characterized by its rhythmic complexity and use of traditional African instruments."}
 {"style":"math rock","totalCount":20,"is_subgenre":true,"parent_genre":"rock","reason":"Math rock is a recognized subgenre of rock characterized by complex rhythmic structures."}
@@ -256,7 +255,6 @@
 {"style":"sitar","totalCount":3,"is_subgenre":false,"parent_genre":"","reason":"Sitar is a distinct musical instrument and style, representing a primary genre of music."}
 {"style":"coldwave","totalCount":3,"is_subgenre":true,"parent_genre":"synthpop","reason":"Coldwave is a subgenre of synthpop characterized by its dark and atmospheric sound."}
 {"style":"boogaloo","totalCount":3,"is_subgenre":true,"parent_genre":"funk","reason":"Boogaloo is a recognized subgenre of funk music."}
-{"style":"neoclassical dark wave","totalCount":21,"is_subgenre":true,"parent_genre":"dark wave","reason":"Neoclassical dark wave is a recognized subgenre of dark wave music."}
 {"style":"mariachi","totalCount":3,"is_subgenre":false,"parent_genre":"","reason":"Mariachi is a well-known genre of Mexican music."}
 {"style":"nu-skool","totalCount":3,"is_subgenre":true,"parent_genre":"house","reason":"Nu-skool is a recognized subgenre of house music."}
 {"style":"hardbass","totalCount":3,"is_subgenre":true,"parent_genre":"electronic","reason":"Hardbass is a recognized subgenre of electronic music characterized by its heavy bass frequencies."}
@@ -483,7 +481,6 @@
 {"style":"superpop","totalCount":1,"is_subgenre":true,"parent_genre":"pop","reason":"Superpop is a recognized subgenre of pop music."}
 {"style":"electrotango","totalCount":1,"is_subgenre":true,"parent_genre":"tango","reason":"Electrotango is a recognized subgenre of Tango music."}
 {"style":"liquid funk","totalCount":1,"is_subgenre":true,"parent_genre":"funk","reason":"Liquid funk is a recognized subgenre of funk music."}
-{"style":"neo-classical","totalCount":1,"is_subgenre":true,"parent_genre":"classical","reason":"Neo-classical music is a recognized subgenre of classical music."}
 {"style":"bagpipes","totalCount":1,"is_subgenre":false,"parent_genre":"","reason":"Bagpipes is a foundational musical instrument and therefore a genre."}
 {"style":"grind","totalCount":1,"is_subgenre":true,"parent_genre":"electronic","reason":"‘Grind’ is a recognizable subgenre of electronic music."}
 {"style":"scrubs","totalCount":1,"is_subgenre":true,"parent_genre":"hip hop","reason":"‘Scrub’ is a term commonly used within the hip hop genre."}
@@ -546,3 +543,5 @@
 {"style":"acordes","totalCount":1,"is_subgenre":true,"parent_genre":"classical","reason":"‘Acordes’ refers to musical chords, a fundamental element of classical music."}
 {"style":"countrypolitan","totalCount":1,"is_subgenre":true,"parent_genre":"country","reason":"Countrypolitan is a recognized subgenre of country music."}
 {"style":"bells","totalCount":1,"is_subgenre":true,"parent_genre":"classical","reason":"Bells are commonly used in classical music and are a subgenre of classical music."}
+{"style":"neo-classical","totalCount":1,"is_subgenre":true,"parent_genre":"classical","reason":"Neo-classical music is a recognized subgenre of classical music."}
+{"style":"ndw","totalCount":21,"is_subgenre":true,"parent_genre":"dark wave","reason":"Neoclassical dark wave is a recognized subgenre of dark wave."}

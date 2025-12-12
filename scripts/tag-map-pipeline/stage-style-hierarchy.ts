@@ -221,7 +221,7 @@ async function analyzeStyleHierarchy(
   }
 
   const entry: StyleHierarchyEntry = {
-    style: String(parsed.style ?? style.canonical_style),
+    style: style.canonical_style,
     totalCount: style.totalCount,
     is_subgenre: Boolean(parsed.is_subgenre),
     parent_genre: String(parsed.parent_genre ?? ""),
