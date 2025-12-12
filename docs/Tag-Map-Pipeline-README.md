@@ -176,7 +176,7 @@ Extracts all style-like parts from Stage 4 output and aggregates:
 
 Script:
 ```bash
-pnpm tsx scripts/tag-map-pipeline/stage-style-mapping.ts harvest
+pnpm tsx scripts/tag-map-pipeline/stage-style-normalize.ts harvest
 ```
 
 Output:
@@ -196,7 +196,7 @@ Example:
 
 Script:
 ```bash
-pnpm tsx scripts/tag-map-pipeline/stage-style-mapping.ts canonicalize
+pnpm tsx scripts/tag-map-pipeline/stage-style-normalize.ts canonicalize
 ```
 
 Output:

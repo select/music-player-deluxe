@@ -356,9 +356,9 @@ export async function runStyleCanonicalizationStage(
 // ============================================================
 //
 // Usage:
-//   pnpm tsx scripts/stage-style-mapping.ts harvest
-//   pnpm tsx scripts/stage-style-mapping.ts canonicalize
-//   pnpm tsx scripts/stage-style-mapping.ts all
+//   pnpm tsx scripts/stage-style-normalize.ts harvest
+//   pnpm tsx scripts/stage-style-normalize.ts canonicalize
+//   pnpm tsx scripts/stage-style-normalize.ts all
 //
 
 async function main() {
@@ -375,7 +375,7 @@ async function main() {
       await runStyleCanonicalizationStage();
     }
   } catch (err) {
-    console.error("❌ Error in style-mapping stage:", err);
+    console.error("❌ Error in style-normalize stage:", err);
     process.exit(1);
   }
 }

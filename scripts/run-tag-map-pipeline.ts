@@ -15,12 +15,12 @@ const stages = [
   {
     id: 1,
     name: "Stage 1 – Collect raw tags",
-    script: "scripts/tag-map-pipeline/stage-tag-collect.ts",
+    script: "scripts/tag-map-pipeline/stage-collect-tags.ts",
   },
   {
     id: 2,
     name: "Stage 2 – Normalize tags",
-    script: "scripts/tag-map-pipeline/stage-tag-normalize.ts",
+    script: "scripts/tag-map-pipeline/stage-normalize-tags.ts",
   },
   {
     id: 3,
@@ -34,26 +34,21 @@ const stages = [
   },
   {
     id: 5,
-    name: "Stage 5A – Style harvest",
-    script: "scripts/tag-map-pipeline/stage-style-harvest.ts",
+    name: "Stage 5A/B – Style harvest / Style canonicalization (LLM)",
+    script: "scripts/tag-map-pipeline/stage-style-normalize.ts",
   },
   {
     id: 6,
-    name: "Stage 5B – Style canonicalization (LLM)",
-    script: "scripts/tag-map-pipeline/stage-style-canonical.ts",
-  },
-  {
-    id: 7,
     name: "Stage 5C – Style hierarchy (LLM)",
     script: "scripts/tag-map-pipeline/stage-style-hierarchy.ts",
   },
   {
-    id: 8,
+    id: 7,
     name: "Stage 5D – Final taxonomy + tag→style mapping",
     script: "scripts/tag-map-pipeline/stage-style-finalize.ts",
   },
   {
-    id: 9,
+    id: 8,
     name: "Stage 6 – Final mapping (app-ready)",
     script: "scripts/tag-map-pipeline/stage-finalize-mapping.ts",
   },
