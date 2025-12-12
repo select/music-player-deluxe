@@ -35,16 +35,16 @@ analysis
 # ---------------------------
 # TAG MAP PIPELINE
 # ---------------------------
-data/tag-map-pipeline/tag-raw.jsonl
+data/tag-map-pipeline/tag-source-raw.jsonl
 data/tag-map-pipeline/tag-normalized.jsonl
 data/tag-map-pipeline/tag-auto-blacklist-candidates.jsonl
 data/tag-map-pipeline/tag-compound-postprocessed.jsonl
 data/tag-map-pipeline/style-raw-summary.jsonl
 
 # Uncomment if you want to ignore them:
-# data/tag-map-pipeline/style-taxonomy.jsonl
-# data/tag-map-pipeline/genre-summary.json
-# data/tag-map-pipeline/tag-style-map.jsonl
+data/tag-map-pipeline/style-taxonomy.jsonl
+data/tag-map-pipeline/genre-summary.json
+data/tag-map-pipeline/tag-style-map.jsonl
 
 # keep LLM results and override files
 !data/tag-map-pipeline/*override*.jsonl
