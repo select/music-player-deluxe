@@ -1,0 +1,4768 @@
+{
+  "updated_at": "2025-12-12T00:01:43.433Z",
+  "mappings": {
+    "rock": [
+      "rock"
+    ],
+    "electronic": [
+      "electronic"
+    ],
+    "alternative rock": [
+      "alternative rock",
+      "rock"
+    ],
+    "pop": [
+      "pop"
+    ],
+    "jazz": [
+      "jazz"
+    ],
+    "indie rock": [
+      "rock"
+    ],
+    "hard rock": [
+      "rock"
+    ],
+    "pop rock": [
+      "pop",
+      "rock"
+    ],
+    "hip hop": [
+      "hip hop"
+    ],
+    "classic rock": [
+      "rock"
+    ],
+    "alternative": [
+      "alternative rock",
+      "rock"
+    ],
+    "folk": [
+      "folk"
+    ],
+    "metal": [
+      "metal"
+    ],
+    "singer-songwriter": [
+      "singer-songwriter"
+    ],
+    "soul": [
+      "soul"
+    ],
+    "funk": [
+      "funk"
+    ],
+    "indie": [
+      "indie",
+      "rock"
+    ],
+    "experimental": [
+      "experimental"
+    ],
+    "drum and bass": [
+      "drum & bass",
+      "electronic"
+    ],
+    "progressive rock": [
+      "progressive rock",
+      "rock"
+    ],
+    "ambient": [
+      "ambient",
+      "electronic"
+    ],
+    "blues": [
+      "blues"
+    ],
+    "blues rock": [
+      "blues",
+      "rock"
+    ],
+    "dance": [
+      "dance",
+      "electronic"
+    ],
+    "punk": [
+      "punk"
+    ],
+    "electronica": [
+      "electronica"
+    ],
+    "techno": [
+      "techno"
+    ],
+    "new wave": [
+      "new wave",
+      "pop"
+    ],
+    "psychedelic rock": [
+      "psychedelic rock",
+      "rock"
+    ],
+    "reggae": [
+      "reggae"
+    ],
+    "downtempo": [
+      "downtempo",
+      "electronic"
+    ],
+    "house": [
+      "house"
+    ],
+    "indie pop": [
+      "indie",
+      "pop",
+      "rock"
+    ],
+    "heavy metal": [
+      "heavy metal",
+      "metal"
+    ],
+    "alternative metal": [
+      "alternative rock",
+      "metal",
+      "rock"
+    ],
+    "hip-hop": [
+      "hip hop"
+    ],
+    "rap": [
+      "rap"
+    ],
+    "dubstep": [
+      "dubstep",
+      "electronic"
+    ],
+    "folk rock": [
+      "folk",
+      "rock"
+    ],
+    "art rock": [
+      "rock"
+    ],
+    "punk rock": [
+      "punk",
+      "rock"
+    ],
+    "dub": [
+      "dub",
+      "electronic"
+    ],
+    "jazz fusion": [
+      "jazz",
+      "fusion"
+    ],
+    "electro": [
+      "electro",
+      "house"
+    ],
+    "art pop": [
+      "pop"
+    ],
+    "psychedelic": [
+      "psychedelic",
+      "pop"
+    ],
+    "disco": [
+      "disco",
+      "house"
+    ],
+    "chillout": [
+      "chillout",
+      "electronic"
+    ],
+    "post-punk": [
+      "post-punk",
+      "punk"
+    ],
+    "classical": [
+      "classical"
+    ],
+    "post-grunge": [
+      "post-grunge",
+      "grunge"
+    ],
+    "trip hop": [
+      "trip hop",
+      "electronic"
+    ],
+    "progressive metal": [
+      "progressive metal",
+      "metal"
+    ],
+    "idm": [
+      "intelligent dance music",
+      "house"
+    ],
+    "synth-pop": [
+      "synth pop",
+      "pop"
+    ],
+    "grunge": [
+      "grunge",
+      "rock"
+    ],
+    "garage rock": [
+      "garage",
+      "rock",
+      "house"
+    ],
+    "electropop": [
+      "electropop",
+      "pop"
+    ],
+    "r&b": [
+      "r&b"
+    ],
+    "country": [
+      "country"
+    ],
+    "stoner rock": [
+      "stoner rock",
+      "rock",
+      "metal"
+    ],
+    "acoustic rock": [
+      "rock"
+    ],
+    "soft rock": [
+      "rock"
+    ],
+    "nu metal": [
+      "metal"
+    ],
+    "contemporary r&b": [
+      "r&b"
+    ],
+    "power pop": [
+      "power pop",
+      "pop"
+    ],
+    "neo-psychedelia": [
+      "neo-psychedelia",
+      "psychedelia"
+    ],
+    "breakbeat": [
+      "breakbeat",
+      "electronic"
+    ],
+    "experimental rock": [
+      "rock"
+    ],
+    "dance-pop": [
+      "dance-pop",
+      "pop"
+    ],
+    "indietronica": [
+      "indietronica",
+      "electronic"
+    ],
+    "pop punk": [
+      "pop",
+      "punk"
+    ],
+    "acoustic": [
+      "acoustic"
+    ],
+    "dream pop": [
+      "dream pop",
+      "pop"
+    ],
+    "industrial": [
+      "industrial",
+      "electronic"
+    ],
+    "dancehall": [
+      "dancehall",
+      "reggae"
+    ],
+    "americana": [
+      "americana"
+    ],
+    "pop soul": [
+      "pop",
+      "soul"
+    ],
+    "indie folk": [
+      "indie",
+      "folk",
+      "rock"
+    ],
+    "minimal": [
+      "minimal",
+      "house"
+    ],
+    "jungle": [
+      "jungle",
+      "house"
+    ],
+    "latin": [
+      "latin"
+    ],
+    "emo": [
+      "emo",
+      "pop"
+    ],
+    "ska": [
+      "ska",
+      "reggae"
+    ],
+    "avant-garde": [
+      "avant-garde",
+      "electronic"
+    ],
+    "rock and roll": [
+      "rock",
+      "rock and roll"
+    ],
+    "alternative dance": [
+      "dance",
+      "electronic"
+    ],
+    "pop rap": [
+      "pop",
+      "rap"
+    ],
+    "edm": [
+      "electronic dance music",
+      "electronic"
+    ],
+    "psychedelic pop": [
+      "psychedelic",
+      "pop"
+    ],
+    "post-rock": [
+      "post-rock",
+      "rock"
+    ],
+    "neue deutsche welle": [
+      "new wave",
+      "pop"
+    ],
+    "swing": [
+      "swing",
+      "electronic"
+    ],
+    "big beat": [
+      "big beat",
+      "electronic"
+    ],
+    "synthpop": [
+      "synth pop",
+      "pop"
+    ],
+    "trap": [
+      "trap",
+      "hip hop"
+    ],
+    "thrash metal": [
+      "thrash metal",
+      "metal"
+    ],
+    "dnb": [
+      "drum and bass",
+      "electronic"
+    ],
+    "acid jazz": [
+      "acid jazz",
+      "jazz"
+    ],
+    "deep house": [
+      "deep house",
+      "house"
+    ],
+    "electro house": [
+      "electro",
+      "house"
+    ],
+    "liedermacher": [
+      "liedermacher",
+      "folk"
+    ],
+    "tech house": [
+      "house"
+    ],
+    "trip-hop": [
+      "trip-hop",
+      "hip hop"
+    ],
+    "glam rock": [
+      "glam rock",
+      "rock"
+    ],
+    "industrial metal": [
+      "metal"
+    ],
+    "post-hardcore": [
+      "post-hardcore",
+      "metal"
+    ],
+    "noise rock": [
+      "rock"
+    ],
+    "trance": [
+      "trance",
+      "electronic"
+    ],
+    "alternative pop": [
+      "alternative rock",
+      "pop",
+      "rock"
+    ],
+    "britpop": [
+      "britpop",
+      "pop"
+    ],
+    "new age": [
+      "new age",
+      "ambient"
+    ],
+    "east coast hip hop": [
+      "hip hop"
+    ],
+    "progressive house": [
+      "progressive house",
+      "house"
+    ],
+    "lounge": [
+      "lounge",
+      "electronic"
+    ],
+    "jazz-funk": [
+      "jazz",
+      "funk"
+    ],
+    "krautrock": [
+      "krautrock",
+      "electronic"
+    ],
+    "contemporary jazz": [
+      "jazz"
+    ],
+    "hard bop": [
+      "hard bop",
+      "jazz"
+    ],
+    "aor": [
+      "adult oriented rock",
+      "rock"
+    ],
+    "soul jazz": [
+      "soul",
+      "jazz"
+    ],
+    "roots reggae": [
+      "reggae"
+    ],
+    "alternative hip hop": [
+      "hip hop"
+    ],
+    "fusion": [
+      "fusion",
+      "jazz"
+    ],
+    "neurofunk": [
+      "neurofunk",
+      "electronic"
+    ],
+    "southern rock": [
+      "rock"
+    ],
+    "nu jazz": [
+      "jazz"
+    ],
+    "progressive": [
+      "progressive rock",
+      "rock"
+    ],
+    "shoegaze": [
+      "shoegaze",
+      "rock"
+    ],
+    "minimal techno": [
+      "techno"
+    ],
+    "chamber pop": [
+      "pop"
+    ],
+    "post-bop": [
+      "post-bop",
+      "jazz"
+    ],
+    "oldies": [
+      "oldies",
+      "pop"
+    ],
+    "rnb": [
+      "r&b"
+    ],
+    "power metal": [
+      "power metal",
+      "metal"
+    ],
+    "electroclash": [
+      "electroclash",
+      "electronic"
+    ],
+    "gangsta rap": [
+      "gangsta rap",
+      "rap",
+      "hip hop"
+    ],
+    "uk garage": [
+      "garage",
+      "house"
+    ],
+    "rap rock": [
+      "rap",
+      "rock"
+    ],
+    "death metal": [
+      "death metal",
+      "metal"
+    ],
+    "contemporary folk": [
+      "folk"
+    ],
+    "metalcore": [
+      "metal",
+      "core"
+    ],
+    "ballad": [
+      "ballad",
+      "pop"
+    ],
+    "easy listening": [
+      "easy listening"
+    ],
+    "ambient techno": [
+      "ambient",
+      "techno",
+      "electronic"
+    ],
+    "funk rock": [
+      "funk",
+      "rock"
+    ],
+    "vocal jazz": [
+      "jazz"
+    ],
+    "avant-garde jazz": [
+      "jazz"
+    ],
+    "baroque pop": [
+      "pop"
+    ],
+    "mainstream rock": [
+      "rock"
+    ],
+    "grime": [
+      "grime",
+      "hip hop"
+    ],
+    "industrial rock": [
+      "rock"
+    ],
+    "symphonic rock": [
+      "rock"
+    ],
+    "gospel": [
+      "gospel"
+    ],
+    "folk pop": [
+      "folk",
+      "pop"
+    ],
+    "hardcore punk": [
+      "hardcore",
+      "techno"
+    ],
+    "big band": [
+      "big band"
+    ],
+    "garage rock revival": [
+      "garage rock",
+      "rock"
+    ],
+    "electric blues": [
+      "blues"
+    ],
+    "desert rock": [
+      "rock"
+    ],
+    "contemporary classical": [
+      "classical"
+    ],
+    "psychedelic soul": [
+      "psychedelic",
+      "soul",
+      "pop"
+    ],
+    "space rock": [
+      "rock"
+    ],
+    "conscious hip hop": [
+      "hip hop"
+    ],
+    "post-punk revival": [
+      "post-punk",
+      "punk"
+    ],
+    "breaks": [
+      "breaks",
+      "techno"
+    ],
+    "progressive pop": [
+      "progressive rock",
+      "pop",
+      "rock"
+    ],
+    "rave": [
+      "rave",
+      "house"
+    ],
+    "acid rock": [
+      "rock"
+    ],
+    "boom bap": [
+      "boom bap",
+      "hip hop"
+    ],
+    "hardcore hip hop": [
+      "hip hop"
+    ],
+    "motown": [
+      "motown",
+      "soul"
+    ],
+    "crossover prog": [
+      "progressive rock",
+      "rock"
+    ],
+    "rap metal": [
+      "rap",
+      "metal"
+    ],
+    "jazz rock": [
+      "jazz",
+      "rock"
+    ],
+    "liquid funk": [
+      "funk"
+    ],
+    "free jazz": [
+      "free jazz",
+      "jazz"
+    ],
+    "country rock": [
+      "rock"
+    ],
+    "modern classical": [
+      "classical"
+    ],
+    "schlager": [
+      "schlager"
+    ],
+    "funk metal": [
+      "funk",
+      "metal"
+    ],
+    "folk metal": [
+      "folk",
+      "metal"
+    ],
+    "symphonic metal": [
+      "symphonic metal",
+      "metal"
+    ],
+    "jazz pop": [
+      "jazz",
+      "pop"
+    ],
+    "ndw": [
+      "ndw"
+    ],
+    "math rock": [
+      "math rock",
+      "rock"
+    ],
+    "ambient pop": [
+      "ambient",
+      "pop",
+      "electronic"
+    ],
+    "deutschrap": [
+      "rap"
+    ],
+    "sophisti-pop": [
+      "sophisti-pop",
+      "pop"
+    ],
+    "gothic": [
+      "gothic",
+      "rock"
+    ],
+    "experimental hip hop": [
+      "hip hop"
+    ],
+    "arena rock": [
+      "rock"
+    ],
+    "boogie rock": [
+      "boogie rock",
+      "rock"
+    ],
+    "speed metal": [
+      "metal"
+    ],
+    "synthwave": [
+      "synthwave",
+      "electronic"
+    ],
+    "bluegrass": [
+      "bluegrass"
+    ],
+    "folktronica": [
+      "folktronica",
+      "folk"
+    ],
+    "hardcore": [
+      "hardcore",
+      "techno"
+    ],
+    "comedy rock": [
+      "rock"
+    ],
+    "smooth soul": [
+      "soul"
+    ],
+    "avant-garde pop": [
+      "avant-garde",
+      "pop",
+      "electronic"
+    ],
+    "chanson française": [
+      "chanson",
+      "folk"
+    ],
+    "breakcore": [
+      "breakcore",
+      "electronic"
+    ],
+    "jangle pop": [
+      "pop"
+    ],
+    "rapcore": [
+      "rapcore",
+      "hip hop"
+    ],
+    "gothic rock": [
+      "gothic",
+      "rock"
+    ],
+    "piano rock": [
+      "rock"
+    ],
+    "cool jazz": [
+      "jazz"
+    ],
+    "glam metal": [
+      "glam rock",
+      "metal",
+      "rock"
+    ],
+    "breakbeat hardcore": [
+      "breakbeat",
+      "hardcore",
+      "electronic",
+      "techno"
+    ],
+    "geek rock": [
+      "rock"
+    ],
+    "dark wave": [
+      "wave",
+      "electronic"
+    ],
+    "smooth jazz": [
+      "jazz"
+    ],
+    "dance-punk": [
+      "dance-punk",
+      "punk"
+    ],
+    "orchestral": [
+      "orchestral"
+    ],
+    "psychedelic folk": [
+      "psychedelic",
+      "folk",
+      "pop"
+    ],
+    "jam band": [
+      "band",
+      "folk"
+    ],
+    "baroque": [
+      "baroque"
+    ],
+    "minimal synth": [
+      "synth pop",
+      "pop"
+    ],
+    "melodic death metal": [
+      "death metal",
+      "metal"
+    ],
+    "groove metal": [
+      "groove metal",
+      "metal"
+    ],
+    "instrumental hip hop": [
+      "hip hop"
+    ],
+    "drone": [
+      "drone",
+      "ambient"
+    ],
+    "classic pop and rock": [
+      "pop",
+      "pop and rock"
+    ],
+    "deutschrock": [
+      "deutschrock",
+      "rock"
+    ],
+    "doom metal": [
+      "doom metal",
+      "metal"
+    ],
+    "stoner metal": [
+      "stoner rock",
+      "metal"
+    ],
+    "afrobeat": [
+      "afrobeat",
+      "hip hop"
+    ],
+    "electro swing": [
+      "swing",
+      "electronic"
+    ],
+    "footwork": [
+      "footwork",
+      "techno"
+    ],
+    "avant-garde metal": [
+      "avant-garde",
+      "metal",
+      "electronic"
+    ],
+    "surf": [
+      "surf",
+      "rock"
+    ],
+    "poptron": [
+      "electronic pop",
+      "pop"
+    ],
+    "boogie": [
+      "boogie rock",
+      "rock"
+    ],
+    "rock opera": [
+      "rock",
+      "opera"
+    ],
+    "alt-country": [
+      "alt country",
+      "country"
+    ],
+    "world music": [
+      "music"
+    ],
+    "new rave": [
+      "rave",
+      "house"
+    ],
+    "roots rock": [
+      "rock"
+    ],
+    "dark cabaret": [
+      "cabaret",
+      "music"
+    ],
+    "instrumental rock": [
+      "rock"
+    ],
+    "surf rock": [
+      "surf",
+      "rock"
+    ],
+    "sludge metal": [
+      "sludge metal",
+      "metal"
+    ],
+    "post-britpop": [
+      "post-Britpop",
+      "pop"
+    ],
+    "kabarett": [
+      "cabaret",
+      "music"
+    ],
+    "rockabilly": [
+      "rockabilly",
+      "rock"
+    ],
+    "die wahren perlen deutschsprachiger popmusik": [
+      "popmusik",
+      "pop"
+    ],
+    "alternative country": [
+      "country"
+    ],
+    "proto-punk": [
+      "punk"
+    ],
+    "ska punk": [
+      "ska",
+      "punk",
+      "reggae"
+    ],
+    "chillwave": [
+      "chillwave",
+      "electronic"
+    ],
+    "neo soul": [
+      "soul"
+    ],
+    "celtic": [
+      "celtic"
+    ],
+    "hardcore breaks": [
+      "hardcore",
+      "breaks",
+      "techno"
+    ],
+    "bubblegum pop": [
+      "bubblegum pop",
+      "pop"
+    ],
+    "electropunk": [
+      "electropunk",
+      "punk"
+    ],
+    "rhythm and blues": [
+      "rhythm and blues"
+    ],
+    "neo-progressive rock": [
+      "neo-progressive",
+      "progressive metal"
+    ],
+    "west coast hip hop": [
+      "hip hop"
+    ],
+    "merseybeat": [
+      "merseybeat",
+      "rock"
+    ],
+    "balkan": [
+      "balkan"
+    ],
+    "quiet storm": [
+      "storm",
+      "ambient"
+    ],
+    "nu disco": [
+      "disco",
+      "house"
+    ],
+    "worldbeat": [
+      "worldbeat",
+      "folk"
+    ],
+    "bossa nova": [
+      "bossa nova",
+      "jazz"
+    ],
+    "ethereal wave": [
+      "wave",
+      "electronic"
+    ],
+    "bebop": [
+      "bebop",
+      "jazz"
+    ],
+    "art punk": [
+      "punk"
+    ],
+    "europop": [
+      "europop",
+      "pop"
+    ],
+    "reggae-pop": [
+      "reggae",
+      "pop"
+    ],
+    "synth funk": [
+      "synth funk",
+      "funk"
+    ],
+    "sunshine pop": [
+      "pop"
+    ],
+    "traditional pop": [
+      "pop"
+    ],
+    "christian rock": [
+      "rock"
+    ],
+    "emo pop": [
+      "emo",
+      "pop"
+    ],
+    "garage punk": [
+      "punk"
+    ],
+    "beat poetry": [
+      "beat poetry",
+      "hip hop"
+    ],
+    "ebm": [
+      "electronic body music",
+      "electronic"
+    ],
+    "alternative r&b": [
+      "alternative rock",
+      "r&b",
+      "rock"
+    ],
+    "christmas": [
+      "christmas music"
+    ],
+    "rock and indie": [
+      "rock",
+      "indie"
+    ],
+    "black metal": [
+      "black metal",
+      "metal"
+    ],
+    "dancefloor drum and bass": [
+      "drum & bass",
+      "electronic"
+    ],
+    "pub rock": [
+      "rock"
+    ],
+    "drum n bass": [
+      "drum and bass",
+      "electronic"
+    ],
+    "new romantic": [
+      "romantic",
+      "pop"
+    ],
+    "screamo": [
+      "screamo",
+      "metal"
+    ],
+    "chanson": [
+      "chanson",
+      "folk"
+    ],
+    "reggaeton": [
+      "reggaeton",
+      "hip hop"
+    ],
+    "euro house": [
+      "house"
+    ],
+    "neofolk": [
+      "neofolk",
+      "folk"
+    ],
+    "old school": [
+      "old school"
+    ],
+    "slacker rock": [
+      "rock"
+    ],
+    "blue-eyed soul": [
+      "soul"
+    ],
+    "gothic country": [
+      "country"
+    ],
+    "teen pop": [
+      "pop"
+    ],
+    "crossover thrash": [
+      "thrash metal",
+      "metal"
+    ],
+    "desert blues": [
+      "blues"
+    ],
+    "french house": [
+      "house"
+    ],
+    "post-metal": [
+      "post-metal",
+      "metal"
+    ],
+    "progressive electronic": [
+      "progressive rock",
+      "electronic",
+      "rock"
+    ],
+    "mpb": [
+      "mpb",
+      "folk"
+    ],
+    "melodic hardcore": [
+      "hardcore",
+      "techno"
+    ],
+    "fun metal": [
+      "metal"
+    ],
+    "garage": [
+      "garage",
+      "house"
+    ],
+    "a cappella": [
+      "a cappella"
+    ],
+    "skate punk": [
+      "punk"
+    ],
+    "country pop": [
+      "country",
+      "pop"
+    ],
+    "no wave": [
+      "no wave",
+      "punk"
+    ],
+    "electro-industrial": [
+      "electro",
+      "industrial",
+      "house",
+      "electronic"
+    ],
+    "eurodance": [
+      "eurodance",
+      "house"
+    ],
+    "anatolian rock": [
+      "rock"
+    ],
+    "jazz guitar": [
+      "jazz"
+    ],
+    "rocksteady": [
+      "rocksteady",
+      "reggae"
+    ],
+    "jazz rap": [
+      "jazz",
+      "rap"
+    ],
+    "jazz and blues": [
+      "jazz",
+      "blues"
+    ],
+    "rhythm & blues": [
+      "rhythm & blues"
+    ],
+    "brostep": [
+      "brostep",
+      "electronic"
+    ],
+    "future bass": [
+      "future bass",
+      "electronic"
+    ],
+    "psytrance": [
+      "psytrance",
+      "electronic"
+    ],
+    "dark jazz": [
+      "jazz"
+    ],
+    "classical crossover": [
+      "classical",
+      "crossover"
+    ],
+    "minimal wave": [
+      "minimal wave",
+      "electronic"
+    ],
+    "neue deutsche härte": [
+      "neue deutsche härte",
+      "electronic"
+    ],
+    "doo-wop": [
+      "doo-wop",
+      "pop"
+    ],
+    "heartland rock": [
+      "rock"
+    ],
+    "salsa": [
+      "salsa",
+      "latin"
+    ],
+    "crank wave": [
+      "crankwave",
+      "electronic"
+    ],
+    "deutsche schlager": [
+      "schlager"
+    ],
+    "ragga": [
+      "ragga",
+      "hip hop"
+    ],
+    "african blues": [
+      "blues"
+    ],
+    "gypsy": [
+      "gypsy music",
+      "folk"
+    ],
+    "hip house": [
+      "house"
+    ],
+    "rock n roll": [
+      "rock",
+      "rock and roll"
+    ],
+    "happy hardcore": [
+      "hardcore",
+      "techno"
+    ],
+    "dance and electronica": [
+      "electronica"
+    ],
+    "medieval": [
+      "medieval"
+    ],
+    "flamenco": [
+      "flamenco",
+      "spanish"
+    ],
+    "pop metal": [
+      "pop",
+      "metal"
+    ],
+    "cabaret": [
+      "cabaret",
+      "music"
+    ],
+    "synth pop": [
+      "pop"
+    ],
+    "heavy psych": [
+      "psychedelic",
+      "pop"
+    ],
+    "alt rock": [
+      "rock"
+    ],
+    "neoclassicism": [
+      "neoclassicism"
+    ],
+    "stoner": [
+      "stoner rock",
+      "metal"
+    ],
+    "ambient dub": [
+      "ambient",
+      "dub",
+      "electronic"
+    ],
+    "christian metal": [
+      "metal"
+    ],
+    "juke": [
+      "juke",
+      "blues"
+    ],
+    "tribal": [
+      "tribal",
+      "electronic"
+    ],
+    "soul blues": [
+      "soul",
+      "blues"
+    ],
+    "dirty south": [
+      "southern hip hop",
+      "hip hop"
+    ],
+    "southern hip hop": [
+      "hip hop"
+    ],
+    "electronic rock": [
+      "rock"
+    ],
+    "piano blues": [
+      "blues"
+    ],
+    "progressive folk": [
+      "progressive rock",
+      "folk",
+      "rock"
+    ],
+    "melodic house": [
+      "house"
+    ],
+    "austropop": [
+      "austropop",
+      "pop"
+    ],
+    "world fusion": [
+      "fusion",
+      "jazz"
+    ],
+    "experimental electronic": [
+      "electronic"
+    ],
+    "french electro": [
+      "electro",
+      "house"
+    ],
+    "funktronica": [
+      "funktronica",
+      "funk"
+    ],
+    "latin jazz": [
+      "jazz"
+    ],
+    "complextro": [
+      "complextro",
+      "house"
+    ],
+    "glitch hop": [
+      "hip hop"
+    ],
+    "crossover jazz": [
+      "jazz"
+    ],
+    "technical thrash metal": [
+      "thrash metal",
+      "metal"
+    ],
+    "cinematic classical": [
+      "classical"
+    ],
+    "dark ambient": [
+      "ambient",
+      "electronic"
+    ],
+    "gypsy punk": [
+      "punk"
+    ],
+    "folk punk": [
+      "folk",
+      "punk"
+    ],
+    "mashup": [
+      "mashup",
+      "electronic"
+    ],
+    "hypnagogic pop": [
+      "pop"
+    ],
+    "punk blues": [
+      "punk",
+      "blues"
+    ],
+    "opera": [
+      "opera"
+    ],
+    "technical death metal": [
+      "death metal",
+      "metal"
+    ],
+    "microhouse": [
+      "house"
+    ],
+    "glam": [
+      "glam rock",
+      "rock"
+    ],
+    "dance-rock": [
+      "dance rock",
+      "rock"
+    ],
+    "deep soul": [
+      "soul"
+    ],
+    "musical": [
+      "musical"
+    ],
+    "persian pop": [
+      "pop"
+    ],
+    "symphonic prog": [
+      "symphonic metal",
+      "progressive rock",
+      "metal",
+      "rock"
+    ],
+    "7soul": [
+      "soul"
+    ],
+    "modal jazz": [
+      "jazz"
+    ],
+    "melodic techno": [
+      "techno"
+    ],
+    "underground hip-hop": [
+      "hip hop"
+    ],
+    "ostrock": [
+      "rock"
+    ],
+    "perlen deutschsprachiger popmusik": [
+      "popmusik",
+      "pop"
+    ],
+    "alternative/indie rock": [
+      "indie rock",
+      "rock"
+    ],
+    "darkwave": [
+      "darkwave",
+      "wave"
+    ],
+    "chanson francaise": [
+      "chanson",
+      "folk"
+    ],
+    "acid techno": [
+      "acid house",
+      "techno",
+      "house"
+    ],
+    "post-industrial": [
+      "post-industrial",
+      "electronic"
+    ],
+    "synth": [
+      "synth pop",
+      "pop"
+    ],
+    "progressive trance": [
+      "progressive rock",
+      "trance",
+      "rock",
+      "electronic"
+    ],
+    "outlaw country": [
+      "country"
+    ],
+    "underground hip hop": [
+      "hip hop"
+    ],
+    "latin pop": [
+      "pop"
+    ],
+    "electronicore": [
+      "electronicore",
+      "metal"
+    ],
+    "electro-swing": [
+      "swing",
+      "electronic"
+    ],
+    "j-pop": [
+      "j-pop",
+      "pop"
+    ],
+    "slowcore": [
+      "slowcore",
+      "rock"
+    ],
+    "afrobeats": [
+      "afrobeat",
+      "hip hop"
+    ],
+    "gothic metal": [
+      "metal"
+    ],
+    "vaporwave": [
+      "vaporwave",
+      "electronic"
+    ],
+    "techstep": [
+      "step",
+      "techno"
+    ],
+    "southern soul": [
+      "soul"
+    ],
+    "british rhythm & blues": [
+      "rhythm & blues"
+    ],
+    "deutschpunk": [
+      "punk"
+    ],
+    "irish": [
+      "irish"
+    ],
+    "instrumental hip-hop": [
+      "hip hop"
+    ],
+    "adult contemporary": [
+      "adult contemporary"
+    ],
+    "choral": [
+      "choral"
+    ],
+    "chicago blues": [
+      "blues"
+    ],
+    "space age pop": [
+      "pop"
+    ],
+    "christian": [
+      "christian"
+    ],
+    "fun-punk": [
+      "punk"
+    ],
+    "2 tone": [
+      "2 tone",
+      "pop"
+    ],
+    "sludge": [
+      "sludge",
+      "metal"
+    ],
+    "minimalism": [
+      "minimalism"
+    ],
+    "drumstep": [
+      "drum and bass",
+      "electronic"
+    ],
+    "reggae rock": [
+      "reggae",
+      "rock"
+    ],
+    "mod": [
+      "mod",
+      "pop"
+    ],
+    "post-dubstep": [
+      "post-dubstep",
+      "dubstep"
+    ],
+    "free improvisation": [
+      "improvisation",
+      "jazz"
+    ],
+    "alternative rnb": [
+      "alternative rock",
+      "r&b",
+      "rock"
+    ],
+    "classic": [
+      "classic rock",
+      "rock"
+    ],
+    "darkstep": [
+      "step",
+      "techno"
+    ],
+    "emocore": [
+      "emocore",
+      "rock"
+    ],
+    "trancecore": [
+      "trance",
+      "electronic"
+    ],
+    "texas blues": [
+      "blues"
+    ],
+    "uk hip hop": [
+      "hip hop"
+    ],
+    "industrial hip hop": [
+      "hip hop"
+    ],
+    "concerto": [
+      "concerto"
+    ],
+    "jazz-rock": [
+      "jazz",
+      "rock"
+    ],
+    "j-rock": [
+      "j-rock",
+      "rock"
+    ],
+    "microfunk": [
+      "microfunk",
+      "funk"
+    ],
+    "rock & roll": [
+      "rock"
+    ],
+    "progressive death metal": [
+      "progressive rock",
+      "death metal",
+      "rock",
+      "metal"
+    ],
+    "neoclassical metal": [
+      "neoclassical",
+      "metal",
+      "classical"
+    ],
+    "tropical house": [
+      "house"
+    ],
+    "acid house": [
+      "house"
+    ],
+    "k-pop": [
+      "k-pop"
+    ],
+    "calypso": [
+      "calypso"
+    ],
+    "neo-soul": [
+      "neo-soul",
+      "soul"
+    ],
+    "néo-trad": [
+      "new traditionalism",
+      "folk"
+    ],
+    "soukous": [
+      "soukous",
+      "rumba"
+    ],
+    "doo wop": [
+      "doo wop",
+      "pop"
+    ],
+    "noise pop": [
+      "pop"
+    ],
+    "german hiphop": [
+      "hip hop"
+    ],
+    "highlife": [
+      "highlife"
+    ],
+    "deep techno": [
+      "techno"
+    ],
+    "darksynth": [
+      "darksynth",
+      "electronic"
+    ],
+    "country gospel": [
+      "country",
+      "gospel"
+    ],
+    "math pop": [
+      "pop"
+    ],
+    "brass band": [
+      "band",
+      "folk"
+    ],
+    "cumbia": [
+      "cumbia",
+      "latin"
+    ],
+    "bass house": [
+      "house"
+    ],
+    "nu-jazz": [
+      "jazz"
+    ],
+    "melodic metalcore": [
+      "metalcore",
+      "metal"
+    ],
+    "bleep techno": [
+      "techno"
+    ],
+    "drill and bass": [
+      "drill and bass",
+      "drum and bass",
+      "hip hop",
+      "electronic"
+    ],
+    "classic country": [
+      "country"
+    ],
+    "fidget house": [
+      "house"
+    ],
+    "delta blues": [
+      "blues"
+    ],
+    "freak folk": [
+      "folk"
+    ],
+    "miami bass": [
+      "bass",
+      "electronic"
+    ],
+    "chamber folk": [
+      "folk"
+    ],
+    "gypsy jazz": [
+      "jazz"
+    ],
+    "new jack swing": [
+      "new jack swing",
+      "hip hop"
+    ],
+    "anti-folk": [
+      "anti-folk",
+      "folk"
+    ],
+    "electric texas blues": [
+      "blues"
+    ],
+    "jazz funk": [
+      "jazz",
+      "funk"
+    ],
+    "glitch pop": [
+      "pop"
+    ],
+    "glam punk": [
+      "punk"
+    ],
+    "alt-pop": [
+      "alternative pop",
+      "pop"
+    ],
+    "hiphop": [
+      "hip hop"
+    ],
+    "musical comedy": [
+      "comedy",
+      "music"
+    ],
+    "uk street soul": [
+      "street soul",
+      "soul"
+    ],
+    "italo disco": [
+      "italo disco",
+      "disco",
+      "house"
+    ],
+    "italo-disco": [
+      "italo disco",
+      "disco",
+      "house"
+    ],
+    "mid-school hip hop": [
+      "hip hop"
+    ],
+    "new york hardcore": [
+      "hardcore",
+      "techno"
+    ],
+    "minimal drum and bass": [
+      "drum & bass",
+      "electronic"
+    ],
+    "dark electro": [
+      "electro",
+      "house"
+    ],
+    "deep tech": [
+      "techno"
+    ],
+    "celtic rock": [
+      "rock"
+    ],
+    "contemporary gospel": [
+      "gospel"
+    ],
+    "yacht rock": [
+      "yacht rock",
+      "pop"
+    ],
+    "ragga jungle": [
+      "ragga",
+      "jungle",
+      "hip hop",
+      "house"
+    ],
+    "future garage": [
+      "garage",
+      "house"
+    ],
+    "ambient house": [
+      "ambient",
+      "house",
+      "electronic"
+    ],
+    "madchester": [
+      "madchester",
+      "rock"
+    ],
+    "hard trance": [
+      "trance",
+      "electronic"
+    ],
+    "contemporary pop/rock": [
+      "pop rock",
+      "pop"
+    ],
+    "third wave ska": [
+      "ska",
+      "reggae"
+    ],
+    "banjo": [
+      "banjo"
+    ],
+    "reggae-rock": [
+      "reggae",
+      "rock"
+    ],
+    "california reggae": [
+      "reggae"
+    ],
+    "british folk rock": [
+      "folk"
+    ],
+    "2-step": [
+      "2-step",
+      "techno"
+    ],
+    "southern metal": [
+      "metal"
+    ],
+    "electro-disco": [
+      "electro",
+      "disco",
+      "house"
+    ],
+    "neoclassical new age": [
+      "neoclassical",
+      "new age",
+      "classical",
+      "ambient"
+    ],
+    "east coast rap": [
+      "rap"
+    ],
+    "golden age hip hop": [
+      "hip hop"
+    ],
+    "retrowave": [
+      "retrowave",
+      "synthpop"
+    ],
+    "beat music": [
+      "music"
+    ],
+    "death-doom metal": [
+      "death doom",
+      "metal"
+    ],
+    "doom": [
+      "doom",
+      "metal"
+    ],
+    "marching band": [
+      "band",
+      "folk"
+    ],
+    "pop/rock": [
+      "pop",
+      "rock"
+    ],
+    "singer/songwriter": [
+      "singer/songwriter"
+    ],
+    "downbeat": [
+      "downbeat",
+      "jazz"
+    ],
+    "g-funk": [
+      "g funk",
+      "hip hop"
+    ],
+    "roots": [
+      "roots"
+    ],
+    "crunk": [
+      "crunk",
+      "hip hop"
+    ],
+    "progressive jazz": [
+      "progressive rock",
+      "jazz",
+      "rock"
+    ],
+    "psybient": [
+      "psybient",
+      "ambient"
+    ],
+    "sitar": [
+      "sitar"
+    ],
+    "indie dance": [
+      "dance",
+      "electronic"
+    ],
+    "coldwave": [
+      "coldwave",
+      "synthpop"
+    ],
+    "post rock": [
+      "rock"
+    ],
+    "hard & heavy": [
+      "heavy metal",
+      "metal"
+    ],
+    "pagan folk": [
+      "folk"
+    ],
+    "afro-cuban jazz": [
+      "jazz"
+    ],
+    "boogaloo": [
+      "boogaloo",
+      "funk"
+    ],
+    "british blues": [
+      "blues"
+    ],
+    "rock music": [
+      "rock"
+    ],
+    "mariachi": [
+      "mariachi"
+    ],
+    "tech trance": [
+      "trance",
+      "electronic"
+    ],
+    "nu skool breaks": [
+      "nu-skool",
+      "breaks",
+      "house",
+      "techno"
+    ],
+    "brutal death metal": [
+      "death metal",
+      "metal"
+    ],
+    "hardbass": [
+      "hardbass",
+      "electronic"
+    ],
+    "traditional country": [
+      "country"
+    ],
+    "electro dub": [
+      "electro",
+      "dub",
+      "house",
+      "electronic"
+    ],
+    "alternative punk": [
+      "alternative rock",
+      "punk",
+      "rock"
+    ],
+    "new beat": [
+      "beat music",
+      "electronic"
+    ],
+    "plunderphonics": [
+      "plunderphonics",
+      "experimental hip hop"
+    ],
+    "hauntology": [
+      "hauntology",
+      "electronic"
+    ],
+    "jazz blues": [
+      "jazz",
+      "blues"
+    ],
+    "deep dubstep": [
+      "dubstep",
+      "electronic"
+    ],
+    "klezmer": [
+      "klezmer"
+    ],
+    "jungle terror": [
+      "jungle",
+      "house"
+    ],
+    "moombahton": [
+      "mumbahton",
+      "house"
+    ],
+    "neoclassical dark wave": [
+      "neoclassical",
+      "dark wave",
+      "classical",
+      "wave"
+    ],
+    "chillstep": [
+      "chillstep",
+      "electronic"
+    ],
+    "swing-hop": [
+      "swing",
+      "hip hop",
+      "electronic"
+    ],
+    "country blues": [
+      "blues"
+    ],
+    "deep drum and bass": [
+      "drum & bass",
+      "electronic"
+    ],
+    "neue deutsche harte": [
+      "hardcore",
+      "techno"
+    ],
+    "score": [
+      "score",
+      "electronic"
+    ],
+    "nerdcore": [
+      "nerdcore",
+      "hip hop"
+    ],
+    "beatbox": [
+      "beatbox",
+      "hip hop"
+    ],
+    "tango": [
+      "tango"
+    ],
+    "german hip hop": [
+      "hip hop"
+    ],
+    "traditional": [
+      "traditional"
+    ],
+    "french pop": [
+      "pop"
+    ],
+    "bedroom pop": [
+      "pop"
+    ],
+    "beatboxing": [
+      "beatboxing",
+      "hip hop"
+    ],
+    "hip-hop for people who do not like hip-hop": [
+      "hip hop"
+    ],
+    "freakbeat": [
+      "freakbeat",
+      "rock"
+    ],
+    "acid": [
+      "acid house",
+      "house"
+    ],
+    "chanson à texte": [
+      "chanson à texte",
+      "folk"
+    ],
+    "american trad rock": [
+      "traditional rock",
+      "rock"
+    ],
+    "rb": [
+      "r&b"
+    ],
+    "a capella": [
+      "a cappella"
+    ],
+    "latin rock": [
+      "rock"
+    ],
+    "space ambient": [
+      "ambient",
+      "electronic"
+    ],
+    "j-urban": [
+      "j-urban",
+      "hip hop"
+    ],
+    "spiritual jazz": [
+      "jazz"
+    ],
+    "war metal": [
+      "war metal",
+      "metal"
+    ],
+    "anarcho-punk": [
+      "punk"
+    ],
+    "future house": [
+      "house"
+    ],
+    "avant-prog": [
+      "avant-garde",
+      "electronic"
+    ],
+    "musique concrète": [
+      "musique concrète",
+      "electronic"
+    ],
+    "chillsynth": [
+      "chillsynth",
+      "electronic"
+    ],
+    "metro downtempo": [
+      "downtempo",
+      "electronic"
+    ],
+    "festival progressive house": [
+      "progressive house",
+      "house"
+    ],
+    "avantgarde pop": [
+      "avant-garde",
+      "pop",
+      "electronic"
+    ],
+    "chicago soul": [
+      "soul"
+    ],
+    "bubblegum dance": [
+      "dance",
+      "electronic"
+    ],
+    "tribal house": [
+      "house"
+    ],
+    "minimal house": [
+      "minimal",
+      "house"
+    ],
+    "dub reggae": [
+      "dub",
+      "reggae",
+      "electronic"
+    ],
+    "akirahoshi rap": [
+      "rap"
+    ],
+    "russian folk": [
+      "folk"
+    ],
+    "djent": [
+      "djent",
+      "metal"
+    ],
+    "detroit techno": [
+      "techno"
+    ],
+    "nu-disco": [
+      "nu-disco",
+      "house"
+    ],
+    "kompakt": [
+      "krautrock",
+      "electronic"
+    ],
+    "classic blues": [
+      "blues"
+    ],
+    "progressive rap": [
+      "progressive rock",
+      "rap",
+      "rock"
+    ],
+    "aussie hip-hop": [
+      "hip hop"
+    ],
+    "stutter house": [
+      "house"
+    ],
+    "gabberpop": [
+      "gabberpop",
+      "electronic"
+    ],
+    "jazz hop": [
+      "jazz",
+      "hip hop"
+    ],
+    "alternative rap": [
+      "alternative rock",
+      "rap",
+      "rock"
+    ],
+    "southern rap": [
+      "rap"
+    ],
+    "electro jazz": [
+      "jazz"
+    ],
+    "ethno": [
+      "ethno",
+      "folk"
+    ],
+    "punk rap": [
+      "punk",
+      "rap"
+    ],
+    "psychill": [
+      "psychedelic",
+      "chill",
+      "pop",
+      "electronic"
+    ],
+    "rasta": [
+      "rasta"
+    ],
+    "vocal surf": [
+      "surf",
+      "rock"
+    ],
+    "modern jazz": [
+      "jazz"
+    ],
+    "rai": [
+      "rai",
+      "electronic"
+    ],
+    "post punk": [
+      "post-punk",
+      "punk"
+    ],
+    "nujazz": [
+      "nu jazz",
+      "jazz"
+    ],
+    "dark folk": [
+      "folk"
+    ],
+    "hard techno": [
+      "techno"
+    ],
+    "tuareg guitar": [
+      "guitar",
+      "folk"
+    ],
+    "classical piano": [
+      "classical"
+    ],
+    "rap punk": [
+      "rap",
+      "punk"
+    ],
+    "acid breaks": [
+      "breaks",
+      "techno"
+    ],
+    "amsterdam klezmer band": [
+      "klezmer"
+    ],
+    "modern hardtek": [
+      "hardtek",
+      "techno"
+    ],
+    "big room house": [
+      "house"
+    ],
+    "jazzy": [
+      "jazz"
+    ],
+    "contemporary country": [
+      "country"
+    ],
+    "polka": [
+      "polka"
+    ],
+    "old skool": [
+      "old school"
+    ],
+    "laiko": [
+      "laico",
+      "electronic"
+    ],
+    "electropop chillout": [
+      "electropop",
+      "chillout",
+      "pop",
+      "electronic"
+    ],
+    "garage pop": [
+      "pop"
+    ],
+    "synth punk": [
+      "punk"
+    ],
+    "progressive thrash metal": [
+      "progressive rock",
+      "thrash metal",
+      "rock",
+      "metal"
+    ],
+    "reggae metal": [
+      "reggae",
+      "metal"
+    ],
+    "post-revolutionary pop song": [
+      "pop"
+    ],
+    "art-punk": [
+      "punk"
+    ],
+    "indie-rock": [
+      "indie rock",
+      "rock"
+    ],
+    "black 'n' roll": [
+      "roll",
+      "blues"
+    ],
+    "pop reggae": [
+      "pop",
+      "reggae"
+    ],
+    "alt pop": [
+      "pop"
+    ],
+    "broken beat": [
+      "broken beat",
+      "electronic"
+    ],
+    "ghazal": [
+      "ghazal"
+    ],
+    "qawwali": [
+      "qawwali"
+    ],
+    "bolero": [
+      "bolero",
+      "latin"
+    ],
+    "jazz-hop": [
+      "jazz",
+      "hip hop"
+    ],
+    "deconstructed club": [
+      "dance",
+      "electronic"
+    ],
+    "psych": [
+      "psychedelic",
+      "pop"
+    ],
+    "atmospheric drum and bass": [
+      "drum & bass",
+      "electronic"
+    ],
+    "noisecore": [
+      "noisecore",
+      "metal"
+    ],
+    "stadium rock": [
+      "rock"
+    ],
+    "trap rap": [
+      "trap",
+      "rap",
+      "hip hop"
+    ],
+    "west coast jazz": [
+      "jazz"
+    ],
+    "filmi": [
+      "filmi",
+      "electronic"
+    ],
+    "throat singing": [
+      "throat singing",
+      "folk"
+    ],
+    "waltz": [
+      "waltz"
+    ],
+    "orchestra": [
+      "orchestra"
+    ],
+    "old-time": [
+      "old time",
+      "folk"
+    ],
+    "dj delberts dorky dance drops": [
+      "dance",
+      "electronic"
+    ],
+    "nuevo flamenco": [
+      "flamenco",
+      "spanish"
+    ],
+    "jazzstep": [
+      "jazz",
+      "step",
+      "techno"
+    ],
+    "liedermaching": [
+      "liedermachen",
+      "folk"
+    ],
+    "vgm": [
+      "video game music",
+      "electronic"
+    ],
+    "german hip-hop": [
+      "hip hop"
+    ],
+    "nueva trova": [
+      "nueva trova",
+      "folk"
+    ],
+    "exotica": [
+      "exotica",
+      "electronic"
+    ],
+    "forró": [
+      "forró",
+      "world"
+    ],
+    "electronic superhighway": [
+      "electronic"
+    ],
+    "cello metal": [
+      "metal"
+    ],
+    "rap francais": [
+      "rap"
+    ],
+    "vocal house": [
+      "house"
+    ],
+    "trap edm": [
+      "trap",
+      "electronic dance music",
+      "hip hop",
+      "electronic"
+    ],
+    "west coast rap": [
+      "rap"
+    ],
+    "celtic metal": [
+      "metal"
+    ],
+    "political hip hop": [
+      "hip hop"
+    ],
+    "alternative folk": [
+      "alternative rock",
+      "folk",
+      "rock"
+    ],
+    "instrumental funk": [
+      "funk"
+    ],
+    "ambient music": [
+      "ambient",
+      "electronic"
+    ],
+    "electro-funk": [
+      "electro",
+      "funk",
+      "house"
+    ],
+    "bellydance": [
+      "bellydance"
+    ],
+    "urban contemporary gospel": [
+      "gospel"
+    ],
+    "space disco": [
+      "disco",
+      "house"
+    ],
+    "adventure rock": [
+      "rock"
+    ],
+    "choir": [
+      "choir"
+    ],
+    "adult contemporary music": [
+      "adult contemporary"
+    ],
+    "dance music": [
+      "music"
+    ],
+    "jazz poetry": [
+      "jazz"
+    ],
+    "album rock": [
+      "rock"
+    ],
+    "traditional doom metal": [
+      "doom metal",
+      "metal"
+    ],
+    "space music": [
+      "music"
+    ],
+    "viking metal": [
+      "metal"
+    ],
+    "old school hardcore": [
+      "hardcore",
+      "techno"
+    ],
+    "alt metal": [
+      "metal"
+    ],
+    "medieval metal": [
+      "metal"
+    ],
+    "egg punk": [
+      "punk"
+    ],
+    "acoustic blues": [
+      "blues"
+    ],
+    "soul and reggae": [
+      "soul",
+      "reggae"
+    ],
+    "kpop": [
+      "kpop"
+    ],
+    "boleros": [
+      "boleros",
+      "latin"
+    ],
+    "oud": [
+      "oud"
+    ],
+    "depressive black metal": [
+      "black metal",
+      "metal"
+    ],
+    "marabi": [
+      "marabi",
+      "jazz"
+    ],
+    "rumba": [
+      "rumba",
+      "latin"
+    ],
+    "hyperdub": [
+      "hyperdub",
+      "electronic"
+    ],
+    "horror synth": [
+      "synth pop",
+      "pop"
+    ],
+    "emo rap": [
+      "emo",
+      "rap",
+      "pop"
+    ],
+    "canzone napoletana": [
+      "canzone napoletana"
+    ],
+    "80s punk": [
+      "punk"
+    ],
+    "90s punk": [
+      "punk"
+    ],
+    "post-alternative": [
+      "post-alternative",
+      "alternative"
+    ],
+    "footwork jungle": [
+      "jungle",
+      "house"
+    ],
+    "kinderlieder": [
+      "childrens songs"
+    ],
+    "pop and chart": [
+      "pop"
+    ],
+    "occult rock": [
+      "rock"
+    ],
+    "filthstep": [
+      "filthstep",
+      "techno"
+    ],
+    "adult alternative pop/rock": [
+      "adult alternative",
+      "pop rock",
+      "alternative rock",
+      "pop"
+    ],
+    "contemporary singer/songwriter": [
+      "singer/songwriter"
+    ],
+    "ska-jazz": [
+      "ska",
+      "jazz",
+      "reggae"
+    ],
+    "drum'n'bass": [
+      "drum and bass",
+      "electronic"
+    ],
+    "balearic": [
+      "balearic",
+      "house"
+    ],
+    "q-pop": [
+      "k-pop"
+    ],
+    "ragga hip-hop": [
+      "ragga",
+      "hip hop"
+    ],
+    "uk bass": [
+      "bass",
+      "electronic"
+    ],
+    "jùjú": [
+      "juju",
+      "world"
+    ],
+    "mixed-pop": [
+      "pop"
+    ],
+    "psychobilly": [
+      "psychobilly",
+      "rock"
+    ],
+    "bagpipe": [
+      "bagpipe"
+    ],
+    "deathcore": [
+      "deathcore",
+      "metal"
+    ],
+    "country rap": [
+      "rap"
+    ],
+    "drumfunk": [
+      "drum and bass",
+      "electronic"
+    ],
+    "singer songwriter": [
+      "singer-songwriter"
+    ],
+    "celtic punk": [
+      "punk"
+    ],
+    "irish folk": [
+      "folk"
+    ],
+    "easy listening soundtracks and musicals": [
+      "soundtracks and musicals",
+      "classical"
+    ],
+    "peak time techno": [
+      "techno"
+    ],
+    "drone metal": [
+      "metal"
+    ],
+    "soca": [
+      "soca",
+      "reggae"
+    ],
+    "melodic dubstep": [
+      "dubstep",
+      "electronic"
+    ],
+    "clownstep": [
+      "step",
+      "techno"
+    ],
+    "ballet": [
+      "ballet"
+    ],
+    "cantata": [
+      "cantata",
+      "classical"
+    ],
+    "alternative/post-rock": [
+      "alternative rock",
+      "post-rock",
+      "rock"
+    ],
+    "dub techno": [
+      "techno"
+    ],
+    "arabesk": [
+      "arabesk",
+      "turkish pop"
+    ],
+    "cowpunk": [
+      "cowpunk",
+      "rock"
+    ],
+    "slap house": [
+      "slap house",
+      "house"
+    ],
+    "progressive bluegrass": [
+      "progressive rock",
+      "bluegrass",
+      "rock"
+    ],
+    "avant-folk": [
+      "avant-garde",
+      "folk",
+      "electronic"
+    ],
+    "nwobhm": [
+      "new wave of british heavy metal",
+      "metal"
+    ],
+    "bluesrock": [
+      "blues rock",
+      "rock"
+    ],
+    "drone doom": [
+      "doom",
+      "metal"
+    ],
+    "muzika mizrahit": [
+      "muzika",
+      "mizrahi music",
+      "folk",
+      "world"
+    ],
+    "jamaican ska": [
+      "ska",
+      "reggae"
+    ],
+    "mzansi": [
+      "mzansi",
+      "house"
+    ],
+    "shangaan electro": [
+      "electro",
+      "house"
+    ],
+    "metro funky": [
+      "funk"
+    ],
+    "extreme power metal": [
+      "power metal",
+      "metal"
+    ],
+    "new jersey rap": [
+      "rap"
+    ],
+    "psychedelic rap": [
+      "psychedelic",
+      "rap",
+      "pop"
+    ],
+    "christian rap": [
+      "rap"
+    ],
+    "honky tonk": [
+      "honky tonk",
+      "country"
+    ],
+    "minimal electro": [
+      "electro",
+      "house"
+    ],
+    "corridos tumbados": [
+      "corridos tumbados",
+      "latin trap"
+    ],
+    "corridos": [
+      "corridos"
+    ],
+    "sierreno": [
+      "sierreno",
+      "folk"
+    ],
+    "corrido tumbado": [
+      "corrido tumbado",
+      "hip hop"
+    ],
+    "regional mexicano": [
+      "regional mexicano"
+    ],
+    "ambience": [
+      "ambient",
+      "electronic"
+    ],
+    "math metal": [
+      "metal"
+    ],
+    "dance-punk revival": [
+      "dance-punk",
+      "punk"
+    ],
+    "death doom metal": [
+      "death doom metal",
+      "metal"
+    ],
+    "atmospheric doom metal": [
+      "doom metal",
+      "metal"
+    ],
+    "funk_add_to_lidarr_batch_20": [
+      "funk"
+    ],
+    "jazz-rap": [
+      "jazz",
+      "rap"
+    ],
+    "contemporary christian": [
+      "christian"
+    ],
+    "jungle music": [
+      "jungle",
+      "house"
+    ],
+    "post neo kraftwerk": [
+      "post-neo",
+      "kraftwerk",
+      "electronic"
+    ],
+    "eletroswing": [
+      "electroswing",
+      "electronic"
+    ],
+    "dave wave": [
+      "dave wave",
+      "ambient"
+    ],
+    "digital reggae": [
+      "reggae"
+    ],
+    "p-funk": [
+      "funk"
+    ],
+    "memphis rap": [
+      "rap"
+    ],
+    "2step": [
+      "2step",
+      "house"
+    ],
+    "bubblegum": [
+      "bubblegum pop",
+      "pop"
+    ],
+    "polish folk": [
+      "folk"
+    ],
+    "horrorcore": [
+      "horrorcore",
+      "hip hop"
+    ],
+    "electronic pop": [
+      "electronic",
+      "pop"
+    ],
+    "experimental pop": [
+      "pop"
+    ],
+    "techno pop": [
+      "techno",
+      "pop"
+    ],
+    "afrofuturism": [
+      "afrofuturism",
+      "hip hop"
+    ],
+    "astral jazz": [
+      "jazz"
+    ],
+    "electric jazz": [
+      "jazz"
+    ],
+    "ghettotech": [
+      "ghettotech",
+      "house"
+    ],
+    "music choice: rock": [
+      "rock"
+    ],
+    "female singer-songwriters": [
+      "female singer-songwriter",
+      "singer-songwriter"
+    ],
+    "queercore": [
+      "queercore",
+      "electronic"
+    ],
+    "oldschool techno": [
+      "techno"
+    ],
+    "german/pop-rock": [
+      "pop rock",
+      "pop"
+    ],
+    "taize": [
+      "taizé",
+      "classical"
+    ],
+    "orchestral pop": [
+      "pop"
+    ],
+    "indie electronic": [
+      "electronic"
+    ],
+    "goth": [
+      "gothic rock",
+      "rock"
+    ],
+    "frat rock": [
+      "rock"
+    ],
+    "bossa": [
+      "bossa nova",
+      "jazz"
+    ],
+    "electroswing": [
+      "electroswing",
+      "electronic"
+    ],
+    "chillhop": [
+      "hip hop"
+    ],
+    "bestprog": [
+      "progressive rock",
+      "rock"
+    ],
+    "tuareg rock": [
+      "rock"
+    ],
+    "pachanga": [
+      "pachanga",
+      "latin"
+    ],
+    "salsa dura": [
+      "salsa",
+      "dura",
+      "latin"
+    ],
+    "son cubano": [
+      "son cubano",
+      "latin jazz"
+    ],
+    "spanish rock": [
+      "rock"
+    ],
+    "female art rap": [
+      "rap"
+    ],
+    "psychodelic": [
+      "psychedelic",
+      "pop"
+    ],
+    "bluz": [
+      "blues"
+    ],
+    "two-tone ska revival": [
+      "ska",
+      "reggae"
+    ],
+    "progressive techno": [
+      "progressive rock",
+      "techno",
+      "rock"
+    ],
+    "turkish rock": [
+      "rock"
+    ],
+    "motorik": [
+      "motorik",
+      "electronic"
+    ],
+    "blitzmash": [
+      "blitzmash",
+      "electronic"
+    ],
+    "uk dub": [
+      "dub",
+      "electronic"
+    ],
+    "britrock": [
+      "rock"
+    ],
+    "art rap": [
+      "rap"
+    ],
+    "electrolore": [
+      "electro",
+      "house"
+    ],
+    "post-minimalism": [
+      "post-minimalism",
+      "minimalism"
+    ],
+    "ethio-jazz": [
+      "jazz"
+    ],
+    "fantasy": [
+      "fantasy"
+    ],
+    "neomedieval": [
+      "neomedieval",
+      "classical"
+    ],
+    "organic house": [
+      "house"
+    ],
+    "modern melodic death metal": [
+      "death metal",
+      "metal"
+    ],
+    "cantautore": [
+      "cantautore",
+      "pop"
+    ],
+    "psychedelia": [
+      "psychedelic",
+      "pop"
+    ],
+    "psychedelic funk": [
+      "psychedelic",
+      "funk",
+      "pop"
+    ],
+    "cardio-wave": [
+      "cardio wave",
+      "electronic"
+    ],
+    "samba": [
+      "samba",
+      "world"
+    ],
+    "g house": [
+      "house"
+    ],
+    "getto house": [
+      "house"
+    ],
+    "g-house": [
+      "g-house",
+      "house"
+    ],
+    "soulful drum and bass": [
+      "drum & bass",
+      "electronic"
+    ],
+    "classic punk": [
+      "punk"
+    ],
+    "los angeles punk": [
+      "punk"
+    ],
+    "mathcore": [
+      "mathcore",
+      "metal"
+    ],
+    "hippie": [
+      "hippie",
+      "folk"
+    ],
+    "deepstep": [
+      "deepstep",
+      "techno"
+    ],
+    "dance dance dance": [
+      "dance",
+      "electronic"
+    ],
+    "zouk": [
+      "zouk",
+      "electronic"
+    ],
+    "lo-fi hip hop": [
+      "hip hop"
+    ],
+    "indie garage rock": [
+      "garage",
+      "rock",
+      "house"
+    ],
+    "neo-psychedelic": [
+      "neo-psychedelic",
+      "psychedelic"
+    ],
+    "finnish metal": [
+      "metal"
+    ],
+    "cabaret noir": [
+      "noir",
+      "jazz"
+    ],
+    "two-tone": [
+      "two-tone",
+      "pop"
+    ],
+    "classic ostrock": [
+      "stoner rock",
+      "metal"
+    ],
+    "super ostrock": [
+      "stoner rock",
+      "metal"
+    ],
+    "ragga metal": [
+      "ragga",
+      "metal",
+      "hip hop"
+    ],
+    "ragga-metal": [
+      "ragga",
+      "metal",
+      "hip hop"
+    ],
+    "fingerstyle": [
+      "fingerstyle",
+      "acoustic"
+    ],
+    "sochilounge": [
+      "soulchild",
+      "soul"
+    ],
+    "goregrind": [
+      "goregrind",
+      "metal"
+    ],
+    "old school hip hop": [
+      "hip hop"
+    ],
+    "hang drum": [
+      "hang drum",
+      "world"
+    ],
+    "crossover black": [
+      "black metal",
+      "metal"
+    ],
+    "carmina burana": [
+      "carmina burana"
+    ],
+    "amapiano": [
+      "amapiano",
+      "house"
+    ],
+    "leftfield bass": [
+      "bass",
+      "electronic"
+    ],
+    "let it roll 2013": [
+      "let it roll",
+      "rock"
+    ],
+    "hip hop soul": [
+      "hip hop",
+      "soul"
+    ],
+    "riddim dubstep": [
+      "dubstep",
+      "electronic"
+    ],
+    "disco rap": [
+      "disco",
+      "rap",
+      "house"
+    ],
+    "aggrotech": [
+      "aggrotech",
+      "electronic"
+    ],
+    "indian classical": [
+      "classical"
+    ],
+    "uk funky": [
+      "funk"
+    ],
+    "gamelan": [
+      "gamelan"
+    ],
+    "neoclassical darkwave": [
+      "neoclassical",
+      "darkwave",
+      "classical",
+      "wave"
+    ],
+    "let that raga drop": [
+      "raga",
+      "world"
+    ],
+    "indian fusion": [
+      "fusion",
+      "jazz"
+    ],
+    "classical folk": [
+      "classical",
+      "folk"
+    ],
+    "pakistani qawwali": [
+      "qawwali"
+    ],
+    "cantopop": [
+      "cantopop",
+      "pop"
+    ],
+    "90s emo": [
+      "emo",
+      "pop"
+    ],
+    "south african jazz": [
+      "jazz"
+    ],
+    "mj-house bounce": [
+      "house",
+      "bounce music"
+    ],
+    "acoustic punk": [
+      "punk"
+    ],
+    "soprano": [
+      "soprano"
+    ],
+    "bavarian rap": [
+      "rap"
+    ],
+    "neoperreo": [
+      "neoperreo",
+      "hip hop"
+    ],
+    "elektropop": [
+      "electro",
+      "pop",
+      "house"
+    ],
+    "classical drums": [
+      "drums"
+    ],
+    "liquid drum and bass": [
+      "drum & bass",
+      "electronic"
+    ],
+    "afro house": [
+      "house"
+    ],
+    "bop": [
+      "bop",
+      "jazz"
+    ],
+    "mainstream jazz": [
+      "jazz"
+    ],
+    "2010s rock": [
+      "rock"
+    ],
+    "reggae pop": [
+      "reggae",
+      "pop"
+    ],
+    "carnatic": [
+      "carnatic"
+    ],
+    "carnatic classical": [
+      "classical"
+    ],
+    "stomp and holler": [
+      "stomp and holler",
+      "folk"
+    ],
+    "fantasy dance": [
+      "dance",
+      "electronic"
+    ],
+    "neo-electro": [
+      "electro",
+      "house"
+    ],
+    "german orchestra": [
+      "orchestra"
+    ],
+    "goa": [
+      "goa",
+      "house"
+    ],
+    "psychedelic trance": [
+      "psychedelic",
+      "trance",
+      "pop",
+      "electronic"
+    ],
+    "standards": [
+      "standards"
+    ],
+    "retro electro": [
+      "electro",
+      "house"
+    ],
+    "italo": [
+      "italo disco",
+      "house"
+    ],
+    "afrohouse": [
+      "house"
+    ],
+    "afro-fusion": [
+      "fusion",
+      "jazz"
+    ],
+    "drumandbass": [
+      "drum and bass",
+      "electronic"
+    ],
+    "accordeon": [
+      "accordion"
+    ],
+    "dance metal": [
+      "metal"
+    ],
+    "kawaii metal": [
+      "metal"
+    ],
+    "blues-rock": [
+      "blues rock",
+      "rock"
+    ],
+    "bayrisch": [
+      "bayesian",
+      "electronic"
+    ],
+    "neue volksmusik": [
+      "volksmusik",
+      "folk"
+    ],
+    "new-folk": [
+      "folk"
+    ],
+    "kosmische musik": [
+      "kosmische",
+      "electronic"
+    ],
+    "symfonicznie": [
+      "symphonic",
+      "classical"
+    ],
+    "japanese funk rock": [
+      "funk rock",
+      "rock"
+    ],
+    "j-funk-rock": [
+      "j-funk",
+      "rock",
+      "funk"
+    ],
+    "electronica dance": [
+      "electronica",
+      "dance",
+      "electronic"
+    ],
+    "psychedelic cumbia": [
+      "psychedelic",
+      "cumbia",
+      "pop",
+      "latin"
+    ],
+    "cumbia peruana": [
+      "cumbia",
+      "latin"
+    ],
+    "japanese classical": [
+      "classical"
+    ],
+    "cloud rap": [
+      "rap"
+    ],
+    "digital dub": [
+      "dub",
+      "electronic"
+    ],
+    "neo-traditional country": [
+      "country"
+    ],
+    "progressive country": [
+      "progressive rock",
+      "country",
+      "rock"
+    ],
+    "drum & bass": [
+      "drum & bass",
+      "electronic"
+    ],
+    "northern soul": [
+      "soul"
+    ],
+    "instrumental northern dancers": [
+      "northern soul",
+      "soul"
+    ],
+    "mozambique": [
+      "mozambique",
+      "electronic"
+    ],
+    "marrabenta": [
+      "marrabenta",
+      "funk"
+    ],
+    "digital laptop reggae": [
+      "reggae"
+    ],
+    "chinesepop": [
+      "chinese pop",
+      "pop"
+    ],
+    "symphonic black metal": [
+      "black metal",
+      "metal"
+    ],
+    "yé-yé": [
+      "yé-yé",
+      "pop"
+    ],
+    "forro": [
+      "forro"
+    ],
+    "german reggae": [
+      "reggae"
+    ],
+    "philly soul": [
+      "soul"
+    ],
+    "instrumental hiphop": [
+      "hip hop"
+    ],
+    "funk_add_to_lidarr_batch_5": [
+      "funk"
+    ],
+    "emo-pop": [
+      "emo",
+      "pop"
+    ],
+    "powerpop": [
+      "power pop",
+      "pop"
+    ],
+    "harsh ebm": [
+      "electronic body music",
+      "electronic"
+    ],
+    "demoscene": [
+      "demoscene",
+      "electronic"
+    ],
+    "musicals": [
+      "musical theatre"
+    ],
+    "fave indie pop": [
+      "indie pop",
+      "pop"
+    ],
+    "kora": [
+      "kora"
+    ],
+    "samba jazz": [
+      "samba",
+      "jazz",
+      "world"
+    ],
+    "popwave": [
+      "popwave"
+    ],
+    "dinosaur metal": [
+      "metal"
+    ],
+    "soul eyes": [
+      "soul"
+    ],
+    "with soul": [
+      "soul"
+    ],
+    "grieg": [
+      "grieg"
+    ],
+    "polski rock": [
+      "rock"
+    ],
+    "whalecore": [
+      "whale music",
+      "ambient"
+    ],
+    "post-screamo": [
+      "post-screamo",
+      "screamo"
+    ],
+    "rock groups": [
+      "rock"
+    ],
+    "praise & worship": [
+      "praise & worship",
+      "gospel"
+    ],
+    "french rap": [
+      "rap"
+    ],
+    "swing that thing": [
+      "swing",
+      "electronic"
+    ],
+    "vaportrap": [
+      "vaporwave",
+      "electronic"
+    ],
+    "reis against the spuelmachine": [
+      "reis",
+      "jazz"
+    ],
+    "trap metal": [
+      "metal"
+    ],
+    "west coast breaks": [
+      "breaks",
+      "techno"
+    ],
+    "narcocorrido": [
+      "narcocorrido",
+      "hip hop"
+    ],
+    "german rap": [
+      "rap"
+    ],
+    "lounge house": [
+      "house"
+    ],
+    "classical music": [
+      "classical"
+    ],
+    "western swing": [
+      "swing",
+      "electronic"
+    ],
+    "ed banger": [
+      "ed banger",
+      "house"
+    ],
+    "technopop": [
+      "techno",
+      "pop"
+    ],
+    "random av": [
+      "av",
+      "electronic"
+    ],
+    "electrofunk": [
+      "electro funk",
+      "funk"
+    ],
+    "dubwise": [
+      "dubwise",
+      "house"
+    ],
+    "industrial techno": [
+      "techno"
+    ],
+    "dark techno": [
+      "techno"
+    ],
+    "doujin ongaku": [
+      "doujin",
+      "j-pop",
+      "music",
+      "pop"
+    ],
+    "disco punk": [
+      "disco",
+      "punk",
+      "house"
+    ],
+    "bluenotejazz": [
+      "jazz"
+    ],
+    "instrumental jazz": [
+      "jazz"
+    ],
+    "pagan metal": [
+      "pagan metal",
+      "metal"
+    ],
+    "arbeiterlied": [
+      "arbeiterlied"
+    ],
+    "retro swing": [
+      "swing",
+      "electronic"
+    ],
+    "day of the dead": [
+      "day of the dead",
+      "mexican"
+    ],
+    "fiddle": [
+      "fiddle"
+    ],
+    "contemporary": [
+      "contemporary"
+    ],
+    "progressive electro": [
+      "progressive rock",
+      "electro",
+      "rock",
+      "house"
+    ],
+    "acoustic techno": [
+      "techno"
+    ],
+    "soul coughing": [
+      "soul"
+    ],
+    "slam poetry": [
+      "slam poetry",
+      "hip hop"
+    ],
+    "punk cabaret": [
+      "punk",
+      "cabaret",
+      "music"
+    ],
+    "electro pop": [
+      "electro",
+      "pop",
+      "house"
+    ],
+    "proto doom": [
+      "doom",
+      "metal"
+    ],
+    "turkish pop": [
+      "pop"
+    ],
+    "dixieland": [
+      "dixieland",
+      "jazz"
+    ],
+    "smoking music": [
+      "music"
+    ],
+    "celtic new age": [
+      "celtic",
+      "new age",
+      "ambient"
+    ],
+    "paired vocal harmony": [
+      "vocal harmony",
+      "pop"
+    ],
+    "asozialster gangstarap": [
+      "gangstar rap",
+      "hip hop"
+    ],
+    "linedance 2016": [
+      "linedance",
+      "folk"
+    ],
+    "proto punk": [
+      "punk"
+    ],
+    "beatdown": [
+      "beatdown",
+      "metal"
+    ],
+    "techno minimal do bom": [
+      "techno",
+      "minimal",
+      "house"
+    ],
+    "glitchstep": [
+      "glitchstep",
+      "techno"
+    ],
+    "mittelalter": [
+      "medieval"
+    ],
+    "slow-pop": [
+      "pop"
+    ],
+    "compositional ambient": [
+      "ambient",
+      "electronic"
+    ],
+    "alternative hardcore": [
+      "alternative rock",
+      "hardcore",
+      "rock",
+      "techno"
+    ],
+    "emo metal": [
+      "emo",
+      "metal",
+      "pop"
+    ],
+    "jazz harp": [
+      "jazz",
+      "harp"
+    ],
+    "synthpunk": [
+      "synthpunk",
+      "electronic"
+    ],
+    "evita": [
+      "evita",
+      "pop"
+    ],
+    "jazz piano": [
+      "jazz"
+    ],
+    "90's alternative": [
+      "alternative rock",
+      "rock"
+    ],
+    "ska-punk": [
+      "ska",
+      "punk",
+      "reggae"
+    ],
+    "orchestral jazz": [
+      "jazz"
+    ],
+    "improv": [
+      "improv",
+      "jazz"
+    ],
+    "german indie-rock": [
+      "indie rock",
+      "rock"
+    ],
+    "voodoo rhythm": [
+      "rhythm",
+      "music"
+    ],
+    "electric delta blues": [
+      "delta blues",
+      "blues"
+    ],
+    "hill country blues": [
+      "blues"
+    ],
+    "bardcore": [
+      "bardcore",
+      "folk"
+    ],
+    "jazz vocal": [
+      "jazz"
+    ],
+    "indonesian winds": [
+      "wind",
+      "ambient"
+    ],
+    "new wave pop": [
+      "new wave",
+      "pop"
+    ],
+    "jazz vocalists": [
+      "jazz"
+    ],
+    "soul-jazz": [
+      "soul",
+      "jazz"
+    ],
+    "electronic music": [
+      "electronic"
+    ],
+    "french touch": [
+      "touch music",
+      "house"
+    ],
+    "electrogefuckel": [
+      "electro",
+      "house"
+    ],
+    "bhangra": [
+      "bhangra"
+    ],
+    "070 shake": [
+      "shake",
+      "pop"
+    ],
+    "progdinos": [
+      "progressive rock",
+      "rock"
+    ],
+    "electronic chill": [
+      "electronic"
+    ],
+    "arabic jazz": [
+      "jazz"
+    ],
+    "hip hop dark fucking metal rap": [
+      "hip hop",
+      "metal",
+      "rap"
+    ],
+    "rap hip-hop": [
+      "rap",
+      "hip hop"
+    ],
+    "electro-acoustic": [
+      "electro",
+      "acoustic",
+      "house"
+    ],
+    "surf punk": [
+      "punk"
+    ],
+    "digital tendencies": [
+      "tendencies",
+      "electronic"
+    ],
+    "dabke": [
+      "dabke"
+    ],
+    "gnawa": [
+      "gnawa"
+    ],
+    "gratuitous heavy metal umlaut": [
+      "heavy metal",
+      "metal"
+    ],
+    "rock'n roll": [
+      "rock",
+      "rock and roll"
+    ],
+    "suicidal black metal": [
+      "black metal",
+      "metal"
+    ],
+    "dsbm": [
+      "death metal",
+      "metal"
+    ],
+    "depressive black suicidal metal": [
+      "black metal",
+      "metal"
+    ],
+    "blankcore": [
+      "blankcore",
+      "electronic"
+    ],
+    "south africa soweto string quartet": [
+      "string quartet",
+      "classical"
+    ],
+    "afro-cuban": [
+      "cuban",
+      "latin"
+    ],
+    "funk_add_to_lidarr_batch_23": [
+      "funk"
+    ],
+    "shamisen": [
+      "shamisen"
+    ],
+    "80s electronica": [
+      "electronica"
+    ],
+    "cyberpunk": [
+      "cyberpunk",
+      "electronic"
+    ],
+    "finnish rock": [
+      "rock"
+    ],
+    "balkan punk": [
+      "punk"
+    ],
+    "hard house": [
+      "house"
+    ],
+    "belgian jazz": [
+      "jazz"
+    ],
+    "kiche": [
+      "kiche",
+      "electronic"
+    ],
+    "funk_add_to_lidarr_batch_14": [
+      "funk"
+    ],
+    "german alternative rap": [
+      "alternative rap",
+      "hip hop"
+    ],
+    "german pop": [
+      "pop"
+    ],
+    "italian folk": [
+      "folk"
+    ],
+    "neapolitan": [
+      "neapolitan"
+    ],
+    "jrock": [
+      "j-rock",
+      "rock"
+    ],
+    "persian female singers": [
+      "female vocalists",
+      "pop"
+    ],
+    "french metal": [
+      "metal"
+    ],
+    "drunk tank singalong tune": [
+      "tune",
+      "folk"
+    ],
+    "bass music": [
+      "music"
+    ],
+    "reggae.": [
+      "reggae"
+    ],
+    "flamenco nuevo": [
+      "flamenco",
+      "nuevo flamenco",
+      "spanish"
+    ],
+    "flamenco pop": [
+      "flamenco",
+      "pop",
+      "spanish"
+    ],
+    "german rock": [
+      "rock"
+    ],
+    "ddr-rock": [
+      "rock"
+    ],
+    "street punk": [
+      "punk"
+    ],
+    "woodstock": [
+      "woodstock",
+      "rock"
+    ],
+    "fuzz rock": [
+      "rock"
+    ],
+    "raggamuffin": [
+      "raggamuffin",
+      "reggae"
+    ],
+    "bluegrass fusion": [
+      "bluegrass",
+      "fusion",
+      "jazz"
+    ],
+    "rock ballad": [
+      "rock",
+      "ballad",
+      "pop"
+    ],
+    "ballade": [
+      "ballade"
+    ],
+    "lover hop": [
+      "hip hop"
+    ],
+    "indietronics": [
+      "indie",
+      "indietronics",
+      "rock",
+      "electronic"
+    ],
+    "new york punk": [
+      "punk"
+    ],
+    "elektronic": [
+      "electronic"
+    ],
+    "metro minimal": [
+      "minimal",
+      "house"
+    ],
+    "progressive breaks": [
+      "progressive rock",
+      "breaks",
+      "rock",
+      "techno"
+    ],
+    "female fronted metal": [
+      "metal"
+    ],
+    "freestyle": [
+      "freestyle",
+      "hip hop"
+    ],
+    "steampunk": [
+      "steampunk"
+    ],
+    "cabaret folk": [
+      "folk"
+    ],
+    "abstract hip hop": [
+      "hip hop"
+    ],
+    "hardstyle": [
+      "hardstyle",
+      "techno"
+    ],
+    "gopnik": [
+      "gopnik",
+      "hip hop"
+    ],
+    "brazilectro": [
+      "electro",
+      "house"
+    ],
+    "soulful house": [
+      "house"
+    ],
+    "ska jazz": [
+      "ska",
+      "jazz",
+      "reggae"
+    ],
+    "heavy rock": [
+      "rock"
+    ],
+    "skullstep": [
+      "skullstep",
+      "techno"
+    ],
+    "rock classic": [
+      "rock"
+    ],
+    "rock n' roll": [
+      "rock",
+      "rock and roll"
+    ],
+    "newer hard rock": [
+      "hard rock",
+      "rock"
+    ],
+    "quebecois": [
+      "quebecois",
+      "folk"
+    ],
+    "chanson québécoise": [
+      "chanson québécoise",
+      "folk"
+    ],
+    "future rave": [
+      "rave",
+      "house"
+    ],
+    "african soul": [
+      "soul"
+    ],
+    "ukulele": [
+      "ukulele"
+    ],
+    "hawaiian": [
+      "hawaiian"
+    ],
+    "world beats": [
+      "beats",
+      "electronic"
+    ],
+    "raggae": [
+      "reggae"
+    ],
+    "progressive metalcore": [
+      "progressive metal",
+      "core",
+      "metal"
+    ],
+    "girl groups": [
+      "girl groups",
+      "pop"
+    ],
+    "crooners": [
+      "crooners"
+    ],
+    "afro-beat": [
+      "beat music",
+      "electronic"
+    ],
+    "mande": [
+      "manding",
+      "world"
+    ],
+    "ostschlager": [
+      "ostschlager",
+      "pop"
+    ],
+    "sadcore": [
+      "sadcore",
+      "electronic"
+    ],
+    "superpop": [
+      "superpop",
+      "pop"
+    ],
+    "classical waltz": [
+      "classical",
+      "waltz"
+    ],
+    "electrotango": [
+      "electrotango",
+      "tango"
+    ],
+    "russian alternative": [
+      "alternative rock",
+      "rock"
+    ],
+    "liquidfunk": [
+      "liquid funk",
+      "funk"
+    ],
+    "gritty jazz": [
+      "jazz"
+    ],
+    "progressive - folk": [
+      "progressive rock",
+      "folk",
+      "rock"
+    ],
+    "hair metal": [
+      "metal"
+    ],
+    "neo-classical": [
+      "neo-classical",
+      "classical"
+    ],
+    "british hip hop": [
+      "hip hop"
+    ],
+    "uk drill": [
+      "drill and bass",
+      "hip hop"
+    ],
+    "bagpipes": [
+      "bagpipes"
+    ],
+    "electronic grind": [
+      "electronic",
+      "grind"
+    ],
+    "alternative rock music": [
+      "alternative rock",
+      "rock"
+    ],
+    "scrubs": [
+      "scrubs",
+      "hip hop"
+    ],
+    "africain-francais": [
+      "africain-francais",
+      "house"
+    ],
+    "electro rock": [
+      "electro",
+      "rock",
+      "house"
+    ],
+    "neuropunk": [
+      "neuropunk",
+      "electronic"
+    ],
+    "protopunk": [
+      "protopunk",
+      "punk"
+    ],
+    "detroit punk": [
+      "punk"
+    ],
+    "extreme progressive metal": [
+      "progressive metal",
+      "metal"
+    ],
+    "future funk": [
+      "funk"
+    ],
+    "country boogie": [
+      "country",
+      "boogie rock",
+      "rock"
+    ],
+    "acapella metal": [
+      "metal"
+    ],
+    "dark metal": [
+      "metal"
+    ],
+    "symphonic death metal": [
+      "death metal",
+      "metal"
+    ],
+    "70s soul": [
+      "soul"
+    ],
+    "bitpop": [
+      "bitpop",
+      "pop"
+    ],
+    "dark synth": [
+      "synth pop",
+      "pop"
+    ],
+    "celtic folk music": [
+      "folk music",
+      "folk"
+    ],
+    "liquid dnb": [
+      "drum and bass",
+      "electronic"
+    ],
+    "chaabi": [
+      "chaabi"
+    ],
+    "future jazz": [
+      "jazz"
+    ],
+    "trucking anthems": [
+      "anthems",
+      "rock"
+    ],
+    "west coast swing": [
+      "swing",
+      "electronic"
+    ],
+    "house md": [
+      "house"
+    ],
+    "chillout triphop": [
+      "trip hop",
+      "electronic"
+    ],
+    "indian nu metal": [
+      "nu metal",
+      "metal"
+    ],
+    "trance metal": [
+      "trance",
+      "metal",
+      "electronic"
+    ],
+    "bingo house": [
+      "house"
+    ],
+    "underground rap": [
+      "rap"
+    ],
+    "mixed-avantgarde": [
+      "avant-garde",
+      "electronic"
+    ],
+    "rock 'n roll": [
+      "rock",
+      "rock and roll"
+    ],
+    "afro cuban jazz": [
+      "jazz"
+    ],
+    "jazz latino": [
+      "jazz",
+      "latin music"
+    ],
+    "crankwave": [
+      "crankwave",
+      "electronic"
+    ],
+    "toto cutugno": [
+      "cutugno",
+      "pop"
+    ],
+    "african disco": [
+      "disco",
+      "house"
+    ],
+    "congolese rumba": [
+      "rumba",
+      "latin"
+    ],
+    "pirate metal": [
+      "pirate metal",
+      "metal"
+    ],
+    "true scottish pirate metal": [
+      "pirate metal",
+      "metal"
+    ],
+    "lekker ska": [
+      "ska",
+      "reggae"
+    ],
+    "technical metal": [
+      "metal"
+    ],
+    "instrumental metal": [
+      "metal"
+    ],
+    "clowncore": [
+      "clowncore",
+      "pop"
+    ],
+    "speedcore": [
+      "speedcore",
+      "electronic"
+    ],
+    "ukrainian rock": [
+      "rock"
+    ],
+    "rhythm and blues music": [
+      "rhythm and blues"
+    ],
+    "flashdance": [
+      "flashdance",
+      "pop"
+    ],
+    "tropicalia": [
+      "tropicalia",
+      "pop"
+    ],
+    "tropicália": [
+      "tropicália",
+      "pop"
+    ],
+    "slow rock": [
+      "rock"
+    ],
+    "folkeromantikk": [
+      "folk romance",
+      "folk"
+    ],
+    "romantic classical": [
+      "classical"
+    ],
+    "french screamo": [
+      "screamo",
+      "metal"
+    ],
+    "third stream": [
+      "third stream",
+      "jazz"
+    ],
+    "sonic rock": [
+      "rock"
+    ],
+    "jazz saxophone": [
+      "jazz"
+    ],
+    "digital hardcore": [
+      "hardcore",
+      "techno"
+    ],
+    "nu electro": [
+      "electro",
+      "house"
+    ],
+    "pop tunes": [
+      "pop"
+    ],
+    "jazz punk": [
+      "jazz",
+      "punk"
+    ],
+    "brutal death metal with nordic influence and guest vocalist satan": [
+      "brutal death metal",
+      "metal"
+    ],
+    "indie hip hop": [
+      "hip hop"
+    ],
+    "antifolk": [
+      "antifolk",
+      "folk"
+    ],
+    "african folk": [
+      "folk"
+    ],
+    "guitar jazz": [
+      "jazz"
+    ],
+    "instrumental pop": [
+      "pop"
+    ],
+    "jazz instrument": [
+      "jazz"
+    ],
+    "folkrock": [
+      "folk",
+      "rock"
+    ],
+    "volksmusik": [
+      "volksmusik",
+      "folk"
+    ],
+    "klimat": [
+      "klimat",
+      "ambient"
+    ],
+    "hophop": [
+      "hip hop"
+    ],
+    "middle electronic": [
+      "electronic"
+    ],
+    "ethnic electronica": [
+      "electronica"
+    ],
+    "tribal ambient": [
+      "ambient",
+      "electronic"
+    ],
+    "immer 3mal mehr herzchen lieder": [
+      "lieder",
+      "classical"
+    ],
+    "tabla": [
+      "tabla"
+    ],
+    "asian underground": [
+      "underground",
+      "electronic"
+    ],
+    "drone ambient": [
+      "ambient",
+      "electronic"
+    ],
+    "swancore": [
+      "swancore",
+      "metal"
+    ],
+    "cowboy": [
+      "cowboy"
+    ],
+    "raï": [
+      "raï",
+      "world"
+    ],
+    "eletronic": [
+      "electronic"
+    ],
+    "classic soul": [
+      "soul"
+    ],
+    "my favourite jazz": [
+      "jazz"
+    ],
+    "glitch-hop": [
+      "glitch hop",
+      "hip hop"
+    ],
+    "futurepop": [
+      "futurepop",
+      "pop"
+    ],
+    "2010s progressive rock": [
+      "progressive rock",
+      "rock"
+    ],
+    "chicano rap": [
+      "rap"
+    ],
+    "synth-punk": [
+      "punk"
+    ],
+    "brazilian bass": [
+      "bass",
+      "electronic"
+    ],
+    "italo dance": [
+      "italo disco",
+      "dance",
+      "house",
+      "electronic"
+    ],
+    "proto-vaporwave": [
+      "vaporwave",
+      "electronic"
+    ],
+    "club-dance rock": [
+      "rock"
+    ],
+    "ritual ambient": [
+      "ambient",
+      "electronic"
+    ],
+    "sleng teng": [
+      "sleng teng",
+      "hip hop"
+    ],
+    "space songs": [
+      "songs",
+      "electronic"
+    ],
+    "dance rock": [
+      "rock"
+    ],
+    "visual kei": [
+      "visual kei",
+      "rock"
+    ],
+    "progressive soul": [
+      "progressive rock",
+      "soul",
+      "rock"
+    ],
+    "piano pop rock": [
+      "pop",
+      "rock"
+    ],
+    "a rare groove": [
+      "groove",
+      "funk"
+    ],
+    "sick beat": [
+      "beat music",
+      "electronic"
+    ],
+    "arvo part": [
+      "part",
+      "classical"
+    ],
+    "porn pop": [
+      "pop"
+    ],
+    "fast rap": [
+      "rap"
+    ],
+    "frupbeat": [
+      "freestyle",
+      "hip hop"
+    ],
+    "euro-disco": [
+      "disco",
+      "house"
+    ],
+    "twee": [
+      "twee",
+      "pop"
+    ],
+    "twee pop": [
+      "pop"
+    ],
+    "darkpsy": [
+      "darkpsy",
+      "house"
+    ],
+    "bollywood": [
+      "bollywood"
+    ],
+    "sophisticated rock": [
+      "rock"
+    ],
+    "collective soul": [
+      "soul"
+    ],
+    "dark dubstep": [
+      "dubstep",
+      "electronic"
+    ],
+    "funk your ass up": [
+      "funk"
+    ],
+    "funky house": [
+      "house"
+    ],
+    "trip rock": [
+      "rock"
+    ],
+    "proto-prog": [
+      "progressive rock",
+      "rock"
+    ],
+    "krishnacore": [
+      "krishnacore",
+      "core",
+      "electronic",
+      "metal"
+    ],
+    "awesome guitar jams": [
+      "jams",
+      "rock"
+    ],
+    "acud techno": [
+      "techno"
+    ],
+    "new weird america": [
+      "weird music",
+      "experimental"
+    ],
+    "outsider house": [
+      "house"
+    ],
+    "ambient hour with beezer": [
+      "ambient",
+      "electronic"
+    ],
+    "asian fusion": [
+      "fusion",
+      "jazz"
+    ],
+    "garbuix de la gran meuca": [
+      "garbux",
+      "electronic"
+    ],
+    "balkanisme": [
+      "balkanisme",
+      "folk"
+    ],
+    "ecm": [
+      "electronic music",
+      "electronic"
+    ],
+    "modern rock": [
+      "rock"
+    ],
+    "verbotene liebe": [
+      "love",
+      "pop"
+    ],
+    "ethnic fusion": [
+      "fusion",
+      "jazz"
+    ],
+    "metal cover": [
+      "metal"
+    ],
+    "minimalist": [
+      "minimalist"
+    ],
+    "electric folk": [
+      "folk"
+    ],
+    "brazilian mpb folk indie": [
+      "mpb",
+      "folk",
+      "indie",
+      "rock"
+    ],
+    "turkish psych": [
+      "psychedelic",
+      "pop"
+    ],
+    "balkan music": [
+      "balkan"
+    ],
+    "slavic folk music": [
+      "folk"
+    ],
+    "orgel": [
+      "organ"
+    ],
+    "farofa": [
+      "farofa",
+      "Brazilian music"
+    ],
+    "wyzyj pop": [
+      "pop"
+    ],
+    "robot-disco": [
+      "robot disco",
+      "house"
+    ],
+    "aussie skulduggery": [
+      "skulduggery",
+      "hip hop"
+    ],
+    "kayoukyoku": [
+      "enka",
+      "folk"
+    ],
+    "soulriddim": [
+      "soul riddim",
+      "soul"
+    ],
+    "rootsriddim": [
+      "roots riddim",
+      "riddim"
+    ],
+    "go go dance": [
+      "go-go",
+      "dance",
+      "funk",
+      "electronic"
+    ],
+    "post grunge": [
+      "grunge",
+      "rock"
+    ],
+    "90s rock": [
+      "rock"
+    ],
+    "afrofunk": [
+      "afrobeat",
+      "funk",
+      "hip hop"
+    ],
+    "cybergrind": [
+      "cybergrind",
+      "metal"
+    ],
+    "contemporary vocal jazz": [
+      "vocal jazz",
+      "jazz"
+    ],
+    "phonk": [
+      "phonk",
+      "electronic"
+    ],
+    "baggy": [
+      "baggy",
+      "hip hop"
+    ],
+    "baggy / madchester": [
+      "madchester",
+      "rock"
+    ],
+    "trap soul": [
+      "soul"
+    ],
+    "acordes geniales": [
+      "acordes",
+      "classical"
+    ],
+    "rumba catalana": [
+      "rumba",
+      "latin"
+    ],
+    "countrypolitan": [
+      "countrypolitan",
+      "country"
+    ],
+    "whispering bells": [
+      "bells",
+      "classical"
+    ]
+  }
+}
