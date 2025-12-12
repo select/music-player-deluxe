@@ -1,0 +1,2471 @@
+[
+  {
+    "genre": "rock",
+    "totalCount": 5801,
+    "subgenres": [
+      {
+        "name": "alternative rock",
+        "totalCount": 1287
+      },
+      {
+        "name": "indie",
+        "totalCount": 474
+      },
+      {
+        "name": "progressive rock",
+        "totalCount": 356
+      },
+      {
+        "name": "psychedelic rock",
+        "totalCount": 172
+      },
+      {
+        "name": "grunge",
+        "totalCount": 90
+      },
+      {
+        "name": "glam rock",
+        "totalCount": 64
+      },
+      {
+        "name": "rock and roll",
+        "totalCount": 62
+      },
+      {
+        "name": "post-rock",
+        "totalCount": 50
+      },
+      {
+        "name": "gothic",
+        "totalCount": 36
+      },
+      {
+        "name": "adult oriented rock",
+        "totalCount": 35
+      },
+      {
+        "name": "shoegaze",
+        "totalCount": 32
+      },
+      {
+        "name": "boogie rock",
+        "totalCount": 32
+      },
+      {
+        "name": "surf",
+        "totalCount": 29
+      },
+      {
+        "name": "garage rock",
+        "totalCount": 25
+      },
+      {
+        "name": "math rock",
+        "totalCount": 20
+      },
+      {
+        "name": "deutschrock",
+        "totalCount": 14
+      },
+      {
+        "name": "rockabilly",
+        "totalCount": 12
+      },
+      {
+        "name": "merseybeat",
+        "totalCount": 11
+      },
+      {
+        "name": "indie rock",
+        "totalCount": 9
+      },
+      {
+        "name": "dance rock",
+        "totalCount": 7
+      },
+      {
+        "name": "slowcore",
+        "totalCount": 6
+      },
+      {
+        "name": "j-rock",
+        "totalCount": 6
+      },
+      {
+        "name": "classic rock",
+        "totalCount": 5
+      },
+      {
+        "name": "emocore",
+        "totalCount": 5
+      },
+      {
+        "name": "madchester",
+        "totalCount": 5
+      },
+      {
+        "name": "freakbeat",
+        "totalCount": 3
+      },
+      {
+        "name": "traditional rock",
+        "totalCount": 3
+      },
+      {
+        "name": "psychobilly",
+        "totalCount": 2
+      },
+      {
+        "name": "cowpunk",
+        "totalCount": 2
+      },
+      {
+        "name": "blues rock",
+        "totalCount": 2
+      },
+      {
+        "name": "gothic rock",
+        "totalCount": 1
+      },
+      {
+        "name": "let it roll",
+        "totalCount": 1
+      },
+      {
+        "name": "funk rock",
+        "totalCount": 1
+      },
+      {
+        "name": "woodstock",
+        "totalCount": 1
+      },
+      {
+        "name": "hard rock",
+        "totalCount": 1
+      },
+      {
+        "name": "anthems",
+        "totalCount": 1
+      },
+      {
+        "name": "visual kei",
+        "totalCount": 1
+      },
+      {
+        "name": "jams",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "pop",
+    "totalCount": 1976,
+    "subgenres": [
+      {
+        "name": "new wave",
+        "totalCount": 221
+      },
+      {
+        "name": "psychedelic",
+        "totalCount": 213
+      },
+      {
+        "name": "synth pop",
+        "totalCount": 159
+      },
+      {
+        "name": "electropop",
+        "totalCount": 81
+      },
+      {
+        "name": "power pop",
+        "totalCount": 73
+      },
+      {
+        "name": "dance-pop",
+        "totalCount": 67
+      },
+      {
+        "name": "emo",
+        "totalCount": 66
+      },
+      {
+        "name": "dream pop",
+        "totalCount": 61
+      },
+      {
+        "name": "britpop",
+        "totalCount": 39
+      },
+      {
+        "name": "oldies",
+        "totalCount": 31
+      },
+      {
+        "name": "ballad",
+        "totalCount": 29
+      },
+      {
+        "name": "sophisti-pop",
+        "totalCount": 19
+      },
+      {
+        "name": "popmusik",
+        "totalCount": 18
+      },
+      {
+        "name": "pop and rock",
+        "totalCount": 14
+      },
+      {
+        "name": "electronic pop",
+        "totalCount": 14
+      },
+      {
+        "name": "post-Britpop",
+        "totalCount": 13
+      },
+      {
+        "name": "bubblegum pop",
+        "totalCount": 12
+      },
+      {
+        "name": "europop",
+        "totalCount": 10
+      },
+      {
+        "name": "romantic",
+        "totalCount": 10
+      },
+      {
+        "name": "doo-wop",
+        "totalCount": 8
+      },
+      {
+        "name": "austropop",
+        "totalCount": 7
+      },
+      {
+        "name": "j-pop",
+        "totalCount": 7
+      },
+      {
+        "name": "pop rock",
+        "totalCount": 7
+      },
+      {
+        "name": "2 tone",
+        "totalCount": 5
+      },
+      {
+        "name": "mod",
+        "totalCount": 5
+      },
+      {
+        "name": "doo wop",
+        "totalCount": 4
+      },
+      {
+        "name": "alternative pop",
+        "totalCount": 4
+      },
+      {
+        "name": "yacht rock",
+        "totalCount": 4
+      },
+      {
+        "name": "cantautore",
+        "totalCount": 1
+      },
+      {
+        "name": "two-tone",
+        "totalCount": 1
+      },
+      {
+        "name": "cantopop",
+        "totalCount": 1
+      },
+      {
+        "name": "chinese pop",
+        "totalCount": 1
+      },
+      {
+        "name": "yé-yé",
+        "totalCount": 1
+      },
+      {
+        "name": "indie pop",
+        "totalCount": 1
+      },
+      {
+        "name": "vocal harmony",
+        "totalCount": 1
+      },
+      {
+        "name": "evita",
+        "totalCount": 1
+      },
+      {
+        "name": "shake",
+        "totalCount": 1
+      },
+      {
+        "name": "female vocalists",
+        "totalCount": 1
+      },
+      {
+        "name": "girl groups",
+        "totalCount": 1
+      },
+      {
+        "name": "ostschlager",
+        "totalCount": 1
+      },
+      {
+        "name": "superpop",
+        "totalCount": 1
+      },
+      {
+        "name": "bitpop",
+        "totalCount": 1
+      },
+      {
+        "name": "cutugno",
+        "totalCount": 1
+      },
+      {
+        "name": "clowncore",
+        "totalCount": 1
+      },
+      {
+        "name": "flashdance",
+        "totalCount": 1
+      },
+      {
+        "name": "tropicalia",
+        "totalCount": 1
+      },
+      {
+        "name": "tropicália",
+        "totalCount": 1
+      },
+      {
+        "name": "futurepop",
+        "totalCount": 1
+      },
+      {
+        "name": "twee",
+        "totalCount": 1
+      },
+      {
+        "name": "love",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "electronic",
+    "totalCount": 1103,
+    "subgenres": [
+      {
+        "name": "ambient",
+        "totalCount": 297
+      },
+      {
+        "name": "dance",
+        "totalCount": 266
+      },
+      {
+        "name": "drum & bass",
+        "totalCount": 251
+      },
+      {
+        "name": "downtempo",
+        "totalCount": 173
+      },
+      {
+        "name": "dubstep",
+        "totalCount": 154
+      },
+      {
+        "name": "dub",
+        "totalCount": 142
+      },
+      {
+        "name": "chillout",
+        "totalCount": 102
+      },
+      {
+        "name": "trip hop",
+        "totalCount": 94
+      },
+      {
+        "name": "avant-garde",
+        "totalCount": 91
+      },
+      {
+        "name": "breakbeat",
+        "totalCount": 85
+      },
+      {
+        "name": "swing",
+        "totalCount": 75
+      },
+      {
+        "name": "drum and bass",
+        "totalCount": 69
+      },
+      {
+        "name": "indietronica",
+        "totalCount": 67
+      },
+      {
+        "name": "industrial",
+        "totalCount": 66
+      },
+      {
+        "name": "trance",
+        "totalCount": 59
+      },
+      {
+        "name": "electronic dance music",
+        "totalCount": 51
+      },
+      {
+        "name": "big beat",
+        "totalCount": 45
+      },
+      {
+        "name": "krautrock",
+        "totalCount": 38
+      },
+      {
+        "name": "lounge",
+        "totalCount": 37
+      },
+      {
+        "name": "neurofunk",
+        "totalCount": 33
+      },
+      {
+        "name": "electroclash",
+        "totalCount": 31
+      },
+      {
+        "name": "wave",
+        "totalCount": 27
+      },
+      {
+        "name": "synthwave",
+        "totalCount": 18
+      },
+      {
+        "name": "breakcore",
+        "totalCount": 17
+      },
+      {
+        "name": "chillwave",
+        "totalCount": 12
+      },
+      {
+        "name": "electronic body music",
+        "totalCount": 11
+      },
+      {
+        "name": "crankwave",
+        "totalCount": 9
+      },
+      {
+        "name": "brostep",
+        "totalCount": 8
+      },
+      {
+        "name": "future bass",
+        "totalCount": 8
+      },
+      {
+        "name": "psytrance",
+        "totalCount": 8
+      },
+      {
+        "name": "minimal wave",
+        "totalCount": 8
+      },
+      {
+        "name": "neue deutsche härte",
+        "totalCount": 8
+      },
+      {
+        "name": "bass",
+        "totalCount": 8
+      },
+      {
+        "name": "vaporwave",
+        "totalCount": 8
+      },
+      {
+        "name": "tribal",
+        "totalCount": 7
+      },
+      {
+        "name": "mashup",
+        "totalCount": 7
+      },
+      {
+        "name": "post-industrial",
+        "totalCount": 6
+      },
+      {
+        "name": "beat music",
+        "totalCount": 5
+      },
+      {
+        "name": "darksynth",
+        "totalCount": 4
+      },
+      {
+        "name": "hardbass",
+        "totalCount": 3
+      },
+      {
+        "name": "hauntology",
+        "totalCount": 3
+      },
+      {
+        "name": "chillstep",
+        "totalCount": 3
+      },
+      {
+        "name": "score",
+        "totalCount": 3
+      },
+      {
+        "name": "musique concrète",
+        "totalCount": 3
+      },
+      {
+        "name": "chillsynth",
+        "totalCount": 3
+      },
+      {
+        "name": "gabberpop",
+        "totalCount": 2
+      },
+      {
+        "name": "chill",
+        "totalCount": 2
+      },
+      {
+        "name": "rai",
+        "totalCount": 2
+      },
+      {
+        "name": "laico",
+        "totalCount": 2
+      },
+      {
+        "name": "broken beat",
+        "totalCount": 2
+      },
+      {
+        "name": "filmi",
+        "totalCount": 2
+      },
+      {
+        "name": "video game music",
+        "totalCount": 2
+      },
+      {
+        "name": "exotica",
+        "totalCount": 2
+      },
+      {
+        "name": "hyperdub",
+        "totalCount": 2
+      },
+      {
+        "name": "electroswing",
+        "totalCount": 2
+      },
+      {
+        "name": "post-neo",
+        "totalCount": 1
+      },
+      {
+        "name": "kraftwerk",
+        "totalCount": 1
+      },
+      {
+        "name": "queercore",
+        "totalCount": 1
+      },
+      {
+        "name": "motorik",
+        "totalCount": 1
+      },
+      {
+        "name": "blitzmash",
+        "totalCount": 1
+      },
+      {
+        "name": "cardio wave",
+        "totalCount": 1
+      },
+      {
+        "name": "zouk",
+        "totalCount": 1
+      },
+      {
+        "name": "aggrotech",
+        "totalCount": 1
+      },
+      {
+        "name": "bayesian",
+        "totalCount": 1
+      },
+      {
+        "name": "kosmische",
+        "totalCount": 1
+      },
+      {
+        "name": "mozambique",
+        "totalCount": 1
+      },
+      {
+        "name": "demoscene",
+        "totalCount": 1
+      },
+      {
+        "name": "av",
+        "totalCount": 1
+      },
+      {
+        "name": "synthpunk",
+        "totalCount": 1
+      },
+      {
+        "name": "tendencies",
+        "totalCount": 1
+      },
+      {
+        "name": "blankcore",
+        "totalCount": 1
+      },
+      {
+        "name": "cyberpunk",
+        "totalCount": 1
+      },
+      {
+        "name": "kiche",
+        "totalCount": 1
+      },
+      {
+        "name": "indietronics",
+        "totalCount": 1
+      },
+      {
+        "name": "beats",
+        "totalCount": 1
+      },
+      {
+        "name": "sadcore",
+        "totalCount": 1
+      },
+      {
+        "name": "grind",
+        "totalCount": 1
+      },
+      {
+        "name": "neuropunk",
+        "totalCount": 1
+      },
+      {
+        "name": "speedcore",
+        "totalCount": 1
+      },
+      {
+        "name": "underground",
+        "totalCount": 1
+      },
+      {
+        "name": "songs",
+        "totalCount": 1
+      },
+      {
+        "name": "krishnacore",
+        "totalCount": 1
+      },
+      {
+        "name": "garbux",
+        "totalCount": 1
+      },
+      {
+        "name": "electronic music",
+        "totalCount": 1
+      },
+      {
+        "name": "phonk",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "jazz",
+    "totalCount": 993,
+    "subgenres": [
+      {
+        "name": "fusion",
+        "totalCount": 170
+      },
+      {
+        "name": "acid jazz",
+        "totalCount": 43
+      },
+      {
+        "name": "hard bop",
+        "totalCount": 35
+      },
+      {
+        "name": "post-bop",
+        "totalCount": 31
+      },
+      {
+        "name": "free jazz",
+        "totalCount": 22
+      },
+      {
+        "name": "bossa nova",
+        "totalCount": 12
+      },
+      {
+        "name": "bebop",
+        "totalCount": 11
+      },
+      {
+        "name": "improvisation",
+        "totalCount": 5
+      },
+      {
+        "name": "downbeat",
+        "totalCount": 3
+      },
+      {
+        "name": "nu jazz",
+        "totalCount": 2
+      },
+      {
+        "name": "marabi",
+        "totalCount": 2
+      },
+      {
+        "name": "noir",
+        "totalCount": 1
+      },
+      {
+        "name": "bop",
+        "totalCount": 1
+      },
+      {
+        "name": "reis",
+        "totalCount": 1
+      },
+      {
+        "name": "dixieland",
+        "totalCount": 1
+      },
+      {
+        "name": "harp",
+        "totalCount": 1
+      },
+      {
+        "name": "improv",
+        "totalCount": 1
+      },
+      {
+        "name": "latin music",
+        "totalCount": 1
+      },
+      {
+        "name": "third stream",
+        "totalCount": 1
+      },
+      {
+        "name": "vocal jazz",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "metal",
+    "totalCount": 788,
+    "subgenres": [
+      {
+        "name": "heavy metal",
+        "totalCount": 161
+      },
+      {
+        "name": "stoner rock",
+        "totalCount": 98
+      },
+      {
+        "name": "progressive metal",
+        "totalCount": 93
+      },
+      {
+        "name": "death metal",
+        "totalCount": 63
+      },
+      {
+        "name": "thrash metal",
+        "totalCount": 62
+      },
+      {
+        "name": "post-hardcore",
+        "totalCount": 41
+      },
+      {
+        "name": "power metal",
+        "totalCount": 32
+      },
+      {
+        "name": "core",
+        "totalCount": 31
+      },
+      {
+        "name": "symphonic metal",
+        "totalCount": 27
+      },
+      {
+        "name": "doom metal",
+        "totalCount": 17
+      },
+      {
+        "name": "black metal",
+        "totalCount": 16
+      },
+      {
+        "name": "groove metal",
+        "totalCount": 15
+      },
+      {
+        "name": "sludge metal",
+        "totalCount": 13
+      },
+      {
+        "name": "screamo",
+        "totalCount": 11
+      },
+      {
+        "name": "post-metal",
+        "totalCount": 9
+      },
+      {
+        "name": "electronicore",
+        "totalCount": 6
+      },
+      {
+        "name": "sludge",
+        "totalCount": 5
+      },
+      {
+        "name": "doom",
+        "totalCount": 5
+      },
+      {
+        "name": "metalcore",
+        "totalCount": 4
+      },
+      {
+        "name": "death doom",
+        "totalCount": 3
+      },
+      {
+        "name": "war metal",
+        "totalCount": 3
+      },
+      {
+        "name": "djent",
+        "totalCount": 2
+      },
+      {
+        "name": "noisecore",
+        "totalCount": 2
+      },
+      {
+        "name": "deathcore",
+        "totalCount": 2
+      },
+      {
+        "name": "new wave of british heavy metal",
+        "totalCount": 2
+      },
+      {
+        "name": "pirate metal",
+        "totalCount": 2
+      },
+      {
+        "name": "death doom metal",
+        "totalCount": 1
+      },
+      {
+        "name": "mathcore",
+        "totalCount": 1
+      },
+      {
+        "name": "goregrind",
+        "totalCount": 1
+      },
+      {
+        "name": "pagan metal",
+        "totalCount": 1
+      },
+      {
+        "name": "beatdown",
+        "totalCount": 1
+      },
+      {
+        "name": "nu metal",
+        "totalCount": 1
+      },
+      {
+        "name": "brutal death metal",
+        "totalCount": 1
+      },
+      {
+        "name": "swancore",
+        "totalCount": 1
+      },
+      {
+        "name": "cybergrind",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "hip hop",
+    "totalCount": 775,
+    "subgenres": [
+      {
+        "name": "trap",
+        "totalCount": 49
+      },
+      {
+        "name": "trip-hop",
+        "totalCount": 42
+      },
+      {
+        "name": "gangsta rap",
+        "totalCount": 31
+      },
+      {
+        "name": "grime",
+        "totalCount": 27
+      },
+      {
+        "name": "boom bap",
+        "totalCount": 23
+      },
+      {
+        "name": "afrobeat",
+        "totalCount": 21
+      },
+      {
+        "name": "rapcore",
+        "totalCount": 17
+      },
+      {
+        "name": "ragga",
+        "totalCount": 16
+      },
+      {
+        "name": "beat poetry",
+        "totalCount": 10
+      },
+      {
+        "name": "reggaeton",
+        "totalCount": 10
+      },
+      {
+        "name": "southern hip hop",
+        "totalCount": 7
+      },
+      {
+        "name": "drill and bass",
+        "totalCount": 5
+      },
+      {
+        "name": "new jack swing",
+        "totalCount": 4
+      },
+      {
+        "name": "g funk",
+        "totalCount": 3
+      },
+      {
+        "name": "crunk",
+        "totalCount": 3
+      },
+      {
+        "name": "nerdcore",
+        "totalCount": 3
+      },
+      {
+        "name": "beatbox",
+        "totalCount": 3
+      },
+      {
+        "name": "beatboxing",
+        "totalCount": 3
+      },
+      {
+        "name": "j-urban",
+        "totalCount": 3
+      },
+      {
+        "name": "freestyle",
+        "totalCount": 2
+      },
+      {
+        "name": "corrido tumbado",
+        "totalCount": 1
+      },
+      {
+        "name": "horrorcore",
+        "totalCount": 1
+      },
+      {
+        "name": "afrofuturism",
+        "totalCount": 1
+      },
+      {
+        "name": "neoperreo",
+        "totalCount": 1
+      },
+      {
+        "name": "narcocorrido",
+        "totalCount": 1
+      },
+      {
+        "name": "slam poetry",
+        "totalCount": 1
+      },
+      {
+        "name": "gangstar rap",
+        "totalCount": 1
+      },
+      {
+        "name": "alternative rap",
+        "totalCount": 1
+      },
+      {
+        "name": "gopnik",
+        "totalCount": 1
+      },
+      {
+        "name": "scrubs",
+        "totalCount": 1
+      },
+      {
+        "name": "glitch hop",
+        "totalCount": 1
+      },
+      {
+        "name": "sleng teng",
+        "totalCount": 1
+      },
+      {
+        "name": "skulduggery",
+        "totalCount": 1
+      },
+      {
+        "name": "baggy",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "folk",
+    "totalCount": 636,
+    "subgenres": [
+      {
+        "name": "liedermacher",
+        "totalCount": 42
+      },
+      {
+        "name": "chanson",
+        "totalCount": 33
+      },
+      {
+        "name": "band",
+        "totalCount": 22
+      },
+      {
+        "name": "folktronica",
+        "totalCount": 18
+      },
+      {
+        "name": "worldbeat",
+        "totalCount": 11
+      },
+      {
+        "name": "mpb",
+        "totalCount": 10
+      },
+      {
+        "name": "neofolk",
+        "totalCount": 9
+      },
+      {
+        "name": "gypsy music",
+        "totalCount": 8
+      },
+      {
+        "name": "new traditionalism",
+        "totalCount": 4
+      },
+      {
+        "name": "anti-folk",
+        "totalCount": 4
+      },
+      {
+        "name": "chanson à texte",
+        "totalCount": 3
+      },
+      {
+        "name": "ethno",
+        "totalCount": 2
+      },
+      {
+        "name": "guitar",
+        "totalCount": 2
+      },
+      {
+        "name": "throat singing",
+        "totalCount": 2
+      },
+      {
+        "name": "old time",
+        "totalCount": 2
+      },
+      {
+        "name": "liedermachen",
+        "totalCount": 2
+      },
+      {
+        "name": "nueva trova",
+        "totalCount": 2
+      },
+      {
+        "name": "volksmusik",
+        "totalCount": 2
+      },
+      {
+        "name": "muzika",
+        "totalCount": 1
+      },
+      {
+        "name": "sierreno",
+        "totalCount": 1
+      },
+      {
+        "name": "hippie",
+        "totalCount": 1
+      },
+      {
+        "name": "stomp and holler",
+        "totalCount": 1
+      },
+      {
+        "name": "linedance",
+        "totalCount": 1
+      },
+      {
+        "name": "bardcore",
+        "totalCount": 1
+      },
+      {
+        "name": "tune",
+        "totalCount": 1
+      },
+      {
+        "name": "quebecois",
+        "totalCount": 1
+      },
+      {
+        "name": "chanson québécoise",
+        "totalCount": 1
+      },
+      {
+        "name": "folk music",
+        "totalCount": 1
+      },
+      {
+        "name": "folk romance",
+        "totalCount": 1
+      },
+      {
+        "name": "antifolk",
+        "totalCount": 1
+      },
+      {
+        "name": "balkanisme",
+        "totalCount": 1
+      },
+      {
+        "name": "enka",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "blues",
+    "totalCount": 528,
+    "subgenres": [
+      {
+        "name": "juke",
+        "totalCount": 7
+      },
+      {
+        "name": "roll",
+        "totalCount": 2
+      },
+      {
+        "name": "delta blues",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "punk",
+    "totalCount": 525,
+    "subgenres": [
+      {
+        "name": "post-punk",
+        "totalCount": 124
+      },
+      {
+        "name": "dance-punk",
+        "totalCount": 17
+      },
+      {
+        "name": "electropunk",
+        "totalCount": 11
+      },
+      {
+        "name": "no wave",
+        "totalCount": 8
+      },
+      {
+        "name": "protopunk",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "soul",
+    "totalCount": 448,
+    "subgenres": [
+      {
+        "name": "motown",
+        "totalCount": 23
+      },
+      {
+        "name": "neo-soul",
+        "totalCount": 4
+      },
+      {
+        "name": "street soul",
+        "totalCount": 4
+      },
+      {
+        "name": "soulchild",
+        "totalCount": 1
+      },
+      {
+        "name": "northern soul",
+        "totalCount": 1
+      },
+      {
+        "name": "soul riddim",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "funk",
+    "totalCount": 379,
+    "subgenres": [
+      {
+        "name": "synth funk",
+        "totalCount": 10
+      },
+      {
+        "name": "funktronica",
+        "totalCount": 7
+      },
+      {
+        "name": "microfunk",
+        "totalCount": 5
+      },
+      {
+        "name": "boogaloo",
+        "totalCount": 3
+      },
+      {
+        "name": "j-funk",
+        "totalCount": 1
+      },
+      {
+        "name": "marrabenta",
+        "totalCount": 1
+      },
+      {
+        "name": "electro funk",
+        "totalCount": 1
+      },
+      {
+        "name": "liquid funk",
+        "totalCount": 1
+      },
+      {
+        "name": "groove",
+        "totalCount": 1
+      },
+      {
+        "name": "go-go",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "rap",
+    "totalCount": 353,
+    "subgenres": []
+  },
+  {
+    "genre": "house",
+    "totalCount": 342,
+    "subgenres": [
+      {
+        "name": "electro",
+        "totalCount": 199
+      },
+      {
+        "name": "disco",
+        "totalCount": 134
+      },
+      {
+        "name": "garage",
+        "totalCount": 125
+      },
+      {
+        "name": "intelligent dance music",
+        "totalCount": 91
+      },
+      {
+        "name": "jungle",
+        "totalCount": 63
+      },
+      {
+        "name": "minimal",
+        "totalCount": 57
+      },
+      {
+        "name": "deep house",
+        "totalCount": 43
+      },
+      {
+        "name": "progressive house",
+        "totalCount": 40
+      },
+      {
+        "name": "rave",
+        "totalCount": 37
+      },
+      {
+        "name": "italo disco",
+        "totalCount": 10
+      },
+      {
+        "name": "acid house",
+        "totalCount": 9
+      },
+      {
+        "name": "eurodance",
+        "totalCount": 8
+      },
+      {
+        "name": "complextro",
+        "totalCount": 7
+      },
+      {
+        "name": "nu-skool",
+        "totalCount": 3
+      },
+      {
+        "name": "mumbahton",
+        "totalCount": 3
+      },
+      {
+        "name": "nu-disco",
+        "totalCount": 2
+      },
+      {
+        "name": "balearic",
+        "totalCount": 2
+      },
+      {
+        "name": "slap house",
+        "totalCount": 2
+      },
+      {
+        "name": "mzansi",
+        "totalCount": 1
+      },
+      {
+        "name": "2step",
+        "totalCount": 1
+      },
+      {
+        "name": "ghettotech",
+        "totalCount": 1
+      },
+      {
+        "name": "g-house",
+        "totalCount": 1
+      },
+      {
+        "name": "amapiano",
+        "totalCount": 1
+      },
+      {
+        "name": "bounce music",
+        "totalCount": 1
+      },
+      {
+        "name": "goa",
+        "totalCount": 1
+      },
+      {
+        "name": "ed banger",
+        "totalCount": 1
+      },
+      {
+        "name": "dubwise",
+        "totalCount": 1
+      },
+      {
+        "name": "touch music",
+        "totalCount": 1
+      },
+      {
+        "name": "africain-francais",
+        "totalCount": 1
+      },
+      {
+        "name": "darkpsy",
+        "totalCount": 1
+      },
+      {
+        "name": "robot disco",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "techno",
+    "totalCount": 278,
+    "subgenres": [
+      {
+        "name": "hardcore",
+        "totalCount": 98
+      },
+      {
+        "name": "breaks",
+        "totalCount": 42
+      },
+      {
+        "name": "step",
+        "totalCount": 15
+      },
+      {
+        "name": "footwork",
+        "totalCount": 14
+      },
+      {
+        "name": "2-step",
+        "totalCount": 4
+      },
+      {
+        "name": "hardtek",
+        "totalCount": 2
+      },
+      {
+        "name": "filthstep",
+        "totalCount": 2
+      },
+      {
+        "name": "deepstep",
+        "totalCount": 1
+      },
+      {
+        "name": "glitchstep",
+        "totalCount": 1
+      },
+      {
+        "name": "hardstyle",
+        "totalCount": 1
+      },
+      {
+        "name": "skullstep",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "reggae",
+    "totalCount": 242,
+    "subgenres": [
+      {
+        "name": "ska",
+        "totalCount": 74
+      },
+      {
+        "name": "dancehall",
+        "totalCount": 58
+      },
+      {
+        "name": "rocksteady",
+        "totalCount": 8
+      },
+      {
+        "name": "soca",
+        "totalCount": 2
+      },
+      {
+        "name": "raggamuffin",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "experimental",
+    "totalCount": 241,
+    "subgenres": [
+      {
+        "name": "weird music",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "r&b",
+    "totalCount": 201,
+    "subgenres": []
+  },
+  {
+    "genre": "electronica",
+    "totalCount": 197,
+    "subgenres": []
+  },
+  {
+    "genre": "classical",
+    "totalCount": 165,
+    "subgenres": [
+      {
+        "name": "neoclassical",
+        "totalCount": 12
+      },
+      {
+        "name": "crossover",
+        "totalCount": 8
+      },
+      {
+        "name": "soundtracks and musicals",
+        "totalCount": 2
+      },
+      {
+        "name": "cantata",
+        "totalCount": 2
+      },
+      {
+        "name": "taizé",
+        "totalCount": 1
+      },
+      {
+        "name": "neomedieval",
+        "totalCount": 1
+      },
+      {
+        "name": "symphonic",
+        "totalCount": 1
+      },
+      {
+        "name": "string quartet",
+        "totalCount": 1
+      },
+      {
+        "name": "neo-classical",
+        "totalCount": 1
+      },
+      {
+        "name": "lieder",
+        "totalCount": 1
+      },
+      {
+        "name": "part",
+        "totalCount": 1
+      },
+      {
+        "name": "acordes",
+        "totalCount": 1
+      },
+      {
+        "name": "bells",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "singer-songwriter",
+    "totalCount": 129,
+    "subgenres": [
+      {
+        "name": "female singer-songwriter",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "country",
+    "totalCount": 128,
+    "subgenres": [
+      {
+        "name": "alt country",
+        "totalCount": 13
+      },
+      {
+        "name": "honky tonk",
+        "totalCount": 1
+      },
+      {
+        "name": "countrypolitan",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "acoustic",
+    "totalCount": 65,
+    "subgenres": [
+      {
+        "name": "fingerstyle",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "americana",
+    "totalCount": 56,
+    "subgenres": []
+  },
+  {
+    "genre": "latin",
+    "totalCount": 53,
+    "subgenres": [
+      {
+        "name": "salsa",
+        "totalCount": 9
+      },
+      {
+        "name": "cumbia",
+        "totalCount": 6
+      },
+      {
+        "name": "rumba",
+        "totalCount": 4
+      },
+      {
+        "name": "bolero",
+        "totalCount": 2
+      },
+      {
+        "name": "boleros",
+        "totalCount": 2
+      },
+      {
+        "name": "pachanga",
+        "totalCount": 1
+      },
+      {
+        "name": "cuban",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "gospel",
+    "totalCount": 36,
+    "subgenres": [
+      {
+        "name": "praise & worship",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "schlager",
+    "totalCount": 30,
+    "subgenres": []
+  },
+  {
+    "genre": "easy listening",
+    "totalCount": 28,
+    "subgenres": []
+  },
+  {
+    "genre": "big band",
+    "totalCount": 25,
+    "subgenres": []
+  },
+  {
+    "genre": "music",
+    "totalCount": 22,
+    "subgenres": [
+      {
+        "name": "cabaret",
+        "totalCount": 35
+      },
+      {
+        "name": "comedy",
+        "totalCount": 4
+      },
+      {
+        "name": "doujin",
+        "totalCount": 1
+      },
+      {
+        "name": "rhythm",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "bluegrass",
+    "totalCount": 21,
+    "subgenres": []
+  },
+  {
+    "genre": "opera",
+    "totalCount": 20,
+    "subgenres": []
+  },
+  {
+    "genre": "orchestral",
+    "totalCount": 16,
+    "subgenres": []
+  },
+  {
+    "genre": "baroque",
+    "totalCount": 15,
+    "subgenres": []
+  },
+  {
+    "genre": "rhythm & blues",
+    "totalCount": 14,
+    "subgenres": []
+  },
+  {
+    "genre": "celtic",
+    "totalCount": 13,
+    "subgenres": []
+  },
+  {
+    "genre": "rhythm and blues",
+    "totalCount": 12,
+    "subgenres": []
+  },
+  {
+    "genre": "balkan",
+    "totalCount": 12,
+    "subgenres": []
+  },
+  {
+    "genre": "a cappella",
+    "totalCount": 12,
+    "subgenres": []
+  },
+  {
+    "genre": "old school",
+    "totalCount": 11,
+    "subgenres": []
+  },
+  {
+    "genre": "christmas music",
+    "totalCount": 10,
+    "subgenres": []
+  },
+  {
+    "genre": "medieval",
+    "totalCount": 9,
+    "subgenres": []
+  },
+  {
+    "genre": "neoclassicism",
+    "totalCount": 7,
+    "subgenres": []
+  },
+  {
+    "genre": "adult contemporary",
+    "totalCount": 7,
+    "subgenres": []
+  },
+  {
+    "genre": "k-pop",
+    "totalCount": 7,
+    "subgenres": []
+  },
+  {
+    "genre": "musical",
+    "totalCount": 6,
+    "subgenres": []
+  },
+  {
+    "genre": "christian",
+    "totalCount": 6,
+    "subgenres": []
+  },
+  {
+    "genre": "irish",
+    "totalCount": 5,
+    "subgenres": []
+  },
+  {
+    "genre": "choral",
+    "totalCount": 5,
+    "subgenres": []
+  },
+  {
+    "genre": "minimalism",
+    "totalCount": 5,
+    "subgenres": [
+      {
+        "name": "post-minimalism",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "concerto",
+    "totalCount": 5,
+    "subgenres": []
+  },
+  {
+    "genre": "calypso",
+    "totalCount": 5,
+    "subgenres": []
+  },
+  {
+    "genre": "singer/songwriter",
+    "totalCount": 5,
+    "subgenres": []
+  },
+  {
+    "genre": "klezmer",
+    "totalCount": 5,
+    "subgenres": []
+  },
+  {
+    "genre": "highlife",
+    "totalCount": 4,
+    "subgenres": []
+  },
+  {
+    "genre": "banjo",
+    "totalCount": 4,
+    "subgenres": []
+  },
+  {
+    "genre": "roots",
+    "totalCount": 3,
+    "subgenres": []
+  },
+  {
+    "genre": "sitar",
+    "totalCount": 3,
+    "subgenres": []
+  },
+  {
+    "genre": "mariachi",
+    "totalCount": 3,
+    "subgenres": []
+  },
+  {
+    "genre": "tango",
+    "totalCount": 3,
+    "subgenres": [
+      {
+        "name": "electrotango",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "traditional",
+    "totalCount": 3,
+    "subgenres": []
+  },
+  {
+    "genre": "qawwali",
+    "totalCount": 3,
+    "subgenres": []
+  },
+  {
+    "genre": "waltz",
+    "totalCount": 3,
+    "subgenres": []
+  },
+  {
+    "genre": "orchestra",
+    "totalCount": 3,
+    "subgenres": []
+  },
+  {
+    "genre": "rasta",
+    "totalCount": 2,
+    "subgenres": []
+  },
+  {
+    "genre": "polka",
+    "totalCount": 2,
+    "subgenres": []
+  },
+  {
+    "genre": "ghazal",
+    "totalCount": 2,
+    "subgenres": []
+  },
+  {
+    "genre": "bellydance",
+    "totalCount": 2,
+    "subgenres": []
+  },
+  {
+    "genre": "choir",
+    "totalCount": 2,
+    "subgenres": []
+  },
+  {
+    "genre": "kpop",
+    "totalCount": 2,
+    "subgenres": []
+  },
+  {
+    "genre": "oud",
+    "totalCount": 2,
+    "subgenres": []
+  },
+  {
+    "genre": "canzone napoletana",
+    "totalCount": 2,
+    "subgenres": []
+  },
+  {
+    "genre": "childrens songs",
+    "totalCount": 2,
+    "subgenres": []
+  },
+  {
+    "genre": "bagpipe",
+    "totalCount": 2,
+    "subgenres": []
+  },
+  {
+    "genre": "ballet",
+    "totalCount": 2,
+    "subgenres": []
+  },
+  {
+    "genre": "corridos",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "regional mexicano",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "fantasy",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "carmina burana",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "gamelan",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "soprano",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "drums",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "carnatic",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "standards",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "accordion",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "forro",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "musical theatre",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "kora",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "popwave",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "grieg",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "arbeiterlied",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "fiddle",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "contemporary",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "bhangra",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "dabke",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "gnawa",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "shamisen",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "neapolitan",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "ballade",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "steampunk",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "ukulele",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "hawaiian",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "crooners",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "bagpipes",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "chaabi",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "tabla",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "cowboy",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "bollywood",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "minimalist",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "organ",
+    "totalCount": 1,
+    "subgenres": []
+  },
+  {
+    "genre": "grunge",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "post-grunge",
+        "totalCount": 94
+      }
+    ]
+  },
+  {
+    "genre": "psychedelia",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "neo-psychedelia",
+        "totalCount": 72
+      }
+    ]
+  },
+  {
+    "genre": "ambient",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "new age",
+        "totalCount": 42
+      },
+      {
+        "name": "drone",
+        "totalCount": 14
+      },
+      {
+        "name": "storm",
+        "totalCount": 11
+      },
+      {
+        "name": "psybient",
+        "totalCount": 3
+      },
+      {
+        "name": "dave wave",
+        "totalCount": 1
+      },
+      {
+        "name": "whale music",
+        "totalCount": 1
+      },
+      {
+        "name": "wind",
+        "totalCount": 1
+      },
+      {
+        "name": "klimat",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "dark wave",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "neoclassical dark wave",
+        "totalCount": 21
+      },
+      {
+        "name": "neoclassical dark wave",
+        "totalCount": 21
+      }
+    ]
+  },
+  {
+    "genre": "spanish",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "flamenco",
+        "totalCount": 12
+      }
+    ]
+  },
+  {
+    "genre": "progressive metal",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "neo-progressive",
+        "totalCount": 11
+      }
+    ]
+  },
+  {
+    "genre": "wave",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "darkwave",
+        "totalCount": 7
+      },
+      {
+        "name": "dark wave",
+        "totalCount": 3
+      }
+    ]
+  },
+  {
+    "genre": "dubstep",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "post-dubstep",
+        "totalCount": 5
+      }
+    ]
+  },
+  {
+    "genre": "rumba",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "soukous",
+        "totalCount": 4
+      }
+    ]
+  },
+  {
+    "genre": "synthpop",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "retrowave",
+        "totalCount": 3
+      },
+      {
+        "name": "coldwave",
+        "totalCount": 3
+      }
+    ]
+  },
+  {
+    "genre": "experimental hip hop",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "plunderphonics",
+        "totalCount": 3
+      }
+    ]
+  },
+  {
+    "genre": "world",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "forró",
+        "totalCount": 2
+      },
+      {
+        "name": "juju",
+        "totalCount": 2
+      },
+      {
+        "name": "samba",
+        "totalCount": 2
+      },
+      {
+        "name": "mizrahi music",
+        "totalCount": 1
+      },
+      {
+        "name": "hang drum",
+        "totalCount": 1
+      },
+      {
+        "name": "raga",
+        "totalCount": 1
+      },
+      {
+        "name": "manding",
+        "totalCount": 1
+      },
+      {
+        "name": "raï",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "alternative",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "post-alternative",
+        "totalCount": 2
+      }
+    ]
+  },
+  {
+    "genre": "alternative rock",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "adult alternative",
+        "totalCount": 2
+      }
+    ]
+  },
+  {
+    "genre": "turkish pop",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "arabesk",
+        "totalCount": 2
+      }
+    ]
+  },
+  {
+    "genre": "latin trap",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "corridos tumbados",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "salsa",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "dura",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "latin jazz",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "son cubano",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "psychedelic",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "neo-psychedelic",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "screamo",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "post-screamo",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "mexican",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "day of the dead",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "flamenco",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "nuevo flamenco",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "Brazilian music",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "farofa",
+        "totalCount": 1
+      }
+    ]
+  },
+  {
+    "genre": "riddim",
+    "totalCount": 0,
+    "subgenres": [
+      {
+        "name": "roots riddim",
+        "totalCount": 1
+      }
+    ]
+  }
+]

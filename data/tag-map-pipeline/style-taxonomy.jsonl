@@ -1,0 +1,548 @@
+{"style":"rock","totalCount":5801,"kind":"genre","parent_genres":[],"reason":"Rock is a broad primary genre and not a subgenre."}
+{"style":"pop","totalCount":1976,"kind":"genre","parent_genres":[],"reason":"Pop is a foundational and broad genre."}
+{"style":"alternative rock","totalCount":1287,"kind":"subgenre","parent_genres":["rock"],"reason":"Alternative rock is a recognized subgenre of rock music."}
+{"style":"electronic","totalCount":1103,"kind":"genre","parent_genres":[],"reason":"Electronic is a broad primary genre and not a subgenre."}
+{"style":"jazz","totalCount":993,"kind":"genre","parent_genres":[],"reason":"Jazz is a broad primary genre and not a subgenre."}
+{"style":"metal","totalCount":788,"kind":"genre","parent_genres":[],"reason":"Metal is a broad primary genre and not a subgenre."}
+{"style":"hip hop","totalCount":775,"kind":"genre","parent_genres":[],"reason":"Hip hop is a foundational and broad genre, not a subgenre."}
+{"style":"folk","totalCount":636,"kind":"genre","parent_genres":[],"reason":"Folk is a foundational genre, not a subgenre."}
+{"style":"blues","totalCount":528,"kind":"genre","parent_genres":[],"reason":"Blues is a foundational primary genre and not a subgenre."}
+{"style":"punk","totalCount":525,"kind":"genre","parent_genres":[],"reason":"Punk is a foundational genre with a distinct style and not a subgenre."}
+{"style":"indie","totalCount":474,"kind":"subgenre","parent_genres":["rock"],"reason":"Indie is a recognized subgenre of rock music characterized by independent production and artistic vision."}
+{"style":"soul","totalCount":448,"kind":"genre","parent_genres":[],"reason":"Soul is a broad primary genre and not a subgenre."}
+{"style":"funk","totalCount":379,"kind":"genre","parent_genres":[],"reason":"Funk is a foundational and broad musical genre."}
+{"style":"progressive rock","totalCount":356,"kind":"subgenre","parent_genres":["rock"],"reason":"Progressive rock is a recognized subgenre of rock music characterized by complex arrangements and experimentation."}
+{"style":"rap","totalCount":353,"kind":"genre","parent_genres":[],"reason":"Rap is a primary genre and not a subgenre."}
+{"style":"house","totalCount":342,"kind":"genre","parent_genres":[],"reason":"House is a broad primary genre and not a subgenre."}
+{"style":"ambient","totalCount":297,"kind":"subgenre","parent_genres":["electronic"],"reason":"Ambient music is a subgenre of electronic music characterized by atmospheric textures and soundscapes."}
+{"style":"techno","totalCount":278,"kind":"genre","parent_genres":[],"reason":"Techno is a foundational and widely recognized genre."}
+{"style":"dance","totalCount":266,"kind":"subgenre","parent_genres":["electronic"],"reason":"Dance is a common descriptor within the broader electronic music genre."}
+{"style":"drum & bass","totalCount":251,"kind":"subgenre","parent_genres":["electronic"],"reason":"Drum & bass is a recognized subgenre of electronic music."}
+{"style":"reggae","totalCount":242,"kind":"genre","parent_genres":[],"reason":"Reggae is a foundational genre in popular music."}
+{"style":"experimental","totalCount":241,"kind":"genre","parent_genres":[],"reason":"Experimental describes a broad approach to music, not a specific genre or subgenre."}
+{"style":"new wave","totalCount":221,"kind":"subgenre","parent_genres":["pop"],"reason":"New wave is a recognized subgenre of pop music characterized by its innovative sound."}
+{"style":"psychedelic","totalCount":213,"kind":"subgenre","parent_genres":["pop"],"reason":"Psychedelic is a stylistic modifier applied to pop music."}
+{"style":"r&b","totalCount":201,"kind":"genre","parent_genres":[],"reason":"R&B is a foundational and broadly recognized genre."}
+{"style":"electro","totalCount":199,"kind":"subgenre","parent_genres":["house"],"reason":"Electro is a recognized subgenre of house music characterized by its repetitive beats and electronic sound."}
+{"style":"electronica","totalCount":197,"kind":"genre","parent_genres":[],"reason":"Electronica is a broad primary genre and not a subgenre."}
+{"style":"downtempo","totalCount":173,"kind":"subgenre","parent_genres":["electronic"],"reason":"Downtempo is a recognized subgenre of electronic music."}
+{"style":"psychedelic rock","totalCount":172,"kind":"subgenre","parent_genres":["rock"],"reason":"Psychedelic rock is a recognized subgenre of rock music characterized by its experimental and hallucinatory sound."}
+{"style":"fusion","totalCount":170,"kind":"subgenre","parent_genres":["jazz"],"reason":"Fusion is a recognized subgenre of jazz music incorporating elements from other genres."}
+{"style":"classical","totalCount":165,"kind":"genre","parent_genres":[],"reason":"Classical is a broad primary genre and not a subgenre."}
+{"style":"heavy metal","totalCount":161,"kind":"subgenre","parent_genres":["metal"],"reason":"Heavy metal is a recognized subgenre of metal music."}
+{"style":"synth pop","totalCount":159,"kind":"subgenre","parent_genres":["pop"],"reason":"Synth pop is a recognized subgenre of pop music characterized by the use of synthesizers."}
+{"style":"dubstep","totalCount":154,"kind":"subgenre","parent_genres":["electronic"],"reason":"Dubstep is a recognized subgenre of electronic music characterized by its distinct rhythmic and bassline elements."}
+{"style":"dub","totalCount":142,"kind":"subgenre","parent_genres":["electronic"],"reason":"Dub is a well-known subgenre of electronic music characterized by its heavy bass and echo effects."}
+{"style":"disco","totalCount":134,"kind":"subgenre","parent_genres":["house"],"reason":"Disco is a recognized subgenre of house music characterized by its specific rhythmic and melodic features."}
+{"style":"singer-songwriter","totalCount":129,"kind":"genre","parent_genres":[],"reason":"Singer-songwriter is a broad musical style and not a subgenre."}
+{"style":"country","totalCount":128,"kind":"genre","parent_genres":[],"reason":"Country is a broad primary genre and not a subgenre."}
+{"style":"garage","totalCount":125,"kind":"subgenre","parent_genres":["house"],"reason":"Garage is a well-established subgenre of house music with distinct characteristics."}
+{"style":"post-punk","totalCount":124,"kind":"subgenre","parent_genres":["punk"],"reason":"Post-punk emerged as a subgenre of punk rock, evolving its sound and themes."}
+{"style":"chillout","totalCount":102,"kind":"subgenre","parent_genres":["electronic"],"reason":"Chillout is a recognized subgenre of electronic music."}
+{"style":"stoner rock","totalCount":98,"kind":"subgenre","parent_genres":["metal"],"reason":"Stoner rock is a recognized subgenre of metal, characterized by its psychedelic and blues-influenced sound."}
+{"style":"hardcore","totalCount":98,"kind":"subgenre","parent_genres":["techno"],"reason":"Hardcore is a subgenre of techno music characterized by its fast tempos and aggressive sound."}
+{"style":"post-grunge","totalCount":94,"kind":"subgenre","parent_genres":["grunge"],"reason":"Post-grunge emerged as a subgenre of grunge music."}
+{"style":"trip hop","totalCount":94,"kind":"subgenre","parent_genres":["electronic"],"reason":"Trip hop is a recognized subgenre of electronic music characterized by its distinctive sound."}
+{"style":"progressive metal","totalCount":93,"kind":"subgenre","parent_genres":["metal"],"reason":"Progressive metal is a recognized subgenre of metal characterized by complex arrangements and extended song lengths."}
+{"style":"intelligent dance music","totalCount":91,"kind":"subgenre","parent_genres":["house"],"reason":"IDM is a recognized subgenre of house music characterized by its experimental and complex rhythmic structures."}
+{"style":"avant-garde","totalCount":91,"kind":"subgenre","parent_genres":["electronic"],"reason":"Avant-garde is a recognized style within electronic music, often experimental and pushing boundaries."}
+{"style":"grunge","totalCount":90,"kind":"subgenre","parent_genres":["rock"],"reason":"Grunge is a recognized subgenre of rock music characterized by its distinctive sound and aesthetic."}
+{"style":"breakbeat","totalCount":85,"kind":"subgenre","parent_genres":["electronic"],"reason":"Breakbeat is a recognized subgenre of electronic music."}
+{"style":"electropop","totalCount":81,"kind":"subgenre","parent_genres":["pop"],"reason":"Electropop is a recognized subgenre of pop music incorporating electronic elements."}
+{"style":"swing","totalCount":75,"kind":"subgenre","parent_genres":["electronic"],"reason":"Electro-swing is a recognized subgenre of electronic music."}
+{"style":"ska","totalCount":74,"kind":"subgenre","parent_genres":["reggae"],"reason":"Ska is a subgenre of reggae with distinct rhythmic and musical characteristics."}
+{"style":"power pop","totalCount":73,"kind":"subgenre","parent_genres":["pop"],"reason":"Power pop is a recognized subgenre of pop music characterized by its melodic and energetic style."}
+{"style":"neo-psychedelia","totalCount":72,"kind":"subgenre","parent_genres":["psychedelia"],"reason":"Neo-psychedelia is a recognized subgenre of psychedelic music."}
+{"style":"drum and bass","totalCount":69,"kind":"subgenre","parent_genres":["electronic"],"reason":"Drum and bass is a well-known subgenre of electronic music."}
+{"style":"dance-pop","totalCount":67,"kind":"subgenre","parent_genres":["pop"],"reason":"Dance-pop is a recognized subgenre of pop music characterized by its blend of danceable rhythms and pop sensibilities."}
+{"style":"indietronica","totalCount":67,"kind":"subgenre","parent_genres":["electronic"],"reason":"Indietronica is a well-defined subgenre of electronic music."}
+{"style":"industrial","totalCount":66,"kind":"subgenre","parent_genres":["electronic"],"reason":"Industrial is a subgenre of electronic music characterized by its harsh and mechanical sounds."}
+{"style":"emo","totalCount":66,"kind":"subgenre","parent_genres":["pop"],"reason":"Emo is a recognized subgenre of pop music, often characterized by emotional lyrics and melodies."}
+{"style":"acoustic","totalCount":65,"kind":"genre","parent_genres":[],"reason":"Acoustic is a primary genre and not a subgenre."}
+{"style":"glam rock","totalCount":64,"kind":"subgenre","parent_genres":["rock"],"reason":"Glam rock is a recognized subgenre of rock music characterized by its flamboyant style."}
+{"style":"jungle","totalCount":63,"kind":"subgenre","parent_genres":["house"],"reason":"Jungle is a subgenre of house music characterized by its fast tempo and heavy bass."}
+{"style":"death metal","totalCount":63,"kind":"subgenre","parent_genres":["metal"],"reason":"Death metal is a recognized subgenre of metal music."}
+{"style":"thrash metal","totalCount":62,"kind":"subgenre","parent_genres":["metal"],"reason":"Thrash metal is a recognized subgenre of metal music."}
+{"style":"rock and roll","totalCount":62,"kind":"subgenre","parent_genres":["rock"],"reason":"Rock and roll is a recognized subgenre of rock music."}
+{"style":"dream pop","totalCount":61,"kind":"subgenre","parent_genres":["pop"],"reason":"Dream pop is a recognized subgenre of pop music characterized by atmospheric soundscapes and ethereal vocals."}
+{"style":"trance","totalCount":59,"kind":"subgenre","parent_genres":["electronic"],"reason":"Trance is a recognized subgenre of electronic music."}
+{"style":"dancehall","totalCount":58,"kind":"subgenre","parent_genres":["reggae"],"reason":"Dancehall is a distinct subgenre of reggae music."}
+{"style":"minimal","totalCount":57,"kind":"subgenre","parent_genres":["house"],"reason":"Minimal is a recognized subgenre of house music, often characterized by its stripped-down, repetitive rhythms."}
+{"style":"americana","totalCount":56,"kind":"genre","parent_genres":[],"reason":"Americana is a distinct musical style and not a subgenre."}
+{"style":"latin","totalCount":53,"kind":"genre","parent_genres":[],"reason":"Latin is a broad primary genre and not a subgenre."}
+{"style":"electronic dance music","totalCount":51,"kind":"subgenre","parent_genres":["electronic"],"reason":"Electronic dance music is a recognized subgenre of electronic music."}
+{"style":"post-rock","totalCount":50,"kind":"subgenre","parent_genres":["rock"],"reason":"Post-rock is a recognized subgenre of rock music characterized by its experimental and atmospheric sound."}
+{"style":"trap","totalCount":49,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Trap is a subgenre of hip hop music characterized by its specific rhythmic and melodic elements."}
+{"style":"big beat","totalCount":45,"kind":"subgenre","parent_genres":["electronic"],"reason":"Big beat is a recognized subgenre of electronic music."}
+{"style":"acid jazz","totalCount":43,"kind":"subgenre","parent_genres":["jazz"],"reason":"Acid jazz is a recognized subgenre of jazz music."}
+{"style":"deep house","totalCount":43,"kind":"subgenre","parent_genres":["house"],"reason":"Deep house is a recognized subgenre of house music."}
+{"style":"liedermacher","totalCount":42,"kind":"subgenre","parent_genres":["folk"],"reason":"Liedermacher is a specific tradition within the broader folk music genre."}
+{"style":"trip-hop","totalCount":42,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Trip-hop emerged as a subgenre of hip hop, blending elements of hip hop with electronic and ambient music."}
+{"style":"new age","totalCount":42,"kind":"subgenre","parent_genres":["ambient"],"reason":"New age music is a subgenre of ambient music, often incorporating elements of classical and other styles."}
+{"style":"breaks","totalCount":42,"kind":"subgenre","parent_genres":["techno"],"reason":"Breaks is a well-established subgenre of techno music."}
+{"style":"post-hardcore","totalCount":41,"kind":"subgenre","parent_genres":["metal"],"reason":"Post-hardcore is a subgenre of metal characterized by its aggressive sound and emotional delivery."}
+{"style":"progressive house","totalCount":40,"kind":"subgenre","parent_genres":["house"],"reason":"Progressive house is a recognised subgenre of house music."}
+{"style":"britpop","totalCount":39,"kind":"subgenre","parent_genres":["pop"],"reason":"Britpop is a subgenre of pop music characterized by its British influences."}
+{"style":"krautrock","totalCount":38,"kind":"subgenre","parent_genres":["electronic"],"reason":"Krautrock is a recognized subgenre of electronic music characterized by its experimental and avant-garde sound."}
+{"style":"lounge","totalCount":37,"kind":"subgenre","parent_genres":["electronic"],"reason":"Lounge is a specific subgenre of electronic music."}
+{"style":"rave","totalCount":37,"kind":"subgenre","parent_genres":["house"],"reason":"Rave is a recognized subgenre of house music characterized by its specific rhythmic and cultural elements."}
+{"style":"gospel","totalCount":36,"kind":"genre","parent_genres":[],"reason":"Gospel is a broad primary genre and not a subgenre."}
+{"style":"gothic","totalCount":36,"kind":"subgenre","parent_genres":["rock"],"reason":"Gothic is a recognized subgenre of rock music."}
+{"style":"hard bop","totalCount":35,"kind":"subgenre","parent_genres":["jazz"],"reason":"Hard bop is a recognized subgenre of jazz music."}
+{"style":"adult oriented rock","totalCount":35,"kind":"subgenre","parent_genres":["rock"],"reason":"A recognized subgenre of rock music."}
+{"style":"cabaret","totalCount":35,"kind":"subgenre","parent_genres":["music"],"reason":"Cabaret is a musical style with performance elements, and therefore is a subgenre of music."}
+{"style":"neurofunk","totalCount":33,"kind":"subgenre","parent_genres":["electronic"],"reason":"Neurofunk is a well-defined subgenre of electronic music."}
+{"style":"chanson","totalCount":33,"kind":"subgenre","parent_genres":["folk"],"reason":"Chanson is a form of folk music originating from France."}
+{"style":"shoegaze","totalCount":32,"kind":"subgenre","parent_genres":["rock"],"reason":"Shoegaze is a recognized subgenre of rock music characterized by its textural soundscapes."}
+{"style":"power metal","totalCount":32,"kind":"subgenre","parent_genres":["metal"],"reason":"Power metal is a recognized subgenre of metal characterized by its epic scope and vocal style."}
+{"style":"boogie rock","totalCount":32,"kind":"subgenre","parent_genres":["rock"],"reason":"Boogie rock is a recognized subgenre of rock music."}
+{"style":"post-bop","totalCount":31,"kind":"subgenre","parent_genres":["jazz"],"reason":"Post-bop is a recognized subgenre of jazz music."}
+{"style":"oldies","totalCount":31,"kind":"subgenre","parent_genres":["pop"],"reason":"Oldies refers to older pop music."}
+{"style":"electroclash","totalCount":31,"kind":"subgenre","parent_genres":["electronic"],"reason":"Electroclash is a recognized subgenre of electronic music."}
+{"style":"gangsta rap","totalCount":31,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Gangsta rap is a recognized subgenre of hip hop, characterized by its lyrical content and themes."}
+{"style":"core","totalCount":31,"kind":"subgenre","parent_genres":["metal"],"reason":"Core is a recognized subgenre of metal, characterized by its intense and aggressive sound."}
+{"style":"schlager","totalCount":30,"kind":"genre","parent_genres":[],"reason":"Schlager is a well-known, established genre."}
+{"style":"ballad","totalCount":29,"kind":"subgenre","parent_genres":["pop"],"reason":"Ballad is a well-known subgenre of pop music characterized by lyrical content and often slower tempos."}
+{"style":"surf","totalCount":29,"kind":"subgenre","parent_genres":["rock"],"reason":"Surf music is a recognizable subgenre of rock music characterized by its instrumental style and themes."}
+{"style":"easy listening","totalCount":28,"kind":"genre","parent_genres":[],"reason":"Easy listening is a broad style of music and not a subgenre."}
+{"style":"grime","totalCount":27,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Grime is a subgenre of hip hop music."}
+{"style":"symphonic metal","totalCount":27,"kind":"subgenre","parent_genres":["metal"],"reason":"Symphonic metal is a recognized subgenre of metal characterized by orchestral arrangements."}
+{"style":"wave","totalCount":27,"kind":"subgenre","parent_genres":["electronic"],"reason":"Wave music is a subgenre of electronic music, often characterized by dark, atmospheric sounds."}
+{"style":"big band","totalCount":25,"kind":"genre","parent_genres":[],"reason":"Big band is a broad primary genre and not a subgenre."}
+{"style":"garage rock","totalCount":25,"kind":"subgenre","parent_genres":["rock"],"reason":"Garage rock is a recognized subgenre of rock music."}
+{"style":"boom bap","totalCount":23,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Boom bap is a recognizable subgenre of hip hop music characterized by its drum patterns."}
+{"style":"motown","totalCount":23,"kind":"subgenre","parent_genres":["soul"],"reason":"Motown is a specific style of soul music."}
+{"style":"free jazz","totalCount":22,"kind":"subgenre","parent_genres":["jazz"],"reason":"Free jazz is a recognized subgenre of jazz music."}
+{"style":"band","totalCount":22,"kind":"subgenre","parent_genres":["folk"],"reason":"Band is a subgenre of folk music, characterized by ensemble playing."}
+{"style":"music","totalCount":22,"kind":"genre","parent_genres":[],"reason":"Music is a broad primary genre and not a subgenre."}
+{"style":"neoclassical dark wave","totalCount":21,"kind":"subgenre","parent_genres":["dark wave"],"reason":"Neoclassical dark wave is a recognized subgenre of dark wave music."}
+{"style":"bluegrass","totalCount":21,"kind":"genre","parent_genres":[],"reason":"Bluegrass is a fundamental genre and not a subgenre."}
+{"style":"afrobeat","totalCount":21,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Afrobeat is a subgenre of hip hop characterized by its rhythmic complexity and use of traditional African instruments."}
+{"style":"neoclassical dark wave","totalCount":21,"kind":"subgenre","parent_genres":["dark wave"],"reason":"Neoclassical dark wave is a recognized subgenre of dark wave music."}
+{"style":"math rock","totalCount":20,"kind":"subgenre","parent_genres":["rock"],"reason":"Math rock is a recognized subgenre of rock characterized by complex rhythmic structures."}
+{"style":"opera","totalCount":20,"kind":"genre","parent_genres":[],"reason":"Opera is a foundational genre and not a subgenre."}
+{"style":"sophisti-pop","totalCount":19,"kind":"subgenre","parent_genres":["pop"],"reason":"Sophisti-pop is a distinct subgenre of pop music characterized by its sophisticated arrangements and production."}
+{"style":"synthwave","totalCount":18,"kind":"subgenre","parent_genres":["electronic"],"reason":"Synthwave is a recognized subgenre of electronic music."}
+{"style":"folktronica","totalCount":18,"kind":"subgenre","parent_genres":["folk"],"reason":"Folktronica is a recognized subgenre of folk music incorporating electronic elements."}
+{"style":"popmusik","totalCount":18,"kind":"subgenre","parent_genres":["pop"],"reason":"Popmusik is a German pop music style which is a subgenre of pop."}
+{"style":"breakcore","totalCount":17,"kind":"subgenre","parent_genres":["electronic"],"reason":"Breakcore is a recognized subgenre of electronic music."}
+{"style":"rapcore","totalCount":17,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Rapcore is a recognized subgenre of hip hop music."}
+{"style":"dance-punk","totalCount":17,"kind":"subgenre","parent_genres":["punk"],"reason":"Dance-punk is a recognized subgenre of punk rock."}
+{"style":"doom metal","totalCount":17,"kind":"subgenre","parent_genres":["metal"],"reason":"Doom metal is a recognized subgenre of metal characterized by its slow tempos and heavy, dark sound."}
+{"style":"orchestral","totalCount":16,"kind":"genre","parent_genres":[],"reason":"Orchestral is a broad primary genre and not a subgenre."}
+{"style":"ragga","totalCount":16,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Ragga is a subgenre of hip hop characterized by its distinctive sound and rhythms."}
+{"style":"black metal","totalCount":16,"kind":"subgenre","parent_genres":["metal"],"reason":"Black metal is a recognized subgenre of metal, often characterized by its dark and aggressive sound."}
+{"style":"baroque","totalCount":15,"kind":"genre","parent_genres":[],"reason":"Baroque is a broad musical genre, not a subgenre."}
+{"style":"groove metal","totalCount":15,"kind":"subgenre","parent_genres":["metal"],"reason":"Groove metal is a recognized subgenre of metal characterized by its rhythmic emphasis."}
+{"style":"step","totalCount":15,"kind":"subgenre","parent_genres":["techno"],"reason":"Step is a recognized subgenre of techno music."}
+{"style":"drone","totalCount":14,"kind":"subgenre","parent_genres":["ambient"],"reason":"Drone music is a recognized subgenre of ambient music."}
+{"style":"pop and rock","totalCount":14,"kind":"subgenre","parent_genres":["pop"],"reason":"‘pop and rock’ is a recognized blend of styles, primarily falling under the umbrella of pop music."}
+{"style":"deutschrock","totalCount":14,"kind":"subgenre","parent_genres":["rock"],"reason":"Deutschrock is a recognized subgenre of rock music."}
+{"style":"footwork","totalCount":14,"kind":"subgenre","parent_genres":["techno"],"reason":"Footwork is a distinct subgenre of techno music originating from Chicago."}
+{"style":"electronic pop","totalCount":14,"kind":"subgenre","parent_genres":["pop"],"reason":"Electronic pop is a recognized subgenre of pop music."}
+{"style":"rhythm & blues","totalCount":14,"kind":"genre","parent_genres":[],"reason":"Rhythm & blues is a foundational and broad genre."}
+{"style":"alt country","totalCount":13,"kind":"subgenre","parent_genres":["country"],"reason":"Alt country is a recognized subgenre of country music."}
+{"style":"sludge metal","totalCount":13,"kind":"subgenre","parent_genres":["metal"],"reason":"Sludge metal is a recognized subgenre of metal."}
+{"style":"post-Britpop","totalCount":13,"kind":"subgenre","parent_genres":["pop"],"reason":"Post-Britpop is a recognized subgenre of pop music."}
+{"style":"celtic","totalCount":13,"kind":"genre","parent_genres":[],"reason":"Celtic is a broad musical genre and not a subgenre."}
+{"style":"rockabilly","totalCount":12,"kind":"subgenre","parent_genres":["rock"],"reason":"Rockabilly is a recognized subgenre of rock music."}
+{"style":"chillwave","totalCount":12,"kind":"subgenre","parent_genres":["electronic"],"reason":"Chillwave is a subgenre of electronic music characterized by its relaxed and dreamy atmosphere."}
+{"style":"bubblegum pop","totalCount":12,"kind":"subgenre","parent_genres":["pop"],"reason":"Bubblegum pop is a recognized subgenre of pop music."}
+{"style":"rhythm and blues","totalCount":12,"kind":"genre","parent_genres":[],"reason":"Rhythm and blues is a foundational genre and not a subgenre."}
+{"style":"balkan","totalCount":12,"kind":"genre","parent_genres":[],"reason":"Balkan is a broad primary genre and not a subgenre."}
+{"style":"flamenco","totalCount":12,"kind":"subgenre","parent_genres":["spanish"],"reason":"Flamenco is a distinct Spanish musical style and culture, often considered a subgenre of Spanish music."}
+{"style":"neoclassical","totalCount":12,"kind":"subgenre","parent_genres":["classical"],"reason":"Neoclassical music is a subgenre of classical music, drawing heavily on classical forms and instrumentation."}
+{"style":"bossa nova","totalCount":12,"kind":"subgenre","parent_genres":["jazz"],"reason":"Bossa nova is a well-known subgenre of jazz music."}
+{"style":"a cappella","totalCount":12,"kind":"genre","parent_genres":[],"reason":"A cappella is a recognized primary musical style."}
+{"style":"electropunk","totalCount":11,"kind":"subgenre","parent_genres":["punk"],"reason":"Electropunk is a recognized subgenre of punk rock incorporating electronic music elements."}
+{"style":"neo-progressive","totalCount":11,"kind":"subgenre","parent_genres":["progressive metal"],"reason":"Neo-progressive is a subgenre of progressive metal."}
+{"style":"merseybeat","totalCount":11,"kind":"subgenre","parent_genres":["rock"],"reason":"Merseybeat is a distinct subgenre of rock music originating in Liverpool."}
+{"style":"storm","totalCount":11,"kind":"subgenre","parent_genres":["ambient"],"reason":"‘Storm’ is a recognized subgenre of ambient music characterized by its atmospheric and evocative soundscapes."}
+{"style":"worldbeat","totalCount":11,"kind":"subgenre","parent_genres":["folk"],"reason":"Worldbeat incorporates elements of folk music and is a recognized subgenre within the broader folk music landscape."}
+{"style":"bebop","totalCount":11,"kind":"subgenre","parent_genres":["jazz"],"reason":"Bebop is a recognized subgenre of jazz music."}
+{"style":"electronic body music","totalCount":11,"kind":"subgenre","parent_genres":["electronic"],"reason":"Electronic body music is a subgenre of electronic music."}
+{"style":"screamo","totalCount":11,"kind":"subgenre","parent_genres":["metal"],"reason":"Screamo is a subgenre of metal characterized by intense vocals and aggressive instrumentation."}
+{"style":"old school","totalCount":11,"kind":"genre","parent_genres":[],"reason":"Old school is a commonly used descriptor referring to a style of music, not a subgenre."}
+{"style":"europop","totalCount":10,"kind":"subgenre","parent_genres":["pop"],"reason":"Europop is a recognized subgenre of pop music."}
+{"style":"synth funk","totalCount":10,"kind":"subgenre","parent_genres":["funk"],"reason":"Synth funk is a subgenre of funk music characterized by the use of synthesizers."}
+{"style":"beat poetry","totalCount":10,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Beat poetry is a subgenre of hip hop music, often characterized by its lyrical density and rhythmic delivery."}
+{"style":"christmas music","totalCount":10,"kind":"genre","parent_genres":[],"reason":"Christmas music is a broad style of music and not a subgenre."}
+{"style":"romantic","totalCount":10,"kind":"subgenre","parent_genres":["pop"],"reason":"Romantic is a subgenre of pop music characterized by its emotional and melodic focus."}
+{"style":"reggaeton","totalCount":10,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Reggaeton is a significant subgenre of hip hop, originating from Puerto Rico."}
+{"style":"mpb","totalCount":10,"kind":"subgenre","parent_genres":["folk"],"reason":"MPB (Música Popular Brasileira) is a subgenre of folk music originating in Brazil."}
+{"style":"italo disco","totalCount":10,"kind":"subgenre","parent_genres":["house"],"reason":"Italo disco is a well-known subgenre of house music characterized by its distinctive synth sounds and melodic structure."}
+{"style":"neofolk","totalCount":9,"kind":"subgenre","parent_genres":["folk"],"reason":"Neofolk is a recognized subgenre of folk music characterized by its modern interpretations."}
+{"style":"post-metal","totalCount":9,"kind":"subgenre","parent_genres":["metal"],"reason":"Post-metal is a recognized subgenre of metal music characterized by atmospheric and experimental elements."}
+{"style":"salsa","totalCount":9,"kind":"subgenre","parent_genres":["latin"],"reason":"Salsa is a recognized subgenre of Latin music."}
+{"style":"acid house","totalCount":9,"kind":"subgenre","parent_genres":["house"],"reason":"Acid house is a recognized subgenre of house music characterized by its distinctive repetitive synth bassline."}
+{"style":"crankwave","totalCount":9,"kind":"subgenre","parent_genres":["electronic"],"reason":"Crankwave is a recognized subgenre of electronic music, characterized by its high-energy, distorted sound."}
+{"style":"medieval","totalCount":9,"kind":"genre","parent_genres":[],"reason":"Medieval refers to a broad historical period and is a primary genre."}
+{"style":"indie rock","totalCount":9,"kind":"subgenre","parent_genres":["rock"],"reason":"Indie rock is a recognized subgenre of rock music."}
+{"style":"no wave","totalCount":8,"kind":"subgenre","parent_genres":["punk"],"reason":"No wave emerged as a subgenre of punk rock characterized by experimental and abrasive sound."}
+{"style":"eurodance","totalCount":8,"kind":"subgenre","parent_genres":["house"],"reason":"Eurodance is a recognized subgenre of house music."}
+{"style":"rocksteady","totalCount":8,"kind":"subgenre","parent_genres":["reggae"],"reason":"Rocksteady is a subgenre of reggae music."}
+{"style":"brostep","totalCount":8,"kind":"subgenre","parent_genres":["electronic"],"reason":"Brostep is a recognized subgenre of electronic music characterized by its aggressive sound design."}
+{"style":"future bass","totalCount":8,"kind":"subgenre","parent_genres":["electronic"],"reason":"Future bass is a recognized subgenre of electronic music."}
+{"style":"psytrance","totalCount":8,"kind":"subgenre","parent_genres":["electronic"],"reason":"Psytrance is a recognized subgenre of electronic music."}
+{"style":"crossover","totalCount":8,"kind":"subgenre","parent_genres":["classical"],"reason":"Crossover is a recognized subgenre of classical music."}
+{"style":"minimal wave","totalCount":8,"kind":"subgenre","parent_genres":["electronic"],"reason":"Minimal wave is a subgenre of electronic music characterized by its specific sound and aesthetic."}
+{"style":"neue deutsche härte","totalCount":8,"kind":"subgenre","parent_genres":["electronic"],"reason":"Neue Deutsche Härte is a well-known subgenre of electronic music."}
+{"style":"doo-wop","totalCount":8,"kind":"subgenre","parent_genres":["pop"],"reason":"Doo-wop is a recognized subgenre of pop music characterized by its vocal harmonies and rhythms."}
+{"style":"gypsy music","totalCount":8,"kind":"subgenre","parent_genres":["folk"],"reason":"Gypsy music is a distinct folk tradition with roots in European nomadic cultures."}
+{"style":"bass","totalCount":8,"kind":"subgenre","parent_genres":["electronic"],"reason":"Bass music is a recognized subgenre within the broader electronic music landscape."}
+{"style":"vaporwave","totalCount":8,"kind":"subgenre","parent_genres":["electronic"],"reason":"Vaporwave is a recognized subgenre of electronic music."}
+{"style":"neoclassicism","totalCount":7,"kind":"genre","parent_genres":[],"reason":"Neoclassicism is a broad musical style and not a subgenre."}
+{"style":"juke","totalCount":7,"kind":"subgenre","parent_genres":["blues"],"reason":"Juke is a distinct blues-based style with roots in the Mississippi Delta."}
+{"style":"tribal","totalCount":7,"kind":"subgenre","parent_genres":["electronic"],"reason":"Tribal music is a common subgenre within electronic music, often incorporating traditional rhythms and instrumentation."}
+{"style":"southern hip hop","totalCount":7,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Southern hip hop is a recognized subgenre of hip hop music originating from the Southern United States."}
+{"style":"austropop","totalCount":7,"kind":"subgenre","parent_genres":["pop"],"reason":"Austropop is a recognized subgenre of pop music characterized by its use of Slavic influences."}
+{"style":"funktronica","totalCount":7,"kind":"subgenre","parent_genres":["funk"],"reason":"Funktronica is a recognized subgenre of funk music incorporating electronic elements."}
+{"style":"complextro","totalCount":7,"kind":"subgenre","parent_genres":["house"],"reason":"Complextro is a recognized subgenre of house music characterized by complex rhythms and syncopation."}
+{"style":"mashup","totalCount":7,"kind":"subgenre","parent_genres":["electronic"],"reason":"Mashup is a well-known subgenre of electronic music."}
+{"style":"dance rock","totalCount":7,"kind":"subgenre","parent_genres":["rock"],"reason":"Dance rock is a recognized subgenre of rock music."}
+{"style":"darkwave","totalCount":7,"kind":"subgenre","parent_genres":["wave"],"reason":"Darkwave is a recognized subgenre of wave music."}
+{"style":"adult contemporary","totalCount":7,"kind":"genre","parent_genres":[],"reason":"Adult contemporary is a recognized broad genre of pop music."}
+{"style":"j-pop","totalCount":7,"kind":"subgenre","parent_genres":["pop"],"reason":"J-pop is a recognized subgenre of pop music."}
+{"style":"pop rock","totalCount":7,"kind":"subgenre","parent_genres":["pop"],"reason":"Pop rock is a recognized subgenre of pop music."}
+{"style":"k-pop","totalCount":7,"kind":"genre","parent_genres":[],"reason":"K-pop is a well-known broad musical genre."}
+{"style":"musical","totalCount":6,"kind":"genre","parent_genres":[],"reason":"Musical is a broad primary genre and not a subgenre."}
+{"style":"post-industrial","totalCount":6,"kind":"subgenre","parent_genres":["electronic"],"reason":"Post-industrial music is a subgenre of electronic music characterized by its use of industrial sounds."}
+{"style":"electronicore","totalCount":6,"kind":"subgenre","parent_genres":["metal"],"reason":"Electronicore is a recognized subgenre of metal music."}
+{"style":"slowcore","totalCount":6,"kind":"subgenre","parent_genres":["rock"],"reason":"Slowcore is a distinct subgenre of rock music characterized by its minimalist and melancholic sound."}
+{"style":"christian","totalCount":6,"kind":"genre","parent_genres":[],"reason":"Christian is a broad religious and musical genre."}
+{"style":"cumbia","totalCount":6,"kind":"subgenre","parent_genres":["latin"],"reason":"Cumbia is a well-known Latin American genre with variations."}
+{"style":"j-rock","totalCount":6,"kind":"subgenre","parent_genres":["rock"],"reason":"J-rock is a recognized subgenre of rock music."}
+{"style":"irish","totalCount":5,"kind":"genre","parent_genres":[],"reason":"Irish is a broad genre of music."}
+{"style":"choral","totalCount":5,"kind":"genre","parent_genres":[],"reason":"Choral is a fundamental musical style and not a subgenre."}
+{"style":"2 tone","totalCount":5,"kind":"subgenre","parent_genres":["pop"],"reason":"2 Tone is a recognized subgenre of pop music."}
+{"style":"sludge","totalCount":5,"kind":"subgenre","parent_genres":["metal"],"reason":"Sludge is a subgenre of metal characterized by its heavy, distorted sound."}
+{"style":"minimalism","totalCount":5,"kind":"genre","parent_genres":[],"reason":"Minimalism is a broad musical style and not a subgenre."}
+{"style":"mod","totalCount":5,"kind":"subgenre","parent_genres":["pop"],"reason":"Mod is a recognized subgenre of pop music."}
+{"style":"post-dubstep","totalCount":5,"kind":"subgenre","parent_genres":["dubstep"],"reason":"Post-dubstep is a recognized subgenre of dubstep, characterized by its stylistic evolution."}
+{"style":"improvisation","totalCount":5,"kind":"subgenre","parent_genres":["jazz"],"reason":"Improvisation is a core element of jazz music."}
+{"style":"classic rock","totalCount":5,"kind":"subgenre","parent_genres":["rock"],"reason":"Classic rock is a well-defined subgenre of rock music."}
+{"style":"emocore","totalCount":5,"kind":"subgenre","parent_genres":["rock"],"reason":"Emocore is a subgenre of rock music characterized by emotional intensity and experimental elements."}
+{"style":"concerto","totalCount":5,"kind":"genre","parent_genres":[],"reason":"Concerto is a foundational and broad musical style, not a subgenre."}
+{"style":"microfunk","totalCount":5,"kind":"subgenre","parent_genres":["funk"],"reason":"Microfunk is a recognized subgenre of funk music."}
+{"style":"calypso","totalCount":5,"kind":"genre","parent_genres":[],"reason":"Calypso is a well-known primary genre."}
+{"style":"drill and bass","totalCount":5,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Drill and bass is a subgenre of hip hop music, characterized by its heavy 808s and aggressive tempos."}
+{"style":"madchester","totalCount":5,"kind":"subgenre","parent_genres":["rock"],"reason":"Madchester is a recognized subgenre of rock music characterized by its distinctive sound."}
+{"style":"doom","totalCount":5,"kind":"subgenre","parent_genres":["metal"],"reason":"Doom is a recognized subgenre of metal music characterized by slow tempos and dark atmospheres."}
+{"style":"singer/songwriter","totalCount":5,"kind":"genre","parent_genres":[],"reason":"Singer/songwriter is a foundational and broad musical style."}
+{"style":"beat music","totalCount":5,"kind":"subgenre","parent_genres":["electronic"],"reason":"Beat music is a well-known subgenre of electronic music characterized by its rhythmic focus."}
+{"style":"klezmer","totalCount":5,"kind":"genre","parent_genres":[],"reason":"Klezmer is a well-known traditional Jewish music genre."}
+{"style":"neo-soul","totalCount":4,"kind":"subgenre","parent_genres":["soul"],"reason":"Neo-soul is a recognized subgenre of soul music."}
+{"style":"new traditionalism","totalCount":4,"kind":"subgenre","parent_genres":["folk"],"reason":"New Traditionalism is a subgenre of folk music characterized by a return to traditional acoustic instruments and styles."}
+{"style":"soukous","totalCount":4,"kind":"subgenre","parent_genres":["rumba"],"reason":"Soukous is a specific style of rumba music from the Congo."}
+{"style":"doo wop","totalCount":4,"kind":"subgenre","parent_genres":["pop"],"reason":"Doo wop is a recognized subgenre of pop music."}
+{"style":"highlife","totalCount":4,"kind":"genre","parent_genres":[],"reason":"Highlife is a recognized broad genre of West African music."}
+{"style":"darksynth","totalCount":4,"kind":"subgenre","parent_genres":["electronic"],"reason":"Darksynth is a recognized subgenre of electronic music characterized by dark and atmospheric sounds."}
+{"style":"metalcore","totalCount":4,"kind":"subgenre","parent_genres":["metal"],"reason":"Metalcore is a recognized subgenre of metal, characterized by its fusion of metal and hardcore punk elements."}
+{"style":"new jack swing","totalCount":4,"kind":"subgenre","parent_genres":["hip hop"],"reason":"New jack swing is a recognized subgenre of hip hop music."}
+{"style":"anti-folk","totalCount":4,"kind":"subgenre","parent_genres":["folk"],"reason":"Anti-folk is a distinctive subgenre of folk music characterized by its raw and unconventional approach."}
+{"style":"alternative pop","totalCount":4,"kind":"subgenre","parent_genres":["pop"],"reason":"Alternative pop is a recognized subgenre of pop music."}
+{"style":"comedy","totalCount":4,"kind":"subgenre","parent_genres":["music"],"reason":"Comedy is a genre of entertainment that often utilizes musical elements."}
+{"style":"street soul","totalCount":4,"kind":"subgenre","parent_genres":["soul"],"reason":"Street soul is a recognized subgenre of soul music, often associated with urban settings."}
+{"style":"yacht rock","totalCount":4,"kind":"subgenre","parent_genres":["pop"],"reason":"Yacht rock is a recognized subgenre of pop music characterized by a smooth, melodic sound."}
+{"style":"banjo","totalCount":4,"kind":"genre","parent_genres":[],"reason":"Banjo is a well-known primary genre."}
+{"style":"2-step","totalCount":4,"kind":"subgenre","parent_genres":["techno"],"reason":"2-step is a well-known subgenre of techno music."}
+{"style":"rumba","totalCount":4,"kind":"subgenre","parent_genres":["latin"],"reason":"Rumba is a specific style of Latin music, representing a subgenre of the broader Latin category."}
+{"style":"retrowave","totalCount":3,"kind":"subgenre","parent_genres":["synthpop"],"reason":"Retrowave is a distinct subgenre of synthpop, characterized by its 80s-inspired sound."}
+{"style":"death doom","totalCount":3,"kind":"subgenre","parent_genres":["metal"],"reason":"Death doom is a subgenre of metal characterized by slow tempos and dark atmospheres."}
+{"style":"downbeat","totalCount":3,"kind":"subgenre","parent_genres":["jazz"],"reason":"Downbeat is a recognized subgenre of jazz music characterized by a specific rhythmic approach."}
+{"style":"g funk","totalCount":3,"kind":"subgenre","parent_genres":["hip hop"],"reason":"G funk is a recognized subgenre of hip hop music."}
+{"style":"roots","totalCount":3,"kind":"genre","parent_genres":[],"reason":"Roots is a broad primary genre and not a subgenre."}
+{"style":"crunk","totalCount":3,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Crunk is a subgenre of hip hop characterized by aggressive beats and vocals."}
+{"style":"psybient","totalCount":3,"kind":"subgenre","parent_genres":["ambient"],"reason":"Psybient is a recognized subgenre of ambient music characterized by its hypnotic and atmospheric qualities."}
+{"style":"sitar","totalCount":3,"kind":"genre","parent_genres":[],"reason":"Sitar is a distinct musical instrument and style, representing a primary genre of music."}
+{"style":"coldwave","totalCount":3,"kind":"subgenre","parent_genres":["synthpop"],"reason":"Coldwave is a subgenre of synthpop characterized by its dark and atmospheric sound."}
+{"style":"boogaloo","totalCount":3,"kind":"subgenre","parent_genres":["funk"],"reason":"Boogaloo is a recognized subgenre of funk music."}
+{"style":"mariachi","totalCount":3,"kind":"genre","parent_genres":[],"reason":"Mariachi is a well-known genre of Mexican music."}
+{"style":"nu-skool","totalCount":3,"kind":"subgenre","parent_genres":["house"],"reason":"Nu-skool is a recognized subgenre of house music."}
+{"style":"hardbass","totalCount":3,"kind":"subgenre","parent_genres":["electronic"],"reason":"Hardbass is a recognized subgenre of electronic music characterized by its heavy bass frequencies."}
+{"style":"plunderphonics","totalCount":3,"kind":"subgenre","parent_genres":["experimental hip hop"],"reason":"Plunderphonics is an experimental hip hop style known for its use of found sounds and unconventional production techniques."}
+{"style":"hauntology","totalCount":3,"kind":"subgenre","parent_genres":["electronic"],"reason":"Hauntology is a recognized subgenre of electronic music characterized by its use of nostalgic and spectral sounds."}
+{"style":"mumbahton","totalCount":3,"kind":"subgenre","parent_genres":["house"],"reason":"Mumbahton is a recognized subgenre of house music characterized by its specific rhythmic and sonic elements."}
+{"style":"dark wave","totalCount":3,"kind":"subgenre","parent_genres":["wave"],"reason":"Dark wave is a recognized subgenre of wave music."}
+{"style":"chillstep","totalCount":3,"kind":"subgenre","parent_genres":["electronic"],"reason":"Chillstep is a subgenre of electronic music characterized by its atmospheric and melodic soundscapes."}
+{"style":"score","totalCount":3,"kind":"subgenre","parent_genres":["electronic"],"reason":"‘score’ is a recognized subgenre of electronic music, often used in techno and house."}
+{"style":"nerdcore","totalCount":3,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Nerdcore is a recognized subgenre of hip hop characterized by themes and samples from geek culture."}
+{"style":"beatbox","totalCount":3,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Beatbox is a prominent and established subgenre of hip hop music."}
+{"style":"tango","totalCount":3,"kind":"genre","parent_genres":[],"reason":"Tango is a well-known primary genre."}
+{"style":"traditional","totalCount":3,"kind":"genre","parent_genres":[],"reason":"Traditional represents a broad, primary musical style."}
+{"style":"beatboxing","totalCount":3,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Beatboxing is a foundational element and prominent subgenre of hip hop."}
+{"style":"freakbeat","totalCount":3,"kind":"subgenre","parent_genres":["rock"],"reason":"Freakbeat is a recognized subgenre of rock, characterized by its energetic and experimental sound."}
+{"style":"chanson à texte","totalCount":3,"kind":"subgenre","parent_genres":["folk"],"reason":"Chanson à texte is a style of French folk music characterized by lyrical content."}
+{"style":"traditional rock","totalCount":3,"kind":"subgenre","parent_genres":["rock"],"reason":"Traditional rock is a recognized subgenre of rock music."}
+{"style":"j-urban","totalCount":3,"kind":"subgenre","parent_genres":["hip hop"],"reason":"J-urban is a recognized subgenre of hip hop music."}
+{"style":"war metal","totalCount":3,"kind":"subgenre","parent_genres":["metal"],"reason":"War metal is a subgenre of metal, characterized by its extreme intensity and aggression."}
+{"style":"musique concrète","totalCount":3,"kind":"subgenre","parent_genres":["electronic"],"reason":"Musique concrète is a specific style of electronic music utilizing recorded sounds."}
+{"style":"chillsynth","totalCount":3,"kind":"subgenre","parent_genres":["electronic"],"reason":"Chillsynth is a recognized subgenre of electronic music characterized by atmospheric and melancholic soundscapes."}
+{"style":"qawwali","totalCount":3,"kind":"genre","parent_genres":[],"reason":"Qawwali is a well-known and established genre of Islamic devotional music."}
+{"style":"waltz","totalCount":3,"kind":"genre","parent_genres":[],"reason":"Waltz is a broad, established genre of music."}
+{"style":"orchestra","totalCount":3,"kind":"genre","parent_genres":[],"reason":"Orchestra is a broad primary genre and not a subgenre."}
+{"style":"djent","totalCount":2,"kind":"subgenre","parent_genres":["metal"],"reason":"Djent is a recognized subgenre of metal characterized by its distinctive rhythmic patterns."}
+{"style":"nu-disco","totalCount":2,"kind":"subgenre","parent_genres":["house"],"reason":"Nu-disco is a well-defined subgenre of house music."}
+{"style":"gabberpop","totalCount":2,"kind":"subgenre","parent_genres":["electronic"],"reason":"Gabberpop is a recognized subgenre within electronic music, characterized by its fast tempo and distorted sounds."}
+{"style":"ethno","totalCount":2,"kind":"subgenre","parent_genres":["folk"],"reason":"Ethno music is a subgenre of folk music."}
+{"style":"chill","totalCount":2,"kind":"subgenre","parent_genres":["electronic"],"reason":"Chill is a subgenre of electronic music, often associated with psytrance and progressive house."}
+{"style":"rasta","totalCount":2,"kind":"genre","parent_genres":[],"reason":"Rasta is a cultural and musical style, not a subgenre of any established music genre."}
+{"style":"rai","totalCount":2,"kind":"subgenre","parent_genres":["electronic"],"reason":"Rai is a specific subgenre of electronic music."}
+{"style":"nu jazz","totalCount":2,"kind":"subgenre","parent_genres":["jazz"],"reason":"Nu jazz is a recognized subgenre of jazz music."}
+{"style":"guitar","totalCount":2,"kind":"subgenre","parent_genres":["folk"],"reason":"Tuareg guitar is a specific style within the broader folk genre."}
+{"style":"hardtek","totalCount":2,"kind":"subgenre","parent_genres":["techno"],"reason":"Hardtek is a subgenre of techno, characterized by its fast tempo and aggressive sound."}
+{"style":"polka","totalCount":2,"kind":"genre","parent_genres":[],"reason":"Polka is a well-known broad genre."}
+{"style":"laico","totalCount":2,"kind":"subgenre","parent_genres":["electronic"],"reason":"Laico is a recognized subgenre of electronic music."}
+{"style":"roll","totalCount":2,"kind":"subgenre","parent_genres":["blues"],"reason":"Roll is a subgenre of blues music characterized by its rhythmic emphasis."}
+{"style":"broken beat","totalCount":2,"kind":"subgenre","parent_genres":["electronic"],"reason":"Broken beat is a recognized subgenre of electronic music."}
+{"style":"ghazal","totalCount":2,"kind":"genre","parent_genres":[],"reason":"Ghazal is a traditional poetic form, not a subgenre of any musical style."}
+{"style":"bolero","totalCount":2,"kind":"subgenre","parent_genres":["latin"],"reason":"Bolero is a recognized style of Latin music."}
+{"style":"noisecore","totalCount":2,"kind":"subgenre","parent_genres":["metal"],"reason":"Noisecore is a subgenre of metal characterized by extreme noise and distorted sounds."}
+{"style":"filmi","totalCount":2,"kind":"subgenre","parent_genres":["electronic"],"reason":"Filmi is a well-known subgenre of electronic music."}
+{"style":"throat singing","totalCount":2,"kind":"subgenre","parent_genres":["folk"],"reason":"Throat singing is a traditional vocal technique primarily found within folk music traditions."}
+{"style":"old time","totalCount":2,"kind":"subgenre","parent_genres":["folk"],"reason":"Old time music is a recognized subgenre of folk music."}
+{"style":"liedermachen","totalCount":2,"kind":"subgenre","parent_genres":["folk"],"reason":"Liedermachen is a German tradition of songwriting and performance, closely related to folk music."}
+{"style":"video game music","totalCount":2,"kind":"subgenre","parent_genres":["electronic"],"reason":"Video game music is a subgenre of electronic music, often characterized by synthesized sounds and repetitive patterns."}
+{"style":"nueva trova","totalCount":2,"kind":"subgenre","parent_genres":["folk"],"reason":"Nueva trova is a recognized subgenre of folk music, originating in Colombia."}
+{"style":"exotica","totalCount":2,"kind":"subgenre","parent_genres":["electronic"],"reason":"Exotica is a recognized subgenre of electronic music characterized by its use of synthesized sounds and world music influences."}
+{"style":"forró","totalCount":2,"kind":"subgenre","parent_genres":["world"],"reason":"Forró is a specific type of world music."}
+{"style":"bellydance","totalCount":2,"kind":"genre","parent_genres":[],"reason":"Bellydance is a distinct style of dance and not a subgenre of any other musical genre."}
+{"style":"choir","totalCount":2,"kind":"genre","parent_genres":[],"reason":"Choir is a broad musical style and not a subgenre."}
+{"style":"kpop","totalCount":2,"kind":"genre","parent_genres":[],"reason":"Kpop is a well-known broad genre and not a subgenre."}
+{"style":"boleros","totalCount":2,"kind":"subgenre","parent_genres":["latin"],"reason":"Boleros are a well-known style of Latin music."}
+{"style":"oud","totalCount":2,"kind":"genre","parent_genres":[],"reason":"Oud is a primary musical instrument and a broad style."}
+{"style":"marabi","totalCount":2,"kind":"subgenre","parent_genres":["jazz"],"reason":"Marabi is a specific style of jazz originating from South Africa."}
+{"style":"hyperdub","totalCount":2,"kind":"subgenre","parent_genres":["electronic"],"reason":"Hyperdub is a recognized subgenre of electronic music."}
+{"style":"canzone napoletana","totalCount":2,"kind":"genre","parent_genres":[],"reason":"Canzone napoletana is a recognized traditional Italian musical style and not a subgenre."}
+{"style":"post-alternative","totalCount":2,"kind":"subgenre","parent_genres":["alternative"],"reason":"Post-alternative is a recognized subgenre of alternative music."}
+{"style":"childrens songs","totalCount":2,"kind":"genre","parent_genres":[],"reason":"Childrens songs is a broad primary genre."}
+{"style":"filthstep","totalCount":2,"kind":"subgenre","parent_genres":["techno"],"reason":"Filthstep is a recognized subgenre of techno music."}
+{"style":"adult alternative","totalCount":2,"kind":"subgenre","parent_genres":["alternative rock"],"reason":"Adult alternative is a recognized subgenre of alternative rock music."}
+{"style":"balearic","totalCount":2,"kind":"subgenre","parent_genres":["house"],"reason":"Balearic is a well-known subgenre of house music characterized by a relaxed, melodic approach."}
+{"style":"juju","totalCount":2,"kind":"subgenre","parent_genres":["world"],"reason":"Jùjú is a specific style within the broader world music genre."}
+{"style":"psychobilly","totalCount":2,"kind":"subgenre","parent_genres":["rock"],"reason":"Psychobilly is a recognized subgenre of rock music characterized by its fusion of punk and rockabilly elements."}
+{"style":"bagpipe","totalCount":2,"kind":"genre","parent_genres":[],"reason":"Bagpipe is a fundamental instrument and therefore a primary genre."}
+{"style":"deathcore","totalCount":2,"kind":"subgenre","parent_genres":["metal"],"reason":"Deathcore is a recognized subgenre of metal music."}
+{"style":"soundtracks and musicals","totalCount":2,"kind":"subgenre","parent_genres":["classical"],"reason":"Soundtracks and musicals are a well-established subgenre of classical music."}
+{"style":"soca","totalCount":2,"kind":"subgenre","parent_genres":["reggae"],"reason":"Soca is a subgenre of reggae music."}
+{"style":"ballet","totalCount":2,"kind":"genre","parent_genres":[],"reason":"Ballet is a fundamental musical style and not a subgenre."}
+{"style":"cantata","totalCount":2,"kind":"subgenre","parent_genres":["classical"],"reason":"Cantata is a well-known subgenre of classical music."}
+{"style":"arabesk","totalCount":2,"kind":"subgenre","parent_genres":["turkish pop"],"reason":"Arabesk is a recognized subgenre of Turkish pop music."}
+{"style":"cowpunk","totalCount":2,"kind":"subgenre","parent_genres":["rock"],"reason":"Cowpunk is a recognized subgenre of rock music."}
+{"style":"slap house","totalCount":2,"kind":"subgenre","parent_genres":["house"],"reason":"Slap house is a recognized subgenre of house music characterized by percussive 'slap' sounds."}
+{"style":"new wave of british heavy metal","totalCount":2,"kind":"subgenre","parent_genres":["metal"],"reason":"NWOBHM is a recognized subgenre of metal music."}
+{"style":"samba","totalCount":2,"kind":"subgenre","parent_genres":["world"],"reason":"Samba is a well-known style within the broader World music genre."}
+{"style":"volksmusik","totalCount":2,"kind":"subgenre","parent_genres":["folk"],"reason":"Volksmusik is a German term for folk music, representing a subgenre of folk."}
+{"style":"blues rock","totalCount":2,"kind":"subgenre","parent_genres":["rock"],"reason":"Blues rock is a recognized subgenre of rock music."}
+{"style":"electroswing","totalCount":2,"kind":"subgenre","parent_genres":["electronic"],"reason":"Electroswing is a recognized subgenre of electronic music."}
+{"style":"freestyle","totalCount":2,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Freestyle is a recognized subgenre of hip hop music."}
+{"style":"pirate metal","totalCount":2,"kind":"subgenre","parent_genres":["metal"],"reason":"Pirate metal is a recognized subgenre of metal music."}
+{"style":"muzika","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"The style 'muzika' is associated with 'muzika mizrahit,' indicating a folk musical tradition."}
+{"style":"mizrahi music","totalCount":1,"kind":"subgenre","parent_genres":["world"],"reason":"Mizrahi music is a distinct world music genre with roots in the music of the diaspora of Jewish communities."}
+{"style":"mzansi","totalCount":1,"kind":"subgenre","parent_genres":["house"],"reason":"Mzansi is a recognized subgenre of house music originating in South Africa."}
+{"style":"honky tonk","totalCount":1,"kind":"subgenre","parent_genres":["country"],"reason":"Honky tonk is a subgenre of country music characterized by its instrumentation and themes."}
+{"style":"corridos tumbados","totalCount":1,"kind":"subgenre","parent_genres":["latin trap"],"reason":"Corridos tumbados are a recognized subgenre of Latin trap music."}
+{"style":"corridos","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Corridos is a well-known genre of music."}
+{"style":"sierreno","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"Sierreno is a recognized folk music style with roots in the American Southwest."}
+{"style":"corrido tumbado","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Corrido tumbado is a subgenre of hip hop, characterized by its blend of traditional Mexican corrido music with trap and hip hop elements."}
+{"style":"regional mexicano","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Regional mexicano is a broad musical genre."}
+{"style":"death doom metal","totalCount":1,"kind":"subgenre","parent_genres":["metal"],"reason":"Death doom metal is a recognized subgenre of metal music."}
+{"style":"post-neo","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Post-neo is a recognized subgenre of electronic music, often associated with ambient and experimental sounds."}
+{"style":"kraftwerk","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Kraftwerk is a foundational and well-known electronic music style."}
+{"style":"dave wave","totalCount":1,"kind":"subgenre","parent_genres":["ambient"],"reason":"Dave wave is a distinct subgenre of ambient music."}
+{"style":"2step","totalCount":1,"kind":"subgenre","parent_genres":["house"],"reason":"2step is a recognized subgenre of house music."}
+{"style":"horrorcore","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Horrorcore is a recognized subgenre of hip hop, characterized by its dark and violent themes."}
+{"style":"afrofuturism","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Afrofuturism is a stylistic movement deeply rooted within hip hop culture."}
+{"style":"ghettotech","totalCount":1,"kind":"subgenre","parent_genres":["house"],"reason":"Ghettotech is a recognized subgenre of house music, characterized by its origins and sound."}
+{"style":"female singer-songwriter","totalCount":1,"kind":"subgenre","parent_genres":["singer-songwriter"],"reason":"A recognized subgenre of singer-songwriter defined by the gender of the vocalist."}
+{"style":"queercore","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Queercore is a subgenre of electronic music, often characterized by its queer themes and experimental sound."}
+{"style":"taizé","totalCount":1,"kind":"subgenre","parent_genres":["classical"],"reason":"Taizé music is a specific style of classical music known for its simple harmonies and vocal arrangements."}
+{"style":"gothic rock","totalCount":1,"kind":"subgenre","parent_genres":["rock"],"reason":"Gothic rock is a recognized subgenre of rock music."}
+{"style":"pachanga","totalCount":1,"kind":"subgenre","parent_genres":["latin"],"reason":"Pachanga is a recognized style within Latin music."}
+{"style":"dura","totalCount":1,"kind":"subgenre","parent_genres":["salsa"],"reason":"Dura is a recognized subgenre of salsa music."}
+{"style":"son cubano","totalCount":1,"kind":"subgenre","parent_genres":["latin jazz"],"reason":"Son cubano is a distinctive style of Latin jazz."}
+{"style":"motorik","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Motorik is a defining rhythmic style within electronic music, particularly techno and house."}
+{"style":"blitzmash","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Blitzmash is a recognized subgenre of electronic music."}
+{"style":"post-minimalism","totalCount":1,"kind":"subgenre","parent_genres":["minimalism"],"reason":"Post-minimalism is a recognized subgenre of minimalism."}
+{"style":"fantasy","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Fantasy is a broad primary genre and not a subgenre."}
+{"style":"neomedieval","totalCount":1,"kind":"subgenre","parent_genres":["classical"],"reason":"Neomedieval music is a subgenre of classical music with medieval-inspired elements."}
+{"style":"cantautore","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Cantautore is an Italian term for singer-songwriters, a recognized subgenre of pop music."}
+{"style":"cardio wave","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Cardio wave is a recognized subgenre within the broader electronic music category."}
+{"style":"g-house","totalCount":1,"kind":"subgenre","parent_genres":["house"],"reason":"G-house is a recognized subgenre of house music."}
+{"style":"mathcore","totalCount":1,"kind":"subgenre","parent_genres":["metal"],"reason":"Mathcore is a subgenre of metal characterized by complex rhythmic patterns and mathematical concepts."}
+{"style":"hippie","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"Hippie is a subgenre of folk music characterized by its countercultural themes and musical styles."}
+{"style":"deepstep","totalCount":1,"kind":"subgenre","parent_genres":["techno"],"reason":"Deepstep is a recognized subgenre of techno music."}
+{"style":"zouk","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Zouk is a recognized electronic music style."}
+{"style":"neo-psychedelic","totalCount":1,"kind":"subgenre","parent_genres":["psychedelic"],"reason":"Neo-psychedelic is a recognized subgenre of psychedelic music."}
+{"style":"noir","totalCount":1,"kind":"subgenre","parent_genres":["jazz"],"reason":"Noir is a well-known subgenre of jazz music, often characterized by dark themes and a cinematic style."}
+{"style":"two-tone","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Two-tone is a recognized subgenre of pop music known for its ska and rock influences."}
+{"style":"fingerstyle","totalCount":1,"kind":"subgenre","parent_genres":["acoustic"],"reason":"Fingerstyle is a recognized style within acoustic music."}
+{"style":"soulchild","totalCount":1,"kind":"subgenre","parent_genres":["soul"],"reason":"Soulchild is a relatively new subgenre of soul music."}
+{"style":"goregrind","totalCount":1,"kind":"subgenre","parent_genres":["metal"],"reason":"Goregrind is a recognized subgenre of metal, characterized by extreme brutality and graphic imagery."}
+{"style":"hang drum","totalCount":1,"kind":"subgenre","parent_genres":["world"],"reason":"Hang drum is a unique instrument, and therefore a subgenre of world music."}
+{"style":"carmina burana","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Carmina Burana is a well-known, established choral work and not a subgenre of any other musical style."}
+{"style":"amapiano","totalCount":1,"kind":"subgenre","parent_genres":["house"],"reason":"A recognized subgenre of house music originating from South Africa."}
+{"style":"let it roll","totalCount":1,"kind":"subgenre","parent_genres":["rock"],"reason":"‘Let it roll’ is a recognized rock song and style."}
+{"style":"aggrotech","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Aggrotech is a subgenre of electronic music characterized by aggressive sounds and rhythms."}
+{"style":"gamelan","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Gamelan is a broad musical style and not a subgenre."}
+{"style":"raga","totalCount":1,"kind":"subgenre","parent_genres":["world"],"reason":"Raga is a traditional Indian musical form, a recognized subgenre of world music."}
+{"style":"cantopop","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Cantopop is a distinct subgenre of pop music originating in Hong Kong."}
+{"style":"bounce music","totalCount":1,"kind":"subgenre","parent_genres":["house"],"reason":"Bounce music is a distinct subgenre of house music characterized by its prominent drum patterns."}
+{"style":"soprano","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Soprano is a vocal range and not a subgenre of any musical style."}
+{"style":"neoperreo","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Neoperreo is a distinct subgenre of hip hop music characterized by a specific rhythmic style and production techniques."}
+{"style":"drums","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Drums are a fundamental musical instrument and not a genre or subgenre."}
+{"style":"bop","totalCount":1,"kind":"subgenre","parent_genres":["jazz"],"reason":"Bop is a well-known subgenre of jazz music."}
+{"style":"carnatic","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Carnatic is a well-established primary genre of Indian classical music."}
+{"style":"stomp and holler","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"Stomp and holler is a traditional folk music style."}
+{"style":"goa","totalCount":1,"kind":"subgenre","parent_genres":["house"],"reason":"Goa is a recognized subgenre of house music characterized by its distinctive sound and culture."}
+{"style":"standards","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Standards is a broad term referring to a category of musical compositions."}
+{"style":"accordion","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Accordion is a foundational musical instrument and therefore a primary genre."}
+{"style":"bayesian","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Bayesian music is a specific subgenre of electronic music."}
+{"style":"kosmische","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Kosmische musik is a distinct subgenre of electronic music, characterized by its atmospheric and often minimalist sound."}
+{"style":"symphonic","totalCount":1,"kind":"subgenre","parent_genres":["classical"],"reason":"Symphonic music is a well-known style within classical music."}
+{"style":"funk rock","totalCount":1,"kind":"subgenre","parent_genres":["rock"],"reason":"Funk rock is a recognized subgenre of rock music."}
+{"style":"j-funk","totalCount":1,"kind":"subgenre","parent_genres":["funk"],"reason":"J-funk is a recognized subgenre of funk music."}
+{"style":"northern soul","totalCount":1,"kind":"subgenre","parent_genres":["soul"],"reason":"Northern soul is a recognized subgenre of soul music."}
+{"style":"mozambique","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Mozambique is a well-known subgenre of electronic music."}
+{"style":"marrabenta","totalCount":1,"kind":"subgenre","parent_genres":["funk"],"reason":"Marrabenta is a subgenre of funk characterized by its distinctive rhythmic patterns."}
+{"style":"chinese pop","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Chinese pop is a recognized subgenre of pop music."}
+{"style":"yé-yé","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Yé-yé is a specific style of French pop music."}
+{"style":"forro","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Forro is a distinct musical genre with origins in Latin America."}
+{"style":"demoscene","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Demoscene is a specific subgenre of electronic music."}
+{"style":"musical theatre","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Musical theatre is a broad, established genre of musical performance."}
+{"style":"indie pop","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Indie pop is a recognized subgenre of pop music."}
+{"style":"kora","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Kora is a primary musical instrument and a broad genre in itself."}
+{"style":"popwave","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Popwave is a broad musical style and not a subgenre."}
+{"style":"grieg","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Grieg is a well-known classical composer and thus a genre."}
+{"style":"whale music","totalCount":1,"kind":"subgenre","parent_genres":["ambient"],"reason":"Whale music is a specific subgenre of ambient music characterized by its use of natural whale sounds."}
+{"style":"post-screamo","totalCount":1,"kind":"subgenre","parent_genres":["screamo"],"reason":"Post-screamo is a recognized subgenre of screamo."}
+{"style":"praise & worship","totalCount":1,"kind":"subgenre","parent_genres":["gospel"],"reason":"Praise & worship is a distinct subgenre within the broader gospel music tradition."}
+{"style":"reis","totalCount":1,"kind":"subgenre","parent_genres":["jazz"],"reason":"Reis is a specific style of jazz, frequently associated with the German label MPS."}
+{"style":"narcocorrido","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Narcocorrido is a subgenre of hip hop, characterized by its lyrical themes and rhythmic style."}
+{"style":"ed banger","totalCount":1,"kind":"subgenre","parent_genres":["house"],"reason":"Ed banger is a distinctive subgenre of house music."}
+{"style":"av","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"av is a common abbreviation for ambient or experimental electronic music."}
+{"style":"electro funk","totalCount":1,"kind":"subgenre","parent_genres":["funk"],"reason":"Electro funk is a recognized subgenre of funk music."}
+{"style":"dubwise","totalCount":1,"kind":"subgenre","parent_genres":["house"],"reason":"Dubwise is a recognized subgenre of house music."}
+{"style":"doujin","totalCount":1,"kind":"subgenre","parent_genres":["music"],"reason":"Doujin is a type of music creation, and therefore a subgenre of music."}
+{"style":"pagan metal","totalCount":1,"kind":"subgenre","parent_genres":["metal"],"reason":"Pagan metal is a recognized subgenre of metal music."}
+{"style":"arbeiterlied","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Arbeiterlied is a well-known broad genre of German-language folk music."}
+{"style":"day of the dead","totalCount":1,"kind":"subgenre","parent_genres":["mexican"],"reason":"Day of the Dead is a culturally significant tradition within Mexican culture."}
+{"style":"fiddle","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Fiddle is a broad musical style and not a subgenre."}
+{"style":"contemporary","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Contemporary is a broad descriptor of music in the present time and doesn't fit into any specific genre."}
+{"style":"slam poetry","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Slam poetry is a recognized subgenre of hip hop, often performed in competitive settings."}
+{"style":"dixieland","totalCount":1,"kind":"subgenre","parent_genres":["jazz"],"reason":"Dixieland is a specific and historically recognized subgenre of jazz music."}
+{"style":"vocal harmony","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Vocal harmony is a common element in pop music."}
+{"style":"gangstar rap","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Gangstar rap is a recognized subgenre of hip hop, characterized by its specific themes and production."}
+{"style":"linedance","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"‘Linedance’ is a folk dance style, specifically a subgenre of folk music."}
+{"style":"beatdown","totalCount":1,"kind":"subgenre","parent_genres":["metal"],"reason":"Beatdown is a recognized subgenre of metal."}
+{"style":"glitchstep","totalCount":1,"kind":"subgenre","parent_genres":["techno"],"reason":"Glitchstep is a distinct subgenre of techno music characterized by its rhythmic glitches and distorted sounds."}
+{"style":"harp","totalCount":1,"kind":"subgenre","parent_genres":["jazz"],"reason":"Harp is a recognized subgenre of jazz music."}
+{"style":"synthpunk","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Synthpunk is a recognized subgenre of electronic music characterized by synthesizers and punk rock influences."}
+{"style":"evita","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Evita is a well-known pop song with significant musical and cultural impact."}
+{"style":"improv","totalCount":1,"kind":"subgenre","parent_genres":["jazz"],"reason":"Improvisation is a key element of jazz music."}
+{"style":"rhythm","totalCount":1,"kind":"subgenre","parent_genres":["music"],"reason":"Rhythm is a fundamental element of music and a recognized subgenre within the broader music category."}
+{"style":"delta blues","totalCount":1,"kind":"subgenre","parent_genres":["blues"],"reason":"Delta blues is a recognized subgenre of blues music characterized by its electric instrumentation."}
+{"style":"bardcore","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"Bardcore is a subgenre of folk music characterized by its lyrical focus on storytelling and performance."}
+{"style":"wind","totalCount":1,"kind":"subgenre","parent_genres":["ambient"],"reason":"Wind music is a specific subgenre of ambient music, often characterized by atmospheric textures and natural sounds."}
+{"style":"touch music","totalCount":1,"kind":"subgenre","parent_genres":["house"],"reason":"Touch music is a recognized subgenre of house music."}
+{"style":"bhangra","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Bhangra is a well-known primary genre."}
+{"style":"shake","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Shake is a recognized subgenre of pop music."}
+{"style":"tendencies","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"‘Tendencies’ is a stylistic modifier referring to a recognized electronic music subgenre."}
+{"style":"dabke","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Dabke is a distinct folk dance and musical tradition, not a subgenre of any established music style."}
+{"style":"gnawa","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Gnawa is a recognized broad musical genre with unique origins."}
+{"style":"blankcore","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Blankcore is a recent subgenre within electronic music."}
+{"style":"string quartet","totalCount":1,"kind":"subgenre","parent_genres":["classical"],"reason":"String quartet is a well-established subgenre within classical music."}
+{"style":"cuban","totalCount":1,"kind":"subgenre","parent_genres":["latin"],"reason":"Cuban music is a recognized subgenre of Latin music."}
+{"style":"shamisen","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Shamisen is a distinct and well-known genre of Japanese musical instrument."}
+{"style":"cyberpunk","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Cyberpunk is a subgenre of electronic music characterized by its futuristic and dystopian themes."}
+{"style":"kiche","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Kiche is a recognized subgenre of electronic music."}
+{"style":"alternative rap","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Alternative rap is a recognized subgenre of hip hop music."}
+{"style":"neapolitan","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Neapolitan is a well-known musical style and not a subgenre."}
+{"style":"female vocalists","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Female vocalists is a common descriptor often found within the broader pop music genre."}
+{"style":"tune","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"‘Tune’ is a common term for a folk song."}
+{"style":"nuevo flamenco","totalCount":1,"kind":"subgenre","parent_genres":["flamenco"],"reason":"Nuevo flamenco is a recognized subgenre of flamenco music."}
+{"style":"woodstock","totalCount":1,"kind":"subgenre","parent_genres":["rock"],"reason":"Woodstock is a recognized subgenre of rock music, specifically associated with the 1969 festival."}
+{"style":"raggamuffin","totalCount":1,"kind":"subgenre","parent_genres":["reggae"],"reason":"Raggamuffin is a recognized subgenre of reggae music."}
+{"style":"ballade","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Ballade is a broad musical style and not a subgenre."}
+{"style":"indietronics","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Indietronics is a recognized subgenre of electronic music."}
+{"style":"steampunk","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Steampunk is a distinctive aesthetic and style, not a subgenre of any established musical genre."}
+{"style":"hardstyle","totalCount":1,"kind":"subgenre","parent_genres":["techno"],"reason":"Hardstyle is a well-defined subgenre of techno music."}
+{"style":"gopnik","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Gopnik music is a subgenre of hip hop, characterized by its raw, often aggressive sound and lyrical content."}
+{"style":"skullstep","totalCount":1,"kind":"subgenre","parent_genres":["techno"],"reason":"Skullstep is a recognized subgenre of techno music."}
+{"style":"hard rock","totalCount":1,"kind":"subgenre","parent_genres":["rock"],"reason":"Hard rock is a recognized subgenre of rock music."}
+{"style":"quebecois","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"Quebecois music is a folk style originating from Quebec, Canada."}
+{"style":"chanson québécoise","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"Chanson québécoise is a style of folk music originating from Quebec."}
+{"style":"ukulele","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Ukulele is a fundamental musical instrument and a primary style, not a subgenre."}
+{"style":"hawaiian","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Hawaiian is a broad musical style and not a subgenre."}
+{"style":"beats","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"‘Beats’ is a common descriptor within the broader electronic music genre."}
+{"style":"girl groups","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Girl groups are a well-defined subgenre within the broader pop music landscape."}
+{"style":"crooners","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Crooners is a well-established genre of vocal music."}
+{"style":"manding","totalCount":1,"kind":"subgenre","parent_genres":["world"],"reason":"Manding music is a distinct world music style."}
+{"style":"ostschlager","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Ostschlager is a specific subgenre of pop music originating from Austria."}
+{"style":"sadcore","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Sadcore is a recognized subgenre within electronic music."}
+{"style":"superpop","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Superpop is a recognized subgenre of pop music."}
+{"style":"electrotango","totalCount":1,"kind":"subgenre","parent_genres":["tango"],"reason":"Electrotango is a recognized subgenre of Tango music."}
+{"style":"liquid funk","totalCount":1,"kind":"subgenre","parent_genres":["funk"],"reason":"Liquid funk is a recognized subgenre of funk music."}
+{"style":"neo-classical","totalCount":1,"kind":"subgenre","parent_genres":["classical"],"reason":"Neo-classical music is a recognized subgenre of classical music."}
+{"style":"bagpipes","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Bagpipes is a foundational musical instrument and therefore a genre."}
+{"style":"grind","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"‘Grind’ is a recognizable subgenre of electronic music."}
+{"style":"scrubs","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"‘Scrub’ is a term commonly used within the hip hop genre."}
+{"style":"africain-francais","totalCount":1,"kind":"subgenre","parent_genres":["house"],"reason":"Africain-Francais is a specific style of house music originating from West Africa."}
+{"style":"neuropunk","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Neuropunk is a subgenre of electronic music characterized by its dystopian themes and technological influences."}
+{"style":"protopunk","totalCount":1,"kind":"subgenre","parent_genres":["punk"],"reason":"Protopunk is an early iteration of punk rock, thus a subgenre."}
+{"style":"bitpop","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Bitpop is a recognized subgenre of pop music."}
+{"style":"folk music","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"Celtic folk music is a recognized subgenre of folk music."}
+{"style":"chaabi","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Chaabi is a well-known genre of Moroccan popular music and not a subgenre."}
+{"style":"anthems","totalCount":1,"kind":"subgenre","parent_genres":["rock"],"reason":"Anthems are a common descriptor of songs within the rock genre."}
+{"style":"nu metal","totalCount":1,"kind":"subgenre","parent_genres":["metal"],"reason":"Nu metal is a recognized subgenre of metal music."}
+{"style":"latin music","totalCount":1,"kind":"subgenre","parent_genres":["jazz"],"reason":"Latin music is a subgenre of jazz, often incorporating jazz harmonies and improvisation."}
+{"style":"cutugno","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Cutugno is a well-known style within the broader pop music genre, characterized by its distinctive sound."}
+{"style":"clowncore","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Clowncore is a recent subgenre of pop music characterized by its aesthetic."}
+{"style":"speedcore","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Speedcore is a fast-paced subgenre of electronic music."}
+{"style":"flashdance","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Flashdance is a distinct pop music style with a notable influence."}
+{"style":"tropicalia","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Tropicalia was a Brazilian pop movement with strong psychedelic and experimental elements."}
+{"style":"tropicália","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Tropicália is a recognized subgenre of pop music with strong Brazilian influences."}
+{"style":"folk romance","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"Folk romance is a recognized subgenre of folk music."}
+{"style":"third stream","totalCount":1,"kind":"subgenre","parent_genres":["jazz"],"reason":"Third stream is a recognized subgenre of jazz music."}
+{"style":"brutal death metal","totalCount":1,"kind":"subgenre","parent_genres":["metal"],"reason":"Brutal death metal is a recognized subgenre of metal music."}
+{"style":"antifolk","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"Antifolk is a recognized subgenre of folk music characterized by its rebellious and experimental approach."}
+{"style":"klimat","totalCount":1,"kind":"subgenre","parent_genres":["ambient"],"reason":"Klimat is a known subgenre of ambient music."}
+{"style":"lieder","totalCount":1,"kind":"subgenre","parent_genres":["classical"],"reason":"Lieder is a German term for art songs, a specific form within classical music."}
+{"style":"tabla","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Tabla is a primary musical style and not a subgenre."}
+{"style":"underground","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"‘Asian underground’ is a recognized subgenre of electronic music."}
+{"style":"swancore","totalCount":1,"kind":"subgenre","parent_genres":["metal"],"reason":"Swancore is a recognized subgenre of metal music."}
+{"style":"cowboy","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Cowboy is a broad musical style and not a subgenre."}
+{"style":"raï","totalCount":1,"kind":"subgenre","parent_genres":["world"],"reason":"Raï is a recognized genre of North African music, often categorized within the broader World music genre."}
+{"style":"glitch hop","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Glitch hop is a recognized subgenre of hip hop music."}
+{"style":"futurepop","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Futurepop is a recognized subgenre of pop music characterized by electronic elements."}
+{"style":"sleng teng","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Sleng Teng is a distinctive subgenre of hip hop music originating from the late 1980s."}
+{"style":"songs","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Songs is a broad style that can be classified under electronic music."}
+{"style":"visual kei","totalCount":1,"kind":"subgenre","parent_genres":["rock"],"reason":"Visual kei is a recognized subgenre of rock music characterized by distinct aesthetic styles."}
+{"style":"groove","totalCount":1,"kind":"subgenre","parent_genres":["funk"],"reason":"‘Groove’ is a stylistic modifier of funk music."}
+{"style":"part","totalCount":1,"kind":"subgenre","parent_genres":["classical"],"reason":"Arvo Part is a prominent composer within the classical music genre, known for his minimalist and spiritual style."}
+{"style":"twee","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"Twee is a recognized subgenre of pop music."}
+{"style":"darkpsy","totalCount":1,"kind":"subgenre","parent_genres":["house"],"reason":"Darkpsy is a well-known subgenre of house music."}
+{"style":"bollywood","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Bollywood is a broad musical style and not a subgenre."}
+{"style":"krishnacore","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Krishnacore is a subgenre of electronic music incorporating elements of Indian devotional music."}
+{"style":"jams","totalCount":1,"kind":"subgenre","parent_genres":["rock"],"reason":"Jams is a common descriptor of rock music, specifically guitar-based music."}
+{"style":"weird music","totalCount":1,"kind":"subgenre","parent_genres":["experimental"],"reason":"‘Weird music’ often falls under experimental music."}
+{"style":"garbux","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"‘Garbux’ represents an experimental electronic style."}
+{"style":"balkanisme","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"Balkanisme is a subgenre of folk music characterized by its instrumentation and rhythmic style."}
+{"style":"electronic music","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Electronic music is a broad genre, but 'electronic' specifically refers to a core style within that genre."}
+{"style":"love","totalCount":1,"kind":"subgenre","parent_genres":["pop"],"reason":"‘love’ is a common subgenre of pop music, often referring to romantic pop."}
+{"style":"minimalist","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Minimal is a broad primary genre and not a subgenre."}
+{"style":"organ","totalCount":1,"kind":"genre","parent_genres":[],"reason":"Organ is a broad musical instrument and not a subgenre."}
+{"style":"farofa","totalCount":1,"kind":"subgenre","parent_genres":["Brazilian music"],"reason":"Farofa is a Brazilian music style, a specific type of forró."}
+{"style":"robot disco","totalCount":1,"kind":"subgenre","parent_genres":["house"],"reason":"Robot disco is a recognized subgenre of house music."}
+{"style":"skulduggery","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"‘Skulduggery’ is a slang term often associated with hip hop culture."}
+{"style":"enka","totalCount":1,"kind":"subgenre","parent_genres":["folk"],"reason":"Enka is a traditional Japanese folk music genre."}
+{"style":"soul riddim","totalCount":1,"kind":"subgenre","parent_genres":["soul"],"reason":"Soul riddim is a recognized subgenre of soul music."}
+{"style":"roots riddim","totalCount":1,"kind":"subgenre","parent_genres":["riddim"],"reason":"Roots riddim is a recognized subgenre of riddim music."}
+{"style":"go-go","totalCount":1,"kind":"subgenre","parent_genres":["funk"],"reason":"Go-go is a subgenre of funk music characterized by its energetic dance style."}
+{"style":"cybergrind","totalCount":1,"kind":"subgenre","parent_genres":["metal"],"reason":"Cybergrind is a recognized subgenre of metal music."}
+{"style":"vocal jazz","totalCount":1,"kind":"subgenre","parent_genres":["jazz"],"reason":"Vocal jazz is a recognized subgenre of jazz music characterized by prominent vocal performance."}
+{"style":"phonk","totalCount":1,"kind":"subgenre","parent_genres":["electronic"],"reason":"Phonk is a recognized subgenre of electronic music."}
+{"style":"baggy","totalCount":1,"kind":"subgenre","parent_genres":["hip hop"],"reason":"Baggy is a subgenre of hip hop music characterized by specific production techniques and stylistic elements."}
+{"style":"acordes","totalCount":1,"kind":"subgenre","parent_genres":["classical"],"reason":"‘Acordes’ refers to musical chords, a fundamental element of classical music."}
+{"style":"countrypolitan","totalCount":1,"kind":"subgenre","parent_genres":["country"],"reason":"Countrypolitan is a recognized subgenre of country music."}
+{"style":"bells","totalCount":1,"kind":"subgenre","parent_genres":["classical"],"reason":"Bells are commonly used in classical music and are a subgenre of classical music."}
