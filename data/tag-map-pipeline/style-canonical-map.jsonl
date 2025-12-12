@@ -17,7 +17,6 @@
 {"style":"ambient","canonical_style":"ambient","totalCount":296,"action":"keep","reason":"Already a standard canonical style name."}
 {"style":"techno","canonical_style":"techno","totalCount":274,"action":"keep","reason":"Already a standard canonical style name, and example tags support this style."}
 {"style":"dance","canonical_style":"dance","totalCount":264,"action":"keep","reason":"Already a standard canonical style name."}
-{"style":"drum and bass","canonical_style":"drum and bass","totalCount":251,"action":"keep","reason":"Already a standard canonical style name."}
 {"style":"experimental","canonical_style":"experimental","totalCount":241,"action":"keep","reason":"Already a valid and standard musical style term."}
 {"style":"reggae","canonical_style":"reggae","totalCount":239,"action":"keep","reason":"Already a standard canonical style name."}
 {"style":"psychedelic","canonical_style":"psychedelic","totalCount":199,"action":"keep","reason":"Already a standard canonical style name."}
@@ -445,7 +444,6 @@
 {"style":"symfonicznie","canonical_style":"symphonic","totalCount":1,"action":"alias","reason":"Polish word for 'symphonic', should be normalized to the English equivalent."}
 {"style":"funk rock","canonical_style":"funk rock","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
 {"style":"j-funk","canonical_style":"j-funk","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
-{"style":"drum and bass","canonical_style":"drum & bass","totalCount":1,"action":"alias","reason":"Common variation of 'drum & bass', should map to the standard notation."}
 {"style":"northern dancers","canonical_style":"northern soul","totalCount":1,"action":"alias","reason":"Likely refers to 'northern soul', a related musical genre often associated with 'northern dancers'."}
 {"style":"mozambique","canonical_style":"mozambique","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
 {"style":"marrabenta","canonical_style":"marrabenta","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
@@ -551,7 +549,6 @@
 {"style":"triphop","canonical_style":"trip hop","totalCount":1,"action":"alias","reason":"Misspelled form of 'trip hop', a known musical style."}
 {"style":"nu metal","canonical_style":"nu metal","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
 {"style":"latino","canonical_style":"latin music","totalCount":1,"action":"alias","reason":"Broad term; 'latin music' is a more specific and commonly used canonical style."}
-{"style":"drum and bass","canonical_style":"drum & bass","totalCount":1,"action":"alias","reason":"Common variation of 'drum & bass', should map to the standard format."}
 {"style":"crankwave","canonical_style":"crankwave","totalCount":1,"action":"keep","reason":"Already a valid and recognized musical style."}
 {"style":"cutugno","canonical_style":"cutugno","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
 {"style":"pirate","canonical_style":"pirate metal","totalCount":1,"action":"alias","reason":"The style appears in a tag that specifies a related musical style."}
@@ -610,3 +607,5 @@
 {"style":"acordes","canonical_style":"acordes","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
 {"style":"countrypolitan","canonical_style":"countrypolitan","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
 {"style":"bells","canonical_style":"bells","totalCount":1,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"drum and bass","canonical_style":"drum and bass","totalCount":251,"action":"keep","reason":"Already a standard canonical style name."}
+{"style":"drum & bass","canonical_style":"drum and bass","totalCount":1,"action":"alias","reason":"Common abbreviation, should map to full canonical name."}

@@ -38,7 +38,7 @@ export type StyleCanonicalAction = "keep" | "alias" | "reject";
 export interface StyleCanonicalEntry {
   style: string;               // original style string
   canonical_style: string;     // final chosen canonical form
-  totalCount: number; 
+  totalCount: number;
   action: StyleCanonicalAction;
   reason: string;
 }
@@ -103,6 +103,14 @@ function appendJsonl(filePath: string, obj: unknown) {
   fs.appendFileSync(filePath, JSON.stringify(obj) + "\n", "utf8");
 }
 
+export function normalizeStyleKey(s: string): string {
+  return s
+    .normalize("NFKC")     // Unicode normalize
+    .toLowerCase()         // case-insensitive
+    .replace(/\s+/g, " ")  // collapse internal whitespace
+    .trim();               // remove leading/trailing whitespace
+}
+
 // ============================================================
 // HARVEST: BUILD STYLE UNIVERSE FROM TAGS
 // ============================================================
@@ -121,7 +129,7 @@ function harvestStylesFromTags(
 
     for (const style of uniqueStyles) {
       if (!style || !style.trim()) continue;
-      const key = style.trim();
+      const key = normalizeStyleKey(style);
 
       let rec = map.get(key);
       if (!rec) {
@@ -262,7 +270,7 @@ async function analyzeStyleCanonicalization(
   }
 
   const entry: StyleCanonicalEntry = {
-    style: String(parsed.style ?? styleEntry.style),
+    style: styleEntry.style,
     canonical_style: String(parsed.canonical_style ?? styleEntry.style),
     totalCount: styleEntry.totalCount,
     action: (parsed.action as StyleCanonicalAction) ?? "keep",
@@ -309,75 +317,77 @@ export async function runStyleCanonicalizationStage(
       const rec = JSON.parse(line) as StyleCanonicalEntry;
       if (rec && typeof rec.style === "string") {
         doneStyles.add(rec.style);
+      } else {
+        console.warn(`Invalid record or style: ${line}`);
+      } 
+    } catch (error) {
+        console.error(`Error parsing line: ${line}`, error);
       }
-    } catch {
-      // ignore
     }
-  }
 
   console.log(`🔢 Found ${doneStyles.size} processed RawStyleEntry items`);
-  console.log(`🔢 Processing ${styles.length - doneStyles.size} new RawStyleEntry items`);
-  
-  const basePrompt = loadBasePrompt(STYLE_PROMPT_PATH);
+    console.log(`🔢 Processing ${styles.length - doneStyles.size} new RawStyleEntry items`);
 
-  let processed = 0;
-  const toProcess =
-    typeof limit === "number" ? styles.slice(0, limit) : styles;
+    const basePrompt = loadBasePrompt(STYLE_PROMPT_PATH);
 
-  for (const styleEntry of toProcess) {
-    if (doneStyles.has(styleEntry.style)) {
-      continue; // skip already processed styles
+    let processed = 0;
+    const toProcess =
+      typeof limit === "number" ? styles.slice(0, limit) : styles;
+
+    for (const styleEntry of toProcess) {
+      if (doneStyles.has(styleEntry.style)) {
+        continue; // skip already processed styles
+      }
+
+      console.log(
+        `🎯 Canonicalizing style "${styleEntry.style}" (count=${styleEntry.totalCount})...`,
+      );
+
+      // TODO: you can add heuristics here before calling the model, e.g.
+      // if (styleEntry.totalCount < 3) maybe skip or treat differently.
+
+      const canonical = await analyzeStyleCanonicalization(
+        basePrompt,
+        styleEntry,
+      );
+
+      appendJsonl(outputPath, canonical);
+      processed += 1;
     }
 
     console.log(
-      `🎯 Canonicalizing style "${styleEntry.style}" (count=${styleEntry.totalCount})...`,
+      `✅ Style canonicalization complete. Newly processed: ${processed}, total: ${styles.length}`,
     );
-
-    // TODO: you can add heuristics here before calling the model, e.g.
-    // if (styleEntry.totalCount < 3) maybe skip or treat differently.
-
-    const canonical = await analyzeStyleCanonicalization(
-      basePrompt,
-      styleEntry,
-    );
-
-    appendJsonl(outputPath, canonical);
-    processed += 1;
+    console.log(`📄 Output → ${outputPath}`);
   }
 
-  console.log(
-    `✅ Style canonicalization complete. Newly processed: ${processed}, total: ${styles.length}`,
-  );
-  console.log(`📄 Output → ${outputPath}`);
-}
+  // ============================================================
+  // CLI ENTRY
+  // ============================================================
+  //
+  // Usage:
+  //   pnpm tsx scripts/stage-style-normalize.ts harvest
+  //   pnpm tsx scripts/stage-style-normalize.ts canonicalize
+  //   pnpm tsx scripts/stage-style-normalize.ts all
+  //
 
-// ============================================================
-// CLI ENTRY
-// ============================================================
-//
-// Usage:
-//   pnpm tsx scripts/stage-style-normalize.ts harvest
-//   pnpm tsx scripts/stage-style-normalize.ts canonicalize
-//   pnpm tsx scripts/stage-style-normalize.ts all
-//
+  async function main() {
+    const mode = process.argv[2] ?? "all";
 
-async function main() {
-  const mode = process.argv[2] ?? "all";
-
-  try {
-    if (mode === "harvest") {
-      await runStyleHarvestStage();
-    } else if (mode === "canonicalize") {
-      await runStyleCanonicalizationStage();
-    } else {
-      // default: run both stages in order
-      await runStyleHarvestStage();
-      await runStyleCanonicalizationStage();
+    try {
+      if (mode === "harvest") {
+        await runStyleHarvestStage();
+      } else if (mode === "canonicalize") {
+        await runStyleCanonicalizationStage();
+      } else {
+        // default: run both stages in order
+        await runStyleHarvestStage();
+        await runStyleCanonicalizationStage();
+      }
+    } catch (err) {
+      console.error("❌ Error in style-normalize stage:", err);
+      process.exit(1);
     }
-  } catch (err) {
-    console.error("❌ Error in style-normalize stage:", err);
-    process.exit(1);
   }
-}
 
-void main();
+  void main();
