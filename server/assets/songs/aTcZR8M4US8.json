@@ -1,0 +1,25 @@
+{
+  "youtubeId": "aTcZR8M4US8",
+  "title": "Alex Reece - Pulp Fiction (Benny L Remix)",
+  "lastFetched": "2025-12-13T16:02:57.177Z",
+  "ai": {
+    "title": "Pulp Fiction (Benny L Remix)",
+    "artist": "Alex Reece"
+  },
+  "musicbrainz": {
+    "trackMbid": "c664eb25-8c9a-4be5-ab54-a508c0dea678",
+    "artistMbid": "1c8e46d4-9343-48ce-aed8-0862e03878fd",
+    "releaseCount": 1,
+    "artistGenres": [
+      "drum and bass"
+    ],
+    "releasedAt": "2025-08-15",
+    "artistCountry": "GB",
+    "externalIdsArtist": {
+      "allmusic": "mn0000619080",
+      "discogs": "1560",
+      "rateyourmusic": "alex_reece",
+      "wikidata": "Q1628891"
+    }
+  }
+}

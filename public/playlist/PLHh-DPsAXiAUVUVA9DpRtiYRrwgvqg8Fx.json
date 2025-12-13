@@ -2,15 +2,144 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4316,
+  "videoCount": 4325,
   "videos": [
+    {
+      "id": "tdqom7wvYQk",
+      "title": "Dario (DE), Alex Lauthals - Feel That Bass (Extended Mix) [KITTBALL]",
+      "channel": "PureHouseMusic 2024",
+      "duration": "5:31",
+      "musicTitle": "Dario (DE), Alex Lauthals - Feel That Bass (Extended Mix) [KITTBALL]",
+      "createdAt": 1765572274290,
+      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
+    },
+    {
+      "id": "Zy3AEU0CkdI",
+      "title": "Georgia (2023 Remaster)",
+      "channel": "Boz Scaggs",
+      "duration": "3:57",
+      "musicTitle": "Georgia (2023 Remaster)",
+      "tags": [
+        "blues rock",
+        "classic rock",
+        "pop",
+        "pop rock",
+        "rock",
+        "soft rock"
+      ],
+      "externalIds": {
+        "musicbrainz": "bebc71c5-88dd-4819-b676-03f4e07ceb90",
+        "musicbrainz-artist": "18a33653-bbaf-4aa7-884c-73f02a7a4515"
+      },
+      "releasedAt": "1976-02-18",
+      "artistCountry": "US",
+      "createdAt": 1765548698820,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "H5SrdnzuXPQ",
+      "title": "Delmenhorst",
+      "channel": "Element of Crime",
+      "duration": "3:56",
+      "musicTitle": "Delmenhorst",
+      "tags": [
+        "folk",
+        "indie pop",
+        "indie rock",
+        "pop",
+        "rock"
+      ],
+      "externalIds": {
+        "musicbrainz": "5e2d3bb1-4c92-486a-8ff2-587b5f847785",
+        "musicbrainz-artist": "40985bd2-6d44-4c86-bd16-35cad449cce3"
+      },
+      "releasedAt": "2005-09-12",
+      "artistCountry": "DE",
+      "createdAt": 1765548631244,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "3R075vtlCwk",
+      "title": "Knebelfreunde",
+      "channel": "L.F.T. - Topic",
+      "duration": "3:19",
+      "musicTitle": "Knebelfreunde",
+      "createdAt": 1765497016601,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "4Bzl9KZEC2U",
+      "title": "Breakdance Tool",
+      "channel": "Carl Hang - Topic",
+      "duration": "4:03",
+      "musicTitle": "Breakdance Tool",
+      "createdAt": 1765495461436,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "T_O9VJA_rJA",
+      "title": "Unknown DJ - Basstronic (1988)",
+      "channel": "DJ DU",
+      "duration": "5:23",
+      "musicTitle": "Unknown DJ - Basstronic (1988)",
+      "createdAt": 1765494904990,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "aTcZR8M4US8",
+      "title": "Alex Reece - Pulp Fiction (Benny L Remix)",
+      "channel": "Metalheadz",
+      "duration": "4:53",
+      "musicTitle": "Alex Reece - Pulp Fiction (Benny L Remix)",
+      "tags": [
+        "drum and bass"
+      ],
+      "externalIds": {
+        "musicbrainz": "c664eb25-8c9a-4be5-ab54-a508c0dea678",
+        "musicbrainz-artist": "1c8e46d4-9343-48ce-aed8-0862e03878fd"
+      },
+      "releasedAt": "2025-08-15",
+      "artistCountry": "GB",
+      "createdAt": 1765464015247,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "iefpOCYbj4g",
+      "title": "Planerfüllung DDR - Musikvideo",
+      "channel": "DDR Mondbasis",
+      "duration": "2:27",
+      "musicTitle": "Planerfüllung DDR - Musikvideo",
+      "createdAt": 1765451520537,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "SthcxWPXG_E",
+      "title": "I heard you like polyrhythms",
+      "channel": "Virtual Riot",
+      "duration": "7:57",
+      "musicTitle": "I heard you like polyrhythms",
+      "tags": [
+        "complextro",
+        "drum and bass",
+        "dubstep",
+        "electro house",
+        "electronic",
+        "riddim dubstep"
+      ],
+      "externalIds": {
+        "musicbrainz": "fe230dd0-60e3-4f9e-8af8-e741f211508b",
+        "musicbrainz-artist": "33db34de-5419-4d4c-a45b-3dfd6b7d8a72"
+      },
+      "releasedAt": "2024-01-24",
+      "artistCountry": "DE",
+      "createdAt": 1765409189774,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
     {
       "id": "MGXXcLYSHSU",
       "title": "Cocoon",
       "channel": "Fight Pausa - Topic",
       "duration": "2:50",
-      "createdAt": 1765299779352,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
       "artist": "Fight Pausa",
       "musicTitle": "Cocoon",
       "externalIds": {
@@ -30,17 +159,21 @@
         "lastfm": "Fight+Pausa/_/Cocoon"
       },
       "listeners": 274,
-      "playcount": 357
+      "playcount": 357,
+      "createdAt": 1765299779352,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "rw4UAQeFDNw",
       "title": "Whispering Bells",
       "channel": "The Del-Vikings - Topic",
       "duration": "2:25",
-      "createdAt": 1765299491377,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
       "artist": "The Del-Vikings",
       "musicTitle": "Whispering Bells",
+      "tags": [
+        "doo wop",
+        "whispering bells"
+      ],
       "externalIds": {
         "amazonMusic": "B001NYCUP0",
         "amazonStore": "B001NYCUP0",
@@ -60,22 +193,28 @@
         "youtubeMusic": "rw4UAQeFDNw",
         "lastfm": "The+Del-Vikings/_/Whispering+Bells"
       },
-      "tags": [
-        "doo wop",
-        "whispering bells"
-      ],
       "listeners": 32308,
-      "playcount": 99694
+      "playcount": 99694,
+      "createdAt": 1765299491377,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "e5VNISAnyMY",
       "title": "Sinner Time",
       "channel": "Calibre",
       "duration": "6:28",
-      "createdAt": 1765231432613,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
       "artist": "Calibre",
       "musicTitle": "Sinner Time",
+      "tags": [
+        "drum and bass",
+        "liquid funk",
+        "electronic",
+        "ambient",
+        "dub",
+        "dubstep",
+        "jungle",
+        "techno"
+      ],
       "externalIds": {
         "amazonMusic": "B0F8JFZWBF",
         "amazonStore": "B0F8JFZWBF",
@@ -95,20 +234,12 @@
         "musicbrainz-artist": "afa502e0-fb84-4cf4-b3c0-21ed0c695939",
         "lastfm": "Calibre/_/Sinner+Time"
       },
-      "tags": [
-        "drum and bass",
-        "liquid funk",
-        "electronic",
-        "ambient",
-        "dub",
-        "dubstep",
-        "jungle",
-        "techno"
-      ],
       "listeners": 1018,
       "playcount": 2394,
       "releasedAt": "2025-05-23",
-      "artistCountry": "GB"
+      "artistCountry": "GB",
+      "createdAt": 1765231432613,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "flz-qnjpDdo",
@@ -420,6 +551,9 @@
       "duration": "4:03",
       "artist": "Flake Lorenz",
       "musicTitle": "Letzte Weihnacht",
+      "tags": [
+        "experimental"
+      ],
       "externalIds": {
         "amazonMusic": "B0DLP4J199",
         "amazonStore": "B0DLP4J199",
@@ -441,10 +575,7 @@
       "releasedAt": "2024-11-22",
       "artistCountry": "DE",
       "createdAt": 1765007191057,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
-      "tags": [
-        "experimental"
-      ]
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "g1F5d1kQTBE",
@@ -2742,17 +2873,17 @@
       "channel": "JablinskiGames",
       "duration": "3:10",
       "musicTitle": "\"Time Warp\"",
+      "tags": [
+        "spoken word",
+        "comedy"
+      ],
       "externalIds": {
         "lastfm": "JablinskiGames/_/Time+Warp"
       },
       "listeners": 6,
       "playcount": 11,
       "createdAt": 1606379220000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "spoken word",
-        "comedy"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "tqEwj7hmnRk",
@@ -7031,6 +7162,10 @@
       "duration": "3:50",
       "artist": "Radkey",
       "musicTitle": "Dark Black Makeup",
+      "tags": [
+        "punk",
+        "punk rock"
+      ],
       "externalIds": {
         "amazonMusic": "B01LWNLBZ9",
         "amazonStore": "B01LWNLBZ9",
@@ -7049,11 +7184,7 @@
       "playcount": 83224,
       "releasedAt": "2015-08-21",
       "createdAt": 1591271040000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
-      "tags": [
-        "punk",
-        "punk rock"
-      ]
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
     },
     {
       "id": "i_45GLa_F70",
@@ -10959,6 +11090,9 @@
       "duration": "2:48",
       "artist": "blink-182",
       "musicTitle": "Black Rain",
+      "tags": [
+        "punk"
+      ],
       "externalIds": {
         "amazonMusic": "B07VDM57ZB",
         "amazonStore": "B07VDM57ZB",
@@ -10974,10 +11108,7 @@
       "listeners": 42933,
       "playcount": 264128,
       "createdAt": 1579703520000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "punk"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "ts8MtIRaw9g",
@@ -16322,6 +16453,9 @@
       "duration": "5:19",
       "artist": "Kae Tempest",
       "musicTitle": "People's Faces",
+      "tags": [
+        "spoken word"
+      ],
       "externalIds": {
         "amazonMusic": "B098JJRQPT",
         "amazonStore": "B098JJRQPT",
@@ -16336,10 +16470,7 @@
       "listeners": 7661,
       "playcount": 35011,
       "createdAt": 1560545700000,
-      "userId": "4616e4a1c5795cefa384699af6093014dc973a88c72d2c039dfccef3d076c0e3",
-      "tags": [
-        "spoken word"
-      ]
+      "userId": "4616e4a1c5795cefa384699af6093014dc973a88c72d2c039dfccef3d076c0e3"
     },
     {
       "id": "M7Oe1DN5VDA",
@@ -17078,6 +17209,9 @@
       "duration": "3:34",
       "artist": "Otherkin",
       "musicTitle": "Yeah, I Know",
+      "tags": [
+        "punk"
+      ],
       "externalIds": {
         "amazonMusic": "B0DMVPZ484",
         "amazonStore": "B0DMVPZ484",
@@ -17098,10 +17232,7 @@
       "playcount": 118541,
       "releasedAt": "2017-09-29",
       "createdAt": 1558464900000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
-      "tags": [
-        "punk"
-      ]
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
     },
     {
       "id": "5U0Cm6WxEVo",
@@ -33221,6 +33352,9 @@
       "channel": "The Museum of Classic Chicago Television (www.FuzzyMemories.TV)",
       "duration": "5:17",
       "musicTitle": "[broken] ☹️ William Shatner \"Sings\" 'Rocket Man' (1978) - BEST QUALITY!",
+      "tags": [
+        "spoken word"
+      ],
       "externalIds": {
         "musicbrainz": "b5a0ec06-b17b-4852-aadb-fc7e411348cf",
         "musicbrainz-track": "2e994186-9a56-4065-a82f-9d1be9dd2219",
@@ -33233,10 +33367,7 @@
       "releasedAt": "2011-10-11",
       "artistCountry": "CA",
       "createdAt": 1518000840000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83",
-      "tags": [
-        "spoken word"
-      ]
+      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
     },
     {
       "id": "C8MhZarum5w",
@@ -34799,16 +34930,16 @@
       "channel": "KollektivetTV2",
       "duration": "3:08",
       "musicTitle": "Kollektivet: Music Video - When am I supposed to Blossom?",
+      "tags": [
+        "comedy"
+      ],
       "externalIds": {
         "lastfm": "Kollektivet/_/When+Am+I+Supposed+To+Blossom%3F"
       },
       "listeners": 239,
       "playcount": 653,
       "createdAt": 1516567500000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "comedy"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "sT29qPE3t5g",
@@ -35824,7 +35955,7 @@
       "playcount": 135836,
       "releasedAt": "2018-03-09",
       "artistCountry": "GB",
-      "createdAt": 1516712220000,
+      "createdAt": 1765406240411,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
@@ -36767,6 +36898,9 @@
       "channel": "fragglerock1997",
       "duration": "10:21",
       "musicTitle": "Tim Minchin - Storm",
+      "tags": [
+        "comedy"
+      ],
       "externalIds": {
         "musicbrainz": "ddacdd44-82f2-4fca-a5b1-fdf8a6ea0b7c",
         "musicbrainz-artist": "2dc758d7-6776-45d1-b537-484249bd265e",
@@ -36777,10 +36911,7 @@
       "releasedAt": "2008-07-20",
       "artistCountry": "AU",
       "createdAt": 1511883720000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "comedy"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "53ZNYXeP7dU",
@@ -41785,6 +41916,10 @@
       "channel": "Jonny12345678",
       "duration": "3:07",
       "musicTitle": "Heiter bis Wolkig-Hey Rote Zora",
+      "tags": [
+        "punk",
+        "punk rock"
+      ],
       "externalIds": {
         "musicbrainz": "6801216c-8b14-4c69-b705-42031756cea5",
         "musicbrainz-track": "b63b9667-4cbf-4ee4-9e14-da900a03c928",
@@ -41796,11 +41931,7 @@
       "releasedAt": "1997",
       "artistCountry": "DE",
       "createdAt": 1500825660000,
-      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5",
-      "tags": [
-        "punk",
-        "punk rock"
-      ]
+      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5"
     },
     {
       "id": "j09hpp3AxIE",
@@ -49500,16 +49631,16 @@
       "channel": "Ansgar",
       "duration": "2:48",
       "musicTitle": "Marion März - Er ist wieder da 1965",
+      "tags": [
+        "60s"
+      ],
       "externalIds": {
         "lastfm": "Marion+M%C3%A4rz/_/Er+ist+wieder+da+1965"
       },
       "listeners": 11,
       "playcount": 23,
       "createdAt": 1745615097254,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
-      "tags": [
-        "60s"
-      ]
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "9gROYU2j-40",
@@ -51278,6 +51409,9 @@
       "duration": "3:32",
       "artist": "Ward 21",
       "musicTitle": "Gully Gun",
+      "tags": [
+        "dancehall"
+      ],
       "externalIds": {
         "amazonMusic": "B000X6WZYU",
         "amazonStore": "B000X6WZYU",
@@ -51302,10 +51436,7 @@
       "releasedAt": "2006-11-14",
       "artistCountry": "JM",
       "createdAt": 1740610708134,
-      "userId": "ed0f5d38eced79c1b3b55d02962e68bce13cdb1b30e7d96400b3db3971c94c09",
-      "tags": [
-        "dancehall"
-      ]
+      "userId": "ed0f5d38eced79c1b3b55d02962e68bce13cdb1b30e7d96400b3db3971c94c09"
     },
     {
       "id": "JtPfLJ4lgfg",
@@ -51646,6 +51777,9 @@
       "duration": "3:56",
       "artist": "die ärzte",
       "musicTitle": "Onprangering",
+      "tags": [
+        "punk"
+      ],
       "externalIds": {
         "amazonMusic": "B08C268ZX8",
         "amazonStore": "B08C268ZX8",
@@ -51666,10 +51800,7 @@
       "releasedAt": "2000-10-23",
       "artistCountry": "DE",
       "createdAt": 1740054948325,
-      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39",
-      "tags": [
-        "punk"
-      ]
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
     {
       "id": "U_hFErXDevM",
@@ -53948,6 +54079,9 @@
       "duration": "4:52",
       "artist": "HARD SKIN",
       "musicTitle": "DING DONG MERRILY OI! OI!",
+      "tags": [
+        "punk"
+      ],
       "externalIds": {
         "musicbrainz": "7cffeabb-4b45-4026-8ff7-f08ca0ea4cf9",
         "musicbrainz-track": "7cffeabb-4b45-4026-8ff7-f08ca0ea4cf9",
@@ -53958,10 +54092,7 @@
       "playcount": 2946,
       "releasedAt": "2006",
       "createdAt": 1734985185339,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "punk"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "T7XJUeHWePw",
@@ -61296,6 +61427,9 @@
       "duration": "2:07",
       "artist": "Ofra Haza",
       "musicTitle": "Im Nin'Alu",
+      "tags": [
+        "club"
+      ],
       "externalIds": {
         "musicbrainz": "483dede2-3543-4ed9-8a53-9040f0bae839",
         "musicbrainz-artist": "7591796a-a545-4b51-ba52-bf2539b90d99"
@@ -61303,10 +61437,7 @@
       "releasedAt": "1984",
       "artistCountry": "IL",
       "createdAt": 1719622418845,
-      "userId": "ed0f5d38eced79c1b3b55d02962e68bce13cdb1b30e7d96400b3db3971c94c09",
-      "tags": [
-        "club"
-      ]
+      "userId": "ed0f5d38eced79c1b3b55d02962e68bce13cdb1b30e7d96400b3db3971c94c09"
     },
     {
       "id": "JkfuBg2DhlM",
@@ -63198,6 +63329,9 @@
       "duration": "2:20",
       "artist": "Georg Kreisler",
       "musicTitle": "Taubenvergiften",
+      "tags": [
+        "liedermacher"
+      ],
       "externalIds": {
         "musicbrainz": "cb2b2383-a042-4042-a373-9d1eb17fa580",
         "musicbrainz-track": "2f1baa4c-990e-35a1-9884-2b0b6846be74",
@@ -63209,10 +63343,7 @@
       "releasedAt": "1997",
       "artistCountry": "AT",
       "createdAt": 1716909233575,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "liedermacher"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "IzAO9A9GjgI",
@@ -64186,6 +64317,10 @@
       "duration": "3:24",
       "artist": "Die Kassierer",
       "musicTitle": "Du hast geguckt (Remastered)",
+      "tags": [
+        "punk",
+        "punk rock"
+      ],
       "externalIds": {
         "amazonMusic": "B0B1977CFX",
         "amazonStore": "B0B1977CFX",
@@ -64200,11 +64335,7 @@
       "listeners": 302,
       "playcount": 899,
       "createdAt": 1715434501934,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
-      "tags": [
-        "punk",
-        "punk rock"
-      ]
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "G36ASb3ZFRE",
@@ -66659,6 +66790,10 @@
       "duration": "3:40",
       "artist": "Slime",
       "musicTitle": "Sie wollen wieder schießen (dürfen)",
+      "tags": [
+        "punk",
+        "punk rock"
+      ],
       "externalIds": {
         "appleMusic": "1094447637",
         "itunes": "1094447637",
@@ -66673,11 +66808,7 @@
       "releasedAt": "2017-09-27",
       "artistCountry": "DE",
       "createdAt": 1712838178455,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
-      "tags": [
-        "punk",
-        "punk rock"
-      ]
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "DVORn_0x7Bk",
@@ -69327,6 +69458,10 @@
       "duration": "2:39",
       "artist": "The Lovin' Spoonful",
       "musicTitle": "Summer in the City",
+      "tags": [
+        "60s",
+        "classic rock"
+      ],
       "externalIds": {
         "amazonMusic": "B00137VO5Y",
         "amazonStore": "B00137VO5Y",
@@ -69342,11 +69477,7 @@
       "playcount": 1074466,
       "lastfmSummary": "\"Summer in the City\" was a 1966 hit single by The Lovin' Spoonful, written by Mark Sebastian (brother of John Sebastian) and Steve Boone. It came from their album, Hums of the Lovin' Spoonful. It reached number one on the Billboard Hot 100 on August 13. The song featured a series of car horns, during the instrumental bridge, starting with a Volkswagen Beetle horn, and ending up with a jackhammer sound, in order to give the impressions of the sounds of the summer in the city. <a href=\"http://www.last.fm/music/The+Lovin%27+Spoonful/_/Summer+in+the+City\">Read more on Last.fm</a>.",
       "createdAt": 1710776569823,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
-      "tags": [
-        "60s",
-        "classic rock"
-      ]
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "9W8Ei3ZUsEA",
@@ -70658,6 +70789,9 @@
       "duration": "5:29",
       "artist": "John Beltran",
       "musicTitle": "Synaptic Transmission",
+      "tags": [
+        "idm"
+      ],
       "externalIds": {
         "musicbrainz": "8a8f0a23-ca60-4e99-857a-09ef12ac01b1",
         "musicbrainz-track": "09941198-da7d-32f4-8615-6e3091c5852c",
@@ -70669,10 +70803,7 @@
       "releasedAt": "1995",
       "artistCountry": "US",
       "createdAt": 1709167847043,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
-      "tags": [
-        "idm"
-      ]
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "EiqvfSa8z6M",
@@ -74296,6 +74427,9 @@
       "duration": "4:29",
       "artist": "Konstantin Wecker",
       "musicTitle": "Sage nein",
+      "tags": [
+        "liedermacher"
+      ],
       "externalIds": {
         "amazonMusic": "B07JMFN2RW",
         "amazonStore": "B07JMFN2RW",
@@ -74319,10 +74453,7 @@
       "playcount": 14660,
       "artistCountry": "DE",
       "createdAt": 1705855718902,
-      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6",
-      "tags": [
-        "liedermacher"
-      ]
+      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
     },
     {
       "id": "cHodwiL-pUQ",
@@ -80916,6 +81047,9 @@
       "duration": "3:46",
       "artist": "Jan Böhmermann",
       "musicTitle": "Warum hört der Fahrradweg einfach hier auf?",
+      "tags": [
+        "comedy"
+      ],
       "externalIds": {
         "musicbrainz": "14231183-5558-4a1d-91d3-0672b815157f",
         "musicbrainz-artist": "1965aa78-3109-4ceb-9b7e-5e9b79b5a229",
@@ -80925,10 +81059,7 @@
       "playcount": 21398,
       "artistCountry": "DE",
       "createdAt": 1695396174351,
-      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6",
-      "tags": [
-        "comedy"
-      ]
+      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
     },
     {
       "id": "8KHwuOtcALQ",
@@ -84744,6 +84875,9 @@
       "duration": "4:05",
       "artist": "Franz Josef Degenhardt",
       "musicTitle": "Befragung eines Kriegsdienstverweigerers",
+      "tags": [
+        "liedermacher"
+      ],
       "externalIds": {
         "amazonMusic": "B073SZ8D54",
         "amazonStore": "B073SZ8D54",
@@ -84766,10 +84900,7 @@
       "playcount": 15583,
       "artistCountry": "DE",
       "createdAt": 1687789941445,
-      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6",
-      "tags": [
-        "liedermacher"
-      ]
+      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
     },
     {
       "id": "uQ7HuvkQwWM",
@@ -93769,7 +93900,7 @@
     },
     {
       "id": "lL2ZwXj1tXM",
-      "title": "Three Days Grace - Never Too Late",
+      "title": "Three Days Grace - Never Too Late (Official Video)",
       "channel": "Three Days Grace",
       "duration": "3:32",
       "artist": "Three Days Grace",
@@ -108985,7 +109116,7 @@
     },
     {
       "id": "6sOpjMIjHj8",
-      "title": "\"Release The Files\" - AI Taylor Swift (Satire/NOT Taylor Swift) with Gavin Newsom on Sax",
+      "title": "AI Taylor Swift in \"Release The Files\" with Gavin Newsom on Sax (Satire/NOT Taylor Swift)",
       "channel": "scaredketchup",
       "duration": "5:11",
       "musicTitle": "\"Release The Files\" - AI Taylor Swift (Satire/NOT Taylor Swift) with Gavin Newsom on Sax",
@@ -110754,6 +110885,9 @@
       "duration": "2:09",
       "artist": "Del Shannon",
       "musicTitle": "The Swiss Maid",
+      "tags": [
+        "60s"
+      ],
       "externalIds": {
         "pandora": "TR:24434159",
         "soundcloud": "1389281575",
@@ -110769,10 +110903,7 @@
       "releasedAt": "1992",
       "artistCountry": "US",
       "createdAt": 1758190178079,
-      "userId": "ed0f5d38eced79c1b3b55d02962e68bce13cdb1b30e7d96400b3db3971c94c09",
-      "tags": [
-        "60s"
-      ]
+      "userId": "ed0f5d38eced79c1b3b55d02962e68bce13cdb1b30e7d96400b3db3971c94c09"
     },
     {
       "id": "hPQH3O-Xx5U",
@@ -111571,8 +111702,8 @@
     },
     {
       "id": "kln_bIndDJg",
-      "title": "Supertramp - The Logical Song",
-      "channel": "Supertramp Official",
+      "title": "Supertramp - The Logical Song (Official Video)",
+      "channel": "Supertramp ",
       "duration": "3:59",
       "artist": "Supertramp",
       "musicTitle": "The Logical Song",
@@ -115851,5 +115982,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2025-12-10T09:46:26.870Z"
+  "lastFetched": "2025-12-13T16:04:09.574Z"
 }

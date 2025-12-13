@@ -1,0 +1,40 @@
+{
+  "youtubeId": "Zy3AEU0CkdI",
+  "title": "Georgia (2023 Remaster)",
+  "lastFetched": "2025-12-13T16:02:21.786Z",
+  "ai": {
+    "title": "Georgia",
+    "artist": "Boz Scaggs"
+  },
+  "musicbrainz": {
+    "trackMbid": "bebc71c5-88dd-4819-b676-03f4e07ceb90",
+    "artistMbid": "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+    "releaseCount": 23,
+    "genres": [
+      "blues rock",
+      "classic rock",
+      "pop",
+      "pop rock",
+      "rock",
+      "soft rock"
+    ],
+    "artistGenres": [
+      "blue-eyed soul",
+      "pop rock",
+      "rock",
+      "smooth soul",
+      "yacht rock"
+    ],
+    "releasedAt": "1976-02-18",
+    "artistCountry": "US",
+    "externalIdsArtist": {
+      "allmusic": "mn0000096964",
+      "discogs": "268583",
+      "spotify": "46njgd2Rq9tZc4ZjeQMgbh",
+      "deezer": "9260",
+      "lastfm": "Boz+Scaggs",
+      "rateyourmusic": "boz_scaggs",
+      "wikidata": "Q896109"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "youtubeId": "H5SrdnzuXPQ",
+  "title": "Delmenhorst",
+  "lastFetched": "2025-12-13T16:02:38.363Z",
+  "ai": {
+    "title": "Delmenhorst",
+    "artist": "Element of Crime"
+  },
+  "musicbrainz": {
+    "trackMbid": "5e2d3bb1-4c92-486a-8ff2-587b5f847785",
+    "artistMbid": "40985bd2-6d44-4c86-bd16-35cad449cce3",
+    "releaseCount": 10,
+    "genres": [
+      "folk",
+      "indie pop",
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "artistGenres": [
+      "pop rock"
+    ],
+    "releasedAt": "2005-09-12",
+    "artistCountry": "DE",
+    "externalIdsArtist": {
+      "allmusic": "mn0000138899",
+      "discogs": "141807",
+      "spotify": "3FweAJRBCbUOGR6jULfaRi",
+      "deezer": "15727",
+      "lastfm": "Element+of+Crime",
+      "rateyourmusic": "element_of_crime",
+      "wikidata": "Q895739"
+    }
+  }
+}

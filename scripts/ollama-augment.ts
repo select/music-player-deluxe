@@ -183,6 +183,24 @@ Guidelines:
 - When the channel ends with - Topic e.g. "xxx - Topic" then the artist is "xxx"
 Examples:
 
+
+
+IN
+Title: Knebelfreunde
+Channel: L.F.T. - Topic
+OUT
+{
+  "artist": "L.F.T.",
+  "track": "Knebelfreunde"
+}
+IN
+Title: Breakdance Tool
+Channel: Carl Hang - Topic
+OUT
+{
+  "artist": "Carl Hang",
+  "track": "Breakdance Tool"
+}
 IN
 Title: "Norwegian Recycling - Miracles"
 Channel: "NorwegianRecycling"

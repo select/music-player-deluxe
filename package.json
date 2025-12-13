@@ -27,7 +27,8 @@
 		"augment:odesli": "tsx scripts/odesli-augment.ts",
 		"augment:blacklist": "tsx scripts/ollama-augment-blacklist.ts",
 		"augment:tag-map": "tsx scripts/ollama-augment-tag-map.ts",
-		"run:tag-map-pipe": "tsx scripts/run-tag-map-pipeline.ts"
+		"run:tag-map-pipe": "tsx scripts/run-tag-map-pipeline.ts",
+		"playlist:fetch-update": "tsx scripts/fetch-and-update-playlist.ts"
 	},
 	"dependencies": {
 		"@nuxt/eslint": "1.12.1",
