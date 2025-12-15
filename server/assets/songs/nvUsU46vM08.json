@@ -48,5 +48,9 @@
       "deezer": "4886285",
       "soundcloud": "https://soundcloud.com/boudnb"
     }
+  },
+  "youtube": {
+    "title": "Swerve It",
+    "channel": "BOU"
   }
 }

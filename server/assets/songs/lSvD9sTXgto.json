@@ -1,9 +1,17 @@
 {
   "youtubeId": "lSvD9sTXgto",
   "title": "Billy Joel - The Stranger Theme",
-  "lastFetched": "2025-11-29T11:58:03.074Z",
+  "lastFetched": "2025-12-13T18:31:04.253Z",
   "ai": {
     "title": "The Stranger Theme",
     "artist": "Billy Joel"
+  },
+  "youtube": {
+    "title": "Billy Joel - The Stranger Theme",
+    "channel": "Mental Set"
+  },
+  "curated": {
+    "artist": "Billy Joel",
+    "title": "The Stranger Theme"
   }
 }

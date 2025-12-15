@@ -2,9 +2,17 @@
   "youtubeId": "NKc-cmTpg1A",
   "title": "La Formule du Baron",
   "artist": "Cha tatch ka",
-  "lastFetched": "2025-11-18T20:49:12.395Z",
+  "lastFetched": "2025-12-13T18:36:37.191Z",
   "ai": {
     "title": "La Formule du Baron",
     "artist": "Cha tatch ka"
+  },
+  "youtube": {
+    "title": "Cha tatch ka - La Formule du Baron",
+    "channel": "Studiocbe"
+  },
+  "curated": {
+    "artist": "Cha tatch ka",
+    "title": "La Formule du Baron"
   }
 }

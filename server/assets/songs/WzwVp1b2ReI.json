@@ -1,9 +1,17 @@
 {
   "youtubeId": "WzwVp1b2ReI",
   "title": "Helga Hahnemann - 100 mal Berlin 1987 & 1989",
-  "lastFetched": "2025-12-01T11:01:38.034Z",
+  "lastFetched": "2025-12-13T18:29:17.887Z",
   "ai": {
     "title": "100 mal Berlin 1987 & 1989",
     "artist": "Helga Hahnemann"
+  },
+  "youtube": {
+    "title": "Helga Hahnemann - 100 mal Berlin 1987 & 1989",
+    "channel": "fritz5155"
+  },
+  "curated": {
+    "artist": "Helga Hahnemann",
+    "title": "100 mal Berlin"
   }
 }

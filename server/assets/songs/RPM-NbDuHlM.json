@@ -44,5 +44,9 @@
       "deezer": "10432100",
       "soundcloud": "https://soundcloud.com/okuma-sounds"
     }
+  },
+  "youtube": {
+    "title": "Kalkutta",
+    "channel": "okuma - Topic"
   }
 }

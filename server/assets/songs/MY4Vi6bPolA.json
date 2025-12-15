@@ -50,5 +50,9 @@
       "deezer": "16178",
       "soundcloud": "https://soundcloud.com/flox-music"
     }
+  },
+  "youtube": {
+    "title": "Herbs And Spices",
+    "channel": "FLOX [Official]"
   }
 }

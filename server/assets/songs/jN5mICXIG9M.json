@@ -1,9 +1,17 @@
 {
   "youtubeId": "jN5mICXIG9M",
   "title": "Der Backup-Reminder vom Browser Ballett",
-  "lastFetched": "2025-11-28T13:04:05.166Z",
+  "lastFetched": "2025-12-13T18:19:53.659Z",
   "ai": {
     "title": "Der Backup-Reminder",
     "artist": "Browser Ballett"
+  },
+  "youtube": {
+    "title": "Der Backup-Reminder vom Browser Ballett",
+    "channel": "Browser Ballett"
+  },
+  "curated": {
+    "artist": "Browser Ballett",
+    "title": "Der Backup-Reminder"
   }
 }

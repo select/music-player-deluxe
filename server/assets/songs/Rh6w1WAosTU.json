@@ -55,5 +55,9 @@
       "rateyourmusic": "dirtwire",
       "soundcloud": "https://soundcloud.com/dirtwire"
     }
+  },
+  "youtube": {
+    "title": "Dirtwire - Hunter's Harp",
+    "channel": "Dirtwire"
   }
 }

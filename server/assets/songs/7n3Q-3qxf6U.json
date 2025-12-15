@@ -38,5 +38,9 @@
       "discogs": "4439827",
       "soundcloud": "https://soundcloud.com/simocell"
     }
+  },
+  "youtube": {
+    "title": "rapids",
+    "channel": "Simo Cell"
   }
 }

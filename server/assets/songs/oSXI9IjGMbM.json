@@ -1,9 +1,17 @@
 {
   "youtubeId": "oSXI9IjGMbM",
   "title": "HODJA (The Band) - She's So Heavy - Film by Jens Kramer",
-  "lastFetched": "2025-11-27T10:17:01.520Z",
+  "lastFetched": "2025-12-13T18:29:40.090Z",
   "ai": {
     "title": "She's So Heavy",
     "artist": "The Band"
+  },
+  "youtube": {
+    "title": "HODJA (The Band) - She's So Heavy - Film by Jens Kramer",
+    "channel": "tchenz"
+  },
+  "curated": {
+    "artist": "HODJA",
+    "title": "She's So Heavy"
   }
 }

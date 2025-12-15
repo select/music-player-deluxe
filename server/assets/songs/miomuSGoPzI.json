@@ -1,9 +1,17 @@
 {
-	"youtubeId": "miomuSGoPzI",
-	"title": "Chicken Attack // Song Voyage // Japan // ft. Takeo Ischi",
-	"lastFetched": "2025-11-23T21:18:59.819Z",
-	"ai": {
-		"title": "Chicken Attack",
-		"artist": "Takeo Ischi"
-	}
+  "youtubeId": "miomuSGoPzI",
+  "title": "Chicken Attack // Song Voyage // Japan // ft. Takeo Ischi",
+  "lastFetched": "2025-12-13T18:34:09.550Z",
+  "ai": {
+    "title": "Chicken Attack",
+    "artist": "Takeo Ischi"
+  },
+  "youtube": {
+    "title": "Chicken Attack // Song Voyage // Japan // ft. Takeo Ischi",
+    "channel": "schmoyoho"
+  },
+  "curated": {
+    "artist": "Takeo Ischi",
+    "title": "Chicken Attack"
+  }
 }

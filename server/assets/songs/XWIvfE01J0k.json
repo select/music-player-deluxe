@@ -1,9 +1,17 @@
 {
   "youtubeId": "XWIvfE01J0k",
   "title": "Edward Sharpe And The Magnetic Zeroes: NPR Music Tiny Desk Concert",
-  "lastFetched": "2025-11-26T10:21:25.778Z",
+  "lastFetched": "2025-12-13T18:20:12.333Z",
   "ai": {
     "title": "NPR Music Tiny Desk Concert",
     "artist": "Edward Sharpe And The Magnetic Zeroes"
+  },
+  "youtube": {
+    "title": "Edward Sharpe And The Magnetic Zeroes: NPR Music Tiny Desk Concert",
+    "channel": "NPR Music"
+  },
+  "curated": {
+    "artist": "Edward Sharpe And The Magnetic Zeroes",
+    "title": "NPR Music Tiny Desk Concert"
   }
 }

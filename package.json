@@ -25,6 +25,7 @@
 		"augment:lastfm": "tsx scripts/lastfm-augment-find.ts",
 		"augment:lastfm:tags": "tsx scripts/lastfm-augment-tags.ts",
 		"augment:odesli": "tsx scripts/odesli-augment.ts",
+		"augment:youtube": "tsx scripts/youtube-augment.ts",
 		"augment:blacklist": "tsx scripts/ollama-augment-blacklist.ts",
 		"augment:tag-map": "tsx scripts/ollama-augment-tag-map.ts",
 		"run:tag-map-pipe": "tsx scripts/run-tag-map-pipeline.ts",

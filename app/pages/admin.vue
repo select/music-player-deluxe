@@ -110,15 +110,6 @@
 						</div>
 						<div class="flex items-center gap-2 ml-4">
 							<AppBtn
-								icon="i-mdi-database-plus"
-								size="small"
-								variant="primary"
-								:loading="updatingMusicDataId === playlist.id"
-								@click="updateAllMusicData(playlist.id)"
-							>
-								Update All Music Data
-							</AppBtn>
-							<AppBtn
 								icon="i-mdi-pencil"
 								size="small"
 								variant="secondary"
@@ -194,7 +185,6 @@ import type {
 	Video,
 	ApiResponse,
 	Playlist,
-	UpdateDataResponse,
 } from "~/types";
 // Page metadata
 useHead({
@@ -212,7 +202,6 @@ const loadingCached = ref<boolean>(true);
 const refreshingId = ref<string | null>(null);
 const deletingId = ref<string | null>(null);
 const editingId = ref<string | null>(null);
-const updatingMusicDataId = ref<string | null>(null);
 const editingPlaylist = ref<PlaylistSummary | null>(null);
 const playlistVideos = ref<Video[]>([]);
 const loadingPlaylistVideos = ref<boolean>(false);
@@ -378,39 +367,5 @@ const editPlaylist = async (playlist: PlaylistSummary): Promise<void> => {
 const closeEditPlaylist = (): void => {
 	editingPlaylist.value = null;
 	playlistVideos.value = [];
-};
-
-// Update all music data for a playlist
-const updateAllMusicData = async (playlistId: string): Promise<void> => {
-	try {
-		updatingMusicDataId.value = playlistId;
-		error.value = "";
-		success.value = "";
-
-		const response = await $fetch<UpdateDataResponse>(
-			"/api/playlists/update-data",
-			{
-				method: "POST",
-				body: { playlistId },
-			},
-		);
-
-		if (response.success) {
-			success.value = response.message;
-			// Refresh the cached playlists list to show updated data
-			await loadCachedPlaylists();
-		} else {
-			throw new Error("Failed to update playlist music data");
-		}
-	} catch (err: any) {
-		console.error("Error updating playlist music data:", err);
-		error.value =
-			err.data?.message ||
-			err.message ||
-			"Failed to update playlist music data";
-		success.value = "";
-	} finally {
-		updatingMusicDataId.value = null;
-	}
 };
 </script>

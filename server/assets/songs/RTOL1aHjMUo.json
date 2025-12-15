@@ -1,9 +1,17 @@
 {
   "youtubeId": "RTOL1aHjMUo",
   "title": "lo que fue y lo que sera",
-  "lastFetched": "2025-11-26T09:59:47.333Z",
+  "lastFetched": "2025-12-13T16:22:43.793Z",
   "ai": {
     "title": "lo que fue y lo que sera",
     "artist": "Hector Medina"
+  },
+  "curated": {
+    "artist": "Hector Medina",
+    "title": "lo que fue y lo que sera"
+  },
+  "youtube": {
+    "title": "lo que fue y lo que sera",
+    "channel": "Hector Medina"
   }
 }

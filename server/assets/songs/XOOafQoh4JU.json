@@ -42,5 +42,9 @@
       "deezer": "10646309",
       "soundcloud": "https://soundcloud.com/petroll"
     }
+  },
+  "youtube": {
+    "title": "Petroll - Spectral",
+    "channel": "Skankandbass"
   }
 }

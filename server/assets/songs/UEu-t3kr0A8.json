@@ -50,5 +50,9 @@
       "deezer": "9394",
       "soundcloud": "https://soundcloud.com/extrawelt-official"
     }
+  },
+  "youtube": {
+    "title": "Extrawelt - Zu Fuss",
+    "channel": "DegreesNorth54"
   }
 }

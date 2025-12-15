@@ -2,9 +2,17 @@
   "youtubeId": "fJezNJJIy4I",
   "title": "Kraftwerk",
   "artist": "Robot Vall",
-  "lastFetched": "2025-11-17T02:05:11.735Z",
+  "lastFetched": "2025-12-13T18:23:31.361Z",
   "ai": {
     "title": "Kraftwerk",
     "artist": "Robot Vall"
+  },
+  "youtube": {
+    "title": "Robot Vall | Kraftwerk",
+    "channel": "Robot Vall | Валерий Робот Вэлл Черновский"
+  },
+  "curated": {
+    "artist": "Robot Vall",
+    "title": "Kraftwerk"
   }
 }

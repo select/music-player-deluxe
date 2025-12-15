@@ -37,5 +37,9 @@
       "rateyourmusic": "yak-1",
       "soundcloud": "https://soundcloud.com/yaksound"
     }
+  },
+  "youtube": {
+    "title": "Yak - Esper",
+    "channel": "In Between Music"
   }
 }

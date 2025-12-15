@@ -38,4 +38,8 @@ export interface SongMetaData {
 		artist: string;
 		title: string;
 	};
+	youtube?: {
+		title: string;
+		channel: string;
+	};
 }

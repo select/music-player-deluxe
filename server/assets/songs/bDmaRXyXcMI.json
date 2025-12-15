@@ -2,5 +2,9 @@
   "youtubeId": "bDmaRXyXcMI",
   "title": "Sceneradio invitation",
   "artist": "Excaa",
-  "lastFetched": "2025-11-20T11:00:34.779Z"
+  "lastFetched": "2025-11-20T11:00:34.779Z",
+  "youtube": {
+    "title": "Sceneradio invitation",
+    "channel": "Excaa"
+  }
 }

@@ -45,5 +45,9 @@
       "rateyourmusic": "laundromat-1",
       "soundcloud": "https://soundcloud.com/laundromatmusica"
     }
+  },
+  "youtube": {
+    "title": "Humans",
+    "channel": "Laundromat - Topic"
   }
 }

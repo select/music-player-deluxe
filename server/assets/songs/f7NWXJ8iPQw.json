@@ -1,9 +1,17 @@
 {
   "youtubeId": "f7NWXJ8iPQw",
   "title": "Mojo Nixon & Skid Roper - Elvis Is Everywhere /  Music Video 1987",
-  "lastFetched": "2025-11-25T16:48:41.452Z",
+  "lastFetched": "2025-12-13T18:21:43.367Z",
   "ai": {
     "title": "Elvis Is Everywhere / Music Video 1987",
     "artist": "Mojo Nixon & Skid Roper"
+  },
+  "youtube": {
+    "title": "Mojo Nixon & Skid Roper - Elvis Is Everywhere /  Music Video 1987",
+    "channel": "Mojo Nixon"
+  },
+  "curated": {
+    "artist": "Mojo Nixon & Skid Roper",
+    "title": "Elvis Is Everywhere"
   }
 }

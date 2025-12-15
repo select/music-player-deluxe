@@ -1,9 +1,17 @@
 {
   "youtubeId": "gxXVTyf_jZ0",
   "title": "Sufa",
-  "lastFetched": "2025-11-23T22:36:02.884Z",
+  "lastFetched": "2025-12-13T18:35:56.953Z",
   "ai": {
     "title": "Sufa",
     "artist": "Sufa"
+  },
+  "youtube": {
+    "title": "Sufa",
+    "channel": "Release - Topic"
+  },
+  "curated": {
+    "artist": "Ouzo Bazooka",
+    "title": "Sufa"
   }
 }

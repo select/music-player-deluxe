@@ -1,9 +1,17 @@
 {
   "youtubeId": "UniYXL1qBDI",
   "title": "No Homo",
-  "lastFetched": "2025-11-25T17:13:54.026Z",
+  "lastFetched": "2025-12-13T18:28:20.282Z",
   "ai": {
     "title": "No Homo",
     "artist": "The Rap Pack"
+  },
+  "youtube": {
+    "title": "No Homo",
+    "channel": "The Rap Pack"
+  },
+  "curated": {
+    "artist": "The Rap Pack",
+    "title": "No Homo"
   }
 }

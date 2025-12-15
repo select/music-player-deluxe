@@ -1,9 +1,17 @@
 {
   "youtubeId": "WmnUayaQyBk",
   "title": "The Baboons - Drinkin' Gasoline",
-  "lastFetched": "2025-11-23T21:23:06.174Z",
+  "lastFetched": "2025-12-13T18:24:37.661Z",
   "ai": {
     "title": "Drinkin' Gasoline",
     "artist": "The Baboons"
+  },
+  "youtube": {
+    "title": "The Baboons - Drinkin' Gasoline",
+    "channel": "ducktapeproducties"
+  },
+  "curated": {
+    "artist": "The Baboons",
+    "title": "Drinkin' Gasoline"
   }
 }

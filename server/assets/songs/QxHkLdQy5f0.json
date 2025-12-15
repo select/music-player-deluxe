@@ -12,5 +12,9 @@
     "youtube": "QxHkLdQy5f0",
     "youtubeMusic": "QxHkLdQy5f0"
   },
-  "artist": "Pyotr Ilyich Tchaikovsky"
+  "artist": "Pyotr Ilyich Tchaikovsky",
+  "youtube": {
+    "title": "Tchaikovsky - Waltz of the Flowers",
+    "channel": "ClassicMusicVals"
+  }
 }

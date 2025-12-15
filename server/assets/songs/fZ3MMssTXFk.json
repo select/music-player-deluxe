@@ -2,9 +2,17 @@
   "youtubeId": "fZ3MMssTXFk",
   "title": "Go For Gold",
   "artist": "mooji audio",
-  "lastFetched": "2025-11-17T02:15:00.390Z",
+  "lastFetched": "2025-12-13T18:34:34.288Z",
   "ai": {
     "title": "Go For Gold",
     "artist": "mooji audio"
+  },
+  "youtube": {
+    "title": "mooji audio - Go For Gold",
+    "channel": "Du Und Ich"
+  },
+  "curated": {
+    "artist": "mooji audio",
+    "title": "Go For Gold"
   }
 }

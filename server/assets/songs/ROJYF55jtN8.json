@@ -2,9 +2,17 @@
   "youtubeId": "ROJYF55jtN8",
   "title": "Live at Le Guess Who?",
   "artist": "Alabaster DePlume",
-  "lastFetched": "2025-11-20T11:18:13.099Z",
+  "lastFetched": "2025-12-13T18:14:45.891Z",
   "ai": {
     "title": "Live at Le Guess Who?",
     "artist": "Alabaster DePlume"
+  },
+  "youtube": {
+    "title": "Alabaster DePlume - Live at Le Guess Who?",
+    "channel": "Le Guess Who?"
+  },
+  "curated": {
+    "artist": "Alabaster DePlume",
+    "title": "Live at Le Guess Who?"
   }
 }

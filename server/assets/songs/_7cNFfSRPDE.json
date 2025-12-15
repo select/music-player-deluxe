@@ -1,9 +1,17 @@
 {
   "youtubeId": "_7cNFfSRPDE",
   "title": "Tone Loc - Ace Is In The House",
-  "lastFetched": "2025-11-28T12:11:39.681Z",
+  "lastFetched": "2025-12-13T18:33:25.344Z",
   "ai": {
     "title": "Ace Is In The House",
     "artist": "Tone Loc"
+  },
+  "youtube": {
+    "title": "Tone Loc - Ace Is In The House",
+    "channel": "scoobdoggydogg"
+  },
+  "curated": {
+    "artist": "Tone Loc",
+    "title": "Ace Is In The House"
   }
 }

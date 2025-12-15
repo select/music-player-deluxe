@@ -2,9 +2,17 @@
   "youtubeId": "SPsXIYz7ux0",
   "title": "All Good Things",
   "artist": "Survivor",
-  "lastFetched": "2025-11-17T02:31:58.928Z",
+  "lastFetched": "2025-12-13T18:17:12.639Z",
   "ai": {
     "title": "All Good Things",
     "artist": "Survivor"
+  },
+  "youtube": {
+    "title": "All Good Things - Survivor [Destiny’s Child | Epic Rock Cover] (Live from the Bunker, Dec 5, 2020)",
+    "channel": "All Good Things"
+  },
+  "curated": {
+    "artist": "All Good Things",
+    "title": "Survivor"
   }
 }

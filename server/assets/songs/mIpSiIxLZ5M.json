@@ -1,9 +1,17 @@
 {
   "youtubeId": "mIpSiIxLZ5M",
   "title": "Kutiman - Antarctica Set (Greenpeace Exclusive)",
-  "lastFetched": "2025-12-01T11:34:59.700Z",
+  "lastFetched": "2025-12-13T18:33:57.445Z",
   "ai": {
     "title": "Antarctica Set",
     "artist": "Kutiman"
+  },
+  "youtube": {
+    "title": "Kutiman - Antarctica Set (Greenpeace Exclusive)",
+    "channel": "Greenpeace International"
+  },
+  "curated": {
+    "artist": "Kutiman",
+    "title": "Antarctica Set"
   }
 }

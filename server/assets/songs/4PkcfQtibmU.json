@@ -48,5 +48,9 @@
       "foo fighters",
       "dave grohl"
     ]
+  },
+  "youtube": {
+    "title": "Foo Fighters. Walk.",
+    "channel": "Foo Fighters"
   }
 }

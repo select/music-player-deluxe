@@ -2,9 +2,17 @@
   "youtubeId": "UECltzOaGf4",
   "title": "quit the band",
   "artist": "Kyle",
-  "lastFetched": "2025-11-20T11:39:27.981Z",
+  "lastFetched": "2025-12-13T18:19:01.409Z",
   "ai": {
     "title": "quit the band",
     "artist": "Kyle"
+  },
+  "youtube": {
+    "title": "Kyle quit the band",
+    "channel": "NimrodNYC"
+  },
+  "curated": {
+    "artist": "Tenacious D",
+    "title": "Kyle quit the band"
   }
 }

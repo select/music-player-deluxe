@@ -1,9 +1,17 @@
 {
   "youtubeId": "NoMqvniiEkk",
   "title": "Kenzo World",
-  "lastFetched": "2025-12-03T12:20:25.979Z",
+  "lastFetched": "2025-12-13T18:27:03.087Z",
   "ai": {
     "title": "World",
     "artist": "Kenzo World"
+  },
+  "youtube": {
+    "title": "Kenzo World",
+    "channel": "Sephora Brasil"
+  },
+  "curated": {
+    "artist": "Sam Spiegel & Ape Drums",
+    "title": "Mutant Brain"
   }
 }

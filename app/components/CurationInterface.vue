@@ -21,22 +21,36 @@
 			class="bg-primary-1 rounded-lg pl-3"
 		>
 			<div class="flex items-center gap-3">
-				<div class="flex-1 grid grid-cols-2 gap-3">
+				<div class="flex-1 flex items-center gap-3">
 					<AppInputText
 						v-model="option.data.artist"
 						placeholder="Artist"
 						size="small"
 						label="Artist"
+						class="flex-1"
 					/>
+					<button
+						:disabled="saving"
+						class="w-10 h-10 flex items-center justify-center rounded-full transition-all"
+						:class="
+							saving
+								? 'text-primary-3 cursor-not-allowed'
+								: 'text-primary-3 hover:text-primary-4 hover:bg-primary-2'
+						"
+						title="Swap artist and title"
+						@click="swapFields(option.data)"
+					>
+						<div class="i-mdi-swap-horizontal text-xl" />
+					</button>
 					<AppInputText
 						v-model="option.data.title"
 						placeholder="Title"
 						size="small"
 						label="Title"
+						class="flex-1"
 					/>
 				</div>
 				<button
-					@click="submitCuration(option.key, option.data)"
 					:disabled="saving"
 					class="w-12 h-12 flex items-center justify-center rounded-full transition-all"
 					:class="
@@ -45,6 +59,7 @@
 							: 'text-primary-3 hover:text-accent hover:bg-accent/10 hover:scale-110'
 					"
 					title="Save this option"
+					@click="submitCuration(option.key, option.data)"
 				>
 					<div v-if="saving" class="i-mdi-loading animate-spin text-2xl" />
 					<div v-else class="i-mdi-check-circle text-2xl" />
@@ -101,7 +116,7 @@ const optionConfigs = [
 		label: "Channel Name",
 		condition: () => !!props.channel,
 		getData: () => ({
-			artist: props.channel || "",
+			artist: props.channel?.replace(" - Topic", "") || "",
 			title: props.song.title,
 		}),
 	},
@@ -112,6 +127,15 @@ const optionConfigs = [
 			return !!(props.song.artist || props.song.title);
 		},
 		getData: () => props.song,
+	},
+	{
+		key: "youtube-metadata",
+		label: "YouTube Metadata",
+		condition: () => !!(props.song.youtube?.title || props.song.youtube?.channel),
+		getData: () => ({
+			artist: props.song.youtube?.channel || "",
+			title: props.song.youtube?.title || "",
+		}),
 	},
 	{
 		key: "youtube2",
@@ -158,6 +182,12 @@ const availableOptions = computed<CurationOption[]>(() => {
 			data: reactive(config.getData()),
 		}));
 });
+
+const swapFields = (data: { artist: string; title: string }) => {
+	const temp = data.artist;
+	data.artist = data.title;
+	data.title = temp;
+};
 
 const submitCuration = async (
 	optionKey: string,

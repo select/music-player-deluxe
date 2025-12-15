@@ -1,9 +1,17 @@
 {
   "youtubeId": "gUarhwho0f8",
   "title": "Beethoven's 5th Symphony on One Guitar - Marcin Patrzalek",
-  "lastFetched": "2025-11-30T17:14:44.717Z",
+  "lastFetched": "2025-12-13T18:37:58.871Z",
   "ai": {
     "title": "Beethoven's 5th Symphony on One Guitar",
     "artist": "Marcin Patrzalek"
+  },
+  "youtube": {
+    "title": "Beethoven's 5th Symphony on One Guitar - Marcin Patrzalek",
+    "channel": "Marcin"
+  },
+  "curated": {
+    "artist": "Marcin Patrzalek",
+    "title": "Beethoven's 5th Symphony"
   }
 }

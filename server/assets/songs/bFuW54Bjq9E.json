@@ -1,9 +1,17 @@
 {
   "youtubeId": "bFuW54Bjq9E",
   "title": "It's my 80's (Perturbator / Dance with the Dead music)",
-  "lastFetched": "2025-12-04T20:03:54.907Z",
+  "lastFetched": "2025-12-13T18:17:58.220Z",
   "ai": {
     "title": "It's my 80's",
     "artist": "Perturbator / Dance with the Dead"
+  },
+  "youtube": {
+    "title": "It's my 80's (Perturbator / Dance with the Dead music)",
+    "channel": "Morskoi Kotik"
+  },
+  "curated": {
+    "artist": "Perturbator, Dance with the Dead",
+    "title": "It's my 80's"
   }
 }
