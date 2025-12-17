@@ -2,13 +2,110 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4341,
+  "videoCount": 4353,
   "videos": [
+    {
+      "id": "GGoca5m-loY",
+      "title": "Baden Powell 1970 Germany = Manhã de carnaval =  rare!",
+      "channel": "Brasilinstrumental",
+      "duration": "6:35",
+      "createdAt": 1765963860469,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "SzBn3GTLGoE",
+      "title": "SKUNT - FUBU",
+      "channel": "Lady Leshurr",
+      "duration": "2:37",
+      "createdAt": 1765963558607,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "xV1Kt9M5ON8",
+      "title": "Bootylicious",
+      "channel": "Destiny's Child",
+      "duration": "3:28",
+      "createdAt": 1765959327440,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "sDQCLCN1NcE",
+      "title": "Little Boat",
+      "channel": "João Donato - Topic",
+      "duration": "2:27",
+      "createdAt": 1765927724734,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "wxh_XxlhcqU",
+      "title": "Hermeto Pascoal - zabumbê-bum-á - Pimenteira",
+      "channel": "Hermeto Pascoal",
+      "duration": "6:29",
+      "createdAt": 1765926661811,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "2LSl7ieHYMA",
+      "title": "Verehrt euren Haarschnitt - D.A.F.",
+      "channel": "MrHaalloooo",
+      "duration": "3:26",
+      "createdAt": 1765926392767,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "9ND3oghPL5M",
+      "title": "Perry Como-Magic Moments",
+      "channel": "yeaaassh",
+      "duration": "4:05",
+      "createdAt": 1765892684870,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "O_J4VUFahKs",
+      "title": "Ballaké Sissoko - Nan Sira Madi | A COLORS SHOW",
+      "channel": "COLORS",
+      "duration": "5:02",
+      "createdAt": 1765887703550,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "81zHyCJdj1M",
+      "title": "Kiikala Reggae",
+      "channel": "Ekowmania - Topic",
+      "duration": "3:58",
+      "createdAt": 1765832470135,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "0mBPwTpRvYo",
+      "title": "Running Red",
+      "channel": "Kasra - Topic",
+      "duration": "4:31",
+      "createdAt": 1765831723288,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "yPECzVFyUlw",
+      "title": "Kruder & Dorfmeister – \"Spring\"",
+      "channel": "Marginalis",
+      "duration": "3:57",
+      "createdAt": 1765822261174,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "AkaJh_rZTUA",
+      "title": "possession dub ",
+      "channel": "Calibre",
+      "duration": "5:31",
+      "createdAt": 1765816459264,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
     {
       "id": "IxuBGtePv2E",
       "title": "Start like This",
       "channel": "Jambal",
       "duration": "6:22",
+      "musicTitle": "Start like This",
       "createdAt": 1765707554490,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -17,6 +114,7 @@
       "title": "dim light",
       "channel": "Calibre",
       "duration": "6:19",
+      "musicTitle": "dim light",
       "createdAt": 1765705621552,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -25,6 +123,7 @@
       "title": "Serenity",
       "channel": "Release - Topic",
       "duration": "6:43",
+      "musicTitle": "Serenity",
       "createdAt": 1765704918728,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -33,6 +132,7 @@
       "title": "UNIT",
       "channel": "Kyong Sono - Topic",
       "duration": "9:19",
+      "musicTitle": "UNIT",
       "createdAt": 1765696378354,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -49,6 +149,7 @@
       "title": "Godley & Creme - Mugshots - 10cc",
       "channel": "Roy Beaufoy",
       "duration": "3:54",
+      "musicTitle": "Godley & Creme - Mugshots - 10cc",
       "createdAt": 1765688659353,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -57,6 +158,7 @@
       "title": "Roman Flügel - Flowers [PHONICA040]",
       "channel": "Electronic Love Collective",
       "duration": "4:29",
+      "musicTitle": "Roman Flügel - Flowers [PHONICA040]",
       "createdAt": 1765687638602,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -65,6 +167,7 @@
       "title": "Slayer - South of Heaven",
       "channel": "Unearthed Mosh",
       "duration": "4:27",
+      "musicTitle": "Slayer - South of Heaven",
       "createdAt": 1765686632270,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -73,6 +176,7 @@
       "title": "Cream - I feel free (1967)",
       "channel": "Beat-Club",
       "duration": "2:45",
+      "musicTitle": "Cream - I feel free (1967)",
       "createdAt": 1765686243286,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -81,6 +185,7 @@
       "title": "All Right Now",
       "channel": "Free Band",
       "duration": "4:15",
+      "musicTitle": "All Right Now",
       "createdAt": 1765685981286,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -89,6 +194,7 @@
       "title": "Eclipse",
       "channel": "Moving Sidewalks - Topic",
       "duration": "3:37",
+      "musicTitle": "Eclipse",
       "createdAt": 1765685714723,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -97,6 +203,7 @@
       "title": "Efyge Efyge (Remastered 2011)",
       "channel": "Stelios Kazantzidis - Topic",
       "duration": "3:37",
+      "musicTitle": "Efyge Efyge (Remastered 2011)",
       "createdAt": 1765656217709,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -105,6 +212,7 @@
       "title": "We wish you a merry Christmas - John Williams Style | WDR Funkhausorchester",
       "channel": "ARD Klassik",
       "duration": "3:06",
+      "musicTitle": "We wish you a merry Christmas - John Williams Style | WDR Funkhausorchester",
       "createdAt": 1765639303901,
       "userId": "513ac2e89742f7ce701ae0eb930c627bbc259690fb9622aaec4c6cd13a5eaad8"
     },
@@ -113,6 +221,7 @@
       "title": "Trimdon Grange Explosion - World Turning Round",
       "channel": "Ben Phillipson",
       "duration": "6:59",
+      "musicTitle": "Trimdon Grange Explosion - World Turning Round",
       "createdAt": 1765639260935,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -129,6 +238,7 @@
       "title": "Photek : Pyramid",
       "channel": "Photek Productions",
       "duration": "4:30",
+      "musicTitle": "Photek : Pyramid",
       "createdAt": 1765637729823,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -15585,7 +15695,7 @@
     },
     {
       "id": "AZKcl4-tcuo",
-      "title": "David Bowie – Life On Mars? (Official Video)",
+      "title": "David Bowie - Life On Mars? (Official Video)",
       "channel": "David Bowie",
       "duration": "4:10",
       "artist": "David Bowie",
@@ -26684,8 +26794,8 @@
     },
     {
       "id": "a01QQZyl-_I",
-      "title": "Queen - Under Pressure (Official Video)",
-      "channel": "Queen Official",
+      "title": "Queen and David Bowie - Under Pressure (Official Video)",
+      "channel": "Unknown Channel",
       "duration": "4:14",
       "artist": "Queen",
       "musicTitle": "Under Pressure",
@@ -44193,7 +44303,7 @@
     },
     {
       "id": "PtPPfLtJ8es",
-      "title": "CeLLOOPa - Original tune with 8 Cellos and a LOOP PEDAL! The Piano Guys",
+      "title": "Steven Sharp Nelson - CeLLOOPa (Original Cello & Loop Pedal Track) - The Piano Guys",
       "channel": "The Piano Guys",
       "duration": "3:36",
       "musicTitle": "CeLLOOPa - Original tune with 8 Cellos and a LOOP PEDAL! The Piano Guys",
@@ -58057,8 +58167,8 @@
       "playcount": 48531,
       "releasedAt": "1985-06-22",
       "artistCountry": "BR",
-      "createdAt": 1728738955914,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "createdAt": 1765902542001,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "Cj8JrQ9w5jY",
@@ -86041,8 +86151,8 @@
       "lastfmSummary": "\"Pump Up the Jam\" is the opening track on Technotronic's album Pump Up the Jam: The Album. The song was a world-wide smash hit, reaching number two in the United Kingdom in 1989. The song was also a landmark release for house music. It was able to tackle the tough American market and became the first house song to break into mainstream. It reached number two on the Billboard Hot 100. The song was later certified triple platinum. <a href=\"http://www.last.fm/music/Technotronic/_/Pump+Up+the+Jam\">Read more on Last.fm</a>.",
       "releasedAt": "1989-12",
       "artistCountry": "BE",
-      "createdAt": 1686200389632,
-      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+      "createdAt": 1765955089021,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "s0GQQ6QiUho",
@@ -116110,5 +116220,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2025-12-15T00:22:33.139Z"
+  "lastFetched": "2025-12-17T21:20:18.901Z"
 }
