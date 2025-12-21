@@ -2,13 +2,126 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4353,
+  "videoCount": 4367,
   "videos": [
+    {
+      "id": "MYy78ACa85s",
+      "title": "A Gentle Flow",
+      "channel": "Release - Topic",
+      "duration": "4:13",
+      "createdAt": 1766313164483,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "Z8ebf4aChMw",
+      "title": "Sade - Is it a Crime (S!RENE Edit)",
+      "channel": "Soulection",
+      "duration": "3:34",
+      "createdAt": 1766312956176,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "d6YhxqVlJNo",
+      "title": "This Day",
+      "channel": "Peter Baumann - Topic",
+      "duration": "5:16",
+      "createdAt": 1766312166511,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "AgIfN7KagWg",
+      "title": "MAILBOX",
+      "channel": "Ulepuschkinrose",
+      "duration": "3:29",
+      "createdAt": 1766246036113,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "QOddpk8jOtU",
+      "title": "The Streets - Let's Push Things Forward (Official Video)",
+      "channel": "The Streets",
+      "duration": "3:40",
+      "createdAt": 1766240794653,
+      "userId": "3ee08ffca31371b3deca5e8f4e12823fedee2177ab473545691a8275e35da40b"
+    },
+    {
+      "id": "hawOAtZcW9o",
+      "title": "Joe Pesci - If It Doesn't Snow This Christmas 🎄",
+      "channel": "Gedaman",
+      "duration": "3:14",
+      "createdAt": 1766161768777,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "sCabI3MdV9g",
+      "title": "Carol of the Bells - Trans-Siberian Orchestra - Higher Quality",
+      "channel": "J. Jay (JJ)",
+      "duration": "3:26",
+      "createdAt": 1766159579264,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "kfZtNVEqsBs",
+      "title": "Jingle Hell",
+      "channel": "Christopher Lee - Topic",
+      "duration": "3:43",
+      "createdAt": 1766158991753,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "BAsJF8U_OnQ",
+      "title": "Bullet Me",
+      "channel": "The September When - Topic",
+      "duration": "4:07",
+      "createdAt": 1766069614558,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "YU95YwqHVQo",
+      "title": "Invitasjon",
+      "channel": "Raga Rockers - Topic",
+      "duration": "2:58",
+      "createdAt": 1766068830641,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "5jbzdl9isW0",
+      "title": "Fela Kuti - Live With Ginger Baker (LP)",
+      "channel": "Fela Kuti",
+      "duration": "45:21",
+      "createdAt": 1766066442137,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "MPE56ha-gJs",
+      "title": "Spend the Night",
+      "channel": "Pal Joey - Topic",
+      "duration": "5:27",
+      "createdAt": 1766061531255,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "Z6dqIYKIBSU",
+      "title": "Lipps Inc. - Funkytown (Official Audio)",
+      "channel": "Lipps Inc.",
+      "duration": "7:50",
+      "createdAt": 1765999487012,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "94USt1r-W70",
+      "title": "猫シ Corp. & ローマンRoman - SECRETS OF MY AGE",
+      "channel": "torchmusic",
+      "duration": "3:08",
+      "createdAt": 1765989172625,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
     {
       "id": "GGoca5m-loY",
       "title": "Baden Powell 1970 Germany = Manhã de carnaval =  rare!",
       "channel": "Brasilinstrumental",
       "duration": "6:35",
+      "musicTitle": "Baden Powell 1970 Germany = Manhã de carnaval =  rare!",
       "createdAt": 1765963860469,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -17,6 +130,7 @@
       "title": "SKUNT - FUBU",
       "channel": "Lady Leshurr",
       "duration": "2:37",
+      "musicTitle": "SKUNT - FUBU",
       "createdAt": 1765963558607,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -25,6 +139,7 @@
       "title": "Bootylicious",
       "channel": "Destiny's Child",
       "duration": "3:28",
+      "musicTitle": "Bootylicious",
       "createdAt": 1765959327440,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -33,6 +148,7 @@
       "title": "Little Boat",
       "channel": "João Donato - Topic",
       "duration": "2:27",
+      "musicTitle": "Little Boat",
       "createdAt": 1765927724734,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -41,6 +157,7 @@
       "title": "Hermeto Pascoal - zabumbê-bum-á - Pimenteira",
       "channel": "Hermeto Pascoal",
       "duration": "6:29",
+      "musicTitle": "Hermeto Pascoal - zabumbê-bum-á - Pimenteira",
       "createdAt": 1765926661811,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -49,6 +166,7 @@
       "title": "Verehrt euren Haarschnitt - D.A.F.",
       "channel": "MrHaalloooo",
       "duration": "3:26",
+      "musicTitle": "Verehrt euren Haarschnitt - D.A.F.",
       "createdAt": 1765926392767,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -57,6 +175,7 @@
       "title": "Perry Como-Magic Moments",
       "channel": "yeaaassh",
       "duration": "4:05",
+      "musicTitle": "Perry Como-Magic Moments",
       "createdAt": 1765892684870,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -65,6 +184,7 @@
       "title": "Ballaké Sissoko - Nan Sira Madi | A COLORS SHOW",
       "channel": "COLORS",
       "duration": "5:02",
+      "musicTitle": "Ballaké Sissoko - Nan Sira Madi | A COLORS SHOW",
       "createdAt": 1765887703550,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -73,6 +193,7 @@
       "title": "Kiikala Reggae",
       "channel": "Ekowmania - Topic",
       "duration": "3:58",
+      "musicTitle": "Kiikala Reggae",
       "createdAt": 1765832470135,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -81,6 +202,7 @@
       "title": "Running Red",
       "channel": "Kasra - Topic",
       "duration": "4:31",
+      "musicTitle": "Running Red",
       "createdAt": 1765831723288,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -89,6 +211,7 @@
       "title": "Kruder & Dorfmeister – \"Spring\"",
       "channel": "Marginalis",
       "duration": "3:57",
+      "musicTitle": "Kruder & Dorfmeister – \"Spring\"",
       "createdAt": 1765822261174,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -97,6 +220,7 @@
       "title": "possession dub ",
       "channel": "Calibre",
       "duration": "5:31",
+      "musicTitle": "possession dub",
       "createdAt": 1765816459264,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -141,6 +265,7 @@
       "title": "Feel To Be Driven Away",
       "channel": "China Crisis - Topic",
       "duration": "2:56",
+      "musicTitle": "Feel To Be Driven Away",
       "createdAt": 1765689341021,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -230,6 +355,7 @@
       "title": "Steven Van Betten – Sometimes You're Not",
       "channel": "BIRP!",
       "duration": "3:43",
+      "musicTitle": "Steven Van Betten – Sometimes You're Not",
       "createdAt": 1765638813422,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -23664,7 +23790,7 @@
     },
     {
       "id": "lXgkuM2NhYI",
-      "title": "David Bowie - Heroes (Official Video)",
+      "title": "David Bowie - \"Heroes\" (Official Video) [HD]",
       "channel": "David Bowie",
       "duration": "3:29",
       "artist": "David Bowie",
@@ -54490,7 +54616,7 @@
     },
     {
       "id": "t365MuktYQs",
-      "title": "David Bowie - Starman (Official Video)",
+      "title": "David Bowie - Starman (Official Video) [4K]",
       "channel": "David Bowie",
       "duration": "4:18",
       "artist": "David Bowie",
@@ -63921,8 +64047,8 @@
         "youtube": "BQEfO9sM4Ic",
         "youtubeMusic": "BQEfO9sM4Ic"
       },
-      "createdAt": 1716674611606,
-      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+      "createdAt": 1766097411950,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "lsMdCQgCvUY",
@@ -98846,7 +98972,7 @@
     {
       "id": "n7czKMMBEe8",
       "title": "Backe Backe Kuchen",
-      "channel": "AcousticaVideos",
+      "channel": "Acoustica Erfurt",
       "duration": "3:17",
       "musicTitle": "Backe Backe Kuchen",
       "createdAt": 1656334319480,
@@ -103490,7 +103616,7 @@
     },
     {
       "id": "2Q_ZzBGPdqE",
-      "title": "The Beatles - Help!",
+      "title": "The Beatles - The Beatles - Help! (Remastered 2015)",
       "channel": "The Beatles",
       "duration": "2:20",
       "artist": "The Beatles",
@@ -109984,7 +110110,7 @@
     {
       "id": "ZPjSV-lnqvg",
       "title": "Roxanne but its just Rocks",
-      "channel": "ironicallyscreaming",
+      "channel": "ruskajoa",
       "duration": "2:51",
       "artist": "ironicallyscreaming",
       "musicTitle": "Roxanne but its just Rocks",
@@ -116220,5 +116346,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2025-12-17T21:20:18.901Z"
+  "lastFetched": "2025-12-21T17:44:40.745Z"
 }
