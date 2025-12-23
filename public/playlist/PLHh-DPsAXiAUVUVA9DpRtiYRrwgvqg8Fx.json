@@ -2,8 +2,96 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4367,
+  "videoCount": 4378,
   "videos": [
+    {
+      "id": "7hCcA5eOahE",
+      "title": "Trystero - Coughing Red & Green",
+      "channel": "knekelhuis",
+      "duration": "3:18",
+      "createdAt": 1766502893518,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "bIqz4wXW9jc",
+      "title": "Unglued & Phace - Malware",
+      "channel": "Hospital Records",
+      "duration": "3:47",
+      "createdAt": 1766430130078,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "hq231dT-PUg",
+      "title": "Unglued - Magnetosphere",
+      "channel": "Hospital Records",
+      "duration": "4:16",
+      "createdAt": 1766429924992,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "mrD9owPMnjA",
+      "title": "Seen",
+      "channel": "Release - Topic",
+      "duration": "4:07",
+      "createdAt": 1766428831917,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "2TtD6iDlEHo",
+      "title": "DALIDA – Bésame mucho (1976) [TUBE DISCO HQ] | Dalida Official Channel",
+      "channel": "Dalida Officiel",
+      "duration": "2:59",
+      "createdAt": 1766425179258,
+      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
+    },
+    {
+      "id": "ZDeTu6rpN-4",
+      "title": "Boz Scaggs - Sierra",
+      "channel": "granako",
+      "duration": "5:22",
+      "createdAt": 1766422747137,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "seqy9kd_eGo",
+      "title": "Milky Chance - Blossom (Official Audio)",
+      "channel": "Milky Chance Official",
+      "duration": "4:13",
+      "createdAt": 1766422708157,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "NfMegACVJQw",
+      "title": "Surf Curse - Freaks [Official Audio]",
+      "channel": "Surf Curse",
+      "duration": "2:28",
+      "createdAt": 1766422623718,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "synIDVfbIXQ",
+      "title": "This ↑",
+      "channel": "Mikey Young - Topic",
+      "duration": "3:08",
+      "createdAt": 1766356149270,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "tmb5h7G_gbs",
+      "title": "Tony Hymas - Pictures Of Departure",
+      "channel": "Joe Colligan",
+      "duration": "4:48",
+      "createdAt": 1766355465314,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "-4ZNE2g4Gj4",
+      "title": "Howie B - Five Days",
+      "channel": "h3lme",
+      "duration": "5:23",
+      "createdAt": 1766354394730,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
     {
       "id": "MYy78ACa85s",
       "title": "A Gentle Flow",
@@ -116346,5 +116434,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2025-12-21T17:44:40.745Z"
+  "lastFetched": "2025-12-23T21:32:22.217Z"
 }
