@@ -2,8 +2,56 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4378,
+  "videoCount": 4384,
   "videos": [
+    {
+      "id": "KF-4wYttj-Y",
+      "title": "Sly5thave. - Super Rich Kids",
+      "channel": "Cmoove Grooves Podcast",
+      "duration": "4:50",
+      "createdAt": 1766703091685,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "YhHRT5HAxyE",
+      "title": "Lil Drumma Boy Is Lit [Wukileak - Beats I Can't Release]",
+      "channel": "Wuki",
+      "duration": "1:51",
+      "createdAt": 1766693992355,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "zdSROiYfD_Q",
+      "title": "Charlie Rich - Who Will The Next Fool Be (1960)",
+      "channel": "TheRocknRollCat",
+      "duration": "2:26",
+      "createdAt": 1766620322594,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "6Wxtuk0BNCY",
+      "title": "Win!",
+      "channel": "feeo - Topic",
+      "duration": "4:56",
+      "createdAt": 1766526704883,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "jymI5yzfo78",
+      "title": "Gown",
+      "channel": "Joanne Robertson - Topic",
+      "duration": "3:16",
+      "createdAt": 1766525982173,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "Sd82k6DvWb0",
+      "title": "Personal Assistant",
+      "channel": "Dania - Topic",
+      "duration": "4:09",
+      "createdAt": 1766524492514,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
     {
       "id": "7hCcA5eOahE",
       "title": "Trystero - Coughing Red & Green",
@@ -20979,8 +21027,8 @@
         "youtube": "OR07r0ZMFb8",
         "youtubeMusic": "OR07r0ZMFb8"
       },
-      "createdAt": 1545649500000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "createdAt": 1766591823860,
+      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
     {
       "id": "ZlsJD8RlhbI",
@@ -54968,7 +55016,7 @@
       "playcount": 86887,
       "releasedAt": "2008-12-01",
       "artistCountry": "DK",
-      "createdAt": 1734546636574,
+      "createdAt": 1766616260592,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
@@ -116434,5 +116482,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2025-12-23T21:32:22.217Z"
+  "lastFetched": "2025-12-25T23:02:49.867Z"
 }
