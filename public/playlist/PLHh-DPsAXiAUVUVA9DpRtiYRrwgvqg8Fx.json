@@ -2,8 +2,192 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4392,
+  "videoCount": 4415,
   "videos": [
+    {
+      "id": "HWcQ3LqBf6E",
+      "title": "MC Brinquedo - Roça Roça 2 (KondZilla)",
+      "channel": "Canal KondZilla",
+      "duration": "4:35",
+      "createdAt": 1767606405002,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "vbi38uy-k24",
+      "title": "Weval - 'DOPAMINE' (Official Audio)",
+      "channel": "Weval",
+      "duration": "2:50",
+      "createdAt": 1767606219308,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "rPNAK-vCiQA",
+      "title": "Gavin Newsom's Epic MTV Trump Troll",
+      "channel": "Unknown Channel",
+      "duration": "4:38",
+      "createdAt": 1767534142747,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "dVnmKNZl484",
+      "title": "Sun Ba",
+      "channel": "Natureboy Flako",
+      "duration": "2:35",
+      "createdAt": 1767481428936,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "XAi3VTSdTxU",
+      "title": "Michael Jackson - Earth Song (Official Video)",
+      "channel": "Michael Jackson",
+      "duration": "6:45",
+      "createdAt": 1767466742707,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "VNLrCWCv38Y",
+      "title": "Emilio Piano ft. Lucie - Maison",
+      "channel": "Emilio Piano",
+      "duration": "2:55",
+      "createdAt": 1767464417084,
+      "userId": "3c35c6258cc0353b84bed5d9bb4d8a668f6959a8d9e9e2b431a81c33f6d0d7b7"
+    },
+    {
+      "id": "ui4yITpJ7so",
+      "title": "Fink – Looking Too Closely (live bei TV Noir)",
+      "channel": "TV Noir",
+      "duration": "5:45",
+      "createdAt": 1767462898674,
+      "userId": "3c35c6258cc0353b84bed5d9bb4d8a668f6959a8d9e9e2b431a81c33f6d0d7b7"
+    },
+    {
+      "id": "YNSxNsr4wmA",
+      "title": "The Pussycat Dolls - Don't Cha (Official Music Video) ft. Busta Rhymes",
+      "channel": "The Pussycat Dolls",
+      "duration": "4:37",
+      "createdAt": 1767398365471,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "T7SvN0dkQps",
+      "title": "Skrillex with Nai Barghouti - XENA (Official Music Video)",
+      "channel": "Skrillex",
+      "duration": "4:35",
+      "createdAt": 1767364678063,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "5LiF8U9-wZ4",
+      "title": "An Emerald City - Qing Song",
+      "channel": "Dickgoodbody",
+      "duration": "3:19",
+      "createdAt": 1767350342476,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "KtVXAugaSm0",
+      "title": "Star Trek Voyager - Main Title theme (HQ)",
+      "channel": "SGTBizarro",
+      "duration": "1:51",
+      "createdAt": 1767350120038,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "f3P6C9OaOS8",
+      "title": "Suburbia",
+      "channel": "Pet Shop Boys",
+      "duration": "4:05",
+      "createdAt": 1767286991938,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "4nnUypDWxLw",
+      "title": "Bude Voll People",
+      "channel": "deichkindTV",
+      "duration": "3:40",
+      "createdAt": 1767275594535,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "Xpxp38cPy14",
+      "title": "Vernors",
+      "channel": "The Detroit Experiment - Topic",
+      "duration": "4:04",
+      "createdAt": 1767249576131,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "kPfl1772iJs",
+      "title": "Decomposed Subsonic - B2 Blaue Löwen (2002 Update) (Ware - ware 37)",
+      "channel": "Medusa Grooves",
+      "duration": "5:19",
+      "createdAt": 1767118135930,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "Xoq_FyOp7qQ",
+      "title": "Ann-Ka \"Note Colore\"",
+      "channel": "Bouloup",
+      "duration": "3:22",
+      "createdAt": 1767117366086,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "RCQRIPSni5Y",
+      "title": "Aloa - Mädchen Von Gegenüber",
+      "channel": "ShekenZZZ",
+      "duration": "2:31",
+      "createdAt": 1767117208207,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "TYwV-oVeRNE",
+      "title": "pandabär - mitte karaoke",
+      "channel": "morgengraunet",
+      "duration": "3:36",
+      "createdAt": 1767116802581,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "tiYynFJGxBo",
+      "title": "The Rolling Stones - You Can't Always Get What You Want (Soulwax Remix)",
+      "channel": "wackkuntucky",
+      "duration": "6:08",
+      "createdAt": 1767059561267,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "CiShREyVv0E",
+      "title": "I Never Promised You A Rose Garden",
+      "channel": "The Suicide Machines - Topic",
+      "duration": "2:43",
+      "createdAt": 1767021704255,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "tYH1qGiNHjE",
+      "title": "The Regrettes - Don't Stop Me Now [Official Audio]",
+      "channel": "The Regrettes",
+      "duration": "3:22",
+      "createdAt": 1767021596298,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "D6gd_nCIXwQ",
+      "title": "Save Ferris - Goodbye",
+      "channel": "Revival Zone",
+      "duration": "3:45",
+      "createdAt": 1767021562309,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "xPqZj-Rxk-I",
+      "title": "International Music - Im Sommer bin ich dein König",
+      "channel": "International Music",
+      "duration": "4:27",
+      "createdAt": 1767002335704,
+      "userId": "3ee08ffca31371b3deca5e8f4e12823fedee2177ab473545691a8275e35da40b"
+    },
     {
       "id": "BOtCBy_FSZE",
       "title": "Fred again.., Ezra Collective, CA7RIEL & Paco Amoroso - Beto’s Horns, Ezra Remix (London, 25th June)",
@@ -223,7 +407,7 @@
     {
       "id": "AgIfN7KagWg",
       "title": "MAILBOX",
-      "channel": "Ulepuschkinrose",
+      "channel": "Hallo",
       "duration": "3:29",
       "createdAt": 1766246036113,
       "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
@@ -995,39 +1179,6 @@
       "lastfmSummary": "According to the Peg Songfacts, I'm Eighteen Songfacts, this was Alice Cooper's first hit. They had a very popular stage show, but their first two albums didn't sell well. If this didn't produce, they probably would have been dropped by their record label. It did reaching #21 in the US.  <a href=\"http://www.last.fm/music/Alice+Cooper/_/I%27m+Eighteen\">Read more on Last.fm</a>.",
       "createdAt": 1765064417156,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "iGAEHdOQ8yc",
-      "title": "Isaac Hayes Black Militant's Place",
-      "channel": "Joyful",
-      "duration": "3:36",
-      "artist": "Isaac Hayes",
-      "musicTitle": "Black Militant’s Place",
-      "tags": [
-        "soul",
-        "funk",
-        "rnb",
-        "soundtrack",
-        "disco",
-        "smooth soul"
-      ],
-      "externalIds": {
-        "amazonMusic": "B0773HL7BP",
-        "amazonStore": "B0773HL7BP",
-        "soundcloud": "isaac-hayes-official/black-militants-place",
-        "tidal": "80717609",
-        "youtube": "iGAEHdOQ8yc",
-        "youtubeMusic": "iGAEHdOQ8yc",
-        "musicbrainz": "cb10c45c-9b15-44a2-9494-a2477f1bfac7",
-        "musicbrainz-artist": "a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21",
-        "lastfm": "Isaac+Hayes/_/Black+Militant%E2%80%99s+Place"
-      },
-      "listeners": 465,
-      "playcount": 829,
-      "releasedAt": "2017-09-22",
-      "artistCountry": "US",
-      "createdAt": 1765063958804,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "MCBYpv8MmtY",
@@ -51383,28 +51534,6 @@
       "userId": "ed0f5d38eced79c1b3b55d02962e68bce13cdb1b30e7d96400b3db3971c94c09"
     },
     {
-      "id": "aKJvbTEnp0I",
-      "title": "LIGHT IN BABYLON - Hinech Yafa    -    Istanbul",
-      "channel": "Vocalworld",
-      "duration": "5:11",
-      "musicTitle": "LIGHT IN BABYLON - Hinech Yafa    -    Istanbul",
-      "tags": [
-        "santur",
-        "world music"
-      ],
-      "externalIds": {
-        "musicbrainz": "5750e1da-b7b4-4cd3-b77f-e94cdfdc9260",
-        "musicbrainz-artist": "2138da79-ce6c-46d4-84ad-3fd1f0095f35",
-        "lastfm": "Light+In+Babylon/_/Hinech+Yafa"
-      },
-      "listeners": 1447,
-      "playcount": 12629,
-      "releasedAt": "2012",
-      "artistCountry": "TR",
-      "createdAt": 1741840237881,
-      "userId": "ed0f5d38eced79c1b3b55d02962e68bce13cdb1b30e7d96400b3db3971c94c09"
-    },
-    {
       "id": "ESy1Eer-guU",
       "title": "Roy Ayers - Can't You See Me (Slayd5000)",
       "channel": "Slayd5000",
@@ -66477,8 +66606,8 @@
       "playcount": 5164,
       "releasedAt": "2023-09-15",
       "artistCountry": "GB",
-      "createdAt": 1713311794953,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "createdAt": 1767349252599,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "ZQrSc2iZhNs",
@@ -107049,7 +107178,7 @@
     },
     {
       "id": "grBmQwLSlDw",
-      "title": "Stevie Ray Vaughan - Best Guitar Player - Sound Check - What?!",
+      "title": "Stevie Ray Vaughan & Double Trouble - Warm Up",
       "channel": "Rare Music and Band Videos",
       "duration": "18:07",
       "musicTitle": "Stevie Ray Vaughan - Best Guitar Player - Sound Check - What?!",
@@ -116538,5 +116667,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2025-12-30T20:50:00.828Z"
+  "lastFetched": "2026-01-05T12:35:34.014Z"
 }
