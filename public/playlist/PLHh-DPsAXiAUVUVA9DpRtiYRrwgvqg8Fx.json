@@ -2,8 +2,128 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4415,
+  "videoCount": 4430,
   "videos": [
+    {
+      "id": "g9C2XF3LXsU",
+      "title": "Fixe",
+      "channel": "Choses Sauvages",
+      "duration": "2:56",
+      "createdAt": 1767803678048,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "Xm0qjrceeYE",
+      "title": "Nirvana - Love Buzz",
+      "channel": "NirvanaGrunge87",
+      "duration": "3:36",
+      "createdAt": 1767803636279,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "kqVpk0qxmfA",
+      "title": "Queen - Death on Two Legs (Official Lyric Video)",
+      "channel": "Queen Official",
+      "duration": "4:04",
+      "createdAt": 1767789102533,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "v5NTjYuH8Zk",
+      "title": "Ssighborggg feat. Luna- Time Eater (Gold Panda Recover)",
+      "channel": "Ssighborggg Official",
+      "duration": "6:52",
+      "createdAt": 1767787478103,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "5PUJuWVlcek",
+      "title": "Givin' U Everything (Original Mix)",
+      "channel": "Spongebob Squarewave - Topic",
+      "duration": "3:34",
+      "createdAt": 1767787332819,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "JyKbqnqO8hA",
+      "title": "Scott Walker - Wait Until Dark",
+      "channel": "Guida P.",
+      "duration": "2:56",
+      "createdAt": 1767741887605,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "g7_xxMhoun4",
+      "title": "RAL2222 (Radio Edit)",
+      "channel": "SEES00000 - Topic",
+      "duration": "2:54",
+      "createdAt": 1767736268178,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "GG2jench7Kg",
+      "title": "Goran Bregovic - Ederlezi (live, 2005)",
+      "channel": "Kaare K. Johnsen",
+      "duration": "4:38",
+      "createdAt": 1767714013211,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "Awx5vfb_aSY",
+      "title": "【HANABIE.】〜 OTAKU Lovely Densetsu〜 Music Video",
+      "channel": "HANABIE. Official YouTube",
+      "duration": "3:14",
+      "createdAt": 1767707714097,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "EsVKWFpyh9s",
+      "title": "50 Words For Snow",
+      "channel": "KateBushMusic",
+      "duration": "8:31",
+      "createdAt": 1767628771375,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "4-BzIx0w_vk",
+      "title": "Hiroshi Yoshimura - Flora (フローラ)",
+      "channel": "SW",
+      "duration": "6:03",
+      "createdAt": 1767621421780,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "UdQyRVO6T00",
+      "title": "The Future Is Mine",
+      "channel": "STIXONSPEED - Topic",
+      "duration": "4:15",
+      "createdAt": 1767617524671,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "o1DUmOD9Nmw",
+      "title": "THYLACINE - Swiss Sounds",
+      "channel": "Unknown Channel",
+      "duration": "2:53",
+      "createdAt": 1767617432975,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "AWa-tqn_tS8",
+      "title": "Giyo - Earthbound",
+      "channel": "Keep Me Chilled",
+      "duration": "6:25",
+      "createdAt": 1767617076256,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "Gc4qi8HF8Lg",
+      "title": "Ada - Faith (PAMPACD005)",
+      "channel": "Pampa Records Official",
+      "duration": "5:58",
+      "createdAt": 1767608064198,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
     {
       "id": "HWcQ3LqBf6E",
       "title": "MC Brinquedo - Roça Roça 2 (KondZilla)",
@@ -3384,7 +3504,7 @@
     },
     {
       "id": "sn-TxYB_3Ao",
-      "title": "FURY IN THE SLAUGHTERHOUSE - \"Every Generation Got It's Own Disease\" (Offizielles Video)",
+      "title": "Fury In The Slaughterhouse - Every Generation Got It's Own Disease (Official Video)",
       "channel": "FURY IN THE SLAUGHTERHOUSE",
       "duration": "4:01",
       "musicTitle": "FURY IN THE SLAUGHTERHOUSE - \"Every Generation Got It's Own Disease\" (Offizielles Video)",
@@ -3440,7 +3560,7 @@
     },
     {
       "id": "40gE0QP8l3o",
-      "title": "FURY IN THE SLAUGHTERHOUSE - \"Sometimes (Stop to Call)\" (Offizielles Video)",
+      "title": "Fury In The Slaughterhouse - Sometimes (Stop to Call) (Official Video)",
       "channel": "FURY IN THE SLAUGHTERHOUSE",
       "duration": "3:39",
       "artist": "Fury In the Slaughterhouse",
@@ -20385,7 +20505,7 @@
     },
     {
       "id": "6iaxDxHUWP8",
-      "title": "Rammstein - Mein Land (Official Video)",
+      "title": "Rammstein - Mein Land (Official 4K Video)",
       "channel": "Rammstein Official",
       "duration": "4:25",
       "artist": "Rammstein",
@@ -51268,42 +51388,6 @@
       "artistCountry": "FR",
       "createdAt": 1743113026751,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "Xybw7zdGi1o",
-      "title": "bamboo",
-      "channel": "Ebi Soda",
-      "duration": "7:15",
-      "artist": "Ebi Soda",
-      "musicTitle": "bamboo",
-      "tags": [
-        "jazz",
-        "fusion"
-      ],
-      "externalIds": {
-        "amazonMusic": "B0DWYTP3BG",
-        "amazonStore": "B0DWYTP3BG",
-        "audiomack": "60476763",
-        "anghami": "1198934720",
-        "appleMusic": "1806994918",
-        "itunes": "1806994918",
-        "pandora": "TR:156089681",
-        "soundcloud": "ebisoda/bamboo",
-        "spotify": "0CeMVnAnDbQyTi7hQt1CWA",
-        "tidal": "417581504",
-        "yandex": "136046249",
-        "youtube": "Xybw7zdGi1o",
-        "youtubeMusic": "Xybw7zdGi1o",
-        "musicbrainz": "1d835b63-a1ae-4790-b602-53be6c7d0ab2",
-        "musicbrainz-track": "1d835b63-a1ae-4790-b602-53be6c7d0ab2",
-        "musicbrainz-artist": "89fdffe7-4545-4265-9ccc-e7b928e00d22",
-        "lastfm": "Ebi+Soda/_/bamboo"
-      },
-      "listeners": 1058,
-      "playcount": 2267,
-      "releasedAt": "2025-09-19",
-      "createdAt": 1743111138304,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "UAFrvxGB2hA",
@@ -102680,7 +102764,7 @@
     {
       "id": "ml9cZ5UjQx4",
       "title": "God Is Busy, May I Help You?",
-      "channel": "Kultur Shock - Topic",
+      "channel": "Kultur Shock Music",
       "duration": "3:23",
       "artist": "Kultur Shock",
       "musicTitle": "God Is Busy, May I Help You?",
@@ -107947,36 +108031,6 @@
       "duration": "29:47",
       "musicTitle": "Mild High Club - Going Going Gone [Full Album]",
       "createdAt": 1762449475008,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "fV-3Iduy07I",
-      "title": "All Around",
-      "channel": "sUb_modU - Topic",
-      "duration": "5:42",
-      "artist": "sUb_modU",
-      "musicTitle": "All Around",
-      "externalIds": {
-        "amazonMusic": "B099WFN1LD",
-        "amazonStore": "B099WFN1LD",
-        "boomplay": "66028326",
-        "deezer": "1438861912",
-        "appleMusic": "1577861349",
-        "itunes": "1577861349",
-        "napster": "tra.599074584",
-        "pandora": "TR:47241400",
-        "soundcloud": "1090412974",
-        "spotify": "7EhwBgLUnxNwFSeZdJRQNP",
-        "tidal": "191511369",
-        "yandex": "87567730",
-        "youtube": "fV-3Iduy07I",
-        "youtubeMusic": "fV-3Iduy07I",
-        "musicbrainz-artist": "a3f45f1d-0958-445c-b263-33305c7dd537",
-        "lastfm": "sUb_modU/_/All+Around"
-      },
-      "listeners": 155,
-      "playcount": 310,
-      "createdAt": 1762447162778,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
@@ -116667,5 +116721,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-01-05T12:35:34.014Z"
+  "lastFetched": "2026-01-08T16:25:09.977Z"
 }
