@@ -2,8 +2,88 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4439,
+  "videoCount": 4449,
   "videos": [
+    {
+      "id": "uIO4e_JCsd8",
+      "title": "Joey Bada$$ - Waves",
+      "channel": "OnDemandAlbums",
+      "duration": "3:32",
+      "createdAt": 1768430188155,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "MuEepXJ8JdY",
+      "title": "Patrice Rushen - The Hump",
+      "channel": "hamishblues hamishblues",
+      "duration": "6:03",
+      "createdAt": 1768258749018,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "LB4ea30sg-8",
+      "title": "Ezra Collective - No Confusion ft. Kojey Radical",
+      "channel": "Ezra Collective",
+      "duration": "3:30",
+      "createdAt": 1768258575089,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "zVStRssuW9c",
+      "title": "Masta Ace INC Ride",
+      "channel": "DVi (Delicious Vinyl + Delicious Vinyl Island)",
+      "duration": "4:26",
+      "createdAt": 1768258401513,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "xvRwSlI4uhc",
+      "title": "Empyrean",
+      "channel": "Deepchord Presents: Echospace - Topic",
+      "duration": "5:26",
+      "createdAt": 1768147541016,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "8V0NQbmO7AQ",
+      "title": "Plastic People",
+      "channel": "Birth Control - Topic",
+      "duration": "9:23",
+      "createdAt": 1768146436303,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "ghAs7Q_qTG0",
+      "title": "Babe Roots - Sufferation Time (Babe Roots Remix)",
+      "channel": "Babe Roots",
+      "duration": "4:25",
+      "createdAt": 1768123050477,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "FKzmQnJHLto",
+      "title": "Star Wars: Main Title",
+      "channel": "Tomita - Topic",
+      "duration": "3:06",
+      "createdAt": 1768079073968,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "XCbBiWbkHhk",
+      "title": "\"Peter and John\" (1983) Andrew Wartts & Gospel Storytellers",
+      "channel": "Gospel Nostalgia",
+      "duration": "2:48",
+      "createdAt": 1768002150909,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "JsFRjJRnzNI",
+      "title": "This Is The Lost Generation",
+      "channel": "The Lost Generation - Topic",
+      "duration": "3:35",
+      "createdAt": 1767995363476,
+      "userId": "d0e5c86f97e5dc247c758d750c1b51fb9703a9dd023d2b91aad02997159169bc"
+    },
     {
       "id": "bZdCdpvofqQ",
       "title": "Daniel Avery - Rapture In Blue w/ Cecile Believe (Official Video)",
@@ -51,14 +131,6 @@
       "duration": "1:51",
       "createdAt": 1767865244632,
       "userId": "d0ebd620edfede5561374725d238b826965f80677d0d91fb765fff78408121f5"
-    },
-    {
-      "id": "2c0UusJoscE",
-      "title": "Daydream",
-      "channel": "Günter Kallmann Chor - Topic",
-      "duration": "3:22",
-      "createdAt": 1767864170995,
-      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
     {
       "id": "kxokAmGVzOs",
@@ -21826,15 +21898,6 @@
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
-      "id": "DkIQD_3Ej4I",
-      "title": "Bonga (Angola, 1972)  - Angola 72",
-      "channel": "Saturnino Gordon",
-      "duration": "42:02",
-      "musicTitle": "Bonga (Angola, 1972)  - Angola 72",
-      "createdAt": 1545038580000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
       "id": "0JQ0xnJyb0A",
       "title": "Отава Ё – Сумецкая (русские частушки под драку) Otava Yo - russian couplets while fighting",
       "channel": "Otava Yo",
@@ -39469,36 +39532,6 @@
       "artistCountry": "US",
       "createdAt": 1529087700000,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "_AzH-x2IK2I",
-      "title": "Boom Boom - Big Head Todd and the Monsters",
-      "channel": "ɆѦǤⱢɆ ƦѲȻҜṨ",
-      "duration": "3:33",
-      "artist": "Big Head Todd And The Monsters",
-      "musicTitle": "Boom Boom",
-      "tags": [
-        "rock",
-        "classic rock",
-        "blues",
-        "blues rock",
-        "boogie rock"
-      ],
-      "externalIds": {
-        "amazonMusic": "B084DNBP3X",
-        "amazonStore": "B084DNBP3X",
-        "youtube": "_AzH-x2IK2I",
-        "youtubeMusic": "_AzH-x2IK2I",
-        "musicbrainz": "0f1cb352-906e-44d3-b123-c68f94302cc3",
-        "musicbrainz-artist": "92e7d285-906a-4e0e-b0db-a79bc80d1e5a",
-        "lastfm": "Big+Head+Todd+and+the+Monsters/_/Boom+Boom"
-      },
-      "listeners": 22712,
-      "playcount": 99500,
-      "releasedAt": "1997-02-11",
-      "artistCountry": "US",
-      "createdAt": 1506880560000,
-      "userId": "a22a29022a3ee40f080fd384814a273052f38481a1d0471aaea869e74a857aa5"
     },
     {
       "id": "grYjJe5etOY",
@@ -67735,7 +67768,7 @@
     {
       "id": "tXLhpIUn0H8",
       "title": "The Montgomery Express - Who",
-      "channel": "Selector's Practice : Jams & Gems",
+      "channel": "Outer Realms Stewards : Попечители Дальних Земель",
       "duration": "2:58",
       "artist": "The Montgomery Express",
       "musicTitle": "Who",
@@ -114060,7 +114093,7 @@
     {
       "id": "KxDqK1QI6Yg",
       "title": "Adrian Sherwood - The Collapse Of Everything",
-      "channel": "Adrian Sherwood",
+      "channel": "Unknown Channel",
       "duration": "3:54",
       "artist": "Adrian Sherwood",
       "musicTitle": "The Collapse Of Everything",
@@ -116750,5 +116783,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-01-09T14:06:48.614Z"
+  "lastFetched": "2026-01-15T11:46:16.447Z"
 }
