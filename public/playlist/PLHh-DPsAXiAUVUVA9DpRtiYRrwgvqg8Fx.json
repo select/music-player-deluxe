@@ -2,8 +2,152 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4449,
+  "videoCount": 4467,
   "videos": [
+    {
+      "id": "sHCTPIxyyDU",
+      "title": "The Ruins Of Beverast - Alpha Fluids",
+      "channel": "vanrecords",
+      "duration": "6:52",
+      "createdAt": 1768770314720,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "SyVICFIQlDg",
+      "title": "Sleaford Mods Ft. Gwendoline Christie & Big Special - The Good Life (Official Video)",
+      "channel": "Unknown Channel",
+      "duration": "3:08",
+      "createdAt": 1768767753031,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "G2X7vr5pNyk",
+      "title": "Lobsta B - Toxic VIP",
+      "channel": "stunkad",
+      "duration": "3:35",
+      "createdAt": 1768765889524,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "tT9QnM6MWhg",
+      "title": "Perfect Day",
+      "channel": "Roxette",
+      "duration": "4:05",
+      "createdAt": 1768757660656,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "0NfQmoouvTY",
+      "title": "I Know You Know",
+      "channel": "Esperanza Spalding",
+      "duration": "3:46",
+      "createdAt": 1768751214351,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "shTQomOVfT0",
+      "title": "Incognito Rhythm - 4am Kru",
+      "channel": "4am Kru",
+      "duration": "2:53",
+      "createdAt": 1768734192591,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "kXiufS3_4WQ",
+      "title": "Warum ein verbotener UK-Sound gerade die Clubs übernimmt | ARTE Tracks",
+      "channel": "Arte TRACKS",
+      "duration": "17:40",
+      "createdAt": 1768734192591,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "CJXD1-HlfoA",
+      "title": "Bandaid - A Tour in Italy",
+      "channel": "Italian Records",
+      "duration": "7:02",
+      "createdAt": 1768690769304,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "XdFdIJlI3F4",
+      "title": "Mr Fogg - Close to the Surface (Official Music Video)",
+      "channel": "Mr Fogg",
+      "duration": "4:43",
+      "createdAt": 1768682410958,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "JCLzKXCJBxE",
+      "title": "Two Bs One White (Minor Science Remix)",
+      "channel": "Magic Drum Orchestra - Topic",
+      "duration": "6:38",
+      "createdAt": 1768676403447,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "fp-DpTyl2tk",
+      "title": "EROBIQUE & JACQUES PALMINGER: \"Bert & Ernie\"",
+      "channel": "Erobique",
+      "duration": "3:25",
+      "createdAt": 1768672783943,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "-SpKFkjlO8Y",
+      "title": "Jonas Kaufmann, Giacomo Puccini - Nessun Dorma from \"An evening with Puccini\"",
+      "channel": "Jonas Kaufmann",
+      "duration": "3:43",
+      "createdAt": 1768650411516,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "8v1uQ7icUtc",
+      "title": "Yeditepe",
+      "channel": "İlhan Erşahin - Topic",
+      "duration": "5:32",
+      "createdAt": 1768646959197,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "SVi3-PrQ0pY",
+      "title": "Gene Wilder - Pure Imagination",
+      "channel": "beralts",
+      "duration": "3:56",
+      "createdAt": 1768645925024,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "kwny_HHiGCE",
+      "title": "Amon Düül II – Archangel Thunderbird (1970 DE)",
+      "channel": "XANAX TERMINAL",
+      "duration": "3:49",
+      "createdAt": 1768635897928,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "xODK_OwxpHM",
+      "title": "Eminence Front",
+      "channel": "TheWho",
+      "duration": "5:41",
+      "createdAt": 1768575249052,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "iQCsshUJK_g",
+      "title": "Rush For Joe",
+      "channel": "Yello",
+      "duration": "3:26",
+      "createdAt": 1768574860223,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "ghgbqldDI2U",
+      "title": "ceephax acid crew - acid le soken",
+      "channel": "fangfan420",
+      "duration": "8:32",
+      "createdAt": 1768523302413,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
     {
       "id": "uIO4e_JCsd8",
       "title": "Joey Bada$$ - Waves",
@@ -10082,39 +10226,6 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
-      "id": "Zc2rD1u2iVY",
-      "title": "Fleisch",
-      "channel": "Bo Marley - Topic",
-      "duration": "3:40",
-      "artist": "Bo Marley",
-      "musicTitle": "Fleisch",
-      "tags": [
-        "soulriddim",
-        "rootsriddim"
-      ],
-      "externalIds": {
-        "amazonMusic": "B0DBBPF5SH",
-        "amazonStore": "B0DBBPF5SH",
-        "appleMusic": "1059550618",
-        "itunes": "1059550618",
-        "pandora": "TR:80297106",
-        "soundcloud": "benja93190/fleisch-1",
-        "spotify": "0ccIffJ9r3hSWaC2yUGzKD",
-        "tidal": "53965887",
-        "youtube": "Zc2rD1u2iVY",
-        "youtubeMusic": "Zc2rD1u2iVY",
-        "musicbrainz": "54179f7d-e05f-4740-8599-a8efee9de490",
-        "musicbrainz-track": "e9b8f237-2008-444d-a0b4-4c6378eac501",
-        "musicbrainz-artist": "a7302485-24ca-4862-9e2d-c80bb35c4979",
-        "lastfm": "Bo+Marley/_/Fleisch"
-      },
-      "listeners": 891,
-      "playcount": 2812,
-      "releasedAt": "2008-11",
-      "createdAt": 1764674838629,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
       "id": "t_s6waEUTbI",
       "title": "die ärzte - Ein Lied für Jetzt (Offizielles Video)",
       "channel": "bademeisterTV",
@@ -14530,39 +14641,6 @@
       "playcount": 938,
       "createdAt": 1571951280000,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "2qYu-P8EgWY",
-      "title": "Robot Echos",
-      "channel": "Disrupt - Topic",
-      "duration": "3:37",
-      "artist": "Disrupt",
-      "musicTitle": "Robot Echos",
-      "tags": [
-        "dub",
-        "experimental",
-        "digital reggae"
-      ],
-      "externalIds": {
-        "amazonMusic": "B0DBBDKVBG",
-        "amazonStore": "B0DBBDKVBG",
-        "appleMusic": "1059550622",
-        "itunes": "1059550622",
-        "pandora": "TR:80297110",
-        "soundcloud": "jahtari_records/disrupt-robot-echos",
-        "tidal": "53965891",
-        "youtube": "2qYu-P8EgWY",
-        "youtubeMusic": "2qYu-P8EgWY",
-        "musicbrainz": "39d9d900-036d-4869-bbc1-dc98732008d3",
-        "musicbrainz-track": "39d9d900-036d-4869-bbc1-dc98732008d3",
-        "musicbrainz-artist": "5fffffdf-90d2-4e77-a12d-ea1ab24bd2b9",
-        "lastfm": "Disrupt/_/Robot+Echos"
-      },
-      "listeners": 530,
-      "playcount": 1652,
-      "releasedAt": "2009-11-11",
-      "createdAt": 1764629159095,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "BcyFJLrBVhA",
@@ -30966,7 +31044,7 @@
     {
       "id": "lWInZ4N6C2g",
       "title": "Four Tet - New Energy (2017) [FULL ALBUM]",
-      "channel": "Patryk Walczak",
+      "channel": "Torgan",
       "duration": "56:36",
       "musicTitle": "Four Tet - New Energy (2017) [FULL ALBUM]",
       "tags": [
@@ -46271,7 +46349,7 @@
     {
       "id": "Uz_eZ8-exE0",
       "title": "Sébastien Tellier - Kilometer (Official Video)",
-      "channel": "Record Makers",
+      "channel": "Unknown Channel",
       "duration": "3:16",
       "artist": "Sébastien Tellier",
       "musicTitle": "Kilometer",
@@ -60783,38 +60861,6 @@
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
-      "id": "Dj56G2YvfX4",
-      "title": "Hannett and Delia synth exchanges track 1",
-      "channel": "Delia Derbyshire - Topic",
-      "duration": "0:47",
-      "artist": "Delia Derbyshire",
-      "musicTitle": "Hannett and Delia synth exchanges track 1",
-      "tags": [
-        "experimental",
-        "electronic",
-        "avant-garde",
-        "bbc radiophonic workshop"
-      ],
-      "externalIds": {
-        "amazonMusic": "B07Z6DYS7G",
-        "amazonStore": "B07Z6DYS7G",
-        "appleMusic": "1483758822",
-        "itunes": "1483758822",
-        "napster": "tra.415400394",
-        "pandora": "TR:24537727",
-        "soundcloud": "deliaderbyshire/hannett-and-delia-synth",
-        "spotify": "1BhubvIhpbae9mlwxFAQce",
-        "tidal": "120325333",
-        "youtube": "Dj56G2YvfX4",
-        "youtubeMusic": "Dj56G2YvfX4",
-        "lastfm": "Delia+Derbyshire/_/Hannett+and+Delia+Synth+Exchanges+Track+1"
-      },
-      "listeners": 1516,
-      "playcount": 2884,
-      "createdAt": 1723112810697,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
       "id": "RcVZfJO01NI",
       "title": "Happy Birthday",
       "channel": "Stevie Wonder",
@@ -65358,8 +65404,8 @@
       "playcount": 96181,
       "releasedAt": "2021-10-27",
       "artistCountry": "DE",
-      "createdAt": 1715283586834,
-      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+      "createdAt": 1768676008911,
+      "userId": "3ee08ffca31371b3deca5e8f4e12823fedee2177ab473545691a8275e35da40b"
     },
     {
       "id": "nB-xqDZbEVQ",
@@ -90447,45 +90493,6 @@
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
     {
-      "id": "l7Ko5586zqQ",
-      "title": "Standard Procedures",
-      "channel": "Lewsberg - Topic",
-      "duration": "5:42",
-      "artist": "Lewsberg",
-      "musicTitle": "Standard Procedures",
-      "tags": [
-        "post punk",
-        "crank wave",
-        "art punk",
-        "rock"
-      ],
-      "externalIds": {
-        "amazonMusic": "B0DBDJBMM6",
-        "amazonStore": "B0DBDJBMM6",
-        "anghami": "1044516117",
-        "boomplay": "17499173",
-        "deezer": "854312562",
-        "appleMusic": "1495167012",
-        "itunes": "1495167012",
-        "napster": "tra.437600114",
-        "pandora": "TR:28387192",
-        "soundcloud": "lewsberg-music/standard-procedures",
-        "spotify": "4F7J5RsPiFdAZ0Z9iezKyd",
-        "tidal": "128388850",
-        "yandex": "61741668",
-        "youtube": "l7Ko5586zqQ",
-        "youtubeMusic": "l7Ko5586zqQ",
-        "musicbrainz": "7a0eef28-632c-4468-997b-f194b5eab12b",
-        "musicbrainz-artist": "e270d44f-3109-4bd4-a35c-67870159198e",
-        "lastfm": "Lewsberg/_/Standard+Procedures"
-      },
-      "listeners": 1519,
-      "playcount": 4293,
-      "artistCountry": "NL",
-      "createdAt": 1673481239974,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
       "id": "GL4xUHA49MU",
       "title": "Make Those Move (Ternion Sound Remix)",
       "channel": "I Am Legion - Topic",
@@ -91951,7 +91958,7 @@
     },
     {
       "id": "KxRzE3qy2KM",
-      "title": "Lost in Music (1984 Bernard Edwards & Nile Rodgers Remix) (1995 Remaster)",
+      "title": "Lost in Music (1984 Bernard Edwards & Nile Rodgers Remix) [1995 Remaster]",
       "channel": "Sister Sledge",
       "duration": "6:38",
       "artist": "Sister Sledge",
@@ -116783,5 +116790,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-01-15T11:46:16.447Z"
+  "lastFetched": "2026-01-19T09:38:29.905Z"
 }
