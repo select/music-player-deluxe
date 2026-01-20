@@ -2,8 +2,16 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4467,
+  "videoCount": 4468,
   "videos": [
+    {
+      "id": "J3amtAb-dp8",
+      "title": "Suicide - Dream baby dream (Long Version) (1979) full 12” Single",
+      "channel": "sipsun8",
+      "duration": "10:16",
+      "createdAt": 1768839908367,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
     {
       "id": "sHCTPIxyyDU",
       "title": "The Ruins Of Beverast - Alpha Fluids",
@@ -18586,7 +18594,7 @@
     {
       "id": "rETv-fv6RWs",
       "title": "Auļi un Tautumeitas - Dzied’  papriekšu, brāļa māsa",
-      "channel": "AuliEtnotranss",
+      "channel": "Unknown Channel",
       "duration": "2:46",
       "artist": "Auli",
       "musicTitle": "Dzied' papriekšu, brāļa māsa",
@@ -116790,5 +116798,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-01-19T09:38:29.905Z"
+  "lastFetched": "2026-01-20T09:55:48.055Z"
 }
