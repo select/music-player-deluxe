@@ -2,8 +2,272 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4512,
+  "videoCount": 4544,
   "videos": [
+    {
+      "id": "6RwO1ToABhQ",
+      "title": "Die 4. Dimension",
+      "channel": "Die Fantastischen Vier",
+      "duration": "4:39",
+      "createdAt": 1770911993746,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "x4akdPotOK0",
+      "title": "Geldschein",
+      "channel": "Schleimkeim - Topic",
+      "duration": "3:31",
+      "createdAt": 1770852702377,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "CeZEC0TJiYc",
+      "title": "Adrian Sherwood - Space Oddity",
+      "channel": "(Too much) confusion",
+      "duration": "3:15",
+      "createdAt": 1770851680740,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "p3Sbrn-_EZE",
+      "title": "Robot Koch - Dragonfly",
+      "channel": "Robot Koch",
+      "duration": "4:43",
+      "createdAt": 1770841941186,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "EiShHq0aYOM",
+      "title": "Bert H - Fly With Me (Bop Remix)",
+      "channel": "Drum&BassArena",
+      "duration": "5:22",
+      "createdAt": 1770839708591,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "K7lVYRZTzFA",
+      "title": "Смысловые Галлюцинации - Вечно Молодой (Брат 2)",
+      "channel": "TokioDrifter1954",
+      "duration": "3:13",
+      "createdAt": 1770815720382,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "cWwV2J2gCnc",
+      "title": "Mr. Peanut",
+      "channel": "Otto Benson",
+      "duration": "3:54",
+      "createdAt": 1770763859941,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "taeO4HrSq0Q",
+      "title": "Svake Mennesker",
+      "channel": "Jannicke - Topic",
+      "duration": "2:34",
+      "createdAt": 1770740699585,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "eQta7l446iY",
+      "title": "Bärchen und die Milchbubis - egal",
+      "channel": "Bikikill",
+      "duration": "1:48",
+      "createdAt": 1770724506770,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "nTwfDyRFeY0",
+      "title": "Funky Town",
+      "channel": "Agitpop - Topic",
+      "duration": "3:32",
+      "createdAt": 1770724241744,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "pCEA80mA3wI",
+      "title": "Labi Siffre -  Cannock Chase",
+      "channel": "The Planetbeat",
+      "duration": "4:00",
+      "createdAt": 1770648207087,
+      "userId": "d0ebd620edfede5561374725d238b826965f80677d0d91fb765fff78408121f5"
+    },
+    {
+      "id": "b_qhSwzRLMU",
+      "title": "Charles Petersohn - Zu Zu Music (feat. Mickey Neher, AdaSoul and Narjara Thamiz)",
+      "channel": "Compost Records",
+      "duration": "7:56",
+      "createdAt": 1770575156936,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "nTSlZjE87_s",
+      "title": "Skyscrapers",
+      "channel": "Eumir Deodato - Topic",
+      "duration": "6:39",
+      "createdAt": 1770565193777,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "C_8QOdd2jQc",
+      "title": "Nash The Slash - Wolf - 1980",
+      "channel": "Mark Pyskoty",
+      "duration": "4:52",
+      "createdAt": 1770564896275,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "kPBzTxZQG5Q",
+      "title": "3 Doors Down - Here Without You (Official Music Video)",
+      "channel": "3doorsdown",
+      "duration": "3:56",
+      "createdAt": 1770545723504,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "83NmcqbXLNc",
+      "title": "Tribute to Joseph Beuys",
+      "channel": "el J-Ché",
+      "duration": "3:47",
+      "createdAt": 1770544349740,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "mdIP3hyxi3k",
+      "title": "Deichkind - So`ne Musik (Official Video)",
+      "channel": "deichkindTV",
+      "duration": "3:20",
+      "createdAt": 1770533030314,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "bDnNqsy7rYE",
+      "title": "Bob Marley & The Wailers - Lively Up Yourself (Live At The Rainbow Theatre, London / 1977)",
+      "channel": "Bob Marley",
+      "duration": "6:56",
+      "createdAt": 1770502418009,
+      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
+    },
+    {
+      "id": "OSU5r0p-d00",
+      "title": "Eric Burdon & War - Spirit (Live, 1971) ♥♫",
+      "channel": "Eric Burdon Tribute Channel 7 (unofficial)",
+      "duration": "6:49",
+      "createdAt": 1770501678931,
+      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
+    },
+    {
+      "id": "X_mAM8CF6Ro",
+      "title": "30 YEARS",
+      "channel": "Digital Base - Topic",
+      "duration": "5:11",
+      "createdAt": 1770497299924,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "k8gNzJcpHW0",
+      "title": "Beginner - Liebeslied (official Video)",
+      "channel": "Beginner",
+      "duration": "3:40",
+      "createdAt": 1770497153063,
+      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
+    },
+    {
+      "id": "TByK-biI8Tc",
+      "title": "E.F.G. ft. Nessie -  Higher | Indie Dance / Tech House",
+      "channel": "E.F.G.",
+      "duration": "4:41",
+      "createdAt": 1770496881204,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "A3PjURr7lb4",
+      "title": "Culture - Two Sevens Clash, 1977",
+      "channel": "Reggae Playground",
+      "duration": "3:36",
+      "createdAt": 1770477003059,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "AyWKWcEfE-Y",
+      "title": "Come On Let's Go",
+      "channel": "Broadcast - Topic",
+      "duration": "3:18",
+      "createdAt": 1770471144905,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "tr0VDWCsnVc",
+      "title": "Der Plan - Da vorne steht ne Ampel (Bonus Track)",
+      "channel": "Bureau B",
+      "duration": "2:34",
+      "createdAt": 1770424139590,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "it2iTXX72is",
+      "title": "Lightly",
+      "channel": "Diskette Park - Topic",
+      "duration": "2:10",
+      "createdAt": 1770418851852,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "kLAp19L58Cg",
+      "title": "Pod Room (Remastered 2023)",
+      "channel": "Amorphous Androgynous - Topic",
+      "duration": "5:23",
+      "createdAt": 1770415262328,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "2I1J1cos6uA",
+      "title": "Babe Roots feat Another Channel - Get You Down",
+      "channel": "Babe Roots",
+      "duration": "4:51",
+      "createdAt": 1770401110839,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "J46sRuj99Cw",
+      "title": "“SON OF A WITCH” | DARK SWAMP BLUES on the Dobro Duolian Resonator Guitar",
+      "channel": "Justin Johnson",
+      "duration": "4:55",
+      "createdAt": 1770372908738,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "mE4MzNE4kmY",
+      "title": "Marmite",
+      "channel": "porij",
+      "duration": "3:27",
+      "createdAt": 1770372134595,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "qabmngqxPtc",
+      "title": "Heart of Steel",
+      "channel": "MANOWAR",
+      "duration": "5:11",
+      "createdAt": 1770366178374,
+      "userId": "632ceb4627aa295fadc9a89e5c024083797afe639f3b07471e2c4cde3bd10ef0"
+    },
+    {
+      "id": "c5uUsJo4Pdk",
+      "title": "She Past Away - Narin Yalnızlık (Official Audio)",
+      "channel": "ShePastAway",
+      "duration": "4:15",
+      "createdAt": 1770309644479,
+      "userId": "3ee08ffca31371b3deca5e8f4e12823fedee2177ab473545691a8275e35da40b"
+    },
+    {
+      "id": "VASVraoqGcI",
+      "title": "Elbphilharmonie Sessions | MEUTE live on the Rooftop",
+      "channel": "Elbphilharmonie Hamburg",
+      "duration": "39:24",
+      "createdAt": 1770295784949,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
     {
       "id": "ahDP7zN7suM",
       "title": "French 79 - Observatoire de la Côte d’Azur, 2021 - ARTE Concert",
@@ -62,7 +326,7 @@
     },
     {
       "id": "dDk7282RjiQ",
-      "title": "Oxbow Lakes",
+      "title": "Oxbow Lakes (Album Version)",
       "channel": "theorbofficial",
       "duration": "7:29",
       "createdAt": 1770046755553,
@@ -570,14 +834,6 @@
       "channel": "Tomita - Topic",
       "duration": "3:06",
       "createdAt": 1768079073968,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "XCbBiWbkHhk",
-      "title": "\"Peter and John\" (1983) Andrew Wartts & Gospel Storytellers",
-      "channel": "Gospel Nostalgia",
-      "duration": "2:48",
-      "createdAt": 1768002150909,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
@@ -1459,7 +1715,7 @@
     },
     {
       "id": "qjjs4thy-R0",
-      "title": "All Right Now",
+      "title": "All Right Now (Single Version)",
       "channel": "Free Band",
       "duration": "4:15",
       "musicTitle": "All Right Now",
@@ -29737,7 +29993,7 @@
     },
     {
       "id": "RJqimlFcJsM",
-      "title": "Three Lions (Football's Coming Home) (Official Video)",
+      "title": "Baddiel & Skinner & Lightning Seeds - Three Lions (Football's Coming Home) (Official Video)",
       "channel": "Lightning Seeds",
       "duration": "3:56",
       "artist": "Baddiel",
@@ -77522,7 +77778,7 @@
     {
       "id": "uq6rta6hQgY",
       "title": "Duo Clari Polka",
-      "channel": "Release - Topic",
+      "channel": "Blasorchester Heribert Raich - Topic",
       "duration": "2:59",
       "artist": "Blasorchester Heribert Raich",
       "musicTitle": "Duo Clari Polka",
@@ -87574,7 +87830,7 @@
     },
     {
       "id": "pLj5sBfGuQY",
-      "title": "Tina Turner - I Don't Wanna Lose You (Official Music Video)",
+      "title": "Tina Turner - I Don't Wanna Lose You (Official Video)",
       "channel": "Tina Turner",
       "duration": "4:17",
       "artist": "Tina Turner",
@@ -94075,6 +94331,49 @@
       "artistCountry": "US",
       "createdAt": 1667981388982,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "eBShN8qT4lk",
+      "title": "Beastie Boys - (You Gotta) Fight For Your Right (To Party) (Official Music Video)",
+      "channel": "BeastieBoys",
+      "duration": "4:01",
+      "artist": "Beastie Boys",
+      "musicTitle": "Fight for Your Right",
+      "tags": [
+        "hip hop",
+        "80s",
+        "rock",
+        "rap",
+        "alternative",
+        "alternative hip hop",
+        "alternative rock",
+        "east coast hip hop",
+        "experimental hip hop",
+        "funk"
+      ],
+      "externalIds": {
+        "amazonMusic": "B001NZEHXC",
+        "amazonStore": "B001NZEHXC",
+        "audiomack": "1195951",
+        "anghami": "1117271",
+        "appleMusic": "1440912353",
+        "itunes": "1440912353",
+        "pandora": "TR:9351",
+        "soundcloud": "beastieboys/fight-for-your-right",
+        "spotify": "5NLuC70kZQv8q34QyQa1DP",
+        "tidal": "636796",
+        "youtube": "eBShN8qT4lk",
+        "youtubeMusic": "eBShN8qT4lk",
+        "musicbrainz": "6746aa53-9cc5-4452-842b-6632c3722b3b",
+        "musicbrainz-artist": "9beb62b2-88db-4cea-801e-162cd344ee53",
+        "lastfm": "Beastie+Boys/_/Fight+for+Your+Right"
+      },
+      "listeners": 798814,
+      "playcount": 4079631,
+      "lastfmSummary": "\"Fight for Your Right\" was the first single released from the Beastie Boys' breakthrough album, Licensed to Ill (1986). One of their best-known songs, it reached #7 on the Billboard 100, and was later named one of The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll. The Beastie Boys also included the track on their hits album, The Sounds of Science in 1999, and Solid Gold Hits in 2005.\n\nHistory\n\nIronically, the song was intended as a parody of party and attitude songs, such as \"Smokin' In the Boys Room\" and \"I Wanna Rock. <a href=\"http://www.last.fm/music/Beastie+Boys/_/Fight+for+Your+Right\">Read more on Last.fm</a>.",
+      "artistCountry": "US",
+      "createdAt": 1667636754764,
+      "userId": "cf33630830b78132a9f457690e58a4296c3eedb85985cb7edde9a7eaf93736a2"
     },
     {
       "id": "Q58IkymdfUE",
@@ -116973,5 +117272,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-02-05T10:00:24.443Z"
+  "lastFetched": "2026-02-12T17:39:48.013Z"
 }
