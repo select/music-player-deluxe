@@ -32225,7 +32225,7 @@
     {
       "id": "Y1DPybNI25Q",
       "title": "Avicii - Wake Me Up ( 1$ Cover )",
-      "channel": "BigMarvel The Simulator",
+      "channel": "Big Marvel",
       "duration": "1:57",
       "musicTitle": "Avicii - Wake Me Up ( 1$ Cover )",
       "tags": [
@@ -44756,7 +44756,7 @@
     {
       "id": "HTvu1Yr3Ohk",
       "title": "Trapt - Headstrong (Official Music Video)",
-      "channel": "Warner Records Vault",
+      "channel": "Unknown Channel",
       "duration": "3:38",
       "musicTitle": "Trapt - Headstrong (Official Music Video) | Warner Vault",
       "tags": [
@@ -62363,43 +62363,6 @@
       "artistCountry": "DE",
       "createdAt": 1720643871286,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
-    },
-    {
-      "id": "cH3tuAAHpNI",
-      "title": "Wann wird's mal wieder richtig Sommer",
-      "channel": "Rudi Carrell - Topic",
-      "duration": "4:24",
-      "artist": "Rudi Carrell",
-      "musicTitle": "Wann wird's mal wieder richtig Sommer",
-      "tags": [
-        "schlager"
-      ],
-      "externalIds": {
-        "amazonMusic": "B0F15SMYM8",
-        "amazonStore": "B0F15SMYM8",
-        "audiomack": "24701773",
-        "boomplay": "14494644",
-        "deezer": "2305104805",
-        "appleMusic": "1690144526",
-        "itunes": "1690144526",
-        "napster": "tra.52764510",
-        "pandora": "TR:96423428",
-        "soundcloud": "rudi-carrell/wann-wirds-mal-wieder-richtig",
-        "spotify": "2JHRPXa7cVtsRjMb30a9KE",
-        "tidal": "297489472",
-        "yandex": "2715147",
-        "youtube": "cH3tuAAHpNI",
-        "youtubeMusic": "cH3tuAAHpNI",
-        "musicbrainz": "845c913c-0578-43f3-9fc0-230e8bc03846",
-        "musicbrainz-artist": "7b92b87c-fe3f-40d2-9d0e-bea73ae6bf41",
-        "lastfm": "Rudi+Carrell/_/Wann+wird%27s+mal+wieder+richtig+Sommer"
-      },
-      "listeners": 11679,
-      "playcount": 38385,
-      "releasedAt": "1996",
-      "artistCountry": "DE",
-      "createdAt": 1720551215425,
-      "userId": "d0e5c86f97e5dc247c758d750c1b51fb9703a9dd023d2b91aad02997159169bc"
     },
     {
       "id": "0l73_c7Ntpc",
@@ -87830,7 +87793,7 @@
     },
     {
       "id": "pLj5sBfGuQY",
-      "title": "Tina Turner - I Don't Wanna Lose You (Official Video)",
+      "title": "Tina Turner - I Don't Wanna Lose You (Official Music Video)",
       "channel": "Tina Turner",
       "duration": "4:17",
       "artist": "Tina Turner",
@@ -117272,5 +117235,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-02-12T17:39:48.013Z"
+  "lastFetched": "2026-02-16T11:58:24.048Z"
 }
