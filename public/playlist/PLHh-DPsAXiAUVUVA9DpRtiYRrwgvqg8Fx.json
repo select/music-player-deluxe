@@ -2,8 +2,88 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4596,
+  "videoCount": 4606,
   "videos": [
+    {
+      "id": "tzOnulz1Kfw",
+      "title": "MF DOOM - Black Snake Root (Official Audio)",
+      "channel": "MF DOOM",
+      "duration": "3:43",
+      "createdAt": 1772564911549,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "5NtVuJpVOVo",
+      "title": "Sheffield: Sex City",
+      "channel": "Pulp",
+      "duration": "8:32",
+      "createdAt": 1772564448695,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "xTAe3dxtB_0",
+      "title": "Human Nature",
+      "channel": "Desire - Topic",
+      "duration": "3:48",
+      "createdAt": 1772543165953,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "0JUL5LxWwM8",
+      "title": "Destiny Frasqueri \"Soul Train\" - Official Music Video",
+      "channel": "Dazed",
+      "duration": "4:16",
+      "createdAt": 1772535693983,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "GsujKD7jCxo",
+      "title": "Endless Wellness - Die guten Jahre [Official Video]",
+      "channel": "Endless Wellness",
+      "duration": "3:06",
+      "createdAt": 1772534470030,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "JzaGJfs4HD4",
+      "title": "Dahuam",
+      "channel": "Von Seiten der Gemeinde - Topic",
+      "duration": "3:32",
+      "createdAt": 1772533247842,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "KHocVRUlvkk",
+      "title": "Fontaines D.C. - Starburster (Official Video)",
+      "channel": "Fontaines DC",
+      "duration": "4:25",
+      "createdAt": 1772486509147,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "ZypIClkeC74",
+      "title": "CATALYST - CCTV",
+      "channel": "CATALYST",
+      "duration": "3:45",
+      "createdAt": 1772486136165,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "lULGlEQxS8U",
+      "title": "Steppin' / Tell Me About The Rabbit",
+      "channel": "Glyders - Topic",
+      "duration": "8:00",
+      "createdAt": 1772485070524,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "wjNln9mXuTI",
+      "title": "Deceptacon",
+      "channel": "LeTigreWorld",
+      "duration": "3:05",
+      "createdAt": 1772457126347,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
     {
       "id": "XAdBWnp8W7Q",
       "title": "KGATLW - Polygondwanaland (Full Album)",
@@ -100986,7 +101066,7 @@
     {
       "id": "2Tus-u3AwZg",
       "title": "Murda",
-      "channel": "Snavs",
+      "channel": "Release - Topic",
       "duration": "3:35",
       "artist": "Snavs",
       "musicTitle": "Murda",
@@ -117546,5 +117626,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-03-02T12:34:10.749Z"
+  "lastFetched": "2026-03-04T14:13:09.523Z"
 }
