@@ -18,7 +18,7 @@ jobs:
       - name: Install pnpm
         uses: pnpm/action-setup@v2
         with:
-          version: latest
+          version: 10
 
       - name: Setup Node.js 24
         uses: actions/setup-node@v4
