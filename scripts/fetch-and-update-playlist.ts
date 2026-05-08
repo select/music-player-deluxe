@@ -64,7 +64,15 @@ async function updateIndexFile(
 		let index: PlaylistSummary[] = [];
 		try {
 			const indexContent = await fs.readFile(indexFilePath, "utf-8");
-			index = JSON.parse(indexContent);
+			const parsed = JSON.parse(indexContent);
+			// Handle both array format and { success, data: [...] } wrapper format
+			if (Array.isArray(parsed)) {
+				index = parsed;
+			} else if (parsed && Array.isArray(parsed.data)) {
+				index = parsed.data;
+			} else {
+				index = [];
+			}
 		} catch (error) {
 			// File doesn't exist or is invalid, start with empty array
 			index = [];
@@ -139,7 +147,36 @@ async function fetchPlaylist(playlistId: string): Promise<Playlist> {
 		typeof playlist.videos === "object" &&
 		"next" in playlist.videos
 	) {
-		await playlist.videos.next(0);
+		// next(0) should load all, but is unreliable for large playlists.
+		// Use a retry loop: keep calling next() until no more items are returned.
+		let previousCount = 0;
+		let currentCount = playlist.videos.items?.length || 0;
+		let retries = 0;
+		const MAX_RETRIES = 3;
+
+		while (retries < MAX_RETRIES) {
+			try {
+				const newItems = await playlist.videos.next();
+				currentCount = playlist.videos.items?.length || 0;
+				console.log(`  Loaded ${currentCount} videos so far...`);
+
+				if (!newItems || newItems.length === 0 || currentCount === previousCount) {
+					// No new items returned, we've reached the end
+					break;
+				}
+				previousCount = currentCount;
+				retries = 0; // Reset retries on success
+			} catch (error) {
+				retries++;
+				console.warn(`  Pagination error (attempt ${retries}/${MAX_RETRIES}):`, error);
+				if (retries >= MAX_RETRIES) {
+					console.warn(`  Stopping pagination after ${MAX_RETRIES} consecutive errors`);
+					break;
+				}
+				// Wait a bit before retrying
+				await new Promise(resolve => setTimeout(resolve, 2000));
+			}
+		}
 	}
 
 	// Extract video information from playlist.videos
@@ -163,6 +200,36 @@ async function fetchPlaylist(playlistId: string): Promise<Playlist> {
 		videos: videos,
 		lastFetched: new Date().toISOString(),
 	};
+
+	// Safety check: abort if we fetched significantly fewer videos than expected
+	const fetchRatio = videos.length / playlist.videoCount;
+	if (videos.length === 0) {
+		throw new Error(
+			`Pagination failed: fetched 0 videos (expected ~${playlist.videoCount}). Aborting to preserve existing data.`,
+		);
+	}
+	if (fetchRatio < 0.5) {
+		console.warn(
+			`⚠️  WARNING: Only fetched ${videos.length}/${playlist.videoCount} videos (${(fetchRatio * 100).toFixed(1)}%).`,
+		);
+		console.warn(
+			`   This likely indicates a YouTube API pagination issue.`,
+		);
+		// Try to preserve existing data by reading the current file
+		try {
+			const existingContent = await fs.readFile(filePath, "utf-8");
+			const existingData: Playlist = JSON.parse(existingContent);
+			if (existingData.videos.length > videos.length) {
+				console.warn(
+					`   Existing file has ${existingData.videos.length} videos. Keeping existing data.`,
+				);
+				console.log(`✓ Fetched ${videos.length} videos from playlist (kept existing ${existingData.videos.length} videos)`);
+				return existingData;
+			}
+		} catch {
+			// No existing file, proceed with what we have
+		}
+	}
 
 	// Store the playlist data to file
 	try {
