@@ -201,30 +201,33 @@ async function fetchPlaylist(playlistId: string): Promise<Playlist> {
 		lastFetched: new Date().toISOString(),
 	};
 
-	// Safety check: abort if we fetched significantly fewer videos than expected
+	// Safety check and merge: if we fetched fewer videos than expected, merge with existing
 	const fetchRatio = videos.length / playlist.videoCount;
 	if (videos.length === 0) {
 		throw new Error(
 			`Pagination failed: fetched 0 videos (expected ~${playlist.videoCount}). Aborting to preserve existing data.`,
 		);
 	}
-	if (fetchRatio < 0.5) {
+	if (fetchRatio < 0.9) {
 		console.warn(
 			`⚠️  WARNING: Only fetched ${videos.length}/${playlist.videoCount} videos (${(fetchRatio * 100).toFixed(1)}%).`,
 		);
 		console.warn(
 			`   This likely indicates a YouTube API pagination issue.`,
 		);
-		// Try to preserve existing data by reading the current file
+		// Merge freshly fetched videos into existing data
 		try {
 			const existingContent = await fs.readFile(filePath, "utf-8");
 			const existingData: Playlist = JSON.parse(existingContent);
-			if (existingData.videos.length > videos.length) {
-				console.warn(
-					`   Existing file has ${existingData.videos.length} videos. Keeping existing data.`,
+			if (existingData.videos.length > 0) {
+				const existingIds = new Set(existingData.videos.map((v: Video) => v.id));
+				const newVideos = videos.filter((v: Video) => !existingIds.has(v.id));
+				console.log(
+					`   Existing file has ${existingData.videos.length} videos. Merging ${newVideos.length} new videos.`,
 				);
-				console.log(`✓ Fetched ${videos.length} videos from playlist (kept existing ${existingData.videos.length} videos)`);
-				return existingData;
+				// Prepend new videos (they are the most recent from the playlist)
+				playlistData.videos = [...newVideos, ...existingData.videos];
+				playlistData.videoCount = playlist.videoCount;
 			}
 		} catch {
 			// No existing file, proceed with what we have
