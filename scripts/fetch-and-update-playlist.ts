@@ -15,9 +15,13 @@
  *   - Modify PLAYLIST_ID constant below to fetch a different playlist
  */
 
-import { Innertube } from "youtubei.js";
 import { promises as fs } from "fs";
 import { join } from "path";
+import {
+	createYouTubeClient,
+	fetchPlaylistVideos,
+	type NormalizedPlaylist,
+} from "../app/utils/youtube.js";
 import type {
 	Video,
 	Playlist,
@@ -105,118 +109,8 @@ async function updateIndexFile(
 	}
 }
 
-// --- youtubei.js LockupView helpers ---
-// Modern YouTube playlists render each entry as a `LockupView` node. youtubei.js
-// collects these in the response "memo" rather than the legacy `playlist.items`
-// array, so we read them out of the memo directly.
+// --- youtubei.js playlist fetching lives in app/utils/youtube.ts (shared) ---
 
-interface NormalizedPlaylist {
-	id: string;
-	title: string;
-	description: string;
-	videoCount: number;
-	videos: Video[];
-}
-
-// Extract the duration text (e.g. "6:31") from a LockupView's thumbnail overlays.
-function extractDuration(lockup: any): string {
-	const overlays = lockup?.content_image?.overlays ?? [];
-	for (const overlay of overlays) {
-		for (const badge of overlay?.badges ?? []) {
-			if (typeof badge?.text === "string" && /^\d+(:\d{1,2})+$/.test(badge.text)) {
-				return badge.text;
-			}
-		}
-	}
-	return "Unknown Duration";
-}
-
-// Extract the channel/artist name from a LockupView's metadata rows. Prefer a
-// part that links to a channel; fall back to the first non-empty text run.
-function extractChannel(lockup: any): string {
-	const rows = lockup?.metadata?.metadata?.metadata_rows ?? [];
-	let fallback: string | undefined;
-	for (const row of rows) {
-		for (const part of row?.metadata_parts ?? []) {
-			const text: string | undefined = part?.text?.text;
-			if (!text) continue;
-			if (fallback === undefined) fallback = text;
-			const browseId =
-				part?.text?.runs?.[0]?.endpoint?.payload?.browseId;
-			if (typeof browseId === "string" && browseId.startsWith("UC")) {
-				return text;
-			}
-		}
-	}
-	return fallback || "Unknown Channel";
-}
-
-// Convert a LockupView node into our Video shape. Returns null for non-video
-// entries (e.g. deleted/private placeholders without a content id).
-function lockupToVideo(lockup: any): Video | null {
-	const id: string | undefined = lockup?.content_id;
-	if (!id || lockup?.content_type !== "VIDEO") return null;
-	return {
-		id,
-		title: lockup?.metadata?.title?.text || "Unknown Title",
-		channel: extractChannel(lockup),
-		duration: extractDuration(lockup),
-	};
-}
-
-// Pull a continuation token out of a ContinuationItemView node.
-function getContinuationToken(node: any): string | null {
-	const token = node?.endpoint?.payload?.token;
-	return typeof token === "string" && token.length > 20 ? token : null;
-}
-
-// Fetch every LockupView for a playlist, following continuation tokens.
-async function collectAllVideos(
-	yt: Innertube,
-	playlistId: string,
-): Promise<NormalizedPlaylist> {
-	const pl: any = await yt.getPlaylist(playlistId);
-	if (!pl) {
-		throw new Error("Playlist not found");
-	}
-
-	const videoCount =
-		parseInt(String(pl.info?.total_items ?? "").replace(/[^\d]/g, ""), 10) || 0;
-
-	const lockups: any[] = [...(pl.page?.contents_memo?.get("LockupView") ?? [])];
-	let token = getContinuationToken(
-		pl.page?.contents_memo?.get("ContinuationItemView")?.[0],
-	);
-	console.log(`  Loaded ${lockups.length} videos so far...`);
-
-	const MAX_PAGES = 200; // safety guard (~20k videos at 100/page)
-	let pages = 0;
-	while (token && pages < MAX_PAGES) {
-		pages++;
-		const resp: any = await yt.actions.execute("/browse", {
-			continuation: token,
-			parse: true,
-		});
-		const memo = resp?.on_response_received_actions_memo;
-		const pageLockups: any[] = memo?.get("LockupView") ?? [];
-		if (pageLockups.length === 0) break;
-		lockups.push(...pageLockups);
-		console.log(`  Loaded ${lockups.length} videos so far...`);
-		token = getContinuationToken(memo?.get("ContinuationItemView")?.[0]);
-	}
-
-	const videos = lockups
-		.map(lockupToVideo)
-		.filter((v): v is Video => v !== null);
-
-	return {
-		id: playlistId,
-		title: pl.info?.title || "",
-		description: pl.info?.description || "",
-		videoCount,
-		videos,
-	};
-}
 
 // Step 1: Fetch the playlist from YouTube
 async function fetchPlaylist(playlistId: string): Promise<Playlist> {
@@ -246,12 +140,14 @@ async function fetchPlaylist(playlistId: string): Promise<Playlist> {
 
 		// Initialize a fresh YouTube (InnerTube) client each attempt
 		console.log(`Initializing YouTube client (attempt ${attempt}/${FETCH_RETRIES})...`);
-		const youtube = await Innertube.create({ retrieve_player: false });
+		const youtube = await createYouTubeClient();
 
 		// Fetch playlist metadata and all video entries (via continuation)
 		console.log("Loading all videos (this may take a moment)...");
 		try {
-			normalized = await collectAllVideos(youtube, playlistId);
+			normalized = await fetchPlaylistVideos(youtube, playlistId, (count) =>
+				console.log(`  Loaded ${count} videos so far...`),
+			);
 		} catch (error) {
 			console.warn(`  Fetch error on attempt ${attempt}:`, error);
 			continue;

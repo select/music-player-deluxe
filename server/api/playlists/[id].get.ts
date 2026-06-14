@@ -1,7 +1,7 @@
-import { Client } from "youtubei";
 import { promises as fs } from "fs";
 import { join } from "path";
-import type { Video, Playlist, PlaylistSummary, ApiResponse } from "~/types";
+import type { Playlist, PlaylistSummary, ApiResponse } from "~/types";
+import { createYouTubeClient, fetchPlaylistVideos } from "~/utils/youtube";
 
 export default defineEventHandler(async (event) => {
 	try {
@@ -38,49 +38,23 @@ export default defineEventHandler(async (event) => {
 			// File doesn't exist or error reading it, continue to fetch fresh data
 		}
 
-		// Initialize YouTube client
-		const youtube = new Client();
+		// Initialize YouTube (InnerTube) client and fetch all playlist videos
+		const youtube = await createYouTubeClient();
+		const normalized = await fetchPlaylistVideos(youtube, playlistId);
 
-		// Get playlist
-		const playlist = await youtube.getPlaylist(playlistId);
-
-		if (!playlist) {
+		if (normalized.videos.length === 0) {
 			throw createError({
 				statusCode: 404,
-				statusMessage: "Playlist not found",
+				statusMessage: "Playlist not found or has no videos",
 			});
 		}
 
-		// Load all videos in the playlist using pagination
-		// By default, only the first ~100 videos are loaded initially
-		// Calling next(0) loads ALL remaining videos in the playlist
-		if (
-			playlist.videos &&
-			typeof playlist.videos === "object" &&
-			"next" in playlist.videos
-		) {
-			await playlist.videos.next(0);
-		}
-
-		// Extract video information from playlist.videos
-		const videoList = Array.isArray(playlist.videos)
-			? playlist.videos
-			: playlist.videos?.items || [];
-		const videos: Video[] = videoList.map((video: any) => ({
-			id: video.id,
-			title: video.title || "Unknown Title",
-			channel: video.channel?.name || "Unknown Channel",
-			duration: video.duration
-				? formatDuration(video.duration)
-				: "Unknown Duration",
-		}));
-
 		const playlistData: Playlist = {
-			id: playlist.id,
-			title: playlist.title,
-			description: (playlist as any).description || "",
-			videoCount: playlist.videoCount,
-			videos: videos,
+			id: normalized.id,
+			title: normalized.title,
+			description: normalized.description,
+			videoCount: normalized.videoCount,
+			videos: normalized.videos,
 			lastFetched: new Date().toISOString(),
 		};
 
@@ -116,21 +90,6 @@ export default defineEventHandler(async (event) => {
 		});
 	}
 });
-
-// Helper function to format duration from seconds to readable format
-function formatDuration(seconds: number): string {
-	if (!seconds || seconds <= 0) return "Unknown Duration";
-
-	const hours = Math.floor(seconds / 3600);
-	const minutes = Math.floor((seconds % 3600) / 60);
-	const remainingSeconds = seconds % 60;
-
-	if (hours > 0) {
-		return `${hours}:${minutes.toString().padStart(2, "0")}:${remainingSeconds.toString().padStart(2, "0")}`;
-	} else {
-		return `${minutes}:${remainingSeconds.toString().padStart(2, "0")}`;
-	}
-}
 
 // Helper function to update the index file with playlist summaries
 async function updateIndexFile(

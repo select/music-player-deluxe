@@ -20,7 +20,10 @@
 import * as fs from "fs";
 import * as path from "path";
 import { fileURLToPath } from "url";
-import { Client } from "youtubei";
+import {
+	createYouTubeClient,
+	fetchVideoMetadata,
+} from "../app/utils/youtube.js";
 import type { SongMetaData } from "../app/types/song.js";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -131,26 +134,10 @@ function createNewSongMetadata(
  * Fetch video metadata from YouTube
  */
 async function fetchYouTubeMetadata(
-	youtube: Client,
+	youtube: Awaited<ReturnType<typeof createYouTubeClient>>,
 	videoId: string,
 ): Promise<{ title: string; channel: string } | null> {
-	try {
-		const video = await youtube.getVideo(videoId);
-		if (!video) {
-			return null;
-		}
-
-		return {
-			title: video.title || "Unknown Title",
-			channel: video.channel?.name || "Unknown Channel",
-		};
-	} catch (error) {
-		console.error(
-			`Error fetching YouTube metadata for ${videoId}:`,
-			(error as Error).message,
-		);
-		return null;
-	}
+	return fetchVideoMetadata(youtube, videoId);
 }
 
 /**
@@ -221,7 +208,7 @@ async function main(): Promise<void> {
 
 	// Initialize YouTube client
 	console.log("Initializing YouTube client...");
-	const youtube = new Client();
+	const youtube = await createYouTubeClient();
 	console.log("YouTube client ready\n");
 
 	// Process updates
