@@ -15,7 +15,7 @@
  *   - Modify PLAYLIST_ID constant below to fetch a different playlist
  */
 
-import { Client } from "youtubei";
+import { Innertube } from "youtubei.js";
 import { promises as fs } from "fs";
 import { join } from "path";
 import type {
@@ -36,21 +36,6 @@ interface TagNormalizationData {
 
 // The playlist ID to fetch and update
 const PLAYLIST_ID = "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx";
-
-// Helper function to format duration from seconds to readable format
-function formatDuration(seconds: number): string {
-	if (!seconds || seconds <= 0) return "Unknown Duration";
-
-	const hours = Math.floor(seconds / 3600);
-	const minutes = Math.floor((seconds % 3600) / 60);
-	const remainingSeconds = seconds % 60;
-
-	if (hours > 0) {
-		return `${hours}:${minutes.toString().padStart(2, "0")}:${remainingSeconds.toString().padStart(2, "0")}`;
-	} else {
-		return `${minutes}:${remainingSeconds.toString().padStart(2, "0")}`;
-	}
-}
 
 // Helper function to update the index file with playlist summaries
 async function updateIndexFile(
@@ -120,6 +105,119 @@ async function updateIndexFile(
 	}
 }
 
+// --- youtubei.js LockupView helpers ---
+// Modern YouTube playlists render each entry as a `LockupView` node. youtubei.js
+// collects these in the response "memo" rather than the legacy `playlist.items`
+// array, so we read them out of the memo directly.
+
+interface NormalizedPlaylist {
+	id: string;
+	title: string;
+	description: string;
+	videoCount: number;
+	videos: Video[];
+}
+
+// Extract the duration text (e.g. "6:31") from a LockupView's thumbnail overlays.
+function extractDuration(lockup: any): string {
+	const overlays = lockup?.content_image?.overlays ?? [];
+	for (const overlay of overlays) {
+		for (const badge of overlay?.badges ?? []) {
+			if (typeof badge?.text === "string" && /^\d+(:\d{1,2})+$/.test(badge.text)) {
+				return badge.text;
+			}
+		}
+	}
+	return "Unknown Duration";
+}
+
+// Extract the channel/artist name from a LockupView's metadata rows. Prefer a
+// part that links to a channel; fall back to the first non-empty text run.
+function extractChannel(lockup: any): string {
+	const rows = lockup?.metadata?.metadata?.metadata_rows ?? [];
+	let fallback: string | undefined;
+	for (const row of rows) {
+		for (const part of row?.metadata_parts ?? []) {
+			const text: string | undefined = part?.text?.text;
+			if (!text) continue;
+			if (fallback === undefined) fallback = text;
+			const browseId =
+				part?.text?.runs?.[0]?.endpoint?.payload?.browseId;
+			if (typeof browseId === "string" && browseId.startsWith("UC")) {
+				return text;
+			}
+		}
+	}
+	return fallback || "Unknown Channel";
+}
+
+// Convert a LockupView node into our Video shape. Returns null for non-video
+// entries (e.g. deleted/private placeholders without a content id).
+function lockupToVideo(lockup: any): Video | null {
+	const id: string | undefined = lockup?.content_id;
+	if (!id || lockup?.content_type !== "VIDEO") return null;
+	return {
+		id,
+		title: lockup?.metadata?.title?.text || "Unknown Title",
+		channel: extractChannel(lockup),
+		duration: extractDuration(lockup),
+	};
+}
+
+// Pull a continuation token out of a ContinuationItemView node.
+function getContinuationToken(node: any): string | null {
+	const token = node?.endpoint?.payload?.token;
+	return typeof token === "string" && token.length > 20 ? token : null;
+}
+
+// Fetch every LockupView for a playlist, following continuation tokens.
+async function collectAllVideos(
+	yt: Innertube,
+	playlistId: string,
+): Promise<NormalizedPlaylist> {
+	const pl: any = await yt.getPlaylist(playlistId);
+	if (!pl) {
+		throw new Error("Playlist not found");
+	}
+
+	const videoCount =
+		parseInt(String(pl.info?.total_items ?? "").replace(/[^\d]/g, ""), 10) || 0;
+
+	const lockups: any[] = [...(pl.page?.contents_memo?.get("LockupView") ?? [])];
+	let token = getContinuationToken(
+		pl.page?.contents_memo?.get("ContinuationItemView")?.[0],
+	);
+	console.log(`  Loaded ${lockups.length} videos so far...`);
+
+	const MAX_PAGES = 200; // safety guard (~20k videos at 100/page)
+	let pages = 0;
+	while (token && pages < MAX_PAGES) {
+		pages++;
+		const resp: any = await yt.actions.execute("/browse", {
+			continuation: token,
+			parse: true,
+		});
+		const memo = resp?.on_response_received_actions_memo;
+		const pageLockups: any[] = memo?.get("LockupView") ?? [];
+		if (pageLockups.length === 0) break;
+		lockups.push(...pageLockups);
+		console.log(`  Loaded ${lockups.length} videos so far...`);
+		token = getContinuationToken(memo?.get("ContinuationItemView")?.[0]);
+	}
+
+	const videos = lockups
+		.map(lockupToVideo)
+		.filter((v): v is Video => v !== null);
+
+	return {
+		id: playlistId,
+		title: pl.info?.title || "",
+		description: pl.info?.description || "",
+		videoCount,
+		videos,
+	};
+}
+
 // Step 1: Fetch the playlist from YouTube
 async function fetchPlaylist(playlistId: string): Promise<Playlist> {
 	console.log(`\n=== Step 1: Fetching playlist ${playlistId} ===`);
@@ -128,92 +226,76 @@ async function fetchPlaylist(playlistId: string): Promise<Playlist> {
 	const playlistsDir = join(process.cwd(), "public", "playlist");
 	const filePath = join(playlistsDir, `${playlistId}.json`);
 
-	// Initialize YouTube client
-	console.log("Initializing YouTube client...");
-	const youtube = new Client();
+	const FETCH_RETRIES = 3;
+	const FETCH_RETRY_DELAY = 15000; // 15s between full-fetch retries (rate limit cooldown)
 
-	// Get playlist
-	console.log("Fetching playlist data...");
-	const playlist = await youtube.getPlaylist(playlistId);
+	let videos: Video[] = [];
+	let normalized: NormalizedPlaylist = {
+		id: playlistId,
+		title: "",
+		description: "",
+		videoCount: 0,
+		videos: [],
+	};
 
-	if (!playlist) {
-		throw new Error("Playlist not found");
-	}
+	for (let attempt = 1; attempt <= FETCH_RETRIES; attempt++) {
+		if (attempt > 1) {
+			console.warn(`\n  ⏳ Waiting ${FETCH_RETRY_DELAY / 1000}s before retry ${attempt}/${FETCH_RETRIES} (rate limit cooldown)...`);
+			await new Promise(resolve => setTimeout(resolve, FETCH_RETRY_DELAY));
+		}
 
-	// Load all videos in the playlist using pagination
-	console.log("Loading all videos (this may take a moment)...");
-	if (
-		playlist.videos &&
-		typeof playlist.videos === "object" &&
-		"next" in playlist.videos
-	) {
-		// next(0) should load all, but is unreliable for large playlists.
-		// Use a retry loop: keep calling next() until no more items are returned.
-		let previousCount = 0;
-		let currentCount = playlist.videos.items?.length || 0;
-		let retries = 0;
-		const MAX_RETRIES = 3;
+		// Initialize a fresh YouTube (InnerTube) client each attempt
+		console.log(`Initializing YouTube client (attempt ${attempt}/${FETCH_RETRIES})...`);
+		const youtube = await Innertube.create({ retrieve_player: false });
 
-		while (retries < MAX_RETRIES) {
-			try {
-				const newItems = await playlist.videos.next();
-				currentCount = playlist.videos.items?.length || 0;
-				console.log(`  Loaded ${currentCount} videos so far...`);
+		// Fetch playlist metadata and all video entries (via continuation)
+		console.log("Loading all videos (this may take a moment)...");
+		try {
+			normalized = await collectAllVideos(youtube, playlistId);
+		} catch (error) {
+			console.warn(`  Fetch error on attempt ${attempt}:`, error);
+			continue;
+		}
+		videos = normalized.videos;
 
-				if (!newItems || newItems.length === 0 || currentCount === previousCount) {
-					// No new items returned, we've reached the end
-					break;
-				}
-				previousCount = currentCount;
-				retries = 0; // Reset retries on success
-			} catch (error) {
-				retries++;
-				console.warn(`  Pagination error (attempt ${retries}/${MAX_RETRIES}):`, error);
-				if (retries >= MAX_RETRIES) {
-					console.warn(`  Stopping pagination after ${MAX_RETRIES} consecutive errors`);
-					break;
-				}
-				// Wait a bit before retrying
-				await new Promise(resolve => setTimeout(resolve, 2000));
-			}
+		const fetchRatio = normalized.videoCount > 0
+			? videos.length / normalized.videoCount
+			: (videos.length > 0 ? 1 : 0);
+		if (fetchRatio >= 0.9) {
+			// Good fetch — exit retry loop
+			break;
+		}
+
+		console.warn(`  ⚠️  Only fetched ${videos.length}/${normalized.videoCount} videos (${(fetchRatio * 100).toFixed(1)}%) on attempt ${attempt}.`);
+		if (attempt === FETCH_RETRIES) {
+			console.warn(`  Giving up after ${FETCH_RETRIES} attempts — will fall back to merge.`);
 		}
 	}
 
-	// Extract video information from playlist.videos
-	const videoList = Array.isArray(playlist.videos)
-		? playlist.videos
-		: playlist.videos?.items || [];
-	const videos: Video[] = videoList.map((video: any) => ({
-		id: video.id,
-		title: video.title || "Unknown Title",
-		channel: video.channel?.name || "Unknown Channel",
-		duration: video.duration
-			? formatDuration(video.duration)
-			: "Unknown Duration",
-	}));
-
 	const playlistData: Playlist = {
-		id: playlist.id,
-		title: playlist.title,
-		description: (playlist as any).description || "",
-		videoCount: playlist.videoCount,
+		id: normalized.id,
+		title: normalized.title,
+		description: normalized.description,
+		videoCount: normalized.videoCount,
 		videos: videos,
 		lastFetched: new Date().toISOString(),
 	};
 
-	// Safety check and merge: if we fetched fewer videos than expected, merge with existing
-	const fetchRatio = videos.length / playlist.videoCount;
+	// Safety check and merge: if we still have fewer videos than expected, merge with existing
+	const fetchRatio = normalized.videoCount > 0
+		? videos.length / normalized.videoCount
+		: (videos.length > 0 ? 1 : 0);
 	if (videos.length === 0) {
 		throw new Error(
-			`Pagination failed: fetched 0 videos (expected ~${playlist.videoCount}). Aborting to preserve existing data.`,
+			`Pagination failed: fetched 0 videos (expected ~${normalized.videoCount}). Aborting to preserve existing data.`,
 		);
 	}
 	if (fetchRatio < 0.9) {
 		console.warn(
-			`⚠️  WARNING: Only fetched ${videos.length}/${playlist.videoCount} videos (${(fetchRatio * 100).toFixed(1)}%).`,
+			`⚠️  WARNING: Only fetched ${videos.length}/${normalized.videoCount} videos (${(fetchRatio * 100).toFixed(1)}%) after all retries.`,
 		);
 		console.warn(
-			`   This likely indicates a YouTube API pagination issue.`,
+			`   Falling back to merge with existing data.`,
 		);
 		// Merge freshly fetched videos into existing data
 		try {
@@ -227,7 +309,7 @@ async function fetchPlaylist(playlistId: string): Promise<Playlist> {
 				);
 				// Prepend new videos (they are the most recent from the playlist)
 				playlistData.videos = [...newVideos, ...existingData.videos];
-				playlistData.videoCount = playlist.videoCount;
+				playlistData.videoCount = normalized.videoCount;
 			}
 		} catch {
 			// No existing file, proceed with what we have
