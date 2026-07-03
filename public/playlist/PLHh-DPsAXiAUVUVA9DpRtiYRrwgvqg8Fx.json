@@ -2,8 +2,32 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4967,
+  "videoCount": 4971,
   "videos": [
+    {
+      "id": "tt7eXTX73-s",
+      "title": "Kayleigh - Marillion",
+      "channel": "Prog Archives Music",
+      "duration": "4:05",
+      "createdAt": 1782999926026,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "-i5Ko9J6_iE",
+      "title": "Matthew Herbert x London Contemporary Orchestra - The Horse Is Put To Work (Official Video)",
+      "channel": "Accidental Records",
+      "duration": "4:55",
+      "createdAt": 1782989935074,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "nPqlbSWocL8",
+      "title": "Jameszoo Boiler Room X Rotterdam Beats DJ Set",
+      "channel": "Boiler Room",
+      "duration": "44:30",
+      "createdAt": 1782946114141,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
     {
       "id": "a5Cjs_szBBo",
       "title": "4am",
@@ -39870,7 +39894,7 @@
     {
       "id": "wWmu4-u80K4",
       "title": "The Roots - I Don't Care ft. Dom",
-      "channel": "The Roots",
+      "channel": "Do You Want More?!",
       "duration": "4:15",
       "artist": "The Roots",
       "musicTitle": "I Don't Care",
@@ -96379,7 +96403,7 @@
     {
       "id": "NS-11EgaNvw",
       "title": "Chopin: Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",
-      "channel": "Maria João Pires - Topic",
+      "channel": "Chopin",
       "duration": "4:29",
       "artist": "Maria João Pires",
       "musicTitle": "Chopin: Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",
@@ -119910,5 +119934,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-07-02T08:58:51.781Z"
+  "lastFetched": "2026-07-03T07:59:10.439Z"
 }
