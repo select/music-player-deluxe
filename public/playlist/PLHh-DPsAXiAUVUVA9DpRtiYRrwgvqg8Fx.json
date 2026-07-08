@@ -2,8 +2,48 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4982,
+  "videoCount": 4987,
   "videos": [
+    {
+      "id": "kwhu_gxvwFE",
+      "title": "Je ne suis pas de ce monde",
+      "channel": "Kolinga Music",
+      "duration": "8:46",
+      "createdAt": 1783459909663,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "kq4kOlIt1rA",
+      "title": "Kid Sistr - Shitshow (Official Music Video)",
+      "channel": "Kid Sistr",
+      "duration": "3:53",
+      "createdAt": 1783451116415,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "vUjzwKyRmVA",
+      "title": "Das Boot",
+      "channel": "Wolfgang Haffner - Topic",
+      "duration": "4:38",
+      "createdAt": 1783443747330,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "m31P4Bd_Deg",
+      "title": "Look At Me!",
+      "channel": "XXXTENTACION",
+      "duration": "2:07",
+      "createdAt": 1783429771211,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "I6OLGEFXKc0",
+      "title": "The Evasions - Let's Dance (The Passage) 1982",
+      "channel": "Pop Rocks! ",
+      "duration": "4:09",
+      "createdAt": 1783429298257,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
     {
       "id": "dwva123XBMk",
       "title": "Mala - Changes",
@@ -13877,43 +13917,6 @@
       "playcount": 28,
       "createdAt": 1586217000000,
       "userId": "28e8866eb382011ea7250573868934dd9f4eef535714a504e3073584c4130ff9"
-    },
-    {
-      "id": "9NiO75yVlEI",
-      "title": "Body Language (Remastered 2011)",
-      "channel": "Queen Official",
-      "duration": "4:32",
-      "artist": "Queen",
-      "musicTitle": "Body Language (Remastered 2011)",
-      "tags": [
-        "classic rock",
-        "rock",
-        "hard rock",
-        "glam rock",
-        "80s"
-      ],
-      "externalIds": {
-        "amazonMusic": "B005K4I29W",
-        "amazonStore": "B005K4I29W",
-        "anghami": "1361770",
-        "boomplay": "2799597",
-        "deezer": "2435083675",
-        "appleMusic": "1440810306",
-        "itunes": "1440810306",
-        "napster": "tra.53432034",
-        "pandora": "TR:1764387",
-        "soundcloud": "queen-69312/body-language-remastered-2011",
-        "spotify": "2Mu43PmiJHMTNbtUjUWwOf",
-        "tidal": "36738072",
-        "yandex": "2277970",
-        "youtube": "9NiO75yVlEI",
-        "youtubeMusic": "9NiO75yVlEI",
-        "lastfm": "Queen/_/Body+Language+(Remastered+2011)"
-      },
-      "listeners": 1195,
-      "playcount": 2435,
-      "createdAt": 1585901160000,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "kSWyrYhmAHo",
@@ -66197,7 +66200,7 @@
     {
       "id": "xLb5Tsmf2Lg",
       "title": "Julie Driscoll, Brian Auger & The Trinity - Flesh Failures (Let the Sunshine In)",
-      "channel": "Rhythm andlife",
+      "channel": "Rhythm andLife",
       "duration": "3:03",
       "artist": "Brian Auger",
       "musicTitle": "Flesh Failures (Let the Sunshine In)",
@@ -82641,7 +82644,7 @@
     {
       "id": "Y1UAaB3VgZM",
       "title": "The Elysian Spring - Lotus",
-      "channel": "Rhythm andlife",
+      "channel": "Rhythm andLife",
       "duration": "8:08",
       "artist": "The Elysian Spring",
       "musicTitle": "Lotus",
@@ -105077,15 +105080,6 @@
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
-      "id": "GFpmJpVPVe4",
-      "title": "te' / 音の中の『痙攣的』な美は、観念を超え肉体に訪れる野生の戦慄。【Official Music Video】",
-      "channel": "zankyorecord",
-      "duration": "5:04",
-      "musicTitle": "te' / 音の中の『痙攣的』な美は、観念を超え肉体に訪れる野生の戦慄。【Official Music Video】",
-      "createdAt": 1650877247138,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
       "id": "oDMldn7hFZo",
       "title": "King Gizzard & The Lizard Wizard - The Dripping Tap (Audio)",
       "channel": "King Gizzard And The Lizard Wizard",
@@ -120038,5 +120032,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-07-07T08:28:53.311Z"
+  "lastFetched": "2026-07-08T08:34:36.583Z"
 }
