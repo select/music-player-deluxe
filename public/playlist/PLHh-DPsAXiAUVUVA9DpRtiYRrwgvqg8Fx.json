@@ -2,8 +2,40 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4991,
+  "videoCount": 4994,
   "videos": [
+    {
+      "id": "g7zWV43aeOc",
+      "title": "Whatever Lola Wants",
+      "channel": "Della Reese - Topic",
+      "duration": "3:15",
+      "createdAt": 1783621671707,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "C-SUo-uHdPk",
+      "title": "Sei ruhig, Fliessbandbaby",
+      "channel": "Floh de Cologne - Topic",
+      "duration": "1:33",
+      "createdAt": 1783621312814,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "AFNnYbRb2XM",
+      "title": "Kourosh Yaghmaee   Ghazal   کورش یغمائی   غزال",
+      "channel": "Pars Video",
+      "duration": "5:05",
+      "createdAt": 1783589496213,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "T8fsCwTbLeI",
+      "title": "Behringer 2500 Ring Mod and FM, Berlin School Jam",
+      "channel": "Vykaar Tones",
+      "duration": "11:05",
+      "createdAt": 1783522749134,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
     {
       "id": "B_--qMAI_9M",
       "title": "PERMSKY KRAY - C (Official Video)",
@@ -3487,7 +3519,7 @@
     {
       "id": "SWW35ImV8uU",
       "title": "Lonely Girl",
-      "channel": "Mark Pritchard - Topic",
+      "channel": "The TroubleMan - Topic",
       "duration": "4:49",
       "createdAt": 1771449739580,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
@@ -4083,14 +4115,6 @@
       "duration": "3:21",
       "createdAt": 1769375263203,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "4PUOhAJG5EU",
-      "title": "ICE, F**K You - A Protest Song for Minneapolis",
-      "channel": "scaredketchup",
-      "duration": "3:26",
-      "createdAt": 1769358024630,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "Lfgf9HatIHI",
@@ -107099,42 +107123,6 @@
       "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
     },
     {
-      "id": "k3ZaLSI0zpQ",
-      "title": "Flucht",
-      "channel": "TAPETE",
-      "duration": "0:59",
-      "artist": "Tapete",
-      "musicTitle": "Flucht",
-      "tags": [
-        "hip hop",
-        "rap"
-      ],
-      "externalIds": {
-        "amazonMusic": "B09VK1W5M4",
-        "amazonStore": "B09VK1W5M4",
-        "anghami": "1046220159",
-        "boomplay": "85897979",
-        "deezer": "1685623707",
-        "appleMusic": "1614323218",
-        "itunes": "1614323218",
-        "pandora": "TR:60220388",
-        "soundcloud": "tapeteberlin/flucht",
-        "spotify": "4TdMmTVKLgH94QAhQJzqlA",
-        "tidal": "220850168",
-        "yandex": "103158794",
-        "youtube": "k3ZaLSI0zpQ",
-        "youtubeMusic": "k3ZaLSI0zpQ",
-        "musicbrainz": "32bc60d7-ac9d-4f3f-b88d-57f192d0008c",
-        "musicbrainz-artist": "c629082a-4354-4b92-b653-868dbd987bd3",
-        "lastfm": "Tapete/_/Flucht"
-      },
-      "listeners": 23,
-      "playcount": 84,
-      "releasedAt": "2022-03-18",
-      "createdAt": 1647886871969,
-      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
-    },
-    {
       "id": "0CDAko69JnY",
       "title": "TAPETE - DER WILLE LENKT DIE TAT",
       "channel": "TAPETE",
@@ -120056,5 +120044,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-07-09T08:25:48.185Z"
+  "lastFetched": "2026-07-13T08:04:33.765Z"
 }
