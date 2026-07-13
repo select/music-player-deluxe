@@ -2,8 +2,56 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4994,
+  "videoCount": 5000,
   "videos": [
+    {
+      "id": "lUl0nxtWcZs",
+      "title": "Boogie All Night Long",
+      "channel": "Mizzo - Topic",
+      "duration": "4:41",
+      "createdAt": 1783894369566,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "kRttvc1U8Bg",
+      "title": "Lucy Leave",
+      "channel": "Pink Floyd",
+      "duration": "2:58",
+      "createdAt": 1783886949222,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "FmKW0_UYSqk",
+      "title": "The Durutti Column - Liars (Official Visualiser)",
+      "channel": "The Durutti Column and London Records",
+      "duration": "3:47",
+      "createdAt": 1783883865740,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "3A-eSCAh1xE",
+      "title": "Andiamo",
+      "channel": "The Venanzio Brothers - Topic",
+      "duration": "4:00",
+      "createdAt": 1783765535609,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "kk00j7Qm5gI",
+      "title": "Mind Enterprises - Negroni Love (Official Video)",
+      "channel": "Mind Enterprises",
+      "duration": "2:55",
+      "createdAt": 1783765159023,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "_JqRZqzMBTo",
+      "title": "Happy Colored Marbles",
+      "channel": "Ween",
+      "duration": "3:14",
+      "createdAt": 1783764443187,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
     {
       "id": "g7zWV43aeOc",
       "title": "Whatever Lola Wants",
@@ -120044,5 +120092,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-07-13T08:04:33.765Z"
+  "lastFetched": "2026-07-13T10:43:22.019Z"
 }
