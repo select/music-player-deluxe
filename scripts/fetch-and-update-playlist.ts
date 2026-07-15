@@ -8,11 +8,20 @@
  *    - YouTube metadata (data/anonymized-metadata.json) - upload dates, user IDs
  *    - Tag normalization and blacklist filtering
  *
+ * This project uses TWO playlists to work around YouTube's 5000-item-per-playlist
+ * hard cap:
+ *   - LEGACY_PLAYLIST_ID: the original (now full, frozen) playlist. It is cached
+ *     once to public/playlist/<LEGACY>.json and NEVER re-fetched from the network,
+ *     since it will not change anymore.
+ *   - CURRENT_PLAYLIST_ID: the new, actively-growing playlist. It is fetched live
+ *     every run.
+ * The served playlist is the CURRENT playlist concatenated on top of the frozen
+ * LEGACY cache (deduped by video id) and written back to the canonical
+ * public/playlist/<LEGACY>.json file, which all consumers (the player store,
+ * curate.vue, augment scripts, update-data.sh) already reference.
+ *
  * Usage:
  *   pnpm playlist:fetch-update
- *
- * Configuration:
- *   - Modify PLAYLIST_ID constant below to fetch a different playlist
  */
 
 import { promises as fs } from "fs";
@@ -38,8 +47,14 @@ interface TagNormalizationData {
 	mappings: Record<string, string>;
 }
 
-// The playlist ID to fetch and update
-const PLAYLIST_ID = "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx";
+// The frozen, full (5000-item) legacy playlist. Cached once, never re-fetched.
+const LEGACY_PLAYLIST_ID = "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx";
+// The new, actively-growing playlist. Fetched live every run and concatenated
+// on top of the frozen legacy cache.
+const CURRENT_PLAYLIST_ID = "PLZzn-_G3_yco";
+// The canonical served file (kept as the legacy id so all existing references
+// in curate.vue, the augment scripts, and update-data.sh keep working).
+const PLAYLIST_ID = LEGACY_PLAYLIST_ID;
 
 // Helper function to update the index file with playlist summaries
 async function updateIndexFile(
@@ -112,8 +127,10 @@ async function updateIndexFile(
 // --- youtubei.js playlist fetching lives in app/utils/youtube.ts (shared) ---
 
 
-// Step 1: Fetch the playlist from YouTube
-async function fetchPlaylist(playlistId: string): Promise<Playlist> {
+// Step 1: Fetch a playlist live from YouTube (InnerTube) and cache it to its
+// own file. Used for the actively-growing CURRENT playlist. Does NOT touch the
+// index file (the index is updated once in main() with the combined playlist).
+async function fetchLivePlaylist(playlistId: string): Promise<Playlist> {
 	console.log(`\n=== Step 1: Fetching playlist ${playlistId} ===`);
 
 	// Define the file path for caching
@@ -224,16 +241,64 @@ async function fetchPlaylist(playlistId: string): Promise<Playlist> {
 			"utf-8",
 		);
 		console.log(`Playlist saved to ${filePath}`);
-
-		// Update the index file
-		await updateIndexFile(playlistsDir, playlistData);
-		console.log("Index file updated");
 	} catch (fileError) {
 		console.warn("Failed to cache playlist data:", fileError);
 	}
 
 	console.log(`✓ Fetched ${videos.length} videos from playlist`);
 	return playlistData;
+}
+
+// Load the frozen legacy playlist cache. The legacy playlist is full (5000
+// items) and will not change, so we cache it once to data/legacy-playlist.json
+// and never re-fetch it from the network. This file is SEPARATE from the
+// canonical served file (public/playlist/<legacyId>.json) so that writing the
+// combined result back to the canonical file does not pollute the frozen
+// legacy. If the cache file is missing (e.g. fresh clone), bootstrap it by
+// fetching live once.
+async function loadFrozenLegacyPlaylist(playlistId: string): Promise<Playlist> {
+	const filePath = join(process.cwd(), "data", "legacy-playlist.json");
+
+	try {
+		const content = await fs.readFile(filePath, "utf-8");
+		const data: Playlist = JSON.parse(content);
+		console.log(
+			`Loaded frozen legacy cache: ${data.videos.length} videos from ${filePath}`,
+		);
+		return data;
+	} catch {
+		console.log(
+			`Legacy cache not found at ${filePath} — bootstrapping with a live fetch (one-time)...`,
+		);
+		const bootstrapped = await fetchLivePlaylist(playlistId);
+		// Persist the bootstrap so future runs don't re-fetch.
+		await fs.mkdir(join(process.cwd(), "data"), { recursive: true });
+		await fs.writeFile(filePath, JSON.stringify(bootstrapped, null, 2), "utf-8");
+		console.log(`   Saved bootstrap legacy cache to ${filePath}`);
+		return bootstrapped;
+	}
+}
+
+// Concatenate the current (live) playlist on top of the frozen legacy cache,
+// deduplicating by video id (keeping the current entry on collision). The
+// result keeps the legacy playlist's id/title so the canonical served file path
+// stays stable.
+function combinePlaylists(current: Playlist, legacy: Playlist): Playlist {
+	const seen = new Set<string>();
+	const combined: Video[] = [];
+	for (const v of [...current.videos, ...legacy.videos]) {
+		if (seen.has(v.id)) continue;
+		seen.add(v.id);
+		combined.push(v);
+	}
+	return {
+		id: legacy.id,
+		title: legacy.title,
+		description: legacy.description,
+		videoCount: combined.length,
+		videos: combined,
+		lastFetched: new Date().toISOString(),
+	};
 }
 
 // Step 2: Update playlist with all metadata
@@ -497,17 +562,48 @@ async function updatePlaylistMetadata(playlistId: string): Promise<void> {
 async function main() {
 	try {
 		console.log("=== Fetch and Update Playlist Script ===");
-		console.log(`Target Playlist: ${PLAYLIST_ID}\n`);
+		console.log(`Legacy (frozen) playlist: ${LEGACY_PLAYLIST_ID}`);
+		console.log(`Current (live)    playlist: ${CURRENT_PLAYLIST_ID}`);
+		console.log(`Canonical served file:      ${PLAYLIST_ID}.json\n`);
 
-		// Step 1: Fetch playlist from YouTube
-		const playlist = await fetchPlaylist(PLAYLIST_ID);
+		const playlistsDir = join(process.cwd(), "public", "playlist");
+		const canonicalPath = join(playlistsDir, `${PLAYLIST_ID}.json`);
 
-		// Step 2: Update with all metadata
+		// 1a. Load the frozen legacy cache (never re-fetched from the network).
+		console.log("=== Step 1a: Loading frozen legacy playlist cache ===");
+		const legacy = await loadFrozenLegacyPlaylist(LEGACY_PLAYLIST_ID);
+
+		// 1b. Fetch the current (actively-growing) playlist live.
+		console.log("\n=== Step 1b: Fetching current playlist live ===");
+		const current = await fetchLivePlaylist(CURRENT_PLAYLIST_ID);
+
+		// 1c. Concatenate current on top of legacy (deduped by video id) and write
+		// the combined result back to the canonical served file.
+		console.log("\n=== Step 1c: Combining current + legacy ===");
+		const combined = combinePlaylists(current, legacy);
+		const duplicates = current.videos.length + legacy.videos.length - combined.videos.length;
+		console.log(
+			`Combined: ${combined.videos.length} videos ` +
+			`(legacy ${legacy.videos.length} + current ${current.videos.length}` +
+			(duplicates > 0 ? `, ${duplicates} duplicate${duplicates === 1 ? "" : "s"} removed` : "") +
+			`)`,
+		);
+		await fs.mkdir(playlistsDir, { recursive: true });
+		await fs.writeFile(
+			canonicalPath,
+			JSON.stringify(combined, null, 2),
+			"utf-8",
+		);
+		console.log(`Combined playlist saved to ${canonicalPath}`);
+		await updateIndexFile(playlistsDir, combined);
+		console.log("Index file updated");
+
+		// 2. Update the combined playlist with all metadata.
 		await updatePlaylistMetadata(PLAYLIST_ID);
 
 		console.log("\n=== Complete ===");
 		console.log(`Successfully fetched and updated playlist ${PLAYLIST_ID}`);
-		console.log(`Total videos: ${playlist.videos.length}`);
+		console.log(`Total videos: ${combined.videos.length}`);
 	} catch (error) {
 		console.error("\n=== Error ===");
 		console.error("Failed to fetch and update playlist:", error);

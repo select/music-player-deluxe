@@ -51,3 +51,7 @@ data/tag-map-pipeline/tag-style-map.jsonl
 !data/tag-map-pipeline/tag-compound-stage.jsonl
 !data/tag-map-pipeline/style-canonical-map.jsonl
 !data/tag-map-pipeline/style-hierarchy.jsonl
+
+# Current (live) playlist cache — regenerated every fetch run, not served.
+# The frozen legacy cache (data/legacy-playlist.json) IS tracked.
+public/playlist/PLZzn-_G3_yco.json

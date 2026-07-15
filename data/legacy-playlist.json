@@ -2,112 +2,8 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4834,
+  "videoCount": 5000,
   "videos": [
-    {
-      "id": "4PUOhAJG5EU",
-      "title": "ICE, F**K You - A Protest Song for Minneapolis",
-      "channel": "scaredketchup",
-      "duration": "3:26",
-      "createdAt": 1769358024630,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "zFmm09wl0TI",
-      "title": "Hot Pants In The Summertime",
-      "channel": "thedramaticschannel",
-      "duration": "4:00",
-      "createdAt": 1783942648027,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "z1aTN01nO8Q",
-      "title": "Turn It Up",
-      "channel": "Busta Rhymes",
-      "duration": "4:12",
-      "createdAt": 1783942981799,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "44iDsMeL_pk",
-      "title": "Liminal - Etterath (Official Music Video)",
-      "channel": "Liminal",
-      "duration": "4:47",
-      "createdAt": 1783945327884,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "36dNCV7sQpg",
-      "title": "VOIDBORN | The Cathedral of Mirrors [Full Album] (Psychedelic Acid/Kraut)",
-      "channel": "DARK CHORD",
-      "duration": "26:40",
-      "createdAt": 1783945764321,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "pcixKjYVKrA",
-      "title": "Indigo Heart",
-      "channel": "QZB",
-      "duration": "5:59",
-      "createdAt": 1783963071455,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "YecucqHyyRU",
-      "title": "Digiridood",
-      "channel": "Aether Elf",
-      "duration": "3:09",
-      "createdAt": 1783968100286,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "pTsg8xMD9I8",
-      "title": "IGORRR - DAEMONI",
-      "channel": "Igorrr",
-      "duration": "4:11",
-      "createdAt": 1784009230967,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "N0OBF83rL-8",
-      "title": "IGORRR - HEADBUTT",
-      "channel": "Igorrr",
-      "duration": "4:01",
-      "createdAt": 1784009311014,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "e0M_Vme0oNw",
-      "title": "CocoRosie K-Hole",
-      "channel": "strohbaron",
-      "duration": "3:49",
-      "createdAt": 1784030313778,
-      "userId": "3ee08ffca31371b3deca5e8f4e12823fedee2177ab473545691a8275e35da40b"
-    },
-    {
-      "id": "ekpVwf2-4ZY",
-      "title": "CloZee - Pillow Talk (Official Visualizer)",
-      "channel": "CloZee",
-      "duration": "3:28",
-      "createdAt": 1784039753234,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "ui8Zd0rbm1U",
-      "title": "Ingo Insterburg - Die werdende Mutter",
-      "channel": "unessell",
-      "duration": "0:46",
-      "createdAt": 1784042855359,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "sfurYfDZQAg",
-      "title": "Nyuki",
-      "channel": "Siti Muharam - Topic",
-      "duration": "5:10",
-      "createdAt": 1784060256944,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
     {
       "id": "lUl0nxtWcZs",
       "title": "Boogie All Night Long",
@@ -120196,5 +120092,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-07-15T10:03:58.419Z"
+  "lastFetched": "2026-07-13T10:43:22.019Z"
 }
