@@ -2,8 +2,56 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4839,
+  "videoCount": 4845,
   "videos": [
+    {
+      "id": "Gg-SCpXba64",
+      "title": "Danger Dan - Keine Angst",
+      "channel": "Danger Dan",
+      "duration": "7:21",
+      "createdAt": 1784278451188,
+      "userId": "80a6a4bcd0ea8b7fd928cd21625377bdc226b6a0fc85dfb6fb12ab373203f449"
+    },
+    {
+      "id": "YPiZG3gshvE",
+      "title": "Around Tha Bend",
+      "channel": "Nia Archives",
+      "duration": "2:45",
+      "createdAt": 1784281717797,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "I6C807Kv8EQ",
+      "title": "Meu Maracatu Pesa uma Tonelada",
+      "channel": "Nação Zumbi (Oficial)",
+      "duration": "2:34",
+      "createdAt": 1784303799105,
+      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
+    },
+    {
+      "id": "gL75c3EmnSY",
+      "title": "Don't Waste My Time",
+      "channel": "Âme",
+      "duration": "3:47",
+      "createdAt": 1784308440054,
+      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
+    },
+    {
+      "id": "x65asfjm-aQ",
+      "title": "IZIT -  Stories (Original Remix by F. Gatto)",
+      "channel": "New Music",
+      "duration": "4:39",
+      "createdAt": 1784323554457,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "yIqzUCizckA",
+      "title": "The real life - Corporation Of One Original",
+      "channel": "Promised Land",
+      "duration": "5:27",
+      "createdAt": 1784325258951,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
     {
       "id": "7ir5mOnNN98",
       "title": "Too Close (Instrumental)",
@@ -48685,7 +48733,7 @@
       },
       "releasedAt": "1981",
       "artistCountry": "DE",
-      "createdAt": 1496848140000,
+      "createdAt": 1784304756110,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
@@ -120236,5 +120284,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-07-17T07:54:48.115Z"
+  "lastFetched": "2026-07-18T14:33:02.480Z"
 }
