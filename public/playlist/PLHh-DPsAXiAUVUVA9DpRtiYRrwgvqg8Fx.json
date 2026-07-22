@@ -2,13 +2,101 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4857,
+  "videoCount": 4866,
   "videos": [
+    {
+      "id": "UA8z-g-UvyA",
+      "title": "MR.TECHIE & MISS KIPPLE",
+      "channel": "Hajime Tachibana - Topic",
+      "duration": "2:50",
+      "createdAt": 1784559815712,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "7xm5L0unPt8",
+      "title": "Duas Cidades",
+      "channel": "BaianaSystem",
+      "duration": "3:47",
+      "createdAt": 1784560532830,
+      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
+    },
+    {
+      "id": "zALpRg6SDuA",
+      "title": "Plastic Woods - Song for the Pariah",
+      "channel": "Plastic Woods",
+      "duration": "5:05",
+      "createdAt": 1784561656025,
+      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
+    },
+    {
+      "id": "yPz25R6PAYk",
+      "title": "SYMBIZ \"Baak Seon Gaa Gan (百上加斤)\" — Broken Chinese EP 1",
+      "channel": "SYMBIZ",
+      "duration": "2:39",
+      "createdAt": 1784624771500,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "Mylvwhy63bk",
+      "title": "Yngwie Malmsteen - Live with Japanese Philharmonic Orchestra",
+      "channel": "Official Yngwie Malmsteen",
+      "duration": "1:14:05",
+      "createdAt": 1784631002743,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "95COKs_a1cs",
+      "title": "Divine Place",
+      "channel": "Spirit Level - Topic",
+      "duration": "11:06",
+      "createdAt": 1784635333652,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "GsjR5MKFupI",
+      "title": "Tokyo.5001.A.D.",
+      "channel": "Captain Hate And The Seasick Sailors - Topic",
+      "duration": "2:03",
+      "createdAt": 1784637312194,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "ZDP54FRKU_A",
+      "title": "Brutalismus 3000 - Leonard Cohen (Official Visualizer)",
+      "channel": "Brutalismus 3000",
+      "duration": "3:06",
+      "createdAt": 1784670521629,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "ENgpqnzU4kI",
+      "title": "Prelude, Outer Space, Radar",
+      "channel": "Dr. Samuel J. Hoffman - Topic",
+      "duration": "3:45",
+      "createdAt": 1784678233343,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
     {
       "id": "FBsEoOM3dkU",
       "title": "Crystal Castles - Intimate",
       "channel": "LastGangRadio",
       "duration": "4:46",
+      "artist": "Crystal Castles",
+      "musicTitle": "Intimate",
+      "externalIds": {
+        "amazonMusic": "B0BSVLZMVC",
+        "amazonStore": "B0BSVLZMVC",
+        "audius": "lpydw",
+        "anghami": "1095085905",
+        "boomplay": "115647953",
+        "deezer": "2125515967",
+        "napster": "tra.738053468",
+        "pandora": "TR:87689526",
+        "tidal": "273872638",
+        "yandex": "565132",
+        "youtube": "FBsEoOM3dkU",
+        "youtubeMusic": "FBsEoOM3dkU"
+      },
       "createdAt": 1784409913180,
       "userId": "d62ccce3435d119bdd222266feebfc3e982499c90394b15bc195b35c8d273792"
     },
@@ -17,6 +105,12 @@
       "title": "Emerson, Lake & Palmer - From The Beginning (Official Audio)",
       "channel": "Emerson, Lake and Palmer",
       "duration": "4:13",
+      "artist": "EMERSON, LAKE & PALMER",
+      "musicTitle": "From the Beginning (alternate version)",
+      "externalIds": {
+        "youtube": "Wp8UlgvCVlI",
+        "youtubeMusic": "Wp8UlgvCVlI"
+      },
       "createdAt": 1784455676708,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -25,6 +119,18 @@
       "title": "Pictures at an Exhibition: X. The Great Gate of Kiev",
       "channel": "Peter Rösel - Topic",
       "duration": "4:59",
+      "artist": "Peter Rösel",
+      "musicTitle": "Pictures at an Exhibition: X. The Great Gate of Kiev",
+      "externalIds": {
+        "anghami": "1023633951",
+        "boomplay": "29409335",
+        "deezer": "1428118192",
+        "pandora": "TR:46859189",
+        "tidal": "190368916",
+        "yandex": "16913815",
+        "youtube": "LkJsJIMvftQ",
+        "youtubeMusic": "LkJsJIMvftQ"
+      },
       "createdAt": 1784456939238,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -33,6 +139,12 @@
       "title": "Andi Otto: Bangalore Whispers (feat. MD Pallavi)",
       "channel": "andi otto",
       "duration": "3:33",
+      "artist": "andi otto",
+      "musicTitle": "Andi Otto: Bangalore Whispers (feat. MD Pallavi)",
+      "externalIds": {
+        "youtube": "Ty9iLsEMoJE",
+        "youtubeMusic": "Ty9iLsEMoJE"
+      },
       "createdAt": 1784470540679,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -41,6 +153,12 @@
       "title": "P.W.Y.P (Practice What You Preach)",
       "channel": "Tony Rock - Topic",
       "duration": "3:51",
+      "artist": "Tony Rock",
+      "musicTitle": "P.W.Y.P (Practice What You Preach)",
+      "externalIds": {
+        "youtube": "pyMctTYusxQ",
+        "youtubeMusic": "pyMctTYusxQ"
+      },
       "createdAt": 1784470788313,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -49,6 +167,22 @@
       "title": "Flexible",
       "channel": "Depeche Mode",
       "duration": "3:13",
+      "artist": "Depeche Mode",
+      "musicTitle": "Flexible",
+      "externalIds": {
+        "amazonMusic": "B09B1GNBQC",
+        "amazonStore": "B09B1GNBQC",
+        "audius": "Wgo8v",
+        "anghami": "1024683534",
+        "boomplay": "66301675",
+        "deezer": "1441425752",
+        "napster": "tra.599631559",
+        "pandora": "TR:120293876",
+        "tidal": "191760830",
+        "yandex": "32192206",
+        "youtube": "INCl9BGOF3M",
+        "youtubeMusic": "INCl9BGOF3M"
+      },
       "createdAt": 1784475485700,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -57,6 +191,12 @@
       "title": "Children Of The Night",
       "channel": "Dina Summer",
       "duration": "3:21",
+      "artist": "Dina Summer",
+      "musicTitle": "Children Of The Night",
+      "externalIds": {
+        "youtube": "U84PFe1e2MY",
+        "youtubeMusic": "U84PFe1e2MY"
+      },
       "createdAt": 1784481227786,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -65,6 +205,12 @@
       "title": "Quicksand - Dine Alone",
       "channel": "Quicksand",
       "duration": "3:37",
+      "artist": "Quicksand",
+      "musicTitle": "Quicksand - Dine Alone",
+      "externalIds": {
+        "youtube": "egzF66hDkFs",
+        "youtubeMusic": "egzF66hDkFs"
+      },
       "createdAt": 1784487913720,
       "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
     },
@@ -73,6 +219,12 @@
       "title": "Suicide - Ghost Rider (HD Video)",
       "channel": "StatischVideo",
       "duration": "2:32",
+      "artist": "StatischVideo",
+      "musicTitle": "Suicide - Ghost Rider (HD Video)",
+      "externalIds": {
+        "youtube": "lzFed7NO8BI",
+        "youtubeMusic": "lzFed7NO8BI"
+      },
       "createdAt": 1784488424098,
       "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
     },
@@ -81,6 +233,12 @@
       "title": "2 Live Crew - Banned In The U.S.A.",
       "channel": "2LiveCrewVEVO",
       "duration": "4:20",
+      "artist": "2 Live Crew",
+      "musicTitle": "Banned In The U.S.A.",
+      "externalIds": {
+        "youtube": "oNsdMFCXH9M",
+        "youtubeMusic": "oNsdMFCXH9M"
+      },
       "createdAt": 1784548149493,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -89,6 +247,12 @@
       "title": "Keisha Billip",
       "channel": "Ebi Soda",
       "duration": "4:23",
+      "artist": "Ebi Soda",
+      "musicTitle": "Keisha Billip",
+      "externalIds": {
+        "youtube": "JVsRapXjEdY",
+        "youtubeMusic": "JVsRapXjEdY"
+      },
       "createdAt": 1784396764756,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -97,6 +261,12 @@
       "title": "Concave",
       "channel": "Aloka - Topic",
       "duration": "5:04",
+      "artist": "Aloka",
+      "musicTitle": "Concave",
+      "externalIds": {
+        "youtube": "S7D30W470fA",
+        "youtubeMusic": "S7D30W470fA"
+      },
       "createdAt": 1784400064310,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -105,6 +275,12 @@
       "title": "Danger Dan - Keine Angst",
       "channel": "Danger Dan",
       "duration": "7:21",
+      "artist": "Danger Dan",
+      "musicTitle": "Keine Angst",
+      "externalIds": {
+        "youtube": "Gg-SCpXba64",
+        "youtubeMusic": "Gg-SCpXba64"
+      },
       "createdAt": 1784278451188,
       "userId": "80a6a4bcd0ea8b7fd928cd21625377bdc226b6a0fc85dfb6fb12ab373203f449"
     },
@@ -113,6 +289,15 @@
       "title": "Around Tha Bend",
       "channel": "Nia Archives",
       "duration": "2:45",
+      "artist": "Nia Archives",
+      "musicTitle": "Around Tha Bend",
+      "externalIds": {
+        "pandora": "TR:209191482",
+        "tidal": "541782750",
+        "yandex": "153734562",
+        "youtube": "YPiZG3gshvE",
+        "youtubeMusic": "YPiZG3gshvE"
+      },
       "createdAt": 1784281717797,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -121,6 +306,19 @@
       "title": "Meu Maracatu Pesa uma Tonelada",
       "channel": "Nação Zumbi (Oficial)",
       "duration": "2:34",
+      "artist": "Nação Zumbi, Marcos Matias",
+      "musicTitle": "Meu Maracatu Pesa uma Tonelada",
+      "externalIds": {
+        "amazonMusic": "B073QSS6TZ",
+        "amazonStore": "B073QSS6TZ",
+        "anghami": "5878731",
+        "deezer": "380244351",
+        "napster": "tra.17260402",
+        "pandora": "TR:14580480",
+        "tidal": "75934993",
+        "youtube": "I6C807Kv8EQ",
+        "youtubeMusic": "I6C807Kv8EQ"
+      },
       "createdAt": 1784303799105,
       "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
     },
@@ -129,6 +327,12 @@
       "title": "Don't Waste My Time",
       "channel": "Âme",
       "duration": "3:47",
+      "artist": "Âme",
+      "musicTitle": "Don't Waste My Time (feat. Jens Kuross)",
+      "externalIds": {
+        "youtube": "gL75c3EmnSY",
+        "youtubeMusic": "gL75c3EmnSY"
+      },
       "createdAt": 1784308440054,
       "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
     },
@@ -137,6 +341,12 @@
       "title": "IZIT -  Stories (Original Remix by F. Gatto)",
       "channel": "New Music",
       "duration": "4:39",
+      "artist": "New Music",
+      "musicTitle": "IZIT -  Stories (Original Remix by F. Gatto)",
+      "externalIds": {
+        "youtube": "x65asfjm-aQ",
+        "youtubeMusic": "x65asfjm-aQ"
+      },
       "createdAt": 1784323554457,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -145,6 +355,12 @@
       "title": "The real life - Corporation Of One Original",
       "channel": "Promised Land",
       "duration": "5:27",
+      "artist": "Promised Land",
+      "musicTitle": "The real life - Corporation Of One Original",
+      "externalIds": {
+        "youtube": "yIqzUCizckA",
+        "youtubeMusic": "yIqzUCizckA"
+      },
       "createdAt": 1784325258951,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -153,6 +369,12 @@
       "title": "Too Close (Instrumental)",
       "channel": "Next - Topic",
       "duration": "4:21",
+      "artist": "Next",
+      "musicTitle": "Too Close (Instrumental)",
+      "externalIds": {
+        "youtube": "7ir5mOnNN98",
+        "youtubeMusic": "7ir5mOnNN98"
+      },
       "createdAt": 1784200561362,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
@@ -249,6 +471,17 @@
       "title": "IGORRR - DAEMONI",
       "channel": "Igorrr",
       "duration": "4:11",
+      "artist": "Igorrr",
+      "musicTitle": "Daemoni",
+      "externalIds": {
+        "amazonMusic": "B0F2CHRS8G",
+        "amazonStore": "B0F2CHRS8G",
+        "deezer": "3293342581",
+        "pandora": "TR:154832443",
+        "tidal": "426008030",
+        "youtube": "pTsg8xMD9I8",
+        "youtubeMusic": "pTsg8xMD9I8"
+      },
       "createdAt": 1784009230967,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
@@ -273,6 +506,14 @@
       "title": "CloZee - Pillow Talk (Official Visualizer)",
       "channel": "CloZee",
       "duration": "3:28",
+      "artist": "CloZee",
+      "musicTitle": "Pillow Talk",
+      "externalIds": {
+        "pandora": "TR:99642286",
+        "tidal": "304546677",
+        "youtube": "ekpVwf2-4ZY",
+        "youtubeMusic": "ekpVwf2-4ZY"
+      },
       "createdAt": 1784039753234,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
@@ -298,7 +539,16 @@
       "channel": "Mizzo - Topic",
       "duration": "4:41",
       "createdAt": 1783894369566,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "artist": "Mizzo",
+      "musicTitle": "Boogie All Night Long",
+      "externalIds": {
+        "pandora": "TR:198305325",
+        "tidal": "508418251",
+        "yandex": "151251866",
+        "youtube": "lUl0nxtWcZs",
+        "youtubeMusic": "lUl0nxtWcZs"
+      }
     },
     {
       "id": "kRttvc1U8Bg",
@@ -322,7 +572,18 @@
       "channel": "The Venanzio Brothers - Topic",
       "duration": "4:00",
       "createdAt": 1783765535609,
-      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb",
+      "artist": "The Venanzio Brothers",
+      "musicTitle": "Andiamo",
+      "externalIds": {
+        "amazonMusic": "B0H6FH5B2V",
+        "amazonStore": "B0H6FH5B2V",
+        "pandora": "TR:207947641",
+        "tidal": "535807437",
+        "yandex": "152943751",
+        "youtube": "3A-eSCAh1xE",
+        "youtubeMusic": "3A-eSCAh1xE"
+      }
     },
     {
       "id": "kk00j7Qm5gI",
@@ -338,7 +599,21 @@
       "channel": "Ween",
       "duration": "3:14",
       "createdAt": 1783764443187,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "artist": "Ween",
+      "musicTitle": "Happy Colored Marbles",
+      "externalIds": {
+        "amazonMusic": "B0GMKSNSPQ",
+        "amazonStore": "B0GMKSNSPQ",
+        "anghami": "90043385",
+        "deezer": "1127251492",
+        "napster": "tra.473173501",
+        "pandora": "TR:9039333",
+        "tidal": "497612326",
+        "yandex": "26978467",
+        "youtube": "_JqRZqzMBTo",
+        "youtubeMusic": "_JqRZqzMBTo"
+      }
     },
     {
       "id": "g7zWV43aeOc",
@@ -346,7 +621,22 @@
       "channel": "Della Reese - Topic",
       "duration": "3:15",
       "createdAt": 1783621671707,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "artist": "Della Reese",
+      "musicTitle": "Whatever Lola Wants",
+      "externalIds": {
+        "amazonMusic": "B073LL534V",
+        "amazonStore": "B073LL534V",
+        "anghami": "90275330",
+        "boomplay": "7385637",
+        "deezer": "1077705",
+        "napster": "tra.240572547",
+        "pandora": "TR:16951467",
+        "tidal": "1966395",
+        "yandex": "15287541",
+        "youtube": "g7zWV43aeOc",
+        "youtubeMusic": "g7zWV43aeOc"
+      }
     },
     {
       "id": "C-SUo-uHdPk",
@@ -354,7 +644,16 @@
       "channel": "Floh de Cologne - Topic",
       "duration": "1:33",
       "createdAt": 1783621312814,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "artist": "Floh De Cologne",
+      "musicTitle": "Sei Ruhig, Fliessbandbaby",
+      "externalIds": {
+        "pandora": "TR:18331705",
+        "tidal": "5875154",
+        "yandex": "27542502",
+        "youtube": "C-SUo-uHdPk",
+        "youtubeMusic": "C-SUo-uHdPk"
+      }
     },
     {
       "id": "AFNnYbRb2XM",
@@ -378,7 +677,16 @@
       "channel": "PERMSKY KRAY",
       "duration": "0:41",
       "createdAt": 1783522277933,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "artist": "PERMSKY KRAY",
+      "musicTitle": "C",
+      "externalIds": {
+        "pandora": "TR:208534955",
+        "tidal": "539089992",
+        "yandex": "153216420",
+        "youtube": "B_--qMAI_9M",
+        "youtubeMusic": "B_--qMAI_9M"
+      }
     },
     {
       "id": "iEu6vWhSDb0",
@@ -5545,7 +5853,30 @@
       "duration": "4:05",
       "musicTitle": "Perry Como-Magic Moments",
       "createdAt": 1765892684870,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "tags": [
+        "big band",
+        "country",
+        "easy listening",
+        "jazz",
+        "latin",
+        "pop",
+        "rock",
+        "rock n roll",
+        "swing",
+        "traditional pop"
+      ],
+      "externalIds": {
+        "musicbrainz": "448eccef-c067-42c6-8de0-32d4e86b2cd1",
+        "musicbrainz-track": "004f6c43-44b3-4cdd-8b9a-4cd07c1aa684",
+        "musicbrainz-artist": "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+        "lastfm": "Perry+Como/_/Magic+Moments"
+      },
+      "listeners": 241844,
+      "playcount": 894791,
+      "lastfmSummary": "\"Magic Moments\" is a popular song with music was written by Burt Bacharach, the lyrics by Hal David, one of the first compositions by that duo. The song was published in 1957.\n\nThe biggest hit version of the song was recorded by Perry Como in 1957, and became a hit in early 1958. The peak position is hard to track precisely, due to the multiple charts used in Billboard. The overall impact of the song probably fell just below the top ten. The song was also a 1958 hit in Italy and in the United Kingdom in a version recorded by Ronnie Hilton <a href=\"http://www.last.fm/music/Perry+Como/_/Magic+Moments\">Read more on Last.fm</a>.",
+      "releasedAt": "1989",
+      "artistCountry": "US"
     },
     {
       "id": "O_J4VUFahKs",
@@ -5554,7 +5885,20 @@
       "duration": "5:02",
       "musicTitle": "Ballaké Sissoko - Nan Sira Madi | A COLORS SHOW",
       "createdAt": 1765887703550,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48",
+      "tags": [
+        "jazz"
+      ],
+      "externalIds": {
+        "musicbrainz": "561f94b2-f3be-44b9-96a5-5f1256134af9",
+        "musicbrainz-track": "e25c491e-23b2-4f06-b077-7c900e093f20",
+        "musicbrainz-artist": "da8ac8ac-2155-4baa-8605-973175bab92b",
+        "lastfm": "Ballak%C3%A9+Sissoko/_/Nan+Sira+Madi"
+      },
+      "listeners": 1047,
+      "playcount": 2570,
+      "releasedAt": "2021-09-10",
+      "artistCountry": "ML"
     },
     {
       "id": "81zHyCJdj1M",
@@ -5563,7 +5907,15 @@
       "duration": "3:58",
       "musicTitle": "Kiikala Reggae",
       "createdAt": 1765832470135,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "externalIds": {
+        "musicbrainz": "48670b1b-07b6-42d6-8054-549bb2238d1d",
+        "musicbrainz-artist": "145c3f0d-bc8b-451f-b0da-db9e1c7b06af",
+        "lastfm": "Ekowmania/_/Kiikala+Reggae"
+      },
+      "listeners": 522,
+      "playcount": 758,
+      "releasedAt": "2024-10-11"
     },
     {
       "id": "0mBPwTpRvYo",
@@ -5572,7 +5924,19 @@
       "duration": "4:31",
       "musicTitle": "Running Red",
       "createdAt": 1765831723288,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "tags": [
+        "drum and bass",
+        "electronic"
+      ],
+      "externalIds": {
+        "musicbrainz": "37f27997-bd66-4edc-b272-82fdba1dfd74",
+        "musicbrainz-artist": "7b0b0643-1c98-4b81-a988-206a11c0ad99",
+        "lastfm": "Kasra/_/Running+Red"
+      },
+      "listeners": 530,
+      "playcount": 1580,
+      "releasedAt": "2024-02-16"
     },
     {
       "id": "yPECzVFyUlw",
@@ -5581,7 +5945,24 @@
       "duration": "3:57",
       "musicTitle": "Kruder & Dorfmeister – \"Spring\"",
       "createdAt": 1765822261174,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "tags": [
+        "acid jazz",
+        "downtempo",
+        "drum and bass",
+        "electronic",
+        "trip hop"
+      ],
+      "externalIds": {
+        "musicbrainz": "bce8d628-86b2-4624-93e5-66c025bddece",
+        "musicbrainz-track": "87a611f7-f62c-401f-9359-db15066835dd",
+        "musicbrainz-artist": "6b49dc39-cb6f-465f-980b-bc17a271da34",
+        "lastfm": "Kruder+&+Dorfmeister/_/Spring"
+      },
+      "listeners": 7539,
+      "playcount": 22491,
+      "releasedAt": "2020-11-13",
+      "artistCountry": "AT"
     },
     {
       "id": "AkaJh_rZTUA",
@@ -5599,7 +5980,13 @@
       "duration": "6:22",
       "musicTitle": "Start like This",
       "createdAt": 1765707554490,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "externalIds": {
+        "musicbrainz-artist": "155269e0-6f20-49c2-89da-d1f7ab3086b5",
+        "lastfm": "Jambal/_/Start+like+This"
+      },
+      "listeners": 129,
+      "playcount": 252
     },
     {
       "id": "TlaJLSC_jkU",
@@ -5608,7 +5995,26 @@
       "duration": "6:19",
       "musicTitle": "dim light",
       "createdAt": 1765705621552,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "tags": [
+        "ambient",
+        "drum and bass",
+        "dub",
+        "electronic",
+        "jungle",
+        "liquid funk",
+        "techno"
+      ],
+      "externalIds": {
+        "musicbrainz": "11aa993b-d432-4ee9-be8c-1c9cdfc4ecdd",
+        "musicbrainz-track": "11aa993b-d432-4ee9-be8c-1c9cdfc4ecdd",
+        "musicbrainz-artist": "afa502e0-fb84-4cf4-b3c0-21ed0c695939",
+        "lastfm": "Calibre/_/dim+light"
+      },
+      "listeners": 2328,
+      "playcount": 5293,
+      "releasedAt": "2025-12-05",
+      "artistCountry": "GB"
     },
     {
       "id": "F-5J-ZBubf0",
@@ -5617,7 +6023,16 @@
       "duration": "6:43",
       "musicTitle": "Serenity",
       "createdAt": 1765704918728,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "externalIds": {
+        "musicbrainz": "0170dcf1-e695-440d-a88c-fe86bab9c509",
+        "musicbrainz-track": "0170dcf1-e695-440d-a88c-fe86bab9c509",
+        "musicbrainz-artist": "fc312daa-a3b0-4665-8503-0ab3940126c7",
+        "lastfm": "Serenity/_/Serenity"
+      },
+      "listeners": 2934,
+      "playcount": 10819,
+      "releasedAt": "2021-10-15"
     },
     {
       "id": "tnZ2NRXKAIo",
@@ -5635,7 +6050,22 @@
       "duration": "2:56",
       "musicTitle": "Feel To Be Driven Away",
       "createdAt": 1765689341021,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "tags": [
+        "new wave",
+        "sophisti-pop",
+        "synth pop"
+      ],
+      "externalIds": {
+        "musicbrainz": "72cd12c5-f34d-4aa0-bd77-0689cad5f2ac",
+        "musicbrainz-track": "72cd12c5-f34d-4aa0-bd77-0689cad5f2ac",
+        "musicbrainz-artist": "8432d4a5-69c0-4a0e-8a7a-9265e863a308",
+        "lastfm": "China+Crisis/_/Feel+To+Be+Driven+Away"
+      },
+      "listeners": 6232,
+      "playcount": 18752,
+      "releasedAt": "1982-11",
+      "artistCountry": "GB"
     },
     {
       "id": "4pKaa7sls-k",
@@ -5644,7 +6074,22 @@
       "duration": "3:54",
       "musicTitle": "Godley & Creme - Mugshots - 10cc",
       "createdAt": 1765688659353,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "tags": [
+        "experimental",
+        "pop",
+        "rock"
+      ],
+      "externalIds": {
+        "musicbrainz": "9a13175d-78d6-4df2-ac46-a19ed9f1d137",
+        "musicbrainz-track": "0a8bb729-8455-4523-829b-6d9e77635041",
+        "musicbrainz-artist": "6f874502-c86b-4d53-a371-3c18829531b9",
+        "lastfm": "Godley+&+Creme/_/Mugshots"
+      },
+      "listeners": 2025,
+      "playcount": 6232,
+      "releasedAt": "1979",
+      "artistCountry": "GB"
     },
     {
       "id": "twPsOod8Qwc",
@@ -5653,7 +6098,18 @@
       "duration": "4:29",
       "musicTitle": "Roman Flügel - Flowers [PHONICA040]",
       "createdAt": 1765687638602,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "tags": [
+        "electronic"
+      ],
+      "externalIds": {
+        "musicbrainz": "3965956e-5b08-46d3-a4c5-4a170b160147",
+        "musicbrainz-artist": "5286b91c-5d42-4cab-933a-77e30eb74ddc",
+        "lastfm": "Roman+Fl%C3%BCgel/_/Flowers"
+      },
+      "listeners": 1226,
+      "playcount": 2428,
+      "releasedAt": "2025-10-10"
     },
     {
       "id": "XtLvlaGJJEU",
@@ -5662,7 +6118,26 @@
       "duration": "4:27",
       "musicTitle": "Slayer - South of Heaven",
       "createdAt": 1765686632270,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "tags": [
+        "crossover thrash",
+        "heavy metal",
+        "metal",
+        "nu metal",
+        "speed metal",
+        "thrash metal"
+      ],
+      "externalIds": {
+        "musicbrainz": "41de980d-e8d1-4460-8f15-d99e6559a2ad",
+        "musicbrainz-track": "00ce8b5c-b906-4c4b-87b9-b35f883e58e9",
+        "musicbrainz-artist": "bdacc37b-8633-4bf8-9dd5-4662ee651aec",
+        "lastfm": "Slayer/_/South+of+Heaven"
+      },
+      "listeners": 562660,
+      "playcount": 4205800,
+      "lastfmSummary": "Thrash Metal <a href=\"http://www.last.fm/music/Slayer/_/South+of+Heaven\">Read more on Last.fm</a>.",
+      "releasedAt": "2015-09-10",
+      "artistCountry": "US"
     },
     {
       "id": "gJktf4aTNvk",
@@ -5671,7 +6146,28 @@
       "duration": "2:45",
       "musicTitle": "Cream - I feel free (1967)",
       "createdAt": 1765686243286,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "tags": [
+        "acid rock",
+        "blues rock",
+        "classic rock",
+        "hard rock",
+        "jam band",
+        "pop rock",
+        "psychedelic",
+        "psychedelic pop",
+        "psychedelic rock",
+        "rock"
+      ],
+      "externalIds": {
+        "musicbrainz": "78c38bea-a35c-4465-b32a-f70579b30a49",
+        "musicbrainz-track": "0132585e-8c2c-4cfd-9d06-bcafb223e918",
+        "musicbrainz-artist": "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f",
+        "lastfm": "Cream/_/I+Feel+Free"
+      },
+      "listeners": 672046,
+      "playcount": 2743988,
+      "artistCountry": "GB"
     },
     {
       "id": "qjjs4thy-R0",
@@ -5680,7 +6176,12 @@
       "duration": "4:15",
       "musicTitle": "All Right Now",
       "createdAt": 1765685981286,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "externalIds": {
+        "lastfm": "All+Right+Now/_/All+Right+Now"
+      },
+      "listeners": 27,
+      "playcount": 156
     },
     {
       "id": "kzJdH1cNHcs",
@@ -5725,7 +6226,13 @@
       "duration": "3:43",
       "musicTitle": "Steven Van Betten – Sometimes You're Not",
       "createdAt": 1765638813422,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "externalIds": {
+        "musicbrainz-artist": "adc859f3-f599-4766-80b8-4804ee918b9c",
+        "lastfm": "Steven+van+Betten/_/Sometimes+You%27re+Not"
+      },
+      "listeners": 230,
+      "playcount": 538
     },
     {
       "id": "0ITmq_KS9aM",
@@ -5734,7 +6241,20 @@
       "duration": "4:30",
       "musicTitle": "Photek : Pyramid",
       "createdAt": 1765637729823,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "tags": [
+        "trip hop"
+      ],
+      "externalIds": {
+        "musicbrainz": "bb4fd2e7-1ce9-4a91-8e55-19a5707bdbfa",
+        "musicbrainz-track": "074bd5ea-f46f-3e33-978a-51aeee86f821",
+        "musicbrainz-artist": "2095b935-2007-4ae0-a48a-ef4d6fc3aac0",
+        "lastfm": "Photek/_/Pyramid"
+      },
+      "listeners": 11328,
+      "playcount": 30091,
+      "releasedAt": "2012-10-23",
+      "artistCountry": "GB"
     },
     {
       "id": "tdqom7wvYQk",
@@ -5761,12 +6281,16 @@
       ],
       "externalIds": {
         "musicbrainz": "bebc71c5-88dd-4819-b676-03f4e07ceb90",
-        "musicbrainz-artist": "18a33653-bbaf-4aa7-884c-73f02a7a4515"
+        "musicbrainz-track": "00a46668-2201-4d40-a7de-95938b2c4957",
+        "musicbrainz-artist": "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+        "lastfm": "Boz+Scaggs/_/Georgia"
       },
       "releasedAt": "1976-02-18",
       "artistCountry": "US",
       "createdAt": 1765548698820,
-      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39",
+      "listeners": 47986,
+      "playcount": 158834
     },
     {
       "id": "H5SrdnzuXPQ",
@@ -5783,12 +6307,16 @@
       ],
       "externalIds": {
         "musicbrainz": "5e2d3bb1-4c92-486a-8ff2-587b5f847785",
-        "musicbrainz-artist": "40985bd2-6d44-4c86-bd16-35cad449cce3"
+        "musicbrainz-track": "10be4010-b3b9-39d8-9c1a-04cc64c60e94",
+        "musicbrainz-artist": "40985bd2-6d44-4c86-bd16-35cad449cce3",
+        "lastfm": "Element+of+Crime/_/Delmenhorst"
       },
       "releasedAt": "2005-09-12",
       "artistCountry": "DE",
       "createdAt": 1765548631244,
-      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39",
+      "listeners": 56955,
+      "playcount": 342396
     },
     {
       "id": "3R075vtlCwk",
@@ -5797,7 +6325,13 @@
       "duration": "3:19",
       "musicTitle": "Knebelfreunde",
       "createdAt": 1765497016601,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "externalIds": {
+        "musicbrainz-artist": "860e6f52-a6d9-4ad5-a0ce-b4afefc4b3f5",
+        "lastfm": "L.F.T./_/Knebelfreunde"
+      },
+      "listeners": 542,
+      "playcount": 1424
     },
     {
       "id": "4Bzl9KZEC2U",
@@ -5806,7 +6340,12 @@
       "duration": "4:03",
       "musicTitle": "Breakdance Tool",
       "createdAt": 1765495461436,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "externalIds": {
+        "lastfm": "Carl+Hang/_/Breakdance+Tool"
+      },
+      "listeners": 27,
+      "playcount": 99
     },
     {
       "id": "T_O9VJA_rJA",
@@ -5815,7 +6354,12 @@
       "duration": "5:23",
       "musicTitle": "Unknown DJ - Basstronic (1988)",
       "createdAt": 1765494904990,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd",
+      "externalIds": {
+        "lastfm": "Unknown+DJ/_/Basstronic"
+      },
+      "listeners": 1175,
+      "playcount": 2881
     },
     {
       "id": "aTcZR8M4US8",
@@ -5828,12 +6372,16 @@
       ],
       "externalIds": {
         "musicbrainz": "c664eb25-8c9a-4be5-ab54-a508c0dea678",
-        "musicbrainz-artist": "1c8e46d4-9343-48ce-aed8-0862e03878fd"
+        "musicbrainz-track": "c664eb25-8c9a-4be5-ab54-a508c0dea678",
+        "musicbrainz-artist": "1c8e46d4-9343-48ce-aed8-0862e03878fd",
+        "lastfm": "Alex+Reece/_/Pulp+Fiction+(Benny+L+Remix)"
       },
       "releasedAt": "2025-08-15",
       "artistCountry": "GB",
       "createdAt": 1765464015247,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "listeners": 89,
+      "playcount": 213
     },
     {
       "id": "iefpOCYbj4g",
@@ -5860,12 +6408,16 @@
       ],
       "externalIds": {
         "musicbrainz": "fe230dd0-60e3-4f9e-8af8-e741f211508b",
-        "musicbrainz-artist": "33db34de-5419-4d4c-a45b-3dfd6b7d8a72"
+        "musicbrainz-track": "fe230dd0-60e3-4f9e-8af8-e741f211508b",
+        "musicbrainz-artist": "33db34de-5419-4d4c-a45b-3dfd6b7d8a72",
+        "lastfm": "Virtual+Riot/_/I+heard+you+like+polyrhythms"
       },
       "releasedAt": "2024-01-24",
       "artistCountry": "DE",
       "createdAt": 1765409189774,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1",
+      "listeners": 1532,
+      "playcount": 5547
     },
     {
       "id": "MGXXcLYSHSU",
@@ -120380,5 +120932,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-07-21T08:14:26.547Z"
+  "lastFetched": "2026-07-22T08:44:07.800Z"
 }
