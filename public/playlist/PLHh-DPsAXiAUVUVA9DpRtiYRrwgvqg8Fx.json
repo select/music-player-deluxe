@@ -2,8 +2,40 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4866,
+  "videoCount": 4870,
   "videos": [
+    {
+      "id": "KjV2iL-z6Rk",
+      "title": "Danger Dan - Die meisten meiner Freunde",
+      "channel": "Danger Dan and Antilopen Gang",
+      "duration": "4:10",
+      "createdAt": 1784720912770,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "dVk9ZVSwGjY",
+      "title": "Plastic Idols",
+      "channel": "Jean-Luc Ponty - Topic",
+      "duration": "4:00",
+      "createdAt": 1784739304609,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "O1Q7Wj8IQTQ",
+      "title": "RUINS - Fire! (1984)",
+      "channel": "TheAlienodeBootes",
+      "duration": "3:51",
+      "createdAt": 1784745991720,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "mGLnbH3n1m8",
+      "title": "Bursting Out (12\" Version)",
+      "channel": "venom",
+      "duration": "2:56",
+      "createdAt": 1784754467321,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
     {
       "id": "UA8z-g-UvyA",
       "title": "MR.TECHIE & MISS KIPPLE",
@@ -120932,5 +120964,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-07-22T08:44:07.800Z"
+  "lastFetched": "2026-07-23T08:06:31.475Z"
 }
