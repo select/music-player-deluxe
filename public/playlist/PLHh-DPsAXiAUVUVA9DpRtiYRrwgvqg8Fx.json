@@ -2,8 +2,88 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4870,
+  "videoCount": 4880,
   "videos": [
+    {
+      "id": "Xy9SRCjLlKQ",
+      "title": "Prince Jammy Throne of Blood",
+      "channel": "Aleksandar Apatović",
+      "duration": "3:18",
+      "createdAt": 1784804054660,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "aNegRQLulsA",
+      "title": "Search Bar Hi Hat",
+      "channel": "SML - Topic",
+      "duration": "4:05",
+      "createdAt": 1784806815938,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "LAa0c7fbQ-k",
+      "title": "LAUREL - Scream Drive Faster (Official Music Video)",
+      "channel": "LAUREL",
+      "duration": "4:04",
+      "createdAt": 1784807822046,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "irKA_eqiRAU",
+      "title": "Animistic Beliefs - Succubi Island [SOM049]",
+      "channel": "cobra cobra",
+      "duration": "5:15",
+      "createdAt": 1784821166684,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "GBRAnuT48qo",
+      "title": "Bring Me The Horizon - Happy Song (Official Audio)",
+      "channel": "Bring Me The Horizon",
+      "duration": "3:57",
+      "createdAt": 1784826531112,
+      "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
+    },
+    {
+      "id": "ndcKs_c29Go",
+      "title": "Ambra (Calibre Remix)",
+      "channel": "FD - Topic",
+      "duration": "5:39",
+      "createdAt": 1784831631919,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "qLxDS65RjLU",
+      "title": "The Muppets - Fever (Rita Moreno & Animal)",
+      "channel": "KB",
+      "duration": "2:18",
+      "createdAt": 1784831771784,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "YW2nvdDpoyA",
+      "title": "Climbatize",
+      "channel": "The Prodigy",
+      "duration": "6:39",
+      "createdAt": 1784833957419,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "ky4wqeZic1E",
+      "title": "The Best Song I Ever Wrote",
+      "channel": "Shift - Topic",
+      "duration": "3:18",
+      "createdAt": 1784834128624,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "fxvkI9MTQw4",
+      "title": "The Breeders - Cannonball",
+      "channel": "The Breeders",
+      "duration": "3:44",
+      "createdAt": 1784839723136,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
     {
       "id": "KjV2iL-z6Rk",
       "title": "Danger Dan - Die meisten meiner Freunde",
@@ -115143,8 +115223,8 @@
       "playcount": 1346,
       "releasedAt": "2020-08-21",
       "artistCountry": "DE",
-      "createdAt": 1758976428390,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "createdAt": 1784803247309,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "-rFrM8cWiBU",
@@ -120964,5 +121044,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-07-23T08:06:31.475Z"
+  "lastFetched": "2026-07-24T07:56:48.556Z"
 }
