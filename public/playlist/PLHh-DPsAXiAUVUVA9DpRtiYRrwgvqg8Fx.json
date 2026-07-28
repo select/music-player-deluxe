@@ -2,8 +2,32 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4894,
+  "videoCount": 4897,
   "videos": [
+    {
+      "id": "GLww6vccyos",
+      "title": "Queen West Butterfly",
+      "channel": "Masahiro Takahashi - Topic",
+      "duration": "4:26",
+      "createdAt": 1785148574527,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "_GioCYQLBwQ",
+      "title": "Hymn",
+      "channel": "Gryr",
+      "duration": "5:47",
+      "createdAt": 1785148646121,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "sb3-fdBjvP8",
+      "title": "La Rez - Wo Kommen Wir Her (Frankfurt am Meer)",
+      "channel": "DJMinimonzta",
+      "duration": "4:36",
+      "createdAt": 1785158343475,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
     {
       "id": "FKkuiprkmMg",
       "title": "Rare Bird - Iceberg",
@@ -121156,5 +121180,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-07-27T12:01:10.922Z"
+  "lastFetched": "2026-07-28T07:38:36.056Z"
 }
