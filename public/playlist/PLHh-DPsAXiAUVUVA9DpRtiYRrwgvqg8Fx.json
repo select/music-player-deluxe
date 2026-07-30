@@ -2,8 +2,32 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4899,
+  "videoCount": 4902,
   "videos": [
+    {
+      "id": "3LxBLJBzW8k",
+      "title": "Soundtrack to an Arms Deal",
+      "channel": "woioi",
+      "duration": "4:14",
+      "createdAt": 1785268267538,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "cK18c0dOxGI",
+      "title": "Systems Failure: (Uprising, destruction, and the escape)",
+      "channel": "Giant Brain - Topic",
+      "duration": "6:23",
+      "createdAt": 1785316886811,
+      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
+    },
+    {
+      "id": "r1nKhmhkOLU",
+      "title": "Spokanki - Tjovane (the Thieves)",
+      "channel": "SPOKANKI",
+      "duration": "2:51",
+      "createdAt": 1785318867127,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
     {
       "id": "nl7-A0x4vik",
       "title": "Disgruntled (feat. J Hus & IRAH)",
@@ -121196,5 +121220,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-07-29T07:47:37.018Z"
+  "lastFetched": "2026-07-30T07:05:45.168Z"
 }
