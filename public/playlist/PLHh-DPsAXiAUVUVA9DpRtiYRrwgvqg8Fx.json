@@ -2,8 +2,72 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4902,
+  "videoCount": 4910,
   "videos": [
+    {
+      "id": "bB7RfafqXgI",
+      "title": "Daniel Dimbas - Carnaval Soca (Antal Edit)",
+      "channel": "Street Certified Records",
+      "duration": "5:10",
+      "createdAt": 1785360559122,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "57IY0wDqdCs",
+      "title": "Stormy Weather",
+      "channel": "Red Garland",
+      "duration": "10:36",
+      "createdAt": 1785398124124,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "5Ysps4A1IP4",
+      "title": "Bad Man (Fenin Dub Verison)",
+      "channel": "Horace Andy - Topic",
+      "duration": "5:17",
+      "createdAt": 1785401267070,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "DrnOUSdFP0c",
+      "title": "ZAMA ZAMA - by \"DIE ANTWOORD\" (CINEMA MODE)",
+      "channel": "ZEFRECORDS",
+      "duration": "18:49",
+      "createdAt": 1785406634282,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "t4FgfXIB1Zc",
+      "title": "FEUER IN DER LUNGE [live]",
+      "channel": "TJ_bb",
+      "duration": "15:55",
+      "createdAt": 1785408568502,
+      "userId": "513ac2e89742f7ce701ae0eb930c627bbc259690fb9622aaec4c6cd13a5eaad8"
+    },
+    {
+      "id": "TJMORpAqLrc",
+      "title": "ZAMA ZAMA",
+      "channel": "Die Antwoord - Topic",
+      "duration": "2:15",
+      "createdAt": 1785408574049,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "M2MTFvHRuUE",
+      "title": "Who's Who - Hypnodance (Official Audio)",
+      "channel": "Zagora Records",
+      "duration": "4:48",
+      "createdAt": 1785414491487,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "LJaRibExcWM",
+      "title": "The Beginning and the End",
+      "channel": "Isis - Topic",
+      "duration": "8:02",
+      "createdAt": 1785427897726,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
     {
       "id": "3LxBLJBzW8k",
       "title": "Soundtrack to an Arms Deal",
@@ -121220,5 +121284,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-07-30T07:05:45.168Z"
+  "lastFetched": "2026-07-31T07:32:48.786Z"
 }
