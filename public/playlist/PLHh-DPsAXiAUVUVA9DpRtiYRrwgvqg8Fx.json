@@ -2,8 +2,32 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4914,
+  "videoCount": 4917,
   "videos": [
+    {
+      "id": "jiZMHq3mnl8",
+      "title": "Burden by Quadtrip (pre-release quick capture)",
+      "channel": "Fried-egg-on-head chan",
+      "duration": "4:21",
+      "createdAt": 1785586558042,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "6VcfBh3hWO4",
+      "title": "The Beatles - Here, There and Everywhere",
+      "channel": "The Beatles",
+      "duration": "2:26",
+      "createdAt": 1785587841543,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "C5P6vWj5jKo",
+      "title": "Radio Tarifa -- Sin Palabras",
+      "channel": "boramselman",
+      "duration": "4:33",
+      "createdAt": 1785589734877,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
     {
       "id": "WHHOVePsBwI",
       "title": "Vexations - Version 3 - Arranged by Jimi Tenor (Remix)",
@@ -121316,5 +121340,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-08-01T11:56:01.322Z"
+  "lastFetched": "2026-08-02T09:03:09.459Z"
 }
