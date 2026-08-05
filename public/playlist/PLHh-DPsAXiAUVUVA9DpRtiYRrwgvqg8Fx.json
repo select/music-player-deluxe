@@ -2,8 +2,24 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4929,
+  "videoCount": 4931,
   "videos": [
+    {
+      "id": "bMbjHmLEUl0",
+      "title": "Get the Balance Right! (Combination Mix)",
+      "channel": "Depeche Mode",
+      "duration": "7:59",
+      "createdAt": 1785846531777,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "hgnhVcyLy1I",
+      "title": "Bell Biv DeVoe - Poison (Official Music Video)",
+      "channel": "Bell Biv Devoe",
+      "duration": "4:56",
+      "createdAt": 1785848492293,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
     {
       "id": "OBTaZG_qhjk",
       "title": "Recondite - Black Letter",
@@ -121436,5 +121452,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-08-04T08:12:57.447Z"
+  "lastFetched": "2026-08-05T08:30:15.963Z"
 }
