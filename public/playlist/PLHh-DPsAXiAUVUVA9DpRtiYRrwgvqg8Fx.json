@@ -2,607 +2,298 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4932,
+  "videoCount": 4944,
   "videos": [
     {
-      "id": "zLbLw5EGG6E",
-      "title": "Collide",
-      "channel": "upsammy - Topic",
-      "duration": "3:26",
-      "createdAt": 1785941102299,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "bMbjHmLEUl0",
-      "title": "Get the Balance Right! (Combination Mix)",
-      "channel": "Depeche Mode",
-      "duration": "7:59",
-      "createdAt": 1785846531777,
+      "id": "sfurYfDZQAg",
+      "title": "Nyuki",
+      "channel": "Siti Muharam - Topic",
+      "duration": "5:10",
+      "createdAt": 1784060256944,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
-      "id": "hgnhVcyLy1I",
-      "title": "Bell Biv DeVoe - Poison (Official Music Video)",
-      "channel": "Bell Biv Devoe",
-      "duration": "4:56",
-      "createdAt": 1785848492293,
+      "id": "zFmm09wl0TI",
+      "title": "Hot Pants In The Summertime",
+      "channel": "thedramaticschannel",
+      "duration": "4:00",
+      "createdAt": 1783942648027,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
-      "id": "OBTaZG_qhjk",
-      "title": "Recondite - Black Letter",
-      "channel": "Ghostly International",
-      "duration": "5:45",
-      "createdAt": 1785758643212,
+      "id": "z1aTN01nO8Q",
+      "title": "Turn It Up",
+      "channel": "Busta Rhymes",
+      "duration": "4:12",
+      "createdAt": 1783942981799,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "44iDsMeL_pk",
+      "title": "Liminal - Etterath (Official Music Video)",
+      "channel": "Liminal",
+      "duration": "4:47",
+      "createdAt": 1783945327884,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
-      "id": "_g3fckxdvZM",
-      "title": "Bandoliers",
-      "channel": "themcrookedvultures",
-      "duration": "5:43",
-      "createdAt": 1785778518578,
+      "id": "36dNCV7sQpg",
+      "title": "VOIDBORN | The Cathedral of Mirrors [Full Album] (Psychedelic Acid/Kraut)",
+      "channel": "DARK CHORD",
+      "duration": "26:40",
+      "createdAt": 1783945764321,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "pcixKjYVKrA",
+      "title": "Indigo Heart",
+      "channel": "QZB",
+      "duration": "5:59",
+      "createdAt": 1783963071455,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "YecucqHyyRU",
+      "title": "Digiridood",
+      "channel": "Aether Elf",
+      "duration": "3:09",
+      "createdAt": 1783968100286,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "pTsg8xMD9I8",
+      "title": "IGORRR - DAEMONI",
+      "channel": "Igorrr",
+      "duration": "4:11",
+      "artist": "Igorrr",
+      "musicTitle": "Daemoni",
+      "externalIds": {
+        "amazonMusic": "B0F2CHRS8G",
+        "amazonStore": "B0F2CHRS8G",
+        "deezer": "3293342581",
+        "pandora": "TR:154832443",
+        "tidal": "426008030",
+        "youtube": "pTsg8xMD9I8",
+        "youtubeMusic": "pTsg8xMD9I8"
+      },
+      "createdAt": 1784009230967,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "N0OBF83rL-8",
+      "title": "IGORRR - HEADBUTT",
+      "channel": "Igorrr",
+      "duration": "4:01",
+      "createdAt": 1784009311014,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "e0M_Vme0oNw",
+      "title": "CocoRosie K-Hole",
+      "channel": "strohbaron",
+      "duration": "3:49",
+      "createdAt": 1784030313778,
       "userId": "3ee08ffca31371b3deca5e8f4e12823fedee2177ab473545691a8275e35da40b"
     },
     {
-      "id": "xby5467EbdU",
-      "title": "Maggot Brain",
-      "channel": "Funkadelic - Topic",
-      "duration": "10:20",
-      "createdAt": 1785785640381,
+      "id": "ekpVwf2-4ZY",
+      "title": "CloZee - Pillow Talk (Official Visualizer)",
+      "channel": "CloZee",
+      "duration": "3:28",
+      "artist": "CloZee",
+      "musicTitle": "Pillow Talk",
+      "externalIds": {
+        "pandora": "TR:99642286",
+        "tidal": "304546677",
+        "youtube": "ekpVwf2-4ZY",
+        "youtubeMusic": "ekpVwf2-4ZY"
+      },
+      "createdAt": 1784039753234,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "ui8Zd0rbm1U",
+      "title": "Ingo Insterburg - Die werdende Mutter",
+      "channel": "unessell",
+      "duration": "0:46",
+      "createdAt": 1784042855359,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "4PUOhAJG5EU",
+      "title": "ICE, F**K You - A Protest Song for Minneapolis",
+      "channel": "scaredketchup",
+      "duration": "3:26",
+      "createdAt": 1769358024630,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
-      "id": "-yazMBzbnXQ",
-      "title": "Horda",
-      "channel": "JOAO BOSCO *JOA~O - Topic",
-      "duration": "7:37",
-      "createdAt": 1785786305281,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "boMW2kVgk34",
-      "title": "Bob McFadden and DOR - The Mummy (1959)",
-      "channel": "inshreds56",
-      "duration": "2:02",
-      "createdAt": 1785667268286,
+      "id": "sXpPXvUVc1Q",
+      "title": "The Night Has Thousand Eyes",
+      "channel": "Buddy Montgomery - Topic",
+      "duration": "7:16",
+      "createdAt": 1784117701602,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
-      "id": "82iSOHOa4rE",
-      "title": "Rambunction - Disco Rambunction [Square Records] Obscure Lo-Fi Funk Breaks 45",
-      "channel": "Musicdawn 45's",
-      "duration": "2:28",
-      "createdAt": 1785667725625,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "FOIVcmxu7vY",
-      "title": "The Manhattan Transfer●Coo Coo●1979",
-      "channel": "Antony Rosano",
-      "duration": "2:16",
-      "createdAt": 1785696224944,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "j_QLzthSkfM",
-      "title": "Devo - Whip It (Official Music Video) | Warner Vault",
-      "channel": "Warner Records Vault",
-      "duration": "2:47",
-      "createdAt": 1785701436677,
-      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
-    },
-    {
-      "id": "zeBDoNBNMro",
-      "title": "MAS QUE NADA - Sergio Mendez and Brazil 66",
-      "channel": "Heart4MusicLovers",
-      "duration": "2:53",
-      "createdAt": 1785701610935,
-      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
-    },
-    {
-      "id": "5D6-YagRAWY",
-      "title": "Ms. Emoji",
-      "channel": "Miss Eaves - Topic",
-      "duration": "2:25",
-      "createdAt": 1785701977749,
-      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
-    },
-    {
-      "id": "juT__vlc07g",
-      "title": "O.K. - OKAY! [OK] (Official Video) 1988 Original 80s eighties westside music disco frankfurt",
-      "channel": "okaybandcom",
-      "duration": "3:34",
-      "createdAt": 1785752840687,
+      "id": "Et907bUhEns",
+      "title": "Free Country Music! \"Ain't No Honky Tonks in Jail.\"  Texas Americana Country Music.",
+      "channel": "pat o'bryan",
+      "duration": "3:54",
+      "createdAt": 1784134587060,
       "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
     },
     {
-      "id": "AET7tdoF93o",
-      "title": "⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ - ʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌ ҉ ͡ ͞ ͞ ͞ ҉● ࿀ ● ࿀ ●",
-      "channel": "Four Tet",
-      "duration": "37:12",
-      "createdAt": 1785755910943,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "jiZMHq3mnl8",
-      "title": "Burden by Quadtrip (pre-release quick capture)",
-      "channel": "Fried-egg-on-head chan",
+      "id": "7ir5mOnNN98",
+      "title": "Too Close (Instrumental)",
+      "channel": "Next - Topic",
       "duration": "4:21",
-      "createdAt": 1785586558042,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "6VcfBh3hWO4",
-      "title": "The Beatles - Here, There and Everywhere",
-      "channel": "The Beatles",
-      "duration": "2:26",
-      "createdAt": 1785587841543,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "C5P6vWj5jKo",
-      "title": "Radio Tarifa -- Sin Palabras",
-      "channel": "boramselman",
-      "duration": "4:33",
-      "createdAt": 1785589734877,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "WHHOVePsBwI",
-      "title": "Vexations - Version 3 - Arranged by Jimi Tenor (Remix)",
-      "channel": "Release - Topic",
-      "duration": "3:50",
-      "createdAt": 1785494666523,
+      "artist": "Next",
+      "musicTitle": "Too Close (Instrumental)",
+      "externalIds": {
+        "youtube": "7ir5mOnNN98",
+        "youtubeMusic": "7ir5mOnNN98"
+      },
+      "createdAt": 1784200561362,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
-      "id": "snk9BY9E9Gg",
-      "title": "Montoya - Putumayo",
-      "channel": "ZZK Records",
-      "duration": "2:37",
-      "createdAt": 1785533887869,
+      "id": "Cde-TvbOZv4",
+      "title": "Alexender O'Neal What's Missing (1985) Instrumental",
+      "channel": "Darksilver3",
+      "duration": "8:23",
+      "createdAt": 1784202340384,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
-      "id": "UIW6pKgTcPE",
-      "title": "Photay - Global Wind Trade (Official Video)",
-      "channel": "Photay",
-      "duration": "5:41",
-      "createdAt": 1785535066778,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "QZjLqtr2tKM",
-      "title": "Sääftig x Takeo Ischi - YODEL TECHNO (Music Video)",
-      "channel": "Sääftig and Takeo Ischi",
-      "duration": "2:35",
-      "createdAt": 1785573425393,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "bB7RfafqXgI",
-      "title": "Daniel Dimbas - Carnaval Soca (Antal Edit)",
-      "channel": "Street Certified Records",
-      "duration": "5:10",
-      "createdAt": 1785360559122,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "57IY0wDqdCs",
-      "title": "Stormy Weather",
-      "channel": "Red Garland",
-      "duration": "10:36",
-      "createdAt": 1785398124124,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "5Ysps4A1IP4",
-      "title": "Bad Man (Fenin Dub Verison)",
-      "channel": "Horace Andy - Topic",
-      "duration": "5:17",
-      "createdAt": 1785401267070,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "DrnOUSdFP0c",
-      "title": "ZAMA ZAMA - by \"DIE ANTWOORD\" (CINEMA MODE)",
-      "channel": "ZEFRECORDS",
-      "duration": "18:49",
-      "createdAt": 1785406634282,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "t4FgfXIB1Zc",
-      "title": "FEUER IN DER LUNGE [live]",
-      "channel": "TJ_bb",
-      "duration": "15:55",
-      "createdAt": 1785408568502,
-      "userId": "513ac2e89742f7ce701ae0eb930c627bbc259690fb9622aaec4c6cd13a5eaad8"
-    },
-    {
-      "id": "TJMORpAqLrc",
-      "title": "ZAMA ZAMA",
-      "channel": "Die Antwoord - Topic",
-      "duration": "2:15",
-      "createdAt": 1785408574049,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "M2MTFvHRuUE",
-      "title": "Who's Who - Hypnodance (Official Audio)",
-      "channel": "Zagora Records",
-      "duration": "4:48",
-      "createdAt": 1785414491487,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "LJaRibExcWM",
-      "title": "The Beginning and the End",
-      "channel": "Isis - Topic",
-      "duration": "8:02",
-      "createdAt": 1785427897726,
-      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
-    },
-    {
-      "id": "3LxBLJBzW8k",
-      "title": "Soundtrack to an Arms Deal",
-      "channel": "woioi",
-      "duration": "4:14",
-      "createdAt": 1785268267538,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "cK18c0dOxGI",
-      "title": "Systems Failure: (Uprising, destruction, and the escape)",
-      "channel": "Giant Brain - Topic",
-      "duration": "6:23",
-      "createdAt": 1785316886811,
-      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
-    },
-    {
-      "id": "r1nKhmhkOLU",
-      "title": "Spokanki - Tjovane (the Thieves)",
-      "channel": "SPOKANKI",
-      "duration": "2:51",
-      "createdAt": 1785318867127,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "nl7-A0x4vik",
-      "title": "Disgruntled (feat. J Hus & IRAH)",
-      "channel": "Chase & Status",
-      "duration": "3:13",
-      "createdAt": 1785167993185,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "VU8CmY0EoAo",
-      "title": "Lime - Help Yourself",
-      "channel": "UnidiscMusic",
-      "duration": "6:13",
-      "createdAt": 1785187850855,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "GLww6vccyos",
-      "title": "Queen West Butterfly",
-      "channel": "Masahiro Takahashi - Topic",
-      "duration": "4:26",
-      "createdAt": 1785148574527,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "_GioCYQLBwQ",
-      "title": "Hymn",
-      "channel": "Gryr",
-      "duration": "5:47",
-      "createdAt": 1785148646121,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "sb3-fdBjvP8",
-      "title": "La Rez - Wo Kommen Wir Her (Frankfurt am Meer)",
-      "channel": "DJMinimonzta",
-      "duration": "4:36",
-      "createdAt": 1785158343475,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "FKkuiprkmMg",
-      "title": "Rare Bird - Iceberg",
-      "channel": "Rainbow Rock Club 70's",
-      "duration": "6:55",
-      "createdAt": 1784973815877,
-      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
-    },
-    {
-      "id": "GyHw3leshYk",
-      "title": "Kruder & Dorfmeister – \"King Size\"",
-      "channel": "Marginalis",
-      "duration": "4:58",
-      "createdAt": 1785000531040,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "tdk7RYKH0Tc",
-      "title": "Berlin Beach",
-      "channel": "Interhotel - Topic",
-      "duration": "3:43",
-      "createdAt": 1785005753396,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "7NuFMGpucpQ",
-      "title": "Deena Abdelwahed - Tawa (Clip Remix)",
-      "channel": "InFiné Music",
-      "duration": "7:14",
-      "createdAt": 1785006376426,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "pFJdcaT0m60",
-      "title": "Eva",
-      "channel": "Robson Jorge - Topic",
-      "duration": "5:44",
-      "createdAt": 1785012281896,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "D3B2DxJIB34",
-      "title": "Gaia Sunset (Part 2)",
-      "channel": "Jimi Tenor",
-      "duration": "8:08",
-      "createdAt": 1785066704381,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "XUOgpSlMH7w",
-      "title": "Erasmo Carlos - Cachaca Mecanica",
-      "channel": "nivmaol",
-      "duration": "3:31",
-      "createdAt": 1785082715814,
-      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
-    },
-    {
-      "id": "84JVScxIbbo",
-      "title": "All Alone",
-      "channel": "Josh Johnson - Topic",
-      "duration": "4:10",
-      "createdAt": 1785088225103,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "32m0zj4kaRk",
-      "title": "CONTROL DENIED - \"Consumed\"",
-      "channel": "RelapseRecords",
-      "duration": "7:26",
-      "createdAt": 1785101186650,
-      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
-    },
-    {
-      "id": "DOWyEY-VfIw",
-      "title": "Overmono & High Contrast - If We Ever",
-      "channel": "Overmono and XL Recordings",
-      "duration": "3:30",
-      "createdAt": 1785148129296,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "7CcSDETBkdE",
-      "title": "Crazy Point ❌ BIGOBLIN - WO! 😲 (Audio Oficial)",
-      "channel": "Crazy Point RD",
-      "duration": "2:52",
-      "createdAt": 1784894270854,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "h2KN54w84lY",
-      "title": "Crass - Dry Weather (1981)",
-      "channel": "fmcrass",
+      "id": "QB15JltRf-M",
+      "title": "Polyphia - CAN YOU FEEL IT",
+      "channel": "Polyphia",
       "duration": "3:07",
-      "createdAt": 1784899461986,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "88CoqcDjh9g",
-      "title": "Trifle - New Religion (1971) HQ",
-      "channel": "lunarmountains",
-      "duration": "6:44",
-      "createdAt": 1784900910129,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "iS76C_-KnhI",
-      "title": "Norah Jane & MOR.LOV - A Minute (Official Video)",
-      "channel": "Tru Thoughts Records",
-      "duration": "2:53",
-      "createdAt": 1784934961047,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "Xy9SRCjLlKQ",
-      "title": "Prince Jammy Throne of Blood",
-      "channel": "Aleksandar Apatović",
-      "duration": "3:18",
-      "createdAt": 1784804054660,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "aNegRQLulsA",
-      "title": "Search Bar Hi Hat",
-      "channel": "SML - Topic",
-      "duration": "4:05",
-      "createdAt": 1784806815938,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "LAa0c7fbQ-k",
-      "title": "LAUREL - Scream Drive Faster (Official Music Video)",
-      "channel": "LAUREL",
-      "duration": "4:04",
-      "createdAt": 1784807822046,
-      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
-    },
-    {
-      "id": "irKA_eqiRAU",
-      "title": "Animistic Beliefs - Succubi Island [SOM049]",
-      "channel": "cobra cobra",
-      "duration": "5:15",
-      "createdAt": 1784821166684,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "GBRAnuT48qo",
-      "title": "Bring Me The Horizon - Happy Song (Official Audio)",
-      "channel": "Bring Me The Horizon",
-      "duration": "3:57",
-      "createdAt": 1784826531112,
-      "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
-    },
-    {
-      "id": "ndcKs_c29Go",
-      "title": "Ambra (Calibre Remix)",
-      "channel": "FD - Topic",
-      "duration": "5:39",
-      "createdAt": 1784831631919,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "qLxDS65RjLU",
-      "title": "The Muppets - Fever (Rita Moreno & Animal)",
-      "channel": "KB",
-      "duration": "2:18",
-      "createdAt": 1784831771784,
+      "createdAt": 1784205532132,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
-      "id": "YW2nvdDpoyA",
-      "title": "Climbatize",
-      "channel": "The Prodigy",
-      "duration": "6:39",
-      "createdAt": 1784833957419,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+      "id": "Gg-SCpXba64",
+      "title": "Danger Dan - Keine Angst",
+      "channel": "Danger Dan",
+      "duration": "7:21",
+      "artist": "Danger Dan",
+      "musicTitle": "Keine Angst",
+      "externalIds": {
+        "youtube": "Gg-SCpXba64",
+        "youtubeMusic": "Gg-SCpXba64"
+      },
+      "createdAt": 1784278451188,
+      "userId": "80a6a4bcd0ea8b7fd928cd21625377bdc226b6a0fc85dfb6fb12ab373203f449"
     },
     {
-      "id": "ky4wqeZic1E",
-      "title": "The Best Song I Ever Wrote",
-      "channel": "Shift - Topic",
-      "duration": "3:18",
-      "createdAt": 1784834128624,
-      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
-    },
-    {
-      "id": "fxvkI9MTQw4",
-      "title": "The Breeders - Cannonball",
-      "channel": "The Breeders",
-      "duration": "3:44",
-      "createdAt": 1784839723136,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "KjV2iL-z6Rk",
-      "title": "Danger Dan - Die meisten meiner Freunde",
-      "channel": "Danger Dan and Antilopen Gang",
-      "duration": "4:10",
-      "createdAt": 1784720912770,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "dVk9ZVSwGjY",
-      "title": "Plastic Idols",
-      "channel": "Jean-Luc Ponty - Topic",
-      "duration": "4:00",
-      "createdAt": 1784739304609,
+      "id": "YPiZG3gshvE",
+      "title": "Around Tha Bend",
+      "channel": "Nia Archives",
+      "duration": "2:45",
+      "artist": "Nia Archives",
+      "musicTitle": "Around Tha Bend",
+      "externalIds": {
+        "pandora": "TR:209191482",
+        "tidal": "541782750",
+        "yandex": "153734562",
+        "youtube": "YPiZG3gshvE",
+        "youtubeMusic": "YPiZG3gshvE"
+      },
+      "createdAt": 1784281717797,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
-      "id": "O1Q7Wj8IQTQ",
-      "title": "RUINS - Fire! (1984)",
-      "channel": "TheAlienodeBootes",
-      "duration": "3:51",
-      "createdAt": 1784745991720,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "id": "I6C807Kv8EQ",
+      "title": "Meu Maracatu Pesa uma Tonelada",
+      "channel": "Release - Topic",
+      "duration": "2:34",
+      "artist": "Nação Zumbi, Marcos Matias",
+      "musicTitle": "Meu Maracatu Pesa uma Tonelada",
+      "externalIds": {
+        "amazonMusic": "B073QSS6TZ",
+        "amazonStore": "B073QSS6TZ",
+        "anghami": "5878731",
+        "deezer": "380244351",
+        "napster": "tra.17260402",
+        "pandora": "TR:14580480",
+        "tidal": "75934993",
+        "youtube": "I6C807Kv8EQ",
+        "youtubeMusic": "I6C807Kv8EQ"
+      },
+      "createdAt": 1784303799105,
+      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
     },
     {
-      "id": "mGLnbH3n1m8",
-      "title": "Bursting Out (12\" Version)",
-      "channel": "venom",
-      "duration": "2:56",
-      "createdAt": 1784754467321,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "UA8z-g-UvyA",
-      "title": "MR.TECHIE & MISS KIPPLE",
-      "channel": "Hajime Tachibana - Topic",
-      "duration": "2:50",
-      "createdAt": 1784559815712,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "7xm5L0unPt8",
-      "title": "Duas Cidades",
-      "channel": "BaianaSystem",
+      "id": "gL75c3EmnSY",
+      "title": "Don't Waste My Time",
+      "channel": "Âme",
       "duration": "3:47",
-      "createdAt": 1784560532830,
+      "artist": "Âme",
+      "musicTitle": "Don't Waste My Time (feat. Jens Kuross)",
+      "externalIds": {
+        "youtube": "gL75c3EmnSY",
+        "youtubeMusic": "gL75c3EmnSY"
+      },
+      "createdAt": 1784308440054,
       "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
     },
     {
-      "id": "zALpRg6SDuA",
-      "title": "Plastic Woods - Song for the Pariah",
-      "channel": "Plastic Woods",
-      "duration": "5:05",
-      "createdAt": 1784561656025,
-      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
-    },
-    {
-      "id": "yPz25R6PAYk",
-      "title": "SYMBIZ \"Baak Seon Gaa Gan (百上加斤)\" — Broken Chinese EP 1",
-      "channel": "SYMBIZ",
-      "duration": "2:39",
-      "createdAt": 1784624771500,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "Mylvwhy63bk",
-      "title": "Yngwie Malmsteen - Live with Japanese Philharmonic Orchestra",
-      "channel": "Official Yngwie Malmsteen",
-      "duration": "1:14:05",
-      "createdAt": 1784631002743,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
-      "id": "95COKs_a1cs",
-      "title": "Divine Place",
-      "channel": "Spirit Level - Topic",
-      "duration": "11:06",
-      "createdAt": 1784635333652,
+      "id": "x65asfjm-aQ",
+      "title": "IZIT -  Stories (Original Remix by F. Gatto)",
+      "channel": "New Music",
+      "duration": "4:39",
+      "artist": "New Music",
+      "musicTitle": "IZIT -  Stories (Original Remix by F. Gatto)",
+      "externalIds": {
+        "youtube": "x65asfjm-aQ",
+        "youtubeMusic": "x65asfjm-aQ"
+      },
+      "createdAt": 1784323554457,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
-      "id": "GsjR5MKFupI",
-      "title": "Tokyo.5001.A.D.",
-      "channel": "Captain Hate And The Seasick Sailors - Topic",
-      "duration": "2:03",
-      "createdAt": 1784637312194,
+      "id": "yIqzUCizckA",
+      "title": "The real life - Corporation Of One Original",
+      "channel": "Promised Land",
+      "duration": "5:27",
+      "artist": "Promised Land",
+      "musicTitle": "The real life - Corporation Of One Original",
+      "externalIds": {
+        "youtube": "yIqzUCizckA",
+        "youtubeMusic": "yIqzUCizckA"
+      },
+      "createdAt": 1784325258951,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
-      "id": "ZDP54FRKU_A",
-      "title": "Brutalismus 3000 - Leonard Cohen (Official Visualizer)",
-      "channel": "Brutalismus 3000",
-      "duration": "3:06",
-      "createdAt": 1784670521629,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "id": "JVsRapXjEdY",
+      "title": "Keisha Billip",
+      "channel": "Ebi Soda",
+      "duration": "4:23",
+      "artist": "Ebi Soda",
+      "musicTitle": "Keisha Billip",
+      "externalIds": {
+        "youtube": "JVsRapXjEdY",
+        "youtubeMusic": "JVsRapXjEdY"
+      },
+      "createdAt": 1784396764756,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
-      "id": "ENgpqnzU4kI",
-      "title": "Prelude, Outer Space, Radar",
-      "channel": "Dr. Samuel J. Hoffman - Topic",
-      "duration": "3:45",
-      "createdAt": 1784678233343,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "id": "S7D30W470fA",
+      "title": "Concave",
+      "channel": "Aloka - Topic",
+      "duration": "5:04",
+      "artist": "Aloka",
+      "musicTitle": "Concave",
+      "externalIds": {
+        "youtube": "S7D30W470fA",
+        "youtubeMusic": "S7D30W470fA"
+      },
+      "createdAt": 1784400064310,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "FBsEoOM3dkU",
@@ -771,295 +462,700 @@
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
-      "id": "JVsRapXjEdY",
-      "title": "Keisha Billip",
-      "channel": "Ebi Soda",
-      "duration": "4:23",
-      "artist": "Ebi Soda",
-      "musicTitle": "Keisha Billip",
-      "externalIds": {
-        "youtube": "JVsRapXjEdY",
-        "youtubeMusic": "JVsRapXjEdY"
-      },
-      "createdAt": 1784396764756,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "S7D30W470fA",
-      "title": "Concave",
-      "channel": "Aloka - Topic",
-      "duration": "5:04",
-      "artist": "Aloka",
-      "musicTitle": "Concave",
-      "externalIds": {
-        "youtube": "S7D30W470fA",
-        "youtubeMusic": "S7D30W470fA"
-      },
-      "createdAt": 1784400064310,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "Gg-SCpXba64",
-      "title": "Danger Dan - Keine Angst",
-      "channel": "Danger Dan",
-      "duration": "7:21",
-      "artist": "Danger Dan",
-      "musicTitle": "Keine Angst",
-      "externalIds": {
-        "youtube": "Gg-SCpXba64",
-        "youtubeMusic": "Gg-SCpXba64"
-      },
-      "createdAt": 1784278451188,
-      "userId": "80a6a4bcd0ea8b7fd928cd21625377bdc226b6a0fc85dfb6fb12ab373203f449"
-    },
-    {
-      "id": "YPiZG3gshvE",
-      "title": "Around Tha Bend",
-      "channel": "Nia Archives",
-      "duration": "2:45",
-      "artist": "Nia Archives",
-      "musicTitle": "Around Tha Bend",
-      "externalIds": {
-        "pandora": "TR:209191482",
-        "tidal": "541782750",
-        "yandex": "153734562",
-        "youtube": "YPiZG3gshvE",
-        "youtubeMusic": "YPiZG3gshvE"
-      },
-      "createdAt": 1784281717797,
+      "id": "UA8z-g-UvyA",
+      "title": "MR.TECHIE & MISS KIPPLE",
+      "channel": "Hajime Tachibana - Topic",
+      "duration": "2:50",
+      "createdAt": 1784559815712,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
-      "id": "I6C807Kv8EQ",
-      "title": "Meu Maracatu Pesa uma Tonelada",
-      "channel": "Nação Zumbi (Oficial)",
-      "duration": "2:34",
-      "artist": "Nação Zumbi, Marcos Matias",
-      "musicTitle": "Meu Maracatu Pesa uma Tonelada",
-      "externalIds": {
-        "amazonMusic": "B073QSS6TZ",
-        "amazonStore": "B073QSS6TZ",
-        "anghami": "5878731",
-        "deezer": "380244351",
-        "napster": "tra.17260402",
-        "pandora": "TR:14580480",
-        "tidal": "75934993",
-        "youtube": "I6C807Kv8EQ",
-        "youtubeMusic": "I6C807Kv8EQ"
-      },
-      "createdAt": 1784303799105,
-      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
-    },
-    {
-      "id": "gL75c3EmnSY",
-      "title": "Don't Waste My Time",
-      "channel": "Âme",
+      "id": "7xm5L0unPt8",
+      "title": "Duas Cidades",
+      "channel": "BaianaSystem",
       "duration": "3:47",
-      "artist": "Âme",
-      "musicTitle": "Don't Waste My Time (feat. Jens Kuross)",
-      "externalIds": {
-        "youtube": "gL75c3EmnSY",
-        "youtubeMusic": "gL75c3EmnSY"
-      },
-      "createdAt": 1784308440054,
+      "createdAt": 1784560532830,
       "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
     },
     {
-      "id": "x65asfjm-aQ",
-      "title": "IZIT -  Stories (Original Remix by F. Gatto)",
-      "channel": "New Music",
-      "duration": "4:39",
-      "artist": "New Music",
-      "musicTitle": "IZIT -  Stories (Original Remix by F. Gatto)",
-      "externalIds": {
-        "youtube": "x65asfjm-aQ",
-        "youtubeMusic": "x65asfjm-aQ"
-      },
-      "createdAt": 1784323554457,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+      "id": "zALpRg6SDuA",
+      "title": "Plastic Woods - Song for the Pariah",
+      "channel": "Plastic Woods",
+      "duration": "5:05",
+      "createdAt": 1784561656025,
+      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
     },
     {
-      "id": "yIqzUCizckA",
-      "title": "The real life - Corporation Of One Original",
-      "channel": "Promised Land",
-      "duration": "5:27",
-      "artist": "Promised Land",
-      "musicTitle": "The real life - Corporation Of One Original",
-      "externalIds": {
-        "youtube": "yIqzUCizckA",
-        "youtubeMusic": "yIqzUCizckA"
-      },
-      "createdAt": 1784325258951,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "7ir5mOnNN98",
-      "title": "Too Close (Instrumental)",
-      "channel": "Next - Topic",
-      "duration": "4:21",
-      "artist": "Next",
-      "musicTitle": "Too Close (Instrumental)",
-      "externalIds": {
-        "youtube": "7ir5mOnNN98",
-        "youtubeMusic": "7ir5mOnNN98"
-      },
-      "createdAt": 1784200561362,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "Cde-TvbOZv4",
-      "title": "Alexender O'Neal What's Missing (1985) Instrumental",
-      "channel": "Darksilver3",
-      "duration": "8:23",
-      "createdAt": 1784202340384,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "QB15JltRf-M",
-      "title": "Polyphia - CAN YOU FEEL IT",
-      "channel": "Polyphia",
-      "duration": "3:07",
-      "createdAt": 1784205532132,
+      "id": "yPz25R6PAYk",
+      "title": "SYMBIZ \"Baak Seon Gaa Gan (百上加斤)\" — Broken Chinese EP 1",
+      "channel": "SYMBIZ",
+      "duration": "2:39",
+      "createdAt": 1784624771500,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
-      "id": "sXpPXvUVc1Q",
-      "title": "The Night Has Thousand Eyes",
-      "channel": "Buddy Montgomery - Topic",
-      "duration": "7:16",
-      "createdAt": 1784117701602,
+      "id": "Mylvwhy63bk",
+      "title": "Yngwie Malmsteen - Live with Japanese Philharmonic Orchestra",
+      "channel": "Official Yngwie Malmsteen",
+      "duration": "1:14:05",
+      "createdAt": 1784631002743,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "95COKs_a1cs",
+      "title": "Divine Place",
+      "channel": "Spirit Level - Topic",
+      "duration": "11:06",
+      "createdAt": 1784635333652,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
-      "id": "Et907bUhEns",
-      "title": "Free Country Music! \"Ain't No Honky Tonks in Jail.\"  Texas Americana Country Music.",
-      "channel": "pat o'bryan",
-      "duration": "3:54",
-      "createdAt": 1784134587060,
+      "id": "GsjR5MKFupI",
+      "title": "Tokyo.5001.A.D.",
+      "channel": "Captain Hate And The Seasick Sailors - Topic",
+      "duration": "2:03",
+      "createdAt": 1784637312194,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "ZDP54FRKU_A",
+      "title": "Brutalismus 3000 - Leonard Cohen (Official Visualizer)",
+      "channel": "Brutalismus 3000",
+      "duration": "3:06",
+      "createdAt": 1784670521629,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "ENgpqnzU4kI",
+      "title": "Prelude, Outer Space, Radar",
+      "channel": "Dr. Samuel J. Hoffman - Topic",
+      "duration": "3:45",
+      "createdAt": 1784678233343,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "KjV2iL-z6Rk",
+      "title": "Danger Dan - Die meisten meiner Freunde",
+      "channel": "Danger Dan and Antilopen Gang",
+      "duration": "4:10",
+      "createdAt": 1784720912770,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "dVk9ZVSwGjY",
+      "title": "Plastic Idols",
+      "channel": "Jean-Luc Ponty - Topic",
+      "duration": "4:00",
+      "createdAt": 1784739304609,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "O1Q7Wj8IQTQ",
+      "title": "RUINS - Fire! (1984)",
+      "channel": "TheAlienodeBootes",
+      "duration": "3:51",
+      "createdAt": 1784745991720,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "mGLnbH3n1m8",
+      "title": "Bursting Out (12\" Version)",
+      "channel": "venom",
+      "duration": "2:56",
+      "createdAt": 1784754467321,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "Xy9SRCjLlKQ",
+      "title": "Prince Jammy Throne of Blood",
+      "channel": "Aleksandar Apatović",
+      "duration": "3:18",
+      "createdAt": 1784804054660,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "aNegRQLulsA",
+      "title": "Search Bar Hi Hat",
+      "channel": "SML - Topic",
+      "duration": "4:05",
+      "createdAt": 1784806815938,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "LAa0c7fbQ-k",
+      "title": "LAUREL - Scream Drive Faster (Official Music Video)",
+      "channel": "LAUREL",
+      "duration": "4:04",
+      "createdAt": 1784807822046,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "irKA_eqiRAU",
+      "title": "Animistic Beliefs - Succubi Island [SOM049]",
+      "channel": "cobra cobra",
+      "duration": "5:15",
+      "createdAt": 1784821166684,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "GBRAnuT48qo",
+      "title": "Bring Me The Horizon - Happy Song (Official Audio)",
+      "channel": "Bring Me The Horizon",
+      "duration": "3:57",
+      "createdAt": 1784826531112,
+      "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
+    },
+    {
+      "id": "ndcKs_c29Go",
+      "title": "Ambra (Calibre Remix)",
+      "channel": "FD - Topic",
+      "duration": "5:39",
+      "createdAt": 1784831631919,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "qLxDS65RjLU",
+      "title": "The Muppets - Fever (Rita Moreno & Animal)",
+      "channel": "KB",
+      "duration": "2:18",
+      "createdAt": 1784831771784,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "YW2nvdDpoyA",
+      "title": "Climbatize",
+      "channel": "The Prodigy",
+      "duration": "6:39",
+      "createdAt": 1784833957419,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "ky4wqeZic1E",
+      "title": "The Best Song I Ever Wrote",
+      "channel": "Shift - Topic",
+      "duration": "3:18",
+      "createdAt": 1784834128624,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "fxvkI9MTQw4",
+      "title": "The Breeders - Cannonball",
+      "channel": "The Breeders",
+      "duration": "3:44",
+      "createdAt": 1784839723136,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "7CcSDETBkdE",
+      "title": "Crazy Point ❌ BIGOBLIN - WO! 😲 (Audio Oficial)",
+      "channel": "Crazy Point RD",
+      "duration": "2:52",
+      "createdAt": 1784894270854,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "h2KN54w84lY",
+      "title": "Crass - Dry Weather (1981)",
+      "channel": "fmcrass",
+      "duration": "3:07",
+      "createdAt": 1784899461986,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "88CoqcDjh9g",
+      "title": "Trifle - New Religion (1971) HQ",
+      "channel": "lunarmountains",
+      "duration": "6:44",
+      "createdAt": 1784900910129,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "iS76C_-KnhI",
+      "title": "Norah Jane & MOR.LOV - A Minute (Official Video)",
+      "channel": "Tru Thoughts Records",
+      "duration": "2:53",
+      "createdAt": 1784934961047,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "FKkuiprkmMg",
+      "title": "Rare Bird - Iceberg",
+      "channel": "Rainbow Rock Club 70's",
+      "duration": "6:55",
+      "createdAt": 1784973815877,
+      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
+    },
+    {
+      "id": "GyHw3leshYk",
+      "title": "Kruder & Dorfmeister – \"King Size\"",
+      "channel": "Marginalis",
+      "duration": "4:58",
+      "createdAt": 1785000531040,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "tdk7RYKH0Tc",
+      "title": "Berlin Beach",
+      "channel": "Interhotel - Topic",
+      "duration": "3:43",
+      "createdAt": 1785005753396,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "7NuFMGpucpQ",
+      "title": "Deena Abdelwahed - Tawa (Clip Remix)",
+      "channel": "InFiné Music",
+      "duration": "7:14",
+      "createdAt": 1785006376426,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "pFJdcaT0m60",
+      "title": "Eva",
+      "channel": "Robson Jorge - Topic",
+      "duration": "5:44",
+      "createdAt": 1785012281896,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "D3B2DxJIB34",
+      "title": "Gaia Sunset (Part 2)",
+      "channel": "Jimi Tenor",
+      "duration": "8:08",
+      "createdAt": 1785066704381,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "XUOgpSlMH7w",
+      "title": "Erasmo Carlos - Cachaca Mecanica",
+      "channel": "nivmaol",
+      "duration": "3:31",
+      "createdAt": 1785082715814,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "84JVScxIbbo",
+      "title": "All Alone",
+      "channel": "Josh Johnson - Topic",
+      "duration": "4:10",
+      "createdAt": 1785088225103,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "32m0zj4kaRk",
+      "title": "CONTROL DENIED - \"Consumed\"",
+      "channel": "RelapseRecords",
+      "duration": "7:26",
+      "createdAt": 1785101186650,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "DOWyEY-VfIw",
+      "title": "Overmono & High Contrast - If We Ever",
+      "channel": "Overmono and XL Recordings",
+      "duration": "3:30",
+      "createdAt": 1785148129296,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "GLww6vccyos",
+      "title": "Queen West Butterfly",
+      "channel": "Masahiro Takahashi - Topic",
+      "duration": "4:26",
+      "createdAt": 1785148574527,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "_GioCYQLBwQ",
+      "title": "Hymn",
+      "channel": "Gryr",
+      "duration": "5:47",
+      "createdAt": 1785148646121,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "sb3-fdBjvP8",
+      "title": "La Rez - Wo Kommen Wir Her (Frankfurt am Meer)",
+      "channel": "DJMinimonzta",
+      "duration": "4:36",
+      "createdAt": 1785158343475,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "nl7-A0x4vik",
+      "title": "Disgruntled (feat. J Hus & IRAH)",
+      "channel": "Chase & Status",
+      "duration": "3:13",
+      "createdAt": 1785167993185,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "VU8CmY0EoAo",
+      "title": "Lime - Help Yourself",
+      "channel": "UnidiscMusic",
+      "duration": "6:13",
+      "createdAt": 1785187850855,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "3LxBLJBzW8k",
+      "title": "Soundtrack to an Arms Deal",
+      "channel": "woioi",
+      "duration": "4:14",
+      "createdAt": 1785268267538,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "cK18c0dOxGI",
+      "title": "Systems Failure: (Uprising, destruction, and the escape)",
+      "channel": "Giant Brain - Topic",
+      "duration": "6:23",
+      "createdAt": 1785316886811,
+      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
+    },
+    {
+      "id": "r1nKhmhkOLU",
+      "title": "Spokanki - Tjovane (the Thieves)",
+      "channel": "SPOKANKI",
+      "duration": "2:51",
+      "createdAt": 1785318867127,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "bB7RfafqXgI",
+      "title": "Daniel Dimbas - Carnaval Soca (Antal Edit)",
+      "channel": "Street Certified Records",
+      "duration": "5:10",
+      "createdAt": 1785360559122,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "57IY0wDqdCs",
+      "title": "Stormy Weather",
+      "channel": "Red Garland",
+      "duration": "10:36",
+      "createdAt": 1785398124124,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "5Ysps4A1IP4",
+      "title": "Bad Man (Fenin Dub Verison)",
+      "channel": "Horace Andy - Topic",
+      "duration": "5:17",
+      "createdAt": 1785401267070,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "DrnOUSdFP0c",
+      "title": "ZAMA ZAMA - by \"DIE ANTWOORD\" (CINEMA MODE)",
+      "channel": "ZEFRECORDS",
+      "duration": "18:49",
+      "createdAt": 1785406634282,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "t4FgfXIB1Zc",
+      "title": "FEUER IN DER LUNGE [live]",
+      "channel": "TJ_bb",
+      "duration": "15:55",
+      "createdAt": 1785408568502,
+      "userId": "513ac2e89742f7ce701ae0eb930c627bbc259690fb9622aaec4c6cd13a5eaad8"
+    },
+    {
+      "id": "TJMORpAqLrc",
+      "title": "ZAMA ZAMA",
+      "channel": "Die Antwoord - Topic",
+      "duration": "2:15",
+      "createdAt": 1785408574049,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "M2MTFvHRuUE",
+      "title": "Who's Who - Hypnodance (Official Audio)",
+      "channel": "Zagora Records",
+      "duration": "4:48",
+      "createdAt": 1785414491487,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "LJaRibExcWM",
+      "title": "The Beginning and the End",
+      "channel": "Isis - Topic",
+      "duration": "8:02",
+      "createdAt": 1785427897726,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "WHHOVePsBwI",
+      "title": "Vexations - Version 3 - Arranged by Jimi Tenor (Remix)",
+      "channel": "Release - Topic",
+      "duration": "3:50",
+      "createdAt": 1785494666523,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "snk9BY9E9Gg",
+      "title": "Montoya - Putumayo",
+      "channel": "ZZK Records",
+      "duration": "2:37",
+      "createdAt": 1785533887869,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "UIW6pKgTcPE",
+      "title": "Photay - Global Wind Trade (Official Video)",
+      "channel": "Photay",
+      "duration": "5:41",
+      "createdAt": 1785535066778,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "QZjLqtr2tKM",
+      "title": "Sääftig x Takeo Ischi - YODEL TECHNO (Music Video)",
+      "channel": "Sääftig and Takeo Ischi",
+      "duration": "2:35",
+      "createdAt": 1785573425393,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "jiZMHq3mnl8",
+      "title": "Burden by Quadtrip (pre-release quick capture)",
+      "channel": "Fried-egg-on-head chan",
+      "duration": "4:21",
+      "createdAt": 1785586558042,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "6VcfBh3hWO4",
+      "title": "The Beatles - Here, There and Everywhere",
+      "channel": "The Beatles",
+      "duration": "2:26",
+      "createdAt": 1785587841543,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "C5P6vWj5jKo",
+      "title": "Radio Tarifa -- Sin Palabras",
+      "channel": "boramselman",
+      "duration": "4:33",
+      "createdAt": 1785589734877,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "boMW2kVgk34",
+      "title": "Bob McFadden and DOR - The Mummy (1959)",
+      "channel": "inshreds56",
+      "duration": "2:02",
+      "createdAt": 1785667268286,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "82iSOHOa4rE",
+      "title": "Rambunction - Disco Rambunction [Square Records] Obscure Lo-Fi Funk Breaks 45",
+      "channel": "Musicdawn 45's",
+      "duration": "2:28",
+      "createdAt": 1785667725625,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "FOIVcmxu7vY",
+      "title": "The Manhattan Transfer●Coo Coo●1979",
+      "channel": "Antony Rosano",
+      "duration": "2:16",
+      "createdAt": 1785696224944,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "j_QLzthSkfM",
+      "title": "Devo - Whip It (Official Music Video) | Warner Vault",
+      "channel": "Warner Records Vault",
+      "duration": "2:47",
+      "createdAt": 1785701436677,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "zeBDoNBNMro",
+      "title": "MAS QUE NADA - Sergio Mendez and Brazil 66",
+      "channel": "Heart4MusicLovers",
+      "duration": "2:53",
+      "createdAt": 1785701610935,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "5D6-YagRAWY",
+      "title": "Ms. Emoji",
+      "channel": "Miss Eaves - Topic",
+      "duration": "2:25",
+      "createdAt": 1785701977749,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "juT__vlc07g",
+      "title": "O.K. - OKAY! [OK] (Official Video) 1988 Original 80s eighties westside music disco frankfurt",
+      "channel": "okaybandcom",
+      "duration": "3:34",
+      "createdAt": 1785752840687,
       "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
     },
     {
-      "id": "4PUOhAJG5EU",
-      "title": "ICE, F**K You - A Protest Song for Minneapolis",
-      "channel": "scaredketchup",
-      "duration": "3:26",
-      "createdAt": 1769358024630,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "zFmm09wl0TI",
-      "title": "Hot Pants In The Summertime",
-      "channel": "thedramaticschannel",
-      "duration": "4:00",
-      "createdAt": 1783942648027,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "z1aTN01nO8Q",
-      "title": "Turn It Up",
-      "channel": "Busta Rhymes",
-      "duration": "4:12",
-      "createdAt": 1783942981799,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
-      "id": "44iDsMeL_pk",
-      "title": "Liminal - Etterath (Official Music Video)",
-      "channel": "Liminal",
-      "duration": "4:47",
-      "createdAt": 1783945327884,
+      "id": "AET7tdoF93o",
+      "title": "⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ - ʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌ ҉ ͡ ͞ ͞ ͞ ҉● ࿀ ● ࿀ ●",
+      "channel": "Four Tet",
+      "duration": "37:12",
+      "createdAt": 1785755910943,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
-      "id": "36dNCV7sQpg",
-      "title": "VOIDBORN | The Cathedral of Mirrors [Full Album] (Psychedelic Acid/Kraut)",
-      "channel": "DARK CHORD",
-      "duration": "26:40",
-      "createdAt": 1783945764321,
+      "id": "OBTaZG_qhjk",
+      "title": "Recondite - Black Letter",
+      "channel": "Ghostly International",
+      "duration": "5:45",
+      "createdAt": 1785758643212,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
-      "id": "pcixKjYVKrA",
-      "title": "Indigo Heart",
-      "channel": "QZB",
-      "duration": "5:59",
-      "createdAt": 1783963071455,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "YecucqHyyRU",
-      "title": "Digiridood",
-      "channel": "Aether Elf",
-      "duration": "3:09",
-      "createdAt": 1783968100286,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "pTsg8xMD9I8",
-      "title": "IGORRR - DAEMONI",
-      "channel": "Igorrr",
-      "duration": "4:11",
-      "artist": "Igorrr",
-      "musicTitle": "Daemoni",
-      "externalIds": {
-        "amazonMusic": "B0F2CHRS8G",
-        "amazonStore": "B0F2CHRS8G",
-        "deezer": "3293342581",
-        "pandora": "TR:154832443",
-        "tidal": "426008030",
-        "youtube": "pTsg8xMD9I8",
-        "youtubeMusic": "pTsg8xMD9I8"
-      },
-      "createdAt": 1784009230967,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "N0OBF83rL-8",
-      "title": "IGORRR - HEADBUTT",
-      "channel": "Igorrr",
-      "duration": "4:01",
-      "createdAt": 1784009311014,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "e0M_Vme0oNw",
-      "title": "CocoRosie K-Hole",
-      "channel": "strohbaron",
-      "duration": "3:49",
-      "createdAt": 1784030313778,
+      "id": "_g3fckxdvZM",
+      "title": "Bandoliers",
+      "channel": "themcrookedvultures",
+      "duration": "5:43",
+      "createdAt": 1785778518578,
       "userId": "3ee08ffca31371b3deca5e8f4e12823fedee2177ab473545691a8275e35da40b"
     },
     {
-      "id": "ekpVwf2-4ZY",
-      "title": "CloZee - Pillow Talk (Official Visualizer)",
-      "channel": "CloZee",
-      "duration": "3:28",
-      "artist": "CloZee",
-      "musicTitle": "Pillow Talk",
-      "externalIds": {
-        "pandora": "TR:99642286",
-        "tidal": "304546677",
-        "youtube": "ekpVwf2-4ZY",
-        "youtubeMusic": "ekpVwf2-4ZY"
-      },
-      "createdAt": 1784039753234,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "id": "xby5467EbdU",
+      "title": "Maggot Brain",
+      "channel": "Funkadelic - Topic",
+      "duration": "10:20",
+      "createdAt": 1785785640381,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
-      "id": "ui8Zd0rbm1U",
-      "title": "Ingo Insterburg - Die werdende Mutter",
-      "channel": "unessell",
-      "duration": "0:46",
-      "createdAt": 1784042855359,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+      "id": "-yazMBzbnXQ",
+      "title": "Horda",
+      "channel": "JOAO BOSCO *JOA~O - Topic",
+      "duration": "7:37",
+      "createdAt": 1785786305281,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
-      "id": "sfurYfDZQAg",
-      "title": "Nyuki",
-      "channel": "Siti Muharam - Topic",
-      "duration": "5:10",
-      "createdAt": 1784060256944,
+      "id": "bMbjHmLEUl0",
+      "title": "Get the Balance Right! (Combination Mix)",
+      "channel": "Depeche Mode",
+      "duration": "7:59",
+      "createdAt": 1785846531777,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "hgnhVcyLy1I",
+      "title": "Bell Biv DeVoe - Poison (Official Music Video)",
+      "channel": "Bell Biv Devoe",
+      "duration": "4:56",
+      "createdAt": 1785848492293,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "zLbLw5EGG6E",
+      "title": "Collide",
+      "channel": "upsammy - Topic",
+      "duration": "3:26",
+      "createdAt": 1785941102299,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "VuurjCJCcbE",
+      "title": "Kaiowas",
+      "channel": "Sepultura",
+      "duration": "3:44",
+      "createdAt": 1785951525342,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "mYiV2s3MzZc",
+      "title": "Recondite - Surface",
+      "channel": "Ghostly International",
+      "duration": "4:57",
+      "createdAt": 1785951555032,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "PAky2zCY5-8",
+      "title": "Cerrone - In the Smoke (Official Audio)",
+      "channel": "Cerrone Official",
+      "duration": "5:36",
+      "createdAt": 1785951933648,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "GgTbySLzgZo",
+      "title": "MIST IS SPEAKING",
+      "channel": "Mist",
+      "duration": "3:30",
+      "createdAt": 1785966624861,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "P94wW6zjVmk",
+      "title": "Elvau",
+      "channel": "Paul Valentin - Topic",
+      "duration": "3:49",
+      "createdAt": 1785966866645,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "yXaJDaKaUos",
+      "title": "Contemplation",
+      "channel": "Art Blakey",
+      "duration": "6:19",
+      "createdAt": 1786000697755,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "a7n0BeuZwF0",
+      "title": "Wir retten das Problem",
+      "channel": "Nepumuk - Topic",
+      "duration": "2:45",
+      "createdAt": 1786004520911,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "XkmiDwp_HC4",
+      "title": "DIE ANTWOORD - WE HAVE CANDY (Official Audio)",
+      "channel": "Die Antwoord",
+      "duration": "3:04",
+      "createdAt": 1786008361308,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "fZlisf5dspM",
+      "title": "Mounika. - Tender Love x Ocie Elliott  (Official Video)",
+      "channel": "Mounika.",
+      "duration": "3:20",
+      "createdAt": 1786008531258,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "3qJ8bT3W1D0",
+      "title": "Joe Bonamassa - \"Mountain Climbing\" - Official Music Video",
+      "channel": "JoeBonamassaTV",
+      "duration": "5:59",
+      "createdAt": 1786008659080,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "ENaUOmJyiBc",
+      "title": "Move D - Looking For Grasshoppers",
+      "channel": "lsoulful",
+      "duration": "4:20",
+      "createdAt": 1786016656312,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "p19yBb_RR3A",
+      "title": "Klezmerson - Se Va",
+      "channel": "Alfonso Lopez",
+      "duration": "6:00",
+      "createdAt": 1786021840432,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -121460,5 +121556,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-08-06T08:32:36.438Z"
+  "lastFetched": "2026-08-07T08:35:15.630Z"
 }
