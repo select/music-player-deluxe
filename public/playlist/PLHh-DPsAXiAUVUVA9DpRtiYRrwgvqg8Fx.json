@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4969,
+  "videoCount": 4977,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -758,14 +758,6 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
-      "id": "GLww6vccyos",
-      "title": "Queen West Butterfly",
-      "channel": "Masahiro Takahashi - Topic",
-      "duration": "4:26",
-      "createdAt": 1785148574527,
-      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
       "id": "_GioCYQLBwQ",
       "title": "Hymn",
       "channel": "Gryr",
@@ -844,14 +836,6 @@
       "duration": "5:17",
       "createdAt": 1785401267070,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
-    },
-    {
-      "id": "DrnOUSdFP0c",
-      "title": "ZAMA ZAMA - by \"DIE ANTWOORD\" (CINEMA MODE)",
-      "channel": "ZEFRECORDS",
-      "duration": "18:49",
-      "createdAt": 1785406634282,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "t4FgfXIB1Zc",
@@ -1016,7 +1000,7 @@
     {
       "id": "_g3fckxdvZM",
       "title": "Bandoliers",
-      "channel": "Release - Topic",
+      "channel": "themcrookedvultures",
       "duration": "5:43",
       "createdAt": 1785778518578,
       "userId": "3ee08ffca31371b3deca5e8f4e12823fedee2177ab473545691a8275e35da40b"
@@ -1355,6 +1339,86 @@
       "channel": "CommsBreakdown - Topic",
       "duration": "5:38",
       "createdAt": 1786567333082,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "KJQwrf0QzYo",
+      "title": "Corre-Corre - Rita Lee (1979)",
+      "channel": "George Kaplan",
+      "duration": "4:45",
+      "createdAt": 1786611103423,
+      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
+    },
+    {
+      "id": "uZ7Izh2dOUM",
+      "title": "Donald, Where's Your Troosers?",
+      "channel": "Andy Stewart - Topic",
+      "duration": "3:18",
+      "createdAt": 1786695700704,
+      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
+    },
+    {
+      "id": "H8pYPd7MVOQ",
+      "title": "Danger Dan - Dass es hier so schön ist",
+      "channel": "Danger Dan",
+      "duration": "3:58",
+      "createdAt": 1786717747428,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "8XsAoO00J3Y",
+      "title": "Scrabble",
+      "channel": "René Costy - Topic",
+      "duration": "4:13",
+      "createdAt": 1786787033255,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "7k2gO5VJzo4",
+      "title": "Without a Song (Remastered)",
+      "channel": "Sonny Rollins",
+      "duration": "7:27",
+      "createdAt": 1786876244363,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "LNyJ96w7A7U",
+      "title": "Nils Frahm - Hammers (Official Music Video)",
+      "channel": "Erased Tapes",
+      "duration": "3:35",
+      "createdAt": 1786876943998,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "__0ivimaBes",
+      "title": "Moss II",
+      "channel": "Release - Topic",
+      "duration": "5:02",
+      "createdAt": 1786877056234,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "xnVxN87AzNw",
+      "title": "Marginal Invitation",
+      "channel": "Ｌｕｂｏｍｙｒ　Ｍｅｌｎｙｋ - Topic",
+      "duration": "8:12",
+      "createdAt": 1786878081389,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "B3D3ZfERrrQ",
+      "title": "Erased",
+      "channel": "Johanna Borchert",
+      "duration": "6:31",
+      "createdAt": 1786950256985,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "v_H1Oe_AyRI",
+      "title": "Salah Langkah",
+      "channel": "Alfonso Soliano - Topic",
+      "duration": "3:56",
+      "createdAt": 1786950325193,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
@@ -72874,7 +72938,7 @@
       "playcount": 24352428,
       "lastfmSummary": "\"My Own Summer (Shove It)\" is a song by American alternative metal band Deftones, released in 1997 by Maverick Records as the first single from their second album Around The Fur. It was Deftones' first charting single, reaching number 29 in the UK Singles Chart. The song also features backing vocals from bassist Chi Cheng, in the chorus. The song has been described as a defining track of the nu metal and alternative metal genres.\n\nThe video for \"My Own Summer (Shove It)\" <a href=\"http://www.last.fm/music/Deftones/_/My+Own+Summer+(Shove+It)\">Read more on Last.fm</a>.",
       "artistCountry": "US",
-      "createdAt": 1713168554035,
+      "createdAt": 1786816335259,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
@@ -121756,5 +121820,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-08-13T07:40:21.824Z"
+  "lastFetched": "2026-08-17T07:52:29.723Z"
 }
