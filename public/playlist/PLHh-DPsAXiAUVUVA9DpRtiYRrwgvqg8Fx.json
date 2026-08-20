@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4983,
+  "videoCount": 4986,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -1468,6 +1468,30 @@
       "duration": "4:22",
       "createdAt": 1787046875667,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "7AwpsbQRgVI",
+      "title": "Yard Act - New Beginnings",
+      "channel": "Yard Act",
+      "duration": "3:30",
+      "createdAt": 1787122671911,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "rWgyUTwdIAU",
+      "title": "West Wind",
+      "channel": "Oneness Of Juju - Topic",
+      "duration": "7:43",
+      "createdAt": 1787123554501,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "7EpDylrgOs8",
+      "title": "Put the Sun Back",
+      "channel": "The Coral",
+      "duration": "3:03",
+      "createdAt": 1787124731914,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -121868,5 +121892,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-08-19T07:20:13.042Z"
+  "lastFetched": "2026-08-20T07:10:01.920Z"
 }
