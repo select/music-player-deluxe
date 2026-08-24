@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 4996,
+  "videoCount": 5002,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -1574,6 +1574,54 @@
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
+      "id": "KrRlc1_lr0k",
+      "title": "BAD ADVICE",
+      "channel": "corneliusofficial",
+      "duration": "4:55",
+      "createdAt": 1787376144994,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "oGDA-Vq0EVY",
+      "title": "Weezer - Say Yes (Official Lyric Video)",
+      "channel": "weezer",
+      "duration": "3:06",
+      "createdAt": 1787390500071,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "u9qyMmD0WqQ",
+      "title": "Nduduzo Makhathini, Shabaka Hutchings - Liyoze Line Nangakithi (Visualizer)",
+      "channel": "Nduduzo Makhathini",
+      "duration": "4:27",
+      "createdAt": 1787397119208,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "NSgHGFuPNus",
+      "title": "Death Cab For Cutie - The New Year (Official Video)",
+      "channel": "Death Cab for Cutie",
+      "duration": "4:01",
+      "createdAt": 1787398209814,
+      "userId": "3ee08ffca31371b3deca5e8f4e12823fedee2177ab473545691a8275e35da40b"
+    },
+    {
+      "id": "66UhumsfJTs",
+      "title": "Milestone (feat. Raffaele Fiengo, Massimiliano Cameroni, Giuseppe La Grutta, Riccardo Marchese)",
+      "channel": "Giovanni Falzone - Topic",
+      "duration": "5:37",
+      "createdAt": 1787398691160,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "h51RLKadCKI",
+      "title": "－－ ･ －･･ ･ ･－･･ ･－",
+      "channel": "･ ･－･ ･－ ･･･ ･ －･･ - Topic",
+      "duration": "8:41",
+      "createdAt": 1787399473623,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
       "id": "lUl0nxtWcZs",
       "title": "Boogie All Night Long",
       "channel": "Mizzo - Topic",
@@ -1630,7 +1678,7 @@
       "title": "Mind Enterprises - Negroni Love (Official Video)",
       "channel": "Mind Enterprises",
       "duration": "2:55",
-      "createdAt": 1783765159023,
+      "createdAt": 1787393971078,
       "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
     },
     {
@@ -121972,5 +122020,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-08-22T14:07:13.066Z"
+  "lastFetched": "2026-08-24T07:54:45.813Z"
 }
