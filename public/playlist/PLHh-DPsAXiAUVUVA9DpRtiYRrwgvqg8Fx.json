@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5002,
+  "videoCount": 5007,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -1620,6 +1620,46 @@
       "duration": "8:41",
       "createdAt": 1787399473623,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "hIw7oeZKpZc",
+      "title": "Sleep - Dopesmoker",
+      "channel": "Mayhapse",
+      "duration": "1:03:36",
+      "createdAt": 1787435774814,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "0Ze8f8eEUOg",
+      "title": "Atmospheric Drum & Bass mix 2011 [HQ]",
+      "channel": "newblizz",
+      "duration": "3:22:03",
+      "createdAt": 1787487914736,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "QNvHPiWhKSc",
+      "title": "Esbjörn Svensson Trio - Leverkusener Jazztage (2002, 2005)",
+      "channel": "KizCat",
+      "duration": "59:13",
+      "createdAt": 1787494273045,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "0b5Xs7QoPXA",
+      "title": "Audio Arcade - Dating Clouds",
+      "channel": "Audio Arcade",
+      "duration": "5:27",
+      "createdAt": 1787499020579,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "_1iM4Im4Yqo",
+      "title": "Esbjorn Svensson Trio  - Behind The Yashmak, Car Crash, Dodge The Dodo - LIVE",
+      "channel": "Zycopolis TV",
+      "duration": "37:51",
+      "createdAt": 1787503877296,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -122020,5 +122060,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-08-24T07:54:45.813Z"
+  "lastFetched": "2026-08-25T07:05:50.338Z"
 }
