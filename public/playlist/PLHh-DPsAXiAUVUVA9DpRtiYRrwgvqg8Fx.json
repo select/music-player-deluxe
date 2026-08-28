@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5015,
+  "videoCount": 5018,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -1723,6 +1723,30 @@
       "channel": "Ken Ishii - Topic",
       "duration": "7:45",
       "createdAt": 1787772110792,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "v1hgXlWlA98",
+      "title": "Victor Borge playing eight pianos in his first film (1937)",
+      "channel": "Jens Cornelius",
+      "duration": "1:46",
+      "createdAt": 1787855930048,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "fDltPLFdkYI",
+      "title": "Polyphia - POWER IN THE BLOOD (Official Music Video)",
+      "channel": "Polyphia",
+      "duration": "4:02",
+      "createdAt": 1787858137013,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "OcDiOUQBFd4",
+      "title": "Pink Floyd - Echoes (Official Audio)",
+      "channel": "Pink Floyd",
+      "duration": "23:36",
+      "createdAt": 1787874774444,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
@@ -122124,5 +122148,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-08-27T10:17:52.322Z"
+  "lastFetched": "2026-08-28T07:56:22.979Z"
 }
