@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5026,
+  "videoCount": 5024,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -868,14 +868,6 @@
       "duration": "8:02",
       "createdAt": 1785427897726,
       "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
-    },
-    {
-      "id": "WHHOVePsBwI",
-      "title": "Vexations - Version 3 - Arranged by Jimi Tenor (Remix)",
-      "channel": "Jimi Tenor",
-      "duration": "3:50",
-      "createdAt": 1785494666523,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "snk9BY9E9Gg",
@@ -1764,14 +1756,6 @@
       "duration": "5:01",
       "createdAt": 1788050567537,
       "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
-    },
-    {
-      "id": "CSau9l6pWYE",
-      "title": "Out n' About",
-      "channel": "Lyder Røed - Topic",
-      "duration": "7:13",
-      "createdAt": 1788118677825,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "I2RYhyNFyl8",
@@ -122212,5 +122196,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-09-03T07:44:11.182Z"
+  "lastFetched": "2026-09-05T22:20:29.111Z"
 }
