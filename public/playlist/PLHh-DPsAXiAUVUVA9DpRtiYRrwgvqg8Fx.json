@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5024,
+  "videoCount": 5029,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -1796,6 +1796,46 @@
       "duration": "3:14",
       "createdAt": 1788416603760,
       "userId": "d0e5c86f97e5dc247c758d750c1b51fb9703a9dd023d2b91aad02997159169bc"
+    },
+    {
+      "id": "ZFtMtalfa_Q",
+      "title": "City -  Am Fenster 1978",
+      "channel": "vpkart",
+      "duration": "17:25",
+      "createdAt": 1788528884745,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "zP_jBz5Zmc0",
+      "title": "Be In Two Minds",
+      "channel": "Jasper van't Hofs Pili Pili - Topic",
+      "duration": "5:00",
+      "createdAt": 1788645339678,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "3uJh6Famdgo",
+      "title": "Audrey's Dance (Instrumental)",
+      "channel": "Angelo Badalamenti - Topic",
+      "duration": "5:18",
+      "createdAt": 1788678286894,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "gPMs4TfTvFQ",
+      "title": "Tocotronic - Denn sie wissen, was sie tun",
+      "channel": "Tocotronic",
+      "duration": "3:34",
+      "createdAt": 1788683506009,
+      "userId": "ebaa520bd2bcea52580482aed14bef706c8d4a3d2e1eee62552da651b3d417b6"
+    },
+    {
+      "id": "gdZ_xUucb9s",
+      "title": "Bağrımızda Taş",
+      "channel": "Gaye Su Akyol",
+      "duration": "3:58",
+      "createdAt": 1788725178421,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -60061,7 +60101,7 @@
       "lastfmSummary": "\"Falling\" is the first single from Julee Cruise's 1989 debut album Floating into the Night. The instrumental version of the song became more well known as the theme for the cult television series, Twin Peaks, and won a Grammy Award for Best Pop Instrumental.\n\nThe song itself reached number 11 on the Billboard Alternative charts, number 7 in the UK, and number one in Australia. A remixed version was also released. It is arguably the most successful (at least in commercial terms) of any song of the dream pop genre. <a href=\"http://www.last.fm/music/Julee+Cruise/_/Falling\">Read more on Last.fm</a>.",
       "releasedAt": "1989",
       "artistCountry": "US",
-      "createdAt": 1737189107066,
+      "createdAt": 1788702285771,
       "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
     {
@@ -122196,5 +122236,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-09-05T22:20:29.111Z"
+  "lastFetched": "2026-09-07T14:45:29.557Z"
 }
