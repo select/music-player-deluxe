@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5032,
+  "videoCount": 5037,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -1860,6 +1860,46 @@
       "duration": "3:22",
       "createdAt": 1788862989684,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "Ag0XRlEvap8",
+      "title": "Violent Femmes - American Music",
+      "channel": "Violent Femmes",
+      "duration": "3:45",
+      "createdAt": 1788930069191,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "2SWSD6QVa7c",
+      "title": "Tove Lo - des fleurs x stromae (Official Video)",
+      "channel": "Tove Lo and Stromae",
+      "duration": "2:56",
+      "createdAt": 1788936451047,
+      "userId": "d0e5c86f97e5dc247c758d750c1b51fb9703a9dd023d2b91aad02997159169bc"
+    },
+    {
+      "id": "FuZ0OdtK3P8",
+      "title": "Erasmo Carlos - É Preciso Dar um Jeito, Meu Amigo (Carlos, Erasmo)",
+      "channel": "ERASMO CARLOS",
+      "duration": "3:48",
+      "createdAt": 1788961529246,
+      "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
+    },
+    {
+      "id": "hdrAsZ7ebuc",
+      "title": "Falling For You",
+      "channel": "weezer",
+      "duration": "3:48",
+      "createdAt": 1788970433947,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "KScEW5a_KGY",
+      "title": "Muse - Citizen Erased (XX Anniversary RemiXX) [Official Audio]",
+      "channel": "Muse",
+      "duration": "7:19",
+      "createdAt": 1788970453797,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -18073,8 +18113,8 @@
       "lastfmSummary": "Based on a real story, Matt Shultz sings of meeting a musician named True. The song features philosophical self-reflection, accompanied by the depressing idea of a wasted lifetime.\n\nIn an interview with Entertainment Weekly, lead singer Matt Schultz answers the question: What’s the story being “How Are You True?”\n\n\"I was coming back from New York to Nashville and there was this young kid, super flustered, on the [airplane’s] jet bridge. The flight attendant asked him if he was going to Nashville to get a record deal and he was like <a href=\"http://www.last.fm/music/Cage+the+Elephant/_/How+Are+You+True\">Read more on Last.fm</a>.",
       "releasedAt": "2017-07-27",
       "artistCountry": "US",
-      "createdAt": 1581073380000,
-      "userId": "3fcbd3572bb1adea93916df0b9253fcb487c5dd7682dae5a9673658f89296a83"
+      "createdAt": 1788970412015,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
     },
     {
       "id": "-yhpr-ixpw8",
@@ -122260,5 +122300,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-09-08T23:02:41.459Z"
+  "lastFetched": "2026-09-10T08:45:30.909Z"
 }
