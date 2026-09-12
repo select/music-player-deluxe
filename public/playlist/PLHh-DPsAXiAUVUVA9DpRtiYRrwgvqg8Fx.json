@@ -536,7 +536,7 @@
     {
       "id": "KjV2iL-z6Rk",
       "title": "Danger Dan - Die meisten meiner Freunde",
-      "channel": "Danger Dan and Antilopen Gang",
+      "channel": "Danger Dan",
       "duration": "4:10",
       "createdAt": 1784720912770,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
@@ -752,7 +752,7 @@
     {
       "id": "DOWyEY-VfIw",
       "title": "Overmono & High Contrast - If We Ever",
-      "channel": "Overmono and XL Recordings",
+      "channel": "Overmono",
       "duration": "3:30",
       "createdAt": 1785148129296,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
@@ -888,7 +888,7 @@
     {
       "id": "QZjLqtr2tKM",
       "title": "Sääftig x Takeo Ischi - YODEL TECHNO (Music Video)",
-      "channel": "Sääftig and Takeo Ischi",
+      "channel": "Sääftig",
       "duration": "2:35",
       "createdAt": 1785573425393,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
@@ -1560,7 +1560,7 @@
     {
       "id": "Dg7LaOnK5G0",
       "title": "Spiral Drive & Lord Fascinator - Zug [Official]",
-      "channel": "Spiral Drive and Lord Fascinator",
+      "channel": "Spiral Drive",
       "duration": "5:44",
       "createdAt": 1787328833038,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
@@ -1872,7 +1872,7 @@
     {
       "id": "2SWSD6QVa7c",
       "title": "Tove Lo - des fleurs x stromae (Official Video)",
-      "channel": "Tove Lo and Stromae",
+      "channel": "Tove Lo",
       "duration": "2:56",
       "createdAt": 1788936451047,
       "userId": "d0e5c86f97e5dc247c758d750c1b51fb9703a9dd023d2b91aad02997159169bc"
@@ -122300,5 +122300,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-09-10T22:24:27.493Z"
+  "lastFetched": "2026-09-12T23:52:52.400Z"
 }
