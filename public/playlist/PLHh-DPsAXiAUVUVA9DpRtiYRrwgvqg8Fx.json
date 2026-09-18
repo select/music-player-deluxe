@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5054,
+  "videoCount": 5059,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -2036,6 +2036,46 @@
       "duration": "3:20",
       "createdAt": 1789559186738,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "yZqHvH7VeZQ",
+      "title": "Ozma - Gameover [Official Audio]",
+      "channel": "OZMA",
+      "duration": "3:40",
+      "createdAt": 1789673795072,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "ay7NANaRcyo",
+      "title": "Dumb Song for Virgins to Cry To",
+      "channel": "Billy Cobb - Topic",
+      "duration": "3:20",
+      "createdAt": 1789674008581,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "SFU1GeGFpzY",
+      "title": "Tears For Fears - Everybody Wants To Rule The World",
+      "channel": "Rewind Music Group",
+      "duration": "4:11",
+      "createdAt": 1789691829170,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "ZK4_G4ZhvbA",
+      "title": "The Doobie Brothers - What a Fool Believes (Official Audio)",
+      "channel": "The Doobie Brothers",
+      "duration": "3:47",
+      "createdAt": 1789691909800,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "1MjiNQuKP3s",
+      "title": "FREEDOM TRAIL - Reis Demuth Wiltgen Live at Shuffle Luxembourg Jazz Meeting",
+      "channel": "REIS DEMUTH WILTGEN",
+      "duration": "6:43",
+      "createdAt": 1789692807247,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -122436,5 +122476,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-09-17T08:00:23.690Z"
+  "lastFetched": "2026-09-18T07:42:58.621Z"
 }
