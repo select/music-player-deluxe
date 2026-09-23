@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5067,
+  "videoCount": 5071,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -536,7 +536,7 @@
     {
       "id": "KjV2iL-z6Rk",
       "title": "Danger Dan - Die meisten meiner Freunde",
-      "channel": "Danger Dan and Antilopen Gang",
+      "channel": "Danger Dan",
       "duration": "4:10",
       "createdAt": 1784720912770,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
@@ -752,7 +752,7 @@
     {
       "id": "DOWyEY-VfIw",
       "title": "Overmono & High Contrast - If We Ever",
-      "channel": "Overmono and XL Recordings",
+      "channel": "Overmono",
       "duration": "3:30",
       "createdAt": 1785148129296,
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
@@ -896,7 +896,7 @@
     {
       "id": "QZjLqtr2tKM",
       "title": "Sääftig x Takeo Ischi - YODEL TECHNO (Music Video)",
-      "channel": "Sääftig and Takeo Ischi",
+      "channel": "Sääftig",
       "duration": "2:35",
       "createdAt": 1785573425393,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
@@ -1568,7 +1568,7 @@
     {
       "id": "Dg7LaOnK5G0",
       "title": "Spiral Drive & Lord Fascinator - Zug [Official]",
-      "channel": "Spiral Drive and Lord Fascinator",
+      "channel": "Spiral Drive",
       "duration": "5:44",
       "createdAt": 1787328833038,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
@@ -1888,7 +1888,7 @@
     {
       "id": "2SWSD6QVa7c",
       "title": "Tove Lo - des fleurs x stromae (Official Video)",
-      "channel": "Tove Lo and Stromae",
+      "channel": "Tove Lo",
       "duration": "2:56",
       "createdAt": 1788936451047,
       "userId": "d0e5c86f97e5dc247c758d750c1b51fb9703a9dd023d2b91aad02997159169bc"
@@ -2080,7 +2080,7 @@
     {
       "id": "J9puZJt6ECg",
       "title": "Lord Fascinator & Spiral Drive - Flug [Official]",
-      "channel": "Spiral Drive and Lord Fascinator",
+      "channel": "Spiral Drive",
       "duration": "6:24",
       "createdAt": 1789725446470,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
@@ -2140,6 +2140,38 @@
       "duration": "3:18",
       "createdAt": 1789909274913,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "y2pph0cIUF8",
+      "title": "it's my real name, for real",
+      "channel": "Thor Kissing",
+      "duration": "3:05",
+      "createdAt": 1790079047713,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "agJ6zyTB5ng",
+      "title": "I Got 5 On It",
+      "channel": "Luniz - Topic",
+      "duration": "5:10",
+      "createdAt": 1790102469801,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "sZALWV6Af_A",
+      "title": "Jutes - Kill or be Killed (MAPHRA Vocal Cover)",
+      "channel": "MAPHRA",
+      "duration": "3:22",
+      "createdAt": 1790102486770,
+      "userId": "1617c4ffc2f6395603564d38fd595c559b5a41b09cf010b81a43f31c64ef2009"
+    },
+    {
+      "id": "tkO0A3c_3LI",
+      "title": "Missing (Todd Terry Club Mix)",
+      "channel": "Everything But The Girl",
+      "duration": "4:57",
+      "createdAt": 1790105124377,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -122540,5 +122572,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-09-22T08:22:06.032Z"
+  "lastFetched": "2026-09-23T07:40:17.286Z"
 }
