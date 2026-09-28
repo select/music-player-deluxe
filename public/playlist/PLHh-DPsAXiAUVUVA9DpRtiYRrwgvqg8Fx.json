@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5074,
+  "videoCount": 5086,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -2196,6 +2196,102 @@
       "duration": "4:04",
       "createdAt": 1790195555598,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "yl6Czm_OETc",
+      "title": "Northside - Shall We Take A Trip? (Official Video)",
+      "channel": "London Records",
+      "duration": "4:22",
+      "createdAt": 1790241656444,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "SXBR96Z8_e8",
+      "title": "The Charlatans - Weirdo HD",
+      "channel": "Beggars Banquet Records",
+      "duration": "4:02",
+      "createdAt": 1790242153885,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "gnyIkez44YQ",
+      "title": "Hyper - Space",
+      "channel": "okRegan",
+      "duration": "3:42",
+      "createdAt": 1790331096136,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "xc-HK9DrX-A",
+      "title": "Strider",
+      "channel": "Hällas",
+      "duration": "5:48",
+      "createdAt": 1790355811039,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
+    },
+    {
+      "id": "Qj3SBDq30MI",
+      "title": "Anthony Rother - Bodytalk",
+      "channel": "Hybrid818",
+      "duration": "6:17",
+      "createdAt": 1790356696122,
+      "userId": "3ee08ffca31371b3deca5e8f4e12823fedee2177ab473545691a8275e35da40b"
+    },
+    {
+      "id": "mQ-MRq5Wr38",
+      "title": "Contemplation",
+      "channel": "Solid Space - Topic",
+      "duration": "3:16",
+      "createdAt": 1790379730527,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "-Hb4Luuy58s",
+      "title": "Endless",
+      "channel": "Nami Hotatsu - Topic",
+      "duration": "5:02",
+      "createdAt": 1790381737730,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "rOsiRC9WpEk",
+      "title": "Manzanita",
+      "channel": "Bobby Hutcherson - Topic",
+      "duration": "4:01",
+      "createdAt": 1790382194480,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "Ay0GYyCc7HQ",
+      "title": "Die Toten Hosen // Was ist mit uns los (Offizielles Musikvideo)",
+      "channel": "DIE TOTEN HOSEN",
+      "duration": "3:59",
+      "createdAt": 1790424992283,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "keRFtotwdX8",
+      "title": "Alien Breed - Official 35th Anniversary Collection Announcement Trailer",
+      "channel": "GameTrailers",
+      "duration": "2:00",
+      "createdAt": 1790430810481,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "oXRh06OK8NY",
+      "title": "Stone Axe - Slave Of Fear (1971)",
+      "channel": "ZIGZAG_TUBE",
+      "duration": "4:50",
+      "createdAt": 1790437546272,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "nYhh0yrCWVc",
+      "title": "My Land",
+      "channel": "Sonata Arctica",
+      "duration": "4:38",
+      "createdAt": 1790444929606,
+      "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -122596,5 +122692,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-09-24T07:54:51.936Z"
+  "lastFetched": "2026-09-28T07:27:32.718Z"
 }
