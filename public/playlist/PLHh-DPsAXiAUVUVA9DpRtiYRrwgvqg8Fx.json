@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5086,
+  "videoCount": 5087,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -2292,6 +2292,14 @@
       "duration": "4:38",
       "createdAt": 1790444929606,
       "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "XuF4zME3WkI",
+      "title": "Copenhagen (2011 Remaster)",
+      "channel": "Sort Sol - Topic",
+      "duration": "3:08",
+      "createdAt": 1790619212579,
+      "userId": "f02aac41ad29440ae17a0efd90ba6e14b107c3eb2b15aac51b8d6accb362e3fb"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -122692,5 +122700,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-09-28T07:27:32.718Z"
+  "lastFetched": "2026-09-29T07:19:42.894Z"
 }
