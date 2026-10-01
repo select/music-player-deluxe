@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5088,
+  "videoCount": 5091,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -2308,6 +2308,30 @@
       "duration": "3:25",
       "createdAt": 1790667495282,
       "userId": "3c35c6258cc0353b84bed5d9bb4d8a668f6959a8d9e9e2b431a81c33f6d0d7b7"
+    },
+    {
+      "id": "4ec-MnePMpE",
+      "title": "Chase & Status - Program ft. IRAH",
+      "channel": "Chase & Status",
+      "duration": "3:45",
+      "createdAt": 1790755184963,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "m_GWJcnZCoM",
+      "title": "Aster Aweke - Checheho (Full Album)",
+      "channel": "Aster Aweke",
+      "duration": "1:10:14",
+      "createdAt": 1790758267337,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "pe9OZUUUeiA",
+      "title": "09 Aster Aweke   Ene Ketero Alegn",
+      "channel": "Aster Aweke",
+      "duration": "4:23",
+      "createdAt": 1790766341182,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -122708,5 +122732,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-09-30T07:48:36.242Z"
+  "lastFetched": "2026-10-01T08:17:13.494Z"
 }
