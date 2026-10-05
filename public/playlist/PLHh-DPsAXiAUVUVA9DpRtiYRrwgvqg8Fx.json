@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5094,
+  "videoCount": 5095,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -868,14 +868,6 @@
       "duration": "8:02",
       "createdAt": 1785427897726,
       "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
-    },
-    {
-      "id": "WHHOVePsBwI",
-      "title": "Vexations - Version 3 - Arranged by Jimi Tenor (Remix)",
-      "channel": "Jimi Tenor",
-      "duration": "3:50",
-      "createdAt": 1785494666523,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "snk9BY9E9Gg",
@@ -1766,14 +1758,6 @@
       "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
     },
     {
-      "id": "CSau9l6pWYE",
-      "title": "Out n' About",
-      "channel": "Lyder Røed - Topic",
-      "duration": "7:13",
-      "createdAt": 1788118677825,
-      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
-    },
-    {
       "id": "I2RYhyNFyl8",
       "title": "Djely Fodé Kouyaté - Foni Kebere (Clip Officiel)",
       "channel": "Syllart Records",
@@ -2355,6 +2339,30 @@
       "channel": "Jori Hulkkonen - Topic",
       "duration": "4:36",
       "createdAt": 1790890544270,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "Nsyh7pmfT5M",
+      "title": "Waste of Breath",
+      "channel": "Subhumans - Topic",
+      "duration": "1:59",
+      "createdAt": 1790951397324,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "122__aBqSvY",
+      "title": "Lord Sitar - I Can See For Miles",
+      "channel": "45RPMbyJME ",
+      "duration": "3:41",
+      "createdAt": 1790967751938,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "m0GUbAImHuw",
+      "title": "Liverpool Scene Batpoem",
+      "channel": "greatstampede",
+      "duration": "2:04",
+      "createdAt": 1790971012129,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
@@ -122756,5 +122764,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-10-02T07:28:29.637Z"
+  "lastFetched": "2026-10-05T08:05:58.693Z"
 }
