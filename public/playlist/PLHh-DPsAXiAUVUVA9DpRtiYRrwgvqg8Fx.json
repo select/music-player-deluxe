@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5095,
+  "videoCount": 5100,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -1542,14 +1542,6 @@
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
-      "id": "IauneWGxrgw",
-      "title": "Hodin Hiotra",
-      "channel": "Patrick Molard - Topic",
-      "duration": "7:29",
-      "createdAt": 1787306823768,
-      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
-    },
-    {
       "id": "B-hP1IrIgJk",
       "title": "Strong Like Lion",
       "channel": "Anaïs - Topic",
@@ -2363,6 +2355,54 @@
       "channel": "greatstampede",
       "duration": "2:04",
       "createdAt": 1790971012129,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "hzfJtpG7c0k",
+      "title": "Solveggen! Nå!",
+      "channel": "Lindstrom Official",
+      "duration": "5:11",
+      "createdAt": 1791023412588,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "7c0EDM-Yu9o",
+      "title": "Pink Floyd - See Emily Play",
+      "channel": "Pink Floyd",
+      "duration": "2:49",
+      "createdAt": 1791058357306,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "vm09hoCLFpk",
+      "title": "Computer Sind Doof",
+      "channel": "Spliff",
+      "duration": "2:59",
+      "createdAt": 1791128976701,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "vElULooA0II",
+      "title": "BARRETS - DJ SET Disco & House Classics",
+      "channel": "Barrets",
+      "duration": "6:17",
+      "createdAt": 1791152113872,
+      "userId": "3c35c6258cc0353b84bed5d9bb4d8a668f6959a8d9e9e2b431a81c33f6d0d7b7"
+    },
+    {
+      "id": "9sRogOFa-fg",
+      "title": "Juniper",
+      "channel": "QZB",
+      "duration": "3:26",
+      "createdAt": 1791220113560,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "18x6zXlhxwE",
+      "title": "Wenn man Nazis so behandelte wie Frauen",
+      "channel": "Danger Dan",
+      "duration": "3:29",
+      "createdAt": 1791235166520,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
@@ -122764,5 +122804,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-10-05T08:05:58.693Z"
+  "lastFetched": "2026-10-06T07:20:51.624Z"
 }
