@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5107,
+  "videoCount": 5113,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -2460,6 +2460,54 @@
       "duration": "0:34",
       "createdAt": 1791819052341,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "F-k_Fr67bPQ",
+      "title": "Erkin Koray - Cemalim (1974, High Quality)",
+      "channel": "Erkin Koray Official",
+      "duration": "7:49",
+      "createdAt": 1791880912957,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "NZHQbDB80CU",
+      "title": "Moğollar - Haliç'te Güneşin Batışı (1970)",
+      "channel": "Anatolian Rock Revival Project",
+      "duration": "4:23",
+      "createdAt": 1791882215386,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "TDfadvkNfIg",
+      "title": "Yègellé Tezeta",
+      "channel": "Mulatu Astatke",
+      "duration": "3:19",
+      "createdAt": 1791885232540,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "DM2ebKJn4Yk",
+      "title": "Derya Yıldırım & Grup Şimşek - Ceylan",
+      "channel": "Big Crown Records",
+      "duration": "3:18",
+      "createdAt": 1791890936739,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "jAfLlXf-0Eo",
+      "title": "Nas & Damian Marley - As We Enter",
+      "channel": "Malboras",
+      "duration": "2:59",
+      "createdAt": 1791891429190,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "AKGjTPZTFSs",
+      "title": "Ellen Allien - Sehnsucht",
+      "channel": "Labyrinth",
+      "duration": "6:21",
+      "createdAt": 1791891495837,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -122860,5 +122908,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-10-13T08:20:04.139Z"
+  "lastFetched": "2026-10-14T07:40:19.018Z"
 }
