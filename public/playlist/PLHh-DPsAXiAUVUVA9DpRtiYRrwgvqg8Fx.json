@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5120,
+  "videoCount": 5123,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -2563,6 +2563,30 @@
       "channel": "Ëda Diaz",
       "duration": "2:32",
       "createdAt": 1792239309996,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "srTifuxBH2U",
+      "title": "Xr 7 Instrumental - Original Mix",
+      "channel": "Xr7 - Topic",
+      "duration": "4:04",
+      "createdAt": 1792275919798,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "hDxLezViDiI",
+      "title": "Blair / Huber - CHASING DOWN LESSING STREET (Official Audio)",
+      "channel": "LEITER",
+      "duration": "2:49",
+      "createdAt": 1792326280102,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "BEBrqSBAuZs",
+      "title": "Just As Long As We're In Love",
+      "channel": "Terry Callier - Topic",
+      "duration": "3:41",
+      "createdAt": 1792332447088,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
@@ -122964,5 +122988,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-10-19T07:59:13.030Z"
+  "lastFetched": "2026-10-20T09:18:37.452Z"
 }
