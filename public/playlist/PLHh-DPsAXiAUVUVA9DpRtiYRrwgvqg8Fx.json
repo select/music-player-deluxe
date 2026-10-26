@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5135,
+  "videoCount": 5141,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -2684,6 +2684,54 @@
       "duration": "3:29",
       "createdAt": 1792767206747,
       "userId": "be385838b383cf916df8dea77fdf268d48d97047de6d28ddab34e3c81e662651"
+    },
+    {
+      "id": "cCW845IuYyw",
+      "title": "Stains",
+      "channel": "Bleeding Stones",
+      "duration": "3:49",
+      "createdAt": 1792834992555,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "Y-h98hFYusc",
+      "title": "Hot Hot Heat - Goodnight Goodnight (Video)",
+      "channel": "Warner Records Vault",
+      "duration": "2:12",
+      "createdAt": 1792879696574,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "DwCCMHe4GHA",
+      "title": "Die Ärzte - Schrei Nach Liebe - Remastered - 4K",
+      "channel": "CaptainCarlossi",
+      "duration": "4:12",
+      "createdAt": 1792935313270,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "Cziq_IN4F5A",
+      "title": "Horace Andy - Safe From Harm",
+      "channel": "On-U Sound",
+      "duration": "4:53",
+      "createdAt": 1792964818237,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "hOS9NT2amA8",
+      "title": "Lang scho nimmer g'sehn",
+      "channel": "Haindling - Topic",
+      "duration": "3:53",
+      "createdAt": 1792969246735,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "dJnoWpGPXIA",
+      "title": "Cold Summer",
+      "channel": "C418",
+      "duration": "8:11",
+      "createdAt": 1792972208351,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -123084,5 +123132,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-10-24T23:25:38.063Z"
+  "lastFetched": "2026-10-26T08:58:57.862Z"
 }
