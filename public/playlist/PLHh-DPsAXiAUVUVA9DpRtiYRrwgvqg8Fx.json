@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5157,
+  "videoCount": 5161,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -2860,6 +2860,38 @@
       "duration": "4:14",
       "createdAt": 1793780987804,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "RFLTBfFaTtw",
+      "title": "Yehoud I - Leave Babylon",
+      "channel": "Daniel Chassot",
+      "duration": "9:56",
+      "createdAt": 1793809789402,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "Lhbx8ovfu1E",
+      "title": "Die Verlierer - Bomben (official video)",
+      "channel": "BRETFORD",
+      "duration": "4:44",
+      "createdAt": 1793810748407,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "Z1Zynyudags",
+      "title": "MEUTE - Molecular",
+      "channel": "MEUTE",
+      "duration": "6:35",
+      "createdAt": 1793818335202,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "GKY--qaHWSw",
+      "title": "Black Sabbath \"The Wizard\"",
+      "channel": "Bill Carter",
+      "duration": "4:27",
+      "createdAt": 1793827224908,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -123260,5 +123292,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-11-04T09:07:56.652Z"
+  "lastFetched": "2026-11-05T09:06:30.817Z"
 }
