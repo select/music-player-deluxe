@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5163,
+  "videoCount": 5166,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -1552,7 +1552,7 @@
     {
       "id": "B-hP1IrIgJk",
       "title": "Strong Like Lion",
-      "channel": "Anais - Topic",
+      "channel": "Anaïs - Topic",
       "duration": "2:36",
       "createdAt": 1787314527698,
       "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
@@ -2908,6 +2908,30 @@
       "duration": "6:09",
       "createdAt": 1793906627341,
       "userId": "badd6c8e73f5025e176845ccae104b5c21e6ca3d3df4b886a59ab6d5f2eaf095"
+    },
+    {
+      "id": "o7cjZ7KEhx4",
+      "title": "Dezarie Phoenix - Hold On [Official Video 2025]",
+      "channel": "Reggaeville",
+      "duration": "4:03",
+      "createdAt": 1793965704472,
+      "userId": "707723d8403f2d5d5de44b254c7d091f565ae329784db7905f9dbf1133175d48"
+    },
+    {
+      "id": "NK2AYc9UVCU",
+      "title": "NxWorries (Anderson .Paak & Knxwledge) - 86Sentra [Official Visual]",
+      "channel": "NxWorries",
+      "duration": "1:36",
+      "createdAt": 1793973755778,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "KKXQPrKZBQ0",
+      "title": "P.LAY",
+      "channel": "Mark Guiliana",
+      "duration": "5:32",
+      "createdAt": 1793974782353,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
       "id": "lUl0nxtWcZs",
@@ -123308,5 +123332,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-11-06T09:31:19.686Z"
+  "lastFetched": "2026-11-07T19:55:19.883Z"
 }
