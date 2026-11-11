@@ -2,7 +2,7 @@
   "id": "PLHh-DPsAXiAUVUVA9DpRtiYRrwgvqg8Fx",
   "title": "Musik Gruppe 2025",
   "description": "",
-  "videoCount": 5175,
+  "videoCount": 5182,
   "videos": [
     {
       "id": "sfurYfDZQAg",
@@ -3003,6 +3003,62 @@
       "channel": "Squama Recordings",
       "duration": "5:05",
       "createdAt": 1794228671557,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "-RljUcqvIeM",
+      "title": "corto.alto - 'THIEF' (Official Visualiser)",
+      "channel": "corto. alto",
+      "duration": "3:03",
+      "createdAt": 1794243719051,
+      "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
+    },
+    {
+      "id": "CD_tD26E7k0",
+      "title": "XXXTENTACION - Revenge (Audio)",
+      "channel": "XXXTENTACION",
+      "duration": "2:01",
+      "createdAt": 1794257397929,
+      "userId": "468cc7e78f25ea7728aa7d1c810fe0cbdb1979eb52432b9bab477d482935df39"
+    },
+    {
+      "id": "YPP__3DkR-I",
+      "title": "Sopwith Camel - Fazon (1973)",
+      "channel": "Contain Yr Brain",
+      "duration": "5:15",
+      "createdAt": 1794263899957,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "q48aLvGw0NY",
+      "title": "The Advancement - Stone Folk",
+      "channel": "6Lord6Chaos6",
+      "duration": "3:14",
+      "createdAt": 1794266122623,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "MUzHWDIv5wA",
+      "title": "Slam Dunk in a Black Hole",
+      "channel": "The Comet Is Coming",
+      "duration": "2:26",
+      "createdAt": 1794329862430,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "wlu1r28IyiA",
+      "title": "Loidis - Running Rich [INC-031]",
+      "channel": "Acidalia",
+      "duration": "10:06",
+      "createdAt": 1794344917569,
+      "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
+    },
+    {
+      "id": "Y6FSeWcXo0A",
+      "title": "PISS - i wanted to be a singer (Official Audio)",
+      "channel": "PISS",
+      "duration": "2:41",
+      "createdAt": 1794345633889,
       "userId": "4dfee1ab6a0da0c8a9cd52f390b96f82df65ec516d4808b278ff1a4bab77b4dd"
     },
     {
@@ -123404,5 +123460,5 @@
       "userId": "ada24a60a601d6812a27d2e1b855f4dc6009a20592f17ad09d525842323634d1"
     }
   ],
-  "lastFetched": "2026-11-10T09:28:36.296Z"
+  "lastFetched": "2026-11-11T09:25:36.831Z"
 }
